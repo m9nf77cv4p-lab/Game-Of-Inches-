@@ -1,0 +1,42 @@
+[
+  {
+    "draft_id": "1182525546322374657",
+    "league_id": "1182525546322374656",
+    "name": "Game of Inches",
+    "previous_league_id": "1048270262652825600",
+    "season": "2025",
+    "status": "complete"
+  },
+  {
+    "draft_id": "1048270262652825601",
+    "league_id": "1048270262652825600",
+    "name": "Game of Inches",
+    "previous_league_id": "916886811908263936",
+    "season": "2024",
+    "status": "complete"
+  },
+  {
+    "draft_id": "916886811908263937",
+    "league_id": "916886811908263936",
+    "name": "Game of Inches",
+    "previous_league_id": "784479885438627840",
+    "season": "2023",
+    "status": "complete"
+  },
+  {
+    "draft_id": "784479885438627841",
+    "league_id": "784479885438627840",
+    "name": "Game of Inches",
+    "previous_league_id": "726539803386011648",
+    "season": "2022",
+    "status": "complete"
+  },
+  {
+    "draft_id": "726539805688700928",
+    "league_id": "726539803386011648",
+    "name": "Game of Inches",
+    "previous_league_id": null,
+    "season": "2021",
+    "status": "complete"
+  }
+]

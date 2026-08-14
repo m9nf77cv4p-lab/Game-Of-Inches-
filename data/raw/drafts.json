@@ -1,0 +1,63 @@
+[
+  {
+    "created": 1767185664176,
+    "creators": [
+      "563234061722038272"
+    ],
+    "draft_id": "1312075409784856576",
+    "draft_order": {
+      "467113320793501696": 8,
+      "473364581066993664": 5,
+      "563234061722038272": 11,
+      "570013411380367360": 9,
+      "674795837020262400": 2,
+      "726599421160165377": 10,
+      "727301621322706944": 7,
+      "727601365655810048": 12,
+      "728271749338251264": 3,
+      "729354102416498688": 4,
+      "729520870795665408": 1,
+      "980272839611740160": 6
+    },
+    "last_message_id": "1389128828655243264",
+    "last_message_time": 1785556630818,
+    "last_picked": 1785556630026,
+    "league_id": "1312075409780649984",
+    "metadata": {
+      "description": "",
+      "name": "Game of Inches",
+      "scoring_type": "dynasty_2qb",
+      "show_team_names": "0"
+    },
+    "season": "2026",
+    "season_type": "regular",
+    "settings": {
+      "alpha_sort": 0,
+      "autopause_enabled": 0,
+      "autopause_end_time": 840,
+      "autopause_start_time": 120,
+      "autostart": 0,
+      "cpu_autopick": 1,
+      "enforce_position_limits": 1,
+      "nomination_timer": 60,
+      "pick_timer": 0,
+      "player_type": 0,
+      "reversal_round": 0,
+      "rounds": 4,
+      "slots_bn": 11,
+      "slots_def": 1,
+      "slots_flex": 1,
+      "slots_k": 1,
+      "slots_qb": 1,
+      "slots_rb": 2,
+      "slots_super_flex": 1,
+      "slots_te": 1,
+      "slots_wr": 3,
+      "teams": 12
+    },
+    "sport": "nfl",
+    "start_time": 1785070003875,
+    "status": "complete",
+    "type": "linear"
+  }
+]
