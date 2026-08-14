@@ -27,7 +27,7 @@ jobs:
         run: python scripts/sync_game_of_inches.py
       - name: Commit changed Sleeper data
         run: |
-          if git diff --quiet; then
+          if [[ -z "$(git status --porcelain -- data/ reports/)" ]]; then
             echo "Sleeper data is unchanged."
             exit 0
           fi
@@ -36,4 +36,3 @@ jobs:
           git add data/ reports/
           git commit -m "Refresh Game of Inches Sleeper data"
           git push
-
