@@ -21861,7 +21861,7 @@
       ],
       "first_name": "Tua",
       "full_name": "Tua Tagovailoa",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Tagovailoa",
       "nfl_team": "ATL",
       "player_id": "6768",
@@ -22821,7 +22821,7 @@
       ],
       "first_name": "Jahmyr",
       "full_name": "Jahmyr Gibbs",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Gibbs",
       "nfl_team": "DET",
       "player_id": "9221",
@@ -23377,8 +23377,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-14T12:53:10Z",
-    "source_fingerprint": "bdbee629513f738aed983484de91f51a221248bfa1fa74cf1701e204fce179b2"
+    "last_changed_at": "2026-08-14T15:12:21Z",
+    "source_fingerprint": "1ce3081924bd50dff73471975e6c3499a606487dac5cc2bfc7b11395af3b2e02"
   },
   "teams": [
     {

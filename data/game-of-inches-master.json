@@ -21111,7 +21111,7 @@
       ],
       "first_name": "Geno",
       "full_name": "Geno Smith",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Smith",
       "nfl_team": "NYJ",
       "player_id": "1373",
@@ -23377,8 +23377,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-14T15:12:21Z",
-    "source_fingerprint": "1ce3081924bd50dff73471975e6c3499a606487dac5cc2bfc7b11395af3b2e02"
+    "last_changed_at": "2026-08-14T22:53:52Z",
+    "source_fingerprint": "0c3e01207bdc216a3322546d106080bb9b0bb48ea0f792443c32c50f41718dd9"
   },
   "teams": [
     {
