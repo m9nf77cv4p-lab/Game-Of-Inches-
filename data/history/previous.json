@@ -19565,7 +19565,7 @@
       ],
       "first_name": "Trey",
       "full_name": "Trey Benson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Benson",
       "nfl_team": "ARI",
       "player_id": "11589",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-15T05:44:23Z",
-    "source_fingerprint": "aab7023ff89e3660da40f16fef3b74ef120728d8d32331ba67bce7358ad74919"
+    "last_changed_at": "2026-08-15T16:56:02Z",
+    "source_fingerprint": "752d73d4466dc96db6b625e434e12d970c85abc6b986cf3d3d951e8de979f1c6"
   },
   "teams": [
     {
