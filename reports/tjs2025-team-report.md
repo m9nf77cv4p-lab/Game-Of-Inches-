@@ -19,13 +19,13 @@
 - Chris Rodriguez — RB — JAX
 - Christian McCaffrey — RB — SF
 - Derrick Henry — RB — BAL
+- Justice Hill — RB — BAL
 - Rico Dowdle — RB — PIT
 - Trey Benson — RB — ARI
 - Cade Otton — TE — TB
 - Hunter Henry — TE — NE
-- Jake Tonges — TE — SF
 - Travis Kelce — TE — KC
-- Darius Slayton — WR — NYG
+- Calvin Ridley — WR — TEN
 - Davante Adams — WR — LAR
 - Elic Ayomanor — WR — TEN
 - Jalen Nailor — WR — LV
