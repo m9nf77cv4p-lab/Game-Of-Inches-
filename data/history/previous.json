@@ -20255,7 +20255,7 @@
       ],
       "first_name": "Jaxson",
       "full_name": "Jaxson Dart",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Dart",
       "nfl_team": "NYG",
       "player_id": "12508",
@@ -21561,7 +21561,7 @@
       ],
       "first_name": "DJ",
       "full_name": "DJ Moore",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Moore",
       "nfl_team": "BUF",
       "player_id": "4983",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-15T16:56:02Z",
-    "source_fingerprint": "752d73d4466dc96db6b625e434e12d970c85abc6b986cf3d3d951e8de979f1c6"
+    "last_changed_at": "2026-08-15T17:44:53Z",
+    "source_fingerprint": "45cc7627147c5abee15bbe143d3c80aaab8bfbdb5e635182cc490b73c0f6ec71"
   },
   "teams": [
     {

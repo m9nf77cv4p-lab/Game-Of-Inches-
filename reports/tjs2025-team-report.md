@@ -27,10 +27,10 @@
 - Travis Kelce — TE — KC
 - Calvin Ridley — WR — TEN
 - Davante Adams — WR — LAR
+- Deebo Samuel — WR — SF
 - Elic Ayomanor — WR — TEN
 - Jalen Nailor — WR — LV
 - Pat Bryant — WR — DEN
-- Stefon Diggs — WR — WAS
 - Tre Tucker — WR — LV
 
 ## Acquired future picks
