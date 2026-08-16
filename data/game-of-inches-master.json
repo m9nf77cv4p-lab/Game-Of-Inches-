@@ -20496,7 +20496,7 @@
       ],
       "first_name": "Kyle",
       "full_name": "Kyle Monangai",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Monangai",
       "nfl_team": "CHI",
       "player_id": "12534",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-16T17:39:39Z",
-    "source_fingerprint": "61daefe1851f387ab121b7b782f4910822a3c711d3dca5bfc85df5b179f9cbd3"
+    "last_changed_at": "2026-08-16T21:39:55Z",
+    "source_fingerprint": "eaa89a929d56a1613f61137c5ffb07f41d1ed31cc9475e09c5cc6b3d2f419361"
   },
   "teams": [
     {
