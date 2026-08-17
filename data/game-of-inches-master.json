@@ -20691,7 +20691,7 @@
       ],
       "first_name": "Jordyn",
       "full_name": "Jordyn Tyson",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "Tyson",
       "nfl_team": "NO",
       "player_id": "13281",
@@ -20721,7 +20721,7 @@
       ],
       "first_name": "Jadarian",
       "full_name": "Jadarian Price",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Price",
       "nfl_team": "SEA",
       "player_id": "13286",
@@ -21111,7 +21111,7 @@
       ],
       "first_name": "Geno",
       "full_name": "Geno Smith",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Smith",
       "nfl_team": "NYJ",
       "player_id": "1373",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-17T21:54:40Z",
-    "source_fingerprint": "fd0766f1955b7fd2af9e04dc6c08f582319396a7c3798c3fbe341928cb9eee65"
+    "last_changed_at": "2026-08-17T22:54:29Z",
+    "source_fingerprint": "b81035df881323df76ef5d7026fcc68fe7922b5620aea0870a5665f05857f428"
   },
   "teams": [
     {
