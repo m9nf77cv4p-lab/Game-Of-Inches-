@@ -20526,7 +20526,7 @@
       ],
       "first_name": "Jaylin",
       "full_name": "Jaylin Noel",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Noel",
       "nfl_team": "HOU",
       "player_id": "12536",
@@ -20886,7 +20886,7 @@
       ],
       "first_name": "Chris",
       "full_name": "Chris Bell",
-      "injury_status": "PUP",
+      "injury_status": null,
       "last_name": "Bell",
       "nfl_team": "MIA",
       "player_id": "13311",
@@ -22671,7 +22671,7 @@
       ],
       "first_name": "Breece",
       "full_name": "Breece Hall",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Hall",
       "nfl_team": "NYJ",
       "player_id": "8155",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-17T05:22:44Z",
-    "source_fingerprint": "c854e34f9a66be6b88f2f07e2f831796f716efe5741336f87a69137458734524"
+    "last_changed_at": "2026-08-17T13:56:26Z",
+    "source_fingerprint": "9d45a7aa30a9f8fcd555330535670bc3cf28454c5de885353d8c550205f809e9"
   },
   "teams": [
     {
