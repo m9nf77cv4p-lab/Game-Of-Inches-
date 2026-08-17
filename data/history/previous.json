@@ -22596,7 +22596,7 @@
       ],
       "first_name": "Garrett",
       "full_name": "Garrett Wilson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Wilson",
       "nfl_team": "NYJ",
       "player_id": "8146",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-17T13:56:26Z",
-    "source_fingerprint": "9d45a7aa30a9f8fcd555330535670bc3cf28454c5de885353d8c550205f809e9"
+    "last_changed_at": "2026-08-17T14:57:51Z",
+    "source_fingerprint": "4a59ff9c5dc8bd51bfdd6b0820a12185aa68e03cd5ec5fdb0888d2eb11a0e7b4"
   },
   "teams": [
     {
