@@ -22611,7 +22611,7 @@
       ],
       "first_name": "Jameson",
       "full_name": "Jameson Williams",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Williams",
       "nfl_team": "DET",
       "player_id": "8148",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-17T19:37:31Z",
-    "source_fingerprint": "24743c8bad9fee3fbf7f98752bd9a5fa54691cc732098d61e16df709bdfeeb57"
+    "last_changed_at": "2026-08-17T21:54:40Z",
+    "source_fingerprint": "fd0766f1955b7fd2af9e04dc6c08f582319396a7c3798c3fbe341928cb9eee65"
   },
   "teams": [
     {
