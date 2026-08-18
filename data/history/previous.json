@@ -21201,7 +21201,7 @@
       ],
       "first_name": "Mike",
       "full_name": "Mike Evans",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Evans",
       "nfl_team": "SF",
       "player_id": "2216",
@@ -23151,7 +23151,7 @@
       ],
       "first_name": "Quentin",
       "full_name": "Quentin Johnston",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Johnston",
       "nfl_team": "LAC",
       "player_id": "9754",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-18T18:00:45Z",
-    "source_fingerprint": "dd4743633158fce77765d89a4638484baf5582285e1ffd3e2421eab0b904c9e8"
+    "last_changed_at": "2026-08-18T19:35:49Z",
+    "source_fingerprint": "2d67842253c2f06c3958ed7c5acc26051aa0439631f14714694a4e9b64e5a312"
   },
   "teams": [
     {

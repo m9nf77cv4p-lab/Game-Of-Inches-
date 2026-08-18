@@ -21066,7 +21066,7 @@
       ],
       "first_name": "Kaelon",
       "full_name": "Kaelon Black",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Black",
       "nfl_team": "SF",
       "player_id": "13414",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-18T19:35:49Z",
-    "source_fingerprint": "2d67842253c2f06c3958ed7c5acc26051aa0439631f14714694a4e9b64e5a312"
+    "last_changed_at": "2026-08-18T20:56:22Z",
+    "source_fingerprint": "493e3b74a807437b8d6490e9a11855061ccf33d0fbf415d5813719b01aa07ce7"
   },
   "teams": [
     {
