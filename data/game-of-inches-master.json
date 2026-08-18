@@ -20045,7 +20045,7 @@
       ],
       "first_name": "Jayden",
       "full_name": "Jayden Higgins",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Higgins",
       "nfl_team": "HOU",
       "player_id": "12484",
@@ -21561,7 +21561,7 @@
       ],
       "first_name": "DJ",
       "full_name": "DJ Moore",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Moore",
       "nfl_team": "BUF",
       "player_id": "4983",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-18T14:07:18Z",
-    "source_fingerprint": "6841d7e6efd61aad7261bf8f0a3108fb17e43564c8e7f35f9611e86fed0e0fc6"
+    "last_changed_at": "2026-08-18T15:51:06Z",
+    "source_fingerprint": "38960a9230a1f93ebb15c0f3dea36288579026120b44daaeb049325596ceeaf2"
   },
   "teams": [
     {
