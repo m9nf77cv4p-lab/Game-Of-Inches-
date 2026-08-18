@@ -21381,7 +21381,7 @@
       ],
       "first_name": "Alvin",
       "full_name": "Alvin Kamara",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Kamara",
       "nfl_team": "NO",
       "player_id": "4035",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-18T20:56:22Z",
-    "source_fingerprint": "493e3b74a807437b8d6490e9a11855061ccf33d0fbf415d5813719b01aa07ce7"
+    "last_changed_at": "2026-08-18T23:49:05Z",
+    "source_fingerprint": "d851069a8655a6f8dc1e31654831ddeaafc9a0c3c42a5b5b4daa40216780bd08"
   },
   "teams": [
     {
