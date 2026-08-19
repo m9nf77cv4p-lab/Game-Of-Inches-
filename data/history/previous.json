@@ -20300,7 +20300,7 @@
       ],
       "first_name": "Quinshon",
       "full_name": "Quinshon Judkins",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Judkins",
       "nfl_team": "CLE",
       "player_id": "12512",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-19T19:12:16Z",
-    "source_fingerprint": "27a1567254b8dc6a7cfed64cf4517443a77fe3184b5cce7117d0946b1f8e7477"
+    "last_changed_at": "2026-08-19T19:58:43Z",
+    "source_fingerprint": "77cb052672e5f62c5eb293c83956f73fe4b6419544afffae396e8ba0944a5674"
   },
   "teams": [
     {
