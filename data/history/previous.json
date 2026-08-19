@@ -19529,7 +19529,7 @@
       "years_exp": 2
     },
     "11584": {
-      "age": 23,
+      "age": 24,
       "fantasy_positions": [
         "RB"
       ],
@@ -19874,7 +19874,7 @@
       "years_exp": 2
     },
     "1166": {
-      "age": 37,
+      "age": 38,
       "fantasy_positions": [
         "QB"
       ],
@@ -19940,7 +19940,7 @@
       ],
       "first_name": "Jaydon",
       "full_name": "Jaydon Blue",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Blue",
       "nfl_team": "DAL",
       "player_id": "12457",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-18T23:49:05Z",
-    "source_fingerprint": "d851069a8655a6f8dc1e31654831ddeaafc9a0c3c42a5b5b4daa40216780bd08"
+    "last_changed_at": "2026-08-19T03:12:40Z",
+    "source_fingerprint": "af58c7bc4af0c6afa7bf7e8fac67043bc3d935a2f0ad065712d73273af707460"
   },
   "teams": [
     {
