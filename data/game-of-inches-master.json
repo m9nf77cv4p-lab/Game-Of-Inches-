@@ -20000,7 +20000,7 @@
       ],
       "first_name": "Devin",
       "full_name": "Devin Neal",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Neal",
       "nfl_team": "NO",
       "player_id": "12476",
@@ -21816,7 +21816,7 @@
       ],
       "first_name": "Tony",
       "full_name": "Tony Pollard",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Pollard",
       "nfl_team": "TEN",
       "player_id": "5967",
@@ -22521,7 +22521,7 @@
       ],
       "first_name": "Rachaad",
       "full_name": "Rachaad White",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "White",
       "nfl_team": "WAS",
       "player_id": "8136",
@@ -22866,7 +22866,7 @@
       ],
       "first_name": "Tank",
       "full_name": "Tank Bigsby",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Bigsby",
       "nfl_team": "PHI",
       "player_id": "9225",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-19T06:02:34Z",
-    "source_fingerprint": "16e6ce89f377090841ac713490a9f08f9ac0ff3fe4eeb1dbc8ee2e1e14958062"
+    "last_changed_at": "2026-08-19T15:50:42Z",
+    "source_fingerprint": "b90debb1cdbf19d823bd1581244d82ed3f9e9b30e4221e4212528b77b5a574a1"
   },
   "teams": [
     {
