@@ -20345,7 +20345,7 @@
       ],
       "first_name": "Tyler",
       "full_name": "Tyler Warren",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Warren",
       "nfl_team": "IND",
       "player_id": "12518",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-19T19:58:43Z",
-    "source_fingerprint": "77cb052672e5f62c5eb293c83956f73fe4b6419544afffae396e8ba0944a5674"
+    "last_changed_at": "2026-08-19T20:59:58Z",
+    "source_fingerprint": "1143e958400b6ac7a33493f3900b640cefe4c5ea63d0c833b9d60d1815126c12"
   },
   "teams": [
     {
