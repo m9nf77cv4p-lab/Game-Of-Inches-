@@ -20045,7 +20045,7 @@
       ],
       "first_name": "Jayden",
       "full_name": "Jayden Higgins",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "Higgins",
       "nfl_team": "HOU",
       "player_id": "12484",
@@ -23392,8 +23392,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-19T15:50:42Z",
-    "source_fingerprint": "b90debb1cdbf19d823bd1581244d82ed3f9e9b30e4221e4212528b77b5a574a1"
+    "last_changed_at": "2026-08-19T16:59:44Z",
+    "source_fingerprint": "36b7754d91cb201c3b6bc2636f923ee86b73515ff2de34ce238a264575498410"
   },
   "teams": [
     {
