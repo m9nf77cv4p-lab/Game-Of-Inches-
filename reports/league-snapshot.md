@@ -19,4 +19,4 @@
 - Roster 9: **Taylor Gang** (Toley6) — 22 players
 - Roster 10: **Help Me Help You 🧍🏾‍♂️** (midedunni) — 26 players
 - Roster 11: **Trader Low's** (BirdgangB) — 23 players
-- Roster 12: **Hock Tua** (jvm835) — 23 players
+- Roster 12: **Hock Tua** (jvm835) — 24 players
