@@ -22257,7 +22257,7 @@
       ],
       "first_name": "Najee",
       "full_name": "Najee Harris",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Harris",
       "nfl_team": "NYG",
       "player_id": "7528",
@@ -23443,8 +23443,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-20T06:03:53Z",
-    "source_fingerprint": "e140f32f42161a8e698215eea9a0180fd0433d5e9ce5cb90f919a4be62f0bc6c"
+    "last_changed_at": "2026-08-20T15:54:32Z",
+    "source_fingerprint": "280d7867b563cb5dbc2a94e6d89a0e0534dcc2cc787b596e9462b68b0101903c"
   },
   "teams": [
     {
