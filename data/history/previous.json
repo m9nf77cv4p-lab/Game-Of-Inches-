@@ -1389,7 +1389,7 @@
       "daily_waivers": 1,
       "daily_waivers_days": 5461,
       "daily_waivers_hour": 22,
-      "daily_waivers_last_ran": 19,
+      "daily_waivers_last_ran": 20,
       "disable_adds": 0,
       "disable_trades": 0,
       "draft_rounds": 4,
@@ -23443,8 +23443,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-21T03:31:07Z",
-    "source_fingerprint": "066bb9a3db9cc1f6bdf76efa598d43066dcb3ac94b25ab9f73dccaa8accdf9b8"
+    "last_changed_at": "2026-08-21T05:17:03Z",
+    "source_fingerprint": "ac67fa4ea27a9b5309283158e81cbdc1239ffdab69368ed9a5ffa7fcb8f38170"
   },
   "teams": [
     {
