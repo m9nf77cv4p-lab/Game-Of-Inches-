@@ -20547,7 +20547,7 @@
       ],
       "first_name": "Jacory",
       "full_name": "Jacory Croskey-Merritt",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Croskey-Merritt",
       "nfl_team": "WAS",
       "player_id": "12533",
@@ -23458,8 +23458,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-22T10:52:59Z",
-    "source_fingerprint": "4ebdabc150570b96898176904c71cab99f197ce74b79a495edc0253c3cd31f1e"
+    "last_changed_at": "2026-08-22T14:53:48Z",
+    "source_fingerprint": "637a162904cb5db2c7e0312866bec2150f71d8652244993ea701a9542bae4de2"
   },
   "teams": [
     {
