@@ -19496,7 +19496,7 @@
       ],
       "first_name": "J.J.",
       "full_name": "J.J. McCarthy",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "McCarthy",
       "nfl_team": "MIN",
       "player_id": "11565",
@@ -20922,7 +20922,7 @@
       ],
       "first_name": "Adam",
       "full_name": "Adam Randall",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Randall",
       "nfl_team": "BAL",
       "player_id": "13302",
@@ -23458,8 +23458,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-22T14:53:48Z",
-    "source_fingerprint": "637a162904cb5db2c7e0312866bec2150f71d8652244993ea701a9542bae4de2"
+    "last_changed_at": "2026-08-22T20:50:43Z",
+    "source_fingerprint": "836c1552061d3da381de6206802aa8be28c9ffab58cff63181528ec257be837b"
   },
   "teams": [
     {

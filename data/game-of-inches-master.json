@@ -20066,7 +20066,7 @@
       ],
       "first_name": "Devin",
       "full_name": "Devin Neal",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Neal",
       "nfl_team": "NO",
       "player_id": "12476",
@@ -20201,7 +20201,7 @@
       ],
       "first_name": "Ollie",
       "full_name": "Ollie Gordon",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Gordon",
       "nfl_team": "MIA",
       "player_id": "12495",
@@ -21147,7 +21147,7 @@
       ],
       "first_name": "De'Zhaun",
       "full_name": "De'Zhaun Stribling",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Stribling",
       "nfl_team": "SF",
       "player_id": "13417",
@@ -23458,8 +23458,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-22T20:50:43Z",
-    "source_fingerprint": "836c1552061d3da381de6206802aa8be28c9ffab58cff63181528ec257be837b"
+    "last_changed_at": "2026-08-22T21:43:11Z",
+    "source_fingerprint": "05df1a5c59d759bfc1a24746e089186f38b1849ae1367835f5bbbff2435ad3b0"
   },
   "teams": [
     {
