@@ -20101,7 +20101,7 @@
       "nfl_team": "HOU",
       "player_id": "12484",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 1
     },
     "12487": {
@@ -23443,8 +23443,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-21T17:14:29Z",
-    "source_fingerprint": "82da8a5483bf9fbd2261c8a11ad1096967b633b44a22a7624bcc72abf1930ca2"
+    "last_changed_at": "2026-08-21T19:52:28Z",
+    "source_fingerprint": "fdcd423da1962a417493191f25b92e0e373064f7629f37a820b8364f9652be39"
   },
   "teams": [
     {
