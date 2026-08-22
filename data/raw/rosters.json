@@ -269,9 +269,9 @@
     "player_map": null,
     "players": [
       "10213",
+      "10218",
       "10219",
       "11539",
-      "11589",
       "12492",
       "12499",
       "12524",
@@ -301,7 +301,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 11,
+      "waiver_position": 12,
       "wins": 0
     },
     "starters": [
@@ -768,7 +768,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 0
     },
     "starters": [

@@ -21,7 +21,6 @@
 - Derrick Henry — RB — BAL
 - Justice Hill — RB — BAL
 - Rico Dowdle — RB — PIT
-- Trey Benson — RB — ARI
 - Cade Otton — TE — TB
 - Hunter Henry — TE — NE
 - Travis Kelce — TE — KC
@@ -32,6 +31,7 @@
 - Jalen Nailor — WR — LV
 - Pat Bryant — WR — DEN
 - Tre Tucker — WR — LV
+- Xavier Hutchinson — WR — HOU
 
 ## Acquired future picks
 
