@@ -20006,7 +20006,7 @@
       ],
       "first_name": "Jaydon",
       "full_name": "Jaydon Blue",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Blue",
       "nfl_team": "DAL",
       "player_id": "12457",
@@ -23458,8 +23458,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-22T21:43:11Z",
-    "source_fingerprint": "05df1a5c59d759bfc1a24746e089186f38b1849ae1367835f5bbbff2435ad3b0"
+    "last_changed_at": "2026-08-23T05:04:56Z",
+    "source_fingerprint": "d00783bce1c3a64a40987677aaba06ba984b574216f1cd5d76d7625bc07df768"
   },
   "teams": [
     {
