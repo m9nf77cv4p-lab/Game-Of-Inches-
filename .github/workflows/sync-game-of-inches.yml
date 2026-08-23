@@ -25,6 +25,8 @@ jobs:
         run: python -m unittest discover -s tests -v
       - name: Refresh Game of Inches data
         run: python scripts/sync_game_of_inches.py
+      - name: Capture Sleeper player news
+        run: python scripts/sync_sleeper_news.py
       - name: Commit changed Sleeper data
         run: |
           if [[ -z "$(git status --porcelain -- data/ reports/)" ]]; then
