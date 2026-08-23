@@ -15,7 +15,7 @@
 - Roster 5: **It Hurts So Good** (TJS2025) — 23 players
 - Roster 6: **JTills** (JTills) — 22 players
 - Roster 7: **We Fly High** (cabot9188) — 23 players
-- Roster 8: **Multiple Scorgasims** (PrimeTime000) — 23 players
+- Roster 8: **Multiple Scorgasims** (PrimeTime000) — 24 players
 - Roster 9: **Taylor Gang** (Toley6) — 22 players
 - Roster 10: **Help Me Help You 🧍🏾‍♂️** (midedunni) — 26 players
 - Roster 11: **Trader Low's** (BirdgangB) — 23 players
