@@ -1,16 +1,18 @@
 {
-  "last_checked_at": "2026-08-24T14:23:24Z",
+  "last_checked_at": "2026-08-24T16:06:50Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|10219|rotoballer|219266|1787564255000",
-    "nfl|11597|rotoballer|219268|1787565735000",
-    "nfl|12521|rotoballer|219264|1787562785000",
-    "nfl|12524|rotowire|634634|1787581149000",
-    "nfl|13346|rotowire|634632|1787579534000",
-    "nfl|4017|fantasy_pros|604002|1787580640091",
-    "nfl|4017|rotoballer|219269|1787566453000",
-    "nfl|4017|rotowire|634633|1787580396000"
+    "nfl|10226|rotoballer|219271|1787567948000",
+    "nfl|10226|rotowire|634644|1787585772000",
+    "nfl|12524|rotoballer|219270|1787567229000",
+    "nfl|12529|rotoballer|219275|1787571605000",
+    "nfl|13311|rotowire|634637|1787583705000",
+    "nfl|5846|rotowire|634648|1787587275000",
+    "nfl|5850|rotoballer|219273|1787569301000",
+    "nfl|5850|rotowire|634643|1787585382000",
+    "nfl|5995|rotowire|634642|1787585041000",
+    "nfl|6865|rotowire|634647|1787586852000"
   ],
   "schema_version": 1,
   "source": {
@@ -21,10 +23,130 @@
   },
   "stories": [
     {
-      "analysis": "Sanders and Watson had been battling for the job since the start of the offseason program and alternated starts in the Browns' first two preseason tilts. Between losses to the Browns and Bills, Sanders completed 15 of 22 attempts for 153 yards, one touchdown and two interceptions. While Watson didn't fare dramatically better in the two exhibition games, his superior performance during camp practices in addition to his pricey contract were likely factors in him emerging as the victor in the job battle. Watson likely won't head into Week 1 with a long leash, and Sanders should have a good chance at making starts in 2026 if the Browns limp out to a poor start to the season.",
+      "analysis": "Monday was a notable day for the Steelers with both Metcalf and Michael Pittman getting back on the field. Metcalf appears to have put his multi-week absence behind him and will have time to ramp back up before the season starts Sept.13 against the Falcons.",
+      "description": "Metcalf (undisclosed) returned to practice Monday after having been sidelined since Aug. 8, Alan Saunders of SteelersNow.com reports.",
+      "metadata": {
+        "analysis": "Monday was a notable day for the Steelers with both Metcalf and Michael Pittman getting back on the field. Metcalf appears to have put his multi-week absence behind him and will have time to ramp back up before the season starts Sept.13 against the Falcons.",
+        "description": "Metcalf (undisclosed) returned to practice Monday after having been sidelined since Aug. 8, Alan Saunders of SteelersNow.com reports.",
+        "title": "DK Metcalf - Returns to practice Monday",
+        "topic_id": "1397647076245970944"
+      },
+      "nfl_team": "PIT",
+      "player_id": "5846",
+      "player_name": "DK Metcalf",
+      "position": "WR",
+      "published": 1787587275000,
+      "source": "rotowire",
+      "source_key": "634648",
+      "story_id": "nfl|5846|rotowire|634648|1787587275000",
+      "title": "DK Metcalf - Returns to practice Monday",
+      "url": null
+    },
+    {
+      "analysis": "Being the top tight end can be a bit misleading when it comes to this Rams team, seeing as no team ran as many three-tight-end sets as they did last season with 388. No other team ran more than 135 such plays. Even so, Parkinson will be on the field plenty and the Rams are expected to be one of the best offenses in football. With that, Parkinson's week-to-week outlook can be volatile even if the year-end results end up being useful from a TE2 perspective in fantasy. Parkinson caught a career-high eight touchdown passes last season.",
+      "description": "Parkinson remains on track to lead the Rams' tight end room, Albert Breer of SI.com reports.",
+      "metadata": {
+        "analysis": "Being the top tight end can be a bit misleading when it comes to this Rams team, seeing as no team ran as many three-tight-end sets as they did last season with 388. No other team ran more than 135 such plays. Even so, Parkinson will be on the field plenty and the Rams are expected to be one of the best offenses in football. With that, Parkinson's week-to-week outlook can be volatile even if the year-end results end up being useful from a TE2 perspective in fantasy. Parkinson caught a career-high eight touchdown passes last season.",
+        "description": "Parkinson remains on track to lead the Rams' tight end room, Albert Breer of SI.com reports.",
+        "title": "Colby Parkinson - Leading deep tight end group in LA",
+        "topic_id": "1397645818189582336"
+      },
+      "nfl_team": "LAR",
+      "player_id": "6865",
+      "player_name": "Colby Parkinson",
+      "position": "TE",
+      "published": 1787586852000,
+      "source": "rotowire",
+      "source_key": "634647",
+      "story_id": "nfl|6865|rotowire|634647|1787586852000",
+      "title": "Colby Parkinson - Leading deep tight end group in LA",
+      "url": null
+    },
+    {
+      "analysis": "The Princeton product enters his fourth season looking to rebound from a down 2025 in which he fell short of the breakout season that saw him record six touchdowns in 2024. The Bengals have a heavily concentrated target tree centered on Ja'Marr Chase and Tee Higgins, which has limited Iosivas' week-to-week usage. He has performed poorly on targets per route run in each of the last two years, coming in under 12 percent in each campaign. Iosivas could have added competition for snaps this year, considering rookie Colbie Young's impressive showing in the preseason thus far. As it stands, Iosivas may be on the field a fair amount, but his involvement in the passing game could be limited again.",
+      "description": "Iosivas is listed as the No.3 receiver on the Bengals' depth chart.",
+      "metadata": {
+        "analysis": "The Princeton product enters his fourth season looking to rebound from a down 2025 in which he fell short of the breakout season that saw him record six touchdowns in 2024. The Bengals have a heavily concentrated target tree centered on Ja'Marr Chase and Tee Higgins, which has limited Iosivas' week-to-week usage. He has performed poorly on targets per route run in each of the last two years, coming in under 12 percent in each campaign. Iosivas could have added competition for snaps this year, considering rookie Colbie Young's impressive showing in the preseason thus far. As it stands, Iosivas may be on the field a fair amount, but his involvement in the passing game could be limited again.",
+        "description": "Iosivas is listed as the No.3 receiver on the Bengals' depth chart.",
+        "title": "Andrei Iosivas - Still in line for No.3 role",
+        "topic_id": "1397640784290828288"
+      },
+      "nfl_team": "CIN",
+      "player_id": "10226",
+      "player_name": "Andrei Iosivas",
+      "position": "WR",
+      "published": 1787585772000,
+      "source": "rotowire",
+      "source_key": "634644",
+      "story_id": "nfl|10226|rotowire|634644|1787585772000",
+      "title": "Andrei Iosivas - Still in line for No.3 role",
+      "url": null
+    },
+    {
+      "analysis": "Though Jacobs hasn't practiced fully in more than two weeks while he's been managing the groin injury, the Packers haven't indicated that his availability for the start of the regular season is in any jeopardy. Even if Jacobs upgrades to full practice participation within the next few days, the Packers could still elect to hold him out of Friday's preseason finale versus the Cardinals as a precaution.",
+      "description": "Packers head coach Matt LaFleur said that Jacobs (groin) is expected to go through limited team work during practice Monday, Rob Demovsky of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Though Jacobs hasn't practiced fully in more than two weeks while he's been managing the groin injury, the Packers haven't indicated that his availability for the start of the regular season is in any jeopardy. Even if Jacobs upgrades to full practice participation within the next few days, the Packers could still elect to hold him out of Friday's preseason finale versus the Cardinals as a precaution.",
+        "description": "Packers head coach Matt LaFleur said that Jacobs (groin) is expected to go through limited team work during practice Monday, Rob Demovsky of ESPN.com reports.",
+        "title": "Josh Jacobs - Set for limited practice work",
+        "topic_id": "1397638267624521728"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1787585382000,
+      "source": "rotowire",
+      "source_key": "634643",
+      "story_id": "nfl|5850|rotowire|634643|1787585382000",
+      "title": "Josh Jacobs - Set for limited practice work",
+      "url": null
+    },
+    {
+      "analysis": "The veteran is in the final year of his contract after an injury-shortened 2025 that limited him to 10 games. Hill is also playing under a new coaching staff and an offensive coordinator, so it will be interesting to see whether his role evolves or other options emerge as Derrick Henry's backup. Hill has been healthy for the preseason and hasn't appeared in either preseason game, which is a good signal for his standing on the depth chart.",
+      "description": "Hill is in line to be the No.2 running back on the Ravens' depth chart.",
+      "metadata": {
+        "analysis": "The veteran is in the final year of his contract after an injury-shortened 2025 that limited him to 10 games. Hill is also playing under a new coaching staff and an offensive coordinator, so it will be interesting to see whether his role evolves or other options emerge as Derrick Henry's backup. Hill has been healthy for the preseason and hasn't appeared in either preseason game, which is a good signal for his standing on the depth chart.",
+        "description": "Hill is in line to be the No.2 running back on the Ravens' depth chart.",
+        "title": "Justice Hill - Backing up Henry in 2026",
+        "topic_id": "1397638267620327424"
+      },
+      "nfl_team": "BAL",
+      "player_id": "5995",
+      "player_name": "Justice Hill",
+      "position": "RB",
+      "published": 1787585041000,
+      "source": "rotowire",
+      "source_key": "634642",
+      "story_id": "nfl|5995|rotowire|634642|1787585041000",
+      "title": "Justice Hill - Backing up Henry in 2026",
+      "url": null
+    },
+    {
+      "analysis": "After being activated from the non-football injury list last Monday, Bell was a limited participant in his first handful of practices with Miami. With his surgically repaired left knee apparently responding well, Bell will now ditch his red, no-contact jersey in what marks the final box he'll need to check before being cleared for game action. The Dolphins could still elect to hold out Bell for their preseason finale Friday versus the Falcons, but the rookie third-round pick looks to be trending toward suiting up Week 1 versus the Raiders.",
+      "description": "Bell (knee) is expected to be a full participant in Monday's practice, David Furones of the South Florida Sun Sentinel reports.",
+      "metadata": {
+        "analysis": "After being activated from the non-football injury list last Monday, Bell was a limited participant in his first handful of practices with Miami. With his surgically repaired left knee apparently responding well, Bell will now ditch his red, no-contact jersey in what marks the final box he'll need to check before being cleared for game action. The Dolphins could still elect to hold out Bell for their preseason finale Friday versus the Falcons, but the rookie third-round pick looks to be trending toward suiting up Week 1 versus the Raiders.",
+        "description": "Bell (knee) is expected to be a full participant in Monday's practice, David Furones of the South Florida Sun Sentinel reports.",
+        "title": "Chris Bell - Set to practice without limitations",
+        "topic_id": "1397631975933640704"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1787583705000,
+      "source": "rotowire",
+      "source_key": "634637",
+      "story_id": "nfl|13311|rotowire|634637|1787583705000",
+      "title": "Chris Bell - Set to practice without limitations",
+      "url": null
+    },
+    {
+      "analysis": "Sanders and Watson had been battling for the job since the start of the offseason program and alternated starts in the Browns' first two preseason tilts. Between losses to the Browns and Bills, Sanders completed 15 of 22 attempts for 153 yards, one touchdown and two interceptions. While Watson didn't fare dramatically better than Sanders in the two exhibition games, his superior performance during camp practices in addition to his greater NFL experience and pricey contract were likely major factors in him emerging as the victor in the job battle. Watson is unlikely to head into Week 1 with a long leash, however, and Sanders should have a good chance at making starts in 2026 if the Browns limp out to a poor start to the season.",
       "description": "Sanders will open the season as the Browns' backup quarterback after the team named Deshaun Watson its starter Monday, multiple sources tell NFL reporter Jordan Schultz.",
       "metadata": {
-        "analysis": "Sanders and Watson had been battling for the job since the start of the offseason program and alternated starts in the Browns' first two preseason tilts. Between losses to the Browns and Bills, Sanders completed 15 of 22 attempts for 153 yards, one touchdown and two interceptions. While Watson didn't fare dramatically better in the two exhibition games, his superior performance during camp practices in addition to his pricey contract were likely factors in him emerging as the victor in the job battle. Watson likely won't head into Week 1 with a long leash, and Sanders should have a good chance at making starts in 2026 if the Browns limp out to a poor start to the season.",
+        "analysis": "Sanders and Watson had been battling for the job since the start of the offseason program and alternated starts in the Browns' first two preseason tilts. Between losses to the Browns and Bills, Sanders completed 15 of 22 attempts for 153 yards, one touchdown and two interceptions. While Watson didn't fare dramatically better than Sanders in the two exhibition games, his superior performance during camp practices in addition to his greater NFL experience and pricey contract were likely major factors in him emerging as the victor in the job battle. Watson is unlikely to head into Week 1 with a long leash, however, and Sanders should have a good chance at making starts in 2026 if the Browns limp out to a poor start to the season.",
         "description": "Sanders will open the season as the Browns' backup quarterback after the team named Deshaun Watson its starter Monday, multiple sources tell NFL reporter Jordan Schultz.",
         "title": "Shedeur Sanders - Beginning season in backup role",
         "topic_id": "1397620649995812864"
@@ -100,6 +222,86 @@
       "story_id": "nfl|13346|rotowire|634632|1787579534000",
       "title": "Denzel Boston - Goes untargeted in second preseason game",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots second-year running back TreVeyon Henderson is back at the team's training camp practice on Monday after being absent on Saturday night in the preseason contest against the Philadelphia Eagles, according to Andrew Callahan of the Boston Herald. Both Henderson and Rhamondre Stevenson were not used in the team's second preseason game over the weekend. Stevenson has been listed as the RB1 on New England's preseason depth chart, but the 23-year-old Henderson will continue to be a big part of the Patriots' backfield in his second NFL season after he helped lead the team to a Super Bowl appearance in his first year in the league. The former second-rounder from Ohio State had 911 rushing yards and nine rushing touchdowns on 180 carries while adding 35 catches for 221 yards and another score in 17 regular-season games in 2025. It was an impressive campaign, but Stevenson still has the trust of head coach Mike Vrabel, and Henderson's lack of improvement as a pass-blocker will hurt his overall fantasy upside in Year 2. RotoBaller currently has him ranked as the No. 27 fantasy RB for 2026.",
+      "metadata": {
+        "description": "New England Patriots second-year running back TreVeyon Henderson is back at the team's training camp practice on Monday after being absent on Saturday night in the preseason contest against the Philadelphia Eagles, according to Andrew Callahan of the Boston Herald. Both Henderson and Rhamondre Stevenson were not used in the team's second preseason game over the weekend. Stevenson has been listed as the RB1 on New England's preseason depth chart, but the 23-year-old Henderson will continue to be a big part of the Patriots' backfield in his second NFL season after he helped lead the team to a Super Bowl appearance in his first year in the league. The former second-rounder from Ohio State had 911 rushing yards and nine rushing touchdowns on 180 carries while adding 35 catches for 221 yards and another score in 17 regular-season games in 2025. It was an impressive campaign, but Stevenson still has the trust of head coach Mike Vrabel, and Henderson's lack of improvement as a pass-blocker will hurt his overall fantasy upside in Year 2. RotoBaller currently has him ranked as the No. 27 fantasy RB for 2026.",
+        "title": "TreVeyon Henderson Returns to Practice on Monday",
+        "topic_id": "1397643299312922624",
+        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-returns-to-practice-on-monday/1915195"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1787571605000,
+      "source": "rotoballer",
+      "source_key": "219275",
+      "story_id": "nfl|12529|rotoballer|219275|1787571605000",
+      "title": "TreVeyon Henderson Returns to Practice on Monday",
+      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-returns-to-practice-on-monday/1915195"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back Josh Jacobs (groin) has dealt with a multi-week groin injury that held him out of Friday's preseason matchup with the Broncos, but he will participate in Monday's practice, according to team beat writer Ryan Wood. Head Coach Matt LaFleur told reporters ahead of practice that Jacobs would participate in team drills with limitations. Injuries derailed what started as a strong second season with the Packers, and following a tumultuous offseason that could still see disciplinary ramifications, Jacobs has fallen to RB15 by current ADP. While his legal situation makes for a risky click even at his depressed draft cost, if Jacobs is healthy and available for a full slate of games, he has top-five upside and could prove to be a league-winner in 2026.",
+      "metadata": {
+        "description": "Green Bay Packers running back Josh Jacobs (groin) has dealt with a multi-week groin injury that held him out of Friday's preseason matchup with the Broncos, but he will participate in Monday's practice, according to team beat writer Ryan Wood. Head Coach Matt LaFleur told reporters ahead of practice that Jacobs would participate in team drills with limitations. Injuries derailed what started as a strong second season with the Packers, and following a tumultuous offseason that could still see disciplinary ramifications, Jacobs has fallen to RB15 by current ADP. While his legal situation makes for a risky click even at his depressed draft cost, if Jacobs is healthy and available for a full slate of games, he has top-five upside and could prove to be a league-winner in 2026.",
+        "title": "Josh Jacobs to Participate in Limited Team Drills on Monday",
+        "topic_id": "1397633232282923008",
+        "url": "https://www.rotoballer.com/player-news/josh-jacobs-to-participate-in-limited-team-drills-on-monday/1915171"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1787569301000,
+      "source": "rotoballer",
+      "source_key": "219273",
+      "story_id": "nfl|5850|rotoballer|219273|1787569301000",
+      "title": "Josh Jacobs to Participate in Limited Team Drills on Monday",
+      "url": "https://www.rotoballer.com/player-news/josh-jacobs-to-participate-in-limited-team-drills-on-monday/1915171"
+    },
+    {
+      "analysis": null,
+      "description": "Since being selected by the Cincinnati Bengals in the sixth round of the 2023 NFL Draft, wide receiver Andrei Iosivas has enjoyed sporadic success as the team's third receiver behind Ja'Marr Chase and Tee Higgins, inheriting the role from Tyler Boyd after his rookie season. Unsurprisingly, when both Chase and Higgins are healthy and in the lineup, Iosivas has struggled to carve out his own standalone worth, and a strong training camp from fourth-round rookie Colbie Young could see him splitting time in three-receiver sets. Already clinging to the edges of fantasy relevance with the role to himself, the added competition makes Iosivas a player who does not need to be rostered in 2026 redraft leagues, though an injury ahead of him could again see the fourth-year receiver become a waiver wire priority. With a murkier situation than he's seen in past seasons and so much of his value tied to hypotheticals, Iosivas is RotoBaller's WR87.",
+      "metadata": {
+        "description": "Since being selected by the Cincinnati Bengals in the sixth round of the 2023 NFL Draft, wide receiver Andrei Iosivas has enjoyed sporadic success as the team's third receiver behind Ja'Marr Chase and Tee Higgins, inheriting the role from Tyler Boyd after his rookie season. Unsurprisingly, when both Chase and Higgins are healthy and in the lineup, Iosivas has struggled to carve out his own standalone worth, and a strong training camp from fourth-round rookie Colbie Young could see him splitting time in three-receiver sets. Already clinging to the edges of fantasy relevance with the role to himself, the added competition makes Iosivas a player who does not need to be rostered in 2026 redraft leagues, though an injury ahead of him could again see the fourth-year receiver become a waiver wire priority. With a murkier situation than he's seen in past seasons and so much of his value tied to hypotheticals, Iosivas is RotoBaller's WR87.",
+        "title": "Andrei Iosivas Being Pushed for Bengals' WR3 Role",
+        "topic_id": "1397628198384066560",
+        "url": "https://www.rotoballer.com/player-news/andrei-iosivas-being-pushed-for-bengals-wr3-role/1915162"
+      },
+      "nfl_team": "CIN",
+      "player_id": "10226",
+      "player_name": "Andrei Iosivas",
+      "position": "WR",
+      "published": 1787567948000,
+      "source": "rotoballer",
+      "source_key": "219271",
+      "story_id": "nfl|10226|rotoballer|219271|1787567948000",
+      "title": "Andrei Iosivas Being Pushed for Bengals' WR3 Role",
+      "url": "https://www.rotoballer.com/player-news/andrei-iosivas-being-pushed-for-bengals-wr3-role/1915162"
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns quarterback Shedeur Sanders famously fell to the fifth round of the 2025 NFL Draft, but he found the field for seven starts as a rookie and was eventually named a Pro Bowl alternate. He spent his second training camp in a battle with veteran Deshaun Watson, and on Monday, head coach Todd Monken named Watson as the starter, with NFL Insider Jordan Schultz reporting that Sanders will serve as his backup. Sanders looked sharp to start Saturday's preseason game against the Bills, but threw a late interception with the inconsistency that has plagued him throughout camp creeping into a live game scenario. While Watson did not perform any better on Saturday, completing only 41.7% of his passes and throwing an interception of his own, he showed enough throughout camp to win a battle with no obvious separator. Sanders has been drafted as the consensus QB29 throughout fantasy draft season, but Monday's news is certain to push him off of draft boards.",
+      "metadata": {
+        "description": "Cleveland Browns quarterback Shedeur Sanders famously fell to the fifth round of the 2025 NFL Draft, but he found the field for seven starts as a rookie and was eventually named a Pro Bowl alternate. He spent his second training camp in a battle with veteran Deshaun Watson, and on Monday, head coach Todd Monken named Watson as the starter, with NFL Insider Jordan Schultz reporting that Sanders will serve as his backup. Sanders looked sharp to start Saturday's preseason game against the Bills, but threw a late interception with the inconsistency that has plagued him throughout camp creeping into a live game scenario. While Watson did not perform any better on Saturday, completing only 41.7% of his passes and throwing an interception of his own, he showed enough throughout camp to win a battle with no obvious separator. Sanders has been drafted as the consensus QB29 throughout fantasy draft season, but Monday's news is certain to push him off of draft boards.",
+        "title": "Shedeur Sanders to Begin His Second Season as Browns' Backup",
+        "topic_id": "1397623164816633856",
+        "url": "https://www.rotoballer.com/player-news/shedeur-sanders-to-begin-his-second-season-as-browns-backup/1915119"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12524",
+      "player_name": "Shedeur Sanders",
+      "position": "QB",
+      "published": 1787567229000,
+      "source": "rotoballer",
+      "source_key": "219270",
+      "story_id": "nfl|12524|rotoballer|219270|1787567229000",
+      "title": "Shedeur Sanders to Begin His Second Season as Browns' Backup",
+      "url": "https://www.rotoballer.com/player-news/shedeur-sanders-to-begin-his-second-season-as-browns-backup/1915119"
     },
     {
       "analysis": null,
