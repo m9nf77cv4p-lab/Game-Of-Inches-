@@ -23184,7 +23184,7 @@
       ],
       "first_name": "Marvin",
       "full_name": "Marvin Mims",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Mims",
       "nfl_team": "DEN",
       "player_id": "9494",
@@ -23560,8 +23560,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-24T20:59:58Z",
-    "source_fingerprint": "ca0d1c9a94233c0c92b9e864987bde01b23eceb8c027b04d8d5a974246e589fc"
+    "last_changed_at": "2026-08-24T21:58:28Z",
+    "source_fingerprint": "f340f879819de299479cbef0b4381feaf4b3e78a9fab2340dbba10cf1e2b8ecc"
   },
   "teams": [
     {

@@ -1,22 +1,13 @@
 {
-  "last_checked_at": "2026-08-24T20:59:59Z",
+  "last_checked_at": "2026-08-24T21:58:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11597|rotowire|634682|1787604655000",
-    "nfl|11632|fantasy_pros|604027|1787604942405",
-    "nfl|11632|rotoballer|219304|1787585893000",
-    "nfl|11632|rotowire|634672|1787598960000",
-    "nfl|12527|rotoballer|219308|1787587629000",
-    "nfl|12527|rotowire|634677|1787601358000",
-    "nfl|13287|rotoballer|219309|1787588109000",
-    "nfl|13287|rotowire|634675|1787600966000",
-    "nfl|13311|rotoballer|219302|1787585228000",
-    "nfl|5850|rotoballer|219307|1787586669000",
-    "nfl|8121|rotoballer|219303|1787585108000",
-    "nfl|8136|rotoballer|219306|1787586250000",
-    "nfl|9511|rotoballer|219310|1787589910000",
-    "nfl|9758|rotoballer|219301|1787584630000"
+    "nfl|11565|rotowire|634684|1787606615000",
+    "nfl|11597|rotoballer|219315|1787593629000",
+    "nfl|12492|rotoballer|219312|1787591652000",
+    "nfl|6794|rotoballer|219314|1787592845000",
+    "nfl|9494|rotowire|634686|1787606836000"
   ],
   "schema_version": 1,
   "source": {
@@ -26,6 +17,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Mims didn't play in Friday's preseason game against the Packers, but he was on the field Monday, with Stevens' report accompanied by a clip of the wideout making a nice catch during the session. The Broncos' unofficial depth chart lists Mims as a first-teamer along with top WRs Courtland Sutton and Jaylen Waddle, but in reality as Week 1 approaches, Troy Franklin and Pat Bryant are also firmly in the mix for snaps/targets that don't go to Sutton and Waddle.",
+      "description": "Mims (undisclosed) practiced Monday, Zac Stevens of TheDNVR.com reports.",
+      "metadata": {
+        "analysis": "Mims didn't play in Friday's preseason game against the Packers, but he was on the field Monday, with Stevens' report accompanied by a clip of the wideout making a nice catch during the session. The Broncos' unofficial depth chart lists Mims as a first-teamer along with top WRs Courtland Sutton and Jaylen Waddle, but in reality as Week 1 approaches, Troy Franklin and Pat Bryant are also firmly in the mix for snaps/targets that don't go to Sutton and Waddle.",
+        "description": "Mims (undisclosed) practiced Monday, Zac Stevens of TheDNVR.com reports.",
+        "title": "Marvin Mims - Practices Monday",
+        "topic_id": "1397728873881276416"
+      },
+      "nfl_team": "DEN",
+      "player_id": "9494",
+      "player_name": "Marvin Mims",
+      "position": "WR",
+      "published": 1787606836000,
+      "source": "rotowire",
+      "source_key": "634686",
+      "story_id": "nfl|9494|rotowire|634686|1787606836000",
+      "title": "Marvin Mims - Practices Monday",
+      "url": null
+    },
+    {
+      "analysis": "After losing out on the QB competition with Kyler Murray to begin training camp, McCarthy proceeded to get banged up in Saturday's 13-3 preseason loss to the Ravens, taking one sack while completing five of 10 passes for 81 yards. Seifert noted that McCarthy handled three reps in team drills Monday, which is a bit less than normal, but the Vikings held the session in shells and not pads, so the third-year pro likely still is dealing with the issue.",
+      "description": "McCarthy (undisclosed) participated in Monday's practice, Kevin Seifert of ESPN.com reports.",
+      "metadata": {
+        "analysis": "After losing out on the QB competition with Kyler Murray to begin training camp, McCarthy proceeded to get banged up in Saturday's 13-3 preseason loss to the Ravens, taking one sack while completing five of 10 passes for 81 yards. Seifert noted that McCarthy handled three reps in team drills Monday, which is a bit less than normal, but the Vikings held the session in shells and not pads, so the third-year pro likely still is dealing with the issue.",
+        "description": "McCarthy (undisclosed) participated in Monday's practice, Kevin Seifert of ESPN.com reports.",
+        "title": "J.J. McCarthy - Practices Monday",
+        "topic_id": "1397728873835139072"
+      },
+      "nfl_team": "MIN",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1787606615000,
+      "source": "rotowire",
+      "source_key": "634684",
+      "story_id": "nfl|11565|rotowire|634684|1787606615000",
+      "title": "J.J. McCarthy - Practices Monday",
+      "url": null
+    },
     {
       "analysis": "Nabers was able to practice on Monday without the red non-contact jersey. Barring a setback, he is trending towards being ready for the start of the season. ",
       "description": "Giants head coach John Harbaugh said \"it's reasonable to assume\" that Malik Nabers is trending toward being ready for Week 1. ",
@@ -330,6 +361,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "New York Giants tight end Theo Johnson (undisclosed) left training camp practice early on Monday with an undisclosed injury, according to Dan Duggan of The Athletic. Duggan described it as an \"odd scene,\" with Johnson going down while blocking and trainers immediately coming out onto the field. Johnson then walked off, slammed his helmet, ripped his gloves off, and pulled his hood over his head. He walked directly off the field toward the locker room and was walking briskly while not being accompanied by a trainer. It does not sound like a significant injury for the 25-year-old, but we will have an update on the specific nature of his injury when those details emerge. The former fourth-rounder in 2024 from Penn State is set to operate as New York's TE2 behind newcomer Isaiah Likely in his third NFL season in 2025, leaving little fantasy upside in single-TE leagues. Johnson took a step forward in his sophomore campaign in 2025, catching 45 of his 74 targets for 528 yards and five touchdowns after posting a 29-331-1 line in 12 games as a rookie. RotoBaller has Johnson ranked as the No. 41 fantasy TE.",
+      "metadata": {
+        "description": "New York Giants tight end Theo Johnson (undisclosed) left training camp practice early on Monday with an undisclosed injury, according to Dan Duggan of The Athletic. Duggan described it as an \"odd scene,\" with Johnson going down while blocking and trainers immediately coming out onto the field. Johnson then walked off, slammed his helmet, ripped his gloves off, and pulled his hood over his head. He walked directly off the field toward the locker room and was walking briskly while not being accompanied by a trainer. It does not sound like a significant injury for the 25-year-old, but we will have an update on the specific nature of his injury when those details emerge. The former fourth-rounder in 2024 from Penn State is set to operate as New York's TE2 behind newcomer Isaiah Likely in his third NFL season in 2025, leaving little fantasy upside in single-TE leagues. Johnson took a step forward in his sophomore campaign in 2025, catching 45 of his 74 targets for 528 yards and five touchdowns after posting a 29-331-1 line in 12 games as a rookie. RotoBaller has Johnson ranked as the No. 41 fantasy TE.",
+        "title": "Theo Johnson Suffers Undisclosed Injury on Monday",
+        "topic_id": "1397733904743464960",
+        "url": "https://www.rotoballer.com/player-news/theo-johnson-suffers-undisclosed-injury-on-monday/1915495"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11597",
+      "player_name": "Theo Johnson",
+      "position": "TE",
+      "published": 1787593629000,
+      "source": "rotoballer",
+      "source_key": "219315",
+      "story_id": "nfl|11597|rotoballer|219315|1787593629000",
+      "title": "Theo Johnson Suffers Undisclosed Injury on Monday",
+      "url": "https://www.rotoballer.com/player-news/theo-johnson-suffers-undisclosed-injury-on-monday/1915495"
+    },
+    {
       "analysis": "Judkins missed the final two practices of last week before sitting out Saturday's preseason loss to the Bills due to what coach Todd Monken described as \"a little something nagging, nothing big,\" per Kelsey Russo of the Browns' official site. Even though he's mixing back into drills, Judkins may be eased in with Week 1 still roughly three weeks on the horizon.",
       "description": "Judkins (undisclosed) returned to practice Monday, Daniel Oyefusi of ESPN.com reports.",
       "metadata": {
@@ -348,6 +399,46 @@
       "story_id": "nfl|12512|rotowire|634662|1787593373000",
       "title": "Quinshon Judkins - Returns to practice Monday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings wide receiver Justin Jefferson always knew about quarterback Kyler Murray's athleticism, but he told The Athletic that he has come away impressed with his new QB's arm talent. \"But his throwing ability is also something that has really, really surprised me. While he was in Arizona, I didn't really keep track and pay attention to his arm talent. And seeing the different type of throws he's making, where he's throwing the ball, it's been really, really surprising me,\" Jefferson said. The 27-year-old All-Pro wideout will be working with a new signal-caller for the fourth straight season, but Murray arguably has the most talent at the position, and he and Jefferson have been clicking and building chemistry all offseason. Jefferson had a down year in 2025, but he still managed 84 receptions for 1,048 yards and two touchdowns in 17 games played. Murray should give Jefferson and the rest of Minnesota's offense more stability, and he clearly has the arm strength to hit the four-time Pro Bowler deep down the field. In his seventh NFL season, Jefferson has the potential to finish as the overall WR1 in 2026 if everything goes right.",
+      "metadata": {
+        "description": "Minnesota Vikings wide receiver Justin Jefferson always knew about quarterback Kyler Murray's athleticism, but he told The Athletic that he has come away impressed with his new QB's arm talent. \"But his throwing ability is also something that has really, really surprised me. While he was in Arizona, I didn't really keep track and pay attention to his arm talent. And seeing the different type of throws he's making, where he's throwing the ball, it's been really, really surprising me,\" Jefferson said. The 27-year-old All-Pro wideout will be working with a new signal-caller for the fourth straight season, but Murray arguably has the most talent at the position, and he and Jefferson have been clicking and building chemistry all offseason. Jefferson had a down year in 2025, but he still managed 84 receptions for 1,048 yards and two touchdowns in 17 games played. Murray should give Jefferson and the rest of Minnesota's offense more stability, and he clearly has the arm strength to hit the four-time Pro Bowler deep down the field. In his seventh NFL season, Jefferson has the potential to finish as the overall WR1 in 2026 if everything goes right.",
+        "title": "Justin Jefferson Impressed With his New QB",
+        "topic_id": "1397731388353982464",
+        "url": "https://www.rotoballer.com/player-news/justin-jefferson-impressed-with-his-new-qb/1915493"
+      },
+      "nfl_team": "MIN",
+      "player_id": "6794",
+      "player_name": "Justin Jefferson",
+      "position": "WR",
+      "published": 1787592845000,
+      "source": "rotoballer",
+      "source_key": "219314",
+      "story_id": "nfl|6794|rotoballer|219314|1787592845000",
+      "title": "Justin Jefferson Impressed With his New QB",
+      "url": "https://www.rotoballer.com/player-news/justin-jefferson-impressed-with-his-new-qb/1915493"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Pat Bryant is having a \"heckuva camp,\" head coach Sean Payton told Zac Stevens of DNVR Sports. Bryant appears to be in the lead for the WR3 role over Troy Franklin and Marvin Mims Jr. after starting alongside Jaylen Waddle and Courtland Sutton in last Friday's preseason loss to the Green Bay Packers, where he failed to reel in his only target. After being selected in the third round (74th overall) last year out of Illinois, the 23-year-old caught 31 of his 49 targets for 378 yards and only one touchdown in 15 regular-season games (seven starts) in his first year in the NFL. The 6-foot-2, 204-pounder missed some time late in the 2025 season due to a concussion, and he also came out of the AFC Championship game early with a hamstring injury. He has considerable size and good hands, but with Sutton and Waddle likely dominating targets from quarterback Bo Nix, Bryant might be fighting an uphill battle for WR4/flex value in fantasy football leagues. Right now, RotoBaller has ranked him as the No. 66 fantasy WR going into his sophomore campaign. In deeper leagues, he is worth a late-round flier in a Broncos offense that could be much more explosive after the offseason acquisition of Waddle.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Pat Bryant is having a \"heckuva camp,\" head coach Sean Payton told Zac Stevens of DNVR Sports. Bryant appears to be in the lead for the WR3 role over Troy Franklin and Marvin Mims Jr. after starting alongside Jaylen Waddle and Courtland Sutton in last Friday's preseason loss to the Green Bay Packers, where he failed to reel in his only target. After being selected in the third round (74th overall) last year out of Illinois, the 23-year-old caught 31 of his 49 targets for 378 yards and only one touchdown in 15 regular-season games (seven starts) in his first year in the NFL. The 6-foot-2, 204-pounder missed some time late in the 2025 season due to a concussion, and he also came out of the AFC Championship game early with a hamstring injury. He has considerable size and good hands, but with Sutton and Waddle likely dominating targets from quarterback Bo Nix, Bryant might be fighting an uphill battle for WR4/flex value in fantasy football leagues. Right now, RotoBaller has ranked him as the No. 66 fantasy WR going into his sophomore campaign. In deeper leagues, he is worth a late-round flier in a Broncos offense that could be much more explosive after the offseason acquisition of Waddle.",
+        "title": "Pat Bryant Having a \"Heckuva Camp\"",
+        "topic_id": "1397726354690031616",
+        "url": "https://www.rotoballer.com/player-news/pat-bryant-having-a-heckuva-camp/1915479"
+      },
+      "nfl_team": "DEN",
+      "player_id": "12492",
+      "player_name": "Pat Bryant",
+      "position": "WR",
+      "published": 1787591652000,
+      "source": "rotoballer",
+      "source_key": "219312",
+      "story_id": "nfl|12492|rotoballer|219312|1787591652000",
+      "title": "Pat Bryant Having a \"Heckuva Camp\"",
+      "url": "https://www.rotoballer.com/player-news/pat-bryant-having-a-heckuva-camp/1915479"
     },
     {
       "analysis": "Hall has been sidelined since suffering a minor groin strain at last Monday's session, which was expected to keep him out of drills for 2-to-3 weeks. Considering he was \"moving well\" this Monday, per Costello, Hall may be ahead of the curve in his recovery. In any case, Hall seems likely to miss Friday's preseason game against the Giants, with the focus instead on Week 1 at Tennessee on Sunday, Sept. 13.",
@@ -533,11 +624,11 @@
       "url": null
     },
     {
-      "analysis": "Hubbard logged a full practice Monday after missing time with a hamstring injury, which suddenly puts Carolina's backfield rotation back in flux. Drafters had been aggressively moving Brooks up the ADP all summer, and that movement took another leap after Hubbard was labeled week-to-week with a hamstring issue on Aug. 13. Now it appears that it will be a timeshare in the Carolina backfield, at least to begin the season. The caveat, of course, will be both backs remaining healthy by the time the season kicks off.",
-      "description": "Coach Dave Canales told reporters Monday that the Panthers will go with a committee in Week 1 with Brooks and Chuba Hubbard (hamstring), provided that Hubbard is healthy, per Joe Person of the Athletic.",
+      "analysis": "Hubbard logged a full practice Monday after missing time with a hamstring injury, which suddenly puts Carolina's backfield rotation back in flux. Drafters had been aggressively moving Brooks up the ADP all summer, and that movement took another leap after Hubbard was labeled week-to-week with a hamstring issue on Aug. 13. Now, it appears that it will be a timeshare in the Carolina backfield, at least to begin the season. The caveat, of course, will be both backs remaining healthy by the time the season kicks off.",
+      "description": "Coach Dave Canales told reporters Monday that the Panthers will go with a committee Week 1 with Brooks and Chuba Hubbard (hamstring), provided that Hubbard is healthy, per Joe Person of the Athletic.",
       "metadata": {
-        "analysis": "Hubbard logged a full practice Monday after missing time with a hamstring injury, which suddenly puts Carolina's backfield rotation back in flux. Drafters had been aggressively moving Brooks up the ADP all summer, and that movement took another leap after Hubbard was labeled week-to-week with a hamstring issue on Aug. 13. Now it appears that it will be a timeshare in the Carolina backfield, at least to begin the season. The caveat, of course, will be both backs remaining healthy by the time the season kicks off.",
-        "description": "Coach Dave Canales told reporters Monday that the Panthers will go with a committee in Week 1 with Brooks and Chuba Hubbard (hamstring), provided that Hubbard is healthy, per Joe Person of the Athletic.",
+        "analysis": "Hubbard logged a full practice Monday after missing time with a hamstring injury, which suddenly puts Carolina's backfield rotation back in flux. Drafters had been aggressively moving Brooks up the ADP all summer, and that movement took another leap after Hubbard was labeled week-to-week with a hamstring issue on Aug. 13. Now, it appears that it will be a timeshare in the Carolina backfield, at least to begin the season. The caveat, of course, will be both backs remaining healthy by the time the season kicks off.",
+        "description": "Coach Dave Canales told reporters Monday that the Panthers will go with a committee Week 1 with Brooks and Chuba Hubbard (hamstring), provided that Hubbard is healthy, per Joe Person of the Athletic.",
         "title": "Jonathon Brooks - Possible committee with Hubbard's return",
         "topic_id": "1397655886066946048"
       },
@@ -553,10 +644,10 @@
       "url": null
     },
     {
-      "analysis": "It was reported earlier in August that Hubbard was on track to suit up for Carolina's season opener, and per head coach Dave Canales he remains on track to do so. Should Hubbard suit up for Week 1 as anticipated, he and Jonathon Brooks will work in a committe, per Joe Person of The Athletic.",
+      "analysis": "It was reported earlier in August that Hubbard was on track to suit up for Carolina's season opener, and per head coach Dave Canales he remains on track to do so. Should Hubbard suit up for Week 1 as anticipated, he and Jonathon Brooks will work in a committee, per Joe Person of The Athletic.",
       "description": "Hubbard (hamstring) remains on track for Week 1, according to Steve Reed of the Associated Press.",
       "metadata": {
-        "analysis": "It was reported earlier in August that Hubbard was on track to suit up for Carolina's season opener, and per head coach Dave Canales he remains on track to do so. Should Hubbard suit up for Week 1 as anticipated, he and Jonathon Brooks will work in a committe, per Joe Person of The Athletic.",
+        "analysis": "It was reported earlier in August that Hubbard was on track to suit up for Carolina's season opener, and per head coach Dave Canales he remains on track to do so. Should Hubbard suit up for Week 1 as anticipated, he and Jonathon Brooks will work in a committee, per Joe Person of The Athletic.",
         "description": "Hubbard (hamstring) remains on track for Week 1, according to Steve Reed of the Associated Press.",
         "title": "Chuba Hubbard - Remains on track for Week 1",
         "topic_id": "1397650851438301184"
