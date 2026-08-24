@@ -2,16 +2,33 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **797**
-- Newly captured: **7**
+- Stored stories: **805**
+- Newly captured: **8**
 
 ## Latest news
 
-- **NEW — Elijah Arroyo** — Elijah Arroyo - Scores 36-yard TD in preseason loss (2026-08-24T04:28:09Z)
+- **NEW — Shedeur Sanders** — Shedeur Sanders - Beginning season in backup role (2026-08-24T14:19:09Z)
+  - Sanders and Watson had been battling for the job since the start of the offseason program and alternated starts in the Browns' first two preseason tilts. Between losses to the Browns and Bills, Sanders completed 15 of 22 attempts for 153 yards, one touchdown and two interceptions. While Watson didn't fare dramatically better in the two exhibition games, his superior performance during camp practices in addition to his pricey contract were likely factors in him emerging as the victor in the job battle. Watson likely won't head into Week 1 with a long leash, and Sanders should have a good chance at making starts in 2026 if the Browns limp out to a poor start to the season.
+- **NEW — Deshaun Watson** — Deshaun Watson named Browns starter for Week 1 (2026-08-24T14:10:40.091000Z)
+  - Watson was the favorite to win the job going in, and even though he had some hiccups on the way, namely preseason struggles and the fans booing him, he won out in the end. It's still likely that Shedeur Sanders will get a crack as the starter at some point this year, it's just a matter of when. As for the Browns pass catchers, they were priced assuming bad QB play, expect their price and fantasy ceiling to remain about the same, as Watson is past his prime and Sanders is also struggling.
+  - Source: https://www.fantasypros.com/nfl/news/604002/deshaun-watson-named-browns-starter-week-1.php
+- **NEW — Deshaun Watson** — Deshaun Watson - Named Cleveland's starting quarterback (2026-08-24T14:06:36Z)
+  - Watson won out in a job battle with Shedeur Sanders, after the quarterbacks alternated starts in the Browns' first two preseason contests. After an efficient showing in the preseason opener against the Bears (11-for-15 for 126 yards), Watson was unproductive over his four second-half drives in Saturday's 31-7 exhibition loss to the Bills, completing just five of 12 throws for 36 yards and an interception. The Browns were apparently encouraged enough from what they've seen from Watson over the course of training camp and the first two preseason tilts to move forward with him as their starter heading into the regular season, but he'll most likely be on a short leash. Since joining the Browns in 2022, Watson has posted a lowly 33.1 QBR while being limited to 19 total games due to injuries, including a torn right Achilles tendon and a subsequent re-rupture that kept him out for the entire 2025 season.
+- **NEW — Denzel Boston** — Denzel Boston - Goes untargeted in second preseason game (2026-08-24T13:52:14Z)
+  - After drawing two targets in the Browns' preseason opener a week earlier against the Bears and connecting with Deshaun Watson on a nifty 15-yard catch and run, Boston was held quiet in his limited snaps during the second exhibition game. Notably, Jerry Jeudy and KC Concepcion were both rested Saturday while Boston played, which suggests that the rookie second-round pick out of Washington currently sits no higher than third on the depth chart.
+- **NEW — Deshaun Watson** — Browns Naming Deshaun Watson as Starting Quarterback (2026-08-24T10:14:13Z)
+  - Source: https://www.rotoballer.com/player-news/browns-naming-deshaun-watson-as-starting-quarterback/1915113
+- **NEW — Theo Johnson** — Theo Johnson in a Tough Position to Take the Next Step for Fantasy (2026-08-24T10:02:15Z)
+  - Source: https://www.rotoballer.com/player-news/theo-johnson-in-a-tough-position-to-take-the-next-step-for-fantasy/1915102
+- **NEW — Chris Rodriguez** — Chris Rodriguez Jr. Can Find Weekly Fantasy Relevance (2026-08-24T09:37:35Z)
+  - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-can-find-weekly-fantasy-relevance-through-efficiency-and-goal-line-usage/1915071
+- **NEW — Elijah Arroyo** — Elijah Arroyo Punctuates Strong Summer with a Long Touchdown (2026-08-24T09:13:05Z)
+  - Source: https://www.rotoballer.com/player-news/elijah-arroyo-punctuates-strong-summer-with-a-long-touchdown/1915014
+- **Elijah Arroyo** — Elijah Arroyo - Scores 36-yard TD in preseason loss (2026-08-24T04:28:09Z)
   - Arroyo capped Seattle's opening drive with a 36-yard touchdown reception from Drew Lock. After producing only 179 receiving yards in his rookie regular season, Arroyo is trying to earn a larger role in his second NFL campaign. The 2025 second-round pick is set to open his sophomore season as the team's No. 2 TE behind AJ Barner.
-- **NEW — Tyjae Spears** — Tyjae Spears - Plays with starters after Pollard (2026-08-24T04:16:47Z)
+- **Tyjae Spears** — Tyjae Spears - Plays with starters after Pollard (2026-08-24T04:16:47Z)
   - Spears featured on Tennessee's second and third drives with the starters after Tony Pollard turned three touches into 45 scrimmage yards on the team's opening possession. Pollard is expected to lead the backfield once again, but Spears should get his fair share of touches in a prominent change-of-pace role. Spears has 383 combined carries and targets in 42 regular-season appearances through three years in the NFL for a career average of 9.1 touches per game on offense.
-- **NEW — Cam Ward** — Cam Ward - Underwhelming preseason continues (2026-08-24T04:06:43Z)
+- **Cam Ward** — Cam Ward - Underwhelming preseason continues (2026-08-24T04:06:43Z)
   - Ward put forward a second consecutive uninspiring preseason performance, as the Titans trailed Seattle's backups 16-3 after Ward's three drives in the game. He also had the ball knocked out of his hands while scrambling for a fumble out of bounds that went down as a sack. The 2025 first overall pick has averaged just 5.3 yards per pass attempt while failing to throw a touchdown pass this preseason. Tennessee will wrap up preseason play Saturday against the Bears.
 - **Tony Pollard** — Tony Pollard - Quick 45 scrimmage yards Sunday (2026-08-24T03:27:23Z)
   - All of Pollard's touches came within Tennessee's first five offensive plays of the game as he helped set up a field goal on the opening drive. Tyjae Spears played the next two drives with the starters, neither of which led to any points. Pollard sits atop Tennessee's running back depth chart after producing at least 1,288 scrimmage yards in each of the last four regular seasons, half of which have come with the Titans.
@@ -24,13 +41,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - There was concern about Jeanty's status after he was injured at Sunday's practice and reportedly could not put any weight on his leg, but the initial diagnosis appears more promising than not, with the report noting the Raiders are "breathing a sigh of relief." Both the full extent of Jeanty's injury and a recovery timeline have not yet been revealed, and his status will be updated again when more information is released.
 - **Bhayshul Tuten** — Bhayshul Tuten - Catching more passes after Allen's injury (2026-08-24T02:40:55Z)
   - The Jaguars appear to be directing more passes Tuten's way at practice following the soft-tissue injury suffered by LeQuint Allen (undisclosed), who had been penciled in as the team's preferred backfield option in passing situations. Ameer Abdullah could take some passing-down work if he makes the team, but Tuten has more receiving upside than Chris Rodriguez, who has just six receptions in 35 career regular-season appearances. Tuten caught 10 of 14 targets for 79 yards and two touchdowns during his rookie regular season.
-- **NEW — Bhayshul Tuten** — Bhayshul Tuten More Involved in Passing Game in Jacksonville (2026-08-24T00:26:14Z)
+- **Bhayshul Tuten** — Bhayshul Tuten More Involved in Passing Game in Jacksonville (2026-08-24T00:26:14Z)
   - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-more-involved-in-passing-game-in-jacksonville/1914900
 - **Carnell Tate** — Carnell Tate - Suiting up against Seahawks (2026-08-24T00:00:21Z)
   - Tate took warmups before the start of Sunday's preseason game and is set to take part in the action, with Tennessee's starters expected to play most of the first half. The rookie fourth overall pick dealt with some stiffness earlier in the week but has gotten the green light to suit up for Tennessee's second preseason game. Tate will look to improve on last week's preseason debut against the 49ers, in which he failed to catch any of his three targets.
-- **NEW — Carnell Tate** — Robert Saleh Not Concerned About Carnell Tate's Lack of Targets (2026-08-23T23:45:08Z)
+- **Carnell Tate** — Robert Saleh Not Concerned About Carnell Tate's Lack of Targets (2026-08-23T23:45:08Z)
   - Source: https://www.rotoballer.com/player-news/robert-saleh-not-concerned-about-carnell-tates-lack-of-targets/1914892
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks Turning Heads at Eagles Camp (2026-08-23T23:37:09Z)
+- **Dontayvion Wicks** — Dontayvion Wicks Turning Heads at Eagles Camp (2026-08-23T23:37:09Z)
   - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-turning-heads-at-eagles-camp/1914887
 - **Ashton Jeanty** — Ashton Jeanty Suffers Ankle Sprain (2026-08-23T23:05:08Z)
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-suffers-ankle-sprain/1914880
@@ -195,19 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Quarterback Tyler Huntley missed Lane on a deep pass late in the first quarter, but the duo connected on a nine-yard catch early in the second frame, which led to a 49-yard field goal by Tyler Loop two plays later. Lane has been one of the Ravens' standout players in training camp, and the rookie third-rounder flashed that potential in Baltimore's preseason opener against Philadelphia, when he caught three passes on as many targets for 38 yards and a score. Lane could work his way up to the WR2 role behind Zay Flowers with a strong finish to training camp, considering Rashod Bateman is facing charges stemming from a domestic incident in June.
 - **Ty Simpson** — Ty Simpson - Serves as QB2 vs. New Orleans (2026-08-22T23:46:21Z)
   - Matthew Stafford and most of the Rams' starters were sidelined for Saturday's exhibition contest. As was the case in the preseason opener against the Kansas City, Stetson Bennett served as the starter against New Orleans, and he played well under center before turning the keys over to Simpson midway through the third quarter. Simpson couldn't replicate the production he had against the Chiefs, but he managed to lead an 11-play, 66-yard scoring drive in the fourth quarter that ended with an 12-yard rushing touchdown by Jarquez Hunter. It appears as though Simpson is securely slated as the Rams' QB3 behind Stafford and Bennett heading into the regular season. The Rams wrap up their preseason slate Thursday against the Chargers.
-- **Demond Claiborne** — Demond Claiborne Appears Locked into RB3 Role (2026-08-22T23:39:08Z)
-  - Source: https://www.rotoballer.com/player-news/demond-claiborne-appears-locked-into-rb3-role/1914214
-- **Theo Johnson** — Theo Johnson - One catch in preseason Week 2 (2026-08-22T23:33:14Z)
-  - Johnson is expected to work as the Giants' No. 2 TE in 2026 behind offseason addition Isaiah Likely, who previously played under new Giants head coach John Harbaugh in Baltimore. As the team's top option at the position in 2025, Johnson caught 45 of 74 targets for 528 yards and five TDs. Likely's career high in any regular season is only 477 receiving yards, though he was stuck behind Mark Andrews during his stint with the Ravens.
-- **Tyrone Tracy** — Tyrone Tracy - Commits another preseason blunder (2026-08-22T23:22:28Z)
-  - Tracy split carries with Devin Singletary in the first half while Cam Skattebo and the newly signed Najee Harris didn't see any action. For the second time in as many preseason games, Tracy made a key mistake. After whiffing on a pass block in the preseason opener, Tracy fumbled in the red zone Saturday. Tracy averages a solid 4.3 yards per carry and 7.7 yards per catch in his regular-season career, so the 2024 fifth-round pick could still be a key part of the Giants' backfield plans in 2026, but he needs to clean up the errors to avoid landing in head coach John Harbaugh's doghouse.
-- **Devin Singletary** — Devin Singletary - Outplays Tracy in preseason win (2026-08-22T23:17:23Z)
-  - Singletary was the first running back into the game for the Giants, as neither the presumed regular-season starter Cam Skattebo or the recently signed Najee Harris saw any utilization. Singletary and Tyrone Tracy alternated work throughout the first half, and the former put forth the better performance. The highlight of Singletary's afternoon was a 13-yard rushing touchdown in the second quarter, while Tracy fumbled in the red zone in the first quarter. After rushing for exactly 437 yards in each of his previous two seasons with the Giants, Singletary is looking to secure a role in a crowded backfield, and he helped his case with Saturday's strong outing.
-- **De'Von Achane** — De'Von Achane Sits Out of Saturday's Preseason Contest (2026-08-22T23:15:07Z)
-  - Source: https://www.rotoballer.com/player-news/devon-achane-sits-out-of-saturdays-preseason-contest/1914206
-- **Zachariah Branch** — Zachariah Branch Appears Headed for Reserve Role in 2026 (2026-08-22T23:14:08Z)
-  - Source: https://www.rotoballer.com/player-news/zachariah-branch-appears-headed-for-reserve-role-in-2026/1914204
-- **Jaxson Dart** — Jaxson Dart - Rested for second preseason game (2026-08-22T23:09:07Z)
-  - Backup Jameis Winston got the start as Dart and some other key starters rested for the second preseason game. Dart played two series in the preseason opener, capping that appearance with a touchdown pass. It remains to be seen whether coach John Harbaugh gives the 2025 first-round pick any action in Friday's preseason finale against the Jets before the Giants kick off regular-season play with a Week 1 home game against the Cowboys on Sunday Night Football.
-- **Puka Nacua** — Puka Nacua Has Civil Trial Moved to March of 2028 (2026-08-22T23:05:07Z)
-  - Source: https://www.rotoballer.com/player-news/puka-nacua-has-civil-trial-moved-to-march-of-2028/1914201

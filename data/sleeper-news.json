@@ -1,15 +1,16 @@
 {
-  "last_checked_at": "2026-08-24T08:08:57Z",
+  "last_checked_at": "2026-08-24T14:23:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|12490|rotoballer|219263|1787531174000",
-    "nfl|12521|rotowire|634627|1787545689000",
-    "nfl|12522|rotowire|634625|1787544403000",
-    "nfl|13279|rotoballer|219261|1787528708000",
-    "nfl|13602|fantasy_pros|599340|1785513933479",
-    "nfl|9486|rotoballer|219260|1787528229000",
-    "nfl|9508|rotowire|634626|1787545007000"
+    "nfl|10219|rotoballer|219266|1787564255000",
+    "nfl|11597|rotoballer|219268|1787565735000",
+    "nfl|12521|rotoballer|219264|1787562785000",
+    "nfl|12524|rotowire|634634|1787581149000",
+    "nfl|13346|rotowire|634632|1787579534000",
+    "nfl|4017|fantasy_pros|604002|1787580640091",
+    "nfl|4017|rotoballer|219269|1787566453000",
+    "nfl|4017|rotowire|634633|1787580396000"
   ],
   "schema_version": 1,
   "source": {
@@ -19,6 +20,167 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Sanders and Watson had been battling for the job since the start of the offseason program and alternated starts in the Browns' first two preseason tilts. Between losses to the Browns and Bills, Sanders completed 15 of 22 attempts for 153 yards, one touchdown and two interceptions. While Watson didn't fare dramatically better in the two exhibition games, his superior performance during camp practices in addition to his pricey contract were likely factors in him emerging as the victor in the job battle. Watson likely won't head into Week 1 with a long leash, and Sanders should have a good chance at making starts in 2026 if the Browns limp out to a poor start to the season.",
+      "description": "Sanders will open the season as the Browns' backup quarterback after the team named Deshaun Watson its starter Monday, multiple sources tell NFL reporter Jordan Schultz.",
+      "metadata": {
+        "analysis": "Sanders and Watson had been battling for the job since the start of the offseason program and alternated starts in the Browns' first two preseason tilts. Between losses to the Browns and Bills, Sanders completed 15 of 22 attempts for 153 yards, one touchdown and two interceptions. While Watson didn't fare dramatically better in the two exhibition games, his superior performance during camp practices in addition to his pricey contract were likely factors in him emerging as the victor in the job battle. Watson likely won't head into Week 1 with a long leash, and Sanders should have a good chance at making starts in 2026 if the Browns limp out to a poor start to the season.",
+        "description": "Sanders will open the season as the Browns' backup quarterback after the team named Deshaun Watson its starter Monday, multiple sources tell NFL reporter Jordan Schultz.",
+        "title": "Shedeur Sanders - Beginning season in backup role",
+        "topic_id": "1397620649995812864"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12524",
+      "player_name": "Shedeur Sanders",
+      "position": "QB",
+      "published": 1787581149000,
+      "source": "rotowire",
+      "source_key": "634634",
+      "story_id": "nfl|12524|rotowire|634634|1787581149000",
+      "title": "Shedeur Sanders - Beginning season in backup role",
+      "url": null
+    },
+    {
+      "analysis": "Watson was the favorite to win the job going in, and even though he had some hiccups on the way, namely preseason struggles and the fans booing him, he won out in the end. It's still likely that Shedeur Sanders will get a crack as the starter at some point this year, it's just a matter of when. As for the Browns pass catchers, they were priced assuming bad QB play, expect their price and fantasy ceiling to remain about the same, as Watson is past his prime and Sanders is also struggling.",
+      "description": "Deshaun Watson has been named the Browns starting QB for Week 1 against Jacksonville.",
+      "metadata": {
+        "analysis": "Watson was the favorite to win the job going in, and even though he had some hiccups on the way, namely preseason struggles and the fans booing him, he won out in the end. It's still likely that Shedeur Sanders will get a crack as the starter at some point this year, it's just a matter of when. As for the Browns pass catchers, they were priced assuming bad QB play, expect their price and fantasy ceiling to remain about the same, as Watson is past his prime and Sanders is also struggling.",
+        "description": "Deshaun Watson has been named the Browns starting QB for Week 1 against Jacksonville.",
+        "title": "Deshaun Watson named Browns starter for Week 1",
+        "topic_id": "1397618138815660032",
+        "url": "https://www.fantasypros.com/nfl/news/604002/deshaun-watson-named-browns-starter-week-1.php"
+      },
+      "nfl_team": "CLE",
+      "player_id": "4017",
+      "player_name": "Deshaun Watson",
+      "position": "QB",
+      "published": 1787580640091,
+      "source": "fantasy_pros",
+      "source_key": "604002",
+      "story_id": "nfl|4017|fantasy_pros|604002|1787580640091",
+      "title": "Deshaun Watson named Browns starter for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/604002/deshaun-watson-named-browns-starter-week-1.php"
+    },
+    {
+      "analysis": "Watson won out in a job battle with Shedeur Sanders, after the quarterbacks alternated starts in the Browns' first two preseason contests. After an efficient showing in the preseason opener against the Bears (11-for-15 for 126 yards), Watson was unproductive over his four second-half drives in Saturday's 31-7 exhibition loss to the Bills, completing just five of 12 throws for 36 yards and an interception. The Browns were apparently encouraged enough from what they've seen from Watson over the course of training camp and the first two preseason tilts to move forward with him as their starter heading into the regular season, but he'll most likely be on a short leash. Since joining the Browns in 2022, Watson has posted a lowly 33.1 QBR while being limited to 19 total games due to injuries, including a torn right Achilles tendon and a subsequent re-rupture that kept him out for the entire 2025 season.",
+      "description": "The Browns named Watson their starting quarterback Monday, multiple sources tell NFL reporter Jordan Schultz.",
+      "metadata": {
+        "analysis": "Watson won out in a job battle with Shedeur Sanders, after the quarterbacks alternated starts in the Browns' first two preseason contests. After an efficient showing in the preseason opener against the Bears (11-for-15 for 126 yards), Watson was unproductive over his four second-half drives in Saturday's 31-7 exhibition loss to the Bills, completing just five of 12 throws for 36 yards and an interception. The Browns were apparently encouraged enough from what they've seen from Watson over the course of training camp and the first two preseason tilts to move forward with him as their starter heading into the regular season, but he'll most likely be on a short leash. Since joining the Browns in 2022, Watson has posted a lowly 33.1 QBR while being limited to 19 total games due to injuries, including a torn right Achilles tendon and a subsequent re-rupture that kept him out for the entire 2025 season.",
+        "description": "The Browns named Watson their starting quarterback Monday, multiple sources tell NFL reporter Jordan Schultz.",
+        "title": "Deshaun Watson - Named Cleveland's starting quarterback",
+        "topic_id": "1397618132536827904"
+      },
+      "nfl_team": "CLE",
+      "player_id": "4017",
+      "player_name": "Deshaun Watson",
+      "position": "QB",
+      "published": 1787580396000,
+      "source": "rotowire",
+      "source_key": "634633",
+      "story_id": "nfl|4017|rotowire|634633|1787580396000",
+      "title": "Deshaun Watson - Named Cleveland's starting quarterback",
+      "url": null
+    },
+    {
+      "analysis": "After drawing two targets in the Browns' preseason opener a week earlier against the Bears and connecting with Deshaun Watson on a nifty 15-yard catch and run, Boston was held quiet in his limited snaps during the second exhibition game. Notably, Jerry Jeudy and KC Concepcion were both rested Saturday while Boston played, which suggests that the rookie second-round pick out of Washington currently sits no higher than third on the depth chart.",
+      "description": "Boston went without a target while playing 11 snaps on offense Saturday in the Browns' 31-7 preseason loss to the Bills.",
+      "metadata": {
+        "analysis": "After drawing two targets in the Browns' preseason opener a week earlier against the Bears and connecting with Deshaun Watson on a nifty 15-yard catch and run, Boston was held quiet in his limited snaps during the second exhibition game. Notably, Jerry Jeudy and KC Concepcion were both rested Saturday while Boston played, which suggests that the rookie second-round pick out of Washington currently sits no higher than third on the depth chart.",
+        "description": "Boston went without a target while playing 11 snaps on offense Saturday in the Browns' 31-7 preseason loss to the Bills.",
+        "title": "Denzel Boston - Goes untargeted in second preseason game",
+        "topic_id": "1397614357839405056"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13346",
+      "player_name": "Denzel Boston",
+      "position": "WR",
+      "published": 1787579534000,
+      "source": "rotowire",
+      "source_key": "634632",
+      "story_id": "nfl|13346|rotowire|634632|1787579534000",
+      "title": "Denzel Boston - Goes untargeted in second preseason game",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Cleveland Browns have named veteran quarterback Deshaun Watson as their starter for the 2026 season, according to NFL Insider Jordan Schultz. Watson battled second-year quarterback Shedeur Sanders throughout training camp and two-up-and-down preseason games, and with neither able to take a clear grasp on the role, head coach Todd Monken's decision did not come until late August. Watson completed only five of 12 pass attempts in the team's second preseason game on Saturday, adding an interception to his lost fumble from preseason game one, but he showed enough in practice to earn the starting job in what will be his tenth professional season. A three-time Pro Bowler with the Houston Texans, Watson was acquired by the Browns in 2022, where he has gone 9-10 as a starter and most recently missed the entire 2025 season after rupturing his Achilles tendon for the second time. Watson is RotoBaller's QB32, and he will be backed up by Sanders.",
+      "metadata": {
+        "description": "The Cleveland Browns have named veteran quarterback Deshaun Watson as their starter for the 2026 season, according to NFL Insider Jordan Schultz. Watson battled second-year quarterback Shedeur Sanders throughout training camp and two-up-and-down preseason games, and with neither able to take a clear grasp on the role, head coach Todd Monken's decision did not come until late August. Watson completed only five of 12 pass attempts in the team's second preseason game on Saturday, adding an interception to his lost fumble from preseason game one, but he showed enough in practice to earn the starting job in what will be his tenth professional season. A three-time Pro Bowler with the Houston Texans, Watson was acquired by the Browns in 2022, where he has gone 9-10 as a starter and most recently missed the entire 2025 season after rupturing his Achilles tendon for the second time. Watson is RotoBaller's QB32, and he will be backed up by Sanders.",
+        "title": "Browns Naming Deshaun Watson as Starting Quarterback",
+        "topic_id": "1397620647957413888",
+        "url": "https://www.rotoballer.com/player-news/browns-naming-deshaun-watson-as-starting-quarterback/1915113"
+      },
+      "nfl_team": "CLE",
+      "player_id": "4017",
+      "player_name": "Deshaun Watson",
+      "position": "QB",
+      "published": 1787566453000,
+      "source": "rotoballer",
+      "source_key": "219269",
+      "story_id": "nfl|4017|rotoballer|219269|1787566453000",
+      "title": "Browns Naming Deshaun Watson as Starting Quarterback",
+      "url": "https://www.rotoballer.com/player-news/browns-naming-deshaun-watson-as-starting-quarterback/1915113"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants tight end Theo Johnson was viewed as a player on the rise following a solid second season in which he topped 500 receiving yards and scored five times while developing an obvious rapport with quarterback Jaxson Dart. Unfortunately, the arrival of free agent acquisition Isaiah Likely could see his development plateau, while the return to health of 2024 first-round pick Malik Nabers has the potential to shrink the value of all of the Giants' complementary pass-catchers. Even with Nabers yet to shed his red non-contact jersey and see a full workload, Johnson has had a quiet training camp and is not a player carrying high fantasy expectations into the 2026 season. As RotoBaller's TE41, Johnson is going largely undrafted outside of the deepest multi-tight end leagues and would require an injury ahead of him to find his way back into the weekly streaming conversation in most formats.",
+      "metadata": {
+        "description": "New York Giants tight end Theo Johnson was viewed as a player on the rise following a solid second season in which he topped 500 receiving yards and scored five times while developing an obvious rapport with quarterback Jaxson Dart. Unfortunately, the arrival of free agent acquisition Isaiah Likely could see his development plateau, while the return to health of 2024 first-round pick Malik Nabers has the potential to shrink the value of all of the Giants' complementary pass-catchers. Even with Nabers yet to shed his red non-contact jersey and see a full workload, Johnson has had a quiet training camp and is not a player carrying high fantasy expectations into the 2026 season. As RotoBaller's TE41, Johnson is going largely undrafted outside of the deepest multi-tight end leagues and would require an injury ahead of him to find his way back into the weekly streaming conversation in most formats.",
+        "title": "Theo Johnson in a Tough Position to Take the Next Step for Fantasy",
+        "topic_id": "1397618131324674048",
+        "url": "https://www.rotoballer.com/player-news/theo-johnson-in-a-tough-position-to-take-the-next-step-for-fantasy/1915102"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11597",
+      "player_name": "Theo Johnson",
+      "position": "TE",
+      "published": 1787565735000,
+      "source": "rotoballer",
+      "source_key": "219268",
+      "story_id": "nfl|11597|rotoballer|219268|1787565735000",
+      "title": "Theo Johnson in a Tough Position to Take the Next Step for Fantasy",
+      "url": "https://www.rotoballer.com/player-news/theo-johnson-in-a-tough-position-to-take-the-next-step-for-fantasy/1915102"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. quietly put together one of the position's most efficient seasons in his final year with the Commanders, routinely churning through contact to find additional yards over expectation. Reconnecting with his former collegiate offensive coordinator after signing a two-year free agent deal, there is an expectation that Rodriguez can earn a meaningful role near the goal line, as Liam Coen, now the Jaguars' head coach, has witnessed first-hand the difficulty defenders have in bringing him to the ground. Offseason foot surgery caused Rodriguez to miss all of OTAs and minicamp, allowing second-year back Bhayshul Tuten to gain steam in the competition to replace the 307 vacated opportunities of Travis Etienne Jr. from a season ago. Still, both backs could see heavy involvement in 2026, with their complementary skill sets providing each with a path to fantasy relevance. While a true committee will cap both players' ceiling, Rodriguez's touchdown upside still makes him a strong potential value, currently being drafted as the RB47.",
+      "metadata": {
+        "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. quietly put together one of the position's most efficient seasons in his final year with the Commanders, routinely churning through contact to find additional yards over expectation. Reconnecting with his former collegiate offensive coordinator after signing a two-year free agent deal, there is an expectation that Rodriguez can earn a meaningful role near the goal line, as Liam Coen, now the Jaguars' head coach, has witnessed first-hand the difficulty defenders have in bringing him to the ground. Offseason foot surgery caused Rodriguez to miss all of OTAs and minicamp, allowing second-year back Bhayshul Tuten to gain steam in the competition to replace the 307 vacated opportunities of Travis Etienne Jr. from a season ago. Still, both backs could see heavy involvement in 2026, with their complementary skill sets providing each with a path to fantasy relevance. While a true committee will cap both players' ceiling, Rodriguez's touchdown upside still makes him a strong potential value, currently being drafted as the RB47.",
+        "title": "Chris Rodriguez Jr. Can Find Weekly Fantasy Relevance",
+        "topic_id": "1397610580784742400",
+        "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-can-find-weekly-fantasy-relevance-through-efficiency-and-goal-line-usage/1915071"
+      },
+      "nfl_team": "JAX",
+      "player_id": "10219",
+      "player_name": "Chris Rodriguez",
+      "position": "RB",
+      "published": 1787564255000,
+      "source": "rotoballer",
+      "source_key": "219266",
+      "story_id": "nfl|10219|rotoballer|219266|1787564255000",
+      "title": "Chris Rodriguez Jr. Can Find Weekly Fantasy Relevance",
+      "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-can-find-weekly-fantasy-relevance-through-efficiency-and-goal-line-usage/1915071"
+    },
+    {
+      "analysis": null,
+      "description": "Second-year tight end Elijah Arroyo caught the final two passes of Seattle's opening drive in Sunday night's preseason matchup with the Titans, quickly moving the Seahawks from midfield into the end zone. Arroyo caught a 14-yard pass from quarterback Drew Lock on a play designed to motion him into space before the two connected on a 36-yard touchdown strike on the next play. After catching only 15 passes as a rookie, Arroyo has been a training camp standout for the defending Super Bowl champions, and he could find the field frequently in Seattle's tight end-heavy offense, potentially pushing 2025 breakout AJ Barner for some of the more valuable opportunities at the position. With the NFL trending toward more 12 and 13 personnel usage, there is no shortage of draftable fantasy tight ends, so Arroyo is not a player who needs to be targeted as RotoBaller's TE46, but if he can carry the momentum of a solid summer into the regular season, he could quickly work his way into the streaming conversation.",
+      "metadata": {
+        "description": "Second-year tight end Elijah Arroyo caught the final two passes of Seattle's opening drive in Sunday night's preseason matchup with the Titans, quickly moving the Seahawks from midfield into the end zone. Arroyo caught a 14-yard pass from quarterback Drew Lock on a play designed to motion him into space before the two connected on a 36-yard touchdown strike on the next play. After catching only 15 passes as a rookie, Arroyo has been a training camp standout for the defending Super Bowl champions, and he could find the field frequently in Seattle's tight end-heavy offense, potentially pushing 2025 breakout AJ Barner for some of the more valuable opportunities at the position. With the NFL trending toward more 12 and 13 personnel usage, there is no shortage of draftable fantasy tight ends, so Arroyo is not a player who needs to be targeted as RotoBaller's TE46, but if he can carry the momentum of a solid summer into the regular season, he could quickly work his way into the streaming conversation.",
+        "title": "Elijah Arroyo Punctuates Strong Summer with a Long Touchdown",
+        "topic_id": "1397605547817091072",
+        "url": "https://www.rotoballer.com/player-news/elijah-arroyo-punctuates-strong-summer-with-a-long-touchdown/1915014"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12521",
+      "player_name": "Elijah Arroyo",
+      "position": "TE",
+      "published": 1787562785000,
+      "source": "rotoballer",
+      "source_key": "219264",
+      "story_id": "nfl|12521|rotoballer|219264|1787562785000",
+      "title": "Elijah Arroyo Punctuates Strong Summer with a Long Touchdown",
+      "url": "https://www.rotoballer.com/player-news/elijah-arroyo-punctuates-strong-summer-with-a-long-touchdown/1915014"
+    },
     {
       "analysis": "Arroyo capped Seattle's opening drive with a 36-yard touchdown reception from Drew Lock. After producing only 179 receiving yards in his rookie regular season, Arroyo is trying to earn a larger role in his second NFL campaign. The 2025 second-round pick is set to open his sophomore season as the team's No. 2 TE behind AJ Barner.",
       "description": "Arroyo caught two of four targets for 50 yards and a touchdown in Sunday's 19-16 preseason loss to the Titans.",
