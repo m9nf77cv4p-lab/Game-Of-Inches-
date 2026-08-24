@@ -1,28 +1,22 @@
 {
-  "last_checked_at": "2026-08-24T19:19:04Z",
+  "last_checked_at": "2026-08-24T20:59:59Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|10219|rotoballer|219294|1787582588000",
-    "nfl|11559|rotoballer|219297|1787583134000",
-    "nfl|11559|rotowire|634665|1787594003000",
-    "nfl|12512|rotoballer|219291|1787581454000",
-    "nfl|12529|rotoballer|219292|1787582049000",
-    "nfl|12533|rotoballer|219295|1787582829000",
-    "nfl|12533|rotowire|634668|1787596357000",
-    "nfl|13330|rotoballer|219290|1787580909000",
-    "nfl|13330|rotowire|634669|1787597043000",
-    "nfl|7569|rotoballer|219300|1787584148000",
-    "nfl|7594|rotoballer|219299|1787584269000",
-    "nfl|8136|rotowire|634667|1787595976000",
-    "nfl|8155|rotoballer|219288|1787579527000",
-    "nfl|9486|rotowire|634666|1787594984000",
-    "nfl|9493|rotoballer|219293|1787581934000",
-    "nfl|9493|rotowire|634664|1787593806000",
-    "nfl|9504|fantasy_pros|604020|1787598641946",
-    "nfl|9504|rotoballer|219296|1787583372000",
-    "nfl|9504|rotowire|634670|1787597444000",
-    "nfl|9997|rotoballer|219289|1787580135000"
+    "nfl|11597|rotowire|634682|1787604655000",
+    "nfl|11632|fantasy_pros|604027|1787604942405",
+    "nfl|11632|rotoballer|219304|1787585893000",
+    "nfl|11632|rotowire|634672|1787598960000",
+    "nfl|12527|rotoballer|219308|1787587629000",
+    "nfl|12527|rotowire|634677|1787601358000",
+    "nfl|13287|rotoballer|219309|1787588109000",
+    "nfl|13287|rotowire|634675|1787600966000",
+    "nfl|13311|rotoballer|219302|1787585228000",
+    "nfl|5850|rotoballer|219307|1787586669000",
+    "nfl|8121|rotoballer|219303|1787585108000",
+    "nfl|8136|rotoballer|219306|1787586250000",
+    "nfl|9511|rotoballer|219310|1787589910000",
+    "nfl|9758|rotoballer|219301|1787584630000"
   ],
   "schema_version": 1,
   "source": {
@@ -33,6 +27,107 @@
   },
   "stories": [
     {
+      "analysis": "Nabers was able to practice on Monday without the red non-contact jersey. Barring a setback, he is trending towards being ready for the start of the season. ",
+      "description": "Giants head coach John Harbaugh said \"it's reasonable to assume\" that Malik Nabers is trending toward being ready for Week 1. ",
+      "metadata": {
+        "analysis": "Nabers was able to practice on Monday without the red non-contact jersey. Barring a setback, he is trending towards being ready for the start of the season. ",
+        "description": "Giants head coach John Harbaugh said \"it's reasonable to assume\" that Malik Nabers is trending toward being ready for Week 1. ",
+        "title": "Malik Nabers (knee) could be ready for Week 1",
+        "topic_id": "1397720070112706560",
+        "url": "https://www.fantasypros.com/nfl/news/604027/malik-nabers-knee-could-be-ready-week-1.php"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1787604942405,
+      "source": "fantasy_pros",
+      "source_key": "604027",
+      "story_id": "nfl|11632|fantasy_pros|604027|1787604942405",
+      "title": "Malik Nabers (knee) could be ready for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/604027/malik-nabers-knee-could-be-ready-week-1.php"
+    },
+    {
+      "analysis": "Per the report, Johnson went down while blocking, and appeared visibly frustrated as he headed toward the locker room. Per Dan Duggan of The Athletic, coach John Harbaugh noted that the tight end collided with teammate Kayvon Thibodeaux, and at this stage he thinks that Johnson will be okay.",
+      "description": "Johnson left Monday's practice due to an unspecified issue, Dan Bentonof USA Today reports.",
+      "metadata": {
+        "analysis": "Per the report, Johnson went down while blocking, and appeared visibly frustrated as he headed toward the locker room. Per Dan Duggan of The Athletic, coach John Harbaugh noted that the tight end collided with teammate Kayvon Thibodeaux, and at this stage he thinks that Johnson will be okay.",
+        "description": "Johnson left Monday's practice due to an unspecified issue, Dan Bentonof USA Today reports.",
+        "title": "Theo Johnson - Exits Monday's practice",
+        "topic_id": "1397720064769150976"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11597",
+      "player_name": "Theo Johnson",
+      "position": "TE",
+      "published": 1787604655000,
+      "source": "rotowire",
+      "source_key": "634682",
+      "story_id": "nfl|11597|rotowire|634682|1787604655000",
+      "title": "Theo Johnson - Exits Monday's practice",
+      "url": null
+    },
+    {
+      "analysis": "The Raiders experienced a scare when Jeanty went down during Sunday's session and couldn't put any pressure on his right leg as he left the field. Later Sunday evening, Adam Schefter of ESPN reported that Jeanty suffered a sprained ankle that wasn't considered to be a long-term concern, but the second-year running back predictably will require some time on the sideline. Rookie fourth-rounder Mike Washington likely will take on most of the first-team reps during Jeanty's absence.",
+      "description": "Jeanty (ankle) didn't participant in practice Monday, Ryan McFadden of ESPN.com reports.",
+      "metadata": {
+        "analysis": "The Raiders experienced a scare when Jeanty went down during Sunday's session and couldn't put any pressure on his right leg as he left the field. Later Sunday evening, Adam Schefter of ESPN reported that Jeanty suffered a sprained ankle that wasn't considered to be a long-term concern, but the second-year running back predictably will require some time on the sideline. Rookie fourth-rounder Mike Washington likely will take on most of the first-team reps during Jeanty's absence.",
+        "description": "Jeanty (ankle) didn't participant in practice Monday, Ryan McFadden of ESPN.com reports.",
+        "title": "Ashton Jeanty - Sits out Monday's practice",
+        "topic_id": "1397706222110511104"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1787601358000,
+      "source": "rotowire",
+      "source_key": "634677",
+      "story_id": "nfl|12527|rotowire|634677|1787601358000",
+      "title": "Ashton Jeanty - Sits out Monday's practice",
+      "url": null
+    },
+    {
+      "analysis": "Love emerged from preseason Week 1 with an ankle injury that eventually was revealed to be severe enough to require a multi-week absence. While LaFleur relayed last Thursday that Love won't need surgery, the rookie third overall pick won't play again during exhibition season, meaning his next chance for game action is Sunday, Sept. 13 at the Chargers. If Love isn't able to go in the season opener, Tyler Allgeier likely will be Arizona's lead runner in that contest.",
+      "description": "Coach Mike LaFleur said Monday that Love is progressing in his recovery from a high-ankle sprain but will remain sidelined this week, Darren Urban of the Cardinals' official site reports.",
+      "metadata": {
+        "analysis": "Love emerged from preseason Week 1 with an ankle injury that eventually was revealed to be severe enough to require a multi-week absence. While LaFleur relayed last Thursday that Love won't need surgery, the rookie third overall pick won't play again during exhibition season, meaning his next chance for game action is Sunday, Sept. 13 at the Chargers. If Love isn't able to go in the season opener, Tyler Allgeier likely will be Arizona's lead runner in that contest.",
+        "description": "Coach Mike LaFleur said Monday that Love is progressing in his recovery from a high-ankle sprain but will remain sidelined this week, Darren Urban of the Cardinals' official site reports.",
+        "title": "Jeremiyah Love - Remains sidelined by ankle issue",
+        "topic_id": "1397704963362144256"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1787600966000,
+      "source": "rotowire",
+      "source_key": "634675",
+      "story_id": "nfl|13287|rotowire|634675|1787600966000",
+      "title": "Jeremiyah Love - Remains sidelined by ankle issue",
+      "url": null
+    },
+    {
+      "analysis": "Nabers has been taking part in team drills for a little more than one week, but he was wearing the red jersey until Monday's development. This doesn't mean he's been cleared for all activity, but he now is closing in on the final stages of his recovery from the torn ACL that he suffered in his right knee Week 4 of last season. All signs are pointing toward Nabers being available Sunday, Sept. 13 against the Cowboys.",
+      "description": "Nabers (knee) wasn't wearing a non-contact red jersey at Monday's practice, Perry Sook of WPIX reports.",
+      "metadata": {
+        "analysis": "Nabers has been taking part in team drills for a little more than one week, but he was wearing the red jersey until Monday's development. This doesn't mean he's been cleared for all activity, but he now is closing in on the final stages of his recovery from the torn ACL that he suffered in his right knee Week 4 of last season. All signs are pointing toward Nabers being available Sunday, Sept. 13 against the Cowboys.",
+        "description": "Nabers (knee) wasn't wearing a non-contact red jersey at Monday's practice, Perry Sook of WPIX reports.",
+        "title": "Malik Nabers - Out of non-contact jersey",
+        "topic_id": "1397696155059499008"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1787598960000,
+      "source": "rotowire",
+      "source_key": "634672",
+      "story_id": "nfl|11632|rotowire|634672|1787598960000",
+      "title": "Malik Nabers - Out of non-contact jersey",
+      "url": null
+    },
+    {
       "analysis": "Boutte has had his name in trade rumors for most of the offseason following the Patriots offseason additions of AJ Brown and Romeo Doubs. Boutte will get a fresh start in a wide open wide receiver room with Houston. He should compete for a role as a field stretcher for the Texans. ",
       "description": "The Patriots are sending WR Kayshon Boutte to the Texans in exchange for safety Jaylen Reed and a 2028 seventh-round pick. ",
       "metadata": {
@@ -42,7 +137,7 @@
         "topic_id": "1397693644068139008",
         "url": "https://www.fantasypros.com/nfl/news/604020/kayshon-boutte-traded-to-texans.php"
       },
-      "nfl_team": "NE",
+      "nfl_team": "HOU",
       "player_id": "9504",
       "player_name": "Kayshon Boutte",
       "position": "WR",
@@ -62,7 +157,7 @@
         "title": "Kayshon Boutte - Dealt to Texans",
         "topic_id": "1397689863322488832"
       },
-      "nfl_team": "NE",
+      "nfl_team": "HOU",
       "player_id": "9504",
       "player_name": "Kayshon Boutte",
       "position": "WR",
@@ -398,6 +493,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Los Angeles Chargers running back Keaton Mitchell (undisclosed) has missed two straight training camp practices, and offensive coordinator Mike McDaniel said he had a \"setback,\" according to Kris Rhim of ESPN. Mitchell is set to have a role in McDaniel's offense in 2026 on a weekly basis alongside Omarion Hampton and Kimani Vidal, but it is unclear if his recent setback will put him in any danger of missing Week 1 of the regular season against the Arizona Cardinals. The 24-year-old former undrafted free agent from East Carolina latched on with the Baltimore Ravens and spent his first three years in the NFL with the Ravens, but he managed to play in only 26 games (two starts) due to injuries, recording 767 rushing yards and three touchdowns on 121 carries. Mitchell is highly explosive when healthy, but his lack of pass-catching skills in a committee approach in L.A. in 2026 will severely cap his fantasy upside if both Hampton and Vidal stay healthy. In half-PPR formats, RotoBaller has Mitchell ranked as the No. 42 fantasy RB for 2026 in his first year with the Bolts.",
+      "metadata": {
+        "description": "Los Angeles Chargers running back Keaton Mitchell (undisclosed) has missed two straight training camp practices, and offensive coordinator Mike McDaniel said he had a \"setback,\" according to Kris Rhim of ESPN. Mitchell is set to have a role in McDaniel's offense in 2026 on a weekly basis alongside Omarion Hampton and Kimani Vidal, but it is unclear if his recent setback will put him in any danger of missing Week 1 of the regular season against the Arizona Cardinals. The 24-year-old former undrafted free agent from East Carolina latched on with the Baltimore Ravens and spent his first three years in the NFL with the Ravens, but he managed to play in only 26 games (two starts) due to injuries, recording 767 rushing yards and three touchdowns on 121 carries. Mitchell is highly explosive when healthy, but his lack of pass-catching skills in a committee approach in L.A. in 2026 will severely cap his fantasy upside if both Hampton and Vidal stay healthy. In half-PPR formats, RotoBaller has Mitchell ranked as the No. 42 fantasy RB for 2026 in his first year with the Bolts.",
+        "title": "Keaton Mitchell Suffers a \"Setback\"",
+        "topic_id": "1397718803969740800",
+        "url": "https://www.rotoballer.com/player-news/keaton-mitchell-suffers-a-setback/1915458"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1787589910000,
+      "source": "rotoballer",
+      "source_key": "219310",
+      "story_id": "nfl|9511|rotoballer|219310|1787589910000",
+      "title": "Keaton Mitchell Suffers a \"Setback\"",
+      "url": "https://www.rotoballer.com/player-news/keaton-mitchell-suffers-a-setback/1915458"
+    },
+    {
       "analysis": "More updates will be available after practice regarding the extent of Henderson's injury. As long as the issue doesn't linger, Henderson is on track to combine with Rhamondre Stevenson in a New England backfield that should provide enough touches for both players  to merit fantasy lineup consideration this coming season.",
       "description": "Henderson left Monday's practice with a right lower leg issue, Mike Kadlick of Sports Illustrated reports.",
       "metadata": {
@@ -458,6 +573,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Arizona Cardinals head coach Mike LaFleur said that rookie first-round running back Jeremiyah Love (ankle) is progressing, but he will be sidelined this week, according to Darren Urban of AZCardinals.com. Love suffered a high-ankle sprain in the first week of the preseason, and although he is missing valuable time before his first NFL season, the good news is that he will avoid ankle surgery that would have made him unavailable for the start of the regular season in early September. It is still a bit unclear if Love will be available for Week 1 against the Los Angeles Chargers, and if he is, he could be pretty limited from a workload perspective. Arizona's backfield has been banged up this summer, with James Conner (foot) and Trey Benson (knee) still recovering from season-ending injuries in 2025. Even if Love is ready to roll for Week 1, Tyler Allgeier is trending toward being the Cardinals' primary running back to kick off the regular season. Love's fantasy price was inflated after the Cardinals took him third overall out of Notre Dame, but his preseason injury has knocked him down draft boards a bit as an RB2 target in the early rounds for his explosiveness in all facets of the game.",
+      "metadata": {
+        "description": "Arizona Cardinals head coach Mike LaFleur said that rookie first-round running back Jeremiyah Love (ankle) is progressing, but he will be sidelined this week, according to Darren Urban of AZCardinals.com. Love suffered a high-ankle sprain in the first week of the preseason, and although he is missing valuable time before his first NFL season, the good news is that he will avoid ankle surgery that would have made him unavailable for the start of the regular season in early September. It is still a bit unclear if Love will be available for Week 1 against the Los Angeles Chargers, and if he is, he could be pretty limited from a workload perspective. Arizona's backfield has been banged up this summer, with James Conner (foot) and Trey Benson (knee) still recovering from season-ending injuries in 2025. Even if Love is ready to roll for Week 1, Tyler Allgeier is trending toward being the Cardinals' primary running back to kick off the regular season. Love's fantasy price was inflated after the Cardinals took him third overall out of Notre Dame, but his preseason injury has knocked him down draft boards a bit as an RB2 target in the early rounds for his explosiveness in all facets of the game.",
+        "title": "Jeremiyah Love Progressing But Won't Practice This Week",
+        "topic_id": "1397712511775547392",
+        "url": "https://www.rotoballer.com/player-news/jeremiyah-love-progressing-but-wont-practice-this-week/1915426"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1787588109000,
+      "source": "rotoballer",
+      "source_key": "219309",
+      "story_id": "nfl|13287|rotoballer|219309|1787588109000",
+      "title": "Jeremiyah Love Progressing But Won't Practice This Week",
+      "url": "https://www.rotoballer.com/player-news/jeremiyah-love-progressing-but-wont-practice-this-week/1915426"
+    },
+    {
       "analysis": "Reichard was a top-10 fantasy kicker last year and looks to be ready for the season, considering he's been perfect thus far this preseason. Richard finished the 2025 campaign tied with the Cowboys' Brandon Aubrey and the Buccaneers' Chase McLaughlin for the league lead in made kicks from 50-plus yards.",
       "description": "Reichard is a perfect 3-for-3 on field goals through the first two preseason games, with a long of 54 yards.",
       "metadata": {
@@ -498,10 +633,30 @@
       "url": null
     },
     {
-      "analysis": "After missing practice time since Aug. 8, Pittman at least was back on the field for the early portion of Monday's session. Pittman joins DK Metcalf among notable Steelers to return to the practice field Monday after missing some time. The development offers a positive step for the Steelers' big free-agency acquisition, though it doesn't confirm that he has resumed full practice work. Still, Pittman has time to get back to full-go before the season kicks off Sept. 13.",
+      "analysis": null,
+      "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) did not participate in Monday's training camp practice, according to Ryan McFadden of ESPN. Jeanty was injured in practice on Sunday and was unable to put pressure on his right leg, but ESPN reported late Sunday evening that the second-year back is only dealing with a sprained ankle. He could miss some time, but barring a setback, Jeanty could still be ready for the Week 1 regular-season opener in early September. With Jeanty sidelined for a bit with his ankle sprain, rookie fourth-rounder Mike Washington Jr. will get more run with the first-team offense as he looks to solidify the RB2 role heading into his first year in the NFL. Jeanty ran for 975 yards and five rushing touchdowns on 266 carries in 2025 after the Raiders selected him with the sixth overall pick out of Boise State. The 22-year-old added 55 catches for 346 yards and five more TDs as a receiver in 17 starts to finish as the RB13 in half-PPR scoring. The Raiders figure to have more upside on offense with better QB play in 2026, making Jeanty a strong RB2 target with upside as he heads into Year 2.",
+      "metadata": {
+        "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) did not participate in Monday's training camp practice, according to Ryan McFadden of ESPN. Jeanty was injured in practice on Sunday and was unable to put pressure on his right leg, but ESPN reported late Sunday evening that the second-year back is only dealing with a sprained ankle. He could miss some time, but barring a setback, Jeanty could still be ready for the Week 1 regular-season opener in early September. With Jeanty sidelined for a bit with his ankle sprain, rookie fourth-rounder Mike Washington Jr. will get more run with the first-team offense as he looks to solidify the RB2 role heading into his first year in the NFL. Jeanty ran for 975 yards and five rushing touchdowns on 266 carries in 2025 after the Raiders selected him with the sixth overall pick out of Boise State. The 22-year-old added 55 catches for 346 yards and five more TDs as a receiver in 17 starts to finish as the RB13 in half-PPR scoring. The Raiders figure to have more upside on offense with better QB play in 2026, making Jeanty a strong RB2 target with upside as he heads into Year 2.",
+        "title": "Ashton Jeanty Sits Out Monday's Practice",
+        "topic_id": "1397709994836676608",
+        "url": "https://www.rotoballer.com/player-news/ashton-jeanty-sits-out-mondays-practice/1915417"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1787587629000,
+      "source": "rotoballer",
+      "source_key": "219308",
+      "story_id": "nfl|12527|rotoballer|219308|1787587629000",
+      "title": "Ashton Jeanty Sits Out Monday's Practice",
+      "url": "https://www.rotoballer.com/player-news/ashton-jeanty-sits-out-mondays-practice/1915417"
+    },
+    {
+      "analysis": "After missing practice time since Aug. 8, Pittman at least was back on the field for the early portion of Monday's session. Pittman joins DK Metcalf (undisclosed) among notable Steelers to return to the practice field Monday after missing some time. The development offers a positive step for the Steelers' big offseason acquisition, though it doesn't confirm that he has resumed full practice work. Still, Pittman has time to get back to full-go before the season kicks off Sunday, Sept. 13 versus the Falcons.",
       "description": "Pittman (right ankle) was in pads and going through stretching during Monday's practice, Alan Saunders of Steelers Now reports.",
       "metadata": {
-        "analysis": "After missing practice time since Aug. 8, Pittman at least was back on the field for the early portion of Monday's session. Pittman joins DK Metcalf among notable Steelers to return to the practice field Monday after missing some time. The development offers a positive step for the Steelers' big free-agency acquisition, though it doesn't confirm that he has resumed full practice work. Still, Pittman has time to get back to full-go before the season kicks off Sept. 13.",
+        "analysis": "After missing practice time since Aug. 8, Pittman at least was back on the field for the early portion of Monday's session. Pittman joins DK Metcalf (undisclosed) among notable Steelers to return to the practice field Monday after missing some time. The development offers a positive step for the Steelers' big offseason acquisition, though it doesn't confirm that he has resumed full practice work. Still, Pittman has time to get back to full-go before the season kicks off Sunday, Sept. 13 versus the Falcons.",
         "description": "Pittman (right ankle) was in pads and going through stretching during Monday's practice, Alan Saunders of Steelers Now reports.",
         "title": "Michael Pittman - Present at practice Monday",
         "topic_id": "1397648334969131008"
@@ -518,10 +673,10 @@
       "url": null
     },
     {
-      "analysis": "Monday was a notable day for the Steelers with both Metcalf and Michael Pittman getting back on the field. Metcalf appears to have put his multi-week absence behind him and will have time to ramp back up before the season starts Sept.13 against the Falcons.",
+      "analysis": "Monday was a notable day for the Steelers with both Metcalf and Michael Pittman (ankle) getting back on the field. Metcalf appears to have put his multi-week absence behind him and will have time to ramp back up before the season starts Sunday, Sept.13 against the Falcons.",
       "description": "Metcalf (undisclosed) returned to practice Monday after having been sidelined since Aug. 8, Alan Saunders of SteelersNow.com reports.",
       "metadata": {
-        "analysis": "Monday was a notable day for the Steelers with both Metcalf and Michael Pittman getting back on the field. Metcalf appears to have put his multi-week absence behind him and will have time to ramp back up before the season starts Sept.13 against the Falcons.",
+        "analysis": "Monday was a notable day for the Steelers with both Metcalf and Michael Pittman (ankle) getting back on the field. Metcalf appears to have put his multi-week absence behind him and will have time to ramp back up before the season starts Sunday, Sept.13 against the Falcons.",
         "description": "Metcalf (undisclosed) returned to practice Monday after having been sidelined since Aug. 8, Alan Saunders of SteelersNow.com reports.",
         "title": "DK Metcalf - Returns to practice Monday",
         "topic_id": "1397647076245970944"
@@ -558,6 +713,66 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Green Bay Packers running back Josh Jacobs (groin) took team reps Monday and looked sharp doing it. Ryan Wood reported that Jacobs showed good burst through the middle on inside-zone runs after spending most of August working his way back from a groin injury. This is a bigger step than his return last week, when Jacobs was limited to individual drills after nearly two weeks on the sideline. He is coming off a 2025 season in which he rushed 234 times for 929 yards and 13 touchdowns in 15 games, while adding 36 catches for 282 yards and another score. Green Bay has been cautious with Jacobs throughout August, but getting him back into team work and seeing that kind of burst is encouraging with the regular season approaching. Monday looked much closer to normal work for the veteran back.",
+      "metadata": {
+        "description": "Green Bay Packers running back Josh Jacobs (groin) took team reps Monday and looked sharp doing it. Ryan Wood reported that Jacobs showed good burst through the middle on inside-zone runs after spending most of August working his way back from a groin injury. This is a bigger step than his return last week, when Jacobs was limited to individual drills after nearly two weeks on the sideline. He is coming off a 2025 season in which he rushed 234 times for 929 yards and 13 touchdowns in 15 games, while adding 36 catches for 282 yards and another score. Green Bay has been cautious with Jacobs throughout August, but getting him back into team work and seeing that kind of burst is encouraging with the regular season approaching. Monday looked much closer to normal work for the veteran back.",
+        "title": "Josh Jacobs Showing Burst in Team Drills",
+        "topic_id": "1397704962074509312",
+        "url": "https://www.rotoballer.com/player-news/josh-jacobs-showing-burst-in-team-drills/1915409"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1787586669000,
+      "source": "rotoballer",
+      "source_key": "219307",
+      "story_id": "nfl|5850|rotoballer|219307|1787586669000",
+      "title": "Josh Jacobs Showing Burst in Team Drills",
+      "url": "https://www.rotoballer.com/player-news/josh-jacobs-showing-burst-in-team-drills/1915409"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Rachaad White (hamstring) returned to practice Monday after missing Saturday's preseason game against Detroit, according to Zach Selby. White sat out last Wednesday with a hamstring injury, then was able to do some work Thursday before Washington kept him out of the game. Head coach Dan Quinn said at the time that the injury was not expected to be a long-term issue. White spent his first four seasons with Tampa Bay and finished 2025 with 132 carries for 572 yards and four touchdowns, plus 40 catches for 218 yards. His receiving ability remains one of the clearest ways for him to earn work in a Washington backfield that also includes Jacory Croskey-Merritt. The Commanders have not committed to a single lead back, so getting White back on the field matters as that rotation takes shape. Monday's return is a positive step after a brief hamstring setback with Week 1 approaching.",
+      "metadata": {
+        "description": "Washington Commanders running back Rachaad White (hamstring) returned to practice Monday after missing Saturday's preseason game against Detroit, according to Zach Selby. White sat out last Wednesday with a hamstring injury, then was able to do some work Thursday before Washington kept him out of the game. Head coach Dan Quinn said at the time that the injury was not expected to be a long-term issue. White spent his first four seasons with Tampa Bay and finished 2025 with 132 carries for 572 yards and four touchdowns, plus 40 catches for 218 yards. His receiving ability remains one of the clearest ways for him to earn work in a Washington backfield that also includes Jacory Croskey-Merritt. The Commanders have not committed to a single lead back, so getting White back on the field matters as that rotation takes shape. Monday's return is a positive step after a brief hamstring setback with Week 1 approaching.",
+        "title": "Rachaad White Resumes Work After Hamstring Setback",
+        "topic_id": "1397703703317721088",
+        "url": "https://www.rotoballer.com/player-news/rachaad-white-resumes-work-after-hamstring-setback/1915401"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8136",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "published": 1787586250000,
+      "source": "rotoballer",
+      "source_key": "219306",
+      "story_id": "nfl|8136|rotoballer|219306|1787586250000",
+      "title": "Rachaad White Resumes Work After Hamstring Setback",
+      "url": "https://www.rotoballer.com/player-news/rachaad-white-resumes-work-after-hamstring-setback/1915401"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants wide receiver Malik Nabers (knee) took another meaningful step Monday, shedding the red non-contact jersey and working into both 7-on-7 and 11-on-11 periods, according to Connor Hughes. Nabers wasn't a full participant and the Giants practiced without pads, but this was still his first contact-type work since tearing his ACL and meniscus last season. He also made a diving catch coming back to the ball on an intermediate route. Nabers had already returned to full-speed team periods last week while still wearing the red jersey, so Monday moves the recovery forward again. He caught 18 passes for 271 yards and two touchdowns in four games before the injury ended his 2025 season. Week 1 has not been formally guaranteed by the team, but Hughes said the outlook continues to look good. With Nabers now taking live reps without the non-contact jersey, he's cleared another important hurdle before the opener.",
+      "metadata": {
+        "description": "New York Giants wide receiver Malik Nabers (knee) took another meaningful step Monday, shedding the red non-contact jersey and working into both 7-on-7 and 11-on-11 periods, according to Connor Hughes. Nabers wasn't a full participant and the Giants practiced without pads, but this was still his first contact-type work since tearing his ACL and meniscus last season. He also made a diving catch coming back to the ball on an intermediate route. Nabers had already returned to full-speed team periods last week while still wearing the red jersey, so Monday moves the recovery forward again. He caught 18 passes for 271 yards and two touchdowns in four games before the injury ended his 2025 season. Week 1 has not been formally guaranteed by the team, but Hughes said the outlook continues to look good. With Nabers now taking live reps without the non-contact jersey, he's cleared another important hurdle before the opener.",
+        "title": "Malik Nabers Sheds Non-Contact Jersey, Remains on Track to Play in Week 1",
+        "topic_id": "1397702445634752512",
+        "url": "https://www.rotoballer.com/player-news/malik-nabers-sheds-non-contact-jersey-remains-on-track-to-play-in-week-1/1915396"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1787585893000,
+      "source": "rotoballer",
+      "source_key": "219304",
+      "story_id": "nfl|11632|rotoballer|219304|1787585893000",
+      "title": "Malik Nabers Sheds Non-Contact Jersey, Remains on Track to Play in Week 1",
+      "url": "https://www.rotoballer.com/player-news/malik-nabers-sheds-non-contact-jersey-remains-on-track-to-play-in-week-1/1915396"
+    },
+    {
       "analysis": "The Princeton product enters his fourth season looking to rebound from a down 2025 in which he fell short of the breakout season that saw him record six touchdowns in 2024. The Bengals have a heavily concentrated target tree centered on Ja'Marr Chase and Tee Higgins, which has limited Iosivas' week-to-week usage. He has performed poorly on targets per route run in each of the last two years, coming in under 12 percent in each campaign. Iosivas could have added competition for snaps this year, considering rookie Colbie Young's impressive showing in the preseason thus far. As it stands, Iosivas may be on the field a fair amount, but his involvement in the passing game could be limited again.",
       "description": "Iosivas is listed as the No.3 receiver on the Bengals' depth chart.",
       "metadata": {
@@ -578,10 +793,10 @@
       "url": null
     },
     {
-      "analysis": "Though Jacobs hasn't practiced fully in more than two weeks while he's been managing the groin injury, the Packers haven't indicated that his availability for the start of the regular season is in any jeopardy. Even if Jacobs upgrades to full practice participation within the next few days, the Packers could still elect to hold him out of Friday's preseason finale versus the Cardinals as a precaution.",
+      "analysis": "Though Jacobs hasn't practiced fully in more than two weeks while he's been managing the groin injury, the Packers haven't indicated that his availability for the start of the regular season is in any jeopardy. Even if Jacobs upgrades to full practice participation within the next few days, the Packers still could elect to hold him out of Friday's preseason finale versus the Cardinals as a precaution.",
       "description": "Packers head coach Matt LaFleur said that Jacobs (groin) is expected to go through limited team work during practice Monday, Rob Demovsky of ESPN.com reports.",
       "metadata": {
-        "analysis": "Though Jacobs hasn't practiced fully in more than two weeks while he's been managing the groin injury, the Packers haven't indicated that his availability for the start of the regular season is in any jeopardy. Even if Jacobs upgrades to full practice participation within the next few days, the Packers could still elect to hold him out of Friday's preseason finale versus the Cardinals as a precaution.",
+        "analysis": "Though Jacobs hasn't practiced fully in more than two weeks while he's been managing the groin injury, the Packers haven't indicated that his availability for the start of the regular season is in any jeopardy. Even if Jacobs upgrades to full practice participation within the next few days, the Packers still could elect to hold him out of Friday's preseason finale versus the Cardinals as a precaution.",
         "description": "Packers head coach Matt LaFleur said that Jacobs (groin) is expected to go through limited team work during practice Monday, Rob Demovsky of ESPN.com reports.",
         "title": "Josh Jacobs - Set for limited practice work",
         "topic_id": "1397638267624521728"
@@ -596,6 +811,46 @@
       "story_id": "nfl|5850|rotowire|634643|1787585382000",
       "title": "Josh Jacobs - Set for limited practice work",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins rookie third-round wide receiver Chris Bell (knee) was out of the red, no-contact jersey at training camp practice on Monday, according to David Furones of the South Florida Sun-Sentinel. It did not take long for Bell to ramp back up to a full-go after the Dolphins activated him from the Non-Football Injury list last Monday. The 22-year-old is coming off knee surgery but should be ready to go for Week 1 of his rookie season, barring a setback in the next few weeks. It wouldn't be a surprise if the Dolphins play it safe and keep Bell out of their preseason finale this Friday against the Atlanta Falcons, but the talented rookie will have an opportunity to quickly become a key piece of the offense in Miami when considering that Jalen Tolbert and Malik Washington are their two top receivers. For now, the Louisville product is primarily a stash candidate in dynasty/keeper leagues as he competes for targets behind Tolbert and Washington.",
+      "metadata": {
+        "description": "Miami Dolphins rookie third-round wide receiver Chris Bell (knee) was out of the red, no-contact jersey at training camp practice on Monday, according to David Furones of the South Florida Sun-Sentinel. It did not take long for Bell to ramp back up to a full-go after the Dolphins activated him from the Non-Football Injury list last Monday. The 22-year-old is coming off knee surgery but should be ready to go for Week 1 of his rookie season, barring a setback in the next few weeks. It wouldn't be a surprise if the Dolphins play it safe and keep Bell out of their preseason finale this Friday against the Atlanta Falcons, but the talented rookie will have an opportunity to quickly become a key piece of the offense in Miami when considering that Jalen Tolbert and Malik Washington are their two top receivers. For now, the Louisville product is primarily a stash candidate in dynasty/keeper leagues as he competes for targets behind Tolbert and Washington.",
+        "title": "Chris Bell Out of No-Contact Jersey on Monday",
+        "topic_id": "1397699928095985664",
+        "url": "https://www.rotoballer.com/player-news/chris-bell-out-of-no-contact-jersey-on-monday/1915386"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1787585228000,
+      "source": "rotoballer",
+      "source_key": "219302",
+      "story_id": "nfl|13311|rotoballer|219302|1787585228000",
+      "title": "Chris Bell Out of No-Contact Jersey on Monday",
+      "url": "https://www.rotoballer.com/player-news/chris-bell-out-of-no-contact-jersey-on-monday/1915386"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver Romeo Doubs already had the No. 2 job, and Monday's Kayshon Boutte trade clears out another player who could have taken outside snaps and downfield targets. New England agreed to send Boutte to Houston for safety Jaylen Reed and a 2028 seventh-round pick. Doubs is coming off 55 catches for 724 yards and six touchdowns with Green Bay, and his first Patriots camp has picked up after a slower start. He has made several contested and red-zone catches lately, while A.J. Brown, Doubs and DeMario Douglas have been the regular first-team trio around Drake Maye. Boutte was mostly working behind that group, but he still had 551 yards and six touchdowns last season and gave Maye another proven vertical option. That competition is gone now. Brown remains the clear No. 1 and Douglas should get plenty of slot work, so Doubs is not suddenly headed for massive volume. His place in the offense does look even safer, though. RotoBaller has him at WR53 and 122nd overall in PPR, and the trade gives his late-round flex case another small bump.",
+      "metadata": {
+        "description": "New England Patriots wide receiver Romeo Doubs already had the No. 2 job, and Monday's Kayshon Boutte trade clears out another player who could have taken outside snaps and downfield targets. New England agreed to send Boutte to Houston for safety Jaylen Reed and a 2028 seventh-round pick. Doubs is coming off 55 catches for 724 yards and six touchdowns with Green Bay, and his first Patriots camp has picked up after a slower start. He has made several contested and red-zone catches lately, while A.J. Brown, Doubs and DeMario Douglas have been the regular first-team trio around Drake Maye. Boutte was mostly working behind that group, but he still had 551 yards and six touchdowns last season and gave Maye another proven vertical option. That competition is gone now. Brown remains the clear No. 1 and Douglas should get plenty of slot work, so Doubs is not suddenly headed for massive volume. His place in the offense does look even safer, though. RotoBaller has him at WR53 and 122nd overall in PPR, and the trade gives his late-round flex case another small bump.",
+        "title": "Romeo Doubs the Clear WR2 After Monday's Trade",
+        "topic_id": "1397699928112762880",
+        "url": "https://www.rotoballer.com/player-news/romeo-doubs-clear-wr2-after-mondays-trade/1915383"
+      },
+      "nfl_team": "NE",
+      "player_id": "8121",
+      "player_name": "Romeo Doubs",
+      "position": "WR",
+      "published": 1787585108000,
+      "source": "rotoballer",
+      "source_key": "219303",
+      "story_id": "nfl|8121|rotoballer|219303|1787585108000",
+      "title": "Romeo Doubs the Clear WR2 After Monday's Trade",
+      "url": "https://www.rotoballer.com/player-news/romeo-doubs-clear-wr2-after-mondays-trade/1915383"
     },
     {
       "analysis": "The veteran is in the final year of his contract after an injury-shortened 2025 that limited him to 10 regular-season games. Hill is also playing under a new coaching staff and an offensive coordinator, so it will be interesting to see whether his role evolves or other options emerge as Derrick Henry's backup. Hill has been healthy for the preseason and hasn't appeared in either preseason game, which is seemingly a good sign for his standing on the depth chart.",
@@ -616,6 +871,26 @@
       "story_id": "nfl|5995|rotowire|634642|1787585041000",
       "title": "Justice Hill - Backing up Henry in 2026",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans quarterback C.J. Stroud got some needed help Monday after a rough week for the receiver room. New England has agreed to send Kayshon Boutte to Houston for safety Jaylen Reed and a 2028 seventh-round pick. The move comes days after Jayden Higgins tore his ACL and was lost for the season. Boutte is not replacing all of that by himself, but he gives Stroud another receiver who can stretch the field. He caught 33 passes for 551 yards and six touchdowns last season, averaging 16.7 yards per catch with 10 receptions of at least 20 yards. Houston had already added Zay Jones and Sterling Shepard, so the Texans have clearly been trying to rebuild the depth behind Nico Collins. Stroud threw for 3,041 yards, 19 touchdowns and eight interceptions in 14 games last year and currently sits at QB23 in RotoBaller's rankings. Boutte does not suddenly fix everything, but the passing-game outlook looks better than it did after Higgins went down.",
+      "metadata": {
+        "description": "Houston Texans quarterback C.J. Stroud got some needed help Monday after a rough week for the receiver room. New England has agreed to send Kayshon Boutte to Houston for safety Jaylen Reed and a 2028 seventh-round pick. The move comes days after Jayden Higgins tore his ACL and was lost for the season. Boutte is not replacing all of that by himself, but he gives Stroud another receiver who can stretch the field. He caught 33 passes for 551 yards and six touchdowns last season, averaging 16.7 yards per catch with 10 receptions of at least 20 yards. Houston had already added Zay Jones and Sterling Shepard, so the Texans have clearly been trying to rebuild the depth behind Nico Collins. Stroud threw for 3,041 yards, 19 touchdowns and eight interceptions in 14 games last year and currently sits at QB23 in RotoBaller's rankings. Boutte does not suddenly fix everything, but the passing-game outlook looks better than it did after Higgins went down.",
+        "title": "C.J. Stroud Gets Another Downfield Weapon",
+        "topic_id": "1397697410972516352",
+        "url": "https://www.rotoballer.com/player-news/c-j-stroud-gets-another-downfield-weapon/1915377"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9758",
+      "player_name": "C.J. Stroud",
+      "position": "QB",
+      "published": 1787584630000,
+      "source": "rotoballer",
+      "source_key": "219301",
+      "story_id": "nfl|9758|rotoballer|219301|1787584630000",
+      "title": "C.J. Stroud Gets Another Downfield Weapon",
+      "url": "https://www.rotoballer.com/player-news/c-j-stroud-gets-another-downfield-weapon/1915377"
     },
     {
       "analysis": null,
@@ -658,10 +933,10 @@
       "url": "https://www.rotoballer.com/player-news/nico-collins-target-outlook-cools-after-mondays-trade/1915367"
     },
     {
-      "analysis": "After being activated from the non-football injury list last Monday, Bell was a limited participant in his first handful of practices with Miami. With his surgically repaired left knee apparently responding well, Bell will now ditch his red, no-contact jersey in what marks the final box he'll need to check before being cleared for game action. The Dolphins could still elect to hold out Bell for their preseason finale Friday versus the Falcons, but the rookie third-round pick looks to be trending toward suiting up Week 1 versus the Raiders.",
+      "analysis": "After being activated from the active/non-football injury list last Monday, Bell was a limited participant in his first handful of practices with Miami. With his surgically repaired left knee apparently responding well, Bell now will ditch his red no-contact jersey in what marks the final box he'll need to check before being cleared for game action. The Dolphins still could elect to hold out Bell for their preseason finale Friday versus the Falcons, but the rookie third-round pick looks to be trending toward suiting up Week 1 versus the Raiders.",
       "description": "Bell (knee) is expected to be a full participant in Monday's practice, David Furones of the South Florida Sun Sentinel reports.",
       "metadata": {
-        "analysis": "After being activated from the non-football injury list last Monday, Bell was a limited participant in his first handful of practices with Miami. With his surgically repaired left knee apparently responding well, Bell will now ditch his red, no-contact jersey in what marks the final box he'll need to check before being cleared for game action. The Dolphins could still elect to hold out Bell for their preseason finale Friday versus the Falcons, but the rookie third-round pick looks to be trending toward suiting up Week 1 versus the Raiders.",
+        "analysis": "After being activated from the active/non-football injury list last Monday, Bell was a limited participant in his first handful of practices with Miami. With his surgically repaired left knee apparently responding well, Bell now will ditch his red no-contact jersey in what marks the final box he'll need to check before being cleared for game action. The Dolphins still could elect to hold out Bell for their preseason finale Friday versus the Falcons, but the rookie third-round pick looks to be trending toward suiting up Week 1 versus the Raiders.",
         "description": "Bell (knee) is expected to be a full participant in Monday's practice, David Furones of the South Florida Sun Sentinel reports.",
         "title": "Chris Bell - Set to practice without limitations",
         "topic_id": "1397631975933640704"
@@ -686,7 +961,7 @@
         "topic_id": "1397691119801782272",
         "url": "https://www.rotoballer.com/player-news/kayshon-boutte-gets-fresh-start-in-houston/1915353"
       },
-      "nfl_team": "NE",
+      "nfl_team": "HOU",
       "player_id": "9504",
       "player_name": "Kayshon Boutte",
       "position": "WR",
@@ -818,10 +1093,10 @@
       "url": "https://www.rotoballer.com/player-news/quinshon-judkins-returns-to-practice/1915325"
     },
     {
-      "analysis": "Sanders and Watson had been battling for the job since the start of the offseason program and alternated starts in the Browns' first two preseason tilts. Between losses to the Browns and Bills, Sanders completed 15 of 22 attempts for 153 yards, one touchdown and two interceptions. While Watson didn't fare dramatically better than Sanders in the two exhibition games, his superior performance during camp practices in addition to his greater NFL experience and pricey contract were likely major factors in him emerging as the victor in the job battle. Watson is unlikely to head into Week 1 with a long leash, however, and Sanders should have a good chance at making starts in 2026 if the Browns limp out to a poor start to the season.",
+      "analysis": "Sanders and Watson had been battling for the job since the start of the offseason program and alternated starts in the Browns' first two preseason tilts. Between losses to the Bears and Bills, Sanders completed 15 of 22 attempts for 153 yards, one touchdown and two interceptions. While Watson didn't fare dramatically better than Sanders in the two exhibition games, his superior performance during camp practices in addition to his greater NFL experience and pricey contract were likely major factors in him emerging as the victor in the job battle. Watson is unlikely to head into Week 1 with a long leash, however, and Sanders should have a good chance at making starts in 2026 if the Browns limp out to a poor start to the season.",
       "description": "Sanders will open the season as the Browns' backup quarterback after the team named Deshaun Watson its starter Monday, multiple sources tell NFL reporter Jordan Schultz.",
       "metadata": {
-        "analysis": "Sanders and Watson had been battling for the job since the start of the offseason program and alternated starts in the Browns' first two preseason tilts. Between losses to the Browns and Bills, Sanders completed 15 of 22 attempts for 153 yards, one touchdown and two interceptions. While Watson didn't fare dramatically better than Sanders in the two exhibition games, his superior performance during camp practices in addition to his greater NFL experience and pricey contract were likely major factors in him emerging as the victor in the job battle. Watson is unlikely to head into Week 1 with a long leash, however, and Sanders should have a good chance at making starts in 2026 if the Browns limp out to a poor start to the season.",
+        "analysis": "Sanders and Watson had been battling for the job since the start of the offseason program and alternated starts in the Browns' first two preseason tilts. Between losses to the Bears and Bills, Sanders completed 15 of 22 attempts for 153 yards, one touchdown and two interceptions. While Watson didn't fare dramatically better than Sanders in the two exhibition games, his superior performance during camp practices in addition to his greater NFL experience and pricey contract were likely major factors in him emerging as the victor in the job battle. Watson is unlikely to head into Week 1 with a long leash, however, and Sanders should have a good chance at making starts in 2026 if the Browns limp out to a poor start to the season.",
         "description": "Sanders will open the season as the Browns' backup quarterback after the team named Deshaun Watson its starter Monday, multiple sources tell NFL reporter Jordan Schultz.",
         "title": "Shedeur Sanders - Beginning season in backup role",
         "topic_id": "1397620649995812864"
@@ -1000,9 +1275,9 @@
     },
     {
       "analysis": null,
-      "description": "Philadelphia Eagles wide receiver Makai Lemon (hamstring) was back to full participation Monday and took first-team reps, according to Dave Zangaro. That's a notable step after the rookie missed most of August with a hamstring injury suffered on Aug. 3. Lemon only returned to practice Thursday and was limited to individual work, so this is the first time he has been back in team drills since the setback. The first-team work itself isn't new. Philadelphia had Lemon running with the starters during OTAs and again when training camp opened before the injury interrupted his summer. The 20th overall pick is coming off a 79-catch, 1,156-yard, 11-touchdown season at USC. He still has some catching up to do after losing nearly three weeks of practice, but Monday puts him back in the mix for the role the Eagles were already giving him before he went down.",
+      "description": "Philadelphia Eagles wide receiver Makai Lemon (hamstring) was back to full participation Monday and took first-team reps, according to Dave Zangaro. That's a notable step after the rookie missed most of August with a hamstring injury suffered on Aug. 3. Lemon only returned to practice Thursday and was limited to individual work, so this is the first time he has been back in team drills since the setback. The first-team work itself isn't new. Philadelphia had Lemon running with the starters during OTAs and again when training camp opened before the injury interrupted his summer. The 20th overall pick is coming off a 79-catch, 1,156-yard, 11-touchdown season at USC. He still has some catching up to do after losing nearly three weeks of practice, but Monday puts him back in the mix for the role the Eagles were already giving him before he went down. UPDATE: The Philadelphia Inquirer's Jeff McLane reports that Lemon said he thinks he'll be ready for Week 1 against the division-rival Washington Commanders.",
       "metadata": {
-        "description": "Philadelphia Eagles wide receiver Makai Lemon (hamstring) was back to full participation Monday and took first-team reps, according to Dave Zangaro. That's a notable step after the rookie missed most of August with a hamstring injury suffered on Aug. 3. Lemon only returned to practice Thursday and was limited to individual work, so this is the first time he has been back in team drills since the setback. The first-team work itself isn't new. Philadelphia had Lemon running with the starters during OTAs and again when training camp opened before the injury interrupted his summer. The 20th overall pick is coming off a 79-catch, 1,156-yard, 11-touchdown season at USC. He still has some catching up to do after losing nearly three weeks of practice, but Monday puts him back in the mix for the role the Eagles were already giving him before he went down.",
+        "description": "Philadelphia Eagles wide receiver Makai Lemon (hamstring) was back to full participation Monday and took first-team reps, according to Dave Zangaro. That's a notable step after the rookie missed most of August with a hamstring injury suffered on Aug. 3. Lemon only returned to practice Thursday and was limited to individual work, so this is the first time he has been back in team drills since the setback. The first-team work itself isn't new. Philadelphia had Lemon running with the starters during OTAs and again when training camp opened before the injury interrupted his summer. The 20th overall pick is coming off a 79-catch, 1,156-yard, 11-touchdown season at USC. He still has some catching up to do after losing nearly three weeks of practice, but Monday puts him back in the mix for the role the Eagles were already giving him before he went down. UPDATE: The Philadelphia Inquirer's Jeff McLane reports that Lemon said he thinks he'll be ready for Week 1 against the division-rival Washington Commanders.",
         "title": "Makai Lemon Back With First-Team Offense",
         "topic_id": "1397664692347904000",
         "url": "https://www.rotoballer.com/player-news/makai-lemon-back-with-first-team-offense/1915259"
