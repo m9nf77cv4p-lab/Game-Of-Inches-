@@ -1,25 +1,15 @@
 {
-  "last_checked_at": "2026-08-24T03:32:00Z",
+  "last_checked_at": "2026-08-24T08:08:57Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 278,
+  "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11632|rotoballer|219245|1787519348000",
-    "nfl|12476|rotoballer|219249|1787521813000",
-    "nfl|12490|rotowire|634621|1787539255000",
-    "nfl|12527|fantasy_pros|603980|1787541036892",
-    "nfl|12527|rotoballer|219257|1787526308000",
-    "nfl|12527|rotowire|634622|1787540994000",
-    "nfl|13279|rotowire|634617|1787529621000",
-    "nfl|13279|rotowire|634623|1787541648000",
-    "nfl|13417|rotoballer|219248|1787520136000",
-    "nfl|2216|rotoballer|219246|1787520068000",
-    "nfl|4034|rotoballer|219247|1787519708000",
-    "nfl|4199|rotoballer|219250|1787522773000",
-    "nfl|5849|rotoballer|219255|1787525229000",
-    "nfl|5967|rotowire|634624|1787542043000",
-    "nfl|7569|rotoballer|219254|1787524630000",
-    "nfl|8112|rotoballer|219253|1787524217000",
-    "nfl|8676|rotoballer|219251|1787523374000"
+    "nfl|12490|rotoballer|219263|1787531174000",
+    "nfl|12521|rotowire|634627|1787545689000",
+    "nfl|12522|rotowire|634625|1787544403000",
+    "nfl|13279|rotoballer|219261|1787528708000",
+    "nfl|13602|fantasy_pros|599340|1785513933479",
+    "nfl|9486|rotoballer|219260|1787528229000",
+    "nfl|9508|rotowire|634626|1787545007000"
   ],
   "schema_version": 1,
   "source": {
@@ -29,6 +19,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Arroyo capped Seattle's opening drive with a 36-yard touchdown reception from Drew Lock. After producing only 179 receiving yards in his rookie regular season, Arroyo is trying to earn a larger role in his second NFL campaign. The 2025 second-round pick is set to open his sophomore season as the team's No. 2 TE behind AJ Barner.",
+      "description": "Arroyo caught two of four targets for 50 yards and a touchdown in Sunday's 19-16 preseason loss to the Titans.",
+      "metadata": {
+        "analysis": "Arroyo capped Seattle's opening drive with a 36-yard touchdown reception from Drew Lock. After producing only 179 receiving yards in his rookie regular season, Arroyo is trying to earn a larger role in his second NFL campaign. The 2025 second-round pick is set to open his sophomore season as the team's No. 2 TE behind AJ Barner.",
+        "description": "Arroyo caught two of four targets for 50 yards and a touchdown in Sunday's 19-16 preseason loss to the Titans.",
+        "title": "Elijah Arroyo - Scores 36-yard TD in preseason loss",
+        "topic_id": "1397472160397680640"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12521",
+      "player_name": "Elijah Arroyo",
+      "position": "TE",
+      "published": 1787545689000,
+      "source": "rotowire",
+      "source_key": "634627",
+      "story_id": "nfl|12521|rotowire|634627|1787545689000",
+      "title": "Elijah Arroyo - Scores 36-yard TD in preseason loss",
+      "url": null
+    },
+    {
+      "analysis": "Spears featured on Tennessee's second and third drives with the starters after Tony Pollard turned three touches into 45 scrimmage yards on the team's opening possession. Pollard is expected to lead the backfield once again, but Spears should get his fair share of touches in a prominent change-of-pace role. Spears has 383 combined carries and targets in 42 regular-season appearances through three years in the NFL for a career average of 9.1 touches per game on offense.",
+      "description": "Spears rushed twice for two yards and caught all three of his targets for 14 yards in Sunday's 19-16 preseason win over the Seahawks.",
+      "metadata": {
+        "analysis": "Spears featured on Tennessee's second and third drives with the starters after Tony Pollard turned three touches into 45 scrimmage yards on the team's opening possession. Pollard is expected to lead the backfield once again, but Spears should get his fair share of touches in a prominent change-of-pace role. Spears has 383 combined carries and targets in 42 regular-season appearances through three years in the NFL for a career average of 9.1 touches per game on offense.",
+        "description": "Spears rushed twice for two yards and caught all three of his targets for 14 yards in Sunday's 19-16 preseason win over the Seahawks.",
+        "title": "Tyjae Spears - Plays with starters after Pollard",
+        "topic_id": "1397469643890761728"
+      },
+      "nfl_team": "TEN",
+      "player_id": "9508",
+      "player_name": "Tyjae Spears",
+      "position": "RB",
+      "published": 1787545007000,
+      "source": "rotowire",
+      "source_key": "634626",
+      "story_id": "nfl|9508|rotowire|634626|1787545007000",
+      "title": "Tyjae Spears - Plays with starters after Pollard",
+      "url": null
+    },
+    {
+      "analysis": "Ward put forward a second consecutive uninspiring preseason performance, as the Titans trailed Seattle's backups 16-3 after Ward's three drives in the game. He also had the ball knocked out of his hands while scrambling for a fumble out of bounds that went down as a sack. The 2025 first overall pick has averaged just 5.3 yards per pass attempt while failing to throw a touchdown pass this preseason. Tennessee will wrap up preseason play Saturday against the Bears.",
+      "description": "Ward completed eight of 12 passes for 69 yards, no touchdowns and no interceptions in Sunday's 19-16 preseason win over the Seahawks.",
+      "metadata": {
+        "analysis": "Ward put forward a second consecutive uninspiring preseason performance, as the Titans trailed Seattle's backups 16-3 after Ward's three drives in the game. He also had the ball knocked out of his hands while scrambling for a fumble out of bounds that went down as a sack. The 2025 first overall pick has averaged just 5.3 yards per pass attempt while failing to throw a touchdown pass this preseason. Tennessee will wrap up preseason play Saturday against the Bears.",
+        "description": "Ward completed eight of 12 passes for 69 yards, no touchdowns and no interceptions in Sunday's 19-16 preseason win over the Seahawks.",
+        "title": "Cam Ward - Underwhelming preseason continues",
+        "topic_id": "1397467127253852160"
+      },
+      "nfl_team": "TEN",
+      "player_id": "12522",
+      "player_name": "Cam Ward",
+      "position": "QB",
+      "published": 1787544403000,
+      "source": "rotowire",
+      "source_key": "634625",
+      "story_id": "nfl|12522|rotowire|634625|1787544403000",
+      "title": "Cam Ward - Underwhelming preseason continues",
+      "url": null
+    },
     {
       "analysis": "All of Pollard's touches came within Tennessee's first five offensive plays of the game as he helped set up a field goal on the opening drive. Tyjae Spears played the next two drives with the starters, neither of which led to any points. Pollard sits atop Tennessee's running back depth chart after producing at least 1,288 scrimmage yards in each of the last four regular seasons, half of which have come with the Titans.",
       "description": "Pollard rushed twice for 12 yards and caught his only target for 33 yards in Sunday's 19-16 preseason win over the Seahawks.",
@@ -131,6 +181,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Sports Illustrated's John Shipley wrote that it \"felt like\" Jacksonville Jaguars running back Bhayshul Tuten \"caught as many passes on Sunday as he has all training camp.\" The Jaguars were clearly focusing on the passing game, and Tuten \"looked good as a receiver out of the backfield.\" It is important to mention that second-year pass-catching back LeQuint Allen Jr. (undisclosed) is currently missing from action due to an undisclosed soft-tissue injury. It is unclear right now if Allen's injury will jeopardize his availability for the start of the 2026 regular season, but if it does, it would be a plus for Tuten's overall fantasy football upside. The 23-year-old former fourth-rounder last year from Virginia Tech ran for 307 yards and five touchdowns on 83 carries while adding only 10 catches for 79 yards and two more TDs in 15 games in his rookie campaign in 2025. Tuten is the team's highest-upside and most explosive fantasy back, but his overall upside will be limited while sharing early-down and potentially goal-line work with Chris Rodriguez Jr. And when healthy, Allen is expected to be the Jags' primary passing-down back. RotoBaller has Tuten ranked as the No. 25 fantasy RB in 2026.",
+      "metadata": {
+        "description": "Sports Illustrated's John Shipley wrote that it \"felt like\" Jacksonville Jaguars running back Bhayshul Tuten \"caught as many passes on Sunday as he has all training camp.\" The Jaguars were clearly focusing on the passing game, and Tuten \"looked good as a receiver out of the backfield.\" It is important to mention that second-year pass-catching back LeQuint Allen Jr. (undisclosed) is currently missing from action due to an undisclosed soft-tissue injury. It is unclear right now if Allen's injury will jeopardize his availability for the start of the 2026 regular season, but if it does, it would be a plus for Tuten's overall fantasy football upside. The 23-year-old former fourth-rounder last year from Virginia Tech ran for 307 yards and five touchdowns on 83 carries while adding only 10 catches for 79 yards and two more TDs in 15 games in his rookie campaign in 2025. Tuten is the team's highest-upside and most explosive fantasy back, but his overall upside will be limited while sharing early-down and potentially goal-line work with Chris Rodriguez Jr. And when healthy, Allen is expected to be the Jags' primary passing-down back. RotoBaller has Tuten ranked as the No. 25 fantasy RB in 2026.",
+        "title": "Bhayshul Tuten More Involved in Passing Game in Jacksonville",
+        "topic_id": "1397472156522176512",
+        "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-more-involved-in-passing-game-in-jacksonville/1914900"
+      },
+      "nfl_team": "JAX",
+      "player_id": "12490",
+      "player_name": "Bhayshul Tuten",
+      "position": "RB",
+      "published": 1787531174000,
+      "source": "rotoballer",
+      "source_key": "219263",
+      "story_id": "nfl|12490|rotoballer|219263|1787531174000",
+      "title": "Bhayshul Tuten More Involved in Passing Game in Jacksonville",
+      "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-more-involved-in-passing-game-in-jacksonville/1914900"
+    },
+    {
       "analysis": "Tate took warmups before the start of Sunday's preseason game and is set to take part in the action, with Tennessee's starters expected to play most of the first half. The rookie fourth overall pick dealt with some stiffness earlier in the week but has gotten the green light to suit up for Tennessee's second preseason game. Tate will look to improve on last week's preseason debut against the 49ers, in which he failed to catch any of his three targets.",
       "description": "Tate (undisclosed) is in uniform for Sunday's preseason game against the Seahawks.",
       "metadata": {
@@ -152,9 +222,49 @@
     },
     {
       "analysis": null,
-      "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) is believed to have sprained his ankle during Sunday's practice, according to ESPN's Adam Schefter. Jeanty was injured on an overthrown pass he tried to dive for, colliding with a defensive back. The second-year back reportedly couldn't put weight on his right knee, and the entire team took a knee as they helped him off. While it appeared to be a significant injury for the former sixth-overall pick, Jeanty appears to have avoided major injury. While it's unclear whether he suffered a low-ankle or high-ankle sprain, Jeanty's fantasy managers can breathe a sigh of relief. We will have to wait and see how significant Jeanty's ankle injury is, but fantasy managers can resume drafting the star running back.",
+      "description": "Tennessee Titans head coach Robert Saleh is not concerned about the lack of targets for wide receiver Carnell Tate. Tate has been held without a catch on five targets through two preseason games, which is concerning given the Titans' passing production in recent seasons. Saleh brushed off the concerns, saying, \"When it's time to scheme, we'll get the guys the rock.\" The fourth-overall pick played on 16 of quarterback Cam Ward's 22 offensive snaps and was used across the formation. With offensive coordinator Brian Daboll's history with star receivers, including Malik Nabers and Stefon Diggs, the Titans should have no trouble scheming targets for Tate this season.",
       "metadata": {
-        "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) is believed to have sprained his ankle during Sunday's practice, according to ESPN's Adam Schefter. Jeanty was injured on an overthrown pass he tried to dive for, colliding with a defensive back. The second-year back reportedly couldn't put weight on his right knee, and the entire team took a knee as they helped him off. While it appeared to be a significant injury for the former sixth-overall pick, Jeanty appears to have avoided major injury. While it's unclear whether he suffered a low-ankle or high-ankle sprain, Jeanty's fantasy managers can breathe a sigh of relief. We will have to wait and see how significant Jeanty's ankle injury is, but fantasy managers can resume drafting the star running back.",
+        "description": "Tennessee Titans head coach Robert Saleh is not concerned about the lack of targets for wide receiver Carnell Tate. Tate has been held without a catch on five targets through two preseason games, which is concerning given the Titans' passing production in recent seasons. Saleh brushed off the concerns, saying, \"When it's time to scheme, we'll get the guys the rock.\" The fourth-overall pick played on 16 of quarterback Cam Ward's 22 offensive snaps and was used across the formation. With offensive coordinator Brian Daboll's history with star receivers, including Malik Nabers and Stefon Diggs, the Titans should have no trouble scheming targets for Tate this season.",
+        "title": "Robert Saleh Not Concerned About Carnell Tate's Lack of Targets",
+        "topic_id": "1397463348156596224",
+        "url": "https://www.rotoballer.com/player-news/robert-saleh-not-concerned-about-carnell-tates-lack-of-targets/1914892"
+      },
+      "nfl_team": "TEN",
+      "player_id": "13279",
+      "player_name": "Carnell Tate",
+      "position": "WR",
+      "published": 1787528708000,
+      "source": "rotoballer",
+      "source_key": "219261",
+      "story_id": "nfl|13279|rotoballer|219261|1787528708000",
+      "title": "Robert Saleh Not Concerned About Carnell Tate's Lack of Targets",
+      "url": "https://www.rotoballer.com/player-news/robert-saleh-not-concerned-about-carnell-tates-lack-of-targets/1914892"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles wide receiver Dontayvion Wicks has been a monster at training camp and in joint practices this season. Wicks was traded from the Green Bay Packers to Philadelphia for a fifth- and sixth-round draft pick, and it appears the Eagles may have a big-time playmaker. During joint practice with the New England Patriots, Wicks continued to beat their defensive backs and make plays. Quarterback Jalen Hurts praised the receiver, saying, \"He's got great work ethic. He's got great hunger. He's twitchy. He can attack the ball. He runs great routes. It'll be exciting to see him work this season with the aggression that he has.\" Wicks was underutilized in Green Bay's crowded receiver room, averaging fewer than four targets per game over three seasons. Currently ranked WR74 in RotoBaller's positional rankings, Wicks is a late-round player to watch in fantasy drafts.",
+      "metadata": {
+        "description": "Philadelphia Eagles wide receiver Dontayvion Wicks has been a monster at training camp and in joint practices this season. Wicks was traded from the Green Bay Packers to Philadelphia for a fifth- and sixth-round draft pick, and it appears the Eagles may have a big-time playmaker. During joint practice with the New England Patriots, Wicks continued to beat their defensive backs and make plays. Quarterback Jalen Hurts praised the receiver, saying, \"He's got great work ethic. He's got great hunger. He's twitchy. He can attack the ball. He runs great routes. It'll be exciting to see him work this season with the aggression that he has.\" Wicks was underutilized in Green Bay's crowded receiver room, averaging fewer than four targets per game over three seasons. Currently ranked WR74 in RotoBaller's positional rankings, Wicks is a late-round player to watch in fantasy drafts.",
+        "title": "Dontayvion Wicks Turning Heads at Eagles Camp",
+        "topic_id": "1397459572679049216",
+        "url": "https://www.rotoballer.com/player-news/dontayvion-wicks-turning-heads-at-eagles-camp/1914887"
+      },
+      "nfl_team": "PHI",
+      "player_id": "9486",
+      "player_name": "Dontayvion Wicks",
+      "position": "WR",
+      "published": 1787528229000,
+      "source": "rotoballer",
+      "source_key": "219260",
+      "story_id": "nfl|9486|rotoballer|219260|1787528229000",
+      "title": "Dontayvion Wicks Turning Heads at Eagles Camp",
+      "url": "https://www.rotoballer.com/player-news/dontayvion-wicks-turning-heads-at-eagles-camp/1914887"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) is believed to have sprained his ankle during Sunday's practice, according to ESPN's Adam Schefter. Jeanty was injured on an overthrown pass he tried to dive for, colliding with a defensive back. The second-year back reportedly couldn't put weight on his right ankle, and the entire team took a knee as they helped him off. While it appeared to be a significant injury for the former sixth-overall pick, Jeanty appears to have avoided major injury. While it's unclear whether he suffered a low-ankle or high-ankle sprain, Jeanty's fantasy managers can breathe a sigh of relief. We will have to wait and see how significant Jeanty's ankle injury is, but fantasy managers can resume drafting the star running back.",
+      "metadata": {
+        "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) is believed to have sprained his ankle during Sunday's practice, according to ESPN's Adam Schefter. Jeanty was injured on an overthrown pass he tried to dive for, colliding with a defensive back. The second-year back reportedly couldn't put weight on his right ankle, and the entire team took a knee as they helped him off. While it appeared to be a significant injury for the former sixth-overall pick, Jeanty appears to have avoided major injury. While it's unclear whether he suffered a low-ankle or high-ankle sprain, Jeanty's fantasy managers can breathe a sigh of relief. We will have to wait and see how significant Jeanty's ankle injury is, but fantasy managers can resume drafting the star running back.",
         "title": "Ashton Jeanty Suffers Ankle Sprain",
         "topic_id": "1397453280723935232",
         "url": "https://www.rotoballer.com/player-news/ashton-jeanty-suffers-ankle-sprain/1914880"
@@ -175,7 +285,7 @@
       "description": "Minnesota Vikings star wide receiver Justin Jefferson is set to bounce back from his disastrous 2025 season. With quarterback J.J. McCarthy under center, Jefferson struggled, hauling in 44 of 80 targets for 537 yards and two touchdowns, all career lows. The Vikings named quarterback Kyler Murray the starter. While his passing production may not match that of former Vikings quarterbacks Kirk Cousins or Sam Darnold, it's expected to be far better than McCarthy's. Even when veteran Carson Wentz started, Jefferson averaged 6.8 receptions for 95.4 yards in those five games. Jefferson is currently ranked WR6 in RotoBaller's positional rankings, and assuming Murray stays healthy, he should be a surefire WR1 option in 2026.",
       "metadata": {
         "description": "Minnesota Vikings star wide receiver Justin Jefferson is set to bounce back from his disastrous 2025 season. With quarterback J.J. McCarthy under center, Jefferson struggled, hauling in 44 of 80 targets for 537 yards and two touchdowns, all career lows. The Vikings named quarterback Kyler Murray the starter. While his passing production may not match that of former Vikings quarterbacks Kirk Cousins or Sam Darnold, it's expected to be far better than McCarthy's. Even when veteran Carson Wentz started, Jefferson averaged 6.8 receptions for 95.4 yards in those five games. Jefferson is currently ranked WR6 in RotoBaller's positional rankings, and assuming Murray stays healthy, he should be a surefire WR1 option in 2026.",
-        "title": "Justin Jefferson Primed for Bounce-Back Season With Kyler Murray",
+        "title": "Justin Jefferson Primed for Bounce-Back Season With New QB",
         "topic_id": "1397446989033000960",
         "url": "https://www.rotoballer.com/player-news/justin-jefferson-primed-for-bounce-back-season-with-kyler-murray/1914875"
       },
@@ -187,7 +297,7 @@
       "source": "rotoballer",
       "source_key": "219255",
       "story_id": "nfl|5849|rotoballer|219255|1787525229000",
-      "title": "Justin Jefferson Primed for Bounce-Back Season With Kyler Murray",
+      "title": "Justin Jefferson Primed for Bounce-Back Season With New QB",
       "url": "https://www.rotoballer.com/player-news/justin-jefferson-primed-for-bounce-back-season-with-kyler-murray/1914875"
     },
     {
@@ -231,10 +341,10 @@
       "url": "https://www.rotoballer.com/player-news/drake-london-value-dependent-on-quarterback-competition/1914868"
     },
     {
-      "analysis": "Washington has been getting rave reviews during the preseason, and the rookie -- who is followed by Dylan Laube, Dare Ogunbowale and Roman Hemby on the depth chart -- will presumably be the next man up should Jeanty miss any time. The extent of Jeanty's injury is not yet known, but the diagnosis will prove pivotal for fantasy players interested in drafting or who have already picked up either Raiders running back.",
+      "analysis": "Washington has been getting rave reviews during the preseason, and the rookie -- who is followed by Dylan Laube, Dare Ogunbowale and Roman Hemby on the depth chart -- presumably will be the next players up should Jeanty miss any time. The extent of Jeanty's injury is not yet known, but the diagnosis will prove pivotal for fantasy players interested in drafting or who have already picked up either Raiders running back.",
       "description": "Washington took most of the carries after Ashton Jeanty (knee) left Sunday's practice, Sam Warren of The Athletic reports.",
       "metadata": {
-        "analysis": "Washington has been getting rave reviews during the preseason, and the rookie -- who is followed by Dylan Laube, Dare Ogunbowale and Roman Hemby on the depth chart -- will presumably be the next man up should Jeanty miss any time. The extent of Jeanty's injury is not yet known, but the diagnosis will prove pivotal for fantasy players interested in drafting or who have already picked up either Raiders running back.",
+        "analysis": "Washington has been getting rave reviews during the preseason, and the rookie -- who is followed by Dylan Laube, Dare Ogunbowale and Roman Hemby on the depth chart -- presumably will be the next players up should Jeanty miss any time. The extent of Jeanty's injury is not yet known, but the diagnosis will prove pivotal for fantasy players interested in drafting or who have already picked up either Raiders running back.",
         "description": "Washington took most of the carries after Ashton Jeanty (knee) left Sunday's practice, Sam Warren of The Athletic reports.",
         "title": "Mike Washington - Sees extra work after Jeanty injury",
         "topic_id": "1397381556334501888"
@@ -472,10 +582,10 @@
       "url": "https://www.rotoballer.com/player-news/malik-nabers-could-shed-no-contact-jersey-this-week/1914820"
     },
     {
-      "analysis": "McCaffrey returned to practice and participated in team drills Sunday after he had been sitting out with general \"tightness\" of late. The 30-year-old running back added Sunday that the media attention around his absence was a \"firestorm\" and that his plan all along was 8-10 practices to ramp up, a break and then another ramp up in advance of Week 1, according to Jennifer Lee Chan of NBC Sports Bay Area. McCaffrey recorded a career-high 311 carries for 1,202 yards and 10 touchdowns across 17 regular-season games last year. San Francisco will open the 2026 campaign versus the Rams on Thursday, Sept. 10.",
+      "analysis": "McCaffrey returned to practice and participated in team drills Sunday after he had been sitting out with general \"tightness\" of late. The 30-year-old running back added Sunday that the media attention around his absence was a \"firestorm\" and that his plan all along was 8-to-10 practices to ramp up, a break and then another ramp up in advance of Week 1, according to Jennifer Lee Chan of NBC Sports Bay Area. McCaffrey recorded a career-high 311 carries for 1,202 yards and 10 touchdowns across 17 regular-season games last year. San Francisco will open the 2026 campaign versus the Rams on Thursday, Sept. 10.",
       "description": "McCaffrey (undisclosed) said Sunday that he always planned to take a break during training camp and then \"ramp back up,\" Vic Tafur of The Athletic reports.",
       "metadata": {
-        "analysis": "McCaffrey returned to practice and participated in team drills Sunday after he had been sitting out with general \"tightness\" of late. The 30-year-old running back added Sunday that the media attention around his absence was a \"firestorm\" and that his plan all along was 8-10 practices to ramp up, a break and then another ramp up in advance of Week 1, according to Jennifer Lee Chan of NBC Sports Bay Area. McCaffrey recorded a career-high 311 carries for 1,202 yards and 10 touchdowns across 17 regular-season games last year. San Francisco will open the 2026 campaign versus the Rams on Thursday, Sept. 10.",
+        "analysis": "McCaffrey returned to practice and participated in team drills Sunday after he had been sitting out with general \"tightness\" of late. The 30-year-old running back added Sunday that the media attention around his absence was a \"firestorm\" and that his plan all along was 8-to-10 practices to ramp up, a break and then another ramp up in advance of Week 1, according to Jennifer Lee Chan of NBC Sports Bay Area. McCaffrey recorded a career-high 311 carries for 1,202 yards and 10 touchdowns across 17 regular-season games last year. San Francisco will open the 2026 campaign versus the Rams on Thursday, Sept. 10.",
         "description": "McCaffrey (undisclosed) said Sunday that he always planned to take a break during training camp and then \"ramp back up,\" Vic Tafur of The Athletic reports.",
         "title": "Christian McCaffrey - Downplays preseason absence",
         "topic_id": "1397356386135855104"
@@ -512,10 +622,10 @@
       "url": null
     },
     {
-      "analysis": "The two signal-callers have alternated starting reps so far this preseason, as Watson started the first half of Cleveland's preseason opener while Sanders started in Saturday's 31-7 preseason loss to Buffalo. The 24-year-old Sanders outplayed Watson during the second exhibition, going 9-of-11 passing for 74 yards, one touchdown and one interception, but neither quarterback has obviously pulled away in the competition this preseason. In any case, word on the team's Week 1 starter is on track to arrive Monday via coach Todd Monken, while both Sanders and Watson are not slated to play in Thursday's preseason finale. The Browns' regular-season opener will come versus the Jaguars on Sunday, Sept. 13.",
+      "analysis": "The two signal-callers have alternated starting reps so far this preseason, as Watson started the first half of Cleveland's preseason opener while Sanders started in Saturday's 31-7 preseason loss to Buffalo. The 24-year-old Sanders outplayed Watson during the second exhibition, going 9-for-11 passing for 74 yards, one touchdown and one interception, but neither quarterback has obviously pulled away in the competition this preseason. In any case, word on the team's Week 1 starter is on track to arrive Monday via coach Todd Monken, while both Sanders and Watson are not slated to play in Thursday's preseason finale. The Browns' regular-season opener will come versus the Jaguars on Sunday, Sept. 13.",
       "description": "Sanders will learn Monday if he or Deshaun Watson will start at quarterback for the Browns, Jeremy Fowler of ESPN reports.",
       "metadata": {
-        "analysis": "The two signal-callers have alternated starting reps so far this preseason, as Watson started the first half of Cleveland's preseason opener while Sanders started in Saturday's 31-7 preseason loss to Buffalo. The 24-year-old Sanders outplayed Watson during the second exhibition, going 9-of-11 passing for 74 yards, one touchdown and one interception, but neither quarterback has obviously pulled away in the competition this preseason. In any case, word on the team's Week 1 starter is on track to arrive Monday via coach Todd Monken, while both Sanders and Watson are not slated to play in Thursday's preseason finale. The Browns' regular-season opener will come versus the Jaguars on Sunday, Sept. 13.",
+        "analysis": "The two signal-callers have alternated starting reps so far this preseason, as Watson started the first half of Cleveland's preseason opener while Sanders started in Saturday's 31-7 preseason loss to Buffalo. The 24-year-old Sanders outplayed Watson during the second exhibition, going 9-for-11 passing for 74 yards, one touchdown and one interception, but neither quarterback has obviously pulled away in the competition this preseason. In any case, word on the team's Week 1 starter is on track to arrive Monday via coach Todd Monken, while both Sanders and Watson are not slated to play in Thursday's preseason finale. The Browns' regular-season opener will come versus the Jaguars on Sunday, Sept. 13.",
         "description": "Sanders will learn Monday if he or Deshaun Watson will start at quarterback for the Browns, Jeremy Fowler of ESPN reports.",
         "title": "Shedeur Sanders - Will learn QB1 decision Monday",
         "topic_id": "1397348836376117248"
@@ -533,10 +643,10 @@
     },
     {
       "analysis": "The two quarterbacks have gone back and forth on reps during the preseason. Watson started the first half of Cleveland's preseason opener, but then he didn't play until after halftime when Sanders started in Saturday's 31-7 preseason loss to Buffalo. The 30-year-old has completed 16 of 27 passes for 162 yards and zero touchdowns to one interception through two exhibition game appearances. With neither quarterback obviously pulling away in the competition this preseason, it's possible that whoever is named the Week 1 starter could be on a short leash. Cleveland will open its 2026 campaign versus the Jaguars on Sunday, Sept. 13.",
-      "description": "Watson will learn Monday if he or Shedeur Sanders will be named starting quarterback for the Browns, Jeremy Fowler of ESPN reports.",
+      "description": "Watson will learn Monday if he or Shedeur Sanders will be named the starting quarterback for the Browns, Jeremy Fowler of ESPN reports.",
       "metadata": {
         "analysis": "The two quarterbacks have gone back and forth on reps during the preseason. Watson started the first half of Cleveland's preseason opener, but then he didn't play until after halftime when Sanders started in Saturday's 31-7 preseason loss to Buffalo. The 30-year-old has completed 16 of 27 passes for 162 yards and zero touchdowns to one interception through two exhibition game appearances. With neither quarterback obviously pulling away in the competition this preseason, it's possible that whoever is named the Week 1 starter could be on a short leash. Cleveland will open its 2026 campaign versus the Jaguars on Sunday, Sept. 13.",
-        "description": "Watson will learn Monday if he or Shedeur Sanders will be named starting quarterback for the Browns, Jeremy Fowler of ESPN reports.",
+        "description": "Watson will learn Monday if he or Shedeur Sanders will be named the starting quarterback for the Browns, Jeremy Fowler of ESPN reports.",
         "title": "Deshaun Watson - Starting QB decision expected Monday",
         "topic_id": "1397346318753468416"
       },
@@ -693,12 +803,12 @@
       "url": "https://www.fantasypros.com/nfl/news/603923/george-kittle-achilles-activated-from-pup.php"
     },
     {
-      "analysis": "Kittle has been ahead of schedule in his recovery from a torn Achilles that he suffered in January. His activation from the PUP list clears Kittle to participate in training camp practice, though he'll likely have his workload managed and will be held out of Thursday's preseason finale against the Raiders. All signs are pointing to the veteran tight end having a chance to be available for the 49ers' regular-season opener against the Rams on Thursday, Sept. 10, with more context on that front slated to arrive in the coming days. In any case, David Lombardi of SFStandard.com suggests that Sunday's move is a sign that the team is confident that Kittle will be back before Week 5.",
-      "description": "Kittle (Achilles) was activated from the Active/PUP list Sunday.",
+      "analysis": "Kittle has been ahead of schedule in his recovery from a torn Achilles that he suffered in January. His activation from the PUP list clears Kittle to participate in training camp practice, though he'll likely have his workload managed and be held out of Thursday's preseason finale against the Raiders. All signs are pointing to the veteran tight end having a chance to be available for the 49ers' regular-season opener against the Rams on Thursday, Sept. 10, with more context on that front slated to arrive in the coming days. In any case, David Lombardi of SFStandard.com suggests that Sunday's move is a sign that the team is confident that Kittle will be back before Week 5.",
+      "description": "Kittle (Achilles) was activated from the active/PUP list Sunday.",
       "metadata": {
-        "analysis": "Kittle has been ahead of schedule in his recovery from a torn Achilles that he suffered in January. His activation from the PUP list clears Kittle to participate in training camp practice, though he'll likely have his workload managed and will be held out of Thursday's preseason finale against the Raiders. All signs are pointing to the veteran tight end having a chance to be available for the 49ers' regular-season opener against the Rams on Thursday, Sept. 10, with more context on that front slated to arrive in the coming days. In any case, David Lombardi of SFStandard.com suggests that Sunday's move is a sign that the team is confident that Kittle will be back before Week 5.",
-        "description": "Kittle (Achilles) was activated from the Active/PUP list Sunday.",
-        "title": "George Kittle - Activated from Active/PUP list",
+        "analysis": "Kittle has been ahead of schedule in his recovery from a torn Achilles that he suffered in January. His activation from the PUP list clears Kittle to participate in training camp practice, though he'll likely have his workload managed and be held out of Thursday's preseason finale against the Raiders. All signs are pointing to the veteran tight end having a chance to be available for the 49ers' regular-season opener against the Rams on Thursday, Sept. 10, with more context on that front slated to arrive in the coming days. In any case, David Lombardi of SFStandard.com suggests that Sunday's move is a sign that the team is confident that Kittle will be back before Week 5.",
+        "description": "Kittle (Achilles) was activated from the active/PUP list Sunday.",
+        "title": "George Kittle - Activated from active/PUP list",
         "topic_id": "1397301016461914112"
       },
       "nfl_team": "SF",
@@ -709,7 +819,7 @@
       "source": "rotowire",
       "source_key": "634577",
       "story_id": "nfl|4217|rotowire|634577|1787504855000",
-      "title": "George Kittle - Activated from Active/PUP list",
+      "title": "George Kittle - Activated from active/PUP list",
       "url": null
     },
     {
@@ -813,10 +923,10 @@
       "url": "https://www.rotoballer.com/player-news/pat-bryant-could-be-working-his-way-into-an-expanded-role-in-denver/1914702"
     },
     {
-      "analysis": "Not only will Price not play Sunday, but he will also be held out of the Seahawks' preseason finale against the Chiefs this Friday. That means the first time that the rookie first-rounder will see in-game action will be Week 1 against the Patriots on Wednesday, Sept. 9. Price saw limited action in Friday's joint practice with the Titans, and head coach Mike Macdonald told reporters after that practice that Price is \"ramping\" up his workload over the final weeks of training camp and into the regular season. With Zach Charbonnet (knee) on the PUP list and Price sidelined, George Holani figures to serve as the Seahawks' lead back Sunday, with Velus Jones, Jacardia Wright and Anthony Hankerson also in the mix for snaps.",
+      "analysis": "Not only will Price not play Sunday, he will also be held out of the Seahawks' preseason finale against the Chiefs this Friday. That means the first time that the rookie first-rounder can see in-game action will be Week 1 against the Patriots on Wednesday, Sept. 9. Price saw limited action in Friday's joint practice with the Titans, and head coach Mike Macdonald told reporters after that practice that Price is \"ramping\" up his workload over the final weeks of training camp and into the regular season. With Zach Charbonnet (knee) on the active/PUP list and Price sidelined, George Holani figures to serve as the Seahawks' lead back Sunday, with Velus Jones, Jacardia Wright and Anthony Hankerson also in the mix for snaps.",
       "description": "Price will not play in Sunday's preseason game against the Titans, Gregg Bell of The Tacoma News Tribune reports.",
       "metadata": {
-        "analysis": "Not only will Price not play Sunday, but he will also be held out of the Seahawks' preseason finale against the Chiefs this Friday. That means the first time that the rookie first-rounder will see in-game action will be Week 1 against the Patriots on Wednesday, Sept. 9. Price saw limited action in Friday's joint practice with the Titans, and head coach Mike Macdonald told reporters after that practice that Price is \"ramping\" up his workload over the final weeks of training camp and into the regular season. With Zach Charbonnet (knee) on the PUP list and Price sidelined, George Holani figures to serve as the Seahawks' lead back Sunday, with Velus Jones, Jacardia Wright and Anthony Hankerson also in the mix for snaps.",
+        "analysis": "Not only will Price not play Sunday, he will also be held out of the Seahawks' preseason finale against the Chiefs this Friday. That means the first time that the rookie first-rounder can see in-game action will be Week 1 against the Patriots on Wednesday, Sept. 9. Price saw limited action in Friday's joint practice with the Titans, and head coach Mike Macdonald told reporters after that practice that Price is \"ramping\" up his workload over the final weeks of training camp and into the regular season. With Zach Charbonnet (knee) on the active/PUP list and Price sidelined, George Holani figures to serve as the Seahawks' lead back Sunday, with Velus Jones, Jacardia Wright and Anthony Hankerson also in the mix for snaps.",
         "description": "Price will not play in Sunday's preseason game against the Titans, Gregg Bell of The Tacoma News Tribune reports.",
         "title": "Jadarian Price - Will not play Sunday",
         "topic_id": "1397287174579175424"
@@ -15738,6 +15848,27 @@
       "story_id": "nfl|13353|rotowire|632320|1785524276000",
       "title": "Chris Brazzell - Rookie year officially over",
       "url": null
+    },
+    {
+      "analysis": "Strand continues to work with the starters as Michael Penix Jr. and Tua Tagovailoa ease their way back from injuries. Penix took reps in 7-on-7 drills on Friday. ",
+      "description": "Jack Strand took all of the 11-on-11 reps at Falcons training camp on Friday. ",
+      "metadata": {
+        "analysis": "Strand continues to work with the starters as Michael Penix Jr. and Tua Tagovailoa ease their way back from injuries. Penix took reps in 7-on-7 drills on Friday. ",
+        "description": "Jack Strand took all of the 11-on-11 reps at Falcons training camp on Friday. ",
+        "title": "Jack Strand takes all 11-on-11 reps at Falcons practice Friday ",
+        "topic_id": "1388949743010316288",
+        "url": "https://www.fantasypros.com/nfl/news/599340/jack-strand-takes-all-11-on-11-reps-falcons-practice-friday-.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "13602",
+      "player_name": "Jack Strand",
+      "position": "QB",
+      "published": 1785513933479,
+      "source": "fantasy_pros",
+      "source_key": "599340",
+      "story_id": "nfl|13602|fantasy_pros|599340|1785513933479",
+      "title": "Jack Strand takes all 11-on-11 reps at Falcons practice Friday ",
+      "url": "https://www.fantasypros.com/nfl/news/599340/jack-strand-takes-all-11-on-11-reps-falcons-practice-friday-.php"
     },
     {
       "analysis": null,

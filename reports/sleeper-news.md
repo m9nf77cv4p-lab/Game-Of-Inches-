@@ -2,63 +2,75 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **790**
-- Newly captured: **17**
+- Stored stories: **797**
+- Newly captured: **7**
 
 ## Latest news
 
-- **NEW — Tony Pollard** — Tony Pollard - Quick 45 scrimmage yards Sunday (2026-08-24T03:27:23Z)
+- **NEW — Elijah Arroyo** — Elijah Arroyo - Scores 36-yard TD in preseason loss (2026-08-24T04:28:09Z)
+  - Arroyo capped Seattle's opening drive with a 36-yard touchdown reception from Drew Lock. After producing only 179 receiving yards in his rookie regular season, Arroyo is trying to earn a larger role in his second NFL campaign. The 2025 second-round pick is set to open his sophomore season as the team's No. 2 TE behind AJ Barner.
+- **NEW — Tyjae Spears** — Tyjae Spears - Plays with starters after Pollard (2026-08-24T04:16:47Z)
+  - Spears featured on Tennessee's second and third drives with the starters after Tony Pollard turned three touches into 45 scrimmage yards on the team's opening possession. Pollard is expected to lead the backfield once again, but Spears should get his fair share of touches in a prominent change-of-pace role. Spears has 383 combined carries and targets in 42 regular-season appearances through three years in the NFL for a career average of 9.1 touches per game on offense.
+- **NEW — Cam Ward** — Cam Ward - Underwhelming preseason continues (2026-08-24T04:06:43Z)
+  - Ward put forward a second consecutive uninspiring preseason performance, as the Titans trailed Seattle's backups 16-3 after Ward's three drives in the game. He also had the ball knocked out of his hands while scrambling for a fumble out of bounds that went down as a sack. The 2025 first overall pick has averaged just 5.3 yards per pass attempt while failing to throw a touchdown pass this preseason. Tennessee will wrap up preseason play Saturday against the Bears.
+- **Tony Pollard** — Tony Pollard - Quick 45 scrimmage yards Sunday (2026-08-24T03:27:23Z)
   - All of Pollard's touches came within Tennessee's first five offensive plays of the game as he helped set up a field goal on the opening drive. Tyjae Spears played the next two drives with the starters, neither of which led to any points. Pollard sits atop Tennessee's running back depth chart after producing at least 1,288 scrimmage yards in each of the last four regular seasons, half of which have come with the Titans.
-- **NEW — Carnell Tate** — Carnell Tate - Goes without a catch again (2026-08-24T03:20:48Z)
+- **Carnell Tate** — Carnell Tate - Goes without a catch again (2026-08-24T03:20:48Z)
   - Tate has now gone without a catch on five targets through two preseason games. It's too early to press the panic button for the rookie No. 4 overall pick, though it would have been nice for Tate to show some rapport with 2025 first overall pick Cam Ward. Tennessee's starters were outscored 16-3 in the first quarter by Seattle's backups, so Tate is far from the only Titans player underperforming this preseason. On the bright side, Tate showed that he's healthy Sunday after battling some stiffness in practice leading up to the game.
-- **NEW — Ashton Jeanty** — Ashton Jeanty believed to have sprained ankle (2026-08-24T03:10:36.892000Z)
+- **Ashton Jeanty** — Ashton Jeanty believed to have sprained ankle (2026-08-24T03:10:36.892000Z)
   - Jeanty was unable to put weight on his right leg after going down on Sunday, and it was originally believed to be a serious knee injury. However, the running back and the Raiders seemed to have dodged a bullet and avoided a long-term absence. However, the extent of the ankle sprain and timetable for his return remain unknown.
   - Source: https://www.fantasypros.com/nfl/news/603980/ashton-jeanty-believed-to-have-sprained-ankle.php
-- **NEW — Ashton Jeanty** — Ashton Jeanty - Believed to have sprained ankle (2026-08-24T03:09:54Z)
+- **Ashton Jeanty** — Ashton Jeanty - Believed to have sprained ankle (2026-08-24T03:09:54Z)
   - There was concern about Jeanty's status after he was injured at Sunday's practice and reportedly could not put any weight on his leg, but the initial diagnosis appears more promising than not, with the report noting the Raiders are "breathing a sigh of relief." Both the full extent of Jeanty's injury and a recovery timeline have not yet been revealed, and his status will be updated again when more information is released.
-- **NEW — Bhayshul Tuten** — Bhayshul Tuten - Catching more passes after Allen's injury (2026-08-24T02:40:55Z)
+- **Bhayshul Tuten** — Bhayshul Tuten - Catching more passes after Allen's injury (2026-08-24T02:40:55Z)
   - The Jaguars appear to be directing more passes Tuten's way at practice following the soft-tissue injury suffered by LeQuint Allen (undisclosed), who had been penciled in as the team's preferred backfield option in passing situations. Ameer Abdullah could take some passing-down work if he makes the team, but Tuten has more receiving upside than Chris Rodriguez, who has just six receptions in 35 career regular-season appearances. Tuten caught 10 of 14 targets for 79 yards and two touchdowns during his rookie regular season.
-- **NEW — Carnell Tate** — Carnell Tate - Suiting up against Seahawks (2026-08-24T00:00:21Z)
+- **NEW — Bhayshul Tuten** — Bhayshul Tuten More Involved in Passing Game in Jacksonville (2026-08-24T00:26:14Z)
+  - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-more-involved-in-passing-game-in-jacksonville/1914900
+- **Carnell Tate** — Carnell Tate - Suiting up against Seahawks (2026-08-24T00:00:21Z)
   - Tate took warmups before the start of Sunday's preseason game and is set to take part in the action, with Tennessee's starters expected to play most of the first half. The rookie fourth overall pick dealt with some stiffness earlier in the week but has gotten the green light to suit up for Tennessee's second preseason game. Tate will look to improve on last week's preseason debut against the 49ers, in which he failed to catch any of his three targets.
-- **NEW — Ashton Jeanty** — Ashton Jeanty Suffers Ankle Sprain (2026-08-23T23:05:08Z)
+- **NEW — Carnell Tate** — Robert Saleh Not Concerned About Carnell Tate's Lack of Targets (2026-08-23T23:45:08Z)
+  - Source: https://www.rotoballer.com/player-news/robert-saleh-not-concerned-about-carnell-tates-lack-of-targets/1914892
+- **NEW — Dontayvion Wicks** — Dontayvion Wicks Turning Heads at Eagles Camp (2026-08-23T23:37:09Z)
+  - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-turning-heads-at-eagles-camp/1914887
+- **Ashton Jeanty** — Ashton Jeanty Suffers Ankle Sprain (2026-08-23T23:05:08Z)
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-suffers-ankle-sprain/1914880
-- **NEW — Kyler Murray** — Justin Jefferson Primed for Bounce-Back Season With Kyler Murray (2026-08-23T22:47:09Z)
+- **Kyler Murray** — Justin Jefferson Primed for Bounce-Back Season With New QB (2026-08-23T22:47:09Z)
   - Source: https://www.rotoballer.com/player-news/justin-jefferson-primed-for-bounce-back-season-with-kyler-murray/1914875
-- **NEW — Nico Collins** — Nico Collins Set for Massive Volume in 2026 (2026-08-23T22:37:10Z)
+- **Nico Collins** — Nico Collins Set for Massive Volume in 2026 (2026-08-23T22:37:10Z)
   - Source: https://www.rotoballer.com/player-news/nico-collins-set-for-massive-volume-in-2026/1914870
-- **NEW — Drake London** — Drake London's Value Dependent on Quarterback Competition? (2026-08-23T22:30:17Z)
+- **Drake London** — Drake London's Value Dependent on Quarterback Competition? (2026-08-23T22:30:17Z)
   - Source: https://www.rotoballer.com/player-news/drake-london-value-dependent-on-quarterback-competition/1914868
 - **Mike Washington** — Mike Washington - Sees extra work after Jeanty injury (2026-08-23T22:28:05Z)
-  - Washington has been getting rave reviews during the preseason, and the rookie -- who is followed by Dylan Laube, Dare Ogunbowale and Roman Hemby on the depth chart -- will presumably be the next man up should Jeanty miss any time. The extent of Jeanty's injury is not yet known, but the diagnosis will prove pivotal for fantasy players interested in drafting or who have already picked up either Raiders running back.
+  - Washington has been getting rave reviews during the preseason, and the rookie -- who is followed by Dylan Laube, Dare Ogunbowale and Roman Hemby on the depth chart -- presumably will be the next players up should Jeanty miss any time. The extent of Jeanty's injury is not yet known, but the diagnosis will prove pivotal for fantasy players interested in drafting or who have already picked up either Raiders running back.
 - **Mike Washington** — Mike Washington - Takes first-team reps after Jeanty exits practice (2026-08-23T22:28:04Z)
   - The Raiders have yet to not provide any further details on the severity of Jeanty's injury, but if the 2025 first-rounder misses any time, Washington's fantasy stock would see a major bump. McFadden notes that Washington, who has had a strong training camp, was alternating starting reps with Jeanty before the injury occurred. Also in the team's backfield depth mix are Dylan Laube, Dare Ogunbowale and Roman Hemby.
-- **NEW — Rashid Shaheed** — "The Sky Is the Limit" for Rashid Shaheed (2026-08-23T22:16:14Z)
+- **Rashid Shaheed** — "The Sky Is the Limit" for Rashid Shaheed (2026-08-23T22:16:14Z)
   - Source: https://www.rotoballer.com/player-news/the-sky-is-the-limit-for-rashid-shaheed/1914860
-- **NEW — Aaron Jones** — Should Aaron Jones Sr. Be Off Fantasy Radars for 2026? (2026-08-23T22:06:13Z)
+- **Aaron Jones** — Should Aaron Jones Sr. Be Off Fantasy Radars for 2026? (2026-08-23T22:06:13Z)
   - Source: https://www.rotoballer.com/player-news/should-aaron-jones-sr-be-off-fantasy-radars-for-2026/1914856
 - **Ashton Jeanty** — Ashton Jeanty suffers knee injury Sunday (2026-08-23T21:55:34.927000Z)
   - Jeanty suffered the apparent right knee injury after attempting to make a diving catch in team drills and was unable to put weight on his right leg afterward. The running back was set to take advantage of an elite-level workload as part of new head coach Klint Kubiak's zone running scheme entering the 2026 regular season. Fantasy managers will need to monitor his status as he heads for further evaluation on the extent of the injury. Mike Washington Jr. would be in line to take over No. 1 running back duties if Jeanty is forced to miss any period of time.
   - Source: https://www.fantasypros.com/nfl/news/603948/ashton-jeanty-suffers-knee-injury-sunday.php
-- **NEW — Devin Neal** — Devin Neal Sees the Slightest Tick in Fantasy Value (2026-08-23T21:50:13Z)
+- **Devin Neal** — Devin Neal Sees the Slightest Tick in Fantasy Value (2026-08-23T21:50:13Z)
   - Source: https://www.rotoballer.com/player-news/devin-neal-sees-the-slightest-tick-in-fantasy-value/1914847
 - **Ashton Jeanty** — Ashton Jeanty - Leaves practice with leg injury (2026-08-23T21:40:53Z)
   - Jeanty went down after diving for a catch and landing awkwardly, and he could not put any pressure on his right leg while being helped off the field by trainers, according to Ryan McFadden of ESPN.com. Other Raiders players were also seen taking a knee in acknowledgement after the running back left the field. The exact nature and severity of this apparent injury are still unclear, with McFadden suggesting it could be a knee issue, so it will be worth monitoring further updates on the running back's status. In the event that Jeanty misses any time, Mike Washington is next up for carries in a Las Vegas backfield that also includes Dylan Laube, Roman Hemby and Dare Ogunbowale.
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling in No-Contact Jersey on Sunday (2026-08-23T21:22:16Z)
+- **De'Zhaun Stribling** — De'Zhaun Stribling in No-Contact Jersey on Sunday (2026-08-23T21:22:16Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-in-no-contact-jersey-on-sunday/1914834
 - **Taylen Green** — Taylen Green - Set to play Thursday (2026-08-23T21:21:39Z)
   - The sixth-round rookie out of Arkansas has yet to see preseason action. It appears Dillon Gabriel will start Thursday's game, but Green will see the field later on. If the Browns plan to split the halves between the two quarterbacks, Thursday's game could be a battle for a roster spot. The team will be announcing Monday whether Deshaun Watson or Shedeur Sanders will be starting the regular season, meaning that if it plans to keep three quarterbacks Gabriel or Green will not survive August 30.
-- **NEW — Mike Evans** — Mike Evans Participates in "Much" of Sunday's Practice (2026-08-23T21:21:08Z)
+- **Mike Evans** — Mike Evans Participates in "Much" of Sunday's Practice (2026-08-23T21:21:08Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-participates-in-much-of-sundays-practice/1914832
-- **NEW — Christian McCaffrey** — Christian McCaffrey's Absence Part of the Plan (2026-08-23T21:15:08Z)
+- **Christian McCaffrey** — Christian McCaffrey's Absence Part of the Plan (2026-08-23T21:15:08Z)
   - Source: https://www.rotoballer.com/player-news/christian-mccaffreys-absence-part-of-the-plan/1914825
-- **NEW — Malik Nabers** — Malik Nabers Could Shed No-Contact Jersey This Week (2026-08-23T21:09:08Z)
+- **Malik Nabers** — Malik Nabers Could Shed No-Contact Jersey This Week (2026-08-23T21:09:08Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-could-shed-no-contact-jersey-this-week/1914820
 - **Christian McCaffrey** — Christian McCaffrey - Downplays preseason absence (2026-08-23T20:47:17Z)
-  - McCaffrey returned to practice and participated in team drills Sunday after he had been sitting out with general "tightness" of late. The 30-year-old running back added Sunday that the media attention around his absence was a "firestorm" and that his plan all along was 8-10 practices to ramp up, a break and then another ramp up in advance of Week 1, according to Jennifer Lee Chan of NBC Sports Bay Area. McCaffrey recorded a career-high 311 carries for 1,202 yards and 10 touchdowns across 17 regular-season games last year. San Francisco will open the 2026 campaign versus the Rams on Thursday, Sept. 10.
+  - McCaffrey returned to practice and participated in team drills Sunday after he had been sitting out with general "tightness" of late. The 30-year-old running back added Sunday that the media attention around his absence was a "firestorm" and that his plan all along was 8-to-10 practices to ramp up, a break and then another ramp up in advance of Week 1, according to Jennifer Lee Chan of NBC Sports Bay Area. McCaffrey recorded a career-high 311 carries for 1,202 yards and 10 touchdowns across 17 regular-season games last year. San Francisco will open the 2026 campaign versus the Rams on Thursday, Sept. 10.
 - **Malik Nabers** — Malik Nabers - May ditch red jersey this week (2026-08-23T20:32:42Z)
   - Harbaugh added that they will see how Nabers feels Monday and that it wasn't a necessity for him to shed the non-contact jersey this week since the regular-season opener is still three weeks away, per Barnes. The 23-year-old returned to team sessions last Monday, but he still sat out joint practices versus the Dolphins ahead of Saturday's 26-3 preseason win. Whether Nabers sheds the non-contact jersey will be a key checkpoint for his Week 1 readiness, but Harbaugh's comments suggest the Giants are still prioritizing his knee recovery timeline. New York will open its regular season versus the Cowboys on Sunday, Sept. 13.
 - **Shedeur Sanders** — Shedeur Sanders - Will learn QB1 decision Monday (2026-08-23T20:15:41Z)
-  - The two signal-callers have alternated starting reps so far this preseason, as Watson started the first half of Cleveland's preseason opener while Sanders started in Saturday's 31-7 preseason loss to Buffalo. The 24-year-old Sanders outplayed Watson during the second exhibition, going 9-of-11 passing for 74 yards, one touchdown and one interception, but neither quarterback has obviously pulled away in the competition this preseason. In any case, word on the team's Week 1 starter is on track to arrive Monday via coach Todd Monken, while both Sanders and Watson are not slated to play in Thursday's preseason finale. The Browns' regular-season opener will come versus the Jaguars on Sunday, Sept. 13.
+  - The two signal-callers have alternated starting reps so far this preseason, as Watson started the first half of Cleveland's preseason opener while Sanders started in Saturday's 31-7 preseason loss to Buffalo. The 24-year-old Sanders outplayed Watson during the second exhibition, going 9-for-11 passing for 74 yards, one touchdown and one interception, but neither quarterback has obviously pulled away in the competition this preseason. In any case, word on the team's Week 1 starter is on track to arrive Monday via coach Todd Monken, while both Sanders and Watson are not slated to play in Thursday's preseason finale. The Browns' regular-season opener will come versus the Jaguars on Sunday, Sept. 13.
 - **Deshaun Watson** — Deshaun Watson - Starting QB decision expected Monday (2026-08-23T20:08:09Z)
   - The two quarterbacks have gone back and forth on reps during the preseason. Watson started the first half of Cleveland's preseason opener, but then he didn't play until after halftime when Sanders started in Saturday's 31-7 preseason loss to Buffalo. The 30-year-old has completed 16 of 27 passes for 162 yards and zero touchdowns to one interception through two exhibition game appearances. With neither quarterback obviously pulling away in the competition this preseason, it's possible that whoever is named the Week 1 starter could be on a short leash. Cleveland will open its 2026 campaign versus the Jaguars on Sunday, Sept. 13.
 - **Christian McCaffrey** — Christian McCaffrey - Jumps into team drills Sunday (2026-08-23T19:03:18Z)
@@ -76,8 +88,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **George Kittle** — George Kittle (Achilles) activated from PUP (2026-08-23T17:20:33.501000Z)
   - Kittle was trending towards playing in Week 1, and this is a big step in that direction. He could be stepping into a big target share, especially with Mike Evans and De'Zhaun Stribling dealing with injuries of their own. Granted, the receivers injuries don't sound serious, but they're still noteworthy.
   - Source: https://www.fantasypros.com/nfl/news/603923/george-kittle-achilles-activated-from-pup.php
-- **George Kittle** — George Kittle - Activated from Active/PUP list (2026-08-23T17:07:35Z)
-  - Kittle has been ahead of schedule in his recovery from a torn Achilles that he suffered in January. His activation from the PUP list clears Kittle to participate in training camp practice, though he'll likely have his workload managed and will be held out of Thursday's preseason finale against the Raiders. All signs are pointing to the veteran tight end having a chance to be available for the 49ers' regular-season opener against the Rams on Thursday, Sept. 10, with more context on that front slated to arrive in the coming days. In any case, David Lombardi of SFStandard.com suggests that Sunday's move is a sign that the team is confident that Kittle will be back before Week 5.
+- **George Kittle** — George Kittle - Activated from active/PUP list (2026-08-23T17:07:35Z)
+  - Kittle has been ahead of schedule in his recovery from a torn Achilles that he suffered in January. His activation from the PUP list clears Kittle to participate in training camp practice, though he'll likely have his workload managed and be held out of Thursday's preseason finale against the Raiders. All signs are pointing to the veteran tight end having a chance to be available for the 49ers' regular-season opener against the Rams on Thursday, Sept. 10, with more context on that front slated to arrive in the coming days. In any case, David Lombardi of SFStandard.com suggests that Sunday's move is a sign that the team is confident that Kittle will be back before Week 5.
 - **Jordan James** — Jordan James' Fantasy Value Rising Following Return from Injury (2026-08-23T16:59:08Z)
   - Source: https://www.rotoballer.com/player-news/jordan-james-fantasy-value-rising-following-return-from-injury/1914738
 - **Travis Kelce** — Travis Kelce's Fantasy Stock Improved By Healthy QB Situation (2026-08-23T16:47:08Z)
@@ -89,7 +101,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Pat Bryant** — Pat Bryant Could Be Working His Way into an Expanded Role in Denver (2026-08-23T16:17:09Z)
   - Source: https://www.rotoballer.com/player-news/pat-bryant-could-be-working-his-way-into-an-expanded-role-in-denver/1914702
 - **Jadarian Price** — Jadarian Price - Will not play Sunday (2026-08-23T16:12:12Z)
-  - Not only will Price not play Sunday, but he will also be held out of the Seahawks' preseason finale against the Chiefs this Friday. That means the first time that the rookie first-rounder will see in-game action will be Week 1 against the Patriots on Wednesday, Sept. 9. Price saw limited action in Friday's joint practice with the Titans, and head coach Mike Macdonald told reporters after that practice that Price is "ramping" up his workload over the final weeks of training camp and into the regular season. With Zach Charbonnet (knee) on the PUP list and Price sidelined, George Holani figures to serve as the Seahawks' lead back Sunday, with Velus Jones, Jacardia Wright and Anthony Hankerson also in the mix for snaps.
+  - Not only will Price not play Sunday, he will also be held out of the Seahawks' preseason finale against the Chiefs this Friday. That means the first time that the rookie first-rounder can see in-game action will be Week 1 against the Patriots on Wednesday, Sept. 9. Price saw limited action in Friday's joint practice with the Titans, and head coach Mike Macdonald told reporters after that practice that Price is "ramping" up his workload over the final weeks of training camp and into the regular season. With Zach Charbonnet (knee) on the active/PUP list and Price sidelined, George Holani figures to serve as the Seahawks' lead back Sunday, with Velus Jones, Jacardia Wright and Anthony Hankerson also in the mix for snaps.
 - **Ladd McConkey** — Ladd McConkey Well-Positioned for a 2026 Resurgence (2026-08-23T16:09:07Z)
   - Source: https://www.rotoballer.com/player-news/ladd-mcconkey-well-positioned-for-a-2026-resurgence/1914700
 - **Hunter Henry** — Hunter Henry Looking More Like a Matchup Play in 2026 (2026-08-23T16:07:09Z)
@@ -199,15 +211,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Backup Jameis Winston got the start as Dart and some other key starters rested for the second preseason game. Dart played two series in the preseason opener, capping that appearance with a touchdown pass. It remains to be seen whether coach John Harbaugh gives the 2025 first-round pick any action in Friday's preseason finale against the Jets before the Giants kick off regular-season play with a Week 1 home game against the Cowboys on Sunday Night Football.
 - **Puka Nacua** — Puka Nacua Has Civil Trial Moved to March of 2028 (2026-08-22T23:05:07Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacua-has-civil-trial-moved-to-march-of-2028/1914201
-- **Caleb Douglas** — Caleb Douglas Sits Against Giants, Further Cementing his Role (2026-08-22T22:52:26Z)
-  - Source: https://www.rotoballer.com/player-news/caleb-douglas-sits-against-giants-further-cementing-role-in-dolphins-offense/1914192
-- **Mike Evans** — Mike Evans - Back in team drills Saturday (2026-08-22T22:49:03Z)
-  - Evans has been on and off the practice field in training camp due to bouts with quad injuries, including this past Tuesday's session, when he exited early and was seen with a wrap on his upper left leg. He didn't suit up in either of the 49ers' first two preseason games, but the 13-year pro doesn't necessarily require exhibition reps to serve as QB Brock Purdy's top wide receiver Week 1.
-- **De'Von Achane** — Jaylen Wright Emerging as Dolphins' Backup RB (2026-08-22T22:45:07Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-wright-emerging-as-backup-behind-devon-achane/1914185
-- **Caleb Williams** — Caleb Williams - Could play Saturday (2026-08-22T22:38:41Z)
-  - After sitting out Chicago's exhibition opener, Williams now appears set to make his preseason debut. His participation is notable for the Bears' first-team offense, especially with WRs Rome Odunze and Kalif Raymond and TEs Colston Loveland and Cole Kmet also suited up.
-- **Ty Simpson** — Ty Simpson Efficient Once Again in Preseason Action (2026-08-22T22:36:07Z)
-  - Source: https://www.rotoballer.com/player-news/ty-simpson-efficient-once-again-in-preseason-action/1914183
-- **Makai Lemon** — Makai Lemon - Not playing Saturday (2026-08-22T22:33:26Z)
-  - Lemon has been dealing with a hamstring injury since at least Aug. 3, but he was listed as a limited participant Wednesday and Thursday in advance of this preseason Week 2 matchup. With no game action to speak of yet during exhibition season, the rookie first-round pick seems like a candidate to play this coming Friday at Cincinnati if he progresses enough in his recovery.
