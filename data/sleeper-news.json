@@ -1,33 +1,28 @@
 {
-  "last_checked_at": "2026-08-24T17:51:26Z",
+  "last_checked_at": "2026-08-24T19:19:04Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|10218|rotoballer|219277|1787573709000",
-    "nfl|10219|rotowire|634663|1787593786000",
-    "nfl|11583|rotowire|634654|1787589309000",
-    "nfl|11792|rotowire|634651|1787587917000",
-    "nfl|12493|rotowire|634650|1787587714000",
-    "nfl|12512|rotowire|634662|1787593373000",
-    "nfl|12529|fantasy_pros|604010|1787590841182",
-    "nfl|12529|rotoballer|219278|1787574372000",
-    "nfl|12529|rotowire|634656|1787589748000",
-    "nfl|13294|fantasy_pros|604012|1787591441060",
-    "nfl|13294|rotoballer|219285|1787577140000",
-    "nfl|13294|rotowire|634659|1787590854000",
-    "nfl|13349|rotowire|634660|1787590857000",
-    "nfl|5846|rotoballer|219279|1787575148000",
-    "nfl|6819|rotoballer|219280|1787575453000",
-    "nfl|6819|rotowire|634649|1787587459000",
-    "nfl|6865|rotoballer|219276|1787573175000",
-    "nfl|7525|fantasy_pros|604011|1787591441070",
-    "nfl|7525|rotoballer|219286|1787577726000",
-    "nfl|7525|rotowire|634658|1787590639000",
-    "nfl|7594|rotoballer|219284|1787576709000",
-    "nfl|7594|rotowire|634653|1787588208000",
-    "nfl|8155|rotowire|634661|1787591488000",
-    "nfl|9480|rotoballer|219287|1787578628000",
-    "nfl|9997|fantasy_pros|604013|1787593841595"
+    "nfl|10219|rotoballer|219294|1787582588000",
+    "nfl|11559|rotoballer|219297|1787583134000",
+    "nfl|11559|rotowire|634665|1787594003000",
+    "nfl|12512|rotoballer|219291|1787581454000",
+    "nfl|12529|rotoballer|219292|1787582049000",
+    "nfl|12533|rotoballer|219295|1787582829000",
+    "nfl|12533|rotowire|634668|1787596357000",
+    "nfl|13330|rotoballer|219290|1787580909000",
+    "nfl|13330|rotowire|634669|1787597043000",
+    "nfl|7569|rotoballer|219300|1787584148000",
+    "nfl|7594|rotoballer|219299|1787584269000",
+    "nfl|8136|rotowire|634667|1787595976000",
+    "nfl|8155|rotoballer|219288|1787579527000",
+    "nfl|9486|rotowire|634666|1787594984000",
+    "nfl|9493|rotoballer|219293|1787581934000",
+    "nfl|9493|rotowire|634664|1787593806000",
+    "nfl|9504|fantasy_pros|604020|1787598641946",
+    "nfl|9504|rotoballer|219296|1787583372000",
+    "nfl|9504|rotowire|634670|1787597444000",
+    "nfl|9997|rotoballer|219289|1787580135000"
   ],
   "schema_version": 1,
   "source": {
@@ -37,6 +32,147 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Boutte has had his name in trade rumors for most of the offseason following the Patriots offseason additions of AJ Brown and Romeo Doubs. Boutte will get a fresh start in a wide open wide receiver room with Houston. He should compete for a role as a field stretcher for the Texans. ",
+      "description": "The Patriots are sending WR Kayshon Boutte to the Texans in exchange for safety Jaylen Reed and a 2028 seventh-round pick. ",
+      "metadata": {
+        "analysis": "Boutte has had his name in trade rumors for most of the offseason following the Patriots offseason additions of AJ Brown and Romeo Doubs. Boutte will get a fresh start in a wide open wide receiver room with Houston. He should compete for a role as a field stretcher for the Texans. ",
+        "description": "The Patriots are sending WR Kayshon Boutte to the Texans in exchange for safety Jaylen Reed and a 2028 seventh-round pick. ",
+        "title": "Kayshon Boutte traded to Texans ",
+        "topic_id": "1397693644068139008",
+        "url": "https://www.fantasypros.com/nfl/news/604020/kayshon-boutte-traded-to-texans.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "9504",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "published": 1787598641946,
+      "source": "fantasy_pros",
+      "source_key": "604020",
+      "story_id": "nfl|9504|fantasy_pros|604020|1787598641946",
+      "title": "Kayshon Boutte traded to Texans ",
+      "url": "https://www.fantasypros.com/nfl/news/604020/kayshon-boutte-traded-to-texans.php"
+    },
+    {
+      "analysis": "With the additions of A.J. Brown and Romeo Doubs to New England's receiving corps this offseason, a player like Boutte may have felt the roster crunch with cut-down day less than one week away. Now with Houston, Boutte joins a position group that has lost Jayden Higgins for the season due to a torn ACL and also includes the banged-up Jaylin Noel (hamstring) and Tank Dell (knee). As a result, Boutte has a chance to make an impact early on this season.",
+      "description": "The Patriots traded Boutte to the Texans for safety Jaylen Reed and a draft pick Monday, Tom Pelissero of Netflix reports.",
+      "metadata": {
+        "analysis": "With the additions of A.J. Brown and Romeo Doubs to New England's receiving corps this offseason, a player like Boutte may have felt the roster crunch with cut-down day less than one week away. Now with Houston, Boutte joins a position group that has lost Jayden Higgins for the season due to a torn ACL and also includes the banged-up Jaylin Noel (hamstring) and Tank Dell (knee). As a result, Boutte has a chance to make an impact early on this season.",
+        "description": "The Patriots traded Boutte to the Texans for safety Jaylen Reed and a draft pick Monday, Tom Pelissero of Netflix reports.",
+        "title": "Kayshon Boutte - Dealt to Texans",
+        "topic_id": "1397689863322488832"
+      },
+      "nfl_team": "NE",
+      "player_id": "9504",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "published": 1787597444000,
+      "source": "rotowire",
+      "source_key": "634670",
+      "story_id": "nfl|9504|rotowire|634670|1787597444000",
+      "title": "Kayshon Boutte - Dealt to Texans",
+      "url": null
+    },
+    {
+      "analysis": "Sadiq underwent hernia surgery during the offseason program and then had a setback in his recovery early on at training camp. The extent of his activity in the meantime has been work on a side field, so individual and then team drills will be the next steps for the rookie first-round pick. Once Sadiq is healthy, he and 2025 second-rounder Mason Taylor will serve as the Jets' top TE duo.",
+      "description": "Coach Aaron Gleen said Monday that the Jets are targeting Week 1 for Sadiq (hernia) to return to action, Zack Rosenblatt of The Athletic reports.",
+      "metadata": {
+        "analysis": "Sadiq underwent hernia surgery during the offseason program and then had a setback in his recovery early on at training camp. The extent of his activity in the meantime has been work on a side field, so individual and then team drills will be the next steps for the rookie first-round pick. Once Sadiq is healthy, he and 2025 second-rounder Mason Taylor will serve as the Jets' top TE duo.",
+        "description": "Coach Aaron Gleen said Monday that the Jets are targeting Week 1 for Sadiq (hernia) to return to action, Zack Rosenblatt of The Athletic reports.",
+        "title": "Kenyon Sadiq - Aiming to be available Week 1",
+        "topic_id": "1397688604737679360"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13330",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "published": 1787597043000,
+      "source": "rotowire",
+      "source_key": "634669",
+      "story_id": "nfl|13330|rotowire|634669|1787597043000",
+      "title": "Kenyon Sadiq - Aiming to be available Week 1",
+      "url": null
+    },
+    {
+      "analysis": "Per Ben Standig of Big 100 Washington D.C., Croskey-Merritt pulled up at the end of a catch and run at Thursday's practice, which kept him sidelined for Saturday's preseason game in Detroit. Quinn relayed to Keim that Croskey-Merritt is tending to a lower-body injury and likely will return to practice next week. Meanwhile, fellow RB Rachaad White (hamstring) will be back on the practice field Monday as a limited participant.",
+      "description": "Coach Dan Quinn said Monday that Croskey-Merritt (lower body) will work on the side with the Commanders' training staff this week, John Keim of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Per Ben Standig of Big 100 Washington D.C., Croskey-Merritt pulled up at the end of a catch and run at Thursday's practice, which kept him sidelined for Saturday's preseason game in Detroit. Quinn relayed to Keim that Croskey-Merritt is tending to a lower-body injury and likely will return to practice next week. Meanwhile, fellow RB Rachaad White (hamstring) will be back on the practice field Monday as a limited participant.",
+        "description": "Coach Dan Quinn said Monday that Croskey-Merritt (lower body) will work on the side with the Commanders' training staff this week, John Keim of ESPN.com reports.",
+        "title": "Jacory Croskey-Merritt - Slated to work on side field this week",
+        "topic_id": "1397684829377536000"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1787596357000,
+      "source": "rotowire",
+      "source_key": "634668",
+      "story_id": "nfl|12533|rotowire|634668|1787596357000",
+      "title": "Jacory Croskey-Merritt - Slated to work on side field this week",
+      "url": null
+    },
+    {
+      "analysis": "White has been sidelined since last Wednesday due to a hamstring injury and didn't suit up for Saturday's preseason game at Detroit. Now that he's back in the mix at practice, he can continue staking a claim to a Commanders backfield that currently is without top incumbent Jacory Croskey-Merritt (lower body).",
+      "description": "Coach Dan Quinn said White (hamstring) will participate in individual drills at Monday's practice, Ben Standig of Big 100 Washington D.C. reports.",
+      "metadata": {
+        "analysis": "White has been sidelined since last Wednesday due to a hamstring injury and didn't suit up for Saturday's preseason game at Detroit. Now that he's back in the mix at practice, he can continue staking a claim to a Commanders backfield that currently is without top incumbent Jacory Croskey-Merritt (lower body).",
+        "description": "Coach Dan Quinn said White (hamstring) will participate in individual drills at Monday's practice, Ben Standig of Big 100 Washington D.C. reports.",
+        "title": "Rachaad White - Back in individual drills Monday",
+        "topic_id": "1397683570838896640"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8136",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "published": 1787595976000,
+      "source": "rotowire",
+      "source_key": "634667",
+      "story_id": "nfl|8136|rotowire|634667|1787595976000",
+      "title": "Rachaad White - Back in individual drills Monday",
+      "url": null
+    },
+    {
+      "analysis": "Though he was generally impressive in both practices, Wicks turned in one highlight-reel-worthy rep during Thursday's session, when he easily shook one-on-one coverage from New England cornerback Carlton Davis at the line of scrimmage for what would have been a big gain, per Henry McKenna of FoxSports.com. Acquired from the Packers in April and immediately signed to a one-year, $12.5 million extension, Wicks has been repping with the first-team offense for most of his first camp with the Eagles while No. 1 wideout DeVonta Smith and rookie first-round pick Malachi Lemon have been slowed by hamstring injuries. Both Smith and Lemon are practicing again, but the time Lemon has missed along with his own strong performance could set the stage for Wicks to head into the regular season as the Eagles' No. 2 wideout.",
+      "description": "Wicks stood out with his route running during the Eagles' joint practices with the Patriots last Wednesday and Thursday, Cayden Steele of NJ.com reports.",
+      "metadata": {
+        "analysis": "Though he was generally impressive in both practices, Wicks turned in one highlight-reel-worthy rep during Thursday's session, when he easily shook one-on-one coverage from New England cornerback Carlton Davis at the line of scrimmage for what would have been a big gain, per Henry McKenna of FoxSports.com. Acquired from the Packers in April and immediately signed to a one-year, $12.5 million extension, Wicks has been repping with the first-team offense for most of his first camp with the Eagles while No. 1 wideout DeVonta Smith and rookie first-round pick Malachi Lemon have been slowed by hamstring injuries. Both Smith and Lemon are practicing again, but the time Lemon has missed along with his own strong performance could set the stage for Wicks to head into the regular season as the Eagles' No. 2 wideout.",
+        "description": "Wicks stood out with his route running during the Eagles' joint practices with the Patriots last Wednesday and Thursday, Cayden Steele of NJ.com reports.",
+        "title": "Dontayvion Wicks - Makes positive impression in joint practices",
+        "topic_id": "1397679795667513344"
+      },
+      "nfl_team": "PHI",
+      "player_id": "9486",
+      "player_name": "Dontayvion Wicks",
+      "position": "WR",
+      "published": 1787594984000,
+      "source": "rotowire",
+      "source_key": "634666",
+      "story_id": "nfl|9486|rotowire|634666|1787594984000",
+      "title": "Dontayvion Wicks - Makes positive impression in joint practices",
+      "url": null
+    },
+    {
+      "analysis": "Monday's session will mark Penix's first work in full-team drills this summer, a significant milestone for the QB as he works his way back from the torn ACL he suffered in his left knee Week 11 of last season. At this stage, it's unclear if Penix will play in Friday's preseason finale against the Dolphins, but the 2024 first-rounder's ability to commence working in full drills gives him an opportunity to make some strides in the team's QB competition ahead of Week 1.",
+      "description": "Both Tua Tagovailoa and Penix (knee) will take reps with the first-team offense Monday, Tori McElhaney of the Falcons' official site reports.",
+      "metadata": {
+        "analysis": "Monday's session will mark Penix's first work in full-team drills this summer, a significant milestone for the QB as he works his way back from the torn ACL he suffered in his left knee Week 11 of last season. At this stage, it's unclear if Penix will play in Friday's preseason finale against the Dolphins, but the 2024 first-rounder's ability to commence working in full drills gives him an opportunity to make some strides in the team's QB competition ahead of Week 1.",
+        "description": "Both Tua Tagovailoa and Penix (knee) will take reps with the first-team offense Monday, Tori McElhaney of the Falcons' official site reports.",
+        "title": "Michael Penix - In line to see some first-team reps Monday",
+        "topic_id": "1397676020303159296"
+      },
+      "nfl_team": "ATL",
+      "player_id": "11559",
+      "player_name": "Michael Penix",
+      "position": "QB",
+      "published": 1787594003000,
+      "source": "rotowire",
+      "source_key": "634665",
+      "story_id": "nfl|11559|rotowire|634665|1787594003000",
+      "title": "Michael Penix - In line to see some first-team reps Monday",
+      "url": null
+    },
     {
       "analysis": "Flowers walked onto the practice field in sneakers and a T-shirt on Monday. There should be an update on his status when available. ",
       "description": "Zay Flowers is not practicing on Monday for unclear reasons. ",
@@ -59,10 +195,30 @@
       "url": "https://www.fantasypros.com/nfl/news/604013/zay-flowers-not-practicing-monday.php"
     },
     {
-      "analysis": "Signed to a two-year, $10 million deal in March, Rodriguez made a full recovery from offseason foot surgery in advance of training camp and has been listed as co-starter with Bhayshul Tuten on the Jaguars' unofficial depth chart. With both Rodriguez and Tuten sitting out Jacksonville's first two preseason contests, it's been difficult to gauge how the snaps might be divvied up between the two once the regular season gets underway. While Rodriguez has lived up to his billing in camp as a bruising runner between the tackles, Shipley relays that Tuten \"has done nothing to diminish the early-offseason hype.\" With that in mind, both players appear likely to have meaningful roles in the running game Week 1 versus the Browns, and the two could also see more involvement on passing downs if LeQuint Allen (undisclosed) isn't available for the start of the season. Shipley opines that Rodriguez is probably the Jaguars' best pass-blocking back other than Allen, though Rodriguez could play second fiddle to the shiftier Tuten when it comes to earning targets.",
+      "analysis": "Nacua now is ticking toward two weeks off the practice field due to soreness in his psoas, but he was able to work with a member of the Rams' training staff on a side field Monday, indicating he's making some progress. In the end, the team likely is being as cautious as possible with Nacua with a Week 1 matchup with the 49ers in mind.",
+      "description": "Nacua (groin) isn't practicing Monday, Sarah Barshop of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Nacua now is ticking toward two weeks off the practice field due to soreness in his psoas, but he was able to work with a member of the Rams' training staff on a side field Monday, indicating he's making some progress. In the end, the team likely is being as cautious as possible with Nacua with a Week 1 matchup with the 49ers in mind.",
+        "description": "Nacua (groin) isn't practicing Monday, Sarah Barshop of ESPN.com reports.",
+        "title": "Puka Nacua - Still not practicing",
+        "topic_id": "1397674762318192640"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1787593806000,
+      "source": "rotowire",
+      "source_key": "634664",
+      "story_id": "nfl|9493|rotowire|634664|1787593806000",
+      "title": "Puka Nacua - Still not practicing",
+      "url": null
+    },
+    {
+      "analysis": "Signed to a two-year, $10 million deal in March, Rodriguez made a full recovery from offseason foot surgery in advance of training camp and has been listed as co-starter with Bhayshul Tuten on the Jaguars' unofficial depth chart. With both Rodriguez and Tuten sitting out Jacksonville's first two preseason contests, it's been difficult to gauge how the snaps might be divvied up between the two once the regular season gets underway. While Rodriguez has lived up to his billing in camp as a bruising runner between the tackles, Shipley relays that Tuten \"has done nothing to diminish the early-offseason hype.\" With that in mind, both players appear likely to have meaningful roles in the running game Week 1 versus the Browns, and the two could also see more involvement on passing downs if LeQuint Allen (undisclosed) isn't available. Shipley opines that Rodriguez is probably the Jaguars' best pass-blocking back other than Allen, though Rodriguez could play second fiddle to the shiftier Tuten when it comes to earning targets.",
       "description": "Rodriguez has drawn positive reviews for his power-running style during training camp, John Shipley of SI.com reports.",
       "metadata": {
-        "analysis": "Signed to a two-year, $10 million deal in March, Rodriguez made a full recovery from offseason foot surgery in advance of training camp and has been listed as co-starter with Bhayshul Tuten on the Jaguars' unofficial depth chart. With both Rodriguez and Tuten sitting out Jacksonville's first two preseason contests, it's been difficult to gauge how the snaps might be divvied up between the two once the regular season gets underway. While Rodriguez has lived up to his billing in camp as a bruising runner between the tackles, Shipley relays that Tuten \"has done nothing to diminish the early-offseason hype.\" With that in mind, both players appear likely to have meaningful roles in the running game Week 1 versus the Browns, and the two could also see more involvement on passing downs if LeQuint Allen (undisclosed) isn't available for the start of the season. Shipley opines that Rodriguez is probably the Jaguars' best pass-blocking back other than Allen, though Rodriguez could play second fiddle to the shiftier Tuten when it comes to earning targets.",
+        "analysis": "Signed to a two-year, $10 million deal in March, Rodriguez made a full recovery from offseason foot surgery in advance of training camp and has been listed as co-starter with Bhayshul Tuten on the Jaguars' unofficial depth chart. With both Rodriguez and Tuten sitting out Jacksonville's first two preseason contests, it's been difficult to gauge how the snaps might be divvied up between the two once the regular season gets underway. While Rodriguez has lived up to his billing in camp as a bruising runner between the tackles, Shipley relays that Tuten \"has done nothing to diminish the early-offseason hype.\" With that in mind, both players appear likely to have meaningful roles in the running game Week 1 versus the Browns, and the two could also see more involvement on passing downs if LeQuint Allen (undisclosed) isn't available. Shipley opines that Rodriguez is probably the Jaguars' best pass-blocking back other than Allen, though Rodriguez could play second fiddle to the shiftier Tuten when it comes to earning targets.",
         "description": "Rodriguez has drawn positive reviews for his power-running style during training camp, John Shipley of SI.com reports.",
         "title": "Chris Rodriguez - Lauded in camp for power running",
         "topic_id": "1397673503024537600"
@@ -462,6 +618,46 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Carolina Panthers running back Chuba Hubbard (hamstring) is expected to be ready for the Week 1 regular-season opener on Sept. 13 against the Chicago Bears, head coach Dave Canales told Steve Reed of The Associated Press. Hubbard has not played in a preseason game after straining his hamstring earlier this month, but he was able to return to training camp practice on Monday, signaling that he should be ready for the season opener. Canales also said on Monday that the Panthers are expected to use an RB committee with Hubbard and Jonathon Brooks to open the 2026 season. Hubbard ran for 1,195 yards and 10 touchdowns in 2024, but a calf injury limited him to 511 yards and just one rushing TD last year, while Rico Dowdle took over as the team's lead back. Dowdle is now in Pittsburgh, but Brooks could be a thorn in Hubbard's side this year if he manages to stay healthy after already tearing his ACL multiple times. Hubbard said he is feeling \"pretty good\" with the regular season quickly approaching, but fantasy managers will have their doubts that Hubbard can become anything more than an RB3/flex in a timeshare.",
+      "metadata": {
+        "description": "Carolina Panthers running back Chuba Hubbard (hamstring) is expected to be ready for the Week 1 regular-season opener on Sept. 13 against the Chicago Bears, head coach Dave Canales told Steve Reed of The Associated Press. Hubbard has not played in a preseason game after straining his hamstring earlier this month, but he was able to return to training camp practice on Monday, signaling that he should be ready for the season opener. Canales also said on Monday that the Panthers are expected to use an RB committee with Hubbard and Jonathon Brooks to open the 2026 season. Hubbard ran for 1,195 yards and 10 touchdowns in 2024, but a calf injury limited him to 511 yards and just one rushing TD last year, while Rico Dowdle took over as the team's lead back. Dowdle is now in Pittsburgh, but Brooks could be a thorn in Hubbard's side this year if he manages to stay healthy after already tearing his ACL multiple times. Hubbard said he is feeling \"pretty good\" with the regular season quickly approaching, but fantasy managers will have their doubts that Hubbard can become anything more than an RB3/flex in a timeshare.",
+        "title": "Chuba Hubbard Expected to be Ready for Season Opener",
+        "topic_id": "1397694894272675840",
+        "url": "https://www.rotoballer.com/player-news/chuba-hubbard-expected-to-be-ready-for-season-opener/1915369"
+      },
+      "nfl_team": "CAR",
+      "player_id": "7594",
+      "player_name": "Chuba Hubbard",
+      "position": "RB",
+      "published": 1787584269000,
+      "source": "rotoballer",
+      "source_key": "219299",
+      "story_id": "nfl|7594|rotoballer|219299|1787584269000",
+      "title": "Chuba Hubbard Expected to be Ready for Season Opener",
+      "url": "https://www.rotoballer.com/player-news/chuba-hubbard-expected-to-be-ready-for-season-opener/1915369"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Nico Collins got a little more competition Monday, which matters after Jayden Higgins' season-ending ACL tear had opened the door to a huge target load. Houston is reportedly acquiring Kayshon Boutte from New England for safety Jaylen Reed and a 2028 seventh-round pick. Boutte caught 33 passes for 551 yards and six touchdowns last season, and he gives C.J. Stroud another outside target who can win downfield. The Texans had already signed Zay Jones and Sterling Shepard after Higgins went down. None of those moves knocks Collins off the top line. He has topped 1,000 yards three years in a row and finished 2025 with 71 catches for 1,117 yards and six touchdowns. It does change the volume math a bit. Collins looked set to absorb a huge share of the passing game once Higgins was lost, and Houston has now spent several days adding veteran help plus Boutte. RotoBaller has Collins 23rd overall in its latest PPR rankings. He's still a WR1, just with a little less room for the monster target spike fantasy managers could have pictured last week.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Nico Collins got a little more competition Monday, which matters after Jayden Higgins' season-ending ACL tear had opened the door to a huge target load. Houston is reportedly acquiring Kayshon Boutte from New England for safety Jaylen Reed and a 2028 seventh-round pick. Boutte caught 33 passes for 551 yards and six touchdowns last season, and he gives C.J. Stroud another outside target who can win downfield. The Texans had already signed Zay Jones and Sterling Shepard after Higgins went down. None of those moves knocks Collins off the top line. He has topped 1,000 yards three years in a row and finished 2025 with 71 catches for 1,117 yards and six touchdowns. It does change the volume math a bit. Collins looked set to absorb a huge share of the passing game once Higgins was lost, and Houston has now spent several days adding veteran help plus Boutte. RotoBaller has Collins 23rd overall in its latest PPR rankings. He's still a WR1, just with a little less room for the monster target spike fantasy managers could have pictured last week.",
+        "title": "Nico Collins' Target Outlook Cools After Monday's Trade",
+        "topic_id": "1397694894268481536",
+        "url": "https://www.rotoballer.com/player-news/nico-collins-target-outlook-cools-after-mondays-trade/1915367"
+      },
+      "nfl_team": "HOU",
+      "player_id": "7569",
+      "player_name": "Nico Collins",
+      "position": "WR",
+      "published": 1787584148000,
+      "source": "rotoballer",
+      "source_key": "219300",
+      "story_id": "nfl|7569|rotoballer|219300|1787584148000",
+      "title": "Nico Collins' Target Outlook Cools After Monday's Trade",
+      "url": "https://www.rotoballer.com/player-news/nico-collins-target-outlook-cools-after-mondays-trade/1915367"
+    },
+    {
       "analysis": "After being activated from the non-football injury list last Monday, Bell was a limited participant in his first handful of practices with Miami. With his surgically repaired left knee apparently responding well, Bell will now ditch his red, no-contact jersey in what marks the final box he'll need to check before being cleared for game action. The Dolphins could still elect to hold out Bell for their preseason finale Friday versus the Falcons, but the rookie third-round pick looks to be trending toward suiting up Week 1 versus the Raiders.",
       "description": "Bell (knee) is expected to be a full participant in Monday's practice, David Furones of the South Florida Sun Sentinel reports.",
       "metadata": {
@@ -482,6 +678,146 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "The Houston Texans are giving Kayshon Boutte a new opportunity. The Texans are acquiring the wide receiver from New England in exchange for safety Jaylen Reed and a draft pick, according to Tom Pelissero. Houston had already called about Boutte while looking for help following Jayden Higgins' season-ending knee injury, and now the deal is getting done. Boutte caught 33 passes for 551 yards and a career-high six touchdowns in 14 games last season, averaging 16.7 yards per reception. His path to playing time had gotten murkier in New England after the additions of A.J. Brown and Romeo Doubs, especially with Boutte entering the final year of his rookie contract. There should be opportunity in Houston, but nothing is guaranteed. The Texans also added Zay Jones and Sterling Shepard over the weekend, so Boutte will have to earn his place in the rotation. The trade at least gives him a cleaner shot at regular snaps heading into the season.",
+      "metadata": {
+        "description": "The Houston Texans are giving Kayshon Boutte a new opportunity. The Texans are acquiring the wide receiver from New England in exchange for safety Jaylen Reed and a draft pick, according to Tom Pelissero. Houston had already called about Boutte while looking for help following Jayden Higgins' season-ending knee injury, and now the deal is getting done. Boutte caught 33 passes for 551 yards and a career-high six touchdowns in 14 games last season, averaging 16.7 yards per reception. His path to playing time had gotten murkier in New England after the additions of A.J. Brown and Romeo Doubs, especially with Boutte entering the final year of his rookie contract. There should be opportunity in Houston, but nothing is guaranteed. The Texans also added Zay Jones and Sterling Shepard over the weekend, so Boutte will have to earn his place in the rotation. The trade at least gives him a cleaner shot at regular snaps heading into the season.",
+        "title": "Kayshon Boutte Gets Fresh Start in Houston",
+        "topic_id": "1397691119801782272",
+        "url": "https://www.rotoballer.com/player-news/kayshon-boutte-gets-fresh-start-in-houston/1915353"
+      },
+      "nfl_team": "NE",
+      "player_id": "9504",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "published": 1787583372000,
+      "source": "rotoballer",
+      "source_key": "219296",
+      "story_id": "nfl|9504|rotoballer|219296|1787583372000",
+      "title": "Kayshon Boutte Gets Fresh Start in Houston",
+      "url": "https://www.rotoballer.com/player-news/kayshon-boutte-gets-fresh-start-in-houston/1915353"
+    },
+    {
+      "analysis": null,
+      "description": "Both Atlanta Falcons quarterbacks Michael Penix Jr. (knee) and Tua Tagovailoa will take reps with the first-team offense on Monday throughout the entire practice, according to Tori McElhaney of the team's official website. Monday will be the first time this summer that Penix has worked in team drills as a full-go. The Falcons have not officially named a starter in the QB battle during training camp, but Tagovailoa is still the overwhelming favorite to start in Week 1 against the Pittsburgh Steelers since he got a head start on Penix during camp. The 26-year-old Penix tore his ACL in Week 11 of last season, and it is unclear if he will be cleared to play in the team's final preseason contest this Friday against the Miami Dolphins. Penix remains off the fantasy radar in single-year, single-QB leagues. In his first two seasons in the NFL, he has completed under 60% of his pass attempts for 2,757 yards, 12 touchdowns, and six interceptions in 14 games played (12 starts). In dynasty/keeper leagues, Penix is a hard sell as a buy-low candidate given his lengthy injury history.",
+      "metadata": {
+        "description": "Both Atlanta Falcons quarterbacks Michael Penix Jr. (knee) and Tua Tagovailoa will take reps with the first-team offense on Monday throughout the entire practice, according to Tori McElhaney of the team's official website. Monday will be the first time this summer that Penix has worked in team drills as a full-go. The Falcons have not officially named a starter in the QB battle during training camp, but Tagovailoa is still the overwhelming favorite to start in Week 1 against the Pittsburgh Steelers since he got a head start on Penix during camp. The 26-year-old Penix tore his ACL in Week 11 of last season, and it is unclear if he will be cleared to play in the team's final preseason contest this Friday against the Miami Dolphins. Penix remains off the fantasy radar in single-year, single-QB leagues. In his first two seasons in the NFL, he has completed under 60% of his pass attempts for 2,757 yards, 12 touchdowns, and six interceptions in 14 games played (12 starts). In dynasty/keeper leagues, Penix is a hard sell as a buy-low candidate given his lengthy injury history.",
+        "title": "Michael Penix Jr. to Take Some First-Team Reps on Monday",
+        "topic_id": "1397691119789199360",
+        "url": "https://www.rotoballer.com/player-news/michael-penix-jr-to-take-some-first-team-reps-on-monday/1915348"
+      },
+      "nfl_team": "ATL",
+      "player_id": "11559",
+      "player_name": "Michael Penix",
+      "position": "QB",
+      "published": 1787583134000,
+      "source": "rotoballer",
+      "source_key": "219297",
+      "story_id": "nfl|11559|rotoballer|219297|1787583134000",
+      "title": "Michael Penix Jr. to Take Some First-Team Reps on Monday",
+      "url": "https://www.rotoballer.com/player-news/michael-penix-jr-to-take-some-first-team-reps-on-monday/1915348"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Jacory Croskey-Merritt was limited at Monday's practice with an undisclosed injury, according to Ben Standig. Standig saw Croskey-Merritt pull up at the end of a catch-and-run during Thursday's practice, and the second-year back was held out of Saturday's preseason game against Detroit. He is at least back on the field now, though Washington is keeping his workload down. Croskey-Merritt led the Commanders with 805 rushing yards and eight touchdowns on 175 carries as a rookie, adding nine catches for 68 yards. He is also listed first at running back on Washington's current unofficial depth chart. Monday's participation is a positive after he sat out over the weekend, but his workload over the next few practices will be worth watching with Week 1 getting closer.",
+      "metadata": {
+        "description": "Washington Commanders running back Jacory Croskey-Merritt was limited at Monday's practice with an undisclosed injury, according to Ben Standig. Standig saw Croskey-Merritt pull up at the end of a catch-and-run during Thursday's practice, and the second-year back was held out of Saturday's preseason game against Detroit. He is at least back on the field now, though Washington is keeping his workload down. Croskey-Merritt led the Commanders with 805 rushing yards and eight touchdowns on 175 carries as a rookie, adding nine catches for 68 yards. He is also listed first at running back on Washington's current unofficial depth chart. Monday's participation is a positive after he sat out over the weekend, but his workload over the next few practices will be worth watching with Week 1 getting closer.",
+        "title": "Jacory Croskey-Merritt Limited With Undisclosed Injury",
+        "topic_id": "1397689860550094848",
+        "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-limited-with-undisclosed-injury/1915346"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1787582829000,
+      "source": "rotoballer",
+      "source_key": "219295",
+      "story_id": "nfl|12533|rotoballer|219295|1787582829000",
+      "title": "Jacory Croskey-Merritt Limited With Undisclosed Injury",
+      "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-limited-with-undisclosed-injury/1915346"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. has been impressive as a power runner in training camp, according to John Shipley of Sports Illustrated. However, fellow RB Bhayshul Tuten \"has done nothing to diminish the early offseason hype.\" Tuten might be more explosive overall as a runner, but Rodriguez is going to have a key role in Jacksonville's backfield this year, and Shipley also thinks C-Rod might be the team's best pass-blocking RB outside of LeQuint Allen Jr. The 25-year-old is a full-go despite having offseason foot surgery, and the Jags have listed Rodriguez and Tuten as co-starters going into the 2026 regular season. Rodriguez is more of a bruiser between the tackles, which could earn him valuable goal-line touches in his first year in Duvall. But while sharing snaps and touches with Tuten and Allen, Rodriguez's fantasy value looks to be as a touchdown-dependent RB3/flex. If Allen misses any time this year due to injury, Rodriguez could become Jacksonville's preferred third-down back as well. RotoBaller has C-Rod as the RB39, with Tuten coming in at No. 26.",
+      "metadata": {
+        "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. has been impressive as a power runner in training camp, according to John Shipley of Sports Illustrated. However, fellow RB Bhayshul Tuten \"has done nothing to diminish the early offseason hype.\" Tuten might be more explosive overall as a runner, but Rodriguez is going to have a key role in Jacksonville's backfield this year, and Shipley also thinks C-Rod might be the team's best pass-blocking RB outside of LeQuint Allen Jr. The 25-year-old is a full-go despite having offseason foot surgery, and the Jags have listed Rodriguez and Tuten as co-starters going into the 2026 regular season. Rodriguez is more of a bruiser between the tackles, which could earn him valuable goal-line touches in his first year in Duvall. But while sharing snaps and touches with Tuten and Allen, Rodriguez's fantasy value looks to be as a touchdown-dependent RB3/flex. If Allen misses any time this year due to injury, Rodriguez could become Jacksonville's preferred third-down back as well. RotoBaller has C-Rod as the RB39, with Tuten coming in at No. 26.",
+        "title": "Chris Rodriguez Jr. Impressing With his Power Running",
+        "topic_id": "1397688602154020864",
+        "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-impressing-with-his-power-running/1915342"
+      },
+      "nfl_team": "JAX",
+      "player_id": "10219",
+      "player_name": "Chris Rodriguez",
+      "position": "RB",
+      "published": 1787582588000,
+      "source": "rotoballer",
+      "source_key": "219294",
+      "story_id": "nfl|10219|rotoballer|219294|1787582588000",
+      "title": "Chris Rodriguez Jr. Impressing With his Power Running",
+      "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-impressing-with-his-power-running/1915342"
+    },
+    {
+      "analysis": null,
+      "description": "Updating a previous report, New England Patriots second-year running back TreVeyon Henderson (ankle, leg) left the team's training camp practice on Monday early with a right-leg/ankle injury, according to Mike Kadlick of Sports Illustrated. It is unclear right now if it is a serious injury for Henderson, but we'll keep close tabs on his progress for the rest of the week and leading up to the team's Week 1 regular-season opener against the Seattle Seahawks in early September. If Henderson is good to go for the start of the season, he is expected to be involved in a 50-50 timeshare with Rhamondre Stevenson in New England's backfield in Year 2. The 23-year-old former second-rounder from Ohio State impressed as a rookie, running for 911 yards and nine touchdowns on 180 carries while adding 35 catches for 221 yards and another TD through the air. Henderson has not really improved his pass-blocking skills, though, and a timeshare with Stevenson will leave his fantasy upside capped as an RB3/flex target in upcoming drafts. If Henderson's injury keeps him out of Week 1, Lan Larison and rookie Jam Miller will be competing for RB2 duties behind Stevenson over the next couple of weeks.",
+      "metadata": {
+        "description": "Updating a previous report, New England Patriots second-year running back TreVeyon Henderson (ankle, leg) left the team's training camp practice on Monday early with a right-leg/ankle injury, according to Mike Kadlick of Sports Illustrated. It is unclear right now if it is a serious injury for Henderson, but we'll keep close tabs on his progress for the rest of the week and leading up to the team's Week 1 regular-season opener against the Seattle Seahawks in early September. If Henderson is good to go for the start of the season, he is expected to be involved in a 50-50 timeshare with Rhamondre Stevenson in New England's backfield in Year 2. The 23-year-old former second-rounder from Ohio State impressed as a rookie, running for 911 yards and nine touchdowns on 180 carries while adding 35 catches for 221 yards and another TD through the air. Henderson has not really improved his pass-blocking skills, though, and a timeshare with Stevenson will leave his fantasy upside capped as an RB3/flex target in upcoming drafts. If Henderson's injury keeps him out of Week 1, Lan Larison and rookie Jam Miller will be competing for RB2 duties behind Stevenson over the next couple of weeks.",
+        "title": "TreVeyon Henderson Dealing With Leg/Ankle Injury",
+        "topic_id": "1397686085567447040",
+        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-dealing-with-leg-ankle-injury/1915336"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1787582049000,
+      "source": "rotoballer",
+      "source_key": "219292",
+      "story_id": "nfl|12529|rotoballer|219292|1787582049000",
+      "title": "TreVeyon Henderson Dealing With Leg/Ankle Injury",
+      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-dealing-with-leg-ankle-injury/1915336"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Puka Nacua (groin) remained out of practice Monday, according to Sarah Barshop. Nacua was working off to the side with a trainer but has yet to rejoin team drills since leaving the Aug. 11 joint practice with Dallas because of psoas soreness. Sean McVay initially expected him back the following week, but Nacua ended up sitting out both joint practices with New Orleans as well. The Rams later pushed that expectation into this week, so Monday's absence is worth noting even with Nacua doing route work on the side. He is coming off a massive 2025 season, leading the NFL with 129 receptions while piling up 1,715 yards and 10 touchdowns in 16 games. There is still time before Week 1, but Nacua has now been away from team practice for nearly two weeks.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Puka Nacua (groin) remained out of practice Monday, according to Sarah Barshop. Nacua was working off to the side with a trainer but has yet to rejoin team drills since leaving the Aug. 11 joint practice with Dallas because of psoas soreness. Sean McVay initially expected him back the following week, but Nacua ended up sitting out both joint practices with New Orleans as well. The Rams later pushed that expectation into this week, so Monday's absence is worth noting even with Nacua doing route work on the side. He is coming off a massive 2025 season, leading the NFL with 129 receptions while piling up 1,715 yards and 10 touchdowns in 16 games. There is still time before Week 1, but Nacua has now been away from team practice for nearly two weeks.",
+        "title": "Puka Nacua Still Not Back at Practice",
+        "topic_id": "1397686085567447041",
+        "url": "https://www.rotoballer.com/player-news/puka-nacua-still-not-back-at-practice/1915331"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1787581934000,
+      "source": "rotoballer",
+      "source_key": "219293",
+      "story_id": "nfl|9493|rotoballer|219293|1787581934000",
+      "title": "Puka Nacua Still Not Back at Practice",
+      "url": "https://www.rotoballer.com/player-news/puka-nacua-still-not-back-at-practice/1915331"
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns running back Quinshon Judkins (undisclosed) returned to practice Monday, according to Daniel Oyefusi. Judkins missed the final two practices of last week and sat out Saturday's preseason game against Buffalo while dealing with what head coach Todd Monken called \"a little something nagging.\" Monken said it was nothing significant and also made clear that the issue was unrelated to the extra contact Judkins took during Cleveland's Aug. 18 practice. His return Monday backs up that assessment, although his exact participation level wasn't immediately clear. Judkins led the Browns with 827 rushing yards and seven touchdowns on 230 carries as a rookie, adding 26 catches for 171 yards. With the regular season still a few weeks away, getting him back on the field after a brief absence is a positive development for Cleveland's backfield.",
+      "metadata": {
+        "description": "Cleveland Browns running back Quinshon Judkins (undisclosed) returned to practice Monday, according to Daniel Oyefusi. Judkins missed the final two practices of last week and sat out Saturday's preseason game against Buffalo while dealing with what head coach Todd Monken called \"a little something nagging.\" Monken said it was nothing significant and also made clear that the issue was unrelated to the extra contact Judkins took during Cleveland's Aug. 18 practice. His return Monday backs up that assessment, although his exact participation level wasn't immediately clear. Judkins led the Browns with 827 rushing yards and seven touchdowns on 230 carries as a rookie, adding 26 catches for 171 yards. With the regular season still a few weeks away, getting him back on the field after a brief absence is a positive development for Cleveland's backfield.",
+        "title": "Quinshon Judkins Returns to Practice",
+        "topic_id": "1397683568720814080",
+        "url": "https://www.rotoballer.com/player-news/quinshon-judkins-returns-to-practice/1915325"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12512",
+      "player_name": "Quinshon Judkins",
+      "position": "RB",
+      "published": 1787581454000,
+      "source": "rotoballer",
+      "source_key": "219291",
+      "story_id": "nfl|12512|rotoballer|219291|1787581454000",
+      "title": "Quinshon Judkins Returns to Practice",
+      "url": "https://www.rotoballer.com/player-news/quinshon-judkins-returns-to-practice/1915325"
+    },
+    {
       "analysis": "Sanders and Watson had been battling for the job since the start of the offseason program and alternated starts in the Browns' first two preseason tilts. Between losses to the Browns and Bills, Sanders completed 15 of 22 attempts for 153 yards, one touchdown and two interceptions. While Watson didn't fare dramatically better than Sanders in the two exhibition games, his superior performance during camp practices in addition to his greater NFL experience and pricey contract were likely major factors in him emerging as the victor in the job battle. Watson is unlikely to head into Week 1 with a long leash, however, and Sanders should have a good chance at making starts in 2026 if the Browns limp out to a poor start to the season.",
       "description": "Sanders will open the season as the Browns' backup quarterback after the team named Deshaun Watson its starter Monday, multiple sources tell NFL reporter Jordan Schultz.",
       "metadata": {
@@ -500,6 +836,26 @@
       "story_id": "nfl|12524|rotowire|634634|1787581149000",
       "title": "Shedeur Sanders - Beginning season in backup role",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets tight end Kenyon Sadiq took another step forward Monday while working his way back from a setback following offseason hernia surgery. Zack Rosenblatt reported that Sadiq was running routes on a side field with trainers throwing to him and appeared to be moving well. The rookie practiced three times at the beginning of training camp before the Jets shut him down again in early August, and he has yet to return to team drills. Week 1 has been the Jets' stated expectation for Sadiq, so getting him through more football-specific work is encouraging with the opener getting closer. The 16th overall pick caught 51 passes for 560 yards and eight touchdowns during his final season at Oregon. Sadiq has missed most of his first NFL training camp, which could make it tougher to carve out a big role immediately. For now, though, his rehab appears to be moving forward.",
+      "metadata": {
+        "description": "New York Jets tight end Kenyon Sadiq took another step forward Monday while working his way back from a setback following offseason hernia surgery. Zack Rosenblatt reported that Sadiq was running routes on a side field with trainers throwing to him and appeared to be moving well. The rookie practiced three times at the beginning of training camp before the Jets shut him down again in early August, and he has yet to return to team drills. Week 1 has been the Jets' stated expectation for Sadiq, so getting him through more football-specific work is encouraging with the opener getting closer. The 16th overall pick caught 51 passes for 560 yards and eight touchdowns during his final season at Oregon. Sadiq has missed most of his first NFL training camp, which could make it tougher to carve out a big role immediately. For now, though, his rehab appears to be moving forward.",
+        "title": "Kenyon Sadiq Running Routes During Rehab Work",
+        "topic_id": "1397682310089875456",
+        "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-running-routes-during-rehab-work/1915315"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13330",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "published": 1787580909000,
+      "source": "rotoballer",
+      "source_key": "219290",
+      "story_id": "nfl|13330|rotoballer|219290|1787580909000",
+      "title": "Kenyon Sadiq Running Routes During Rehab Work",
+      "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-running-routes-during-rehab-work/1915315"
     },
     {
       "analysis": "Watson was the favorite to win the job going in, and even though he had some hiccups on the way, namely preseason struggles and the fans booing him, he won out in the end. It's still likely that Shedeur Sanders will get a crack as the starter at some point this year, it's just a matter of when. As for the Browns pass catchers, they were priced assuming bad QB play, expect their price and fantasy ceiling to remain about the same, as Watson is past his prime and Sanders is also struggling.",
@@ -543,6 +899,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Zay Flowers did not participate in Monday's practice, according to Sam Cohn. Flowers eventually walked onto the field in sneakers and a T-shirt, with Cohn noting that he appeared to be moving around fine. Baltimore has not given a reason for his absence. The 25-year-old is coming off the best season of his career, finishing 2025 with 86 catches for 1,211 yards and five touchdowns while playing all 17 games. For now, there isn't enough here to treat Monday's absence as anything more than something to monitor. Unless the Ravens provide additional information or Flowers continues to miss practice, there is no reason for fantasy managers to change their outlook on him heading toward Week 1.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Zay Flowers did not participate in Monday's practice, according to Sam Cohn. Flowers eventually walked onto the field in sneakers and a T-shirt, with Cohn noting that he appeared to be moving around fine. Baltimore has not given a reason for his absence. The 25-year-old is coming off the best season of his career, finishing 2025 with 86 catches for 1,211 yards and five touchdowns while playing all 17 games. For now, there isn't enough here to treat Monday's absence as anything more than something to monitor. Unless the Ravens provide additional information or Flowers continues to miss practice, there is no reason for fantasy managers to change their outlook on him heading toward Week 1.",
+        "title": "Zay Flowers Sits Out Monday's Practice",
+        "topic_id": "1397678535765667840",
+        "url": "https://www.rotoballer.com/player-news/zay-flowers-sits-out-mondays-practice/1915302"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1787580135000,
+      "source": "rotoballer",
+      "source_key": "219289",
+      "story_id": "nfl|9997|rotoballer|219289|1787580135000",
+      "title": "Zay Flowers Sits Out Monday's Practice",
+      "url": "https://www.rotoballer.com/player-news/zay-flowers-sits-out-mondays-practice/1915302"
+    },
+    {
       "analysis": "After drawing two targets in the Browns' preseason opener a week earlier against the Bears and connecting with Deshaun Watson on a nifty 15-yard catch and run, Boston was held quiet in his limited snaps during the second exhibition game. Notably, Jerry Jeudy and KC Concepcion were both rested Saturday while Boston played, which suggests that the rookie second-round pick out of Washington currently sits no higher than third on the depth chart.",
       "description": "Boston went without a target while playing 11 snaps on offense Saturday in the Browns' 31-7 preseason loss to the Bills.",
       "metadata": {
@@ -561,6 +937,26 @@
       "story_id": "nfl|13346|rotowire|634632|1787579534000",
       "title": "Denzel Boston - Goes untargeted in second preseason game",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets running back Breece Hall continues to make progress from the groin injury he suffered last week. Antwan V. Staley reports that Hall is moving well, and head coach Aaron Glenn still anticipates having him ready for Week 1 against Tennessee. Hall went down during practice on Aug. 17 and was given a two-to-three-week recovery timetable the following day. So far, nothing has changed that expectation. The 25-year-old is coming off his first 1,000-yard rushing season, finishing 2025 with 243 carries for a career-high 1,065 yards and four touchdowns. He also caught 36 passes for 350 yards and another score. There is still time before the opener, and the Jets don't appear to have any reason to rush him through the final stretch of August. For now, Hall remains on schedule to be available when the games start counting.",
+      "metadata": {
+        "description": "New York Jets running back Breece Hall continues to make progress from the groin injury he suffered last week. Antwan V. Staley reports that Hall is moving well, and head coach Aaron Glenn still anticipates having him ready for Week 1 against Tennessee. Hall went down during practice on Aug. 17 and was given a two-to-three-week recovery timetable the following day. So far, nothing has changed that expectation. The 25-year-old is coming off his first 1,000-yard rushing season, finishing 2025 with 243 carries for a career-high 1,065 yards and four touchdowns. He also caught 36 passes for 350 yards and another score. There is still time before the opener, and the Jets don't appear to have any reason to rush him through the final stretch of August. For now, Hall remains on schedule to be available when the games start counting.",
+        "title": "Breece Hall Still on Track for Week 1",
+        "topic_id": "1397676018197602304",
+        "url": "https://www.rotoballer.com/player-news/breece-hall-still-on-track-for-week-1/1915294"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8155",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "published": 1787579527000,
+      "source": "rotoballer",
+      "source_key": "219288",
+      "story_id": "nfl|8155|rotoballer|219288|1787579527000",
+      "title": "Breece Hall Still on Track for Week 1",
+      "url": "https://www.rotoballer.com/player-news/breece-hall-still-on-track-for-week-1/1915294"
     },
     {
       "analysis": null,
