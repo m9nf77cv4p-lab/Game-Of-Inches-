@@ -21039,7 +21039,7 @@
       ],
       "first_name": "Chris",
       "full_name": "Chris Bell",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Bell",
       "nfl_team": "MIA",
       "player_id": "13311",
@@ -23560,8 +23560,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-24T08:08:55Z",
-    "source_fingerprint": "5e76b969d8fd4b94dd6dd2fc8b35241ee3498fd1c86cc547bb943c9d2ebd11c1"
+    "last_changed_at": "2026-08-24T16:06:48Z",
+    "source_fingerprint": "11c9816cd99dbd9b5b7cf2f68f6c3ade6ef48610c4c6aed4051081f4e6782ceb"
   },
   "teams": [
     {
