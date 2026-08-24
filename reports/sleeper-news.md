@@ -2,14 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **879**
-- Newly captured: **5**
+- Stored stories: **880**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Marvin Mims** — Marvin Mims - Practices Monday (2026-08-24T21:27:16Z)
+- **Marvin Mims** — Marvin Mims - Practices Monday (2026-08-24T21:27:16Z)
   - Mims didn't play in Friday's preseason game against the Packers, but he was on the field Monday, with Stevens' report accompanied by a clip of the wideout making a nice catch during the session. The Broncos' unofficial depth chart lists Mims as a first-teamer along with top WRs Courtland Sutton and Jaylen Waddle, but in reality as Week 1 approaches, Troy Franklin and Pat Bryant are also firmly in the mix for snaps/targets that don't go to Sutton and Waddle.
-- **NEW — J.J. McCarthy** — J.J. McCarthy - Practices Monday (2026-08-24T21:23:35Z)
+- **J.J. McCarthy** — J.J. McCarthy - Practices Monday (2026-08-24T21:23:35Z)
   - After losing out on the QB competition with Kyler Murray to begin training camp, McCarthy proceeded to get banged up in Saturday's 13-3 preseason loss to the Ravens, taking one sack while completing five of 10 passes for 81 yards. Seifert noted that McCarthy handled three reps in team drills Monday, which is a bit less than normal, but the Vikings held the session in shells and not pads, so the third-year pro likely still is dealing with the issue.
 - **Malik Nabers** — Malik Nabers (knee) could be ready for Week 1 (2026-08-24T20:55:42.405000Z)
   - Nabers was able to practice on Monday without the red non-contact jersey. Barring a setback, he is trending towards being ready for the start of the season. 
@@ -35,6 +35,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - White has been sidelined since last Wednesday due to a hamstring injury and didn't suit up for Saturday's preseason game at Detroit. Now that he's back in the mix at practice, he can continue staking a claim to a Commanders backfield that currently is without top incumbent Jacory Croskey-Merritt (lower body).
 - **Dontayvion Wicks** — Dontayvion Wicks - Makes positive impression in joint practices (2026-08-24T18:09:44Z)
   - Though he was generally impressive in both practices, Wicks turned in one highlight-reel-worthy rep during Thursday's session, when he easily shook one-on-one coverage from New England cornerback Carlton Davis at the line of scrimmage for what would have been a big gain, per Henry McKenna of FoxSports.com. Acquired from the Packers in April and immediately signed to a one-year, $12.5 million extension, Wicks has been repping with the first-team offense for most of his first camp with the Eagles while No. 1 wideout DeVonta Smith and rookie first-round pick Malachi Lemon have been slowed by hamstring injuries. Both Smith and Lemon are practicing again, but the time Lemon has missed along with his own strong performance could set the stage for Wicks to head into the regular season as the Eagles' No. 2 wideout.
+- **NEW — Patrick Mahomes** — Chiefs Non-Committal on Patrick Mahomes' Week 1 Status (2026-08-24T17:58:12Z)
+  - Source: https://www.rotoballer.com/player-news/chiefs-non-committal-on-patrick-mahomes-week-1-status/1915505
 - **Michael Penix** — Michael Penix - In line to see some first-team reps Monday (2026-08-24T17:53:23Z)
   - Monday's session will mark Penix's first work in full-team drills this summer, a significant milestone for the QB as he works his way back from the torn ACL he suffered in his left knee Week 11 of last season. At this stage, it's unclear if Penix will play in Friday's preseason finale against the Dolphins, but the 2024 first-rounder's ability to commence working in full drills gives him an opportunity to make some strides in the team's QB competition ahead of Week 1.
 - **Zay Flowers** — Zay Flowers not practicing Monday (2026-08-24T17:50:41.595000Z)
@@ -44,13 +46,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Nacua now is ticking toward two weeks off the practice field due to soreness in his psoas, but he was able to work with a member of the Rams' training staff on a side field Monday, indicating he's making some progress. In the end, the team likely is being as cautious as possible with Nacua with a Week 1 matchup with the 49ers in mind.
 - **Chris Rodriguez** — Chris Rodriguez - Lauded in camp for power running (2026-08-24T17:49:46Z)
   - Signed to a two-year, $10 million deal in March, Rodriguez made a full recovery from offseason foot surgery in advance of training camp and has been listed as co-starter with Bhayshul Tuten on the Jaguars' unofficial depth chart. With both Rodriguez and Tuten sitting out Jacksonville's first two preseason contests, it's been difficult to gauge how the snaps might be divvied up between the two once the regular season gets underway. While Rodriguez has lived up to his billing in camp as a bruising runner between the tackles, Shipley relays that Tuten "has done nothing to diminish the early-offseason hype." With that in mind, both players appear likely to have meaningful roles in the running game Week 1 versus the Browns, and the two could also see more involvement on passing downs if LeQuint Allen (undisclosed) isn't available. Shipley opines that Rodriguez is probably the Jaguars' best pass-blocking back other than Allen, though Rodriguez could play second fiddle to the shiftier Tuten when it comes to earning targets.
-- **NEW — Theo Johnson** — Theo Johnson Suffers Undisclosed Injury on Monday (2026-08-24T17:47:09Z)
+- **Theo Johnson** — Theo Johnson Suffers Undisclosed Injury on Monday (2026-08-24T17:47:09Z)
   - Source: https://www.rotoballer.com/player-news/theo-johnson-suffers-undisclosed-injury-on-monday/1915495
 - **Quinshon Judkins** — Quinshon Judkins - Returns to practice Monday (2026-08-24T17:42:53Z)
   - Judkins missed the final two practices of last week before sitting out Saturday's preseason loss to the Bills due to what coach Todd Monken described as "a little something nagging, nothing big," per Kelsey Russo of the Browns' official site. Even though he's mixing back into drills, Judkins may be eased in with Week 1 still roughly three weeks on the horizon.
-- **NEW — Justin Jefferson** — Justin Jefferson Impressed With his New QB (2026-08-24T17:34:05Z)
+- **Justin Jefferson** — Justin Jefferson Impressed With his New QB (2026-08-24T17:34:05Z)
   - Source: https://www.rotoballer.com/player-news/justin-jefferson-impressed-with-his-new-qb/1915493
-- **NEW — Pat Bryant** — Pat Bryant Having a "Heckuva Camp" (2026-08-24T17:14:12Z)
+- **Pat Bryant** — Pat Bryant Having a "Heckuva Camp" (2026-08-24T17:14:12Z)
   - Source: https://www.rotoballer.com/player-news/pat-bryant-having-a-heckuva-camp/1915479
 - **Breece Hall** — Breece Hall - Works on side Monday (2026-08-24T17:11:28Z)
   - Hall has been sidelined since suffering a minor groin strain at last Monday's session, which was expected to keep him out of drills for 2-to-3 weeks. Considering he was "moving well" this Monday, per Costello, Hall may be ahead of the curve in his recovery. In any case, Hall seems likely to miss Friday's preseason game against the Giants, with the focus instead on Week 1 at Tennessee on Sunday, Sept. 13.
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/drake-london-value-dependent-on-quarterback-competition/1914868
 - **Mike Washington** — Mike Washington - Sees extra work after Jeanty injury (2026-08-23T22:28:05Z)
   - Washington has been getting rave reviews during the preseason, and the rookie -- who is followed by Dylan Laube, Dare Ogunbowale and Roman Hemby on the depth chart -- presumably will be the next players up should Jeanty miss any time. The extent of Jeanty's injury is not yet known, but the diagnosis will prove pivotal for fantasy players interested in drafting or who have already picked up either Raiders running back.
-- **Mike Washington** — Mike Washington - Takes first-team reps after Jeanty exits practice (2026-08-23T22:28:04Z)
-  - The Raiders have yet to not provide any further details on the severity of Jeanty's injury, but if the 2025 first-rounder misses any time, Washington's fantasy stock would see a major bump. McFadden notes that Washington, who has had a strong training camp, was alternating starting reps with Jeanty before the injury occurred. Also in the team's backfield depth mix are Dylan Laube, Dare Ogunbowale and Roman Hemby.

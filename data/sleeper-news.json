@@ -1,13 +1,9 @@
 {
-  "last_checked_at": "2026-08-24T21:58:30Z",
+  "last_checked_at": "2026-08-24T22:58:52Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11565|rotowire|634684|1787606615000",
-    "nfl|11597|rotoballer|219315|1787593629000",
-    "nfl|12492|rotoballer|219312|1787591652000",
-    "nfl|6794|rotoballer|219314|1787592845000",
-    "nfl|9494|rotowire|634686|1787606836000"
+    "nfl|4046|rotoballer|219316|1787594292000"
   ],
   "schema_version": 1,
   "source": {
@@ -280,6 +276,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Everything has gone as planned this summer for Kansas City Chiefs quarterback Patrick Mahomes (knee) after recovering from a torn ACL and LCL that he suffered late last season, but head coach Andy Reid was non-committal on Mahomes' status for the Week 1 regular-season opener on Monday night on Sept. 14, according to Pete Sweeney of The Kansas City Star. \"He's doing great,\" Reid said. \"We'll just see. I'm literally taking it day by day. There are no predictions here on anything. But if the doctors and the trainers and everybody that are involved with this give him an OK -- and then most of all, if he feels like he can, then we'll address that when we get there.\" Mahomes did not see the field in either of the team's first two preseason contests, even though the star signal-caller had been hoping to see some action. Based on the fact that Mahomes has been full-go for all of the team's training camp practices, it would be a bit surprising if KC held him out in Week 1, especially against a big division rival. With Mahomes' mobility potentially being compromised early in 2026, he has fallen to more of a low-end QB1/high-end QB2 target in 2026 fantasy football drafts as the Chiefs look to bounce back and get back to the playoffs.",
+      "metadata": {
+        "description": "Everything has gone as planned this summer for Kansas City Chiefs quarterback Patrick Mahomes (knee) after recovering from a torn ACL and LCL that he suffered late last season, but head coach Andy Reid was non-committal on Mahomes' status for the Week 1 regular-season opener on Monday night on Sept. 14, according to Pete Sweeney of The Kansas City Star. \"He's doing great,\" Reid said. \"We'll just see. I'm literally taking it day by day. There are no predictions here on anything. But if the doctors and the trainers and everybody that are involved with this give him an OK -- and then most of all, if he feels like he can, then we'll address that when we get there.\" Mahomes did not see the field in either of the team's first two preseason contests, even though the star signal-caller had been hoping to see some action. Based on the fact that Mahomes has been full-go for all of the team's training camp practices, it would be a bit surprising if KC held him out in Week 1, especially against a big division rival. With Mahomes' mobility potentially being compromised early in 2026, he has fallen to more of a low-end QB1/high-end QB2 target in 2026 fantasy football drafts as the Chiefs look to bounce back and get back to the playoffs.",
+        "title": "Chiefs Non-Committal on Patrick Mahomes' Week 1 Status",
+        "topic_id": "1397737680275529728",
+        "url": "https://www.rotoballer.com/player-news/chiefs-non-committal-on-patrick-mahomes-week-1-status/1915505"
+      },
+      "nfl_team": "KC",
+      "player_id": "4046",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "published": 1787594292000,
+      "source": "rotoballer",
+      "source_key": "219316",
+      "story_id": "nfl|4046|rotoballer|219316|1787594292000",
+      "title": "Chiefs Non-Committal on Patrick Mahomes' Week 1 Status",
+      "url": "https://www.rotoballer.com/player-news/chiefs-non-committal-on-patrick-mahomes-week-1-status/1915505"
+    },
+    {
       "analysis": "Monday's session will mark Penix's first work in full-team drills this summer, a significant milestone for the QB as he works his way back from the torn ACL he suffered in his left knee Week 11 of last season. At this stage, it's unclear if Penix will play in Friday's preseason finale against the Dolphins, but the 2024 first-rounder's ability to commence working in full drills gives him an opportunity to make some strides in the team's QB competition ahead of Week 1.",
       "description": "Both Tua Tagovailoa and Penix (knee) will take reps with the first-team offense Monday, Tori McElhaney of the Falcons' official site reports.",
       "metadata": {
@@ -362,9 +378,9 @@
     },
     {
       "analysis": null,
-      "description": "New York Giants tight end Theo Johnson (undisclosed) left training camp practice early on Monday with an undisclosed injury, according to Dan Duggan of The Athletic. Duggan described it as an \"odd scene,\" with Johnson going down while blocking and trainers immediately coming out onto the field. Johnson then walked off, slammed his helmet, ripped his gloves off, and pulled his hood over his head. He walked directly off the field toward the locker room and was walking briskly while not being accompanied by a trainer. It does not sound like a significant injury for the 25-year-old, but we will have an update on the specific nature of his injury when those details emerge. The former fourth-rounder in 2024 from Penn State is set to operate as New York's TE2 behind newcomer Isaiah Likely in his third NFL season in 2025, leaving little fantasy upside in single-TE leagues. Johnson took a step forward in his sophomore campaign in 2025, catching 45 of his 74 targets for 528 yards and five touchdowns after posting a 29-331-1 line in 12 games as a rookie. RotoBaller has Johnson ranked as the No. 41 fantasy TE.",
+      "description": "New York Giants tight end Theo Johnson (undisclosed) left training camp practice early on Monday with an undisclosed injury, according to Dan Duggan of The Athletic. Duggan described it as an \"odd scene,\" with Johnson going down while blocking and trainers immediately coming out onto the field. Johnson then walked off, slammed his helmet, ripped his gloves off, and pulled his hood over his head. He walked directly off the field toward the locker room and was walking briskly while not being accompanied by a trainer. It does not sound like a significant injury for the 25-year-old, but we will have an update on the specific nature of his injury when those details emerge. The former fourth-rounder in 2024 from Penn State is set to operate as New York's TE2 behind newcomer Isaiah Likely in his third NFL season in 2026, leaving little fantasy upside in single-TE leagues. Johnson took a step forward in his sophomore campaign in 2025, catching 45 of his 74 targets for 528 yards and five touchdowns after posting a 29-331-1 line in 12 games as a rookie. RotoBaller has Johnson ranked as the No. 41 fantasy TE.",
       "metadata": {
-        "description": "New York Giants tight end Theo Johnson (undisclosed) left training camp practice early on Monday with an undisclosed injury, according to Dan Duggan of The Athletic. Duggan described it as an \"odd scene,\" with Johnson going down while blocking and trainers immediately coming out onto the field. Johnson then walked off, slammed his helmet, ripped his gloves off, and pulled his hood over his head. He walked directly off the field toward the locker room and was walking briskly while not being accompanied by a trainer. It does not sound like a significant injury for the 25-year-old, but we will have an update on the specific nature of his injury when those details emerge. The former fourth-rounder in 2024 from Penn State is set to operate as New York's TE2 behind newcomer Isaiah Likely in his third NFL season in 2025, leaving little fantasy upside in single-TE leagues. Johnson took a step forward in his sophomore campaign in 2025, catching 45 of his 74 targets for 528 yards and five touchdowns after posting a 29-331-1 line in 12 games as a rookie. RotoBaller has Johnson ranked as the No. 41 fantasy TE.",
+        "description": "New York Giants tight end Theo Johnson (undisclosed) left training camp practice early on Monday with an undisclosed injury, according to Dan Duggan of The Athletic. Duggan described it as an \"odd scene,\" with Johnson going down while blocking and trainers immediately coming out onto the field. Johnson then walked off, slammed his helmet, ripped his gloves off, and pulled his hood over his head. He walked directly off the field toward the locker room and was walking briskly while not being accompanied by a trainer. It does not sound like a significant injury for the 25-year-old, but we will have an update on the specific nature of his injury when those details emerge. The former fourth-rounder in 2024 from Penn State is set to operate as New York's TE2 behind newcomer Isaiah Likely in his third NFL season in 2026, leaving little fantasy upside in single-TE leagues. Johnson took a step forward in his sophomore campaign in 2025, catching 45 of his 74 targets for 528 yards and five touchdowns after posting a 29-331-1 line in 12 games as a rookie. RotoBaller has Johnson ranked as the No. 41 fantasy TE.",
         "title": "Theo Johnson Suffers Undisclosed Injury on Monday",
         "topic_id": "1397733904743464960",
         "url": "https://www.rotoballer.com/player-news/theo-johnson-suffers-undisclosed-injury-on-monday/1915495"
