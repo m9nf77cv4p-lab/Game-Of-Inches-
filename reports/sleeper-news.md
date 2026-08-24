@@ -2,11 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **880**
-- Newly captured: **1**
+- Stored stories: **883**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Ty Simpson** — Ty Simpson - Rams' backup QB job still undetermined (2026-08-24T23:43:31Z)
+  - Simpson worked behind Bennett in Saturday's preseason win over New Orleans and did fine, completing eight of 12 passes for 73 yards while rushing three times for 10 yards. Meanwhile, Bennett shined in the contest, connecting on 19 of 31 pass attempts for 181 yards and adding two rushing touchdowns. All signs to this point have hinted at Bennett opening the regular season as the Rams' top backup behind Stafford, but McVay said Monday that he's "taking things a day at a time" in terms of making that decision. Still, McVay added that Bennett saw more second-team reps than Simpson on Monday and indicated that Simpson will "definitely" play in the team's preseason finale Thursday versus the Chargers while not committing to Bennett's participation, which could both be signs that the scale is tilting in Bennett's favor for the regular-season QB2 job.
+- **NEW — James Conner** — James Conner - DNP on Monday (2026-08-24T23:17:12Z)
+  - Conner hasn't played in any of the Cardinals' three preseason games so far and also hasn't been seen for the last handful of practices. He's dealing with lingering issues related to the foot surgery he underwent last fall and ended his season after Week 3. With Trey Benson (knee) getting waived/injured Monday, Conner is the top running back behind the duo of rookie third overall pick Jeremiyah Love (ankle) and Tyler Allgeier. Until Conner gets back on the field, though, Bam Knight is the team's likely No. 3 RB.
+- **NEW — Carson Beck** — Carson Beck - Remains limited at practice (2026-08-24T23:14:56Z)
+  - Beck fared well in the Hall of Fame Game against the Panthers, completing 15 of 19 passes for 188 yards, one touchdown and no interceptions. However, the rookie third-round pick came out of that contest with a rib injury that has capped his practice reps in the meantime and otherwise sidelined him for the Cardinals' next two exhibitions. Beck thus has one more chance for preseason action Friday at Green Bay before likely being relegated to the team's No. 3 QB role behind Jacoby Brissett and Gardner Minshew to begin his career.
 - **Marvin Mims** — Marvin Mims - Practices Monday (2026-08-24T21:27:16Z)
   - Mims didn't play in Friday's preseason game against the Packers, but he was on the field Monday, with Stevens' report accompanied by a clip of the wideout making a nice catch during the session. The Broncos' unofficial depth chart lists Mims as a first-teamer along with top WRs Courtland Sutton and Jaylen Waddle, but in reality as Week 1 approaches, Troy Franklin and Pat Bryant are also firmly in the mix for snaps/targets that don't go to Sutton and Waddle.
 - **J.J. McCarthy** — J.J. McCarthy - Practices Monday (2026-08-24T21:23:35Z)
@@ -35,7 +41,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - White has been sidelined since last Wednesday due to a hamstring injury and didn't suit up for Saturday's preseason game at Detroit. Now that he's back in the mix at practice, he can continue staking a claim to a Commanders backfield that currently is without top incumbent Jacory Croskey-Merritt (lower body).
 - **Dontayvion Wicks** — Dontayvion Wicks - Makes positive impression in joint practices (2026-08-24T18:09:44Z)
   - Though he was generally impressive in both practices, Wicks turned in one highlight-reel-worthy rep during Thursday's session, when he easily shook one-on-one coverage from New England cornerback Carlton Davis at the line of scrimmage for what would have been a big gain, per Henry McKenna of FoxSports.com. Acquired from the Packers in April and immediately signed to a one-year, $12.5 million extension, Wicks has been repping with the first-team offense for most of his first camp with the Eagles while No. 1 wideout DeVonta Smith and rookie first-round pick Malachi Lemon have been slowed by hamstring injuries. Both Smith and Lemon are practicing again, but the time Lemon has missed along with his own strong performance could set the stage for Wicks to head into the regular season as the Eagles' No. 2 wideout.
-- **NEW — Patrick Mahomes** — Chiefs Non-Committal on Patrick Mahomes' Week 1 Status (2026-08-24T17:58:12Z)
+- **Patrick Mahomes** — Chiefs Non-Committal on Patrick Mahomes' Week 1 Status (2026-08-24T17:58:12Z)
   - Source: https://www.rotoballer.com/player-news/chiefs-non-committal-on-patrick-mahomes-week-1-status/1915505
 - **Michael Penix** — Michael Penix - In line to see some first-team reps Monday (2026-08-24T17:53:23Z)
   - Monday's session will mark Penix's first work in full-team drills this summer, a significant milestone for the QB as he works his way back from the torn ACL he suffered in his left knee Week 11 of last season. At this stage, it's unclear if Penix will play in Friday's preseason finale against the Dolphins, but the 2024 first-rounder's ability to commence working in full drills gives him an opportunity to make some strides in the team's QB competition ahead of Week 1.
@@ -209,9 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-suffers-ankle-sprain/1914880
 - **Kyler Murray** — Justin Jefferson Primed for Bounce-Back Season With New QB (2026-08-23T22:47:09Z)
   - Source: https://www.rotoballer.com/player-news/justin-jefferson-primed-for-bounce-back-season-with-kyler-murray/1914875
-- **Nico Collins** — Nico Collins Set for Massive Volume in 2026 (2026-08-23T22:37:10Z)
-  - Source: https://www.rotoballer.com/player-news/nico-collins-set-for-massive-volume-in-2026/1914870
-- **Drake London** — Drake London's Value Dependent on Quarterback Competition? (2026-08-23T22:30:17Z)
-  - Source: https://www.rotoballer.com/player-news/drake-london-value-dependent-on-quarterback-competition/1914868
-- **Mike Washington** — Mike Washington - Sees extra work after Jeanty injury (2026-08-23T22:28:05Z)
-  - Washington has been getting rave reviews during the preseason, and the rookie -- who is followed by Dylan Laube, Dare Ogunbowale and Roman Hemby on the depth chart -- presumably will be the next players up should Jeanty miss any time. The extent of Jeanty's injury is not yet known, but the diagnosis will prove pivotal for fantasy players interested in drafting or who have already picked up either Raiders running back.

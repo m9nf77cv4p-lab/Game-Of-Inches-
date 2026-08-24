@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-08-24T22:58:52Z",
+  "last_checked_at": "2026-08-24T23:50:57Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|4046|rotoballer|219316|1787594292000"
+    "nfl|13272|rotowire|634695|1787613296000",
+    "nfl|13275|rotowire|634712|1787615011000",
+    "nfl|4137|rotowire|634697|1787613432000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Simpson worked behind Bennett in Saturday's preseason win over New Orleans and did fine, completing eight of 12 passes for 73 yards while rushing three times for 10 yards. Meanwhile, Bennett shined in the contest, connecting on 19 of 31 pass attempts for 181 yards and adding two rushing touchdowns. All signs to this point have hinted at Bennett opening the regular season as the Rams' top backup behind Stafford, but McVay said Monday that he's \"taking things a day at a time\" in terms of making that decision. Still, McVay added that Bennett saw more second-team reps than Simpson on Monday and indicated that Simpson will \"definitely\" play in the team's preseason finale Thursday versus the Chargers while not committing to Bennett's participation, which could both be signs that the scale is tilting in Bennett's favor for the regular-season QB2 job.",
+      "description": "Rams coach Sean McVay said Monday that the team hasn't yet decided whether Simpson or Stetson Bennett will begin the regular season as the backup quarterback behind Matthew Stafford, Benjamin Royer of The Orange County Register reports.",
+      "metadata": {
+        "analysis": "Simpson worked behind Bennett in Saturday's preseason win over New Orleans and did fine, completing eight of 12 passes for 73 yards while rushing three times for 10 yards. Meanwhile, Bennett shined in the contest, connecting on 19 of 31 pass attempts for 181 yards and adding two rushing touchdowns. All signs to this point have hinted at Bennett opening the regular season as the Rams' top backup behind Stafford, but McVay said Monday that he's \"taking things a day at a time\" in terms of making that decision. Still, McVay added that Bennett saw more second-team reps than Simpson on Monday and indicated that Simpson will \"definitely\" play in the team's preseason finale Thursday versus the Chargers while not committing to Bennett's participation, which could both be signs that the scale is tilting in Bennett's favor for the regular-season QB2 job.",
+        "description": "Rams coach Sean McVay said Monday that the team hasn't yet decided whether Simpson or Stetson Bennett will begin the regular season as the backup quarterback behind Matthew Stafford, Benjamin Royer of The Orange County Register reports.",
+        "title": "Ty Simpson - Rams' backup QB job still undetermined",
+        "topic_id": "1397762850612617216"
+      },
+      "nfl_team": "LAR",
+      "player_id": "13275",
+      "player_name": "Ty Simpson",
+      "position": "QB",
+      "published": 1787615011000,
+      "source": "rotowire",
+      "source_key": "634712",
+      "story_id": "nfl|13275|rotowire|634712|1787615011000",
+      "title": "Ty Simpson - Rams' backup QB job still undetermined",
+      "url": null
+    },
+    {
+      "analysis": "Conner hasn't played in any of the Cardinals' three preseason games so far and also hasn't been seen for the last handful of practices. He's dealing with lingering issues related to the foot surgery he underwent last fall and ended his season after Week 3. With Trey Benson (knee) getting waived/injured Monday, Conner is the top running back behind the duo of rookie third overall pick Jeremiyah Love (ankle) and Tyler Allgeier. Until Conner gets back on the field, though, Bam Knight is the team's likely No. 3 RB.",
+      "description": "Conner (foot) didn't take part in Monday's practice, Theo Mackie of The Arizona Republic reports.",
+      "metadata": {
+        "analysis": "Conner hasn't played in any of the Cardinals' three preseason games so far and also hasn't been seen for the last handful of practices. He's dealing with lingering issues related to the foot surgery he underwent last fall and ended his season after Week 3. With Trey Benson (knee) getting waived/injured Monday, Conner is the top running back behind the duo of rookie third overall pick Jeremiyah Love (ankle) and Tyler Allgeier. Until Conner gets back on the field, though, Bam Knight is the team's likely No. 3 RB.",
+        "description": "Conner (foot) didn't take part in Monday's practice, Theo Mackie of The Arizona Republic reports.",
+        "title": "James Conner - DNP on Monday",
+        "topic_id": "1397756559085350912"
+      },
+      "nfl_team": "ARI",
+      "player_id": "4137",
+      "player_name": "James Conner",
+      "position": "RB",
+      "published": 1787613432000,
+      "source": "rotowire",
+      "source_key": "634697",
+      "story_id": "nfl|4137|rotowire|634697|1787613432000",
+      "title": "James Conner - DNP on Monday",
+      "url": null
+    },
+    {
+      "analysis": "Beck fared well in the Hall of Fame Game against the Panthers, completing 15 of 19 passes for 188 yards, one touchdown and no interceptions. However, the rookie third-round pick came out of that contest with a rib injury that has capped his practice reps in the meantime and otherwise sidelined him for the Cardinals' next two exhibitions. Beck thus has one more chance for preseason action Friday at Green Bay before likely being relegated to the team's No. 3 QB role behind Jacoby Brissett and Gardner Minshew to begin his career.",
+      "description": "Beck (ribs) continued to be a limited participant at Monday's practice, Bo Brack of GoPHNX.com reports.",
+      "metadata": {
+        "analysis": "Beck fared well in the Hall of Fame Game against the Panthers, completing 15 of 19 passes for 188 yards, one touchdown and no interceptions. However, the rookie third-round pick came out of that contest with a rib injury that has capped his practice reps in the meantime and otherwise sidelined him for the Cardinals' next two exhibitions. Beck thus has one more chance for preseason action Friday at Green Bay before likely being relegated to the team's No. 3 QB role behind Jacoby Brissett and Gardner Minshew to begin his career.",
+        "description": "Beck (ribs) continued to be a limited participant at Monday's practice, Bo Brack of GoPHNX.com reports.",
+        "title": "Carson Beck - Remains limited at practice",
+        "topic_id": "1397756559022436352"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13272",
+      "player_name": "Carson Beck",
+      "position": "QB",
+      "published": 1787613296000,
+      "source": "rotowire",
+      "source_key": "634695",
+      "story_id": "nfl|13272|rotowire|634695|1787613296000",
+      "title": "Carson Beck - Remains limited at practice",
+      "url": null
+    },
     {
       "analysis": "Mims didn't play in Friday's preseason game against the Packers, but he was on the field Monday, with Stevens' report accompanied by a clip of the wideout making a nice catch during the session. The Broncos' unofficial depth chart lists Mims as a first-teamer along with top WRs Courtland Sutton and Jaylen Waddle, but in reality as Week 1 approaches, Troy Franklin and Pat Bryant are also firmly in the mix for snaps/targets that don't go to Sutton and Waddle.",
       "description": "Mims (undisclosed) practiced Monday, Zac Stevens of TheDNVR.com reports.",
