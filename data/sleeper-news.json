@@ -1,11 +1,14 @@
 {
-  "last_checked_at": "2026-08-24T23:50:57Z",
+  "last_checked_at": "2026-08-25T03:15:14Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13272|rotowire|634695|1787613296000",
-    "nfl|13275|rotowire|634712|1787615011000",
-    "nfl|4137|rotowire|634697|1787613432000"
+    "nfl|11559|rotoballer|219318|1787606226000",
+    "nfl|1166|rotoballer|219322|1787608419000",
+    "nfl|1166|rotowire|634735|1787618850000",
+    "nfl|13349|rotoballer|219323|1787608814000",
+    "nfl|4035|rotoballer|219319|1787606829000",
+    "nfl|4137|rotoballer|219320|1787607427000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +18,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "With coach Klint Kubiak recently declining to formally name a starter, this depth-chart placement offers another sign that Cousins remains the leading option atop Las Vegas' quarterback room. Fernando Mendoza and Aidan O'Connell, in that order, appear to remain behind Cousins heading into the Raiders' final preseason contest. It's unclear if Cousins will see any action in that game.",
+      "description": "Cousins is listed as the Raiders' top quarterback on the unofficial depth chart for Thursday's preseason game versus the 49ers, according to the team's official site.",
+      "metadata": {
+        "analysis": "With coach Klint Kubiak recently declining to formally name a starter, this depth-chart placement offers another sign that Cousins remains the leading option atop Las Vegas' quarterback room. Fernando Mendoza and Aidan O'Connell, in that order, appear to remain behind Cousins heading into the Raiders' final preseason contest. It's unclear if Cousins will see any action in that game.",
+        "description": "Cousins is listed as the Raiders' top quarterback on the unofficial depth chart for Thursday's preseason game versus the 49ers, according to the team's official site.",
+        "title": "Kirk Cousins - Listed atop depth chart",
+        "topic_id": "1397779210059169792"
+      },
+      "nfl_team": "LV",
+      "player_id": "1166",
+      "player_name": "Kirk Cousins",
+      "position": "QB",
+      "published": 1787618850000,
+      "source": "rotowire",
+      "source_key": "634735",
+      "story_id": "nfl|1166|rotowire|634735|1787618850000",
+      "title": "Kirk Cousins - Listed atop depth chart",
+      "url": null
+    },
     {
       "analysis": "Simpson worked behind Bennett in Saturday's preseason win over New Orleans and did fine, completing eight of 12 passes for 73 yards while rushing three times for 10 yards. Meanwhile, Bennett shined in the contest, connecting on 19 of 31 pass attempts for 181 yards and adding two rushing touchdowns. All signs to this point have hinted at Bennett opening the regular season as the Rams' top backup behind Stafford, but McVay said Monday that he's \"taking things a day at a time\" in terms of making that decision. Still, McVay added that Bennett saw more second-team reps than Simpson on Monday and indicated that Simpson will \"definitely\" play in the team's preseason finale Thursday versus the Chargers while not committing to Bennett's participation, which could both be signs that the scale is tilting in Bennett's favor for the regular-season QB2 job.",
       "description": "Rams coach Sean McVay said Monday that the team hasn't yet decided whether Simpson or Stetson Bennett will begin the regular season as the backup quarterback behind Matthew Stafford, Benjamin Royer of The Orange County Register reports.",
@@ -76,6 +99,66 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Philadelphia Eagles rookie tight end Eli Stowers (hamstring) did not participate in Monday's practice. This marks the first time Stowers' name has appeared on the injury report, and fantasy managers should be concerned about his Week 1 availability. The Eagles drafted Stowers with their second-round pick, and he is expected to succeed veteran tight end Dallas Goedert. At Vanderbilt, the tight end recorded 769 yards and four touchdowns in 12 games as a senior. While he's not expected to be a major fantasy contributor early in the season, fantasy managers should track his hamstring status, as it could open up more volume for Goedert.",
+      "metadata": {
+        "description": "Philadelphia Eagles rookie tight end Eli Stowers (hamstring) did not participate in Monday's practice. This marks the first time Stowers' name has appeared on the injury report, and fantasy managers should be concerned about his Week 1 availability. The Eagles drafted Stowers with their second-round pick, and he is expected to succeed veteran tight end Dallas Goedert. At Vanderbilt, the tight end recorded 769 yards and four touchdowns in 12 games as a senior. While he's not expected to be a major fantasy contributor early in the season, fantasy managers should track his hamstring status, as it could open up more volume for Goedert.",
+        "title": "Eli Stowers Misses Practice on Monday with Hamstring Issue",
+        "topic_id": "1397798083391160320",
+        "url": "https://www.rotoballer.com/player-news/eli-stowers-misses-practice-on-monday-with-hamstring-issue/1915661"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13349",
+      "player_name": "Eli Stowers",
+      "position": "TE",
+      "published": 1787608814000,
+      "source": "rotoballer",
+      "source_key": "219323",
+      "story_id": "nfl|13349|rotoballer|219323|1787608814000",
+      "title": "Eli Stowers Misses Practice on Monday with Hamstring Issue",
+      "url": "https://www.rotoballer.com/player-news/eli-stowers-misses-practice-on-monday-with-hamstring-issue/1915661"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders quarterback Kirk Cousins was listed as the starter on the team's unofficial depth chart ahead of their preseason finale against the San Francisco 49ers. According to head coach Klint Kubiak, Cousins has taken most of the first-team reps in practice and that it is \"his job to lose.\" The veteran quarterback signed a two-year, $12.6 million deal with the Raiders this offseason and was set to compete with first-overall pick Fernando Mendoza for the starting job. With Cousins and most of the starting offense not playing in the team's second preseason game against the Houston Texans, it points to the 15th-year quarterback starting in Week 1 against the Miami Dolphins. Even if Cousins is named the starting quarterback this season, his lack of weapons and rushing ability leaves him as an irrelevant piece in fantasy this season.",
+      "metadata": {
+        "description": "Las Vegas Raiders quarterback Kirk Cousins was listed as the starter on the team's unofficial depth chart ahead of their preseason finale against the San Francisco 49ers. According to head coach Klint Kubiak, Cousins has taken most of the first-team reps in practice and that it is \"his job to lose.\" The veteran quarterback signed a two-year, $12.6 million deal with the Raiders this offseason and was set to compete with first-overall pick Fernando Mendoza for the starting job. With Cousins and most of the starting offense not playing in the team's second preseason game against the Houston Texans, it points to the 15th-year quarterback starting in Week 1 against the Miami Dolphins. Even if Cousins is named the starting quarterback this season, his lack of weapons and rushing ability leaves him as an irrelevant piece in fantasy this season.",
+        "title": "Kirk Cousins Listed as Starter on Raiders' Unofficial Depth Chart",
+        "topic_id": "1397796825536188417",
+        "url": "https://www.rotoballer.com/player-news/kirk-cousins-listed-as-starter-on-raiders-unofficial-depth-chart/1915657"
+      },
+      "nfl_team": "LV",
+      "player_id": "1166",
+      "player_name": "Kirk Cousins",
+      "position": "QB",
+      "published": 1787608419000,
+      "source": "rotoballer",
+      "source_key": "219322",
+      "story_id": "nfl|1166|rotoballer|219322|1787608419000",
+      "title": "Kirk Cousins Listed as Starter on Raiders' Unofficial Depth Chart",
+      "url": "https://www.rotoballer.com/player-news/kirk-cousins-listed-as-starter-on-raiders-unofficial-depth-chart/1915657"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back James Conner (foot) did not participate in Monday's practice. Conner is recovering from a dislocated ankle/foot that required season-ending surgery last season. The veteran running back has yet to take part in 11-on-11 drills at training camp, though he has been seen in individual drills throughout camp. With the team signing former Atlanta Falcons running back Tyler Allgeier and drafting Jeremiyah Love with the fourth-overall pick, Conner is likely to be in a reserve role during the 2026 season. If Love (ankle) misses time early in the season due to his high-ankle sprain, Conner could see action if he's healthy and ready to go against the Los Angeles Chargers.",
+      "metadata": {
+        "description": "Arizona Cardinals running back James Conner (foot) did not participate in Monday's practice. Conner is recovering from a dislocated ankle/foot that required season-ending surgery last season. The veteran running back has yet to take part in 11-on-11 drills at training camp, though he has been seen in individual drills throughout camp. With the team signing former Atlanta Falcons running back Tyler Allgeier and drafting Jeremiyah Love with the fourth-overall pick, Conner is likely to be in a reserve role during the 2026 season. If Love (ankle) misses time early in the season due to his high-ankle sprain, Conner could see action if he's healthy and ready to go against the Los Angeles Chargers.",
+        "title": "James Conner Does Not Practice on Monday",
+        "topic_id": "1397791791884849152",
+        "url": "https://www.rotoballer.com/player-news/james-conner-does-not-practice-on-monday/1915647"
+      },
+      "nfl_team": "ARI",
+      "player_id": "4137",
+      "player_name": "James Conner",
+      "position": "RB",
+      "published": 1787607427000,
+      "source": "rotoballer",
+      "source_key": "219320",
+      "story_id": "nfl|4137|rotoballer|219320|1787607427000",
+      "title": "James Conner Does Not Practice on Monday",
+      "url": "https://www.rotoballer.com/player-news/james-conner-does-not-practice-on-monday/1915647"
+    },
+    {
       "analysis": "Mims didn't play in Friday's preseason game against the Packers, but he was on the field Monday, with Stevens' report accompanied by a clip of the wideout making a nice catch during the session. The Broncos' unofficial depth chart lists Mims as a first-teamer along with top WRs Courtland Sutton and Jaylen Waddle, but in reality as Week 1 approaches, Troy Franklin and Pat Bryant are also firmly in the mix for snaps/targets that don't go to Sutton and Waddle.",
       "description": "Mims (undisclosed) practiced Monday, Zac Stevens of TheDNVR.com reports.",
       "metadata": {
@@ -96,6 +179,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "New Orleans Saints running back Kendre Miller expects a larger role following veteran Alvin Kamara's injury. Kamara sprained his MCL during a joint practice with the Los Angeles Rams and is expected to miss time, possibly into the regular season. Miller told the media on Monday, \"It's always a next-man-up mentality. I have a bigger role now that AK is down, so I'm going to just take that and try to run with it.\" In three seasons, Miller has totaled 677 scrimmage yards and three touchdowns in 21 career games, though he has missed 30 games, including several hamstring injuries and a torn ACL he suffered in Week 7 last season. With former Jaguars running back Travis Etienne expected to handle most of the work in the backfield, Miller profiles as an early-season handcuff until Kamara returns. Fantasy managers should look to other options instead of Miller in the late rounds of fantasy drafts.",
+      "metadata": {
+        "description": "New Orleans Saints running back Kendre Miller expects a larger role following veteran Alvin Kamara's injury. Kamara sprained his MCL during a joint practice with the Los Angeles Rams and is expected to miss time, possibly into the regular season. Miller told the media on Monday, \"It's always a next-man-up mentality. I have a bigger role now that AK is down, so I'm going to just take that and try to run with it.\" In three seasons, Miller has totaled 677 scrimmage yards and three touchdowns in 21 career games, though he has missed 30 games, including several hamstring injuries and a torn ACL he suffered in Week 7 last season. With former Jaguars running back Travis Etienne expected to handle most of the work in the backfield, Miller profiles as an early-season handcuff until Kamara returns. Fantasy managers should look to other options instead of Miller in the late rounds of fantasy drafts.",
+        "title": "Kendre Miller Says He'll Take on Bigger Role With Fellow RB Hurt",
+        "topic_id": "1397790533367177216",
+        "url": "https://www.rotoballer.com/player-news/kendre-miller-says-hell-take-on-bigger-role-with-alvin-kamara-injured/1915632"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1787606829000,
+      "source": "rotoballer",
+      "source_key": "219319",
+      "story_id": "nfl|4035|rotoballer|219319|1787606829000",
+      "title": "Kendre Miller Says He'll Take on Bigger Role With Fellow RB Hurt",
+      "url": "https://www.rotoballer.com/player-news/kendre-miller-says-hell-take-on-bigger-role-with-alvin-kamara-injured/1915632"
+    },
+    {
       "analysis": "After losing out on the QB competition with Kyler Murray to begin training camp, McCarthy proceeded to get banged up in Saturday's 13-3 preseason loss to the Ravens, taking one sack while completing five of 10 passes for 81 yards. Seifert noted that McCarthy handled three reps in team drills Monday, which is a bit less than normal, but the Vikings held the session in shells and not pads, so the third-year pro likely still is dealing with the issue.",
       "description": "McCarthy (undisclosed) participated in Monday's practice, Kevin Seifert of ESPN.com reports.",
       "metadata": {
@@ -114,6 +217,26 @@
       "story_id": "nfl|11565|rotowire|634684|1787606615000",
       "title": "J.J. McCarthy - Practices Monday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Atlanta Falcons quarterback Michael Penix Jr. (knee) has a chance to win the starting job, according to NFL Network's Ian Rapoport. Rapoport said the Falcons' goal was to have veteran quarterback Tua Tagovailoa start the season right away, but Tagovailoa's lackluster play in training camp and the preseason opens the door for Penix to start. \"This is Michael Penix's job for the taking.\" Penix was the eighth overall pick in the 2024 NFL Draft and completed under 60% of his passes for 2,719 yards, with 12 touchdowns and six interceptions in 12 games. Penix tore his ACL late last season and was recently cleared to participate in 11-on-11 drills at practice. If Penix surges late and Tagovailoa continues to struggle, watch for the Falcons to start the 2026 season with the third-year quarterback.",
+      "metadata": {
+        "description": "Atlanta Falcons quarterback Michael Penix Jr. (knee) has a chance to win the starting job, according to NFL Network's Ian Rapoport. Rapoport said the Falcons' goal was to have veteran quarterback Tua Tagovailoa start the season right away, but Tagovailoa's lackluster play in training camp and the preseason opens the door for Penix to start. \"This is Michael Penix's job for the taking.\" Penix was the eighth overall pick in the 2024 NFL Draft and completed under 60% of his passes for 2,719 yards, with 12 touchdowns and six interceptions in 12 games. Penix tore his ACL late last season and was recently cleared to participate in 11-on-11 drills at practice. If Penix surges late and Tagovailoa continues to struggle, watch for the Falcons to start the 2026 season with the third-year quarterback.",
+        "title": "Falcons Starting QB Job for the Taking for Michael Penix Jr.",
+        "topic_id": "1397788016818294784",
+        "url": "https://www.rotoballer.com/player-news/rapsheet-falcons-starting-job-for-the-taking-for-michael-penix-jr/1915619"
+      },
+      "nfl_team": "ATL",
+      "player_id": "11559",
+      "player_name": "Michael Penix",
+      "position": "QB",
+      "published": 1787606226000,
+      "source": "rotoballer",
+      "source_key": "219318",
+      "story_id": "nfl|11559|rotoballer|219318|1787606226000",
+      "title": "Falcons Starting QB Job for the Taking for Michael Penix Jr.",
+      "url": "https://www.rotoballer.com/player-news/rapsheet-falcons-starting-job-for-the-taking-for-michael-penix-jr/1915619"
     },
     {
       "analysis": "Nabers was able to practice on Monday without the red non-contact jersey. Barring a setback, he is trending towards being ready for the start of the season. ",

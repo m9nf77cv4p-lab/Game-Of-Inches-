@@ -2,21 +2,33 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **883**
-- Newly captured: **3**
+- Stored stories: **889**
+- Newly captured: **6**
 
 ## Latest news
 
-- **NEW — Ty Simpson** — Ty Simpson - Rams' backup QB job still undetermined (2026-08-24T23:43:31Z)
+- **NEW — Kirk Cousins** — Kirk Cousins - Listed atop depth chart (2026-08-25T00:47:30Z)
+  - With coach Klint Kubiak recently declining to formally name a starter, this depth-chart placement offers another sign that Cousins remains the leading option atop Las Vegas' quarterback room. Fernando Mendoza and Aidan O'Connell, in that order, appear to remain behind Cousins heading into the Raiders' final preseason contest. It's unclear if Cousins will see any action in that game.
+- **Ty Simpson** — Ty Simpson - Rams' backup QB job still undetermined (2026-08-24T23:43:31Z)
   - Simpson worked behind Bennett in Saturday's preseason win over New Orleans and did fine, completing eight of 12 passes for 73 yards while rushing three times for 10 yards. Meanwhile, Bennett shined in the contest, connecting on 19 of 31 pass attempts for 181 yards and adding two rushing touchdowns. All signs to this point have hinted at Bennett opening the regular season as the Rams' top backup behind Stafford, but McVay said Monday that he's "taking things a day at a time" in terms of making that decision. Still, McVay added that Bennett saw more second-team reps than Simpson on Monday and indicated that Simpson will "definitely" play in the team's preseason finale Thursday versus the Chargers while not committing to Bennett's participation, which could both be signs that the scale is tilting in Bennett's favor for the regular-season QB2 job.
-- **NEW — James Conner** — James Conner - DNP on Monday (2026-08-24T23:17:12Z)
+- **James Conner** — James Conner - DNP on Monday (2026-08-24T23:17:12Z)
   - Conner hasn't played in any of the Cardinals' three preseason games so far and also hasn't been seen for the last handful of practices. He's dealing with lingering issues related to the foot surgery he underwent last fall and ended his season after Week 3. With Trey Benson (knee) getting waived/injured Monday, Conner is the top running back behind the duo of rookie third overall pick Jeremiyah Love (ankle) and Tyler Allgeier. Until Conner gets back on the field, though, Bam Knight is the team's likely No. 3 RB.
-- **NEW — Carson Beck** — Carson Beck - Remains limited at practice (2026-08-24T23:14:56Z)
+- **Carson Beck** — Carson Beck - Remains limited at practice (2026-08-24T23:14:56Z)
   - Beck fared well in the Hall of Fame Game against the Panthers, completing 15 of 19 passes for 188 yards, one touchdown and no interceptions. However, the rookie third-round pick came out of that contest with a rib injury that has capped his practice reps in the meantime and otherwise sidelined him for the Cardinals' next two exhibitions. Beck thus has one more chance for preseason action Friday at Green Bay before likely being relegated to the team's No. 3 QB role behind Jacoby Brissett and Gardner Minshew to begin his career.
+- **NEW — Eli Stowers** — Eli Stowers Misses Practice on Monday with Hamstring Issue (2026-08-24T22:00:14Z)
+  - Source: https://www.rotoballer.com/player-news/eli-stowers-misses-practice-on-monday-with-hamstring-issue/1915661
+- **NEW — Kirk Cousins** — Kirk Cousins Listed as Starter on Raiders' Unofficial Depth Chart (2026-08-24T21:53:39Z)
+  - Source: https://www.rotoballer.com/player-news/kirk-cousins-listed-as-starter-on-raiders-unofficial-depth-chart/1915657
+- **NEW — James Conner** — James Conner Does Not Practice on Monday (2026-08-24T21:37:07Z)
+  - Source: https://www.rotoballer.com/player-news/james-conner-does-not-practice-on-monday/1915647
 - **Marvin Mims** — Marvin Mims - Practices Monday (2026-08-24T21:27:16Z)
   - Mims didn't play in Friday's preseason game against the Packers, but he was on the field Monday, with Stevens' report accompanied by a clip of the wideout making a nice catch during the session. The Broncos' unofficial depth chart lists Mims as a first-teamer along with top WRs Courtland Sutton and Jaylen Waddle, but in reality as Week 1 approaches, Troy Franklin and Pat Bryant are also firmly in the mix for snaps/targets that don't go to Sutton and Waddle.
+- **NEW — Alvin Kamara** — Kendre Miller Says He'll Take on Bigger Role With Fellow RB Hurt (2026-08-24T21:27:09Z)
+  - Source: https://www.rotoballer.com/player-news/kendre-miller-says-hell-take-on-bigger-role-with-alvin-kamara-injured/1915632
 - **J.J. McCarthy** — J.J. McCarthy - Practices Monday (2026-08-24T21:23:35Z)
   - After losing out on the QB competition with Kyler Murray to begin training camp, McCarthy proceeded to get banged up in Saturday's 13-3 preseason loss to the Ravens, taking one sack while completing five of 10 passes for 81 yards. Seifert noted that McCarthy handled three reps in team drills Monday, which is a bit less than normal, but the Vikings held the session in shells and not pads, so the third-year pro likely still is dealing with the issue.
+- **NEW — Michael Penix** — Falcons Starting QB Job for the Taking for Michael Penix Jr. (2026-08-24T21:17:06Z)
+  - Source: https://www.rotoballer.com/player-news/rapsheet-falcons-starting-job-for-the-taking-for-michael-penix-jr/1915619
 - **Malik Nabers** — Malik Nabers (knee) could be ready for Week 1 (2026-08-24T20:55:42.405000Z)
   - Nabers was able to practice on Monday without the red non-contact jersey. Barring a setback, he is trending towards being ready for the start of the season. 
   - Source: https://www.fantasypros.com/nfl/news/604027/malik-nabers-knee-could-be-ready-week-1.php
@@ -203,15 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - There was concern about Jeanty's status after he was injured at Sunday's practice and reportedly could not put any weight on his leg, but the initial diagnosis appears more promising than not, with the report noting the Raiders are "breathing a sigh of relief." Both the full extent of Jeanty's injury and a recovery timeline have not yet been revealed, and his status will be updated again when more information is released.
 - **Bhayshul Tuten** — Bhayshul Tuten - Catching more passes after Allen's injury (2026-08-24T02:40:55Z)
   - The Jaguars appear to be directing more passes Tuten's way at practice following the soft-tissue injury suffered by LeQuint Allen (undisclosed), who had been penciled in as the team's preferred backfield option in passing situations. Ameer Abdullah could take some passing-down work if he makes the team, but Tuten has more receiving upside than Chris Rodriguez, who has just six receptions in 35 career regular-season appearances. Tuten caught 10 of 14 targets for 79 yards and two touchdowns during his rookie regular season.
-- **Bhayshul Tuten** — Bhayshul Tuten More Involved in Passing Game in Jacksonville (2026-08-24T00:26:14Z)
-  - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-more-involved-in-passing-game-in-jacksonville/1914900
-- **Carnell Tate** — Carnell Tate - Suiting up against Seahawks (2026-08-24T00:00:21Z)
-  - Tate took warmups before the start of Sunday's preseason game and is set to take part in the action, with Tennessee's starters expected to play most of the first half. The rookie fourth overall pick dealt with some stiffness earlier in the week but has gotten the green light to suit up for Tennessee's second preseason game. Tate will look to improve on last week's preseason debut against the 49ers, in which he failed to catch any of his three targets.
-- **Carnell Tate** — Robert Saleh Not Concerned About Carnell Tate's Lack of Targets (2026-08-23T23:45:08Z)
-  - Source: https://www.rotoballer.com/player-news/robert-saleh-not-concerned-about-carnell-tates-lack-of-targets/1914892
-- **Dontayvion Wicks** — Dontayvion Wicks Turning Heads at Eagles Camp (2026-08-23T23:37:09Z)
-  - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-turning-heads-at-eagles-camp/1914887
-- **Ashton Jeanty** — Ashton Jeanty Suffers Ankle Sprain (2026-08-23T23:05:08Z)
-  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-suffers-ankle-sprain/1914880
-- **Kyler Murray** — Justin Jefferson Primed for Bounce-Back Season With New QB (2026-08-23T22:47:09Z)
-  - Source: https://www.rotoballer.com/player-news/justin-jefferson-primed-for-bounce-back-season-with-kyler-murray/1914875
