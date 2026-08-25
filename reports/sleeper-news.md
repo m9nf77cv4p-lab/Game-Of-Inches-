@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **988**
-- Newly captured: **3**
+- Stored stories: **989**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Quinshon Judkins** — Quinshon Judkins returns to team drills (2026-08-25T21:45:41.998000Z)
+- **Quinshon Judkins** — Quinshon Judkins returns to team drills (2026-08-25T21:45:41.998000Z)
   - Judkins missed two practices last week and was limited to individual work on Monday. He was back full-go on Tuesday. 
   - Source: https://www.fantasypros.com/nfl/news/604176/quinshon-judkins-returns-to-team-drills.php
 - **Justin Herbert** — Justin Herbert, starters will play Thursday (2026-08-25T20:20:41.420000Z)
@@ -31,6 +31,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/604135/chris-olave-slow-to-get-up-tuesday-practice.php
 - **Chris Olave** — Chris Olave - Exits practice early Tuesday (2026-08-25T19:40:48Z)
   - According to coach Kellen Moore, Olave got the wind knocked out of him, and the receiver is expected to be fine after landing on his back during drills, Nick Underhill of NewOrleans.Football reports. Olave left practice last week with a similar issue. With Jordyn Tyson (hamstring) expected to miss time to begin the 2026 season, the Saints can't afford to lose Olave following his career year in 2025.
+- **NEW — J.J. McCarthy** — J.J. McCarthy Splitting Second-Team Reps (2026-08-25T19:29:07Z)
+  - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-splitting-second-team-reps/1916346
 - **Sam LaPorta** — Sam LaPorta (hip) returns to practice Tuesday (2026-08-25T19:20:44.307000Z)
   - Laporta's hip injury has made his status for Week 1 murky, but his returning to practice this early is a good sign. The tight end will likely be limited as he builds back up, but he could be in line to start the season barring any setbacks.
   - Source: https://www.fantasypros.com/nfl/news/604132/sam-laporta-hip-returns-to-practice-tuesday.php
@@ -65,9 +67,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Harris has been with the organization for only one week, but the torn Achilles he suffered Week 3 of last season hasn't stopped him from practicing since joining New York, and he's now in contention for the direct backup role to Skattebo. The Giants likely will want to see all three of Tracy, Harris and Singletary in their final preseason game Friday against the Jets to solidify the order behind Skattebo and also who among them may be a candidate to get cut.
 - **Kenneth Walker** — Kenneth Walker - Dealing with foot injury (2026-08-25T17:28:51Z)
   - Walker has avoided the injury bug since joining the Chiefs over the offseason, but he has picked up a foot issue with just a few weeks to go before the regular season. The extent of the injury is not yet known, but his status will be updated again when more details are released. Emari Demercado and Emmett Johnson are in line for added work should Walker miss any further time.
-- **NEW — Brandon Aiyuk** — Brandon Aiyuk Remains Estranged from 49ers (2026-08-25T17:27:10Z)
+- **Brandon Aiyuk** — Brandon Aiyuk Remains Estranged from 49ers (2026-08-25T17:27:10Z)
   - Source: https://www.rotoballer.com/player-news/brandon-aiyuk-remains-estranged-from-49ers/1916278
-- **NEW — Kenneth Walker** — Kenneth Walker Walking Around Fine at Practice (2026-08-25T17:22:17Z)
+- **Kenneth Walker** — Kenneth Walker Walking Around Fine at Practice (2026-08-25T17:22:17Z)
   - Source: https://www.rotoballer.com/player-news/kenneth-walker-walking-around-fine-at-practice/1916271
 - **Anthony Richardson** — Anthony Richardson - Will start preseason finale (2026-08-25T16:56:48Z)
   - Indianapolis will give Richardson the nod for the preseason finale after Riley Leonard handled the bulk of the work in preseason Week 2. Richardson was relatively sharp but still had turnover issues in the preseason opener before getting minimal work the following week. Indianapolis' battle for the No.2 quarterback spot still seems undecided as the preseason nears its end.
@@ -223,5 +225,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/can-davante-adams-replicate-his-wr1-finish/1915701
 - **Ty Simpson** — Ty Simpson - Rams' backup QB job still undetermined (2026-08-24T23:43:31Z)
   - Simpson worked behind Bennett in Saturday's preseason win over New Orleans and did fine, completing eight of 12 passes for 73 yards while rushing three times for 10 yards. Meanwhile, Bennett shined in the contest, connecting on 19 of 31 pass attempts for 181 yards and adding two rushing touchdowns. All signs to this point have hinted at Bennett opening the regular season as the Rams' top backup behind Stafford, but McVay said Monday that he's "taking things a day at a time" in terms of making that decision. Still, McVay added that Bennett saw more second-team reps than Simpson on Monday and indicated that Simpson will "definitely" play in the team's preseason finale Thursday versus the Chargers while not committing to Bennett's participation, which could both be signs that the scale is tilting in Bennett's favor for the regular-season QB2 job.
-- **Pat Freiermuth** — Pat Freiermuth Gearing Up for Bounce-Back 2026 Season (2026-08-24T23:32:12Z)
-  - Source: https://www.rotoballer.com/player-news/pat-freiermuth-gearing-up-for-bounce-back-2026-season/1915692

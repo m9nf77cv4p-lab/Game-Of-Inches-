@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-08-25T21:56:09Z",
+  "last_checked_at": "2026-08-25T23:55:33Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|12512|fantasy_pros|604176|1787694341998",
-    "nfl|6803|rotoballer|219386|1787678830000",
-    "nfl|8151|rotoballer|219385|1787678537000"
+    "nfl|11565|rotoballer|219388|1787686147000"
   ],
   "schema_version": 1,
   "source": {
@@ -200,6 +198,26 @@
       "story_id": "nfl|8144|rotowire|634805|1787686848000",
       "title": "Chris Olave - Exits practice early Tuesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "In a relatively short Minnesota Vikings training camp practice on Tuesday, quarterback J.J. McCarthy and veteran Carson Wentz split second-team reps, according to Kevin Seifert of ESPN. McCarthy's dynasty/keeper stock continues to plummet after the Vikings recently announced what most of us already expected: that Kyler Murray had won the starting QB job entering the 2026 season. The 23-year-old former 10th overall pick in the 2024 NFL draft from Michigan missed his entire rookie campaign due to a meniscus injury in his knee that required surgery, and when he finally got his chance last year, he flopped due to injuries, accuracy issues, and questionable decision-making. McCarthy completed 57.6% of his pass attempts for 1,632 yards, 11 touchdowns, and 12 interceptions in his first 10 starts for the Vikings. If he loses out on the QB2 competition to Wentz, McCarthy could become a trade candidate before the start of the 2026 campaign. If he stays with the Vikes, it might take another injury to Murray for McCarthy to get another shot at starting this year.",
+      "metadata": {
+        "description": "In a relatively short Minnesota Vikings training camp practice on Tuesday, quarterback J.J. McCarthy and veteran Carson Wentz split second-team reps, according to Kevin Seifert of ESPN. McCarthy's dynasty/keeper stock continues to plummet after the Vikings recently announced what most of us already expected: that Kyler Murray had won the starting QB job entering the 2026 season. The 23-year-old former 10th overall pick in the 2024 NFL draft from Michigan missed his entire rookie campaign due to a meniscus injury in his knee that required surgery, and when he finally got his chance last year, he flopped due to injuries, accuracy issues, and questionable decision-making. McCarthy completed 57.6% of his pass attempts for 1,632 yards, 11 touchdowns, and 12 interceptions in his first 10 starts for the Vikings. If he loses out on the QB2 competition to Wentz, McCarthy could become a trade candidate before the start of the 2026 campaign. If he stays with the Vikes, it might take another injury to Murray for McCarthy to get another shot at starting this year.",
+        "title": "J.J. McCarthy Splitting Second-Team Reps",
+        "topic_id": "1398122718104129536",
+        "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-splitting-second-team-reps/1916346"
+      },
+      "nfl_team": "MIN",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1787686147000,
+      "source": "rotoballer",
+      "source_key": "219388",
+      "story_id": "nfl|11565|rotoballer|219388|1787686147000",
+      "title": "J.J. McCarthy Splitting Second-Team Reps",
+      "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-splitting-second-team-reps/1916346"
     },
     {
       "analysis": "Laporta's hip injury has made his status for Week 1 murky, but his returning to practice this early is a good sign. The tight end will likely be limited as he builds back up, but he could be in line to start the season barring any setbacks.",
