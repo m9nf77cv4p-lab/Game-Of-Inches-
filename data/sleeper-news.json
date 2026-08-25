@@ -1,8 +1,19 @@
 {
-  "last_checked_at": "2026-08-25T07:32:50Z",
+  "last_checked_at": "2026-08-25T14:29:06Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11618|rotowire|634770|1787667525000",
+    "nfl|12514|rotowire|634768|1787666851000",
+    "nfl|12527|fantasy_pros|604107|1787663748243",
+    "nfl|12527|rotoballer|219338|1787649375000",
+    "nfl|12527|rotowire|634764|1787664239000",
+    "nfl|12533|fantasy_pros|604105|1787661648358",
+    "nfl|12533|rotoballer|219341|1787651527000",
+    "nfl|13311|rotowire|634765|1787664762000",
+    "nfl|4984|rotowire|634763|1787661087000",
+    "nfl|7567|rotoballer|219340|1787650748000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +22,208 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "McMillan was able to return to practice last Tuesday, but the third-year wideout is apparently still dealing with some limitations as he works his way back from the knee injury that has kept him off the field for much of August. The Buccaneers haven't clarified whether McMillan's absence from practice Tuesday is the result of a setback, or if he's simply getting a maintenance day. Regardless, McMillan seems to be trending toward sitting out Friday's preseason finale versus the Jaguars.",
+      "description": "McMillan (knee) isn't participating in Tuesday's practice, Greg Auman of Fox Sports reports.",
+      "metadata": {
+        "analysis": "McMillan was able to return to practice last Tuesday, but the third-year wideout is apparently still dealing with some limitations as he works his way back from the knee injury that has kept him off the field for much of August. The Buccaneers haven't clarified whether McMillan's absence from practice Tuesday is the result of a setback, or if he's simply getting a maintenance day. Regardless, McMillan seems to be trending toward sitting out Friday's preseason finale versus the Jaguars.",
+        "description": "McMillan (knee) isn't participating in Tuesday's practice, Greg Auman of Fox Sports reports.",
+        "title": "Jalen McMillan - Not practicing Tuesday",
+        "topic_id": "1397983074280546304"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1787667525000,
+      "source": "rotowire",
+      "source_key": "634770",
+      "story_id": "nfl|11618|rotowire|634770|1787667525000",
+      "title": "Jalen McMillan - Not practicing Tuesday",
+      "url": null
+    },
+    {
+      "analysis": "Egbuka has been managing a sprained toe since Aug. 12, when the injury forced him out of practice. Almost two weeks later, Egbuka has yet to return to team drills, with head coach Todd Bowles having previously described the second-year wideout as both \"day-to-day\" and \"week-to-week.\" Egbuka looks safe to rule out for Friday's preseason finale versus the Jaguars, and his availability for the Buccaneers' Week 1 matchup with the Bengals will be shrouded in some mystery until he's able to return to full practice.",
+      "description": "Egbuka (toe) isn't participating in Tuesday's practice, Greg Auman of Fox Sports reports.",
+      "metadata": {
+        "analysis": "Egbuka has been managing a sprained toe since Aug. 12, when the injury forced him out of practice. Almost two weeks later, Egbuka has yet to return to team drills, with head coach Todd Bowles having previously described the second-year wideout as both \"day-to-day\" and \"week-to-week.\" Egbuka looks safe to rule out for Friday's preseason finale versus the Jaguars, and his availability for the Buccaneers' Week 1 matchup with the Bengals will be shrouded in some mystery until he's able to return to full practice.",
+        "description": "Egbuka (toe) isn't participating in Tuesday's practice, Greg Auman of Fox Sports reports.",
+        "title": "Emeka Egbuka - Remains sidelined by toe issue",
+        "topic_id": "1397980557895282688"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1787666851000,
+      "source": "rotowire",
+      "source_key": "634768",
+      "story_id": "nfl|12514|rotowire|634768|1787666851000",
+      "title": "Emeka Egbuka - Remains sidelined by toe issue",
+      "url": null
+    },
+    {
+      "analysis": "After completing his recovery from December surgery to repair a torn ACL in his left knee, Bell was reinstated from the NFI list Aug. 17 and returned to practice as a limited participant last week. The Dolphins were comfortable clearing him for full participation Monday, with Bell shedding his no-contact jersey for the first time since being activated. Bell seems to have bounced back well from Monday's session, but the Dolphins will see how he fares in the team's next two practices before his status for the preseason finale is decided. Even if Bell ends up sitting out against the Falcons, he looks like he'll be on track to have a role in the Dolphins' pass-catching corps Week 1 versus the Raiders.",
+      "description": "Dolphins head coach Jeff Hafley said that he's tentatively planning on having Bell (knee) play in Friday's preseason finale versus the Falcons, Marcel Louis-Jacques of ESPN.com reports.",
+      "metadata": {
+        "analysis": "After completing his recovery from December surgery to repair a torn ACL in his left knee, Bell was reinstated from the NFI list Aug. 17 and returned to practice as a limited participant last week. The Dolphins were comfortable clearing him for full participation Monday, with Bell shedding his no-contact jersey for the first time since being activated. Bell seems to have bounced back well from Monday's session, but the Dolphins will see how he fares in the team's next two practices before his status for the preseason finale is decided. Even if Bell ends up sitting out against the Falcons, he looks like he'll be on track to have a role in the Dolphins' pass-catching corps Week 1 versus the Raiders.",
+        "description": "Dolphins head coach Jeff Hafley said that he's tentatively planning on having Bell (knee) play in Friday's preseason finale versus the Falcons, Marcel Louis-Jacques of ESPN.com reports.",
+        "title": "Chris Bell - Candidate to play in preseason finale",
+        "topic_id": "1397971748158226432"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1787664762000,
+      "source": "rotowire",
+      "source_key": "634765",
+      "story_id": "nfl|13311|rotowire|634765|1787664762000",
+      "title": "Chris Bell - Candidate to play in preseason finale",
+      "url": null
+    },
+    {
+      "analysis": "While the Raiders are wholly confident that Jeanty avoided a season-ending injury after he was unable to put weight on his right leg while leaving the field Sunday, the second-year running back is still in danger of missing the team's Week 1 game against the Dolphins, according to Rapoport. Jeanty will at the very least sit out Thursday's preseason finale versus the 49ers, and his status for the start of the regular season will be determined by his practice activity (or lack thereof) over the next two weeks. Rookie Mike Washington would be in line to serve as the Raiders' feature back if Jeanty ends up sitting out Week 1.",
+      "description": "The Raiders are optimistic that the injury Jeanty sustained during practice Sunday is a \"more low than high\" ankle sprain and not considered a long-term concern, Ian Rapoport of NFL Network reports.",
+      "metadata": {
+        "analysis": "While the Raiders are wholly confident that Jeanty avoided a season-ending injury after he was unable to put weight on his right leg while leaving the field Sunday, the second-year running back is still in danger of missing the team's Week 1 game against the Dolphins, according to Rapoport. Jeanty will at the very least sit out Thursday's preseason finale versus the 49ers, and his status for the start of the regular season will be determined by his practice activity (or lack thereof) over the next two weeks. Rookie Mike Washington would be in line to serve as the Raiders' feature back if Jeanty ends up sitting out Week 1.",
+        "description": "The Raiders are optimistic that the injury Jeanty sustained during practice Sunday is a \"more low than high\" ankle sprain and not considered a long-term concern, Ian Rapoport of NFL Network reports.",
+        "title": "Ashton Jeanty - Believed to be nursing low-ankle sprain",
+        "topic_id": "1397970490089287680"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1787664239000,
+      "source": "rotowire",
+      "source_key": "634764",
+      "story_id": "nfl|12527|rotowire|634764|1787664239000",
+      "title": "Ashton Jeanty - Believed to be nursing low-ankle sprain",
+      "url": null
+    },
+    {
+      "analysis": "This is actually a positive development for Jeanty, as there was certainly some concern over a longer-term injury when the second-year running back went down this past Sunday. This could certainly drop Jeanty down some fantasy draft boards a bit, but he should be rolling at full strength by the second or third week of the season at the latest. ",
+      "description": "Ashton Jeanty is dealing with a lower ankle sprain and his status for Week 1 is uncertain. ",
+      "metadata": {
+        "analysis": "This is actually a positive development for Jeanty, as there was certainly some concern over a longer-term injury when the second-year running back went down this past Sunday. This could certainly drop Jeanty down some fantasy draft boards a bit, but he should be rolling at full strength by the second or third week of the season at the latest. ",
+        "description": "Ashton Jeanty is dealing with a lower ankle sprain and his status for Week 1 is uncertain. ",
+        "title": "Ashton Jeanty (ankle) uncertain for Week 1",
+        "topic_id": "1397966719661682688",
+        "url": "https://www.fantasypros.com/nfl/news/604107/ashton-jeanty-ankle-uncertain-week-1.php"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1787663748243,
+      "source": "fantasy_pros",
+      "source_key": "604107",
+      "story_id": "nfl|12527|fantasy_pros|604107|1787663748243",
+      "title": "Ashton Jeanty (ankle) uncertain for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/604107/ashton-jeanty-ankle-uncertain-week-1.php"
+    },
+    {
+      "analysis": "The running back was limited in practice on Monday with an undisclosed injury, and now we at least get clarification of a lower body injury. Which frankly is still a little vague. Fantasy managers will need to wait for more details on the exact extent of his injury, but if he's at least limited, it doesn't sound like it's anything too major.",
+      "description": "Jacorey Croskey-Merritt is dealing with a lower body injury, per HC Dan Quinn.",
+      "metadata": {
+        "analysis": "The running back was limited in practice on Monday with an undisclosed injury, and now we at least get clarification of a lower body injury. Which frankly is still a little vague. Fantasy managers will need to wait for more details on the exact extent of his injury, but if he's at least limited, it doesn't sound like it's anything too major.",
+        "description": "Jacorey Croskey-Merritt is dealing with a lower body injury, per HC Dan Quinn.",
+        "title": "Jacorey Croskey-Merritt dealing with lower body injury",
+        "topic_id": "1397957912113983488",
+        "url": "https://www.fantasypros.com/nfl/news/604105/jacorey-croskey-merritt-dealing-with-lower-body-injury.php"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1787661648358,
+      "source": "fantasy_pros",
+      "source_key": "604105",
+      "story_id": "nfl|12533|fantasy_pros|604105|1787661648358",
+      "title": "Jacorey Croskey-Merritt dealing with lower body injury",
+      "url": "https://www.fantasypros.com/nfl/news/604105/jacorey-croskey-merritt-dealing-with-lower-body-injury.php"
+    },
+    {
+      "analysis": "It comes as no surprise that Allen will be held out, as the Bills will ensure their starting quarterback -- and the consensus top quarterback in fantasy football -- does not take any further hits before the regular season gets underway.",
+      "description": "Allen will not play in Thursday's preseason finale against the Steelers, Jay Skurski of The Buffalo News reports.",
+      "metadata": {
+        "analysis": "It comes as no surprise that Allen will be held out, as the Bills will ensure their starting quarterback -- and the consensus top quarterback in fantasy football -- does not take any further hits before the regular season gets underway.",
+        "description": "Allen will not play in Thursday's preseason finale against the Steelers, Jay Skurski of The Buffalo News reports.",
+        "title": "Josh Allen - Will sit Thursday night",
+        "topic_id": "1397956647011233792"
+      },
+      "nfl_team": "BUF",
+      "player_id": "4984",
+      "player_name": "Josh Allen",
+      "position": "QB",
+      "published": 1787661087000,
+      "source": "rotowire",
+      "source_key": "634763",
+      "story_id": "nfl|4984|rotowire|634763|1787661087000",
+      "title": "Josh Allen - Will sit Thursday night",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Jacory Croskey-Merritt (groin) was limited in practice on Monday with an undisclosed injury, but head coach Dan Quinn clarified on Tuesday that the running back is dealing with a lower-body injury. According to Ben Standig, it is a groin injury but is not considered significant. Croskey-Merritt was spotted catching passes and jogging lightly on Tuesday, and he could be on his way to another limited practice. The second-year back led the Commanders with 805 rushing yards and eight touchdowns on 175 carries last year and added nine catches for 68 yards. He could return to full practice later this week and still be good for a regular workload in Week 1 against the Eagles, but his progress will definitely be important to monitor. Rachaad White (hamstring) is also working through an injury that isn't considered to be serious, leaving rookies Kaytron Allen and Robert Henry, along with veteran Craig Reynolds, as the Commanders' healthy running backs right now. Croskey-Merritt is the RB37 in RotoBaller's rankings, with White not far behind him at RB40. Watch carefully to see who is ready for Week 1, since both have good upside but also significant risk factors with their current injuries.",
+      "metadata": {
+        "description": "Washington Commanders running back Jacory Croskey-Merritt (groin) was limited in practice on Monday with an undisclosed injury, but head coach Dan Quinn clarified on Tuesday that the running back is dealing with a lower-body injury. According to Ben Standig, it is a groin injury but is not considered significant. Croskey-Merritt was spotted catching passes and jogging lightly on Tuesday, and he could be on his way to another limited practice. The second-year back led the Commanders with 805 rushing yards and eight touchdowns on 175 carries last year and added nine catches for 68 yards. He could return to full practice later this week and still be good for a regular workload in Week 1 against the Eagles, but his progress will definitely be important to monitor. Rachaad White (hamstring) is also working through an injury that isn't considered to be serious, leaving rookies Kaytron Allen and Robert Henry, along with veteran Craig Reynolds, as the Commanders' healthy running backs right now. Croskey-Merritt is the RB37 in RotoBaller's rankings, with White not far behind him at RB40. Watch carefully to see who is ready for Week 1, since both have good upside but also significant risk factors with their current injuries.",
+        "title": "Jacory Croskey-Merritt Dealing with Groin Injury",
+        "topic_id": "1397978037923942400",
+        "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-dealing-with-a-lower-body-injury/1915889"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1787651527000,
+      "source": "rotoballer",
+      "source_key": "219341",
+      "story_id": "nfl|12533|rotoballer|219341|1787651527000",
+      "title": "Jacory Croskey-Merritt Dealing with Groin Injury",
+      "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-dealing-with-a-lower-body-injury/1915889"
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers running back Kenny Gainwell had an excellent training camp and is set up for a big role in the team's offense. Gainwell could even lead the team in receptions, according to Greg Auman, since he has been working so well as a receiving back out of the backfield this preseason. Gainwell will be working in a timeshare with Bucky Irving, with both backs as effective options as pass-catchers in space. Gainwell had 73 catches for 486 yards and three scores in 2025 with the Steelers, but he could be even more involved in Tampa, depending on how the timeshare shakes out. Right now, Gainwell is the RB38 in RotoBaller's rankings, but he could be a great RB3 or flex option if he gets more work in the offense, especially near the goal line. Gainwell and Irving are both volatile options with lots of upside to consider in fantasy drafts, since their roles are unclear despite obvious upside from each side of the timeshare.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers running back Kenny Gainwell had an excellent training camp and is set up for a big role in the team's offense. Gainwell could even lead the team in receptions, according to Greg Auman, since he has been working so well as a receiving back out of the backfield this preseason. Gainwell will be working in a timeshare with Bucky Irving, with both backs as effective options as pass-catchers in space. Gainwell had 73 catches for 486 yards and three scores in 2025 with the Steelers, but he could be even more involved in Tampa, depending on how the timeshare shakes out. Right now, Gainwell is the RB38 in RotoBaller's rankings, but he could be a great RB3 or flex option if he gets more work in the offense, especially near the goal line. Gainwell and Irving are both volatile options with lots of upside to consider in fantasy drafts, since their roles are unclear despite obvious upside from each side of the timeshare.",
+        "title": "Kenny Gainwell Could Lead Tampa Bay in Receptions",
+        "topic_id": "1397974263603953664",
+        "url": "https://www.rotoballer.com/player-news/kenny-gainwell-could-lead-tampa-bay-in-receptions/1915867"
+      },
+      "nfl_team": "TB",
+      "player_id": "7567",
+      "player_name": "Kenny Gainwell",
+      "position": "RB",
+      "published": 1787650748000,
+      "source": "rotoballer",
+      "source_key": "219340",
+      "story_id": "nfl|7567|rotoballer|219340|1787650748000",
+      "title": "Kenny Gainwell Could Lead Tampa Bay in Receptions",
+      "url": "https://www.rotoballer.com/player-news/kenny-gainwell-could-lead-tampa-bay-in-receptions/1915867"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas running back Ashton Jeanty (ankle) suffered what many feared was a serious injury on Sunday in practice, but the team received positive news over the last few days about his status. According to the latest updates from NFL Network's Ian Rapoport, Jeanty's ankle injury is more of a low sprain than a high ankle sprain and is not considered to be a major injury. Despite the positive overall news, there is still a real chance Jeanty will not play in Week 1 against the Dolphins. The fact that he has any chance to play in Week 1 is a great sign for his fantasy managers, and even if he misses that game, he isn't expected to be out long-term or miss the entire season, as was initially feared. If Jeanty is sidelined for that contest, Mike Washington Jr. and Dylan Laube would likely split the workload, with Washington bringing significant sleeper potential after his promising preseason. This is definitely a situation to watch closely leading up to the season opener, but for now, Jeanty remains one of the highest-upside running backs available in fantasy drafts. In PPR leagues, he's the RB17 in RotoBaller's rankings, but for standard-sized leagues, he's a strong RB2 with RB1 upside if this injury proves to be just a preseason scare.",
+      "metadata": {
+        "description": "Las Vegas running back Ashton Jeanty (ankle) suffered what many feared was a serious injury on Sunday in practice, but the team received positive news over the last few days about his status. According to the latest updates from NFL Network's Ian Rapoport, Jeanty's ankle injury is more of a low sprain than a high ankle sprain and is not considered to be a major injury. Despite the positive overall news, there is still a real chance Jeanty will not play in Week 1 against the Dolphins. The fact that he has any chance to play in Week 1 is a great sign for his fantasy managers, and even if he misses that game, he isn't expected to be out long-term or miss the entire season, as was initially feared. If Jeanty is sidelined for that contest, Mike Washington Jr. and Dylan Laube would likely split the workload, with Washington bringing significant sleeper potential after his promising preseason. This is definitely a situation to watch closely leading up to the season opener, but for now, Jeanty remains one of the highest-upside running backs available in fantasy drafts. In PPR leagues, he's the RB17 in RotoBaller's rankings, but for standard-sized leagues, he's a strong RB2 with RB1 upside if this injury proves to be just a preseason scare.",
+        "title": "Ashton Jeanty Not Believed to Have a Serious Injury, Uncertain for Week 1",
+        "topic_id": "1397967970952609792",
+        "url": "https://www.rotoballer.com/player-news/ashton-jeanty-not-believed-to-have-a-serious-injury-uncertain-for-week-1/1915841"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1787649375000,
+      "source": "rotoballer",
+      "source_key": "219338",
+      "story_id": "nfl|12527|rotoballer|219338|1787649375000",
+      "title": "Ashton Jeanty Not Believed to Have a Serious Injury, Uncertain for Week 1",
+      "url": "https://www.rotoballer.com/player-news/ashton-jeanty-not-believed-to-have-a-serious-injury-uncertain-for-week-1/1915841"
+    },
     {
       "analysis": null,
       "description": "Buffalo Bills wide receiver DJ Moore has emerged as a potential sleeper now that 2026 fantasy football drafts are in full swing. Moore certainly struggled in his final season with the Bears last year, catching just 50 passes for 682 yards and six touchdowns as he ranked as the overall WR35 in PPR leagues. Still, prior to last year, he had been a top-24 fantasy receiver for six years in a row, so managers should have some optimism that he'll be able to get back on track in 2026, especially now that he has Josh Allen throwing to him. Allen hasn't supported a top-24 fantasy receiver since 2023, when he had Stefon Diggs at his disposal, but if there's anyone who will restart that streak, it's Moore. He's a clear upgrade over last year's top Bills receiver, Khalil Shakir, and he gives Buffalo the alpha receiver it has been craving ever since Diggs was traded away. We wouldn't bet on Moore replicating his overall WR6 finish from 2023 or anything like that, but his top-15 upside makes him a very underrated draft target at his current ADP of 54.8 (WR25).",

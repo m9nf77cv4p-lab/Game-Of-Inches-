@@ -2,11 +2,33 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **900**
-- Newly captured: **0**
+- Stored stories: **910**
+- Newly captured: **10**
 
 ## Latest news
 
+- **NEW — Jalen McMillan** — Jalen McMillan - Not practicing Tuesday (2026-08-25T14:18:45Z)
+  - McMillan was able to return to practice last Tuesday, but the third-year wideout is apparently still dealing with some limitations as he works his way back from the knee injury that has kept him off the field for much of August. The Buccaneers haven't clarified whether McMillan's absence from practice Tuesday is the result of a setback, or if he's simply getting a maintenance day. Regardless, McMillan seems to be trending toward sitting out Friday's preseason finale versus the Jaguars.
+- **NEW — Emeka Egbuka** — Emeka Egbuka - Remains sidelined by toe issue (2026-08-25T14:07:31Z)
+  - Egbuka has been managing a sprained toe since Aug. 12, when the injury forced him out of practice. Almost two weeks later, Egbuka has yet to return to team drills, with head coach Todd Bowles having previously described the second-year wideout as both "day-to-day" and "week-to-week." Egbuka looks safe to rule out for Friday's preseason finale versus the Jaguars, and his availability for the Buccaneers' Week 1 matchup with the Bengals will be shrouded in some mystery until he's able to return to full practice.
+- **NEW — Chris Bell** — Chris Bell - Candidate to play in preseason finale (2026-08-25T13:32:42Z)
+  - After completing his recovery from December surgery to repair a torn ACL in his left knee, Bell was reinstated from the NFI list Aug. 17 and returned to practice as a limited participant last week. The Dolphins were comfortable clearing him for full participation Monday, with Bell shedding his no-contact jersey for the first time since being activated. Bell seems to have bounced back well from Monday's session, but the Dolphins will see how he fares in the team's next two practices before his status for the preseason finale is decided. Even if Bell ends up sitting out against the Falcons, he looks like he'll be on track to have a role in the Dolphins' pass-catching corps Week 1 versus the Raiders.
+- **NEW — Ashton Jeanty** — Ashton Jeanty - Believed to be nursing low-ankle sprain (2026-08-25T13:23:59Z)
+  - While the Raiders are wholly confident that Jeanty avoided a season-ending injury after he was unable to put weight on his right leg while leaving the field Sunday, the second-year running back is still in danger of missing the team's Week 1 game against the Dolphins, according to Rapoport. Jeanty will at the very least sit out Thursday's preseason finale versus the 49ers, and his status for the start of the regular season will be determined by his practice activity (or lack thereof) over the next two weeks. Rookie Mike Washington would be in line to serve as the Raiders' feature back if Jeanty ends up sitting out Week 1.
+- **NEW — Ashton Jeanty** — Ashton Jeanty (ankle) uncertain for Week 1 (2026-08-25T13:15:48.243000Z)
+  - This is actually a positive development for Jeanty, as there was certainly some concern over a longer-term injury when the second-year running back went down this past Sunday. This could certainly drop Jeanty down some fantasy draft boards a bit, but he should be rolling at full strength by the second or third week of the season at the latest. 
+  - Source: https://www.fantasypros.com/nfl/news/604107/ashton-jeanty-ankle-uncertain-week-1.php
+- **NEW — Jacory Croskey-Merritt** — Jacorey Croskey-Merritt dealing with lower body injury (2026-08-25T12:40:48.358000Z)
+  - The running back was limited in practice on Monday with an undisclosed injury, and now we at least get clarification of a lower body injury. Which frankly is still a little vague. Fantasy managers will need to wait for more details on the exact extent of his injury, but if he's at least limited, it doesn't sound like it's anything too major.
+  - Source: https://www.fantasypros.com/nfl/news/604105/jacorey-croskey-merritt-dealing-with-lower-body-injury.php
+- **NEW — Josh Allen** — Josh Allen - Will sit Thursday night (2026-08-25T12:31:27Z)
+  - It comes as no surprise that Allen will be held out, as the Bills will ensure their starting quarterback -- and the consensus top quarterback in fantasy football -- does not take any further hits before the regular season gets underway.
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt Dealing with Groin Injury (2026-08-25T09:52:07Z)
+  - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-dealing-with-a-lower-body-injury/1915889
+- **NEW — Kenny Gainwell** — Kenny Gainwell Could Lead Tampa Bay in Receptions (2026-08-25T09:39:08Z)
+  - Source: https://www.rotoballer.com/player-news/kenny-gainwell-could-lead-tampa-bay-in-receptions/1915867
+- **NEW — Ashton Jeanty** — Ashton Jeanty Not Believed to Have a Serious Injury, Uncertain for Week 1 (2026-08-25T09:16:15Z)
+  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-not-believed-to-have-a-serious-injury-uncertain-for-week-1/1915841
 - **DJ Moore** — DJ Moore Emerging as a Top Sleeper in 2026 Fantasy Drafts (2026-08-25T00:57:09Z)
   - Source: https://www.rotoballer.com/player-news/dj-moore-emerging-as-a-top-sleeper-in-2026-fantasy-drafts/1915725
 - **Tyler Allgeier** — Tyler Allgeier a Flex Option to Open the Regular Season (2026-08-25T00:48:58Z)
@@ -194,23 +216,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/makai-lemon-back-with-first-team-offense/1915259
 - **Chuba Hubbard** — Panthers to Use RB Committee if Chuba Hubbard is Good to Go (2026-08-24T13:05:09Z)
   - Source: https://www.rotoballer.com/player-news/panthers-to-use-rb-committee-if-chuba-hubbard-is-good-to-go/1915255
-- **Michael Pittman** — Michael Pittman Jr. Back at Practice on Monday (2026-08-24T12:44:13Z)
-  - Source: https://www.rotoballer.com/player-news/michael-pittman-jr-back-at-practice-on-monday/1915235
-- **DK Metcalf** — DK Metcalf Returns to Practice, Says He's 100 Percent (2026-08-24T12:39:08Z)
-  - Source: https://www.rotoballer.com/player-news/dk-metcalf-returns-to-practice-says-hes-100-percent/1915229
-- **TreVeyon Henderson** — TreVeyon Henderson Departs Practice Early With Potential Injury (2026-08-24T12:26:12Z)
-  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-departs-practice-early-with-potential-injury/1915220
-- **Xavier Hutchinson** — Xavier Hutchinson Rising With More Snaps (2026-08-24T12:15:09Z)
-  - Source: https://www.rotoballer.com/player-news/xavier-hutchinson-rising-with-more-snaps/1915216
-- **Colby Parkinson** — Colby Parkinson the Leader of Rams' Tight End Room? (2026-08-24T12:06:15Z)
-  - Source: https://www.rotoballer.com/player-news/colby-parkinson-the-leader-of-rams-tight-end-room/1915206
-- **TreVeyon Henderson** — TreVeyon Henderson Returns to Practice on Monday (2026-08-24T11:40:05Z)
-  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-returns-to-practice-on-monday/1915195
-- **Josh Jacobs** — Josh Jacobs to Participate in Limited Team Drills on Monday (2026-08-24T11:01:41Z)
-  - Source: https://www.rotoballer.com/player-news/josh-jacobs-to-participate-in-limited-team-drills-on-monday/1915171
-- **Andrei Iosivas** — Andrei Iosivas Being Pushed for Bengals' WR3 Role (2026-08-24T10:39:08Z)
-  - Source: https://www.rotoballer.com/player-news/andrei-iosivas-being-pushed-for-bengals-wr3-role/1915162
-- **Shedeur Sanders** — Shedeur Sanders to Begin His Second Season as Browns' Backup (2026-08-24T10:27:09Z)
-  - Source: https://www.rotoballer.com/player-news/shedeur-sanders-to-begin-his-second-season-as-browns-backup/1915119
-- **Deshaun Watson** — Browns Naming Deshaun Watson as Starting Quarterback (2026-08-24T10:14:13Z)
-  - Source: https://www.rotoballer.com/player-news/browns-naming-deshaun-watson-as-starting-quarterback/1915113
