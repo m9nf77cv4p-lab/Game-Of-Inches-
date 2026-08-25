@@ -1,14 +1,19 @@
 {
-  "last_checked_at": "2026-08-25T03:15:14Z",
+  "last_checked_at": "2026-08-25T05:08:18Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11559|rotoballer|219318|1787606226000",
-    "nfl|1166|rotoballer|219322|1787608419000",
-    "nfl|1166|rotowire|634735|1787618850000",
-    "nfl|13349|rotoballer|219323|1787608814000",
-    "nfl|4035|rotoballer|219319|1787606829000",
-    "nfl|4137|rotoballer|219320|1787607427000"
+    "nfl|10222|rotoballer|219334|1787618528000",
+    "nfl|11646|rotoballer|219332|1787617812000",
+    "nfl|13274|rotoballer|219331|1787617267000",
+    "nfl|13288|rotoballer|219326|1787613853000",
+    "nfl|2133|rotoballer|219330|1787615229000",
+    "nfl|4983|rotoballer|219337|1787619429000",
+    "nfl|5995|rotoballer|219325|1787613188000",
+    "nfl|7523|rotoballer|219333|1787618186000",
+    "nfl|7600|rotoballer|219327|1787614332000",
+    "nfl|8132|rotoballer|219336|1787618938000",
+    "nfl|8167|rotoballer|219335|1787616852000"
   ],
   "schema_version": 1,
   "source": {
@@ -18,6 +23,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Buffalo Bills wide receiver DJ Moore has emerged as a potential sleeper now that 2026 fantasy football drafts are in full swing. Moore certainly struggled in his final season with the Bears last year, catching just 50 passes for 682 yards and six touchdowns as he ranked as the overall WR35 in PPR leagues. Still, prior to last year, he had been a top-24 fantasy receiver for six years in a row, so managers should have some optimism that he'll be able to get back on track in 2026, especially now that he has Josh Allen throwing to him. Allen hasn't supported a top-24 fantasy receiver since 2023, when he had Stefon Diggs at his disposal, but if there's anyone who will restart that streak, it's Moore. He's a clear upgrade over last year's top Bills receiver, Khalil Shakir, and he gives Buffalo the alpha receiver it has been craving ever since Diggs was traded away. We wouldn't bet on Moore replicating his overall WR6 finish from 2023 or anything like that, but his top-15 upside makes him a very underrated draft target at his current ADP of 54.8 (WR25).",
+      "metadata": {
+        "description": "Buffalo Bills wide receiver DJ Moore has emerged as a potential sleeper now that 2026 fantasy football drafts are in full swing. Moore certainly struggled in his final season with the Bears last year, catching just 50 passes for 682 yards and six touchdowns as he ranked as the overall WR35 in PPR leagues. Still, prior to last year, he had been a top-24 fantasy receiver for six years in a row, so managers should have some optimism that he'll be able to get back on track in 2026, especially now that he has Josh Allen throwing to him. Allen hasn't supported a top-24 fantasy receiver since 2023, when he had Stefon Diggs at his disposal, but if there's anyone who will restart that streak, it's Moore. He's a clear upgrade over last year's top Bills receiver, Khalil Shakir, and he gives Buffalo the alpha receiver it has been craving ever since Diggs was traded away. We wouldn't bet on Moore replicating his overall WR6 finish from 2023 or anything like that, but his top-15 upside makes him a very underrated draft target at his current ADP of 54.8 (WR25).",
+        "title": "DJ Moore Emerging as a Top Sleeper in 2026 Fantasy Drafts",
+        "topic_id": "1397842128666673152",
+        "url": "https://www.rotoballer.com/player-news/dj-moore-emerging-as-a-top-sleeper-in-2026-fantasy-drafts/1915725"
+      },
+      "nfl_team": "BUF",
+      "player_id": "4983",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "published": 1787619429000,
+      "source": "rotoballer",
+      "source_key": "219337",
+      "story_id": "nfl|4983|rotoballer|219337|1787619429000",
+      "title": "DJ Moore Emerging as a Top Sleeper in 2026 Fantasy Drafts",
+      "url": "https://www.rotoballer.com/player-news/dj-moore-emerging-as-a-top-sleeper-in-2026-fantasy-drafts/1915725"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back Tyler Allgeier's fantasy outlook was murky after the team drafted Jeremiyah Love (ankle) third overall, but it appears that he could now have some short-term fantasy relevance as a flex option early in the season. Love's ankle injury could sideline him for Week 1 of the regular season, and even if he plays in the season opener, his absence for the remainder of the preseason will impact his ability to handle a sizable role in his NFL debut. As the Cardinals phase the rookie back into action, they'll likely lean on Allgeier to lead their backfield for at least one game. The BYU product didn't have many opportunities to start at running back in Atlanta, since Bijan Robinson has never missed a game, but he still managed to carve out flex-caliber production from time to time. He's been a top-44 running back in PPR leagues in each of his four NFL seasons, and he rushed for a career-high eight touchdowns in 2025 despite seeing his yards per carry drop to a career-low mark of 3.59. It's incredibly obvious that the Cardinals' backfield belongs to Love long-term, but the rookie's ongoing recovery could open the door for Allgeier to be an undervalued fantasy weapon for the first chunk of the 2026 regular season.",
+      "metadata": {
+        "description": "Arizona Cardinals running back Tyler Allgeier's fantasy outlook was murky after the team drafted Jeremiyah Love (ankle) third overall, but it appears that he could now have some short-term fantasy relevance as a flex option early in the season. Love's ankle injury could sideline him for Week 1 of the regular season, and even if he plays in the season opener, his absence for the remainder of the preseason will impact his ability to handle a sizable role in his NFL debut. As the Cardinals phase the rookie back into action, they'll likely lean on Allgeier to lead their backfield for at least one game. The BYU product didn't have many opportunities to start at running back in Atlanta, since Bijan Robinson has never missed a game, but he still managed to carve out flex-caliber production from time to time. He's been a top-44 running back in PPR leagues in each of his four NFL seasons, and he rushed for a career-high eight touchdowns in 2025 despite seeing his yards per carry drop to a career-low mark of 3.59. It's incredibly obvious that the Cardinals' backfield belongs to Love long-term, but the rookie's ongoing recovery could open the door for Allgeier to be an undervalued fantasy weapon for the first chunk of the 2026 regular season.",
+        "title": "Tyler Allgeier a Flex Option to Open the Regular Season",
+        "topic_id": "1397840869914112000",
+        "url": "https://www.rotoballer.com/player-news/tyler-allgeier-a-flex-option-to-open-the-regular-season/1915723"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8132",
+      "player_name": "Tyler Allgeier",
+      "position": "RB",
+      "published": 1787618938000,
+      "source": "rotoballer",
+      "source_key": "219336",
+      "story_id": "nfl|8132|rotoballer|219336|1787618938000",
+      "title": "Tyler Allgeier a Flex Option to Open the Regular Season",
+      "url": "https://www.rotoballer.com/player-news/tyler-allgeier-a-flex-option-to-open-the-regular-season/1915723"
+    },
     {
       "analysis": "With coach Klint Kubiak recently declining to formally name a starter, this depth-chart placement offers another sign that Cousins remains the leading option atop Las Vegas' quarterback room. Fernando Mendoza and Aidan O'Connell, in that order, appear to remain behind Cousins heading into the Raiders' final preseason contest. It's unclear if Cousins will see any action in that game.",
       "description": "Cousins is listed as the Raiders' top quarterback on the unofficial depth chart for Thursday's preseason game versus the 49ers, according to the team's official site.",
@@ -39,6 +84,126 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Green Bay Packers wide receiver Jayden Reed opened his career with back-to-back top-30 fantasy finishes at his position, but injuries essentially ruined his 2025 season. Now, he's looking to get back on track and carve out fantasy relevance in the Packers' receiver room. The good news for Reed is that Romeo Doubs has departed for New England, creating 85 vacated targets that are up for grabs. The bad news is that a large portion of that volume could end up going to Matthew Golden and Christian Watson, two young pass-catchers who are trending up and, unlike Reed, were healthy enough for most of last season to form a solid rapport with quarterback Jordan Love. Meanwhile, tight end Tucker Kraft (knee) is working his way back from an ACL tear; he's arguably the most talented pass-catcher in Green Bay, so his return to action could also have a negative effect on Reed's outlook. With that being said, Reed is holding his own as the WR34 in RotoBaller's latest half-PPR rankings for 2026. That puts him five spots behind Watson and 11 spots ahead of Golden in redraft leagues.",
+      "metadata": {
+        "description": "Green Bay Packers wide receiver Jayden Reed opened his career with back-to-back top-30 fantasy finishes at his position, but injuries essentially ruined his 2025 season. Now, he's looking to get back on track and carve out fantasy relevance in the Packers' receiver room. The good news for Reed is that Romeo Doubs has departed for New England, creating 85 vacated targets that are up for grabs. The bad news is that a large portion of that volume could end up going to Matthew Golden and Christian Watson, two young pass-catchers who are trending up and, unlike Reed, were healthy enough for most of last season to form a solid rapport with quarterback Jordan Love. Meanwhile, tight end Tucker Kraft (knee) is working his way back from an ACL tear; he's arguably the most talented pass-catcher in Green Bay, so his return to action could also have a negative effect on Reed's outlook. With that being said, Reed is holding his own as the WR34 in RotoBaller's latest half-PPR rankings for 2026. That puts him five spots behind Watson and 11 spots ahead of Golden in redraft leagues.",
+        "title": "Jayden Reed Looking to Overcome Emergence of Young Teammates",
+        "topic_id": "1397839611065077760",
+        "url": "https://www.rotoballer.com/player-news/jayden-reed-looking-to-overcome-emergence-of-young-teammates/1915719"
+      },
+      "nfl_team": "GB",
+      "player_id": "10222",
+      "player_name": "Jayden Reed",
+      "position": "WR",
+      "published": 1787618528000,
+      "source": "rotoballer",
+      "source_key": "219334",
+      "story_id": "nfl|10222|rotoballer|219334|1787618528000",
+      "title": "Jayden Reed Looking to Overcome Emergence of Young Teammates",
+      "url": "https://www.rotoballer.com/player-news/jayden-reed-looking-to-overcome-emergence-of-young-teammates/1915719"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars quarterback Trevor Lawrence was the overall QB4 in fantasy football leagues last year. He achieved this personal-best mark thanks to increased productivity on the ground, including a career-high nine rushing touchdowns. It's not a lock that Lawrence will be as successful running the football in 2026, but it's worth noting that the departure of Travis Etienne Jr. in free agency may improve his chances of earning carries around the goal line. Regardless of Lawrence's exact rushing role, we expect him to remain a highly productive passer thanks to the weapons at his disposal. Jakobi Meyers and Parker Washington both had breakout campaigns last year, Brian Thomas Jr. is enjoying a great camp and looks like he could return to his rookie form, and Travis Hunter should offer a spark whenever he earns offensive snaps. With these receivers (as well as tight end Brenton Strange) available to him, Lawrence has no excuse not to push for 30 passing touchdowns like he did last year. Perhaps the key this year is cleaning up the turnovers, as Lawrence did have 12 interceptions and three lost fumbles last year. Nevertheless, he remains in the mix as a top-eight quarterback for fantasy football purposes in 2026.",
+      "metadata": {
+        "description": "Jacksonville Jaguars quarterback Trevor Lawrence was the overall QB4 in fantasy football leagues last year. He achieved this personal-best mark thanks to increased productivity on the ground, including a career-high nine rushing touchdowns. It's not a lock that Lawrence will be as successful running the football in 2026, but it's worth noting that the departure of Travis Etienne Jr. in free agency may improve his chances of earning carries around the goal line. Regardless of Lawrence's exact rushing role, we expect him to remain a highly productive passer thanks to the weapons at his disposal. Jakobi Meyers and Parker Washington both had breakout campaigns last year, Brian Thomas Jr. is enjoying a great camp and looks like he could return to his rookie form, and Travis Hunter should offer a spark whenever he earns offensive snaps. With these receivers (as well as tight end Brenton Strange) available to him, Lawrence has no excuse not to push for 30 passing touchdowns like he did last year. Perhaps the key this year is cleaning up the turnovers, as Lawrence did have 12 interceptions and three lost fumbles last year. Nevertheless, he remains in the mix as a top-eight quarterback for fantasy football purposes in 2026.",
+        "title": "Trevor Lawrence Looking to Replicate Rushing Success from 2025",
+        "topic_id": "1397838352677388288",
+        "url": "https://www.rotoballer.com/player-news/can-trevor-lawrence-replicate-rushing-success-from-career-best-season/1915711"
+      },
+      "nfl_team": "JAX",
+      "player_id": "7523",
+      "player_name": "Trevor Lawrence",
+      "position": "QB",
+      "published": 1787618186000,
+      "source": "rotoballer",
+      "source_key": "219333",
+      "story_id": "nfl|7523|rotoballer|219333|1787618186000",
+      "title": "Trevor Lawrence Looking to Replicate Rushing Success from 2025",
+      "url": "https://www.rotoballer.com/player-news/can-trevor-lawrence-replicate-rushing-success-from-career-best-season/1915711"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers wide receiver Jalen Coker has been relatively quiet this preseason, but he's still a very intriguing player to target in 2026 fantasy football drafts. Coker solidified himself as the Panthers' No. 2 receiver and one of Bryce Young's favorite targets late last season, catching six passes for 47 yards and one touchdown in Week 18 before adding another nine catches, 134 yards, and one touchdown in the Wild Card Round of the playoffs. The 24-year-old is officially ahead of Xavier Legette and behind Tetairoa McMillan in the pecking order, and as the Panthers' No. 2 receiver, he's a solid draft target in most fantasy leagues. Depending on how the Panthers' offense looks this year, he could even warrant weekly consideration for a flex spot in deeper leagues. There's certainly a lot to like about a Panthers receiver room that features Coker opposite McMillan.",
+      "metadata": {
+        "description": "Carolina Panthers wide receiver Jalen Coker has been relatively quiet this preseason, but he's still a very intriguing player to target in 2026 fantasy football drafts. Coker solidified himself as the Panthers' No. 2 receiver and one of Bryce Young's favorite targets late last season, catching six passes for 47 yards and one touchdown in Week 18 before adding another nine catches, 134 yards, and one touchdown in the Wild Card Round of the playoffs. The 24-year-old is officially ahead of Xavier Legette and behind Tetairoa McMillan in the pecking order, and as the Panthers' No. 2 receiver, he's a solid draft target in most fantasy leagues. Depending on how the Panthers' offense looks this year, he could even warrant weekly consideration for a flex spot in deeper leagues. There's certainly a lot to like about a Panthers receiver room that features Coker opposite McMillan.",
+        "title": "Jalen Coker Still a Fantasy Riser Despite Quiet Preseason",
+        "topic_id": "1397837094314881024",
+        "url": "https://www.rotoballer.com/player-news/jalen-coker-still-a-fantasy-riser-despite-quiet-preseason/1915708"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11646",
+      "player_name": "Jalen Coker",
+      "position": "WR",
+      "published": 1787617812000,
+      "source": "rotoballer",
+      "source_key": "219332",
+      "story_id": "nfl|11646|rotoballer|219332|1787617812000",
+      "title": "Jalen Coker Still a Fantasy Riser Despite Quiet Preseason",
+      "url": "https://www.rotoballer.com/player-news/jalen-coker-still-a-fantasy-riser-despite-quiet-preseason/1915708"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers wide receiver Germie Bernard may not have an immediate impact, requiring fantasy managers to be patient in redraft leagues. Bernard was held to zero catches on one target during Week 2 of the preseason, despite the fact that he could have handled an increased role with DK Metcalf and Michael Pittman Jr. sidelined. Nevertheless, the rookie took a backseat, leaving the door open for Roman Wilson and Ben Skowronek to produce instead. The 22-year-old out of Alabama continues to possess upside in dynasty fantasy leagues, but his value in redraft formats is severely limited as long as he's fourth or fifth on the wide receiver depth chart.",
+      "metadata": {
+        "description": "Pittsburgh Steelers wide receiver Germie Bernard may not have an immediate impact, requiring fantasy managers to be patient in redraft leagues. Bernard was held to zero catches on one target during Week 2 of the preseason, despite the fact that he could have handled an increased role with DK Metcalf and Michael Pittman Jr. sidelined. Nevertheless, the rookie took a backseat, leaving the door open for Roman Wilson and Ben Skowronek to produce instead. The 22-year-old out of Alabama continues to possess upside in dynasty fantasy leagues, but his value in redraft formats is severely limited as long as he's fourth or fifth on the wide receiver depth chart.",
+        "title": "Germie Bernard Requires Patience in Redraft Leagues",
+        "topic_id": "1397833320062066688",
+        "url": "https://www.rotoballer.com/player-news/germie-bernard-requiring-patience-in-redraft-leagues/1915706"
+      },
+      "nfl_team": "PIT",
+      "player_id": "13274",
+      "player_name": "Germie Bernard",
+      "position": "WR",
+      "published": 1787617267000,
+      "source": "rotoballer",
+      "source_key": "219331",
+      "story_id": "nfl|13274|rotoballer|219331|1787617267000",
+      "title": "Germie Bernard Requires Patience in Redraft Leagues",
+      "url": "https://www.rotoballer.com/player-news/germie-bernard-requiring-patience-in-redraft-leagues/1915706"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers wide receiver Christian Watson continued his path to being the team's de facto WR1 as he caught passes from starting quarterback Jordan Love at Monday's practice, according to SI's Bill Huber. The 27-year-old impressed late in his 2025 campaign when he returned from a torn ACL injury and caught 35 passes for 611 yards and six touchdowns. The Packers' receiving corps will look a little different this season with Romeo Doubs departing for the New England Patriots over the summer, further opening the door for Watson to shoulder a heavier workload. Even with his injury history, the increased usage should make this fifth-year wideout a more efficient fantasy asset. A healthy Christian Watson is a high-end WR3 who can flash WR2 upside in 2026.",
+      "metadata": {
+        "description": "Green Bay Packers wide receiver Christian Watson continued his path to being the team's de facto WR1 as he caught passes from starting quarterback Jordan Love at Monday's practice, according to SI's Bill Huber. The 27-year-old impressed late in his 2025 campaign when he returned from a torn ACL injury and caught 35 passes for 611 yards and six touchdowns. The Packers' receiving corps will look a little different this season with Romeo Doubs departing for the New England Patriots over the summer, further opening the door for Watson to shoulder a heavier workload. Even with his injury history, the increased usage should make this fifth-year wideout a more efficient fantasy asset. A healthy Christian Watson is a high-end WR3 who can flash WR2 upside in 2026.",
+        "title": "Christian Watson Ready for Full Season and Full-Time Role",
+        "topic_id": "1397839611102826496",
+        "url": "https://www.rotoballer.com/player-news/christian-watson-ready-for-full-season-and-full-time-role/1915704"
+      },
+      "nfl_team": "GB",
+      "player_id": "8167",
+      "player_name": "Christian Watson",
+      "position": "WR",
+      "published": 1787616852000,
+      "source": "rotoballer",
+      "source_key": "219335",
+      "story_id": "nfl|8167|rotoballer|219335|1787616852000",
+      "title": "Christian Watson Ready for Full Season and Full-Time Role",
+      "url": "https://www.rotoballer.com/player-news/christian-watson-ready-for-full-season-and-full-time-role/1915704"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Davante Adams finished the 2025 season as a WR1 in fantasy football, and he remains an appealing fantasy option for 2026. Specifically, Adams was the overall WR9 in PPR leagues last year, catching 60 passes for 789 yards and 14 touchdowns. This was his worst yardage total since 2015, but he still put together a highly productive season with the second-highest touchdown total of his career. Although Adams does have to share targets with Puka Nacua, he benefits from having such a prominent role in an offense led by prolific passer Matthew Stafford. Last year's MVP showed that he is capable of supporting two top-12 fantasy receivers in one season, so even though Adams is already 33 years old, he's a viable low-end WR1 for fantasy managers who choose to target other positions early in their 2026 drafts.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Davante Adams finished the 2025 season as a WR1 in fantasy football, and he remains an appealing fantasy option for 2026. Specifically, Adams was the overall WR9 in PPR leagues last year, catching 60 passes for 789 yards and 14 touchdowns. This was his worst yardage total since 2015, but he still put together a highly productive season with the second-highest touchdown total of his career. Although Adams does have to share targets with Puka Nacua, he benefits from having such a prominent role in an offense led by prolific passer Matthew Stafford. Last year's MVP showed that he is capable of supporting two top-12 fantasy receivers in one season, so even though Adams is already 33 years old, he's a viable low-end WR1 for fantasy managers who choose to target other positions early in their 2026 drafts.",
+        "title": "Can Davante Adams Replicate His WR1 Finish?",
+        "topic_id": "1397825768284807168",
+        "url": "https://www.rotoballer.com/player-news/can-davante-adams-replicate-his-wr1-finish/1915701"
+      },
+      "nfl_team": "LAR",
+      "player_id": "2133",
+      "player_name": "Davante Adams",
+      "position": "WR",
+      "published": 1787615229000,
+      "source": "rotoballer",
+      "source_key": "219330",
+      "story_id": "nfl|2133|rotoballer|219330|1787615229000",
+      "title": "Can Davante Adams Replicate His WR1 Finish?",
+      "url": "https://www.rotoballer.com/player-news/can-davante-adams-replicate-his-wr1-finish/1915701"
+    },
+    {
       "analysis": "Simpson worked behind Bennett in Saturday's preseason win over New Orleans and did fine, completing eight of 12 passes for 73 yards while rushing three times for 10 yards. Meanwhile, Bennett shined in the contest, connecting on 19 of 31 pass attempts for 181 yards and adding two rushing touchdowns. All signs to this point have hinted at Bennett opening the regular season as the Rams' top backup behind Stafford, but McVay said Monday that he's \"taking things a day at a time\" in terms of making that decision. Still, McVay added that Bennett saw more second-team reps than Simpson on Monday and indicated that Simpson will \"definitely\" play in the team's preseason finale Thursday versus the Chargers while not committing to Bennett's participation, which could both be signs that the scale is tilting in Bennett's favor for the regular-season QB2 job.",
       "description": "Rams coach Sean McVay said Monday that the team hasn't yet decided whether Simpson or Stetson Bennett will begin the regular season as the backup quarterback behind Matthew Stafford, Benjamin Royer of The Orange County Register reports.",
       "metadata": {
@@ -57,6 +222,46 @@
       "story_id": "nfl|13275|rotowire|634712|1787615011000",
       "title": "Ty Simpson - Rams' backup QB job still undetermined",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers tight end Pat Freiermuth is earning his starting spot on the depth chart with a heavy practice load to round out the preseason. According to Alex Kozora of Steelers Depot, Freiermuth ranked third on the team in targets (13) and tied for second-most receptions (11) through seven preseason practices. The sixth-year veteran is coming off a disappointing 2025 season when his pass-catching abilities were tempered by former offensive coordinator Arthur Smith, and he logged just 41 receptions for 486 yards and four touchdowns. Fellow tight end Darnell Washington has caught more targets during preseason play, but the heavy practice load suggests Freiermuth will be Aaron Rodgers' preferred third-down target. Freiermuth should be viewed as a late-round or streaming TE with upside.",
+      "metadata": {
+        "description": "Pittsburgh Steelers tight end Pat Freiermuth is earning his starting spot on the depth chart with a heavy practice load to round out the preseason. According to Alex Kozora of Steelers Depot, Freiermuth ranked third on the team in targets (13) and tied for second-most receptions (11) through seven preseason practices. The sixth-year veteran is coming off a disappointing 2025 season when his pass-catching abilities were tempered by former offensive coordinator Arthur Smith, and he logged just 41 receptions for 486 yards and four touchdowns. Fellow tight end Darnell Washington has caught more targets during preseason play, but the heavy practice load suggests Freiermuth will be Aaron Rodgers' preferred third-down target. Freiermuth should be viewed as a late-round or streaming TE with upside.",
+        "title": "Pat Freiermuth Gearing Up for Bounce-Back 2026 Season",
+        "topic_id": "1397821993406992384",
+        "url": "https://www.rotoballer.com/player-news/pat-freiermuth-gearing-up-for-bounce-back-2026-season/1915692"
+      },
+      "nfl_team": "PIT",
+      "player_id": "7600",
+      "player_name": "Pat Freiermuth",
+      "position": "TE",
+      "published": 1787614332000,
+      "source": "rotoballer",
+      "source_key": "219327",
+      "story_id": "nfl|7600|rotoballer|219327|1787614332000",
+      "title": "Pat Freiermuth Gearing Up for Bounce-Back 2026 Season",
+      "url": "https://www.rotoballer.com/player-news/pat-freiermuth-gearing-up-for-bounce-back-2026-season/1915692"
+    },
+    {
+      "analysis": null,
+      "description": "The Tennessee Titans expect rookie running back Nicholas Singleton (foot) to return to practice on Tuesday, ESPN's Turron Davenport reported on Monday. The Penn State product, who sustained a Jones fracture (a break in the fifth metatarsal) at the end of his collegiate career, has previously been limited in practices and missed Tennessee's preseason matchup against the Seattle Seahawks due to foot and ankle injury concerns. Singleton finished his 2025 campaign ranked second on the Nittany Lions in rushing yards (549) and rushing TDs (13) before injuring his foot in January 2026. The fifth-round pick logged eight carries for 31 yards in one preseason appearance for the Titans, but isn't expected to get much playing time as long as Tony Pollard and Tyjae Spears are healthy. Singleton has sleeper potential, but is a better late-round dynasty stash than a redraft league candidate.",
+      "metadata": {
+        "description": "The Tennessee Titans expect rookie running back Nicholas Singleton (foot) to return to practice on Tuesday, ESPN's Turron Davenport reported on Monday. The Penn State product, who sustained a Jones fracture (a break in the fifth metatarsal) at the end of his collegiate career, has previously been limited in practices and missed Tennessee's preseason matchup against the Seattle Seahawks due to foot and ankle injury concerns. Singleton finished his 2025 campaign ranked second on the Nittany Lions in rushing yards (549) and rushing TDs (13) before injuring his foot in January 2026. The fifth-round pick logged eight carries for 31 yards in one preseason appearance for the Titans, but isn't expected to get much playing time as long as Tony Pollard and Tyjae Spears are healthy. Singleton has sleeper potential, but is a better late-round dynasty stash than a redraft league candidate.",
+        "title": "Nicholas Singleton Expected at Titans' Practice on Tuesday",
+        "topic_id": "1397819476119953408",
+        "url": "https://www.rotoballer.com/player-news/nicholas-singleton-expected-at-titans-practice-on-tuesday/1915688"
+      },
+      "nfl_team": "TEN",
+      "player_id": "13288",
+      "player_name": "Nicholas Singleton",
+      "position": "RB",
+      "published": 1787613853000,
+      "source": "rotoballer",
+      "source_key": "219326",
+      "story_id": "nfl|13288|rotoballer|219326|1787613853000",
+      "title": "Nicholas Singleton Expected at Titans' Practice on Tuesday",
+      "url": "https://www.rotoballer.com/player-news/nicholas-singleton-expected-at-titans-practice-on-tuesday/1915688"
     },
     {
       "analysis": "Conner hasn't played in any of the Cardinals' three preseason games so far and also hasn't been seen for the last handful of practices. He's dealing with lingering issues related to the foot surgery he underwent last fall and ended his season after Week 3. With Trey Benson (knee) getting waived/injured Monday, Conner is the top running back behind the duo of rookie third overall pick Jeremiyah Love (ankle) and Tyler Allgeier. Until Conner gets back on the field, though, Bam Knight is the team's likely No. 3 RB.",
@@ -97,6 +302,26 @@
       "story_id": "nfl|13272|rotowire|634695|1787613296000",
       "title": "Carson Beck - Remains limited at practice",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens running back Justice Hill was listed as the No. 2 option behind Derrick Henry on the team's latest unofficial depth chart. It seemed like Adam Randall (undisclosed) and Rasheen Ali were both trending up this preseason, but nevertheless, Hill is holding on to his second-string role for the time being. Hill was the RB37 in PPR leagues in 2024, but he took a step backward when he missed seven games last year. With that being said, Hill is still a very productive pass-catching back who should consistently play on receiving downs. He had 42 catches and 383 receiving yards in his explosive season in 2024, and he should continue to get involved in a new offensive system led by coordinator Declan Doyle, assuming he's able to stay healthy. There's low-end fantasy appeal in PPR leagues here. Hill won't get a significant number of carries regardless of whether Derrick Henry is on the field, but he should maintain a consistent receiving role, which makes him a low-end flex in deeper PPR formats.",
+      "metadata": {
+        "description": "Baltimore Ravens running back Justice Hill was listed as the No. 2 option behind Derrick Henry on the team's latest unofficial depth chart. It seemed like Adam Randall (undisclosed) and Rasheen Ali were both trending up this preseason, but nevertheless, Hill is holding on to his second-string role for the time being. Hill was the RB37 in PPR leagues in 2024, but he took a step backward when he missed seven games last year. With that being said, Hill is still a very productive pass-catching back who should consistently play on receiving downs. He had 42 catches and 383 receiving yards in his explosive season in 2024, and he should continue to get involved in a new offensive system led by coordinator Declan Doyle, assuming he's able to stay healthy. There's low-end fantasy appeal in PPR leagues here. Hill won't get a significant number of carries regardless of whether Derrick Henry is on the field, but he should maintain a consistent receiving role, which makes him a low-end flex in deeper PPR formats.",
+        "title": "Justice Hill Listed as RB2 on the Ravens' Depth Chart",
+        "topic_id": "1397816959441084417",
+        "url": "https://www.rotoballer.com/player-news/justice-hill-listed-as-rb2-on-the-ravens-depth-chart/1915684"
+      },
+      "nfl_team": "BAL",
+      "player_id": "5995",
+      "player_name": "Justice Hill",
+      "position": "RB",
+      "published": 1787613188000,
+      "source": "rotoballer",
+      "source_key": "219325",
+      "story_id": "nfl|5995|rotoballer|219325|1787613188000",
+      "title": "Justice Hill Listed as RB2 on the Ravens' Depth Chart",
+      "url": "https://www.rotoballer.com/player-news/justice-hill-listed-as-rb2-on-the-ravens-depth-chart/1915684"
     },
     {
       "analysis": null,
@@ -905,10 +1130,10 @@
       "url": null
     },
     {
-      "analysis": "Though his two receptions tied for the team lead and his 24 receiving yards ranked second, Gadsden's usage in the Chargers' second preseason game probably holds greater importance than his statistical output. The second-year tight end didn't log any snaps on either of the Chargers' first two possessions of the contest, with both Charlie Kolar and David Njoku playing ahead of him before being shut down for the rest of the night. Given that Kolar and Njoku were both rested the week prior while Gadsden saw snaps with the backups in the Chargers' 27-7 win over the Texans in the preseason opener, Gadsden could be trending toward a role reduction in new offensive coordinator Mike McDaniel's scheme. Since he still profiles as the Chargers' top pass-catching option at the position, Gadsden might be utilized ahead of Njoku or Kolar on third downs or hurry-up scenarios, but that sort of role could make his production highly volatile week-to-week and heavily dependent on game script.",
+      "analysis": "Though his two receptions tied for the team lead and his 24 receiving yards ranked second, Gadsden's usage in the Chargers' second preseason game probably holds greater importance than his statistical output. The second-year tight end didn't log any snaps on either of the Chargers' first two possessions of the contest, with both Charlie Kolar and David Njoku playing ahead of him before being shut down for the rest of the night. Given that Kolar and Njoku were both rested the week prior while Gadsden saw snaps with the backups in the Chargers' 27-7 win over the Texans in the preseason opener, Gadsden could be trending toward a role reduction in new offensive coordinator Mike McDaniel's scheme. Since he still profiles as the Chargers' top pass-catching option at the position, Gadsden might be utilized ahead of Njoku or Kolar on third downs or hurry-up scenarios, but that sort of role could make his production highly volatile week to week and heavily dependent on game script.",
       "description": "Gadsden recorded two catches for 24 yards on three targets during Thursday's 41-17 preseason loss to the 49ers.",
       "metadata": {
-        "analysis": "Though his two receptions tied for the team lead and his 24 receiving yards ranked second, Gadsden's usage in the Chargers' second preseason game probably holds greater importance than his statistical output. The second-year tight end didn't log any snaps on either of the Chargers' first two possessions of the contest, with both Charlie Kolar and David Njoku playing ahead of him before being shut down for the rest of the night. Given that Kolar and Njoku were both rested the week prior while Gadsden saw snaps with the backups in the Chargers' 27-7 win over the Texans in the preseason opener, Gadsden could be trending toward a role reduction in new offensive coordinator Mike McDaniel's scheme. Since he still profiles as the Chargers' top pass-catching option at the position, Gadsden might be utilized ahead of Njoku or Kolar on third downs or hurry-up scenarios, but that sort of role could make his production highly volatile week-to-week and heavily dependent on game script.",
+        "analysis": "Though his two receptions tied for the team lead and his 24 receiving yards ranked second, Gadsden's usage in the Chargers' second preseason game probably holds greater importance than his statistical output. The second-year tight end didn't log any snaps on either of the Chargers' first two possessions of the contest, with both Charlie Kolar and David Njoku playing ahead of him before being shut down for the rest of the night. Given that Kolar and Njoku were both rested the week prior while Gadsden saw snaps with the backups in the Chargers' 27-7 win over the Texans in the preseason opener, Gadsden could be trending toward a role reduction in new offensive coordinator Mike McDaniel's scheme. Since he still profiles as the Chargers' top pass-catching option at the position, Gadsden might be utilized ahead of Njoku or Kolar on third downs or hurry-up scenarios, but that sort of role could make his production highly volatile week to week and heavily dependent on game script.",
         "description": "Gadsden recorded two catches for 24 yards on three targets during Thursday's 41-17 preseason loss to the 49ers.",
         "title": "Oronde Gadsden - Plays behind Kolar, Njoku in preseason game",
         "topic_id": "1397648334973325312"
