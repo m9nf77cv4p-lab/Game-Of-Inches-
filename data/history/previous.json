@@ -20198,7 +20198,7 @@
       ],
       "first_name": "Terrance",
       "full_name": "Terrance Ferguson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Ferguson",
       "nfl_team": "LAR",
       "player_id": "12487",
@@ -20438,7 +20438,7 @@
       ],
       "first_name": "Quinshon",
       "full_name": "Quinshon Judkins",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Judkins",
       "nfl_team": "CLE",
       "player_id": "12512",
@@ -20483,7 +20483,7 @@
       ],
       "first_name": "Tyler",
       "full_name": "Tyler Warren",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Warren",
       "nfl_team": "IND",
       "player_id": "12518",
@@ -22434,7 +22434,7 @@
       ],
       "first_name": "Ja'Marr",
       "full_name": "Ja'Marr Chase",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Chase",
       "nfl_team": "CIN",
       "player_id": "7564",
@@ -23199,7 +23199,7 @@
       ],
       "first_name": "Josh",
       "full_name": "Josh Downs",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Downs",
       "nfl_team": "IND",
       "player_id": "9500",
@@ -23560,8 +23560,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-25T17:50:52Z",
-    "source_fingerprint": "950822d99dd66672310a4f6a29d392fa907eeaf72b27a5d9b46cf4d8c629a439"
+    "last_changed_at": "2026-08-25T19:19:46Z",
+    "source_fingerprint": "e18f7e2c98172ba3d4a44b87fe87393d40025d1bf60a5e1299ec2b59542e6e63"
   },
   "teams": [
     {

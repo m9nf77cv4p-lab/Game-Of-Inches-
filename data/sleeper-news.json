@@ -1,30 +1,28 @@
 {
-  "last_checked_at": "2026-08-25T19:19:48Z",
+  "last_checked_at": "2026-08-25T20:51:23Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|10859|rotowire|634801|1787684390000",
-    "nfl|11559|rotoballer|219361|1787666947000",
-    "nfl|11571|rotowire|634795|1787680558000",
-    "nfl|12487|rotowire|634802|1787685224000",
-    "nfl|12512|rotowire|634799|1787682112000",
-    "nfl|12514|rotoballer|219365|1787668264000",
-    "nfl|12529|rotoballer|219366|1787668154000",
-    "nfl|12529|rotowire|634796|1787681190000",
-    "nfl|13421|rotoballer|219362|1787666715000",
-    "nfl|2216|fantasy_pros|604129|1787683540959",
-    "nfl|2216|rotoballer|219367|1787668809000",
-    "nfl|2216|rotowire|634797|1787681424000",
-    "nfl|6768|rotoballer|219364|1787667738000",
-    "nfl|6797|rotoballer|219360|1787665629000",
-    "nfl|7564|fantasy_pros|604130|1787685340697",
-    "nfl|7564|rotoballer|219369|1787669652000",
-    "nfl|7564|rotowire|634800|1787684056000",
-    "nfl|7611|rotoballer|219370|1787670315000",
-    "nfl|8111|rotoballer|219368|1787669055000",
-    "nfl|8151|fantasy_pros|604124|1787680840794",
-    "nfl|9500|rotowire|634798|1787681820000",
-    "nfl|9502|rotoballer|219363|1787667257000"
+    "nfl|10859|fantasy_pros|604132|1787685644307",
+    "nfl|10859|rotoballer|219374|1787672526000",
+    "nfl|12487|rotoballer|219373|1787672055000",
+    "nfl|12512|rotoballer|219380|1787674509000",
+    "nfl|12527|rotoballer|219379|1787673916000",
+    "nfl|12529|fantasy_pros|604155|1787688641415",
+    "nfl|13330|rotoballer|219377|1787673188000",
+    "nfl|13330|rotowire|634804|1787685629000",
+    "nfl|13417|rotoballer|219371|1787670854000",
+    "nfl|6797|fantasy_pros|604159|1787689241420",
+    "nfl|7528|rotoballer|219381|1787674631000",
+    "nfl|7564|fantasy_pros|604147|1787688041548",
+    "nfl|7564|rotowire|634806|1787687597000",
+    "nfl|7564|rotowire|634807|1787688959000",
+    "nfl|8144|fantasy_pros|604135|1787687141223",
+    "nfl|8144|rotoballer|219375|1787672894000",
+    "nfl|8144|rotowire|634805|1787686848000",
+    "nfl|9493|rotoballer|219372|1787671337000",
+    "nfl|9500|fantasy_pros|604157|1787688641393",
+    "nfl|9500|rotoballer|219382|1787675296000"
   ],
   "schema_version": 1,
   "source": {
@@ -34,6 +32,212 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "HC Jim Harbaugh told reporters that Herbert and most of the team's starters are going to play in their final preseason game on Thursday night, with the exception of a few veterans. It remains unlikely that the starting unit will see more than a quarter or two of action, however.",
+      "description": "Justin Herbert and most of Los Angeles' starters will play in Thursday's preseason finale against the Los Angeles Rams.",
+      "metadata": {
+        "analysis": "HC Jim Harbaugh told reporters that Herbert and most of the team's starters are going to play in their final preseason game on Thursday night, with the exception of a few veterans. It remains unlikely that the starting unit will see more than a quarter or two of action, however.",
+        "description": "Justin Herbert and most of Los Angeles' starters will play in Thursday's preseason finale against the Los Angeles Rams.",
+        "title": "Justin Herbert, starters will play Thursday",
+        "topic_id": "1398073645795909632",
+        "url": "https://www.fantasypros.com/nfl/news/604159/justin-herbert-starters-will-play-thursday.php"
+      },
+      "nfl_team": "LAC",
+      "player_id": "6797",
+      "player_name": "Justin Herbert",
+      "position": "QB",
+      "published": 1787689241420,
+      "source": "fantasy_pros",
+      "source_key": "604159",
+      "story_id": "nfl|6797|fantasy_pros|604159|1787689241420",
+      "title": "Justin Herbert, starters will play Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/604159/justin-herbert-starters-will-play-thursday.php"
+    },
+    {
+      "analysis": "Chase has spent Tuesday afternoon downplaying his hyperextended knee, so this seems like it will be a non-issue moving forward after he came down awkwardly at the end of practice. The star wide receiver is a cinch top-five fantasy pick as Joe Burrow's alpha wideout.",
+      "description": "Chase (knee) said he could play in a game Wednesday after exiting Tuesday's practice early, Kelsey Conway of the Cincinnati Enquirer reports.",
+      "metadata": {
+        "analysis": "Chase has spent Tuesday afternoon downplaying his hyperextended knee, so this seems like it will be a non-issue moving forward after he came down awkwardly at the end of practice. The star wide receiver is a cinch top-five fantasy pick as Joe Burrow's alpha wideout.",
+        "description": "Chase (knee) said he could play in a game Wednesday after exiting Tuesday's practice early, Kelsey Conway of the Cincinnati Enquirer reports.",
+        "title": "Ja'Marr Chase - Says he could play through knee injury",
+        "topic_id": "1398073642687946752"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1787688959000,
+      "source": "rotowire",
+      "source_key": "634807",
+      "story_id": "nfl|7564|rotowire|634807|1787688959000",
+      "title": "Ja'Marr Chase - Says he could play through knee injury",
+      "url": null
+    },
+    {
+      "analysis": "Henderson is expected to be a non-participant at New England's practice on Tuesday due to the ankle injury that he suffered on Monday. It's not expected to be a serious issue, but this is a situation worth monitoring for fantasy managers over the next couple of weeks.",
+      "description": "TreVeyon Henderson (ankle) is not practicing on Tuesday.",
+      "metadata": {
+        "analysis": "Henderson is expected to be a non-participant at New England's practice on Tuesday due to the ankle injury that he suffered on Monday. It's not expected to be a serious issue, but this is a situation worth monitoring for fantasy managers over the next couple of weeks.",
+        "description": "TreVeyon Henderson (ankle) is not practicing on Tuesday.",
+        "title": "TreVeyon Henderson (ankle) not practicing Tuesday",
+        "topic_id": "1398071129184157696",
+        "url": "https://www.fantasypros.com/nfl/news/604155/treveyon-henderson-ankle-not-practicing-tuesday.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1787688641415,
+      "source": "fantasy_pros",
+      "source_key": "604155",
+      "story_id": "nfl|12529|fantasy_pros|604155|1787688641415",
+      "title": "TreVeyon Henderson (ankle) not practicing Tuesday",
+      "url": "https://www.fantasypros.com/nfl/news/604155/treveyon-henderson-ankle-not-practicing-tuesday.php"
+    },
+    {
+      "analysis": "Downs is one of a few Colts players who will miss Tuesday's practice due to injury. His issue is unspecified at this point, but unless he continues to miss more time beyond this practice, fantasy managers shouldn't have much concern for his Week 1 availability.",
+      "description": "Josh Downs (undisclosed) is not participating in Indianapolis' practice on Tuesday.",
+      "metadata": {
+        "analysis": "Downs is one of a few Colts players who will miss Tuesday's practice due to injury. His issue is unspecified at this point, but unless he continues to miss more time beyond this practice, fantasy managers shouldn't have much concern for his Week 1 availability.",
+        "description": "Josh Downs (undisclosed) is not participating in Indianapolis' practice on Tuesday.",
+        "title": "Josh Downs (undisclosed) won't practice Tuesday",
+        "topic_id": "1398071129117048832",
+        "url": "https://www.fantasypros.com/nfl/news/604157/josh-downs-undisclosed-wont-practice-tuesday.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "9500",
+      "player_name": "Josh Downs",
+      "position": "WR",
+      "published": 1787688641393,
+      "source": "fantasy_pros",
+      "source_key": "604157",
+      "story_id": "nfl|9500|fantasy_pros|604157|1787688641393",
+      "title": "Josh Downs (undisclosed) won't practice Tuesday",
+      "url": "https://www.fantasypros.com/nfl/news/604157/josh-downs-undisclosed-wont-practice-tuesday.php"
+    },
+    {
+      "analysis": "Chase seems to have dodged a bullet after he exited Tuesday's practice with a knee injury. The superstar wide receiver said on ESPN Radio that he is \"good,\" and he did not require extensive medical attention after his injury. While he is likely in the clear, this is something to keep tabs on in the coming days.",
+      "description": "Ja'Marr Chase said he suffered a knee \"hyperextension\" in Tuesday's practice and could have returned if needed.",
+      "metadata": {
+        "analysis": "Chase seems to have dodged a bullet after he exited Tuesday's practice with a knee injury. The superstar wide receiver said on ESPN Radio that he is \"good,\" and he did not require extensive medical attention after his injury. While he is likely in the clear, this is something to keep tabs on in the coming days.",
+        "description": "Ja'Marr Chase said he suffered a knee \"hyperextension\" in Tuesday's practice and could have returned if needed.",
+        "title": "Ja'Marr Chase (knee hyperextension) appears to avoid major injury",
+        "topic_id": "1398068613184823296",
+        "url": "https://www.fantasypros.com/nfl/news/604147/jamarr-chase-knee-hyperextension-appears-to-avoid-major-injury.php"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1787688041548,
+      "source": "fantasy_pros",
+      "source_key": "604147",
+      "story_id": "nfl|7564|fantasy_pros|604147|1787688041548",
+      "title": "Ja'Marr Chase (knee hyperextension) appears to avoid major injury",
+      "url": "https://www.fantasypros.com/nfl/news/604147/jamarr-chase-knee-hyperextension-appears-to-avoid-major-injury.php"
+    },
+    {
+      "analysis": "Chase came up limping at the tail end of Tuesday's session when he jumped for a deep ball and landed awkwardly. He immediately left the field and was tended to by the training staff before shooing them away and remaining on the sidelines for the remainder of practice. It sounds like Chase will be fine well in time for the Bengals' regular-season opener in a little less than three weeks.",
+      "description": "Chase downplayed his knee injury Tuesday, saying it was a \"little hyperextension,\" and he could've kept practicing, Kelsey Conway of the Cincinnati Enquirer reports.",
+      "metadata": {
+        "analysis": "Chase came up limping at the tail end of Tuesday's session when he jumped for a deep ball and landed awkwardly. He immediately left the field and was tended to by the training staff before shooing them away and remaining on the sidelines for the remainder of practice. It sounds like Chase will be fine well in time for the Bengals' regular-season opener in a little less than three weeks.",
+        "description": "Chase downplayed his knee injury Tuesday, saying it was a \"little hyperextension,\" and he could've kept practicing, Kelsey Conway of the Cincinnati Enquirer reports.",
+        "title": "Ja'Marr Chase - Downplays knee injury",
+        "topic_id": "1398068607929298944"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1787687597000,
+      "source": "rotowire",
+      "source_key": "634806",
+      "story_id": "nfl|7564|rotowire|634806|1787687597000",
+      "title": "Ja'Marr Chase - Downplays knee injury",
+      "url": null
+    },
+    {
+      "analysis": "It sounds like Olave should be fine. He shouldn't suffer any setbacks because of this unless the staff is hiding details. Draft Olave with confidence as the WR1 in an up and coming Saints offense.",
+      "description": "Chris Olave was slow to get up after doing a deep route in practice, landing hard on his back. HC Kellen Moore said that the receiver had the wind knocked out of him, and when asked if there would be further tests or cause for concern, declined to answer.",
+      "metadata": {
+        "analysis": "It sounds like Olave should be fine. He shouldn't suffer any setbacks because of this unless the staff is hiding details. Draft Olave with confidence as the WR1 in an up and coming Saints offense.",
+        "description": "Chris Olave was slow to get up after doing a deep route in practice, landing hard on his back. HC Kellen Moore said that the receiver had the wind knocked out of him, and when asked if there would be further tests or cause for concern, declined to answer.",
+        "title": "Chris Olave slow to get up Tuesday at practice",
+        "topic_id": "1398064836952264704",
+        "url": "https://www.fantasypros.com/nfl/news/604135/chris-olave-slow-to-get-up-tuesday-practice.php"
+      },
+      "nfl_team": "NO",
+      "player_id": "8144",
+      "player_name": "Chris Olave",
+      "position": "WR",
+      "published": 1787687141223,
+      "source": "fantasy_pros",
+      "source_key": "604135",
+      "story_id": "nfl|8144|fantasy_pros|604135|1787687141223",
+      "title": "Chris Olave slow to get up Tuesday at practice",
+      "url": "https://www.fantasypros.com/nfl/news/604135/chris-olave-slow-to-get-up-tuesday-practice.php"
+    },
+    {
+      "analysis": "According to coach Kellen Moore, Olave got the wind knocked out of him, and the receiver is expected to be fine after landing on his back during drills, Nick Underhill of NewOrleans.Football reports. Olave left practice last week with a similar issue. With Jordyn Tyson (hamstring) expected to miss time to begin the 2026 season, the Saints can't afford to lose Olave following his career year in 2025.",
+      "description": "Olave exited Tuesday's practice early with an undisclosed injury, Mike Triplett of New Orleans.Football reports.",
+      "metadata": {
+        "analysis": "According to coach Kellen Moore, Olave got the wind knocked out of him, and the receiver is expected to be fine after landing on his back during drills, Nick Underhill of NewOrleans.Football reports. Olave left practice last week with a similar issue. With Jordyn Tyson (hamstring) expected to miss time to begin the 2026 season, the Saints can't afford to lose Olave following his career year in 2025.",
+        "description": "Olave exited Tuesday's practice early with an undisclosed injury, Mike Triplett of New Orleans.Football reports.",
+        "title": "Chris Olave - Exits practice early Tuesday",
+        "topic_id": "1398064833668128768"
+      },
+      "nfl_team": "NO",
+      "player_id": "8144",
+      "player_name": "Chris Olave",
+      "position": "WR",
+      "published": 1787686848000,
+      "source": "rotowire",
+      "source_key": "634805",
+      "story_id": "nfl|8144|rotowire|634805|1787686848000",
+      "title": "Chris Olave - Exits practice early Tuesday",
+      "url": null
+    },
+    {
+      "analysis": "Laporta's hip injury has made his status for Week 1 murky, but his returning to practice this early is a good sign. The tight end will likely be limited as he builds back up, but he could be in line to start the season barring any setbacks.",
+      "description": "Sam Laporta returned to practice on Tuesday after suffering a hip injury last week.",
+      "metadata": {
+        "analysis": "Laporta's hip injury has made his status for Week 1 murky, but his returning to practice this early is a good sign. The tight end will likely be limited as he builds back up, but he could be in line to start the season barring any setbacks.",
+        "description": "Sam Laporta returned to practice on Tuesday after suffering a hip injury last week.",
+        "title": "Sam LaPorta (hip) returns to practice Tuesday",
+        "topic_id": "1398058558423076864",
+        "url": "https://www.fantasypros.com/nfl/news/604132/sam-laporta-hip-returns-to-practice-tuesday.php"
+      },
+      "nfl_team": "DET",
+      "player_id": "10859",
+      "player_name": "Sam LaPorta",
+      "position": "TE",
+      "published": 1787685644307,
+      "source": "fantasy_pros",
+      "source_key": "604132",
+      "story_id": "nfl|10859|fantasy_pros|604132|1787685644307",
+      "title": "Sam LaPorta (hip) returns to practice Tuesday",
+      "url": "https://www.fantasypros.com/nfl/news/604132/sam-laporta-hip-returns-to-practice-tuesday.php"
+    },
+    {
+      "analysis": "Sadiq has barely practiced with the team since being selected with the 16th overall pick in the 2026 Draft. He underwent hernia surgery in the spring and then suffered a setback that has limited him to side work throughout training camp and the preseason. Mason Taylor has been a standout with the first-team offense and figures to open the season as the clear TE1 for the Jets.",
+      "description": "Jets offensive coordinator Frank Reich said Tuesday that Sadiq (hernia) will be worked in slowly at the start of the regular season, Zack Rosenblatt of The Athletic reports.",
+      "metadata": {
+        "analysis": "Sadiq has barely practiced with the team since being selected with the 16th overall pick in the 2026 Draft. He underwent hernia surgery in the spring and then suffered a setback that has limited him to side work throughout training camp and the preseason. Mason Taylor has been a standout with the first-team offense and figures to open the season as the clear TE1 for the Jets.",
+        "description": "Jets offensive coordinator Frank Reich said Tuesday that Sadiq (hernia) will be worked in slowly at the start of the regular season, Zack Rosenblatt of The Athletic reports.",
+        "title": "Kenyon Sadiq - Unlikely to have big Week 1 role",
+        "topic_id": "1398059799735705600"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13330",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "published": 1787685629000,
+      "source": "rotowire",
+      "source_key": "634804",
+      "story_id": "nfl|13330|rotowire|634804|1787685629000",
+      "title": "Kenyon Sadiq - Unlikely to have big Week 1 role",
+      "url": null
+    },
     {
       "analysis": "Chase came down awkwardly on his left knee during a jump-ball attempt and hobbled off to the sideline. The wideout did not need a cart to be brought out, which is a good sign, but this is definitely a situation to monitor.",
       "description": "Ja'Marr Chase left Tuesday's practice with an apparent knee injury.",
@@ -56,11 +260,11 @@
       "url": "https://www.fantasypros.com/nfl/news/604130/jamarr-chase-knee-leaves-tuesdays-practice.php"
     },
     {
-      "analysis": "It's unclear what kind of ailment Ferguson is dealing with, but he's at least healthy enough to do workouts on a side field with the training staff. The second-year tight end has been a hype piece all offseason and appears to have a chance to emerge as the Rams' de facto WR3 behind Puka Nacua (groin) and Davante Adams this season. Los Angeles will use a heavy dose of its tight ends, and Ferguson has easily the most playmaking ability of the group. Tyler Higbee and Colby Parkinson are expected to serve in more traditional roles at the position while Ferguson works mainly as a pass catcher.",
-      "description": "Ferguson (undisclosed) was working off to the side at Tuesday's practice, Nate Atkins of The Athletic reports.",
+      "analysis": "Ferguson is at least healthy enough to do workouts on a side field with the training staff. The second-year tight end has been a hype piece all offseason and appears to have a chance to emerge as the Rams' de facto WR3 behind Puka Nacua (groin) and Davante Adams this season. Los Angeles will use a heavy dose of its tight ends, and Ferguson has easily the most playmaking ability of the group. Tyler Higbee and Colby Parkinson are expected to serve in more traditional roles at the position while Ferguson works mainly as a pass catcher.",
+      "description": "Ferguson (soreness) was working off to the side at Tuesday's practice, Nate Atkins of The Athletic reports.",
       "metadata": {
-        "analysis": "It's unclear what kind of ailment Ferguson is dealing with, but he's at least healthy enough to do workouts on a side field with the training staff. The second-year tight end has been a hype piece all offseason and appears to have a chance to emerge as the Rams' de facto WR3 behind Puka Nacua (groin) and Davante Adams this season. Los Angeles will use a heavy dose of its tight ends, and Ferguson has easily the most playmaking ability of the group. Tyler Higbee and Colby Parkinson are expected to serve in more traditional roles at the position while Ferguson works mainly as a pass catcher.",
-        "description": "Ferguson (undisclosed) was working off to the side at Tuesday's practice, Nate Atkins of The Athletic reports.",
+        "analysis": "Ferguson is at least healthy enough to do workouts on a side field with the training staff. The second-year tight end has been a hype piece all offseason and appears to have a chance to emerge as the Rams' de facto WR3 behind Puka Nacua (groin) and Davante Adams this season. Los Angeles will use a heavy dose of its tight ends, and Ferguson has easily the most playmaking ability of the group. Tyler Higbee and Colby Parkinson are expected to serve in more traditional roles at the position while Ferguson works mainly as a pass catcher.",
+        "description": "Ferguson (soreness) was working off to the side at Tuesday's practice, Nate Atkins of The Athletic reports.",
         "title": "Terrance Ferguson - Working off to side Tuesday",
         "topic_id": "1398057282473836544"
       },
@@ -358,6 +562,46 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Josh Downs (undisclosed) did not take part in Tuesday's training camp practice due to an undisclosed injury, according to James Boyd of The Athletic. It is unclear what Downs is dealing with at the moment and how long he might be out, but details on his situation should emerge sooner rather than later. The Colts were also missing tight end Tyler Warren (groin) and receiver Alece Pierce (ankle), who remains on the Physically Unable to Perform list. The 25-year-old Downs has stood out this summer in practices as the team's WR1 without Pierce available, so if his latest injury isn't serious, he will have an opportunity for the biggest role he's had on offense in his short time in the NFL with the Colts. Downs disappointed in Year 3 in 2025 with career lows in catches (58), targets (88), and receiving yards (566) while scoring four times in 16 games played. But with Michael Pittman Jr. out of town and Pierce potentially being eased back early on, Downs could get off to a strong start and never look back. Consider him an under-the-radar WR3/flex target in upcoming fantasy drafts as RotoBaller's No. 39-ranked receiver in 2026.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Josh Downs (undisclosed) did not take part in Tuesday's training camp practice due to an undisclosed injury, according to James Boyd of The Athletic. It is unclear what Downs is dealing with at the moment and how long he might be out, but details on his situation should emerge sooner rather than later. The Colts were also missing tight end Tyler Warren (groin) and receiver Alece Pierce (ankle), who remains on the Physically Unable to Perform list. The 25-year-old Downs has stood out this summer in practices as the team's WR1 without Pierce available, so if his latest injury isn't serious, he will have an opportunity for the biggest role he's had on offense in his short time in the NFL with the Colts. Downs disappointed in Year 3 in 2025 with career lows in catches (58), targets (88), and receiving yards (566) while scoring four times in 16 games played. But with Michael Pittman Jr. out of town and Pierce potentially being eased back early on, Downs could get off to a strong start and never look back. Consider him an under-the-radar WR3/flex target in upcoming fantasy drafts as RotoBaller's No. 39-ranked receiver in 2026.",
+        "title": "Josh Downs Misses Practice With Undisclosed Injury",
+        "topic_id": "1398077414550085632",
+        "url": "https://www.rotoballer.com/player-news/josh-downs-misses-practice-with-undisclosed-injury/1916241"
+      },
+      "nfl_team": "IND",
+      "player_id": "9500",
+      "player_name": "Josh Downs",
+      "position": "WR",
+      "published": 1787675296000,
+      "source": "rotoballer",
+      "source_key": "219382",
+      "story_id": "nfl|9500|rotoballer|219382|1787675296000",
+      "title": "Josh Downs Misses Practice With Undisclosed Injury",
+      "url": "https://www.rotoballer.com/player-news/josh-downs-misses-practice-with-undisclosed-injury/1916241"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants running back Najee Harris took some first-team reps during Tuesday's practice, according to Pat Leonard. The Giants rotated their backs, so Harris hasn't suddenly jumped to the top of the depth chart, but his involvement is notable just one week after signing with the team. Cam Skattebo is still listed alone at RB1 on New York's latest unofficial depth chart, with Harris, Tyrone Tracy Jr. and Devin Singletary grouped behind him. Jordan Raanan previously reported that Harris was brought in under the premise that he would be a significant contributor, and the veteran is already starting to see work with the starters. Harris is coming back from the Achilles tear that ended his 2025 season after three games. Before that, he topped 1,000 rushing yards in each of his four seasons with Pittsburgh. Tuesday's rotation doesn't settle anything behind Skattebo, but Harris is clearly getting an opportunity to earn a piece of the Giants' backfield.",
+      "metadata": {
+        "description": "New York Giants running back Najee Harris took some first-team reps during Tuesday's practice, according to Pat Leonard. The Giants rotated their backs, so Harris hasn't suddenly jumped to the top of the depth chart, but his involvement is notable just one week after signing with the team. Cam Skattebo is still listed alone at RB1 on New York's latest unofficial depth chart, with Harris, Tyrone Tracy Jr. and Devin Singletary grouped behind him. Jordan Raanan previously reported that Harris was brought in under the premise that he would be a significant contributor, and the veteran is already starting to see work with the starters. Harris is coming back from the Achilles tear that ended his 2025 season after three games. Before that, he topped 1,000 rushing yards in each of his four seasons with Pittsburgh. Tuesday's rotation doesn't settle anything behind Skattebo, but Harris is clearly getting an opportunity to earn a piece of the Giants' backfield.",
+        "title": "Najee Harris Gets First-Team Reps in Giants' Backfield",
+        "topic_id": "1398074897942523904",
+        "url": "https://www.rotoballer.com/player-news/najee-harris-gets-first-team-reps-in-giants-backfield/1916227"
+      },
+      "nfl_team": "NYG",
+      "player_id": "7528",
+      "player_name": "Najee Harris",
+      "position": "RB",
+      "published": 1787674631000,
+      "source": "rotoballer",
+      "source_key": "219381",
+      "story_id": "nfl|7528|rotoballer|219381|1787674631000",
+      "title": "Najee Harris Gets First-Team Reps in Giants' Backfield",
+      "url": "https://www.rotoballer.com/player-news/najee-harris-gets-first-team-reps-in-giants-backfield/1916227"
+    },
+    {
       "analysis": "McDaniel did not go into further detail on Mitchell's exact issue, but he continued to express confidence in the Chargers' other depth pieces in the backfield. \"I think the running back position is, we sustained a mild setback with Keaton, but realistically, that's a position that you're always wanting to have three, and I like what our young guys are doing to press into that group,\" McDaniel said. Mitchell's practice availability will now be something to monitor in Chargers camp for the rest of the week.",
       "description": "Mitchell sustained a mild setback, offensive coordinator Mike McDaniel  said on Monday.",
       "metadata": {
@@ -376,6 +620,26 @@
       "story_id": "nfl|9511|rotowire|634783|1787674599000",
       "title": "Keaton Mitchell - Suffers mild setback",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns second-year running back Quinshon Judkins (undisclosed) was back in team drills at training camp on Tuesday, according to Daniel Oyefusi of ESPN. Judkins was limited to individual drills on Monday in his first day back at practice following an undisclosed injury that he picked up last week. It remains to be seen if Judkins will be cleared to play in the team's preseason finale this Thursday against the New England Patriots, but even if he's not active, the 22-year-old Ohio State product should be just fine for the Week 1 season opener on Sunday, Sept. 13, against the Jacksonville Jaguars. The biggest thing holding back Judkins' fantasy value going into his second NFL season is the Browns' offense as a whole, which will be led by veteran quarterback Deshaun Watson, at least early on. After he was taken 36th overall in the second round last April, Judkins led the Browns with 827 rushing yards and seven touchdowns on 230 carries across 14 games as a rookie, adding 26 catches for 171 yards through the air. With Dylan Sampson stealing valuable pass-game targets, Judkins should be considered a low-end RB2/high-end RB3/flex in his second season.",
+      "metadata": {
+        "description": "Cleveland Browns second-year running back Quinshon Judkins (undisclosed) was back in team drills at training camp on Tuesday, according to Daniel Oyefusi of ESPN. Judkins was limited to individual drills on Monday in his first day back at practice following an undisclosed injury that he picked up last week. It remains to be seen if Judkins will be cleared to play in the team's preseason finale this Thursday against the New England Patriots, but even if he's not active, the 22-year-old Ohio State product should be just fine for the Week 1 season opener on Sunday, Sept. 13, against the Jacksonville Jaguars. The biggest thing holding back Judkins' fantasy value going into his second NFL season is the Browns' offense as a whole, which will be led by veteran quarterback Deshaun Watson, at least early on. After he was taken 36th overall in the second round last April, Judkins led the Browns with 827 rushing yards and seven touchdowns on 230 carries across 14 games as a rookie, adding 26 catches for 171 yards through the air. With Dylan Sampson stealing valuable pass-game targets, Judkins should be considered a low-end RB2/high-end RB3/flex in his second season.",
+        "title": "Quinshon Judkins Returns to Team Drills on Tuesday",
+        "topic_id": "1398073639785496576",
+        "url": "https://www.rotoballer.com/player-news/quinshon-judkins-returns-to-team-drills-on-tuesday/1916224"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12512",
+      "player_name": "Quinshon Judkins",
+      "position": "RB",
+      "published": 1787674509000,
+      "source": "rotoballer",
+      "source_key": "219380",
+      "story_id": "nfl|12512|rotoballer|219380|1787674509000",
+      "title": "Quinshon Judkins Returns to Team Drills on Tuesday",
+      "url": "https://www.rotoballer.com/player-news/quinshon-judkins-returns-to-team-drills-on-tuesday/1916224"
     },
     {
       "analysis": "Indianapolis' star tight end is in the process of recovering from a groin injury right now. It's possible that he will be sidelined at practice all week, but he is still expected to be a full go for Week 1, so fantasy managers shouldn't read too much into his status at this point.",
@@ -420,6 +684,26 @@
       "url": "https://www.fantasypros.com/nfl/news/604117/alec-pierce-ankle-will-hopefully.php"
     },
     {
+      "analysis": null,
+      "description": "Las Vegas Raiders head coach Klint Kubiak said on Tuesday that he is \"not going to get into injuries,\" but he also said that running back Ashton Jeanty (ankle) is \"on the mend,\" according to Vincent Bonsignore of The California Post. Jeanty caused a stir among the fantasy football community when he injured his right ankle in training camp practice on Sunday and could not put any weight on his leg. Fortunately, the Raiders have reported that the 22-year-old second-year back is dealing with more of a low-ankle sprain than a high-ankle sprain, and they are optimistic that he will be able to suit up for Week 1 against the Miami Dolphins in early September. Jeanty will not be playing in Thursday's preseason finale against the San Francisco 49ers, and we will be keeping a close eye on his status as Week 1 approaches. There is still a chance that he might be questionable to play against the Dolphins to kick off the season or be limited if he is active, but we should have a better idea on that in the coming weeks. In a worst-case scenario in which Jeanty does not play in Week 1, rookie Mike Washington Jr. could see most of the backfield touches for the Raiders. Despite Jeanty's ankle injury, the Boise State product should remain a firm RB2 target in upcoming fantasy football drafts.",
+      "metadata": {
+        "description": "Las Vegas Raiders head coach Klint Kubiak said on Tuesday that he is \"not going to get into injuries,\" but he also said that running back Ashton Jeanty (ankle) is \"on the mend,\" according to Vincent Bonsignore of The California Post. Jeanty caused a stir among the fantasy football community when he injured his right ankle in training camp practice on Sunday and could not put any weight on his leg. Fortunately, the Raiders have reported that the 22-year-old second-year back is dealing with more of a low-ankle sprain than a high-ankle sprain, and they are optimistic that he will be able to suit up for Week 1 against the Miami Dolphins in early September. Jeanty will not be playing in Thursday's preseason finale against the San Francisco 49ers, and we will be keeping a close eye on his status as Week 1 approaches. There is still a chance that he might be questionable to play against the Dolphins to kick off the season or be limited if he is active, but we should have a better idea on that in the coming weeks. In a worst-case scenario in which Jeanty does not play in Week 1, rookie Mike Washington Jr. could see most of the backfield touches for the Raiders. Despite Jeanty's ankle injury, the Boise State product should remain a firm RB2 target in upcoming fantasy football drafts.",
+        "title": "Klint Kubiak Says Ashton Jeanty is \"on the Mend\"",
+        "topic_id": "1398072381032955905",
+        "url": "https://www.rotoballer.com/player-news/klint-kubiak-says-ashton-jeanty-is-on-the-mend/1916211"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1787673916000,
+      "source": "rotoballer",
+      "source_key": "219379",
+      "story_id": "nfl|12527|rotoballer|219379|1787673916000",
+      "title": "Klint Kubiak Says Ashton Jeanty is \"on the Mend\"",
+      "url": "https://www.rotoballer.com/player-news/klint-kubiak-says-ashton-jeanty-is-on-the-mend/1916211"
+    },
+    {
       "analysis": "Thomas had a scare in Tuesday's joint practice, falling on his shoulder on a touchdown grab. Coen reiterated that holding Thomas out for the remainder of the practice period was the smart move. The mention of Cleveland suggests that the team won't risk any further preseason game action for Thomas as it gears up for the regular season.",
       "description": "Coach Liam Coeh said Tuesday that Thomas is \"alright\" after falling on his shoulder in practice, and the team will now focus on getting him ready for Week 1 against the Browns, Mia O'Brien of 1010 XL 92.5 FM Jacksonville reports.",
       "metadata": {
@@ -458,6 +742,26 @@
       "story_id": "nfl|11631|rotowire|634781|1787673310000",
       "title": "Brian Thomas - Shaken up in joint practice",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Because of all the time New York Jets rookie first-round tight end Kenyon Sadiq (hernia) has missed this summer after having hernia surgery, offensive coordinator Frank Reich admitted that the team will scale back the rookie's workload early on in 2026, according to Zack Rosenblatt of The Athletic. \"There's no doubt we'll scale it back. We'll have to work him in slowly,\" Reich said. The 16th overall pick from Oregon had surgery to fix a hernia in the spring and then suffered a setback that has not allowed him to join the mix in team drills during training camp. Fantasy managers who were expecting Sadiq to be fantasy relevant from Day 1 in redraft leagues this year might want to rethink their position. It is good news for second-year TE Mason Taylor, who should be the Jets' top pass-catching option at the position until Sadiq gets his legs under him and is trusted on offense more. Sadiq's athleticism and pass-catching abilities down the field make him extremely attractive in dynasty/keeper leagues, but fantasy managers who have him rostered may want to temper expectations, at least early on. RotoBaller has Sadiq ranked as the No. 27 fantasy TE for the upcoming season.",
+      "metadata": {
+        "description": "Because of all the time New York Jets rookie first-round tight end Kenyon Sadiq (hernia) has missed this summer after having hernia surgery, offensive coordinator Frank Reich admitted that the team will scale back the rookie's workload early on in 2026, according to Zack Rosenblatt of The Athletic. \"There's no doubt we'll scale it back. We'll have to work him in slowly,\" Reich said. The 16th overall pick from Oregon had surgery to fix a hernia in the spring and then suffered a setback that has not allowed him to join the mix in team drills during training camp. Fantasy managers who were expecting Sadiq to be fantasy relevant from Day 1 in redraft leagues this year might want to rethink their position. It is good news for second-year TE Mason Taylor, who should be the Jets' top pass-catching option at the position until Sadiq gets his legs under him and is trusted on offense more. Sadiq's athleticism and pass-catching abilities down the field make him extremely attractive in dynasty/keeper leagues, but fantasy managers who have him rostered may want to temper expectations, at least early on. RotoBaller has Sadiq ranked as the No. 27 fantasy TE for the upcoming season.",
+        "title": "Jets to \"Scale Back\" Kenyon Sadiq's Role",
+        "topic_id": "1398068605752520704",
+        "url": "https://www.rotoballer.com/player-news/jets-to-scale-back-kenyon-sadiqs-role/1916194"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13330",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "published": 1787673188000,
+      "source": "rotoballer",
+      "source_key": "219377",
+      "story_id": "nfl|13330|rotoballer|219377|1787673188000",
+      "title": "Jets to \"Scale Back\" Kenyon Sadiq's Role",
+      "url": "https://www.rotoballer.com/player-news/jets-to-scale-back-kenyon-sadiqs-role/1916194"
     },
     {
       "analysis": "Tampa Bay was missing their star wideout at practice on Tuesday. He's still recovering from a toe injury, and it remains unclear how much more time he will miss because of it. Fantasy managers should keep close tabs on his status to ensure that he'll be ready to play in time for Week 1.",
@@ -502,6 +806,26 @@
       "url": "https://www.fantasypros.com/nfl/news/604112/parker-washington-undisclosed-participating-practice-tuesday.php"
     },
     {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Chris Olave gave the team a scare near the end of Tuesday's practice, but head coach Kellen Moore believes he's \"all good.\" Katherine Terrell reported that Olave was slow to get up after attempting to catch a deep pass, then walked down the sideline under his own power with athletic trainers before leaving the session. Practice ended only a few plays later. Moore's update afterward takes much of the concern out of the initial scene. Olave is coming off the best season of his career, catching 100 passes for 1,163 yards and nine touchdowns in 16 games. Based on Moore's immediate assessment, Tuesday's exit appears to have been a minor scare rather than something that should significantly alter Olave's fantasy outlook.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Chris Olave gave the team a scare near the end of Tuesday's practice, but head coach Kellen Moore believes he's \"all good.\" Katherine Terrell reported that Olave was slow to get up after attempting to catch a deep pass, then walked down the sideline under his own power with athletic trainers before leaving the session. Practice ended only a few plays later. Moore's update afterward takes much of the concern out of the initial scene. Olave is coming off the best season of his career, catching 100 passes for 1,163 yards and nine touchdowns in 16 games. Based on Moore's immediate assessment, Tuesday's exit appears to have been a minor scare rather than something that should significantly alter Olave's fantasy outlook.",
+        "title": "Chris Olave Appears Fine After Late-Practice Injury Scare",
+        "topic_id": "1398067347197018112",
+        "url": "https://www.rotoballer.com/player-news/chris-olave-appears-fine-after-late-practice-scare/1916192"
+      },
+      "nfl_team": "NO",
+      "player_id": "8144",
+      "player_name": "Chris Olave",
+      "position": "WR",
+      "published": 1787672894000,
+      "source": "rotoballer",
+      "source_key": "219375",
+      "story_id": "nfl|8144|rotoballer|219375|1787672894000",
+      "title": "Chris Olave Appears Fine After Late-Practice Injury Scare",
+      "url": "https://www.rotoballer.com/player-news/chris-olave-appears-fine-after-late-practice-scare/1916192"
+    },
+    {
       "analysis": "Otton missed about a week of action for the Bucs, and it's unclear if he'll play in Friday's preseason finale against Jacksonville. Last season, Otton matched his career high with 59 catches across 16 regular-season games, turning them into 572 yards and one touchdown. He's expected to be the third or fourth option in Tampa Bay's passing attack in 2026.",
       "description": "Otton (undisclosed) returned to practice Tuesday, Rick Stroud of the Tampa Bay Times reports.",
       "metadata": {
@@ -520,6 +844,26 @@
       "story_id": "nfl|8111|rotowire|634779|1787672852000",
       "title": "Cade Otton - Back at practice",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions tight end Sam LaPorta (hip) returned to practice Tuesday, according to Richard Silva. LaPorta had been sidelined since last week after taking a hit to the hip that caused the issue to flare up. Head coach Dan Campbell said Thursday that Detroit felt good about LaPorta's long-term outlook but couldn't guarantee he would be ready for Week 1. Getting him back onto the field five days later is an encouraging development, though his level of participation Tuesday was not immediately clear. LaPorta was limited to nine games last season, catching 40 passes for 489 yards and three touchdowns. His return doesn't lock in his status for the opener, but it moves things in a much better direction after Detroit spent the end of last week resting him.",
+      "metadata": {
+        "description": "Detroit Lions tight end Sam LaPorta (hip) returned to practice Tuesday, according to Richard Silva. LaPorta had been sidelined since last week after taking a hit to the hip that caused the issue to flare up. Head coach Dan Campbell said Thursday that Detroit felt good about LaPorta's long-term outlook but couldn't guarantee he would be ready for Week 1. Getting him back onto the field five days later is an encouraging development, though his level of participation Tuesday was not immediately clear. LaPorta was limited to nine games last season, catching 40 passes for 489 yards and three touchdowns. His return doesn't lock in his status for the opener, but it moves things in a much better direction after Detroit spent the end of last week resting him.",
+        "title": "Sam LaPorta Resumes Work After Hip Issue",
+        "topic_id": "1398064830803390464",
+        "url": "https://www.rotoballer.com/player-news/sam-laporta-resumes-work-after-hip-issue/1916189"
+      },
+      "nfl_team": "DET",
+      "player_id": "10859",
+      "player_name": "Sam LaPorta",
+      "position": "TE",
+      "published": 1787672526000,
+      "source": "rotoballer",
+      "source_key": "219374",
+      "story_id": "nfl|10859|rotoballer|219374|1787672526000",
+      "title": "Sam LaPorta Resumes Work After Hip Issue",
+      "url": "https://www.rotoballer.com/player-news/sam-laporta-resumes-work-after-hip-issue/1916189"
     },
     {
       "analysis": "Allen saw some action earlier on in the preseason, but he is set to be sidelined for the team's final preseason game on Thursday night. He is fully healthy at this point and looks primed for another huge season from a fantasy perspective.",
@@ -604,6 +948,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Los Angeles Rams tight end Terrance Ferguson did not participate in Tuesday's practice, though he was doing workouts off to the side, according to Nate Atkins. Ferguson had been putting together a strong summer before the absence, including two red-zone touchdowns during last week's joint practice with New Orleans. The Rams have also been expanding what they ask him to do in the passing game and moving him around the formation. Ferguson flashed that playmaking ability on limited opportunities as a rookie, catching 11 passes for 231 yards and three touchdowns in 14 games. Six of those receptions went for at least 25 yards. There is no reason to speculate on what kept Ferguson out Tuesday based on the information available. For now, the important part is that he wasn't in team drills but remained active with workouts on the side.",
+      "metadata": {
+        "description": "Los Angeles Rams tight end Terrance Ferguson did not participate in Tuesday's practice, though he was doing workouts off to the side, according to Nate Atkins. Ferguson had been putting together a strong summer before the absence, including two red-zone touchdowns during last week's joint practice with New Orleans. The Rams have also been expanding what they ask him to do in the passing game and moving him around the formation. Ferguson flashed that playmaking ability on limited opportunities as a rookie, catching 11 passes for 231 yards and three touchdowns in 14 games. Six of those receptions went for at least 25 yards. There is no reason to speculate on what kept Ferguson out Tuesday based on the information available. For now, the important part is that he wasn't in team drills but remained active with workouts on the side.",
+        "title": "Terrance Ferguson Held Out of Practice, Works on Side",
+        "topic_id": "1398063572193443840",
+        "url": "https://www.rotoballer.com/player-news/terrance-ferguson-held-out-of-practice-works-on-side/1916180"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12487",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "published": 1787672055000,
+      "source": "rotoballer",
+      "source_key": "219373",
+      "story_id": "nfl|12487|rotoballer|219373|1787672055000",
+      "title": "Terrance Ferguson Held Out of Practice, Works on Side",
+      "url": "https://www.rotoballer.com/player-news/terrance-ferguson-held-out-of-practice-works-on-side/1916180"
+    },
+    {
       "analysis": "Steichen added that there have been no conversations about keeping Pierce on the PUP list at this time. Pierce continues to work his way back from the clean-up procedure on his ankle back in April. He has been progressing, and it sounds as though a return to practice is on the horizon, potentially even this week.",
       "description": "Pierce (ankle) will not practice Tuesday, but coach Shane Steichen said he's hopeful that the wideout will practice this week, Kevin Bowen of 107.5 The Fan Indianapolis reports.",
       "metadata": {
@@ -622,6 +986,46 @@
       "story_id": "nfl|8142|rotowire|634776|1787671817000",
       "title": "Alec Pierce - May practice this week",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Puka Nacua (groin) remained out of team practice Tuesday, according to Nate Atkins. Nacua was doing workouts off to the side, the same setup the Rams had for him Monday. He has now gone two weeks without participating in team drills since leaving the Aug. 11 joint practice with Dallas because of psoas soreness. Sean McVay initially expected Nacua back the following week, then shifted that expectation into this week as the Rams continued to take a cautious approach. Nacua is coming off a massive 2025 season, when he caught an NFL-leading 129 passes for 1,715 yards and 10 touchdowns in 16 games. Nothing from Tuesday's report points to a new setback, but the anticipated return to team work still hasn't happened. With Week 1 getting closer, his practice status remains worth watching.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Puka Nacua (groin) remained out of team practice Tuesday, according to Nate Atkins. Nacua was doing workouts off to the side, the same setup the Rams had for him Monday. He has now gone two weeks without participating in team drills since leaving the Aug. 11 joint practice with Dallas because of psoas soreness. Sean McVay initially expected Nacua back the following week, then shifted that expectation into this week as the Rams continued to take a cautious approach. Nacua is coming off a massive 2025 season, when he caught an NFL-leading 129 passes for 1,715 yards and 10 touchdowns in 16 games. Nothing from Tuesday's report points to a new setback, but the anticipated return to team work still hasn't happened. With Week 1 getting closer, his practice status remains worth watching.",
+        "title": "Puka Nacua's Return to Team Drills Still on Hold",
+        "topic_id": "1398061055267086336",
+        "url": "https://www.rotoballer.com/player-news/puka-nacuas-return-to-team-drills-still-on-hold/1916177"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1787671337000,
+      "source": "rotoballer",
+      "source_key": "219372",
+      "story_id": "nfl|9493|rotoballer|219372|1787671337000",
+      "title": "Puka Nacua's Return to Team Drills Still on Hold",
+      "url": "https://www.rotoballer.com/player-news/puka-nacuas-return-to-team-drills-still-on-hold/1916177"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver De'Zhaun Stribling has already spent August pushing his way up redraft boards, and another Mike Evans injury only adds to the rookie's case. Evans is not practicing Tuesday because of a groin injury after leaving Sunday's session early. Stribling has done more than benefit from injuries around him. The 33rd overall pick has caught 11 of 13 targets for 109 yards through two preseason games, including four receptions for 46 yards against the Chargers on Thursday. He also caught two touchdowns during last week's joint practice and has earned praise from Brock Purdy for his reliability and strong hands. Stribling has dealt with a shoulder issue of his own, but he returned Sunday in a non-contact jersey after sitting out Saturday. Ricky Pearsall (knee) is already out for the season, while Evans and Christian Kirk (calf) are now both dealing with injuries. Deebo Samuel Sr. remains part of a crowded target picture, so an immediate featured role isn't guaranteed. Still, Stribling has gone from WR75 in RotoBaller's July rankings to WR51 now. His redraft stock is clearly headed in the right direction.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver De'Zhaun Stribling has already spent August pushing his way up redraft boards, and another Mike Evans injury only adds to the rookie's case. Evans is not practicing Tuesday because of a groin injury after leaving Sunday's session early. Stribling has done more than benefit from injuries around him. The 33rd overall pick has caught 11 of 13 targets for 109 yards through two preseason games, including four receptions for 46 yards against the Chargers on Thursday. He also caught two touchdowns during last week's joint practice and has earned praise from Brock Purdy for his reliability and strong hands. Stribling has dealt with a shoulder issue of his own, but he returned Sunday in a non-contact jersey after sitting out Saturday. Ricky Pearsall (knee) is already out for the season, while Evans and Christian Kirk (calf) are now both dealing with injuries. Deebo Samuel Sr. remains part of a crowded target picture, so an immediate featured role isn't guaranteed. Still, Stribling has gone from WR75 in RotoBaller's July rankings to WR51 now. His redraft stock is clearly headed in the right direction.",
+        "title": "De'Zhaun Stribling's Redraft Stock Continues to Climb",
+        "topic_id": "1398058538361692160",
+        "url": "https://www.rotoballer.com/player-news/dezhaun-striblings-redraft-stock-continues-to-climb/1916171"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1787670854000,
+      "source": "rotoballer",
+      "source_key": "219371",
+      "story_id": "nfl|13417|rotoballer|219371|1787670854000",
+      "title": "De'Zhaun Stribling's Redraft Stock Continues to Climb",
+      "url": "https://www.rotoballer.com/player-news/dezhaun-striblings-redraft-stock-continues-to-climb/1916171"
     },
     {
       "analysis": null,

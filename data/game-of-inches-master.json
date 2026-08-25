@@ -22749,7 +22749,7 @@
       ],
       "first_name": "Chris",
       "full_name": "Chris Olave",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Olave",
       "nfl_team": "NO",
       "player_id": "8144",
@@ -23560,8 +23560,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-25T19:19:46Z",
-    "source_fingerprint": "e18f7e2c98172ba3d4a44b87fe87393d40025d1bf60a5e1299ec2b59542e6e63"
+    "last_changed_at": "2026-08-25T20:51:21Z",
+    "source_fingerprint": "8af20274a14aa4f1061e7e70185d37a3e442ec13b1d77592d7e7100bafc19fd1"
   },
   "teams": [
     {
