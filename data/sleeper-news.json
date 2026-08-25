@@ -1,20 +1,8 @@
 {
-  "last_checked_at": "2026-08-25T05:08:18Z",
+  "last_checked_at": "2026-08-25T07:32:50Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [
-    "nfl|10222|rotoballer|219334|1787618528000",
-    "nfl|11646|rotoballer|219332|1787617812000",
-    "nfl|13274|rotoballer|219331|1787617267000",
-    "nfl|13288|rotoballer|219326|1787613853000",
-    "nfl|2133|rotoballer|219330|1787615229000",
-    "nfl|4983|rotoballer|219337|1787619429000",
-    "nfl|5995|rotoballer|219325|1787613188000",
-    "nfl|7523|rotoballer|219333|1787618186000",
-    "nfl|7600|rotoballer|219327|1787614332000",
-    "nfl|8132|rotoballer|219336|1787618938000",
-    "nfl|8167|rotoballer|219335|1787616852000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -384,10 +372,10 @@
       "url": "https://www.rotoballer.com/player-news/james-conner-does-not-practice-on-monday/1915647"
     },
     {
-      "analysis": "Mims didn't play in Friday's preseason game against the Packers, but he was on the field Monday, with Stevens' report accompanied by a clip of the wideout making a nice catch during the session. The Broncos' unofficial depth chart lists Mims as a first-teamer along with top WRs Courtland Sutton and Jaylen Waddle, but in reality as Week 1 approaches, Troy Franklin and Pat Bryant are also firmly in the mix for snaps/targets that don't go to Sutton and Waddle.",
+      "analysis": "Mims didn't play in Friday's preseason game against the Packers, but he was on the field Monday, with Stevens' report accompanied by a clip of the wideout making a nice catch during the session. The Broncos' unofficial depth chart lists Mims as a first-teamer along with top WRs Courtland Sutton and Jaylen Waddle, but in reality as Week 1 approaches, Troy Franklin and Pat Bryant also are firmly in the mix for snaps/targets that don't go to Sutton and Waddle.",
       "description": "Mims (undisclosed) practiced Monday, Zac Stevens of TheDNVR.com reports.",
       "metadata": {
-        "analysis": "Mims didn't play in Friday's preseason game against the Packers, but he was on the field Monday, with Stevens' report accompanied by a clip of the wideout making a nice catch during the session. The Broncos' unofficial depth chart lists Mims as a first-teamer along with top WRs Courtland Sutton and Jaylen Waddle, but in reality as Week 1 approaches, Troy Franklin and Pat Bryant are also firmly in the mix for snaps/targets that don't go to Sutton and Waddle.",
+        "analysis": "Mims didn't play in Friday's preseason game against the Packers, but he was on the field Monday, with Stevens' report accompanied by a clip of the wideout making a nice catch during the session. The Broncos' unofficial depth chart lists Mims as a first-teamer along with top WRs Courtland Sutton and Jaylen Waddle, but in reality as Week 1 approaches, Troy Franklin and Pat Bryant also are firmly in the mix for snaps/targets that don't go to Sutton and Waddle.",
         "description": "Mims (undisclosed) practiced Monday, Zac Stevens of TheDNVR.com reports.",
         "title": "Marvin Mims - Practices Monday",
         "topic_id": "1397728873881276416"
@@ -485,11 +473,11 @@
       "url": "https://www.fantasypros.com/nfl/news/604027/malik-nabers-knee-could-be-ready-week-1.php"
     },
     {
-      "analysis": "Per the report, Johnson went down while blocking, and appeared visibly frustrated as he headed toward the locker room. Per Dan Duggan of The Athletic, coach John Harbaugh noted that the tight end collided with teammate Kayvon Thibodeaux, and at this stage he thinks that Johnson will be okay.",
-      "description": "Johnson left Monday's practice due to an unspecified issue, Dan Bentonof USA Today reports.",
+      "analysis": "Per the report, Johnson went down while blocking and appeared visibly frustrated as he headed toward the locker room. Per Dan Duggan of The Athletic, coach John Harbaugh noted that the tight end collided with teammate Kayvon Thibodeaux, and at this stage he thinks that Johnson will be okay.",
+      "description": "Johnson left Monday's practice due to an unspecified issue, Dan Benton of USA Today reports.",
       "metadata": {
-        "analysis": "Per the report, Johnson went down while blocking, and appeared visibly frustrated as he headed toward the locker room. Per Dan Duggan of The Athletic, coach John Harbaugh noted that the tight end collided with teammate Kayvon Thibodeaux, and at this stage he thinks that Johnson will be okay.",
-        "description": "Johnson left Monday's practice due to an unspecified issue, Dan Bentonof USA Today reports.",
+        "analysis": "Per the report, Johnson went down while blocking and appeared visibly frustrated as he headed toward the locker room. Per Dan Duggan of The Athletic, coach John Harbaugh noted that the tight end collided with teammate Kayvon Thibodeaux, and at this stage he thinks that Johnson will be okay.",
+        "description": "Johnson left Monday's practice due to an unspecified issue, Dan Benton of USA Today reports.",
         "title": "Theo Johnson - Exits Monday's practice",
         "topic_id": "1397720064769150976"
       },
@@ -666,10 +654,10 @@
       "url": null
     },
     {
-      "analysis": "Though he was generally impressive in both practices, Wicks turned in one highlight-reel-worthy rep during Thursday's session, when he easily shook one-on-one coverage from New England cornerback Carlton Davis at the line of scrimmage for what would have been a big gain, per Henry McKenna of FoxSports.com. Acquired from the Packers in April and immediately signed to a one-year, $12.5 million extension, Wicks has been repping with the first-team offense for most of his first camp with the Eagles while No. 1 wideout DeVonta Smith and rookie first-round pick Malachi Lemon have been slowed by hamstring injuries. Both Smith and Lemon are practicing again, but the time Lemon has missed along with his own strong performance could set the stage for Wicks to head into the regular season as the Eagles' No. 2 wideout.",
+      "analysis": "Though he was generally impressive in both practices, Wicks turned in one highlight-reel-worthy rep during Thursday's session, when he easily shook 1-on-1 coverage from New England cornerback Carlton Davis at the line of scrimmage for what would have been a big gain, per Henry McKenna of FoxSports.com. Acquired from the Packers in April and immediately signed to a one-year, $12.5 million extension, Wicks has been repping with the first-team offense for most of his first camp with the Eagles while No. 1 wideout DeVonta Smith and rookie first-round pick Makai Lemon have been slowed by hamstring injuries. Both Smith and Lemon are practicing again, but the time Lemon has missed along with his own strong performance could set the stage for Wicks to head into the regular season as the Eagles' No. 2 wideout.",
       "description": "Wicks stood out with his route running during the Eagles' joint practices with the Patriots last Wednesday and Thursday, Cayden Steele of NJ.com reports.",
       "metadata": {
-        "analysis": "Though he was generally impressive in both practices, Wicks turned in one highlight-reel-worthy rep during Thursday's session, when he easily shook one-on-one coverage from New England cornerback Carlton Davis at the line of scrimmage for what would have been a big gain, per Henry McKenna of FoxSports.com. Acquired from the Packers in April and immediately signed to a one-year, $12.5 million extension, Wicks has been repping with the first-team offense for most of his first camp with the Eagles while No. 1 wideout DeVonta Smith and rookie first-round pick Malachi Lemon have been slowed by hamstring injuries. Both Smith and Lemon are practicing again, but the time Lemon has missed along with his own strong performance could set the stage for Wicks to head into the regular season as the Eagles' No. 2 wideout.",
+        "analysis": "Though he was generally impressive in both practices, Wicks turned in one highlight-reel-worthy rep during Thursday's session, when he easily shook 1-on-1 coverage from New England cornerback Carlton Davis at the line of scrimmage for what would have been a big gain, per Henry McKenna of FoxSports.com. Acquired from the Packers in April and immediately signed to a one-year, $12.5 million extension, Wicks has been repping with the first-team offense for most of his first camp with the Eagles while No. 1 wideout DeVonta Smith and rookie first-round pick Makai Lemon have been slowed by hamstring injuries. Both Smith and Lemon are practicing again, but the time Lemon has missed along with his own strong performance could set the stage for Wicks to head into the regular season as the Eagles' No. 2 wideout.",
         "description": "Wicks stood out with his route running during the Eagles' joint practices with the Patriots last Wednesday and Thursday, Cayden Steele of NJ.com reports.",
         "title": "Dontayvion Wicks - Makes positive impression in joint practices",
         "topic_id": "1397679795667513344"
@@ -767,10 +755,10 @@
       "url": null
     },
     {
-      "analysis": "Signed to a two-year, $10 million deal in March, Rodriguez made a full recovery from offseason foot surgery in advance of training camp and has been listed as co-starter with Bhayshul Tuten on the Jaguars' unofficial depth chart. With both Rodriguez and Tuten sitting out Jacksonville's first two preseason contests, it's been difficult to gauge how the snaps might be divvied up between the two once the regular season gets underway. While Rodriguez has lived up to his billing in camp as a bruising runner between the tackles, Shipley relays that Tuten \"has done nothing to diminish the early-offseason hype.\" With that in mind, both players appear likely to have meaningful roles in the running game Week 1 versus the Browns, and the two could also see more involvement on passing downs if LeQuint Allen (undisclosed) isn't available. Shipley opines that Rodriguez is probably the Jaguars' best pass-blocking back other than Allen, though Rodriguez could play second fiddle to the shiftier Tuten when it comes to earning targets.",
+      "analysis": "Signed to a two-year, $10 million deal in March, Rodriguez made a full recovery from offseason foot surgery in advance of training camp and has been listed as co-starter with Bhayshul Tuten on the Jaguars' unofficial depth chart. With both Rodriguez and Tuten sitting out Jacksonville's first two preseason contests, it's been difficult to gauge how the snaps might be divvied up between the two once the regular season gets underway. While Rodriguez has lived up to his billing in camp as a bruising runner between the tackles, Shipley relays that Tuten \"has done nothing to diminish the early-offseason hype.\" With that in mind, both players appear likely to have meaningful roles in the running game Week 1 versus the Browns, and the two also could see more involvement on passing downs if LeQuint Allen (undisclosed) isn't available. Shipley opines that Rodriguez is probably the Jaguars' best pass-blocking back other than Allen, though Rodriguez could play second fiddle to the shiftier Tuten when it comes to earning targets.",
       "description": "Rodriguez has drawn positive reviews for his power-running style during training camp, John Shipley of SI.com reports.",
       "metadata": {
-        "analysis": "Signed to a two-year, $10 million deal in March, Rodriguez made a full recovery from offseason foot surgery in advance of training camp and has been listed as co-starter with Bhayshul Tuten on the Jaguars' unofficial depth chart. With both Rodriguez and Tuten sitting out Jacksonville's first two preseason contests, it's been difficult to gauge how the snaps might be divvied up between the two once the regular season gets underway. While Rodriguez has lived up to his billing in camp as a bruising runner between the tackles, Shipley relays that Tuten \"has done nothing to diminish the early-offseason hype.\" With that in mind, both players appear likely to have meaningful roles in the running game Week 1 versus the Browns, and the two could also see more involvement on passing downs if LeQuint Allen (undisclosed) isn't available. Shipley opines that Rodriguez is probably the Jaguars' best pass-blocking back other than Allen, though Rodriguez could play second fiddle to the shiftier Tuten when it comes to earning targets.",
+        "analysis": "Signed to a two-year, $10 million deal in March, Rodriguez made a full recovery from offseason foot surgery in advance of training camp and has been listed as co-starter with Bhayshul Tuten on the Jaguars' unofficial depth chart. With both Rodriguez and Tuten sitting out Jacksonville's first two preseason contests, it's been difficult to gauge how the snaps might be divvied up between the two once the regular season gets underway. While Rodriguez has lived up to his billing in camp as a bruising runner between the tackles, Shipley relays that Tuten \"has done nothing to diminish the early-offseason hype.\" With that in mind, both players appear likely to have meaningful roles in the running game Week 1 versus the Browns, and the two also could see more involvement on passing downs if LeQuint Allen (undisclosed) isn't available. Shipley opines that Rodriguez is probably the Jaguars' best pass-blocking back other than Allen, though Rodriguez could play second fiddle to the shiftier Tuten when it comes to earning targets.",
         "description": "Rodriguez has drawn positive reviews for his power-running style during training camp, John Shipley of SI.com reports.",
         "title": "Chris Rodriguez - Lauded in camp for power running",
         "topic_id": "1397673503024537600"
@@ -949,10 +937,10 @@
       "url": null
     },
     {
-      "analysis": "The rookie has been hampered by a hamstring issue for much of camp but is starting to get on track as the season approaches. Lemon practiced in limited fashion last week and has upgraded to full participation as of Monday. The rookie still has to play catch-up a bit with the lost time during camp, but a fully healthy remainder of the offseason will put Lemon in a good spot come Week 1.",
+      "analysis": "The rookie has been hampered by a hamstring issue for much of camp but is starting to get on track as the season approaches. Lemon practiced in a limited fashion last week and has upgraded to full participation as of Monday. The rookie still has to play catch-up a bit with the lost time during camp, but a fully healthy remainder of the offseason will put Lemon in a good spot come Week 1.",
       "description": "Lemon (hamstring) was a full participant in Monday's practice, EJ Smith of The PHLY Sports reports.",
       "metadata": {
-        "analysis": "The rookie has been hampered by a hamstring issue for much of camp but is starting to get on track as the season approaches. Lemon practiced in limited fashion last week and has upgraded to full participation as of Monday. The rookie still has to play catch-up a bit with the lost time during camp, but a fully healthy remainder of the offseason will put Lemon in a good spot come Week 1.",
+        "analysis": "The rookie has been hampered by a hamstring issue for much of camp but is starting to get on track as the season approaches. Lemon practiced in a limited fashion last week and has upgraded to full participation as of Monday. The rookie still has to play catch-up a bit with the lost time during camp, but a fully healthy remainder of the offseason will put Lemon in a good spot come Week 1.",
         "description": "Lemon (hamstring) was a full participant in Monday's practice, EJ Smith of The PHLY Sports reports.",
         "title": "Makai Lemon - Practices in full Monday",
         "topic_id": "1397662178227556352"
@@ -1050,12 +1038,12 @@
       "url": null
     },
     {
-      "analysis": "Hubbard logged a full practice Monday after missing time with a hamstring injury, which suddenly puts Carolina's backfield rotation back in flux. Drafters had been aggressively moving Brooks up the ADP all summer, and that movement took another leap after Hubbard was labeled week-to-week with a hamstring issue on Aug. 13. Now, it appears that it will be a timeshare in the Carolina backfield, at least to begin the season. The caveat, of course, will be both backs remaining healthy by the time the season kicks off.",
+      "analysis": "Hubbard logged a full practice Monday after missing time with a hamstring injury, which suddenly puts Carolina's backfield rotation back in flux. Drafters had been aggressively moving Brooks up the ADP all summer, and that movement took another leap after Hubbard was labeled week-to-week with a hamstring issue Aug. 13. Now, it appears that it will be a timeshare in the Carolina backfield, at least to begin the season. The caveat, of course, will be both backs remaining healthy by the time the season kicks off.",
       "description": "Coach Dave Canales told reporters Monday that the Panthers will go with a committee Week 1 with Brooks and Chuba Hubbard (hamstring), provided that Hubbard is healthy, per Joe Person of the Athletic.",
       "metadata": {
-        "analysis": "Hubbard logged a full practice Monday after missing time with a hamstring injury, which suddenly puts Carolina's backfield rotation back in flux. Drafters had been aggressively moving Brooks up the ADP all summer, and that movement took another leap after Hubbard was labeled week-to-week with a hamstring issue on Aug. 13. Now, it appears that it will be a timeshare in the Carolina backfield, at least to begin the season. The caveat, of course, will be both backs remaining healthy by the time the season kicks off.",
+        "analysis": "Hubbard logged a full practice Monday after missing time with a hamstring injury, which suddenly puts Carolina's backfield rotation back in flux. Drafters had been aggressively moving Brooks up the ADP all summer, and that movement took another leap after Hubbard was labeled week-to-week with a hamstring issue Aug. 13. Now, it appears that it will be a timeshare in the Carolina backfield, at least to begin the season. The caveat, of course, will be both backs remaining healthy by the time the season kicks off.",
         "description": "Coach Dave Canales told reporters Monday that the Panthers will go with a committee Week 1 with Brooks and Chuba Hubbard (hamstring), provided that Hubbard is healthy, per Joe Person of the Athletic.",
-        "title": "Jonathon Brooks - Possible committee with Hubbard's return",
+        "title": "Jonathon Brooks - Possible committee with Hubbard",
         "topic_id": "1397655886066946048"
       },
       "nfl_team": "CAR",
@@ -1066,7 +1054,7 @@
       "source": "rotowire",
       "source_key": "634654",
       "story_id": "nfl|11583|rotowire|634654|1787589309000",
-      "title": "Jonathon Brooks - Possible committee with Hubbard's return",
+      "title": "Jonathon Brooks - Possible committee with Hubbard",
       "url": null
     },
     {
@@ -1135,7 +1123,7 @@
       "metadata": {
         "analysis": "Though his two receptions tied for the team lead and his 24 receiving yards ranked second, Gadsden's usage in the Chargers' second preseason game probably holds greater importance than his statistical output. The second-year tight end didn't log any snaps on either of the Chargers' first two possessions of the contest, with both Charlie Kolar and David Njoku playing ahead of him before being shut down for the rest of the night. Given that Kolar and Njoku were both rested the week prior while Gadsden saw snaps with the backups in the Chargers' 27-7 win over the Texans in the preseason opener, Gadsden could be trending toward a role reduction in new offensive coordinator Mike McDaniel's scheme. Since he still profiles as the Chargers' top pass-catching option at the position, Gadsden might be utilized ahead of Njoku or Kolar on third downs or hurry-up scenarios, but that sort of role could make his production highly volatile week to week and heavily dependent on game script.",
         "description": "Gadsden recorded two catches for 24 yards on three targets during Thursday's 41-17 preseason loss to the 49ers.",
-        "title": "Oronde Gadsden - Plays behind Kolar, Njoku in preseason game",
+        "title": "Oronde Gadsden - Plays behind Kolar, Njoku in preseason",
         "topic_id": "1397648334973325312"
       },
       "nfl_team": "LAC",
@@ -1146,7 +1134,7 @@
       "source": "rotowire",
       "source_key": "634650",
       "story_id": "nfl|12493|rotowire|634650|1787587714000",
-      "title": "Oronde Gadsden - Plays behind Kolar, Njoku in preseason game",
+      "title": "Oronde Gadsden - Plays behind Kolar, Njoku in preseason",
       "url": null
     },
     {
