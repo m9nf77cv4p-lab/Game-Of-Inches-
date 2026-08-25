@@ -2,36 +2,39 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **985**
-- Newly captured: **20**
+- Stored stories: **988**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Justin Herbert** — Justin Herbert, starters will play Thursday (2026-08-25T20:20:41.420000Z)
+- **NEW — Quinshon Judkins** — Quinshon Judkins returns to team drills (2026-08-25T21:45:41.998000Z)
+  - Judkins missed two practices last week and was limited to individual work on Monday. He was back full-go on Tuesday. 
+  - Source: https://www.fantasypros.com/nfl/news/604176/quinshon-judkins-returns-to-team-drills.php
+- **Justin Herbert** — Justin Herbert, starters will play Thursday (2026-08-25T20:20:41.420000Z)
   - HC Jim Harbaugh told reporters that Herbert and most of the team's starters are going to play in their final preseason game on Thursday night, with the exception of a few veterans. It remains unlikely that the starting unit will see more than a quarter or two of action, however.
   - Source: https://www.fantasypros.com/nfl/news/604159/justin-herbert-starters-will-play-thursday.php
-- **NEW — Ja'Marr Chase** — Ja'Marr Chase - Says he could play through knee injury (2026-08-25T20:15:59Z)
+- **Ja'Marr Chase** — Ja'Marr Chase - Says he could play through knee injury (2026-08-25T20:15:59Z)
   - Chase has spent Tuesday afternoon downplaying his hyperextended knee, so this seems like it will be a non-issue moving forward after he came down awkwardly at the end of practice. The star wide receiver is a cinch top-five fantasy pick as Joe Burrow's alpha wideout.
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson (ankle) not practicing Tuesday (2026-08-25T20:10:41.415000Z)
+- **TreVeyon Henderson** — TreVeyon Henderson (ankle) not practicing Tuesday (2026-08-25T20:10:41.415000Z)
   - Henderson is expected to be a non-participant at New England's practice on Tuesday due to the ankle injury that he suffered on Monday. It's not expected to be a serious issue, but this is a situation worth monitoring for fantasy managers over the next couple of weeks.
   - Source: https://www.fantasypros.com/nfl/news/604155/treveyon-henderson-ankle-not-practicing-tuesday.php
-- **NEW — Josh Downs** — Josh Downs (undisclosed) won't practice Tuesday (2026-08-25T20:10:41.393000Z)
+- **Josh Downs** — Josh Downs (undisclosed) won't practice Tuesday (2026-08-25T20:10:41.393000Z)
   - Downs is one of a few Colts players who will miss Tuesday's practice due to injury. His issue is unspecified at this point, but unless he continues to miss more time beyond this practice, fantasy managers shouldn't have much concern for his Week 1 availability.
   - Source: https://www.fantasypros.com/nfl/news/604157/josh-downs-undisclosed-wont-practice-tuesday.php
-- **NEW — Ja'Marr Chase** — Ja'Marr Chase (knee hyperextension) appears to avoid major injury (2026-08-25T20:00:41.548000Z)
+- **Ja'Marr Chase** — Ja'Marr Chase (knee hyperextension) appears to avoid major injury (2026-08-25T20:00:41.548000Z)
   - Chase seems to have dodged a bullet after he exited Tuesday's practice with a knee injury. The superstar wide receiver said on ESPN Radio that he is "good," and he did not require extensive medical attention after his injury. While he is likely in the clear, this is something to keep tabs on in the coming days.
   - Source: https://www.fantasypros.com/nfl/news/604147/jamarr-chase-knee-hyperextension-appears-to-avoid-major-injury.php
-- **NEW — Ja'Marr Chase** — Ja'Marr Chase - Downplays knee injury (2026-08-25T19:53:17Z)
+- **Ja'Marr Chase** — Ja'Marr Chase - Downplays knee injury (2026-08-25T19:53:17Z)
   - Chase came up limping at the tail end of Tuesday's session when he jumped for a deep ball and landed awkwardly. He immediately left the field and was tended to by the training staff before shooing them away and remaining on the sidelines for the remainder of practice. It sounds like Chase will be fine well in time for the Bengals' regular-season opener in a little less than three weeks.
-- **NEW — Chris Olave** — Chris Olave slow to get up Tuesday at practice (2026-08-25T19:45:41.223000Z)
+- **Chris Olave** — Chris Olave slow to get up Tuesday at practice (2026-08-25T19:45:41.223000Z)
   - It sounds like Olave should be fine. He shouldn't suffer any setbacks because of this unless the staff is hiding details. Draft Olave with confidence as the WR1 in an up and coming Saints offense.
   - Source: https://www.fantasypros.com/nfl/news/604135/chris-olave-slow-to-get-up-tuesday-practice.php
-- **NEW — Chris Olave** — Chris Olave - Exits practice early Tuesday (2026-08-25T19:40:48Z)
+- **Chris Olave** — Chris Olave - Exits practice early Tuesday (2026-08-25T19:40:48Z)
   - According to coach Kellen Moore, Olave got the wind knocked out of him, and the receiver is expected to be fine after landing on his back during drills, Nick Underhill of NewOrleans.Football reports. Olave left practice last week with a similar issue. With Jordyn Tyson (hamstring) expected to miss time to begin the 2026 season, the Saints can't afford to lose Olave following his career year in 2025.
-- **NEW — Sam LaPorta** — Sam LaPorta (hip) returns to practice Tuesday (2026-08-25T19:20:44.307000Z)
+- **Sam LaPorta** — Sam LaPorta (hip) returns to practice Tuesday (2026-08-25T19:20:44.307000Z)
   - Laporta's hip injury has made his status for Week 1 murky, but his returning to practice this early is a good sign. The tight end will likely be limited as he builds back up, but he could be in line to start the season barring any setbacks.
   - Source: https://www.fantasypros.com/nfl/news/604132/sam-laporta-hip-returns-to-practice-tuesday.php
-- **NEW — Kenyon Sadiq** — Kenyon Sadiq - Unlikely to have big Week 1 role (2026-08-25T19:20:29Z)
+- **Kenyon Sadiq** — Kenyon Sadiq - Unlikely to have big Week 1 role (2026-08-25T19:20:29Z)
   - Sadiq has barely practiced with the team since being selected with the 16th overall pick in the 2026 Draft. He underwent hernia surgery in the spring and then suffered a setback that has limited him to side work throughout training camp and the preseason. Mason Taylor has been a standout with the first-team offense and figures to open the season as the clear TE1 for the Jets.
 - **Ja'Marr Chase** — Ja'Marr Chase (knee) leaves Tuesday's practice (2026-08-25T19:15:40.697000Z)
   - Chase came down awkwardly on his left knee during a jump-ball attempt and hobbled off to the sideline. The wideout did not need a cart to be brought out, which is a good sign, but this is definitely a situation to monitor.
@@ -62,19 +65,23 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Harris has been with the organization for only one week, but the torn Achilles he suffered Week 3 of last season hasn't stopped him from practicing since joining New York, and he's now in contention for the direct backup role to Skattebo. The Giants likely will want to see all three of Tracy, Harris and Singletary in their final preseason game Friday against the Jets to solidify the order behind Skattebo and also who among them may be a candidate to get cut.
 - **Kenneth Walker** — Kenneth Walker - Dealing with foot injury (2026-08-25T17:28:51Z)
   - Walker has avoided the injury bug since joining the Chiefs over the offseason, but he has picked up a foot issue with just a few weeks to go before the regular season. The extent of the injury is not yet known, but his status will be updated again when more details are released. Emari Demercado and Emmett Johnson are in line for added work should Walker miss any further time.
+- **NEW — Brandon Aiyuk** — Brandon Aiyuk Remains Estranged from 49ers (2026-08-25T17:27:10Z)
+  - Source: https://www.rotoballer.com/player-news/brandon-aiyuk-remains-estranged-from-49ers/1916278
+- **NEW — Kenneth Walker** — Kenneth Walker Walking Around Fine at Practice (2026-08-25T17:22:17Z)
+  - Source: https://www.rotoballer.com/player-news/kenneth-walker-walking-around-fine-at-practice/1916271
 - **Anthony Richardson** — Anthony Richardson - Will start preseason finale (2026-08-25T16:56:48Z)
   - Indianapolis will give Richardson the nod for the preseason finale after Riley Leonard handled the bulk of the work in preseason Week 2. Richardson was relatively sharp but still had turnover issues in the preseason opener before getting minimal work the following week. Indianapolis' battle for the No.2 quarterback spot still seems undecided as the preseason nears its end.
 - **Cam Skattebo** — Cam Skattebo - Listed atop unofficial depth chart (2026-08-25T16:46:05Z)
   - Skattebo seems to have pulled ahead from the pack as the Giants get their plans in place for the final preseason game. The Giants had previously listed Skattebo as the co-starter with Tyrone Tracy earlier in camp. However, now Skattebo sits unchallenged atop the unofficial depth chart while Tracy, Najee Harris and Devin Singletary are on the next line.
 - **Justin Herbert** — Justin Herbert - Will play in preseason finale (2026-08-25T16:43:08Z)
   - The Chargers plan to get their starters one more dose of game action before the season gets underway. Other than Derwin James and Khalil Mack, the starters will be out there for a short spell between 6 and 8 plays. After that final tuneup, Herbert and the Chargers will get ready for the season opener against the Cardinals.
-- **NEW — Josh Downs** — Josh Downs Misses Practice With Undisclosed Injury (2026-08-25T16:28:16Z)
+- **Josh Downs** — Josh Downs Misses Practice With Undisclosed Injury (2026-08-25T16:28:16Z)
   - Source: https://www.rotoballer.com/player-news/josh-downs-misses-practice-with-undisclosed-injury/1916241
-- **NEW — Najee Harris** — Najee Harris Gets First-Team Reps in Giants' Backfield (2026-08-25T16:17:11Z)
+- **Najee Harris** — Najee Harris Gets First-Team Reps in Giants' Backfield (2026-08-25T16:17:11Z)
   - Source: https://www.rotoballer.com/player-news/najee-harris-gets-first-team-reps-in-giants-backfield/1916227
 - **Keaton Mitchell** — Keaton Mitchell - Suffers mild setback (2026-08-25T16:16:39Z)
   - McDaniel did not go into further detail on Mitchell's exact issue, but he continued to express confidence in the Chargers' other depth pieces in the backfield. "I think the running back position is, we sustained a mild setback with Keaton, but realistically, that's a position that you're always wanting to have three, and I like what our young guys are doing to press into that group," McDaniel said. Mitchell's practice availability will now be something to monitor in Chargers camp for the rest of the week.
-- **NEW — Quinshon Judkins** — Quinshon Judkins Returns to Team Drills on Tuesday (2026-08-25T16:15:09Z)
+- **Quinshon Judkins** — Quinshon Judkins Returns to Team Drills on Tuesday (2026-08-25T16:15:09Z)
   - Source: https://www.rotoballer.com/player-news/quinshon-judkins-returns-to-team-drills-on-tuesday/1916224
 - **Tyler Warren** — Tyler Warren (groin) may miss practice this week (2026-08-25T16:05:49.157000Z)
   - Indianapolis' star tight end is in the process of recovering from a groin injury right now. It's possible that he will be sidelined at practice all week, but he is still expected to be a full go for Week 1, so fantasy managers shouldn't read too much into his status at this point.
@@ -82,13 +89,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Alec Pierce** — Alec Pierce (ankle) will 'hopefully' practice this week (2026-08-25T16:05:49.143000Z)
   - Pierce has been sidelined for the entire preseason due to a nagging ankle injury  that he is recovering from. He seems to be closing in on a return, however, as he may be able to return to practice later this week. He will need some time to get fully up to speed before he pays off in fantasy, however, so fantasy managers should pay close attention to all updates about his health moving forward.
   - Source: https://www.fantasypros.com/nfl/news/604117/alec-pierce-ankle-will-hopefully.php
-- **NEW — Ashton Jeanty** — Klint Kubiak Says Ashton Jeanty is "on the Mend" (2026-08-25T16:05:16Z)
+- **Ashton Jeanty** — Klint Kubiak Says Ashton Jeanty is "on the Mend" (2026-08-25T16:05:16Z)
   - Source: https://www.rotoballer.com/player-news/klint-kubiak-says-ashton-jeanty-is-on-the-mend/1916211
 - **Brian Thomas** — Brian Thomas - Should be fine after shoulder scare (2026-08-25T16:05:01Z)
   - Thomas had a scare in Tuesday's joint practice, falling on his shoulder on a touchdown grab. Coen reiterated that holding Thomas out for the remainder of the practice period was the smart move. The mention of Cleveland suggests that the team won't risk any further preseason game action for Thomas as it gears up for the regular season.
 - **Brian Thomas** — Brian Thomas - Shaken up in joint practice (2026-08-25T15:55:10Z)
   - The situation is still unfolding, and it's possible that Thomas will return to Tuesday's session. However, Thomas was favoring his shoulder following the aforementioned touchdown grab. There figures to be an update after the Jaguars wrap up practice.
-- **NEW — Kenyon Sadiq** — Jets to "Scale Back" Kenyon Sadiq's Role (2026-08-25T15:53:08Z)
+- **Kenyon Sadiq** — Jets to "Scale Back" Kenyon Sadiq's Role (2026-08-25T15:53:08Z)
   - Source: https://www.rotoballer.com/player-news/jets-to-scale-back-kenyon-sadiqs-role/1916194
 - **Emeka Egbuka** — Emeka Egbuka (toe) not practicing Tuesday (2026-08-25T15:50:49.378000Z)
   - Tampa Bay was missing their star wideout at practice on Tuesday. He's still recovering from a toe injury, and it remains unclear how much more time he will miss because of it. Fantasy managers should keep close tabs on his status to ensure that he'll be ready to play in time for Week 1.
@@ -96,11 +103,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Parker Washington** — Parker Washington (undisclosed) participating in practice Tuesday (2026-08-25T15:50:49.363000Z)
   - Washington has been battling an undisclosed injury of some kind for a little while now, but he was back and participating at practice on Tuesday. That's a good sign that he is close to full health, especially considering that it was a joint practice with the Buccaneers. He seems to be fully on track to play in Week 1 and remains an intriguing late-round dart throw if healthy.
   - Source: https://www.fantasypros.com/nfl/news/604112/parker-washington-undisclosed-participating-practice-tuesday.php
-- **NEW — Chris Olave** — Chris Olave Appears Fine After Late-Practice Injury Scare (2026-08-25T15:48:14Z)
+- **Chris Olave** — Chris Olave Appears Fine After Late-Practice Injury Scare (2026-08-25T15:48:14Z)
   - Source: https://www.rotoballer.com/player-news/chris-olave-appears-fine-after-late-practice-scare/1916192
 - **Cade Otton** — Cade Otton - Back at practice (2026-08-25T15:47:32Z)
   - Otton missed about a week of action for the Bucs, and it's unclear if he'll play in Friday's preseason finale against Jacksonville. Last season, Otton matched his career high with 59 catches across 16 regular-season games, turning them into 572 yards and one touchdown. He's expected to be the third or fourth option in Tampa Bay's passing attack in 2026.
-- **NEW — Sam LaPorta** — Sam LaPorta Resumes Work After Hip Issue (2026-08-25T15:42:06Z)
+- **Sam LaPorta** — Sam LaPorta Resumes Work After Hip Issue (2026-08-25T15:42:06Z)
   - Source: https://www.rotoballer.com/player-news/sam-laporta-resumes-work-after-hip-issue/1916189
 - **Josh Allen** — Josh Allen won't play Thursday (2026-08-25T15:40:49.150000Z)
   - Allen saw some action earlier on in the preseason, but he is set to be sidelined for the team's final preseason game on Thursday night. He is fully healthy at this point and looks primed for another huge season from a fantasy perspective.
@@ -112,13 +119,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - "We're gonna be pretty smart with Tyler [Warren] this week," said coach Shane Steichen on Tuesday. Warren, who suffered a strained abductor last week in joint practice, is being brought along cautiously and may continue to miss practice with the intent of having him ready to go Week 1. Even if Warren is unable to practice this week or play in the preseason finale, there is still time for the promising second-year tight end to be ready to go without missing regular-season games.
 - **TreVeyon Henderson** — TreVeyon Henderson - Dealing with minor ankle injury (2026-08-25T15:34:34Z)
   - Henderson is "walking and moving fine," according to Price, after the second-year running back was dinged up in Monday's practice when he slipped on the turf. Henderson was already expected to rest for the preseason finale. He may not practice the remainder of the week, but it sounds like Henderson has a good chance of suiting up for the Patriots' regular-season opener against Seahawks on Wednesday, Sept. 9.
-- **NEW — Terrance Ferguson** — Terrance Ferguson Held Out of Practice, Works on Side (2026-08-25T15:34:15Z)
+- **Terrance Ferguson** — Terrance Ferguson Held Out of Practice, Works on Side (2026-08-25T15:34:15Z)
   - Source: https://www.rotoballer.com/player-news/terrance-ferguson-held-out-of-practice-works-on-side/1916180
 - **Alec Pierce** — Alec Pierce - May practice this week (2026-08-25T15:30:17Z)
   - Steichen added that there have been no conversations about keeping Pierce on the PUP list at this time. Pierce continues to work his way back from the clean-up procedure on his ankle back in April. He has been progressing, and it sounds as though a return to practice is on the horizon, potentially even this week.
-- **NEW — Puka Nacua** — Puka Nacua's Return to Team Drills Still on Hold (2026-08-25T15:22:17Z)
+- **Puka Nacua** — Puka Nacua's Return to Team Drills Still on Hold (2026-08-25T15:22:17Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacuas-return-to-team-drills-still-on-hold/1916177
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling's Redraft Stock Continues to Climb (2026-08-25T15:14:14Z)
+- **De'Zhaun Stribling** — De'Zhaun Stribling's Redraft Stock Continues to Climb (2026-08-25T15:14:14Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-striblings-redraft-stock-continues-to-climb/1916171
 - **Rhamondre Stevenson** — Rhamondre Stevenson Gaining Ground as a Redraft Target (2026-08-25T15:05:15Z)
   - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-gaining-ground-as-a-redraft-target/1916166
@@ -218,9 +225,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Simpson worked behind Bennett in Saturday's preseason win over New Orleans and did fine, completing eight of 12 passes for 73 yards while rushing three times for 10 yards. Meanwhile, Bennett shined in the contest, connecting on 19 of 31 pass attempts for 181 yards and adding two rushing touchdowns. All signs to this point have hinted at Bennett opening the regular season as the Rams' top backup behind Stafford, but McVay said Monday that he's "taking things a day at a time" in terms of making that decision. Still, McVay added that Bennett saw more second-team reps than Simpson on Monday and indicated that Simpson will "definitely" play in the team's preseason finale Thursday versus the Chargers while not committing to Bennett's participation, which could both be signs that the scale is tilting in Bennett's favor for the regular-season QB2 job.
 - **Pat Freiermuth** — Pat Freiermuth Gearing Up for Bounce-Back 2026 Season (2026-08-24T23:32:12Z)
   - Source: https://www.rotoballer.com/player-news/pat-freiermuth-gearing-up-for-bounce-back-2026-season/1915692
-- **Nicholas Singleton** — Nicholas Singleton Expected at Titans' Practice on Tuesday (2026-08-24T23:24:13Z)
-  - Source: https://www.rotoballer.com/player-news/nicholas-singleton-expected-at-titans-practice-on-tuesday/1915688
-- **James Conner** — James Conner - DNP on Monday (2026-08-24T23:17:12Z)
-  - Conner hasn't played in any of the Cardinals' three preseason games so far and also hasn't been seen for the last handful of practices. He's dealing with lingering issues related to the foot surgery he underwent last fall and ended his season after Week 3. With Trey Benson (knee) getting waived/injured Monday, Conner is the top running back behind the duo of rookie third overall pick Jeremiyah Love (ankle) and Tyler Allgeier. Until Conner gets back on the field, though, Bam Knight is the team's likely No. 3 RB.
-- **Carson Beck** — Carson Beck - Remains limited at practice (2026-08-24T23:14:56Z)
-  - Beck fared well in the Hall of Fame Game against the Panthers, completing 15 of 19 passes for 188 yards, one touchdown and no interceptions. However, the rookie third-round pick came out of that contest with a rib injury that has capped his practice reps in the meantime and otherwise sidelined him for the Cardinals' next two exhibitions. Beck thus has one more chance for preseason action Friday at Green Bay before likely being relegated to the team's No. 3 QB role behind Jacoby Brissett and Gardner Minshew to begin his career.

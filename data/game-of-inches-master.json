@@ -19703,7 +19703,7 @@
       ],
       "first_name": "Trey",
       "full_name": "Trey Benson",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "last_name": "Benson",
       "nfl_team": null,
       "player_id": "11589",
@@ -23560,8 +23560,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-25T20:51:21Z",
-    "source_fingerprint": "8af20274a14aa4f1061e7e70185d37a3e442ec13b1d77592d7e7100bafc19fd1"
+    "last_changed_at": "2026-08-25T21:56:07Z",
+    "source_fingerprint": "f18361fee32311d706522d2e9c862cb51e8f49800f06e89a9d9ec942b160a060"
   },
   "teams": [
     {

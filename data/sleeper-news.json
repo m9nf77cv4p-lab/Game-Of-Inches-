@@ -1,28 +1,11 @@
 {
-  "last_checked_at": "2026-08-25T20:51:23Z",
+  "last_checked_at": "2026-08-25T21:56:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|10859|fantasy_pros|604132|1787685644307",
-    "nfl|10859|rotoballer|219374|1787672526000",
-    "nfl|12487|rotoballer|219373|1787672055000",
-    "nfl|12512|rotoballer|219380|1787674509000",
-    "nfl|12527|rotoballer|219379|1787673916000",
-    "nfl|12529|fantasy_pros|604155|1787688641415",
-    "nfl|13330|rotoballer|219377|1787673188000",
-    "nfl|13330|rotowire|634804|1787685629000",
-    "nfl|13417|rotoballer|219371|1787670854000",
-    "nfl|6797|fantasy_pros|604159|1787689241420",
-    "nfl|7528|rotoballer|219381|1787674631000",
-    "nfl|7564|fantasy_pros|604147|1787688041548",
-    "nfl|7564|rotowire|634806|1787687597000",
-    "nfl|7564|rotowire|634807|1787688959000",
-    "nfl|8144|fantasy_pros|604135|1787687141223",
-    "nfl|8144|rotoballer|219375|1787672894000",
-    "nfl|8144|rotowire|634805|1787686848000",
-    "nfl|9493|rotoballer|219372|1787671337000",
-    "nfl|9500|fantasy_pros|604157|1787688641393",
-    "nfl|9500|rotoballer|219382|1787675296000"
+    "nfl|12512|fantasy_pros|604176|1787694341998",
+    "nfl|6803|rotoballer|219386|1787678830000",
+    "nfl|8151|rotoballer|219385|1787678537000"
   ],
   "schema_version": 1,
   "source": {
@@ -32,6 +15,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Judkins missed two practices last week and was limited to individual work on Monday. He was back full-go on Tuesday. ",
+      "description": "Quinshon Judkins returned to team drills during practice on Tuesday. ",
+      "metadata": {
+        "analysis": "Judkins missed two practices last week and was limited to individual work on Monday. He was back full-go on Tuesday. ",
+        "description": "Quinshon Judkins returned to team drills during practice on Tuesday. ",
+        "title": "Quinshon Judkins returns to team drills",
+        "topic_id": "1398095039183269888",
+        "url": "https://www.fantasypros.com/nfl/news/604176/quinshon-judkins-returns-to-team-drills.php"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12512",
+      "player_name": "Quinshon Judkins",
+      "position": "RB",
+      "published": 1787694341998,
+      "source": "fantasy_pros",
+      "source_key": "604176",
+      "story_id": "nfl|12512|fantasy_pros|604176|1787694341998",
+      "title": "Quinshon Judkins returns to team drills",
+      "url": "https://www.fantasypros.com/nfl/news/604176/quinshon-judkins-returns-to-team-drills.php"
+    },
     {
       "analysis": "HC Jim Harbaugh told reporters that Herbert and most of the team's starters are going to play in their final preseason game on Thursday night, with the exception of a few veterans. It remains unlikely that the starting unit will see more than a quarter or two of action, however.",
       "description": "Justin Herbert and most of Los Angeles' starters will play in Thursday's preseason finale against the Los Angeles Rams.",
@@ -500,6 +504,46 @@
       "story_id": "nfl|8151|rotowire|634793|1787678931000",
       "title": "Kenneth Walker - Dealing with foot injury",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Brandon Aiyuk remains away from the team, and he is not currently part of the team's 90-man roster. The relationship appears to be severed beyond repair. Aiyuk missed the entire 2025 season due to a knee injury and missed ensuing rehab sessions, voiding nearly $30 million in guarantees. The 49ers moved Aiyuk to the reserve/left squad list in December of 2025, and that is where he remains. In January, San Francisco's general manager, John Lynch, said that Aiyuk most likely \"played his last snap\" for the 49ers. Aiyuk must formally apply for reinstatement to be released or traded, but he has publicly said he won't. In his last taste of NFL action (back in 2024), Aiyuk caught just 25 passes for 374 yards over seven games. Things remain at a standstill, and as a result, Aiyuk has no value in redraft leagues right now. At best, he is a dynasty stash in deeper formats.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Brandon Aiyuk remains away from the team, and he is not currently part of the team's 90-man roster. The relationship appears to be severed beyond repair. Aiyuk missed the entire 2025 season due to a knee injury and missed ensuing rehab sessions, voiding nearly $30 million in guarantees. The 49ers moved Aiyuk to the reserve/left squad list in December of 2025, and that is where he remains. In January, San Francisco's general manager, John Lynch, said that Aiyuk most likely \"played his last snap\" for the 49ers. Aiyuk must formally apply for reinstatement to be released or traded, but he has publicly said he won't. In his last taste of NFL action (back in 2024), Aiyuk caught just 25 passes for 374 yards over seven games. Things remain at a standstill, and as a result, Aiyuk has no value in redraft leagues right now. At best, he is a dynasty stash in deeper formats.",
+        "title": "Brandon Aiyuk Remains Estranged from 49ers",
+        "topic_id": "1398092515776667648",
+        "url": "https://www.rotoballer.com/player-news/brandon-aiyuk-remains-estranged-from-49ers/1916278"
+      },
+      "nfl_team": "SF",
+      "player_id": "6803",
+      "player_name": "Brandon Aiyuk",
+      "position": "WR",
+      "published": 1787678830000,
+      "source": "rotoballer",
+      "source_key": "219386",
+      "story_id": "nfl|6803|rotoballer|219386|1787678830000",
+      "title": "Brandon Aiyuk Remains Estranged from 49ers",
+      "url": "https://www.rotoballer.com/player-news/brandon-aiyuk-remains-estranged-from-49ers/1916278"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs running back Kenneth Walker (foot), who missed training camp practice on Tuesday with a foot injury, did not have any brace or boot on his foot and was seen walking around \"just fine,\" according to Matt Foster. It doesn't sound like Walker is dealing with a serious injury, but he almost certainly will be held out of the team's preseason finale this Friday against the Seattle Seahawks as the team looks to have him back to 100% for the Week 1 season opener against the division-rival Denver Broncos on Monday, Sept. 14. If the 25-year-old Super Bowl MVP misses any more time this week with his foot injury, it will allow backups Emari Demercado and rookie Emmett Johnson to get more backfield work in training camp. With an expected workhorse role in his first season in KC, Walker has clear RB1 upside in 2026 if he can avoid the lower-body injuries that have plagued him in the past. The former second-rounder in 2022 from Michigan State had his second 1,000-yard season and five rushing touchdowns in 17 starts last year in his final season in Seattle, adding 31 receptions for 282 yards as a receiver on 36 targets.",
+      "metadata": {
+        "description": "Kansas City Chiefs running back Kenneth Walker (foot), who missed training camp practice on Tuesday with a foot injury, did not have any brace or boot on his foot and was seen walking around \"just fine,\" according to Matt Foster. It doesn't sound like Walker is dealing with a serious injury, but he almost certainly will be held out of the team's preseason finale this Friday against the Seattle Seahawks as the team looks to have him back to 100% for the Week 1 season opener against the division-rival Denver Broncos on Monday, Sept. 14. If the 25-year-old Super Bowl MVP misses any more time this week with his foot injury, it will allow backups Emari Demercado and rookie Emmett Johnson to get more backfield work in training camp. With an expected workhorse role in his first season in KC, Walker has clear RB1 upside in 2026 if he can avoid the lower-body injuries that have plagued him in the past. The former second-rounder in 2022 from Michigan State had his second 1,000-yard season and five rushing touchdowns in 17 starts last year in his final season in Seattle, adding 31 receptions for 282 yards as a receiver on 36 targets.",
+        "title": "Kenneth Walker Walking Around Fine at Practice",
+        "topic_id": "1398091257456140288",
+        "url": "https://www.rotoballer.com/player-news/kenneth-walker-walking-around-fine-at-practice/1916271"
+      },
+      "nfl_team": "KC",
+      "player_id": "8151",
+      "player_name": "Kenneth Walker",
+      "position": "RB",
+      "published": 1787678537000,
+      "source": "rotoballer",
+      "source_key": "219385",
+      "story_id": "nfl|8151|rotoballer|219385|1787678537000",
+      "title": "Kenneth Walker Walking Around Fine at Practice",
+      "url": "https://www.rotoballer.com/player-news/kenneth-walker-walking-around-fine-at-practice/1916271"
     },
     {
       "analysis": "Indianapolis will give Richardson the nod for the preseason finale after Riley Leonard handled the bulk of the work in preseason Week 2. Richardson was relatively sharp but still had turnover issues in the preseason opener before getting minimal work the following week. Indianapolis' battle for the No.2 quarterback spot still seems undecided as the preseason nears its end.",
