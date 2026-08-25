@@ -19705,7 +19705,7 @@
       "full_name": "Trey Benson",
       "injury_status": "Questionable",
       "last_name": "Benson",
-      "nfl_team": "ARI",
+      "nfl_team": null,
       "player_id": "11589",
       "position": "RB",
       "status": "Active",
@@ -19883,7 +19883,7 @@
       ],
       "first_name": "Brian",
       "full_name": "Brian Thomas",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Thomas",
       "nfl_team": "JAX",
       "player_id": "11631",
@@ -20483,7 +20483,7 @@
       ],
       "first_name": "Tyler",
       "full_name": "Tyler Warren",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Warren",
       "nfl_team": "IND",
       "player_id": "12518",
@@ -22569,7 +22569,7 @@
       ],
       "first_name": "Cade",
       "full_name": "Cade Otton",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Otton",
       "nfl_team": "TB",
       "player_id": "8111",
@@ -23139,7 +23139,7 @@
       ],
       "first_name": "Parker",
       "full_name": "Parker Washington",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Washington",
       "nfl_team": "JAX",
       "player_id": "9487",
@@ -23274,7 +23274,7 @@
       ],
       "first_name": "Keaton",
       "full_name": "Keaton Mitchell",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Mitchell",
       "nfl_team": "LAC",
       "player_id": "9511",
@@ -23560,8 +23560,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-25T05:08:16Z",
-    "source_fingerprint": "3d795b3e800d4373c241fd1450003134a9a3ddcac5ba69abbb402528f0a8e539"
+    "last_changed_at": "2026-08-25T16:19:19Z",
+    "source_fingerprint": "526055c7756c95ca1a8b9e6496ebbea8f10afbfeec8b7c54afeb0917d5715471"
   },
   "teams": [
     {
