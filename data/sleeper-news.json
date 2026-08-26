@@ -1,9 +1,13 @@
 {
-  "last_checked_at": "2026-08-25T23:55:33Z",
+  "last_checked_at": "2026-08-26T03:35:20Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11565|rotoballer|219388|1787686147000"
+    "nfl|11571|rotoballer|219393|1787694375000",
+    "nfl|13293|rotoballer|219390|1787692748000",
+    "nfl|13305|rotowire|634862|1787707828000",
+    "nfl|13311|rotoballer|219392|1787693948000",
+    "nfl|9229|rotoballer|219391|1787693171000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +17,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Washington was selected by Las Vegas in the fourth round of April's NFL Draft and has already turned heads in the team's first two preseason games, rushing for 119 yards on 15 carries (7.9 YPC) while adding two catches on four targets for 18 yards. The rookie's name became a hot topic in the fantasy community this past weekend when Ashton Jeanty went down with an ankle injury during practice, though the latest news is that he's nursing a low-ankle sprain and isn't looking at a long-term absence. It appears Jeanty could be ready to face the Dolphins in Week 1 on Sunday, Sept. 13, but if the ankle injury persists and keeps him out of the regular-season opener, Washington would be the lead candidate to take over No. 1 RB duties for that contest.",
+      "description": "Raiders coach Klint Kubiak said Tuesday that Washington has \"done a great job of growing up real fast,\" Levi Edwards of the Raiders' official site reports.",
+      "metadata": {
+        "analysis": "Washington was selected by Las Vegas in the fourth round of April's NFL Draft and has already turned heads in the team's first two preseason games, rushing for 119 yards on 15 carries (7.9 YPC) while adding two catches on four targets for 18 yards. The rookie's name became a hot topic in the fantasy community this past weekend when Ashton Jeanty went down with an ankle injury during practice, though the latest news is that he's nursing a low-ankle sprain and isn't looking at a long-term absence. It appears Jeanty could be ready to face the Dolphins in Week 1 on Sunday, Sept. 13, but if the ankle injury persists and keeps him out of the regular-season opener, Washington would be the lead candidate to take over No. 1 RB duties for that contest.",
+        "description": "Raiders coach Klint Kubiak said Tuesday that Washington has \"done a great job of growing up real fast,\" Levi Edwards of the Raiders' official site reports.",
+        "title": "Mike Washington - Draws praise from coach",
+        "topic_id": "1398152923321495552"
+      },
+      "nfl_team": "LV",
+      "player_id": "13305",
+      "player_name": "Mike Washington",
+      "position": "RB",
+      "published": 1787707828000,
+      "source": "rotowire",
+      "source_key": "634862",
+      "story_id": "nfl|13305|rotowire|634862|1787707828000",
+      "title": "Mike Washington - Draws praise from coach",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets running back Isaiah Davis (knee) was seen working with a trainer on the sideline, according to Zack Rosenblatt. Rosenblatt noted that it's the first time he's seen Davis working on the grass and that \"he's making progress.\" Davis suffered a \"minor knee injury\" early in training camp, which was expected to cost him \"a couple of weeks.\" After the injury to running back Braelon Allen, Davis played a role in the rushing attack last season, totaling 422 scrimmage yards and one touchdown on 64 attempts. With both Allen and starter Breece Hall in the mix, Davis is likely to take a backseat to the two this season. With just 19 days until the Jets travel to take on the Tennessee Titans in Week 1, Davis will need to ramp up quickly to be ready to go for the season.",
+      "metadata": {
+        "description": "New York Jets running back Isaiah Davis (knee) was seen working with a trainer on the sideline, according to Zack Rosenblatt. Rosenblatt noted that it's the first time he's seen Davis working on the grass and that \"he's making progress.\" Davis suffered a \"minor knee injury\" early in training camp, which was expected to cost him \"a couple of weeks.\" After the injury to running back Braelon Allen, Davis played a role in the rushing attack last season, totaling 422 scrimmage yards and one touchdown on 64 attempts. With both Allen and starter Breece Hall in the mix, Davis is likely to take a backseat to the two this season. With just 19 days until the Jets travel to take on the Tennessee Titans in Week 1, Davis will need to ramp up quickly to be ready to go for the season.",
+        "title": "Isaiah Davis Making Progress on Side Field",
+        "topic_id": "1398157954154237952",
+        "url": "https://www.rotoballer.com/player-news/isaiah-davis-making-progress-on-side-field/1916417"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "11571",
+      "player_name": "Isaiah Davis",
+      "position": "RB",
+      "published": 1787694375000,
+      "source": "rotoballer",
+      "source_key": "219393",
+      "story_id": "nfl|11571|rotoballer|219393|1787694375000",
+      "title": "Isaiah Davis Making Progress on Side Field",
+      "url": "https://www.rotoballer.com/player-news/isaiah-davis-making-progress-on-side-field/1916417"
+    },
     {
       "analysis": "Judkins missed two practices last week and was limited to individual work on Monday. He was back full-go on Tuesday. ",
       "description": "Quinshon Judkins returned to team drills during practice on Tuesday. ",
@@ -33,6 +77,66 @@
       "story_id": "nfl|12512|fantasy_pros|604176|1787694341998",
       "title": "Quinshon Judkins returns to team drills",
       "url": "https://www.fantasypros.com/nfl/news/604176/quinshon-judkins-returns-to-team-drills.php"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins rookie wide receiver Chris Bell (knee) could play in the team's preseason finale against the Atlanta Falcons. Bell is recovering from a torn ACL sustained in November of last season. The third-round pick was activated from the Non-Football-Injury list on August 17th and has ramped up so quickly that he could play Friday night. In his senior season at Louisville, Bell had 67 receptions for 871 yards and six touchdowns in 10 games before tearing his ACL. If he suits up against the Falcons, it would be a strong sign he will be ready for Week 1 against the Las Vegas Raiders. With fellow rookie Caleb Douglas and Malik Washington as the two current starters, Bell has a legitimate opportunity to lead this offense in receiving this season.",
+      "metadata": {
+        "description": "Miami Dolphins rookie wide receiver Chris Bell (knee) could play in the team's preseason finale against the Atlanta Falcons. Bell is recovering from a torn ACL sustained in November of last season. The third-round pick was activated from the Non-Football-Injury list on August 17th and has ramped up so quickly that he could play Friday night. In his senior season at Louisville, Bell had 67 receptions for 871 yards and six touchdowns in 10 games before tearing his ACL. If he suits up against the Falcons, it would be a strong sign he will be ready for Week 1 against the Las Vegas Raiders. With fellow rookie Caleb Douglas and Malik Washington as the two current starters, Bell has a legitimate opportunity to lead this offense in receiving this season.",
+        "title": "Chris Bell Could Play in Preseason Finale",
+        "topic_id": "1398155436724609024",
+        "url": "https://www.rotoballer.com/player-news/chris-bell-could-play-in-preseason-finale/1916413"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1787693948000,
+      "source": "rotoballer",
+      "source_key": "219392",
+      "story_id": "nfl|13311|rotoballer|219392|1787693948000",
+      "title": "Chris Bell Could Play in Preseason Finale",
+      "url": "https://www.rotoballer.com/player-news/chris-bell-could-play-in-preseason-finale/1916413"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts quarterback Anthony Richardson Sr. is expected to start the preseason finale against the Detroit Lions. Richardson, a second-year quarterback, is competing for the backup role behind starter Daniel Jones. Both quarterbacks have struggled in the preseason, with neither throwing a touchdown in two games. The former fourth-overall pick in the 2023 NFL Draft has completed 50.6% of his passes for 2,400 yards, with 11 touchdowns and 13 interceptions in 17 career games. If Richardson struggles in Sunday's preseason game, the team could pivot to Leonard as the backup and potentially move on from the talented quarterback. Fantasy managers should avoid both Richardson and Leonard, as even if Jones suffers an injury, neither offers enough security to start in lineups this season.",
+      "metadata": {
+        "description": "Indianapolis Colts quarterback Anthony Richardson Sr. is expected to start the preseason finale against the Detroit Lions. Richardson, a second-year quarterback, is competing for the backup role behind starter Daniel Jones. Both quarterbacks have struggled in the preseason, with neither throwing a touchdown in two games. The former fourth-overall pick in the 2023 NFL Draft has completed 50.6% of his passes for 2,400 yards, with 11 touchdowns and 13 interceptions in 17 career games. If Richardson struggles in Sunday's preseason game, the team could pivot to Leonard as the backup and potentially move on from the talented quarterback. Fantasy managers should avoid both Richardson and Leonard, as even if Jones suffers an injury, neither offers enough security to start in lineups this season.",
+        "title": "Anthony Richardson Sr. to Start in Preseason Finale",
+        "topic_id": "1398152920469348352",
+        "url": "https://www.rotoballer.com/player-news/anthony-richardson-sr-to-start-in-preseason-finale/1916399"
+      },
+      "nfl_team": "IND",
+      "player_id": "9229",
+      "player_name": "Anthony Richardson",
+      "position": "QB",
+      "published": 1787693171000,
+      "source": "rotoballer",
+      "source_key": "219391",
+      "story_id": "nfl|9229|rotoballer|219391|1787693171000",
+      "title": "Anthony Richardson Sr. to Start in Preseason Finale",
+      "url": "https://www.rotoballer.com/player-news/anthony-richardson-sr-to-start-in-preseason-finale/1916399"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens rookie wide receiver Ja'Kobi Lane has received significant praise from within the organization. Lane continues to make plays in training camp and the preseason and has become a fan favorite. Star quarterback Lamar Jackson said, \"This guy is different,\" when referring to Lane, and offensive coordinator Declan Doyle compared Lane's ability to that of former Saints wide receiver Michael Thomas. \"Mike Thomas had these strong hands where he could pull it down in a way, and you threw it in the vicinity, and you felt like he was going to go get it. There is a lot of that feeling (with Lane). He's a very friendly guy to throw to.\" With Rashod Bateman's off-the-field issues and struggles so far in his career, Lane could easily fill in as the WR2 in this offense behind Zay Flowers. Ranked WR66 in RotoBaller's positional rankings, Lane is an exciting late-round player to target in fantasy drafts.",
+      "metadata": {
+        "description": "Baltimore Ravens rookie wide receiver Ja'Kobi Lane has received significant praise from within the organization. Lane continues to make plays in training camp and the preseason and has become a fan favorite. Star quarterback Lamar Jackson said, \"This guy is different,\" when referring to Lane, and offensive coordinator Declan Doyle compared Lane's ability to that of former Saints wide receiver Michael Thomas. \"Mike Thomas had these strong hands where he could pull it down in a way, and you threw it in the vicinity, and you felt like he was going to go get it. There is a lot of that feeling (with Lane). He's a very friendly guy to throw to.\" With Rashod Bateman's off-the-field issues and struggles so far in his career, Lane could easily fill in as the WR2 in this offense behind Zay Flowers. Ranked WR66 in RotoBaller's positional rankings, Lane is an exciting late-round player to target in fantasy drafts.",
+        "title": "Ja'Kobi Lane Continues to Generate Hype",
+        "topic_id": "1398150403106840576",
+        "url": "https://www.rotoballer.com/player-news/jakobi-lane-continues-to-generate-hype/1916392"
+      },
+      "nfl_team": "BAL",
+      "player_id": "13293",
+      "player_name": "Ja'Kobi Lane",
+      "position": "WR",
+      "published": 1787692748000,
+      "source": "rotoballer",
+      "source_key": "219390",
+      "story_id": "nfl|13293|rotoballer|219390|1787692748000",
+      "title": "Ja'Kobi Lane Continues to Generate Hype",
+      "url": "https://www.rotoballer.com/player-news/jakobi-lane-continues-to-generate-hype/1916392"
     },
     {
       "analysis": "HC Jim Harbaugh told reporters that Herbert and most of the team's starters are going to play in their final preseason game on Thursday night, with the exception of a few veterans. It remains unlikely that the starting unit will see more than a quarter or two of action, however.",
@@ -604,11 +708,11 @@
       "url": null
     },
     {
-      "analysis": "The Chargers plan to get their starters one more dose of game action before the season gets underway. Other than Derwin James and Khalil Mack, the starters will be out there for a short spell between 6 and 8 plays. After that final tuneup, Herbert and the Chargers will get ready for the season opener against the Cardinals.",
-      "description": "Herbert is expected to play in the preseason finale, Alex Insdorf of BoltBeat.com reports.",
+      "analysis": "The Chargers plan to get their key personnel one more dose of game action before the season gets underway. Other than Derwin James and Khalil Mack, the starters will be on the field for about 6-8 plays. After that final tuneup, Herbert and the Chargers will get ready for Week 1 against the Cardinals.",
+      "description": "Herbert is expected to play in Thursday's preseason finale against the Rams, Alex Insdorf of BoltBeat.com reports.",
       "metadata": {
-        "analysis": "The Chargers plan to get their starters one more dose of game action before the season gets underway. Other than Derwin James and Khalil Mack, the starters will be out there for a short spell between 6 and 8 plays. After that final tuneup, Herbert and the Chargers will get ready for the season opener against the Cardinals.",
-        "description": "Herbert is expected to play in the preseason finale, Alex Insdorf of BoltBeat.com reports.",
+        "analysis": "The Chargers plan to get their key personnel one more dose of game action before the season gets underway. Other than Derwin James and Khalil Mack, the starters will be on the field for about 6-8 plays. After that final tuneup, Herbert and the Chargers will get ready for Week 1 against the Cardinals.",
+        "description": "Herbert is expected to play in Thursday's preseason finale against the Rams, Alex Insdorf of BoltBeat.com reports.",
         "title": "Justin Herbert - Will play in preseason finale",
         "topic_id": "1398019567120330752"
       },
@@ -664,11 +768,11 @@
       "url": "https://www.rotoballer.com/player-news/najee-harris-gets-first-team-reps-in-giants-backfield/1916227"
     },
     {
-      "analysis": "McDaniel did not go into further detail on Mitchell's exact issue, but he continued to express confidence in the Chargers' other depth pieces in the backfield. \"I think the running back position is, we sustained a mild setback with Keaton, but realistically, that's a position that you're always wanting to have three, and I like what our young guys are doing to press into that group,\" McDaniel said. Mitchell's practice availability will now be something to monitor in Chargers camp for the rest of the week.",
-      "description": "Mitchell sustained a mild setback, offensive coordinator Mike McDaniel  said on Monday.",
+      "analysis": "McDaniel did not indicate what Mitchell has experienced a setback from, as no injury to the running back has been reported this offseason. \"I think the running back position is, we sustained a mild setback with Keaton, but realistically, that's a position that you're always wanting to have three, and I like what our young guys are doing to press into that group,\" McDaniel said regarding the Chargers' backfield depth. Mitchell could be held out of the team's preseason finale Thursday against the Rams, but as yet there's no suggestion he could sit out Week 1 against the Cardinals.",
+      "description": "Chargers offensive coordinator Mike McDaniel  said Monday that there had been \"a mild setback\" with Mitchell.",
       "metadata": {
-        "analysis": "McDaniel did not go into further detail on Mitchell's exact issue, but he continued to express confidence in the Chargers' other depth pieces in the backfield. \"I think the running back position is, we sustained a mild setback with Keaton, but realistically, that's a position that you're always wanting to have three, and I like what our young guys are doing to press into that group,\" McDaniel said. Mitchell's practice availability will now be something to monitor in Chargers camp for the rest of the week.",
-        "description": "Mitchell sustained a mild setback, offensive coordinator Mike McDaniel  said on Monday.",
+        "analysis": "McDaniel did not indicate what Mitchell has experienced a setback from, as no injury to the running back has been reported this offseason. \"I think the running back position is, we sustained a mild setback with Keaton, but realistically, that's a position that you're always wanting to have three, and I like what our young guys are doing to press into that group,\" McDaniel said regarding the Chargers' backfield depth. Mitchell could be held out of the team's preseason finale Thursday against the Rams, but as yet there's no suggestion he could sit out Week 1 against the Cardinals.",
+        "description": "Chargers offensive coordinator Mike McDaniel  said Monday that there had been \"a mild setback\" with Mitchell.",
         "title": "Keaton Mitchell - Suffers mild setback",
         "topic_id": "1398013275530137600"
       },
@@ -786,11 +890,11 @@
       "url": null
     },
     {
-      "analysis": "The situation is still unfolding, and it's possible that Thomas will return to Tuesday's session. However, Thomas was favoring his shoulder following the aforementioned touchdown grab. There figures to be an update after the Jaguars wrap up practice.",
-      "description": "Thomas (upper body) was shaken up after catching a touchdown in joint practice Tuesday but is still in full uniform, Mia O'Brien of 1010 XL 92.5 FM Jacksonville reports.",
+      "analysis": "It's possible that Thomas will return to Tuesday's session, as he remained on the sideline rather than retreating to the locker room. However, Thomas was favoring his shoulder following the grab. The Jaguars will likely provide an update on the wideout's status after practice.",
+      "description": "Thomas (upper body) was shaken up after catching a touchdown in joint practice Tuesday against the Buccaneers but is still in full uniform, Mia O'Brien of 1010 XL 92.5 FM Jacksonville reports.",
       "metadata": {
-        "analysis": "The situation is still unfolding, and it's possible that Thomas will return to Tuesday's session. However, Thomas was favoring his shoulder following the aforementioned touchdown grab. There figures to be an update after the Jaguars wrap up practice.",
-        "description": "Thomas (upper body) was shaken up after catching a touchdown in joint practice Tuesday but is still in full uniform, Mia O'Brien of 1010 XL 92.5 FM Jacksonville reports.",
+        "analysis": "It's possible that Thomas will return to Tuesday's session, as he remained on the sideline rather than retreating to the locker room. However, Thomas was favoring his shoulder following the grab. The Jaguars will likely provide an update on the wideout's status after practice.",
+        "description": "Thomas (upper body) was shaken up after catching a touchdown in joint practice Tuesday against the Buccaneers but is still in full uniform, Mia O'Brien of 1010 XL 92.5 FM Jacksonville reports.",
         "title": "Brian Thomas - Shaken up in joint practice",
         "topic_id": "1398008241941676032"
       },
@@ -1030,11 +1134,11 @@
       "url": "https://www.rotoballer.com/player-news/terrance-ferguson-held-out-of-practice-works-on-side/1916180"
     },
     {
-      "analysis": "Steichen added that there have been no conversations about keeping Pierce on the PUP list at this time. Pierce continues to work his way back from the clean-up procedure on his ankle back in April. He has been progressing, and it sounds as though a return to practice is on the horizon, potentially even this week.",
-      "description": "Pierce (ankle) will not practice Tuesday, but coach Shane Steichen said he's hopeful that the wideout will practice this week, Kevin Bowen of 107.5 The Fan Indianapolis reports.",
+      "analysis": "Steichen added that there have been no conversations about keeping Pierce on the PUP list. The wideout continues to work his way back from a clean-up procedure on his ankle back in April. It sounds as though a return to practice is on the horizon, potentially even this week.",
+      "description": "Pierce (ankle) will not practice Tuesday, but coach Shane Steichen said he's optimistic the wideout will practice this week, Kevin Bowen of 107.5 The Fan Indianapolis reports.",
       "metadata": {
-        "analysis": "Steichen added that there have been no conversations about keeping Pierce on the PUP list at this time. Pierce continues to work his way back from the clean-up procedure on his ankle back in April. He has been progressing, and it sounds as though a return to practice is on the horizon, potentially even this week.",
-        "description": "Pierce (ankle) will not practice Tuesday, but coach Shane Steichen said he's hopeful that the wideout will practice this week, Kevin Bowen of 107.5 The Fan Indianapolis reports.",
+        "analysis": "Steichen added that there have been no conversations about keeping Pierce on the PUP list. The wideout continues to work his way back from a clean-up procedure on his ankle back in April. It sounds as though a return to practice is on the horizon, potentially even this week.",
+        "description": "Pierce (ankle) will not practice Tuesday, but coach Shane Steichen said he's optimistic the wideout will practice this week, Kevin Bowen of 107.5 The Fan Indianapolis reports.",
         "title": "Alec Pierce - May practice this week",
         "topic_id": "1398001950414376960"
       },
@@ -1210,10 +1314,10 @@
       "url": "https://www.rotoballer.com/player-news/treveyon-hendersons-status-uncertain-after-monday-exit/1916133"
     },
     {
-      "analysis": "The Jaguars labeled Washington as day-to-day last week while he dealt with an undisclosed injury, but he took part in a walk-through session Sunday and is seemingly operating with no restrictions in the first of two joint practices with the Buccaneers this week. Washington made a big play early in Tuesday's session during red-zone drills, outleaping Buccaneers cornerback Jacob Parrish on a lob pass in the end zone.",
+      "analysis": "Last week the Jaguars labeled Washington as day-to-day while he dealt with an undisclosed injury, but he took part in a walk-through session Sunday and is seemingly operating with no restrictions in the first of two joint practices with the Buccaneers. Washington made a big play early in Tuesday's session during red-zone drills, going high over cornerback Jacob Parrish to bring down a lob pass in the end zone.",
       "description": "Washington (undisclosed) is taking part in Tuesday's joint practice with the Buccaneers, Rick Stroud of the Tampa Bay Times reports.",
       "metadata": {
-        "analysis": "The Jaguars labeled Washington as day-to-day last week while he dealt with an undisclosed injury, but he took part in a walk-through session Sunday and is seemingly operating with no restrictions in the first of two joint practices with the Buccaneers this week. Washington made a big play early in Tuesday's session during red-zone drills, outleaping Buccaneers cornerback Jacob Parrish on a lob pass in the end zone.",
+        "analysis": "Last week the Jaguars labeled Washington as day-to-day while he dealt with an undisclosed injury, but he took part in a walk-through session Sunday and is seemingly operating with no restrictions in the first of two joint practices with the Buccaneers. Washington made a big play early in Tuesday's session during red-zone drills, going high over cornerback Jacob Parrish to bring down a lob pass in the end zone.",
         "description": "Washington (undisclosed) is taking part in Tuesday's joint practice with the Buccaneers, Rick Stroud of the Tampa Bay Times reports.",
         "title": "Parker Washington - Involved in joint practice",
         "topic_id": "1397985590179287040"
@@ -1250,10 +1354,10 @@
       "url": "https://www.rotoballer.com/player-news/tua-tagovailoas-play-making-it-impossible-for-falcons-to-name-him-the-starter/1916119"
     },
     {
-      "analysis": "McMillan was able to return to practice last Tuesday, but the third-year wideout is apparently still dealing with some limitations as he works his way back from the knee injury that has kept him off the field for much of August. The Buccaneers haven't clarified whether McMillan's absence from practice Tuesday is the result of a setback, or if he's simply getting a maintenance day. Regardless, McMillan seems to be trending toward sitting out Friday's preseason finale versus the Jaguars.",
+      "analysis": "McMillan was able to return to practice last Tuesday, but the third-year wideout is apparently still dealing with some limitations as he works his way back from a knee injury that has kept him off the field for much of August. The Buccaneers haven't clarified whether McMillan's absence from practice Tuesday is the result of a setback, or if he's simply getting a maintenance day. He seems to be trending toward sitting out Friday's preseason finale versus the Jaguars.",
       "description": "McMillan (knee) isn't participating in Tuesday's practice, Greg Auman of Fox Sports reports.",
       "metadata": {
-        "analysis": "McMillan was able to return to practice last Tuesday, but the third-year wideout is apparently still dealing with some limitations as he works his way back from the knee injury that has kept him off the field for much of August. The Buccaneers haven't clarified whether McMillan's absence from practice Tuesday is the result of a setback, or if he's simply getting a maintenance day. Regardless, McMillan seems to be trending toward sitting out Friday's preseason finale versus the Jaguars.",
+        "analysis": "McMillan was able to return to practice last Tuesday, but the third-year wideout is apparently still dealing with some limitations as he works his way back from a knee injury that has kept him off the field for much of August. The Buccaneers haven't clarified whether McMillan's absence from practice Tuesday is the result of a setback, or if he's simply getting a maintenance day. He seems to be trending toward sitting out Friday's preseason finale versus the Jaguars.",
         "description": "McMillan (knee) isn't participating in Tuesday's practice, Greg Auman of Fox Sports reports.",
         "title": "Jalen McMillan - Not practicing Tuesday",
         "topic_id": "1397983074280546304"
@@ -1310,10 +1414,10 @@
       "url": "https://www.rotoballer.com/player-news/kevin-stefanski-not-speculating-on-whether-michael-penix-jr-could-win-qb-job/1916092"
     },
     {
-      "analysis": "Egbuka has been managing a sprained toe since Aug. 12, when the injury forced him out of practice. Almost two weeks later, Egbuka has yet to return to team drills, with head coach Todd Bowles having previously described the second-year wideout as both \"day-to-day\" and \"week-to-week.\" Egbuka looks safe to rule out for Friday's preseason finale versus the Jaguars, and his availability for the Buccaneers' Week 1 matchup with the Bengals will be shrouded in some mystery until he's able to return to full practice.",
+      "analysis": "Egbuka has been managing a sprained toe since Aug. 12, when the injury forced him out of practice. Almost two weeks later, the wideout has yet to return to team drills, with head coach Todd Bowles having previously described him as both \"day-to-day\" and \"week-to-week.\" Egbuka looks safe to rule out for Friday's preseason finale versus the Jaguars, and his availability for the Buccaneers' Week 1 matchup with the Bengals will be murky until he's able to return to full practice.",
       "description": "Egbuka (toe) isn't participating in Tuesday's practice, Greg Auman of Fox Sports reports.",
       "metadata": {
-        "analysis": "Egbuka has been managing a sprained toe since Aug. 12, when the injury forced him out of practice. Almost two weeks later, Egbuka has yet to return to team drills, with head coach Todd Bowles having previously described the second-year wideout as both \"day-to-day\" and \"week-to-week.\" Egbuka looks safe to rule out for Friday's preseason finale versus the Jaguars, and his availability for the Buccaneers' Week 1 matchup with the Bengals will be shrouded in some mystery until he's able to return to full practice.",
+        "analysis": "Egbuka has been managing a sprained toe since Aug. 12, when the injury forced him out of practice. Almost two weeks later, the wideout has yet to return to team drills, with head coach Todd Bowles having previously described him as both \"day-to-day\" and \"week-to-week.\" Egbuka looks safe to rule out for Friday's preseason finale versus the Jaguars, and his availability for the Buccaneers' Week 1 matchup with the Bengals will be murky until he's able to return to full practice.",
         "description": "Egbuka (toe) isn't participating in Tuesday's practice, Greg Auman of Fox Sports reports.",
         "title": "Emeka Egbuka - Remains sidelined by toe issue",
         "topic_id": "1397980557895282688"
@@ -1390,10 +1494,10 @@
       "url": "https://www.rotoballer.com/player-news/cam-skattebo-listed-as-rb1-on-giants-latest-depth-chart/1916054"
     },
     {
-      "analysis": "After completing his recovery from December surgery to repair a torn ACL in his left knee, Bell was reinstated from the NFI list Aug. 17 and returned to practice as a limited participant last week. The Dolphins were comfortable clearing him for full participation Monday, with Bell shedding his no-contact jersey for the first time since being activated. Bell seems to have bounced back well from Monday's session, but the Dolphins will see how he fares in the team's next two practices before his status for the preseason finale is decided. Even if Bell ends up sitting out against the Falcons, he looks like he'll be on track to have a role in the Dolphins' pass-catching corps Week 1 versus the Raiders.",
+      "analysis": "After completing his recovery from December surgery to repair a torn ACL in his left knee, Bell was reinstated from the NFI list Aug. 17 and returned to practice as a limited participant. The Dolphins were comfortable clearing him for full participation Monday, and Bell seems to have bounced back well from that practice session. Even if the rookie wideout ends up not getting cleared for the Falcons game, he looks like he'll be on track to have a role in Week 1 versus the Raiders.",
       "description": "Dolphins head coach Jeff Hafley said that he's tentatively planning on having Bell (knee) play in Friday's preseason finale versus the Falcons, Marcel Louis-Jacques of ESPN.com reports.",
       "metadata": {
-        "analysis": "After completing his recovery from December surgery to repair a torn ACL in his left knee, Bell was reinstated from the NFI list Aug. 17 and returned to practice as a limited participant last week. The Dolphins were comfortable clearing him for full participation Monday, with Bell shedding his no-contact jersey for the first time since being activated. Bell seems to have bounced back well from Monday's session, but the Dolphins will see how he fares in the team's next two practices before his status for the preseason finale is decided. Even if Bell ends up sitting out against the Falcons, he looks like he'll be on track to have a role in the Dolphins' pass-catching corps Week 1 versus the Raiders.",
+        "analysis": "After completing his recovery from December surgery to repair a torn ACL in his left knee, Bell was reinstated from the NFI list Aug. 17 and returned to practice as a limited participant. The Dolphins were comfortable clearing him for full participation Monday, and Bell seems to have bounced back well from that practice session. Even if the rookie wideout ends up not getting cleared for the Falcons game, he looks like he'll be on track to have a role in Week 1 versus the Raiders.",
         "description": "Dolphins head coach Jeff Hafley said that he's tentatively planning on having Bell (knee) play in Friday's preseason finale versus the Falcons, Marcel Louis-Jacques of ESPN.com reports.",
         "title": "Chris Bell - Candidate to play in preseason finale",
         "topic_id": "1397971748158226432"
@@ -1430,11 +1534,11 @@
       "url": "https://www.rotoballer.com/player-news/kenneth-walker-iiis-strong-summer-interrupted-by-foot-issue/1916046"
     },
     {
-      "analysis": "While the Raiders are fully confident that Jeanty avoided a significant injury after he was unable to put weight on his right leg while leaving the field Sunday, the second-year running back is still in danger of missing the team's Week 1 game against the Dolphins, according to Rapoport. Jeanty will at the very least sit out Thursday's preseason finale versus the 49ers, and his status for the start of the regular season will be determined by his practice activity (or lack thereof) over the next two weeks. Rookie Mike Washington would be in line to serve as the Raiders' lead back if Jeanty ends up sitting out Week 1.",
-      "description": "The Raiders are optimistic that the injury Jeanty sustained during practice Sunday is a \"more low than high\" ankle sprain and not considered a long-term concern, Ian Rapoport of NFL Network reports.",
+      "analysis": "While the Raiders are fully confident that Jeanty avoided a significant injury, the second-year running back is still in danger of missing the team's Week 1 game against the Dolphins. Jeanty will at the very least sit out Thursday's preseason finale versus the 49ers, but he'll have two weeks to recover before the regular season kicks off. Rookie Mike Washington would be in line to serve as the Raiders' lead back if Jeanty ends up missing time.",
+      "description": "The Raiders are optimistic that the injury Jeanty sustained during practice Sunday is a \"more low than high\" ankle sprain and not a long-term concern, Ian Rapoport of NFL Network reports.",
       "metadata": {
-        "analysis": "While the Raiders are fully confident that Jeanty avoided a significant injury after he was unable to put weight on his right leg while leaving the field Sunday, the second-year running back is still in danger of missing the team's Week 1 game against the Dolphins, according to Rapoport. Jeanty will at the very least sit out Thursday's preseason finale versus the 49ers, and his status for the start of the regular season will be determined by his practice activity (or lack thereof) over the next two weeks. Rookie Mike Washington would be in line to serve as the Raiders' lead back if Jeanty ends up sitting out Week 1.",
-        "description": "The Raiders are optimistic that the injury Jeanty sustained during practice Sunday is a \"more low than high\" ankle sprain and not considered a long-term concern, Ian Rapoport of NFL Network reports.",
+        "analysis": "While the Raiders are fully confident that Jeanty avoided a significant injury, the second-year running back is still in danger of missing the team's Week 1 game against the Dolphins. Jeanty will at the very least sit out Thursday's preseason finale versus the 49ers, but he'll have two weeks to recover before the regular season kicks off. Rookie Mike Washington would be in line to serve as the Raiders' lead back if Jeanty ends up missing time.",
+        "description": "The Raiders are optimistic that the injury Jeanty sustained during practice Sunday is a \"more low than high\" ankle sprain and not a long-term concern, Ian Rapoport of NFL Network reports.",
         "title": "Ashton Jeanty - Believed to be nursing low-ankle sprain",
         "topic_id": "1397970490089287680"
       },
@@ -1612,10 +1716,10 @@
       "url": "https://www.rotoballer.com/player-news/josh-allen-will-not-play-in-preseason-finale/1915994"
     },
     {
-      "analysis": "It comes as no surprise that Allen will be held out, as the Bills will ensure their starting quarterback -- and the consensus top quarterback in fantasy football -- does not take any further hits before the regular season gets underway.",
+      "analysis": "It comes as no surprise that Allen will be held out, as the Bills ensure their starting quarterback -- and the consensus top quarterback in fantasy football -- does not take any further hits before Week 1. Allen hasn't missed a game since his rookie campaign in 2018, making 137 consecutive starts between the regular season and playoffs, tied for the eighth-longest streak by a quarterback in NFL history.",
       "description": "Allen will not play in Thursday's preseason finale against the Steelers, Jay Skurski of The Buffalo News reports.",
       "metadata": {
-        "analysis": "It comes as no surprise that Allen will be held out, as the Bills will ensure their starting quarterback -- and the consensus top quarterback in fantasy football -- does not take any further hits before the regular season gets underway.",
+        "analysis": "It comes as no surprise that Allen will be held out, as the Bills ensure their starting quarterback -- and the consensus top quarterback in fantasy football -- does not take any further hits before Week 1. Allen hasn't missed a game since his rookie campaign in 2018, making 137 consecutive starts between the regular season and playoffs, tied for the eighth-longest streak by a quarterback in NFL history.",
         "description": "Allen will not play in Thursday's preseason finale against the Steelers, Jay Skurski of The Buffalo News reports.",
         "title": "Josh Allen - Will sit Thursday night",
         "topic_id": "1397956647011233792"
