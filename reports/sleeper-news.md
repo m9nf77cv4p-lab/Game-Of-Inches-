@@ -2,23 +2,41 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **994**
-- Newly captured: **5**
+- Stored stories: **1003**
+- Newly captured: **9**
 
 ## Latest news
 
-- **NEW — Mike Washington** — Mike Washington - Draws praise from coach (2026-08-26T01:30:28Z)
+- **Mike Washington** — Mike Washington - Draws praise from coach (2026-08-26T01:30:28Z)
   - Washington was selected by Las Vegas in the fourth round of April's NFL Draft and has already turned heads in the team's first two preseason games, rushing for 119 yards on 15 carries (7.9 YPC) while adding two catches on four targets for 18 yards. The rookie's name became a hot topic in the fantasy community this past weekend when Ashton Jeanty went down with an ankle injury during practice, though the latest news is that he's nursing a low-ankle sprain and isn't looking at a long-term absence. It appears Jeanty could be ready to face the Dolphins in Week 1 on Sunday, Sept. 13, but if the ankle injury persists and keeps him out of the regular-season opener, Washington would be the lead candidate to take over No. 1 RB duties for that contest.
-- **NEW — Isaiah Davis** — Isaiah Davis Making Progress on Side Field (2026-08-25T21:46:15Z)
+- **NEW — Gunnar Helm** — Gunnar Helm Has Momentum on His Side Entering 2026 (2026-08-26T00:51:10Z)
+  - Source: https://www.rotoballer.com/player-news/gunnar-helm-has-momentum-on-his-side-entering-2026/1916510
+- **NEW — Kaytron Allen** — Kaytron Allen on Track to Round Out the Backfield (2026-08-26T00:46:11Z)
+  - Source: https://www.rotoballer.com/player-news/kaytron-allen-on-track-to-round-out-the-backfield/1916504
+- **NEW — Chig Okonkwo** — Chig Okonkwo Has an Opportunity to Break Out in 2026 (2026-08-26T00:38:06Z)
+  - Source: https://www.rotoballer.com/player-news/chig-okonkwo-has-an-opportunity-to-break-out-in-2026/1916498
+- **NEW — Sam Darnold** — Sam Darnold Should Benefit From a Strong Supporting Cast (2026-08-26T00:18:12Z)
+  - Source: https://www.rotoballer.com/player-news/sam-darnold-should-benefit-from-a-strong-supporting-cast/1916493
+- **NEW — Terry McLaurin** — Consistency is Key for Terry McLaurin in 2026 (2026-08-26T00:09:07Z)
+  - Source: https://www.rotoballer.com/player-news/consistency-is-key-for-terry-mclaurin-in-2026/1916486
+- **NEW — Troy Franklin** — Troy Franklin is No Longer a Flashy Fantasy Target (2026-08-25T23:50:17Z)
+  - Source: https://www.rotoballer.com/player-news/troy-franklin-is-no-longer-a-flashy-fantasy-target/1916479
+- **NEW — Mike Washington** — Klint Kubiak Praises Mike Washington Jr. (2026-08-25T23:42:16Z)
+  - Source: https://www.rotoballer.com/player-news/klint-kubiak-praises-mike-washington-jr/1916477
+- **NEW — Jaylen Waddle** — Broncos Say Jaylen Waddle is "Going to Play Everywhere" (2026-08-25T23:36:15Z)
+  - Source: https://www.rotoballer.com/player-news/broncos-say-jaylen-waddle-is-going-to-play-everywhere/1916475
+- **NEW — RJ Harvey** — Coach Says RJ Harvey is Becoming a "Complete Back" (2026-08-25T23:32:18Z)
+  - Source: https://www.rotoballer.com/player-news/coach-says-rj-harvey-is-becoming-a-complete-back/1916473
+- **Isaiah Davis** — Isaiah Davis Making Progress on Side Field (2026-08-25T21:46:15Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-davis-making-progress-on-side-field/1916417
 - **Quinshon Judkins** — Quinshon Judkins returns to team drills (2026-08-25T21:45:41.998000Z)
   - Judkins missed two practices last week and was limited to individual work on Monday. He was back full-go on Tuesday. 
   - Source: https://www.fantasypros.com/nfl/news/604176/quinshon-judkins-returns-to-team-drills.php
-- **NEW — Chris Bell** — Chris Bell Could Play in Preseason Finale (2026-08-25T21:39:08Z)
+- **Chris Bell** — Chris Bell Could Play in Preseason Finale (2026-08-25T21:39:08Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-could-play-in-preseason-finale/1916413
-- **NEW — Anthony Richardson** — Anthony Richardson Sr. to Start in Preseason Finale (2026-08-25T21:26:11Z)
+- **Anthony Richardson** — Anthony Richardson Sr. to Start in Preseason Finale (2026-08-25T21:26:11Z)
   - Source: https://www.rotoballer.com/player-news/anthony-richardson-sr-to-start-in-preseason-finale/1916399
-- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane Continues to Generate Hype (2026-08-25T21:19:08Z)
+- **Ja'Kobi Lane** — Ja'Kobi Lane Continues to Generate Hype (2026-08-25T21:19:08Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-lane-continues-to-generate-hype/1916392
 - **Justin Herbert** — Justin Herbert, starters will play Thursday (2026-08-25T20:20:41.420000Z)
   - HC Jim Harbaugh told reporters that Herbert and most of the team's starters are going to play in their final preseason game on Thursday night, with the exception of a few veterans. It remains unlikely that the starting unit will see more than a quarter or two of action, however.
@@ -194,7 +212,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Josh Allen** — Josh Allen Will Not Play in Preseason Finale (2026-08-25T12:35:09Z)
   - Source: https://www.rotoballer.com/player-news/josh-allen-will-not-play-in-preseason-finale/1915994
 - **Josh Allen** — Josh Allen - Will sit Thursday night (2026-08-25T12:31:27Z)
-  - It comes as no surprise that Allen will be held out, as the Bills ensure their starting quarterback -- and the consensus top quarterback in fantasy football -- does not take any further hits before Week 1. Allen hasn't missed a game since his rookie campaign in 2018, making 137 consecutive starts between the regular season and playoffs, tied for the eighth-longest streak by a quarterback in NFL history.
+  - It comes as no surprise that Allen will be held out, as the Bills will ensure their starting quarterback -- and the consensus top quarterback in fantasy football -- does not take any further hits before Week 1. Allen hasn't missed a game since his rookie campaign in 2018, making 137 consecutive starts between the regular season and playoffs, tied for the eighth-longest streak by a quarterback in NFL history.
 - **Brian Thomas** — Brian Thomas Jr. Appears to be Fine (2026-08-25T12:12:19Z)
   - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-appears-to-be-fine/1915982
 - **TreVeyon Henderson** — TreVeyon Henderson Undergoing "Precautionary Tests" on his Ankle (2026-08-25T12:04:15Z)
@@ -207,21 +225,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tyler-warren-could-be-held-out-of-practice-this-week/1915955
 - **Malik Willis** — Malik Willis Making Visible Progress (2026-08-25T11:02:17Z)
   - Source: https://www.rotoballer.com/player-news/malik-willis-making-visible-progress/1915931
-- **Mike Washington** — Mike Washington Jr. Impresses While Working with First-Team Offense (2026-08-25T10:50:17Z)
-  - Source: https://www.rotoballer.com/player-news/mike-washington-jr-impresses-while-working-with-first-team-offense/1915928
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Dealing with Groin Injury (2026-08-25T09:52:07Z)
-  - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-dealing-with-a-lower-body-injury/1915889
-- **Kenny Gainwell** — Kenny Gainwell Could Lead Tampa Bay in Receptions (2026-08-25T09:39:08Z)
-  - Source: https://www.rotoballer.com/player-news/kenny-gainwell-could-lead-tampa-bay-in-receptions/1915867
-- **Ashton Jeanty** — Ashton Jeanty Not Believed to Have a Serious Injury, Uncertain for Week 1 (2026-08-25T09:16:15Z)
-  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-not-believed-to-have-a-serious-injury-uncertain-for-week-1/1915841
-- **DJ Moore** — DJ Moore Emerging as a Top Sleeper in 2026 Fantasy Drafts (2026-08-25T00:57:09Z)
-  - Source: https://www.rotoballer.com/player-news/dj-moore-emerging-as-a-top-sleeper-in-2026-fantasy-drafts/1915725
-- **Tyler Allgeier** — Tyler Allgeier a Flex Option to Open the Regular Season (2026-08-25T00:48:58Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-allgeier-a-flex-option-to-open-the-regular-season/1915723
-- **Kirk Cousins** — Kirk Cousins - Listed atop depth chart (2026-08-25T00:47:30Z)
-  - With coach Klint Kubiak recently declining to formally name a starter, this depth-chart placement offers another sign that Cousins remains the leading option atop Las Vegas' quarterback room. Fernando Mendoza and Aidan O'Connell, in that order, appear to remain behind Cousins heading into the Raiders' final preseason contest. It's unclear if Cousins will see any action in that game.
-- **Jayden Reed** — Jayden Reed Looking to Overcome Emergence of Young Teammates (2026-08-25T00:42:08Z)
-  - Source: https://www.rotoballer.com/player-news/jayden-reed-looking-to-overcome-emergence-of-young-teammates/1915719
-- **Trevor Lawrence** — Trevor Lawrence Looking to Replicate Rushing Success from 2025 (2026-08-25T00:36:26Z)
-  - Source: https://www.rotoballer.com/player-news/can-trevor-lawrence-replicate-rushing-success-from-career-best-season/1915711

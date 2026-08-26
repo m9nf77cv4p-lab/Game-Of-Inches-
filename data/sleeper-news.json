@@ -1,13 +1,17 @@
 {
-  "last_checked_at": "2026-08-26T03:35:20Z",
+  "last_checked_at": "2026-08-26T05:17:57Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11571|rotoballer|219393|1787694375000",
-    "nfl|13293|rotoballer|219390|1787692748000",
-    "nfl|13305|rotowire|634862|1787707828000",
-    "nfl|13311|rotoballer|219392|1787693948000",
-    "nfl|9229|rotoballer|219391|1787693171000"
+    "nfl|11627|rotoballer|219399|1787701817000",
+    "nfl|12489|rotoballer|219396|1787700738000",
+    "nfl|12502|rotoballer|219404|1787705470000",
+    "nfl|13305|rotoballer|219398|1787701336000",
+    "nfl|13405|rotoballer|219405|1787705171000",
+    "nfl|4943|rotoballer|219401|1787703492000",
+    "nfl|5927|rotoballer|219400|1787702947000",
+    "nfl|7526|rotoballer|219397|1787700975000",
+    "nfl|8210|rotoballer|219403|1787704686000"
   ],
   "schema_version": 1,
   "source": {
@@ -36,6 +40,186 @@
       "story_id": "nfl|13305|rotowire|634862|1787707828000",
       "title": "Mike Washington - Draws praise from coach",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Tennessee Titans tight end Gunnar Helm finished the 2025 season on a very strong note, and he'll look to pick up exactly where he left off as the 2026 campaign gets underway. Helm was the overall TE31 as a rookie. He had at least four catches in six of his final 12 games last year, including an impressive stat line of 20 catches, 141 yards, and one touchdown over the last six weeks. His emergence might have been a motivating factor in the Titans' decision to let Chig Okonkwo walk in free agency. Helm is now the undisputed No. 1 tight end in Tennessee, and while he'll likely face competition for targets from Carnell Tate and Wan'Dale Robinson, he figures to handle a decent target share throughout the upcoming season. The Texas product is currently the TE31 in RotoBaller's latest redraft rankings, but he has legitimate top-18 upside in both dynasty and redraft formats.",
+      "metadata": {
+        "description": "Tennessee Titans tight end Gunnar Helm finished the 2025 season on a very strong note, and he'll look to pick up exactly where he left off as the 2026 campaign gets underway. Helm was the overall TE31 as a rookie. He had at least four catches in six of his final 12 games last year, including an impressive stat line of 20 catches, 141 yards, and one touchdown over the last six weeks. His emergence might have been a motivating factor in the Titans' decision to let Chig Okonkwo walk in free agency. Helm is now the undisputed No. 1 tight end in Tennessee, and while he'll likely face competition for targets from Carnell Tate and Wan'Dale Robinson, he figures to handle a decent target share throughout the upcoming season. The Texas product is currently the TE31 in RotoBaller's latest redraft rankings, but he has legitimate top-18 upside in both dynasty and redraft formats.",
+        "title": "Gunnar Helm Has Momentum on His Side Entering 2026",
+        "topic_id": "1398203256139726848",
+        "url": "https://www.rotoballer.com/player-news/gunnar-helm-has-momentum-on-his-side-entering-2026/1916510"
+      },
+      "nfl_team": "TEN",
+      "player_id": "12502",
+      "player_name": "Gunnar Helm",
+      "position": "TE",
+      "published": 1787705470000,
+      "source": "rotoballer",
+      "source_key": "219404",
+      "story_id": "nfl|12502|rotoballer|219404|1787705470000",
+      "title": "Gunnar Helm Has Momentum on His Side Entering 2026",
+      "url": "https://www.rotoballer.com/player-news/gunnar-helm-has-momentum-on-his-side-entering-2026/1916510"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Kaytron Allen remains behind Jacory Croskey-Merritt and Rachaad White on the depth chart, but as the current projected No. 3 ball-carrier, he should have no trouble making the 53-man roster. A sixth-round pick out of Penn State, Allen made a significant impact in Week 2 of the preseason as he handled a team-high 10 carries, although it resulted in a modest total of 30 yards (3.0 YPC). He also caught one pass for no gain. Purely based on volume, it looks like the Commanders could give Allen a role as early as Week 1 of the regular season, even if he's not quite as involved as Croskey-Merritt or White. Allen is the RB68 in RotoBaller's latest fantasy football rankings for 2026.",
+      "metadata": {
+        "description": "Washington Commanders running back Kaytron Allen remains behind Jacory Croskey-Merritt and Rachaad White on the depth chart, but as the current projected No. 3 ball-carrier, he should have no trouble making the 53-man roster. A sixth-round pick out of Penn State, Allen made a significant impact in Week 2 of the preseason as he handled a team-high 10 carries, although it resulted in a modest total of 30 yards (3.0 YPC). He also caught one pass for no gain. Purely based on volume, it looks like the Commanders could give Allen a role as early as Week 1 of the regular season, even if he's not quite as involved as Croskey-Merritt or White. Allen is the RB68 in RotoBaller's latest fantasy football rankings for 2026.",
+        "title": "Kaytron Allen on Track to Round Out the Backfield",
+        "topic_id": "1398203256139726849",
+        "url": "https://www.rotoballer.com/player-news/kaytron-allen-on-track-to-round-out-the-backfield/1916504"
+      },
+      "nfl_team": "WAS",
+      "player_id": "13405",
+      "player_name": "Kaytron Allen",
+      "position": "RB",
+      "published": 1787705171000,
+      "source": "rotoballer",
+      "source_key": "219405",
+      "story_id": "nfl|13405|rotoballer|219405|1787705171000",
+      "title": "Kaytron Allen on Track to Round Out the Backfield",
+      "url": "https://www.rotoballer.com/player-news/kaytron-allen-on-track-to-round-out-the-backfield/1916504"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders tight end Chig Okonkwo should benefit from a change of scenery ahead of the 2026 season. The Maryland product spent the last four seasons in Tennessee, finishing each of the four years between TE21 and TE25 in PPR leagues. That level of consistency became the norm for Okonkwo in Tennessee, but it never resulted in a true breakout. Instead, he was frequently a mid-range TE2 in fantasy football, with his best stats coming in 2025 when he caught 56 passes for 560 yards and two touchdowns. We could be looking at a similar situation to when Washington brought in veteran Zach Ertz, fueling his career resurgence. Ertz was the overall TE7 with 654 yards and seven touchdowns as the Commanders' primary tight end in 2024, and while Okonkwo's leap might not be quite that large, he still has clear top-12 upside in fantasy football, especially if quarterback Jayden Daniels can stay healthy for a full season. He's a very appealing late-round target for fantasy managers who want to roster two tight ends in 2026.",
+      "metadata": {
+        "description": "Washington Commanders tight end Chig Okonkwo should benefit from a change of scenery ahead of the 2026 season. The Maryland product spent the last four seasons in Tennessee, finishing each of the four years between TE21 and TE25 in PPR leagues. That level of consistency became the norm for Okonkwo in Tennessee, but it never resulted in a true breakout. Instead, he was frequently a mid-range TE2 in fantasy football, with his best stats coming in 2025 when he caught 56 passes for 560 yards and two touchdowns. We could be looking at a similar situation to when Washington brought in veteran Zach Ertz, fueling his career resurgence. Ertz was the overall TE7 with 654 yards and seven touchdowns as the Commanders' primary tight end in 2024, and while Okonkwo's leap might not be quite that large, he still has clear top-12 upside in fantasy football, especially if quarterback Jayden Daniels can stay healthy for a full season. He's a very appealing late-round target for fantasy managers who want to roster two tight ends in 2026.",
+        "title": "Chig Okonkwo Has an Opportunity to Break Out in 2026",
+        "topic_id": "1398200739519594496",
+        "url": "https://www.rotoballer.com/player-news/chig-okonkwo-has-an-opportunity-to-break-out-in-2026/1916498"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8210",
+      "player_name": "Chig Okonkwo",
+      "position": "TE",
+      "published": 1787704686000,
+      "source": "rotoballer",
+      "source_key": "219403",
+      "story_id": "nfl|8210|rotoballer|219403|1787704686000",
+      "title": "Chig Okonkwo Has an Opportunity to Break Out in 2026",
+      "url": "https://www.rotoballer.com/player-news/chig-okonkwo-has-an-opportunity-to-break-out-in-2026/1916498"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks quarterback Sam Darnold has a talented group of weapons around him at wide receiver, running back, and tight end. Although Jake Bobo (knee) went down with a season-ending ACL tear, this is still a very talented wide receiver room headlined by Jaxon Smith-Njigba, Cooper Kupp, and Rashid Shaheed. All three have different skill sets that should give Darnold plenty of options in the passing game. At tight end, AJ Barner is coming off a big 2025 campaign, while Elijah Arroyo has a second-round draft stock. Meanwhile, the Seahawks have an impressive backfield featuring Jadarian Price and Zach Charbonnet (knee). Rounding out the offense is a very dependable offensive line. The Seahawks didn't make many additions in the trenches, but mostly because it was already a strong unit. Grey Zabel and Charles Cross are terrific blindside protectors for Darnold, who only took 27 sacks last year (as opposed to 48 in 2024 with Minnesota). Despite having limited mobility, the veteran signal caller has ranked as a top-13 quarterback in fantasy football for each of the last two seasons. He enters the 2026 season as the QB23 in RotoBaller's latest draft rankings.",
+      "metadata": {
+        "description": "Seattle Seahawks quarterback Sam Darnold has a talented group of weapons around him at wide receiver, running back, and tight end. Although Jake Bobo (knee) went down with a season-ending ACL tear, this is still a very talented wide receiver room headlined by Jaxon Smith-Njigba, Cooper Kupp, and Rashid Shaheed. All three have different skill sets that should give Darnold plenty of options in the passing game. At tight end, AJ Barner is coming off a big 2025 campaign, while Elijah Arroyo has a second-round draft stock. Meanwhile, the Seahawks have an impressive backfield featuring Jadarian Price and Zach Charbonnet (knee). Rounding out the offense is a very dependable offensive line. The Seahawks didn't make many additions in the trenches, but mostly because it was already a strong unit. Grey Zabel and Charles Cross are terrific blindside protectors for Darnold, who only took 27 sacks last year (as opposed to 48 in 2024 with Minnesota). Despite having limited mobility, the veteran signal caller has ranked as a top-13 quarterback in fantasy football for each of the last two seasons. He enters the 2026 season as the QB23 in RotoBaller's latest draft rankings.",
+        "title": "Sam Darnold Should Benefit From a Strong Supporting Cast",
+        "topic_id": "1398195706098880512",
+        "url": "https://www.rotoballer.com/player-news/sam-darnold-should-benefit-from-a-strong-supporting-cast/1916493"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1787703492000,
+      "source": "rotoballer",
+      "source_key": "219401",
+      "story_id": "nfl|4943|rotoballer|219401|1787703492000",
+      "title": "Sam Darnold Should Benefit From a Strong Supporting Cast",
+      "url": "https://www.rotoballer.com/player-news/sam-darnold-should-benefit-from-a-strong-supporting-cast/1916493"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders wide receiver Terry McLaurin is looking to put an atrocious 2025 season behind him. He was limited to just 10 games due to injury, and he finished the year with a modest 38 catches, 582 yards, and three touchdowns. Even if you extrapolate his stats over a full 17-game campaign, he still would have had just five touchdowns and fewer than 1,000 yards. It's certainly not a lack of talent, as McLaurin was the WR7 in 2025. More likely, he struggled as a result of his own inconsistent availability, as well as inconsistent quarterback play. The Commanders cycled through three different quarterbacks last year, and Jayden Daniels missed 10 games. If both McLaurin and Daniels can play close to 17 games in 2026, the talented pass-catcher should return to the top-15 receiver range in fantasy football. The upside is somewhat baked into his current ADP of 52.8, and he currently ranks as the WR24 in RotoBaller's latest draft rankings.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Terry McLaurin is looking to put an atrocious 2025 season behind him. He was limited to just 10 games due to injury, and he finished the year with a modest 38 catches, 582 yards, and three touchdowns. Even if you extrapolate his stats over a full 17-game campaign, he still would have had just five touchdowns and fewer than 1,000 yards. It's certainly not a lack of talent, as McLaurin was the WR7 in 2025. More likely, he struggled as a result of his own inconsistent availability, as well as inconsistent quarterback play. The Commanders cycled through three different quarterbacks last year, and Jayden Daniels missed 10 games. If both McLaurin and Daniels can play close to 17 games in 2026, the talented pass-catcher should return to the top-15 receiver range in fantasy football. The upside is somewhat baked into his current ADP of 52.8, and he currently ranks as the WR24 in RotoBaller's latest draft rankings.",
+        "title": "Consistency is Key for Terry McLaurin in 2026",
+        "topic_id": "1398194447535099904",
+        "url": "https://www.rotoballer.com/player-news/consistency-is-key-for-terry-mclaurin-in-2026/1916486"
+      },
+      "nfl_team": "WAS",
+      "player_id": "5927",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
+      "published": 1787702947000,
+      "source": "rotoballer",
+      "source_key": "219400",
+      "story_id": "nfl|5927|rotoballer|219400|1787702947000",
+      "title": "Consistency is Key for Terry McLaurin in 2026",
+      "url": "https://www.rotoballer.com/player-news/consistency-is-key-for-terry-mclaurin-in-2026/1916486"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Troy Franklin fell down the depth chart this past offseason after the team traded for Jaylen Waddle from Miami. Not only did Franklin slip to No. 3 in the wide receiver pecking order, but he hasn't exactly made a compelling case for more volume. In Week 2 of the preseason, he played 16 snaps but didn't fetch a single target. Last year, he was the WR31 in PPR leagues with 709 yards and six touchdowns, but he might have trouble eclipsing those same numbers in his new role behind both Waddle and Courtland Sutton. The good news for Franklin is that his quarterback and former college teammate, Bo Nix (ankle), is back from injury, but we're still not very confident in the 23-year-old receiver for fantasy purposes as long as Waddle and Sutton are healthy. As it stands, Franklin is the WR102 in RotoBaller's latest fantasy football draft rankings for 2026.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Troy Franklin fell down the depth chart this past offseason after the team traded for Jaylen Waddle from Miami. Not only did Franklin slip to No. 3 in the wide receiver pecking order, but he hasn't exactly made a compelling case for more volume. In Week 2 of the preseason, he played 16 snaps but didn't fetch a single target. Last year, he was the WR31 in PPR leagues with 709 yards and six touchdowns, but he might have trouble eclipsing those same numbers in his new role behind both Waddle and Courtland Sutton. The good news for Franklin is that his quarterback and former college teammate, Bo Nix (ankle), is back from injury, but we're still not very confident in the 23-year-old receiver for fantasy purposes as long as Waddle and Sutton are healthy. As it stands, Franklin is the WR102 in RotoBaller's latest fantasy football draft rankings for 2026.",
+        "title": "Troy Franklin is No Longer a Flashy Fantasy Target",
+        "topic_id": "1398188155865190400",
+        "url": "https://www.rotoballer.com/player-news/troy-franklin-is-no-longer-a-flashy-fantasy-target/1916479"
+      },
+      "nfl_team": "DEN",
+      "player_id": "11627",
+      "player_name": "Troy Franklin",
+      "position": "WR",
+      "published": 1787701817000,
+      "source": "rotoballer",
+      "source_key": "219399",
+      "story_id": "nfl|11627|rotoballer|219399|1787701817000",
+      "title": "Troy Franklin is No Longer a Flashy Fantasy Target",
+      "url": "https://www.rotoballer.com/player-news/troy-franklin-is-no-longer-a-flashy-fantasy-target/1916479"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders rookie running back Mike Washington Jr. has earned the praise of head coach Klint Kubiak ahead of the 2026 season. \"He's done a great job of growing up real fast,\" Kubiak told Levi Edwards of the team's official website. \"He's a guy that understands we're counting on him. He's maturing really fast.\" Washington is a fourth-round pick out of Arkansas, and while he was initially drafted to be a backup, he could step into a larger role right away if Ashton Jeanty (ankle) isn't ready to play in Week 1. Jeanty recently suffered a low-ankle sprain that could sideline him for a couple of weeks, so there's a real chance that we see Washington draw the start during the season opener against the Dolphins on Sept. 13. Washington may be a rookie, but Kubiak's comments suggest that he's ready for a big role. He currently ranks as the RB48 in RotoBaller's latest fantasy football rankings for 2026.",
+      "metadata": {
+        "description": "Las Vegas Raiders rookie running back Mike Washington Jr. has earned the praise of head coach Klint Kubiak ahead of the 2026 season. \"He's done a great job of growing up real fast,\" Kubiak told Levi Edwards of the team's official website. \"He's a guy that understands we're counting on him. He's maturing really fast.\" Washington is a fourth-round pick out of Arkansas, and while he was initially drafted to be a backup, he could step into a larger role right away if Ashton Jeanty (ankle) isn't ready to play in Week 1. Jeanty recently suffered a low-ankle sprain that could sideline him for a couple of weeks, so there's a real chance that we see Washington draw the start during the season opener against the Dolphins on Sept. 13. Washington may be a rookie, but Kubiak's comments suggest that he's ready for a big role. He currently ranks as the RB48 in RotoBaller's latest fantasy football rankings for 2026.",
+        "title": "Klint Kubiak Praises Mike Washington Jr.",
+        "topic_id": "1398186896936460288",
+        "url": "https://www.rotoballer.com/player-news/klint-kubiak-praises-mike-washington-jr/1916477"
+      },
+      "nfl_team": "LV",
+      "player_id": "13305",
+      "player_name": "Mike Washington",
+      "position": "RB",
+      "published": 1787701336000,
+      "source": "rotoballer",
+      "source_key": "219398",
+      "story_id": "nfl|13305|rotoballer|219398|1787701336000",
+      "title": "Klint Kubiak Praises Mike Washington Jr.",
+      "url": "https://www.rotoballer.com/player-news/klint-kubiak-praises-mike-washington-jr/1916477"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Jaylen Waddle \"is going to play everywhere except offensive line,\" offensive coordinator Davis Webb told Zac Stevens of DNVR Sports. These remarks obviously come with a little sarcasm, as Waddle obviously isn't going to line up in the trenches, nor do we expect him to throw any passes. With that being said, it's still fair to read into these comments and wonder if we might see some design rushing attempts for Waddle out of the backfield, as well as a very heavy dose of snaps in the slot and out wide. Denver gave up a first-round pick in the package for the young receiver, so it makes sense that they want to get him involved in as many ways as possible. He had 910 yards and six touchdowns last season, and those numbers should only increase as he gets a quarterback upgrade with Bo Nix throwing to him. Waddle currently ranks as the WR20 in RotoBaller's latest fantasy football rankings, 20 spots ahead of teammate Courtland Sutton.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Jaylen Waddle \"is going to play everywhere except offensive line,\" offensive coordinator Davis Webb told Zac Stevens of DNVR Sports. These remarks obviously come with a little sarcasm, as Waddle obviously isn't going to line up in the trenches, nor do we expect him to throw any passes. With that being said, it's still fair to read into these comments and wonder if we might see some design rushing attempts for Waddle out of the backfield, as well as a very heavy dose of snaps in the slot and out wide. Denver gave up a first-round pick in the package for the young receiver, so it makes sense that they want to get him involved in as many ways as possible. He had 910 yards and six touchdowns last season, and those numbers should only increase as he gets a quarterback upgrade with Bo Nix throwing to him. Waddle currently ranks as the WR20 in RotoBaller's latest fantasy football rankings, 20 spots ahead of teammate Courtland Sutton.",
+        "title": "Broncos Say Jaylen Waddle is \"Going to Play Everywhere\"",
+        "topic_id": "1398185638603325440",
+        "url": "https://www.rotoballer.com/player-news/broncos-say-jaylen-waddle-is-going-to-play-everywhere/1916475"
+      },
+      "nfl_team": "DEN",
+      "player_id": "7526",
+      "player_name": "Jaylen Waddle",
+      "position": "WR",
+      "published": 1787700975000,
+      "source": "rotoballer",
+      "source_key": "219397",
+      "story_id": "nfl|7526|rotoballer|219397|1787700975000",
+      "title": "Broncos Say Jaylen Waddle is \"Going to Play Everywhere\"",
+      "url": "https://www.rotoballer.com/player-news/broncos-say-jaylen-waddle-is-going-to-play-everywhere/1916475"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos running back RJ Harvey is evolving into a \"complete back,\" offensive coordinator Davis Webb told Zac Stevens of DNVR Sports. Harvey impressed as a rookie last season, scoring 12 touchdowns and ranking as the RB20 in PPR leagues despite finishing with fewer than 1,000 rushing yards. He demonstrated impressive versatility last year, and Webb's comments would seem to indicate that Harvey has taken another step forward this preseason. It's a bit of a crowded backfield between Harvey, JK Dobbins, and Jonah Coleman, but Harvey seemingly has the highest upside of that group. If he plays a full 17-game slate this year, he should have no problem eclipsing 1,000 yards while pushing for another 12+ touchdowns. He ranks as the RB35 in RotoBaller's latest fantasy football draft rankings, which is four spots behind Dobbins and 17 spots ahead of Coleman.",
+      "metadata": {
+        "description": "Denver Broncos running back RJ Harvey is evolving into a \"complete back,\" offensive coordinator Davis Webb told Zac Stevens of DNVR Sports. Harvey impressed as a rookie last season, scoring 12 touchdowns and ranking as the RB20 in PPR leagues despite finishing with fewer than 1,000 rushing yards. He demonstrated impressive versatility last year, and Webb's comments would seem to indicate that Harvey has taken another step forward this preseason. It's a bit of a crowded backfield between Harvey, JK Dobbins, and Jonah Coleman, but Harvey seemingly has the highest upside of that group. If he plays a full 17-game slate this year, he should have no problem eclipsing 1,000 yards while pushing for another 12+ touchdowns. He ranks as the RB35 in RotoBaller's latest fantasy football draft rankings, which is four spots behind Dobbins and 17 spots ahead of Coleman.",
+        "title": "Coach Says RJ Harvey is Becoming a \"Complete Back\"",
+        "topic_id": "1398184380685402129",
+        "url": "https://www.rotoballer.com/player-news/coach-says-rj-harvey-is-becoming-a-complete-back/1916473"
+      },
+      "nfl_team": "DEN",
+      "player_id": "12489",
+      "player_name": "RJ Harvey",
+      "position": "RB",
+      "published": 1787700738000,
+      "source": "rotoballer",
+      "source_key": "219396",
+      "story_id": "nfl|12489|rotoballer|219396|1787700738000",
+      "title": "Coach Says RJ Harvey is Becoming a \"Complete Back\"",
+      "url": "https://www.rotoballer.com/player-news/coach-says-rj-harvey-is-becoming-a-complete-back/1916473"
     },
     {
       "analysis": null,
@@ -1716,10 +1900,10 @@
       "url": "https://www.rotoballer.com/player-news/josh-allen-will-not-play-in-preseason-finale/1915994"
     },
     {
-      "analysis": "It comes as no surprise that Allen will be held out, as the Bills ensure their starting quarterback -- and the consensus top quarterback in fantasy football -- does not take any further hits before Week 1. Allen hasn't missed a game since his rookie campaign in 2018, making 137 consecutive starts between the regular season and playoffs, tied for the eighth-longest streak by a quarterback in NFL history.",
+      "analysis": "It comes as no surprise that Allen will be held out, as the Bills will ensure their starting quarterback -- and the consensus top quarterback in fantasy football -- does not take any further hits before Week 1. Allen hasn't missed a game since his rookie campaign in 2018, making 137 consecutive starts between the regular season and playoffs, tied for the eighth-longest streak by a quarterback in NFL history.",
       "description": "Allen will not play in Thursday's preseason finale against the Steelers, Jay Skurski of The Buffalo News reports.",
       "metadata": {
-        "analysis": "It comes as no surprise that Allen will be held out, as the Bills ensure their starting quarterback -- and the consensus top quarterback in fantasy football -- does not take any further hits before Week 1. Allen hasn't missed a game since his rookie campaign in 2018, making 137 consecutive starts between the regular season and playoffs, tied for the eighth-longest streak by a quarterback in NFL history.",
+        "analysis": "It comes as no surprise that Allen will be held out, as the Bills will ensure their starting quarterback -- and the consensus top quarterback in fantasy football -- does not take any further hits before Week 1. Allen hasn't missed a game since his rookie campaign in 2018, making 137 consecutive starts between the regular season and playoffs, tied for the eighth-longest streak by a quarterback in NFL history.",
         "description": "Allen will not play in Thursday's preseason finale against the Steelers, Jay Skurski of The Buffalo News reports.",
         "title": "Josh Allen - Will sit Thursday night",
         "topic_id": "1397956647011233792"
