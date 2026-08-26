@@ -19705,10 +19705,10 @@
       "full_name": "Trey Benson",
       "injury_status": "IR",
       "last_name": "Benson",
-      "nfl_team": null,
+      "nfl_team": "ARI",
       "player_id": "11589",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 2
     },
     "11597": {
@@ -23560,8 +23560,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-26T05:17:56Z",
-    "source_fingerprint": "6dfcaf067221feb723878aa405c9311c97877f0fbfec61e55b61a116a1d233dd"
+    "last_changed_at": "2026-08-26T08:01:51Z",
+    "source_fingerprint": "5958310df1db5fae1a0c47f81a547fd98bc8684fa3954bd5811330cc2b11b206"
   },
   "teams": [
     {

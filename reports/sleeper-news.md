@@ -3,29 +3,29 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1003**
-- Newly captured: **9**
+- Newly captured: **0**
 
 ## Latest news
 
 - **Mike Washington** — Mike Washington - Draws praise from coach (2026-08-26T01:30:28Z)
   - Washington was selected by Las Vegas in the fourth round of April's NFL Draft and has already turned heads in the team's first two preseason games, rushing for 119 yards on 15 carries (7.9 YPC) while adding two catches on four targets for 18 yards. The rookie's name became a hot topic in the fantasy community this past weekend when Ashton Jeanty went down with an ankle injury during practice, though the latest news is that he's nursing a low-ankle sprain and isn't looking at a long-term absence. It appears Jeanty could be ready to face the Dolphins in Week 1 on Sunday, Sept. 13, but if the ankle injury persists and keeps him out of the regular-season opener, Washington would be the lead candidate to take over No. 1 RB duties for that contest.
-- **NEW — Gunnar Helm** — Gunnar Helm Has Momentum on His Side Entering 2026 (2026-08-26T00:51:10Z)
+- **Gunnar Helm** — Gunnar Helm Has Momentum on His Side Entering 2026 (2026-08-26T00:51:10Z)
   - Source: https://www.rotoballer.com/player-news/gunnar-helm-has-momentum-on-his-side-entering-2026/1916510
-- **NEW — Kaytron Allen** — Kaytron Allen on Track to Round Out the Backfield (2026-08-26T00:46:11Z)
+- **Kaytron Allen** — Kaytron Allen on Track to Round Out the Backfield (2026-08-26T00:46:11Z)
   - Source: https://www.rotoballer.com/player-news/kaytron-allen-on-track-to-round-out-the-backfield/1916504
-- **NEW — Chig Okonkwo** — Chig Okonkwo Has an Opportunity to Break Out in 2026 (2026-08-26T00:38:06Z)
+- **Chig Okonkwo** — Chig Okonkwo Has an Opportunity to Break Out in 2026 (2026-08-26T00:38:06Z)
   - Source: https://www.rotoballer.com/player-news/chig-okonkwo-has-an-opportunity-to-break-out-in-2026/1916498
-- **NEW — Sam Darnold** — Sam Darnold Should Benefit From a Strong Supporting Cast (2026-08-26T00:18:12Z)
+- **Sam Darnold** — Sam Darnold Should Benefit From a Strong Supporting Cast (2026-08-26T00:18:12Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-should-benefit-from-a-strong-supporting-cast/1916493
-- **NEW — Terry McLaurin** — Consistency is Key for Terry McLaurin in 2026 (2026-08-26T00:09:07Z)
+- **Terry McLaurin** — Consistency is Key for Terry McLaurin in 2026 (2026-08-26T00:09:07Z)
   - Source: https://www.rotoballer.com/player-news/consistency-is-key-for-terry-mclaurin-in-2026/1916486
-- **NEW — Troy Franklin** — Troy Franklin is No Longer a Flashy Fantasy Target (2026-08-25T23:50:17Z)
+- **Troy Franklin** — Troy Franklin is No Longer a Flashy Fantasy Target (2026-08-25T23:50:17Z)
   - Source: https://www.rotoballer.com/player-news/troy-franklin-is-no-longer-a-flashy-fantasy-target/1916479
-- **NEW — Mike Washington** — Klint Kubiak Praises Mike Washington Jr. (2026-08-25T23:42:16Z)
+- **Mike Washington** — Klint Kubiak Praises Mike Washington Jr. (2026-08-25T23:42:16Z)
   - Source: https://www.rotoballer.com/player-news/klint-kubiak-praises-mike-washington-jr/1916477
-- **NEW — Jaylen Waddle** — Broncos Say Jaylen Waddle is "Going to Play Everywhere" (2026-08-25T23:36:15Z)
+- **Jaylen Waddle** — Broncos Say Jaylen Waddle is "Going to Play Everywhere" (2026-08-25T23:36:15Z)
   - Source: https://www.rotoballer.com/player-news/broncos-say-jaylen-waddle-is-going-to-play-everywhere/1916475
-- **NEW — RJ Harvey** — Coach Says RJ Harvey is Becoming a "Complete Back" (2026-08-25T23:32:18Z)
+- **RJ Harvey** — Coach Says RJ Harvey is Becoming a "Complete Back" (2026-08-25T23:32:18Z)
   - Source: https://www.rotoballer.com/player-news/coach-says-rj-harvey-is-becoming-a-complete-back/1916473
 - **Isaiah Davis** — Isaiah Davis Making Progress on Side Field (2026-08-25T21:46:15Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-davis-making-progress-on-side-field/1916417

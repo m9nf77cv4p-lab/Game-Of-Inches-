@@ -1,18 +1,8 @@
 {
-  "last_checked_at": "2026-08-26T05:17:57Z",
+  "last_checked_at": "2026-08-26T08:01:52Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [
-    "nfl|11627|rotoballer|219399|1787701817000",
-    "nfl|12489|rotoballer|219396|1787700738000",
-    "nfl|12502|rotoballer|219404|1787705470000",
-    "nfl|13305|rotoballer|219398|1787701336000",
-    "nfl|13405|rotoballer|219405|1787705171000",
-    "nfl|4943|rotoballer|219401|1787703492000",
-    "nfl|5927|rotoballer|219400|1787702947000",
-    "nfl|7526|rotoballer|219397|1787700975000",
-    "nfl|8210|rotoballer|219403|1787704686000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -953,10 +943,10 @@
     },
     {
       "analysis": "McDaniel did not indicate what Mitchell has experienced a setback from, as no injury to the running back has been reported this offseason. \"I think the running back position is, we sustained a mild setback with Keaton, but realistically, that's a position that you're always wanting to have three, and I like what our young guys are doing to press into that group,\" McDaniel said regarding the Chargers' backfield depth. Mitchell could be held out of the team's preseason finale Thursday against the Rams, but as yet there's no suggestion he could sit out Week 1 against the Cardinals.",
-      "description": "Chargers offensive coordinator Mike McDaniel  said Monday that there had been \"a mild setback\" with Mitchell.",
+      "description": "Chargers offensive coordinator Mike McDaniel  said Monday that there had been \"a mild setback\" with Mitchell with an undisclosed issue.",
       "metadata": {
         "analysis": "McDaniel did not indicate what Mitchell has experienced a setback from, as no injury to the running back has been reported this offseason. \"I think the running back position is, we sustained a mild setback with Keaton, but realistically, that's a position that you're always wanting to have three, and I like what our young guys are doing to press into that group,\" McDaniel said regarding the Chargers' backfield depth. Mitchell could be held out of the team's preseason finale Thursday against the Rams, but as yet there's no suggestion he could sit out Week 1 against the Cardinals.",
-        "description": "Chargers offensive coordinator Mike McDaniel  said Monday that there had been \"a mild setback\" with Mitchell.",
+        "description": "Chargers offensive coordinator Mike McDaniel  said Monday that there had been \"a mild setback\" with Mitchell with an undisclosed issue.",
         "title": "Keaton Mitchell - Suffers mild setback",
         "topic_id": "1398013275530137600"
       },
