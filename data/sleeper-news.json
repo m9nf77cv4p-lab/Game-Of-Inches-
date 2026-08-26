@@ -1,8 +1,16 @@
 {
-  "last_checked_at": "2026-08-26T08:01:52Z",
+  "last_checked_at": "2026-08-26T14:25:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11631|rotoballer|219410|1787738418000",
+    "nfl|11631|rotowire|634869|1787752294000",
+    "nfl|13285|rotowire|634867|1787751388000",
+    "nfl|3294|rotoballer|219407|1787737017000",
+    "nfl|8137|rotoballer|219409|1787737723000",
+    "nfl|9224|rotoballer|219411|1787739255000",
+    "nfl|9226|rotoballer|219408|1787736309000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +19,146 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Thomas made an early exit Tuesday for the first of two joint practices after falling on his shoulder while catching a touchdown pass in red-zone drills. Head coach Liam Coen said afterward that Thomas was \"alright,\" though Coen indicated that the Jaguars would likely err on the side of caution and keep the receiver out for Friday's preseason finale versus Tampa Bay. Thomas' return to the field in a day later -- even in what appears to be a limited capacity -- is a good sign that he'll be ready to go for the Jaguars' Sept. 13 season opener versus the Browns.",
+      "description": "Thomas (shoulder) was present on the field for Wednesday's joint practice with the Buccaneers while sporting a no-contact jersey, John Shipley of SI.com reports.",
+      "metadata": {
+        "analysis": "Thomas made an early exit Tuesday for the first of two joint practices after falling on his shoulder while catching a touchdown pass in red-zone drills. Head coach Liam Coen said afterward that Thomas was \"alright,\" though Coen indicated that the Jaguars would likely err on the side of caution and keep the receiver out for Friday's preseason finale versus Tampa Bay. Thomas' return to the field in a day later -- even in what appears to be a limited capacity -- is a good sign that he'll be ready to go for the Jaguars' Sept. 13 season opener versus the Browns.",
+        "description": "Thomas (shoulder) was present on the field for Wednesday's joint practice with the Buccaneers while sporting a no-contact jersey, John Shipley of SI.com reports.",
+        "title": "Brian Thomas - Practicing Wednesday, but not taking contact",
+        "topic_id": "1398339168089669632"
+      },
+      "nfl_team": "JAX",
+      "player_id": "11631",
+      "player_name": "Brian Thomas",
+      "position": "WR",
+      "published": 1787752294000,
+      "source": "rotowire",
+      "source_key": "634869",
+      "story_id": "nfl|11631|rotowire|634869|1787752294000",
+      "title": "Brian Thomas - Practicing Wednesday, but not taking contact",
+      "url": null
+    },
+    {
+      "analysis": "Listed at 6-foot-4 and 222 pounds, Fields is primarily an \"X\" receiver and projects to see most of his playing time on the perimeter as a rookie, but the loss of Austin -- who was projected to serve as the Giants' top slot man -- could nonetheless aid his chances of seeing the field. With Austin sidelined, Dan Duggan of The Athletic posits that the Giants will lean on a committee of players in the slot, which could include Malik Nabers (knee). While it's also not out of the question for Fields to see some occasional work as a power slot, the rookie third-round pick would still be a beneficiary of more snaps on the outside if Nabers ends up playing inside more frequently. Fields has drawn generally positive reviews during his first training camp, seeing plenty of reps with the first-team offense while filling in for Nabers, who had been a non-participant or limited participant for much of the summer before being cleared to take contact earlier this week.",
+      "description": "Fields could be one of multiple Giants receivers that benefits from added opportunities to begin the season after Calvin Austin (knee) sustained a torn ACL during Tuesday's practice, Jordan Raanan of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Listed at 6-foot-4 and 222 pounds, Fields is primarily an \"X\" receiver and projects to see most of his playing time on the perimeter as a rookie, but the loss of Austin -- who was projected to serve as the Giants' top slot man -- could nonetheless aid his chances of seeing the field. With Austin sidelined, Dan Duggan of The Athletic posits that the Giants will lean on a committee of players in the slot, which could include Malik Nabers (knee). While it's also not out of the question for Fields to see some occasional work as a power slot, the rookie third-round pick would still be a beneficiary of more snaps on the outside if Nabers ends up playing inside more frequently. Fields has drawn generally positive reviews during his first training camp, seeing plenty of reps with the first-team offense while filling in for Nabers, who had been a non-participant or limited participant for much of the summer before being cleared to take contact earlier this week.",
+        "description": "Fields could be one of multiple Giants receivers that benefits from added opportunities to begin the season after Calvin Austin (knee) sustained a torn ACL during Tuesday's practice, Jordan Raanan of ESPN.com reports.",
+        "title": "Malachi Fields - Could see expanded role with Austin out",
+        "topic_id": "1398335393035788288"
+      },
+      "nfl_team": "NYG",
+      "player_id": "13285",
+      "player_name": "Malachi Fields",
+      "position": "WR",
+      "published": 1787751388000,
+      "source": "rotowire",
+      "source_key": "634867",
+      "story_id": "nfl|13285|rotowire|634867|1787751388000",
+      "title": "Malachi Fields - Could see expanded role with Austin out",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Cincinnati Bengals' starting offense has worked two drives in the 2026 preseason, with running back Chase Brown touching the ball on four of the team's first seven plays and handling five total carries. While his 16 yards are nothing gaudy, his early involvement reflects the hype he's received since the start of training camp, which has caused his ADP to steadily rise throughout draft season. The Bengals offense stumbled out of the blocks in 2025, derailed by an early-season injury to quarterback Joe Burrow, but following a slow start, Brown was the RB6 over the final 12 weeks of the season, and he projects for more of the same in 2026. Brown is RotoBaller's RB8, but as the de facto third receiving option in one of the league's most high-powered offenses, he has top-five upside and projects as a regular week-winner in PPR leagues.",
+      "metadata": {
+        "description": "The Cincinnati Bengals' starting offense has worked two drives in the 2026 preseason, with running back Chase Brown touching the ball on four of the team's first seven plays and handling five total carries. While his 16 yards are nothing gaudy, his early involvement reflects the hype he's received since the start of training camp, which has caused his ADP to steadily rise throughout draft season. The Bengals offense stumbled out of the blocks in 2025, derailed by an early-season injury to quarterback Joe Burrow, but following a slow start, Brown was the RB6 over the final 12 weeks of the season, and he projects for more of the same in 2026. Brown is RotoBaller's RB8, but as the de facto third receiving option in one of the league's most high-powered offenses, he has top-five upside and projects as a regular week-winner in PPR leagues.",
+        "title": "Chase Brown Has Top-Five Upside in 2026",
+        "topic_id": "1398345457956073494",
+        "url": "https://www.rotoballer.com/player-news/chase-brown-has-top-five-upside-in-2026/1916666"
+      },
+      "nfl_team": "CIN",
+      "player_id": "9224",
+      "player_name": "Chase Brown",
+      "position": "RB",
+      "published": 1787739255000,
+      "source": "rotoballer",
+      "source_key": "219411",
+      "story_id": "nfl|9224|rotoballer|219411|1787739255000",
+      "title": "Chase Brown Has Top-Five Upside in 2026",
+      "url": "https://www.rotoballer.com/player-news/chase-brown-has-top-five-upside-in-2026/1916666"
+    },
+    {
+      "analysis": null,
+      "description": "Following an injury scare that forced him out of Tuesday's joint practice with the Buccaneers, Jacksonville Jaguars wide receiver Brian Thomas Jr. (shoulder) is back in attendance on Wednesday, spotted wearing an orange non-contact jersey as he started the day with individual drills. Thomas came down on his shoulder while making a touchdown catch early in Tuesday's practice and showed obvious discomfort after initially attempting to stay on the field. While he eventually walked off with trainers, initial reports indicated the injury was not overly serious, and his presence one day later serves as confirmation. Thomas disappointed with a WR43 fantasy finish a season ago after bursting onto the scene as the WR4 as a rookie in 2024, but he has reportedly put in serious work to clean up some of the finer details of his game and has enjoyed a strong training camp as a result. While Parker Washington has drawn most of the headlines out of Jaguars' camp, Thomas could still be argued to have the highest weekly ceiling, making him a potential bargain for risk-tolerant drafters, currently coming off the board as the WR32.",
+      "metadata": {
+        "description": "Following an injury scare that forced him out of Tuesday's joint practice with the Buccaneers, Jacksonville Jaguars wide receiver Brian Thomas Jr. (shoulder) is back in attendance on Wednesday, spotted wearing an orange non-contact jersey as he started the day with individual drills. Thomas came down on his shoulder while making a touchdown catch early in Tuesday's practice and showed obvious discomfort after initially attempting to stay on the field. While he eventually walked off with trainers, initial reports indicated the injury was not overly serious, and his presence one day later serves as confirmation. Thomas disappointed with a WR43 fantasy finish a season ago after bursting onto the scene as the WR4 as a rookie in 2024, but he has reportedly put in serious work to clean up some of the finer details of his game and has enjoyed a strong training camp as a result. While Parker Washington has drawn most of the headlines out of Jaguars' camp, Thomas could still be argued to have the highest weekly ceiling, making him a potential bargain for risk-tolerant drafters, currently coming off the board as the WR32.",
+        "title": "Brian Thomas Jr. Practicing in Non-Contact Jersey",
+        "topic_id": "1398341683350872064",
+        "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-practicing-in-non-contact-jersey/1916650"
+      },
+      "nfl_team": "JAX",
+      "player_id": "11631",
+      "player_name": "Brian Thomas",
+      "position": "WR",
+      "published": 1787738418000,
+      "source": "rotoballer",
+      "source_key": "219410",
+      "story_id": "nfl|11631|rotoballer|219410|1787738418000",
+      "title": "Brian Thomas Jr. Practicing in Non-Contact Jersey",
+      "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-practicing-in-non-contact-jersey/1916650"
+    },
+    {
+      "analysis": null,
+      "description": "After a summer spent in Oxnard, California, the Dallas Cowboys returned to Frisco for their first local training camp practice on Tuesday night, and as he has done since arriving with the team, wide receiver George Pickens continued to make plays. One of the highlights of the night was a deep connection from Dak Prescott that the 2025 second-team All-Pro was able to haul in while keeping both feet inbounds, prompting team staff writer Tommy Yarrish to note that commenting on Pickens' standout moments has almost become repetitive. After a brief ramp-up period in his first season with the Cowboys, a Week 3 ankle injury to CeeDee Lamb thrust Pickens into the spotlight, allowing him to rack up a career-high 93 receptions for 1,429 yards and nine touchdowns on his way to a WR5 fantasy finish, remaining dominant even following Lamb's return. With the Cowboys' offense capable of producing two legitimate fantasy difference-makers at the position, Pickens is RotoBaller's WR8 and a perfectly suitable option to build around as a number one receiver in 2026 drafts.",
+      "metadata": {
+        "description": "After a summer spent in Oxnard, California, the Dallas Cowboys returned to Frisco for their first local training camp practice on Tuesday night, and as he has done since arriving with the team, wide receiver George Pickens continued to make plays. One of the highlights of the night was a deep connection from Dak Prescott that the 2025 second-team All-Pro was able to haul in while keeping both feet inbounds, prompting team staff writer Tommy Yarrish to note that commenting on Pickens' standout moments has almost become repetitive. After a brief ramp-up period in his first season with the Cowboys, a Week 3 ankle injury to CeeDee Lamb thrust Pickens into the spotlight, allowing him to rack up a career-high 93 receptions for 1,429 yards and nine touchdowns on his way to a WR5 fantasy finish, remaining dominant even following Lamb's return. With the Cowboys' offense capable of producing two legitimate fantasy difference-makers at the position, Pickens is RotoBaller's WR8 and a perfectly suitable option to build around as a number one receiver in 2026 drafts.",
+        "title": "George Pickens' Standout Camp Continues as Cowboys Return to Texas",
+        "topic_id": "1398339166202236928",
+        "url": "https://www.rotoballer.com/player-news/george-pickens-standout-camp-continues-as-cowboys-return-to-texas/1916642"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8137",
+      "player_name": "George Pickens",
+      "position": "WR",
+      "published": 1787737723000,
+      "source": "rotoballer",
+      "source_key": "219409",
+      "story_id": "nfl|8137|rotoballer|219409|1787737723000",
+      "title": "George Pickens' Standout Camp Continues as Cowboys Return to Texas",
+      "url": "https://www.rotoballer.com/player-news/george-pickens-standout-camp-continues-as-cowboys-return-to-texas/1916642"
+    },
+    {
+      "analysis": null,
+      "description": "At 33 years old, Dallas Cowboys quarterback Dak Prescott is entering his 11th season, and according to team staff writer Nick Eatman, he still has the speed to make off-platform plays as needed. In the team's first local training camp practice on Tuesday night, Prescott showed off the quickness and pocket presence that have defined much of his career, twice scrambling for touchdowns while working in the red zone. While Prescott has relied less on his legs after a handful of serious injuries, last topping 250 rushing yards in 2019, his escapability and ability to keep drives alive have contributed to keeping the Cowboys' offense among the league's most potent throughout his career while making him one of the most underrated fantasy performers in recent years. When playing at least 16 games in a season, Prescott has not finished outside the top eight of the position since 2018, making him one of the safest late-round quarterbacks to target in 2026 drafts.",
+      "metadata": {
+        "description": "At 33 years old, Dallas Cowboys quarterback Dak Prescott is entering his 11th season, and according to team staff writer Nick Eatman, he still has the speed to make off-platform plays as needed. In the team's first local training camp practice on Tuesday night, Prescott showed off the quickness and pocket presence that have defined much of his career, twice scrambling for touchdowns while working in the red zone. While Prescott has relied less on his legs after a handful of serious injuries, last topping 250 rushing yards in 2019, his escapability and ability to keep drives alive have contributed to keeping the Cowboys' offense among the league's most potent throughout his career while making him one of the most underrated fantasy performers in recent years. When playing at least 16 games in a season, Prescott has not finished outside the top eight of the position since 2018, making him one of the safest late-round quarterbacks to target in 2026 drafts.",
+        "title": "Dak Prescott Proving He Can Still Use His Legs as Needed",
+        "topic_id": "1398336649099739136",
+        "url": "https://www.rotoballer.com/player-news/dak-prescott-proving-he-can-still-use-his-legs-as-needed/1916632"
+      },
+      "nfl_team": "DAL",
+      "player_id": "3294",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "published": 1787737017000,
+      "source": "rotoballer",
+      "source_key": "219407",
+      "story_id": "nfl|3294|rotoballer|219407|1787737017000",
+      "title": "Dak Prescott Proving He Can Still Use His Legs as Needed",
+      "url": "https://www.rotoballer.com/player-news/dak-prescott-proving-he-can-still-use-his-legs-as-needed/1916632"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins running back De'Von Achane was one of the few holdovers of a near-total offseason overhaul to the team's starting offense, and unsurprisingly, he has been one of Miami's most consistent performers throughout training camp, according to team writer Travis Wingfield. In the Dolphins' penultimate practice of camp on Tuesday, Achane successfully led the starting unit with a handful of explosive runs, and offensive coordinator Bobby Slowik was later asked what he likes about the team's run game. \"The versatility of what our personnel allows us to do,\" he said. \"You can get on the perimeter; you can get on the edge... You can do stuff with [Malik Willis] in the run game. Obviously, [Achane] has speed to get to the edge. He can hit it up in the middle as well.\" The only running back in the NFL to score double-digit fantasy points in every one of his games in 2025, Achane is once more expected to be the focal point of the Dolphins' offense, and he is RotoBaller's RB11.",
+      "metadata": {
+        "description": "Miami Dolphins running back De'Von Achane was one of the few holdovers of a near-total offseason overhaul to the team's starting offense, and unsurprisingly, he has been one of Miami's most consistent performers throughout training camp, according to team writer Travis Wingfield. In the Dolphins' penultimate practice of camp on Tuesday, Achane successfully led the starting unit with a handful of explosive runs, and offensive coordinator Bobby Slowik was later asked what he likes about the team's run game. \"The versatility of what our personnel allows us to do,\" he said. \"You can get on the perimeter; you can get on the edge... You can do stuff with [Malik Willis] in the run game. Obviously, [Achane] has speed to get to the edge. He can hit it up in the middle as well.\" The only running back in the NFL to score double-digit fantasy points in every one of his games in 2025, Achane is once more expected to be the focal point of the Dolphins' offense, and he is RotoBaller's RB11.",
+        "title": "De'Von Achane Bringing Consistency to New-Look Dolphins Offense",
+        "topic_id": "1398336649087156224",
+        "url": "https://www.rotoballer.com/player-news/devon-achane-bringing-consistency-to-new-look-dolphins-offense/1916614"
+      },
+      "nfl_team": "MIA",
+      "player_id": "9226",
+      "player_name": "De'Von Achane",
+      "position": "RB",
+      "published": 1787736309000,
+      "source": "rotoballer",
+      "source_key": "219408",
+      "story_id": "nfl|9226|rotoballer|219408|1787736309000",
+      "title": "De'Von Achane Bringing Consistency to New-Look Dolphins Offense",
+      "url": "https://www.rotoballer.com/player-news/devon-achane-bringing-consistency-to-new-look-dolphins-offense/1916614"
+    },
     {
       "analysis": "Washington was selected by Las Vegas in the fourth round of April's NFL Draft and has already turned heads in the team's first two preseason games, rushing for 119 yards on 15 carries (7.9 YPC) while adding two catches on four targets for 18 yards. The rookie's name became a hot topic in the fantasy community this past weekend when Ashton Jeanty went down with an ankle injury during practice, though the latest news is that he's nursing a low-ankle sprain and isn't looking at a long-term absence. It appears Jeanty could be ready to face the Dolphins in Week 1 on Sunday, Sept. 13, but if the ankle injury persists and keeps him out of the regular-season opener, Washington would be the lead candidate to take over No. 1 RB duties for that contest.",
       "description": "Raiders coach Klint Kubiak said Tuesday that Washington has \"done a great job of growing up real fast,\" Levi Edwards of the Raiders' official site reports.",

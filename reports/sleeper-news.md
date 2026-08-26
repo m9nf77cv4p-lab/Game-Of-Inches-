@@ -2,11 +2,25 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1003**
-- Newly captured: **0**
+- Stored stories: **1010**
+- Newly captured: **7**
 
 ## Latest news
 
+- **NEW — Brian Thomas** — Brian Thomas - Practicing Wednesday, but not taking contact (2026-08-26T13:51:34Z)
+  - Thomas made an early exit Tuesday for the first of two joint practices after falling on his shoulder while catching a touchdown pass in red-zone drills. Head coach Liam Coen said afterward that Thomas was "alright," though Coen indicated that the Jaguars would likely err on the side of caution and keep the receiver out for Friday's preseason finale versus Tampa Bay. Thomas' return to the field in a day later -- even in what appears to be a limited capacity -- is a good sign that he'll be ready to go for the Jaguars' Sept. 13 season opener versus the Browns.
+- **NEW — Malachi Fields** — Malachi Fields - Could see expanded role with Austin out (2026-08-26T13:36:28Z)
+  - Listed at 6-foot-4 and 222 pounds, Fields is primarily an "X" receiver and projects to see most of his playing time on the perimeter as a rookie, but the loss of Austin -- who was projected to serve as the Giants' top slot man -- could nonetheless aid his chances of seeing the field. With Austin sidelined, Dan Duggan of The Athletic posits that the Giants will lean on a committee of players in the slot, which could include Malik Nabers (knee). While it's also not out of the question for Fields to see some occasional work as a power slot, the rookie third-round pick would still be a beneficiary of more snaps on the outside if Nabers ends up playing inside more frequently. Fields has drawn generally positive reviews during his first training camp, seeing plenty of reps with the first-team offense while filling in for Nabers, who had been a non-participant or limited participant for much of the summer before being cleared to take contact earlier this week.
+- **NEW — Chase Brown** — Chase Brown Has Top-Five Upside in 2026 (2026-08-26T10:14:15Z)
+  - Source: https://www.rotoballer.com/player-news/chase-brown-has-top-five-upside-in-2026/1916666
+- **NEW — Brian Thomas** — Brian Thomas Jr. Practicing in Non-Contact Jersey (2026-08-26T10:00:18Z)
+  - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-practicing-in-non-contact-jersey/1916650
+- **NEW — George Pickens** — George Pickens' Standout Camp Continues as Cowboys Return to Texas (2026-08-26T09:48:43Z)
+  - Source: https://www.rotoballer.com/player-news/george-pickens-standout-camp-continues-as-cowboys-return-to-texas/1916642
+- **NEW — Dak Prescott** — Dak Prescott Proving He Can Still Use His Legs as Needed (2026-08-26T09:36:57Z)
+  - Source: https://www.rotoballer.com/player-news/dak-prescott-proving-he-can-still-use-his-legs-as-needed/1916632
+- **NEW — De'Von Achane** — De'Von Achane Bringing Consistency to New-Look Dolphins Offense (2026-08-26T09:25:09Z)
+  - Source: https://www.rotoballer.com/player-news/devon-achane-bringing-consistency-to-new-look-dolphins-offense/1916614
 - **Mike Washington** — Mike Washington - Draws praise from coach (2026-08-26T01:30:28Z)
   - Washington was selected by Las Vegas in the fourth round of April's NFL Draft and has already turned heads in the team's first two preseason games, rushing for 119 yards on 15 carries (7.9 YPC) while adding two catches on four targets for 18 yards. The rookie's name became a hot topic in the fantasy community this past weekend when Ashton Jeanty went down with an ankle injury during practice, though the latest news is that he's nursing a low-ankle sprain and isn't looking at a long-term absence. It appears Jeanty could be ready to face the Dolphins in Week 1 on Sunday, Sept. 13, but if the ankle injury persists and keeps him out of the regular-season opener, Washington would be the lead candidate to take over No. 1 RB duties for that contest.
 - **Gunnar Helm** — Gunnar Helm Has Momentum on His Side Entering 2026 (2026-08-26T00:51:10Z)
@@ -211,17 +225,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/604105/jacorey-croskey-merritt-dealing-with-lower-body-injury.php
 - **Josh Allen** — Josh Allen Will Not Play in Preseason Finale (2026-08-25T12:35:09Z)
   - Source: https://www.rotoballer.com/player-news/josh-allen-will-not-play-in-preseason-finale/1915994
-- **Josh Allen** — Josh Allen - Will sit Thursday night (2026-08-25T12:31:27Z)
-  - It comes as no surprise that Allen will be held out, as the Bills will ensure their starting quarterback -- and the consensus top quarterback in fantasy football -- does not take any further hits before Week 1. Allen hasn't missed a game since his rookie campaign in 2018, making 137 consecutive starts between the regular season and playoffs, tied for the eighth-longest streak by a quarterback in NFL history.
-- **Brian Thomas** — Brian Thomas Jr. Appears to be Fine (2026-08-25T12:12:19Z)
-  - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-appears-to-be-fine/1915982
-- **TreVeyon Henderson** — TreVeyon Henderson Undergoing "Precautionary Tests" on his Ankle (2026-08-25T12:04:15Z)
-  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-undergoing-precautionary-tests-on-his-ankle/1915975
-- **Alec Pierce** — Alec Pierce Expected to Return to Practice This Week (2026-08-25T11:56:14Z)
-  - Source: https://www.rotoballer.com/player-news/alec-pierce-expected-to-return-to-practice-this-week/1915968
-- **Bhayshul Tuten** — Bhayshul Tuten Showing Big-Play Upside (2026-08-25T11:45:10Z)
-  - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-showing-big-play-upside/1915961
-- **Tyler Warren** — Tyler Warren Could be Held Out of Practice This Week (2026-08-25T11:38:14Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-warren-could-be-held-out-of-practice-this-week/1915955
-- **Malik Willis** — Malik Willis Making Visible Progress (2026-08-25T11:02:17Z)
-  - Source: https://www.rotoballer.com/player-news/malik-willis-making-visible-progress/1915931
