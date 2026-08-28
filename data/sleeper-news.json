@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-28T22:22:36Z",
+  "last_checked_at": "2026-08-28T22:32:59Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|8136|rotoballer|219597|1787940730000"
+    "nfl|1166|rotoballer|219598|1787941329000"
   ],
   "schema_version": 1,
   "source": {
@@ -92,6 +92,26 @@
       "story_id": "nfl|8126|rotowire|635013|1787941602000",
       "title": "Wan'Dale Robinson - Appears to avoid concussion",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "ESPN's Jeremy Fowler reports that Las Vegas Raiders veteran quarterback Kirk Cousins is expected \"to be named the starter eventually,\" according to people inside the Raiders' building and league-wide with other teams. Head coach Klint Kubiak was non-committal on naming a starter for Week 1 of the regular season against the Miami Dolphins after the team's preseason finale on Thursday night against the San Francisco 49ers, in which both Cousins and rookie first overall pick Fernando Mendoza played. Cousins went 8-for-11 for 51 yards, while Mendoza went 7-for-14 for 57 yards with an interception. Although Mendoza saw some first-team reps in training camp practices, Cousins has been treated like the starter since the spring, according to Fowler. At best, the 14-year veteran and four-time Pro Bowler is a low-end, short-term option in superflex leagues in 2026, but the overwhelming consensus is that Mendoza will be making starts under center this year for the Raiders sooner rather than later. Cousins only played in 10 games (eight starts) for the Atlanta Falcons last year after Michael Penix Jr.'s (knee) season-ending ACL tear, throwing for 1,721 yards, 10 touchdowns, and five interceptions.",
+      "metadata": {
+        "description": "ESPN's Jeremy Fowler reports that Las Vegas Raiders veteran quarterback Kirk Cousins is expected \"to be named the starter eventually,\" according to people inside the Raiders' building and league-wide with other teams. Head coach Klint Kubiak was non-committal on naming a starter for Week 1 of the regular season against the Miami Dolphins after the team's preseason finale on Thursday night against the San Francisco 49ers, in which both Cousins and rookie first overall pick Fernando Mendoza played. Cousins went 8-for-11 for 51 yards, while Mendoza went 7-for-14 for 57 yards with an interception. Although Mendoza saw some first-team reps in training camp practices, Cousins has been treated like the starter since the spring, according to Fowler. At best, the 14-year veteran and four-time Pro Bowler is a low-end, short-term option in superflex leagues in 2026, but the overwhelming consensus is that Mendoza will be making starts under center this year for the Raiders sooner rather than later. Cousins only played in 10 games (eight starts) for the Atlanta Falcons last year after Michael Penix Jr.'s (knee) season-ending ACL tear, throwing for 1,721 yards, 10 touchdowns, and five interceptions.",
+        "title": "Kirk Cousins Expected to \"Eventually\" be Named the Starting QB",
+        "topic_id": "1399192257898258432",
+        "url": "https://www.rotoballer.com/player-news/kirk-cousins-expected-to-eventually-be-named-the-starting-qb/1918760"
+      },
+      "nfl_team": "LV",
+      "player_id": "1166",
+      "player_name": "Kirk Cousins",
+      "position": "QB",
+      "published": 1787941329000,
+      "source": "rotoballer",
+      "source_key": "219598",
+      "story_id": "nfl|1166|rotoballer|219598|1787941329000",
+      "title": "Kirk Cousins Expected to \"Eventually\" be Named the Starting QB",
+      "url": "https://www.rotoballer.com/player-news/kirk-cousins-expected-to-eventually-be-named-the-starting-qb/1918760"
     },
     {
       "analysis": null,
