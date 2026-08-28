@@ -2,16 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1224**
-- Newly captured: **4**
+- Stored stories: **1227**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Malik Nabers** — Malik Nabers - Not in uniform Friday (2026-08-28T23:18:26Z)
+- **NEW — David Njoku** — David Njoku - Wraps up exhibition slate with limited work (2026-08-28T23:28:06Z)
+  - Njoku worked behind starter Charlie Kolar and ahead of Oronde Gadsden in the contest. During the exhibition slate, Kolar and starting QB Justin Herbert were on the field together for six snaps, while Njoku logged five snaps with Herbert and Gadsden registered just one. That could be an indication of the pecking order during the regular season as well, as Kolar is considered the superior blocker of the trio and Gadsden the top pass catcher, with Njoku being competent in both areas.
+- **NEW — Devin Singletary** — Devin Singletary - Not playing in preseason finale (2026-08-28T23:23:50Z)
+  - The same can be said for No. 1 RB Cam Skattebo, while position mates Tyrone Tracy and Najee Harris are candidates to get some run in the Giants' exhibition finale. The situation would seem to indicate that Singletary will be Skattebo's direct backup to begin the campaign, which would be further solidified depending on how the team proceeds with roster cuts Sunday.
+- **NEW — Keaton Mitchell** — Keaton Mitchell - Doesn't play Thursday (2026-08-28T23:22:04Z)
+  - Mitchell experienced a setback for an unspecified injury in practice earlier in the week, so his absence from Thursday's preseason finale was likely a precautionary move. The nature and severity of Mitchell's injury is not clear, but there's been no indication that he's in danger of missing the Chargers' Week 1 clash against the Cardinals on Sunday, Sept. 13. The fourth-year pro inked a two-year contract with the Chargers in March after spending the first three years of his NFL career with the Ravens. He's expected to work in rotation with Kimani Vidal behind starting running back Omarion Hampton.
+- **Malik Nabers** — Malik Nabers - Not in uniform Friday (2026-08-28T23:18:26Z)
   - Nabers has been an active participant during most of training camp and finally ditched the non-contact red jersey at Monday's practice, but he won't make an appearance during exhibition season as he continues to put last season's torn right ACL further in the rearview mirror. He'll continue to ramp up in advance of a Week 1 matchup with the Cowboys on Sunday, Sept. 13.
-- **NEW — Oronde Gadsden** — Oronde Gadsden - Logs limited work in preseason finale (2026-08-28T23:18:22Z)
+- **Oronde Gadsden** — Oronde Gadsden - Logs limited work in preseason finale (2026-08-28T23:18:22Z)
   - For the second straight week, Gadsden worked in a reserve role behind Charlie Kolar and David Njoku. While snap counts during preseason play aren't generally reflective of what will happen during the regular season, it could be telling that Gadsden saw only one offensive snap with Justin Herbert on the field during the exhibition slate while fellow tight ends Charlie Kolar and David Njoku logged six and five snaps, respectively. Despite Gadsden's promising rookie campaign last year, he could be looking at a reduced role behind Kolar and Njoku -- both of whom are regarded as better blockers -- in new offensive coordinator Mike McDaniel's system.
-- **NEW — Mac Jones** — Mac Jones - Quick appearance in preseason finale (2026-08-28T23:12:00Z)
+- **Mac Jones** — Mac Jones - Quick appearance in preseason finale (2026-08-28T23:12:00Z)
   - Jones played just eight offensive snaps in the contest, marking a quick end to the preseason for the veteran backup. Despite the poor outing, Jones is still the most likely No. 2 option at quarterback behind starter Brock Purdy. With Kurtis Rourke (ribs) dealing with an injury, Adrian Martinez will likely fill out the QB room as the team heads into Sunday's cutdown day.
 - **Jack Bech** — Jack Bech - Plays in finale (2026-08-28T23:08:17Z)
   - Bech played 20 offensive snaps in the contest, garnering attention just one time. The 2025 second-rounder is in a battle for starting wide receiver snaps. With Sunday's cutdown day rapidly approaching, the Raiders likely already know whether Bech, Dont'e Thornton, Dareke Young or Malik Benson will take on the No. 3 wide receiver role for the Week 1 matchup against the Dolphins.
@@ -27,7 +33,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - On Aug. 20, Croskey-Merritt pulled up at the end of a catch and run in practice due to a lower-body injury, which now will keep him out of the Commanders' final two exhibitions. He focused on rehab work on the side this week, with the intent to return to practice at some point next week. Rachaad White (hamstring) and Jeremy McNichols (quadriceps) also aren't in uniform Friday, meaning rookie sixth-rounder Kaytron Allen, Robert Henry and Craig Reynolds are the team's available RBs for preseason Week 3.
 - **Emeka Egbuka** — Emeka Egbuka - Focus remains on Week 1 (2026-08-28T19:49:18Z)
   - Egbuka, per the report, made the trip to Jacksonville with his teammates for Friday's preseason finale, but he will not suit up and will instead keep working on his recovery from the toe injury he sustained a little over two weeks ago. It's not yet known when Egbuka will be back on the field, so his availability remains up in the air in advance of his team's season-opening matchup with the Bengals on Sept. 13.
-- **NEW — Chase Brown** — Chase Brown Could See More Under-Center Rushing Opportunities (2026-08-28T19:11:07Z)
+- **Chase Brown** — Chase Brown Could See More Under-Center Rushing Opportunities (2026-08-28T19:11:07Z)
   - Source: https://www.rotoballer.com/player-news/chase-brown-could-see-more-under-center-rushing-opportunities/1918789
 - **J.J. McCarthy** — J.J. McCarthy Not Playing in Preseason Finale Against Denver (2026-08-28T18:47:06Z)
   - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-not-playing-in-preseason-finale-against-denver/1918771
@@ -203,9 +209,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-surging-up-draft-boards-with-path-to-starting-role/1917934
 - **Kenneth Walker** — Kenneth Walker at the Heart of Chiefs' New Offense (2026-08-27T19:14:08Z)
   - Source: https://www.rotoballer.com/player-news/kenneth-walker-at-the-heart-of-chiefs-new-offense/1917924
-- **Jadarian Price** — Jadarian Price - Will not play Friday (2026-08-27T18:48:46Z)
-  - Price has practiced for over a week since recovering from a lower-body injury, so Friday's absence will not be injury-related. However, it is notable that the rookie will not make his first appearance in an NFL uniform until Week 1. It remains to be seen what Seattle's depth chart will look like heading into the regular season, but with Zach Charbonnet (knee) unavailable Price figures to fill a key role out of the gate in a Seattle backfield that also includes George Holani and Emanuel Wilson (hamstring).
-- **Khalil Shakir** — Khalil Shakir Sitting With Undisclosed Injury (2026-08-27T18:42:07Z)
-  - Source: https://www.rotoballer.com/player-news/khalil-shakir-sitting-with-undisclosed-injury/1917900
-- **Wan'Dale Robinson** — Wan'Dale Robinson - Being evaluated for concussion (2026-08-27T18:38:48Z)
-  - Robinson, per the report, was able to walk off the field under his own power, but he will still undergo tests to determine if he sustained a concussion. Another update on his status figures to be released after the results of the exams have been read.

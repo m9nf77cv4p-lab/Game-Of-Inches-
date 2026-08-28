@@ -1,12 +1,11 @@
 {
-  "last_checked_at": "2026-08-28T23:22:30Z",
+  "last_checked_at": "2026-08-28T23:32:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11632|rotowire|635042|1787959106000",
-    "nfl|12493|rotowire|635040|1787959102000",
-    "nfl|7527|rotowire|635038|1787958720000",
-    "nfl|9224|rotoballer|219600|1787944267000"
+    "nfl|4033|rotowire|635046|1787959686000",
+    "nfl|6130|rotowire|635045|1787959430000",
+    "nfl|9511|rotowire|635044|1787959324000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +15,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Njoku worked behind starter Charlie Kolar and ahead of Oronde Gadsden in the contest. During the exhibition slate, Kolar and starting QB Justin Herbert were on the field together for six snaps, while Njoku logged five snaps with Herbert and Gadsden registered just one. That could be an indication of the pecking order during the regular season as well, as Kolar is considered the superior blocker of the trio and Gadsden the top pass catcher, with Njoku being competent in both areas.",
+      "description": "Njoku logged three offensive snaps in Thursday's preseason loss to the Rams and didn't register any statistical output.",
+      "metadata": {
+        "analysis": "Njoku worked behind starter Charlie Kolar and ahead of Oronde Gadsden in the contest. During the exhibition slate, Kolar and starting QB Justin Herbert were on the field together for six snaps, while Njoku logged five snaps with Herbert and Gadsden registered just one. That could be an indication of the pecking order during the regular season as well, as Kolar is considered the superior blocker of the trio and Gadsden the top pass catcher, with Njoku being competent in both areas.",
+        "description": "Njoku logged three offensive snaps in Thursday's preseason loss to the Rams and didn't register any statistical output.",
+        "title": "David Njoku - Wraps up exhibition slate with limited work",
+        "topic_id": "1399208619441958912"
+      },
+      "nfl_team": "LAC",
+      "player_id": "4033",
+      "player_name": "David Njoku",
+      "position": "TE",
+      "published": 1787959686000,
+      "source": "rotowire",
+      "source_key": "635046",
+      "story_id": "nfl|4033|rotowire|635046|1787959686000",
+      "title": "David Njoku - Wraps up exhibition slate with limited work",
+      "url": null
+    },
+    {
+      "analysis": "The same can be said for No. 1 RB Cam Skattebo, while position mates Tyrone Tracy and Najee Harris are candidates to get some run in the Giants' exhibition finale. The situation would seem to indicate that Singletary will be Skattebo's direct backup to begin the campaign, which would be further solidified depending on how the team proceeds with roster cuts Sunday.",
+      "description": "Singletary isn't in uniform ahead of Friday's preseason contest against the Jets, Ryan Dunleavy of the New York Post reports.",
+      "metadata": {
+        "analysis": "The same can be said for No. 1 RB Cam Skattebo, while position mates Tyrone Tracy and Najee Harris are candidates to get some run in the Giants' exhibition finale. The situation would seem to indicate that Singletary will be Skattebo's direct backup to begin the campaign, which would be further solidified depending on how the team proceeds with roster cuts Sunday.",
+        "description": "Singletary isn't in uniform ahead of Friday's preseason contest against the Jets, Ryan Dunleavy of the New York Post reports.",
+        "title": "Devin Singletary - Not playing in preseason finale",
+        "topic_id": "1399208619441958913"
+      },
+      "nfl_team": "NYG",
+      "player_id": "6130",
+      "player_name": "Devin Singletary",
+      "position": "RB",
+      "published": 1787959430000,
+      "source": "rotowire",
+      "source_key": "635045",
+      "story_id": "nfl|6130|rotowire|635045|1787959430000",
+      "title": "Devin Singletary - Not playing in preseason finale",
+      "url": null
+    },
+    {
+      "analysis": "Mitchell experienced a setback for an unspecified injury in practice earlier in the week, so his absence from Thursday's preseason finale was likely a precautionary move. The nature and severity of Mitchell's injury is not clear, but there's been no indication that he's in danger of missing the Chargers' Week 1 clash against the Cardinals on Sunday, Sept. 13. The fourth-year pro inked a two-year contract with the Chargers in March after spending the first three years of his NFL career with the Ravens. He's expected to work in rotation with Kimani Vidal behind starting running back Omarion Hampton.",
+      "description": "Mitchell (undisclosed) did not play in Thursday's 20-18 preseason loss to the Rams.",
+      "metadata": {
+        "analysis": "Mitchell experienced a setback for an unspecified injury in practice earlier in the week, so his absence from Thursday's preseason finale was likely a precautionary move. The nature and severity of Mitchell's injury is not clear, but there's been no indication that he's in danger of missing the Chargers' Week 1 clash against the Cardinals on Sunday, Sept. 13. The fourth-year pro inked a two-year contract with the Chargers in March after spending the first three years of his NFL career with the Ravens. He's expected to work in rotation with Kimani Vidal behind starting running back Omarion Hampton.",
+        "description": "Mitchell (undisclosed) did not play in Thursday's 20-18 preseason loss to the Rams.",
+        "title": "Keaton Mitchell - Doesn't play Thursday",
+        "topic_id": "1399207360718712832"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1787959324000,
+      "source": "rotowire",
+      "source_key": "635044",
+      "story_id": "nfl|9511|rotowire|635044|1787959324000",
+      "title": "Keaton Mitchell - Doesn't play Thursday",
+      "url": null
+    },
     {
       "analysis": "Nabers has been an active participant during most of training camp and finally ditched the non-contact red jersey at Monday's practice, but he won't make an appearance during exhibition season as he continues to put last season's torn right ACL further in the rearview mirror. He'll continue to ramp up in advance of a Week 1 matchup with the Cowboys on Sunday, Sept. 13.",
       "description": "Nabers (knee) isn't suited up for Friday's preseason game versus the Jets, Pat Leonard of the New York Daily News reports.",
