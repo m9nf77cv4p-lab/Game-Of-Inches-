@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1213**
+- Stored stories: **1214**
 - Newly captured: **1**
 
 ## Latest news
@@ -15,7 +15,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Egbuka, per the report, made the trip to Jacksonville with his teammates for Friday's preseason finale, but he will not suit up and will instead keep working on his recovery from the toe injury he sustained a little over two weeks ago. It's not yet known when Egbuka will be back on the field, so his availability remains up in the air in advance of his team's season-opening matchup with the Bengals on Sept. 13.
 - **Wan'Dale Robinson** — Wan'Dale Robinson - Appears to avoid concussion (2026-08-28T18:26:42Z)
   - Robinson took a hard hit during Thursday's session and underwent tests, which apparently ruled out a concussion. Per the report, the Titans will continue monitoring Robinson's symptoms, but the early indications are promising and he seemingly is on track to take the field in Week 1 against the Jets on Sept. 13.
-- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt Not Playing in Preseason Finale (2026-08-28T18:05:10Z)
+- **NEW — Rachaad White** — Commanders Holding Rachaad White Out of Preseason Finale (2026-08-28T18:12:10Z)
+  - Source: https://www.rotoballer.com/player-news/commanders-holding-rachaad-white-out-of-preseason-finale/1918755
+- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Not Playing in Preseason Finale (2026-08-28T18:05:10Z)
   - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-not-playing-in-preseason-finale/1918752
 - **Ashton Jeanty** — Ashton Jeanty - Being counted on for opener (2026-08-28T17:26:19Z)
   - The extent of the injury Jeanty sustained at Sunday's practice session has not been revealed, but Kubiak's comments provide reason to believe the Raiders will have their top running back available for the season opener against the Dolphins on Sept. 13. Jeanty will have over two weeks to rest and recover before the campaign gets underway, and should he encounter any hiccups Mike Washington remains next in line in the Las Vegas backfield.
@@ -209,5 +211,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kyle-monangais-redraft-value-fading-amidst-current-injury-absence/1917844
 - **Isiah Pacheco** — Isiah Pacheco - Picks up back injury (2026-08-27T16:33:04Z)
   - Pacheco has been out of action with an MCL sprain, and although he seems to have moved past the knee issue he is now dealing with another injury. Campbell noted that Pacheco was feeling better Wednesday, but further details were not provided, so it's unclear if the latest setback will affect his availability for Week 1.
-- **J.J. McCarthy** — J.J. McCarthy Among QBs Gaining Interest on Trade Market (2026-08-27T16:29:05Z)
-  - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-among-other-quarterbacks-gaining-interest-on-trade-market/1917832

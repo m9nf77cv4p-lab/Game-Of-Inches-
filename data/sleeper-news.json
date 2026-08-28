@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-28T22:12:31Z",
+  "last_checked_at": "2026-08-28T22:22:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|12533|rotoballer|219596|1787940310000"
+    "nfl|8136|rotoballer|219597|1787940730000"
   ],
   "schema_version": 1,
   "source": {
@@ -92,6 +92,26 @@
       "story_id": "nfl|8126|rotowire|635013|1787941602000",
       "title": "Wan'Dale Robinson - Appears to avoid concussion",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Rachaad White (hamstring) is not active for the team's preseason finale against the Baltimore Ravens on Friday, according to Commanders.com. It is not a surprise that White will not play in the final preseason game after injuring his hamstring in training camp practice last Wednesday. Jacory Croskey-Merritt (lower body) and Jeremy McNichols (quadriceps) are also banged up and will not play on Friday night, leaving rookie Kaytron Allen, Robert Henry, and Craig Reynolds to work out of the backfield against the Ravens. The 27-year-old White is entering his first year in D.C. in 2026 after rushing for 2,656 yards and 14 touchdowns and catching 205 passes for 1,450 yards and another 11 scores as a receiver in his four years with the Tampa Bay Buccaneers. He should be ready for Week 1 of the regular season against the Cincinnati Bengals, where he figures to be the Commanders' top pass-catching back, giving him late-round sleeper appeal in PPR fantasy formats. White had at least 40 catches in all four of his seasons in Tampa and exceeded 50 catches three times.",
+      "metadata": {
+        "description": "Washington Commanders running back Rachaad White (hamstring) is not active for the team's preseason finale against the Baltimore Ravens on Friday, according to Commanders.com. It is not a surprise that White will not play in the final preseason game after injuring his hamstring in training camp practice last Wednesday. Jacory Croskey-Merritt (lower body) and Jeremy McNichols (quadriceps) are also banged up and will not play on Friday night, leaving rookie Kaytron Allen, Robert Henry, and Craig Reynolds to work out of the backfield against the Ravens. The 27-year-old White is entering his first year in D.C. in 2026 after rushing for 2,656 yards and 14 touchdowns and catching 205 passes for 1,450 yards and another 11 scores as a receiver in his four years with the Tampa Bay Buccaneers. He should be ready for Week 1 of the regular season against the Cincinnati Bengals, where he figures to be the Commanders' top pass-catching back, giving him late-round sleeper appeal in PPR fantasy formats. White had at least 40 catches in all four of his seasons in Tampa and exceeded 50 catches three times.",
+        "title": "Commanders Holding Rachaad White Out of Preseason Finale",
+        "topic_id": "1399190999556702208",
+        "url": "https://www.rotoballer.com/player-news/commanders-holding-rachaad-white-out-of-preseason-finale/1918755"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8136",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "published": 1787940730000,
+      "source": "rotoballer",
+      "source_key": "219597",
+      "story_id": "nfl|8136|rotoballer|219597|1787940730000",
+      "title": "Commanders Holding Rachaad White Out of Preseason Finale",
+      "url": "https://www.rotoballer.com/player-news/commanders-holding-rachaad-white-out-of-preseason-finale/1918755"
     },
     {
       "analysis": null,
