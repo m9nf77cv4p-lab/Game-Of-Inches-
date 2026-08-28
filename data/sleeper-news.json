@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-28T22:52:45Z",
+  "last_checked_at": "2026-08-28T23:02:48Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|12506|rotowire|635031|1787957302000"
+    "nfl|11565|rotoballer|219599|1787942826000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,10 +14,10 @@
   },
   "stories": [
     {
-      "analysis": "Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, when he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.",
+      "analysis": "Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, as he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.",
       "description": "Fannin did not play in the Browns' 37-13 preseason win over the Patriots on Thursday.",
       "metadata": {
-        "analysis": "Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, when he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.",
+        "analysis": "Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, as he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.",
         "description": "Fannin did not play in the Browns' 37-13 preseason win over the Patriots on Thursday.",
         "title": "Harold Fannin - Doesn't play Thursday vs. NE",
         "topic_id": "1399198551354904576"
@@ -112,6 +112,26 @@
       "story_id": "nfl|12514|rotowire|635014|1787946558000",
       "title": "Emeka Egbuka - Focus remains on Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings quarterback J.J. McCarthy (ankle) will not play in the team's preseason finale on Friday night against the hosting Denver Broncos, multiple sources told Alec Lewis of The Athletic. The Vikings had hoped that McCarthy's ankle would be healed ahead of the game, but he ultimately was not comfortable enough to suit up. The good news is that his injury is considered minor, and he is day-to-day. McCarthy picked up the ankle injury in last weekend's preseason game against the Baltimore Ravens, in which he struggled in the face of pressure. The Vikings already named Kyler Murray as their Week 1 starter, with McCarthy now battling veteran Carson Wentz for QB2 duties to open his third year in the NFL. If the 23-year-old cannot beat out Wentz, he could be a trade candidate before the regular-season opener. The former 10th overall pick in 2024 from Michigan missed all of his rookie year after having knee surgery, and he completed just 57.6% of his pass attempts for 1,632 yards, 11 touchdowns, and 12 interceptions in just 10 games last year due to injuries. Early in his career, McCarthy has not looked like a viable NFL starter, cratering his fantasy value in dynasty/keeper leagues.",
+      "metadata": {
+        "description": "Minnesota Vikings quarterback J.J. McCarthy (ankle) will not play in the team's preseason finale on Friday night against the hosting Denver Broncos, multiple sources told Alec Lewis of The Athletic. The Vikings had hoped that McCarthy's ankle would be healed ahead of the game, but he ultimately was not comfortable enough to suit up. The good news is that his injury is considered minor, and he is day-to-day. McCarthy picked up the ankle injury in last weekend's preseason game against the Baltimore Ravens, in which he struggled in the face of pressure. The Vikings already named Kyler Murray as their Week 1 starter, with McCarthy now battling veteran Carson Wentz for QB2 duties to open his third year in the NFL. If the 23-year-old cannot beat out Wentz, he could be a trade candidate before the regular-season opener. The former 10th overall pick in 2024 from Michigan missed all of his rookie year after having knee surgery, and he completed just 57.6% of his pass attempts for 1,632 yards, 11 touchdowns, and 12 interceptions in just 10 games last year due to injuries. Early in his career, McCarthy has not looked like a viable NFL starter, cratering his fantasy value in dynasty/keeper leagues.",
+        "title": "J.J. McCarthy Not Playing in Preseason Finale Against Denver",
+        "topic_id": "1399199808387850240",
+        "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-not-playing-in-preseason-finale-against-denver/1918771"
+      },
+      "nfl_team": "MIN",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1787942826000,
+      "source": "rotoballer",
+      "source_key": "219599",
+      "story_id": "nfl|11565|rotoballer|219599|1787942826000",
+      "title": "J.J. McCarthy Not Playing in Preseason Finale Against Denver",
+      "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-not-playing-in-preseason-finale-against-denver/1918771"
     },
     {
       "analysis": "Robinson took a hard hit during Thursday's session and underwent tests, which apparently ruled out a concussion. Per the report, the Titans will continue monitoring Robinson's symptoms, but the early indications are promising and he seemingly is on track to take the field in Week 1 against the Jets on Sept. 13.",

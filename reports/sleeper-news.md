@@ -2,13 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1217**
+- Stored stories: **1218**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Harold Fannin** — Harold Fannin - Doesn't play Thursday vs. NE (2026-08-28T22:48:22Z)
-  - Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, when he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.
+- **Harold Fannin** — Harold Fannin - Doesn't play Thursday vs. NE (2026-08-28T22:48:22Z)
+  - Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, as he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.
 - **J.J. McCarthy** — J.J. McCarthy - Won't play Friday (2026-08-28T22:33:57Z)
   - McCarthy emerged from preseason Week 2 with an ankle injury, and while the Vikings were hopeful that he'd be able to play in the team's final exhibition, he'll instead remain in street clothes. After losing out on the starting QB job to Kyler Murray in early August, McCarthy has been serving as the backup in the meantime. Carson Wentz and Max Brosmer are the likely candidates to be under center for Minnesota on Friday.
 - **Rachaad White** — Rachaad White - Won't play Friday (2026-08-28T21:47:19Z)
@@ -17,6 +17,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - On Aug. 20, Croskey-Merritt pulled up at the end of a catch and run in practice due to a lower-body injury, which now will keep him out of the Commanders' final two exhibitions. He focused on rehab work on the side this week, with the intent to return to practice at some point next week. Rachaad White (hamstring) and Jeremy McNichols (quadriceps) also aren't in uniform Friday, meaning rookie sixth-rounder Kaytron Allen, Robert Henry and Craig Reynolds are the team's available RBs for preseason Week 3.
 - **Emeka Egbuka** — Emeka Egbuka - Focus remains on Week 1 (2026-08-28T19:49:18Z)
   - Egbuka, per the report, made the trip to Jacksonville with his teammates for Friday's preseason finale, but he will not suit up and will instead keep working on his recovery from the toe injury he sustained a little over two weeks ago. It's not yet known when Egbuka will be back on the field, so his availability remains up in the air in advance of his team's season-opening matchup with the Bengals on Sept. 13.
+- **NEW — J.J. McCarthy** — J.J. McCarthy Not Playing in Preseason Finale Against Denver (2026-08-28T18:47:06Z)
+  - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-not-playing-in-preseason-finale-against-denver/1918771
 - **Wan'Dale Robinson** — Wan'Dale Robinson - Appears to avoid concussion (2026-08-28T18:26:42Z)
   - Robinson took a hard hit during Thursday's session and underwent tests, which apparently ruled out a concussion. Per the report, the Titans will continue monitoring Robinson's symptoms, but the early indications are promising and he seemingly is on track to take the field in Week 1 against the Jets on Sept. 13.
 - **Kirk Cousins** — Kirk Cousins Expected to "Eventually" be Named the Starting QB (2026-08-28T18:22:09Z)
@@ -209,5 +211,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/604438/isiah-pacheco-dealing-with-back-injury-addition-to-mcl-sprain.php
 - **Marvin Mims** — Marvin Mims Jr. Facing Uphill Battle to Fantasy Relevance in Denver (2026-08-27T16:59:05Z)
   - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-facing-uphill-battle-to-fantasy-relevance-in-denver/1917855
-- **Keenan Allen** — Keenan Allen - Will make Colts debut Saturday (2026-08-27T16:55:19Z)
-  - Allen began practicing with the Colts a week ago, and he is now set to see action in a game setting for the first time since joining Indianapolis earlier this month. Fellow wideouts Alec Pierce (ankle) and Josh Downs (calf) are both banged up, but both have a chance to take the field in Week 1, so Allen will presumably open the regular season as the third option at the wideout spot for the Colts.
