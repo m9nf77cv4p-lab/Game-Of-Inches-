@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-08-28T23:32:27Z",
+  "last_checked_at": "2026-08-28T23:42:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|4033|rotowire|635046|1787959686000",
-    "nfl|6130|rotowire|635045|1787959430000",
-    "nfl|9511|rotowire|635044|1787959324000"
+    "nfl|11635|rotowire|635048|1787960163000",
+    "nfl|11647|rotowire|635049|1787960317000",
+    "nfl|12509|rotowire|635050|1787960400000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +15,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Harris will end up not playing a single preseason game, missing the last two while working through an undisclosed injury. Despite the lack of on-field playing time, there's no indication that the 2025 second-rounder is in jeopardy of missing the Chargers' regular-season opener against the Cardinals on Sunday, Sept. 13. Following the departure of Keenan Allen, Harris figures to serve as the Chargers' WR3 this season behind Ladd McConkey and Quentin Johnston.",
+      "description": "Harris (undisclosed) did not play in the Chargers' 20-18 preseason loss to the Rams on Thursday.",
+      "metadata": {
+        "analysis": "Harris will end up not playing a single preseason game, missing the last two while working through an undisclosed injury. Despite the lack of on-field playing time, there's no indication that the 2025 second-rounder is in jeopardy of missing the Chargers' regular-season opener against the Cardinals on Sunday, Sept. 13. Following the departure of Keenan Allen, Harris figures to serve as the Chargers' WR3 this season behind Ladd McConkey and Quentin Johnston.",
+        "description": "Harris (undisclosed) did not play in the Chargers' 20-18 preseason loss to the Rams on Thursday.",
+        "title": "Tre' Harris - Idle for preseason finale",
+        "topic_id": "1399211136758362112"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12509",
+      "player_name": "Tre' Harris",
+      "position": "WR",
+      "published": 1787960400000,
+      "source": "rotowire",
+      "source_key": "635050",
+      "story_id": "nfl|12509|rotowire|635050|1787960400000",
+      "title": "Tre' Harris - Idle for preseason finale",
+      "url": null
+    },
+    {
+      "analysis": "Top RB Omarion Hampton started for the Chargers and played two series. Vidal followed and rushed for five yards on his first carry before taking a 1-yard loss on the next play. He was on the field for a few more snaps during the Chargers' next series before calling it a day. Keaton Mitchell (undisclosed) didn't play in the contest, and it's unclear what precise issue he's dealing with it or how long he'll be sidelined. There's been no indication to this point that Mitchell is in danger of missing Week 1 of the regular season, but if that were to change, Vidal would be slated for an increased role behind Hampton.",
+      "description": "Vidal totaled six offensive snaps in Thursday's exhibition loss to the Rams, recording nine yards on three carries.",
+      "metadata": {
+        "analysis": "Top RB Omarion Hampton started for the Chargers and played two series. Vidal followed and rushed for five yards on his first carry before taking a 1-yard loss on the next play. He was on the field for a few more snaps during the Chargers' next series before calling it a day. Keaton Mitchell (undisclosed) didn't play in the contest, and it's unclear what precise issue he's dealing with it or how long he'll be sidelined. There's been no indication to this point that Mitchell is in danger of missing Week 1 of the regular season, but if that were to change, Vidal would be slated for an increased role behind Hampton.",
+        "description": "Vidal totaled six offensive snaps in Thursday's exhibition loss to the Rams, recording nine yards on three carries.",
+        "title": "Kimani Vidal - Tallies six snaps in preseason finale",
+        "topic_id": "1399211136695447552"
+      },
+      "nfl_team": "LAC",
+      "player_id": "11647",
+      "player_name": "Kimani Vidal",
+      "position": "RB",
+      "published": 1787960317000,
+      "source": "rotowire",
+      "source_key": "635049",
+      "story_id": "nfl|11647|rotowire|635049|1787960317000",
+      "title": "Kimani Vidal - Tallies six snaps in preseason finale",
+      "url": null
+    },
+    {
+      "analysis": "McConkey was on the field for each of the Chargers' first two series before observing the rest of Thursday's exhibition contest from the sidelines. The 2024 second-rounder is the top wide receiver on the Chargers' depth chart following the departure of veteran Keenan Allen, and McConkey should be one of Justin Herbert's go-to targets in the passing game. McConkey caught 66 passes (on 106 targets) for 789 yards and six touchdowns across 16 regular-season games last year.",
+      "description": "McConkey played three snaps on offense and didn't show up in the box score otherwise during the Chargers' 20-18 preseason loss to the Rams on Thursday.",
+      "metadata": {
+        "analysis": "McConkey was on the field for each of the Chargers' first two series before observing the rest of Thursday's exhibition contest from the sidelines. The 2024 second-rounder is the top wide receiver on the Chargers' depth chart following the departure of veteran Keenan Allen, and McConkey should be one of Justin Herbert's go-to targets in the passing game. McConkey caught 66 passes (on 106 targets) for 789 yards and six touchdowns across 16 regular-season games last year.",
+        "description": "McConkey played three snaps on offense and didn't show up in the box score otherwise during the Chargers' 20-18 preseason loss to the Rams on Thursday.",
+        "title": "Ladd McConkey - Plays three snaps vs. Rams",
+        "topic_id": "1399211136691253248"
+      },
+      "nfl_team": "LAC",
+      "player_id": "11635",
+      "player_name": "Ladd McConkey",
+      "position": "WR",
+      "published": 1787960163000,
+      "source": "rotowire",
+      "source_key": "635048",
+      "story_id": "nfl|11635|rotowire|635048|1787960163000",
+      "title": "Ladd McConkey - Plays three snaps vs. Rams",
+      "url": null
+    },
     {
       "analysis": "Njoku worked behind starter Charlie Kolar and ahead of Oronde Gadsden in the contest. During the exhibition slate, Kolar and starting QB Justin Herbert were on the field together for six snaps, while Njoku logged five snaps with Herbert and Gadsden registered just one. That could be an indication of the pecking order during the regular season as well, as Kolar is considered the superior blocker of the trio and Gadsden the top pass catcher, with Njoku being competent in both areas.",
       "description": "Njoku logged three offensive snaps in Thursday's preseason loss to the Rams and didn't register any statistical output.",

@@ -2,16 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1227**
+- Stored stories: **1230**
 - Newly captured: **3**
 
 ## Latest news
 
-- **NEW — David Njoku** — David Njoku - Wraps up exhibition slate with limited work (2026-08-28T23:28:06Z)
+- **NEW — Tre' Harris** — Tre' Harris - Idle for preseason finale (2026-08-28T23:40:00Z)
+  - Harris will end up not playing a single preseason game, missing the last two while working through an undisclosed injury. Despite the lack of on-field playing time, there's no indication that the 2025 second-rounder is in jeopardy of missing the Chargers' regular-season opener against the Cardinals on Sunday, Sept. 13. Following the departure of Keenan Allen, Harris figures to serve as the Chargers' WR3 this season behind Ladd McConkey and Quentin Johnston.
+- **NEW — Kimani Vidal** — Kimani Vidal - Tallies six snaps in preseason finale (2026-08-28T23:38:37Z)
+  - Top RB Omarion Hampton started for the Chargers and played two series. Vidal followed and rushed for five yards on his first carry before taking a 1-yard loss on the next play. He was on the field for a few more snaps during the Chargers' next series before calling it a day. Keaton Mitchell (undisclosed) didn't play in the contest, and it's unclear what precise issue he's dealing with it or how long he'll be sidelined. There's been no indication to this point that Mitchell is in danger of missing Week 1 of the regular season, but if that were to change, Vidal would be slated for an increased role behind Hampton.
+- **NEW — Ladd McConkey** — Ladd McConkey - Plays three snaps vs. Rams (2026-08-28T23:36:03Z)
+  - McConkey was on the field for each of the Chargers' first two series before observing the rest of Thursday's exhibition contest from the sidelines. The 2024 second-rounder is the top wide receiver on the Chargers' depth chart following the departure of veteran Keenan Allen, and McConkey should be one of Justin Herbert's go-to targets in the passing game. McConkey caught 66 passes (on 106 targets) for 789 yards and six touchdowns across 16 regular-season games last year.
+- **David Njoku** — David Njoku - Wraps up exhibition slate with limited work (2026-08-28T23:28:06Z)
   - Njoku worked behind starter Charlie Kolar and ahead of Oronde Gadsden in the contest. During the exhibition slate, Kolar and starting QB Justin Herbert were on the field together for six snaps, while Njoku logged five snaps with Herbert and Gadsden registered just one. That could be an indication of the pecking order during the regular season as well, as Kolar is considered the superior blocker of the trio and Gadsden the top pass catcher, with Njoku being competent in both areas.
-- **NEW — Devin Singletary** — Devin Singletary - Not playing in preseason finale (2026-08-28T23:23:50Z)
+- **Devin Singletary** — Devin Singletary - Not playing in preseason finale (2026-08-28T23:23:50Z)
   - The same can be said for No. 1 RB Cam Skattebo, while position mates Tyrone Tracy and Najee Harris are candidates to get some run in the Giants' exhibition finale. The situation would seem to indicate that Singletary will be Skattebo's direct backup to begin the campaign, which would be further solidified depending on how the team proceeds with roster cuts Sunday.
-- **NEW — Keaton Mitchell** — Keaton Mitchell - Doesn't play Thursday (2026-08-28T23:22:04Z)
+- **Keaton Mitchell** — Keaton Mitchell - Doesn't play Thursday (2026-08-28T23:22:04Z)
   - Mitchell experienced a setback for an unspecified injury in practice earlier in the week, so his absence from Thursday's preseason finale was likely a precautionary move. The nature and severity of Mitchell's injury is not clear, but there's been no indication that he's in danger of missing the Chargers' Week 1 clash against the Cardinals on Sunday, Sept. 13. The fourth-year pro inked a two-year contract with the Chargers in March after spending the first three years of his NFL career with the Ravens. He's expected to work in rotation with Kimani Vidal behind starting running back Omarion Hampton.
 - **Malik Nabers** — Malik Nabers - Not in uniform Friday (2026-08-28T23:18:26Z)
   - Nabers has been an active participant during most of training camp and finally ditched the non-contact red jersey at Monday's practice, but he won't make an appearance during exhibition season as he continues to put last season's torn right ACL further in the rearview mirror. He'll continue to ramp up in advance of a Week 1 matchup with the Cowboys on Sunday, Sept. 13.
@@ -203,9 +209,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/604455/josh-jacobs-charged-with-two-misdemeanors-following.php
 - **Josh Jacobs** — Josh Jacobs - Officially facing charges (2026-08-27T19:46:25Z)
   - Jacobs was arrested on five charges in May, and he has officially been charged with "misdemeanor battery and criminal damage to property." Per the report, "The NFL has been monitoring all developments in the matter, which remains under review."
-- **Tory Horton** — Tory Horton Not Dealing With Long-Term Injury (2026-08-27T19:44:06Z)
-  - Source: https://www.rotoballer.com/player-news/tory-horton-not-dealing-with-long-term-injury/1917947
-- **MarShawn Lloyd** — MarShawn Lloyd Surging Up Draft Boards With Path to Starting Role (2026-08-27T19:22:12Z)
-  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-surging-up-draft-boards-with-path-to-starting-role/1917934
-- **Kenneth Walker** — Kenneth Walker at the Heart of Chiefs' New Offense (2026-08-27T19:14:08Z)
-  - Source: https://www.rotoballer.com/player-news/kenneth-walker-at-the-heart-of-chiefs-new-offense/1917924
