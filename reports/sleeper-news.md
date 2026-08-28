@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1216**
+- Stored stories: **1217**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — J.J. McCarthy** — J.J. McCarthy - Won't play Friday (2026-08-28T22:33:57Z)
+- **NEW — Harold Fannin** — Harold Fannin - Doesn't play Thursday vs. NE (2026-08-28T22:48:22Z)
+  - Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, when he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.
+- **J.J. McCarthy** — J.J. McCarthy - Won't play Friday (2026-08-28T22:33:57Z)
   - McCarthy emerged from preseason Week 2 with an ankle injury, and while the Vikings were hopeful that he'd be able to play in the team's final exhibition, he'll instead remain in street clothes. After losing out on the starting QB job to Kyler Murray in early August, McCarthy has been serving as the backup in the meantime. Carson Wentz and Max Brosmer are the likely candidates to be under center for Minnesota on Friday.
 - **Rachaad White** — Rachaad White - Won't play Friday (2026-08-28T21:47:19Z)
   - White has been tending to a hamstring injury since Aug. 19 that will keep him sidelined for the Commanders' final two exhibitions. He was able to mix into individual drills as recently as Monday, though, so he's making progress in his recovery. White will join No. 1 RB Jacory Croskey-Merritt (lower body) and Jeremy McNichols (quadriceps) on the sideline Friday.
@@ -209,5 +211,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-facing-uphill-battle-to-fantasy-relevance-in-denver/1917855
 - **Keenan Allen** — Keenan Allen - Will make Colts debut Saturday (2026-08-27T16:55:19Z)
   - Allen began practicing with the Colts a week ago, and he is now set to see action in a game setting for the first time since joining Indianapolis earlier this month. Fellow wideouts Alec Pierce (ankle) and Josh Downs (calf) are both banged up, but both have a chance to take the field in Week 1, so Allen will presumably open the regular season as the third option at the wideout spot for the Colts.
-- **Jordyn Tyson** — Jordyn Tyson's Durability Concerns Holding Down His Value Entering 2026 (2026-08-27T16:45:13Z)
-  - Source: https://www.rotoballer.com/player-news/jordyn-tysons-durability-concerns-holding-down-his-value-entering-2026/1917850

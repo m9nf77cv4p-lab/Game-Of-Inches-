@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-28T22:42:46Z",
+  "last_checked_at": "2026-08-28T22:52:45Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11565|rotowire|635027|1787956437000"
+    "nfl|12506|rotowire|635031|1787957302000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, when he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.",
+      "description": "Fannin did not play in the Browns' 37-13 preseason win over the Patriots on Thursday.",
+      "metadata": {
+        "analysis": "Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, when he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.",
+        "description": "Fannin did not play in the Browns' 37-13 preseason win over the Patriots on Thursday.",
+        "title": "Harold Fannin - Doesn't play Thursday vs. NE",
+        "topic_id": "1399198551354904576"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12506",
+      "player_name": "Harold Fannin",
+      "position": "TE",
+      "published": 1787957302000,
+      "source": "rotowire",
+      "source_key": "635031",
+      "story_id": "nfl|12506|rotowire|635031|1787957302000",
+      "title": "Harold Fannin - Doesn't play Thursday vs. NE",
+      "url": null
+    },
     {
       "analysis": "McCarthy emerged from preseason Week 2 with an ankle injury, and while the Vikings were hopeful that he'd be able to play in the team's final exhibition, he'll instead remain in street clothes. After losing out on the starting QB job to Kyler Murray in early August, McCarthy has been serving as the backup in the meantime. Carson Wentz and Max Brosmer are the likely candidates to be under center for Minnesota on Friday.",
       "description": "McCarthy (ankle) won't suit up for Friday's preseason game at Denver, Alec Lewis of The Athletic reports.",
