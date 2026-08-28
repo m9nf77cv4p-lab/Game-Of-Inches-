@@ -2,15 +2,21 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1220**
-- Newly captured: **2**
+- Stored stories: **1224**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Jack Bech** — Jack Bech - Plays in finale (2026-08-28T23:08:17Z)
+- **NEW — Malik Nabers** — Malik Nabers - Not in uniform Friday (2026-08-28T23:18:26Z)
+  - Nabers has been an active participant during most of training camp and finally ditched the non-contact red jersey at Monday's practice, but he won't make an appearance during exhibition season as he continues to put last season's torn right ACL further in the rearview mirror. He'll continue to ramp up in advance of a Week 1 matchup with the Cowboys on Sunday, Sept. 13.
+- **NEW — Oronde Gadsden** — Oronde Gadsden - Logs limited work in preseason finale (2026-08-28T23:18:22Z)
+  - For the second straight week, Gadsden worked in a reserve role behind Charlie Kolar and David Njoku. While snap counts during preseason play aren't generally reflective of what will happen during the regular season, it could be telling that Gadsden saw only one offensive snap with Justin Herbert on the field during the exhibition slate while fellow tight ends Charlie Kolar and David Njoku logged six and five snaps, respectively. Despite Gadsden's promising rookie campaign last year, he could be looking at a reduced role behind Kolar and Njoku -- both of whom are regarded as better blockers -- in new offensive coordinator Mike McDaniel's system.
+- **NEW — Mac Jones** — Mac Jones - Quick appearance in preseason finale (2026-08-28T23:12:00Z)
+  - Jones played just eight offensive snaps in the contest, marking a quick end to the preseason for the veteran backup. Despite the poor outing, Jones is still the most likely No. 2 option at quarterback behind starter Brock Purdy. With Kurtis Rourke (ribs) dealing with an injury, Adrian Martinez will likely fill out the QB room as the team heads into Sunday's cutdown day.
+- **Jack Bech** — Jack Bech - Plays in finale (2026-08-28T23:08:17Z)
   - Bech played 20 offensive snaps in the contest, garnering attention just one time. The 2025 second-rounder is in a battle for starting wide receiver snaps. With Sunday's cutdown day rapidly approaching, the Raiders likely already know whether Bech, Dont'e Thornton, Dareke Young or Malik Benson will take on the No. 3 wide receiver role for the Week 1 matchup against the Dolphins.
-- **NEW — Omarion Hampton** — Omarion Hampton - Four snaps in preseason finale (2026-08-28T23:06:41Z)
-  - Hampton was on the field for the Chargers' first two offensive drives but did get a touch in Thursday's preseason finale. The 2025 first-rounder was limited to nine regular-season games in his rookie campaign due mostly to a fractured left ankle but still finished with 124 carries for 545 yards and four touchdowns while adding 32 catches (on 35 targets) for 192 yards and a score. Hampton is the lead back for the Chargers, but Kimani Vidal and Keaton Mitchell both figure to see a fair amount of work in the scheme of new offensive coordinator Mike McDaniel.
+- **Omarion Hampton** — Omarion Hampton - Four snaps in preseason finale (2026-08-28T23:06:41Z)
+  - Hampton was on the field for the Chargers' first two offensive drives but did get a touch in Thursday's preseason finale. The 2025 first-rounder was limited to nine regular-season games in his rookie campaign due mostly to a fractured left ankle but still finished with 124 carries for 545 yards and four touchdowns while adding 32 catches (on 35 targets) for 192 yards and a score. Hampton is the lead back for the Chargers, but Kimani Vidal and Keaton Mitchell (undisclosed) both figure to see a fair amount of work in the scheme of new offensive coordinator Mike McDaniel.
 - **Harold Fannin** — Harold Fannin - Doesn't play Thursday vs. NE (2026-08-28T22:48:22Z)
   - Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, as he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.
 - **J.J. McCarthy** — J.J. McCarthy - Won't play Friday (2026-08-28T22:33:57Z)
@@ -21,6 +27,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - On Aug. 20, Croskey-Merritt pulled up at the end of a catch and run in practice due to a lower-body injury, which now will keep him out of the Commanders' final two exhibitions. He focused on rehab work on the side this week, with the intent to return to practice at some point next week. Rachaad White (hamstring) and Jeremy McNichols (quadriceps) also aren't in uniform Friday, meaning rookie sixth-rounder Kaytron Allen, Robert Henry and Craig Reynolds are the team's available RBs for preseason Week 3.
 - **Emeka Egbuka** — Emeka Egbuka - Focus remains on Week 1 (2026-08-28T19:49:18Z)
   - Egbuka, per the report, made the trip to Jacksonville with his teammates for Friday's preseason finale, but he will not suit up and will instead keep working on his recovery from the toe injury he sustained a little over two weeks ago. It's not yet known when Egbuka will be back on the field, so his availability remains up in the air in advance of his team's season-opening matchup with the Bengals on Sept. 13.
+- **NEW — Chase Brown** — Chase Brown Could See More Under-Center Rushing Opportunities (2026-08-28T19:11:07Z)
+  - Source: https://www.rotoballer.com/player-news/chase-brown-could-see-more-under-center-rushing-opportunities/1918789
 - **J.J. McCarthy** — J.J. McCarthy Not Playing in Preseason Finale Against Denver (2026-08-28T18:47:06Z)
   - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-not-playing-in-preseason-finale-against-denver/1918771
 - **Wan'Dale Robinson** — Wan'Dale Robinson - Appears to avoid concussion (2026-08-28T18:26:42Z)
@@ -201,12 +209,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/khalil-shakir-sitting-with-undisclosed-injury/1917900
 - **Wan'Dale Robinson** — Wan'Dale Robinson - Being evaluated for concussion (2026-08-27T18:38:48Z)
   - Robinson, per the report, was able to walk off the field under his own power, but he will still undergo tests to determine if he sustained a concussion. Another update on his status figures to be released after the results of the exams have been read.
-- **Aaron Rodgers** — Aaron Rodgers Not Playing in Preseason Finale (2026-08-27T18:34:05Z)
-  - Source: https://www.rotoballer.com/player-news/aaron-rodgers-not-playing-in-preseason-finale/1917897
-- **TreVeyon Henderson** — TreVeyon Henderson Should be "Good to Go" for Week 1 (2026-08-27T18:27:07Z)
-  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-should-be-good-to-go-for-week-1/1917894
-- **Keon Coleman** — Keon Coleman Ditches Walking Boot (2026-08-27T17:59:08Z)
-  - Source: https://www.rotoballer.com/player-news/keon-coleman-ditches-walking-boot/1917883
-- **DK Metcalf** — DK Metcalf restructures contract with Steelers  (2026-08-27T17:30:53.247000Z)
-  - The move creates nearly $18 million in cap space for Pittsburgh. 
-  - Source: https://www.fantasypros.com/nfl/news/604444/dk-metcalf-restructures-contract-with-steelers.php

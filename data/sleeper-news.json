@@ -1,10 +1,12 @@
 {
-  "last_checked_at": "2026-08-28T23:12:49Z",
+  "last_checked_at": "2026-08-28T23:22:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|12483|rotowire|635037|1787958497000",
-    "nfl|12507|rotowire|635036|1787958401000"
+    "nfl|11632|rotowire|635042|1787959106000",
+    "nfl|12493|rotowire|635040|1787959102000",
+    "nfl|7527|rotowire|635038|1787958720000",
+    "nfl|9224|rotoballer|219600|1787944267000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +16,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Nabers has been an active participant during most of training camp and finally ditched the non-contact red jersey at Monday's practice, but he won't make an appearance during exhibition season as he continues to put last season's torn right ACL further in the rearview mirror. He'll continue to ramp up in advance of a Week 1 matchup with the Cowboys on Sunday, Sept. 13.",
+      "description": "Nabers (knee) isn't suited up for Friday's preseason game versus the Jets, Pat Leonard of the New York Daily News reports.",
+      "metadata": {
+        "analysis": "Nabers has been an active participant during most of training camp and finally ditched the non-contact red jersey at Monday's practice, but he won't make an appearance during exhibition season as he continues to put last season's torn right ACL further in the rearview mirror. He'll continue to ramp up in advance of a Week 1 matchup with the Cowboys on Sunday, Sept. 13.",
+        "description": "Nabers (knee) isn't suited up for Friday's preseason game versus the Jets, Pat Leonard of the New York Daily News reports.",
+        "title": "Malik Nabers - Not in uniform Friday",
+        "topic_id": "1399206102251372544"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1787959106000,
+      "source": "rotowire",
+      "source_key": "635042",
+      "story_id": "nfl|11632|rotowire|635042|1787959106000",
+      "title": "Malik Nabers - Not in uniform Friday",
+      "url": null
+    },
+    {
+      "analysis": "For the second straight week, Gadsden worked in a reserve role behind Charlie Kolar and David Njoku. While snap counts during preseason play aren't generally reflective of what will happen during the regular season, it could be telling that Gadsden saw only one offensive snap with Justin Herbert on the field during the exhibition slate while fellow tight ends Charlie Kolar and David Njoku logged six and five snaps, respectively. Despite Gadsden's promising rookie campaign last year, he could be looking at a reduced role behind Kolar and Njoku -- both of whom are regarded as better blockers -- in new offensive coordinator Mike McDaniel's system.",
+      "description": "Gadsden participated in eight offensive snaps and did not record any statistics otherwise in Thursday's preseason loss to the Rams.",
+      "metadata": {
+        "analysis": "For the second straight week, Gadsden worked in a reserve role behind Charlie Kolar and David Njoku. While snap counts during preseason play aren't generally reflective of what will happen during the regular season, it could be telling that Gadsden saw only one offensive snap with Justin Herbert on the field during the exhibition slate while fellow tight ends Charlie Kolar and David Njoku logged six and five snaps, respectively. Despite Gadsden's promising rookie campaign last year, he could be looking at a reduced role behind Kolar and Njoku -- both of whom are regarded as better blockers -- in new offensive coordinator Mike McDaniel's system.",
+        "description": "Gadsden participated in eight offensive snaps and did not record any statistics otherwise in Thursday's preseason loss to the Rams.",
+        "title": "Oronde Gadsden - Logs limited work in preseason finale",
+        "topic_id": "1399206102205235200"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12493",
+      "player_name": "Oronde Gadsden",
+      "position": "TE",
+      "published": 1787959102000,
+      "source": "rotowire",
+      "source_key": "635040",
+      "story_id": "nfl|12493|rotowire|635040|1787959102000",
+      "title": "Oronde Gadsden - Logs limited work in preseason finale",
+      "url": null
+    },
+    {
+      "analysis": "Jones played just eight offensive snaps in the contest, marking a quick end to the preseason for the veteran backup. Despite the poor outing, Jones is still the most likely No. 2 option at quarterback behind starter Brock Purdy. With Kurtis Rourke (ribs) dealing with an injury, Adrian Martinez will likely fill out the QB room as the team heads into Sunday's cutdown day.",
+      "description": "Jones completed one of his five pass attempts for seven yards in Thursday night's preseason finale against the Raiders.",
+      "metadata": {
+        "analysis": "Jones played just eight offensive snaps in the contest, marking a quick end to the preseason for the veteran backup. Despite the poor outing, Jones is still the most likely No. 2 option at quarterback behind starter Brock Purdy. With Kurtis Rourke (ribs) dealing with an injury, Adrian Martinez will likely fill out the QB room as the team heads into Sunday's cutdown day.",
+        "description": "Jones completed one of his five pass attempts for seven yards in Thursday night's preseason finale against the Raiders.",
+        "title": "Mac Jones - Quick appearance in preseason finale",
+        "topic_id": "1399204843775602688"
+      },
+      "nfl_team": "SF",
+      "player_id": "7527",
+      "player_name": "Mac Jones",
+      "position": "QB",
+      "published": 1787958720000,
+      "source": "rotowire",
+      "source_key": "635038",
+      "story_id": "nfl|7527|rotowire|635038|1787958720000",
+      "title": "Mac Jones - Quick appearance in preseason finale",
+      "url": null
+    },
     {
       "analysis": "Bech played 20 offensive snaps in the contest, garnering attention just one time. The 2025 second-rounder is in a battle for starting wide receiver snaps. With Sunday's cutdown day rapidly approaching, the Raiders likely already know whether Bech, Dont'e Thornton, Dareke Young or Malik Benson will take on the No. 3 wide receiver role for the Week 1 matchup against the Dolphins.",
       "description": "Bech caught his sole target for five yards in Thursday night's preseason finale against the 49ers.",
@@ -35,10 +97,10 @@
       "url": null
     },
     {
-      "analysis": "Hampton was on the field for the Chargers' first two offensive drives but did get a touch in Thursday's preseason finale. The 2025 first-rounder was limited to nine regular-season games in his rookie campaign due mostly to a fractured left ankle but still finished with 124 carries for 545 yards and four touchdowns while adding 32 catches (on 35 targets) for 192 yards and a score. Hampton is the lead back for the Chargers, but Kimani Vidal and Keaton Mitchell both figure to see a fair amount of work in the scheme of new offensive coordinator Mike McDaniel.",
+      "analysis": "Hampton was on the field for the Chargers' first two offensive drives but did get a touch in Thursday's preseason finale. The 2025 first-rounder was limited to nine regular-season games in his rookie campaign due mostly to a fractured left ankle but still finished with 124 carries for 545 yards and four touchdowns while adding 32 catches (on 35 targets) for 192 yards and a score. Hampton is the lead back for the Chargers, but Kimani Vidal and Keaton Mitchell (undisclosed) both figure to see a fair amount of work in the scheme of new offensive coordinator Mike McDaniel.",
       "description": "Hampton played four snaps on offense and didn't show up in the box score otherwise during the Chargers' 20-18 preseason loss to the Rams on Thursday.",
       "metadata": {
-        "analysis": "Hampton was on the field for the Chargers' first two offensive drives but did get a touch in Thursday's preseason finale. The 2025 first-rounder was limited to nine regular-season games in his rookie campaign due mostly to a fractured left ankle but still finished with 124 carries for 545 yards and four touchdowns while adding 32 catches (on 35 targets) for 192 yards and a score. Hampton is the lead back for the Chargers, but Kimani Vidal and Keaton Mitchell both figure to see a fair amount of work in the scheme of new offensive coordinator Mike McDaniel.",
+        "analysis": "Hampton was on the field for the Chargers' first two offensive drives but did get a touch in Thursday's preseason finale. The 2025 first-rounder was limited to nine regular-season games in his rookie campaign due mostly to a fractured left ankle but still finished with 124 carries for 545 yards and four touchdowns while adding 32 catches (on 35 targets) for 192 yards and a score. Hampton is the lead back for the Chargers, but Kimani Vidal and Keaton Mitchell (undisclosed) both figure to see a fair amount of work in the scheme of new offensive coordinator Mike McDaniel.",
         "description": "Hampton played four snaps on offense and didn't show up in the box score otherwise during the Chargers' 20-18 preseason loss to the Rams on Thursday.",
         "title": "Omarion Hampton - Four snaps in preseason finale",
         "topic_id": "1399203585798987776"
@@ -153,6 +215,26 @@
       "story_id": "nfl|12514|rotowire|635014|1787946558000",
       "title": "Emeka Egbuka - Focus remains on Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Athletic's Paul Dehner Jr. writes that it is \"easy to anticipate a far more under-center ground game coming\" for Cincinnati Bengals running back Chase Brown in 2026. Brown at one point called the Bengals a \"top-five, top-10\" defense during training camp. \"They've been causing us problems all camp,\" Brown said. \"Offensively, we started to find a groove there even though they presented us some pretty big challenges at the start.\" The 26-year-old former fifth-rounder from Illinois had his first 1,000-yard rushing season on 232 carries in 2025 and added six rushing scores and a career-best 69 receptions for 437 yards and five more TDs to finish as a top-10 fantasy RB. Based on everything we have heard this summer, the Bengals have designed their offense even more around Brown out of the backfield in 2026, making him a strong midrange RB1 target as he heads into his fourth year in the NFL. Not only has Brown become one of the best all-around players at his position in the league, but he really should not be threatened at all by Samaje Perine. In a prolific offense like Cincy's, if quarterback Joe Burrow stays healthy, Brown could even improve on his strong 2025 showing.",
+      "metadata": {
+        "description": "The Athletic's Paul Dehner Jr. writes that it is \"easy to anticipate a far more under-center ground game coming\" for Cincinnati Bengals running back Chase Brown in 2026. Brown at one point called the Bengals a \"top-five, top-10\" defense during training camp. \"They've been causing us problems all camp,\" Brown said. \"Offensively, we started to find a groove there even though they presented us some pretty big challenges at the start.\" The 26-year-old former fifth-rounder from Illinois had his first 1,000-yard rushing season on 232 carries in 2025 and added six rushing scores and a career-best 69 receptions for 437 yards and five more TDs to finish as a top-10 fantasy RB. Based on everything we have heard this summer, the Bengals have designed their offense even more around Brown out of the backfield in 2026, making him a strong midrange RB1 target as he heads into his fourth year in the NFL. Not only has Brown become one of the best all-around players at his position in the league, but he really should not be threatened at all by Samaje Perine. In a prolific offense like Cincy's, if quarterback Joe Burrow stays healthy, Brown could even improve on his strong 2025 showing.",
+        "title": "Chase Brown Could See More Under-Center Rushing Opportunities",
+        "topic_id": "1399204841959497728",
+        "url": "https://www.rotoballer.com/player-news/chase-brown-could-see-more-under-center-rushing-opportunities/1918789"
+      },
+      "nfl_team": "CIN",
+      "player_id": "9224",
+      "player_name": "Chase Brown",
+      "position": "RB",
+      "published": 1787944267000,
+      "source": "rotoballer",
+      "source_key": "219600",
+      "story_id": "nfl|9224|rotoballer|219600|1787944267000",
+      "title": "Chase Brown Could See More Under-Center Rushing Opportunities",
+      "url": "https://www.rotoballer.com/player-news/chase-brown-could-see-more-under-center-rushing-opportunities/1918789"
     },
     {
       "analysis": null,
