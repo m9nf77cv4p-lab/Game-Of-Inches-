@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-28T23:02:48Z",
+  "last_checked_at": "2026-08-28T23:12:49Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11565|rotoballer|219599|1787942826000"
+    "nfl|12483|rotowire|635037|1787958497000",
+    "nfl|12507|rotowire|635036|1787958401000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Bech played 20 offensive snaps in the contest, garnering attention just one time. The 2025 second-rounder is in a battle for starting wide receiver snaps. With Sunday's cutdown day rapidly approaching, the Raiders likely already know whether Bech, Dont'e Thornton, Dareke Young or Malik Benson will take on the No. 3 wide receiver role for the Week 1 matchup against the Dolphins.",
+      "description": "Bech caught his sole target for five yards in Thursday night's preseason finale against the 49ers.",
+      "metadata": {
+        "analysis": "Bech played 20 offensive snaps in the contest, garnering attention just one time. The 2025 second-rounder is in a battle for starting wide receiver snaps. With Sunday's cutdown day rapidly approaching, the Raiders likely already know whether Bech, Dont'e Thornton, Dareke Young or Malik Benson will take on the No. 3 wide receiver role for the Week 1 matchup against the Dolphins.",
+        "description": "Bech caught his sole target for five yards in Thursday night's preseason finale against the 49ers.",
+        "title": "Jack Bech - Plays in finale",
+        "topic_id": "1399203585836736512"
+      },
+      "nfl_team": "LV",
+      "player_id": "12483",
+      "player_name": "Jack Bech",
+      "position": "WR",
+      "published": 1787958497000,
+      "source": "rotowire",
+      "source_key": "635037",
+      "story_id": "nfl|12483|rotowire|635037|1787958497000",
+      "title": "Jack Bech - Plays in finale",
+      "url": null
+    },
+    {
+      "analysis": "Hampton was on the field for the Chargers' first two offensive drives but did get a touch in Thursday's preseason finale. The 2025 first-rounder was limited to nine regular-season games in his rookie campaign due mostly to a fractured left ankle but still finished with 124 carries for 545 yards and four touchdowns while adding 32 catches (on 35 targets) for 192 yards and a score. Hampton is the lead back for the Chargers, but Kimani Vidal and Keaton Mitchell both figure to see a fair amount of work in the scheme of new offensive coordinator Mike McDaniel.",
+      "description": "Hampton played four snaps on offense and didn't show up in the box score otherwise during the Chargers' 20-18 preseason loss to the Rams on Thursday.",
+      "metadata": {
+        "analysis": "Hampton was on the field for the Chargers' first two offensive drives but did get a touch in Thursday's preseason finale. The 2025 first-rounder was limited to nine regular-season games in his rookie campaign due mostly to a fractured left ankle but still finished with 124 carries for 545 yards and four touchdowns while adding 32 catches (on 35 targets) for 192 yards and a score. Hampton is the lead back for the Chargers, but Kimani Vidal and Keaton Mitchell both figure to see a fair amount of work in the scheme of new offensive coordinator Mike McDaniel.",
+        "description": "Hampton played four snaps on offense and didn't show up in the box score otherwise during the Chargers' 20-18 preseason loss to the Rams on Thursday.",
+        "title": "Omarion Hampton - Four snaps in preseason finale",
+        "topic_id": "1399203585798987776"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12507",
+      "player_name": "Omarion Hampton",
+      "position": "RB",
+      "published": 1787958401000,
+      "source": "rotowire",
+      "source_key": "635036",
+      "story_id": "nfl|12507|rotowire|635036|1787958401000",
+      "title": "Omarion Hampton - Four snaps in preseason finale",
+      "url": null
+    },
     {
       "analysis": "Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, as he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.",
       "description": "Fannin did not play in the Browns' 37-13 preseason win over the Patriots on Thursday.",

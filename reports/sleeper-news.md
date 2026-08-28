@@ -2,11 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1218**
-- Newly captured: **1**
+- Stored stories: **1220**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Jack Bech** — Jack Bech - Plays in finale (2026-08-28T23:08:17Z)
+  - Bech played 20 offensive snaps in the contest, garnering attention just one time. The 2025 second-rounder is in a battle for starting wide receiver snaps. With Sunday's cutdown day rapidly approaching, the Raiders likely already know whether Bech, Dont'e Thornton, Dareke Young or Malik Benson will take on the No. 3 wide receiver role for the Week 1 matchup against the Dolphins.
+- **NEW — Omarion Hampton** — Omarion Hampton - Four snaps in preseason finale (2026-08-28T23:06:41Z)
+  - Hampton was on the field for the Chargers' first two offensive drives but did get a touch in Thursday's preseason finale. The 2025 first-rounder was limited to nine regular-season games in his rookie campaign due mostly to a fractured left ankle but still finished with 124 carries for 545 yards and four touchdowns while adding 32 catches (on 35 targets) for 192 yards and a score. Hampton is the lead back for the Chargers, but Kimani Vidal and Keaton Mitchell both figure to see a fair amount of work in the scheme of new offensive coordinator Mike McDaniel.
 - **Harold Fannin** — Harold Fannin - Doesn't play Thursday vs. NE (2026-08-28T22:48:22Z)
   - Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, as he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.
 - **J.J. McCarthy** — J.J. McCarthy - Won't play Friday (2026-08-28T22:33:57Z)
@@ -17,7 +21,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - On Aug. 20, Croskey-Merritt pulled up at the end of a catch and run in practice due to a lower-body injury, which now will keep him out of the Commanders' final two exhibitions. He focused on rehab work on the side this week, with the intent to return to practice at some point next week. Rachaad White (hamstring) and Jeremy McNichols (quadriceps) also aren't in uniform Friday, meaning rookie sixth-rounder Kaytron Allen, Robert Henry and Craig Reynolds are the team's available RBs for preseason Week 3.
 - **Emeka Egbuka** — Emeka Egbuka - Focus remains on Week 1 (2026-08-28T19:49:18Z)
   - Egbuka, per the report, made the trip to Jacksonville with his teammates for Friday's preseason finale, but he will not suit up and will instead keep working on his recovery from the toe injury he sustained a little over two weeks ago. It's not yet known when Egbuka will be back on the field, so his availability remains up in the air in advance of his team's season-opening matchup with the Bengals on Sept. 13.
-- **NEW — J.J. McCarthy** — J.J. McCarthy Not Playing in Preseason Finale Against Denver (2026-08-28T18:47:06Z)
+- **J.J. McCarthy** — J.J. McCarthy Not Playing in Preseason Finale Against Denver (2026-08-28T18:47:06Z)
   - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-not-playing-in-preseason-finale-against-denver/1918771
 - **Wan'Dale Robinson** — Wan'Dale Robinson - Appears to avoid concussion (2026-08-28T18:26:42Z)
   - Robinson took a hard hit during Thursday's session and underwent tests, which apparently ruled out a concussion. Per the report, the Titans will continue monitoring Robinson's symptoms, but the early indications are promising and he seemingly is on track to take the field in Week 1 against the Jets on Sept. 13.
@@ -206,8 +210,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **DK Metcalf** — DK Metcalf restructures contract with Steelers  (2026-08-27T17:30:53.247000Z)
   - The move creates nearly $18 million in cap space for Pittsburgh. 
   - Source: https://www.fantasypros.com/nfl/news/604444/dk-metcalf-restructures-contract-with-steelers.php
-- **Isiah Pacheco** — Isiah Pacheco dealing with back injury in addition to MCL sprain  (2026-08-27T17:20:53.031000Z)
-  - Pacheco remains without a clear timetable to return. The Lions recently worked out Kareem Hunt. 
-  - Source: https://www.fantasypros.com/nfl/news/604438/isiah-pacheco-dealing-with-back-injury-addition-to-mcl-sprain.php
-- **Marvin Mims** — Marvin Mims Jr. Facing Uphill Battle to Fantasy Relevance in Denver (2026-08-27T16:59:05Z)
-  - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-facing-uphill-battle-to-fantasy-relevance-in-denver/1917855
