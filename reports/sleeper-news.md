@@ -7,7 +7,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 ## Latest news
 
-- **Troy Franklin** — Troy Franklin - Fails to corral one target (2026-08-29T05:10:51Z)
+- **Troy Franklin** — Troy Franklin - Fails to corral sole target (2026-08-29T05:10:51Z)
   - Franklin opened preseason with a 23-yard grab in the opener against the Falcons, but that turned out to be his only production of the exhibition slate across three games. Despite the quiet summer, Franklin is slated to serve as the No. 3 receiver behind Courtland Sutton and Jaylen Waddle in what should be a high-powered Broncos air attack.
 - **Will Reichard** — Will Reichard - Perfect on two kicks Friday (2026-08-29T05:07:10Z)
   - The third-year kicker wrapped up a perfect preseason with his pair of successful kicks Friday. Reichard went 5-for-5 on field goals, including two from 50-plus yards, and knocked home his only PAT across three preseason games, and he'll now turn his attention to a Week 1 divisional home showdown against the Packers on Sept. 13.
@@ -16,7 +16,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Elijah Arroyo** — Elijah Arroyo - Another chunk play Friday (2026-08-29T04:55:01Z)
   - The second-year tight end had recorded a 36-yard touchdown grab in Sunday's exhibition against the Titans, and Arroyo followed that up with another big play Friday on his 24-yard grab during Seattle's second possession. Arroyo is expected to operate as the No. 2 pass-catching option at tight end behind AJ Barner, but veteran Eric Saubert is expected to see his fair share of snaps as well thanks to his blocking prowess.
 - **Emmett Johnson** — Emmett Johnson - Productive with nine touches Friday (2026-08-29T04:37:50Z)
-  - The rookie fifth-round pick put together a strong finish to an encouraging preseason, one where he rushed 26 times for 123 yards and a touchdown and adding a 6-35-0 line on seven targets. Johnson's primary competition for a depth role, Brashard Smith, had a productive 16-carry, 72-yard effort in his own right Friday, so it remains to be seen where each will slot on the depth chart behind the top duo of Kenneth Walker (ankle) and Emari Demercado.
+  - The rookie fifth-round pick put together a strong finish to an encouraging preseason, one where he rushed 26 times for 123 yards and a touchdown and added a 6-35-0 line on seven targets. Johnson's primary competition for a depth role, Brashard Smith, had a productive 16-carry, 72-yard effort in his own right Friday, so it remains to be seen where each will slot on the depth chart behind the top duo of Kenneth Walker (ankle) and Emari Demercado.
 - **Jeremiyah Love** — Jeremiyah Love - Continues to progress (2026-08-29T04:13:20Z)
   - Love was able to get in some light work in Wednesday, and he appeared to be moving at a quicker pace a couple days later. It remains unclear if he will be ready to go when the Cardinals open their season against the Chargers, but he will have just over two more weeks to work past the high-ankle sprain he picked up in the first preseason game.
 - **Cyrus Allen** — Cyrus Allen - Finishes preseason with one catch (2026-08-29T04:02:11Z)
