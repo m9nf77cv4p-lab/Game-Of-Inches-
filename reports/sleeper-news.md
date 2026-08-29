@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1257**
+- Stored stories: **1259**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Najee Harris** — Najee Harris - Gets 12 touches Friday while Tracy exits (2026-08-29T03:04:46Z)
+- **NEW — Travis Kelce** — Travis Kelce - One catch in preseason finale (2026-08-29T03:28:07Z)
+  - Kelce was on the other end of starting quarterback's Garrett Nussmeier's first pass of the night, an eight-yard completion that took the ball to midfield on Kansas City's opening possession. Kelce thus was able to record his only stats of preseason in the brief cameo, and he'll now turn his attention to a Week 1 Monday night home showdown against the Broncos on Sept. 14 that he'll hope to play with Patrick Mahomes (knee) as his quarterback.
+- **NEW — Makai Lemon** — Makai Lemon - Three catches in preseason debut (2026-08-29T03:23:50Z)
+  - Lemon made his long-awaited pro debut after finally overcoming a nagging hamstring injury, and although he was certainly kept busy during his time in the game, he extracted minimal gains from his receptions. The 2026 first-round pick is still ticketed for the No. 3 receiver role to open the season despite the missed time, and Lemon will now have the opportunity to garner plenty of practice reps ahead of a Week 1 home matchup against the Commanders on Sept. 13.
+- **Najee Harris** — Najee Harris - Gets 12 touches Friday while Tracy exits (2026-08-29T03:04:46Z)
   - Harris was the first running back to record a touch for the Giants in Friday's preseason finale, which Cam Skattebo and Devin Singletary sat out. Fellow RB Tyrone Tracy (neck) left the game in the second quarter and didn't return, though Tracy managed to clear concussion protocol. The Giants may opt to keep all four of Skattebo, Singletary, Harris and Tracy on their roster once they cut down to 53 players for the regular season.
-- **NEW — Chris Bell** — Chris Bell - Five targets in preseason finale (2026-08-29T03:00:26Z)
+- **Chris Bell** — Chris Bell - Five targets in preseason finale (2026-08-29T03:00:26Z)
   - Bell got his first taste of NFL game action in Friday's preseason finale, as he has gained clearance to play after having the ACL in his left knee surgically repaired in December. The wide receiver out of Louisville is set to compete for playing time in an underwhelming Dolphins WR room that also includes rookie third-round pick Caleb Douglas, rookie fifth-round pick Kevin Coleman, 2024 sixth-round pick Malik Washington and offseason signing Jalen Tolbert.
 - **Cam Little** — Cam Little - Nails 61-yarder Friday (2026-08-29T02:40:42Z)
   - Little's long-distance boot, which came with just over 10 minutes remaining in the second quarter, was undeniably impressive but not out of the norm for the third-year star. Little went 13-for-16 on kicks from 50 yards and longer over 34 regular-season games in his first two campaigns, and he wraps up preseason having gone 7-for-7 on field-goal attempts while also knocking home his only PAT.
@@ -203,7 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Washington operated as the starting running back with Ashton Jeanty (ankle) sidelined and turned in an efficient performance. The rookie fourth-round pick set the tone for his night by quickly churning out 12 yards on the first two plays from scrimmage, and he added 13- and 11-yard gains on Las Vegas' second possession. Washington appears firmly entrenched as the No. 2 back to open the season, but he'd be teed up for a likely Week 1 starting assignment against the Dolphins on Sunday, Sept. 13 if Jeanty is unable to suit up.
 - **Kirk Cousins** — Kirk Cousins - Decision on Week 1 starting QB still to come (2026-08-28T03:25:49Z)
   - Cousins opened training camp as the Raiders' starting QB and has been listed as No. 1 on the depth chart throughout camp and exhibition season. On Thursday, he started and completed eight of 11 passes for 51 yards, no touchdowns and no interceptions, which seemingly wasn't enough to lock down the job over Mendoza. As a result, this situation remains the top lingering job battle in advance of Week 1.
-- **Brock Bowers** — Brock Bowers - One catch in preseason loss (2026-08-28T03:16:27Z)
-  - The talented tight end logged only one snap in the preseason opener against the Cardinals on Aug. 13 and then was rested for last Thursday's game against the Texans, so Bowers' catch goes down as his first and only stat from exhibition season. After an injury-impacted 2025, Bowers is back to full health and will serve as the top target in the Raiders offense to begin the campaign. Bowers next takes the field in a Week 1 home matchup against the Dolphins on Sunday, Sept. 13.
-- **Geno Smith** — Geno Smith - Not playing Friday (2026-08-28T01:43:35Z)
-  - Smith and most of the Jets' starters will sit out Friday's contest as the team prepares for Week 1 against the Titans on Sunday, Sept. 13. The quarterback played the opening drive of the team's preseason win over Pittsburgh on Aug. 21, completing all seven of his passes for 65 yards and a touchdown. That will end up being the only action he sees during the preseason, and Week 1 will be his first regular-season start with the Jets since 2016.
