@@ -2,14 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1234**
-- Newly captured: **2**
+- Stored stories: **1237**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Quinshon Judkins** — Quinshon Judkins - Doesn't suit up for preseason finale (2026-08-29T00:47:42Z)
+- **NEW — DJ Moore** — DJ Moore - Rests during preseason finale (2026-08-29T00:57:37Z)
+  - Buffalo elected to rest the bulk of its projected regular-season starters, including Moore, for the team's final preseason game. The veteran wideout saw action in one exhibition contest, catching three of four targets for 61 yards. Moore left that game early due to an ankle injury but has since returned to practice, so he should be good to go as the Bills' top wideout in Week 1 of the regular season versus a tough Texans defense.
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson - Held out of exhibition finale (2026-08-29T00:52:29Z)
+  - The Patriots rested their projected regular-season starters Thursday, so Stevenson's absence was par for the course. He didn't see any game action during the preseason slate but appears back to full health after dealing with a minor undisclosed injury in late July. Stevenson and TreVeyon Henderson, who is dealing with an ankle injury but is expected to be ready for Week 1, are slated to share backfield duties for New England during the upcoming campaign.
+- **NEW — Tyrone Tracy** — Tyrone Tracy - Goes to locker room (2026-08-29T00:50:19Z)
+  - Tracy was tended to by medical staff after taking a big hit on an eight-yard run during the second quarter. The good news was that he was able to walk off the field and into the locker room under his own power. Given that he's being checked for a neck injury, it appears unlikely that Tracy will return to Friday's exhibition contest. If he's indeed done, he''ll finish with four carries for 37 yards and a touchdown.
+- **Quinshon Judkins** — Quinshon Judkins - Doesn't suit up for preseason finale (2026-08-29T00:47:42Z)
   - Judkins also missed the team's second preseason game due to an undisclosed injury, but he returned to practice this past Monday and seems to be past the issue. He ended up logging action in only the first of the Browns' exhibition contests, when he carried four times for nine yards. Judkins is the clear No. 1 RB for Cleveland and could be headed for a heavy workload on a team that may again deploy a shaky passing game.
-- **NEW — Drake Maye** — Drake Maye - Doesn't play in exhibition finale (2026-08-29T00:40:03Z)
+- **Drake Maye** — Drake Maye - Doesn't play in exhibition finale (2026-08-29T00:40:03Z)
   - Unsurprisingly, Maye was among the plethora of New England starters who didn't see action in the team's final exhibition game. The star quarterback ended up sitting out all three of the team's preseason contests as he prepares for the regular season. Maye's first chance to get into game action with new top wideouts A.J. Brown and Romeo Doubs will take place in Week 1 versus Seattle on Wednesday, Sept. 9.
 - **James Cook** — James Cook - Sits out preseason finale (2026-08-29T00:26:51Z)
   - The Bills rested most of their projected regular-season starters, so Cook's absence was expected. The star running back finished the preseason slate having appeared in one game, logging 21 yards on five carries. Cook will now look ahead to Week 1, when he's slated to lead Buffalo's backfield against a tough Texans defense on Sunday, Sept. 13. Ray Davis is expected to work as his top backup.
@@ -202,9 +208,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Jacobs is facing misdemeanor battery and misdemeanor criminal damage to property charges, with NFL spokesperson Brian McCarthy saying in a statement Thursday, "We have been closely monitoring all developments in the matter, which remains under review." Demovsky notes that Jacobs could be subject to a suspension by the NFL, which is conducting its own investigation on the matter, adding that it's up to the league to decide whether or not to wait until the legal process is completed before any determination is made. In a statement Thursday, the Packers said, "We are aware of the charges brought against Josh Jacobs. We will continue to cooperate with the NFL as we work through the process. We will have no further comment at this time."
 - **Chimere Dike** — Chimere Dike Facing Serious Target Competition in 2026 (2026-08-27T22:00:13Z)
   - Source: https://www.rotoballer.com/player-news/chimere-dike-facing-serious-target-competition-in-2026/1917998
-- **Keon Coleman** — Keon Coleman - Sheds walking boot (2026-08-27T21:50:16Z)
-  - Coleman has been tending to a sprained right foot/toe that he sustained in the Bills' exhibition opener, which forced him to don a low walking boot since then. Shedding the boot is a positive sign in his recovery effort, but Coleman will join Khalil Shakir (undisclosed) and Tyrell Shavers (knee, active/PUP) as injured Buffalo wide receivers that won't suit up Thursday. Coleman will turn his focus to getting completely healthy for the team's regular-season opener Sunday, Sept. 13 at Houston.
-- **Tee Higgins** — Tee Higgins Remains a High-Upside Receiver in a Potent Offense (2026-08-27T21:48:25Z)
-  - Source: https://www.rotoballer.com/player-news/tee-higgins-remains-a-high-upside-receiver-in-a-potent-offense/1917993
-- **CeeDee Lamb** — CeeDee Lamb Looking For a Bounce-Back Season After in 2026 (2026-08-27T21:36:43Z)
-  - Source: https://www.rotoballer.com/player-news/ceedee-lamb-looking-for-a-bounce-back-season-after-injury-plagued-2025-season-2/1917986
