@@ -3,15 +3,15 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1277**
-- Newly captured: **3**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Troy Franklin** — Troy Franklin - Fails to corral one target (2026-08-29T05:10:51Z)
+- **Troy Franklin** — Troy Franklin - Fails to corral one target (2026-08-29T05:10:51Z)
   - Franklin opened preseason with a 23-yard grab in the opener against the Falcons, but that turned out to be his only production of the exhibition slate across three games. Despite the quiet summer, Franklin is slated to serve as the No. 3 receiver behind Courtland Sutton and Jaylen Waddle in what should be a high-powered Broncos air attack.
-- **NEW — Will Reichard** — Will Reichard - Perfect on two kicks Friday (2026-08-29T05:07:10Z)
+- **Will Reichard** — Will Reichard - Perfect on two kicks Friday (2026-08-29T05:07:10Z)
   - The third-year kicker wrapped up a perfect preseason with his pair of successful kicks Friday. Reichard went 5-for-5 on field goals, including two from 50-plus yards, and knocked home his only PAT across three preseason games, and he'll now turn his attention to a Week 1 divisional home showdown against the Packers on Sept. 13.
-- **NEW — Demond Claiborne** — Demond Claiborne - Does little with eight carries (2026-08-29T05:04:14Z)
+- **Demond Claiborne** — Demond Claiborne - Does little with eight carries (2026-08-29T05:04:14Z)
   - The rookie sixth-round pick drew the start and carried the ball on the Vikings' first two plays from scrimmage. Claiborne was given ample opportunity this preseason, rushing 28 times for 73 yards and adding a seven-yard reception on his only target. While Claiborne found running room at a premium, he did average 25.2  yards on his five kickoff returns, and special teams may be his ticket to a spot on the initial 53-man roster.
 - **Elijah Arroyo** — Elijah Arroyo - Another chunk play Friday (2026-08-29T04:55:01Z)
   - The second-year tight end had recorded a 36-yard touchdown grab in Sunday's exhibition against the Titans, and Arroyo followed that up with another big play Friday on his 24-yard grab during Seattle's second possession. Arroyo is expected to operate as the No. 2 pass-catching option at tight end behind AJ Barner, but veteran Eric Saubert is expected to see his fair share of snaps as well thanks to his blocking prowess.

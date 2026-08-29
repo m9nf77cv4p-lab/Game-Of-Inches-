@@ -1,12 +1,8 @@
 {
-  "last_checked_at": "2026-08-29T05:15:48Z",
+  "last_checked_at": "2026-08-29T05:25:55Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [
-    "nfl|11627|rotowire|635135|1787980251000",
-    "nfl|11792|rotowire|635134|1787980030000",
-    "nfl|13347|rotowire|635133|1787979854000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -237,10 +233,10 @@
     },
     {
       "analysis": "Lemon made his long-awaited pro debut after finally overcoming a nagging hamstring injury, and although he was certainly kept busy during his time in the game, he extracted minimal gains from his receptions. The 2026 first-round pick is still ticketed for the No. 3 receiver role to open the season despite the missed time, and Lemon will now have the opportunity to garner plenty of practice reps ahead of a Week 1 home matchup against the Commanders on Sept. 13.",
-      "description": "Lemon brought in three of five targets for five yards and returned one punt return for no gain in the Eagles' 30-13 preseason loss to the Bengals on Friday. He also fumbled once but recovered.",
+      "description": "Lemon brought in three of five targets for five yards and returned one punt for no gain in the Eagles' 30-13 preseason loss to the Bengals on Friday. He also fumbled once but recovered.",
       "metadata": {
         "analysis": "Lemon made his long-awaited pro debut after finally overcoming a nagging hamstring injury, and although he was certainly kept busy during his time in the game, he extracted minimal gains from his receptions. The 2026 first-round pick is still ticketed for the No. 3 receiver role to open the season despite the missed time, and Lemon will now have the opportunity to garner plenty of practice reps ahead of a Week 1 home matchup against the Commanders on Sept. 13.",
-        "description": "Lemon brought in three of five targets for five yards and returned one punt return for no gain in the Eagles' 30-13 preseason loss to the Bengals on Friday. He also fumbled once but recovered.",
+        "description": "Lemon brought in three of five targets for five yards and returned one punt for no gain in the Eagles' 30-13 preseason loss to the Bengals on Friday. He also fumbled once but recovered.",
         "title": "Makai Lemon - Three catches in preseason debut",
         "topic_id": "1399267768154460160"
       },
