@@ -2,18 +2,21 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1303**
-- Newly captured: **3**
+- Stored stories: **1305**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Jalen McMillan** — Jalen McMillan (knee) expected to be available Week 1 (2026-08-29T18:00:49.366000Z)
+- **NEW — Marvin Mims** — Marvin Mims Jr. suffers bruised foot (2026-08-29T18:05:49.497000Z)
+  - Mims avoids a serious injury. He is expected to be fine with just a couple of weeks until the season. 
+  - Source: https://www.fantasypros.com/nfl/news/604653/marvin-mims-jr-suffers-bruised-foot.php
+- **Jalen McMillan** — Jalen McMillan (knee) expected to be available Week 1 (2026-08-29T18:00:49.366000Z)
   - McMillan has been battling through knee and leg injuries during training camp. He is expected to compete for the immediate WR3 role for Tampa Bay. 
   - Source: https://www.fantasypros.com/nfl/news/604650/jalen-mcmillan-knee-expected-to-be-available-week-1.php
-- **NEW — Emeka Egbuka** — Emeka Egbuka (toe) hopeful for Week 1 (2026-08-29T18:00:49.354000Z)
+- **Emeka Egbuka** — Emeka Egbuka (toe) hopeful for Week 1 (2026-08-29T18:00:49.354000Z)
   - Egbuka has been working his way back from a toe injury during training camp. He is a WR2 with WR1 upside when healthy this season for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/604651/emeka-egbuka-toe-hopeful-week-1.php
-- **NEW — Alec Pierce** — Alec Pierce goes through pregame, not playing (2026-08-29T17:55:49.758000Z)
+- **Alec Pierce** — Alec Pierce goes through pregame, not playing (2026-08-29T17:55:49.758000Z)
   - Pierce was activated from the PUP list earlier this week. He has a chance to be ready for Week 1 against the Ravens. 
   - Source: https://www.fantasypros.com/nfl/news/604649/alec-pierce-goes-through-pregame-not-playing.php
 - **Patrick Mahomes** — Patrick Mahomes II (knee) on track to start Week 1 (2026-08-29T17:50:49.303000Z)
@@ -29,6 +32,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowles is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.
 - **Marvin Mims** — Marvin Mims - Dealing with foot contusion (2026-08-29T14:24:03Z)
   - Mims sustained the injury early in the first quarter and was listed as questionable to return after going to the locker room, but he didn't end up taking another snap in Friday's exhibition contest. It doesn't appear to be a serious injury, but his practice participation over the coming weeks will determine whether he'll suit up for Denver's Week 1 clash against Kansas City on Monday, Sept. 14.
+- **NEW — Patrick Mahomes** — Patrick Mahomes On Track to Play in Week 1 (2026-08-29T14:05:34Z)
+  - Source: https://www.rotoballer.com/player-news/patrick-mahomes-on-track-to-play-in-week-1/1919210
 - **Najee Harris** — Najee Harris Has 12 Touches in Giants' Preseason Debut (2026-08-29T13:30:13Z)
   - Source: https://www.rotoballer.com/player-news/najee-harris-has-12-touches-in-giants-preseason-debut/1919185
 - **Alec Pierce** — Alec Pierce Out for Colts' Preseason Finale (2026-08-29T13:08:10Z)
@@ -207,7 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/commanders-holding-rachaad-white-out-of-preseason-finale/1918755
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Not Playing in Preseason Finale (2026-08-28T18:05:10Z)
   - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-not-playing-in-preseason-finale/1918752
-- **Ashton Jeanty** — Ashton Jeanty - Being counted on for opener (2026-08-28T17:26:19Z)
-  - The extent of the injury Jeanty sustained at Sunday's practice session has not been revealed, but Kubiak's comments provide reason to believe the Raiders will have their top running back available for the season opener against the Dolphins on Sept. 13. Jeanty will have over two weeks to rest and recover before the campaign gets underway. Should he encounter any hiccups, Mike Washington remains next in line in the Las Vegas backfield.
-- **Emeka Egbuka** — Emeka Egbuka's Focus is on Being Ready for Week 1 (2026-08-28T16:16:07Z)
-  - Source: https://www.rotoballer.com/player-news/emeka-egbukas-focus-is-on-being-ready-for-week-1/1918683

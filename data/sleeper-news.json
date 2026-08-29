@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T18:02:27Z",
+  "last_checked_at": "2026-08-29T18:12:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11618|fantasy_pros|604650|1788026449366",
-    "nfl|12514|fantasy_pros|604651|1788026449354",
-    "nfl|8142|fantasy_pros|604649|1788026149758"
+    "nfl|4046|rotoballer|219665|1788012334000",
+    "nfl|9494|fantasy_pros|604653|1788026749497"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Mims avoids a serious injury. He is expected to be fine with just a couple of weeks until the season. ",
+      "description": "Broncos coach Sean Payton said WR Marvin Mims Jr. suffered a bruised foot in the Broncos final preseason game. ",
+      "metadata": {
+        "analysis": "Mims avoids a serious injury. He is expected to be fine with just a couple of weeks until the season. ",
+        "description": "Broncos coach Sean Payton said WR Marvin Mims Jr. suffered a bruised foot in the Broncos final preseason game. ",
+        "title": "Marvin Mims Jr. suffers bruised foot",
+        "topic_id": "1399489257285902336",
+        "url": "https://www.fantasypros.com/nfl/news/604653/marvin-mims-jr-suffers-bruised-foot.php"
+      },
+      "nfl_team": "DEN",
+      "player_id": "9494",
+      "player_name": "Marvin Mims",
+      "position": "WR",
+      "published": 1788026749497,
+      "source": "fantasy_pros",
+      "source_key": "604653",
+      "story_id": "nfl|9494|fantasy_pros|604653|1788026749497",
+      "title": "Marvin Mims Jr. suffers bruised foot",
+      "url": "https://www.fantasypros.com/nfl/news/604653/marvin-mims-jr-suffers-bruised-foot.php"
+    },
     {
       "analysis": "McMillan has been battling through knee and leg injuries during training camp. He is expected to compete for the immediate WR3 role for Tampa Bay. ",
       "description": "Buccaneers coach Todd Bowles said he expects WR Jalen McMillan to be available for Week 1 against the Bengals. ",
@@ -198,6 +218,26 @@
       "story_id": "nfl|9494|rotowire|635151|1788013443000",
       "title": "Marvin Mims - Dealing with foot contusion",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs starting quarterback Patrick Mahomes is on track to start Week 1 against the Denver Broncos on Monday, Sept. 14, NFL Network's Ian Rapoport reported on Saturday. \"Maybe [the Chiefs} will have to adjust to a little more run game, a little more defense; we shall see,\" Rapoport said of Kansas City's Week 1 scheme. \"But Patrick Mahomes is tracking to be on the field when the season begins.\" The 30-year-old signal-caller has been a full participant in training camp but has not seen any game action since tearing his ACL and LCL in Week 15 against the Los Angeles Chargers last year. The two-time Pro Bowler has seen dips in his production over the last two seasons, and he ended 2025 with a 62.7% completion rate and a 22:11 TD:INT ratio. Given the major knee surgery and the fact that the Chiefs' offense lacks the downfield explosiveness it had a few years ago, fantasy managers should consider Mahomes a high-end QB2 heading into the 2026 season.",
+      "metadata": {
+        "description": "Kansas City Chiefs starting quarterback Patrick Mahomes is on track to start Week 1 against the Denver Broncos on Monday, Sept. 14, NFL Network's Ian Rapoport reported on Saturday. \"Maybe [the Chiefs} will have to adjust to a little more run game, a little more defense; we shall see,\" Rapoport said of Kansas City's Week 1 scheme. \"But Patrick Mahomes is tracking to be on the field when the season begins.\" The 30-year-old signal-caller has been a full participant in training camp but has not seen any game action since tearing his ACL and LCL in Week 15 against the Los Angeles Chargers last year. The two-time Pro Bowler has seen dips in his production over the last two seasons, and he ended 2025 with a 62.7% completion rate and a 22:11 TD:INT ratio. Given the major knee surgery and the fact that the Chiefs' offense lacks the downfield explosiveness it had a few years ago, fantasy managers should consider Mahomes a high-end QB2 heading into the 2026 season.",
+        "title": "Patrick Mahomes On Track to Play in Week 1",
+        "topic_id": "1399490507662503936",
+        "url": "https://www.rotoballer.com/player-news/patrick-mahomes-on-track-to-play-in-week-1/1919210"
+      },
+      "nfl_team": "KC",
+      "player_id": "4046",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "published": 1788012334000,
+      "source": "rotoballer",
+      "source_key": "219665",
+      "story_id": "nfl|4046|rotoballer|219665|1788012334000",
+      "title": "Patrick Mahomes On Track to Play in Week 1",
+      "url": "https://www.rotoballer.com/player-news/patrick-mahomes-on-track-to-play-in-week-1/1919210"
     },
     {
       "analysis": null,
