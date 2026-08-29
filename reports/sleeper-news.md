@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1307**
+- Stored stories: **1308**
 - Newly captured: **1**
 
 ## Latest news
@@ -26,7 +26,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Mahomes said a week ago he was "extremely confident" he would be ready for Kansas City's season opener, and the latest report keeps him on track to do so. It's unclear how close he is to 100 percent, but it's growing more and more likely that the torn left ACL he sustained last December will not cost him any action during the 2026 campaign.
 - **Alec Pierce** — Alec Pierce - Working out but will sit Saturday (2026-08-29T16:42:42Z)
   - Pierce was activated from the Active/PUP list Thursday, but he is not ready to appear in a game just yet. He will keep building up over the next two weeks with an eye on suiting up for his team's Week 1 matchup with the Ravens.
-- **NEW — Luther Burden** — Luther Burden III "Moving Well," Trending Toward Week 1 Availability (2026-08-29T15:10:10Z)
+- **NEW — Garrett Wilson** — Will Garrett Wilson's Pure Talent Finally Equate to Fantasy Success? (2026-08-29T15:29:08Z)
+  - Source: https://www.rotoballer.com/player-news/will-garrett-wilsons-pure-talent-finally-equate-to-fantasy-success/1919257
+- **Luther Burden** — Luther Burden III "Moving Well," Trending Toward Week 1 Availability (2026-08-29T15:10:10Z)
   - Source: https://www.rotoballer.com/player-news/luther-burden-moving-well-trending-toward-week-1-availability/1919249
 - **Stefon Diggs** — Stefon Diggs Ready to Outplay His ADP in 2026? (2026-08-29T14:52:14Z)
   - Source: https://www.rotoballer.com/player-news/stefon-diggs-ready-to-outplay-his-adp-in-2026/1919241
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-not-playing-in-preseason-finale-against-denver/1918771
 - **Wan'Dale Robinson** — Wan'Dale Robinson - Appears to avoid concussion (2026-08-28T18:26:42Z)
   - Robinson took a hard hit during Thursday's session and underwent tests, which apparently ruled out a concussion. Per the report, the Titans will continue monitoring Robinson's symptoms, but the early indications are promising and he seemingly is on track to take the field in Week 1 against the Jets on Sept. 13.
-- **Kirk Cousins** — Kirk Cousins Expected to "Eventually" be Named the Starting QB (2026-08-28T18:22:09Z)
-  - Source: https://www.rotoballer.com/player-news/kirk-cousins-expected-to-eventually-be-named-the-starting-qb/1918760

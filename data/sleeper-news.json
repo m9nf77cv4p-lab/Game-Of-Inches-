@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T19:22:30Z",
+  "last_checked_at": "2026-08-29T19:42:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|12519|rotoballer|219668|1788016210000"
+    "nfl|8146|rotoballer|219669|1788017348000"
   ],
   "schema_version": 1,
   "source": {
@@ -157,6 +157,26 @@
       "story_id": "nfl|8142|rotowire|635171|1788021762000",
       "title": "Alec Pierce - Working out but will sit Saturday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets wideout Garrett Wilson is entering the 2026 season with a clean bill of health after missing the majority of last season with a knee injury. The 26-year-old was the WR7 overall and averaged 16.6 PPR points per game before being shut down for the season. Heading into this season, it isn't a far stretch to say Wilson will be playing with the best quarterback of his career in Geno Smith. Wilson has played with eight different shaky quarterbacks but still has found ways to produce elite statistical numbers. Wilson is only the fifth player in NFL history to record at least 80 receptions and 1,000 receiving yards in each of his first three seasons. In addition, he is the first Jet in franchise history to start a career with three consecutive 1,000-yard seasons. Wilson is currently being drafted as a value as the WR21 on Yahoo. It is within his range of outcomes to finish as a top 10 receiver in fantasy football this season.",
+      "metadata": {
+        "description": "New York Jets wideout Garrett Wilson is entering the 2026 season with a clean bill of health after missing the majority of last season with a knee injury. The 26-year-old was the WR7 overall and averaged 16.6 PPR points per game before being shut down for the season. Heading into this season, it isn't a far stretch to say Wilson will be playing with the best quarterback of his career in Geno Smith. Wilson has played with eight different shaky quarterbacks but still has found ways to produce elite statistical numbers. Wilson is only the fifth player in NFL history to record at least 80 receptions and 1,000 receiving yards in each of his first three seasons. In addition, he is the first Jet in franchise history to start a career with three consecutive 1,000-yard seasons. Wilson is currently being drafted as a value as the WR21 on Yahoo. It is within his range of outcomes to finish as a top 10 receiver in fantasy football this season.",
+        "title": "Will Garrett Wilson's Pure Talent Finally Equate to Fantasy Success?",
+        "topic_id": "1399511901288841217",
+        "url": "https://www.rotoballer.com/player-news/will-garrett-wilsons-pure-talent-finally-equate-to-fantasy-success/1919257"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8146",
+      "player_name": "Garrett Wilson",
+      "position": "WR",
+      "published": 1788017348000,
+      "source": "rotoballer",
+      "source_key": "219669",
+      "story_id": "nfl|8146|rotoballer|219669|1788017348000",
+      "title": "Will Garrett Wilson's Pure Talent Finally Equate to Fantasy Success?",
+      "url": "https://www.rotoballer.com/player-news/will-garrett-wilsons-pure-talent-finally-equate-to-fantasy-success/1919257"
     },
     {
       "analysis": null,
