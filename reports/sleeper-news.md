@@ -2,17 +2,21 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1295**
-- Newly captured: **0**
+- Stored stories: **1297**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Alec Pierce** — Alec Pierce - Working out but will sit Saturday (2026-08-29T16:42:42Z)
+  - Pierce was activated from the Active/PUP list Thursday, but he is not ready to appear in a game just yet. He will keep building up over the next two weeks with an eye on suiting up for his team's Week 1 matchup with the Ravens.
 - **Jalen McMillan** — Jalen McMillan - Optimism for Week 1 (2026-08-29T14:30:52Z)
   - McMillan has been recovering from a knee injury he sustained in early August, which has limited his reps in training camp practices and prevented him from playing in each of the Buccaneers' three preseason games. There's optimism that the third-year wideout will not miss regular-season action, but his practice participation over the next two weeks will provide more clarity on his status for Week 1. With Mike Evans now in San Francisco, McMillan is projected to be Tampa Bay's WR3 this season behind Chris Godwin and Emeka Egbuka (toe), with Tez Johnson and rookie third-rounder Ted Hurst also in the mix for snaps on offense.
 - **Emeka Egbuka** — Emeka Egbuka - 'Hopeful' for Week 1 (2026-08-29T14:24:16Z)
   - Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowles is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.
 - **Marvin Mims** — Marvin Mims - Dealing with foot contusion (2026-08-29T14:24:03Z)
   - Mims sustained the injury early in the first quarter and was listed as questionable to return after going to the locker room, but he didn't end up taking another snap in Friday's exhibition contest. It doesn't appear to be a serious injury, but his practice participation over the coming weeks will determine whether he'll suit up for Denver's Week 1 clash against Kansas City on Monday, Sept. 14.
+- **NEW — J.J. McCarthy** — J.J. McCarthy Projected to be Left Off 53-Man Roster (2026-08-29T12:45:08Z)
+  - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-projected-to-be-left-off-53-man-roster/1919160
 - **Jalen McMillan** — Buccaneers Expect Jalen McMillan to be Ready for Week 1 (2026-08-29T12:08:06Z)
   - Source: https://www.rotoballer.com/player-news/buccaneers-expect-jalen-mcmillan-to-be-ready-for-week-1/1919138
 - **Kyle Pitts** — Kyle Pitts Sr. Flashes YAC Ability in Final Preseason Tune-up (2026-08-29T11:47:09Z)
@@ -203,7 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/wandale-robinson-believed-to-have-avoided-a-concussion/1918556
 - **Isaac TeSlaa** — Isaac TeSlaa Solidifying His Late-Round Case (2026-08-28T14:35:08Z)
   - Source: https://www.rotoballer.com/player-news/isaac-teslaa-firming-up-his-late-round-case/1918553
-- **Ryan Flournoy** — Ryan Flournoy Locks Down Cowboys' WR3 Job (2026-08-28T14:22:11Z)
-  - Source: https://www.rotoballer.com/player-news/ryan-flournoy-locks-down-cowboys-wr3-job/1918529
-- **Ray Davis** — Ray Davis Strengthening His Handcuff Case (2026-08-28T14:08:06Z)
-  - Source: https://www.rotoballer.com/player-news/ray-davis-strengthening-his-handcuff-case/1918517

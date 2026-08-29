@@ -1,8 +1,11 @@
 {
-  "last_checked_at": "2026-08-29T16:31:18Z",
+  "last_checked_at": "2026-08-29T16:51:22Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11565|rotoballer|219661|1788007508000",
+    "nfl|8142|rotowire|635171|1788021762000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Pierce was activated from the Active/PUP list Thursday, but he is not ready to appear in a game just yet. He will keep building up over the next two weeks with an eye on suiting up for his team's Week 1 matchup with the Ravens.",
+      "description": "Pierce (ankle) is working out prior to Saturday's preseason game against the Lions but will not play, Mike Chappell of Fox 59 News Indianapolis reports.",
+      "metadata": {
+        "analysis": "Pierce was activated from the Active/PUP list Thursday, but he is not ready to appear in a game just yet. He will keep building up over the next two weeks with an eye on suiting up for his team's Week 1 matchup with the Ravens.",
+        "description": "Pierce (ankle) is working out prior to Saturday's preseason game against the Lions but will not play, Mike Chappell of Fox 59 News Indianapolis reports.",
+        "title": "Alec Pierce - Working out but will sit Saturday",
+        "topic_id": "1399469116846247936"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1788021762000,
+      "source": "rotowire",
+      "source_key": "635171",
+      "story_id": "nfl|8142|rotowire|635171|1788021762000",
+      "title": "Alec Pierce - Working out but will sit Saturday",
+      "url": null
+    },
     {
       "analysis": "McMillan has been recovering from a knee injury he sustained in early August, which has limited his reps in training camp practices and prevented him from playing in each of the Buccaneers' three preseason games. There's optimism that the third-year wideout will not miss regular-season action, but his practice participation over the next two weeks will provide more clarity on his status for Week 1. With Mike Evans now in San Francisco, McMillan is projected to be Tampa Bay's WR3 this season behind Chris Godwin and Emeka Egbuka (toe), with Tez Johnson and rookie third-rounder Ted Hurst also in the mix for snaps on offense.",
       "description": "Head coach Todd Bowles said Saturday that he expects McMillan (knee) to be available for the Buccaneers' Week 1 clash against the Bengals on Sunday, Sept. 13, Greg Auman of Fox Sports reports.",
@@ -70,6 +93,26 @@
       "story_id": "nfl|9494|rotowire|635151|1788013443000",
       "title": "Marvin Mims - Dealing with foot contusion",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Athletic's Alec Lewis is projecting Minnesota Vikings quarterback J.J. McCarthy (ankle) to lose out on the QB2 job to veteran Carson Wentz and to be left off the initial 53-man roster to begin the 2026 season. McCarthy struggled in last week's preseason game against the Baltimore Ravens, came out of it with a minor ankle injury, and was held out of the preseason finale on Friday against the Denver Broncos. Wentz made the start on Friday and appears to be in line to be the Vikings' backup behind starter Kyler Murray. McCarthy's \"comfort (or lack thereof) with being the QB3 could dictate his future in Minnesota,\" Lewis writes. Max Brosmer's future with the organization is also in doubt after a poor preseason performance. McCarthy, the 10th overall pick from Michigan in 2024, missed his entire rookie campaign after having surgery to fix the meniscus in his knee. In his first go as a starter in the NFL last year, McCarthy flopped, playing in only 10 games due to injuries and throwing for 1,632 yards, 11 touchdowns, and 12 interceptions. A trade out of town at this point might be the best thing for McCarthy's long-term fantasy value in dynasty/keeper leagues.",
+      "metadata": {
+        "description": "The Athletic's Alec Lewis is projecting Minnesota Vikings quarterback J.J. McCarthy (ankle) to lose out on the QB2 job to veteran Carson Wentz and to be left off the initial 53-man roster to begin the 2026 season. McCarthy struggled in last week's preseason game against the Baltimore Ravens, came out of it with a minor ankle injury, and was held out of the preseason finale on Friday against the Denver Broncos. Wentz made the start on Friday and appears to be in line to be the Vikings' backup behind starter Kyler Murray. McCarthy's \"comfort (or lack thereof) with being the QB3 could dictate his future in Minnesota,\" Lewis writes. Max Brosmer's future with the organization is also in doubt after a poor preseason performance. McCarthy, the 10th overall pick from Michigan in 2024, missed his entire rookie campaign after having surgery to fix the meniscus in his knee. In his first go as a starter in the NFL last year, McCarthy flopped, playing in only 10 games due to injuries and throwing for 1,632 yards, 11 touchdowns, and 12 interceptions. A trade out of town at this point might be the best thing for McCarthy's long-term fantasy value in dynasty/keeper leagues.",
+        "title": "J.J. McCarthy Projected to be Left Off 53-Man Roster",
+        "topic_id": "1399470373199724544",
+        "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-projected-to-be-left-off-53-man-roster/1919160"
+      },
+      "nfl_team": "MIN",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1788007508000,
+      "source": "rotoballer",
+      "source_key": "219661",
+      "story_id": "nfl|11565|rotoballer|219661|1788007508000",
+      "title": "J.J. McCarthy Projected to be Left Off 53-Man Roster",
+      "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-projected-to-be-left-off-53-man-roster/1919160"
     },
     {
       "analysis": null,
