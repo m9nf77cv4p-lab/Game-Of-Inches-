@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-08-29T04:45:29Z",
+  "last_checked_at": "2026-08-29T05:05:39Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13337|rotowire|635124|1787978270000"
+    "nfl|10229|rotoballer|219625|1787964847000",
+    "nfl|12521|rotowire|635131|1787979301000",
+    "nfl|8183|rotoballer|219624|1787964482000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The second-year tight end had recorded a 36-yard touchdown grab in Sunday's exhibition against the Titans, and Arroyo followed that up with another big play Friday on his 24-yard grab during Seattle's second possession. Arroyo is expected to operate as the No. 2 pass-catching option at tight end behind AJ Barner, but veteran Eric Saubert is expected to see his fair share of snaps as well thanks to his blocking prowess.",
+      "description": "Arroyo secured his only target for a 24-yard reception in the Seahawks' 9-9 preseason tie with the Chiefs on Friday.",
+      "metadata": {
+        "analysis": "The second-year tight end had recorded a 36-yard touchdown grab in Sunday's exhibition against the Titans, and Arroyo followed that up with another big play Friday on his 24-yard grab during Seattle's second possession. Arroyo is expected to operate as the No. 2 pass-catching option at tight end behind AJ Barner, but veteran Eric Saubert is expected to see his fair share of snaps as well thanks to his blocking prowess.",
+        "description": "Arroyo secured his only target for a 24-yard reception in the Seahawks' 9-9 preseason tie with the Chiefs on Friday.",
+        "title": "Elijah Arroyo - Another chunk play Friday",
+        "topic_id": "1399291678648508416"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12521",
+      "player_name": "Elijah Arroyo",
+      "position": "TE",
+      "published": 1787979301000,
+      "source": "rotowire",
+      "source_key": "635131",
+      "story_id": "nfl|12521|rotowire|635131|1787979301000",
+      "title": "Elijah Arroyo - Another chunk play Friday",
+      "url": null
+    },
     {
       "analysis": "The rookie fifth-round pick put together a strong finish to an encouraging preseason, one where he rushed 26 times for 123 yards and a touchdown and adding a 6-35-0 line on seven targets. Johnson's primary competition for a depth role, Brashard Smith, had a productive 16-carry, 72-yard effort in his own right Friday, so it remains to be seen where each will slot on the depth chart behind the top duo of Kenneth Walker (ankle) and Emari Demercado.",
       "description": "Johnson rushed seven times for 39 yards and brought in both targets for 15 yards in the Chiefs' 9-9 preseason tie with the Seahawks on Friday.",
@@ -434,6 +456,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Kansas City Chiefs wide receiver Rashee Rice currently has an ADP of 27.4 in the latest fantasy football drafts. That price tag corresponds to an early third-round pick and makes him the 11th receiver off the board. Rice is a talented player catching passes from Patrick Mahomes, so we understand the appeal in snagging him as a WR1. However, he also doesn't have much of a track record yet, as injuries and off-field issues limited him to just 12 games over the last two seasons. On a more positive note, he is averaging 18.0 fantasy points per game during those two years. The big question for fantasy managers is whether Rice, who certainly carries some risk and uncertainty, should continue to be drafted as a WR1 ahead of receivers like Chris Olave and Malik Nabers. The latest expert rankings are a little less bullish than the ADP, as he currently ranks as RotoBaller's WR17 in half-PPR leagues for 2026.",
+      "metadata": {
+        "description": "Kansas City Chiefs wide receiver Rashee Rice currently has an ADP of 27.4 in the latest fantasy football drafts. That price tag corresponds to an early third-round pick and makes him the 11th receiver off the board. Rice is a talented player catching passes from Patrick Mahomes, so we understand the appeal in snagging him as a WR1. However, he also doesn't have much of a track record yet, as injuries and off-field issues limited him to just 12 games over the last two seasons. On a more positive note, he is averaging 18.0 fantasy points per game during those two years. The big question for fantasy managers is whether Rice, who certainly carries some risk and uncertainty, should continue to be drafted as a WR1 ahead of receivers like Chris Olave and Malik Nabers. The latest expert rankings are a little less bullish than the ADP, as he currently ranks as RotoBaller's WR17 in half-PPR leagues for 2026.",
+        "title": "Rashee Rice Being Drafted as a WR1 in Fantasy Football Drafts",
+        "topic_id": "1399291674777124864",
+        "url": "https://www.rotoballer.com/player-news/rashee-rice-being-drafted-as-a-wr1-in-fantasy-football-drafts/1918941"
+      },
+      "nfl_team": "KC",
+      "player_id": "10229",
+      "player_name": "Rashee Rice",
+      "position": "WR",
+      "published": 1787964847000,
+      "source": "rotoballer",
+      "source_key": "219625",
+      "story_id": "nfl|10229|rotoballer|219625|1787964847000",
+      "title": "Rashee Rice Being Drafted as a WR1 in Fantasy Football Drafts",
+      "url": "https://www.rotoballer.com/player-news/rashee-rice-being-drafted-as-a-wr1-in-fantasy-football-drafts/1918941"
+    },
+    {
       "analysis": "The Patriots rested their projected regular-season starters Thursday, so Stevenson's absence was par for the course. He didn't see any game action during the preseason slate but appears back to full health after dealing with a minor undisclosed injury in late July. Stevenson and TreVeyon Henderson, who is dealing with an ankle injury but is expected to be ready for Week 1, are slated to share backfield duties for New England during the upcoming campaign.",
       "description": "Stevenson didn't play in a preseason loss to the Browns on Thursday.",
       "metadata": {
@@ -472,6 +514,26 @@
       "story_id": "nfl|11655|rotowire|635057|1787964619000",
       "title": "Tyrone Tracy - Goes to locker room",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers quarterback Brock Purdy continues to rank as a fringe top-12 option in fantasy football, largely due to the support of the playmakers surrounding him. In addition to wide receivers Mike Evans and Deebo Samuel, Purdy will have the luxury of throwing the football to George Kittle and Christian McCaffrey, who are both among some of the league's best players at their respective positions. With a relatively similar-looking offense last year (other than Evans in place of Jauan Jennings and Ricky Pearsall), Purdy tallied 2,167 passing yards, 20 passing touchdowns, and 10 interceptions across nine games. The touchdown total was impressive, but managers will need him to clean up the turnovers going forward. The good news is that Purdy ranked as the overall QB5 in fantasy points per game in 2025, so a top-five finish is not completely out of the question if he's healthy for all 17 games in 2026. At the very least, he's in good shape to rank as a top-12 fantasy quarterback. As it stands, he has an ADP of 106.3, which corresponds to the ninth round and makes him the 13th quarterback off the board.",
+      "metadata": {
+        "description": "San Francisco 49ers quarterback Brock Purdy continues to rank as a fringe top-12 option in fantasy football, largely due to the support of the playmakers surrounding him. In addition to wide receivers Mike Evans and Deebo Samuel, Purdy will have the luxury of throwing the football to George Kittle and Christian McCaffrey, who are both among some of the league's best players at their respective positions. With a relatively similar-looking offense last year (other than Evans in place of Jauan Jennings and Ricky Pearsall), Purdy tallied 2,167 passing yards, 20 passing touchdowns, and 10 interceptions across nine games. The touchdown total was impressive, but managers will need him to clean up the turnovers going forward. The good news is that Purdy ranked as the overall QB5 in fantasy points per game in 2025, so a top-five finish is not completely out of the question if he's healthy for all 17 games in 2026. At the very least, he's in good shape to rank as a top-12 fantasy quarterback. As it stands, he has an ADP of 106.3, which corresponds to the ninth round and makes him the 13th quarterback off the board.",
+        "title": "Brock Purdy Should Continue to Benefit from Strong Supporting Cast",
+        "topic_id": "1399290416192364544",
+        "url": "https://www.rotoballer.com/player-news/brock-purdy-should-continue-to-benefit-from-strong-supporting-cast/1918939"
+      },
+      "nfl_team": "SF",
+      "player_id": "8183",
+      "player_name": "Brock Purdy",
+      "position": "QB",
+      "published": 1787964482000,
+      "source": "rotoballer",
+      "source_key": "219624",
+      "story_id": "nfl|8183|rotoballer|219624|1787964482000",
+      "title": "Brock Purdy Should Continue to Benefit from Strong Supporting Cast",
+      "url": "https://www.rotoballer.com/player-news/brock-purdy-should-continue-to-benefit-from-strong-supporting-cast/1918939"
     },
     {
       "analysis": "Judkins also missed the team's second preseason game due to an undisclosed injury, but he returned to practice this past Monday and seems to be past the issue. He ended up logging action in only the first of the Browns' exhibition contests, when he carried four times for nine yards. Judkins is the clear No. 1 RB for Cleveland and could be headed for a heavy workload on a team that may again deploy a shaky passing game.",

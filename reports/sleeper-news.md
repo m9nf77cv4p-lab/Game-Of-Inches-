@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1271**
-- Newly captured: **1**
+- Stored stories: **1274**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Emmett Johnson** — Emmett Johnson - Productive with nine touches Friday (2026-08-29T04:37:50Z)
+- **NEW — Elijah Arroyo** — Elijah Arroyo - Another chunk play Friday (2026-08-29T04:55:01Z)
+  - The second-year tight end had recorded a 36-yard touchdown grab in Sunday's exhibition against the Titans, and Arroyo followed that up with another big play Friday on his 24-yard grab during Seattle's second possession. Arroyo is expected to operate as the No. 2 pass-catching option at tight end behind AJ Barner, but veteran Eric Saubert is expected to see his fair share of snaps as well thanks to his blocking prowess.
+- **Emmett Johnson** — Emmett Johnson - Productive with nine touches Friday (2026-08-29T04:37:50Z)
   - The rookie fifth-round pick put together a strong finish to an encouraging preseason, one where he rushed 26 times for 123 yards and a touchdown and adding a 6-35-0 line on seven targets. Johnson's primary competition for a depth role, Brashard Smith, had a productive 16-carry, 72-yard effort in his own right Friday, so it remains to be seen where each will slot on the depth chart behind the top duo of Kenneth Walker (ankle) and Emari Demercado.
 - **Jeremiyah Love** — Jeremiyah Love - Continues to progress (2026-08-29T04:13:20Z)
   - Love was able to get in some light work in Wednesday, and he appeared to be moving at a quicker pace a couple days later. It remains unclear if he will be ready to go when the Cardinals open their season against the Chargers, but he will have just over two more weeks to work past the high-ankle sprain he picked up in the first preseason game.
@@ -49,10 +51,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - San Francisco elected to rest its projected regular-season starters for the team's final exhibition game. Purdy saw very limited work during the preseason slate, getting into one game and completing four of six passes for 29 yards. He'll next take the field against the Rams in Week 1 of the regular season in Melbourne, Australia, on Friday, Sept. 11 (which will be Thursday, Sept. 10, in US time zones). Purdy will be working with a largely new wideout corps, including Mike Evans (groin), Deebo Samuel (returning after a one-year hiatus with Washington), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).
 - **DJ Moore** — DJ Moore - Rests during preseason finale (2026-08-29T00:57:37Z)
   - Buffalo elected to rest the bulk of its projected regular-season starters, including Moore, for the team's final preseason game. The veteran wideout saw action in one exhibition contest, catching three of four targets for 61 yards. Moore left that game early due to an ankle injury but has since returned to practice, so he should be good to go as the Bills' top wideout in Week 1 of the regular season versus a tough Texans defense.
+- **NEW — Rashee Rice** — Rashee Rice Being Drafted as a WR1 in Fantasy Football Drafts (2026-08-29T00:54:07Z)
+  - Source: https://www.rotoballer.com/player-news/rashee-rice-being-drafted-as-a-wr1-in-fantasy-football-drafts/1918941
 - **Rhamondre Stevenson** — Rhamondre Stevenson - Held out of exhibition finale (2026-08-29T00:52:29Z)
   - The Patriots rested their projected regular-season starters Thursday, so Stevenson's absence was par for the course. He didn't see any game action during the preseason slate but appears back to full health after dealing with a minor undisclosed injury in late July. Stevenson and TreVeyon Henderson, who is dealing with an ankle injury but is expected to be ready for Week 1, are slated to share backfield duties for New England during the upcoming campaign.
 - **Tyrone Tracy** — Tyrone Tracy - Goes to locker room (2026-08-29T00:50:19Z)
   - Tracy was tended to by medical staff after taking a big hit on an eight-yard run during the second quarter. The good news was that he was able to walk off the field and into the locker room under his own power. Given that he's being checked for a neck injury, it appears unlikely that Tracy will return to Friday's exhibition contest. If he's indeed done, he''ll finish with four carries for 37 yards and a touchdown.
+- **NEW — Brock Purdy** — Brock Purdy Should Continue to Benefit from Strong Supporting Cast (2026-08-29T00:48:02Z)
+  - Source: https://www.rotoballer.com/player-news/brock-purdy-should-continue-to-benefit-from-strong-supporting-cast/1918939
 - **Quinshon Judkins** — Quinshon Judkins - Doesn't suit up for preseason finale (2026-08-29T00:47:42Z)
   - Judkins also missed the team's second preseason game due to an undisclosed injury, but he returned to practice this past Monday and seems to be past the issue. He ended up logging action in only the first of the Browns' exhibition contests, when he carried four times for nine yards. Judkins is the clear No. 1 RB for Cleveland and could be headed for a heavy workload on a team that may again deploy a shaky passing game.
 - **Drake Maye** — Drake Maye - Doesn't play in exhibition finale (2026-08-29T00:40:03Z)
@@ -201,9 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - It's not an encouraging sign for the 2025 third-round pick that he was the fourth running back into the game for the Steelers, as Johnson didn't get his first touch until the second half, after Lew Nichols, Eli Heidenreich and Travis Homer has all mixed into the backfield. Johnson is coming off a disappointing rookie campaign in which he managed just 69 rushing yards in 10 regular-season contests, and he could be on the roster bubble.
 - **Germie Bernard** — Germie Bernard - Finds end zone in final exhibition game (2026-08-28T06:28:30Z)
   - The Steelers rested their starters and key personnel, but Bernard played the first quarter and connected with Will Howard (head) on a one-play scoring drive after Buffalo's Ray Davis muffed a punt. Bernard's usage Thursday would seem to suggest he'll begin the season No. 4 on the wide receiver depth chart behind DK Metcalf (undisclosed), Michael Pittman (hamstring) and Roman Wilson, but the 2026 second-round pick could find himself in a key role early if either of the veterans ahead of him wind up not being ready for Week 1.
-- **Drew Allar** — Drew Allar - Makes little impact in preseason finale (2026-08-28T06:21:19Z)
-  - Will Howard (head) played the entire first half and Allar the second with both Aaron Rodgers and Mason Rudolph getting the night off, but neither young quarterback did much to distinguish themselves in the battle for the No. 3 spot. Howard was evaluated for a potential concussion after the game, which could be enough to tip the scales in Allar's favor, although the Steelers always seemed likely to find a way to keep all four QBs on the roster. If Allar does make the cut, the 2026 third-round pick would need injuries ahead of him to see the field in a meaningful way as a rookie.
-- **Max Klare** — Max Klare - One catch in preseason finale (2026-08-28T06:04:11Z)
-  - The rookie second-round pick was much less active than during his first two preseason games, when he recorded a combined 11-59-0 line on 14 targets. There's no denying the fact Klare did make a very positive initial impression, however, but he's still likely slated to open the season no higher than No. 4 on the depth chart behind Colby Parkinson, Tyler Higbee and Terrance Ferguson (soreness).
-- **Quentin Johnston** — Quentin Johnston - Hauls in long TD in preseason loss (2026-08-28T05:59:22Z)
-  - The speedy fourth-year pro recently missed some practice time due to a lower-body injury he suffered during a joint practice with the 49ers leading up to Los Angeles' second preseason game, yet Johnston looked at full health when blowing past the Rams' secondary for a 65-yard touchdown with just under 10 minutes remaining in the first quarter. Thursday's snaps were Johnston's only action this preseason, but he looks prepared to reprise the No. 2 receiver role that's netted over 700 receiving yards in each of the last two seasons beginning with a Week 1 home matchup against the Cardinals.
