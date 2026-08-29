@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T15:10:44Z",
+  "last_checked_at": "2026-08-29T15:20:38Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13347|rotoballer|219646|1788000987000"
+    "nfl|13302|rotoballer|219648|1788001630000"
   ],
   "schema_version": 1,
   "source": {
@@ -72,6 +72,26 @@
       "story_id": "nfl|9494|rotowire|635151|1788013443000",
       "title": "Marvin Mims - Dealing with foot contusion",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens rookie running back Adam Randall gained a team-high 70 scrimmage yards in the Ravens' dominating 41-3 preseason finale victory over the Washington Commanders Friday night. While his 25 yards from five carries were efficient, managers in PPR dynasty leagues should be particularly excited by his 45 receiving yards off three catches and four targets. Randall is a physical and versatile back, as evidenced by his highlight reel-worthy stiff arm during a 24-yard screen pass against the Commanders in the second quarter. Third-year running back Rasheen Ali, who left the game early to be present for the birth of his child, according to Head Coach Jesse Minter, is still in the mix and actually led the team in touches. Nonetheless, Randall and others are clearly behind Derrick Henry on the Ravens' depth chart. However, with his pass-catching chops, Randall threatens to overtake veteran Justice Hill as the team's passing-down back. Dynasty managers should keep an eye on Randall, and he may warrant a bench stash or even a spot on a taxi squad in deep leagues. As the season progresses and Randall develops, Henry managers in redraft leagues may also look at him as a potential handcuff.",
+      "metadata": {
+        "description": "Baltimore Ravens rookie running back Adam Randall gained a team-high 70 scrimmage yards in the Ravens' dominating 41-3 preseason finale victory over the Washington Commanders Friday night. While his 25 yards from five carries were efficient, managers in PPR dynasty leagues should be particularly excited by his 45 receiving yards off three catches and four targets. Randall is a physical and versatile back, as evidenced by his highlight reel-worthy stiff arm during a 24-yard screen pass against the Commanders in the second quarter. Third-year running back Rasheen Ali, who left the game early to be present for the birth of his child, according to Head Coach Jesse Minter, is still in the mix and actually led the team in touches. Nonetheless, Randall and others are clearly behind Derrick Henry on the Ravens' depth chart. However, with his pass-catching chops, Randall threatens to overtake veteran Justice Hill as the team's passing-down back. Dynasty managers should keep an eye on Randall, and he may warrant a bench stash or even a spot on a taxi squad in deep leagues. As the season progresses and Randall develops, Henry managers in redraft leagues may also look at him as a potential handcuff.",
+        "title": "Adam Randall Looks to Bulldoze His Way onto the Roster",
+        "topic_id": "1399446462667948032",
+        "url": "https://www.rotoballer.com/player-news/adam-randall-looks-to-bulldoze-his-way-onto-the-roster/1919089"
+      },
+      "nfl_team": "BAL",
+      "player_id": "13302",
+      "player_name": "Adam Randall",
+      "position": "RB",
+      "published": 1788001630000,
+      "source": "rotoballer",
+      "source_key": "219648",
+      "story_id": "nfl|13302|rotoballer|219648|1788001630000",
+      "title": "Adam Randall Looks to Bulldoze His Way onto the Roster",
+      "url": "https://www.rotoballer.com/player-news/adam-randall-looks-to-bulldoze-his-way-onto-the-roster/1919089"
     },
     {
       "analysis": null,
