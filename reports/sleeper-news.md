@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1241**
-- Newly captured: **2**
+- Stored stories: **1244**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Deebo Samuel** — Deebo Samuel - Held out of preseason finale (2026-08-29T01:18:03Z)
+- **NEW — Romeo Doubs** — Romeo Doubs - Sits out final exhibition game (2026-08-29T01:23:52Z)
+  - Doubs was among numerous Patriots projected regular-season starters who were held out of Thursday's contest. The veteran wideout didn't play at all during the exhibition slate but drew praise during training camp for his work during practices. Doubs is slated for a major role in his first campaign with New England, as he's set to start alongside A.J. Brown at the WR position.
+- **NEW — Marvin Mims** — Marvin Mims - Goes to locker room (2026-08-29T01:22:13Z)
+  - Mims appeared to sustain the injury while attempting a leaping reception early in the first quarter. He was able to walk off the field under his own power but was directed to the blue medical tent before going into the locker room. Mims will undergo further tests to determine the severity of his foot injury, but it wouldn't be surprising if the fourth-year wideout was held out for the rest of Friday's exhibition contest.
+- **Deebo Samuel** — Deebo Samuel - Held out of preseason finale (2026-08-29T01:18:03Z)
   - The 49ers rested most of their projected regular-season starters, so Samuel's absence was expected. The veteran wideout saw action in one exhibition contest, catching one of two targets for four yards. Samuel should have a key role in San Francisco's passing game with Ricky Pearsall (knee) out for the season, and he gives QB Brock Purdy some familiarity amongst a WR corps that features numerous newcomers, including Mike Evans (groin), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).
-- **NEW — Dalton Kincaid** — Dalton Kincaid - Doesn't play in preseason finale (2026-08-29T01:12:27Z)
+- **Dalton Kincaid** — Dalton Kincaid - Doesn't play in preseason finale (2026-08-29T01:12:27Z)
   - Kincaid's absence was simply for rest and injury-avoidance purposes, as Buffalo sat out all of its key regular-season starters. Kincaid ended up playing in just one preseason contest, logging nine snaps without seeing any targets. He's slated to be a key target for Josh Allen in the passing game this season and will next take the field in Week 1 versus Houston on Sunday, Sept. 13.
 - **Brock Purdy** — Brock Purdy - Doesn't participate in preseason finale (2026-08-29T01:07:20Z)
   - San Francisco elected to rest its projected regular-season starters for the team's final exhibition game. Purdy saw very limited work during the preseason slate, getting into one game and completing four of six passes for 29 yards. He'll next take the field against the Rams in Week 1 of the regular season in Melbourne, Australia, on Friday, Sept. 11 (which will be Thursday, Sept. 10, in US time zones). Purdy will be working with a largely new wideout corps, including Mike Evans (groin), Deebo Samuel (returning after a one-year hiatus with Washington), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).
@@ -55,6 +59,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - White has been tending to a hamstring injury since Aug. 19 that will keep him sidelined for the Commanders' final two exhibitions. He was able to mix into individual drills as recently as Monday, though, so he's making progress in his recovery. White will join No. 1 RB Jacory Croskey-Merritt (lower body) and Jeremy McNichols (quadriceps) on the sideline Friday.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Sitting out Friday's preseason game (2026-08-28T21:43:40Z)
   - On Aug. 20, Croskey-Merritt pulled up at the end of a catch and run in practice due to a lower-body injury, which now will keep him out of the Commanders' final two exhibitions. He focused on rehab work on the side this week, with the intent to return to practice at some point next week. Rachaad White (hamstring) and Jeremy McNichols (quadriceps) also aren't in uniform Friday, meaning rookie sixth-rounder Kaytron Allen, Robert Henry and Craig Reynolds are the team's available RBs for preseason Week 3.
+- **NEW — Joe Burrow** — Joe Burrow Has a Hefty Price Tag with Some Injury Risk (2026-08-28T21:22:11Z)
+  - Source: https://www.rotoballer.com/player-news/joe-burrow-has-a-hefty-price-tag-with-some-injury-risk/1918859
 - **Tyrone Tracy** — Tyrone Tracy Jr. Injures his Neck in Preseason Finale on Friday (2026-08-28T20:59:15Z)
   - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-injures-his-neck-in-preseason-finale-on-friday/1918838
 - **Emeka Egbuka** — Emeka Egbuka - Focus remains on Week 1 (2026-08-28T19:49:18Z)
@@ -202,9 +208,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) expected to be "good to go" for Week 1 (2026-08-27T23:15:56.006000Z)
   - Henderson has missed practice this week and did not travel with the team to their final preseason game, but it seems to be a precautionary measure. The running back seems to be behind veteran Rhamondre Stevenson in the New England depth chart, but he could earn more playing time as the season goes on if he is healthy.
   - Source: https://www.fantasypros.com/nfl/news/604478/treveyon-henderson-ankle-expected-to-be-good-to-go-week-1.php
-- **Jalen Milroe** — Jalen Milroe - Will play every snap (2026-08-27T23:14:39Z)
-  - The second-year pro is firmly entrenched as the third quarterback behind Sam Darnold and Drew Lock, so his status for the final preseason contest likely has more to do with developmental reps than anything else. Milroe has struggled so far in the preseason, going 11 for 19 for 88 yards, no touchdowns and two interceptions.
-- **Geno Smith** — Geno Smith Will Not Play in Friday's Preseason Finale (2026-08-27T23:09:08Z)
-  - Source: https://www.rotoballer.com/player-news/geno-smith-will-not-play-in-fridays-preseason-finale/1918040
-- **TreVeyon Henderson** — TreVeyon Henderson - On track for Week 1 (2026-08-27T22:35:36Z)
-  - It was believed that Henderson was dealing with only a minor right ankle issue, and the latest report confirms that and signals that he will not miss any time during the regular season. As such, Henderson and Rhamondre Stevenson figure to open the campaign in timeshare in New England's backfield.

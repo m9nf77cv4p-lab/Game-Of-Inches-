@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-08-29T01:23:34Z",
+  "last_checked_at": "2026-08-29T01:33:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|10236|rotowire|635063|1787965947000",
-    "nfl|5872|rotowire|635064|1787966283000"
+    "nfl|6770|rotoballer|219604|1787952131000",
+    "nfl|8121|rotowire|635066|1787966632000",
+    "nfl|9494|rotowire|635065|1787966533000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Doubs was among numerous Patriots projected regular-season starters who were held out of Thursday's contest. The veteran wideout didn't play at all during the exhibition slate but drew praise during training camp for his work during practices. Doubs is slated for a major role in his first campaign with New England, as he's set to start alongside A.J. Brown at the WR position.",
+      "description": "Doubs didn't suit up in Thursday's preseason loss to the Browns.",
+      "metadata": {
+        "analysis": "Doubs was among numerous Patriots projected regular-season starters who were held out of Thursday's contest. The veteran wideout didn't play at all during the exhibition slate but drew praise during training camp for his work during practices. Doubs is slated for a major role in his first campaign with New England, as he's set to start alongside A.J. Brown at the WR position.",
+        "description": "Doubs didn't suit up in Thursday's preseason loss to the Browns.",
+        "title": "Romeo Doubs - Sits out final exhibition game",
+        "topic_id": "1399238822344060928"
+      },
+      "nfl_team": "NE",
+      "player_id": "8121",
+      "player_name": "Romeo Doubs",
+      "position": "WR",
+      "published": 1787966632000,
+      "source": "rotowire",
+      "source_key": "635066",
+      "story_id": "nfl|8121|rotowire|635066|1787966632000",
+      "title": "Romeo Doubs - Sits out final exhibition game",
+      "url": null
+    },
+    {
+      "analysis": "Mims appeared to sustain the injury while attempting a leaping reception early in the first quarter. He was able to walk off the field under his own power but was directed to the blue medical tent before going into the locker room. Mims will undergo further tests to determine the severity of his foot injury, but it wouldn't be surprising if the fourth-year wideout was held out for the rest of Friday's exhibition contest.",
+      "description": "Mims (foot) went to the locker room during the first quarter of Friday's preseason game against the Vikings and is questionable to return, Zac Stevens of TheDNVR.com reports.",
+      "metadata": {
+        "analysis": "Mims appeared to sustain the injury while attempting a leaping reception early in the first quarter. He was able to walk off the field under his own power but was directed to the blue medical tent before going into the locker room. Mims will undergo further tests to determine the severity of his foot injury, but it wouldn't be surprising if the fourth-year wideout was held out for the rest of Friday's exhibition contest.",
+        "description": "Mims (foot) went to the locker room during the first quarter of Friday's preseason game against the Vikings and is questionable to return, Zac Stevens of TheDNVR.com reports.",
+        "title": "Marvin Mims - Goes to locker room",
+        "topic_id": "1399237564191211520"
+      },
+      "nfl_team": "DEN",
+      "player_id": "9494",
+      "player_name": "Marvin Mims",
+      "position": "WR",
+      "published": 1787966533000,
+      "source": "rotowire",
+      "source_key": "635065",
+      "story_id": "nfl|9494|rotowire|635065|1787966533000",
+      "title": "Marvin Mims - Goes to locker room",
+      "url": null
+    },
     {
       "analysis": "The 49ers rested most of their projected regular-season starters, so Samuel's absence was expected. The veteran wideout saw action in one exhibition contest, catching one of two targets for four yards. Samuel should have a key role in San Francisco's passing game with Ricky Pearsall (knee) out for the season, and he gives QB Brock Purdy some familiarity amongst a WR corps that features numerous newcomers, including Mike Evans (groin), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).",
       "description": "Samuel didn't play in Thursday's preseason victory against Las Vegas.",
@@ -493,6 +534,26 @@
       "story_id": "nfl|12533|rotowire|635015|1787953420000",
       "title": "Jacory Croskey-Merritt - Sitting out Friday's preseason game",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals quarterback Joe Burrow is one of the best fantasy football weapons when healthy, but injuries have consistently plagued him over the last three years. As a result, fantasy managers might be hesitant to spend a premium pick on the quarterback if he's not a lock to play more than half the season. Burrow has missed at least seven games in two of the last three years. Last season, he missed nine games and ended up finishing as the overall QB29 in fantasy football. When he's healthy, he puts up top-tier numbers with star wide receivers Ja'Marr Chase and Tee Higgins at his disposal, but managers who were burned by him last year may want to avoid the risk of drafting him again this year. The injury risk isn't really baked into his price tag, either. He's being drafted at an ADP of 60.3, which makes him the fourth quarterback off the board. Meanwhile, he's the QB5 in RotoBaller's latest fantasy football rankings. Managers should consider waiting a couple of rounds to take a more dependable option like Caleb Williams or Trevor Lawrence. At the very least, managers who draft Burrow should have a solid backup quarterback option in case he misses significant time again.",
+      "metadata": {
+        "description": "Cincinnati Bengals quarterback Joe Burrow is one of the best fantasy football weapons when healthy, but injuries have consistently plagued him over the last three years. As a result, fantasy managers might be hesitant to spend a premium pick on the quarterback if he's not a lock to play more than half the season. Burrow has missed at least seven games in two of the last three years. Last season, he missed nine games and ended up finishing as the overall QB29 in fantasy football. When he's healthy, he puts up top-tier numbers with star wide receivers Ja'Marr Chase and Tee Higgins at his disposal, but managers who were burned by him last year may want to avoid the risk of drafting him again this year. The injury risk isn't really baked into his price tag, either. He's being drafted at an ADP of 60.3, which makes him the fourth quarterback off the board. Meanwhile, he's the QB5 in RotoBaller's latest fantasy football rankings. Managers should consider waiting a couple of rounds to take a more dependable option like Caleb Williams or Trevor Lawrence. At the very least, managers who draft Burrow should have a solid backup quarterback option in case he misses significant time again.",
+        "title": "Joe Burrow Has a Hefty Price Tag with Some Injury Risk",
+        "topic_id": "1399237561959874560",
+        "url": "https://www.rotoballer.com/player-news/joe-burrow-has-a-hefty-price-tag-with-some-injury-risk/1918859"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6770",
+      "player_name": "Joe Burrow",
+      "position": "QB",
+      "published": 1787952131000,
+      "source": "rotoballer",
+      "source_key": "219604",
+      "story_id": "nfl|6770|rotoballer|219604|1787952131000",
+      "title": "Joe Burrow Has a Hefty Price Tag with Some Injury Risk",
+      "url": "https://www.rotoballer.com/player-news/joe-burrow-has-a-hefty-price-tag-with-some-injury-risk/1918859"
     },
     {
       "analysis": null,
