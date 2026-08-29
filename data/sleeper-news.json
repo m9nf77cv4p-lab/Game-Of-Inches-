@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T06:06:19Z",
+  "last_checked_at": "2026-08-29T06:16:19Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|13301|rotowire|635139|1787983723000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The third-round rookie out of Clemson has been coming on strong as training camp has progressed, and per Donna Hopkins of MASN, Williams opened some eyes in joint practices against Baltimore earlier in the week when he beat Kyle Hamilton in one-on-one drills. The fact that Williams was held out Friday along with the rest of the Commanders' key personnel could be a strong sign that he's won the No. 3 receiver job to begin the season over the likes of Luke McCaffrey, Dyami Brown and Jaylin Lane, but he still faces an uphill battle for targets working behind Terry McLaurin and Stefon Diggs.",
+      "description": "Williams didn't play in Friday's preseason loss to the Ravens.",
+      "metadata": {
+        "analysis": "The third-round rookie out of Clemson has been coming on strong as training camp has progressed, and per Donna Hopkins of MASN, Williams opened some eyes in joint practices against Baltimore earlier in the week when he beat Kyle Hamilton in one-on-one drills. The fact that Williams was held out Friday along with the rest of the Commanders' key personnel could be a strong sign that he's won the No. 3 receiver job to begin the season over the likes of Luke McCaffrey, Dyami Brown and Jaylin Lane, but he still faces an uphill battle for targets working behind Terry McLaurin and Stefon Diggs.",
+        "description": "Williams didn't play in Friday's preseason loss to the Ravens.",
+        "title": "Antonio Williams - Doesn't suit up Friday",
+        "topic_id": "1399309297640284160"
+      },
+      "nfl_team": "WAS",
+      "player_id": "13301",
+      "player_name": "Antonio Williams",
+      "position": "WR",
+      "published": 1787983723000,
+      "source": "rotowire",
+      "source_key": "635139",
+      "story_id": "nfl|13301|rotowire|635139|1787983723000",
+      "title": "Antonio Williams - Doesn't suit up Friday",
+      "url": null
+    },
     {
       "analysis": "With the Commanders resting all their key personnel in the team's final exhibition contest, Allen got the start in the backfield but coughed up the ball on his first touch, setting the Ravens up for their first TD of the night. The 2026 sixth-round pick is expected to begin the regular season as the third back on the depth chart behind Jacory Croskey-Merritt (lower body) and Rachaad White (hamstring), but if the injuries to either RB linger into Week 1, Allen could see a bigger workload than expected in his NFL debut.",
       "description": "Allen carried the ball three times for four yards and lost a fumble in Friday's 41-3 preseason loss to the Ravens. he added nine yards on one kickoff return.",
@@ -312,10 +334,10 @@
       "url": null
     },
     {
-      "analysis": "Little's long-distance boot, which came with just over 10 minutes remaining in the second quarter, was undeniably impressive but not out of the norm for the third-year star. Little went 13-for-16 on kicks from 50 yards and longer over 34 regular-season games in his first two campaigns, and he wraps up preseason having gone 7-for-7 on field-goal attempts while also knocking home his only PAT.",
+      "analysis": "Little's long-distance boot, which came with just over 10 minutes remaining in the second quarter, was undeniably impressive but not out of the norm for the third-year star. He went 13-for-16 on kicks from 50 yards and longer over 34 regular-season games in his first two campaigns, and he wraps up preseason having gone 7-for-7 on field-goal attempts while also knocking home his only PAT.",
       "description": "Little made his only field-goal attempt, from 61 yards out, and did not attempt any extra points in the Jaguars' 19-0 preseason win over the Buccaneers on Friday.",
       "metadata": {
-        "analysis": "Little's long-distance boot, which came with just over 10 minutes remaining in the second quarter, was undeniably impressive but not out of the norm for the third-year star. Little went 13-for-16 on kicks from 50 yards and longer over 34 regular-season games in his first two campaigns, and he wraps up preseason having gone 7-for-7 on field-goal attempts while also knocking home his only PAT.",
+        "analysis": "Little's long-distance boot, which came with just over 10 minutes remaining in the second quarter, was undeniably impressive but not out of the norm for the third-year star. He went 13-for-16 on kicks from 50 yards and longer over 34 regular-season games in his first two campaigns, and he wraps up preseason having gone 7-for-7 on field-goal attempts while also knocking home his only PAT.",
         "description": "Little made his only field-goal attempt, from 61 yards out, and did not attempt any extra points in the Jaguars' 19-0 preseason win over the Buccaneers on Friday.",
         "title": "Cam Little - Nails 61-yarder Friday",
         "topic_id": "1399257699950063617"

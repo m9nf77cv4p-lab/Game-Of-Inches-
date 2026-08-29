@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1278**
-- Newly captured: **0**
+- Stored stories: **1279**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Antonio Williams** — Antonio Williams - Doesn't suit up Friday (2026-08-29T06:08:43Z)
+  - The third-round rookie out of Clemson has been coming on strong as training camp has progressed, and per Donna Hopkins of MASN, Williams opened some eyes in joint practices against Baltimore earlier in the week when he beat Kyle Hamilton in one-on-one drills. The fact that Williams was held out Friday along with the rest of the Commanders' key personnel could be a strong sign that he's won the No. 3 receiver job to begin the season over the likes of Luke McCaffrey, Dyami Brown and Jaylin Lane, but he still faces an uphill battle for targets working behind Terry McLaurin and Stefon Diggs.
 - **Kaytron Allen** — Kaytron Allen - Poor showing in preseason finale (2026-08-29T05:48:24Z)
   - With the Commanders resting all their key personnel in the team's final exhibition contest, Allen got the start in the backfield but coughed up the ball on his first touch, setting the Ravens up for their first TD of the night. The 2026 sixth-round pick is expected to begin the regular season as the third back on the depth chart behind Jacory Croskey-Merritt (lower body) and Rachaad White (hamstring), but if the injuries to either RB linger into Week 1, Allen could see a bigger workload than expected in his NFL debut.
 - **Troy Franklin** — Troy Franklin - Fails to corral sole target (2026-08-29T05:10:51Z)
@@ -38,7 +40,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Chris Bell** — Chris Bell - Five targets in preseason finale (2026-08-29T03:00:26Z)
   - Bell got his first taste of NFL game action in Friday's preseason finale, as he has gained clearance to play after having the ACL in his left knee surgically repaired in December. The wide receiver out of Louisville is set to compete for playing time in an underwhelming Dolphins WR room that also includes rookie third-round pick Caleb Douglas, rookie fifth-round pick Kevin Coleman, 2024 sixth-round pick Malik Washington and offseason signing Jalen Tolbert.
 - **Cam Little** — Cam Little - Nails 61-yarder Friday (2026-08-29T02:40:42Z)
-  - Little's long-distance boot, which came with just over 10 minutes remaining in the second quarter, was undeniably impressive but not out of the norm for the third-year star. Little went 13-for-16 on kicks from 50 yards and longer over 34 regular-season games in his first two campaigns, and he wraps up preseason having gone 7-for-7 on field-goal attempts while also knocking home his only PAT.
+  - Little's long-distance boot, which came with just over 10 minutes remaining in the second quarter, was undeniably impressive but not out of the norm for the third-year star. He went 13-for-16 on kicks from 50 yards and longer over 34 regular-season games in his first two campaigns, and he wraps up preseason having gone 7-for-7 on field-goal attempts while also knocking home his only PAT.
 - **Brian Robinson** — Brian Robinson - TD, fumble in preseason finale (2026-08-29T02:29:35Z)
   - Robinson played the first quarter with most of Atlanta's starters as the Falcons held Bijan Robinson out of the exhibition slate. The offseason acquisition capped the opening drive with a three-yard touchdown run but lost a fumble two drives later, matching Tua Tagovailoa's fumble on the possession in between. Come Week 1 against the Steelers, Brian is expected to work as Bijan's top backup in an all-Robinson 1-2 punch.
 - **Kyle Pitts** — Kyle Pitts - Productive preseason finale (2026-08-29T02:24:16Z)
@@ -205,5 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/justin-herbert-shakes-off-early-mistake-showcases-elite-arm-talent/1918282
 - **Quentin Johnston** — Quentin Johnston Shows Off Boom Potential with Long Touchdown (2026-08-28T09:38:26Z)
   - Source: https://www.rotoballer.com/player-news/quentin-johnston-shows-off-boom-potential-with-long-touchdown-in-preseason-finale/1918271
-- **Mike Washington** — Mike Washington Jr. Emerging as Priority Late-Round Sleeper (2026-08-28T09:25:09Z)
-  - Source: https://www.rotoballer.com/player-news/mike-washington-jr-continues-to-impress-emerging-as-priority-late-round-sleeper/1918252
