@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T03:55:16Z",
+  "last_checked_at": "2026-08-29T04:15:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|421|rotoballer|219615|1787960647000"
+    "nfl|13413|rotowire|635113|1787976131000",
+    "nfl|3257|rotoballer|219618|1787961909000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The rookie fifth-round pick didn't make his catch until the opening possession of the second half. Allen was busy this preseason with six catches on 12 targets, but those netted a modest 39 yards. Nevertheless, the Cincinnati product is likely locked into a reserve receiver role to open the 2026 season.",
+      "description": "Allen brought in one of two targets for 12 yards in the Chiefs' 9-9 preseason tie with the Seahawks on Friday.",
+      "metadata": {
+        "analysis": "The rookie fifth-round pick didn't make his catch until the opening possession of the second half. Allen was busy this preseason with six catches on 12 targets, but those netted a modest 39 yards. Nevertheless, the Cincinnati product is likely locked into a reserve receiver role to open the 2026 season.",
+        "description": "Allen brought in one of two targets for 12 yards in the Chiefs' 9-9 preseason tie with the Seahawks on Friday.",
+        "title": "Cyrus Allen - Finishes preseason with one catch",
+        "topic_id": "1399277835620773888"
+      },
+      "nfl_team": "KC",
+      "player_id": "13413",
+      "player_name": "Cyrus Allen",
+      "position": "WR",
+      "published": 1787976131000,
+      "source": "rotowire",
+      "source_key": "635113",
+      "story_id": "nfl|13413|rotowire|635113|1787976131000",
+      "title": "Cyrus Allen - Finishes preseason with one catch",
+      "url": null
+    },
     {
       "analysis": "Aubrey missed a 57-yard field-goal attempt wide right after converting from 49 yards and 51 yards, but he made the proper adjustment on his next long attempt and was successful on a 58-yard field-goal attempt in the final minute of the first half. After making at least 36 field goals in each of his three regular seasons with the Cowboys, with a long of 60-plus yards in each campaign, Aubrey is widely considered the NFL's best kicker heading into the 2026 regular season.",
       "description": "Aubrey made three of four field-goal attempts and converted his lone PAT try in Friday's 27-24 preseason loss to the Saints.",
@@ -472,6 +493,26 @@
       "story_id": "nfl|8138|rotowire|635052|1787963211000",
       "title": "James Cook - Sits out preseason finale",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals quarterback Jacoby Brissett is certainly not a flashy option in fantasy football, but he continues to rank as a mid-range QB2 for the 2026 season. Brissett was the overall QB16 last season despite making just 12 starts, and he averaged 2.0 touchdowns and 0.7 interceptions per game. He ranked as the overall QB6 from Week 6-18. It's hard to envision Brissett replicating that level of production this year, but he certainly has the supporting cast necessary to support him as a top-15 fantasy quarterback. Michael Wilson is coming off a breakout year, Marvin Harrison Jr. still has plenty of untapped potential, and Trey McBride is arguably the best tight end in football. Arizona also has a very deep backfield headlined by No. 3 overall pick Jeremiyah Love. Brissett has an ADP of 232.6, which means he is going undrafted in most fantasy leagues. Heading into a new season where every quarterback is healthy, Brissett isn't necessarily a must-draft player, but managers looking for a high-upside option should consider drafting him in the last couple of rounds.",
+      "metadata": {
+        "description": "Arizona Cardinals quarterback Jacoby Brissett is certainly not a flashy option in fantasy football, but he continues to rank as a mid-range QB2 for the 2026 season. Brissett was the overall QB16 last season despite making just 12 starts, and he averaged 2.0 touchdowns and 0.7 interceptions per game. He ranked as the overall QB6 from Week 6-18. It's hard to envision Brissett replicating that level of production this year, but he certainly has the supporting cast necessary to support him as a top-15 fantasy quarterback. Michael Wilson is coming off a breakout year, Marvin Harrison Jr. still has plenty of untapped potential, and Trey McBride is arguably the best tight end in football. Arizona also has a very deep backfield headlined by No. 3 overall pick Jeremiyah Love. Brissett has an ADP of 232.6, which means he is going undrafted in most fantasy leagues. Heading into a new season where every quarterback is healthy, Brissett isn't necessarily a must-draft player, but managers looking for a high-upside option should consider drafting him in the last couple of rounds.",
+        "title": "Jacoby Brissett a Solid Fantasy QB2 with Strong Supporting Cast",
+        "topic_id": "1399279090254479360",
+        "url": "https://www.rotoballer.com/player-news/jacoby-brissett-a-solid-fantasy-qb2-with-strong-supporting-cast/1918923"
+      },
+      "nfl_team": "ARI",
+      "player_id": "3257",
+      "player_name": "Jacoby Brissett",
+      "position": "QB",
+      "published": 1787961909000,
+      "source": "rotoballer",
+      "source_key": "219618",
+      "story_id": "nfl|3257|rotoballer|219618|1787961909000",
+      "title": "Jacoby Brissett a Solid Fantasy QB2 with Strong Supporting Cast",
+      "url": "https://www.rotoballer.com/player-news/jacoby-brissett-a-solid-fantasy-qb2-with-strong-supporting-cast/1918923"
     },
     {
       "analysis": null,

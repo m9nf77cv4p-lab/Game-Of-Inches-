@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1263**
-- Newly captured: **1**
+- Stored stories: **1265**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Cyrus Allen** — Cyrus Allen - Finishes preseason with one catch (2026-08-29T04:02:11Z)
+  - The rookie fifth-round pick didn't make his catch until the opening possession of the second half. Allen was busy this preseason with six catches on 12 targets, but those netted a modest 39 yards. Nevertheless, the Cincinnati product is likely locked into a reserve receiver role to open the 2026 season.
 - **Brandon Aubrey** — Brandon Aubrey - Rare miss in preseason finale (2026-08-29T03:32:51Z)
   - Aubrey missed a 57-yard field-goal attempt wide right after converting from 49 yards and 51 yards, but he made the proper adjustment on his next long attempt and was successful on a 58-yard field-goal attempt in the final minute of the first half. After making at least 36 field goals in each of his three regular seasons with the Cowboys, with a long of 60-plus yards in each campaign, Aubrey is widely considered the NFL's best kicker heading into the 2026 regular season.
 - **Xavier Worthy** — Xavier Worthy - One target in preseason debut (2026-08-29T03:32:23Z)
@@ -53,7 +55,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Unsurprisingly, Maye was among the plethora of New England starters who didn't see action in the team's final exhibition game. The star quarterback ended up sitting out all three of the team's preseason contests as he prepares for the regular season. Maye's first chance to get into game action with new top wideouts A.J. Brown and Romeo Doubs will take place in Week 1 versus Seattle on Wednesday, Sept. 9.
 - **James Cook** — James Cook - Sits out preseason finale (2026-08-29T00:26:51Z)
   - The Bills rested most of their projected regular-season starters, so Cook's absence was expected. The star running back finished the preseason slate having appeared in one game, logging 21 yards on five carries. Cook will now look ahead to Week 1, when he's slated to lead Buffalo's backfield against a tough Texans defense on Sunday, Sept. 13. Ray Davis is expected to work as his top backup.
-- **NEW — Matthew Stafford** — Matthew Stafford Remains a QB1 Despite Lack of Rushing Upside (2026-08-28T23:44:07Z)
+- **NEW — Jacoby Brissett** — Jacoby Brissett a Solid Fantasy QB2 with Strong Supporting Cast (2026-08-29T00:05:09Z)
+  - Source: https://www.rotoballer.com/player-news/jacoby-brissett-a-solid-fantasy-qb2-with-strong-supporting-cast/1918923
+- **Matthew Stafford** — Matthew Stafford Remains a QB1 Despite Lack of Rushing Upside (2026-08-28T23:44:07Z)
   - Source: https://www.rotoballer.com/player-news/matthew-stafford-remains-a-qb1-despite-lack-of-rushing-upside/1918917
 - **Tre' Harris** — Tre' Harris - Idle for preseason finale (2026-08-28T23:40:00Z)
   - Harris will end up not playing a single preseason game, missing the last two while working through an undisclosed injury. Despite the lack of on-field playing time, there's no indication that the 2025 second-rounder is in jeopardy of missing the Chargers' regular-season opener against the Cardinals on Sunday, Sept. 13. Following the departure of Keenan Allen, Harris figures to serve as the Chargers' WR3 this season behind Ladd McConkey and Quentin Johnston.
@@ -203,7 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - James was the second 49ers running back to log a touch behind Kaelon Black, carrying the ball on all three plays of the team's fourth drive. James netted eight rushing yards on that trio of rush attempts, and he proceeded to rattle off his game-long 17-yard gain just before the two-minute warning the next time San Francisco had the ball. Thursday marked James' only action of the preseason after he previously dealt with a rib fracture, and it remains to be seen how his splash plays as both a runner and receiver impact his standing heading into the regular season.
 - **Taylen Green** — Taylen Green - Plays second half of preseason finale (2026-08-28T03:57:20Z)
   - Green got his first taste of NFL game action by playing the second half of Thursday's preseason finale after Dillon Gabriel tossed three first-half touchdowns. The rookie sixth-round pick out of Arkansas wasn't asked to do much as a passer, but Green showed off his mobility and finished as the team's leading rusher. Green had 16 rushing touchdowns in two years at Arkansas after scoring 19 across his preceding two seasons at Boise State, but he likely needs some development as a passer, and he's set to open the regular season as the fourth option on Cleveland's QB depth chart behind Deshaun Watson, Shedeur Sanders and Gabriel.
-- **Jalen Nailor** — Jalen Nailor - Two catches in preseason loss (2026-08-28T03:54:02Z)
-  - Nailor led the Raiders in targets and finished tied for second in receptions. The fifth-year pro made his first catch on a pass from Kirk Cousins for a seven-yard gain during the opening possession, and he recorded his second and final one with Fernando Mendoza under center to open Las Vegas' third drive. Nailor was then also the intended target deep down the middle on the next play, a pass that resulted in an interception. Nailor is projected to open the regular season as the No. 2 receiver and posted a 3-35-0 line on seven targets in two preseason games.
-- **Tre Tucker** — Tre Tucker - Paces pass catchers in preseason loss (2026-08-28T03:46:37Z)
-  - Tucker led the Raiders in receptions and receiving yards on a night when Las Vegas netted just 138 passing yards overall. Tucker, Las Vegas' presumptive No. 1 receiver to open the regular season, played on the first two drives and recorded 14- and eight-yard grabs on passes from Kirk Cousins during back-to-back plays on the opening possession. Tucker finishes the preseason with a 5-46-0 line on five targets over two games, and he'll now set his sights on the Dolphins for a Week 1 home matchup on Sunday, Sept. 13.
