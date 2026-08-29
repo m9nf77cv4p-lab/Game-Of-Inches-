@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T22:03:09Z",
+  "last_checked_at": "2026-08-29T22:33:38Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11539|rotowire|635223|1788040412000",
-    "nfl|13320|rotowire|635226|1788040796000",
-    "nfl|9229|rotowire|635225|1788040778000"
+    "nfl|1479|rotowire|635233|1788042299000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Having just signed with Indianapolis less than two weeks ago, Allen saw his first game action for his new club and quickly produced a big gain on Anthony Richardson's first pass attempt of the afternoon, helping to set up a field goal. Top wideouts Alec Pierce (ankle) and Josh Downs (calf), as well as top tight end Tyler Warren (groin), are all carrying injury designations to close out the preseason, so Allen could end up having a bigger role in the passing attack than expected once Week 1 rolls around. The 34-year-old showed he can still be an effective possession option in 2025 with the Chargers, delivering an 81-777-4 line on 122 targets while playing all 17 regular-season contests.",
+      "description": "Allen caught his only target for 24 yards in Saturday's 25-16 preseason loss to the Lions.",
+      "metadata": {
+        "analysis": "Having just signed with Indianapolis less than two weeks ago, Allen saw his first game action for his new club and quickly produced a big gain on Anthony Richardson's first pass attempt of the afternoon, helping to set up a field goal. Top wideouts Alec Pierce (ankle) and Josh Downs (calf), as well as top tight end Tyler Warren (groin), are all carrying injury designations to close out the preseason, so Allen could end up having a bigger role in the passing attack than expected once Week 1 rolls around. The 34-year-old showed he can still be an effective possession option in 2025 with the Chargers, delivering an 81-777-4 line on 122 targets while playing all 17 regular-season contests.",
+        "description": "Allen caught his only target for 24 yards in Saturday's 25-16 preseason loss to the Lions.",
+        "title": "Keenan Allen - One catch in first preseason game for Indy",
+        "topic_id": "1399555950339162112"
+      },
+      "nfl_team": "IND",
+      "player_id": "1479",
+      "player_name": "Keenan Allen",
+      "position": "WR",
+      "published": 1788042299000,
+      "source": "rotowire",
+      "source_key": "635233",
+      "story_id": "nfl|1479|rotowire|635233|1788042299000",
+      "title": "Keenan Allen - One catch in first preseason game for Indy",
+      "url": null
+    },
     {
       "analysis": "Branch didn't see much action Friday, playing a total of four snaps (three on offense, one on special teams). However, his lone snap on special teams came as a punt returner, and he figures to see plenty of work as a returner in the upcoming season, especially if he doesn't get much playing time on offense behind Drake London, Jahan Dotson and Olamide Zaccheaus.",
       "description": "Branch returned a punt for 18 yards during the Falcons' 17-12 preseason win over the Dolphins on Friday.",
