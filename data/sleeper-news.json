@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T16:11:20Z",
+  "last_checked_at": "2026-08-29T16:21:13Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11618|rotoballer|219656|1788005286000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -70,6 +72,26 @@
       "story_id": "nfl|9494|rotowire|635151|1788013443000",
       "title": "Marvin Mims - Dealing with foot contusion",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers head coach Todd Bowles said on Saturday that he expects wide receiver Jalen McMillan (knee) to be ready for the Week 1 regular-season opener against the Cincinnati Bengals on Sunday, Sept. 13, according to Greg Auman of FOX Sports. The team is hoping that fellow wideout Emeka Egbuka (toe) will also be ready, and they do not plan on carrying an extra receiver on the 53-man roster to offset their short-term injuries at the position. The 24-year-old McMillan sustained a knee injury earlier this month and was held out of all three preseason games. It sounds like his injury is not very serious, but McMillan could be facing snap-count limitations in the regular-season opener against Cincy. If Egbuka is out or limited as well, it could mean a lot of work for veteran Chris Godwin Jr. and tight end Cade Otton. McMillan is in line for a bigger role in a new offense in 2026 with Mike Evans gone, but the former third-rounder from Washington must stay healthy to capitalize. He played in only four games in 2025 due to a serious neck injury he suffered in the preseason. A 37-461-8 line in his rookie campaign shows the kind of upside McMillan has. He is a late-round dart throw for fantasy managers that will gain a boost if Egbuka misses the start of the season.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers head coach Todd Bowles said on Saturday that he expects wide receiver Jalen McMillan (knee) to be ready for the Week 1 regular-season opener against the Cincinnati Bengals on Sunday, Sept. 13, according to Greg Auman of FOX Sports. The team is hoping that fellow wideout Emeka Egbuka (toe) will also be ready, and they do not plan on carrying an extra receiver on the 53-man roster to offset their short-term injuries at the position. The 24-year-old McMillan sustained a knee injury earlier this month and was held out of all three preseason games. It sounds like his injury is not very serious, but McMillan could be facing snap-count limitations in the regular-season opener against Cincy. If Egbuka is out or limited as well, it could mean a lot of work for veteran Chris Godwin Jr. and tight end Cade Otton. McMillan is in line for a bigger role in a new offense in 2026 with Mike Evans gone, but the former third-rounder from Washington must stay healthy to capitalize. He played in only four games in 2025 due to a serious neck injury he suffered in the preseason. A 37-461-8 line in his rookie campaign shows the kind of upside McMillan has. He is a late-round dart throw for fantasy managers that will gain a boost if Egbuka misses the start of the season.",
+        "title": "Buccaneers Expect Jalen McMillan to be Ready for Week 1",
+        "topic_id": "1399461564049805312",
+        "url": "https://www.rotoballer.com/player-news/buccaneers-expect-jalen-mcmillan-to-be-ready-for-week-1/1919138"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1788005286000,
+      "source": "rotoballer",
+      "source_key": "219656",
+      "story_id": "nfl|11618|rotoballer|219656|1788005286000",
+      "title": "Buccaneers Expect Jalen McMillan to be Ready for Week 1",
+      "url": "https://www.rotoballer.com/player-news/buccaneers-expect-jalen-mcmillan-to-be-ready-for-week-1/1919138"
     },
     {
       "analysis": null,
