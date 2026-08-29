@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T13:42:09Z",
+  "last_checked_at": "2026-08-29T13:51:14Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|13294|rotoballer|219635|1787996286000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles rookie wide receiver Makai Lemon missed the team's first two preseason games while dealing with a hamstring injury that kept him sidelined for much of training camp, and in Friday night's loss to the Bengals, he struggled to shake off the rust despite a concerted effort to get him involved early. Lemon was targeted five times in his first professional game, ending his night with three yards on three receptions, but he also muffed a punt and had a drop that led to an interception. \"I'm glad it happened in the preseason, so come around September, those things won't happen,\" he said after the game. Expectations were high after the team traded up to select Lemon with the 20th pick in the 2026 NFL Draft, but his prolonged absence allowed Dontayvion Wicks to emerge as the team's second receiver alongside DeVonta Smith, and the rookie will need to spend the early weeks of the season playing catch-up as he looks to carve out a primary slot role. At RotoBaller's WR46, he is still a player to take a swing on in 2026 drafts with the understanding that his best production is likely to come later in the year.",
+      "metadata": {
+        "description": "Philadelphia Eagles rookie wide receiver Makai Lemon missed the team's first two preseason games while dealing with a hamstring injury that kept him sidelined for much of training camp, and in Friday night's loss to the Bengals, he struggled to shake off the rust despite a concerted effort to get him involved early. Lemon was targeted five times in his first professional game, ending his night with three yards on three receptions, but he also muffed a punt and had a drop that led to an interception. \"I'm glad it happened in the preseason, so come around September, those things won't happen,\" he said after the game. Expectations were high after the team traded up to select Lemon with the 20th pick in the 2026 NFL Draft, but his prolonged absence allowed Dontayvion Wicks to emerge as the team's second receiver alongside DeVonta Smith, and the rookie will need to spend the early weeks of the season playing catch-up as he looks to carve out a primary slot role. At RotoBaller's WR46, he is still a player to take a swing on in 2026 drafts with the understanding that his best production is likely to come later in the year.",
+        "title": "Makai Lemon Struggles to Shake Off the Rust in Preseason Debut",
+        "topic_id": "1399423811761283072",
+        "url": "https://www.rotoballer.com/player-news/makai-lemon-struggles-to-shake-off-the-rust-in-preseason-debut/1919025"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13294",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "published": 1787996286000,
+      "source": "rotoballer",
+      "source_key": "219635",
+      "story_id": "nfl|13294|rotoballer|219635|1787996286000",
+      "title": "Makai Lemon Struggles to Shake Off the Rust in Preseason Debut",
+      "url": "https://www.rotoballer.com/player-news/makai-lemon-struggles-to-shake-off-the-rust-in-preseason-debut/1919025"
+    },
     {
       "analysis": null,
       "description": "One day after Green Bay Packers running back Josh Jacobs was formally charged with two misdemeanors stemming from an alleged incident that led to his arrest in May, head coach Matt LaFleur addressed his standing with the team. \"Well, I fully anticipate him being a member of our team,\" LaFleur told the media on Friday. \"You've got to let everything play out,\" he continued. \"But I anticipate him being a member of our football team.\" Jacobs was charged with battery and criminal damage to property, and the NFL does not need to wait for the legal process to play out before deciding whether to suspend him, with a league spokesperson saying on Wednesday that his case \"remains under review.\" When healthy and available, Jacobs is one of the biggest fantasy difference-makers at the position, but uncertainty around his situation has pushed him to RB16 by current ADP.",
@@ -25763,26 +25785,6 @@
       "story_id": "nfl|7527|rotoballer|217723|1785428585000",
       "title": "Mac Jones Healthy for Training Camp",
       "url": "https://www.rotoballer.com/player-news/mac-jones-healthy-for-training-camp/1900071"
-    },
-    {
-      "analysis": "Atlanta quarterbacks Tua Tagovailoa (back) and Michael Penix (knee) have been limited early on, while London seems to be back at full strength after missing some spring practices with an undisclosed injury. The star wideout can now focus on building chemistry with Tagovailoa, who figures to take most of the first-team reps this summer.",
-      "description": "London (undisclosed) practiced Wednesday, The Eastern Herald reports.",
-      "metadata": {
-        "analysis": "Atlanta quarterbacks Tua Tagovailoa (back) and Michael Penix (knee) have been limited early on, while London seems to be back at full strength after missing some spring practices with an undisclosed injury. The star wideout can now focus on building chemistry with Tagovailoa, who figures to take most of the first-team reps this summer.",
-        "description": "London (undisclosed) practiced Wednesday, The Eastern Herald reports.",
-        "title": "Drake London - Healthy for start of camp",
-        "topic_id": "1388552065722101760"
-      },
-      "nfl_team": "ATL",
-      "player_id": "8112",
-      "player_name": "Drake London",
-      "position": "WR",
-      "published": 1785419048000,
-      "source": "rotowire",
-      "source_key": "632212",
-      "story_id": "nfl|8112|rotowire|632212|1785419048000",
-      "title": "Drake London - Healthy for start of camp",
-      "url": null
     }
   ]
 }

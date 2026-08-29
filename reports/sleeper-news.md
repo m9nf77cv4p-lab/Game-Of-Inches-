@@ -3,10 +3,12 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1283**
-- Newly captured: **0**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Makai Lemon** — Makai Lemon Struggles to Shake Off the Rust in Preseason Debut (2026-08-29T09:38:06Z)
+  - Source: https://www.rotoballer.com/player-news/makai-lemon-struggles-to-shake-off-the-rust-in-preseason-debut/1919025
 - **Josh Jacobs** — Packers "Fully Anticipate" Josh Jacobs Will Remain on Roster (2026-08-29T09:13:08Z)
   - Source: https://www.rotoballer.com/player-news/packers-fully-anticipate-josh-jacobs-will-remain-on-roster/1919011
 - **Elijah Sarratt** — Elijah Sarratt - Just one catch again Friday (2026-08-29T06:42:36Z)
@@ -205,5 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/j-k-dobbins-back-on-track-for-lead-role/1918371
 - **Drew Allar** — Drew Allar a Roster Lock Despite Quiet Preseason Finale (2026-08-28T11:20:09Z)
   - Source: https://www.rotoballer.com/player-news/drew-allar-a-roster-lock-despite-quiet-preseason-finale/1918368
-- **Parker Washington** — Parker Washington Projected to Lead Jaguars in Receiving (2026-08-28T11:12:10Z)
-  - Source: https://www.rotoballer.com/player-news/parker-washington-projected-to-lead-jaguars-in-receiving/1918360
