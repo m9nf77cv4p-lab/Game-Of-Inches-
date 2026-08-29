@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1245**
-- Newly captured: **1**
+- Stored stories: **1249**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Tyrone Tracy** — Tyrone Tracy - Won't return Friday (2026-08-29T01:32:44Z)
+- **Tyrone Tracy** — Tyrone Tracy - Won't return Friday (2026-08-29T01:32:44Z)
   - Tracy sustained an apparent neck injury during an eight-yard run in the second quarter. The good news for the third-year running back is that he was not diagnosed with a concussion, and he'll finish his night with four carries for 37 yards and a touchdown. How Tracy's neck reacts over the coming days will determine what his practice participation will look like leading up to Week 1 against the Cowboys on Sunday, Sept. 13.
 - **Romeo Doubs** — Romeo Doubs - Sits out final exhibition game (2026-08-29T01:23:52Z)
   - Doubs was among numerous Patriots projected regular-season starters who were held out of Thursday's contest. The veteran wideout didn't play at all during the exhibition slate but drew praise during training camp for his work during practices. Doubs is slated for a major role in his first campaign with New England, as he's set to start alongside A.J. Brown at the WR position.
@@ -59,8 +59,16 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - McCarthy emerged from preseason Week 2 with an ankle injury, and while the Vikings were hopeful that he'd be able to play in the team's final exhibition, he'll instead remain in street clothes. After losing out on the starting QB job to Kyler Murray in early August, McCarthy has been serving as the backup in the meantime. Carson Wentz and Max Brosmer are the likely candidates to be under center for Minnesota on Friday.
 - **Rachaad White** — Rachaad White - Won't play Friday (2026-08-28T21:47:19Z)
   - White has been tending to a hamstring injury since Aug. 19 that will keep him sidelined for the Commanders' final two exhibitions. He was able to mix into individual drills as recently as Monday, though, so he's making progress in his recovery. White will join No. 1 RB Jacory Croskey-Merritt (lower body) and Jeremy McNichols (quadriceps) on the sideline Friday.
+- **NEW — Saquon Barkley** — Saquon Barkley Has Another Big Year Ahead of Him (2026-08-28T21:46:06Z)
+  - Source: https://www.rotoballer.com/player-news/saquon-barkley-has-another-big-year-ahead-of-him/1918877
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Sitting out Friday's preseason game (2026-08-28T21:43:40Z)
   - On Aug. 20, Croskey-Merritt pulled up at the end of a catch and run in practice due to a lower-body injury, which now will keep him out of the Commanders' final two exhibitions. He focused on rehab work on the side this week, with the intent to return to practice at some point next week. Rachaad White (hamstring) and Jeremy McNichols (quadriceps) also aren't in uniform Friday, meaning rookie sixth-rounder Kaytron Allen, Robert Henry and Craig Reynolds are the team's available RBs for preseason Week 3.
+- **NEW — Marvin Mims** — Marvin Mims Jr. Leaves Early on Friday With Foot Injury (2026-08-28T21:43:06Z)
+  - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-leaves-early-on-friday-with-foot-injury/1918873
+- **NEW — Jared Goff** — Jared Goff a Dependable Mid-Round Quarterback for Fantasy Managers (2026-08-28T21:39:48Z)
+  - Source: https://www.rotoballer.com/player-news/jared-goff-a-dependable-mid-round-quarterback-for-fantasy-managers/1918871
+- **NEW — Isaiah Likely** — Isaiah Likely a Potential Steal at Current ADP (2026-08-28T21:35:45Z)
+  - Source: https://www.rotoballer.com/player-news/isaiah-likely-a-potential-steal-at-current-adp/1918869
 - **Joe Burrow** — Joe Burrow Has a Hefty Price Tag with Some Injury Risk (2026-08-28T21:22:11Z)
   - Source: https://www.rotoballer.com/player-news/joe-burrow-has-a-hefty-price-tag-with-some-injury-risk/1918859
 - **Tyrone Tracy** — Tyrone Tracy Jr. Injures his Neck in Preseason Finale on Friday (2026-08-28T20:59:15Z)
@@ -199,11 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/hunter-henry-expected-to-play-a-very-important-role-again-in-2026/1918074
 - **Kaleb Johnson** — Kaleb Johnson Projected to be Released by Steelers (2026-08-27T23:42:07Z)
   - Source: https://www.rotoballer.com/player-news/kaleb-johnson-projected-to-be-released-by-steelers/1918070
-- **De'Zhaun Stribling** — De'Zhaun Stribling - Not playing in preseason finale (2026-08-27T23:37:05Z)
-  - Stribling seemingly came out of preseason Week 2 action with a minor shoulder injury, but he was able to mix back into drills as of Sunday while wearing a non-contact jersey. Considering he showed out in the 49ers' first two exhibitions with a combined 11 catches for 109 yards, the team will rest him along with other key members of the receiving corps. Stribling will set his sights on getting healthy for a Week 1 matchup with the Rams in Melbourne, Australia on Thursday, Sept. 10
-- **Tory Horton** — Tory Horton - Not dealing with significant injury (2026-08-27T23:27:05Z)
-  - Horton has been sidelined with an undisclosed injury for over a week, but head coach Mike Macdonald shed some light on the situation Thursday, explaining that the wide receiver isn't dealing with a significant injury. With fellow wideout Jake Bobo (knee) already sidelined for the year, Horton will have an opportunity to elevate into a more substantial role with Seattle in his second campaign with the team.
-- **Jeremiyah Love** — Jeremiyah Love Trending in the Right Direction for Week 1 (2026-08-27T23:20:10Z)
-  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-trending-in-the-right-direction-for-week-1/1918047
-- **Jalen Milroe** — Jalen Milroe to Play a Full Game in Preseason Finale (2026-08-27T23:17:08Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-milroe-to-play-a-full-game-in-preseason-finale/1918043

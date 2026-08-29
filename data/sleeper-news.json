@@ -1,9 +1,12 @@
 {
-  "last_checked_at": "2026-08-29T01:43:30Z",
+  "last_checked_at": "2026-08-29T01:53:35Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11655|rotowire|635067|1787967164000"
+    "nfl|3163|rotoballer|219606|1787953188000",
+    "nfl|4866|rotoballer|219608|1787953566000",
+    "nfl|8131|rotoballer|219607|1787952945000",
+    "nfl|9494|rotoballer|219609|1787953386000"
   ],
   "schema_version": 1,
   "source": {
@@ -534,6 +537,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Philadelphia Eagles running back Saquon Barkley cooled off a little last season relative to the year prior, but he's still worth drafting as a top-12 running back in 2026 fantasy drafts. Barkley had 1,413 scrimmage yards and a modest nine touchdowns last season, ranking as the RB14 in PPR leagues. He has been a top-14 fantasy running back in each of the last four seasons, including a finish as the overall RB2 in 2024. The 29-year-old has shown no signs of slowing down, and he's actually trending back upward in a new-look Eagles offense. New offensive coordinator Sean Mannion has introduced wide zone concepts that should benefit Barkley by increasing his yards per carry and perhaps leading to more touchdown opportunities. You certainly won't be able to get Barkley at a discount, as he comes with an ADP of 14.6. However, he's still a very reasonable target in the early second round of fantasy drafts, especially for fantasy managers who spent their first pick on a wide receiver.",
+      "metadata": {
+        "description": "Philadelphia Eagles running back Saquon Barkley cooled off a little last season relative to the year prior, but he's still worth drafting as a top-12 running back in 2026 fantasy drafts. Barkley had 1,413 scrimmage yards and a modest nine touchdowns last season, ranking as the RB14 in PPR leagues. He has been a top-14 fantasy running back in each of the last four seasons, including a finish as the overall RB2 in 2024. The 29-year-old has shown no signs of slowing down, and he's actually trending back upward in a new-look Eagles offense. New offensive coordinator Sean Mannion has introduced wide zone concepts that should benefit Barkley by increasing his yards per carry and perhaps leading to more touchdown opportunities. You certainly won't be able to get Barkley at a discount, as he comes with an ADP of 14.6. However, he's still a very reasonable target in the early second round of fantasy drafts, especially for fantasy managers who spent their first pick on a wide receiver.",
+        "title": "Saquon Barkley Has Another Big Year Ahead of Him",
+        "topic_id": "1399243853696937984",
+        "url": "https://www.rotoballer.com/player-news/saquon-barkley-has-another-big-year-ahead-of-him/1918877"
+      },
+      "nfl_team": "PHI",
+      "player_id": "4866",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "published": 1787953566000,
+      "source": "rotoballer",
+      "source_key": "219608",
+      "story_id": "nfl|4866|rotoballer|219608|1787953566000",
+      "title": "Saquon Barkley Has Another Big Year Ahead of Him",
+      "url": "https://www.rotoballer.com/player-news/saquon-barkley-has-another-big-year-ahead-of-him/1918877"
+    },
+    {
       "analysis": "On Aug. 20, Croskey-Merritt pulled up at the end of a catch and run in practice due to a lower-body injury, which now will keep him out of the Commanders' final two exhibitions. He focused on rehab work on the side this week, with the intent to return to practice at some point next week. Rachaad White (hamstring) and Jeremy McNichols (quadriceps) also aren't in uniform Friday, meaning rookie sixth-rounder Kaytron Allen, Robert Henry and Craig Reynolds are the team's available RBs for preseason Week 3.",
       "description": "Croskey-Merritt (lower body) won't suit up for Friday's preseason game at Baltimore.",
       "metadata": {
@@ -552,6 +575,66 @@
       "story_id": "nfl|12533|rotowire|635015|1787953420000",
       "title": "Jacory Croskey-Merritt - Sitting out Friday's preseason game",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Marvin Mims Jr. (foot) suffered a foot injury in the team's preseason finale on Friday night against the Minnesota Vikings and is questionable to return, according to Zac Stevens of DNVR Sports. Mims, who did not have a catch on Friday before getting hurt, almost certainly will not return to this contest, even if his foot injury is deemed minor. The 24-year-old fell down the WR depth chart in Denver when the Broncos sent multiple draft picks to the Miami Dolphins in the offseason for star wideout Jaylen Waddle, who could immediately become the team's WR1 in 2026. The former second-rounder from Oklahoma should be a roster lock, but when healthy, he might be the Broncos' WR5 behind Waddle, Courtland Sutton, Pat Bryant, and Troy Franklin. Mims had a career-best 503 yards and six touchdowns on 39 receptions in 2024, but he fell to a 37-322-1 line in 15 regular-season games in 2025, and he should be avoided in 12-team fantasy leagues this fall, especially if his foot injury keeps him out of the Week 1 showdown on Monday night against the division-rival Kansas City Chiefs. Stay tuned for an injury update on Mims later Friday or on Saturday.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Marvin Mims Jr. (foot) suffered a foot injury in the team's preseason finale on Friday night against the Minnesota Vikings and is questionable to return, according to Zac Stevens of DNVR Sports. Mims, who did not have a catch on Friday before getting hurt, almost certainly will not return to this contest, even if his foot injury is deemed minor. The 24-year-old fell down the WR depth chart in Denver when the Broncos sent multiple draft picks to the Miami Dolphins in the offseason for star wideout Jaylen Waddle, who could immediately become the team's WR1 in 2026. The former second-rounder from Oklahoma should be a roster lock, but when healthy, he might be the Broncos' WR5 behind Waddle, Courtland Sutton, Pat Bryant, and Troy Franklin. Mims had a career-best 503 yards and six touchdowns on 39 receptions in 2024, but he fell to a 37-322-1 line in 15 regular-season games in 2025, and he should be avoided in 12-team fantasy leagues this fall, especially if his foot injury keeps him out of the Week 1 showdown on Monday night against the division-rival Kansas City Chiefs. Stay tuned for an injury update on Mims later Friday or on Saturday.",
+        "title": "Marvin Mims Jr. Leaves Early on Friday With Foot Injury",
+        "topic_id": "1399243853692743680",
+        "url": "https://www.rotoballer.com/player-news/marvin-mims-jr-leaves-early-on-friday-with-foot-injury/1918873"
+      },
+      "nfl_team": "DEN",
+      "player_id": "9494",
+      "player_name": "Marvin Mims",
+      "position": "WR",
+      "published": 1787953386000,
+      "source": "rotoballer",
+      "source_key": "219609",
+      "story_id": "nfl|9494|rotoballer|219609|1787953386000",
+      "title": "Marvin Mims Jr. Leaves Early on Friday With Foot Injury",
+      "url": "https://www.rotoballer.com/player-news/marvin-mims-jr-leaves-early-on-friday-with-foot-injury/1918873"
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions quarterback Jared Goff is a very appealing draft target for fantasy managers looking to address the position with a mid-round pick. Goff currently has a 10th-round ADP and is typically the 16th quarterback off the board in fantasy drafts. He's the QB15 in RotoBaller's latest fantasy football rankings, and he has been a top-10 fantasy quarterback in each of the past four seasons. There's a very real chance he remains a top-10 option, especially with a star-studded group around him, including Jahmyr Gibbs, Amon-Ra St. Brown, Sam LaPorta, and Jameson Williams. While Goff doesn't have the rushing upside that many top fantasy quarterbacks possess, he's a reliable, polished passer with high touchdown and low turnover totals. Just last year, he had 34 passing touchdowns and eight interceptions, and he also took a career-low 1.12 sacks per game. For those managers who don't want to spend a premium pick on one of the top quarterbacks, Goff is a very reasonable mid-round option who can be just as productive as some of those early-round guys.",
+      "metadata": {
+        "description": "Detroit Lions quarterback Jared Goff is a very appealing draft target for fantasy managers looking to address the position with a mid-round pick. Goff currently has a 10th-round ADP and is typically the 16th quarterback off the board in fantasy drafts. He's the QB15 in RotoBaller's latest fantasy football rankings, and he has been a top-10 fantasy quarterback in each of the past four seasons. There's a very real chance he remains a top-10 option, especially with a star-studded group around him, including Jahmyr Gibbs, Amon-Ra St. Brown, Sam LaPorta, and Jameson Williams. While Goff doesn't have the rushing upside that many top fantasy quarterbacks possess, he's a reliable, polished passer with high touchdown and low turnover totals. Just last year, he had 34 passing touchdowns and eight interceptions, and he also took a career-low 1.12 sacks per game. For those managers who don't want to spend a premium pick on one of the top quarterbacks, Goff is a very reasonable mid-round option who can be just as productive as some of those early-round guys.",
+        "title": "Jared Goff a Dependable Mid-Round Quarterback for Fantasy Managers",
+        "topic_id": "1399242595544096768",
+        "url": "https://www.rotoballer.com/player-news/jared-goff-a-dependable-mid-round-quarterback-for-fantasy-managers/1918871"
+      },
+      "nfl_team": "DET",
+      "player_id": "3163",
+      "player_name": "Jared Goff",
+      "position": "QB",
+      "published": 1787953188000,
+      "source": "rotoballer",
+      "source_key": "219606",
+      "story_id": "nfl|3163|rotoballer|219606|1787953188000",
+      "title": "Jared Goff a Dependable Mid-Round Quarterback for Fantasy Managers",
+      "url": "https://www.rotoballer.com/player-news/jared-goff-a-dependable-mid-round-quarterback-for-fantasy-managers/1918871"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants tight end Isaiah Likely's stock continues to rise this offseason, but his ADP has remained quite reasonable as fantasy football drafts are in full swing. Entering this summer, there was uncertainty about how Likely and Theo Johnson would split reps in this Giants offense. As the preseason has progressed, it has become evident that not only is Likely the No. 1 tight end here, but he has also emerged as one of quarterback Jaxson Dart's favorite targets. There are plenty of vacated targets available following the departure of wide receiver Wan'Dale Robinson, who was targeted 280 times over the last two seasons. While a lot of those targets should go to Malik Nabers, who is coming back from an ACL tear, Likely should also see significant volume. Presumably, his floor is what we saw from Johnson last year: 45 catches, 528 yards, five touchdowns, and a TE18 finish. Meanwhile, his ceiling is a top-five fantasy tight end. There's a lot working in his favor, including the fact that he's athletic, sits atop the depth chart, has the trust of his quarterback and head coach, and plays in an offense that is trending upward. Likely currently has a 10th-round ADP in most leagues, which is a very reasonable price tag for a tight end who figures to get in your starting lineup every week.",
+      "metadata": {
+        "description": "New York Giants tight end Isaiah Likely's stock continues to rise this offseason, but his ADP has remained quite reasonable as fantasy football drafts are in full swing. Entering this summer, there was uncertainty about how Likely and Theo Johnson would split reps in this Giants offense. As the preseason has progressed, it has become evident that not only is Likely the No. 1 tight end here, but he has also emerged as one of quarterback Jaxson Dart's favorite targets. There are plenty of vacated targets available following the departure of wide receiver Wan'Dale Robinson, who was targeted 280 times over the last two seasons. While a lot of those targets should go to Malik Nabers, who is coming back from an ACL tear, Likely should also see significant volume. Presumably, his floor is what we saw from Johnson last year: 45 catches, 528 yards, five touchdowns, and a TE18 finish. Meanwhile, his ceiling is a top-five fantasy tight end. There's a lot working in his favor, including the fact that he's athletic, sits atop the depth chart, has the trust of his quarterback and head coach, and plays in an offense that is trending upward. Likely currently has a 10th-round ADP in most leagues, which is a very reasonable price tag for a tight end who figures to get in your starting lineup every week.",
+        "title": "Isaiah Likely a Potential Steal at Current ADP",
+        "topic_id": "1399242595539902464",
+        "url": "https://www.rotoballer.com/player-news/isaiah-likely-a-potential-steal-at-current-adp/1918869"
+      },
+      "nfl_team": "NYG",
+      "player_id": "8131",
+      "player_name": "Isaiah Likely",
+      "position": "TE",
+      "published": 1787952945000,
+      "source": "rotoballer",
+      "source_key": "219607",
+      "story_id": "nfl|8131|rotoballer|219607|1787952945000",
+      "title": "Isaiah Likely a Potential Steal at Current ADP",
+      "url": "https://www.rotoballer.com/player-news/isaiah-likely-a-potential-steal-at-current-adp/1918869"
     },
     {
       "analysis": null,
