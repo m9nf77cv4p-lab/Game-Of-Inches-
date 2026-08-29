@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T15:00:44Z",
+  "last_checked_at": "2026-08-29T15:10:44Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|6768|rotoballer|219645|1788000545000"
+    "nfl|13347|rotoballer|219646|1788000987000"
   ],
   "schema_version": 1,
   "source": {
@@ -72,6 +72,26 @@
       "story_id": "nfl|9494|rotowire|635151|1788013443000",
       "title": "Marvin Mims - Dealing with foot contusion",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings running back Demond Claiborne appears to have a solid hold of the RB3 role after starting Friday's game against the Denver Broncos. The rookie rushed eight times for only 21 yards in a 34-6 loss, but he played alongside a heavily limited Vikings offense that played mostly reserves, including fourth quarterback Max Brosmer for most of the night. Neither Aaron Jones Sr. nor Jordan Mason played, but Claiborne featured first without them, suggesting he'll be the third running back ahead of special teams ace Zavier Scott. Claiborne, who also returned kicks Friday, is mostly a dynasty stash for now, but he could be a waiver wire factor in redraft leagues should either Mason or Jones miss extended time.",
+      "metadata": {
+        "description": "Minnesota Vikings running back Demond Claiborne appears to have a solid hold of the RB3 role after starting Friday's game against the Denver Broncos. The rookie rushed eight times for only 21 yards in a 34-6 loss, but he played alongside a heavily limited Vikings offense that played mostly reserves, including fourth quarterback Max Brosmer for most of the night. Neither Aaron Jones Sr. nor Jordan Mason played, but Claiborne featured first without them, suggesting he'll be the third running back ahead of special teams ace Zavier Scott. Claiborne, who also returned kicks Friday, is mostly a dynasty stash for now, but he could be a waiver wire factor in redraft leagues should either Mason or Jones miss extended time.",
+        "title": "More RB3 Reps For Demond Claiborne",
+        "topic_id": "1399442687471443968",
+        "url": "https://www.rotoballer.com/player-news/more-rb3-reps-for-demond-claiborne/1919083"
+      },
+      "nfl_team": "MIN",
+      "player_id": "13347",
+      "player_name": "Demond Claiborne",
+      "position": "RB",
+      "published": 1788000987000,
+      "source": "rotoballer",
+      "source_key": "219646",
+      "story_id": "nfl|13347|rotoballer|219646|1788000987000",
+      "title": "More RB3 Reps For Demond Claiborne",
+      "url": "https://www.rotoballer.com/player-news/more-rb3-reps-for-demond-claiborne/1919083"
     },
     {
       "analysis": null,

@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1289**
+- Stored stories: **1290**
 - Newly captured: **1**
 
 ## Latest news
@@ -13,7 +13,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowels is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.
 - **Marvin Mims** — Marvin Mims - Dealing with foot contusion (2026-08-29T14:24:03Z)
   - Mims sustained the injury early in the first quarter and was listed as questionable to return after going to the locker room, but he didn't end up taking another snap in Friday's exhibition contest. It doesn't appear to be a serious injury, but his practice participation over the coming weeks will determine whether he'll suit up for Denver's Week 1 clash against Kansas City on Monday, Sept. 14.
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa May Have Shown Just Enough When Most Needed (2026-08-29T10:49:05Z)
+- **NEW — Demond Claiborne** — More RB3 Reps For Demond Claiborne (2026-08-29T10:56:27Z)
+  - Source: https://www.rotoballer.com/player-news/more-rb3-reps-for-demond-claiborne/1919083
+- **Tua Tagovailoa** — Tua Tagovailoa May Have Shown Just Enough When Most Needed (2026-08-29T10:49:05Z)
   - Source: https://www.rotoballer.com/player-news/tua-tagovailoa-may-have-shown-just-enough-when-most-needed/1919080
 - **Emeka Egbuka** — Emeka Egbuka "Hopefully" Available for Week 1 (2026-08-29T09:59:07Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-hopefully-available-for-week-1-trailing-other-bucs-receiver-in-recovery-timeline/1919044
@@ -205,5 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-squarely-in-broncos-backfield-rotation/1918471
 - **Tony Pollard** — Tony Pollard Finishing Camp on a High Note (2026-08-28T13:11:06Z)
   - Source: https://www.rotoballer.com/player-news/tony-pollard-finishing-camp-on-a-high-note/1918467
-- **Alec Pierce** — Alec Pierce's Goal is to be Ready for Week 1 (2026-08-28T13:02:13Z)
-  - Source: https://www.rotoballer.com/player-news/alec-pierces-goal-is-to-be-ready-for-week-1/1918461
