@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T17:32:10Z",
+  "last_checked_at": "2026-08-29T17:42:18Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|7528|rotoballer|219663|1788010213000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -110,6 +112,26 @@
       "story_id": "nfl|9494|rotowire|635151|1788013443000",
       "title": "Marvin Mims - Dealing with foot contusion",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants running back Najee Harris had 11 carries for 39 rushing yards and added one reception for an additional 20 yards in Friday's 23-6 preseason win against the New York Jets. It was the first game the 28-year-old participated in since tearing his Achilles tendon in Week 3 of last year when he played for the Los Angeles Chargers. Harris is expected to play a significant role in the Cam Skattebo-led running back corps for the Giants, especially since Tyrone Tracy Jr. (neck) left Friday's preseason finale after being injured. The former Alabama product and 24th overall pick by the Pittsburgh Steelers in 2021 logged over 1,000 rushing yards in four straight seasons before last season's Achilles injury held him to just three games and 15 carries. RotoBaller ranks Harris at RB60 in the positional rankings, but he could end up being more valuable if Tracy or Skattebo are sidelined by injuries. Harris could offer fantasy managers insurance as an RB3 this season.",
+      "metadata": {
+        "description": "New York Giants running back Najee Harris had 11 carries for 39 rushing yards and added one reception for an additional 20 yards in Friday's 23-6 preseason win against the New York Jets. It was the first game the 28-year-old participated in since tearing his Achilles tendon in Week 3 of last year when he played for the Los Angeles Chargers. Harris is expected to play a significant role in the Cam Skattebo-led running back corps for the Giants, especially since Tyrone Tracy Jr. (neck) left Friday's preseason finale after being injured. The former Alabama product and 24th overall pick by the Pittsburgh Steelers in 2021 logged over 1,000 rushing yards in four straight seasons before last season's Achilles injury held him to just three games and 15 carries. RotoBaller ranks Harris at RB60 in the positional rankings, but he could end up being more valuable if Tracy or Skattebo are sidelined by injuries. Harris could offer fantasy managers insurance as an RB3 this season.",
+        "title": "Najee Harris Has 12 Touches in Giants' Preseason Debut",
+        "topic_id": "1399481699464679424",
+        "url": "https://www.rotoballer.com/player-news/najee-harris-has-12-touches-in-giants-preseason-debut/1919185"
+      },
+      "nfl_team": "NYG",
+      "player_id": "7528",
+      "player_name": "Najee Harris",
+      "position": "RB",
+      "published": 1788010213000,
+      "source": "rotoballer",
+      "source_key": "219663",
+      "story_id": "nfl|7528|rotoballer|219663|1788010213000",
+      "title": "Najee Harris Has 12 Touches in Giants' Preseason Debut",
+      "url": "https://www.rotoballer.com/player-news/najee-harris-has-12-touches-in-giants-preseason-debut/1919185"
     },
     {
       "analysis": null,

@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1298**
-- Newly captured: **0**
+- Stored stories: **1299**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -17,6 +17,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowles is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.
 - **Marvin Mims** — Marvin Mims - Dealing with foot contusion (2026-08-29T14:24:03Z)
   - Mims sustained the injury early in the first quarter and was listed as questionable to return after going to the locker room, but he didn't end up taking another snap in Friday's exhibition contest. It doesn't appear to be a serious injury, but his practice participation over the coming weeks will determine whether he'll suit up for Denver's Week 1 clash against Kansas City on Monday, Sept. 14.
+- **NEW — Najee Harris** — Najee Harris Has 12 Touches in Giants' Preseason Debut (2026-08-29T13:30:13Z)
+  - Source: https://www.rotoballer.com/player-news/najee-harris-has-12-touches-in-giants-preseason-debut/1919185
 - **Alec Pierce** — Alec Pierce Out for Colts' Preseason Finale (2026-08-29T13:08:10Z)
   - Source: https://www.rotoballer.com/player-news/alec-pierce-out-for-colts-preseason-finale/1919167
 - **J.J. McCarthy** — J.J. McCarthy Projected to be Left Off 53-Man Roster (2026-08-29T12:45:08Z)
@@ -205,5 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/dalton-schultz-back-in-the-late-round-conversation/1918615
 - **Kenny Gainwell** — Kenny Gainwell Could Lead Buccaneers in All-Purpose Yards (2026-08-28T15:14:07Z)
   - Source: https://www.rotoballer.com/player-news/kenneth-gainwell-could-lead-buccaneers-in-all-purpose-yards/1918599
-- **Jauan Jennings** — Jauan Jennings Faces a Tighter Path to Targets (2026-08-28T14:46:08Z)
-  - Source: https://www.rotoballer.com/player-news/jauan-jennings-faces-a-tighter-path-to-targets/1918562
