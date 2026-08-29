@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-08-29T13:20:44Z",
+  "last_checked_at": "2026-08-29T13:42:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [
-    "nfl|5850|rotoballer|219633|1787994788000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -18,7 +16,7 @@
       "description": "One day after Green Bay Packers running back Josh Jacobs was formally charged with two misdemeanors stemming from an alleged incident that led to his arrest in May, head coach Matt LaFleur addressed his standing with the team. \"Well, I fully anticipate him being a member of our team,\" LaFleur told the media on Friday. \"You've got to let everything play out,\" he continued. \"But I anticipate him being a member of our football team.\" Jacobs was charged with battery and criminal damage to property, and the NFL does not need to wait for the legal process to play out before deciding whether to suspend him, with a league spokesperson saying on Wednesday that his case \"remains under review.\" When healthy and available, Jacobs is one of the biggest fantasy difference-makers at the position, but uncertainty around his situation has pushed him to RB16 by current ADP.",
       "metadata": {
         "description": "One day after Green Bay Packers running back Josh Jacobs was formally charged with two misdemeanors stemming from an alleged incident that led to his arrest in May, head coach Matt LaFleur addressed his standing with the team. \"Well, I fully anticipate him being a member of our team,\" LaFleur told the media on Friday. \"You've got to let everything play out,\" he continued. \"But I anticipate him being a member of our football team.\" Jacobs was charged with battery and criminal damage to property, and the NFL does not need to wait for the legal process to play out before deciding whether to suspend him, with a league spokesperson saying on Wednesday that his case \"remains under review.\" When healthy and available, Jacobs is one of the biggest fantasy difference-makers at the position, but uncertainty around his situation has pushed him to RB16 by current ADP.",
-        "title": "Packers \"Fully Anticipate\" Josh Jacobs will Remain on Roster",
+        "title": "Packers \"Fully Anticipate\" Josh Jacobs Will Remain on Roster",
         "topic_id": "1399416260688683008",
         "url": "https://www.rotoballer.com/player-news/packers-fully-anticipate-josh-jacobs-will-remain-on-roster/1919011"
       },
@@ -30,7 +28,7 @@
       "source": "rotoballer",
       "source_key": "219633",
       "story_id": "nfl|5850|rotoballer|219633|1787994788000",
-      "title": "Packers \"Fully Anticipate\" Josh Jacobs will Remain on Roster",
+      "title": "Packers \"Fully Anticipate\" Josh Jacobs Will Remain on Roster",
       "url": "https://www.rotoballer.com/player-news/packers-fully-anticipate-josh-jacobs-will-remain-on-roster/1919011"
     },
     {

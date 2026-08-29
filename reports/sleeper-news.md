@@ -3,11 +3,11 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1283**
-- Newly captured: **1**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Josh Jacobs** — Packers "Fully Anticipate" Josh Jacobs will Remain on Roster (2026-08-29T09:13:08Z)
+- **Josh Jacobs** — Packers "Fully Anticipate" Josh Jacobs Will Remain on Roster (2026-08-29T09:13:08Z)
   - Source: https://www.rotoballer.com/player-news/packers-fully-anticipate-josh-jacobs-will-remain-on-roster/1919011
 - **Elijah Sarratt** — Elijah Sarratt - Just one catch again Friday (2026-08-29T06:42:36Z)
   - The 2026 fourth-round pick made a splash in the Ravens' preseason opener, but Sarratt managed just two catches for four yards in the final two exhibition games. Third-round rookie Ja'Kobi Lane has been the star of training camp and seems to have the No. 3 wideout job locked down, leaving Sarratt competing with the likes of Devontez Walker, Chris Moore and LaJohntay Wester just to find a spot on the 53-man roster.
