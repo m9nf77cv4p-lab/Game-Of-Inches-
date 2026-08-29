@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1283**
-- Newly captured: **1**
+- Stored stories: **1285**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Makai Lemon** — Makai Lemon Struggles to Shake Off the Rust in Preseason Debut (2026-08-29T09:38:06Z)
+- **NEW — Emeka Egbuka** — Emeka Egbuka "Hopefully" Available for Week 1, Trailing Other Bucs Receiver in Recovery Timeline (2026-08-29T09:59:07Z)
+  - Source: https://www.rotoballer.com/player-news/emeka-egbuka-hopefully-available-for-week-1-trailing-other-bucs-receiver-in-recovery-timeline/1919044
+- **NEW — Jalen Milroe** — Jalen Milroe Delivers Solid Outing on Friday (2026-08-29T09:54:12Z)
+  - Source: https://www.rotoballer.com/player-news/jalen-milroe-delivers-solid-outing-on-friday/1919040
+- **Makai Lemon** — Makai Lemon Struggles to Shake Off the Rust in Preseason Debut (2026-08-29T09:38:06Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemon-struggles-to-shake-off-the-rust-in-preseason-debut/1919025
 - **Josh Jacobs** — Packers "Fully Anticipate" Josh Jacobs Will Remain on Roster (2026-08-29T09:13:08Z)
   - Source: https://www.rotoballer.com/player-news/packers-fully-anticipate-josh-jacobs-will-remain-on-roster/1919011
@@ -203,7 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/david-montgomery-carries-strong-rb2-appeal/1918408
 - **Malachi Fields** — Malachi Fields Projected to Open Season as Giants' WR2 (2026-08-28T11:43:14Z)
   - Source: https://www.rotoballer.com/player-news/malachi-fields-projected-to-open-season-as-giants-wr2/1918392
-- **J.K. Dobbins** — J.K. Dobbins Back on Track for Lead Role (2026-08-28T11:22:10Z)
-  - Source: https://www.rotoballer.com/player-news/j-k-dobbins-back-on-track-for-lead-role/1918371
-- **Drew Allar** — Drew Allar a Roster Lock Despite Quiet Preseason Finale (2026-08-28T11:20:09Z)
-  - Source: https://www.rotoballer.com/player-news/drew-allar-a-roster-lock-despite-quiet-preseason-finale/1918368
