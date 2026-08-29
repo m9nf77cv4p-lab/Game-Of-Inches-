@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-08-29T04:25:24Z",
+  "last_checked_at": "2026-08-29T04:35:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13287|rotowire|635118|1787976800000",
-    "nfl|13346|rotoballer|219619|1787962213000"
+    "nfl|12526|rotoballer|219620|1787962509000",
+    "nfl|13287|rotoballer|219621|1787963045000",
+    "nfl|13298|rotoballer|219622|1787962809000"
   ],
   "schema_version": 1,
   "source": {
@@ -513,6 +514,66 @@
       "story_id": "nfl|8138|rotowire|635052|1787963211000",
       "title": "James Cook - Sits out preseason finale",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back Jeremiyah Love (ankle) worked with trainers on the field before Friday's preseason finale against the Green Bay Packers, according to Zach Gershman of the team's official website. Love is recovering from a high-ankle sprain that he suffered two weeks ago, and he has a chance to play in the Cardinals' regular season opener Sept. 13 against the Los Angeles Chargers. The fact that he was actively working out on the field with trainers is a good sign as he continues to make progress in his recovery. We'd be thrilled to see the No. 3 pick on the field for Week 1, but it's also important that the Cardinals don't rush him back before he's ready. In the event that he can't start at running back against the Chargers, Tyler Allgeier would likely handle starting duties. Once Love does get back in action, he should rank as a consistent high-end RB2 option in fantasy football. He currently has an ADP of 29.2, which corresponds to the third round of fantasy drafts and makes him the 13th running back off the board.",
+      "metadata": {
+        "description": "Arizona Cardinals running back Jeremiyah Love (ankle) worked with trainers on the field before Friday's preseason finale against the Green Bay Packers, according to Zach Gershman of the team's official website. Love is recovering from a high-ankle sprain that he suffered two weeks ago, and he has a chance to play in the Cardinals' regular season opener Sept. 13 against the Los Angeles Chargers. The fact that he was actively working out on the field with trainers is a good sign as he continues to make progress in his recovery. We'd be thrilled to see the No. 3 pick on the field for Week 1, but it's also important that the Cardinals don't rush him back before he's ready. In the event that he can't start at running back against the Chargers, Tyler Allgeier would likely handle starting duties. Once Love does get back in action, he should rank as a consistent high-end RB2 option in fantasy football. He currently has an ADP of 29.2, which corresponds to the third round of fantasy drafts and makes him the 13th running back off the board.",
+        "title": "Jeremiyah Love Works with Trainers Before Preseason Finale",
+        "topic_id": "1399284125008924672",
+        "url": "https://www.rotoballer.com/player-news/jeremiyah-love-works-with-trainers-before-preseason-finale/1918932"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1787963045000,
+      "source": "rotoballer",
+      "source_key": "219621",
+      "story_id": "nfl|13287|rotoballer|219621|1787963045000",
+      "title": "Jeremiyah Love Works with Trainers Before Preseason Finale",
+      "url": "https://www.rotoballer.com/player-news/jeremiyah-love-works-with-trainers-before-preseason-finale/1918932"
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns wide receiver KC Concepcion has a very high ceiling in dynasty fantasy football leagues, but he also possesses legitimate redraft appeal for the 2026 season. A first-round pick out of Texas A&M, Concepcion put together a strong training camp and sat out Week 3 of the preseason, which suggests that he'll open the regular season as the No. 2 receiver on the Browns' depth chart behind Jerry Jeudy. With that being said, Jeudy struggled to the tune of 50 catches, 602 yards, and two touchdowns across 17 games last year, so Concepcion has a very real chance to lead the receiver room in all three categories. Even with Deshaun Watson (and perhaps Shedeur Sanders, eventually) installed as the starting quarterback, Concepcion should have the skill set to overcome subpar quarterback play and maintain a WR3/flex floor throughout his rookie season. He ranks as RotoBaller's WR47, and he currently has an ADP of 120.2. On average, he's the 50th wide receiver to come off the board in fantasy drafts, so he's a potential steal at his price tag if managers agree that he has top-36 value.",
+      "metadata": {
+        "description": "Cleveland Browns wide receiver KC Concepcion has a very high ceiling in dynasty fantasy football leagues, but he also possesses legitimate redraft appeal for the 2026 season. A first-round pick out of Texas A&M, Concepcion put together a strong training camp and sat out Week 3 of the preseason, which suggests that he'll open the regular season as the No. 2 receiver on the Browns' depth chart behind Jerry Jeudy. With that being said, Jeudy struggled to the tune of 50 catches, 602 yards, and two touchdowns across 17 games last year, so Concepcion has a very real chance to lead the receiver room in all three categories. Even with Deshaun Watson (and perhaps Shedeur Sanders, eventually) installed as the starting quarterback, Concepcion should have the skill set to overcome subpar quarterback play and maintain a WR3/flex floor throughout his rookie season. He ranks as RotoBaller's WR47, and he currently has an ADP of 120.2. On average, he's the 50th wide receiver to come off the board in fantasy drafts, so he's a potential steal at his price tag if managers agree that he has top-36 value.",
+        "title": "KC Concepcion Still a Redraft Target Despite Some Quarterback Concerns",
+        "topic_id": "1399284125008924673",
+        "url": "https://www.rotoballer.com/player-news/kc-concepcion-still-a-redraft-target-despite-some-quarterback-concerns/1918930"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13298",
+      "player_name": "KC Concepcion",
+      "position": "WR",
+      "published": 1787962809000,
+      "source": "rotoballer",
+      "source_key": "219622",
+      "story_id": "nfl|13298|rotoballer|219622|1787962809000",
+      "title": "KC Concepcion Still a Redraft Target Despite Some Quarterback Concerns",
+      "url": "https://www.rotoballer.com/player-news/kc-concepcion-still-a-redraft-target-despite-some-quarterback-concerns/1918930"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers wide receiver Tetairoa McMillan currently has an ADP of 40 in fantasy football redraft leagues. That corresponds to the middle of the fourth round, and it makes him the 18th receiver to come off the board. He's being drafted just a couple of spots later than Tee Higgins, in line with Garrett Wilson, and a few picks before Emeka Egbuka, Jaylen Waddle, Terry McLaurin, and Davante Adams. That's a reasonable price tag for McMillan, who caught 70 passes for 1,014 yards and seven touchdowns as a rookie last year. He finished his first NFL season as the WR16 in PPR leagues, forming a strong rapport with quarterback Bryce Young in a Panthers offense that is trending upward. Fortunately, McMillan remains the undisputed No. 1 receiver in Carolina, and the team didn't bring in any major pass catchers who would steal targets from him. Assuming he stays healthy for a full 17-game stretch this year, he should have no trouble replicating (or even improving upon) the stats from his rookie season last year.",
+      "metadata": {
+        "description": "Carolina Panthers wide receiver Tetairoa McMillan currently has an ADP of 40 in fantasy football redraft leagues. That corresponds to the middle of the fourth round, and it makes him the 18th receiver to come off the board. He's being drafted just a couple of spots later than Tee Higgins, in line with Garrett Wilson, and a few picks before Emeka Egbuka, Jaylen Waddle, Terry McLaurin, and Davante Adams. That's a reasonable price tag for McMillan, who caught 70 passes for 1,014 yards and seven touchdowns as a rookie last year. He finished his first NFL season as the WR16 in PPR leagues, forming a strong rapport with quarterback Bryce Young in a Panthers offense that is trending upward. Fortunately, McMillan remains the undisputed No. 1 receiver in Carolina, and the team didn't bring in any major pass catchers who would steal targets from him. Assuming he stays healthy for a full 17-game stretch this year, he should have no trouble replicating (or even improving upon) the stats from his rookie season last year.",
+        "title": "Tetairoa McMillan Being Drafted as a Mid-Range WR2",
+        "topic_id": "1399282865459507200",
+        "url": "https://www.rotoballer.com/player-news/tetairoa-mcmillan-being-drafted-as-a-mid-range-wr2/1918927"
+      },
+      "nfl_team": "CAR",
+      "player_id": "12526",
+      "player_name": "Tetairoa McMillan",
+      "position": "WR",
+      "published": 1787962509000,
+      "source": "rotoballer",
+      "source_key": "219620",
+      "story_id": "nfl|12526|rotoballer|219620|1787962509000",
+      "title": "Tetairoa McMillan Being Drafted as a Mid-Range WR2",
+      "url": "https://www.rotoballer.com/player-news/tetairoa-mcmillan-being-drafted-as-a-mid-range-wr2/1918927"
     },
     {
       "analysis": null,
