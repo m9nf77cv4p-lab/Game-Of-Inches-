@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T19:42:42Z",
+  "last_checked_at": "2026-08-29T19:52:56Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|8146|rotoballer|219669|1788017348000"
+    "nfl|12507|rotoballer|219670|1788018009000"
   ],
   "schema_version": 1,
   "source": {
@@ -157,6 +157,26 @@
       "story_id": "nfl|8142|rotowire|635171|1788021762000",
       "title": "Alec Pierce - Working out but will sit Saturday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers running back Omarion Hampton is eyeing a breakout year in 2026. The 23-year-old is coming of a injury riddled rookie season where he finished as the RB12 in fantasy points per game (15.1) out of running backs who played in at least nine games. This season he will have an improved offensive line to run behind and new offensive coordinator Mike McDaniel to run for. McDaniel has produced a top-5 fantasy running back in each of the last three seasons, with four running backs averaging over 17 fantasy points per game. Additionally, McDaniel weaponized the running back position in Miami with De'Von Achane seeing 85-plus targets, 480-plus receiving yards, and catching at least four receiving touchdowns in each of his last two seasons. Hampton has had a strong offseason and received praise from his coaches all summer. It is within his range of outcomes this season to finish as a top 5 running back in fantasy football.",
+      "metadata": {
+        "description": "Los Angeles Chargers running back Omarion Hampton is eyeing a breakout year in 2026. The 23-year-old is coming of a injury riddled rookie season where he finished as the RB12 in fantasy points per game (15.1) out of running backs who played in at least nine games. This season he will have an improved offensive line to run behind and new offensive coordinator Mike McDaniel to run for. McDaniel has produced a top-5 fantasy running back in each of the last three seasons, with four running backs averaging over 17 fantasy points per game. Additionally, McDaniel weaponized the running back position in Miami with De'Von Achane seeing 85-plus targets, 480-plus receiving yards, and catching at least four receiving touchdowns in each of his last two seasons. Hampton has had a strong offseason and received praise from his coaches all summer. It is within his range of outcomes this season to finish as a top 5 running back in fantasy football.",
+        "title": "Omarion Hampton Set to Breakout in His Sophomore Season",
+        "topic_id": "1399514421604196352",
+        "url": "https://www.rotoballer.com/player-news/omarion-hampton-set-to-breakout-in-his-sophomore-season/1919259"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12507",
+      "player_name": "Omarion Hampton",
+      "position": "RB",
+      "published": 1788018009000,
+      "source": "rotoballer",
+      "source_key": "219670",
+      "story_id": "nfl|12507|rotoballer|219670|1788018009000",
+      "title": "Omarion Hampton Set to Breakout in His Sophomore Season",
+      "url": "https://www.rotoballer.com/player-news/omarion-hampton-set-to-breakout-in-his-sophomore-season/1919259"
     },
     {
       "analysis": null,
