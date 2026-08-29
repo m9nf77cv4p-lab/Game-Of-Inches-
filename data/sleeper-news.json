@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-08-29T21:43:04Z",
+  "last_checked_at": "2026-08-29T22:03:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|1166|rotowire|635219|1788039029000",
-    "nfl|8112|rotowire|635220|1788039139000"
+    "nfl|11539|rotowire|635223|1788040412000",
+    "nfl|13320|rotowire|635226|1788040796000",
+    "nfl|9229|rotowire|635225|1788040778000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Branch didn't see much action Friday, playing a total of four snaps (three on offense, one on special teams). However, his lone snap on special teams came as a punt returner, and he figures to see plenty of work as a returner in the upcoming season, especially if he doesn't get much playing time on offense behind Drake London, Jahan Dotson and Olamide Zaccheaus.",
+      "description": "Branch returned a punt for 18 yards during the Falcons' 17-12 preseason win over the Dolphins on Friday.",
+      "metadata": {
+        "analysis": "Branch didn't see much action Friday, playing a total of four snaps (three on offense, one on special teams). However, his lone snap on special teams came as a punt returner, and he figures to see plenty of work as a returner in the upcoming season, especially if he doesn't get much playing time on offense behind Drake London, Jahan Dotson and Olamide Zaccheaus.",
+        "description": "Branch returned a punt for 18 yards during the Falcons' 17-12 preseason win over the Dolphins on Friday.",
+        "title": "Zachariah Branch - Returns punt in preseason win",
+        "topic_id": "1399548400369725440"
+      },
+      "nfl_team": "ATL",
+      "player_id": "13320",
+      "player_name": "Zachariah Branch",
+      "position": "WR",
+      "published": 1788040796000,
+      "source": "rotowire",
+      "source_key": "635226",
+      "story_id": "nfl|13320|rotowire|635226|1788040796000",
+      "title": "Zachariah Branch - Returns punt in preseason win",
+      "url": null
+    },
+    {
+      "analysis": "The 2023 first-round pick got the start in the Colts' preseason finale and led the team to field goals on his first two drives, but Riley Leonard came on in the second quarter and produced Indy's only TD of the afternoon. Richardson did avoid committing any turnovers, but Saturday's performances didn't do much to clarify who will begin the season as Daniel Jones' backup.",
+      "description": "Richardson completed seven of 10 passes for 80 yards without a touchdown or an interception in Saturday's 25-16 preseason loss to the Lions. He gained zero yards on his only carry.",
+      "metadata": {
+        "analysis": "The 2023 first-round pick got the start in the Colts' preseason finale and led the team to field goals on his first two drives, but Riley Leonard came on in the second quarter and produced Indy's only TD of the afternoon. Richardson did avoid committing any turnovers, but Saturday's performances didn't do much to clarify who will begin the season as Daniel Jones' backup.",
+        "description": "Richardson completed seven of 10 passes for 80 yards without a touchdown or an interception in Saturday's 25-16 preseason loss to the Lions. He gained zero yards on his only carry.",
+        "title": "Anthony Richardson - Efficient in final exhibition game",
+        "topic_id": "1399548400306810880"
+      },
+      "nfl_team": "IND",
+      "player_id": "9229",
+      "player_name": "Anthony Richardson",
+      "position": "QB",
+      "published": 1788040778000,
+      "source": "rotowire",
+      "source_key": "635225",
+      "story_id": "nfl|9229|rotowire|635225|1788040778000",
+      "title": "Anthony Richardson - Efficient in final exhibition game",
+      "url": null
+    },
+    {
+      "analysis": "The Lions scored four touchdowns on the afternoon but failed on a two-point conversion on one of them. Bates hasn't looked great this preseason and converted a subpar 79.4 percent of his FG attempts in 2025, but as yet there's been no suggestion his spot is in jeopardy. Detroit's high-powered offense offers Bates a reliable floor in terms of PAT volume, but the unit's efficiency also limits his FG volume, and his fantasy ceiling -- he reached double-digit points in just seven of 17 regular-season games last season.",
+      "description": "Bates didn't get a field-goal attempt and went just 1-for-3 on extra-point attempts in Saturday's 25-16 preseason win over the Colts.",
+      "metadata": {
+        "analysis": "The Lions scored four touchdowns on the afternoon but failed on a two-point conversion on one of them. Bates hasn't looked great this preseason and converted a subpar 79.4 percent of his FG attempts in 2025, but as yet there's been no suggestion his spot is in jeopardy. Detroit's high-powered offense offers Bates a reliable floor in terms of PAT volume, but the unit's efficiency also limits his FG volume, and his fantasy ceiling -- he reached double-digit points in just seven of 17 regular-season games last season.",
+        "description": "Bates didn't get a field-goal attempt and went just 1-for-3 on extra-point attempts in Saturday's 25-16 preseason win over the Colts.",
+        "title": "Jake Bates - Rough performance in preseason finale",
+        "topic_id": "1399548400302616576"
+      },
+      "nfl_team": "DET",
+      "player_id": "11539",
+      "player_name": "Jake Bates",
+      "position": "K",
+      "published": 1788040412000,
+      "source": "rotowire",
+      "source_key": "635223",
+      "story_id": "nfl|11539|rotowire|635223|1788040412000",
+      "title": "Jake Bates - Rough performance in preseason finale",
+      "url": null
+    },
     {
       "analysis": "London was limited to playing the first quarter of Friday's exhibition game before observing the rest of the contest from the sidelines. Entering his fifth NFL season, the USC product has recorded at least 68 catches and 850 receiving yards in each of his four years with Atlanta. London has been one of the most productive receivers since entering the league in 2022, but his offensive output will be heavily tied to the production of the Falcons' starting quarterback, whether that's Tua Tagovailoa or Michael Penix (knee).",
       "description": "London played eight snaps on offense and didn't show up in the box score otherwise during the Falcons' 17-12 preseason win over the Dolphins on Friday.",

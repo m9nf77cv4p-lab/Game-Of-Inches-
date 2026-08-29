@@ -2,14 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1314**
-- Newly captured: **2**
+- Stored stories: **1317**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Drake London** — Drake London - Sees minimal work vs. Miami (2026-08-29T21:32:19Z)
+- **NEW — Zachariah Branch** — Zachariah Branch - Returns punt in preseason win (2026-08-29T21:59:56Z)
+  - Branch didn't see much action Friday, playing a total of four snaps (three on offense, one on special teams). However, his lone snap on special teams came as a punt returner, and he figures to see plenty of work as a returner in the upcoming season, especially if he doesn't get much playing time on offense behind Drake London, Jahan Dotson and Olamide Zaccheaus.
+- **NEW — Anthony Richardson** — Anthony Richardson - Efficient in final exhibition game (2026-08-29T21:59:38Z)
+  - The 2023 first-round pick got the start in the Colts' preseason finale and led the team to field goals on his first two drives, but Riley Leonard came on in the second quarter and produced Indy's only TD of the afternoon. Richardson did avoid committing any turnovers, but Saturday's performances didn't do much to clarify who will begin the season as Daniel Jones' backup.
+- **NEW — Jake Bates** — Jake Bates - Rough performance in preseason finale (2026-08-29T21:53:32Z)
+  - The Lions scored four touchdowns on the afternoon but failed on a two-point conversion on one of them. Bates hasn't looked great this preseason and converted a subpar 79.4 percent of his FG attempts in 2025, but as yet there's been no suggestion his spot is in jeopardy. Detroit's high-powered offense offers Bates a reliable floor in terms of PAT volume, but the unit's efficiency also limits his FG volume, and his fantasy ceiling -- he reached double-digit points in just seven of 17 regular-season games last season.
+- **Drake London** — Drake London - Sees minimal work vs. Miami (2026-08-29T21:32:19Z)
   - London was limited to playing the first quarter of Friday's exhibition game before observing the rest of the contest from the sidelines. Entering his fifth NFL season, the USC product has recorded at least 68 catches and 850 receiving yards in each of his four years with Atlanta. London has been one of the most productive receivers since entering the league in 2022, but his offensive output will be heavily tied to the production of the Falcons' starting quarterback, whether that's Tua Tagovailoa or Michael Penix (knee).
-- **NEW — Kirk Cousins** — Kirk Cousins - Expected to be named starter (2026-08-29T21:30:29Z)
+- **Kirk Cousins** — Kirk Cousins - Expected to be named starter (2026-08-29T21:30:29Z)
   - Raiders coach Klint Kubiak had refused to announce a decision on Las Vegas' Week 1 quarterback throughout the preseason, but Cousins has been listed as the No. 1 QB on the team's depth chart during training camp and the exhibition slate. The veteran signal-caller was also more effective than rookie No. 1 draft pick Fernando Mendoza during preseason play, completing 13 of 17 passes for 101 yards and a touchdown with no interceptions to Mendoza's 25-for-45 line with one TD and two pickoffs. Cousins will thus have the first opportunity to helm the Raiders offense, which features an elite tight end in Brock Bowers but one of the NFL's shallowest wide-receiver corps. Should Cousins and/or the team struggle, Mendoza could eventually be given a chance to start later in the campaign, though it's certainly possible he'll be asked to observe and learn from the bench for his entire rookie season.
 - **Marvin Mims** — Marvin Mims Jr. suffers bruised foot (2026-08-29T18:05:49.497000Z)
   - Mims avoids a serious injury. He is expected to be fine with just a couple of weeks until the season. 
@@ -206,9 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/saquon-barkley-has-another-big-year-ahead-of-him/1918877
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Sitting out Friday's preseason game (2026-08-28T21:43:40Z)
   - On Aug. 20, Croskey-Merritt pulled up at the end of a catch and run in practice due to a lower-body injury, which now will keep him out of the Commanders' final two exhibitions. He focused on rehab work on the side this week, with the intent to return to practice at some point next week. Rachaad White (hamstring) and Jeremy McNichols (quadriceps) also aren't in uniform Friday, meaning rookie sixth-rounder Kaytron Allen, Robert Henry and Craig Reynolds are the team's available RBs for preseason Week 3.
-- **Marvin Mims** — Marvin Mims Jr. Leaves Early on Friday With Foot Injury (2026-08-28T21:43:06Z)
-  - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-leaves-early-on-friday-with-foot-injury/1918873
-- **Jared Goff** — Jared Goff a Dependable Mid-Round Quarterback for Fantasy Managers (2026-08-28T21:39:48Z)
-  - Source: https://www.rotoballer.com/player-news/jared-goff-a-dependable-mid-round-quarterback-for-fantasy-managers/1918871
-- **Isaiah Likely** — Isaiah Likely a Potential Steal at Current ADP (2026-08-28T21:35:45Z)
-  - Source: https://www.rotoballer.com/player-news/isaiah-likely-a-potential-steal-at-current-adp/1918869
