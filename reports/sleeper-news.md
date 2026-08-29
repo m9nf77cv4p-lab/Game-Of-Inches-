@@ -3,13 +3,13 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1285**
-- Newly captured: **2**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Emeka Egbuka** — Emeka Egbuka "Hopefully" Available for Week 1, Trailing Other Bucs Receiver in Recovery Timeline (2026-08-29T09:59:07Z)
+- **Emeka Egbuka** — Emeka Egbuka "Hopefully" Available for Week 1 (2026-08-29T09:59:07Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-hopefully-available-for-week-1-trailing-other-bucs-receiver-in-recovery-timeline/1919044
-- **NEW — Jalen Milroe** — Jalen Milroe Delivers Solid Outing on Friday (2026-08-29T09:54:12Z)
+- **Jalen Milroe** — Jalen Milroe Delivers Solid Outing on Friday (2026-08-29T09:54:12Z)
   - Source: https://www.rotoballer.com/player-news/jalen-milroe-delivers-solid-outing-on-friday/1919040
 - **Makai Lemon** — Makai Lemon Struggles to Shake Off the Rust in Preseason Debut (2026-08-29T09:38:06Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemon-struggles-to-shake-off-the-rust-in-preseason-debut/1919025

@@ -1,11 +1,8 @@
 {
-  "last_checked_at": "2026-08-29T14:11:21Z",
+  "last_checked_at": "2026-08-29T14:30:38Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [
-    "nfl|12510|rotoballer|219638|1787997252000",
-    "nfl|12514|rotoballer|219640|1787997547000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -19,7 +16,7 @@
       "description": "Tampa Bay Buccaneers head coach Todd Bowles met with the media on Saturday, and while he expressed hope that second-year wide receiver Emeka Egbuka (toe) will be ready for Week 1, further context suggests he could still be dealing with something significant. Team reporter Greg Auman points out the difference in language after Bowles told the media in the same session that he expects Jalen McMillan (knee) to be ready for the season opener while adding a \"hopefully\" to Egbuka's update. Bowles did say that he does not anticipate adding any additional receivers to offset the short-term injuries, but with the Buccaneers' first game of the season just over two weeks away, Egbuka's status will need to be monitored, particularly when the team is required to provide its first practice report the Wednesday before kickoff.",
       "metadata": {
         "description": "Tampa Bay Buccaneers head coach Todd Bowles met with the media on Saturday, and while he expressed hope that second-year wide receiver Emeka Egbuka (toe) will be ready for Week 1, further context suggests he could still be dealing with something significant. Team reporter Greg Auman points out the difference in language after Bowles told the media in the same session that he expects Jalen McMillan (knee) to be ready for the season opener while adding a \"hopefully\" to Egbuka's update. Bowles did say that he does not anticipate adding any additional receivers to offset the short-term injuries, but with the Buccaneers' first game of the season just over two weeks away, Egbuka's status will need to be monitored, particularly when the team is required to provide its first practice report the Wednesday before kickoff.",
-        "title": "Emeka Egbuka \"Hopefully\" Available for Week 1, Trailing Other Bucs Receiver in Recovery Timeline",
+        "title": "Emeka Egbuka \"Hopefully\" Available for Week 1",
         "topic_id": "1399428844879888384",
         "url": "https://www.rotoballer.com/player-news/emeka-egbuka-hopefully-available-for-week-1-trailing-other-bucs-receiver-in-recovery-timeline/1919044"
       },
@@ -31,7 +28,7 @@
       "source": "rotoballer",
       "source_key": "219640",
       "story_id": "nfl|12514|rotoballer|219640|1787997547000",
-      "title": "Emeka Egbuka \"Hopefully\" Available for Week 1, Trailing Other Bucs Receiver in Recovery Timeline",
+      "title": "Emeka Egbuka \"Hopefully\" Available for Week 1",
       "url": "https://www.rotoballer.com/player-news/emeka-egbuka-hopefully-available-for-week-1-trailing-other-bucs-receiver-in-recovery-timeline/1919044"
     },
     {
