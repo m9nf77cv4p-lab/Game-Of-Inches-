@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1249**
-- Newly captured: **4**
+- Stored stories: **1250**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -57,17 +57,19 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, as he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.
 - **J.J. McCarthy** — J.J. McCarthy - Won't play Friday (2026-08-28T22:33:57Z)
   - McCarthy emerged from preseason Week 2 with an ankle injury, and while the Vikings were hopeful that he'd be able to play in the team's final exhibition, he'll instead remain in street clothes. After losing out on the starting QB job to Kyler Murray in early August, McCarthy has been serving as the backup in the meantime. Carson Wentz and Max Brosmer are the likely candidates to be under center for Minnesota on Friday.
+- **NEW — Tyrone Tracy** — Tyrone Tracy Jr. Clears Concussion Protocol, Still Won't Return Friday (2026-08-28T21:51:07Z)
+  - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-clears-concussion-protocol-still-wont-return-friday/1918879
 - **Rachaad White** — Rachaad White - Won't play Friday (2026-08-28T21:47:19Z)
   - White has been tending to a hamstring injury since Aug. 19 that will keep him sidelined for the Commanders' final two exhibitions. He was able to mix into individual drills as recently as Monday, though, so he's making progress in his recovery. White will join No. 1 RB Jacory Croskey-Merritt (lower body) and Jeremy McNichols (quadriceps) on the sideline Friday.
-- **NEW — Saquon Barkley** — Saquon Barkley Has Another Big Year Ahead of Him (2026-08-28T21:46:06Z)
+- **Saquon Barkley** — Saquon Barkley Has Another Big Year Ahead of Him (2026-08-28T21:46:06Z)
   - Source: https://www.rotoballer.com/player-news/saquon-barkley-has-another-big-year-ahead-of-him/1918877
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Sitting out Friday's preseason game (2026-08-28T21:43:40Z)
   - On Aug. 20, Croskey-Merritt pulled up at the end of a catch and run in practice due to a lower-body injury, which now will keep him out of the Commanders' final two exhibitions. He focused on rehab work on the side this week, with the intent to return to practice at some point next week. Rachaad White (hamstring) and Jeremy McNichols (quadriceps) also aren't in uniform Friday, meaning rookie sixth-rounder Kaytron Allen, Robert Henry and Craig Reynolds are the team's available RBs for preseason Week 3.
-- **NEW — Marvin Mims** — Marvin Mims Jr. Leaves Early on Friday With Foot Injury (2026-08-28T21:43:06Z)
+- **Marvin Mims** — Marvin Mims Jr. Leaves Early on Friday With Foot Injury (2026-08-28T21:43:06Z)
   - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-leaves-early-on-friday-with-foot-injury/1918873
-- **NEW — Jared Goff** — Jared Goff a Dependable Mid-Round Quarterback for Fantasy Managers (2026-08-28T21:39:48Z)
+- **Jared Goff** — Jared Goff a Dependable Mid-Round Quarterback for Fantasy Managers (2026-08-28T21:39:48Z)
   - Source: https://www.rotoballer.com/player-news/jared-goff-a-dependable-mid-round-quarterback-for-fantasy-managers/1918871
-- **NEW — Isaiah Likely** — Isaiah Likely a Potential Steal at Current ADP (2026-08-28T21:35:45Z)
+- **Isaiah Likely** — Isaiah Likely a Potential Steal at Current ADP (2026-08-28T21:35:45Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-likely-a-potential-steal-at-current-adp/1918869
 - **Joe Burrow** — Joe Burrow Has a Hefty Price Tag with Some Injury Risk (2026-08-28T21:22:11Z)
   - Source: https://www.rotoballer.com/player-news/joe-burrow-has-a-hefty-price-tag-with-some-injury-risk/1918859
@@ -205,5 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Brown thus won't see any game action during this exhibition season. He's expected to serve as the top target for QB Drake Maye in 2026, considering the key asset (a 2028 first-round pick) sent to Philadelphia to gain his services. In seven campaigns as a pro, Brown has surpassed 1,000 receiving yards six times while racking up 58 total TDs in 105 regular-season contests.
 - **Hunter Henry** — Hunter Henry Expected to Play a Very Important Role Again in 2026 (2026-08-27T23:47:10Z)
   - Source: https://www.rotoballer.com/player-news/hunter-henry-expected-to-play-a-very-important-role-again-in-2026/1918074
-- **Kaleb Johnson** — Kaleb Johnson Projected to be Released by Steelers (2026-08-27T23:42:07Z)
-  - Source: https://www.rotoballer.com/player-news/kaleb-johnson-projected-to-be-released-by-steelers/1918070

@@ -1,12 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T01:53:35Z",
+  "last_checked_at": "2026-08-29T02:03:37Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|3163|rotoballer|219606|1787953188000",
-    "nfl|4866|rotoballer|219608|1787953566000",
-    "nfl|8131|rotoballer|219607|1787952945000",
-    "nfl|9494|rotoballer|219609|1787953386000"
+    "nfl|11655|rotoballer|219610|1787953867000"
   ],
   "schema_version": 1,
   "source": {
@@ -515,6 +512,26 @@
       "story_id": "nfl|11565|rotowire|635027|1787956437000",
       "title": "J.J. McCarthy - Won't play Friday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants running back Tyrone Tracy Jr. (neck) cleared concussion protocol and has returned to the sideline for the remainder of Friday's preseason game against the New York Jets. According to Paul Schwartz of the New York Post, Tracy won't return to the contest, but he's expected to be fine going forward. It sounds like the Giants are just keeping Tracy on the sideline because it's a meaningless preseason game and most of the team's starters have been pulled from the game anyway. Tracy had four carries for 37 rushing yards and a touchdown before his exit. Meanwhile, recently signed running back Najee Harris had 39 rushing yards on 11 carries. It will be interesting to see how this backfield shakes out once the regular season arrives. Presumably, Cam Skattebo will be the lead back, but it would be a waste of talent for the Giants not to give meaningful snaps to Tracy, Harris, and even Devin Singletary. We wouldn't be shocked to see Tracy have weekly standalone value as a low-end RB3/flex, even if he operates as the No. 2 ball-carrier behind Skattebo. He's a decent, proven option at his current ADP of 146.3.",
+      "metadata": {
+        "description": "New York Giants running back Tyrone Tracy Jr. (neck) cleared concussion protocol and has returned to the sideline for the remainder of Friday's preseason game against the New York Jets. According to Paul Schwartz of the New York Post, Tracy won't return to the contest, but he's expected to be fine going forward. It sounds like the Giants are just keeping Tracy on the sideline because it's a meaningless preseason game and most of the team's starters have been pulled from the game anyway. Tracy had four carries for 37 rushing yards and a touchdown before his exit. Meanwhile, recently signed running back Najee Harris had 39 rushing yards on 11 carries. It will be interesting to see how this backfield shakes out once the regular season arrives. Presumably, Cam Skattebo will be the lead back, but it would be a waste of talent for the Giants not to give meaningful snaps to Tracy, Harris, and even Devin Singletary. We wouldn't be shocked to see Tracy have weekly standalone value as a low-end RB3/flex, even if he operates as the No. 2 ball-carrier behind Skattebo. He's a decent, proven option at his current ADP of 146.3.",
+        "title": "Tyrone Tracy Jr. Clears Concussion Protocol, Still Won't Return Friday",
+        "topic_id": "1399245112453701632",
+        "url": "https://www.rotoballer.com/player-news/tyrone-tracy-jr-clears-concussion-protocol-still-wont-return-friday/1918879"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11655",
+      "player_name": "Tyrone Tracy",
+      "position": "RB",
+      "published": 1787953867000,
+      "source": "rotoballer",
+      "source_key": "219610",
+      "story_id": "nfl|11655|rotoballer|219610|1787953867000",
+      "title": "Tyrone Tracy Jr. Clears Concussion Protocol, Still Won't Return Friday",
+      "url": "https://www.rotoballer.com/player-news/tyrone-tracy-jr-clears-concussion-protocol-still-wont-return-friday/1918879"
     },
     {
       "analysis": "White has been tending to a hamstring injury since Aug. 19 that will keep him sidelined for the Commanders' final two exhibitions. He was able to mix into individual drills as recently as Monday, though, so he's making progress in his recovery. White will join No. 1 RB Jacory Croskey-Merritt (lower body) and Jeremy McNichols (quadriceps) on the sideline Friday.",
