@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T08:48:35Z",
+  "last_checked_at": "2026-08-29T13:20:44Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13337|rotoballer|219631|1787978156000"
+    "nfl|5850|rotoballer|219633|1787994788000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "One day after Green Bay Packers running back Josh Jacobs was formally charged with two misdemeanors stemming from an alleged incident that led to his arrest in May, head coach Matt LaFleur addressed his standing with the team. \"Well, I fully anticipate him being a member of our team,\" LaFleur told the media on Friday. \"You've got to let everything play out,\" he continued. \"But I anticipate him being a member of our football team.\" Jacobs was charged with battery and criminal damage to property, and the NFL does not need to wait for the legal process to play out before deciding whether to suspend him, with a league spokesperson saying on Wednesday that his case \"remains under review.\" When healthy and available, Jacobs is one of the biggest fantasy difference-makers at the position, but uncertainty around his situation has pushed him to RB16 by current ADP.",
+      "metadata": {
+        "description": "One day after Green Bay Packers running back Josh Jacobs was formally charged with two misdemeanors stemming from an alleged incident that led to his arrest in May, head coach Matt LaFleur addressed his standing with the team. \"Well, I fully anticipate him being a member of our team,\" LaFleur told the media on Friday. \"You've got to let everything play out,\" he continued. \"But I anticipate him being a member of our football team.\" Jacobs was charged with battery and criminal damage to property, and the NFL does not need to wait for the legal process to play out before deciding whether to suspend him, with a league spokesperson saying on Wednesday that his case \"remains under review.\" When healthy and available, Jacobs is one of the biggest fantasy difference-makers at the position, but uncertainty around his situation has pushed him to RB16 by current ADP.",
+        "title": "Packers \"Fully Anticipate\" Josh Jacobs will Remain on Roster",
+        "topic_id": "1399416260688683008",
+        "url": "https://www.rotoballer.com/player-news/packers-fully-anticipate-josh-jacobs-will-remain-on-roster/1919011"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1787994788000,
+      "source": "rotoballer",
+      "source_key": "219633",
+      "story_id": "nfl|5850|rotoballer|219633|1787994788000",
+      "title": "Packers \"Fully Anticipate\" Josh Jacobs will Remain on Roster",
+      "url": "https://www.rotoballer.com/player-news/packers-fully-anticipate-josh-jacobs-will-remain-on-roster/1919011"
+    },
     {
       "analysis": "The 2026 fourth-round pick made a splash in the Ravens' preseason opener, but Sarratt managed just two catches for four yards in the final two exhibition games. Third-round rookie Ja'Kobi Lane has been the star of training camp and seems to have the No. 3 wideout job locked down, leaving Sarratt competing with the likes of Devontez Walker, Chris Moore and LaJohntay Wester just to find a spot on the 53-man roster.",
       "description": "Sarratt caught one of two targets for only one yard in Friday's 41-3 preseason win over the Commanders.",

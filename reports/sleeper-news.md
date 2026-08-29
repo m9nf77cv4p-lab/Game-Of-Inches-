@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1282**
+- Stored stories: **1283**
 - Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Josh Jacobs** — Packers "Fully Anticipate" Josh Jacobs will Remain on Roster (2026-08-29T09:13:08Z)
+  - Source: https://www.rotoballer.com/player-news/packers-fully-anticipate-josh-jacobs-will-remain-on-roster/1919011
 - **Elijah Sarratt** — Elijah Sarratt - Just one catch again Friday (2026-08-29T06:42:36Z)
   - The 2026 fourth-round pick made a splash in the Ravens' preseason opener, but Sarratt managed just two catches for four yards in the final two exhibition games. Third-round rookie Ja'Kobi Lane has been the star of training camp and seems to have the No. 3 wideout job locked down, leaving Sarratt competing with the likes of Devontez Walker, Chris Moore and LaJohntay Wester just to find a spot on the 53-man roster.
 - **Adam Randall** — Adam Randall - Racks up 70 scrimmage yards Friday (2026-08-29T06:37:59Z)
@@ -25,7 +27,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The second-year tight end had recorded a 36-yard touchdown grab in Sunday's exhibition against the Titans, and Arroyo followed that up with another big play Friday on his 24-yard grab during Seattle's second possession. Arroyo is expected to operate as the No. 2 pass-catching option at tight end behind AJ Barner, but veteran Eric Saubert is expected to see his fair share of snaps as well thanks to his blocking prowess.
 - **Emmett Johnson** — Emmett Johnson - Productive with nine touches Friday (2026-08-29T04:37:50Z)
   - The rookie fifth-round pick put together a strong finish to an encouraging preseason, one where he rushed 26 times for 123 yards and a touchdown and added a 6-35-0 line on seven targets. Johnson's primary competition for a depth role, Brashard Smith, had a productive 16-carry, 72-yard effort in his own right Friday, so it remains to be seen where each will slot on the depth chart behind the top duo of Kenneth Walker (ankle) and Emari Demercado.
-- **NEW — Emmett Johnson** — Emmett Johnson Appears To Be The Chiefs Backup To Roster (2026-08-29T04:35:56Z)
+- **Emmett Johnson** — Emmett Johnson Appears To Be The Chiefs Backup To Roster (2026-08-29T04:35:56Z)
   - Source: https://www.rotoballer.com/player-news/emmett-johnson-appears-to-be-the-chiefs-backup-to-roster/1918962
 - **Jeremiyah Love** — Jeremiyah Love - Continues to progress (2026-08-29T04:13:20Z)
   - Love was able to get in some light work in Wednesday, and he appeared to be moving at a quicker pace a couple days later. It remains unclear if he will be ready to go when the Cardinals open their season against the Chargers, but he will have just over two more weeks to work past the high-ankle sprain he picked up in the first preseason game.
@@ -205,5 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/drew-allar-a-roster-lock-despite-quiet-preseason-finale/1918368
 - **Parker Washington** — Parker Washington Projected to Lead Jaguars in Receiving (2026-08-28T11:12:10Z)
   - Source: https://www.rotoballer.com/player-news/parker-washington-projected-to-lead-jaguars-in-receiving/1918360
-- **Caleb Williams** — Caleb Williams Praised for the Strides He's Taken in the Red Zone (2026-08-28T11:01:09Z)
-  - Source: https://www.rotoballer.com/player-news/caleb-williams-praised-for-the-strides-hes-taken-in-the-red-zone/1918352
