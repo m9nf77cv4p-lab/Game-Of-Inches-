@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1255**
+- Stored stories: **1257**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Cam Little** — Cam Little - Nails 61-yarder Friday (2026-08-29T02:40:42Z)
+- **NEW — Najee Harris** — Najee Harris - Gets 12 touches Friday while Tracy exits (2026-08-29T03:04:46Z)
+  - Harris was the first running back to record a touch for the Giants in Friday's preseason finale, which Cam Skattebo and Devin Singletary sat out. Fellow RB Tyrone Tracy (neck) left the game in the second quarter and didn't return, though Tracy managed to clear concussion protocol. The Giants may opt to keep all four of Skattebo, Singletary, Harris and Tracy on their roster once they cut down to 53 players for the regular season.
+- **NEW — Chris Bell** — Chris Bell - Five targets in preseason finale (2026-08-29T03:00:26Z)
+  - Bell got his first taste of NFL game action in Friday's preseason finale, as he has gained clearance to play after having the ACL in his left knee surgically repaired in December. The wide receiver out of Louisville is set to compete for playing time in an underwhelming Dolphins WR room that also includes rookie third-round pick Caleb Douglas, rookie fifth-round pick Kevin Coleman, 2024 sixth-round pick Malik Washington and offseason signing Jalen Tolbert.
+- **Cam Little** — Cam Little - Nails 61-yarder Friday (2026-08-29T02:40:42Z)
   - Little's long-distance boot, which came with just over 10 minutes remaining in the second quarter, was undeniably impressive but not out of the norm for the third-year star. Little went 13-for-16 on kicks from 50 yards and longer over 34 regular-season games in his first two campaigns, and he wraps up preseason having gone 7-for-7 on field-goal attempts while also knocking home his only PAT.
 - **Brian Robinson** — Brian Robinson - TD, fumble in preseason finale (2026-08-29T02:29:35Z)
   - Robinson played the first quarter with most of Atlanta's starters as the Falcons held Bijan Robinson out of the exhibition slate. The offseason acquisition capped the opening drive with a three-yard touchdown run but lost a fumble two drives later, matching Tua Tagovailoa's fumble on the possession in between. Come Week 1 against the Steelers, Brian is expected to work as Bijan's top backup in an all-Robinson 1-2 punch.
@@ -63,7 +67,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Hampton was on the field for the Chargers' first two offensive drives but did get a touch in Thursday's preseason finale. The 2025 first-rounder was limited to nine regular-season games in his rookie campaign due mostly to a fractured left ankle but still finished with 124 carries for 545 yards and four touchdowns while adding 32 catches (on 35 targets) for 192 yards and a score. Hampton is the lead back for the Chargers, but Kimani Vidal and Keaton Mitchell (undisclosed) both figure to see a fair amount of work in the scheme of new offensive coordinator Mike McDaniel.
 - **Harold Fannin** — Harold Fannin - Doesn't play Thursday vs. NE (2026-08-28T22:48:22Z)
   - Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, as he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.
-- **NEW — Deebo Samuel** — Deebo Samuel Sr. a Potential Steal with 12th-Round Price Tag (2026-08-28T22:38:07Z)
+- **Deebo Samuel** — Deebo Samuel Sr. a Potential Steal with 12th-Round Price Tag (2026-08-28T22:38:07Z)
   - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-a-potential-steal-with-12th-round-price-tag/1918898
 - **J.J. McCarthy** — J.J. McCarthy - Won't play Friday (2026-08-28T22:33:57Z)
   - McCarthy emerged from preseason Week 2 with an ankle injury, and while the Vikings were hopeful that he'd be able to play in the team's final exhibition, he'll instead remain in street clothes. After losing out on the starting QB job to Kyler Murray in early August, McCarthy has been serving as the backup in the meantime. Carson Wentz and Max Brosmer are the likely candidates to be under center for Minnesota on Friday.
@@ -203,7 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The talented tight end logged only one snap in the preseason opener against the Cardinals on Aug. 13 and then was rested for last Thursday's game against the Texans, so Bowers' catch goes down as his first and only stat from exhibition season. After an injury-impacted 2025, Bowers is back to full health and will serve as the top target in the Raiders offense to begin the campaign. Bowers next takes the field in a Week 1 home matchup against the Dolphins on Sunday, Sept. 13.
 - **Geno Smith** — Geno Smith - Not playing Friday (2026-08-28T01:43:35Z)
   - Smith and most of the Jets' starters will sit out Friday's contest as the team prepares for Week 1 against the Titans on Sunday, Sept. 13. The quarterback played the opening drive of the team's preseason win over Pittsburgh on Aug. 21, completing all seven of his passes for 65 yards and a touchdown. That will end up being the only action he sees during the preseason, and Week 1 will be his first regular-season start with the Jets since 2016.
-- **Ty Simpson** — Ty Simpson Wraps Up His First NFL Preseason (2026-08-28T01:15:11Z)
-  - Source: https://www.rotoballer.com/player-news/ty-simpson-wraps-up-his-first-nfl-preseason/1918108
-- **Tyjae Spears** — Similar Year Incoming for Tyjae Spears? (2026-08-28T01:02:08Z)
-  - Source: https://www.rotoballer.com/player-news/similar-year-incoming-for-tyjae-spears/1918098

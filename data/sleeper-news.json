@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T02:53:40Z",
+  "last_checked_at": "2026-08-29T03:14:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11786|rotowire|635081|1787971242000",
-    "nfl|5872|rotoballer|219611|1787956687000"
+    "nfl|13311|rotowire|635090|1787972426000",
+    "nfl|7528|rotowire|635093|1787972686000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Harris was the first running back to record a touch for the Giants in Friday's preseason finale, which Cam Skattebo and Devin Singletary sat out. Fellow RB Tyrone Tracy (neck) left the game in the second quarter and didn't return, though Tracy managed to clear concussion protocol. The Giants may opt to keep all four of Skattebo, Singletary, Harris and Tracy on their roster once they cut down to 53 players for the regular season.",
+      "description": "Harris rushed 11 times for 39 yards and added a 20-yard reception on his lone target in Friday's 23-6 preseason win over the Jets.",
+      "metadata": {
+        "analysis": "Harris was the first running back to record a touch for the Giants in Friday's preseason finale, which Cam Skattebo and Devin Singletary sat out. Fellow RB Tyrone Tracy (neck) left the game in the second quarter and didn't return, though Tracy managed to clear concussion protocol. The Giants may opt to keep all four of Skattebo, Singletary, Harris and Tracy on their roster once they cut down to 53 players for the regular season.",
+        "description": "Harris rushed 11 times for 39 yards and added a 20-yard reception on his lone target in Friday's 23-6 preseason win over the Jets.",
+        "title": "Najee Harris - Gets 12 touches Friday while Tracy exits",
+        "topic_id": "1399263993192853504"
+      },
+      "nfl_team": "NYG",
+      "player_id": "7528",
+      "player_name": "Najee Harris",
+      "position": "RB",
+      "published": 1787972686000,
+      "source": "rotowire",
+      "source_key": "635093",
+      "story_id": "nfl|7528|rotowire|635093|1787972686000",
+      "title": "Najee Harris - Gets 12 touches Friday while Tracy exits",
+      "url": null
+    },
+    {
+      "analysis": "Bell got his first taste of NFL game action in Friday's preseason finale, as he has gained clearance to play after having the ACL in his left knee surgically repaired in December. The wide receiver out of Louisville is set to compete for playing time in an underwhelming Dolphins WR room that also includes rookie third-round pick Caleb Douglas, rookie fifth-round pick Kevin Coleman, 2024 sixth-round pick Malik Washington and offseason signing Jalen Tolbert.",
+      "description": "Bell (knee) caught two of five targets for 22 yards in Friday's 17-12 preseason loss to the Falcons.",
+      "metadata": {
+        "analysis": "Bell got his first taste of NFL game action in Friday's preseason finale, as he has gained clearance to play after having the ACL in his left knee surgically repaired in December. The wide receiver out of Louisville is set to compete for playing time in an underwhelming Dolphins WR room that also includes rookie third-round pick Caleb Douglas, rookie fifth-round pick Kevin Coleman, 2024 sixth-round pick Malik Washington and offseason signing Jalen Tolbert.",
+        "description": "Bell (knee) caught two of five targets for 22 yards in Friday's 17-12 preseason loss to the Falcons.",
+        "title": "Chris Bell - Five targets in preseason finale",
+        "topic_id": "1399262733777551360"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1787972426000,
+      "source": "rotowire",
+      "source_key": "635090",
+      "story_id": "nfl|13311|rotowire|635090|1787972426000",
+      "title": "Chris Bell - Five targets in preseason finale",
+      "url": null
+    },
     {
       "analysis": "Little's long-distance boot, which came with just over 10 minutes remaining in the second quarter, was undeniably impressive but not out of the norm for the third-year star. Little went 13-for-16 on kicks from 50 yards and longer over 34 regular-season games in his first two campaigns, and he wraps up preseason having gone 7-for-7 on field-goal attempts while also knocking home his only PAT.",
       "description": "Little made his only field-goal attempt, from 61 yards out, and did not attempt any extra points in the Jaguars' 19-0 preseason win over the Buccaneers on Friday.",
