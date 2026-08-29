@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T14:40:25Z",
+  "last_checked_at": "2026-08-29T15:00:44Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11618|rotowire|635153|1788013852000",
-    "nfl|12514|rotowire|635152|1788013456000",
-    "nfl|9494|rotowire|635151|1788013443000"
+    "nfl|6768|rotoballer|219645|1788000545000"
   ],
   "schema_version": 1,
   "source": {
@@ -74,6 +72,26 @@
       "story_id": "nfl|9494|rotowire|635151|1788013443000",
       "title": "Marvin Mims - Dealing with foot contusion",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Starting against his former team, Atlanta Falcons quarterback Tua Tagovailoa had his ups and downs in the team's final outing of the preseason, a 17-12 win over the Miami Dolphins. He looked sharp on an eight-play, 60-yard touchdown drive to open the night, and he finished the game with 95 passing yards and only one incompletion on eight attempts, but he also lost a fumble on an under-center snap on the second drive of the game, his second fumble in as many preseason games. Tagovailoa has struggled with consistency throughout his first training camp with the Falcons, unable to take advantage of the opportunity provided by Michael Penix Jr.'s (knee) prolonged absence. Penix was recently cleared to participate in team drills, and while he did not suit up for the team's final preseason contest, he believes he will be ready for Atlanta's Week 1 matchup with the Steelers. Tagovailoa may have done just enough on Friday night to hold the starting job heading into the regular season, but with Penix in the third year of his rookie deal, the Falcons will soon be faced with a decision on his fifth-year option, all but ensuring he will at some point assume starting duties. Tagovailoa is RotoBaller's QB32 for 2026 and not a player who needs to be drafted.",
+      "metadata": {
+        "description": "Starting against his former team, Atlanta Falcons quarterback Tua Tagovailoa had his ups and downs in the team's final outing of the preseason, a 17-12 win over the Miami Dolphins. He looked sharp on an eight-play, 60-yard touchdown drive to open the night, and he finished the game with 95 passing yards and only one incompletion on eight attempts, but he also lost a fumble on an under-center snap on the second drive of the game, his second fumble in as many preseason games. Tagovailoa has struggled with consistency throughout his first training camp with the Falcons, unable to take advantage of the opportunity provided by Michael Penix Jr.'s (knee) prolonged absence. Penix was recently cleared to participate in team drills, and while he did not suit up for the team's final preseason contest, he believes he will be ready for Atlanta's Week 1 matchup with the Steelers. Tagovailoa may have done just enough on Friday night to hold the starting job heading into the regular season, but with Penix in the third year of his rookie deal, the Falcons will soon be faced with a decision on his fifth-year option, all but ensuring he will at some point assume starting duties. Tagovailoa is RotoBaller's QB32 for 2026 and not a player who needs to be drafted.",
+        "title": "Tua Tagovailoa May Have Shown Just Enough When Most Needed",
+        "topic_id": "1399441428878204928",
+        "url": "https://www.rotoballer.com/player-news/tua-tagovailoa-may-have-shown-just-enough-when-most-needed/1919080"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1788000545000,
+      "source": "rotoballer",
+      "source_key": "219645",
+      "story_id": "nfl|6768|rotoballer|219645|1788000545000",
+      "title": "Tua Tagovailoa May Have Shown Just Enough When Most Needed",
+      "url": "https://www.rotoballer.com/player-news/tua-tagovailoa-may-have-shown-just-enough-when-most-needed/1919080"
     },
     {
       "analysis": null,

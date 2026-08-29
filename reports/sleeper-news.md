@@ -2,17 +2,19 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1288**
-- Newly captured: **3**
+- Stored stories: **1289**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jalen McMillan** — Jalen McMillan - Optimism for Week 1 (2026-08-29T14:30:52Z)
+- **Jalen McMillan** — Jalen McMillan - Optimism for Week 1 (2026-08-29T14:30:52Z)
   - McMillan has been recovering from a knee injury he sustained in early August, which has limited his reps in training camp practices and prevented him from playing in each of the Buccaneers' three preseason games. There's optimism that the third-year wideout will not miss regular-season action, but his practice participation over the next two weeks will provide more clarity on his status for Week 1. With Mike Evans now in San Francisco, McMillan is projected to be Tampa Bay's WR3 this season behind Chris Godwin and Emeka Egbuka (toe), with Tez Johnson and rookie third-rounder Ted Hurst also in the mix for snaps on offense.
-- **NEW — Emeka Egbuka** — Emeka Egbuka - 'Hopeful' for Week 1 (2026-08-29T14:24:16Z)
+- **Emeka Egbuka** — Emeka Egbuka - 'Hopeful' for Week 1 (2026-08-29T14:24:16Z)
   - Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowels is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.
-- **NEW — Marvin Mims** — Marvin Mims - Dealing with foot contusion (2026-08-29T14:24:03Z)
+- **Marvin Mims** — Marvin Mims - Dealing with foot contusion (2026-08-29T14:24:03Z)
   - Mims sustained the injury early in the first quarter and was listed as questionable to return after going to the locker room, but he didn't end up taking another snap in Friday's exhibition contest. It doesn't appear to be a serious injury, but his practice participation over the coming weeks will determine whether he'll suit up for Denver's Week 1 clash against Kansas City on Monday, Sept. 14.
+- **NEW — Tua Tagovailoa** — Tua Tagovailoa May Have Shown Just Enough When Most Needed (2026-08-29T10:49:05Z)
+  - Source: https://www.rotoballer.com/player-news/tua-tagovailoa-may-have-shown-just-enough-when-most-needed/1919080
 - **Emeka Egbuka** — Emeka Egbuka "Hopefully" Available for Week 1 (2026-08-29T09:59:07Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-hopefully-available-for-week-1-trailing-other-bucs-receiver-in-recovery-timeline/1919044
 - **Jalen Milroe** — Jalen Milroe Delivers Solid Outing on Friday (2026-08-29T09:54:12Z)
@@ -205,5 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tony-pollard-finishing-camp-on-a-high-note/1918467
 - **Alec Pierce** — Alec Pierce's Goal is to be Ready for Week 1 (2026-08-28T13:02:13Z)
   - Source: https://www.rotoballer.com/player-news/alec-pierces-goal-is-to-be-ready-for-week-1/1918461
-- **Tank Bigsby** — Tank Bigsby Has Become a Premium Insurance Back (2026-08-28T12:14:08Z)
-  - Source: https://www.rotoballer.com/player-news/tank-bigsby-has-become-a-premium-insurance-back/1918418
