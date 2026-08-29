@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T00:32:27Z",
+  "last_checked_at": "2026-08-29T00:53:37Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|8138|rotowire|635052|1787963211000"
+    "nfl|11564|rotowire|635053|1787964003000",
+    "nfl|12512|rotowire|635056|1787964462000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Judkins also missed the team's second preseason game due to an undisclosed injury, but he returned to practice this past Monday and seems to be past the issue. He ended up logging action in only the first of the Browns' exhibition contests, when he carried four times for nine yards. Judkins is the clear No. 1 RB for Cleveland and could be headed for a heavy workload on a team that may again deploy a shaky passing game.",
+      "description": "Judkins didn't play in Thursday's exhibition win over New England.",
+      "metadata": {
+        "analysis": "Judkins also missed the team's second preseason game due to an undisclosed injury, but he returned to practice this past Monday and seems to be past the issue. He ended up logging action in only the first of the Browns' exhibition contests, when he carried four times for nine yards. Judkins is the clear No. 1 RB for Cleveland and could be headed for a heavy workload on a team that may again deploy a shaky passing game.",
+        "description": "Judkins didn't play in Thursday's exhibition win over New England.",
+        "title": "Quinshon Judkins - Doesn't suit up for preseason finale",
+        "topic_id": "1399228755276230656"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12512",
+      "player_name": "Quinshon Judkins",
+      "position": "RB",
+      "published": 1787964462000,
+      "source": "rotowire",
+      "source_key": "635056",
+      "story_id": "nfl|12512|rotowire|635056|1787964462000",
+      "title": "Quinshon Judkins - Doesn't suit up for preseason finale",
+      "url": null
+    },
+    {
+      "analysis": "Unsurprisingly, Maye was among the plethora of New England starters who didn't see action in the team's final exhibition game. The star quarterback ended up sitting out all three of the team's preseason contests as he prepares for the regular season. Maye's first chance to get into game action with new top wideouts A.J. Brown and Romeo Doubs will take place in Week 1 versus Seattle on Wednesday, Sept. 9.",
+      "description": "Maye sat out Thursday's preseason loss to Cleveland.",
+      "metadata": {
+        "analysis": "Unsurprisingly, Maye was among the plethora of New England starters who didn't see action in the team's final exhibition game. The star quarterback ended up sitting out all three of the team's preseason contests as he prepares for the regular season. Maye's first chance to get into game action with new top wideouts A.J. Brown and Romeo Doubs will take place in Week 1 versus Seattle on Wednesday, Sept. 9.",
+        "description": "Maye sat out Thursday's preseason loss to Cleveland.",
+        "title": "Drake Maye - Doesn't play in exhibition finale",
+        "topic_id": "1399227495470870528"
+      },
+      "nfl_team": "NE",
+      "player_id": "11564",
+      "player_name": "Drake Maye",
+      "position": "QB",
+      "published": 1787964003000,
+      "source": "rotowire",
+      "source_key": "635053",
+      "story_id": "nfl|11564|rotowire|635053|1787964003000",
+      "title": "Drake Maye - Doesn't play in exhibition finale",
+      "url": null
+    },
     {
       "analysis": "The Bills rested most of their projected regular-season starters, so Cook's absence was expected. The star running back finished the preseason slate having appeared in one game, logging 21 yards on five carries. Cook will now look ahead to Week 1, when he's slated to lead Buffalo's backfield against a tough Texans defense on Sunday, Sept. 13. Ray Davis is expected to work as his top backup.",
       "description": "Cook didn't play during Buffalo's exhibition win over Pittsburgh on Thursday.",

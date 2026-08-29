@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1232**
-- Newly captured: **1**
+- Stored stories: **1234**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — James Cook** — James Cook - Sits out preseason finale (2026-08-29T00:26:51Z)
+- **NEW — Quinshon Judkins** — Quinshon Judkins - Doesn't suit up for preseason finale (2026-08-29T00:47:42Z)
+  - Judkins also missed the team's second preseason game due to an undisclosed injury, but he returned to practice this past Monday and seems to be past the issue. He ended up logging action in only the first of the Browns' exhibition contests, when he carried four times for nine yards. Judkins is the clear No. 1 RB for Cleveland and could be headed for a heavy workload on a team that may again deploy a shaky passing game.
+- **NEW — Drake Maye** — Drake Maye - Doesn't play in exhibition finale (2026-08-29T00:40:03Z)
+  - Unsurprisingly, Maye was among the plethora of New England starters who didn't see action in the team's final exhibition game. The star quarterback ended up sitting out all three of the team's preseason contests as he prepares for the regular season. Maye's first chance to get into game action with new top wideouts A.J. Brown and Romeo Doubs will take place in Week 1 versus Seattle on Wednesday, Sept. 9.
+- **James Cook** — James Cook - Sits out preseason finale (2026-08-29T00:26:51Z)
   - The Bills rested most of their projected regular-season starters, so Cook's absence was expected. The star running back finished the preseason slate having appeared in one game, logging 21 yards on five carries. Cook will now look ahead to Week 1, when he's slated to lead Buffalo's backfield against a tough Texans defense on Sunday, Sept. 13. Ray Davis is expected to work as his top backup.
 - **Tre' Harris** — Tre' Harris - Idle for preseason finale (2026-08-28T23:40:00Z)
   - Harris will end up not playing a single preseason game, missing the last two while working through an undisclosed injury. Despite the lack of on-field playing time, there's no indication that the 2025 second-rounder is in jeopardy of missing the Chargers' regular-season opener against the Cardinals on Sunday, Sept. 13. Following the departure of Keenan Allen, Harris figures to serve as the Chargers' WR3 this season behind Ladd McConkey and Quentin Johnston.
@@ -204,7 +208,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tee-higgins-remains-a-high-upside-receiver-in-a-potent-offense/1917993
 - **CeeDee Lamb** — CeeDee Lamb Looking For a Bounce-Back Season After in 2026 (2026-08-27T21:36:43Z)
   - Source: https://www.rotoballer.com/player-news/ceedee-lamb-looking-for-a-bounce-back-season-after-injury-plagued-2025-season-2/1917986
-- **A.J. Brown** — A.J. Brown Not Suiting Up Thursday Against the Browns (2026-08-27T21:25:06Z)
-  - Source: https://www.rotoballer.com/player-news/a-j-brown-not-suiting-up-thursday-against-the-browns/1917984
-- **De'Zhaun Stribling** — De'Zhaun Stribling Not Playing Thursday Night (2026-08-27T21:17:10Z)
-  - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-not-playing-thursday-night-expected-to-contribute-early-in-the-season/1917981
