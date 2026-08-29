@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T19:02:21Z",
+  "last_checked_at": "2026-08-29T19:22:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|2449|rotoballer|219667|1788015134000"
+    "nfl|12519|rotoballer|219668|1788016210000"
   ],
   "schema_version": 1,
   "source": {
@@ -157,6 +157,26 @@
       "story_id": "nfl|8142|rotowire|635171|1788021762000",
       "title": "Alec Pierce - Working out but will sit Saturday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears wide receiver Luther Burden III (groin) is \"moving well,\" the Chicago Tribune's Brad Biggs reported on Saturday. The 2025 second-round pick is \"maybe not 100%, but he's running routes and getting in and out of his breaks,\" Biggs reported. Burden was injured in practice on Aug. 8 and only just returned to individual drills on Aug. 26. The Missouri product caught 47 receptions on 60 targets and had two touchdowns for Chicago in his rookie season in 2025. He is expected to have a larger role alongside Rome Odunze in his sophomore campaign since DJ Moore was traded to the Buffalo Bills in the offseason. Burden has breakout potential for 2026, but fantasy managers should keep an eye on his health since his status is not yet confirmed for Week 1. RotoBaller lists him at WR22, and he has a lot of upside if he starts the season healthy.",
+      "metadata": {
+        "description": "Chicago Bears wide receiver Luther Burden III (groin) is \"moving well,\" the Chicago Tribune's Brad Biggs reported on Saturday. The 2025 second-round pick is \"maybe not 100%, but he's running routes and getting in and out of his breaks,\" Biggs reported. Burden was injured in practice on Aug. 8 and only just returned to individual drills on Aug. 26. The Missouri product caught 47 receptions on 60 targets and had two touchdowns for Chicago in his rookie season in 2025. He is expected to have a larger role alongside Rome Odunze in his sophomore campaign since DJ Moore was traded to the Buffalo Bills in the offseason. Burden has breakout potential for 2026, but fantasy managers should keep an eye on his health since his status is not yet confirmed for Week 1. RotoBaller lists him at WR22, and he has a lot of upside if he starts the season healthy.",
+        "title": "Luther Burden III \"Moving Well,\" Trending Toward Week 1 Availability",
+        "topic_id": "1399508126494920704",
+        "url": "https://www.rotoballer.com/player-news/luther-burden-moving-well-trending-toward-week-1-availability/1919249"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12519",
+      "player_name": "Luther Burden",
+      "position": "WR",
+      "published": 1788016210000,
+      "source": "rotoballer",
+      "source_key": "219668",
+      "story_id": "nfl|12519|rotoballer|219668|1788016210000",
+      "title": "Luther Burden III \"Moving Well,\" Trending Toward Week 1 Availability",
+      "url": "https://www.rotoballer.com/player-news/luther-burden-moving-well-trending-toward-week-1-availability/1919249"
     },
     {
       "analysis": null,
