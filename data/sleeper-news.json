@@ -1,11 +1,8 @@
 {
-  "last_checked_at": "2026-08-29T15:50:59Z",
+  "last_checked_at": "2026-08-29T16:11:20Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [
-    "nfl|13413|rotoballer|219652|1788003610000",
-    "nfl|7553|rotoballer|219653|1788004029000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -35,10 +32,10 @@
       "url": null
     },
     {
-      "analysis": "Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowels is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.",
+      "analysis": "Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowles is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.",
       "description": "Egbuka (toe), per head coach Todd Bowles, will \"hopefully\" be ready for Week 1, Greg Auman of Fox Sports reports.",
       "metadata": {
-        "analysis": "Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowels is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.",
+        "analysis": "Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowles is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.",
         "description": "Egbuka (toe), per head coach Todd Bowles, will \"hopefully\" be ready for Week 1, Greg Auman of Fox Sports reports.",
         "title": "Emeka Egbuka - 'Hopeful' for Week 1",
         "topic_id": "1399435138516946945"
