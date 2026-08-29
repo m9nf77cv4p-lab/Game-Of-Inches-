@@ -26,7 +26,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Mahomes said a week ago he was "extremely confident" he would be ready for Kansas City's season opener, and the latest report keeps him on track to do so. It's unclear how close he is to 100 percent, but it's growing more and more likely that the torn left ACL he sustained last December will not cost him any action during the 2026 campaign.
 - **Alec Pierce** — Alec Pierce - Working out but will sit Saturday (2026-08-29T16:42:42Z)
   - Pierce was activated from the Active/PUP list Thursday, but he is not ready to appear in a game just yet. He will keep building up over the next two weeks with an eye on suiting up for his team's Week 1 matchup with the Ravens.
-- **NEW — Omarion Hampton** — Omarion Hampton Set to Breakout in His Sophomore Season (2026-08-29T15:40:09Z)
+- **NEW — Jordan Addison** — Jordan Addison a Sleeper to Target in Redraft Leagues (2026-08-29T16:05:06Z)
+  - Source: https://www.rotoballer.com/player-news/jordan-addison-a-sleeper-to-target-in-redraft-leagues/1919265
+- **Omarion Hampton** — Omarion Hampton Set to Breakout in His Sophomore Season (2026-08-29T15:40:09Z)
   - Source: https://www.rotoballer.com/player-news/omarion-hampton-set-to-breakout-in-his-sophomore-season/1919259
 - **Garrett Wilson** — Will Garrett Wilson's Pure Talent Finally Equate to Fantasy Success? (2026-08-29T15:29:08Z)
   - Source: https://www.rotoballer.com/player-news/will-garrett-wilsons-pure-talent-finally-equate-to-fantasy-success/1919257
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/malik-nabers-not-suiting-up-for-preseason-finale/1918803
 - **Chase Brown** — Chase Brown Could See More Under-Center Rushing Opportunities (2026-08-28T19:11:07Z)
   - Source: https://www.rotoballer.com/player-news/chase-brown-could-see-more-under-center-rushing-opportunities/1918789
-- **J.J. McCarthy** — J.J. McCarthy Not Playing in Preseason Finale Against Denver (2026-08-28T18:47:06Z)
-  - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-not-playing-in-preseason-finale-against-denver/1918771

@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T19:52:56Z",
+  "last_checked_at": "2026-08-29T20:12:55Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|12507|rotoballer|219670|1788018009000"
+    "nfl|9756|rotoballer|219671|1788019506000"
   ],
   "schema_version": 1,
   "source": {
@@ -157,6 +157,26 @@
       "story_id": "nfl|8142|rotowire|635171|1788021762000",
       "title": "Alec Pierce - Working out but will sit Saturday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings wideout Jordan Addison is currently being slept on in fantasy drafts with a valuable ADP outside of the top 40 receivers on most sites. The former Biletnikoff Award winner posted career lows across the board due to a three-game suspension and poor quarterback play last season. This year, Addison could get back on track and be fantasy-relevant again with Kyler Murray named the starter. Murray is a functional NFL quarterback who can keep an offense on schedule and, at times, raise the floor of the playmakers around him. Additionally, Addison and Murray have been working together all offseason to build chemistry and a connection on the field. If they can connect on the field, Addison can return to being a WR2 for managers like he was during his first two seasons in the league.",
+      "metadata": {
+        "description": "Minnesota Vikings wideout Jordan Addison is currently being slept on in fantasy drafts with a valuable ADP outside of the top 40 receivers on most sites. The former Biletnikoff Award winner posted career lows across the board due to a three-game suspension and poor quarterback play last season. This year, Addison could get back on track and be fantasy-relevant again with Kyler Murray named the starter. Murray is a functional NFL quarterback who can keep an offense on schedule and, at times, raise the floor of the playmakers around him. Additionally, Addison and Murray have been working together all offseason to build chemistry and a connection on the field. If they can connect on the field, Addison can return to being a WR2 for managers like he was during his first two seasons in the league.",
+        "title": "Jordan Addison a Sleeper to Target in Redraft Leagues",
+        "topic_id": "1399520710052806656",
+        "url": "https://www.rotoballer.com/player-news/jordan-addison-a-sleeper-to-target-in-redraft-leagues/1919265"
+      },
+      "nfl_team": "MIN",
+      "player_id": "9756",
+      "player_name": "Jordan Addison",
+      "position": "WR",
+      "published": 1788019506000,
+      "source": "rotoballer",
+      "source_key": "219671",
+      "story_id": "nfl|9756|rotoballer|219671|1788019506000",
+      "title": "Jordan Addison a Sleeper to Target in Redraft Leagues",
+      "url": "https://www.rotoballer.com/player-news/jordan-addison-a-sleeper-to-target-in-redraft-leagues/1919265"
     },
     {
       "analysis": null,
@@ -26290,26 +26310,6 @@
       "story_id": "nfl|13353|rotoballer|217776|1785513247000",
       "title": "Panthers Place Chris Brazzell II on Injured Reserve, Officially Ending His Season",
       "url": "https://www.rotoballer.com/player-news/panthers-place-chris-brazzell-on-injured-reserve-officially-ending-his-season/1900716"
-    },
-    {
-      "analysis": "Jones was able to throw at George Kittle's (Achilles) Tight End University last week. The backup quarterback started eight regular-season games for the 49ers last year and will remain a key depth piece for the organization going into the 2026 season.",
-      "description": "Jones (undisclosed) has passed his conditioning test and is cleared for participation in training camp, Vic Tafur and Matt Barrows of The Athletic report.",
-      "metadata": {
-        "analysis": "Jones was able to throw at George Kittle's (Achilles) Tight End University last week. The backup quarterback started eight regular-season games for the 49ers last year and will remain a key depth piece for the organization going into the 2026 season.",
-        "description": "Jones (undisclosed) has passed his conditioning test and is cleared for participation in training camp, Vic Tafur and Matt Barrows of The Athletic report.",
-        "title": "Mac Jones - Ready for training camp",
-        "topic_id": "1388648969227243520"
-      },
-      "nfl_team": "SF",
-      "player_id": "7527",
-      "player_name": "Mac Jones",
-      "position": "QB",
-      "published": 1785442141000,
-      "source": "rotowire",
-      "source_key": "632240",
-      "story_id": "nfl|7527|rotowire|632240|1785442141000",
-      "title": "Mac Jones - Ready for training camp",
-      "url": null
     }
   ]
 }
