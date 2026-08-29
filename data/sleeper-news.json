@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-08-29T06:16:19Z",
+  "last_checked_at": "2026-08-29T06:26:25Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [
-    "nfl|13301|rotowire|635139|1787983723000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -1434,10 +1432,10 @@
       "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-not-playing-in-preseason-finale/1918752"
     },
     {
-      "analysis": "The extent of the injury Jeanty sustained at Sunday's practice session has not been revealed, but Kubiak's comments provide reason to believe the Raiders will have their top running back available for the season opener against the Dolphins on Sept. 13. Jeanty will have over two weeks to rest and recover before the campaign gets underway, and should he encounter any hiccups Mike Washington remains next in line in the Las Vegas backfield.",
+      "analysis": "The extent of the injury Jeanty sustained at Sunday's practice session has not been revealed, but Kubiak's comments provide reason to believe the Raiders will have their top running back available for the season opener against the Dolphins on Sept. 13. Jeanty will have over two weeks to rest and recover before the campaign gets underway. Should he encounter any hiccups, Mike Washington remains next in line in the Las Vegas backfield.",
       "description": "Jeanty's ankle injury is being monitored in advance of Week 1, but per head coach Klint Kubiak, the Raiders are \"counting on him\" to be available, Levi Edwards of the Raiders' official website reports.",
       "metadata": {
-        "analysis": "The extent of the injury Jeanty sustained at Sunday's practice session has not been revealed, but Kubiak's comments provide reason to believe the Raiders will have their top running back available for the season opener against the Dolphins on Sept. 13. Jeanty will have over two weeks to rest and recover before the campaign gets underway, and should he encounter any hiccups Mike Washington remains next in line in the Las Vegas backfield.",
+        "analysis": "The extent of the injury Jeanty sustained at Sunday's practice session has not been revealed, but Kubiak's comments provide reason to believe the Raiders will have their top running back available for the season opener against the Dolphins on Sept. 13. Jeanty will have over two weeks to rest and recover before the campaign gets underway. Should he encounter any hiccups, Mike Washington remains next in line in the Las Vegas backfield.",
         "description": "Jeanty's ankle injury is being monitored in advance of Week 1, but per head coach Klint Kubiak, the Raiders are \"counting on him\" to be available, Levi Edwards of the Raiders' official website reports.",
         "title": "Ashton Jeanty - Being counted on for opener",
         "topic_id": "1399117969866407936"

@@ -3,11 +3,11 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1279**
-- Newly captured: **1**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Antonio Williams** — Antonio Williams - Doesn't suit up Friday (2026-08-29T06:08:43Z)
+- **Antonio Williams** — Antonio Williams - Doesn't suit up Friday (2026-08-29T06:08:43Z)
   - The third-round rookie out of Clemson has been coming on strong as training camp has progressed, and per Donna Hopkins of MASN, Williams opened some eyes in joint practices against Baltimore earlier in the week when he beat Kyle Hamilton in one-on-one drills. The fact that Williams was held out Friday along with the rest of the Commanders' key personnel could be a strong sign that he's won the No. 3 receiver job to begin the season over the likes of Luke McCaffrey, Dyami Brown and Jaylin Lane, but he still faces an uphill battle for targets working behind Terry McLaurin and Stefon Diggs.
 - **Kaytron Allen** — Kaytron Allen - Poor showing in preseason finale (2026-08-29T05:48:24Z)
   - With the Commanders resting all their key personnel in the team's final exhibition contest, Allen got the start in the backfield but coughed up the ball on his first touch, setting the Ravens up for their first TD of the night. The 2026 sixth-round pick is expected to begin the regular season as the third back on the depth chart behind Jacory Croskey-Merritt (lower body) and Rachaad White (hamstring), but if the injuries to either RB linger into Week 1, Allen could see a bigger workload than expected in his NFL debut.
@@ -150,7 +150,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Not Playing in Preseason Finale (2026-08-28T18:05:10Z)
   - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-not-playing-in-preseason-finale/1918752
 - **Ashton Jeanty** — Ashton Jeanty - Being counted on for opener (2026-08-28T17:26:19Z)
-  - The extent of the injury Jeanty sustained at Sunday's practice session has not been revealed, but Kubiak's comments provide reason to believe the Raiders will have their top running back available for the season opener against the Dolphins on Sept. 13. Jeanty will have over two weeks to rest and recover before the campaign gets underway, and should he encounter any hiccups Mike Washington remains next in line in the Las Vegas backfield.
+  - The extent of the injury Jeanty sustained at Sunday's practice session has not been revealed, but Kubiak's comments provide reason to believe the Raiders will have their top running back available for the season opener against the Dolphins on Sept. 13. Jeanty will have over two weeks to rest and recover before the campaign gets underway. Should he encounter any hiccups, Mike Washington remains next in line in the Las Vegas backfield.
 - **Emeka Egbuka** — Emeka Egbuka's Focus is on Being Ready for Week 1 (2026-08-28T16:16:07Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbukas-focus-is-on-being-ready-for-week-1/1918683
 - **Jordan Mason** — Jordan Mason Keeps Climbing in Redraft Leagues (2026-08-28T15:50:13Z)
