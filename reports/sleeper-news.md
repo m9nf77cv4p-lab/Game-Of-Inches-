@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1291**
-- Newly captured: **1**
+- Stored stories: **1293**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -13,7 +13,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowels is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.
 - **Marvin Mims** — Marvin Mims - Dealing with foot contusion (2026-08-29T14:24:03Z)
   - Mims sustained the injury early in the first quarter and was listed as questionable to return after going to the locker room, but he didn't end up taking another snap in Friday's exhibition contest. It doesn't appear to be a serious injury, but his practice participation over the coming weeks will determine whether he'll suit up for Denver's Week 1 clash against Kansas City on Monday, Sept. 14.
-- **NEW — Adam Randall** — Adam Randall Looks to Bulldoze His Way onto the Roster (2026-08-29T11:07:10Z)
+- **NEW — Kaytron Allen** — Kaytron Allen Struggles in Limited Usage in Preseason Finale (2026-08-29T11:20:11Z)
+  - Source: https://www.rotoballer.com/player-news/kaytron-allen-struggles-in-limited-usage-in-preseason-finale/1919105
+- **NEW — Chris Bell** — Chris Bell Leads Dolphins in Targets on Friday, Set for Key Role in Miami? (2026-08-29T11:09:07Z)
+  - Source: https://www.rotoballer.com/player-news/chris-bell-leads-dolphins-in-targets-on-friday-set-for-key-role-in-miami/1919091
+- **Adam Randall** — Adam Randall Looks to Bulldoze His Way onto the Roster (2026-08-29T11:07:10Z)
   - Source: https://www.rotoballer.com/player-news/adam-randall-looks-to-bulldoze-his-way-onto-the-roster/1919089
 - **Demond Claiborne** — More RB3 Reps For Demond Claiborne (2026-08-29T10:56:27Z)
   - Source: https://www.rotoballer.com/player-news/more-rb3-reps-for-demond-claiborne/1919083
@@ -203,7 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/mike-washington-jr-could-have-significant-role-in-raiders-backfield/1918484
 - **Jameson Williams** — Jameson Williams Showing More Than Big-Play Upside (2026-08-28T13:31:16Z)
   - Source: https://www.rotoballer.com/player-news/jameson-williams-showing-more-than-big-play-upside/1918477
-- **Kaelon Black** — Kaelon Black Appears to Have Firm Hold on 49ers' No. 2 Job (2026-08-28T13:22:07Z)
-  - Source: https://www.rotoballer.com/player-news/kaelon-black-appears-to-have-firm-hold-on-49ers-no-2-job/1918475
-- **Jonah Coleman** — Jonah Coleman "Squarely" in Broncos' Backfield Rotation (2026-08-28T13:19:05Z)
-  - Source: https://www.rotoballer.com/player-news/jonah-coleman-squarely-in-broncos-backfield-rotation/1918471

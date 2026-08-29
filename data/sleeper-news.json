@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T15:20:38Z",
+  "last_checked_at": "2026-08-29T15:30:43Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13302|rotoballer|219648|1788001630000"
+    "nfl|13311|rotoballer|219649|1788001747000",
+    "nfl|13405|rotoballer|219650|1788002411000"
   ],
   "schema_version": 1,
   "source": {
@@ -72,6 +73,46 @@
       "story_id": "nfl|9494|rotowire|635151|1788013443000",
       "title": "Marvin Mims - Dealing with foot contusion",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders rookie running back Kaytron Allen played a limited role in his team's preseason finale against the Baltimore Ravens on Friday, logging three carries for four yards and losing a fumble. Allen's day was done after the first quarter, with veteran back Craig Reynolds and undrafted free agent Robert Henry Jr. handling Washington's backfield work the rest of the way. Allen's usage could be considered a positive sign for fantasy managers, as it could indicate that the team plans to rely on him for a heavy workload early in the year. Commanders backs Jacory Croskey-Merritt (groin) and Rachaad White (hamstring) are both currently dealing with injuries, although neither is expected to be sidelined long-term. However, Allen has not been particularly efficient in the preseason, averaging just 3.31 yards per attempt on 36 carries. Allen could be worth targeting as a late-round stash in deeper league formats, but fantasy managers may want to temper their expectations.",
+      "metadata": {
+        "description": "Washington Commanders rookie running back Kaytron Allen played a limited role in his team's preseason finale against the Baltimore Ravens on Friday, logging three carries for four yards and losing a fumble. Allen's day was done after the first quarter, with veteran back Craig Reynolds and undrafted free agent Robert Henry Jr. handling Washington's backfield work the rest of the way. Allen's usage could be considered a positive sign for fantasy managers, as it could indicate that the team plans to rely on him for a heavy workload early in the year. Commanders backs Jacory Croskey-Merritt (groin) and Rachaad White (hamstring) are both currently dealing with injuries, although neither is expected to be sidelined long-term. However, Allen has not been particularly efficient in the preseason, averaging just 3.31 yards per attempt on 36 carries. Allen could be worth targeting as a late-round stash in deeper league formats, but fantasy managers may want to temper their expectations.",
+        "title": "Kaytron Allen Struggles in Limited Usage in Preseason Finale",
+        "topic_id": "1399448979787235328",
+        "url": "https://www.rotoballer.com/player-news/kaytron-allen-struggles-in-limited-usage-in-preseason-finale/1919105"
+      },
+      "nfl_team": "WAS",
+      "player_id": "13405",
+      "player_name": "Kaytron Allen",
+      "position": "RB",
+      "published": 1788002411000,
+      "source": "rotoballer",
+      "source_key": "219650",
+      "story_id": "nfl|13405|rotoballer|219650|1788002411000",
+      "title": "Kaytron Allen Struggles in Limited Usage in Preseason Finale",
+      "url": "https://www.rotoballer.com/player-news/kaytron-allen-struggles-in-limited-usage-in-preseason-finale/1919105"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins rookie wide receiver Chris Bell saw his first preseason action on Friday, recording two catches for 22 yards on five targets in his team's 17-12 loss to the Atlanta Falcons. A third-round pick out of Louisville, Bell missed all of the spring and the beginning of training camp while working his way back from a torn ACL that he suffered last November. However, the Dolphins activated him in mid-August, and it now appears he should be ready for the start of the regular season. Bell was a highly productive player in college, hauling in 72 receptions for 917 yards and six touchdowns across 11 games before getting hurt last season. Miami also traded away veteran wideout Tutu Atwell to the Los Angeles Rams on Thursday, which could clear the way for Bell to play a starting role early in his rookie year. As a late-round sleeper, Bell could be a worthy target for fantasy managers.",
+      "metadata": {
+        "description": "Miami Dolphins rookie wide receiver Chris Bell saw his first preseason action on Friday, recording two catches for 22 yards on five targets in his team's 17-12 loss to the Atlanta Falcons. A third-round pick out of Louisville, Bell missed all of the spring and the beginning of training camp while working his way back from a torn ACL that he suffered last November. However, the Dolphins activated him in mid-August, and it now appears he should be ready for the start of the regular season. Bell was a highly productive player in college, hauling in 72 receptions for 917 yards and six touchdowns across 11 games before getting hurt last season. Miami also traded away veteran wideout Tutu Atwell to the Los Angeles Rams on Thursday, which could clear the way for Bell to play a starting role early in his rookie year. As a late-round sleeper, Bell could be a worthy target for fantasy managers.",
+        "title": "Chris Bell Leads Dolphins in Targets on Friday, Set for Key Role in Miami?",
+        "topic_id": "1399447722238455808",
+        "url": "https://www.rotoballer.com/player-news/chris-bell-leads-dolphins-in-targets-on-friday-set-for-key-role-in-miami/1919091"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1788001747000,
+      "source": "rotoballer",
+      "source_key": "219649",
+      "story_id": "nfl|13311|rotoballer|219649|1788001747000",
+      "title": "Chris Bell Leads Dolphins in Targets on Friday, Set for Key Role in Miami?",
+      "url": "https://www.rotoballer.com/player-news/chris-bell-leads-dolphins-in-targets-on-friday-set-for-key-role-in-miami/1919091"
     },
     {
       "analysis": null,
