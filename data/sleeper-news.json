@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T17:42:18Z",
+  "last_checked_at": "2026-08-29T17:52:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|7528|rotoballer|219663|1788010213000"
+    "nfl|4046|fantasy_pros|604648|1788025849303"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Mahomes has worked his way back from a torn ACL. He didn't see any action in the preseason, but he is expected to be good to go for the season opener. ",
+      "description": "Patrick Mahomes II remains on track to be good to go for Week 1 against the Broncos. ",
+      "metadata": {
+        "analysis": "Mahomes has worked his way back from a torn ACL. He didn't see any action in the preseason, but he is expected to be good to go for the season opener. ",
+        "description": "Patrick Mahomes II remains on track to be good to go for Week 1 against the Broncos. ",
+        "title": "Patrick Mahomes II (knee) on track to start Week 1",
+        "topic_id": "1399485481598603264",
+        "url": "https://www.fantasypros.com/nfl/news/604648/patrick-mahomes-ii-knee-on-track-to-start-week-1.php"
+      },
+      "nfl_team": "KC",
+      "player_id": "4046",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "published": 1788025849303,
+      "source": "fantasy_pros",
+      "source_key": "604648",
+      "story_id": "nfl|4046|fantasy_pros|604648|1788025849303",
+      "title": "Patrick Mahomes II (knee) on track to start Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/604648/patrick-mahomes-ii-knee-on-track-to-start-week-1.php"
+    },
     {
       "analysis": "Mahomes said a week ago he was \"extremely confident\" he would be ready for Kansas City's season opener, and the latest report keeps him on track to do so. It's unclear how close he is to 100 percent, but it's growing more and more likely that the torn left ACL he sustained last December will not cost him any action during the 2026 campaign.",
       "description": "Mahomes (knee) is on track to start Week 1 against the Broncos, Ian Rapoport of NFL Network reports.",

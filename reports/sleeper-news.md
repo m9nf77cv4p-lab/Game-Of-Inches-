@@ -2,11 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1299**
+- Stored stories: **1300**
 - Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Patrick Mahomes** — Patrick Mahomes II (knee) on track to start Week 1 (2026-08-29T17:50:49.303000Z)
+  - Mahomes has worked his way back from a torn ACL. He didn't see any action in the preseason, but he is expected to be good to go for the season opener. 
+  - Source: https://www.fantasypros.com/nfl/news/604648/patrick-mahomes-ii-knee-on-track-to-start-week-1.php
 - **Patrick Mahomes** — Patrick Mahomes - On track for Week 1 (2026-08-29T17:08:09Z)
   - Mahomes said a week ago he was "extremely confident" he would be ready for Kansas City's season opener, and the latest report keeps him on track to do so. It's unclear how close he is to 100 percent, but it's growing more and more likely that the torn left ACL he sustained last December will not cost him any action during the 2026 campaign.
 - **Alec Pierce** — Alec Pierce - Working out but will sit Saturday (2026-08-29T16:42:42Z)
@@ -17,7 +20,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowles is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.
 - **Marvin Mims** — Marvin Mims - Dealing with foot contusion (2026-08-29T14:24:03Z)
   - Mims sustained the injury early in the first quarter and was listed as questionable to return after going to the locker room, but he didn't end up taking another snap in Friday's exhibition contest. It doesn't appear to be a serious injury, but his practice participation over the coming weeks will determine whether he'll suit up for Denver's Week 1 clash against Kansas City on Monday, Sept. 14.
-- **NEW — Najee Harris** — Najee Harris Has 12 Touches in Giants' Preseason Debut (2026-08-29T13:30:13Z)
+- **Najee Harris** — Najee Harris Has 12 Touches in Giants' Preseason Debut (2026-08-29T13:30:13Z)
   - Source: https://www.rotoballer.com/player-news/najee-harris-has-12-touches-in-giants-preseason-debut/1919185
 - **Alec Pierce** — Alec Pierce Out for Colts' Preseason Finale (2026-08-29T13:08:10Z)
   - Source: https://www.rotoballer.com/player-news/alec-pierce-out-for-colts-preseason-finale/1919167
@@ -205,5 +208,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jake-ferguson-slipping-toward-te2-territory/1918637
 - **Dalton Schultz** — Dalton Schultz Back in the Late-Round Conversation (2026-08-28T15:27:07Z)
   - Source: https://www.rotoballer.com/player-news/dalton-schultz-back-in-the-late-round-conversation/1918615
-- **Kenny Gainwell** — Kenny Gainwell Could Lead Buccaneers in All-Purpose Yards (2026-08-28T15:14:07Z)
-  - Source: https://www.rotoballer.com/player-news/kenneth-gainwell-could-lead-buccaneers-in-all-purpose-yards/1918599
