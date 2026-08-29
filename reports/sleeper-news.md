@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1239**
+- Stored stories: **1241**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Brock Purdy** — Brock Purdy - Doesn't participate in preseason finale (2026-08-29T01:07:20Z)
+- **NEW — Deebo Samuel** — Deebo Samuel - Held out of preseason finale (2026-08-29T01:18:03Z)
+  - The 49ers rested most of their projected regular-season starters, so Samuel's absence was expected. The veteran wideout saw action in one exhibition contest, catching one of two targets for four yards. Samuel should have a key role in San Francisco's passing game with Ricky Pearsall (knee) out for the season, and he gives QB Brock Purdy some familiarity amongst a WR corps that features numerous newcomers, including Mike Evans (groin), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).
+- **NEW — Dalton Kincaid** — Dalton Kincaid - Doesn't play in preseason finale (2026-08-29T01:12:27Z)
+  - Kincaid's absence was simply for rest and injury-avoidance purposes, as Buffalo sat out all of its key regular-season starters. Kincaid ended up playing in just one preseason contest, logging nine snaps without seeing any targets. He's slated to be a key target for Josh Allen in the passing game this season and will next take the field in Week 1 versus Houston on Sunday, Sept. 13.
+- **Brock Purdy** — Brock Purdy - Doesn't participate in preseason finale (2026-08-29T01:07:20Z)
   - San Francisco elected to rest its projected regular-season starters for the team's final exhibition game. Purdy saw very limited work during the preseason slate, getting into one game and completing four of six passes for 29 yards. He'll next take the field against the Rams in Week 1 of the regular season in Melbourne, Australia, on Friday, Sept. 11 (which will be Thursday, Sept. 10, in US time zones). Purdy will be working with a largely new wideout corps, including Mike Evans (groin), Deebo Samuel (returning after a one-year hiatus with Washington), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).
 - **DJ Moore** — DJ Moore - Rests during preseason finale (2026-08-29T00:57:37Z)
   - Buffalo elected to rest the bulk of its projected regular-season starters, including Moore, for the team's final preseason game. The veteran wideout saw action in one exhibition contest, catching three of four targets for 61 yards. Moore left that game early due to an ankle injury but has since returned to practice, so he should be good to go as the Bills' top wideout in Week 1 of the regular season versus a tough Texans defense.
@@ -51,7 +55,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - White has been tending to a hamstring injury since Aug. 19 that will keep him sidelined for the Commanders' final two exhibitions. He was able to mix into individual drills as recently as Monday, though, so he's making progress in his recovery. White will join No. 1 RB Jacory Croskey-Merritt (lower body) and Jeremy McNichols (quadriceps) on the sideline Friday.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Sitting out Friday's preseason game (2026-08-28T21:43:40Z)
   - On Aug. 20, Croskey-Merritt pulled up at the end of a catch and run in practice due to a lower-body injury, which now will keep him out of the Commanders' final two exhibitions. He focused on rehab work on the side this week, with the intent to return to practice at some point next week. Rachaad White (hamstring) and Jeremy McNichols (quadriceps) also aren't in uniform Friday, meaning rookie sixth-rounder Kaytron Allen, Robert Henry and Craig Reynolds are the team's available RBs for preseason Week 3.
-- **NEW — Tyrone Tracy** — Tyrone Tracy Jr. Injures his Neck in Preseason Finale on Friday (2026-08-28T20:59:15Z)
+- **Tyrone Tracy** — Tyrone Tracy Jr. Injures his Neck in Preseason Finale on Friday (2026-08-28T20:59:15Z)
   - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-injures-his-neck-in-preseason-finale-on-friday/1918838
 - **Emeka Egbuka** — Emeka Egbuka - Focus remains on Week 1 (2026-08-28T19:49:18Z)
   - Egbuka, per the report, made the trip to Jacksonville with his teammates for Friday's preseason finale, but he will not suit up and will instead keep working on his recovery from the toe injury he sustained a little over two weeks ago. It's not yet known when Egbuka will be back on the field, so his availability remains up in the air in advance of his team's season-opening matchup with the Bengals on Sept. 13.
@@ -204,7 +208,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/geno-smith-will-not-play-in-fridays-preseason-finale/1918040
 - **TreVeyon Henderson** — TreVeyon Henderson - On track for Week 1 (2026-08-27T22:35:36Z)
   - It was believed that Henderson was dealing with only a minor right ankle issue, and the latest report confirms that and signals that he will not miss any time during the regular season. As such, Henderson and Rhamondre Stevenson figure to open the campaign in timeshare in New England's backfield.
-- **Aaron Rodgers** — Aaron Rodgers - Won't play Thursday (2026-08-27T22:22:01Z)
-  - Rodgers thus won't get any in-game reps with Pittsburgh's top wide receiver duo of DK Metcalf (hamstring) and Michael Pittman (hamstring) ahead of the regular season. Because both Metcalf and Pittman returned to the field Monday, the trio will continue to build a rapport during practices in advance of a Week 1 matchup with the Falcons on Sunday, Sept. 13.
-- **Khalil Shakir** — Khalil Shakir - Not suited up Thursday (2026-08-27T22:06:17Z)
-  - Shakir now will miss a second consecutive exhibition due to an undisclosed injury that has sidelined him for the past week. Fellow position mates Keon Coleman (foot/toe) and Tyrell Shavers (knee, active/PUP) also aren't suited up Thursday. Shakir will set his sights on getting healthy for the Bills' Week 1 road matchup with the Texans on Sunday, Sept. 13.

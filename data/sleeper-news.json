@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T01:13:34Z",
+  "last_checked_at": "2026-08-29T01:23:34Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11655|rotoballer|219603|1787950755000",
-    "nfl|8183|rotowire|635062|1787965640000"
+    "nfl|10236|rotowire|635063|1787965947000",
+    "nfl|5872|rotowire|635064|1787966283000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The 49ers rested most of their projected regular-season starters, so Samuel's absence was expected. The veteran wideout saw action in one exhibition contest, catching one of two targets for four yards. Samuel should have a key role in San Francisco's passing game with Ricky Pearsall (knee) out for the season, and he gives QB Brock Purdy some familiarity amongst a WR corps that features numerous newcomers, including Mike Evans (groin), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).",
+      "description": "Samuel didn't play in Thursday's preseason victory against Las Vegas.",
+      "metadata": {
+        "analysis": "The 49ers rested most of their projected regular-season starters, so Samuel's absence was expected. The veteran wideout saw action in one exhibition contest, catching one of two targets for four yards. Samuel should have a key role in San Francisco's passing game with Ricky Pearsall (knee) out for the season, and he gives QB Brock Purdy some familiarity amongst a WR corps that features numerous newcomers, including Mike Evans (groin), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).",
+        "description": "Samuel didn't play in Thursday's preseason victory against Las Vegas.",
+        "title": "Deebo Samuel - Held out of preseason finale",
+        "topic_id": "1399236305744891904"
+      },
+      "nfl_team": "SF",
+      "player_id": "5872",
+      "player_name": "Deebo Samuel",
+      "position": "WR",
+      "published": 1787966283000,
+      "source": "rotowire",
+      "source_key": "635064",
+      "story_id": "nfl|5872|rotowire|635064|1787966283000",
+      "title": "Deebo Samuel - Held out of preseason finale",
+      "url": null
+    },
+    {
+      "analysis": "Kincaid's absence was simply for rest and injury-avoidance purposes, as Buffalo sat out all of its key regular-season starters. Kincaid ended up playing in just one preseason contest, logging nine snaps without seeing any targets. He's slated to be a key target for Josh Allen in the passing game this season and will next take the field in Week 1 versus Houston on Sunday, Sept. 13.",
+      "description": "Kincaid was held out of Thursday's exhibition win over the Steelers.",
+      "metadata": {
+        "analysis": "Kincaid's absence was simply for rest and injury-avoidance purposes, as Buffalo sat out all of its key regular-season starters. Kincaid ended up playing in just one preseason contest, logging nine snaps without seeing any targets. He's slated to be a key target for Josh Allen in the passing game this season and will next take the field in Week 1 versus Houston on Sunday, Sept. 13.",
+        "description": "Kincaid was held out of Thursday's exhibition win over the Steelers.",
+        "title": "Dalton Kincaid - Doesn't play in preseason finale",
+        "topic_id": "1399235046728081408"
+      },
+      "nfl_team": "BUF",
+      "player_id": "10236",
+      "player_name": "Dalton Kincaid",
+      "position": "TE",
+      "published": 1787965947000,
+      "source": "rotowire",
+      "source_key": "635063",
+      "story_id": "nfl|10236|rotowire|635063|1787965947000",
+      "title": "Dalton Kincaid - Doesn't play in preseason finale",
+      "url": null
+    },
     {
       "analysis": "San Francisco elected to rest its projected regular-season starters for the team's final exhibition game. Purdy saw very limited work during the preseason slate, getting into one game and completing four of six passes for 29 yards. He'll next take the field against the Rams in Week 1 of the regular season in Melbourne, Australia, on Friday, Sept. 11 (which will be Thursday, Sept. 10, in US time zones). Purdy will be working with a largely new wideout corps, including Mike Evans (groin), Deebo Samuel (returning after a one-year hiatus with Washington), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).",
       "description": "Purdy sat out Thursday's exhibition win over the Raiders.",
