@@ -2,12 +2,21 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1300**
-- Newly captured: **1**
+- Stored stories: **1303**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Patrick Mahomes** — Patrick Mahomes II (knee) on track to start Week 1 (2026-08-29T17:50:49.303000Z)
+- **NEW — Jalen McMillan** — Jalen McMillan (knee) expected to be available Week 1 (2026-08-29T18:00:49.366000Z)
+  - McMillan has been battling through knee and leg injuries during training camp. He is expected to compete for the immediate WR3 role for Tampa Bay. 
+  - Source: https://www.fantasypros.com/nfl/news/604650/jalen-mcmillan-knee-expected-to-be-available-week-1.php
+- **NEW — Emeka Egbuka** — Emeka Egbuka (toe) hopeful for Week 1 (2026-08-29T18:00:49.354000Z)
+  - Egbuka has been working his way back from a toe injury during training camp. He is a WR2 with WR1 upside when healthy this season for fantasy managers. 
+  - Source: https://www.fantasypros.com/nfl/news/604651/emeka-egbuka-toe-hopeful-week-1.php
+- **NEW — Alec Pierce** — Alec Pierce goes through pregame, not playing (2026-08-29T17:55:49.758000Z)
+  - Pierce was activated from the PUP list earlier this week. He has a chance to be ready for Week 1 against the Ravens. 
+  - Source: https://www.fantasypros.com/nfl/news/604649/alec-pierce-goes-through-pregame-not-playing.php
+- **Patrick Mahomes** — Patrick Mahomes II (knee) on track to start Week 1 (2026-08-29T17:50:49.303000Z)
   - Mahomes has worked his way back from a torn ACL. He didn't see any action in the preseason, but he is expected to be good to go for the season opener. 
   - Source: https://www.fantasypros.com/nfl/news/604648/patrick-mahomes-ii-knee-on-track-to-start-week-1.php
 - **Patrick Mahomes** — Patrick Mahomes - On track for Week 1 (2026-08-29T17:08:09Z)
@@ -202,9 +211,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The extent of the injury Jeanty sustained at Sunday's practice session has not been revealed, but Kubiak's comments provide reason to believe the Raiders will have their top running back available for the season opener against the Dolphins on Sept. 13. Jeanty will have over two weeks to rest and recover before the campaign gets underway. Should he encounter any hiccups, Mike Washington remains next in line in the Las Vegas backfield.
 - **Emeka Egbuka** — Emeka Egbuka's Focus is on Being Ready for Week 1 (2026-08-28T16:16:07Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbukas-focus-is-on-being-ready-for-week-1/1918683
-- **Jordan Mason** — Jordan Mason Keeps Climbing in Redraft Leagues (2026-08-28T15:50:13Z)
-  - Source: https://www.rotoballer.com/player-news/jordan-mason-keeps-climbing-in-redraft/1918648
-- **Jake Ferguson** — Jake Ferguson Slipping Toward TE2 Territory (2026-08-28T15:39:09Z)
-  - Source: https://www.rotoballer.com/player-news/jake-ferguson-slipping-toward-te2-territory/1918637
-- **Dalton Schultz** — Dalton Schultz Back in the Late-Round Conversation (2026-08-28T15:27:07Z)
-  - Source: https://www.rotoballer.com/player-news/dalton-schultz-back-in-the-late-round-conversation/1918615

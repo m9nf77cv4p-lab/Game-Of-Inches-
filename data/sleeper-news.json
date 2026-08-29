@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-08-29T17:52:16Z",
+  "last_checked_at": "2026-08-29T18:02:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|4046|fantasy_pros|604648|1788025849303"
+    "nfl|11618|fantasy_pros|604650|1788026449366",
+    "nfl|12514|fantasy_pros|604651|1788026449354",
+    "nfl|8142|fantasy_pros|604649|1788026149758"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,69 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "McMillan has been battling through knee and leg injuries during training camp. He is expected to compete for the immediate WR3 role for Tampa Bay. ",
+      "description": "Buccaneers coach Todd Bowles said he expects WR Jalen McMillan to be available for Week 1 against the Bengals. ",
+      "metadata": {
+        "analysis": "McMillan has been battling through knee and leg injuries during training camp. He is expected to compete for the immediate WR3 role for Tampa Bay. ",
+        "description": "Buccaneers coach Todd Bowles said he expects WR Jalen McMillan to be available for Week 1 against the Bengals. ",
+        "title": "Jalen McMillan (knee) expected to be available Week 1",
+        "topic_id": "1399487998449442816",
+        "url": "https://www.fantasypros.com/nfl/news/604650/jalen-mcmillan-knee-expected-to-be-available-week-1.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1788026449366,
+      "source": "fantasy_pros",
+      "source_key": "604650",
+      "story_id": "nfl|11618|fantasy_pros|604650|1788026449366",
+      "title": "Jalen McMillan (knee) expected to be available Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/604650/jalen-mcmillan-knee-expected-to-be-available-week-1.php"
+    },
+    {
+      "analysis": "Egbuka has been working his way back from a toe injury during training camp. He is a WR2 with WR1 upside when healthy this season for fantasy managers. ",
+      "description": "Buccaneers coach Todd Bowles said he is hopeful WR Emeka Egbuka will be available Week 1 against the Bengals. ",
+      "metadata": {
+        "analysis": "Egbuka has been working his way back from a toe injury during training camp. He is a WR2 with WR1 upside when healthy this season for fantasy managers. ",
+        "description": "Buccaneers coach Todd Bowles said he is hopeful WR Emeka Egbuka will be available Week 1 against the Bengals. ",
+        "title": "Emeka Egbuka (toe) hopeful for Week 1",
+        "topic_id": "1399487998403305472",
+        "url": "https://www.fantasypros.com/nfl/news/604651/emeka-egbuka-toe-hopeful-week-1.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1788026449354,
+      "source": "fantasy_pros",
+      "source_key": "604651",
+      "story_id": "nfl|12514|fantasy_pros|604651|1788026449354",
+      "title": "Emeka Egbuka (toe) hopeful for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/604651/emeka-egbuka-toe-hopeful-week-1.php"
+    },
+    {
+      "analysis": "Pierce was activated from the PUP list earlier this week. He has a chance to be ready for Week 1 against the Ravens. ",
+      "description": "Alec Pierce went through pregame before Saturday's preseason game against the Lions. ",
+      "metadata": {
+        "analysis": "Pierce was activated from the PUP list earlier this week. He has a chance to be ready for Week 1 against the Ravens. ",
+        "description": "Alec Pierce went through pregame before Saturday's preseason game against the Lions. ",
+        "title": "Alec Pierce goes through pregame, not playing",
+        "topic_id": "1399486741802393600",
+        "url": "https://www.fantasypros.com/nfl/news/604649/alec-pierce-goes-through-pregame-not-playing.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1788026149758,
+      "source": "fantasy_pros",
+      "source_key": "604649",
+      "story_id": "nfl|8142|fantasy_pros|604649|1788026149758",
+      "title": "Alec Pierce goes through pregame, not playing",
+      "url": "https://www.fantasypros.com/nfl/news/604649/alec-pierce-goes-through-pregame-not-playing.php"
+    },
     {
       "analysis": "Mahomes has worked his way back from a torn ACL. He didn't see any action in the preseason, but he is expected to be good to go for the season opener. ",
       "description": "Patrick Mahomes II remains on track to be good to go for Week 1 against the Broncos. ",
