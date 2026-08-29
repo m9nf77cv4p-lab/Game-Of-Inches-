@@ -2,16 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1230**
-- Newly captured: **3**
+- Stored stories: **1231**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Tre' Harris** — Tre' Harris - Idle for preseason finale (2026-08-28T23:40:00Z)
+- **Tre' Harris** — Tre' Harris - Idle for preseason finale (2026-08-28T23:40:00Z)
   - Harris will end up not playing a single preseason game, missing the last two while working through an undisclosed injury. Despite the lack of on-field playing time, there's no indication that the 2025 second-rounder is in jeopardy of missing the Chargers' regular-season opener against the Cardinals on Sunday, Sept. 13. Following the departure of Keenan Allen, Harris figures to serve as the Chargers' WR3 this season behind Ladd McConkey and Quentin Johnston.
-- **NEW — Kimani Vidal** — Kimani Vidal - Tallies six snaps in preseason finale (2026-08-28T23:38:37Z)
+- **Kimani Vidal** — Kimani Vidal - Tallies six snaps in preseason finale (2026-08-28T23:38:37Z)
   - Top RB Omarion Hampton started for the Chargers and played two series. Vidal followed and rushed for five yards on his first carry before taking a 1-yard loss on the next play. He was on the field for a few more snaps during the Chargers' next series before calling it a day. Keaton Mitchell (undisclosed) didn't play in the contest, and it's unclear what precise issue he's dealing with it or how long he'll be sidelined. There's been no indication to this point that Mitchell is in danger of missing Week 1 of the regular season, but if that were to change, Vidal would be slated for an increased role behind Hampton.
-- **NEW — Ladd McConkey** — Ladd McConkey - Plays three snaps vs. Rams (2026-08-28T23:36:03Z)
+- **Ladd McConkey** — Ladd McConkey - Plays three snaps vs. Rams (2026-08-28T23:36:03Z)
   - McConkey was on the field for each of the Chargers' first two series before observing the rest of Thursday's exhibition contest from the sidelines. The 2024 second-rounder is the top wide receiver on the Chargers' depth chart following the departure of veteran Keenan Allen, and McConkey should be one of Justin Herbert's go-to targets in the passing game. McConkey caught 66 passes (on 106 targets) for 789 yards and six touchdowns across 16 regular-season games last year.
 - **David Njoku** — David Njoku - Wraps up exhibition slate with limited work (2026-08-28T23:28:06Z)
   - Njoku worked behind starter Charlie Kolar and ahead of Oronde Gadsden in the contest. During the exhibition slate, Kolar and starting QB Justin Herbert were on the field together for six snaps, while Njoku logged five snaps with Herbert and Gadsden registered just one. That could be an indication of the pecking order during the regular season as well, as Kolar is considered the superior blocker of the trio and Gadsden the top pass catcher, with Njoku being competent in both areas.
@@ -22,7 +22,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Malik Nabers** — Malik Nabers - Not in uniform Friday (2026-08-28T23:18:26Z)
   - Nabers has been an active participant during most of training camp and finally ditched the non-contact red jersey at Monday's practice, but he won't make an appearance during exhibition season as he continues to put last season's torn right ACL further in the rearview mirror. He'll continue to ramp up in advance of a Week 1 matchup with the Cowboys on Sunday, Sept. 13.
 - **Oronde Gadsden** — Oronde Gadsden - Logs limited work in preseason finale (2026-08-28T23:18:22Z)
-  - For the second straight week, Gadsden worked in a reserve role behind Charlie Kolar and David Njoku. While snap counts during preseason play aren't generally reflective of what will happen during the regular season, it could be telling that Gadsden saw only one offensive snap with Justin Herbert on the field during the exhibition slate while fellow tight ends Charlie Kolar and David Njoku logged six and five snaps, respectively. Despite Gadsden's promising rookie campaign last year, he could be looking at a reduced role behind Kolar and Njoku -- both of whom are regarded as better blockers -- in new offensive coordinator Mike McDaniel's system.
+  - For the second straight week, Gadsden worked in a reserve role behind Charlie Kolar and David Njoku. While snap counts during preseason play aren't generally reflective of what will happen during the regular season, it could be telling that Gadsden saw only one offensive snap with Justin Herbert on the field during the exhibition slate while fellow tight ends Charlie Kolar and David Njoku logged six and five snaps, respectively, in that scenario. Despite Gadsden's promising rookie campaign last year, he could be looking at a reduced role behind Kolar and Njoku -- both of whom are regarded as better blockers -- in new offensive coordinator Mike McDaniel's system.
 - **Mac Jones** — Mac Jones - Quick appearance in preseason finale (2026-08-28T23:12:00Z)
   - Jones played just eight offensive snaps in the contest, marking a quick end to the preseason for the veteran backup. Despite the poor outing, Jones is still the most likely No. 2 option at quarterback behind starter Brock Purdy. With Kurtis Rourke (ribs) dealing with an injury, Adrian Martinez will likely fill out the QB room as the team heads into Sunday's cutdown day.
 - **Jack Bech** — Jack Bech - Plays in finale (2026-08-28T23:08:17Z)
@@ -39,6 +39,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - On Aug. 20, Croskey-Merritt pulled up at the end of a catch and run in practice due to a lower-body injury, which now will keep him out of the Commanders' final two exhibitions. He focused on rehab work on the side this week, with the intent to return to practice at some point next week. Rachaad White (hamstring) and Jeremy McNichols (quadriceps) also aren't in uniform Friday, meaning rookie sixth-rounder Kaytron Allen, Robert Henry and Craig Reynolds are the team's available RBs for preseason Week 3.
 - **Emeka Egbuka** — Emeka Egbuka - Focus remains on Week 1 (2026-08-28T19:49:18Z)
   - Egbuka, per the report, made the trip to Jacksonville with his teammates for Friday's preseason finale, but he will not suit up and will instead keep working on his recovery from the toe injury he sustained a little over two weeks ago. It's not yet known when Egbuka will be back on the field, so his availability remains up in the air in advance of his team's season-opening matchup with the Bengals on Sept. 13.
+- **NEW — Malik Nabers** — Malik Nabers Not Suiting Up for Preseason Finale (2026-08-28T19:49:03Z)
+  - Source: https://www.rotoballer.com/player-news/malik-nabers-not-suiting-up-for-preseason-finale/1918803
 - **Chase Brown** — Chase Brown Could See More Under-Center Rushing Opportunities (2026-08-28T19:11:07Z)
   - Source: https://www.rotoballer.com/player-news/chase-brown-could-see-more-under-center-rushing-opportunities/1918789
 - **J.J. McCarthy** — J.J. McCarthy Not Playing in Preseason Finale Against Denver (2026-08-28T18:47:06Z)
@@ -207,5 +209,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Josh Jacobs** — Josh Jacobs charged with two misdemeanors stemming from May incident (2026-08-27T21:00:54.934000Z)
   - It's important to remember that the NFL has the ability to either suspend Jacobs at the start of the season or wait until the legal process is over. If they wait, then Jacobs will likely not face suspension until next year. If not, we could be looking at a potential 6-8 game absence, though that is more of an educated guess at this point. For anyone taking Jacobs in drafts right now, Marshawn Lloyd is a must-have handcuff and is a great target for Zero-RB builds.
   - Source: https://www.fantasypros.com/nfl/news/604455/josh-jacobs-charged-with-two-misdemeanors-following.php
-- **Josh Jacobs** — Josh Jacobs - Officially facing charges (2026-08-27T19:46:25Z)
-  - Jacobs was arrested on five charges in May, and he has officially been charged with "misdemeanor battery and criminal damage to property." Per the report, "The NFL has been monitoring all developments in the matter, which remains under review."

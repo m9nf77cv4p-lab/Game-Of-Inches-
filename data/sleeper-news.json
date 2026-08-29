@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-08-28T23:42:17Z",
+  "last_checked_at": "2026-08-29T00:02:22Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11635|rotowire|635048|1787960163000",
-    "nfl|11647|rotowire|635049|1787960317000",
-    "nfl|12509|rotowire|635050|1787960400000"
+    "nfl|11632|rotoballer|219602|1787946543000"
   ],
   "schema_version": 1,
   "source": {
@@ -156,10 +154,10 @@
       "url": null
     },
     {
-      "analysis": "For the second straight week, Gadsden worked in a reserve role behind Charlie Kolar and David Njoku. While snap counts during preseason play aren't generally reflective of what will happen during the regular season, it could be telling that Gadsden saw only one offensive snap with Justin Herbert on the field during the exhibition slate while fellow tight ends Charlie Kolar and David Njoku logged six and five snaps, respectively. Despite Gadsden's promising rookie campaign last year, he could be looking at a reduced role behind Kolar and Njoku -- both of whom are regarded as better blockers -- in new offensive coordinator Mike McDaniel's system.",
+      "analysis": "For the second straight week, Gadsden worked in a reserve role behind Charlie Kolar and David Njoku. While snap counts during preseason play aren't generally reflective of what will happen during the regular season, it could be telling that Gadsden saw only one offensive snap with Justin Herbert on the field during the exhibition slate while fellow tight ends Charlie Kolar and David Njoku logged six and five snaps, respectively, in that scenario. Despite Gadsden's promising rookie campaign last year, he could be looking at a reduced role behind Kolar and Njoku -- both of whom are regarded as better blockers -- in new offensive coordinator Mike McDaniel's system.",
       "description": "Gadsden participated in eight offensive snaps and did not record any statistics otherwise in Thursday's preseason loss to the Rams.",
       "metadata": {
-        "analysis": "For the second straight week, Gadsden worked in a reserve role behind Charlie Kolar and David Njoku. While snap counts during preseason play aren't generally reflective of what will happen during the regular season, it could be telling that Gadsden saw only one offensive snap with Justin Herbert on the field during the exhibition slate while fellow tight ends Charlie Kolar and David Njoku logged six and five snaps, respectively. Despite Gadsden's promising rookie campaign last year, he could be looking at a reduced role behind Kolar and Njoku -- both of whom are regarded as better blockers -- in new offensive coordinator Mike McDaniel's system.",
+        "analysis": "For the second straight week, Gadsden worked in a reserve role behind Charlie Kolar and David Njoku. While snap counts during preseason play aren't generally reflective of what will happen during the regular season, it could be telling that Gadsden saw only one offensive snap with Justin Herbert on the field during the exhibition slate while fellow tight ends Charlie Kolar and David Njoku logged six and five snaps, respectively, in that scenario. Despite Gadsden's promising rookie campaign last year, he could be looking at a reduced role behind Kolar and Njoku -- both of whom are regarded as better blockers -- in new offensive coordinator Mike McDaniel's system.",
         "description": "Gadsden participated in eight offensive snaps and did not record any statistics otherwise in Thursday's preseason loss to the Rams.",
         "title": "Oronde Gadsden - Logs limited work in preseason finale",
         "topic_id": "1399206102205235200"
@@ -334,6 +332,26 @@
       "story_id": "nfl|12514|rotowire|635014|1787946558000",
       "title": "Emeka Egbuka - Focus remains on Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants wide receiver Malik Nabers (knee) is not suiting up for the team's preseason finale against the New York Jets on Friday night, according to Pat Leonard of the New York Daily News. It is no surprise that Nabers is not on the field for the final preseason game, even though he finally ditched his non-contact jersey in training camp practice on Monday. The 23-year-old former first-rounder from LSU avoided the Physically Unable to Perform list for the start of camp at the end of July, but the Giants have been extremely cautious in his recovery from a torn ACL and meniscus in his right knee early on in 2025. Nabers has slowly been ramping up, but all signs point to him being active in the Week 1 regular-season showdown against the division-rival Dallas Cowboys on Sunday night. While Nabers could be on a snap count out of the gates, he has some of the most upside of any young receiver in the NFL after catching 109 of 170 targets for 1,204 yards and seven touchdowns in his rookie campaign in 2024. Treat him as a risk/reward low-end WR1 in 2026.",
+      "metadata": {
+        "description": "New York Giants wide receiver Malik Nabers (knee) is not suiting up for the team's preseason finale against the New York Jets on Friday night, according to Pat Leonard of the New York Daily News. It is no surprise that Nabers is not on the field for the final preseason game, even though he finally ditched his non-contact jersey in training camp practice on Monday. The 23-year-old former first-rounder from LSU avoided the Physically Unable to Perform list for the start of camp at the end of July, but the Giants have been extremely cautious in his recovery from a torn ACL and meniscus in his right knee early on in 2025. Nabers has slowly been ramping up, but all signs point to him being active in the Week 1 regular-season showdown against the division-rival Dallas Cowboys on Sunday night. While Nabers could be on a snap count out of the gates, he has some of the most upside of any young receiver in the NFL after catching 109 of 170 targets for 1,204 yards and seven touchdowns in his rookie campaign in 2024. Treat him as a risk/reward low-end WR1 in 2026.",
+        "title": "Malik Nabers Not Suiting Up for Preseason Finale",
+        "topic_id": "1399214909555765248",
+        "url": "https://www.rotoballer.com/player-news/malik-nabers-not-suiting-up-for-preseason-finale/1918803"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1787946543000,
+      "source": "rotoballer",
+      "source_key": "219602",
+      "story_id": "nfl|11632|rotoballer|219602|1787946543000",
+      "title": "Malik Nabers Not Suiting Up for Preseason Finale",
+      "url": "https://www.rotoballer.com/player-news/malik-nabers-not-suiting-up-for-preseason-finale/1918803"
     },
     {
       "analysis": null,
