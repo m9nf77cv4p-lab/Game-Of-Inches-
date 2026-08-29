@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1309**
-- Newly captured: **0**
+- Stored stories: **1310**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -26,6 +26,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Mahomes said a week ago he was "extremely confident" he would be ready for Kansas City's season opener, and the latest report keeps him on track to do so. It's unclear how close he is to 100 percent, but it's growing more and more likely that the torn left ACL he sustained last December will not cost him any action during the 2026 campaign.
 - **Alec Pierce** — Alec Pierce - Working out but will sit Saturday (2026-08-29T16:42:42Z)
   - Pierce was activated from the Active/PUP list Thursday, but he is not ready to appear in a game just yet. He will keep building up over the next two weeks with an eye on suiting up for his team's Week 1 matchup with the Ravens.
+- **NEW — Kimani Vidal** — Kimani Vidal Viewed as a Better Pass Protector Over Omarion Hampton (2026-08-29T16:24:08Z)
+  - Source: https://www.rotoballer.com/player-news/kimani-vidal-viewed-as-a-better-pass-protector-over-omarion-hampton/1919269
 - **Jordan Addison** — Jordan Addison a Sleeper to Target in Redraft Leagues (2026-08-29T16:05:06Z)
   - Source: https://www.rotoballer.com/player-news/jordan-addison-a-sleeper-to-target-in-redraft-leagues/1919265
 - **Omarion Hampton** — Omarion Hampton Set to Break Out in His Sophomore Season (2026-08-29T15:40:09Z)
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Egbuka, per the report, made the trip to Jacksonville with his teammates for Friday's preseason finale, but he will not suit up and will instead keep working on his recovery from the toe injury he sustained a little over two weeks ago. It's not yet known when Egbuka will be back on the field, so his availability remains up in the air in advance of his team's season-opening matchup with the Bengals on Sept. 13.
 - **Malik Nabers** — Malik Nabers Not Suiting Up for Preseason Finale (2026-08-28T19:49:03Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-not-suiting-up-for-preseason-finale/1918803
-- **Chase Brown** — Chase Brown Could See More Under-Center Rushing Opportunities (2026-08-28T19:11:07Z)
-  - Source: https://www.rotoballer.com/player-news/chase-brown-could-see-more-under-center-rushing-opportunities/1918789
