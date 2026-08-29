@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1244**
-- Newly captured: **3**
+- Stored stories: **1245**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Romeo Doubs** — Romeo Doubs - Sits out final exhibition game (2026-08-29T01:23:52Z)
+- **NEW — Tyrone Tracy** — Tyrone Tracy - Won't return Friday (2026-08-29T01:32:44Z)
+  - Tracy sustained an apparent neck injury during an eight-yard run in the second quarter. The good news for the third-year running back is that he was not diagnosed with a concussion, and he'll finish his night with four carries for 37 yards and a touchdown. How Tracy's neck reacts over the coming days will determine what his practice participation will look like leading up to Week 1 against the Cowboys on Sunday, Sept. 13.
+- **Romeo Doubs** — Romeo Doubs - Sits out final exhibition game (2026-08-29T01:23:52Z)
   - Doubs was among numerous Patriots projected regular-season starters who were held out of Thursday's contest. The veteran wideout didn't play at all during the exhibition slate but drew praise during training camp for his work during practices. Doubs is slated for a major role in his first campaign with New England, as he's set to start alongside A.J. Brown at the WR position.
-- **NEW — Marvin Mims** — Marvin Mims - Goes to locker room (2026-08-29T01:22:13Z)
+- **Marvin Mims** — Marvin Mims - Goes to locker room (2026-08-29T01:22:13Z)
   - Mims appeared to sustain the injury while attempting a leaping reception early in the first quarter. He was able to walk off the field under his own power but was directed to the blue medical tent before going into the locker room. Mims will undergo further tests to determine the severity of his foot injury, but it wouldn't be surprising if the fourth-year wideout was held out for the rest of Friday's exhibition contest.
 - **Deebo Samuel** — Deebo Samuel - Held out of preseason finale (2026-08-29T01:18:03Z)
   - The 49ers rested most of their projected regular-season starters, so Samuel's absence was expected. The veteran wideout saw action in one exhibition contest, catching one of two targets for four yards. Samuel should have a key role in San Francisco's passing game with Ricky Pearsall (knee) out for the season, and he gives QB Brock Purdy some familiarity amongst a WR corps that features numerous newcomers, including Mike Evans (groin), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).
@@ -59,7 +61,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - White has been tending to a hamstring injury since Aug. 19 that will keep him sidelined for the Commanders' final two exhibitions. He was able to mix into individual drills as recently as Monday, though, so he's making progress in his recovery. White will join No. 1 RB Jacory Croskey-Merritt (lower body) and Jeremy McNichols (quadriceps) on the sideline Friday.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Sitting out Friday's preseason game (2026-08-28T21:43:40Z)
   - On Aug. 20, Croskey-Merritt pulled up at the end of a catch and run in practice due to a lower-body injury, which now will keep him out of the Commanders' final two exhibitions. He focused on rehab work on the side this week, with the intent to return to practice at some point next week. Rachaad White (hamstring) and Jeremy McNichols (quadriceps) also aren't in uniform Friday, meaning rookie sixth-rounder Kaytron Allen, Robert Henry and Craig Reynolds are the team's available RBs for preseason Week 3.
-- **NEW — Joe Burrow** — Joe Burrow Has a Hefty Price Tag with Some Injury Risk (2026-08-28T21:22:11Z)
+- **Joe Burrow** — Joe Burrow Has a Hefty Price Tag with Some Injury Risk (2026-08-28T21:22:11Z)
   - Source: https://www.rotoballer.com/player-news/joe-burrow-has-a-hefty-price-tag-with-some-injury-risk/1918859
 - **Tyrone Tracy** — Tyrone Tracy Jr. Injures his Neck in Preseason Finale on Friday (2026-08-28T20:59:15Z)
   - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-injures-his-neck-in-preseason-finale-on-friday/1918838
@@ -205,6 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-trending-in-the-right-direction-for-week-1/1918047
 - **Jalen Milroe** — Jalen Milroe to Play a Full Game in Preseason Finale (2026-08-27T23:17:08Z)
   - Source: https://www.rotoballer.com/player-news/jalen-milroe-to-play-a-full-game-in-preseason-finale/1918043
-- **TreVeyon Henderson** — TreVeyon Henderson (ankle) expected to be "good to go" for Week 1 (2026-08-27T23:15:56.006000Z)
-  - Henderson has missed practice this week and did not travel with the team to their final preseason game, but it seems to be a precautionary measure. The running back seems to be behind veteran Rhamondre Stevenson in the New England depth chart, but he could earn more playing time as the season goes on if he is healthy.
-  - Source: https://www.fantasypros.com/nfl/news/604478/treveyon-henderson-ankle-expected-to-be-good-to-go-week-1.php

@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T01:33:30Z",
+  "last_checked_at": "2026-08-29T01:43:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|6770|rotoballer|219604|1787952131000",
-    "nfl|8121|rotowire|635066|1787966632000",
-    "nfl|9494|rotowire|635065|1787966533000"
+    "nfl|11655|rotowire|635067|1787967164000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Tracy sustained an apparent neck injury during an eight-yard run in the second quarter. The good news for the third-year running back is that he was not diagnosed with a concussion, and he'll finish his night with four carries for 37 yards and a touchdown. How Tracy's neck reacts over the coming days will determine what his practice participation will look like leading up to Week 1 against the Cowboys on Sunday, Sept. 13.",
+      "description": "Tracy (neck) cleared concussion protocol but will not return to Friday's preseason game against the Jets, Paul Schwartz of the New York Post reports.",
+      "metadata": {
+        "analysis": "Tracy sustained an apparent neck injury during an eight-yard run in the second quarter. The good news for the third-year running back is that he was not diagnosed with a concussion, and he'll finish his night with four carries for 37 yards and a touchdown. How Tracy's neck reacts over the coming days will determine what his practice participation will look like leading up to Week 1 against the Cowboys on Sunday, Sept. 13.",
+        "description": "Tracy (neck) cleared concussion protocol but will not return to Friday's preseason game against the Jets, Paul Schwartz of the New York Post reports.",
+        "title": "Tyrone Tracy - Won't return Friday",
+        "topic_id": "1399240081088204800"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11655",
+      "player_name": "Tyrone Tracy",
+      "position": "RB",
+      "published": 1787967164000,
+      "source": "rotowire",
+      "source_key": "635067",
+      "story_id": "nfl|11655|rotowire|635067|1787967164000",
+      "title": "Tyrone Tracy - Won't return Friday",
+      "url": null
+    },
     {
       "analysis": "Doubs was among numerous Patriots projected regular-season starters who were held out of Thursday's contest. The veteran wideout didn't play at all during the exhibition slate but drew praise during training camp for his work during practices. Doubs is slated for a major role in his first campaign with New England, as he's set to start alongside A.J. Brown at the WR position.",
       "description": "Doubs didn't suit up in Thursday's preseason loss to the Browns.",
