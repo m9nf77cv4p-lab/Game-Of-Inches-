@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1310**
-- Newly captured: **0**
+- Stored stories: **1312**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -22,6 +22,10 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Patrick Mahomes** — Patrick Mahomes II (knee) on track to start Week 1 (2026-08-29T17:50:49.303000Z)
   - Mahomes has worked his way back from a torn ACL. He didn't see any action in the preseason, but he is expected to be good to go for the season opener. 
   - Source: https://www.fantasypros.com/nfl/news/604648/patrick-mahomes-ii-knee-on-track-to-start-week-1.php
+- **NEW — Kirk Cousins** — Raiders Set to Name Kirk Cousins as Week 1 Starter (2026-08-29T17:22:10Z)
+  - Source: https://www.rotoballer.com/player-news/raiders-set-to-name-kirk-cousins-as-week-1-starter/1919281
+- **NEW — Fernando Mendoza** — Fernando Mendoza Could Begin the Season as the QB3 (2026-08-29T17:17:11Z)
+  - Source: https://www.rotoballer.com/player-news/fernando-mendoza-could-begin-the-season-as-raiders-qb3/1919278
 - **Patrick Mahomes** — Patrick Mahomes - On track for Week 1 (2026-08-29T17:08:09Z)
   - Mahomes said a week ago he was "extremely confident" he would be ready for Kansas City's season opener, and the latest report keeps him on track to do so. It's unclear how close he is to 100 percent, but it's growing more and more likely that the torn left ACL he sustained last December will not cost him any action during the 2026 campaign.
 - **Alec Pierce** — Alec Pierce - Working out but will sit Saturday (2026-08-29T16:42:42Z)
@@ -208,7 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/joe-burrow-has-a-hefty-price-tag-with-some-injury-risk/1918859
 - **Tyrone Tracy** — Tyrone Tracy Jr. Injures his Neck in Preseason Finale on Friday (2026-08-28T20:59:15Z)
   - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-injures-his-neck-in-preseason-finale-on-friday/1918838
-- **Emeka Egbuka** — Emeka Egbuka - Focus remains on Week 1 (2026-08-28T19:49:18Z)
-  - Egbuka, per the report, made the trip to Jacksonville with his teammates for Friday's preseason finale, but he will not suit up and will instead keep working on his recovery from the toe injury he sustained a little over two weeks ago. It's not yet known when Egbuka will be back on the field, so his availability remains up in the air in advance of his team's season-opening matchup with the Bengals on Sept. 13.
-- **Malik Nabers** — Malik Nabers Not Suiting Up for Preseason Finale (2026-08-28T19:49:03Z)
-  - Source: https://www.rotoballer.com/player-news/malik-nabers-not-suiting-up-for-preseason-finale/1918803

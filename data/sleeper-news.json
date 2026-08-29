@@ -1,8 +1,11 @@
 {
-  "last_checked_at": "2026-08-29T20:42:55Z",
+  "last_checked_at": "2026-08-29T21:33:20Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|1166|rotoballer|219675|1788024130000",
+    "nfl|13269|rotoballer|219676|1788023831000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -115,6 +118,46 @@
       "story_id": "nfl|4046|fantasy_pros|604648|1788025849303",
       "title": "Patrick Mahomes II (knee) on track to start Week 1",
       "url": "https://www.fantasypros.com/nfl/news/604648/patrick-mahomes-ii-knee-on-track-to-start-week-1.php"
+    },
+    {
+      "analysis": null,
+      "description": "According to Matt Zenitz of CBS Sports, the Las Vegas Raiders are expected to name veteran quarterback Kirk Cousins their Week 1 starter. Even though Cousins was slated to take the starting job back at the beginning of training camp, newly appointed head coach Klint Kubiak has kept the door open for a competition. However, the veteran earned the starting gig over first-overall pick Fernando Mendoza and Aidan O'Connell. Cousins has been sharp in the preseason, going 5-for-6 in the opener and 8-for-11 in their preseason finale this past Thursday evening. Last season, Cousins appeared in 10 games for the Falcons and averaged 205.5 passing yards per game with a 10:5 TD:INT in the eight games in which he logged more than 50 offensive snaps. Given that the Raiders lack many proven options in the passing game outside of star tight end Brock Bowers, the 38-year-old carries low-end QB3 appeal in their Week 1 opener against the Miami Dolphins.",
+      "metadata": {
+        "description": "According to Matt Zenitz of CBS Sports, the Las Vegas Raiders are expected to name veteran quarterback Kirk Cousins their Week 1 starter. Even though Cousins was slated to take the starting job back at the beginning of training camp, newly appointed head coach Klint Kubiak has kept the door open for a competition. However, the veteran earned the starting gig over first-overall pick Fernando Mendoza and Aidan O'Connell. Cousins has been sharp in the preseason, going 5-for-6 in the opener and 8-for-11 in their preseason finale this past Thursday evening. Last season, Cousins appeared in 10 games for the Falcons and averaged 205.5 passing yards per game with a 10:5 TD:INT in the eight games in which he logged more than 50 offensive snaps. Given that the Raiders lack many proven options in the passing game outside of star tight end Brock Bowers, the 38-year-old carries low-end QB3 appeal in their Week 1 opener against the Miami Dolphins.",
+        "title": "Raiders Set to Name Kirk Cousins as Week 1 Starter",
+        "topic_id": "1399539587637911553",
+        "url": "https://www.rotoballer.com/player-news/raiders-set-to-name-kirk-cousins-as-week-1-starter/1919281"
+      },
+      "nfl_team": "LV",
+      "player_id": "1166",
+      "player_name": "Kirk Cousins",
+      "position": "QB",
+      "published": 1788024130000,
+      "source": "rotoballer",
+      "source_key": "219675",
+      "story_id": "nfl|1166|rotoballer|219675|1788024130000",
+      "title": "Raiders Set to Name Kirk Cousins as Week 1 Starter",
+      "url": "https://www.rotoballer.com/player-news/raiders-set-to-name-kirk-cousins-as-week-1-starter/1919281"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders head coach Klint Kubiak is open to naming Aidan O'Connell as the QB2 over rookie first overall pick Fernando Mendoza, according to Michael Smith of NBC Sports. This would make the No. 1 overall pick the QB3 to start the season for the Raiders. During the preseason, Mendoza had 25 completions on 45 passing attempts for 240 yards, one touchdown and two interceptions. It has widely been expected that Kirk Cousins would be the starting quarterback for Week 1, with Mendoza being the backup. However, not many would have thought the rookie would start the season as the third-string quarterback. \"We've got three guys that are ready to play,\" Kubiak told team reporters. \"It's going to be some hard decisions on who's 1, who's 2. That's not a decision we have to make today, but those are discussions that are ongoing.\" If this happens, nothing much will change for Mendoza's fantasy outlook for redraft leagues and dynasty leagues. We knew he was a long-term fantasy investment that would not have much fantasy relevance until, at best, the end of the 2026 season.",
+      "metadata": {
+        "description": "Las Vegas Raiders head coach Klint Kubiak is open to naming Aidan O'Connell as the QB2 over rookie first overall pick Fernando Mendoza, according to Michael Smith of NBC Sports. This would make the No. 1 overall pick the QB3 to start the season for the Raiders. During the preseason, Mendoza had 25 completions on 45 passing attempts for 240 yards, one touchdown and two interceptions. It has widely been expected that Kirk Cousins would be the starting quarterback for Week 1, with Mendoza being the backup. However, not many would have thought the rookie would start the season as the third-string quarterback. \"We've got three guys that are ready to play,\" Kubiak told team reporters. \"It's going to be some hard decisions on who's 1, who's 2. That's not a decision we have to make today, but those are discussions that are ongoing.\" If this happens, nothing much will change for Mendoza's fantasy outlook for redraft leagues and dynasty leagues. We knew he was a long-term fantasy investment that would not have much fantasy relevance until, at best, the end of the 2026 season.",
+        "title": "Fernando Mendoza Could Begin the Season as the QB3",
+        "topic_id": "1399539587637911552",
+        "url": "https://www.rotoballer.com/player-news/fernando-mendoza-could-begin-the-season-as-raiders-qb3/1919278"
+      },
+      "nfl_team": "LV",
+      "player_id": "13269",
+      "player_name": "Fernando Mendoza",
+      "position": "QB",
+      "published": 1788023831000,
+      "source": "rotoballer",
+      "source_key": "219676",
+      "story_id": "nfl|13269|rotoballer|219676|1788023831000",
+      "title": "Fernando Mendoza Could Begin the Season as the QB3",
+      "url": "https://www.rotoballer.com/player-news/fernando-mendoza-could-begin-the-season-as-raiders-qb3/1919278"
     },
     {
       "analysis": "Mahomes said a week ago he was \"extremely confident\" he would be ready for Kansas City's season opener, and the latest report keeps him on track to do so. It's unclear how close he is to 100 percent, but it's growing more and more likely that the torn left ACL he sustained last December will not cost him any action during the 2026 campaign.",
