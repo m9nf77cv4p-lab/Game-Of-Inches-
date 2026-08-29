@@ -3,11 +3,11 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1278**
-- Newly captured: **1**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Kaytron Allen** — Kaytron Allen - Poor showing in preseason finale (2026-08-29T05:48:24Z)
+- **Kaytron Allen** — Kaytron Allen - Poor showing in preseason finale (2026-08-29T05:48:24Z)
   - With the Commanders resting all their key personnel in the team's final exhibition contest, Allen got the start in the backfield but coughed up the ball on his first touch, setting the Ravens up for their first TD of the night. The 2026 sixth-round pick is expected to begin the regular season as the third back on the depth chart behind Jacory Croskey-Merritt (lower body) and Rachaad White (hamstring), but if the injuries to either RB linger into Week 1, Allen could see a bigger workload than expected in his NFL debut.
 - **Troy Franklin** — Troy Franklin - Fails to corral sole target (2026-08-29T05:10:51Z)
   - Franklin opened preseason with a 23-yard grab in the opener against the Falcons, but that turned out to be his only production of the exhibition slate across three games. Despite the quiet summer, Franklin is slated to serve as the No. 3 receiver behind Courtland Sutton and Jaylen Waddle in what should be a high-powered Broncos air attack.
@@ -30,9 +30,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tyrone Tracy** — Tyrone Tracy - Injury not believed to be serious (2026-08-29T03:32:18Z)
   - Tracy left Friday's preseason victory over the Jets with the injury, but head coach John Harbaugh indicated afterward it is not a serious setback. Tracy had four carries for 37 yards and a touchdown prior to his exit, which is the showing he needed in what is now a crowded Giants running back room.
 - **Travis Kelce** — Travis Kelce - One catch in preseason finale (2026-08-29T03:28:07Z)
-  - Kelce was on the other end of starting quarterback's Garrett Nussmeier's first pass of the night, an eight-yard completion that took the ball to midfield on Kansas City's opening possession. Kelce thus was able to record his only stats of preseason in the brief cameo, and he'll now turn his attention to a Week 1 Monday night home showdown against the Broncos on Sept. 14 that he'll hope to play with Patrick Mahomes (knee) as his quarterback.
+  - Kelce was on the other end of starting quarterback Garrett Nussmeier's first pass of the night, an eight-yard completion that took the ball to midfield on Kansas City's opening possession. Kelce thus was able to record his only stats of the preseason in the brief cameo, and he'll now turn his attention to a Week 1 Monday night home showdown against the Broncos on Sept. 14 that he'll hope to play with Patrick Mahomes (knee) as his quarterback.
 - **Makai Lemon** — Makai Lemon - Three catches in preseason debut (2026-08-29T03:23:50Z)
-  - Lemon made his long-awaited pro debut after finally overcoming a nagging hamstring injury, and although he was certainly kept busy during his time in the game, he extracted minimal gains from his receptions. The 2026 first-round pick is still ticketed for the No. 3 receiver role to open the season despite the missed time, and Lemon will now have the opportunity to garner plenty of practice reps ahead of a Week 1 home matchup against the Commanders on Sept. 13.
+  - Lemon made his long-awaited pro debut after finally overcoming a nagging hamstring injury, and although he was certainly kept busy during his time in the game, he extracted minimal gains from his receptions. The 2026 first-round pick still is ticketed for the No. 3 receiver role to open the season despite the missed time, and Lemon now will have the opportunity to garner plenty of practice reps ahead of a Week 1 home matchup against the Commanders on Sunday, Sept. 13.
 - **Najee Harris** — Najee Harris - Gets 12 touches Friday while Tracy exits (2026-08-29T03:04:46Z)
   - Harris was the first running back to record a touch for the Giants in Friday's preseason finale, which Cam Skattebo and Devin Singletary sat out. Fellow RB Tyrone Tracy (neck) left the game in the second quarter and didn't return, though Tracy managed to clear concussion protocol. The Giants may opt to keep all four of Skattebo, Singletary, Harris and Tracy on their roster once they cut down to 53 players for the regular season.
 - **Chris Bell** — Chris Bell - Five targets in preseason finale (2026-08-29T03:00:26Z)
