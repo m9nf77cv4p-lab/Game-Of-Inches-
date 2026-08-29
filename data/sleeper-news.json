@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T04:15:16Z",
+  "last_checked_at": "2026-08-29T04:25:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13413|rotowire|635113|1787976131000",
-    "nfl|3257|rotoballer|219618|1787961909000"
+    "nfl|13287|rotowire|635118|1787976800000",
+    "nfl|13346|rotoballer|219619|1787962213000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Love was able to get in some light work in Wednesday, and he appeared to be moving at a quicker pace a couple days later. It remains unclear if he will be ready to go when the Cardinals open their season against the Chargers, but he will have just over two more weeks to work past the high-ankle sprain he picked up in the first preseason game.",
+      "description": "Love (ankle) did not play in Friday's preseason loss to the Packers, but per Cardinals team reporter Zach Gershman he was able to work out prior to the game.",
+      "metadata": {
+        "analysis": "Love was able to get in some light work in Wednesday, and he appeared to be moving at a quicker pace a couple days later. It remains unclear if he will be ready to go when the Cardinals open their season against the Chargers, but he will have just over two more weeks to work past the high-ankle sprain he picked up in the first preseason game.",
+        "description": "Love (ankle) did not play in Friday's preseason loss to the Packers, but per Cardinals team reporter Zach Gershman he was able to work out prior to the game.",
+        "title": "Jeremiyah Love - Continues to progress",
+        "topic_id": "1399281610486001664"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1787976800000,
+      "source": "rotowire",
+      "source_key": "635118",
+      "story_id": "nfl|13287|rotowire|635118|1787976800000",
+      "title": "Jeremiyah Love - Continues to progress",
+      "url": null
+    },
     {
       "analysis": "The rookie fifth-round pick didn't make his catch until the opening possession of the second half. Allen was busy this preseason with six catches on 12 targets, but those netted a modest 39 yards. Nevertheless, the Cincinnati product is likely locked into a reserve receiver role to open the 2026 season.",
       "description": "Allen brought in one of two targets for 12 yards in the Chiefs' 9-9 preseason tie with the Seahawks on Friday.",
@@ -493,6 +513,26 @@
       "story_id": "nfl|8138|rotowire|635052|1787963211000",
       "title": "James Cook - Sits out preseason finale",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns wide receiver Denzel Boston is an intriguing dynasty fantasy football option with his early-second-round draft capital, but managers shouldn't expect him to contribute right away in redraft formats. First of all, the Browns gave Boston some snaps in Week 3 of the preseason while resting Jerry Jeudy and KC Concepcion, which suggests that he's no higher than third on the depth chart. There's a decent chance that Boston won't be on the field for the first snap of Week 1, which could hinder both his floor and ceiling. Additionally, the Browns have a pretty dismal quarterback situation right now after naming Deshaun Watson the starter over Shedeur Sanders. On some teams, the No. 3 receiver might be able to carve out low-end WR3/flex appeal, but that won't be the case for Boston, regardless of whether he's catching passes from Watson or Sanders. The rookie has an ADP of 151.8, which puts him in the 13th round and makes him the 58th receiver off the board. Given his position on the depth chart and the state of the Browns' depth chart, we'd rather have someone like Jalen Nailor, Keenan Allen, or Tre' Harris at that price tag.",
+      "metadata": {
+        "description": "Cleveland Browns wide receiver Denzel Boston is an intriguing dynasty fantasy football option with his early-second-round draft capital, but managers shouldn't expect him to contribute right away in redraft formats. First of all, the Browns gave Boston some snaps in Week 3 of the preseason while resting Jerry Jeudy and KC Concepcion, which suggests that he's no higher than third on the depth chart. There's a decent chance that Boston won't be on the field for the first snap of Week 1, which could hinder both his floor and ceiling. Additionally, the Browns have a pretty dismal quarterback situation right now after naming Deshaun Watson the starter over Shedeur Sanders. On some teams, the No. 3 receiver might be able to carve out low-end WR3/flex appeal, but that won't be the case for Boston, regardless of whether he's catching passes from Watson or Sanders. The rookie has an ADP of 151.8, which puts him in the 13th round and makes him the 58th receiver off the board. Given his position on the depth chart and the state of the Browns' depth chart, we'd rather have someone like Jalen Nailor, Keenan Allen, or Tre' Harris at that price tag.",
+        "title": "Fantasy Managers Might Have to be Patient with Denzel Boston",
+        "topic_id": "1399281607193403392",
+        "url": "https://www.rotoballer.com/player-news/fantasy-managers-might-have-to-be-patient-with-denzel-boston/1918925"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13346",
+      "player_name": "Denzel Boston",
+      "position": "WR",
+      "published": 1787962213000,
+      "source": "rotoballer",
+      "source_key": "219619",
+      "story_id": "nfl|13346|rotoballer|219619|1787962213000",
+      "title": "Fantasy Managers Might Have to be Patient with Denzel Boston",
+      "url": "https://www.rotoballer.com/player-news/fantasy-managers-might-have-to-be-patient-with-denzel-boston/1918925"
     },
     {
       "analysis": null,
