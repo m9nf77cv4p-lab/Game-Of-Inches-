@@ -2,14 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1259**
-- Newly captured: **2**
+- Stored stories: **1262**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Travis Kelce** — Travis Kelce - One catch in preseason finale (2026-08-29T03:28:07Z)
+- **NEW — Brandon Aubrey** — Brandon Aubrey - Rare miss in preseason finale (2026-08-29T03:32:51Z)
+  - Aubrey missed a 57-yard field-goal attempt wide right after converting from 49 yards and 51 yards, but he made the proper adjustment on his next long attempt and was successful on a 58-yard field-goal attempt in the final minute of the first half. After making at least 36 field goals in each of his three regular seasons with the Cowboys, with a long of 60-plus yards in each campaign, Aubrey is widely considered the NFL's best kicker heading into the 2026 regular season.
+- **NEW — Xavier Worthy** — Xavier Worthy - One target in preseason debut (2026-08-29T03:32:23Z)
+  - The speedster made his preseason debut after overcoming a shoulder sprain that had plagued him for multiple weeks. Now apparently healthy, Worthy heads into his third season looking to build on the promise of his 2024 rookie campaign -- when he posted a 59-638-6 line across 17 regular-season games -- and atone for a lackluster 2025 season when he made just one trip to the end zone on 42 catches and missed three games.
+- **NEW — Tyrone Tracy** — Tyrone Tracy - Injury not believed to be serious (2026-08-29T03:32:18Z)
+  - Tracy left Friday's preseason victory over the Jets with the injury, but head coach John Harbaugh indicated afterward it is not a serious setback. Tracy had four carries for 37 yards and a touchdown prior to his exit, which is the showing he needed in what is now a crowded Giants running back room.
+- **Travis Kelce** — Travis Kelce - One catch in preseason finale (2026-08-29T03:28:07Z)
   - Kelce was on the other end of starting quarterback's Garrett Nussmeier's first pass of the night, an eight-yard completion that took the ball to midfield on Kansas City's opening possession. Kelce thus was able to record his only stats of preseason in the brief cameo, and he'll now turn his attention to a Week 1 Monday night home showdown against the Broncos on Sept. 14 that he'll hope to play with Patrick Mahomes (knee) as his quarterback.
-- **NEW — Makai Lemon** — Makai Lemon - Three catches in preseason debut (2026-08-29T03:23:50Z)
+- **Makai Lemon** — Makai Lemon - Three catches in preseason debut (2026-08-29T03:23:50Z)
   - Lemon made his long-awaited pro debut after finally overcoming a nagging hamstring injury, and although he was certainly kept busy during his time in the game, he extracted minimal gains from his receptions. The 2026 first-round pick is still ticketed for the No. 3 receiver role to open the season despite the missed time, and Lemon will now have the opportunity to garner plenty of practice reps ahead of a Week 1 home matchup against the Commanders on Sept. 13.
 - **Najee Harris** — Najee Harris - Gets 12 touches Friday while Tracy exits (2026-08-29T03:04:46Z)
   - Harris was the first running back to record a touch for the Giants in Friday's preseason finale, which Cam Skattebo and Devin Singletary sat out. Fellow RB Tyrone Tracy (neck) left the game in the second quarter and didn't return, though Tracy managed to clear concussion protocol. The Giants may opt to keep all four of Skattebo, Singletary, Harris and Tracy on their roster once they cut down to 53 players for the regular season.
@@ -201,9 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Tucker led the Raiders in receptions and receiving yards on a night when Las Vegas netted just 138 passing yards overall. Tucker, Las Vegas' presumptive No. 1 receiver to open the regular season, played on the first two drives and recorded 14- and eight-yard grabs on passes from Kirk Cousins during back-to-back plays on the opening possession. Tucker finishes the preseason with a 5-46-0 line on five targets over two games, and he'll now set his sights on the Dolphins for a Week 1 home matchup on Sunday, Sept. 13.
 - **Kaelon Black** — Kaelon Black - Averages 7.0 yards per carry (2026-08-28T03:40:37Z)
   - Black didn't log a touch on the 49ers' opening three-and-out possession, but he gained 11 yards on back-to-back carries to start San Francisco's second drive. The rookie third-round pick then recorded his game-high 14 yard run on the last play of the first quarter, rounding out his relatively brief night in encouraging fashion. Black put together a solid two-game preseason during which he rushed 12 times for 61 yards, but his primary competition for the No. 2 running back role, Jordan James, had a productive night himself Thursday with 55 yards from scrimmage on nine touches. Consequently, it's possible the two backs share complementary work behind Christian McCaffrey (undisclosed) to open the regular season.
-- **Fernando Mendoza** — Fernando Mendoza - Still in QB competition (2026-08-28T03:36:53Z)
-  - The first overall pick in the 2026 NFL Draft, Mendoza opened training camp as the No. 2 QB and has remained there through the preseason, but he has earned some reps with the first-team offense along the way in both practices and exhibitions. He wrapped up his three preseason contests having completed 25 of 45 passes for 240 yards, one touchdown and two interceptions. Until coach Klint Kubiak makes a decision, ther potential exists for Mendoza to be under center for Las Vegas in Week 1 versus the Dolphins
-- **Mike Washington** — Mike Washington - Effective in preseason start (2026-08-28T03:31:33Z)
-  - Washington operated as the starting running back with Ashton Jeanty (ankle) sidelined and turned in an efficient performance. The rookie fourth-round pick set the tone for his night by quickly churning out 12 yards on the first two plays from scrimmage, and he added 13- and 11-yard gains on Las Vegas' second possession. Washington appears firmly entrenched as the No. 2 back to open the season, but he'd be teed up for a likely Week 1 starting assignment against the Dolphins on Sunday, Sept. 13 if Jeanty is unable to suit up.
-- **Kirk Cousins** — Kirk Cousins - Decision on Week 1 starting QB still to come (2026-08-28T03:25:49Z)
-  - Cousins opened training camp as the Raiders' starting QB and has been listed as No. 1 on the depth chart throughout camp and exhibition season. On Thursday, he started and completed eight of 11 passes for 51 yards, no touchdowns and no interceptions, which seemingly wasn't enough to lock down the job over Mendoza. As a result, this situation remains the top lingering job battle in advance of Week 1.

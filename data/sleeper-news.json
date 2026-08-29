@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-08-29T03:35:06Z",
+  "last_checked_at": "2026-08-29T03:45:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13294|rotowire|635098|1787973830000",
-    "nfl|1466|rotowire|635100|1787974087000"
+    "nfl|11533|rotowire|635103|1787974371000",
+    "nfl|11624|rotowire|635102|1787974343000",
+    "nfl|11655|rotowire|635101|1787974338000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Aubrey missed a 57-yard field-goal attempt wide right after converting from 49 yards and 51 yards, but he made the proper adjustment on his next long attempt and was successful on a 58-yard field-goal attempt in the final minute of the first half. After making at least 36 field goals in each of his three regular seasons with the Cowboys, with a long of 60-plus yards in each campaign, Aubrey is widely considered the NFL's best kicker heading into the 2026 regular season.",
+      "description": "Aubrey made three of four field-goal attempts and converted his lone PAT try in Friday's 27-24 preseason loss to the Saints.",
+      "metadata": {
+        "analysis": "Aubrey missed a 57-yard field-goal attempt wide right after converting from 49 yards and 51 yards, but he made the proper adjustment on his next long attempt and was successful on a 58-yard field-goal attempt in the final minute of the first half. After making at least 36 field goals in each of his three regular seasons with the Cowboys, with a long of 60-plus yards in each campaign, Aubrey is widely considered the NFL's best kicker heading into the 2026 regular season.",
+        "description": "Aubrey made three of four field-goal attempts and converted his lone PAT try in Friday's 27-24 preseason loss to the Saints.",
+        "title": "Brandon Aubrey - Rare miss in preseason finale",
+        "topic_id": "1399270285219274752"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11533",
+      "player_name": "Brandon Aubrey",
+      "position": "K",
+      "published": 1787974371000,
+      "source": "rotowire",
+      "source_key": "635103",
+      "story_id": "nfl|11533|rotowire|635103|1787974371000",
+      "title": "Brandon Aubrey - Rare miss in preseason finale",
+      "url": null
+    },
+    {
+      "analysis": "The speedster made his preseason debut after overcoming a shoulder sprain that had plagued him for multiple weeks. Now apparently healthy, Worthy heads into his third season looking to build on the promise of his 2024 rookie campaign -- when he posted a 59-638-6 line across 17 regular-season games -- and atone for a lackluster 2025 season when he made just one trip to the end zone on 42 catches and missed three games.",
+      "description": "Worthy (shoulder) failed to bring in his only target in the Chiefs' 9-9 preseason tie with the Seahawks on Friday.",
+      "metadata": {
+        "analysis": "The speedster made his preseason debut after overcoming a shoulder sprain that had plagued him for multiple weeks. Now apparently healthy, Worthy heads into his third season looking to build on the promise of his 2024 rookie campaign -- when he posted a 59-638-6 line across 17 regular-season games -- and atone for a lackluster 2025 season when he made just one trip to the end zone on 42 catches and missed three games.",
+        "description": "Worthy (shoulder) failed to bring in his only target in the Chiefs' 9-9 preseason tie with the Seahawks on Friday.",
+        "title": "Xavier Worthy - One target in preseason debut",
+        "topic_id": "1399270285168943104"
+      },
+      "nfl_team": "KC",
+      "player_id": "11624",
+      "player_name": "Xavier Worthy",
+      "position": "WR",
+      "published": 1787974343000,
+      "source": "rotowire",
+      "source_key": "635102",
+      "story_id": "nfl|11624|rotowire|635102|1787974343000",
+      "title": "Xavier Worthy - One target in preseason debut",
+      "url": null
+    },
+    {
+      "analysis": "Tracy left Friday's preseason victory over the Jets with the injury, but head coach John Harbaugh indicated afterward it is not a serious setback. Tracy had four carries for 37 yards and a touchdown prior to his exit, which is the showing he needed in what is now a crowded Giants running back room.",
+      "description": "Tracy (neck) is dealing with a stinger, but it is not believed to be a major injury, Dan Duggan of The Athletic reports.",
+      "metadata": {
+        "analysis": "Tracy left Friday's preseason victory over the Jets with the injury, but head coach John Harbaugh indicated afterward it is not a serious setback. Tracy had four carries for 37 yards and a touchdown prior to his exit, which is the showing he needed in what is now a crowded Giants running back room.",
+        "description": "Tracy (neck) is dealing with a stinger, but it is not believed to be a major injury, Dan Duggan of The Athletic reports.",
+        "title": "Tyrone Tracy - Injury not believed to be serious",
+        "topic_id": "1399270285160554496"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11655",
+      "player_name": "Tyrone Tracy",
+      "position": "RB",
+      "published": 1787974338000,
+      "source": "rotowire",
+      "source_key": "635101",
+      "story_id": "nfl|11655|rotowire|635101|1787974338000",
+      "title": "Tyrone Tracy - Injury not believed to be serious",
+      "url": null
+    },
     {
       "analysis": "Kelce was on the other end of starting quarterback's Garrett Nussmeier's first pass of the night, an eight-yard completion that took the ball to midfield on Kansas City's opening possession. Kelce thus was able to record his only stats of preseason in the brief cameo, and he'll now turn his attention to a Week 1 Monday night home showdown against the Broncos on Sept. 14 that he'll hope to play with Patrick Mahomes (knee) as his quarterback.",
       "description": "Kelce secured his only target for eight yards in Friday's 9-9 preseason tie with the Seahawks.",
