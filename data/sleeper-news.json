@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T15:30:43Z",
+  "last_checked_at": "2026-08-29T15:50:59Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13311|rotoballer|219649|1788001747000",
-    "nfl|13405|rotoballer|219650|1788002411000"
+    "nfl|13413|rotoballer|219652|1788003610000",
+    "nfl|7553|rotoballer|219653|1788004029000"
   ],
   "schema_version": 1,
   "source": {
@@ -73,6 +73,46 @@
       "story_id": "nfl|9494|rotowire|635151|1788013443000",
       "title": "Marvin Mims - Dealing with foot contusion",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Atlanta Falcons tight end Kyle Pitts Sr. had another good showing in Atlanta's 17-12 preseason win over the Dolphins on Friday. The 6-foot-6 tight end played the first quarter and hauled in all three of his targets for 59 yards, including a nice 37-yard catch-and-run down the sideline that got the team into the red zone to set up their first score of the game. The former fourth-overall draft pick sat out last week's preseason contest, but secured three of four targets for 22 yards in the team's first preseason game and is coming off his most productive season in the NFL. The product out of the University of Florida set career highs in targets (118), receptions (88), and touchdowns (five) while totaling 928 receiving yards last season. The 25-year-old finished as the TE2 last year, but is currently ranked as the seventh tight end overall at RotoBaller, which is probably fair given the underwhelming options at quarterback in Atlanta, whether Tua Tagovailoa or Michael Penix Jr. ends up being under center. For what it is worth, Pitts averaged over six targets per game in the eight full games he played with Penix as the signal caller in 2025.",
+      "metadata": {
+        "description": "Atlanta Falcons tight end Kyle Pitts Sr. had another good showing in Atlanta's 17-12 preseason win over the Dolphins on Friday. The 6-foot-6 tight end played the first quarter and hauled in all three of his targets for 59 yards, including a nice 37-yard catch-and-run down the sideline that got the team into the red zone to set up their first score of the game. The former fourth-overall draft pick sat out last week's preseason contest, but secured three of four targets for 22 yards in the team's first preseason game and is coming off his most productive season in the NFL. The product out of the University of Florida set career highs in targets (118), receptions (88), and touchdowns (five) while totaling 928 receiving yards last season. The 25-year-old finished as the TE2 last year, but is currently ranked as the seventh tight end overall at RotoBaller, which is probably fair given the underwhelming options at quarterback in Atlanta, whether Tua Tagovailoa or Michael Penix Jr. ends up being under center. For what it is worth, Pitts averaged over six targets per game in the eight full games he played with Penix as the signal caller in 2025.",
+        "title": "Kyle Pitts Sr. Flashes YAC Ability in Final Preseason Tune-up",
+        "topic_id": "1399455271675269120",
+        "url": "https://www.rotoballer.com/player-news/kyle-pitts-sr-flashes-yac-ability-in-final-preseason-tune-up/1919113"
+      },
+      "nfl_team": "ATL",
+      "player_id": "7553",
+      "player_name": "Kyle Pitts",
+      "position": "TE",
+      "published": 1788004029000,
+      "source": "rotoballer",
+      "source_key": "219653",
+      "story_id": "nfl|7553|rotoballer|219653|1788004029000",
+      "title": "Kyle Pitts Sr. Flashes YAC Ability in Final Preseason Tune-up",
+      "url": "https://www.rotoballer.com/player-news/kyle-pitts-sr-flashes-yac-ability-in-final-preseason-tune-up/1919113"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs rookie wide receiver Cyrus Allen had a quiet game in his team's preseason finale against the Seattle Seahawks on Friday, recording one catch for 12 yards on two targets. A fifth-round pick out of Cincinnati, Allen recorded 51 catches for 674 yards and 13 touchdowns across 13 games for the Bearcats in 2025. The 23-year-old has also consistently drawn positive reviews for his work in training camp so far this summer, and he entered Friday night as Kansas City's leading target-earner in the preseason. However, Allen's usage against Seattle suggests that he may not be in line for a significant role in the Chiefs' offense early in his rookie season. Between Rashee Rice, Xavier Worthy, and Tyquan Thornton, Kansas City likely has its starting wide receiver trio set to begin the year. Allen could still be worth targeting as a late-round stash candidate in deep leagues, but fantasy managers may not want to expect high-end production early on.",
+      "metadata": {
+        "description": "Kansas City Chiefs rookie wide receiver Cyrus Allen had a quiet game in his team's preseason finale against the Seattle Seahawks on Friday, recording one catch for 12 yards on two targets. A fifth-round pick out of Cincinnati, Allen recorded 51 catches for 674 yards and 13 touchdowns across 13 games for the Bearcats in 2025. The 23-year-old has also consistently drawn positive reviews for his work in training camp so far this summer, and he entered Friday night as Kansas City's leading target-earner in the preseason. However, Allen's usage against Seattle suggests that he may not be in line for a significant role in the Chiefs' offense early in his rookie season. Between Rashee Rice, Xavier Worthy, and Tyquan Thornton, Kansas City likely has its starting wide receiver trio set to begin the year. Allen could still be worth targeting as a late-round stash candidate in deep leagues, but fantasy managers may not want to expect high-end production early on.",
+        "title": "Cyrus Allen Plays into the Second Half in Chiefs' Preseason Finale",
+        "topic_id": "1399454013635719168",
+        "url": "https://www.rotoballer.com/player-news/cyrus-allen-plays-into-the-second-half-in-chiefs-preseason-finale/1919111"
+      },
+      "nfl_team": "KC",
+      "player_id": "13413",
+      "player_name": "Cyrus Allen",
+      "position": "WR",
+      "published": 1788003610000,
+      "source": "rotoballer",
+      "source_key": "219652",
+      "story_id": "nfl|13413|rotoballer|219652|1788003610000",
+      "title": "Cyrus Allen Plays into the Second Half in Chiefs' Preseason Finale",
+      "url": "https://www.rotoballer.com/player-news/cyrus-allen-plays-into-the-second-half-in-chiefs-preseason-finale/1919111"
     },
     {
       "analysis": null,

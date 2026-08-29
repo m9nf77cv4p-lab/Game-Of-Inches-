@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1293**
+- Stored stories: **1295**
 - Newly captured: **2**
 
 ## Latest news
@@ -13,9 +13,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowels is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.
 - **Marvin Mims** — Marvin Mims - Dealing with foot contusion (2026-08-29T14:24:03Z)
   - Mims sustained the injury early in the first quarter and was listed as questionable to return after going to the locker room, but he didn't end up taking another snap in Friday's exhibition contest. It doesn't appear to be a serious injury, but his practice participation over the coming weeks will determine whether he'll suit up for Denver's Week 1 clash against Kansas City on Monday, Sept. 14.
-- **NEW — Kaytron Allen** — Kaytron Allen Struggles in Limited Usage in Preseason Finale (2026-08-29T11:20:11Z)
+- **NEW — Kyle Pitts** — Kyle Pitts Sr. Flashes YAC Ability in Final Preseason Tune-up (2026-08-29T11:47:09Z)
+  - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-flashes-yac-ability-in-final-preseason-tune-up/1919113
+- **NEW — Cyrus Allen** — Cyrus Allen Plays into the Second Half in Chiefs' Preseason Finale (2026-08-29T11:40:10Z)
+  - Source: https://www.rotoballer.com/player-news/cyrus-allen-plays-into-the-second-half-in-chiefs-preseason-finale/1919111
+- **Kaytron Allen** — Kaytron Allen Struggles in Limited Usage in Preseason Finale (2026-08-29T11:20:11Z)
   - Source: https://www.rotoballer.com/player-news/kaytron-allen-struggles-in-limited-usage-in-preseason-finale/1919105
-- **NEW — Chris Bell** — Chris Bell Leads Dolphins in Targets on Friday, Set for Key Role in Miami? (2026-08-29T11:09:07Z)
+- **Chris Bell** — Chris Bell Leads Dolphins in Targets on Friday, Set for Key Role in Miami? (2026-08-29T11:09:07Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-leads-dolphins-in-targets-on-friday-set-for-key-role-in-miami/1919091
 - **Adam Randall** — Adam Randall Looks to Bulldoze His Way onto the Roster (2026-08-29T11:07:10Z)
   - Source: https://www.rotoballer.com/player-news/adam-randall-looks-to-bulldoze-his-way-onto-the-roster/1919089
@@ -203,7 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/ray-davis-strengthening-his-handcuff-case/1918517
 - **Ashton Jeanty** — Raiders "Counting on" Ashton Jeanty for Season Opener (2026-08-28T13:52:46Z)
   - Source: https://www.rotoballer.com/player-news/raiders-counting-on-ashton-jeanty-for-season-opener/1918497
-- **Mike Washington** — Mike Washington Jr. Could Have Significant Role in Raiders Backfield (2026-08-28T13:43:06Z)
-  - Source: https://www.rotoballer.com/player-news/mike-washington-jr-could-have-significant-role-in-raiders-backfield/1918484
-- **Jameson Williams** — Jameson Williams Showing More Than Big-Play Upside (2026-08-28T13:31:16Z)
-  - Source: https://www.rotoballer.com/player-news/jameson-williams-showing-more-than-big-play-upside/1918477
