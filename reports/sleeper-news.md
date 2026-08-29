@@ -2,11 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1279**
-- Newly captured: **0**
+- Stored stories: **1281**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Elijah Sarratt** — Elijah Sarratt - Just one catch again Friday (2026-08-29T06:42:36Z)
+  - The 2026 fourth-round pick made a splash in the Ravens' preseason opener, but Sarratt managed just two catches for four yards in the final two exhibition games. Third-round rookie Ja'Kobi Lane has been the star of training camp and seems to have the No. 3 wideout job locked down, leaving Sarratt competing with the likes of Devontez Walker, Chris Moore and LaJohntay Wester just to find a spot on the 53-man roster.
+- **NEW — Adam Randall** — Adam Randall - Racks up 70 scrimmage yards Friday (2026-08-29T06:37:59Z)
+  - After sitting out the Ravens' second preseason game due to an undisclosed injury, Randall got back onto the field for the exhibition finale and flashed his impressive athleticism when he got the ball in his hands. A 2026 fifth-round pick out of Clemson, the converted wide receiver could eventually be a threat to Justice Hill's passing-down role in the backfield, but Randall will need to prove to the coaching staff he can handle his pass protection duties first.
 - **Antonio Williams** — Antonio Williams - Doesn't suit up Friday (2026-08-29T06:08:43Z)
   - The third-round rookie out of Clemson has been coming on strong as training camp has progressed, and per Donna Hopkins of MASN, Williams opened some eyes in joint practices against Baltimore earlier in the week when he beat Kyle Hamilton in one-on-one drills. The fact that Williams was held out Friday along with the rest of the Commanders' key personnel could be a strong sign that he's won the No. 3 receiver job to begin the season over the likes of Luke McCaffrey, Dyami Brown and Jaylin Lane, but he still faces an uphill battle for targets working behind Terry McLaurin and Stefon Diggs.
 - **Kaytron Allen** — Kaytron Allen - Poor showing in preseason finale (2026-08-29T05:48:24Z)
@@ -203,7 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/caleb-williams-praised-for-the-strides-hes-taken-in-the-red-zone/1918352
 - **Germie Bernard** — Germie Bernard Scores a Statement Touchdown in Preseason Finale (2026-08-28T10:14:07Z)
   - Source: https://www.rotoballer.com/player-news/germie-bernard-scores-a-statement-touchdown-in-final-preseason-bid-for-steelers-wr3-job/1918306
-- **Justin Herbert** — Justin Herbert Shakes Off Early Mistake, Showcases Elite Arm Talent (2026-08-28T09:49:08Z)
-  - Source: https://www.rotoballer.com/player-news/justin-herbert-shakes-off-early-mistake-showcases-elite-arm-talent/1918282
-- **Quentin Johnston** — Quentin Johnston Shows Off Boom Potential with Long Touchdown (2026-08-28T09:38:26Z)
-  - Source: https://www.rotoballer.com/player-news/quentin-johnston-shows-off-boom-potential-with-long-touchdown-in-preseason-finale/1918271
