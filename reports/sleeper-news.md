@@ -2,11 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1250**
-- Newly captured: **1**
+- Stored stories: **1253**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Brian Robinson** — Brian Robinson - TD, fumble in preseason finale (2026-08-29T02:29:35Z)
+  - Robinson played the first quarter with most of Atlanta's starters as the Falcons held Bijan Robinson out of the exhibition slate. The offseason acquisition capped the opening drive with a three-yard touchdown run but lost a fumble two drives later, matching Tua Tagovailoa's fumble on the possession in between. Come Week 1 against the Steelers, Brian is expected to work as Bijan's top backup in an all-Robinson 1-2 punch.
+- **NEW — Kyle Pitts** — Kyle Pitts - Productive preseason finale (2026-08-29T02:24:16Z)
+  - Pitts has shown excellent chemistry with QB Tua Tagovailoa during the preseason, accounting for 81 of Tagovailoa's 117 passing yards across parts of two preseason games. It remains to be seen whether Tagovailoa or Michael Penix (knee) will get the starting nod under center for Week 1 against the Steelers. Either way, Pitts is poised to maintain a prominent role on the heels of his 928-yard 2025 regular season.
+- **NEW — Tua Tagovailoa** — Tua Tagovailoa - Accurate in preseason finale (2026-08-29T02:20:42Z)
+  - Tagovailoa played the first quarter of Atlanta's preseason finale and completed all but one pass, but two of Atlanta's three possessions during that span ended in fumbles. Following an opening-drive Brian Robinson rushing touchdown, Tua fumbled on the first play of the next drive and Robinson fumbled to end Atlanta's third possession. Michael Penix (knee) has gained clearance to participate in 11-on-11 drills, but the 2024 first-round pick has yet to progress to game availability. Head coach Kevin Stefanski has yet to name a Week 1 starter between Penix and Tagovailoa, the latter of whom didn't throw a touchdown pass in two preseason outings.
 - **Tyrone Tracy** — Tyrone Tracy - Won't return Friday (2026-08-29T01:32:44Z)
   - Tracy sustained an apparent neck injury during an eight-yard run in the second quarter. The good news for the third-year running back is that he was not diagnosed with a concussion, and he'll finish his night with four carries for 37 yards and a touchdown. How Tracy's neck reacts over the coming days will determine what his practice participation will look like leading up to Week 1 against the Cowboys on Sunday, Sept. 13.
 - **Romeo Doubs** — Romeo Doubs - Sits out final exhibition game (2026-08-29T01:23:52Z)
@@ -57,7 +63,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, as he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.
 - **J.J. McCarthy** — J.J. McCarthy - Won't play Friday (2026-08-28T22:33:57Z)
   - McCarthy emerged from preseason Week 2 with an ankle injury, and while the Vikings were hopeful that he'd be able to play in the team's final exhibition, he'll instead remain in street clothes. After losing out on the starting QB job to Kyler Murray in early August, McCarthy has been serving as the backup in the meantime. Carson Wentz and Max Brosmer are the likely candidates to be under center for Minnesota on Friday.
-- **NEW — Tyrone Tracy** — Tyrone Tracy Jr. Clears Concussion Protocol, Still Won't Return Friday (2026-08-28T21:51:07Z)
+- **Tyrone Tracy** — Tyrone Tracy Jr. Clears Concussion Protocol, Still Won't Return Friday (2026-08-28T21:51:07Z)
   - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-clears-concussion-protocol-still-wont-return-friday/1918879
 - **Rachaad White** — Rachaad White - Won't play Friday (2026-08-28T21:47:19Z)
   - White has been tending to a hamstring injury since Aug. 19 that will keep him sidelined for the Commanders' final two exhibitions. He was able to mix into individual drills as recently as Monday, though, so he's making progress in his recovery. White will join No. 1 RB Jacory Croskey-Merritt (lower body) and Jeremy McNichols (quadriceps) on the sideline Friday.
@@ -201,9 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/braelon-allen-developing-into-a-legitimate-fantasy-option-this-year/1918095
 - **Mark Andrews** — Mark Andrews Looking to Overcome Poor 2025 Campaign (2026-08-28T00:50:04Z)
   - Source: https://www.rotoballer.com/player-news/mark-andrews-looking-to-overcome-poor-2025-campaign/1918089
-- **Kenneth Walker** — Kenneth Walker Could Help to Transform Chiefs' Offense (2026-08-27T23:50:07Z)
-  - Source: https://www.rotoballer.com/player-news/kenneth-walker-could-help-to-transform-chiefs-offense/1918077
-- **A.J. Brown** — A.J. Brown - Not playing Thursday (2026-08-27T23:49:25Z)
-  - Brown thus won't see any game action during this exhibition season. He's expected to serve as the top target for QB Drake Maye in 2026, considering the key asset (a 2028 first-round pick) sent to Philadelphia to gain his services. In seven campaigns as a pro, Brown has surpassed 1,000 receiving yards six times while racking up 58 total TDs in 105 regular-season contests.
-- **Hunter Henry** — Hunter Henry Expected to Play a Very Important Role Again in 2026 (2026-08-27T23:47:10Z)
-  - Source: https://www.rotoballer.com/player-news/hunter-henry-expected-to-play-a-very-important-role-again-in-2026/1918074

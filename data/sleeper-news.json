@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-08-29T02:03:37Z",
+  "last_checked_at": "2026-08-29T02:34:05Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11655|rotoballer|219610|1787953867000"
+    "nfl|6768|rotowire|635072|1787970042000",
+    "nfl|7553|rotowire|635073|1787970256000",
+    "nfl|8154|rotowire|635075|1787970575000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Robinson played the first quarter with most of Atlanta's starters as the Falcons held Bijan Robinson out of the exhibition slate. The offseason acquisition capped the opening drive with a three-yard touchdown run but lost a fumble two drives later, matching Tua Tagovailoa's fumble on the possession in between. Come Week 1 against the Steelers, Brian is expected to work as Bijan's top backup in an all-Robinson 1-2 punch.",
+      "description": "Robinson rushed five times for 14 yards and a touchdown, caught his only target for nine yards and lost a fumble in Friday's 17-12 preseason win over the Dolphins.",
+      "metadata": {
+        "analysis": "Robinson played the first quarter with most of Atlanta's starters as the Falcons held Bijan Robinson out of the exhibition slate. The offseason acquisition capped the opening drive with a three-yard touchdown run but lost a fumble two drives later, matching Tua Tagovailoa's fumble on the possession in between. Come Week 1 against the Steelers, Brian is expected to work as Bijan's top backup in an all-Robinson 1-2 punch.",
+        "description": "Robinson rushed five times for 14 yards and a touchdown, caught his only target for nine yards and lost a fumble in Friday's 17-12 preseason win over the Dolphins.",
+        "title": "Brian Robinson - TD, fumble in preseason finale",
+        "topic_id": "1399253925005139968"
+      },
+      "nfl_team": "ATL",
+      "player_id": "8154",
+      "player_name": "Brian Robinson",
+      "position": "RB",
+      "published": 1787970575000,
+      "source": "rotowire",
+      "source_key": "635075",
+      "story_id": "nfl|8154|rotowire|635075|1787970575000",
+      "title": "Brian Robinson - TD, fumble in preseason finale",
+      "url": null
+    },
+    {
+      "analysis": "Pitts has shown excellent chemistry with QB Tua Tagovailoa during the preseason, accounting for 81 of Tagovailoa's 117 passing yards across parts of two preseason games. It remains to be seen whether Tagovailoa or Michael Penix (knee) will get the starting nod under center for Week 1 against the Steelers. Either way, Pitts is poised to maintain a prominent role on the heels of his 928-yard 2025 regular season.",
+      "description": "Pitts caught all three of his targets for 59 yards in Friday's 17-12 preseason win over the Dolphins.",
+      "metadata": {
+        "analysis": "Pitts has shown excellent chemistry with QB Tua Tagovailoa during the preseason, accounting for 81 of Tagovailoa's 117 passing yards across parts of two preseason games. It remains to be seen whether Tagovailoa or Michael Penix (knee) will get the starting nod under center for Week 1 against the Steelers. Either way, Pitts is poised to maintain a prominent role on the heels of his 928-yard 2025 regular season.",
+        "description": "Pitts caught all three of his targets for 59 yards in Friday's 17-12 preseason win over the Dolphins.",
+        "title": "Kyle Pitts - Productive preseason finale",
+        "topic_id": "1399253924938031104"
+      },
+      "nfl_team": "ATL",
+      "player_id": "7553",
+      "player_name": "Kyle Pitts",
+      "position": "TE",
+      "published": 1787970256000,
+      "source": "rotowire",
+      "source_key": "635073",
+      "story_id": "nfl|7553|rotowire|635073|1787970256000",
+      "title": "Kyle Pitts - Productive preseason finale",
+      "url": null
+    },
+    {
+      "analysis": "Tagovailoa played the first quarter of Atlanta's preseason finale and completed all but one pass, but two of Atlanta's three possessions during that span ended in fumbles. Following an opening-drive Brian Robinson rushing touchdown, Tua fumbled on the first play of the next drive and Robinson fumbled to end Atlanta's third possession. Michael Penix (knee) has gained clearance to participate in 11-on-11 drills, but the 2024 first-round pick has yet to progress to game availability. Head coach Kevin Stefanski has yet to name a Week 1 starter between Penix and Tagovailoa, the latter of whom didn't throw a touchdown pass in two preseason outings.",
+      "description": "Tagovailoa completed seven of eight passes for 95 yards in Friday's 17-12 preseason win over the Dolphins. He also rushed once for no gain and lost a fumble.",
+      "metadata": {
+        "analysis": "Tagovailoa played the first quarter of Atlanta's preseason finale and completed all but one pass, but two of Atlanta's three possessions during that span ended in fumbles. Following an opening-drive Brian Robinson rushing touchdown, Tua fumbled on the first play of the next drive and Robinson fumbled to end Atlanta's third possession. Michael Penix (knee) has gained clearance to participate in 11-on-11 drills, but the 2024 first-round pick has yet to progress to game availability. Head coach Kevin Stefanski has yet to name a Week 1 starter between Penix and Tagovailoa, the latter of whom didn't throw a touchdown pass in two preseason outings.",
+        "description": "Tagovailoa completed seven of eight passes for 95 yards in Friday's 17-12 preseason win over the Dolphins. He also rushed once for no gain and lost a fumble.",
+        "title": "Tua Tagovailoa - Accurate in preseason finale",
+        "topic_id": "1399252666596458496"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1787970042000,
+      "source": "rotowire",
+      "source_key": "635072",
+      "story_id": "nfl|6768|rotowire|635072|1787970042000",
+      "title": "Tua Tagovailoa - Accurate in preseason finale",
+      "url": null
+    },
     {
       "analysis": "Tracy sustained an apparent neck injury during an eight-yard run in the second quarter. The good news for the third-year running back is that he was not diagnosed with a concussion, and he'll finish his night with four carries for 37 yards and a touchdown. How Tracy's neck reacts over the coming days will determine what his practice participation will look like leading up to Week 1 against the Cowboys on Sunday, Sept. 13.",
       "description": "Tracy (neck) cleared concussion protocol but will not return to Friday's preseason game against the Jets, Paul Schwartz of the New York Post reports.",
