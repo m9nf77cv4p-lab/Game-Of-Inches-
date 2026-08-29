@@ -2,11 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1312**
+- Stored stories: **1314**
 - Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Drake London** — Drake London - Sees minimal work vs. Miami (2026-08-29T21:32:19Z)
+  - London was limited to playing the first quarter of Friday's exhibition game before observing the rest of the contest from the sidelines. Entering his fifth NFL season, the USC product has recorded at least 68 catches and 850 receiving yards in each of his four years with Atlanta. London has been one of the most productive receivers since entering the league in 2022, but his offensive output will be heavily tied to the production of the Falcons' starting quarterback, whether that's Tua Tagovailoa or Michael Penix (knee).
+- **NEW — Kirk Cousins** — Kirk Cousins - Expected to be named starter (2026-08-29T21:30:29Z)
+  - Raiders coach Klint Kubiak had refused to announce a decision on Las Vegas' Week 1 quarterback throughout the preseason, but Cousins has been listed as the No. 1 QB on the team's depth chart during training camp and the exhibition slate. The veteran signal-caller was also more effective than rookie No. 1 draft pick Fernando Mendoza during preseason play, completing 13 of 17 passes for 101 yards and a touchdown with no interceptions to Mendoza's 25-for-45 line with one TD and two pickoffs. Cousins will thus have the first opportunity to helm the Raiders offense, which features an elite tight end in Brock Bowers but one of the NFL's shallowest wide-receiver corps. Should Cousins and/or the team struggle, Mendoza could eventually be given a chance to start later in the campaign, though it's certainly possible he'll be asked to observe and learn from the bench for his entire rookie season.
 - **Marvin Mims** — Marvin Mims Jr. suffers bruised foot (2026-08-29T18:05:49.497000Z)
   - Mims avoids a serious injury. He is expected to be fine with just a couple of weeks until the season. 
   - Source: https://www.fantasypros.com/nfl/news/604653/marvin-mims-jr-suffers-bruised-foot.php
@@ -22,9 +26,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Patrick Mahomes** — Patrick Mahomes II (knee) on track to start Week 1 (2026-08-29T17:50:49.303000Z)
   - Mahomes has worked his way back from a torn ACL. He didn't see any action in the preseason, but he is expected to be good to go for the season opener. 
   - Source: https://www.fantasypros.com/nfl/news/604648/patrick-mahomes-ii-knee-on-track-to-start-week-1.php
-- **NEW — Kirk Cousins** — Raiders Set to Name Kirk Cousins as Week 1 Starter (2026-08-29T17:22:10Z)
+- **Kirk Cousins** — Raiders Set to Name Kirk Cousins as Week 1 Starter (2026-08-29T17:22:10Z)
   - Source: https://www.rotoballer.com/player-news/raiders-set-to-name-kirk-cousins-as-week-1-starter/1919281
-- **NEW — Fernando Mendoza** — Fernando Mendoza Could Begin the Season as the QB3 (2026-08-29T17:17:11Z)
+- **Fernando Mendoza** — Fernando Mendoza Could Begin the Season as the QB3 (2026-08-29T17:17:11Z)
   - Source: https://www.rotoballer.com/player-news/fernando-mendoza-could-begin-the-season-as-raiders-qb3/1919278
 - **Patrick Mahomes** — Patrick Mahomes - On track for Week 1 (2026-08-29T17:08:09Z)
   - Mahomes said a week ago he was "extremely confident" he would be ready for Kansas City's season opener, and the latest report keeps him on track to do so. It's unclear how close he is to 100 percent, but it's growing more and more likely that the torn left ACL he sustained last December will not cost him any action during the 2026 campaign.
@@ -208,7 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jared-goff-a-dependable-mid-round-quarterback-for-fantasy-managers/1918871
 - **Isaiah Likely** — Isaiah Likely a Potential Steal at Current ADP (2026-08-28T21:35:45Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-likely-a-potential-steal-at-current-adp/1918869
-- **Joe Burrow** — Joe Burrow Has a Hefty Price Tag with Some Injury Risk (2026-08-28T21:22:11Z)
-  - Source: https://www.rotoballer.com/player-news/joe-burrow-has-a-hefty-price-tag-with-some-injury-risk/1918859
-- **Tyrone Tracy** — Tyrone Tracy Jr. Injures his Neck in Preseason Finale on Friday (2026-08-28T20:59:15Z)
-  - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-injures-his-neck-in-preseason-finale-on-friday/1918838

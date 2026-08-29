@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T21:33:20Z",
+  "last_checked_at": "2026-08-29T21:43:04Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|1166|rotoballer|219675|1788024130000",
-    "nfl|13269|rotoballer|219676|1788023831000"
+    "nfl|1166|rotowire|635219|1788039029000",
+    "nfl|8112|rotowire|635220|1788039139000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "London was limited to playing the first quarter of Friday's exhibition game before observing the rest of the contest from the sidelines. Entering his fifth NFL season, the USC product has recorded at least 68 catches and 850 receiving yards in each of his four years with Atlanta. London has been one of the most productive receivers since entering the league in 2022, but his offensive output will be heavily tied to the production of the Falcons' starting quarterback, whether that's Tua Tagovailoa or Michael Penix (knee).",
+      "description": "London played eight snaps on offense and didn't show up in the box score otherwise during the Falcons' 17-12 preseason win over the Dolphins on Friday.",
+      "metadata": {
+        "analysis": "London was limited to playing the first quarter of Friday's exhibition game before observing the rest of the contest from the sidelines. Entering his fifth NFL season, the USC product has recorded at least 68 catches and 850 receiving yards in each of his four years with Atlanta. London has been one of the most productive receivers since entering the league in 2022, but his offensive output will be heavily tied to the production of the Falcons' starting quarterback, whether that's Tua Tagovailoa or Michael Penix (knee).",
+        "description": "London played eight snaps on offense and didn't show up in the box score otherwise during the Falcons' 17-12 preseason win over the Dolphins on Friday.",
+        "title": "Drake London - Sees minimal work vs. Miami",
+        "topic_id": "1399542106048970752"
+      },
+      "nfl_team": "ATL",
+      "player_id": "8112",
+      "player_name": "Drake London",
+      "position": "WR",
+      "published": 1788039139000,
+      "source": "rotowire",
+      "source_key": "635220",
+      "story_id": "nfl|8112|rotowire|635220|1788039139000",
+      "title": "Drake London - Sees minimal work vs. Miami",
+      "url": null
+    },
+    {
+      "analysis": "Raiders coach Klint Kubiak had refused to announce a decision on Las Vegas' Week 1 quarterback throughout the preseason, but Cousins has been listed as the No. 1 QB on the team's depth chart during training camp and the exhibition slate. The veteran signal-caller was also more effective than rookie No. 1 draft pick Fernando Mendoza during preseason play, completing 13 of 17 passes for 101 yards and a touchdown with no interceptions to Mendoza's 25-for-45 line with one TD and two pickoffs. Cousins will thus have the first opportunity to helm the Raiders offense, which features an elite tight end in Brock Bowers but one of the NFL's shallowest wide-receiver corps. Should Cousins and/or the team struggle, Mendoza could eventually be given a chance to start later in the campaign, though it's certainly possible he'll be asked to observe and learn from the bench for his entire rookie season.",
+      "description": "Cousins is expected to be named starting quarterback for the Raiders, Matt Zenitz of CBSSports.com reports.",
+      "metadata": {
+        "analysis": "Raiders coach Klint Kubiak had refused to announce a decision on Las Vegas' Week 1 quarterback throughout the preseason, but Cousins has been listed as the No. 1 QB on the team's depth chart during training camp and the exhibition slate. The veteran signal-caller was also more effective than rookie No. 1 draft pick Fernando Mendoza during preseason play, completing 13 of 17 passes for 101 yards and a touchdown with no interceptions to Mendoza's 25-for-45 line with one TD and two pickoffs. Cousins will thus have the first opportunity to helm the Raiders offense, which features an elite tight end in Brock Bowers but one of the NFL's shallowest wide-receiver corps. Should Cousins and/or the team struggle, Mendoza could eventually be given a chance to start later in the campaign, though it's certainly possible he'll be asked to observe and learn from the bench for his entire rookie season.",
+        "description": "Cousins is expected to be named starting quarterback for the Raiders, Matt Zenitz of CBSSports.com reports.",
+        "title": "Kirk Cousins - Expected to be named starter",
+        "topic_id": "1399542106032193536"
+      },
+      "nfl_team": "LV",
+      "player_id": "1166",
+      "player_name": "Kirk Cousins",
+      "position": "QB",
+      "published": 1788039029000,
+      "source": "rotowire",
+      "source_key": "635219",
+      "story_id": "nfl|1166|rotowire|635219|1788039029000",
+      "title": "Kirk Cousins - Expected to be named starter",
+      "url": null
+    },
     {
       "analysis": "Mims avoids a serious injury. He is expected to be fine with just a couple of weeks until the season. ",
       "description": "Broncos coach Sean Payton said WR Marvin Mims Jr. suffered a bruised foot in the Broncos final preseason game. ",
