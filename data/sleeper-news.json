@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T16:51:22Z",
+  "last_checked_at": "2026-08-29T17:11:53Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11565|rotoballer|219661|1788007508000",
-    "nfl|8142|rotowire|635171|1788021762000"
+    "nfl|4046|rotowire|635178|1788023289000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Mahomes said a week ago he was \"extremely confident\" he would be ready for Kansas City's season opener, and the latest report keeps him on track to do so. It's unclear how close he is to 100 percent, but it's growing more and more likely that the torn left ACL he sustained last December will not cost him any action during the 2026 campaign.",
+      "description": "Mahomes (knee) is on track to start Week 1 against the Broncos, Ian Rapoport of NFL Network reports.",
+      "metadata": {
+        "analysis": "Mahomes said a week ago he was \"extremely confident\" he would be ready for Kansas City's season opener, and the latest report keeps him on track to do so. It's unclear how close he is to 100 percent, but it's growing more and more likely that the torn left ACL he sustained last December will not cost him any action during the 2026 campaign.",
+        "description": "Mahomes (knee) is on track to start Week 1 against the Broncos, Ian Rapoport of NFL Network reports.",
+        "title": "Patrick Mahomes - On track for Week 1",
+        "topic_id": "1399475409573163008"
+      },
+      "nfl_team": "KC",
+      "player_id": "4046",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "published": 1788023289000,
+      "source": "rotowire",
+      "source_key": "635178",
+      "story_id": "nfl|4046|rotowire|635178|1788023289000",
+      "title": "Patrick Mahomes - On track for Week 1",
+      "url": null
+    },
     {
       "analysis": "Pierce was activated from the Active/PUP list Thursday, but he is not ready to appear in a game just yet. He will keep building up over the next two weeks with an eye on suiting up for his team's Week 1 matchup with the Ravens.",
       "description": "Pierce (ankle) is working out prior to Saturday's preseason game against the Lions but will not play, Mike Chappell of Fox 59 News Indianapolis reports.",
