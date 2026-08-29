@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T02:34:05Z",
+  "last_checked_at": "2026-08-29T02:53:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|6768|rotowire|635072|1787970042000",
-    "nfl|7553|rotowire|635073|1787970256000",
-    "nfl|8154|rotowire|635075|1787970575000"
+    "nfl|11786|rotowire|635081|1787971242000",
+    "nfl|5872|rotoballer|219611|1787956687000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Little's long-distance boot, which came with just over 10 minutes remaining in the second quarter, was undeniably impressive but not out of the norm for the third-year star. Little went 13-for-16 on kicks from 50 yards and longer over 34 regular-season games in his first two campaigns, and he wraps up preseason having gone 7-for-7 on field-goal attempts while also knocking home his only PAT.",
+      "description": "Little made his only field-goal attempt, from 61 yards out, and did not attempt any extra points in the Jaguars' 19-0 preseason win over the Buccaneers on Friday.",
+      "metadata": {
+        "analysis": "Little's long-distance boot, which came with just over 10 minutes remaining in the second quarter, was undeniably impressive but not out of the norm for the third-year star. Little went 13-for-16 on kicks from 50 yards and longer over 34 regular-season games in his first two campaigns, and he wraps up preseason having gone 7-for-7 on field-goal attempts while also knocking home his only PAT.",
+        "description": "Little made his only field-goal attempt, from 61 yards out, and did not attempt any extra points in the Jaguars' 19-0 preseason win over the Buccaneers on Friday.",
+        "title": "Cam Little - Nails 61-yarder Friday",
+        "topic_id": "1399257699950063617"
+      },
+      "nfl_team": "JAX",
+      "player_id": "11786",
+      "player_name": "Cam Little",
+      "position": "K",
+      "published": 1787971242000,
+      "source": "rotowire",
+      "source_key": "635081",
+      "story_id": "nfl|11786|rotowire|635081|1787971242000",
+      "title": "Cam Little - Nails 61-yarder Friday",
+      "url": null
+    },
     {
       "analysis": "Robinson played the first quarter with most of Atlanta's starters as the Falcons held Bijan Robinson out of the exhibition slate. The offseason acquisition capped the opening drive with a three-yard touchdown run but lost a fumble two drives later, matching Tua Tagovailoa's fumble on the possession in between. Come Week 1 against the Steelers, Brian is expected to work as Bijan's top backup in an all-Robinson 1-2 punch.",
       "description": "Robinson rushed five times for 14 yards and a touchdown, caught his only target for nine yards and lost a fumble in Friday's 17-12 preseason win over the Dolphins.",
@@ -554,6 +573,26 @@
       "story_id": "nfl|12506|rotowire|635031|1787957302000",
       "title": "Harold Fannin - Doesn't play Thursday vs. NE",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. has returned to the Bay Area for his age-30 season, and he should play a key role in his first year back on the West Coast. Samuel spent six seasons with the Niners before landing with the Commanders last year. It wasn't a very flashy season for Samuel in the DMV, but he still managed to finish as the WR25 in PPR leagues with 72 catches, 727 receiving yards, and five receiving touchdowns. He should get a quarterback upgrade now that he's back in San Francisco, as Brock Purdy offers more reliable quarterback play than last year's combo of Jayden Daniels and Marcus Mariota. He will face a little more competition for volume, though. Not only will Mike Evans be ahead of him in the receiver room, but George Kittle and Christian McCaffrey should also fetch a ton of targets. With that being said, Evans, Kittle, and McCaffrey have all dealt with several injury issues in years past, so there's a path to Samuel taking on a bigger role if some of his teammates get hurt. All in all, we're not sure Samuel will replicate last year's WR25 finish, but he's still a strong top-36 receiver with weekly value as a WR3/flex. With that in mind, he's somewhat of a steal at his current ADP of 136.0, which makes him the 55th receiver off the board in fantasy drafts.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. has returned to the Bay Area for his age-30 season, and he should play a key role in his first year back on the West Coast. Samuel spent six seasons with the Niners before landing with the Commanders last year. It wasn't a very flashy season for Samuel in the DMV, but he still managed to finish as the WR25 in PPR leagues with 72 catches, 727 receiving yards, and five receiving touchdowns. He should get a quarterback upgrade now that he's back in San Francisco, as Brock Purdy offers more reliable quarterback play than last year's combo of Jayden Daniels and Marcus Mariota. He will face a little more competition for volume, though. Not only will Mike Evans be ahead of him in the receiver room, but George Kittle and Christian McCaffrey should also fetch a ton of targets. With that being said, Evans, Kittle, and McCaffrey have all dealt with several injury issues in years past, so there's a path to Samuel taking on a bigger role if some of his teammates get hurt. All in all, we're not sure Samuel will replicate last year's WR25 finish, but he's still a strong top-36 receiver with weekly value as a WR3/flex. With that in mind, he's somewhat of a steal at his current ADP of 136.0, which makes him the 55th receiver off the board in fantasy drafts.",
+        "title": "Deebo Samuel Sr. a Potential Steal with 12th-Round Price Tag",
+        "topic_id": "1399257697286688768",
+        "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-a-potential-steal-with-12th-round-price-tag/1918898"
+      },
+      "nfl_team": "SF",
+      "player_id": "5872",
+      "player_name": "Deebo Samuel",
+      "position": "WR",
+      "published": 1787956687000,
+      "source": "rotoballer",
+      "source_key": "219611",
+      "story_id": "nfl|5872|rotoballer|219611|1787956687000",
+      "title": "Deebo Samuel Sr. a Potential Steal with 12th-Round Price Tag",
+      "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-a-potential-steal-with-12th-round-price-tag/1918898"
     },
     {
       "analysis": "McCarthy emerged from preseason Week 2 with an ankle injury, and while the Vikings were hopeful that he'd be able to play in the team's final exhibition, he'll instead remain in street clothes. After losing out on the starting QB job to Kyler Murray in early August, McCarthy has been serving as the backup in the meantime. Carson Wentz and Max Brosmer are the likely candidates to be under center for Minnesota on Friday.",

@@ -2,16 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1253**
-- Newly captured: **3**
+- Stored stories: **1255**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Brian Robinson** — Brian Robinson - TD, fumble in preseason finale (2026-08-29T02:29:35Z)
+- **NEW — Cam Little** — Cam Little - Nails 61-yarder Friday (2026-08-29T02:40:42Z)
+  - Little's long-distance boot, which came with just over 10 minutes remaining in the second quarter, was undeniably impressive but not out of the norm for the third-year star. Little went 13-for-16 on kicks from 50 yards and longer over 34 regular-season games in his first two campaigns, and he wraps up preseason having gone 7-for-7 on field-goal attempts while also knocking home his only PAT.
+- **Brian Robinson** — Brian Robinson - TD, fumble in preseason finale (2026-08-29T02:29:35Z)
   - Robinson played the first quarter with most of Atlanta's starters as the Falcons held Bijan Robinson out of the exhibition slate. The offseason acquisition capped the opening drive with a three-yard touchdown run but lost a fumble two drives later, matching Tua Tagovailoa's fumble on the possession in between. Come Week 1 against the Steelers, Brian is expected to work as Bijan's top backup in an all-Robinson 1-2 punch.
-- **NEW — Kyle Pitts** — Kyle Pitts - Productive preseason finale (2026-08-29T02:24:16Z)
+- **Kyle Pitts** — Kyle Pitts - Productive preseason finale (2026-08-29T02:24:16Z)
   - Pitts has shown excellent chemistry with QB Tua Tagovailoa during the preseason, accounting for 81 of Tagovailoa's 117 passing yards across parts of two preseason games. It remains to be seen whether Tagovailoa or Michael Penix (knee) will get the starting nod under center for Week 1 against the Steelers. Either way, Pitts is poised to maintain a prominent role on the heels of his 928-yard 2025 regular season.
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa - Accurate in preseason finale (2026-08-29T02:20:42Z)
+- **Tua Tagovailoa** — Tua Tagovailoa - Accurate in preseason finale (2026-08-29T02:20:42Z)
   - Tagovailoa played the first quarter of Atlanta's preseason finale and completed all but one pass, but two of Atlanta's three possessions during that span ended in fumbles. Following an opening-drive Brian Robinson rushing touchdown, Tua fumbled on the first play of the next drive and Robinson fumbled to end Atlanta's third possession. Michael Penix (knee) has gained clearance to participate in 11-on-11 drills, but the 2024 first-round pick has yet to progress to game availability. Head coach Kevin Stefanski has yet to name a Week 1 starter between Penix and Tagovailoa, the latter of whom didn't throw a touchdown pass in two preseason outings.
 - **Tyrone Tracy** — Tyrone Tracy - Won't return Friday (2026-08-29T01:32:44Z)
   - Tracy sustained an apparent neck injury during an eight-yard run in the second quarter. The good news for the third-year running back is that he was not diagnosed with a concussion, and he'll finish his night with four carries for 37 yards and a touchdown. How Tracy's neck reacts over the coming days will determine what his practice participation will look like leading up to Week 1 against the Cowboys on Sunday, Sept. 13.
@@ -61,6 +63,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Hampton was on the field for the Chargers' first two offensive drives but did get a touch in Thursday's preseason finale. The 2025 first-rounder was limited to nine regular-season games in his rookie campaign due mostly to a fractured left ankle but still finished with 124 carries for 545 yards and four touchdowns while adding 32 catches (on 35 targets) for 192 yards and a score. Hampton is the lead back for the Chargers, but Kimani Vidal and Keaton Mitchell (undisclosed) both figure to see a fair amount of work in the scheme of new offensive coordinator Mike McDaniel.
 - **Harold Fannin** — Harold Fannin - Doesn't play Thursday vs. NE (2026-08-28T22:48:22Z)
   - Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, as he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.
+- **NEW — Deebo Samuel** — Deebo Samuel Sr. a Potential Steal with 12th-Round Price Tag (2026-08-28T22:38:07Z)
+  - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-a-potential-steal-with-12th-round-price-tag/1918898
 - **J.J. McCarthy** — J.J. McCarthy - Won't play Friday (2026-08-28T22:33:57Z)
   - McCarthy emerged from preseason Week 2 with an ankle injury, and while the Vikings were hopeful that he'd be able to play in the team's final exhibition, he'll instead remain in street clothes. After losing out on the starting QB job to Kyler Murray in early August, McCarthy has been serving as the backup in the meantime. Carson Wentz and Max Brosmer are the likely candidates to be under center for Minnesota on Friday.
 - **Tyrone Tracy** — Tyrone Tracy Jr. Clears Concussion Protocol, Still Won't Return Friday (2026-08-28T21:51:07Z)
@@ -203,7 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/ty-simpson-wraps-up-his-first-nfl-preseason/1918108
 - **Tyjae Spears** — Similar Year Incoming for Tyjae Spears? (2026-08-28T01:02:08Z)
   - Source: https://www.rotoballer.com/player-news/similar-year-incoming-for-tyjae-spears/1918098
-- **Braelon Allen** — Braelon Allen Developing Into a Legitimate Fantasy Option This Year (2026-08-28T00:57:10Z)
-  - Source: https://www.rotoballer.com/player-news/braelon-allen-developing-into-a-legitimate-fantasy-option-this-year/1918095
-- **Mark Andrews** — Mark Andrews Looking to Overcome Poor 2025 Campaign (2026-08-28T00:50:04Z)
-  - Source: https://www.rotoballer.com/player-news/mark-andrews-looking-to-overcome-poor-2025-campaign/1918089
