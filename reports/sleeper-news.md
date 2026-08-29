@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1270**
-- Newly captured: **3**
+- Stored stories: **1271**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Emmett Johnson** — Emmett Johnson - Productive with nine touches Friday (2026-08-29T04:37:50Z)
+  - The rookie fifth-round pick put together a strong finish to an encouraging preseason, one where he rushed 26 times for 123 yards and a touchdown and adding a 6-35-0 line on seven targets. Johnson's primary competition for a depth role, Brashard Smith, had a productive 16-carry, 72-yard effort in his own right Friday, so it remains to be seen where each will slot on the depth chart behind the top duo of Kenneth Walker (ankle) and Emari Demercado.
 - **Jeremiyah Love** — Jeremiyah Love - Continues to progress (2026-08-29T04:13:20Z)
   - Love was able to get in some light work in Wednesday, and he appeared to be moving at a quicker pace a couple days later. It remains unclear if he will be ready to go when the Cardinals open their season against the Chargers, but he will have just over two more weeks to work past the high-ankle sprain he picked up in the first preseason game.
 - **Cyrus Allen** — Cyrus Allen - Finishes preseason with one catch (2026-08-29T04:02:11Z)
@@ -57,11 +59,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Unsurprisingly, Maye was among the plethora of New England starters who didn't see action in the team's final exhibition game. The star quarterback ended up sitting out all three of the team's preseason contests as he prepares for the regular season. Maye's first chance to get into game action with new top wideouts A.J. Brown and Romeo Doubs will take place in Week 1 versus Seattle on Wednesday, Sept. 9.
 - **James Cook** — James Cook - Sits out preseason finale (2026-08-29T00:26:51Z)
   - The Bills rested most of their projected regular-season starters, so Cook's absence was expected. The star running back finished the preseason slate having appeared in one game, logging 21 yards on five carries. Cook will now look ahead to Week 1, when he's slated to lead Buffalo's backfield against a tough Texans defense on Sunday, Sept. 13. Ray Davis is expected to work as his top backup.
-- **NEW — Jeremiyah Love** — Jeremiyah Love Works with Trainers Before Preseason Finale (2026-08-29T00:24:05Z)
+- **Jeremiyah Love** — Jeremiyah Love Works with Trainers Before Preseason Finale (2026-08-29T00:24:05Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-works-with-trainers-before-preseason-finale/1918932
-- **NEW — KC Concepcion** — KC Concepcion Still a Redraft Target Despite Some Quarterback Concerns (2026-08-29T00:20:09Z)
+- **KC Concepcion** — KC Concepcion Still a Redraft Target Despite Some Quarterback Concerns (2026-08-29T00:20:09Z)
   - Source: https://www.rotoballer.com/player-news/kc-concepcion-still-a-redraft-target-despite-some-quarterback-concerns/1918930
-- **NEW — Tetairoa McMillan** — Tetairoa McMillan Being Drafted as a Mid-Range WR2 (2026-08-29T00:15:09Z)
+- **Tetairoa McMillan** — Tetairoa McMillan Being Drafted as a Mid-Range WR2 (2026-08-29T00:15:09Z)
   - Source: https://www.rotoballer.com/player-news/tetairoa-mcmillan-being-drafted-as-a-mid-range-wr2/1918927
 - **Denzel Boston** — Fantasy Managers Might Have to be Patient with Denzel Boston (2026-08-29T00:10:13Z)
   - Source: https://www.rotoballer.com/player-news/fantasy-managers-might-have-to-be-patient-with-denzel-boston/1918925
@@ -205,5 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The rookie second-round pick was much less active than during his first two preseason games, when he recorded a combined 11-59-0 line on 14 targets. There's no denying the fact Klare did make a very positive initial impression, however, but he's still likely slated to open the season no higher than No. 4 on the depth chart behind Colby Parkinson, Tyler Higbee and Terrance Ferguson (soreness).
 - **Quentin Johnston** — Quentin Johnston - Hauls in long TD in preseason loss (2026-08-28T05:59:22Z)
   - The speedy fourth-year pro recently missed some practice time due to a lower-body injury he suffered during a joint practice with the 49ers leading up to Los Angeles' second preseason game, yet Johnston looked at full health when blowing past the Rams' secondary for a 65-yard touchdown with just under 10 minutes remaining in the first quarter. Thursday's snaps were Johnston's only action this preseason, but he looks prepared to reprise the No. 2 receiver role that's netted over 700 receiving yards in each of the last two seasons beginning with a Week 1 home matchup against the Cardinals.
-- **Ty Simpson** — Ty Simpson - Extended playing time Thursday (2026-08-28T05:54:05Z)
-  - Simpson drew the start and initially played the entire first half before reentering the game in the latter portion of the fourth quarter without attempting another pass. The rookie 13th overall pick put together a solid first two quarters, connecting with Brennan Presley for an 11-yard touchdown pass early in the second quarter. Simpson did nothing to hurt his chances of earning the No. 2 quarterback job this preseason -- he completed 47 of 60 passes (78.3 percent) for 382 yards with a 3:0 TD:INT and added seven rushes for 19 yards -- but it remains to be seen whether he did enough to beat out the more experienced Stetson Bennett for the role.

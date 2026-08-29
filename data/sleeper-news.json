@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T04:35:24Z",
+  "last_checked_at": "2026-08-29T04:45:29Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|12526|rotoballer|219620|1787962509000",
-    "nfl|13287|rotoballer|219621|1787963045000",
-    "nfl|13298|rotoballer|219622|1787962809000"
+    "nfl|13337|rotowire|635124|1787978270000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The rookie fifth-round pick put together a strong finish to an encouraging preseason, one where he rushed 26 times for 123 yards and a touchdown and adding a 6-35-0 line on seven targets. Johnson's primary competition for a depth role, Brashard Smith, had a productive 16-carry, 72-yard effort in his own right Friday, so it remains to be seen where each will slot on the depth chart behind the top duo of Kenneth Walker (ankle) and Emari Demercado.",
+      "description": "Johnson rushed seven times for 39 yards and brought in both targets for 15 yards in the Chiefs' 9-9 preseason tie with the Seahawks on Friday.",
+      "metadata": {
+        "analysis": "The rookie fifth-round pick put together a strong finish to an encouraging preseason, one where he rushed 26 times for 123 yards and a touchdown and adding a 6-35-0 line on seven targets. Johnson's primary competition for a depth role, Brashard Smith, had a productive 16-carry, 72-yard effort in his own right Friday, so it remains to be seen where each will slot on the depth chart behind the top duo of Kenneth Walker (ankle) and Emari Demercado.",
+        "description": "Johnson rushed seven times for 39 yards and brought in both targets for 15 yards in the Chiefs' 9-9 preseason tie with the Seahawks on Friday.",
+        "title": "Emmett Johnson - Productive with nine touches Friday",
+        "topic_id": "1399286644741263360"
+      },
+      "nfl_team": "KC",
+      "player_id": "13337",
+      "player_name": "Emmett Johnson",
+      "position": "RB",
+      "published": 1787978270000,
+      "source": "rotowire",
+      "source_key": "635124",
+      "story_id": "nfl|13337|rotowire|635124|1787978270000",
+      "title": "Emmett Johnson - Productive with nine touches Friday",
+      "url": null
+    },
     {
       "analysis": "Love was able to get in some light work in Wednesday, and he appeared to be moving at a quicker pace a couple days later. It remains unclear if he will be ready to go when the Cardinals open their season against the Chargers, but he will have just over two more weeks to work past the high-ankle sprain he picked up in the first preseason game.",
       "description": "Love (ankle) did not play in Friday's preseason loss to the Packers, but per Cardinals team reporter Zach Gershman he was able to work out prior to the game.",
