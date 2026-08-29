@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-08-29T05:05:39Z",
+  "last_checked_at": "2026-08-29T05:15:48Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|10229|rotoballer|219625|1787964847000",
-    "nfl|12521|rotowire|635131|1787979301000",
-    "nfl|8183|rotoballer|219624|1787964482000"
+    "nfl|11627|rotowire|635135|1787980251000",
+    "nfl|11792|rotowire|635134|1787980030000",
+    "nfl|13347|rotowire|635133|1787979854000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +15,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Franklin opened preseason with a 23-yard grab in the opener against the Falcons, but that turned out to be his only production of the exhibition slate across three games. Despite the quiet summer, Franklin is slated to serve as the No. 3 receiver behind Courtland Sutton and Jaylen Waddle in what should be a high-powered Broncos air attack.",
+      "description": "Franklin failed to secure his only target in the Broncos' 34-6 preseason win over the Vikings on Friday.",
+      "metadata": {
+        "analysis": "Franklin opened preseason with a 23-yard grab in the opener against the Falcons, but that turned out to be his only production of the exhibition slate across three games. Despite the quiet summer, Franklin is slated to serve as the No. 3 receiver behind Courtland Sutton and Jaylen Waddle in what should be a high-powered Broncos air attack.",
+        "description": "Franklin failed to secure his only target in the Broncos' 34-6 preseason win over the Vikings on Friday.",
+        "title": "Troy Franklin - Fails to corral one target",
+        "topic_id": "1399295453329149952"
+      },
+      "nfl_team": "DEN",
+      "player_id": "11627",
+      "player_name": "Troy Franklin",
+      "position": "WR",
+      "published": 1787980251000,
+      "source": "rotowire",
+      "source_key": "635135",
+      "story_id": "nfl|11627|rotowire|635135|1787980251000",
+      "title": "Troy Franklin - Fails to corral one target",
+      "url": null
+    },
+    {
+      "analysis": "The third-year kicker wrapped up a perfect preseason with his pair of successful kicks Friday. Reichard went 5-for-5 on field goals, including two from 50-plus yards, and knocked home his only PAT across three preseason games, and he'll now turn his attention to a Week 1 divisional home showdown against the Packers on Sept. 13.",
+      "description": "Reichard connected on field goals of 46 and 28 yards in the Vikings' 34-6 preseason loss to the Broncos on Friday.",
+      "metadata": {
+        "analysis": "The third-year kicker wrapped up a perfect preseason with his pair of successful kicks Friday. Reichard went 5-for-5 on field goals, including two from 50-plus yards, and knocked home his only PAT across three preseason games, and he'll now turn his attention to a Week 1 divisional home showdown against the Packers on Sept. 13.",
+        "description": "Reichard connected on field goals of 46 and 28 yards in the Vikings' 34-6 preseason loss to the Broncos on Friday.",
+        "title": "Will Reichard - Perfect on two kicks Friday",
+        "topic_id": "1399294194857553920"
+      },
+      "nfl_team": "MIN",
+      "player_id": "11792",
+      "player_name": "Will Reichard",
+      "position": "K",
+      "published": 1787980030000,
+      "source": "rotowire",
+      "source_key": "635134",
+      "story_id": "nfl|11792|rotowire|635134|1787980030000",
+      "title": "Will Reichard - Perfect on two kicks Friday",
+      "url": null
+    },
+    {
+      "analysis": "The rookie sixth-round pick drew the start and carried the ball on the Vikings' first two plays from scrimmage. Claiborne was given ample opportunity this preseason, rushing 28 times for 73 yards and adding a seven-yard reception on his only target. While Claiborne found running room at a premium, he did average 25.2  yards on his five kickoff returns, and special teams may be his ticket to a spot on the initial 53-man roster.",
+      "description": "Claiborne rushed eight times for 21 yards in the Vikings' 34-6 preseason loss to the Broncos on Friday. He also returned two kickoffs for 55 yards.",
+      "metadata": {
+        "analysis": "The rookie sixth-round pick drew the start and carried the ball on the Vikings' first two plays from scrimmage. Claiborne was given ample opportunity this preseason, rushing 28 times for 73 yards and adding a seven-yard reception on his only target. While Claiborne found running room at a premium, he did average 25.2  yards on his five kickoff returns, and special teams may be his ticket to a spot on the initial 53-man roster.",
+        "description": "Claiborne rushed eight times for 21 yards in the Vikings' 34-6 preseason loss to the Broncos on Friday. He also returned two kickoffs for 55 yards.",
+        "title": "Demond Claiborne - Does little with eight carries",
+        "topic_id": "1399294194849165312"
+      },
+      "nfl_team": "MIN",
+      "player_id": "13347",
+      "player_name": "Demond Claiborne",
+      "position": "RB",
+      "published": 1787979854000,
+      "source": "rotowire",
+      "source_key": "635133",
+      "story_id": "nfl|13347|rotowire|635133|1787979854000",
+      "title": "Demond Claiborne - Does little with eight carries",
+      "url": null
+    },
     {
       "analysis": "The second-year tight end had recorded a 36-yard touchdown grab in Sunday's exhibition against the Titans, and Arroyo followed that up with another big play Friday on his 24-yard grab during Seattle's second possession. Arroyo is expected to operate as the No. 2 pass-catching option at tight end behind AJ Barner, but veteran Eric Saubert is expected to see his fair share of snaps as well thanks to his blocking prowess.",
       "description": "Arroyo secured his only target for a 24-yard reception in the Seahawks' 9-9 preseason tie with the Chiefs on Friday.",

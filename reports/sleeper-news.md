@@ -2,12 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1274**
+- Stored stories: **1277**
 - Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Elijah Arroyo** — Elijah Arroyo - Another chunk play Friday (2026-08-29T04:55:01Z)
+- **NEW — Troy Franklin** — Troy Franklin - Fails to corral one target (2026-08-29T05:10:51Z)
+  - Franklin opened preseason with a 23-yard grab in the opener against the Falcons, but that turned out to be his only production of the exhibition slate across three games. Despite the quiet summer, Franklin is slated to serve as the No. 3 receiver behind Courtland Sutton and Jaylen Waddle in what should be a high-powered Broncos air attack.
+- **NEW — Will Reichard** — Will Reichard - Perfect on two kicks Friday (2026-08-29T05:07:10Z)
+  - The third-year kicker wrapped up a perfect preseason with his pair of successful kicks Friday. Reichard went 5-for-5 on field goals, including two from 50-plus yards, and knocked home his only PAT across three preseason games, and he'll now turn his attention to a Week 1 divisional home showdown against the Packers on Sept. 13.
+- **NEW — Demond Claiborne** — Demond Claiborne - Does little with eight carries (2026-08-29T05:04:14Z)
+  - The rookie sixth-round pick drew the start and carried the ball on the Vikings' first two plays from scrimmage. Claiborne was given ample opportunity this preseason, rushing 28 times for 73 yards and adding a seven-yard reception on his only target. While Claiborne found running room at a premium, he did average 25.2  yards on his five kickoff returns, and special teams may be his ticket to a spot on the initial 53-man roster.
+- **Elijah Arroyo** — Elijah Arroyo - Another chunk play Friday (2026-08-29T04:55:01Z)
   - The second-year tight end had recorded a 36-yard touchdown grab in Sunday's exhibition against the Titans, and Arroyo followed that up with another big play Friday on his 24-yard grab during Seattle's second possession. Arroyo is expected to operate as the No. 2 pass-catching option at tight end behind AJ Barner, but veteran Eric Saubert is expected to see his fair share of snaps as well thanks to his blocking prowess.
 - **Emmett Johnson** — Emmett Johnson - Productive with nine touches Friday (2026-08-29T04:37:50Z)
   - The rookie fifth-round pick put together a strong finish to an encouraging preseason, one where he rushed 26 times for 123 yards and a touchdown and adding a 6-35-0 line on seven targets. Johnson's primary competition for a depth role, Brashard Smith, had a productive 16-carry, 72-yard effort in his own right Friday, so it remains to be seen where each will slot on the depth chart behind the top duo of Kenneth Walker (ankle) and Emari Demercado.
@@ -51,13 +57,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - San Francisco elected to rest its projected regular-season starters for the team's final exhibition game. Purdy saw very limited work during the preseason slate, getting into one game and completing four of six passes for 29 yards. He'll next take the field against the Rams in Week 1 of the regular season in Melbourne, Australia, on Friday, Sept. 11 (which will be Thursday, Sept. 10, in US time zones). Purdy will be working with a largely new wideout corps, including Mike Evans (groin), Deebo Samuel (returning after a one-year hiatus with Washington), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).
 - **DJ Moore** — DJ Moore - Rests during preseason finale (2026-08-29T00:57:37Z)
   - Buffalo elected to rest the bulk of its projected regular-season starters, including Moore, for the team's final preseason game. The veteran wideout saw action in one exhibition contest, catching three of four targets for 61 yards. Moore left that game early due to an ankle injury but has since returned to practice, so he should be good to go as the Bills' top wideout in Week 1 of the regular season versus a tough Texans defense.
-- **NEW — Rashee Rice** — Rashee Rice Being Drafted as a WR1 in Fantasy Football Drafts (2026-08-29T00:54:07Z)
+- **Rashee Rice** — Rashee Rice Being Drafted as a WR1 in Fantasy Football Drafts (2026-08-29T00:54:07Z)
   - Source: https://www.rotoballer.com/player-news/rashee-rice-being-drafted-as-a-wr1-in-fantasy-football-drafts/1918941
 - **Rhamondre Stevenson** — Rhamondre Stevenson - Held out of exhibition finale (2026-08-29T00:52:29Z)
   - The Patriots rested their projected regular-season starters Thursday, so Stevenson's absence was par for the course. He didn't see any game action during the preseason slate but appears back to full health after dealing with a minor undisclosed injury in late July. Stevenson and TreVeyon Henderson, who is dealing with an ankle injury but is expected to be ready for Week 1, are slated to share backfield duties for New England during the upcoming campaign.
 - **Tyrone Tracy** — Tyrone Tracy - Goes to locker room (2026-08-29T00:50:19Z)
   - Tracy was tended to by medical staff after taking a big hit on an eight-yard run during the second quarter. The good news was that he was able to walk off the field and into the locker room under his own power. Given that he's being checked for a neck injury, it appears unlikely that Tracy will return to Friday's exhibition contest. If he's indeed done, he''ll finish with four carries for 37 yards and a touchdown.
-- **NEW — Brock Purdy** — Brock Purdy Should Continue to Benefit from Strong Supporting Cast (2026-08-29T00:48:02Z)
+- **Brock Purdy** — Brock Purdy Should Continue to Benefit from Strong Supporting Cast (2026-08-29T00:48:02Z)
   - Source: https://www.rotoballer.com/player-news/brock-purdy-should-continue-to-benefit-from-strong-supporting-cast/1918939
 - **Quinshon Judkins** — Quinshon Judkins - Doesn't suit up for preseason finale (2026-08-29T00:47:42Z)
   - Judkins also missed the team's second preseason game due to an undisclosed injury, but he returned to practice this past Monday and seems to be past the issue. He ended up logging action in only the first of the Browns' exhibition contests, when he carried four times for nine yards. Judkins is the clear No. 1 RB for Cleveland and could be headed for a heavy workload on a team that may again deploy a shaky passing game.
@@ -201,9 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/mike-washington-jr-continues-to-impress-emerging-as-priority-late-round-sleeper/1918252
 - **Fernando Mendoza** — Fernando Mendoza Struggles in Final Extended Opportunity (2026-08-28T09:14:08Z)
   - Source: https://www.rotoballer.com/player-news/fernando-mendoza-struggles-in-final-extended-opportunity/1918242
-- **Ray Davis** — Ray Davis - Tough night in final exhibition contest (2026-08-28T07:02:22Z)
-  - His muffed punt return at the Buffalo 12-yard line in the first quarter led directly to Pittsburgh's first TD of the game on the very next play. It was a tough way for Davis to end his preseason, but the third-year RB has never returned a punt in his NFL career. Davis' spot as the No. 2 back behind James Cook seems fairly secure however, after he averaged 4.7 yards on 58 carries over 17 regular-season games last year.
-- **Kaleb Johnson** — Kaleb Johnson - Sees action late in preseason finale (2026-08-28T06:34:26Z)
-  - It's not an encouraging sign for the 2025 third-round pick that he was the fourth running back into the game for the Steelers, as Johnson didn't get his first touch until the second half, after Lew Nichols, Eli Heidenreich and Travis Homer has all mixed into the backfield. Johnson is coming off a disappointing rookie campaign in which he managed just 69 rushing yards in 10 regular-season contests, and he could be on the roster bubble.
-- **Germie Bernard** — Germie Bernard - Finds end zone in final exhibition game (2026-08-28T06:28:30Z)
-  - The Steelers rested their starters and key personnel, but Bernard played the first quarter and connected with Will Howard (head) on a one-play scoring drive after Buffalo's Ray Davis muffed a punt. Bernard's usage Thursday would seem to suggest he'll begin the season No. 4 on the wide receiver depth chart behind DK Metcalf (undisclosed), Michael Pittman (hamstring) and Roman Wilson, but the 2026 second-round pick could find himself in a key role early if either of the veterans ahead of him wind up not being ready for Week 1.
