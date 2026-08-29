@@ -2,16 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1237**
-- Newly captured: **3**
+- Stored stories: **1239**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — DJ Moore** — DJ Moore - Rests during preseason finale (2026-08-29T00:57:37Z)
+- **NEW — Brock Purdy** — Brock Purdy - Doesn't participate in preseason finale (2026-08-29T01:07:20Z)
+  - San Francisco elected to rest its projected regular-season starters for the team's final exhibition game. Purdy saw very limited work during the preseason slate, getting into one game and completing four of six passes for 29 yards. He'll next take the field against the Rams in Week 1 of the regular season in Melbourne, Australia, on Friday, Sept. 11 (which will be Thursday, Sept. 10, in US time zones). Purdy will be working with a largely new wideout corps, including Mike Evans (groin), Deebo Samuel (returning after a one-year hiatus with Washington), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).
+- **DJ Moore** — DJ Moore - Rests during preseason finale (2026-08-29T00:57:37Z)
   - Buffalo elected to rest the bulk of its projected regular-season starters, including Moore, for the team's final preseason game. The veteran wideout saw action in one exhibition contest, catching three of four targets for 61 yards. Moore left that game early due to an ankle injury but has since returned to practice, so he should be good to go as the Bills' top wideout in Week 1 of the regular season versus a tough Texans defense.
-- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson - Held out of exhibition finale (2026-08-29T00:52:29Z)
+- **Rhamondre Stevenson** — Rhamondre Stevenson - Held out of exhibition finale (2026-08-29T00:52:29Z)
   - The Patriots rested their projected regular-season starters Thursday, so Stevenson's absence was par for the course. He didn't see any game action during the preseason slate but appears back to full health after dealing with a minor undisclosed injury in late July. Stevenson and TreVeyon Henderson, who is dealing with an ankle injury but is expected to be ready for Week 1, are slated to share backfield duties for New England during the upcoming campaign.
-- **NEW — Tyrone Tracy** — Tyrone Tracy - Goes to locker room (2026-08-29T00:50:19Z)
+- **Tyrone Tracy** — Tyrone Tracy - Goes to locker room (2026-08-29T00:50:19Z)
   - Tracy was tended to by medical staff after taking a big hit on an eight-yard run during the second quarter. The good news was that he was able to walk off the field and into the locker room under his own power. Given that he's being checked for a neck injury, it appears unlikely that Tracy will return to Friday's exhibition contest. If he's indeed done, he''ll finish with four carries for 37 yards and a touchdown.
 - **Quinshon Judkins** — Quinshon Judkins - Doesn't suit up for preseason finale (2026-08-29T00:47:42Z)
   - Judkins also missed the team's second preseason game due to an undisclosed injury, but he returned to practice this past Monday and seems to be past the issue. He ended up logging action in only the first of the Browns' exhibition contests, when he carried four times for nine yards. Judkins is the clear No. 1 RB for Cleveland and could be headed for a heavy workload on a team that may again deploy a shaky passing game.
@@ -49,6 +51,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - White has been tending to a hamstring injury since Aug. 19 that will keep him sidelined for the Commanders' final two exhibitions. He was able to mix into individual drills as recently as Monday, though, so he's making progress in his recovery. White will join No. 1 RB Jacory Croskey-Merritt (lower body) and Jeremy McNichols (quadriceps) on the sideline Friday.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Sitting out Friday's preseason game (2026-08-28T21:43:40Z)
   - On Aug. 20, Croskey-Merritt pulled up at the end of a catch and run in practice due to a lower-body injury, which now will keep him out of the Commanders' final two exhibitions. He focused on rehab work on the side this week, with the intent to return to practice at some point next week. Rachaad White (hamstring) and Jeremy McNichols (quadriceps) also aren't in uniform Friday, meaning rookie sixth-rounder Kaytron Allen, Robert Henry and Craig Reynolds are the team's available RBs for preseason Week 3.
+- **NEW — Tyrone Tracy** — Tyrone Tracy Jr. Injures his Neck in Preseason Finale on Friday (2026-08-28T20:59:15Z)
+  - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-injures-his-neck-in-preseason-finale-on-friday/1918838
 - **Emeka Egbuka** — Emeka Egbuka - Focus remains on Week 1 (2026-08-28T19:49:18Z)
   - Egbuka, per the report, made the trip to Jacksonville with his teammates for Friday's preseason finale, but he will not suit up and will instead keep working on his recovery from the toe injury he sustained a little over two weeks ago. It's not yet known when Egbuka will be back on the field, so his availability remains up in the air in advance of his team's season-opening matchup with the Bengals on Sept. 13.
 - **Malik Nabers** — Malik Nabers Not Suiting Up for Preseason Finale (2026-08-28T19:49:03Z)
@@ -204,7 +208,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Rodgers thus won't get any in-game reps with Pittsburgh's top wide receiver duo of DK Metcalf (hamstring) and Michael Pittman (hamstring) ahead of the regular season. Because both Metcalf and Pittman returned to the field Monday, the trio will continue to build a rapport during practices in advance of a Week 1 matchup with the Falcons on Sunday, Sept. 13.
 - **Khalil Shakir** — Khalil Shakir - Not suited up Thursday (2026-08-27T22:06:17Z)
   - Shakir now will miss a second consecutive exhibition due to an undisclosed injury that has sidelined him for the past week. Fellow position mates Keon Coleman (foot/toe) and Tyrell Shavers (knee, active/PUP) also aren't suited up Thursday. Shakir will set his sights on getting healthy for the Bills' Week 1 road matchup with the Texans on Sunday, Sept. 13.
-- **Josh Jacobs** — Josh Jacobs - Initial court appearance set for November (2026-08-27T22:05:12Z)
-  - Jacobs is facing misdemeanor battery and misdemeanor criminal damage to property charges, with NFL spokesperson Brian McCarthy saying in a statement Thursday, "We have been closely monitoring all developments in the matter, which remains under review." Demovsky notes that Jacobs could be subject to a suspension by the NFL, which is conducting its own investigation on the matter, adding that it's up to the league to decide whether or not to wait until the legal process is completed before any determination is made. In a statement Thursday, the Packers said, "We are aware of the charges brought against Josh Jacobs. We will continue to cooperate with the NFL as we work through the process. We will have no further comment at this time."
-- **Chimere Dike** — Chimere Dike Facing Serious Target Competition in 2026 (2026-08-27T22:00:13Z)
-  - Source: https://www.rotoballer.com/player-news/chimere-dike-facing-serious-target-competition-in-2026/1917998

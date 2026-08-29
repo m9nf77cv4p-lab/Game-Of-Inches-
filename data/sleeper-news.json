@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T01:03:31Z",
+  "last_checked_at": "2026-08-29T01:13:34Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11655|rotowire|635057|1787964619000",
-    "nfl|4983|rotowire|635061|1787965057000",
-    "nfl|7611|rotowire|635059|1787964749000"
+    "nfl|11655|rotoballer|219603|1787950755000",
+    "nfl|8183|rotowire|635062|1787965640000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "San Francisco elected to rest its projected regular-season starters for the team's final exhibition game. Purdy saw very limited work during the preseason slate, getting into one game and completing four of six passes for 29 yards. He'll next take the field against the Rams in Week 1 of the regular season in Melbourne, Australia, on Friday, Sept. 11 (which will be Thursday, Sept. 10, in US time zones). Purdy will be working with a largely new wideout corps, including Mike Evans (groin), Deebo Samuel (returning after a one-year hiatus with Washington), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).",
+      "description": "Purdy sat out Thursday's exhibition win over the Raiders.",
+      "metadata": {
+        "analysis": "San Francisco elected to rest its projected regular-season starters for the team's final exhibition game. Purdy saw very limited work during the preseason slate, getting into one game and completing four of six passes for 29 yards. He'll next take the field against the Rams in Week 1 of the regular season in Melbourne, Australia, on Friday, Sept. 11 (which will be Thursday, Sept. 10, in US time zones). Purdy will be working with a largely new wideout corps, including Mike Evans (groin), Deebo Samuel (returning after a one-year hiatus with Washington), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).",
+        "description": "Purdy sat out Thursday's exhibition win over the Raiders.",
+        "title": "Brock Purdy - Doesn't participate in preseason finale",
+        "topic_id": "1399233788973690880"
+      },
+      "nfl_team": "SF",
+      "player_id": "8183",
+      "player_name": "Brock Purdy",
+      "position": "QB",
+      "published": 1787965640000,
+      "source": "rotowire",
+      "source_key": "635062",
+      "story_id": "nfl|8183|rotowire|635062|1787965640000",
+      "title": "Brock Purdy - Doesn't participate in preseason finale",
+      "url": null
+    },
     {
       "analysis": "Buffalo elected to rest the bulk of its projected regular-season starters, including Moore, for the team's final preseason game. The veteran wideout saw action in one exhibition contest, catching three of four targets for 61 yards. Moore left that game early due to an ankle injury but has since returned to practice, so he should be good to go as the Bills' top wideout in Week 1 of the regular season versus a tough Texans defense.",
       "description": "Moore didn't play against the Steelers in Thursday's exhibition victory.",
@@ -434,6 +453,26 @@
       "story_id": "nfl|12533|rotowire|635015|1787953420000",
       "title": "Jacory Croskey-Merritt - Sitting out Friday's preseason game",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants running back Tyrone Tracy Jr. (neck) left Friday night's preseason finale against the New York Jets after a big collision, and it looked like trainers/doctors were checking his neck, according to Dan Duggan of The Athletic. Tracy left the field and walked directly into the locker room with trainers. Before his injury, Tracy had four carries for 37 yards and a touchdown in the game. We do not know the severity of the 26-year-old's injury yet, but this is a significant development in New York's backfield as the Week 1 regular-season opener approaches on Sunday Night Football against the division-rival Dallas Cowboys. The former fifth-rounder in 2024 from Purdue lost some of his late-round handcuff appeal in fantasy football leagues when the Giants signed veteran RB Najee Harris earlier this week, and his injury on Friday night does not help, either. In addition to Harris, the Giants have second-year back Cam Skattebo, who is expected to be the team's primary early-down workhorse in 2026. RotoBaller has Tracy ranked as the No. 67 fantasy RB with just two weeks until the season opener. Check back later for any pertinent injury updates on Tracy.",
+      "metadata": {
+        "description": "New York Giants running back Tyrone Tracy Jr. (neck) left Friday night's preseason finale against the New York Jets after a big collision, and it looked like trainers/doctors were checking his neck, according to Dan Duggan of The Athletic. Tracy left the field and walked directly into the locker room with trainers. Before his injury, Tracy had four carries for 37 yards and a touchdown in the game. We do not know the severity of the 26-year-old's injury yet, but this is a significant development in New York's backfield as the Week 1 regular-season opener approaches on Sunday Night Football against the division-rival Dallas Cowboys. The former fifth-rounder in 2024 from Purdue lost some of his late-round handcuff appeal in fantasy football leagues when the Giants signed veteran RB Najee Harris earlier this week, and his injury on Friday night does not help, either. In addition to Harris, the Giants have second-year back Cam Skattebo, who is expected to be the team's primary early-down workhorse in 2026. RotoBaller has Tracy ranked as the No. 67 fantasy RB with just two weeks until the season opener. Check back later for any pertinent injury updates on Tracy.",
+        "title": "Tyrone Tracy Jr. Injures his Neck in Preseason Finale on Friday",
+        "topic_id": "1399232527855575040",
+        "url": "https://www.rotoballer.com/player-news/tyrone-tracy-jr-injures-his-neck-in-preseason-finale-on-friday/1918838"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11655",
+      "player_name": "Tyrone Tracy",
+      "position": "RB",
+      "published": 1787950755000,
+      "source": "rotoballer",
+      "source_key": "219603",
+      "story_id": "nfl|11655|rotoballer|219603|1787950755000",
+      "title": "Tyrone Tracy Jr. Injures his Neck in Preseason Finale on Friday",
+      "url": "https://www.rotoballer.com/player-news/tyrone-tracy-jr-injures-his-neck-in-preseason-finale-on-friday/1918838"
     },
     {
       "analysis": "Egbuka, per the report, made the trip to Jacksonville with his teammates for Friday's preseason finale, but he will not suit up and will instead keep working on his recovery from the toe injury he sustained a little over two weeks ago. It's not yet known when Egbuka will be back on the field, so his availability remains up in the air in advance of his team's season-opening matchup with the Bengals on Sept. 13.",
