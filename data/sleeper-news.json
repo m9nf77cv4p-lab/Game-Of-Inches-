@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T05:35:53Z",
+  "last_checked_at": "2026-08-29T05:55:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|13405|rotowire|635137|1787982504000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "With the Commanders resting all their key personnel in the team's final exhibition contest, Allen got the start in the backfield but coughed up the ball on his first touch, setting the Ravens up for their first TD of the night. The 2026 sixth-round pick is expected to begin the regular season as the third back on the depth chart behind Jacory Croskey-Merritt (lower body) and Rachaad White (hamstring), but if the injuries to either RB linger into Week 1, Allen could see a bigger workload than expected in his NFL debut.",
+      "description": "Allen carried the ball three times for four yards and lost a fumble in Friday's 41-3 preseason loss to the Ravens. he added nine yards on one kickoff return.",
+      "metadata": {
+        "analysis": "With the Commanders resting all their key personnel in the team's final exhibition contest, Allen got the start in the backfield but coughed up the ball on his first touch, setting the Ravens up for their first TD of the night. The 2026 sixth-round pick is expected to begin the regular season as the third back on the depth chart behind Jacory Croskey-Merritt (lower body) and Rachaad White (hamstring), but if the injuries to either RB linger into Week 1, Allen could see a bigger workload than expected in his NFL debut.",
+        "description": "Allen carried the ball three times for four yards and lost a fumble in Friday's 41-3 preseason loss to the Ravens. he added nine yards on one kickoff return.",
+        "title": "Kaytron Allen - Poor showing in preseason finale",
+        "topic_id": "1399304263179436032"
+      },
+      "nfl_team": "WAS",
+      "player_id": "13405",
+      "player_name": "Kaytron Allen",
+      "position": "RB",
+      "published": 1787982504000,
+      "source": "rotowire",
+      "source_key": "635137",
+      "story_id": "nfl|13405|rotowire|635137|1787982504000",
+      "title": "Kaytron Allen - Poor showing in preseason finale",
+      "url": null
+    },
     {
       "analysis": "Franklin opened preseason with a 23-yard grab in the opener against the Falcons, but that turned out to be his only production of the exhibition slate across three games. Despite the quiet summer, Franklin is slated to serve as the No. 3 receiver behind Courtland Sutton and Jaylen Waddle in what should be a high-powered Broncos air attack.",
       "description": "Franklin failed to secure his only target in the Broncos' 34-6 preseason win over the Vikings on Friday.",

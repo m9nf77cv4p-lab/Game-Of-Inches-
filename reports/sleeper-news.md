@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1277**
-- Newly captured: **0**
+- Stored stories: **1278**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Kaytron Allen** — Kaytron Allen - Poor showing in preseason finale (2026-08-29T05:48:24Z)
+  - With the Commanders resting all their key personnel in the team's final exhibition contest, Allen got the start in the backfield but coughed up the ball on his first touch, setting the Ravens up for their first TD of the night. The 2026 sixth-round pick is expected to begin the regular season as the third back on the depth chart behind Jacory Croskey-Merritt (lower body) and Rachaad White (hamstring), but if the injuries to either RB linger into Week 1, Allen could see a bigger workload than expected in his NFL debut.
 - **Troy Franklin** — Troy Franklin - Fails to corral sole target (2026-08-29T05:10:51Z)
   - Franklin opened preseason with a 23-yard grab in the opener against the Falcons, but that turned out to be his only production of the exhibition slate across three games. Despite the quiet summer, Franklin is slated to serve as the No. 3 receiver behind Courtland Sutton and Jaylen Waddle in what should be a high-powered Broncos air attack.
 - **Will Reichard** — Will Reichard - Perfect on two kicks Friday (2026-08-29T05:07:10Z)
@@ -205,5 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/quentin-johnston-shows-off-boom-potential-with-long-touchdown-in-preseason-finale/1918271
 - **Mike Washington** — Mike Washington Jr. Emerging as Priority Late-Round Sleeper (2026-08-28T09:25:09Z)
   - Source: https://www.rotoballer.com/player-news/mike-washington-jr-continues-to-impress-emerging-as-priority-late-round-sleeper/1918252
-- **Fernando Mendoza** — Fernando Mendoza Struggles in Final Extended Opportunity (2026-08-28T09:14:08Z)
-  - Source: https://www.rotoballer.com/player-news/fernando-mendoza-struggles-in-final-extended-opportunity/1918242
