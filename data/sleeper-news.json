@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T06:46:36Z",
+  "last_checked_at": "2026-08-29T08:48:35Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13268|rotowire|635145|1787985756000",
-    "nfl|13302|rotowire|635144|1787985479000"
+    "nfl|13337|rotoballer|219631|1787978156000"
   ],
   "schema_version": 1,
   "source": {
@@ -193,6 +192,26 @@
       "story_id": "nfl|13337|rotowire|635124|1787978270000",
       "title": "Emmett Johnson - Productive with nine touches Friday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs rookie running back Emmett Johnson handled seven carries for 39 yards (5.6 ypc) and caught two passes for 15 yards in the 9-9 tie with the Seattle Seahawks. Johnson earned nine total opportunities in the content, including all five of the first running back opportunities. Johnson's 5.6 yards per carry were highest the highest mark for any rusher in this game. The 22-year-old out of Nebraska appears to be establishing himself as the running back to roster behind Chiefs workhorse Kenneth Walker. Johnson is officially listed third in the Chiefs running back depth chart, but that could just be a formality. Emari Demercado is currently listed as the Chiefs RB2, but is likely to operate as more of a third-down or passing-down specialist kind of back in the Kansas City offense. Johnson has the build, tackle-breaking ability, and pass-catching chops to step into a large role should anything happen to the Chiefs starter. Johnson should be viewed as a potential handcuff to roster for the 2026 season.",
+      "metadata": {
+        "description": "Kansas City Chiefs rookie running back Emmett Johnson handled seven carries for 39 yards (5.6 ypc) and caught two passes for 15 yards in the 9-9 tie with the Seattle Seahawks. Johnson earned nine total opportunities in the content, including all five of the first running back opportunities. Johnson's 5.6 yards per carry were highest the highest mark for any rusher in this game. The 22-year-old out of Nebraska appears to be establishing himself as the running back to roster behind Chiefs workhorse Kenneth Walker. Johnson is officially listed third in the Chiefs running back depth chart, but that could just be a formality. Emari Demercado is currently listed as the Chiefs RB2, but is likely to operate as more of a third-down or passing-down specialist kind of back in the Kansas City offense. Johnson has the build, tackle-breaking ability, and pass-catching chops to step into a large role should anything happen to the Chiefs starter. Johnson should be viewed as a potential handcuff to roster for the 2026 season.",
+        "title": "Emmett Johnson Appears To Be The Chiefs Backup To Roster",
+        "topic_id": "1399347046493782016",
+        "url": "https://www.rotoballer.com/player-news/emmett-johnson-appears-to-be-the-chiefs-backup-to-roster/1918962"
+      },
+      "nfl_team": "KC",
+      "player_id": "13337",
+      "player_name": "Emmett Johnson",
+      "position": "RB",
+      "published": 1787978156000,
+      "source": "rotoballer",
+      "source_key": "219631",
+      "story_id": "nfl|13337|rotoballer|219631|1787978156000",
+      "title": "Emmett Johnson Appears To Be The Chiefs Backup To Roster",
+      "url": "https://www.rotoballer.com/player-news/emmett-johnson-appears-to-be-the-chiefs-backup-to-roster/1918962"
     },
     {
       "analysis": "Love was able to get in some light work in Wednesday, and he appeared to be moving at a quicker pace a couple days later. It remains unclear if he will be ready to go when the Cardinals open their season against the Chargers, but he will have just over two more weeks to work past the high-ankle sprain he picked up in the first preseason game.",
