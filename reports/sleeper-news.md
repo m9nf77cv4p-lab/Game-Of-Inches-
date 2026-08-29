@@ -2,16 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1262**
-- Newly captured: **3**
+- Stored stories: **1263**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Brandon Aubrey** — Brandon Aubrey - Rare miss in preseason finale (2026-08-29T03:32:51Z)
+- **Brandon Aubrey** — Brandon Aubrey - Rare miss in preseason finale (2026-08-29T03:32:51Z)
   - Aubrey missed a 57-yard field-goal attempt wide right after converting from 49 yards and 51 yards, but he made the proper adjustment on his next long attempt and was successful on a 58-yard field-goal attempt in the final minute of the first half. After making at least 36 field goals in each of his three regular seasons with the Cowboys, with a long of 60-plus yards in each campaign, Aubrey is widely considered the NFL's best kicker heading into the 2026 regular season.
-- **NEW — Xavier Worthy** — Xavier Worthy - One target in preseason debut (2026-08-29T03:32:23Z)
+- **Xavier Worthy** — Xavier Worthy - One target in preseason debut (2026-08-29T03:32:23Z)
   - The speedster made his preseason debut after overcoming a shoulder sprain that had plagued him for multiple weeks. Now apparently healthy, Worthy heads into his third season looking to build on the promise of his 2024 rookie campaign -- when he posted a 59-638-6 line across 17 regular-season games -- and atone for a lackluster 2025 season when he made just one trip to the end zone on 42 catches and missed three games.
-- **NEW — Tyrone Tracy** — Tyrone Tracy - Injury not believed to be serious (2026-08-29T03:32:18Z)
+- **Tyrone Tracy** — Tyrone Tracy - Injury not believed to be serious (2026-08-29T03:32:18Z)
   - Tracy left Friday's preseason victory over the Jets with the injury, but head coach John Harbaugh indicated afterward it is not a serious setback. Tracy had four carries for 37 yards and a touchdown prior to his exit, which is the showing he needed in what is now a crowded Giants running back room.
 - **Travis Kelce** — Travis Kelce - One catch in preseason finale (2026-08-29T03:28:07Z)
   - Kelce was on the other end of starting quarterback's Garrett Nussmeier's first pass of the night, an eight-yard completion that took the ball to midfield on Kansas City's opening possession. Kelce thus was able to record his only stats of preseason in the brief cameo, and he'll now turn his attention to a Week 1 Monday night home showdown against the Broncos on Sept. 14 that he'll hope to play with Patrick Mahomes (knee) as his quarterback.
@@ -53,6 +53,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Unsurprisingly, Maye was among the plethora of New England starters who didn't see action in the team's final exhibition game. The star quarterback ended up sitting out all three of the team's preseason contests as he prepares for the regular season. Maye's first chance to get into game action with new top wideouts A.J. Brown and Romeo Doubs will take place in Week 1 versus Seattle on Wednesday, Sept. 9.
 - **James Cook** — James Cook - Sits out preseason finale (2026-08-29T00:26:51Z)
   - The Bills rested most of their projected regular-season starters, so Cook's absence was expected. The star running back finished the preseason slate having appeared in one game, logging 21 yards on five carries. Cook will now look ahead to Week 1, when he's slated to lead Buffalo's backfield against a tough Texans defense on Sunday, Sept. 13. Ray Davis is expected to work as his top backup.
+- **NEW — Matthew Stafford** — Matthew Stafford Remains a QB1 Despite Lack of Rushing Upside (2026-08-28T23:44:07Z)
+  - Source: https://www.rotoballer.com/player-news/matthew-stafford-remains-a-qb1-despite-lack-of-rushing-upside/1918917
 - **Tre' Harris** — Tre' Harris - Idle for preseason finale (2026-08-28T23:40:00Z)
   - Harris will end up not playing a single preseason game, missing the last two while working through an undisclosed injury. Despite the lack of on-field playing time, there's no indication that the 2025 second-rounder is in jeopardy of missing the Chargers' regular-season opener against the Cardinals on Sunday, Sept. 13. Following the departure of Keenan Allen, Harris figures to serve as the Chargers' WR3 this season behind Ladd McConkey and Quentin Johnston.
 - **Kimani Vidal** — Kimani Vidal - Tallies six snaps in preseason finale (2026-08-28T23:38:37Z)
@@ -62,7 +64,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **David Njoku** — David Njoku - Wraps up exhibition slate with limited work (2026-08-28T23:28:06Z)
   - Njoku worked behind starter Charlie Kolar and ahead of Oronde Gadsden in the contest. During the exhibition slate, Kolar and starting QB Justin Herbert were on the field together for six snaps, while Njoku logged five snaps with Herbert and Gadsden registered just one. That could be an indication of the pecking order during the regular season as well, as Kolar is considered the superior blocker of the trio and Gadsden the top pass catcher, with Njoku being competent in both areas.
 - **Devin Singletary** — Devin Singletary - Not playing in preseason finale (2026-08-28T23:23:50Z)
-  - The same can be said for No. 1 RB Cam Skattebo, while position mates Tyrone Tracy and Najee Harris are candidates to get some run in the Giants' exhibition finale. The situation would seem to indicate that Singletary will be Skattebo's direct backup to begin the campaign, which would be further solidified depending on how the team proceeds with roster cuts Sunday.
+  - The same can be said for No. 1 RB Cam Skattebo, while position mates Tyrone Tracy and Najee Harris are candidates to get some run in the Giants' exhibition finale. The rest would seem to indicate Singletary's roster spot is secure, but it's not exactly clear how things will shake out behind Cam Skattebo with Harris in the mix.
 - **Keaton Mitchell** — Keaton Mitchell - Doesn't play Thursday (2026-08-28T23:22:04Z)
   - Mitchell experienced a setback for an unspecified injury in practice earlier in the week, so his absence from Thursday's preseason finale was likely a precautionary move. The nature and severity of Mitchell's injury is not clear, but there's been no indication that he's in danger of missing the Chargers' Week 1 clash against the Cardinals on Sunday, Sept. 13. The fourth-year pro inked a two-year contract with the Chargers in March after spending the first three years of his NFL career with the Ravens. He's expected to work in rotation with Kimani Vidal behind starting running back Omarion Hampton.
 - **Malik Nabers** — Malik Nabers - Not in uniform Friday (2026-08-28T23:18:26Z)
@@ -205,5 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Nailor led the Raiders in targets and finished tied for second in receptions. The fifth-year pro made his first catch on a pass from Kirk Cousins for a seven-yard gain during the opening possession, and he recorded his second and final one with Fernando Mendoza under center to open Las Vegas' third drive. Nailor was then also the intended target deep down the middle on the next play, a pass that resulted in an interception. Nailor is projected to open the regular season as the No. 2 receiver and posted a 3-35-0 line on seven targets in two preseason games.
 - **Tre Tucker** — Tre Tucker - Paces pass catchers in preseason loss (2026-08-28T03:46:37Z)
   - Tucker led the Raiders in receptions and receiving yards on a night when Las Vegas netted just 138 passing yards overall. Tucker, Las Vegas' presumptive No. 1 receiver to open the regular season, played on the first two drives and recorded 14- and eight-yard grabs on passes from Kirk Cousins during back-to-back plays on the opening possession. Tucker finishes the preseason with a 5-46-0 line on five targets over two games, and he'll now set his sights on the Dolphins for a Week 1 home matchup on Sunday, Sept. 13.
-- **Kaelon Black** — Kaelon Black - Averages 7.0 yards per carry (2026-08-28T03:40:37Z)
-  - Black didn't log a touch on the 49ers' opening three-and-out possession, but he gained 11 yards on back-to-back carries to start San Francisco's second drive. The rookie third-round pick then recorded his game-high 14 yard run on the last play of the first quarter, rounding out his relatively brief night in encouraging fashion. Black put together a solid two-game preseason during which he rushed 12 times for 61 yards, but his primary competition for the No. 2 running back role, Jordan James, had a productive night himself Thursday with 55 yards from scrimmage on nine touches. Consequently, it's possible the two backs share complementary work behind Christian McCaffrey (undisclosed) to open the regular season.

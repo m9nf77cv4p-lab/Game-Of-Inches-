@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T03:45:09Z",
+  "last_checked_at": "2026-08-29T03:55:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11533|rotowire|635103|1787974371000",
-    "nfl|11624|rotowire|635102|1787974343000",
-    "nfl|11655|rotowire|635101|1787974338000"
+    "nfl|421|rotoballer|219615|1787960647000"
   ],
   "schema_version": 1,
   "source": {
@@ -476,6 +474,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Los Angeles Rams quarterback Matthew Stafford is coming off a top-three finish in fantasy football, and he should remain a strong QB1 option as long as he has Puka Nacua and Davante Adams at his disposal. Now 38, Stafford has shown no signs of slowing down. He won the league MVP award last year with 4,707 passing yards, 46 touchdowns, and eight interceptions to his name. His lack of rushing ability may prevent him from being the overall QB1, but he certainly has a chance to replicate last year's QB3 mark. One factor to consider is a potential suspension to Puka Nacua, which could sideline him for one or multiple games. However, in the one game that Nacua missed last year, Stafford threw for five touchdowns. In the end, we're not overly concerned about his fantasy outlook if Nacua (or Davante Adams, for that matter) has a short-term absence. He's somewhat of a steal at his current ADP of 104.9, which makes him the 12th quarterback off the board in fantasy drafts.",
+      "metadata": {
+        "description": "Los Angeles Rams quarterback Matthew Stafford is coming off a top-three finish in fantasy football, and he should remain a strong QB1 option as long as he has Puka Nacua and Davante Adams at his disposal. Now 38, Stafford has shown no signs of slowing down. He won the league MVP award last year with 4,707 passing yards, 46 touchdowns, and eight interceptions to his name. His lack of rushing ability may prevent him from being the overall QB1, but he certainly has a chance to replicate last year's QB3 mark. One factor to consider is a potential suspension to Puka Nacua, which could sideline him for one or multiple games. However, in the one game that Nacua missed last year, Stafford threw for five touchdowns. In the end, we're not overly concerned about his fantasy outlook if Nacua (or Davante Adams, for that matter) has a short-term absence. He's somewhat of a steal at his current ADP of 104.9, which makes him the 12th quarterback off the board in fantasy drafts.",
+        "title": "Matthew Stafford Remains a QB1 Despite Lack of Rushing Upside",
+        "topic_id": "1399274056330543104",
+        "url": "https://www.rotoballer.com/player-news/matthew-stafford-remains-a-qb1-despite-lack-of-rushing-upside/1918917"
+      },
+      "nfl_team": "LAR",
+      "player_id": "421",
+      "player_name": "Matthew Stafford",
+      "position": "QB",
+      "published": 1787960647000,
+      "source": "rotoballer",
+      "source_key": "219615",
+      "story_id": "nfl|421|rotoballer|219615|1787960647000",
+      "title": "Matthew Stafford Remains a QB1 Despite Lack of Rushing Upside",
+      "url": "https://www.rotoballer.com/player-news/matthew-stafford-remains-a-qb1-despite-lack-of-rushing-upside/1918917"
+    },
+    {
       "analysis": "Harris will end up not playing a single preseason game, missing the last two while working through an undisclosed injury. Despite the lack of on-field playing time, there's no indication that the 2025 second-rounder is in jeopardy of missing the Chargers' regular-season opener against the Cardinals on Sunday, Sept. 13. Following the departure of Keenan Allen, Harris figures to serve as the Chargers' WR3 this season behind Ladd McConkey and Quentin Johnston.",
       "description": "Harris (undisclosed) did not play in the Chargers' 20-18 preseason loss to the Rams on Thursday.",
       "metadata": {
@@ -556,10 +574,10 @@
       "url": null
     },
     {
-      "analysis": "The same can be said for No. 1 RB Cam Skattebo, while position mates Tyrone Tracy and Najee Harris are candidates to get some run in the Giants' exhibition finale. The situation would seem to indicate that Singletary will be Skattebo's direct backup to begin the campaign, which would be further solidified depending on how the team proceeds with roster cuts Sunday.",
+      "analysis": "The same can be said for No. 1 RB Cam Skattebo, while position mates Tyrone Tracy and Najee Harris are candidates to get some run in the Giants' exhibition finale. The rest would seem to indicate Singletary's roster spot is secure, but it's not exactly clear how things will shake out behind Cam Skattebo with Harris in the mix.",
       "description": "Singletary isn't in uniform ahead of Friday's preseason contest against the Jets, Ryan Dunleavy of the New York Post reports.",
       "metadata": {
-        "analysis": "The same can be said for No. 1 RB Cam Skattebo, while position mates Tyrone Tracy and Najee Harris are candidates to get some run in the Giants' exhibition finale. The situation would seem to indicate that Singletary will be Skattebo's direct backup to begin the campaign, which would be further solidified depending on how the team proceeds with roster cuts Sunday.",
+        "analysis": "The same can be said for No. 1 RB Cam Skattebo, while position mates Tyrone Tracy and Najee Harris are candidates to get some run in the Giants' exhibition finale. The rest would seem to indicate Singletary's roster spot is secure, but it's not exactly clear how things will shake out behind Cam Skattebo with Harris in the mix.",
         "description": "Singletary isn't in uniform ahead of Friday's preseason contest against the Jets, Ryan Dunleavy of the New York Post reports.",
         "title": "Devin Singletary - Not playing in preseason finale",
         "topic_id": "1399208619441958913"
