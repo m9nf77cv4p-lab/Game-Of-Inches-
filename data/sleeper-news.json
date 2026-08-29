@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-08-29T18:22:37Z",
+  "last_checked_at": "2026-08-29T19:02:21Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|2449|rotoballer|219667|1788015134000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -155,6 +157,26 @@
       "story_id": "nfl|8142|rotowire|635171|1788021762000",
       "title": "Alec Pierce - Working out but will sit Saturday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Veteran wide receiver Stefon Diggs enters his first season with the Washington Commanders as WR2 behind Terry McLaurin and the potential to be a sleeper in 2026. The four-time Pro Bowler signed a one-year deal with the Commanders on Aug. 5 and played a few series alongside starting quarterback Jayden Daniels in a 17-13 loss to the Detroit Lions on Aug. 22, although he didn't record any stats in that game. Diggs caught 85 of 102 targets for 1,013 yards and four touchdowns for the New England Patriots in 2025, marking his seventh 1,000-plus-yard season. Daniels dealt with an injury-hampered 2025 season and is anticipating a bounce-back campaign in 2026, which could further benefit Diggs as he joins first-year offensive coordinator David Blough's system. Diggs' ADP hasn't caught up to his potential yet, and he is listed at WR44 in RotoBaller's position rankings. He is a WR3 with a lot of projected upside if he stays healthy.",
+      "metadata": {
+        "description": "Veteran wide receiver Stefon Diggs enters his first season with the Washington Commanders as WR2 behind Terry McLaurin and the potential to be a sleeper in 2026. The four-time Pro Bowler signed a one-year deal with the Commanders on Aug. 5 and played a few series alongside starting quarterback Jayden Daniels in a 17-13 loss to the Detroit Lions on Aug. 22, although he didn't record any stats in that game. Diggs caught 85 of 102 targets for 1,013 yards and four touchdowns for the New England Patriots in 2025, marking his seventh 1,000-plus-yard season. Daniels dealt with an injury-hampered 2025 season and is anticipating a bounce-back campaign in 2026, which could further benefit Diggs as he joins first-year offensive coordinator David Blough's system. Diggs' ADP hasn't caught up to his potential yet, and he is listed at WR44 in RotoBaller's position rankings. He is a WR3 with a lot of projected upside if he stays healthy.",
+        "title": "Stefon Diggs Ready to Outplay His ADP in 2026?",
+        "topic_id": "1399501833541582848",
+        "url": "https://www.rotoballer.com/player-news/stefon-diggs-ready-to-outplay-his-adp-in-2026/1919241"
+      },
+      "nfl_team": "WAS",
+      "player_id": "2449",
+      "player_name": "Stefon Diggs",
+      "position": "WR",
+      "published": 1788015134000,
+      "source": "rotoballer",
+      "source_key": "219667",
+      "story_id": "nfl|2449|rotoballer|219667|1788015134000",
+      "title": "Stefon Diggs Ready to Outplay His ADP in 2026?",
+      "url": "https://www.rotoballer.com/player-news/stefon-diggs-ready-to-outplay-his-adp-in-2026/1919241"
     },
     {
       "analysis": "McMillan has been recovering from a knee injury he sustained in early August, which has limited his reps in training camp practices and prevented him from playing in each of the Buccaneers' three preseason games. There's optimism that the third-year wideout will not miss regular-season action, but his practice participation over the next two weeks will provide more clarity on his status for Week 1. With Mike Evans now in San Francisco, McMillan is projected to be Tampa Bay's WR3 this season behind Chris Godwin and Emeka Egbuka (toe), with Tez Johnson and rookie third-rounder Ted Hurst also in the mix for snaps on offense.",
