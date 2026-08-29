@@ -3,11 +3,11 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1305**
-- Newly captured: **2**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Marvin Mims** — Marvin Mims Jr. suffers bruised foot (2026-08-29T18:05:49.497000Z)
+- **Marvin Mims** — Marvin Mims Jr. suffers bruised foot (2026-08-29T18:05:49.497000Z)
   - Mims avoids a serious injury. He is expected to be fine with just a couple of weeks until the season. 
   - Source: https://www.fantasypros.com/nfl/news/604653/marvin-mims-jr-suffers-bruised-foot.php
 - **Jalen McMillan** — Jalen McMillan (knee) expected to be available Week 1 (2026-08-29T18:00:49.366000Z)
@@ -32,7 +32,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowles is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.
 - **Marvin Mims** — Marvin Mims - Dealing with foot contusion (2026-08-29T14:24:03Z)
   - Mims sustained the injury early in the first quarter and was listed as questionable to return after going to the locker room, but he didn't end up taking another snap in Friday's exhibition contest. It doesn't appear to be a serious injury, but his practice participation over the coming weeks will determine whether he'll suit up for Denver's Week 1 clash against Kansas City on Monday, Sept. 14.
-- **NEW — Patrick Mahomes** — Patrick Mahomes On Track to Play in Week 1 (2026-08-29T14:05:34Z)
+- **Patrick Mahomes** — Patrick Mahomes On Track to Play in Week 1 (2026-08-29T14:05:34Z)
   - Source: https://www.rotoballer.com/player-news/patrick-mahomes-on-track-to-play-in-week-1/1919210
 - **Najee Harris** — Najee Harris Has 12 Touches in Giants' Preseason Debut (2026-08-29T13:30:13Z)
   - Source: https://www.rotoballer.com/player-news/najee-harris-has-12-touches-in-giants-preseason-debut/1919185
