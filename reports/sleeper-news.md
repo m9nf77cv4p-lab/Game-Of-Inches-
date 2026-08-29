@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1231**
+- Stored stories: **1232**
 - Newly captured: **1**
 
 ## Latest news
 
+- **NEW — James Cook** — James Cook - Sits out preseason finale (2026-08-29T00:26:51Z)
+  - The Bills rested most of their projected regular-season starters, so Cook's absence was expected. The star running back finished the preseason slate having appeared in one game, logging 21 yards on five carries. Cook will now look ahead to Week 1, when he's slated to lead Buffalo's backfield against a tough Texans defense on Sunday, Sept. 13. Ray Davis is expected to work as his top backup.
 - **Tre' Harris** — Tre' Harris - Idle for preseason finale (2026-08-28T23:40:00Z)
   - Harris will end up not playing a single preseason game, missing the last two while working through an undisclosed injury. Despite the lack of on-field playing time, there's no indication that the 2025 second-rounder is in jeopardy of missing the Chargers' regular-season opener against the Cardinals on Sunday, Sept. 13. Following the departure of Keenan Allen, Harris figures to serve as the Chargers' WR3 this season behind Ladd McConkey and Quentin Johnston.
 - **Kimani Vidal** — Kimani Vidal - Tallies six snaps in preseason finale (2026-08-28T23:38:37Z)
@@ -39,7 +41,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - On Aug. 20, Croskey-Merritt pulled up at the end of a catch and run in practice due to a lower-body injury, which now will keep him out of the Commanders' final two exhibitions. He focused on rehab work on the side this week, with the intent to return to practice at some point next week. Rachaad White (hamstring) and Jeremy McNichols (quadriceps) also aren't in uniform Friday, meaning rookie sixth-rounder Kaytron Allen, Robert Henry and Craig Reynolds are the team's available RBs for preseason Week 3.
 - **Emeka Egbuka** — Emeka Egbuka - Focus remains on Week 1 (2026-08-28T19:49:18Z)
   - Egbuka, per the report, made the trip to Jacksonville with his teammates for Friday's preseason finale, but he will not suit up and will instead keep working on his recovery from the toe injury he sustained a little over two weeks ago. It's not yet known when Egbuka will be back on the field, so his availability remains up in the air in advance of his team's season-opening matchup with the Bengals on Sept. 13.
-- **NEW — Malik Nabers** — Malik Nabers Not Suiting Up for Preseason Finale (2026-08-28T19:49:03Z)
+- **Malik Nabers** — Malik Nabers Not Suiting Up for Preseason Finale (2026-08-28T19:49:03Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-not-suiting-up-for-preseason-finale/1918803
 - **Chase Brown** — Chase Brown Could See More Under-Center Rushing Opportunities (2026-08-28T19:11:07Z)
   - Source: https://www.rotoballer.com/player-news/chase-brown-could-see-more-under-center-rushing-opportunities/1918789
@@ -206,6 +208,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/a-j-brown-not-suiting-up-thursday-against-the-browns/1917984
 - **De'Zhaun Stribling** — De'Zhaun Stribling Not Playing Thursday Night (2026-08-27T21:17:10Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-not-playing-thursday-night-expected-to-contribute-early-in-the-season/1917981
-- **Josh Jacobs** — Josh Jacobs charged with two misdemeanors stemming from May incident (2026-08-27T21:00:54.934000Z)
-  - It's important to remember that the NFL has the ability to either suspend Jacobs at the start of the season or wait until the legal process is over. If they wait, then Jacobs will likely not face suspension until next year. If not, we could be looking at a potential 6-8 game absence, though that is more of an educated guess at this point. For anyone taking Jacobs in drafts right now, Marshawn Lloyd is a must-have handcuff and is a great target for Zero-RB builds.
-  - Source: https://www.fantasypros.com/nfl/news/604455/josh-jacobs-charged-with-two-misdemeanors-following.php

@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T00:02:22Z",
+  "last_checked_at": "2026-08-29T00:32:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11632|rotoballer|219602|1787946543000"
+    "nfl|8138|rotowire|635052|1787963211000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The Bills rested most of their projected regular-season starters, so Cook's absence was expected. The star running back finished the preseason slate having appeared in one game, logging 21 yards on five carries. Cook will now look ahead to Week 1, when he's slated to lead Buffalo's backfield against a tough Texans defense on Sunday, Sept. 13. Ray Davis is expected to work as his top backup.",
+      "description": "Cook didn't play during Buffalo's exhibition win over Pittsburgh on Thursday.",
+      "metadata": {
+        "analysis": "The Bills rested most of their projected regular-season starters, so Cook's absence was expected. The star running back finished the preseason slate having appeared in one game, logging 21 yards on five carries. Cook will now look ahead to Week 1, when he's slated to lead Buffalo's backfield against a tough Texans defense on Sunday, Sept. 13. Ray Davis is expected to work as his top backup.",
+        "description": "Cook didn't play during Buffalo's exhibition win over Pittsburgh on Thursday.",
+        "title": "James Cook - Sits out preseason finale",
+        "topic_id": "1399223720937021440"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8138",
+      "player_name": "James Cook",
+      "position": "RB",
+      "published": 1787963211000,
+      "source": "rotowire",
+      "source_key": "635052",
+      "story_id": "nfl|8138|rotowire|635052|1787963211000",
+      "title": "James Cook - Sits out preseason finale",
+      "url": null
+    },
     {
       "analysis": "Harris will end up not playing a single preseason game, missing the last two while working through an undisclosed injury. Despite the lack of on-field playing time, there's no indication that the 2025 second-rounder is in jeopardy of missing the Chargers' regular-season opener against the Cardinals on Sunday, Sept. 13. Following the departure of Keenan Allen, Harris figures to serve as the Chargers' WR3 this season behind Ladd McConkey and Quentin Johnston.",
       "description": "Harris (undisclosed) did not play in the Chargers' 20-18 preseason loss to the Rams on Thursday.",
