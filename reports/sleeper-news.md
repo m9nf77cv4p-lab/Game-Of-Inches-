@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1296**
-- Newly captured: **1**
+- Stored stories: **1295**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -13,7 +13,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowles is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.
 - **Marvin Mims** — Marvin Mims - Dealing with foot contusion (2026-08-29T14:24:03Z)
   - Mims sustained the injury early in the first quarter and was listed as questionable to return after going to the locker room, but he didn't end up taking another snap in Friday's exhibition contest. It doesn't appear to be a serious injury, but his practice participation over the coming weeks will determine whether he'll suit up for Denver's Week 1 clash against Kansas City on Monday, Sept. 14.
-- **NEW — Jalen McMillan** — Buccaneers Expect Jalen McMillan to be Ready for Week 1 (2026-08-29T12:08:06Z)
+- **Jalen McMillan** — Buccaneers Expect Jalen McMillan to be Ready for Week 1 (2026-08-29T12:08:06Z)
   - Source: https://www.rotoballer.com/player-news/buccaneers-expect-jalen-mcmillan-to-be-ready-for-week-1/1919138
 - **Kyle Pitts** — Kyle Pitts Sr. Flashes YAC Ability in Final Preseason Tune-up (2026-08-29T11:47:09Z)
   - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-flashes-yac-ability-in-final-preseason-tune-up/1919113

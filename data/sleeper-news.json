@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-08-29T16:21:13Z",
+  "last_checked_at": "2026-08-29T16:31:18Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [
-    "nfl|11618|rotoballer|219656|1788005286000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -26025,26 +26023,6 @@
       "story_id": "nfl|6803|rotoballer|217730|1785432726000",
       "title": "Brandon Aiyuk Could See Large Target Share if he Stays With 49ers",
       "url": "https://www.rotoballer.com/player-news/brandon-aiyuk-could-see-large-target-share-if-he-stays-with-49ers/1900115"
-    },
-    {
-      "analysis": null,
-      "description": "San Francisco 49ers backup quarterback Mac Jones (undisclosed) is healthy for the start of training camp after dealing with an undisclosed issue during the offseason, according to Vic Tafur and Matt Barrows of The Athletic. Jones started slow in Wednesday's practice before improving throughout the session and finishing 11-for-15 passing. The 27-year-old signal-caller kept the Niners' offense afloat last year with Brock Purdy missing extended time with a turf-toe injury, throwing for 2,151 yards, 13 touchdowns, and six interceptions on 289 pass attempts in 11 games (eight starts) in his first year in the Bay Area. While Jones was not a standout by any means for fantasy football purposes as more of a game manager, he was a real-life savior for head coach Kyle Shanahan's offense, leading to the 49ers rebuffing trade inquiries on Jones in the offseason. That stance could change this summer if a QB-needy team makes the Niners an offer they can't refuse, but for now, Jones is an extremely valuable insurance policy for Purdy under center.",
-      "metadata": {
-        "description": "San Francisco 49ers backup quarterback Mac Jones (undisclosed) is healthy for the start of training camp after dealing with an undisclosed issue during the offseason, according to Vic Tafur and Matt Barrows of The Athletic. Jones started slow in Wednesday's practice before improving throughout the session and finishing 11-for-15 passing. The 27-year-old signal-caller kept the Niners' offense afloat last year with Brock Purdy missing extended time with a turf-toe injury, throwing for 2,151 yards, 13 touchdowns, and six interceptions on 289 pass attempts in 11 games (eight starts) in his first year in the Bay Area. While Jones was not a standout by any means for fantasy football purposes as more of a game manager, he was a real-life savior for head coach Kyle Shanahan's offense, leading to the 49ers rebuffing trade inquiries on Jones in the offseason. That stance could change this summer if a QB-needy team makes the Niners an offer they can't refuse, but for now, Jones is an extremely valuable insurance policy for Purdy under center.",
-        "title": "Mac Jones Healthy for Training Camp",
-        "topic_id": "1388654000055795712",
-        "url": "https://www.rotoballer.com/player-news/mac-jones-healthy-for-training-camp/1900071"
-      },
-      "nfl_team": "SF",
-      "player_id": "7527",
-      "player_name": "Mac Jones",
-      "position": "QB",
-      "published": 1785428585000,
-      "source": "rotoballer",
-      "source_key": "217723",
-      "story_id": "nfl|7527|rotoballer|217723|1785428585000",
-      "title": "Mac Jones Healthy for Training Camp",
-      "url": "https://www.rotoballer.com/player-news/mac-jones-healthy-for-training-camp/1900071"
     }
   ]
 }
