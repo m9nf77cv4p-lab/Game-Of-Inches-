@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1298**
+- Stored stories: **1299**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Patrick Mahomes** — Patrick Mahomes - On track for Week 1 (2026-08-29T17:08:09Z)
+- **Patrick Mahomes** — Patrick Mahomes - On track for Week 1 (2026-08-29T17:08:09Z)
   - Mahomes said a week ago he was "extremely confident" he would be ready for Kansas City's season opener, and the latest report keeps him on track to do so. It's unclear how close he is to 100 percent, but it's growing more and more likely that the torn left ACL he sustained last December will not cost him any action during the 2026 campaign.
 - **Alec Pierce** — Alec Pierce - Working out but will sit Saturday (2026-08-29T16:42:42Z)
   - Pierce was activated from the Active/PUP list Thursday, but he is not ready to appear in a game just yet. He will keep building up over the next two weeks with an eye on suiting up for his team's Week 1 matchup with the Ravens.
@@ -17,6 +17,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowles is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.
 - **Marvin Mims** — Marvin Mims - Dealing with foot contusion (2026-08-29T14:24:03Z)
   - Mims sustained the injury early in the first quarter and was listed as questionable to return after going to the locker room, but he didn't end up taking another snap in Friday's exhibition contest. It doesn't appear to be a serious injury, but his practice participation over the coming weeks will determine whether he'll suit up for Denver's Week 1 clash against Kansas City on Monday, Sept. 14.
+- **NEW — Alec Pierce** — Alec Pierce Out for Colts' Preseason Finale (2026-08-29T13:08:10Z)
+  - Source: https://www.rotoballer.com/player-news/alec-pierce-out-for-colts-preseason-finale/1919167
 - **J.J. McCarthy** — J.J. McCarthy Projected to be Left Off 53-Man Roster (2026-08-29T12:45:08Z)
   - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-projected-to-be-left-off-53-man-roster/1919160
 - **Jalen McMillan** — Buccaneers Expect Jalen McMillan to be Ready for Week 1 (2026-08-29T12:08:06Z)
@@ -205,5 +207,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kenneth-gainwell-could-lead-buccaneers-in-all-purpose-yards/1918599
 - **Jauan Jennings** — Jauan Jennings Faces a Tighter Path to Targets (2026-08-28T14:46:08Z)
   - Source: https://www.rotoballer.com/player-news/jauan-jennings-faces-a-tighter-path-to-targets/1918562
-- **Wan'Dale Robinson** — Wan'Dale Robinson Believed to Have Avoided a Concussion (2026-08-28T14:37:06Z)
-  - Source: https://www.rotoballer.com/player-news/wandale-robinson-believed-to-have-avoided-a-concussion/1918556

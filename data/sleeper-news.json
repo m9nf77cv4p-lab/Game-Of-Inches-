@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T17:11:53Z",
+  "last_checked_at": "2026-08-29T17:22:07Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|4046|rotowire|635178|1788023289000"
+    "nfl|8142|rotoballer|219662|1788008890000"
   ],
   "schema_version": 1,
   "source": {
@@ -112,6 +112,26 @@
       "story_id": "nfl|9494|rotowire|635151|1788013443000",
       "title": "Marvin Mims - Dealing with foot contusion",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Alec Pierce (ankle) participated in warmups but won't play in the preseason finale against the Detroit Lions, Mike Chappell reported on Saturday. The fourth-year wideout came off the Physically Unable to Perform list last week and practiced with the team for the first time on Thursday since having offseason ankle surgery. Pierce is reportedly shooting for a Week 1 return as he looks to repeat his 2025 success, having set career highs with 47 receptions for 1,003 yards and six touchdowns. The 26-year-old has the opportunity to capitalize on those numbers by inheriting a larger workload now that Michael Pittman Jr. has departed for the Pittsburgh Steelers. However, fantasy managers should temper their expectations early in the season since it is unclear how long it will take Pierce to get up to speed after missing training camp. Pierce's fantasy stock is on the rise, but he should be considered a W4/flex option until he's fully healthy.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Alec Pierce (ankle) participated in warmups but won't play in the preseason finale against the Detroit Lions, Mike Chappell reported on Saturday. The fourth-year wideout came off the Physically Unable to Perform list last week and practiced with the team for the first time on Thursday since having offseason ankle surgery. Pierce is reportedly shooting for a Week 1 return as he looks to repeat his 2025 success, having set career highs with 47 receptions for 1,003 yards and six touchdowns. The 26-year-old has the opportunity to capitalize on those numbers by inheriting a larger workload now that Michael Pittman Jr. has departed for the Pittsburgh Steelers. However, fantasy managers should temper their expectations early in the season since it is unclear how long it will take Pierce to get up to speed after missing training camp. Pierce's fantasy stock is on the rise, but he should be considered a W4/flex option until he's fully healthy.",
+        "title": "Alec Pierce Out for Colts' Preseason Finale",
+        "topic_id": "1399476666429939712",
+        "url": "https://www.rotoballer.com/player-news/alec-pierce-out-for-colts-preseason-finale/1919167"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1788008890000,
+      "source": "rotoballer",
+      "source_key": "219662",
+      "story_id": "nfl|8142|rotoballer|219662|1788008890000",
+      "title": "Alec Pierce Out for Colts' Preseason Finale",
+      "url": "https://www.rotoballer.com/player-news/alec-pierce-out-for-colts-preseason-finale/1919167"
     },
     {
       "analysis": null,
