@@ -19823,7 +19823,7 @@
       ],
       "first_name": "Xavier",
       "full_name": "Xavier Worthy",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Worthy",
       "nfl_team": "KC",
       "player_id": "11624",
@@ -23560,8 +23560,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-29T01:33:28Z",
-    "source_fingerprint": "4ab845c130a0b2c05a47a8bbd62673316f074205492f4cace4e58a233b733381"
+    "last_changed_at": "2026-08-29T03:24:45Z",
+    "source_fingerprint": "a6751619c2d69fc60d76fb02063bdc4c30919347e42f23cb64f4a29b99b04c7c"
   },
   "teams": [
     {
