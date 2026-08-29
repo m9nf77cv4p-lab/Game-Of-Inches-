@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1318**
+- Stored stories: **1319**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Keenan Allen** — Keenan Allen - One catch in first preseason game for Indy (2026-08-29T22:24:59Z)
+- **NEW — Rashee Rice** — Rashee Rice - Logs 10 snaps in preseason finale (2026-08-29T23:36:05Z)
+  - Rice and some of Kansas City's key offensive starters got to log some reps during the first quarter before being pulled. Though he didn't produce any offensive output, it's notable that Rice took part in his first game action since he landed on IR due to a concussion late last December. Rice had a tumultuous offseason, as he spent some time in jail due to a probation violation and also had a minor procedure on his right knee, but he appears healthy and isn't expected to face NFL discipline for the legal issue. As such, he can be penciled in as the Chiefs' top WR heading into Week 1 versus Denver on Monday, Sept. 14.
+- **Keenan Allen** — Keenan Allen - One catch in first preseason game for Indy (2026-08-29T22:24:59Z)
   - Having just signed with Indianapolis less than two weeks ago, Allen saw his first game action for his new club and quickly produced a big gain on Anthony Richardson's first pass attempt of the afternoon, helping to set up a field goal. Top wideouts Alec Pierce (ankle) and Josh Downs (calf), as well as top tight end Tyler Warren (groin), are all carrying injury designations to close out the preseason, so Allen could end up having a bigger role in the passing attack than expected once Week 1 rolls around. The 34-year-old showed he can still be an effective possession option in 2025 with the Chargers, delivering an 81-777-4 line on 122 targets while playing all 17 regular-season contests.
 - **Zachariah Branch** — Zachariah Branch - Returns punt in preseason win (2026-08-29T21:59:56Z)
   - Branch didn't see much action Friday, playing a total of four snaps (three on offense, one on special teams). However, his lone snap on special teams came as a punt returner, and he figures to see plenty of work as a returner in the upcoming season, especially if he doesn't get much playing time on offense behind Drake London, Jahan Dotson and Olamide Zaccheaus.
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-clears-concussion-protocol-still-wont-return-friday/1918879
 - **Rachaad White** — Rachaad White - Won't play Friday (2026-08-28T21:47:19Z)
   - White has been tending to a hamstring injury since Aug. 19 that will keep him sidelined for the Commanders' final two exhibitions. He was able to mix into individual drills as recently as Monday, though, so he's making progress in his recovery. White will join No. 1 RB Jacory Croskey-Merritt (lower body) and Jeremy McNichols (quadriceps) on the sideline Friday.
-- **Saquon Barkley** — Saquon Barkley Has Another Big Year Ahead of Him (2026-08-28T21:46:06Z)
-  - Source: https://www.rotoballer.com/player-news/saquon-barkley-has-another-big-year-ahead-of-him/1918877

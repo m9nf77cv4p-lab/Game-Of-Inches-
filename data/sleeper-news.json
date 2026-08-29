@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T22:33:38Z",
+  "last_checked_at": "2026-08-29T23:43:50Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|1479|rotowire|635233|1788042299000"
+    "nfl|10229|rotowire|635239|1788046565000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Rice and some of Kansas City's key offensive starters got to log some reps during the first quarter before being pulled. Though he didn't produce any offensive output, it's notable that Rice took part in his first game action since he landed on IR due to a concussion late last December. Rice had a tumultuous offseason, as he spent some time in jail due to a probation violation and also had a minor procedure on his right knee, but he appears healthy and isn't expected to face NFL discipline for the legal issue. As such, he can be penciled in as the Chiefs' top WR heading into Week 1 versus Denver on Monday, Sept. 14.",
+      "description": "Rice played offensive 10 snaps in Kansas City's 9-9 exhibition tie with the Seahawks on Friday and did not record any targets or touches.",
+      "metadata": {
+        "analysis": "Rice and some of Kansas City's key offensive starters got to log some reps during the first quarter before being pulled. Though he didn't produce any offensive output, it's notable that Rice took part in his first game action since he landed on IR due to a concussion late last December. Rice had a tumultuous offseason, as he spent some time in jail due to a probation violation and also had a minor procedure on his right knee, but he appears healthy and isn't expected to face NFL discipline for the legal issue. As such, he can be penciled in as the Chiefs' top WR heading into Week 1 versus Denver on Monday, Sept. 14.",
+        "description": "Rice played offensive 10 snaps in Kansas City's 9-9 exhibition tie with the Seahawks on Friday and did not record any targets or touches.",
+        "title": "Rashee Rice - Logs 10 snaps in preseason finale",
+        "topic_id": "1399573569289117696"
+      },
+      "nfl_team": "KC",
+      "player_id": "10229",
+      "player_name": "Rashee Rice",
+      "position": "WR",
+      "published": 1788046565000,
+      "source": "rotowire",
+      "source_key": "635239",
+      "story_id": "nfl|10229|rotowire|635239|1788046565000",
+      "title": "Rashee Rice - Logs 10 snaps in preseason finale",
+      "url": null
+    },
     {
       "analysis": "Having just signed with Indianapolis less than two weeks ago, Allen saw his first game action for his new club and quickly produced a big gain on Anthony Richardson's first pass attempt of the afternoon, helping to set up a field goal. Top wideouts Alec Pierce (ankle) and Josh Downs (calf), as well as top tight end Tyler Warren (groin), are all carrying injury designations to close out the preseason, so Allen could end up having a bigger role in the passing attack than expected once Week 1 rolls around. The 34-year-old showed he can still be an effective possession option in 2025 with the Chargers, delivering an 81-777-4 line on 122 targets while playing all 17 regular-season contests.",
       "description": "Allen caught his only target for 24 yards in Saturday's 25-16 preseason loss to the Lions.",
