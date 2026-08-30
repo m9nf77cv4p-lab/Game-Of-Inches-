@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-08-30T18:16:49Z",
+  "last_checked_at": "2026-08-30T18:26:46Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [
-    "nfl|11604|rotoballer|219723|1788098947000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -23,7 +21,7 @@
         "topic_id": "1399846646635868160",
         "url": "https://www.fantasypros.com/nfl/news/604830/kaleb-johnson-traded-to-packers.php"
       },
-      "nfl_team": "PIT",
+      "nfl_team": "GB",
       "player_id": "12504",
       "player_name": "Kaleb Johnson",
       "position": "RB",
@@ -43,7 +41,7 @@
         "title": "Kaleb Johnson - Getting moved to Packers",
         "topic_id": "1399847900527235072"
       },
-      "nfl_team": "PIT",
+      "nfl_team": "GB",
       "player_id": "12504",
       "player_name": "Kaleb Johnson",
       "position": "RB",
@@ -163,7 +161,7 @@
         "topic_id": "1399849156356386816",
         "url": "https://www.rotoballer.com/player-news/kaleb-johnson-traded-to-packers/1919749"
       },
-      "nfl_team": "PIT",
+      "nfl_team": "GB",
       "player_id": "12504",
       "player_name": "Kaleb Johnson",
       "position": "RB",
