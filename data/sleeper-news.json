@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T02:17:55Z",
+  "last_checked_at": "2026-08-30T02:38:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|12540|rotowire|635250|1788055593000"
+    "nfl|12510|rotowire|635251|1788056791000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Milroe played every offensive snap for Seattle with both Sam Darnold and Drew Lock resting on the sideline. Milroe led the Seahawks on a seven-play scoring drive that ended in a field goal during the first quarter and a 10-play drive that ended with his touchdown pass to Nick Vannett in the third. That TD was his first of a relatively underwhelming preseason. Milroe is locked in behind Darnold and Lock once the regular season starts, so he could regularly serve as Seattle's emergency third QB on gamedays.",
+      "description": "Milroe completed 16 of 26 pass attempts for 223 yards and one touchdown without any interceptions in Friday's 9-9 preseason tie versus Kansas City.",
+      "metadata": {
+        "analysis": "Milroe played every offensive snap for Seattle with both Sam Darnold and Drew Lock resting on the sideline. Milroe led the Seahawks on a seven-play scoring drive that ended in a field goal during the first quarter and a 10-play drive that ended with his touchdown pass to Nick Vannett in the third. That TD was his first of a relatively underwhelming preseason. Milroe is locked in behind Darnold and Lock once the regular season starts, so he could regularly serve as Seattle's emergency third QB on gamedays.",
+        "description": "Milroe completed 16 of 26 pass attempts for 223 yards and one touchdown without any interceptions in Friday's 9-9 preseason tie versus Kansas City.",
+        "title": "Jalen Milroe - Throws for 223 yards in preseason finale",
+        "topic_id": "1399616354771832832"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12510",
+      "player_name": "Jalen Milroe",
+      "position": "QB",
+      "published": 1788056791000,
+      "source": "rotowire",
+      "source_key": "635251",
+      "story_id": "nfl|12510|rotowire|635251|1788056791000",
+      "title": "Jalen Milroe - Throws for 223 yards in preseason finale",
+      "url": null
+    },
     {
       "analysis": "The speedy second-year pro opened the game with the starting offense and saw both of his targets from Will Levis during the Titans' second possession. Dike had one catch in each of Tennessee's three preseason games, posting a 3-28-0 line on four targets. Dike will open the season in a reserve receiver role with big-play potential after posting a 48-423-4 line across 17 regular-season games during his rookie 2025 campaign.",
       "description": "Dike secured one of two targets for nine yards in the Titans' 24-15 preseason loss to the Bears on Saturday.",

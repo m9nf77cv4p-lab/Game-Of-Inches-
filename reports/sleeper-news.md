@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1329**
+- Stored stories: **1330**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Chimere Dike** — Chimere Dike - One catch in preseason finale (2026-08-30T02:06:33Z)
+- **NEW — Jalen Milroe** — Jalen Milroe - Throws for 223 yards in preseason finale (2026-08-30T02:26:31Z)
+  - Milroe played every offensive snap for Seattle with both Sam Darnold and Drew Lock resting on the sideline. Milroe led the Seahawks on a seven-play scoring drive that ended in a field goal during the first quarter and a 10-play drive that ended with his touchdown pass to Nick Vannett in the third. That TD was his first of a relatively underwhelming preseason. Milroe is locked in behind Darnold and Lock once the regular season starts, so he could regularly serve as Seattle's emergency third QB on gamedays.
+- **Chimere Dike** — Chimere Dike - One catch in preseason finale (2026-08-30T02:06:33Z)
   - The speedy second-year pro opened the game with the starting offense and saw both of his targets from Will Levis during the Titans' second possession. Dike had one catch in each of Tennessee's three preseason games, posting a 3-28-0 line on four targets. Dike will open the season in a reserve receiver role with big-play potential after posting a 48-423-4 line across 17 regular-season games during his rookie 2025 campaign.
 - **Nicholas Singleton** — Nicholas Singleton - Tallies 44 scrimmage yards Saturday (2026-08-30T02:01:29Z)
   - The rookie fifth-round pick led the team in rush attempts on the night and finished second behind D'Ernest Johnson and quarterback Hendon Hooker in rushing yards. Singleton was the first Tennessee back to log a touch, gaining six yards on a reception on the second play from scrimmage and subsequently netting 18 yards on three consecutive rush attempts to kick off the Titans' second drive. Singleton finished preseason having rushed 15 times for 57 yards alongside Saturday's 2-18-0 receiving line across two games, and he'll now wait to see if those numbers were enough to garner him the No. 3 running back role.
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Njoku worked behind starter Charlie Kolar and ahead of Oronde Gadsden in the contest. During the exhibition slate, Kolar and starting QB Justin Herbert were on the field together for six snaps, while Njoku logged five snaps with Herbert and Gadsden registered just one. That could be an indication of the pecking order during the regular season as well, as Kolar is considered the superior blocker of the trio and Gadsden the top pass catcher, with Njoku being competent in both areas.
 - **Devin Singletary** — Devin Singletary - Not playing in preseason finale (2026-08-28T23:23:50Z)
   - The same can be said for No. 1 RB Cam Skattebo, while position mates Tyrone Tracy and Najee Harris are candidates to get some run in the Giants' exhibition finale. The rest would seem to indicate Singletary's roster spot is secure, but it's not exactly clear how things will shake out behind Cam Skattebo with Harris in the mix.
-- **Keaton Mitchell** — Keaton Mitchell - Doesn't play Thursday (2026-08-28T23:22:04Z)
-  - Mitchell experienced a setback for an unspecified injury in practice earlier in the week, so his absence from Thursday's preseason finale was likely a precautionary move. The nature and severity of Mitchell's injury is not clear, but there's been no indication that he's in danger of missing the Chargers' Week 1 clash against the Cardinals on Sunday, Sept. 13. The fourth-year pro inked a two-year contract with the Chargers in March after spending the first three years of his NFL career with the Ravens. He's expected to work in rotation with Kimani Vidal behind starting running back Omarion Hampton.
