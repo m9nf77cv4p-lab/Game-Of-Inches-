@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1341**
+- Stored stories: **1342**
 - Newly captured: **1**
 
 ## Latest news
@@ -12,7 +12,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Keenan Allen** — Keenan Allen facing two DUI charges after arrest early Sunday morning (2026-08-30T11:55:56.122000Z)
   - The veteran receiver was a badly needed addition to the Colts roster, and now he could find himself suspended for a game or two should the NFL find that action appropriate. It's also possible he will only face fines. Still, it's worth monitoring the vet's situation, as he was an interesting late-round sleeper in drafts.
   - Source: https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php
-- **NEW — Luther Burden** — Luther Burden III "Looks 100%", Positive Sign for His Week 1 Availability (2026-08-30T09:24:07Z)
+- **NEW — George Kittle** — Has George Kittle "Taken a Step Back"? (2026-08-30T09:49:08Z)
+  - Source: https://www.rotoballer.com/player-news/has-george-kittle-taken-a-step-back/1919528
+- **Luther Burden** — Luther Burden III "Looks 100%", Positive Sign for His Week 1 Availability (2026-08-30T09:24:07Z)
   - Source: https://www.rotoballer.com/player-news/luther-burden-iii-looks-100-positive-sign-for-his-week-1-availability/1919520
 - **Keenan Allen** — Keenan Allen Arrested Sunday Morning for DWI (2026-08-30T09:12:10Z)
   - Source: https://www.rotoballer.com/player-news/keenan-allen-arrested-sunday-morning-for-dwi/1919513
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Judkins also missed the team's second preseason game due to an undisclosed injury, but he returned to practice this past Monday and seems to be past the issue. He ended up logging action in only the first of the Browns' exhibition contests, when he carried four times for nine yards. Judkins is the clear No. 1 RB for Cleveland and could be headed for a heavy workload on a team that may again deploy a shaky passing game.
 - **Drake Maye** — Drake Maye - Doesn't play in exhibition finale (2026-08-29T00:40:03Z)
   - Unsurprisingly, Maye was among the plethora of New England starters who didn't see action in the team's final exhibition game. The star quarterback ended up sitting out all three of the team's preseason contests as he prepares for the regular season. Maye's first chance to get into game action with new top wideouts A.J. Brown and Romeo Doubs will take place Week 1 versus Seattle on Wednesday, Sept. 9.
-- **James Cook** — James Cook - Sits out preseason finale (2026-08-29T00:26:51Z)
-  - The Bills rested most of their projected regular-season starters, so Cook's absence was expected. The star running back finished the preseason slate having appeared in one game, logging 21 yards on five carries. Cook now will look ahead to Week 1, when he's slated to lead Buffalo's backfield against a tough Texans defense on Sunday, Sept. 13. Ray Davis is expected to work as his top backup.

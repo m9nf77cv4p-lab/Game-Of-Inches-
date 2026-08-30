@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T13:34:38Z",
+  "last_checked_at": "2026-08-30T14:04:28Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|12519|rotoballer|219699|1788081847000"
+    "nfl|4217|rotoballer|219700|1788083348000"
   ],
   "schema_version": 1,
   "source": {
@@ -53,6 +53,26 @@
       "story_id": "nfl|1479|fantasy_pros|604750|1788090956122",
       "title": "Keenan Allen facing two DUI charges after arrest early Sunday morning",
       "url": "https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers head coach Kyle Shanahan recently met with the media, and a passing comment about George Kittle (Achilles) could be interpreted to mean that the All-Pro tight end has had a setback in his recovery from the Achilles injury that ended his 2025 season. While discussing the potential Week 1 availability of a handful of injured players, Shanahan mentioned his star tight end, saying, \"Guys like Kittle, who's taken a step back.\" He was not asked for further clarification, but with Kittle having been activated from the active/physically unable to perform list on August 23rd, it's possible Shanahan meant a step toward playing. Following a string of positive recovery news, Kittle had risen to RotoBaller's TE9, but as posited by Mike Florio of Pro Football Talk, Shanahan will likely have some further explaining to do when he next meets with the media.",
+      "metadata": {
+        "description": "San Francisco 49ers head coach Kyle Shanahan recently met with the media, and a passing comment about George Kittle (Achilles) could be interpreted to mean that the All-Pro tight end has had a setback in his recovery from the Achilles injury that ended his 2025 season. While discussing the potential Week 1 availability of a handful of injured players, Shanahan mentioned his star tight end, saying, \"Guys like Kittle, who's taken a step back.\" He was not asked for further clarification, but with Kittle having been activated from the active/physically unable to perform list on August 23rd, it's possible Shanahan meant a step toward playing. Following a string of positive recovery news, Kittle had risen to RotoBaller's TE9, but as posited by Mike Florio of Pro Football Talk, Shanahan will likely have some further explaining to do when he next meets with the media.",
+        "title": "Has George Kittle \"Taken a Step Back\"?",
+        "topic_id": "1399788753186201600",
+        "url": "https://www.rotoballer.com/player-news/has-george-kittle-taken-a-step-back/1919528"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788083348000,
+      "source": "rotoballer",
+      "source_key": "219700",
+      "story_id": "nfl|4217|rotoballer|219700|1788083348000",
+      "title": "Has George Kittle \"Taken a Step Back\"?",
+      "url": "https://www.rotoballer.com/player-news/has-george-kittle-taken-a-step-back/1919528"
     },
     {
       "analysis": null,
