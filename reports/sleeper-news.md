@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1366**
+- Stored stories: **1368**
 - Newly captured: **2**
 
 ## Latest news
@@ -28,9 +28,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Johnson thus will get a fresh start in Green Bay after the third-round investment made in him last year didn't pan out in Pittsburgh. Working behind Jaylen Warren and Kenny Gainwell in 2025, Johnson turned 28 carries into just 69 yards (2.5 YPC) and no touchdowns while hauling in one of two targets for nine yards in 10 regular-season appearances as a rookie. Johnson will join a Green Bay backfield led by Josh Jacobs (groin) and backed up by MarShawn Lloyd and Chris Brooks.
 - **Taylen Green** — Taylen Green - Chance to make 53-man roster (2026-08-30T16:56:53Z)
   - Green is fourth on the team's quarterback depth chart behind Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The mobile rookie sixth-round pick out of Arkansas is raw as a passer but has intriguing rushing upside. Cleveland would have to release one of the players ahead of Green or carry four quarterbacks to keep him on the roster, which could leave the Browns shorthanded in depth at another position.
-- **NEW — MarShawn Lloyd** — MarShawn Lloyd Poised to Begin Season as Green Bay's Lead Running Back (2026-08-30T16:00:12Z)
+- **NEW — Taylen Green** — Taylen Green Sticks in Browns' Four-QB Room (2026-08-30T16:48:14Z)
+  - Source: https://www.rotoballer.com/player-news/taylen-green-sticks-in-browns-four-qb-room/1919966
+- **NEW — Javonte Williams** — Javonte Williams Set for Workhorse Role After Cowboys' Latest Cuts (2026-08-30T16:40:13Z)
+  - Source: https://www.rotoballer.com/player-news/javonte-williams-set-for-workhorse-role-after-cowboys-latest-cuts/1919952
+- **MarShawn Lloyd** — MarShawn Lloyd Poised to Begin Season as Green Bay's Lead Running Back (2026-08-30T16:00:12Z)
   - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-poised-to-begin-season-as-green-bays-lead-running-back/1919914
-- **NEW — Jaydon Blue** — Cowboys Waive Jaydon Blue in Surprise Roster Move (2026-08-30T15:50:43Z)
+- **Jaydon Blue** — Cowboys Waive Jaydon Blue in Surprise Roster Move (2026-08-30T15:50:43Z)
   - Source: https://www.rotoballer.com/player-news/cowboys-waive-jaydon-blue-in-surprise-roster-move/1919908
 - **Puka Nacua** — Puka Nacua Expected to Avoid Commissioner's Exempt List (2026-08-30T15:27:10Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacua-expected-to-avoid-commissioners-exempt-list/1919885
@@ -212,7 +216,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The third-year kicker wrapped up a perfect preseason with his pair of successful kicks Friday. Reichard went 5-for-5 on field goals, including two from 50-plus yards, and knocked home his only PAT across three preseason games, and he'll now turn his attention to a Week 1 divisional home showdown against the Packers on Sept. 13.
 - **Demond Claiborne** — Demond Claiborne - Does little with eight carries (2026-08-29T05:04:14Z)
   - The rookie sixth-round pick drew the start and carried the ball on the Vikings' first two plays from scrimmage. Claiborne was given ample opportunity this preseason, rushing 28 times for 73 yards and adding a seven-yard reception on his only target. While Claiborne found running room at a premium, he did average 25.2  yards on his five kickoff returns, and special teams may be his ticket to a spot on the initial 53-man roster.
-- **Elijah Arroyo** — Elijah Arroyo - Another chunk play Friday (2026-08-29T04:55:01Z)
-  - The second-year tight end had recorded a 36-yard touchdown grab in Sunday's exhibition against the Titans, and Arroyo followed that up with another big play Friday on his 24-yard grab during Seattle's second possession. Arroyo is expected to operate as the No. 2 pass-catching option at tight end behind AJ Barner, but veteran Eric Saubert is expected to see his fair share of snaps as well thanks to his blocking prowess.
-- **Emmett Johnson** — Emmett Johnson - Productive with nine touches Friday (2026-08-29T04:37:50Z)
-  - The rookie fifth-round pick put together a strong finish to an encouraging preseason, one where he rushed 26 times for 123 yards and a touchdown and added a 6-35-0 line on seven targets. Johnson's primary competition for a depth role, Brashard Smith, had a productive 16-carry, 72-yard effort in his own right Friday, so it remains to be seen where each will slot on the depth chart behind the top duo of Kenneth Walker (ankle) and Emari Demercado.

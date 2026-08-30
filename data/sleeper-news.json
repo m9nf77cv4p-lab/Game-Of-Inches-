@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-08-30T20:06:31Z",
+  "last_checked_at": "2026-08-30T20:56:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11581|rotoballer|219733|1788105612000",
-    "nfl|12457|rotoballer|219732|1788105043000"
+    "nfl|13306|rotoballer|219742|1788108494000",
+    "nfl|7588|rotoballer|219740|1788108013000"
   ],
   "schema_version": 1,
   "source": {
@@ -196,6 +196,46 @@
       "story_id": "nfl|13306|rotowire|635311|1788109013000",
       "title": "Taylen Green - Chance to make 53-man roster",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns quarterback Taylen Green has made the team's initial 53-man roster, according to Daniel Oyefusi, citing Mary Kay Cabot. Cleveland is now expected to carry four quarterbacks, with Green joining Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The sixth-round rookie didn't play in either of the Browns' first two preseason games, but he finally got his chance Thursday against New England. Green completed five of seven passes for 27 yards and did most of his damage with his legs, leading Cleveland with 66 rushing yards on eight carries. The Browns drafted the 6-foot-5 Arkansas product 182nd overall after being drawn to his size, speed and arm talent. Watson is the starter and Sanders is expected to serve as the Week 1 backup, leaving Green buried for immediate fantasy purposes. Cleveland clearly saw enough developmental upside, though, to keep him rather than risk exposing him to waivers.",
+      "metadata": {
+        "description": "Cleveland Browns quarterback Taylen Green has made the team's initial 53-man roster, according to Daniel Oyefusi, citing Mary Kay Cabot. Cleveland is now expected to carry four quarterbacks, with Green joining Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The sixth-round rookie didn't play in either of the Browns' first two preseason games, but he finally got his chance Thursday against New England. Green completed five of seven passes for 27 yards and did most of his damage with his legs, leading Cleveland with 66 rushing yards on eight carries. The Browns drafted the 6-foot-5 Arkansas product 182nd overall after being drawn to his size, speed and arm talent. Watson is the starter and Sanders is expected to serve as the Week 1 backup, leaving Green buried for immediate fantasy purposes. Cleveland clearly saw enough developmental upside, though, to keep him rather than risk exposing him to waivers.",
+        "title": "Taylen Green Sticks in Browns' Four-QB Room",
+        "topic_id": "1399894458899701760",
+        "url": "https://www.rotoballer.com/player-news/taylen-green-sticks-in-browns-four-qb-room/1919966"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13306",
+      "player_name": "Taylen Green",
+      "position": "QB",
+      "published": 1788108494000,
+      "source": "rotoballer",
+      "source_key": "219742",
+      "story_id": "nfl|13306|rotoballer|219742|1788108494000",
+      "title": "Taylen Green Sticks in Browns' Four-QB Room",
+      "url": "https://www.rotoballer.com/player-news/taylen-green-sticks-in-browns-four-qb-room/1919966"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys running back Javonte Williams appears poised to remain in the workhorse role following the team's latest batch of cuts. Dallas cut running backs Jaydon Blue, Phil Mafah, and Israel Abanikanda on Sunday, leaving the Cowboys with a backfield of just Williams and Malik Davis. We saw Dallas carry just two running backs into game day quite often last year, and it looks like they're sticking with that same strategy this year. We could see Blue or Mafah return to the practice squad, but at the very least, the Cowboys are making it clear that they only felt compelled to keep Williams and Davis. That's great news for Williams' fantasy managers, as it points to him being used as the workhorse back once again this year. If the Cowboys wanted to spread the workload around, they would've likely kept three running backs. Williams' exact workload will depend on game script, but we wouldn't be surprised to see him consistently get at least 18 to 20 touches per game. Last year, he averaged 18.9 touches per game with 1,138 scrimmage yards and 13 touchdowns by season's end. He remains a mid-to-low RB1 for fantasy purposes in 2026.",
+      "metadata": {
+        "description": "Dallas Cowboys running back Javonte Williams appears poised to remain in the workhorse role following the team's latest batch of cuts. Dallas cut running backs Jaydon Blue, Phil Mafah, and Israel Abanikanda on Sunday, leaving the Cowboys with a backfield of just Williams and Malik Davis. We saw Dallas carry just two running backs into game day quite often last year, and it looks like they're sticking with that same strategy this year. We could see Blue or Mafah return to the practice squad, but at the very least, the Cowboys are making it clear that they only felt compelled to keep Williams and Davis. That's great news for Williams' fantasy managers, as it points to him being used as the workhorse back once again this year. If the Cowboys wanted to spread the workload around, they would've likely kept three running backs. Williams' exact workload will depend on game script, but we wouldn't be surprised to see him consistently get at least 18 to 20 touches per game. Last year, he averaged 18.9 touches per game with 1,138 scrimmage yards and 13 touchdowns by season's end. He remains a mid-to-low RB1 for fantasy purposes in 2026.",
+        "title": "Javonte Williams Set for Workhorse Role After Cowboys' Latest Cuts",
+        "topic_id": "1399893201111756801",
+        "url": "https://www.rotoballer.com/player-news/javonte-williams-set-for-workhorse-role-after-cowboys-latest-cuts/1919952"
+      },
+      "nfl_team": "DAL",
+      "player_id": "7588",
+      "player_name": "Javonte Williams",
+      "position": "RB",
+      "published": 1788108013000,
+      "source": "rotoballer",
+      "source_key": "219740",
+      "story_id": "nfl|7588|rotoballer|219740|1788108013000",
+      "title": "Javonte Williams Set for Workhorse Role After Cowboys' Latest Cuts",
+      "url": "https://www.rotoballer.com/player-news/javonte-williams-set-for-workhorse-role-after-cowboys-latest-cuts/1919952"
     },
     {
       "analysis": null,
