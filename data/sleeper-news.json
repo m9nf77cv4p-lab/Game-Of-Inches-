@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T19:46:29Z",
+  "last_checked_at": "2026-08-30T19:56:33Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11581|rotowire|635368|1788118613000",
-    "nfl|12457|rotowire|635369|1788118647000"
+    "nfl|12457|fantasy_pros|604887|1788119458595"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Blue had trouble finding a role last year, a lot of which came due to character and work ethic concerns. While that seems to have changed heading into this season, it wasn't enough for him to avoid roster cuts. Dallas will now have Malik Davis as the primary backup behind Javonte Williams, with Phil Mafah and Hunter Luepke mixing in.",
+      "description": "Jaydon Blue has been waived by the Dallas Cowboys.",
+      "metadata": {
+        "analysis": "Blue had trouble finding a role last year, a lot of which came due to character and work ethic concerns. While that seems to have changed heading into this season, it wasn't enough for him to avoid roster cuts. Dallas will now have Malik Davis as the primary backup behind Javonte Williams, with Phil Mafah and Hunter Luepke mixing in.",
+        "description": "Jaydon Blue has been waived by the Dallas Cowboys.",
+        "title": "Jaydon Blue waived by the Dallas Cowboys",
+        "topic_id": "1399878107434893312",
+        "url": "https://www.fantasypros.com/nfl/news/604887/jaydon-blue-waived-by-dallas-cowboys.php"
+      },
+      "nfl_team": "DAL",
+      "player_id": "12457",
+      "player_name": "Jaydon Blue",
+      "position": "RB",
+      "published": 1788119458595,
+      "source": "fantasy_pros",
+      "source_key": "604887",
+      "story_id": "nfl|12457|fantasy_pros|604887|1788119458595",
+      "title": "Jaydon Blue waived by the Dallas Cowboys",
+      "url": "https://www.fantasypros.com/nfl/news/604887/jaydon-blue-waived-by-dallas-cowboys.php"
+    },
     {
       "analysis": "Dallas reportedly has moved on from two RBs on cut-down day, the other being Phil Mafah. The moves indicate that Malik Davis has claimed the No. 2 role behind starter Javonte Williams, though one or both of Blue and Mafah could wind up back on the team's practice squad if they clear waivers.",
       "description": "Blue is being waived by the Cowboys, Adam Schefter of ESPN reports.",
