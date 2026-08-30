@@ -2,12 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1375**
+- Stored stories: **1376**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — James Conner** — James Conner (foot) placed on injured reserve/designated to return (2026-08-30T22:45:59.897000Z)
+- **NEW — J.J. McCarthy** — J.J. McCarthy makes Vikings 53-man roster (2026-08-30T23:05:59.619000Z)
+  - There was some speculation that McCarthy might be left off the initial roster. Those turned out to not be true as he officially makes it. He'll be behind Kyler Murray and potentially Carson Wentz as well to open the season. 
+  - Source: https://www.fantasypros.com/nfl/news/604969/jj-mccarthy-makes-vikings-53-man-roster.php
+- **James Conner** — James Conner (foot) placed on injured reserve/designated to return (2026-08-30T22:45:59.897000Z)
   - Conner had been working his way back to during training camp. He will miss at least the first four games of the regular season. 
   - Source: https://www.fantasypros.com/nfl/news/604961/james-conner-foot-placed-on-injured-reservedesignated-to-return.php
 - **Jordyn Tyson** — Jordyn Tyson - Lands on IR, designated to return (2026-08-30T22:30:28Z)
@@ -216,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-hopefully-available-for-week-1-trailing-other-bucs-receiver-in-recovery-timeline/1919044
 - **Jalen Milroe** — Jalen Milroe Delivers Solid Outing on Friday (2026-08-29T09:54:12Z)
   - Source: https://www.rotoballer.com/player-news/jalen-milroe-delivers-solid-outing-on-friday/1919040
-- **Makai Lemon** — Makai Lemon Struggles to Shake Off the Rust in Preseason Debut (2026-08-29T09:38:06Z)
-  - Source: https://www.rotoballer.com/player-news/makai-lemon-struggles-to-shake-off-the-rust-in-preseason-debut/1919025

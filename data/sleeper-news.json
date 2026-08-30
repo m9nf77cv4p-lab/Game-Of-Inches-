@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T22:48:20Z",
+  "last_checked_at": "2026-08-30T23:08:18Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|4137|fantasy_pros|604961|1788129959897"
+    "nfl|11565|fantasy_pros|604969|1788131159619"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "There was some speculation that McCarthy might be left off the initial roster. Those turned out to not be true as he officially makes it. He'll be behind Kyler Murray and potentially Carson Wentz as well to open the season. ",
+      "description": "J.J. McCarthy has made the Vikings' initial 53-man roster.",
+      "metadata": {
+        "analysis": "There was some speculation that McCarthy might be left off the initial roster. Those turned out to not be true as he officially makes it. He'll be behind Kyler Murray and potentially Carson Wentz as well to open the season. ",
+        "description": "J.J. McCarthy has made the Vikings' initial 53-man roster.",
+        "title": "J.J. McCarthy makes Vikings 53-man roster",
+        "topic_id": "1399927185086676992",
+        "url": "https://www.fantasypros.com/nfl/news/604969/jj-mccarthy-makes-vikings-53-man-roster.php"
+      },
+      "nfl_team": "MIN",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1788131159619,
+      "source": "fantasy_pros",
+      "source_key": "604969",
+      "story_id": "nfl|11565|fantasy_pros|604969|1788131159619",
+      "title": "J.J. McCarthy makes Vikings 53-man roster",
+      "url": "https://www.fantasypros.com/nfl/news/604969/jj-mccarthy-makes-vikings-53-man-roster.php"
+    },
     {
       "analysis": "Conner had been working his way back to during training camp. He will miss at least the first four games of the regular season. ",
       "description": "The Cardinals placed RB James Conner on injured reserve/designated to return. ",
