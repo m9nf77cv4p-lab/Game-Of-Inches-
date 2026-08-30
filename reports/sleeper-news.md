@@ -3,7 +3,7 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1337**
-- Newly captured: **1**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -17,7 +17,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but coach Ben Johnson said after Saturday's game that the wideout "looks 100 percent," per Jason Lieser of the Chicago Sun-Times, so the expectation is that he'll be ready to go for Week 1 of the regular season versus the Panthers.
 - **Carnell Tate** — Carnell Tate - One target to close out preseason (2026-08-30T01:29:48Z)
   - The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack beginning with a Week 1 home matchup against the Jets.
-- **NEW — Justin Jefferson** — Justin Jefferson's Upside Remains Capped by Quarterback Situation (2026-08-30T00:57:08Z)
+- **Justin Jefferson** — Justin Jefferson's Upside Remains Capped by Quarterback Situation (2026-08-30T00:57:08Z)
   - Source: https://www.rotoballer.com/player-news/justin-jeffersons-upside-remains-capped-by-quarterback-situation/1919420
 - **Nico Collins** — Nico Collins' Price Tag Falls in Line with Ranking for 2026 (2026-08-30T00:51:07Z)
   - Source: https://www.rotoballer.com/player-news/nico-collins-price-tag-falls-in-line-with-ranking-for-2026/1919418
@@ -54,7 +54,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Drake London** — Drake London - Sees minimal work vs. Miami (2026-08-29T21:32:19Z)
   - London was limited to playing the first quarter of Friday's exhibition game before observing the rest of the contest from the sidelines. Entering his fifth NFL season, the USC product has recorded at least 68 catches and 850 receiving yards in each of his four years with Atlanta. London has been one of the most productive receivers since entering the league in 2022, but his offensive output will be heavily tied to the production of the Falcons' starting quarterback, whether that's Tua Tagovailoa or Michael Penix (knee).
 - **Kirk Cousins** — Kirk Cousins - Expected to be named starter (2026-08-29T21:30:29Z)
-  - Raiders coach Klint Kubiak had refused to announce a decision on Las Vegas' Week 1 quarterback throughout the preseason, but Cousins has been listed as the No. 1 QB on the team's depth chart during training camp and the exhibition slate. The veteran signal-caller was also more effective than rookie No. 1 draft pick Fernando Mendoza during preseason play, completing 13 of 17 passes for 101 yards and a touchdown with no interceptions to Mendoza's 25-for-45 line with one TD and two pickoffs. Cousins will thus have the first opportunity to helm the Raiders offense, which features an elite tight end in Brock Bowers but one of the NFL's shallowest wide-receiver corps. Should Cousins and/or the team struggle, Mendoza could eventually be given a chance to start later in the campaign, though it's certainly possible he'll be asked to observe and learn from the bench for his entire rookie season.
+  - Raiders coach Klint Kubiak had refused to announce a decision on Las Vegas' Week 1 quarterback throughout the preseason, but Cousins has been listed as the No. 1 QB on the team's depth chart during training camp and the exhibition slate. The veteran signal-caller was also more effective than rookie No. 1 draft pick Fernando Mendoza during preseason play, completing 13 of 17 passes for 101 yards and a touchdown with no interceptions to Mendoza's 25-for-45 line with one TD and two pickoffs. Cousins will thus have the first opportunity to helm the Raiders offense, which features an elite tight end in Brock Bowers but one of the NFL's shallowest wide-receiver corps. Should Cousins and/or the team struggle, Mendoza could eventually be given a chance to start later in the campaign, though it's possible he'll be asked to observe and learn from the bench for his entire rookie season.
 - **Anthony Richardson** — Anthony Richardson Sr. Highly Accurate as Roster Crunch Lingers (2026-08-29T20:54:29Z)
   - Source: https://www.rotoballer.com/player-news/anthony-richardson-highly-accurate-as-roster-crunch-lingers/1919338
 - **Marvin Mims** — Marvin Mims Jr. suffers bruised foot (2026-08-29T18:05:49.497000Z)
