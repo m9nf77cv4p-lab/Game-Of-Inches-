@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T14:04:28Z",
+  "last_checked_at": "2026-08-30T14:54:52Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|4217|rotoballer|219700|1788083348000"
+    "nfl|13288|rotoballer|219704|1788086168000"
   ],
   "schema_version": 1,
   "source": {
@@ -53,6 +53,26 @@
       "story_id": "nfl|1479|fantasy_pros|604750|1788090956122",
       "title": "Keenan Allen facing two DUI charges after arrest early Sunday morning",
       "url": "https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php"
+    },
+    {
+      "analysis": null,
+      "description": "Tennessee Titans rookie running back Nicholas Singleton ran the ball seven times for 26 yards in Saturday's 24-15 loss to the Chicago Bears, adding two receptions for 18 yards and putting a cap on a solid but unspectacular first preseason. Both Tony Pollard and Tyjae Spears have looked sharp in their limited action, each averaging more than 5.6 yards per carry on 12 combined totes, but with neither suited up for the final game of the 2026 preseason, Singleton got the start and earned a target on an opening drive that went three-and-out. Singleton was selected in the fifth round of the 2026 NFL Draft, but with many believing he would have gone earlier if not for a broken foot sustained during Senior Bowl practice, he was a popular sleeper pick to start the summer. After running firmly behind Pollard and Spears for most of camp, the veterans appear to have a lock on any fantasy viability to be found out of the Titans' running backs room, and at RotoBaller's RB75, Singleton is not a player who needs to be considered in 2026 drafts.",
+      "metadata": {
+        "description": "Tennessee Titans rookie running back Nicholas Singleton ran the ball seven times for 26 yards in Saturday's 24-15 loss to the Chicago Bears, adding two receptions for 18 yards and putting a cap on a solid but unspectacular first preseason. Both Tony Pollard and Tyjae Spears have looked sharp in their limited action, each averaging more than 5.6 yards per carry on 12 combined totes, but with neither suited up for the final game of the 2026 preseason, Singleton got the start and earned a target on an opening drive that went three-and-out. Singleton was selected in the fifth round of the 2026 NFL Draft, but with many believing he would have gone earlier if not for a broken foot sustained during Senior Bowl practice, he was a popular sleeper pick to start the summer. After running firmly behind Pollard and Spears for most of camp, the veterans appear to have a lock on any fantasy viability to be found out of the Titans' running backs room, and at RotoBaller's RB75, Singleton is not a player who needs to be considered in 2026 drafts.",
+        "title": "Nicholas Singleton Ends Preseason Without Any Signature Moments",
+        "topic_id": "1399801337239121920",
+        "url": "https://www.rotoballer.com/player-news/nicholas-singleton-ends-preseason-without-any-signature-moments/1919574"
+      },
+      "nfl_team": "TEN",
+      "player_id": "13288",
+      "player_name": "Nicholas Singleton",
+      "position": "RB",
+      "published": 1788086168000,
+      "source": "rotoballer",
+      "source_key": "219704",
+      "story_id": "nfl|13288|rotoballer|219704|1788086168000",
+      "title": "Nicholas Singleton Ends Preseason Without Any Signature Moments",
+      "url": "https://www.rotoballer.com/player-news/nicholas-singleton-ends-preseason-without-any-signature-moments/1919574"
     },
     {
       "analysis": null,

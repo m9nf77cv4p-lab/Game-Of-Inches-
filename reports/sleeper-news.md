@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1342**
+- Stored stories: **1343**
 - Newly captured: **1**
 
 ## Latest news
@@ -12,7 +12,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Keenan Allen** — Keenan Allen facing two DUI charges after arrest early Sunday morning (2026-08-30T11:55:56.122000Z)
   - The veteran receiver was a badly needed addition to the Colts roster, and now he could find himself suspended for a game or two should the NFL find that action appropriate. It's also possible he will only face fines. Still, it's worth monitoring the vet's situation, as he was an interesting late-round sleeper in drafts.
   - Source: https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php
-- **NEW — George Kittle** — Has George Kittle "Taken a Step Back"? (2026-08-30T09:49:08Z)
+- **NEW — Nicholas Singleton** — Nicholas Singleton Ends Preseason Without Any Signature Moments (2026-08-30T10:36:08Z)
+  - Source: https://www.rotoballer.com/player-news/nicholas-singleton-ends-preseason-without-any-signature-moments/1919574
+- **George Kittle** — Has George Kittle "Taken a Step Back"? (2026-08-30T09:49:08Z)
   - Source: https://www.rotoballer.com/player-news/has-george-kittle-taken-a-step-back/1919528
 - **Luther Burden** — Luther Burden III "Looks 100%", Positive Sign for His Week 1 Availability (2026-08-30T09:24:07Z)
   - Source: https://www.rotoballer.com/player-news/luther-burden-iii-looks-100-positive-sign-for-his-week-1-availability/1919520
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/brock-purdy-should-continue-to-benefit-from-strong-supporting-cast/1918939
 - **Quinshon Judkins** — Quinshon Judkins - Doesn't suit up for preseason finale (2026-08-29T00:47:42Z)
   - Judkins also missed the team's second preseason game due to an undisclosed injury, but he returned to practice this past Monday and seems to be past the issue. He ended up logging action in only the first of the Browns' exhibition contests, when he carried four times for nine yards. Judkins is the clear No. 1 RB for Cleveland and could be headed for a heavy workload on a team that may again deploy a shaky passing game.
-- **Drake Maye** — Drake Maye - Doesn't play in exhibition finale (2026-08-29T00:40:03Z)
-  - Unsurprisingly, Maye was among the plethora of New England starters who didn't see action in the team's final exhibition game. The star quarterback ended up sitting out all three of the team's preseason contests as he prepares for the regular season. Maye's first chance to get into game action with new top wideouts A.J. Brown and Romeo Doubs will take place Week 1 versus Seattle on Wednesday, Sept. 9.
