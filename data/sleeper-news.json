@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T13:24:21Z",
+  "last_checked_at": "2026-08-30T13:34:38Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|1479|rotoballer|219698|1788081130000"
+    "nfl|12519|rotoballer|219699|1788081847000"
   ],
   "schema_version": 1,
   "source": {
@@ -53,6 +53,26 @@
       "story_id": "nfl|1479|fantasy_pros|604750|1788090956122",
       "title": "Keenan Allen facing two DUI charges after arrest early Sunday morning",
       "url": "https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php"
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears wide receiver Luther Burden III (groin) did not participate in the team's final preseason game as he continues to work his way back from the groin injury that has sidelined him for much of training camp, but following the Bears' 24-15 win over the Titans, head coach Ben Johnson offered some strong reassurance about his Week 1 availability. \"He looks 100% to me,\" Johnson told the media. Burden had been a standout in nearly every session to begin camp, but went down to the ground and left with trainers after getting tangled with cornerback Tyrique Stevenson on August 8th and has not returned to practice since. Following Johnson's latest update, the arrow is pointing back up, and big things are expected of Burden in his second season, making him a potential league-winning selection at his currently discounted ADP of WR24.",
+      "metadata": {
+        "description": "Chicago Bears wide receiver Luther Burden III (groin) did not participate in the team's final preseason game as he continues to work his way back from the groin injury that has sidelined him for much of training camp, but following the Bears' 24-15 win over the Titans, head coach Ben Johnson offered some strong reassurance about his Week 1 availability. \"He looks 100% to me,\" Johnson told the media. Burden had been a standout in nearly every session to begin camp, but went down to the ground and left with trainers after getting tangled with cornerback Tyrique Stevenson on August 8th and has not returned to practice since. Following Johnson's latest update, the arrow is pointing back up, and big things are expected of Burden in his second season, making him a potential league-winning selection at his currently discounted ADP of WR24.",
+        "title": "Luther Burden III \"Looks 100%\", Positive Sign for His Week 1 Availability",
+        "topic_id": "1399782461147250688",
+        "url": "https://www.rotoballer.com/player-news/luther-burden-iii-looks-100-positive-sign-for-his-week-1-availability/1919520"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12519",
+      "player_name": "Luther Burden",
+      "position": "WR",
+      "published": 1788081847000,
+      "source": "rotoballer",
+      "source_key": "219699",
+      "story_id": "nfl|12519|rotoballer|219699|1788081847000",
+      "title": "Luther Burden III \"Looks 100%\", Positive Sign for His Week 1 Availability",
+      "url": "https://www.rotoballer.com/player-news/luther-burden-iii-looks-100-positive-sign-for-his-week-1-availability/1919520"
     },
     {
       "analysis": null,
