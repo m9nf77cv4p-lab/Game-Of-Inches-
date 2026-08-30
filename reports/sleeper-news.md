@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1356**
+- Stored stories: **1357**
 - Newly captured: **1**
 
 ## Latest news
@@ -18,7 +18,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Myers converted a 46-yard attempt in the first quarter but missed a PAT in the fourth quarter to keep Seattle's lead at 9-6. After the Chiefs tied the game, Myers missed an opportunity to give the Seahawks their only win of the preseason by pushing a 52-yard field-goal attempt wide right on the final play of the game. Myers missed his only field-goal attempt in Seattle's preseason opener against the Cowboys and went 1-for-2 on field-goal attempts while missing a PAT in the Seahawks' second preseason game. His preseason inaccuracy represents a significant departure from Myers' strong performance during the 2025 regular season, when he converted 41 of his league-high 48 field-goal attempts.
 - **George Kittle** — George Kittle - Expected to practice this week (2026-08-30T14:57:41Z)
   - With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up versus the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.
-- **NEW — MarShawn Lloyd** — MarShawn Lloyd Facing Potential Competition for No. 2 Role (2026-08-30T13:59:08Z)
+- **NEW — Brock Bowers** — Brock Bowers Looks Like Himself Again (2026-08-30T14:09:07Z)
+  - Source: https://www.rotoballer.com/player-news/brock-bowers-looks-like-himself-again/1919761
+- **MarShawn Lloyd** — MarShawn Lloyd Facing Potential Competition for No. 2 Role (2026-08-30T13:59:08Z)
   - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-facing-potential-competition-for-no-2-role/1919757
 - **Kaleb Johnson** — Kaleb Johnson Traded to Packers (2026-08-30T13:45:12Z)
   - Source: https://www.rotoballer.com/player-news/kaleb-johnson-traded-to-packers/1919749
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Harris was the first running back to record a touch for the Giants in Friday's preseason finale, which Cam Skattebo and Devin Singletary sat out. Fellow RB Tyrone Tracy (neck) left the game in the second quarter and didn't return, though Tracy managed to clear concussion protocol. The Giants may opt to keep all four of Skattebo, Singletary, Harris and Tracy on their roster once they cut down to 53 players for the regular season.
 - **Chris Bell** — Chris Bell - Five targets in preseason finale (2026-08-29T03:00:26Z)
   - Bell got his first taste of NFL game action in Friday's preseason finale, as he has gained clearance to play after having the ACL in his left knee surgically repaired in December. The wide receiver out of Louisville is set to compete for playing time in an underwhelming Dolphins WR room that also includes rookie third-round pick Caleb Douglas, rookie fifth-round pick Kevin Coleman, 2024 sixth-round pick Malik Washington and offseason signing Jalen Tolbert.
-- **Cam Little** — Cam Little - Nails 61-yarder Friday (2026-08-29T02:40:42Z)
-  - Little's long-distance boot, which came with just over 10 minutes remaining in the second quarter, was undeniably impressive but not out of the norm for the third-year star. He went 13-for-16 on kicks from 50 yards and longer over 34 regular-season games in his first two campaigns, and he wraps up preseason having gone 7-for-7 on field-goal attempts while also knocking home his only PAT.

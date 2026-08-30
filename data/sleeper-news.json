@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T18:06:38Z",
+  "last_checked_at": "2026-08-30T18:16:49Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11581|rotoballer|219722|1788098348000"
+    "nfl|11604|rotoballer|219723|1788098947000"
   ],
   "schema_version": 1,
   "source": {
@@ -113,6 +113,26 @@
       "story_id": "nfl|4217|rotowire|635292|1788101861000",
       "title": "George Kittle - Expected to practice this week",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders tight end Brock Bowers spent most of last season fighting through a knee injury. This summer has looked a lot more like the player who caught 112 passes for 1,194 yards as a rookie. Bowers said in May that he felt 100 percent, and the Raiders have spent camp feeding him the ball. He caught two red-zone touchdowns from Kirk Cousins on July 31, added another deep score on Aug. 6, and was one of Las Vegas' best offensive players during the Aug. 18 joint practice with Houston. Cousins found him for another touchdown there, too. That connection matters even more now with Cousins expected to start Week 1. Bowers still managed 64 catches for 680 yards and seven touchdowns in only 12 games last season, so the floor was never the concern when healthy. The draft price is already steep. RotoBaller has him as the TE1 and No. 21 overall in its latest half-PPR rankings. Still, there has been nothing this summer to make fantasy managers back off. If anything, Bowers looks like himself again.",
+      "metadata": {
+        "description": "Las Vegas Raiders tight end Brock Bowers spent most of last season fighting through a knee injury. This summer has looked a lot more like the player who caught 112 passes for 1,194 yards as a rookie. Bowers said in May that he felt 100 percent, and the Raiders have spent camp feeding him the ball. He caught two red-zone touchdowns from Kirk Cousins on July 31, added another deep score on Aug. 6, and was one of Las Vegas' best offensive players during the Aug. 18 joint practice with Houston. Cousins found him for another touchdown there, too. That connection matters even more now with Cousins expected to start Week 1. Bowers still managed 64 catches for 680 yards and seven touchdowns in only 12 games last season, so the floor was never the concern when healthy. The draft price is already steep. RotoBaller has him as the TE1 and No. 21 overall in its latest half-PPR rankings. Still, there has been nothing this summer to make fantasy managers back off. If anything, Bowers looks like himself again.",
+        "title": "Brock Bowers Looks Like Himself Again",
+        "topic_id": "1399854190670381056",
+        "url": "https://www.rotoballer.com/player-news/brock-bowers-looks-like-himself-again/1919761"
+      },
+      "nfl_team": "LV",
+      "player_id": "11604",
+      "player_name": "Brock Bowers",
+      "position": "TE",
+      "published": 1788098947000,
+      "source": "rotoballer",
+      "source_key": "219723",
+      "story_id": "nfl|11604|rotoballer|219723|1788098947000",
+      "title": "Brock Bowers Looks Like Himself Again",
+      "url": "https://www.rotoballer.com/player-news/brock-bowers-looks-like-himself-again/1919761"
     },
     {
       "analysis": null,
