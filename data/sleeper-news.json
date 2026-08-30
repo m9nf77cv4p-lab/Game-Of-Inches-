@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T15:45:06Z",
+  "last_checked_at": "2026-08-30T15:55:13Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|4983|rotoballer|219707|1788089528000"
+    "nfl|12490|rotoballer|219708|1788090066000"
   ],
   "schema_version": 1,
   "source": {
@@ -93,6 +93,26 @@
       "story_id": "nfl|1479|fantasy_pros|604750|1788090956122",
       "title": "Keenan Allen facing two DUI charges after arrest early Sunday morning",
       "url": "https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars running back Bhayshul Tuten will get a chance to be the full-time lead back this upcoming season. The 23-year-old will get an opportunity to show that he can be the cornerstone option in the backfield. Recent reports have been saying that Tuten is being more active as a pass-catcher lately. A legit dual-threat back is a rarity in football, and fantasy managers shouldn't pass up an opportunity to possibly land one. The Jags have Chris Rodriguez Jr. and LeQuint Allen Jr. as backup options, but neither player has shown the same upside as Tuten. He's ranked as the No. 25 running back in Rotoballer's rankings and has a great chance to rise quickly.",
+      "metadata": {
+        "description": "Jacksonville Jaguars running back Bhayshul Tuten will get a chance to be the full-time lead back this upcoming season. The 23-year-old will get an opportunity to show that he can be the cornerstone option in the backfield. Recent reports have been saying that Tuten is being more active as a pass-catcher lately. A legit dual-threat back is a rarity in football, and fantasy managers shouldn't pass up an opportunity to possibly land one. The Jags have Chris Rodriguez Jr. and LeQuint Allen Jr. as backup options, but neither player has shown the same upside as Tuten. He's ranked as the No. 25 running back in Rotoballer's rankings and has a great chance to rise quickly.",
+        "title": "Bhayshul Tuten Offers Intriguing Upside",
+        "topic_id": "1399816438142803968",
+        "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-offers-intriguing-upside/1919608"
+      },
+      "nfl_team": "JAX",
+      "player_id": "12490",
+      "player_name": "Bhayshul Tuten",
+      "position": "RB",
+      "published": 1788090066000,
+      "source": "rotoballer",
+      "source_key": "219708",
+      "story_id": "nfl|12490|rotoballer|219708|1788090066000",
+      "title": "Bhayshul Tuten Offers Intriguing Upside",
+      "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-offers-intriguing-upside/1919608"
     },
     {
       "analysis": null,
@@ -27051,26 +27071,6 @@
       "story_id": "nfl|13602|fantasy_pros|599340|1785513933479",
       "title": "Jack Strand takes all 11-on-11 reps at Falcons practice Friday ",
       "url": "https://www.fantasypros.com/nfl/news/599340/jack-strand-takes-all-11-on-11-reps-falcons-practice-friday-.php"
-    },
-    {
-      "analysis": null,
-      "description": "ESPN's Adam Schefter reports the Carolina Panthers have placed rookie wide receiver Chris Brazzell II (knee) on Injured Reserve, officially ending his season. The 22-year-old suffered a torn LCL in his left knee on a noncontact play during training camp on Wednesday. The Panthers selected Brazzell with the 83rd overall pick in the third round of the 2026 NFL Draft. Brazzell offered a rare combination of size and speed to the Carolina offense, which would have allowed for Tetairoa McMillan to be moved around the formation more often. McMillan has spoken publicly about wanting to play from the slot more often to get the ball in his hands and create more mismatches. Unfortunately, we will have to wait until 2027 to see both 6'4 receivers on the field at the same time.",
-      "metadata": {
-        "description": "ESPN's Adam Schefter reports the Carolina Panthers have placed rookie wide receiver Chris Brazzell II (knee) on Injured Reserve, officially ending his season. The 22-year-old suffered a torn LCL in his left knee on a noncontact play during training camp on Wednesday. The Panthers selected Brazzell with the 83rd overall pick in the third round of the 2026 NFL Draft. Brazzell offered a rare combination of size and speed to the Carolina offense, which would have allowed for Tetairoa McMillan to be moved around the formation more often. McMillan has spoken publicly about wanting to play from the slot more often to get the ball in his hands and create more mismatches. Unfortunately, we will have to wait until 2027 to see both 6'4 receivers on the field at the same time.",
-        "title": "Panthers Place Chris Brazzell II on Injured Reserve, Officially Ending His Season",
-        "topic_id": "1389008883774668800",
-        "url": "https://www.rotoballer.com/player-news/panthers-place-chris-brazzell-on-injured-reserve-officially-ending-his-season/1900716"
-      },
-      "nfl_team": "CAR",
-      "player_id": "13353",
-      "player_name": "Chris Brazzell",
-      "position": "WR",
-      "published": 1785513247000,
-      "source": "rotoballer",
-      "source_key": "217776",
-      "story_id": "nfl|13353|rotoballer|217776|1785513247000",
-      "title": "Panthers Place Chris Brazzell II on Injured Reserve, Officially Ending His Season",
-      "url": "https://www.rotoballer.com/player-news/panthers-place-chris-brazzell-on-injured-reserve-officially-ending-his-season/1900716"
     }
   ]
 }

@@ -16,7 +16,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Keenan Allen** — Keenan Allen facing two DUI charges after arrest early Sunday morning (2026-08-30T11:55:56.122000Z)
   - The veteran receiver was a badly needed addition to the Colts roster, and now he could find himself suspended for a game or two should the NFL find that action appropriate. It's also possible he will only face fines. Still, it's worth monitoring the vet's situation, as he was an interesting late-round sleeper in drafts.
   - Source: https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php
-- **NEW — DJ Moore** — DJ Moore Could Offer Top-15 Upside (2026-08-30T11:32:08Z)
+- **NEW — Bhayshul Tuten** — Bhayshul Tuten Offers Intriguing Upside (2026-08-30T11:41:06Z)
+  - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-offers-intriguing-upside/1919608
+- **DJ Moore** — DJ Moore Could Offer Top-15 Upside (2026-08-30T11:32:08Z)
   - Source: https://www.rotoballer.com/player-news/dj-moore-could-offer-top-15-upside/1919599
 - **Trevor Lawrence** — Trevor Lawrence Offers League-Winning Upside at a Low-QB1 Cost (2026-08-30T11:00:13Z)
   - Source: https://www.rotoballer.com/player-news/trevor-lawrence-offers-league-winning-upside-at-a-low-qb1-cost/1919586
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - San Francisco elected to rest its projected regular-season starters for the team's final exhibition game. Purdy saw very limited work during the preseason slate, getting into one game and completing four of six passes for 29 yards. He'll next take the field against the Rams in Week 1 of the regular season in Melbourne, Australia, on Friday, Sept. 11 (which will be Thursday, Sept. 10 in US time zones). Purdy will be working with a largely new wideout corps, including Mike Evans (groin), Deebo Samuel (returning after a one-year hiatus with Washington), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).
 - **DJ Moore** — DJ Moore - Rests during preseason finale (2026-08-29T00:57:37Z)
   - Buffalo elected to rest the bulk of its projected regular-season starters, including Moore, for the team's final preseason game. The veteran wideout saw action in one exhibition contest, catching three of four targets for 61 yards. Moore left that game early due to an ankle injury but has since returned to practice, so he should be good to go as the Bills' top wideout Week 1 of the regular season versus a tough Texans defense.
-- **Rashee Rice** — Rashee Rice Being Drafted as a WR1 in Fantasy Football Drafts (2026-08-29T00:54:07Z)
-  - Source: https://www.rotoballer.com/player-news/rashee-rice-being-drafted-as-a-wr1-in-fantasy-football-drafts/1918941
