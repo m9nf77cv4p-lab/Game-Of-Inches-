@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T14:54:52Z",
+  "last_checked_at": "2026-08-30T15:05:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13288|rotoballer|219704|1788086168000"
+    "nfl|4217|rotowire|635292|1788101861000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up against the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.",
+      "description": "Kittle (Achilles) is expected to practice this week as he continues his push to play in the 49ers' season opener against the Rams in Australia, Adam Schefter of ESPN reports.",
+      "metadata": {
+        "analysis": "With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up against the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.",
+        "description": "Kittle (Achilles) is expected to practice this week as he continues his push to play in the 49ers' season opener against the Rams in Australia, Adam Schefter of ESPN reports.",
+        "title": "George Kittle - Expected to practice this week",
+        "topic_id": "1399805113870073856"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788101861000,
+      "source": "rotowire",
+      "source_key": "635292",
+      "story_id": "nfl|4217|rotowire|635292|1788101861000",
+      "title": "George Kittle - Expected to practice this week",
+      "url": null
+    },
     {
       "analysis": "Per the report, Allen was arrested overnight in Indianapolis \"on preliminary charges of (DWI) and DWI endangering a person.\" The Colts, via Kevin Bowen of 107.5 The Fan, issued a statement saying, \"We are aware of the incident involving Allen last night. We are in the process of gathering more information and have no further comment at this time.\"",
       "description": "Allen was arrested early Sunday morning and charged with DUI, FOX59 reports.",

@@ -2,17 +2,19 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1343**
+- Stored stories: **1344**
 - Newly captured: **1**
 
 ## Latest news
 
+- **NEW — George Kittle** — George Kittle - Expected to practice this week (2026-08-30T14:57:41Z)
+  - With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up against the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.
 - **Keenan Allen** — Keenan Allen - Arrested on DUI charges (2026-08-30T12:13:56Z)
   - Per the report, Allen was arrested overnight in Indianapolis "on preliminary charges of (DWI) and DWI endangering a person." The Colts, via Kevin Bowen of 107.5 The Fan, issued a statement saying, "We are aware of the incident involving Allen last night. We are in the process of gathering more information and have no further comment at this time."
 - **Keenan Allen** — Keenan Allen facing two DUI charges after arrest early Sunday morning (2026-08-30T11:55:56.122000Z)
   - The veteran receiver was a badly needed addition to the Colts roster, and now he could find himself suspended for a game or two should the NFL find that action appropriate. It's also possible he will only face fines. Still, it's worth monitoring the vet's situation, as he was an interesting late-round sleeper in drafts.
   - Source: https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php
-- **NEW — Nicholas Singleton** — Nicholas Singleton Ends Preseason Without Any Signature Moments (2026-08-30T10:36:08Z)
+- **Nicholas Singleton** — Nicholas Singleton Ends Preseason Without Any Signature Moments (2026-08-30T10:36:08Z)
   - Source: https://www.rotoballer.com/player-news/nicholas-singleton-ends-preseason-without-any-signature-moments/1919574
 - **George Kittle** — Has George Kittle "Taken a Step Back"? (2026-08-30T09:49:08Z)
   - Source: https://www.rotoballer.com/player-news/has-george-kittle-taken-a-step-back/1919528
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Tracy was tended to by medical staff after taking a big hit on an eight-yard run during the second quarter. The good news was that he was able to walk off the field and into the locker room under his own power. Given that he's being checked for a neck injury, it appears unlikely that Tracy will return to Friday's exhibition contest. If he's indeed done, he''ll finish with four carries for 37 yards and a touchdown.
 - **Brock Purdy** — Brock Purdy Should Continue to Benefit from Strong Supporting Cast (2026-08-29T00:48:02Z)
   - Source: https://www.rotoballer.com/player-news/brock-purdy-should-continue-to-benefit-from-strong-supporting-cast/1918939
-- **Quinshon Judkins** — Quinshon Judkins - Doesn't suit up for preseason finale (2026-08-29T00:47:42Z)
-  - Judkins also missed the team's second preseason game due to an undisclosed injury, but he returned to practice this past Monday and seems to be past the issue. He ended up logging action in only the first of the Browns' exhibition contests, when he carried four times for nine yards. Judkins is the clear No. 1 RB for Cleveland and could be headed for a heavy workload on a team that may again deploy a shaky passing game.
