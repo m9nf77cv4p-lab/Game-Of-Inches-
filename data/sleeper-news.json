@@ -1,11 +1,8 @@
 {
-  "last_checked_at": "2026-08-30T20:56:36Z",
+  "last_checked_at": "2026-08-30T21:06:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [
-    "nfl|13306|rotoballer|219742|1788108494000",
-    "nfl|7588|rotoballer|219740|1788108013000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -27474,26 +27471,6 @@
       "story_id": "nfl|13353|fantasy_pros|599481|1785555638823",
       "title": "Chris Brazzell II placed on IR",
       "url": "https://www.fantasypros.com/nfl/news/599481/chris-brazzell-ii-placed-on-ir.php"
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams wide receiver Davante Adams is unsure whether 2026 will be his final NFL season or if he'll continue to play. The 13th-year receiver said this week that, \"I've given (retirement) some thought. Right now, I'm just enjoying it. I can't tell you if it's going to be after this year or after next year. I truly don't know.\" In his first season with the Rams in 2025, he had 60 receptions for 789 yards and a league-high 14 touchdowns in 14 games. With Matthew Stafford still playing at a high level and Adams remaining one of the NFL's most dangerous red-zone wide receivers, expect the veteran receiver to post low-end WR2 numbers in 2026.",
-      "metadata": {
-        "description": "Los Angeles Rams wide receiver Davante Adams is unsure whether 2026 will be his final NFL season or if he'll continue to play. The 13th-year receiver said this week that, \"I've given (retirement) some thought. Right now, I'm just enjoying it. I can't tell you if it's going to be after this year or after next year. I truly don't know.\" In his first season with the Rams in 2025, he had 60 receptions for 789 yards and a league-high 14 touchdowns in 14 games. With Matthew Stafford still playing at a high level and Adams remaining one of the NFL's most dangerous red-zone wide receivers, expect the veteran receiver to post low-end WR2 numbers in 2026.",
-        "title": "Davante Adams Uncertain About Future After 2026 Season",
-        "topic_id": "1389086908021235712",
-        "url": "https://www.rotoballer.com/player-news/davante-adams-uncertain-about-future-after-2026-season/1900807"
-      },
-      "nfl_team": "LAR",
-      "player_id": "2133",
-      "player_name": "Davante Adams",
-      "position": "WR",
-      "published": 1785531785000,
-      "source": "rotoballer",
-      "source_key": "217792",
-      "story_id": "nfl|2133|rotoballer|217792|1785531785000",
-      "title": "Davante Adams Uncertain About Future After 2026 Season",
-      "url": "https://www.rotoballer.com/player-news/davante-adams-uncertain-about-future-after-2026-season/1900807"
     }
   ]
 }

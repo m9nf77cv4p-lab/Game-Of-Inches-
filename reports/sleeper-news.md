@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1368**
-- Newly captured: **2**
+- Stored stories: **1367**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -28,9 +28,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Johnson thus will get a fresh start in Green Bay after the third-round investment made in him last year didn't pan out in Pittsburgh. Working behind Jaylen Warren and Kenny Gainwell in 2025, Johnson turned 28 carries into just 69 yards (2.5 YPC) and no touchdowns while hauling in one of two targets for nine yards in 10 regular-season appearances as a rookie. Johnson will join a Green Bay backfield led by Josh Jacobs (groin) and backed up by MarShawn Lloyd and Chris Brooks.
 - **Taylen Green** — Taylen Green - Chance to make 53-man roster (2026-08-30T16:56:53Z)
   - Green is fourth on the team's quarterback depth chart behind Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The mobile rookie sixth-round pick out of Arkansas is raw as a passer but has intriguing rushing upside. Cleveland would have to release one of the players ahead of Green or carry four quarterbacks to keep him on the roster, which could leave the Browns shorthanded in depth at another position.
-- **NEW — Taylen Green** — Taylen Green Sticks in Browns' Four-QB Room (2026-08-30T16:48:14Z)
+- **Taylen Green** — Taylen Green Sticks in Browns' Four-QB Room (2026-08-30T16:48:14Z)
   - Source: https://www.rotoballer.com/player-news/taylen-green-sticks-in-browns-four-qb-room/1919966
-- **NEW — Javonte Williams** — Javonte Williams Set for Workhorse Role After Cowboys' Latest Cuts (2026-08-30T16:40:13Z)
+- **Javonte Williams** — Javonte Williams Set for Workhorse Role After Cowboys' Latest Cuts (2026-08-30T16:40:13Z)
   - Source: https://www.rotoballer.com/player-news/javonte-williams-set-for-workhorse-role-after-cowboys-latest-cuts/1919952
 - **MarShawn Lloyd** — MarShawn Lloyd Poised to Begin Season as Green Bay's Lead Running Back (2026-08-30T16:00:12Z)
   - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-poised-to-begin-season-as-green-bays-lead-running-back/1919914
