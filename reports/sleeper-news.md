@@ -2,11 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1337**
-- Newly captured: **0**
+- Stored stories: **1338**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Keenan Allen** — Keenan Allen facing two DUI charges after arrest early Sunday morning (2026-08-30T11:55:56.122000Z)
+  - The veteran receiver was a badly needed addition to the Colts roster, and now he could find himself suspended for a game or two should the NFL find that action appropriate. It's also possible he will only face fines. Still, it's worth monitoring the vet's situation, as he was an interesting late-round sleeper in drafts.
+  - Source: https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php
 - **Jalen Milroe** — Jalen Milroe - Throws for 223 yards in preseason finale (2026-08-30T02:26:31Z)
   - Milroe played every offensive snap for Seattle with both Sam Darnold and Drew Lock resting on the sideline. Milroe led the Seahawks on a seven-play scoring drive that ended in a field goal during the first quarter and a 10-play drive that ended with his touchdown pass to Nick Vannett in the third. That TD was his first of a relatively underwhelming preseason. Milroe is locked in behind Darnold and Lock once the regular season starts, so he could regularly serve as Seattle's emergency third QB on gamedays.
 - **Chimere Dike** — Chimere Dike - One catch in preseason finale (2026-08-30T02:06:33Z)
@@ -210,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kc-concepcion-still-a-redraft-target-despite-some-quarterback-concerns/1918930
 - **Tetairoa McMillan** — Tetairoa McMillan Being Drafted as a Mid-Range WR2 (2026-08-29T00:15:09Z)
   - Source: https://www.rotoballer.com/player-news/tetairoa-mcmillan-being-drafted-as-a-mid-range-wr2/1918927
-- **Denzel Boston** — Fantasy Managers Might Have to be Patient with Denzel Boston (2026-08-29T00:10:13Z)
-  - Source: https://www.rotoballer.com/player-news/fantasy-managers-might-have-to-be-patient-with-denzel-boston/1918925

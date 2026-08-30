@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-08-30T10:13:09Z",
+  "last_checked_at": "2026-08-30T12:04:02Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|1479|fantasy_pros|604750|1788090956122"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The veteran receiver was a badly needed addition to the Colts roster, and now he could find himself suspended for a game or two should the NFL find that action appropriate. It's also possible he will only face fines. Still, it's worth monitoring the vet's situation, as he was an interesting late-round sleeper in drafts.",
+      "description": "Keenan Allen is facing two DUI charges after being arrested early Sunday morning.",
+      "metadata": {
+        "analysis": "The veteran receiver was a badly needed addition to the Colts roster, and now he could find himself suspended for a game or two should the NFL find that action appropriate. It's also possible he will only face fines. Still, it's worth monitoring the vet's situation, as he was an interesting late-round sleeper in drafts.",
+        "description": "Keenan Allen is facing two DUI charges after being arrested early Sunday morning.",
+        "title": "Keenan Allen facing two DUI charges after arrest early Sunday morning",
+        "topic_id": "1399758559385776128",
+        "url": "https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "1479",
+      "player_name": "Keenan Allen",
+      "position": "WR",
+      "published": 1788090956122,
+      "source": "fantasy_pros",
+      "source_key": "604750",
+      "story_id": "nfl|1479|fantasy_pros|604750|1788090956122",
+      "title": "Keenan Allen facing two DUI charges after arrest early Sunday morning",
+      "url": "https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php"
+    },
     {
       "analysis": "Milroe played every offensive snap for Seattle with both Sam Darnold and Drew Lock resting on the sideline. Milroe led the Seahawks on a seven-play scoring drive that ended in a field goal during the first quarter and a 10-play drive that ended with his touchdown pass to Nick Vannett in the third. That TD was his first of a relatively underwhelming preseason. Milroe is locked in behind Darnold and Lock once the regular season starts, so he could regularly serve as Seattle's emergency third QB on gamedays.",
       "description": "Milroe completed 16 of 26 pass attempts for 223 yards and one touchdown without any interceptions in Friday's 9-9 preseason tie versus Kansas City.",
