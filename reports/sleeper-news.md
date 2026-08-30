@@ -2,16 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1339**
+- Stored stories: **1340**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Keenan Allen** — Keenan Allen - Arrested on DUI charges (2026-08-30T12:13:56Z)
+- **Keenan Allen** — Keenan Allen - Arrested on DUI charges (2026-08-30T12:13:56Z)
   - Per the report, Allen was arrested overnight in Indianapolis "on preliminary charges of (DWI) and DWI endangering a person." The Colts, via Kevin Bowen of 107.5 The Fan, issued a statement saying, "We are aware of the incident involving Allen last night. We are in the process of gathering more information and have no further comment at this time."
 - **Keenan Allen** — Keenan Allen facing two DUI charges after arrest early Sunday morning (2026-08-30T11:55:56.122000Z)
   - The veteran receiver was a badly needed addition to the Colts roster, and now he could find himself suspended for a game or two should the NFL find that action appropriate. It's also possible he will only face fines. Still, it's worth monitoring the vet's situation, as he was an interesting late-round sleeper in drafts.
   - Source: https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php
+- **NEW — Keenan Allen** — Keenan Allen Arrested Sunday Morning for DWI (2026-08-30T09:12:10Z)
+  - Source: https://www.rotoballer.com/player-news/keenan-allen-arrested-sunday-morning-for-dwi/1919513
 - **Jalen Milroe** — Jalen Milroe - Throws for 223 yards in preseason finale (2026-08-30T02:26:31Z)
   - Milroe played every offensive snap for Seattle with both Sam Darnold and Drew Lock resting on the sideline. Milroe led the Seahawks on a seven-play scoring drive that ended in a field goal during the first quarter and a 10-play drive that ended with his touchdown pass to Nick Vannett in the third. That TD was his first of a relatively underwhelming preseason. Milroe is locked in behind Darnold and Lock once the regular season starts, so he could regularly serve as Seattle's emergency third QB on gamedays.
 - **Chimere Dike** — Chimere Dike - One catch in preseason finale (2026-08-30T02:06:33Z)
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The Bills rested most of their projected regular-season starters, so Cook's absence was expected. The star running back finished the preseason slate having appeared in one game, logging 21 yards on five carries. Cook now will look ahead to Week 1, when he's slated to lead Buffalo's backfield against a tough Texans defense on Sunday, Sept. 13. Ray Davis is expected to work as his top backup.
 - **Jeremiyah Love** — Jeremiyah Love Works with Trainers Before Preseason Finale (2026-08-29T00:24:05Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-works-with-trainers-before-preseason-finale/1918932
-- **KC Concepcion** — KC Concepcion Still a Redraft Target Despite Some Quarterback Concerns (2026-08-29T00:20:09Z)
-  - Source: https://www.rotoballer.com/player-news/kc-concepcion-still-a-redraft-target-despite-some-quarterback-concerns/1918930

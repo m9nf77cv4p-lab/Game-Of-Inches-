@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T12:24:24Z",
+  "last_checked_at": "2026-08-30T13:24:21Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|1479|rotowire|635286|1788092036000"
+    "nfl|1479|rotoballer|219698|1788081130000"
   ],
   "schema_version": 1,
   "source": {
@@ -53,6 +53,26 @@
       "story_id": "nfl|1479|fantasy_pros|604750|1788090956122",
       "title": "Keenan Allen facing two DUI charges after arrest early Sunday morning",
       "url": "https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Keenan Allen was arrested early Sunday morning with preliminary misdemeanor charges of driving while intoxicated and DWI endangering a person, according to WTHR in Indianapolis. Allen has yet to be formally charged, but a police report and online jail records indicate the incident occurred in downtown Indianapolis around 1 a.m., though it was not reported until closer to 3 a.m. The 34-year-old Allen, who ranks 10th all-time among wide receivers in career receptions, recently signed a one-year deal with the Colts and is expected to see a significant role in his reunion with Shane Steichen, but fantasy managers will now need to think twice about where they are willing to select him in 2026 drafts, as the NFL does not need to wait for the legal process to play out before levying any suspension against him.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Keenan Allen was arrested early Sunday morning with preliminary misdemeanor charges of driving while intoxicated and DWI endangering a person, according to WTHR in Indianapolis. Allen has yet to be formally charged, but a police report and online jail records indicate the incident occurred in downtown Indianapolis around 1 a.m., though it was not reported until closer to 3 a.m. The 34-year-old Allen, who ranks 10th all-time among wide receivers in career receptions, recently signed a one-year deal with the Colts and is expected to see a significant role in his reunion with Shane Steichen, but fantasy managers will now need to think twice about where they are willing to select him in 2026 drafts, as the NFL does not need to wait for the legal process to play out before levying any suspension against him.",
+        "title": "Keenan Allen Arrested Sunday Morning for DWI",
+        "topic_id": "1399779944413851648",
+        "url": "https://www.rotoballer.com/player-news/keenan-allen-arrested-sunday-morning-for-dwi/1919513"
+      },
+      "nfl_team": "IND",
+      "player_id": "1479",
+      "player_name": "Keenan Allen",
+      "position": "WR",
+      "published": 1788081130000,
+      "source": "rotoballer",
+      "source_key": "219698",
+      "story_id": "nfl|1479|rotoballer|219698|1788081130000",
+      "title": "Keenan Allen Arrested Sunday Morning for DWI",
+      "url": "https://www.rotoballer.com/player-news/keenan-allen-arrested-sunday-morning-for-dwi/1919513"
     },
     {
       "analysis": "Milroe played every offensive snap for Seattle with both Sam Darnold and Drew Lock resting on the sideline. Milroe led the Seahawks on a seven-play scoring drive that ended in a field goal during the first quarter and a 10-play drive that ended with his touchdown pass to Nick Vannett in the third. That TD was his first of a relatively underwhelming preseason. Milroe is locked in behind Darnold and Lock once the regular season starts, so he could regularly serve as Seattle's emergency third QB on gamedays.",
