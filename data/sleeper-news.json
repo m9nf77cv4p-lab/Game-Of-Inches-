@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T18:46:38Z",
+  "last_checked_at": "2026-08-30T18:56:33Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|5850|rotowire|635349|1788115086000"
+    "nfl|1479|rotoballer|219726|1788101286000"
   ],
   "schema_version": 1,
   "source": {
@@ -174,6 +174,26 @@
       "story_id": "nfl|4217|rotowire|635292|1788101861000",
       "title": "George Kittle - Expected to practice this week",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Keenan Allen could face a three-game suspension following his arrest early Sunday morning, according to Mark Maske of Front Office Sports. Allen was arrested on preliminary misdemeanor charges of operating a vehicle while intoxicated with an alcohol concentration equivalent of .08 or higher and operating while intoxicated while endangering a person. The Marion County Prosecutor's Office will make the final charging decision. Maske notes that the NFL's substances-of-abuse policy calls for a three-game suspension without pay for a first alcohol-related violation of law, absent aggravating circumstances. No discipline has been announced, and the NFL generally waits for the legal process to conclude before acting. Allen signed with Indianapolis on Aug. 19 and caught one pass for 24 yards in Saturday's preseason finale. He had 81 catches for 777 yards and four touchdowns with the Chargers last season. A suspension would open more work for Alec Pierce, Josh Downs and tight end Tyler Warren.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Keenan Allen could face a three-game suspension following his arrest early Sunday morning, according to Mark Maske of Front Office Sports. Allen was arrested on preliminary misdemeanor charges of operating a vehicle while intoxicated with an alcohol concentration equivalent of .08 or higher and operating while intoxicated while endangering a person. The Marion County Prosecutor's Office will make the final charging decision. Maske notes that the NFL's substances-of-abuse policy calls for a three-game suspension without pay for a first alcohol-related violation of law, absent aggravating circumstances. No discipline has been announced, and the NFL generally waits for the legal process to conclude before acting. Allen signed with Indianapolis on Aug. 19 and caught one pass for 24 yards in Saturday's preseason finale. He had 81 catches for 777 yards and four touchdowns with the Chargers last season. A suspension would open more work for Alec Pierce, Josh Downs and tight end Tyler Warren.",
+        "title": "Keenan Allen Faces Potential Three-Game Suspension",
+        "topic_id": "1399864256920293376",
+        "url": "https://www.rotoballer.com/player-news/keenan-allen-faces-potential-three-game-suspension/1919808"
+      },
+      "nfl_team": "IND",
+      "player_id": "1479",
+      "player_name": "Keenan Allen",
+      "position": "WR",
+      "published": 1788101286000,
+      "source": "rotoballer",
+      "source_key": "219726",
+      "story_id": "nfl|1479|rotoballer|219726|1788101286000",
+      "title": "Keenan Allen Faces Potential Three-Game Suspension",
+      "url": "https://www.rotoballer.com/player-news/keenan-allen-faces-potential-three-game-suspension/1919808"
     },
     {
       "analysis": null,
