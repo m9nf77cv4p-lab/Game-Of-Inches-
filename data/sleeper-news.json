@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T04:29:13Z",
+  "last_checked_at": "2026-08-30T04:39:22Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|12506|rotoballer|219694|1788049030000",
-    "nfl|7525|rotoballer|219693|1788049208000"
+    "nfl|8155|rotoballer|219695|1788049508000"
   ],
   "schema_version": 1,
   "source": {
@@ -113,6 +112,26 @@
       "story_id": "nfl|13279|rotowire|635243|1788053388000",
       "title": "Carnell Tate - One target to close out preseason",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets running back Breece Hall is incredibly talented, but the subpar state of the team's offense has had a negative impact on his fantasy production in recent years. Hall went from the RB2 in 2023 to ranking outside the top 15 fantasy running backs in each of the last two years. Last season, he missed just one game but was held to 1,065 rushing yards, 350 receiving yards, and five touchdowns, which were modest numbers by his standards. We don't expect a huge change in Hall's volume and yardage this upcoming season, but we'd love to see him score more than five touchdowns. His exact scoring tendencies should likely depend on quarterback Geno Smith, whose play will be a main reason why the Jets score a certain number of touchdowns. If the offense is due for another iffy season, Hall will be a mid-range RB2. If you expect the Jets to get him closer to 8-10 touchdowns, he'll jump to low-end RB1 territory. As it stands, he ranks as RotoBaller's RB16 and has an ADP of 33.9 (RB16).",
+      "metadata": {
+        "description": "New York Jets running back Breece Hall is incredibly talented, but the subpar state of the team's offense has had a negative impact on his fantasy production in recent years. Hall went from the RB2 in 2023 to ranking outside the top 15 fantasy running backs in each of the last two years. Last season, he missed just one game but was held to 1,065 rushing yards, 350 receiving yards, and five touchdowns, which were modest numbers by his standards. We don't expect a huge change in Hall's volume and yardage this upcoming season, but we'd love to see him score more than five touchdowns. His exact scoring tendencies should likely depend on quarterback Geno Smith, whose play will be a main reason why the Jets score a certain number of touchdowns. If the offense is due for another iffy season, Hall will be a mid-range RB2. If you expect the Jets to get him closer to 8-10 touchdowns, he'll jump to low-end RB1 territory. As it stands, he ranks as RotoBaller's RB16 and has an ADP of 33.9 (RB16).",
+        "title": "Quarterback Situation Baked Into Breece Hall's Current ADP",
+        "topic_id": "1399646551789342720",
+        "url": "https://www.rotoballer.com/player-news/quarterback-situation-baked-into-breece-halls-current-adp/1919416"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8155",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "published": 1788049508000,
+      "source": "rotoballer",
+      "source_key": "219695",
+      "story_id": "nfl|8155|rotoballer|219695|1788049508000",
+      "title": "Quarterback Situation Baked Into Breece Hall's Current ADP",
+      "url": "https://www.rotoballer.com/player-news/quarterback-situation-baked-into-breece-halls-current-adp/1919416"
     },
     {
       "analysis": null,

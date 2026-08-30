@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1334**
-- Newly captured: **2**
+- Stored stories: **1335**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -17,9 +17,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but coach Ben Johnson said after Saturday's game that the wideout "looks 100 percent," per Jason Lieser of the Chicago Sun-Times, so the expectation is that he'll be ready to go for Week 1 of the regular season versus the Panthers.
 - **Carnell Tate** — Carnell Tate - One target to close out preseason (2026-08-30T01:29:48Z)
   - The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack beginning with a Week 1 home matchup against the Jets.
-- **NEW — DeVonta Smith** — DeVonta Smith Taking on WR1 Responsibilities in 2026 (2026-08-30T00:20:08Z)
+- **NEW — Breece Hall** — Quarterback Situation Baked Into Breece Hall's Current ADP (2026-08-30T00:25:08Z)
+  - Source: https://www.rotoballer.com/player-news/quarterback-situation-baked-into-breece-halls-current-adp/1919416
+- **DeVonta Smith** — DeVonta Smith Taking on WR1 Responsibilities in 2026 (2026-08-30T00:20:08Z)
   - Source: https://www.rotoballer.com/player-news/devonta-smith-taking-on-wr1-responsibilities-in-2026/1919414
-- **NEW — Harold Fannin** — Harold Fannin Jr. Has Position All to Himself, Comes with a Steep Price Tag (2026-08-30T00:17:10Z)
+- **Harold Fannin** — Harold Fannin Jr. Has Position All to Himself, Comes with a Steep Price Tag (2026-08-30T00:17:10Z)
   - Source: https://www.rotoballer.com/player-news/harold-fannin-jr-has-position-all-to-himself-comes-with-a-steep-price-tag/1919412
 - **Rashee Rice** — Rashee Rice - Logs 10 snaps in preseason finale (2026-08-29T23:36:05Z)
   - Rice and some of Kansas City's key offensive starters got to log some reps during the first quarter before being pulled. Though he didn't produce any offensive output, it's notable that Rice took part in his first game action since he landed on IR due to a concussion late last December. Rice had a tumultuous offseason, as he spent some time in jail due to a probation violation and also had a minor procedure on his right knee, but he appears healthy and isn't expected to face NFL discipline for the legal issue. As such, he can be penciled in as the Chiefs' top WR heading into Week 1 versus Denver on Monday, Sept. 14.
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jacoby-brissett-a-solid-fantasy-qb2-with-strong-supporting-cast/1918923
 - **Matthew Stafford** — Matthew Stafford Remains a QB1 Despite Lack of Rushing Upside (2026-08-28T23:44:07Z)
   - Source: https://www.rotoballer.com/player-news/matthew-stafford-remains-a-qb1-despite-lack-of-rushing-upside/1918917
-- **Tre' Harris** — Tre' Harris - Idle for preseason finale (2026-08-28T23:40:00Z)
-  - Harris will end up not playing a single preseason game, missing the last two while working through an undisclosed injury. Despite the lack of on-field playing time, there's no indication that the 2025 second-rounder is in jeopardy of missing the Chargers' regular-season opener against the Cardinals on Sunday, Sept. 13. Following the departure of Keenan Allen, Harris figures to serve as the Chargers' WR3 this season behind Ladd McConkey and Quentin Johnston.
