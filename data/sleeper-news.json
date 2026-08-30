@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-30T21:47:43Z",
+  "last_checked_at": "2026-08-30T21:57:29Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|9502|fantasy_pros|604939|1788126359406"
+    "nfl|4137|rotowire|635425|1788126654000",
+    "nfl|9502|rotowire|635424|1788126650000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Conner continues to deal with complications from the foot injury that ended his 2025 campaign Week 3 of last season. Initially, when Arizona didn't place him on the active/PUP list at the start of training camp, it was an indication that he had a chance to be available Week 1. Instead, Conner will be required to miss at least the first four games following this transaction. Considering rookie third overall pick Jeremiyah Love's status is up in the air due to a high-ankle sprain, Tyler Allgeier may be the team's lead runner in the early going, with Bam Knight backing him up.",
+      "description": "The Cardinals are placing Conner (foot) on injured reserve with a designation to return, John Gambadoro of Arizona Sports 98.7 FM Phoenix reports.",
+      "metadata": {
+        "analysis": "Conner continues to deal with complications from the foot injury that ended his 2025 campaign Week 3 of last season. Initially, when Arizona didn't place him on the active/PUP list at the start of training camp, it was an indication that he had a chance to be available Week 1. Instead, Conner will be required to miss at least the first four games following this transaction. Considering rookie third overall pick Jeremiyah Love's status is up in the air due to a high-ankle sprain, Tyler Allgeier may be the team's lead runner in the early going, with Bam Knight backing him up.",
+        "description": "The Cardinals are placing Conner (foot) on injured reserve with a designation to return, John Gambadoro of Arizona Sports 98.7 FM Phoenix reports.",
+        "title": "James Conner - Starting season on IR, with designation to return",
+        "topic_id": "1399909564555513856"
+      },
+      "nfl_team": "ARI",
+      "player_id": "4137",
+      "player_name": "James Conner",
+      "position": "RB",
+      "published": 1788126654000,
+      "source": "rotowire",
+      "source_key": "635425",
+      "story_id": "nfl|4137|rotowire|635425|1788126654000",
+      "title": "James Conner - Starting season on IR, with designation to return",
+      "url": null
+    },
+    {
+      "analysis": "Dell continues to work his way back from the serious knee injury he suffered in December of 2024. The promising news is that the wideout has progressed to working in team drills and is being allowed to progress at his own pace. Dell's placement on IR means he'll need to sit out at least the first four games of the regular season, but the designation to return means he's expected to suit up at some point in 2026.",
+      "description": "Dell (knee) will begin the season on IR with a designation to return, Jonathan M. Alexander of the Houston Chronicle reports.",
+      "metadata": {
+        "analysis": "Dell continues to work his way back from the serious knee injury he suffered in December of 2024. The promising news is that the wideout has progressed to working in team drills and is being allowed to progress at his own pace. Dell's placement on IR means he'll need to sit out at least the first four games of the regular season, but the designation to return means he's expected to suit up at some point in 2026.",
+        "description": "Dell (knee) will begin the season on IR with a designation to return, Jonathan M. Alexander of the Houston Chronicle reports.",
+        "title": "Tank Dell - Landing on IR",
+        "topic_id": "1399909564551319552"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9502",
+      "player_name": "Tank Dell",
+      "position": "WR",
+      "published": 1788126650000,
+      "source": "rotowire",
+      "source_key": "635424",
+      "story_id": "nfl|9502|rotowire|635424|1788126650000",
+      "title": "Tank Dell - Landing on IR",
+      "url": null
+    },
     {
       "analysis": "Dell last played in an NFL game all the way back in 2024. The 26-year-old wideout has been practicing for the Texans, but he will be given a bit more time to get fully back up to speed. The earliest Dell could see the field is now Week 5. ",
       "description": "Tank Dell (knee) has been placed on IR and will miss at least the first four games of the season. ",

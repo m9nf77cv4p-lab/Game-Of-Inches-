@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1369**
-- Newly captured: **1**
+- Stored stories: **1371**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Tank Dell** — Tank Dell (knee) placed on IR, designated to return (2026-08-30T21:45:59.406000Z)
+- **NEW — James Conner** — James Conner - Starting season on IR, with designation to return (2026-08-30T21:50:54Z)
+  - Conner continues to deal with complications from the foot injury that ended his 2025 campaign Week 3 of last season. Initially, when Arizona didn't place him on the active/PUP list at the start of training camp, it was an indication that he had a chance to be available Week 1. Instead, Conner will be required to miss at least the first four games following this transaction. Considering rookie third overall pick Jeremiyah Love's status is up in the air due to a high-ankle sprain, Tyler Allgeier may be the team's lead runner in the early going, with Bam Knight backing him up.
+- **NEW — Tank Dell** — Tank Dell - Landing on IR (2026-08-30T21:50:50Z)
+  - Dell continues to work his way back from the serious knee injury he suffered in December of 2024. The promising news is that the wideout has progressed to working in team drills and is being allowed to progress at his own pace. Dell's placement on IR means he'll need to sit out at least the first four games of the regular season, but the designation to return means he's expected to suit up at some point in 2026.
+- **Tank Dell** — Tank Dell (knee) placed on IR, designated to return (2026-08-30T21:45:59.406000Z)
   - Dell last played in an NFL game all the way back in 2024. The 26-year-old wideout has been practicing for the Texans, but he will be given a bit more time to get fully back up to speed. The earliest Dell could see the field is now Week 5. 
   - Source: https://www.fantasypros.com/nfl/news/604939/tank-dell-knee-placed-on-ir-designated-to-return.php
 - **Taylen Green** — Taylen Green - Sticking around Cleveland (2026-08-30T21:24:31Z)
@@ -213,7 +217,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After sitting out the Ravens' second preseason game due to an undisclosed injury, Randall got back onto the field for the exhibition finale and flashed his impressive athleticism when he got the ball in his hands. A 2026 fifth-round pick out of Clemson, the converted wide receiver could eventually be a threat to Justice Hill's passing-down role in the backfield, but Randall will need to prove to the coaching staff he can handle his pass protection duties first.
 - **Antonio Williams** — Antonio Williams - Doesn't suit up Friday (2026-08-29T06:08:43Z)
   - The third-round rookie out of Clemson has been coming on strong as training camp has progressed, and per Donna Hopkins of MASN, Williams opened some eyes in joint practices against Baltimore earlier in the week when he beat Kyle Hamilton in one-on-one drills. The fact that Williams was held out Friday along with the rest of the Commanders' key personnel could be a strong sign that he's won the No. 3 receiver job to begin the season over the likes of Luke McCaffrey, Dyami Brown and Jaylin Lane, but he still faces an uphill battle for targets working behind Terry McLaurin and Stefon Diggs.
-- **Kaytron Allen** — Kaytron Allen - Poor showing in preseason finale (2026-08-29T05:48:24Z)
-  - With the Commanders resting all their key personnel in the team's final exhibition contest, Allen got the start in the backfield but coughed up the ball on his first touch, setting the Ravens up for their first TD of the night. The 2026 sixth-round pick is expected to begin the regular season as the third back on the depth chart behind Jacory Croskey-Merritt (lower body) and Rachaad White (hamstring), but if the injuries to either RB linger into Week 1, Allen could see a bigger workload than expected in his NFL debut.
-- **Troy Franklin** — Troy Franklin - Fails to corral sole target (2026-08-29T05:10:51Z)
-  - Franklin opened preseason with a 23-yard grab in the opener against the Falcons, but that turned out to be his only production of the exhibition slate across three games. Despite the quiet summer, Franklin is slated to serve as the No. 3 receiver behind Courtland Sutton and Jaylen Waddle in what should be a high-powered Broncos air attack.
