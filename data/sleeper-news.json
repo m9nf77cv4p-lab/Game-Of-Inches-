@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-30T17:36:44Z",
+  "last_checked_at": "2026-08-30T17:46:34Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|2133|rotoballer|219717|1788096368000"
+    "nfl|12504|fantasy_pros|604830|1788111957758",
+    "nfl|7588|rotoballer|219720|1788097144000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Details of the trade are still being finalized between the two organizations, with Johnson receiving the fresh start the running back desperately needs after falling out of favor in a Pittsburgh backfield that will be led by the duo of Jaylen Warren and Rico Dowdle this upcoming season. Johnson's role should become clearer as the National Football League continues their investigation into No. 1 running back Josh Jacobs, potentially resulting in a backup opportunity behind current No. 2 option MarShawn Lloyd.",
+      "description": "Kaleb Johnson is being traded to the Green Bay Packers by the Pittsburgh Steelers according to Tom Pelissero.",
+      "metadata": {
+        "analysis": "Details of the trade are still being finalized between the two organizations, with Johnson receiving the fresh start the running back desperately needs after falling out of favor in a Pittsburgh backfield that will be led by the duo of Jaylen Warren and Rico Dowdle this upcoming season. Johnson's role should become clearer as the National Football League continues their investigation into No. 1 running back Josh Jacobs, potentially resulting in a backup opportunity behind current No. 2 option MarShawn Lloyd.",
+        "description": "Kaleb Johnson is being traded to the Green Bay Packers by the Pittsburgh Steelers according to Tom Pelissero.",
+        "title": "Kaleb Johnson traded to Packers",
+        "topic_id": "1399846646635868160",
+        "url": "https://www.fantasypros.com/nfl/news/604830/kaleb-johnson-traded-to-packers.php"
+      },
+      "nfl_team": "PIT",
+      "player_id": "12504",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "published": 1788111957758,
+      "source": "fantasy_pros",
+      "source_key": "604830",
+      "story_id": "nfl|12504|fantasy_pros|604830|1788111957758",
+      "title": "Kaleb Johnson traded to Packers",
+      "url": "https://www.fantasypros.com/nfl/news/604830/kaleb-johnson-traded-to-packers.php"
+    },
     {
       "analysis": "Green is fourth on the team's quarterback depth chart behind Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The mobile rookie sixth-round pick out of Arkansas is raw as a passer but has intriguing rushing upside. Cleveland would have to release one of the players ahead of Green or carry four quarterbacks to keep him on the roster, which could leave the Browns shorthanded in depth at another position.",
       "description": "The Browns would like to keep Green on the 53-man roster if they can fit him, Mary Kay Cabot of the Cleveland Plain Dealer reports.",
@@ -72,6 +94,26 @@
       "story_id": "nfl|4217|rotowire|635292|1788101861000",
       "title": "George Kittle - Expected to practice this week",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys running back Javonte Williams hasn't given fantasy managers much to worry about this summer. That's the point. Williams rushed for 1,201 yards and 11 touchdowns on 252 carries last season, then Dallas brought him back on a three-year, $24 million deal. Nothing in August has chipped away at that lead role. The Cowboys have spent most of camp sorting through Jaydon Blue, Malik Davis and Phil Mafah behind him, and team writers were still calling everything below Williams a question mark on Aug. 25. Dallas then sat Williams, Blue and Davis in the preseason finale while Mafah handled 12 carries. Williams also caught 35 passes last year and finished with 13 total touchdowns, so there is some regression risk if the scoring drops. The workload is the bigger takeaway, though. RotoBaller's Aug. 28 outlook has Williams ranked 36th overall and projects another top-10 fantasy finish if he stays healthy. He isn't the cheap draft-day bet he was a year ago, but his hold on the Dallas backfield looks every bit as strong heading into Week 1.",
+      "metadata": {
+        "description": "Dallas Cowboys running back Javonte Williams hasn't given fantasy managers much to worry about this summer. That's the point. Williams rushed for 1,201 yards and 11 touchdowns on 252 carries last season, then Dallas brought him back on a three-year, $24 million deal. Nothing in August has chipped away at that lead role. The Cowboys have spent most of camp sorting through Jaydon Blue, Malik Davis and Phil Mafah behind him, and team writers were still calling everything below Williams a question mark on Aug. 25. Dallas then sat Williams, Blue and Davis in the preseason finale while Mafah handled 12 carries. Williams also caught 35 passes last year and finished with 13 total touchdowns, so there is some regression risk if the scoring drops. The workload is the bigger takeaway, though. RotoBaller's Aug. 28 outlook has Williams ranked 36th overall and projects another top-10 fantasy finish if he stays healthy. He isn't the cheap draft-day bet he was a year ago, but his hold on the Dallas backfield looks every bit as strong heading into Week 1.",
+        "title": "Javonte Williams Leaves August Firmly in Control of Backfield",
+        "topic_id": "1399846639639764992",
+        "url": "https://www.rotoballer.com/player-news/javonte-williams-leaves-august-firmly-in-control/1919722"
+      },
+      "nfl_team": "DAL",
+      "player_id": "7588",
+      "player_name": "Javonte Williams",
+      "position": "RB",
+      "published": 1788097144000,
+      "source": "rotoballer",
+      "source_key": "219720",
+      "story_id": "nfl|7588|rotoballer|219720|1788097144000",
+      "title": "Javonte Williams Leaves August Firmly in Control of Backfield",
+      "url": "https://www.rotoballer.com/player-news/javonte-williams-leaves-august-firmly-in-control/1919722"
     },
     {
       "analysis": null,

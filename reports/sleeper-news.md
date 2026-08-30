@@ -2,18 +2,23 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1351**
-- Newly captured: **1**
+- Stored stories: **1353**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Kaleb Johnson** — Kaleb Johnson traded to Packers (2026-08-30T17:45:57.758000Z)
+  - Details of the trade are still being finalized between the two organizations, with Johnson receiving the fresh start the running back desperately needs after falling out of favor in a Pittsburgh backfield that will be led by the duo of Jaylen Warren and Rico Dowdle this upcoming season. Johnson's role should become clearer as the National Football League continues their investigation into No. 1 running back Josh Jacobs, potentially resulting in a backup opportunity behind current No. 2 option MarShawn Lloyd.
+  - Source: https://www.fantasypros.com/nfl/news/604830/kaleb-johnson-traded-to-packers.php
 - **Taylen Green** — Taylen Green - Chance to make 53-man roster (2026-08-30T16:56:53Z)
   - Green is fourth on the team's quarterback depth chart behind Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The mobile rookie sixth-round pick out of Arkansas is raw as a passer but has intriguing rushing upside. Cleveland would have to release one of the players ahead of Green or carry four quarterbacks to keep him on the roster, which could leave the Browns shorthanded in depth at another position.
 - **Jason Myers** — Jason Myers - Five missed kicks in preseason (2026-08-30T15:21:12Z)
   - Myers converted a 46-yard attempt in the first quarter but missed a PAT in the fourth quarter to keep Seattle's lead at 9-6. After the Chiefs tied the game, Myers missed an opportunity to give the Seahawks their only win of the preseason by pushing a 52-yard field-goal attempt wide right on the final play of the game. Myers missed his only field-goal attempt in Seattle's preseason opener against the Cowboys and went 1-for-2 on field-goal attempts while missing a PAT in the Seahawks' second preseason game. His preseason inaccuracy represents a significant departure from Myers' strong performance during the 2025 regular season, when he converted 41 of his league-high 48 field-goal attempts.
 - **George Kittle** — George Kittle - Expected to practice this week (2026-08-30T14:57:41Z)
   - With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up versus the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.
-- **NEW — Davante Adams** — Davante Adams Has Helped His Redraft Case This Summer (2026-08-30T13:26:08Z)
+- **NEW — Javonte Williams** — Javonte Williams Leaves August Firmly in Control of Backfield (2026-08-30T13:39:04Z)
+  - Source: https://www.rotoballer.com/player-news/javonte-williams-leaves-august-firmly-in-control/1919722
+- **Davante Adams** — Davante Adams Has Helped His Redraft Case This Summer (2026-08-30T13:26:08Z)
   - Source: https://www.rotoballer.com/player-news/davante-adams-has-helped-his-redraft-case-this-summer/1919713
 - **Taylen Green** — Browns Want to Keep Rookie QB Taylen Green on the Roster (2026-08-30T13:14:07Z)
   - Source: https://www.rotoballer.com/player-news/browns-want-to-keep-rookie-qb-taylen-green-on-the-roster/1919704
@@ -209,7 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Pitts has shown excellent chemistry with QB Tua Tagovailoa during the preseason, accounting for 81 of Tagovailoa's 117 passing yards across parts of two preseason games. It remains to be seen whether Tagovailoa or Michael Penix (knee) will get the starting nod under center for Week 1 against the Steelers. Either way, Pitts is poised to maintain a prominent role on the heels of his 928-yard 2025 regular season.
 - **Tua Tagovailoa** — Tua Tagovailoa - Accurate in preseason finale (2026-08-29T02:20:42Z)
   - Tagovailoa played the first quarter of Atlanta's preseason finale and completed all but one pass, but two of Atlanta's three possessions during that span ended in fumbles. Following an opening-drive Brian Robinson rushing touchdown, Tua fumbled on the first play of the next drive and Robinson fumbled to end Atlanta's third possession. Michael Penix (knee) has gained clearance to participate in 11-on-11 drills, but the 2024 first-round pick has yet to progress to game availability. Head coach Kevin Stefanski has yet to name a Week 1 starter between Penix and Tagovailoa, the latter of whom didn't throw a touchdown pass in two preseason outings.
-- **Tyrone Tracy** — Tyrone Tracy - Won't return Friday (2026-08-29T01:32:44Z)
-  - Tracy sustained an apparent neck injury during an eight-yard run in the second quarter. The good news for the third-year running back is that he was not diagnosed with a concussion, and he'll finish his night with four carries for 37 yards and a touchdown. How Tracy's neck reacts over the coming days will determine what his practice participation will look like leading up to Week 1 against the Cowboys on Sunday, Sept. 13.
-- **Romeo Doubs** — Romeo Doubs - Sits out final exhibition game (2026-08-29T01:23:52Z)
-  - Doubs was among numerous Patriots projected regular-season starters who were held out of Thursday's contest. The veteran wideout didn't play at all during the exhibition slate but drew praise during training camp for his work during practices. Doubs is slated for a major role in his first campaign with New England, as he's set to start alongside A.J. Brown at the WR position.
