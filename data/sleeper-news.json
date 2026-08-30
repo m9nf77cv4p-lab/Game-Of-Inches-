@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-29T23:43:50Z",
+  "last_checked_at": "2026-08-30T01:27:08Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|10229|rotowire|635239|1788046565000"
+    "nfl|9229|rotoballer|219681|1788036869000"
   ],
   "schema_version": 1,
   "source": {
@@ -152,6 +152,26 @@
       "story_id": "nfl|1166|rotowire|635219|1788039029000",
       "title": "Kirk Cousins - Expected to be named starter",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts quarterback Anthony Richardson Sr. completed seven of his 10 pass attempts for 80 yards during Saturday's preseason contest against the Detroit Lions. He finished the game without a touchdown or interception, and he took just one sack along the way. There has been plenty of chatter about Richardson's future with the Colts after he requested a trade, but for now, he remains on the roster as the projected backup behind Daniel Jones. With that being said, there are fewer than 24 hours until NFL teams must trim their rosters to 53 players, so we can't rule out the possibility of a surprise trade or release involving Richardson. Assuming he remains on the Colts' roster, he can be avoided in all fantasy football leagues. He'd only get onto the fantasy radar as a QB3 if Jones were to suffer an injury.",
+      "metadata": {
+        "description": "Indianapolis Colts quarterback Anthony Richardson Sr. completed seven of his 10 pass attempts for 80 yards during Saturday's preseason contest against the Detroit Lions. He finished the game without a touchdown or interception, and he took just one sack along the way. There has been plenty of chatter about Richardson's future with the Colts after he requested a trade, but for now, he remains on the roster as the projected backup behind Daniel Jones. With that being said, there are fewer than 24 hours until NFL teams must trim their rosters to 53 players, so we can't rule out the possibility of a surprise trade or release involving Richardson. Assuming he remains on the Colts' roster, he can be avoided in all fantasy football leagues. He'd only get onto the fantasy radar as a QB3 if Jones were to suffer an injury.",
+        "title": "Anthony Richardson Sr. Highly Accurate as Roster Crunch Lingers",
+        "topic_id": "1399598731950583808",
+        "url": "https://www.rotoballer.com/player-news/anthony-richardson-highly-accurate-as-roster-crunch-lingers/1919338"
+      },
+      "nfl_team": "IND",
+      "player_id": "9229",
+      "player_name": "Anthony Richardson",
+      "position": "QB",
+      "published": 1788036869000,
+      "source": "rotoballer",
+      "source_key": "219681",
+      "story_id": "nfl|9229|rotoballer|219681|1788036869000",
+      "title": "Anthony Richardson Sr. Highly Accurate as Roster Crunch Lingers",
+      "url": "https://www.rotoballer.com/player-news/anthony-richardson-highly-accurate-as-roster-crunch-lingers/1919338"
     },
     {
       "analysis": "Mims avoids a serious injury. He is expected to be fine with just a couple of weeks until the season. ",

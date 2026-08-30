@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1319**
+- Stored stories: **1320**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Rashee Rice** — Rashee Rice - Logs 10 snaps in preseason finale (2026-08-29T23:36:05Z)
+- **Rashee Rice** — Rashee Rice - Logs 10 snaps in preseason finale (2026-08-29T23:36:05Z)
   - Rice and some of Kansas City's key offensive starters got to log some reps during the first quarter before being pulled. Though he didn't produce any offensive output, it's notable that Rice took part in his first game action since he landed on IR due to a concussion late last December. Rice had a tumultuous offseason, as he spent some time in jail due to a probation violation and also had a minor procedure on his right knee, but he appears healthy and isn't expected to face NFL discipline for the legal issue. As such, he can be penciled in as the Chiefs' top WR heading into Week 1 versus Denver on Monday, Sept. 14.
 - **Keenan Allen** — Keenan Allen - One catch in first preseason game for Indy (2026-08-29T22:24:59Z)
   - Having just signed with Indianapolis less than two weeks ago, Allen saw his first game action for his new club and quickly produced a big gain on Anthony Richardson's first pass attempt of the afternoon, helping to set up a field goal. Top wideouts Alec Pierce (ankle) and Josh Downs (calf), as well as top tight end Tyler Warren (groin), are all carrying injury designations to close out the preseason, so Allen could end up having a bigger role in the passing attack than expected once Week 1 rolls around. The 34-year-old showed he can still be an effective possession option in 2025 with the Chargers, delivering an 81-777-4 line on 122 targets while playing all 17 regular-season contests.
@@ -21,6 +21,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - London was limited to playing the first quarter of Friday's exhibition game before observing the rest of the contest from the sidelines. Entering his fifth NFL season, the USC product has recorded at least 68 catches and 850 receiving yards in each of his four years with Atlanta. London has been one of the most productive receivers since entering the league in 2022, but his offensive output will be heavily tied to the production of the Falcons' starting quarterback, whether that's Tua Tagovailoa or Michael Penix (knee).
 - **Kirk Cousins** — Kirk Cousins - Expected to be named starter (2026-08-29T21:30:29Z)
   - Raiders coach Klint Kubiak had refused to announce a decision on Las Vegas' Week 1 quarterback throughout the preseason, but Cousins has been listed as the No. 1 QB on the team's depth chart during training camp and the exhibition slate. The veteran signal-caller was also more effective than rookie No. 1 draft pick Fernando Mendoza during preseason play, completing 13 of 17 passes for 101 yards and a touchdown with no interceptions to Mendoza's 25-for-45 line with one TD and two pickoffs. Cousins will thus have the first opportunity to helm the Raiders offense, which features an elite tight end in Brock Bowers but one of the NFL's shallowest wide-receiver corps. Should Cousins and/or the team struggle, Mendoza could eventually be given a chance to start later in the campaign, though it's certainly possible he'll be asked to observe and learn from the bench for his entire rookie season.
+- **NEW — Anthony Richardson** — Anthony Richardson Sr. Highly Accurate as Roster Crunch Lingers (2026-08-29T20:54:29Z)
+  - Source: https://www.rotoballer.com/player-news/anthony-richardson-highly-accurate-as-roster-crunch-lingers/1919338
 - **Marvin Mims** — Marvin Mims Jr. suffers bruised foot (2026-08-29T18:05:49.497000Z)
   - Mims avoids a serious injury. He is expected to be fine with just a couple of weeks until the season. 
   - Source: https://www.fantasypros.com/nfl/news/604653/marvin-mims-jr-suffers-bruised-foot.php
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - McCarthy emerged from preseason Week 2 with an ankle injury, and while the Vikings were hopeful that he'd be able to play in the team's final exhibition, he'll instead remain in street clothes. After losing out on the starting QB job to Kyler Murray in early August, McCarthy has been serving as the backup in the meantime. Carson Wentz and Max Brosmer are the likely candidates to be under center for Minnesota on Friday.
 - **Tyrone Tracy** — Tyrone Tracy Jr. Clears Concussion Protocol, Still Won't Return Friday (2026-08-28T21:51:07Z)
   - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-clears-concussion-protocol-still-wont-return-friday/1918879
-- **Rachaad White** — Rachaad White - Won't play Friday (2026-08-28T21:47:19Z)
-  - White has been tending to a hamstring injury since Aug. 19 that will keep him sidelined for the Commanders' final two exhibitions. He was able to mix into individual drills as recently as Monday, though, so he's making progress in his recovery. White will join No. 1 RB Jacory Croskey-Merritt (lower body) and Jeremy McNichols (quadriceps) on the sideline Friday.
