@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T04:39:22Z",
+  "last_checked_at": "2026-08-30T04:59:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|8155|rotoballer|219695|1788049508000"
+    "nfl|7569|rotoballer|219696|1788051067000"
   ],
   "schema_version": 1,
   "source": {
@@ -112,6 +112,26 @@
       "story_id": "nfl|13279|rotowire|635243|1788053388000",
       "title": "Carnell Tate - One target to close out preseason",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Nico Collins is coming off a remarkable 2025 season that saw him post the best fantasy finish of his career as the overall WR8 in PPR leagues. It was a shaky year for the Texans and C.J. Stroud, but that didn't stop Collins from totaling 71 catches, 1,117 yards, and six touchdowns. Last season, he didn't have to share any targets with Tank Dell (knee), but he did share some volume with Christian Kirk, Jayden Higgins, and Jaylin Noel. This year is mostly similar, with the main difference being that Higgins is done for the year with a knee injury and Dell should return midseason. Because of Higgins' injury, the Texans also went out and added Kayshon Boutte via trade. By themselves, none of Dell, Noel, or Boutte should be a major threat to Collins' volume and production, but collectively, it's starting to look like a fair number of mouths to feed. Now that fantasy draft season is in full swing, Collins has an ADP of 23.8 (WR9), while RotoBaller has him ranked as the WR10 for redraft leagues.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Nico Collins is coming off a remarkable 2025 season that saw him post the best fantasy finish of his career as the overall WR8 in PPR leagues. It was a shaky year for the Texans and C.J. Stroud, but that didn't stop Collins from totaling 71 catches, 1,117 yards, and six touchdowns. Last season, he didn't have to share any targets with Tank Dell (knee), but he did share some volume with Christian Kirk, Jayden Higgins, and Jaylin Noel. This year is mostly similar, with the main difference being that Higgins is done for the year with a knee injury and Dell should return midseason. Because of Higgins' injury, the Texans also went out and added Kayshon Boutte via trade. By themselves, none of Dell, Noel, or Boutte should be a major threat to Collins' volume and production, but collectively, it's starting to look like a fair number of mouths to feed. Now that fantasy draft season is in full swing, Collins has an ADP of 23.8 (WR9), while RotoBaller has him ranked as the WR10 for redraft leagues.",
+        "title": "Nico Collins' Price Tag Falls in Line with Ranking for 2026",
+        "topic_id": "1399652844381995008",
+        "url": "https://www.rotoballer.com/player-news/nico-collins-price-tag-falls-in-line-with-ranking-for-2026/1919418"
+      },
+      "nfl_team": "HOU",
+      "player_id": "7569",
+      "player_name": "Nico Collins",
+      "position": "WR",
+      "published": 1788051067000,
+      "source": "rotoballer",
+      "source_key": "219696",
+      "story_id": "nfl|7569|rotoballer|219696|1788051067000",
+      "title": "Nico Collins' Price Tag Falls in Line with Ranking for 2026",
+      "url": "https://www.rotoballer.com/player-news/nico-collins-price-tag-falls-in-line-with-ranking-for-2026/1919418"
     },
     {
       "analysis": null,

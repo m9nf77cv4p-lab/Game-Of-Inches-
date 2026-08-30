@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1335**
+- Stored stories: **1336**
 - Newly captured: **1**
 
 ## Latest news
@@ -17,7 +17,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but coach Ben Johnson said after Saturday's game that the wideout "looks 100 percent," per Jason Lieser of the Chicago Sun-Times, so the expectation is that he'll be ready to go for Week 1 of the regular season versus the Panthers.
 - **Carnell Tate** — Carnell Tate - One target to close out preseason (2026-08-30T01:29:48Z)
   - The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack beginning with a Week 1 home matchup against the Jets.
-- **NEW — Breece Hall** — Quarterback Situation Baked Into Breece Hall's Current ADP (2026-08-30T00:25:08Z)
+- **NEW — Nico Collins** — Nico Collins' Price Tag Falls in Line with Ranking for 2026 (2026-08-30T00:51:07Z)
+  - Source: https://www.rotoballer.com/player-news/nico-collins-price-tag-falls-in-line-with-ranking-for-2026/1919418
+- **Breece Hall** — Quarterback Situation Baked Into Breece Hall's Current ADP (2026-08-30T00:25:08Z)
   - Source: https://www.rotoballer.com/player-news/quarterback-situation-baked-into-breece-halls-current-adp/1919416
 - **DeVonta Smith** — DeVonta Smith Taking on WR1 Responsibilities in 2026 (2026-08-30T00:20:08Z)
   - Source: https://www.rotoballer.com/player-news/devonta-smith-taking-on-wr1-responsibilities-in-2026/1919414
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/fantasy-managers-might-have-to-be-patient-with-denzel-boston/1918925
 - **Jacoby Brissett** — Jacoby Brissett a Solid Fantasy QB2 with Strong Supporting Cast (2026-08-29T00:05:09Z)
   - Source: https://www.rotoballer.com/player-news/jacoby-brissett-a-solid-fantasy-qb2-with-strong-supporting-cast/1918923
-- **Matthew Stafford** — Matthew Stafford Remains a QB1 Despite Lack of Rushing Upside (2026-08-28T23:44:07Z)
-  - Source: https://www.rotoballer.com/player-news/matthew-stafford-remains-a-qb1-despite-lack-of-rushing-upside/1918917
