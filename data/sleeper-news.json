@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T22:27:57Z",
+  "last_checked_at": "2026-08-30T22:38:13Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|9229|rotowire|635439|1788128232000"
+    "nfl|13281|rotowire|635445|1788129028000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Tyson has had recurring issues with his right hamstring, and the most recent flare-up is expected to result in two months on the sideline, so Sunday's transaction comes as no surprise. He'll be required to miss at least the first four games of the season, but considering the aforementioned recovery timeline, he likely will be out beyond Week 5. During Tyson's absence, Devaughn Vele and rookies Bryce Lance and Barion Brown will have opportunities for targets behind top WR Chris Olave.",
+      "description": "Tyson (hamstring) was placed on injured reserve with a designation to return by New Orleans on Sunday.",
+      "metadata": {
+        "analysis": "Tyson has had recurring issues with his right hamstring, and the most recent flare-up is expected to result in two months on the sideline, so Sunday's transaction comes as no surprise. He'll be required to miss at least the first four games of the season, but considering the aforementioned recovery timeline, he likely will be out beyond Week 5. During Tyson's absence, Devaughn Vele and rookies Bryce Lance and Barion Brown will have opportunities for targets behind top WR Chris Olave.",
+        "description": "Tyson (hamstring) was placed on injured reserve with a designation to return by New Orleans on Sunday.",
+        "title": "Jordyn Tyson - Lands on IR, designated to return",
+        "topic_id": "1399919631656841216"
+      },
+      "nfl_team": "NO",
+      "player_id": "13281",
+      "player_name": "Jordyn Tyson",
+      "position": "WR",
+      "published": 1788129028000,
+      "source": "rotowire",
+      "source_key": "635445",
+      "story_id": "nfl|13281|rotowire|635445|1788129028000",
+      "title": "Jordyn Tyson - Lands on IR, designated to return",
+      "url": null
+    },
     {
       "analysis": "Richardson requested a trade over the offseason, but the Colts elected not to move him, and he remains part of the Indianapolis organization for the time being. It remains to be seen, though, if he or Riley Leonard will open as the backup behind starting signal-caller Daniel Jones.",
       "description": "Richardson remains on the 53-man roster for the Colts.",

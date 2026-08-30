@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1373**
+- Stored stories: **1374**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Anthony Richardson** — Anthony Richardson - Will continue with Colts (2026-08-30T22:17:12Z)
+- **NEW — Jordyn Tyson** — Jordyn Tyson - Lands on IR, designated to return (2026-08-30T22:30:28Z)
+  - Tyson has had recurring issues with his right hamstring, and the most recent flare-up is expected to result in two months on the sideline, so Sunday's transaction comes as no surprise. He'll be required to miss at least the first four games of the season, but considering the aforementioned recovery timeline, he likely will be out beyond Week 5. During Tyson's absence, Devaughn Vele and rookies Bryce Lance and Barion Brown will have opportunities for targets behind top WR Chris Olave.
+- **Anthony Richardson** — Anthony Richardson - Will continue with Colts (2026-08-30T22:17:12Z)
   - Richardson requested a trade over the offseason, but the Colts elected not to move him, and he remains part of the Indianapolis organization for the time being. It remains to be seen, though, if he or Riley Leonard will open as the backup behind starting signal-caller Daniel Jones.
 - **J.J. McCarthy** — J.J. McCarthy - Remains with Vikings (2026-08-30T22:05:16Z)
   - There was talk leading up to cut-down day that McCarthy could be traded or even released, but he will remain with Minnesota for the time being. Kyler Murray will open the season as the starting quarterback for the Vikings, and either McCarthy or Carson Wentz will back him up.
@@ -215,5 +217,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/makai-lemon-struggles-to-shake-off-the-rust-in-preseason-debut/1919025
 - **Josh Jacobs** — Packers "Fully Anticipate" Josh Jacobs Will Remain on Roster (2026-08-29T09:13:08Z)
   - Source: https://www.rotoballer.com/player-news/packers-fully-anticipate-josh-jacobs-will-remain-on-roster/1919011
-- **Elijah Sarratt** — Elijah Sarratt - Just one catch again Friday (2026-08-29T06:42:36Z)
-  - The 2026 fourth-round pick made a splash in the Ravens' preseason opener, but Sarratt managed just two catches for four yards in the final two exhibition games. Third-round rookie Ja'Kobi Lane has been the star of training camp and seems to have the No. 3 wideout job locked down, leaving Sarratt competing with the likes of Devontez Walker, Chris Moore and LaJohntay Wester just to find a spot on the 53-man roster.
