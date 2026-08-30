@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T21:57:29Z",
+  "last_checked_at": "2026-08-30T22:17:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|4137|rotowire|635425|1788126654000",
-    "nfl|9502|rotowire|635424|1788126650000"
+    "nfl|11565|rotowire|635433|1788127516000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "There was talk leading up to cut-down day that McCarthy could be traded or even released, but he will remain with Minnesota for the time being. Kyler Murray will open the season as the starting quarterback for the Vikings, and either McCarthy or Carson Wentz will back him up.",
+      "description": "McCarthy (ankle) remains on the 53-man roster for the Vikings, Adam Schefter of ESPN reports.",
+      "metadata": {
+        "analysis": "There was talk leading up to cut-down day that McCarthy could be traded or even released, but he will remain with Minnesota for the time being. Kyler Murray will open the season as the starting quarterback for the Vikings, and either McCarthy or Carson Wentz will back him up.",
+        "description": "McCarthy (ankle) remains on the 53-man roster for the Vikings, Adam Schefter of ESPN reports.",
+        "title": "J.J. McCarthy - Remains with Vikings",
+        "topic_id": "1399913340716789760"
+      },
+      "nfl_team": "MIN",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1788127516000,
+      "source": "rotowire",
+      "source_key": "635433",
+      "story_id": "nfl|11565|rotowire|635433|1788127516000",
+      "title": "J.J. McCarthy - Remains with Vikings",
+      "url": null
+    },
     {
       "analysis": "Conner continues to deal with complications from the foot injury that ended his 2025 campaign Week 3 of last season. Initially, when Arizona didn't place him on the active/PUP list at the start of training camp, it was an indication that he had a chance to be available Week 1. Instead, Conner will be required to miss at least the first four games following this transaction. Considering rookie third overall pick Jeremiyah Love's status is up in the air due to a high-ankle sprain, Tyler Allgeier may be the team's lead runner in the early going, with Bam Knight backing him up.",
       "description": "The Cardinals are placing Conner (foot) on injured reserve with a designation to return, John Gambadoro of Arizona Sports 98.7 FM Phoenix reports.",
