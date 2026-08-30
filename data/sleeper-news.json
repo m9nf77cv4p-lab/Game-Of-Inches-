@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-08-30T21:06:40Z",
+  "last_checked_at": "2026-08-30T21:37:46Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|13306|rotowire|635409|1788125071000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Green was selected in the sixth round of this year's draft after finishing his college career at Arkansas in 2025. The quarterback saw limited action during the preseason, completing five of seven passes for 27 yards while also adding an eight-yard rush. The Browns placed Dillon Gabriel (back) on injured reserve with a designation to return Sunday, and Green will get a chance to serve as the team's No. 3 QB behind Deshaun Watson and Sanders in Gabriel's absence.",
+      "description": "Green has made the Browns' initial 53-man roster, Mary Kay Cabot of The Cleveland Plain Dealer reports.",
+      "metadata": {
+        "analysis": "Green was selected in the sixth round of this year's draft after finishing his college career at Arkansas in 2025. The quarterback saw limited action during the preseason, completing five of seven passes for 27 yards while also adding an eight-yard rush. The Browns placed Dillon Gabriel (back) on injured reserve with a designation to return Sunday, and Green will get a chance to serve as the team's No. 3 QB behind Deshaun Watson and Sanders in Gabriel's absence.",
+        "description": "Green has made the Browns' initial 53-man roster, Mary Kay Cabot of The Cleveland Plain Dealer reports.",
+        "title": "Taylen Green - Sticking around Cleveland",
+        "topic_id": "1399903270394179584"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13306",
+      "player_name": "Taylen Green",
+      "position": "QB",
+      "published": 1788125071000,
+      "source": "rotowire",
+      "source_key": "635409",
+      "story_id": "nfl|13306|rotowire|635409|1788125071000",
+      "title": "Taylen Green - Sticking around Cleveland",
+      "url": null
+    },
     {
       "analysis": "Blue had trouble finding a role last year, a lot of which came due to character and work ethic concerns. While that seems to have changed heading into this season, it wasn't enough for him to avoid roster cuts. Dallas will now have Malik Davis as the primary backup behind Javonte Williams, with Phil Mafah and Hunter Luepke mixing in.",
       "description": "Jaydon Blue has been waived by the Dallas Cowboys.",
