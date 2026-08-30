@@ -3,7 +3,7 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1345**
-- Newly captured: **1**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -14,7 +14,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Keenan Allen** — Keenan Allen facing two DUI charges after arrest early Sunday morning (2026-08-30T11:55:56.122000Z)
   - The veteran receiver was a badly needed addition to the Colts roster, and now he could find himself suspended for a game or two should the NFL find that action appropriate. It's also possible he will only face fines. Still, it's worth monitoring the vet's situation, as he was an interesting late-round sleeper in drafts.
   - Source: https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php
-- **NEW — Trevor Lawrence** — Trevor Lawrence Offers League-Winning Upside at a Low-QB1 Cost (2026-08-30T11:00:13Z)
+- **Trevor Lawrence** — Trevor Lawrence Offers League-Winning Upside at a Low-QB1 Cost (2026-08-30T11:00:13Z)
   - Source: https://www.rotoballer.com/player-news/trevor-lawrence-offers-league-winning-upside-at-a-low-qb1-cost/1919586
 - **Nicholas Singleton** — Nicholas Singleton Ends Preseason Without Any Signature Moments (2026-08-30T10:36:08Z)
   - Source: https://www.rotoballer.com/player-news/nicholas-singleton-ends-preseason-without-any-signature-moments/1919574

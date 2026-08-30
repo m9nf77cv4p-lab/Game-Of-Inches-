@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-08-30T15:15:00Z",
+  "last_checked_at": "2026-08-30T15:25:05Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [
-    "nfl|7523|rotoballer|219706|1788087613000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -116,9 +114,9 @@
     },
     {
       "analysis": null,
-      "description": "San Francisco 49ers head coach Kyle Shanahan recently met with the media, and a passing comment about George Kittle (Achilles) could be interpreted to mean that the All-Pro tight end has had a setback in his recovery from the Achilles injury that ended his 2025 season. While discussing the potential Week 1 availability of a handful of injured players, Shanahan mentioned his star tight end, saying, \"Guys like Kittle, who's taken a step back.\" He was not asked for further clarification, but with Kittle having been activated from the active/physically unable to perform list on August 23rd, it's possible Shanahan meant a step toward playing. Following a string of positive recovery news, Kittle had risen to RotoBaller's TE9, but as posited by Mike Florio of Pro Football Talk, Shanahan will likely have some further explaining to do when he next meets with the media.",
+      "description": "San Francisco 49ers head coach Kyle Shanahan recently met with the media, and a passing comment about tight end George Kittle (Achilles) could be interpreted to mean that the All-Pro tight end has had a setback in his recovery from the Achilles injury that ended his 2025 season. While discussing the potential Week 1 availability of a handful of injured players, Shanahan mentioned his star tight end, saying, \"Guys like Kittle, who's taken a step back.\" He was not asked for further clarification, but with Kittle having been activated from the active/physically unable to perform list on August 23rd, it's possible Shanahan meant a step toward playing. Following a string of positive recovery news, Kittle had risen to RotoBaller's TE9, but as posited by Mike Florio of Pro Football Talk, Shanahan will likely have some further explaining to do when he next meets with the media.",
       "metadata": {
-        "description": "San Francisco 49ers head coach Kyle Shanahan recently met with the media, and a passing comment about George Kittle (Achilles) could be interpreted to mean that the All-Pro tight end has had a setback in his recovery from the Achilles injury that ended his 2025 season. While discussing the potential Week 1 availability of a handful of injured players, Shanahan mentioned his star tight end, saying, \"Guys like Kittle, who's taken a step back.\" He was not asked for further clarification, but with Kittle having been activated from the active/physically unable to perform list on August 23rd, it's possible Shanahan meant a step toward playing. Following a string of positive recovery news, Kittle had risen to RotoBaller's TE9, but as posited by Mike Florio of Pro Football Talk, Shanahan will likely have some further explaining to do when he next meets with the media.",
+        "description": "San Francisco 49ers head coach Kyle Shanahan recently met with the media, and a passing comment about tight end George Kittle (Achilles) could be interpreted to mean that the All-Pro tight end has had a setback in his recovery from the Achilles injury that ended his 2025 season. While discussing the potential Week 1 availability of a handful of injured players, Shanahan mentioned his star tight end, saying, \"Guys like Kittle, who's taken a step back.\" He was not asked for further clarification, but with Kittle having been activated from the active/physically unable to perform list on August 23rd, it's possible Shanahan meant a step toward playing. Following a string of positive recovery news, Kittle had risen to RotoBaller's TE9, but as posited by Mike Florio of Pro Football Talk, Shanahan will likely have some further explaining to do when he next meets with the media.",
         "title": "Has George Kittle \"Taken a Step Back\"?",
         "topic_id": "1399788753186201600",
         "url": "https://www.rotoballer.com/player-news/has-george-kittle-taken-a-step-back/1919528"
