@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T17:06:43Z",
+  "last_checked_at": "2026-08-30T17:26:45Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13306|rotowire|635311|1788109013000"
+    "nfl|13306|rotoballer|219715|1788095647000"
   ],
   "schema_version": 1,
   "source": {
@@ -72,6 +72,26 @@
       "story_id": "nfl|4217|rotowire|635292|1788101861000",
       "title": "George Kittle - Expected to practice this week",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Cleveland Browns would like to keep rookie sixth-round quarterback Taylen Green on their 53-man roster on Sunday if they can find a way to do it, according to Mary Kay Cabot of The Cleveland Plain Dealer. It looks like the Browns could be keeping four signal-callers on their initial 53-man roster after all under new head coach Todd Monken. Green would be the team's QB4 behind starter Deshaun Watson, Shedeur Sanders, and Dillon Gabriel. The 23-year-old from Arkansas needs some development as a passer, but it is clear that the Browns are intrigued by his ability to scramble and pick up chunk gains with his legs. Gabriel solidified his spot as the Browns' QB3 with a strong preseason showing after he was taken two rounds ahead of Sanders in the 2025 NFL draft. If Green can develop as a passer this year, he could have a future in Cleveland. In fantasy, he is merely a bench stash in deep dynasty/keeper leagues.",
+      "metadata": {
+        "description": "The Cleveland Browns would like to keep rookie sixth-round quarterback Taylen Green on their 53-man roster on Sunday if they can find a way to do it, according to Mary Kay Cabot of The Cleveland Plain Dealer. It looks like the Browns could be keeping four signal-callers on their initial 53-man roster after all under new head coach Todd Monken. Green would be the team's QB4 behind starter Deshaun Watson, Shedeur Sanders, and Dillon Gabriel. The 23-year-old from Arkansas needs some development as a passer, but it is clear that the Browns are intrigued by his ability to scramble and pick up chunk gains with his legs. Gabriel solidified his spot as the Browns' QB3 with a strong preseason showing after he was taken two rounds ahead of Sanders in the 2025 NFL draft. If Green can develop as a passer this year, he could have a future in Cleveland. In fantasy, he is merely a bench stash in deep dynasty/keeper leagues.",
+        "title": "Browns Want to Keep Rookie QB Taylen Green on the Roster",
+        "topic_id": "1399840347231694848",
+        "url": "https://www.rotoballer.com/player-news/browns-want-to-keep-rookie-qb-taylen-green-on-the-roster/1919704"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13306",
+      "player_name": "Taylen Green",
+      "position": "QB",
+      "published": 1788095647000,
+      "source": "rotoballer",
+      "source_key": "219715",
+      "story_id": "nfl|13306|rotoballer|219715|1788095647000",
+      "title": "Browns Want to Keep Rookie QB Taylen Green on the Roster",
+      "url": "https://www.rotoballer.com/player-news/browns-want-to-keep-rookie-qb-taylen-green-on-the-roster/1919704"
     },
     {
       "analysis": null,
