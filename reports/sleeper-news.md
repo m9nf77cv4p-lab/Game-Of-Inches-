@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1322**
-- Newly captured: **1**
+- Stored stories: **1325**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Luther Burden** — Luther Burden - Runs routes Saturday (2026-08-30T01:44:33Z)
+  - Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but he will have a couple weeks to try and get there before the Bears face the Panthers in Week 1.
 - **Carnell Tate** — Carnell Tate - One target to close out preseason (2026-08-30T01:29:48Z)
   - The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack right from a Week 1 home matchup against the Jets.
 - **Rashee Rice** — Rashee Rice - Logs 10 snaps in preseason finale (2026-08-29T23:36:05Z)
@@ -19,7 +21,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The 2023 first-round pick got the start in the Colts' preseason finale and led the team to field goals on his first two drives, but Riley Leonard came on in the second quarter and produced Indy's only TD of the afternoon. Richardson did avoid committing any turnovers, but Saturday's performances didn't do much to clarify who will begin the season as Daniel Jones' backup.
 - **Jake Bates** — Jake Bates - Rough performance in preseason finale (2026-08-29T21:53:32Z)
   - The Lions scored four touchdowns on the afternoon but failed on a two-point conversion on one of them. Bates hasn't looked great this preseason and converted a subpar 79.4 percent of his FG attempts in 2025, but as yet there's been no suggestion his spot is in jeopardy. Detroit's high-powered offense offers Bates a reliable floor in terms of PAT volume, but the unit's efficiency also limits his FG volume, and his fantasy ceiling -- he reached double-digit points in just seven of 17 regular-season games last season.
-- **NEW — Jalen Hurts** — Jalen Hurts Has Top-Five Upside Heading Into 2026 Season (2026-08-29T21:37:10Z)
+- **NEW — Michael Wilson** — Michael Wilson's Price Tag Cooling Off After Breakout Season (2026-08-29T21:48:16Z)
+  - Source: https://www.rotoballer.com/player-news/michael-wilsons-price-tag-cooling-off-after-breakout-season/1919395
+- **NEW — James Cook** — James Cook III Remains a Top-Tier Running Back to Target in Fantasy Drafts (2026-08-29T21:41:09Z)
+  - Source: https://www.rotoballer.com/player-news/james-cook-iii-remains-a-top-tier-running-back-to-target-in-fantasy-drafts/1919390
+- **Jalen Hurts** — Jalen Hurts Has Top-Five Upside Heading Into 2026 Season (2026-08-29T21:37:10Z)
   - Source: https://www.rotoballer.com/player-news/jalen-hurts-has-top-five-upside-heading-into-2026-season/1919384
 - **Drake London** — Drake London - Sees minimal work vs. Miami (2026-08-29T21:32:19Z)
   - London was limited to playing the first quarter of Friday's exhibition game before observing the rest of the contest from the sidelines. Entering his fifth NFL season, the USC product has recorded at least 68 catches and 850 receiving yards in each of his four years with Atlanta. London has been one of the most productive receivers since entering the league in 2022, but his offensive output will be heavily tied to the production of the Falcons' starting quarterback, whether that's Tua Tagovailoa or Michael Penix (knee).
@@ -206,9 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Jones played just eight offensive snaps in the contest, marking a quick end to the preseason for the veteran backup. Despite the poor outing, Jones is still the most likely No. 2 option at quarterback behind starter Brock Purdy. With Kurtis Rourke (ribs) dealing with an injury, Adrian Martinez will likely fill out the QB room as the team heads into Sunday's cutdown day.
 - **Jack Bech** — Jack Bech - Plays in finale (2026-08-28T23:08:17Z)
   - Bech played 20 offensive snaps in the contest, garnering attention just one time. The 2025 second-rounder is in a battle for starting wide receiver snaps. With Sunday's cutdown day rapidly approaching, the Raiders likely already know whether Bech, Dont'e Thornton, Dareke Young or Malik Benson will take on the No. 3 wide receiver role for the Week 1 matchup against the Dolphins.
-- **Omarion Hampton** — Omarion Hampton - Four snaps in preseason finale (2026-08-28T23:06:41Z)
-  - Hampton was on the field for the Chargers' first two offensive drives but did get a touch in Thursday's preseason finale. The 2025 first-rounder was limited to nine regular-season games in his rookie campaign due mostly to a fractured left ankle but still finished with 124 carries for 545 yards and four touchdowns while adding 32 catches (on 35 targets) for 192 yards and a score. Hampton is the lead back for the Chargers, but Kimani Vidal and Keaton Mitchell (undisclosed) both figure to see a fair amount of work in the scheme of new offensive coordinator Mike McDaniel.
-- **Harold Fannin** — Harold Fannin - Doesn't play Thursday vs. NE (2026-08-28T22:48:22Z)
-  - Fannin and several other Browns starters -- including Deshaun Watson, Quinshon Judkins and rookie wide receivers KC Concepcion and Denzel Boston -- were idle for Cleveland's preseason finale Thursday. Despite shaky quarterback play in 2025, Fannin was able to put together a productive rookie campaign, as he logged 72 catches (on 107 targets) for 731 yards and six touchdowns while adding seven carries for 13 yards and a score across 16 regular-season games. David Njoku is no longer with the Browns, so Fannin is the unquestioned TE1 on the depth chart and could be a go-to target for Watson in the passing game.
-- **Deebo Samuel** — Deebo Samuel Sr. a Potential Steal with 12th-Round Price Tag (2026-08-28T22:38:07Z)
-  - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-a-potential-steal-with-12th-round-price-tag/1918898
