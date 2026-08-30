@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-30T23:08:18Z",
+  "last_checked_at": "2026-08-30T23:18:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11565|fantasy_pros|604969|1788131159619"
+    "nfl|13281|fantasy_pros|604978|1788131759432",
+    "nfl|9753|rotowire|635463|1788131200000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Tyson is expected to miss roughly two months with a hamstring injury. He has been dealing with hamstring issues since college at Arizona State. ",
+      "description": "The Saints placed Jordyn Tyson on injured reserve.",
+      "metadata": {
+        "analysis": "Tyson is expected to miss roughly two months with a hamstring injury. He has been dealing with hamstring issues since college at Arizona State. ",
+        "description": "The Saints placed Jordyn Tyson on injured reserve.",
+        "title": "Jordyn Tyson (hamstring) placed on IR",
+        "topic_id": "1399929700884717568",
+        "url": "https://www.fantasypros.com/nfl/news/604978/jordyn-tyson-hamstring-placed-on-ir.php"
+      },
+      "nfl_team": "NO",
+      "player_id": "13281",
+      "player_name": "Jordyn Tyson",
+      "position": "WR",
+      "published": 1788131759432,
+      "source": "fantasy_pros",
+      "source_key": "604978",
+      "story_id": "nfl|13281|fantasy_pros|604978|1788131759432",
+      "title": "Jordyn Tyson (hamstring) placed on IR",
+      "url": "https://www.fantasypros.com/nfl/news/604978/jordyn-tyson-hamstring-placed-on-ir.php"
+    },
+    {
+      "analysis": "This move was merely procedural, as Charbonnet is still far away from returning to action following the ACL tear he suffered in his left knee in the divisional round on Jan. 17. In any case, he'll be sidelined for at least the first four contests of the season, while some combination of rookie first-round pick Jadarian Price and holdover George Holani will pace Seattle's backfield Week 1 and beyond.",
+      "description": "The Seahawks moved Charbonnet (knee) from the active/PUP list to the reserve/PUP list Sunday, Curtis Crabtree of Fox 13 Seattle reports.",
+      "metadata": {
+        "analysis": "This move was merely procedural, as Charbonnet is still far away from returning to action following the ACL tear he suffered in his left knee in the divisional round on Jan. 17. In any case, he'll be sidelined for at least the first four contests of the season, while some combination of rookie first-round pick Jadarian Price and holdover George Holani will pace Seattle's backfield Week 1 and beyond.",
+        "description": "The Seahawks moved Charbonnet (knee) from the active/PUP list to the reserve/PUP list Sunday, Curtis Crabtree of Fox 13 Seattle reports.",
+        "title": "Zach Charbonnet - Opening season on reserve/PUP list",
+        "topic_id": "1399928443373645824"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9753",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
+      "published": 1788131200000,
+      "source": "rotowire",
+      "source_key": "635463",
+      "story_id": "nfl|9753|rotowire|635463|1788131200000",
+      "title": "Zach Charbonnet - Opening season on reserve/PUP list",
+      "url": null
+    },
     {
       "analysis": "There was some speculation that McCarthy might be left off the initial roster. Those turned out to not be true as he officially makes it. He'll be behind Kyler Murray and potentially Carson Wentz as well to open the season. ",
       "description": "J.J. McCarthy has made the Vikings' initial 53-man roster.",
