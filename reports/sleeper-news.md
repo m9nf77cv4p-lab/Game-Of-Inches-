@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1381**
+- Stored stories: **1382**
 - Newly captured: **1**
 
 ## Latest news
@@ -37,6 +37,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/604939/tank-dell-knee-placed-on-ir-designated-to-return.php
 - **Taylen Green** — Taylen Green - Sticking around Cleveland (2026-08-30T21:24:31Z)
   - Green was selected in the sixth round of this year's draft after finishing his college career at Arkansas in 2025. The quarterback saw limited action during the preseason, completing five of seven passes for 27 yards while also adding an eight-yard rush. The Browns placed Dillon Gabriel (back) on injured reserve with a designation to return Sunday, and Green will get a chance to serve as the team's No. 3 QB behind Deshaun Watson and Sanders in Gabriel's absence.
+- **NEW — James Conner** — James Conner to Begin the Season on Injured Reserve (2026-08-30T19:52:12Z)
+  - Source: https://www.rotoballer.com/player-news/james-conner-to-begin-the-season-on-injured-reserve/1920010
 - **Jaydon Blue** — Jaydon Blue waived by the Dallas Cowboys (2026-08-30T19:50:58.595000Z)
   - Blue had trouble finding a role last year, a lot of which came due to character and work ethic concerns. While that seems to have changed heading into this season, it wasn't enough for him to avoid roster cuts. Dallas will now have Malik Davis as the primary backup behind Javonte Williams, with Phil Mafah and Hunter Luepke mixing in.
   - Source: https://www.fantasypros.com/nfl/news/604887/jaydon-blue-waived-by-dallas-cowboys.php
@@ -44,7 +46,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Dallas reportedly has moved on from two RBs on cut-down day, the other being Phil Mafah. The moves indicate that Malik Davis has claimed the No. 2 role behind starter Javonte Williams, though one or both of Blue and Mafah could wind up back on the team's practice squad if they clear waivers.
 - **MarShawn Lloyd** — MarShawn Lloyd - Now part of reconfigured backfield (2026-08-30T19:36:53Z)
   - Lloyd has appeared in just one regular-season game since being selected by the Packers in the third round of the 2024 NFL Draft, but with Jacobs out of action for the time being Lloyd is now the top available option on the depth chart. Both Johnson and Chris Brooks -- who excels at pass blocking -- figure to factor into the mix sans Jacobs, but with Johnson just joining the team, Lloyd now finds himself as the favorite to pick up carries.
-- **NEW — Puka Nacua** — Puka Nacua Back at Practice on Sunday (2026-08-30T19:34:46Z)
+- **Puka Nacua** — Puka Nacua Back at Practice on Sunday (2026-08-30T19:34:46Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacua-back-at-practice-on-sunday/1920001
 - **Josh Jacobs** — Josh Jacobs - Lands on Commissioner's Exempt List (2026-08-30T18:38:06Z)
   - Jacobs was officially charged Thursday with two misdemeanors stemming from his May arrest for a domestic incident in Brown County, Wis, with a court appearance scheduled for Nov. 17. For as long as he's on the list, he won't be able to practice or play in games, and there's no word on how long this may be his reality. Aside from Jacobs, the Packers backfield is occupied by MarShawn Lloyd, Chris Brooks and newcomer Kaleb Johnson, with Lloyd the likely favorite to handle the largest workload during Jacobs' absence.
@@ -218,5 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/cyrus-allen-plays-into-the-second-half-in-chiefs-preseason-finale/1919111
 - **Kaytron Allen** — Kaytron Allen Struggles in Limited Usage in Preseason Finale (2026-08-29T11:20:11Z)
   - Source: https://www.rotoballer.com/player-news/kaytron-allen-struggles-in-limited-usage-in-preseason-finale/1919105
-- **Chris Bell** — Chris Bell Leads Dolphins in Targets on Friday, Set for Key Role in Miami? (2026-08-29T11:09:07Z)
-  - Source: https://www.rotoballer.com/player-news/chris-bell-leads-dolphins-in-targets-on-friday-set-for-key-role-in-miami/1919091

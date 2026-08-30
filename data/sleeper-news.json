@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T23:48:13Z",
+  "last_checked_at": "2026-08-30T23:58:23Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|9493|rotoballer|219745|1788118486000"
+    "nfl|4137|rotoballer|219747|1788119532000"
   ],
   "schema_version": 1,
   "source": {
@@ -276,6 +276,26 @@
       "story_id": "nfl|13306|rotowire|635409|1788125071000",
       "title": "Taylen Green - Sticking around Cleveland",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back James Conner (foot) has been placed on injured reserve, according to John Gambadoro of Arizona Sports 98.7. Conner has been designated to return later in the season, which means he can rejoin the 53-man roster as early as Week 5. Conner was the overall RB11 with nine touchdowns in 2024, and he had 133 scrimmage yards through three games last year before suffering a season-ending ankle injury. Presumably, when Conner returns from IR, he'll find himself in a significantly smaller role than last year now that the team has added Jeremiyah Love and Tyler Allgeier to the backfield. Conner's NFL experience is useful, but it's probably not enough to get him onto the fantasy radar once he returns. He can be avoided in all redraft leagues, and he should be dropped to waivers in shallower dynasty formats.",
+      "metadata": {
+        "description": "Arizona Cardinals running back James Conner (foot) has been placed on injured reserve, according to John Gambadoro of Arizona Sports 98.7. Conner has been designated to return later in the season, which means he can rejoin the 53-man roster as early as Week 5. Conner was the overall RB11 with nine touchdowns in 2024, and he had 133 scrimmage yards through three games last year before suffering a season-ending ankle injury. Presumably, when Conner returns from IR, he'll find himself in a significantly smaller role than last year now that the team has added Jeremiyah Love and Tyler Allgeier to the backfield. Conner's NFL experience is useful, but it's probably not enough to get him onto the fantasy radar once he returns. He can be avoided in all redraft leagues, and he should be dropped to waivers in shallower dynasty formats.",
+        "title": "James Conner to Begin the Season on Injured Reserve",
+        "topic_id": "1399939761623306241",
+        "url": "https://www.rotoballer.com/player-news/james-conner-to-begin-the-season-on-injured-reserve/1920010"
+      },
+      "nfl_team": "ARI",
+      "player_id": "4137",
+      "player_name": "James Conner",
+      "position": "RB",
+      "published": 1788119532000,
+      "source": "rotoballer",
+      "source_key": "219747",
+      "story_id": "nfl|4137|rotoballer|219747|1788119532000",
+      "title": "James Conner to Begin the Season on Injured Reserve",
+      "url": "https://www.rotoballer.com/player-news/james-conner-to-begin-the-season-on-injured-reserve/1920010"
     },
     {
       "analysis": "Blue had trouble finding a role last year, a lot of which came due to character and work ethic concerns. While that seems to have changed heading into this season, it wasn't enough for him to avoid roster cuts. Dallas will now have Malik Davis as the primary backup behind Javonte Williams, with Phil Mafah and Hunter Luepke mixing in.",
