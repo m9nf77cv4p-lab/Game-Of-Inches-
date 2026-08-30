@@ -23560,8 +23560,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-29T22:13:24Z",
-    "source_fingerprint": "200b732fc901568edc4ab20e96dedb09c69d620fb789895099a5284a240fbef1"
+    "last_changed_at": "2026-08-29T23:43:49Z",
+    "source_fingerprint": "4635b1787017a5c80e09975f0d112ddde80fcd44e4b5f0f3ea0b5af0298f503c"
   },
   "teams": [
     {
@@ -23690,7 +23690,7 @@
         "SEA"
       ],
       "taxi_ids": [
-        "13279"
+        "13289"
       ],
       "team_name": "1st FOR RBs"
     },
