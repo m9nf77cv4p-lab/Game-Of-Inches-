@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T04:59:24Z",
+  "last_checked_at": "2026-08-30T05:09:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|7569|rotoballer|219696|1788051067000"
+    "nfl|6794|rotoballer|219697|1788051428000"
   ],
   "schema_version": 1,
   "source": {
@@ -112,6 +112,26 @@
       "story_id": "nfl|13279|rotowire|635243|1788053388000",
       "title": "Carnell Tate - One target to close out preseason",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings wide receiver Justin Jefferson may have trouble reaching his ceiling once again in 2026. Jefferson went from the WR2 in 2024 to the WR21 in 2025, with the main difference being that he was catching passes from a mix of J.J. McCarthy, Carson Wentz, and Max Brosmer. This upcoming season, Jefferson will be on the receiving end of passes from Kyler Murray. While the two have demonstrated a decent rapport this preseason, we're a bit concerned about what will happen when Murray starts to face defenders in a game environment. Both Marvin Harrison Jr. and Michael Wilson were somewhat quiet when they had Murray as their quarterback, so we can't quite guarantee that the ex-Cardinal will be an upgrade over McCarthy. At the very least, though, it's a fresh look for an offense that wants to return to its pre-2025 form. Jefferson is currently the WR6 in RotoBaller's redraft rankings, which indicates that the rankings experts are expecting him to bounce back in a huge way. It seems like most of the fantasy football community would agree, as Jefferson currently has an ADP of 12.4 (WR6).",
+      "metadata": {
+        "description": "Minnesota Vikings wide receiver Justin Jefferson may have trouble reaching his ceiling once again in 2026. Jefferson went from the WR2 in 2024 to the WR21 in 2025, with the main difference being that he was catching passes from a mix of J.J. McCarthy, Carson Wentz, and Max Brosmer. This upcoming season, Jefferson will be on the receiving end of passes from Kyler Murray. While the two have demonstrated a decent rapport this preseason, we're a bit concerned about what will happen when Murray starts to face defenders in a game environment. Both Marvin Harrison Jr. and Michael Wilson were somewhat quiet when they had Murray as their quarterback, so we can't quite guarantee that the ex-Cardinal will be an upgrade over McCarthy. At the very least, though, it's a fresh look for an offense that wants to return to its pre-2025 form. Jefferson is currently the WR6 in RotoBaller's redraft rankings, which indicates that the rankings experts are expecting him to bounce back in a huge way. It seems like most of the fantasy football community would agree, as Jefferson currently has an ADP of 12.4 (WR6).",
+        "title": "Justin Jefferson's Upside Remains Capped by Quarterback Situation",
+        "topic_id": "1399655360704303104",
+        "url": "https://www.rotoballer.com/player-news/justin-jeffersons-upside-remains-capped-by-quarterback-situation/1919420"
+      },
+      "nfl_team": "MIN",
+      "player_id": "6794",
+      "player_name": "Justin Jefferson",
+      "position": "WR",
+      "published": 1788051428000,
+      "source": "rotoballer",
+      "source_key": "219697",
+      "story_id": "nfl|6794|rotoballer|219697|1788051428000",
+      "title": "Justin Jefferson's Upside Remains Capped by Quarterback Situation",
+      "url": "https://www.rotoballer.com/player-news/justin-jeffersons-upside-remains-capped-by-quarterback-situation/1919420"
     },
     {
       "analysis": null,
