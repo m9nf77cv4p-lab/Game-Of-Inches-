@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-08-30T19:06:44Z",
+  "last_checked_at": "2026-08-30T19:36:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|9493|rotoballer|219729|1788103630000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -17,7 +19,7 @@
       "metadata": {
         "analysis": "Jacobs was officially charged Thursday with two misdemeanors stemming from his May arrest for a domestic incident in Brown County, Wis, with a court appearance scheduled for Nov. 17. For as long as he's on the list, he won't be able to practice or play in games, and there's no word on how long this may be his reality. Aside from Jacobs, the Packers backfield is occupied by MarShawn Lloyd, Chris Brooks and newcomer Kaleb Johnson, with Lloyd the likely favorite to handle the largest workload during Jacobs' absence.",
         "description": "The NFL placed Jacobs on the Commissioner's Exempt List on Sunday, Adam Schefter of ESPN reports.",
-        "title": "Josh Jacobs - Lands on Commissioner's Exempt list",
+        "title": "Josh Jacobs - Lands on Commissioner's Exempt List",
         "topic_id": "1399860484252921856"
       },
       "nfl_team": "GB",
@@ -28,7 +30,7 @@
       "source": "rotowire",
       "source_key": "635349",
       "story_id": "nfl|5850|rotowire|635349|1788115086000",
-      "title": "Josh Jacobs - Lands on Commissioner's Exempt list",
+      "title": "Josh Jacobs - Lands on Commissioner's Exempt List",
       "url": null
     },
     {
@@ -132,6 +134,26 @@
       "story_id": "nfl|13306|rotowire|635311|1788109013000",
       "title": "Taylen Green - Chance to make 53-man roster",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Puka Nacua is expected to avoid the Commissioner's Exempt List, according to Tom Pelissero. The NFL is not expected to place any additional players on paid leave Sunday, though Nacua's situation remains under league review. He is facing a civil lawsuit stemming from an alleged New Year's Eve incident, with his attorney disputing parts of the allegations. For now, Nacua remains available to the Rams. That's significant after he caught an NFL-high 129 passes for 1,715 yards and 10 touchdowns in 16 games last season. He also added 105 rushing yards and another score. Nacua avoiding the exempt list removes an immediate concern for fantasy managers heading toward Week 1, especially after Josh Jacobs was placed on it Sunday. The NFL review is still open, though, so Sunday's news should not be treated as a final ruling on whether Nacua could face discipline later.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Puka Nacua is expected to avoid the Commissioner's Exempt List, according to Tom Pelissero. The NFL is not expected to place any additional players on paid leave Sunday, though Nacua's situation remains under league review. He is facing a civil lawsuit stemming from an alleged New Year's Eve incident, with his attorney disputing parts of the allegations. For now, Nacua remains available to the Rams. That's significant after he caught an NFL-high 129 passes for 1,715 yards and 10 touchdowns in 16 games last season. He also added 105 rushing yards and another score. Nacua avoiding the exempt list removes an immediate concern for fantasy managers heading toward Week 1, especially after Josh Jacobs was placed on it Sunday. The NFL review is still open, though, so Sunday's news should not be treated as a final ruling on whether Nacua could face discipline later.",
+        "title": "Puka Nacua Expected to Avoid Commissioner's Exempt List",
+        "topic_id": "1399873065910833153",
+        "url": "https://www.rotoballer.com/player-news/puka-nacua-expected-to-avoid-commissioners-exempt-list/1919885"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1788103630000,
+      "source": "rotoballer",
+      "source_key": "219729",
+      "story_id": "nfl|9493|rotoballer|219729|1788103630000",
+      "title": "Puka Nacua Expected to Avoid Commissioner's Exempt List",
+      "url": "https://www.rotoballer.com/player-news/puka-nacua-expected-to-avoid-commissioners-exempt-list/1919885"
     },
     {
       "analysis": "Myers converted a 46-yard attempt in the first quarter but missed a PAT in the fourth quarter to keep Seattle's lead at 9-6. After the Chiefs tied the game, Myers missed an opportunity to give the Seahawks their only win of the preseason by pushing a 52-yard field-goal attempt wide right on the final play of the game. Myers missed his only field-goal attempt in Seattle's preseason opener against the Cowboys and went 1-for-2 on field-goal attempts while missing a PAT in the Seahawks' second preseason game. His preseason inaccuracy represents a significant departure from Myers' strong performance during the 2025 regular season, when he converted 41 of his league-high 48 field-goal attempts.",
