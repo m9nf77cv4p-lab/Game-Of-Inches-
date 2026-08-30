@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T01:27:08Z",
+  "last_checked_at": "2026-08-30T01:37:19Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|9229|rotoballer|219681|1788036869000"
+    "nfl|13279|rotowire|635243|1788053388000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack right from a Week 1 home matchup against the Jets.",
+      "description": "Tate failed to bring in his only target in the Titans' 24-15 preseason loss to the Bears on Saturday.",
+      "metadata": {
+        "analysis": "The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack right from a Week 1 home matchup against the Jets.",
+        "description": "Tate failed to bring in his only target in the Titans' 24-15 preseason loss to the Bears on Saturday.",
+        "title": "Carnell Tate - One target to close out preseason",
+        "topic_id": "1399601255273218048"
+      },
+      "nfl_team": "TEN",
+      "player_id": "13279",
+      "player_name": "Carnell Tate",
+      "position": "WR",
+      "published": 1788053388000,
+      "source": "rotowire",
+      "source_key": "635243",
+      "story_id": "nfl|13279|rotowire|635243|1788053388000",
+      "title": "Carnell Tate - One target to close out preseason",
+      "url": null
+    },
     {
       "analysis": "Rice and some of Kansas City's key offensive starters got to log some reps during the first quarter before being pulled. Though he didn't produce any offensive output, it's notable that Rice took part in his first game action since he landed on IR due to a concussion late last December. Rice had a tumultuous offseason, as he spent some time in jail due to a probation violation and also had a minor procedure on his right knee, but he appears healthy and isn't expected to face NFL discipline for the legal issue. As such, he can be penciled in as the Chiefs' top WR heading into Week 1 versus Denver on Monday, Sept. 14.",
       "description": "Rice played offensive 10 snaps in Kansas City's 9-9 exhibition tie with the Seahawks on Friday and did not record any targets or touches.",
