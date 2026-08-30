@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-08-30T17:46:34Z",
+  "last_checked_at": "2026-08-30T17:56:33Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|12504|fantasy_pros|604830|1788111957758",
-    "nfl|7588|rotoballer|219720|1788097144000"
+    "nfl|12504|rotoballer|219721|1788097512000",
+    "nfl|12504|rotowire|635330|1788111911000"
   ],
   "schema_version": 1,
   "source": {
@@ -34,6 +34,26 @@
       "story_id": "nfl|12504|fantasy_pros|604830|1788111957758",
       "title": "Kaleb Johnson traded to Packers",
       "url": "https://www.fantasypros.com/nfl/news/604830/kaleb-johnson-traded-to-packers.php"
+    },
+    {
+      "analysis": "Johnson thus will get a fresh start in Green Bay after the third-round investment made in him last year didn't pan out in Pittsburgh. Working behind Jaylen Warren and Kenny Gainwell in 2025, Johnson turned 28 carries into just 69 yards (2.5 YPC) and no touchdowns while hauling in one of two targets for nine yards in 10 regular-season appearances as a rookie. Johnson will join a Green Bay backfield led by Josh Jacobs (groin) and backed up by MarShawn Lloyd and Chris Brooks.",
+      "description": "The Steelers are expected to trade Johnson to the Packers, Jeremy Fowler of ESPN reports.",
+      "metadata": {
+        "analysis": "Johnson thus will get a fresh start in Green Bay after the third-round investment made in him last year didn't pan out in Pittsburgh. Working behind Jaylen Warren and Kenny Gainwell in 2025, Johnson turned 28 carries into just 69 yards (2.5 YPC) and no touchdowns while hauling in one of two targets for nine yards in 10 regular-season appearances as a rookie. Johnson will join a Green Bay backfield led by Josh Jacobs (groin) and backed up by MarShawn Lloyd and Chris Brooks.",
+        "description": "The Steelers are expected to trade Johnson to the Packers, Jeremy Fowler of ESPN reports.",
+        "title": "Kaleb Johnson - Getting moved to Packers",
+        "topic_id": "1399847900527235072"
+      },
+      "nfl_team": "PIT",
+      "player_id": "12504",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "published": 1788111911000,
+      "source": "rotowire",
+      "source_key": "635330",
+      "story_id": "nfl|12504|rotowire|635330|1788111911000",
+      "title": "Kaleb Johnson - Getting moved to Packers",
+      "url": null
     },
     {
       "analysis": "Green is fourth on the team's quarterback depth chart behind Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The mobile rookie sixth-round pick out of Arkansas is raw as a passer but has intriguing rushing upside. Cleveland would have to release one of the players ahead of Green or carry four quarterbacks to keep him on the roster, which could leave the Browns shorthanded in depth at another position.",
@@ -94,6 +114,26 @@
       "story_id": "nfl|4217|rotowire|635292|1788101861000",
       "title": "George Kittle - Expected to practice this week",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Pittsburgh Steelers are trading running back Kaleb Johnson to the Green Bay Packers, according to Jeremy Fowler. The move comes with some uncertainty surrounding Josh Jacobs, who was formally charged with two misdemeanors Thursday and could still face discipline from the NFL. Packers general manager Brian Gutekunst said earlier this week that the team had been preparing for the possibility of a Jacobs suspension, although there has been no indication that the Johnson trade was made specifically because of that situation. Johnson moves on after a quiet rookie season in Pittsburgh, where the 2025 third-round pick managed just 69 yards on 28 carries in 10 games. He was much more productive during his final season at Iowa, rushing for 1,537 yards and 21 touchdowns. Green Bay already has Chris Brooks, MarShawn Lloyd and Pierre Strong Jr. behind Jacobs, so Johnson isn't guaranteed a meaningful role. Adding another back now, though, gives the Packers more insurance while Jacobs' Week 1 availability remains unsettled.",
+      "metadata": {
+        "description": "The Pittsburgh Steelers are trading running back Kaleb Johnson to the Green Bay Packers, according to Jeremy Fowler. The move comes with some uncertainty surrounding Josh Jacobs, who was formally charged with two misdemeanors Thursday and could still face discipline from the NFL. Packers general manager Brian Gutekunst said earlier this week that the team had been preparing for the possibility of a Jacobs suspension, although there has been no indication that the Johnson trade was made specifically because of that situation. Johnson moves on after a quiet rookie season in Pittsburgh, where the 2025 third-round pick managed just 69 yards on 28 carries in 10 games. He was much more productive during his final season at Iowa, rushing for 1,537 yards and 21 touchdowns. Green Bay already has Chris Brooks, MarShawn Lloyd and Pierre Strong Jr. behind Jacobs, so Johnson isn't guaranteed a meaningful role. Adding another back now, though, gives the Packers more insurance while Jacobs' Week 1 availability remains unsettled.",
+        "title": "Kaleb Johnson Traded to Packers",
+        "topic_id": "1399849156356386816",
+        "url": "https://www.rotoballer.com/player-news/kaleb-johnson-traded-to-packers/1919749"
+      },
+      "nfl_team": "PIT",
+      "player_id": "12504",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "published": 1788097512000,
+      "source": "rotoballer",
+      "source_key": "219721",
+      "story_id": "nfl|12504|rotoballer|219721|1788097512000",
+      "title": "Kaleb Johnson Traded to Packers",
+      "url": "https://www.rotoballer.com/player-news/kaleb-johnson-traded-to-packers/1919749"
     },
     {
       "analysis": null,

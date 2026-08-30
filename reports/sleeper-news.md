@@ -2,21 +2,25 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1353**
+- Stored stories: **1355**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Kaleb Johnson** — Kaleb Johnson traded to Packers (2026-08-30T17:45:57.758000Z)
+- **Kaleb Johnson** — Kaleb Johnson traded to Packers (2026-08-30T17:45:57.758000Z)
   - Details of the trade are still being finalized between the two organizations, with Johnson receiving the fresh start the running back desperately needs after falling out of favor in a Pittsburgh backfield that will be led by the duo of Jaylen Warren and Rico Dowdle this upcoming season. Johnson's role should become clearer as the National Football League continues their investigation into No. 1 running back Josh Jacobs, potentially resulting in a backup opportunity behind current No. 2 option MarShawn Lloyd.
   - Source: https://www.fantasypros.com/nfl/news/604830/kaleb-johnson-traded-to-packers.php
+- **NEW — Kaleb Johnson** — Kaleb Johnson - Getting moved to Packers (2026-08-30T17:45:11Z)
+  - Johnson thus will get a fresh start in Green Bay after the third-round investment made in him last year didn't pan out in Pittsburgh. Working behind Jaylen Warren and Kenny Gainwell in 2025, Johnson turned 28 carries into just 69 yards (2.5 YPC) and no touchdowns while hauling in one of two targets for nine yards in 10 regular-season appearances as a rookie. Johnson will join a Green Bay backfield led by Josh Jacobs (groin) and backed up by MarShawn Lloyd and Chris Brooks.
 - **Taylen Green** — Taylen Green - Chance to make 53-man roster (2026-08-30T16:56:53Z)
   - Green is fourth on the team's quarterback depth chart behind Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The mobile rookie sixth-round pick out of Arkansas is raw as a passer but has intriguing rushing upside. Cleveland would have to release one of the players ahead of Green or carry four quarterbacks to keep him on the roster, which could leave the Browns shorthanded in depth at another position.
 - **Jason Myers** — Jason Myers - Five missed kicks in preseason (2026-08-30T15:21:12Z)
   - Myers converted a 46-yard attempt in the first quarter but missed a PAT in the fourth quarter to keep Seattle's lead at 9-6. After the Chiefs tied the game, Myers missed an opportunity to give the Seahawks their only win of the preseason by pushing a 52-yard field-goal attempt wide right on the final play of the game. Myers missed his only field-goal attempt in Seattle's preseason opener against the Cowboys and went 1-for-2 on field-goal attempts while missing a PAT in the Seahawks' second preseason game. His preseason inaccuracy represents a significant departure from Myers' strong performance during the 2025 regular season, when he converted 41 of his league-high 48 field-goal attempts.
 - **George Kittle** — George Kittle - Expected to practice this week (2026-08-30T14:57:41Z)
   - With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up versus the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.
-- **NEW — Javonte Williams** — Javonte Williams Leaves August Firmly in Control of Backfield (2026-08-30T13:39:04Z)
+- **NEW — Kaleb Johnson** — Kaleb Johnson Traded to Packers (2026-08-30T13:45:12Z)
+  - Source: https://www.rotoballer.com/player-news/kaleb-johnson-traded-to-packers/1919749
+- **Javonte Williams** — Javonte Williams Leaves August Firmly in Control of Backfield (2026-08-30T13:39:04Z)
   - Source: https://www.rotoballer.com/player-news/javonte-williams-leaves-august-firmly-in-control/1919722
 - **Davante Adams** — Davante Adams Has Helped His Redraft Case This Summer (2026-08-30T13:26:08Z)
   - Source: https://www.rotoballer.com/player-news/davante-adams-has-helped-his-redraft-case-this-summer/1919713
@@ -210,7 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Little's long-distance boot, which came with just over 10 minutes remaining in the second quarter, was undeniably impressive but not out of the norm for the third-year star. He went 13-for-16 on kicks from 50 yards and longer over 34 regular-season games in his first two campaigns, and he wraps up preseason having gone 7-for-7 on field-goal attempts while also knocking home his only PAT.
 - **Brian Robinson** — Brian Robinson - TD, fumble in preseason finale (2026-08-29T02:29:35Z)
   - Robinson played the first quarter with most of Atlanta's starters as the Falcons held Bijan Robinson out of the exhibition slate. The offseason acquisition capped the opening drive with a three-yard touchdown run but lost a fumble two drives later, matching Tua Tagovailoa's fumble on the possession in between. Come Week 1 against the Steelers, Brian is expected to work as Bijan's top backup in an all-Robinson 1-2 punch.
-- **Kyle Pitts** — Kyle Pitts - Productive preseason finale (2026-08-29T02:24:16Z)
-  - Pitts has shown excellent chemistry with QB Tua Tagovailoa during the preseason, accounting for 81 of Tagovailoa's 117 passing yards across parts of two preseason games. It remains to be seen whether Tagovailoa or Michael Penix (knee) will get the starting nod under center for Week 1 against the Steelers. Either way, Pitts is poised to maintain a prominent role on the heels of his 928-yard 2025 regular season.
-- **Tua Tagovailoa** — Tua Tagovailoa - Accurate in preseason finale (2026-08-29T02:20:42Z)
-  - Tagovailoa played the first quarter of Atlanta's preseason finale and completed all but one pass, but two of Atlanta's three possessions during that span ended in fumbles. Following an opening-drive Brian Robinson rushing touchdown, Tua fumbled on the first play of the next drive and Robinson fumbled to end Atlanta's third possession. Michael Penix (knee) has gained clearance to participate in 11-on-11 drills, but the 2024 first-round pick has yet to progress to game availability. Head coach Kevin Stefanski has yet to name a Week 1 starter between Penix and Tagovailoa, the latter of whom didn't throw a touchdown pass in two preseason outings.
