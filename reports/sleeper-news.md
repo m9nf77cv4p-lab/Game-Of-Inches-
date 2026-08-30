@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1332**
-- Newly captured: **1**
+- Stored stories: **1334**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -17,9 +17,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but coach Ben Johnson said after Saturday's game that the wideout "looks 100 percent," per Jason Lieser of the Chicago Sun-Times, so the expectation is that he'll be ready to go for Week 1 of the regular season versus the Panthers.
 - **Carnell Tate** — Carnell Tate - One target to close out preseason (2026-08-30T01:29:48Z)
   - The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack beginning with a Week 1 home matchup against the Jets.
+- **NEW — DeVonta Smith** — DeVonta Smith Taking on WR1 Responsibilities in 2026 (2026-08-30T00:20:08Z)
+  - Source: https://www.rotoballer.com/player-news/devonta-smith-taking-on-wr1-responsibilities-in-2026/1919414
+- **NEW — Harold Fannin** — Harold Fannin Jr. Has Position All to Himself, Comes with a Steep Price Tag (2026-08-30T00:17:10Z)
+  - Source: https://www.rotoballer.com/player-news/harold-fannin-jr-has-position-all-to-himself-comes-with-a-steep-price-tag/1919412
 - **Rashee Rice** — Rashee Rice - Logs 10 snaps in preseason finale (2026-08-29T23:36:05Z)
   - Rice and some of Kansas City's key offensive starters got to log some reps during the first quarter before being pulled. Though he didn't produce any offensive output, it's notable that Rice took part in his first game action since he landed on IR due to a concussion late last December. Rice had a tumultuous offseason, as he spent some time in jail due to a probation violation and also had a minor procedure on his right knee, but he appears healthy and isn't expected to face NFL discipline for the legal issue. As such, he can be penciled in as the Chiefs' top WR heading into Week 1 versus Denver on Monday, Sept. 14.
-- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba Worth the Investment in First Round of Fantasy Drafts (2026-08-29T23:31:39Z)
+- **Jaxon Smith-Njigba** — Jaxon Smith-Njigba Worth the Investment in First Round of Fantasy Drafts (2026-08-29T23:31:39Z)
   - Source: https://www.rotoballer.com/player-news/jaxon-smith-njigba-worth-the-investment-in-first-round-of-fantasy-drafts/1919410
 - **Colston Loveland** — Colston Loveland Has a Premium Price Tag in Fantasy Drafts (2026-08-29T23:22:11Z)
   - Source: https://www.rotoballer.com/player-news/colston-loveland-has-a-premium-price-tag-in-fantasy-drafts/1919407
@@ -208,7 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/matthew-stafford-remains-a-qb1-despite-lack-of-rushing-upside/1918917
 - **Tre' Harris** — Tre' Harris - Idle for preseason finale (2026-08-28T23:40:00Z)
   - Harris will end up not playing a single preseason game, missing the last two while working through an undisclosed injury. Despite the lack of on-field playing time, there's no indication that the 2025 second-rounder is in jeopardy of missing the Chargers' regular-season opener against the Cardinals on Sunday, Sept. 13. Following the departure of Keenan Allen, Harris figures to serve as the Chargers' WR3 this season behind Ladd McConkey and Quentin Johnston.
-- **Kimani Vidal** — Kimani Vidal - Tallies six snaps in preseason finale (2026-08-28T23:38:37Z)
-  - Top RB Omarion Hampton started for the Chargers and played two series. Vidal followed and rushed for five yards on his first carry before taking a 1-yard loss on the next play. He was on the field for a few more snaps during the Chargers' next series before calling it a day. Keaton Mitchell (undisclosed) didn't play in the contest, and it's unclear what precise issue he's dealing with it or how long he'll be sidelined. There's been no indication to this point that Mitchell is in danger of missing Week 1 of the regular season, but if that were to change, Vidal would be slated for an increased role behind Hampton.
-- **Ladd McConkey** — Ladd McConkey - Plays three snaps vs. Rams (2026-08-28T23:36:03Z)
-  - McConkey was on the field for each of the Chargers' first two series before observing the rest of Thursday's exhibition contest from the sidelines. The 2024 second-rounder is the top wide receiver on the Chargers' depth chart following the departure of veteran Keenan Allen, and McConkey should be one of Justin Herbert's go-to targets in the passing game. McConkey caught 66 passes (on 106 targets) for 789 yards and six touchdowns across 16 regular-season games last year.

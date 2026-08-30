@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-30T03:48:44Z",
+  "last_checked_at": "2026-08-30T04:29:13Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|9488|rotoballer|219692|1788046299000"
+    "nfl|12506|rotoballer|219694|1788049030000",
+    "nfl|7525|rotoballer|219693|1788049208000"
   ],
   "schema_version": 1,
   "source": {
@@ -112,6 +113,46 @@
       "story_id": "nfl|13279|rotowire|635243|1788053388000",
       "title": "Carnell Tate - One target to close out preseason",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles wide receiver DeVonta Smith will occupy a much bigger role this season following the departure of former teammate A.J. Brown via trade. Smith has been a top-20 fantasy receiver in three of his last four seasons, including a finish as the overall WR20 in PPR leagues last year. He was healthy for all 17 games in 2025, catching 77 passes for 1,008 yards and a career-low four touchdowns. We're not expecting a major bump in touchdowns since the Eagles like to run the ball around the goal line, but Smith certainly should earn more targets, catches, and yards with Brown gone. Plus, as one of the most talented No. 2 receivers in years past, Smith should have no trouble adapting to the No. 1 role, even though it means he'll be going up against other teams' top cornerbacks. Smith has jumped to WR13 in RotoBaller's latest redraft rankings, and he currently has an ADP of 32.1 (WR14).",
+      "metadata": {
+        "description": "Philadelphia Eagles wide receiver DeVonta Smith will occupy a much bigger role this season following the departure of former teammate A.J. Brown via trade. Smith has been a top-20 fantasy receiver in three of his last four seasons, including a finish as the overall WR20 in PPR leagues last year. He was healthy for all 17 games in 2025, catching 77 passes for 1,008 yards and a career-low four touchdowns. We're not expecting a major bump in touchdowns since the Eagles like to run the ball around the goal line, but Smith certainly should earn more targets, catches, and yards with Brown gone. Plus, as one of the most talented No. 2 receivers in years past, Smith should have no trouble adapting to the No. 1 role, even though it means he'll be going up against other teams' top cornerbacks. Smith has jumped to WR13 in RotoBaller's latest redraft rankings, and he currently has an ADP of 32.1 (WR14).",
+        "title": "DeVonta Smith Taking on WR1 Responsibilities in 2026",
+        "topic_id": "1399645293443575808",
+        "url": "https://www.rotoballer.com/player-news/devonta-smith-taking-on-wr1-responsibilities-in-2026/1919414"
+      },
+      "nfl_team": "PHI",
+      "player_id": "7525",
+      "player_name": "DeVonta Smith",
+      "position": "WR",
+      "published": 1788049208000,
+      "source": "rotoballer",
+      "source_key": "219693",
+      "story_id": "nfl|7525|rotoballer|219693|1788049208000",
+      "title": "DeVonta Smith Taking on WR1 Responsibilities in 2026",
+      "url": "https://www.rotoballer.com/player-news/devonta-smith-taking-on-wr1-responsibilities-in-2026/1919414"
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns tight end Harold Fannin Jr. faces minimal competition within his position group, setting him up for another big year in fantasy football. Fannin excelled as a rookie last year, despite dealing with inconsistent quarterback play and losing some volume to David Njoku. He finished his first pro season with 72 catches, 731 yards, and six touchdowns, ranking as the overall TE6 in PPR leagues. While subpar quarterback play likely awaits Fannin again in Year 2, he now has the tight end room all to himself after Njoku left in free agency. As a result, we can expect the Bowling Green product to rank as a mid-range TE1 once again this year. The only bad news is that his price tag has already adjusted to these 2026 expectations; he currently has an ADP of 80.6, which corresponds to the seventh round and makes him the eighth tight end off the board. You're not getting him at a discount, but you're not necessarily overpaying either. Fannin is being drafted ahead of George Kittle, Travis Kelce, and Dallas Goedert, so managers will have some difficult decisions to make at the tight end position in the middle rounds of drafts this year.",
+      "metadata": {
+        "description": "Cleveland Browns tight end Harold Fannin Jr. faces minimal competition within his position group, setting him up for another big year in fantasy football. Fannin excelled as a rookie last year, despite dealing with inconsistent quarterback play and losing some volume to David Njoku. He finished his first pro season with 72 catches, 731 yards, and six touchdowns, ranking as the overall TE6 in PPR leagues. While subpar quarterback play likely awaits Fannin again in Year 2, he now has the tight end room all to himself after Njoku left in free agency. As a result, we can expect the Bowling Green product to rank as a mid-range TE1 once again this year. The only bad news is that his price tag has already adjusted to these 2026 expectations; he currently has an ADP of 80.6, which corresponds to the seventh round and makes him the eighth tight end off the board. You're not getting him at a discount, but you're not necessarily overpaying either. Fannin is being drafted ahead of George Kittle, Travis Kelce, and Dallas Goedert, so managers will have some difficult decisions to make at the tight end position in the middle rounds of drafts this year.",
+        "title": "Harold Fannin Jr. Has Position All to Himself, Comes with a Steep Price Tag",
+        "topic_id": "1399645293439381504",
+        "url": "https://www.rotoballer.com/player-news/harold-fannin-jr-has-position-all-to-himself-comes-with-a-steep-price-tag/1919412"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12506",
+      "player_name": "Harold Fannin",
+      "position": "TE",
+      "published": 1788049030000,
+      "source": "rotoballer",
+      "source_key": "219694",
+      "story_id": "nfl|12506|rotoballer|219694|1788049030000",
+      "title": "Harold Fannin Jr. Has Position All to Himself, Comes with a Steep Price Tag",
+      "url": "https://www.rotoballer.com/player-news/harold-fannin-jr-has-position-all-to-himself-comes-with-a-steep-price-tag/1919412"
     },
     {
       "analysis": "Rice and some of Kansas City's key offensive starters got to log some reps during the first quarter before being pulled. Though he didn't produce any offensive output, it's notable that Rice took part in his first game action since he landed on IR due to a concussion late last December. Rice had a tumultuous offseason, as he spent some time in jail due to a probation violation and also had a minor procedure on his right knee, but he appears healthy and isn't expected to face NFL discipline for the legal issue. As such, he can be penciled in as the Chiefs' top WR heading into Week 1 versus Denver on Monday, Sept. 14.",
