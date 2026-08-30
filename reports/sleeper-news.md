@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1330**
-- Newly captured: **0**
+- Stored stories: **1331**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -19,6 +19,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack beginning with a Week 1 home matchup against the Jets.
 - **Rashee Rice** — Rashee Rice - Logs 10 snaps in preseason finale (2026-08-29T23:36:05Z)
   - Rice and some of Kansas City's key offensive starters got to log some reps during the first quarter before being pulled. Though he didn't produce any offensive output, it's notable that Rice took part in his first game action since he landed on IR due to a concussion late last December. Rice had a tumultuous offseason, as he spent some time in jail due to a probation violation and also had a minor procedure on his right knee, but he appears healthy and isn't expected to face NFL discipline for the legal issue. As such, he can be penciled in as the Chiefs' top WR heading into Week 1 versus Denver on Monday, Sept. 14.
+- **NEW — Colston Loveland** — Colston Loveland Has a Premium Price Tag in Fantasy Drafts (2026-08-29T23:22:11Z)
+  - Source: https://www.rotoballer.com/player-news/colston-loveland-has-a-premium-price-tag-in-fantasy-drafts/1919407
 - **Keenan Allen** — Keenan Allen - One catch in first preseason game for Indy (2026-08-29T22:24:59Z)
   - Having just signed with Indianapolis less than two weeks ago, Allen saw his first game action for his new club and quickly produced a big gain on Anthony Richardson's first pass attempt of the afternoon, helping to set up a field goal. Top wideouts Alec Pierce (ankle) and Josh Downs (calf), as well as top tight end Tyler Warren (groin), are all carrying injury designations to close out the preseason, so Allen could end up having a bigger role in the passing attack than expected once Week 1 rolls around. The 34-year-old showed he can still be an effective possession option in 2025 with the Chargers, delivering an 81-777-4 line on 122 targets while playing all 17 regular-season contests.
 - **Zachariah Branch** — Zachariah Branch - Returns punt in preseason win (2026-08-29T21:59:56Z)
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - McConkey was on the field for each of the Chargers' first two series before observing the rest of Thursday's exhibition contest from the sidelines. The 2024 second-rounder is the top wide receiver on the Chargers' depth chart following the departure of veteran Keenan Allen, and McConkey should be one of Justin Herbert's go-to targets in the passing game. McConkey caught 66 passes (on 106 targets) for 789 yards and six touchdowns across 16 regular-season games last year.
 - **David Njoku** — David Njoku - Wraps up exhibition slate with limited work (2026-08-28T23:28:06Z)
   - Njoku worked behind starter Charlie Kolar and ahead of Oronde Gadsden in the contest. During the exhibition slate, Kolar and starting QB Justin Herbert were on the field together for six snaps, while Njoku logged five snaps with Herbert and Gadsden registered just one. That could be an indication of the pecking order during the regular season as well, as Kolar is considered the superior blocker of the trio and Gadsden the top pass catcher, with Njoku being competent in both areas.
-- **Devin Singletary** — Devin Singletary - Not playing in preseason finale (2026-08-28T23:23:50Z)
-  - The same can be said for No. 1 RB Cam Skattebo, while position mates Tyrone Tracy and Najee Harris are candidates to get some run in the Giants' exhibition finale. The rest would seem to indicate Singletary's roster spot is secure, but it's not exactly clear how things will shake out behind Cam Skattebo with Harris in the mix.
