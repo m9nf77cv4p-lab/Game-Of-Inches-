@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1325**
+- Stored stories: **1328**
 - Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Luther Burden** — Luther Burden - Runs routes Saturday (2026-08-30T01:44:33Z)
+- **NEW — Nicholas Singleton** — Nicholas Singleton - Tallies 44 scrimmage yards Saturday (2026-08-30T02:01:29Z)
+  - The rookie fifth-round pick led the Titans in rush attempts on the night and finished second behind D'Ernest Johnson and quarterback Hendon Hooker in rushing yards. Singleton was the first Tennessee back to log a touch, gaining six yards with his first carry on second play from scrimmage. Singleton finished preseason having rushed 15 times for 57 yards alongside Saturday's 2-18-0 receiving line across two games, and he'll now wait to see if those numbers were enough to garner him the No. 3 running back role.
+- **Luther Burden** — Luther Burden - Runs routes Saturday (2026-08-30T01:44:33Z)
   - Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but he will have a couple weeks to try and get there before the Bears face the Panthers in Week 1.
 - **Carnell Tate** — Carnell Tate - One target to close out preseason (2026-08-30T01:29:48Z)
   - The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack right from a Week 1 home matchup against the Jets.
@@ -19,11 +21,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Branch didn't see much action Friday, playing a total of four snaps (three on offense, one on special teams). However, his lone snap on special teams came as a punt returner, and he figures to see plenty of work as a returner in the upcoming season, especially if he doesn't get much playing time on offense behind Drake London, Jahan Dotson and Olamide Zaccheaus.
 - **Anthony Richardson** — Anthony Richardson - Efficient in final exhibition game (2026-08-29T21:59:38Z)
   - The 2023 first-round pick got the start in the Colts' preseason finale and led the team to field goals on his first two drives, but Riley Leonard came on in the second quarter and produced Indy's only TD of the afternoon. Richardson did avoid committing any turnovers, but Saturday's performances didn't do much to clarify who will begin the season as Daniel Jones' backup.
+- **NEW — Cam Skattebo** — Deep Backfield Could Actually Help Cam Skattebo in 2026 (2026-08-29T21:59:08Z)
+  - Source: https://www.rotoballer.com/player-news/deep-backfield-could-actually-help-cam-skattebo-in-2026/1919401
+- **NEW — Christian McCaffrey** — Christian McCaffrey a Top Target in Drafts Despite Steep Price Tag (2026-08-29T21:54:07Z)
+  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-a-top-target-in-drafts-despite-steep-price-tag/1919399
 - **Jake Bates** — Jake Bates - Rough performance in preseason finale (2026-08-29T21:53:32Z)
   - The Lions scored four touchdowns on the afternoon but failed on a two-point conversion on one of them. Bates hasn't looked great this preseason and converted a subpar 79.4 percent of his FG attempts in 2025, but as yet there's been no suggestion his spot is in jeopardy. Detroit's high-powered offense offers Bates a reliable floor in terms of PAT volume, but the unit's efficiency also limits his FG volume, and his fantasy ceiling -- he reached double-digit points in just seven of 17 regular-season games last season.
-- **NEW — Michael Wilson** — Michael Wilson's Price Tag Cooling Off After Breakout Season (2026-08-29T21:48:16Z)
+- **Michael Wilson** — Michael Wilson's Price Tag Cooling Off After Breakout Season (2026-08-29T21:48:16Z)
   - Source: https://www.rotoballer.com/player-news/michael-wilsons-price-tag-cooling-off-after-breakout-season/1919395
-- **NEW — James Cook** — James Cook III Remains a Top-Tier Running Back to Target in Fantasy Drafts (2026-08-29T21:41:09Z)
+- **James Cook** — James Cook III Remains a Top-Tier Running Back to Target in Fantasy Drafts (2026-08-29T21:41:09Z)
   - Source: https://www.rotoballer.com/player-news/james-cook-iii-remains-a-top-tier-running-back-to-target-in-fantasy-drafts/1919390
 - **Jalen Hurts** — Jalen Hurts Has Top-Five Upside Heading Into 2026 Season (2026-08-29T21:37:10Z)
   - Source: https://www.rotoballer.com/player-news/jalen-hurts-has-top-five-upside-heading-into-2026-season/1919384
@@ -206,9 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Mitchell experienced a setback for an unspecified injury in practice earlier in the week, so his absence from Thursday's preseason finale was likely a precautionary move. The nature and severity of Mitchell's injury is not clear, but there's been no indication that he's in danger of missing the Chargers' Week 1 clash against the Cardinals on Sunday, Sept. 13. The fourth-year pro inked a two-year contract with the Chargers in March after spending the first three years of his NFL career with the Ravens. He's expected to work in rotation with Kimani Vidal behind starting running back Omarion Hampton.
 - **Malik Nabers** — Malik Nabers - Not in uniform Friday (2026-08-28T23:18:26Z)
   - Nabers has been an active participant during most of training camp and finally ditched the non-contact red jersey at Monday's practice, but he won't make an appearance during exhibition season as he continues to put last season's torn right ACL further in the rearview mirror. He'll continue to ramp up in advance of a Week 1 matchup with the Cowboys on Sunday, Sept. 13.
-- **Oronde Gadsden** — Oronde Gadsden - Logs limited work in preseason finale (2026-08-28T23:18:22Z)
-  - For the second straight week, Gadsden worked in a reserve role behind Charlie Kolar and David Njoku. While snap counts during preseason play aren't generally reflective of what will happen during the regular season, it could be telling that Gadsden saw only one offensive snap with Justin Herbert on the field during the exhibition slate while fellow tight ends Charlie Kolar and David Njoku logged six and five snaps, respectively, in that scenario. Despite Gadsden's promising rookie campaign last year, he could be looking at a reduced role behind Kolar and Njoku -- both of whom are regarded as better blockers -- in new offensive coordinator Mike McDaniel's system.
-- **Mac Jones** — Mac Jones - Quick appearance in preseason finale (2026-08-28T23:12:00Z)
-  - Jones played just eight offensive snaps in the contest, marking a quick end to the preseason for the veteran backup. Despite the poor outing, Jones is still the most likely No. 2 option at quarterback behind starter Brock Purdy. With Kurtis Rourke (ribs) dealing with an injury, Adrian Martinez will likely fill out the QB room as the team heads into Sunday's cutdown day.
-- **Jack Bech** — Jack Bech - Plays in finale (2026-08-28T23:08:17Z)
-  - Bech played 20 offensive snaps in the contest, garnering attention just one time. The 2025 second-rounder is in a battle for starting wide receiver snaps. With Sunday's cutdown day rapidly approaching, the Raiders likely already know whether Bech, Dont'e Thornton, Dareke Young or Malik Benson will take on the No. 3 wide receiver role for the Week 1 matchup against the Dolphins.

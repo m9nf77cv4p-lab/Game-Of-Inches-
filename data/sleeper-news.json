@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-08-30T01:57:24Z",
+  "last_checked_at": "2026-08-30T02:07:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|10232|rotoballer|219687|1788040096000",
-    "nfl|12519|rotowire|635245|1788054273000",
-    "nfl|8138|rotoballer|219686|1788039669000"
+    "nfl|12481|rotoballer|219689|1788040748000",
+    "nfl|13288|rotowire|635249|1788055289000",
+    "nfl|4034|rotoballer|219688|1788040447000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The rookie fifth-round pick led the Titans in rush attempts on the night and finished second behind D'Ernest Johnson and quarterback Hendon Hooker in rushing yards. Singleton was the first Tennessee back to log a touch, gaining six yards with his first carry on second play from scrimmage. Singleton finished preseason having rushed 15 times for 57 yards alongside Saturday's 2-18-0 receiving line across two games, and he'll now wait to see if those numbers were enough to garner him the No. 3 running back role.",
+      "description": "Singleton rushed seven times for 26 yards and brought in both targets for 18 yards in the Titans' 24-15 preseason loss to the Bears on Saturday.",
+      "metadata": {
+        "analysis": "The rookie fifth-round pick led the Titans in rush attempts on the night and finished second behind D'Ernest Johnson and quarterback Hendon Hooker in rushing yards. Singleton was the first Tennessee back to log a touch, gaining six yards with his first carry on second play from scrimmage. Singleton finished preseason having rushed 15 times for 57 yards alongside Saturday's 2-18-0 receiving line across two games, and he'll now wait to see if those numbers were enough to garner him the No. 3 running back role.",
+        "description": "Singleton rushed seven times for 26 yards and brought in both targets for 18 yards in the Titans' 24-15 preseason loss to the Bears on Saturday.",
+        "title": "Nicholas Singleton - Tallies 44 scrimmage yards Saturday",
+        "topic_id": "1399610063051624448"
+      },
+      "nfl_team": "TEN",
+      "player_id": "13288",
+      "player_name": "Nicholas Singleton",
+      "position": "RB",
+      "published": 1788055289000,
+      "source": "rotowire",
+      "source_key": "635249",
+      "story_id": "nfl|13288|rotowire|635249|1788055289000",
+      "title": "Nicholas Singleton - Tallies 44 scrimmage yards Saturday",
+      "url": null
+    },
     {
       "analysis": "Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but he will have a couple weeks to try and get there before the Bears face the Panthers in Week 1.",
       "description": "Burden (groin) did not suit up for Saturday's preseason victory over the Titans but did run routes pregame, according to Brad Biggs of the Chicago Tribune.",
@@ -134,6 +154,46 @@
       "story_id": "nfl|9229|rotowire|635225|1788040778000",
       "title": "Anthony Richardson - Efficient in final exhibition game",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants running back Cam Skattebo should open the 2026 season as the top option on the depth chart, and although the team has a very crowded backfield, the second-year ball-carrier should continue to produce in fantasy football. Skattebo was the overall RB7 from Weeks 2-8 last year before suffering multiple leg injuries, including a dislocated ankle. He's healthy now, but managers have grown concerned about the number of veteran running backs that surround him in the backfield. New York entered this year with Tyrone Tracy Jr. and Devin Singletary, and they also recently added Najee Harris. Tracy could carve out some standalone fantasy value, but for the most part, we don't expect these ball-carriers to negatively impact Skattebo's outlook. In fact, having more depth could actually be helpful for Skattebo, as sharing some of the workload will allow him to stay fresh while he (theoretically) still gets on the field for the highest-leverage rushing attempts. Skattebo has an ADP of 42.9 and currently ranks as the RB22 in RotoBaller's latest redraft rankings for 2026.",
+      "metadata": {
+        "description": "New York Giants running back Cam Skattebo should open the 2026 season as the top option on the depth chart, and although the team has a very crowded backfield, the second-year ball-carrier should continue to produce in fantasy football. Skattebo was the overall RB7 from Weeks 2-8 last year before suffering multiple leg injuries, including a dislocated ankle. He's healthy now, but managers have grown concerned about the number of veteran running backs that surround him in the backfield. New York entered this year with Tyrone Tracy Jr. and Devin Singletary, and they also recently added Najee Harris. Tracy could carve out some standalone fantasy value, but for the most part, we don't expect these ball-carriers to negatively impact Skattebo's outlook. In fact, having more depth could actually be helpful for Skattebo, as sharing some of the workload will allow him to stay fresh while he (theoretically) still gets on the field for the highest-leverage rushing attempts. Skattebo has an ADP of 42.9 and currently ranks as the RB22 in RotoBaller's latest redraft rankings for 2026.",
+        "title": "Deep Backfield Could Actually Help Cam Skattebo in 2026",
+        "topic_id": "1399610057750020096",
+        "url": "https://www.rotoballer.com/player-news/deep-backfield-could-actually-help-cam-skattebo-in-2026/1919401"
+      },
+      "nfl_team": "NYG",
+      "player_id": "12481",
+      "player_name": "Cam Skattebo",
+      "position": "RB",
+      "published": 1788040748000,
+      "source": "rotoballer",
+      "source_key": "219689",
+      "story_id": "nfl|12481|rotoballer|219689|1788040748000",
+      "title": "Deep Backfield Could Actually Help Cam Skattebo in 2026",
+      "url": "https://www.rotoballer.com/player-news/deep-backfield-could-actually-help-cam-skattebo-in-2026/1919401"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers running back Christian McMaffrey has an average draft position of 6.4, making him a mid-first-round pick in most fantasy leagues this year. That's a hefty price tag, but McCaffrey's track record suggests that he's absolutely worth it. Last year, the star running back tallied 1,202 rushing yards, 102 catches, 924 receiving yards, and 17 total touchdowns, which allowed him to rank as the clear-cut overall RB1 in fantasy football. He has now been the RB1 in two of his last three seasons, as well as a top-two fantasy running back in three of his last four. There has been plenty of dialogue this draft season about McCaffrey's injury risk impacting his draft stock, but that seems a bit excessive. First of all, McCaffrey has only been truly plagued by injuries in one of his last four seasons (2024). He missed zero games in 2022, one game in 2023, and zero games in 2025. Additionally, passing on a player just because they might get injured is bold. In the NFL, nobody is safe from injuries, so passing on McCaffrey certainly doesn't guarantee that the other player you choose to draft will stay healthy. All in all, the 30-year-old running back continues to prove that he's a star in this league with league-winning upside in fantasy football. He should be drafted as such in the early or middle portion of the first round in 2026 drafts.",
+      "metadata": {
+        "description": "San Francisco 49ers running back Christian McMaffrey has an average draft position of 6.4, making him a mid-first-round pick in most fantasy leagues this year. That's a hefty price tag, but McCaffrey's track record suggests that he's absolutely worth it. Last year, the star running back tallied 1,202 rushing yards, 102 catches, 924 receiving yards, and 17 total touchdowns, which allowed him to rank as the clear-cut overall RB1 in fantasy football. He has now been the RB1 in two of his last three seasons, as well as a top-two fantasy running back in three of his last four. There has been plenty of dialogue this draft season about McCaffrey's injury risk impacting his draft stock, but that seems a bit excessive. First of all, McCaffrey has only been truly plagued by injuries in one of his last four seasons (2024). He missed zero games in 2022, one game in 2023, and zero games in 2025. Additionally, passing on a player just because they might get injured is bold. In the NFL, nobody is safe from injuries, so passing on McCaffrey certainly doesn't guarantee that the other player you choose to draft will stay healthy. All in all, the 30-year-old running back continues to prove that he's a star in this league with league-winning upside in fantasy football. He should be drafted as such in the early or middle portion of the first round in 2026 drafts.",
+        "title": "Christian McCaffrey a Top Target in Drafts Despite Steep Price Tag",
+        "topic_id": "1399608799689490432",
+        "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-a-top-target-in-drafts-despite-steep-price-tag/1919399"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1788040447000,
+      "source": "rotoballer",
+      "source_key": "219688",
+      "story_id": "nfl|4034|rotoballer|219688|1788040447000",
+      "title": "Christian McCaffrey a Top Target in Drafts Despite Steep Price Tag",
+      "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-a-top-target-in-drafts-despite-steep-price-tag/1919399"
     },
     {
       "analysis": "The Lions scored four touchdowns on the afternoon but failed on a two-point conversion on one of them. Bates hasn't looked great this preseason and converted a subpar 79.4 percent of his FG attempts in 2025, but as yet there's been no suggestion his spot is in jeopardy. Detroit's high-powered offense offers Bates a reliable floor in terms of PAT volume, but the unit's efficiency also limits his FG volume, and his fantasy ceiling -- he reached double-digit points in just seven of 17 regular-season games last season.",
