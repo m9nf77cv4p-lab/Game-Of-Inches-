@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1347**
-- Newly captured: **1**
+- Stored stories: **1346**
+- Newly captured: **0**
 
 ## Latest news
 
-- **Jason Myers** — Jason Myers - Five missed kicks in three preseason games (2026-08-30T15:21:12Z)
+- **Jason Myers** — Jason Myers - Five missed kicks in preseason (2026-08-30T15:21:12Z)
   - Myers converted a 46-yard attempt in the first quarter but missed a PAT in the fourth quarter to keep Seattle's lead at 9-6. After the Chiefs tied the game, Myers missed an opportunity to give the Seahawks their only win of the preseason by pushing a 52-yard field-goal attempt wide right on the final play of the game. Myers missed his only field-goal attempt in Seattle's preseason opener against the Cowboys and went 1-for-2 on field-goal attempts while missing a PAT try in the Seahawks' second preseason game. His preseason inaccuracy represents a significant departure from Myers' strong performance during the 2025 regular season, when he converted 41 of his league-high 48 field-goal attempts.
 - **George Kittle** — George Kittle - Expected to practice this week (2026-08-30T14:57:41Z)
   - With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up against the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.
@@ -16,7 +16,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Keenan Allen** — Keenan Allen facing two DUI charges after arrest early Sunday morning (2026-08-30T11:55:56.122000Z)
   - The veteran receiver was a badly needed addition to the Colts roster, and now he could find himself suspended for a game or two should the NFL find that action appropriate. It's also possible he will only face fines. Still, it's worth monitoring the vet's situation, as he was an interesting late-round sleeper in drafts.
   - Source: https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php
-- **NEW — Bhayshul Tuten** — Bhayshul Tuten Offers Intriguing Upside (2026-08-30T11:41:06Z)
+- **Bhayshul Tuten** — Bhayshul Tuten Offers Intriguing Upside (2026-08-30T11:41:06Z)
   - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-offers-intriguing-upside/1919608
 - **DJ Moore** — DJ Moore Could Offer Top-15 Upside (2026-08-30T11:32:08Z)
   - Source: https://www.rotoballer.com/player-news/dj-moore-could-offer-top-15-upside/1919599
