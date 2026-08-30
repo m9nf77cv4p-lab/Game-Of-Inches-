@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T23:28:14Z",
+  "last_checked_at": "2026-08-30T23:38:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11655|rotowire|635467|1788132040000"
+    "nfl|9493|rotowire|635468|1788132517000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Nacua made an early exit from the Rams' joint practice with the Cowboys on Aug. 11 and eventually was diagnosed with psoas soreness. Now almost three weeks removed from the initial injury, he's taking a step in the right direction by returning to drills. Los Angeles opens the season Thursday, Sept. 10 against the 49ers in Melbourne, Australia, a contest for which the team likely is aiming for him to be available.",
+      "description": "Nacua (groin) is practicing Sunday, Sarah Barshop of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Nacua made an early exit from the Rams' joint practice with the Cowboys on Aug. 11 and eventually was diagnosed with psoas soreness. Now almost three weeks removed from the initial injury, he's taking a step in the right direction by returning to drills. Los Angeles opens the season Thursday, Sept. 10 against the 49ers in Melbourne, Australia, a contest for which the team likely is aiming for him to be available.",
+        "description": "Nacua (groin) is practicing Sunday, Sarah Barshop of ESPN.com reports.",
+        "title": "Puka Nacua - Back at practice Sunday",
+        "topic_id": "1399933478086119424"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1788132517000,
+      "source": "rotowire",
+      "source_key": "635468",
+      "story_id": "nfl|9493|rotowire|635468|1788132517000",
+      "title": "Puka Nacua - Back at practice Sunday",
+      "url": null
+    },
     {
       "analysis": "The decision regarding Tracy's place on New York's roster was tied to uneven play in the preseason, the recent arrival of veteran RB Najee Harris to the position group, and a neck injury that he picked up in the team's exhibition finale. Having said that, he's among the backfield options along with No. 1 Cam Skattebo, Devin Singletary and Harris. It's perhaps a vote of confidence for the third-year pro, but because the other three are healthy, Tracy may be hard-pressed for a regular role early on this season.",
       "description": "Tracy (neck) is on the Giants' initial 53-man roster for the 2026 season, Dan Salomone and Matt Citak of the team's official site  report.",

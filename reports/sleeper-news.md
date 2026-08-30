@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1379**
+- Stored stories: **1380**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Tyrone Tracy** — Tyrone Tracy - Makes initial 53-man roster (2026-08-30T23:20:40Z)
+- **NEW — Puka Nacua** — Puka Nacua - Back at practice Sunday (2026-08-30T23:28:37Z)
+  - Nacua made an early exit from the Rams' joint practice with the Cowboys on Aug. 11 and eventually was diagnosed with psoas soreness. Now almost three weeks removed from the initial injury, he's taking a step in the right direction by returning to drills. Los Angeles opens the season Thursday, Sept. 10 against the 49ers in Melbourne, Australia, a contest for which the team likely is aiming for him to be available.
+- **Tyrone Tracy** — Tyrone Tracy - Makes initial 53-man roster (2026-08-30T23:20:40Z)
   - The decision regarding Tracy's place on New York's roster was tied to uneven play in the preseason, the recent arrival of veteran RB Najee Harris to the position group, and a neck injury that he picked up in the team's exhibition finale. Having said that, he's among the backfield options along with No. 1 Cam Skattebo, Devin Singletary and Harris. It's perhaps a vote of confidence for the third-year pro, but because the other three are healthy, Tracy may be hard-pressed for a regular role early on this season.
 - **Jordyn Tyson** — Jordyn Tyson (hamstring) placed on IR (2026-08-30T23:15:59.432000Z)
   - Tyson is expected to miss roughly two months with a hamstring injury. He has been dealing with hamstring issues since college at Arizona State. 
@@ -218,5 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/chris-bell-leads-dolphins-in-targets-on-friday-set-for-key-role-in-miami/1919091
 - **Adam Randall** — Adam Randall Looks to Bulldoze His Way onto the Roster (2026-08-29T11:07:10Z)
   - Source: https://www.rotoballer.com/player-news/adam-randall-looks-to-bulldoze-his-way-onto-the-roster/1919089
-- **Demond Claiborne** — More RB3 Reps For Demond Claiborne (2026-08-29T10:56:27Z)
-  - Source: https://www.rotoballer.com/player-news/more-rb3-reps-for-demond-claiborne/1919083
