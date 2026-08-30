@@ -2,11 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1357**
-- Newly captured: **0**
+- Stored stories: **1359**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Josh Jacobs** — Josh Jacobs placed on commissioner of exempt list (2026-08-30T18:35:57.630000Z)
+  - Jacobs is now ineligible to practice or play for the Packers while the league continues their investigation into alleged improper behavior while being charged with two misdemeanors related to his conduct earlier in the week. If the running back is forced to sit out for any period of the regular season, MarShawn Lloyd will be in line to receive the majority of backfield work while the recently acquired Kaleb Johnson gets up to speed on the offensive playbook with Week 1 approaching.
+  - Source: https://www.fantasypros.com/nfl/news/604854/josh-jacobs-placed-on-commissioner-exempt-list.php
+- **NEW — Josh Jacobs** — Josh Jacobs - Placed on Commissioner Exempt List (2026-08-30T18:32:50Z)
+  - Jacobs was formally charged with battery and criminal damage to property last week, and will have his next hearing date in November. We'll await further details to see when he could be reinstated.
 - **Kaleb Johnson** — Kaleb Johnson traded to Packers (2026-08-30T17:45:57.758000Z)
   - Details of the trade are still being finalized between the two organizations, with Johnson receiving the fresh start the running back desperately needs after falling out of favor in a Pittsburgh backfield that will be led by the duo of Jaylen Warren and Rico Dowdle this upcoming season. Johnson's role should become clearer as the National Football League continues their investigation into No. 1 running back Josh Jacobs, potentially resulting in a backup opportunity behind current No. 2 option MarShawn Lloyd.
   - Source: https://www.fantasypros.com/nfl/news/604830/kaleb-johnson-traded-to-packers.php
@@ -210,7 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Kelce was on the other end of starting quarterback Garrett Nussmeier's first pass of the night, an eight-yard completion that took the ball to midfield on Kansas City's opening possession. Kelce thus was able to record his only stats of the preseason in the brief cameo, and he'll now turn his attention to a Week 1 Monday night home showdown against the Broncos on Sept. 14 that he'll hope to play with Patrick Mahomes (knee) as his quarterback.
 - **Makai Lemon** — Makai Lemon - Three catches in preseason debut (2026-08-29T03:23:50Z)
   - Lemon made his long-awaited pro debut after finally overcoming a nagging hamstring injury, and although he was certainly kept busy during his time in the game, he extracted minimal gains from his receptions. The 2026 first-round pick still is ticketed for the No. 3 receiver role to open the season despite the missed time, and Lemon now will have the opportunity to garner plenty of practice reps ahead of a Week 1 home matchup against the Commanders on Sunday, Sept. 13.
-- **Najee Harris** — Najee Harris - Gets 12 touches Friday while Tracy exits (2026-08-29T03:04:46Z)
-  - Harris was the first running back to record a touch for the Giants in Friday's preseason finale, which Cam Skattebo and Devin Singletary sat out. Fellow RB Tyrone Tracy (neck) left the game in the second quarter and didn't return, though Tracy managed to clear concussion protocol. The Giants may opt to keep all four of Skattebo, Singletary, Harris and Tracy on their roster once they cut down to 53 players for the regular season.
-- **Chris Bell** — Chris Bell - Five targets in preseason finale (2026-08-29T03:00:26Z)
-  - Bell got his first taste of NFL game action in Friday's preseason finale, as he has gained clearance to play after having the ACL in his left knee surgically repaired in December. The wide receiver out of Louisville is set to compete for playing time in an underwhelming Dolphins WR room that also includes rookie third-round pick Caleb Douglas, rookie fifth-round pick Kevin Coleman, 2024 sixth-round pick Malik Washington and offseason signing Jalen Tolbert.
