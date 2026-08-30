@@ -3,11 +3,11 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1330**
-- Newly captured: **1**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Jalen Milroe** — Jalen Milroe - Throws for 223 yards in preseason finale (2026-08-30T02:26:31Z)
+- **Jalen Milroe** — Jalen Milroe - Throws for 223 yards in preseason finale (2026-08-30T02:26:31Z)
   - Milroe played every offensive snap for Seattle with both Sam Darnold and Drew Lock resting on the sideline. Milroe led the Seahawks on a seven-play scoring drive that ended in a field goal during the first quarter and a 10-play drive that ended with his touchdown pass to Nick Vannett in the third. That TD was his first of a relatively underwhelming preseason. Milroe is locked in behind Darnold and Lock once the regular season starts, so he could regularly serve as Seattle's emergency third QB on gamedays.
 - **Chimere Dike** — Chimere Dike - One catch in preseason finale (2026-08-30T02:06:33Z)
   - The speedy second-year pro opened the game with the starting offense and saw both of his targets from Will Levis during the Titans' second possession. Dike had one catch in each of Tennessee's three preseason games, posting a 3-28-0 line on four targets. Dike will open the season in a reserve receiver role with big-play potential after posting a 48-423-4 line across 17 regular-season games during his rookie 2025 campaign.
@@ -16,7 +16,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Luther Burden** — Luther Burden - Runs routes Saturday (2026-08-30T01:44:33Z)
   - Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but coach Ben Johnson said after Saturday's game that the wideout "looks 100 percent," per Jason Lieser of the Chicago Sun-Times, so the expectation is that he'll be ready to go for Week 1 of the regular season versus the Panthers.
 - **Carnell Tate** — Carnell Tate - One target to close out preseason (2026-08-30T01:29:48Z)
-  - The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack right from a Week 1 home matchup against the Jets.
+  - The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack beginning with a Week 1 home matchup against the Jets.
 - **Rashee Rice** — Rashee Rice - Logs 10 snaps in preseason finale (2026-08-29T23:36:05Z)
   - Rice and some of Kansas City's key offensive starters got to log some reps during the first quarter before being pulled. Though he didn't produce any offensive output, it's notable that Rice took part in his first game action since he landed on IR due to a concussion late last December. Rice had a tumultuous offseason, as he spent some time in jail due to a probation violation and also had a minor procedure on his right knee, but he appears healthy and isn't expected to face NFL discipline for the legal issue. As such, he can be penciled in as the Chiefs' top WR heading into Week 1 versus Denver on Monday, Sept. 14.
 - **Keenan Allen** — Keenan Allen - One catch in first preseason game for Indy (2026-08-29T22:24:59Z)

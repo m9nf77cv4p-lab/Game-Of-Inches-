@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-08-30T02:38:16Z",
+  "last_checked_at": "2026-08-30T03:18:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [
-    "nfl|12510|rotowire|635251|1788056791000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -94,10 +92,10 @@
       "url": null
     },
     {
-      "analysis": "The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack right from a Week 1 home matchup against the Jets.",
+      "analysis": "The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack beginning with a Week 1 home matchup against the Jets.",
       "description": "Tate failed to bring in his only target in the Titans' 24-15 preseason loss to the Bears on Saturday.",
       "metadata": {
-        "analysis": "The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack right from a Week 1 home matchup against the Jets.",
+        "analysis": "The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack beginning with a Week 1 home matchup against the Jets.",
         "description": "Tate failed to bring in his only target in the Titans' 24-15 preseason loss to the Bears on Saturday.",
         "title": "Carnell Tate - One target to close out preseason",
         "topic_id": "1399601255273218048"
