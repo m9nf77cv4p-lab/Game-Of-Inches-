@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T15:35:14Z",
+  "last_checked_at": "2026-08-30T15:45:06Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|2747|rotowire|635294|1788103272000"
+    "nfl|4983|rotoballer|219707|1788089528000"
   ],
   "schema_version": 1,
   "source": {
@@ -93,6 +93,26 @@
       "story_id": "nfl|1479|fantasy_pros|604750|1788090956122",
       "title": "Keenan Allen facing two DUI charges after arrest early Sunday morning",
       "url": "https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php"
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills wide receiver DJ Moore could emerge as one of the best sleepers at this position. The 29-year-old struggled during his final season with the Chicago Bears last season. He finished with 50 receptions, 682 receiving yards, and six touchdowns in 17 games. Certainly a down year for Moore, who is often a 1,000-yard receiver. The Bears had a crowded receiver room, so a move elsewhere was best for Moore's value. He landed in Buffalo that might end up being the best thing for his career. Moore can be the WR1 wideout in Buffalo with Stefon Diggs departing elsewhere. The veteran wideout is underrated with his current ADP of 54.8. If everything goes right for Moore, he could finish with a top-15 season with his new team.",
+      "metadata": {
+        "description": "Buffalo Bills wide receiver DJ Moore could emerge as one of the best sleepers at this position. The 29-year-old struggled during his final season with the Chicago Bears last season. He finished with 50 receptions, 682 receiving yards, and six touchdowns in 17 games. Certainly a down year for Moore, who is often a 1,000-yard receiver. The Bears had a crowded receiver room, so a move elsewhere was best for Moore's value. He landed in Buffalo that might end up being the best thing for his career. Moore can be the WR1 wideout in Buffalo with Stefon Diggs departing elsewhere. The veteran wideout is underrated with his current ADP of 54.8. If everything goes right for Moore, he could finish with a top-15 season with his new team.",
+        "title": "DJ Moore Could Offer Top-15 Upside",
+        "topic_id": "1399815179511803904",
+        "url": "https://www.rotoballer.com/player-news/dj-moore-could-offer-top-15-upside/1919599"
+      },
+      "nfl_team": "BUF",
+      "player_id": "4983",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "published": 1788089528000,
+      "source": "rotoballer",
+      "source_key": "219707",
+      "story_id": "nfl|4983|rotoballer|219707|1788089528000",
+      "title": "DJ Moore Could Offer Top-15 Upside",
+      "url": "https://www.rotoballer.com/player-news/dj-moore-could-offer-top-15-upside/1919599"
     },
     {
       "analysis": null,
