@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T17:56:33Z",
+  "last_checked_at": "2026-08-30T18:06:38Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|12504|rotoballer|219721|1788097512000",
-    "nfl|12504|rotowire|635330|1788111911000"
+    "nfl|11581|rotoballer|219722|1788098348000"
   ],
   "schema_version": 1,
   "source": {
@@ -114,6 +113,26 @@
       "story_id": "nfl|4217|rotowire|635292|1788101861000",
       "title": "George Kittle - Expected to practice this week",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back MarShawn Lloyd suddenly has another back to deal with. Green Bay acquired Kaleb Johnson from Pittsburgh on Sunday, a move that comes just days after general manager Brian Gutekunst said the team had been preparing for the possibility of a Josh Jacobs suspension. Lloyd had been moving in the other direction before the trade. He started the preseason opener with Jacobs sidelined, worked extensively with the first-team offense and caught an 11-yard touchdown from Jordan Love against Denver. RotoBaller also noted on Aug. 27 that Lloyd appeared to have the inside track on the No. 2 job, with a path to lead-back work if Jacobs misses time. Johnson is no lock to change that. The 2025 third-round pick rushed for only 69 yards as a rookie and was on Pittsburgh's roster bubble before being dealt. Still, the Packers didn't add him for nothing. Lloyd's opportunity remains interesting, especially with Jacobs facing possible NFL discipline, but there is now another player who could push for those backup touches.",
+      "metadata": {
+        "description": "Green Bay Packers running back MarShawn Lloyd suddenly has another back to deal with. Green Bay acquired Kaleb Johnson from Pittsburgh on Sunday, a move that comes just days after general manager Brian Gutekunst said the team had been preparing for the possibility of a Josh Jacobs suspension. Lloyd had been moving in the other direction before the trade. He started the preseason opener with Jacobs sidelined, worked extensively with the first-team offense and caught an 11-yard touchdown from Jordan Love against Denver. RotoBaller also noted on Aug. 27 that Lloyd appeared to have the inside track on the No. 2 job, with a path to lead-back work if Jacobs misses time. Johnson is no lock to change that. The 2025 third-round pick rushed for only 69 yards as a rookie and was on Pittsburgh's roster bubble before being dealt. Still, the Packers didn't add him for nothing. Lloyd's opportunity remains interesting, especially with Jacobs facing possible NFL discipline, but there is now another player who could push for those backup touches.",
+        "title": "MarShawn Lloyd Facing Potential Competition for No. 2 Role",
+        "topic_id": "1399851673156923392",
+        "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-facing-potential-competition-for-no-2-role/1919757"
+      },
+      "nfl_team": "GB",
+      "player_id": "11581",
+      "player_name": "MarShawn Lloyd",
+      "position": "RB",
+      "published": 1788098348000,
+      "source": "rotoballer",
+      "source_key": "219722",
+      "story_id": "nfl|11581|rotoballer|219722|1788098348000",
+      "title": "MarShawn Lloyd Facing Potential Competition for No. 2 Role",
+      "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-facing-potential-competition-for-no-2-role/1919757"
     },
     {
       "analysis": null,
