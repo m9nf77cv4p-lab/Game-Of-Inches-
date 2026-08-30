@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T15:05:00Z",
+  "last_checked_at": "2026-08-30T15:15:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|4217|rotowire|635292|1788101861000"
+    "nfl|7523|rotoballer|219706|1788087613000"
   ],
   "schema_version": 1,
   "source": {
@@ -73,6 +73,26 @@
       "story_id": "nfl|1479|fantasy_pros|604750|1788090956122",
       "title": "Keenan Allen facing two DUI charges after arrest early Sunday morning",
       "url": "https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php"
+    },
+    {
+      "analysis": null,
+      "description": "For four and a half seasons, Jacksonville Jaguars quarterback Trevor Lawrence was viewed as a fantasy disappointment after coming into the league with monumental expectations as the first overall pick in the 2021 NFL Draft, but halfway through the 2025 season, something clicked for him in Liam Coen's play-action and motion-heavy offense. Over the final 10 weeks of the season, Lawrence was the QB1, scoring 6.7 fantasy points per game with his legs alone while garnering MVP consideration. The team's mid-season trade for Jakobi Meyers helped to retool the wide receiver room following Travis Hunter's season-ending LCL tear, and a connection with Parker Washington turned the third-year veteran into the latest receiver to star out of the slot in Coen's offense. Even with Brian Thomas Jr. facing second-year struggles, the Jaguars' offense proved to be one of the league's most dynamic down the stretch, and with nearly his full complement of pass-catchers returning for 2026, Lawrence is well set up for another big year and could prove to be a league-winner for the second consecutive season, as he's currently being drafted as the QB10.",
+      "metadata": {
+        "description": "For four and a half seasons, Jacksonville Jaguars quarterback Trevor Lawrence was viewed as a fantasy disappointment after coming into the league with monumental expectations as the first overall pick in the 2021 NFL Draft, but halfway through the 2025 season, something clicked for him in Liam Coen's play-action and motion-heavy offense. Over the final 10 weeks of the season, Lawrence was the QB1, scoring 6.7 fantasy points per game with his legs alone while garnering MVP consideration. The team's mid-season trade for Jakobi Meyers helped to retool the wide receiver room following Travis Hunter's season-ending LCL tear, and a connection with Parker Washington turned the third-year veteran into the latest receiver to star out of the slot in Coen's offense. Even with Brian Thomas Jr. facing second-year struggles, the Jaguars' offense proved to be one of the league's most dynamic down the stretch, and with nearly his full complement of pass-catchers returning for 2026, Lawrence is well set up for another big year and could prove to be a league-winner for the second consecutive season, as he's currently being drafted as the QB10.",
+        "title": "Trevor Lawrence Offers League-Winning Upside at a Low-QB1 Cost",
+        "topic_id": "1399807629336780800",
+        "url": "https://www.rotoballer.com/player-news/trevor-lawrence-offers-league-winning-upside-at-a-low-qb1-cost/1919586"
+      },
+      "nfl_team": "JAX",
+      "player_id": "7523",
+      "player_name": "Trevor Lawrence",
+      "position": "QB",
+      "published": 1788087613000,
+      "source": "rotoballer",
+      "source_key": "219706",
+      "story_id": "nfl|7523|rotoballer|219706|1788087613000",
+      "title": "Trevor Lawrence Offers League-Winning Upside at a Low-QB1 Cost",
+      "url": "https://www.rotoballer.com/player-news/trevor-lawrence-offers-league-winning-upside-at-a-low-qb1-cost/1919586"
     },
     {
       "analysis": null,
