@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1345**
-- Newly captured: **0**
+- Stored stories: **1346**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Jason Myers** — Jason Myers - Five missed kicks in three preseason games (2026-08-30T15:21:12Z)
+  - Myers converted a 46-yard attempt in the first quarter but missed a PAT in the fourth quarter to keep Seattle's lead at 9-6. After the Chiefs tied the game, Myers missed an opportunity to give the Seahawks their only win of the preseason by pushing a 52-yard field-goal attempt wide right on the final play of the game. Myers missed his only field-goal attempt in Seattle's preseason opener against the Cowboys and went 1-for-2 on field-goal attempts while missing a PAT try in the Seahawks' second preseason game. His preseason inaccuracy represents a significant departure from Myers' strong performance during the 2025 regular season, when he converted 41 of his league-high 48 field-goal attempts.
 - **George Kittle** — George Kittle - Expected to practice this week (2026-08-30T14:57:41Z)
   - With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up against the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.
 - **Keenan Allen** — Keenan Allen - Arrested on DUI charges (2026-08-30T12:13:56Z)
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/rashee-rice-being-drafted-as-a-wr1-in-fantasy-football-drafts/1918941
 - **Rhamondre Stevenson** — Rhamondre Stevenson - Held out of exhibition finale (2026-08-29T00:52:29Z)
   - The Patriots rested their projected regular-season starters Thursday, so Stevenson's absence was par for the course. He didn't see any game action during the preseason slate but appears back to full health after dealing with a minor undisclosed injury in late July. Stevenson and TreVeyon Henderson, who is dealing with an ankle injury but is expected to be ready for Week 1, are slated to share backfield duties for New England during the upcoming campaign.
-- **Tyrone Tracy** — Tyrone Tracy - Goes to locker room (2026-08-29T00:50:19Z)
-  - Tracy was tended to by medical staff after taking a big hit on an eight-yard run during the second quarter. The good news was that he was able to walk off the field and into the locker room under his own power. Given that he's being checked for a neck injury, it appears unlikely that Tracy will return to Friday's exhibition contest. If he's indeed done, he''ll finish with four carries for 37 yards and a touchdown.
