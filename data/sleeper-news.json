@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T17:26:45Z",
+  "last_checked_at": "2026-08-30T17:36:44Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13306|rotoballer|219715|1788095647000"
+    "nfl|2133|rotoballer|219717|1788096368000"
   ],
   "schema_version": 1,
   "source": {
@@ -72,6 +72,26 @@
       "story_id": "nfl|4217|rotowire|635292|1788101861000",
       "title": "George Kittle - Expected to practice this week",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Davante Adams already showed last season that the touchdowns are still there. What he did not have was a summer of work with Matthew Stafford. Stafford missed almost all of 2025 training camp because of a back injury, leaving Adams to build that connection on the fly. This August has been different. The two connected on an over-the-shoulder touchdown during camp, and their chemistry stood out again in the Rams' joint practice with New Orleans. Adams is coming off 60 catches for 789 yards and an NFL-leading 14 touchdowns in 14 games, good for a WR9 finish in PPR. There is still plenty of regression risk here. His 52.6% catch rate was a career low, 84 of his 222.9 PPR points came from touchdowns, and Puka Nacua remains the clear lead target. RotoBaller currently has Adams at WR18 in PPR rankings, so he is not being treated like a bargain. Still, a healthy summer with Stafford is a meaningful change from a year ago. Adams has done more to steady his redraft value than give fantasy managers another reason to fade him.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Davante Adams already showed last season that the touchdowns are still there. What he did not have was a summer of work with Matthew Stafford. Stafford missed almost all of 2025 training camp because of a back injury, leaving Adams to build that connection on the fly. This August has been different. The two connected on an over-the-shoulder touchdown during camp, and their chemistry stood out again in the Rams' joint practice with New Orleans. Adams is coming off 60 catches for 789 yards and an NFL-leading 14 touchdowns in 14 games, good for a WR9 finish in PPR. There is still plenty of regression risk here. His 52.6% catch rate was a career low, 84 of his 222.9 PPR points came from touchdowns, and Puka Nacua remains the clear lead target. RotoBaller currently has Adams at WR18 in PPR rankings, so he is not being treated like a bargain. Still, a healthy summer with Stafford is a meaningful change from a year ago. Adams has done more to steady his redraft value than give fantasy managers another reason to fade him.",
+        "title": "Davante Adams Has Helped His Redraft Case This Summer",
+        "topic_id": "1399842864019546112",
+        "url": "https://www.rotoballer.com/player-news/davante-adams-has-helped-his-redraft-case-this-summer/1919713"
+      },
+      "nfl_team": "LAR",
+      "player_id": "2133",
+      "player_name": "Davante Adams",
+      "position": "WR",
+      "published": 1788096368000,
+      "source": "rotoballer",
+      "source_key": "219717",
+      "story_id": "nfl|2133|rotoballer|219717|1788096368000",
+      "title": "Davante Adams Has Helped His Redraft Case This Summer",
+      "url": "https://www.rotoballer.com/player-news/davante-adams-has-helped-his-redraft-case-this-summer/1919713"
     },
     {
       "analysis": null,

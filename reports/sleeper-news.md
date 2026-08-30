@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1350**
+- Stored stories: **1351**
 - Newly captured: **1**
 
 ## Latest news
@@ -13,7 +13,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Myers converted a 46-yard attempt in the first quarter but missed a PAT in the fourth quarter to keep Seattle's lead at 9-6. After the Chiefs tied the game, Myers missed an opportunity to give the Seahawks their only win of the preseason by pushing a 52-yard field-goal attempt wide right on the final play of the game. Myers missed his only field-goal attempt in Seattle's preseason opener against the Cowboys and went 1-for-2 on field-goal attempts while missing a PAT in the Seahawks' second preseason game. His preseason inaccuracy represents a significant departure from Myers' strong performance during the 2025 regular season, when he converted 41 of his league-high 48 field-goal attempts.
 - **George Kittle** — George Kittle - Expected to practice this week (2026-08-30T14:57:41Z)
   - With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up versus the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.
-- **NEW — Taylen Green** — Browns Want to Keep Rookie QB Taylen Green on the Roster (2026-08-30T13:14:07Z)
+- **NEW — Davante Adams** — Davante Adams Has Helped His Redraft Case This Summer (2026-08-30T13:26:08Z)
+  - Source: https://www.rotoballer.com/player-news/davante-adams-has-helped-his-redraft-case-this-summer/1919713
+- **Taylen Green** — Browns Want to Keep Rookie QB Taylen Green on the Roster (2026-08-30T13:14:07Z)
   - Source: https://www.rotoballer.com/player-news/browns-want-to-keep-rookie-qb-taylen-green-on-the-roster/1919704
 - **Bucky Irving** — Bucky Irving Could Lose Goal-Line Touches (2026-08-30T12:14:06Z)
   - Source: https://www.rotoballer.com/player-news/bucky-irving-could-lose-goal-line-touches/1919663
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Tracy sustained an apparent neck injury during an eight-yard run in the second quarter. The good news for the third-year running back is that he was not diagnosed with a concussion, and he'll finish his night with four carries for 37 yards and a touchdown. How Tracy's neck reacts over the coming days will determine what his practice participation will look like leading up to Week 1 against the Cowboys on Sunday, Sept. 13.
 - **Romeo Doubs** — Romeo Doubs - Sits out final exhibition game (2026-08-29T01:23:52Z)
   - Doubs was among numerous Patriots projected regular-season starters who were held out of Thursday's contest. The veteran wideout didn't play at all during the exhibition slate but drew praise during training camp for his work during practices. Doubs is slated for a major role in his first campaign with New England, as he's set to start alongside A.J. Brown at the WR position.
-- **Marvin Mims** — Marvin Mims - Goes to locker room (2026-08-29T01:22:13Z)
-  - Mims appeared to sustain the injury while attempting a leaping reception early in the first quarter. He was able to walk off the field under his own power but was directed to the blue medical tent before going into the locker room. Mims will undergo further tests to determine the severity of his foot injury, but it wouldn't be surprising if the fourth-year wideout was held out for the rest of Friday's exhibition contest.
