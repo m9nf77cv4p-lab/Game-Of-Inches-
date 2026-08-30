@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1380**
+- Stored stories: **1381**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Puka Nacua** — Puka Nacua - Back at practice Sunday (2026-08-30T23:28:37Z)
+- **Puka Nacua** — Puka Nacua - Back at practice Sunday (2026-08-30T23:28:37Z)
   - Nacua made an early exit from the Rams' joint practice with the Cowboys on Aug. 11 and eventually was diagnosed with psoas soreness. Now almost three weeks removed from the initial injury, he's taking a step in the right direction by returning to drills. Los Angeles opens the season Thursday, Sept. 10 against the 49ers in Melbourne, Australia, a contest for which the team likely is aiming for him to be available.
 - **Tyrone Tracy** — Tyrone Tracy - Makes initial 53-man roster (2026-08-30T23:20:40Z)
   - The decision regarding Tracy's place on New York's roster was tied to uneven play in the preseason, the recent arrival of veteran RB Najee Harris to the position group, and a neck injury that he picked up in the team's exhibition finale. Having said that, he's among the backfield options along with No. 1 Cam Skattebo, Devin Singletary and Harris. It's perhaps a vote of confidence for the third-year pro, but because the other three are healthy, Tracy may be hard-pressed for a regular role early on this season.
@@ -44,6 +44,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Dallas reportedly has moved on from two RBs on cut-down day, the other being Phil Mafah. The moves indicate that Malik Davis has claimed the No. 2 role behind starter Javonte Williams, though one or both of Blue and Mafah could wind up back on the team's practice squad if they clear waivers.
 - **MarShawn Lloyd** — MarShawn Lloyd - Now part of reconfigured backfield (2026-08-30T19:36:53Z)
   - Lloyd has appeared in just one regular-season game since being selected by the Packers in the third round of the 2024 NFL Draft, but with Jacobs out of action for the time being Lloyd is now the top available option on the depth chart. Both Johnson and Chris Brooks -- who excels at pass blocking -- figure to factor into the mix sans Jacobs, but with Johnson just joining the team, Lloyd now finds himself as the favorite to pick up carries.
+- **NEW — Puka Nacua** — Puka Nacua Back at Practice on Sunday (2026-08-30T19:34:46Z)
+  - Source: https://www.rotoballer.com/player-news/puka-nacua-back-at-practice-on-sunday/1920001
 - **Josh Jacobs** — Josh Jacobs - Lands on Commissioner's Exempt List (2026-08-30T18:38:06Z)
   - Jacobs was officially charged Thursday with two misdemeanors stemming from his May arrest for a domestic incident in Brown County, Wis, with a court appearance scheduled for Nov. 17. For as long as he's on the list, he won't be able to practice or play in games, and there's no word on how long this may be his reality. Aside from Jacobs, the Packers backfield is occupied by MarShawn Lloyd, Chris Brooks and newcomer Kaleb Johnson, with Lloyd the likely favorite to handle the largest workload during Jacobs' absence.
 - **Josh Jacobs** — Josh Jacobs placed on commissioner of exempt list (2026-08-30T18:35:57.630000Z)
@@ -218,5 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kaytron-allen-struggles-in-limited-usage-in-preseason-finale/1919105
 - **Chris Bell** — Chris Bell Leads Dolphins in Targets on Friday, Set for Key Role in Miami? (2026-08-29T11:09:07Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-leads-dolphins-in-targets-on-friday-set-for-key-role-in-miami/1919091
-- **Adam Randall** — Adam Randall Looks to Bulldoze His Way onto the Roster (2026-08-29T11:07:10Z)
-  - Source: https://www.rotoballer.com/player-news/adam-randall-looks-to-bulldoze-his-way-onto-the-roster/1919089
