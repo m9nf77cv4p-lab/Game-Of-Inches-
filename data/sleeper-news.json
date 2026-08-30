@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-08-30T16:05:51Z",
+  "last_checked_at": "2026-08-30T16:16:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|4217|rotoballer|219710|1788090968000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -70,6 +72,26 @@
       "story_id": "nfl|1479|rotowire|635286|1788092036000",
       "title": "Keenan Allen - Arrested on DUI charges",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "According to Adam Schefter, San Francisco 49ers tight end George Kittle (Achilles) is expected to practice this week. Kittle is still working his way back from an Achilles tendon injury that happened on January 11. The veteran tight end has been working hard and is pushing to be available for Week 1 against the Los Angeles Rams. He was activated from the active/PUP list last Sunday and is trending towards getting on the practice field this week. His status for Week 1 is still cloudy, but it sounds like Kittle won't miss much time to begin the season. Fantasy managers should continue to check for updates throughout the week on Kittle's status.",
+      "metadata": {
+        "description": "According to Adam Schefter, San Francisco 49ers tight end George Kittle (Achilles) is expected to practice this week. Kittle is still working his way back from an Achilles tendon injury that happened on January 11. The veteran tight end has been working hard and is pushing to be available for Week 1 against the Los Angeles Rams. He was activated from the active/PUP list last Sunday and is trending towards getting on the practice field this week. His status for Week 1 is still cloudy, but it sounds like Kittle won't miss much time to begin the season. Fantasy managers should continue to check for updates throughout the week on Kittle's status.",
+        "title": "George Kittle Expected to Practice This Week",
+        "topic_id": "1399821471517257728",
+        "url": "https://www.rotoballer.com/player-news/george-kittle-expected-to-practice-this-week/1919624"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788090968000,
+      "source": "rotoballer",
+      "source_key": "219710",
+      "story_id": "nfl|4217|rotoballer|219710|1788090968000",
+      "title": "George Kittle Expected to Practice This Week",
+      "url": "https://www.rotoballer.com/player-news/george-kittle-expected-to-practice-this-week/1919624"
     },
     {
       "analysis": "The veteran receiver was a badly needed addition to the Colts roster, and now he could find himself suspended for a game or two should the NFL find that action appropriate. It's also possible he will only face fines. Still, it's worth monitoring the vet's situation, as he was an interesting late-round sleeper in drafts.",
