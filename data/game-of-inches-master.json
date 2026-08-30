@@ -21609,12 +21609,12 @@
       ],
       "first_name": "James",
       "full_name": "James Conner",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "last_name": "Conner",
       "nfl_team": "ARI",
       "player_id": "4137",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 9
     },
     "4199": {
@@ -23214,7 +23214,7 @@
       ],
       "first_name": "Tank",
       "full_name": "Tank Dell",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "last_name": "Dell",
       "nfl_team": "HOU",
       "player_id": "9502",
@@ -23560,8 +23560,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-30T21:47:42Z",
-    "source_fingerprint": "f6ff078995b0cafbcc20f734ad8a284823400e3bd5f1a42f840f0714650554dc"
+    "last_changed_at": "2026-08-30T22:07:46Z",
+    "source_fingerprint": "70657e421b89bcb3b33003b826e174ebf4796ddc7c64566aad0fc4c03241c9c0"
   },
   "teams": [
     {
