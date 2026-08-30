@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-30T19:56:33Z",
+  "last_checked_at": "2026-08-30T20:06:31Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|12457|fantasy_pros|604887|1788119458595"
+    "nfl|11581|rotoballer|219733|1788105612000",
+    "nfl|12457|rotoballer|219732|1788105043000"
   ],
   "schema_version": 1,
   "source": {
@@ -162,7 +163,7 @@
       "metadata": {
         "analysis": "Johnson thus will get a fresh start in Green Bay after the third-round investment made in him last year didn't pan out in Pittsburgh. Working behind Jaylen Warren and Kenny Gainwell in 2025, Johnson turned 28 carries into just 69 yards (2.5 YPC) and no touchdowns while hauling in one of two targets for nine yards in 10 regular-season appearances as a rookie. Johnson will join a Green Bay backfield led by Josh Jacobs (groin) and backed up by MarShawn Lloyd and Chris Brooks.",
         "description": "The Steelers are expected to trade Johnson to the Packers, Jeremy Fowler of ESPN reports.",
-        "title": "Kaleb Johnson - Getting moved to Packers",
+        "title": "Kaleb Johnson - Gets traded to Green Bay",
         "topic_id": "1399847900527235072"
       },
       "nfl_team": "GB",
@@ -173,7 +174,7 @@
       "source": "rotowire",
       "source_key": "635330",
       "story_id": "nfl|12504|rotowire|635330|1788111911000",
-      "title": "Kaleb Johnson - Getting moved to Packers",
+      "title": "Kaleb Johnson - Gets traded to Green Bay",
       "url": null
     },
     {
@@ -195,6 +196,46 @@
       "story_id": "nfl|13306|rotowire|635311|1788109013000",
       "title": "Taylen Green - Chance to make 53-man roster",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back MarShawn Lloyd went from an interesting late-round stash to a potential Week 1 starter in a matter of hours. The NFL placed Josh Jacobs on the Commissioner's Exempt List on Sunday, which means he cannot practice or attend games while he remains there. Matt Schneidman of The Athletic reports that Green Bay will now rely on Lloyd as its No. 1 running back with Jacobs sidelined. Lloyd had already spent August making a case for more work. He started the preseason opener with Jacobs out, then caught an 11-yard touchdown from Jordan Love while working with the first-team offense against Denver. There is still competition. Green Bay acquired Kaleb Johnson from Pittsburgh on Sunday, and Chris Brooks remains in the mix, but neither changes the fact that Lloyd is first in line right now. The 25-year-old has played only one regular-season game through two NFL seasons because of injuries, so durability is impossible to ignore. Still, the opportunity has changed fast. Lloyd is now poised to open the season as Green Bay's lead back.",
+      "metadata": {
+        "description": "Green Bay Packers running back MarShawn Lloyd went from an interesting late-round stash to a potential Week 1 starter in a matter of hours. The NFL placed Josh Jacobs on the Commissioner's Exempt List on Sunday, which means he cannot practice or attend games while he remains there. Matt Schneidman of The Athletic reports that Green Bay will now rely on Lloyd as its No. 1 running back with Jacobs sidelined. Lloyd had already spent August making a case for more work. He started the preseason opener with Jacobs out, then caught an 11-yard touchdown from Jordan Love while working with the first-team offense against Denver. There is still competition. Green Bay acquired Kaleb Johnson from Pittsburgh on Sunday, and Chris Brooks remains in the mix, but neither changes the fact that Lloyd is first in line right now. The 25-year-old has played only one regular-season game through two NFL seasons because of injuries, so durability is impossible to ignore. Still, the opportunity has changed fast. Lloyd is now poised to open the season as Green Bay's lead back.",
+        "title": "MarShawn Lloyd Poised to Begin Season as Green Bay's Lead Running Back",
+        "topic_id": "1399881874876194816",
+        "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-poised-to-begin-season-as-green-bays-lead-running-back/1919914"
+      },
+      "nfl_team": "GB",
+      "player_id": "11581",
+      "player_name": "MarShawn Lloyd",
+      "position": "RB",
+      "published": 1788105612000,
+      "source": "rotoballer",
+      "source_key": "219733",
+      "story_id": "nfl|11581|rotoballer|219733|1788105612000",
+      "title": "MarShawn Lloyd Poised to Begin Season as Green Bay's Lead Running Back",
+      "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-poised-to-begin-season-as-green-bays-lead-running-back/1919914"
+    },
+    {
+      "analysis": null,
+      "description": "The Dallas Cowboys are waiving running back Jaydon Blue, according to Adam Schefter. It's a surprising decision after Dallas appeared to signal that Blue was safe by holding him out of Friday's preseason finale along with Javonte Williams and Malik Davis. The 2025 fifth-round pick had also put together a solid August, rushing for 94 yards on 23 carries through the Cowboys' first two preseason games. That included 75 yards on 15 attempts against Arizona. Blue saw only limited action as a rookie, finishing with 129 yards and one touchdown on 38 carries across five games, but ended the year with 64 yards and his first NFL score in Week 18. Dallas also waived Phil Mafah on Sunday, further reshaping the bottom of its running back room. Williams remains the clear starter, while Blue's departure gives Davis a cleaner path to backup work unless the Cowboys add another back after roster cuts.",
+      "metadata": {
+        "description": "The Dallas Cowboys are waiving running back Jaydon Blue, according to Adam Schefter. It's a surprising decision after Dallas appeared to signal that Blue was safe by holding him out of Friday's preseason finale along with Javonte Williams and Malik Davis. The 2025 fifth-round pick had also put together a solid August, rushing for 94 yards on 23 carries through the Cowboys' first two preseason games. That included 75 yards on 15 attempts against Arizona. Blue saw only limited action as a rookie, finishing with 129 yards and one touchdown on 38 carries across five games, but ended the year with 64 yards and his first NFL score in Week 18. Dallas also waived Phil Mafah on Sunday, further reshaping the bottom of its running back room. Williams remains the clear starter, while Blue's departure gives Davis a cleaner path to backup work unless the Cowboys add another back after roster cuts.",
+        "title": "Cowboys Waive Jaydon Blue in Surprise Roster Move",
+        "topic_id": "1399880616249405440",
+        "url": "https://www.rotoballer.com/player-news/cowboys-waive-jaydon-blue-in-surprise-roster-move/1919908"
+      },
+      "nfl_team": "DAL",
+      "player_id": "12457",
+      "player_name": "Jaydon Blue",
+      "position": "RB",
+      "published": 1788105043000,
+      "source": "rotoballer",
+      "source_key": "219732",
+      "story_id": "nfl|12457|rotoballer|219732|1788105043000",
+      "title": "Cowboys Waive Jaydon Blue in Surprise Roster Move",
+      "url": "https://www.rotoballer.com/player-news/cowboys-waive-jaydon-blue-in-surprise-roster-move/1919908"
     },
     {
       "analysis": null,

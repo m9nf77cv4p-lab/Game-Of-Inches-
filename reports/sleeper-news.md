@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1364**
-- Newly captured: **1**
+- Stored stories: **1366**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Jaydon Blue** — Jaydon Blue waived by the Dallas Cowboys (2026-08-30T19:50:58.595000Z)
+- **Jaydon Blue** — Jaydon Blue waived by the Dallas Cowboys (2026-08-30T19:50:58.595000Z)
   - Blue had trouble finding a role last year, a lot of which came due to character and work ethic concerns. While that seems to have changed heading into this season, it wasn't enough for him to avoid roster cuts. Dallas will now have Malik Davis as the primary backup behind Javonte Williams, with Phil Mafah and Hunter Luepke mixing in.
   - Source: https://www.fantasypros.com/nfl/news/604887/jaydon-blue-waived-by-dallas-cowboys.php
 - **Jaydon Blue** — Jaydon Blue - Cut loose by Cowboys (2026-08-30T19:37:27Z)
@@ -24,10 +24,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Kaleb Johnson** — Kaleb Johnson traded to Packers (2026-08-30T17:45:57.758000Z)
   - Details of the trade are still being finalized between the two organizations, with Johnson receiving the fresh start the running back desperately needs after falling out of favor in a Pittsburgh backfield that will be led by the duo of Jaylen Warren and Rico Dowdle this upcoming season. Johnson's role should become clearer as the National Football League continues their investigation into No. 1 running back Josh Jacobs, potentially resulting in a backup opportunity behind current No. 2 option MarShawn Lloyd.
   - Source: https://www.fantasypros.com/nfl/news/604830/kaleb-johnson-traded-to-packers.php
-- **Kaleb Johnson** — Kaleb Johnson - Getting moved to Packers (2026-08-30T17:45:11Z)
+- **Kaleb Johnson** — Kaleb Johnson - Gets traded to Green Bay (2026-08-30T17:45:11Z)
   - Johnson thus will get a fresh start in Green Bay after the third-round investment made in him last year didn't pan out in Pittsburgh. Working behind Jaylen Warren and Kenny Gainwell in 2025, Johnson turned 28 carries into just 69 yards (2.5 YPC) and no touchdowns while hauling in one of two targets for nine yards in 10 regular-season appearances as a rookie. Johnson will join a Green Bay backfield led by Josh Jacobs (groin) and backed up by MarShawn Lloyd and Chris Brooks.
 - **Taylen Green** — Taylen Green - Chance to make 53-man roster (2026-08-30T16:56:53Z)
   - Green is fourth on the team's quarterback depth chart behind Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The mobile rookie sixth-round pick out of Arkansas is raw as a passer but has intriguing rushing upside. Cleveland would have to release one of the players ahead of Green or carry four quarterbacks to keep him on the roster, which could leave the Browns shorthanded in depth at another position.
+- **NEW — MarShawn Lloyd** — MarShawn Lloyd Poised to Begin Season as Green Bay's Lead Running Back (2026-08-30T16:00:12Z)
+  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-poised-to-begin-season-as-green-bays-lead-running-back/1919914
+- **NEW — Jaydon Blue** — Cowboys Waive Jaydon Blue in Surprise Roster Move (2026-08-30T15:50:43Z)
+  - Source: https://www.rotoballer.com/player-news/cowboys-waive-jaydon-blue-in-surprise-roster-move/1919908
 - **Puka Nacua** — Puka Nacua Expected to Avoid Commissioner's Exempt List (2026-08-30T15:27:10Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacua-expected-to-avoid-commissioners-exempt-list/1919885
 - **Jason Myers** — Jason Myers - Five missed kicks in preseason (2026-08-30T15:21:12Z)
@@ -212,7 +216,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The second-year tight end had recorded a 36-yard touchdown grab in Sunday's exhibition against the Titans, and Arroyo followed that up with another big play Friday on his 24-yard grab during Seattle's second possession. Arroyo is expected to operate as the No. 2 pass-catching option at tight end behind AJ Barner, but veteran Eric Saubert is expected to see his fair share of snaps as well thanks to his blocking prowess.
 - **Emmett Johnson** — Emmett Johnson - Productive with nine touches Friday (2026-08-29T04:37:50Z)
   - The rookie fifth-round pick put together a strong finish to an encouraging preseason, one where he rushed 26 times for 123 yards and a touchdown and added a 6-35-0 line on seven targets. Johnson's primary competition for a depth role, Brashard Smith, had a productive 16-carry, 72-yard effort in his own right Friday, so it remains to be seen where each will slot on the depth chart behind the top duo of Kenneth Walker (ankle) and Emari Demercado.
-- **Emmett Johnson** — Emmett Johnson Appears To Be The Chiefs Backup To Roster (2026-08-29T04:35:56Z)
-  - Source: https://www.rotoballer.com/player-news/emmett-johnson-appears-to-be-the-chiefs-backup-to-roster/1918962
-- **Jeremiyah Love** — Jeremiyah Love - Continues to progress (2026-08-29T04:13:20Z)
-  - Love was able to get in some light work in Wednesday, and he appeared to be moving at a quicker pace a couple days later. It remains unclear if he will be ready to go when the Cardinals open their season against the Chargers, but he will have just over two more weeks to work past the high-ankle sprain he picked up in the first preseason game.
