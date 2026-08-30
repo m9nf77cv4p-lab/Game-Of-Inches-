@@ -2,11 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1361**
-- Newly captured: **1**
+- Stored stories: **1363**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Jaydon Blue** — Jaydon Blue - Cut loose by Cowboys (2026-08-30T19:37:27Z)
+  - Dallas reportedly has moved on from two RBs on cut-down day, the other being Phil Mafah. The moves indicate that Malik Davis has claimed the No. 2 role behind starter Javonte Williams, though one or both of Blue and Mafah could wind up back on the team's practice squad if they clear waivers.
+- **NEW — MarShawn Lloyd** — MarShawn Lloyd - Now part of reconfigured backfield (2026-08-30T19:36:53Z)
+  - Lloyd has appeared in just one regular-season game since being selected by the Packers in the third round of the 2024 NFL Draft, but with Jacobs out of action for the time being Lloyd is now the top available option on the depth chart. Both Johnson and Chris Brooks -- who excels at pass blocking -- figure to factor into the mix sans Jacobs, but with Johnson just joining the team, Lloyd now finds himself as the favorite to pick up carries.
 - **Josh Jacobs** — Josh Jacobs - Lands on Commissioner's Exempt List (2026-08-30T18:38:06Z)
   - Jacobs was officially charged Thursday with two misdemeanors stemming from his May arrest for a domestic incident in Brown County, Wis, with a court appearance scheduled for Nov. 17. For as long as he's on the list, he won't be able to practice or play in games, and there's no word on how long this may be his reality. Aside from Jacobs, the Packers backfield is occupied by MarShawn Lloyd, Chris Brooks and newcomer Kaleb Johnson, with Lloyd the likely favorite to handle the largest workload during Jacobs' absence.
 - **Josh Jacobs** — Josh Jacobs placed on commissioner of exempt list (2026-08-30T18:35:57.630000Z)
@@ -21,7 +25,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Johnson thus will get a fresh start in Green Bay after the third-round investment made in him last year didn't pan out in Pittsburgh. Working behind Jaylen Warren and Kenny Gainwell in 2025, Johnson turned 28 carries into just 69 yards (2.5 YPC) and no touchdowns while hauling in one of two targets for nine yards in 10 regular-season appearances as a rookie. Johnson will join a Green Bay backfield led by Josh Jacobs (groin) and backed up by MarShawn Lloyd and Chris Brooks.
 - **Taylen Green** — Taylen Green - Chance to make 53-man roster (2026-08-30T16:56:53Z)
   - Green is fourth on the team's quarterback depth chart behind Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The mobile rookie sixth-round pick out of Arkansas is raw as a passer but has intriguing rushing upside. Cleveland would have to release one of the players ahead of Green or carry four quarterbacks to keep him on the roster, which could leave the Browns shorthanded in depth at another position.
-- **NEW — Puka Nacua** — Puka Nacua Expected to Avoid Commissioner's Exempt List (2026-08-30T15:27:10Z)
+- **Puka Nacua** — Puka Nacua Expected to Avoid Commissioner's Exempt List (2026-08-30T15:27:10Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacua-expected-to-avoid-commissioners-exempt-list/1919885
 - **Jason Myers** — Jason Myers - Five missed kicks in preseason (2026-08-30T15:21:12Z)
   - Myers converted a 46-yard attempt in the first quarter but missed a PAT in the fourth quarter to keep Seattle's lead at 9-6. After the Chiefs tied the game, Myers missed an opportunity to give the Seahawks their only win of the preseason by pushing a 52-yard field-goal attempt wide right on the final play of the game. Myers missed his only field-goal attempt in Seattle's preseason opener against the Cowboys and went 1-for-2 on field-goal attempts while missing a PAT in the Seahawks' second preseason game. His preseason inaccuracy represents a significant departure from Myers' strong performance during the 2025 regular season, when he converted 41 of his league-high 48 field-goal attempts.
@@ -211,7 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Love was able to get in some light work in Wednesday, and he appeared to be moving at a quicker pace a couple days later. It remains unclear if he will be ready to go when the Cardinals open their season against the Chargers, but he will have just over two more weeks to work past the high-ankle sprain he picked up in the first preseason game.
 - **Cyrus Allen** — Cyrus Allen - Finishes preseason with one catch (2026-08-29T04:02:11Z)
   - The rookie fifth-round pick didn't make his catch until the opening possession of the second half. Allen was busy this preseason with six catches on 12 targets, but those netted a modest 39 yards. Nevertheless, the Cincinnati product is likely locked into a reserve receiver role to open the 2026 season.
-- **Brandon Aubrey** — Brandon Aubrey - Rare miss in preseason finale (2026-08-29T03:32:51Z)
-  - Aubrey missed a 57-yard field-goal attempt wide right after converting from 49 yards and 51 yards, but he made the proper adjustment on his next long attempt and was successful on a 58-yard field-goal attempt in the final minute of the first half. After making at least 36 field goals in each of his three regular seasons with the Cowboys, with a long of 60-plus yards in each campaign, Aubrey is widely considered the NFL's best kicker heading into the 2026 regular season.
-- **Xavier Worthy** — Xavier Worthy - One target in preseason debut (2026-08-29T03:32:23Z)
-  - The speedster made his preseason debut after overcoming a shoulder sprain that had plagued him for multiple weeks. Now apparently healthy, Worthy heads into his third season looking to build on the promise of his 2024 rookie campaign -- when he posted a 59-638-6 line across 17 regular-season games -- and atone for a lackluster 2025 season when he made just one trip to the end zone on 42 catches and missed three games.
