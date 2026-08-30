@@ -20834,7 +20834,7 @@
       "nfl_team": "NO",
       "player_id": "13281",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 0
     },
     "13285": {
@@ -23560,8 +23560,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-30T22:38:11Z",
-    "source_fingerprint": "27997378c6a8363b391f181e974b65ac621e9a16973122f8090ff67bd4c9a041"
+    "last_changed_at": "2026-08-30T22:48:19Z",
+    "source_fingerprint": "a2d14591cd126b7f5de368ff244c7bbdb5d4f2d8aeadc066dd58546de9952d4e"
   },
   "teams": [
     {

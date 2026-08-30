@@ -20829,7 +20829,7 @@
       ],
       "first_name": "Jordyn",
       "full_name": "Jordyn Tyson",
-      "injury_status": "Doubtful",
+      "injury_status": "IR",
       "last_name": "Tyson",
       "nfl_team": "NO",
       "player_id": "13281",
@@ -23560,8 +23560,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-30T22:07:46Z",
-    "source_fingerprint": "70657e421b89bcb3b33003b826e174ebf4796ddc7c64566aad0fc4c03241c9c0"
+    "last_changed_at": "2026-08-30T22:38:11Z",
+    "source_fingerprint": "27997378c6a8363b391f181e974b65ac621e9a16973122f8090ff67bd4c9a041"
   },
   "teams": [
     {

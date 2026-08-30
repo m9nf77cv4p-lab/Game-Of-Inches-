@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T22:38:13Z",
+  "last_checked_at": "2026-08-30T22:48:20Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13281|rotowire|635445|1788129028000"
+    "nfl|4137|fantasy_pros|604961|1788129959897"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Conner had been working his way back to during training camp. He will miss at least the first four games of the regular season. ",
+      "description": "The Cardinals placed RB James Conner on injured reserve/designated to return. ",
+      "metadata": {
+        "analysis": "Conner had been working his way back to during training camp. He will miss at least the first four games of the regular season. ",
+        "description": "The Cardinals placed RB James Conner on injured reserve/designated to return. ",
+        "title": "James Conner (foot) placed on injured reserve/designated to return",
+        "topic_id": "1399922153083707392",
+        "url": "https://www.fantasypros.com/nfl/news/604961/james-conner-foot-placed-on-injured-reservedesignated-to-return.php"
+      },
+      "nfl_team": "ARI",
+      "player_id": "4137",
+      "player_name": "James Conner",
+      "position": "RB",
+      "published": 1788129959897,
+      "source": "fantasy_pros",
+      "source_key": "604961",
+      "story_id": "nfl|4137|fantasy_pros|604961|1788129959897",
+      "title": "James Conner (foot) placed on injured reserve/designated to return",
+      "url": "https://www.fantasypros.com/nfl/news/604961/james-conner-foot-placed-on-injured-reservedesignated-to-return.php"
+    },
     {
       "analysis": "Tyson has had recurring issues with his right hamstring, and the most recent flare-up is expected to result in two months on the sideline, so Sunday's transaction comes as no surprise. He'll be required to miss at least the first four games of the season, but considering the aforementioned recovery timeline, he likely will be out beyond Week 5. During Tyson's absence, Devaughn Vele and rookies Bryce Lance and Barion Brown will have opportunities for targets behind top WR Chris Olave.",
       "description": "Tyson (hamstring) was placed on injured reserve with a designation to return by New Orleans on Sunday.",

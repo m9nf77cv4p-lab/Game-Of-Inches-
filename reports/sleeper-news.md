@@ -2,12 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1374**
+- Stored stories: **1375**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jordyn Tyson** — Jordyn Tyson - Lands on IR, designated to return (2026-08-30T22:30:28Z)
+- **NEW — James Conner** — James Conner (foot) placed on injured reserve/designated to return (2026-08-30T22:45:59.897000Z)
+  - Conner had been working his way back to during training camp. He will miss at least the first four games of the regular season. 
+  - Source: https://www.fantasypros.com/nfl/news/604961/james-conner-foot-placed-on-injured-reservedesignated-to-return.php
+- **Jordyn Tyson** — Jordyn Tyson - Lands on IR, designated to return (2026-08-30T22:30:28Z)
   - Tyson has had recurring issues with his right hamstring, and the most recent flare-up is expected to result in two months on the sideline, so Sunday's transaction comes as no surprise. He'll be required to miss at least the first four games of the season, but considering the aforementioned recovery timeline, he likely will be out beyond Week 5. During Tyson's absence, Devaughn Vele and rookies Bryce Lance and Barion Brown will have opportunities for targets behind top WR Chris Olave.
 - **Anthony Richardson** — Anthony Richardson - Will continue with Colts (2026-08-30T22:17:12Z)
   - Richardson requested a trade over the offseason, but the Colts elected not to move him, and he remains part of the Indianapolis organization for the time being. It remains to be seen, though, if he or Riley Leonard will open as the backup behind starting signal-caller Daniel Jones.
@@ -215,5 +218,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jalen-milroe-delivers-solid-outing-on-friday/1919040
 - **Makai Lemon** — Makai Lemon Struggles to Shake Off the Rust in Preseason Debut (2026-08-29T09:38:06Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemon-struggles-to-shake-off-the-rust-in-preseason-debut/1919025
-- **Josh Jacobs** — Packers "Fully Anticipate" Josh Jacobs Will Remain on Roster (2026-08-29T09:13:08Z)
-  - Source: https://www.rotoballer.com/player-news/packers-fully-anticipate-josh-jacobs-will-remain-on-roster/1919011
