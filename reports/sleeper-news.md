@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1347**
+- Stored stories: **1348**
 - Newly captured: **1**
 
 ## Latest news
@@ -11,9 +11,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Myers converted a 46-yard attempt in the first quarter but missed a PAT in the fourth quarter to keep Seattle's lead at 9-6. After the Chiefs tied the game, Myers missed an opportunity to give the Seahawks their only win of the preseason by pushing a 52-yard field-goal attempt wide right on the final play of the game. Myers missed his only field-goal attempt in Seattle's preseason opener against the Cowboys and went 1-for-2 on field-goal attempts while missing a PAT try in the Seahawks' second preseason game. His preseason inaccuracy represents a significant departure from Myers' strong performance during the 2025 regular season, when he converted 41 of his league-high 48 field-goal attempts.
 - **George Kittle** — George Kittle - Expected to practice this week (2026-08-30T14:57:41Z)
   - With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up against the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.
+- **NEW — Bucky Irving** — Bucky Irving Could Lose Goal-Line Touches (2026-08-30T12:14:06Z)
+  - Source: https://www.rotoballer.com/player-news/bucky-irving-could-lose-goal-line-touches/1919663
 - **Keenan Allen** — Keenan Allen - Arrested on DUI charges (2026-08-30T12:13:56Z)
   - Per the report, Allen was arrested overnight in Indianapolis "on preliminary charges of (DWI) and DWI endangering a person." The Colts, via Kevin Bowen of 107.5 The Fan, issued a statement saying, "We are aware of the incident involving Allen last night. We are in the process of gathering more information and have no further comment at this time."
-- **NEW — George Kittle** — George Kittle Expected to Practice This Week (2026-08-30T11:56:08Z)
+- **George Kittle** — George Kittle Expected to Practice This Week (2026-08-30T11:56:08Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-expected-to-practice-this-week/1919624
 - **Keenan Allen** — Keenan Allen facing two DUI charges after arrest early Sunday morning (2026-08-30T11:55:56.122000Z)
   - The veteran receiver was a badly needed addition to the Colts roster, and now he could find himself suspended for a game or two should the NFL find that action appropriate. It's also possible he will only face fines. Still, it's worth monitoring the vet's situation, as he was an interesting late-round sleeper in drafts.
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The 49ers rested most of their projected regular-season starters, so Samuel's absence was expected. The veteran wideout saw action in one exhibition contest, catching one of two targets for four yards. Samuel should have a key role in San Francisco's passing game with Ricky Pearsall (knee) out for the season, and he gives QB Brock Purdy some familiarity amongst a WR corps that features numerous newcomers, including Mike Evans (groin), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).
 - **Dalton Kincaid** — Dalton Kincaid - Doesn't play in preseason finale (2026-08-29T01:12:27Z)
   - Kincaid's absence was simply for rest and injury-avoidance purposes, as Buffalo sat out all of its key regular-season starters. Kincaid ended up playing in just one preseason contest, logging nine snaps without seeing any targets. He's slated to be a key target for Josh Allen in the passing game this season and will next take the field in Week 1 versus Houston on Sunday, Sept. 13.
-- **Brock Purdy** — Brock Purdy - Doesn't participate in preseason finale (2026-08-29T01:07:20Z)
-  - San Francisco elected to rest its projected regular-season starters for the team's final exhibition game. Purdy saw very limited work during the preseason slate, getting into one game and completing four of six passes for 29 yards. He'll next take the field against the Rams in Week 1 of the regular season in Melbourne, Australia, on Friday, Sept. 11 (which will be Thursday, Sept. 10 in US time zones). Purdy will be working with a largely new wideout corps, including Mike Evans (groin), Deebo Samuel (returning after a one-year hiatus with Washington), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).

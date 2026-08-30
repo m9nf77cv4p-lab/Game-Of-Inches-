@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T16:16:00Z",
+  "last_checked_at": "2026-08-30T16:26:12Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|4217|rotoballer|219710|1788090968000"
+    "nfl|11584|rotoballer|219712|1788092046000"
   ],
   "schema_version": 1,
   "source": {
@@ -54,6 +54,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers running back Bucky Irving could be in danger of losing touches with the news on Sunday. The Bucs have decided to cut Josh Williams and keep Sean Tucker on their 53-man roster. Tucker figures to serve as the third back behind Kenneth Gainwell, with Irving being the starter. Normally, Tucker's presence doesn't mean much outside of his one monster game per season. However, the Bucs tend to trust Tucker the most out of their backs in goal-line situations. His work in the red zone could be why the Bucs decided to keep him around. His presence will likely be a thorn in the side of Irving, but the 24-year-old should still offer RB2 value as the lead back in Tampa Bay.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers running back Bucky Irving could be in danger of losing touches with the news on Sunday. The Bucs have decided to cut Josh Williams and keep Sean Tucker on their 53-man roster. Tucker figures to serve as the third back behind Kenneth Gainwell, with Irving being the starter. Normally, Tucker's presence doesn't mean much outside of his one monster game per season. However, the Bucs tend to trust Tucker the most out of their backs in goal-line situations. His work in the red zone could be why the Bucs decided to keep him around. His presence will likely be a thorn in the side of Irving, but the 24-year-old should still offer RB2 value as the lead back in Tampa Bay.",
+        "title": "Bucky Irving Could Lose Goal-Line Touches",
+        "topic_id": "1399825246369943552",
+        "url": "https://www.rotoballer.com/player-news/bucky-irving-could-lose-goal-line-touches/1919663"
+      },
+      "nfl_team": "TB",
+      "player_id": "11584",
+      "player_name": "Bucky Irving",
+      "position": "RB",
+      "published": 1788092046000,
+      "source": "rotoballer",
+      "source_key": "219712",
+      "story_id": "nfl|11584|rotoballer|219712|1788092046000",
+      "title": "Bucky Irving Could Lose Goal-Line Touches",
+      "url": "https://www.rotoballer.com/player-news/bucky-irving-could-lose-goal-line-touches/1919663"
+    },
+    {
       "analysis": "Per the report, Allen was arrested overnight in Indianapolis \"on preliminary charges of (DWI) and DWI endangering a person.\" The Colts, via Kevin Bowen of 107.5 The Fan, issued a statement saying, \"We are aware of the incident involving Allen last night. We are in the process of gathering more information and have no further comment at this time.\"",
       "description": "Allen was arrested early Sunday morning and charged with DUI, FOX59 reports.",
       "metadata": {
@@ -75,9 +95,9 @@
     },
     {
       "analysis": null,
-      "description": "According to Adam Schefter, San Francisco 49ers tight end George Kittle (Achilles) is expected to practice this week. Kittle is still working his way back from an Achilles tendon injury that happened on January 11. The veteran tight end has been working hard and is pushing to be available for Week 1 against the Los Angeles Rams. He was activated from the active/PUP list last Sunday and is trending towards getting on the practice field this week. His status for Week 1 is still cloudy, but it sounds like Kittle won't miss much time to begin the season. Fantasy managers should continue to check for updates throughout the week on Kittle's status.",
+      "description": "According to Adam Schefter, San Francisco 49ers tight end George Kittle (Achilles) is expected to practice this week. Despite recent reports suggesting that he might have had a setback in his recovery from a torn Achilles tendon, he has not had any setbacks and has a legitimate chance to play in Week 1. Kittle is still working his way back from an Achilles tendon injury that happened on January 11. The veteran tight end has been working hard and is pushing to be available for Week 1 against the Los Angeles Rams. He was activated from the active/PUP list last Sunday and is trending towards getting on the practice field this week. His status for Week 1 is still cloudy, but it sounds like Kittle won't miss much time to begin the season. Fantasy managers should continue to check for updates throughout the week on Kittle's status.",
       "metadata": {
-        "description": "According to Adam Schefter, San Francisco 49ers tight end George Kittle (Achilles) is expected to practice this week. Kittle is still working his way back from an Achilles tendon injury that happened on January 11. The veteran tight end has been working hard and is pushing to be available for Week 1 against the Los Angeles Rams. He was activated from the active/PUP list last Sunday and is trending towards getting on the practice field this week. His status for Week 1 is still cloudy, but it sounds like Kittle won't miss much time to begin the season. Fantasy managers should continue to check for updates throughout the week on Kittle's status.",
+        "description": "According to Adam Schefter, San Francisco 49ers tight end George Kittle (Achilles) is expected to practice this week. Despite recent reports suggesting that he might have had a setback in his recovery from a torn Achilles tendon, he has not had any setbacks and has a legitimate chance to play in Week 1. Kittle is still working his way back from an Achilles tendon injury that happened on January 11. The veteran tight end has been working hard and is pushing to be available for Week 1 against the Los Angeles Rams. He was activated from the active/PUP list last Sunday and is trending towards getting on the practice field this week. His status for Week 1 is still cloudy, but it sounds like Kittle won't miss much time to begin the season. Fantasy managers should continue to check for updates throughout the week on Kittle's status.",
         "title": "George Kittle Expected to Practice This Week",
         "topic_id": "1399821471517257728",
         "url": "https://www.rotoballer.com/player-news/george-kittle-expected-to-practice-this-week/1919624"
