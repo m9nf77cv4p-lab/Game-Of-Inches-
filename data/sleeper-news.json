@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T12:04:02Z",
+  "last_checked_at": "2026-08-30T12:24:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|1479|fantasy_pros|604750|1788090956122"
+    "nfl|1479|rotowire|635286|1788092036000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Per the report, Allen was arrested overnight in Indianapolis \"on preliminary charges of (DWI) and DWI endangering a person.\" The Colts, via Kevin Bowen of 107.5 The Fan, issued a statement saying, \"We are aware of the incident involving Allen last night. We are in the process of gathering more information and have no further comment at this time.\"",
+      "description": "Allen was arrested early Sunday morning and charged with DUI, FOX59 reports.",
+      "metadata": {
+        "analysis": "Per the report, Allen was arrested overnight in Indianapolis \"on preliminary charges of (DWI) and DWI endangering a person.\" The Colts, via Kevin Bowen of 107.5 The Fan, issued a statement saying, \"We are aware of the incident involving Allen last night. We are in the process of gathering more information and have no further comment at this time.\"",
+        "description": "Allen was arrested early Sunday morning and charged with DUI, FOX59 reports.",
+        "title": "Keenan Allen - Arrested on DUI charges",
+        "topic_id": "1399763587458682880"
+      },
+      "nfl_team": "IND",
+      "player_id": "1479",
+      "player_name": "Keenan Allen",
+      "position": "WR",
+      "published": 1788092036000,
+      "source": "rotowire",
+      "source_key": "635286",
+      "story_id": "nfl|1479|rotowire|635286|1788092036000",
+      "title": "Keenan Allen - Arrested on DUI charges",
+      "url": null
+    },
     {
       "analysis": "The veteran receiver was a badly needed addition to the Colts roster, and now he could find himself suspended for a game or two should the NFL find that action appropriate. It's also possible he will only face fines. Still, it's worth monitoring the vet's situation, as he was an interesting late-round sleeper in drafts.",
       "description": "Keenan Allen is facing two DUI charges after being arrested early Sunday morning.",
