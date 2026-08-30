@@ -2,15 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1378**
-- Newly captured: **2**
+- Stored stories: **1379**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jordyn Tyson** — Jordyn Tyson (hamstring) placed on IR (2026-08-30T23:15:59.432000Z)
+- **NEW — Tyrone Tracy** — Tyrone Tracy - Makes initial 53-man roster (2026-08-30T23:20:40Z)
+  - The decision regarding Tracy's place on New York's roster was tied to uneven play in the preseason, the recent arrival of veteran RB Najee Harris to the position group, and a neck injury that he picked up in the team's exhibition finale. Having said that, he's among the backfield options along with No. 1 Cam Skattebo, Devin Singletary and Harris. It's perhaps a vote of confidence for the third-year pro, but because the other three are healthy, Tracy may be hard-pressed for a regular role early on this season.
+- **Jordyn Tyson** — Jordyn Tyson (hamstring) placed on IR (2026-08-30T23:15:59.432000Z)
   - Tyson is expected to miss roughly two months with a hamstring injury. He has been dealing with hamstring issues since college at Arizona State. 
   - Source: https://www.fantasypros.com/nfl/news/604978/jordyn-tyson-hamstring-placed-on-ir.php
-- **NEW — Zach Charbonnet** — Zach Charbonnet - Opening season on reserve/PUP list (2026-08-30T23:06:40Z)
+- **Zach Charbonnet** — Zach Charbonnet - Opening season on reserve/PUP list (2026-08-30T23:06:40Z)
   - This move was merely procedural, as Charbonnet is still far away from returning to action following the ACL tear he suffered in his left knee in the divisional round on Jan. 17. In any case, he'll be sidelined for at least the first four contests of the season, while some combination of rookie first-round pick Jadarian Price and holdover George Holani will pace Seattle's backfield Week 1 and beyond.
 - **J.J. McCarthy** — J.J. McCarthy makes Vikings 53-man roster (2026-08-30T23:05:59.619000Z)
   - There was some speculation that McCarthy might be left off the initial roster. Those turned out to not be true as he officially makes it. He'll be behind Kyler Murray and potentially Carson Wentz as well to open the season. 
@@ -218,5 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/adam-randall-looks-to-bulldoze-his-way-onto-the-roster/1919089
 - **Demond Claiborne** — More RB3 Reps For Demond Claiborne (2026-08-29T10:56:27Z)
   - Source: https://www.rotoballer.com/player-news/more-rb3-reps-for-demond-claiborne/1919083
-- **Tua Tagovailoa** — Tua Tagovailoa May Have Shown Just Enough When Most Needed (2026-08-29T10:49:05Z)
-  - Source: https://www.rotoballer.com/player-news/tua-tagovailoa-may-have-shown-just-enough-when-most-needed/1919080

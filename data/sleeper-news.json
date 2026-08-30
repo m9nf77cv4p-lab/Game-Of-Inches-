@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T23:18:15Z",
+  "last_checked_at": "2026-08-30T23:28:14Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13281|fantasy_pros|604978|1788131759432",
-    "nfl|9753|rotowire|635463|1788131200000"
+    "nfl|11655|rotowire|635467|1788132040000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The decision regarding Tracy's place on New York's roster was tied to uneven play in the preseason, the recent arrival of veteran RB Najee Harris to the position group, and a neck injury that he picked up in the team's exhibition finale. Having said that, he's among the backfield options along with No. 1 Cam Skattebo, Devin Singletary and Harris. It's perhaps a vote of confidence for the third-year pro, but because the other three are healthy, Tracy may be hard-pressed for a regular role early on this season.",
+      "description": "Tracy (neck) is on the Giants' initial 53-man roster for the 2026 season, Dan Salomone and Matt Citak of the team's official site  report.",
+      "metadata": {
+        "analysis": "The decision regarding Tracy's place on New York's roster was tied to uneven play in the preseason, the recent arrival of veteran RB Najee Harris to the position group, and a neck injury that he picked up in the team's exhibition finale. Having said that, he's among the backfield options along with No. 1 Cam Skattebo, Devin Singletary and Harris. It's perhaps a vote of confidence for the third-year pro, but because the other three are healthy, Tracy may be hard-pressed for a regular role early on this season.",
+        "description": "Tracy (neck) is on the Giants' initial 53-man roster for the 2026 season, Dan Salomone and Matt Citak of the team's official site  report.",
+        "title": "Tyrone Tracy - Makes initial 53-man roster",
+        "topic_id": "1399932218868035584"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11655",
+      "player_name": "Tyrone Tracy",
+      "position": "RB",
+      "published": 1788132040000,
+      "source": "rotowire",
+      "source_key": "635467",
+      "story_id": "nfl|11655|rotowire|635467|1788132040000",
+      "title": "Tyrone Tracy - Makes initial 53-man roster",
+      "url": null
+    },
     {
       "analysis": "Tyson is expected to miss roughly two months with a hamstring injury. He has been dealing with hamstring issues since college at Arizona State. ",
       "description": "The Saints placed Jordyn Tyson on injured reserve.",
