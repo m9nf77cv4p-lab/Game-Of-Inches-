@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T02:07:40Z",
+  "last_checked_at": "2026-08-30T02:17:55Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|12481|rotoballer|219689|1788040748000",
-    "nfl|13288|rotowire|635249|1788055289000",
-    "nfl|4034|rotoballer|219688|1788040447000"
+    "nfl|12540|rotowire|635250|1788055593000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,10 +14,30 @@
   },
   "stories": [
     {
-      "analysis": "The rookie fifth-round pick led the Titans in rush attempts on the night and finished second behind D'Ernest Johnson and quarterback Hendon Hooker in rushing yards. Singleton was the first Tennessee back to log a touch, gaining six yards with his first carry on second play from scrimmage. Singleton finished preseason having rushed 15 times for 57 yards alongside Saturday's 2-18-0 receiving line across two games, and he'll now wait to see if those numbers were enough to garner him the No. 3 running back role.",
+      "analysis": "The speedy second-year pro opened the game with the starting offense and saw both of his targets from Will Levis during the Titans' second possession. Dike had one catch in each of Tennessee's three preseason games, posting a 3-28-0 line on four targets. Dike will open the season in a reserve receiver role with big-play potential after posting a 48-423-4 line across 17 regular-season games during his rookie 2025 campaign.",
+      "description": "Dike secured one of two targets for nine yards in the Titans' 24-15 preseason loss to the Bears on Saturday.",
+      "metadata": {
+        "analysis": "The speedy second-year pro opened the game with the starting offense and saw both of his targets from Will Levis during the Titans' second possession. Dike had one catch in each of Tennessee's three preseason games, posting a 3-28-0 line on four targets. Dike will open the season in a reserve receiver role with big-play potential after posting a 48-423-4 line across 17 regular-season games during his rookie 2025 campaign.",
+        "description": "Dike secured one of two targets for nine yards in the Titans' 24-15 preseason loss to the Bears on Saturday.",
+        "title": "Chimere Dike - One catch in preseason finale",
+        "topic_id": "1399611321447677952"
+      },
+      "nfl_team": "TEN",
+      "player_id": "12540",
+      "player_name": "Chimere Dike",
+      "position": "WR",
+      "published": 1788055593000,
+      "source": "rotowire",
+      "source_key": "635250",
+      "story_id": "nfl|12540|rotowire|635250|1788055593000",
+      "title": "Chimere Dike - One catch in preseason finale",
+      "url": null
+    },
+    {
+      "analysis": "The rookie fifth-round pick led the team in rush attempts on the night and finished second behind D'Ernest Johnson and quarterback Hendon Hooker in rushing yards. Singleton was the first Tennessee back to log a touch, gaining six yards on a reception on the second play from scrimmage and subsequently netting 18 yards on three consecutive rush attempts to kick off the Titans' second drive. Singleton finished preseason having rushed 15 times for 57 yards alongside Saturday's 2-18-0 receiving line across two games, and he'll now wait to see if those numbers were enough to garner him the No. 3 running back role.",
       "description": "Singleton rushed seven times for 26 yards and brought in both targets for 18 yards in the Titans' 24-15 preseason loss to the Bears on Saturday.",
       "metadata": {
-        "analysis": "The rookie fifth-round pick led the Titans in rush attempts on the night and finished second behind D'Ernest Johnson and quarterback Hendon Hooker in rushing yards. Singleton was the first Tennessee back to log a touch, gaining six yards with his first carry on second play from scrimmage. Singleton finished preseason having rushed 15 times for 57 yards alongside Saturday's 2-18-0 receiving line across two games, and he'll now wait to see if those numbers were enough to garner him the No. 3 running back role.",
+        "analysis": "The rookie fifth-round pick led the team in rush attempts on the night and finished second behind D'Ernest Johnson and quarterback Hendon Hooker in rushing yards. Singleton was the first Tennessee back to log a touch, gaining six yards on a reception on the second play from scrimmage and subsequently netting 18 yards on three consecutive rush attempts to kick off the Titans' second drive. Singleton finished preseason having rushed 15 times for 57 yards alongside Saturday's 2-18-0 receiving line across two games, and he'll now wait to see if those numbers were enough to garner him the No. 3 running back role.",
         "description": "Singleton rushed seven times for 26 yards and brought in both targets for 18 yards in the Titans' 24-15 preseason loss to the Bears on Saturday.",
         "title": "Nicholas Singleton - Tallies 44 scrimmage yards Saturday",
         "topic_id": "1399610063051624448"
@@ -36,10 +54,10 @@
       "url": null
     },
     {
-      "analysis": "Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but he will have a couple weeks to try and get there before the Bears face the Panthers in Week 1.",
+      "analysis": "Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but coach Ben Johnson said after Saturday's game that the wideout \"looks 100 percent,\" per Jason Lieser of the Chicago Sun-Times, so the expectation is that he'll be ready to go for Week 1 of the regular season versus the Panthers.",
       "description": "Burden (groin) did not suit up for Saturday's preseason victory over the Titans but did run routes pregame, according to Brad Biggs of the Chicago Tribune.",
       "metadata": {
-        "analysis": "Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but he will have a couple weeks to try and get there before the Bears face the Panthers in Week 1.",
+        "analysis": "Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but coach Ben Johnson said after Saturday's game that the wideout \"looks 100 percent,\" per Jason Lieser of the Chicago Sun-Times, so the expectation is that he'll be ready to go for Week 1 of the regular season versus the Panthers.",
         "description": "Burden (groin) did not suit up for Saturday's preseason victory over the Titans but did run routes pregame, according to Brad Biggs of the Chicago Tribune.",
         "title": "Luther Burden - Runs routes Saturday",
         "topic_id": "1399606286231875584"

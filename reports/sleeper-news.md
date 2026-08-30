@@ -2,15 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1328**
-- Newly captured: **3**
+- Stored stories: **1329**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Nicholas Singleton** — Nicholas Singleton - Tallies 44 scrimmage yards Saturday (2026-08-30T02:01:29Z)
-  - The rookie fifth-round pick led the Titans in rush attempts on the night and finished second behind D'Ernest Johnson and quarterback Hendon Hooker in rushing yards. Singleton was the first Tennessee back to log a touch, gaining six yards with his first carry on second play from scrimmage. Singleton finished preseason having rushed 15 times for 57 yards alongside Saturday's 2-18-0 receiving line across two games, and he'll now wait to see if those numbers were enough to garner him the No. 3 running back role.
+- **NEW — Chimere Dike** — Chimere Dike - One catch in preseason finale (2026-08-30T02:06:33Z)
+  - The speedy second-year pro opened the game with the starting offense and saw both of his targets from Will Levis during the Titans' second possession. Dike had one catch in each of Tennessee's three preseason games, posting a 3-28-0 line on four targets. Dike will open the season in a reserve receiver role with big-play potential after posting a 48-423-4 line across 17 regular-season games during his rookie 2025 campaign.
+- **Nicholas Singleton** — Nicholas Singleton - Tallies 44 scrimmage yards Saturday (2026-08-30T02:01:29Z)
+  - The rookie fifth-round pick led the team in rush attempts on the night and finished second behind D'Ernest Johnson and quarterback Hendon Hooker in rushing yards. Singleton was the first Tennessee back to log a touch, gaining six yards on a reception on the second play from scrimmage and subsequently netting 18 yards on three consecutive rush attempts to kick off the Titans' second drive. Singleton finished preseason having rushed 15 times for 57 yards alongside Saturday's 2-18-0 receiving line across two games, and he'll now wait to see if those numbers were enough to garner him the No. 3 running back role.
 - **Luther Burden** — Luther Burden - Runs routes Saturday (2026-08-30T01:44:33Z)
-  - Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but he will have a couple weeks to try and get there before the Bears face the Panthers in Week 1.
+  - Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but coach Ben Johnson said after Saturday's game that the wideout "looks 100 percent," per Jason Lieser of the Chicago Sun-Times, so the expectation is that he'll be ready to go for Week 1 of the regular season versus the Panthers.
 - **Carnell Tate** — Carnell Tate - One target to close out preseason (2026-08-30T01:29:48Z)
   - The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack right from a Week 1 home matchup against the Jets.
 - **Rashee Rice** — Rashee Rice - Logs 10 snaps in preseason finale (2026-08-29T23:36:05Z)
@@ -21,9 +23,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Branch didn't see much action Friday, playing a total of four snaps (three on offense, one on special teams). However, his lone snap on special teams came as a punt returner, and he figures to see plenty of work as a returner in the upcoming season, especially if he doesn't get much playing time on offense behind Drake London, Jahan Dotson and Olamide Zaccheaus.
 - **Anthony Richardson** — Anthony Richardson - Efficient in final exhibition game (2026-08-29T21:59:38Z)
   - The 2023 first-round pick got the start in the Colts' preseason finale and led the team to field goals on his first two drives, but Riley Leonard came on in the second quarter and produced Indy's only TD of the afternoon. Richardson did avoid committing any turnovers, but Saturday's performances didn't do much to clarify who will begin the season as Daniel Jones' backup.
-- **NEW — Cam Skattebo** — Deep Backfield Could Actually Help Cam Skattebo in 2026 (2026-08-29T21:59:08Z)
+- **Cam Skattebo** — Deep Backfield Could Actually Help Cam Skattebo in 2026 (2026-08-29T21:59:08Z)
   - Source: https://www.rotoballer.com/player-news/deep-backfield-could-actually-help-cam-skattebo-in-2026/1919401
-- **NEW — Christian McCaffrey** — Christian McCaffrey a Top Target in Drafts Despite Steep Price Tag (2026-08-29T21:54:07Z)
+- **Christian McCaffrey** — Christian McCaffrey a Top Target in Drafts Despite Steep Price Tag (2026-08-29T21:54:07Z)
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-a-top-target-in-drafts-despite-steep-price-tag/1919399
 - **Jake Bates** — Jake Bates - Rough performance in preseason finale (2026-08-29T21:53:32Z)
   - The Lions scored four touchdowns on the afternoon but failed on a two-point conversion on one of them. Bates hasn't looked great this preseason and converted a subpar 79.4 percent of his FG attempts in 2025, but as yet there's been no suggestion his spot is in jeopardy. Detroit's high-powered offense offers Bates a reliable floor in terms of PAT volume, but the unit's efficiency also limits his FG volume, and his fantasy ceiling -- he reached double-digit points in just seven of 17 regular-season games last season.
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The same can be said for No. 1 RB Cam Skattebo, while position mates Tyrone Tracy and Najee Harris are candidates to get some run in the Giants' exhibition finale. The rest would seem to indicate Singletary's roster spot is secure, but it's not exactly clear how things will shake out behind Cam Skattebo with Harris in the mix.
 - **Keaton Mitchell** — Keaton Mitchell - Doesn't play Thursday (2026-08-28T23:22:04Z)
   - Mitchell experienced a setback for an unspecified injury in practice earlier in the week, so his absence from Thursday's preseason finale was likely a precautionary move. The nature and severity of Mitchell's injury is not clear, but there's been no indication that he's in danger of missing the Chargers' Week 1 clash against the Cardinals on Sunday, Sept. 13. The fourth-year pro inked a two-year contract with the Chargers in March after spending the first three years of his NFL career with the Ravens. He's expected to work in rotation with Kimani Vidal behind starting running back Omarion Hampton.
-- **Malik Nabers** — Malik Nabers - Not in uniform Friday (2026-08-28T23:18:26Z)
-  - Nabers has been an active participant during most of training camp and finally ditched the non-contact red jersey at Monday's practice, but he won't make an appearance during exhibition season as he continues to put last season's torn right ACL further in the rearview mirror. He'll continue to ramp up in advance of a Week 1 matchup with the Cowboys on Sunday, Sept. 13.
