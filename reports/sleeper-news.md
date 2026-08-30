@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1348**
-- Newly captured: **0**
+- Stored stories: **1349**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Taylen Green** — Taylen Green - Chance to make 53-man roster (2026-08-30T16:56:53Z)
+  - Green is fourth on the team's quarterback depth chart behind Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The mobile rookie sixth-round pick out of Arkansas is raw as a passer but has intriguing rushing upside. Cleveland would have to release one of the players ahead of Green or carry four quarterbacks to keep him on the roster, which could leave the Browns shorthanded in depth at another position.
 - **Jason Myers** — Jason Myers - Five missed kicks in preseason (2026-08-30T15:21:12Z)
   - Myers converted a 46-yard attempt in the first quarter but missed a PAT in the fourth quarter to keep Seattle's lead at 9-6. After the Chiefs tied the game, Myers missed an opportunity to give the Seahawks their only win of the preseason by pushing a 52-yard field-goal attempt wide right on the final play of the game. Myers missed his only field-goal attempt in Seattle's preseason opener against the Cowboys and went 1-for-2 on field-goal attempts while missing a PAT in the Seahawks' second preseason game. His preseason inaccuracy represents a significant departure from Myers' strong performance during the 2025 regular season, when he converted 41 of his league-high 48 field-goal attempts.
 - **George Kittle** — George Kittle - Expected to practice this week (2026-08-30T14:57:41Z)
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Mims appeared to sustain the injury while attempting a leaping reception early in the first quarter. He was able to walk off the field under his own power but was directed to the blue medical tent before going into the locker room. Mims will undergo further tests to determine the severity of his foot injury, but it wouldn't be surprising if the fourth-year wideout was held out for the rest of Friday's exhibition contest.
 - **Deebo Samuel** — Deebo Samuel - Held out of preseason finale (2026-08-29T01:18:03Z)
   - The 49ers rested most of their projected regular-season starters, so Samuel's absence was expected. The veteran wideout saw action in one exhibition contest, catching one of two targets for four yards. Samuel should have a key role in San Francisco's passing game with Ricky Pearsall (knee) out for the season, and he gives QB Brock Purdy some familiarity amongst a WR corps that features numerous newcomers, including Mike Evans (groin), rookie De'Zhaun Stribling (shoulder) and Christian Kirk (calf).
-- **Dalton Kincaid** — Dalton Kincaid - Doesn't play in preseason finale (2026-08-29T01:12:27Z)
-  - Kincaid's absence was simply for rest and injury-avoidance purposes, as Buffalo sat out all of its key regular-season starters. Kincaid ended up playing in just one preseason contest, logging nine snaps without seeing any targets. He's slated to be a key target for Josh Allen in the passing game this season and will next take the field in Week 1 versus Houston on Sunday, Sept. 13.

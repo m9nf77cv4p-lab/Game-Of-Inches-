@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-08-30T16:56:48Z",
+  "last_checked_at": "2026-08-30T17:06:43Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|13306|rotowire|635311|1788109013000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Green is fourth on the team's quarterback depth chart behind Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The mobile rookie sixth-round pick out of Arkansas is raw as a passer but has intriguing rushing upside. Cleveland would have to release one of the players ahead of Green or carry four quarterbacks to keep him on the roster, which could leave the Browns shorthanded in depth at another position.",
+      "description": "The Browns would like to keep Green on the 53-man roster if they can fit him, Mary Kay Cabot of the Cleveland Plain Dealer reports.",
+      "metadata": {
+        "analysis": "Green is fourth on the team's quarterback depth chart behind Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The mobile rookie sixth-round pick out of Arkansas is raw as a passer but has intriguing rushing upside. Cleveland would have to release one of the players ahead of Green or carry four quarterbacks to keep him on the roster, which could leave the Browns shorthanded in depth at another position.",
+        "description": "The Browns would like to keep Green on the 53-man roster if they can fit him, Mary Kay Cabot of the Cleveland Plain Dealer reports.",
+        "title": "Taylen Green - Chance to make 53-man roster",
+        "topic_id": "1399835315740405760"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13306",
+      "player_name": "Taylen Green",
+      "position": "QB",
+      "published": 1788109013000,
+      "source": "rotowire",
+      "source_key": "635311",
+      "story_id": "nfl|13306|rotowire|635311|1788109013000",
+      "title": "Taylen Green - Chance to make 53-man roster",
+      "url": null
+    },
     {
       "analysis": "Myers converted a 46-yard attempt in the first quarter but missed a PAT in the fourth quarter to keep Seattle's lead at 9-6. After the Chiefs tied the game, Myers missed an opportunity to give the Seahawks their only win of the preseason by pushing a 52-yard field-goal attempt wide right on the final play of the game. Myers missed his only field-goal attempt in Seattle's preseason opener against the Cowboys and went 1-for-2 on field-goal attempts while missing a PAT in the Seahawks' second preseason game. His preseason inaccuracy represents a significant departure from Myers' strong performance during the 2025 regular season, when he converted 41 of his league-high 48 field-goal attempts.",
       "description": "Myers went 1-for-2 on field-goal attempts and missed his lone PAT in Friday's 9-9 preseason tie against the Chiefs.",
