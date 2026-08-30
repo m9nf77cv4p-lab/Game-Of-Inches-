@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T22:17:47Z",
+  "last_checked_at": "2026-08-30T22:27:57Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|11565|rotowire|635433|1788127516000"
+    "nfl|9229|rotowire|635439|1788128232000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Richardson requested a trade over the offseason, but the Colts elected not to move him, and he remains part of the Indianapolis organization for the time being. It remains to be seen, though, if he or Riley Leonard will open as the backup behind starting signal-caller Daniel Jones.",
+      "description": "Richardson remains on the 53-man roster for the Colts.",
+      "metadata": {
+        "analysis": "Richardson requested a trade over the offseason, but the Colts elected not to move him, and he remains part of the Indianapolis organization for the time being. It remains to be seen, though, if he or Riley Leonard will open as the backup behind starting signal-caller Daniel Jones.",
+        "description": "Richardson remains on the 53-man roster for the Colts.",
+        "title": "Anthony Richardson - Will continue with Colts",
+        "topic_id": "1399915861032054784"
+      },
+      "nfl_team": "IND",
+      "player_id": "9229",
+      "player_name": "Anthony Richardson",
+      "position": "QB",
+      "published": 1788128232000,
+      "source": "rotowire",
+      "source_key": "635439",
+      "story_id": "nfl|9229|rotowire|635439|1788128232000",
+      "title": "Anthony Richardson - Will continue with Colts",
+      "url": null
+    },
     {
       "analysis": "There was talk leading up to cut-down day that McCarthy could be traded or even released, but he will remain with Minnesota for the time being. Kyler Murray will open the season as the starting quarterback for the Vikings, and either McCarthy or Carson Wentz will back him up.",
       "description": "McCarthy (ankle) remains on the 53-man roster for the Vikings, Adam Schefter of ESPN reports.",
