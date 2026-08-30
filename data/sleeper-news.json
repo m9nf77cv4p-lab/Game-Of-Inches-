@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T21:37:46Z",
+  "last_checked_at": "2026-08-30T21:47:43Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13306|rotowire|635409|1788125071000"
+    "nfl|9502|fantasy_pros|604939|1788126359406"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Dell last played in an NFL game all the way back in 2024. The 26-year-old wideout has been practicing for the Texans, but he will be given a bit more time to get fully back up to speed. The earliest Dell could see the field is now Week 5. ",
+      "description": "Tank Dell (knee) has been placed on IR and will miss at least the first four games of the season. ",
+      "metadata": {
+        "analysis": "Dell last played in an NFL game all the way back in 2024. The 26-year-old wideout has been practicing for the Texans, but he will be given a bit more time to get fully back up to speed. The earliest Dell could see the field is now Week 5. ",
+        "description": "Tank Dell (knee) has been placed on IR and will miss at least the first four games of the season. ",
+        "title": "Tank Dell (knee) placed on IR, designated to return",
+        "topic_id": "1399907051525701632",
+        "url": "https://www.fantasypros.com/nfl/news/604939/tank-dell-knee-placed-on-ir-designated-to-return.php"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9502",
+      "player_name": "Tank Dell",
+      "position": "WR",
+      "published": 1788126359406,
+      "source": "fantasy_pros",
+      "source_key": "604939",
+      "story_id": "nfl|9502|fantasy_pros|604939|1788126359406",
+      "title": "Tank Dell (knee) placed on IR, designated to return",
+      "url": "https://www.fantasypros.com/nfl/news/604939/tank-dell-knee-placed-on-ir-designated-to-return.php"
+    },
     {
       "analysis": "Green was selected in the sixth round of this year's draft after finishing his college career at Arkansas in 2025. The quarterback saw limited action during the preseason, completing five of seven passes for 27 yards while also adding an eight-yard rush. The Browns placed Dillon Gabriel (back) on injured reserve with a designation to return Sunday, and Green will get a chance to serve as the team's No. 3 QB behind Deshaun Watson and Sanders in Gabriel's absence.",
       "description": "Green has made the Browns' initial 53-man roster, Mary Kay Cabot of The Cleveland Plain Dealer reports.",
