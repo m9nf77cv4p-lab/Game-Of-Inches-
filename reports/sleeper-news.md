@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1361**
-- Newly captured: **1**
+- Stored stories: **1360**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -25,7 +25,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Myers converted a 46-yard attempt in the first quarter but missed a PAT in the fourth quarter to keep Seattle's lead at 9-6. After the Chiefs tied the game, Myers missed an opportunity to give the Seahawks their only win of the preseason by pushing a 52-yard field-goal attempt wide right on the final play of the game. Myers missed his only field-goal attempt in Seattle's preseason opener against the Cowboys and went 1-for-2 on field-goal attempts while missing a PAT in the Seahawks' second preseason game. His preseason inaccuracy represents a significant departure from Myers' strong performance during the 2025 regular season, when he converted 41 of his league-high 48 field-goal attempts.
 - **George Kittle** — George Kittle - Expected to practice this week (2026-08-30T14:57:41Z)
   - With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up versus the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.
-- **NEW — Keenan Allen** — Keenan Allen Faces Potential Three-Game Suspension (2026-08-30T14:48:06Z)
+- **Keenan Allen** — Keenan Allen Faces Potential Three-Game Suspension (2026-08-30T14:48:06Z)
   - Source: https://www.rotoballer.com/player-news/keenan-allen-faces-potential-three-game-suspension/1919808
 - **Brock Bowers** — Brock Bowers Looks Like Himself Again (2026-08-30T14:09:07Z)
   - Source: https://www.rotoballer.com/player-news/brock-bowers-looks-like-himself-again/1919761

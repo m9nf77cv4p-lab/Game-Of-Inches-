@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-08-30T18:56:33Z",
+  "last_checked_at": "2026-08-30T19:06:44Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [
-    "nfl|1479|rotoballer|219726|1788101286000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -27332,26 +27330,6 @@
       "story_id": "nfl|2133|rotoballer|217792|1785531785000",
       "title": "Davante Adams Uncertain About Future After 2026 Season",
       "url": "https://www.rotoballer.com/player-news/davante-adams-uncertain-about-future-after-2026-season/1900807"
-    },
-    {
-      "analysis": "Brazzell will officially miss his entire rookie season due to the LCL tear he suffered during Wednesday's training camp practice. The rookie third-round pick will undergo surgery and set his full attention on making a recovery for the 2027 campaign. In the wake of this transaction, Xavier Legette and John Metchie are the top candidates to secure the No. 3 wide receiver role in Carolina behind Tetairoa McMillan and Jalen Coker.",
-      "description": "The Panthers placed Brazzell (knee) on injured reserve Friday.",
-      "metadata": {
-        "analysis": "Brazzell will officially miss his entire rookie season due to the LCL tear he suffered during Wednesday's training camp practice. The rookie third-round pick will undergo surgery and set his full attention on making a recovery for the 2027 campaign. In the wake of this transaction, Xavier Legette and John Metchie are the top candidates to secure the No. 3 wide receiver role in Carolina behind Tetairoa McMillan and Jalen Coker.",
-        "description": "The Panthers placed Brazzell (knee) on injured reserve Friday.",
-        "title": "Chris Brazzell - Rookie year officially over",
-        "topic_id": "1388993784020221952"
-      },
-      "nfl_team": "CAR",
-      "player_id": "13353",
-      "player_name": "Chris Brazzell",
-      "position": "WR",
-      "published": 1785524276000,
-      "source": "rotowire",
-      "source_key": "632320",
-      "story_id": "nfl|13353|rotowire|632320|1785524276000",
-      "title": "Chris Brazzell - Rookie year officially over",
-      "url": null
     }
   ]
 }
