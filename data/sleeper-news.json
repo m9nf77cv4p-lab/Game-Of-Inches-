@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-30T01:37:19Z",
+  "last_checked_at": "2026-08-30T01:47:14Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|13279|rotowire|635243|1788053388000"
+    "nfl|6904|rotoballer|219685|1788039430000"
   ],
   "schema_version": 1,
   "source": {
@@ -132,6 +132,26 @@
       "story_id": "nfl|11539|rotowire|635223|1788040412000",
       "title": "Jake Bates - Rough performance in preseason finale",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles quarterback Jalen Hurts has finished as the QB8 in fantasy football each of the last two seasons, but he has top-five upside heading into the 2026 campaign. The Eagles' offense is projected to improve this year under new coordinator Sean Mannion, and Hurts is one of several players who stand to benefit. For starters, the tush push is expected to remain a staple of Mannion's offense, leaving plenty of touchdown opportunities for Hurts. Meanwhile, he reportedly looks faster and is expected to run more in the new system, giving him additional volume and yardage in the rushing attack. Furthermore, Hurts only has 11 interceptions over his last two seasons, so his lack of turnovers should also help his fantasy stock. Even after five consecutive top-10 fantasy finishes, Hurts finds himself trending upward once again. He ranks as the overall QB3 in RotoBaller's latest redraft rankings for 2026.",
+      "metadata": {
+        "description": "Philadelphia Eagles quarterback Jalen Hurts has finished as the QB8 in fantasy football each of the last two seasons, but he has top-five upside heading into the 2026 campaign. The Eagles' offense is projected to improve this year under new coordinator Sean Mannion, and Hurts is one of several players who stand to benefit. For starters, the tush push is expected to remain a staple of Mannion's offense, leaving plenty of touchdown opportunities for Hurts. Meanwhile, he reportedly looks faster and is expected to run more in the new system, giving him additional volume and yardage in the rushing attack. Furthermore, Hurts only has 11 interceptions over his last two seasons, so his lack of turnovers should also help his fantasy stock. Even after five consecutive top-10 fantasy finishes, Hurts finds himself trending upward once again. He ranks as the overall QB3 in RotoBaller's latest redraft rankings for 2026.",
+        "title": "Jalen Hurts Has Top-Five Upside Heading Into 2026 Season",
+        "topic_id": "1399605024560013312",
+        "url": "https://www.rotoballer.com/player-news/jalen-hurts-has-top-five-upside-heading-into-2026-season/1919384"
+      },
+      "nfl_team": "PHI",
+      "player_id": "6904",
+      "player_name": "Jalen Hurts",
+      "position": "QB",
+      "published": 1788039430000,
+      "source": "rotoballer",
+      "source_key": "219685",
+      "story_id": "nfl|6904|rotoballer|219685|1788039430000",
+      "title": "Jalen Hurts Has Top-Five Upside Heading Into 2026 Season",
+      "url": "https://www.rotoballer.com/player-news/jalen-hurts-has-top-five-upside-heading-into-2026-season/1919384"
     },
     {
       "analysis": "London was limited to playing the first quarter of Friday's exhibition game before observing the rest of the contest from the sidelines. Entering his fifth NFL season, the USC product has recorded at least 68 catches and 850 receiving yards in each of his four years with Atlanta. London has been one of the most productive receivers since entering the league in 2022, but his offensive output will be heavily tied to the production of the Falcons' starting quarterback, whether that's Tua Tagovailoa or Michael Penix (knee).",
