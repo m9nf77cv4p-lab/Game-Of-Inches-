@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1428**
+- Stored stories: **1429**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — J.J. McCarthy** — J.J. McCarthy Facing Multi-Week Absence With Ankle Injury (2026-08-31T13:56:06Z)
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson's Lead-Back Case Takes a Hit (2026-08-31T14:44:08Z)
+  - Source: https://www.rotoballer.com/player-news/treveyon-hendersons-lead-back-case-takes-a-hit/1920536
+- **J.J. McCarthy** — J.J. McCarthy Facing Multi-Week Absence With Ankle Injury (2026-08-31T13:56:06Z)
   - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-facing-multi-week-absence-with-ankle-injury/1920494
 - **Marvin Harrison** — Marvin Harrison Jr. Building Momentum for Redraft Rebound (2026-08-31T13:42:18Z)
   - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-building-momentum-for-redraft-rebound/1920488
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/nico-collins-price-tag-falls-in-line-with-ranking-for-2026/1919418
 - **Breece Hall** — Quarterback Situation Baked Into Breece Hall's Current ADP (2026-08-30T00:25:08Z)
   - Source: https://www.rotoballer.com/player-news/quarterback-situation-baked-into-breece-halls-current-adp/1919416
-- **DeVonta Smith** — DeVonta Smith Taking on WR1 Responsibilities in 2026 (2026-08-30T00:20:08Z)
-  - Source: https://www.rotoballer.com/player-news/devonta-smith-taking-on-wr1-responsibilities-in-2026/1919414
