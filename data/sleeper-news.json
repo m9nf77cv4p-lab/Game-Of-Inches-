@@ -1,10 +1,13 @@
 {
-  "last_checked_at": "2026-08-31T19:06:25Z",
+  "last_checked_at": "2026-08-31T19:26:31Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|13330|rotowire|635595|1788202616000",
-    "nfl|6786|rotoballer|219810|1788188413000"
+    "nfl|5846|fantasy_pros|605039|1788204014517",
+    "nfl|5846|rotowire|635597|1788203592000",
+    "nfl|6801|rotoballer|219812|1788189309000",
+    "nfl|6819|fantasy_pros|605041|1788204014506",
+    "nfl|6819|rotowire|635598|1788203846000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +17,88 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Metcalf has been dealing with an undisclosed injury, but appears to be good to go. He is a strong flex play against the Falcons in Week 1.",
+      "description": "Steelers GM Omar Khan announced WR DK Metcalf will be available for Week 1.",
+      "metadata": {
+        "analysis": "Metcalf has been dealing with an undisclosed injury, but appears to be good to go. He is a strong flex play against the Falcons in Week 1.",
+        "description": "Steelers GM Omar Khan announced WR DK Metcalf will be available for Week 1.",
+        "title": "DK Metcalf will be available Week 1",
+        "topic_id": "1400232760676761600",
+        "url": "https://www.fantasypros.com/nfl/news/605039/dk-metcalf-will-be-available-week-1.php"
+      },
+      "nfl_team": "PIT",
+      "player_id": "5846",
+      "player_name": "DK Metcalf",
+      "position": "WR",
+      "published": 1788204014517,
+      "source": "fantasy_pros",
+      "source_key": "605039",
+      "story_id": "nfl|5846|fantasy_pros|605039|1788204014517",
+      "title": "DK Metcalf will be available Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/605039/dk-metcalf-will-be-available-week-1.php"
+    },
+    {
+      "analysis": "Pittman has been dealing with a hamstring injury, but will still suit up in Week 1. He slots in as a low-end flex play in his Steelers debut against the Falcons.",
+      "description": "Steelers GM Omar Khan announced WR Michael Pittman Jr. will be available for Week 1.",
+      "metadata": {
+        "analysis": "Pittman has been dealing with a hamstring injury, but will still suit up in Week 1. He slots in as a low-end flex play in his Steelers debut against the Falcons.",
+        "description": "Steelers GM Omar Khan announced WR Michael Pittman Jr. will be available for Week 1.",
+        "title": "Michael Pittman Jr. will be available Week 1",
+        "topic_id": "1400232760626429952",
+        "url": "https://www.fantasypros.com/nfl/news/605041/michael-pittman-jr-will-be-available-week-1.php"
+      },
+      "nfl_team": "PIT",
+      "player_id": "6819",
+      "player_name": "Michael Pittman",
+      "position": "WR",
+      "published": 1788204014506,
+      "source": "fantasy_pros",
+      "source_key": "605041",
+      "story_id": "nfl|6819|fantasy_pros|605041|1788204014506",
+      "title": "Michael Pittman Jr. will be available Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/605041/michael-pittman-jr-will-be-available-week-1.php"
+    },
+    {
+      "analysis": "Like teammate DK Metcalf (undisclosed), Pittman has missed a bunch of practice time this summer and didn't see any preseason action. However, Pittman was back on the practice field last week and will now have the next couple weeks to get ramped up for the Week 1 opener. Acquired from the Colts over the offseason, Pittman is expected to push Metcalf for the team lead in targets this season, but it's fair to wonder about Pittman's chemistry with Aaron Rodgers right out of the gates.",
+      "description": "Pittman (hamstring) is expected to be ready for Week 1 against the Falcons, Brooke Pryor of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Like teammate DK Metcalf (undisclosed), Pittman has missed a bunch of practice time this summer and didn't see any preseason action. However, Pittman was back on the practice field last week and will now have the next couple weeks to get ramped up for the Week 1 opener. Acquired from the Colts over the offseason, Pittman is expected to push Metcalf for the team lead in targets this season, but it's fair to wonder about Pittman's chemistry with Aaron Rodgers right out of the gates.",
+        "description": "Pittman (hamstring) is expected to be ready for Week 1 against the Falcons, Brooke Pryor of ESPN.com reports.",
+        "title": "Michael Pittman - Expected to be fine for Week 1",
+        "topic_id": "1400232765294669825"
+      },
+      "nfl_team": "PIT",
+      "player_id": "6819",
+      "player_name": "Michael Pittman",
+      "position": "WR",
+      "published": 1788203846000,
+      "source": "rotowire",
+      "source_key": "635598",
+      "story_id": "nfl|6819|rotowire|635598|1788203846000",
+      "title": "Michael Pittman - Expected to be fine for Week 1",
+      "url": null
+    },
+    {
+      "analysis": "Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.",
+      "description": "Metcalf (undisclosed) is expected to be ready for Week 1 against the Falcons, Brooke Pryor of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.",
+        "description": "Metcalf (undisclosed) is expected to be ready for Week 1 against the Falcons, Brooke Pryor of ESPN.com reports.",
+        "title": "DK Metcalf - Expected to be ready for Week 1",
+        "topic_id": "1400232765294669824"
+      },
+      "nfl_team": "PIT",
+      "player_id": "5846",
+      "player_name": "DK Metcalf",
+      "position": "WR",
+      "published": 1788203592000,
+      "source": "rotowire",
+      "source_key": "635597",
+      "story_id": "nfl|5846|rotowire|635597|1788203592000",
+      "title": "DK Metcalf - Expected to be ready for Week 1",
+      "url": null
+    },
     {
       "analysis": "Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.",
       "description": "Coach Aaron Glenn said Monday that Sadiq (hernia) remains on track to play Week 1 against the Titans, Zack Rosenblatt of The Athletic reports.",
@@ -33,6 +118,26 @@
       "story_id": "nfl|13330|rotowire|635595|1788202616000",
       "title": "Kenyon Sadiq - On track for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals wide receiver Tee Higgins has quietly had the kind of August fantasy managers wanted to see. He caught 59 passes for 846 yards and a career-high 11 touchdowns last season, even with Joe Burrow limited to eight games, and that scoring connection has carried into camp. Burrow ended an Aug. 9 practice with a touchdown to Higgins, who boxed out DJ Ivey in the end zone. Eleven days later, Higgins caught all five passes thrown his way during a joint practice with Chicago, including another red-zone score. There is still no getting around Ja'Marr Chase, who commanded 185 targets last season, and durability remains the obvious concern after Higgins has completed only one 17-game season in his career. Still, the role has looked exactly as advertised this summer. RotoBaller has Higgins at WR16 after a WR15 finish in 2025, and he enters Week 1 looking like one of the stronger high-end WR2 bets on the board.",
+      "metadata": {
+        "description": "Cincinnati Bengals wide receiver Tee Higgins has quietly had the kind of August fantasy managers wanted to see. He caught 59 passes for 846 yards and a career-high 11 touchdowns last season, even with Joe Burrow limited to eight games, and that scoring connection has carried into camp. Burrow ended an Aug. 9 practice with a touchdown to Higgins, who boxed out DJ Ivey in the end zone. Eleven days later, Higgins caught all five passes thrown his way during a joint practice with Chicago, including another red-zone score. There is still no getting around Ja'Marr Chase, who commanded 185 targets last season, and durability remains the obvious concern after Higgins has completed only one 17-game season in his career. Still, the role has looked exactly as advertised this summer. RotoBaller has Higgins at WR16 after a WR15 finish in 2025, and he enters Week 1 looking like one of the stronger high-end WR2 bets on the board.",
+        "title": "Tee Higgins Looks Ready to Pick Up Where He Left Off",
+        "topic_id": "1400232754045521920",
+        "url": "https://www.rotoballer.com/player-news/tee-higgins-looks-ready-to-pick-up-where-he-left-off/1920561"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6801",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "published": 1788189309000,
+      "source": "rotoballer",
+      "source_key": "219812",
+      "story_id": "nfl|6801|rotoballer|219812|1788189309000",
+      "title": "Tee Higgins Looks Ready to Pick Up Where He Left Off",
+      "url": "https://www.rotoballer.com/player-news/tee-higgins-looks-ready-to-pick-up-where-he-left-off/1920561"
     },
     {
       "analysis": null,
