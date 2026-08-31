@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1423**
+- Stored stories: **1424**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Travis Etienne** — Travis Etienne Jr. Could Face Competition for Touches (2026-08-31T12:55:06Z)
+- **NEW — Kaytron Allen** — Kaytron Allen's Path to Early-Season Work Gets Clearer (2026-08-31T13:12:15Z)
+  - Source: https://www.rotoballer.com/player-news/kaytron-allens-path-to-early-season-work-gets-clearer/1920461
+- **Travis Etienne** — Travis Etienne Jr. Could Face Competition for Touches (2026-08-31T12:55:06Z)
   - Source: https://www.rotoballer.com/player-news/travis-etienne-jr-could-face-competition-for-touches/1920442
 - **Mike Washington** — Mike Washington Jr. Will Have Key Role in Raiders' Backfield (2026-08-31T12:44:09Z)
   - Source: https://www.rotoballer.com/player-news/mike-washington-jr-will-have-key-role-in-raiders-backfield/1920431
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jaxon-smith-njigba-worth-the-investment-in-first-round-of-fantasy-drafts/1919410
 - **Colston Loveland** — Colston Loveland Has a Premium Price Tag in Fantasy Drafts (2026-08-29T23:22:11Z)
   - Source: https://www.rotoballer.com/player-news/colston-loveland-has-a-premium-price-tag-in-fantasy-drafts/1919407
-- **Keenan Allen** — Keenan Allen - One catch in first preseason game for Indy (2026-08-29T22:24:59Z)
-  - Having just signed with Indianapolis less than two weeks ago, Allen saw his first game action for his new club and quickly produced a big gain on Anthony Richardson's first pass attempt of the afternoon, helping to set up a field goal. Top wideouts Alec Pierce (ankle) and Josh Downs (calf), as well as top tight end Tyler Warren (groin), are all carrying injury designations to close out the preseason, so Allen could end up having a bigger role in the passing attack than expected once Week 1 rolls around. The 34-year-old showed he can still be an effective possession option in 2025 with the Chargers, delivering an 81-777-4 line on 122 targets while playing all 17 regular-season contests.
