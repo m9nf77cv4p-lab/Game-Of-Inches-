@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T00:51:27Z",
+  "last_checked_at": "2026-08-31T01:52:26Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 278,
   "new_story_ids": [
-    "nfl|13286|rotoballer|219756|1788122530000"
+    "nfl|12476|rotoballer|219758|1788125820000"
   ],
   "schema_version": 1,
   "source": {
@@ -276,6 +276,26 @@
       "story_id": "nfl|9502|fantasy_pros|604939|1788126359406",
       "title": "Tank Dell (knee) placed on IR, designated to return",
       "url": "https://www.fantasypros.com/nfl/news/604939/tank-dell-knee-placed-on-ir-designated-to-return.php"
+    },
+    {
+      "analysis": null,
+      "description": "The New Orleans Saints have placed running back Devin Neal (hamstring) on season-ending injured reserve, according to Nick Underhill of NewOrleans.Football. He suffered the injury during Week 2 of the preseason. Neal had an impressive stretch of games from Week 12 through Week 15 during his rookie season in 2025, but there wouldn't have been much of a role for him this year, even if he were healthy. Travis Etienne Jr. was given a large contract to lead this backfield for the next few years, and the Saints have Alvin Kamara, Kendre Miller, and Audric Estime to round out the running back room. Neal's next chance to make an impact will be the 2027 season, which lines up well with the expiration of Alvin Kamara's contract.",
+      "metadata": {
+        "description": "The New Orleans Saints have placed running back Devin Neal (hamstring) on season-ending injured reserve, according to Nick Underhill of NewOrleans.Football. He suffered the injury during Week 2 of the preseason. Neal had an impressive stretch of games from Week 12 through Week 15 during his rookie season in 2025, but there wouldn't have been much of a role for him this year, even if he were healthy. Travis Etienne Jr. was given a large contract to lead this backfield for the next few years, and the Saints have Alvin Kamara, Kendre Miller, and Audric Estime to round out the running back room. Neal's next chance to make an impact will be the 2027 season, which lines up well with the expiration of Alvin Kamara's contract.",
+        "title": "Saints Place Devin Neal on Season-Ending Injured Reserve",
+        "topic_id": "1399967225317711872",
+        "url": "https://www.rotoballer.com/player-news/saints-place-devin-neal-on-season-ending-injured-reserve/1920057"
+      },
+      "nfl_team": "NO",
+      "player_id": "12476",
+      "player_name": "Devin Neal",
+      "position": "RB",
+      "published": 1788125820000,
+      "source": "rotoballer",
+      "source_key": "219758",
+      "story_id": "nfl|12476|rotoballer|219758|1788125820000",
+      "title": "Saints Place Devin Neal on Season-Ending Injured Reserve",
+      "url": "https://www.rotoballer.com/player-news/saints-place-devin-neal-on-season-ending-injured-reserve/1920057"
     },
     {
       "analysis": "Green was selected in the sixth round of this year's draft after finishing his college career at Arkansas in 2025. The quarterback saw limited action during the preseason, completing five of seven passes for 27 yards while also adding an eight-yard rush. The Browns placed Dillon Gabriel (back) on injured reserve with a designation to return Sunday, and Green will get a chance to serve as the team's No. 3 QB behind Deshaun Watson and Sanders in Gabriel's absence.",

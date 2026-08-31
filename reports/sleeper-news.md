@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1388**
+- Stored stories: **1389**
 - Newly captured: **1**
 
 ## Latest news
@@ -37,9 +37,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tank Dell** — Tank Dell (knee) placed on IR, designated to return (2026-08-30T21:45:59.406000Z)
   - Dell last played in an NFL game all the way back in 2024. The 26-year-old wideout has been practicing for the Texans, but he will be given a bit more time to get fully back up to speed. The earliest Dell could see the field is now Week 5. 
   - Source: https://www.fantasypros.com/nfl/news/604939/tank-dell-knee-placed-on-ir-designated-to-return.php
+- **NEW — Devin Neal** — Saints Place Devin Neal on Season-Ending Injured Reserve (2026-08-30T21:37:00Z)
+  - Source: https://www.rotoballer.com/player-news/saints-place-devin-neal-on-season-ending-injured-reserve/1920057
 - **Taylen Green** — Taylen Green - Sticking around Cleveland (2026-08-30T21:24:31Z)
   - Green was selected in the sixth round of this year's draft after finishing his college career at Arkansas in 2025. The quarterback saw limited action during the preseason, completing five of seven passes for 27 yards while also adding an eight-yard rush. The Browns placed Dillon Gabriel (back) on injured reserve with a designation to return Sunday, and Green will get a chance to serve as the team's No. 3 QB behind Deshaun Watson and Sanders in Gabriel's absence.
-- **NEW — Jadarian Price** — Jadarian Price Set for Lead Role to Begin Season (2026-08-30T20:42:10Z)
+- **Jadarian Price** — Jadarian Price Set for Lead Role to Begin Season (2026-08-30T20:42:10Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-set-for-lead-role-to-begin-season/1920038
 - **Terrance Ferguson** — Terrance Ferguson Remains Absent From Practice (2026-08-30T20:30:13Z)
   - Source: https://www.rotoballer.com/player-news/terrance-ferguson-remains-absent-from-practice/1920036
@@ -218,5 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Mims sustained the injury early in the first quarter and was listed as questionable to return after going to the locker room, but he didn't end up taking another snap in Friday's exhibition contest. It doesn't appear to be a serious injury, but his practice participation over the coming weeks will determine whether he'll suit up for Denver's Week 1 clash against Kansas City on Monday, Sept. 14.
 - **Patrick Mahomes** — Patrick Mahomes On Track to Play in Week 1 (2026-08-29T14:05:34Z)
   - Source: https://www.rotoballer.com/player-news/patrick-mahomes-on-track-to-play-in-week-1/1919210
-- **Najee Harris** — Najee Harris Has 12 Touches in Giants' Preseason Debut (2026-08-29T13:30:13Z)
-  - Source: https://www.rotoballer.com/player-news/najee-harris-has-12-touches-in-giants-preseason-debut/1919185
