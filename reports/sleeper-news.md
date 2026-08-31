@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1384**
-- Newly captured: **0**
+- Stored stories: **1387**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Devin Neal** — Devin Neal - Placed on injured reserve (2026-08-31T00:36:41Z)
+  - Neal will be required to stay on IR throughout the entirety of the 2026 regular season unless he is waived with an injury designation. The 2025 sixth-rounder sustained a hamstring injury during the Saints' 34-0 preseason loss to the Rams on Aug. 22. Neal rushed 57 times for 206 yards and two touchdowns over 10 regular-season games in 2025 but will likely need to wait until 2027 for another shot in the backfield.
 - **Puka Nacua** — Puka Nacua - Back at practice Sunday (2026-08-30T23:28:37Z)
   - Nacua made an early exit from the Rams' joint practice with the Cowboys on Aug. 11 and eventually was diagnosed with psoas soreness. Now almost three weeks removed from the initial injury, he's taking a step in the right direction by returning to drills. Los Angeles opens the season Thursday, Sept. 10 against the 49ers in Melbourne, Australia, a contest for which the team likely is aiming for him to be available.
 - **Tyrone Tracy** — Tyrone Tracy - Makes initial 53-man roster (2026-08-30T23:20:40Z)
@@ -37,6 +39,10 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/604939/tank-dell-knee-placed-on-ir-designated-to-return.php
 - **Taylen Green** — Taylen Green - Sticking around Cleveland (2026-08-30T21:24:31Z)
   - Green was selected in the sixth round of this year's draft after finishing his college career at Arkansas in 2025. The quarterback saw limited action during the preseason, completing five of seven passes for 27 yards while also adding an eight-yard rush. The Browns placed Dillon Gabriel (back) on injured reserve with a designation to return Sunday, and Green will get a chance to serve as the team's No. 3 QB behind Deshaun Watson and Sanders in Gabriel's absence.
+- **NEW — Terrance Ferguson** — Terrance Ferguson Remains Absent From Practice (2026-08-30T20:30:13Z)
+  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-remains-absent-from-practice/1920036
+- **NEW — Tank Dell** — Tank Dell Officially Starting the Season on Injured Reserve (2026-08-30T20:27:12Z)
+  - Source: https://www.rotoballer.com/player-news/tank-dell-officially-starting-the-season-on-injured-reserve/1920034
 - **Zach Charbonnet** — Zach Charbonnet Lands on PUP List to Open the Season (2026-08-30T20:05:09Z)
   - Source: https://www.rotoballer.com/player-news/zach-charbonnet-lands-on-pup-list-to-open-the-season/1920024
 - **Ashton Jeanty** — Ashton Jeanty Avoids Stint on Injured Reserve (2026-08-30T20:00:12Z)
@@ -214,9 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/najee-harris-has-12-touches-in-giants-preseason-debut/1919185
 - **Alec Pierce** — Alec Pierce Out for Colts' Preseason Finale (2026-08-29T13:08:10Z)
   - Source: https://www.rotoballer.com/player-news/alec-pierce-out-for-colts-preseason-finale/1919167
-- **J.J. McCarthy** — J.J. McCarthy Projected to be Left Off 53-Man Roster (2026-08-29T12:45:08Z)
-  - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-projected-to-be-left-off-53-man-roster/1919160
-- **Jalen McMillan** — Buccaneers Expect Jalen McMillan to be Ready for Week 1 (2026-08-29T12:08:06Z)
-  - Source: https://www.rotoballer.com/player-news/buccaneers-expect-jalen-mcmillan-to-be-ready-for-week-1/1919138
-- **Kyle Pitts** — Kyle Pitts Sr. Flashes YAC Ability in Final Preseason Tune-up (2026-08-29T11:47:09Z)
-  - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-flashes-yac-ability-in-final-preseason-tune-up/1919113

@@ -1,8 +1,12 @@
 {
-  "last_checked_at": "2026-08-31T00:31:16Z",
+  "last_checked_at": "2026-08-31T00:41:23Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 278,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|12476|rotowire|635476|1788136601000",
+    "nfl|12487|rotoballer|219754|1788121813000",
+    "nfl|9502|rotoballer|219755|1788121632000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Neal will be required to stay on IR throughout the entirety of the 2026 regular season unless he is waived with an injury designation. The 2025 sixth-rounder sustained a hamstring injury during the Saints' 34-0 preseason loss to the Rams on Aug. 22. Neal rushed 57 times for 206 yards and two touchdowns over 10 regular-season games in 2025 but will likely need to wait until 2027 for another shot in the backfield.",
+      "description": "The Saints placed Neal (hamstring) on injured reserve Sunday, Nick Underhill of NewOrleans.Football reports.",
+      "metadata": {
+        "analysis": "Neal will be required to stay on IR throughout the entirety of the 2026 regular season unless he is waived with an injury designation. The 2025 sixth-rounder sustained a hamstring injury during the Saints' 34-0 preseason loss to the Rams on Aug. 22. Neal rushed 57 times for 206 yards and two touchdowns over 10 regular-season games in 2025 but will likely need to wait until 2027 for another shot in the backfield.",
+        "description": "The Saints placed Neal (hamstring) on injured reserve Sunday, Nick Underhill of NewOrleans.Football reports.",
+        "title": "Devin Neal - Placed on injured reserve",
+        "topic_id": "1399951094125207552"
+      },
+      "nfl_team": "NO",
+      "player_id": "12476",
+      "player_name": "Devin Neal",
+      "position": "RB",
+      "published": 1788136601000,
+      "source": "rotowire",
+      "source_key": "635476",
+      "story_id": "nfl|12476|rotowire|635476|1788136601000",
+      "title": "Devin Neal - Placed on injured reserve",
+      "url": null
+    },
     {
       "analysis": "Nacua made an early exit from the Rams' joint practice with the Cowboys on Aug. 11 and eventually was diagnosed with psoas soreness. Now almost three weeks removed from the initial injury, he's taking a step in the right direction by returning to drills. Los Angeles opens the season Thursday, Sept. 10 against the 49ers in Melbourne, Australia, a contest for which the team likely is aiming for him to be available.",
       "description": "Nacua (groin) is practicing Sunday, Sarah Barshop of ESPN.com reports.",
@@ -274,6 +298,46 @@
       "story_id": "nfl|13306|rotowire|635409|1788125071000",
       "title": "Taylen Green - Sticking around Cleveland",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams tight end Terrance Ferguson (soreness) remained absent from practice for a second consecutive day on Sunday, according to Sarah Barshop of ESPN.com. Last week, head coach Sean McVay said that Ferguson is dealing with soreness, so that's likely the reason why he isn't practicing today. There's still more than 10 days until the Rams' season opener against the 49ers, but we're starting to get to the point where fantasy managers should pay close attention to injury news and practice statuses. Ferguson has a real chance to separate himself from the rest of the Rams' tight end room this year, but first, he'll need to be healthy. Tyler Higbee, Colby Parkinson, and Max Klare would likely handle more snaps and increased volume if Ferguson misses any time.",
+      "metadata": {
+        "description": "Los Angeles Rams tight end Terrance Ferguson (soreness) remained absent from practice for a second consecutive day on Sunday, according to Sarah Barshop of ESPN.com. Last week, head coach Sean McVay said that Ferguson is dealing with soreness, so that's likely the reason why he isn't practicing today. There's still more than 10 days until the Rams' season opener against the 49ers, but we're starting to get to the point where fantasy managers should pay close attention to injury news and practice statuses. Ferguson has a real chance to separate himself from the rest of the Rams' tight end room this year, but first, he'll need to be healthy. Tyler Higbee, Colby Parkinson, and Max Klare would likely handle more snaps and increased volume if Ferguson misses any time.",
+        "title": "Terrance Ferguson Remains Absent From Practice",
+        "topic_id": "1399949829286662144",
+        "url": "https://www.rotoballer.com/player-news/terrance-ferguson-remains-absent-from-practice/1920036"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12487",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "published": 1788121813000,
+      "source": "rotoballer",
+      "source_key": "219754",
+      "story_id": "nfl|12487|rotoballer|219754|1788121813000",
+      "title": "Terrance Ferguson Remains Absent From Practice",
+      "url": "https://www.rotoballer.com/player-news/terrance-ferguson-remains-absent-from-practice/1920036"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Tank Dell (knee) has been placed on injured reserve to open the regular season, according to Aaron Wilson of KPRC2. Dell is working his way back from a complicated knee injury, including a torn ACL, torn MCL, torn LCL, and a dislocated kneecap. He suffered the injury 18+ months ago, but due to the severity of the injury and the lengthy recovery process, he's still not ready to play. The first bit of good news is that he'll be eligible to return after Week 4, so we should expect to see him back on the field at some point this season. The other good news is that he has been involved in some team drills, so he's getting closer to reintegrating into practice. The Texans would love to get Dell back as soon as possible; they recently lost Jayden Higgins (knee) to season-ending IR, leaving Jaylin Noel and Kayshon Boutte in competition to start opposite Nico Collins.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Tank Dell (knee) has been placed on injured reserve to open the regular season, according to Aaron Wilson of KPRC2. Dell is working his way back from a complicated knee injury, including a torn ACL, torn MCL, torn LCL, and a dislocated kneecap. He suffered the injury 18+ months ago, but due to the severity of the injury and the lengthy recovery process, he's still not ready to play. The first bit of good news is that he'll be eligible to return after Week 4, so we should expect to see him back on the field at some point this season. The other good news is that he has been involved in some team drills, so he's getting closer to reintegrating into practice. The Texans would love to get Dell back as soon as possible; they recently lost Jayden Higgins (knee) to season-ending IR, leaving Jaylin Noel and Kayshon Boutte in competition to start opposite Nico Collins.",
+        "title": "Tank Dell Officially Starting the Season on Injured Reserve",
+        "topic_id": "1399949829290856448",
+        "url": "https://www.rotoballer.com/player-news/tank-dell-officially-starting-the-season-on-injured-reserve/1920034"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9502",
+      "player_name": "Tank Dell",
+      "position": "WR",
+      "published": 1788121632000,
+      "source": "rotoballer",
+      "source_key": "219755",
+      "story_id": "nfl|9502|rotoballer|219755|1788121632000",
+      "title": "Tank Dell Officially Starting the Season on Injured Reserve",
+      "url": "https://www.rotoballer.com/player-news/tank-dell-officially-starting-the-season-on-injured-reserve/1920034"
     },
     {
       "analysis": null,
