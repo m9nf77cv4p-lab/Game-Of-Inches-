@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T01:52:26Z",
+  "last_checked_at": "2026-08-31T02:52:54Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 278,
   "new_story_ids": [
-    "nfl|12476|rotoballer|219758|1788125820000"
+    "nfl|11565|rotoballer|219760|1788129913000"
   ],
   "schema_version": 1,
   "source": {
@@ -155,6 +155,26 @@
       "story_id": "nfl|4137|fantasy_pros|604961|1788129959897",
       "title": "James Conner (foot) placed on injured reserve/designated to return",
       "url": "https://www.fantasypros.com/nfl/news/604961/james-conner-foot-placed-on-injured-reservedesignated-to-return.php"
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings quarterback J.J. McCarthy (ankle) made the team's initial 53-man roster, according to Adam Schefter of ESPN.com. There had been plenty of speculation that McCarthy could be traded or released, but he ultimately remains with the Vikings for now. With that said, we can't rule out the possibility of him being moved at a later date. Minnesota has four quarterbacks on its roster, which probably isn't sustainable for a long time. Kyler Murray has already been named the Week 1 starter, and the Vikings presumably would have released Carson Wentz or Max Brosmer if they didn't envision them having any sort of role. That leaves McCarthy as the odd man out. It feels a bit bizarre to talk about cutting bait on a first-round pick after just one year of NFL action, but it was a pretty brutal stretch. He missed all of 2024 due to injury, and across 10 games last year, he completed just 57.6% of his pass attempts for 1,632 yards, 11 touchdowns, and 12 interceptions. A fresh start might be the only way for McCarthy to salvage his NFL career, but until that happens, he can be avoided in all fantasy football leagues.",
+      "metadata": {
+        "description": "Minnesota Vikings quarterback J.J. McCarthy (ankle) made the team's initial 53-man roster, according to Adam Schefter of ESPN.com. There had been plenty of speculation that McCarthy could be traded or released, but he ultimately remains with the Vikings for now. With that said, we can't rule out the possibility of him being moved at a later date. Minnesota has four quarterbacks on its roster, which probably isn't sustainable for a long time. Kyler Murray has already been named the Week 1 starter, and the Vikings presumably would have released Carson Wentz or Max Brosmer if they didn't envision them having any sort of role. That leaves McCarthy as the odd man out. It feels a bit bizarre to talk about cutting bait on a first-round pick after just one year of NFL action, but it was a pretty brutal stretch. He missed all of 2024 due to injury, and across 10 games last year, he completed just 57.6% of his pass attempts for 1,632 yards, 11 touchdowns, and 12 interceptions. A fresh start might be the only way for McCarthy to salvage his NFL career, but until that happens, he can be avoided in all fantasy football leagues.",
+        "title": "J.J. McCarthy Makes the Vikings' 53-Man Roster",
+        "topic_id": "1399983591022161920",
+        "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-makes-the-vikings-53-man-roster/1920091"
+      },
+      "nfl_team": "MIN",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1788129913000,
+      "source": "rotoballer",
+      "source_key": "219760",
+      "story_id": "nfl|11565|rotoballer|219760|1788129913000",
+      "title": "J.J. McCarthy Makes the Vikings' 53-Man Roster",
+      "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-makes-the-vikings-53-man-roster/1920091"
     },
     {
       "analysis": "Tyson has had recurring issues with his right hamstring, and the most recent flare-up is expected to result in two months on the sideline, so Sunday's transaction comes as no surprise. He'll be required to miss at least the first four games of the season, but considering the aforementioned recovery timeline, he likely will be out beyond Week 5. During Tyson's absence, Devaughn Vele and rookies Bryce Lance and Barion Brown will have opportunities for targets behind top WR Chris Olave.",

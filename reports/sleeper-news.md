@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1389**
+- Stored stories: **1390**
 - Newly captured: **1**
 
 ## Latest news
@@ -24,6 +24,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **James Conner** — James Conner (foot) placed on injured reserve/designated to return (2026-08-30T22:45:59.897000Z)
   - Conner had been working his way back to during training camp. He will miss at least the first four games of the regular season. 
   - Source: https://www.fantasypros.com/nfl/news/604961/james-conner-foot-placed-on-injured-reservedesignated-to-return.php
+- **NEW — J.J. McCarthy** — J.J. McCarthy Makes the Vikings' 53-Man Roster (2026-08-30T22:45:13Z)
+  - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-makes-the-vikings-53-man-roster/1920091
 - **Jordyn Tyson** — Jordyn Tyson - Lands on IR, designated to return (2026-08-30T22:30:28Z)
   - Tyson has had recurring issues with his right hamstring, and the most recent flare-up is expected to result in two months on the sideline, so Sunday's transaction comes as no surprise. He'll be required to miss at least the first four games of the season, but considering the aforementioned recovery timeline, he likely will be out beyond Week 5. During Tyson's absence, Devaughn Vele and rookies Bryce Lance and Barion Brown will have opportunities for targets behind top WR Chris Olave.
 - **Anthony Richardson** — Anthony Richardson - Will continue with Colts (2026-08-30T22:17:12Z)
@@ -37,7 +39,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tank Dell** — Tank Dell (knee) placed on IR, designated to return (2026-08-30T21:45:59.406000Z)
   - Dell last played in an NFL game all the way back in 2024. The 26-year-old wideout has been practicing for the Texans, but he will be given a bit more time to get fully back up to speed. The earliest Dell could see the field is now Week 5. 
   - Source: https://www.fantasypros.com/nfl/news/604939/tank-dell-knee-placed-on-ir-designated-to-return.php
-- **NEW — Devin Neal** — Saints Place Devin Neal on Season-Ending Injured Reserve (2026-08-30T21:37:00Z)
+- **Devin Neal** — Saints Place Devin Neal on Season-Ending Injured Reserve (2026-08-30T21:37:00Z)
   - Source: https://www.rotoballer.com/player-news/saints-place-devin-neal-on-season-ending-injured-reserve/1920057
 - **Taylen Green** — Taylen Green - Sticking around Cleveland (2026-08-30T21:24:31Z)
   - Green was selected in the sixth round of this year's draft after finishing his college career at Arkansas in 2025. The quarterback saw limited action during the preseason, completing five of seven passes for 27 yards while also adding an eight-yard rush. The Browns placed Dillon Gabriel (back) on injured reserve with a designation to return Sunday, and Green will get a chance to serve as the team's No. 3 QB behind Deshaun Watson and Sanders in Gabriel's absence.
@@ -218,5 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowles is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.
 - **Marvin Mims** — Marvin Mims - Dealing with foot contusion (2026-08-29T14:24:03Z)
   - Mims sustained the injury early in the first quarter and was listed as questionable to return after going to the locker room, but he didn't end up taking another snap in Friday's exhibition contest. It doesn't appear to be a serious injury, but his practice participation over the coming weeks will determine whether he'll suit up for Denver's Week 1 clash against Kansas City on Monday, Sept. 14.
-- **Patrick Mahomes** — Patrick Mahomes On Track to Play in Week 1 (2026-08-29T14:05:34Z)
-  - Source: https://www.rotoballer.com/player-news/patrick-mahomes-on-track-to-play-in-week-1/1919210
