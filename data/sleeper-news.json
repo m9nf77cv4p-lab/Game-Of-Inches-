@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T22:17:47Z",
+  "last_checked_at": "2026-08-31T22:37:57Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|9494|rotowire|635631|1788214220000"
+    "nfl|11632|rotoballer|219829|1788201012000"
   ],
   "schema_version": 1,
   "source": {
@@ -400,6 +400,26 @@
       "story_id": "nfl|13330|rotowire|635595|1788202616000",
       "title": "Kenyon Sadiq - On track for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants wide receiver Malik Nabers (knee) was non-committal about any specific game return date, be it Week 1 or otherwise, according to Pat Leonard of the New York Daily News. Nabers is feeling great, but he still has some checkpoints to know that he is completely ready for game action. He is focused on a regular-season return and being better than he was before, whenever that will be. \"I'm gonna be making sure that I'm ready to go out there and I'm healthy enough to play all four quarters,\" Nabers said. The 23-year-old has been eased in during training camp this summer after tearing his ACL and meniscus early on last season, but he shed his non-contact jersey last week and continues to make strides towards being ready for a Week 1 showdown on Sunday night against the division-rival Dallas Cowboys on Sept. 13. The former first-rounder from LSU has high-end WR1 upside after his 109-1,204-7 line in 15 games played as a rookie in 2024, but his return from a season-ending knee injury in 2025 has put him as more of a risk/reward, low-end WR1 in fantasy football drafts this fall. If Nabers is active in Week 1, it would not be surprising if he was on a strict snap count.",
+      "metadata": {
+        "description": "New York Giants wide receiver Malik Nabers (knee) was non-committal about any specific game return date, be it Week 1 or otherwise, according to Pat Leonard of the New York Daily News. Nabers is feeling great, but he still has some checkpoints to know that he is completely ready for game action. He is focused on a regular-season return and being better than he was before, whenever that will be. \"I'm gonna be making sure that I'm ready to go out there and I'm healthy enough to play all four quarters,\" Nabers said. The 23-year-old has been eased in during training camp this summer after tearing his ACL and meniscus early on last season, but he shed his non-contact jersey last week and continues to make strides towards being ready for a Week 1 showdown on Sunday night against the division-rival Dallas Cowboys on Sept. 13. The former first-rounder from LSU has high-end WR1 upside after his 109-1,204-7 line in 15 games played as a rookie in 2024, but his return from a season-ending knee injury in 2025 has put him as more of a risk/reward, low-end WR1 in fantasy football drafts this fall. If Nabers is active in Week 1, it would not be surprising if he was on a strict snap count.",
+        "title": "Malik Nabers Non-Committal on Week 1 Status",
+        "topic_id": "1400281822327234560",
+        "url": "https://www.rotoballer.com/player-news/malik-nabers-non-committal-on-week-1-status/1920706"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1788201012000,
+      "source": "rotoballer",
+      "source_key": "219829",
+      "story_id": "nfl|11632|rotoballer|219829|1788201012000",
+      "title": "Malik Nabers Non-Committal on Week 1 Status",
+      "url": "https://www.rotoballer.com/player-news/malik-nabers-non-committal-on-week-1-status/1920706"
     },
     {
       "analysis": null,

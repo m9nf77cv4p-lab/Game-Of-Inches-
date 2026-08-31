@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1464**
+- Stored stories: **1465**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Marvin Mims** — Marvin Mims - Not practicing Monday (2026-08-31T22:10:20Z)
+- **Marvin Mims** — Marvin Mims - Not practicing Monday (2026-08-31T22:10:20Z)
   - Mims suffered a bruised foot in the team's preseason finale against the Vikings on Friday, and he doesn't appear to be ready to return to practice quite yet. The Broncos are two weeks away from their regular-season opener against the Chiefs on Sept. 14, and the wide receiver will have a few more chances to return to practice this week.
 - **Malik Nabers** — Malik Nabers - Non-committal when asked about Week 1 (2026-08-31T21:51:14Z)
   - Nabers has been practicing all summer and even ditched his red non-contact jersey last week, but the star wide receiver admitted he still has checkpoints to clear before getting the green light to play in a regular-season game. "I'm gonna be making sure that I'm ready to go out there and I'm healthy enough to play all four quarters," Nabers said Monday. The Giants host the Cowboys on Sunday Night Football in 13 days. There should be a clearer picture of Nabers' availability for that game when the Giants kick off Week 1 prep work next week.
@@ -53,6 +53,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
 - **Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
   - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
+- **NEW — Malik Nabers** — Malik Nabers Non-Committal on Week 1 Status (2026-08-31T18:30:12Z)
+  - Source: https://www.rotoballer.com/player-news/malik-nabers-non-committal-on-week-1-status/1920706
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Should Practice Next Week (2026-08-31T17:51:05Z)
   - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-should-practice-next-week/1920687
 - **Kenyon Sadiq** — Kenyon Sadiq on Track to be Ready for Week 1 (2026-08-31T17:33:53Z)
@@ -220,5 +222,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Johnson thus will get a fresh start in Green Bay after the third-round investment made in him last year didn't pan out in Pittsburgh. Working behind Jaylen Warren and Kenny Gainwell in 2025, Johnson turned 28 carries into just 69 yards (2.5 YPC) and no touchdowns while hauling in one of two targets for nine yards in 10 regular-season appearances as a rookie. Johnson will join a Green Bay backfield led by Josh Jacobs (groin) and backed up by MarShawn Lloyd and Chris Brooks.
 - **Taylen Green** — Taylen Green - Chance to make 53-man roster (2026-08-30T16:56:53Z)
   - Green is fourth on the team's quarterback depth chart behind Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The mobile rookie sixth-round pick out of Arkansas is raw as a passer but has intriguing rushing upside. Cleveland would have to release one of the players ahead of Green or carry four quarterbacks to keep him on the roster, which could leave the Browns shorthanded in depth at another position.
-- **Taylen Green** — Taylen Green Sticks in Browns' Four-QB Room (2026-08-30T16:48:14Z)
-  - Source: https://www.rotoballer.com/player-news/taylen-green-sticks-in-browns-four-qb-room/1919966
