@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T22:37:57Z",
+  "last_checked_at": "2026-08-31T22:48:02Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11632|rotoballer|219829|1788201012000"
+    "nfl|9511|rotoballer|219830|1788201464000"
   ],
   "schema_version": 1,
   "source": {
@@ -400,6 +400,26 @@
       "story_id": "nfl|13330|rotowire|635595|1788202616000",
       "title": "Kenyon Sadiq - On track for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers running back Keaton Mitchell (undisclosed) missed a fourth straight practice on Monday with an undisclosed injury, according to Kris Rhim of ESPN. Mitchell was seen working off to the side with a trainer. It does not sound like a serious injury, and the 24-year-old will have all of next week to return to practice before the Week 1 regular-season opener against the Arizona Cardinals on Sunday, Sept. 13. Still, it is something to keep an eye on for the Chargers' backfield, as both Omarion Hampton and Kimani Vidal could be in line for bigger roles if Mitchell is limited or out to begin the season. For what it is worth, general manager Joe Hortiz said that he thinks Mitchell will be active next weekend against the Cardinals. Hampton, who is entering his second season, is the Bolts' clear lead back, but new offensive coordinator Mike McDaniel could ride the hot hand with Hampton, Mitchell, and Vidal on a week-to-week basis. Mitchell has explosive abilities out of the backfield, but volume will be a concern, and he has played in just 26 games (two starts) in his first three NFL seasons due to injuries. Fantasy managers should consider Mitchell an interesting late-round handcuff or depth piece for RB depth. RotoBaller has him ranked as the RB46 for 2026.",
+      "metadata": {
+        "description": "Los Angeles Chargers running back Keaton Mitchell (undisclosed) missed a fourth straight practice on Monday with an undisclosed injury, according to Kris Rhim of ESPN. Mitchell was seen working off to the side with a trainer. It does not sound like a serious injury, and the 24-year-old will have all of next week to return to practice before the Week 1 regular-season opener against the Arizona Cardinals on Sunday, Sept. 13. Still, it is something to keep an eye on for the Chargers' backfield, as both Omarion Hampton and Kimani Vidal could be in line for bigger roles if Mitchell is limited or out to begin the season. For what it is worth, general manager Joe Hortiz said that he thinks Mitchell will be active next weekend against the Cardinals. Hampton, who is entering his second season, is the Bolts' clear lead back, but new offensive coordinator Mike McDaniel could ride the hot hand with Hampton, Mitchell, and Vidal on a week-to-week basis. Mitchell has explosive abilities out of the backfield, but volume will be a concern, and he has played in just 26 games (two starts) in his first three NFL seasons due to injuries. Fantasy managers should consider Mitchell an interesting late-round handcuff or depth piece for RB depth. RotoBaller has him ranked as the RB46 for 2026.",
+        "title": "Keaton Mitchell Continues to Miss Practice",
+        "topic_id": "1400284338880299008",
+        "url": "https://www.rotoballer.com/player-news/keaton-mitchell-continues-to-miss-practice/1920710"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1788201464000,
+      "source": "rotoballer",
+      "source_key": "219830",
+      "story_id": "nfl|9511|rotoballer|219830|1788201464000",
+      "title": "Keaton Mitchell Continues to Miss Practice",
+      "url": "https://www.rotoballer.com/player-news/keaton-mitchell-continues-to-miss-practice/1920710"
     },
     {
       "analysis": null,
