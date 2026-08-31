@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-31T19:46:36Z",
+  "last_checked_at": "2026-08-31T19:56:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|6804|rotoballer|219814|1788190330000"
+    "nfl|11597|rotowire|635603|1788205543000",
+    "nfl|6819|rotoballer|219815|1788191232000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Johnson was injured in practice last Monday and continues to deal with the injury, though his return to action would suggest the tight end is on track to play Week 1 against the Cowboys. Johnson figures to work mostly as a blocker this season after the Giants signed Isaiah Likely to a contract over the offseason.",
+      "description": "Johnson (shoulder) is participating in Monday's practice in a non-contact jersey, Pat Leonard of the New York Daily News reports.",
+      "metadata": {
+        "analysis": "Johnson was injured in practice last Monday and continues to deal with the injury, though his return to action would suggest the tight end is on track to play Week 1 against the Cowboys. Johnson figures to work mostly as a blocker this season after the Giants signed Isaiah Likely to a contract over the offseason.",
+        "description": "Johnson (shoulder) is participating in Monday's practice in a non-contact jersey, Pat Leonard of the New York Daily News reports.",
+        "title": "Theo Johnson - Donning non-contact jersey at practice",
+        "topic_id": "1400240315784282123"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11597",
+      "player_name": "Theo Johnson",
+      "position": "TE",
+      "published": 1788205543000,
+      "source": "rotowire",
+      "source_key": "635603",
+      "story_id": "nfl|11597|rotowire|635603|1788205543000",
+      "title": "Theo Johnson - Donning non-contact jersey at practice",
+      "url": null
+    },
     {
       "analysis": "Beck suffered a ribs injury in the Hall of Fame Game earlier this month and missed the Cardinals' three official preseason contests. The third-round rookie is set to open the season as Arizona's QB3 behind starter Jacoby Brissett and veteran backup Gardner Minshew. There's a pretty good chance Beck sees action as a rookie during the regular season.",
       "description": "Coach Mike LaFleur said Beck (ribs) will return to practice Monday, Josh Weinfuss of ESPN.com reports.",
@@ -134,6 +155,26 @@
       "story_id": "nfl|13330|rotowire|635595|1788202616000",
       "title": "Kenyon Sadiq - On track for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers wide receiver Michael Pittman Jr. (hamstring) will be eased in, but he is expected to be ready to go for Week 1 in a matchup against the Atlanta Falcons, according to ESPN's Brooke Pryor. The Steelers are expected to have both Pittman and DK Metcalf (undisclosed) available for the season opener, but they could both be on a snap count after missing a chunk of time in training camp this summer. The 28-year-old Pittman had a career-high seven touchdowns in 17 games in his final year with the Indianapolis Colts in 2025 before the Steelers traded for him in the offseason. He also had just 784 receiving yards on 80 receptions, his lowest yardage total since his rookie season in 2020. In his first year in Pittsburgh, the former second-rounder from USC will give quarterback Aaron Rodgers another experienced pass-catcher underneath. But in an offense that could remain a run-first unit, Pittman will be more of a WR4/flex target in fantasy football drafts while playing second fiddle to Metcalf. RotoBaller has Pittman ranked as the WR42 as he heads into his seventh NFL campaign.",
+      "metadata": {
+        "description": "Pittsburgh Steelers wide receiver Michael Pittman Jr. (hamstring) will be eased in, but he is expected to be ready to go for Week 1 in a matchup against the Atlanta Falcons, according to ESPN's Brooke Pryor. The Steelers are expected to have both Pittman and DK Metcalf (undisclosed) available for the season opener, but they could both be on a snap count after missing a chunk of time in training camp this summer. The 28-year-old Pittman had a career-high seven touchdowns in 17 games in his final year with the Indianapolis Colts in 2025 before the Steelers traded for him in the offseason. He also had just 784 receiving yards on 80 receptions, his lowest yardage total since his rookie season in 2020. In his first year in Pittsburgh, the former second-rounder from USC will give quarterback Aaron Rodgers another experienced pass-catcher underneath. But in an offense that could remain a run-first unit, Pittman will be more of a WR4/flex target in fantasy football drafts while playing second fiddle to Metcalf. RotoBaller has Pittman ranked as the WR42 as he heads into his seventh NFL campaign.",
+        "title": "Michael Pittman Jr. Expected to be Ready to Go for Week 1",
+        "topic_id": "1400241562461433856",
+        "url": "https://www.rotoballer.com/player-news/michael-pittman-jr-expected-to-be-ready-to-go-for-week-1/1920579"
+      },
+      "nfl_team": "PIT",
+      "player_id": "6819",
+      "player_name": "Michael Pittman",
+      "position": "WR",
+      "published": 1788191232000,
+      "source": "rotoballer",
+      "source_key": "219815",
+      "story_id": "nfl|6819|rotoballer|219815|1788191232000",
+      "title": "Michael Pittman Jr. Expected to be Ready to Go for Week 1",
+      "url": "https://www.rotoballer.com/player-news/michael-pittman-jr-expected-to-be-ready-to-go-for-week-1/1920579"
     },
     {
       "analysis": null,
