@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-08-31T21:47:27Z",
+  "last_checked_at": "2026-08-31T21:57:29Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|13330|rotoballer|219826|1788197633000",
-    "nfl|9511|rotowire|635622|1788212319000"
+    "nfl|11632|rotowire|635627|1788213074000",
+    "nfl|12533|rotoballer|219828|1788198665000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Nabers has been practicing all summer and even ditched his red non-contact jersey last week, but the star wide receiver admitted he still has checkpoints to clear before getting the green light to play in a regular-season game. \"I'm gonna be making sure that I'm ready to go out there and I'm healthy enough to play all four quarters,\" Nabers said Monday. The Giants host the Cowboys on Sunday Night Football in 13 days. There should be a clearer picture of Nabers' availability for that game when the Giants kick off Week 1 prep work next week.",
+      "description": "Nabers (knee) was non-committal Monday when asked about playing Week 1 against the Cowboys, Pat Leonard of the New York Daily News reports.",
+      "metadata": {
+        "analysis": "Nabers has been practicing all summer and even ditched his red non-contact jersey last week, but the star wide receiver admitted he still has checkpoints to clear before getting the green light to play in a regular-season game. \"I'm gonna be making sure that I'm ready to go out there and I'm healthy enough to play all four quarters,\" Nabers said Monday. The Giants host the Cowboys on Sunday Night Football in 13 days. There should be a clearer picture of Nabers' availability for that game when the Giants kick off Week 1 prep work next week.",
+        "description": "Nabers (knee) was non-committal Monday when asked about playing Week 1 against the Cowboys, Pat Leonard of the New York Daily News reports.",
+        "title": "Malik Nabers - Non-committal when asked about Week 1",
+        "topic_id": "1400271766756024320"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1788213074000,
+      "source": "rotowire",
+      "source_key": "635627",
+      "story_id": "nfl|11632|rotowire|635627|1788213074000",
+      "title": "Malik Nabers - Non-committal when asked about Week 1",
+      "url": null
+    },
     {
       "analysis": "Mitchell is missing his fourth straight practice due to an unspecified injury, but it sounds like he's getting closer to a return to the field after getting in some work on a side field. The Chargers are expected to utilize all three of Omarion Hampton, Mitchell and Kimani Vidal out of the backfield this season, though Hampton is the clear lead back and possesses the most upside from a fantasy perspective. Mitchell, when healthy, will likely handle a handful of weekly touches to showcase his speed and playmaking while giving Hampton a breather. Mitchell is looking like a fantasy bench stash to open the 2026 season.",
       "description": "Mitchell (undisclosed) is not practicing Monday but is working off to the side with a trainer, Kris Rhim of ESPN.com reports.",
@@ -361,6 +381,26 @@
       "story_id": "nfl|13330|rotowire|635595|1788202616000",
       "title": "Kenyon Sadiq - On track for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Jacory Croskey-Merritt (groin) was not participating in Monday's practice, but it sounds like he should return to the field next week, according to John Keim of ESPN. Croskey-Merritt is believed to be dealing with a minor groin injury that caused him to sit out of the team's final two preseason games. But as long as JCM is back on the practice field next week, he should be in line to play in the Week 1 regular-season opener against the division-rival Philadelphia Eagles on Sunday, Sept. 13. Heading into his second year in the NFL, Croskey-Merritt is positioned to lead Washington on early downs, but his fantasy upside will be capped by the presence of newcomer and pass-game specialist Rachaad White (hamstring), who is expected to see most of the targets out of the backfield as a receiver. Both backs are a little banged up, though, so it is possible that rookie Kaytron Allen sees a bigger role out of the gates in Week 1. In season-long redraft leagues, Croskey-Merritt should be drafted as an RB3/flex with upside in his sophomore campaign. The former seventh-rounder from Arizona impressed with 805 rushing yards and eight touchdowns on 175 carries in his first NFL season, adding only nine receptions for 68 yards through the air in 17 games.",
+      "metadata": {
+        "description": "Washington Commanders running back Jacory Croskey-Merritt (groin) was not participating in Monday's practice, but it sounds like he should return to the field next week, according to John Keim of ESPN. Croskey-Merritt is believed to be dealing with a minor groin injury that caused him to sit out of the team's final two preseason games. But as long as JCM is back on the practice field next week, he should be in line to play in the Week 1 regular-season opener against the division-rival Philadelphia Eagles on Sunday, Sept. 13. Heading into his second year in the NFL, Croskey-Merritt is positioned to lead Washington on early downs, but his fantasy upside will be capped by the presence of newcomer and pass-game specialist Rachaad White (hamstring), who is expected to see most of the targets out of the backfield as a receiver. Both backs are a little banged up, though, so it is possible that rookie Kaytron Allen sees a bigger role out of the gates in Week 1. In season-long redraft leagues, Croskey-Merritt should be drafted as an RB3/flex with upside in his sophomore campaign. The former seventh-rounder from Arizona impressed with 805 rushing yards and eight touchdowns on 175 carries in his first NFL season, adding only nine receptions for 68 yards through the air in 17 games.",
+        "title": "Jacory Croskey-Merritt Should Practice Next Week",
+        "topic_id": "1400271754680619008",
+        "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-should-practice-next-week/1920687"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1788198665000,
+      "source": "rotoballer",
+      "source_key": "219828",
+      "story_id": "nfl|12533|rotoballer|219828|1788198665000",
+      "title": "Jacory Croskey-Merritt Should Practice Next Week",
+      "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-should-practice-next-week/1920687"
     },
     {
       "analysis": null,

@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1461**
+- Stored stories: **1463**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Keaton Mitchell** — Keaton Mitchell - Working off to side Monday (2026-08-31T21:38:39Z)
+- **NEW — Malik Nabers** — Malik Nabers - Non-committal when asked about Week 1 (2026-08-31T21:51:14Z)
+  - Nabers has been practicing all summer and even ditched his red non-contact jersey last week, but the star wide receiver admitted he still has checkpoints to clear before getting the green light to play in a regular-season game. "I'm gonna be making sure that I'm ready to go out there and I'm healthy enough to play all four quarters," Nabers said Monday. The Giants host the Cowboys on Sunday Night Football in 13 days. There should be a clearer picture of Nabers' availability for that game when the Giants kick off Week 1 prep work next week.
+- **Keaton Mitchell** — Keaton Mitchell - Working off to side Monday (2026-08-31T21:38:39Z)
   - Mitchell is missing his fourth straight practice due to an unspecified injury, but it sounds like he's getting closer to a return to the field after getting in some work on a side field. The Chargers are expected to utilize all three of Omarion Hampton, Mitchell and Kimani Vidal out of the backfield this season, though Hampton is the clear lead back and possesses the most upside from a fantasy perspective. Mitchell, when healthy, will likely handle a handful of weekly touches to showcase his speed and playmaking while giving Hampton a breather. Mitchell is looking like a fantasy bench stash to open the 2026 season.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Set to practice next week (2026-08-31T21:11:49Z)
   - Croskey-Merritt was forced to miss the Commanders' final two preseason games due to a lower-body injury, and he will not participate at practice Monday. His participation level once he gets back on the field should offer more clarity on his readiness for the regular-season opener Sept. 13 against the Eagles. In the meantime, Kaytron Allen is the Commanders' top healthy option in the backfield with Rachaad White (hamstring) also banged up at practice.
@@ -49,7 +51,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
 - **Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
   - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
-- **NEW — Kenyon Sadiq** — Kenyon Sadiq on Track to be Ready for Week 1 (2026-08-31T17:33:53Z)
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt Should Practice Next Week (2026-08-31T17:51:05Z)
+  - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-should-practice-next-week/1920687
+- **Kenyon Sadiq** — Kenyon Sadiq on Track to be Ready for Week 1 (2026-08-31T17:33:53Z)
   - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-on-track-to-be-ready-for-week-1/1920672
 - **George Kittle** — George Kittle to be Eased into Practice This Week (2026-08-31T17:29:08Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-to-be-eased-into-practice-this-week/1920662
@@ -218,7 +222,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/taylen-green-sticks-in-browns-four-qb-room/1919966
 - **Javonte Williams** — Javonte Williams Set for Workhorse Role After Cowboys' Latest Cuts (2026-08-30T16:40:13Z)
   - Source: https://www.rotoballer.com/player-news/javonte-williams-set-for-workhorse-role-after-cowboys-latest-cuts/1919952
-- **Malik Davis** — Malik Davis a Big Winner After Cowboys Backfield Cuts (2026-08-30T16:14:08Z)
-  - Source: https://www.rotoballer.com/player-news/malik-davis-a-big-winner-after-cowboys-backfield-cuts/1919929
-- **MarShawn Lloyd** — MarShawn Lloyd Poised to Begin Season as Green Bay's Lead Running Back (2026-08-30T16:00:12Z)
-  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-poised-to-begin-season-as-green-bays-lead-running-back/1919914
