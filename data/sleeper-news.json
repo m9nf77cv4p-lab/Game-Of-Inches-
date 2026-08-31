@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T14:42:57Z",
+  "last_checked_at": "2026-08-31T14:53:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|2216|rotoballer|219780|1788172332000"
+    "nfl|8144|rotoballer|219781|1788173113000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "While the discovery of a blood clot in his lung kept New Orleans Saints wide receiver Chris Olave out of the final game of the year and prevented him from completing his first 17-game season, his health and availability were major storylines of what would become a career-year and a WR6 finish. While his frightening history of concussions hasn't suddenly gone away, seeing Olave at his peak for a full season has made him an easier click in the early rounds of 2026 drafts, particularly after the way he finished the year with rookie Tyler Shough under center. Shough took over as starter in Week 9, and after a week of adjustment, Olave was the WR2 on a points per game basis from Week 10 through the end of the year, trailing only Puka Nacua. With first-round pick Jordyn Tyson (hamstring) slated to miss at least the first four games of his rookie season after starting the year on injured reserve, Olave could again be hyper-targeted in one of the league's most high-volume, up-tempo offenses, making him a potential week-winner to begin the season. At RotoBaller's WR11, there is still considerable injury concern baked into his profile, but for the risk-tolerant, he is capable of providing WR1 upside while often found closer to a WR2 cost.",
+      "metadata": {
+        "description": "While the discovery of a blood clot in his lung kept New Orleans Saints wide receiver Chris Olave out of the final game of the year and prevented him from completing his first 17-game season, his health and availability were major storylines of what would become a career-year and a WR6 finish. While his frightening history of concussions hasn't suddenly gone away, seeing Olave at his peak for a full season has made him an easier click in the early rounds of 2026 drafts, particularly after the way he finished the year with rookie Tyler Shough under center. Shough took over as starter in Week 9, and after a week of adjustment, Olave was the WR2 on a points per game basis from Week 10 through the end of the year, trailing only Puka Nacua. With first-round pick Jordyn Tyson (hamstring) slated to miss at least the first four games of his rookie season after starting the year on injured reserve, Olave could again be hyper-targeted in one of the league's most high-volume, up-tempo offenses, making him a potential week-winner to begin the season. At RotoBaller's WR11, there is still considerable injury concern baked into his profile, but for the risk-tolerant, he is capable of providing WR1 upside while often found closer to a WR2 cost.",
+        "title": "Another Healthy Season Could Cement Chris Olave's Place Among the Fantasy Elite",
+        "topic_id": "1400164799135948800",
+        "url": "https://www.rotoballer.com/player-news/another-healthy-season-could-cement-chris-olaves-place-among-the-fantasy-elite/1920342"
+      },
+      "nfl_team": "NO",
+      "player_id": "8144",
+      "player_name": "Chris Olave",
+      "position": "WR",
+      "published": 1788173113000,
+      "source": "rotoballer",
+      "source_key": "219781",
+      "story_id": "nfl|8144|rotoballer|219781|1788173113000",
+      "title": "Another Healthy Season Could Cement Chris Olave's Place Among the Fantasy Elite",
+      "url": "https://www.rotoballer.com/player-news/another-healthy-season-could-cement-chris-olaves-place-among-the-fantasy-elite/1920342"
+    },
     {
       "analysis": null,
       "description": "San Francisco 49ers wide receiver Mike Evans (groin) could ultimately prove to be the biggest boom-or-bust pick in 2026 drafts. Already struggling through availability concerns before a game has even been played, the six-time Pro Bowler is 33 years old and has missed 12 games over the past two seasons. When on the field, however, he remains a dominator, particularly in the way it's easy to envision him being used by the 49ers. Operating with a fullback on the field more than any other team over the past two seasons, two-receiver sets have become a staple of Kyle Shanahan's offense, and since 2022, Evans has earned 2.97 yards per route run with fewer than three receivers on the field, a number that would have ranked third in the league among qualified receivers last year. Evans also remains a significant scoring threat for an offense that made the eighth most red zone trips in the league in 2025. Despite true WR1 upside, Evans' warranted health concerns have pushed him to WR28 by current ADP, putting him into a range of the draft that makes it slightly easier to overlook his obvious red flags, as when healthy he should help decide matchups.",

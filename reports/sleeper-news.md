@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1412**
+- Stored stories: **1413**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Mike Evans** — Mike Evans the Ultimate Boom-or-Bust Pick in 2026 (2026-08-31T10:32:12Z)
+- **NEW — Chris Olave** — Another Healthy Season Could Cement Chris Olave's Place Among the Fantasy Elite (2026-08-31T10:45:13Z)
+  - Source: https://www.rotoballer.com/player-news/another-healthy-season-could-cement-chris-olaves-place-among-the-fantasy-elite/1920342
+- **Mike Evans** — Mike Evans the Ultimate Boom-or-Bust Pick in 2026 (2026-08-31T10:32:12Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-the-ultimate-boom-or-bust-pick-in-2026/1920340
 - **Trey McBride** — Is Regression Inevitable Following Trey McBride's Record-Breaking Season? (2026-08-31T10:17:11Z)
   - Source: https://www.rotoballer.com/player-news/is-regression-inevitable-following-trey-mcbrides-record-breaking-season/1920335
@@ -213,6 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Raiders coach Klint Kubiak had refused to announce a decision on Las Vegas' Week 1 quarterback throughout the preseason, but Cousins has been listed as the No. 1 QB on the team's depth chart during training camp and the exhibition slate. The veteran signal-caller was also more effective than rookie No. 1 draft pick Fernando Mendoza during preseason play, completing 13 of 17 passes for 101 yards and a touchdown with no interceptions to Mendoza's 25-for-45 line with one TD and two pickoffs. Cousins will thus have the first opportunity to helm the Raiders offense, which features an elite tight end in Brock Bowers but one of the NFL's shallowest wide-receiver corps. Should Cousins and/or the team struggle, Mendoza could eventually be given a chance to start later in the campaign, though it's possible he'll be asked to observe and learn from the bench for his entire rookie season.
 - **Anthony Richardson** — Anthony Richardson Sr. Highly Accurate as Roster Crunch Lingers (2026-08-29T20:54:29Z)
   - Source: https://www.rotoballer.com/player-news/anthony-richardson-highly-accurate-as-roster-crunch-lingers/1919338
-- **Marvin Mims** — Marvin Mims Jr. suffers bruised foot (2026-08-29T18:05:49.497000Z)
-  - Mims avoids a serious injury. He is expected to be fine with just a couple of weeks until the season. 
-  - Source: https://www.fantasypros.com/nfl/news/604653/marvin-mims-jr-suffers-bruised-foot.php
