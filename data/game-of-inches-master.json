@@ -20958,7 +20958,7 @@
       ],
       "first_name": "Adam",
       "full_name": "Adam Randall",
-      "injury_status": null,
+      "injury_status": "IR",
       "last_name": "Randall",
       "nfl_team": "BAL",
       "player_id": "13302",
@@ -23509,8 +23509,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-31T00:41:22Z",
-    "source_fingerprint": "73b915204b4d67df38d2d2cca44b22d274c0d522bb297c5b8975eb61dd032f35"
+    "last_changed_at": "2026-08-31T03:33:39Z",
+    "source_fingerprint": "f6d1ac3a14f4255ebf94dabaafb093327733bbf1c512735a1a427061691ef1e0"
   },
   "teams": [
     {
