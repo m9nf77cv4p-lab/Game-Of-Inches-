@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T17:24:49Z",
+  "last_checked_at": "2026-08-31T17:35:06Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|13405|rotoballer|219797|1788181935000"
+    "nfl|12504|rotoballer|219798|1788182531000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back Kaleb Johnson went from being off the redraft radar in Pittsburgh to having a real path to touches almost overnight. The Packers acquired the 2025 third-round pick on Sunday for a 2028 sixth-rounder, the same day Josh Jacobs was placed on the Commissioner's Exempt List. Johnson is not jumping MarShawn Lloyd, who enters the season as Green Bay's No. 1 back, and Chris Brooks is still part of the mix. The situation is a lot better than the one Johnson left behind, though. He managed only 69 yards on 28 carries as a rookie and was a cut candidate in Pittsburgh after averaging 3.1 yards per carry this preseason. Green Bay still chose to trade for the 6-foot-1, 224-pound back rather than wait for him to hit waivers. Johnson rushed for 1,537 yards and 21 touchdowns in his final season at Iowa, so the pedigree is there even if the NFL production hasn't been. With Jacobs unavailable and Lloyd carrying a lengthy injury history, Johnson is back on the late-round redraft radar.",
+      "metadata": {
+        "description": "Green Bay Packers running back Kaleb Johnson went from being off the redraft radar in Pittsburgh to having a real path to touches almost overnight. The Packers acquired the 2025 third-round pick on Sunday for a 2028 sixth-rounder, the same day Josh Jacobs was placed on the Commissioner's Exempt List. Johnson is not jumping MarShawn Lloyd, who enters the season as Green Bay's No. 1 back, and Chris Brooks is still part of the mix. The situation is a lot better than the one Johnson left behind, though. He managed only 69 yards on 28 carries as a rookie and was a cut candidate in Pittsburgh after averaging 3.1 yards per carry this preseason. Green Bay still chose to trade for the 6-foot-1, 224-pound back rather than wait for him to hit waivers. Johnson rushed for 1,537 yards and 21 touchdowns in his final season at Iowa, so the pedigree is there even if the NFL production hasn't been. With Jacobs unavailable and Lloyd carrying a lengthy injury history, Johnson is back on the late-round redraft radar.",
+        "title": "Kaleb Johnson Surging Up Draft Boards Amid Path to Fantasy Relevance",
+        "topic_id": "1400203809690550272",
+        "url": "https://www.rotoballer.com/player-news/kaleb-johnson-surging-up-draft-boards-amid-path-to-fantasy-relevance/1920472"
+      },
+      "nfl_team": "GB",
+      "player_id": "12504",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "published": 1788182531000,
+      "source": "rotoballer",
+      "source_key": "219798",
+      "story_id": "nfl|12504|rotoballer|219798|1788182531000",
+      "title": "Kaleb Johnson Surging Up Draft Boards Amid Path to Fantasy Relevance",
+      "url": "https://www.rotoballer.com/player-news/kaleb-johnson-surging-up-draft-boards-amid-path-to-fantasy-relevance/1920472"
+    },
     {
       "analysis": null,
       "description": "Washington Commanders running back Kaytron Allen has a little more room to work with after final cuts. Jeremy McNichols (quadriceps) was placed on injured reserve with a designation to return, which keeps him out for at least the first four games. Washington also released Robert Henry Jr. and Craig Reynolds, while Jerome Ford had already landed on IR earlier in August. Allen is still behind Jacory Croskey-Merritt and Rachaad White, so this is not suddenly a path to starter volume. It does move the sixth-round rookie closer to regular-season touches, especially after he handled 36 preseason carries for 119 yards and a touchdown. Allen also got first-team work late in camp while Croskey-Merritt and White were banged up, though he split some of those reps with Henry. The finale was rough, with Allen losing a fumble on his first touch, and he averaged only 3.31 yards per carry during the preseason. Still, McNichols being unavailable for at least four games leaves Allen with a clearer early-season role than he had a week ago.",
