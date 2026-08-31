@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-30T23:58:23Z",
+  "last_checked_at": "2026-08-31T00:11:12Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
   "new_story_ids": [
-    "nfl|4137|rotoballer|219747|1788119532000"
+    "nfl|12527|rotoballer|219749|1788120012000",
+    "nfl|9753|rotoballer|219751|1788120309000"
   ],
   "schema_version": 1,
   "source": {
@@ -276,6 +277,46 @@
       "story_id": "nfl|13306|rotowire|635409|1788125071000",
       "title": "Taylen Green - Sticking around Cleveland",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks running back Zach Charbonnet (knee) has been placed on the Physically Unable to Perform list, according to Adam Schefter of ESPN.com. He'll miss at least four games. This move was widely expected, as Charbonnet is working his way back from an ACL tear that he suffered during last year's playoffs. He could end up missing more than the minimum four games as he continues to recover and rehab. In the interim, Jadarian Price will likely occupy the lead-back role while George Holani and Emanuel Wilson also earn snaps out of the backfield. Charbonnet had 874 scrimmage yards and 12 touchdowns last season, so when he does return to the 53-man roster, he'll likely have low-end RB2 appeal in fantasy football.",
+      "metadata": {
+        "description": "Seattle Seahawks running back Zach Charbonnet (knee) has been placed on the Physically Unable to Perform list, according to Adam Schefter of ESPN.com. He'll miss at least four games. This move was widely expected, as Charbonnet is working his way back from an ACL tear that he suffered during last year's playoffs. He could end up missing more than the minimum four games as he continues to recover and rehab. In the interim, Jadarian Price will likely occupy the lead-back role while George Holani and Emanuel Wilson also earn snaps out of the backfield. Charbonnet had 874 scrimmage yards and 12 touchdowns last season, so when he does return to the 53-man roster, he'll likely have low-end RB2 appeal in fantasy football.",
+        "title": "Zach Charbonnet Lands on PUP List to Open the Season",
+        "topic_id": "1399943537658716160",
+        "url": "https://www.rotoballer.com/player-news/zach-charbonnet-lands-on-pup-list-to-open-the-season/1920024"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9753",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
+      "published": 1788120309000,
+      "source": "rotoballer",
+      "source_key": "219751",
+      "story_id": "nfl|9753|rotoballer|219751|1788120309000",
+      "title": "Zach Charbonnet Lands on PUP List to Open the Season",
+      "url": "https://www.rotoballer.com/player-news/zach-charbonnet-lands-on-pup-list-to-open-the-season/1920024"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) was not placed on injured reserve prior to the 53-man roster deadline on Sunday, according to Sam Warren of The Athletic. Given that an IR stint carries a minimum four-game absence, the Raiders' decision to keep Jeanty on their 53-man roster suggests that he'll be able to play in some or all of the team's first four games this season. Whether he'll be able to play in Week 1 remains unclear, although the team has been quite optimistic about his availability. Nevertheless, fantasy managers will want to monitor his participation levels in practice leading up to Week 1. Managers should also monitor the Raiders' roster moves. They only have three running backs on their roster right now, so if they sign or claim another one, it could be a sign that Jeanty might not be ready to go. If he does suit up for the season opener, he'll rank as a strong RB1 option against a Miami Dolphins team that has plenty of question marks on both sides of the ball.",
+      "metadata": {
+        "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) was not placed on injured reserve prior to the 53-man roster deadline on Sunday, according to Sam Warren of The Athletic. Given that an IR stint carries a minimum four-game absence, the Raiders' decision to keep Jeanty on their 53-man roster suggests that he'll be able to play in some or all of the team's first four games this season. Whether he'll be able to play in Week 1 remains unclear, although the team has been quite optimistic about his availability. Nevertheless, fantasy managers will want to monitor his participation levels in practice leading up to Week 1. Managers should also monitor the Raiders' roster moves. They only have three running backs on their roster right now, so if they sign or claim another one, it could be a sign that Jeanty might not be ready to go. If he does suit up for the season opener, he'll rank as a strong RB1 option against a Miami Dolphins team that has plenty of question marks on both sides of the ball.",
+        "title": "Ashton Jeanty Avoids Stint on Injured Reserve",
+        "topic_id": "1399942278654476288",
+        "url": "https://www.rotoballer.com/player-news/ashton-jeanty-avoids-stint-on-injured-reserve/1920017"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788120012000,
+      "source": "rotoballer",
+      "source_key": "219749",
+      "story_id": "nfl|12527|rotoballer|219749|1788120012000",
+      "title": "Ashton Jeanty Avoids Stint on Injured Reserve",
+      "url": "https://www.rotoballer.com/player-news/ashton-jeanty-avoids-stint-on-injured-reserve/1920017"
     },
     {
       "analysis": null,

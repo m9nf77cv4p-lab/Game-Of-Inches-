@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1382**
-- Newly captured: **1**
+- Stored stories: **1384**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -37,7 +37,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/604939/tank-dell-knee-placed-on-ir-designated-to-return.php
 - **Taylen Green** — Taylen Green - Sticking around Cleveland (2026-08-30T21:24:31Z)
   - Green was selected in the sixth round of this year's draft after finishing his college career at Arkansas in 2025. The quarterback saw limited action during the preseason, completing five of seven passes for 27 yards while also adding an eight-yard rush. The Browns placed Dillon Gabriel (back) on injured reserve with a designation to return Sunday, and Green will get a chance to serve as the team's No. 3 QB behind Deshaun Watson and Sanders in Gabriel's absence.
-- **NEW — James Conner** — James Conner to Begin the Season on Injured Reserve (2026-08-30T19:52:12Z)
+- **NEW — Zach Charbonnet** — Zach Charbonnet Lands on PUP List to Open the Season (2026-08-30T20:05:09Z)
+  - Source: https://www.rotoballer.com/player-news/zach-charbonnet-lands-on-pup-list-to-open-the-season/1920024
+- **NEW — Ashton Jeanty** — Ashton Jeanty Avoids Stint on Injured Reserve (2026-08-30T20:00:12Z)
+  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-avoids-stint-on-injured-reserve/1920017
+- **James Conner** — James Conner to Begin the Season on Injured Reserve (2026-08-30T19:52:12Z)
   - Source: https://www.rotoballer.com/player-news/james-conner-to-begin-the-season-on-injured-reserve/1920010
 - **Jaydon Blue** — Jaydon Blue waived by the Dallas Cowboys (2026-08-30T19:50:58.595000Z)
   - Blue had trouble finding a role last year, a lot of which came due to character and work ethic concerns. While that seems to have changed heading into this season, it wasn't enough for him to avoid roster cuts. Dallas will now have Malik Davis as the primary backup behind Javonte Williams, with Phil Mafah and Hunter Luepke mixing in.
@@ -216,7 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/buccaneers-expect-jalen-mcmillan-to-be-ready-for-week-1/1919138
 - **Kyle Pitts** — Kyle Pitts Sr. Flashes YAC Ability in Final Preseason Tune-up (2026-08-29T11:47:09Z)
   - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-flashes-yac-ability-in-final-preseason-tune-up/1919113
-- **Cyrus Allen** — Cyrus Allen Plays into the Second Half in Chiefs' Preseason Finale (2026-08-29T11:40:10Z)
-  - Source: https://www.rotoballer.com/player-news/cyrus-allen-plays-into-the-second-half-in-chiefs-preseason-finale/1919111
-- **Kaytron Allen** — Kaytron Allen Struggles in Limited Usage in Preseason Finale (2026-08-29T11:20:11Z)
-  - Source: https://www.rotoballer.com/player-news/kaytron-allen-struggles-in-limited-usage-in-preseason-finale/1919105
