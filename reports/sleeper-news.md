@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1429**
-- Newly captured: **1**
+- Stored stories: **1431**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson's Lead-Back Case Takes a Hit (2026-08-31T14:44:08Z)
+- **NEW — Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
+  - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
+- **NEW — CeeDee Lamb** — CeeDee Lamb's WR1 Ceiling Looks Less Certain (2026-08-31T15:00:13Z)
+  - Source: https://www.rotoballer.com/player-news/ceedee-lambs-wr1-ceiling-looks-less-certain/1920549
+- **TreVeyon Henderson** — TreVeyon Henderson's Lead-Back Case Takes a Hit (2026-08-31T14:44:08Z)
   - Source: https://www.rotoballer.com/player-news/treveyon-hendersons-lead-back-case-takes-a-hit/1920536
 - **J.J. McCarthy** — J.J. McCarthy Facing Multi-Week Absence With Ankle Injury (2026-08-31T13:56:06Z)
   - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-facing-multi-week-absence-with-ankle-injury/1920494
@@ -211,7 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack beginning with a Week 1 home matchup against the Jets.
 - **Justin Jefferson** — Justin Jefferson's Upside Remains Capped by Quarterback Situation (2026-08-30T00:57:08Z)
   - Source: https://www.rotoballer.com/player-news/justin-jeffersons-upside-remains-capped-by-quarterback-situation/1919420
-- **Nico Collins** — Nico Collins' Price Tag Falls in Line with Ranking for 2026 (2026-08-30T00:51:07Z)
-  - Source: https://www.rotoballer.com/player-news/nico-collins-price-tag-falls-in-line-with-ranking-for-2026/1919418
-- **Breece Hall** — Quarterback Situation Baked Into Breece Hall's Current ADP (2026-08-30T00:25:08Z)
-  - Source: https://www.rotoballer.com/player-news/quarterback-situation-baked-into-breece-halls-current-adp/1919416

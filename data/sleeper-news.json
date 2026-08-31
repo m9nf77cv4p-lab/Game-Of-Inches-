@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-31T18:55:59Z",
+  "last_checked_at": "2026-08-31T19:06:25Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|12529|rotoballer|219808|1788187448000"
+    "nfl|13330|rotowire|635595|1788202616000",
+    "nfl|6786|rotoballer|219810|1788188413000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.",
+      "description": "Coach Aaron Glenn said Monday that Sadiq (hernia) remains on track to play Week 1 against the Titans, Zack Rosenblatt of The Athletic reports.",
+      "metadata": {
+        "analysis": "Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.",
+        "description": "Coach Aaron Glenn said Monday that Sadiq (hernia) remains on track to play Week 1 against the Titans, Zack Rosenblatt of The Athletic reports.",
+        "title": "Kenyon Sadiq - On track for Week 1",
+        "topic_id": "1400227732494745600"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13330",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "published": 1788202616000,
+      "source": "rotowire",
+      "source_key": "635595",
+      "story_id": "nfl|13330|rotowire|635595|1788202616000",
+      "title": "Kenyon Sadiq - On track for Week 1",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver CeeDee Lamb is healthy again, but his path back to the very top of the fantasy position looks a little less clean than it did earlier this summer. Lamb still topped 1,000 yards last season despite missing three full games with a high ankle sprain, finishing with 75 catches for 1,077 yards and three touchdowns. The bigger issue now is George Pickens. Pickens led Dallas with 93 catches, 1,429 yards and nine touchdowns in 2025, and the buzz around him only grew during camp. DallasCowboys.com writer Nick Eatman recently suggested Pickens may have elevated into the receiver defenses worry about most, while RotoBaller noted Monday that there has been plenty of chatter about Pickens having the better camp. Lamb remains an elite option and has looked sharp with Dak Prescott, including several deep connections in August. He is also healthy entering Week 1. Still, RotoBaller currently has Lamb at WR5 in half-PPR. With Pickens pushing for an even bigger role, Lamb's ceiling looks a little less automatic than it once did.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver CeeDee Lamb is healthy again, but his path back to the very top of the fantasy position looks a little less clean than it did earlier this summer. Lamb still topped 1,000 yards last season despite missing three full games with a high ankle sprain, finishing with 75 catches for 1,077 yards and three touchdowns. The bigger issue now is George Pickens. Pickens led Dallas with 93 catches, 1,429 yards and nine touchdowns in 2025, and the buzz around him only grew during camp. DallasCowboys.com writer Nick Eatman recently suggested Pickens may have elevated into the receiver defenses worry about most, while RotoBaller noted Monday that there has been plenty of chatter about Pickens having the better camp. Lamb remains an elite option and has looked sharp with Dak Prescott, including several deep connections in August. He is also healthy entering Week 1. Still, RotoBaller currently has Lamb at WR5 in half-PPR. With Pickens pushing for an even bigger role, Lamb's ceiling looks a little less automatic than it once did.",
+        "title": "CeeDee Lamb's WR1 Ceiling Looks Less Certain",
+        "topic_id": "1400228978496655360",
+        "url": "https://www.rotoballer.com/player-news/ceedee-lambs-wr1-ceiling-looks-less-certain/1920549"
+      },
+      "nfl_team": "DAL",
+      "player_id": "6786",
+      "player_name": "CeeDee Lamb",
+      "position": "WR",
+      "published": 1788188413000,
+      "source": "rotoballer",
+      "source_key": "219810",
+      "story_id": "nfl|6786|rotoballer|219810|1788188413000",
+      "title": "CeeDee Lamb's WR1 Ceiling Looks Less Certain",
+      "url": "https://www.rotoballer.com/player-news/ceedee-lambs-wr1-ceiling-looks-less-certain/1920549"
+    },
     {
       "analysis": null,
       "description": "New England Patriots running back TreVeyon Henderson (ankle) entered camp with a chance to push for more of the backfield duties. That never really happened. Henderson was explosive as a rookie, finishing with 911 rushing yards, 221 receiving yards and 10 total touchdowns, but New England leaned heavily on Rhamondre Stevenson during the playoffs. That carried into August. Patriots.com called Stevenson the team's most consistent between-the-tackles runner, pass protector and route-runner and said he remains the lead back, while Henderson was described more as a change-of-pace option. Henderson also hurt his right ankle when he slipped during practice on Aug. 24. He avoided a serious injury and is expected to be ready for Week 1, so the ankle itself isn't the biggest concern. The bigger issue is that the expected Year 2 role growth never showed up. Henderson still has enough speed to create fantasy points on limited touches, but his path to taking over this backfield looks weaker than it did entering camp.",
