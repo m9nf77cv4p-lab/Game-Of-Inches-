@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T19:36:35Z",
+  "last_checked_at": "2026-08-31T19:46:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|13272|rotowire|635600|1788204639000",
-    "nfl|5846|rotoballer|219813|1788189965000"
+    "nfl|6804|rotoballer|219814|1788190330000"
   ],
   "schema_version": 1,
   "source": {
@@ -135,6 +134,26 @@
       "story_id": "nfl|13330|rotowire|635595|1788202616000",
       "title": "Kenyon Sadiq - On track for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers quarterback Jordan Love is still being treated like a QB2, but the setup around him is getting more interesting. Love threw for 3,381 yards, 23 touchdowns and only six interceptions in 15 games last season, completing a career-high 66.3% of his passes. The fantasy output lagged behind, with Love averaging 16.1 points per game while Green Bay finished 27th in pass attempts. We've already seen the other side of this. Love threw for 4,159 yards and 32 touchdowns in 2023. Matthew Golden has been one of the Packers' biggest playmakers this summer, Tucker Kraft is back from his torn ACL, and Love went 5-for-7 for 56 yards and a touchdown on his lone drive against Denver. Josh Jacobs' status is also uncertain after landing on the Commissioner's Exempt List, which could put more on the passing game. Love still doesn't offer much with his legs after rushing for 199 yards and no touchdowns last year. RotoBaller has him at QB19. That's QB2 territory, but the ceiling is considerably higher.",
+      "metadata": {
+        "description": "Green Bay Packers quarterback Jordan Love is still being treated like a QB2, but the setup around him is getting more interesting. Love threw for 3,381 yards, 23 touchdowns and only six interceptions in 15 games last season, completing a career-high 66.3% of his passes. The fantasy output lagged behind, with Love averaging 16.1 points per game while Green Bay finished 27th in pass attempts. We've already seen the other side of this. Love threw for 4,159 yards and 32 touchdowns in 2023. Matthew Golden has been one of the Packers' biggest playmakers this summer, Tucker Kraft is back from his torn ACL, and Love went 5-for-7 for 56 yards and a touchdown on his lone drive against Denver. Josh Jacobs' status is also uncertain after landing on the Commissioner's Exempt List, which could put more on the passing game. Love still doesn't offer much with his legs after rushing for 199 yards and no touchdowns last year. RotoBaller has him at QB19. That's QB2 territory, but the ceiling is considerably higher.",
+        "title": "Jordan Love Has Legitimate QB1 Upside at a QB2 Price",
+        "topic_id": "1400237787432640513",
+        "url": "https://www.rotoballer.com/player-news/jordan-love-has-legitimate-qb1-upside-at-a-qb2-price/1920571"
+      },
+      "nfl_team": "GB",
+      "player_id": "6804",
+      "player_name": "Jordan Love",
+      "position": "QB",
+      "published": 1788190330000,
+      "source": "rotoballer",
+      "source_key": "219814",
+      "story_id": "nfl|6804|rotoballer|219814|1788190330000",
+      "title": "Jordan Love Has Legitimate QB1 Upside at a QB2 Price",
+      "url": "https://www.rotoballer.com/player-news/jordan-love-has-legitimate-qb1-upside-at-a-qb2-price/1920571"
     },
     {
       "analysis": null,

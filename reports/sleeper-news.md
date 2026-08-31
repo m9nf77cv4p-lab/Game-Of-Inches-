@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1438**
-- Newly captured: **2**
+- Stored stories: **1439**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Carson Beck** — Carson Beck - Returning to practice Monday (2026-08-31T19:30:39Z)
+- **Carson Beck** — Carson Beck - Returning to practice Monday (2026-08-31T19:30:39Z)
   - Beck suffered a ribs injury in the Hall of Fame Game earlier this month and missed the Cardinals' three official preseason contests. The third-round rookie is set to open the season as Arizona's QB3 behind starter Jacoby Brissett and veteran backup Gardner Minshew. There's a pretty good chance Beck sees action as a rookie during the regular season.
 - **DK Metcalf** — DK Metcalf will be available Week 1 (2026-08-31T19:20:14.517000Z)
   - Metcalf has been dealing with an undisclosed injury, but appears to be good to go. He is a strong flex play against the Falcons in Week 1.
@@ -21,7 +21,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
 - **Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
   - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
-- **NEW — DK Metcalf** — DK Metcalf Expected to be Ready for Week 1 (2026-08-31T15:26:05Z)
+- **NEW — Jordan Love** — Jordan Love Has Legitimate QB1 Upside at a QB2 Price (2026-08-31T15:32:10Z)
+  - Source: https://www.rotoballer.com/player-news/jordan-love-has-legitimate-qb1-upside-at-a-qb2-price/1920571
+- **DK Metcalf** — DK Metcalf Expected to be Ready for Week 1 (2026-08-31T15:26:05Z)
   - Source: https://www.rotoballer.com/player-news/dk-metcalf-expected-to-be-ready-for-week-1/1920566
 - **Tee Higgins** — Tee Higgins Looks Ready to Pick Up Where He Left Off (2026-08-31T15:15:09Z)
   - Source: https://www.rotoballer.com/player-news/tee-higgins-looks-ready-to-pick-up-where-he-left-off/1920561
@@ -215,5 +217,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jalon-daniels-wins-buccaneers-backup-job/1919565
 - **George Kittle** — Has George Kittle "Taken a Step Back"? (2026-08-30T09:49:08Z)
   - Source: https://www.rotoballer.com/player-news/has-george-kittle-taken-a-step-back/1919528
-- **Luther Burden** — Luther Burden III "Looks 100%", Positive Sign for His Week 1 Availability (2026-08-30T09:24:07Z)
-  - Source: https://www.rotoballer.com/player-news/luther-burden-iii-looks-100-positive-sign-for-his-week-1-availability/1919520
