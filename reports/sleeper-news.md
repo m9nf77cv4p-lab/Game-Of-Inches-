@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1406**
-- Newly captured: **0**
+- Stored stories: **1407**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — MarShawn Lloyd** — MarShawn Lloyd is "Certainly" the No. 1 Running Back in Green Bay (2026-08-31T09:14:08Z)
+  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-is-certainly-the-no-1-running-back-in-green-bay/1920232
 - **Adam Randall** — Adam Randall - Placed on IR, designated to return (2026-08-31T03:52:15Z)
   - Randall played in two of the team's three preseason contests, turning 17 carries into 71 yards and a score while also catching four of six targets for 47 yards. The running back missed the second game of the preseason with an undisclosed injury, and it's possible that he aggravated the previous injury in Baltimore's preseason finale against the Commanders on Friday. Randall will now be force to sit out at least four contests to begin the year while on IR, so the earliest he'll be able to make his NFL regular-season debut will be Oct. 11 in Atlanta. In his absence, Rasheen Ali is expected to operate as the Ravens' No. 3 option in the backfield behind Derrick Henry and Justice Hill to begin the 2026 campaign.
 - **George Pickens** — George Pickens Could Make Another Major Leap This Year (2026-08-31T00:41:07Z)
@@ -218,5 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/raiders-set-to-name-kirk-cousins-as-week-1-starter/1919281
 - **Fernando Mendoza** — Fernando Mendoza Could Begin the Season as the QB3 (2026-08-29T17:17:11Z)
   - Source: https://www.rotoballer.com/player-news/fernando-mendoza-could-begin-the-season-as-raiders-qb3/1919278
-- **Patrick Mahomes** — Patrick Mahomes - On track for Week 1 (2026-08-29T17:08:09Z)
-  - Mahomes said a week ago he was "extremely confident" he would be ready for Kansas City's season opener, and the latest report keeps him on track to do so. It's unclear how close he is to 100 percent, but it's growing more and more likely that the torn left ACL he sustained last December will not cost him any action during the 2026 campaign.

@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-08-31T12:40:41Z",
+  "last_checked_at": "2026-08-31T13:21:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11581|rotoballer|219774|1788167648000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "A rash of injuries has limited Green Bay Packers running back MarShawn Lloyd to only one game since being drafted in the third round of the 2024 NFL Draft, but his return to health could not have come at a better time. Starting running back Josh Jacobs was placed on the Commissioner's Exempt List on Sunday after being formally charged with two misdemeanor counts stemming from his May arrest, and with the roster being trimmed down to 53 players on the same day, the Packers are poised to enter the season with Lloyd as the number one running back. He will be backed up by Chris Brooks and Kaleb Johnson, who was acquired via trade on cutdown day and could take some time to get up to speed in a new offense. Lloyd has looked sharp throughout training camp and the preseason, and if he can stay healthy to begin the year, he has RB1 upside in Matt LaFleur's run-heavy offense, with Jacobs' return date entirely in the hands of Commissioner Roger Goodell.",
+      "metadata": {
+        "description": "A rash of injuries has limited Green Bay Packers running back MarShawn Lloyd to only one game since being drafted in the third round of the 2024 NFL Draft, but his return to health could not have come at a better time. Starting running back Josh Jacobs was placed on the Commissioner's Exempt List on Sunday after being formally charged with two misdemeanor counts stemming from his May arrest, and with the roster being trimmed down to 53 players on the same day, the Packers are poised to enter the season with Lloyd as the number one running back. He will be backed up by Chris Brooks and Kaleb Johnson, who was acquired via trade on cutdown day and could take some time to get up to speed in a new offense. Lloyd has looked sharp throughout training camp and the preseason, and if he can stay healthy to begin the year, he has RB1 upside in Matt LaFleur's run-heavy offense, with Jacobs' return date entirely in the hands of Commissioner Roger Goodell.",
+        "title": "MarShawn Lloyd is \"Certainly\" the No. 1 Running Back in Green Bay",
+        "topic_id": "1400142146371088384",
+        "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-is-certainly-the-no-1-running-back-in-green-bay/1920232"
+      },
+      "nfl_team": "GB",
+      "player_id": "11581",
+      "player_name": "MarShawn Lloyd",
+      "position": "RB",
+      "published": 1788167648000,
+      "source": "rotoballer",
+      "source_key": "219774",
+      "story_id": "nfl|11581|rotoballer|219774|1788167648000",
+      "title": "MarShawn Lloyd is \"Certainly\" the No. 1 Running Back in Green Bay",
+      "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-is-certainly-the-no-1-running-back-in-green-bay/1920232"
+    },
     {
       "analysis": "Randall played in two of the team's three preseason contests, turning 17 carries into 71 yards and a score while also catching four of six targets for 47 yards. The running back missed the second game of the preseason with an undisclosed injury, and it's possible that he aggravated the previous injury in Baltimore's preseason finale against the Commanders on Friday. Randall will now be force to sit out at least four contests to begin the year while on IR, so the earliest he'll be able to make his NFL regular-season debut will be Oct. 11 in Atlanta. In his absence, Rasheen Ali is expected to operate as the Ravens' No. 3 option in the backfield behind Derrick Henry and Justice Hill to begin the 2026 campaign.",
       "description": "Randall (undisclosed) was placed on injured reserve by the Ravens on Sunday with a designation to return, Ryan Mink of the team's official website reports.",
