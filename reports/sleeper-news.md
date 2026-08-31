@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1390**
+- Stored stories: **1391**
 - Newly captured: **1**
 
 ## Latest news
@@ -21,10 +21,12 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **J.J. McCarthy** — J.J. McCarthy makes Vikings 53-man roster (2026-08-30T23:05:59.619000Z)
   - There was some speculation that McCarthy might be left off the initial roster. Those turned out to not be true as he officially makes it. He'll be behind Kyler Murray and potentially Carson Wentz as well to open the season. 
   - Source: https://www.fantasypros.com/nfl/news/604969/jj-mccarthy-makes-vikings-53-man-roster.php
+- **NEW — Jordyn Tyson** — Jordyn Tyson Officially Placed on Injured Reserve (2026-08-30T23:03:07Z)
+  - Source: https://www.rotoballer.com/player-news/jordyn-tyson-officially-placed-on-injured-reserve/1920104
 - **James Conner** — James Conner (foot) placed on injured reserve/designated to return (2026-08-30T22:45:59.897000Z)
   - Conner had been working his way back to during training camp. He will miss at least the first four games of the regular season. 
   - Source: https://www.fantasypros.com/nfl/news/604961/james-conner-foot-placed-on-injured-reservedesignated-to-return.php
-- **NEW — J.J. McCarthy** — J.J. McCarthy Makes the Vikings' 53-Man Roster (2026-08-30T22:45:13Z)
+- **J.J. McCarthy** — J.J. McCarthy Makes the Vikings' 53-Man Roster (2026-08-30T22:45:13Z)
   - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-makes-the-vikings-53-man-roster/1920091
 - **Jordyn Tyson** — Jordyn Tyson - Lands on IR, designated to return (2026-08-30T22:30:28Z)
   - Tyson has had recurring issues with his right hamstring, and the most recent flare-up is expected to result in two months on the sideline, so Sunday's transaction comes as no surprise. He'll be required to miss at least the first four games of the season, but considering the aforementioned recovery timeline, he likely will be out beyond Week 5. During Tyson's absence, Devaughn Vele and rookies Bryce Lance and Barion Brown will have opportunities for targets behind top WR Chris Olave.
@@ -218,5 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - McMillan has been recovering from a knee injury he sustained in early August, which has limited his reps in training camp practices and prevented him from playing in each of the Buccaneers' three preseason games. There's optimism that the third-year wideout will not miss regular-season action, but his practice participation over the next two weeks will provide more clarity on his status for Week 1. With Mike Evans now in San Francisco, McMillan is projected to be Tampa Bay's WR3 this season behind Chris Godwin and Emeka Egbuka (toe), with Tez Johnson and rookie third-rounder Ted Hurst also in the mix for snaps on offense.
 - **Emeka Egbuka** — Emeka Egbuka - 'Hopeful' for Week 1 (2026-08-29T14:24:16Z)
   - Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowles is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.
-- **Marvin Mims** — Marvin Mims - Dealing with foot contusion (2026-08-29T14:24:03Z)
-  - Mims sustained the injury early in the first quarter and was listed as questionable to return after going to the locker room, but he didn't end up taking another snap in Friday's exhibition contest. It doesn't appear to be a serious injury, but his practice participation over the coming weeks will determine whether he'll suit up for Denver's Week 1 clash against Kansas City on Monday, Sept. 14.

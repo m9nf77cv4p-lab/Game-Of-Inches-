@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T02:52:54Z",
+  "last_checked_at": "2026-08-31T03:13:10Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 278,
   "new_story_ids": [
-    "nfl|11565|rotoballer|219760|1788129913000"
+    "nfl|13281|rotoballer|219762|1788130987000"
   ],
   "schema_version": 1,
   "source": {
@@ -134,6 +134,26 @@
       "story_id": "nfl|11565|fantasy_pros|604969|1788131159619",
       "title": "J.J. McCarthy makes Vikings 53-man roster",
       "url": "https://www.fantasypros.com/nfl/news/604969/jj-mccarthy-makes-vikings-53-man-roster.php"
+    },
+    {
+      "analysis": null,
+      "description": "The New Orleans Saints have officially placed wide receiver Jordyn Tyson (hamstring) on injured reserve, according to Matthew Paras of The Times-Picayune. This move was merely procedural, as we already knew that Tyson would miss approximately two weeks due to a hamstring injury he suffered during training camp. It's been an injury-riddled couple of years for Tyson, who has now endured three different hamstring strains since the start of 2025. By landing on IR, the first-round pick will now be sidelined for at least four games. The earliest he could possibly return to action would be the Saints' Week 5 contest against the Minnesota Vikings on October 11, but we wouldn't be surprised if he needs a little more time beyond that date. With Tyson sidelined, Devaughn Vele is expected to step up as the Saints' No. 2 receiver alongside Chris Olave.",
+      "metadata": {
+        "description": "The New Orleans Saints have officially placed wide receiver Jordyn Tyson (hamstring) on injured reserve, according to Matthew Paras of The Times-Picayune. This move was merely procedural, as we already knew that Tyson would miss approximately two weeks due to a hamstring injury he suffered during training camp. It's been an injury-riddled couple of years for Tyson, who has now endured three different hamstring strains since the start of 2025. By landing on IR, the first-round pick will now be sidelined for at least four games. The earliest he could possibly return to action would be the Saints' Week 5 contest against the Minnesota Vikings on October 11, but we wouldn't be surprised if he needs a little more time beyond that date. With Tyson sidelined, Devaughn Vele is expected to step up as the Saints' No. 2 receiver alongside Chris Olave.",
+        "title": "Jordyn Tyson Officially Placed on Injured Reserve",
+        "topic_id": "1399988618579222528",
+        "url": "https://www.rotoballer.com/player-news/jordyn-tyson-officially-placed-on-injured-reserve/1920104"
+      },
+      "nfl_team": "NO",
+      "player_id": "13281",
+      "player_name": "Jordyn Tyson",
+      "position": "WR",
+      "published": 1788130987000,
+      "source": "rotoballer",
+      "source_key": "219762",
+      "story_id": "nfl|13281|rotoballer|219762|1788130987000",
+      "title": "Jordyn Tyson Officially Placed on Injured Reserve",
+      "url": "https://www.rotoballer.com/player-news/jordyn-tyson-officially-placed-on-injured-reserve/1920104"
     },
     {
       "analysis": "Conner had been working his way back to during training camp. He will miss at least the first four games of the regular season. ",
