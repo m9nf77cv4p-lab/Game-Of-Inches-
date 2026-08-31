@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1413**
-- Newly captured: **0**
+- Stored stories: **1414**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Jonathan Taylor** — Jonathan Taylor Carries More Risk at His First-Round Price (2026-08-31T11:21:07Z)
+  - Source: https://www.rotoballer.com/player-news/jonathan-taylor-carries-more-risk-at-his-first-round-price/1920375
 - **Derrick Henry** — Derrick Henry Has Shown No Signs of Slowing, Fully Capable of Another League-Winning Season (2026-08-31T11:01:07Z)
   - Source: https://www.rotoballer.com/player-news/derrick-henry-has-shown-no-signs-of-slowing-fully-capable-of-another-league-winning-season/1920352
-- **Chris Olave** — Another Healthy Season Could Cement Chris Olave's Place Among the Fantasy Elite (2026-08-31T10:45:13Z)
+- **Chris Olave** — Healthy Season Could Cement Chris Olave's Place (2026-08-31T10:45:13Z)
   - Source: https://www.rotoballer.com/player-news/another-healthy-season-could-cement-chris-olaves-place-among-the-fantasy-elite/1920342
 - **Mike Evans** — Mike Evans the Ultimate Boom-or-Bust Pick in 2026 (2026-08-31T10:32:12Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-the-ultimate-boom-or-bust-pick-in-2026/1920340
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jalen-hurts-has-top-five-upside-heading-into-2026-season/1919384
 - **Drake London** — Drake London - Sees minimal work vs. Miami (2026-08-29T21:32:19Z)
   - London was limited to playing the first quarter of Friday's exhibition game before observing the rest of the contest from the sidelines. Entering his fifth NFL season, the USC product has recorded at least 68 catches and 850 receiving yards in each of his four years with Atlanta. London has been one of the most productive receivers since entering the league in 2022, but his offensive output will be heavily tied to the production of the Falcons' starting quarterback, whether that's Tua Tagovailoa or Michael Penix (knee).
-- **Kirk Cousins** — Kirk Cousins - Expected to be named starter (2026-08-29T21:30:29Z)
-  - Raiders coach Klint Kubiak had refused to announce a decision on Las Vegas' Week 1 quarterback throughout the preseason, but Cousins has been listed as the No. 1 QB on the team's depth chart during training camp and the exhibition slate. The veteran signal-caller was also more effective than rookie No. 1 draft pick Fernando Mendoza during preseason play, completing 13 of 17 passes for 101 yards and a touchdown with no interceptions to Mendoza's 25-for-45 line with one TD and two pickoffs. Cousins will thus have the first opportunity to helm the Raiders offense, which features an elite tight end in Brock Bowers but one of the NFL's shallowest wide-receiver corps. Should Cousins and/or the team struggle, Mendoza could eventually be given a chance to start later in the campaign, though it's possible he'll be asked to observe and learn from the bench for his entire rookie season.

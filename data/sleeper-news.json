@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-08-31T15:23:45Z",
+  "last_checked_at": "2026-08-31T15:33:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|6813|rotoballer|219784|1788175267000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts running back Jonathan Taylor isn't falling because his role suddenly changed. It's the price after a season that will be tough to repeat. Taylor led the NFL with 323 carries and scored 20 total touchdowns in 2025, finishing with 1,585 rushing yards and another 378 through the air. Indianapolis has openly spent camp looking for a dependable No. 2 back who can help keep him fresh after that workload, with DJ Giddens and Seth McGowan making the initial 53-man roster behind him. Taylor is still the clear starter, and the Colts signed him to an extension in August. This isn't a playing-time scare. The risk is paying a first-round price after he handled more carries than anyone in football. RotoBaller's Aug. 30 early-round avoids piece also noted how much game script mattered last year: Taylor averaged 31.5 PPR points in Colts wins and 12.4 in losses. He's still an elite fantasy back. There's just less margin for error at the current cost.",
+      "metadata": {
+        "description": "Indianapolis Colts running back Jonathan Taylor isn't falling because his role suddenly changed. It's the price after a season that will be tough to repeat. Taylor led the NFL with 323 carries and scored 20 total touchdowns in 2025, finishing with 1,585 rushing yards and another 378 through the air. Indianapolis has openly spent camp looking for a dependable No. 2 back who can help keep him fresh after that workload, with DJ Giddens and Seth McGowan making the initial 53-man roster behind him. Taylor is still the clear starter, and the Colts signed him to an extension in August. This isn't a playing-time scare. The risk is paying a first-round price after he handled more carries than anyone in football. RotoBaller's Aug. 30 early-round avoids piece also noted how much game script mattered last year: Taylor averaged 31.5 PPR points in Colts wins and 12.4 in losses. He's still an elite fantasy back. There's just less margin for error at the current cost.",
+        "title": "Jonathan Taylor Carries More Risk at His First-Round Price",
+        "topic_id": "1400173607287586816",
+        "url": "https://www.rotoballer.com/player-news/jonathan-taylor-carries-more-risk-at-his-first-round-price/1920375"
+      },
+      "nfl_team": "IND",
+      "player_id": "6813",
+      "player_name": "Jonathan Taylor",
+      "position": "RB",
+      "published": 1788175267000,
+      "source": "rotoballer",
+      "source_key": "219784",
+      "story_id": "nfl|6813|rotoballer|219784|1788175267000",
+      "title": "Jonathan Taylor Carries More Risk at His First-Round Price",
+      "url": "https://www.rotoballer.com/player-news/jonathan-taylor-carries-more-risk-at-his-first-round-price/1920375"
+    },
     {
       "analysis": null,
       "description": "Baltimore Ravens running back Derrick Henry has scored double-digit touchdowns in eight straight seasons, and despite being 32 years old, he still has the second-highest odds to lead the league in rushing scores in 2026, behind only Detroit's Jahmyr Gibbs. In an era of PPR prevalence, Henry is one of the few running backs to build a career of fantasy dominance with almost no receiving profile to speak of. Only twice in his 10-year career has Henry topped 20 receptions, and yet he has finished as an RB1 in six of the past seven seasons, four times cracking the top four, and still finishing as the RB16 in an injury-shortened 2021 season in which he played only eight games. Henry has been as automatic as they come, and in new offensive coordinator Declan Doyle's system, which is expected to put Lamar Jackson under center more frequently, he will be able to play with a head of steam that should only make him more dangerous. Ravens rookie Adam Randall (undisclosed) will begin the season on injured reserve, and with veteran Justice Hill once more expected to work as Henry's primary backup after handling 1.8 carries per game in 2025, there are no indications that Henry's workload will be lightened in 2026, making him a potential bargain as the RB12 by current ADP.",
@@ -33,10 +55,10 @@
     },
     {
       "analysis": null,
-      "description": "While the discovery of a blood clot in his lung kept New Orleans Saints wide receiver Chris Olave out of the final game of the year and prevented him from completing his first 17-game season, his health and availability were major storylines of what would become a career-year and a WR6 finish. While his frightening history of concussions hasn't suddenly gone away, seeing Olave at his peak for a full season has made him an easier click in the early rounds of 2026 drafts, particularly after the way he finished the year with rookie Tyler Shough under center. Shough took over as starter in Week 9, and after a week of adjustment, Olave was the WR2 on a points per game basis from Week 10 through the end of the year, trailing only Puka Nacua. With first-round pick Jordyn Tyson (hamstring) slated to miss at least the first four games of his rookie season after starting the year on injured reserve, Olave could again be hyper-targeted in one of the league's most high-volume, up-tempo offenses, making him a potential week-winner to begin the season. At RotoBaller's WR11, there is still considerable injury concern baked into his profile, but for the risk-tolerant, he is capable of providing WR1 upside while often found closer to a WR2 cost.",
+      "description": "While the discovery of a blood clot in his lung kept New Orleans Saints wide receiver Chris Olave out of the final game of the year and prevented him from completing his first 17-game season, his health and availability were major storylines of what would become a career year and a WR6 finish. While his frightening history of concussions hasn't suddenly gone away, seeing Olave at his peak for a full season has made him an easier click in the early rounds of 2026 drafts, particularly after the way he finished the year with rookie Tyler Shough under center. Shough took over as starter in Week 9, and after a week of adjustment, Olave was the WR2 on a points per game basis from Week 10 through the end of the year, trailing only Puka Nacua. With first-round pick Jordyn Tyson (hamstring) slated to miss at least the first four games of his rookie season after starting the year on injured reserve, Olave could again be hyper-targeted in one of the league's most high-volume, up-tempo offenses, making him a potential week-winner to begin the season. At RotoBaller's WR11, there is still considerable injury concern baked into his profile, but for the risk-tolerant, he is capable of providing WR1 upside while often found closer to a WR2 cost.",
       "metadata": {
-        "description": "While the discovery of a blood clot in his lung kept New Orleans Saints wide receiver Chris Olave out of the final game of the year and prevented him from completing his first 17-game season, his health and availability were major storylines of what would become a career-year and a WR6 finish. While his frightening history of concussions hasn't suddenly gone away, seeing Olave at his peak for a full season has made him an easier click in the early rounds of 2026 drafts, particularly after the way he finished the year with rookie Tyler Shough under center. Shough took over as starter in Week 9, and after a week of adjustment, Olave was the WR2 on a points per game basis from Week 10 through the end of the year, trailing only Puka Nacua. With first-round pick Jordyn Tyson (hamstring) slated to miss at least the first four games of his rookie season after starting the year on injured reserve, Olave could again be hyper-targeted in one of the league's most high-volume, up-tempo offenses, making him a potential week-winner to begin the season. At RotoBaller's WR11, there is still considerable injury concern baked into his profile, but for the risk-tolerant, he is capable of providing WR1 upside while often found closer to a WR2 cost.",
-        "title": "Another Healthy Season Could Cement Chris Olave's Place Among the Fantasy Elite",
+        "description": "While the discovery of a blood clot in his lung kept New Orleans Saints wide receiver Chris Olave out of the final game of the year and prevented him from completing his first 17-game season, his health and availability were major storylines of what would become a career year and a WR6 finish. While his frightening history of concussions hasn't suddenly gone away, seeing Olave at his peak for a full season has made him an easier click in the early rounds of 2026 drafts, particularly after the way he finished the year with rookie Tyler Shough under center. Shough took over as starter in Week 9, and after a week of adjustment, Olave was the WR2 on a points per game basis from Week 10 through the end of the year, trailing only Puka Nacua. With first-round pick Jordyn Tyson (hamstring) slated to miss at least the first four games of his rookie season after starting the year on injured reserve, Olave could again be hyper-targeted in one of the league's most high-volume, up-tempo offenses, making him a potential week-winner to begin the season. At RotoBaller's WR11, there is still considerable injury concern baked into his profile, but for the risk-tolerant, he is capable of providing WR1 upside while often found closer to a WR2 cost.",
+        "title": "Healthy Season Could Cement Chris Olave's Place",
         "topic_id": "1400164799135948800",
         "url": "https://www.rotoballer.com/player-news/another-healthy-season-could-cement-chris-olaves-place-among-the-fantasy-elite/1920342"
       },
@@ -48,7 +70,7 @@
       "source": "rotoballer",
       "source_key": "219781",
       "story_id": "nfl|8144|rotoballer|219781|1788173113000",
-      "title": "Another Healthy Season Could Cement Chris Olave's Place Among the Fantasy Elite",
+      "title": "Healthy Season Could Cement Chris Olave's Place",
       "url": "https://www.rotoballer.com/player-news/another-healthy-season-could-cement-chris-olaves-place-among-the-fantasy-elite/1920342"
     },
     {
