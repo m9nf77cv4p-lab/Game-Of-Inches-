@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1418**
-- Newly captured: **1**
+- Stored stories: **1420**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Carnell Tate** — Carnell Tate Gains Steam Despite Quiet Preseason (2026-08-31T11:59:13Z)
+- **NEW — Tyler Allgeier** — Tyler Allgeier Primed for Early Season Workload (2026-08-31T12:24:05Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-allgeier-primed-for-early-season-workload/1920419
+- **NEW — Jalen Coker** — Jalen Coker has Prime Path to 2026 Breakout (2026-08-31T12:17:07Z)
+  - Source: https://www.rotoballer.com/player-news/jalen-coker-has-prime-path-to-2026-breakout/1920415
+- **Carnell Tate** — Carnell Tate Gains Steam Despite Quiet Preseason (2026-08-31T11:59:13Z)
   - Source: https://www.rotoballer.com/player-news/carnell-tate-gains-steam-despite-quiet-preseason/1920405
 - **Jadarian Price** — Jadarian Price Ready to Lead Seahawks' Backfield (2026-08-31T11:50:12Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-ready-to-lead-seahawks-backfield/1920396
@@ -211,7 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The 2023 first-round pick got the start in the Colts' preseason finale and led the team to field goals on his first two drives, but Riley Leonard came on in the second quarter and produced Indy's only TD of the afternoon. Richardson did avoid committing any turnovers, but Saturday's performances didn't do much to clarify who will begin the season as Daniel Jones' backup.
 - **Cam Skattebo** — Deep Backfield Could Actually Help Cam Skattebo in 2026 (2026-08-29T21:59:08Z)
   - Source: https://www.rotoballer.com/player-news/deep-backfield-could-actually-help-cam-skattebo-in-2026/1919401
-- **Christian McCaffrey** — Christian McCaffrey a Top Target in Drafts Despite Steep Price Tag (2026-08-29T21:54:07Z)
-  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-a-top-target-in-drafts-despite-steep-price-tag/1919399
-- **Jake Bates** — Jake Bates - Rough performance in preseason finale (2026-08-29T21:53:32Z)
-  - The Lions scored four touchdowns on the afternoon but failed on a two-point conversion on one of them. Bates hasn't looked great this preseason and converted a subpar 79.4 percent of his FG attempts in 2025, but as yet there's been no suggestion his spot is in jeopardy. Detroit's high-powered offense offers Bates a reliable floor in terms of PAT volume, but the unit's efficiency also limits his FG volume, and his fantasy ceiling -- he reached double-digit points in just seven of 17 regular-season games last season.

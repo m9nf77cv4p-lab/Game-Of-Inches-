@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-31T16:14:12Z",
+  "last_checked_at": "2026-08-31T16:34:22Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|13279|rotoballer|219788|1788177553000"
+    "nfl|11646|rotoballer|219791|1788178627000",
+    "nfl|8132|rotoballer|219792|1788179045000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back Tyler Allgeier has a prime opportunity for a hefty early-season workload out of the Cardinals' backfield to open up his first year in the desert. It would be an understatement to say that Arizona's backfield is banged up heading into their Week 1 matchup against the Los Angeles Chargers. Trey Benson (knee) is on Injured Reserve and will miss the entire season, James Conner (foot) will miss at least the first four games of the year while on IR, and rookie first-rounder Jeremiyah Love (ankle) has been nursing an ankle sprain that could keep him limited or out altogether in the season opener. It all means that the 26-year-old Allgeier should handle the bulk of the Cardinals' backfield touches early on in 2026. That could all change as Love gets healthier and Conner makes his season debut, going into Week 1, Allgeier should be locked into fantasy football lineups as at least a flex play. RotoBaller currently has the former Atlanta Falcons RB ranked as the RB48 in half-PPR setups. Allgeier averaged 4.3 yards per carry in his four years in Atlanta while recording a career-high eight rushing touchdowns in 17 games as the backup to Bijan Robinson in 2025.",
+      "metadata": {
+        "description": "Arizona Cardinals running back Tyler Allgeier has a prime opportunity for a hefty early-season workload out of the Cardinals' backfield to open up his first year in the desert. It would be an understatement to say that Arizona's backfield is banged up heading into their Week 1 matchup against the Los Angeles Chargers. Trey Benson (knee) is on Injured Reserve and will miss the entire season, James Conner (foot) will miss at least the first four games of the year while on IR, and rookie first-rounder Jeremiyah Love (ankle) has been nursing an ankle sprain that could keep him limited or out altogether in the season opener. It all means that the 26-year-old Allgeier should handle the bulk of the Cardinals' backfield touches early on in 2026. That could all change as Love gets healthier and Conner makes his season debut, going into Week 1, Allgeier should be locked into fantasy football lineups as at least a flex play. RotoBaller currently has the former Atlanta Falcons RB ranked as the RB48 in half-PPR setups. Allgeier averaged 4.3 yards per carry in his four years in Atlanta while recording a career-high eight rushing touchdowns in 17 games as the backup to Bijan Robinson in 2025.",
+        "title": "Tyler Allgeier Primed for Early Season Workload",
+        "topic_id": "1400189966964801536",
+        "url": "https://www.rotoballer.com/player-news/tyler-allgeier-primed-for-early-season-workload/1920419"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8132",
+      "player_name": "Tyler Allgeier",
+      "position": "RB",
+      "published": 1788179045000,
+      "source": "rotoballer",
+      "source_key": "219792",
+      "story_id": "nfl|8132|rotoballer|219792|1788179045000",
+      "title": "Tyler Allgeier Primed for Early Season Workload",
+      "url": "https://www.rotoballer.com/player-news/tyler-allgeier-primed-for-early-season-workload/1920419"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers wide receiver Jalen Coker was a sleeper receiver for a breakout in 2025, but he managed to play in only 11 games for the second straight season due to injuries, finishing with 33 receptions for 394 yards and three touchdowns on 43 targets in his second year in the NFL. The 24-year-old former undrafted free agent from Holy Cross is once again set up for a potential breakout season in 2026 if he can finally play a full year in his third NFL campaign. The Panthers cut receivers David Moore and Ja'Seem Reed on roster cutdown day on Sunday, giving Coker even less competition for targets. He is Carolina's clear WR2 behind Tetairoa McMillan and could be an excellent late-round value pick in upcoming fantasy football drafts. Coker is currently ranked as the WR51 at RotoBaller. In the final eight regular-season games last year, Coker caught 29 passes for 349 yards and three touchdowns before catching nine passes for 134 yards and a touchdown on 12 targets in the wild-card loss to the Los Angeles Rams. Do not forget about Coker as you build your WR depth.",
+      "metadata": {
+        "description": "Carolina Panthers wide receiver Jalen Coker was a sleeper receiver for a breakout in 2025, but he managed to play in only 11 games for the second straight season due to injuries, finishing with 33 receptions for 394 yards and three touchdowns on 43 targets in his second year in the NFL. The 24-year-old former undrafted free agent from Holy Cross is once again set up for a potential breakout season in 2026 if he can finally play a full year in his third NFL campaign. The Panthers cut receivers David Moore and Ja'Seem Reed on roster cutdown day on Sunday, giving Coker even less competition for targets. He is Carolina's clear WR2 behind Tetairoa McMillan and could be an excellent late-round value pick in upcoming fantasy football drafts. Coker is currently ranked as the WR51 at RotoBaller. In the final eight regular-season games last year, Coker caught 29 passes for 349 yards and three touchdowns before catching nine passes for 134 yards and a touchdown on 12 targets in the wild-card loss to the Los Angeles Rams. Do not forget about Coker as you build your WR depth.",
+        "title": "Jalen Coker has Prime Path to 2026 Breakout",
+        "topic_id": "1400188708619042816",
+        "url": "https://www.rotoballer.com/player-news/jalen-coker-has-prime-path-to-2026-breakout/1920415"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11646",
+      "player_name": "Jalen Coker",
+      "position": "WR",
+      "published": 1788178627000,
+      "source": "rotoballer",
+      "source_key": "219791",
+      "story_id": "nfl|11646|rotoballer|219791|1788178627000",
+      "title": "Jalen Coker has Prime Path to 2026 Breakout",
+      "url": "https://www.rotoballer.com/player-news/jalen-coker-has-prime-path-to-2026-breakout/1920415"
+    },
     {
       "analysis": null,
       "description": "Tennessee Titans wide receiver Carnell Tate didn't catch a pass in the preseason, but his August was better than that box-score line makes it look. The fourth overall pick finished with zero receptions on six targets in three exhibitions, then closed camp with one of his best practices of the summer. Tate caught a team-high seven passes and scored twice in the Aug. 27 joint session with Chicago, with Cam Ward repeatedly coming back to him. That wasn't an isolated day. Tate scored three times in practice on Aug. 9, twice more on Aug. 15 and finished Tennessee's 15 open camp practices with 33 catches. The Titans also list him as a starter alongside Calvin Ridley and Wan'Dale Robinson. There is still reason to keep expectations under control. Tate has plenty of competition for targets, and the preseason production was empty. Still, the role is there and his connection with Ward improved as camp went along. The rookie enters Week 1 with more redraft appeal than his exhibition stat line suggests.",
