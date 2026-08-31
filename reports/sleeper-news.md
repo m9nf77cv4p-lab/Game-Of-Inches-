@@ -3,7 +3,7 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1407**
-- Newly captured: **12**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -70,7 +70,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jaydon Blue** — Jaydon Blue waived by the Dallas Cowboys (2026-08-30T19:50:58.595000Z)
   - Blue had trouble finding a role last year, a lot of which came due to character and work ethic concerns. While that seems to have changed heading into this season, it wasn't enough for him to avoid roster cuts. Dallas will now have Malik Davis as the primary backup behind Javonte Williams, with Phil Mafah and Hunter Luepke mixing in.
   - Source: https://www.fantasypros.com/nfl/news/604887/jaydon-blue-waived-by-dallas-cowboys.php
-- **NEW — Malik Davis** — Malik Davis - Sticks as No. 2 RB (2026-08-30T19:47:23Z)
+- **Malik Davis** — Malik Davis - Sticks as No. 2 RB (2026-08-30T19:47:23Z)
   - In two appearances during exhibition season, Davis churned out 68 yards on 12 carries, which was good for 5.7 YPC. Both his play in the preseason and work on the practice field had made him the favorite for the Cowboys' direct backup role, and he'll now look to build upon a 2025 campaign in which he recorded 52 rushes for 250 yards (4.8 YPC) and two TDs in 10 regular-season games.
 - **Jaydon Blue** — Jaydon Blue - Cut loose by Cowboys (2026-08-30T19:37:27Z)
   - Dallas reportedly has moved on from two RBs on cut-down day, the other being Phil Mafah. The moves indicate that Malik Davis has claimed the No. 2 role behind starter Javonte Williams, though one or both of Blue and Mafah could wind up back on the team's practice squad if they clear waivers.
@@ -96,7 +96,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/taylen-green-sticks-in-browns-four-qb-room/1919966
 - **Javonte Williams** — Javonte Williams Set for Workhorse Role After Cowboys' Latest Cuts (2026-08-30T16:40:13Z)
   - Source: https://www.rotoballer.com/player-news/javonte-williams-set-for-workhorse-role-after-cowboys-latest-cuts/1919952
-- **NEW — Malik Davis** — Malik Davis a Big Winner After Cowboys Backfield Cuts (2026-08-30T16:14:08Z)
+- **Malik Davis** — Malik Davis a Big Winner After Cowboys Backfield Cuts (2026-08-30T16:14:08Z)
   - Source: https://www.rotoballer.com/player-news/malik-davis-a-big-winner-after-cowboys-backfield-cuts/1919929
 - **MarShawn Lloyd** — MarShawn Lloyd Poised to Begin Season as Green Bay's Lead Running Back (2026-08-30T16:00:12Z)
   - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-poised-to-begin-season-as-green-bays-lead-running-back/1919914
@@ -110,7 +110,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up versus the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.
 - **Keenan Allen** — Keenan Allen Faces Potential Three-Game Suspension (2026-08-30T14:48:06Z)
   - Source: https://www.rotoballer.com/player-news/keenan-allen-faces-potential-three-game-suspension/1919808
-- **NEW — Jalon Daniels** — Jalon Daniels - Wins backup QB job (2026-08-30T14:20:19Z)
+- **Jalon Daniels** — Jalon Daniels - Wins backup QB job (2026-08-30T14:20:19Z)
   - After entering camp as an undrafted rookie in a crowded quarterback room, Daniels appears to have climbed into the No. 2 role behind Mayfield. The decision gives him clear roster security and places him next in line if Tampa Bay needs a backup to step into game action. Daniels won the job after a strong preseason during which he completed 27 of 44 passes for 239 yards and a touchdown without being picked off.
 - **Brock Bowers** — Brock Bowers Looks Like Himself Again (2026-08-30T14:09:07Z)
   - Source: https://www.rotoballer.com/player-news/brock-bowers-looks-like-himself-again/1919761
@@ -141,7 +141,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/trevor-lawrence-offers-league-winning-upside-at-a-low-qb1-cost/1919586
 - **Nicholas Singleton** — Nicholas Singleton Ends Preseason Without Any Signature Moments (2026-08-30T10:36:08Z)
   - Source: https://www.rotoballer.com/player-news/nicholas-singleton-ends-preseason-without-any-signature-moments/1919574
-- **NEW — Jalon Daniels** — Jalon Daniels Wins Buccaneers Backup Job (2026-08-30T10:24:05Z)
+- **Jalon Daniels** — Jalon Daniels Wins Buccaneers Backup Job (2026-08-30T10:24:05Z)
   - Source: https://www.rotoballer.com/player-news/jalon-daniels-wins-buccaneers-backup-job/1919565
 - **George Kittle** — Has George Kittle "Taken a Step Back"? (2026-08-30T09:49:08Z)
   - Source: https://www.rotoballer.com/player-news/has-george-kittle-taken-a-step-back/1919528

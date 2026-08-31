@@ -1,21 +1,8 @@
 {
-  "last_checked_at": "2026-08-31T05:14:56Z",
+  "last_checked_at": "2026-08-31T06:06:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
-  "new_story_ids": [
-    "nfl|11370|rotoballer|219075|1787318348000",
-    "nfl|11370|rotowire|633438|1786661826000",
-    "nfl|11370|rotowire|634400|1787378188000",
-    "nfl|11834|rotoballer|218944|1787149509000",
-    "nfl|11834|rotoballer|219070|1787316734000",
-    "nfl|11834|rotoballer|219626|1787965209000",
-    "nfl|13425|rotoballer|219703|1788085445000",
-    "nfl|13425|rotowire|635085|1787971771000",
-    "nfl|13425|rotowire|635287|1788099619000",
-    "nfl|8800|rotoballer|219736|1788106448000",
-    "nfl|8800|rotowire|634887|1787779726000",
-    "nfl|8800|rotowire|635371|1788119243000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -691,10 +678,10 @@
     },
     {
       "analysis": "Jacobs was officially charged Thursday with two misdemeanors stemming from his May arrest for a domestic incident in Brown County, Wis, with a court appearance scheduled for Nov. 17. For as long as he's on the list, he won't be able to practice or play in games, and there's no word on how long this may be his reality. Aside from Jacobs, the Packers backfield is occupied by MarShawn Lloyd, Chris Brooks and newcomer Kaleb Johnson, with Lloyd the likely favorite to handle the largest workload during Jacobs' absence.",
-      "description": "The NFL placed Jacobs on the Commissioner's Exempt List on Sunday, Adam Schefter of ESPN reports.",
+      "description": "The NFL placed Jacobs (groin) on the Commissioner's Exempt List on Sunday, Adam Schefter of ESPN reports.",
       "metadata": {
         "analysis": "Jacobs was officially charged Thursday with two misdemeanors stemming from his May arrest for a domestic incident in Brown County, Wis, with a court appearance scheduled for Nov. 17. For as long as he's on the list, he won't be able to practice or play in games, and there's no word on how long this may be his reality. Aside from Jacobs, the Packers backfield is occupied by MarShawn Lloyd, Chris Brooks and newcomer Kaleb Johnson, with Lloyd the likely favorite to handle the largest workload during Jacobs' absence.",
-        "description": "The NFL placed Jacobs on the Commissioner's Exempt List on Sunday, Adam Schefter of ESPN reports.",
+        "description": "The NFL placed Jacobs (groin) on the Commissioner's Exempt List on Sunday, Adam Schefter of ESPN reports.",
         "title": "Josh Jacobs - Lands on Commissioner's Exempt List",
         "topic_id": "1399860484252921856"
       },
