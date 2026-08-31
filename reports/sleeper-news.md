@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1422**
-- Newly captured: **2**
+- Stored stories: **1423**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Mike Washington** — Mike Washington Jr. Will Have Key Role in Raiders' Backfield (2026-08-31T12:44:09Z)
+- **NEW — Travis Etienne** — Travis Etienne Jr. Could Face Competition for Touches (2026-08-31T12:55:06Z)
+  - Source: https://www.rotoballer.com/player-news/travis-etienne-jr-could-face-competition-for-touches/1920442
+- **Mike Washington** — Mike Washington Jr. Will Have Key Role in Raiders' Backfield (2026-08-31T12:44:09Z)
   - Source: https://www.rotoballer.com/player-news/mike-washington-jr-will-have-key-role-in-raiders-backfield/1920431
-- **NEW — Isaac TeSlaa** — Isaac Teslaa has WR3 Job Locked Down in Detroit (2026-08-31T12:36:10Z)
+- **Isaac TeSlaa** — Isaac Teslaa has WR3 Job Locked Down in Detroit (2026-08-31T12:36:10Z)
   - Source: https://www.rotoballer.com/player-news/isaac-teslaa-has-wr3-job-locked-down-in-detroit/1920429
 - **Tyler Allgeier** — Tyler Allgeier Primed for Early Season Workload (2026-08-31T12:24:05Z)
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-primed-for-early-season-workload/1920419
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/colston-loveland-has-a-premium-price-tag-in-fantasy-drafts/1919407
 - **Keenan Allen** — Keenan Allen - One catch in first preseason game for Indy (2026-08-29T22:24:59Z)
   - Having just signed with Indianapolis less than two weeks ago, Allen saw his first game action for his new club and quickly produced a big gain on Anthony Richardson's first pass attempt of the afternoon, helping to set up a field goal. Top wideouts Alec Pierce (ankle) and Josh Downs (calf), as well as top tight end Tyler Warren (groin), are all carrying injury designations to close out the preseason, so Allen could end up having a bigger role in the passing attack than expected once Week 1 rolls around. The 34-year-old showed he can still be an effective possession option in 2025 with the Chargers, delivering an 81-777-4 line on 122 targets while playing all 17 regular-season contests.
-- **Zachariah Branch** — Zachariah Branch - Returns punt in preseason win (2026-08-29T21:59:56Z)
-  - Branch didn't see much action Friday, playing a total of four snaps (three on offense, one on special teams). However, his lone snap on special teams came as a punt returner, and he figures to see plenty of work as a returner in the upcoming season, especially if he doesn't get much playing time on offense behind Drake London, Jahan Dotson and Olamide Zaccheaus.

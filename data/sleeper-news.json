@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T16:54:27Z",
+  "last_checked_at": "2026-08-31T17:14:45Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|12535|rotoballer|219793|1788179770000",
-    "nfl|13305|rotoballer|219794|1788180249000"
+    "nfl|7543|rotoballer|219795|1788180906000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "The case for New Orleans Saints running back Travis Etienne Jr. being a surefire RB1 in fantasy football took a hit on Sunday on roster cutdown day when the Saints did not place veteran Alvin Kamara (knee) on Injured Reserve for the start of the 2026 campaign. It is still unclear if Kamara will be active for the Week 1 regular-season opener against the Detroit Lions, but the fact that he will not be forced to miss at least the first four weeks of the season is bad news for Etienne's potential upside early on. The Saints signed the 27-year-old to a four-year, $52 million contract in March in free agency after he produced his third 1,000-yard season with seven rushing touchdowns in 17 regular-season games in 2025 in his final year with the Jacksonville Jaguars. Etienne also had 36 receptions (52 targets) for 292 yards and six receiving touchdowns, but Kamara, when healthy, figures to eat into Etienne's pass-catching opportunities. Fantasy managers should treat Etienne as a low-end RB1/high-end RB2 going into upcoming drafts.",
+      "metadata": {
+        "description": "The case for New Orleans Saints running back Travis Etienne Jr. being a surefire RB1 in fantasy football took a hit on Sunday on roster cutdown day when the Saints did not place veteran Alvin Kamara (knee) on Injured Reserve for the start of the 2026 campaign. It is still unclear if Kamara will be active for the Week 1 regular-season opener against the Detroit Lions, but the fact that he will not be forced to miss at least the first four weeks of the season is bad news for Etienne's potential upside early on. The Saints signed the 27-year-old to a four-year, $52 million contract in March in free agency after he produced his third 1,000-yard season with seven rushing touchdowns in 17 regular-season games in 2025 in his final year with the Jacksonville Jaguars. Etienne also had 36 receptions (52 targets) for 292 yards and six receiving touchdowns, but Kamara, when healthy, figures to eat into Etienne's pass-catching opportunities. Fantasy managers should treat Etienne as a low-end RB1/high-end RB2 going into upcoming drafts.",
+        "title": "Travis Etienne Jr. Could Face Competition for Touches",
+        "topic_id": "1400198776462790656",
+        "url": "https://www.rotoballer.com/player-news/travis-etienne-jr-could-face-competition-for-touches/1920442"
+      },
+      "nfl_team": "NO",
+      "player_id": "7543",
+      "player_name": "Travis Etienne",
+      "position": "RB",
+      "published": 1788180906000,
+      "source": "rotoballer",
+      "source_key": "219795",
+      "story_id": "nfl|7543|rotoballer|219795|1788180906000",
+      "title": "Travis Etienne Jr. Could Face Competition for Touches",
+      "url": "https://www.rotoballer.com/player-news/travis-etienne-jr-could-face-competition-for-touches/1920442"
+    },
     {
       "analysis": null,
       "description": "The Las Vegas Raiders trimmed some depth at the running back position on roster cutdown day on Sunday, giving rookie fourth-round RB Mike Washington Jr. an even clearer path to a sizable early-season workload, even if starter Ashton Jeanty (ankle) is ready to go for the Week 1 regular-season opener against the Miami Dolphins. Washington looked good in the team's preseason finale last week against the San Francisco 49ers on Thursday, rushing eight times for 49 yards, including a couple of chunk gains on the ground. The 23-year-old impressed the Raiders' coaching staff this summer during training camp, and he is firmly entrenched as the RB2 in Sin City, with only Dylan Laube behind him in the running back room. In upcoming fantasy football drafts, managers should view Washington as a strong handcuff option for Jeanty with a potential path to a starting role in Week 1 if Jeanty is limited or ruled out entirely. The drawback to Washington is that he was not very efficient as a pass-catcher in college, and he comes with some ball-security issues. RotoBaller has him ranked as the No. 49 fantasy RB for 2026.",
