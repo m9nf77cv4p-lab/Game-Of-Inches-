@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-08-31T15:13:42Z",
+  "last_checked_at": "2026-08-31T15:23:45Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
-  "new_story_ids": [
-    "nfl|3198|rotoballer|219782|1788174067000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -28396,26 +28394,6 @@
       "story_id": "nfl|7547|rotoballer|217870|1785678786000",
       "title": "Amon-Ra St. Brown Still Belongs on Any Dynasty Roster",
       "url": "https://www.rotoballer.com/player-news/amon-ra-st-brown-still-belongs-on-any-dynasty-roster/1901524"
-    },
-    {
-      "analysis": null,
-      "description": "Tennessee Titans wide receiver Calvin Ridley said he lost almost 15 pounds while dealing with a stomach virus but has since gained the weight back, according to Terry McCormick. Ridley also said he had eaten Chipotle before becoming ill, though the report did not identify the restaurant as the cause. The update is welcome after a quiet offseason in which Ridley's work was limited. His 2025 season ended after seven games because of a broken fibula and high ankle sprain, leaving him with 17 catches for 303 yards and no touchdowns. Tennessee added Wan'Dale Robinson in free agency and selected Carnell Tate fourth overall, giving Ridley more competition for targets this season. With the lost weight already restored, there is no indication in McCormick's report that the illness remains an active concern. Ridley's camp usage and role alongside Tennessee's new receivers are the more important fantasy developments to follow.",
-      "metadata": {
-        "description": "Tennessee Titans wide receiver Calvin Ridley said he lost almost 15 pounds while dealing with a stomach virus but has since gained the weight back, according to Terry McCormick. Ridley also said he had eaten Chipotle before becoming ill, though the report did not identify the restaurant as the cause. The update is welcome after a quiet offseason in which Ridley's work was limited. His 2025 season ended after seven games because of a broken fibula and high ankle sprain, leaving him with 17 catches for 303 yards and no touchdowns. Tennessee added Wan'Dale Robinson in free agency and selected Carnell Tate fourth overall, giving Ridley more competition for targets this season. With the lost weight already restored, there is no indication in McCormick's report that the illness remains an active concern. Ridley's camp usage and role alongside Tennessee's new receivers are the more important fantasy developments to follow.",
-        "title": "Calvin Ridley Regains Weight After Stomach Virus",
-        "topic_id": "1389362510200594432",
-        "url": "https://www.rotoballer.com/player-news/calvin-ridley-regains-weight-after-stomach-virus/1901171"
-      },
-      "nfl_team": "TEN",
-      "player_id": "4981",
-      "player_name": "Calvin Ridley",
-      "position": "WR",
-      "published": 1785597368000,
-      "source": "rotoballer",
-      "source_key": "217838",
-      "story_id": "nfl|4981|rotoballer|217838|1785597368000",
-      "title": "Calvin Ridley Regains Weight After Stomach Virus",
-      "url": "https://www.rotoballer.com/player-news/calvin-ridley-regains-weight-after-stomach-virus/1901171"
     }
   ]
 }

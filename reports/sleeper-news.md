@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1414**
-- Newly captured: **1**
+- Stored stories: **1413**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Derrick Henry** — Derrick Henry Has Shown No Signs of Slowing, Fully Capable of Another League-Winning Season (2026-08-31T11:01:07Z)
+- **Derrick Henry** — Derrick Henry Has Shown No Signs of Slowing, Fully Capable of Another League-Winning Season (2026-08-31T11:01:07Z)
   - Source: https://www.rotoballer.com/player-news/derrick-henry-has-shown-no-signs-of-slowing-fully-capable-of-another-league-winning-season/1920352
 - **Chris Olave** — Another Healthy Season Could Cement Chris Olave's Place Among the Fantasy Elite (2026-08-31T10:45:13Z)
   - Source: https://www.rotoballer.com/player-news/another-healthy-season-could-cement-chris-olaves-place-among-the-fantasy-elite/1920342
