@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T23:38:08Z",
+  "last_checked_at": "2026-08-31T23:48:25Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11597|rotoballer|219832|1788204430000"
+    "nfl|6803|rotoballer|219833|1788205211000"
   ],
   "schema_version": 1,
   "source": {
@@ -278,6 +278,26 @@
       "story_id": "nfl|11597|rotowire|635603|1788205543000",
       "title": "Theo Johnson - Donning non-contact jersey at practice",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers general manager John Lynch confirmed on Monday that nothing has changed with the situation regarding wide receiver Brandon Aiyuk (knee), who remains on the left-squad list after roster cutdown day on Sunday, according to Matt Lively of CBS Sports. The 28-year-old former first-rounder has been off the team's roster since the start of training camp at the end of July. A season-ending knee injury in 2024 and off-the-field issues have forced the Niners to move on from Aiyuk, who went on a social-media rant against the organization this offseason, in turn scaring away potential suitors if/when the 49ers ever outright release him. The 49ers signed Aiyuk to a four-year, $120 million contract in August of 2024 before he proceeded to catch just 25 passes for 374 yards and zero touchdowns before tearing his ACL and MCL in his right knee in Week 7. Aiyuk did not play at all in 2025, and the chances of him re-emerging as a fantasy football asset in 2026 are drying up with each passing day. Fantasy managers in redraft leagues should not be drafting Aiyuk.",
+      "metadata": {
+        "description": "San Francisco 49ers general manager John Lynch confirmed on Monday that nothing has changed with the situation regarding wide receiver Brandon Aiyuk (knee), who remains on the left-squad list after roster cutdown day on Sunday, according to Matt Lively of CBS Sports. The 28-year-old former first-rounder has been off the team's roster since the start of training camp at the end of July. A season-ending knee injury in 2024 and off-the-field issues have forced the Niners to move on from Aiyuk, who went on a social-media rant against the organization this offseason, in turn scaring away potential suitors if/when the 49ers ever outright release him. The 49ers signed Aiyuk to a four-year, $120 million contract in August of 2024 before he proceeded to catch just 25 passes for 374 yards and zero touchdowns before tearing his ACL and MCL in his right knee in Week 7. Aiyuk did not play at all in 2025, and the chances of him re-emerging as a fantasy football asset in 2026 are drying up with each passing day. Fantasy managers in redraft leagues should not be drafting Aiyuk.",
+        "title": "Nothing has Changed with Brandon Aiyuk, 49ers",
+        "topic_id": "1400299440438255617",
+        "url": "https://www.rotoballer.com/player-news/nothing-has-changed-with-brandon-aiyuk-49ers/1920732"
+      },
+      "nfl_team": "SF",
+      "player_id": "6803",
+      "player_name": "Brandon Aiyuk",
+      "position": "WR",
+      "published": 1788205211000,
+      "source": "rotoballer",
+      "source_key": "219833",
+      "story_id": "nfl|6803|rotoballer|219833|1788205211000",
+      "title": "Nothing has Changed with Brandon Aiyuk, 49ers",
+      "url": "https://www.rotoballer.com/player-news/nothing-has-changed-with-brandon-aiyuk-49ers/1920732"
     },
     {
       "analysis": "Beck suffered a ribs injury in the Hall of Fame Game earlier this month and missed the Cardinals' three official preseason contests. The third-round rookie is set to open the season as Arizona's QB3 behind starter Jacoby Brissett and veteran backup Gardner Minshew. There's a pretty good chance Beck sees action as a rookie during the regular season.",

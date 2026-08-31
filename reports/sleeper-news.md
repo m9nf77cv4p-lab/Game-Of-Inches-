@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1467**
+- Stored stories: **1468**
 - Newly captured: **1**
 
 ## Latest news
@@ -39,9 +39,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605051/jaydon-blue-goes-unclaimed-on-waivers.php
 - **Theo Johnson** — Theo Johnson - Donning non-contact jersey at practice (2026-08-31T19:45:43Z)
   - Johnson was injured in practice last Monday and continues to deal with the injury, though his return to action would suggest the tight end is on track to play Week 1 against the Cowboys. Johnson figures to work mostly as a blocker this season after the Giants signed Isaiah Likely to a contract over the offseason.
+- **NEW — Brandon Aiyuk** — Nothing has Changed with Brandon Aiyuk, 49ers (2026-08-31T19:40:11Z)
+  - Source: https://www.rotoballer.com/player-news/nothing-has-changed-with-brandon-aiyuk-49ers/1920732
 - **Carson Beck** — Carson Beck - Returning to practice Monday (2026-08-31T19:30:39Z)
   - Beck suffered a ribs injury in the Hall of Fame Game earlier this month and missed the Cardinals' three official preseason contests. The third-round rookie is set to open the season as Arizona's QB3 behind starter Jacoby Brissett and veteran backup Gardner Minshew. There's a pretty good chance Beck sees action as a rookie during the regular season.
-- **NEW — Theo Johnson** — Theo Johnson Wears Non-Contact Jersey at Monday's Practice (2026-08-31T19:27:10Z)
+- **Theo Johnson** — Theo Johnson Wears Non-Contact Jersey at Monday's Practice (2026-08-31T19:27:10Z)
   - Source: https://www.rotoballer.com/player-news/theo-johnson-wears-non-contact-jersey-at-mondays-practice/1920728
 - **DK Metcalf** — DK Metcalf will be available Week 1 (2026-08-31T19:20:14.517000Z)
   - Metcalf has been dealing with an undisclosed injury, but appears to be good to go. He is a strong flex play against the Falcons in Week 1.
@@ -219,6 +221,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/604854/josh-jacobs-placed-on-commissioner-exempt-list.php
 - **Josh Jacobs** — Josh Jacobs - Placed on Commissioner Exempt List (2026-08-30T18:32:50Z)
   - Jacobs was formally charged with battery and criminal damage to property last week, and will have his next hearing date in November. We'll await further details to see when he could be reinstated.
-- **Kaleb Johnson** — Kaleb Johnson traded to Packers (2026-08-30T17:45:57.758000Z)
-  - Details of the trade are still being finalized between the two organizations, with Johnson receiving the fresh start the running back desperately needs after falling out of favor in a Pittsburgh backfield that will be led by the duo of Jaylen Warren and Rico Dowdle this upcoming season. Johnson's role should become clearer as the National Football League continues their investigation into No. 1 running back Josh Jacobs, potentially resulting in a backup opportunity behind current No. 2 option MarShawn Lloyd.
-  - Source: https://www.fantasypros.com/nfl/news/604830/kaleb-johnson-traded-to-packers.php
