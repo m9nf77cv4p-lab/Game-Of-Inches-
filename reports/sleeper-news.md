@@ -2,12 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1441**
-- Newly captured: **2**
+- Stored stories: **1444**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Theo Johnson** — Theo Johnson - Donning non-contact jersey at practice (2026-08-31T19:45:43Z)
+- **NEW — Zay Flowers** — Zay Flowers (lower body) misses practice  (2026-08-31T20:00:14.749000Z)
+  - Flowers is dealing with a lower body injury. It does not appear that his status for Week 1 is in doubt as of now. 
+  - Source: https://www.fantasypros.com/nfl/news/605050/zay-flowers-lower-body-misses-practice.php
+- **NEW — Jaydon Blue** — Jaydon Blue goes unclaimed on waivers  (2026-08-31T20:00:14.736000Z)
+  - Blue was waived by Dallas. He now becomes a free agent and can be signed by any team. 
+  - Source: https://www.fantasypros.com/nfl/news/605051/jaydon-blue-goes-unclaimed-on-waivers.php
+- **Theo Johnson** — Theo Johnson - Donning non-contact jersey at practice (2026-08-31T19:45:43Z)
   - Johnson was injured in practice last Monday and continues to deal with the injury, though his return to action would suggest the tight end is on track to play Week 1 against the Cowboys. Johnson figures to work mostly as a blocker this season after the Giants signed Isaiah Likely to a contract over the offseason.
 - **Carson Beck** — Carson Beck - Returning to practice Monday (2026-08-31T19:30:39Z)
   - Beck suffered a ribs injury in the Hall of Fame Game earlier this month and missed the Cardinals' three official preseason contests. The third-round rookie is set to open the season as Arizona's QB3 behind starter Jacoby Brissett and veteran backup Gardner Minshew. There's a pretty good chance Beck sees action as a rookie during the regular season.
@@ -23,7 +29,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
 - **Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
   - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
-- **NEW — Michael Pittman** — Michael Pittman Jr. Expected to be Ready to Go for Week 1 (2026-08-31T15:47:12Z)
+- **NEW — Rico Dowdle** — Rico Dowdle's Role Looks Safer After Final Cuts (2026-08-31T15:57:07Z)
+  - Source: https://www.rotoballer.com/player-news/rico-dowdles-role-looks-safer-after-final-cuts/1920585
+- **Michael Pittman** — Michael Pittman Jr. Expected to be Ready to Go for Week 1 (2026-08-31T15:47:12Z)
   - Source: https://www.rotoballer.com/player-news/michael-pittman-jr-expected-to-be-ready-to-go-for-week-1/1920579
 - **Jordan Love** — Jordan Love Has Legitimate QB1 Upside at a QB2 Price (2026-08-31T15:32:10Z)
   - Source: https://www.rotoballer.com/player-news/jordan-love-has-legitimate-qb1-upside-at-a-qb2-price/1920571
@@ -211,9 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php
 - **Bhayshul Tuten** — Bhayshul Tuten Offers Intriguing Upside (2026-08-30T11:41:06Z)
   - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-offers-intriguing-upside/1919608
-- **DJ Moore** — DJ Moore Could Offer Top-15 Upside (2026-08-30T11:32:08Z)
-  - Source: https://www.rotoballer.com/player-news/dj-moore-could-offer-top-15-upside/1919599
-- **Trevor Lawrence** — Trevor Lawrence Offers League-Winning Upside at a Low-QB1 Cost (2026-08-30T11:00:13Z)
-  - Source: https://www.rotoballer.com/player-news/trevor-lawrence-offers-league-winning-upside-at-a-low-qb1-cost/1919586
-- **Nicholas Singleton** — Nicholas Singleton Ends Preseason Without Any Signature Moments (2026-08-30T10:36:08Z)
-  - Source: https://www.rotoballer.com/player-news/nicholas-singleton-ends-preseason-without-any-signature-moments/1919574

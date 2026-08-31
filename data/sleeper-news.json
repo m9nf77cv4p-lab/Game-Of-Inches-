@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-08-31T19:56:47Z",
+  "last_checked_at": "2026-08-31T20:06:46Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11597|rotowire|635603|1788205543000",
-    "nfl|6819|rotoballer|219815|1788191232000"
+    "nfl|12457|fantasy_pros|605051|1788206414736",
+    "nfl|7021|rotoballer|219816|1788191827000",
+    "nfl|9997|fantasy_pros|605050|1788206414749"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,48 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Flowers is dealing with a lower body injury. It does not appear that his status for Week 1 is in doubt as of now. ",
+      "description": "Zay Flowers did not practice on Monday. ",
+      "metadata": {
+        "analysis": "Flowers is dealing with a lower body injury. It does not appear that his status for Week 1 is in doubt as of now. ",
+        "description": "Zay Flowers did not practice on Monday. ",
+        "title": "Zay Flowers (lower body) misses practice ",
+        "topic_id": "1400242827975245824",
+        "url": "https://www.fantasypros.com/nfl/news/605050/zay-flowers-lower-body-misses-practice.php"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1788206414749,
+      "source": "fantasy_pros",
+      "source_key": "605050",
+      "story_id": "nfl|9997|fantasy_pros|605050|1788206414749",
+      "title": "Zay Flowers (lower body) misses practice ",
+      "url": "https://www.fantasypros.com/nfl/news/605050/zay-flowers-lower-body-misses-practice.php"
+    },
+    {
+      "analysis": "Blue was waived by Dallas. He now becomes a free agent and can be signed by any team. ",
+      "description": "Jaydon Blue went unclaimed on waivers.",
+      "metadata": {
+        "analysis": "Blue was waived by Dallas. He now becomes a free agent and can be signed by any team. ",
+        "description": "Jaydon Blue went unclaimed on waivers.",
+        "title": "Jaydon Blue goes unclaimed on waivers ",
+        "topic_id": "1400242827916525568",
+        "url": "https://www.fantasypros.com/nfl/news/605051/jaydon-blue-goes-unclaimed-on-waivers.php"
+      },
+      "nfl_team": null,
+      "player_id": "12457",
+      "player_name": "Jaydon Blue",
+      "position": "RB",
+      "published": 1788206414736,
+      "source": "fantasy_pros",
+      "source_key": "605051",
+      "story_id": "nfl|12457|fantasy_pros|605051|1788206414736",
+      "title": "Jaydon Blue goes unclaimed on waivers ",
+      "url": "https://www.fantasypros.com/nfl/news/605051/jaydon-blue-goes-unclaimed-on-waivers.php"
+    },
     {
       "analysis": "Johnson was injured in practice last Monday and continues to deal with the injury, though his return to action would suggest the tight end is on track to play Week 1 against the Cowboys. Johnson figures to work mostly as a blocker this season after the Giants signed Isaiah Likely to a contract over the offseason.",
       "description": "Johnson (shoulder) is participating in Monday's practice in a non-contact jersey, Pat Leonard of the New York Daily News reports.",
@@ -155,6 +198,26 @@
       "story_id": "nfl|13330|rotowire|635595|1788202616000",
       "title": "Kenyon Sadiq - On track for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers running back Rico Dowdle came out of final cuts with a cleaner path to touches. Pittsburgh traded Kaleb Johnson to Green Bay and moved on from Travis Homer and Lew Nichols, leaving Jaylen Warren and Dowdle as the only players listed strictly at running back on the initial 53-man roster. Eli Heidenreich remains as an RB/WR and is third on the depth chart, but the top of the room is clearly Warren and Dowdle. That matches what the Steelers said all summer. Offensive coordinator Brian Angelichio said both backs would be a big part of the offense, and Dowdle played 10 snaps to Warren's nine in the preseason game against the Jets. Dowdle also brings consecutive 1,000-yard rushing seasons, including 1,076 yards and six touchdowns on 236 carries for Carolina last year. Warren still sits first on the depth chart, so this is not a workhorse setup. The cuts do make Dowdle's share of the backfield feel a lot safer heading into Week 1.",
+      "metadata": {
+        "description": "Pittsburgh Steelers running back Rico Dowdle came out of final cuts with a cleaner path to touches. Pittsburgh traded Kaleb Johnson to Green Bay and moved on from Travis Homer and Lew Nichols, leaving Jaylen Warren and Dowdle as the only players listed strictly at running back on the initial 53-man roster. Eli Heidenreich remains as an RB/WR and is third on the depth chart, but the top of the room is clearly Warren and Dowdle. That matches what the Steelers said all summer. Offensive coordinator Brian Angelichio said both backs would be a big part of the offense, and Dowdle played 10 snaps to Warren's nine in the preseason game against the Jets. Dowdle also brings consecutive 1,000-yard rushing seasons, including 1,076 yards and six touchdowns on 236 carries for Carolina last year. Warren still sits first on the depth chart, so this is not a workhorse setup. The cuts do make Dowdle's share of the backfield feel a lot safer heading into Week 1.",
+        "title": "Rico Dowdle's Role Looks Safer After Final Cuts",
+        "topic_id": "1400244080134324224",
+        "url": "https://www.rotoballer.com/player-news/rico-dowdles-role-looks-safer-after-final-cuts/1920585"
+      },
+      "nfl_team": "PIT",
+      "player_id": "7021",
+      "player_name": "Rico Dowdle",
+      "position": "RB",
+      "published": 1788191827000,
+      "source": "rotoballer",
+      "source_key": "219816",
+      "story_id": "nfl|7021|rotoballer|219816|1788191827000",
+      "title": "Rico Dowdle's Role Looks Safer After Final Cuts",
+      "url": "https://www.rotoballer.com/player-news/rico-dowdles-role-looks-safer-after-final-cuts/1920585"
     },
     {
       "analysis": null,
