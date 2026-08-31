@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T14:02:09Z",
+  "last_checked_at": "2026-08-31T14:22:43Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|13337|rotoballer|219777|1788169809000"
+    "nfl|9997|rotoballer|219778|1788170706000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Zay Flowers finished his third season with a career-high 86 receptions for 1,211 yards, finishing as the fantasy WR7 despite scoring only five touchdowns. With an aggressive new offensive system and numbers closely in line with his past production trends, another WR1 season is well within Flowers' reach. While Rashod Bateman and rookie Ja'Kobi Lane have both garnered training camp buzz, All-Pro tight end Mark Andrews is another year older, and Flowers remains the unquestioned focal point of the Ravens' passing attack, which is expected to see more under-center concepts and first-down pass attempts under first-year offensive coordinator Declan Doyle. Flowers could be featured not only as a reliable chain-mover but as a legitimate big-play threat, giving him one of the higher floor and ceiling combinations outside the opening rounds of drafts and making him a potential value at RotoBaller's WR14.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Zay Flowers finished his third season with a career-high 86 receptions for 1,211 yards, finishing as the fantasy WR7 despite scoring only five touchdowns. With an aggressive new offensive system and numbers closely in line with his past production trends, another WR1 season is well within Flowers' reach. While Rashod Bateman and rookie Ja'Kobi Lane have both garnered training camp buzz, All-Pro tight end Mark Andrews is another year older, and Flowers remains the unquestioned focal point of the Ravens' passing attack, which is expected to see more under-center concepts and first-down pass attempts under first-year offensive coordinator Declan Doyle. Flowers could be featured not only as a reliable chain-mover but as a legitimate big-play threat, giving him one of the higher floor and ceiling combinations outside the opening rounds of drafts and making him a potential value at RotoBaller's WR14.",
+        "title": "Another WR1 Season is Highly Repeatable for Zay Flowers",
+        "topic_id": "1400155989985988608",
+        "url": "https://www.rotoballer.com/player-news/another-wr1-season-is-highly-repeatable-for-zay-flowers/1920328"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1788170706000,
+      "source": "rotoballer",
+      "source_key": "219778",
+      "story_id": "nfl|9997|rotoballer|219778|1788170706000",
+      "title": "Another WR1 Season is Highly Repeatable for Zay Flowers",
+      "url": "https://www.rotoballer.com/player-news/another-wr1-season-is-highly-repeatable-for-zay-flowers/1920328"
+    },
     {
       "analysis": null,
       "description": "Kansas City Chiefs rookie running back Emmett Johnson ran hard in three preseason contests, averaging 4.7 yards per carry while bringing in six of his seven targets, showing enough for the team to comfortably move on from veteran Emari Demercado, who was just signed to a one-year deal in free agency. The Chiefs kept only three running backs on their initial 53-man roster, hinting at a potential three-down role for Kenneth Walker III and one of the league's most valuable insurance roles for Johnson. Brashard Smith adds versatility and special teams prowess, but Johnson figures to serve as the team's primary change-of-pace back and is capable of handling a bell cow role if needed after seeing more than 300 opportunities in his final year at Nebraska, turning in one of the most productive seasons of any back in the nation. While Walker's projected usage is likely to limit the rookie's standalone value, Johnson has quickly become one of the most important handcuffs in fantasy and is worthy of a late-round selection in deeper leagues.",

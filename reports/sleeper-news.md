@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1409**
+- Stored stories: **1410**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Emmett Johnson** — Emmett Johnson Sees His Handcuff Value Soar Following Sunday's Cuts (2026-08-31T09:50:09Z)
+- **NEW — Zay Flowers** — Another WR1 Season is Highly Repeatable for Zay Flowers (2026-08-31T10:05:06Z)
+  - Source: https://www.rotoballer.com/player-news/another-wr1-season-is-highly-repeatable-for-zay-flowers/1920328
+- **Emmett Johnson** — Emmett Johnson Sees His Handcuff Value Soar Following Sunday's Cuts (2026-08-31T09:50:09Z)
   - Source: https://www.rotoballer.com/player-news/emmett-johnson-sees-his-handcuff-value-soar-following-sundays-cuts/1920281
 - **Ladd McConkey** — Ladd McConkey Primed for a League-Winning Bounceback (2026-08-31T09:36:17Z)
   - Source: https://www.rotoballer.com/player-news/ladd-mcconkey-primed-for-a-league-winning-bounceback/1920252
@@ -216,6 +218,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Emeka Egbuka** — Emeka Egbuka (toe) hopeful for Week 1 (2026-08-29T18:00:49.354000Z)
   - Egbuka has been working his way back from a toe injury during training camp. He is a WR2 with WR1 upside when healthy this season for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/604651/emeka-egbuka-toe-hopeful-week-1.php
-- **Alec Pierce** — Alec Pierce goes through pregame, not playing (2026-08-29T17:55:49.758000Z)
-  - Pierce was activated from the PUP list earlier this week. He has a chance to be ready for Week 1 against the Ravens. 
-  - Source: https://www.fantasypros.com/nfl/news/604649/alec-pierce-goes-through-pregame-not-playing.php
