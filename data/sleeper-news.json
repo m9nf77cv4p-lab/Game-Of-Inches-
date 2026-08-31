@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T23:48:25Z",
+  "last_checked_at": "2026-08-31T23:58:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|6803|rotoballer|219833|1788205211000"
+    "nfl|9493|rotowire|635683|1788220355000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Nacua returned to practice Sunday and is slowly ramping things back up 10 days ahead of the Rams' Week 1 opener against the 49ers in Australia on Thursday, Sept. 10. The star wideout has missed a sizable chunk of the summer, but he and Matthew Stafford already have elite chemistry and should be able to pick things back up rather quickly when the games count. Nacua has been a locked-in first-round fantasy pick.",
+      "description": "Nacua (groin) was off to the side for team drills at Monday's practice, Nate Atkins of The Athletic reports.",
+      "metadata": {
+        "analysis": "Nacua returned to practice Sunday and is slowly ramping things back up 10 days ahead of the Rams' Week 1 opener against the 49ers in Australia on Thursday, Sept. 10. The star wideout has missed a sizable chunk of the summer, but he and Matthew Stafford already have elite chemistry and should be able to pick things back up rather quickly when the games count. Nacua has been a locked-in first-round fantasy pick.",
+        "description": "Nacua (groin) was off to the side for team drills at Monday's practice, Nate Atkins of The Athletic reports.",
+        "title": "Puka Nacua - Working off to side Monday",
+        "topic_id": "1400301969591001088"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1788220355000,
+      "source": "rotowire",
+      "source_key": "635683",
+      "story_id": "nfl|9493|rotowire|635683|1788220355000",
+      "title": "Puka Nacua - Working off to side Monday",
+      "url": null
+    },
     {
       "analysis": "Mims suffered a bruised foot in the team's preseason finale against the Vikings on Friday, and he doesn't appear to be ready to return to practice quite yet. The Broncos are two weeks away from their regular-season opener against the Chiefs on Sept. 14, and the wide receiver will have a few more chances to return to practice this week.",
       "description": "Mims (foot) was not spotted at the Broncos' practice Monday, Parker Gabriel of The Denver Post reports.",

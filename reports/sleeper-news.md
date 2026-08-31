@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1468**
+- Stored stories: **1469**
 - Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Puka Nacua** — Puka Nacua - Working off to side Monday (2026-08-31T23:52:35Z)
+  - Nacua returned to practice Sunday and is slowly ramping things back up 10 days ahead of the Rams' Week 1 opener against the 49ers in Australia on Thursday, Sept. 10. The star wideout has missed a sizable chunk of the summer, but he and Matthew Stafford already have elite chemistry and should be able to pick things back up rather quickly when the games count. Nacua has been a locked-in first-round fantasy pick.
 - **Marvin Mims** — Marvin Mims - Not practicing Monday (2026-08-31T22:10:20Z)
   - Mims suffered a bruised foot in the team's preseason finale against the Vikings on Friday, and he doesn't appear to be ready to return to practice quite yet. The Broncos are two weeks away from their regular-season opener against the Chiefs on Sept. 14, and the wide receiver will have a few more chances to return to practice this week.
 - **Malik Nabers** — Malik Nabers - Non-committal when asked about Week 1 (2026-08-31T21:51:14Z)
@@ -39,7 +41,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605051/jaydon-blue-goes-unclaimed-on-waivers.php
 - **Theo Johnson** — Theo Johnson - Donning non-contact jersey at practice (2026-08-31T19:45:43Z)
   - Johnson was injured in practice last Monday and continues to deal with the injury, though his return to action would suggest the tight end is on track to play Week 1 against the Cowboys. Johnson figures to work mostly as a blocker this season after the Giants signed Isaiah Likely to a contract over the offseason.
-- **NEW — Brandon Aiyuk** — Nothing has Changed with Brandon Aiyuk, 49ers (2026-08-31T19:40:11Z)
+- **Brandon Aiyuk** — Nothing has Changed with Brandon Aiyuk, 49ers (2026-08-31T19:40:11Z)
   - Source: https://www.rotoballer.com/player-news/nothing-has-changed-with-brandon-aiyuk-49ers/1920732
 - **Carson Beck** — Carson Beck - Returning to practice Monday (2026-08-31T19:30:39Z)
   - Beck suffered a ribs injury in the Hall of Fame Game earlier this month and missed the Cardinals' three official preseason contests. The third-round rookie is set to open the season as Arizona's QB3 behind starter Jacoby Brissett and veteran backup Gardner Minshew. There's a pretty good chance Beck sees action as a rookie during the regular season.
@@ -219,5 +221,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Josh Jacobs** — Josh Jacobs placed on commissioner of exempt list (2026-08-30T18:35:57.630000Z)
   - Jacobs is now ineligible to practice or play for the Packers while the league continues their investigation into alleged improper behavior while being charged with two misdemeanors related to his conduct earlier in the week. If the running back is forced to sit out for any period of the regular season, MarShawn Lloyd will be in line to receive the majority of backfield work while the recently acquired Kaleb Johnson gets up to speed on the offensive playbook with Week 1 approaching.
   - Source: https://www.fantasypros.com/nfl/news/604854/josh-jacobs-placed-on-commissioner-exempt-list.php
-- **Josh Jacobs** — Josh Jacobs - Placed on Commissioner Exempt List (2026-08-30T18:32:50Z)
-  - Jacobs was formally charged with battery and criminal damage to property last week, and will have his next hearing date in November. We'll await further details to see when he could be reinstated.
