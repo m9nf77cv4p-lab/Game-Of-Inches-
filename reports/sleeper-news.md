@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1463**
-- Newly captured: **0**
+- Stored stories: **1464**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Marvin Mims** — Marvin Mims - Not practicing Monday (2026-08-31T22:10:20Z)
+  - Mims suffered a bruised foot in the team's preseason finale against the Vikings on Friday, and he doesn't appear to be ready to return to practice quite yet. The Broncos are two weeks away from their regular-season opener against the Chiefs on Sept. 14, and the wide receiver will have a few more chances to return to practice this week.
 - **Malik Nabers** — Malik Nabers - Non-committal when asked about Week 1 (2026-08-31T21:51:14Z)
   - Nabers has been practicing all summer and even ditched his red non-contact jersey last week, but the star wide receiver admitted he still has checkpoints to clear before getting the green light to play in a regular-season game. "I'm gonna be making sure that I'm ready to go out there and I'm healthy enough to play all four quarters," Nabers said Monday. The Giants host the Cowboys on Sunday Night Football in 13 days. There should be a clearer picture of Nabers' availability for that game when the Giants kick off Week 1 prep work next week.
 - **Keaton Mitchell** — Keaton Mitchell - Working off to side Monday (2026-08-31T21:38:39Z)
@@ -220,5 +222,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Green is fourth on the team's quarterback depth chart behind Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The mobile rookie sixth-round pick out of Arkansas is raw as a passer but has intriguing rushing upside. Cleveland would have to release one of the players ahead of Green or carry four quarterbacks to keep him on the roster, which could leave the Browns shorthanded in depth at another position.
 - **Taylen Green** — Taylen Green Sticks in Browns' Four-QB Room (2026-08-30T16:48:14Z)
   - Source: https://www.rotoballer.com/player-news/taylen-green-sticks-in-browns-four-qb-room/1919966
-- **Javonte Williams** — Javonte Williams Set for Workhorse Role After Cowboys' Latest Cuts (2026-08-30T16:40:13Z)
-  - Source: https://www.rotoballer.com/player-news/javonte-williams-set-for-workhorse-role-after-cowboys-latest-cuts/1919952

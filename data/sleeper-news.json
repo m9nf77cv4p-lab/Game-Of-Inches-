@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-08-31T22:07:47Z",
+  "last_checked_at": "2026-08-31T22:17:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|9494|rotowire|635631|1788214220000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Mims suffered a bruised foot in the team's preseason finale against the Vikings on Friday, and he doesn't appear to be ready to return to practice quite yet. The Broncos are two weeks away from their regular-season opener against the Chiefs on Sept. 14, and the wide receiver will have a few more chances to return to practice this week.",
+      "description": "Mims (foot) was not spotted at the Broncos' practice Monday, Parker Gabriel of The Denver Post reports.",
+      "metadata": {
+        "analysis": "Mims suffered a bruised foot in the team's preseason finale against the Vikings on Friday, and he doesn't appear to be ready to return to practice quite yet. The Broncos are two weeks away from their regular-season opener against the Chiefs on Sept. 14, and the wide receiver will have a few more chances to return to practice this week.",
+        "description": "Mims (foot) was not spotted at the Broncos' practice Monday, Parker Gabriel of The Denver Post reports.",
+        "title": "Marvin Mims - Not practicing Monday",
+        "topic_id": "1400276801317539840"
+      },
+      "nfl_team": "DEN",
+      "player_id": "9494",
+      "player_name": "Marvin Mims",
+      "position": "WR",
+      "published": 1788214220000,
+      "source": "rotowire",
+      "source_key": "635631",
+      "story_id": "nfl|9494|rotowire|635631|1788214220000",
+      "title": "Marvin Mims - Not practicing Monday",
+      "url": null
+    },
     {
       "analysis": "Nabers has been practicing all summer and even ditched his red non-contact jersey last week, but the star wide receiver admitted he still has checkpoints to clear before getting the green light to play in a regular-season game. \"I'm gonna be making sure that I'm ready to go out there and I'm healthy enough to play all four quarters,\" Nabers said Monday. The Giants host the Cowboys on Sunday Night Football in 13 days. There should be a clearer picture of Nabers' availability for that game when the Giants kick off Week 1 prep work next week.",
       "description": "Nabers (knee) was non-committal Monday when asked about playing Week 1 against the Cowboys, Pat Leonard of the New York Daily News reports.",
