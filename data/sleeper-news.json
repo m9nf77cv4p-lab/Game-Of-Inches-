@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-08-31T03:43:34Z",
+  "last_checked_at": "2026-08-31T04:03:57Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 278,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|13302|rotowire|635514|1788148335000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Randall played in two of the team's three preseason contests, turning 17 carries into 71 yards and a score while also catching four of six targets for 47 yards. The running back missed the second game of the preseason with an undisclosed injury, and it's possible that he aggravated the previous injury in Baltimore's preseason finale against the Commanders on Friday. Randall will now be force to sit out at least four contests to begin the year while on IR, so the earliest he'll be able to make his NFL regular-season debut will be Oct. 11 in Atlanta. In his absence, Rasheen Ali is expected to operate as the Ravens' No. 3 option in the backfield behind Derrick Henry and Justice Hill to begin the 2026 campaign.",
+      "description": "Randall (undisclosed) was placed on injured reserve by the Ravens on Sunday with a designation to return, Ryan Mink of the team's official website reports.",
+      "metadata": {
+        "analysis": "Randall played in two of the team's three preseason contests, turning 17 carries into 71 yards and a score while also catching four of six targets for 47 yards. The running back missed the second game of the preseason with an undisclosed injury, and it's possible that he aggravated the previous injury in Baltimore's preseason finale against the Commanders on Friday. Randall will now be force to sit out at least four contests to begin the year while on IR, so the earliest he'll be able to make his NFL regular-season debut will be Oct. 11 in Atlanta. In his absence, Rasheen Ali is expected to operate as the Ravens' No. 3 option in the backfield behind Derrick Henry and Justice Hill to begin the 2026 campaign.",
+        "description": "Randall (undisclosed) was placed on injured reserve by the Ravens on Sunday with a designation to return, Ryan Mink of the team's official website reports.",
+        "title": "Adam Randall - Placed on IR, designated to return",
+        "topic_id": "1399999949462044672"
+      },
+      "nfl_team": "BAL",
+      "player_id": "13302",
+      "player_name": "Adam Randall",
+      "position": "RB",
+      "published": 1788148335000,
+      "source": "rotowire",
+      "source_key": "635514",
+      "story_id": "nfl|13302|rotowire|635514|1788148335000",
+      "title": "Adam Randall - Placed on IR, designated to return",
+      "url": null
+    },
     {
       "analysis": "Neal will be required to stay on IR throughout the entirety of the 2026 regular season unless he is waived with an injury designation. The 2025 sixth-rounder sustained a hamstring injury during the Saints' 34-0 preseason loss to the Rams on Aug. 22. Neal rushed 57 times for 206 yards and two touchdowns over 10 regular-season games in 2025 but will likely need to wait until 2027 for another shot in the backfield.",
       "description": "The Saints placed Neal (hamstring) on injured reserve Sunday, Nick Underhill of NewOrleans.Football reports.",
