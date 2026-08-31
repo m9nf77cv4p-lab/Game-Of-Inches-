@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T04:44:30Z",
+  "last_checked_at": "2026-08-31T04:54:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 278,
   "new_story_ids": [
-    "nfl|9226|rotoballer|219772|1788136332000"
+    "nfl|8137|rotoballer|219773|1788136867000"
   ],
   "schema_version": 1,
   "source": {
@@ -32,6 +32,26 @@
       "story_id": "nfl|13302|rotowire|635514|1788148335000",
       "title": "Adam Randall - Placed on IR, designated to return",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver George Pickens enjoyed a career year in 2025, but he might soar even higher during the 2026 season. In his first campaign with Dallas, Pickens caught 93 passes for 1,429 yards and nine touchdowns. He ranked as the overall WR5 in PPR leagues and outproduced teammate CeeDee Lamb -- not only in total, but also on a points-per-game basis. At first glance, it seems like Lamb, who missed three games last year but is now healthy, should step back up as the top pass catcher in Dallas this year, but that's not guaranteed. Recently, an audio clip went viral of DallasCowboys.com writer Nick Eatman saying that Pickens could end up being the No. 1 receiver ahead of Lamb in 2026. \"This might cause some issues, but it does seem like Pickens has kind of elevated as the dude,\" Eatman said. \"CeeDee is really good, but Pickens is the one that defensive coordinators are going to have even more of a problem with.\" In a similar vein, there has been plenty of chatter in recent weeks that Pickens had a better training camp than Lamb. To be clear, this is not an anti-Lamb sentiment, but rather excitement about the potential for Pickens to take an even bigger step forward in 2026. If it seems like he could repeat or even surpass his WR5 finish from last year, then he's somewhat of a steal at his current ADP of 25.4, which corresponds to the third round of fantasy drafts and makes him the 10th receiver off the board.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver George Pickens enjoyed a career year in 2025, but he might soar even higher during the 2026 season. In his first campaign with Dallas, Pickens caught 93 passes for 1,429 yards and nine touchdowns. He ranked as the overall WR5 in PPR leagues and outproduced teammate CeeDee Lamb -- not only in total, but also on a points-per-game basis. At first glance, it seems like Lamb, who missed three games last year but is now healthy, should step back up as the top pass catcher in Dallas this year, but that's not guaranteed. Recently, an audio clip went viral of DallasCowboys.com writer Nick Eatman saying that Pickens could end up being the No. 1 receiver ahead of Lamb in 2026. \"This might cause some issues, but it does seem like Pickens has kind of elevated as the dude,\" Eatman said. \"CeeDee is really good, but Pickens is the one that defensive coordinators are going to have even more of a problem with.\" In a similar vein, there has been plenty of chatter in recent weeks that Pickens had a better training camp than Lamb. To be clear, this is not an anti-Lamb sentiment, but rather excitement about the potential for Pickens to take an even bigger step forward in 2026. If it seems like he could repeat or even surpass his WR5 finish from last year, then he's somewhat of a steal at his current ADP of 25.4, which corresponds to the third round of fantasy drafts and makes him the 10th receiver off the board.",
+        "title": "George Pickens Could Make Another Major Leap This Year",
+        "topic_id": "1400012527978455040",
+        "url": "https://www.rotoballer.com/player-news/george-pickens-could-make-another-major-leap-this-year/1920139"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8137",
+      "player_name": "George Pickens",
+      "position": "WR",
+      "published": 1788136867000,
+      "source": "rotoballer",
+      "source_key": "219773",
+      "story_id": "nfl|8137|rotoballer|219773|1788136867000",
+      "title": "George Pickens Could Make Another Major Leap This Year",
+      "url": "https://www.rotoballer.com/player-news/george-pickens-could-make-another-major-leap-this-year/1920139"
     },
     {
       "analysis": "Neal will be required to stay on IR throughout the entirety of the 2026 regular season unless he is waived with an injury designation. The 2025 sixth-rounder sustained a hamstring injury during the Saints' 34-0 preseason loss to the Rams on Aug. 22. Neal rushed 57 times for 206 yards and two touchdowns over 10 regular-season games in 2025 but will likely need to wait until 2027 for another shot in the backfield.",

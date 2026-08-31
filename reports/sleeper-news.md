@@ -2,16 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1394**
+- Stored stories: **1395**
 - Newly captured: **1**
 
 ## Latest news
 
 - **Adam Randall** — Adam Randall - Placed on IR, designated to return (2026-08-31T03:52:15Z)
   - Randall played in two of the team's three preseason contests, turning 17 carries into 71 yards and a score while also catching four of six targets for 47 yards. The running back missed the second game of the preseason with an undisclosed injury, and it's possible that he aggravated the previous injury in Baltimore's preseason finale against the Commanders on Friday. Randall will now be force to sit out at least four contests to begin the year while on IR, so the earliest he'll be able to make his NFL regular-season debut will be Oct. 11 in Atlanta. In his absence, Rasheen Ali is expected to operate as the Ravens' No. 3 option in the backfield behind Derrick Henry and Justice Hill to begin the 2026 campaign.
+- **NEW — George Pickens** — George Pickens Could Make Another Major Leap This Year (2026-08-31T00:41:07Z)
+  - Source: https://www.rotoballer.com/player-news/george-pickens-could-make-another-major-leap-this-year/1920139
 - **Devin Neal** — Devin Neal - Placed on injured reserve (2026-08-31T00:36:41Z)
   - Neal will be required to stay on IR throughout the entirety of the 2026 regular season unless he is waived with an injury designation. The 2025 sixth-rounder sustained a hamstring injury during the Saints' 34-0 preseason loss to the Rams on Aug. 22. Neal rushed 57 times for 206 yards and two touchdowns over 10 regular-season games in 2025 but will likely need to wait until 2027 for another shot in the backfield.
-- **NEW — De'Von Achane** — De'Von Achane the Focal Point of Miami's Offense Going Forward (2026-08-31T00:32:12Z)
+- **De'Von Achane** — De'Von Achane the Focal Point of Miami's Offense Going Forward (2026-08-31T00:32:12Z)
   - Source: https://www.rotoballer.com/player-news/devon-achane-the-focal-point-of-miamis-offense-going-forward/1920137
 - **Adam Randall** — Adam Randall Opening the Season on Injured Reserve (2026-08-31T00:12:09Z)
   - Source: https://www.rotoballer.com/player-news/adam-randall-opening-the-season-on-injured-reserve/1920133
@@ -218,5 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jordan-addison-a-sleeper-to-target-in-redraft-leagues/1919265
 - **Omarion Hampton** — Omarion Hampton Set to Break Out in His Sophomore Season (2026-08-29T15:40:09Z)
   - Source: https://www.rotoballer.com/player-news/omarion-hampton-set-to-breakout-in-his-sophomore-season/1919259
-- **Garrett Wilson** — Will Garrett Wilson's Pure Talent Finally Equate to Fantasy Success? (2026-08-29T15:29:08Z)
-  - Source: https://www.rotoballer.com/player-news/will-garrett-wilsons-pure-talent-finally-equate-to-fantasy-success/1919257
