@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1414**
+- Stored stories: **1415**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jonathan Taylor** — Jonathan Taylor Carries More Risk at His First-Round Price (2026-08-31T11:21:07Z)
+- **NEW — Jahmyr Gibbs** — Jahmyr Gibbs Could Be Busier Than Ever (2026-08-31T11:36:36Z)
+  - Source: https://www.rotoballer.com/player-news/jahmyr-gibbs-could-be-busier-than-ever/1920388
+- **Jonathan Taylor** — Jonathan Taylor Carries More Risk at His First-Round Price (2026-08-31T11:21:07Z)
   - Source: https://www.rotoballer.com/player-news/jonathan-taylor-carries-more-risk-at-his-first-round-price/1920375
 - **Derrick Henry** — Derrick Henry Has Shown No Signs of Slowing, Fully Capable of Another League-Winning Season (2026-08-31T11:01:07Z)
   - Source: https://www.rotoballer.com/player-news/derrick-henry-has-shown-no-signs-of-slowing-fully-capable-of-another-league-winning-season/1920352
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/james-cook-iii-remains-a-top-tier-running-back-to-target-in-fantasy-drafts/1919390
 - **Jalen Hurts** — Jalen Hurts Has Top-Five Upside Heading Into 2026 Season (2026-08-29T21:37:10Z)
   - Source: https://www.rotoballer.com/player-news/jalen-hurts-has-top-five-upside-heading-into-2026-season/1919384
-- **Drake London** — Drake London - Sees minimal work vs. Miami (2026-08-29T21:32:19Z)
-  - London was limited to playing the first quarter of Friday's exhibition game before observing the rest of the contest from the sidelines. Entering his fifth NFL season, the USC product has recorded at least 68 catches and 850 receiving yards in each of his four years with Atlanta. London has been one of the most productive receivers since entering the league in 2022, but his offensive output will be heavily tied to the production of the Falcons' starting quarterback, whether that's Tua Tagovailoa or Michael Penix (knee).

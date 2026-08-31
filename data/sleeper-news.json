@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T15:33:47Z",
+  "last_checked_at": "2026-08-31T15:43:35Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|6813|rotoballer|219784|1788175267000"
+    "nfl|9221|rotoballer|219785|1788176196000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Detroit Lions running back Jahmyr Gibbs was already set for more work after David Montgomery was traded to Houston. August made that setup look even better. Dan Campbell called Gibbs the Lions' bell cow back in June, and there is no established Montgomery-type partner waiting behind him. Isiah Pacheco was signed for the No. 2 role, but he missed most of camp with a sprained MCL and is now also dealing with a back injury. His Week 1 status is still up in the air. Campbell said Saturday that he would be comfortable using Jacob Saylors as Gibbs' primary backup if Pacheco can't go. Gibbs, meanwhile, finished camp making plays, including a 59-yard touchdown run during Detroit's final practice. He totaled 1,839 scrimmage yards and 18 touchdowns last season while playing a career-high 67% of the offensive snaps. RotoBaller still has Gibbs as its RB1 and No. 1 overall player in PPR. He was already an elite pick. The backfield around him now makes an even bigger workload easier to picture.",
+      "metadata": {
+        "description": "Detroit Lions running back Jahmyr Gibbs was already set for more work after David Montgomery was traded to Houston. August made that setup look even better. Dan Campbell called Gibbs the Lions' bell cow back in June, and there is no established Montgomery-type partner waiting behind him. Isiah Pacheco was signed for the No. 2 role, but he missed most of camp with a sprained MCL and is now also dealing with a back injury. His Week 1 status is still up in the air. Campbell said Saturday that he would be comfortable using Jacob Saylors as Gibbs' primary backup if Pacheco can't go. Gibbs, meanwhile, finished camp making plays, including a 59-yard touchdown run during Detroit's final practice. He totaled 1,839 scrimmage yards and 18 touchdowns last season while playing a career-high 67% of the offensive snaps. RotoBaller still has Gibbs as its RB1 and No. 1 overall player in PPR. He was already an elite pick. The backfield around him now makes an even bigger workload easier to picture.",
+        "title": "Jahmyr Gibbs Could Be Busier Than Ever",
+        "topic_id": "1400177382777724928",
+        "url": "https://www.rotoballer.com/player-news/jahmyr-gibbs-could-be-busier-than-ever/1920388"
+      },
+      "nfl_team": "DET",
+      "player_id": "9221",
+      "player_name": "Jahmyr Gibbs",
+      "position": "RB",
+      "published": 1788176196000,
+      "source": "rotoballer",
+      "source_key": "219785",
+      "story_id": "nfl|9221|rotoballer|219785|1788176196000",
+      "title": "Jahmyr Gibbs Could Be Busier Than Ever",
+      "url": "https://www.rotoballer.com/player-news/jahmyr-gibbs-could-be-busier-than-ever/1920388"
+    },
     {
       "analysis": null,
       "description": "Indianapolis Colts running back Jonathan Taylor isn't falling because his role suddenly changed. It's the price after a season that will be tough to repeat. Taylor led the NFL with 323 carries and scored 20 total touchdowns in 2025, finishing with 1,585 rushing yards and another 378 through the air. Indianapolis has openly spent camp looking for a dependable No. 2 back who can help keep him fresh after that workload, with DJ Giddens and Seth McGowan making the initial 53-man roster behind him. Taylor is still the clear starter, and the Colts signed him to an extension in August. This isn't a playing-time scare. The risk is paying a first-round price after he handled more carries than anyone in football. RotoBaller's Aug. 30 early-round avoids piece also noted how much game script mattered last year: Taylor averaged 31.5 PPR points in Colts wins and 12.4 in losses. He's still an elite fantasy back. There's just less margin for error at the current cost.",
