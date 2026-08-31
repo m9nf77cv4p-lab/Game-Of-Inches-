@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1455**
-- Newly captured: **2**
+- Stored stories: **1456**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — George Kittle** — George Kittle - Will be limited in practice this week (2026-08-31T20:45:26Z)
+- **George Kittle** — George Kittle - Will be limited in practice this week (2026-08-31T20:45:26Z)
   - Kittle was activated from the active/PUP list last week and continues to make his push to play Week 1 against the Rams on Thursday, Sept. 10. He'll be limited in practice this week, and San Francisco figures to then ramp things up for Kittle next week to see if he can travel with the team to Australia. If Kittle is unable to go for the season opener, Jake Tonges and Luke Farrell would handle tight end duties for the Niners.
 - **Puka Nacua** — Puka Nacua (psoas) returns to practice  (2026-08-31T20:45:12.623000Z)
   - Nacua had missed practice for much of the past couple of weeks with psoas soreness. The injury appears to be behind him and he is expected to avoid the commissioner's exempt list, meaning he should be good to go for Week 1. 
@@ -45,7 +45,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
 - **Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
   - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
-- **NEW — Kyler Murray** — Kyler Murray Could Be Poised for Resurgent Season in Minnesota (2026-08-31T16:48:18Z)
+- **NEW — Jayden Reed** — Jayden Reed Well-Positioned to Bounce Back in 2026 (2026-08-31T16:58:07Z)
+  - Source: https://www.rotoballer.com/player-news/jayden-reed-well-positioned-to-bounce-back-in-2026/1920642
+- **Kyler Murray** — Kyler Murray Could Be Poised for Resurgent Season in Minnesota (2026-08-31T16:48:18Z)
   - Source: https://www.rotoballer.com/player-news/kyler-murray-could-be-poised-for-resurgent-season-in-minnesota/1920632
 - **Drake London** — Drake London Remains a Viable WR1 Option Despite QB Concerns (2026-08-31T16:36:08Z)
   - Source: https://www.rotoballer.com/player-news/drake-london-remains-a-viable-wr1-option-despite-quarterback-questions-in-atlanta/1920620
@@ -220,5 +222,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up versus the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.
 - **Keenan Allen** — Keenan Allen Faces Potential Three-Game Suspension (2026-08-30T14:48:06Z)
   - Source: https://www.rotoballer.com/player-news/keenan-allen-faces-potential-three-game-suspension/1919808
-- **Jalon Daniels** — Jalon Daniels - Wins backup QB job (2026-08-30T14:20:19Z)
-  - After entering camp as an undrafted rookie in a crowded quarterback room, Daniels appears to have climbed into the No. 2 role behind Mayfield. The decision gives him clear roster security and places him next in line if Tampa Bay needs a backup to step into game action. Daniels won the job after a strong preseason during which he completed 27 of 44 passes for 239 yards and a touchdown without being picked off.

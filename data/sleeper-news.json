@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T20:57:06Z",
+  "last_checked_at": "2026-08-31T21:07:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|4217|rotowire|635609|1788209126000",
-    "nfl|5849|rotoballer|219822|1788194898000"
+    "nfl|10222|rotoballer|219823|1788195487000"
   ],
   "schema_version": 1,
   "source": {
@@ -321,6 +320,26 @@
       "story_id": "nfl|13330|rotowire|635595|1788202616000",
       "title": "Kenyon Sadiq - On track for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers wide receiver Jayden Reed battled through an injury-marred season in 2025, as he missed 10 games due to collarbone and foot issues. Across the seven games he was active for, Reed hauled in just 19 catches for 207 yards and a touchdown on 22 targets. Throughout his career in Green Bay to this point, Reed's fantasy ceiling has been held down by the Packers' crowded wide receiver room and the team's run-heavy play-style. However, the Packers lost a pair of veteran wideouts in Romeo Doubs and Dontayvion Wicks over the offseason, and the team may be forced to turn to the air more often with star running back Josh Jacobs currently on the Commissioner's Exempt List due to an offseason arrest. Green Bay still has two up-and-coming wideouts in Christian Watson and Matthew Golden who could eat into Reed's playing time and target share. Still, Reed looks well-positioned for the heaviest workload of his career. In addition to his work as a receiver, Reed has 34 career carries and could be relied upon more in the run game with Jacobs sidelined. As a late mid-round pick by current redraft ADP, Reed could end up being a great value selection for fantasy managers.",
+      "metadata": {
+        "description": "Green Bay Packers wide receiver Jayden Reed battled through an injury-marred season in 2025, as he missed 10 games due to collarbone and foot issues. Across the seven games he was active for, Reed hauled in just 19 catches for 207 yards and a touchdown on 22 targets. Throughout his career in Green Bay to this point, Reed's fantasy ceiling has been held down by the Packers' crowded wide receiver room and the team's run-heavy play-style. However, the Packers lost a pair of veteran wideouts in Romeo Doubs and Dontayvion Wicks over the offseason, and the team may be forced to turn to the air more often with star running back Josh Jacobs currently on the Commissioner's Exempt List due to an offseason arrest. Green Bay still has two up-and-coming wideouts in Christian Watson and Matthew Golden who could eat into Reed's playing time and target share. Still, Reed looks well-positioned for the heaviest workload of his career. In addition to his work as a receiver, Reed has 34 career carries and could be relied upon more in the run game with Jacobs sidelined. As a late mid-round pick by current redraft ADP, Reed could end up being a great value selection for fantasy managers.",
+        "title": "Jayden Reed Well-Positioned to Bounce Back in 2026",
+        "topic_id": "1400257911866843136",
+        "url": "https://www.rotoballer.com/player-news/jayden-reed-well-positioned-to-bounce-back-in-2026/1920642"
+      },
+      "nfl_team": "GB",
+      "player_id": "10222",
+      "player_name": "Jayden Reed",
+      "position": "WR",
+      "published": 1788195487000,
+      "source": "rotoballer",
+      "source_key": "219823",
+      "story_id": "nfl|10222|rotoballer|219823|1788195487000",
+      "title": "Jayden Reed Well-Positioned to Bounce Back in 2026",
+      "url": "https://www.rotoballer.com/player-news/jayden-reed-well-positioned-to-bounce-back-in-2026/1920642"
     },
     {
       "analysis": null,
