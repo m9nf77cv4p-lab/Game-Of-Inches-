@@ -2,15 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1444**
-- Newly captured: **3**
+- Stored stories: **1446**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Zay Flowers** — Zay Flowers (lower body) misses practice  (2026-08-31T20:00:14.749000Z)
+- **NEW — Adam Randall** — Adam Randall placed on IR (2026-08-31T20:10:14.912000Z)
+  - Randall will be eligible to return after the first four weeks. 
+  - Source: https://www.fantasypros.com/nfl/news/605062/adam-randall-placed-on-ir.php
+- **Zay Flowers** — Zay Flowers (lower body) misses practice  (2026-08-31T20:00:14.749000Z)
   - Flowers is dealing with a lower body injury. It does not appear that his status for Week 1 is in doubt as of now. 
   - Source: https://www.fantasypros.com/nfl/news/605050/zay-flowers-lower-body-misses-practice.php
-- **NEW — Jaydon Blue** — Jaydon Blue goes unclaimed on waivers  (2026-08-31T20:00:14.736000Z)
+- **Jaydon Blue** — Jaydon Blue goes unclaimed on waivers  (2026-08-31T20:00:14.736000Z)
   - Blue was waived by Dallas. He now becomes a free agent and can be signed by any team. 
   - Source: https://www.fantasypros.com/nfl/news/605051/jaydon-blue-goes-unclaimed-on-waivers.php
 - **Theo Johnson** — Theo Johnson - Donning non-contact jersey at practice (2026-08-31T19:45:43Z)
@@ -29,7 +32,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
 - **Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
   - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
-- **NEW — Rico Dowdle** — Rico Dowdle's Role Looks Safer After Final Cuts (2026-08-31T15:57:07Z)
+- **NEW — Blake Corum** — Blake Corum a Potential Draft-Day Bust at Current ADP (2026-08-31T16:09:08Z)
+  - Source: https://www.rotoballer.com/player-news/blake-corum-a-potential-draft-day-bust-at-current-adp/1920590
+- **Rico Dowdle** — Rico Dowdle's Role Looks Safer After Final Cuts (2026-08-31T15:57:07Z)
   - Source: https://www.rotoballer.com/player-news/rico-dowdles-role-looks-safer-after-final-cuts/1920585
 - **Michael Pittman** — Michael Pittman Jr. Expected to be Ready to Go for Week 1 (2026-08-31T15:47:12Z)
   - Source: https://www.rotoballer.com/player-news/michael-pittman-jr-expected-to-be-ready-to-go-for-week-1/1920579
@@ -214,8 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Per the report, Allen was arrested overnight in Indianapolis "on preliminary charges of (DWI) and DWI endangering a person." The Colts, via Kevin Bowen of 107.5 The Fan, issued a statement saying, "We are aware of the incident involving Allen last night. We are in the process of gathering more information and have no further comment at this time."
 - **George Kittle** — George Kittle Expected to Practice This Week (2026-08-30T11:56:08Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-expected-to-practice-this-week/1919624
-- **Keenan Allen** — Keenan Allen facing two DUI charges after arrest early Sunday morning (2026-08-30T11:55:56.122000Z)
-  - The veteran receiver was a badly needed addition to the Colts roster, and now he could find himself suspended for a game or two should the NFL find that action appropriate. It's also possible he will only face fines. Still, it's worth monitoring the vet's situation, as he was an interesting late-round sleeper in drafts.
-  - Source: https://www.fantasypros.com/nfl/news/604750/keenan-allen-facing-two-dui-charges-after-arrest-early-sunday-morning.php
-- **Bhayshul Tuten** — Bhayshul Tuten Offers Intriguing Upside (2026-08-30T11:41:06Z)
-  - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-offers-intriguing-upside/1919608

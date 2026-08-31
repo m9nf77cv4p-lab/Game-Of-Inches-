@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-08-31T20:06:46Z",
+  "last_checked_at": "2026-08-31T20:16:53Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|12457|fantasy_pros|605051|1788206414736",
-    "nfl|7021|rotoballer|219816|1788191827000",
-    "nfl|9997|fantasy_pros|605050|1788206414749"
+    "nfl|11586|rotoballer|219817|1788192548000",
+    "nfl|13302|fantasy_pros|605062|1788207014912"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Randall will be eligible to return after the first four weeks. ",
+      "description": "The Ravens placed Adam Randall on injured reserve.",
+      "metadata": {
+        "analysis": "Randall will be eligible to return after the first four weeks. ",
+        "description": "The Ravens placed Adam Randall on injured reserve.",
+        "title": "Adam Randall placed on IR",
+        "topic_id": "1400245345237110784",
+        "url": "https://www.fantasypros.com/nfl/news/605062/adam-randall-placed-on-ir.php"
+      },
+      "nfl_team": "BAL",
+      "player_id": "13302",
+      "player_name": "Adam Randall",
+      "position": "RB",
+      "published": 1788207014912,
+      "source": "fantasy_pros",
+      "source_key": "605062",
+      "story_id": "nfl|13302|fantasy_pros|605062|1788207014912",
+      "title": "Adam Randall placed on IR",
+      "url": "https://www.fantasypros.com/nfl/news/605062/adam-randall-placed-on-ir.php"
+    },
     {
       "analysis": "Flowers is dealing with a lower body injury. It does not appear that his status for Week 1 is in doubt as of now. ",
       "description": "Zay Flowers did not practice on Monday. ",
@@ -198,6 +218,26 @@
       "story_id": "nfl|13330|rotowire|635595|1788202616000",
       "title": "Kenyon Sadiq - On track for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Across 17 games in 2025, Los Angeles Rams running back Blake Corum recorded 746 rushing yards and six touchdowns on 145 carries. With an average of 5.1 yards per attempt, the 25-year-old was a highly efficient player. However, the presence of star Rams back Kyren Williams prevented Corum from seeing more opportunities. Entering 2026, Corum and Williams appear poised to once again share touches. Corum slowly ate into Williams' playing time over the course of the season in 2025, so the backs could operate with a true 50/50 split in 2026. Corum also profiles as maybe the top handcuff running back in fantasy football, as his value would skyrocket if Williams were to miss any time. Still, Corum's production upside appears limited as long as Williams remains healthy. Corum also may not have much standalone appeal in PPR leagues in a split backfield, as he's recorded just 15 total receptions across 34 career NFL games. Corum has definite upside, but he also carries some bust potential at his current top-100 redraft ADP.",
+      "metadata": {
+        "description": "Across 17 games in 2025, Los Angeles Rams running back Blake Corum recorded 746 rushing yards and six touchdowns on 145 carries. With an average of 5.1 yards per attempt, the 25-year-old was a highly efficient player. However, the presence of star Rams back Kyren Williams prevented Corum from seeing more opportunities. Entering 2026, Corum and Williams appear poised to once again share touches. Corum slowly ate into Williams' playing time over the course of the season in 2025, so the backs could operate with a true 50/50 split in 2026. Corum also profiles as maybe the top handcuff running back in fantasy football, as his value would skyrocket if Williams were to miss any time. Still, Corum's production upside appears limited as long as Williams remains healthy. Corum also may not have much standalone appeal in PPR leagues in a split backfield, as he's recorded just 15 total receptions across 34 career NFL games. Corum has definite upside, but he also carries some bust potential at his current top-100 redraft ADP.",
+        "title": "Blake Corum a Potential Draft-Day Bust at Current ADP",
+        "topic_id": "1400246596951670784",
+        "url": "https://www.rotoballer.com/player-news/blake-corum-a-potential-draft-day-bust-at-current-adp/1920590"
+      },
+      "nfl_team": "LAR",
+      "player_id": "11586",
+      "player_name": "Blake Corum",
+      "position": "RB",
+      "published": 1788192548000,
+      "source": "rotoballer",
+      "source_key": "219817",
+      "story_id": "nfl|11586|rotoballer|219817|1788192548000",
+      "title": "Blake Corum a Potential Draft-Day Bust at Current ADP",
+      "url": "https://www.rotoballer.com/player-news/blake-corum-a-potential-draft-day-bust-at-current-adp/1920590"
     },
     {
       "analysis": null,
