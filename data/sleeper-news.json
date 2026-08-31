@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T20:16:53Z",
+  "last_checked_at": "2026-08-31T20:27:05Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11586|rotoballer|219817|1788192548000",
-    "nfl|13302|fantasy_pros|605062|1788207014912"
+    "nfl|9997|rotoballer|219818|1788193087000"
   ],
   "schema_version": 1,
   "source": {
@@ -218,6 +217,26 @@
       "story_id": "nfl|13330|rotowire|635595|1788202616000",
       "title": "Kenyon Sadiq - On track for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) did not practice on Monday and \"seems to be dealing with a lower-body injury,\" according to Jonas Shaffer of The Baltimore Banner. Across 17 games in 2025, the 25-year-old recorded 86 catches for 1,211 yards and five touchdowns on 118 targets. With a fully healthy season from Ravens quarterback Lamar Jackson, Flowers' numbers could take another leap forward in 2026. However, Flowers has been battling an undisclosed injury for about a week now. Ravens head coach Jesse Minter has previously said that the star wide receiver should be ready for Week 1, so it does not appear to be a serious ailment. Still, Flowers' health status is definitely something for fantasy managers to monitor until he returns to the practice field with no restrictions. When he's on the field, Flowers profiles as a high-end fantasy WR2.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) did not practice on Monday and \"seems to be dealing with a lower-body injury,\" according to Jonas Shaffer of The Baltimore Banner. Across 17 games in 2025, the 25-year-old recorded 86 catches for 1,211 yards and five touchdowns on 118 targets. With a fully healthy season from Ravens quarterback Lamar Jackson, Flowers' numbers could take another leap forward in 2026. However, Flowers has been battling an undisclosed injury for about a week now. Ravens head coach Jesse Minter has previously said that the star wide receiver should be ready for Week 1, so it does not appear to be a serious ailment. Still, Flowers' health status is definitely something for fantasy managers to monitor until he returns to the practice field with no restrictions. When he's on the field, Flowers profiles as a high-end fantasy WR2.",
+        "title": "Zay Flowers Does Not Practice on Monday Due to Apparent Lower Body Injury",
+        "topic_id": "1400249113257197568",
+        "url": "https://www.rotoballer.com/player-news/zay-flowers-does-not-practice-on-monday-due-to-apparent-lower-body-injury/1920600"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1788193087000,
+      "source": "rotoballer",
+      "source_key": "219818",
+      "story_id": "nfl|9997|rotoballer|219818|1788193087000",
+      "title": "Zay Flowers Does Not Practice on Monday Due to Apparent Lower Body Injury",
+      "url": "https://www.rotoballer.com/player-news/zay-flowers-does-not-practice-on-monday-due-to-apparent-lower-body-injury/1920600"
     },
     {
       "analysis": null,
