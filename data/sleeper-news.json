@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T14:53:17Z",
+  "last_checked_at": "2026-08-31T15:13:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|8144|rotoballer|219781|1788173113000"
+    "nfl|3198|rotoballer|219782|1788174067000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens running back Derrick Henry has scored double-digit touchdowns in eight straight seasons, and despite being 32 years old, he still has the second-highest odds to lead the league in rushing scores in 2026, behind only Detroit's Jahmyr Gibbs. In an era of PPR prevalence, Henry is one of the few running backs to build a career of fantasy dominance with almost no receiving profile to speak of. Only twice in his 10-year career has Henry topped 20 receptions, and yet he has finished as an RB1 in six of the past seven seasons, four times cracking the top four, and still finishing as the RB16 in an injury-shortened 2021 season in which he played only eight games. Henry has been as automatic as they come, and in new offensive coordinator Declan Doyle's system, which is expected to put Lamar Jackson under center more frequently, he will be able to play with a head of steam that should only make him more dangerous. Ravens rookie Adam Randall (undisclosed) will begin the season on injured reserve, and with veteran Justice Hill once more expected to work as Henry's primary backup after handling 1.8 carries per game in 2025, there are no indications that Henry's workload will be lightened in 2026, making him a potential bargain as the RB12 by current ADP.",
+      "metadata": {
+        "description": "Baltimore Ravens running back Derrick Henry has scored double-digit touchdowns in eight straight seasons, and despite being 32 years old, he still has the second-highest odds to lead the league in rushing scores in 2026, behind only Detroit's Jahmyr Gibbs. In an era of PPR prevalence, Henry is one of the few running backs to build a career of fantasy dominance with almost no receiving profile to speak of. Only twice in his 10-year career has Henry topped 20 receptions, and yet he has finished as an RB1 in six of the past seven seasons, four times cracking the top four, and still finishing as the RB16 in an injury-shortened 2021 season in which he played only eight games. Henry has been as automatic as they come, and in new offensive coordinator Declan Doyle's system, which is expected to put Lamar Jackson under center more frequently, he will be able to play with a head of steam that should only make him more dangerous. Ravens rookie Adam Randall (undisclosed) will begin the season on injured reserve, and with veteran Justice Hill once more expected to work as Henry's primary backup after handling 1.8 carries per game in 2025, there are no indications that Henry's workload will be lightened in 2026, making him a potential bargain as the RB12 by current ADP.",
+        "title": "Derrick Henry Has Shown No Signs of Slowing, Fully Capable of Another League-Winning Season",
+        "topic_id": "1400169831898087424",
+        "url": "https://www.rotoballer.com/player-news/derrick-henry-has-shown-no-signs-of-slowing-fully-capable-of-another-league-winning-season/1920352"
+      },
+      "nfl_team": "BAL",
+      "player_id": "3198",
+      "player_name": "Derrick Henry",
+      "position": "RB",
+      "published": 1788174067000,
+      "source": "rotoballer",
+      "source_key": "219782",
+      "story_id": "nfl|3198|rotoballer|219782|1788174067000",
+      "title": "Derrick Henry Has Shown No Signs of Slowing, Fully Capable of Another League-Winning Season",
+      "url": "https://www.rotoballer.com/player-news/derrick-henry-has-shown-no-signs-of-slowing-fully-capable-of-another-league-winning-season/1920352"
+    },
     {
       "analysis": null,
       "description": "While the discovery of a blood clot in his lung kept New Orleans Saints wide receiver Chris Olave out of the final game of the year and prevented him from completing his first 17-game season, his health and availability were major storylines of what would become a career-year and a WR6 finish. While his frightening history of concussions hasn't suddenly gone away, seeing Olave at his peak for a full season has made him an easier click in the early rounds of 2026 drafts, particularly after the way he finished the year with rookie Tyler Shough under center. Shough took over as starter in Week 9, and after a week of adjustment, Olave was the WR2 on a points per game basis from Week 10 through the end of the year, trailing only Puka Nacua. With first-round pick Jordyn Tyson (hamstring) slated to miss at least the first four games of his rookie season after starting the year on injured reserve, Olave could again be hyper-targeted in one of the league's most high-volume, up-tempo offenses, making him a potential week-winner to begin the season. At RotoBaller's WR11, there is still considerable injury concern baked into his profile, but for the risk-tolerant, he is capable of providing WR1 upside while often found closer to a WR2 cost.",
