@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-08-31T16:34:22Z",
+  "last_checked_at": "2026-08-31T16:54:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11646|rotoballer|219791|1788178627000",
-    "nfl|8132|rotoballer|219792|1788179045000"
+    "nfl|12535|rotoballer|219793|1788179770000",
+    "nfl|13305|rotoballer|219794|1788180249000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "The Las Vegas Raiders trimmed some depth at the running back position on roster cutdown day on Sunday, giving rookie fourth-round RB Mike Washington Jr. an even clearer path to a sizable early-season workload, even if starter Ashton Jeanty (ankle) is ready to go for the Week 1 regular-season opener against the Miami Dolphins. Washington looked good in the team's preseason finale last week against the San Francisco 49ers on Thursday, rushing eight times for 49 yards, including a couple of chunk gains on the ground. The 23-year-old impressed the Raiders' coaching staff this summer during training camp, and he is firmly entrenched as the RB2 in Sin City, with only Dylan Laube behind him in the running back room. In upcoming fantasy football drafts, managers should view Washington as a strong handcuff option for Jeanty with a potential path to a starting role in Week 1 if Jeanty is limited or ruled out entirely. The drawback to Washington is that he was not very efficient as a pass-catcher in college, and he comes with some ball-security issues. RotoBaller has him ranked as the No. 49 fantasy RB for 2026.",
+      "metadata": {
+        "description": "The Las Vegas Raiders trimmed some depth at the running back position on roster cutdown day on Sunday, giving rookie fourth-round RB Mike Washington Jr. an even clearer path to a sizable early-season workload, even if starter Ashton Jeanty (ankle) is ready to go for the Week 1 regular-season opener against the Miami Dolphins. Washington looked good in the team's preseason finale last week against the San Francisco 49ers on Thursday, rushing eight times for 49 yards, including a couple of chunk gains on the ground. The 23-year-old impressed the Raiders' coaching staff this summer during training camp, and he is firmly entrenched as the RB2 in Sin City, with only Dylan Laube behind him in the running back room. In upcoming fantasy football drafts, managers should view Washington as a strong handcuff option for Jeanty with a potential path to a starting role in Week 1 if Jeanty is limited or ruled out entirely. The drawback to Washington is that he was not very efficient as a pass-catcher in college, and he comes with some ball-security issues. RotoBaller has him ranked as the No. 49 fantasy RB for 2026.",
+        "title": "Mike Washington Jr. Will Have Key Role in Raiders' Backfield",
+        "topic_id": "1400195000842637312",
+        "url": "https://www.rotoballer.com/player-news/mike-washington-jr-will-have-key-role-in-raiders-backfield/1920431"
+      },
+      "nfl_team": "LV",
+      "player_id": "13305",
+      "player_name": "Mike Washington",
+      "position": "RB",
+      "published": 1788180249000,
+      "source": "rotoballer",
+      "source_key": "219794",
+      "story_id": "nfl|13305|rotoballer|219794|1788180249000",
+      "title": "Mike Washington Jr. Will Have Key Role in Raiders' Backfield",
+      "url": "https://www.rotoballer.com/player-news/mike-washington-jr-will-have-key-role-in-raiders-backfield/1920431"
+    },
+    {
+      "analysis": null,
+      "description": "It looks pretty obvious that Detroit Lions second-year wide receiver Isaac TeSlaa is locked into the WR3 role behind Amon-Ra St. Brown and Jameson Williams going into the Week 1 regular-season opener in early September after the team cut Greg Dortch on Sunday to trim their roster down to 53 players. The 24-year-old third-rounder from Arkansas caught only 16 passes as a rookie for 239 yards, but he scored six touchdowns on 27 targets over 17 games played as a notable red-zone weapon for quarterback Jared Goff. With TeSlaa's role in the Lions' passing game likely to increase in his second year in the NFL, he should not be forgotten as a valuable late-round flier for touchdown upside. The 6-foot-4, 214-pounder could once again struggle for consistent targets as long as both St. Brown and Williams stay healthy, but with Dortch now cut and Kalif Raymond in Chicago, there is a path for TeSlaa to take a step forward as a sophomore in the NFL. RotoBaller has him ranked as the No. 69 fantasy wideout for the upcoming 2026 season.",
+      "metadata": {
+        "description": "It looks pretty obvious that Detroit Lions second-year wide receiver Isaac TeSlaa is locked into the WR3 role behind Amon-Ra St. Brown and Jameson Williams going into the Week 1 regular-season opener in early September after the team cut Greg Dortch on Sunday to trim their roster down to 53 players. The 24-year-old third-rounder from Arkansas caught only 16 passes as a rookie for 239 yards, but he scored six touchdowns on 27 targets over 17 games played as a notable red-zone weapon for quarterback Jared Goff. With TeSlaa's role in the Lions' passing game likely to increase in his second year in the NFL, he should not be forgotten as a valuable late-round flier for touchdown upside. The 6-foot-4, 214-pounder could once again struggle for consistent targets as long as both St. Brown and Williams stay healthy, but with Dortch now cut and Kalif Raymond in Chicago, there is a path for TeSlaa to take a step forward as a sophomore in the NFL. RotoBaller has him ranked as the No. 69 fantasy wideout for the upcoming 2026 season.",
+        "title": "Isaac Teslaa has WR3 Job Locked Down in Detroit",
+        "topic_id": "1400193742006157312",
+        "url": "https://www.rotoballer.com/player-news/isaac-teslaa-has-wr3-job-locked-down-in-detroit/1920429"
+      },
+      "nfl_team": "DET",
+      "player_id": "12535",
+      "player_name": "Isaac TeSlaa",
+      "position": "WR",
+      "published": 1788179770000,
+      "source": "rotoballer",
+      "source_key": "219793",
+      "story_id": "nfl|12535|rotoballer|219793|1788179770000",
+      "title": "Isaac Teslaa has WR3 Job Locked Down in Detroit",
+      "url": "https://www.rotoballer.com/player-news/isaac-teslaa-has-wr3-job-locked-down-in-detroit/1920429"
+    },
     {
       "analysis": null,
       "description": "Arizona Cardinals running back Tyler Allgeier has a prime opportunity for a hefty early-season workload out of the Cardinals' backfield to open up his first year in the desert. It would be an understatement to say that Arizona's backfield is banged up heading into their Week 1 matchup against the Los Angeles Chargers. Trey Benson (knee) is on Injured Reserve and will miss the entire season, James Conner (foot) will miss at least the first four games of the year while on IR, and rookie first-rounder Jeremiyah Love (ankle) has been nursing an ankle sprain that could keep him limited or out altogether in the season opener. It all means that the 26-year-old Allgeier should handle the bulk of the Cardinals' backfield touches early on in 2026. That could all change as Love gets healthier and Conner makes his season debut, going into Week 1, Allgeier should be locked into fantasy football lineups as at least a flex play. RotoBaller currently has the former Atlanta Falcons RB ranked as the RB48 in half-PPR setups. Allgeier averaged 4.3 yards per carry in his four years in Atlanta while recording a career-high eight rushing touchdowns in 17 games as the backup to Bijan Robinson in 2025.",

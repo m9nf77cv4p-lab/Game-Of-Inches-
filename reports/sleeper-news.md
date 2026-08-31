@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1420**
+- Stored stories: **1422**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Tyler Allgeier** — Tyler Allgeier Primed for Early Season Workload (2026-08-31T12:24:05Z)
+- **NEW — Mike Washington** — Mike Washington Jr. Will Have Key Role in Raiders' Backfield (2026-08-31T12:44:09Z)
+  - Source: https://www.rotoballer.com/player-news/mike-washington-jr-will-have-key-role-in-raiders-backfield/1920431
+- **NEW — Isaac TeSlaa** — Isaac Teslaa has WR3 Job Locked Down in Detroit (2026-08-31T12:36:10Z)
+  - Source: https://www.rotoballer.com/player-news/isaac-teslaa-has-wr3-job-locked-down-in-detroit/1920429
+- **Tyler Allgeier** — Tyler Allgeier Primed for Early Season Workload (2026-08-31T12:24:05Z)
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-primed-for-early-season-workload/1920419
-- **NEW — Jalen Coker** — Jalen Coker has Prime Path to 2026 Breakout (2026-08-31T12:17:07Z)
+- **Jalen Coker** — Jalen Coker has Prime Path to 2026 Breakout (2026-08-31T12:17:07Z)
   - Source: https://www.rotoballer.com/player-news/jalen-coker-has-prime-path-to-2026-breakout/1920415
 - **Carnell Tate** — Carnell Tate Gains Steam Despite Quiet Preseason (2026-08-31T11:59:13Z)
   - Source: https://www.rotoballer.com/player-news/carnell-tate-gains-steam-despite-quiet-preseason/1920405
@@ -211,7 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Having just signed with Indianapolis less than two weeks ago, Allen saw his first game action for his new club and quickly produced a big gain on Anthony Richardson's first pass attempt of the afternoon, helping to set up a field goal. Top wideouts Alec Pierce (ankle) and Josh Downs (calf), as well as top tight end Tyler Warren (groin), are all carrying injury designations to close out the preseason, so Allen could end up having a bigger role in the passing attack than expected once Week 1 rolls around. The 34-year-old showed he can still be an effective possession option in 2025 with the Chargers, delivering an 81-777-4 line on 122 targets while playing all 17 regular-season contests.
 - **Zachariah Branch** — Zachariah Branch - Returns punt in preseason win (2026-08-29T21:59:56Z)
   - Branch didn't see much action Friday, playing a total of four snaps (three on offense, one on special teams). However, his lone snap on special teams came as a punt returner, and he figures to see plenty of work as a returner in the upcoming season, especially if he doesn't get much playing time on offense behind Drake London, Jahan Dotson and Olamide Zaccheaus.
-- **Anthony Richardson** — Anthony Richardson - Efficient in final exhibition game (2026-08-29T21:59:38Z)
-  - The 2023 first-round pick got the start in the Colts' preseason finale and led the team to field goals on his first two drives, but Riley Leonard came on in the second quarter and produced Indy's only TD of the afternoon. Richardson did avoid committing any turnovers, but Saturday's performances didn't do much to clarify who will begin the season as Daniel Jones' backup.
-- **Cam Skattebo** — Deep Backfield Could Actually Help Cam Skattebo in 2026 (2026-08-29T21:59:08Z)
-  - Source: https://www.rotoballer.com/player-news/deep-backfield-could-actually-help-cam-skattebo-in-2026/1919401
