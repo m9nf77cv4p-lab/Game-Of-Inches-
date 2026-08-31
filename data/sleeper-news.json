@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T14:32:51Z",
+  "last_checked_at": "2026-08-31T14:42:57Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|8130|rotoballer|219779|1788171431000"
+    "nfl|2216|rotoballer|219780|1788172332000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Mike Evans (groin) could ultimately prove to be the biggest boom-or-bust pick in 2026 drafts. Already struggling through availability concerns before a game has even been played, the six-time Pro Bowler is 33 years old and has missed 12 games over the past two seasons. When on the field, however, he remains a dominator, particularly in the way it's easy to envision him being used by the 49ers. Operating with a fullback on the field more than any other team over the past two seasons, two-receiver sets have become a staple of Kyle Shanahan's offense, and since 2022, Evans has earned 2.97 yards per route run with fewer than three receivers on the field, a number that would have ranked third in the league among qualified receivers last year. Evans also remains a significant scoring threat for an offense that made the eighth most red zone trips in the league in 2025. Despite true WR1 upside, Evans' warranted health concerns have pushed him to WR28 by current ADP, putting him into a range of the draft that makes it slightly easier to overlook his obvious red flags, as when healthy he should help decide matchups.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Mike Evans (groin) could ultimately prove to be the biggest boom-or-bust pick in 2026 drafts. Already struggling through availability concerns before a game has even been played, the six-time Pro Bowler is 33 years old and has missed 12 games over the past two seasons. When on the field, however, he remains a dominator, particularly in the way it's easy to envision him being used by the 49ers. Operating with a fullback on the field more than any other team over the past two seasons, two-receiver sets have become a staple of Kyle Shanahan's offense, and since 2022, Evans has earned 2.97 yards per route run with fewer than three receivers on the field, a number that would have ranked third in the league among qualified receivers last year. Evans also remains a significant scoring threat for an offense that made the eighth most red zone trips in the league in 2025. Despite true WR1 upside, Evans' warranted health concerns have pushed him to WR28 by current ADP, putting him into a range of the draft that makes it slightly easier to overlook his obvious red flags, as when healthy he should help decide matchups.",
+        "title": "Mike Evans the Ultimate Boom-or-Bust Pick in 2026",
+        "topic_id": "1400161022764945408",
+        "url": "https://www.rotoballer.com/player-news/mike-evans-the-ultimate-boom-or-bust-pick-in-2026/1920340"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1788172332000,
+      "source": "rotoballer",
+      "source_key": "219780",
+      "story_id": "nfl|2216|rotoballer|219780|1788172332000",
+      "title": "Mike Evans the Ultimate Boom-or-Bust Pick in 2026",
+      "url": "https://www.rotoballer.com/player-news/mike-evans-the-ultimate-boom-or-bust-pick-in-2026/1920340"
+    },
     {
       "analysis": null,
       "description": "Arizona Cardinals tight end Trey McBride set the single-season positional record with 126 receptions in 2025, and while his talent has been obvious since coming into the league as a second-round pick in 2022, a departure from the near-perfect scenario he found himself in could lead to significant regression in 2026. After Jacoby Brissett took over as the starting quarterback in Week 6, only Bo Nix came within five pass attempts per game of his near record-setting pace, essentially adding an extra game or two worth of production for McBride and the Cardinals' pass-catchers. The Cardinals also saw Marvin Harrison Jr. in and out of the lineup with a string of unfortunate injuries, including a mid-season appendectomy, but in games in which he saw at least a 50% snap share, he actually led the team in targets, and McBride's fantasy production dropped by 3.5 points per game. McBride's 11 scores in 2025 were nearly double his total from the previous three seasons combined, and with the added question of who might be under center for the Cardinals by the time the fantasy playoffs come around, regression is almost certainly inevitable. While still highly capable of a top three fantasy finish, McBride should not be counted on for another record-breaking campaign, especially at a spot in most drafts where running back talent begins to dry up.",

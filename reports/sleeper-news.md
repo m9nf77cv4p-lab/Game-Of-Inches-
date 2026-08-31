@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1411**
+- Stored stories: **1412**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Trey McBride** — Is Regression Inevitable Following Trey McBride's Record-Breaking Season? (2026-08-31T10:17:11Z)
+- **NEW — Mike Evans** — Mike Evans the Ultimate Boom-or-Bust Pick in 2026 (2026-08-31T10:32:12Z)
+  - Source: https://www.rotoballer.com/player-news/mike-evans-the-ultimate-boom-or-bust-pick-in-2026/1920340
+- **Trey McBride** — Is Regression Inevitable Following Trey McBride's Record-Breaking Season? (2026-08-31T10:17:11Z)
   - Source: https://www.rotoballer.com/player-news/is-regression-inevitable-following-trey-mcbrides-record-breaking-season/1920335
 - **Zay Flowers** — Another WR1 Season is Highly Repeatable for Zay Flowers (2026-08-31T10:05:06Z)
   - Source: https://www.rotoballer.com/player-news/another-wr1-season-is-highly-repeatable-for-zay-flowers/1920328
@@ -214,6 +216,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Marvin Mims** — Marvin Mims Jr. suffers bruised foot (2026-08-29T18:05:49.497000Z)
   - Mims avoids a serious injury. He is expected to be fine with just a couple of weeks until the season. 
   - Source: https://www.fantasypros.com/nfl/news/604653/marvin-mims-jr-suffers-bruised-foot.php
-- **Jalen McMillan** — Jalen McMillan (knee) expected to be available Week 1 (2026-08-29T18:00:49.366000Z)
-  - McMillan has been battling through knee and leg injuries during training camp. He is expected to compete for the immediate WR3 role for Tampa Bay. 
-  - Source: https://www.fantasypros.com/nfl/news/604650/jalen-mcmillan-knee-expected-to-be-available-week-1.php
