@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T04:24:18Z",
+  "last_checked_at": "2026-08-31T04:44:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 278,
   "new_story_ids": [
-    "nfl|13302|rotoballer|219771|1788135129000"
+    "nfl|9226|rotoballer|219772|1788136332000"
   ],
   "schema_version": 1,
   "source": {
@@ -52,6 +52,26 @@
       "story_id": "nfl|12476|rotowire|635476|1788136601000",
       "title": "Devin Neal - Placed on injured reserve",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins running back De'Von Achane should be the primary playmaker on offense this season. Miami parted ways with Tyreek Hill, Jaylen Waddle, and Tua Tagovailoa during the offseason, leaving Achane as the only returner from an offense that has featured some star power in recent years, despite underperforming. Miami also ushered in this fresh start with a new head coach, new general manager, and new quarterback. The new signal-caller for Miami is Malik Willis, who has a fair arm but makes a much bigger impact with his ability to run the football. The Dolphins have a pretty weak receiver room, so we expect them to emphasize running the football with Willis and Achane this year. Head coach Jeff Hafley previously said that Achane could get 40+ touches in a game this year, and while that comment was clearly an exaggeration, it's also evident that the Dolphins aren't going to place any restrictions on his workload. We do envision him consistently getting at least 20-25 touches per game, and given his speed and receiving upside, he should emerge as one of the lone bright spots in this otherwise underwhelming Miami offense. Touchdowns may be harder to come by in Miami this season, but we're still banking on Achane as a mid-range RB1 option in redraft leagues.",
+      "metadata": {
+        "description": "Miami Dolphins running back De'Von Achane should be the primary playmaker on offense this season. Miami parted ways with Tyreek Hill, Jaylen Waddle, and Tua Tagovailoa during the offseason, leaving Achane as the only returner from an offense that has featured some star power in recent years, despite underperforming. Miami also ushered in this fresh start with a new head coach, new general manager, and new quarterback. The new signal-caller for Miami is Malik Willis, who has a fair arm but makes a much bigger impact with his ability to run the football. The Dolphins have a pretty weak receiver room, so we expect them to emphasize running the football with Willis and Achane this year. Head coach Jeff Hafley previously said that Achane could get 40+ touches in a game this year, and while that comment was clearly an exaggeration, it's also evident that the Dolphins aren't going to place any restrictions on his workload. We do envision him consistently getting at least 20-25 touches per game, and given his speed and receiving upside, he should emerge as one of the lone bright spots in this otherwise underwhelming Miami offense. Touchdowns may be harder to come by in Miami this season, but we're still banking on Achane as a mid-range RB1 option in redraft leagues.",
+        "title": "De'Von Achane the Focal Point of Miami's Offense Going Forward",
+        "topic_id": "1400010011240857600",
+        "url": "https://www.rotoballer.com/player-news/devon-achane-the-focal-point-of-miamis-offense-going-forward/1920137"
+      },
+      "nfl_team": "MIA",
+      "player_id": "9226",
+      "player_name": "De'Von Achane",
+      "position": "RB",
+      "published": 1788136332000,
+      "source": "rotoballer",
+      "source_key": "219772",
+      "story_id": "nfl|9226|rotoballer|219772|1788136332000",
+      "title": "De'Von Achane the Focal Point of Miami's Offense Going Forward",
+      "url": "https://www.rotoballer.com/player-news/devon-achane-the-focal-point-of-miamis-offense-going-forward/1920137"
     },
     {
       "analysis": null,
