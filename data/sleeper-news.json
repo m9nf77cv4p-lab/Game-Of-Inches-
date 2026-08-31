@@ -1,9 +1,20 @@
 {
-  "last_checked_at": "2026-08-31T04:54:40Z",
+  "last_checked_at": "2026-08-31T05:14:56Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 278,
+  "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|8137|rotoballer|219773|1788136867000"
+    "nfl|11370|rotoballer|219075|1787318348000",
+    "nfl|11370|rotowire|633438|1786661826000",
+    "nfl|11370|rotowire|634400|1787378188000",
+    "nfl|11834|rotoballer|218944|1787149509000",
+    "nfl|11834|rotoballer|219070|1787316734000",
+    "nfl|11834|rotoballer|219626|1787965209000",
+    "nfl|13425|rotoballer|219703|1788085445000",
+    "nfl|13425|rotowire|635085|1787971771000",
+    "nfl|13425|rotowire|635287|1788099619000",
+    "nfl|8800|rotoballer|219736|1788106448000",
+    "nfl|8800|rotowire|634887|1787779726000",
+    "nfl|8800|rotowire|635371|1788119243000"
   ],
   "schema_version": 1,
   "source": {
@@ -599,6 +610,26 @@
       "url": "https://www.fantasypros.com/nfl/news/604887/jaydon-blue-waived-by-dallas-cowboys.php"
     },
     {
+      "analysis": "In two appearances during exhibition season, Davis churned out 68 yards on 12 carries, which was good for 5.7 YPC. Both his play in the preseason and work on the practice field had made him the favorite for the Cowboys' direct backup role, and he'll now look to build upon a 2025 campaign in which he recorded 52 rushes for 250 yards (4.8 YPC) and two TDs in 10 regular-season games.",
+      "description": "Davis remains as the top reserve running back in Dallas behind starter Javonte Williams following the reported cuts of Jaydon Blue and Phil Mafah, Patrik Walker of the Cowboys' official site reports.",
+      "metadata": {
+        "analysis": "In two appearances during exhibition season, Davis churned out 68 yards on 12 carries, which was good for 5.7 YPC. Both his play in the preseason and work on the practice field had made him the favorite for the Cowboys' direct backup role, and he'll now look to build upon a 2025 campaign in which he recorded 52 rushes for 250 yards (4.8 YPC) and two TDs in 10 regular-season games.",
+        "description": "Davis remains as the top reserve running back in Dallas behind starter Javonte Williams following the reported cuts of Jaydon Blue and Phil Mafah, Patrik Walker of the Cowboys' official site reports.",
+        "title": "Malik Davis - Sticks as No. 2 RB",
+        "topic_id": "1399878101588045824"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8800",
+      "player_name": "Malik Davis",
+      "position": "RB",
+      "published": 1788119243000,
+      "source": "rotowire",
+      "source_key": "635371",
+      "story_id": "nfl|8800|rotowire|635371|1788119243000",
+      "title": "Malik Davis - Sticks as No. 2 RB",
+      "url": null
+    },
+    {
       "analysis": "Dallas reportedly has moved on from two RBs on cut-down day, the other being Phil Mafah. The moves indicate that Malik Davis has claimed the No. 2 role behind starter Javonte Williams, though one or both of Blue and Mafah could wind up back on the team's practice squad if they clear waivers.",
       "description": "Blue is being waived by the Cowboys, Adam Schefter of ESPN reports.",
       "metadata": {
@@ -822,6 +853,26 @@
     },
     {
       "analysis": null,
+      "description": "Dallas Cowboys running back Malik Davis came out of Sunday's cuts with a much cleaner path behind Javonte Williams. Dallas waived both Jaydon Blue and Phil Mafah, two backs who had spent the summer competing with Davis for the No. 2 job. The timing matters because Davis was already pulling ahead before either move. Jon Machota reported last week that the Cowboys seemed most comfortable with Davis as their RB2, and Cowboys.com made the same call after the second preseason game. Davis gave them reasons to trust him. He led Dallas' backs with 39 yards on seven carries in the preseason opener, then flashed in pass protection against Arizona. He also rushed for 250 yards and two touchdowns on 52 carries last season, averaging 4.8 yards per attempt. This still isn't a path to major standalone volume with Williams healthy, and Dallas could add another back after cuts. For now, though, two of Davis' biggest competitors are gone. He's one of the clearest redraft winners from the Cowboys' roster moves.",
+      "metadata": {
+        "description": "Dallas Cowboys running back Malik Davis came out of Sunday's cuts with a much cleaner path behind Javonte Williams. Dallas waived both Jaydon Blue and Phil Mafah, two backs who had spent the summer competing with Davis for the No. 2 job. The timing matters because Davis was already pulling ahead before either move. Jon Machota reported last week that the Cowboys seemed most comfortable with Davis as their RB2, and Cowboys.com made the same call after the second preseason game. Davis gave them reasons to trust him. He led Dallas' backs with 39 yards on seven carries in the preseason opener, then flashed in pass protection against Arizona. He also rushed for 250 yards and two touchdowns on 52 carries last season, averaging 4.8 yards per attempt. This still isn't a path to major standalone volume with Williams healthy, and Dallas could add another back after cuts. For now, though, two of Davis' biggest competitors are gone. He's one of the clearest redraft winners from the Cowboys' roster moves.",
+        "title": "Malik Davis a Big Winner After Cowboys Backfield Cuts",
+        "topic_id": "1399885650253094912",
+        "url": "https://www.rotoballer.com/player-news/malik-davis-a-big-winner-after-cowboys-backfield-cuts/1919929"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8800",
+      "player_name": "Malik Davis",
+      "position": "RB",
+      "published": 1788106448000,
+      "source": "rotoballer",
+      "source_key": "219736",
+      "story_id": "nfl|8800|rotoballer|219736|1788106448000",
+      "title": "Malik Davis a Big Winner After Cowboys Backfield Cuts",
+      "url": "https://www.rotoballer.com/player-news/malik-davis-a-big-winner-after-cowboys-backfield-cuts/1919929"
+    },
+    {
+      "analysis": null,
       "description": "Green Bay Packers running back MarShawn Lloyd went from an interesting late-round stash to a potential Week 1 starter in a matter of hours. The NFL placed Josh Jacobs on the Commissioner's Exempt List on Sunday, which means he cannot practice or attend games while he remains there. Matt Schneidman of The Athletic reports that Green Bay will now rely on Lloyd as its No. 1 running back with Jacobs sidelined. Lloyd had already spent August making a case for more work. He started the preseason opener with Jacobs out, then caught an 11-yard touchdown from Jordan Love while working with the first-team offense against Denver. There is still competition. Green Bay acquired Kaleb Johnson from Pittsburgh on Sunday, and Chris Brooks remains in the mix, but neither changes the fact that Lloyd is first in line right now. The 25-year-old has played only one regular-season game through two NFL seasons because of injuries, so durability is impossible to ignore. Still, the opportunity has changed fast. Lloyd is now poised to open the season as Green Bay's lead back.",
       "metadata": {
         "description": "Green Bay Packers running back MarShawn Lloyd went from an interesting late-round stash to a potential Week 1 starter in a matter of hours. The NFL placed Josh Jacobs on the Commissioner's Exempt List on Sunday, which means he cannot practice or attend games while he remains there. Matt Schneidman of The Athletic reports that Green Bay will now rely on Lloyd as its No. 1 running back with Jacobs sidelined. Lloyd had already spent August making a case for more work. He started the preseason opener with Jacobs out, then caught an 11-yard touchdown from Jordan Love while working with the first-team offense against Denver. There is still competition. Green Bay acquired Kaleb Johnson from Pittsburgh on Sunday, and Chris Brooks remains in the mix, but neither changes the fact that Lloyd is first in line right now. The 25-year-old has played only one regular-season game through two NFL seasons because of injuries, so durability is impossible to ignore. Still, the opportunity has changed fast. Lloyd is now poised to open the season as Green Bay's lead back.",
@@ -939,6 +990,26 @@
       "story_id": "nfl|1479|rotoballer|219726|1788101286000",
       "title": "Keenan Allen Faces Potential Three-Game Suspension",
       "url": "https://www.rotoballer.com/player-news/keenan-allen-faces-potential-three-game-suspension/1919808"
+    },
+    {
+      "analysis": "After entering camp as an undrafted rookie in a crowded quarterback room, Daniels appears to have climbed into the No. 2 role behind Mayfield. The decision gives him clear roster security and places him next in line if Tampa Bay needs a backup to step into game action. Daniels won the job after a strong preseason during which he completed 27 of 44 passes for 239 yards and a touchdown without being picked off.",
+      "description": "Daniels is moving forward as Tampa Bay's backup quarterback behind Baker Mayfield after impressing throughout training camp, Ian Rapoport of NFL Network reports.",
+      "metadata": {
+        "analysis": "After entering camp as an undrafted rookie in a crowded quarterback room, Daniels appears to have climbed into the No. 2 role behind Mayfield. The decision gives him clear roster security and places him next in line if Tampa Bay needs a backup to step into game action. Daniels won the job after a strong preseason during which he completed 27 of 44 passes for 239 yards and a touchdown without being picked off.",
+        "description": "Daniels is moving forward as Tampa Bay's backup quarterback behind Baker Mayfield after impressing throughout training camp, Ian Rapoport of NFL Network reports.",
+        "title": "Jalon Daniels - Wins backup QB job",
+        "topic_id": "1399796305177399296"
+      },
+      "nfl_team": "TB",
+      "player_id": "13425",
+      "player_name": "Jalon Daniels",
+      "position": "QB",
+      "published": 1788099619000,
+      "source": "rotowire",
+      "source_key": "635287",
+      "story_id": "nfl|13425|rotowire|635287|1788099619000",
+      "title": "Jalon Daniels - Wins backup QB job",
+      "url": null
     },
     {
       "analysis": null,
@@ -1220,6 +1291,26 @@
       "story_id": "nfl|13288|rotoballer|219704|1788086168000",
       "title": "Nicholas Singleton Ends Preseason Without Any Signature Moments",
       "url": "https://www.rotoballer.com/player-news/nicholas-singleton-ends-preseason-without-any-signature-moments/1919574"
+    },
+    {
+      "analysis": null,
+      "description": "Following an impressive training camp and appearances in all three of the team's preseason games, the Tampa Bay Buccaneers will name undrafted rookie Jalon Daniels as the backup quarterback behind Baker Mayfield, according to NFL Insider Ian Rapoport. A true dual threat across his extended time at Kansas, Daniels ended his six-year collegiate career with 9,273 passing yards, 1,916 rushing yards, and 90 combined touchdowns. He began training camp as the fourth quarterback behind veteran Jake Browning and 2025 practice squader Connor Bazelak, but he has made plays throughout the summer and will begin his rookie season in the number two role.",
+      "metadata": {
+        "description": "Following an impressive training camp and appearances in all three of the team's preseason games, the Tampa Bay Buccaneers will name undrafted rookie Jalon Daniels as the backup quarterback behind Baker Mayfield, according to NFL Insider Ian Rapoport. A true dual threat across his extended time at Kansas, Daniels ended his six-year collegiate career with 9,273 passing yards, 1,916 rushing yards, and 90 combined touchdowns. He began training camp as the fourth quarterback behind veteran Jake Browning and 2025 practice squader Connor Bazelak, but he has made plays throughout the summer and will begin his rookie season in the number two role.",
+        "title": "Jalon Daniels Wins Buccaneers Backup Job",
+        "topic_id": "1399797562080305152",
+        "url": "https://www.rotoballer.com/player-news/jalon-daniels-wins-buccaneers-backup-job/1919565"
+      },
+      "nfl_team": "TB",
+      "player_id": "13425",
+      "player_name": "Jalon Daniels",
+      "position": "QB",
+      "published": 1788085445000,
+      "source": "rotoballer",
+      "source_key": "219703",
+      "story_id": "nfl|13425|rotoballer|219703|1788085445000",
+      "title": "Jalon Daniels Wins Buccaneers Backup Job",
+      "url": "https://www.rotoballer.com/player-news/jalon-daniels-wins-buccaneers-backup-job/1919565"
     },
     {
       "analysis": null,
@@ -2847,6 +2938,26 @@
       "url": null
     },
     {
+      "analysis": "The undrafted rookie had made a strong impression over his first two preseason games, completing 19 of 29 passes for 182 yards and a touchdown while adding 10 rushes for 28 yards and another score. That played a part in Daniels earning the start in Friday's exhibition finale, but the Kansas product wasn't anywhere near as smooth. Daniels played through the first possession of the third quarter and helmed only one drive of greater than 17 yards, including one in the second quarter where he lost a fumble on the first play. Daniels is battling Connor Bazelak for the No. 3 quarterback role, and it remains to be seen how Friday's uneven performance ultimately affects that competition.",
+      "description": "Daniels completed eight of 15 passes for 57 yards with no touchdowns or interceptions and rushed four times for nine yards in the Buccaneers' 19-0 preseason loss to the Jaguars on Friday. He also lost a fumble.",
+      "metadata": {
+        "analysis": "The undrafted rookie had made a strong impression over his first two preseason games, completing 19 of 29 passes for 182 yards and a touchdown while adding 10 rushes for 28 yards and another score. That played a part in Daniels earning the start in Friday's exhibition finale, but the Kansas product wasn't anywhere near as smooth. Daniels played through the first possession of the third quarter and helmed only one drive of greater than 17 yards, including one in the second quarter where he lost a fumble on the first play. Daniels is battling Connor Bazelak for the No. 3 quarterback role, and it remains to be seen how Friday's uneven performance ultimately affects that competition.",
+        "description": "Daniels completed eight of 15 passes for 57 yards with no touchdowns or interceptions and rushed four times for nine yards in the Buccaneers' 19-0 preseason loss to the Jaguars on Friday. He also lost a fumble.",
+        "title": "Jalon Daniels - Modest performance in preseason finale",
+        "topic_id": "1399258958782296064"
+      },
+      "nfl_team": "TB",
+      "player_id": "13425",
+      "player_name": "Jalon Daniels",
+      "position": "QB",
+      "published": 1787971771000,
+      "source": "rotowire",
+      "source_key": "635085",
+      "story_id": "nfl|13425|rotowire|635085|1787971771000",
+      "title": "Jalon Daniels - Modest performance in preseason finale",
+      "url": null
+    },
+    {
       "analysis": "Little's long-distance boot, which came with just over 10 minutes remaining in the second quarter, was undeniably impressive but not out of the norm for the third-year star. He went 13-for-16 on kicks from 50 yards and longer over 34 regular-season games in his first two campaigns, and he wraps up preseason having gone 7-for-7 on field-goal attempts while also knocking home his only PAT.",
       "description": "Little made his only field-goal attempt, from 61 yards out, and did not attempt any extra points in the Jaguars' 19-0 preseason win over the Buccaneers on Friday.",
       "metadata": {
@@ -3045,6 +3156,26 @@
       "story_id": "nfl|8183|rotowire|635062|1787965640000",
       "title": "Brock Purdy - Doesn't participate in preseason finale",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Devaughn Vele is quickly climbing up the depth chart ahead of the 2026 season. With Jordyn Tyson (hamstring) expected to miss significant time, Vele projects to be the Saints' No. 2 receiver for the regular-season opener against the Detroit Lions on Sept. 13. Not only does the depth chart itself look favorably upon the 28-year-old receiver, but so does the coaching staff. Before Tyson got hurt, head coach Kellen Moore said that he regretted not making Vele a bigger part of the offense throughout the first half of last season. He made the most of his opportunities following the Saints' bye week, though, catching 19 of 26 targets for 239 yards and one touchdown across four games before getting hurt. During that four-game span from Week 12-15, Vele ranked as the overall WR23 in PPR leagues. Assuming he takes on a similar role and can maintain a similar rapport with quarterback Tyler Shough, Vele has high-end WR3/flex appeal early in the 2026 season, especially while Tyson is inactive. With an ADP of 231.2, the 6-foot-5 receiver is going undrafted in most fantasy leagues. Managers should consider spending their final draft pick on him, because he could be a legitimate fantasy starter for the first month or so this season.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Devaughn Vele is quickly climbing up the depth chart ahead of the 2026 season. With Jordyn Tyson (hamstring) expected to miss significant time, Vele projects to be the Saints' No. 2 receiver for the regular-season opener against the Detroit Lions on Sept. 13. Not only does the depth chart itself look favorably upon the 28-year-old receiver, but so does the coaching staff. Before Tyson got hurt, head coach Kellen Moore said that he regretted not making Vele a bigger part of the offense throughout the first half of last season. He made the most of his opportunities following the Saints' bye week, though, catching 19 of 26 targets for 239 yards and one touchdown across four games before getting hurt. During that four-game span from Week 12-15, Vele ranked as the overall WR23 in PPR leagues. Assuming he takes on a similar role and can maintain a similar rapport with quarterback Tyler Shough, Vele has high-end WR3/flex appeal early in the 2026 season, especially while Tyson is inactive. With an ADP of 231.2, the 6-foot-5 receiver is going undrafted in most fantasy leagues. Managers should consider spending their final draft pick on him, because he could be a legitimate fantasy starter for the first month or so this season.",
+        "title": "Devaughn Vele Climbing Up the Depth Chart with Teammate Sidelined",
+        "topic_id": "1399292933961736193",
+        "url": "https://www.rotoballer.com/player-news/devaughn-vele-climbing-up-the-depth-chart-with-teammate-sidelined/1918943"
+      },
+      "nfl_team": "NO",
+      "player_id": "11834",
+      "player_name": "Devaughn Vele",
+      "position": "WR",
+      "published": 1787965209000,
+      "source": "rotoballer",
+      "source_key": "219626",
+      "story_id": "nfl|11834|rotoballer|219626|1787965209000",
+      "title": "Devaughn Vele Climbing Up the Depth Chart with Teammate Sidelined",
+      "url": "https://www.rotoballer.com/player-news/devaughn-vele-climbing-up-the-depth-chart-with-teammate-sidelined/1918943"
     },
     {
       "analysis": "Buffalo elected to rest the bulk of its projected regular-season starters, including Moore, for the team's final preseason game. The veteran wideout saw action in one exhibition contest, catching three of four targets for 61 yards. Moore left that game early due to an ankle injury but has since returned to practice, so he should be good to go as the Bills' top wideout Week 1 of the regular season versus a tough Texans defense.",
@@ -6631,6 +6762,26 @@
       "story_id": "nfl|4037|rotoballer|219469|1787781410000",
       "title": "Chris Godwin Jr. Looking Like the Best Version of Himself",
       "url": "https://www.rotoballer.com/player-news/chris-godwin-looking-like-the-best-version-of-himself/1917252"
+    },
+    {
+      "analysis": "It's worth noting that this doesn't align with how Dallas' running backs are listed on the team's unofficial depth chart, and things could remain fluid leading up to and after roster cut-downs. However, it's a take shared by Todd Archer of ESPN, as well as Jon Machota of The Athletic, who predicts that Davis opens as the No. 2 back, while 2025 fifth-rounder Jaydon Blue -- a player with higher upside, per Machota -- is a candidate to take over the spot at some point during the season. Meanwhile, Phil Mafah is also in the mix but could be on the roster bubble. In any case, if Williams ends up missing any time, a committee approach could well be employed to fill the void, but in the short term at least, Davis appears to be trending toward being the next man up in such a scenario, with Blue also factoring in.",
+      "description": "While acknowledging that backfield slotting behind Javonte Williams is still a question mark in advance of Friday's preseason finale against the Saints, Nick Eatman of the Cowboys' official site believes that Davis has done enough to remain the backup ahead of Week 1.",
+      "metadata": {
+        "analysis": "It's worth noting that this doesn't align with how Dallas' running backs are listed on the team's unofficial depth chart, and things could remain fluid leading up to and after roster cut-downs. However, it's a take shared by Todd Archer of ESPN, as well as Jon Machota of The Athletic, who predicts that Davis opens as the No. 2 back, while 2025 fifth-rounder Jaydon Blue -- a player with higher upside, per Machota -- is a candidate to take over the spot at some point during the season. Meanwhile, Phil Mafah is also in the mix but could be on the roster bubble. In any case, if Williams ends up missing any time, a committee approach could well be employed to fill the void, but in the short term at least, Davis appears to be trending toward being the next man up in such a scenario, with Blue also factoring in.",
+        "description": "While acknowledging that backfield slotting behind Javonte Williams is still a question mark in advance of Friday's preseason finale against the Saints, Nick Eatman of the Cowboys' official site believes that Davis has done enough to remain the backup ahead of Week 1.",
+        "title": "Malik Davis - Could be poised to earn RB2 role",
+        "topic_id": "1398453684878225408"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8800",
+      "player_name": "Malik Davis",
+      "position": "RB",
+      "published": 1787779726000,
+      "source": "rotowire",
+      "source_key": "634887",
+      "story_id": "nfl|8800|rotowire|634887|1787779726000",
+      "title": "Malik Davis - Could be poised to earn RB2 role",
+      "url": null
     },
     {
       "analysis": null,
@@ -16097,6 +16248,26 @@
       "url": "https://www.rotoballer.com/player-news/jonathon-brooks-works-with-the-first-team-offense-on-friday-scores-first-nfl-td/1913622"
     },
     {
+      "analysis": "Brooks was the second Packers running back to log a touch behind MarShawn Lloyd, recording his first carry on the play immediately before the latter's 11-yard touchdown reception. Brooks has managed to hold on to a depth running back role in Green Bay in each of the last two seasons thanks in part to his ability to contribute on special teams, but this summer, he's facing a challenge from veteran Pierre Strong, who recorded 37 rushing yards and 89 kickoff-return yards Friday.",
+      "description": "Brooks rushed five times for 12 yards and brought in his only target for one yard in the Packers' 33-13 preseason win over the Broncos on Friday.",
+      "metadata": {
+        "analysis": "Brooks was the second Packers running back to log a touch behind MarShawn Lloyd, recording his first carry on the play immediately before the latter's 11-yard touchdown reception. Brooks has managed to hold on to a depth running back role in Green Bay in each of the last two seasons thanks in part to his ability to contribute on special teams, but this summer, he's facing a challenge from veteran Pierre Strong, who recorded 37 rushing yards and 89 kickoff-return yards Friday.",
+        "description": "Brooks rushed five times for 12 yards and brought in his only target for one yard in the Packers' 33-13 preseason win over the Broncos on Friday.",
+        "title": "Chris Brooks - Six touches in preseason win",
+        "topic_id": "1396770014488485888"
+      },
+      "nfl_team": "GB",
+      "player_id": "11370",
+      "player_name": "Chris Brooks",
+      "position": "RB",
+      "published": 1787378188000,
+      "source": "rotowire",
+      "source_key": "634400",
+      "story_id": "nfl|11370|rotowire|634400|1787378188000",
+      "title": "Chris Brooks - Six touches in preseason win",
+      "url": null
+    },
+    {
       "analysis": "Josh Jacobs (groin) was not in uniform Friday, paving the way for Lloyd to see meaningful early-game action for the second straight preseason contest. Lloyd found tough sledding on the ground against a talented Denver defense, but he capped off the Packers' opening drive with his 11-yard touchdown reception. Lloyd may have the inside track to the No. 2 running back role despite playing just one regular-season game in his first two seasons, although that may not be official until the Packers' preseason finale next Friday at home against the Cardinals.",
       "description": "Lloyd rushed six times for 17 yards and secured his only target for an 11-yard touchdown in the Packers' 33-13 preseason win over the Broncos on Friday.",
       "metadata": {
@@ -17402,6 +17573,26 @@
     },
     {
       "analysis": null,
+      "description": "Green Bay Packers running back Chris Brooks is back where he needs to be after losing the first week and a half of camp to a hamstring strain. Green Bay's Aug. 10 unofficial depth chart had Brooks directly behind Josh Jacobs, with MarShawn Lloyd next, but there is still a competition here. Brooks didn't play in the preseason opener, while Lloyd got his chance after Jacobs went down with a groin injury. Brooks has since returned to team work, and the Packers trust the 6-foot-1, 219-pound back in pass protection and the passing game. His 2025 numbers weren't much, just 27 carries for 106 yards and 13 catches for 91 yards. He did get 13 carries in Week 18 and turned them into 61 yards. Jacobs is back at practice and remains the clear lead back, so this is strictly about the spot behind him. Brooks has a real chance to win it. Until somebody separates, though, he's more insurance-back watch than a late-round redraft target.",
+      "metadata": {
+        "description": "Green Bay Packers running back Chris Brooks is back where he needs to be after losing the first week and a half of camp to a hamstring strain. Green Bay's Aug. 10 unofficial depth chart had Brooks directly behind Josh Jacobs, with MarShawn Lloyd next, but there is still a competition here. Brooks didn't play in the preseason opener, while Lloyd got his chance after Jacobs went down with a groin injury. Brooks has since returned to team work, and the Packers trust the 6-foot-1, 219-pound back in pass protection and the passing game. His 2025 numbers weren't much, just 27 carries for 106 yards and 13 catches for 91 yards. He did get 13 carries in Week 18 and turned them into 61 yards. Jacobs is back at practice and remains the clear lead back, so this is strictly about the spot behind him. Brooks has a real chance to win it. Until somebody separates, though, he's more insurance-back watch than a late-round redraft target.",
+        "title": "Chris Brooks Still in the Mix for Packers' RB2 Role",
+        "topic_id": "1396580038043774976",
+        "url": "https://www.rotoballer.com/player-news/chris-brooks-still-in-the-mix-for-packers-rb2-role/1913337"
+      },
+      "nfl_team": "GB",
+      "player_id": "11370",
+      "player_name": "Chris Brooks",
+      "position": "RB",
+      "published": 1787318348000,
+      "source": "rotoballer",
+      "source_key": "219075",
+      "story_id": "nfl|11370|rotoballer|219075|1787318348000",
+      "title": "Chris Brooks Still in the Mix for Packers' RB2 Role",
+      "url": "https://www.rotoballer.com/player-news/chris-brooks-still-in-the-mix-for-packers-rb2-role/1913337"
+    },
+    {
+      "analysis": null,
       "description": "Houston Texans running back Woody Marks stood out on Thursday night against the Raiders, playing very effectively on his team's opening drive, which he capped with a 20-yard touchdown run. He finished with 37 rushing yards to go with his touchdown on four carries and added a six-yard reception. The second-year running back had a strong track record as a pass-catcher in college and could step into a larger role as a receiver after the season-ending injury to Jayden Higgins (knee). Marks appears lined up to share work in the backfield with David Montgomery, but with a strong showing like Thursday's and some extra targets available, he could be a great grab with upside when you're searching for running back depth. His pass-catching potential makes him an even stronger play in PPR formats. Marks is the RB46 in RotoBaller's rankings, but he could get enough work to return great value at that spot even though he'll be working in a timeshare.",
       "metadata": {
         "description": "Houston Texans running back Woody Marks stood out on Thursday night against the Raiders, playing very effectively on his team's opening drive, which he capped with a 20-yard touchdown run. He finished with 37 rushing yards to go with his touchdown on four carries and added a six-yard reception. The second-year running back had a strong track record as a pass-catcher in college and could step into a larger role as a receiver after the season-ending injury to Jayden Higgins (knee). Marks appears lined up to share work in the backfield with David Montgomery, but with a strong showing like Thursday's and some extra targets available, he could be a great grab with upside when you're searching for running back depth. His pass-catching potential makes him an even stronger play in PPR formats. Marks is the RB46 in RotoBaller's rankings, but he could get enough work to return great value at that spot even though he'll be working in a timeshare.",
@@ -17459,6 +17650,26 @@
       "story_id": "nfl|4039|rotoballer|219069|1787316968000",
       "title": "Cooper Kupp Is Slipping Into Deep-Bench Territory",
       "url": "https://www.rotoballer.com/player-news/cooper-kupp-is-slipping-into-deep-bench-territory/1913315"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Devaughn Vele is set for an expanded role early in the season. With rookie wideout Jordyn Tyson (hamstring) expected to miss significant time, Vele is positioned to be the team's second-leading receiver behind Chris Olave. The former Broncos receiver hauled in 25 of 39 targets for 293 yards and two touchdowns last season, but found a groove late with quarterback Tyler Shough. To add to Vele's value this season, Olave has struggled with concussions throughout his career and was part of the reason he slipped down fantasy boards last season. If Olave and Tyson miss time at any point this season, Vele becomes a starting-caliber receiver in most fantasy leagues.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Devaughn Vele is set for an expanded role early in the season. With rookie wideout Jordyn Tyson (hamstring) expected to miss significant time, Vele is positioned to be the team's second-leading receiver behind Chris Olave. The former Broncos receiver hauled in 25 of 39 targets for 293 yards and two touchdowns last season, but found a groove late with quarterback Tyler Shough. To add to Vele's value this season, Olave has struggled with concussions throughout his career and was part of the reason he slipped down fantasy boards last season. If Olave and Tyson miss time at any point this season, Vele becomes a starting-caliber receiver in most fantasy leagues.",
+        "title": "DeVaughn Vele to See More Work Early in 2026 Season",
+        "topic_id": "1396573746097037312",
+        "url": "https://www.rotoballer.com/player-news/devaughn-vele-to-see-more-work-early-in-2026-season/1913312"
+      },
+      "nfl_team": "NO",
+      "player_id": "11834",
+      "player_name": "Devaughn Vele",
+      "position": "WR",
+      "published": 1787316734000,
+      "source": "rotoballer",
+      "source_key": "219070",
+      "story_id": "nfl|11834|rotoballer|219070|1787316734000",
+      "title": "DeVaughn Vele to See More Work Early in 2026 Season",
+      "url": "https://www.rotoballer.com/player-news/devaughn-vele-to-see-more-work-early-in-2026-season/1913312"
     },
     {
       "analysis": "On that subject, Kubiak noted \"we got another week. I don't want anyone to be comfortable in their job...it should always be that way for all positions. So, let's keep going.\" To this point, the signs have been pointing to Cousins opening the regular season as the starter, and he was among his team's key players who watched Thursday's preseason game against the Texans from the sidelines. Meanwhile, Mendoza played the entire first half of the contest, completing eight of 15 passes for 86 yards and an interception on five drives. It remains to be seen when Kubiak will announce the Raiders' starting signal-caller, but given where Mendoza was drafted, it's assumed that the Indiana product will rise to the top of the Raiders' depth chart eventually, though that ascent seems likely to follow a stint as Cousins' understudy.",
@@ -20141,6 +20352,26 @@
       "story_id": "nfl|5849|rotoballer|218945|1787150229000",
       "title": "Kyler Murray Building Chemistry With Vikings' Top Target",
       "url": "https://www.rotoballer.com/player-news/kyler-murray-building-chemistry-with-vikings-top-target/1912038"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Devaughn Vele was already running with the top group before Jordyn Tyson's hamstring injury. Now the window is a lot wider. Tyson, the No. 8 pick in April, is expected to miss roughly two months and could open the season on short-term Injured Reserve. Vele at least has something on the r sum  that says he can use the extra work. From Weeks 12 through 15 last year, he caught 19 of 26 targets for 239 yards and a touchdown before a shoulder injury ended his season. His full 2025 line was 25 catches for 293 yards and two scores in 13 games, so most of his production came late. Kellen Moore said this spring that Vele was healthy and had a \"really defined role,\" and the Saints treated him as one of their top three receivers before the preseason opener. At an ADP of 277, there is barely a price attached. Tyson should eventually return, but Vele has a real early-season opening now. He's a much more interesting final-round swing than he was a week ago.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Devaughn Vele was already running with the top group before Jordyn Tyson's hamstring injury. Now the window is a lot wider. Tyson, the No. 8 pick in April, is expected to miss roughly two months and could open the season on short-term Injured Reserve. Vele at least has something on the r sum  that says he can use the extra work. From Weeks 12 through 15 last year, he caught 19 of 26 targets for 239 yards and a touchdown before a shoulder injury ended his season. His full 2025 line was 25 catches for 293 yards and two scores in 13 games, so most of his production came late. Kellen Moore said this spring that Vele was healthy and had a \"really defined role,\" and the Saints treated him as one of their top three receivers before the preseason opener. At an ADP of 277, there is barely a price attached. Tyson should eventually return, but Vele has a real early-season opening now. He's a much more interesting final-round swing than he was a week ago.",
+        "title": "Devaughn Vele's Sleeper Case Just Got Stronger",
+        "topic_id": "1395872959855349760",
+        "url": "https://www.rotoballer.com/player-news/devaughn-veles-sleeper-case-just-got-stronger/1912036"
+      },
+      "nfl_team": "NO",
+      "player_id": "11834",
+      "player_name": "Devaughn Vele",
+      "position": "WR",
+      "published": 1787149509000,
+      "source": "rotoballer",
+      "source_key": "218944",
+      "story_id": "nfl|11834|rotoballer|218944|1787149509000",
+      "title": "Devaughn Vele's Sleeper Case Just Got Stronger",
+      "url": "https://www.rotoballer.com/player-news/devaughn-veles-sleeper-case-just-got-stronger/1912036"
     },
     {
       "analysis": null,
@@ -25808,6 +26039,26 @@
       "story_id": "nfl|2133|rotoballer|218537|1786662605000",
       "title": "Davante Adams Could be in Line for Early-Season Explosion",
       "url": "https://www.rotoballer.com/player-news/possible-puka-nacua-suspension-opens-door-to-davante-adams-early-season-explosion/1908539"
+    },
+    {
+      "analysis": "Brooks will join Josh Jacobs (groin) on the sideline for the Packers' exhibition opener, leaving some combination of MarShawn Lloyd, Pierre Strong, Damien Martinez and Jaden Nixon to man the backfield. Brooks' absence Thursday may stem from the hamstring injury that kept him on the active/PUP list until this past Sunday. In any case, he'll have two more chances to mix into a preseason contest as he vies with Lloyd for the No. 2 RB role behind Jacobs.",
+      "description": "Brooks isn't suited up for Thursday's preseason game in Pittsburgh.",
+      "metadata": {
+        "analysis": "Brooks will join Josh Jacobs (groin) on the sideline for the Packers' exhibition opener, leaving some combination of MarShawn Lloyd, Pierre Strong, Damien Martinez and Jaden Nixon to man the backfield. Brooks' absence Thursday may stem from the hamstring injury that kept him on the active/PUP list until this past Sunday. In any case, he'll have two more chances to mix into a preseason contest as he vies with Lloyd for the No. 2 RB role behind Jacobs.",
+        "description": "Brooks isn't suited up for Thursday's preseason game in Pittsburgh.",
+        "title": "Chris Brooks - Not in uniform Thursday",
+        "topic_id": "1393765276310306816"
+      },
+      "nfl_team": "GB",
+      "player_id": "11370",
+      "player_name": "Chris Brooks",
+      "position": "RB",
+      "published": 1786661826000,
+      "source": "rotowire",
+      "source_key": "633438",
+      "story_id": "nfl|11370|rotowire|633438|1786661826000",
+      "title": "Chris Brooks - Not in uniform Thursday",
+      "url": null
     },
     {
       "analysis": null,
