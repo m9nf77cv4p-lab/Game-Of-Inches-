@@ -2,12 +2,21 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1449**
-- Newly captured: **2**
+- Stored stories: **1453**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Jeremiyah Love** — Jeremiyah Love - Trending toward Week 1 return (2026-08-31T20:29:49Z)
+- **NEW — Puka Nacua** — Puka Nacua (psoas) returns to practice  (2026-08-31T20:45:12.623000Z)
+  - Nacua had missed practice for much of the past couple of weeks with psoas soreness. The injury appears to be behind him and he is expected to avoid the commissioner's exempt list, meaning he should be good to go for Week 1. 
+  - Source: https://www.fantasypros.com/nfl/news/605080/puka-nacua-psoas-returns-to-practice.php
+- **NEW — Devin Neal** — Devin Neal placed on season-ending IR (2026-08-31T20:45:12.604000Z)
+  - Neal will miss the entire season unless he reaches an injury settlement with New Orleans. 
+  - Source: https://www.fantasypros.com/nfl/news/605081/devin-neal-placed-on-season-ending-ir.php
+- **NEW — Zach Charbonnet** — Zach Charbonnet (knee) placed on PUP list  (2026-08-31T20:45:12.586000Z)
+  - Charbonnet will miss at least the first four games of the season. Rookie RB Jadarian Price will open the year as the lead back with George Holani behind him. 
+  - Source: https://www.fantasypros.com/nfl/news/605082/zach-charbonnet-knee-placed-on-pup-list.php
+- **Jeremiyah Love** — Jeremiyah Love - Trending toward Week 1 return (2026-08-31T20:29:49Z)
   - Love was forced to miss the Cardinals' final preseason game due to the high-ankle sprain he suffered earlier this month, but he continues trend in the right direction. Head coach Mike LaFleur outlined Monday that the running back is "progressing really well," and that Love is expected to take another step up in his recovery at practice. The Cardinals will take on the Chargers in Week 1 on Sept. 13, and the rookie first-rounder appears to be on track to make his NFL regular-season debut that day.
 - **Adam Randall** — Adam Randall placed on IR (2026-08-31T20:10:14.912000Z)
   - Randall will be eligible to return after the first four weeks. 
@@ -34,9 +43,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
 - **Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
   - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
-- **NEW — Rome Odunze** — Rome Odunze Could Be Poised for a Breakout Campaign in 2026 (2026-08-31T16:27:09Z)
+- **NEW — Drake London** — Drake London Remains a Viable WR1 Option Despite QB Concerns (2026-08-31T16:36:08Z)
+  - Source: https://www.rotoballer.com/player-news/drake-london-remains-a-viable-wr1-option-despite-quarterback-questions-in-atlanta/1920620
+- **Rome Odunze** — Rome Odunze Could Be Poised for a Breakout Campaign in 2026 (2026-08-31T16:27:09Z)
   - Source: https://www.rotoballer.com/player-news/rome-odunze-could-be-poised-for-a-breakout-campaign-in-2026/1920607
-- **Zay Flowers** — Zay Flowers Does Not Practice on Monday Due to Apparent Lower Body Injury (2026-08-31T16:18:07Z)
+- **Zay Flowers** — Zay Flowers Dealing With Lower-Body Injury (2026-08-31T16:18:07Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-does-not-practice-on-monday-due-to-apparent-lower-body-injury/1920600
 - **Blake Corum** — Blake Corum a Potential Draft-Day Bust at Current ADP (2026-08-31T16:09:08Z)
   - Source: https://www.rotoballer.com/player-news/blake-corum-a-potential-draft-day-bust-at-current-adp/1920590
@@ -211,11 +222,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/brock-bowers-looks-like-himself-again/1919761
 - **MarShawn Lloyd** — MarShawn Lloyd Facing Potential Competition for No. 2 Role (2026-08-30T13:59:08Z)
   - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-facing-potential-competition-for-no-2-role/1919757
-- **Kaleb Johnson** — Kaleb Johnson Traded to Packers (2026-08-30T13:45:12Z)
-  - Source: https://www.rotoballer.com/player-news/kaleb-johnson-traded-to-packers/1919749
-- **Javonte Williams** — Javonte Williams Leaves August Firmly in Control of Backfield (2026-08-30T13:39:04Z)
-  - Source: https://www.rotoballer.com/player-news/javonte-williams-leaves-august-firmly-in-control/1919722
-- **Davante Adams** — Davante Adams Has Helped His Redraft Case This Summer (2026-08-30T13:26:08Z)
-  - Source: https://www.rotoballer.com/player-news/davante-adams-has-helped-his-redraft-case-this-summer/1919713
-- **Taylen Green** — Browns Want to Keep Rookie QB Taylen Green on the Roster (2026-08-30T13:14:07Z)
-  - Source: https://www.rotoballer.com/player-news/browns-want-to-keep-rookie-qb-taylen-green-on-the-roster/1919704

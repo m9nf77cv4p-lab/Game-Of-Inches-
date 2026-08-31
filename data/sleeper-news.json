@@ -1,10 +1,12 @@
 {
-  "last_checked_at": "2026-08-31T20:37:10Z",
+  "last_checked_at": "2026-08-31T20:47:05Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11620|rotoballer|219819|1788193629000",
-    "nfl|13287|rotowire|635608|1788208189000"
+    "nfl|12476|fantasy_pros|605081|1788209112604",
+    "nfl|8112|rotoballer|219821|1788194168000",
+    "nfl|9493|fantasy_pros|605080|1788209112623",
+    "nfl|9753|fantasy_pros|605082|1788209112586"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +16,69 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Nacua had missed practice for much of the past couple of weeks with psoas soreness. The injury appears to be behind him and he is expected to avoid the commissioner's exempt list, meaning he should be good to go for Week 1. ",
+      "description": "Puka Nacua returned to practice Sunday.",
+      "metadata": {
+        "analysis": "Nacua had missed practice for much of the past couple of weeks with psoas soreness. The injury appears to be behind him and he is expected to avoid the commissioner's exempt list, meaning he should be good to go for Week 1. ",
+        "description": "Puka Nacua returned to practice Sunday.",
+        "title": "Puka Nacua (psoas) returns to practice ",
+        "topic_id": "1400254143674720256",
+        "url": "https://www.fantasypros.com/nfl/news/605080/puka-nacua-psoas-returns-to-practice.php"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1788209112623,
+      "source": "fantasy_pros",
+      "source_key": "605080",
+      "story_id": "nfl|9493|fantasy_pros|605080|1788209112623",
+      "title": "Puka Nacua (psoas) returns to practice ",
+      "url": "https://www.fantasypros.com/nfl/news/605080/puka-nacua-psoas-returns-to-practice.php"
+    },
+    {
+      "analysis": "Neal will miss the entire season unless he reaches an injury settlement with New Orleans. ",
+      "description": "The Saints placed RB Devin Neal on injured reserve with a hamstring injury.",
+      "metadata": {
+        "analysis": "Neal will miss the entire season unless he reaches an injury settlement with New Orleans. ",
+        "description": "The Saints placed RB Devin Neal on injured reserve with a hamstring injury.",
+        "title": "Devin Neal placed on season-ending IR",
+        "topic_id": "1400254143603417088",
+        "url": "https://www.fantasypros.com/nfl/news/605081/devin-neal-placed-on-season-ending-ir.php"
+      },
+      "nfl_team": "NO",
+      "player_id": "12476",
+      "player_name": "Devin Neal",
+      "position": "RB",
+      "published": 1788209112604,
+      "source": "fantasy_pros",
+      "source_key": "605081",
+      "story_id": "nfl|12476|fantasy_pros|605081|1788209112604",
+      "title": "Devin Neal placed on season-ending IR",
+      "url": "https://www.fantasypros.com/nfl/news/605081/devin-neal-placed-on-season-ending-ir.php"
+    },
+    {
+      "analysis": "Charbonnet will miss at least the first four games of the season. Rookie RB Jadarian Price will open the year as the lead back with George Holani behind him. ",
+      "description": "The Seahawks placed Zach Charbonnet on the PUP list.",
+      "metadata": {
+        "analysis": "Charbonnet will miss at least the first four games of the season. Rookie RB Jadarian Price will open the year as the lead back with George Holani behind him. ",
+        "description": "The Seahawks placed Zach Charbonnet on the PUP list.",
+        "title": "Zach Charbonnet (knee) placed on PUP list ",
+        "topic_id": "1400254143523725312",
+        "url": "https://www.fantasypros.com/nfl/news/605082/zach-charbonnet-knee-placed-on-pup-list.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9753",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
+      "published": 1788209112586,
+      "source": "fantasy_pros",
+      "source_key": "605082",
+      "story_id": "nfl|9753|fantasy_pros|605082|1788209112586",
+      "title": "Zach Charbonnet (knee) placed on PUP list ",
+      "url": "https://www.fantasypros.com/nfl/news/605082/zach-charbonnet-knee-placed-on-pup-list.php"
+    },
     {
       "analysis": "Love was forced to miss the Cardinals' final preseason game due to the high-ankle sprain he suffered earlier this month, but he continues trend in the right direction. Head coach Mike LaFleur outlined Monday that the running back is \"progressing really well,\" and that Love is expected to take another step up in his recovery at practice. The Cardinals will take on the Chargers in Week 1 on Sept. 13, and the rookie first-rounder appears to be on track to make his NFL regular-season debut that day.",
       "description": "Love (ankle) is progressing well in his recovery and is trending toward being available for Week 1, Josh Weinfuss of ESPN.com reports.",
@@ -241,6 +306,26 @@
     },
     {
       "analysis": null,
+      "description": "Atlanta Falcons wide receiver Drake London had the tail end of his 2025 season disrupted after he suffered a knee injury that kept him sidelined from Week 12 through Week 16. However, even in a season in which he ultimately missed five games due to injury, London finished the year with 68 catches for 919 yards and seven touchdowns on 112 targets. Over the last two seasons with Atlanta, London has averaged 9.3 targets per game and hauled in 16 touchdown catches. While the Falcons have a pair of capable pass-catchers in tight end Kyle Pitts Sr. and running back Bijan Robinson, London profiles as the team's most dangerous wide receiver by a mile and should dominate target share once again in 2026. Atlanta's uncertain quarterback situation is a potential limiting factor for London's fantasy upside, but the 25-year-old has proven he can produce through underwhelming quarterback play in the past. Particularly in PPR-scoring leagues, London remains a viable fantasy WR1 despite the less-than-ideal offensive environment around him in Atlanta.",
+      "metadata": {
+        "description": "Atlanta Falcons wide receiver Drake London had the tail end of his 2025 season disrupted after he suffered a knee injury that kept him sidelined from Week 12 through Week 16. However, even in a season in which he ultimately missed five games due to injury, London finished the year with 68 catches for 919 yards and seven touchdowns on 112 targets. Over the last two seasons with Atlanta, London has averaged 9.3 targets per game and hauled in 16 touchdown catches. While the Falcons have a pair of capable pass-catchers in tight end Kyle Pitts Sr. and running back Bijan Robinson, London profiles as the team's most dangerous wide receiver by a mile and should dominate target share once again in 2026. Atlanta's uncertain quarterback situation is a potential limiting factor for London's fantasy upside, but the 25-year-old has proven he can produce through underwhelming quarterback play in the past. Particularly in PPR-scoring leagues, London remains a viable fantasy WR1 despite the less-than-ideal offensive environment around him in Atlanta.",
+        "title": "Drake London Remains a Viable WR1 Option Despite QB Concerns",
+        "topic_id": "1400254136666107904",
+        "url": "https://www.rotoballer.com/player-news/drake-london-remains-a-viable-wr1-option-despite-quarterback-questions-in-atlanta/1920620"
+      },
+      "nfl_team": "ATL",
+      "player_id": "8112",
+      "player_name": "Drake London",
+      "position": "WR",
+      "published": 1788194168000,
+      "source": "rotoballer",
+      "source_key": "219821",
+      "story_id": "nfl|8112|rotoballer|219821|1788194168000",
+      "title": "Drake London Remains a Viable WR1 Option Despite QB Concerns",
+      "url": "https://www.rotoballer.com/player-news/drake-london-remains-a-viable-wr1-option-despite-quarterback-questions-in-atlanta/1920620"
+    },
+    {
+      "analysis": null,
       "description": "Across 12 games in 2025, Chicago Bears wide receiver Rome Odunze recorded 44 catches for 661 yards and six touchdowns on 90 targets. The 24-year-old got off to a hot start to the year, but his production tailed off in the second half of the season, and he missed time with a foot injury down the stretch. Including the Bears' two playoff contests, Odunze recorded more than three receptions in just one out of seven games he suited up in after Week 8. However, Odunze has been healthy throughout this summer, reportedly having no issues with the foot injury that hampered him in 2025. In contrast, Bears wideout Luther Burden III (groin) has been dealing with a groin injury throughout much of training camp. Additionally, Chicago could be looking to funnel more targets to Odunze in 2026 after the team traded away veteran wide receiver DJ Moore to the Buffalo Bills at the start of the offseason. Entering the year, Odunze may be flying under the radar at his current redraft ADP of WR27.",
       "metadata": {
         "description": "Across 12 games in 2025, Chicago Bears wide receiver Rome Odunze recorded 44 catches for 661 yards and six touchdowns on 90 targets. The 24-year-old got off to a hot start to the year, but his production tailed off in the second half of the season, and he missed time with a foot injury down the stretch. Including the Bears' two playoff contests, Odunze recorded more than three receptions in just one out of seven games he suited up in after Week 8. However, Odunze has been healthy throughout this summer, reportedly having no issues with the foot injury that hampered him in 2025. In contrast, Bears wideout Luther Burden III (groin) has been dealing with a groin injury throughout much of training camp. Additionally, Chicago could be looking to funnel more targets to Odunze in 2026 after the team traded away veteran wide receiver DJ Moore to the Buffalo Bills at the start of the offseason. Entering the year, Odunze may be flying under the radar at his current redraft ADP of WR27.",
@@ -264,7 +349,7 @@
       "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) did not practice on Monday and \"seems to be dealing with a lower-body injury,\" according to Jonas Shaffer of The Baltimore Banner. Across 17 games in 2025, the 25-year-old recorded 86 catches for 1,211 yards and five touchdowns on 118 targets. With a fully healthy season from Ravens quarterback Lamar Jackson, Flowers' numbers could take another leap forward in 2026. However, Flowers has been battling an undisclosed injury for about a week now. Ravens head coach Jesse Minter has previously said that the star wide receiver should be ready for Week 1, so it does not appear to be a serious ailment. Still, Flowers' health status is definitely something for fantasy managers to monitor until he returns to the practice field with no restrictions. When he's on the field, Flowers profiles as a high-end fantasy WR2.",
       "metadata": {
         "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) did not practice on Monday and \"seems to be dealing with a lower-body injury,\" according to Jonas Shaffer of The Baltimore Banner. Across 17 games in 2025, the 25-year-old recorded 86 catches for 1,211 yards and five touchdowns on 118 targets. With a fully healthy season from Ravens quarterback Lamar Jackson, Flowers' numbers could take another leap forward in 2026. However, Flowers has been battling an undisclosed injury for about a week now. Ravens head coach Jesse Minter has previously said that the star wide receiver should be ready for Week 1, so it does not appear to be a serious ailment. Still, Flowers' health status is definitely something for fantasy managers to monitor until he returns to the practice field with no restrictions. When he's on the field, Flowers profiles as a high-end fantasy WR2.",
-        "title": "Zay Flowers Does Not Practice on Monday Due to Apparent Lower Body Injury",
+        "title": "Zay Flowers Dealing With Lower-Body Injury",
         "topic_id": "1400249113257197568",
         "url": "https://www.rotoballer.com/player-news/zay-flowers-does-not-practice-on-monday-due-to-apparent-lower-body-injury/1920600"
       },
@@ -276,7 +361,7 @@
       "source": "rotoballer",
       "source_key": "219818",
       "story_id": "nfl|9997|rotoballer|219818|1788193087000",
-      "title": "Zay Flowers Does Not Practice on Monday Due to Apparent Lower Body Injury",
+      "title": "Zay Flowers Dealing With Lower-Body Injury",
       "url": "https://www.rotoballer.com/player-news/zay-flowers-does-not-practice-on-monday-due-to-apparent-lower-body-injury/1920600"
     },
     {
