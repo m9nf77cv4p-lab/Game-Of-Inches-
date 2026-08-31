@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1425**
+- Stored stories: **1426**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Kaleb Johnson** — Kaleb Johnson Surging Up Draft Boards Amid Path to Fantasy Relevance (2026-08-31T13:22:11Z)
+- **NEW — Kyren Williams** — Kyren Williams Facing More Workload Risk (2026-08-31T13:33:03Z)
+  - Source: https://www.rotoballer.com/player-news/kyren-williams-facing-more-workload-risk/1920484
+- **Kaleb Johnson** — Kaleb Johnson Surging Up Draft Boards Amid Path to Fantasy Relevance (2026-08-31T13:22:11Z)
   - Source: https://www.rotoballer.com/player-news/kaleb-johnson-surging-up-draft-boards-amid-path-to-fantasy-relevance/1920472
 - **Kaytron Allen** — Kaytron Allen's Path to Early-Season Work Gets Clearer (2026-08-31T13:12:15Z)
   - Source: https://www.rotoballer.com/player-news/kaytron-allens-path-to-early-season-work-gets-clearer/1920461
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/harold-fannin-jr-has-position-all-to-himself-comes-with-a-steep-price-tag/1919412
 - **Rashee Rice** — Rashee Rice - Logs 10 snaps in preseason finale (2026-08-29T23:36:05Z)
   - Rice and some of Kansas City's key offensive starters got to log some reps during the first quarter before being pulled. Though he didn't produce any offensive output, it's notable that Rice took part in his first game action since he landed on IR due to a concussion late last December. Rice had a tumultuous offseason, as he spent some time in jail due to a probation violation and also had a minor procedure on his right knee, but he appears healthy and isn't expected to face NFL discipline for the legal issue. As such, he can be penciled in as the Chiefs' top WR heading into Week 1 versus Denver on Monday, Sept. 14.
-- **Jaxon Smith-Njigba** — Jaxon Smith-Njigba Worth the Investment in First Round of Fantasy Drafts (2026-08-29T23:31:39Z)
-  - Source: https://www.rotoballer.com/player-news/jaxon-smith-njigba-worth-the-investment-in-first-round-of-fantasy-drafts/1919410
