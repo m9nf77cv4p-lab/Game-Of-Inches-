@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T13:21:15Z",
+  "last_checked_at": "2026-08-31T13:31:20Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11581|rotoballer|219774|1788167648000"
+    "nfl|8167|rotoballer|219775|1788168310000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Green Bay Packers wide receiver Christian Watson has been a popular breakout candidate heading into his fifth season, and early-season uncertainty in the Packers' backfield could lead to even more involvement to begin the year. The Packers have had one of the run-heaviest offenses in the league over the past two seasons, but after Josh Jacobs was placed on the Commissioner's Exempt List as a result of misdemeanor charges stemming from his May arrest, Green Bay is prepared to begin the season with MarShawn Lloyd and his six career carries in the starting role. Backing up Lloyd will be veteran Chris Brooks and Kaleb Johnson, who was acquired via trade from the Steelers on Sunday, and a potential fall-off at the position could lead to a philosophical shift and more passing to begin the year. Watson has already been pegged as the most obvious benefactor of the offseason departures of Romeo Doubs and Dontayvion Wicks, and higher passing volume to begin the year could allow him to repeat or even surpass the WR13 pace at which he played after returning from injury halfway through the 2025 season.",
+      "metadata": {
+        "description": "Green Bay Packers wide receiver Christian Watson has been a popular breakout candidate heading into his fifth season, and early-season uncertainty in the Packers' backfield could lead to even more involvement to begin the year. The Packers have had one of the run-heaviest offenses in the league over the past two seasons, but after Josh Jacobs was placed on the Commissioner's Exempt List as a result of misdemeanor charges stemming from his May arrest, Green Bay is prepared to begin the season with MarShawn Lloyd and his six career carries in the starting role. Backing up Lloyd will be veteran Chris Brooks and Kaleb Johnson, who was acquired via trade from the Steelers on Sunday, and a potential fall-off at the position could lead to a philosophical shift and more passing to begin the year. Watson has already been pegged as the most obvious benefactor of the offseason departures of Romeo Doubs and Dontayvion Wicks, and higher passing volume to begin the year could allow him to repeat or even surpass the WR13 pace at which he played after returning from injury halfway through the 2025 season.",
+        "title": "Christian Watson Could See Expanded Early Role with Top Running Back Sidelined",
+        "topic_id": "1400144663326789632",
+        "url": "https://www.rotoballer.com/player-news/christian-watson-could-see-expanded-early-role-with-top-running-back-sidelined/1920241"
+      },
+      "nfl_team": "GB",
+      "player_id": "8167",
+      "player_name": "Christian Watson",
+      "position": "WR",
+      "published": 1788168310000,
+      "source": "rotoballer",
+      "source_key": "219775",
+      "story_id": "nfl|8167|rotoballer|219775|1788168310000",
+      "title": "Christian Watson Could See Expanded Early Role with Top Running Back Sidelined",
+      "url": "https://www.rotoballer.com/player-news/christian-watson-could-see-expanded-early-role-with-top-running-back-sidelined/1920241"
+    },
     {
       "analysis": null,
       "description": "A rash of injuries has limited Green Bay Packers running back MarShawn Lloyd to only one game since being drafted in the third round of the 2024 NFL Draft, but his return to health could not have come at a better time. Starting running back Josh Jacobs was placed on the Commissioner's Exempt List on Sunday after being formally charged with two misdemeanor counts stemming from his May arrest, and with the roster being trimmed down to 53 players on the same day, the Packers are poised to enter the season with Lloyd as the number one running back. He will be backed up by Chris Brooks and Kaleb Johnson, who was acquired via trade on cutdown day and could take some time to get up to speed in a new offense. Lloyd has looked sharp throughout training camp and the preseason, and if he can stay healthy to begin the year, he has RB1 upside in Matt LaFleur's run-heavy offense, with Jacobs' return date entirely in the hands of Commissioner Roger Goodell.",
