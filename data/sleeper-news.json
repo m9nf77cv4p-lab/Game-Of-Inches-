@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T03:13:10Z",
+  "last_checked_at": "2026-08-31T03:23:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 278,
   "new_story_ids": [
-    "nfl|13281|rotoballer|219762|1788130987000"
+    "nfl|9229|rotoballer|219764|1788131645000"
   ],
   "schema_version": 1,
   "source": {
@@ -93,6 +93,26 @@
       "story_id": "nfl|13281|fantasy_pros|604978|1788131759432",
       "title": "Jordyn Tyson (hamstring) placed on IR",
       "url": "https://www.fantasypros.com/nfl/news/604978/jordyn-tyson-hamstring-placed-on-ir.php"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts quarterback Anthony Richardson Sr. has made the team's initial 53-man roster. There had been plenty of chatter about Richardson potentially being cut or traded before Sunday's roster deadline, but he ultimately remains with the Colts for the time being. The former No. 4 pick once again projects to occupy a depth role behind starter Daniel Jones, and there's a chance that he could even fall to third on the depth chart behind Riley Leonard. Richardson hasn't seen meaningful playing time since the 2024 season, when he completed just 47.7% of his passes for 1,814 passing yards, eight passing touchdowns, and 12 interceptions. He also had 499 rushing yards, six rushing touchdowns, and three fumbles lost that year. The 24-year-old has tremendous rushing upside, but injuries, turnovers, and an atrocious completion rate have kept him from living up to his early first-round draft capital. A change of scenery seems likely at some point, but as long as Richardson remains with the Colts, he should be avoided entirely in fantasy football.",
+      "metadata": {
+        "description": "Indianapolis Colts quarterback Anthony Richardson Sr. has made the team's initial 53-man roster. There had been plenty of chatter about Richardson potentially being cut or traded before Sunday's roster deadline, but he ultimately remains with the Colts for the time being. The former No. 4 pick once again projects to occupy a depth role behind starter Daniel Jones, and there's a chance that he could even fall to third on the depth chart behind Riley Leonard. Richardson hasn't seen meaningful playing time since the 2024 season, when he completed just 47.7% of his passes for 1,814 passing yards, eight passing touchdowns, and 12 interceptions. He also had 499 rushing yards, six rushing touchdowns, and three fumbles lost that year. The 24-year-old has tremendous rushing upside, but injuries, turnovers, and an atrocious completion rate have kept him from living up to his early first-round draft capital. A change of scenery seems likely at some point, but as long as Richardson remains with the Colts, he should be avoided entirely in fantasy football.",
+        "title": "Anthony Richardson Sr. Sticking with the Colts for Now",
+        "topic_id": "1399991136918999040",
+        "url": "https://www.rotoballer.com/player-news/anthony-richardson-sr-sticking-with-the-colts-for-now/1920111"
+      },
+      "nfl_team": "IND",
+      "player_id": "9229",
+      "player_name": "Anthony Richardson",
+      "position": "QB",
+      "published": 1788131645000,
+      "source": "rotoballer",
+      "source_key": "219764",
+      "story_id": "nfl|9229|rotoballer|219764|1788131645000",
+      "title": "Anthony Richardson Sr. Sticking with the Colts for Now",
+      "url": "https://www.rotoballer.com/player-news/anthony-richardson-sr-sticking-with-the-colts-for-now/1920111"
     },
     {
       "analysis": "This move was merely procedural, as Charbonnet is still far away from returning to action following the ACL tear he suffered in his left knee in the divisional round on Jan. 17. In any case, he'll be sidelined for at least the first four contests of the season, while some combination of rookie first-round pick Jadarian Price and holdover George Holani will pace Seattle's backfield Week 1 and beyond.",

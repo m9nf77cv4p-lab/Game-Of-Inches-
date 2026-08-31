@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1391**
+- Stored stories: **1392**
 - Newly captured: **1**
 
 ## Latest news
@@ -16,12 +16,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jordyn Tyson** — Jordyn Tyson (hamstring) placed on IR (2026-08-30T23:15:59.432000Z)
   - Tyson is expected to miss roughly two months with a hamstring injury. He has been dealing with hamstring issues since college at Arizona State. 
   - Source: https://www.fantasypros.com/nfl/news/604978/jordyn-tyson-hamstring-placed-on-ir.php
+- **NEW — Anthony Richardson** — Anthony Richardson Sr. Sticking with the Colts for Now (2026-08-30T23:14:05Z)
+  - Source: https://www.rotoballer.com/player-news/anthony-richardson-sr-sticking-with-the-colts-for-now/1920111
 - **Zach Charbonnet** — Zach Charbonnet - Opening season on reserve/PUP list (2026-08-30T23:06:40Z)
   - This move was merely procedural, as Charbonnet is still far away from returning to action following the ACL tear he suffered in his left knee in the divisional round on Jan. 17. In any case, he'll be sidelined for at least the first four contests of the season, while some combination of rookie first-round pick Jadarian Price and holdover George Holani will pace Seattle's backfield Week 1 and beyond.
 - **J.J. McCarthy** — J.J. McCarthy makes Vikings 53-man roster (2026-08-30T23:05:59.619000Z)
   - There was some speculation that McCarthy might be left off the initial roster. Those turned out to not be true as he officially makes it. He'll be behind Kyler Murray and potentially Carson Wentz as well to open the season. 
   - Source: https://www.fantasypros.com/nfl/news/604969/jj-mccarthy-makes-vikings-53-man-roster.php
-- **NEW — Jordyn Tyson** — Jordyn Tyson Officially Placed on Injured Reserve (2026-08-30T23:03:07Z)
+- **Jordyn Tyson** — Jordyn Tyson Officially Placed on Injured Reserve (2026-08-30T23:03:07Z)
   - Source: https://www.rotoballer.com/player-news/jordyn-tyson-officially-placed-on-injured-reserve/1920104
 - **James Conner** — James Conner (foot) placed on injured reserve/designated to return (2026-08-30T22:45:59.897000Z)
   - Conner had been working his way back to during training camp. He will miss at least the first four games of the regular season. 
@@ -218,5 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/stefon-diggs-ready-to-outplay-his-adp-in-2026/1919241
 - **Jalen McMillan** — Jalen McMillan - Optimism for Week 1 (2026-08-29T14:30:52Z)
   - McMillan has been recovering from a knee injury he sustained in early August, which has limited his reps in training camp practices and prevented him from playing in each of the Buccaneers' three preseason games. There's optimism that the third-year wideout will not miss regular-season action, but his practice participation over the next two weeks will provide more clarity on his status for Week 1. With Mike Evans now in San Francisco, McMillan is projected to be Tampa Bay's WR3 this season behind Chris Godwin and Emeka Egbuka (toe), with Tez Johnson and rookie third-rounder Ted Hurst also in the mix for snaps on offense.
-- **Emeka Egbuka** — Emeka Egbuka - 'Hopeful' for Week 1 (2026-08-29T14:24:16Z)
-  - Egbuka continues working his way back from the toe injury he sustained earlier this month, and while the door is open for him to take the field in Tampa Bay's season opener, Bowles is not yet sure if he will do so. Further updates on Egbuka's status will come, but perhaps not officially until the Buccaneers begin to release injury reports.
