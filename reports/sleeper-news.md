@@ -3,7 +3,7 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1384**
-- Newly captured: **2**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -37,9 +37,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/604939/tank-dell-knee-placed-on-ir-designated-to-return.php
 - **Taylen Green** — Taylen Green - Sticking around Cleveland (2026-08-30T21:24:31Z)
   - Green was selected in the sixth round of this year's draft after finishing his college career at Arkansas in 2025. The quarterback saw limited action during the preseason, completing five of seven passes for 27 yards while also adding an eight-yard rush. The Browns placed Dillon Gabriel (back) on injured reserve with a designation to return Sunday, and Green will get a chance to serve as the team's No. 3 QB behind Deshaun Watson and Sanders in Gabriel's absence.
-- **NEW — Zach Charbonnet** — Zach Charbonnet Lands on PUP List to Open the Season (2026-08-30T20:05:09Z)
+- **Zach Charbonnet** — Zach Charbonnet Lands on PUP List to Open the Season (2026-08-30T20:05:09Z)
   - Source: https://www.rotoballer.com/player-news/zach-charbonnet-lands-on-pup-list-to-open-the-season/1920024
-- **NEW — Ashton Jeanty** — Ashton Jeanty Avoids Stint on Injured Reserve (2026-08-30T20:00:12Z)
+- **Ashton Jeanty** — Ashton Jeanty Avoids Stint on Injured Reserve (2026-08-30T20:00:12Z)
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-avoids-stint-on-injured-reserve/1920017
 - **James Conner** — James Conner to Begin the Season on Injured Reserve (2026-08-30T19:52:12Z)
   - Source: https://www.rotoballer.com/player-news/james-conner-to-begin-the-season-on-injured-reserve/1920010

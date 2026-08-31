@@ -1,11 +1,8 @@
 {
-  "last_checked_at": "2026-08-31T00:11:12Z",
+  "last_checked_at": "2026-08-31T00:31:16Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 279,
-  "new_story_ids": [
-    "nfl|12527|rotoballer|219749|1788120012000",
-    "nfl|9753|rotoballer|219751|1788120309000"
-  ],
+  "monitored_player_count": 278,
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
