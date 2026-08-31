@@ -2,15 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1392**
+- Stored stories: **1393**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Adam Randall** — Adam Randall - Placed on IR, designated to return (2026-08-31T03:52:15Z)
+- **Adam Randall** — Adam Randall - Placed on IR, designated to return (2026-08-31T03:52:15Z)
   - Randall played in two of the team's three preseason contests, turning 17 carries into 71 yards and a score while also catching four of six targets for 47 yards. The running back missed the second game of the preseason with an undisclosed injury, and it's possible that he aggravated the previous injury in Baltimore's preseason finale against the Commanders on Friday. Randall will now be force to sit out at least four contests to begin the year while on IR, so the earliest he'll be able to make his NFL regular-season debut will be Oct. 11 in Atlanta. In his absence, Rasheen Ali is expected to operate as the Ravens' No. 3 option in the backfield behind Derrick Henry and Justice Hill to begin the 2026 campaign.
 - **Devin Neal** — Devin Neal - Placed on injured reserve (2026-08-31T00:36:41Z)
   - Neal will be required to stay on IR throughout the entirety of the 2026 regular season unless he is waived with an injury designation. The 2025 sixth-rounder sustained a hamstring injury during the Saints' 34-0 preseason loss to the Rams on Aug. 22. Neal rushed 57 times for 206 yards and two touchdowns over 10 regular-season games in 2025 but will likely need to wait until 2027 for another shot in the backfield.
+- **NEW — Adam Randall** — Adam Randall Opening the Season on Injured Reserve (2026-08-31T00:12:09Z)
+  - Source: https://www.rotoballer.com/player-news/adam-randall-opening-the-season-on-injured-reserve/1920133
 - **Puka Nacua** — Puka Nacua - Back at practice Sunday (2026-08-30T23:28:37Z)
   - Nacua made an early exit from the Rams' joint practice with the Cowboys on Aug. 11 and eventually was diagnosed with psoas soreness. Now almost three weeks removed from the initial injury, he's taking a step in the right direction by returning to drills. Los Angeles opens the season Thursday, Sept. 10 against the 49ers in Melbourne, Australia, a contest for which the team likely is aiming for him to be available.
 - **Tyrone Tracy** — Tyrone Tracy - Makes initial 53-man roster (2026-08-30T23:20:40Z)
@@ -218,5 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/will-garrett-wilsons-pure-talent-finally-equate-to-fantasy-success/1919257
 - **Luther Burden** — Luther Burden III "Moving Well," Trending Toward Week 1 Availability (2026-08-29T15:10:10Z)
   - Source: https://www.rotoballer.com/player-news/luther-burden-moving-well-trending-toward-week-1-availability/1919249
-- **Stefon Diggs** — Stefon Diggs Ready to Outplay His ADP in 2026? (2026-08-29T14:52:14Z)
-  - Source: https://www.rotoballer.com/player-news/stefon-diggs-ready-to-outplay-his-adp-in-2026/1919241

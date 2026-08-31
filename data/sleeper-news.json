@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T04:03:57Z",
+  "last_checked_at": "2026-08-31T04:24:18Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 278,
   "new_story_ids": [
-    "nfl|13302|rotowire|635514|1788148335000"
+    "nfl|13302|rotoballer|219771|1788135129000"
   ],
   "schema_version": 1,
   "source": {
@@ -52,6 +52,26 @@
       "story_id": "nfl|12476|rotowire|635476|1788136601000",
       "title": "Devin Neal - Placed on injured reserve",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens running back Adam Randall (undisclosed) was placed on injured reserve ahead of Sunday's 53-man roster deadline. The rookie had 17 carries, 71 rushing yards, and one rushing touchdown across two preseason games, and he also caught four passes for an additional 47 receiving yards. We don't know exactly what ailment Randall is dealing with, but it was evidently severe enough to sideline him for at least the first four games of the 2026 regular season. The Clemson product occupies one of the two IR spots for players who are designated to return, so he's now eligible to be activated as early as Week 5. In the meantime, Rasheen Ali should operate as the Ravens' No. 3 running back behind Derrick Henry and Justice Hill.",
+      "metadata": {
+        "description": "Baltimore Ravens running back Adam Randall (undisclosed) was placed on injured reserve ahead of Sunday's 53-man roster deadline. The rookie had 17 carries, 71 rushing yards, and one rushing touchdown across two preseason games, and he also caught four passes for an additional 47 receiving yards. We don't know exactly what ailment Randall is dealing with, but it was evidently severe enough to sideline him for at least the first four games of the 2026 regular season. The Clemson product occupies one of the two IR spots for players who are designated to return, so he's now eligible to be activated as early as Week 5. In the meantime, Rasheen Ali should operate as the Ravens' No. 3 running back behind Derrick Henry and Justice Hill.",
+        "title": "Adam Randall Opening the Season on Injured Reserve",
+        "topic_id": "1400006240846766080",
+        "url": "https://www.rotoballer.com/player-news/adam-randall-opening-the-season-on-injured-reserve/1920133"
+      },
+      "nfl_team": "BAL",
+      "player_id": "13302",
+      "player_name": "Adam Randall",
+      "position": "RB",
+      "published": 1788135129000,
+      "source": "rotoballer",
+      "source_key": "219771",
+      "story_id": "nfl|13302|rotoballer|219771|1788135129000",
+      "title": "Adam Randall Opening the Season on Injured Reserve",
+      "url": "https://www.rotoballer.com/player-news/adam-randall-opening-the-season-on-injured-reserve/1920133"
     },
     {
       "analysis": "Nacua made an early exit from the Rams' joint practice with the Cowboys on Aug. 11 and eventually was diagnosed with psoas soreness. Now almost three weeks removed from the initial injury, he's taking a step in the right direction by returning to drills. Los Angeles opens the season Thursday, Sept. 10 against the 49ers in Melbourne, Australia, a contest for which the team likely is aiming for him to be available.",
