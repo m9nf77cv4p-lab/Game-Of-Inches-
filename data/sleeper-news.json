@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-31T21:17:22Z",
+  "last_checked_at": "2026-08-31T21:37:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|12533|rotowire|635614|1788210709000"
+    "nfl|13287|rotoballer|219824|1788196928000",
+    "nfl|4217|rotoballer|219825|1788197348000"
   ],
   "schema_version": 1,
   "source": {
@@ -340,6 +341,46 @@
       "story_id": "nfl|13330|rotowire|635595|1788202616000",
       "title": "Kenyon Sadiq - On track for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers tight end George Kittle (Achilles) will be eased into practices over the next three days, head coach Kyle Shanahan told Matt Barrows of The Athletic. Kittle will not be a full-go this week as he prepares to potentially make the trip with the team to Australia to take on the division-rival Los Angeles Rams next Thursday. We will have a better idea of the veteran tight end's Week 1 availability once the 49ers release their official practice reports for Week 1, which will start next Monday. He was just activated from the Physically Unable to Perform list last week after tearing his Achilles tendon in the playoffs in January. Kittle has been targeting Week 1 for his return all offseason, but the Niners may play it safe and keep him out, especially when considering how banged up they have been over the last couple of seasons. If Kittle is inactive against the Rams, Jake Tonges figures to be a tight end streamer in fantasy, although Luke Farrell could also get involved. Injury concerns for Kittle have caused him to slip in the rankings in 2026 as a low-end TE1.",
+      "metadata": {
+        "description": "San Francisco 49ers tight end George Kittle (Achilles) will be eased into practices over the next three days, head coach Kyle Shanahan told Matt Barrows of The Athletic. Kittle will not be a full-go this week as he prepares to potentially make the trip with the team to Australia to take on the division-rival Los Angeles Rams next Thursday. We will have a better idea of the veteran tight end's Week 1 availability once the 49ers release their official practice reports for Week 1, which will start next Monday. He was just activated from the Physically Unable to Perform list last week after tearing his Achilles tendon in the playoffs in January. Kittle has been targeting Week 1 for his return all offseason, but the Niners may play it safe and keep him out, especially when considering how banged up they have been over the last couple of seasons. If Kittle is inactive against the Rams, Jake Tonges figures to be a tight end streamer in fantasy, although Luke Farrell could also get involved. Injury concerns for Kittle have caused him to slip in the rankings in 2026 as a low-end TE1.",
+        "title": "George Kittle to be Eased into Practice This Week",
+        "topic_id": "1400266720366587904",
+        "url": "https://www.rotoballer.com/player-news/george-kittle-to-be-eased-into-practice-this-week/1920662"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788197348000,
+      "source": "rotoballer",
+      "source_key": "219825",
+      "story_id": "nfl|4217|rotoballer|219825|1788197348000",
+      "title": "George Kittle to be Eased into Practice This Week",
+      "url": "https://www.rotoballer.com/player-news/george-kittle-to-be-eased-into-practice-this-week/1920662"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals head coach Mike LaFleur said on Monday that rookie first-round running back Jeremiyah Love (ankle) is \"progressing really well\" toward playing in Week 1 against the Los Angeles Chargers after taking another step on Sunday, according to Josh Weinfuss of ESPN. LaFleur said Love was set to take another step forward on Monday. The third overall pick out of Notre Dame suffered a high-ankle sprain in the preseason earlier in August, putting his availability for the 2026 regular-season opener in question. Although Love is heading in the right direction, fantasy managers may want to prepare for a limited workload in his NFL debut in the regular season against the Bolts if he is not quite 100%. Trey Benson (knee) is out for the year, and veteran James Conner (foot) is starting on Injured Reserve, but Tyler Allgeier figures to be the Cardinals' lead ball-carrier in Week 1, potentially even if Love is active. Love has clear three-down abilities and a future as a bell-cow back in the NFL, but the Cardinals are expected to ease him into his rookie season. RotoBaller currently has the 21-year-old ranked as the RB18, right behind the Chicago Bears' D'Andre Swift.",
+      "metadata": {
+        "description": "Arizona Cardinals head coach Mike LaFleur said on Monday that rookie first-round running back Jeremiyah Love (ankle) is \"progressing really well\" toward playing in Week 1 against the Los Angeles Chargers after taking another step on Sunday, according to Josh Weinfuss of ESPN. LaFleur said Love was set to take another step forward on Monday. The third overall pick out of Notre Dame suffered a high-ankle sprain in the preseason earlier in August, putting his availability for the 2026 regular-season opener in question. Although Love is heading in the right direction, fantasy managers may want to prepare for a limited workload in his NFL debut in the regular season against the Bolts if he is not quite 100%. Trey Benson (knee) is out for the year, and veteran James Conner (foot) is starting on Injured Reserve, but Tyler Allgeier figures to be the Cardinals' lead ball-carrier in Week 1, potentially even if Love is active. Love has clear three-down abilities and a future as a bell-cow back in the NFL, but the Cardinals are expected to ease him into his rookie season. RotoBaller currently has the 21-year-old ranked as the RB18, right behind the Chicago Bears' D'Andre Swift.",
+        "title": "Jeremiyah Love \"Progressing Really Well\" Toward Playing in Week 1",
+        "topic_id": "1400265463220457472",
+        "url": "https://www.rotoballer.com/player-news/jeremiyah-love-progressing-really-well-toward-playing-in-week-1/1920658"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788196928000,
+      "source": "rotoballer",
+      "source_key": "219824",
+      "story_id": "nfl|13287|rotoballer|219824|1788196928000",
+      "title": "Jeremiyah Love \"Progressing Really Well\" Toward Playing in Week 1",
+      "url": "https://www.rotoballer.com/player-news/jeremiyah-love-progressing-really-well-toward-playing-in-week-1/1920658"
     },
     {
       "analysis": null,
