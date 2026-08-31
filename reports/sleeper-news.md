@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1427**
+- Stored stories: **1428**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Marvin Harrison** — Marvin Harrison Jr. Building Momentum for Redraft Rebound (2026-08-31T13:42:18Z)
+- **NEW — J.J. McCarthy** — J.J. McCarthy Facing Multi-Week Absence With Ankle Injury (2026-08-31T13:56:06Z)
+  - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-facing-multi-week-absence-with-ankle-injury/1920494
+- **Marvin Harrison** — Marvin Harrison Jr. Building Momentum for Redraft Rebound (2026-08-31T13:42:18Z)
   - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-building-momentum-for-redraft-rebound/1920488
 - **Kyren Williams** — Kyren Williams Facing More Workload Risk (2026-08-31T13:33:03Z)
   - Source: https://www.rotoballer.com/player-news/kyren-williams-facing-more-workload-risk/1920484
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/quarterback-situation-baked-into-breece-halls-current-adp/1919416
 - **DeVonta Smith** — DeVonta Smith Taking on WR1 Responsibilities in 2026 (2026-08-30T00:20:08Z)
   - Source: https://www.rotoballer.com/player-news/devonta-smith-taking-on-wr1-responsibilities-in-2026/1919414
-- **Harold Fannin** — Harold Fannin Jr. Has Position All to Himself, Comes with a Steep Price Tag (2026-08-30T00:17:10Z)
-  - Source: https://www.rotoballer.com/player-news/harold-fannin-jr-has-position-all-to-himself-comes-with-a-steep-price-tag/1919412

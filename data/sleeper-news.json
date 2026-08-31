@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T17:55:12Z",
+  "last_checked_at": "2026-08-31T18:05:32Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11628|rotoballer|219800|1788183738000"
+    "nfl|11565|rotoballer|219801|1788184566000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings quarterback J.J. McCarthy (ankle) is expected to miss multiple weeks, according to Adam Schefter. McCarthy suffered the injury during Minnesota's Aug. 22 preseason game against Baltimore and was unable to recover in time for Friday's finale against Denver. The Vikings had hoped to give him the entire first half in that game, but Carson Wentz started instead. Minnesota initially considered McCarthy day-to-day, making Schefter's new timetable a notable change. The 2024 first-round pick still made the Vikings' initial 53-man roster alongside Kyler Murray, Wentz and Max Brosmer. Murray was already named the starter earlier this month, so McCarthy's absence does not change Minnesota's QB1 situation. McCarthy started 10 games last season, throwing for 1,632 yards, 11 touchdowns and 12 interceptions while adding 181 rushing yards and four scores. His injury does leave Wentz and Brosmer as Minnesota's healthy options behind Murray for the opening weeks.",
+      "metadata": {
+        "description": "Minnesota Vikings quarterback J.J. McCarthy (ankle) is expected to miss multiple weeks, according to Adam Schefter. McCarthy suffered the injury during Minnesota's Aug. 22 preseason game against Baltimore and was unable to recover in time for Friday's finale against Denver. The Vikings had hoped to give him the entire first half in that game, but Carson Wentz started instead. Minnesota initially considered McCarthy day-to-day, making Schefter's new timetable a notable change. The 2024 first-round pick still made the Vikings' initial 53-man roster alongside Kyler Murray, Wentz and Max Brosmer. Murray was already named the starter earlier this month, so McCarthy's absence does not change Minnesota's QB1 situation. McCarthy started 10 games last season, throwing for 1,632 yards, 11 touchdowns and 12 interceptions while adding 181 rushing yards and four scores. His injury does leave Wentz and Brosmer as Minnesota's healthy options behind Murray for the opening weeks.",
+        "title": "J.J. McCarthy Facing Multi-Week Absence With Ankle Injury",
+        "topic_id": "1400212618836180992",
+        "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-facing-multi-week-absence-with-ankle-injury/1920494"
+      },
+      "nfl_team": "MIN",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1788184566000,
+      "source": "rotoballer",
+      "source_key": "219801",
+      "story_id": "nfl|11565|rotoballer|219801|1788184566000",
+      "title": "J.J. McCarthy Facing Multi-Week Absence With Ankle Injury",
+      "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-facing-multi-week-absence-with-ankle-injury/1920494"
+    },
     {
       "analysis": null,
       "description": "Arizona Cardinals wide receiver Marvin Harrison Jr. finally had a normal summer after injuries wrecked most of his second season. Harrison managed 41 catches for 608 yards and four touchdowns in 12 games last year while dealing with a concussion, an appendectomy, a heel injury and a separate foot issue that eventually landed him on injured reserve. This August has looked much better. He made plays throughout camp, including a 50-plus-yard catch from Jacoby Brissett on Aug. 4, then caught a seven-yard touchdown in his first preseason action against Las Vegas. Mike LaFleur has also been clear about the role, calling Harrison Arizona's X receiver while planning to move him around through formations and motion. Trey McBride and Michael Wilson are coming off huge seasons, so the targets won't simply funnel his way. Harrison still has to earn them. RotoBaller has him at WR32 in half-PPR, though, and that's a much easier price to stomach after a healthy summer. He heads into Week 1 with a much cleaner redraft case than he had a month ago.",
