@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1447**
-- Newly captured: **1**
+- Stored stories: **1449**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Jeremiyah Love** — Jeremiyah Love - Trending toward Week 1 return (2026-08-31T20:29:49Z)
+  - Love was forced to miss the Cardinals' final preseason game due to the high-ankle sprain he suffered earlier this month, but he continues trend in the right direction. Head coach Mike LaFleur outlined Monday that the running back is "progressing really well," and that Love is expected to take another step up in his recovery at practice. The Cardinals will take on the Chargers in Week 1 on Sept. 13, and the rookie first-rounder appears to be on track to make his NFL regular-season debut that day.
 - **Adam Randall** — Adam Randall placed on IR (2026-08-31T20:10:14.912000Z)
   - Randall will be eligible to return after the first four weeks. 
   - Source: https://www.fantasypros.com/nfl/news/605062/adam-randall-placed-on-ir.php
@@ -32,7 +34,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
 - **Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
   - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
-- **NEW — Zay Flowers** — Zay Flowers Does Not Practice on Monday Due to Apparent Lower Body Injury (2026-08-31T16:18:07Z)
+- **NEW — Rome Odunze** — Rome Odunze Could Be Poised for a Breakout Campaign in 2026 (2026-08-31T16:27:09Z)
+  - Source: https://www.rotoballer.com/player-news/rome-odunze-could-be-poised-for-a-breakout-campaign-in-2026/1920607
+- **Zay Flowers** — Zay Flowers Does Not Practice on Monday Due to Apparent Lower Body Injury (2026-08-31T16:18:07Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-does-not-practice-on-monday-due-to-apparent-lower-body-injury/1920600
 - **Blake Corum** — Blake Corum a Potential Draft-Day Bust at Current ADP (2026-08-31T16:09:08Z)
   - Source: https://www.rotoballer.com/player-news/blake-corum-a-potential-draft-day-bust-at-current-adp/1920590
@@ -215,7 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/davante-adams-has-helped-his-redraft-case-this-summer/1919713
 - **Taylen Green** — Browns Want to Keep Rookie QB Taylen Green on the Roster (2026-08-30T13:14:07Z)
   - Source: https://www.rotoballer.com/player-news/browns-want-to-keep-rookie-qb-taylen-green-on-the-roster/1919704
-- **Bucky Irving** — Bucky Irving Could Lose Goal-Line Touches (2026-08-30T12:14:06Z)
-  - Source: https://www.rotoballer.com/player-news/bucky-irving-could-lose-goal-line-touches/1919663
-- **Keenan Allen** — Keenan Allen - Arrested on DUI charges (2026-08-30T12:13:56Z)
-  - Per the report, Allen was arrested overnight in Indianapolis "on preliminary charges of (DWI) and DWI endangering a person." The Colts, via Kevin Bowen of 107.5 The Fan, issued a statement saying, "We are aware of the incident involving Allen last night. We are in the process of gathering more information and have no further comment at this time."

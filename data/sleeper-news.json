@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-31T20:27:05Z",
+  "last_checked_at": "2026-08-31T20:37:10Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|9997|rotoballer|219818|1788193087000"
+    "nfl|11620|rotoballer|219819|1788193629000",
+    "nfl|13287|rotowire|635608|1788208189000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Love was forced to miss the Cardinals' final preseason game due to the high-ankle sprain he suffered earlier this month, but he continues trend in the right direction. Head coach Mike LaFleur outlined Monday that the running back is \"progressing really well,\" and that Love is expected to take another step up in his recovery at practice. The Cardinals will take on the Chargers in Week 1 on Sept. 13, and the rookie first-rounder appears to be on track to make his NFL regular-season debut that day.",
+      "description": "Love (ankle) is progressing well in his recovery and is trending toward being available for Week 1, Josh Weinfuss of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Love was forced to miss the Cardinals' final preseason game due to the high-ankle sprain he suffered earlier this month, but he continues trend in the right direction. Head coach Mike LaFleur outlined Monday that the running back is \"progressing really well,\" and that Love is expected to take another step up in his recovery at practice. The Cardinals will take on the Chargers in Week 1 on Sept. 13, and the rookie first-rounder appears to be on track to make his NFL regular-season debut that day.",
+        "description": "Love (ankle) is progressing well in his recovery and is trending toward being available for Week 1, Josh Weinfuss of ESPN.com reports.",
+        "title": "Jeremiyah Love - Trending toward Week 1 return",
+        "topic_id": "1400250382604644352"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788208189000,
+      "source": "rotowire",
+      "source_key": "635608",
+      "story_id": "nfl|13287|rotowire|635608|1788208189000",
+      "title": "Jeremiyah Love - Trending toward Week 1 return",
+      "url": null
+    },
     {
       "analysis": "Randall will be eligible to return after the first four weeks. ",
       "description": "The Ravens placed Adam Randall on injured reserve.",
@@ -217,6 +238,26 @@
       "story_id": "nfl|13330|rotowire|635595|1788202616000",
       "title": "Kenyon Sadiq - On track for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Across 12 games in 2025, Chicago Bears wide receiver Rome Odunze recorded 44 catches for 661 yards and six touchdowns on 90 targets. The 24-year-old got off to a hot start to the year, but his production tailed off in the second half of the season, and he missed time with a foot injury down the stretch. Including the Bears' two playoff contests, Odunze recorded more than three receptions in just one out of seven games he suited up in after Week 8. However, Odunze has been healthy throughout this summer, reportedly having no issues with the foot injury that hampered him in 2025. In contrast, Bears wideout Luther Burden III (groin) has been dealing with a groin injury throughout much of training camp. Additionally, Chicago could be looking to funnel more targets to Odunze in 2026 after the team traded away veteran wide receiver DJ Moore to the Buffalo Bills at the start of the offseason. Entering the year, Odunze may be flying under the radar at his current redraft ADP of WR27.",
+      "metadata": {
+        "description": "Across 12 games in 2025, Chicago Bears wide receiver Rome Odunze recorded 44 catches for 661 yards and six touchdowns on 90 targets. The 24-year-old got off to a hot start to the year, but his production tailed off in the second half of the season, and he missed time with a foot injury down the stretch. Including the Bears' two playoff contests, Odunze recorded more than three receptions in just one out of seven games he suited up in after Week 8. However, Odunze has been healthy throughout this summer, reportedly having no issues with the foot injury that hampered him in 2025. In contrast, Bears wideout Luther Burden III (groin) has been dealing with a groin injury throughout much of training camp. Additionally, Chicago could be looking to funnel more targets to Odunze in 2026 after the team traded away veteran wide receiver DJ Moore to the Buffalo Bills at the start of the offseason. Entering the year, Odunze may be flying under the radar at his current redraft ADP of WR27.",
+        "title": "Rome Odunze Could Be Poised for a Breakout Campaign in 2026",
+        "topic_id": "1400251620108849152",
+        "url": "https://www.rotoballer.com/player-news/rome-odunze-could-be-poised-for-a-breakout-campaign-in-2026/1920607"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1788193629000,
+      "source": "rotoballer",
+      "source_key": "219819",
+      "story_id": "nfl|11620|rotoballer|219819|1788193629000",
+      "title": "Rome Odunze Could Be Poised for a Breakout Campaign in 2026",
+      "url": "https://www.rotoballer.com/player-news/rome-odunze-could-be-poised-for-a-breakout-campaign-in-2026/1920607"
     },
     {
       "analysis": null,
