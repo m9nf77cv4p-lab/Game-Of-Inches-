@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T22:48:02Z",
+  "last_checked_at": "2026-08-31T23:38:08Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|9511|rotoballer|219830|1788201464000"
+    "nfl|11597|rotoballer|219832|1788204430000"
   ],
   "schema_version": 1,
   "source": {
@@ -298,6 +298,26 @@
       "story_id": "nfl|13272|rotowire|635600|1788204639000",
       "title": "Carson Beck - Returning to practice Monday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants tight end Theo Johnson (shoulder) was wearing a red, non-contact jersey at the team's practice on Monday, according to Pat Leonard of the New York Daily News. Johnson is still not a full-go this week after injuring his shoulder in practice last Monday. The fact that the 25-year-old was even out there on Monday suggests that he should be fine for the Week 1 season opener on Sunday night, Sept. 13, against the division-rival Dallas Cowboys. The former fourth-round selection in the 2024 NFL draft from Penn State improved in his second season in 2025, catching 45 of his 74 targets for 528 yards and five touchdowns in 15 starts after posting a 29-331-1 line in 12 games as a rookie. Johnson could have a decent role in his third NFL campaign in a Giants offense that figures to utilize plenty of two-tight-end sets, but unless Isaiah Likely misses time with an injury, his fantasy football ceiling will be low in an offense that wants to ground and pound. At RotoBaller, Johnson is ranked as the No. 42 fantasy TE, so he should only be drafted for depth in two-TE leagues.",
+      "metadata": {
+        "description": "New York Giants tight end Theo Johnson (shoulder) was wearing a red, non-contact jersey at the team's practice on Monday, according to Pat Leonard of the New York Daily News. Johnson is still not a full-go this week after injuring his shoulder in practice last Monday. The fact that the 25-year-old was even out there on Monday suggests that he should be fine for the Week 1 season opener on Sunday night, Sept. 13, against the division-rival Dallas Cowboys. The former fourth-round selection in the 2024 NFL draft from Penn State improved in his second season in 2025, catching 45 of his 74 targets for 528 yards and five touchdowns in 15 starts after posting a 29-331-1 line in 12 games as a rookie. Johnson could have a decent role in his third NFL campaign in a Giants offense that figures to utilize plenty of two-tight-end sets, but unless Isaiah Likely misses time with an injury, his fantasy football ceiling will be low in an offense that wants to ground and pound. At RotoBaller, Johnson is ranked as the No. 42 fantasy TE, so he should only be drafted for depth in two-TE leagues.",
+        "title": "Theo Johnson Wears Non-Contact Jersey at Monday's Practice",
+        "topic_id": "1400296923751014400",
+        "url": "https://www.rotoballer.com/player-news/theo-johnson-wears-non-contact-jersey-at-mondays-practice/1920728"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11597",
+      "player_name": "Theo Johnson",
+      "position": "TE",
+      "published": 1788204430000,
+      "source": "rotoballer",
+      "source_key": "219832",
+      "story_id": "nfl|11597|rotoballer|219832|1788204430000",
+      "title": "Theo Johnson Wears Non-Contact Jersey at Monday's Practice",
+      "url": "https://www.rotoballer.com/player-news/theo-johnson-wears-non-contact-jersey-at-mondays-practice/1920728"
     },
     {
       "analysis": "Metcalf has been dealing with an undisclosed injury, but appears to be good to go. He is a strong flex play against the Falcons in Week 1.",

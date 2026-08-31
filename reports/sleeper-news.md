@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1466**
+- Stored stories: **1467**
 - Newly captured: **1**
 
 ## Latest news
@@ -41,6 +41,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Johnson was injured in practice last Monday and continues to deal with the injury, though his return to action would suggest the tight end is on track to play Week 1 against the Cowboys. Johnson figures to work mostly as a blocker this season after the Giants signed Isaiah Likely to a contract over the offseason.
 - **Carson Beck** — Carson Beck - Returning to practice Monday (2026-08-31T19:30:39Z)
   - Beck suffered a ribs injury in the Hall of Fame Game earlier this month and missed the Cardinals' three official preseason contests. The third-round rookie is set to open the season as Arizona's QB3 behind starter Jacoby Brissett and veteran backup Gardner Minshew. There's a pretty good chance Beck sees action as a rookie during the regular season.
+- **NEW — Theo Johnson** — Theo Johnson Wears Non-Contact Jersey at Monday's Practice (2026-08-31T19:27:10Z)
+  - Source: https://www.rotoballer.com/player-news/theo-johnson-wears-non-contact-jersey-at-mondays-practice/1920728
 - **DK Metcalf** — DK Metcalf will be available Week 1 (2026-08-31T19:20:14.517000Z)
   - Metcalf has been dealing with an undisclosed injury, but appears to be good to go. He is a strong flex play against the Falcons in Week 1.
   - Source: https://www.fantasypros.com/nfl/news/605039/dk-metcalf-will-be-available-week-1.php
@@ -53,7 +55,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
 - **Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
   - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
-- **NEW — Keaton Mitchell** — Keaton Mitchell Continues to Miss Practice (2026-08-31T18:37:44Z)
+- **Keaton Mitchell** — Keaton Mitchell Continues to Miss Practice (2026-08-31T18:37:44Z)
   - Source: https://www.rotoballer.com/player-news/keaton-mitchell-continues-to-miss-practice/1920710
 - **Malik Nabers** — Malik Nabers Non-Committal on Week 1 Status (2026-08-31T18:30:12Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-non-committal-on-week-1-status/1920706
@@ -220,5 +222,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Kaleb Johnson** — Kaleb Johnson traded to Packers (2026-08-30T17:45:57.758000Z)
   - Details of the trade are still being finalized between the two organizations, with Johnson receiving the fresh start the running back desperately needs after falling out of favor in a Pittsburgh backfield that will be led by the duo of Jaylen Warren and Rico Dowdle this upcoming season. Johnson's role should become clearer as the National Football League continues their investigation into No. 1 running back Josh Jacobs, potentially resulting in a backup opportunity behind current No. 2 option MarShawn Lloyd.
   - Source: https://www.fantasypros.com/nfl/news/604830/kaleb-johnson-traded-to-packers.php
-- **Kaleb Johnson** — Kaleb Johnson - Gets traded to Green Bay (2026-08-30T17:45:11Z)
-  - Johnson thus will get a fresh start in Green Bay after the third-round investment made in him last year didn't pan out in Pittsburgh. Working behind Jaylen Warren and Kenny Gainwell in 2025, Johnson turned 28 carries into just 69 yards (2.5 YPC) and no touchdowns while hauling in one of two targets for nine yards in 10 regular-season appearances as a rookie. Johnson will join a Green Bay backfield led by Josh Jacobs (groin) and backed up by MarShawn Lloyd and Chris Brooks.
