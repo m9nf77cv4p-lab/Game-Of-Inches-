@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T13:41:31Z",
+  "last_checked_at": "2026-08-31T14:02:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11635|rotoballer|219776|1788168977000"
+    "nfl|13337|rotoballer|219777|1788169809000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs rookie running back Emmett Johnson ran hard in three preseason contests, averaging 4.7 yards per carry while bringing in six of his seven targets, showing enough for the team to comfortably move on from veteran Emari Demercado, who was just signed to a one-year deal in free agency. The Chiefs kept only three running backs on their initial 53-man roster, hinting at a potential three-down role for Kenneth Walker III and one of the league's most valuable insurance roles for Johnson. Brashard Smith adds versatility and special teams prowess, but Johnson figures to serve as the team's primary change-of-pace back and is capable of handling a bell cow role if needed after seeing more than 300 opportunities in his final year at Nebraska, turning in one of the most productive seasons of any back in the nation. While Walker's projected usage is likely to limit the rookie's standalone value, Johnson has quickly become one of the most important handcuffs in fantasy and is worthy of a late-round selection in deeper leagues.",
+      "metadata": {
+        "description": "Kansas City Chiefs rookie running back Emmett Johnson ran hard in three preseason contests, averaging 4.7 yards per carry while bringing in six of his seven targets, showing enough for the team to comfortably move on from veteran Emari Demercado, who was just signed to a one-year deal in free agency. The Chiefs kept only three running backs on their initial 53-man roster, hinting at a potential three-down role for Kenneth Walker III and one of the league's most valuable insurance roles for Johnson. Brashard Smith adds versatility and special teams prowess, but Johnson figures to serve as the team's primary change-of-pace back and is capable of handling a bell cow role if needed after seeing more than 300 opportunities in his final year at Nebraska, turning in one of the most productive seasons of any back in the nation. While Walker's projected usage is likely to limit the rookie's standalone value, Johnson has quickly become one of the most important handcuffs in fantasy and is worthy of a late-round selection in deeper leagues.",
+        "title": "Emmett Johnson Sees His Handcuff Value Soar Following Sunday's Cuts",
+        "topic_id": "1400150956041048064",
+        "url": "https://www.rotoballer.com/player-news/emmett-johnson-sees-his-handcuff-value-soar-following-sundays-cuts/1920281"
+      },
+      "nfl_team": "KC",
+      "player_id": "13337",
+      "player_name": "Emmett Johnson",
+      "position": "RB",
+      "published": 1788169809000,
+      "source": "rotoballer",
+      "source_key": "219777",
+      "story_id": "nfl|13337|rotoballer|219777|1788169809000",
+      "title": "Emmett Johnson Sees His Handcuff Value Soar Following Sunday's Cuts",
+      "url": "https://www.rotoballer.com/player-news/emmett-johnson-sees-his-handcuff-value-soar-following-sundays-cuts/1920281"
+    },
     {
       "analysis": null,
       "description": "After a disappointing sophomore season, Los Angeles Chargers wide receiver Ladd McConkey is primed for one of the biggest fantasy bouncebacks of 2026. The departure of Keenan Allen, who led the team in targets and receptions a year ago in an overlapping role, and the arrival of offensive coordinator Mike McDaniel, whose speed and spacing-based system suits McConkey to a T, could open the path for a big year from the 2024 second-round pick. While the Chargers have already suffered a significant loss on the offensive line following the season-ending ACL tear of center Tyler Biadasz (knee), the returns of tackles Joe Alt and Rashawn Slater should help to keep quarterback Justin Herbert on his feet and the offense on schedule. McConkey has already demonstrated WR1 upside, finishing as the WR12 as a rookie, and with an expanded role in an improved offensive environment, he could prove to be a league-winning selection at RotoBaller's WR15.",
@@ -28296,26 +28316,6 @@
       "story_id": "nfl|4981|rotoballer|217838|1785597368000",
       "title": "Calvin Ridley Regains Weight After Stomach Virus",
       "url": "https://www.rotoballer.com/player-news/calvin-ridley-regains-weight-after-stomach-virus/1901171"
-    },
-    {
-      "analysis": null,
-      "description": "According to Albert Breer of Sports Illustrated, Los Angeles Rams tight end Colby Parkinson is expected to lead the team's deep tight end room once again in 2026. While the Rams have several emerging options behind Parkinson, including second-year pass-catcher Terrance Ferguson, veteran Tyler Higbee, and second-round rookie Max Klare, Parkinson is currently penciled in to lead the room. The 27-year-old emerged as Matthew Stafford's go-to option in this room during the 2025 campaign, finding the back of the end zone eight times and bringing in 43 of his 56 targets. He tallied 408 yards, which also marked a season-best. While Parkinson may see his opportunities limited given the depth of this room as the season progresses, for the time being, he projects to hold high-end TE2 upside in a potent Los Angeles passing attack.",
-      "metadata": {
-        "description": "According to Albert Breer of Sports Illustrated, Los Angeles Rams tight end Colby Parkinson is expected to lead the team's deep tight end room once again in 2026. While the Rams have several emerging options behind Parkinson, including second-year pass-catcher Terrance Ferguson, veteran Tyler Higbee, and second-round rookie Max Klare, Parkinson is currently penciled in to lead the room. The 27-year-old emerged as Matthew Stafford's go-to option in this room during the 2025 campaign, finding the back of the end zone eight times and bringing in 43 of his 56 targets. He tallied 408 yards, which also marked a season-best. While Parkinson may see his opportunities limited given the depth of this room as the season progresses, for the time being, he projects to hold high-end TE2 upside in a potent Los Angeles passing attack.",
-        "title": "Colby Parkinson Expected to Lead Rams TE Room in 2026",
-        "topic_id": "1389342374978658304",
-        "url": "https://www.rotoballer.com/player-news/colby-parkinson-expected-to-lead-rams-te-room-in-2026/1901142"
-      },
-      "nfl_team": "LAR",
-      "player_id": "6865",
-      "player_name": "Colby Parkinson",
-      "position": "TE",
-      "published": 1785592809000,
-      "source": "rotoballer",
-      "source_key": "217830",
-      "story_id": "nfl|6865|rotoballer|217830|1785592809000",
-      "title": "Colby Parkinson Expected to Lead Rams TE Room in 2026",
-      "url": "https://www.rotoballer.com/player-news/colby-parkinson-expected-to-lead-rams-te-room-in-2026/1901142"
     }
   ]
 }

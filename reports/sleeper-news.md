@@ -7,7 +7,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 ## Latest news
 
-- **NEW — Ladd McConkey** — Ladd McConkey Primed for a League-Winning Bounceback (2026-08-31T09:36:17Z)
+- **NEW — Emmett Johnson** — Emmett Johnson Sees His Handcuff Value Soar Following Sunday's Cuts (2026-08-31T09:50:09Z)
+  - Source: https://www.rotoballer.com/player-news/emmett-johnson-sees-his-handcuff-value-soar-following-sundays-cuts/1920281
+- **Ladd McConkey** — Ladd McConkey Primed for a League-Winning Bounceback (2026-08-31T09:36:17Z)
   - Source: https://www.rotoballer.com/player-news/ladd-mcconkey-primed-for-a-league-winning-bounceback/1920252
 - **Christian Watson** — Christian Watson Could See Expanded Early Role (2026-08-31T09:25:10Z)
   - Source: https://www.rotoballer.com/player-news/christian-watson-could-see-expanded-early-role-with-top-running-back-sidelined/1920241
@@ -217,6 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Alec Pierce** — Alec Pierce goes through pregame, not playing (2026-08-29T17:55:49.758000Z)
   - Pierce was activated from the PUP list earlier this week. He has a chance to be ready for Week 1 against the Ravens. 
   - Source: https://www.fantasypros.com/nfl/news/604649/alec-pierce-goes-through-pregame-not-playing.php
-- **Patrick Mahomes** — Patrick Mahomes II (knee) on track to start Week 1 (2026-08-29T17:50:49.303000Z)
-  - Mahomes has worked his way back from a torn ACL. He didn't see any action in the preseason, but he is expected to be good to go for the season opener. 
-  - Source: https://www.fantasypros.com/nfl/news/604648/patrick-mahomes-ii-knee-on-track-to-start-week-1.php
