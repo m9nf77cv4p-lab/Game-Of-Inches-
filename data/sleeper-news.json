@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T14:22:43Z",
+  "last_checked_at": "2026-08-31T14:32:51Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|9997|rotoballer|219778|1788170706000"
+    "nfl|8130|rotoballer|219779|1788171431000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals tight end Trey McBride set the single-season positional record with 126 receptions in 2025, and while his talent has been obvious since coming into the league as a second-round pick in 2022, a departure from the near-perfect scenario he found himself in could lead to significant regression in 2026. After Jacoby Brissett took over as the starting quarterback in Week 6, only Bo Nix came within five pass attempts per game of his near record-setting pace, essentially adding an extra game or two worth of production for McBride and the Cardinals' pass-catchers. The Cardinals also saw Marvin Harrison Jr. in and out of the lineup with a string of unfortunate injuries, including a mid-season appendectomy, but in games in which he saw at least a 50% snap share, he actually led the team in targets, and McBride's fantasy production dropped by 3.5 points per game. McBride's 11 scores in 2025 were nearly double his total from the previous three seasons combined, and with the added question of who might be under center for the Cardinals by the time the fantasy playoffs come around, regression is almost certainly inevitable. While still highly capable of a top three fantasy finish, McBride should not be counted on for another record-breaking campaign, especially at a spot in most drafts where running back talent begins to dry up.",
+      "metadata": {
+        "description": "Arizona Cardinals tight end Trey McBride set the single-season positional record with 126 receptions in 2025, and while his talent has been obvious since coming into the league as a second-round pick in 2022, a departure from the near-perfect scenario he found himself in could lead to significant regression in 2026. After Jacoby Brissett took over as the starting quarterback in Week 6, only Bo Nix came within five pass attempts per game of his near record-setting pace, essentially adding an extra game or two worth of production for McBride and the Cardinals' pass-catchers. The Cardinals also saw Marvin Harrison Jr. in and out of the lineup with a string of unfortunate injuries, including a mid-season appendectomy, but in games in which he saw at least a 50% snap share, he actually led the team in targets, and McBride's fantasy production dropped by 3.5 points per game. McBride's 11 scores in 2025 were nearly double his total from the previous three seasons combined, and with the added question of who might be under center for the Cardinals by the time the fantasy playoffs come around, regression is almost certainly inevitable. While still highly capable of a top three fantasy finish, McBride should not be counted on for another record-breaking campaign, especially at a spot in most drafts where running back talent begins to dry up.",
+        "title": "Is Regression Inevitable Following Trey McBride's Record-Breaking Season?",
+        "topic_id": "1400158507432435712",
+        "url": "https://www.rotoballer.com/player-news/is-regression-inevitable-following-trey-mcbrides-record-breaking-season/1920335"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8130",
+      "player_name": "Trey McBride",
+      "position": "TE",
+      "published": 1788171431000,
+      "source": "rotoballer",
+      "source_key": "219779",
+      "story_id": "nfl|8130|rotoballer|219779|1788171431000",
+      "title": "Is Regression Inevitable Following Trey McBride's Record-Breaking Season?",
+      "url": "https://www.rotoballer.com/player-news/is-regression-inevitable-following-trey-mcbrides-record-breaking-season/1920335"
+    },
     {
       "analysis": null,
       "description": "Baltimore Ravens wide receiver Zay Flowers finished his third season with a career-high 86 receptions for 1,211 yards, finishing as the fantasy WR7 despite scoring only five touchdowns. With an aggressive new offensive system and numbers closely in line with his past production trends, another WR1 season is well within Flowers' reach. While Rashod Bateman and rookie Ja'Kobi Lane have both garnered training camp buzz, All-Pro tight end Mark Andrews is another year older, and Flowers remains the unquestioned focal point of the Ravens' passing attack, which is expected to see more under-center concepts and first-down pass attempts under first-year offensive coordinator Declan Doyle. Flowers could be featured not only as a reliable chain-mover but as a legitimate big-play threat, giving him one of the higher floor and ceiling combinations outside the opening rounds of drafts and making him a potential value at RotoBaller's WR14.",
