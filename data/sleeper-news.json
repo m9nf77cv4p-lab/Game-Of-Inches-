@@ -1,13 +1,10 @@
 {
-  "last_checked_at": "2026-08-31T19:26:31Z",
+  "last_checked_at": "2026-08-31T19:36:35Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|5846|fantasy_pros|605039|1788204014517",
-    "nfl|5846|rotowire|635597|1788203592000",
-    "nfl|6801|rotoballer|219812|1788189309000",
-    "nfl|6819|fantasy_pros|605041|1788204014506",
-    "nfl|6819|rotowire|635598|1788203846000"
+    "nfl|13272|rotowire|635600|1788204639000",
+    "nfl|5846|rotoballer|219813|1788189965000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Beck suffered a ribs injury in the Hall of Fame Game earlier this month and missed the Cardinals' three official preseason contests. The third-round rookie is set to open the season as Arizona's QB3 behind starter Jacoby Brissett and veteran backup Gardner Minshew. There's a pretty good chance Beck sees action as a rookie during the regular season.",
+      "description": "Coach Mike LaFleur said Beck (ribs) will return to practice Monday, Josh Weinfuss of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Beck suffered a ribs injury in the Hall of Fame Game earlier this month and missed the Cardinals' three official preseason contests. The third-round rookie is set to open the season as Arizona's QB3 behind starter Jacoby Brissett and veteran backup Gardner Minshew. There's a pretty good chance Beck sees action as a rookie during the regular season.",
+        "description": "Coach Mike LaFleur said Beck (ribs) will return to practice Monday, Josh Weinfuss of ESPN.com reports.",
+        "title": "Carson Beck - Returning to practice Monday",
+        "topic_id": "1400236540474425344"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13272",
+      "player_name": "Carson Beck",
+      "position": "QB",
+      "published": 1788204639000,
+      "source": "rotowire",
+      "source_key": "635600",
+      "story_id": "nfl|13272|rotowire|635600|1788204639000",
+      "title": "Carson Beck - Returning to practice Monday",
+      "url": null
+    },
     {
       "analysis": "Metcalf has been dealing with an undisclosed injury, but appears to be good to go. He is a strong flex play against the Falcons in Week 1.",
       "description": "Steelers GM Omar Khan announced WR DK Metcalf will be available for Week 1.",
@@ -118,6 +135,26 @@
       "story_id": "nfl|13330|rotowire|635595|1788202616000",
       "title": "Kenyon Sadiq - On track for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers wide receiver DK Metcalf (undisclosed) is going to be eased in, but he is expected to be ready to go for the Week 1 regular-season opener against the Atlanta Falcons, according to Brooke Pryor of ESPN. Metcalf missed a good chunk of time in training camp this summer with an undisclosed ailment, but he was able to return to practice last week and should be active to kick off the regular season. Fantasy managers setting lineups for Week 1 do not exactly want to hear that the 28-year-old is being eased in, though, which means he could be on a snap count, along with Michael Pittman Jr. (hamstring). Not only will Metcalf be working with an aging quarterback in the final year of his career in 2026, but he will have added competition for targets from Pittman, so fantasy managers should not just assume he will bounce back from a 59-850-6 line in 15 regular-season games in 2025 in his first year in the Steel City. With a minor injury concern heading into his eighth year in the NFL, Metcalf is more of a WR3/flex with touchdown upside in 2026 fantasy drafts.",
+      "metadata": {
+        "description": "Pittsburgh Steelers wide receiver DK Metcalf (undisclosed) is going to be eased in, but he is expected to be ready to go for the Week 1 regular-season opener against the Atlanta Falcons, according to Brooke Pryor of ESPN. Metcalf missed a good chunk of time in training camp this summer with an undisclosed ailment, but he was able to return to practice last week and should be active to kick off the regular season. Fantasy managers setting lineups for Week 1 do not exactly want to hear that the 28-year-old is being eased in, though, which means he could be on a snap count, along with Michael Pittman Jr. (hamstring). Not only will Metcalf be working with an aging quarterback in the final year of his career in 2026, but he will have added competition for targets from Pittman, so fantasy managers should not just assume he will bounce back from a 59-850-6 line in 15 regular-season games in 2025 in his first year in the Steel City. With a minor injury concern heading into his eighth year in the NFL, Metcalf is more of a WR3/flex with touchdown upside in 2026 fantasy drafts.",
+        "title": "DK Metcalf Expected to be Ready for Week 1",
+        "topic_id": "1400236529061797888",
+        "url": "https://www.rotoballer.com/player-news/dk-metcalf-expected-to-be-ready-for-week-1/1920566"
+      },
+      "nfl_team": "PIT",
+      "player_id": "5846",
+      "player_name": "DK Metcalf",
+      "position": "WR",
+      "published": 1788189965000,
+      "source": "rotoballer",
+      "source_key": "219813",
+      "story_id": "nfl|5846|rotoballer|219813|1788189965000",
+      "title": "DK Metcalf Expected to be Ready for Week 1",
+      "url": "https://www.rotoballer.com/player-news/dk-metcalf-expected-to-be-ready-for-week-1/1920566"
     },
     {
       "analysis": null,

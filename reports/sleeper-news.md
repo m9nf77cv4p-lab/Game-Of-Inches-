@@ -2,24 +2,28 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1436**
-- Newly captured: **5**
+- Stored stories: **1438**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — DK Metcalf** — DK Metcalf will be available Week 1 (2026-08-31T19:20:14.517000Z)
+- **NEW — Carson Beck** — Carson Beck - Returning to practice Monday (2026-08-31T19:30:39Z)
+  - Beck suffered a ribs injury in the Hall of Fame Game earlier this month and missed the Cardinals' three official preseason contests. The third-round rookie is set to open the season as Arizona's QB3 behind starter Jacoby Brissett and veteran backup Gardner Minshew. There's a pretty good chance Beck sees action as a rookie during the regular season.
+- **DK Metcalf** — DK Metcalf will be available Week 1 (2026-08-31T19:20:14.517000Z)
   - Metcalf has been dealing with an undisclosed injury, but appears to be good to go. He is a strong flex play against the Falcons in Week 1.
   - Source: https://www.fantasypros.com/nfl/news/605039/dk-metcalf-will-be-available-week-1.php
-- **NEW — Michael Pittman** — Michael Pittman Jr. will be available Week 1 (2026-08-31T19:20:14.506000Z)
+- **Michael Pittman** — Michael Pittman Jr. will be available Week 1 (2026-08-31T19:20:14.506000Z)
   - Pittman has been dealing with a hamstring injury, but will still suit up in Week 1. He slots in as a low-end flex play in his Steelers debut against the Falcons.
   - Source: https://www.fantasypros.com/nfl/news/605041/michael-pittman-jr-will-be-available-week-1.php
-- **NEW — Michael Pittman** — Michael Pittman - Expected to be fine for Week 1 (2026-08-31T19:17:26Z)
+- **Michael Pittman** — Michael Pittman - Expected to be fine for Week 1 (2026-08-31T19:17:26Z)
   - Like teammate DK Metcalf (undisclosed), Pittman has missed a bunch of practice time this summer and didn't see any preseason action. However, Pittman was back on the practice field last week and will now have the next couple weeks to get ramped up for the Week 1 opener. Acquired from the Colts over the offseason, Pittman is expected to push Metcalf for the team lead in targets this season, but it's fair to wonder about Pittman's chemistry with Aaron Rodgers right out of the gates.
-- **NEW — DK Metcalf** — DK Metcalf - Expected to be ready for Week 1 (2026-08-31T19:13:12Z)
+- **DK Metcalf** — DK Metcalf - Expected to be ready for Week 1 (2026-08-31T19:13:12Z)
   - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
 - **Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
   - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
-- **NEW — Tee Higgins** — Tee Higgins Looks Ready to Pick Up Where He Left Off (2026-08-31T15:15:09Z)
+- **NEW — DK Metcalf** — DK Metcalf Expected to be Ready for Week 1 (2026-08-31T15:26:05Z)
+  - Source: https://www.rotoballer.com/player-news/dk-metcalf-expected-to-be-ready-for-week-1/1920566
+- **Tee Higgins** — Tee Higgins Looks Ready to Pick Up Where He Left Off (2026-08-31T15:15:09Z)
   - Source: https://www.rotoballer.com/player-news/tee-higgins-looks-ready-to-pick-up-where-he-left-off/1920561
 - **CeeDee Lamb** — CeeDee Lamb's WR1 Ceiling Looks Less Certain (2026-08-31T15:00:13Z)
   - Source: https://www.rotoballer.com/player-news/ceedee-lambs-wr1-ceiling-looks-less-certain/1920549
@@ -213,7 +217,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/has-george-kittle-taken-a-step-back/1919528
 - **Luther Burden** — Luther Burden III "Looks 100%", Positive Sign for His Week 1 Availability (2026-08-30T09:24:07Z)
   - Source: https://www.rotoballer.com/player-news/luther-burden-iii-looks-100-positive-sign-for-his-week-1-availability/1919520
-- **Keenan Allen** — Keenan Allen Arrested Sunday Morning for DWI (2026-08-30T09:12:10Z)
-  - Source: https://www.rotoballer.com/player-news/keenan-allen-arrested-sunday-morning-for-dwi/1919513
-- **Jalen Milroe** — Jalen Milroe - Throws for 223 yards in preseason finale (2026-08-30T02:26:31Z)
-  - Milroe played every offensive snap for Seattle with both Sam Darnold and Drew Lock resting on the sideline. Milroe led the Seahawks on a seven-play scoring drive that ended in a field goal during the first quarter and a 10-play drive that ended with his touchdown pass to Nick Vannett in the third. That TD was his first of a relatively underwhelming preseason. Milroe is locked in behind Darnold and Lock once the regular season starts, so he could regularly serve as Seattle's emergency third QB on gamedays.
