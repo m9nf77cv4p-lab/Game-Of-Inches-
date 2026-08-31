@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T00:41:23Z",
+  "last_checked_at": "2026-08-31T00:51:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 278,
   "new_story_ids": [
-    "nfl|12476|rotowire|635476|1788136601000",
-    "nfl|12487|rotoballer|219754|1788121813000",
-    "nfl|9502|rotoballer|219755|1788121632000"
+    "nfl|13286|rotoballer|219756|1788122530000"
   ],
   "schema_version": 1,
   "source": {
@@ -298,6 +296,26 @@
       "story_id": "nfl|13306|rotowire|635409|1788125071000",
       "title": "Taylen Green - Sticking around Cleveland",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks running back Jadarian Price sits atop the depth chart heading into the regular season. The Seahawks placed Zach Charbonnet (knee) on the PUP list on Sunday, which means he'll miss at least the first four games. That leaves Price as the strongest candidate to operate as the No. 1 back, ahead of teammates George Holani and Emanuel Wilson. While we do expect to see Holani and Wilson get involved in Charbonnet's absence, Price is the member of this backfield who is best equipped to handle the lead-back role. He had at least 113 carries and at least 674 rushing yards in each of his final two seasons at school, scored 13 total touchdowns last year, and is capable of contributing both on the ground and in the passing attack. Price has jumped all the way up to RB22 in RotoBaller's latest redraft fantasy football rankings for 2026.",
+      "metadata": {
+        "description": "Seattle Seahawks running back Jadarian Price sits atop the depth chart heading into the regular season. The Seahawks placed Zach Charbonnet (knee) on the PUP list on Sunday, which means he'll miss at least the first four games. That leaves Price as the strongest candidate to operate as the No. 1 back, ahead of teammates George Holani and Emanuel Wilson. While we do expect to see Holani and Wilson get involved in Charbonnet's absence, Price is the member of this backfield who is best equipped to handle the lead-back role. He had at least 113 carries and at least 674 rushing yards in each of his final two seasons at school, scored 13 total touchdowns last year, and is capable of contributing both on the ground and in the passing attack. Price has jumped all the way up to RB22 in RotoBaller's latest redraft fantasy football rankings for 2026.",
+        "title": "Jadarian Price Set for Lead Role to Begin Season",
+        "topic_id": "1399953604193812480",
+        "url": "https://www.rotoballer.com/player-news/jadarian-price-set-for-lead-role-to-begin-season/1920038"
+      },
+      "nfl_team": "SEA",
+      "player_id": "13286",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "published": 1788122530000,
+      "source": "rotoballer",
+      "source_key": "219756",
+      "story_id": "nfl|13286|rotoballer|219756|1788122530000",
+      "title": "Jadarian Price Set for Lead Role to Begin Season",
+      "url": "https://www.rotoballer.com/player-news/jadarian-price-set-for-lead-role-to-begin-season/1920038"
     },
     {
       "analysis": null,
