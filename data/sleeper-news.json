@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-08-31T03:23:17Z",
+  "last_checked_at": "2026-08-31T03:43:34Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 278,
-  "new_story_ids": [
-    "nfl|9229|rotoballer|219764|1788131645000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -27956,27 +27954,6 @@
       "story_id": "nfl|6794|rotoballer|217821|1785587886000",
       "title": "Justin Jefferson Building Chemistry With Both QBs in Training Camp",
       "url": "https://www.rotoballer.com/player-news/justin-jefferson-building-chemistry-with-both-qbs-in-training-camp/1901111"
-    },
-    {
-      "analysis": "Brazzell will undergo season-ending surgery on his torn LCL. He'll miss the upcoming season. ",
-      "description": "The Panthers placed WR Chris Brazzell II on injured reserve. ",
-      "metadata": {
-        "analysis": "Brazzell will undergo season-ending surgery on his torn LCL. He'll miss the upcoming season. ",
-        "description": "The Panthers placed WR Chris Brazzell II on injured reserve. ",
-        "title": "Chris Brazzell II placed on IR",
-        "topic_id": "1389124667901513728",
-        "url": "https://www.fantasypros.com/nfl/news/599481/chris-brazzell-ii-placed-on-ir.php"
-      },
-      "nfl_team": "CAR",
-      "player_id": "13353",
-      "player_name": "Chris Brazzell",
-      "position": "WR",
-      "published": 1785555638823,
-      "source": "fantasy_pros",
-      "source_key": "599481",
-      "story_id": "nfl|13353|fantasy_pros|599481|1785555638823",
-      "title": "Chris Brazzell II placed on IR",
-      "url": "https://www.fantasypros.com/nfl/news/599481/chris-brazzell-ii-placed-on-ir.php"
     }
   ]
 }

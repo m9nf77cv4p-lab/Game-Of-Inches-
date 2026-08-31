@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1392**
-- Newly captured: **1**
+- Stored stories: **1391**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -16,7 +16,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jordyn Tyson** — Jordyn Tyson (hamstring) placed on IR (2026-08-30T23:15:59.432000Z)
   - Tyson is expected to miss roughly two months with a hamstring injury. He has been dealing with hamstring issues since college at Arizona State. 
   - Source: https://www.fantasypros.com/nfl/news/604978/jordyn-tyson-hamstring-placed-on-ir.php
-- **NEW — Anthony Richardson** — Anthony Richardson Sr. Sticking with the Colts for Now (2026-08-30T23:14:05Z)
+- **Anthony Richardson** — Anthony Richardson Sr. Sticking with the Colts for Now (2026-08-30T23:14:05Z)
   - Source: https://www.rotoballer.com/player-news/anthony-richardson-sr-sticking-with-the-colts-for-now/1920111
 - **Zach Charbonnet** — Zach Charbonnet - Opening season on reserve/PUP list (2026-08-30T23:06:40Z)
   - This move was merely procedural, as Charbonnet is still far away from returning to action following the ACL tear he suffered in his left knee in the divisional round on Jan. 17. In any case, he'll be sidelined for at least the first four contests of the season, while some combination of rookie first-round pick Jadarian Price and holdover George Holani will pace Seattle's backfield Week 1 and beyond.
