@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T13:31:20Z",
+  "last_checked_at": "2026-08-31T13:41:31Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|8167|rotoballer|219775|1788168310000"
+    "nfl|11635|rotoballer|219776|1788168977000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,10 +15,30 @@
   "stories": [
     {
       "analysis": null,
+      "description": "After a disappointing sophomore season, Los Angeles Chargers wide receiver Ladd McConkey is primed for one of the biggest fantasy bouncebacks of 2026. The departure of Keenan Allen, who led the team in targets and receptions a year ago in an overlapping role, and the arrival of offensive coordinator Mike McDaniel, whose speed and spacing-based system suits McConkey to a T, could open the path for a big year from the 2024 second-round pick. While the Chargers have already suffered a significant loss on the offensive line following the season-ending ACL tear of center Tyler Biadasz (knee), the returns of tackles Joe Alt and Rashawn Slater should help to keep quarterback Justin Herbert on his feet and the offense on schedule. McConkey has already demonstrated WR1 upside, finishing as the WR12 as a rookie, and with an expanded role in an improved offensive environment, he could prove to be a league-winning selection at RotoBaller's WR15.",
+      "metadata": {
+        "description": "After a disappointing sophomore season, Los Angeles Chargers wide receiver Ladd McConkey is primed for one of the biggest fantasy bouncebacks of 2026. The departure of Keenan Allen, who led the team in targets and receptions a year ago in an overlapping role, and the arrival of offensive coordinator Mike McDaniel, whose speed and spacing-based system suits McConkey to a T, could open the path for a big year from the 2024 second-round pick. While the Chargers have already suffered a significant loss on the offensive line following the season-ending ACL tear of center Tyler Biadasz (knee), the returns of tackles Joe Alt and Rashawn Slater should help to keep quarterback Justin Herbert on his feet and the offense on schedule. McConkey has already demonstrated WR1 upside, finishing as the WR12 as a rookie, and with an expanded role in an improved offensive environment, he could prove to be a league-winning selection at RotoBaller's WR15.",
+        "title": "Ladd McConkey Primed for a League-Winning Bounceback",
+        "topic_id": "1400147179892436992",
+        "url": "https://www.rotoballer.com/player-news/ladd-mcconkey-primed-for-a-league-winning-bounceback/1920252"
+      },
+      "nfl_team": "LAC",
+      "player_id": "11635",
+      "player_name": "Ladd McConkey",
+      "position": "WR",
+      "published": 1788168977000,
+      "source": "rotoballer",
+      "source_key": "219776",
+      "story_id": "nfl|11635|rotoballer|219776|1788168977000",
+      "title": "Ladd McConkey Primed for a League-Winning Bounceback",
+      "url": "https://www.rotoballer.com/player-news/ladd-mcconkey-primed-for-a-league-winning-bounceback/1920252"
+    },
+    {
+      "analysis": null,
       "description": "Green Bay Packers wide receiver Christian Watson has been a popular breakout candidate heading into his fifth season, and early-season uncertainty in the Packers' backfield could lead to even more involvement to begin the year. The Packers have had one of the run-heaviest offenses in the league over the past two seasons, but after Josh Jacobs was placed on the Commissioner's Exempt List as a result of misdemeanor charges stemming from his May arrest, Green Bay is prepared to begin the season with MarShawn Lloyd and his six career carries in the starting role. Backing up Lloyd will be veteran Chris Brooks and Kaleb Johnson, who was acquired via trade from the Steelers on Sunday, and a potential fall-off at the position could lead to a philosophical shift and more passing to begin the year. Watson has already been pegged as the most obvious benefactor of the offseason departures of Romeo Doubs and Dontayvion Wicks, and higher passing volume to begin the year could allow him to repeat or even surpass the WR13 pace at which he played after returning from injury halfway through the 2025 season.",
       "metadata": {
         "description": "Green Bay Packers wide receiver Christian Watson has been a popular breakout candidate heading into his fifth season, and early-season uncertainty in the Packers' backfield could lead to even more involvement to begin the year. The Packers have had one of the run-heaviest offenses in the league over the past two seasons, but after Josh Jacobs was placed on the Commissioner's Exempt List as a result of misdemeanor charges stemming from his May arrest, Green Bay is prepared to begin the season with MarShawn Lloyd and his six career carries in the starting role. Backing up Lloyd will be veteran Chris Brooks and Kaleb Johnson, who was acquired via trade from the Steelers on Sunday, and a potential fall-off at the position could lead to a philosophical shift and more passing to begin the year. Watson has already been pegged as the most obvious benefactor of the offseason departures of Romeo Doubs and Dontayvion Wicks, and higher passing volume to begin the year could allow him to repeat or even surpass the WR13 pace at which he played after returning from injury halfway through the 2025 season.",
-        "title": "Christian Watson Could See Expanded Early Role with Top Running Back Sidelined",
+        "title": "Christian Watson Could See Expanded Early Role",
         "topic_id": "1400144663326789632",
         "url": "https://www.rotoballer.com/player-news/christian-watson-could-see-expanded-early-role-with-top-running-back-sidelined/1920241"
       },
@@ -30,7 +50,7 @@
       "source": "rotoballer",
       "source_key": "219775",
       "story_id": "nfl|8167|rotoballer|219775|1788168310000",
-      "title": "Christian Watson Could See Expanded Early Role with Top Running Back Sidelined",
+      "title": "Christian Watson Could See Expanded Early Role",
       "url": "https://www.rotoballer.com/player-news/christian-watson-could-see-expanded-early-role-with-top-running-back-sidelined/1920241"
     },
     {
