@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-08-31T21:37:24Z",
+  "last_checked_at": "2026-08-31T21:47:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|13287|rotoballer|219824|1788196928000",
-    "nfl|4217|rotoballer|219825|1788197348000"
+    "nfl|13330|rotoballer|219826|1788197633000",
+    "nfl|9511|rotowire|635622|1788212319000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Mitchell is missing his fourth straight practice due to an unspecified injury, but it sounds like he's getting closer to a return to the field after getting in some work on a side field. The Chargers are expected to utilize all three of Omarion Hampton, Mitchell and Kimani Vidal out of the backfield this season, though Hampton is the clear lead back and possesses the most upside from a fantasy perspective. Mitchell, when healthy, will likely handle a handful of weekly touches to showcase his speed and playmaking while giving Hampton a breather. Mitchell is looking like a fantasy bench stash to open the 2026 season.",
+      "description": "Mitchell (undisclosed) is not practicing Monday but is working off to the side with a trainer, Kris Rhim of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Mitchell is missing his fourth straight practice due to an unspecified injury, but it sounds like he's getting closer to a return to the field after getting in some work on a side field. The Chargers are expected to utilize all three of Omarion Hampton, Mitchell and Kimani Vidal out of the backfield this season, though Hampton is the clear lead back and possesses the most upside from a fantasy perspective. Mitchell, when healthy, will likely handle a handful of weekly touches to showcase his speed and playmaking while giving Hampton a breather. Mitchell is looking like a fantasy bench stash to open the 2026 season.",
+        "description": "Mitchell (undisclosed) is not practicing Monday but is working off to the side with a trainer, Kris Rhim of ESPN.com reports.",
+        "title": "Keaton Mitchell - Working off to side Monday",
+        "topic_id": "1400267994092814336"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1788212319000,
+      "source": "rotowire",
+      "source_key": "635622",
+      "story_id": "nfl|9511|rotowire|635622|1788212319000",
+      "title": "Keaton Mitchell - Working off to side Monday",
+      "url": null
+    },
     {
       "analysis": "Croskey-Merritt was forced to miss the Commanders' final two preseason games due to a lower-body injury, and he will not participate at practice Monday. His participation level once he gets back on the field should offer more clarity on his readiness for the regular-season opener Sept. 13 against the Eagles. In the meantime, Kaytron Allen is the Commanders' top healthy option in the backfield with Rachaad White (hamstring) also banged up at practice.",
       "description": "Croskey-Merritt (lower body) is expected to return to practice next week, John Keim of ESPN reports.",
@@ -341,6 +361,26 @@
       "story_id": "nfl|13330|rotowire|635595|1788202616000",
       "title": "Kenyon Sadiq - On track for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets head coach Aaron Glenn said on Monday that rookie first-round tight end Kenyon Sadiq (hernia) is on track to be ready for the Week 1 contest against the Tennessee Titans, according to Zack Rosenblatt of The Athletic. Sadiq still has lots of long-term fantasy upside in dynasty/keeper leagues, but managers in single-year formats should be tempering expectations for the Oregon product after he missed most of training camp this summer following surgery for a hernia. The Jets have already acknowledged that they will scale back Sadiq's role on offense early in 2026 to ease him in after he missed so much valuable developmental time in camp. It is good news for Mason Taylor, who caught 44 of his 65 targets for 369 yards and a touchdown in his first 13 games in the league a year ago. Once Sadiq is fully healthy and learns the offense, he will be deployed down the field as a high-upside pass-catching tight end with elite athleticism. For now, though, RotoBaller has Sadiq ranked as the No. 28 fantasy TE entering his rookie campaign.",
+      "metadata": {
+        "description": "New York Jets head coach Aaron Glenn said on Monday that rookie first-round tight end Kenyon Sadiq (hernia) is on track to be ready for the Week 1 contest against the Tennessee Titans, according to Zack Rosenblatt of The Athletic. Sadiq still has lots of long-term fantasy upside in dynasty/keeper leagues, but managers in single-year formats should be tempering expectations for the Oregon product after he missed most of training camp this summer following surgery for a hernia. The Jets have already acknowledged that they will scale back Sadiq's role on offense early in 2026 to ease him in after he missed so much valuable developmental time in camp. It is good news for Mason Taylor, who caught 44 of his 65 targets for 369 yards and a touchdown in his first 13 games in the league a year ago. Once Sadiq is fully healthy and learns the offense, he will be deployed down the field as a high-upside pass-catching tight end with elite athleticism. For now, though, RotoBaller has Sadiq ranked as the No. 28 fantasy TE entering his rookie campaign.",
+        "title": "Kenyon Sadiq on Track to be Ready for Week 1",
+        "topic_id": "1400267979848994816",
+        "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-on-track-to-be-ready-for-week-1/1920672"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13330",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "published": 1788197633000,
+      "source": "rotoballer",
+      "source_key": "219826",
+      "story_id": "nfl|13330|rotoballer|219826|1788197633000",
+      "title": "Kenyon Sadiq on Track to be Ready for Week 1",
+      "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-on-track-to-be-ready-for-week-1/1920672"
     },
     {
       "analysis": null,

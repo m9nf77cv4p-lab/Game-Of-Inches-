@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1459**
+- Stored stories: **1461**
 - Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Keaton Mitchell** — Keaton Mitchell - Working off to side Monday (2026-08-31T21:38:39Z)
+  - Mitchell is missing his fourth straight practice due to an unspecified injury, but it sounds like he's getting closer to a return to the field after getting in some work on a side field. The Chargers are expected to utilize all three of Omarion Hampton, Mitchell and Kimani Vidal out of the backfield this season, though Hampton is the clear lead back and possesses the most upside from a fantasy perspective. Mitchell, when healthy, will likely handle a handful of weekly touches to showcase his speed and playmaking while giving Hampton a breather. Mitchell is looking like a fantasy bench stash to open the 2026 season.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Set to practice next week (2026-08-31T21:11:49Z)
   - Croskey-Merritt was forced to miss the Commanders' final two preseason games due to a lower-body injury, and he will not participate at practice Monday. His participation level once he gets back on the field should offer more clarity on his readiness for the regular-season opener Sept. 13 against the Eagles. In the meantime, Kaytron Allen is the Commanders' top healthy option in the backfield with Rachaad White (hamstring) also banged up at practice.
 - **George Kittle** — George Kittle - Will be limited in practice this week (2026-08-31T20:45:26Z)
@@ -47,9 +49,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
 - **Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
   - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
-- **NEW — George Kittle** — George Kittle to be Eased into Practice This Week (2026-08-31T17:29:08Z)
+- **NEW — Kenyon Sadiq** — Kenyon Sadiq on Track to be Ready for Week 1 (2026-08-31T17:33:53Z)
+  - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-on-track-to-be-ready-for-week-1/1920672
+- **George Kittle** — George Kittle to be Eased into Practice This Week (2026-08-31T17:29:08Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-to-be-eased-into-practice-this-week/1920662
-- **NEW — Jeremiyah Love** — Jeremiyah Love "Progressing Really Well" Toward Playing in Week 1 (2026-08-31T17:22:08Z)
+- **Jeremiyah Love** — Jeremiyah Love "Progressing Really Well" Toward Playing in Week 1 (2026-08-31T17:22:08Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-progressing-really-well-toward-playing-in-week-1/1920658
 - **Jayden Reed** — Jayden Reed Well-Positioned to Bounce Back in 2026 (2026-08-31T16:58:07Z)
   - Source: https://www.rotoballer.com/player-news/jayden-reed-well-positioned-to-bounce-back-in-2026/1920642
@@ -218,7 +222,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/malik-davis-a-big-winner-after-cowboys-backfield-cuts/1919929
 - **MarShawn Lloyd** — MarShawn Lloyd Poised to Begin Season as Green Bay's Lead Running Back (2026-08-30T16:00:12Z)
   - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-poised-to-begin-season-as-green-bays-lead-running-back/1919914
-- **Jaydon Blue** — Cowboys Waive Jaydon Blue in Surprise Roster Move (2026-08-30T15:50:43Z)
-  - Source: https://www.rotoballer.com/player-news/cowboys-waive-jaydon-blue-in-surprise-roster-move/1919908
-- **Puka Nacua** — Puka Nacua Expected to Avoid Commissioner's Exempt List (2026-08-30T15:27:10Z)
-  - Source: https://www.rotoballer.com/player-news/puka-nacua-expected-to-avoid-commissioners-exempt-list/1919885
