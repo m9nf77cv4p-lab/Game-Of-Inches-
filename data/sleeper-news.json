@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-08-31T15:43:35Z",
+  "last_checked_at": "2026-08-31T16:04:05Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|9221|rotoballer|219785|1788176196000"
+    "nfl|13286|rotoballer|219787|1788177012000",
+    "nfl|7547|rotoballer|219786|1788176881000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks rookie first-round running back Jadarian Price is ready to lead the team's backfield while it waits for Zach Charbonnet (knee) to return from the torn ACL he suffered last postseason, ESPN's Brady Henderson writes. Outside of a week that he missed with a minor injury, Price had a strong summer during training camp, showing the vision, decisiveness, and athleticism that made him the 32nd overall pick back in April. Price \"has looked as good as advertised -- and in some ways better.\" \"He's done a great job. He really has -- all three downs,\" head coach Mike Macdonald said. \"He's a rookie in terms of, there's going to be things that we're going to attack in his game that will show itself in games. We haven't been afforded the luxury of having the bodies right now at running back to give him the reps in a [preseason] game that we would normally give to a rookie runner.\" Henderson adds that \"the best guess is that the Seahawks are planning, for now, to roll with Price as their lead back while mixing in a heavy dose of George Holani.\" Holani seems better suited for third-down work because of his pass-blocking skills. Emanuel Wilson (undisclosed) is the power complement, but he has been sidelined the final two weeks of camp with an undisclosed injury. Price's sizable role entering his rookie campaign will make him a low-end RB2 target in fantasy drafts, but just know that Seattle's entire backfield picture could change drastically once Charbonnet returns.",
+      "metadata": {
+        "description": "Seattle Seahawks rookie first-round running back Jadarian Price is ready to lead the team's backfield while it waits for Zach Charbonnet (knee) to return from the torn ACL he suffered last postseason, ESPN's Brady Henderson writes. Outside of a week that he missed with a minor injury, Price had a strong summer during training camp, showing the vision, decisiveness, and athleticism that made him the 32nd overall pick back in April. Price \"has looked as good as advertised -- and in some ways better.\" \"He's done a great job. He really has -- all three downs,\" head coach Mike Macdonald said. \"He's a rookie in terms of, there's going to be things that we're going to attack in his game that will show itself in games. We haven't been afforded the luxury of having the bodies right now at running back to give him the reps in a [preseason] game that we would normally give to a rookie runner.\" Henderson adds that \"the best guess is that the Seahawks are planning, for now, to roll with Price as their lead back while mixing in a heavy dose of George Holani.\" Holani seems better suited for third-down work because of his pass-blocking skills. Emanuel Wilson (undisclosed) is the power complement, but he has been sidelined the final two weeks of camp with an undisclosed injury. Price's sizable role entering his rookie campaign will make him a low-end RB2 target in fantasy drafts, but just know that Seattle's entire backfield picture could change drastically once Charbonnet returns.",
+        "title": "Jadarian Price Ready to Lead Seahawks' Backfield",
+        "topic_id": "1400182419843239936",
+        "url": "https://www.rotoballer.com/player-news/jadarian-price-ready-to-lead-seahawks-backfield/1920396"
+      },
+      "nfl_team": "SEA",
+      "player_id": "13286",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "published": 1788177012000,
+      "source": "rotoballer",
+      "source_key": "219787",
+      "story_id": "nfl|13286|rotoballer|219787|1788177012000",
+      "title": "Jadarian Price Ready to Lead Seahawks' Backfield",
+      "url": "https://www.rotoballer.com/player-news/jadarian-price-ready-to-lead-seahawks-backfield/1920396"
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions wide receiver Amon-Ra St. Brown finished August about as well as he could have. He was already coming off 117 catches for 1,401 yards and 11 touchdowns on a career-high 172 targets, and nothing in camp suggested that volume is about to disappear. Tim Twentyman wrote on Aug. 15 that St. Brown looked better than he ever had and had been nearly impossible to cover. The strong finish kept coming. He turned a fourth-and-two catch from Jared Goff into a 32-yard touchdown on Aug. 26, then caught four passes on one late-camp drive the next day, including a 16-yard score. Jameson Williams, Sam LaPorta, Jahmyr Gibbs and Isaac TeSlaa will all get their share, so another 172 targets is no guarantee. St. Brown has been Detroit's steady answer anyway. RotoBaller currently has him as the WR4 for 2026, and his camp did nothing to loosen that grip. For a receiver already going in the first round, that's enough to count as a win.",
+      "metadata": {
+        "description": "Detroit Lions wide receiver Amon-Ra St. Brown finished August about as well as he could have. He was already coming off 117 catches for 1,401 yards and 11 touchdowns on a career-high 172 targets, and nothing in camp suggested that volume is about to disappear. Tim Twentyman wrote on Aug. 15 that St. Brown looked better than he ever had and had been nearly impossible to cover. The strong finish kept coming. He turned a fourth-and-two catch from Jared Goff into a 32-yard touchdown on Aug. 26, then caught four passes on one late-camp drive the next day, including a 16-yard score. Jameson Williams, Sam LaPorta, Jahmyr Gibbs and Isaac TeSlaa will all get their share, so another 172 targets is no guarantee. St. Brown has been Detroit's steady answer anyway. RotoBaller currently has him as the WR4 for 2026, and his camp did nothing to loosen that grip. For a receiver already going in the first round, that's enough to count as a win.",
+        "title": "Amon-Ra St. Brown Ends Camp on a High Note",
+        "topic_id": "1400181158309806080",
+        "url": "https://www.rotoballer.com/player-news/amon-ra-st-brown-ends-camp-on-a-high-note/1920393"
+      },
+      "nfl_team": "DET",
+      "player_id": "7547",
+      "player_name": "Amon-Ra St. Brown",
+      "position": "WR",
+      "published": 1788176881000,
+      "source": "rotoballer",
+      "source_key": "219786",
+      "story_id": "nfl|7547|rotoballer|219786|1788176881000",
+      "title": "Amon-Ra St. Brown Ends Camp on a High Note",
+      "url": "https://www.rotoballer.com/player-news/amon-ra-st-brown-ends-camp-on-a-high-note/1920393"
+    },
     {
       "analysis": null,
       "description": "Detroit Lions running back Jahmyr Gibbs was already set for more work after David Montgomery was traded to Houston. August made that setup look even better. Dan Campbell called Gibbs the Lions' bell cow back in June, and there is no established Montgomery-type partner waiting behind him. Isiah Pacheco was signed for the No. 2 role, but he missed most of camp with a sprained MCL and is now also dealing with a back injury. His Week 1 status is still up in the air. Campbell said Saturday that he would be comfortable using Jacob Saylors as Gibbs' primary backup if Pacheco can't go. Gibbs, meanwhile, finished camp making plays, including a 59-yard touchdown run during Detroit's final practice. He totaled 1,839 scrimmage yards and 18 touchdowns last season while playing a career-high 67% of the offensive snaps. RotoBaller still has Gibbs as its RB1 and No. 1 overall player in PPR. He was already an elite pick. The backfield around him now makes an even bigger workload easier to picture.",

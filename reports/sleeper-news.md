@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1415**
-- Newly captured: **1**
+- Stored stories: **1417**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Jahmyr Gibbs** — Jahmyr Gibbs Could Be Busier Than Ever (2026-08-31T11:36:36Z)
+- **NEW — Jadarian Price** — Jadarian Price Ready to Lead Seahawks' Backfield (2026-08-31T11:50:12Z)
+  - Source: https://www.rotoballer.com/player-news/jadarian-price-ready-to-lead-seahawks-backfield/1920396
+- **NEW — Amon-Ra St. Brown** — Amon-Ra St. Brown Ends Camp on a High Note (2026-08-31T11:48:01Z)
+  - Source: https://www.rotoballer.com/player-news/amon-ra-st-brown-ends-camp-on-a-high-note/1920393
+- **Jahmyr Gibbs** — Jahmyr Gibbs Could Be Busier Than Ever (2026-08-31T11:36:36Z)
   - Source: https://www.rotoballer.com/player-news/jahmyr-gibbs-could-be-busier-than-ever/1920388
 - **Jonathan Taylor** — Jonathan Taylor Carries More Risk at His First-Round Price (2026-08-31T11:21:07Z)
   - Source: https://www.rotoballer.com/player-news/jonathan-taylor-carries-more-risk-at-his-first-round-price/1920375
@@ -211,7 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The Lions scored four touchdowns on the afternoon but failed on a two-point conversion on one of them. Bates hasn't looked great this preseason and converted a subpar 79.4 percent of his FG attempts in 2025, but as yet there's been no suggestion his spot is in jeopardy. Detroit's high-powered offense offers Bates a reliable floor in terms of PAT volume, but the unit's efficiency also limits his FG volume, and his fantasy ceiling -- he reached double-digit points in just seven of 17 regular-season games last season.
 - **Michael Wilson** — Michael Wilson's Price Tag Cooling Off After Breakout Season (2026-08-29T21:48:16Z)
   - Source: https://www.rotoballer.com/player-news/michael-wilsons-price-tag-cooling-off-after-breakout-season/1919395
-- **James Cook** — James Cook III Remains a Top-Tier Running Back to Target in Fantasy Drafts (2026-08-29T21:41:09Z)
-  - Source: https://www.rotoballer.com/player-news/james-cook-iii-remains-a-top-tier-running-back-to-target-in-fantasy-drafts/1919390
-- **Jalen Hurts** — Jalen Hurts Has Top-Five Upside Heading Into 2026 Season (2026-08-29T21:37:10Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-hurts-has-top-five-upside-heading-into-2026-season/1919384
