@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1417**
-- Newly captured: **2**
+- Stored stories: **1418**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jadarian Price** — Jadarian Price Ready to Lead Seahawks' Backfield (2026-08-31T11:50:12Z)
+- **NEW — Carnell Tate** — Carnell Tate Gains Steam Despite Quiet Preseason (2026-08-31T11:59:13Z)
+  - Source: https://www.rotoballer.com/player-news/carnell-tate-gains-steam-despite-quiet-preseason/1920405
+- **Jadarian Price** — Jadarian Price Ready to Lead Seahawks' Backfield (2026-08-31T11:50:12Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-ready-to-lead-seahawks-backfield/1920396
-- **NEW — Amon-Ra St. Brown** — Amon-Ra St. Brown Ends Camp on a High Note (2026-08-31T11:48:01Z)
+- **Amon-Ra St. Brown** — Amon-Ra St. Brown Ends Camp on a High Note (2026-08-31T11:48:01Z)
   - Source: https://www.rotoballer.com/player-news/amon-ra-st-brown-ends-camp-on-a-high-note/1920393
 - **Jahmyr Gibbs** — Jahmyr Gibbs Could Be Busier Than Ever (2026-08-31T11:36:36Z)
   - Source: https://www.rotoballer.com/player-news/jahmyr-gibbs-could-be-busier-than-ever/1920388
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-a-top-target-in-drafts-despite-steep-price-tag/1919399
 - **Jake Bates** — Jake Bates - Rough performance in preseason finale (2026-08-29T21:53:32Z)
   - The Lions scored four touchdowns on the afternoon but failed on a two-point conversion on one of them. Bates hasn't looked great this preseason and converted a subpar 79.4 percent of his FG attempts in 2025, but as yet there's been no suggestion his spot is in jeopardy. Detroit's high-powered offense offers Bates a reliable floor in terms of PAT volume, but the unit's efficiency also limits his FG volume, and his fantasy ceiling -- he reached double-digit points in just seven of 17 regular-season games last season.
-- **Michael Wilson** — Michael Wilson's Price Tag Cooling Off After Breakout Season (2026-08-29T21:48:16Z)
-  - Source: https://www.rotoballer.com/player-news/michael-wilsons-price-tag-cooling-off-after-breakout-season/1919395

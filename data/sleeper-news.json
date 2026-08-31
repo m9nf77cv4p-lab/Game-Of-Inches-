@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T16:04:05Z",
+  "last_checked_at": "2026-08-31T16:14:12Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|13286|rotoballer|219787|1788177012000",
-    "nfl|7547|rotoballer|219786|1788176881000"
+    "nfl|13279|rotoballer|219788|1788177553000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Tennessee Titans wide receiver Carnell Tate didn't catch a pass in the preseason, but his August was better than that box-score line makes it look. The fourth overall pick finished with zero receptions on six targets in three exhibitions, then closed camp with one of his best practices of the summer. Tate caught a team-high seven passes and scored twice in the Aug. 27 joint session with Chicago, with Cam Ward repeatedly coming back to him. That wasn't an isolated day. Tate scored three times in practice on Aug. 9, twice more on Aug. 15 and finished Tennessee's 15 open camp practices with 33 catches. The Titans also list him as a starter alongside Calvin Ridley and Wan'Dale Robinson. There is still reason to keep expectations under control. Tate has plenty of competition for targets, and the preseason production was empty. Still, the role is there and his connection with Ward improved as camp went along. The rookie enters Week 1 with more redraft appeal than his exhibition stat line suggests.",
+      "metadata": {
+        "description": "Tennessee Titans wide receiver Carnell Tate didn't catch a pass in the preseason, but his August was better than that box-score line makes it look. The fourth overall pick finished with zero receptions on six targets in three exhibitions, then closed camp with one of his best practices of the summer. Tate caught a team-high seven passes and scored twice in the Aug. 27 joint session with Chicago, with Cam Ward repeatedly coming back to him. That wasn't an isolated day. Tate scored three times in practice on Aug. 9, twice more on Aug. 15 and finished Tennessee's 15 open camp practices with 33 catches. The Titans also list him as a starter alongside Calvin Ridley and Wan'Dale Robinson. There is still reason to keep expectations under control. Tate has plenty of competition for targets, and the preseason production was empty. Still, the role is there and his connection with Ward improved as camp went along. The rookie enters Week 1 with more redraft appeal than his exhibition stat line suggests.",
+        "title": "Carnell Tate Gains Steam Despite Quiet Preseason",
+        "topic_id": "1400183675429134336",
+        "url": "https://www.rotoballer.com/player-news/carnell-tate-gains-steam-despite-quiet-preseason/1920405"
+      },
+      "nfl_team": "TEN",
+      "player_id": "13279",
+      "player_name": "Carnell Tate",
+      "position": "WR",
+      "published": 1788177553000,
+      "source": "rotoballer",
+      "source_key": "219788",
+      "story_id": "nfl|13279|rotoballer|219788|1788177553000",
+      "title": "Carnell Tate Gains Steam Despite Quiet Preseason",
+      "url": "https://www.rotoballer.com/player-news/carnell-tate-gains-steam-despite-quiet-preseason/1920405"
+    },
     {
       "analysis": null,
       "description": "Seattle Seahawks rookie first-round running back Jadarian Price is ready to lead the team's backfield while it waits for Zach Charbonnet (knee) to return from the torn ACL he suffered last postseason, ESPN's Brady Henderson writes. Outside of a week that he missed with a minor injury, Price had a strong summer during training camp, showing the vision, decisiveness, and athleticism that made him the 32nd overall pick back in April. Price \"has looked as good as advertised -- and in some ways better.\" \"He's done a great job. He really has -- all three downs,\" head coach Mike Macdonald said. \"He's a rookie in terms of, there's going to be things that we're going to attack in his game that will show itself in games. We haven't been afforded the luxury of having the bodies right now at running back to give him the reps in a [preseason] game that we would normally give to a rookie runner.\" Henderson adds that \"the best guess is that the Seahawks are planning, for now, to roll with Price as their lead back while mixing in a heavy dose of George Holani.\" Holani seems better suited for third-down work because of his pass-blocking skills. Emanuel Wilson (undisclosed) is the power complement, but he has been sidelined the final two weeks of camp with an undisclosed injury. Price's sizable role entering his rookie campaign will make him a low-end RB2 target in fantasy drafts, but just know that Seattle's entire backfield picture could change drastically once Charbonnet returns.",
@@ -848,7 +867,7 @@
         "topic_id": "1399878107434893312",
         "url": "https://www.fantasypros.com/nfl/news/604887/jaydon-blue-waived-by-dallas-cowboys.php"
       },
-      "nfl_team": "DAL",
+      "nfl_team": null,
       "player_id": "12457",
       "player_name": "Jaydon Blue",
       "position": "RB",
@@ -888,7 +907,7 @@
         "title": "Jaydon Blue - Cut loose by Cowboys",
         "topic_id": "1399875585408282624"
       },
-      "nfl_team": "DAL",
+      "nfl_team": null,
       "player_id": "12457",
       "player_name": "Jaydon Blue",
       "position": "RB",
@@ -1150,7 +1169,7 @@
         "topic_id": "1399880616249405440",
         "url": "https://www.rotoballer.com/player-news/cowboys-waive-jaydon-blue-in-surprise-roster-move/1919908"
       },
-      "nfl_team": "DAL",
+      "nfl_team": null,
       "player_id": "12457",
       "player_name": "Jaydon Blue",
       "position": "RB",
