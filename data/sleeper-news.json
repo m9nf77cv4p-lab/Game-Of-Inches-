@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-08-31T21:07:17Z",
+  "last_checked_at": "2026-08-31T21:17:22Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|10222|rotoballer|219823|1788195487000"
+    "nfl|12533|rotowire|635614|1788210709000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Croskey-Merritt was forced to miss the Commanders' final two preseason games due to a lower-body injury, and he will not participate at practice Monday. His participation level once he gets back on the field should offer more clarity on his readiness for the regular-season opener Sept. 13 against the Eagles. In the meantime, Kaytron Allen is the Commanders' top healthy option in the backfield with Rachaad White (hamstring) also banged up at practice.",
+      "description": "Croskey-Merritt (lower body) is expected to return to practice next week, John Keim of ESPN reports.",
+      "metadata": {
+        "analysis": "Croskey-Merritt was forced to miss the Commanders' final two preseason games due to a lower-body injury, and he will not participate at practice Monday. His participation level once he gets back on the field should offer more clarity on his readiness for the regular-season opener Sept. 13 against the Eagles. In the meantime, Kaytron Allen is the Commanders' top healthy option in the backfield with Rachaad White (hamstring) also banged up at practice.",
+        "description": "Croskey-Merritt (lower body) is expected to return to practice next week, John Keim of ESPN reports.",
+        "title": "Jacory Croskey-Merritt - Set to practice next week",
+        "topic_id": "1400261698316673024"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1788210709000,
+      "source": "rotowire",
+      "source_key": "635614",
+      "story_id": "nfl|12533|rotowire|635614|1788210709000",
+      "title": "Jacory Croskey-Merritt - Set to practice next week",
+      "url": null
+    },
     {
       "analysis": "Kittle was activated from the active/PUP list last week and continues to make his push to play Week 1 against the Rams on Thursday, Sept. 10. He'll be limited in practice this week, and San Francisco figures to then ramp things up for Kittle next week to see if he can travel with the team to Australia. If Kittle is unable to go for the season opener, Jake Tonges and Luke Farrell would handle tight end duties for the Niners.",
       "description": "Kittle (Achilles) will be eased back into practice this week, Matt Barrows of The Athletic reports.",

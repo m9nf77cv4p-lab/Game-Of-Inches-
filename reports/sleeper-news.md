@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1456**
+- Stored stories: **1457**
 - Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Set to practice next week (2026-08-31T21:11:49Z)
+  - Croskey-Merritt was forced to miss the Commanders' final two preseason games due to a lower-body injury, and he will not participate at practice Monday. His participation level once he gets back on the field should offer more clarity on his readiness for the regular-season opener Sept. 13 against the Eagles. In the meantime, Kaytron Allen is the Commanders' top healthy option in the backfield with Rachaad White (hamstring) also banged up at practice.
 - **George Kittle** — George Kittle - Will be limited in practice this week (2026-08-31T20:45:26Z)
   - Kittle was activated from the active/PUP list last week and continues to make his push to play Week 1 against the Rams on Thursday, Sept. 10. He'll be limited in practice this week, and San Francisco figures to then ramp things up for Kittle next week to see if he can travel with the team to Australia. If Kittle is unable to go for the season opener, Jake Tonges and Luke Farrell would handle tight end duties for the Niners.
 - **Puka Nacua** — Puka Nacua (psoas) returns to practice  (2026-08-31T20:45:12.623000Z)
@@ -45,7 +47,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
 - **Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
   - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
-- **NEW — Jayden Reed** — Jayden Reed Well-Positioned to Bounce Back in 2026 (2026-08-31T16:58:07Z)
+- **Jayden Reed** — Jayden Reed Well-Positioned to Bounce Back in 2026 (2026-08-31T16:58:07Z)
   - Source: https://www.rotoballer.com/player-news/jayden-reed-well-positioned-to-bounce-back-in-2026/1920642
 - **Kyler Murray** — Kyler Murray Could Be Poised for Resurgent Season in Minnesota (2026-08-31T16:48:18Z)
   - Source: https://www.rotoballer.com/player-news/kyler-murray-could-be-poised-for-resurgent-season-in-minnesota/1920632
@@ -220,5 +222,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Myers converted a 46-yard attempt in the first quarter but missed a PAT in the fourth quarter to keep Seattle's lead at 9-6. After the Chiefs tied the game, Myers missed an opportunity to give the Seahawks their only win of the preseason by pushing a 52-yard field-goal attempt wide right on the final play of the game. Myers missed his only field-goal attempt in Seattle's preseason opener against the Cowboys and went 1-for-2 on field-goal attempts while missing a PAT in the Seahawks' second preseason game. His preseason inaccuracy represents a significant departure from Myers' strong performance during the 2025 regular season, when he converted 41 of his league-high 48 field-goal attempts.
 - **George Kittle** — George Kittle - Expected to practice this week (2026-08-30T14:57:41Z)
   - With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up versus the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.
-- **Keenan Allen** — Keenan Allen Faces Potential Three-Game Suspension (2026-08-30T14:48:06Z)
-  - Source: https://www.rotoballer.com/player-news/keenan-allen-faces-potential-three-game-suspension/1919808
