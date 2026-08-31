@@ -2,18 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1453**
-- Newly captured: **4**
+- Stored stories: **1455**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Puka Nacua** — Puka Nacua (psoas) returns to practice  (2026-08-31T20:45:12.623000Z)
+- **NEW — George Kittle** — George Kittle - Will be limited in practice this week (2026-08-31T20:45:26Z)
+  - Kittle was activated from the active/PUP list last week and continues to make his push to play Week 1 against the Rams on Thursday, Sept. 10. He'll be limited in practice this week, and San Francisco figures to then ramp things up for Kittle next week to see if he can travel with the team to Australia. If Kittle is unable to go for the season opener, Jake Tonges and Luke Farrell would handle tight end duties for the Niners.
+- **Puka Nacua** — Puka Nacua (psoas) returns to practice  (2026-08-31T20:45:12.623000Z)
   - Nacua had missed practice for much of the past couple of weeks with psoas soreness. The injury appears to be behind him and he is expected to avoid the commissioner's exempt list, meaning he should be good to go for Week 1. 
   - Source: https://www.fantasypros.com/nfl/news/605080/puka-nacua-psoas-returns-to-practice.php
-- **NEW — Devin Neal** — Devin Neal placed on season-ending IR (2026-08-31T20:45:12.604000Z)
+- **Devin Neal** — Devin Neal placed on season-ending IR (2026-08-31T20:45:12.604000Z)
   - Neal will miss the entire season unless he reaches an injury settlement with New Orleans. 
   - Source: https://www.fantasypros.com/nfl/news/605081/devin-neal-placed-on-season-ending-ir.php
-- **NEW — Zach Charbonnet** — Zach Charbonnet (knee) placed on PUP list  (2026-08-31T20:45:12.586000Z)
+- **Zach Charbonnet** — Zach Charbonnet (knee) placed on PUP list  (2026-08-31T20:45:12.586000Z)
   - Charbonnet will miss at least the first four games of the season. Rookie RB Jadarian Price will open the year as the lead back with George Holani behind him. 
   - Source: https://www.fantasypros.com/nfl/news/605082/zach-charbonnet-knee-placed-on-pup-list.php
 - **Jeremiyah Love** — Jeremiyah Love - Trending toward Week 1 return (2026-08-31T20:29:49Z)
@@ -43,7 +45,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
 - **Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
   - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
-- **NEW — Drake London** — Drake London Remains a Viable WR1 Option Despite QB Concerns (2026-08-31T16:36:08Z)
+- **NEW — Kyler Murray** — Kyler Murray Could Be Poised for Resurgent Season in Minnesota (2026-08-31T16:48:18Z)
+  - Source: https://www.rotoballer.com/player-news/kyler-murray-could-be-poised-for-resurgent-season-in-minnesota/1920632
+- **Drake London** — Drake London Remains a Viable WR1 Option Despite QB Concerns (2026-08-31T16:36:08Z)
   - Source: https://www.rotoballer.com/player-news/drake-london-remains-a-viable-wr1-option-despite-quarterback-questions-in-atlanta/1920620
 - **Rome Odunze** — Rome Odunze Could Be Poised for a Breakout Campaign in 2026 (2026-08-31T16:27:09Z)
   - Source: https://www.rotoballer.com/player-news/rome-odunze-could-be-poised-for-a-breakout-campaign-in-2026/1920607
@@ -218,7 +222,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/keenan-allen-faces-potential-three-game-suspension/1919808
 - **Jalon Daniels** — Jalon Daniels - Wins backup QB job (2026-08-30T14:20:19Z)
   - After entering camp as an undrafted rookie in a crowded quarterback room, Daniels appears to have climbed into the No. 2 role behind Mayfield. The decision gives him clear roster security and places him next in line if Tampa Bay needs a backup to step into game action. Daniels won the job after a strong preseason during which he completed 27 of 44 passes for 239 yards and a touchdown without being picked off.
-- **Brock Bowers** — Brock Bowers Looks Like Himself Again (2026-08-30T14:09:07Z)
-  - Source: https://www.rotoballer.com/player-news/brock-bowers-looks-like-himself-again/1919761
-- **MarShawn Lloyd** — MarShawn Lloyd Facing Potential Competition for No. 2 Role (2026-08-30T13:59:08Z)
-  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-facing-potential-competition-for-no-2-role/1919757
