@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1426**
+- Stored stories: **1427**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Kyren Williams** — Kyren Williams Facing More Workload Risk (2026-08-31T13:33:03Z)
+- **NEW — Marvin Harrison** — Marvin Harrison Jr. Building Momentum for Redraft Rebound (2026-08-31T13:42:18Z)
+  - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-building-momentum-for-redraft-rebound/1920488
+- **Kyren Williams** — Kyren Williams Facing More Workload Risk (2026-08-31T13:33:03Z)
   - Source: https://www.rotoballer.com/player-news/kyren-williams-facing-more-workload-risk/1920484
 - **Kaleb Johnson** — Kaleb Johnson Surging Up Draft Boards Amid Path to Fantasy Relevance (2026-08-31T13:22:11Z)
   - Source: https://www.rotoballer.com/player-news/kaleb-johnson-surging-up-draft-boards-amid-path-to-fantasy-relevance/1920472
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/devonta-smith-taking-on-wr1-responsibilities-in-2026/1919414
 - **Harold Fannin** — Harold Fannin Jr. Has Position All to Himself, Comes with a Steep Price Tag (2026-08-30T00:17:10Z)
   - Source: https://www.rotoballer.com/player-news/harold-fannin-jr-has-position-all-to-himself-comes-with-a-steep-price-tag/1919412
-- **Rashee Rice** — Rashee Rice - Logs 10 snaps in preseason finale (2026-08-29T23:36:05Z)
-  - Rice and some of Kansas City's key offensive starters got to log some reps during the first quarter before being pulled. Though he didn't produce any offensive output, it's notable that Rice took part in his first game action since he landed on IR due to a concussion late last December. Rice had a tumultuous offseason, as he spent some time in jail due to a probation violation and also had a minor procedure on his right knee, but he appears healthy and isn't expected to face NFL discipline for the legal issue. As such, he can be penciled in as the Chiefs' top WR heading into Week 1 versus Denver on Monday, Sept. 14.
