@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-01T21:38:48Z",
+  "last_checked_at": "2026-09-01T22:15:29Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11632|rotoballer|219883|1788283210000",
-    "nfl|11655|rotoballer|219884|1788283749000"
+    "nfl|8151|rotoballer|219885|1788285911000"
   ],
   "schema_version": 1,
   "source": {
@@ -399,6 +398,26 @@
       "story_id": "nfl|12529|rotowire|635841|1788286497000",
       "title": "TreVeyon Henderson - Still awaiting clearance for all activity",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Kansas City Chiefs view running back Kenneth Walker as a \"potential three-down back,\" according to The Athletic's Jesse Newell, although rookie Emmett Johnson made big strides in the final two weeks of training camp this summer. Emari Demercado's roster spot seemed secure going into roster cutdown day on Sunday because he had been one of the team's top pass protectors. With the Chiefs surprisingly cutting Demercado, it could mean even more pass-catching opportunities for Walker, who looks ready for a workhorse role in his new digs after winning Super Bowl MVP for the Seattle Seahawks in early February. The 25-year-old former second-rounder by Seattle in 2022 out of Michigan State had his second career 1,000-yard season in 17 regular-season starts in 2025, and with more volume coming with the Chiefs if he stays healthy, there is clear RB1 upside for Walker in his fifth NFL season, especially if the Chiefs' offense can bounce back with a healthy quarterback Patrick Mahomes. RotoBaller has Walker ranked as the No. 8 fantasy RB for 2026.",
+      "metadata": {
+        "description": "The Kansas City Chiefs view running back Kenneth Walker as a \"potential three-down back,\" according to The Athletic's Jesse Newell, although rookie Emmett Johnson made big strides in the final two weeks of training camp this summer. Emari Demercado's roster spot seemed secure going into roster cutdown day on Sunday because he had been one of the team's top pass protectors. With the Chiefs surprisingly cutting Demercado, it could mean even more pass-catching opportunities for Walker, who looks ready for a workhorse role in his new digs after winning Super Bowl MVP for the Seattle Seahawks in early February. The 25-year-old former second-rounder by Seattle in 2022 out of Michigan State had his second career 1,000-yard season in 17 regular-season starts in 2025, and with more volume coming with the Chiefs if he stays healthy, there is clear RB1 upside for Walker in his fifth NFL season, especially if the Chiefs' offense can bounce back with a healthy quarterback Patrick Mahomes. RotoBaller has Walker ranked as the No. 8 fantasy RB for 2026.",
+        "title": "Chiefs View Kenneth Walker as Potential Three-Down Back",
+        "topic_id": "1400637961103507456",
+        "url": "https://www.rotoballer.com/player-news/chiefs-view-kenneth-walker-as-potential-three-down-back/1921429"
+      },
+      "nfl_team": "KC",
+      "player_id": "8151",
+      "player_name": "Kenneth Walker",
+      "position": "RB",
+      "published": 1788285911000,
+      "source": "rotoballer",
+      "source_key": "219885",
+      "story_id": "nfl|8151|rotoballer|219885|1788285911000",
+      "title": "Chiefs View Kenneth Walker as Potential Three-Down Back",
+      "url": "https://www.rotoballer.com/player-news/chiefs-view-kenneth-walker-as-potential-three-down-back/1921429"
     },
     {
       "analysis": "Pierce was back on the practice field Tuesday, but it's unclear if he's truly been unleashed for full team drills as he makes his way back from offseason ankle surgery. He missed most of training camp and didn't see any preseason action, but the Colts are remaining optimistic their No. 1 receiver will be out there in 12 days against Baltimore. Indy has issues all over its offense, with Pierce, Josh Downs (calf) and Tyler Warren (groin) all dealing with ailments while Keenan Allen is 34 years old and just signed with the team two weeks ago.",

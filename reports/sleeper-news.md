@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1573**
-- Newly captured: **2**
+- Stored stories: **1574**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -51,6 +51,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - "It's the best I've seen him this time of year," Johnson said last week. "You look back at a year ago, he was very explosive, and yet it takes a little while to gel between him and the offensive line. I think he's accelerating his vision here at this point. I think [RBs] coach [Eric] Studesville has been fantastic for him just with the reads and being able to know the intent of where we're trying to hit things. He bounces it when we're supposed to bounce it. He hits it right on spot when it's there, then he cuts it up. I think he's doing a really good job right now. We just got to get into that first week nice and healthy and ready to go. I think he's primed for a big year, though." With Kyle Monangai (knee) still considered week-to-week 12 days out from the regular season, Swift could have a huge role early in the season. Running behind one of the best run-blocking offensive lines in the league and in an offense that wants to score boatloads of points, Swift has big upside as a fantasy RB2.
 - **TreVeyon Henderson** — TreVeyon Henderson - Still awaiting clearance for all activity (2026-09-01T18:14:57Z)
   - Henderson made an early departure from practice last Monday, which has sidelined him in the meantime. Reiss mentioned that Henderson was spotted in the locker room this Tuesday and seemed to be "walking normally," but the Patriots will take it easy on the second-year pro as a Week 1 road showdown with the Seahawks approaches next Wednesday, Sept. 9.
+- **NEW — Kenneth Walker** — Chiefs View Kenneth Walker as Potential Three-Down Back (2026-09-01T18:05:11Z)
+  - Source: https://www.rotoballer.com/player-news/chiefs-view-kenneth-walker-as-potential-three-down-back/1921429
 - **Alec Pierce** — Alec Pierce - Hopeful for Week 1 (2026-09-01T18:00:59Z)
   - Pierce was back on the practice field Tuesday, but it's unclear if he's truly been unleashed for full team drills as he makes his way back from offseason ankle surgery. He missed most of training camp and didn't see any preseason action, but the Colts are remaining optimistic their No. 1 receiver will be out there in 12 days against Baltimore. Indy has issues all over its offense, with Pierce, Josh Downs (calf) and Tyler Warren (groin) all dealing with ailments while Keenan Allen is 34 years old and just signed with the team two weeks ago.
 - **Tee Higgins** — Tee Higgins - Dealing with heel injury (2026-09-01T17:57:50Z)
@@ -61,11 +63,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Though Keaton Mitchell is now with the Chargers after the Ravens non-tendered him back in the spring, Henry will be supported by a pair of familiar complements in Hill and Ali, both of whom were on the roster during Henry's first two seasons in Baltimore. Ali is expected to serve as the Ravens' primary kickoff returner and will see most of his snaps on special teams, while Hill returns to a familiar role as the top change-of-pace/pass-catching option in the backfield. Rookie fifth-round pick Adam Randall (undisclosed) could also factor into the equation at some point this season, though not until at least Week 5 after the Ravens placed him on injured reserve with a designation to return. The makeup of the Ravens backfield once again points to the 32-year-old Henry handling a workhorse role in 2026, after he averaged 19.6 touches and exactly one touchdown per game over the prior two seasons.
 - **Ja'Marr Chase** — Ja'Marr Chase - To be limited this week (2026-09-01T17:50:36Z)
   - Chase injured his left knee at last Tuesday's session when he attempted to catch a deep ball and had an awkward landing. He exhibited a visible limp in the aftermath, but he later told Kelsey Conway of The Cincinnati Enquirer that it was a "little hyperextension," and he could have resumed practicing. Now that he's set to get back on the practice field after a week off of it, Chase will attempt to put the issue behind him ahead of a Week 1 matchup with the Buccaneers on Sunday, Sept. 13.
-- **NEW — Tyrone Tracy** — Tyrone Tracy Jr. in a Non-Contact Jersey on Tuesday (2026-09-01T17:29:09Z)
+- **Tyrone Tracy** — Tyrone Tracy Jr. in a Non-Contact Jersey on Tuesday (2026-09-01T17:29:09Z)
   - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-in-a-non-contact-jersey-on-tuesday/1921413
 - **Jonathon Brooks** — Jonathon Brooks - Dealing with soreness Tuesday (2026-09-01T17:27:20Z)
   - It doesn't sound like anything serious for the 23-year-old running back after he played 20 offensive snaps during the preseason, rushing eight times for 23 yards and one touchdown. He also caught one pass for nine yards. Brooks is expected to form a committee with Chuba Hubbard (hamstring) this season, but there's a chance Brooks can separate some from Hubbard if he can show he's past the knee issues that ruined his 2024 and 2025 seasons after the Panthers selected Brooks in the second round of the 2024 Draft. Brooks is an upside pick in fantasy drafts.
-- **NEW — Malik Nabers** — Malik Nabers Gets Some Practice Work in on Tuesday (2026-09-01T17:20:10Z)
+- **Malik Nabers** — Malik Nabers Gets Some Practice Work in on Tuesday (2026-09-01T17:20:10Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-gets-some-practice-work-in-on-tuesday/1921409
 - **Kyren Williams** — Kyren Williams - Expected to be part of RB timeshare (2026-09-01T17:15:53Z)
   - Neither Williams nor Corum saw any action this preseason, as the Rams are notorious for resting their starters every summer, so it was difficult to get a clearer picture of the backfield situation outside of practice. By all accounts this offseason, the Rams want to up Corum's usage after he ate into Williams' workload following the bye last season. Following the Week 8 bye in 2025, Williams out-carried Corum 196 to 130 and out-targeted him 33 to 11. Also working in Williams' favor is coach Sean McVay's preference to use him near the goal line and on passing downs. Even with the talk of Corum getting more work, Williams looks like one of the better third-round fantasy picks playing in an offense that is expected to win a bunch of games while jockeying for the league lead in points scored.
@@ -224,5 +226,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/quarterback-upgrade-could-be-the-key-to-jaylen-waddles-success/1920929
 - **Jaydon Blue** — Jaydon Blue - Heading to Philly (2026-09-01T00:04:10Z)
   - A fifth-round pick of the Cowboys in 2025, Blue got some run as a rookie to the tune of 38 carries for 129 yards (3.4 YPC) and one touchdown in five regular-season appearances. Following the 2026 preseason, though, Dallas opted to waive him Sunday and then didn't included him among the team's practice-squad signings Monday. Blue thus will move on to an NFC East foe, where he'll be a candidate for elevation if any of Saquon Barkley, Tank Bigsby or Will Shipley need time on the sideline.
-- **Puka Nacua** — Puka Nacua - Working off to side Monday (2026-08-31T23:52:35Z)
-  - Nacua returned to practice Sunday and is slowly ramping things back up 10 days ahead of the Rams' Week 1 opener against the 49ers in Australia on Thursday, Sept. 10. The star wideout has missed a sizable chunk of the summer, but he and Matthew Stafford already have elite chemistry and should be able to pick things back up rather quickly when the games count. Nacua has been a locked-in first-round fantasy pick.
