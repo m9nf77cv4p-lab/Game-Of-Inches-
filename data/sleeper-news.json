@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-01T23:17:00Z",
+  "last_checked_at": "2026-09-01T23:38:07Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|13305|rotoballer|219893|1788289148000"
+    "nfl|13311|rotoballer|219894|1788290947000"
   ],
   "schema_version": 1,
   "source": {
@@ -381,6 +381,26 @@
       "story_id": "nfl|13287|rotowire|635850|1788291519000",
       "title": "Jeremiyah Love - Present Tuesday, but not practicing",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins rookie third-round wide receiver Chris Bell played 14 offensive snaps in the team's preseason finale last Friday and caught two of his five targets for 22 yards as he closes out his rehab from a torn ACL. However, head coach Jeff Hafley said Bell is still working his way back, saying, \"I think he would tell you he needs to continue to get in football shape,\" according to Joe Schad of The Palm Beach Post. \"If he continues to improve, get in shape, then my expectation is we see him on the field,\" Hafley added. It sounds as though the 22-year-old has a chance to be active as a part of the offense in Week 1 of the regular season in an offense that has one of the thinnest WR depth charts in the league. Bell is competing primarily with fellow rookie Caleb Douglas for the WR3 role behind Malik Washington and Jalen Tolbert, so he has a prime chance for rookie-year targets from new Dolphins QB Malik Willis. Bell can likely be avoided in 12-team fantasy leagues, but with opportunity and likely positive game script most weeks, he could quickly emerge as a trendy waiver-wire pickup if he continues to ascend and build trust with Willis.",
+      "metadata": {
+        "description": "Miami Dolphins rookie third-round wide receiver Chris Bell played 14 offensive snaps in the team's preseason finale last Friday and caught two of his five targets for 22 yards as he closes out his rehab from a torn ACL. However, head coach Jeff Hafley said Bell is still working his way back, saying, \"I think he would tell you he needs to continue to get in football shape,\" according to Joe Schad of The Palm Beach Post. \"If he continues to improve, get in shape, then my expectation is we see him on the field,\" Hafley added. It sounds as though the 22-year-old has a chance to be active as a part of the offense in Week 1 of the regular season in an offense that has one of the thinnest WR depth charts in the league. Bell is competing primarily with fellow rookie Caleb Douglas for the WR3 role behind Malik Washington and Jalen Tolbert, so he has a prime chance for rookie-year targets from new Dolphins QB Malik Willis. Bell can likely be avoided in 12-team fantasy leagues, but with opportunity and likely positive game script most weeks, he could quickly emerge as a trendy waiver-wire pickup if he continues to ascend and build trust with Willis.",
+        "title": "Chris Bell Still Needs to Get into Football Shape",
+        "topic_id": "1400659355560357888",
+        "url": "https://www.rotoballer.com/player-news/chris-bell-still-needs-to-get-into-football-shape/1921504"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1788290947000,
+      "source": "rotoballer",
+      "source_key": "219894",
+      "story_id": "nfl|13311|rotoballer|219894|1788290947000",
+      "title": "Chris Bell Still Needs to Get into Football Shape",
+      "url": "https://www.rotoballer.com/player-news/chris-bell-still-needs-to-get-into-football-shape/1921504"
     },
     {
       "analysis": "Coleman sustained a sprained right foot/toe in the Bills' preseason opener Aug. 15, but he ditched his low walking boot as of last Thursday and now appears set to mix back into drills. The extent of his activity Tuesday isn't known, but he still has nearly two weeks to get healthy ahead of a Week 1 road matchup with the Texans on Sunday, Sept. 13.",

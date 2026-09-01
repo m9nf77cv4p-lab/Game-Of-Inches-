@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1586**
+- Stored stories: **1587**
 - Newly captured: **1**
 
 ## Latest news
@@ -52,11 +52,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605356/tank-dell-knee-is-close-but-not-quite-there.php
 - **Jeremiyah Love** — Jeremiyah Love - Present Tuesday, but not practicing (2026-09-01T19:38:39Z)
   - Love has been tending to a high-ankle sprain since making his pro debut preseason Week 1, missing all practices and the Cardinals' final two exhibitions in the meantime. Coach Mike LaFleur told Josh Weinfuss of ESPN.com on Monday that Love is "progressing really well" toward being available Week 1. Nevertheless, Love's next step will be mixing into at least some drills to begin to put questions about his status for the regular-season opener on Sunday, Sept. 13 at the Chargers in the rearview mirror.
+- **NEW — Chris Bell** — Chris Bell Still Needs to Get into Football Shape (2026-09-01T19:29:07Z)
+  - Source: https://www.rotoballer.com/player-news/chris-bell-still-needs-to-get-into-football-shape/1921504
 - **Keon Coleman** — Keon Coleman - Gets back on practice field (2026-09-01T19:23:42Z)
   - Coleman sustained a sprained right foot/toe in the Bills' preseason opener Aug. 15, but he ditched his low walking boot as of last Thursday and now appears set to mix back into drills. The extent of his activity Tuesday isn't known, but he still has nearly two weeks to get healthy ahead of a Week 1 road matchup with the Texans on Sunday, Sept. 13.
 - **Khalil Shakir** — Khalil Shakir - Still not practicing (2026-09-01T19:11:55Z)
   - Shakir was able to suit up for preseason Week 1 against the Panthers on Saturday, Aug. 15, hauling in both of his targets for 41 yards while playing eight offensive snaps. However, he's been out of drills since Aug. 20 and didn't suit up for the Bills' final two exhibitions due to an undisclosed injury. Buffalo opens the regular season on Sunday, Sept. 13 at Houston, giving him less than two weeks to get himself ready for game action.
-- **NEW — Mike Washington** — Raiders are Counting on Mike Washington Jr. to Win Games (2026-09-01T18:59:08Z)
+- **Mike Washington** — Raiders are Counting on Mike Washington Jr. to Win Games (2026-09-01T18:59:08Z)
   - Source: https://www.rotoballer.com/player-news/raiders-are-counting-on-mike-washington-jr-to-win-games/1921490
 - **Malik Nabers** — Malik Nabers was Involved in Most of Tuesday's Practice (2026-09-01T18:49:30Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-was-involved-in-most-of-tuesdays-practice/1921471
@@ -226,5 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/parker-washington-has-big-time-potential-as-slot-receiver/1921148
 - **De'Zhaun Stribling** — De'Zhaun Stribling Remains a Top Late-Round Target (2026-09-01T10:10:10Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-remains-a-top-late-round-target/1921145
-- **Kenneth Walker** — Kenneth Walker Could Be Over-Hyped (2026-09-01T09:59:08Z)
-  - Source: https://www.rotoballer.com/player-news/kenneth-walker-could-be-over-hyped/1921139
