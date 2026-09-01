@@ -1,14 +1,9 @@
 {
-  "last_checked_at": "2026-09-01T20:03:42Z",
+  "last_checked_at": "2026-09-01T20:20:22Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11632|rotowire|635851|1788292227000",
-    "nfl|11655|rotowire|635852|1788292457000",
-    "nfl|12533|fantasy_pros|605368|1788292523023",
-    "nfl|1479|fantasy_pros|605367|1788292523042",
-    "nfl|4034|rotowire|635853|1788292758000",
-    "nfl|8134|fantasy_pros|605372|1788292822420"
+    "nfl|13279|rotowire|635854|1788293370000"
   ],
   "schema_version": 1,
   "source": {
@@ -18,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "It's unclear what kind of stiffness and soreness Tate is dealing with, but there's been no indication the first-round rookie wideout's status for Week 1 against the Jets is in any sort of danger. Tate played 38 offensive snaps during the preseason but failed to catch any of his six targets across the three exhibition contests. He's expected to serve as Cam Ward's top downfield weapon this season alongside slot man Wan'Dale Robinson (head), though Calvin Ridley is still in the mix at the position. There could be growing pains for Tate in 2026 in what is expected to be one of the lower scoring offenses in the league.",
+      "description": "Coach Robert Saleh said Tate (undisclosed) missed Tuesday's practice due to some \"stiffness,\" Jim Wyatt of the Titans' official site reports.",
+      "metadata": {
+        "analysis": "It's unclear what kind of stiffness and soreness Tate is dealing with, but there's been no indication the first-round rookie wideout's status for Week 1 against the Jets is in any sort of danger. Tate played 38 offensive snaps during the preseason but failed to catch any of his six targets across the three exhibition contests. He's expected to serve as Cam Ward's top downfield weapon this season alongside slot man Wan'Dale Robinson (head), though Calvin Ridley is still in the mix at the position. There could be growing pains for Tate in 2026 in what is expected to be one of the lower scoring offenses in the league.",
+        "description": "Coach Robert Saleh said Tate (undisclosed) missed Tuesday's practice due to some \"stiffness,\" Jim Wyatt of the Titans' official site reports.",
+        "title": "Carnell Tate - Working through stiffness",
+        "topic_id": "1400607762378993664"
+      },
+      "nfl_team": "TEN",
+      "player_id": "13279",
+      "player_name": "Carnell Tate",
+      "position": "WR",
+      "published": 1788293370000,
+      "source": "rotowire",
+      "source_key": "635854",
+      "story_id": "nfl|13279|rotowire|635854|1788293370000",
+      "title": "Carnell Tate - Working through stiffness",
+      "url": null
+    },
     {
       "analysis": "It is unclear what Shakir is dealing with. His status will need to be monitored the rest of this week and next week into Week 1. ",
       "description": "Khalil Shakir did not practice on Tuesday. ",

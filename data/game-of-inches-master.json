@@ -20916,7 +20916,7 @@
       ],
       "first_name": "Carnell",
       "full_name": "Carnell Tate",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Tate",
       "nfl_team": "TEN",
       "player_id": "13279",
@@ -23662,8 +23662,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-01T17:52:54Z",
-    "source_fingerprint": "70adffbe1a88db7f423992e8f52d5096b8d6ab4f4582061a4f19b08ae3137e64"
+    "last_changed_at": "2026-09-01T20:20:20Z",
+    "source_fingerprint": "0dbc703424dff0af3b388aacde143268ec6c2742d4e94a6e531a158a7bd88d39"
   },
   "teams": [
     {

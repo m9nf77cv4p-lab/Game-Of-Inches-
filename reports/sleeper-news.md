@@ -2,25 +2,27 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1548**
-- Newly captured: **6**
+- Stored stories: **1549**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Khalil Shakir** — Khalil Shakir (undisclosed) misses practice Tuesday  (2026-09-01T20:00:22.420000Z)
+- **NEW — Carnell Tate** — Carnell Tate - Working through stiffness (2026-09-01T20:09:30Z)
+  - It's unclear what kind of stiffness and soreness Tate is dealing with, but there's been no indication the first-round rookie wideout's status for Week 1 against the Jets is in any sort of danger. Tate played 38 offensive snaps during the preseason but failed to catch any of his six targets across the three exhibition contests. He's expected to serve as Cam Ward's top downfield weapon this season alongside slot man Wan'Dale Robinson (head), though Calvin Ridley is still in the mix at the position. There could be growing pains for Tate in 2026 in what is expected to be one of the lower scoring offenses in the league.
+- **Khalil Shakir** — Khalil Shakir (undisclosed) misses practice Tuesday  (2026-09-01T20:00:22.420000Z)
   - It is unclear what Shakir is dealing with. His status will need to be monitored the rest of this week and next week into Week 1. 
   - Source: https://www.fantasypros.com/nfl/news/605372/khalil-shakir-undisclosed-misses-practice-tuesday.php
-- **NEW — Christian McCaffrey** — Christian McCaffrey - Goes through drills Tuesday (2026-09-01T19:59:18Z)
+- **Christian McCaffrey** — Christian McCaffrey - Goes through drills Tuesday (2026-09-01T19:59:18Z)
   - McCaffrey was able to run and catch passes Tuesday in full uniform, so it would appear he has not encountered any hiccups since returning to practice a little over a week ago. It has been a while since the last official update on McCaffrey's status, but it would appear he continues trending in the right direction ahead of Week 1.
-- **NEW — Keenan Allen** — Keenan Allen will play in Week 1 (2026-09-01T19:55:23.042000Z)
+- **Keenan Allen** — Keenan Allen will play in Week 1 (2026-09-01T19:55:23.042000Z)
   - Allen was arrested for DWI and DWI endangering a person on Sunday morning. He'll be in the WR4 range for fantasy managers heading into the season. 
   - Source: https://www.fantasypros.com/nfl/news/605367/keenan-allen-will-play-week-1.php
-- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) returns to practice  (2026-09-01T19:55:23.023000Z)
+- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) returns to practice  (2026-09-01T19:55:23.023000Z)
   - Croskey-Merritt was absent from practice for the past week. He should be on track to be good to go for Week 1. 
   - Source: https://www.fantasypros.com/nfl/news/605368/jacory-croskey-merritt-groin-returns-to-practice.php
-- **NEW — Tyrone Tracy** — Tyrone Tracy - Practicing in non-contact jersey (2026-09-01T19:54:17Z)
+- **Tyrone Tracy** — Tyrone Tracy - Practicing in non-contact jersey (2026-09-01T19:54:17Z)
   - Tracy suffered a neck stinger in last Friday's preseason finale and avoided a major injury. Despite a rocky preseason and training camp under new coach John Harbaugh and OC Matt Nagy, Tracy still managed to make the Giants' 53-man roster. However, Najee Harris and Devin Singletary are also in the mix behind Cam Skattebo, leaving Tracy's actual role uncertain.
-- **NEW — Malik Nabers** — Malik Nabers - Practices Tuesday despite early absence (2026-09-01T19:50:27Z)
+- **Malik Nabers** — Malik Nabers - Practices Tuesday despite early absence (2026-09-01T19:50:27Z)
   - The apparent absence for Nabers may have raised some alarms after he said Monday he was unsure about his Week 1 availability, but it turns he was able to join Tuesday's session midway through. It's unclear how much work he will get in Tuesday, but it does bode well for his status that he was out there at all.
 - **Ja'Marr Chase** — Ja'Marr Chase (knee) to be limited in practice this week (2026-09-01T19:45:22.854000Z)
   - Taylor added that he "feels good about his progress." It sounds like Chase will be on track to be good to go for Week 1, but his status will need to be monitored in practice next week. 
@@ -231,5 +233,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Like teammate DK Metcalf (undisclosed), Pittman has missed a bunch of practice time this summer and didn't see any preseason action. However, Pittman was back on the practice field last week and will now have the next couple weeks to get ramped up for the Week 1 opener. Acquired from the Colts over the offseason, Pittman is expected to push Metcalf for the team lead in targets this season, but it's fair to wonder about Pittman's chemistry with Aaron Rodgers right out of the gates.
 - **DK Metcalf** — DK Metcalf - Expected to be ready for Week 1 (2026-08-31T19:13:12Z)
   - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
-- **Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
-  - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
