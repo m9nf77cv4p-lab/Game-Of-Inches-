@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-01T00:26:36Z",
+  "last_checked_at": "2026-09-01T01:28:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|12457|fantasy_pros|605162|1788221714084",
-    "nfl|12457|rotoballer|219835|1788206711000",
-    "nfl|12457|rotowire|635693|1788221050000"
+    "nfl|9493|rotoballer|219836|1788210730000"
   ],
   "schema_version": 1,
   "source": {
@@ -135,6 +133,26 @@
       "story_id": "nfl|9511|rotowire|635622|1788212319000",
       "title": "Keaton Mitchell - Working off to side Monday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Puka Nacua (groin) was seen working off to the side during team drills at Monday's practice, according to Nate Atkins of The Athletic. Nacua returned to practice on Sunday after being sidelined for multiple weeks. It appears the Rams are going to slowly ramp up Nacua with still 10 days to go before the season opener against the San Francisco 49ers. Nacua has missed a good part of training camp, but that shouldn't concern fantasy managers too much. Nacua is one of the best players in the league and is expected to continue being an elite fantasy option. Fantasy managers shouldn't be surprised if the Rams continue to slowly bring along Nacua.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Puka Nacua (groin) was seen working off to the side during team drills at Monday's practice, according to Nate Atkins of The Athletic. Nacua returned to practice on Sunday after being sidelined for multiple weeks. It appears the Rams are going to slowly ramp up Nacua with still 10 days to go before the season opener against the San Francisco 49ers. Nacua has missed a good part of training camp, but that shouldn't concern fantasy managers too much. Nacua is one of the best players in the league and is expected to continue being an elite fantasy option. Fantasy managers shouldn't be surprised if the Rams continue to slowly bring along Nacua.",
+        "title": "Puka Nacua Off to the Side in Monday's Practice",
+        "topic_id": "1400323351829823488",
+        "url": "https://www.rotoballer.com/player-news/puka-nacua-off-to-the-side-in-mondays-practice/1920807"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1788210730000,
+      "source": "rotoballer",
+      "source_key": "219836",
+      "story_id": "nfl|9493|rotoballer|219836|1788210730000",
+      "title": "Puka Nacua Off to the Side in Monday's Practice",
+      "url": "https://www.rotoballer.com/player-news/puka-nacua-off-to-the-side-in-mondays-practice/1920807"
     },
     {
       "analysis": "Croskey-Merritt was forced to miss the Commanders' final two preseason games due to a lower-body injury, and he will not participate at practice Monday. His participation level once he gets back on the field should offer more clarity on his readiness for the regular-season opener Sept. 13 against the Eagles. In the meantime, Kaytron Allen is the Commanders' top healthy option in the backfield with Rachaad White (hamstring) also banged up at practice.",
