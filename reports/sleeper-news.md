@@ -9,7 +9,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - **Zay Flowers** — Zay Flowers - Set to fully practice next week (2026-09-01T13:17:32Z)
   - Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout then ended up missing some practices last week due to the lower-body issue, though the Ravens haven't indicated whether the injury is related to the prior quad bruise. Whatever the case, Flowers' injury never seemed to be a major concern, and assuming he's able to begin Week 1 prep as a full practice participant, he should be ready to handle a high-volume role in the Baltimore passing attack once the regular season gets underway.
-- **NEW — Jalen McMillan** — Emeka Egbuka and Jalen McMillan Could Play in Week 1 (2026-09-01T09:36:33Z)
+- **NEW — Ted Hurst** — Ted Hurst III Earning a Larger Role for the Buccaneers (2026-09-01T09:45:15Z)
+  - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-earning-a-larger-role-for-the-buccaneers/1921126
+- **Jalen McMillan** — Emeka Egbuka Could Play in Week 1 (2026-09-01T09:36:33Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-and-jalen-mcmillan-could-play-in-week-1/1921116
 - **Zay Flowers** — Zay Flowers Good to Go for Week 1 (2026-09-01T09:22:10Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-good-to-go-for-week-1/1921100
@@ -217,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - There was talk leading up to cut-down day that McCarthy could be traded or even released, but he will remain with Minnesota for the time being. Kyler Murray will open the season as the starting quarterback for the Vikings, and either McCarthy or Carson Wentz will back him up.
 - **James Conner** — James Conner - Starting season on IR, with designation to return (2026-08-30T21:50:54Z)
   - Conner continues to deal with complications from the foot injury that ended his 2025 campaign Week 3 of last season. Initially, when Arizona didn't place him on the active/PUP list at the start of training camp, it was an indication that he had a chance to be available Week 1. Instead, Conner will be required to miss at least the first four games following this transaction. Considering rookie third overall pick Jeremiyah Love's status is up in the air due to a high-ankle sprain, Tyler Allgeier may be the team's lead runner in the early going, with Bam Knight backing him up.
-- **Tank Dell** — Tank Dell - Landing on IR (2026-08-30T21:50:50Z)
-  - Dell continues to work his way back from the serious knee injury he suffered in December of 2024. The promising news is that the wideout has progressed to working in team drills and is being allowed to progress at his own pace. Dell's placement on IR means he'll need to sit out at least the first four games of the regular season, but the designation to return means he's expected to suit up at some point in 2026.

@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-01T13:46:40Z",
+  "last_checked_at": "2026-09-01T13:57:49Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11618|rotoballer|219852|1788255393000"
+    "nfl|13317|rotoballer|219853|1788255915000"
   ],
   "schema_version": 1,
   "source": {
@@ -35,10 +35,30 @@
     },
     {
       "analysis": null,
-      "description": "Buccaneers wide receivers Emeka Egbuka (toe) and Jalen McMillan (knee) are both still dealing with injuries that they picked up this preseason, but there is optimism from the team that both will be ready to play in Week 1, according to NFL Network's Sara Walsh. McMillan is back to running routes after missing a couple of weeks with a knee injury, while Egbuka is recovering from a sprained toe that he suffered in a joint practice with the Jets a few weeks ago. Egbuka had a breakout rookie season, and both he and McMillan bring lots of fantasy upside this year, following the departure of target-magnet Mike Evans. With plenty of work up for grabs in Baker Mayfield's offense, Egbuka has WR1 upside if he's healthy, while McMillan could be a strong late-round sleeper if he secures regular playing time.",
+      "description": "Tampa Bay Buccaneers wide receiver Ted Hurst III had a great training camp and preseason, and he has impressed the team to the point that they expect him to be involved early in the season, according to NFL Network's Sara Walsh. The Bucs have dealt with multiple injuries in their receiving corps this preseason, with Emeka Egbuka (toe), Jalen McMillan (knee), and Tez Johnson (groin) all missing practice at different points. Hurst has been very consistent throughout all the different opportunities, and the third-round pick from Georgia State has made the most of his chances. Both head coach Todd Bowles and quarterback Baker Mayfield have praised Hurst's ability and reliability throughout the preseason, and Hurst is definitely worth considering as a late-round WR flier or a waiver-wire add, especially if he gets more playing time as other receivers recover.",
       "metadata": {
-        "description": "Buccaneers wide receivers Emeka Egbuka (toe) and Jalen McMillan (knee) are both still dealing with injuries that they picked up this preseason, but there is optimism from the team that both will be ready to play in Week 1, according to NFL Network's Sara Walsh. McMillan is back to running routes after missing a couple of weeks with a knee injury, while Egbuka is recovering from a sprained toe that he suffered in a joint practice with the Jets a few weeks ago. Egbuka had a breakout rookie season, and both he and McMillan bring lots of fantasy upside this year, following the departure of target-magnet Mike Evans. With plenty of work up for grabs in Baker Mayfield's offense, Egbuka has WR1 upside if he's healthy, while McMillan could be a strong late-round sleeper if he secures regular playing time.",
-        "title": "Emeka Egbuka and Jalen McMillan Could Play in Week 1",
+        "description": "Tampa Bay Buccaneers wide receiver Ted Hurst III had a great training camp and preseason, and he has impressed the team to the point that they expect him to be involved early in the season, according to NFL Network's Sara Walsh. The Bucs have dealt with multiple injuries in their receiving corps this preseason, with Emeka Egbuka (toe), Jalen McMillan (knee), and Tez Johnson (groin) all missing practice at different points. Hurst has been very consistent throughout all the different opportunities, and the third-round pick from Georgia State has made the most of his chances. Both head coach Todd Bowles and quarterback Baker Mayfield have praised Hurst's ability and reliability throughout the preseason, and Hurst is definitely worth considering as a late-round WR flier or a waiver-wire add, especially if he gets more playing time as other receivers recover.",
+        "title": "Ted Hurst III Earning a Larger Role for the Buccaneers",
+        "topic_id": "1400513376899112960",
+        "url": "https://www.rotoballer.com/player-news/ted-hurst-iii-earning-a-larger-role-for-the-buccaneers/1921126"
+      },
+      "nfl_team": "TB",
+      "player_id": "13317",
+      "player_name": "Ted Hurst",
+      "position": "WR",
+      "published": 1788255915000,
+      "source": "rotoballer",
+      "source_key": "219853",
+      "story_id": "nfl|13317|rotoballer|219853|1788255915000",
+      "title": "Ted Hurst III Earning a Larger Role for the Buccaneers",
+      "url": "https://www.rotoballer.com/player-news/ted-hurst-iii-earning-a-larger-role-for-the-buccaneers/1921126"
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers wide receivers Emeka Egbuka (toe) and Jalen McMillan (knee) are both still dealing with injuries that they picked up this preseason, but there is optimism from the team that both will be ready to play in Week 1, according to NFL Network's Sara Walsh. McMillan is back to running routes after missing a couple of weeks with a knee injury, while Egbuka is recovering from a sprained toe that he suffered in a joint practice with the Jets a few weeks ago. Egbuka had a breakout rookie season, and both he and McMillan bring lots of fantasy upside this year, following the departure of target-magnet Mike Evans. With plenty of work up for grabs in Baker Mayfield's offense, Egbuka has WR1 upside if he's healthy, while McMillan could be a strong late-round sleeper if he secures regular playing time.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers wide receivers Emeka Egbuka (toe) and Jalen McMillan (knee) are both still dealing with injuries that they picked up this preseason, but there is optimism from the team that both will be ready to play in Week 1, according to NFL Network's Sara Walsh. McMillan is back to running routes after missing a couple of weeks with a knee injury, while Egbuka is recovering from a sprained toe that he suffered in a joint practice with the Jets a few weeks ago. Egbuka had a breakout rookie season, and both he and McMillan bring lots of fantasy upside this year, following the departure of target-magnet Mike Evans. With plenty of work up for grabs in Baker Mayfield's offense, Egbuka has WR1 upside if he's healthy, while McMillan could be a strong late-round sleeper if he secures regular playing time.",
+        "title": "Emeka Egbuka Could Play in Week 1",
         "topic_id": "1400509601090138112",
         "url": "https://www.rotoballer.com/player-news/emeka-egbuka-and-jalen-mcmillan-could-play-in-week-1/1921116"
       },
@@ -50,7 +70,7 @@
       "source": "rotoballer",
       "source_key": "219852",
       "story_id": "nfl|11618|rotoballer|219852|1788255393000",
-      "title": "Emeka Egbuka and Jalen McMillan Could Play in Week 1",
+      "title": "Emeka Egbuka Could Play in Week 1",
       "url": "https://www.rotoballer.com/player-news/emeka-egbuka-and-jalen-mcmillan-could-play-in-week-1/1921116"
     },
     {
@@ -29885,26 +29905,6 @@
       "story_id": "nfl|7588|rotoballer|217882|1785682805000",
       "title": "Rebuilders Should Test the Market on Javonte Williams",
       "url": "https://www.rotoballer.com/player-news/rebuilders-should-test-the-market-on-javonte-williams/1901580"
-    },
-    {
-      "analysis": null,
-      "description": "Detroit Lions wide receiver Amon-Ra St. Brown is unlikely to come at any sort of discount in dynasty leagues, but that does not make him a sell. He followed another massive season with 117 catches for 1,401 yards and 11 touchdowns on 172 targets in 2025. It was his third straight year with at least 115 receptions, 1,250 yards, and 10 scores, and he finished as the WR3 in half-PPR scoring for the third consecutive season. That level of consistency is difficult to move away from, especially when St. Brown is only 26, remains tied to Jared Goff, and is under contract through 2028. Jameson Williams, Sam LaPorta, and Jahmyr Gibbs give Detroit plenty of other options, but none of them prevented St. Brown from setting a career high in targets last season. A third offensive coordinator in as many years is worth noting, although his role is not suddenly in danger. RotoBaller currently has St. Brown ranked as the dynasty WR6 and eighth overall, which feels appropriate. Contenders should continue building around him, and rebuilders do not need to trade him simply because they are not ready to win. Unless another manager offers true cornerstone value, St. Brown is an easy hold.",
-      "metadata": {
-        "description": "Detroit Lions wide receiver Amon-Ra St. Brown is unlikely to come at any sort of discount in dynasty leagues, but that does not make him a sell. He followed another massive season with 117 catches for 1,401 yards and 11 touchdowns on 172 targets in 2025. It was his third straight year with at least 115 receptions, 1,250 yards, and 10 scores, and he finished as the WR3 in half-PPR scoring for the third consecutive season. That level of consistency is difficult to move away from, especially when St. Brown is only 26, remains tied to Jared Goff, and is under contract through 2028. Jameson Williams, Sam LaPorta, and Jahmyr Gibbs give Detroit plenty of other options, but none of them prevented St. Brown from setting a career high in targets last season. A third offensive coordinator in as many years is worth noting, although his role is not suddenly in danger. RotoBaller currently has St. Brown ranked as the dynasty WR6 and eighth overall, which feels appropriate. Contenders should continue building around him, and rebuilders do not need to trade him simply because they are not ready to win. Unless another manager offers true cornerstone value, St. Brown is an easy hold.",
-        "title": "Amon-Ra St. Brown Still Belongs on Any Dynasty Roster",
-        "topic_id": "1389703551378264064",
-        "url": "https://www.rotoballer.com/player-news/amon-ra-st-brown-still-belongs-on-any-dynasty-roster/1901524"
-      },
-      "nfl_team": "DET",
-      "player_id": "7547",
-      "player_name": "Amon-Ra St. Brown",
-      "position": "WR",
-      "published": 1785678786000,
-      "source": "rotoballer",
-      "source_key": "217870",
-      "story_id": "nfl|7547|rotoballer|217870|1785678786000",
-      "title": "Amon-Ra St. Brown Still Belongs on Any Dynasty Roster",
-      "url": "https://www.rotoballer.com/player-news/amon-ra-st-brown-still-belongs-on-any-dynasty-roster/1901524"
     }
   ]
 }
