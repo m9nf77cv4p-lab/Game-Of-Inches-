@@ -2,12 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1540**
-- Newly captured: **1**
+- Stored stories: **1542**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Jeremiyah Love** — Jeremiyah Love - Present Tuesday, but not practicing (2026-09-01T19:38:39Z)
+- **NEW — Ja'Marr Chase** — Ja'Marr Chase (knee) to be limited in practice this week (2026-09-01T19:45:22.854000Z)
+  - Taylor added that he "feels good about his progress." It sounds like Chase will be on track to be good to go for Week 1, but his status will need to be monitored in practice next week. 
+  - Source: https://www.fantasypros.com/nfl/news/605355/jamarr-chase-knee-to-be-limited-practice-this-week.php
+- **NEW — Tank Dell** — Tank Dell (knee) is 'close' but 'not quite there' (2026-09-01T19:45:22.839000Z)
+  - Dell was placed on injured reserve, so he'll miss the first four games of the season. It is unclear when he'll be activated. 
+  - Source: https://www.fantasypros.com/nfl/news/605356/tank-dell-knee-is-close-but-not-quite-there.php
+- **Jeremiyah Love** — Jeremiyah Love - Present Tuesday, but not practicing (2026-09-01T19:38:39Z)
   - Love has been tending to a high-ankle sprain since making his pro debut preseason Week 1, missing all practices and the Cardinals' final two exhibitions in the meantime. Coach Mike LaFleur told Josh Weinfuss of ESPN.com on Monday that Love is "progressing really well" toward being available Week 1. Nevertheless, Love's next step will be mixing into at least some drills to begin to put questions about his status for the regular-season opener on Sunday, Sept. 13 at the Chargers in the rearview mirror.
 - **Keon Coleman** — Keon Coleman - Gets back on practice field (2026-09-01T19:23:42Z)
   - Coleman sustained a sprained right foot/toe in the Bills' preseason opener Aug. 15, but he ditched his low walking boot as of last Thursday and now appears set to mix back into drills. The extent of his activity Tuesday isn't known, but he still has nearly two weeks to get healthy ahead of a Week 1 road matchup with the Texans on Sunday, Sept. 13.
@@ -224,7 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/george-kittle-to-be-eased-into-practice-this-week/1920662
 - **Jeremiyah Love** — Jeremiyah Love "Progressing Really Well" Toward Playing in Week 1 (2026-08-31T17:22:08Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-progressing-really-well-toward-playing-in-week-1/1920658
-- **Jayden Reed** — Jayden Reed Well-Positioned to Bounce Back in 2026 (2026-08-31T16:58:07Z)
-  - Source: https://www.rotoballer.com/player-news/jayden-reed-well-positioned-to-bounce-back-in-2026/1920642
-- **Kyler Murray** — Kyler Murray Could Be Poised for Resurgent Season in Minnesota (2026-08-31T16:48:18Z)
-  - Source: https://www.rotoballer.com/player-news/kyler-murray-could-be-poised-for-resurgent-season-in-minnesota/1920632

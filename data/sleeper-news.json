@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-01T19:41:31Z",
+  "last_checked_at": "2026-09-01T19:51:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|13287|rotowire|635850|1788291519000"
+    "nfl|7564|fantasy_pros|605355|1788291922854",
+    "nfl|9502|fantasy_pros|605356|1788291922839"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,48 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Taylor added that he \"feels good about his progress.\" It sounds like Chase will be on track to be good to go for Week 1, but his status will need to be monitored in practice next week. ",
+      "description": "Bengals coach Zac Taylor said Ja'Marr Chase will be \"limited this week.\" ",
+      "metadata": {
+        "analysis": "Taylor added that he \"feels good about his progress.\" It sounds like Chase will be on track to be good to go for Week 1, but his status will need to be monitored in practice next week. ",
+        "description": "Bengals coach Zac Taylor said Ja'Marr Chase will be \"limited this week.\" ",
+        "title": "Ja'Marr Chase (knee) to be limited in practice this week",
+        "topic_id": "1400601474957905920",
+        "url": "https://www.fantasypros.com/nfl/news/605355/jamarr-chase-knee-to-be-limited-practice-this-week.php"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1788291922854,
+      "source": "fantasy_pros",
+      "source_key": "605355",
+      "story_id": "nfl|7564|fantasy_pros|605355|1788291922854",
+      "title": "Ja'Marr Chase (knee) to be limited in practice this week",
+      "url": "https://www.fantasypros.com/nfl/news/605355/jamarr-chase-knee-to-be-limited-practice-this-week.php"
+    },
+    {
+      "analysis": "Dell was placed on injured reserve, so he'll miss the first four games of the season. It is unclear when he'll be activated. ",
+      "description": "Texans GM Nick Caserio said Tank Dell is \"close\" but \"not quite there.\"",
+      "metadata": {
+        "analysis": "Dell was placed on injured reserve, so he'll miss the first four games of the season. It is unclear when he'll be activated. ",
+        "description": "Texans GM Nick Caserio said Tank Dell is \"close\" but \"not quite there.\"",
+        "title": "Tank Dell (knee) is 'close' but 'not quite there'",
+        "topic_id": "1400601474894991360",
+        "url": "https://www.fantasypros.com/nfl/news/605356/tank-dell-knee-is-close-but-not-quite-there.php"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9502",
+      "player_name": "Tank Dell",
+      "position": "WR",
+      "published": 1788291922839,
+      "source": "fantasy_pros",
+      "source_key": "605356",
+      "story_id": "nfl|9502|fantasy_pros|605356|1788291922839",
+      "title": "Tank Dell (knee) is 'close' but 'not quite there'",
+      "url": "https://www.fantasypros.com/nfl/news/605356/tank-dell-knee-is-close-but-not-quite-there.php"
+    },
     {
       "analysis": "Love has been tending to a high-ankle sprain since making his pro debut preseason Week 1, missing all practices and the Cardinals' final two exhibitions in the meantime. Coach Mike LaFleur told Josh Weinfuss of ESPN.com on Monday that Love is \"progressing really well\" toward being available Week 1. Nevertheless, Love's next step will be mixing into at least some drills to begin to put questions about his status for the regular-season opener on Sunday, Sept. 13 at the Chargers in the rearview mirror.",
       "description": "Love (ankle) was spotted at Tuesday's practice but wasn't suited up, Theo Mackie of The Arizona Republic reports.",
