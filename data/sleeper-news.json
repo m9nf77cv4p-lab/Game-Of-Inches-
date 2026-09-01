@@ -1,15 +1,9 @@
 {
-  "last_checked_at": "2026-09-01T17:17:08Z",
+  "last_checked_at": "2026-09-01T17:29:50Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11618|fantasy_pros|605325|1788282921946",
-    "nfl|12514|fantasy_pros|605324|1788282921963",
-    "nfl|13287|fantasy_pros|605322|1788282621402",
-    "nfl|421|rotowire|635832|1788282227000",
-    "nfl|4892|fantasy_pros|605319|1788282322397",
-    "nfl|5850|fantasy_pros|605321|1788282322360",
-    "nfl|9229|fantasy_pros|605318|1788282322413"
+    "nfl|8150|rotowire|635834|1788282953000"
   ],
   "schema_version": 1,
   "source": {
@@ -19,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Neither Williams nor Corum saw any action this preseason, as the Rams are notorious for resting their starters every summer, so it was difficult to get a clearer picture of the backfield situation outside of practice. By all accounts this offseason, the Rams want to up Corum's usage after he ate into Williams' workload following the bye last season. Following the Week 8 bye in 2025, Williams out-carried Corum 196 to 130 and out-targeted him 33 to 11. Also working in Williams' favor is coach Sean McVay's preference to use him near the goal line and on passing downs. Even with the talk of Corum getting more work, Williams looks like one of the better third-round fantasy picks playing in an offense that is expected to win a bunch of games while jockeying for the league lead in points scored.",
+      "description": "The Athletic's Nate Atkins believes the Rams will continue to use a backfield \"timeshare\" with Williams and Blake Corum this season.",
+      "metadata": {
+        "analysis": "Neither Williams nor Corum saw any action this preseason, as the Rams are notorious for resting their starters every summer, so it was difficult to get a clearer picture of the backfield situation outside of practice. By all accounts this offseason, the Rams want to up Corum's usage after he ate into Williams' workload following the bye last season. Following the Week 8 bye in 2025, Williams out-carried Corum 196 to 130 and out-targeted him 33 to 11. Also working in Williams' favor is coach Sean McVay's preference to use him near the goal line and on passing downs. Even with the talk of Corum getting more work, Williams looks like one of the better third-round fantasy picks playing in an offense that is expected to win a bunch of games while jockeying for the league lead in points scored.",
+        "description": "The Athletic's Nate Atkins believes the Rams will continue to use a backfield \"timeshare\" with Williams and Blake Corum this season.",
+        "title": "Kyren Williams - Expected to be part of RB timeshare",
+        "topic_id": "1400564974585171968"
+      },
+      "nfl_team": "LAR",
+      "player_id": "8150",
+      "player_name": "Kyren Williams",
+      "position": "RB",
+      "published": 1788282953000,
+      "source": "rotowire",
+      "source_key": "635834",
+      "story_id": "nfl|8150|rotowire|635834|1788282953000",
+      "title": "Kyren Williams - Expected to be part of RB timeshare",
+      "url": null
+    },
     {
       "analysis": "Egbuka is continuing to work his way back from a toe injury. His status will need to be monitored closely during practice next week. ",
       "description": "Buccaneers head coach Todd Bowles said he's waiting to see what Emeka Egbuka looks like next week before determining whether or not he'll be ready for Week 1 against the Bengals. ",
