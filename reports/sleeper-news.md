@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1527**
+- Stored stories: **1528**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Kyren Williams** — Kyren Williams - Expected to be part of RB timeshare (2026-09-01T17:15:53Z)
+- **NEW — Jonathon Brooks** — Jonathon Brooks - Dealing with soreness Tuesday (2026-09-01T17:27:20Z)
+  - It doesn't sound like anything serious for the 23-year-old running back after he played 20 offensive snaps during the preseason, rushing eight times for 23 yards and one touchdown. He also caught one pass for nine yards. Brooks is expected to form a committee with Chuba Hubbard (hamstring) this season, but there's a chance Brooks can separate some from Hubbard if he can show he's past the knee issues that ruined his 2024 and 2025 seasons after the Panthers selected Brooks in the second round of the 2024 Draft. Brooks is an upside pick in fantasy drafts.
+- **Kyren Williams** — Kyren Williams - Expected to be part of RB timeshare (2026-09-01T17:15:53Z)
   - Neither Williams nor Corum saw any action this preseason, as the Rams are notorious for resting their starters every summer, so it was difficult to get a clearer picture of the backfield situation outside of practice. By all accounts this offseason, the Rams want to up Corum's usage after he ate into Williams' workload following the bye last season. Following the Week 8 bye in 2025, Williams out-carried Corum 196 to 130 and out-targeted him 33 to 11. Also working in Williams' favor is coach Sean McVay's preference to use him near the goal line and on passing downs. Even with the talk of Corum getting more work, Williams looks like one of the better third-round fantasy picks playing in an offense that is expected to win a bunch of games while jockeying for the league lead in points scored.
 - **Emeka Egbuka** — Emeka Egbuka (toe) remains up in air for Week 1 (2026-09-01T17:15:21.963000Z)
   - Egbuka is continuing to work his way back from a toe injury. His status will need to be monitored closely during practice next week. 
@@ -226,5 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/treveyon-hendersons-lead-back-case-takes-a-hit/1920536
 - **J.J. McCarthy** — J.J. McCarthy Facing Multi-Week Absence With Ankle Injury (2026-08-31T13:56:06Z)
   - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-facing-multi-week-absence-with-ankle-injury/1920494
-- **Marvin Harrison** — Marvin Harrison Jr. Building Momentum for Redraft Rebound (2026-08-31T13:42:18Z)
-  - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-building-momentum-for-redraft-rebound/1920488

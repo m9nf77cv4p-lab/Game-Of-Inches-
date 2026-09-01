@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-01T17:29:50Z",
+  "last_checked_at": "2026-09-01T17:42:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|8150|rotowire|635834|1788282953000"
+    "nfl|11583|rotowire|635835|1788283640000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "It doesn't sound like anything serious for the 23-year-old running back after he played 20 offensive snaps during the preseason, rushing eight times for 23 yards and one touchdown. He also caught one pass for nine yards. Brooks is expected to form a committee with Chuba Hubbard (hamstring) this season, but there's a chance Brooks can separate some from Hubbard if he can show he's past the knee issues that ruined his 2024 and 2025 seasons after the Panthers selected Brooks in the second round of the 2024 Draft. Brooks is an upside pick in fantasy drafts.",
+      "description": "Coach Dave Canales said Brooks missed practice Tuesday due to general soreness, Sheena Quick of Fox Sports Radio 1340 reports.",
+      "metadata": {
+        "analysis": "It doesn't sound like anything serious for the 23-year-old running back after he played 20 offensive snaps during the preseason, rushing eight times for 23 yards and one touchdown. He also caught one pass for nine yards. Brooks is expected to form a committee with Chuba Hubbard (hamstring) this season, but there's a chance Brooks can separate some from Hubbard if he can show he's past the knee issues that ruined his 2024 and 2025 seasons after the Panthers selected Brooks in the second round of the 2024 Draft. Brooks is an upside pick in fantasy drafts.",
+        "description": "Coach Dave Canales said Brooks missed practice Tuesday due to general soreness, Sheena Quick of Fox Sports Radio 1340 reports.",
+        "title": "Jonathon Brooks - Dealing with soreness Tuesday",
+        "topic_id": "1400567490915864576"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788283640000,
+      "source": "rotowire",
+      "source_key": "635835",
+      "story_id": "nfl|11583|rotowire|635835|1788283640000",
+      "title": "Jonathon Brooks - Dealing with soreness Tuesday",
+      "url": null
+    },
     {
       "analysis": "Neither Williams nor Corum saw any action this preseason, as the Rams are notorious for resting their starters every summer, so it was difficult to get a clearer picture of the backfield situation outside of practice. By all accounts this offseason, the Rams want to up Corum's usage after he ate into Williams' workload following the bye last season. Following the Week 8 bye in 2025, Williams out-carried Corum 196 to 130 and out-targeted him 33 to 11. Also working in Williams' favor is coach Sean McVay's preference to use him near the goal line and on passing downs. Even with the talk of Corum getting more work, Williams looks like one of the better third-round fantasy picks playing in an offense that is expected to win a bunch of games while jockeying for the league lead in points scored.",
       "description": "The Athletic's Nate Atkins believes the Rams will continue to use a backfield \"timeshare\" with Williams and Blake Corum this season.",
