@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1487**
-- Newly captured: **2**
+- Stored stories: **1488**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Zay Flowers** — Zay Flowers - Set to fully practice next week (2026-09-01T13:17:32Z)
+- **Zay Flowers** — Zay Flowers - Set to fully practice next week (2026-09-01T13:17:32Z)
   - Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout then ended up missing some practices last week due to the lower-body issue, though the Ravens haven't indicated whether the injury is related to the prior quad bruise. Whatever the case, Flowers' injury never seemed to be a major concern, and assuming he's able to begin Week 1 prep as a full practice participant, he should be ready to handle a high-volume role in the Baltimore passing attack once the regular season gets underway.
-- **NEW — Zay Flowers** — Zay Flowers Good to Go for Week 1 (2026-09-01T09:22:10Z)
+- **NEW — Jalen McMillan** — Emeka Egbuka and Jalen McMillan Could Play in Week 1 (2026-09-01T09:36:33Z)
+  - Source: https://www.rotoballer.com/player-news/emeka-egbuka-and-jalen-mcmillan-could-play-in-week-1/1921116
+- **Zay Flowers** — Zay Flowers Good to Go for Week 1 (2026-09-01T09:22:10Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-good-to-go-for-week-1/1921100
 - **Jeremiyah Love** — Jeremiyah Love Considered "50/50" to Play in Week 1 (2026-09-01T09:04:09Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-considered-50-50-to-play-in-week-1/1921064
@@ -217,6 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Conner continues to deal with complications from the foot injury that ended his 2025 campaign Week 3 of last season. Initially, when Arizona didn't place him on the active/PUP list at the start of training camp, it was an indication that he had a chance to be available Week 1. Instead, Conner will be required to miss at least the first four games following this transaction. Considering rookie third overall pick Jeremiyah Love's status is up in the air due to a high-ankle sprain, Tyler Allgeier may be the team's lead runner in the early going, with Bam Knight backing him up.
 - **Tank Dell** — Tank Dell - Landing on IR (2026-08-30T21:50:50Z)
   - Dell continues to work his way back from the serious knee injury he suffered in December of 2024. The promising news is that the wideout has progressed to working in team drills and is being allowed to progress at his own pace. Dell's placement on IR means he'll need to sit out at least the first four games of the regular season, but the designation to return means he's expected to suit up at some point in 2026.
-- **Tank Dell** — Tank Dell (knee) placed on IR, designated to return (2026-08-30T21:45:59.406000Z)
-  - Dell last played in an NFL game all the way back in 2024. The 26-year-old wideout has been practicing for the Texans, but he will be given a bit more time to get fully back up to speed. The earliest Dell could see the field is now Week 5. 
-  - Source: https://www.fantasypros.com/nfl/news/604939/tank-dell-knee-placed-on-ir-designated-to-return.php

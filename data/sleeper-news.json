@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-01T13:33:07Z",
+  "last_checked_at": "2026-09-01T13:46:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|9997|rotoballer|219851|1788254530000",
-    "nfl|9997|rotowire|635796|1788268652000"
+    "nfl|11618|rotoballer|219852|1788255393000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,10 +15,10 @@
   "stories": [
     {
       "analysis": "Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout then ended up missing some practices last week due to the lower-body issue, though the Ravens haven't indicated whether the injury is related to the prior quad bruise. Whatever the case, Flowers' injury never seemed to be a major concern, and assuming he's able to begin Week 1 prep as a full practice participant, he should be ready to handle a high-volume role in the Baltimore passing attack once the regular season gets underway.",
-      "description": "Flowers, who is recovering from a lower-body injury, is expected to return to practice in full capacity next week and suit up for the Ravens' Sept. 13 opener versus the Colts, Matt Zenitz of CBS Sports reports.",
+      "description": "Flowers, who is recovering from a lower-body injury, is expected to return to practice in full capacity next week and suit up for the Ravens' Sept. 13 season opener versus the Colts, Matt Zenitz of CBS Sports reports.",
       "metadata": {
         "analysis": "Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout then ended up missing some practices last week due to the lower-body issue, though the Ravens haven't indicated whether the injury is related to the prior quad bruise. Whatever the case, Flowers' injury never seemed to be a major concern, and assuming he's able to begin Week 1 prep as a full practice participant, he should be ready to handle a high-volume role in the Baltimore passing attack once the regular season gets underway.",
-        "description": "Flowers, who is recovering from a lower-body injury, is expected to return to practice in full capacity next week and suit up for the Ravens' Sept. 13 opener versus the Colts, Matt Zenitz of CBS Sports reports.",
+        "description": "Flowers, who is recovering from a lower-body injury, is expected to return to practice in full capacity next week and suit up for the Ravens' Sept. 13 season opener versus the Colts, Matt Zenitz of CBS Sports reports.",
         "title": "Zay Flowers - Set to fully practice next week",
         "topic_id": "1400504569514975232"
       },
@@ -36,9 +35,29 @@
     },
     {
       "analysis": null,
-      "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) has been limited in practice due to an unspecified lower body injury, but it looks like it won't impact his availability against the Colts in Week 1, according to Matt Zenitz of CBS Sports. Flowers is expected to practice in full next week and be ready to go on Sunday afternoon in Indianapolis. Flowers finished with 86 catches for 1,211 yards and five touchdowns on 118 targets last season, and the Ravens' offense under new offensive coordinator Declan Doyle will be focused on getting the ball into Flowers' hands in spots where he can make big plays. He's a high-end WR2 with WR1 upside, and it looks like the injury will not slow him at all as the regular season gets underway. He can be started as you normally would, as the Ravens start a new era under new head coach Jesse Minter.",
+      "description": "Buccaneers wide receivers Emeka Egbuka (toe) and Jalen McMillan (knee) are both still dealing with injuries that they picked up this preseason, but there is optimism from the team that both will be ready to play in Week 1, according to NFL Network's Sara Walsh. McMillan is back to running routes after missing a couple of weeks with a knee injury, while Egbuka is recovering from a sprained toe that he suffered in a joint practice with the Jets a few weeks ago. Egbuka had a breakout rookie season, and both he and McMillan bring lots of fantasy upside this year, following the departure of target-magnet Mike Evans. With plenty of work up for grabs in Baker Mayfield's offense, Egbuka has WR1 upside if he's healthy, while McMillan could be a strong late-round sleeper if he secures regular playing time.",
       "metadata": {
-        "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) has been limited in practice due to an unspecified lower body injury, but it looks like it won't impact his availability against the Colts in Week 1, according to Matt Zenitz of CBS Sports. Flowers is expected to practice in full next week and be ready to go on Sunday afternoon in Indianapolis. Flowers finished with 86 catches for 1,211 yards and five touchdowns on 118 targets last season, and the Ravens' offense under new offensive coordinator Declan Doyle will be focused on getting the ball into Flowers' hands in spots where he can make big plays. He's a high-end WR2 with WR1 upside, and it looks like the injury will not slow him at all as the regular season gets underway. He can be started as you normally would, as the Ravens start a new era under new head coach Jesse Minter.",
+        "description": "Buccaneers wide receivers Emeka Egbuka (toe) and Jalen McMillan (knee) are both still dealing with injuries that they picked up this preseason, but there is optimism from the team that both will be ready to play in Week 1, according to NFL Network's Sara Walsh. McMillan is back to running routes after missing a couple of weeks with a knee injury, while Egbuka is recovering from a sprained toe that he suffered in a joint practice with the Jets a few weeks ago. Egbuka had a breakout rookie season, and both he and McMillan bring lots of fantasy upside this year, following the departure of target-magnet Mike Evans. With plenty of work up for grabs in Baker Mayfield's offense, Egbuka has WR1 upside if he's healthy, while McMillan could be a strong late-round sleeper if he secures regular playing time.",
+        "title": "Emeka Egbuka and Jalen McMillan Could Play in Week 1",
+        "topic_id": "1400509601090138112",
+        "url": "https://www.rotoballer.com/player-news/emeka-egbuka-and-jalen-mcmillan-could-play-in-week-1/1921116"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1788255393000,
+      "source": "rotoballer",
+      "source_key": "219852",
+      "story_id": "nfl|11618|rotoballer|219852|1788255393000",
+      "title": "Emeka Egbuka and Jalen McMillan Could Play in Week 1",
+      "url": "https://www.rotoballer.com/player-news/emeka-egbuka-and-jalen-mcmillan-could-play-in-week-1/1921116"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) has been limited in practice due to an unspecified lower-body injury, but it looks like it won't impact his availability against the Colts in Week 1, according to Matt Zenitz of CBS Sports. Flowers is expected to practice in full next week and be ready to go on Sunday afternoon in Indianapolis. Flowers finished with 86 catches for 1,211 yards and five touchdowns on 118 targets last season, and the Ravens' offense under new offensive coordinator Declan Doyle will be focused on getting the ball into Flowers' hands in spots where he can make big plays. He's a high-end WR2 with WR1 upside, and it looks like the injury will not slow him at all as the regular season gets underway. He can be started as you normally would, as the Ravens start a new era under new head coach Jesse Minter.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) has been limited in practice due to an unspecified lower-body injury, but it looks like it won't impact his availability against the Colts in Week 1, according to Matt Zenitz of CBS Sports. Flowers is expected to practice in full next week and be ready to go on Sunday afternoon in Indianapolis. Flowers finished with 86 catches for 1,211 yards and five touchdowns on 118 targets last season, and the Ravens' offense under new offensive coordinator Declan Doyle will be focused on getting the ball into Flowers' hands in spots where he can make big plays. He's a high-end WR2 with WR1 upside, and it looks like the injury will not slow him at all as the regular season gets underway. He can be started as you normally would, as the Ravens start a new era under new head coach Jesse Minter.",
         "title": "Zay Flowers Good to Go for Week 1",
         "topic_id": "1400507083882799104",
         "url": "https://www.rotoballer.com/player-news/zay-flowers-good-to-go-for-week-1/1921100"
