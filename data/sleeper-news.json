@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-01T05:21:55Z",
+  "last_checked_at": "2026-09-01T05:46:57Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|8259|rotoballer|219574|1787921347000",
-    "nfl|8259|rotowire|634336|1787352516000",
-    "nfl|8259|rotowire|635001|1787897704000"
+    "nfl|9500|rotoballer|219847|1788226719000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Josh Downs entered this offseason as one of the biggest risers in football. The offense was trending up, Daniel Jones was returning from injury, and Downs took a step up the depth chart after Michael Pittman Jr. was traded to Pittsburgh. As a result, his ADP rose steadily throughout the summer, and he's now looking to replicate his five-touchdown performance as the overall WR35 in PPR 2024. The bad news is that the Colts extended Alec Pierce as their No. 1 receiver and recently signed Keenan Allen to be their projected No. 2 receiver, leaving Downs in a relatively unfavorable role. We also can't forget that the Colts have Tyler Warren to offer a major boost at the tight end position. While there's no denying that Downs is quite talented, he has been holding pretty steady at his ADP of 102.9, which ranks him as the overall WR41 in PPR leagues for this season.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Josh Downs entered this offseason as one of the biggest risers in football. The offense was trending up, Daniel Jones was returning from injury, and Downs took a step up the depth chart after Michael Pittman Jr. was traded to Pittsburgh. As a result, his ADP rose steadily throughout the summer, and he's now looking to replicate his five-touchdown performance as the overall WR35 in PPR 2024. The bad news is that the Colts extended Alec Pierce as their No. 1 receiver and recently signed Keenan Allen to be their projected No. 2 receiver, leaving Downs in a relatively unfavorable role. We also can't forget that the Colts have Tyler Warren to offer a major boost at the tight end position. While there's no denying that Downs is quite talented, he has been holding pretty steady at his ADP of 102.9, which ranks him as the overall WR41 in PPR leagues for this season.",
+        "title": "Josh Downs' ADP Sits Steady in Ninth Round",
+        "topic_id": "1400390048603504640",
+        "url": "https://www.rotoballer.com/player-news/josh-downs-adp-sits-steady-in-ninth-round/1920942"
+      },
+      "nfl_team": "IND",
+      "player_id": "9500",
+      "player_name": "Josh Downs",
+      "position": "WR",
+      "published": 1788226719000,
+      "source": "rotoballer",
+      "source_key": "219847",
+      "story_id": "nfl|9500|rotoballer|219847|1788226719000",
+      "title": "Josh Downs' ADP Sits Steady in Ninth Round",
+      "url": "https://www.rotoballer.com/player-news/josh-downs-adp-sits-steady-in-ninth-round/1920942"
+    },
     {
       "analysis": null,
       "description": "Carolina Panthers running back Jonathon Brooks is trending up once again. After knee injuries limited him to just five games through his first two seasons, he's now fully healthy and ready to occupy a big role on offense. There may be a little re-acclimation period as he gets used to his first NFL action since 2024, but there's also a glaring opportunity for him to step into a 1B role alongside Chuba Hubbard. Furthermore, we can't rule out the possibility of him completely taking over the backfield and leaving Hubbard in a backup role. This wouldn't be new territory for Hubbard, who sort of lost his job to Rico Dowdle last year. Brooks is incredibly talented, and if he can stay healthy, he could return to the high-end RB2 upside that he possessed prior to his rookie season. This is a low-risk move for managers, as Brooks still has a relatively modest ADP of 83.6.",

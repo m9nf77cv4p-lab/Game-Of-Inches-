@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1481**
-- Newly captured: **3**
+- Stored stories: **1482**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Josh Downs** — Josh Downs' ADP Sits Steady in Ninth Round (2026-09-01T01:38:39Z)
+  - Source: https://www.rotoballer.com/player-news/josh-downs-adp-sits-steady-in-ninth-round/1920942
 - **Jonathon Brooks** — Jonathon Brooks Has a Chance to Take Over the Panthers' Backfield (2026-09-01T00:19:08Z)
   - Source: https://www.rotoballer.com/player-news/jonathon-brooks-has-a-chance-to-take-over-the-panthers-backfield/1920934
 - **Jaydon Blue** — Jaydon Blue signs with Eagles practice squad  (2026-09-01T00:15:14.084000Z)
@@ -218,5 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/terrance-ferguson-remains-absent-from-practice/1920036
 - **Tank Dell** — Tank Dell Officially Starting the Season on Injured Reserve (2026-08-30T20:27:12Z)
   - Source: https://www.rotoballer.com/player-news/tank-dell-officially-starting-the-season-on-injured-reserve/1920034
-- **Zach Charbonnet** — Zach Charbonnet Lands on PUP List to Open the Season (2026-08-30T20:05:09Z)
-  - Source: https://www.rotoballer.com/player-news/zach-charbonnet-lands-on-pup-list-to-open-the-season/1920024
