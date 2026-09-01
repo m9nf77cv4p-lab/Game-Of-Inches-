@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1536**
-- Newly captured: **2**
+- Stored stories: **1537**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Kyle Monangai** — Kyle Monangai - Remains 'week-to-week' (2026-09-01T18:36:39Z)
+- **NEW — Luther Burden** — Luther Burden - Practicing Tuesday (2026-09-01T18:45:29Z)
+  - After suffering a groin injury during an Aug. 8 practice, Burden was expected to be sidelined for about one month, putting his availability for Week 1 in question. Since then, he missed the Bears' entire preseason slate but returned to individual drills last Wednesday, so his ability to remain on the practice field this week generally is a good sign in his recovery. Chicago takes on the Panthers on the road in the regular-season opener on Sunday, Sept. 13.
+- **Kyle Monangai** — Kyle Monangai - Remains 'week-to-week' (2026-09-01T18:36:39Z)
   - Monangai experienced a scare during the aforementioned session, when he was tackled from behind by Bears defensive tackle Grady Jarrett. Initially, Monangai's right knee was deemed to be structurally sound, and he was dealing with only a hyperextension, but he remains in the week-to-week category via Johnson just as he was two weeks ago. As such, Monangai could be in danger of being limited or even sidelined for the Bears' season opener Sunday, Sept. 13 at Carolina. Roschon Johnson would receive a bump in relevance behind D'Andre Swift in such a scenario.
-- **NEW — D'Andre Swift** — D'Andre Swift - Poised for big 2026 (2026-09-01T18:26:11Z)
+- **D'Andre Swift** — D'Andre Swift - Poised for big 2026 (2026-09-01T18:26:11Z)
   - "It's the best I've seen him this time of year," Johnson said last week. "You look back at a year ago, he was very explosive, and yet it takes a little while to gel between him and the offensive line. I think he's accelerating his vision here at this point. I think [RBs] coach [Eric] Studesville has been fantastic for him just with the reads and being able to know the intent of where we're trying to hit things. He bounces it when we're supposed to bounce it. He hits it right on spot when it's there, then he cuts it up. I think he's doing a really good job right now. We just got to get into that first week nice and healthy and ready to go. I think he's primed for a big year, though." With Kyle Monangai (knee) still considered week-to-week 12 days out from the regular season, Swift could have a huge role early in the season. Running behind one of the best run-blocking offensive lines in the league and in an offense that wants to score boat loads of points, Swift has big upside as a fantasy RB2.
 - **TreVeyon Henderson** — TreVeyon Henderson - Still awaiting clearance for all activity (2026-09-01T18:14:57Z)
   - Henderson made an early departure from practice last Monday, which has sidelined him in the meantime. Reiss mentioned that Henderson was spotted in the locker room this Tuesday and seemed to be "walking normally," but the Patriots will take it easy on the second-year pro as a Week 1 road showdown with the Seahawks approaches next Wednesday, Sept. 9.
@@ -226,5 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/rome-odunze-could-be-poised-for-a-breakout-campaign-in-2026/1920607
 - **Zay Flowers** — Zay Flowers Dealing With Lower-Body Injury (2026-08-31T16:18:07Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-does-not-practice-on-monday-due-to-apparent-lower-body-injury/1920600
-- **Blake Corum** — Blake Corum a Potential Draft-Day Bust at Current ADP (2026-08-31T16:09:08Z)
-  - Source: https://www.rotoballer.com/player-news/blake-corum-a-potential-draft-day-bust-at-current-adp/1920590
