@@ -1,11 +1,8 @@
 {
-  "last_checked_at": "2026-09-01T14:50:43Z",
+  "last_checked_at": "2026-09-01T15:01:02Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
-  "new_story_ids": [
-    "nfl|5850|rotowire|635807|1788273311000",
-    "nfl|5892|rotoballer|219857|1788259386000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -30026,26 +30023,6 @@
       "story_id": "nfl|11604|rotoballer|217909|1785756131000",
       "title": "Brock Bowers Has Been the Star of Raiders Training Camp",
       "url": "https://www.rotoballer.com/player-news/brock-bowers-has-been-the-star-of-raiders-training-camp/1902016"
-    },
-    {
-      "analysis": null,
-      "description": "Dallas Cowboys running back Javonte Williams finally gave dynasty managers the season they had been waiting for, and Dallas made sure it was not a one-year stop. He rushed 252 times for 1,201 yards and 11 touchdowns in 2025, then added 35 catches for 137 yards and two more scores. The Cowboys followed that breakout with a three-year, $24 million extension that includes $16 million guaranteed. Just as important, Jaydon Blue, Phil Mafah, and Malik Davis are still sorting out the backup job. None of them is pushing Williams for the lead role. A contender should be happy to keep him. For a rebuilding team, this is probably the time to ask around. Williams is 26, last season was his first 1,000-yard campaign, and his 13 total touchdowns set a career high. RotoBaller has him at RB21 in its July dynasty rankings, which reflects both the strong setup and the risk of buying after a career year. The path to another heavy workload is clear, but running back value can turn quickly. Rebuilders do not need to force a deal. Still, a younger receiver or a strong package of picks would be worth considering while Williams' contract, role, and market value are all working in their favor.",
-      "metadata": {
-        "description": "Dallas Cowboys running back Javonte Williams finally gave dynasty managers the season they had been waiting for, and Dallas made sure it was not a one-year stop. He rushed 252 times for 1,201 yards and 11 touchdowns in 2025, then added 35 catches for 137 yards and two more scores. The Cowboys followed that breakout with a three-year, $24 million extension that includes $16 million guaranteed. Just as important, Jaydon Blue, Phil Mafah, and Malik Davis are still sorting out the backup job. None of them is pushing Williams for the lead role. A contender should be happy to keep him. For a rebuilding team, this is probably the time to ask around. Williams is 26, last season was his first 1,000-yard campaign, and his 13 total touchdowns set a career high. RotoBaller has him at RB21 in its July dynasty rankings, which reflects both the strong setup and the risk of buying after a career year. The path to another heavy workload is clear, but running back value can turn quickly. Rebuilders do not need to force a deal. Still, a younger receiver or a strong package of picks would be worth considering while Williams' contract, role, and market value are all working in their favor.",
-        "title": "Rebuilders Should Test the Market on Javonte Williams",
-        "topic_id": "1389719911214911489",
-        "url": "https://www.rotoballer.com/player-news/rebuilders-should-test-the-market-on-javonte-williams/1901580"
-      },
-      "nfl_team": "DAL",
-      "player_id": "7588",
-      "player_name": "Javonte Williams",
-      "position": "RB",
-      "published": 1785682805000,
-      "source": "rotoballer",
-      "source_key": "217882",
-      "story_id": "nfl|7588|rotoballer|217882|1785682805000",
-      "title": "Rebuilders Should Test the Market on Javonte Williams",
-      "url": "https://www.rotoballer.com/player-news/rebuilders-should-test-the-market-on-javonte-williams/1901580"
     }
   ]
 }

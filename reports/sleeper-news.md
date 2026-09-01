@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1495**
-- Newly captured: **2**
+- Stored stories: **1494**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Josh Jacobs** — Josh Jacobs - GM expects him to play in 2026 (2026-09-01T14:35:11Z)
+- **Josh Jacobs** — Josh Jacobs - GM expects him to play in 2026 (2026-09-01T14:35:11Z)
   - Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back -- who is scheduled to make his first appearance in court Nov. 17 -- won't be eligible to practice or play while he remains on the list. While Jacobs remains away from the team, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson on hand as their available options out of the backfield, with Lloyd being the favorite to lead the trio in touches.
 - **Tyler Warren** — Tyler Warren - Involved in Tuesday's practice (2026-09-01T14:26:08Z)
   - The Colts won't have to reveal the extent of Warren's practice participation until they release their first injury report of the season Sept. 9, but his presence on the field Tuesday is a good indication that he'll be operating with no restrictions leading up to the Week 1 game against the Ravens. The second-year tight end strained his adductor during an Aug. 19 practice, but the Colts never indicated that the injury was anything that would seriously jeopardize his availability for the start of the regular season.
@@ -15,7 +15,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Downs missed some practice time last week with what he termed as a "very minor" calf injury, and his presence on the field Tuesday seemingly supports that notion. The Colts will release their first Week 1 injury report Sept. 9, and if his activity Tuesday is any indication, Downs looks poised to be listed as a full practice participant or off the report entirely as the team prepares for its season-opening game against the Ravens.
 - **Zay Flowers** — Zay Flowers - Set to fully practice next week (2026-09-01T13:17:32Z)
   - Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout then ended up missing some practices last week due to the lower-body issue, though the Ravens haven't indicated whether the injury is related to the prior quad bruise. Whatever the case, Flowers' injury never seemed to be a major concern, and assuming he's able to begin Week 1 prep as a full practice participant, he should be ready to handle a high-volume role in the Baltimore passing attack once the regular season gets underway.
-- **NEW — David Montgomery** — David Montgomery Could Be a Steal in Texans Offense (2026-09-01T10:43:06Z)
+- **David Montgomery** — David Montgomery Could Be a Steal in Texans Offense (2026-09-01T10:43:06Z)
   - Source: https://www.rotoballer.com/player-news/david-montgomery-could-be-a-steal-in-texans-offense/1921161
 - **Parker Washington** — Parker Washington Has Big Time Potential As Slot Receiver (2026-09-01T10:28:07Z)
   - Source: https://www.rotoballer.com/player-news/parker-washington-has-big-time-potential-as-slot-receiver/1921148
