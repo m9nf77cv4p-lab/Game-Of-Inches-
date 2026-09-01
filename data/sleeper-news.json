@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-01T22:15:29Z",
+  "last_checked_at": "2026-09-01T22:28:37Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|8151|rotoballer|219885|1788285911000"
+    "nfl|13311|rotowire|635860|1788301075000",
+    "nfl|8154|rotoballer|219886|1788286566000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Bell was cleared to return to full practice last week and ended up playing 14 offensive snaps in the Dolphins' preseason finale Friday, where he finished with two catches for 22 yards on five targets. After Miami traded Tutu Atwell to the Rams and dumped several other wideouts this past weekend, Bell is a candidate to see playing time out of the gates with the Dolphins, as he's competing with Malik Washington, Jalen Tolbert and fellow rookie Caleb Douglas for snaps at the position. Bell likely needs to improve his conditioning after a long rehab from ACL surgery.",
+      "description": "Coach Jeff Hafley said Tuesday that Bell is still working on getting into football shape, Joe Schad of The Palm Beach Post reports.",
+      "metadata": {
+        "analysis": "Bell was cleared to return to full practice last week and ended up playing 14 offensive snaps in the Dolphins' preseason finale Friday, where he finished with two catches for 22 yards on five targets. After Miami traded Tutu Atwell to the Rams and dumped several other wideouts this past weekend, Bell is a candidate to see playing time out of the gates with the Dolphins, as he's competing with Malik Washington, Jalen Tolbert and fellow rookie Caleb Douglas for snaps at the position. Bell likely needs to improve his conditioning after a long rehab from ACL surgery.",
+        "description": "Coach Jeff Hafley said Tuesday that Bell is still working on getting into football shape, Joe Schad of The Palm Beach Post reports.",
+        "title": "Chris Bell - Still working into football shape",
+        "topic_id": "1400640480869384192"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1788301075000,
+      "source": "rotowire",
+      "source_key": "635860",
+      "story_id": "nfl|13311|rotowire|635860|1788301075000",
+      "title": "Chris Bell - Still working into football shape",
+      "url": null
+    },
     {
       "analysis": "Pacheco will be sidelined for at least the first four games of the upcoming regular season, with his first opportunity to return coming ahead of a Week 5 contest against the Arizona Cardinals. Jacob Saylors will slide into the No. 2 running back role behind superstar Jahmyr Gibbs in the Lions backfield after an impressive preseason for the time being, with the Lions likely to add more depth to a shorthanded running backs room prior to the regular season.",
       "description": "Isiah Pacheco (back/MCL) has been placed on injured reserve by the Detroit Lions Tuesday according to Ari Meirov.",
@@ -378,6 +399,26 @@
       "story_id": "nfl|6790|rotowire|635842|1788287171000",
       "title": "D'Andre Swift - Poised for big 2026",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Athletic's Josh Kendall writes that Atlanta Falcons backup running back Brian Robinson has \"shown a physical style in practice that cements his role\" as the new Tyler Allgeier. Kendall adds that Bijan Robinson's fantasy managers \"may not like how many goal-line carries he gets.\" We all know how good Bijan Robinson is -- he's had over 1,400 rushing yards in each of the last two seasons as one of the best all-around backs in the league -- but Allgeier frustratingly handled more goal-line and red-zone looks than Robinson's fantasy managers were comfortable with, and Kendall is saying that it could happen again. Bijan Robinson had a career-high 14 rushing scores in 2024, but that number was cut in half last year, while Allgeier had a career-high eight rushing TDs. Bijan is ranked as the RB2 in half-PPR leagues at RotoBaller, behind only the Detroit Lions' Jahmyr Gibbs. Brian Robinson had a career-low 400 rushing yards and two TDs behind Christian McCaffrey in San Fran last year, but he had three straight 700-plus-yard seasons in his first three years in the league and is very capable as a goal-line option in Atlanta. Bijan Robinson should still be in play as the No. 1 overall fantasy pick this year, but his new backfield mate could be a thorn in his side and lower his overall ceiling.",
+      "metadata": {
+        "description": "The Athletic's Josh Kendall writes that Atlanta Falcons backup running back Brian Robinson has \"shown a physical style in practice that cements his role\" as the new Tyler Allgeier. Kendall adds that Bijan Robinson's fantasy managers \"may not like how many goal-line carries he gets.\" We all know how good Bijan Robinson is -- he's had over 1,400 rushing yards in each of the last two seasons as one of the best all-around backs in the league -- but Allgeier frustratingly handled more goal-line and red-zone looks than Robinson's fantasy managers were comfortable with, and Kendall is saying that it could happen again. Bijan Robinson had a career-high 14 rushing scores in 2024, but that number was cut in half last year, while Allgeier had a career-high eight rushing TDs. Bijan is ranked as the RB2 in half-PPR leagues at RotoBaller, behind only the Detroit Lions' Jahmyr Gibbs. Brian Robinson had a career-low 400 rushing yards and two TDs behind Christian McCaffrey in San Fran last year, but he had three straight 700-plus-yard seasons in his first three years in the league and is very capable as a goal-line option in Atlanta. Bijan Robinson should still be in play as the No. 1 overall fantasy pick this year, but his new backfield mate could be a thorn in his side and lower his overall ceiling.",
+        "title": "Brian Robinson to See Goal-Line Work in Atlanta?",
+        "topic_id": "1400641736795009024",
+        "url": "https://www.rotoballer.com/player-news/brian-robinson-to-see-goal-line-work-in-atlanta/1921432"
+      },
+      "nfl_team": "ATL",
+      "player_id": "8154",
+      "player_name": "Brian Robinson",
+      "position": "RB",
+      "published": 1788286566000,
+      "source": "rotoballer",
+      "source_key": "219886",
+      "story_id": "nfl|8154|rotoballer|219886|1788286566000",
+      "title": "Brian Robinson to See Goal-Line Work in Atlanta?",
+      "url": "https://www.rotoballer.com/player-news/brian-robinson-to-see-goal-line-work-in-atlanta/1921432"
     },
     {
       "analysis": "Henderson made an early departure from practice last Monday, which has sidelined him in the meantime. Reiss mentioned that Henderson was spotted in the locker room this Tuesday and seemed to be \"walking normally,\" but the Patriots will take it easy on the second-year pro as a Week 1 road showdown with the Seahawks approaches next Wednesday, Sept. 9.",

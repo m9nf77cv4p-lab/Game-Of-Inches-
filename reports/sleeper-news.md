@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1574**
-- Newly captured: **1**
+- Stored stories: **1576**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Chris Bell** — Chris Bell - Still working into football shape (2026-09-01T22:17:55Z)
+  - Bell was cleared to return to full practice last week and ended up playing 14 offensive snaps in the Dolphins' preseason finale Friday, where he finished with two catches for 22 yards on five targets. After Miami traded Tutu Atwell to the Rams and dumped several other wideouts this past weekend, Bell is a candidate to see playing time out of the gates with the Dolphins, as he's competing with Malik Washington, Jalen Tolbert and fellow rookie Caleb Douglas for snaps at the position. Bell likely needs to improve his conditioning after a long rehab from ACL surgery.
 - **Isiah Pacheco** — Isiah Pacheco (back/MCL) placed in injured reserve  (2026-09-01T20:30:22.994000Z)
   - Pacheco will be sidelined for at least the first four games of the upcoming regular season, with his first opportunity to return coming ahead of a Week 5 contest against the Arizona Cardinals. Jacob Saylors will slide into the No. 2 running back role behind superstar Jahmyr Gibbs in the Lions backfield after an impressive preseason for the time being, with the Lions likely to add more depth to a shorthanded running backs room prior to the regular season.
   - Source: https://www.fantasypros.com/nfl/news/605379/isiah-pacheco-backmcl-placed-injured-reserve.php
@@ -49,9 +51,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Monangai experienced a scare during the aforementioned session, when he was tackled from behind by Bears defensive tackle Grady Jarrett. Initially, Monangai's right knee was deemed to be structurally sound, and he was dealing with only a hyperextension, but he remains in the week-to-week category via Johnson just as he was two weeks ago. As such, Monangai could be in danger of being limited or even sidelined for the Bears' season opener Sunday, Sept. 13 at Carolina. Roschon Johnson would receive a bump in relevance behind D'Andre Swift in such a scenario.
 - **D'Andre Swift** — D'Andre Swift - Poised for big 2026 (2026-09-01T18:26:11Z)
   - "It's the best I've seen him this time of year," Johnson said last week. "You look back at a year ago, he was very explosive, and yet it takes a little while to gel between him and the offensive line. I think he's accelerating his vision here at this point. I think [RBs] coach [Eric] Studesville has been fantastic for him just with the reads and being able to know the intent of where we're trying to hit things. He bounces it when we're supposed to bounce it. He hits it right on spot when it's there, then he cuts it up. I think he's doing a really good job right now. We just got to get into that first week nice and healthy and ready to go. I think he's primed for a big year, though." With Kyle Monangai (knee) still considered week-to-week 12 days out from the regular season, Swift could have a huge role early in the season. Running behind one of the best run-blocking offensive lines in the league and in an offense that wants to score boatloads of points, Swift has big upside as a fantasy RB2.
+- **NEW — Brian Robinson** — Brian Robinson to See Goal-Line Work in Atlanta? (2026-09-01T18:16:06Z)
+  - Source: https://www.rotoballer.com/player-news/brian-robinson-to-see-goal-line-work-in-atlanta/1921432
 - **TreVeyon Henderson** — TreVeyon Henderson - Still awaiting clearance for all activity (2026-09-01T18:14:57Z)
   - Henderson made an early departure from practice last Monday, which has sidelined him in the meantime. Reiss mentioned that Henderson was spotted in the locker room this Tuesday and seemed to be "walking normally," but the Patriots will take it easy on the second-year pro as a Week 1 road showdown with the Seahawks approaches next Wednesday, Sept. 9.
-- **NEW — Kenneth Walker** — Chiefs View Kenneth Walker as Potential Three-Down Back (2026-09-01T18:05:11Z)
+- **Kenneth Walker** — Chiefs View Kenneth Walker as Potential Three-Down Back (2026-09-01T18:05:11Z)
   - Source: https://www.rotoballer.com/player-news/chiefs-view-kenneth-walker-as-potential-three-down-back/1921429
 - **Alec Pierce** — Alec Pierce - Hopeful for Week 1 (2026-09-01T18:00:59Z)
   - Pierce was back on the practice field Tuesday, but it's unclear if he's truly been unleashed for full team drills as he makes his way back from offseason ankle surgery. He missed most of training camp and didn't see any preseason action, but the Colts are remaining optimistic their No. 1 receiver will be out there in 12 days against Baltimore. Indy has issues all over its offense, with Pierce, Josh Downs (calf) and Tyler Warren (groin) all dealing with ailments while Keenan Allen is 34 years old and just signed with the team two weeks ago.
@@ -222,7 +226,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605162/jaydon-blue-signs-with-eagles-practice-squad.php
 - **Terry McLaurin** — Terry McLaurin Has Clear Top-10 Upside if Injury Bug Stays Away (2026-09-01T00:14:10Z)
   - Source: https://www.rotoballer.com/player-news/terry-mclaurin-has-clear-top-10-upside-if-injury-bug-stays-away/1920932
-- **Jaylen Waddle** — Quarterback Upgrade Could be the Key to Jaylen Waddle's Success (2026-09-01T00:09:08Z)
-  - Source: https://www.rotoballer.com/player-news/quarterback-upgrade-could-be-the-key-to-jaylen-waddles-success/1920929
-- **Jaydon Blue** — Jaydon Blue - Heading to Philly (2026-09-01T00:04:10Z)
-  - A fifth-round pick of the Cowboys in 2025, Blue got some run as a rookie to the tune of 38 carries for 129 yards (3.4 YPC) and one touchdown in five regular-season appearances. Following the 2026 preseason, though, Dallas opted to waive him Sunday and then didn't included him among the team's practice-squad signings Monday. Blue thus will move on to an NFC East foe, where he'll be a candidate for elevation if any of Saquon Barkley, Tank Bigsby or Will Shipley need time on the sideline.
