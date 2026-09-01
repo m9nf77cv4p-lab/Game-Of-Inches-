@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-01T13:57:49Z",
+  "last_checked_at": "2026-09-01T14:15:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|13317|rotoballer|219853|1788255915000"
+    "nfl|13417|rotoballer|219855|1788257410000",
+    "nfl|8151|rotoballer|219854|1788256748000"
   ],
   "schema_version": 1,
   "source": {
@@ -32,6 +33,46 @@
       "story_id": "nfl|9997|rotowire|635796|1788268652000",
       "title": "Zay Flowers - Set to fully practice next week",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver De'Zhaun Stribling has been one of the most exciting players to emerge this preseason, stepping up as a key contributor in the team's receiving corps while other receivers battled injury. Ricky Pearsall (knee) was placed on season-ending IR, while Christian Kirk (calf) will also start the year on injured reserve but could return after Week 4. The second-round pick from Ole Miss will begin the year in a starting role alongside Mike Evans and Deebo Samuel, and the rookie could make an immediate impact based on his preseason usage and success. He caught 11 of his 13 targets for 109 yards in his first two preseason games before sitting out the team's third and final preseason contest with the rest of the starters. Stribling's draft stock is sky-rocketing, and he is the WR50 in RotoBaller's rankings. If you can grab him as a bench option in the middle rounds, he could still bring great value if he emerges as one of the go-to options in coach Kyle Shanahan's typically productive passing game.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver De'Zhaun Stribling has been one of the most exciting players to emerge this preseason, stepping up as a key contributor in the team's receiving corps while other receivers battled injury. Ricky Pearsall (knee) was placed on season-ending IR, while Christian Kirk (calf) will also start the year on injured reserve but could return after Week 4. The second-round pick from Ole Miss will begin the year in a starting role alongside Mike Evans and Deebo Samuel, and the rookie could make an immediate impact based on his preseason usage and success. He caught 11 of his 13 targets for 109 yards in his first two preseason games before sitting out the team's third and final preseason contest with the rest of the starters. Stribling's draft stock is sky-rocketing, and he is the WR50 in RotoBaller's rankings. If you can grab him as a bench option in the middle rounds, he could still bring great value if he emerges as one of the go-to options in coach Kyle Shanahan's typically productive passing game.",
+        "title": "De'Zhaun Stribling Remains a Top Late-Round Target",
+        "topic_id": "1400518410302967808",
+        "url": "https://www.rotoballer.com/player-news/dezhaun-stribling-remains-a-top-late-round-target/1921145"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1788257410000,
+      "source": "rotoballer",
+      "source_key": "219855",
+      "story_id": "nfl|13417|rotoballer|219855|1788257410000",
+      "title": "De'Zhaun Stribling Remains a Top Late-Round Target",
+      "url": "https://www.rotoballer.com/player-news/dezhaun-stribling-remains-a-top-late-round-target/1921145"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs running back Kenneth Walker is coming off a big postseason run with the Seahawks that culminated in his Super Bowl MVP Award. After joining the Chiefs this offseason, Walker is being drafted very early in most fantasy drafts, coming off the board in the early rounds. He's ranked RotoBaller's RB No. 7, and he definitely brings top-10 RB potential in his new role with his new team. However, Walker had trouble staying healthy until last season, and he shared a lot of the work with Zach Charbonnet. He finished the regular season with 1,027 rushing yards and 282 receiving yards, with just five total touchdowns. Coach Andy Reid has typically mixed in multiple backs in the past, and the team used a fifth-round pick on Emmett Johnson, while Brashard Smith is also still in the mix. Walker has RB1 potential, but he is less of a sure thing than some of the other RBs being drafted in the same tier. If you do draft Walker, be sure to have plenty of depth at the position with possible pivots if he ends up in a timeshare.",
+      "metadata": {
+        "description": "Kansas City Chiefs running back Kenneth Walker is coming off a big postseason run with the Seahawks that culminated in his Super Bowl MVP Award. After joining the Chiefs this offseason, Walker is being drafted very early in most fantasy drafts, coming off the board in the early rounds. He's ranked RotoBaller's RB No. 7, and he definitely brings top-10 RB potential in his new role with his new team. However, Walker had trouble staying healthy until last season, and he shared a lot of the work with Zach Charbonnet. He finished the regular season with 1,027 rushing yards and 282 receiving yards, with just five total touchdowns. Coach Andy Reid has typically mixed in multiple backs in the past, and the team used a fifth-round pick on Emmett Johnson, while Brashard Smith is also still in the mix. Walker has RB1 potential, but he is less of a sure thing than some of the other RBs being drafted in the same tier. If you do draft Walker, be sure to have plenty of depth at the position with possible pivots if he ends up in a timeshare.",
+        "title": "Kenneth Walker Could Be Over-Hyped",
+        "topic_id": "1400515893737357312",
+        "url": "https://www.rotoballer.com/player-news/kenneth-walker-could-be-over-hyped/1921139"
+      },
+      "nfl_team": "KC",
+      "player_id": "8151",
+      "player_name": "Kenneth Walker",
+      "position": "RB",
+      "published": 1788256748000,
+      "source": "rotoballer",
+      "source_key": "219854",
+      "story_id": "nfl|8151|rotoballer|219854|1788256748000",
+      "title": "Kenneth Walker Could Be Over-Hyped",
+      "url": "https://www.rotoballer.com/player-news/kenneth-walker-could-be-over-hyped/1921139"
     },
     {
       "analysis": null,

@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1488**
-- Newly captured: **1**
+- Stored stories: **1490**
+- Newly captured: **2**
 
 ## Latest news
 
 - **Zay Flowers** — Zay Flowers - Set to fully practice next week (2026-09-01T13:17:32Z)
   - Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout then ended up missing some practices last week due to the lower-body issue, though the Ravens haven't indicated whether the injury is related to the prior quad bruise. Whatever the case, Flowers' injury never seemed to be a major concern, and assuming he's able to begin Week 1 prep as a full practice participant, he should be ready to handle a high-volume role in the Baltimore passing attack once the regular season gets underway.
-- **NEW — Ted Hurst** — Ted Hurst III Earning a Larger Role for the Buccaneers (2026-09-01T09:45:15Z)
+- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling Remains a Top Late-Round Target (2026-09-01T10:10:10Z)
+  - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-remains-a-top-late-round-target/1921145
+- **NEW — Kenneth Walker** — Kenneth Walker Could Be Over-Hyped (2026-09-01T09:59:08Z)
+  - Source: https://www.rotoballer.com/player-news/kenneth-walker-could-be-over-hyped/1921139
+- **Ted Hurst** — Ted Hurst III Earning a Larger Role for the Buccaneers (2026-09-01T09:45:15Z)
   - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-earning-a-larger-role-for-the-buccaneers/1921126
 - **Jalen McMillan** — Emeka Egbuka Could Play in Week 1 (2026-09-01T09:36:33Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-and-jalen-mcmillan-could-play-in-week-1/1921116
@@ -215,7 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Tyson has had recurring issues with his right hamstring, and the most recent flare-up is expected to result in two months on the sideline, so Sunday's transaction comes as no surprise. He'll be required to miss at least the first four games of the season, but considering the aforementioned recovery timeline, he likely will be out beyond Week 5. During Tyson's absence, Devaughn Vele and rookies Bryce Lance and Barion Brown will have opportunities for targets behind top WR Chris Olave.
 - **Anthony Richardson** — Anthony Richardson - Will continue with Colts (2026-08-30T22:17:12Z)
   - Richardson requested a trade over the offseason, but the Colts elected not to move him, and he remains part of the Indianapolis organization for the time being. It remains to be seen, though, if he or Riley Leonard will open as the backup behind starting signal-caller Daniel Jones.
-- **J.J. McCarthy** — J.J. McCarthy - Remains with Vikings (2026-08-30T22:05:16Z)
-  - There was talk leading up to cut-down day that McCarthy could be traded or even released, but he will remain with Minnesota for the time being. Kyler Murray will open the season as the starting quarterback for the Vikings, and either McCarthy or Carson Wentz will back him up.
-- **James Conner** — James Conner - Starting season on IR, with designation to return (2026-08-30T21:50:54Z)
-  - Conner continues to deal with complications from the foot injury that ended his 2025 campaign Week 3 of last season. Initially, when Arizona didn't place him on the active/PUP list at the start of training camp, it was an indication that he had a chance to be available Week 1. Instead, Conner will be required to miss at least the first four games following this transaction. Considering rookie third overall pick Jeremiyah Love's status is up in the air due to a high-ankle sprain, Tyler Allgeier may be the team's lead runner in the early going, with Bam Knight backing him up.
