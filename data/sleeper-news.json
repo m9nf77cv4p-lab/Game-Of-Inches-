@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-01T19:07:27Z",
+  "last_checked_at": "2026-09-01T19:20:57Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|8134|rotowire|635846|1788289915000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Shakir was able to suit up for preseason Week 1 against the Panthers on Saturday, Aug. 15, hauling in both of his targets for 41 yards while playing eight offensive snaps. However, he's been out of drills since Aug. 20 and didn't suit up for the Bills' final two exhibitions due to an undisclosed injury. Buffalo opens the regular season on Sunday, Sept. 13 at Houston, giving him less than two weeks to get himself ready for game action.",
+      "description": "Shakir (undisclosed) remains sidelined at Tuesday's practice, Joe Buscaglia of The Athletic reports.",
+      "metadata": {
+        "analysis": "Shakir was able to suit up for preseason Week 1 against the Panthers on Saturday, Aug. 15, hauling in both of his targets for 41 yards while playing eight offensive snaps. However, he's been out of drills since Aug. 20 and didn't suit up for the Bills' final two exhibitions due to an undisclosed injury. Buffalo opens the regular season on Sunday, Sept. 13 at Houston, giving him less than two weeks to get himself ready for game action.",
+        "description": "Shakir (undisclosed) remains sidelined at Tuesday's practice, Joe Buscaglia of The Athletic reports.",
+        "title": "Khalil Shakir - Still not practicing",
+        "topic_id": "1400593918428467200"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8134",
+      "player_name": "Khalil Shakir",
+      "position": "WR",
+      "published": 1788289915000,
+      "source": "rotowire",
+      "source_key": "635846",
+      "story_id": "nfl|8134|rotowire|635846|1788289915000",
+      "title": "Khalil Shakir - Still not practicing",
+      "url": null
+    },
     {
       "analysis": "After suffering a groin injury during an Aug. 8 practice, Burden was expected to be sidelined for about one month, putting his availability for Week 1 in question. Since then, he missed the Bears' entire preseason slate but returned to individual drills last Wednesday, so his ability to remain on the practice field this week generally is a good sign in his recovery. Chicago takes on the Panthers on the road in the regular-season opener on Sunday, Sept. 13.",
       "description": "Coach Ben Johnson said Burden (groin) will participate in Tuesday's practice, Zack Pearson of BearReport reports.",

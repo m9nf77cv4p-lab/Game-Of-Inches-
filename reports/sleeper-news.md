@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1537**
-- Newly captured: **0**
+- Stored stories: **1538**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Khalil Shakir** — Khalil Shakir - Still not practicing (2026-09-01T19:11:55Z)
+  - Shakir was able to suit up for preseason Week 1 against the Panthers on Saturday, Aug. 15, hauling in both of his targets for 41 yards while playing eight offensive snaps. However, he's been out of drills since Aug. 20 and didn't suit up for the Bills' final two exhibitions due to an undisclosed injury. Buffalo opens the regular season on Sunday, Sept. 13 at Houston, giving him less than two weeks to get himself ready for game action.
 - **Luther Burden** — Luther Burden - Practicing Tuesday (2026-09-01T18:45:29Z)
   - After suffering a groin injury during an Aug. 8 practice, Burden was expected to be sidelined for about one month, putting his availability for Week 1 in question. Since then, he missed the Bears' entire preseason slate but returned to individual drills last Wednesday, so his ability to remain on the practice field this week generally is a good sign in his recovery. Chicago takes on the Panthers on the road in the regular-season opener on Sunday, Sept. 13.
 - **Kyle Monangai** — Kyle Monangai - Remains 'week-to-week' (2026-09-01T18:36:39Z)
@@ -226,5 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/drake-london-remains-a-viable-wr1-option-despite-quarterback-questions-in-atlanta/1920620
 - **Rome Odunze** — Rome Odunze Could Be Poised for a Breakout Campaign in 2026 (2026-08-31T16:27:09Z)
   - Source: https://www.rotoballer.com/player-news/rome-odunze-could-be-poised-for-a-breakout-campaign-in-2026/1920607
-- **Zay Flowers** — Zay Flowers Dealing With Lower-Body Injury (2026-08-31T16:18:07Z)
-  - Source: https://www.rotoballer.com/player-news/zay-flowers-does-not-practice-on-monday-due-to-apparent-lower-body-injury/1920600
