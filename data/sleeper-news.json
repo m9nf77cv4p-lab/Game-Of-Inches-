@@ -1,11 +1,8 @@
 {
-  "last_checked_at": "2026-09-01T06:17:09Z",
+  "last_checked_at": "2026-09-01T12:49:23Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
-  "new_story_ids": [
-    "nfl|12508|rotoballer|219848|1788227226000",
-    "nfl|6790|rotoballer|219849|1788227655000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -104,7 +101,7 @@
         "topic_id": "1400306998016249856",
         "url": "https://www.fantasypros.com/nfl/news/605162/jaydon-blue-signs-with-eagles-practice-squad.php"
       },
-      "nfl_team": null,
+      "nfl_team": "PHI",
       "player_id": "12457",
       "player_name": "Jaydon Blue",
       "position": "RB",
@@ -164,7 +161,7 @@
         "title": "Jaydon Blue - Heading to Philly",
         "topic_id": "1400305748721831936"
       },
-      "nfl_team": null,
+      "nfl_team": "PHI",
       "player_id": "12457",
       "player_name": "Jaydon Blue",
       "position": "RB",
@@ -468,7 +465,7 @@
         "topic_id": "1400306990948855808",
         "url": "https://www.rotoballer.com/player-news/jaydon-blue-stays-in-nfc-east-joins-eagles-practice-squad/1920756"
       },
-      "nfl_team": null,
+      "nfl_team": "PHI",
       "player_id": "12457",
       "player_name": "Jaydon Blue",
       "position": "RB",

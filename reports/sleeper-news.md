@@ -3,13 +3,13 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1484**
-- Newly captured: **2**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — D'Andre Swift** — D'Andre Swift Should Remain an RB2 for Fantasy Managers in 2026 (2026-09-01T01:54:15Z)
+- **D'Andre Swift** — D'Andre Swift Should Remain an RB2 for Fantasy Managers in 2026 (2026-09-01T01:54:15Z)
   - Source: https://www.rotoballer.com/player-news/dandre-swift-should-remain-an-rb2-for-fantasy-managers-in-2026/1920946
-- **NEW — Jaxson Dart** — Jaxson Dart Flashes QB1 Appeal for 2026 (2026-09-01T01:47:06Z)
+- **Jaxson Dart** — Jaxson Dart Flashes QB1 Appeal for 2026 (2026-09-01T01:47:06Z)
   - Source: https://www.rotoballer.com/player-news/jaxson-dart-flashes-qb1-appeal-for-2026/1920944
 - **Josh Downs** — Josh Downs' ADP Sits Steady in Ninth Round (2026-09-01T01:38:39Z)
   - Source: https://www.rotoballer.com/player-news/josh-downs-adp-sits-steady-in-ninth-round/1920942

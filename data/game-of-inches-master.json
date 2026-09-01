@@ -20182,7 +20182,7 @@
       "full_name": "Jaydon Blue",
       "injury_status": null,
       "last_name": "Blue",
-      "nfl_team": null,
+      "nfl_team": "PHI",
       "player_id": "12457",
       "position": "RB",
       "status": "Active",
@@ -23662,8 +23662,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-01T10:58:54Z",
-    "source_fingerprint": "6c750bd218e8d2993572630db7430723329d8a11c8dff119064c5c7c77164719"
+    "last_changed_at": "2026-09-01T12:49:20Z",
+    "source_fingerprint": "0678c266ec66e39818bd10228ff217b0d43de10232bbeaa6b103836d49abd849"
   },
   "teams": [
     {
