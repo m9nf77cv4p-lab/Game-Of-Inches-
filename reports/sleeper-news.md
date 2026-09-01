@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1552**
-- Newly captured: **0**
+- Stored stories: **1571**
+- Newly captured: **19**
 
 ## Latest news
 
@@ -74,6 +74,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jeremiyah Love** — Jeremiyah Love (ankle) 'about 50/50' to play in Week 1 (2026-09-01T17:10:21.402000Z)
   - Love is working his way back from a preseason high ankle sprain. If he doesn't play in Week 1, he'll have a good chance to return by Week 2 or 3. If he is sidelined, Tyler Allgeier would be in line for a big role. 
   - Source: https://www.fantasypros.com/nfl/news/605322/jeremiyah-love-ankle-about-5050-to-play-week-1.php
+- **NEW — Christian McCaffrey** — Christian McCaffrey "Looks Ready for Week 1" (2026-09-01T17:10:10Z)
+  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-looks-ready-for-week-1/1921406
 - **Anthony Richardson** — Anthony Richardson Sr. expected to remain with Colts for 2026 season (2026-09-01T17:05:22.413000Z)
   - Richardson requested a trade earlier in the offseason, but it appears the Colts were unable to find a suitor. It will be him or Riley Leonard backing up Daniel Jones. 
   - Source: https://www.fantasypros.com/nfl/news/605318/anthony-richardson-sr-expected-to-remain-with-colts-2026-season.php
@@ -87,6 +89,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Stafford hasn't taken a preseason snap since the summer of 2019. The difference this year from last is that he's healthy. While back issues kept Stafford glued to the sideline last year, he's been a full participant in training camp this summer and appears poised to try and repeat as league MVP with a star-studded roster in Los Angeles. Despite the back issues last preseason and during camp, Stafford still started all 17 regular-season games in 2025 and led the league with 4,707 passing yards, 46 touchdowns and a 7.7 percent touchdown rate. He finished as fantasy's overall QB3 but is being drafted on average as the QB12 in fantasy leagues this year.
 - **Lamar Jackson** — Lamar Jackson - Explains lack of rushing in 2025 (2026-09-01T16:50:54Z)
   - Hamstring and back injuries forced Jackson to miss four games last season and sapped his rushing ability even when he was active.  This led to Jackson posting career lows in rushing attempts (67) and yards (349). Jackson is now fully healthy going into 2026, his first season operating Declan Doyle's offense. The Ravens open the season on the road in Indianapolis on Sept. 13.
+- **NEW — Isiah Pacheco** — Lions Place Isiah Pacheco on Injured Reserve (2026-09-01T16:36:28Z)
+  - Source: https://www.rotoballer.com/player-news/lions-place-isiah-pacheco-on-injured-reserve/1921387
 - **Daniel Jones** — Daniel Jones - Impresses in training camp (2026-09-01T16:32:04Z)
   - Jones has put last season's Achilles injury behind him and turned in a strong training camp as he gets ready for 2026. Despite not having a full complement of weapons at his disposal given absences from Josh Downs, Alec Pierce and Tyler Warren at different parts of camp, Jones still impressed. The Colts open their season Sept. 13 at home against Baltimore.
 - **Jalen Hurts** — Jalen Hurts - Excited about new offense (2026-09-01T16:26:57Z)
@@ -121,28 +125,62 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The veteran has been slowed by an adductor injury over the last week. The team will continue to be cautious with Evans as they prepare for the season opener on September 10  in Australia. That Evans won't practice this week is notable, given the already tight timeline and the upcoming international travel.
 - **Chuba Hubbard** — Chuba Hubbard - Returns to practice Tuesday (2026-09-01T15:56:14Z)
   - Hubbard's level of participation in practice will be monitored, but he's on the field with his helmet as the session gets underway. The veteran has been hampered by a hamstring injury sustained in mid-August, but has been progressing well. His participation on Tuesday is a good sign that he's trending in the right direction toward being ready for the start of the season.
+- **NEW — Khalil Shakir** — Khalil Shakir Still Not Practicing (2026-09-01T15:53:42Z)
+  - Source: https://www.rotoballer.com/player-news/khalil-shakir-still-not-practicing/1921365
 - **Emmett Johnson** — Emmett Johnson - Well-positioned for role (2026-09-01T15:51:05Z)
   - The Chiefs had final roster cutdowns Sunday and waived veteran Emari Demercado, clearing a path to a role for Johnson. The rookie out of Nebraska impressed throughout training camp and the preseason. Kansas City also has Brashard Smith on the roster, but Johnson may be the handcuff to target for fantasy managers.
+- **NEW — Carnell Tate** — Carnell Tate Working Through Some Stiffness (2026-09-01T15:39:48Z)
+  - Source: https://www.rotoballer.com/player-news/carnell-tate-working-through-some-stiffness/1921350
 - **Anthony Richardson** — Anthony Richardson - Expected to stay with team (2026-09-01T15:39:22Z)
   - The 53-man roster is set in Indianapolis, and Richardson is in the team's plans for the year despite an offseason that included a trade request from the quarterback. Richardson is set to be Daniel Jones' backup as he enters the final year of his rookie deal.
 - **Keenan Allen** — Keenan Allen - Will play Week 1, per GM (2026-09-01T15:30:23Z)
   - Allen will not face discipline from the team following his arrest on DUI charges Sunday. "We should be good," said Ballard when asked about that on Tuesday, and added that "Good people make mistakes. [Allen] is a tremendous human being...he'll work through the process of the legal system." It appears that Allen can now shift his focus to getting up to speed with the team in advance of the season-opener on Sept. 13 against the Ravens.
+- **NEW — Luther Burden** — Luther Burden III Will Practice Tuesday (2026-09-01T15:26:06Z)
+  - Source: https://www.rotoballer.com/player-news/luther-burden-iii-will-practice-tuesday/1921338
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Back at practice Tuesday (2026-09-01T15:22:17Z)
   - This is a big positive for Croskey-Merritt, who had been working through a lower-body issue late in the preseason. He is now trending in the right direction for Week 1, but official injury reports the week of the game will give final confirmation. If healthy, Croskey-Merritt is in line for a prominent role yet again in the Washington backfield.
 - **Emeka Egbuka** — Emeka Egbuka - Stting out Tuesday's practice (2026-09-01T15:18:36Z)
   - The second-year wideout is working through a toe injury that has slowed him since mid-August. Coach Todd Bowles said over the weekend that he was "hopeful" Egbuka would be available for Week 1, which is now just under two weeks away. Until Egbuka can return to the practice field, his Week 1 status appears to be in limbo.
+- **NEW — Puka Nacua** — Puka Nacua Remains Under NFL Review Ahead of Week 1 (2026-09-01T15:14:07Z)
+  - Source: https://www.rotoballer.com/player-news/puka-nacua-remains-under-nfl-review-ahead-of-week-1/1921331
 - **Ashton Jeanty** — Ashton Jeanty - Working with trainers Tuesday (2026-09-01T15:12:52Z)
   - This marks the first time Jeanty has been participating during a media viewing period since the running back sustained an ankle injury during practice Aug. 23. Jeanty was initially not out with the team for Tuesday's session but has since gotten on the field to work with trainers. There are still some hurdles to be cleared before Jeanty's Week 1 status is confirmed, but the second-year back appears to be making progress.
 - **Ashton Jeanty** — Ashton Jeanty - Not spotted Tuesday (2026-09-01T15:02:11Z)
   - Head coach Klint Kubiak said Friday that he's "counting on" Jeanty to be available for Week 1, but the second-year running back will need to get back on the practice field first. The Raiders will open their season with a Sept. 13 game against the Dolphins, so Jeanty still has time to heal up from his sprained ankle. Rookie Mike Washington would be in store for an expanded role versus Miami if Jeanty is out or limited for that contest.
+- **NEW — Kyle Monangai** — Kyle Monangai Week-to-Week With his Knee Injury (2026-09-01T15:00:11Z)
+  - Source: https://www.rotoballer.com/player-news/kyle-monangai-week-to-week-with-his-knee-injury/1921320
+- **NEW — C.J. Stroud** — Texans Have Had "Productive Talks" With C.J. Stroud on Extension (2026-09-01T14:51:07Z)
+  - Source: https://www.rotoballer.com/player-news/texans-have-had-productive-talks-with-c-j-stroud-on-extension/1921311
+- **NEW — Tee Higgins** — Tee Higgins Dealing With Minor Heel Contusion (2026-09-01T14:36:32Z)
+  - Source: https://www.rotoballer.com/player-news/tee-higgins-dealing-with-minor-heel-contusion/1921306
 - **Josh Jacobs** — Josh Jacobs - GM expects him to play in 2026 (2026-09-01T14:35:11Z)
   - Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back is scheduled to make his first appearance in court Nov. 17 and won't be eligible to practice or play while he remains on the exempt list, though head coach Matt LaFleur said Tuesday that Jacobs will be present at the team facility, per Rob Demovsky of ESPN.com. While Jacobs is out, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson as their available backfield options, with Lloyd being the favorite to lead the trio in touches.
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson Not Cleared for Full Practice Participation (2026-09-01T14:27:11Z)
+  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-not-cleared-for-full-practice-participation/1921294
 - **Tyler Warren** — Tyler Warren - Involved in Tuesday's practice (2026-09-01T14:26:08Z)
   - The Colts won't have to reveal the extent of Warren's practice participation until they release their first injury report of the season Sept. 9, but his presence on the field Tuesday is a good indication that he'll be operating with no restrictions leading up to the Week 1 game against the Ravens. The second-year tight end strained his adductor during an Aug. 19 practice, but the Colts never indicated that the injury was anything that would seriously jeopardize his availability for the start of the regular season.
 - **Josh Downs** — Josh Downs - Taking part in Tuesday's practice (2026-09-01T14:19:47Z)
   - Downs missed some practice time last week with what he termed as a "very minor" calf injury. The Colts will release their first Week 1 injury report Sept. 9, and if his activity Tuesday is any indication, Downs could be off the report entirely as the team prepares for its season opener against the Ravens.
+- **NEW — MarShawn Lloyd** — MarShawn Lloyd "as Ready as He's Ever Been" for Lead-Back Role (2026-09-01T14:19:08Z)
+  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-as-ready-as-hes-ever-been-for-lead-back-role/1921292
+- **NEW — Ja'Marr Chase** — Ja'Marr Chase to Be Limited This Week, No Real Concerns (2026-09-01T14:11:06Z)
+  - Source: https://www.rotoballer.com/player-news/jamarr-chase-to-be-limited-this-week-no-real-concerns/1921282
+- **NEW — Tank Dell** — Texans GM Says Tank Dell is Close to Return (2026-09-01T13:49:05Z)
+  - Source: https://www.rotoballer.com/player-news/texans-gm-says-tank-dell-is-close-to-return/1921275
+- **NEW — Jalen Hurts** — Jalen Hurts Adjusting Well to the New Scheme (2026-09-01T13:39:04Z)
+  - Source: https://www.rotoballer.com/player-news/jalen-hurts-adjusting-well-to-the-new-scheme/1921268
+- **NEW — Josh Downs** — Josh Downs Returns from Calf Injury and Practices on Tuesday (2026-09-01T13:37:09Z)
+  - Source: https://www.rotoballer.com/player-news/josh-downs-returns-from-calf-injury-and-practices-on-tuesday/1921266
+- **NEW — Kyren Williams** — Kyren Williams in a Timeshare in Rams' Backfield? (2026-09-01T13:29:05Z)
+  - Source: https://www.rotoballer.com/player-news/kyren-williams-in-a-timeshare-in-rams-backfield/1921262
+- **NEW — Alec Pierce** — Alec Pierce Practicing with the Colts on Tuesday (2026-09-01T13:27:10Z)
+  - Source: https://www.rotoballer.com/player-news/alec-pierce-practicing-with-the-colts-on-tuesday/1921258
 - **Zay Flowers** — Zay Flowers - Set to fully practice next week (2026-09-01T13:17:32Z)
   - Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout missed some practices last week as well, though the Ravens haven't indicated whether that was related to the prior quad issue. Whatever the case, Flowers' injury or injuries never seemed to be a major concern. He should be ready to handle a high-volume role in the Baltimore passing attack in Week 1.
+- **NEW — Tyler Warren** — Tyler Warren Returns to Practice on Tuesday (2026-09-01T13:13:06Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-warren-returns-to-practice-on-tuesday/1921250
+- **NEW — Chuba Hubbard** — Chuba Hubbard Dressed for Practice (2026-09-01T13:05:12Z)
+  - Source: https://www.rotoballer.com/player-news/chuba-hubbard-dressed-for-practice/1921247
 - **Baker Mayfield** — Baker Mayfield Extension Talks Still on Hold (2026-09-01T11:37:12Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-extension-talks-still-on-hold/1921193
 - **Josh Jacobs** — Packers Expect Josh Jacobs to Play This Season (2026-09-01T11:17:07Z)
@@ -188,48 +226,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Mims suffered a bruised foot in the team's preseason finale against the Vikings on Friday, and he doesn't appear to be ready to return to practice quite yet. The Broncos are two weeks away from their regular-season opener against the Chiefs on Sept. 14, and the wide receiver will have a few more chances to return to practice this week.
 - **Carson Beck** — Carson Beck Returns to Practice on Monday (2026-08-31T21:59:11Z)
   - Source: https://www.rotoballer.com/player-news/carson-beck-returns-to-practice-on-monday/1920902
-- **Malik Nabers** — Malik Nabers - Non-committal when asked about Week 1 (2026-08-31T21:51:14Z)
-  - Nabers has been practicing all summer and even ditched his red non-contact jersey last week, but the star wide receiver admitted he still has checkpoints to clear before getting the green light to play in a regular-season game. "I'm gonna be making sure that I'm ready to go out there and I'm healthy enough to play all four quarters," Nabers said Monday. The Giants host the Cowboys on Sunday Night Football in 13 days. There should be a clearer picture of Nabers' availability for that game when the Giants kick off Week 1 prep work next week.
-- **Terrance Ferguson** — Rams Being Cautious with Terrance Ferguson (2026-08-31T21:49:05Z)
-  - Source: https://www.rotoballer.com/player-news/rams-being-cautious-with-terrance-ferguson/1920899
-- **Keaton Mitchell** — Keaton Mitchell - Working off to side Monday (2026-08-31T21:38:39Z)
-  - Mitchell is missing his fourth straight practice due to an unspecified injury, but it sounds like he's getting closer to a return to the field after getting in some work on a side field. Chargers GM Joe Hortiz added that he anticipates Mitchell playing Week 1 against the Cardinals. The Chargers are expected to utilize all three of Omarion Hampton, Mitchell and Kimani Vidal out of the backfield this season, though Hampton is the clear lead back and possesses the most upside from a fantasy perspective. Mitchell, when healthy, will likely handle a handful of weekly touches to showcase his speed and playmaking while giving Hampton a breather. Mitchell is looking like a fantasy bench stash to open the 2026 season.
-- **Puka Nacua** — Puka Nacua Off to the Side in Monday's Practice (2026-08-31T21:12:10Z)
-  - Source: https://www.rotoballer.com/player-news/puka-nacua-off-to-the-side-in-mondays-practice/1920807
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Set to practice next week (2026-08-31T21:11:49Z)
-  - Croskey-Merritt was forced to miss the Commanders' final two preseason games due to a lower-body injury, and he will not participate at practice Monday. His participation level once he gets back on the field should offer more clarity on his readiness for the regular-season opener Sept. 13 against the Eagles. In the meantime, Kaytron Allen is the Commanders' top healthy option in the backfield with Rachaad White (hamstring) also banged up at practice.
-- **George Kittle** — George Kittle - Will be limited in practice this week (2026-08-31T20:45:26Z)
-  - Kittle was activated from the active/PUP list last week and continues to make his push to play Week 1 against the Rams on Thursday, Sept. 10. He'll be limited in practice this week, and San Francisco figures to then ramp things up for Kittle next week to see if he can travel with the team to Australia. If Kittle is unable to go for the season opener, Jake Tonges and Luke Farrell would handle tight end duties for the Niners.
-- **Puka Nacua** — Puka Nacua (psoas) returns to practice  (2026-08-31T20:45:12.623000Z)
-  - Nacua had missed practice for much of the past couple of weeks with psoas soreness. The injury appears to be behind him and he is expected to avoid the commissioner's exempt list, meaning he should be good to go for Week 1. 
-  - Source: https://www.fantasypros.com/nfl/news/605080/puka-nacua-psoas-returns-to-practice.php
-- **Devin Neal** — Devin Neal placed on season-ending IR (2026-08-31T20:45:12.604000Z)
-  - Neal will miss the entire season unless he reaches an injury settlement with New Orleans. 
-  - Source: https://www.fantasypros.com/nfl/news/605081/devin-neal-placed-on-season-ending-ir.php
-- **Zach Charbonnet** — Zach Charbonnet (knee) placed on PUP list  (2026-08-31T20:45:12.586000Z)
-  - Charbonnet will miss at least the first four games of the season. Rookie RB Jadarian Price will open the year as the lead back with George Holani behind him. 
-  - Source: https://www.fantasypros.com/nfl/news/605082/zach-charbonnet-knee-placed-on-pup-list.php
-- **Jeremiyah Love** — Jeremiyah Love - Trending toward Week 1 return (2026-08-31T20:29:49Z)
-  - Love was forced to miss the Cardinals' final preseason game due to the high-ankle sprain he suffered earlier this month, but he continues trend in the right direction. Head coach Mike LaFleur outlined Monday that the running back is "progressing really well," and that Love is expected to take another step up in his recovery at practice. The Cardinals will take on the Chargers in Week 1 on Sept. 13, and the rookie first-rounder appears to be on track to make his NFL regular-season debut that day.
-- **Adam Randall** — Adam Randall placed on IR (2026-08-31T20:10:14.912000Z)
-  - Randall will be eligible to return after the first four weeks. 
-  - Source: https://www.fantasypros.com/nfl/news/605062/adam-randall-placed-on-ir.php
-- **Jaydon Blue** — Jaydon Blue Stays in NFC East, Joins Eagles' Practice Squad (2026-08-31T20:05:11Z)
-  - Source: https://www.rotoballer.com/player-news/jaydon-blue-stays-in-nfc-east-joins-eagles-practice-squad/1920756
-- **Zay Flowers** — Zay Flowers (lower body) misses practice  (2026-08-31T20:00:14.749000Z)
-  - Flowers is dealing with a lower body injury. It does not appear that his status for Week 1 is in doubt as of now. 
-  - Source: https://www.fantasypros.com/nfl/news/605050/zay-flowers-lower-body-misses-practice.php
-- **Jaydon Blue** — Jaydon Blue goes unclaimed on waivers  (2026-08-31T20:00:14.736000Z)
-  - Blue was waived by Dallas. He now becomes a free agent and can be signed by any team. 
-  - Source: https://www.fantasypros.com/nfl/news/605051/jaydon-blue-goes-unclaimed-on-waivers.php
-- **Theo Johnson** — Theo Johnson - Donning non-contact jersey at practice (2026-08-31T19:45:43Z)
-  - Johnson was injured in practice last Monday and continues to deal with the injury, though his return to action would suggest the tight end is on track to play Week 1 against the Cowboys. Johnson figures to work mostly as a blocker this season after the Giants signed Isaiah Likely to a contract over the offseason.
-- **Brandon Aiyuk** — Nothing has Changed with Brandon Aiyuk, 49ers (2026-08-31T19:40:11Z)
-  - Source: https://www.rotoballer.com/player-news/nothing-has-changed-with-brandon-aiyuk-49ers/1920732
-- **Carson Beck** — Carson Beck - Returning to practice Monday (2026-08-31T19:30:39Z)
-  - Beck suffered a ribs injury in the Hall of Fame Game earlier this month and missed the Cardinals' three official preseason contests. The third-round rookie is set to open the season as Arizona's QB3 behind starter Jacoby Brissett and veteran backup Gardner Minshew. There's a pretty good chance Beck sees action as a rookie during the regular season.
-- **Theo Johnson** — Theo Johnson Wears Non-Contact Jersey at Monday's Practice (2026-08-31T19:27:10Z)
-  - Source: https://www.rotoballer.com/player-news/theo-johnson-wears-non-contact-jersey-at-mondays-practice/1920728
-- **DK Metcalf** — DK Metcalf will be available Week 1 (2026-08-31T19:20:14.517000Z)
-  - Metcalf has been dealing with an undisclosed injury, but appears to be good to go. He is a strong flex play against the Falcons in Week 1.
-  - Source: https://www.fantasypros.com/nfl/news/605039/dk-metcalf-will-be-available-week-1.php
