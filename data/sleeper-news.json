@@ -1,14 +1,11 @@
 {
-  "last_checked_at": "2026-09-01T22:41:33Z",
+  "last_checked_at": "2026-09-01T23:03:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11597|fantasy_pros|605440|1788301823758",
-    "nfl|12527|fantasy_pros|605446|1788302424185",
-    "nfl|12527|rotoballer|219889|1788287528000",
-    "nfl|4035|fantasy_pros|605442|1788301823722",
-    "nfl|6786|rotoballer|219888|1788286928000",
-    "nfl|8154|rotowire|635861|1788301974000"
+    "nfl|11632|rotoballer|219892|1788288570000",
+    "nfl|9229|rotoballer|219890|1788288428000",
+    "nfl|9487|rotoballer|219891|1788288247000"
   ],
   "schema_version": 1,
   "source": {
@@ -428,6 +425,46 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "New York Giants wide receiver Malik Nabers (knee) was not seen during the media portion of Tuesday's practice. Giants head coach John Harbaugh said that Nabers was involved during most of the team reps during Tuesday's practice. Nabers is trending in the right direction for the Week 1 matchup against the Dallas Cowboys. He has practiced on consecutive days, but the Giants have yet to commit to Nabers being available for the season opener. Once he's fully healthy, Nabers should offer low-end WR1 value, but it wouldn't be shocking for him to be limited early in the season.",
+      "metadata": {
+        "description": "New York Giants wide receiver Malik Nabers (knee) was not seen during the media portion of Tuesday's practice. Giants head coach John Harbaugh said that Nabers was involved during most of the team reps during Tuesday's practice. Nabers is trending in the right direction for the Week 1 matchup against the Dallas Cowboys. He has practiced on consecutive days, but the Giants have yet to commit to Nabers being available for the season opener. Once he's fully healthy, Nabers should offer low-end WR1 value, but it wouldn't be shocking for him to be limited early in the season.",
+        "title": "Malik Nabers was Involved in Most of Tuesday's Practice",
+        "topic_id": "1400650545873563648",
+        "url": "https://www.rotoballer.com/player-news/malik-nabers-was-involved-in-most-of-tuesdays-practice/1921471"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1788288570000,
+      "source": "rotoballer",
+      "source_key": "219892",
+      "story_id": "nfl|11632|rotoballer|219892|1788288570000",
+      "title": "Malik Nabers was Involved in Most of Tuesday's Practice",
+      "url": "https://www.rotoballer.com/player-news/malik-nabers-was-involved-in-most-of-tuesdays-practice/1921471"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts general manager Chris Ballard said on Tuesday that he expects quarterback Anthony Richardson Sr. to remain with the organization this year, according to James Boyd of The Athletic. Richardson survived roster cutdown day on Sunday and will head into the 2026 season as the backup to Daniel Jones, who is coming off a torn Achilles tendon suffered late last season. Richardson, the fourth overall pick in the 2023 draft from Florida, has turned out to be a bust early in his NFL career. His rushing upside is elite, but he could not stay on the field, and he failed to improve on his accuracy as a passer in the competition for the starting job last summer with Jones. And after Jones took off with the starting gig and played well before his Achilles tear, there does not appear to be much of a future for Richardson in Indy. He is heading into the final year of his rookie contract in 2026, so this figures to be Richardson's final season with the Colts, barring something unforeseen happening. If Jones gets hurt again and misses time, Richardson could quickly become a QB2 option in two-QB superflex leagues for his rushing prowess alone.",
+      "metadata": {
+        "description": "Indianapolis Colts general manager Chris Ballard said on Tuesday that he expects quarterback Anthony Richardson Sr. to remain with the organization this year, according to James Boyd of The Athletic. Richardson survived roster cutdown day on Sunday and will head into the 2026 season as the backup to Daniel Jones, who is coming off a torn Achilles tendon suffered late last season. Richardson, the fourth overall pick in the 2023 draft from Florida, has turned out to be a bust early in his NFL career. His rushing upside is elite, but he could not stay on the field, and he failed to improve on his accuracy as a passer in the competition for the starting job last summer with Jones. And after Jones took off with the starting gig and played well before his Achilles tear, there does not appear to be much of a future for Richardson in Indy. He is heading into the final year of his rookie contract in 2026, so this figures to be Richardson's final season with the Colts, barring something unforeseen happening. If Jones gets hurt again and misses time, Richardson could quickly become a QB2 option in two-QB superflex leagues for his rushing prowess alone.",
+        "title": "Colts Expect Anthony Richardson Sr. to Remain With the Team This Year",
+        "topic_id": "1400649288664547328",
+        "url": "https://www.rotoballer.com/player-news/colts-expect-anthony-richardson-sr-to-remain-with-the-team-this-year/1921467"
+      },
+      "nfl_team": "IND",
+      "player_id": "9229",
+      "player_name": "Anthony Richardson",
+      "position": "QB",
+      "published": 1788288428000,
+      "source": "rotoballer",
+      "source_key": "219890",
+      "story_id": "nfl|9229|rotoballer|219890|1788288428000",
+      "title": "Colts Expect Anthony Richardson Sr. to Remain With the Team This Year",
+      "url": "https://www.rotoballer.com/player-news/colts-expect-anthony-richardson-sr-to-remain-with-the-team-this-year/1921467"
+    },
+    {
       "analysis": "After suffering a groin injury during an Aug. 8 practice, Burden was expected to be sidelined for about one month, putting his availability for Week 1 in question. Since then, he missed the Bears' entire preseason slate but returned to individual drills last Wednesday, so his ability to remain on the practice field this week generally is a good sign in his recovery. Chicago takes on the Panthers on the road in the regular-season opener on Sunday, Sept. 13.",
       "description": "Coach Ben Johnson said Burden (groin) will participate in Tuesday's practice, Zack Pearson of BearReport reports.",
       "metadata": {
@@ -446,6 +483,26 @@
       "story_id": "nfl|12519|rotowire|635844|1788288329000",
       "title": "Luther Burden - Practicing Tuesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars wide receiver Parker Washington is carrying a ton of hype coming into the 2026 season. The Jags are expecting big things from Washington in 2026 and beyond. Recently, Jags' general manager James Gladstone said that the team is fine with discussing a new contract with Washington during the regular season, according to Ryan O'Halloran. Washington is entering his fourth season with the team, and broke out in a big way last season. He finished with 58 receptions with 847 receiving yards and five touchdowns in 16 games with the Jags last season. He could be one of the most trusted options in Jacksonville this upcoming season, and it appears the team would like to keep him around long term.",
+      "metadata": {
+        "description": "Jacksonville Jaguars wide receiver Parker Washington is carrying a ton of hype coming into the 2026 season. The Jags are expecting big things from Washington in 2026 and beyond. Recently, Jags' general manager James Gladstone said that the team is fine with discussing a new contract with Washington during the regular season, according to Ryan O'Halloran. Washington is entering his fourth season with the team, and broke out in a big way last season. He finished with 58 receptions with 847 receiving yards and five touchdowns in 16 games with the Jags last season. He could be one of the most trusted options in Jacksonville this upcoming season, and it appears the team would like to keep him around long term.",
+        "title": "Parker Washington Could Discuss New Contract During Regular Season",
+        "topic_id": "1400649288656158720",
+        "url": "https://www.rotoballer.com/player-news/parker-washington-could-discuss-new-contract-during-regular-season/1921463"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9487",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "published": 1788288247000,
+      "source": "rotoballer",
+      "source_key": "219891",
+      "story_id": "nfl|9487|rotoballer|219891|1788288247000",
+      "title": "Parker Washington Could Discuss New Contract During Regular Season",
+      "url": "https://www.rotoballer.com/player-news/parker-washington-could-discuss-new-contract-during-regular-season/1921463"
     },
     {
       "analysis": "Monangai experienced a scare during the aforementioned session, when he was tackled from behind by Bears defensive tackle Grady Jarrett. Initially, Monangai's right knee was deemed to be structurally sound, and he was dealing with only a hyperextension, but he remains in the week-to-week category via Johnson just as he was two weeks ago. As such, Monangai could be in danger of being limited or even sidelined for the Bears' season opener Sunday, Sept. 13 at Carolina. Roschon Johnson would receive a bump in relevance behind D'Andre Swift in such a scenario.",
@@ -472,7 +529,7 @@
       "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) was seen working off to the side during Tuesday's practice. This was the first time that Jeanty was seen doing work during a media viewing period since suffering his ankle injury. Raiders General Manager John Spytek recently said that Jeanty is in a good spot following his ankle injury, Ryan McFadden reports. Spytek continued by saying he expects Jeanty to be back in the mix quicker than people would expect. He didn't give an exact timetable, but the Raiders might not know exactly when Jeanty will be ready to play. Mike Washington Jr. could operate as the lead back in Las Vegas in Week 1, but that'll depend on Jeanty's progress over the next few days.",
       "metadata": {
         "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) was seen working off to the side during Tuesday's practice. This was the first time that Jeanty was seen doing work during a media viewing period since suffering his ankle injury. Raiders General Manager John Spytek recently said that Jeanty is in a good spot following his ankle injury, Ryan McFadden reports. Spytek continued by saying he expects Jeanty to be back in the mix quicker than people would expect. He didn't give an exact timetable, but the Raiders might not know exactly when Jeanty will be ready to play. Mike Washington Jr. could operate as the lead back in Las Vegas in Week 1, but that'll depend on Jeanty's progress over the next few days.",
-        "title": "Ashton Jeanty is in Good Spot with Ankle Injury",
+        "title": "Ashton Jeanty is in \"Good Spot\" with Ankle Injury",
         "topic_id": "1400645513212096512",
         "url": "https://www.rotoballer.com/player-news/ashton-jeanty-is-in-good-spot-with-ankle-injury/1921454"
       },
@@ -484,7 +541,7 @@
       "source": "rotoballer",
       "source_key": "219889",
       "story_id": "nfl|12527|rotoballer|219889|1788287528000",
-      "title": "Ashton Jeanty is in Good Spot with Ankle Injury",
+      "title": "Ashton Jeanty is in \"Good Spot\" with Ankle Injury",
       "url": "https://www.rotoballer.com/player-news/ashton-jeanty-is-in-good-spot-with-ankle-injury/1921454"
     },
     {

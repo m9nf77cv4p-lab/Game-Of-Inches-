@@ -2,20 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1582**
-- Newly captured: **6**
+- Stored stories: **1585**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Ashton Jeanty** — Ashton Jeanty (ankle) receives positive update  (2026-09-01T22:40:24.185000Z)
+- **Ashton Jeanty** — Ashton Jeanty (ankle) receives positive update  (2026-09-01T22:40:24.185000Z)
   - "I expect him to be back as quick he can, maybe quicker than some people would expect," Spytek said. "When that is, we'll see." Jeanty did not practice on Tuesday. The fact that he wasn't placed on IR is a positive sign. He could be back as soon as Week 1. 
   - Source: https://www.fantasypros.com/nfl/news/605446/ashton-jeanty-ankle-receives-positive-update.php
-- **NEW — Brian Robinson** — Brian Robinson - Expected to have role at goal line (2026-09-01T22:32:54Z)
+- **Brian Robinson** — Brian Robinson - Expected to have role at goal line (2026-09-01T22:32:54Z)
   - "He has shown a physical style in practice that cements his role as the new Tyler Allgeier," Kendall wrote about Robinson. "Bijan Robinson fantasy managers may not like how many goal-line carries he gets." Allgeier, of course, was a thorn in the side of Bijan last season, out-carrying Robinson 19 to 17 inside the 10-yard line while matching him with seven carries apiece inside the five-yard line. Allgeier also punched in four of those seven carries for touchdowns, while Bijan scored on just two of his chances. Brian, at 6-foot-1 and 225 pounds, profiles similarly to Allgeier as a short-yardage, between-the-tackles, goal-line type who can get the tough yards. It sounds like he's going to have some sort of role in those situations for Atlanta this season, which could mute some of Bijan's touchdown upside.
-- **NEW — Theo Johnson** — Theo Johnson (shoulder) practices in non-contact jersey  (2026-09-01T22:30:23.758000Z)
+- **Theo Johnson** — Theo Johnson (shoulder) practices in non-contact jersey  (2026-09-01T22:30:23.758000Z)
   - Johnson will have the next week and a half to get fully healthy for the start of the season. 
   - Source: https://www.fantasypros.com/nfl/news/605440/theo-johnson-shoulder-practices-non-contact-jersey.php
-- **NEW — Alvin Kamara** — Alvin Kamara (knee) misses practice Tuesday  (2026-09-01T22:30:23.722000Z)
+- **Alvin Kamara** — Alvin Kamara (knee) misses practice Tuesday  (2026-09-01T22:30:23.722000Z)
   - It remains unclear when Kamara will be able to return. It is notable he wasn't placed on IR. 
   - Source: https://www.fantasypros.com/nfl/news/605442/alvin-kamara-knee-misses-practice-tuesday.php
 - **Chris Bell** — Chris Bell - Still working into football shape (2026-09-01T22:17:55Z)
@@ -56,15 +56,21 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Coleman sustained a sprained right foot/toe in the Bills' preseason opener Aug. 15, but he ditched his low walking boot as of last Thursday and now appears set to mix back into drills. The extent of his activity Tuesday isn't known, but he still has nearly two weeks to get healthy ahead of a Week 1 road matchup with the Texans on Sunday, Sept. 13.
 - **Khalil Shakir** — Khalil Shakir - Still not practicing (2026-09-01T19:11:55Z)
   - Shakir was able to suit up for preseason Week 1 against the Panthers on Saturday, Aug. 15, hauling in both of his targets for 41 yards while playing eight offensive snaps. However, he's been out of drills since Aug. 20 and didn't suit up for the Bills' final two exhibitions due to an undisclosed injury. Buffalo opens the regular season on Sunday, Sept. 13 at Houston, giving him less than two weeks to get himself ready for game action.
+- **NEW — Malik Nabers** — Malik Nabers was Involved in Most of Tuesday's Practice (2026-09-01T18:49:30Z)
+  - Source: https://www.rotoballer.com/player-news/malik-nabers-was-involved-in-most-of-tuesdays-practice/1921471
+- **NEW — Anthony Richardson** — Colts Expect Anthony Richardson Sr. to Remain With the Team This Year (2026-09-01T18:47:08Z)
+  - Source: https://www.rotoballer.com/player-news/colts-expect-anthony-richardson-sr-to-remain-with-the-team-this-year/1921467
 - **Luther Burden** — Luther Burden - Practicing Tuesday (2026-09-01T18:45:29Z)
   - After suffering a groin injury during an Aug. 8 practice, Burden was expected to be sidelined for about one month, putting his availability for Week 1 in question. Since then, he missed the Bears' entire preseason slate but returned to individual drills last Wednesday, so his ability to remain on the practice field this week generally is a good sign in his recovery. Chicago takes on the Panthers on the road in the regular-season opener on Sunday, Sept. 13.
+- **NEW — Parker Washington** — Parker Washington Could Discuss New Contract During Regular Season (2026-09-01T18:44:07Z)
+  - Source: https://www.rotoballer.com/player-news/parker-washington-could-discuss-new-contract-during-regular-season/1921463
 - **Kyle Monangai** — Kyle Monangai - Remains 'week-to-week' (2026-09-01T18:36:39Z)
   - Monangai experienced a scare during the aforementioned session, when he was tackled from behind by Bears defensive tackle Grady Jarrett. Initially, Monangai's right knee was deemed to be structurally sound, and he was dealing with only a hyperextension, but he remains in the week-to-week category via Johnson just as he was two weeks ago. As such, Monangai could be in danger of being limited or even sidelined for the Bears' season opener Sunday, Sept. 13 at Carolina. Roschon Johnson would receive a bump in relevance behind D'Andre Swift in such a scenario.
-- **NEW — Ashton Jeanty** — Ashton Jeanty is in Good Spot with Ankle Injury (2026-09-01T18:32:08Z)
+- **Ashton Jeanty** — Ashton Jeanty is in "Good Spot" with Ankle Injury (2026-09-01T18:32:08Z)
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-is-in-good-spot-with-ankle-injury/1921454
 - **D'Andre Swift** — D'Andre Swift - Poised for big 2026 (2026-09-01T18:26:11Z)
   - "It's the best I've seen him this time of year," Johnson said last week. "You look back at a year ago, he was very explosive, and yet it takes a little while to gel between him and the offensive line. I think he's accelerating his vision here at this point. I think [RBs] coach [Eric] Studesville has been fantastic for him just with the reads and being able to know the intent of where we're trying to hit things. He bounces it when we're supposed to bounce it. He hits it right on spot when it's there, then he cuts it up. I think he's doing a really good job right now. We just got to get into that first week nice and healthy and ready to go. I think he's primed for a big year, though." With Kyle Monangai (knee) still considered week-to-week 12 days out from the regular season, Swift could have a huge role early in the season. Running behind one of the best run-blocking offensive lines in the league and in an offense that wants to score boatloads of points, Swift has big upside as a fantasy RB2.
-- **NEW — CeeDee Lamb** — CeeDee Lamb Excited for Second Year with Star WR Teammate (2026-09-01T18:22:08Z)
+- **CeeDee Lamb** — CeeDee Lamb Excited for Second Year with Star WR Teammate (2026-09-01T18:22:08Z)
   - Source: https://www.rotoballer.com/player-news/ceedee-lamb-is-excited-for-second-year-with-george-pickens/1921436
 - **Brian Robinson** — Brian Robinson to See Goal-Line Work in Atlanta? (2026-09-01T18:16:06Z)
   - Source: https://www.rotoballer.com/player-news/brian-robinson-to-see-goal-line-work-in-atlanta/1921432
@@ -222,9 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kenneth-walker-could-be-over-hyped/1921139
 - **Ted Hurst** — Ted Hurst III Earning a Larger Role for the Buccaneers (2026-09-01T09:45:15Z)
   - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-earning-a-larger-role-for-the-buccaneers/1921126
-- **Jalen McMillan** — Emeka Egbuka Could Play in Week 1 (2026-09-01T09:36:33Z)
-  - Source: https://www.rotoballer.com/player-news/emeka-egbuka-and-jalen-mcmillan-could-play-in-week-1/1921116
-- **Zay Flowers** — Zay Flowers Good to Go for Week 1 (2026-09-01T09:22:10Z)
-  - Source: https://www.rotoballer.com/player-news/zay-flowers-good-to-go-for-week-1/1921100
-- **Jeremiyah Love** — Jeremiyah Love Considered "50/50" to Play in Week 1 (2026-09-01T09:04:09Z)
-  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-considered-50-50-to-play-in-week-1/1921064
