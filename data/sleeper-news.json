@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-01T14:31:33Z",
+  "last_checked_at": "2026-09-01T14:50:43Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|12518|rotowire|635806|1788272768000",
-    "nfl|9487|rotoballer|219856|1788258487000",
-    "nfl|9500|rotowire|635805|1788272387000"
+    "nfl|5850|rotowire|635807|1788273311000",
+    "nfl|5892|rotoballer|219857|1788259386000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back -- who is scheduled to make his first appearance in court Nov. 17 -- won't be eligible to practice or play while he remains on the list. While Jacobs remains away from the team, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson on hand as their available options out of the backfield, with Lloyd being the favorite to lead the trio in touches.",
+      "description": "General manager Brian Gutekunst said Tuesday that he anticipates Jacobs (groin) playing for the Packers at some point in 2026, though the team will let the process play out before making any decisions with the running back, Matt Schneidman of The Athletic reports.",
+      "metadata": {
+        "analysis": "Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back -- who is scheduled to make his first appearance in court Nov. 17 -- won't be eligible to practice or play while he remains on the list. While Jacobs remains away from the team, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson on hand as their available options out of the backfield, with Lloyd being the favorite to lead the trio in touches.",
+        "description": "General manager Brian Gutekunst said Tuesday that he anticipates Jacobs (groin) playing for the Packers at some point in 2026, though the team will let the process play out before making any decisions with the running back, Matt Schneidman of The Athletic reports.",
+        "title": "Josh Jacobs - GM expects him to play in 2026",
+        "topic_id": "1400524704241995776"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1788273311000,
+      "source": "rotowire",
+      "source_key": "635807",
+      "story_id": "nfl|5850|rotowire|635807|1788273311000",
+      "title": "Josh Jacobs - GM expects him to play in 2026",
+      "url": null
+    },
     {
       "analysis": "The Colts won't have to reveal the extent of Warren's practice participation until they release their first injury report of the season Sept. 9, but his presence on the field Tuesday is a good indication that he'll be operating with no restrictions leading up to the Week 1 game against the Ravens. The second-year tight end strained his adductor during an Aug. 19 practice, but the Colts never indicated that the injury was anything that would seriously jeopardize his availability for the start of the regular season.",
       "description": "Warren (adductor) was spotted on the field participating in Tuesday's practice, Nathan Brown of The Indianapolis Star reports.",
@@ -74,6 +93,26 @@
       "story_id": "nfl|9997|rotowire|635796|1788268652000",
       "title": "Zay Flowers - Set to fully practice next week",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans running back David Montgomery looks like a mid-tier running back draft candidate but has the potential to really reward his drafters this season. Coming over in the offseason from Detroit where he split time with Jahmyr Gibbs, Montgomery has the ability to take over the Texans lead rushing role. The Texans do have Woody Marks as a backup running back who will likely take away some of Montgomery's carries and passing down work but Montgomery looks locked and loaded as the lead back. NFL.com's Kevin Patra, did an article where he picked one new Pro-Bowler from each AFC team and listed Montgomery as his candidate for the Texans, saying, \"The 29-year-old is in line for a significant workload increase in Houston, and his ability to punch in scores from short range will be a boon to the offense.\"",
+      "metadata": {
+        "description": "Houston Texans running back David Montgomery looks like a mid-tier running back draft candidate but has the potential to really reward his drafters this season. Coming over in the offseason from Detroit where he split time with Jahmyr Gibbs, Montgomery has the ability to take over the Texans lead rushing role. The Texans do have Woody Marks as a backup running back who will likely take away some of Montgomery's carries and passing down work but Montgomery looks locked and loaded as the lead back. NFL.com's Kevin Patra, did an article where he picked one new Pro-Bowler from each AFC team and listed Montgomery as his candidate for the Texans, saying, \"The 29-year-old is in line for a significant workload increase in Houston, and his ability to punch in scores from short range will be a boon to the offense.\"",
+        "title": "David Montgomery Could Be a Steal in Texans Offense",
+        "topic_id": "1400527219540901888",
+        "url": "https://www.rotoballer.com/player-news/david-montgomery-could-be-a-steal-in-texans-offense/1921161"
+      },
+      "nfl_team": "HOU",
+      "player_id": "5892",
+      "player_name": "David Montgomery",
+      "position": "RB",
+      "published": 1788259386000,
+      "source": "rotoballer",
+      "source_key": "219857",
+      "story_id": "nfl|5892|rotoballer|219857|1788259386000",
+      "title": "David Montgomery Could Be a Steal in Texans Offense",
+      "url": "https://www.rotoballer.com/player-news/david-montgomery-could-be-a-steal-in-texans-offense/1921161"
     },
     {
       "analysis": null,
