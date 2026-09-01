@@ -22976,7 +22976,7 @@
       "nfl_team": "DET",
       "player_id": "8205",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 4
     },
     "8210": {
@@ -23662,8 +23662,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-01T20:33:43Z",
-    "source_fingerprint": "bd4d7e869f5b2aba26439b89b352b0d1b151802a0b403f76b1b134b269007b63"
+    "last_changed_at": "2026-09-01T20:45:56Z",
+    "source_fingerprint": "142446e0a6554f6da14d1bcccf57fa1792b98d3b3b3b435b309ce294389e32aa"
   },
   "teams": [
     {

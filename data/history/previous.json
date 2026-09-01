@@ -22971,7 +22971,7 @@
       ],
       "first_name": "Isiah",
       "full_name": "Isiah Pacheco",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "last_name": "Pacheco",
       "nfl_team": "DET",
       "player_id": "8205",
@@ -23662,8 +23662,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-01T20:20:20Z",
-    "source_fingerprint": "0dbc703424dff0af3b388aacde143268ec6c2742d4e94a6e531a158a7bd88d39"
+    "last_changed_at": "2026-09-01T20:33:43Z",
+    "source_fingerprint": "bd4d7e869f5b2aba26439b89b352b0d1b151802a0b403f76b1b134b269007b63"
   },
   "teams": [
     {
