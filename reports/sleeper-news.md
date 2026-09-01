@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1484**
-- Newly captured: **0**
+- Stored stories: **1485**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Jeremiyah Love** — Jeremiyah Love Considered "50/50" to Play in Week 1 (2026-09-01T09:04:09Z)
+  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-considered-50-50-to-play-in-week-1/1921064
 - **D'Andre Swift** — D'Andre Swift Should Remain an RB2 for Fantasy Managers in 2026 (2026-09-01T01:54:15Z)
   - Source: https://www.rotoballer.com/player-news/dandre-swift-should-remain-an-rb2-for-fantasy-managers-in-2026/1920946
 - **Jaxson Dart** — Jaxson Dart Flashes QB1 Appeal for 2026 (2026-09-01T01:47:06Z)
@@ -218,5 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/saints-place-devin-neal-on-season-ending-injured-reserve/1920057
 - **Taylen Green** — Taylen Green - Sticking around Cleveland (2026-08-30T21:24:31Z)
   - Green was selected in the sixth round of this year's draft after finishing his college career at Arkansas in 2025. The quarterback saw limited action during the preseason, completing five of seven passes for 27 yards while also adding an eight-yard rush. The Browns placed Dillon Gabriel (back) on injured reserve with a designation to return Sunday, and Green will get a chance to serve as the team's No. 3 QB behind Deshaun Watson and Sanders in Gabriel's absence.
-- **Jadarian Price** — Jadarian Price Set for Lead Role to Begin Season (2026-08-30T20:42:10Z)
-  - Source: https://www.rotoballer.com/player-news/jadarian-price-set-for-lead-role-to-begin-season/1920038

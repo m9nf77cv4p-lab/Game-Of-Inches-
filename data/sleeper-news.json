@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-01T12:49:23Z",
+  "last_checked_at": "2026-09-01T13:19:01Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|13287|rotoballer|219850|1788253449000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "According to the NFL Network's Mike Garafolo, Arizona Cardinals rookie running back Jeremiyah Love (ankle) is deemed \"50/50\" to suit up in Week 1. The third overall pick from this year's NFL Draft has been dealing with a high ankle sprain through much of the preseason and could be in danger of sitting out the opening weekend. While head coach Mike LaFleur did express that he was \"trending\" towards an early return, this recent report suggests the team may look to exercise caution with their franchise cornerstone. During his final season at Notre Dame, Love was a Heisman Trophy finalist, rushing for 1,372 yards and 18 touchdowns. Through the air, he caught another three scores and added 280 yards. In the event Love is unable to play, fantasy managers should expect Tyler Allgeier to be given a heavy workload with veteran James Conner (foot) on injured reserve.",
+      "metadata": {
+        "description": "According to the NFL Network's Mike Garafolo, Arizona Cardinals rookie running back Jeremiyah Love (ankle) is deemed \"50/50\" to suit up in Week 1. The third overall pick from this year's NFL Draft has been dealing with a high ankle sprain through much of the preseason and could be in danger of sitting out the opening weekend. While head coach Mike LaFleur did express that he was \"trending\" towards an early return, this recent report suggests the team may look to exercise caution with their franchise cornerstone. During his final season at Notre Dame, Love was a Heisman Trophy finalist, rushing for 1,372 yards and 18 touchdowns. Through the air, he caught another three scores and added 280 yards. In the event Love is unable to play, fantasy managers should expect Tyler Allgeier to be given a heavy workload with veteran James Conner (foot) on injured reserve.",
+        "title": "Jeremiyah Love Considered \"50/50\" to Play in Week 1",
+        "topic_id": "1400502050801889280",
+        "url": "https://www.rotoballer.com/player-news/jeremiyah-love-considered-50-50-to-play-in-week-1/1921064"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788253449000,
+      "source": "rotoballer",
+      "source_key": "219850",
+      "story_id": "nfl|13287|rotoballer|219850|1788253449000",
+      "title": "Jeremiyah Love Considered \"50/50\" to Play in Week 1",
+      "url": "https://www.rotoballer.com/player-news/jeremiyah-love-considered-50-50-to-play-in-week-1/1921064"
+    },
     {
       "analysis": null,
       "description": "Chicago Bears running back D'Andre Swift had a solid 2025 season, tallying 1,087 rushing yards, 34 catches, 299 receiving yards, and 10 touchdowns. He saw his workload slip a little bit as Kyle Monangai took on a bigger role during the second half, but Swift still had control of the backfield by season's end. While Monangai is trending up ahead of 2026, it's hard to imagine the Bears shifting away from a backfield dynamic that clearly worked last year. Swift was highly efficient, and although he did share plenty of snaps and volume with Monangai, there's no doubt that he could have handled an every-down role if necessary. Having Monangai by his side to lighten his load and keep his legs fresh could actually be key for Swift heading into his age-27 season. The seventh-year NFL veteran may no longer be pushing for 20 touches per game, but with high efficiency on the ground and a persistent nose for the end zone, he's still a legitimate RB2 option in all fantasy leagues. The experts agree, as Swift ranks as the overall RB17 in RotoBaller's latest 2026 fantasy football rankings for redraft leagues.",
