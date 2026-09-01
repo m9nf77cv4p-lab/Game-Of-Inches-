@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1534**
-- Newly captured: **1**
+- Stored stories: **1536**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Still awaiting clearance for all activity (2026-09-01T18:14:57Z)
+- **NEW — Kyle Monangai** — Kyle Monangai - Remains 'week-to-week' (2026-09-01T18:36:39Z)
+  - Monangai experienced a scare during the aforementioned session, when he was tackled from behind by Bears defensive tackle Grady Jarrett. Initially, Monangai's right knee was deemed to be structurally sound, and he was dealing with only a hyperextension, but he remains in the week-to-week category via Johnson just as he was two weeks ago. As such, Monangai could be in danger of being limited or even sidelined for the Bears' season opener Sunday, Sept. 13 at Carolina. Roschon Johnson would receive a bump in relevance behind D'Andre Swift in such a scenario.
+- **NEW — D'Andre Swift** — D'Andre Swift - Poised for big 2026 (2026-09-01T18:26:11Z)
+  - "It's the best I've seen him this time of year," Johnson said last week. "You look back at a year ago, he was very explosive, and yet it takes a little while to gel between him and the offensive line. I think he's accelerating his vision here at this point. I think [RBs] coach [Eric] Studesville has been fantastic for him just with the reads and being able to know the intent of where we're trying to hit things. He bounces it when we're supposed to bounce it. He hits it right on spot when it's there, then he cuts it up. I think he's doing a really good job right now. We just got to get into that first week nice and healthy and ready to go. I think he's primed for a big year, though." With Kyle Monangai (knee) still considered week-to-week 12 days out from the regular season, Swift could have a huge role early in the season. Running behind one of the best run-blocking offensive lines in the league and in an offense that wants to score boat loads of points, Swift has big upside as a fantasy RB2.
+- **TreVeyon Henderson** — TreVeyon Henderson - Still awaiting clearance for all activity (2026-09-01T18:14:57Z)
   - Henderson made an early departure from practice last Monday, which has sidelined him in the meantime. Reiss mentioned that Henderson was spotted in the locker room this Tuesday and seemed to be "walking normally," but the Patriots will take it easy on the second-year pro as a Week 1 road showdown with the Seahawks approaches next Wednesday, Sept. 9.
 - **Alec Pierce** — Alec Pierce - Hopeful for Week 1 (2026-09-01T18:00:59Z)
   - Pierce was back on the practice field Tuesday, but it's unclear if he's truly been unleashed for full team drills as he makes his way back from offseason ankle surgery. He missed most of training camp and didn't see any preseason action, but the Colts are remaining optimistic their No. 1 receiver will be out there in 12 days against Baltimore. Indy has issues all over its offense, with Pierce, Josh Downs (calf) and Tyler Warren (groin) all dealing with ailments while Keenan Allen is 34 years old and just signed with the team two weeks ago.
@@ -224,7 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/zay-flowers-does-not-practice-on-monday-due-to-apparent-lower-body-injury/1920600
 - **Blake Corum** — Blake Corum a Potential Draft-Day Bust at Current ADP (2026-08-31T16:09:08Z)
   - Source: https://www.rotoballer.com/player-news/blake-corum-a-potential-draft-day-bust-at-current-adp/1920590
-- **Rico Dowdle** — Rico Dowdle's Role Looks Safer After Final Cuts (2026-08-31T15:57:07Z)
-  - Source: https://www.rotoballer.com/player-news/rico-dowdles-role-looks-safer-after-final-cuts/1920585
-- **Michael Pittman** — Michael Pittman Jr. Expected to be Ready to Go for Week 1 (2026-08-31T15:47:12Z)
-  - Source: https://www.rotoballer.com/player-news/michael-pittman-jr-expected-to-be-ready-to-go-for-week-1/1920579

@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-01T18:26:26Z",
+  "last_checked_at": "2026-09-01T18:41:59Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|12529|rotowire|635841|1788286497000"
+    "nfl|12534|rotowire|635843|1788287799000",
+    "nfl|6790|rotowire|635842|1788287171000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Monangai experienced a scare during the aforementioned session, when he was tackled from behind by Bears defensive tackle Grady Jarrett. Initially, Monangai's right knee was deemed to be structurally sound, and he was dealing with only a hyperextension, but he remains in the week-to-week category via Johnson just as he was two weeks ago. As such, Monangai could be in danger of being limited or even sidelined for the Bears' season opener Sunday, Sept. 13 at Carolina. Roschon Johnson would receive a bump in relevance behind D'Andre Swift in such a scenario.",
+      "description": "Coach Ben Johnson said Tuesday that Monangai is \"week-to-week\" due to the right knee injury that he sustained in practice back on Sunday, Aug. 16, Chris Emma of 670TheScore.com reports.",
+      "metadata": {
+        "analysis": "Monangai experienced a scare during the aforementioned session, when he was tackled from behind by Bears defensive tackle Grady Jarrett. Initially, Monangai's right knee was deemed to be structurally sound, and he was dealing with only a hyperextension, but he remains in the week-to-week category via Johnson just as he was two weeks ago. As such, Monangai could be in danger of being limited or even sidelined for the Bears' season opener Sunday, Sept. 13 at Carolina. Roschon Johnson would receive a bump in relevance behind D'Andre Swift in such a scenario.",
+        "description": "Coach Ben Johnson said Tuesday that Monangai is \"week-to-week\" due to the right knee injury that he sustained in practice back on Sunday, Aug. 16, Chris Emma of 670TheScore.com reports.",
+        "title": "Kyle Monangai - Remains 'week-to-week'",
+        "topic_id": "1400585109140180992"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12534",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "published": 1788287799000,
+      "source": "rotowire",
+      "source_key": "635843",
+      "story_id": "nfl|12534|rotowire|635843|1788287799000",
+      "title": "Kyle Monangai - Remains 'week-to-week'",
+      "url": null
+    },
+    {
+      "analysis": "\"It's the best I've seen him this time of year,\" Johnson said last week. \"You look back at a year ago, he was very explosive, and yet it takes a little while to gel between him and the offensive line. I think he's accelerating his vision here at this point. I think [RBs] coach [Eric] Studesville has been fantastic for him just with the reads and being able to know the intent of where we're trying to hit things. He bounces it when we're supposed to bounce it. He hits it right on spot when it's there, then he cuts it up. I think he's doing a really good job right now. We just got to get into that first week nice and healthy and ready to go. I think he's primed for a big year, though.\" With Kyle Monangai (knee) still considered week-to-week 12 days out from the regular season, Swift could have a huge role early in the season. Running behind one of the best run-blocking offensive lines in the league and in an offense that wants to score boat loads of points, Swift has big upside as a fantasy RB2.",
+      "description": "Coach Ben Johnson believes Swift is \"primed for a big year\" in 2026, Dan Wiederer of The Athletic reports.",
+      "metadata": {
+        "analysis": "\"It's the best I've seen him this time of year,\" Johnson said last week. \"You look back at a year ago, he was very explosive, and yet it takes a little while to gel between him and the offensive line. I think he's accelerating his vision here at this point. I think [RBs] coach [Eric] Studesville has been fantastic for him just with the reads and being able to know the intent of where we're trying to hit things. He bounces it when we're supposed to bounce it. He hits it right on spot when it's there, then he cuts it up. I think he's doing a really good job right now. We just got to get into that first week nice and healthy and ready to go. I think he's primed for a big year, though.\" With Kyle Monangai (knee) still considered week-to-week 12 days out from the regular season, Swift could have a huge role early in the season. Running behind one of the best run-blocking offensive lines in the league and in an offense that wants to score boat loads of points, Swift has big upside as a fantasy RB2.",
+        "description": "Coach Ben Johnson believes Swift is \"primed for a big year\" in 2026, Dan Wiederer of The Athletic reports.",
+        "title": "D'Andre Swift - Poised for big 2026",
+        "topic_id": "1400582591697911808"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1788287171000,
+      "source": "rotowire",
+      "source_key": "635842",
+      "story_id": "nfl|6790|rotowire|635842|1788287171000",
+      "title": "D'Andre Swift - Poised for big 2026",
+      "url": null
+    },
     {
       "analysis": "Henderson made an early departure from practice last Monday, which has sidelined him in the meantime. Reiss mentioned that Henderson was spotted in the locker room this Tuesday and seemed to be \"walking normally,\" but the Patriots will take it easy on the second-year pro as a Week 1 road showdown with the Seahawks approaches next Wednesday, Sept. 9.",
       "description": "Henderson continues to rehab a right ankle injury and hasn't been cleared for full participation in practice, Mike Reiss of ESPN.com reports.",
