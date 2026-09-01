@@ -2,12 +2,32 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1519**
-- Newly captured: **1**
+- Stored stories: **1526**
+- Newly captured: **7**
 
 ## Latest news
 
-- **NEW — Lamar Jackson** — Lamar Jackson - Explains lack of rushing in 2025 (2026-09-01T16:50:54Z)
+- **NEW — Emeka Egbuka** — Emeka Egbuka (toe) remains up in air for Week 1 (2026-09-01T17:15:21.963000Z)
+  - Egbuka is continuing to work his way back from a toe injury. His status will need to be monitored closely during practice next week. 
+  - Source: https://www.fantasypros.com/nfl/news/605324/emeka-egbuka-toe-remains-up-air-week-1.php
+- **NEW — Jalen McMillan** — Jalen McMillan (knee) uncertain for Week 1 (2026-09-01T17:15:21.946000Z)
+  - McMillan status will need to be monitored during practice next week. He is continuing to work his way back from a knee injury. 
+  - Source: https://www.fantasypros.com/nfl/news/605325/jalen-mcmillan-knee-uncertain-week-1.php
+- **NEW — Jeremiyah Love** — Jeremiyah Love (ankle) 'about 50/50' to play in Week 1 (2026-09-01T17:10:21.402000Z)
+  - Love is working his way back from a preseason high ankle sprain. If he doesn't play in Week 1, he'll have a good chance to return by Week 2 or 3. If he is sidelined, Tyler Allgeier would be in line for a big role. 
+  - Source: https://www.fantasypros.com/nfl/news/605322/jeremiyah-love-ankle-about-5050-to-play-week-1.php
+- **NEW — Anthony Richardson** — Anthony Richardson Sr. expected to remain with Colts for 2026 season (2026-09-01T17:05:22.413000Z)
+  - Richardson requested a trade earlier in the offseason, but it appears the Colts were unable to find a suitor. It will be him or Riley Leonard backing up Daniel Jones. 
+  - Source: https://www.fantasypros.com/nfl/news/605318/anthony-richardson-sr-expected-to-remain-with-colts-2026-season.php
+- **NEW — Baker Mayfield** — Baker Mayfield: No immediate plans to re-open contract talks  (2026-09-01T17:05:22.397000Z)
+  - The expectation was that Mayfield would play this upcoming season on the final year of his contract. This will remain a situation to monitor all year. 
+  - Source: https://www.fantasypros.com/nfl/news/605319/baker-mayfield-no-immediate-plans-to-re-open-contract-talks.php
+- **NEW — Josh Jacobs** — Josh Jacobs expected to play for Packers in 2026 per GM (2026-09-01T17:05:22.360000Z)
+  - Gutekunst said he wants to let the process play out when asked if there's a scenario in which the Packers release Jacobs. He was placed on the Commissioners Exempt List on Sunday. This will remain a situation to monitor. 
+  - Source: https://www.fantasypros.com/nfl/news/605321/josh-jacobs-expected-to-play-packers-2026-per-gm.php
+- **NEW — Matthew Stafford** — Matthew Stafford - Doesn't see any preseason action (2026-09-01T17:03:47Z)
+  - Stafford hasn't taken a preseason snap since the summer of 2019. The difference this year from last is that he's healthy. While back issues kept Stafford glued to the sideline last year, he's been a full participant in training camp this summer and appears poised to try and repeat as league MVP with a star-studded roster in Los Angeles. Despite the back issues last preseason and during camp, Stafford still started all 17 regular-season games in 2025 and led the league with 4,707 passing yards, 46 touchdowns and a 7.7 percent touchdown rate. He finished as fantasy's overall QB3 but is being drafted on average as the QB12 in fantasy leagues this year.
+- **Lamar Jackson** — Lamar Jackson - Explains lack of rushing in 2025 (2026-09-01T16:50:54Z)
   - Hamstring and back injuries forced Jackson to miss four games last season and sapped his rushing ability even when he was active.  This led to Jackson posting career lows in rushing attempts (67) and yards (349). Jackson is now fully healthy going into 2026, his first season operating Declan Doyle's offense. The Ravens open the season on the road in Indianapolis on Sept. 13.
 - **Daniel Jones** — Daniel Jones - Impresses in training camp (2026-09-01T16:32:04Z)
   - Jones has put last season's Achilles injury behind him and turned in a strong training camp as he gets ready for 2026. Despite not having a full complement of weapons at his disposal given absences from Josh Downs, Alec Pierce and Tyler Warren at different parts of camp, Jones still impressed. The Colts open their season Sept. 13 at home against Baltimore.
@@ -208,17 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-building-momentum-for-redraft-rebound/1920488
 - **Kyren Williams** — Kyren Williams Facing More Workload Risk (2026-08-31T13:33:03Z)
   - Source: https://www.rotoballer.com/player-news/kyren-williams-facing-more-workload-risk/1920484
-- **Kaleb Johnson** — Kaleb Johnson Surging Up Draft Boards Amid Path to Fantasy Relevance (2026-08-31T13:22:11Z)
-  - Source: https://www.rotoballer.com/player-news/kaleb-johnson-surging-up-draft-boards-amid-path-to-fantasy-relevance/1920472
-- **Kaytron Allen** — Kaytron Allen's Path to Early-Season Work Gets Clearer (2026-08-31T13:12:15Z)
-  - Source: https://www.rotoballer.com/player-news/kaytron-allens-path-to-early-season-work-gets-clearer/1920461
-- **Travis Etienne** — Travis Etienne Jr. Could Face Competition for Touches (2026-08-31T12:55:06Z)
-  - Source: https://www.rotoballer.com/player-news/travis-etienne-jr-could-face-competition-for-touches/1920442
-- **Mike Washington** — Mike Washington Jr. Will Have Key Role in Raiders' Backfield (2026-08-31T12:44:09Z)
-  - Source: https://www.rotoballer.com/player-news/mike-washington-jr-will-have-key-role-in-raiders-backfield/1920431
-- **Isaac TeSlaa** — Isaac Teslaa has WR3 Job Locked Down in Detroit (2026-08-31T12:36:10Z)
-  - Source: https://www.rotoballer.com/player-news/isaac-teslaa-has-wr3-job-locked-down-in-detroit/1920429
-- **Tyler Allgeier** — Tyler Allgeier Primed for Early Season Workload (2026-08-31T12:24:05Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-allgeier-primed-for-early-season-workload/1920419
-- **Jalen Coker** — Jalen Coker has Prime Path to 2026 Breakout (2026-08-31T12:17:07Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-coker-has-prime-path-to-2026-breakout/1920415

@@ -1,9 +1,15 @@
 {
-  "last_checked_at": "2026-09-01T17:00:22Z",
+  "last_checked_at": "2026-09-01T17:17:08Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|4881|rotowire|635831|1788281454000"
+    "nfl|11618|fantasy_pros|605325|1788282921946",
+    "nfl|12514|fantasy_pros|605324|1788282921963",
+    "nfl|13287|fantasy_pros|605322|1788282621402",
+    "nfl|421|rotowire|635832|1788282227000",
+    "nfl|4892|fantasy_pros|605319|1788282322397",
+    "nfl|5850|fantasy_pros|605321|1788282322360",
+    "nfl|9229|fantasy_pros|605318|1788282322413"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +19,152 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Egbuka is continuing to work his way back from a toe injury. His status will need to be monitored closely during practice next week. ",
+      "description": "Buccaneers head coach Todd Bowles said he's waiting to see what Emeka Egbuka looks like next week before determining whether or not he'll be ready for Week 1 against the Bengals. ",
+      "metadata": {
+        "analysis": "Egbuka is continuing to work his way back from a toe injury. His status will need to be monitored closely during practice next week. ",
+        "description": "Buccaneers head coach Todd Bowles said he's waiting to see what Emeka Egbuka looks like next week before determining whether or not he'll be ready for Week 1 against the Bengals. ",
+        "title": "Emeka Egbuka (toe) remains up in air for Week 1",
+        "topic_id": "1400563722484736000",
+        "url": "https://www.fantasypros.com/nfl/news/605324/emeka-egbuka-toe-remains-up-air-week-1.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1788282921963,
+      "source": "fantasy_pros",
+      "source_key": "605324",
+      "story_id": "nfl|12514|fantasy_pros|605324|1788282921963",
+      "title": "Emeka Egbuka (toe) remains up in air for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/605324/emeka-egbuka-toe-remains-up-air-week-1.php"
+    },
+    {
+      "analysis": "McMillan status will need to be monitored during practice next week. He is continuing to work his way back from a knee injury. ",
+      "description": "Buccaneers head coach Todd Bowles said he's waiting to see what Jalen McMillan looks like next week before determining whether or not he'll be ready for Week 1 against the Bengals. ",
+      "metadata": {
+        "analysis": "McMillan status will need to be monitored during practice next week. He is continuing to work his way back from a knee injury. ",
+        "description": "Buccaneers head coach Todd Bowles said he's waiting to see what Jalen McMillan looks like next week before determining whether or not he'll be ready for Week 1 against the Bengals. ",
+        "title": "Jalen McMillan (knee) uncertain for Week 1",
+        "topic_id": "1400563722409238528",
+        "url": "https://www.fantasypros.com/nfl/news/605325/jalen-mcmillan-knee-uncertain-week-1.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1788282921946,
+      "source": "fantasy_pros",
+      "source_key": "605325",
+      "story_id": "nfl|11618|fantasy_pros|605325|1788282921946",
+      "title": "Jalen McMillan (knee) uncertain for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/605325/jalen-mcmillan-knee-uncertain-week-1.php"
+    },
+    {
+      "analysis": "Love is working his way back from a preseason high ankle sprain. If he doesn't play in Week 1, he'll have a good chance to return by Week 2 or 3. If he is sidelined, Tyler Allgeier would be in line for a big role. ",
+      "description": "Jeremiyah Love is \"about 50/50\" to play in Week 1 against the Chargers.",
+      "metadata": {
+        "analysis": "Love is working his way back from a preseason high ankle sprain. If he doesn't play in Week 1, he'll have a good chance to return by Week 2 or 3. If he is sidelined, Tyler Allgeier would be in line for a big role. ",
+        "description": "Jeremiyah Love is \"about 50/50\" to play in Week 1 against the Chargers.",
+        "title": "Jeremiyah Love (ankle) 'about 50/50' to play in Week 1",
+        "topic_id": "1400562461844709376",
+        "url": "https://www.fantasypros.com/nfl/news/605322/jeremiyah-love-ankle-about-5050-to-play-week-1.php"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788282621402,
+      "source": "fantasy_pros",
+      "source_key": "605322",
+      "story_id": "nfl|13287|fantasy_pros|605322|1788282621402",
+      "title": "Jeremiyah Love (ankle) 'about 50/50' to play in Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/605322/jeremiyah-love-ankle-about-5050-to-play-week-1.php"
+    },
+    {
+      "analysis": "Richardson requested a trade earlier in the offseason, but it appears the Colts were unable to find a suitor. It will be him or Riley Leonard backing up Daniel Jones. ",
+      "description": "Colts GM Chris Ballard said he expects Anthony Richardson Jr. to remain with the team in 2026.",
+      "metadata": {
+        "analysis": "Richardson requested a trade earlier in the offseason, but it appears the Colts were unable to find a suitor. It will be him or Riley Leonard backing up Daniel Jones. ",
+        "description": "Colts GM Chris Ballard said he expects Anthony Richardson Jr. to remain with the team in 2026.",
+        "title": "Anthony Richardson Sr. expected to remain with Colts for 2026 season",
+        "topic_id": "1400561207785582592",
+        "url": "https://www.fantasypros.com/nfl/news/605318/anthony-richardson-sr-expected-to-remain-with-colts-2026-season.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "9229",
+      "player_name": "Anthony Richardson",
+      "position": "QB",
+      "published": 1788282322413,
+      "source": "fantasy_pros",
+      "source_key": "605318",
+      "story_id": "nfl|9229|fantasy_pros|605318|1788282322413",
+      "title": "Anthony Richardson Sr. expected to remain with Colts for 2026 season",
+      "url": "https://www.fantasypros.com/nfl/news/605318/anthony-richardson-sr-expected-to-remain-with-colts-2026-season.php"
+    },
+    {
+      "analysis": "The expectation was that Mayfield would play this upcoming season on the final year of his contract. This will remain a situation to monitor all year. ",
+      "description": "Buccaneers GM Jason Licht said there are no immediate plans to re-open contract talks with Baker Mayfield.",
+      "metadata": {
+        "analysis": "The expectation was that Mayfield would play this upcoming season on the final year of his contract. This will remain a situation to monitor all year. ",
+        "description": "Buccaneers GM Jason Licht said there are no immediate plans to re-open contract talks with Baker Mayfield.",
+        "title": "Baker Mayfield: No immediate plans to re-open contract talks ",
+        "topic_id": "1400561207718473728",
+        "url": "https://www.fantasypros.com/nfl/news/605319/baker-mayfield-no-immediate-plans-to-re-open-contract-talks.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "4892",
+      "player_name": "Baker Mayfield",
+      "position": "QB",
+      "published": 1788282322397,
+      "source": "fantasy_pros",
+      "source_key": "605319",
+      "story_id": "nfl|4892|fantasy_pros|605319|1788282322397",
+      "title": "Baker Mayfield: No immediate plans to re-open contract talks ",
+      "url": "https://www.fantasypros.com/nfl/news/605319/baker-mayfield-no-immediate-plans-to-re-open-contract-talks.php"
+    },
+    {
+      "analysis": "Gutekunst said he wants to let the process play out when asked if there's a scenario in which the Packers release Jacobs. He was placed on the Commissioners Exempt List on Sunday. This will remain a situation to monitor. ",
+      "description": "Packers GM Brian Gutekunst said he expected Josh Jacobs to play for the team in 2026.",
+      "metadata": {
+        "analysis": "Gutekunst said he wants to let the process play out when asked if there's a scenario in which the Packers release Jacobs. He was placed on the Commissioners Exempt List on Sunday. This will remain a situation to monitor. ",
+        "description": "Packers GM Brian Gutekunst said he expected Josh Jacobs to play for the team in 2026.",
+        "title": "Josh Jacobs expected to play for Packers in 2026 per GM",
+        "topic_id": "1400561207559090176",
+        "url": "https://www.fantasypros.com/nfl/news/605321/josh-jacobs-expected-to-play-packers-2026-per-gm.php"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1788282322360,
+      "source": "fantasy_pros",
+      "source_key": "605321",
+      "story_id": "nfl|5850|fantasy_pros|605321|1788282322360",
+      "title": "Josh Jacobs expected to play for Packers in 2026 per GM",
+      "url": "https://www.fantasypros.com/nfl/news/605321/josh-jacobs-expected-to-play-packers-2026-per-gm.php"
+    },
+    {
+      "analysis": "Stafford hasn't taken a preseason snap since the summer of 2019. The difference this year from last is that he's healthy. While back issues kept Stafford glued to the sideline last year, he's been a full participant in training camp this summer and appears poised to try and repeat as league MVP with a star-studded roster in Los Angeles. Despite the back issues last preseason and during camp, Stafford still started all 17 regular-season games in 2025 and led the league with 4,707 passing yards, 46 touchdowns and a 7.7 percent touchdown rate. He finished as fantasy's overall QB3 but is being drafted on average as the QB12 in fantasy leagues this year.",
+      "description": "Stafford once again didn't play any offensive snaps during the preseason.",
+      "metadata": {
+        "analysis": "Stafford hasn't taken a preseason snap since the summer of 2019. The difference this year from last is that he's healthy. While back issues kept Stafford glued to the sideline last year, he's been a full participant in training camp this summer and appears poised to try and repeat as league MVP with a star-studded roster in Los Angeles. Despite the back issues last preseason and during camp, Stafford still started all 17 regular-season games in 2025 and led the league with 4,707 passing yards, 46 touchdowns and a 7.7 percent touchdown rate. He finished as fantasy's overall QB3 but is being drafted on average as the QB12 in fantasy leagues this year.",
+        "description": "Stafford once again didn't play any offensive snaps during the preseason.",
+        "title": "Matthew Stafford - Doesn't see any preseason action",
+        "topic_id": "1400562457642053632"
+      },
+      "nfl_team": "LAR",
+      "player_id": "421",
+      "player_name": "Matthew Stafford",
+      "position": "QB",
+      "published": 1788282227000,
+      "source": "rotowire",
+      "source_key": "635832",
+      "story_id": "nfl|421|rotowire|635832|1788282227000",
+      "title": "Matthew Stafford - Doesn't see any preseason action",
+      "url": null
+    },
     {
       "analysis": "Hamstring and back injuries forced Jackson to miss four games last season and sapped his rushing ability even when he was active.  This led to Jackson posting career lows in rushing attempts (67) and yards (349). Jackson is now fully healthy going into 2026, his first season operating Declan Doyle's offense. The Ravens open the season on the road in Indianapolis on Sept. 13.",
       "description": "Jackson told reporters recently that injuries factored into his running less in 2025, per Jamison Hensley of ESPN.com. \"I believe you know ... a lot of people know [that] I was hurt last year, so I really could not do anything like I wanted to,\" said Jackson.",
