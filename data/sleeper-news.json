@@ -1,14 +1,23 @@
 {
-  "last_checked_at": "2026-09-01T15:29:53Z",
+  "last_checked_at": "2026-09-01T16:22:49Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|12504|rotoballer|219858|1788260239000",
-    "nfl|12514|rotowire|635812|1788275916000",
-    "nfl|12527|rotowire|635809|1788274931000",
-    "nfl|12527|rotowire|635810|1788275572000",
-    "nfl|12533|rotowire|635813|1788276137000",
-    "nfl|5850|rotoballer|219859|1788261427000"
+    "nfl|11583|fantasy_pros|605293|1788279321665",
+    "nfl|11618|rotowire|635824|1788278885000",
+    "nfl|12518|fantasy_pros|605296|1788279321611",
+    "nfl|12527|fantasy_pros|605294|1788279321649",
+    "nfl|13337|rotowire|635818|1788277865000",
+    "nfl|1479|rotowire|635815|1788276623000",
+    "nfl|2216|fantasy_pros|605295|1788279321629",
+    "nfl|2216|rotowire|635822|1788278650000",
+    "nfl|4217|rotowire|635825|1788279091000",
+    "nfl|4892|rotoballer|219861|1788262632000",
+    "nfl|7594|rotowire|635820|1788278174000",
+    "nfl|8142|fantasy_pros|605297|1788279621086",
+    "nfl|9229|rotowire|635817|1788277162000",
+    "nfl|9500|fantasy_pros|605298|1788279621070",
+    "nfl|9502|rotowire|635823|1788278652000"
   ],
   "schema_version": 1,
   "source": {
@@ -18,6 +27,292 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Pierce missed most of training camp while recovering from offseason ankle surgery. He appears to be on track to be good to go for Week 1, though it is unclear if he will be limited in any way. ",
+      "description": "Alec Pierce practiced on Tuesday. ",
+      "metadata": {
+        "analysis": "Pierce missed most of training camp while recovering from offseason ankle surgery. He appears to be on track to be good to go for Week 1, though it is unclear if he will be limited in any way. ",
+        "description": "Alec Pierce practiced on Tuesday. ",
+        "title": "Alec Pierce (ankle) practices Tuesday ",
+        "topic_id": "1400549877607358464",
+        "url": "https://www.fantasypros.com/nfl/news/605297/alec-pierce-ankle-practices-tuesday.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1788279621086,
+      "source": "fantasy_pros",
+      "source_key": "605297",
+      "story_id": "nfl|8142|fantasy_pros|605297|1788279621086",
+      "title": "Alec Pierce (ankle) practices Tuesday ",
+      "url": "https://www.fantasypros.com/nfl/news/605297/alec-pierce-ankle-practices-tuesday.php"
+    },
+    {
+      "analysis": "Downs missed time last week with a calf issue. He is on track to be good to go for the season opener next week. ",
+      "description": "Josh Downs practiced on Tuesday. ",
+      "metadata": {
+        "analysis": "Downs missed time last week with a calf issue. He is on track to be good to go for the season opener next week. ",
+        "description": "Josh Downs practiced on Tuesday. ",
+        "title": "Josh Downs (calf) practices Tuesday ",
+        "topic_id": "1400549877531860992",
+        "url": "https://www.fantasypros.com/nfl/news/605298/josh-downs-calf-practices-tuesday.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "9500",
+      "player_name": "Josh Downs",
+      "position": "WR",
+      "published": 1788279621070,
+      "source": "fantasy_pros",
+      "source_key": "605298",
+      "story_id": "nfl|9500|fantasy_pros|605298|1788279621070",
+      "title": "Josh Downs (calf) practices Tuesday ",
+      "url": "https://www.fantasypros.com/nfl/news/605298/josh-downs-calf-practices-tuesday.php"
+    },
+    {
+      "analysis": "It is unclear what the exact reasoning is. There could be an update after practice. Brooks figures to enter the season complementing Chuba Hubbard. ",
+      "description": "Jonathon Brooks was seen working on the side with trainers during practice on Tuesday. ",
+      "metadata": {
+        "analysis": "It is unclear what the exact reasoning is. There could be an update after practice. Brooks figures to enter the season complementing Chuba Hubbard. ",
+        "description": "Jonathon Brooks was seen working on the side with trainers during practice on Tuesday. ",
+        "title": "Jonathon Brooks working with trainers on side during practice Tuesday ",
+        "topic_id": "1400548621740453888",
+        "url": "https://www.fantasypros.com/nfl/news/605293/jonathon-brooks-working-with-trainers-on-side-during-practice-tuesday.php"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788279321665,
+      "source": "fantasy_pros",
+      "source_key": "605293",
+      "story_id": "nfl|11583|fantasy_pros|605293|1788279321665",
+      "title": "Jonathon Brooks working with trainers on side during practice Tuesday ",
+      "url": "https://www.fantasypros.com/nfl/news/605293/jonathon-brooks-working-with-trainers-on-side-during-practice-tuesday.php"
+    },
+    {
+      "analysis": "Jeanty remains uncertain for Week 1. The fact that he avoided being placed on injured reserve is a positive sign he is expected to miss fewer than four games if he isn't ready to go to begin the season. ",
+      "description": "Ashton Jeanty was not seen practicing on Tuesday. ",
+      "metadata": {
+        "analysis": "Jeanty remains uncertain for Week 1. The fact that he avoided being placed on injured reserve is a positive sign he is expected to miss fewer than four games if he isn't ready to go to begin the season. ",
+        "description": "Ashton Jeanty was not seen practicing on Tuesday. ",
+        "title": "Ashton Jeanty (ankle) not seen practicing Tuesday ",
+        "topic_id": "1400548621673345024",
+        "url": "https://www.fantasypros.com/nfl/news/605294/ashton-jeanty-ankle-not-seen-practicing-tuesday.php"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788279321649,
+      "source": "fantasy_pros",
+      "source_key": "605294",
+      "story_id": "nfl|12527|fantasy_pros|605294|1788279321649",
+      "title": "Ashton Jeanty (ankle) not seen practicing Tuesday ",
+      "url": "https://www.fantasypros.com/nfl/news/605294/ashton-jeanty-ankle-not-seen-practicing-tuesday.php"
+    },
+    {
+      "analysis": "Evans has been absent from practice for much of the past few weeks. He will likely need to log multiple practices early next week to have a good chance of playing in Week 1 against the Rams. ",
+      "description": "49ers GM John Lynch said he hopes Mike Evans will practice next week.",
+      "metadata": {
+        "analysis": "Evans has been absent from practice for much of the past few weeks. He will likely need to log multiple practices early next week to have a good chance of playing in Week 1 against the Rams. ",
+        "description": "49ers GM John Lynch said he hopes Mike Evans will practice next week.",
+        "title": "Mike Evans (adductor) hopeful to return to practice next week",
+        "topic_id": "1400548621589458944",
+        "url": "https://www.fantasypros.com/nfl/news/605295/mike-evans-adductor-hopeful-to-return-to-practice-next-week.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1788279321629,
+      "source": "fantasy_pros",
+      "source_key": "605295",
+      "story_id": "nfl|2216|fantasy_pros|605295|1788279321629",
+      "title": "Mike Evans (adductor) hopeful to return to practice next week",
+      "url": "https://www.fantasypros.com/nfl/news/605295/mike-evans-adductor-hopeful-to-return-to-practice-next-week.php"
+    },
+    {
+      "analysis": "Warren has been working his way back from a minor groin issue. He should be good to go for Week 1 next week. ",
+      "description": "Tyler Warren was able to practice on Tuesday. ",
+      "metadata": {
+        "analysis": "Warren has been working his way back from a minor groin issue. He should be good to go for Week 1 next week. ",
+        "description": "Tyler Warren was able to practice on Tuesday. ",
+        "title": "Tyler Warren (groin) practices Tuesday ",
+        "topic_id": "1400548621509767168",
+        "url": "https://www.fantasypros.com/nfl/news/605296/tyler-warren-groin-practices-tuesday.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "12518",
+      "player_name": "Tyler Warren",
+      "position": "TE",
+      "published": 1788279321611,
+      "source": "fantasy_pros",
+      "source_key": "605296",
+      "story_id": "nfl|12518|fantasy_pros|605296|1788279321611",
+      "title": "Tyler Warren (groin) practices Tuesday ",
+      "url": "https://www.fantasypros.com/nfl/news/605296/tyler-warren-groin-practices-tuesday.php"
+    },
+    {
+      "analysis": "Kittle is making strides in his recovery from an Achilles tear suffered in the playoffs. He went through some team drills Monday, and the fact that he's going to be on the field back-to-back days is especially encouraging. The 49ers are just over a week away from their season-opener in Australia, so it's still a tight timeline for Kittle be up to game speed. His progress in practice this week will paint a clearer picture for whether he will be ready to go when the season starts.",
+      "description": "Kittle (Achilles) participated in practice Monday and plans to do so again Tuesday, David Lombardi of the San Francisco Standard reports.",
+      "metadata": {
+        "analysis": "Kittle is making strides in his recovery from an Achilles tear suffered in the playoffs. He went through some team drills Monday, and the fact that he's going to be on the field back-to-back days is especially encouraging. The 49ers are just over a week away from their season-opener in Australia, so it's still a tight timeline for Kittle be up to game speed. His progress in practice this week will paint a clearer picture for whether he will be ready to go when the season starts.",
+        "description": "Kittle (Achilles) participated in practice Monday and plans to do so again Tuesday, David Lombardi of the San Francisco Standard reports.",
+        "title": "George Kittle - Going through team drills",
+        "topic_id": "1400548614526230528"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788279091000,
+      "source": "rotowire",
+      "source_key": "635825",
+      "story_id": "nfl|4217|rotowire|635825|1788279091000",
+      "title": "George Kittle - Going through team drills",
+      "url": null
+    },
+    {
+      "analysis": "McMillan missed most of training camp with the issue, but there's been optimism about McMillan being available for Week 1 against the Bengals in 12 days. McMillan is expected to fill the third receiver role alongside Emeka Egbuka (toe) and Chris Godwin this season, though rookie Ted Hurst is also likely to see sub-package snaps at the position. McMillan appeared in just four regular-season games last season due to a neck injury. He turned 15 targets into 12 catches for 178 scoreless yards after producing eight touchdowns as a rookie in 2024.",
+      "description": "McMillan (knee) remains sidelined at Tuesday's practice, PewterReport.com reports.",
+      "metadata": {
+        "analysis": "McMillan missed most of training camp with the issue, but there's been optimism about McMillan being available for Week 1 against the Bengals in 12 days. McMillan is expected to fill the third receiver role alongside Emeka Egbuka (toe) and Chris Godwin this season, though rookie Ted Hurst is also likely to see sub-package snaps at the position. McMillan appeared in just four regular-season games last season due to a neck injury. He turned 15 targets into 12 catches for 178 scoreless yards after producing eight touchdowns as a rookie in 2024.",
+        "description": "McMillan (knee) remains sidelined at Tuesday's practice, PewterReport.com reports.",
+        "title": "Jalen McMillan - Remains sidelined at practice",
+        "topic_id": "1400547356411215872"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1788278885000,
+      "source": "rotowire",
+      "source_key": "635824",
+      "story_id": "nfl|11618|rotowire|635824|1788278885000",
+      "title": "Jalen McMillan - Remains sidelined at practice",
+      "url": null
+    },
+    {
+      "analysis": "Dell was placed on injured reserve with a designation for return to begin the season and will be required to miss at least the Texans' first four games. While Dell is sidelined, the likes of Kayshon Boutte, Jaylin Noel and Xavier Hutchinson will vie for snaps behind No. 1 wideout Nico Collins.",
+      "description": "Texans general manager Nick Caserio said Tuesday that Dell (knee) is getting \"closer\" to a return, Aaron Wilson of KPRC 2 Houston reports. \"He's close, he's not quite there,\" Caserio said. \"He's closer than he was during training camp.\"",
+      "metadata": {
+        "analysis": "Dell was placed on injured reserve with a designation for return to begin the season and will be required to miss at least the Texans' first four games. While Dell is sidelined, the likes of Kayshon Boutte, Jaylin Noel and Xavier Hutchinson will vie for snaps behind No. 1 wideout Nico Collins.",
+        "description": "Texans general manager Nick Caserio said Tuesday that Dell (knee) is getting \"closer\" to a return, Aaron Wilson of KPRC 2 Houston reports. \"He's close, he's not quite there,\" Caserio said. \"He's closer than he was during training camp.\"",
+        "title": "Tank Dell - Inching closer to return",
+        "topic_id": "1400547356373467136"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9502",
+      "player_name": "Tank Dell",
+      "position": "WR",
+      "published": 1788278652000,
+      "source": "rotowire",
+      "source_key": "635823",
+      "story_id": "nfl|9502|rotowire|635823|1788278652000",
+      "title": "Tank Dell - Inching closer to return",
+      "url": null
+    },
+    {
+      "analysis": "The veteran has been slowed by an adductor injury over the last week. The team will continue to be cautious with Evans as they prepare for the season opener on September 10  in Australia. That Evans won't practice this week is notable, given the already tight timeline and the upcoming international travel.",
+      "description": "49ers general manager John Lynch said Tuesday the team hopes to have Evans (groin) back at practice next week, David Lombardi of the San Francisco Standard reports.",
+      "metadata": {
+        "analysis": "The veteran has been slowed by an adductor injury over the last week. The team will continue to be cautious with Evans as they prepare for the season opener on September 10  in Australia. That Evans won't practice this week is notable, given the already tight timeline and the upcoming international travel.",
+        "description": "49ers general manager John Lynch said Tuesday the team hopes to have Evans (groin) back at practice next week, David Lombardi of the San Francisco Standard reports.",
+        "title": "Mike Evans - Eyeing practice return next week",
+        "topic_id": "1400547356348301312"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1788278650000,
+      "source": "rotowire",
+      "source_key": "635822",
+      "story_id": "nfl|2216|rotowire|635822|1788278650000",
+      "title": "Mike Evans - Eyeing practice return next week",
+      "url": null
+    },
+    {
+      "analysis": "Hubbard's level of participation in practice will be monitored, but he's on the field with his helmet as the session gets underway. The veteran has been hampered by a hamstring injury sustained in mid-August, but has been progressing well. His participation on Tuesday is a good sign that he's trending in the right direction toward being ready for the start of the season.",
+      "description": "Hubbard (hamstring) returned to practice Tuesday, Joe Person of The Athletic  reports.",
+      "metadata": {
+        "analysis": "Hubbard's level of participation in practice will be monitored, but he's on the field with his helmet as the session gets underway. The veteran has been hampered by a hamstring injury sustained in mid-August, but has been progressing well. His participation on Tuesday is a good sign that he's trending in the right direction toward being ready for the start of the season.",
+        "description": "Hubbard (hamstring) returned to practice Tuesday, Joe Person of The Athletic  reports.",
+        "title": "Chuba Hubbard - Returns to practice Tuesday",
+        "topic_id": "1400544838901841920"
+      },
+      "nfl_team": "CAR",
+      "player_id": "7594",
+      "player_name": "Chuba Hubbard",
+      "position": "RB",
+      "published": 1788278174000,
+      "source": "rotowire",
+      "source_key": "635820",
+      "story_id": "nfl|7594|rotowire|635820|1788278174000",
+      "title": "Chuba Hubbard - Returns to practice Tuesday",
+      "url": null
+    },
+    {
+      "analysis": "The Chiefs had final roster cutdowns Sunday and waived veteran Emari Demercado, clearing a path to a role for Johnson. The rookie out of Nebraska impressed throughout training camp and the preseason. Kansas City also has Brashard Smith on the roster, but Johnson may be the handcuff to target for fantasy managers.",
+      "description": "Johnson is in line to be Kenneth Walker's backup for the Chiefs this season.",
+      "metadata": {
+        "analysis": "The Chiefs had final roster cutdowns Sunday and waived veteran Emari Demercado, clearing a path to a role for Johnson. The rookie out of Nebraska impressed throughout training camp and the preseason. Kansas City also has Brashard Smith on the roster, but Johnson may be the handcuff to target for fantasy managers.",
+        "description": "Johnson is in line to be Kenneth Walker's backup for the Chiefs this season.",
+        "title": "Emmett Johnson - Well-positioned for role",
+        "topic_id": "1400543580086398976"
+      },
+      "nfl_team": "KC",
+      "player_id": "13337",
+      "player_name": "Emmett Johnson",
+      "position": "RB",
+      "published": 1788277865000,
+      "source": "rotowire",
+      "source_key": "635818",
+      "story_id": "nfl|13337|rotowire|635818|1788277865000",
+      "title": "Emmett Johnson - Well-positioned for role",
+      "url": null
+    },
+    {
+      "analysis": "The 53-man roster is set in Indianapolis, and Richardson is in the team's plans for the year despite an offseason that included a trade request from the quarterback. Richardson is set to be Daniel Jones' backup as he enters the final year of his rookie deal.",
+      "description": "Richardson is expected to remain with Indianapolis for the 2026 season, ",
+      "metadata": {
+        "analysis": "The 53-man roster is set in Indianapolis, and Richardson is in the team's plans for the year despite an offseason that included a trade request from the quarterback. Richardson is set to be Daniel Jones' backup as he enters the final year of his rookie deal.",
+        "description": "Richardson is expected to remain with Indianapolis for the 2026 season, ",
+        "title": "Anthony Richardson - Expected to stay with team",
+        "topic_id": "1400539805393141760"
+      },
+      "nfl_team": "IND",
+      "player_id": "9229",
+      "player_name": "Anthony Richardson",
+      "position": "QB",
+      "published": 1788277162000,
+      "source": "rotowire",
+      "source_key": "635817",
+      "story_id": "nfl|9229|rotowire|635817|1788277162000",
+      "title": "Anthony Richardson - Expected to stay with team",
+      "url": null
+    },
+    {
+      "analysis": "Allen will not face discipline from the team following his arrest on DUI charges Sunday. \"We should be good,\" said Ballard when asked about that on Tuesday, and added that \"Good people make mistakes. [Allen] is a tremendous human being...he'll work through the process of the legal system.\" It appears that Allen can now shift his focus to getting up to speed with the team in advance of the season-opener on Sept. 13 against the Ravens.",
+      "description": "Colts general manager Chris Ballard said Tuesday that Allen will play in Week 1 against the Ravens, Jake Arthur of Colts Roundtable reports.",
+      "metadata": {
+        "analysis": "Allen will not face discipline from the team following his arrest on DUI charges Sunday. \"We should be good,\" said Ballard when asked about that on Tuesday, and added that \"Good people make mistakes. [Allen] is a tremendous human being...he'll work through the process of the legal system.\" It appears that Allen can now shift his focus to getting up to speed with the team in advance of the season-opener on Sept. 13 against the Ravens.",
+        "description": "Colts general manager Chris Ballard said Tuesday that Allen will play in Week 1 against the Ravens, Jake Arthur of Colts Roundtable reports.",
+        "title": "Keenan Allen - Will play Week 1, per GM",
+        "topic_id": "1400538547085180928"
+      },
+      "nfl_team": "IND",
+      "player_id": "1479",
+      "player_name": "Keenan Allen",
+      "position": "WR",
+      "published": 1788276623000,
+      "source": "rotowire",
+      "source_key": "635815",
+      "story_id": "nfl|1479|rotowire|635815|1788276623000",
+      "title": "Keenan Allen - Will play Week 1, per GM",
+      "url": null
+    },
     {
       "analysis": "This is a big positive for Croskey-Merritt, who had been working through a lower-body issue late in the preseason. He is now trending in the right direction for Week 1, but official injury reports the week of the game will give final confirmation. If healthy, Croskey-Merritt is in line for a prominent role yet again in the Washington backfield.",
       "description": "Croskey-Merritt (lower body) is dressed for Tuesday's practice, Tashan Reed of The Washington Post reports.",
@@ -44,7 +339,7 @@
       "metadata": {
         "analysis": "The second-year wideout is working through a toe injury that has slowed him since mid-August. Coach Todd Bowles said over the weekend that he was \"hopeful\" Egbuka would be available for Week 1, which is now just under two weeks away. Until Egbuka can return to the practice field, his Week 1 status appears to be in limbo.",
         "description": "Egbuka (toe) is not practicing Tuesday, per Pewter Report.",
-        "title": "Emeka Egbuka - Sits out Tuesday's practice",
+        "title": "Emeka Egbuka - Stting out Tuesday's practice",
         "topic_id": "1400534771754389504"
       },
       "nfl_team": "TB",
@@ -55,7 +350,7 @@
       "source": "rotowire",
       "source_key": "635812",
       "story_id": "nfl|12514|rotowire|635812|1788275916000",
-      "title": "Emeka Egbuka - Sits out Tuesday's practice",
+      "title": "Emeka Egbuka - Stting out Tuesday's practice",
       "url": null
     },
     {
@@ -99,10 +394,10 @@
       "url": null
     },
     {
-      "analysis": "Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back is scheduled to make his first appearance in court Nov. 17 and won't be eligible to practice or play while he remains on the exempt list. While Jacobs remains away from the team, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson as their available backfield options, with Lloyd being the favorite to lead the trio in touches.",
+      "analysis": "Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back is scheduled to make his first appearance in court Nov. 17 and won't be eligible to practice or play while he remains on the exempt list, though head coach Matt LaFleur said Tuesday that Jacobs will be present at the team facility, per Rob Demovsky of ESPN.com. While Jacobs is out, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson as their available backfield options, with Lloyd being the favorite to lead the trio in touches.",
       "description": "General manager Brian Gutekunst said Tuesday that he anticipates Jacobs (groin) playing for the Packers at some point in 2026, Matt Schneidman of The Athletic reports.",
       "metadata": {
-        "analysis": "Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back is scheduled to make his first appearance in court Nov. 17 and won't be eligible to practice or play while he remains on the exempt list. While Jacobs remains away from the team, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson as their available backfield options, with Lloyd being the favorite to lead the trio in touches.",
+        "analysis": "Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back is scheduled to make his first appearance in court Nov. 17 and won't be eligible to practice or play while he remains on the exempt list, though head coach Matt LaFleur said Tuesday that Jacobs will be present at the team facility, per Rob Demovsky of ESPN.com. While Jacobs is out, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson as their available backfield options, with Lloyd being the favorite to lead the trio in touches.",
         "description": "General manager Brian Gutekunst said Tuesday that he anticipates Jacobs (groin) playing for the Packers at some point in 2026, Matt Schneidman of The Athletic reports.",
         "title": "Josh Jacobs - GM expects him to play in 2026",
         "topic_id": "1400524704241995776"
@@ -180,6 +475,26 @@
     },
     {
       "analysis": null,
+      "description": "Tampa Bay Buccaneers general manager Jason Licht said there are no immediate plans to restart contract talks with quarterback Baker Mayfield, according to Rick Stroud of the Tampa Bay Times. Mayfield set the start of training camp as his deadline for negotiations, and nothing came together before then. He is now heading into the last year of the three-year, $100 million deal he signed with Tampa Bay in 2024. Mayfield started all 17 games last season, throwing for 3,693 yards with 26 touchdowns and 11 interceptions. He also ran for 382 yards and another score. There isn't much here that changes his 2026 fantasy outlook. Mayfield is Tampa Bay's unquestioned starter, and the contract situation is more of a concern for what happens after the season. For now, the Bucs appear content to play things out before deciding what comes next.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers general manager Jason Licht said there are no immediate plans to restart contract talks with quarterback Baker Mayfield, according to Rick Stroud of the Tampa Bay Times. Mayfield set the start of training camp as his deadline for negotiations, and nothing came together before then. He is now heading into the last year of the three-year, $100 million deal he signed with Tampa Bay in 2024. Mayfield started all 17 games last season, throwing for 3,693 yards with 26 touchdowns and 11 interceptions. He also ran for 382 yards and another score. There isn't much here that changes his 2026 fantasy outlook. Mayfield is Tampa Bay's unquestioned starter, and the contract situation is more of a concern for what happens after the season. For now, the Bucs appear content to play things out before deciding what comes next.",
+        "title": "Baker Mayfield Extension Talks Still on Hold",
+        "topic_id": "1400541061775892480",
+        "url": "https://www.rotoballer.com/player-news/baker-mayfield-extension-talks-still-on-hold/1921193"
+      },
+      "nfl_team": "TB",
+      "player_id": "4892",
+      "player_name": "Baker Mayfield",
+      "position": "QB",
+      "published": 1788262632000,
+      "source": "rotoballer",
+      "source_key": "219861",
+      "story_id": "nfl|4892|rotoballer|219861|1788262632000",
+      "title": "Baker Mayfield Extension Talks Still on Hold",
+      "url": "https://www.rotoballer.com/player-news/baker-mayfield-extension-talks-still-on-hold/1921193"
+    },
+    {
+      "analysis": null,
       "description": "Green Bay Packers running back Josh Jacobs is still expected to play this season despite his uncertain status. General manager Brian Gutekunst told reporters Tuesday that he is hopeful Jacobs will return and expects him to play for Green Bay at some point, according to Matt Schneidman. Gutekunst was also asked whether there is a scenario in which the Packers release Jacobs, but said the team wants to let the process play out before making that kind of decision. Jacobs remains on the NFL's Commissioner's Exempt List after being charged with misdemeanor battery and misdemeanor criminal damage to property stemming from a May incident. He cannot practice or play while on the list, and there is still no timetable for his return. Green Bay has since added Kaleb Johnson to a backfield that also includes MarShawn Lloyd and Chris Brooks. Gutekunst's comments are encouraging for Jacobs' season-long outlook, but his availability remains completely up in the air.",
       "metadata": {
         "description": "Green Bay Packers running back Josh Jacobs is still expected to play this season despite his uncertain status. General manager Brian Gutekunst told reporters Tuesday that he is hopeful Jacobs will return and expects him to play for Green Bay at some point, according to Matt Schneidman. Gutekunst was also asked whether there is a scenario in which the Packers release Jacobs, but said the team wants to let the process play out before making that kind of decision. Jacobs remains on the NFL's Commissioner's Exempt List after being charged with misdemeanor battery and misdemeanor criminal damage to property stemming from a May incident. He cannot practice or play while on the list, and there is still no timetable for his return. Green Bay has since added Kaleb Johnson to a backfield that also includes MarShawn Lloyd and Chris Brooks. Gutekunst's comments are encouraging for Jacobs' season-long outlook, but his availability remains completely up in the air.",
@@ -243,7 +558,7 @@
       "description": "Jacksonville Jaguars wide receiver Parker Washington looks like he has real potential this season as a mid-to-late-round draft target. Washington closed the season last year with two 100+ yard receiving games in Weeks 16 and 17. He also had four receiving touchdowns from Week 10 though the end of the season. He finished the season with 58 catches for 847 yards and five touchdowns. The Jaguars offense under Liam Coen has the potential to be very good with Trevor Lawrence at quarterback and Brian Thomas Jr. and Jakobi Meyers also at receiver. Washington, out of Penn State in college, should line up regularly in the slot and be a dynamic receiver in that role. He broke through in a big way late last season and should see that continue this season.",
       "metadata": {
         "description": "Jacksonville Jaguars wide receiver Parker Washington looks like he has real potential this season as a mid-to-late-round draft target. Washington closed the season last year with two 100+ yard receiving games in Weeks 16 and 17. He also had four receiving touchdowns from Week 10 though the end of the season. He finished the season with 58 catches for 847 yards and five touchdowns. The Jaguars offense under Liam Coen has the potential to be very good with Trevor Lawrence at quarterback and Brian Thomas Jr. and Jakobi Meyers also at receiver. Washington, out of Penn State in college, should line up regularly in the slot and be a dynamic receiver in that role. He broke through in a big way late last season and should see that continue this season.",
-        "title": "Parker Washington Has Big Time Potential As Slot Receiver",
+        "title": "Parker Washington Has Big-Time Potential As Slot Receiver",
         "topic_id": "1400522186048942080",
         "url": "https://www.rotoballer.com/player-news/parker-washington-has-big-time-potential-as-slot-receiver/1921148"
       },
@@ -255,7 +570,7 @@
       "source": "rotoballer",
       "source_key": "219856",
       "story_id": "nfl|9487|rotoballer|219856|1788258487000",
-      "title": "Parker Washington Has Big Time Potential As Slot Receiver",
+      "title": "Parker Washington Has Big-Time Potential As Slot Receiver",
       "url": "https://www.rotoballer.com/player-news/parker-washington-has-big-time-potential-as-slot-receiver/1921148"
     },
     {
@@ -320,9 +635,9 @@
     },
     {
       "analysis": null,
-      "description": "Tampa Bay Buccaneers wide receivers Emeka Egbuka (toe) and Jalen McMillan (knee) are both still dealing with injuries that they picked up this preseason, but there is optimism from the team that both will be ready to play in Week 1, according to NFL Network's Sara Walsh. McMillan is back to running routes after missing a couple of weeks with a knee injury, while Egbuka is recovering from a sprained toe that he suffered in a joint practice with the Jets a few weeks ago. Egbuka had a breakout rookie season, and both he and McMillan bring lots of fantasy upside this year, following the departure of target-magnet Mike Evans. With plenty of work up for grabs in Baker Mayfield's offense, Egbuka has WR1 upside if he's healthy, while McMillan could be a strong late-round sleeper if he secures regular playing time.",
+      "description": "Tampa Bay Buccaneers wide receivers Emeka Egbuka (toe) and Jalen McMillan (knee) are both still dealing with injuries that they picked up this preseason, but there is optimism from the team that both will be ready to play in Week 1, according to NFL Network's Sara Walsh. McMillan is back to running routes after missing a couple of weeks with a knee injury, while Egbuka is recovering from a sprained toe that he suffered in a joint practice with the Jets a few weeks ago. Egbuka had a breakout rookie season, and both he and McMillan bring lots of fantasy upside this year, following the departure of target-magnet Mike Evans. With plenty of work up for grabs in Baker Mayfield's offense, Egbuka has WR1 upside if he's healthy, while McMillan could be a strong late-round sleeper if he secures regular playing time. UPDATE: Egbuka did not practice on Tuesday, per Pewter Report.",
       "metadata": {
-        "description": "Tampa Bay Buccaneers wide receivers Emeka Egbuka (toe) and Jalen McMillan (knee) are both still dealing with injuries that they picked up this preseason, but there is optimism from the team that both will be ready to play in Week 1, according to NFL Network's Sara Walsh. McMillan is back to running routes after missing a couple of weeks with a knee injury, while Egbuka is recovering from a sprained toe that he suffered in a joint practice with the Jets a few weeks ago. Egbuka had a breakout rookie season, and both he and McMillan bring lots of fantasy upside this year, following the departure of target-magnet Mike Evans. With plenty of work up for grabs in Baker Mayfield's offense, Egbuka has WR1 upside if he's healthy, while McMillan could be a strong late-round sleeper if he secures regular playing time.",
+        "description": "Tampa Bay Buccaneers wide receivers Emeka Egbuka (toe) and Jalen McMillan (knee) are both still dealing with injuries that they picked up this preseason, but there is optimism from the team that both will be ready to play in Week 1, according to NFL Network's Sara Walsh. McMillan is back to running routes after missing a couple of weeks with a knee injury, while Egbuka is recovering from a sprained toe that he suffered in a joint practice with the Jets a few weeks ago. Egbuka had a breakout rookie season, and both he and McMillan bring lots of fantasy upside this year, following the departure of target-magnet Mike Evans. With plenty of work up for grabs in Baker Mayfield's offense, Egbuka has WR1 upside if he's healthy, while McMillan could be a strong late-round sleeper if he secures regular playing time. UPDATE: Egbuka did not practice on Tuesday, per Pewter Report.",
         "title": "Emeka Egbuka Could Play in Week 1",
         "topic_id": "1400509601090138112",
         "url": "https://www.rotoballer.com/player-news/emeka-egbuka-and-jalen-mcmillan-could-play-in-week-1/1921116"
