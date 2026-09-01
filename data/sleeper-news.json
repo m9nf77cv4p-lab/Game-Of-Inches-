@@ -1,9 +1,13 @@
 {
-  "last_checked_at": "2026-09-01T17:42:30Z",
+  "last_checked_at": "2026-09-01T18:06:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11583|rotowire|635835|1788283640000"
+    "nfl|3198|rotowire|635837|1788285131000",
+    "nfl|6801|rotowire|635839|1788285470000",
+    "nfl|7564|rotowire|635836|1788285036000",
+    "nfl|7588|rotowire|635838|1788285174000",
+    "nfl|8142|rotowire|635840|1788285659000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +17,106 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Pierce was back on the practice field Tuesday, but it's unclear if he's truly been unleashed for full team drills as he makes his way back from offseason ankle surgery. He missed most of training camp and didn't see any preseason action, but the Colts are remaining optimistic their No. 1 receiver will be out there in 12 days against Baltimore. Indy has issues all over its offense, with Pierce, Josh Downs (calf) and Tyler Warren (groin) all dealing with ailments while Keenan Allen is 34 years old and just signed with the team two weeks ago.",
+      "description": "Colts GM Chris Ballard said Tuesday the \"hope\" is Pierce (ankle) will play Week 1 against the Ravens.",
+      "metadata": {
+        "analysis": "Pierce was back on the practice field Tuesday, but it's unclear if he's truly been unleashed for full team drills as he makes his way back from offseason ankle surgery. He missed most of training camp and didn't see any preseason action, but the Colts are remaining optimistic their No. 1 receiver will be out there in 12 days against Baltimore. Indy has issues all over its offense, with Pierce, Josh Downs (calf) and Tyler Warren (groin) all dealing with ailments while Keenan Allen is 34 years old and just signed with the team two weeks ago.",
+        "description": "Colts GM Chris Ballard said Tuesday the \"hope\" is Pierce (ankle) will play Week 1 against the Ravens.",
+        "title": "Alec Pierce - Hopeful for Week 1",
+        "topic_id": "1400576299797352448"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1788285659000,
+      "source": "rotowire",
+      "source_key": "635840",
+      "story_id": "nfl|8142|rotowire|635840|1788285659000",
+      "title": "Alec Pierce - Hopeful for Week 1",
+      "url": null
+    },
+    {
+      "analysis": "With position mate Ja'Marr Chase currently recovering from a left knee injury that he suffered in practice last Tuesday, the top of the Bengals' receiving corps now is banged up. Fortunately for Higgins, he doesn't appear to have a serious injury, just one that he'll have to manage with a season-opening matchup with the Buccaneers on the horizon on Sunday, Sept. 13.",
+      "description": "Higgins is tending to a heel contusion, but coach Zac Taylor said Tuesday that it isn't considered to be a major concern ahead of Week 1, Ben Baby of ESPN.com reports.",
+      "metadata": {
+        "analysis": "With position mate Ja'Marr Chase currently recovering from a left knee injury that he suffered in practice last Tuesday, the top of the Bengals' receiving corps now is banged up. Fortunately for Higgins, he doesn't appear to have a serious injury, just one that he'll have to manage with a season-opening matchup with the Buccaneers on the horizon on Sunday, Sept. 13.",
+        "description": "Higgins is tending to a heel contusion, but coach Zac Taylor said Tuesday that it isn't considered to be a major concern ahead of Week 1, Ben Baby of ESPN.com reports.",
+        "title": "Tee Higgins - Dealing with heel injury",
+        "topic_id": "1400575041363509248"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6801",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "published": 1788285470000,
+      "source": "rotowire",
+      "source_key": "635839",
+      "story_id": "nfl|6801|rotowire|635839|1788285470000",
+      "title": "Tee Higgins - Dealing with heel injury",
+      "url": null
+    },
+    {
+      "analysis": "Dallas cut all three of Jaydon Blue, Phil Mafah and Israel Abanikanda as the roster was trimmed to 53 players over the weekend. Additionally, Williams didn't see any preseason action, suggesting the Cowboys are more than comfortable with his standing as the team's clear RB1. With Blue, Mafah and Abanikanda off the roster, the Cowboys are set to head into the regular season with Malik Davis and waiver pickup Emari Demercado as Williams' backups. Williams isn't a sexy pick in the third round of fantasy drafts, but he should be able to return that price with ease if he's seeing 18-22 opportunities per game like he did last season.",
+      "description": "Williams appears to be locked in atop the backfield depth chart after the Cowboys waived several running backs over the weekend, Todd Archer of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Dallas cut all three of Jaydon Blue, Phil Mafah and Israel Abanikanda as the roster was trimmed to 53 players over the weekend. Additionally, Williams didn't see any preseason action, suggesting the Cowboys are more than comfortable with his standing as the team's clear RB1. With Blue, Mafah and Abanikanda off the roster, the Cowboys are set to head into the regular season with Malik Davis and waiver pickup Emari Demercado as Williams' backups. Williams isn't a sexy pick in the third round of fantasy drafts, but he should be able to return that price with ease if he's seeing 18-22 opportunities per game like he did last season.",
+        "description": "Williams appears to be locked in atop the backfield depth chart after the Cowboys waived several running backs over the weekend, Todd Archer of ESPN.com reports.",
+        "title": "Javonte Williams - Locked atop depth chart after cuts",
+        "topic_id": "1400573783537917952"
+      },
+      "nfl_team": "DAL",
+      "player_id": "7588",
+      "player_name": "Javonte Williams",
+      "position": "RB",
+      "published": 1788285174000,
+      "source": "rotowire",
+      "source_key": "635838",
+      "story_id": "nfl|7588|rotowire|635838|1788285174000",
+      "title": "Javonte Williams - Locked atop depth chart after cuts",
+      "url": null
+    },
+    {
+      "analysis": "Though Keaton Mitchell is now with the Chargers after the Ravens non-tendered him back in the spring, Henry will be supported by a pair of familiar complements in Hill and Ali, both of whom were on the roster during Henry's first two seasons in Baltimore. Ali is expected to serve as the Ravens' primary kickoff returner and will see most of his snaps on special teams, while Hill returns to a familiar role as the top change-of-pace/pass-catching option in the backfield. Rookie fifth-round pick Adam Randall (undisclosed) could also factor into the equation at some point this season, though not until at least Week 5 after the Ravens placed him on injured reserve with a designation to return. The makeup of the Ravens backfield once again points to the 32-year-old Henry handling a workhorse role in 2026, after he averaged 19.6 touches and exactly one touchdown per game over the prior two seasons.",
+      "description": "Henry will head the Ravens' Week 1 game against the Colts with Justice Hill and Rasheen Ali as his lone backup options, Ryan Mink of the team's official site reports.",
+      "metadata": {
+        "analysis": "Though Keaton Mitchell is now with the Chargers after the Ravens non-tendered him back in the spring, Henry will be supported by a pair of familiar complements in Hill and Ali, both of whom were on the roster during Henry's first two seasons in Baltimore. Ali is expected to serve as the Ravens' primary kickoff returner and will see most of his snaps on special teams, while Hill returns to a familiar role as the top change-of-pace/pass-catching option in the backfield. Rookie fifth-round pick Adam Randall (undisclosed) could also factor into the equation at some point this season, though not until at least Week 5 after the Ravens placed him on injured reserve with a designation to return. The makeup of the Ravens backfield once again points to the 32-year-old Henry handling a workhorse role in 2026, after he averaged 19.6 touches and exactly one touchdown per game over the prior two seasons.",
+        "description": "Henry will head the Ravens' Week 1 game against the Colts with Justice Hill and Rasheen Ali as his lone backup options, Ryan Mink of the team's official site reports.",
+        "title": "Derrick Henry - Joined by familiar complements in backfield",
+        "topic_id": "1400573783466614784"
+      },
+      "nfl_team": "BAL",
+      "player_id": "3198",
+      "player_name": "Derrick Henry",
+      "position": "RB",
+      "published": 1788285131000,
+      "source": "rotowire",
+      "source_key": "635837",
+      "story_id": "nfl|3198|rotowire|635837|1788285131000",
+      "title": "Derrick Henry - Joined by familiar complements in backfield",
+      "url": null
+    },
+    {
+      "analysis": "Chase injured his left knee at last Tuesday's session when he attempted to catch a deep ball and had an awkward landing. He exhibited a visible limp in the aftermath, but he later told Kelsey Conway of The Cincinnati Enquirer that it was a \"little hyperextension,\" and he could have resumed practicing. Now that he's set to get back on the practice field after a week off of it, Chase will attempt to put the issue behind him ahead of a Week 1 matchup with the Buccaneers on Sunday, Sept. 13.",
+      "description": "Coach Zac Taylor said Tuesday that Chase (knee) will be a limited participant in practice this week, and he \"feels good about\" where the wide receiver stands, Ben Baby of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Chase injured his left knee at last Tuesday's session when he attempted to catch a deep ball and had an awkward landing. He exhibited a visible limp in the aftermath, but he later told Kelsey Conway of The Cincinnati Enquirer that it was a \"little hyperextension,\" and he could have resumed practicing. Now that he's set to get back on the practice field after a week off of it, Chase will attempt to put the issue behind him ahead of a Week 1 matchup with the Buccaneers on Sunday, Sept. 13.",
+        "description": "Coach Zac Taylor said Tuesday that Chase (knee) will be a limited participant in practice this week, and he \"feels good about\" where the wide receiver stands, Ben Baby of ESPN.com reports.",
+        "title": "Ja'Marr Chase - To be limited this week",
+        "topic_id": "1400573783466614785"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1788285036000,
+      "source": "rotowire",
+      "source_key": "635836",
+      "story_id": "nfl|7564|rotowire|635836|1788285036000",
+      "title": "Ja'Marr Chase - To be limited this week",
+      "url": null
+    },
     {
       "analysis": "It doesn't sound like anything serious for the 23-year-old running back after he played 20 offensive snaps during the preseason, rushing eight times for 23 yards and one touchdown. He also caught one pass for nine yards. Brooks is expected to form a committee with Chuba Hubbard (hamstring) this season, but there's a chance Brooks can separate some from Hubbard if he can show he's past the knee issues that ruined his 2024 and 2025 seasons after the Panthers selected Brooks in the second round of the 2024 Draft. Brooks is an upside pick in fantasy drafts.",
       "description": "Coach Dave Canales said Brooks missed practice Tuesday due to general soreness, Sheena Quick of Fox Sports Radio 1340 reports.",
