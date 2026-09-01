@@ -2,16 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1518**
-- Newly captured: **3**
+- Stored stories: **1519**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Daniel Jones** — Daniel Jones - Impresses in training camp (2026-09-01T16:32:04Z)
+- **NEW — Lamar Jackson** — Lamar Jackson - Explains lack of rushing in 2025 (2026-09-01T16:50:54Z)
+  - Hamstring and back injuries forced Jackson to miss four games last season and sapped his rushing ability even when he was active.  This led to Jackson posting career lows in rushing attempts (67) and yards (349). Jackson is now fully healthy going into 2026, his first season operating Declan Doyle's offense. The Ravens open the season on the road in Indianapolis on Sept. 13.
+- **Daniel Jones** — Daniel Jones - Impresses in training camp (2026-09-01T16:32:04Z)
   - Jones has put last season's Achilles injury behind him and turned in a strong training camp as he gets ready for 2026. Despite not having a full complement of weapons at his disposal given absences from Josh Downs, Alec Pierce and Tyler Warren at different parts of camp, Jones still impressed. The Colts open their season Sept. 13 at home against Baltimore.
-- **NEW — Jalen Hurts** — Jalen Hurts - Excited about new offense (2026-09-01T16:26:57Z)
+- **Jalen Hurts** — Jalen Hurts - Excited about new offense (2026-09-01T16:26:57Z)
   - "I think Jalen's adjusted really well to the new offense," Roseman said. "Now again, we're at a moment in time, we haven't played a game. This isn't in reference to Jalen; this is in reference to anything else. I think that a lot of the things that we'll do during the regular season when we have game plans, I think from an offensive perspective, they're going to be different than what we've done in the past. Jalen's embraced it. He's excited about it and obviously we've got to be better than we were last year." Hurts struggled with interceptions a bit over the summer during training camp and didn't see any action during the preseason, so Week 1 against the Commanders will be the first game action under new OC Sean Mannion. The 28-year-old Hurts is expected to once again be in the mix as a top-five fantasy quarterback after setting a new career high with 25 touchdown passes last regular season to go along with a career-best 1.3 percent interception rate. His rushing numbers fell off some, as he punched in just eight touchdown on the ground after averaging 14 over the previous three seasons.
-- **NEW — Hunter Henry** — Hunter Henry - Key part of offense in 2026 (2026-09-01T16:22:11Z)
+- **Hunter Henry** — Hunter Henry - Key part of offense in 2026 (2026-09-01T16:22:11Z)
   - The Patriots made several splash moves this offseason, including the additions of A.J. Brown and Romeo Doubs, that have garnered most of the headlines. Henry, though, is going to be a staple. The veteran has caught 60-or-more passes from Drake Maye in each of the last two seasons. Daniels notes that Henry is particularly crucial due to the lack of experienced options behind him on the depth chart. Rookie Eli Raridon and journeyman Cameron Latu are the next two options for the Patriots at tight end.
 - **Alec Pierce** — Alec Pierce (ankle) practices Tuesday  (2026-09-01T16:20:21.086000Z)
   - Pierce missed most of training camp while recovering from offseason ankle surgery. He appears to be on track to be good to go for Week 1, though it is unclear if he will be limited in any way. 
@@ -220,5 +222,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-primed-for-early-season-workload/1920419
 - **Jalen Coker** — Jalen Coker has Prime Path to 2026 Breakout (2026-08-31T12:17:07Z)
   - Source: https://www.rotoballer.com/player-news/jalen-coker-has-prime-path-to-2026-breakout/1920415
-- **Carnell Tate** — Carnell Tate Gains Steam Despite Quiet Preseason (2026-08-31T11:59:13Z)
-  - Source: https://www.rotoballer.com/player-news/carnell-tate-gains-steam-despite-quiet-preseason/1920405
