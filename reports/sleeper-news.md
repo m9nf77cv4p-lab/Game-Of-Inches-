@@ -2,14 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1475**
-- Newly captured: **0**
+- Stored stories: **1478**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Jonathon Brooks** — Jonathon Brooks Has a Chance to Take Over the Panthers' Backfield (2026-09-01T00:19:08Z)
+  - Source: https://www.rotoballer.com/player-news/jonathon-brooks-has-a-chance-to-take-over-the-panthers-backfield/1920934
 - **Jaydon Blue** — Jaydon Blue signs with Eagles practice squad  (2026-09-01T00:15:14.084000Z)
   - Blue went unclaimed on waivers after he was waived by Dallas. He'll add depth in the Eagles backfield. 
   - Source: https://www.fantasypros.com/nfl/news/605162/jaydon-blue-signs-with-eagles-practice-squad.php
+- **NEW — Terry McLaurin** — Terry McLaurin Has Clear Top-10 Upside if Injury Bug Stays Away (2026-09-01T00:14:10Z)
+  - Source: https://www.rotoballer.com/player-news/terry-mclaurin-has-clear-top-10-upside-if-injury-bug-stays-away/1920932
+- **NEW — Jaylen Waddle** — Quarterback Upgrade Could be the Key to Jaylen Waddle's Success (2026-09-01T00:09:08Z)
+  - Source: https://www.rotoballer.com/player-news/quarterback-upgrade-could-be-the-key-to-jaylen-waddles-success/1920929
 - **Jaydon Blue** — Jaydon Blue - Heading to Philly (2026-09-01T00:04:10Z)
   - A fifth-round pick of the Cowboys in 2025, Blue got some run as a rookie to the tune of 38 carries for 129 yards (3.4 YPC) and one touchdown in five regular-season appearances. Following the 2026 preseason, though, Dallas opted to waive him Sunday and then didn't included him among the team's practice-squad signings Monday. Blue thus will move on to an NFC East foe, where he'll be a candidate for elevation if any of Saquon Barkley, Tank Bigsby or Will Shipley need time on the sideline.
 - **Puka Nacua** — Puka Nacua - Working off to side Monday (2026-08-31T23:52:35Z)
@@ -214,10 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tank-dell-officially-starting-the-season-on-injured-reserve/1920034
 - **Zach Charbonnet** — Zach Charbonnet Lands on PUP List to Open the Season (2026-08-30T20:05:09Z)
   - Source: https://www.rotoballer.com/player-news/zach-charbonnet-lands-on-pup-list-to-open-the-season/1920024
-- **Ashton Jeanty** — Ashton Jeanty Avoids Stint on Injured Reserve (2026-08-30T20:00:12Z)
-  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-avoids-stint-on-injured-reserve/1920017
-- **James Conner** — James Conner to Begin the Season on Injured Reserve (2026-08-30T19:52:12Z)
-  - Source: https://www.rotoballer.com/player-news/james-conner-to-begin-the-season-on-injured-reserve/1920010
-- **Jaydon Blue** — Jaydon Blue waived by the Dallas Cowboys (2026-08-30T19:50:58.595000Z)
-  - Blue had trouble finding a role last year, a lot of which came due to character and work ethic concerns. While that seems to have changed heading into this season, it wasn't enough for him to avoid roster cuts. Dallas will now have Malik Davis as the primary backup behind Javonte Williams, with Phil Mafah and Hunter Luepke mixing in.
-  - Source: https://www.fantasypros.com/nfl/news/604887/jaydon-blue-waived-by-dallas-cowboys.php

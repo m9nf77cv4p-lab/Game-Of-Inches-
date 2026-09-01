@@ -1,8 +1,12 @@
 {
-  "last_checked_at": "2026-09-01T02:57:29Z",
+  "last_checked_at": "2026-09-01T04:28:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 279,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11583|rotoballer|219846|1788221948000",
+    "nfl|5927|rotoballer|219845|1788221650000",
+    "nfl|7526|rotoballer|219844|1788221348000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Carolina Panthers running back Jonathon Brooks is trending up once again. After knee injuries limited him to just five games through his first two seasons, he's now fully healthy and ready to occupy a big role on offense. There may be a little re-acclimation period as he gets used to his first NFL action since 2024, but there's also a glaring opportunity for him to step into a 1B role alongside Chuba Hubbard. Furthermore, we can't rule out the possibility of him completely taking over the backfield and leaving Hubbard in a backup role. This wouldn't be new territory for Hubbard, who sort of lost his job to Rico Dowdle last year. Brooks is incredibly talented, and if he can stay healthy, he could return to the high-end RB2 upside that he possessed prior to his rookie season. This is a low-risk move for managers, as Brooks still has a relatively modest ADP of 83.6.",
+      "metadata": {
+        "description": "Carolina Panthers running back Jonathon Brooks is trending up once again. After knee injuries limited him to just five games through his first two seasons, he's now fully healthy and ready to occupy a big role on offense. There may be a little re-acclimation period as he gets used to his first NFL action since 2024, but there's also a glaring opportunity for him to step into a 1B role alongside Chuba Hubbard. Furthermore, we can't rule out the possibility of him completely taking over the backfield and leaving Hubbard in a backup role. This wouldn't be new territory for Hubbard, who sort of lost his job to Rico Dowdle last year. Brooks is incredibly talented, and if he can stay healthy, he could return to the high-end RB2 upside that he possessed prior to his rookie season. This is a low-risk move for managers, as Brooks still has a relatively modest ADP of 83.6.",
+        "title": "Jonathon Brooks Has a Chance to Take Over the Panthers' Backfield",
+        "topic_id": "1400369913343770624",
+        "url": "https://www.rotoballer.com/player-news/jonathon-brooks-has-a-chance-to-take-over-the-panthers-backfield/1920934"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788221948000,
+      "source": "rotoballer",
+      "source_key": "219846",
+      "story_id": "nfl|11583|rotoballer|219846|1788221948000",
+      "title": "Jonathon Brooks Has a Chance to Take Over the Panthers' Backfield",
+      "url": "https://www.rotoballer.com/player-news/jonathon-brooks-has-a-chance-to-take-over-the-panthers-backfield/1920934"
+    },
     {
       "analysis": "Blue went unclaimed on waivers after he was waived by Dallas. He'll add depth in the Eagles backfield. ",
       "description": "Jaydon Blue is signing with the Eagles practice squad. ",
@@ -31,6 +55,46 @@
       "story_id": "nfl|12457|fantasy_pros|605162|1788221714084",
       "title": "Jaydon Blue signs with Eagles practice squad ",
       "url": "https://www.fantasypros.com/nfl/news/605162/jaydon-blue-signs-with-eagles-practice-squad.php"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders wide receiver Terry McLaurin possesses the talent needed to be a top-10 receiver in fantasy football, and he's looking to shake off an ugly 2025 season marred by injuries. McLaurin caught 38 passes for 582 yards and three touchdowns across 10 games last year. He missed seven contests and quarterback Jayden Daniels missed 10 contests; they were on the field together for just three games. If both can stay healthy for most of the 2026 season, McLaurin should have no trouble re-establishing himself as a top-18 fantasy receiver, and perhaps even getting back to the WR1 range. Washington did sign Stefon Diggs in free agency, but McLaurin is clearly the No. 1 receiver here. In fact, Diggs' presence may actually help McLaurin by luring away cornerbacks, or at least reducing the rate at which McLaurin sees double coverage. We're very excited about the upside of McLaurin, who is somewhat of a steal at his current ADP of 53.0.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Terry McLaurin possesses the talent needed to be a top-10 receiver in fantasy football, and he's looking to shake off an ugly 2025 season marred by injuries. McLaurin caught 38 passes for 582 yards and three touchdowns across 10 games last year. He missed seven contests and quarterback Jayden Daniels missed 10 contests; they were on the field together for just three games. If both can stay healthy for most of the 2026 season, McLaurin should have no trouble re-establishing himself as a top-18 fantasy receiver, and perhaps even getting back to the WR1 range. Washington did sign Stefon Diggs in free agency, but McLaurin is clearly the No. 1 receiver here. In fact, Diggs' presence may actually help McLaurin by luring away cornerbacks, or at least reducing the rate at which McLaurin sees double coverage. We're very excited about the upside of McLaurin, who is somewhat of a steal at his current ADP of 53.0.",
+        "title": "Terry McLaurin Has Clear Top-10 Upside if Injury Bug Stays Away",
+        "topic_id": "1400368654423437312",
+        "url": "https://www.rotoballer.com/player-news/terry-mclaurin-has-clear-top-10-upside-if-injury-bug-stays-away/1920932"
+      },
+      "nfl_team": "WAS",
+      "player_id": "5927",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
+      "published": 1788221650000,
+      "source": "rotoballer",
+      "source_key": "219845",
+      "story_id": "nfl|5927|rotoballer|219845|1788221650000",
+      "title": "Terry McLaurin Has Clear Top-10 Upside if Injury Bug Stays Away",
+      "url": "https://www.rotoballer.com/player-news/terry-mclaurin-has-clear-top-10-upside-if-injury-bug-stays-away/1920932"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Jaylen Waddle is set to enjoy an enormous quarterback upgrade following his offseason trade from the Dolphins to the Broncos. Waddle held his own in Miami despite abysmal quarterback play, ranking as the overall WR24 with Tua Tagovailoa and Quinn Ewers throwing to him last year. Now, he'll be catching Bo Nix, and he arguably finds himself in the best situation of his six-year career. Will he finish higher than WR8 and post the best fantasy finish of his career? Not necessarily. However, the pieces are in place for Waddle, who has shown that he can handle the No. 1 receiver role, to thrive. Staying on the field will also be key for the 27-year-old, who has finished as WR24 or higher in each of the three years he played 16+ games, but WR34 or lower in each of the two years he missed at least two games. Waddle is certainly trending up, and he now ranks as the overall WR19 in RotoBaller's latest redraft rankings for 2026.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Jaylen Waddle is set to enjoy an enormous quarterback upgrade following his offseason trade from the Dolphins to the Broncos. Waddle held his own in Miami despite abysmal quarterback play, ranking as the overall WR24 with Tua Tagovailoa and Quinn Ewers throwing to him last year. Now, he'll be catching Bo Nix, and he arguably finds himself in the best situation of his six-year career. Will he finish higher than WR8 and post the best fantasy finish of his career? Not necessarily. However, the pieces are in place for Waddle, who has shown that he can handle the No. 1 receiver role, to thrive. Staying on the field will also be key for the 27-year-old, who has finished as WR24 or higher in each of the three years he played 16+ games, but WR34 or lower in each of the two years he missed at least two games. Waddle is certainly trending up, and he now ranks as the overall WR19 in RotoBaller's latest redraft rankings for 2026.",
+        "title": "Quarterback Upgrade Could be the Key to Jaylen Waddle's Success",
+        "topic_id": "1400367396081893376",
+        "url": "https://www.rotoballer.com/player-news/quarterback-upgrade-could-be-the-key-to-jaylen-waddles-success/1920929"
+      },
+      "nfl_team": "DEN",
+      "player_id": "7526",
+      "player_name": "Jaylen Waddle",
+      "position": "WR",
+      "published": 1788221348000,
+      "source": "rotoballer",
+      "source_key": "219844",
+      "story_id": "nfl|7526|rotoballer|219844|1788221348000",
+      "title": "Quarterback Upgrade Could be the Key to Jaylen Waddle's Success",
+      "url": "https://www.rotoballer.com/player-news/quarterback-upgrade-could-be-the-key-to-jaylen-waddles-success/1920929"
     },
     {
       "analysis": "A fifth-round pick of the Cowboys in 2025, Blue got some run as a rookie to the tune of 38 carries for 129 yards (3.4 YPC) and one touchdown in five regular-season appearances. Following the 2026 preseason, though, Dallas opted to waive him Sunday and then didn't included him among the team's practice-squad signings Monday. Blue thus will move on to an NFC East foe, where he'll be a candidate for elevation if any of Saquon Barkley, Tank Bigsby or Will Shipley need time on the sideline.",
