@@ -2,44 +2,50 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1515**
-- Newly captured: **15**
+- Stored stories: **1518**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Alec Pierce** — Alec Pierce (ankle) practices Tuesday  (2026-09-01T16:20:21.086000Z)
+- **NEW — Daniel Jones** — Daniel Jones - Impresses in training camp (2026-09-01T16:32:04Z)
+  - Jones has put last season's Achilles injury behind him and turned in a strong training camp as he gets ready for 2026. Despite not having a full complement of weapons at his disposal given absences from Josh Downs, Alec Pierce and Tyler Warren at different parts of camp, Jones still impressed. The Colts open their season Sept. 13 at home against Baltimore.
+- **NEW — Jalen Hurts** — Jalen Hurts - Excited about new offense (2026-09-01T16:26:57Z)
+  - "I think Jalen's adjusted really well to the new offense," Roseman said. "Now again, we're at a moment in time, we haven't played a game. This isn't in reference to Jalen; this is in reference to anything else. I think that a lot of the things that we'll do during the regular season when we have game plans, I think from an offensive perspective, they're going to be different than what we've done in the past. Jalen's embraced it. He's excited about it and obviously we've got to be better than we were last year." Hurts struggled with interceptions a bit over the summer during training camp and didn't see any action during the preseason, so Week 1 against the Commanders will be the first game action under new OC Sean Mannion. The 28-year-old Hurts is expected to once again be in the mix as a top-five fantasy quarterback after setting a new career high with 25 touchdown passes last regular season to go along with a career-best 1.3 percent interception rate. His rushing numbers fell off some, as he punched in just eight touchdown on the ground after averaging 14 over the previous three seasons.
+- **NEW — Hunter Henry** — Hunter Henry - Key part of offense in 2026 (2026-09-01T16:22:11Z)
+  - The Patriots made several splash moves this offseason, including the additions of A.J. Brown and Romeo Doubs, that have garnered most of the headlines. Henry, though, is going to be a staple. The veteran has caught 60-or-more passes from Drake Maye in each of the last two seasons. Daniels notes that Henry is particularly crucial due to the lack of experienced options behind him on the depth chart. Rookie Eli Raridon and journeyman Cameron Latu are the next two options for the Patriots at tight end.
+- **Alec Pierce** — Alec Pierce (ankle) practices Tuesday  (2026-09-01T16:20:21.086000Z)
   - Pierce missed most of training camp while recovering from offseason ankle surgery. He appears to be on track to be good to go for Week 1, though it is unclear if he will be limited in any way. 
   - Source: https://www.fantasypros.com/nfl/news/605297/alec-pierce-ankle-practices-tuesday.php
-- **NEW — Josh Downs** — Josh Downs (calf) practices Tuesday  (2026-09-01T16:20:21.070000Z)
+- **Josh Downs** — Josh Downs (calf) practices Tuesday  (2026-09-01T16:20:21.070000Z)
   - Downs missed time last week with a calf issue. He is on track to be good to go for the season opener next week. 
   - Source: https://www.fantasypros.com/nfl/news/605298/josh-downs-calf-practices-tuesday.php
-- **NEW — Jonathon Brooks** — Jonathon Brooks working with trainers on side during practice Tuesday  (2026-09-01T16:15:21.665000Z)
+- **Jonathon Brooks** — Jonathon Brooks working with trainers on side during practice Tuesday  (2026-09-01T16:15:21.665000Z)
   - It is unclear what the exact reasoning is. There could be an update after practice. Brooks figures to enter the season complementing Chuba Hubbard. 
   - Source: https://www.fantasypros.com/nfl/news/605293/jonathon-brooks-working-with-trainers-on-side-during-practice-tuesday.php
-- **NEW — Ashton Jeanty** — Ashton Jeanty (ankle) not seen practicing Tuesday  (2026-09-01T16:15:21.649000Z)
+- **Ashton Jeanty** — Ashton Jeanty (ankle) not seen practicing Tuesday  (2026-09-01T16:15:21.649000Z)
   - Jeanty remains uncertain for Week 1. The fact that he avoided being placed on injured reserve is a positive sign he is expected to miss fewer than four games if he isn't ready to go to begin the season. 
   - Source: https://www.fantasypros.com/nfl/news/605294/ashton-jeanty-ankle-not-seen-practicing-tuesday.php
-- **NEW — Mike Evans** — Mike Evans (adductor) hopeful to return to practice next week (2026-09-01T16:15:21.629000Z)
+- **Mike Evans** — Mike Evans (adductor) hopeful to return to practice next week (2026-09-01T16:15:21.629000Z)
   - Evans has been absent from practice for much of the past few weeks. He will likely need to log multiple practices early next week to have a good chance of playing in Week 1 against the Rams. 
   - Source: https://www.fantasypros.com/nfl/news/605295/mike-evans-adductor-hopeful-to-return-to-practice-next-week.php
-- **NEW — Tyler Warren** — Tyler Warren (groin) practices Tuesday  (2026-09-01T16:15:21.611000Z)
+- **Tyler Warren** — Tyler Warren (groin) practices Tuesday  (2026-09-01T16:15:21.611000Z)
   - Warren has been working his way back from a minor groin issue. He should be good to go for Week 1 next week. 
   - Source: https://www.fantasypros.com/nfl/news/605296/tyler-warren-groin-practices-tuesday.php
-- **NEW — George Kittle** — George Kittle - Going through team drills (2026-09-01T16:11:31Z)
+- **George Kittle** — George Kittle - Going through team drills (2026-09-01T16:11:31Z)
   - Kittle is making strides in his recovery from an Achilles tear suffered in the playoffs. He went through some team drills Monday, and the fact that he's going to be on the field back-to-back days is especially encouraging. The 49ers are just over a week away from their season-opener in Australia, so it's still a tight timeline for Kittle be up to game speed. His progress in practice this week will paint a clearer picture for whether he will be ready to go when the season starts.
-- **NEW — Jalen McMillan** — Jalen McMillan - Remains sidelined at practice (2026-09-01T16:08:05Z)
+- **Jalen McMillan** — Jalen McMillan - Remains sidelined at practice (2026-09-01T16:08:05Z)
   - McMillan missed most of training camp with the issue, but there's been optimism about McMillan being available for Week 1 against the Bengals in 12 days. McMillan is expected to fill the third receiver role alongside Emeka Egbuka (toe) and Chris Godwin this season, though rookie Ted Hurst is also likely to see sub-package snaps at the position. McMillan appeared in just four regular-season games last season due to a neck injury. He turned 15 targets into 12 catches for 178 scoreless yards after producing eight touchdowns as a rookie in 2024.
-- **NEW — Tank Dell** — Tank Dell - Inching closer to return (2026-09-01T16:04:12Z)
+- **Tank Dell** — Tank Dell - Inching closer to return (2026-09-01T16:04:12Z)
   - Dell was placed on injured reserve with a designation for return to begin the season and will be required to miss at least the Texans' first four games. While Dell is sidelined, the likes of Kayshon Boutte, Jaylin Noel and Xavier Hutchinson will vie for snaps behind No. 1 wideout Nico Collins.
-- **NEW — Mike Evans** — Mike Evans - Eyeing practice return next week (2026-09-01T16:04:10Z)
+- **Mike Evans** — Mike Evans - Eyeing practice return next week (2026-09-01T16:04:10Z)
   - The veteran has been slowed by an adductor injury over the last week. The team will continue to be cautious with Evans as they prepare for the season opener on September 10  in Australia. That Evans won't practice this week is notable, given the already tight timeline and the upcoming international travel.
-- **NEW — Chuba Hubbard** — Chuba Hubbard - Returns to practice Tuesday (2026-09-01T15:56:14Z)
+- **Chuba Hubbard** — Chuba Hubbard - Returns to practice Tuesday (2026-09-01T15:56:14Z)
   - Hubbard's level of participation in practice will be monitored, but he's on the field with his helmet as the session gets underway. The veteran has been hampered by a hamstring injury sustained in mid-August, but has been progressing well. His participation on Tuesday is a good sign that he's trending in the right direction toward being ready for the start of the season.
-- **NEW — Emmett Johnson** — Emmett Johnson - Well-positioned for role (2026-09-01T15:51:05Z)
+- **Emmett Johnson** — Emmett Johnson - Well-positioned for role (2026-09-01T15:51:05Z)
   - The Chiefs had final roster cutdowns Sunday and waived veteran Emari Demercado, clearing a path to a role for Johnson. The rookie out of Nebraska impressed throughout training camp and the preseason. Kansas City also has Brashard Smith on the roster, but Johnson may be the handcuff to target for fantasy managers.
-- **NEW — Anthony Richardson** — Anthony Richardson - Expected to stay with team (2026-09-01T15:39:22Z)
+- **Anthony Richardson** — Anthony Richardson - Expected to stay with team (2026-09-01T15:39:22Z)
   - The 53-man roster is set in Indianapolis, and Richardson is in the team's plans for the year despite an offseason that included a trade request from the quarterback. Richardson is set to be Daniel Jones' backup as he enters the final year of his rookie deal.
-- **NEW — Keenan Allen** — Keenan Allen - Will play Week 1, per GM (2026-09-01T15:30:23Z)
+- **Keenan Allen** — Keenan Allen - Will play Week 1, per GM (2026-09-01T15:30:23Z)
   - Allen will not face discipline from the team following his arrest on DUI charges Sunday. "We should be good," said Ballard when asked about that on Tuesday, and added that "Good people make mistakes. [Allen] is a tremendous human being...he'll work through the process of the legal system." It appears that Allen can now shift his focus to getting up to speed with the team in advance of the season-opener on Sept. 13 against the Ravens.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Back at practice Tuesday (2026-09-01T15:22:17Z)
   - This is a big positive for Croskey-Merritt, who had been working through a lower-body issue late in the preseason. He is now trending in the right direction for Week 1, but official injury reports the week of the game will give final confirmation. If healthy, Croskey-Merritt is in line for a prominent role yet again in the Washington backfield.
@@ -57,7 +63,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Downs missed some practice time last week with what he termed as a "very minor" calf injury. The Colts will release their first Week 1 injury report Sept. 9, and if his activity Tuesday is any indication, Downs could be off the report entirely as the team prepares for its season opener against the Ravens.
 - **Zay Flowers** — Zay Flowers - Set to fully practice next week (2026-09-01T13:17:32Z)
   - Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout missed some practices last week as well, though the Ravens haven't indicated whether that was related to the prior quad issue. Whatever the case, Flowers' injury or injuries never seemed to be a major concern. He should be ready to handle a high-volume role in the Baltimore passing attack in Week 1.
-- **NEW — Baker Mayfield** — Baker Mayfield Extension Talks Still on Hold (2026-09-01T11:37:12Z)
+- **Baker Mayfield** — Baker Mayfield Extension Talks Still on Hold (2026-09-01T11:37:12Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-extension-talks-still-on-hold/1921193
 - **Josh Jacobs** — Packers Expect Josh Jacobs to Play This Season (2026-09-01T11:17:07Z)
   - Source: https://www.rotoballer.com/player-news/packers-expect-josh-jacobs-to-play-this-season/1921180
@@ -216,9 +222,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jalen-coker-has-prime-path-to-2026-breakout/1920415
 - **Carnell Tate** — Carnell Tate Gains Steam Despite Quiet Preseason (2026-08-31T11:59:13Z)
   - Source: https://www.rotoballer.com/player-news/carnell-tate-gains-steam-despite-quiet-preseason/1920405
-- **Jadarian Price** — Jadarian Price Ready to Lead Seahawks' Backfield (2026-08-31T11:50:12Z)
-  - Source: https://www.rotoballer.com/player-news/jadarian-price-ready-to-lead-seahawks-backfield/1920396
-- **Amon-Ra St. Brown** — Amon-Ra St. Brown Ends Camp on a High Note (2026-08-31T11:48:01Z)
-  - Source: https://www.rotoballer.com/player-news/amon-ra-st-brown-ends-camp-on-a-high-note/1920393
-- **Jahmyr Gibbs** — Jahmyr Gibbs Could Be Busier Than Ever (2026-08-31T11:36:36Z)
-  - Source: https://www.rotoballer.com/player-news/jahmyr-gibbs-could-be-busier-than-ever/1920388
