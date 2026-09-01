@@ -2,19 +2,31 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1494**
-- Newly captured: **0**
+- Stored stories: **1500**
+- Newly captured: **6**
 
 ## Latest news
 
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Back at practice Tuesday (2026-09-01T15:22:17Z)
+  - This is a big positive for Croskey-Merritt, who had been working through a lower-body issue late in the preseason. He is now trending in the right direction for Week 1, but official injury reports the week of the game will give final confirmation. If healthy, Croskey-Merritt is in line for a prominent role yet again in the Washington backfield.
+- **NEW — Emeka Egbuka** — Emeka Egbuka - Sits out Tuesday's practice (2026-09-01T15:18:36Z)
+  - The second-year wideout is working through a toe injury that has slowed him since mid-August. Coach Todd Bowles said over the weekend that he was "hopeful" Egbuka would be available for Week 1, which is now just under two weeks away. Until Egbuka can return to the practice field, his Week 1 status appears to be in limbo.
+- **NEW — Ashton Jeanty** — Ashton Jeanty - Working with trainers Tuesday (2026-09-01T15:12:52Z)
+  - This marks the first time Jeanty has been participating during a media viewing period since the running back sustained an ankle injury during practice Aug. 23. Jeanty was initially not out with the team for Tuesday's session but has since gotten on the field to work with trainers. There are still some hurdles to be cleared before Jeanty's Week 1 status is confirmed, but the second-year back appears to be making progress.
+- **NEW — Ashton Jeanty** — Ashton Jeanty - Not spotted Tuesday (2026-09-01T15:02:11Z)
+  - Head coach Klint Kubiak said Friday that he's "counting on" Jeanty to be available for Week 1, but the second-year running back will need to get back on the practice field first. The Raiders will open their season with a Sept. 13 game against the Dolphins, so Jeanty still has time to heal up from his sprained ankle. Rookie Mike Washington would be in store for an expanded role versus Miami if Jeanty is out or limited for that contest.
 - **Josh Jacobs** — Josh Jacobs - GM expects him to play in 2026 (2026-09-01T14:35:11Z)
-  - Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back -- who is scheduled to make his first appearance in court Nov. 17 -- won't be eligible to practice or play while he remains on the list. While Jacobs remains away from the team, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson on hand as their available options out of the backfield, with Lloyd being the favorite to lead the trio in touches.
+  - Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back is scheduled to make his first appearance in court Nov. 17 and won't be eligible to practice or play while he remains on the exempt list. While Jacobs remains away from the team, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson as their available backfield options, with Lloyd being the favorite to lead the trio in touches.
 - **Tyler Warren** — Tyler Warren - Involved in Tuesday's practice (2026-09-01T14:26:08Z)
   - The Colts won't have to reveal the extent of Warren's practice participation until they release their first injury report of the season Sept. 9, but his presence on the field Tuesday is a good indication that he'll be operating with no restrictions leading up to the Week 1 game against the Ravens. The second-year tight end strained his adductor during an Aug. 19 practice, but the Colts never indicated that the injury was anything that would seriously jeopardize his availability for the start of the regular season.
 - **Josh Downs** — Josh Downs - Taking part in Tuesday's practice (2026-09-01T14:19:47Z)
-  - Downs missed some practice time last week with what he termed as a "very minor" calf injury, and his presence on the field Tuesday seemingly supports that notion. The Colts will release their first Week 1 injury report Sept. 9, and if his activity Tuesday is any indication, Downs looks poised to be listed as a full practice participant or off the report entirely as the team prepares for its season-opening game against the Ravens.
+  - Downs missed some practice time last week with what he termed as a "very minor" calf injury. The Colts will release their first Week 1 injury report Sept. 9, and if his activity Tuesday is any indication, Downs could be off the report entirely as the team prepares for its season opener against the Ravens.
 - **Zay Flowers** — Zay Flowers - Set to fully practice next week (2026-09-01T13:17:32Z)
-  - Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout then ended up missing some practices last week due to the lower-body issue, though the Ravens haven't indicated whether the injury is related to the prior quad bruise. Whatever the case, Flowers' injury never seemed to be a major concern, and assuming he's able to begin Week 1 prep as a full practice participant, he should be ready to handle a high-volume role in the Baltimore passing attack once the regular season gets underway.
+  - Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout missed some practices last week as well, though the Ravens haven't indicated whether that was related to the prior quad issue. Whatever the case, Flowers' injury or injuries never seemed to be a major concern. He should be ready to handle a high-volume role in the Baltimore passing attack in Week 1.
+- **NEW — Josh Jacobs** — Packers Expect Josh Jacobs to Play This Season (2026-09-01T11:17:07Z)
+  - Source: https://www.rotoballer.com/player-news/packers-expect-josh-jacobs-to-play-this-season/1921180
+- **NEW — Kaleb Johnson** — Packers High On New Acquisition Kaleb Johnson (2026-09-01T10:57:19Z)
+  - Source: https://www.rotoballer.com/player-news/packers-high-on-new-acquisition-kaleb-johnson/1921169
 - **David Montgomery** — David Montgomery Could Be a Steal in Texans Offense (2026-09-01T10:43:06Z)
   - Source: https://www.rotoballer.com/player-news/david-montgomery-could-be-a-steal-in-texans-offense/1921161
 - **Parker Washington** — Parker Washington Has Big Time Potential As Slot Receiver (2026-09-01T10:28:07Z)
@@ -204,17 +216,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/devon-achane-the-focal-point-of-miamis-offense-going-forward/1920137
 - **Adam Randall** — Adam Randall Opening the Season on Injured Reserve (2026-08-31T00:12:09Z)
   - Source: https://www.rotoballer.com/player-news/adam-randall-opening-the-season-on-injured-reserve/1920133
-- **Puka Nacua** — Puka Nacua - Back at practice Sunday (2026-08-30T23:28:37Z)
-  - Nacua made an early exit from the Rams' joint practice with the Cowboys on Aug. 11 and eventually was diagnosed with psoas soreness. Now almost three weeks removed from the initial injury, he's taking a step in the right direction by returning to drills. Los Angeles opens the season Thursday, Sept. 10 against the 49ers in Melbourne, Australia, a contest for which the team likely is aiming for him to be available.
-- **Tyrone Tracy** — Tyrone Tracy - Makes initial 53-man roster (2026-08-30T23:20:40Z)
-  - The decision regarding Tracy's place on New York's roster was tied to uneven play in the preseason, the recent arrival of veteran RB Najee Harris to the position group, and a neck injury that he picked up in the team's exhibition finale. Having said that, he's among the backfield options along with No. 1 Cam Skattebo, Devin Singletary and Harris. It's perhaps a vote of confidence for the third-year pro, but because the other three are healthy, Tracy may be hard-pressed for a regular role early on this season.
-- **Jordyn Tyson** — Jordyn Tyson (hamstring) placed on IR (2026-08-30T23:15:59.432000Z)
-  - Tyson is expected to miss roughly two months with a hamstring injury. He has been dealing with hamstring issues since college at Arizona State. 
-  - Source: https://www.fantasypros.com/nfl/news/604978/jordyn-tyson-hamstring-placed-on-ir.php
-- **Anthony Richardson** — Anthony Richardson Sr. Sticking with the Colts for Now (2026-08-30T23:14:05Z)
-  - Source: https://www.rotoballer.com/player-news/anthony-richardson-sr-sticking-with-the-colts-for-now/1920111
-- **Zach Charbonnet** — Zach Charbonnet - Opening season on reserve/PUP list (2026-08-30T23:06:40Z)
-  - This move was merely procedural, as Charbonnet is still far away from returning to action following the ACL tear he suffered in his left knee in the divisional round on Jan. 17. In any case, he'll be sidelined for at least the first four contests of the season, while some combination of rookie first-round pick Jadarian Price and holdover George Holani will pace Seattle's backfield Week 1 and beyond.
-- **J.J. McCarthy** — J.J. McCarthy makes Vikings 53-man roster (2026-08-30T23:05:59.619000Z)
-  - There was some speculation that McCarthy might be left off the initial roster. Those turned out to not be true as he officially makes it. He'll be behind Kyler Murray and potentially Carson Wentz as well to open the season. 
-  - Source: https://www.fantasypros.com/nfl/news/604969/jj-mccarthy-makes-vikings-53-man-roster.php

@@ -1,8 +1,15 @@
 {
-  "last_checked_at": "2026-09-01T15:01:02Z",
+  "last_checked_at": "2026-09-01T15:29:53Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|12504|rotoballer|219858|1788260239000",
+    "nfl|12514|rotowire|635812|1788275916000",
+    "nfl|12527|rotowire|635809|1788274931000",
+    "nfl|12527|rotowire|635810|1788275572000",
+    "nfl|12533|rotowire|635813|1788276137000",
+    "nfl|5850|rotoballer|219859|1788261427000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -12,11 +19,91 @@
   },
   "stories": [
     {
-      "analysis": "Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back -- who is scheduled to make his first appearance in court Nov. 17 -- won't be eligible to practice or play while he remains on the list. While Jacobs remains away from the team, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson on hand as their available options out of the backfield, with Lloyd being the favorite to lead the trio in touches.",
-      "description": "General manager Brian Gutekunst said Tuesday that he anticipates Jacobs (groin) playing for the Packers at some point in 2026, though the team will let the process play out before making any decisions with the running back, Matt Schneidman of The Athletic reports.",
+      "analysis": "This is a big positive for Croskey-Merritt, who had been working through a lower-body issue late in the preseason. He is now trending in the right direction for Week 1, but official injury reports the week of the game will give final confirmation. If healthy, Croskey-Merritt is in line for a prominent role yet again in the Washington backfield.",
+      "description": "Croskey-Merritt (lower body) is dressed for Tuesday's practice, Tashan Reed of The Washington Post reports.",
       "metadata": {
-        "analysis": "Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back -- who is scheduled to make his first appearance in court Nov. 17 -- won't be eligible to practice or play while he remains on the list. While Jacobs remains away from the team, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson on hand as their available options out of the backfield, with Lloyd being the favorite to lead the trio in touches.",
-        "description": "General manager Brian Gutekunst said Tuesday that he anticipates Jacobs (groin) playing for the Packers at some point in 2026, though the team will let the process play out before making any decisions with the running back, Matt Schneidman of The Athletic reports.",
+        "analysis": "This is a big positive for Croskey-Merritt, who had been working through a lower-body issue late in the preseason. He is now trending in the right direction for Week 1, but official injury reports the week of the game will give final confirmation. If healthy, Croskey-Merritt is in line for a prominent role yet again in the Washington backfield.",
+        "description": "Croskey-Merritt (lower body) is dressed for Tuesday's practice, Tashan Reed of The Washington Post reports.",
+        "title": "Jacory Croskey-Merritt - Back at practice Tuesday",
+        "topic_id": "1400536029403815936"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1788276137000,
+      "source": "rotowire",
+      "source_key": "635813",
+      "story_id": "nfl|12533|rotowire|635813|1788276137000",
+      "title": "Jacory Croskey-Merritt - Back at practice Tuesday",
+      "url": null
+    },
+    {
+      "analysis": "The second-year wideout is working through a toe injury that has slowed him since mid-August. Coach Todd Bowles said over the weekend that he was \"hopeful\" Egbuka would be available for Week 1, which is now just under two weeks away. Until Egbuka can return to the practice field, his Week 1 status appears to be in limbo.",
+      "description": "Egbuka (toe) is not practicing Tuesday, per Pewter Report.",
+      "metadata": {
+        "analysis": "The second-year wideout is working through a toe injury that has slowed him since mid-August. Coach Todd Bowles said over the weekend that he was \"hopeful\" Egbuka would be available for Week 1, which is now just under two weeks away. Until Egbuka can return to the practice field, his Week 1 status appears to be in limbo.",
+        "description": "Egbuka (toe) is not practicing Tuesday, per Pewter Report.",
+        "title": "Emeka Egbuka - Sits out Tuesday's practice",
+        "topic_id": "1400534771754389504"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1788275916000,
+      "source": "rotowire",
+      "source_key": "635812",
+      "story_id": "nfl|12514|rotowire|635812|1788275916000",
+      "title": "Emeka Egbuka - Sits out Tuesday's practice",
+      "url": null
+    },
+    {
+      "analysis": "This marks the first time Jeanty has been participating during a media viewing period since the running back sustained an ankle injury during practice Aug. 23. Jeanty was initially not out with the team for Tuesday's session but has since gotten on the field to work with trainers. There are still some hurdles to be cleared before Jeanty's Week 1 status is confirmed, but the second-year back appears to be making progress.",
+      "description": "Jeanty (ankle) is working off to the side during Tuesday's practice, Sam Warren of The Athletic reports.",
+      "metadata": {
+        "analysis": "This marks the first time Jeanty has been participating during a media viewing period since the running back sustained an ankle injury during practice Aug. 23. Jeanty was initially not out with the team for Tuesday's session but has since gotten on the field to work with trainers. There are still some hurdles to be cleared before Jeanty's Week 1 status is confirmed, but the second-year back appears to be making progress.",
+        "description": "Jeanty (ankle) is working off to the side during Tuesday's practice, Sam Warren of The Athletic reports.",
+        "title": "Ashton Jeanty - Working with trainers Tuesday",
+        "topic_id": "1400533513647706112"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788275572000,
+      "source": "rotowire",
+      "source_key": "635810",
+      "story_id": "nfl|12527|rotowire|635810|1788275572000",
+      "title": "Ashton Jeanty - Working with trainers Tuesday",
+      "url": null
+    },
+    {
+      "analysis": "Head coach Klint Kubiak said Friday that he's \"counting on\" Jeanty to be available for Week 1, but the second-year running back will need to get back on the practice field first. The Raiders will open their season with a Sept. 13 game against the Dolphins, so Jeanty still has time to heal up from his sprained ankle. Rookie Mike Washington would be in store for an expanded role versus Miami if Jeanty is out or limited for that contest.",
+      "description": "Jeanty (ankle) was not spotted at Tuesday's practice, Sam Warren of The Athletic reports.",
+      "metadata": {
+        "analysis": "Head coach Klint Kubiak said Friday that he's \"counting on\" Jeanty to be available for Week 1, but the second-year running back will need to get back on the practice field first. The Raiders will open their season with a Sept. 13 game against the Dolphins, so Jeanty still has time to heal up from his sprained ankle. Rookie Mike Washington would be in store for an expanded role versus Miami if Jeanty is out or limited for that contest.",
+        "description": "Jeanty (ankle) was not spotted at Tuesday's practice, Sam Warren of The Athletic reports.",
+        "title": "Ashton Jeanty - Not spotted Tuesday",
+        "topic_id": "1400530996410974208"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788274931000,
+      "source": "rotowire",
+      "source_key": "635809",
+      "story_id": "nfl|12527|rotowire|635809|1788274931000",
+      "title": "Ashton Jeanty - Not spotted Tuesday",
+      "url": null
+    },
+    {
+      "analysis": "Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back is scheduled to make his first appearance in court Nov. 17 and won't be eligible to practice or play while he remains on the exempt list. While Jacobs remains away from the team, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson as their available backfield options, with Lloyd being the favorite to lead the trio in touches.",
+      "description": "General manager Brian Gutekunst said Tuesday that he anticipates Jacobs (groin) playing for the Packers at some point in 2026, Matt Schneidman of The Athletic reports.",
+      "metadata": {
+        "analysis": "Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back is scheduled to make his first appearance in court Nov. 17 and won't be eligible to practice or play while he remains on the exempt list. While Jacobs remains away from the team, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson as their available backfield options, with Lloyd being the favorite to lead the trio in touches.",
+        "description": "General manager Brian Gutekunst said Tuesday that he anticipates Jacobs (groin) playing for the Packers at some point in 2026, Matt Schneidman of The Athletic reports.",
         "title": "Josh Jacobs - GM expects him to play in 2026",
         "topic_id": "1400524704241995776"
       },
@@ -52,10 +139,10 @@
       "url": null
     },
     {
-      "analysis": "Downs missed some practice time last week with what he termed as a \"very minor\" calf injury, and his presence on the field Tuesday seemingly supports that notion. The Colts will release their first Week 1 injury report Sept. 9, and if his activity Tuesday is any indication, Downs looks poised to be listed as a full practice participant or off the report entirely as the team prepares for its season-opening game against the Ravens.",
+      "analysis": "Downs missed some practice time last week with what he termed as a \"very minor\" calf injury. The Colts will release their first Week 1 injury report Sept. 9, and if his activity Tuesday is any indication, Downs could be off the report entirely as the team prepares for its season opener against the Ravens.",
       "description": "Downs (calf) was spotted on the field participating in Tuesday's practice, Jake Arthur of Roundtable.io reports.",
       "metadata": {
-        "analysis": "Downs missed some practice time last week with what he termed as a \"very minor\" calf injury, and his presence on the field Tuesday seemingly supports that notion. The Colts will release their first Week 1 injury report Sept. 9, and if his activity Tuesday is any indication, Downs looks poised to be listed as a full practice participant or off the report entirely as the team prepares for its season-opening game against the Ravens.",
+        "analysis": "Downs missed some practice time last week with what he termed as a \"very minor\" calf injury. The Colts will release their first Week 1 injury report Sept. 9, and if his activity Tuesday is any indication, Downs could be off the report entirely as the team prepares for its season opener against the Ravens.",
         "description": "Downs (calf) was spotted on the field participating in Tuesday's practice, Jake Arthur of Roundtable.io reports.",
         "title": "Josh Downs - Taking part in Tuesday's practice",
         "topic_id": "1400519670607425536"
@@ -72,11 +159,11 @@
       "url": null
     },
     {
-      "analysis": "Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout then ended up missing some practices last week due to the lower-body issue, though the Ravens haven't indicated whether the injury is related to the prior quad bruise. Whatever the case, Flowers' injury never seemed to be a major concern, and assuming he's able to begin Week 1 prep as a full practice participant, he should be ready to handle a high-volume role in the Baltimore passing attack once the regular season gets underway.",
-      "description": "Flowers, who is recovering from a lower-body injury, is expected to return to practice in full capacity next week and suit up for the Ravens' Sept. 13 season opener versus the Colts, Matt Zenitz of CBS Sports reports.",
+      "analysis": "Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout missed some practices last week as well, though the Ravens haven't indicated whether that was related to the prior quad issue. Whatever the case, Flowers' injury or injuries never seemed to be a major concern. He should be ready to handle a high-volume role in the Baltimore passing attack in Week 1.",
+      "description": "Flowers, who is recovering from a lower-body injury, is expected to return to full practice next week and be available for the Ravens' Sept. 13 season opener versus the Colts, Matt Zenitz of CBS Sports reports.",
       "metadata": {
-        "analysis": "Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout then ended up missing some practices last week due to the lower-body issue, though the Ravens haven't indicated whether the injury is related to the prior quad bruise. Whatever the case, Flowers' injury never seemed to be a major concern, and assuming he's able to begin Week 1 prep as a full practice participant, he should be ready to handle a high-volume role in the Baltimore passing attack once the regular season gets underway.",
-        "description": "Flowers, who is recovering from a lower-body injury, is expected to return to practice in full capacity next week and suit up for the Ravens' Sept. 13 season opener versus the Colts, Matt Zenitz of CBS Sports reports.",
+        "analysis": "Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout missed some practices last week as well, though the Ravens haven't indicated whether that was related to the prior quad issue. Whatever the case, Flowers' injury or injuries never seemed to be a major concern. He should be ready to handle a high-volume role in the Baltimore passing attack in Week 1.",
+        "description": "Flowers, who is recovering from a lower-body injury, is expected to return to full practice next week and be available for the Ravens' Sept. 13 season opener versus the Colts, Matt Zenitz of CBS Sports reports.",
         "title": "Zay Flowers - Set to fully practice next week",
         "topic_id": "1400504569514975232"
       },
@@ -90,6 +177,46 @@
       "story_id": "nfl|9997|rotowire|635796|1788268652000",
       "title": "Zay Flowers - Set to fully practice next week",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back Josh Jacobs is still expected to play this season despite his uncertain status. General manager Brian Gutekunst told reporters Tuesday that he is hopeful Jacobs will return and expects him to play for Green Bay at some point, according to Matt Schneidman. Gutekunst was also asked whether there is a scenario in which the Packers release Jacobs, but said the team wants to let the process play out before making that kind of decision. Jacobs remains on the NFL's Commissioner's Exempt List after being charged with misdemeanor battery and misdemeanor criminal damage to property stemming from a May incident. He cannot practice or play while on the list, and there is still no timetable for his return. Green Bay has since added Kaleb Johnson to a backfield that also includes MarShawn Lloyd and Chris Brooks. Gutekunst's comments are encouraging for Jacobs' season-long outlook, but his availability remains completely up in the air.",
+      "metadata": {
+        "description": "Green Bay Packers running back Josh Jacobs is still expected to play this season despite his uncertain status. General manager Brian Gutekunst told reporters Tuesday that he is hopeful Jacobs will return and expects him to play for Green Bay at some point, according to Matt Schneidman. Gutekunst was also asked whether there is a scenario in which the Packers release Jacobs, but said the team wants to let the process play out before making that kind of decision. Jacobs remains on the NFL's Commissioner's Exempt List after being charged with misdemeanor battery and misdemeanor criminal damage to property stemming from a May incident. He cannot practice or play while on the list, and there is still no timetable for his return. Green Bay has since added Kaleb Johnson to a backfield that also includes MarShawn Lloyd and Chris Brooks. Gutekunst's comments are encouraging for Jacobs' season-long outlook, but his availability remains completely up in the air.",
+        "title": "Packers Expect Josh Jacobs to Play This Season",
+        "topic_id": "1400536027998789632",
+        "url": "https://www.rotoballer.com/player-news/packers-expect-josh-jacobs-to-play-this-season/1921180"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1788261427000,
+      "source": "rotoballer",
+      "source_key": "219859",
+      "story_id": "nfl|5850|rotoballer|219859|1788261427000",
+      "title": "Packers Expect Josh Jacobs to Play This Season",
+      "url": "https://www.rotoballer.com/player-news/packers-expect-josh-jacobs-to-play-this-season/1921180"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back Kaleb Johnson has been traded over from the Pittsburgh Steelers and amid the troubles with running back Josh Jacobs, the Packers organization is high on the addition of Johnson. Packers general manager Brian Gutekunst had this to say about Johnson as a newcomer to the team: \"Excited to get Kaleb in here. Young player with huge upside ... He comes from a very strong program. He had a lot of success there. There's some similar scheme stuff, a lot of outside-zone.\" Johnson comes from the Iowa Hawkeyes college program and has a real shot to make a name for himself with Jacobs on the Commissioner's Exempt List. Johnson could be a nice late-round addition to fantasy teams with some \"huge upside\" as stated by his new GM.",
+      "metadata": {
+        "description": "Green Bay Packers running back Kaleb Johnson has been traded over from the Pittsburgh Steelers and amid the troubles with running back Josh Jacobs, the Packers organization is high on the addition of Johnson. Packers general manager Brian Gutekunst had this to say about Johnson as a newcomer to the team: \"Excited to get Kaleb in here. Young player with huge upside ... He comes from a very strong program. He had a lot of success there. There's some similar scheme stuff, a lot of outside-zone.\" Johnson comes from the Iowa Hawkeyes college program and has a real shot to make a name for himself with Jacobs on the Commissioner's Exempt List. Johnson could be a nice late-round addition to fantasy teams with some \"huge upside\" as stated by his new GM.",
+        "title": "Packers High On New Acquisition Kaleb Johnson",
+        "topic_id": "1400530994548723712",
+        "url": "https://www.rotoballer.com/player-news/packers-high-on-new-acquisition-kaleb-johnson/1921169"
+      },
+      "nfl_team": "GB",
+      "player_id": "12504",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "published": 1788260239000,
+      "source": "rotoballer",
+      "source_key": "219858",
+      "story_id": "nfl|12504|rotoballer|219858|1788260239000",
+      "title": "Packers High On New Acquisition Kaleb Johnson",
+      "url": "https://www.rotoballer.com/player-news/packers-high-on-new-acquisition-kaleb-johnson/1921169"
     },
     {
       "analysis": null,
