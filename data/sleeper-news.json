@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-01T14:15:30Z",
+  "last_checked_at": "2026-09-01T14:31:33Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|13417|rotoballer|219855|1788257410000",
-    "nfl|8151|rotoballer|219854|1788256748000"
+    "nfl|12518|rotowire|635806|1788272768000",
+    "nfl|9487|rotoballer|219856|1788258487000",
+    "nfl|9500|rotowire|635805|1788272387000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The Colts won't have to reveal the extent of Warren's practice participation until they release their first injury report of the season Sept. 9, but his presence on the field Tuesday is a good indication that he'll be operating with no restrictions leading up to the Week 1 game against the Ravens. The second-year tight end strained his adductor during an Aug. 19 practice, but the Colts never indicated that the injury was anything that would seriously jeopardize his availability for the start of the regular season.",
+      "description": "Warren (adductor) was spotted on the field participating in Tuesday's practice, Nathan Brown of The Indianapolis Star reports.",
+      "metadata": {
+        "analysis": "The Colts won't have to reveal the extent of Warren's practice participation until they release their first injury report of the season Sept. 9, but his presence on the field Tuesday is a good indication that he'll be operating with no restrictions leading up to the Week 1 game against the Ravens. The second-year tight end strained his adductor during an Aug. 19 practice, but the Colts never indicated that the injury was anything that would seriously jeopardize his availability for the start of the regular season.",
+        "description": "Warren (adductor) was spotted on the field participating in Tuesday's practice, Nathan Brown of The Indianapolis Star reports.",
+        "title": "Tyler Warren - Involved in Tuesday's practice",
+        "topic_id": "1400522187449868288"
+      },
+      "nfl_team": "IND",
+      "player_id": "12518",
+      "player_name": "Tyler Warren",
+      "position": "TE",
+      "published": 1788272768000,
+      "source": "rotowire",
+      "source_key": "635806",
+      "story_id": "nfl|12518|rotowire|635806|1788272768000",
+      "title": "Tyler Warren - Involved in Tuesday's practice",
+      "url": null
+    },
+    {
+      "analysis": "Downs missed some practice time last week with what he termed as a \"very minor\" calf injury, and his presence on the field Tuesday seemingly supports that notion. The Colts will release their first Week 1 injury report Sept. 9, and if his activity Tuesday is any indication, Downs looks poised to be listed as a full practice participant or off the report entirely as the team prepares for its season-opening game against the Ravens.",
+      "description": "Downs (calf) was spotted on the field participating in Tuesday's practice, Jake Arthur of Roundtable.io reports.",
+      "metadata": {
+        "analysis": "Downs missed some practice time last week with what he termed as a \"very minor\" calf injury, and his presence on the field Tuesday seemingly supports that notion. The Colts will release their first Week 1 injury report Sept. 9, and if his activity Tuesday is any indication, Downs looks poised to be listed as a full practice participant or off the report entirely as the team prepares for its season-opening game against the Ravens.",
+        "description": "Downs (calf) was spotted on the field participating in Tuesday's practice, Jake Arthur of Roundtable.io reports.",
+        "title": "Josh Downs - Taking part in Tuesday's practice",
+        "topic_id": "1400519670607425536"
+      },
+      "nfl_team": "IND",
+      "player_id": "9500",
+      "player_name": "Josh Downs",
+      "position": "WR",
+      "published": 1788272387000,
+      "source": "rotowire",
+      "source_key": "635805",
+      "story_id": "nfl|9500|rotowire|635805|1788272387000",
+      "title": "Josh Downs - Taking part in Tuesday's practice",
+      "url": null
+    },
     {
       "analysis": "Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout then ended up missing some practices last week due to the lower-body issue, though the Ravens haven't indicated whether the injury is related to the prior quad bruise. Whatever the case, Flowers' injury never seemed to be a major concern, and assuming he's able to begin Week 1 prep as a full practice participant, he should be ready to handle a high-volume role in the Baltimore passing attack once the regular season gets underway.",
       "description": "Flowers, who is recovering from a lower-body injury, is expected to return to practice in full capacity next week and suit up for the Ravens' Sept. 13 season opener versus the Colts, Matt Zenitz of CBS Sports reports.",
@@ -33,6 +74,26 @@
       "story_id": "nfl|9997|rotowire|635796|1788268652000",
       "title": "Zay Flowers - Set to fully practice next week",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars wide receiver Parker Washington looks like he has real potential this season as a mid-to-late-round draft target. Washington closed the season last year with two 100+ yard receiving games in Weeks 16 and 17. He also had four receiving touchdowns from Week 10 though the end of the season. He finished the season with 58 catches for 847 yards and five touchdowns. The Jaguars offense under Liam Coen has the potential to be very good with Trevor Lawrence at quarterback and Brian Thomas Jr. and Jakobi Meyers also at receiver. Washington, out of Penn State in college, should line up regularly in the slot and be a dynamic receiver in that role. He broke through in a big way late last season and should see that continue this season.",
+      "metadata": {
+        "description": "Jacksonville Jaguars wide receiver Parker Washington looks like he has real potential this season as a mid-to-late-round draft target. Washington closed the season last year with two 100+ yard receiving games in Weeks 16 and 17. He also had four receiving touchdowns from Week 10 though the end of the season. He finished the season with 58 catches for 847 yards and five touchdowns. The Jaguars offense under Liam Coen has the potential to be very good with Trevor Lawrence at quarterback and Brian Thomas Jr. and Jakobi Meyers also at receiver. Washington, out of Penn State in college, should line up regularly in the slot and be a dynamic receiver in that role. He broke through in a big way late last season and should see that continue this season.",
+        "title": "Parker Washington Has Big Time Potential As Slot Receiver",
+        "topic_id": "1400522186048942080",
+        "url": "https://www.rotoballer.com/player-news/parker-washington-has-big-time-potential-as-slot-receiver/1921148"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9487",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "published": 1788258487000,
+      "source": "rotoballer",
+      "source_key": "219856",
+      "story_id": "nfl|9487|rotoballer|219856|1788258487000",
+      "title": "Parker Washington Has Big Time Potential As Slot Receiver",
+      "url": "https://www.rotoballer.com/player-news/parker-washington-has-big-time-potential-as-slot-receiver/1921148"
     },
     {
       "analysis": null,

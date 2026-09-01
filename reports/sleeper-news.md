@@ -2,16 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1490**
-- Newly captured: **2**
+- Stored stories: **1493**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Tyler Warren** — Tyler Warren - Involved in Tuesday's practice (2026-09-01T14:26:08Z)
+  - The Colts won't have to reveal the extent of Warren's practice participation until they release their first injury report of the season Sept. 9, but his presence on the field Tuesday is a good indication that he'll be operating with no restrictions leading up to the Week 1 game against the Ravens. The second-year tight end strained his adductor during an Aug. 19 practice, but the Colts never indicated that the injury was anything that would seriously jeopardize his availability for the start of the regular season.
+- **NEW — Josh Downs** — Josh Downs - Taking part in Tuesday's practice (2026-09-01T14:19:47Z)
+  - Downs missed some practice time last week with what he termed as a "very minor" calf injury, and his presence on the field Tuesday seemingly supports that notion. The Colts will release their first Week 1 injury report Sept. 9, and if his activity Tuesday is any indication, Downs looks poised to be listed as a full practice participant or off the report entirely as the team prepares for its season-opening game against the Ravens.
 - **Zay Flowers** — Zay Flowers - Set to fully practice next week (2026-09-01T13:17:32Z)
   - Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout then ended up missing some practices last week due to the lower-body issue, though the Ravens haven't indicated whether the injury is related to the prior quad bruise. Whatever the case, Flowers' injury never seemed to be a major concern, and assuming he's able to begin Week 1 prep as a full practice participant, he should be ready to handle a high-volume role in the Baltimore passing attack once the regular season gets underway.
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling Remains a Top Late-Round Target (2026-09-01T10:10:10Z)
+- **NEW — Parker Washington** — Parker Washington Has Big Time Potential As Slot Receiver (2026-09-01T10:28:07Z)
+  - Source: https://www.rotoballer.com/player-news/parker-washington-has-big-time-potential-as-slot-receiver/1921148
+- **De'Zhaun Stribling** — De'Zhaun Stribling Remains a Top Late-Round Target (2026-09-01T10:10:10Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-remains-a-top-late-round-target/1921145
-- **NEW — Kenneth Walker** — Kenneth Walker Could Be Over-Hyped (2026-09-01T09:59:08Z)
+- **Kenneth Walker** — Kenneth Walker Could Be Over-Hyped (2026-09-01T09:59:08Z)
   - Source: https://www.rotoballer.com/player-news/kenneth-walker-could-be-over-hyped/1921139
 - **Ted Hurst** — Ted Hurst III Earning a Larger Role for the Buccaneers (2026-09-01T09:45:15Z)
   - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-earning-a-larger-role-for-the-buccaneers/1921126
@@ -213,9 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **James Conner** — James Conner (foot) placed on injured reserve/designated to return (2026-08-30T22:45:59.897000Z)
   - Conner had been working his way back to during training camp. He will miss at least the first four games of the regular season. 
   - Source: https://www.fantasypros.com/nfl/news/604961/james-conner-foot-placed-on-injured-reservedesignated-to-return.php
-- **J.J. McCarthy** — J.J. McCarthy Makes the Vikings' 53-Man Roster (2026-08-30T22:45:13Z)
-  - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-makes-the-vikings-53-man-roster/1920091
-- **Jordyn Tyson** — Jordyn Tyson - Lands on IR, designated to return (2026-08-30T22:30:28Z)
-  - Tyson has had recurring issues with his right hamstring, and the most recent flare-up is expected to result in two months on the sideline, so Sunday's transaction comes as no surprise. He'll be required to miss at least the first four games of the season, but considering the aforementioned recovery timeline, he likely will be out beyond Week 5. During Tyson's absence, Devaughn Vele and rookies Bryce Lance and Barion Brown will have opportunities for targets behind top WR Chris Olave.
-- **Anthony Richardson** — Anthony Richardson - Will continue with Colts (2026-08-30T22:17:12Z)
-  - Richardson requested a trade over the offseason, but the Colts elected not to move him, and he remains part of the Indianapolis organization for the time being. It remains to be seen, though, if he or Riley Leonard will open as the backup behind starting signal-caller Daniel Jones.
