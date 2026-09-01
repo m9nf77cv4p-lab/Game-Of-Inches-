@@ -2,12 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1469**
-- Newly captured: **1**
+- Stored stories: **1472**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Puka Nacua** — Puka Nacua - Working off to side Monday (2026-08-31T23:52:35Z)
+- **NEW — Jaydon Blue** — Jaydon Blue signs with Eagles practice squad  (2026-09-01T00:15:14.084000Z)
+  - Blue went unclaimed on waivers after he was waived by Dallas. He'll add depth in the Eagles backfield. 
+  - Source: https://www.fantasypros.com/nfl/news/605162/jaydon-blue-signs-with-eagles-practice-squad.php
+- **NEW — Jaydon Blue** — Jaydon Blue - Heading to Philly (2026-09-01T00:04:10Z)
+  - A fifth-round pick of the Cowboys in 2025, Blue got some run as a rookie to the tune of 38 carries for 129 yards (3.4 YPC) and one touchdown in five regular-season appearances. Following the 2026 preseason, though, Dallas opted to waive him Sunday and then didn't included him among the team's practice-squad signings Monday. Blue thus will move on to an NFC East foe, where he'll be a candidate for elevation if any of Saquon Barkley, Tank Bigsby or Will Shipley need time on the sideline.
+- **Puka Nacua** — Puka Nacua - Working off to side Monday (2026-08-31T23:52:35Z)
   - Nacua returned to practice Sunday and is slowly ramping things back up 10 days ahead of the Rams' Week 1 opener against the 49ers in Australia on Thursday, Sept. 10. The star wideout has missed a sizable chunk of the summer, but he and Matthew Stafford already have elite chemistry and should be able to pick things back up rather quickly when the games count. Nacua has been a locked-in first-round fantasy pick.
 - **Marvin Mims** — Marvin Mims - Not practicing Monday (2026-08-31T22:10:20Z)
   - Mims suffered a bruised foot in the team's preseason finale against the Vikings on Friday, and he doesn't appear to be ready to return to practice quite yet. The Broncos are two weeks away from their regular-season opener against the Chiefs on Sept. 14, and the wide receiver will have a few more chances to return to practice this week.
@@ -33,6 +38,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Adam Randall** — Adam Randall placed on IR (2026-08-31T20:10:14.912000Z)
   - Randall will be eligible to return after the first four weeks. 
   - Source: https://www.fantasypros.com/nfl/news/605062/adam-randall-placed-on-ir.php
+- **NEW — Jaydon Blue** — Jaydon Blue Stays in NFC East, Joins Eagles' Practice Squad (2026-08-31T20:05:11Z)
+  - Source: https://www.rotoballer.com/player-news/jaydon-blue-stays-in-nfc-east-joins-eagles-practice-squad/1920756
 - **Zay Flowers** — Zay Flowers (lower body) misses practice  (2026-08-31T20:00:14.749000Z)
   - Flowers is dealing with a lower body injury. It does not appear that his status for Week 1 is in doubt as of now. 
   - Source: https://www.fantasypros.com/nfl/news/605050/zay-flowers-lower-body-misses-practice.php
@@ -214,10 +221,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Dallas reportedly has moved on from two RBs on cut-down day, the other being Phil Mafah. The moves indicate that Malik Davis has claimed the No. 2 role behind starter Javonte Williams, though one or both of Blue and Mafah could wind up back on the team's practice squad if they clear waivers.
 - **MarShawn Lloyd** — MarShawn Lloyd - Now part of reconfigured backfield (2026-08-30T19:36:53Z)
   - Lloyd has appeared in just one regular-season game since being selected by the Packers in the third round of the 2024 NFL Draft, but with Jacobs out of action for the time being Lloyd is now the top available option on the depth chart. Both Johnson and Chris Brooks -- who excels at pass blocking -- figure to factor into the mix sans Jacobs, but with Johnson just joining the team, Lloyd now finds himself as the favorite to pick up carries.
-- **Puka Nacua** — Puka Nacua Back at Practice on Sunday (2026-08-30T19:34:46Z)
-  - Source: https://www.rotoballer.com/player-news/puka-nacua-back-at-practice-on-sunday/1920001
-- **Josh Jacobs** — Josh Jacobs - Lands on Commissioner's Exempt List (2026-08-30T18:38:06Z)
-  - Jacobs was officially charged Thursday with two misdemeanors stemming from his May arrest for a domestic incident in Brown County, Wis, with a court appearance scheduled for Nov. 17. For as long as he's on the list, he won't be able to practice or play in games, and there's no word on how long this may be his reality. Aside from Jacobs, the Packers backfield is occupied by MarShawn Lloyd, Chris Brooks and newcomer Kaleb Johnson, with Lloyd the likely favorite to handle the largest workload during Jacobs' absence.
-- **Josh Jacobs** — Josh Jacobs placed on commissioner of exempt list (2026-08-30T18:35:57.630000Z)
-  - Jacobs is now ineligible to practice or play for the Packers while the league continues their investigation into alleged improper behavior while being charged with two misdemeanors related to his conduct earlier in the week. If the running back is forced to sit out for any period of the regular season, MarShawn Lloyd will be in line to receive the majority of backfield work while the recently acquired Kaleb Johnson gets up to speed on the offensive playbook with Week 1 approaching.
-  - Source: https://www.fantasypros.com/nfl/news/604854/josh-jacobs-placed-on-commissioner-exempt-list.php

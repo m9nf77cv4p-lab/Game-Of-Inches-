@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-08-31T23:58:30Z",
+  "last_checked_at": "2026-09-01T00:26:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|9493|rotowire|635683|1788220355000"
+    "nfl|12457|fantasy_pros|605162|1788221714084",
+    "nfl|12457|rotoballer|219835|1788206711000",
+    "nfl|12457|rotowire|635693|1788221050000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Blue went unclaimed on waivers after he was waived by Dallas. He'll add depth in the Eagles backfield. ",
+      "description": "Jaydon Blue is signing with the Eagles practice squad. ",
+      "metadata": {
+        "analysis": "Blue went unclaimed on waivers after he was waived by Dallas. He'll add depth in the Eagles backfield. ",
+        "description": "Jaydon Blue is signing with the Eagles practice squad. ",
+        "title": "Jaydon Blue signs with Eagles practice squad ",
+        "topic_id": "1400306998016249856",
+        "url": "https://www.fantasypros.com/nfl/news/605162/jaydon-blue-signs-with-eagles-practice-squad.php"
+      },
+      "nfl_team": null,
+      "player_id": "12457",
+      "player_name": "Jaydon Blue",
+      "position": "RB",
+      "published": 1788221714084,
+      "source": "fantasy_pros",
+      "source_key": "605162",
+      "story_id": "nfl|12457|fantasy_pros|605162|1788221714084",
+      "title": "Jaydon Blue signs with Eagles practice squad ",
+      "url": "https://www.fantasypros.com/nfl/news/605162/jaydon-blue-signs-with-eagles-practice-squad.php"
+    },
+    {
+      "analysis": "A fifth-round pick of the Cowboys in 2025, Blue got some run as a rookie to the tune of 38 carries for 129 yards (3.4 YPC) and one touchdown in five regular-season appearances. Following the 2026 preseason, though, Dallas opted to waive him Sunday and then didn't included him among the team's practice-squad signings Monday. Blue thus will move on to an NFC East foe, where he'll be a candidate for elevation if any of Saquon Barkley, Tank Bigsby or Will Shipley need time on the sideline.",
+      "description": "Blue is slated to sign with the Eagles' practice squad, Adam Schefter of ESPN reports.",
+      "metadata": {
+        "analysis": "A fifth-round pick of the Cowboys in 2025, Blue got some run as a rookie to the tune of 38 carries for 129 yards (3.4 YPC) and one touchdown in five regular-season appearances. Following the 2026 preseason, though, Dallas opted to waive him Sunday and then didn't included him among the team's practice-squad signings Monday. Blue thus will move on to an NFC East foe, where he'll be a candidate for elevation if any of Saquon Barkley, Tank Bigsby or Will Shipley need time on the sideline.",
+        "description": "Blue is slated to sign with the Eagles' practice squad, Adam Schefter of ESPN reports.",
+        "title": "Jaydon Blue - Heading to Philly",
+        "topic_id": "1400305748721831936"
+      },
+      "nfl_team": null,
+      "player_id": "12457",
+      "player_name": "Jaydon Blue",
+      "position": "RB",
+      "published": 1788221050000,
+      "source": "rotowire",
+      "source_key": "635693",
+      "story_id": "nfl|12457|rotowire|635693|1788221050000",
+      "title": "Jaydon Blue - Heading to Philly",
+      "url": null
+    },
     {
       "analysis": "Nacua returned to practice Sunday and is slowly ramping things back up 10 days ahead of the Rams' Week 1 opener against the 49ers in Australia on Thursday, Sept. 10. The star wideout has missed a sizable chunk of the summer, but he and Matthew Stafford already have elite chemistry and should be able to pick things back up rather quickly when the games count. Nacua has been a locked-in first-round fantasy pick.",
       "description": "Nacua (groin) was off to the side for team drills at Monday's practice, Nate Atkins of The Athletic reports.",
@@ -236,6 +279,26 @@
       "story_id": "nfl|13302|fantasy_pros|605062|1788207014912",
       "title": "Adam Randall placed on IR",
       "url": "https://www.fantasypros.com/nfl/news/605062/adam-randall-placed-on-ir.php"
+    },
+    {
+      "analysis": null,
+      "description": "Former Dallas Cowboys running back Jaydon Blue, who was surprisingly released on Sunday, is signing with the Philadelphia Eagles' practice squad on Monday, a source told Adam Schefter of ESPN. The 22-year-old fifth-rounder last year from Texas disappointed in his first NFL season, carrying the ball only 38 times for 129 yards and a touchdown in five appearances for the Cowboys, but he had been impressive during training camp and the preseason before being cut on Sunday. The Eagles did not waste any time swooping up Blue as extra RB depth behind Saquon Barkley, Tank Bigsby, and Will Shipley. Blue will stay in the NFC East division, but his path to a backfield role will not get any easier with the move to Philadelphia. He is still young and has intriguing speed and pass-catching ability out of the backfield, which makes him stash-worthy in deep dynasty/keeper leagues.",
+      "metadata": {
+        "description": "Former Dallas Cowboys running back Jaydon Blue, who was surprisingly released on Sunday, is signing with the Philadelphia Eagles' practice squad on Monday, a source told Adam Schefter of ESPN. The 22-year-old fifth-rounder last year from Texas disappointed in his first NFL season, carrying the ball only 38 times for 129 yards and a touchdown in five appearances for the Cowboys, but he had been impressive during training camp and the preseason before being cut on Sunday. The Eagles did not waste any time swooping up Blue as extra RB depth behind Saquon Barkley, Tank Bigsby, and Will Shipley. Blue will stay in the NFC East division, but his path to a backfield role will not get any easier with the move to Philadelphia. He is still young and has intriguing speed and pass-catching ability out of the backfield, which makes him stash-worthy in deep dynasty/keeper leagues.",
+        "title": "Jaydon Blue Stays in NFC East, Joins Eagles' Practice Squad",
+        "topic_id": "1400306990948855808",
+        "url": "https://www.rotoballer.com/player-news/jaydon-blue-stays-in-nfc-east-joins-eagles-practice-squad/1920756"
+      },
+      "nfl_team": null,
+      "player_id": "12457",
+      "player_name": "Jaydon Blue",
+      "position": "RB",
+      "published": 1788206711000,
+      "source": "rotoballer",
+      "source_key": "219835",
+      "story_id": "nfl|12457|rotoballer|219835|1788206711000",
+      "title": "Jaydon Blue Stays in NFC East, Joins Eagles' Practice Squad",
+      "url": "https://www.rotoballer.com/player-news/jaydon-blue-stays-in-nfc-east-joins-eagles-practice-squad/1920756"
     },
     {
       "analysis": "Flowers is dealing with a lower body injury. It does not appear that his status for Week 1 is in doubt as of now. ",
