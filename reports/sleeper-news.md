@@ -3,7 +3,7 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1475**
-- Newly captured: **2**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -16,11 +16,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Nacua returned to practice Sunday and is slowly ramping things back up 10 days ahead of the Rams' Week 1 opener against the 49ers in Australia on Thursday, Sept. 10. The star wideout has missed a sizable chunk of the summer, but he and Matthew Stafford already have elite chemistry and should be able to pick things back up rather quickly when the games count. Nacua has been a locked-in first-round fantasy pick.
 - **Marvin Mims** — Marvin Mims - Not practicing Monday (2026-08-31T22:10:20Z)
   - Mims suffered a bruised foot in the team's preseason finale against the Vikings on Friday, and he doesn't appear to be ready to return to practice quite yet. The Broncos are two weeks away from their regular-season opener against the Chiefs on Sept. 14, and the wide receiver will have a few more chances to return to practice this week.
-- **NEW — Carson Beck** — Carson Beck Returns to Practice on Monday (2026-08-31T21:59:11Z)
+- **Carson Beck** — Carson Beck Returns to Practice on Monday (2026-08-31T21:59:11Z)
   - Source: https://www.rotoballer.com/player-news/carson-beck-returns-to-practice-on-monday/1920902
 - **Malik Nabers** — Malik Nabers - Non-committal when asked about Week 1 (2026-08-31T21:51:14Z)
   - Nabers has been practicing all summer and even ditched his red non-contact jersey last week, but the star wide receiver admitted he still has checkpoints to clear before getting the green light to play in a regular-season game. "I'm gonna be making sure that I'm ready to go out there and I'm healthy enough to play all four quarters," Nabers said Monday. The Giants host the Cowboys on Sunday Night Football in 13 days. There should be a clearer picture of Nabers' availability for that game when the Giants kick off Week 1 prep work next week.
-- **NEW — Terrance Ferguson** — Rams Being Cautious with Terrance Ferguson (2026-08-31T21:49:05Z)
+- **Terrance Ferguson** — Rams Being Cautious with Terrance Ferguson (2026-08-31T21:49:05Z)
   - Source: https://www.rotoballer.com/player-news/rams-being-cautious-with-terrance-ferguson/1920899
 - **Keaton Mitchell** — Keaton Mitchell - Working off to side Monday (2026-08-31T21:38:39Z)
   - Mitchell is missing his fourth straight practice due to an unspecified injury, but it sounds like he's getting closer to a return to the field after getting in some work on a side field. Chargers GM Joe Hortiz added that he anticipates Mitchell playing Week 1 against the Cardinals. The Chargers are expected to utilize all three of Omarion Hampton, Mitchell and Kimani Vidal out of the backfield this season, though Hampton is the clear lead back and possesses the most upside from a fantasy perspective. Mitchell, when healthy, will likely handle a handful of weekly touches to showcase his speed and playmaking while giving Hampton a breather. Mitchell is looking like a fantasy bench stash to open the 2026 season.
