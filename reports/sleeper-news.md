@@ -3,11 +3,11 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1537**
-- Newly captured: **1**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Luther Burden** — Luther Burden - Practicing Tuesday (2026-09-01T18:45:29Z)
+- **Luther Burden** — Luther Burden - Practicing Tuesday (2026-09-01T18:45:29Z)
   - After suffering a groin injury during an Aug. 8 practice, Burden was expected to be sidelined for about one month, putting his availability for Week 1 in question. Since then, he missed the Bears' entire preseason slate but returned to individual drills last Wednesday, so his ability to remain on the practice field this week generally is a good sign in his recovery. Chicago takes on the Panthers on the road in the regular-season opener on Sunday, Sept. 13.
 - **Kyle Monangai** — Kyle Monangai - Remains 'week-to-week' (2026-09-01T18:36:39Z)
   - Monangai experienced a scare during the aforementioned session, when he was tackled from behind by Bears defensive tackle Grady Jarrett. Initially, Monangai's right knee was deemed to be structurally sound, and he was dealing with only a hyperextension, but he remains in the week-to-week category via Johnson just as he was two weeks ago. As such, Monangai could be in danger of being limited or even sidelined for the Bears' season opener Sunday, Sept. 13 at Carolina. Roschon Johnson would receive a bump in relevance behind D'Andre Swift in such a scenario.

@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-01T18:54:21Z",
+  "last_checked_at": "2026-09-01T19:07:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
-  "new_story_ids": [
-    "nfl|12519|rotowire|635844|1788288329000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -827,10 +825,10 @@
     },
     {
       "analysis": "Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back is scheduled to make his first appearance in court Nov. 17 and won't be eligible to practice or play while he remains on the exempt list, though head coach Matt LaFleur said Tuesday that Jacobs will be present at the team facility, per Rob Demovsky of ESPN.com. While Jacobs is out, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson as their available backfield options, with Lloyd being the favorite to lead the trio in touches.",
-      "description": "General manager Brian Gutekunst said Tuesday that he anticipates Jacobs (groin) playing for the Packers at some point in 2026, Matt Schneidman of The Athletic reports.",
+      "description": "General manager Brian Gutekunst said Tuesday that he anticipates Jacobs (personal) playing for the Packers at some point in 2026, Matt Schneidman of The Athletic reports.",
       "metadata": {
         "analysis": "Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back is scheduled to make his first appearance in court Nov. 17 and won't be eligible to practice or play while he remains on the exempt list, though head coach Matt LaFleur said Tuesday that Jacobs will be present at the team facility, per Rob Demovsky of ESPN.com. While Jacobs is out, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson as their available backfield options, with Lloyd being the favorite to lead the trio in touches.",
-        "description": "General manager Brian Gutekunst said Tuesday that he anticipates Jacobs (groin) playing for the Packers at some point in 2026, Matt Schneidman of The Athletic reports.",
+        "description": "General manager Brian Gutekunst said Tuesday that he anticipates Jacobs (personal) playing for the Packers at some point in 2026, Matt Schneidman of The Athletic reports.",
         "title": "Josh Jacobs - GM expects him to play in 2026",
         "topic_id": "1400524704241995776"
       },
