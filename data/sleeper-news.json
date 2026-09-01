@@ -1,27 +1,10 @@
 {
-  "last_checked_at": "2026-09-01T21:25:30Z",
+  "last_checked_at": "2026-09-01T21:38:48Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11581|rotoballer|219871|1788272348000",
-    "nfl|12518|rotoballer|219880|1788268386000",
-    "nfl|12519|rotoballer|219865|1788276366000",
-    "nfl|12529|rotoballer|219870|1788272831000",
-    "nfl|12534|rotoballer|219867|1788274811000",
-    "nfl|13279|rotoballer|219864|1788277188000",
-    "nfl|4034|rotoballer|219882|1788282610000",
-    "nfl|6801|rotoballer|219869|1788273392000",
-    "nfl|6904|rotoballer|219876|1788269944000",
-    "nfl|7564|rotoballer|219872|1788271866000",
-    "nfl|7594|rotoballer|219881|1788267912000",
-    "nfl|8134|rotoballer|219863|1788278022000",
-    "nfl|8142|rotoballer|219879|1788269230000",
-    "nfl|8150|rotoballer|219878|1788269345000",
-    "nfl|8205|rotoballer|219862|1788280588000",
-    "nfl|9493|rotoballer|219866|1788275647000",
-    "nfl|9500|rotoballer|219877|1788269829000",
-    "nfl|9502|rotoballer|219874|1788270545000",
-    "nfl|9758|rotoballer|219868|1788274267000"
+    "nfl|11632|rotoballer|219883|1788283210000",
+    "nfl|11655|rotoballer|219884|1788283749000"
   ],
   "schema_version": 1,
   "source": {
@@ -518,6 +501,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "New York Giants running back Tyrone Tracy Jr. (neck) was participating in a red, non-contact jersey at Tuesday's practice, according to Dan Duggan of The Athletic. Tracy is practicing this week, albeit in limited fashion, after suffering a stinger in the preseason finale last Friday. He managed to avoid a major injury going into the start of the 2026 regular season, but Tracy's fantasy stock is down for other reasons. The Giants signed veteran back Najee Harris last week, and they envision him having a big role in their backfield, which means more competition for touches for the 26-year-old Tracy. The G-Men also have Cam Skattebo, who is expected to lead the backfield in early-down work in his sophomore season. Tracy had 839 rushing yards and five touchdowns on 192 carries, adding 38 catches for 284 yards and a TD as a receiver in 17 games as a rookie, but he regressed to 740 rushing yards and two TDs on 176 carries in 2025, adding 36 receptions for 288 yards and two receiving scores in 15 games. On top of the presence of Harris, Tracy might not be 100% healthy going into a Week 1 showdown against the Dallas Cowboys on Sunday night. RotoBaller has Tracy currently ranked as the No. 68 fantasy RB.",
+      "metadata": {
+        "description": "New York Giants running back Tyrone Tracy Jr. (neck) was participating in a red, non-contact jersey at Tuesday's practice, according to Dan Duggan of The Athletic. Tracy is practicing this week, albeit in limited fashion, after suffering a stinger in the preseason finale last Friday. He managed to avoid a major injury going into the start of the 2026 regular season, but Tracy's fantasy stock is down for other reasons. The Giants signed veteran back Najee Harris last week, and they envision him having a big role in their backfield, which means more competition for touches for the 26-year-old Tracy. The G-Men also have Cam Skattebo, who is expected to lead the backfield in early-down work in his sophomore season. Tracy had 839 rushing yards and five touchdowns on 192 carries, adding 38 catches for 284 yards and a TD as a receiver in 17 games as a rookie, but he regressed to 740 rushing yards and two TDs on 176 carries in 2025, adding 36 receptions for 288 yards and two receiving scores in 15 games. On top of the presence of Harris, Tracy might not be 100% healthy going into a Week 1 showdown against the Dallas Cowboys on Sunday night. RotoBaller has Tracy currently ranked as the No. 68 fantasy RB.",
+        "title": "Tyrone Tracy Jr. in a Non-Contact Jersey on Tuesday",
+        "topic_id": "1400629152905719808",
+        "url": "https://www.rotoballer.com/player-news/tyrone-tracy-jr-in-a-non-contact-jersey-on-tuesday/1921413"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11655",
+      "player_name": "Tyrone Tracy",
+      "position": "RB",
+      "published": 1788283749000,
+      "source": "rotoballer",
+      "source_key": "219884",
+      "story_id": "nfl|11655|rotoballer|219884|1788283749000",
+      "title": "Tyrone Tracy Jr. in a Non-Contact Jersey on Tuesday",
+      "url": "https://www.rotoballer.com/player-news/tyrone-tracy-jr-in-a-non-contact-jersey-on-tuesday/1921413"
+    },
+    {
       "analysis": "It doesn't sound like anything serious for the 23-year-old running back after he played 20 offensive snaps during the preseason, rushing eight times for 23 yards and one touchdown. He also caught one pass for nine yards. Brooks is expected to form a committee with Chuba Hubbard (hamstring) this season, but there's a chance Brooks can separate some from Hubbard if he can show he's past the knee issues that ruined his 2024 and 2025 seasons after the Panthers selected Brooks in the second round of the 2024 Draft. Brooks is an upside pick in fantasy drafts.",
       "description": "Coach Dave Canales said Brooks missed practice Tuesday due to general soreness, Sheena Quick of Fox Sports Radio 1340 reports.",
       "metadata": {
@@ -536,6 +539,26 @@
       "story_id": "nfl|11583|rotowire|635835|1788283640000",
       "title": "Jonathon Brooks - Dealing with soreness Tuesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants wide receiver Malik Nabers (knee) was not at practice during the portion open to the media on Tuesday, but SNY's Connor Hughes reports that Nabers was later seen in pads as the media walked off the field. Nabers was also able to practice on Monday, so he continues to trend in the right direction for Week 1 of the regular season on Sunday night against the division-rival Dallas Cowboys on Sept. 13. Nabers was most likely limited in practice on Tuesday, but we will get a better idea of his Week 1 status once the Giants release their official practice reports, starting next Wednesday. The former first-rounder out of LSU tore both his ACL and MCL early last season, making for a more difficult recovery, and the Giants have been extra cautious with the star wideout this summer, even though he avoided the Physically Unable to Perform list at the start of camp. Nabers has high-end WR1 upside, but coming off a serious knee injury, fantasy managers are drafting him as more of a low-end WR1/high-end WR2 in the early rounds. If he is active for the season opener, it would not be a surprise if Nabers was on a strict snap count.",
+      "metadata": {
+        "description": "New York Giants wide receiver Malik Nabers (knee) was not at practice during the portion open to the media on Tuesday, but SNY's Connor Hughes reports that Nabers was later seen in pads as the media walked off the field. Nabers was also able to practice on Monday, so he continues to trend in the right direction for Week 1 of the regular season on Sunday night against the division-rival Dallas Cowboys on Sept. 13. Nabers was most likely limited in practice on Tuesday, but we will get a better idea of his Week 1 status once the Giants release their official practice reports, starting next Wednesday. The former first-rounder out of LSU tore both his ACL and MCL early last season, making for a more difficult recovery, and the Giants have been extra cautious with the star wideout this summer, even though he avoided the Physically Unable to Perform list at the start of camp. Nabers has high-end WR1 upside, but coming off a serious knee injury, fantasy managers are drafting him as more of a low-end WR1/high-end WR2 in the early rounds. If he is active for the season opener, it would not be a surprise if Nabers was on a strict snap count.",
+        "title": "Malik Nabers Gets Some Practice Work in on Tuesday",
+        "topic_id": "1400627894341873664",
+        "url": "https://www.rotoballer.com/player-news/malik-nabers-gets-some-practice-work-in-on-tuesday/1921409"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1788283210000,
+      "source": "rotoballer",
+      "source_key": "219883",
+      "story_id": "nfl|11632|rotoballer|219883|1788283210000",
+      "title": "Malik Nabers Gets Some Practice Work in on Tuesday",
+      "url": "https://www.rotoballer.com/player-news/malik-nabers-gets-some-practice-work-in-on-tuesday/1921409"
     },
     {
       "analysis": "Neither Williams nor Corum saw any action this preseason, as the Rams are notorious for resting their starters every summer, so it was difficult to get a clearer picture of the backfield situation outside of practice. By all accounts this offseason, the Rams want to up Corum's usage after he ate into Williams' workload following the bye last season. Following the Week 8 bye in 2025, Williams out-carried Corum 196 to 130 and out-targeted him 33 to 11. Also working in Williams' favor is coach Sean McVay's preference to use him near the goal line and on passing downs. Even with the talk of Corum getting more work, Williams looks like one of the better third-round fantasy picks playing in an offense that is expected to win a bunch of games while jockeying for the league lead in points scored.",
