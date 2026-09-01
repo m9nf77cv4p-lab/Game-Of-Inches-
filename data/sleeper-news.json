@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-01T05:46:57Z",
+  "last_checked_at": "2026-09-01T06:17:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|9500|rotoballer|219847|1788226719000"
+    "nfl|12508|rotoballer|219848|1788227226000",
+    "nfl|6790|rotoballer|219849|1788227655000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Chicago Bears running back D'Andre Swift had a solid 2025 season, tallying 1,087 rushing yards, 34 catches, 299 receiving yards, and 10 touchdowns. He saw his workload slip a little bit as Kyle Monangai took on a bigger role during the second half, but Swift still had control of the backfield by season's end. While Monangai is trending up ahead of 2026, it's hard to imagine the Bears shifting away from a backfield dynamic that clearly worked last year. Swift was highly efficient, and although he did share plenty of snaps and volume with Monangai, there's no doubt that he could have handled an every-down role if necessary. Having Monangai by his side to lighten his load and keep his legs fresh could actually be key for Swift heading into his age-27 season. The seventh-year NFL veteran may no longer be pushing for 20 touches per game, but with high efficiency on the ground and a persistent nose for the end zone, he's still a legitimate RB2 option in all fantasy leagues. The experts agree, as Swift ranks as the overall RB17 in RotoBaller's latest 2026 fantasy football rankings for redraft leagues.",
+      "metadata": {
+        "description": "Chicago Bears running back D'Andre Swift had a solid 2025 season, tallying 1,087 rushing yards, 34 catches, 299 receiving yards, and 10 touchdowns. He saw his workload slip a little bit as Kyle Monangai took on a bigger role during the second half, but Swift still had control of the backfield by season's end. While Monangai is trending up ahead of 2026, it's hard to imagine the Bears shifting away from a backfield dynamic that clearly worked last year. Swift was highly efficient, and although he did share plenty of snaps and volume with Monangai, there's no doubt that he could have handled an every-down role if necessary. Having Monangai by his side to lighten his load and keep his legs fresh could actually be key for Swift heading into his age-27 season. The seventh-year NFL veteran may no longer be pushing for 20 touches per game, but with high efficiency on the ground and a persistent nose for the end zone, he's still a legitimate RB2 option in all fantasy leagues. The experts agree, as Swift ranks as the overall RB17 in RotoBaller's latest 2026 fantasy football rankings for redraft leagues.",
+        "title": "D'Andre Swift Should Remain an RB2 for Fantasy Managers in 2026",
+        "topic_id": "1400393824076881920",
+        "url": "https://www.rotoballer.com/player-news/dandre-swift-should-remain-an-rb2-for-fantasy-managers-in-2026/1920946"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1788227655000,
+      "source": "rotoballer",
+      "source_key": "219849",
+      "story_id": "nfl|6790|rotoballer|219849|1788227655000",
+      "title": "D'Andre Swift Should Remain an RB2 for Fantasy Managers in 2026",
+      "url": "https://www.rotoballer.com/player-news/dandre-swift-should-remain-an-rb2-for-fantasy-managers-in-2026/1920946"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants quarterback Jaxson Dart has the potential to rank as a top-12 fantasy quarterback for the 2026 season. Dart impressed as a rookie last season, tallying 2,272 passing yards, 15 passing touchdowns, and five interceptions. He also tallied 487 rushing yards and nine rushing touchdowns. The rushing productivity did most of the heavy lifting in Dart's fantasy ranking, but the return of wide receiver Malik Nabers also helped. Nabers is working his way back from an ACL tear, and his availability has propped up his quarterback's fantasy outlook for the upcoming season. Dart is now healthy, and there's no sign that he'll need to miss any time in 2026. With the clean bill of health headed his way, we expect Dart to run the football just as much as he did last year, even if doing so comes with inherent risk. Managers will cross their fingers and hope that that risk pays off with Dart finishing the year as a QB1 in fantasy football.",
+      "metadata": {
+        "description": "New York Giants quarterback Jaxson Dart has the potential to rank as a top-12 fantasy quarterback for the 2026 season. Dart impressed as a rookie last season, tallying 2,272 passing yards, 15 passing touchdowns, and five interceptions. He also tallied 487 rushing yards and nine rushing touchdowns. The rushing productivity did most of the heavy lifting in Dart's fantasy ranking, but the return of wide receiver Malik Nabers also helped. Nabers is working his way back from an ACL tear, and his availability has propped up his quarterback's fantasy outlook for the upcoming season. Dart is now healthy, and there's no sign that he'll need to miss any time in 2026. With the clean bill of health headed his way, we expect Dart to run the football just as much as he did last year, even if doing so comes with inherent risk. Managers will cross their fingers and hope that that risk pays off with Dart finishing the year as a QB1 in fantasy football.",
+        "title": "Jaxson Dart Flashes QB1 Appeal for 2026",
+        "topic_id": "1400392566641287168",
+        "url": "https://www.rotoballer.com/player-news/jaxson-dart-flashes-qb1-appeal-for-2026/1920944"
+      },
+      "nfl_team": "NYG",
+      "player_id": "12508",
+      "player_name": "Jaxson Dart",
+      "position": "QB",
+      "published": 1788227226000,
+      "source": "rotoballer",
+      "source_key": "219848",
+      "story_id": "nfl|12508|rotoballer|219848|1788227226000",
+      "title": "Jaxson Dart Flashes QB1 Appeal for 2026",
+      "url": "https://www.rotoballer.com/player-news/jaxson-dart-flashes-qb1-appeal-for-2026/1920944"
+    },
     {
       "analysis": null,
       "description": "Indianapolis Colts wide receiver Josh Downs entered this offseason as one of the biggest risers in football. The offense was trending up, Daniel Jones was returning from injury, and Downs took a step up the depth chart after Michael Pittman Jr. was traded to Pittsburgh. As a result, his ADP rose steadily throughout the summer, and he's now looking to replicate his five-touchdown performance as the overall WR35 in PPR 2024. The bad news is that the Colts extended Alec Pierce as their No. 1 receiver and recently signed Keenan Allen to be their projected No. 2 receiver, leaving Downs in a relatively unfavorable role. We also can't forget that the Colts have Tyler Warren to offer a major boost at the tight end position. While there's no denying that Downs is quite talented, he has been holding pretty steady at his ADP of 102.9, which ranks him as the overall WR41 in PPR leagues for this season.",

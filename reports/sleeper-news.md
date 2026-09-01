@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1482**
-- Newly captured: **1**
+- Stored stories: **1484**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Josh Downs** — Josh Downs' ADP Sits Steady in Ninth Round (2026-09-01T01:38:39Z)
+- **NEW — D'Andre Swift** — D'Andre Swift Should Remain an RB2 for Fantasy Managers in 2026 (2026-09-01T01:54:15Z)
+  - Source: https://www.rotoballer.com/player-news/dandre-swift-should-remain-an-rb2-for-fantasy-managers-in-2026/1920946
+- **NEW — Jaxson Dart** — Jaxson Dart Flashes QB1 Appeal for 2026 (2026-09-01T01:47:06Z)
+  - Source: https://www.rotoballer.com/player-news/jaxson-dart-flashes-qb1-appeal-for-2026/1920944
+- **Josh Downs** — Josh Downs' ADP Sits Steady in Ninth Round (2026-09-01T01:38:39Z)
   - Source: https://www.rotoballer.com/player-news/josh-downs-adp-sits-steady-in-ninth-round/1920942
 - **Jonathon Brooks** — Jonathon Brooks Has a Chance to Take Over the Panthers' Backfield (2026-09-01T00:19:08Z)
   - Source: https://www.rotoballer.com/player-news/jonathon-brooks-has-a-chance-to-take-over-the-panthers-backfield/1920934
@@ -216,7 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Green was selected in the sixth round of this year's draft after finishing his college career at Arkansas in 2025. The quarterback saw limited action during the preseason, completing five of seven passes for 27 yards while also adding an eight-yard rush. The Browns placed Dillon Gabriel (back) on injured reserve with a designation to return Sunday, and Green will get a chance to serve as the team's No. 3 QB behind Deshaun Watson and Sanders in Gabriel's absence.
 - **Jadarian Price** — Jadarian Price Set for Lead Role to Begin Season (2026-08-30T20:42:10Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-set-for-lead-role-to-begin-season/1920038
-- **Terrance Ferguson** — Terrance Ferguson Remains Absent From Practice (2026-08-30T20:30:13Z)
-  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-remains-absent-from-practice/1920036
-- **Tank Dell** — Tank Dell Officially Starting the Season on Injured Reserve (2026-08-30T20:27:12Z)
-  - Source: https://www.rotoballer.com/player-news/tank-dell-officially-starting-the-season-on-injured-reserve/1920034
