@@ -1,10 +1,14 @@
 {
-  "last_checked_at": "2026-09-01T19:51:58Z",
+  "last_checked_at": "2026-09-01T20:03:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|7564|fantasy_pros|605355|1788291922854",
-    "nfl|9502|fantasy_pros|605356|1788291922839"
+    "nfl|11632|rotowire|635851|1788292227000",
+    "nfl|11655|rotowire|635852|1788292457000",
+    "nfl|12533|fantasy_pros|605368|1788292523023",
+    "nfl|1479|fantasy_pros|605367|1788292523042",
+    "nfl|4034|rotowire|635853|1788292758000",
+    "nfl|8134|fantasy_pros|605372|1788292822420"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +18,129 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "It is unclear what Shakir is dealing with. His status will need to be monitored the rest of this week and next week into Week 1. ",
+      "description": "Khalil Shakir did not practice on Tuesday. ",
+      "metadata": {
+        "analysis": "It is unclear what Shakir is dealing with. His status will need to be monitored the rest of this week and next week into Week 1. ",
+        "description": "Khalil Shakir did not practice on Tuesday. ",
+        "title": "Khalil Shakir (undisclosed) misses practice Tuesday ",
+        "topic_id": "1400605248011186176",
+        "url": "https://www.fantasypros.com/nfl/news/605372/khalil-shakir-undisclosed-misses-practice-tuesday.php"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8134",
+      "player_name": "Khalil Shakir",
+      "position": "WR",
+      "published": 1788292822420,
+      "source": "fantasy_pros",
+      "source_key": "605372",
+      "story_id": "nfl|8134|fantasy_pros|605372|1788292822420",
+      "title": "Khalil Shakir (undisclosed) misses practice Tuesday ",
+      "url": "https://www.fantasypros.com/nfl/news/605372/khalil-shakir-undisclosed-misses-practice-tuesday.php"
+    },
+    {
+      "analysis": "McCaffrey was able to run and catch passes Tuesday in full uniform, so it would appear he has not encountered any hiccups since returning to practice a little over a week ago. It has been a while since the last official update on McCaffrey's status, but it would appear he continues trending in the right direction ahead of Week 1.",
+      "description": "McCaffrey (undisclosed) suited up and went through drills at Tuesday's practice, according to Matt Lively of CBS Sports Bay Area.",
+      "metadata": {
+        "analysis": "McCaffrey was able to run and catch passes Tuesday in full uniform, so it would appear he has not encountered any hiccups since returning to practice a little over a week ago. It has been a while since the last official update on McCaffrey's status, but it would appear he continues trending in the right direction ahead of Week 1.",
+        "description": "McCaffrey (undisclosed) suited up and went through drills at Tuesday's practice, according to Matt Lively of CBS Sports Bay Area.",
+        "title": "Christian McCaffrey - Goes through drills Tuesday",
+        "topic_id": "1400605244307570688"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1788292758000,
+      "source": "rotowire",
+      "source_key": "635853",
+      "story_id": "nfl|4034|rotowire|635853|1788292758000",
+      "title": "Christian McCaffrey - Goes through drills Tuesday",
+      "url": null
+    },
+    {
+      "analysis": "Allen was arrested for DWI and DWI endangering a person on Sunday morning. He'll be in the WR4 range for fantasy managers heading into the season. ",
+      "description": "Colts GM Chris Ballard said Keenan Allen will play in Indianapolis' Week 1 game against the Ravens.",
+      "metadata": {
+        "analysis": "Allen was arrested for DWI and DWI endangering a person on Sunday morning. He'll be in the WR4 range for fantasy managers heading into the season. ",
+        "description": "Colts GM Chris Ballard said Keenan Allen will play in Indianapolis' Week 1 game against the Ravens.",
+        "title": "Keenan Allen will play in Week 1",
+        "topic_id": "1400603992324616192",
+        "url": "https://www.fantasypros.com/nfl/news/605367/keenan-allen-will-play-week-1.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "1479",
+      "player_name": "Keenan Allen",
+      "position": "WR",
+      "published": 1788292523042,
+      "source": "fantasy_pros",
+      "source_key": "605367",
+      "story_id": "nfl|1479|fantasy_pros|605367|1788292523042",
+      "title": "Keenan Allen will play in Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/605367/keenan-allen-will-play-week-1.php"
+    },
+    {
+      "analysis": "Croskey-Merritt was absent from practice for the past week. He should be on track to be good to go for Week 1. ",
+      "description": "Jacory Croskey-Merritt returned to practice on Tuesday.",
+      "metadata": {
+        "analysis": "Croskey-Merritt was absent from practice for the past week. He should be on track to be good to go for Week 1. ",
+        "description": "Jacory Croskey-Merritt returned to practice on Tuesday.",
+        "title": "Jacory Croskey-Merritt (groin) returns to practice ",
+        "topic_id": "1400603992249118720",
+        "url": "https://www.fantasypros.com/nfl/news/605368/jacory-croskey-merritt-groin-returns-to-practice.php"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1788292523023,
+      "source": "fantasy_pros",
+      "source_key": "605368",
+      "story_id": "nfl|12533|fantasy_pros|605368|1788292523023",
+      "title": "Jacory Croskey-Merritt (groin) returns to practice ",
+      "url": "https://www.fantasypros.com/nfl/news/605368/jacory-croskey-merritt-groin-returns-to-practice.php"
+    },
+    {
+      "analysis": "Tracy suffered a neck stinger in last Friday's preseason finale and avoided a major injury. Despite a rocky preseason and training camp under new coach John Harbaugh and OC Matt Nagy, Tracy still managed to make the Giants' 53-man roster. However, Najee Harris and Devin Singletary are also in the mix behind Cam Skattebo, leaving Tracy's actual role uncertain.",
+      "description": "Tracy (neck) is present at Tuesday's practice in a non-contact jersey, Dan Duggan of The Athletic reports.",
+      "metadata": {
+        "analysis": "Tracy suffered a neck stinger in last Friday's preseason finale and avoided a major injury. Despite a rocky preseason and training camp under new coach John Harbaugh and OC Matt Nagy, Tracy still managed to make the Giants' 53-man roster. However, Najee Harris and Devin Singletary are also in the mix behind Cam Skattebo, leaving Tracy's actual role uncertain.",
+        "description": "Tracy (neck) is present at Tuesday's practice in a non-contact jersey, Dan Duggan of The Athletic reports.",
+        "title": "Tyrone Tracy - Practicing in non-contact jersey",
+        "topic_id": "1400605244294987776"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11655",
+      "player_name": "Tyrone Tracy",
+      "position": "RB",
+      "published": 1788292457000,
+      "source": "rotowire",
+      "source_key": "635852",
+      "story_id": "nfl|11655|rotowire|635852|1788292457000",
+      "title": "Tyrone Tracy - Practicing in non-contact jersey",
+      "url": null
+    },
+    {
+      "analysis": "The apparent absence for Nabers may have raised some alarms after he said Monday he was unsure about his Week 1 availability, but it turns he was able to join Tuesday's session midway through. It's unclear how much work he will get in Tuesday, but it does bode well for his status that he was out there at all.",
+      "description": "Nabers (knee) was not spotted at the portion of Tuesday's practice open to the media, but he later took the field in uniform, according to Connor Hughes of SNY.tv.",
+      "metadata": {
+        "analysis": "The apparent absence for Nabers may have raised some alarms after he said Monday he was unsure about his Week 1 availability, but it turns he was able to join Tuesday's session midway through. It's unclear how much work he will get in Tuesday, but it does bode well for his status that he was out there at all.",
+        "description": "Nabers (knee) was not spotted at the portion of Tuesday's practice open to the media, but he later took the field in uniform, according to Connor Hughes of SNY.tv.",
+        "title": "Malik Nabers - Practices Tuesday despite early absence",
+        "topic_id": "1400603986586800128"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1788292227000,
+      "source": "rotowire",
+      "source_key": "635851",
+      "story_id": "nfl|11632|rotowire|635851|1788292227000",
+      "title": "Malik Nabers - Practices Tuesday despite early absence",
+      "url": null
+    },
     {
       "analysis": "Taylor added that he \"feels good about his progress.\" It sounds like Chase will be on track to be good to go for Week 1, but his status will need to be monitored in practice next week. ",
       "description": "Bengals coach Zac Taylor said Ja'Marr Chase will be \"limited this week.\" ",

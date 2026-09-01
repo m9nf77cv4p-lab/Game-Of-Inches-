@@ -2,15 +2,30 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1542**
-- Newly captured: **2**
+- Stored stories: **1548**
+- Newly captured: **6**
 
 ## Latest news
 
-- **NEW — Ja'Marr Chase** — Ja'Marr Chase (knee) to be limited in practice this week (2026-09-01T19:45:22.854000Z)
+- **NEW — Khalil Shakir** — Khalil Shakir (undisclosed) misses practice Tuesday  (2026-09-01T20:00:22.420000Z)
+  - It is unclear what Shakir is dealing with. His status will need to be monitored the rest of this week and next week into Week 1. 
+  - Source: https://www.fantasypros.com/nfl/news/605372/khalil-shakir-undisclosed-misses-practice-tuesday.php
+- **NEW — Christian McCaffrey** — Christian McCaffrey - Goes through drills Tuesday (2026-09-01T19:59:18Z)
+  - McCaffrey was able to run and catch passes Tuesday in full uniform, so it would appear he has not encountered any hiccups since returning to practice a little over a week ago. It has been a while since the last official update on McCaffrey's status, but it would appear he continues trending in the right direction ahead of Week 1.
+- **NEW — Keenan Allen** — Keenan Allen will play in Week 1 (2026-09-01T19:55:23.042000Z)
+  - Allen was arrested for DWI and DWI endangering a person on Sunday morning. He'll be in the WR4 range for fantasy managers heading into the season. 
+  - Source: https://www.fantasypros.com/nfl/news/605367/keenan-allen-will-play-week-1.php
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) returns to practice  (2026-09-01T19:55:23.023000Z)
+  - Croskey-Merritt was absent from practice for the past week. He should be on track to be good to go for Week 1. 
+  - Source: https://www.fantasypros.com/nfl/news/605368/jacory-croskey-merritt-groin-returns-to-practice.php
+- **NEW — Tyrone Tracy** — Tyrone Tracy - Practicing in non-contact jersey (2026-09-01T19:54:17Z)
+  - Tracy suffered a neck stinger in last Friday's preseason finale and avoided a major injury. Despite a rocky preseason and training camp under new coach John Harbaugh and OC Matt Nagy, Tracy still managed to make the Giants' 53-man roster. However, Najee Harris and Devin Singletary are also in the mix behind Cam Skattebo, leaving Tracy's actual role uncertain.
+- **NEW — Malik Nabers** — Malik Nabers - Practices Tuesday despite early absence (2026-09-01T19:50:27Z)
+  - The apparent absence for Nabers may have raised some alarms after he said Monday he was unsure about his Week 1 availability, but it turns he was able to join Tuesday's session midway through. It's unclear how much work he will get in Tuesday, but it does bode well for his status that he was out there at all.
+- **Ja'Marr Chase** — Ja'Marr Chase (knee) to be limited in practice this week (2026-09-01T19:45:22.854000Z)
   - Taylor added that he "feels good about his progress." It sounds like Chase will be on track to be good to go for Week 1, but his status will need to be monitored in practice next week. 
   - Source: https://www.fantasypros.com/nfl/news/605355/jamarr-chase-knee-to-be-limited-practice-this-week.php
-- **NEW — Tank Dell** — Tank Dell (knee) is 'close' but 'not quite there' (2026-09-01T19:45:22.839000Z)
+- **Tank Dell** — Tank Dell (knee) is 'close' but 'not quite there' (2026-09-01T19:45:22.839000Z)
   - Dell was placed on injured reserve, so he'll miss the first four games of the season. It is unclear when he'll be activated. 
   - Source: https://www.fantasypros.com/nfl/news/605356/tank-dell-knee-is-close-but-not-quite-there.php
 - **Jeremiyah Love** — Jeremiyah Love - Present Tuesday, but not practicing (2026-09-01T19:38:39Z)
@@ -218,15 +233,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
 - **Kenyon Sadiq** — Kenyon Sadiq - On track for Week 1 (2026-08-31T18:56:56Z)
   - Sadiq missed most of training camp and the entirety of the preseason, but the first-round rookie will now begin ramping up his activity level over the next 10 days to get ready for the regular-season opener. Sadiq isn't going to have an every-down role out of the gates for the Jets due to all of the missed practice time, and the expectation is Mason Taylor operates as more of an every-down tight end for New York. Sadiq is someone to monitor in fantasy leagues at the beginning of the season to see how his role grows in an offense starved for playmakers.
-- **Keaton Mitchell** — Keaton Mitchell Continues to Miss Practice (2026-08-31T18:37:44Z)
-  - Source: https://www.rotoballer.com/player-news/keaton-mitchell-continues-to-miss-practice/1920710
-- **Malik Nabers** — Malik Nabers Non-Committal on Week 1 Status (2026-08-31T18:30:12Z)
-  - Source: https://www.rotoballer.com/player-news/malik-nabers-non-committal-on-week-1-status/1920706
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Should Practice Next Week (2026-08-31T17:51:05Z)
-  - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-should-practice-next-week/1920687
-- **Kenyon Sadiq** — Kenyon Sadiq on Track to be Ready for Week 1 (2026-08-31T17:33:53Z)
-  - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-on-track-to-be-ready-for-week-1/1920672
-- **George Kittle** — George Kittle to be Eased into Practice This Week (2026-08-31T17:29:08Z)
-  - Source: https://www.rotoballer.com/player-news/george-kittle-to-be-eased-into-practice-this-week/1920662
-- **Jeremiyah Love** — Jeremiyah Love "Progressing Really Well" Toward Playing in Week 1 (2026-08-31T17:22:08Z)
-  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-progressing-really-well-toward-playing-in-week-1/1920658
