@@ -2,13 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1549**
-- Newly captured: **1**
+- Stored stories: **1552**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Carnell Tate** — Carnell Tate - Working through stiffness (2026-09-01T20:09:30Z)
-  - It's unclear what kind of stiffness and soreness Tate is dealing with, but there's been no indication the first-round rookie wideout's status for Week 1 against the Jets is in any sort of danger. Tate played 38 offensive snaps during the preseason but failed to catch any of his six targets across the three exhibition contests. He's expected to serve as Cam Ward's top downfield weapon this season alongside slot man Wan'Dale Robinson (head), though Calvin Ridley is still in the mix at the position. There could be growing pains for Tate in 2026 in what is expected to be one of the lower scoring offenses in the league.
+- **NEW — Isiah Pacheco** — Isiah Pacheco (back/MCL) placed in injured reserve  (2026-09-01T20:30:22.994000Z)
+  - Pacheco will be sidelined for at least the first four games of the upcoming regular season, with his first opportunity to return coming ahead of a Week 5 contest against the Arizona Cardinals. Jacob Saylors will slide into the No. 2 running back role behind superstar Jahmyr Gibbs in the Lions backfield after an impressive preseason for the time being, with the Lions likely to add more depth to a shorthanded running backs room prior to the regular season.
+  - Source: https://www.fantasypros.com/nfl/news/605379/isiah-pacheco-backmcl-placed-injured-reserve.php
+- **NEW — Isiah Pacheco** — Isiah Pacheco - Moving to injured reserve (2026-09-01T20:28:47Z)
+  - Pacheco joined Detroit in March on a one-year contract to serve as Jahmyr Gibbs' primary backup. He initially missed time during training camp due to a sprained MCL before a back injury forced him to miss at least the first four games of the campaign while on IR. Currently, the Lions roster Sione Vaki, Jacob Saylors and Jabari Small as options to spell Gibbs from Weeks 1-4.
+- **NEW — CeeDee Lamb** — CeeDee Lamb - Bullish for Year 2 of WR tandem with Pickens (2026-09-01T20:28:11Z)
+  - The presence of Pickens will make it difficult for Lamb to reclaim the elevated target shares he enjoyed earlier in his career, but better overall health might be enough for the latter receiver to bounce back to some degree in 2026. Despite missing nearly full four games because of a sprained ankle along with sitting out the second half of another game due to a concussion, Lamb still hauled in 75 receptions and finished with his fifth straight 1,000-plus-yard receiving season in 2025. Pickens, meanwhile, feasted when Lamb was limited to just seven total snaps from Weeks 3 through 6 (24-427-5 receiving line on 35 targets), and remained plenty useful for fantasy purposes in the Cowboys' other 13 games (69-1,002-4 line on 102 targets). Heading into the upcoming season, neither Lamb nor Pickens will face any major threats to their perch atop the pass-catching hierarchy, but after scoring a career-low three touchdowns in 2025, Lamb may need to poach more high-value targets from tight end Jake Ferguson in order to justify his first-round sticker price in fantasy drafts. Ferguson emerged as a trusted option for quarterback Dak Prescott in the red zone, finishing with a team-high 24 targets in that area and hitting paydirt eight times.
+- **Carnell Tate** — Carnell Tate - Working through stiffness (2026-09-01T20:09:30Z)
+  - There's been no indication the first-round rookie wideout's status for Week 1 against the Jets is in any sort of danger. Tate played 38 offensive snaps during the preseason but failed to catch any of his six targets across the three exhibition contests. He's expected to serve as Cam Ward's top downfield weapon this season alongside slot man Wan'Dale Robinson (head), though Calvin Ridley is still in the mix at the position. There could be growing pains for Tate in 2026 in what is expected to be one of the lower scoring offenses in the league.
 - **Khalil Shakir** — Khalil Shakir (undisclosed) misses practice Tuesday  (2026-09-01T20:00:22.420000Z)
   - It is unclear what Shakir is dealing with. His status will need to be monitored the rest of this week and next week into Week 1. 
   - Source: https://www.fantasypros.com/nfl/news/605372/khalil-shakir-undisclosed-misses-practice-tuesday.php
@@ -226,10 +233,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **DK Metcalf** — DK Metcalf will be available Week 1 (2026-08-31T19:20:14.517000Z)
   - Metcalf has been dealing with an undisclosed injury, but appears to be good to go. He is a strong flex play against the Falcons in Week 1.
   - Source: https://www.fantasypros.com/nfl/news/605039/dk-metcalf-will-be-available-week-1.php
-- **Michael Pittman** — Michael Pittman Jr. will be available Week 1 (2026-08-31T19:20:14.506000Z)
-  - Pittman has been dealing with a hamstring injury, but will still suit up in Week 1. He slots in as a low-end flex play in his Steelers debut against the Falcons.
-  - Source: https://www.fantasypros.com/nfl/news/605041/michael-pittman-jr-will-be-available-week-1.php
-- **Michael Pittman** — Michael Pittman - Expected to be fine for Week 1 (2026-08-31T19:17:26Z)
-  - Like teammate DK Metcalf (undisclosed), Pittman has missed a bunch of practice time this summer and didn't see any preseason action. However, Pittman was back on the practice field last week and will now have the next couple weeks to get ramped up for the Week 1 opener. Acquired from the Colts over the offseason, Pittman is expected to push Metcalf for the team lead in targets this season, but it's fair to wonder about Pittman's chemistry with Aaron Rodgers right out of the gates.
-- **DK Metcalf** — DK Metcalf - Expected to be ready for Week 1 (2026-08-31T19:13:12Z)
-  - Metcalf has been some sort of undisclosed ailment for much of the summer, but he returned to practice last week and is expected to be ready when the games count. Metcalf will be looking for a bounce-back 2026 season after he produced just 59 catches for 850 yards and six touchdowns across 15 regular-season contests last season, his first season with the Steelers. Metcalf is facing added competition for targets in the form of Michael Pittman (hamstring), who is also expected to be ready for the Week 1 opener.
