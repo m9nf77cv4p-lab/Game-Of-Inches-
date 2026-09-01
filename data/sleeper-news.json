@@ -1,10 +1,14 @@
 {
-  "last_checked_at": "2026-09-01T22:28:37Z",
+  "last_checked_at": "2026-09-01T22:41:33Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|13311|rotowire|635860|1788301075000",
-    "nfl|8154|rotoballer|219886|1788286566000"
+    "nfl|11597|fantasy_pros|605440|1788301823758",
+    "nfl|12527|fantasy_pros|605446|1788302424185",
+    "nfl|12527|rotoballer|219889|1788287528000",
+    "nfl|4035|fantasy_pros|605442|1788301823722",
+    "nfl|6786|rotoballer|219888|1788286928000",
+    "nfl|8154|rotowire|635861|1788301974000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +18,89 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "\"I expect him to be back as quick he can, maybe quicker than some people would expect,\" Spytek said. \"When that is, we'll see.\" Jeanty did not practice on Tuesday. The fact that he wasn't placed on IR is a positive sign. He could be back as soon as Week 1. ",
+      "description": "Raiders GM John Spytek said Ashton Jeanty is in a \"good spot\" and \"could return sooner than expected.\"",
+      "metadata": {
+        "analysis": "\"I expect him to be back as quick he can, maybe quicker than some people would expect,\" Spytek said. \"When that is, we'll see.\" Jeanty did not practice on Tuesday. The fact that he wasn't placed on IR is a positive sign. He could be back as soon as Week 1. ",
+        "description": "Raiders GM John Spytek said Ashton Jeanty is in a \"good spot\" and \"could return sooner than expected.\"",
+        "title": "Ashton Jeanty (ankle) receives positive update ",
+        "topic_id": "1400645520724140032",
+        "url": "https://www.fantasypros.com/nfl/news/605446/ashton-jeanty-ankle-receives-positive-update.php"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788302424185,
+      "source": "fantasy_pros",
+      "source_key": "605446",
+      "story_id": "nfl|12527|fantasy_pros|605446|1788302424185",
+      "title": "Ashton Jeanty (ankle) receives positive update ",
+      "url": "https://www.fantasypros.com/nfl/news/605446/ashton-jeanty-ankle-receives-positive-update.php"
+    },
+    {
+      "analysis": "\"He has shown a physical style in practice that cements his role as the new Tyler Allgeier,\" Kendall wrote about Robinson. \"Bijan Robinson fantasy managers may not like how many goal-line carries he gets.\" Allgeier, of course, was a thorn in the side of Bijan last season, out-carrying Robinson 19 to 17 inside the 10-yard line while matching him with seven carries apiece inside the five-yard line. Allgeier also punched in four of those seven carries for touchdowns, while Bijan scored on just two of his chances. Brian, at 6-foot-1 and 225 pounds, profiles similarly to Allgeier as a short-yardage, between-the-tackles, goal-line type who can get the tough yards. It sounds like he's going to have some sort of role in those situations for Atlanta this season, which could mute some of Bijan's touchdown upside.",
+      "description": "The Athletic's Josh Kendall expects Robinson to have a goal-line role for the Falcons this season.",
+      "metadata": {
+        "analysis": "\"He has shown a physical style in practice that cements his role as the new Tyler Allgeier,\" Kendall wrote about Robinson. \"Bijan Robinson fantasy managers may not like how many goal-line carries he gets.\" Allgeier, of course, was a thorn in the side of Bijan last season, out-carrying Robinson 19 to 17 inside the 10-yard line while matching him with seven carries apiece inside the five-yard line. Allgeier also punched in four of those seven carries for touchdowns, while Bijan scored on just two of his chances. Brian, at 6-foot-1 and 225 pounds, profiles similarly to Allgeier as a short-yardage, between-the-tackles, goal-line type who can get the tough yards. It sounds like he's going to have some sort of role in those situations for Atlanta this season, which could mute some of Bijan's touchdown upside.",
+        "description": "The Athletic's Josh Kendall expects Robinson to have a goal-line role for the Falcons this season.",
+        "title": "Brian Robinson - Expected to have role at goal line",
+        "topic_id": "1400644256867090432"
+      },
+      "nfl_team": "ATL",
+      "player_id": "8154",
+      "player_name": "Brian Robinson",
+      "position": "RB",
+      "published": 1788301974000,
+      "source": "rotowire",
+      "source_key": "635861",
+      "story_id": "nfl|8154|rotowire|635861|1788301974000",
+      "title": "Brian Robinson - Expected to have role at goal line",
+      "url": null
+    },
+    {
+      "analysis": "Johnson will have the next week and a half to get fully healthy for the start of the season. ",
+      "description": "Theo Johnson practiced on Tuesday wearing a non-contact jersey.",
+      "metadata": {
+        "analysis": "Johnson will have the next week and a half to get fully healthy for the start of the season. ",
+        "description": "Theo Johnson practiced on Tuesday wearing a non-contact jersey.",
+        "title": "Theo Johnson (shoulder) practices in non-contact jersey ",
+        "topic_id": "1400643002359164928",
+        "url": "https://www.fantasypros.com/nfl/news/605440/theo-johnson-shoulder-practices-non-contact-jersey.php"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11597",
+      "player_name": "Theo Johnson",
+      "position": "TE",
+      "published": 1788301823758,
+      "source": "fantasy_pros",
+      "source_key": "605440",
+      "story_id": "nfl|11597|fantasy_pros|605440|1788301823758",
+      "title": "Theo Johnson (shoulder) practices in non-contact jersey ",
+      "url": "https://www.fantasypros.com/nfl/news/605440/theo-johnson-shoulder-practices-non-contact-jersey.php"
+    },
+    {
+      "analysis": "It remains unclear when Kamara will be able to return. It is notable he wasn't placed on IR. ",
+      "description": "Alvin Kamara did not practice on Tuesday. ",
+      "metadata": {
+        "analysis": "It remains unclear when Kamara will be able to return. It is notable he wasn't placed on IR. ",
+        "description": "Alvin Kamara did not practice on Tuesday. ",
+        "title": "Alvin Kamara (knee) misses practice Tuesday ",
+        "topic_id": "1400643002203975680",
+        "url": "https://www.fantasypros.com/nfl/news/605442/alvin-kamara-knee-misses-practice-tuesday.php"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1788301823722,
+      "source": "fantasy_pros",
+      "source_key": "605442",
+      "story_id": "nfl|4035|fantasy_pros|605442|1788301823722",
+      "title": "Alvin Kamara (knee) misses practice Tuesday ",
+      "url": "https://www.fantasypros.com/nfl/news/605442/alvin-kamara-knee-misses-practice-tuesday.php"
+    },
     {
       "analysis": "Bell was cleared to return to full practice last week and ended up playing 14 offensive snaps in the Dolphins' preseason finale Friday, where he finished with two catches for 22 yards on five targets. After Miami traded Tutu Atwell to the Rams and dumped several other wideouts this past weekend, Bell is a candidate to see playing time out of the gates with the Dolphins, as he's competing with Malik Washington, Jalen Tolbert and fellow rookie Caleb Douglas for snaps at the position. Bell likely needs to improve his conditioning after a long rehab from ACL surgery.",
       "description": "Coach Jeff Hafley said Tuesday that Bell is still working on getting into football shape, Joe Schad of The Palm Beach Post reports.",
@@ -381,6 +468,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) was seen working off to the side during Tuesday's practice. This was the first time that Jeanty was seen doing work during a media viewing period since suffering his ankle injury. Raiders General Manager John Spytek recently said that Jeanty is in a good spot following his ankle injury, Ryan McFadden reports. Spytek continued by saying he expects Jeanty to be back in the mix quicker than people would expect. He didn't give an exact timetable, but the Raiders might not know exactly when Jeanty will be ready to play. Mike Washington Jr. could operate as the lead back in Las Vegas in Week 1, but that'll depend on Jeanty's progress over the next few days.",
+      "metadata": {
+        "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) was seen working off to the side during Tuesday's practice. This was the first time that Jeanty was seen doing work during a media viewing period since suffering his ankle injury. Raiders General Manager John Spytek recently said that Jeanty is in a good spot following his ankle injury, Ryan McFadden reports. Spytek continued by saying he expects Jeanty to be back in the mix quicker than people would expect. He didn't give an exact timetable, but the Raiders might not know exactly when Jeanty will be ready to play. Mike Washington Jr. could operate as the lead back in Las Vegas in Week 1, but that'll depend on Jeanty's progress over the next few days.",
+        "title": "Ashton Jeanty is in Good Spot with Ankle Injury",
+        "topic_id": "1400645513212096512",
+        "url": "https://www.rotoballer.com/player-news/ashton-jeanty-is-in-good-spot-with-ankle-injury/1921454"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788287528000,
+      "source": "rotoballer",
+      "source_key": "219889",
+      "story_id": "nfl|12527|rotoballer|219889|1788287528000",
+      "title": "Ashton Jeanty is in Good Spot with Ankle Injury",
+      "url": "https://www.rotoballer.com/player-news/ashton-jeanty-is-in-good-spot-with-ankle-injury/1921454"
+    },
+    {
       "analysis": "\"It's the best I've seen him this time of year,\" Johnson said last week. \"You look back at a year ago, he was very explosive, and yet it takes a little while to gel between him and the offensive line. I think he's accelerating his vision here at this point. I think [RBs] coach [Eric] Studesville has been fantastic for him just with the reads and being able to know the intent of where we're trying to hit things. He bounces it when we're supposed to bounce it. He hits it right on spot when it's there, then he cuts it up. I think he's doing a really good job right now. We just got to get into that first week nice and healthy and ready to go. I think he's primed for a big year, though.\" With Kyle Monangai (knee) still considered week-to-week 12 days out from the regular season, Swift could have a huge role early in the season. Running behind one of the best run-blocking offensive lines in the league and in an offense that wants to score boatloads of points, Swift has big upside as a fantasy RB2.",
       "description": "Coach Ben Johnson believes Swift is \"primed for a big year\" in 2026, Dan Wiederer of The Athletic reports.",
       "metadata": {
@@ -399,6 +506,26 @@
       "story_id": "nfl|6790|rotowire|635842|1788287171000",
       "title": "D'Andre Swift - Poised for big 2026",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver CeeDee Lamb recently spoke about how he believes both himself and George Pickens can improve this upcoming season. Lamb recently told Jon Machota of The Athletic that he believes the two of them can be extremely vicious together. Lamb said he knows both of them strive to be the best and there's much more in them. Despite missing four games, Lamb still finished with 75 receptions with over 1,000 receiving yards. The expectation is that Pickens will be more comfortable during his second year with the organization. This could be an extremely dangerous Cowboys offense this upcoming season.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver CeeDee Lamb recently spoke about how he believes both himself and George Pickens can improve this upcoming season. Lamb recently told Jon Machota of The Athletic that he believes the two of them can be extremely vicious together. Lamb said he knows both of them strive to be the best and there's much more in them. Despite missing four games, Lamb still finished with 75 receptions with over 1,000 receiving yards. The expectation is that Pickens will be more comfortable during his second year with the organization. This could be an extremely dangerous Cowboys offense this upcoming season.",
+        "title": "CeeDee Lamb Excited for Second Year with Star WR Teammate",
+        "topic_id": "1400642995304325121",
+        "url": "https://www.rotoballer.com/player-news/ceedee-lamb-is-excited-for-second-year-with-george-pickens/1921436"
+      },
+      "nfl_team": "DAL",
+      "player_id": "6786",
+      "player_name": "CeeDee Lamb",
+      "position": "WR",
+      "published": 1788286928000,
+      "source": "rotoballer",
+      "source_key": "219888",
+      "story_id": "nfl|6786|rotoballer|219888|1788286928000",
+      "title": "CeeDee Lamb Excited for Second Year with Star WR Teammate",
+      "url": "https://www.rotoballer.com/player-news/ceedee-lamb-is-excited-for-second-year-with-george-pickens/1921436"
     },
     {
       "analysis": null,

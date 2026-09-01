@@ -2,12 +2,23 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1576**
-- Newly captured: **2**
+- Stored stories: **1582**
+- Newly captured: **6**
 
 ## Latest news
 
-- **NEW — Chris Bell** — Chris Bell - Still working into football shape (2026-09-01T22:17:55Z)
+- **NEW — Ashton Jeanty** — Ashton Jeanty (ankle) receives positive update  (2026-09-01T22:40:24.185000Z)
+  - "I expect him to be back as quick he can, maybe quicker than some people would expect," Spytek said. "When that is, we'll see." Jeanty did not practice on Tuesday. The fact that he wasn't placed on IR is a positive sign. He could be back as soon as Week 1. 
+  - Source: https://www.fantasypros.com/nfl/news/605446/ashton-jeanty-ankle-receives-positive-update.php
+- **NEW — Brian Robinson** — Brian Robinson - Expected to have role at goal line (2026-09-01T22:32:54Z)
+  - "He has shown a physical style in practice that cements his role as the new Tyler Allgeier," Kendall wrote about Robinson. "Bijan Robinson fantasy managers may not like how many goal-line carries he gets." Allgeier, of course, was a thorn in the side of Bijan last season, out-carrying Robinson 19 to 17 inside the 10-yard line while matching him with seven carries apiece inside the five-yard line. Allgeier also punched in four of those seven carries for touchdowns, while Bijan scored on just two of his chances. Brian, at 6-foot-1 and 225 pounds, profiles similarly to Allgeier as a short-yardage, between-the-tackles, goal-line type who can get the tough yards. It sounds like he's going to have some sort of role in those situations for Atlanta this season, which could mute some of Bijan's touchdown upside.
+- **NEW — Theo Johnson** — Theo Johnson (shoulder) practices in non-contact jersey  (2026-09-01T22:30:23.758000Z)
+  - Johnson will have the next week and a half to get fully healthy for the start of the season. 
+  - Source: https://www.fantasypros.com/nfl/news/605440/theo-johnson-shoulder-practices-non-contact-jersey.php
+- **NEW — Alvin Kamara** — Alvin Kamara (knee) misses practice Tuesday  (2026-09-01T22:30:23.722000Z)
+  - It remains unclear when Kamara will be able to return. It is notable he wasn't placed on IR. 
+  - Source: https://www.fantasypros.com/nfl/news/605442/alvin-kamara-knee-misses-practice-tuesday.php
+- **Chris Bell** — Chris Bell - Still working into football shape (2026-09-01T22:17:55Z)
   - Bell was cleared to return to full practice last week and ended up playing 14 offensive snaps in the Dolphins' preseason finale Friday, where he finished with two catches for 22 yards on five targets. After Miami traded Tutu Atwell to the Rams and dumped several other wideouts this past weekend, Bell is a candidate to see playing time out of the gates with the Dolphins, as he's competing with Malik Washington, Jalen Tolbert and fellow rookie Caleb Douglas for snaps at the position. Bell likely needs to improve his conditioning after a long rehab from ACL surgery.
 - **Isiah Pacheco** — Isiah Pacheco (back/MCL) placed in injured reserve  (2026-09-01T20:30:22.994000Z)
   - Pacheco will be sidelined for at least the first four games of the upcoming regular season, with his first opportunity to return coming ahead of a Week 5 contest against the Arizona Cardinals. Jacob Saylors will slide into the No. 2 running back role behind superstar Jahmyr Gibbs in the Lions backfield after an impressive preseason for the time being, with the Lions likely to add more depth to a shorthanded running backs room prior to the regular season.
@@ -49,9 +60,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After suffering a groin injury during an Aug. 8 practice, Burden was expected to be sidelined for about one month, putting his availability for Week 1 in question. Since then, he missed the Bears' entire preseason slate but returned to individual drills last Wednesday, so his ability to remain on the practice field this week generally is a good sign in his recovery. Chicago takes on the Panthers on the road in the regular-season opener on Sunday, Sept. 13.
 - **Kyle Monangai** — Kyle Monangai - Remains 'week-to-week' (2026-09-01T18:36:39Z)
   - Monangai experienced a scare during the aforementioned session, when he was tackled from behind by Bears defensive tackle Grady Jarrett. Initially, Monangai's right knee was deemed to be structurally sound, and he was dealing with only a hyperextension, but he remains in the week-to-week category via Johnson just as he was two weeks ago. As such, Monangai could be in danger of being limited or even sidelined for the Bears' season opener Sunday, Sept. 13 at Carolina. Roschon Johnson would receive a bump in relevance behind D'Andre Swift in such a scenario.
+- **NEW — Ashton Jeanty** — Ashton Jeanty is in Good Spot with Ankle Injury (2026-09-01T18:32:08Z)
+  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-is-in-good-spot-with-ankle-injury/1921454
 - **D'Andre Swift** — D'Andre Swift - Poised for big 2026 (2026-09-01T18:26:11Z)
   - "It's the best I've seen him this time of year," Johnson said last week. "You look back at a year ago, he was very explosive, and yet it takes a little while to gel between him and the offensive line. I think he's accelerating his vision here at this point. I think [RBs] coach [Eric] Studesville has been fantastic for him just with the reads and being able to know the intent of where we're trying to hit things. He bounces it when we're supposed to bounce it. He hits it right on spot when it's there, then he cuts it up. I think he's doing a really good job right now. We just got to get into that first week nice and healthy and ready to go. I think he's primed for a big year, though." With Kyle Monangai (knee) still considered week-to-week 12 days out from the regular season, Swift could have a huge role early in the season. Running behind one of the best run-blocking offensive lines in the league and in an offense that wants to score boatloads of points, Swift has big upside as a fantasy RB2.
-- **NEW — Brian Robinson** — Brian Robinson to See Goal-Line Work in Atlanta? (2026-09-01T18:16:06Z)
+- **NEW — CeeDee Lamb** — CeeDee Lamb Excited for Second Year with Star WR Teammate (2026-09-01T18:22:08Z)
+  - Source: https://www.rotoballer.com/player-news/ceedee-lamb-is-excited-for-second-year-with-george-pickens/1921436
+- **Brian Robinson** — Brian Robinson to See Goal-Line Work in Atlanta? (2026-09-01T18:16:06Z)
   - Source: https://www.rotoballer.com/player-news/brian-robinson-to-see-goal-line-work-in-atlanta/1921432
 - **TreVeyon Henderson** — TreVeyon Henderson - Still awaiting clearance for all activity (2026-09-01T18:14:57Z)
   - Henderson made an early departure from practice last Monday, which has sidelined him in the meantime. Reiss mentioned that Henderson was spotted in the locker room this Tuesday and seemed to be "walking normally," but the Patriots will take it easy on the second-year pro as a Week 1 road showdown with the Seahawks approaches next Wednesday, Sept. 9.
@@ -213,16 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/zay-flowers-good-to-go-for-week-1/1921100
 - **Jeremiyah Love** — Jeremiyah Love Considered "50/50" to Play in Week 1 (2026-09-01T09:04:09Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-considered-50-50-to-play-in-week-1/1921064
-- **D'Andre Swift** — D'Andre Swift Should Remain an RB2 for Fantasy Managers in 2026 (2026-09-01T01:54:15Z)
-  - Source: https://www.rotoballer.com/player-news/dandre-swift-should-remain-an-rb2-for-fantasy-managers-in-2026/1920946
-- **Jaxson Dart** — Jaxson Dart Flashes QB1 Appeal for 2026 (2026-09-01T01:47:06Z)
-  - Source: https://www.rotoballer.com/player-news/jaxson-dart-flashes-qb1-appeal-for-2026/1920944
-- **Josh Downs** — Josh Downs' ADP Sits Steady in Ninth Round (2026-09-01T01:38:39Z)
-  - Source: https://www.rotoballer.com/player-news/josh-downs-adp-sits-steady-in-ninth-round/1920942
-- **Jonathon Brooks** — Jonathon Brooks Has a Chance to Take Over the Panthers' Backfield (2026-09-01T00:19:08Z)
-  - Source: https://www.rotoballer.com/player-news/jonathon-brooks-has-a-chance-to-take-over-the-panthers-backfield/1920934
-- **Jaydon Blue** — Jaydon Blue signs with Eagles practice squad  (2026-09-01T00:15:14.084000Z)
-  - Blue went unclaimed on waivers after he was waived by Dallas. He'll add depth in the Eagles backfield. 
-  - Source: https://www.fantasypros.com/nfl/news/605162/jaydon-blue-signs-with-eagles-practice-squad.php
-- **Terry McLaurin** — Terry McLaurin Has Clear Top-10 Upside if Injury Bug Stays Away (2026-09-01T00:14:10Z)
-  - Source: https://www.rotoballer.com/player-news/terry-mclaurin-has-clear-top-10-upside-if-injury-bug-stays-away/1920932
