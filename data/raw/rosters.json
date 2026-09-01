@@ -230,7 +230,9 @@
       "9486",
       "DAL"
     ],
-    "reserve": null,
+    "reserve": [
+      "8205"
+    ],
     "roster_id": 4,
     "settings": {
       "fpts": 0,

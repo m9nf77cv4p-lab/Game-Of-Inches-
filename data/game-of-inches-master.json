@@ -23662,8 +23662,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-01T20:45:56Z",
-    "source_fingerprint": "142446e0a6554f6da14d1bcccf57fa1792b98d3b3b3b435b309ce294389e32aa"
+    "last_changed_at": "2026-09-01T21:10:48Z",
+    "source_fingerprint": "12967f759d2f6dc44e6551caa9c92cdde9fb5decaeca838f3d60cd3031bfa2d1"
   },
   "teams": [
     {
@@ -23886,7 +23886,9 @@
         "9486",
         "DAL"
       ],
-      "reserve_ids": [],
+      "reserve_ids": [
+        "8205"
+      ],
       "roster_id": 4,
       "settings": {
         "fpts": 0,
