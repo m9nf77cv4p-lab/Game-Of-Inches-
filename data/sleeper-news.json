@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-01T23:03:17Z",
+  "last_checked_at": "2026-09-01T23:17:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11632|rotoballer|219892|1788288570000",
-    "nfl|9229|rotoballer|219890|1788288428000",
-    "nfl|9487|rotoballer|219891|1788288247000"
+    "nfl|13305|rotoballer|219893|1788289148000"
   ],
   "schema_version": 1,
   "source": {
@@ -423,6 +421,26 @@
       "story_id": "nfl|8134|rotowire|635846|1788289915000",
       "title": "Khalil Shakir - Still not practicing",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders running back Mike Washington Jr. is expected to have a significant role in the backfield this upcoming season. Raiders General Manager John Spytek recently praised head coach Klint Kubiak for drafting Washington. He also added that the team is counting on Washington to win games this upcoming season, Ryan McFadden reports. Lead back Ashton Jeanty (ankle) is uncertain for Week 1, so Washington could immediately slide into a large role in the offense. Once Jeanty is healthy, it sounds like Washington will remain a big part of the running game. The 23-year-old is becoming one of the more important handcuffs to roster in fantasy leagues.",
+      "metadata": {
+        "description": "Las Vegas Raiders running back Mike Washington Jr. is expected to have a significant role in the backfield this upcoming season. Raiders General Manager John Spytek recently praised head coach Klint Kubiak for drafting Washington. He also added that the team is counting on Washington to win games this upcoming season, Ryan McFadden reports. Lead back Ashton Jeanty (ankle) is uncertain for Week 1, so Washington could immediately slide into a large role in the offense. Once Jeanty is healthy, it sounds like Washington will remain a big part of the running game. The 23-year-old is becoming one of the more important handcuffs to roster in fantasy leagues.",
+        "title": "Raiders are Counting on Mike Washington Jr. to Win Games",
+        "topic_id": "1400651804722659328",
+        "url": "https://www.rotoballer.com/player-news/raiders-are-counting-on-mike-washington-jr-to-win-games/1921490"
+      },
+      "nfl_team": "LV",
+      "player_id": "13305",
+      "player_name": "Mike Washington",
+      "position": "RB",
+      "published": 1788289148000,
+      "source": "rotoballer",
+      "source_key": "219893",
+      "story_id": "nfl|13305|rotoballer|219893|1788289148000",
+      "title": "Raiders are Counting on Mike Washington Jr. to Win Games",
+      "url": "https://www.rotoballer.com/player-news/raiders-are-counting-on-mike-washington-jr-to-win-games/1921490"
     },
     {
       "analysis": null,

@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1585**
-- Newly captured: **3**
+- Stored stories: **1586**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -56,13 +56,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Coleman sustained a sprained right foot/toe in the Bills' preseason opener Aug. 15, but he ditched his low walking boot as of last Thursday and now appears set to mix back into drills. The extent of his activity Tuesday isn't known, but he still has nearly two weeks to get healthy ahead of a Week 1 road matchup with the Texans on Sunday, Sept. 13.
 - **Khalil Shakir** — Khalil Shakir - Still not practicing (2026-09-01T19:11:55Z)
   - Shakir was able to suit up for preseason Week 1 against the Panthers on Saturday, Aug. 15, hauling in both of his targets for 41 yards while playing eight offensive snaps. However, he's been out of drills since Aug. 20 and didn't suit up for the Bills' final two exhibitions due to an undisclosed injury. Buffalo opens the regular season on Sunday, Sept. 13 at Houston, giving him less than two weeks to get himself ready for game action.
-- **NEW — Malik Nabers** — Malik Nabers was Involved in Most of Tuesday's Practice (2026-09-01T18:49:30Z)
+- **NEW — Mike Washington** — Raiders are Counting on Mike Washington Jr. to Win Games (2026-09-01T18:59:08Z)
+  - Source: https://www.rotoballer.com/player-news/raiders-are-counting-on-mike-washington-jr-to-win-games/1921490
+- **Malik Nabers** — Malik Nabers was Involved in Most of Tuesday's Practice (2026-09-01T18:49:30Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-was-involved-in-most-of-tuesdays-practice/1921471
-- **NEW — Anthony Richardson** — Colts Expect Anthony Richardson Sr. to Remain With the Team This Year (2026-09-01T18:47:08Z)
+- **Anthony Richardson** — Colts Expect Anthony Richardson Sr. to Remain With the Team This Year (2026-09-01T18:47:08Z)
   - Source: https://www.rotoballer.com/player-news/colts-expect-anthony-richardson-sr-to-remain-with-the-team-this-year/1921467
 - **Luther Burden** — Luther Burden - Practicing Tuesday (2026-09-01T18:45:29Z)
   - After suffering a groin injury during an Aug. 8 practice, Burden was expected to be sidelined for about one month, putting his availability for Week 1 in question. Since then, he missed the Bears' entire preseason slate but returned to individual drills last Wednesday, so his ability to remain on the practice field this week generally is a good sign in his recovery. Chicago takes on the Panthers on the road in the regular-season opener on Sunday, Sept. 13.
-- **NEW — Parker Washington** — Parker Washington Could Discuss New Contract During Regular Season (2026-09-01T18:44:07Z)
+- **Parker Washington** — Parker Washington Could Discuss New Contract During Regular Season (2026-09-01T18:44:07Z)
   - Source: https://www.rotoballer.com/player-news/parker-washington-could-discuss-new-contract-during-regular-season/1921463
 - **Kyle Monangai** — Kyle Monangai - Remains 'week-to-week' (2026-09-01T18:36:39Z)
   - Monangai experienced a scare during the aforementioned session, when he was tackled from behind by Bears defensive tackle Grady Jarrett. Initially, Monangai's right knee was deemed to be structurally sound, and he was dealing with only a hyperextension, but he remains in the week-to-week category via Johnson just as he was two weeks ago. As such, Monangai could be in danger of being limited or even sidelined for the Bears' season opener Sunday, Sept. 13 at Carolina. Roschon Johnson would receive a bump in relevance behind D'Andre Swift in such a scenario.
@@ -226,5 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-remains-a-top-late-round-target/1921145
 - **Kenneth Walker** — Kenneth Walker Could Be Over-Hyped (2026-09-01T09:59:08Z)
   - Source: https://www.rotoballer.com/player-news/kenneth-walker-could-be-over-hyped/1921139
-- **Ted Hurst** — Ted Hurst III Earning a Larger Role for the Buccaneers (2026-09-01T09:45:15Z)
-  - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-earning-a-larger-role-for-the-buccaneers/1921126
