@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-01T19:31:18Z",
+  "last_checked_at": "2026-09-01T19:41:31Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11637|rotowire|635847|1788290622000"
+    "nfl|13287|rotowire|635850|1788291519000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Love has been tending to a high-ankle sprain since making his pro debut preseason Week 1, missing all practices and the Cardinals' final two exhibitions in the meantime. Coach Mike LaFleur told Josh Weinfuss of ESPN.com on Monday that Love is \"progressing really well\" toward being available Week 1. Nevertheless, Love's next step will be mixing into at least some drills to begin to put questions about his status for the regular-season opener on Sunday, Sept. 13 at the Chargers in the rearview mirror.",
+      "description": "Love (ankle) was spotted at Tuesday's practice but wasn't suited up, Theo Mackie of The Arizona Republic reports.",
+      "metadata": {
+        "analysis": "Love has been tending to a high-ankle sprain since making his pro debut preseason Week 1, missing all practices and the Cardinals' final two exhibitions in the meantime. Coach Mike LaFleur told Josh Weinfuss of ESPN.com on Monday that Love is \"progressing really well\" toward being available Week 1. Nevertheless, Love's next step will be mixing into at least some drills to begin to put questions about his status for the regular-season opener on Sunday, Sept. 13 at the Chargers in the rearview mirror.",
+        "description": "Love (ankle) was spotted at Tuesday's practice but wasn't suited up, Theo Mackie of The Arizona Republic reports.",
+        "title": "Jeremiyah Love - Present Tuesday, but not practicing",
+        "topic_id": "1400600210752684032"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788291519000,
+      "source": "rotowire",
+      "source_key": "635850",
+      "story_id": "nfl|13287|rotowire|635850|1788291519000",
+      "title": "Jeremiyah Love - Present Tuesday, but not practicing",
+      "url": null
+    },
     {
       "analysis": "Coleman sustained a sprained right foot/toe in the Bills' preseason opener Aug. 15, but he ditched his low walking boot as of last Thursday and now appears set to mix back into drills. The extent of his activity Tuesday isn't known, but he still has nearly two weeks to get healthy ahead of a Week 1 road matchup with the Texans on Sunday, Sept. 13.",
       "description": "Coleman (right foot/toe) was present at Tuesday's practice, Joe Buscaglia of The Athletic reports.",

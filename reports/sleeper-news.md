@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1539**
+- Stored stories: **1540**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Keon Coleman** — Keon Coleman - Gets back on practice field (2026-09-01T19:23:42Z)
+- **NEW — Jeremiyah Love** — Jeremiyah Love - Present Tuesday, but not practicing (2026-09-01T19:38:39Z)
+  - Love has been tending to a high-ankle sprain since making his pro debut preseason Week 1, missing all practices and the Cardinals' final two exhibitions in the meantime. Coach Mike LaFleur told Josh Weinfuss of ESPN.com on Monday that Love is "progressing really well" toward being available Week 1. Nevertheless, Love's next step will be mixing into at least some drills to begin to put questions about his status for the regular-season opener on Sunday, Sept. 13 at the Chargers in the rearview mirror.
+- **Keon Coleman** — Keon Coleman - Gets back on practice field (2026-09-01T19:23:42Z)
   - Coleman sustained a sprained right foot/toe in the Bills' preseason opener Aug. 15, but he ditched his low walking boot as of last Thursday and now appears set to mix back into drills. The extent of his activity Tuesday isn't known, but he still has nearly two weeks to get healthy ahead of a Week 1 road matchup with the Texans on Sunday, Sept. 13.
 - **Khalil Shakir** — Khalil Shakir - Still not practicing (2026-09-01T19:11:55Z)
   - Shakir was able to suit up for preseason Week 1 against the Panthers on Saturday, Aug. 15, hauling in both of his targets for 41 yards while playing eight offensive snaps. However, he's been out of drills since Aug. 20 and didn't suit up for the Bills' final two exhibitions due to an undisclosed injury. Buffalo opens the regular season on Sunday, Sept. 13 at Houston, giving him less than two weeks to get himself ready for game action.
@@ -226,5 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jayden-reed-well-positioned-to-bounce-back-in-2026/1920642
 - **Kyler Murray** — Kyler Murray Could Be Poised for Resurgent Season in Minnesota (2026-08-31T16:48:18Z)
   - Source: https://www.rotoballer.com/player-news/kyler-murray-could-be-poised-for-resurgent-season-in-minnesota/1920632
-- **Drake London** — Drake London Remains a Viable WR1 Option Despite QB Concerns (2026-08-31T16:36:08Z)
-  - Source: https://www.rotoballer.com/player-news/drake-london-remains-a-viable-wr1-option-despite-quarterback-questions-in-atlanta/1920620
