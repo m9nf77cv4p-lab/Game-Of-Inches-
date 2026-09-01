@@ -2,20 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1533**
-- Newly captured: **5**
+- Stored stories: **1534**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Alec Pierce** — Alec Pierce - Hopeful for Week 1 (2026-09-01T18:00:59Z)
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Still awaiting clearance for all activity (2026-09-01T18:14:57Z)
+  - Henderson made an early departure from practice last Monday, which has sidelined him in the meantime. Reiss mentioned that Henderson was spotted in the locker room this Tuesday and seemed to be "walking normally," but the Patriots will take it easy on the second-year pro as a Week 1 road showdown with the Seahawks approaches next Wednesday, Sept. 9.
+- **Alec Pierce** — Alec Pierce - Hopeful for Week 1 (2026-09-01T18:00:59Z)
   - Pierce was back on the practice field Tuesday, but it's unclear if he's truly been unleashed for full team drills as he makes his way back from offseason ankle surgery. He missed most of training camp and didn't see any preseason action, but the Colts are remaining optimistic their No. 1 receiver will be out there in 12 days against Baltimore. Indy has issues all over its offense, with Pierce, Josh Downs (calf) and Tyler Warren (groin) all dealing with ailments while Keenan Allen is 34 years old and just signed with the team two weeks ago.
-- **NEW — Tee Higgins** — Tee Higgins - Dealing with heel injury (2026-09-01T17:57:50Z)
+- **Tee Higgins** — Tee Higgins - Dealing with heel injury (2026-09-01T17:57:50Z)
   - With position mate Ja'Marr Chase currently recovering from a left knee injury that he suffered in practice last Tuesday, the top of the Bengals' receiving corps now is banged up. Fortunately for Higgins, he doesn't appear to have a serious injury, just one that he'll have to manage with a season-opening matchup with the Buccaneers on the horizon on Sunday, Sept. 13.
-- **NEW — Javonte Williams** — Javonte Williams - Locked atop depth chart after cuts (2026-09-01T17:52:54Z)
+- **Javonte Williams** — Javonte Williams - Locked atop depth chart after cuts (2026-09-01T17:52:54Z)
   - Dallas cut all three of Jaydon Blue, Phil Mafah and Israel Abanikanda as the roster was trimmed to 53 players over the weekend. Additionally, Williams didn't see any preseason action, suggesting the Cowboys are more than comfortable with his standing as the team's clear RB1. With Blue, Mafah and Abanikanda off the roster, the Cowboys are set to head into the regular season with Malik Davis and waiver pickup Emari Demercado as Williams' backups. Williams isn't a sexy pick in the third round of fantasy drafts, but he should be able to return that price with ease if he's seeing 18-22 opportunities per game like he did last season.
-- **NEW — Derrick Henry** — Derrick Henry - Joined by familiar complements in backfield (2026-09-01T17:52:11Z)
+- **Derrick Henry** — Derrick Henry - Joined by familiar complements in backfield (2026-09-01T17:52:11Z)
   - Though Keaton Mitchell is now with the Chargers after the Ravens non-tendered him back in the spring, Henry will be supported by a pair of familiar complements in Hill and Ali, both of whom were on the roster during Henry's first two seasons in Baltimore. Ali is expected to serve as the Ravens' primary kickoff returner and will see most of his snaps on special teams, while Hill returns to a familiar role as the top change-of-pace/pass-catching option in the backfield. Rookie fifth-round pick Adam Randall (undisclosed) could also factor into the equation at some point this season, though not until at least Week 5 after the Ravens placed him on injured reserve with a designation to return. The makeup of the Ravens backfield once again points to the 32-year-old Henry handling a workhorse role in 2026, after he averaged 19.6 touches and exactly one touchdown per game over the prior two seasons.
-- **NEW — Ja'Marr Chase** — Ja'Marr Chase - To be limited this week (2026-09-01T17:50:36Z)
+- **Ja'Marr Chase** — Ja'Marr Chase - To be limited this week (2026-09-01T17:50:36Z)
   - Chase injured his left knee at last Tuesday's session when he attempted to catch a deep ball and had an awkward landing. He exhibited a visible limp in the aftermath, but he later told Kelsey Conway of The Cincinnati Enquirer that it was a "little hyperextension," and he could have resumed practicing. Now that he's set to get back on the practice field after a week off of it, Chase will attempt to put the issue behind him ahead of a Week 1 matchup with the Buccaneers on Sunday, Sept. 13.
 - **Jonathon Brooks** — Jonathon Brooks - Dealing with soreness Tuesday (2026-09-01T17:27:20Z)
   - It doesn't sound like anything serious for the 23-year-old running back after he played 20 offensive snaps during the preseason, rushing eight times for 23 yards and one touchdown. He also caught one pass for nine yards. Brooks is expected to form a committee with Chuba Hubbard (hamstring) this season, but there's a chance Brooks can separate some from Hubbard if he can show he's past the knee issues that ruined his 2024 and 2025 seasons after the Panthers selected Brooks in the second round of the 2024 Draft. Brooks is an upside pick in fantasy drafts.
@@ -226,5 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/rico-dowdles-role-looks-safer-after-final-cuts/1920585
 - **Michael Pittman** — Michael Pittman Jr. Expected to be Ready to Go for Week 1 (2026-08-31T15:47:12Z)
   - Source: https://www.rotoballer.com/player-news/michael-pittman-jr-expected-to-be-ready-to-go-for-week-1/1920579
-- **Jordan Love** — Jordan Love Has Legitimate QB1 Upside at a QB2 Price (2026-08-31T15:32:10Z)
-  - Source: https://www.rotoballer.com/player-news/jordan-love-has-legitimate-qb1-upside-at-a-qb2-price/1920571
