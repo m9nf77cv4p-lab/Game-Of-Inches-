@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-01T01:28:47Z",
+  "last_checked_at": "2026-09-01T02:06:37Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|9493|rotoballer|219836|1788210730000"
+    "nfl|12487|rotoballer|219840|1788212945000",
+    "nfl|13272|rotoballer|219841|1788213551000"
   ],
   "schema_version": 1,
   "source": {
@@ -95,6 +96,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Arizona Cardinals quarterback Carson Beck (ribs) was back on the practice field on Monday, according to Josh Weinfuss of ESPN.com. Beck suffered a rib injury during the Hall of Fame game earlier in August. The third-round pick sat out of all three preseason contests, but is back on the field now. Beck is expected to be the third-string quarterback behind Gardner Minshew II and starter Jacoby Brissett to begin the season. There is a good chance that Beck does get into action during his rookie season, but he won't be a fantasy option right away.",
+      "metadata": {
+        "description": "Arizona Cardinals quarterback Carson Beck (ribs) was back on the practice field on Monday, according to Josh Weinfuss of ESPN.com. Beck suffered a rib injury during the Hall of Fame game earlier in August. The third-round pick sat out of all three preseason contests, but is back on the field now. Beck is expected to be the third-string quarterback behind Gardner Minshew II and starter Jacoby Brissett to begin the season. There is a good chance that Beck does get into action during his rookie season, but he won't be a fantasy option right away.",
+        "title": "Carson Beck Returns to Practice on Monday",
+        "topic_id": "1400334677092360192",
+        "url": "https://www.rotoballer.com/player-news/carson-beck-returns-to-practice-on-monday/1920902"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13272",
+      "player_name": "Carson Beck",
+      "position": "QB",
+      "published": 1788213551000,
+      "source": "rotoballer",
+      "source_key": "219841",
+      "story_id": "nfl|13272|rotoballer|219841|1788213551000",
+      "title": "Carson Beck Returns to Practice on Monday",
+      "url": "https://www.rotoballer.com/player-news/carson-beck-returns-to-practice-on-monday/1920902"
+    },
+    {
       "analysis": "Nabers has been practicing all summer and even ditched his red non-contact jersey last week, but the star wide receiver admitted he still has checkpoints to clear before getting the green light to play in a regular-season game. \"I'm gonna be making sure that I'm ready to go out there and I'm healthy enough to play all four quarters,\" Nabers said Monday. The Giants host the Cowboys on Sunday Night Football in 13 days. There should be a clearer picture of Nabers' availability for that game when the Giants kick off Week 1 prep work next week.",
       "description": "Nabers (knee) was non-committal Monday when asked about playing Week 1 against the Cowboys, Pat Leonard of the New York Daily News reports.",
       "metadata": {
@@ -113,6 +134,26 @@
       "story_id": "nfl|11632|rotowire|635627|1788213074000",
       "title": "Malik Nabers - Non-committal when asked about Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams tight end Terrance Ferguson (soreness) was seen working off to the side with the trainer during Monday's practice. According to Benjamin Royer, the Rams are taking the cautious approach with Ferguson right now. There are still 10 days before the season opener against the San Francisco 49ers. It doesn't sound like the Rams are going to push anything and give Ferguson a lighter workload for a few days. Fantasy managers don't need to be too concerned at the moment. Tyler Higbee, Colby Parkinson, and Max Klare would see larger roles if Ferguson is to miss any time.",
+      "metadata": {
+        "description": "Los Angeles Rams tight end Terrance Ferguson (soreness) was seen working off to the side with the trainer during Monday's practice. According to Benjamin Royer, the Rams are taking the cautious approach with Ferguson right now. There are still 10 days before the season opener against the San Francisco 49ers. It doesn't sound like the Rams are going to push anything and give Ferguson a lighter workload for a few days. Fantasy managers don't need to be too concerned at the moment. Tyler Higbee, Colby Parkinson, and Max Klare would see larger roles if Ferguson is to miss any time.",
+        "title": "Rams Being Cautious with Terrance Ferguson",
+        "topic_id": "1400333418692124672",
+        "url": "https://www.rotoballer.com/player-news/rams-being-cautious-with-terrance-ferguson/1920899"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12487",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "published": 1788212945000,
+      "source": "rotoballer",
+      "source_key": "219840",
+      "story_id": "nfl|12487|rotoballer|219840|1788212945000",
+      "title": "Rams Being Cautious with Terrance Ferguson",
+      "url": "https://www.rotoballer.com/player-news/rams-being-cautious-with-terrance-ferguson/1920899"
     },
     {
       "analysis": "Mitchell is missing his fourth straight practice due to an unspecified injury, but it sounds like he's getting closer to a return to the field after getting in some work on a side field. Chargers GM Joe Hortiz added that he anticipates Mitchell playing Week 1 against the Cardinals. The Chargers are expected to utilize all three of Omarion Hampton, Mitchell and Kimani Vidal out of the backfield this season, though Hampton is the clear lead back and possesses the most upside from a fantasy perspective. Mitchell, when healthy, will likely handle a handful of weekly touches to showcase his speed and playmaking while giving Hampton a breather. Mitchell is looking like a fantasy bench stash to open the 2026 season.",
