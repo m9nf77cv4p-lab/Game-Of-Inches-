@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-09-01T04:28:09Z",
+  "last_checked_at": "2026-09-01T05:21:55Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 279,
+  "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11583|rotoballer|219846|1788221948000",
-    "nfl|5927|rotoballer|219845|1788221650000",
-    "nfl|7526|rotoballer|219844|1788221348000"
+    "nfl|8259|rotoballer|219574|1787921347000",
+    "nfl|8259|rotowire|634336|1787352516000",
+    "nfl|8259|rotowire|635001|1787897704000"
   ],
   "schema_version": 1,
   "source": {
@@ -5919,6 +5919,26 @@
     },
     {
       "analysis": null,
+      "description": "Los Angeles Chargers head coach Jim Harbaugh said that placekicker Cameron Dicker (undisclosed) is \"working through something,\" according to Alex Insdorf. However, Harbaugh also said that he is not concerned with Dicker's injury. \"Just something that came up tonight,\" Harbaugh said after the team's preseason finale against the Los Angeles Rams. We will keep an eye on the 26-year-old kicker's status heading into the team's Week 1 regular-season opener against the Arizona Cardinals, but it sounds like he should be just fine to kick to begin the season. The former Texas product should be considered a top-five fantasy kicker in a Chargers offense that could be much more explosive under new coordinator Mike McDaniel in 2026. Dicker was a first-time Pro Bowler last year after making 92.7% of his 41 field-goal attempts (5-for-6 from 50-plus yards) and 97.1% of his 35 extra-point attempts in 17 regular-season games. RotoBaller has Dicker ranked as the No. 5 fantasy kicker for the 2026 season.",
+      "metadata": {
+        "description": "Los Angeles Chargers head coach Jim Harbaugh said that placekicker Cameron Dicker (undisclosed) is \"working through something,\" according to Alex Insdorf. However, Harbaugh also said that he is not concerned with Dicker's injury. \"Just something that came up tonight,\" Harbaugh said after the team's preseason finale against the Los Angeles Rams. We will keep an eye on the 26-year-old kicker's status heading into the team's Week 1 regular-season opener against the Arizona Cardinals, but it sounds like he should be just fine to kick to begin the season. The former Texas product should be considered a top-five fantasy kicker in a Chargers offense that could be much more explosive under new coordinator Mike McDaniel in 2026. Dicker was a first-time Pro Bowler last year after making 92.7% of his 41 field-goal attempts (5-for-6 from 50-plus yards) and 97.1% of his 35 extra-point attempts in 17 regular-season games. RotoBaller has Dicker ranked as the No. 5 fantasy kicker for the 2026 season.",
+        "title": "Cameron Dicker \"Working Through Something\"",
+        "topic_id": "1399109159558856704",
+        "url": "https://www.rotoballer.com/player-news/cameron-dicker-working-through-something/1918444"
+      },
+      "nfl_team": "LAC",
+      "player_id": "8259",
+      "player_name": "Cameron Dicker",
+      "position": "K",
+      "published": 1787921347000,
+      "source": "rotoballer",
+      "source_key": "219574",
+      "story_id": "nfl|8259|rotoballer|219574|1787921347000",
+      "title": "Cameron Dicker \"Working Through Something\"",
+      "url": "https://www.rotoballer.com/player-news/cameron-dicker-working-through-something/1918444"
+    },
+    {
+      "analysis": null,
       "description": "Philadelphia Eagles running back Tank Bigsby has quietly strengthened his redraft case throughout his first full training camp with the team. Bigsby remains firmly behind Saquon Barkley, but Philadelphia's current depth chart has him second at running back ahead of Will Shipley, and he has regularly mixed in with the first-team offense this summer. A toe injury cost Bigsby one practice in mid-August, but he returned two days later without limitations and has maintained his place in the backfield. The 5-foot-11, 215-pound runner was explosive after joining Philadelphia last season, rushing 58 times for 344 yards and two touchdowns while averaging 5.9 yards per carry. He also showed what a larger workload could look like in Week 18, when Barkley rested and Bigsby turned 16 carries and one reception into 106 scrimmage yards and a touchdown. Barkley remains the clear centerpiece, and Bigsby's limited receiving involvement makes dependable standalone fantasy production difficult to project. Still, Bigsby has separated himself as Philadelphia's No. 2 back and has already shown he can handle more work when needed. That makes him one of the more appealing insurance backs to target late in deeper redraft leagues.",
       "metadata": {
         "description": "Philadelphia Eagles running back Tank Bigsby has quietly strengthened his redraft case throughout his first full training camp with the team. Bigsby remains firmly behind Saquon Barkley, but Philadelphia's current depth chart has him second at running back ahead of Will Shipley, and he has regularly mixed in with the first-team offense this summer. A toe injury cost Bigsby one practice in mid-August, but he returned two days later without limitations and has maintained his place in the backfield. The 5-foot-11, 215-pound runner was explosive after joining Philadelphia last season, rushing 58 times for 344 yards and two touchdowns while averaging 5.9 yards per carry. He also showed what a larger workload could look like in Week 18, when Barkley rested and Bigsby turned 16 carries and one reception into 106 scrimmage yards and a touchdown. Barkley remains the clear centerpiece, and Bigsby's limited receiving involvement makes dependable standalone fantasy production difficult to project. Still, Bigsby has separated himself as Philadelphia's No. 2 back and has already shown he can handle more work when needed. That makes him one of the more appealing insurance backs to target late in deeper redraft leagues.",
@@ -6255,6 +6275,26 @@
       "source_key": "635003",
       "story_id": "nfl|13289|rotowire|635003|1787898079000",
       "title": "Drew Allar - Makes little impact in preseason finale",
+      "url": null
+    },
+    {
+      "analysis": "Dicker's miss came as time expired in the first half, but he partly atoned with his 34-yarder late in the third quarter. Dicker did miss two extra-point attempts but made four of five field-goal tries this preseason, and he'll now turn his sights to a Week 1 home matchup against the Cardinals that could provide him with plenty of scoring opportunities.",
+      "description": "Dicker missed a 49-yard field-goal attempt wide right, drilled a 34-yarder and knocked home his only PAT in the Chargers' 20-18 preseason loss to the Rams on Thursday.",
+      "metadata": {
+        "analysis": "Dicker's miss came as time expired in the first half, but he partly atoned with his 34-yarder late in the third quarter. Dicker did miss two extra-point attempts but made four of five field-goal tries this preseason, and he'll now turn his sights to a Week 1 home matchup against the Cardinals that could provide him with plenty of scoring opportunities.",
+        "description": "Dicker missed a 49-yard field-goal attempt wide right, drilled a 34-yarder and knocked home his only PAT in the Chargers' 20-18 preseason loss to the Rams on Thursday.",
+        "title": "Cameron Dicker - Misfires on field goal Thursday",
+        "topic_id": "1398949484079091712"
+      },
+      "nfl_team": "LAC",
+      "player_id": "8259",
+      "player_name": "Cameron Dicker",
+      "position": "K",
+      "published": 1787897704000,
+      "source": "rotowire",
+      "source_key": "635001",
+      "story_id": "nfl|8259|rotowire|635001|1787897704000",
+      "title": "Cameron Dicker - Misfires on field goal Thursday",
       "url": null
     },
     {
@@ -18466,6 +18506,26 @@
       "source_key": "634337",
       "story_id": "nfl|7571|rotowire|634337|1787352844000",
       "title": "Rashod Bateman - Facing charges after June incident",
+      "url": null
+    },
+    {
+      "analysis": "Dicker drilled a 21-yard field goal in the second quarter but failed to make his extra-point attempt in the third quarter. The kicker is 126-for-130 on PAT's in his regular-season career, so Thursday night's failure is quite rare. Lightning has struck twice, however, as Dicker missed a PAT in the prior Thursday's preseason win over the Texans as well, making this a pattern to at least monitor in the Aug. 27 preseason finale against the Rams.",
+      "description": "Dicker made his sole field-goal attempt but missed a PAT try in Thursday night's 41-17 preseason loss to the 49ers.",
+      "metadata": {
+        "analysis": "Dicker drilled a 21-yard field goal in the second quarter but failed to make his extra-point attempt in the third quarter. The kicker is 126-for-130 on PAT's in his regular-season career, so Thursday night's failure is quite rare. Lightning has struck twice, however, as Dicker missed a PAT in the prior Thursday's preseason win over the Texans as well, making this a pattern to at least monitor in the Aug. 27 preseason finale against the Rams.",
+        "description": "Dicker made his sole field-goal attempt but missed a PAT try in Thursday night's 41-17 preseason loss to the 49ers.",
+        "title": "Cameron Dicker - Misses PAT again",
+        "topic_id": "1396661792901455872"
+      },
+      "nfl_team": "LAC",
+      "player_id": "8259",
+      "player_name": "Cameron Dicker",
+      "position": "K",
+      "published": 1787352516000,
+      "source": "rotowire",
+      "source_key": "634336",
+      "story_id": "nfl|8259|rotowire|634336|1787352516000",
+      "title": "Cameron Dicker - Misses PAT again",
       "url": null
     },
     {
