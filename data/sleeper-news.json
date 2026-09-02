@@ -1,10 +1,13 @@
 {
-  "last_checked_at": "2026-09-02T15:02:13Z",
+  "last_checked_at": "2026-09-02T15:24:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13413|rotoballer|219920|1788345733000",
-    "nfl|6904|rotoballer|219921|1788346146000"
+    "nfl|12490|rotowire|636001|1788361622000",
+    "nfl|12508|rotoballer|219922|1788346687000",
+    "nfl|7547|rotowire|636000|1788361257000",
+    "nfl|8148|rotoballer|219923|1788347532000",
+    "nfl|8205|rotowire|636002|1788361827000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +17,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Pacheco was placed on injured reserve with his back issue and will miss at least the first four games of the regular season. It sounds like his absence could extend beyond Week 5 when he's first eligible to play. In the meantime, Jacob Saylors looks like the direct backup to Jahmyr Gibbs in the backfield. Gibbs could see some heavy snaps this season after the departure of steady veteran running mate David Montgomery over the offseason.",
+      "description": "Lions GM Brad Holmes said Wednesday that Pacheco (back) doesn't have a clear timetable for return, Colton Pouncy of The Athletic reports.",
+      "metadata": {
+        "analysis": "Pacheco was placed on injured reserve with his back issue and will miss at least the first four games of the regular season. It sounds like his absence could extend beyond Week 5 when he's first eligible to play. In the meantime, Jacob Saylors looks like the direct backup to Jahmyr Gibbs in the backfield. Gibbs could see some heavy snaps this season after the departure of steady veteran running mate David Montgomery over the offseason.",
+        "description": "Lions GM Brad Holmes said Wednesday that Pacheco (back) doesn't have a clear timetable for return, Colton Pouncy of The Athletic reports.",
+        "title": "Isiah Pacheco - Without timetable for return",
+        "topic_id": "1400895947323543552"
+      },
+      "nfl_team": "DET",
+      "player_id": "8205",
+      "player_name": "Isiah Pacheco",
+      "position": "RB",
+      "published": 1788361827000,
+      "source": "rotowire",
+      "source_key": "636002",
+      "story_id": "nfl|8205|rotowire|636002|1788361827000",
+      "title": "Isiah Pacheco - Without timetable for return",
+      "url": null
+    },
+    {
+      "analysis": "Tuten should be fine by the time Week 1 against the Browns rolls around in 11 days. The second-year running back is expected to have a significant role in Jacksonville's backfield this season, but how this running back depth chart shakes out will be a situation to watch against Cleveland. All three of Tuten, Chris Rodriguez and LeQuint Allen (undisclosed) are likely to see snaps when healthy.",
+      "description": "Tuten (illness) did not practice Wednesday, Ryan O'Halloran of The Florida Times-Union reports.",
+      "metadata": {
+        "analysis": "Tuten should be fine by the time Week 1 against the Browns rolls around in 11 days. The second-year running back is expected to have a significant role in Jacksonville's backfield this season, but how this running back depth chart shakes out will be a situation to watch against Cleveland. All three of Tuten, Chris Rodriguez and LeQuint Allen (undisclosed) are likely to see snaps when healthy.",
+        "description": "Tuten (illness) did not practice Wednesday, Ryan O'Halloran of The Florida Times-Union reports.",
+        "title": "Bhayshul Tuten - Misses practice with illness",
+        "topic_id": "1400894688533172224"
+      },
+      "nfl_team": "JAX",
+      "player_id": "12490",
+      "player_name": "Bhayshul Tuten",
+      "position": "RB",
+      "published": 1788361622000,
+      "source": "rotowire",
+      "source_key": "636001",
+      "story_id": "nfl|12490|rotowire|636001|1788361622000",
+      "title": "Bhayshul Tuten - Misses practice with illness",
+      "url": null
+    },
+    {
+      "analysis": "St. Brown was particularly impressive on the Lions' second-to-last series of the day, when he had gains of 14, seven and four yards on receptions before beating cornerback Rock Ya-Sin on a post route for a 16-yard score to end the drive. He nearly added another touchdown to his ledger on the final drive, as he corralled a jump ball over Ya-Sin in the end zone before he was ruled to have bobbled the ball prior to stepping out of bounds. The performance marked an impressive end to what Tim Twentyman of the Lions' official site labeled a \"really strong camp\" for St. Brown, who is once again ticketed for a high-volume role in the Detroit passing game and profiles as a strong first-round pick in fantasy drafts.",
+      "description": "St. Brown was a standout performer during the Lions' final practice of training camp Thursday, recording several receptions during team drills, Nolan Bianchi of The Detroit News reports.",
+      "metadata": {
+        "analysis": "St. Brown was particularly impressive on the Lions' second-to-last series of the day, when he had gains of 14, seven and four yards on receptions before beating cornerback Rock Ya-Sin on a post route for a 16-yard score to end the drive. He nearly added another touchdown to his ledger on the final drive, as he corralled a jump ball over Ya-Sin in the end zone before he was ruled to have bobbled the ball prior to stepping out of bounds. The performance marked an impressive end to what Tim Twentyman of the Lions' official site labeled a \"really strong camp\" for St. Brown, who is once again ticketed for a high-volume role in the Detroit passing game and profiles as a strong first-round pick in fantasy drafts.",
+        "description": "St. Brown was a standout performer during the Lions' final practice of training camp Thursday, recording several receptions during team drills, Nolan Bianchi of The Detroit News reports.",
+        "title": "Amon-Ra St. Brown - Ends camp on high note",
+        "topic_id": "1400893429352828928"
+      },
+      "nfl_team": "DET",
+      "player_id": "7547",
+      "player_name": "Amon-Ra St. Brown",
+      "position": "WR",
+      "published": 1788361257000,
+      "source": "rotowire",
+      "source_key": "636000",
+      "story_id": "nfl|7547|rotowire|636000|1788361257000",
+      "title": "Amon-Ra St. Brown - Ends camp on high note",
+      "url": null
+    },
     {
       "analysis": "After letting Super Bowl LX MVP Kenneth Walker walk in free agency, the Seahawks will be counting on Price -- the No. 32 overall pick in April's draft -- as well as George Holani and Emanuel Wilson (hamstring) to lead the backfield while Zach Charbonnet (knee) is out for at least the first four games of the season. Walker's tough running combined with Charbonnet's skills on passing downs helped ensure that defenses couldn't devote more resources to shutting down Smith-Njigba, who blossomed into arguably the NFL's top wideout in 2025. After taking most of his snaps out of the slot in his first two seasons, Smith-Njigba thrived while transitioning into more of a perimeter role, compiling a massive 119-1,793-10 receiving line over 17 games on his way to winning Offensive Player of the Year honors. A league-high 32.6 percent target share played a part in Smith-Njigba achieving his lofty production, but even if supporting pass catchers such as Rashid Shaheed and AJ Barner are more involved in 2026, Smith-Njigba could avoid a major dip in production if the Seahawks lean more heavily on the passing game as a whole. The Seahawks ranked third in the NFL with a 49.7 percent run rate in 2025, and despite Smith-Njigba's early praise for Price, it would still be surprising if the rookie was trusted right away to handle the sort of workloads that Walker and Charbonnet previously shouldered.",
       "description": "Smith-Njigba said Tuesday in his appearance on ESPN's \"SportsCenter\" that rookie running back Jadarian Price had \"a great training camp\" and will help relieve pressure on the passing game in 2026.",
@@ -113,6 +176,46 @@
       "story_id": "nfl|4217|rotowire|635993|1788353532000",
       "title": "George Kittle - Traveling to Australia with team",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions wide receiver Jameson Williams could emerge as the team's leading receiver this season, according to Dan Graziano of ESPN. Williams is coming off another big year, catching 65 passes for 1,117 yards and seven touchdowns on 102 targets in 2025. He averaged 17.2 yards per catch and topped 1,000 yards for the second straight season. The Lions have spent the past few years asking Williams to become more than a downfield threat, and there were signs of that growth in camp. Jared Goff recently praised the nuance Williams has added to his route running, while new offensive coordinator Drew Petzing has challenged him to play more physically. The obvious obstacle is Amon-Ra St. Brown, who drew 172 targets and finished with 1,401 receiving yards last year. Williams also led the NFL with 12 drops. Still, if Petzing can get him involved more consistently at every level of the field, a career year is firmly in play.",
+      "metadata": {
+        "description": "Detroit Lions wide receiver Jameson Williams could emerge as the team's leading receiver this season, according to Dan Graziano of ESPN. Williams is coming off another big year, catching 65 passes for 1,117 yards and seven touchdowns on 102 targets in 2025. He averaged 17.2 yards per catch and topped 1,000 yards for the second straight season. The Lions have spent the past few years asking Williams to become more than a downfield threat, and there were signs of that growth in camp. Jared Goff recently praised the nuance Williams has added to his route running, while new offensive coordinator Drew Petzing has challenged him to play more physically. The obvious obstacle is Amon-Ra St. Brown, who drew 172 targets and finished with 1,401 receiving yards last year. Williams also led the NFL with 12 drops. Still, if Petzing can get him involved more consistently at every level of the field, a career year is firmly in play.",
+        "title": "Jameson Williams Could Lead Lions in Receiving",
+        "topic_id": "1400895944500740096",
+        "url": "https://www.rotoballer.com/player-news/jameson-williams-could-lead-lions-in-receiving/1921861"
+      },
+      "nfl_team": "DET",
+      "player_id": "8148",
+      "player_name": "Jameson Williams",
+      "position": "WR",
+      "published": 1788347532000,
+      "source": "rotoballer",
+      "source_key": "219923",
+      "story_id": "nfl|8148|rotoballer|219923|1788347532000",
+      "title": "Jameson Williams Could Lead Lions in Receiving",
+      "url": "https://www.rotoballer.com/player-news/jameson-williams-could-lead-lions-in-receiving/1921861"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants quarterback Jaxson Dart feels \"in command\" for Week 1 despite going nearly a month without live game action, according to Patricia Traina of Sports Illustrated. Dart attempted four passes in the Giants' preseason opener Aug. 15, but then head coach John Harbaugh kept him sidelined for the final two preseason contests. As a result, nearly a month will separate his last live game action from the Giants' season opener Sept. 13. While that long absence may raise some question marks, especially in a new offensive system, Harbaugh explained the decision was rooted in minimizing injury risk and the confidence he has in the quarterback's work ethic during practice. Dart himself added that he felt like he has been able to prepare for the regular season by playing against the Giants' starting defense in practice. \"I feel so much better,\" Dart said. \"I feel in command. I feel confident. In this offense, there's a lot that's put on the quarterback's plate, but it's exactly how I want it. It's exactly how I viewed this coming together.\" All signs point to Dart making a Year 2 leap. He was the overall QB14 despite making just 12 starts last season, so he has legitimate top-eight fantasy upside in 2026 if he can stay healthy for the full year. As it stands, he has an ADP of 103, which makes him the 11th quarterback off the board.",
+      "metadata": {
+        "description": "New York Giants quarterback Jaxson Dart feels \"in command\" for Week 1 despite going nearly a month without live game action, according to Patricia Traina of Sports Illustrated. Dart attempted four passes in the Giants' preseason opener Aug. 15, but then head coach John Harbaugh kept him sidelined for the final two preseason contests. As a result, nearly a month will separate his last live game action from the Giants' season opener Sept. 13. While that long absence may raise some question marks, especially in a new offensive system, Harbaugh explained the decision was rooted in minimizing injury risk and the confidence he has in the quarterback's work ethic during practice. Dart himself added that he felt like he has been able to prepare for the regular season by playing against the Giants' starting defense in practice. \"I feel so much better,\" Dart said. \"I feel in command. I feel confident. In this offense, there's a lot that's put on the quarterback's plate, but it's exactly how I want it. It's exactly how I viewed this coming together.\" All signs point to Dart making a Year 2 leap. He was the overall QB14 despite making just 12 starts last season, so he has legitimate top-eight fantasy upside in 2026 if he can stay healthy for the full year. As it stands, he has an ADP of 103, which makes him the 11th quarterback off the board.",
+        "title": "Jaxson Dart Feels \"In Command\" for Week 1 vs. Cowboys",
+        "topic_id": "1400893427876397056",
+        "url": "https://www.rotoballer.com/player-news/jaxson-dart-feels-in-command-for-week-1-vs-cowboys/1921838"
+      },
+      "nfl_team": "NYG",
+      "player_id": "12508",
+      "player_name": "Jaxson Dart",
+      "position": "QB",
+      "published": 1788346687000,
+      "source": "rotoballer",
+      "source_key": "219922",
+      "story_id": "nfl|12508|rotoballer|219922|1788346687000",
+      "title": "Jaxson Dart Feels \"In Command\" for Week 1 vs. Cowboys",
+      "url": "https://www.rotoballer.com/player-news/jaxson-dart-feels-in-command-for-week-1-vs-cowboys/1921838"
     },
     {
       "analysis": null,

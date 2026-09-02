@@ -20057,7 +20057,7 @@
       ],
       "first_name": "Brian",
       "full_name": "Brian Thomas",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Thomas",
       "nfl_team": "JAX",
       "player_id": "11631",
@@ -23764,8 +23764,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-02T05:17:03Z",
-    "source_fingerprint": "ab283ccadf17f23d505f1e4ae72630c440d945439719f290544a767eaaa52992"
+    "last_changed_at": "2026-09-02T14:14:32Z",
+    "source_fingerprint": "4e9456265bd39aced7239848ed6faafeefc2f8a780011ffcd24212e39b8a3a3a"
   },
   "teams": [
     {
