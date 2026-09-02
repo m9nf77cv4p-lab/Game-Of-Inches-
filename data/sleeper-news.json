@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-01T23:38:07Z",
+  "last_checked_at": "2026-09-02T00:24:11Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|13311|rotoballer|219894|1788290947000"
+    "nfl|12519|fantasy_pros|605469|1788307525607",
+    "nfl|12534|fantasy_pros|605468|1788307525623"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,48 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Monangai has been considered week-to-week for the past couple of weeks. It appears he won't be ready to go to begin the season, which should lead to a workhorse role for D'Andre Swift to open the year. ",
+      "description": "The Bears say Kyle Monangai remains week-to-week. ",
+      "metadata": {
+        "analysis": "Monangai has been considered week-to-week for the past couple of weeks. It appears he won't be ready to go to begin the season, which should lead to a workhorse role for D'Andre Swift to open the year. ",
+        "description": "The Bears say Kyle Monangai remains week-to-week. ",
+        "title": "Kyle Monangai (knee) remains week-to-week ",
+        "topic_id": "1400666917714313216",
+        "url": "https://www.fantasypros.com/nfl/news/605468/kyle-monangai-knee-remains-week-to-week.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12534",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "published": 1788307525623,
+      "source": "fantasy_pros",
+      "source_key": "605468",
+      "story_id": "nfl|12534|fantasy_pros|605468|1788307525623",
+      "title": "Kyle Monangai (knee) remains week-to-week ",
+      "url": "https://www.fantasypros.com/nfl/news/605468/kyle-monangai-knee-remains-week-to-week.php"
+    },
+    {
+      "analysis": "Burden had returned to practice last week. He is on track to be good to go for the start of the season next week. ",
+      "description": "Luther Burden III was practicing on Tuesday. ",
+      "metadata": {
+        "analysis": "Burden had returned to practice last week. He is on track to be good to go for the start of the season next week. ",
+        "description": "Luther Burden III was practicing on Tuesday. ",
+        "title": "Luther Burden III (groin) practices Tuesday ",
+        "topic_id": "1400666917647204352",
+        "url": "https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12519",
+      "player_name": "Luther Burden",
+      "position": "WR",
+      "published": 1788307525607,
+      "source": "fantasy_pros",
+      "source_key": "605469",
+      "story_id": "nfl|12519|fantasy_pros|605469|1788307525607",
+      "title": "Luther Burden III (groin) practices Tuesday ",
+      "url": "https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php"
+    },
     {
       "analysis": "\"I expect him to be back as quick he can, maybe quicker than some people would expect,\" Spytek said. \"When that is, we'll see.\" Jeanty did not practice on Tuesday. The fact that he wasn't placed on IR is a positive sign. He could be back as soon as Week 1. ",
       "description": "Raiders GM John Spytek said Ashton Jeanty is in a \"good spot\" and \"could return sooner than expected.\"",

@@ -2,11 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1587**
-- Newly captured: **1**
+- Stored stories: **1589**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Kyle Monangai** — Kyle Monangai (knee) remains week-to-week  (2026-09-02T00:05:25.623000Z)
+  - Monangai has been considered week-to-week for the past couple of weeks. It appears he won't be ready to go to begin the season, which should lead to a workhorse role for D'Andre Swift to open the year. 
+  - Source: https://www.fantasypros.com/nfl/news/605468/kyle-monangai-knee-remains-week-to-week.php
+- **NEW — Luther Burden** — Luther Burden III (groin) practices Tuesday  (2026-09-02T00:05:25.607000Z)
+  - Burden had returned to practice last week. He is on track to be good to go for the start of the season next week. 
+  - Source: https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php
 - **Ashton Jeanty** — Ashton Jeanty (ankle) receives positive update  (2026-09-01T22:40:24.185000Z)
   - "I expect him to be back as quick he can, maybe quicker than some people would expect," Spytek said. "When that is, we'll see." Jeanty did not practice on Tuesday. The fact that he wasn't placed on IR is a positive sign. He could be back as soon as Week 1. 
   - Source: https://www.fantasypros.com/nfl/news/605446/ashton-jeanty-ankle-receives-positive-update.php
@@ -52,7 +58,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605356/tank-dell-knee-is-close-but-not-quite-there.php
 - **Jeremiyah Love** — Jeremiyah Love - Present Tuesday, but not practicing (2026-09-01T19:38:39Z)
   - Love has been tending to a high-ankle sprain since making his pro debut preseason Week 1, missing all practices and the Cardinals' final two exhibitions in the meantime. Coach Mike LaFleur told Josh Weinfuss of ESPN.com on Monday that Love is "progressing really well" toward being available Week 1. Nevertheless, Love's next step will be mixing into at least some drills to begin to put questions about his status for the regular-season opener on Sunday, Sept. 13 at the Chargers in the rearview mirror.
-- **NEW — Chris Bell** — Chris Bell Still Needs to Get into Football Shape (2026-09-01T19:29:07Z)
+- **Chris Bell** — Chris Bell Still Needs to Get into Football Shape (2026-09-01T19:29:07Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-still-needs-to-get-into-football-shape/1921504
 - **Keon Coleman** — Keon Coleman - Gets back on practice field (2026-09-01T19:23:42Z)
   - Coleman sustained a sprained right foot/toe in the Bills' preseason opener Aug. 15, but he ditched his low walking boot as of last Thursday and now appears set to mix back into drills. The extent of his activity Tuesday isn't known, but he still has nearly two weeks to get healthy ahead of a Week 1 road matchup with the Texans on Sunday, Sept. 13.
@@ -224,7 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/packers-high-on-new-acquisition-kaleb-johnson/1921169
 - **David Montgomery** — David Montgomery Could Be a Steal in Texans Offense (2026-09-01T10:43:06Z)
   - Source: https://www.rotoballer.com/player-news/david-montgomery-could-be-a-steal-in-texans-offense/1921161
-- **Parker Washington** — Parker Washington Has Big-Time Potential As Slot Receiver (2026-09-01T10:28:07Z)
-  - Source: https://www.rotoballer.com/player-news/parker-washington-has-big-time-potential-as-slot-receiver/1921148
-- **De'Zhaun Stribling** — De'Zhaun Stribling Remains a Top Late-Round Target (2026-09-01T10:10:10Z)
-  - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-remains-a-top-late-round-target/1921145
