@@ -1,11 +1,12 @@
 {
-  "last_checked_at": "2026-09-02T16:09:14Z",
+  "last_checked_at": "2026-09-02T16:27:08Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11583|rotowire|636008|1788364626000",
-    "nfl|12490|rotoballer|219927|1788349807000",
-    "nfl|8148|rotowire|636007|1788364297000"
+    "nfl|12495|rotowire|636009|1788365198000",
+    "nfl|7594|rotoballer|219929|1788351249000",
+    "nfl|8131|rotoballer|219930|1788351365000",
+    "nfl|9221|rotowire|636010|1788365712000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +16,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "After being contained on the first two of the first-team offense's eight drives on the day, Gibbs delivered his biggest gain of the day on the Lions' third possession. On the second play of that drive, Gibbs followed a block from right guard Tate Ratledge, then found daylight while bouncing out to the outside and raced past cornerback Avonte Maddox for a 59-yard house call. He then finished practice with his second touchdown of the day, taking a fourth-and-1 pitch to the outside and following a Penei Sewell block to beat multiple defenders to the pylon. The two scoring jaunts were demonstrative of Gibbs' trademark explosiveness in open space, but now that David Montgomery is in Houston, the Lions are likely to turn to Gibbs to add more work to his plate in the form of increased usage in goal-line situations and as a runner on early downs. Detroit signed Isiah Pacheco this offseason with the goal of having him take on some of those functions that Montgomery had handled, but Pacheco won't be available until Week 5 at the earliest while he recovers from a back injury as well as an MCL sprain.",
+      "description": "Gibbs had a strong day in the Lions' final practice of training camp Thursday, most notably running for 59- and 16-yard touchdowns during the session, Tim Twentyman of the team's official site reports.",
+      "metadata": {
+        "analysis": "After being contained on the first two of the first-team offense's eight drives on the day, Gibbs delivered his biggest gain of the day on the Lions' third possession. On the second play of that drive, Gibbs followed a block from right guard Tate Ratledge, then found daylight while bouncing out to the outside and raced past cornerback Avonte Maddox for a 59-yard house call. He then finished practice with his second touchdown of the day, taking a fourth-and-1 pitch to the outside and following a Penei Sewell block to beat multiple defenders to the pylon. The two scoring jaunts were demonstrative of Gibbs' trademark explosiveness in open space, but now that David Montgomery is in Houston, the Lions are likely to turn to Gibbs to add more work to his plate in the form of increased usage in goal-line situations and as a runner on early downs. Detroit signed Isiah Pacheco this offseason with the goal of having him take on some of those functions that Montgomery had handled, but Pacheco won't be available until Week 5 at the earliest while he recovers from a back injury as well as an MCL sprain.",
+        "description": "Gibbs had a strong day in the Lions' final practice of training camp Thursday, most notably running for 59- and 16-yard touchdowns during the session, Tim Twentyman of the team's official site reports.",
+        "title": "Jahmyr Gibbs - Reels off 59-yard run in final camp practice",
+        "topic_id": "1400912307655073792"
+      },
+      "nfl_team": "DET",
+      "player_id": "9221",
+      "player_name": "Jahmyr Gibbs",
+      "position": "RB",
+      "published": 1788365712000,
+      "source": "rotowire",
+      "source_key": "636010",
+      "story_id": "nfl|9221|rotowire|636010|1788365712000",
+      "title": "Jahmyr Gibbs - Reels off 59-yard run in final camp practice",
+      "url": null
+    },
+    {
+      "analysis": "Gordon was injured in the Dolphins' second preseason game and missed the final exhibition last week. Across two preseason appearances, Gordon rushed 11 times for 47 yards and caught one of his two targets for 10 yards. He's competing with Jaylen Wright for the backup role behind De'Von Achane this season.",
+      "description": "Gordon (ribs) is practicing in a non-contact jersey Wednesday, Alain Poupart of SI.com reports.",
+      "metadata": {
+        "analysis": "Gordon was injured in the Dolphins' second preseason game and missed the final exhibition last week. Across two preseason appearances, Gordon rushed 11 times for 47 yards and caught one of his two targets for 10 yards. He's competing with Jaylen Wright for the backup role behind De'Von Achane this season.",
+        "description": "Gordon (ribs) is practicing in a non-contact jersey Wednesday, Alain Poupart of SI.com reports.",
+        "title": "Ollie Gordon - Practicing in non-contact jersey",
+        "topic_id": "1400909791861166080"
+      },
+      "nfl_team": "MIA",
+      "player_id": "12495",
+      "player_name": "Ollie Gordon",
+      "position": "RB",
+      "published": 1788365198000,
+      "source": "rotowire",
+      "source_key": "636009",
+      "story_id": "nfl|12495|rotowire|636009|1788365198000",
+      "title": "Ollie Gordon - Practicing in non-contact jersey",
+      "url": null
+    },
     {
       "analysis": "Brooks has been dealing with some soreness in an undisclosed area for the past couple of days, as coach Dave Canales has been vague when describing the running back's issue. There doesn't seem to be any indication Brooks is in danger of missing Week 1 against the Bears in 11 days, but he's going to need to get back on the practice field next week.",
       "description": "Brooks (soreness) was working off to the side with a trainer during Wednesday's practice, Mike Kaye of ESPN.com reports.",
@@ -274,6 +315,46 @@
       "story_id": "nfl|4217|rotowire|635993|1788353532000",
       "title": "George Kittle - Traveling to Australia with team",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "ESPN's Dan Graziano does not think anyone should be surprised if tight end Isaiah Likely is a \"breakout star\" in his first season with the New York Giants in 2026. Likely followed head coach John Harbaugh from the Baltimore Ravens to the Giants in free agency, and Giants coaches \"light up\" when talking about Likely. The coaching staff thinks that Likely will \"be a real asset\" for quarterback Jaxson Dart as a receiver and \"think he can win in both man and zone coverage.\" The Giants love how he has evolved his relationship with Dart, and he is a regular visitor to the QB room. The connection that Likely has formed with Dart on and off the field \"could pay major dividends.\" Graziano thinks that Likely is a strong candidate to be the Giants' second-leading receiver this year, and potentially more if receiver Malik Nabers (knee) needs more time to get up to speed after tearing his ACL and meniscus early last year. The 26-year-old former fourth-rounder from Coastal Carolina never had over 477 receiving yards or six touchdowns in his four years in Baltimore, where he was in the shadow of Mark Andrews. Now that he is the TE1 in the Big Apple, Likely has clear TE1 upside in fantasy, with RotoBaller ranking him as the No. 15 player at the position heading into the new season.",
+      "metadata": {
+        "description": "ESPN's Dan Graziano does not think anyone should be surprised if tight end Isaiah Likely is a \"breakout star\" in his first season with the New York Giants in 2026. Likely followed head coach John Harbaugh from the Baltimore Ravens to the Giants in free agency, and Giants coaches \"light up\" when talking about Likely. The coaching staff thinks that Likely will \"be a real asset\" for quarterback Jaxson Dart as a receiver and \"think he can win in both man and zone coverage.\" The Giants love how he has evolved his relationship with Dart, and he is a regular visitor to the QB room. The connection that Likely has formed with Dart on and off the field \"could pay major dividends.\" Graziano thinks that Likely is a strong candidate to be the Giants' second-leading receiver this year, and potentially more if receiver Malik Nabers (knee) needs more time to get up to speed after tearing his ACL and meniscus early last year. The 26-year-old former fourth-rounder from Coastal Carolina never had over 477 receiving yards or six touchdowns in his four years in Baltimore, where he was in the shadow of Mark Andrews. Now that he is the TE1 in the Big Apple, Likely has clear TE1 upside in fantasy, with RotoBaller ranking him as the No. 15 player at the position heading into the new season.",
+        "title": "Isaiah Likely Could Have a Breakout Season in First Year With Giants",
+        "topic_id": "1400913563584856064",
+        "url": "https://www.rotoballer.com/player-news/isaiah-likely-could-have-a-breakout-season-in-first-year-with-giants/1921923"
+      },
+      "nfl_team": "NYG",
+      "player_id": "8131",
+      "player_name": "Isaiah Likely",
+      "position": "TE",
+      "published": 1788351365000,
+      "source": "rotoballer",
+      "source_key": "219930",
+      "story_id": "nfl|8131|rotoballer|219930|1788351365000",
+      "title": "Isaiah Likely Could Have a Breakout Season in First Year With Giants",
+      "url": "https://www.rotoballer.com/player-news/isaiah-likely-could-have-a-breakout-season-in-first-year-with-giants/1921923"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers running back Chuba Hubbard may remain a major part of the backfield, even with Jonathon Brooks healthy again. According to Dan Graziano of ESPN, the plan is for Hubbard and Brooks to split carries, with Hubbard potentially getting the larger share when Carolina is trying to close out games. The Panthers are excited about Brooks but intend to be careful with him after two ACL tears. Hubbard remains first on Carolina's current depth chart and has already shown he can handle a big workload, rushing for 1,195 yards in 2024. His numbers fell to 511 yards on 134 carries across 15 games last season. Brooks, meanwhile, has played only three regular-season games since entering the NFL and missed all of 2025. If ESPN's reported split holds, Hubbard should remain much more involved than fantasy managers expecting a Brooks takeover might have hoped.",
+      "metadata": {
+        "description": "Carolina Panthers running back Chuba Hubbard may remain a major part of the backfield, even with Jonathon Brooks healthy again. According to Dan Graziano of ESPN, the plan is for Hubbard and Brooks to split carries, with Hubbard potentially getting the larger share when Carolina is trying to close out games. The Panthers are excited about Brooks but intend to be careful with him after two ACL tears. Hubbard remains first on Carolina's current depth chart and has already shown he can handle a big workload, rushing for 1,195 yards in 2024. His numbers fell to 511 yards on 134 carries across 15 games last season. Brooks, meanwhile, has played only three regular-season games since entering the NFL and missed all of 2025. If ESPN's reported split holds, Hubbard should remain much more involved than fantasy managers expecting a Brooks takeover might have hoped.",
+        "title": "Chuba Hubbard Still in Line for Heavy Work",
+        "topic_id": "1400912305021014016",
+        "url": "https://www.rotoballer.com/player-news/chuba-hubbard-still-in-line-for-heavy-work/1921920"
+      },
+      "nfl_team": "CAR",
+      "player_id": "7594",
+      "player_name": "Chuba Hubbard",
+      "position": "RB",
+      "published": 1788351249000,
+      "source": "rotoballer",
+      "source_key": "219929",
+      "story_id": "nfl|7594|rotoballer|219929|1788351249000",
+      "title": "Chuba Hubbard Still in Line for Heavy Work",
+      "url": "https://www.rotoballer.com/player-news/chuba-hubbard-still-in-line-for-heavy-work/1921920"
     },
     {
       "analysis": null,

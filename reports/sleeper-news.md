@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1632**
-- Newly captured: **3**
+- Stored stories: **1636**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Jonathon Brooks** — Jonathon Brooks - Working off to side Wednesday (2026-09-02T15:57:06Z)
+- **NEW — Jahmyr Gibbs** — Jahmyr Gibbs - Reels off 59-yard run in final camp practice (2026-09-02T16:15:12Z)
+  - After being contained on the first two of the first-team offense's eight drives on the day, Gibbs delivered his biggest gain of the day on the Lions' third possession. On the second play of that drive, Gibbs followed a block from right guard Tate Ratledge, then found daylight while bouncing out to the outside and raced past cornerback Avonte Maddox for a 59-yard house call. He then finished practice with his second touchdown of the day, taking a fourth-and-1 pitch to the outside and following a Penei Sewell block to beat multiple defenders to the pylon. The two scoring jaunts were demonstrative of Gibbs' trademark explosiveness in open space, but now that David Montgomery is in Houston, the Lions are likely to turn to Gibbs to add more work to his plate in the form of increased usage in goal-line situations and as a runner on early downs. Detroit signed Isiah Pacheco this offseason with the goal of having him take on some of those functions that Montgomery had handled, but Pacheco won't be available until Week 5 at the earliest while he recovers from a back injury as well as an MCL sprain.
+- **NEW — Ollie Gordon** — Ollie Gordon - Practicing in non-contact jersey (2026-09-02T16:06:38Z)
+  - Gordon was injured in the Dolphins' second preseason game and missed the final exhibition last week. Across two preseason appearances, Gordon rushed 11 times for 47 yards and caught one of his two targets for 10 yards. He's competing with Jaylen Wright for the backup role behind De'Von Achane this season.
+- **Jonathon Brooks** — Jonathon Brooks - Working off to side Wednesday (2026-09-02T15:57:06Z)
   - Brooks has been dealing with some soreness in an undisclosed area for the past couple of days, as coach Dave Canales has been vague when describing the running back's issue. There doesn't seem to be any indication Brooks is in danger of missing Week 1 against the Bears in 11 days, but he's going to need to get back on the practice field next week.
-- **NEW — Jameson Williams** — Jameson Williams - Stands out in final training camp session (2026-09-02T15:51:37Z)
+- **Jameson Williams** — Jameson Williams - Stands out in final training camp session (2026-09-02T15:51:37Z)
   - Touted as a standout performer during the Lions' earlier workouts of the summer, Williams authored another strong performance in a scrimmage-style practice to wrap up camp. On the Lions' opening drive alone, Williams beat cornerback Rock Ya-Sin for a 22-yard gain on the first play of the day, reeled off a 18-yard gain on a screen play to convert a third-and-12 and evaded tight coverage to make a sliding catch on a five-yard pass to the back end of the zone on a fourth-and-goal. Williams recorded another reception on a post route later in the day to convert a third-and-10, but the play was negated by a holding penalty. While No. 1 wideout Amon-Ra St. Brown remains Detroit's clear top target in 2026, Williams should still be in store for reliable weekly volume in a consolidated passing game that also includes Sam LaPorta (hip) and running back Jahmyr Gibbs. Heading into the summer, No. 3 wideout Isaac TeSlaa looked like a potential candidate to carve out a more notable role in his second season, but didn't record a reception in either of his two preseason appearances and had a number of underwhelming performances during camp practices, according to Dave Birkett of the Detroit Free Press.
 - **Ashton Jeanty** — Ashton Jeanty - Remains sidelined Wednesday (2026-09-02T15:46:20Z)
   - Jeanty worked off to the side with trainers Tuesday, as he attempts to get past an ankle injury suffered Aug. 23. It's believed to be a low-ankle sprain for the second-year running back. Jeanty has 11 more days before the Raiders open the season at home against the Dolphins on Sunday, Sept. 13. He'll likely need to practice in some fashion next week to have a chance to play, otherwise Mike Washington and Dylan Laube would be in line to carry the backfield load for Las Vegas.
@@ -33,7 +37,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.
 - **George Kittle** — George Kittle - Traveling to Australia with team (2026-09-02T12:52:12Z)
   - A final call on Kittle's availability for Week 1 isn't expected to be made until the 49ers arrive in Australia, but his involvement in practice this week and presence on the road trip suggest that he's on track to play. Kittle -- who tore his right Achilles tendon Jan. 11 and underwent surgery three days later -- could have his snaps limited to some degree if he's cleared to play in the season opener.
-- **NEW — Bhayshul Tuten** — Bhayshul Tuten Sent Home Sick (2026-09-02T11:50:07Z)
+- **NEW — Isaiah Likely** — Isaiah Likely Could Have a Breakout Season in First Year With Giants (2026-09-02T12:16:05Z)
+  - Source: https://www.rotoballer.com/player-news/isaiah-likely-could-have-a-breakout-season-in-first-year-with-giants/1921923
+- **NEW — Chuba Hubbard** — Chuba Hubbard Still in Line for Heavy Work (2026-09-02T12:14:09Z)
+  - Source: https://www.rotoballer.com/player-news/chuba-hubbard-still-in-line-for-heavy-work/1921920
+- **Bhayshul Tuten** — Bhayshul Tuten Sent Home Sick (2026-09-02T11:50:07Z)
   - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-sent-home-sick/1921898
 - **Jonah Coleman** — Jonah Coleman Trending Toward Bigger Role in Denver (2026-09-02T11:42:10Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-trending-toward-bigger-role-in-denver/1921887
@@ -217,15 +225,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Alec Pierce** — Alec Pierce (ankle) practices Tuesday  (2026-09-01T16:20:21.086000Z)
   - Pierce missed most of training camp while recovering from offseason ankle surgery. He appears to be on track to be good to go for Week 1, though it is unclear if he will be limited in any way. 
   - Source: https://www.fantasypros.com/nfl/news/605297/alec-pierce-ankle-practices-tuesday.php
-- **Josh Downs** — Josh Downs (calf) practices Tuesday  (2026-09-01T16:20:21.070000Z)
-  - Downs missed time last week with a calf issue. He is on track to be good to go for the season opener next week. 
-  - Source: https://www.fantasypros.com/nfl/news/605298/josh-downs-calf-practices-tuesday.php
-- **Jonathon Brooks** — Jonathon Brooks working with trainers on side during practice Tuesday  (2026-09-01T16:15:21.665000Z)
-  - It is unclear what the exact reasoning is. There could be an update after practice. Brooks figures to enter the season complementing Chuba Hubbard. 
-  - Source: https://www.fantasypros.com/nfl/news/605293/jonathon-brooks-working-with-trainers-on-side-during-practice-tuesday.php
-- **Ashton Jeanty** — Ashton Jeanty (ankle) not seen practicing Tuesday  (2026-09-01T16:15:21.649000Z)
-  - Jeanty remains uncertain for Week 1. The fact that he avoided being placed on injured reserve is a positive sign he is expected to miss fewer than four games if he isn't ready to go to begin the season. 
-  - Source: https://www.fantasypros.com/nfl/news/605294/ashton-jeanty-ankle-not-seen-practicing-tuesday.php
-- **Mike Evans** — Mike Evans (adductor) hopeful to return to practice next week (2026-09-01T16:15:21.629000Z)
-  - Evans has been absent from practice for much of the past few weeks. He will likely need to log multiple practices early next week to have a good chance of playing in Week 1 against the Rams. 
-  - Source: https://www.fantasypros.com/nfl/news/605295/mike-evans-adductor-hopeful-to-return-to-practice-next-week.php
