@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-02T02:56:30Z",
+  "last_checked_at": "2026-09-02T03:12:32Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|4866|rotoballer|219904|1788302832000",
-    "nfl|9224|rotoballer|219903|1788302167000"
+    "nfl|12530|rotoballer|219905|1788303550000"
   ],
   "schema_version": 1,
   "source": {
@@ -55,6 +54,26 @@
       "story_id": "nfl|12519|fantasy_pros|605469|1788307525607",
       "title": "Luther Burden III (groin) practices Tuesday ",
       "url": "https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars 2025 second overall pick, Travis Hunter, enters the 2026 season with reports from camp suggesting that head coach Liam Coen plans to utilize Hunter on both sides of the ball, and Hunter has reportedly taken reps almost exclusively at cornerback for the last few weeks. While Hunter holds value as a professional football player, his ability to play both sides of the ball impacts his ability to be impactful in fantasy football when he is splitting his time. The Jaguars also have a crowded receiver room that includes Parker Washington, Brian Thomas Jr., Jakobi Meyers, and Brenton Strange. While it's possible that Hunter may have spike weeks where he goes off for a big play, it's too unpredictable and unreliable when it comes to the fantasy football lens. RotoBaller currently ranks Hunter as the WR81 and the 210th overall player off the board, making him undraftable in most 12-team formats.",
+      "metadata": {
+        "description": "Jacksonville Jaguars 2025 second overall pick, Travis Hunter, enters the 2026 season with reports from camp suggesting that head coach Liam Coen plans to utilize Hunter on both sides of the ball, and Hunter has reportedly taken reps almost exclusively at cornerback for the last few weeks. While Hunter holds value as a professional football player, his ability to play both sides of the ball impacts his ability to be impactful in fantasy football when he is splitting his time. The Jaguars also have a crowded receiver room that includes Parker Washington, Brian Thomas Jr., Jakobi Meyers, and Brenton Strange. While it's possible that Hunter may have spike weeks where he goes off for a big play, it's too unpredictable and unreliable when it comes to the fantasy football lens. RotoBaller currently ranks Hunter as the WR81 and the 210th overall player off the board, making him undraftable in most 12-team formats.",
+        "title": "Travis Hunter Continues to be Utilized on Both Sides of the Ball",
+        "topic_id": "1400712209977319424",
+        "url": "https://www.rotoballer.com/player-news/travis-hunter-continues-to-be-utilized-on-both-sides-of-the-ball/1921631"
+      },
+      "nfl_team": "JAX",
+      "player_id": "12530",
+      "player_name": "Travis Hunter",
+      "position": "WR",
+      "published": 1788303550000,
+      "source": "rotoballer",
+      "source_key": "219905",
+      "story_id": "nfl|12530|rotoballer|219905|1788303550000",
+      "title": "Travis Hunter Continues to be Utilized on Both Sides of the Ball",
+      "url": "https://www.rotoballer.com/player-news/travis-hunter-continues-to-be-utilized-on-both-sides-of-the-ball/1921631"
     },
     {
       "analysis": null,

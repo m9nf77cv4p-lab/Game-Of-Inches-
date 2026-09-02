@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1593**
-- Newly captured: **2**
+- Stored stories: **1594**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -13,12 +13,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Luther Burden** — Luther Burden III (groin) practices Tuesday  (2026-09-02T00:05:25.607000Z)
   - Burden had returned to practice last week. He is on track to be good to go for the start of the season next week. 
   - Source: https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php
-- **NEW — Saquon Barkley** — Saquon Barkley Has Looked Sharp in the New Eagles Offensive Scheme (2026-09-01T22:47:12Z)
+- **NEW — Travis Hunter** — Travis Hunter Continues to be Utilized on Both Sides of the Ball (2026-09-01T22:59:10Z)
+  - Source: https://www.rotoballer.com/player-news/travis-hunter-continues-to-be-utilized-on-both-sides-of-the-ball/1921631
+- **Saquon Barkley** — Saquon Barkley Has Looked Sharp in the New Eagles Offensive Scheme (2026-09-01T22:47:12Z)
   - Source: https://www.rotoballer.com/player-news/saquon-barkley-has-looked-sharp-in-the-new-eagles-offensive-scheme/1921627
 - **Ashton Jeanty** — Ashton Jeanty (ankle) receives positive update  (2026-09-01T22:40:24.185000Z)
   - "I expect him to be back as quick he can, maybe quicker than some people would expect," Spytek said. "When that is, we'll see." Jeanty did not practice on Tuesday. The fact that he wasn't placed on IR is a positive sign. He could be back as soon as Week 1. 
   - Source: https://www.fantasypros.com/nfl/news/605446/ashton-jeanty-ankle-receives-positive-update.php
-- **NEW — Chase Brown** — Chase Brown Expanding His Role, a Bonafide RB1 For Fantasy Football (2026-09-01T22:36:07Z)
+- **Chase Brown** — Chase Brown Expanding His Role, a Bonafide RB1 For Fantasy Football (2026-09-01T22:36:07Z)
   - Source: https://www.rotoballer.com/player-news/chase-brown-expanding-his-role-bonafide-rb1-for-fantasy-football/1921621
 - **Brian Robinson** — Brian Robinson - Expected to have role at goal line (2026-09-01T22:32:54Z)
   - "He has shown a physical style in practice that cements his role as the new Tyler Allgeier," Kendall wrote about Robinson. "Bijan Robinson fantasy managers may not like how many goal-line carries he gets." Allgeier, of course, was a thorn in the side of Bijan last season, out-carrying Robinson 19 to 17 inside the 10-yard line while matching him with seven carries apiece inside the five-yard line. Allgeier also punched in four of those seven carries for touchdowns, while Bijan scored on just two of his chances. Brian, at 6-foot-1 and 225 pounds, profiles similarly to Allgeier as a short-yardage, between-the-tackles, goal-line type who can get the tough yards. It sounds like he's going to have some sort of role in those situations for Atlanta this season, which could mute some of Bijan's touchdown upside.
@@ -228,5 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout missed some practices last week as well, though the Ravens haven't indicated whether that was related to the prior quad issue. Whatever the case, Flowers' injury or injuries never seemed to be a major concern. He should be ready to handle a high-volume role in the Baltimore passing attack in Week 1.
 - **Tyler Warren** — Tyler Warren Returns to Practice on Tuesday (2026-09-01T13:13:06Z)
   - Source: https://www.rotoballer.com/player-news/tyler-warren-returns-to-practice-on-tuesday/1921250
-- **Chuba Hubbard** — Chuba Hubbard Dressed for Practice (2026-09-01T13:05:12Z)
-  - Source: https://www.rotoballer.com/player-news/chuba-hubbard-dressed-for-practice/1921247
