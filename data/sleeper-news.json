@@ -1,10 +1,12 @@
 {
-  "last_checked_at": "2026-09-02T20:12:15Z",
+  "last_checked_at": "2026-09-02T20:28:13Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11632|rotoballer|219955|1788364450000",
-    "nfl|12534|rotoballer|219954|1788364748000"
+    "nfl|11583|fantasy_pros|605655|1788380733950",
+    "nfl|2216|fantasy_pros|605650|1788380134257",
+    "nfl|4035|rotoballer|219957|1788365948000",
+    "nfl|8134|fantasy_pros|605648|1788380134271"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +16,69 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Brooks was absent from practice on Tuesday as he deals with some soreness. His status will need to be monitored in practice next week heading into the season opener. ",
+      "description": "Panthers coach Dave Canales said he is \"very optimistic\" Jonathon Brooks will play in Week 1 against the Bears.",
+      "metadata": {
+        "analysis": "Brooks was absent from practice on Tuesday as he deals with some soreness. His status will need to be monitored in practice next week heading into the season opener. ",
+        "description": "Panthers coach Dave Canales said he is \"very optimistic\" Jonathon Brooks will play in Week 1 against the Bears.",
+        "title": "Jonathon Brooks 'optimistic' for Week 1",
+        "topic_id": "1400973975693111296",
+        "url": "https://www.fantasypros.com/nfl/news/605655/jonathon-brooks-optimistic-week-1.php"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788380733950,
+      "source": "fantasy_pros",
+      "source_key": "605655",
+      "story_id": "nfl|11583|fantasy_pros|605655|1788380733950",
+      "title": "Jonathon Brooks 'optimistic' for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/605655/jonathon-brooks-optimistic-week-1.php"
+    },
+    {
+      "analysis": "Shakir has been sidelined from practice for the past couple of weeks due to an undisclosed injury. Buffalo is reportedly being cautious with him. ",
+      "description": "There's \"currently optimism\" from the Bills that Khalil Shakir will play in Week 1 against the Texans.",
+      "metadata": {
+        "analysis": "Shakir has been sidelined from practice for the past couple of weeks due to an undisclosed injury. Buffalo is reportedly being cautious with him. ",
+        "description": "There's \"currently optimism\" from the Bills that Khalil Shakir will play in Week 1 against the Texans.",
+        "title": "Khalil Shakir (undisclosed) 'optimistic' for Week 1",
+        "topic_id": "1400971460452827136",
+        "url": "https://www.fantasypros.com/nfl/news/605648/khalil-shakir-undisclosed-optimistic-week-1.php"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8134",
+      "player_name": "Khalil Shakir",
+      "position": "WR",
+      "published": 1788380134271,
+      "source": "fantasy_pros",
+      "source_key": "605648",
+      "story_id": "nfl|8134|fantasy_pros|605648|1788380134271",
+      "title": "Khalil Shakir (undisclosed) 'optimistic' for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/605648/khalil-shakir-undisclosed-optimistic-week-1.php"
+    },
+    {
+      "analysis": "Evans was back on the field after being sidelined for most of training camp. He should be good to go for the season opener next week. ",
+      "description": "Mike Evans returned to practice Wednesday.",
+      "metadata": {
+        "analysis": "Evans was back on the field after being sidelined for most of training camp. He should be good to go for the season opener next week. ",
+        "description": "Mike Evans returned to practice Wednesday.",
+        "title": "Mike Evans (adductor) returns to practice ",
+        "topic_id": "1400971460398301184",
+        "url": "https://www.fantasypros.com/nfl/news/605650/mike-evans-adductor-returns-to-practice.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1788380134257,
+      "source": "fantasy_pros",
+      "source_key": "605650",
+      "story_id": "nfl|2216|fantasy_pros|605650|1788380134257",
+      "title": "Mike Evans (adductor) returns to practice ",
+      "url": "https://www.fantasypros.com/nfl/news/605650/mike-evans-adductor-returns-to-practice.php"
+    },
     {
       "analysis": "Kamara remains uncertain for the start of the season next week. ",
       "description": "Alvin Kamara remained absent from practice on Wednesday. ",
@@ -335,6 +400,26 @@
       "story_id": "nfl|1166|rotowire|636012|1788367277000",
       "title": "Kirk Cousins - Named starting quarterback",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints running back Alvin Kamara (knee) was among the players who did not participate in practice on Wednesday, per Mike Triplett of NewOrleans.Football. Kamara is currently battling a sprained MCL, and his availability for the Saints' Week 1 matchup against the Detroit Lions is in question. The veteran running back missed the final six games of the 2025 season due to a separate MCL sprain, making his current injury all the more concerning. Kamara averaged a career-low 4.0 yards per touch across 11 games last season and is expected to play a minimized role in the Saints' offense in 2026 following the team's offseason acquisition of running back Travis Etienne Jr. If Kamara misses the start of the year, Etienne Jr.'s early-season workload outlook could be significantly improved.",
+      "metadata": {
+        "description": "New Orleans Saints running back Alvin Kamara (knee) was among the players who did not participate in practice on Wednesday, per Mike Triplett of NewOrleans.Football. Kamara is currently battling a sprained MCL, and his availability for the Saints' Week 1 matchup against the Detroit Lions is in question. The veteran running back missed the final six games of the 2025 season due to a separate MCL sprain, making his current injury all the more concerning. Kamara averaged a career-low 4.0 yards per touch across 11 games last season and is expected to play a minimized role in the Saints' offense in 2026 following the team's offseason acquisition of running back Travis Etienne Jr. If Kamara misses the start of the year, Etienne Jr.'s early-season workload outlook could be significantly improved.",
+        "title": "Alvin Kamara Does Not Participate in Saints Practice on Wednesday",
+        "topic_id": "1400973969741389824",
+        "url": "https://www.rotoballer.com/player-news/alvin-kamara-does-not-participate-in-saints-practice-on-wednesday/1922076"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1788365948000,
+      "source": "rotoballer",
+      "source_key": "219957",
+      "story_id": "nfl|4035|rotoballer|219957|1788365948000",
+      "title": "Alvin Kamara Does Not Participate in Saints Practice on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/alvin-kamara-does-not-participate-in-saints-practice-on-wednesday/1922076"
     },
     {
       "analysis": "After being contained on the first two of the first-team offense's eight drives on the day, Gibbs delivered his biggest gain of the day on the Lions' third possession. On the second play of that drive, Gibbs followed a block from right guard Tate Ratledge, then found daylight while bouncing out to the outside and raced past cornerback Avonte Maddox for a 59-yard house call. He then finished practice with his second touchdown of the day, taking a fourth-and-1 pitch to the outside and following a Penei Sewell block to beat multiple defenders to the pylon. The two scoring jaunts were demonstrative of Gibbs' trademark explosiveness in open space, but now that David Montgomery is in Houston, the Lions are likely to turn to Gibbs to add more work to his plate in the form of increased usage in goal-line situations and as a runner on early downs. Detroit signed Isiah Pacheco this offseason with the goal of having him take on some of those functions that Montgomery had handled, but Pacheco won't be available until Week 5 at the earliest while he recovers from a back injury as well as an MCL sprain.",

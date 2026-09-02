@@ -2,11 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1675**
-- Newly captured: **2**
+- Stored stories: **1679**
+- Newly captured: **4**
 
 ## Latest news
 
+- **NEW — Jonathon Brooks** — Jonathon Brooks 'optimistic' for Week 1 (2026-09-02T20:25:33.950000Z)
+  - Brooks was absent from practice on Tuesday as he deals with some soreness. His status will need to be monitored in practice next week heading into the season opener. 
+  - Source: https://www.fantasypros.com/nfl/news/605655/jonathon-brooks-optimistic-week-1.php
+- **NEW — Khalil Shakir** — Khalil Shakir (undisclosed) 'optimistic' for Week 1 (2026-09-02T20:15:34.271000Z)
+  - Shakir has been sidelined from practice for the past couple of weeks due to an undisclosed injury. Buffalo is reportedly being cautious with him. 
+  - Source: https://www.fantasypros.com/nfl/news/605648/khalil-shakir-undisclosed-optimistic-week-1.php
+- **NEW — Mike Evans** — Mike Evans (adductor) returns to practice  (2026-09-02T20:15:34.257000Z)
+  - Evans was back on the field after being sidelined for most of training camp. He should be good to go for the season opener next week. 
+  - Source: https://www.fantasypros.com/nfl/news/605650/mike-evans-adductor-returns-to-practice.php
 - **Alvin Kamara** — Alvin Kamara (knee) misses practice Wednesday  (2026-09-02T19:55:33.820000Z)
   - Kamara remains uncertain for the start of the season next week. 
   - Source: https://www.fantasypros.com/nfl/news/605639/alvin-kamara-knee-misses-practice-wednesday.php
@@ -41,15 +50,17 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Jeanty hasn't practiced this week after suffering what is believed to be a low-ankle sprain back on Aug. 23, but the running back has been working off to the side with trainers in an effort to get ready for the start of the regular season. Once the Raiders are required to release true injury reports next week, there will be a better idea of Jeanty's availability for the regular-season opener. Mike Washington and Dylan Laube are next up for carries if Jeanty is unable to play against Miami.
 - **Kirk Cousins** — Kirk Cousins - Named starting quarterback (2026-09-02T16:41:17Z)
   - It was a decision everyone expected and comes as no surprise after Cousins worked with the first-team offense all offseason. Cousins played 30 offensive snaps during the preseason and completed 13 of 17 pass attempts for 101 yards and one touchdown, while rookie No. 1 overall pick Fernando Mendoza was more scattershot, completing just 26 of 46 passes for 250 yards, one touchdown and a pair of picks. Cousins should have a somewhat long leash to begin the season, but Mendoza remains very likely to see rookie-year playing time.
+- **NEW — Alvin Kamara** — Alvin Kamara Does Not Participate in Saints Practice on Wednesday (2026-09-02T16:19:08Z)
+  - Source: https://www.rotoballer.com/player-news/alvin-kamara-does-not-participate-in-saints-practice-on-wednesday/1922076
 - **Jahmyr Gibbs** — Jahmyr Gibbs - Reels off 59-yard run in final camp practice (2026-09-02T16:15:12Z)
   - After being contained on the first two of the first-team offense's eight drives on the day, Gibbs delivered his biggest gain of the day on the Lions' third possession. On the second play of that drive, Gibbs followed a block from right guard Tate Ratledge, then found daylight while bouncing out to the outside and raced past cornerback Avonte Maddox for a 59-yard house call. He then finished practice with his second touchdown of the day, taking a fourth-and-1 pitch to the outside and following a Penei Sewell block to beat multiple defenders to the pylon. The two scoring jaunts were demonstrative of Gibbs' trademark explosiveness in open space, but now that David Montgomery is in Houston, the Lions are likely to turn to Gibbs to add more work to his plate in the form of increased usage in goal-line situations and as a runner on early downs. Detroit signed Isiah Pacheco this offseason with the goal of having him take on some of those functions that Montgomery had handled, but Pacheco won't be available until Week 5 at the earliest while he recovers from a back injury as well as an MCL sprain.
 - **Ollie Gordon** — Ollie Gordon - Practicing in non-contact jersey (2026-09-02T16:06:38Z)
   - Gordon was injured in the Dolphins' second preseason game and missed the final exhibition last week. Across two preseason appearances, Gordon rushed 11 times for 47 yards and caught one of his two targets for 10 yards. He's competing with Jaylen Wright for the backup role behind De'Von Achane this season.
-- **NEW — Kyle Monangai** — Kyle Monangai Still Not Practicing (2026-09-02T15:59:08Z)
+- **Kyle Monangai** — Kyle Monangai Still Not Practicing (2026-09-02T15:59:08Z)
   - Source: https://www.rotoballer.com/player-news/kyle-monangai-still-not-practicing/1922066
 - **Jonathon Brooks** — Jonathon Brooks - Working off to side Wednesday (2026-09-02T15:57:06Z)
   - Brooks has been dealing with some soreness in an undisclosed area for the past couple of days, as coach Dave Canales has been vague when describing the running back's issue. There doesn't seem to be any indication Brooks is in danger of missing Week 1 against the Bears in 11 days, but he's going to need to get back on the practice field next week.
-- **NEW — Malik Nabers** — Malik Nabers Handles Individual and Team Drills Wednesday (2026-09-02T15:54:10Z)
+- **Malik Nabers** — Malik Nabers Handles Individual and Team Drills Wednesday (2026-09-02T15:54:10Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-handles-individual-and-team-drills-wednesday/1922062
 - **Jameson Williams** — Jameson Williams - Stands out in final training camp session (2026-09-02T15:51:37Z)
   - Touted as a standout performer during the Lions' earlier workouts of the summer, Williams authored another strong performance in a scrimmage-style practice to wrap up camp. On the Lions' opening drive alone, Williams beat cornerback Rock Ya-Sin for a 22-yard gain on the first play of the day, reeled off a 18-yard gain on a screen play to convert a third-and-12 and evaded tight coverage to make a sliding catch on a five-yard pass to the back end of the zone on a fourth-and-goal. Williams recorded another reception on a post route later in the day to convert a third-and-10, but the play was negated by a holding penalty. While No. 1 wideout Amon-Ra St. Brown remains Detroit's clear top target in 2026, Williams should still be in store for reliable weekly volume in a consolidated passing game that also includes Sam LaPorta (hip) and running back Jahmyr Gibbs. Heading into the summer, No. 3 wideout Isaac TeSlaa looked like a potential candidate to carve out a more notable role in his second season, but didn't record a reception in either of his two preseason appearances and had a number of underwhelming performances during camp practices, according to Dave Birkett of the Detroit Free Press.
@@ -210,13 +221,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) returns to practice  (2026-09-01T19:55:23.023000Z)
   - Croskey-Merritt was absent from practice for the past week. He should be on track to be good to go for Week 1. 
   - Source: https://www.fantasypros.com/nfl/news/605368/jacory-croskey-merritt-groin-returns-to-practice.php
-- **Tyrone Tracy** — Tyrone Tracy - Practicing in non-contact jersey (2026-09-01T19:54:17Z)
-  - Tracy suffered a neck stinger in last Friday's preseason finale and avoided a major injury. Despite a rocky preseason and training camp under new coach John Harbaugh and OC Matt Nagy, Tracy still managed to make the Giants' 53-man roster. However, Najee Harris and Devin Singletary are also in the mix behind Cam Skattebo, leaving Tracy's actual role uncertain.
-- **Malik Nabers** — Malik Nabers - Practices Tuesday despite early absence (2026-09-01T19:50:27Z)
-  - The apparent absence for Nabers may have raised some alarms after he said Monday he was unsure about his Week 1 availability, but it turns he was able to join Tuesday's session midway through. It's unclear how much work he will get in Tuesday, but it does bode well for his status that he was out there at all.
-- **Ja'Marr Chase** — Ja'Marr Chase (knee) to be limited in practice this week (2026-09-01T19:45:22.854000Z)
-  - Taylor added that he "feels good about his progress." It sounds like Chase will be on track to be good to go for Week 1, but his status will need to be monitored in practice next week. 
-  - Source: https://www.fantasypros.com/nfl/news/605355/jamarr-chase-knee-to-be-limited-practice-this-week.php
-- **Tank Dell** — Tank Dell (knee) is 'close' but 'not quite there' (2026-09-01T19:45:22.839000Z)
-  - Dell was placed on injured reserve, so he'll miss the first four games of the season. It is unclear when he'll be activated. 
-  - Source: https://www.fantasypros.com/nfl/news/605356/tank-dell-knee-is-close-but-not-quite-there.php
