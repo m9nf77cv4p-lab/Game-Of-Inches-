@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-02T03:27:50Z",
+  "last_checked_at": "2026-09-02T03:41:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|13301|rotoballer|219906|1788305345000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -55,9 +57,29 @@
     },
     {
       "analysis": null,
-      "description": "Jacksonville Jaguars 2025 second overall pick, Travis Hunter, enters the 2026 season with reports from camp suggesting that head coach Liam Coen plans to utilize Hunter on both sides of the ball, and Hunter has reportedly taken reps almost exclusively at cornerback for the last few weeks. While Hunter holds value as a professional football player, his ability to play both sides of the ball impacts his ability to be impactful in fantasy football when he is splitting his time. The Jaguars also have a crowded receiver room that includes Parker Washington, Brian Thomas Jr., Jakobi Meyers, and Brenton Strange. While it's possible that Hunter may have spike weeks where he goes off for a big play, it's too unpredictable and unreliable when it comes to the fantasy football lens. RotoBaller currently ranks Hunter as the WR81 and the 210th overall player off the board, making him undraftable in most 12-team formats.",
+      "description": "Washington Commanders wide receiver Antonio Williams has seen his fantasy stock fall as a result of the team's offseason moves. The biggest move the Commanders made was the signing of veteran wide receiver Stefon Diggs, who is coming off an impressive season with the Patriots in which he caught 85 passes for 1,013 yards. He has a firm grasp on the No. 2 receiver role alongside Terry McLaurin, dropping Williams to third on the depth chart. The rookie out of Clemson has upside, but it's safe to say that he won't jump to the top two spots on the depth chart as long as McLaurin and Diggs are healthy. Williams currently ranks as the WR98 in RotoBaller's latest fantasy football rankings for 2026. He's going undrafted in most leagues, with a current ADP of 229.9.",
       "metadata": {
-        "description": "Jacksonville Jaguars 2025 second overall pick, Travis Hunter, enters the 2026 season with reports from camp suggesting that head coach Liam Coen plans to utilize Hunter on both sides of the ball, and Hunter has reportedly taken reps almost exclusively at cornerback for the last few weeks. While Hunter holds value as a professional football player, his ability to play both sides of the ball impacts his ability to be impactful in fantasy football when he is splitting his time. The Jaguars also have a crowded receiver room that includes Parker Washington, Brian Thomas Jr., Jakobi Meyers, and Brenton Strange. While it's possible that Hunter may have spike weeks where he goes off for a big play, it's too unpredictable and unreliable when it comes to the fantasy football lens. RotoBaller currently ranks Hunter as the WR81 and the 210th overall player off the board, making him undraftable in most 12-team formats.",
+        "description": "Washington Commanders wide receiver Antonio Williams has seen his fantasy stock fall as a result of the team's offseason moves. The biggest move the Commanders made was the signing of veteran wide receiver Stefon Diggs, who is coming off an impressive season with the Patriots in which he caught 85 passes for 1,013 yards. He has a firm grasp on the No. 2 receiver role alongside Terry McLaurin, dropping Williams to third on the depth chart. The rookie out of Clemson has upside, but it's safe to say that he won't jump to the top two spots on the depth chart as long as McLaurin and Diggs are healthy. Williams currently ranks as the WR98 in RotoBaller's latest fantasy football rankings for 2026. He's going undrafted in most leagues, with a current ADP of 229.9.",
+        "title": "Antonio Williams' Outlook Negatively Impacted by Offseason Moves",
+        "topic_id": "1400721018934337536",
+        "url": "https://www.rotoballer.com/player-news/antonio-williams-outlook-negatively-impacted-by-offseason-moves/1921641"
+      },
+      "nfl_team": "WAS",
+      "player_id": "13301",
+      "player_name": "Antonio Williams",
+      "position": "WR",
+      "published": 1788305345000,
+      "source": "rotoballer",
+      "source_key": "219906",
+      "story_id": "nfl|13301|rotoballer|219906|1788305345000",
+      "title": "Antonio Williams' Outlook Negatively Impacted by Offseason Moves",
+      "url": "https://www.rotoballer.com/player-news/antonio-williams-outlook-negatively-impacted-by-offseason-moves/1921641"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars 2025 second overall pick, wide receiver/cornerback Travis Hunter, enters the 2026 season with reports from camp suggesting that head coach Liam Coen plans to utilize Hunter on both sides of the ball, and Hunter has reportedly taken reps almost exclusively at cornerback for the last few weeks. While Hunter holds value as a professional football player, his ability to play both sides of the ball impacts his ability to be impactful in fantasy football when he is splitting his time. The Jaguars also have a crowded receiver room that includes Parker Washington, Brian Thomas Jr., Jakobi Meyers, and Brenton Strange. While it's possible that Hunter may have spike weeks where he goes off for a big play, it's too unpredictable and unreliable when it comes to the fantasy football lens. RotoBaller currently ranks Hunter as the WR81 and the 210th overall player off the board, making him undraftable in most 12-team formats.",
+      "metadata": {
+        "description": "Jacksonville Jaguars 2025 second overall pick, wide receiver/cornerback Travis Hunter, enters the 2026 season with reports from camp suggesting that head coach Liam Coen plans to utilize Hunter on both sides of the ball, and Hunter has reportedly taken reps almost exclusively at cornerback for the last few weeks. While Hunter holds value as a professional football player, his ability to play both sides of the ball impacts his ability to be impactful in fantasy football when he is splitting his time. The Jaguars also have a crowded receiver room that includes Parker Washington, Brian Thomas Jr., Jakobi Meyers, and Brenton Strange. While it's possible that Hunter may have spike weeks where he goes off for a big play, it's too unpredictable and unreliable when it comes to the fantasy football lens. RotoBaller currently ranks Hunter as the WR81 and the 210th overall player off the board, making him undraftable in most 12-team formats.",
         "title": "Travis Hunter Continues to be Utilized on Both Sides of the Ball",
         "topic_id": "1400712209977319424",
         "url": "https://www.rotoballer.com/player-news/travis-hunter-continues-to-be-utilized-on-both-sides-of-the-ball/1921631"
