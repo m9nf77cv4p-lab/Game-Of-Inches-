@@ -1,12 +1,10 @@
 {
-  "last_checked_at": "2026-09-02T16:27:08Z",
+  "last_checked_at": "2026-09-02T16:42:39Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12495|rotowire|636009|1788365198000",
-    "nfl|7594|rotoballer|219929|1788351249000",
-    "nfl|8131|rotoballer|219930|1788351365000",
-    "nfl|9221|rotowire|636010|1788365712000"
+    "nfl|11583|rotoballer|219931|1788351850000",
+    "nfl|12527|rotoballer|219932|1788352265000"
   ],
   "schema_version": 1,
   "source": {
@@ -315,6 +313,46 @@
       "story_id": "nfl|4217|rotowire|635993|1788353532000",
       "title": "George Kittle - Traveling to Australia with team",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) missed another day of practice on Wednesday, according to Ryan McFadden of ESPN. Jeanty worked off to the side with trainers on Tuesday, but he has yet to return to a full practice since injuring his ankle in a training camp practice on Aug. 23. The 22-year-old former first-rounder from Boise State is believed to be dealing with a low-ankle sprain, but it is unclear yet if it will impact his availability for the Week 1 contest against the Miami Dolphins. At the very least, though, rookie Mike Washington Jr. figures to have a key role in Vegas' backfield to open the regular season, even if Jeanty is active on Sunday, Sept. 13. Jeanty still carries low-end RB1/high-end RB2 fantasy appeal in upcoming drafts, and he could be poised for an even bigger season in Year 2 in what should be a better offense after running for 975 yards and five touchdowns on 266 carries in 2025. He also had 55 receptions on 73 targets for 346 yards and another five scores as a receiver in 17 games played. We will have a much better read on Jeanty's Week 1 status once the Raiders start releasing official injury reports next week.",
+      "metadata": {
+        "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) missed another day of practice on Wednesday, according to Ryan McFadden of ESPN. Jeanty worked off to the side with trainers on Tuesday, but he has yet to return to a full practice since injuring his ankle in a training camp practice on Aug. 23. The 22-year-old former first-rounder from Boise State is believed to be dealing with a low-ankle sprain, but it is unclear yet if it will impact his availability for the Week 1 contest against the Miami Dolphins. At the very least, though, rookie Mike Washington Jr. figures to have a key role in Vegas' backfield to open the regular season, even if Jeanty is active on Sunday, Sept. 13. Jeanty still carries low-end RB1/high-end RB2 fantasy appeal in upcoming drafts, and he could be poised for an even bigger season in Year 2 in what should be a better offense after running for 975 yards and five touchdowns on 266 carries in 2025. He also had 55 receptions on 73 targets for 346 yards and another five scores as a receiver in 17 games played. We will have a much better read on Jeanty's Week 1 status once the Raiders start releasing official injury reports next week.",
+        "title": "Ashton Jeanty Misses Wednesday's Practice",
+        "topic_id": "1400916081656254464",
+        "url": "https://www.rotoballer.com/player-news/ashton-jeanty-misses-wednesdays-practice/1921930"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788352265000,
+      "source": "rotoballer",
+      "source_key": "219932",
+      "story_id": "nfl|12527|rotoballer|219932|1788352265000",
+      "title": "Ashton Jeanty Misses Wednesday's Practice",
+      "url": "https://www.rotoballer.com/player-news/ashton-jeanty-misses-wednesdays-practice/1921930"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers running back Jonathon Brooks (undisclosed) is working off to the side with a trainer for the second straight day in practice on Wednesday, according to Mike Kaye of The Charlotte Observer. Head coach Dave Canales said that Brooks had some \"soreness\" on Tuesday, but he would not specify where. Brooks has been gaining steam as the potential lead back in Carolina in 2026 over Chuba Hubbard, who had a disappointing 2025 campaign after a 1,000-yard season for the Panthers in 2024. The 23-year-old Brooks, a second-rounder out of Texas in 2024, has already torn his ACL twice since entering the NFL and has played in just three games for the Panthers in his rookie season. Despite durability concerns, Brooks has explosive upside out of the backfield if he is healthy and could push Hubbard for lead-back duties this year. Right now, Brooks' undisclosed injury does not seem serious enough to keep him out in Week 1 against the Chicago Bears, but we should have a better idea of his status next week. RotoBaller has Brooks and Hubbard ranked at No. 33 and No. 34, respectively.",
+      "metadata": {
+        "description": "Carolina Panthers running back Jonathon Brooks (undisclosed) is working off to the side with a trainer for the second straight day in practice on Wednesday, according to Mike Kaye of The Charlotte Observer. Head coach Dave Canales said that Brooks had some \"soreness\" on Tuesday, but he would not specify where. Brooks has been gaining steam as the potential lead back in Carolina in 2026 over Chuba Hubbard, who had a disappointing 2025 campaign after a 1,000-yard season for the Panthers in 2024. The 23-year-old Brooks, a second-rounder out of Texas in 2024, has already torn his ACL twice since entering the NFL and has played in just three games for the Panthers in his rookie season. Despite durability concerns, Brooks has explosive upside out of the backfield if he is healthy and could push Hubbard for lead-back duties this year. Right now, Brooks' undisclosed injury does not seem serious enough to keep him out in Week 1 against the Chicago Bears, but we should have a better idea of his status next week. RotoBaller has Brooks and Hubbard ranked at No. 33 and No. 34, respectively.",
+        "title": "Jonathon Brooks Off to the Side Again on Wednesday",
+        "topic_id": "1400914821657964544",
+        "url": "https://www.rotoballer.com/player-news/jonathon-brooks-off-to-the-side-again-on-wednesday/1921926"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788351850000,
+      "source": "rotoballer",
+      "source_key": "219931",
+      "story_id": "nfl|11583|rotoballer|219931|1788351850000",
+      "title": "Jonathon Brooks Off to the Side Again on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/jonathon-brooks-off-to-the-side-again-on-wednesday/1921926"
     },
     {
       "analysis": null,

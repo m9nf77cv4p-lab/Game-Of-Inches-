@@ -2,14 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1636**
-- Newly captured: **4**
+- Stored stories: **1638**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Jahmyr Gibbs** — Jahmyr Gibbs - Reels off 59-yard run in final camp practice (2026-09-02T16:15:12Z)
+- **Jahmyr Gibbs** — Jahmyr Gibbs - Reels off 59-yard run in final camp practice (2026-09-02T16:15:12Z)
   - After being contained on the first two of the first-team offense's eight drives on the day, Gibbs delivered his biggest gain of the day on the Lions' third possession. On the second play of that drive, Gibbs followed a block from right guard Tate Ratledge, then found daylight while bouncing out to the outside and raced past cornerback Avonte Maddox for a 59-yard house call. He then finished practice with his second touchdown of the day, taking a fourth-and-1 pitch to the outside and following a Penei Sewell block to beat multiple defenders to the pylon. The two scoring jaunts were demonstrative of Gibbs' trademark explosiveness in open space, but now that David Montgomery is in Houston, the Lions are likely to turn to Gibbs to add more work to his plate in the form of increased usage in goal-line situations and as a runner on early downs. Detroit signed Isiah Pacheco this offseason with the goal of having him take on some of those functions that Montgomery had handled, but Pacheco won't be available until Week 5 at the earliest while he recovers from a back injury as well as an MCL sprain.
-- **NEW — Ollie Gordon** — Ollie Gordon - Practicing in non-contact jersey (2026-09-02T16:06:38Z)
+- **Ollie Gordon** — Ollie Gordon - Practicing in non-contact jersey (2026-09-02T16:06:38Z)
   - Gordon was injured in the Dolphins' second preseason game and missed the final exhibition last week. Across two preseason appearances, Gordon rushed 11 times for 47 yards and caught one of his two targets for 10 yards. He's competing with Jaylen Wright for the backup role behind De'Von Achane this season.
 - **Jonathon Brooks** — Jonathon Brooks - Working off to side Wednesday (2026-09-02T15:57:06Z)
   - Brooks has been dealing with some soreness in an undisclosed area for the past couple of days, as coach Dave Canales has been vague when describing the running back's issue. There doesn't seem to be any indication Brooks is in danger of missing Week 1 against the Bears in 11 days, but he's going to need to get back on the practice field next week.
@@ -37,9 +37,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.
 - **George Kittle** — George Kittle - Traveling to Australia with team (2026-09-02T12:52:12Z)
   - A final call on Kittle's availability for Week 1 isn't expected to be made until the 49ers arrive in Australia, but his involvement in practice this week and presence on the road trip suggest that he's on track to play. Kittle -- who tore his right Achilles tendon Jan. 11 and underwent surgery three days later -- could have his snaps limited to some degree if he's cleared to play in the season opener.
-- **NEW — Isaiah Likely** — Isaiah Likely Could Have a Breakout Season in First Year With Giants (2026-09-02T12:16:05Z)
+- **NEW — Ashton Jeanty** — Ashton Jeanty Misses Wednesday's Practice (2026-09-02T12:31:05Z)
+  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-misses-wednesdays-practice/1921930
+- **NEW — Jonathon Brooks** — Jonathon Brooks Off to the Side Again on Wednesday (2026-09-02T12:24:10Z)
+  - Source: https://www.rotoballer.com/player-news/jonathon-brooks-off-to-the-side-again-on-wednesday/1921926
+- **Isaiah Likely** — Isaiah Likely Could Have a Breakout Season in First Year With Giants (2026-09-02T12:16:05Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-likely-could-have-a-breakout-season-in-first-year-with-giants/1921923
-- **NEW — Chuba Hubbard** — Chuba Hubbard Still in Line for Heavy Work (2026-09-02T12:14:09Z)
+- **Chuba Hubbard** — Chuba Hubbard Still in Line for Heavy Work (2026-09-02T12:14:09Z)
   - Source: https://www.rotoballer.com/player-news/chuba-hubbard-still-in-line-for-heavy-work/1921920
 - **Bhayshul Tuten** — Bhayshul Tuten Sent Home Sick (2026-09-02T11:50:07Z)
   - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-sent-home-sick/1921898
@@ -220,8 +224,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Jones has put last season's Achilles injury behind him and turned in a strong training camp as he gets ready for 2026. Despite not having a full complement of weapons at his disposal given absences from Josh Downs, Alec Pierce and Tyler Warren at different parts of camp, Jones still impressed. The Colts open their season Sept. 13 at home against Baltimore.
 - **Jalen Hurts** — Jalen Hurts - Excited about new offense (2026-09-01T16:26:57Z)
   - "I think Jalen's adjusted really well to the new offense," Roseman said. "Now again, we're at a moment in time, we haven't played a game. This isn't in reference to Jalen; this is in reference to anything else. I think that a lot of the things that we'll do during the regular season when we have game plans, I think from an offensive perspective, they're going to be different than what we've done in the past. Jalen's embraced it. He's excited about it and obviously we've got to be better than we were last year." Hurts struggled with interceptions a bit over the summer during training camp and didn't see any action during the preseason, so Week 1 against the Commanders will be the first game action under new OC Sean Mannion. The 28-year-old Hurts is expected to once again be in the mix as a top-five fantasy quarterback after setting a new career high with 25 touchdown passes last regular season to go along with a career-best 1.3 percent interception rate. His rushing numbers fell off some, as he punched in just eight touchdown on the ground after averaging 14 over the previous three seasons.
-- **Hunter Henry** — Hunter Henry - Key part of offense in 2026 (2026-09-01T16:22:11Z)
-  - The Patriots made several splash moves this offseason, including the additions of A.J. Brown and Romeo Doubs, that have garnered most of the headlines. Henry, though, is going to be a staple. The veteran has caught 60-or-more passes from Drake Maye in each of the last two seasons. Daniels notes that Henry is particularly crucial due to the lack of experienced options behind him on the depth chart. Rookie Eli Raridon and journeyman Cameron Latu are the next two options for the Patriots at tight end.
-- **Alec Pierce** — Alec Pierce (ankle) practices Tuesday  (2026-09-01T16:20:21.086000Z)
-  - Pierce missed most of training camp while recovering from offseason ankle surgery. He appears to be on track to be good to go for Week 1, though it is unclear if he will be limited in any way. 
-  - Source: https://www.fantasypros.com/nfl/news/605297/alec-pierce-ankle-practices-tuesday.php
