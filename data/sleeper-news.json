@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-02T21:45:25Z",
+  "last_checked_at": "2026-09-02T22:10:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11581|rotoballer|219965|1788370148000",
-    "nfl|7571|rotoballer|219966|1788370627000"
+    "nfl|6801|rotowire|636032|1788386524000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "On Tuesday, coach Zac Taylor relayed to Baby that Higgins was dealing with a bruised heel, but the issue wasn't a major concern. Having said that, Higgins didn't log any activity one day later, so his status, along with fellow DNP WR Ja'Marr Chase (knee), will be monitored closely as Week 1 inches closer. The Bengals take on the Buccaneers on Sunday, Sept. 13, meaning Higgins' first official practice reps of the campaign will be possible next Wednesday.",
+      "description": "Higgins (heel) didn't take part in practice Wednesday, Ben Baby of ESPN.com reports.",
+      "metadata": {
+        "analysis": "On Tuesday, coach Zac Taylor relayed to Baby that Higgins was dealing with a bruised heel, but the issue wasn't a major concern. Having said that, Higgins didn't log any activity one day later, so his status, along with fellow DNP WR Ja'Marr Chase (knee), will be monitored closely as Week 1 inches closer. The Bengals take on the Buccaneers on Sunday, Sept. 13, meaning Higgins' first official practice reps of the campaign will be possible next Wednesday.",
+        "description": "Higgins (heel) didn't take part in practice Wednesday, Ben Baby of ESPN.com reports.",
+        "title": "Tee Higgins - No practice Wednesday",
+        "topic_id": "1400999141454118912"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6801",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "published": 1788386524000,
+      "source": "rotowire",
+      "source_key": "636032",
+      "story_id": "nfl|6801|rotowire|636032|1788386524000",
+      "title": "Tee Higgins - No practice Wednesday",
+      "url": null
+    },
     {
       "analysis": "Thomas has been limited by a shoulder injury recently, but he was back to full practice activity on Tuesday. The third-year wideout should be good to go for Week 1. ",
       "description": "Brian Thomas Jr. (shoulder) has been practicing in full this week. ",

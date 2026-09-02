@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1692**
-- Newly captured: **2**
+- Stored stories: **1693**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Tee Higgins** — Tee Higgins - No practice Wednesday (2026-09-02T22:02:04Z)
+  - On Tuesday, coach Zac Taylor relayed to Baby that Higgins was dealing with a bruised heel, but the issue wasn't a major concern. Having said that, Higgins didn't log any activity one day later, so his status, along with fellow DNP WR Ja'Marr Chase (knee), will be monitored closely as Week 1 inches closer. The Bengals take on the Buccaneers on Sunday, Sept. 13, meaning Higgins' first official practice reps of the campaign will be possible next Wednesday.
 - **Brian Thomas** — Brian Thomas Jr. (shoulder) practicing in full (2026-09-02T21:05:34.638000Z)
   - Thomas has been limited by a shoulder injury recently, but he was back to full practice activity on Tuesday. The third-year wideout should be good to go for Week 1. 
   - Source: https://www.fantasypros.com/nfl/news/605657/brian-thomas-jr-shoulder-practicing-full.php
@@ -49,11 +51,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Vikings GM Nolan Teasley said Wednesday that he also expects McCarthy to remain with the team this season, whether it's as Kyler Murray's direct backup or the QB3 behind Carson Wentz. Coach Kevin O'Connell seems to want more time with the 2024 first-rounder in an effort to continue to develop the 23-year-old. Across two preseason games this summer, McCarthy completed nine of 17 passes for 115 yards.
 - **Isaac TeSlaa** — Isaac TeSlaa - Disappoints during second training camp (2026-09-02T17:48:23Z)
   - TeSlaa operated primarily as the Lions' No. 4 receiver during his 2025 rookie campaign, appearing in all 17 games and finishing with a 16-239-6 receiving line on 27 targets. Even on the limited volume of targets, the 6-foot-4, 214-pound wideout made a number of highlight-reel grabs during his first NFL season, but he hasn't shown the same ability to win on contested balls during his second training camp. He also made a couple of critical blunders in the Lions' preseason-opening loss to the Bengals, dropping a pass that led to an interception and failing to reel in another catchable target on a fourth-down pass. Montgomery noted that getting more exposure to facing No. 1 cornerbacks in both camp and the preseason has likely played a part in TeSlaa's lack of output, but the Lions apparently saw enough growth from him beyond his box-score contributions to hand him the No. 3 job and keeping just four total receivers on the 53-man roster heading into Week 1. TeSlaa will still face a difficult path to fantasy relevance as the fifth option in the Detroit passing game when all of Amon-Ra St. Brown, Jameson Williams, Jahmyr Gibbs and Sam LaPorta (hip) are available.
-- **NEW — Rashod Bateman** — Ravens Unclear When NFL Will End Its Investigation of Rashod Bateman (2026-09-02T17:37:07Z)
+- **Rashod Bateman** — Ravens Unclear When NFL Will End Its Investigation of Rashod Bateman (2026-09-02T17:37:07Z)
   - Source: https://www.rotoballer.com/player-news/ravens-unclear-when-nfl-will-end-its-investigation-of-rashod-bateman/1922130
 - **Zay Flowers** — Zay Flowers - Runs on side Wednesday (2026-09-02T17:29:47Z)
   - Flowers has been held out of practice since last week with what is believed to be a minor lower-body issue, but it's a positive sign that he received clearance to run. It was reported Tuesday that Flowers will practice fully next week and suit up for Week 1, and he appears to be on track to do so.
-- **NEW — MarShawn Lloyd** — MarShawn Lloyd Sharing First-Team Reps at Practice (2026-09-02T17:29:08Z)
+- **MarShawn Lloyd** — MarShawn Lloyd Sharing First-Team Reps at Practice (2026-09-02T17:29:08Z)
   - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-sharing-first-team-reps-at-practice/1922124
 - **Jonathon Brooks** — Jonathon Brooks - Optimism for Week 1 (2026-09-02T17:23:58Z)
   - It's unclear if Brooks' soreness is in his surgically-repaired knee or elsewhere, but he's worked off to the side with trainers at practice each of the last two days. While Brooks has drawn a substantial amount of summer hype, Chuba Hubbard (hamstring) is expected to maintain a large role in the Carolina backfield. Neither running back may be a reliable fantasy bet out of the gates against Chicago.
@@ -215,5 +217,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605446/ashton-jeanty-ankle-receives-positive-update.php
 - **Chase Brown** — Chase Brown Expanding His Role, a Bonafide RB1 For Fantasy Football (2026-09-01T22:36:07Z)
   - Source: https://www.rotoballer.com/player-news/chase-brown-expanding-his-role-bonafide-rb1-for-fantasy-football/1921621
-- **Brian Robinson** — Brian Robinson - Expected to have role at goal line (2026-09-01T22:32:54Z)
-  - "He has shown a physical style in practice that cements his role as the new Tyler Allgeier," Kendall wrote about Robinson. "Bijan Robinson fantasy managers may not like how many goal-line carries he gets." Allgeier, of course, was a thorn in the side of Bijan last season, out-carrying Robinson 19 to 17 inside the 10-yard line while matching him with seven carries apiece inside the five-yard line. Allgeier also punched in four of those seven carries for touchdowns, while Bijan scored on just two of his chances. Brian, at 6-foot-1 and 225 pounds, profiles similarly to Allgeier as a short-yardage, between-the-tackles, goal-line type who can get the tough yards. It sounds like he's going to have some sort of role in those situations for Atlanta this season, which could mute some of Bijan's touchdown upside.
