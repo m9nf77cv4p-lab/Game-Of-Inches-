@@ -3,7 +3,7 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1594**
-- Newly captured: **1**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -13,9 +13,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Luther Burden** — Luther Burden III (groin) practices Tuesday  (2026-09-02T00:05:25.607000Z)
   - Burden had returned to practice last week. He is on track to be good to go for the start of the season next week. 
   - Source: https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php
-- **NEW — Travis Hunter** — Travis Hunter Continues to be Utilized on Both Sides of the Ball (2026-09-01T22:59:10Z)
+- **Travis Hunter** — Travis Hunter Continues to be Utilized on Both Sides of the Ball (2026-09-01T22:59:10Z)
   - Source: https://www.rotoballer.com/player-news/travis-hunter-continues-to-be-utilized-on-both-sides-of-the-ball/1921631
-- **Saquon Barkley** — Saquon Barkley Has Looked Sharp in the New Eagles Offensive Scheme (2026-09-01T22:47:12Z)
+- **Saquon Barkley** — Saquon Barkley Has Looked Sharp in New Eagles Offensive Scheme (2026-09-01T22:47:12Z)
   - Source: https://www.rotoballer.com/player-news/saquon-barkley-has-looked-sharp-in-the-new-eagles-offensive-scheme/1921627
 - **Ashton Jeanty** — Ashton Jeanty (ankle) receives positive update  (2026-09-01T22:40:24.185000Z)
   - "I expect him to be back as quick he can, maybe quicker than some people would expect," Spytek said. "When that is, we'll see." Jeanty did not practice on Tuesday. The fact that he wasn't placed on IR is a positive sign. He could be back as soon as Week 1. 
