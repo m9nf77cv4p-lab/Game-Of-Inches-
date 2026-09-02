@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-02T11:26:06Z",
+  "last_checked_at": "2026-09-02T12:58:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|4217|rotowire|635993|1788353532000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "It appears a final call on Kittle's availability for Week 1 will not be made until the 49ers land Down Under, but with him joining his teammates for practice this week and joining them on their road trip, there is momentum toward him taking the field for the season opener against the Rams.",
+      "description": "Kittle (Achilles) will travel to Australia with the 49ers and \"is trending in the right direction to play\" Week 1, Ian Rapoport of NFL Network reports.",
+      "metadata": {
+        "analysis": "It appears a final call on Kittle's availability for Week 1 will not be made until the 49ers land Down Under, but with him joining his teammates for practice this week and joining them on their road trip, there is momentum toward him taking the field for the season opener against the Rams.",
+        "description": "Kittle (Achilles) will travel to Australia with the 49ers and \"is trending in the right direction to play\" Week 1, Ian Rapoport of NFL Network reports.",
+        "title": "George Kittle - Traveling to Australia with team",
+        "topic_id": "1400860708635226112"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788353532000,
+      "source": "rotowire",
+      "source_key": "635993",
+      "story_id": "nfl|4217|rotowire|635993|1788353532000",
+      "title": "George Kittle - Traveling to Australia with team",
+      "url": null
+    },
     {
       "analysis": null,
       "description": "Miami Dolphins running back Ollie Gordon II (rib) continues to see his fantasy football stock rise after an encouraging training camp and preseason. Gordon rushed for 47 yards on 11 carries during the preseason, and he also caught a pass for 10 additional yards. Outside of an isolated issue where head coach Jeff Hafley called him selfish for a 15-yard penalty, Gordon was praised by members of the coaching staff for the development and improvement that he has shown. Most notably, in early August, Hafley said that Gordon had the makings of a future every-down back in the NFL. That's high praise from the head coach, especially in an era of the league where true every-down backs are hard to come by. Miami obviously has a different every-down back right now in De'Von Achane, who possesses top-five upside in fantasy football. However, it sounds like Gordon is trending up and could have a significant role in the offense this year. Given the Dolphins' anticipated reliance on running the football, it wouldn't be a total shock to see two different running backs -- Gordon and Achane -- carve out fantasy relevance. For now, though, Gordon is more of a speculative late-round target in hopes that he can eventually ascend into the RB3/flex range. All the while, he remains a very appealing handcuff who could jump to the RB2 tier if Achane were to suffer an injury.",

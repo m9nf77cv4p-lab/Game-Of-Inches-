@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1603**
-- Newly captured: **0**
+- Stored stories: **1604**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — George Kittle** — George Kittle - Traveling to Australia with team (2026-09-02T12:52:12Z)
+  - It appears a final call on Kittle's availability for Week 1 will not be made until the 49ers land Down Under, but with him joining his teammates for practice this week and joining them on their road trip, there is momentum toward him taking the field for the season opener against the Rams.
 - **Ollie Gordon** — Ollie Gordon II is Seeing His Fantasy Stock Rise (2026-09-02T00:14:07Z)
   - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-is-seeing-his-fantasy-stock-rise/1921653
 - **Kyle Monangai** — Kyle Monangai (knee) remains week-to-week  (2026-09-02T00:05:25.623000Z)
@@ -228,5 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/texans-gm-says-tank-dell-is-close-to-return/1921275
 - **Jalen Hurts** — Jalen Hurts Adjusting Well to the New Scheme (2026-09-01T13:39:04Z)
   - Source: https://www.rotoballer.com/player-news/jalen-hurts-adjusting-well-to-the-new-scheme/1921268
-- **Josh Downs** — Josh Downs Returns from Calf Injury and Practices on Tuesday (2026-09-01T13:37:09Z)
-  - Source: https://www.rotoballer.com/player-news/josh-downs-returns-from-calf-injury-and-practices-on-tuesday/1921266
