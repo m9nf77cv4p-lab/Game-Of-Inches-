@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1695**
-- Newly captured: **2**
+- Stored stories: **1698**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Ja'Marr Chase** — Ja'Marr Chase - Doesn't practice Wednesday (2026-09-02T22:12:12Z)
+- **NEW — Marvin Harrison** — Marvin Harrison - Listed on first-team offense (2026-09-02T22:49:02Z)
+  - This comes as no surprise considering Harrison's standing as the fourth overall pick in the 2024 Draft and his average of 6.5 targets per game through two seasons in the NFL. However, he has yet to take off, even with QB Jacoby Brissett under center for most of the 2025 campaign, as heel and foot injuries contained him to only three appearances in the final eight contests. Harrison has had a clean bill of health since late July, and with a full training camp working with Brissett and fellow WR Michael Wilson, the trio is set to hit the ground running Week 1 under new coach Mike LaFleur.
+- **NEW — Michael Wilson** — Michael Wilson - Potential extension looming? (2026-09-02T22:38:58Z)
+  - A 2023 third-round pick of Arizona, Wilson wasn't able to tap into his full potential until his third season in 2025, but once QB Jacoby Brissett took over the offense Week 6, the wide receiver was off and running thereafter, posting a 70-954-6 line on 108 targets over the final 12 contests. The run included three 100-yard receiving games and at least one touchdown grab in each of the final five weeks for Wilson. Entering the final year of his rookie contract, his situation is pending, and whether or not it gets decided before Week 1 or next offseason remains to be seen.
+- **Ja'Marr Chase** — Ja'Marr Chase - Doesn't practice Wednesday (2026-09-02T22:12:12Z)
   - Coach Zac Taylor told Ben Baby of ESPN.com on Tuesday that Chase would be limited this week, but he "feels good about" the wide receiver after he hyperextended his left knee while attempting to gather in a deep ball at practice early last week. Just one day later, though, Chase didn't mix into any drills, and fellow WR Tee Higgins joined him on the sideline due to his own heel injury. The statuses of the Bengals' top options at the position thus are up in the air as Week 1 approaches.
 - **Tee Higgins** — Tee Higgins - No practice Wednesday (2026-09-02T22:02:04Z)
   - On Tuesday, coach Zac Taylor relayed to Baby that Higgins was dealing with a bruised heel, but the issue wasn't a major concern. Having said that, Higgins didn't log any activity one day later, so his status, along with fellow DNP WR Ja'Marr Chase (knee), will be monitored closely as Week 1 inches closer. The Bengals take on the Buccaneers on Sunday, Sept. 13, meaning Higgins' first official practice reps of the campaign will be possible next Wednesday.
@@ -41,11 +45,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Nabers has had a notable week, from telling Jordan Raanan of ESPN.com on Monday that he was unsure about his status for the season opener to not being seen at the open portion of Tuesday's practice. He ended up mixing into drills Tuesday after the session was closed to the media, and Harbaugh's comments Wednesday indicate Nabers was somewhere between a limited and full participant. The Giants are required to post their first Week 1 injury report next Wednesday, and how Nabers is listed there may be telling ahead of the Giants' Week 1 matchup with the Cowboys on Sunday, Sept. 13.
 - **Mike Evans** — Mike Evans - Returns to practice Wednesday (2026-09-02T18:54:00Z)
   - Evans has barely practiced this summer due to various nagging injuries, but his return to the field Wednesday gives him some time to get ready for next Thursday's season opener against the Rams in Australia. The Niners are flying out Wednesday to get their body clocks acclimated to the time change. As long as Evans avoids setbacks over the next week, he should be available against Los Angeles, though it's fair to wonder how much chemistry he's built with Brock Purdy at this point.
+- **NEW — Ja'Marr Chase** — Ja'Marr Chase Not in Uniform on Wednesday (2026-09-02T18:44:05Z)
+  - Source: https://www.rotoballer.com/player-news/jamarr-chase-not-in-uniform-on-wednesday/1922159
 - **Chase Brown** — Chase Brown - Primed for increased role (2026-09-02T18:42:27Z)
   - In particular, Brown cited the scheme's efficiency while running the ball under center and also how much he's been lining up in the slot in the passing game during training camp. After earning just 58 touches as a fifth-round rookie in 2023, his usage increased to 283 touches in 2024 and 301 touches last season. In 17 regular-games in 2025, he matched or set career highs across the board, tallying 1,456 yards from scrimmage and 11 total TDs. Considering Brown was one of seven RBs with at least 50 receptions last year (69, to be exact), his stature in fantasy has never been higher.
 - **Tetairoa McMillan** — Tetairoa McMillan - In line for more slot work in 2026 (2026-09-02T18:20:20Z)
   - If preseason usage means anything, it would seem Canales was putting the plan into action this summer. After playing just 15.3 percent of his regular-season offensive snaps out of the slot as a rookie, McMillan was in the slot on nine of 22 snaps (40.9 percent) across two preseason games. Moving to the slot more would give the 6-foot-5 McMillan significant size and speed advantages inside and allow for more easy "layup" style catches to get the ball in his hands quicker. The 2025 Offensive Rookie of the Year figures to be the center of Carolina's offense this season after posting 70 catches for 1,014 yards and seven scores across 17 regular-season contests last season.
-- **NEW — Lamar Jackson** — Ravens "Optimistic" About Reaching Extension With Lamar Jackson (2026-09-02T18:20:09Z)
+- **Lamar Jackson** — Ravens "Optimistic" About Reaching Extension With Lamar Jackson (2026-09-02T18:20:09Z)
   - Source: https://www.rotoballer.com/player-news/ravens-optimistic-about-reaching-extension-with-lamar-jackson/1922155
 - **George Pickens** — George Pickens - No action during preseason (2026-09-02T18:18:17Z)
   - After surpassing the 1,000-yard receiving threshold just one time in his first three seasons with the Steelers, Pickens broke out with a 93-1,429-9 line on 137 targets in 17 regular-season games in 2025 in his first campaign as a Cowboy. He was helped by the fact fellow WR CeeDee Lamb missed three contests due to injury, but Pickens still exhibited a tremendous rapport with QB Dak Prescott. Dallas extended the franchise tag to Pickens this offseason, and he signed it in April without reaching an extension before the deadline in mid-July, meaning he again will be in the midst of a contract year in 2026.
@@ -210,9 +216,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/chris-brooks-has-a-path-to-more-playing-time-with-teammate-out/1921647
 - **Cooper Kupp** — Cooper Kupp Falling Off Draft Boards in Fantasy Football (2026-09-01T23:34:07Z)
   - Source: https://www.rotoballer.com/player-news/cooper-kupp-falling-off-draft-boards-in-fantasy-football/1921643
-- **Antonio Williams** — Antonio Williams' Outlook Negatively Impacted by Offseason Moves (2026-09-01T23:29:05Z)
-  - Source: https://www.rotoballer.com/player-news/antonio-williams-outlook-negatively-impacted-by-offseason-moves/1921641
-- **Travis Hunter** — Travis Hunter Continues to be Utilized on Both Sides of the Ball (2026-09-01T22:59:10Z)
-  - Source: https://www.rotoballer.com/player-news/travis-hunter-continues-to-be-utilized-on-both-sides-of-the-ball/1921631
-- **Saquon Barkley** — Saquon Barkley Has Looked Sharp in New Eagles Offensive Scheme (2026-09-01T22:47:12Z)
-  - Source: https://www.rotoballer.com/player-news/saquon-barkley-has-looked-sharp-in-the-new-eagles-offensive-scheme/1921627

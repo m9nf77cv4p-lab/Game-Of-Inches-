@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-02T22:25:43Z",
+  "last_checked_at": "2026-09-02T22:50:43Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4881|rotoballer|219969|1788373209000",
-    "nfl|7564|rotowire|636033|1788387132000"
+    "nfl|10232|rotowire|636034|1788388738000",
+    "nfl|11628|rotowire|636035|1788389342000",
+    "nfl|7564|rotoballer|219971|1788374645000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "This comes as no surprise considering Harrison's standing as the fourth overall pick in the 2024 Draft and his average of 6.5 targets per game through two seasons in the NFL. However, he has yet to take off, even with QB Jacoby Brissett under center for most of the 2025 campaign, as heel and foot injuries contained him to only three appearances in the final eight contests. Harrison has had a clean bill of health since late July, and with a full training camp working with Brissett and fellow WR Michael Wilson, the trio is set to hit the ground running Week 1 under new coach Mike LaFleur.",
+      "description": "Harrison is listed as a starter on the Cardinals' unofficial depth chart.",
+      "metadata": {
+        "analysis": "This comes as no surprise considering Harrison's standing as the fourth overall pick in the 2024 Draft and his average of 6.5 targets per game through two seasons in the NFL. However, he has yet to take off, even with QB Jacoby Brissett under center for most of the 2025 campaign, as heel and foot injuries contained him to only three appearances in the final eight contests. Harrison has had a clean bill of health since late July, and with a full training camp working with Brissett and fellow WR Michael Wilson, the trio is set to hit the ground running Week 1 under new coach Mike LaFleur.",
+        "description": "Harrison is listed as a starter on the Cardinals' unofficial depth chart.",
+        "title": "Marvin Harrison - Listed on first-team offense",
+        "topic_id": "1401010471296835584"
+      },
+      "nfl_team": "ARI",
+      "player_id": "11628",
+      "player_name": "Marvin Harrison",
+      "position": "WR",
+      "published": 1788389342000,
+      "source": "rotowire",
+      "source_key": "636035",
+      "story_id": "nfl|11628|rotowire|636035|1788389342000",
+      "title": "Marvin Harrison - Listed on first-team offense",
+      "url": null
+    },
+    {
+      "analysis": "A 2023 third-round pick of Arizona, Wilson wasn't able to tap into his full potential until his third season in 2025, but once QB Jacoby Brissett took over the offense Week 6, the wide receiver was off and running thereafter, posting a 70-954-6 line on 108 targets over the final 12 contests. The run included three 100-yard receiving games and at least one touchdown grab in each of the final five weeks for Wilson. Entering the final year of his rookie contract, his situation is pending, and whether or not it gets decided before Week 1 or next offseason remains to be seen.",
+      "description": "The Cardinals have made attempts to figure out a contract extension with Wilson ahead of the 2026 campaign, Jeremy Fowler of ESPN reports.",
+      "metadata": {
+        "analysis": "A 2023 third-round pick of Arizona, Wilson wasn't able to tap into his full potential until his third season in 2025, but once QB Jacoby Brissett took over the offense Week 6, the wide receiver was off and running thereafter, posting a 70-954-6 line on 108 targets over the final 12 contests. The run included three 100-yard receiving games and at least one touchdown grab in each of the final five weeks for Wilson. Entering the final year of his rookie contract, his situation is pending, and whether or not it gets decided before Week 1 or next offseason remains to be seen.",
+        "description": "The Cardinals have made attempts to figure out a contract extension with Wilson ahead of the 2026 campaign, Jeremy Fowler of ESPN reports.",
+        "title": "Michael Wilson - Potential extension looming?",
+        "topic_id": "1401007950474014720"
+      },
+      "nfl_team": "ARI",
+      "player_id": "10232",
+      "player_name": "Michael Wilson",
+      "position": "WR",
+      "published": 1788388738000,
+      "source": "rotowire",
+      "source_key": "636034",
+      "story_id": "nfl|10232|rotowire|636034|1788388738000",
+      "title": "Michael Wilson - Potential extension looming?",
+      "url": null
+    },
     {
       "analysis": "Coach Zac Taylor told Ben Baby of ESPN.com on Tuesday that Chase would be limited this week, but he \"feels good about\" the wide receiver after he hyperextended his left knee while attempting to gather in a deep ball at practice early last week. Just one day later, though, Chase didn't mix into any drills, and fellow WR Tee Higgins joined him on the sideline due to his own heel injury. The statuses of the Bengals' top options at the position thus are up in the air as Week 1 approaches.",
       "description": "Chase (knee) was present at Wednesday's practice but not suited up, Gabi Sorrentino of Fox 19 Cincinnati reports.",
@@ -299,6 +340,26 @@
       "story_id": "nfl|2216|rotowire|636024|1788375240000",
       "title": "Mike Evans - Returns to practice Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals wide receiver Ja'Marr Chase (knee) was not in uniform and did not practice on Wednesday, according to Gabi Sorrentino of FOX 19 Cincinnati. Chase hyperextended his left knee while trying to catch a pass last week in training camp practice and has not seen the field since. Head coach Zac Taylor said on Tuesday that Chase would be limited this week and that he \"feels good about\" where the 26-year-old is with the regular-season opener coming on Sunday, Sept. 13, against the Tampa Bay Buccaneers. The five-time Pro Bowler might also be limited in some practices next week, but it does not sound like he is in danger of missing the start of the 2026 season. The former fifth overall pick from LSU in 2021 has five straight 1,000-yard campaigns to begin his career, including a whopping 520 receptions and 54 touchdown catches in 78 games played. With quarterback Joe Burrow healthy and throwing him passes, Chase is still the consensus top overall receiver for fantasy football managers in 2026.",
+      "metadata": {
+        "description": "Cincinnati Bengals wide receiver Ja'Marr Chase (knee) was not in uniform and did not practice on Wednesday, according to Gabi Sorrentino of FOX 19 Cincinnati. Chase hyperextended his left knee while trying to catch a pass last week in training camp practice and has not seen the field since. Head coach Zac Taylor said on Tuesday that Chase would be limited this week and that he \"feels good about\" where the 26-year-old is with the regular-season opener coming on Sunday, Sept. 13, against the Tampa Bay Buccaneers. The five-time Pro Bowler might also be limited in some practices next week, but it does not sound like he is in danger of missing the start of the 2026 season. The former fifth overall pick from LSU in 2021 has five straight 1,000-yard campaigns to begin his career, including a whopping 520 receptions and 54 touchdown catches in 78 games played. With quarterback Joe Burrow healthy and throwing him passes, Chase is still the consensus top overall receiver for fantasy football managers in 2026.",
+        "title": "Ja'Marr Chase Not in Uniform on Wednesday",
+        "topic_id": "1401010465076695040",
+        "url": "https://www.rotoballer.com/player-news/jamarr-chase-not-in-uniform-on-wednesday/1922159"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1788374645000,
+      "source": "rotoballer",
+      "source_key": "219971",
+      "story_id": "nfl|7564|rotoballer|219971|1788374645000",
+      "title": "Ja'Marr Chase Not in Uniform on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/jamarr-chase-not-in-uniform-on-wednesday/1922159"
     },
     {
       "analysis": "In particular, Brown cited the scheme's efficiency while running the ball under center and also how much he's been lining up in the slot in the passing game during training camp. After earning just 58 touches as a fifth-round rookie in 2023, his usage increased to 283 touches in 2024 and 301 touches last season. In 17 regular-games in 2025, he matched or set career highs across the board, tallying 1,456 yards from scrimmage and 11 total TDs. Considering Brown was one of seven RBs with at least 50 receptions last year (69, to be exact), his stature in fantasy has never been higher.",
