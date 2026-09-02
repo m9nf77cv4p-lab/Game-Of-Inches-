@@ -22968,7 +22968,7 @@
       ],
       "first_name": "Kenneth",
       "full_name": "Kenneth Walker",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Walker",
       "nfl_team": "KC",
       "player_id": "8151",
@@ -23764,8 +23764,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-02T15:24:28Z",
-    "source_fingerprint": "5f6c1b585cab9ef01240c3c14fc74f1c1e98a466b79279a5114c0c2b6ceffe82"
+    "last_changed_at": "2026-09-02T17:08:35Z",
+    "source_fingerprint": "1d722b1a2162689fdce59ed6a8fa98be62db6d44822b04160bec8c55c4344d05"
   },
   "teams": [
     {

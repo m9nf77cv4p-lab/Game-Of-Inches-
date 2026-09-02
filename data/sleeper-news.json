@@ -1,9 +1,15 @@
 {
-  "last_checked_at": "2026-09-02T18:13:22Z",
+  "last_checked_at": "2026-09-02T18:31:52Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|8205|rotoballer|219943|1788357546000"
+    "nfl|11565|rotoballer|219946|1788358512000",
+    "nfl|11565|rotowire|636019|1788372555000",
+    "nfl|11586|rotoballer|219945|1788357966000",
+    "nfl|12526|rotowire|636022|1788373220000",
+    "nfl|6794|rotowire|636020|1788372762000",
+    "nfl|8137|rotowire|636021|1788373097000",
+    "nfl|9997|rotoballer|219944|1788358148000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +19,86 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "If preseason usage means anything, it would seem Canales was putting the plan into action this summer. After playing just 15.3 percent of his regular-season offensive snaps out of the slot as a rookie, McMillan was in the slot on nine of 22 snaps (40.9 percent) across two preseason games. Moving to the slot more would give the 6-foot-5 McMillan significant size and speed advantages inside and allow for more easy \"layup\" style catches to get the ball in his hands quicker. The 2025 Offensive Rookie of the Year figures to be the center of Carolina's offense this season after posting 70 catches for 1,014 yards and seven scores across 17 regular-season contests last season.",
+      "description": "Coach Dave Canales suggested Wednesday that McMillan will work out of the slot more this season, Sheena Quick of Fox Sports Radio 1340 reports.",
+      "metadata": {
+        "analysis": "If preseason usage means anything, it would seem Canales was putting the plan into action this summer. After playing just 15.3 percent of his regular-season offensive snaps out of the slot as a rookie, McMillan was in the slot on nine of 22 snaps (40.9 percent) across two preseason games. Moving to the slot more would give the 6-foot-5 McMillan significant size and speed advantages inside and allow for more easy \"layup\" style catches to get the ball in his hands quicker. The 2025 Offensive Rookie of the Year figures to be the center of Carolina's offense this season after posting 70 catches for 1,014 yards and seven scores across 17 regular-season contests last season.",
+        "description": "Coach Dave Canales suggested Wednesday that McMillan will work out of the slot more this season, Sheena Quick of Fox Sports Radio 1340 reports.",
+        "title": "Tetairoa McMillan - In line for more slot work in 2026",
+        "topic_id": "1400943768525385728"
+      },
+      "nfl_team": "CAR",
+      "player_id": "12526",
+      "player_name": "Tetairoa McMillan",
+      "position": "WR",
+      "published": 1788373220000,
+      "source": "rotowire",
+      "source_key": "636022",
+      "story_id": "nfl|12526|rotowire|636022|1788373220000",
+      "title": "Tetairoa McMillan - In line for more slot work in 2026",
+      "url": null
+    },
+    {
+      "analysis": "After surpassing the 1,000-yard receiving threshold just one time in his first three seasons with the Steelers, Pickens broke out with a 93-1,429-9 line on 137 targets in 17 regular-season games in 2025 in his first campaign as a Cowboy. He was helped by the fact fellow WR CeeDee Lamb missed three contests due to injury, but Pickens still exhibited a tremendous rapport with QB Dak Prescott. Dallas extended the franchise tag to Pickens this offseason, and he signed it in April without reaching an extension before the deadline in mid-July, meaning he again will be in the midst of a contract year in 2026.",
+      "description": "Pickens didn't suit up for any of the Cowboys' three preseason games.",
+      "metadata": {
+        "analysis": "After surpassing the 1,000-yard receiving threshold just one time in his first three seasons with the Steelers, Pickens broke out with a 93-1,429-9 line on 137 targets in 17 regular-season games in 2025 in his first campaign as a Cowboy. He was helped by the fact fellow WR CeeDee Lamb missed three contests due to injury, but Pickens still exhibited a tremendous rapport with QB Dak Prescott. Dallas extended the franchise tag to Pickens this offseason, and he signed it in April without reaching an extension before the deadline in mid-July, meaning he again will be in the midst of a contract year in 2026.",
+        "description": "Pickens didn't suit up for any of the Cowboys' three preseason games.",
+        "title": "George Pickens - No action during preseason",
+        "topic_id": "1400942509831528448"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8137",
+      "player_name": "George Pickens",
+      "position": "WR",
+      "published": 1788373097000,
+      "source": "rotowire",
+      "source_key": "636021",
+      "story_id": "nfl|8137|rotowire|636021|1788373097000",
+      "title": "George Pickens - No action during preseason",
+      "url": null
+    },
+    {
+      "analysis": "Though most of the Vikings' key starters ended up sitting out Friday's 34-6 loss to the Broncos in the preseason finale, Jefferson and Murray displayed a strong connection while sharing the field together for the last time in front of assembled media before the Sept. 13 season opener versus the Packers. During red-zone work, Murray made a strong anticipation throw over the middle to Jefferson that went for a touchdown, and on the very next play, the wideout hauled down a one-handed touchdown grab on a throw Murray made while facing heavy pressure. While it may be ambitious for Jefferson to return to the great heights he displayed over his first three years in the NFL when he averaged 108 catches, 1,608 yards and 8.3 touchdowns per season, the upgrade in quarterback play that Murray is expected to provide should help Jefferson handily outperform the 84-1,048-2 receiving line he posted over 17 games in 2025 with J.J. McCarthy, Carson Wentz and Max Brosmer throwing passes to him.",
+      "description": "Jefferson connected on a couple highlight-reel grabs from quarterback Kyler Murray during the Vikings' final training camp practice Aug. 26, Andrew Krammer of The Minnesota Star Tribune reports.",
+      "metadata": {
+        "analysis": "Though most of the Vikings' key starters ended up sitting out Friday's 34-6 loss to the Broncos in the preseason finale, Jefferson and Murray displayed a strong connection while sharing the field together for the last time in front of assembled media before the Sept. 13 season opener versus the Packers. During red-zone work, Murray made a strong anticipation throw over the middle to Jefferson that went for a touchdown, and on the very next play, the wideout hauled down a one-handed touchdown grab on a throw Murray made while facing heavy pressure. While it may be ambitious for Jefferson to return to the great heights he displayed over his first three years in the NFL when he averaged 108 catches, 1,608 yards and 8.3 touchdowns per season, the upgrade in quarterback play that Murray is expected to provide should help Jefferson handily outperform the 84-1,048-2 receiving line he posted over 17 games in 2025 with J.J. McCarthy, Carson Wentz and Max Brosmer throwing passes to him.",
+        "description": "Jefferson connected on a couple highlight-reel grabs from quarterback Kyler Murray during the Vikings' final training camp practice Aug. 26, Andrew Krammer of The Minnesota Star Tribune reports.",
+        "title": "Justin Jefferson - Makes impressive grabs in last camp practice",
+        "topic_id": "1400941250785320960"
+      },
+      "nfl_team": "MIN",
+      "player_id": "6794",
+      "player_name": "Justin Jefferson",
+      "position": "WR",
+      "published": 1788372762000,
+      "source": "rotowire",
+      "source_key": "636020",
+      "story_id": "nfl|6794|rotowire|636020|1788372762000",
+      "title": "Justin Jefferson - Makes impressive grabs in last camp practice",
+      "url": null
+    },
+    {
+      "analysis": "Vikings GM Nolan Teasley said Wednesday that he also expects McCarthy to remain with the team this season, whether it's as Kyler Murray's direct backup or the QB3 behind Carson Wentz. Coach Kevin O'Connell seems to want more time with the 2024 first-rounder in an effort to continue to develop the 23-year-old. Across two preseason games this summer, McCarthy completed nine of 17 passes for 115 yards.",
+      "description": "McCarthy (ankle) has practiced in full this week, Alec Lewis of The Athletic reports.",
+      "metadata": {
+        "analysis": "Vikings GM Nolan Teasley said Wednesday that he also expects McCarthy to remain with the team this season, whether it's as Kyler Murray's direct backup or the QB3 behind Carson Wentz. Coach Kevin O'Connell seems to want more time with the 2024 first-rounder in an effort to continue to develop the 23-year-old. Across two preseason games this summer, McCarthy completed nine of 17 passes for 115 yards.",
+        "description": "McCarthy (ankle) has practiced in full this week, Alec Lewis of The Athletic reports.",
+        "title": "J.J. McCarthy - Back to full practice",
+        "topic_id": "1400941250806292480"
+      },
+      "nfl_team": "MIN",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1788372555000,
+      "source": "rotowire",
+      "source_key": "636019",
+      "story_id": "nfl|11565|rotowire|636019|1788372555000",
+      "title": "J.J. McCarthy - Back to full practice",
+      "url": null
+    },
     {
       "analysis": "TeSlaa operated primarily as the Lions' No. 4 receiver during his 2025 rookie campaign, appearing in all 17 games and finishing with a 16-239-6 receiving line on 27 targets. Even on the limited volume of targets, the 6-foot-4, 214-pound wideout made a number of highlight-reel grabs during his first NFL season, but he hasn't shown the same ability to win on contested balls during his second training camp. He also made a couple of critical blunders in the Lions' preseason-opening loss to the Bengals, dropping a pass that led to an interception and failing to reel in another catchable target on a fourth-down pass. Montgomery noted that getting more exposure to facing No. 1 cornerbacks in both camp and the preseason has likely played a part in TeSlaa's lack of output, but the Lions apparently saw enough growth from him beyond his box-score contributions to hand him the No. 3 job and keeping just four total receivers on the 53-man roster heading into Week 1. TeSlaa will still face a difficult path to fantasy relevance as the fifth option in the Detroit passing game when all of Amon-Ra St. Brown, Jameson Williams, Jahmyr Gibbs and Sam LaPorta (hip) are available.",
       "description": "TeSlaa will enter the season as the Lions' No. 3 receiver, despite a poor showing during training camp and going without a reception on three targets over 44 snaps during his two preseason appearances, Dave Birkett of the Detroit Free Press reports. \"I'm not too concerned,\" wide receivers coach Scottie Montgomery said last week, regarding TeSlaa's lackluster camp. \"I do want our guys making every single play. And we did hold him accountable for some of the things that went on, and that's the difference in being in the room and being outside of the room.\"",
@@ -393,6 +479,66 @@
       "story_id": "nfl|9488|rotowire|635999|1788359486000",
       "title": "Jaxon Smith-Njigba - Not concerned about run game",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings general manager Nolan Teasley said on Wednesday that he expects quarterback J.J. McCarthy (ankle), who has practiced in full the last two days, to be on the Week 1 roster, according to Alec Lewis of The Athletic. However, Teasley would not discuss whether McCarthy would be the backup to starter Kyler Murray over veteran Carson Wentz. The 23-year-old former 10th overall pick from Michigan in 2024 injured his ankle in the second preseason game and then was held out of the preseason finale, leading to speculation that the Vikings might cut McCarthy altogether if they could not find a trade partner for him. Not only will he be on the Week 1 roster, but McCarthy could still win the backup job now that he appears to be recovered from his ankle injury. McCarthy missed his entire rookie season after having knee surgery, and he flopped as the full-time starter in 2025, throwing for 1,632 yards, 11 touchdowns, and 12 interceptions in only 10 games while dealing with multiple injuries. His dynasty/keeper stock is at an all-time low going into the start of the 2026 season.",
+      "metadata": {
+        "description": "Minnesota Vikings general manager Nolan Teasley said on Wednesday that he expects quarterback J.J. McCarthy (ankle), who has practiced in full the last two days, to be on the Week 1 roster, according to Alec Lewis of The Athletic. However, Teasley would not discuss whether McCarthy would be the backup to starter Kyler Murray over veteran Carson Wentz. The 23-year-old former 10th overall pick from Michigan in 2024 injured his ankle in the second preseason game and then was held out of the preseason finale, leading to speculation that the Vikings might cut McCarthy altogether if they could not find a trade partner for him. Not only will he be on the Week 1 roster, but McCarthy could still win the backup job now that he appears to be recovered from his ankle injury. McCarthy missed his entire rookie season after having knee surgery, and he flopped as the full-time starter in 2025, throwing for 1,632 yards, 11 touchdowns, and 12 interceptions in only 10 games while dealing with multiple injuries. His dynasty/keeper stock is at an all-time low going into the start of the 2026 season.",
+        "title": "Vikings Expect J.J. McCarthy to be on the Week 1 Roster",
+        "topic_id": "1400943766101057536",
+        "url": "https://www.rotoballer.com/player-news/vikings-expect-j-j-mccarthy-to-be-on-the-week-1-roster/1921999"
+      },
+      "nfl_team": "MIN",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1788358512000,
+      "source": "rotoballer",
+      "source_key": "219946",
+      "story_id": "nfl|11565|rotoballer|219946|1788358512000",
+      "title": "Vikings Expect J.J. McCarthy to be on the Week 1 Roster",
+      "url": "https://www.rotoballer.com/player-news/vikings-expect-j-j-mccarthy-to-be-on-the-week-1-roster/1921999"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) was on the field doing sprints and a workout on Wednesday, but he did not practice with the rest of the team, according to Jeff Zrebiec of The Athletic. Flowers has not practiced since last week due to a lower-body injury, but CBS Sports' Matt Zenitz reports that Flowers is expected to be a full-go next week, which would put him in line to be ready for the Week 1 regular-season opener on Sunday, Sept. 13. The 25-year-old enters his fourth year in the NFL with potentially the highest fantasy football ceiling he has ever had, which is saying a lot after back-to-back 1,000-yard seasons in 2024 and 2025 with nine combined touchdowns. The former first-rounder from Boston College had a career-best 1,211 yards and five touchdowns on 86 receptions last year, even with quarterback Lamar Jackson missing some time with various injuries. As long as Flowers is active next weekend, he will be a must-start in all fantasy leagues as a low-end WR1/high-end WR2 against the Indianapolis Colts.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) was on the field doing sprints and a workout on Wednesday, but he did not practice with the rest of the team, according to Jeff Zrebiec of The Athletic. Flowers has not practiced since last week due to a lower-body injury, but CBS Sports' Matt Zenitz reports that Flowers is expected to be a full-go next week, which would put him in line to be ready for the Week 1 regular-season opener on Sunday, Sept. 13. The 25-year-old enters his fourth year in the NFL with potentially the highest fantasy football ceiling he has ever had, which is saying a lot after back-to-back 1,000-yard seasons in 2024 and 2025 with nine combined touchdowns. The former first-rounder from Boston College had a career-best 1,211 yards and five touchdowns on 86 receptions last year, even with quarterback Lamar Jackson missing some time with various injuries. As long as Flowers is active next weekend, he will be a must-start in all fantasy leagues as a low-end WR1/high-end WR2 against the Indianapolis Colts.",
+        "title": "Zay Flowers Does More Work on the Side on Wednesday",
+        "topic_id": "1400941249195679744",
+        "url": "https://www.rotoballer.com/player-news/zay-flowers-does-more-work-on-the-side-on-wednesday/1921993"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1788358148000,
+      "source": "rotoballer",
+      "source_key": "219944",
+      "story_id": "nfl|9997|rotoballer|219944|1788358148000",
+      "title": "Zay Flowers Does More Work on the Side on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/zay-flowers-does-more-work-on-the-side-on-wednesday/1921993"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams running back Blake Corum saw his workload increase over the back half of the 2025 season, and there was a case to be made that he was a more explosive runner than veteran Kyren Williams. With both backs again healthy heading into the 2026 season, there is an expectation that they could share something closer to a 50/50 workload split, and while ESPN's Dan Graziano acknowledges that Williams is likely to begin the year in a nominal lead back role, he believes that if Corum can improve as a pass protector, he could emerge as the Rams' 1A to William's 1B by year end. Both players performed as top 17 fantasy running backs over the final six weeks of the regular season, so there is obvious room for both to succeed, but with Corum going nearly six rounds later in 2026 drafts, he would prove to be a league-winner should Grazaiano's prediction bear out.",
+      "metadata": {
+        "description": "Los Angeles Rams running back Blake Corum saw his workload increase over the back half of the 2025 season, and there was a case to be made that he was a more explosive runner than veteran Kyren Williams. With both backs again healthy heading into the 2026 season, there is an expectation that they could share something closer to a 50/50 workload split, and while ESPN's Dan Graziano acknowledges that Williams is likely to begin the year in a nominal lead back role, he believes that if Corum can improve as a pass protector, he could emerge as the Rams' 1A to William's 1B by year end. Both players performed as top 17 fantasy running backs over the final six weeks of the regular season, so there is obvious room for both to succeed, but with Corum going nearly six rounds later in 2026 drafts, he would prove to be a league-winner should Grazaiano's prediction bear out.",
+        "title": "Blake Corum \"Could Emerge as the 1A\" in Rams' Backfield",
+        "topic_id": "1400941249266982912",
+        "url": "https://www.rotoballer.com/player-news/blake-corum-could-emerge-as-the-1a-in-rams-backfield/1921990"
+      },
+      "nfl_team": "LAR",
+      "player_id": "11586",
+      "player_name": "Blake Corum",
+      "position": "RB",
+      "published": 1788357966000,
+      "source": "rotoballer",
+      "source_key": "219945",
+      "story_id": "nfl|11586|rotoballer|219945|1788357966000",
+      "title": "Blake Corum \"Could Emerge as the 1A\" in Rams' Backfield",
+      "url": "https://www.rotoballer.com/player-news/blake-corum-could-emerge-as-the-1a-in-rams-backfield/1921990"
     },
     {
       "analysis": null,
