@@ -1,10 +1,14 @@
 {
-  "last_checked_at": "2026-09-02T16:42:39Z",
+  "last_checked_at": "2026-09-02T16:54:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11583|rotoballer|219931|1788351850000",
-    "nfl|12527|rotoballer|219932|1788352265000"
+    "nfl|10232|rotoballer|219933|1788352664000",
+    "nfl|1166|fantasy_pros|605604|1788367533181",
+    "nfl|1166|rotowire|636012|1788367277000",
+    "nfl|12527|rotoballer|219934|1788353166000",
+    "nfl|12527|rotowire|636013|1788367501000",
+    "nfl|13269|rotowire|636014|1788367702000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +18,87 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Mendoza was in the competition all offseason, but it was going to take some otherworldly play to knock Cousins out of the top spot on the depth chart. While Cousins completed 13 of 17 passes for 101 yards and one touchdown across 30 preseason snaps, Mendoza struggled some, completing just 26 of 46 passes for 250 yards, one touchdown and a pair of interceptions during exhibition action. Cousins is likely to have a decently long leash to begin the season, but Mendoza remains a good bet to make starts as a rookie.",
+      "description": "With coach Klint Kubiak naming Kirk Cousins the Raiders' starting quarterback Wednesday, Mendoza will open the season as the backup, Sam Warren of The Athletic reports.",
+      "metadata": {
+        "analysis": "Mendoza was in the competition all offseason, but it was going to take some otherworldly play to knock Cousins out of the top spot on the depth chart. While Cousins completed 13 of 17 passes for 101 yards and one touchdown across 30 preseason snaps, Mendoza struggled some, completing just 26 of 46 passes for 250 yards, one touchdown and a pair of interceptions during exhibition action. Cousins is likely to have a decently long leash to begin the season, but Mendoza remains a good bet to make starts as a rookie.",
+        "description": "With coach Klint Kubiak naming Kirk Cousins the Raiders' starting quarterback Wednesday, Mendoza will open the season as the backup, Sam Warren of The Athletic reports.",
+        "title": "Fernando Mendoza - Opening season as QB2",
+        "topic_id": "1400919857465188352"
+      },
+      "nfl_team": "LV",
+      "player_id": "13269",
+      "player_name": "Fernando Mendoza",
+      "position": "QB",
+      "published": 1788367702000,
+      "source": "rotowire",
+      "source_key": "636014",
+      "story_id": "nfl|13269|rotowire|636014|1788367702000",
+      "title": "Fernando Mendoza - Opening season as QB2",
+      "url": null
+    },
+    {
+      "analysis": "It's long been presumed that the Raiders would start Cousins and give Mendoza at least a half-redshirt year. This just confirms it. He could be an interesting streaming option, but we need to see more from the pass catchers not named Brock Bowers to really feel confident in this passing offense.",
+      "description": "Kirk Cousins has been named the Raiders Week 1 starter against the Dolphins.",
+      "metadata": {
+        "analysis": "It's long been presumed that the Raiders would start Cousins and give Mendoza at least a half-redshirt year. This just confirms it. He could be an interesting streaming option, but we need to see more from the pass catchers not named Brock Bowers to really feel confident in this passing offense.",
+        "description": "Kirk Cousins has been named the Raiders Week 1 starter against the Dolphins.",
+        "title": "Kirk Cousins named Raiders Week 1 starter",
+        "topic_id": "1400918607654858752",
+        "url": "https://www.fantasypros.com/nfl/news/605604/kirk-cousins-named-raiders-week-1-starter.php"
+      },
+      "nfl_team": "LV",
+      "player_id": "1166",
+      "player_name": "Kirk Cousins",
+      "position": "QB",
+      "published": 1788367533181,
+      "source": "fantasy_pros",
+      "source_key": "605604",
+      "story_id": "nfl|1166|fantasy_pros|605604|1788367533181",
+      "title": "Kirk Cousins named Raiders Week 1 starter",
+      "url": "https://www.fantasypros.com/nfl/news/605604/kirk-cousins-named-raiders-week-1-starter.php"
+    },
+    {
+      "analysis": "Jeanty hasn't practiced this week after suffering what is believed to be a low-ankle sprain back on Aug. 23, but the running back has been working off to the side with trainers in an effort to get ready for the start of the regular season. Once the Raiders are required to release true injury reports next week, there will be a better idea of Jeanty's availability for the regular-season opener. Mike Washington and Dylan Laube are next up for carries if Jeanty is unable to play against Miami.",
+      "description": "Coach Klint Kubiak expressed optimism Wednesday that Jeanty (ankle) will be ready for Week 1 against the Dolphins, Adam Hill of the Las Vegas Review-Journal reports.",
+      "metadata": {
+        "analysis": "Jeanty hasn't practiced this week after suffering what is believed to be a low-ankle sprain back on Aug. 23, but the running back has been working off to the side with trainers in an effort to get ready for the start of the regular season. Once the Raiders are required to release true injury reports next week, there will be a better idea of Jeanty's availability for the regular-season opener. Mike Washington and Dylan Laube are next up for carries if Jeanty is unable to play against Miami.",
+        "description": "Coach Klint Kubiak expressed optimism Wednesday that Jeanty (ankle) will be ready for Week 1 against the Dolphins, Adam Hill of the Las Vegas Review-Journal reports.",
+        "title": "Ashton Jeanty - Optimism for Week 1",
+        "topic_id": "1400919857460994048"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788367501000,
+      "source": "rotowire",
+      "source_key": "636013",
+      "story_id": "nfl|12527|rotowire|636013|1788367501000",
+      "title": "Ashton Jeanty - Optimism for Week 1",
+      "url": null
+    },
+    {
+      "analysis": "It was a decision everyone expected and comes as no surprise after Cousins worked with the first-team offense all offseason. Cousins played 30 offensive snaps during the preseason and completed 13 of 17 pass attempts for 101 yards and one touchdown, while rookie No. 1 overall pick Fernando Mendoza was more scattershot, completing just 26 of 46 passes for 250 yards, one touchdown and a pair of picks. Cousins should have a somewhat long leash to begin the season, but Mendoza remains very likely to see rookie-year playing time.",
+      "description": "Coach Klint Kubiak named Cousins the Raiders' starting quarterback Wednesday, Sam Warren of The Athletic reports.",
+      "metadata": {
+        "analysis": "It was a decision everyone expected and comes as no surprise after Cousins worked with the first-team offense all offseason. Cousins played 30 offensive snaps during the preseason and completed 13 of 17 pass attempts for 101 yards and one touchdown, while rookie No. 1 overall pick Fernando Mendoza was more scattershot, completing just 26 of 46 passes for 250 yards, one touchdown and a pair of picks. Cousins should have a somewhat long leash to begin the season, but Mendoza remains very likely to see rookie-year playing time.",
+        "description": "Coach Klint Kubiak named Cousins the Raiders' starting quarterback Wednesday, Sam Warren of The Athletic reports.",
+        "title": "Kirk Cousins - Named starting quarterback",
+        "topic_id": "1400918599660503040"
+      },
+      "nfl_team": "LV",
+      "player_id": "1166",
+      "player_name": "Kirk Cousins",
+      "position": "QB",
+      "published": 1788367277000,
+      "source": "rotowire",
+      "source_key": "636012",
+      "story_id": "nfl|1166|rotowire|636012|1788367277000",
+      "title": "Kirk Cousins - Named starting quarterback",
+      "url": null
+    },
     {
       "analysis": "After being contained on the first two of the first-team offense's eight drives on the day, Gibbs delivered his biggest gain of the day on the Lions' third possession. On the second play of that drive, Gibbs followed a block from right guard Tate Ratledge, then found daylight while bouncing out to the outside and raced past cornerback Avonte Maddox for a 59-yard house call. He then finished practice with his second touchdown of the day, taking a fourth-and-1 pitch to the outside and following a Penei Sewell block to beat multiple defenders to the pylon. The two scoring jaunts were demonstrative of Gibbs' trademark explosiveness in open space, but now that David Montgomery is in Houston, the Lions are likely to turn to Gibbs to add more work to his plate in the form of increased usage in goal-line situations and as a runner on early downs. Detroit signed Isiah Pacheco this offseason with the goal of having him take on some of those functions that Montgomery had handled, but Pacheco won't be available until Week 5 at the earliest while he recovers from a back injury as well as an MCL sprain.",
       "description": "Gibbs had a strong day in the Lions' final practice of training camp Thursday, most notably running for 59- and 16-yard touchdowns during the session, Tim Twentyman of the team's official site reports.",
@@ -313,6 +398,46 @@
       "story_id": "nfl|4217|rotowire|635993|1788353532000",
       "title": "George Kittle - Traveling to Australia with team",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "When asked if he was optimistic about second-year running back Ashton Jeanty (ankle) being able to play in the Week 1 season opener versus the Miami Dolphins, Las Vegas Raiders head coach Klint Kubiak said, \"Yes,\" with a sly grin, according to Levi Edwards of the team's official website. Jeanty has not practiced with the team since suffering what is believed to be a low-ankle sprain in training camp practice on Aug. 23, but he worked off to the side with trainers on Tuesday and is apparently making progress. If the former first-rounder from Boise State can avoid setbacks going into next week's practices, it looks like he will have a good shot at suiting up on Sunday, Sept. 13. With that said, the 22-year-old could have his workload limited against Miami if he is active, with the Raiders saying that they expect rookie Mike Washington Jr. to have a key role early on, even if Jeanty is available. Going into his second year in the NFL, Jeanty should be viewed as a low-end RB1/high-end RB2 for fantasy purposes after scoring 10 total touchdowns (five rushing, five receiving) and finishing as the RB13 in half-PPR scoring as a rookie in 2025.",
+      "metadata": {
+        "description": "When asked if he was optimistic about second-year running back Ashton Jeanty (ankle) being able to play in the Week 1 season opener versus the Miami Dolphins, Las Vegas Raiders head coach Klint Kubiak said, \"Yes,\" with a sly grin, according to Levi Edwards of the team's official website. Jeanty has not practiced with the team since suffering what is believed to be a low-ankle sprain in training camp practice on Aug. 23, but he worked off to the side with trainers on Tuesday and is apparently making progress. If the former first-rounder from Boise State can avoid setbacks going into next week's practices, it looks like he will have a good shot at suiting up on Sunday, Sept. 13. With that said, the 22-year-old could have his workload limited against Miami if he is active, with the Raiders saying that they expect rookie Mike Washington Jr. to have a key role early on, even if Jeanty is available. Going into his second year in the NFL, Jeanty should be viewed as a low-end RB1/high-end RB2 for fantasy purposes after scoring 10 total touchdowns (five rushing, five receiving) and finishing as the RB13 in half-PPR scoring as a rookie in 2025.",
+        "title": "Klint Kubiak Optimistic About Ashton Jeanty's Week 1 Status",
+        "topic_id": "1400919855414120448",
+        "url": "https://www.rotoballer.com/player-news/klint-kubiak-optimistic-about-ashton-jeantys-week-1-status/1921937"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788353166000,
+      "source": "rotoballer",
+      "source_key": "219934",
+      "story_id": "nfl|12527|rotoballer|219934|1788353166000",
+      "title": "Klint Kubiak Optimistic About Ashton Jeanty's Week 1 Status",
+      "url": "https://www.rotoballer.com/player-news/klint-kubiak-optimistic-about-ashton-jeantys-week-1-status/1921937"
+    },
+    {
+      "analysis": null,
+      "description": "The Arizona Cardinals have attempted to extend ascending wide receiver Michael Wilson, who is coming off his first 1,000-yard season in 2025, but the \"likeliest path\" is for Wilson to enter Week 1 on the final year of his rookie deal, according to Jeremy Fowler of ESPN. According to sources, Wilson is likely to be a key free agent next offseason, and if he has an encore in Arizona in 2026, he will be paid handsomely next March. The 26-year-old former third-rounder in 2023 from Stanford broke out with 78 catches on 126 targets for 1,006 yards and seven touchdowns in 17 games in his third year in the NFL. It helped that fellow wideout Marvin Harrison Jr. continued to struggle with drops while missing time due to various injuries, and the Cardinals' pass-happy offensive approach definitely played into Wilson's strong season. Wilson has developed great chemistry with Brissett, but most fantasy pundits predict a step back in 2026 in new head coach Mike LaFleur's offense, which is expected to be a much more balanced attack. Still, Wilson is a great WR4/flex target for fantasy managers.",
+      "metadata": {
+        "description": "The Arizona Cardinals have attempted to extend ascending wide receiver Michael Wilson, who is coming off his first 1,000-yard season in 2025, but the \"likeliest path\" is for Wilson to enter Week 1 on the final year of his rookie deal, according to Jeremy Fowler of ESPN. According to sources, Wilson is likely to be a key free agent next offseason, and if he has an encore in Arizona in 2026, he will be paid handsomely next March. The 26-year-old former third-rounder in 2023 from Stanford broke out with 78 catches on 126 targets for 1,006 yards and seven touchdowns in 17 games in his third year in the NFL. It helped that fellow wideout Marvin Harrison Jr. continued to struggle with drops while missing time due to various injuries, and the Cardinals' pass-happy offensive approach definitely played into Wilson's strong season. Wilson has developed great chemistry with Brissett, but most fantasy pundits predict a step back in 2026 in new head coach Mike LaFleur's offense, which is expected to be a much more balanced attack. Still, Wilson is a great WR4/flex target for fantasy managers.",
+        "title": "Michael Wilson Unlikely to Have New Deal by Week 1",
+        "topic_id": "1400918597248786432",
+        "url": "https://www.rotoballer.com/player-news/michael-wilson-unlikely-to-have-new-deal-by-week-1/1921935"
+      },
+      "nfl_team": "ARI",
+      "player_id": "10232",
+      "player_name": "Michael Wilson",
+      "position": "WR",
+      "published": 1788352664000,
+      "source": "rotoballer",
+      "source_key": "219933",
+      "story_id": "nfl|10232|rotoballer|219933|1788352664000",
+      "title": "Michael Wilson Unlikely to Have New Deal by Week 1",
+      "url": "https://www.rotoballer.com/player-news/michael-wilson-unlikely-to-have-new-deal-by-week-1/1921935"
     },
     {
       "analysis": null,

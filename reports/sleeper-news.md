@@ -2,11 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1638**
-- Newly captured: **2**
+- Stored stories: **1644**
+- Newly captured: **6**
 
 ## Latest news
 
+- **NEW — Fernando Mendoza** — Fernando Mendoza - Opening season as QB2 (2026-09-02T16:48:22Z)
+  - Mendoza was in the competition all offseason, but it was going to take some otherworldly play to knock Cousins out of the top spot on the depth chart. While Cousins completed 13 of 17 passes for 101 yards and one touchdown across 30 preseason snaps, Mendoza struggled some, completing just 26 of 46 passes for 250 yards, one touchdown and a pair of interceptions during exhibition action. Cousins is likely to have a decently long leash to begin the season, but Mendoza remains a good bet to make starts as a rookie.
+- **NEW — Kirk Cousins** — Kirk Cousins named Raiders Week 1 starter (2026-09-02T16:45:33.181000Z)
+  - It's long been presumed that the Raiders would start Cousins and give Mendoza at least a half-redshirt year. This just confirms it. He could be an interesting streaming option, but we need to see more from the pass catchers not named Brock Bowers to really feel confident in this passing offense.
+  - Source: https://www.fantasypros.com/nfl/news/605604/kirk-cousins-named-raiders-week-1-starter.php
+- **NEW — Ashton Jeanty** — Ashton Jeanty - Optimism for Week 1 (2026-09-02T16:45:01Z)
+  - Jeanty hasn't practiced this week after suffering what is believed to be a low-ankle sprain back on Aug. 23, but the running back has been working off to the side with trainers in an effort to get ready for the start of the regular season. Once the Raiders are required to release true injury reports next week, there will be a better idea of Jeanty's availability for the regular-season opener. Mike Washington and Dylan Laube are next up for carries if Jeanty is unable to play against Miami.
+- **NEW — Kirk Cousins** — Kirk Cousins - Named starting quarterback (2026-09-02T16:41:17Z)
+  - It was a decision everyone expected and comes as no surprise after Cousins worked with the first-team offense all offseason. Cousins played 30 offensive snaps during the preseason and completed 13 of 17 pass attempts for 101 yards and one touchdown, while rookie No. 1 overall pick Fernando Mendoza was more scattershot, completing just 26 of 46 passes for 250 yards, one touchdown and a pair of picks. Cousins should have a somewhat long leash to begin the season, but Mendoza remains very likely to see rookie-year playing time.
 - **Jahmyr Gibbs** — Jahmyr Gibbs - Reels off 59-yard run in final camp practice (2026-09-02T16:15:12Z)
   - After being contained on the first two of the first-team offense's eight drives on the day, Gibbs delivered his biggest gain of the day on the Lions' third possession. On the second play of that drive, Gibbs followed a block from right guard Tate Ratledge, then found daylight while bouncing out to the outside and raced past cornerback Avonte Maddox for a 59-yard house call. He then finished practice with his second touchdown of the day, taking a fourth-and-1 pitch to the outside and following a Penei Sewell block to beat multiple defenders to the pylon. The two scoring jaunts were demonstrative of Gibbs' trademark explosiveness in open space, but now that David Montgomery is in Houston, the Lions are likely to turn to Gibbs to add more work to his plate in the form of increased usage in goal-line situations and as a runner on early downs. Detroit signed Isiah Pacheco this offseason with the goal of having him take on some of those functions that Montgomery had handled, but Pacheco won't be available until Week 5 at the earliest while he recovers from a back injury as well as an MCL sprain.
 - **Ollie Gordon** — Ollie Gordon - Practicing in non-contact jersey (2026-09-02T16:06:38Z)
@@ -37,9 +46,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.
 - **George Kittle** — George Kittle - Traveling to Australia with team (2026-09-02T12:52:12Z)
   - A final call on Kittle's availability for Week 1 isn't expected to be made until the 49ers arrive in Australia, but his involvement in practice this week and presence on the road trip suggest that he's on track to play. Kittle -- who tore his right Achilles tendon Jan. 11 and underwent surgery three days later -- could have his snaps limited to some degree if he's cleared to play in the season opener.
-- **NEW — Ashton Jeanty** — Ashton Jeanty Misses Wednesday's Practice (2026-09-02T12:31:05Z)
+- **NEW — Ashton Jeanty** — Klint Kubiak Optimistic About Ashton Jeanty's Week 1 Status (2026-09-02T12:46:06Z)
+  - Source: https://www.rotoballer.com/player-news/klint-kubiak-optimistic-about-ashton-jeantys-week-1-status/1921937
+- **NEW — Michael Wilson** — Michael Wilson Unlikely to Have New Deal by Week 1 (2026-09-02T12:37:44Z)
+  - Source: https://www.rotoballer.com/player-news/michael-wilson-unlikely-to-have-new-deal-by-week-1/1921935
+- **Ashton Jeanty** — Ashton Jeanty Misses Wednesday's Practice (2026-09-02T12:31:05Z)
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-misses-wednesdays-practice/1921930
-- **NEW — Jonathon Brooks** — Jonathon Brooks Off to the Side Again on Wednesday (2026-09-02T12:24:10Z)
+- **Jonathon Brooks** — Jonathon Brooks Off to the Side Again on Wednesday (2026-09-02T12:24:10Z)
   - Source: https://www.rotoballer.com/player-news/jonathon-brooks-off-to-the-side-again-on-wednesday/1921926
 - **Isaiah Likely** — Isaiah Likely Could Have a Breakout Season in First Year With Giants (2026-09-02T12:16:05Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-likely-could-have-a-breakout-season-in-first-year-with-giants/1921923
@@ -211,16 +224,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Baker Mayfield** — Baker Mayfield: No immediate plans to re-open contract talks  (2026-09-01T17:05:22.397000Z)
   - The expectation was that Mayfield would play this upcoming season on the final year of his contract. This will remain a situation to monitor all year. 
   - Source: https://www.fantasypros.com/nfl/news/605319/baker-mayfield-no-immediate-plans-to-re-open-contract-talks.php
-- **Josh Jacobs** — Josh Jacobs expected to play for Packers in 2026 per GM (2026-09-01T17:05:22.360000Z)
-  - Gutekunst said he wants to let the process play out when asked if there's a scenario in which the Packers release Jacobs. He was placed on the Commissioners Exempt List on Sunday. This will remain a situation to monitor. 
-  - Source: https://www.fantasypros.com/nfl/news/605321/josh-jacobs-expected-to-play-packers-2026-per-gm.php
-- **Matthew Stafford** — Matthew Stafford - Doesn't see any preseason action (2026-09-01T17:03:47Z)
-  - Stafford hasn't taken a preseason snap since the summer of 2019. The difference this year from last is that he's healthy. While back issues kept Stafford glued to the sideline last year, he's been a full participant in training camp this summer and appears poised to try and repeat as league MVP with a star-studded roster in Los Angeles. Despite the back issues last preseason and during camp, Stafford still started all 17 regular-season games in 2025 and led the league with 4,707 passing yards, 46 touchdowns and a 7.7 percent touchdown rate. He finished as fantasy's overall QB3 but is being drafted on average as the QB12 in fantasy leagues this year.
-- **Lamar Jackson** — Lamar Jackson - Explains lack of rushing in 2025 (2026-09-01T16:50:54Z)
-  - Hamstring and back injuries forced Jackson to miss four games last season and sapped his rushing ability even when he was active.  This led to Jackson posting career lows in rushing attempts (67) and yards (349). Jackson is now fully healthy going into 2026, his first season operating Declan Doyle's offense. The Ravens open the season on the road in Indianapolis on Sept. 13.
-- **Isiah Pacheco** — Lions Place Isiah Pacheco on Injured Reserve (2026-09-01T16:36:28Z)
-  - Source: https://www.rotoballer.com/player-news/lions-place-isiah-pacheco-on-injured-reserve/1921387
-- **Daniel Jones** — Daniel Jones - Impresses in training camp (2026-09-01T16:32:04Z)
-  - Jones has put last season's Achilles injury behind him and turned in a strong training camp as he gets ready for 2026. Despite not having a full complement of weapons at his disposal given absences from Josh Downs, Alec Pierce and Tyler Warren at different parts of camp, Jones still impressed. The Colts open their season Sept. 13 at home against Baltimore.
-- **Jalen Hurts** — Jalen Hurts - Excited about new offense (2026-09-01T16:26:57Z)
-  - "I think Jalen's adjusted really well to the new offense," Roseman said. "Now again, we're at a moment in time, we haven't played a game. This isn't in reference to Jalen; this is in reference to anything else. I think that a lot of the things that we'll do during the regular season when we have game plans, I think from an offensive perspective, they're going to be different than what we've done in the past. Jalen's embraced it. He's excited about it and obviously we've got to be better than we were last year." Hurts struggled with interceptions a bit over the summer during training camp and didn't see any action during the preseason, so Week 1 against the Commanders will be the first game action under new OC Sean Mannion. The 28-year-old Hurts is expected to once again be in the mix as a top-five fantasy quarterback after setting a new career high with 25 touchdown passes last regular season to go along with a career-best 1.3 percent interception rate. His rushing numbers fell off some, as he punched in just eight touchdown on the ground after averaging 14 over the previous three seasons.
