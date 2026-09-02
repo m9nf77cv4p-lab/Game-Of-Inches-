@@ -2,19 +2,21 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1644**
-- Newly captured: **6**
+- Stored stories: **1646**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Fernando Mendoza** — Fernando Mendoza - Opening season as QB2 (2026-09-02T16:48:22Z)
+- **NEW — Kenneth Walker** — Kenneth Walker - Returns to full practice Wednesday (2026-09-02T16:56:54Z)
+  - Walker dealt with some swelling around his ankle last week due to some cleat issues, but the star running back is back in action Wednesday with 12 days to go before the Chiefs open their season at home against the Broncos on Monday, Sept. 14. After splitting duties with Zach Charbonnet (knee) in Seattle, Walker is expected to operate as a three-down workhorse with Kansas City this season. Only fifth-round rookie Emmett Johnson and 2025 seventh-rounder Brashard Smith round out the depth chart behind Walker.
+- **Fernando Mendoza** — Fernando Mendoza - Opening season as QB2 (2026-09-02T16:48:22Z)
   - Mendoza was in the competition all offseason, but it was going to take some otherworldly play to knock Cousins out of the top spot on the depth chart. While Cousins completed 13 of 17 passes for 101 yards and one touchdown across 30 preseason snaps, Mendoza struggled some, completing just 26 of 46 passes for 250 yards, one touchdown and a pair of interceptions during exhibition action. Cousins is likely to have a decently long leash to begin the season, but Mendoza remains a good bet to make starts as a rookie.
-- **NEW — Kirk Cousins** — Kirk Cousins named Raiders Week 1 starter (2026-09-02T16:45:33.181000Z)
+- **Kirk Cousins** — Kirk Cousins named Raiders Week 1 starter (2026-09-02T16:45:33.181000Z)
   - It's long been presumed that the Raiders would start Cousins and give Mendoza at least a half-redshirt year. This just confirms it. He could be an interesting streaming option, but we need to see more from the pass catchers not named Brock Bowers to really feel confident in this passing offense.
   - Source: https://www.fantasypros.com/nfl/news/605604/kirk-cousins-named-raiders-week-1-starter.php
-- **NEW — Ashton Jeanty** — Ashton Jeanty - Optimism for Week 1 (2026-09-02T16:45:01Z)
+- **Ashton Jeanty** — Ashton Jeanty - Optimism for Week 1 (2026-09-02T16:45:01Z)
   - Jeanty hasn't practiced this week after suffering what is believed to be a low-ankle sprain back on Aug. 23, but the running back has been working off to the side with trainers in an effort to get ready for the start of the regular season. Once the Raiders are required to release true injury reports next week, there will be a better idea of Jeanty's availability for the regular-season opener. Mike Washington and Dylan Laube are next up for carries if Jeanty is unable to play against Miami.
-- **NEW — Kirk Cousins** — Kirk Cousins - Named starting quarterback (2026-09-02T16:41:17Z)
+- **Kirk Cousins** — Kirk Cousins - Named starting quarterback (2026-09-02T16:41:17Z)
   - It was a decision everyone expected and comes as no surprise after Cousins worked with the first-team offense all offseason. Cousins played 30 offensive snaps during the preseason and completed 13 of 17 pass attempts for 101 yards and one touchdown, while rookie No. 1 overall pick Fernando Mendoza was more scattershot, completing just 26 of 46 passes for 250 yards, one touchdown and a pair of picks. Cousins should have a somewhat long leash to begin the season, but Mendoza remains very likely to see rookie-year playing time.
 - **Jahmyr Gibbs** — Jahmyr Gibbs - Reels off 59-yard run in final camp practice (2026-09-02T16:15:12Z)
   - After being contained on the first two of the first-team offense's eight drives on the day, Gibbs delivered his biggest gain of the day on the Lions' third possession. On the second play of that drive, Gibbs followed a block from right guard Tate Ratledge, then found daylight while bouncing out to the outside and raced past cornerback Avonte Maddox for a 59-yard house call. He then finished practice with his second touchdown of the day, taking a fourth-and-1 pitch to the outside and following a Penei Sewell block to beat multiple defenders to the pylon. The two scoring jaunts were demonstrative of Gibbs' trademark explosiveness in open space, but now that David Montgomery is in Houston, the Lions are likely to turn to Gibbs to add more work to his plate in the form of increased usage in goal-line situations and as a runner on early downs. Detroit signed Isiah Pacheco this offseason with the goal of having him take on some of those functions that Montgomery had handled, but Pacheco won't be available until Week 5 at the earliest while he recovers from a back injury as well as an MCL sprain.
@@ -44,11 +46,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Meyers has been out of action since injuring his hand during a joint practice with the Panthers nearly two weeks ago, but he is set to return to the field Wednesday. With Meyers cleared to get some work in, it seems likely he is on track to take the field Week 1 against the Browns.
 - **Blake Corum** — Blake Corum - Sits out preseason in advance of Year 3 (2026-09-02T13:37:30Z)
   - Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.
+- **NEW — Kirk Cousins** — Raiders Officially Name Kirk Cousins the Week 1 Starter (2026-09-02T12:52:18Z)
+  - Source: https://www.rotoballer.com/player-news/raiders-officially-name-kirk-cousins-the-week-1-starter/1921942
 - **George Kittle** — George Kittle - Traveling to Australia with team (2026-09-02T12:52:12Z)
   - A final call on Kittle's availability for Week 1 isn't expected to be made until the 49ers arrive in Australia, but his involvement in practice this week and presence on the road trip suggest that he's on track to play. Kittle -- who tore his right Achilles tendon Jan. 11 and underwent surgery three days later -- could have his snaps limited to some degree if he's cleared to play in the season opener.
-- **NEW — Ashton Jeanty** — Klint Kubiak Optimistic About Ashton Jeanty's Week 1 Status (2026-09-02T12:46:06Z)
+- **Ashton Jeanty** — Klint Kubiak Optimistic About Ashton Jeanty's Week 1 Status (2026-09-02T12:46:06Z)
   - Source: https://www.rotoballer.com/player-news/klint-kubiak-optimistic-about-ashton-jeantys-week-1-status/1921937
-- **NEW — Michael Wilson** — Michael Wilson Unlikely to Have New Deal by Week 1 (2026-09-02T12:37:44Z)
+- **Michael Wilson** — Michael Wilson Unlikely to Have New Deal by Week 1 (2026-09-02T12:37:44Z)
   - Source: https://www.rotoballer.com/player-news/michael-wilson-unlikely-to-have-new-deal-by-week-1/1921935
 - **Ashton Jeanty** — Ashton Jeanty Misses Wednesday's Practice (2026-09-02T12:31:05Z)
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-misses-wednesdays-practice/1921930
@@ -218,9 +222,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605322/jeremiyah-love-ankle-about-5050-to-play-week-1.php
 - **Christian McCaffrey** — Christian McCaffrey "Looks Ready for Week 1" (2026-09-01T17:10:10Z)
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-looks-ready-for-week-1/1921406
-- **Anthony Richardson** — Anthony Richardson Sr. expected to remain with Colts for 2026 season (2026-09-01T17:05:22.413000Z)
-  - Richardson requested a trade earlier in the offseason, but it appears the Colts were unable to find a suitor. It will be him or Riley Leonard backing up Daniel Jones. 
-  - Source: https://www.fantasypros.com/nfl/news/605318/anthony-richardson-sr-expected-to-remain-with-colts-2026-season.php
-- **Baker Mayfield** — Baker Mayfield: No immediate plans to re-open contract talks  (2026-09-01T17:05:22.397000Z)
-  - The expectation was that Mayfield would play this upcoming season on the final year of his contract. This will remain a situation to monitor all year. 
-  - Source: https://www.fantasypros.com/nfl/news/605319/baker-mayfield-no-immediate-plans-to-re-open-contract-talks.php

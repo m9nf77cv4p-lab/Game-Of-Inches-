@@ -1,14 +1,10 @@
 {
-  "last_checked_at": "2026-09-02T16:54:58Z",
+  "last_checked_at": "2026-09-02T17:08:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|10232|rotoballer|219933|1788352664000",
-    "nfl|1166|fantasy_pros|605604|1788367533181",
-    "nfl|1166|rotowire|636012|1788367277000",
-    "nfl|12527|rotoballer|219934|1788353166000",
-    "nfl|12527|rotowire|636013|1788367501000",
-    "nfl|13269|rotowire|636014|1788367702000"
+    "nfl|1166|rotoballer|219935|1788353538000",
+    "nfl|8151|rotowire|636015|1788368214000"
   ],
   "schema_version": 1,
   "source": {
@@ -18,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Walker dealt with some swelling around his ankle last week due to some cleat issues, but the star running back is back in action Wednesday with 12 days to go before the Chiefs open their season at home against the Broncos on Monday, Sept. 14. After splitting duties with Zach Charbonnet (knee) in Seattle, Walker is expected to operate as a three-down workhorse with Kansas City this season. Only fifth-round rookie Emmett Johnson and 2025 seventh-rounder Brashard Smith round out the depth chart behind Walker.",
+      "description": "Walker (ankle) was a full participant in Wednesday's practice, Pete Sweeney of The Kansas City Star reports.",
+      "metadata": {
+        "analysis": "Walker dealt with some swelling around his ankle last week due to some cleat issues, but the star running back is back in action Wednesday with 12 days to go before the Chiefs open their season at home against the Broncos on Monday, Sept. 14. After splitting duties with Zach Charbonnet (knee) in Seattle, Walker is expected to operate as a three-down workhorse with Kansas City this season. Only fifth-round rookie Emmett Johnson and 2025 seventh-rounder Brashard Smith round out the depth chart behind Walker.",
+        "description": "Walker (ankle) was a full participant in Wednesday's practice, Pete Sweeney of The Kansas City Star reports.",
+        "title": "Kenneth Walker - Returns to full practice Wednesday",
+        "topic_id": "1400922374181761024"
+      },
+      "nfl_team": "KC",
+      "player_id": "8151",
+      "player_name": "Kenneth Walker",
+      "position": "RB",
+      "published": 1788368214000,
+      "source": "rotowire",
+      "source_key": "636015",
+      "story_id": "nfl|8151|rotowire|636015|1788368214000",
+      "title": "Kenneth Walker - Returns to full practice Wednesday",
+      "url": null
+    },
     {
       "analysis": "Mendoza was in the competition all offseason, but it was going to take some otherworldly play to knock Cousins out of the top spot on the depth chart. While Cousins completed 13 of 17 passes for 101 yards and one touchdown across 30 preseason snaps, Mendoza struggled some, completing just 26 of 46 passes for 250 yards, one touchdown and a pair of interceptions during exhibition action. Cousins is likely to have a decently long leash to begin the season, but Mendoza remains a good bet to make starts as a rookie.",
       "description": "With coach Klint Kubiak naming Kirk Cousins the Raiders' starting quarterback Wednesday, Mendoza will open the season as the backup, Sam Warren of The Athletic reports.",
@@ -378,6 +394,26 @@
       "story_id": "nfl|11586|rotowire|635995|1788356250000",
       "title": "Blake Corum - Sits out preseason in advance of Year 3",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders head coach Klint Kubiak has officially named veteran Kirk Cousins as the starting quarterback for Week 1 against the Miami Dolphins, according to Ryan McFadden of ESPN. Despite a training-camp push by first overall pick Fernando Mendoza, the Raiders have decided to let the 38-year-old veteran open the 2026 campaign as the starter under center. The expectation all along was that Cousins would open the year as the starter to give Mendoza more time to adapt to the NFL game and get used to playing under center. In 30 offensive snaps during the preseason, Cousins went 13-for-17 for 101 yards with one touchdown. Cousins could have some low-end QB2 sleeper appeal in the season opener against Miami in what should be an improved Raiders offense, but with Mendoza looming as the long-term option at the position, he makes for an unintriguing two-QB superflex option in season-long formats as he heads into his 15th NFL season.",
+      "metadata": {
+        "description": "Las Vegas Raiders head coach Klint Kubiak has officially named veteran Kirk Cousins as the starting quarterback for Week 1 against the Miami Dolphins, according to Ryan McFadden of ESPN. Despite a training-camp push by first overall pick Fernando Mendoza, the Raiders have decided to let the 38-year-old veteran open the 2026 campaign as the starter under center. The expectation all along was that Cousins would open the year as the starter to give Mendoza more time to adapt to the NFL game and get used to playing under center. In 30 offensive snaps during the preseason, Cousins went 13-for-17 for 101 yards with one touchdown. Cousins could have some low-end QB2 sleeper appeal in the season opener against Miami in what should be an improved Raiders offense, but with Mendoza looming as the long-term option at the position, he makes for an unintriguing two-QB superflex option in season-long formats as he heads into his 15th NFL season.",
+        "title": "Raiders Officially Name Kirk Cousins the Week 1 Starter",
+        "topic_id": "1400921114036719616",
+        "url": "https://www.rotoballer.com/player-news/raiders-officially-name-kirk-cousins-the-week-1-starter/1921942"
+      },
+      "nfl_team": "LV",
+      "player_id": "1166",
+      "player_name": "Kirk Cousins",
+      "position": "QB",
+      "published": 1788353538000,
+      "source": "rotoballer",
+      "source_key": "219935",
+      "story_id": "nfl|1166|rotoballer|219935|1788353538000",
+      "title": "Raiders Officially Name Kirk Cousins the Week 1 Starter",
+      "url": "https://www.rotoballer.com/player-news/raiders-officially-name-kirk-cousins-the-week-1-starter/1921942"
     },
     {
       "analysis": "A final call on Kittle's availability for Week 1 isn't expected to be made until the 49ers arrive in Australia, but his involvement in practice this week and presence on the road trip suggest that he's on track to play. Kittle -- who tore his right Achilles tendon Jan. 11 and underwent surgery three days later -- could have his snaps limited to some degree if he's cleared to play in the season opener.",
