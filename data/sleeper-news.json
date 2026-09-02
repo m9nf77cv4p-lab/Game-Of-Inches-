@@ -1,10 +1,12 @@
 {
-  "last_checked_at": "2026-09-02T14:14:33Z",
+  "last_checked_at": "2026-09-02T14:46:10Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11631|rotoballer|219916|1788343029000",
-    "nfl|5947|rotoballer|219915|1788342729000"
+    "nfl|11563|rotoballer|219918|1788344948000",
+    "nfl|13296|rotoballer|219919|1788345383000",
+    "nfl|8228|rotoballer|219917|1788344348000",
+    "nfl|9488|rotowire|635999|1788359486000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +16,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "After letting Super Bowl LX MVP Kenneth Walker walk in free agency, the Seahawks will be counting on Price -- the No. 32 overall pick in April's draft -- as well as George Holani and Emanuel Wilson (hamstring) to lead the backfield while Zach Charbonnet (knee) is out for at least the first four games of the season. Walker's tough running combined with Charbonnet's skills on passing downs helped ensure that defenses couldn't devote more resources to shutting down Smith-Njigba, who blossomed into arguably the NFL's top wideout in 2025. After taking most of his snaps out of the slot in his first two seasons, Smith-Njigba thrived while transitioning into more of a perimeter role, compiling a massive 119-1,793-10 receiving line over 17 games on his way to winning Offensive Player of the Year honors. A league-high 32.6 percent target share played a part in Smith-Njigba achieving his lofty production, but even if supporting pass catchers such as Rashid Shaheed and AJ Barner are more involved in 2026, Smith-Njigba could avoid a major dip in production if the Seahawks lean more heavily on the passing game as a whole. The Seahawks ranked third in the NFL with a 49.7 percent run rate in 2025, and despite Smith-Njigba's early praise for Price, it would still be surprising if the rookie was trusted right away to handle the sort of workloads that Walker and Charbonnet previously shouldered.",
+      "description": "Smith-Njigba said Tuesday in his appearance on ESPN's \"SportsCenter\" that rookie running back Jadarian Price had \"a great training camp\" and will help relieve pressure on the passing game in 2026.",
+      "metadata": {
+        "analysis": "After letting Super Bowl LX MVP Kenneth Walker walk in free agency, the Seahawks will be counting on Price -- the No. 32 overall pick in April's draft -- as well as George Holani and Emanuel Wilson (hamstring) to lead the backfield while Zach Charbonnet (knee) is out for at least the first four games of the season. Walker's tough running combined with Charbonnet's skills on passing downs helped ensure that defenses couldn't devote more resources to shutting down Smith-Njigba, who blossomed into arguably the NFL's top wideout in 2025. After taking most of his snaps out of the slot in his first two seasons, Smith-Njigba thrived while transitioning into more of a perimeter role, compiling a massive 119-1,793-10 receiving line over 17 games on his way to winning Offensive Player of the Year honors. A league-high 32.6 percent target share played a part in Smith-Njigba achieving his lofty production, but even if supporting pass catchers such as Rashid Shaheed and AJ Barner are more involved in 2026, Smith-Njigba could avoid a major dip in production if the Seahawks lean more heavily on the passing game as a whole. The Seahawks ranked third in the NFL with a 49.7 percent run rate in 2025, and despite Smith-Njigba's early praise for Price, it would still be surprising if the rookie was trusted right away to handle the sort of workloads that Walker and Charbonnet previously shouldered.",
+        "description": "Smith-Njigba said Tuesday in his appearance on ESPN's \"SportsCenter\" that rookie running back Jadarian Price had \"a great training camp\" and will help relieve pressure on the passing game in 2026.",
+        "title": "Jaxon Smith-Njigba - Not concerned about run game",
+        "topic_id": "1400885878464770048"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9488",
+      "player_name": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "published": 1788359486000,
+      "source": "rotowire",
+      "source_key": "635999",
+      "story_id": "nfl|9488|rotowire|635999|1788359486000",
+      "title": "Jaxon Smith-Njigba - Not concerned about run game",
+      "url": null
+    },
     {
       "analysis": "Thomas injured his shoulder in a joint practice with the Buccaneers one week earlier, but he avoided a major scare and was back on the field a few days later while sporting a no-contact jersey. The wideout was seemingly able to shed that jersey and take some contact during Tuesday's session, so he looks like he'll be in the clear for the Jaguars' Sept. 13 season opener versus the Browns.",
       "description": "Jaguars head coach Liam Coen said that Thomas (shoulder) was a \"full go\" at Tuesday's practice, Ryan O'Halloran of The Florida Times-Union reports.",
@@ -93,6 +115,66 @@
       "story_id": "nfl|4217|rotowire|635993|1788353532000",
       "title": "George Kittle - Traveling to Australia with team",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins wide receiver Caleb Douglas has generated plenty of buzz after a strong showing throughout training camp and the preseason. Douglas, a third-round rookie out of Texas Tech, sat out the Dolphins' final preseason game, which is a good sign that he'll earn the start in Week 1 against Las Vegas. Miami arguably has the worst wide receiver room in the league, so there's a real opportunity here for Douglas to cement himself as Malik Willis' favorite target. There's a relatively simple path to him leading the team in catches and receiving yards, especially given his main competition right now is Malik Washington and fellow third-rounder Chris Bell. The biggest obstacle for Douglas might be the state of the Dolphins' offense. We expect Miami to run a lot, we're worried about Willis' accuracy as a passer over a full season, and touchdowns may be few and far between. Simply being the Dolphins' potential No. 1 receiver gets him onto the fantasy radar, though, and he's a worthwhile late-round pick for managers in deeper leagues. After all, he has WR3/flex upside once he gets a few games under his belt.",
+      "metadata": {
+        "description": "Miami Dolphins wide receiver Caleb Douglas has generated plenty of buzz after a strong showing throughout training camp and the preseason. Douglas, a third-round rookie out of Texas Tech, sat out the Dolphins' final preseason game, which is a good sign that he'll earn the start in Week 1 against Las Vegas. Miami arguably has the worst wide receiver room in the league, so there's a real opportunity here for Douglas to cement himself as Malik Willis' favorite target. There's a relatively simple path to him leading the team in catches and receiving yards, especially given his main competition right now is Malik Washington and fellow third-rounder Chris Bell. The biggest obstacle for Douglas might be the state of the Dolphins' offense. We expect Miami to run a lot, we're worried about Willis' accuracy as a passer over a full season, and touchdowns may be few and far between. Simply being the Dolphins' potential No. 1 receiver gets him onto the fantasy radar, though, and he's a worthwhile late-round pick for managers in deeper leagues. After all, he has WR3/flex upside once he gets a few games under his belt.",
+        "title": "Caleb Douglas Worth a Late-Round Pick After Strong Camp Showing",
+        "topic_id": "1400888393704996864",
+        "url": "https://www.rotoballer.com/player-news/caleb-douglas-worth-a-late-round-pick-after-strong-camp-showing/1921825"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13296",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "published": 1788345383000,
+      "source": "rotoballer",
+      "source_key": "219919",
+      "story_id": "nfl|13296|rotoballer|219919|1788345383000",
+      "title": "Caleb Douglas Worth a Late-Round Pick After Strong Camp Showing",
+      "url": "https://www.rotoballer.com/player-news/caleb-douglas-worth-a-late-round-pick-after-strong-camp-showing/1921825"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos quarterback Bo Nix will take the field next week with the best receiver room of his career. Headlined by Jaylen Waddle and Courtland Sutton, Nix has never previously had a supporting cast this talented. As a result, he could be on track to post the best fantasy marks of his career if he can stay healthy for the full season. Waddle and Sutton both had 900+ yards last season, but there's plenty of talent lower on the depth chart, too. Pat Bryant and Troy Franklin combined for over 1,000 yards between the two of them. Furthermore, we're expecting a bounce-back year from tight end Evan Engram, and the running back room should be highly effective with a mix of JK Dobbins, RJ Harvey, and even rookie Jonah Coleman. Nix has been the fantasy QB7 in each of his first two pro seasons, but we wouldn't be shocked to see him finish within the top five this year. With that in mind, he is an absolute steal in fantasy drafts right now. He currently has an ADP of 113.4, which corresponds to the 10th round and makes him the 15th quarterback off the board.",
+      "metadata": {
+        "description": "Denver Broncos quarterback Bo Nix will take the field next week with the best receiver room of his career. Headlined by Jaylen Waddle and Courtland Sutton, Nix has never previously had a supporting cast this talented. As a result, he could be on track to post the best fantasy marks of his career if he can stay healthy for the full season. Waddle and Sutton both had 900+ yards last season, but there's plenty of talent lower on the depth chart, too. Pat Bryant and Troy Franklin combined for over 1,000 yards between the two of them. Furthermore, we're expecting a bounce-back year from tight end Evan Engram, and the running back room should be highly effective with a mix of JK Dobbins, RJ Harvey, and even rookie Jonah Coleman. Nix has been the fantasy QB7 in each of his first two pro seasons, but we wouldn't be shocked to see him finish within the top five this year. With that in mind, he is an absolute steal in fantasy drafts right now. He currently has an ADP of 113.4, which corresponds to the 10th round and makes him the 15th quarterback off the board.",
+        "title": "Bo Nix Trending Up with the Best Receiver Room of His Career",
+        "topic_id": "1400885876971593728",
+        "url": "https://www.rotoballer.com/player-news/bo-nix-trending-up-with-the-best-receiver-room-of-his-career/1921820"
+      },
+      "nfl_team": "DEN",
+      "player_id": "11563",
+      "player_name": "Bo Nix",
+      "position": "QB",
+      "published": 1788344948000,
+      "source": "rotoballer",
+      "source_key": "219918",
+      "story_id": "nfl|11563|rotoballer|219918|1788344948000",
+      "title": "Bo Nix Trending Up with the Best Receiver Room of His Career",
+      "url": "https://www.rotoballer.com/player-news/bo-nix-trending-up-with-the-best-receiver-room-of-his-career/1921820"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers running back Jaylen Warren isn't the flashiest name in fantasy football, but he has become a reliable option for managers in half-PPR and full-PPR leagues. Warren is one of just four running backs with 500+ rushing yards and 300+ rushing yards in each of the last three seasons. The other players who fit that description are Bijan Robinson, Jahmyr Gibbs, and Breece Hall. That's not a bad group to be associated with, and it's an indicator of both his versatile skill set and his ability to stay healthy. He has missed just three games over the last three years, and he should continue to carve out a sizable role this year despite the coaching shift from Mike Tomlin to Mike McCarthy. Furthermore, the Steelers did bring in Rico Dowdle, but he's more of a Kenny Gainwell replacement. Dowdle shouldn't threaten Warren's role any more or less than Gainwell did last year. As quarterback Aaron Rodgers gets older and his checkdown rate goes up, Warren stands to benefit. He has been a top-22 fantasy running back in two of the last three seasons, and he should be a fringe RB2/RB3 once again this year.",
+      "metadata": {
+        "description": "Pittsburgh Steelers running back Jaylen Warren isn't the flashiest name in fantasy football, but he has become a reliable option for managers in half-PPR and full-PPR leagues. Warren is one of just four running backs with 500+ rushing yards and 300+ rushing yards in each of the last three seasons. The other players who fit that description are Bijan Robinson, Jahmyr Gibbs, and Breece Hall. That's not a bad group to be associated with, and it's an indicator of both his versatile skill set and his ability to stay healthy. He has missed just three games over the last three years, and he should continue to carve out a sizable role this year despite the coaching shift from Mike Tomlin to Mike McCarthy. Furthermore, the Steelers did bring in Rico Dowdle, but he's more of a Kenny Gainwell replacement. Dowdle shouldn't threaten Warren's role any more or less than Gainwell did last year. As quarterback Aaron Rodgers gets older and his checkdown rate goes up, Warren stands to benefit. He has been a top-22 fantasy running back in two of the last three seasons, and he should be a fringe RB2/RB3 once again this year.",
+        "title": "Jaylen Warren a Reliable Fantasy Target with Consistent Receiving Work",
+        "topic_id": "1400884618575486976",
+        "url": "https://www.rotoballer.com/player-news/jaylen-warren-a-reliable-fantasy-target-with-consistent-receiving-work/1921814"
+      },
+      "nfl_team": "PIT",
+      "player_id": "8228",
+      "player_name": "Jaylen Warren",
+      "position": "RB",
+      "published": 1788344348000,
+      "source": "rotoballer",
+      "source_key": "219917",
+      "story_id": "nfl|8228|rotoballer|219917|1788344348000",
+      "title": "Jaylen Warren a Reliable Fantasy Target with Consistent Receiving Work",
+      "url": "https://www.rotoballer.com/player-news/jaylen-warren-a-reliable-fantasy-target-with-consistent-receiving-work/1921814"
     },
     {
       "analysis": null,
