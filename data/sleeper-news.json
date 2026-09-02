@@ -1,9 +1,14 @@
 {
-  "last_checked_at": "2026-09-02T04:22:48Z",
+  "last_checked_at": "2026-09-02T05:17:05Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 281,
+  "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12495|rotoballer|219910|1788308047000"
+    "nfl|11237|rotoballer|219680|1788037987000",
+    "nfl|11237|rotoballer|219701|1788084012000",
+    "nfl|11237|rotowire|634464|1787428530000",
+    "nfl|12048|rotoballer|219468|1787780758000",
+    "nfl|12048|rotoballer|219759|1788126518000",
+    "nfl|12048|rotoballer|219790|1788178149000"
   ],
   "schema_version": 1,
   "source": {
@@ -3627,6 +3632,26 @@
     },
     {
       "analysis": null,
+      "description": "Seattle Seahawks running back George Holani is expected to have a sizable role to open the season. ESPN projects first-round rookie Jadarian Price as the lead back for now, but expects a heavy dose of Holani because of his receiving and pass-blocking ability, particularly on third downs. Seattle's own roster breakdown also says Price and Holani figure to split the workload early. Zach Charbonnet remains on the PUP list while recovering from the ACL tear he suffered in January and must miss at least the first four games. Emanuel Wilson is also working back from an undisclosed injury after missing the preseason finale. Holani saw only 22 carries for 73 yards and one touchdown in 11 games last season, though he later handled 47 offensive snaps across Seattle's final two playoff wins after Charbonnet went down. Price should still lead the backfield in carries, but Holani has a real chance to handle passing-down work and enough touches to matter in deeper fantasy leagues early on.",
+      "metadata": {
+        "description": "Seattle Seahawks running back George Holani is expected to have a sizable role to open the season. ESPN projects first-round rookie Jadarian Price as the lead back for now, but expects a heavy dose of Holani because of his receiving and pass-blocking ability, particularly on third downs. Seattle's own roster breakdown also says Price and Holani figure to split the workload early. Zach Charbonnet remains on the PUP list while recovering from the ACL tear he suffered in January and must miss at least the first four games. Emanuel Wilson is also working back from an undisclosed injury after missing the preseason finale. Holani saw only 22 carries for 73 yards and one touchdown in 11 games last season, though he later handled 47 offensive snaps across Seattle's final two playoff wins after Charbonnet went down. Price should still lead the backfield in carries, but Holani has a real chance to handle passing-down work and enough touches to matter in deeper fantasy leagues early on.",
+        "title": "George Holani Expected to See Heavy Workload Early",
+        "topic_id": "1400186192296710144",
+        "url": "https://www.rotoballer.com/player-news/george-holani-expected-to-see-heavy-workload-early/1920410"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12048",
+      "player_name": "George Holani",
+      "position": "RB",
+      "published": 1788178149000,
+      "source": "rotoballer",
+      "source_key": "219790",
+      "story_id": "nfl|12048|rotoballer|219790|1788178149000",
+      "title": "George Holani Expected to See Heavy Workload Early",
+      "url": "https://www.rotoballer.com/player-news/george-holani-expected-to-see-heavy-workload-early/1920410"
+    },
+    {
+      "analysis": null,
       "description": "Tennessee Titans wide receiver Carnell Tate didn't catch a pass in the preseason, but his August was better than that box-score line makes it look. The fourth overall pick finished with zero receptions on six targets in three exhibitions, then closed camp with one of his best practices of the summer. Tate caught a team-high seven passes and scored twice in the Aug. 27 joint session with Chicago, with Cam Ward repeatedly coming back to him. That wasn't an isolated day. Tate scored three times in practice on Aug. 9, twice more on Aug. 15 and finished Tennessee's 15 open camp practices with 33 catches. The Titans also list him as a starter alongside Calvin Ridley and Wan'Dale Robinson. There is still reason to keep expectations under control. Tate has plenty of competition for targets, and the preseason production was empty. Still, the role is there and his connection with Ward improved as camp went along. The rookie enters Week 1 with more redraft appeal than his exhibition stat line suggests.",
       "metadata": {
         "description": "Tennessee Titans wide receiver Carnell Tate didn't catch a pass in the preseason, but his August was better than that box-score line makes it look. The fourth overall pick finished with zero receptions on six targets in three exhibitions, then closed camp with one of his best practices of the summer. Tate caught a team-high seven passes and scored twice in the Aug. 27 joint session with Chicago, with Cam Ward repeatedly coming back to him. That wasn't an isolated day. Tate scored three times in practice on Aug. 9, twice more on Aug. 15 and finished Tennessee's 15 open camp practices with 33 catches. The Titans also list him as a starter alongside Calvin Ridley and Wan'Dale Robinson. There is still reason to keep expectations under control. Tate has plenty of competition for targets, and the preseason production was empty. Still, the role is there and his connection with Ward improved as camp went along. The rookie enters Week 1 with more redraft appeal than his exhibition stat line suggests.",
@@ -4287,6 +4312,26 @@
       "story_id": "nfl|9502|rotowire|635424|1788126650000",
       "title": "Tank Dell - Landing on IR",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks running back George Holani should carve out a role early in the season after Zach Charbonnet (knee) was placed on the PUP list. Rookie Jadarian Price projects as the Seahawks' No. 1 running back to open the year, but Holani will likely earn a significant snap share, too. Price never averaged more than 9.4 carries per game at school, so he's presumably not capable of handling an every-down role while Charbonnet is sidelined. Holani, who is heading into his third pro season, spent most of last year as the Seahawks' No. 3 running back behind Kenneth Walker III and Charbonnet. He had 12 touches in Week 3 last season, but his best game actually came in Week 10, when he logged seven carries, 31 rushing yards, and one rushing touchdown. Holani has just three targets through 16 career games, so we'd expect most of his snaps to come on early downs. He could have some early-season appeal as a low-end RB3/flex in deeper leagues.",
+      "metadata": {
+        "description": "Seattle Seahawks running back George Holani should carve out a role early in the season after Zach Charbonnet (knee) was placed on the PUP list. Rookie Jadarian Price projects as the Seahawks' No. 1 running back to open the year, but Holani will likely earn a significant snap share, too. Price never averaged more than 9.4 carries per game at school, so he's presumably not capable of handling an every-down role while Charbonnet is sidelined. Holani, who is heading into his third pro season, spent most of last year as the Seahawks' No. 3 running back behind Kenneth Walker III and Charbonnet. He had 12 touches in Week 3 last season, but his best game actually came in Week 10, when he logged seven carries, 31 rushing yards, and one rushing touchdown. Holani has just three targets through 16 career games, so we'd expect most of his snaps to come on early downs. He could have some early-season appeal as a low-end RB3/flex in deeper leagues.",
+        "title": "George Holani Has a Path to an Early-Season Role",
+        "topic_id": "1399969741476474880",
+        "url": "https://www.rotoballer.com/player-news/george-holani-has-a-path-to-an-early-season-role/1920066"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12048",
+      "player_name": "George Holani",
+      "position": "RB",
+      "published": 1788126518000,
+      "source": "rotoballer",
+      "source_key": "219759",
+      "story_id": "nfl|12048|rotoballer|219759|1788126518000",
+      "title": "George Holani Has a Path to an Early-Season Role",
+      "url": "https://www.rotoballer.com/player-news/george-holani-has-a-path-to-an-early-season-role/1920066"
     },
     {
       "analysis": "Dell last played in an NFL game all the way back in 2024. The 26-year-old wideout has been practicing for the Texans, but he will be given a bit more time to get fully back up to speed. The earliest Dell could see the field is now Week 5. ",
@@ -5195,6 +5240,26 @@
     },
     {
       "analysis": null,
+      "description": "Detroit Lions running back Jacob Saylors has carried the ball only twice since coming into the league as an undrafted free agent in 2023, but he could open the season as the team's primary backup behind three-time Pro Bowler Jahmyr Gibbs. After trading away veteran David Montgomery, the Lions signed Isiah Pacheco (back, knee) to a one-year free agent deal, but with the former Chief dealing with back and knee injuries and his Week 1 availability up in the air, head coach Dan Campbell told reporters on Saturday that he'd be comfortable playing Saylors in that role if necessary, according to Dave Birkett of the Detroit Free Press. \"I'm comfortable with those guys. And I just like the thought of having a guy in our system, think that's important. Knows our terminology, knows our guys, knows the protections. Just kind of knows it all, man. Understands our quarterback and how he thinks. I just think that's important.\" Saylors, who has seen the Lions' heaviest running back rush share in each of the past two preseasons, ran for 100 yards on 17 carries in Saturday's 25-16 win over the Colts, and he is now a player to pay attention to as a potentially critical handcuff to begin the 2026 season.",
+      "metadata": {
+        "description": "Detroit Lions running back Jacob Saylors has carried the ball only twice since coming into the league as an undrafted free agent in 2023, but he could open the season as the team's primary backup behind three-time Pro Bowler Jahmyr Gibbs. After trading away veteran David Montgomery, the Lions signed Isiah Pacheco (back, knee) to a one-year free agent deal, but with the former Chief dealing with back and knee injuries and his Week 1 availability up in the air, head coach Dan Campbell told reporters on Saturday that he'd be comfortable playing Saylors in that role if necessary, according to Dave Birkett of the Detroit Free Press. \"I'm comfortable with those guys. And I just like the thought of having a guy in our system, think that's important. Knows our terminology, knows our guys, knows the protections. Just kind of knows it all, man. Understands our quarterback and how he thinks. I just think that's important.\" Saylors, who has seen the Lions' heaviest running back rush share in each of the past two preseasons, ran for 100 yards on 17 carries in Saturday's 25-16 win over the Colts, and he is now a player to pay attention to as a potentially critical handcuff to begin the 2026 season.",
+        "title": "Lions Comfortable with Jacob Saylors as the No. 2 Running Back",
+        "topic_id": "1399791270284541952",
+        "url": "https://www.rotoballer.com/player-news/lions-comfortable-with-jacob-saylors-as-the-no-2-running-back/1919534"
+      },
+      "nfl_team": "DET",
+      "player_id": "11237",
+      "player_name": "Jacob Saylors",
+      "position": "RB",
+      "published": 1788084012000,
+      "source": "rotoballer",
+      "source_key": "219701",
+      "story_id": "nfl|11237|rotoballer|219701|1788084012000",
+      "title": "Lions Comfortable with Jacob Saylors as the No. 2 Running Back",
+      "url": "https://www.rotoballer.com/player-news/lions-comfortable-with-jacob-saylors-as-the-no-2-running-back/1919534"
+    },
+    {
+      "analysis": null,
       "description": "San Francisco 49ers head coach Kyle Shanahan recently met with the media, and a passing comment about tight end George Kittle (Achilles) could be interpreted to mean that the All-Pro tight end has had a setback in his recovery from the Achilles injury that ended his 2025 season. While discussing the potential Week 1 availability of a handful of injured players, Shanahan mentioned his star tight end, saying, \"Guys like Kittle, who's taken a step back.\" He was not asked for further clarification, but with Kittle having been activated from the active/physically unable to perform list on August 23rd, it's possible Shanahan meant a step toward playing. Following a string of positive recovery news, Kittle had risen to RotoBaller's TE9, but as posited by Mike Florio of Pro Football Talk, Shanahan will likely have some further explaining to do when he next meets with the media.",
       "metadata": {
         "description": "San Francisco 49ers head coach Kyle Shanahan recently met with the media, and a passing comment about tight end George Kittle (Achilles) could be interpreted to mean that the All-Pro tight end has had a setback in his recovery from the Achilles injury that ended his 2025 season. While discussing the potential Week 1 availability of a handful of injured players, Shanahan mentioned his star tight end, saying, \"Guys like Kittle, who's taken a step back.\" He was not asked for further clarification, but with Kittle having been activated from the active/physically unable to perform list on August 23rd, it's possible Shanahan meant a step toward playing. Following a string of positive recovery news, Kittle had risen to RotoBaller's TE9, but as posited by Mike Florio of Pro Football Talk, Shanahan will likely have some further explaining to do when he next meets with the media.",
@@ -5732,6 +5797,26 @@
       "story_id": "nfl|1166|rotowire|635219|1788039029000",
       "title": "Kirk Cousins - Expected to be named starter",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions running back Jacob Saylors impressed in his team's preseason finale against the Indianapolis Colts on Saturday, recording 17 carries for 100 yards and two catches for 12 yards on four targets. Saylors appeared in 16 games for Detroit in 2025, but he recorded just two carries on the season. Entering 2026, star Lions running back Jahmyr Gibbs is firmly atop the team's depth chart at the position. However, RB2 favorite Isiah Pacheco's (back, knee) availability for the start of the season is currently in question as he battles back and knee injuries. As a result, Saylors looks to be competing with Sione Vaki and Trayveon Williams for an early-season role in the Detroit backfield. Saylors helped his case with a strong performance in the preseason, rushing for 187 yards on 31 carries across three games played. In deeper leagues, Saylors could be worth rostering until more is known about Pacheco's health.",
+      "metadata": {
+        "description": "Detroit Lions running back Jacob Saylors impressed in his team's preseason finale against the Indianapolis Colts on Saturday, recording 17 carries for 100 yards and two catches for 12 yards on four targets. Saylors appeared in 16 games for Detroit in 2025, but he recorded just two carries on the season. Entering 2026, star Lions running back Jahmyr Gibbs is firmly atop the team's depth chart at the position. However, RB2 favorite Isiah Pacheco's (back, knee) availability for the start of the season is currently in question as he battles back and knee injuries. As a result, Saylors looks to be competing with Sione Vaki and Trayveon Williams for an early-season role in the Detroit backfield. Saylors helped his case with a strong performance in the preseason, rushing for 187 yards on 31 carries across three games played. In deeper leagues, Saylors could be worth rostering until more is known about Pacheco's health.",
+        "title": "Jacob Saylors Shines in Preseason Finale, Competing for RB2 Role in Detroit?",
+        "topic_id": "1399598731925417984",
+        "url": "https://www.rotoballer.com/player-news/jacob-saylors-shines-in-preseason-finale-competing-for-rb2-role-in-detroit/1919349"
+      },
+      "nfl_team": "DET",
+      "player_id": "11237",
+      "player_name": "Jacob Saylors",
+      "position": "RB",
+      "published": 1788037987000,
+      "source": "rotoballer",
+      "source_key": "219680",
+      "story_id": "nfl|11237|rotoballer|219680|1788037987000",
+      "title": "Jacob Saylors Shines in Preseason Finale, Competing for RB2 Role in Detroit?",
+      "url": "https://www.rotoballer.com/player-news/jacob-saylors-shines-in-preseason-finale-competing-for-rb2-role-in-detroit/1919349"
     },
     {
       "analysis": null,
@@ -10683,6 +10768,26 @@
       "story_id": "nfl|4037|rotoballer|219469|1787781410000",
       "title": "Chris Godwin Jr. Looking Like the Best Version of Himself",
       "url": "https://www.rotoballer.com/player-news/chris-godwin-looking-like-the-best-version-of-himself/1917252"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks running back George Holani may not see the substantial workload everyone expected early in the season. Holani spent last season as the team's RB3 behind Kenneth Walker III and Zach Charbonnet, totaling just 88 scrimmage yards and a touchdown on 24 attempts. Now with Walker in Kansas City and Charbonnet recovering from a torn ACL, Holani seemed to be in line for a solid workload in Week 1. However, the emergence of first-round rookie Jadarian Price could cost him valuable touches. Price will not play in the preseason finale, as the team believes \"they've seen enough from him\" and that \"he's too valuable to risk at this point.\" There have also been rumors that Charbonnet will return sooner than expected, with his recovery progressing well. Holani's fantasy value in 2026 is starting to look bleak, and he may not be worth spending draft capital on.",
+      "metadata": {
+        "description": "Seattle Seahawks running back George Holani may not see the substantial workload everyone expected early in the season. Holani spent last season as the team's RB3 behind Kenneth Walker III and Zach Charbonnet, totaling just 88 scrimmage yards and a touchdown on 24 attempts. Now with Walker in Kansas City and Charbonnet recovering from a torn ACL, Holani seemed to be in line for a solid workload in Week 1. However, the emergence of first-round rookie Jadarian Price could cost him valuable touches. Price will not play in the preseason finale, as the team believes \"they've seen enough from him\" and that \"he's too valuable to risk at this point.\" There have also been rumors that Charbonnet will return sooner than expected, with his recovery progressing well. Holani's fantasy value in 2026 is starting to look bleak, and he may not be worth spending draft capital on.",
+        "title": "George Holani Losing Fantasy Appeal in Seattle's Backfield",
+        "topic_id": "1398520411892760576",
+        "url": "https://www.rotoballer.com/player-news/george-holani-losing-fantasy-appeal-in-seattles-backfield/1917225"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12048",
+      "player_name": "George Holani",
+      "position": "RB",
+      "published": 1787780758000,
+      "source": "rotoballer",
+      "source_key": "219468",
+      "story_id": "nfl|12048|rotoballer|219468|1787780758000",
+      "title": "George Holani Losing Fantasy Appeal in Seattle's Backfield",
+      "url": "https://www.rotoballer.com/player-news/george-holani-losing-fantasy-appeal-in-seattles-backfield/1917225"
     },
     {
       "analysis": "It's worth noting that this doesn't align with how Dallas' running backs are listed on the team's unofficial depth chart, and things could remain fluid leading up to and after roster cut-downs. However, it's a take shared by Todd Archer of ESPN, as well as Jon Machota of The Athletic, who predicts that Davis opens as the No. 2 back, while 2025 fifth-rounder Jaydon Blue -- a player with higher upside, per Machota -- is a candidate to take over the spot at some point during the season. Meanwhile, Phil Mafah is also in the mix but could be on the roster bubble. In any case, if Williams ends up missing any time, a committee approach could well be employed to fill the void, but in the short term at least, Davis appears to be trending toward being the next man up in such a scenario, with Blue also factoring in.",
@@ -18943,6 +19048,26 @@
       "source_key": "634466",
       "story_id": "nfl|11610|rotowire|634466|1787428641000",
       "title": "Malik Washington - Not playing Saturday",
+      "url": null
+    },
+    {
+      "analysis": "Saylors' 5.3 yards per carry and starting role were somewhat overshadowed by a massive mistake. The running back coughed up the ball on the second play of the game, leading to a fumble-six that gave the Commanders an early lead. The 26-year-old recovered well from the error, producing consistently and safely for the rest of the contest. It remains unclear how the Lions' opinion of the second-year rusher will be affected, but with Isiah Pacheco (knee) and Sione Vaki (back) still sidelined with injuries, Saylors will likely remain one of the top options at running back for the time being.",
+      "description": "Saylors rushed six times for 32 yards while also giving up a fumble-six in Saturday's 17-13 preseason win over the Commanders.",
+      "metadata": {
+        "analysis": "Saylors' 5.3 yards per carry and starting role were somewhat overshadowed by a massive mistake. The running back coughed up the ball on the second play of the game, leading to a fumble-six that gave the Commanders an early lead. The 26-year-old recovered well from the error, producing consistently and safely for the rest of the contest. It remains unclear how the Lions' opinion of the second-year rusher will be affected, but with Isiah Pacheco (knee) and Sione Vaki (back) still sidelined with injuries, Saylors will likely remain one of the top options at running back for the time being.",
+        "description": "Saylors rushed six times for 32 yards while also giving up a fumble-six in Saturday's 17-13 preseason win over the Commanders.",
+        "title": "Jacob Saylors - Starts Saturday",
+        "topic_id": "1396981383724797952"
+      },
+      "nfl_team": "DET",
+      "player_id": "11237",
+      "player_name": "Jacob Saylors",
+      "position": "RB",
+      "published": 1787428530000,
+      "source": "rotowire",
+      "source_key": "634464",
+      "story_id": "nfl|11237|rotowire|634464|1787428530000",
+      "title": "Jacob Saylors - Starts Saturday",
       "url": null
     },
     {

@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1598**
-- Newly captured: **1**
+- Stored stories: **1604**
+- Newly captured: **6**
 
 ## Latest news
 
-- **NEW — Ollie Gordon** — Ollie Gordon II is Seeing His Fantasy Stock Rise (2026-09-02T00:14:07Z)
+- **Ollie Gordon** — Ollie Gordon II is Seeing His Fantasy Stock Rise (2026-09-02T00:14:07Z)
   - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-is-seeing-his-fantasy-stock-rise/1921653
 - **Kyle Monangai** — Kyle Monangai (knee) remains week-to-week  (2026-09-02T00:05:25.623000Z)
   - Monangai has been considered week-to-week for the past couple of weeks. It appears he won't be ready to go to begin the season, which should lead to a workhorse role for D'Andre Swift to open the year. 
