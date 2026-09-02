@@ -2,11 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1647**
-- Newly captured: **1**
+- Stored stories: **1650**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Zay Flowers** — Zay Flowers - Runs on side Wednesday (2026-09-02T17:29:47Z)
+  - Flowers has been held out of practice since last week with what is believed to be a minor lower-body issue, but it's a positive sign that he received clearance to run. It was reported Tuesday that Flowers will practice fully next week and suit up for Week 1, and he appears to be on track to do so.
+- **NEW — Jonathon Brooks** — Jonathon Brooks - Optimism for Week 1 (2026-09-02T17:23:58Z)
+  - It's unclear if Brooks' soreness is in his surgically-repaired knee or elsewhere, but he's worked off to the side with trainers at practice each of the last two days. While Brooks has drawn a substantial amount of summer hype, Chuba Hubbard (hamstring) is expected to maintain a large role in the Carolina backfield. Neither running back may be a reliable fantasy bet out of the gates against Chicago.
 - **Kenneth Walker** — Kenneth Walker - Returns to full practice Wednesday (2026-09-02T16:56:54Z)
   - Walker dealt with some swelling around his ankle last week due to some cleat issues, but the star running back is back in action Wednesday with 12 days to go before the Chiefs open their season at home against the Broncos on Monday, Sept. 14. After splitting duties with Zach Charbonnet (knee) in Seattle, Walker is expected to operate as a three-down workhorse with Kansas City this season. Only fifth-round rookie Emmett Johnson and 2025 seventh-rounder Brashard Smith round out the depth chart behind Walker.
 - **Fernando Mendoza** — Fernando Mendoza - Opening season as QB2 (2026-09-02T16:48:22Z)
@@ -46,7 +50,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Meyers has been out of action since injuring his hand during a joint practice with the Panthers nearly two weeks ago, but he is set to return to the field Wednesday. With Meyers cleared to get some work in, it seems likely he is on track to take the field Week 1 against the Browns.
 - **Blake Corum** — Blake Corum - Sits out preseason in advance of Year 3 (2026-09-02T13:37:30Z)
   - Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.
-- **NEW — Emeka Egbuka** — Todd Bowles Remains Cautious Regarding Emeka Egbuka's Week 1 Status (2026-09-02T12:59:06Z)
+- **NEW — Ollie Gordon** — Ollie Gordon II Practicing in a Non-Contact Jersey on Wednesday (2026-09-02T13:17:15Z)
+  - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-practicing-in-a-non-contact-jersey-on-wednesday/1921952
+- **Emeka Egbuka** — Todd Bowles Remains Cautious Regarding Emeka Egbuka's Week 1 Status (2026-09-02T12:59:06Z)
   - Source: https://www.rotoballer.com/player-news/todd-bowles-remains-cautious-regarding-emeka-egbukas-week-1-status/1921944
 - **Kirk Cousins** — Raiders Officially Name Kirk Cousins the Week 1 Starter (2026-09-02T12:52:18Z)
   - Source: https://www.rotoballer.com/player-news/raiders-officially-name-kirk-cousins-the-week-1-starter/1921942
@@ -213,12 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/malik-nabers-gets-some-practice-work-in-on-tuesday/1921409
 - **Kyren Williams** — Kyren Williams - Expected to be part of RB timeshare (2026-09-01T17:15:53Z)
   - Neither Williams nor Corum saw any action this preseason, as the Rams are notorious for resting their starters every summer, so it was difficult to get a clearer picture of the backfield situation outside of practice. By all accounts this offseason, the Rams want to up Corum's usage after he ate into Williams' workload following the bye last season. Following the Week 8 bye in 2025, Williams out-carried Corum 196 to 130 and out-targeted him 33 to 11. Also working in Williams' favor is coach Sean McVay's preference to use him near the goal line and on passing downs. Even with the talk of Corum getting more work, Williams looks like one of the better third-round fantasy picks playing in an offense that is expected to win a bunch of games while jockeying for the league lead in points scored.
-- **Emeka Egbuka** — Emeka Egbuka (toe) remains up in air for Week 1 (2026-09-01T17:15:21.963000Z)
-  - Egbuka is continuing to work his way back from a toe injury. His status will need to be monitored closely during practice next week. 
-  - Source: https://www.fantasypros.com/nfl/news/605324/emeka-egbuka-toe-remains-up-air-week-1.php
-- **Jalen McMillan** — Jalen McMillan (knee) uncertain for Week 1 (2026-09-01T17:15:21.946000Z)
-  - McMillan status will need to be monitored during practice next week. He is continuing to work his way back from a knee injury. 
-  - Source: https://www.fantasypros.com/nfl/news/605325/jalen-mcmillan-knee-uncertain-week-1.php
-- **Jeremiyah Love** — Jeremiyah Love (ankle) 'about 50/50' to play in Week 1 (2026-09-01T17:10:21.402000Z)
-  - Love is working his way back from a preseason high ankle sprain. If he doesn't play in Week 1, he'll have a good chance to return by Week 2 or 3. If he is sidelined, Tyler Allgeier would be in line for a big role. 
-  - Source: https://www.fantasypros.com/nfl/news/605322/jeremiyah-love-ankle-about-5050-to-play-week-1.php

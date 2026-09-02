@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-02T17:23:06Z",
+  "last_checked_at": "2026-09-02T17:35:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12514|rotoballer|219936|1788353946000"
+    "nfl|11583|rotowire|636016|1788369838000",
+    "nfl|12495|rotoballer|219937|1788355035000",
+    "nfl|9997|rotowire|636017|1788370187000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Flowers has been held out of practice since last week with what is believed to be a minor lower-body issue, but it's a positive sign that he received clearance to run. It was reported Tuesday that Flowers will practice fully next week and suit up for Week 1, and he appears to be on track to do so.",
+      "description": "Flowers (lower body) did not participate in Wednesday's practice, but he did run sprints on the side, Jamison Hensley of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Flowers has been held out of practice since last week with what is believed to be a minor lower-body issue, but it's a positive sign that he received clearance to run. It was reported Tuesday that Flowers will practice fully next week and suit up for Week 1, and he appears to be on track to do so.",
+        "description": "Flowers (lower body) did not participate in Wednesday's practice, but he did run sprints on the side, Jamison Hensley of ESPN.com reports.",
+        "title": "Zay Flowers - Runs on side Wednesday",
+        "topic_id": "1400929926214889472"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1788370187000,
+      "source": "rotowire",
+      "source_key": "636017",
+      "story_id": "nfl|9997|rotowire|636017|1788370187000",
+      "title": "Zay Flowers - Runs on side Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "It's unclear if Brooks' soreness is in his surgically-repaired knee or elsewhere, but he's worked off to the side with trainers at practice each of the last two days. While Brooks has drawn a substantial amount of summer hype, Chuba Hubbard (hamstring) is expected to maintain a large role in the Carolina backfield. Neither running back may be a reliable fantasy bet out of the gates against Chicago.",
+      "description": "Coach Dave Canales said Wednesday he's \"very optimistic\" Brooks (soreness) will be available for Week 1 against the Bears, Sheena Quick of Fox Sports Radio 1340 reports.",
+      "metadata": {
+        "analysis": "It's unclear if Brooks' soreness is in his surgically-repaired knee or elsewhere, but he's worked off to the side with trainers at practice each of the last two days. While Brooks has drawn a substantial amount of summer hype, Chuba Hubbard (hamstring) is expected to maintain a large role in the Carolina backfield. Neither running back may be a reliable fantasy bet out of the gates against Chicago.",
+        "description": "Coach Dave Canales said Wednesday he's \"very optimistic\" Brooks (soreness) will be available for Week 1 against the Bears, Sheena Quick of Fox Sports Radio 1340 reports.",
+        "title": "Jonathon Brooks - Optimism for Week 1",
+        "topic_id": "1400929926189723648"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788369838000,
+      "source": "rotowire",
+      "source_key": "636016",
+      "story_id": "nfl|11583|rotowire|636016|1788369838000",
+      "title": "Jonathon Brooks - Optimism for Week 1",
+      "url": null
+    },
     {
       "analysis": "Walker dealt with some swelling around his ankle last week due to some cleat issues, but the star running back is back in action Wednesday with 12 days to go before the Chiefs open their season at home against the Broncos on Monday, Sept. 14. After splitting duties with Zach Charbonnet (knee) in Seattle, Walker is expected to operate as a three-down workhorse with Kansas City this season. Only fifth-round rookie Emmett Johnson and 2025 seventh-rounder Brashard Smith round out the depth chart behind Walker.",
       "description": "Walker (ankle) was a full participant in Wednesday's practice, Pete Sweeney of The Kansas City Star reports.",
@@ -393,6 +435,26 @@
       "story_id": "nfl|11586|rotowire|635995|1788356250000",
       "title": "Blake Corum - Sits out preseason in advance of Year 3",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins running back Ollie Gordon II (ribs) suffered a minor rib injury during the team's second preseason game, and he is practicing in a red non-contact jersey on Wednesday. The 2025 sixth-round pick ran for 199 yards on 70 carries while appearing in all 17 games as a rookie, and he could see a larger role in year two with the Dolphins in need of playmakers outside of starting running back De'Von Achane. Along with Achane and third-year player Jaylen Wright, Gordon was one of three running backs to make the initial 53-man roster, excluding undrafted rookie fullback DJ Herman. Once viewed as one of the most promising backs in the nation after a Doak Walker Award-winning season in 2023, Gordon has failed to live up to expectations and is unlikely to factor into the fantasy landscape in 2026 as RotoBaller's RB87.",
+      "metadata": {
+        "description": "Miami Dolphins running back Ollie Gordon II (ribs) suffered a minor rib injury during the team's second preseason game, and he is practicing in a red non-contact jersey on Wednesday. The 2025 sixth-round pick ran for 199 yards on 70 carries while appearing in all 17 games as a rookie, and he could see a larger role in year two with the Dolphins in need of playmakers outside of starting running back De'Von Achane. Along with Achane and third-year player Jaylen Wright, Gordon was one of three running backs to make the initial 53-man roster, excluding undrafted rookie fullback DJ Herman. Once viewed as one of the most promising backs in the nation after a Doak Walker Award-winning season in 2023, Gordon has failed to live up to expectations and is unlikely to factor into the fantasy landscape in 2026 as RotoBaller's RB87.",
+        "title": "Ollie Gordon II Practicing in a Non-Contact Jersey on Wednesday",
+        "topic_id": "1400928664601808896",
+        "url": "https://www.rotoballer.com/player-news/ollie-gordon-ii-practicing-in-a-non-contact-jersey-on-wednesday/1921952"
+      },
+      "nfl_team": "MIA",
+      "player_id": "12495",
+      "player_name": "Ollie Gordon",
+      "position": "RB",
+      "published": 1788355035000,
+      "source": "rotoballer",
+      "source_key": "219937",
+      "story_id": "nfl|12495|rotoballer|219937|1788355035000",
+      "title": "Ollie Gordon II Practicing in a Non-Contact Jersey on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/ollie-gordon-ii-practicing-in-a-non-contact-jersey-on-wednesday/1921952"
     },
     {
       "analysis": null,
