@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1591**
-- Newly captured: **1**
+- Stored stories: **1593**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -13,9 +13,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Luther Burden** — Luther Burden III (groin) practices Tuesday  (2026-09-02T00:05:25.607000Z)
   - Burden had returned to practice last week. He is on track to be good to go for the start of the season next week. 
   - Source: https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php
+- **NEW — Saquon Barkley** — Saquon Barkley Has Looked Sharp in the New Eagles Offensive Scheme (2026-09-01T22:47:12Z)
+  - Source: https://www.rotoballer.com/player-news/saquon-barkley-has-looked-sharp-in-the-new-eagles-offensive-scheme/1921627
 - **Ashton Jeanty** — Ashton Jeanty (ankle) receives positive update  (2026-09-01T22:40:24.185000Z)
   - "I expect him to be back as quick he can, maybe quicker than some people would expect," Spytek said. "When that is, we'll see." Jeanty did not practice on Tuesday. The fact that he wasn't placed on IR is a positive sign. He could be back as soon as Week 1. 
   - Source: https://www.fantasypros.com/nfl/news/605446/ashton-jeanty-ankle-receives-positive-update.php
+- **NEW — Chase Brown** — Chase Brown Expanding His Role, a Bonafide RB1 For Fantasy Football (2026-09-01T22:36:07Z)
+  - Source: https://www.rotoballer.com/player-news/chase-brown-expanding-his-role-bonafide-rb1-for-fantasy-football/1921621
 - **Brian Robinson** — Brian Robinson - Expected to have role at goal line (2026-09-01T22:32:54Z)
   - "He has shown a physical style in practice that cements his role as the new Tyler Allgeier," Kendall wrote about Robinson. "Bijan Robinson fantasy managers may not like how many goal-line carries he gets." Allgeier, of course, was a thorn in the side of Bijan last season, out-carrying Robinson 19 to 17 inside the 10-yard line while matching him with seven carries apiece inside the five-yard line. Allgeier also punched in four of those seven carries for touchdowns, while Bijan scored on just two of his chances. Brian, at 6-foot-1 and 225 pounds, profiles similarly to Allgeier as a short-yardage, between-the-tackles, goal-line type who can get the tough yards. It sounds like he's going to have some sort of role in those situations for Atlanta this season, which could mute some of Bijan's touchdown upside.
 - **Theo Johnson** — Theo Johnson (shoulder) practices in non-contact jersey  (2026-09-01T22:30:23.758000Z)
@@ -24,7 +28,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Alvin Kamara** — Alvin Kamara (knee) misses practice Tuesday  (2026-09-01T22:30:23.722000Z)
   - It remains unclear when Kamara will be able to return. It is notable he wasn't placed on IR. 
   - Source: https://www.fantasypros.com/nfl/news/605442/alvin-kamara-knee-misses-practice-tuesday.php
-- **NEW — Oronde Gadsden** — Oronde Gadsden Falling Down Draft Boards Due to Added Competition (2026-09-01T22:24:12Z)
+- **Oronde Gadsden** — Oronde Gadsden Falling Down Draft Boards Due to Added Competition (2026-09-01T22:24:12Z)
   - Source: https://www.rotoballer.com/player-news/oronde-gadsden-falling-down-draft-boards-due-to-added-competition/1921612
 - **Chris Bell** — Chris Bell - Still working into football shape (2026-09-01T22:17:55Z)
   - Bell was cleared to return to full practice last week and ended up playing 14 offensive snaps in the Dolphins' preseason finale Friday, where he finished with two catches for 22 yards on five targets. After Miami traded Tutu Atwell to the Rams and dumped several other wideouts this past weekend, Bell is a candidate to see playing time out of the gates with the Dolphins, as he's competing with Malik Washington, Jalen Tolbert and fellow rookie Caleb Douglas for snaps at the position. Bell likely needs to improve his conditioning after a long rehab from ACL surgery.
@@ -226,7 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tyler-warren-returns-to-practice-on-tuesday/1921250
 - **Chuba Hubbard** — Chuba Hubbard Dressed for Practice (2026-09-01T13:05:12Z)
   - Source: https://www.rotoballer.com/player-news/chuba-hubbard-dressed-for-practice/1921247
-- **Baker Mayfield** — Baker Mayfield Extension Talks Still on Hold (2026-09-01T11:37:12Z)
-  - Source: https://www.rotoballer.com/player-news/baker-mayfield-extension-talks-still-on-hold/1921193
-- **Josh Jacobs** — Packers Expect Josh Jacobs to Play This Season (2026-09-01T11:17:07Z)
-  - Source: https://www.rotoballer.com/player-news/packers-expect-josh-jacobs-to-play-this-season/1921180

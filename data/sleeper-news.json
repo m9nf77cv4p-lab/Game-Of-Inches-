@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-02T02:43:32Z",
+  "last_checked_at": "2026-09-02T02:56:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|12493|rotoballer|219902|1788301452000"
+    "nfl|4866|rotoballer|219904|1788302832000",
+    "nfl|9224|rotoballer|219903|1788302167000"
   ],
   "schema_version": 1,
   "source": {
@@ -56,6 +57,26 @@
       "url": "https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php"
     },
     {
+      "analysis": null,
+      "description": "Philadelphia Eagles' 29-year-old running back Saquon Barkley had a disappointing season last year after finishing as the RB1 in 2024. During the 2025 season, he finished as the RB14, rushing for 1,140 yards (4.07 YPC) and hauling in 37 of his 50 targets for 273 yards and two touchdowns through the air. The Eagles offense struggled under former offensive coordinator Kevin Patullo last season and has brought in new offensive coordinator Sean Mannion for the 2026 season, who is rooted in the Sean McVay coaching tree, which focuses on a rhythm-based system in which the run and play-action pass concepts look identical. Reports from camp have indicated that Barkley has been one of the biggest standout performers on the field and is in line for a major workload under Mannion's new offensive scheme, setting him up for a bounceback season. RotoBaller currently ranks Barkley as the RB7 coming into the season, and fantasy managers looking to lock in a workhorse runing back in the first round will want to target him.",
+      "metadata": {
+        "description": "Philadelphia Eagles' 29-year-old running back Saquon Barkley had a disappointing season last year after finishing as the RB1 in 2024. During the 2025 season, he finished as the RB14, rushing for 1,140 yards (4.07 YPC) and hauling in 37 of his 50 targets for 273 yards and two touchdowns through the air. The Eagles offense struggled under former offensive coordinator Kevin Patullo last season and has brought in new offensive coordinator Sean Mannion for the 2026 season, who is rooted in the Sean McVay coaching tree, which focuses on a rhythm-based system in which the run and play-action pass concepts look identical. Reports from camp have indicated that Barkley has been one of the biggest standout performers on the field and is in line for a major workload under Mannion's new offensive scheme, setting him up for a bounceback season. RotoBaller currently ranks Barkley as the RB7 coming into the season, and fantasy managers looking to lock in a workhorse runing back in the first round will want to target him.",
+        "title": "Saquon Barkley Has Looked Sharp in the New Eagles Offensive Scheme",
+        "topic_id": "1400709692791009280",
+        "url": "https://www.rotoballer.com/player-news/saquon-barkley-has-looked-sharp-in-the-new-eagles-offensive-scheme/1921627"
+      },
+      "nfl_team": "PHI",
+      "player_id": "4866",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "published": 1788302832000,
+      "source": "rotoballer",
+      "source_key": "219904",
+      "story_id": "nfl|4866|rotoballer|219904|1788302832000",
+      "title": "Saquon Barkley Has Looked Sharp in the New Eagles Offensive Scheme",
+      "url": "https://www.rotoballer.com/player-news/saquon-barkley-has-looked-sharp-in-the-new-eagles-offensive-scheme/1921627"
+    },
+    {
       "analysis": "\"I expect him to be back as quick he can, maybe quicker than some people would expect,\" Spytek said. \"When that is, we'll see.\" Jeanty did not practice on Tuesday. The fact that he wasn't placed on IR is a positive sign. He could be back as soon as Week 1. ",
       "description": "Raiders GM John Spytek said Ashton Jeanty is in a \"good spot\" and \"could return sooner than expected.\"",
       "metadata": {
@@ -75,6 +96,26 @@
       "story_id": "nfl|12527|fantasy_pros|605446|1788302424185",
       "title": "Ashton Jeanty (ankle) receives positive update ",
       "url": "https://www.fantasypros.com/nfl/news/605446/ashton-jeanty-ankle-receives-positive-update.php"
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals 26-year-old running back Chase Brown finished the 2025 season as the RB8 and rushed for 1,019 yards (4.39 YPC) and six touchdowns, along with 88 targets, 69 receptions, 437 receiving yards, and five touchdowns through the air. Reports from camp have been glowing, as head coach Zac Taylor has put Brown at the center of unique offensive schemes, moving him out wide, in the slot, and utilizing him in pre-snap motion. Additionally, camp reports highlight that Brown is looking explosive and has been making big plays throughout training camp. There's no question that Brown is going early in drafts this season; however, the added context of his versatility in the passing game only raises his ceiling, and with quarterback Joe Burrow healthy, Brown has the upside to finish as a top-10 running back for a second straight season. RotoBaller ranks Brown as the RB9 heading into drafts, and he is in line for another massive season in a potent offense.",
+      "metadata": {
+        "description": "Cincinnati Bengals 26-year-old running back Chase Brown finished the 2025 season as the RB8 and rushed for 1,019 yards (4.39 YPC) and six touchdowns, along with 88 targets, 69 receptions, 437 receiving yards, and five touchdowns through the air. Reports from camp have been glowing, as head coach Zac Taylor has put Brown at the center of unique offensive schemes, moving him out wide, in the slot, and utilizing him in pre-snap motion. Additionally, camp reports highlight that Brown is looking explosive and has been making big plays throughout training camp. There's no question that Brown is going early in drafts this season; however, the added context of his versatility in the passing game only raises his ceiling, and with quarterback Joe Burrow healthy, Brown has the upside to finish as a top-10 running back for a second straight season. RotoBaller ranks Brown as the RB9 heading into drafts, and he is in line for another massive season in a potent offense.",
+        "title": "Chase Brown Expanding His Role, a Bonafide RB1 For Fantasy Football",
+        "topic_id": "1400707176053387264",
+        "url": "https://www.rotoballer.com/player-news/chase-brown-expanding-his-role-bonafide-rb1-for-fantasy-football/1921621"
+      },
+      "nfl_team": "CIN",
+      "player_id": "9224",
+      "player_name": "Chase Brown",
+      "position": "RB",
+      "published": 1788302167000,
+      "source": "rotoballer",
+      "source_key": "219903",
+      "story_id": "nfl|9224|rotoballer|219903|1788302167000",
+      "title": "Chase Brown Expanding His Role, a Bonafide RB1 For Fantasy Football",
+      "url": "https://www.rotoballer.com/player-news/chase-brown-expanding-his-role-bonafide-rb1-for-fantasy-football/1921621"
     },
     {
       "analysis": "\"He has shown a physical style in practice that cements his role as the new Tyler Allgeier,\" Kendall wrote about Robinson. \"Bijan Robinson fantasy managers may not like how many goal-line carries he gets.\" Allgeier, of course, was a thorn in the side of Bijan last season, out-carrying Robinson 19 to 17 inside the 10-yard line while matching him with seven carries apiece inside the five-yard line. Allgeier also punched in four of those seven carries for touchdowns, while Bijan scored on just two of his chances. Brian, at 6-foot-1 and 225 pounds, profiles similarly to Allgeier as a short-yardage, between-the-tackles, goal-line type who can get the tough yards. It sounds like he's going to have some sort of role in those situations for Atlanta this season, which could mute some of Bijan's touchdown upside.",
