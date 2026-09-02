@@ -2,14 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1605**
-- Newly captured: **1**
+- Stored stories: **1608**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Jakobi Meyers** — Jakobi Meyers - Will practice Wednesday (2026-09-02T13:41:16Z)
+  - Meyers has been out of action since injuring his hand during a joint practice with the Panthers nearly two weeks ago, but he is set to return to the field Wednesday. With Meyers cleared to get some work in, it seems likely he is on track to take the field Week 1 against the Browns.
+- **NEW — Blake Corum** — Blake Corum - Sits out preseason in advance of Year 3 (2026-09-02T13:37:30Z)
+  - Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.
 - **George Kittle** — George Kittle - Traveling to Australia with team (2026-09-02T12:52:12Z)
   - A final call on Kittle's availability for Week 1 isn't expected to be made until the 49ers arrive in Australia, but his involvement in practice this week and presence on the road trip suggest that he's on track to play. Kittle -- who tore his right Achilles tendon Jan. 11 and underwent surgery three days later -- could have his snaps limited to some degree if he's cleared to play in the season opener.
-- **NEW — George Kittle** — George Kittle Trending Towards Playing in Week 1 (2026-09-02T09:09:08Z)
+- **NEW — Dallas Goedert** — Dallas Goedert Set for Another High-Volume Season in 2026 (2026-09-02T09:30:59Z)
+  - Source: https://www.rotoballer.com/player-news/dallas-goedert-set-for-another-high-volume-season-in-2026/1921773
+- **George Kittle** — George Kittle Trending Towards Playing in Week 1 (2026-09-02T09:09:08Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-trending-towards-playing-in-week-1/1921750
 - **Ollie Gordon** — Ollie Gordon II is Seeing His Fantasy Stock Rise (2026-09-02T00:14:07Z)
   - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-is-seeing-his-fantasy-stock-rise/1921653
@@ -224,9 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The Colts won't have to reveal the extent of Warren's practice participation until they release their first injury report of the season Sept. 9, but his presence on the field Tuesday is a good indication that he'll be operating with no restrictions leading up to the Week 1 game against the Ravens. The second-year tight end strained his adductor during an Aug. 19 practice, but the Colts never indicated that the injury was anything that would seriously jeopardize his availability for the start of the regular season.
 - **Josh Downs** — Josh Downs - Taking part in Tuesday's practice (2026-09-01T14:19:47Z)
   - Downs missed some practice time last week with what he termed as a "very minor" calf injury. The Colts will release their first Week 1 injury report Sept. 9, and if his activity Tuesday is any indication, Downs could be off the report entirely as the team prepares for its season opener against the Ravens.
-- **MarShawn Lloyd** — MarShawn Lloyd "as Ready as He's Ever Been" for Lead-Back Role (2026-09-01T14:19:08Z)
-  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-as-ready-as-hes-ever-been-for-lead-back-role/1921292
-- **Ja'Marr Chase** — Ja'Marr Chase to Be Limited This Week, No Real Concerns (2026-09-01T14:11:06Z)
-  - Source: https://www.rotoballer.com/player-news/jamarr-chase-to-be-limited-this-week-no-real-concerns/1921282
-- **Tank Dell** — Texans GM Says Tank Dell is Close to Return (2026-09-01T13:49:05Z)
-  - Source: https://www.rotoballer.com/player-news/texans-gm-says-tank-dell-is-close-to-return/1921275

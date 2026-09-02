@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-02T13:16:09Z",
+  "last_checked_at": "2026-09-02T13:47:11Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4217|rotoballer|219911|1788340148000"
+    "nfl|11586|rotowire|635995|1788356250000",
+    "nfl|5022|rotoballer|219913|1788341459000",
+    "nfl|5947|rotowire|635996|1788356476000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Meyers has been out of action since injuring his hand during a joint practice with the Panthers nearly two weeks ago, but he is set to return to the field Wednesday. With Meyers cleared to get some work in, it seems likely he is on track to take the field Week 1 against the Browns.",
+      "description": "Meyers (hand) will participate in Wednesday's practice session, Ryan O'Halloran of The Florida Times-Union reports.",
+      "metadata": {
+        "analysis": "Meyers has been out of action since injuring his hand during a joint practice with the Panthers nearly two weeks ago, but he is set to return to the field Wednesday. With Meyers cleared to get some work in, it seems likely he is on track to take the field Week 1 against the Browns.",
+        "description": "Meyers (hand) will participate in Wednesday's practice session, Ryan O'Halloran of The Florida Times-Union reports.",
+        "title": "Jakobi Meyers - Will practice Wednesday",
+        "topic_id": "1400873294403477504"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1788356476000,
+      "source": "rotowire",
+      "source_key": "635996",
+      "story_id": "nfl|5947|rotowire|635996|1788356476000",
+      "title": "Jakobi Meyers - Will practice Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.",
+      "description": "Corum was rested for all three of the Rams' preseason contests.",
+      "metadata": {
+        "analysis": "Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.",
+        "description": "Corum was rested for all three of the Rams' preseason contests.",
+        "title": "Blake Corum - Sits out preseason in advance of Year 3",
+        "topic_id": "1400872035227344896"
+      },
+      "nfl_team": "LAR",
+      "player_id": "11586",
+      "player_name": "Blake Corum",
+      "position": "RB",
+      "published": 1788356250000,
+      "source": "rotowire",
+      "source_key": "635995",
+      "story_id": "nfl|11586|rotowire|635995|1788356250000",
+      "title": "Blake Corum - Sits out preseason in advance of Year 3",
+      "url": null
+    },
     {
       "analysis": "A final call on Kittle's availability for Week 1 isn't expected to be made until the 49ers arrive in Australia, but his involvement in practice this week and presence on the road trip suggest that he's on track to play. Kittle -- who tore his right Achilles tendon Jan. 11 and underwent surgery three days later -- could have his snaps limited to some degree if he's cleared to play in the season opener.",
       "description": "Kittle (Achilles) will travel to Australia with the 49ers and \"is trending in the right direction to play\" in the season opener Sept. 10 versus the Rams, Ian Rapoport of NFL Network reports.",
@@ -32,6 +74,26 @@
       "story_id": "nfl|4217|rotowire|635993|1788353532000",
       "title": "George Kittle - Traveling to Australia with team",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles tight end Dallas Goedert is primed for another high-volume season in 2026. With the departure of star wide receiver A.J. Brown, the entire Eagles' receiving core is set for a larger target share in 2026. Goedert hauled in 60 of 82 targets for 591 yards and 11 touchdowns last season with Brown in the mix. He scored 10 of the 11 touchdowns in the red zone, including eight within the six-yard line. The Eagles also have the easiest strength of schedule for tight ends next season, including a Week 1 matchup against the Washington Commanders, who allowed the fourth-most half-PPR fantasy points to tight ends last season. While he has flown under the radar for most of the fantasy draft process, Goedert should continue to produce low-end TE1 production in 2026.",
+      "metadata": {
+        "description": "Philadelphia Eagles tight end Dallas Goedert is primed for another high-volume season in 2026. With the departure of star wide receiver A.J. Brown, the entire Eagles' receiving core is set for a larger target share in 2026. Goedert hauled in 60 of 82 targets for 591 yards and 11 touchdowns last season with Brown in the mix. He scored 10 of the 11 touchdowns in the red zone, including eight within the six-yard line. The Eagles also have the easiest strength of schedule for tight ends next season, including a Week 1 matchup against the Washington Commanders, who allowed the fourth-most half-PPR fantasy points to tight ends last season. While he has flown under the radar for most of the fantasy draft process, Goedert should continue to produce low-end TE1 production in 2026.",
+        "title": "Dallas Goedert Set for Another High-Volume Season in 2026",
+        "topic_id": "1400872034317148160",
+        "url": "https://www.rotoballer.com/player-news/dallas-goedert-set-for-another-high-volume-season-in-2026/1921773"
+      },
+      "nfl_team": "PHI",
+      "player_id": "5022",
+      "player_name": "Dallas Goedert",
+      "position": "TE",
+      "published": 1788341459000,
+      "source": "rotoballer",
+      "source_key": "219913",
+      "story_id": "nfl|5022|rotoballer|219913|1788341459000",
+      "title": "Dallas Goedert Set for Another High-Volume Season in 2026",
+      "url": "https://www.rotoballer.com/player-news/dallas-goedert-set-for-another-high-volume-season-in-2026/1921773"
     },
     {
       "analysis": null,
