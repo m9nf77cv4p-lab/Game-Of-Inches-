@@ -2,15 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1589**
-- Newly captured: **2**
+- Stored stories: **1590**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Kyle Monangai** — Kyle Monangai (knee) remains week-to-week  (2026-09-02T00:05:25.623000Z)
+- **Kyle Monangai** — Kyle Monangai (knee) remains week-to-week  (2026-09-02T00:05:25.623000Z)
   - Monangai has been considered week-to-week for the past couple of weeks. It appears he won't be ready to go to begin the season, which should lead to a workhorse role for D'Andre Swift to open the year. 
   - Source: https://www.fantasypros.com/nfl/news/605468/kyle-monangai-knee-remains-week-to-week.php
-- **NEW — Luther Burden** — Luther Burden III (groin) practices Tuesday  (2026-09-02T00:05:25.607000Z)
+- **Luther Burden** — Luther Burden III (groin) practices Tuesday  (2026-09-02T00:05:25.607000Z)
   - Burden had returned to practice last week. He is on track to be good to go for the start of the season next week. 
   - Source: https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php
 - **Ashton Jeanty** — Ashton Jeanty (ankle) receives positive update  (2026-09-01T22:40:24.185000Z)
@@ -26,6 +26,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605442/alvin-kamara-knee-misses-practice-tuesday.php
 - **Chris Bell** — Chris Bell - Still working into football shape (2026-09-01T22:17:55Z)
   - Bell was cleared to return to full practice last week and ended up playing 14 offensive snaps in the Dolphins' preseason finale Friday, where he finished with two catches for 22 yards on five targets. After Miami traded Tutu Atwell to the Rams and dumped several other wideouts this past weekend, Bell is a candidate to see playing time out of the gates with the Dolphins, as he's competing with Malik Washington, Jalen Tolbert and fellow rookie Caleb Douglas for snaps at the position. Bell likely needs to improve his conditioning after a long rehab from ACL surgery.
+- **NEW — Jordan Mason** — Jordan Mason Showcasing Improved Explosiveness in Training Camp (2026-09-01T22:14:06Z)
+  - Source: https://www.rotoballer.com/player-news/jordan-mason-showcasing-improved-explosiveness-in-training-camp/1921607
 - **Isiah Pacheco** — Isiah Pacheco (back/MCL) placed in injured reserve  (2026-09-01T20:30:22.994000Z)
   - Pacheco will be sidelined for at least the first four games of the upcoming regular season, with his first opportunity to return coming ahead of a Week 5 contest against the Arizona Cardinals. Jacob Saylors will slide into the No. 2 running back role behind superstar Jahmyr Gibbs in the Lions backfield after an impressive preseason for the time being, with the Lions likely to add more depth to a shorthanded running backs room prior to the regular season.
   - Source: https://www.fantasypros.com/nfl/news/605379/isiah-pacheco-backmcl-placed-injured-reserve.php
@@ -228,5 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/packers-expect-josh-jacobs-to-play-this-season/1921180
 - **Kaleb Johnson** — Packers High On New Acquisition Kaleb Johnson (2026-09-01T10:57:19Z)
   - Source: https://www.rotoballer.com/player-news/packers-high-on-new-acquisition-kaleb-johnson/1921169
-- **David Montgomery** — David Montgomery Could Be a Steal in Texans Offense (2026-09-01T10:43:06Z)
-  - Source: https://www.rotoballer.com/player-news/david-montgomery-could-be-a-steal-in-texans-offense/1921161

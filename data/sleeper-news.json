@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-02T00:24:11Z",
+  "last_checked_at": "2026-09-02T02:21:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|12519|fantasy_pros|605469|1788307525607",
-    "nfl|12534|fantasy_pros|605468|1788307525623"
+    "nfl|8408|rotoballer|219901|1788300846000"
   ],
   "schema_version": 1,
   "source": {
@@ -158,6 +157,26 @@
       "story_id": "nfl|13311|rotowire|635860|1788301075000",
       "title": "Chris Bell - Still working into football shape",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings 27-year-old running back Jordan Mason continues to generate positive reviews from training camp thus far, with reports that he has shown better conditioning and improved explosiveness, and that head coach Kevin O'Connell and offensive coordinator Wes Philips have both been speaking highly of his physical transformation and mindset as he enters his second season with the Vikings. During the 2025 season, Mason rushed for 758 yards and six touchdowns on 159 carries. He contributed a small amount through the air, hauling in 14 of his 16 passes for 51 yards as well. Mason had a solid 4.77 YPC last season, and with Aaron Jones Sr. now 31 years old and the Vikings wanting to run more of a vertical wide-zone run scheme, Mason appears to be the preferred running back option to take in fantasy in what is projected to be a top-half offense. Mason finished last season as the RB35, aligning with RotoBallers' current ranks of RB35.",
+      "metadata": {
+        "description": "Minnesota Vikings 27-year-old running back Jordan Mason continues to generate positive reviews from training camp thus far, with reports that he has shown better conditioning and improved explosiveness, and that head coach Kevin O'Connell and offensive coordinator Wes Philips have both been speaking highly of his physical transformation and mindset as he enters his second season with the Vikings. During the 2025 season, Mason rushed for 758 yards and six touchdowns on 159 carries. He contributed a small amount through the air, hauling in 14 of his 16 passes for 51 yards as well. Mason had a solid 4.77 YPC last season, and with Aaron Jones Sr. now 31 years old and the Vikings wanting to run more of a vertical wide-zone run scheme, Mason appears to be the preferred running back option to take in fantasy in what is projected to be a top-half offense. Mason finished last season as the RB35, aligning with RotoBallers' current ranks of RB35.",
+        "title": "Jordan Mason Showcasing Improved Explosiveness in Training Camp",
+        "topic_id": "1400700884844810240",
+        "url": "https://www.rotoballer.com/player-news/jordan-mason-showcasing-improved-explosiveness-in-training-camp/1921607"
+      },
+      "nfl_team": "MIN",
+      "player_id": "8408",
+      "player_name": "Jordan Mason",
+      "position": "RB",
+      "published": 1788300846000,
+      "source": "rotoballer",
+      "source_key": "219901",
+      "story_id": "nfl|8408|rotoballer|219901|1788300846000",
+      "title": "Jordan Mason Showcasing Improved Explosiveness in Training Camp",
+      "url": "https://www.rotoballer.com/player-news/jordan-mason-showcasing-improved-explosiveness-in-training-camp/1921607"
     },
     {
       "analysis": "Pacheco will be sidelined for at least the first four games of the upcoming regular season, with his first opportunity to return coming ahead of a Week 5 contest against the Arizona Cardinals. Jacob Saylors will slide into the No. 2 running back role behind superstar Jahmyr Gibbs in the Lions backfield after an impressive preseason for the time being, with the Lions likely to add more depth to a shorthanded running backs room prior to the regular season.",
