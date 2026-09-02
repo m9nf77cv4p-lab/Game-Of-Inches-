@@ -2,12 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1701**
-- Newly captured: **1**
+- Stored stories: **1704**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — KC Concepcion** — KC Concepcion - Looking to build off strong camp (2026-09-02T23:15:35Z)
+- **NEW — Trey McBride** — Trey McBride - No. 1 TE on depth chart (2026-09-02T23:38:25Z)
+  - McBride emerged as a target hog in 2024, racking up 147 in 16 regular-season games en route to 111 catches and 1,146 yards but just two touchdowns. The end-zone woes finally came to a close last season, though, as he finished with a monster 126-1,239-11 line on 169 targets in 17 regular-season contests. The catch count set an NFL record for most by a tight end in a campaign, surpassing Zach Ertz's 116 from his 2018 season with the Eagles. McBride remains the top pass catcher for QB Jacoby Brissett and Arizona's offense, but he does have competition for looks from WRs Marvin Harrison and Michael Wilson.
+- **NEW — Isaiah Davis** — Isaiah Davis - Doesn't practice Wednesday (2026-09-02T23:36:45Z)
+  - Davis continues to recover from a knee injury that he sustained in a training camp practice in early August. He's been limited to side work and has yet to be cleared for team drills, and his practice participation next week will provide a better sense of whether he'll be available for the Jets' regular-season opener against the Titans on Sunday, Sept. 13. Breece Hall (groin) is also nursing an injury, leaving Braelon Allen and Kene Nwangwu as the two healthy running backs on the Jets' 53-man roster.
+- **NEW — J.K. Dobbins** — J.K. Dobbins - Ready for Week 1 (2026-09-02T23:28:56Z)
+  - Dobbins' practice participation in training camp was limited by a soft-tissue injury, which also caused the veteran running back to be held out of all three of the Broncos' preseason games out of caution. There's no indication that the issue is long-term, and Dobbins heads into Week 1 leading a backfield group that also consists of RJ Harvey, Tyler Badie and rookie fourth-rounder Jonah Coleman. Dobbins signed a two-year deal with the Broncos in March following his 2025 campaign with the Chargers, when he turned 153 carries into 772 yards (5.0 YPC) and four touchdowns while adding 11 catches (on 14 targets) for 37 yards across 10 regular-season games.
+- **KC Concepcion** — KC Concepcion - Looking to build off strong camp (2026-09-02T23:15:35Z)
   - "...Seeing that these coaches have trust built up in me to put me in different type of situations, I would say that it only makes me more excited for Week 1," Concepcion shared with reporters Wednesday. Concepcion's lone preseason appearance was against the Bears on Aug. 15, but he looked good in that game and finished with three catches (on four targets) for 27 yards while adding a 14-yard rushing touchdown and a 31-yard punt return. The Texas A&amp;M product was one of the standout players for the Browns in training camp, and the rookie first-rounder has enough trust from his coaching staff to be an immediate contributor on offense. Concepcion, fellow rookie Denzel Boston, veteran Jerry Jeudy, tight end Harold Fannin and running back Quinshon Judkins figure to be the key playmakers for the Browns this season, with Deshaun Watson manning the offense.
 - **Gunnar Helm** — Gunnar Helm - Ends preseason with one catch (2026-09-02T22:56:12Z)
   - Helm joined the rest of the healthy starters to kick off preseason Weeks 1 and 2, logging 26 offensive snaps between the two contests. He then was rested in Saturday's exhibition finale against the Bears along with QB Cam Ward and company. A fourth-round pick in the 2025 Draft, Helm hauled in 44 of 55 targets for 357 yards and two touchdowns in 16 regular-season games as a rookie, and he'll be looking to build upon those numbers in Year 2 under new offensive coordinator Brian Daboll.
@@ -208,10 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/dalton-kincaid-primed-for-bigger-role-in-2026-after-strong-camp/1921789
 - **Dallas Goedert** — Dallas Goedert Set for Another High-Volume Season in 2026 (2026-09-02T09:30:59Z)
   - Source: https://www.rotoballer.com/player-news/dallas-goedert-set-for-another-high-volume-season-in-2026/1921773
-- **George Kittle** — George Kittle Trending Towards Playing in Week 1 (2026-09-02T09:09:08Z)
-  - Source: https://www.rotoballer.com/player-news/george-kittle-trending-towards-playing-in-week-1/1921750
-- **Ollie Gordon** — Ollie Gordon II is Seeing His Fantasy Stock Rise (2026-09-02T00:14:07Z)
-  - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-is-seeing-his-fantasy-stock-rise/1921653
-- **Kyle Monangai** — Kyle Monangai (knee) remains week-to-week  (2026-09-02T00:05:25.623000Z)
-  - Monangai has been considered week-to-week for the past couple of weeks. It appears he won't be ready to go to begin the season, which should lead to a workhorse role for D'Andre Swift to open the year. 
-  - Source: https://www.fantasypros.com/nfl/news/605468/kyle-monangai-knee-remains-week-to-week.php
