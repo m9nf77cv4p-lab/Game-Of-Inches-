@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-02T02:21:27Z",
+  "last_checked_at": "2026-09-02T02:43:32Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|8408|rotoballer|219901|1788300846000"
+    "nfl|12493|rotoballer|219902|1788301452000"
   ],
   "schema_version": 1,
   "source": {
@@ -137,6 +137,26 @@
       "story_id": "nfl|4035|fantasy_pros|605442|1788301823722",
       "title": "Alvin Kamara (knee) misses practice Tuesday ",
       "url": "https://www.fantasypros.com/nfl/news/605442/alvin-kamara-knee-misses-practice-tuesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers tight end Oronde Gadsden impressed in 2025, finishing as the TE17 and hauling in 49 of his 69 targets for 664 yards (13.6 yards per catch) and three touchdowns. He was the most explosive tight end in football with a 131.3 explosive rating, and while he was very efficient and productive, his blocking limitations and the addition of David Njoku and Charlie Kolar are making it more difficult for him to find playing time or to increase his snap share. Additionally, in most of the Chargers' preseason games, Gadsden often played with the backups. Gadsden may be an explosive option in specific passing situations, but it's possible we'll see his 61.4 percent snap share, which was 28th in the NFL last season, continue to decline with the additional tight ends in the room. RotoBaller ranks Gadsden as the TE31 on the season, making him a clear fade in all one-tight-end formats.",
+      "metadata": {
+        "description": "Los Angeles Chargers tight end Oronde Gadsden impressed in 2025, finishing as the TE17 and hauling in 49 of his 69 targets for 664 yards (13.6 yards per catch) and three touchdowns. He was the most explosive tight end in football with a 131.3 explosive rating, and while he was very efficient and productive, his blocking limitations and the addition of David Njoku and Charlie Kolar are making it more difficult for him to find playing time or to increase his snap share. Additionally, in most of the Chargers' preseason games, Gadsden often played with the backups. Gadsden may be an explosive option in specific passing situations, but it's possible we'll see his 61.4 percent snap share, which was 28th in the NFL last season, continue to decline with the additional tight ends in the room. RotoBaller ranks Gadsden as the TE31 on the season, making him a clear fade in all one-tight-end formats.",
+        "title": "Oronde Gadsden Falling Down Draft Boards Due to Added Competition",
+        "topic_id": "1400703401146200064",
+        "url": "https://www.rotoballer.com/player-news/oronde-gadsden-falling-down-draft-boards-due-to-added-competition/1921612"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12493",
+      "player_name": "Oronde Gadsden",
+      "position": "TE",
+      "published": 1788301452000,
+      "source": "rotoballer",
+      "source_key": "219902",
+      "story_id": "nfl|12493|rotoballer|219902|1788301452000",
+      "title": "Oronde Gadsden Falling Down Draft Boards Due to Added Competition",
+      "url": "https://www.rotoballer.com/player-news/oronde-gadsden-falling-down-draft-boards-due-to-added-competition/1921612"
     },
     {
       "analysis": "Bell was cleared to return to full practice last week and ended up playing 14 offensive snaps in the Dolphins' preseason finale Friday, where he finished with two catches for 22 yards on five targets. After Miami traded Tutu Atwell to the Rams and dumped several other wideouts this past weekend, Bell is a candidate to see playing time out of the gates with the Dolphins, as he's competing with Malik Washington, Jalen Tolbert and fellow rookie Caleb Douglas for snaps at the position. Bell likely needs to improve his conditioning after a long rehab from ACL surgery.",

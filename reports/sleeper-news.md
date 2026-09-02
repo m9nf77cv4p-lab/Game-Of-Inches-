@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1590**
+- Stored stories: **1591**
 - Newly captured: **1**
 
 ## Latest news
@@ -24,9 +24,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Alvin Kamara** — Alvin Kamara (knee) misses practice Tuesday  (2026-09-01T22:30:23.722000Z)
   - It remains unclear when Kamara will be able to return. It is notable he wasn't placed on IR. 
   - Source: https://www.fantasypros.com/nfl/news/605442/alvin-kamara-knee-misses-practice-tuesday.php
+- **NEW — Oronde Gadsden** — Oronde Gadsden Falling Down Draft Boards Due to Added Competition (2026-09-01T22:24:12Z)
+  - Source: https://www.rotoballer.com/player-news/oronde-gadsden-falling-down-draft-boards-due-to-added-competition/1921612
 - **Chris Bell** — Chris Bell - Still working into football shape (2026-09-01T22:17:55Z)
   - Bell was cleared to return to full practice last week and ended up playing 14 offensive snaps in the Dolphins' preseason finale Friday, where he finished with two catches for 22 yards on five targets. After Miami traded Tutu Atwell to the Rams and dumped several other wideouts this past weekend, Bell is a candidate to see playing time out of the gates with the Dolphins, as he's competing with Malik Washington, Jalen Tolbert and fellow rookie Caleb Douglas for snaps at the position. Bell likely needs to improve his conditioning after a long rehab from ACL surgery.
-- **NEW — Jordan Mason** — Jordan Mason Showcasing Improved Explosiveness in Training Camp (2026-09-01T22:14:06Z)
+- **Jordan Mason** — Jordan Mason Showcasing Improved Explosiveness in Training Camp (2026-09-01T22:14:06Z)
   - Source: https://www.rotoballer.com/player-news/jordan-mason-showcasing-improved-explosiveness-in-training-camp/1921607
 - **Isiah Pacheco** — Isiah Pacheco (back/MCL) placed in injured reserve  (2026-09-01T20:30:22.994000Z)
   - Pacheco will be sidelined for at least the first four games of the upcoming regular season, with his first opportunity to return coming ahead of a Week 5 contest against the Arizona Cardinals. Jacob Saylors will slide into the No. 2 running back role behind superstar Jahmyr Gibbs in the Lions backfield after an impressive preseason for the time being, with the Lions likely to add more depth to a shorthanded running backs room prior to the regular season.
@@ -228,5 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-extension-talks-still-on-hold/1921193
 - **Josh Jacobs** — Packers Expect Josh Jacobs to Play This Season (2026-09-01T11:17:07Z)
   - Source: https://www.rotoballer.com/player-news/packers-expect-josh-jacobs-to-play-this-season/1921180
-- **Kaleb Johnson** — Packers High On New Acquisition Kaleb Johnson (2026-09-01T10:57:19Z)
-  - Source: https://www.rotoballer.com/player-news/packers-high-on-new-acquisition-kaleb-johnson/1921169
