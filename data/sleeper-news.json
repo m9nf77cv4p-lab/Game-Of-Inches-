@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-02T03:41:36Z",
+  "last_checked_at": "2026-09-02T03:52:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|13301|rotoballer|219906|1788305345000"
+    "nfl|4039|rotoballer|219907|1788305647000"
   ],
   "schema_version": 1,
   "source": {
@@ -54,6 +54,26 @@
       "story_id": "nfl|12519|fantasy_pros|605469|1788307525607",
       "title": "Luther Burden III (groin) practices Tuesday ",
       "url": "https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Cooper Kupp's fantasy appeal has been declining as the regular season gets closer. We already knew that Kupp was going to take a backseat to Jaxon Smith-Njigba again this year, but now he might also be losing ground to Rashid Shaheed. Seattle made an aggressive pursuit to re-sign Shaheed just months after trading for him, and they were successful. Now, Justin Melo of Sports Illustrated is saying that \"the sky is the limit\" for Shaheed in this Seahawks offense, potentially setting the stage for him to handle a weekly starter role while pushing Kupp further down the depth chart. We already saw Kupp start to lose his fantasy appeal in recent years; he has been WR38 or worse in each of his past three seasons, including WR53 last year. That trend should continue in 2026, and while he may be a fine dart throw in the last couple of rounds of a deeper-league fantasy draft, managers shouldn't get too attached, nor should they feel compelled to start him in any formats. As it stands, he has fallen all the way to WR85 in RotoBaller's latest redraft rankings.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Cooper Kupp's fantasy appeal has been declining as the regular season gets closer. We already knew that Kupp was going to take a backseat to Jaxon Smith-Njigba again this year, but now he might also be losing ground to Rashid Shaheed. Seattle made an aggressive pursuit to re-sign Shaheed just months after trading for him, and they were successful. Now, Justin Melo of Sports Illustrated is saying that \"the sky is the limit\" for Shaheed in this Seahawks offense, potentially setting the stage for him to handle a weekly starter role while pushing Kupp further down the depth chart. We already saw Kupp start to lose his fantasy appeal in recent years; he has been WR38 or worse in each of his past three seasons, including WR53 last year. That trend should continue in 2026, and while he may be a fine dart throw in the last couple of rounds of a deeper-league fantasy draft, managers shouldn't get too attached, nor should they feel compelled to start him in any formats. As it stands, he has fallen all the way to WR85 in RotoBaller's latest redraft rankings.",
+        "title": "Cooper Kupp Falling Off Draft Boards in Fantasy Football",
+        "topic_id": "1400722277485563904",
+        "url": "https://www.rotoballer.com/player-news/cooper-kupp-falling-off-draft-boards-in-fantasy-football/1921643"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4039",
+      "player_name": "Cooper Kupp",
+      "position": "WR",
+      "published": 1788305647000,
+      "source": "rotoballer",
+      "source_key": "219907",
+      "story_id": "nfl|4039|rotoballer|219907|1788305647000",
+      "title": "Cooper Kupp Falling Off Draft Boards in Fantasy Football",
+      "url": "https://www.rotoballer.com/player-news/cooper-kupp-falling-off-draft-boards-in-fantasy-football/1921643"
     },
     {
       "analysis": null,

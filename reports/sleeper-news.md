@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1595**
+- Stored stories: **1596**
 - Newly captured: **1**
 
 ## Latest news
@@ -13,7 +13,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Luther Burden** — Luther Burden III (groin) practices Tuesday  (2026-09-02T00:05:25.607000Z)
   - Burden had returned to practice last week. He is on track to be good to go for the start of the season next week. 
   - Source: https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php
-- **NEW — Antonio Williams** — Antonio Williams' Outlook Negatively Impacted by Offseason Moves (2026-09-01T23:29:05Z)
+- **NEW — Cooper Kupp** — Cooper Kupp Falling Off Draft Boards in Fantasy Football (2026-09-01T23:34:07Z)
+  - Source: https://www.rotoballer.com/player-news/cooper-kupp-falling-off-draft-boards-in-fantasy-football/1921643
+- **Antonio Williams** — Antonio Williams' Outlook Negatively Impacted by Offseason Moves (2026-09-01T23:29:05Z)
   - Source: https://www.rotoballer.com/player-news/antonio-williams-outlook-negatively-impacted-by-offseason-moves/1921641
 - **Travis Hunter** — Travis Hunter Continues to be Utilized on Both Sides of the Ball (2026-09-01T22:59:10Z)
   - Source: https://www.rotoballer.com/player-news/travis-hunter-continues-to-be-utilized-on-both-sides-of-the-ball/1921631
@@ -228,5 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kyren-williams-in-a-timeshare-in-rams-backfield/1921262
 - **Alec Pierce** — Alec Pierce Practicing with the Colts on Tuesday (2026-09-01T13:27:10Z)
   - Source: https://www.rotoballer.com/player-news/alec-pierce-practicing-with-the-colts-on-tuesday/1921258
-- **Zay Flowers** — Zay Flowers - Set to fully practice next week (2026-09-01T13:17:32Z)
-  - Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout missed some practices last week as well, though the Ravens haven't indicated whether that was related to the prior quad issue. Whatever the case, Flowers' injury or injuries never seemed to be a major concern. He should be ready to handle a high-volume role in the Baltimore passing attack in Week 1.
