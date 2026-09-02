@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-02T22:10:09Z",
+  "last_checked_at": "2026-09-02T22:25:43Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|6801|rotowire|636032|1788386524000"
+    "nfl|4881|rotoballer|219969|1788373209000",
+    "nfl|7564|rotowire|636033|1788387132000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Coach Zac Taylor told Ben Baby of ESPN.com on Tuesday that Chase would be limited this week, but he \"feels good about\" the wide receiver after he hyperextended his left knee while attempting to gather in a deep ball at practice early last week. Just one day later, though, Chase didn't mix into any drills, and fellow WR Tee Higgins joined him on the sideline due to his own heel injury. The statuses of the Bengals' top options at the position thus are up in the air as Week 1 approaches.",
+      "description": "Chase (knee) was present at Wednesday's practice but not suited up, Gabi Sorrentino of Fox 19 Cincinnati reports.",
+      "metadata": {
+        "analysis": "Coach Zac Taylor told Ben Baby of ESPN.com on Tuesday that Chase would be limited this week, but he \"feels good about\" the wide receiver after he hyperextended his left knee while attempting to gather in a deep ball at practice early last week. Just one day later, though, Chase didn't mix into any drills, and fellow WR Tee Higgins joined him on the sideline due to his own heel injury. The statuses of the Bengals' top options at the position thus are up in the air as Week 1 approaches.",
+        "description": "Chase (knee) was present at Wednesday's practice but not suited up, Gabi Sorrentino of Fox 19 Cincinnati reports.",
+        "title": "Ja'Marr Chase - Doesn't practice Wednesday",
+        "topic_id": "1401001658393059328"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1788387132000,
+      "source": "rotowire",
+      "source_key": "636033",
+      "story_id": "nfl|7564|rotowire|636033|1788387132000",
+      "title": "Ja'Marr Chase - Doesn't practice Wednesday",
+      "url": null
+    },
     {
       "analysis": "On Tuesday, coach Zac Taylor relayed to Baby that Higgins was dealing with a bruised heel, but the issue wasn't a major concern. Having said that, Higgins didn't log any activity one day later, so his status, along with fellow DNP WR Ja'Marr Chase (knee), will be monitored closely as Week 1 inches closer. The Bengals take on the Buccaneers on Sunday, Sept. 13, meaning Higgins' first official practice reps of the campaign will be possible next Wednesday.",
       "description": "Higgins (heel) didn't take part in practice Wednesday, Ben Baby of ESPN.com reports.",
@@ -318,6 +339,26 @@
       "story_id": "nfl|12526|rotowire|636022|1788373220000",
       "title": "Tetairoa McMillan - In line for more slot work in 2026",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens general manager Eric DeCosta said on Wednesday that he is \"optimistic\" about reaching a contract extension with quarterback Lamar Jackson, according to Jeff Zrebiec of The Athletic. \"We would love to get a deal done as soon as possible,\" DeCosta said. The 29-year-old signed a five-year, $260 million extension with Baltimore in April of 2023, but with an $84.3 million salary-cap number for 2027, the Ravens want to get an extension done with the star QB so that they can spread that cap hit out over multiple seasons. The four-time Pro Bowler and two-time MVP battled nagging injuries for much of last year, which led to a disappointing 2025 campaign in which he threw for only 2,549 yards, 21 touchdowns, and seven interceptions in a career-low 13 starts. Jackson also ran the ball a career-low 67 times for 349 yards and two touchdowns. With better health, Jackson should rebound as an elite, high-end QB1 for fantasy purposes because of his dual-threat abilities at the position.",
+      "metadata": {
+        "description": "Baltimore Ravens general manager Eric DeCosta said on Wednesday that he is \"optimistic\" about reaching a contract extension with quarterback Lamar Jackson, according to Jeff Zrebiec of The Athletic. \"We would love to get a deal done as soon as possible,\" DeCosta said. The 29-year-old signed a five-year, $260 million extension with Baltimore in April of 2023, but with an $84.3 million salary-cap number for 2027, the Ravens want to get an extension done with the star QB so that they can spread that cap hit out over multiple seasons. The four-time Pro Bowler and two-time MVP battled nagging injuries for much of last year, which led to a disappointing 2025 campaign in which he threw for only 2,549 yards, 21 touchdowns, and seven interceptions in a career-low 13 starts. Jackson also ran the ball a career-low 67 times for 349 yards and two touchdowns. With better health, Jackson should rebound as an elite, high-end QB1 for fantasy purposes because of his dual-threat abilities at the position.",
+        "title": "Ravens \"Optimistic\" About Reaching Extension With Lamar Jackson",
+        "topic_id": "1401004173293580288",
+        "url": "https://www.rotoballer.com/player-news/ravens-optimistic-about-reaching-extension-with-lamar-jackson/1922155"
+      },
+      "nfl_team": "BAL",
+      "player_id": "4881",
+      "player_name": "Lamar Jackson",
+      "position": "QB",
+      "published": 1788373209000,
+      "source": "rotoballer",
+      "source_key": "219969",
+      "story_id": "nfl|4881|rotoballer|219969|1788373209000",
+      "title": "Ravens \"Optimistic\" About Reaching Extension With Lamar Jackson",
+      "url": "https://www.rotoballer.com/player-news/ravens-optimistic-about-reaching-extension-with-lamar-jackson/1922155"
     },
     {
       "analysis": "After surpassing the 1,000-yard receiving threshold just one time in his first three seasons with the Steelers, Pickens broke out with a 93-1,429-9 line on 137 targets in 17 regular-season games in 2025 in his first campaign as a Cowboy. He was helped by the fact fellow WR CeeDee Lamb missed three contests due to injury, but Pickens still exhibited a tremendous rapport with QB Dak Prescott. Dallas extended the franchise tag to Pickens this offseason, and he signed it in April without reaching an extension before the deadline in mid-July, meaning he again will be in the midst of a contract year in 2026.",

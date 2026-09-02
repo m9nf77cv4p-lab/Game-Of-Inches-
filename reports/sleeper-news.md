@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1693**
-- Newly captured: **1**
+- Stored stories: **1695**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Tee Higgins** — Tee Higgins - No practice Wednesday (2026-09-02T22:02:04Z)
+- **NEW — Ja'Marr Chase** — Ja'Marr Chase - Doesn't practice Wednesday (2026-09-02T22:12:12Z)
+  - Coach Zac Taylor told Ben Baby of ESPN.com on Tuesday that Chase would be limited this week, but he "feels good about" the wide receiver after he hyperextended his left knee while attempting to gather in a deep ball at practice early last week. Just one day later, though, Chase didn't mix into any drills, and fellow WR Tee Higgins joined him on the sideline due to his own heel injury. The statuses of the Bengals' top options at the position thus are up in the air as Week 1 approaches.
+- **Tee Higgins** — Tee Higgins - No practice Wednesday (2026-09-02T22:02:04Z)
   - On Tuesday, coach Zac Taylor relayed to Baby that Higgins was dealing with a bruised heel, but the issue wasn't a major concern. Having said that, Higgins didn't log any activity one day later, so his status, along with fellow DNP WR Ja'Marr Chase (knee), will be monitored closely as Week 1 inches closer. The Bengals take on the Buccaneers on Sunday, Sept. 13, meaning Higgins' first official practice reps of the campaign will be possible next Wednesday.
 - **Brian Thomas** — Brian Thomas Jr. (shoulder) practicing in full (2026-09-02T21:05:34.638000Z)
   - Thomas has been limited by a shoulder injury recently, but he was back to full practice activity on Tuesday. The third-year wideout should be good to go for Week 1. 
@@ -43,6 +45,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - In particular, Brown cited the scheme's efficiency while running the ball under center and also how much he's been lining up in the slot in the passing game during training camp. After earning just 58 touches as a fifth-round rookie in 2023, his usage increased to 283 touches in 2024 and 301 touches last season. In 17 regular-games in 2025, he matched or set career highs across the board, tallying 1,456 yards from scrimmage and 11 total TDs. Considering Brown was one of seven RBs with at least 50 receptions last year (69, to be exact), his stature in fantasy has never been higher.
 - **Tetairoa McMillan** — Tetairoa McMillan - In line for more slot work in 2026 (2026-09-02T18:20:20Z)
   - If preseason usage means anything, it would seem Canales was putting the plan into action this summer. After playing just 15.3 percent of his regular-season offensive snaps out of the slot as a rookie, McMillan was in the slot on nine of 22 snaps (40.9 percent) across two preseason games. Moving to the slot more would give the 6-foot-5 McMillan significant size and speed advantages inside and allow for more easy "layup" style catches to get the ball in his hands quicker. The 2025 Offensive Rookie of the Year figures to be the center of Carolina's offense this season after posting 70 catches for 1,014 yards and seven scores across 17 regular-season contests last season.
+- **NEW — Lamar Jackson** — Ravens "Optimistic" About Reaching Extension With Lamar Jackson (2026-09-02T18:20:09Z)
+  - Source: https://www.rotoballer.com/player-news/ravens-optimistic-about-reaching-extension-with-lamar-jackson/1922155
 - **George Pickens** — George Pickens - No action during preseason (2026-09-02T18:18:17Z)
   - After surpassing the 1,000-yard receiving threshold just one time in his first three seasons with the Steelers, Pickens broke out with a 93-1,429-9 line on 137 targets in 17 regular-season games in 2025 in his first campaign as a Cowboy. He was helped by the fact fellow WR CeeDee Lamb missed three contests due to injury, but Pickens still exhibited a tremendous rapport with QB Dak Prescott. Dallas extended the franchise tag to Pickens this offseason, and he signed it in April without reaching an extension before the deadline in mid-July, meaning he again will be in the midst of a contract year in 2026.
 - **Justin Jefferson** — Justin Jefferson - Makes impressive grabs in last camp practice (2026-09-02T18:12:42Z)
@@ -212,8 +216,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/travis-hunter-continues-to-be-utilized-on-both-sides-of-the-ball/1921631
 - **Saquon Barkley** — Saquon Barkley Has Looked Sharp in New Eagles Offensive Scheme (2026-09-01T22:47:12Z)
   - Source: https://www.rotoballer.com/player-news/saquon-barkley-has-looked-sharp-in-the-new-eagles-offensive-scheme/1921627
-- **Ashton Jeanty** — Ashton Jeanty (ankle) receives positive update  (2026-09-01T22:40:24.185000Z)
-  - "I expect him to be back as quick he can, maybe quicker than some people would expect," Spytek said. "When that is, we'll see." Jeanty did not practice on Tuesday. The fact that he wasn't placed on IR is a positive sign. He could be back as soon as Week 1. 
-  - Source: https://www.fantasypros.com/nfl/news/605446/ashton-jeanty-ankle-receives-positive-update.php
-- **Chase Brown** — Chase Brown Expanding His Role, a Bonafide RB1 For Fantasy Football (2026-09-01T22:36:07Z)
-  - Source: https://www.rotoballer.com/player-news/chase-brown-expanding-his-role-bonafide-rb1-for-fantasy-football/1921621
