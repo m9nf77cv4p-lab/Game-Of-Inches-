@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-02T22:50:43Z",
+  "last_checked_at": "2026-09-02T23:01:01Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|10232|rotowire|636034|1788388738000",
-    "nfl|11628|rotowire|636035|1788389342000",
-    "nfl|7564|rotoballer|219971|1788374645000"
+    "nfl|12502|rotowire|636036|1788389772000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Helm joined the rest of the healthy starters to kick off preseason Weeks 1 and 2, logging 26 offensive snaps between the two contests. He then was rested in Saturday's exhibition finale against the Bears along with QB Cam Ward and company. A fourth-round pick in the 2025 Draft, Helm hauled in 44 of 55 targets for 357 yards and two touchdowns in 16 regular-season games as a rookie, and he'll be looking to build upon those numbers in Year 2 under new offensive coordinator Brian Daboll.",
+      "description": "Helm finished the preseason slate with one catch (on two targets) for 16 yards in two appearances.",
+      "metadata": {
+        "analysis": "Helm joined the rest of the healthy starters to kick off preseason Weeks 1 and 2, logging 26 offensive snaps between the two contests. He then was rested in Saturday's exhibition finale against the Bears along with QB Cam Ward and company. A fourth-round pick in the 2025 Draft, Helm hauled in 44 of 55 targets for 357 yards and two touchdowns in 16 regular-season games as a rookie, and he'll be looking to build upon those numbers in Year 2 under new offensive coordinator Brian Daboll.",
+        "description": "Helm finished the preseason slate with one catch (on two targets) for 16 yards in two appearances.",
+        "title": "Gunnar Helm - Ends preseason with one catch",
+        "topic_id": "1401012983714340864"
+      },
+      "nfl_team": "TEN",
+      "player_id": "12502",
+      "player_name": "Gunnar Helm",
+      "position": "TE",
+      "published": 1788389772000,
+      "source": "rotowire",
+      "source_key": "636036",
+      "story_id": "nfl|12502|rotowire|636036|1788389772000",
+      "title": "Gunnar Helm - Ends preseason with one catch",
+      "url": null
+    },
     {
       "analysis": "This comes as no surprise considering Harrison's standing as the fourth overall pick in the 2024 Draft and his average of 6.5 targets per game through two seasons in the NFL. However, he has yet to take off, even with QB Jacoby Brissett under center for most of the 2025 campaign, as heel and foot injuries contained him to only three appearances in the final eight contests. Harrison has had a clean bill of health since late July, and with a full training camp working with Brissett and fellow WR Michael Wilson, the trio is set to hit the ground running Week 1 under new coach Mike LaFleur.",
       "description": "Harrison is listed as a starter on the Cardinals' unofficial depth chart.",
