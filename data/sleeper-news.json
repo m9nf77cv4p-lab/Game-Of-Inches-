@@ -1,12 +1,12 @@
 {
-  "last_checked_at": "2026-09-02T20:28:13Z",
+  "last_checked_at": "2026-09-02T20:42:54Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11583|fantasy_pros|605655|1788380733950",
-    "nfl|2216|fantasy_pros|605650|1788380134257",
-    "nfl|4035|rotoballer|219957|1788365948000",
-    "nfl|8134|fantasy_pros|605648|1788380134271"
+    "nfl|11625|rotoballer|219959|1788366548000",
+    "nfl|12534|rotowire|636030|1788381443000",
+    "nfl|6813|rotowire|636028|1788380853000",
+    "nfl|8134|rotowire|636029|1788381278000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +16,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Since hyperextending his right knee in practice Aug. 16, Monangai has been described as \"week-to-week\" on multiple occasions by coach Ben Johnson, including as recently as Tuesday, according to Chris Emma of 670TheScore.com. Swift's view of Monangai one day later likely means the latter ran on the side versus in any drills, but it's at least the first positive sign that he's making progress in his recovery. If Monangai ends up being limited or even sidelined to begin the season, Swift likely would be a bellcow in the Bears offense, with Roschon Johnson on hand for any RB reps that linger.",
+      "description": "Fellow RB D'Andre Swift said Monangai (knee) \"looked good\" while running Wednesday, Adam Hoge of AllCHGO.com reports.",
+      "metadata": {
+        "analysis": "Since hyperextending his right knee in practice Aug. 16, Monangai has been described as \"week-to-week\" on multiple occasions by coach Ben Johnson, including as recently as Tuesday, according to Chris Emma of 670TheScore.com. Swift's view of Monangai one day later likely means the latter ran on the side versus in any drills, but it's at least the first positive sign that he's making progress in his recovery. If Monangai ends up being limited or even sidelined to begin the season, Swift likely would be a bellcow in the Bears offense, with Roschon Johnson on hand for any RB reps that linger.",
+        "description": "Fellow RB D'Andre Swift said Monangai (knee) \"looked good\" while running Wednesday, Adam Hoge of AllCHGO.com reports.",
+        "title": "Kyle Monangai - Resumes running",
+        "topic_id": "1400977747286716416"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12534",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "published": 1788381443000,
+      "source": "rotowire",
+      "source_key": "636030",
+      "story_id": "nfl|12534|rotowire|636030|1788381443000",
+      "title": "Kyle Monangai - Resumes running",
+      "url": null
+    },
+    {
+      "analysis": "Since making an appearance preseason Week 1 on Aug. 15, Shakir has been sidelined due to an undisclosed injury, including no activity at Tuesday's practice. The Bills will post their first Week 1 injury report next Wednesday, and how he's listed then will provide a sense for his status ahead of the regular-season opener.",
+      "description": "Per Matt Zenitz of CBSSports.com, \"there's currently optimism\" that Shakir (undisclosed) will be available Week 1 against the Texans on Sunday, Sept. 13",
+      "metadata": {
+        "analysis": "Since making an appearance preseason Week 1 on Aug. 15, Shakir has been sidelined due to an undisclosed injury, including no activity at Tuesday's practice. The Bills will post their first Week 1 injury report next Wednesday, and how he's listed then will provide a sense for his status ahead of the regular-season opener.",
+        "description": "Per Matt Zenitz of CBSSports.com, \"there's currently optimism\" that Shakir (undisclosed) will be available Week 1 against the Texans on Sunday, Sept. 13",
+        "title": "Khalil Shakir - Optimism regarding Week 1",
+        "topic_id": "1400977747286716417"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8134",
+      "player_name": "Khalil Shakir",
+      "position": "WR",
+      "published": 1788381278000,
+      "source": "rotowire",
+      "source_key": "636029",
+      "story_id": "nfl|8134|rotowire|636029|1788381278000",
+      "title": "Khalil Shakir - Optimism regarding Week 1",
+      "url": null
+    },
+    {
+      "analysis": "Prior to the game, head coach Shane Steichen said that he planned on having all of the team's offensive starters minus Taylor and quarterback Daniel Jones take the field for 8-to-12 snaps, per JJ Stankevicz of the Colts' official site. Taylor didn't play in the prior two preseason contests either, as the Colts didn't want to risk an injury to their lead back in advance of the regular season. After missing at least three games every season from 2022 through 2024, the 27-year-old played a full 17-game slate in 2025, playing north of 70 percent of the offensive snaps in all but one of those contests while accounting for 20 touchdowns, amassing 1,585 yards on the ground and setting career highs with 46 receptions and 378 receiving yards. He'll be primed for another hefty workload in 2026, and the Colts are hopeful that Jones' return from a torn ACL can help Taylor avoid the decline in efficiency that he experienced after the Colts' Week 11 bye last season (3.3 yards per carry in final seven games).",
+      "description": "Taylor was rested for the Colts' 25-16 loss to the Lions in Saturday's preseason finale.",
+      "metadata": {
+        "analysis": "Prior to the game, head coach Shane Steichen said that he planned on having all of the team's offensive starters minus Taylor and quarterback Daniel Jones take the field for 8-to-12 snaps, per JJ Stankevicz of the Colts' official site. Taylor didn't play in the prior two preseason contests either, as the Colts didn't want to risk an injury to their lead back in advance of the regular season. After missing at least three games every season from 2022 through 2024, the 27-year-old played a full 17-game slate in 2025, playing north of 70 percent of the offensive snaps in all but one of those contests while accounting for 20 touchdowns, amassing 1,585 yards on the ground and setting career highs with 46 receptions and 378 receiving yards. He'll be primed for another hefty workload in 2026, and the Colts are hopeful that Jones' return from a torn ACL can help Taylor avoid the decline in efficiency that he experienced after the Colts' Week 11 bye last season (3.3 yards per carry in final seven games).",
+        "description": "Taylor was rested for the Colts' 25-16 loss to the Lions in Saturday's preseason finale.",
+        "title": "Jonathan Taylor - Held out of preseason finale",
+        "topic_id": "1400975229513179136"
+      },
+      "nfl_team": "IND",
+      "player_id": "6813",
+      "player_name": "Jonathan Taylor",
+      "position": "RB",
+      "published": 1788380853000,
+      "source": "rotowire",
+      "source_key": "636028",
+      "story_id": "nfl|6813|rotowire|636028|1788380853000",
+      "title": "Jonathan Taylor - Held out of preseason finale",
+      "url": null
+    },
     {
       "analysis": "Brooks was absent from practice on Tuesday as he deals with some soreness. His status will need to be monitored in practice next week heading into the season opener. ",
       "description": "Panthers coach Dave Canales said he is \"very optimistic\" Jonathon Brooks will play in Week 1 against the Bears.",
@@ -400,6 +460,26 @@
       "story_id": "nfl|1166|rotowire|636012|1788367277000",
       "title": "Kirk Cousins - Named starting quarterback",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets wide receiver Adonai Mitchell is entering his first full season in New York after being acquired by the Jets from the Indianapolis Colts at the 2025 trade deadline. While Mitchell struggled to carve out a regular role during his time in Indy, he averaged over seven targets per game with the Jets last season and finished the year with 24 catches for 301 yards and two touchdowns across eight contests. All of Mitchell's games with New York last season came with star Jets wideout Garrett Wilson sidelined by a knee injury, so the return of Wilson in 2026 could hurt Mitchell's target volume. New York also used two first-round picks in the 2026 draft on pass-catchers in wide receiver Omar Cooper Jr. and tight end Kenyon Sadiq (hernia). Still, Mitchell drew rave reviews for his work in training camp and his chemistry with new Jets quarterback Geno Smith, and he appears set to open the year as the WR2 in New York. As a talented wide receiver with clear playing time opportunity, Mitchell profiles as a late-round sleeper target for fantasy managers.",
+      "metadata": {
+        "description": "New York Jets wide receiver Adonai Mitchell is entering his first full season in New York after being acquired by the Jets from the Indianapolis Colts at the 2025 trade deadline. While Mitchell struggled to carve out a regular role during his time in Indy, he averaged over seven targets per game with the Jets last season and finished the year with 24 catches for 301 yards and two touchdowns across eight contests. All of Mitchell's games with New York last season came with star Jets wideout Garrett Wilson sidelined by a knee injury, so the return of Wilson in 2026 could hurt Mitchell's target volume. New York also used two first-round picks in the 2026 draft on pass-catchers in wide receiver Omar Cooper Jr. and tight end Kenyon Sadiq (hernia). Still, Mitchell drew rave reviews for his work in training camp and his chemistry with new Jets quarterback Geno Smith, and he appears set to open the year as the WR2 in New York. As a talented wide receiver with clear playing time opportunity, Mitchell profiles as a late-round sleeper target for fantasy managers.",
+        "title": "Adonai Mitchell's Stock Rising Following Standout Summer",
+        "topic_id": "1400976486315335680",
+        "url": "https://www.rotoballer.com/player-news/adonai-mitchells-stock-rising-following-standout-summer/1922084"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "11625",
+      "player_name": "Adonai Mitchell",
+      "position": "WR",
+      "published": 1788366548000,
+      "source": "rotoballer",
+      "source_key": "219959",
+      "story_id": "nfl|11625|rotoballer|219959|1788366548000",
+      "title": "Adonai Mitchell's Stock Rising Following Standout Summer",
+      "url": "https://www.rotoballer.com/player-news/adonai-mitchells-stock-rising-following-standout-summer/1922084"
     },
     {
       "analysis": null,
