@@ -1,12 +1,13 @@
 {
-  "last_checked_at": "2026-09-02T20:42:54Z",
+  "last_checked_at": "2026-09-02T21:06:49Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11625|rotoballer|219959|1788366548000",
-    "nfl|12534|rotowire|636030|1788381443000",
-    "nfl|6813|rotowire|636028|1788380853000",
-    "nfl|8134|rotowire|636029|1788381278000"
+    "nfl|11603|rotoballer|219961|1788367869000",
+    "nfl|11631|fantasy_pros|605657|1788383134638",
+    "nfl|12474|rotoballer|219962|1788368286000",
+    "nfl|5947|fantasy_pros|605658|1788383134624",
+    "nfl|9509|rotowire|636031|1788382746000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +17,68 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Thomas has been limited by a shoulder injury recently, but he was back to full practice activity on Tuesday. The third-year wideout should be good to go for Week 1. ",
+      "description": "Brian Thomas Jr. (shoulder) has been practicing in full this week. ",
+      "metadata": {
+        "analysis": "Thomas has been limited by a shoulder injury recently, but he was back to full practice activity on Tuesday. The third-year wideout should be good to go for Week 1. ",
+        "description": "Brian Thomas Jr. (shoulder) has been practicing in full this week. ",
+        "title": "Brian Thomas Jr. (shoulder) practicing in full",
+        "topic_id": "1400984044904144896",
+        "url": "https://www.fantasypros.com/nfl/news/605657/brian-thomas-jr-shoulder-practicing-full.php"
+      },
+      "nfl_team": "JAX",
+      "player_id": "11631",
+      "player_name": "Brian Thomas",
+      "position": "WR",
+      "published": 1788383134638,
+      "source": "fantasy_pros",
+      "source_key": "605657",
+      "story_id": "nfl|11631|fantasy_pros|605657|1788383134638",
+      "title": "Brian Thomas Jr. (shoulder) practicing in full",
+      "url": "https://www.fantasypros.com/nfl/news/605657/brian-thomas-jr-shoulder-practicing-full.php"
+    },
+    {
+      "analysis": "Meyers is \"all good,\" according to head coach Liam Coen. The veteran receiver has been practicing in a limited capacity this week and is not a concern for Week 1. ",
+      "description": "Jakobi Meyers (hand) got in a limited practice session on Wednesday. ",
+      "metadata": {
+        "analysis": "Meyers is \"all good,\" according to head coach Liam Coen. The veteran receiver has been practicing in a limited capacity this week and is not a concern for Week 1. ",
+        "description": "Jakobi Meyers (hand) got in a limited practice session on Wednesday. ",
+        "title": "Jakobi Meyers (hand) gets in limited practice Wednesday",
+        "topic_id": "1400984044849618944",
+        "url": "https://www.fantasypros.com/nfl/news/605658/jakobi-meyers-hand-gets-limited-practice-wednesday.php"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1788383134624,
+      "source": "fantasy_pros",
+      "source_key": "605658",
+      "story_id": "nfl|5947|fantasy_pros|605658|1788383134624",
+      "title": "Jakobi Meyers (hand) gets in limited practice Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/605658/jakobi-meyers-hand-gets-limited-practice-wednesday.php"
+    },
+    {
+      "analysis": "Robinson led the NFL with 2,298 scrimmage yards in 2025, with the 24-year-old doing much of his damage on outside runs in former offensive coordinator Zac Robinson's wide-zone running scheme. While the Falcons won't completely abandon those zone concepts during the upcoming season, the new coaching staff plans to implement more gap and power-style run plays that they believe will still allow Robinson to maintain effectiveness and put his explosiveness in the open field on display. Rees and head coach Kevin Stefanski also plan to keep Robinson heavily involved in the screen game, after he led all running backs with 20 receptions on screens last season. While working with a less talented Browns running-back room in 2025, Stefanski and Rees helped Cleveland generate 413 yards on screen plays, second-most in the NFL.",
+      "description": "Robinson said Thursday that he's noticed an emphasis from the Falcons' new coaching staff in scheming up ways to create open up running room and help him reach the second level more quickly, Will McFadden of the team's official site reports. \"We have a lot of different variations,\" Robinson said. \"But, for me, it's to create space for yourself. [Offensive coordinator Tommy Rees] does a really good job of being intentional in trying to get us to the second level as fast as possible because when we get to the second level, I feel like that's where we're super dangerous as runners.\"",
+      "metadata": {
+        "analysis": "Robinson led the NFL with 2,298 scrimmage yards in 2025, with the 24-year-old doing much of his damage on outside runs in former offensive coordinator Zac Robinson's wide-zone running scheme. While the Falcons won't completely abandon those zone concepts during the upcoming season, the new coaching staff plans to implement more gap and power-style run plays that they believe will still allow Robinson to maintain effectiveness and put his explosiveness in the open field on display. Rees and head coach Kevin Stefanski also plan to keep Robinson heavily involved in the screen game, after he led all running backs with 20 receptions on screens last season. While working with a less talented Browns running-back room in 2025, Stefanski and Rees helped Cleveland generate 413 yards on screen plays, second-most in the NFL.",
+        "description": "Robinson said Thursday that he's noticed an emphasis from the Falcons' new coaching staff in scheming up ways to create open up running room and help him reach the second level more quickly, Will McFadden of the team's official site reports. \"We have a lot of different variations,\" Robinson said. \"But, for me, it's to create space for yourself. [Offensive coordinator Tommy Rees] does a really good job of being intentional in trying to get us to the second level as fast as possible because when we get to the second level, I feel like that's where we're super dangerous as runners.\"",
+        "title": "Bijan Robinson - Expecting more open running room in 2026",
+        "topic_id": "1400982781386850304"
+      },
+      "nfl_team": "ATL",
+      "player_id": "9509",
+      "player_name": "Bijan Robinson",
+      "position": "RB",
+      "published": 1788382746000,
+      "source": "rotowire",
+      "source_key": "636031",
+      "story_id": "nfl|9509|rotowire|636031|1788382746000",
+      "title": "Bijan Robinson - Expecting more open running room in 2026",
+      "url": null
+    },
     {
       "analysis": "Since hyperextending his right knee in practice Aug. 16, Monangai has been described as \"week-to-week\" on multiple occasions by coach Ben Johnson, including as recently as Tuesday, according to Chris Emma of 670TheScore.com. Swift's view of Monangai one day later likely means the latter ran on the side versus in any drills, but it's at least the first positive sign that he's making progress in his recovery. If Monangai ends up being limited or even sidelined to begin the season, Swift likely would be a bellcow in the Bears offense, with Roschon Johnson on hand for any RB reps that linger.",
       "description": "Fellow RB D'Andre Swift said Monangai (knee) \"looked good\" while running Wednesday, Adam Hoge of AllCHGO.com reports.",
@@ -182,10 +245,10 @@
     },
     {
       "analysis": "Evans has barely practiced this summer due to various nagging injuries, but his return to the field Wednesday gives him some time to get ready for next Thursday's season opener against the Rams in Australia. The Niners are flying out Wednesday to get their body clocks acclimated to the time change. As long as Evans avoids setbacks over the next week, he should be available against Los Angeles, though it's fair to wonder how much chemistry he's built with Brock Purdy at this point.",
-      "description": "Evans (groin) returned to Wednesday, Nick Wagoner of ESPN.com reports.",
+      "description": "Evans (groin) returned to practice Wednesday, Nick Wagoner of ESPN.com reports.",
       "metadata": {
         "analysis": "Evans has barely practiced this summer due to various nagging injuries, but his return to the field Wednesday gives him some time to get ready for next Thursday's season opener against the Rams in Australia. The Niners are flying out Wednesday to get their body clocks acclimated to the time change. As long as Evans avoids setbacks over the next week, he should be available against Los Angeles, though it's fair to wonder how much chemistry he's built with Brock Purdy at this point.",
-        "description": "Evans (groin) returned to Wednesday, Nick Wagoner of ESPN.com reports.",
+        "description": "Evans (groin) returned to practice Wednesday, Nick Wagoner of ESPN.com reports.",
         "title": "Mike Evans - Returns to practice Wednesday",
         "topic_id": "1400952577419456512"
       },
@@ -361,6 +424,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "A fourth-round pick in the 2025 NFL Draft, Houston Texans running back Woody Marks worked his way into the RB1 role in Houston midway through his rookie season and finished the year with 911 scrimmage yards and five touchdowns on 220 touches across 16 games. However, Houston made a big addition to its running back room over the offseason by acquiring veteran back David Montgomery from the Detroit Lions. While Montgomery is now entering his age-29 season, he averaged 4.5 yards per attempt on 158 carries with Detroit last year and is reportedly expected to play a sizable role in the Texans' offense. Montgomery is also a proven weapon as a short-yardage and goal-line back, which could limit Marks' opportunities to score touchdowns. Marks remains an intriguing fantasy piece at the right price for his handcuff appeal and his pass-catching upside, but his redraft stock is falling ahead of 2026.",
+      "metadata": {
+        "description": "A fourth-round pick in the 2025 NFL Draft, Houston Texans running back Woody Marks worked his way into the RB1 role in Houston midway through his rookie season and finished the year with 911 scrimmage yards and five touchdowns on 220 touches across 16 games. However, Houston made a big addition to its running back room over the offseason by acquiring veteran back David Montgomery from the Detroit Lions. While Montgomery is now entering his age-29 season, he averaged 4.5 yards per attempt on 158 carries with Detroit last year and is reportedly expected to play a sizable role in the Texans' offense. Montgomery is also a proven weapon as a short-yardage and goal-line back, which could limit Marks' opportunities to score touchdowns. Marks remains an intriguing fantasy piece at the right price for his handcuff appeal and his pass-catching upside, but his redraft stock is falling ahead of 2026.",
+        "title": "Woody Marks' Production Upside Could Be Limited in Houston",
+        "topic_id": "1400984037824196608",
+        "url": "https://www.rotoballer.com/player-news/woody-marks-production-upside-could-be-limited-in-houston/1922111"
+      },
+      "nfl_team": "HOU",
+      "player_id": "12474",
+      "player_name": "Woody Marks",
+      "position": "RB",
+      "published": 1788368286000,
+      "source": "rotoballer",
+      "source_key": "219962",
+      "story_id": "nfl|12474|rotoballer|219962|1788368286000",
+      "title": "Woody Marks' Production Upside Could Be Limited in Houston",
+      "url": "https://www.rotoballer.com/player-news/woody-marks-production-upside-could-be-limited-in-houston/1922111"
+    },
+    {
       "analysis": "Walker dealt with some swelling around his ankle last week due to some cleat issues, but the star running back is back in action Wednesday with 12 days to go before the Chiefs open their season at home against the Broncos on Monday, Sept. 14. After splitting duties with Zach Charbonnet (knee) in Seattle, Walker is expected to operate as a three-down workhorse with Kansas City this season. Only fifth-round rookie Emmett Johnson and 2025 seventh-rounder Brashard Smith round out the depth chart behind Walker.",
       "description": "Walker (ankle) was a full participant in Wednesday's practice, Pete Sweeney of The Kansas City Star reports.",
       "metadata": {
@@ -379,6 +462,26 @@
       "story_id": "nfl|8151|rotowire|636015|1788368214000",
       "title": "Kenneth Walker - Returns to full practice Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks tight end AJ Barner emerged as his team's top tight end in 2025, recording 52 catches for 519 yards and six touchdowns on 68 targets across 17 games. Despite his solid production, the presence of 2025 second-round tight end Elijah Arroyo in Seattle has led to speculation that Barner's role in the Seahawks' offense could fade in 2026. However, Barner has reportedly been one of the team's standout performers this summer, and he's already proven that he has established red-zone chemistry with Seahawks quarterback Sam Darnold. If he can earn slightly more overall target volume in 2026, Barner could establish himself as a lower-end TE1 option for fantasy managers.",
+      "metadata": {
+        "description": "Seattle Seahawks tight end AJ Barner emerged as his team's top tight end in 2025, recording 52 catches for 519 yards and six touchdowns on 68 targets across 17 games. Despite his solid production, the presence of 2025 second-round tight end Elijah Arroyo in Seattle has led to speculation that Barner's role in the Seahawks' offense could fade in 2026. However, Barner has reportedly been one of the team's standout performers this summer, and he's already proven that he has established red-zone chemistry with Seahawks quarterback Sam Darnold. If he can earn slightly more overall target volume in 2026, Barner could establish himself as a lower-end TE1 option for fantasy managers.",
+        "title": "AJ Barner May Be Undervalued in Drafts Entering 2026",
+        "topic_id": "1400982778681495552",
+        "url": "https://www.rotoballer.com/player-news/aj-barner-may-be-undervalued-in-drafts-entering-2026/1922106"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11603",
+      "player_name": "AJ Barner",
+      "position": "TE",
+      "published": 1788367869000,
+      "source": "rotoballer",
+      "source_key": "219961",
+      "story_id": "nfl|11603|rotoballer|219961|1788367869000",
+      "title": "AJ Barner May Be Undervalued in Drafts Entering 2026",
+      "url": "https://www.rotoballer.com/player-news/aj-barner-may-be-undervalued-in-drafts-entering-2026/1922106"
     },
     {
       "analysis": "Mendoza was in the competition all offseason, but it was going to take some otherworldly play to knock Cousins out of the top spot on the depth chart. While Cousins completed 13 of 17 passes for 101 yards and one touchdown across 30 preseason snaps, Mendoza struggled some, completing just 26 of 46 passes for 250 yards, one touchdown and a pair of interceptions during exhibition action. Cousins is likely to have a decently long leash to begin the season, but Mendoza remains a good bet to make starts as a rookie.",
