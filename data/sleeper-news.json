@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-02T19:36:03Z",
+  "last_checked_at": "2026-09-02T19:46:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12526|rotoballer|219951|1788362650000"
+    "nfl|2216|rotoballer|219952|1788363220000"
   ],
   "schema_version": 1,
   "source": {
@@ -413,6 +413,26 @@
       "story_id": "nfl|12527|rotowire|636006|1788363980000",
       "title": "Ashton Jeanty - Remains sidelined Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Mike Evans (groin) returned to practice Wednesday, according to Nick Wagoner of ESPN. Evans had been sidelined since leaving an Aug. 18 joint practice with the Chargers early and was later listed with groin tightness. Kyle Shanahan said earlier this week that Evans was ahead of schedule in his recovery and could get back on the field before the team left for Australia. That happened Wednesday, although it remains to be seen how much work Evans handled. The 33-year-old signed a three-year deal with San Francisco this offseason after spending his first 12 seasons in Tampa Bay. He was limited to eight starts last year, catching 30 passes for 368 yards and three touchdowns. Getting Evans back into practice is a good step with the 49ers set to open the season against the Rams on Sept. 10.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Mike Evans (groin) returned to practice Wednesday, according to Nick Wagoner of ESPN. Evans had been sidelined since leaving an Aug. 18 joint practice with the Chargers early and was later listed with groin tightness. Kyle Shanahan said earlier this week that Evans was ahead of schedule in his recovery and could get back on the field before the team left for Australia. That happened Wednesday, although it remains to be seen how much work Evans handled. The 33-year-old signed a three-year deal with San Francisco this offseason after spending his first 12 seasons in Tampa Bay. He was limited to eight starts last year, catching 30 passes for 368 yards and three touchdowns. Getting Evans back into practice is a good step with the 49ers set to open the season against the Rams on Sept. 10.",
+        "title": "Mike Evans Back at Practice",
+        "topic_id": "1400962643149225984",
+        "url": "https://www.rotoballer.com/player-news/mike-evans-back-at-practice/1922050"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1788363220000,
+      "source": "rotoballer",
+      "source_key": "219952",
+      "story_id": "nfl|2216|rotoballer|219952|1788363220000",
+      "title": "Mike Evans Back at Practice",
+      "url": "https://www.rotoballer.com/player-news/mike-evans-back-at-practice/1922050"
     },
     {
       "analysis": null,

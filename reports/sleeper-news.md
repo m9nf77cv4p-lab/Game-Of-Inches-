@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1670**
+- Stored stories: **1671**
 - Newly captured: **1**
 
 ## Latest news
@@ -48,7 +48,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Touted as a standout performer during the Lions' earlier workouts of the summer, Williams authored another strong performance in a scrimmage-style practice to wrap up camp. On the Lions' opening drive alone, Williams beat cornerback Rock Ya-Sin for a 22-yard gain on the first play of the day, reeled off a 18-yard gain on a screen play to convert a third-and-12 and evaded tight coverage to make a sliding catch on a five-yard pass to the back end of the zone on a fourth-and-goal. Williams recorded another reception on a post route later in the day to convert a third-and-10, but the play was negated by a holding penalty. While No. 1 wideout Amon-Ra St. Brown remains Detroit's clear top target in 2026, Williams should still be in store for reliable weekly volume in a consolidated passing game that also includes Sam LaPorta (hip) and running back Jahmyr Gibbs. Heading into the summer, No. 3 wideout Isaac TeSlaa looked like a potential candidate to carve out a more notable role in his second season, but didn't record a reception in either of his two preseason appearances and had a number of underwhelming performances during camp practices, according to Dave Birkett of the Detroit Free Press.
 - **Ashton Jeanty** — Ashton Jeanty - Remains sidelined Wednesday (2026-09-02T15:46:20Z)
   - Jeanty worked off to the side with trainers Tuesday, as he attempts to get past an ankle injury suffered Aug. 23. It's believed to be a low-ankle sprain for the second-year running back. Jeanty has 11 more days before the Raiders open the season at home against the Dolphins on Sunday, Sept. 13. He'll likely need to practice in some fashion next week to have a chance to play, otherwise Mike Washington and Dylan Laube would be in line to carry the backfield load for Las Vegas.
-- **NEW — Tetairoa McMillan** — Tetairoa McMillan in Line for More Slot Work (2026-09-02T15:24:10Z)
+- **NEW — Mike Evans** — Mike Evans Back at Practice (2026-09-02T15:33:40Z)
+  - Source: https://www.rotoballer.com/player-news/mike-evans-back-at-practice/1922050
+- **Tetairoa McMillan** — Tetairoa McMillan in Line for More Slot Work (2026-09-02T15:24:10Z)
   - Source: https://www.rotoballer.com/player-news/tetairoa-mcmillan-in-line-for-more-slot-work/1922046
 - **Emeka Egbuka** — Emeka Egbuka - Works on side field Wednesday (2026-09-02T15:21:51Z)
   - Egbuka has missed a ton of practice time this summer and didn't see any preseason action. However, it sounds like he's nearing 100 percent ahead of the Bucs' Week 1 game against the Bengals in 11 days. Seeing him return to full practices next week would be a positive development. Egbuka is expected to be a big beneficiary of Mike Evans' departure over the offseason, as he'll have a chance to establish himself as the Bucs' clear WR1 ahead of veteran Chris Godwin.
@@ -217,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Coleman sustained a sprained right foot/toe in the Bills' preseason opener Aug. 15, but he ditched his low walking boot as of last Thursday and now appears set to mix back into drills. The extent of his activity Tuesday isn't known, but he still has nearly two weeks to get healthy ahead of a Week 1 road matchup with the Texans on Sunday, Sept. 13.
 - **Khalil Shakir** — Khalil Shakir - Still not practicing (2026-09-01T19:11:55Z)
   - Shakir was able to suit up for preseason Week 1 against the Panthers on Saturday, Aug. 15, hauling in both of his targets for 41 yards while playing eight offensive snaps. However, he's been out of drills since Aug. 20 and didn't suit up for the Bills' final two exhibitions due to an undisclosed injury. Buffalo opens the regular season on Sunday, Sept. 13 at Houston, giving him less than two weeks to get himself ready for game action.
-- **Mike Washington** — Raiders are Counting on Mike Washington Jr. to Win Games (2026-09-01T18:59:08Z)
-  - Source: https://www.rotoballer.com/player-news/raiders-are-counting-on-mike-washington-jr-to-win-games/1921490
