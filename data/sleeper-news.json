@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-02T13:47:11Z",
+  "last_checked_at": "2026-09-02T13:57:35Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11586|rotowire|635995|1788356250000",
-    "nfl|5022|rotoballer|219913|1788341459000",
-    "nfl|5947|rotowire|635996|1788356476000"
+    "nfl|10236|rotoballer|219914|1788342247000",
+    "nfl|11631|rotowire|635998|1788357291000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Thomas injured his shoulder in a joint practice with the Buccaneers one week earlier, but he avoided a major scare and was back on the field a few days later while sporting a no-contact jersey. The wideout was seemingly able to shed that jersey and take some contact during Tuesday's session, so he looks like he'll be in the clear for the Jaguars' Sept. 13 season opener versus the Browns.",
+      "description": "Jaguars head coach Liam Coen said that Thomas (shoulder) was a \"full go\" at Tuesday's practice, Ryan O'Halloran of The Florida Times-Union reports.",
+      "metadata": {
+        "analysis": "Thomas injured his shoulder in a joint practice with the Buccaneers one week earlier, but he avoided a major scare and was back on the field a few days later while sporting a no-contact jersey. The wideout was seemingly able to shed that jersey and take some contact during Tuesday's session, so he looks like he'll be in the clear for the Jaguars' Sept. 13 season opener versus the Browns.",
+        "description": "Jaguars head coach Liam Coen said that Thomas (shoulder) was a \"full go\" at Tuesday's practice, Ryan O'Halloran of The Florida Times-Union reports.",
+        "title": "Brian Thomas - Practices fully Tuesday",
+        "topic_id": "1400875810830684160"
+      },
+      "nfl_team": "JAX",
+      "player_id": "11631",
+      "player_name": "Brian Thomas",
+      "position": "WR",
+      "published": 1788357291000,
+      "source": "rotowire",
+      "source_key": "635998",
+      "story_id": "nfl|11631|rotowire|635998|1788357291000",
+      "title": "Brian Thomas - Practices fully Tuesday",
+      "url": null
+    },
     {
       "analysis": "Meyers has been out of action since injuring his hand during a joint practice with the Panthers nearly two weeks ago, but he is set to return to the field Wednesday. With Meyers cleared to get some work in, it seems likely he is on track to take the field Week 1 against the Browns.",
       "description": "Meyers (hand) will participate in Wednesday's practice session, Ryan O'Halloran of The Florida Times-Union reports.",
@@ -74,6 +93,26 @@
       "story_id": "nfl|4217|rotowire|635993|1788353532000",
       "title": "George Kittle - Traveling to Australia with team",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills tight end Dalton Kincaid has been amid a ton of training camp buzz throughout the offseason and appears set for a big role in this offense. In 12 games, Kincaid hauled in 39 of 49 targets for 571 yards and five touchdowns, averaging 8.8 half-PPR fantasy points per game last season. The upside is there, but some big factors that appear to be emerging heading into 2026 are holding back his fantasy value. Kincaid has missed nine games over the last two seasons due to hamstring and knee injuries, but has looked healthy throughout camp. Snaps will be the major question, and with head coach Joe Brady in full control of the offense, Kincaid's snap count will be known in Week 1. Kincaid isn't a strong start at tight end for Week 1 against the Houston Texans, but is a high-upside option assuming he stays healthy and plays more snaps in 2026.",
+      "metadata": {
+        "description": "Buffalo Bills tight end Dalton Kincaid has been amid a ton of training camp buzz throughout the offseason and appears set for a big role in this offense. In 12 games, Kincaid hauled in 39 of 49 targets for 571 yards and five touchdowns, averaging 8.8 half-PPR fantasy points per game last season. The upside is there, but some big factors that appear to be emerging heading into 2026 are holding back his fantasy value. Kincaid has missed nine games over the last two seasons due to hamstring and knee injuries, but has looked healthy throughout camp. Snaps will be the major question, and with head coach Joe Brady in full control of the offense, Kincaid's snap count will be known in Week 1. Kincaid isn't a strong start at tight end for Week 1 against the Houston Texans, but is a high-upside option assuming he stays healthy and plays more snaps in 2026.",
+        "title": "Dalton Kincaid Primed for Bigger Role in 2026 After Strong Camp",
+        "topic_id": "1400874550543032320",
+        "url": "https://www.rotoballer.com/player-news/dalton-kincaid-primed-for-bigger-role-in-2026-after-strong-camp/1921789"
+      },
+      "nfl_team": "BUF",
+      "player_id": "10236",
+      "player_name": "Dalton Kincaid",
+      "position": "TE",
+      "published": 1788342247000,
+      "source": "rotoballer",
+      "source_key": "219914",
+      "story_id": "nfl|10236|rotoballer|219914|1788342247000",
+      "title": "Dalton Kincaid Primed for Bigger Role in 2026 After Strong Camp",
+      "url": "https://www.rotoballer.com/player-news/dalton-kincaid-primed-for-bigger-role-in-2026-after-strong-camp/1921789"
     },
     {
       "analysis": null,
