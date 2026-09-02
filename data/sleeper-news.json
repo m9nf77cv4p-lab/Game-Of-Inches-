@@ -1,12 +1,10 @@
 {
-  "last_checked_at": "2026-09-02T14:46:10Z",
+  "last_checked_at": "2026-09-02T15:02:13Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11563|rotoballer|219918|1788344948000",
-    "nfl|13296|rotoballer|219919|1788345383000",
-    "nfl|8228|rotoballer|219917|1788344348000",
-    "nfl|9488|rotowire|635999|1788359486000"
+    "nfl|13413|rotoballer|219920|1788345733000",
+    "nfl|6904|rotoballer|219921|1788346146000"
   ],
   "schema_version": 1,
   "source": {
@@ -115,6 +113,46 @@
       "story_id": "nfl|4217|rotowire|635993|1788353532000",
       "title": "George Kittle - Traveling to Australia with team",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Philadelphia Eagles do not view the upcoming 2026 season as a make-or-break year for quarterback Jalen Hurts, according to general manager Howie Roseman (via Eliot Shorr-Parks of SportsRadio 94WIP). Roseman made it clear that Hurts' future in Philadelphia does not depend on his performance this season, and he pointed out \"all the winning Hurts has done,\" according to Shorr-Parks. Indeed, the Eagles have made the Super Bowl in two of the last four seasons, winning the Lombardi Trophy two years ago. Hurts holds an impressive 57-25 record as a starter in the NFL, and he's been equally dominant from a fantasy football perspective, ranking as a top-nine fantasy quarterback in each of the last five seasons. The sky is the limit for Hurts in this year's new-look system led by offensive coordinator Sean Mannion, giving the 28-year-old quarterback top-five upside. As it currently stands, he has an ADP of 71.9 and ranks as the overall QB3 in RotoBaller's latest redraft rankings for 2026.",
+      "metadata": {
+        "description": "The Philadelphia Eagles do not view the upcoming 2026 season as a make-or-break year for quarterback Jalen Hurts, according to general manager Howie Roseman (via Eliot Shorr-Parks of SportsRadio 94WIP). Roseman made it clear that Hurts' future in Philadelphia does not depend on his performance this season, and he pointed out \"all the winning Hurts has done,\" according to Shorr-Parks. Indeed, the Eagles have made the Super Bowl in two of the last four seasons, winning the Lombardi Trophy two years ago. Hurts holds an impressive 57-25 record as a starter in the NFL, and he's been equally dominant from a fantasy football perspective, ranking as a top-nine fantasy quarterback in each of the last five seasons. The sky is the limit for Hurts in this year's new-look system led by offensive coordinator Sean Mannion, giving the 28-year-old quarterback top-five upside. As it currently stands, he has an ADP of 71.9 and ranks as the overall QB3 in RotoBaller's latest redraft rankings for 2026.",
+        "title": "Eagles Don't View 2026 as a Make-or-Break Year for Jalen Hurts",
+        "topic_id": "1400890910731993088",
+        "url": "https://www.rotoballer.com/player-news/eagles-dont-view-2026-as-a-make-or-break-year-for-jalen-hurts/1921832"
+      },
+      "nfl_team": "PHI",
+      "player_id": "6904",
+      "player_name": "Jalen Hurts",
+      "position": "QB",
+      "published": 1788346146000,
+      "source": "rotoballer",
+      "source_key": "219921",
+      "story_id": "nfl|6904|rotoballer|219921|1788346146000",
+      "title": "Eagles Don't View 2026 as a Make-or-Break Year for Jalen Hurts",
+      "url": "https://www.rotoballer.com/player-news/eagles-dont-view-2026-as-a-make-or-break-year-for-jalen-hurts/1921832"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs wide receiver has quickly earned the trust of his quarterbacks, including Patrick Mahomes. \"Even when there were a couple routes he ran the wrong thing and lined up the wrong way in the game, the quarterback still threw the ball to him,\" head coach Andy Reid told Jesse Newell of The Athletic. \"You go, 'All right. There's a certain trust there.' And he'll work through all the other stuff.\" Mahomes recently dubbed Allen one of the team's biggest camp standouts, and Newell noted that the team's quarterbacks have all been very comfortable throwing him the ball even when he's covered. That level of trust should go a long way in the regular season. Even though Allen is set to open the year behind Rashee Rice and Xavier Worthy on the depth chart, he could work his way onto the fantasy radar by midseason, especially if Rice or Worthy get injured. Having Mahomes throwing him the football should only boost his stock in redraft and dynasty formats. Allen currently has an ADP of 186.5, which corresponds to the 16th round of drafts and makes him the 68th receiver off the board.",
+      "metadata": {
+        "description": "Kansas City Chiefs wide receiver has quickly earned the trust of his quarterbacks, including Patrick Mahomes. \"Even when there were a couple routes he ran the wrong thing and lined up the wrong way in the game, the quarterback still threw the ball to him,\" head coach Andy Reid told Jesse Newell of The Athletic. \"You go, 'All right. There's a certain trust there.' And he'll work through all the other stuff.\" Mahomes recently dubbed Allen one of the team's biggest camp standouts, and Newell noted that the team's quarterbacks have all been very comfortable throwing him the ball even when he's covered. That level of trust should go a long way in the regular season. Even though Allen is set to open the year behind Rashee Rice and Xavier Worthy on the depth chart, he could work his way onto the fantasy radar by midseason, especially if Rice or Worthy get injured. Having Mahomes throwing him the football should only boost his stock in redraft and dynasty formats. Allen currently has an ADP of 186.5, which corresponds to the 16th round of drafts and makes him the 68th receiver off the board.",
+        "title": "Cyrus Allen Earning Plenty of Trust From Quarterback",
+        "topic_id": "1400889652621094912",
+        "url": "https://www.rotoballer.com/player-news/cyrus-allen-earning-plenty-of-trust-from-quarterback/1921828"
+      },
+      "nfl_team": "KC",
+      "player_id": "13413",
+      "player_name": "Cyrus Allen",
+      "position": "WR",
+      "published": 1788345733000,
+      "source": "rotoballer",
+      "source_key": "219920",
+      "story_id": "nfl|13413|rotoballer|219920|1788345733000",
+      "title": "Cyrus Allen Earning Plenty of Trust From Quarterback",
+      "url": "https://www.rotoballer.com/player-news/cyrus-allen-earning-plenty-of-trust-from-quarterback/1921828"
     },
     {
       "analysis": null,

@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1616**
-- Newly captured: **4**
+- Stored stories: **1618**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba - Not concerned about run game (2026-09-02T14:31:26Z)
+- **Jaxon Smith-Njigba** — Jaxon Smith-Njigba - Not concerned about run game (2026-09-02T14:31:26Z)
   - After letting Super Bowl LX MVP Kenneth Walker walk in free agency, the Seahawks will be counting on Price -- the No. 32 overall pick in April's draft -- as well as George Holani and Emanuel Wilson (hamstring) to lead the backfield while Zach Charbonnet (knee) is out for at least the first four games of the season. Walker's tough running combined with Charbonnet's skills on passing downs helped ensure that defenses couldn't devote more resources to shutting down Smith-Njigba, who blossomed into arguably the NFL's top wideout in 2025. After taking most of his snaps out of the slot in his first two seasons, Smith-Njigba thrived while transitioning into more of a perimeter role, compiling a massive 119-1,793-10 receiving line over 17 games on his way to winning Offensive Player of the Year honors. A league-high 32.6 percent target share played a part in Smith-Njigba achieving his lofty production, but even if supporting pass catchers such as Rashid Shaheed and AJ Barner are more involved in 2026, Smith-Njigba could avoid a major dip in production if the Seahawks lean more heavily on the passing game as a whole. The Seahawks ranked third in the NFL with a 49.7 percent run rate in 2025, and despite Smith-Njigba's early praise for Price, it would still be surprising if the rookie was trusted right away to handle the sort of workloads that Walker and Charbonnet previously shouldered.
 - **Brian Thomas** — Brian Thomas - Practices fully Tuesday (2026-09-02T13:54:51Z)
   - Thomas injured his shoulder in a joint practice with the Buccaneers one week earlier, but he avoided a major scare and was back on the field a few days later while sporting a no-contact jersey. The wideout was seemingly able to shed that jersey and take some contact during Tuesday's session, so he looks like he'll be in the clear for the Jaguars' Sept. 13 season opener versus the Browns.
@@ -17,11 +17,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.
 - **George Kittle** — George Kittle - Traveling to Australia with team (2026-09-02T12:52:12Z)
   - A final call on Kittle's availability for Week 1 isn't expected to be made until the 49ers arrive in Australia, but his involvement in practice this week and presence on the road trip suggest that he's on track to play. Kittle -- who tore his right Achilles tendon Jan. 11 and underwent surgery three days later -- could have his snaps limited to some degree if he's cleared to play in the season opener.
-- **NEW — Caleb Douglas** — Caleb Douglas Worth a Late-Round Pick After Strong Camp Showing (2026-09-02T10:36:23Z)
+- **NEW — Jalen Hurts** — Eagles Don't View 2026 as a Make-or-Break Year for Jalen Hurts (2026-09-02T10:49:06Z)
+  - Source: https://www.rotoballer.com/player-news/eagles-dont-view-2026-as-a-make-or-break-year-for-jalen-hurts/1921832
+- **NEW — Cyrus Allen** — Cyrus Allen Earning Plenty of Trust From Quarterback (2026-09-02T10:42:13Z)
+  - Source: https://www.rotoballer.com/player-news/cyrus-allen-earning-plenty-of-trust-from-quarterback/1921828
+- **Caleb Douglas** — Caleb Douglas Worth a Late-Round Pick After Strong Camp Showing (2026-09-02T10:36:23Z)
   - Source: https://www.rotoballer.com/player-news/caleb-douglas-worth-a-late-round-pick-after-strong-camp-showing/1921825
-- **NEW — Bo Nix** — Bo Nix Trending Up with the Best Receiver Room of His Career (2026-09-02T10:29:08Z)
+- **Bo Nix** — Bo Nix Trending Up with the Best Receiver Room of His Career (2026-09-02T10:29:08Z)
   - Source: https://www.rotoballer.com/player-news/bo-nix-trending-up-with-the-best-receiver-room-of-his-career/1921820
-- **NEW — Jaylen Warren** — Jaylen Warren a Reliable Fantasy Target with Consistent Receiving Work (2026-09-02T10:19:08Z)
+- **Jaylen Warren** — Jaylen Warren a Reliable Fantasy Target with Consistent Receiving Work (2026-09-02T10:19:08Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-warren-a-reliable-fantasy-target-with-consistent-receiving-work/1921814
 - **Brian Thomas** — Brian Thomas Jr. a Full-Go in Tuesday's Practice (2026-09-02T09:57:09Z)
   - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-a-full-go-in-tuesdays-practice/1921801
@@ -226,7 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - This is a big positive for Croskey-Merritt, who had been working through a lower-body issue late in the preseason. He is now trending in the right direction for Week 1, but official injury reports the week of the game will give final confirmation. If healthy, Croskey-Merritt is in line for a prominent role yet again in the Washington backfield.
 - **Emeka Egbuka** — Emeka Egbuka - Stting out Tuesday's practice (2026-09-01T15:18:36Z)
   - The second-year wideout is working through a toe injury that has slowed him since mid-August. Coach Todd Bowles said over the weekend that he was "hopeful" Egbuka would be available for Week 1, which is now just under two weeks away. Until Egbuka can return to the practice field, his Week 1 status appears to be in limbo.
-- **Puka Nacua** — Puka Nacua Remains Under NFL Review Ahead of Week 1 (2026-09-01T15:14:07Z)
-  - Source: https://www.rotoballer.com/player-news/puka-nacua-remains-under-nfl-review-ahead-of-week-1/1921331
-- **Ashton Jeanty** — Ashton Jeanty - Working with trainers Tuesday (2026-09-01T15:12:52Z)
-  - This marks the first time Jeanty has been participating during a media viewing period since the running back sustained an ankle injury during practice Aug. 23. Jeanty was initially not out with the team for Tuesday's session but has since gotten on the field to work with trainers. There are still some hurdles to be cleared before Jeanty's Week 1 status is confirmed, but the second-year back appears to be making progress.
