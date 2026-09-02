@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-09-02T15:54:36Z",
+  "last_checked_at": "2026-09-02T16:09:14Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12514|rotoballer|219925|1788348668000",
-    "nfl|12527|rotowire|636006|1788363980000",
-    "nfl|13345|rotoballer|219926|1788349330000"
+    "nfl|11583|rotowire|636008|1788364626000",
+    "nfl|12490|rotoballer|219927|1788349807000",
+    "nfl|8148|rotowire|636007|1788364297000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +15,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Brooks has been dealing with some soreness in an undisclosed area for the past couple of days, as coach Dave Canales has been vague when describing the running back's issue. There doesn't seem to be any indication Brooks is in danger of missing Week 1 against the Bears in 11 days, but he's going to need to get back on the practice field next week.",
+      "description": "Brooks (soreness) was working off to the side with a trainer during Wednesday's practice, Mike Kaye of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Brooks has been dealing with some soreness in an undisclosed area for the past couple of days, as coach Dave Canales has been vague when describing the running back's issue. There doesn't seem to be any indication Brooks is in danger of missing Week 1 against the Bears in 11 days, but he's going to need to get back on the practice field next week.",
+        "description": "Brooks (soreness) was working off to the side with a trainer during Wednesday's practice, Mike Kaye of ESPN.com reports.",
+        "title": "Jonathon Brooks - Working off to side Wednesday",
+        "topic_id": "1400907273278062592"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788364626000,
+      "source": "rotowire",
+      "source_key": "636008",
+      "story_id": "nfl|11583|rotowire|636008|1788364626000",
+      "title": "Jonathon Brooks - Working off to side Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "Touted as a standout performer during the Lions' earlier workouts of the summer, Williams authored another strong performance in a scrimmage-style practice to wrap up camp. On the Lions' opening drive alone, Williams beat cornerback Rock Ya-Sin for a 22-yard gain on the first play of the day, reeled off a 18-yard gain on a screen play to convert a third-and-12 and evaded tight coverage to make a sliding catch on a five-yard pass to the back end of the zone on a fourth-and-goal. Williams recorded another reception on a post route later in the day to convert a third-and-10, but the play was negated by a holding penalty. While No. 1 wideout Amon-Ra St. Brown remains Detroit's clear top target in 2026, Williams should still be in store for reliable weekly volume in a consolidated passing game that also includes Sam LaPorta (hip) and running back Jahmyr Gibbs. Heading into the summer, No. 3 wideout Isaac TeSlaa looked like a potential candidate to carve out a more notable role in his second season, but didn't record a reception in either of his two preseason appearances and had a number of underwhelming performances during camp practices, according to Dave Birkett of the Detroit Free Press.",
+      "description": "Williams concluded Lions training camp on a positive note Thursday, connecting with quarterback Jared Goff on a number of impressive contested catches throughout the day, Nolan Bianchi of The Detroit News reports.",
+      "metadata": {
+        "analysis": "Touted as a standout performer during the Lions' earlier workouts of the summer, Williams authored another strong performance in a scrimmage-style practice to wrap up camp. On the Lions' opening drive alone, Williams beat cornerback Rock Ya-Sin for a 22-yard gain on the first play of the day, reeled off a 18-yard gain on a screen play to convert a third-and-12 and evaded tight coverage to make a sliding catch on a five-yard pass to the back end of the zone on a fourth-and-goal. Williams recorded another reception on a post route later in the day to convert a third-and-10, but the play was negated by a holding penalty. While No. 1 wideout Amon-Ra St. Brown remains Detroit's clear top target in 2026, Williams should still be in store for reliable weekly volume in a consolidated passing game that also includes Sam LaPorta (hip) and running back Jahmyr Gibbs. Heading into the summer, No. 3 wideout Isaac TeSlaa looked like a potential candidate to carve out a more notable role in his second season, but didn't record a reception in either of his two preseason appearances and had a number of underwhelming performances during camp practices, according to Dave Birkett of the Detroit Free Press.",
+        "description": "Williams concluded Lions training camp on a positive note Thursday, connecting with quarterback Jared Goff on a number of impressive contested catches throughout the day, Nolan Bianchi of The Detroit News reports.",
+        "title": "Jameson Williams - Stands out in final training camp session",
+        "topic_id": "1400906013955125248"
+      },
+      "nfl_team": "DET",
+      "player_id": "8148",
+      "player_name": "Jameson Williams",
+      "position": "WR",
+      "published": 1788364297000,
+      "source": "rotowire",
+      "source_key": "636007",
+      "story_id": "nfl|8148|rotowire|636007|1788364297000",
+      "title": "Jameson Williams - Stands out in final training camp session",
+      "url": null
+    },
     {
       "analysis": "Jeanty worked off to the side with trainers Tuesday, as he attempts to get past an ankle injury suffered Aug. 23. It's believed to be a low-ankle sprain for the second-year running back. Jeanty has 11 more days before the Raiders open the season at home against the Dolphins on Sunday, Sept. 13. He'll likely need to practice in some fashion next week to have a chance to play, otherwise Mike Washington and Dylan Laube would be in line to carry the backfield load for Las Vegas.",
       "description": "Jeanty (ankle) remained sidelined at practice Wednesday, Ryan McFadden of ESPN.com reports.",
@@ -234,6 +274,26 @@
       "story_id": "nfl|4217|rotowire|635993|1788353532000",
       "title": "George Kittle - Traveling to Australia with team",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars running back Bhayshul Tuten was sent home from practice Wednesday because of an illness, according to Ryan O'Halloran. There is no indication right now that Tuten is dealing with anything beyond being sick. The second-year back is coming off a rookie season in which he ran 83 times for 307 yards and five touchdowns while adding 10 catches for 79 yards and two more scores. Tuten and Chris Rodriguez Jr. were listed as co-starters throughout the preseason, and Jacksonville's post-cutdown roster breakdown still projects both at the top of the backfield. The Jaguars open Sept. 13 against Cleveland, so there is plenty of time before game week. For now, this looks like a simple illness absence, with his next practice status the thing to watch.",
+      "metadata": {
+        "description": "Jacksonville Jaguars running back Bhayshul Tuten was sent home from practice Wednesday because of an illness, according to Ryan O'Halloran. There is no indication right now that Tuten is dealing with anything beyond being sick. The second-year back is coming off a rookie season in which he ran 83 times for 307 yards and five touchdowns while adding 10 catches for 79 yards and two more scores. Tuten and Chris Rodriguez Jr. were listed as co-starters throughout the preseason, and Jacksonville's post-cutdown roster breakdown still projects both at the top of the backfield. The Jaguars open Sept. 13 against Cleveland, so there is plenty of time before game week. For now, this looks like a simple illness absence, with his next practice status the thing to watch.",
+        "title": "Bhayshul Tuten Sent Home Sick",
+        "topic_id": "1400906012734554112",
+        "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-sent-home-sick/1921898"
+      },
+      "nfl_team": "JAX",
+      "player_id": "12490",
+      "player_name": "Bhayshul Tuten",
+      "position": "RB",
+      "published": 1788349807000,
+      "source": "rotoballer",
+      "source_key": "219927",
+      "story_id": "nfl|12490|rotoballer|219927|1788349807000",
+      "title": "Bhayshul Tuten Sent Home Sick",
+      "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-sent-home-sick/1921898"
     },
     {
       "analysis": null,

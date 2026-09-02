@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1629**
+- Stored stories: **1632**
 - Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Ashton Jeanty** — Ashton Jeanty - Remains sidelined Wednesday (2026-09-02T15:46:20Z)
+- **NEW — Jonathon Brooks** — Jonathon Brooks - Working off to side Wednesday (2026-09-02T15:57:06Z)
+  - Brooks has been dealing with some soreness in an undisclosed area for the past couple of days, as coach Dave Canales has been vague when describing the running back's issue. There doesn't seem to be any indication Brooks is in danger of missing Week 1 against the Bears in 11 days, but he's going to need to get back on the practice field next week.
+- **NEW — Jameson Williams** — Jameson Williams - Stands out in final training camp session (2026-09-02T15:51:37Z)
+  - Touted as a standout performer during the Lions' earlier workouts of the summer, Williams authored another strong performance in a scrimmage-style practice to wrap up camp. On the Lions' opening drive alone, Williams beat cornerback Rock Ya-Sin for a 22-yard gain on the first play of the day, reeled off a 18-yard gain on a screen play to convert a third-and-12 and evaded tight coverage to make a sliding catch on a five-yard pass to the back end of the zone on a fourth-and-goal. Williams recorded another reception on a post route later in the day to convert a third-and-10, but the play was negated by a holding penalty. While No. 1 wideout Amon-Ra St. Brown remains Detroit's clear top target in 2026, Williams should still be in store for reliable weekly volume in a consolidated passing game that also includes Sam LaPorta (hip) and running back Jahmyr Gibbs. Heading into the summer, No. 3 wideout Isaac TeSlaa looked like a potential candidate to carve out a more notable role in his second season, but didn't record a reception in either of his two preseason appearances and had a number of underwhelming performances during camp practices, according to Dave Birkett of the Detroit Free Press.
+- **Ashton Jeanty** — Ashton Jeanty - Remains sidelined Wednesday (2026-09-02T15:46:20Z)
   - Jeanty worked off to the side with trainers Tuesday, as he attempts to get past an ankle injury suffered Aug. 23. It's believed to be a low-ankle sprain for the second-year running back. Jeanty has 11 more days before the Raiders open the season at home against the Dolphins on Sunday, Sept. 13. He'll likely need to practice in some fashion next week to have a chance to play, otherwise Mike Washington and Dylan Laube would be in line to carry the backfield load for Las Vegas.
 - **Emeka Egbuka** — Emeka Egbuka - Works on side field Wednesday (2026-09-02T15:21:51Z)
   - Egbuka has missed a ton of practice time this summer and didn't see any preseason action. However, it sounds like he's nearing 100 percent ahead of the Bucs' Week 1 game against the Bengals in 11 days. Seeing him return to full practices next week would be a positive development. Egbuka is expected to be a big beneficiary of Mike Evans' departure over the offseason, as he'll have a chance to establish himself as the Bucs' clear WR1 ahead of veteran Chris Godwin.
@@ -29,9 +33,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.
 - **George Kittle** — George Kittle - Traveling to Australia with team (2026-09-02T12:52:12Z)
   - A final call on Kittle's availability for Week 1 isn't expected to be made until the 49ers arrive in Australia, but his involvement in practice this week and presence on the road trip suggest that he's on track to play. Kittle -- who tore his right Achilles tendon Jan. 11 and underwent surgery three days later -- could have his snaps limited to some degree if he's cleared to play in the season opener.
-- **NEW — Jonah Coleman** — Jonah Coleman Trending Toward Bigger Role in Denver (2026-09-02T11:42:10Z)
+- **NEW — Bhayshul Tuten** — Bhayshul Tuten Sent Home Sick (2026-09-02T11:50:07Z)
+  - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-sent-home-sick/1921898
+- **Jonah Coleman** — Jonah Coleman Trending Toward Bigger Role in Denver (2026-09-02T11:42:10Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-trending-toward-bigger-role-in-denver/1921887
-- **NEW — Emeka Egbuka** — Emeka Egbuka Running on Side Field (2026-09-02T11:31:08Z)
+- **Emeka Egbuka** — Emeka Egbuka Running on Side Field (2026-09-02T11:31:08Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-running-on-side-field/1921877
 - **MarShawn Lloyd** — MarShawn Lloyd Gets First Crack at Green Bay Backfield (2026-09-02T11:23:07Z)
   - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-gets-first-crack-at-green-bay-backfield/1921873
@@ -223,10 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Mike Evans** — Mike Evans (adductor) hopeful to return to practice next week (2026-09-01T16:15:21.629000Z)
   - Evans has been absent from practice for much of the past few weeks. He will likely need to log multiple practices early next week to have a good chance of playing in Week 1 against the Rams. 
   - Source: https://www.fantasypros.com/nfl/news/605295/mike-evans-adductor-hopeful-to-return-to-practice-next-week.php
-- **Tyler Warren** — Tyler Warren (groin) practices Tuesday  (2026-09-01T16:15:21.611000Z)
-  - Warren has been working his way back from a minor groin issue. He should be good to go for Week 1 next week. 
-  - Source: https://www.fantasypros.com/nfl/news/605296/tyler-warren-groin-practices-tuesday.php
-- **George Kittle** — George Kittle - Going through team drills (2026-09-01T16:11:31Z)
-  - Kittle is making strides in his recovery from an Achilles tear suffered in the playoffs. He went through some team drills Monday, and the fact that he's going to be on the field back-to-back days is especially encouraging. The 49ers are just over a week away from their season-opener in Australia, so it's still a tight timeline for Kittle be up to game speed. His progress in practice this week will paint a clearer picture for whether he will be ready to go when the season starts.
-- **Jalen McMillan** — Jalen McMillan - Remains sidelined at practice (2026-09-01T16:08:05Z)
-  - McMillan missed most of training camp with the issue, but there's been optimism about McMillan being available for Week 1 against the Bengals in 12 days. McMillan is expected to fill the third receiver role alongside Emeka Egbuka (toe) and Chris Godwin this season, though rookie Ted Hurst is also likely to see sub-package snaps at the position. McMillan appeared in just four regular-season games last season due to a neck injury. He turned 15 targets into 12 catches for 178 scoreless yards after producing eight touchdowns as a rookie in 2024.
