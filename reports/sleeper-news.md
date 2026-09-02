@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1700**
+- Stored stories: **1701**
 - Newly captured: **1**
 
 ## Latest news
 
+- **NEW — KC Concepcion** — KC Concepcion - Looking to build off strong camp (2026-09-02T23:15:35Z)
+  - "...Seeing that these coaches have trust built up in me to put me in different type of situations, I would say that it only makes me more excited for Week 1," Concepcion shared with reporters Wednesday. Concepcion's lone preseason appearance was against the Bears on Aug. 15, but he looked good in that game and finished with three catches (on four targets) for 27 yards while adding a 14-yard rushing touchdown and a 31-yard punt return. The Texas A&amp;M product was one of the standout players for the Browns in training camp, and the rookie first-rounder has enough trust from his coaching staff to be an immediate contributor on offense. Concepcion, fellow rookie Denzel Boston, veteran Jerry Jeudy, tight end Harold Fannin and running back Quinshon Judkins figure to be the key playmakers for the Browns this season, with Deshaun Watson manning the offense.
 - **Gunnar Helm** — Gunnar Helm - Ends preseason with one catch (2026-09-02T22:56:12Z)
   - Helm joined the rest of the healthy starters to kick off preseason Weeks 1 and 2, logging 26 offensive snaps between the two contests. He then was rested in Saturday's exhibition finale against the Bears along with QB Cam Ward and company. A fourth-round pick in the 2025 Draft, Helm hauled in 44 of 55 targets for 357 yards and two touchdowns in 16 regular-season games as a rookie, and he'll be looking to build upon those numbers in Year 2 under new offensive coordinator Brian Daboll.
 - **Marvin Harrison** — Marvin Harrison - Listed on first-team offense (2026-09-02T22:49:02Z)
@@ -45,7 +47,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605639/alvin-kamara-knee-misses-practice-wednesday.php
 - **Malik Nabers** — Malik Nabers - Handles individual, team drills Wednesday (2026-09-02T19:14:09Z)
   - Nabers has had a notable week, from telling Jordan Raanan of ESPN.com on Monday that he was unsure about his status for the season opener to not being seen at the open portion of Tuesday's practice. He ended up mixing into drills Tuesday after the session was closed to the media, and Harbaugh's comments Wednesday indicate Nabers was somewhere between a limited and full participant. The Giants are required to post their first Week 1 injury report next Wednesday, and how Nabers is listed there may be telling ahead of the Giants' Week 1 matchup with the Cowboys on Sunday, Sept. 13.
-- **NEW — Tee Higgins** — Tee Higgins Misses Practice on Wednesday (2026-09-02T19:10:09Z)
+- **Tee Higgins** — Tee Higgins Misses Practice on Wednesday (2026-09-02T19:10:09Z)
   - Source: https://www.rotoballer.com/player-news/tee-higgins-misses-practice-on-wednesday/1922162
 - **Mike Evans** — Mike Evans - Returns to practice Wednesday (2026-09-02T18:54:00Z)
   - Evans has barely practiced this summer due to various nagging injuries, but his return to the field Wednesday gives him some time to get ready for next Thursday's season opener against the Rams in Australia. The Niners are flying out Wednesday to get their body clocks acclimated to the time change. As long as Evans avoids setbacks over the next week, he should be available against Los Angeles, though it's fair to wonder how much chemistry he's built with Brock Purdy at this point.
@@ -213,6 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Kyle Monangai** — Kyle Monangai (knee) remains week-to-week  (2026-09-02T00:05:25.623000Z)
   - Monangai has been considered week-to-week for the past couple of weeks. It appears he won't be ready to go to begin the season, which should lead to a workhorse role for D'Andre Swift to open the year. 
   - Source: https://www.fantasypros.com/nfl/news/605468/kyle-monangai-knee-remains-week-to-week.php
-- **Luther Burden** — Luther Burden III (groin) practices Tuesday  (2026-09-02T00:05:25.607000Z)
-  - Burden had returned to practice last week. He is on track to be good to go for the start of the season next week. 
-  - Source: https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php

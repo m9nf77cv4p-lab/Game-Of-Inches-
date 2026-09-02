@@ -19742,7 +19742,7 @@
       ],
       "first_name": "J.J.",
       "full_name": "J.J. McCarthy",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "McCarthy",
       "nfl_team": "MIN",
       "player_id": "11565",
@@ -23764,8 +23764,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-02T17:08:35Z",
-    "source_fingerprint": "1d722b1a2162689fdce59ed6a8fa98be62db6d44822b04160bec8c55c4344d05"
+    "last_changed_at": "2026-09-02T18:31:51Z",
+    "source_fingerprint": "450394f9d2535edd08ddfd784b9533f3659c4c8d28d578458bcf223c71c24634"
   },
   "teams": [
     {
