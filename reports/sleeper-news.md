@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1666**
-- Newly captured: **3**
+- Stored stories: **1667**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Chase Brown** — Chase Brown - Primed for increased role (2026-09-02T18:42:27Z)
+- **NEW — Mike Evans** — Mike Evans - Returns to practice Wednesday (2026-09-02T18:54:00Z)
+  - Evans has barely practiced this summer due to various nagging injuries, but his return to the field Wednesday gives him some time to get ready for next Thursday's season opener against the Rams in Australia. The Niners are flying out Wednesday to get their body clocks acclimated to the time change. As long as Evans avoids setbacks over the next week, he should be available against Los Angeles, though it's fair to wonder how much chemistry he's built with Brock Purdy at this point.
+- **Chase Brown** — Chase Brown - Primed for increased role (2026-09-02T18:42:27Z)
   - In particular, Brown cited the scheme's efficiency while running the ball under center and also how much he's been lining up in the slot in the passing game during training camp. After earning just 58 touches as a fifth-round rookie in 2023, his usage increased to 283 touches in 2024 and 301 touches last season. In 17 regular-games in 2025, he matched or set career highs across the board, tallying 1,456 yards from scrimmage and 11 total TDs. Considering Brown was one of seven RBs with at least 50 receptions last year (69, to be exact), his stature in fantasy has never been higher.
 - **Tetairoa McMillan** — Tetairoa McMillan - In line for more slot work in 2026 (2026-09-02T18:20:20Z)
   - If preseason usage means anything, it would seem Canales was putting the plan into action this summer. After playing just 15.3 percent of his regular-season offensive snaps out of the slot as a rookie, McMillan was in the slot on nine of 22 snaps (40.9 percent) across two preseason games. Moving to the slot more would give the 6-foot-5 McMillan significant size and speed advantages inside and allow for more easy "layup" style catches to get the ball in his hands quicker. The 2025 Offensive Rookie of the Year figures to be the center of Carolina's offense this season after posting 70 catches for 1,014 yards and seven scores across 17 regular-season contests last season.
@@ -54,11 +56,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Tuten should be fine by the time Week 1 against the Browns rolls around in 11 days. The second-year running back is expected to have a significant role in Jacksonville's backfield this season, but how this running back depth chart shakes out will be a situation to watch against Cleveland. All three of Tuten, Chris Rodriguez and LeQuint Allen (undisclosed) are likely to see snaps when healthy.
 - **Amon-Ra St. Brown** — Amon-Ra St. Brown - Ends camp on high note (2026-09-02T15:00:57Z)
   - St. Brown was particularly impressive on the Lions' second-to-last series of the day, when he had gains of 14, seven and four yards on receptions before beating cornerback Rock Ya-Sin on a post route for a 16-yard score to end the drive. He nearly added another touchdown to his ledger on the final drive, as he corralled a jump ball over Ya-Sin in the end zone before he was ruled to have bobbled the ball prior to stepping out of bounds. The performance marked an impressive end to what Tim Twentyman of the Lions' official site labeled a "really strong camp" for St. Brown, who is once again ticketed for a high-volume role in the Detroit passing game and profiles as a strong first-round pick in fantasy drafts.
-- **NEW — DK Metcalf** — Steelers Looking to Get the Football to DK Metcalf (2026-09-02T14:39:09Z)
+- **DK Metcalf** — Steelers Looking to Get the Football to DK Metcalf (2026-09-02T14:39:09Z)
   - Source: https://www.rotoballer.com/player-news/steelers-looking-to-get-the-football-to-dk-metcalf/1922016
 - **Jaxon Smith-Njigba** — Jaxon Smith-Njigba - Not concerned about run game (2026-09-02T14:31:26Z)
   - After letting Super Bowl LX MVP Kenneth Walker walk in free agency, the Seahawks will be counting on Price -- the No. 32 overall pick in April's draft -- as well as George Holani and Emanuel Wilson (hamstring) to lead the backfield while Zach Charbonnet (knee) is out for at least the first four games of the season. Walker's tough running combined with Charbonnet's skills on passing downs helped ensure that defenses couldn't devote more resources to shutting down Smith-Njigba, who blossomed into arguably the NFL's top wideout in 2025. After taking most of his snaps out of the slot in his first two seasons, Smith-Njigba thrived while transitioning into more of a perimeter role, compiling a massive 119-1,793-10 receiving line over 17 games on his way to winning Offensive Player of the Year honors. A league-high 32.6 percent target share played a part in Smith-Njigba achieving his lofty production, but even if supporting pass catchers such as Rashid Shaheed and AJ Barner are more involved in 2026, Smith-Njigba could avoid a major dip in production if the Seahawks lean more heavily on the passing game as a whole. The Seahawks ranked third in the NFL with a 49.7 percent run rate in 2025, and despite Smith-Njigba's early praise for Price, it would still be surprising if the rookie was trusted right away to handle the sort of workloads that Walker and Charbonnet previously shouldered.
-- **NEW — J.K. Dobbins** — J.K. Dobbins Ready to Go for Start of the Season (2026-09-02T14:29:08Z)
+- **J.K. Dobbins** — J.K. Dobbins Ready to Go for Start of the Season (2026-09-02T14:29:08Z)
   - Source: https://www.rotoballer.com/player-news/j-k-dobbins-ready-to-go-for-start-of-the-season/1922007
 - **J.J. McCarthy** — Vikings Expect J.J. McCarthy to be on the Week 1 Roster (2026-09-02T14:15:12Z)
   - Source: https://www.rotoballer.com/player-news/vikings-expect-j-j-mccarthy-to-be-on-the-week-1-roster/1921999
@@ -217,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/colts-expect-anthony-richardson-sr-to-remain-with-the-team-this-year/1921467
 - **Luther Burden** — Luther Burden - Practicing Tuesday (2026-09-01T18:45:29Z)
   - After suffering a groin injury during an Aug. 8 practice, Burden was expected to be sidelined for about one month, putting his availability for Week 1 in question. Since then, he missed the Bears' entire preseason slate but returned to individual drills last Wednesday, so his ability to remain on the practice field this week generally is a good sign in his recovery. Chicago takes on the Panthers on the road in the regular-season opener on Sunday, Sept. 13.
-- **Parker Washington** — Parker Washington Could Discuss New Contract During Regular Season (2026-09-01T18:44:07Z)
-  - Source: https://www.rotoballer.com/player-news/parker-washington-could-discuss-new-contract-during-regular-season/1921463

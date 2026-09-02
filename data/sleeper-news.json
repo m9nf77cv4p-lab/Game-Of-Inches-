@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-02T18:46:06Z",
+  "last_checked_at": "2026-09-02T19:12:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|5846|rotoballer|219948|1788359949000",
-    "nfl|6806|rotoballer|219947|1788359348000",
-    "nfl|9224|rotowire|636023|1788374547000"
+    "nfl|2216|rotowire|636024|1788375240000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Evans has barely practiced this summer due to various nagging injuries, but his return to the field Wednesday gives him some time to get ready for next Thursday's season opener against the Rams in Australia. The Niners are flying out Wednesday to get their body clocks acclimated to the time change. As long as Evans avoids setbacks over the next week, he should be available against Los Angeles, though it's fair to wonder how much chemistry he's built with Brock Purdy at this point.",
+      "description": "Evans (groin) returned to Wednesday, Nick Wagoner of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Evans has barely practiced this summer due to various nagging injuries, but his return to the field Wednesday gives him some time to get ready for next Thursday's season opener against the Rams in Australia. The Niners are flying out Wednesday to get their body clocks acclimated to the time change. As long as Evans avoids setbacks over the next week, he should be available against Los Angeles, though it's fair to wonder how much chemistry he's built with Brock Purdy at this point.",
+        "description": "Evans (groin) returned to Wednesday, Nick Wagoner of ESPN.com reports.",
+        "title": "Mike Evans - Returns to practice Wednesday",
+        "topic_id": "1400952577419456512"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1788375240000,
+      "source": "rotowire",
+      "source_key": "636024",
+      "story_id": "nfl|2216|rotowire|636024|1788375240000",
+      "title": "Mike Evans - Returns to practice Wednesday",
+      "url": null
+    },
     {
       "analysis": "In particular, Brown cited the scheme's efficiency while running the ball under center and also how much he's been lining up in the slot in the passing game during training camp. After earning just 58 touches as a fifth-round rookie in 2023, his usage increased to 283 touches in 2024 and 301 touches last season. In 17 regular-games in 2025, he matched or set career highs across the board, tallying 1,456 yards from scrimmage and 11 total TDs. Considering Brown was one of seven RBs with at least 50 receptions last year (69, to be exact), his stature in fantasy has never been higher.",
       "description": "Brown is looking forward to an elevated role in the Bengals offense in 2026, Landon Belote of SI.com reports.",
