@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-02T19:25:04Z",
+  "last_checked_at": "2026-09-02T19:36:03Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11632|rotowire|636026|1788376449000",
-    "nfl|13276|rotoballer|219950|1788361749000"
+    "nfl|12526|rotoballer|219951|1788362650000"
   ],
   "schema_version": 1,
   "source": {
@@ -414,6 +413,26 @@
       "story_id": "nfl|12527|rotowire|636006|1788363980000",
       "title": "Ashton Jeanty - Remains sidelined Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers wide receiver Tetairoa McMillan could see more time in the slot this season, according to Sheena Quick. Head coach Dave Canales has talked about moving McMillan around more heading into Year 2, and the Panthers used him inside at times during his rookie season as well. McMillan doesn't need much help getting involved after starting all 17 games and catching 70 passes for 1,014 yards and seven touchdowns last year. He went on to win AP Offensive Rookie of the Year. Giving him more snaps from the slot would add another wrinkle to a passing game already built heavily around him and could create some different matchups for Bryce Young to attack. McMillan will still see plenty of work outside, but Carolina appears interested in making his alignment less predictable this season.",
+      "metadata": {
+        "description": "Carolina Panthers wide receiver Tetairoa McMillan could see more time in the slot this season, according to Sheena Quick. Head coach Dave Canales has talked about moving McMillan around more heading into Year 2, and the Panthers used him inside at times during his rookie season as well. McMillan doesn't need much help getting involved after starting all 17 games and catching 70 passes for 1,014 yards and seven touchdowns last year. He went on to win AP Offensive Rookie of the Year. Giving him more snaps from the slot would add another wrinkle to a passing game already built heavily around him and could create some different matchups for Bryce Young to attack. McMillan will still see plenty of work outside, but Carolina appears interested in making his alignment less predictable this season.",
+        "title": "Tetairoa McMillan in Line for More Slot Work",
+        "topic_id": "1400960126705250304",
+        "url": "https://www.rotoballer.com/player-news/tetairoa-mcmillan-in-line-for-more-slot-work/1922046"
+      },
+      "nfl_team": "CAR",
+      "player_id": "12526",
+      "player_name": "Tetairoa McMillan",
+      "position": "WR",
+      "published": 1788362650000,
+      "source": "rotoballer",
+      "source_key": "219951",
+      "story_id": "nfl|12526|rotoballer|219951|1788362650000",
+      "title": "Tetairoa McMillan in Line for More Slot Work",
+      "url": "https://www.rotoballer.com/player-news/tetairoa-mcmillan-in-line-for-more-slot-work/1922046"
     },
     {
       "analysis": "Egbuka has missed a ton of practice time this summer and didn't see any preseason action. However, it sounds like he's nearing 100 percent ahead of the Bucs' Week 1 game against the Bengals in 11 days. Seeing him return to full practices next week would be a positive development. Egbuka is expected to be a big beneficiary of Mike Evans' departure over the offseason, as he'll have a chance to establish himself as the Bucs' clear WR1 ahead of veteran Chris Godwin.",
