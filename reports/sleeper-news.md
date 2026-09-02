@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1689**
+- Stored stories: **1690**
 - Newly captured: **1**
 
 ## Latest news
@@ -53,7 +53,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Flowers has been held out of practice since last week with what is believed to be a minor lower-body issue, but it's a positive sign that he received clearance to run. It was reported Tuesday that Flowers will practice fully next week and suit up for Week 1, and he appears to be on track to do so.
 - **Jonathon Brooks** — Jonathon Brooks - Optimism for Week 1 (2026-09-02T17:23:58Z)
   - It's unclear if Brooks' soreness is in his surgically-repaired knee or elsewhere, but he's worked off to the side with trainers at practice each of the last two days. While Brooks has drawn a substantial amount of summer hype, Chuba Hubbard (hamstring) is expected to maintain a large role in the Carolina backfield. Neither running back may be a reliable fantasy bet out of the gates against Chicago.
-- **NEW — Kyle Monangai** — Kyle Monangai Does Some Running on Wednesday (2026-09-02T17:07:09Z)
+- **NEW — Khalil Shakir** — Optimism Surrounding Khalil Shakir's Week 1 Availability (2026-09-02T17:18:09Z)
+  - Source: https://www.rotoballer.com/player-news/optimism-surrounding-khalil-shakirs-week-1-availability/1922119
+- **Kyle Monangai** — Kyle Monangai Does Some Running on Wednesday (2026-09-02T17:07:09Z)
   - Source: https://www.rotoballer.com/player-news/kyle-monangai-does-some-running-on-wednesday/1922114
 - **Woody Marks** — Woody Marks' Production Upside Could Be Limited in Houston (2026-09-02T16:58:06Z)
   - Source: https://www.rotoballer.com/player-news/woody-marks-production-upside-could-be-limited-in-houston/1922111
@@ -217,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Alvin Kamara** — Alvin Kamara (knee) misses practice Tuesday  (2026-09-01T22:30:23.722000Z)
   - It remains unclear when Kamara will be able to return. It is notable he wasn't placed on IR. 
   - Source: https://www.fantasypros.com/nfl/news/605442/alvin-kamara-knee-misses-practice-tuesday.php
-- **Oronde Gadsden** — Oronde Gadsden Falling Down Draft Boards Due to Added Competition (2026-09-01T22:24:12Z)
-  - Source: https://www.rotoballer.com/player-news/oronde-gadsden-falling-down-draft-boards-due-to-added-competition/1921612

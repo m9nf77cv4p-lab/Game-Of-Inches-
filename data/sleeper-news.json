@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-02T21:21:14Z",
+  "last_checked_at": "2026-09-02T21:33:44Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12534|rotoballer|219963|1788368829000"
+    "nfl|8134|rotoballer|219964|1788369489000"
   ],
   "schema_version": 1,
   "source": {
@@ -418,6 +418,26 @@
       "story_id": "nfl|11583|rotowire|636016|1788369838000",
       "title": "Jonathon Brooks - Optimism for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills wide receiver Khalil Shakir (undisclosed) has missed practice time recently with an undisclosed injury, but there is optimism that he will be available for the Week 1 regular-season opener on Sunday, Sept. 13, against the Houston Texans, sources told Matt Zenitz of CBS Sports. The Bills are being cautious with him. The 26-year-old former fifth-rounder from Boise State has yet to practice with the rest of the team this week, but if his injury is not serious, he should return to the field next week and be ready to go against Houston next Sunday. Going into his fifth year in the NFL, Shakir shouldn't be treated as much more than a WR4/flex with limited upside in Buffalo's offense after the Bills added DJ Moore in an offseason trade with the Chicago Bears. Shakir had career highs across the board in 2024 with 76 catches, 821 receiving yards, and four touchdowns in 15 games, but he fell back down to 72 catches, 719 yards, and four TDs in 16 games in 2025. The addition of Moore makes it unlikely that Shakir will improve on his career numbers from 2024.",
+      "metadata": {
+        "description": "Buffalo Bills wide receiver Khalil Shakir (undisclosed) has missed practice time recently with an undisclosed injury, but there is optimism that he will be available for the Week 1 regular-season opener on Sunday, Sept. 13, against the Houston Texans, sources told Matt Zenitz of CBS Sports. The Bills are being cautious with him. The 26-year-old former fifth-rounder from Boise State has yet to practice with the rest of the team this week, but if his injury is not serious, he should return to the field next week and be ready to go against Houston next Sunday. Going into his fifth year in the NFL, Shakir shouldn't be treated as much more than a WR4/flex with limited upside in Buffalo's offense after the Bills added DJ Moore in an offseason trade with the Chicago Bears. Shakir had career highs across the board in 2024 with 76 catches, 821 receiving yards, and four touchdowns in 15 games, but he fell back down to 72 catches, 719 yards, and four TDs in 16 games in 2025. The addition of Moore makes it unlikely that Shakir will improve on his career numbers from 2024.",
+        "title": "Optimism Surrounding Khalil Shakir's Week 1 Availability",
+        "topic_id": "1400989071915905024",
+        "url": "https://www.rotoballer.com/player-news/optimism-surrounding-khalil-shakirs-week-1-availability/1922119"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8134",
+      "player_name": "Khalil Shakir",
+      "position": "WR",
+      "published": 1788369489000,
+      "source": "rotoballer",
+      "source_key": "219964",
+      "story_id": "nfl|8134|rotoballer|219964|1788369489000",
+      "title": "Optimism Surrounding Khalil Shakir's Week 1 Availability",
+      "url": "https://www.rotoballer.com/player-news/optimism-surrounding-khalil-shakirs-week-1-availability/1922119"
     },
     {
       "analysis": null,
