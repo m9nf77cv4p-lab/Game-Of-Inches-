@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-02T19:46:09Z",
+  "last_checked_at": "2026-09-02T19:56:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|2216|rotoballer|219952|1788363220000"
+    "nfl|12535|rotoballer|219953|1788363969000",
+    "nfl|4035|fantasy_pros|605639|1788378933820"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Kamara remains uncertain for the start of the season next week. ",
+      "description": "Alvin Kamara remained absent from practice on Wednesday. ",
+      "metadata": {
+        "analysis": "Kamara remains uncertain for the start of the season next week. ",
+        "description": "Alvin Kamara remained absent from practice on Wednesday. ",
+        "title": "Alvin Kamara (knee) misses practice Wednesday ",
+        "topic_id": "1400966425396441088",
+        "url": "https://www.fantasypros.com/nfl/news/605639/alvin-kamara-knee-misses-practice-wednesday.php"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1788378933820,
+      "source": "fantasy_pros",
+      "source_key": "605639",
+      "story_id": "nfl|4035|fantasy_pros|605639|1788378933820",
+      "title": "Alvin Kamara (knee) misses practice Wednesday ",
+      "url": "https://www.fantasypros.com/nfl/news/605639/alvin-kamara-knee-misses-practice-wednesday.php"
+    },
     {
       "analysis": "Nabers has had a notable week, from telling Jordan Raanan of ESPN.com on Monday that he was unsure about his status for the season opener to not being seen at the open portion of Tuesday's practice. He ended up mixing into drills Tuesday after the session was closed to the media, and Harbaugh's comments Wednesday indicate Nabers was somewhere between a limited and full participant. The Giants are required to post their first Week 1 injury report next Wednesday, and how Nabers is listed there may be telling ahead of the Giants' Week 1 matchup with the Cowboys on Sunday, Sept. 13.",
       "description": "Coach John Harbaugh said Nabers (knee) participated in individual and team drills at Wednesday's practice, Connor Hughes of SNY.tv reports.",
@@ -413,6 +435,26 @@
       "story_id": "nfl|12527|rotowire|636006|1788363980000",
       "title": "Ashton Jeanty - Remains sidelined Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions wide receiver Isaac TeSlaa had a rough summer, but the team isn't backing away from him. According to Dave Birkett of the Detroit Free Press, wide receivers coach Scottie Montgomery said he is \"not too concerned\" about TeSlaa's camp and preseason. Detroit intentionally gave the second-year receiver more work against top cornerbacks, and he remains the No. 3 option behind Amon-Ra St. Brown and Jameson Williams. TeSlaa caught just 16 passes for 239 yards as a rookie, but six of those catches went for touchdowns. He also finished the year with eight receptions for 119 yards and two scores over the final three games. His preseason opener against Cincinnati was ugly, including a drop that turned into an interception, but Detroit hasn't let one uneven month change its plans. TeSlaa still has a bigger role waiting for him in Year 2.",
+      "metadata": {
+        "description": "Detroit Lions wide receiver Isaac TeSlaa had a rough summer, but the team isn't backing away from him. According to Dave Birkett of the Detroit Free Press, wide receivers coach Scottie Montgomery said he is \"not too concerned\" about TeSlaa's camp and preseason. Detroit intentionally gave the second-year receiver more work against top cornerbacks, and he remains the No. 3 option behind Amon-Ra St. Brown and Jameson Williams. TeSlaa caught just 16 passes for 239 yards as a rookie, but six of those catches went for touchdowns. He also finished the year with eight receptions for 119 yards and two scores over the final three games. His preseason opener against Cincinnati was ugly, including a drop that turned into an interception, but Detroit hasn't let one uneven month change its plans. TeSlaa still has a bigger role waiting for him in Year 2.",
+        "title": "Isaac TeSlaa Still Has Lions' Trust After Quiet Summer",
+        "topic_id": "1400965160012632064",
+        "url": "https://www.rotoballer.com/player-news/isaac-teslaa-still-has-lions-trust-after-quiet-summer/1922057"
+      },
+      "nfl_team": "DET",
+      "player_id": "12535",
+      "player_name": "Isaac TeSlaa",
+      "position": "WR",
+      "published": 1788363969000,
+      "source": "rotoballer",
+      "source_key": "219953",
+      "story_id": "nfl|12535|rotoballer|219953|1788363969000",
+      "title": "Isaac TeSlaa Still Has Lions' Trust After Quiet Summer",
+      "url": "https://www.rotoballer.com/player-news/isaac-teslaa-still-has-lions-trust-after-quiet-summer/1922057"
     },
     {
       "analysis": null,

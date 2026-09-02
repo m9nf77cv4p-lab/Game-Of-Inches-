@@ -2,11 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1671**
-- Newly captured: **1**
+- Stored stories: **1673**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Alvin Kamara** — Alvin Kamara (knee) misses practice Wednesday  (2026-09-02T19:55:33.820000Z)
+  - Kamara remains uncertain for the start of the season next week. 
+  - Source: https://www.fantasypros.com/nfl/news/605639/alvin-kamara-knee-misses-practice-wednesday.php
 - **Malik Nabers** — Malik Nabers - Handles individual, team drills Wednesday (2026-09-02T19:14:09Z)
   - Nabers has had a notable week, from telling Jordan Raanan of ESPN.com on Monday that he was unsure about his status for the season opener to not being seen at the open portion of Tuesday's practice. He ended up mixing into drills Tuesday after the session was closed to the media, and Harbaugh's comments Wednesday indicate Nabers was somewhere between a limited and full participant. The Giants are required to post their first Week 1 injury report next Wednesday, and how Nabers is listed there may be telling ahead of the Giants' Week 1 matchup with the Cowboys on Sunday, Sept. 13.
 - **Mike Evans** — Mike Evans - Returns to practice Wednesday (2026-09-02T18:54:00Z)
@@ -48,7 +51,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Touted as a standout performer during the Lions' earlier workouts of the summer, Williams authored another strong performance in a scrimmage-style practice to wrap up camp. On the Lions' opening drive alone, Williams beat cornerback Rock Ya-Sin for a 22-yard gain on the first play of the day, reeled off a 18-yard gain on a screen play to convert a third-and-12 and evaded tight coverage to make a sliding catch on a five-yard pass to the back end of the zone on a fourth-and-goal. Williams recorded another reception on a post route later in the day to convert a third-and-10, but the play was negated by a holding penalty. While No. 1 wideout Amon-Ra St. Brown remains Detroit's clear top target in 2026, Williams should still be in store for reliable weekly volume in a consolidated passing game that also includes Sam LaPorta (hip) and running back Jahmyr Gibbs. Heading into the summer, No. 3 wideout Isaac TeSlaa looked like a potential candidate to carve out a more notable role in his second season, but didn't record a reception in either of his two preseason appearances and had a number of underwhelming performances during camp practices, according to Dave Birkett of the Detroit Free Press.
 - **Ashton Jeanty** — Ashton Jeanty - Remains sidelined Wednesday (2026-09-02T15:46:20Z)
   - Jeanty worked off to the side with trainers Tuesday, as he attempts to get past an ankle injury suffered Aug. 23. It's believed to be a low-ankle sprain for the second-year running back. Jeanty has 11 more days before the Raiders open the season at home against the Dolphins on Sunday, Sept. 13. He'll likely need to practice in some fashion next week to have a chance to play, otherwise Mike Washington and Dylan Laube would be in line to carry the backfield load for Las Vegas.
-- **NEW — Mike Evans** — Mike Evans Back at Practice (2026-09-02T15:33:40Z)
+- **NEW — Isaac TeSlaa** — Isaac TeSlaa Still Has Lions' Trust After Quiet Summer (2026-09-02T15:46:09Z)
+  - Source: https://www.rotoballer.com/player-news/isaac-teslaa-still-has-lions-trust-after-quiet-summer/1922057
+- **Mike Evans** — Mike Evans Back at Practice (2026-09-02T15:33:40Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-back-at-practice/1922050
 - **Tetairoa McMillan** — Tetairoa McMillan in Line for More Slot Work (2026-09-02T15:24:10Z)
   - Source: https://www.rotoballer.com/player-news/tetairoa-mcmillan-in-line-for-more-slot-work/1922046
@@ -215,7 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Love has been tending to a high-ankle sprain since making his pro debut preseason Week 1, missing all practices and the Cardinals' final two exhibitions in the meantime. Coach Mike LaFleur told Josh Weinfuss of ESPN.com on Monday that Love is "progressing really well" toward being available Week 1. Nevertheless, Love's next step will be mixing into at least some drills to begin to put questions about his status for the regular-season opener on Sunday, Sept. 13 at the Chargers in the rearview mirror.
 - **Chris Bell** — Chris Bell Still Needs to Get into Football Shape (2026-09-01T19:29:07Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-still-needs-to-get-into-football-shape/1921504
-- **Keon Coleman** — Keon Coleman - Gets back on practice field (2026-09-01T19:23:42Z)
-  - Coleman sustained a sprained right foot/toe in the Bills' preseason opener Aug. 15, but he ditched his low walking boot as of last Thursday and now appears set to mix back into drills. The extent of his activity Tuesday isn't known, but he still has nearly two weeks to get healthy ahead of a Week 1 road matchup with the Texans on Sunday, Sept. 13.
-- **Khalil Shakir** — Khalil Shakir - Still not practicing (2026-09-01T19:11:55Z)
-  - Shakir was able to suit up for preseason Week 1 against the Panthers on Saturday, Aug. 15, hauling in both of his targets for 41 yards while playing eight offensive snaps. However, he's been out of drills since Aug. 20 and didn't suit up for the Bills' final two exhibitions due to an undisclosed injury. Buffalo opens the regular season on Sunday, Sept. 13 at Houston, giving him less than two weeks to get himself ready for game action.
