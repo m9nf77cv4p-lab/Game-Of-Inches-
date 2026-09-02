@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1690**
-- Newly captured: **1**
+- Stored stories: **1692**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -49,11 +49,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Vikings GM Nolan Teasley said Wednesday that he also expects McCarthy to remain with the team this season, whether it's as Kyler Murray's direct backup or the QB3 behind Carson Wentz. Coach Kevin O'Connell seems to want more time with the 2024 first-rounder in an effort to continue to develop the 23-year-old. Across two preseason games this summer, McCarthy completed nine of 17 passes for 115 yards.
 - **Isaac TeSlaa** — Isaac TeSlaa - Disappoints during second training camp (2026-09-02T17:48:23Z)
   - TeSlaa operated primarily as the Lions' No. 4 receiver during his 2025 rookie campaign, appearing in all 17 games and finishing with a 16-239-6 receiving line on 27 targets. Even on the limited volume of targets, the 6-foot-4, 214-pound wideout made a number of highlight-reel grabs during his first NFL season, but he hasn't shown the same ability to win on contested balls during his second training camp. He also made a couple of critical blunders in the Lions' preseason-opening loss to the Bengals, dropping a pass that led to an interception and failing to reel in another catchable target on a fourth-down pass. Montgomery noted that getting more exposure to facing No. 1 cornerbacks in both camp and the preseason has likely played a part in TeSlaa's lack of output, but the Lions apparently saw enough growth from him beyond his box-score contributions to hand him the No. 3 job and keeping just four total receivers on the 53-man roster heading into Week 1. TeSlaa will still face a difficult path to fantasy relevance as the fifth option in the Detroit passing game when all of Amon-Ra St. Brown, Jameson Williams, Jahmyr Gibbs and Sam LaPorta (hip) are available.
+- **NEW — Rashod Bateman** — Ravens Unclear When NFL Will End Its Investigation of Rashod Bateman (2026-09-02T17:37:07Z)
+  - Source: https://www.rotoballer.com/player-news/ravens-unclear-when-nfl-will-end-its-investigation-of-rashod-bateman/1922130
 - **Zay Flowers** — Zay Flowers - Runs on side Wednesday (2026-09-02T17:29:47Z)
   - Flowers has been held out of practice since last week with what is believed to be a minor lower-body issue, but it's a positive sign that he received clearance to run. It was reported Tuesday that Flowers will practice fully next week and suit up for Week 1, and he appears to be on track to do so.
+- **NEW — MarShawn Lloyd** — MarShawn Lloyd Sharing First-Team Reps at Practice (2026-09-02T17:29:08Z)
+  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-sharing-first-team-reps-at-practice/1922124
 - **Jonathon Brooks** — Jonathon Brooks - Optimism for Week 1 (2026-09-02T17:23:58Z)
   - It's unclear if Brooks' soreness is in his surgically-repaired knee or elsewhere, but he's worked off to the side with trainers at practice each of the last two days. While Brooks has drawn a substantial amount of summer hype, Chuba Hubbard (hamstring) is expected to maintain a large role in the Carolina backfield. Neither running back may be a reliable fantasy bet out of the gates against Chicago.
-- **NEW — Khalil Shakir** — Optimism Surrounding Khalil Shakir's Week 1 Availability (2026-09-02T17:18:09Z)
+- **Khalil Shakir** — Optimism Surrounding Khalil Shakir's Week 1 Availability (2026-09-02T17:18:09Z)
   - Source: https://www.rotoballer.com/player-news/optimism-surrounding-khalil-shakirs-week-1-availability/1922119
 - **Kyle Monangai** — Kyle Monangai Does Some Running on Wednesday (2026-09-02T17:07:09Z)
   - Source: https://www.rotoballer.com/player-news/kyle-monangai-does-some-running-on-wednesday/1922114
@@ -213,9 +217,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/chase-brown-expanding-his-role-bonafide-rb1-for-fantasy-football/1921621
 - **Brian Robinson** — Brian Robinson - Expected to have role at goal line (2026-09-01T22:32:54Z)
   - "He has shown a physical style in practice that cements his role as the new Tyler Allgeier," Kendall wrote about Robinson. "Bijan Robinson fantasy managers may not like how many goal-line carries he gets." Allgeier, of course, was a thorn in the side of Bijan last season, out-carrying Robinson 19 to 17 inside the 10-yard line while matching him with seven carries apiece inside the five-yard line. Allgeier also punched in four of those seven carries for touchdowns, while Bijan scored on just two of his chances. Brian, at 6-foot-1 and 225 pounds, profiles similarly to Allgeier as a short-yardage, between-the-tackles, goal-line type who can get the tough yards. It sounds like he's going to have some sort of role in those situations for Atlanta this season, which could mute some of Bijan's touchdown upside.
-- **Theo Johnson** — Theo Johnson (shoulder) practices in non-contact jersey  (2026-09-01T22:30:23.758000Z)
-  - Johnson will have the next week and a half to get fully healthy for the start of the season. 
-  - Source: https://www.fantasypros.com/nfl/news/605440/theo-johnson-shoulder-practices-non-contact-jersey.php
-- **Alvin Kamara** — Alvin Kamara (knee) misses practice Tuesday  (2026-09-01T22:30:23.722000Z)
-  - It remains unclear when Kamara will be able to return. It is notable he wasn't placed on IR. 
-  - Source: https://www.fantasypros.com/nfl/news/605442/alvin-kamara-knee-misses-practice-tuesday.php

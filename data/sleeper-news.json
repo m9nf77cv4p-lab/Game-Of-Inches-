@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-02T21:33:44Z",
+  "last_checked_at": "2026-09-02T21:45:25Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|8134|rotoballer|219964|1788369489000"
+    "nfl|11581|rotoballer|219965|1788370148000",
+    "nfl|7571|rotoballer|219966|1788370627000"
   ],
   "schema_version": 1,
   "source": {
@@ -380,6 +381,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Baltimore Ravens general manager Eric DeCosta said on Wednesday that he does not know when the NFL will finalize its investigation into wide receiver Rashod Bateman, who was arrested on family-violence charges in June, according to ESPN's Jamison Hensley. Bateman's fantasy football value was already down going into the 2026 season, and a potential suspension to begin the year makes him undraftable in 12-team single-year leagues. The 26-year-old is the WR2 on Baltimore's depth chart behind Zay Flowers, but even without a potential suspension, the possibility of impressive rookie Ja'Kobi Lane passing him on the depth chart sooner rather than later seems high. The former 27th overall pick in 2021 from Minnesota broke out for 756 receiving yards and nine touchdowns, both career highs, but he regressed to a 19-224-2 line in 13 games in 2025 with quarterback Lamar Jackson dealing with injuries mostly all year. Outside of what looks like his 2024 outlier, Bateman has not had more than 46 catches, 515 yards, or two touchdowns in his other four NFL seasons.",
+      "metadata": {
+        "description": "Baltimore Ravens general manager Eric DeCosta said on Wednesday that he does not know when the NFL will finalize its investigation into wide receiver Rashod Bateman, who was arrested on family-violence charges in June, according to ESPN's Jamison Hensley. Bateman's fantasy football value was already down going into the 2026 season, and a potential suspension to begin the year makes him undraftable in 12-team single-year leagues. The 26-year-old is the WR2 on Baltimore's depth chart behind Zay Flowers, but even without a potential suspension, the possibility of impressive rookie Ja'Kobi Lane passing him on the depth chart sooner rather than later seems high. The former 27th overall pick in 2021 from Minnesota broke out for 756 receiving yards and nine touchdowns, both career highs, but he regressed to a 19-224-2 line in 13 games in 2025 with quarterback Lamar Jackson dealing with injuries mostly all year. Outside of what looks like his 2024 outlier, Bateman has not had more than 46 catches, 515 yards, or two touchdowns in his other four NFL seasons.",
+        "title": "Ravens Unclear When NFL Will End Its Investigation of Rashod Bateman",
+        "topic_id": "1400992846101618688",
+        "url": "https://www.rotoballer.com/player-news/ravens-unclear-when-nfl-will-end-its-investigation-of-rashod-bateman/1922130"
+      },
+      "nfl_team": "BAL",
+      "player_id": "7571",
+      "player_name": "Rashod Bateman",
+      "position": "WR",
+      "published": 1788370627000,
+      "source": "rotoballer",
+      "source_key": "219966",
+      "story_id": "nfl|7571|rotoballer|219966|1788370627000",
+      "title": "Ravens Unclear When NFL Will End Its Investigation of Rashod Bateman",
+      "url": "https://www.rotoballer.com/player-news/ravens-unclear-when-nfl-will-end-its-investigation-of-rashod-bateman/1922130"
+    },
+    {
       "analysis": "Flowers has been held out of practice since last week with what is believed to be a minor lower-body issue, but it's a positive sign that he received clearance to run. It was reported Tuesday that Flowers will practice fully next week and suit up for Week 1, and he appears to be on track to do so.",
       "description": "Flowers (lower body) did not participate in Wednesday's practice, but he did run sprints on the side, Jamison Hensley of ESPN.com reports.",
       "metadata": {
@@ -398,6 +419,26 @@
       "story_id": "nfl|9997|rotowire|636017|1788370187000",
       "title": "Zay Flowers - Runs on side Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back MarShawn Lloyd and newcomer Kaleb Johnson were both working with quarterback Jordan Love in individual drills during Wednesday's practice, according to Ryan Wood of USA Today. Lloyd went from being the team's RB2 to being thrust into a potential lead-back role for Week 1 when the Packers placed Josh Jacobs on the commissioner's exempt list over the weekend. The 25-year-old has appeared in just one NFL game since the Packers took him in the third round in 2024 out of USC due to injuries, but he is primed for a significant role in the backfield with Jacobs sidelined. It is unclear exactly how Green Bay's touches will be distributed behind Love, but if Wednesday's practice is any indication, it could be a 50/50 split between Lloyd and Johnson, a third-rounder out of Iowa by the Pittsburgh Steelers last year. Lloyd's speed and athleticism have suddenly made him a mid-round target at the RB position, despite his lack of NFL experience. He is currently ranked as the No. 28 RB at RotoBaller, right behind Jaylen Warren of the Steelers.",
+      "metadata": {
+        "description": "Green Bay Packers running back MarShawn Lloyd and newcomer Kaleb Johnson were both working with quarterback Jordan Love in individual drills during Wednesday's practice, according to Ryan Wood of USA Today. Lloyd went from being the team's RB2 to being thrust into a potential lead-back role for Week 1 when the Packers placed Josh Jacobs on the commissioner's exempt list over the weekend. The 25-year-old has appeared in just one NFL game since the Packers took him in the third round in 2024 out of USC due to injuries, but he is primed for a significant role in the backfield with Jacobs sidelined. It is unclear exactly how Green Bay's touches will be distributed behind Love, but if Wednesday's practice is any indication, it could be a 50/50 split between Lloyd and Johnson, a third-rounder out of Iowa by the Pittsburgh Steelers last year. Lloyd's speed and athleticism have suddenly made him a mid-round target at the RB position, despite his lack of NFL experience. He is currently ranked as the No. 28 RB at RotoBaller, right behind Jaylen Warren of the Steelers.",
+        "title": "MarShawn Lloyd Sharing First-Team Reps at Practice",
+        "topic_id": "1400991587558764544",
+        "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-sharing-first-team-reps-at-practice/1922124"
+      },
+      "nfl_team": "GB",
+      "player_id": "11581",
+      "player_name": "MarShawn Lloyd",
+      "position": "RB",
+      "published": 1788370148000,
+      "source": "rotoballer",
+      "source_key": "219965",
+      "story_id": "nfl|11581|rotoballer|219965|1788370148000",
+      "title": "MarShawn Lloyd Sharing First-Team Reps at Practice",
+      "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-sharing-first-team-reps-at-practice/1922124"
     },
     {
       "analysis": "It's unclear if Brooks' soreness is in his surgically-repaired knee or elsewhere, but he's worked off to the side with trainers at practice each of the last two days. While Brooks has drawn a substantial amount of summer hype, Chuba Hubbard (hamstring) is expected to maintain a large role in the Carolina backfield. Neither running back may be a reliable fantasy bet out of the gates against Chicago.",
