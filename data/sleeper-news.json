@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-02T19:12:16Z",
+  "last_checked_at": "2026-09-02T19:25:04Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|2216|rotowire|636024|1788375240000"
+    "nfl|11632|rotowire|636026|1788376449000",
+    "nfl|13276|rotoballer|219950|1788361749000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Nabers has had a notable week, from telling Jordan Raanan of ESPN.com on Monday that he was unsure about his status for the season opener to not being seen at the open portion of Tuesday's practice. He ended up mixing into drills Tuesday after the session was closed to the media, and Harbaugh's comments Wednesday indicate Nabers was somewhere between a limited and full participant. The Giants are required to post their first Week 1 injury report next Wednesday, and how Nabers is listed there may be telling ahead of the Giants' Week 1 matchup with the Cowboys on Sunday, Sept. 13.",
+      "description": "Coach John Harbaugh said Nabers (knee) participated in individual and team drills at Wednesday's practice, Connor Hughes of SNY.tv reports.",
+      "metadata": {
+        "analysis": "Nabers has had a notable week, from telling Jordan Raanan of ESPN.com on Monday that he was unsure about his status for the season opener to not being seen at the open portion of Tuesday's practice. He ended up mixing into drills Tuesday after the session was closed to the media, and Harbaugh's comments Wednesday indicate Nabers was somewhere between a limited and full participant. The Giants are required to post their first Week 1 injury report next Wednesday, and how Nabers is listed there may be telling ahead of the Giants' Week 1 matchup with the Cowboys on Sunday, Sept. 13.",
+        "description": "Coach John Harbaugh said Nabers (knee) participated in individual and team drills at Wednesday's practice, Connor Hughes of SNY.tv reports.",
+        "title": "Malik Nabers - Handles individual, team drills Wednesday",
+        "topic_id": "1400957612303843328"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1788376449000,
+      "source": "rotowire",
+      "source_key": "636026",
+      "story_id": "nfl|11632|rotowire|636026|1788376449000",
+      "title": "Malik Nabers - Handles individual, team drills Wednesday",
+      "url": null
+    },
     {
       "analysis": "Evans has barely practiced this summer due to various nagging injuries, but his return to the field Wednesday gives him some time to get ready for next Thursday's season opener against the Rams in Australia. The Niners are flying out Wednesday to get their body clocks acclimated to the time change. As long as Evans avoids setbacks over the next week, he should be available against Los Angeles, though it's fair to wonder how much chemistry he's built with Brock Purdy at this point.",
       "description": "Evans (groin) returned to Wednesday, Nick Wagoner of ESPN.com reports.",
@@ -453,6 +474,26 @@
       "story_id": "nfl|8205|rotowire|636002|1788361827000",
       "title": "Isiah Pacheco - Without timetable for return",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets wide receiver Omar Cooper Jr. needed a strong finish to camp after Isaiah Williams had started to pull ahead for slot work, and the rookie gave the Jets one. Cooper caught the touchdown that finished Geno Smith's two-minute drive on Aug. 24, with Aaron Glenn saying afterward that the first-round pick was improving every day. He followed that up with four catches from Smith during the final open practice, trailing only Adonai Mitchell and Garrett Wilson among Smith's targets that afternoon. Cooper also finished the preseason with three catches for 40 yards, including a 26-yard gain against Tampa Bay. The role is not settled. New York's current depth chart still has Cooper behind Wilson, while Mitchell and Williams remain ahead of him on the other side, and RotoBaller currently ranks Cooper WR79 in half-PPR. Still, the late-camp work with Smith matters. Cooper looked a lot more involved at the end of August than he did in the middle of it, giving his redraft stock a needed push before Week 1.",
+      "metadata": {
+        "description": "New York Jets wide receiver Omar Cooper Jr. needed a strong finish to camp after Isaiah Williams had started to pull ahead for slot work, and the rookie gave the Jets one. Cooper caught the touchdown that finished Geno Smith's two-minute drive on Aug. 24, with Aaron Glenn saying afterward that the first-round pick was improving every day. He followed that up with four catches from Smith during the final open practice, trailing only Adonai Mitchell and Garrett Wilson among Smith's targets that afternoon. Cooper also finished the preseason with three catches for 40 yards, including a 26-yard gain against Tampa Bay. The role is not settled. New York's current depth chart still has Cooper behind Wilson, while Mitchell and Williams remain ahead of him on the other side, and RotoBaller currently ranks Cooper WR79 in half-PPR. Still, the late-camp work with Smith matters. Cooper looked a lot more involved at the end of August than he did in the middle of it, giving his redraft stock a needed push before Week 1.",
+        "title": "Omar Cooper Jr. Rebuilds Momentum Late in Camp",
+        "topic_id": "1400956350955057152",
+        "url": "https://www.rotoballer.com/player-news/omar-cooper-jr-rebuilds-momentum-late-in-camp/1922030"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13276",
+      "player_name": "Omar Cooper",
+      "position": "WR",
+      "published": 1788361749000,
+      "source": "rotoballer",
+      "source_key": "219950",
+      "story_id": "nfl|13276|rotoballer|219950|1788361749000",
+      "title": "Omar Cooper Jr. Rebuilds Momentum Late in Camp",
+      "url": "https://www.rotoballer.com/player-news/omar-cooper-jr-rebuilds-momentum-late-in-camp/1922030"
     },
     {
       "analysis": "Tuten should be fine by the time Week 1 against the Browns rolls around in 11 days. The second-year running back is expected to have a significant role in Jacksonville's backfield this season, but how this running back depth chart shakes out will be a situation to watch against Cleveland. All three of Tuten, Chris Rodriguez and LeQuint Allen (undisclosed) are likely to see snaps when healthy.",

@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1667**
-- Newly captured: **1**
+- Stored stories: **1669**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Mike Evans** — Mike Evans - Returns to practice Wednesday (2026-09-02T18:54:00Z)
+- **NEW — Malik Nabers** — Malik Nabers - Handles individual, team drills Wednesday (2026-09-02T19:14:09Z)
+  - Nabers has had a notable week, from telling Jordan Raanan of ESPN.com on Monday that he was unsure about his status for the season opener to not being seen at the open portion of Tuesday's practice. He ended up mixing into drills Tuesday after the session was closed to the media, and Harbaugh's comments Wednesday indicate Nabers was somewhere between a limited and full participant. The Giants are required to post their first Week 1 injury report next Wednesday, and how Nabers is listed there may be telling ahead of the Giants' Week 1 matchup with the Cowboys on Sunday, Sept. 13.
+- **Mike Evans** — Mike Evans - Returns to practice Wednesday (2026-09-02T18:54:00Z)
   - Evans has barely practiced this summer due to various nagging injuries, but his return to the field Wednesday gives him some time to get ready for next Thursday's season opener against the Rams in Australia. The Niners are flying out Wednesday to get their body clocks acclimated to the time change. As long as Evans avoids setbacks over the next week, he should be available against Los Angeles, though it's fair to wonder how much chemistry he's built with Brock Purdy at this point.
 - **Chase Brown** — Chase Brown - Primed for increased role (2026-09-02T18:42:27Z)
   - In particular, Brown cited the scheme's efficiency while running the ball under center and also how much he's been lining up in the slot in the passing game during training camp. After earning just 58 touches as a fifth-round rookie in 2023, his usage increased to 283 touches in 2024 and 301 touches last season. In 17 regular-games in 2025, he matched or set career highs across the board, tallying 1,456 yards from scrimmage and 11 total TDs. Considering Brown was one of seven RBs with at least 50 receptions last year (69, to be exact), his stature in fantasy has never been higher.
@@ -52,6 +54,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Head coach Dan Campbell elected to put the offense in a tough spot to begin the final session of training camp, but Goff didn't wilt from the challenge. He found Jameson Williams for a 22-yard gain early on the drive to give the offense some breathing room, then completed five more pass attempts before an incompletion set up a fourth-and-goal from the five-yard line. Goff evaded some pressure on fourth down and connected with a tightly-covered Williams in the back of the end zone to wrap up the drive. The 31-year-old quarterback threw for another touchdown later in the session, finding top target Amon-Ra St. Brown for a 16-yard score on the second-to-last drive of the day. While his lack of rushing ability will likely prevent him from emerging as a truly elite fantasy option in 2026, Goff is about as steady of a performer as it gets at the quarterback position, as he's turned in three straight seasons of at least 4,500 passing yards and 30 touchdown passes. The Detroit defense is still looking suspect heading into the upcoming season -- especially in the secondary -- which could result in the offense being involved in frequent shootouts that would enhance the fantasy value of Goff and the team's other skill-position players.
 - **Isiah Pacheco** — Isiah Pacheco - Without timetable for return (2026-09-02T15:10:27Z)
   - Pacheco was placed on injured reserve with his back issue and will miss at least the first four games of the regular season. It sounds like his absence could extend beyond Week 5 when he's first eligible to play. In the meantime, Jacob Saylors looks like the direct backup to Jahmyr Gibbs in the backfield. Gibbs could see some heavy snaps this season after the departure of steady veteran running mate David Montgomery over the offseason.
+- **NEW — Omar Cooper** — Omar Cooper Jr. Rebuilds Momentum Late in Camp (2026-09-02T15:09:09Z)
+  - Source: https://www.rotoballer.com/player-news/omar-cooper-jr-rebuilds-momentum-late-in-camp/1922030
 - **Bhayshul Tuten** — Bhayshul Tuten - Misses practice with illness (2026-09-02T15:07:02Z)
   - Tuten should be fine by the time Week 1 against the Browns rolls around in 11 days. The second-year running back is expected to have a significant role in Jacksonville's backfield this season, but how this running back depth chart shakes out will be a situation to watch against Cleveland. All three of Tuten, Chris Rodriguez and LeQuint Allen (undisclosed) are likely to see snaps when healthy.
 - **Amon-Ra St. Brown** — Amon-Ra St. Brown - Ends camp on high note (2026-09-02T15:00:57Z)
@@ -215,7 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/raiders-are-counting-on-mike-washington-jr-to-win-games/1921490
 - **Malik Nabers** — Malik Nabers was Involved in Most of Tuesday's Practice (2026-09-01T18:49:30Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-was-involved-in-most-of-tuesdays-practice/1921471
-- **Anthony Richardson** — Colts Expect Anthony Richardson Sr. to Remain With the Team This Year (2026-09-01T18:47:08Z)
-  - Source: https://www.rotoballer.com/player-news/colts-expect-anthony-richardson-sr-to-remain-with-the-team-this-year/1921467
-- **Luther Burden** — Luther Burden - Practicing Tuesday (2026-09-01T18:45:29Z)
-  - After suffering a groin injury during an Aug. 8 practice, Burden was expected to be sidelined for about one month, putting his availability for Week 1 in question. Since then, he missed the Bears' entire preseason slate but returned to individual drills last Wednesday, so his ability to remain on the practice field this week generally is a good sign in his recovery. Chicago takes on the Panthers on the road in the regular-season opener on Sunday, Sept. 13.
