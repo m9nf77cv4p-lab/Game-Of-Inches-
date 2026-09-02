@@ -2,18 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1597**
+- Stored stories: **1598**
 - Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Ollie Gordon** — Ollie Gordon II is Seeing His Fantasy Stock Rise (2026-09-02T00:14:07Z)
+  - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-is-seeing-his-fantasy-stock-rise/1921653
 - **Kyle Monangai** — Kyle Monangai (knee) remains week-to-week  (2026-09-02T00:05:25.623000Z)
   - Monangai has been considered week-to-week for the past couple of weeks. It appears he won't be ready to go to begin the season, which should lead to a workhorse role for D'Andre Swift to open the year. 
   - Source: https://www.fantasypros.com/nfl/news/605468/kyle-monangai-knee-remains-week-to-week.php
 - **Luther Burden** — Luther Burden III (groin) practices Tuesday  (2026-09-02T00:05:25.607000Z)
   - Burden had returned to practice last week. He is on track to be good to go for the start of the season next week. 
   - Source: https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php
-- **NEW — Chris Brooks** — Chris Brooks Has a Path to More Playing Time with Teammate Out (2026-09-01T23:47:09Z)
+- **Chris Brooks** — Chris Brooks Has a Path to More Playing Time with Teammate Out (2026-09-01T23:47:09Z)
   - Source: https://www.rotoballer.com/player-news/chris-brooks-has-a-path-to-more-playing-time-with-teammate-out/1921647
 - **Cooper Kupp** — Cooper Kupp Falling Off Draft Boards in Fantasy Football (2026-09-01T23:34:07Z)
   - Source: https://www.rotoballer.com/player-news/cooper-kupp-falling-off-draft-boards-in-fantasy-football/1921643
@@ -228,5 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jalen-hurts-adjusting-well-to-the-new-scheme/1921268
 - **Josh Downs** — Josh Downs Returns from Calf Injury and Practices on Tuesday (2026-09-01T13:37:09Z)
   - Source: https://www.rotoballer.com/player-news/josh-downs-returns-from-calf-injury-and-practices-on-tuesday/1921266
-- **Kyren Williams** — Kyren Williams in a Timeshare in Rams' Backfield? (2026-09-01T13:29:05Z)
-  - Source: https://www.rotoballer.com/player-news/kyren-williams-in-a-timeshare-in-rams-backfield/1921262

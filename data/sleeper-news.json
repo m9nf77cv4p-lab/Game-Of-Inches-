@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-02T04:03:37Z",
+  "last_checked_at": "2026-09-02T04:22:48Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|11370|rotoballer|219908|1788306429000"
+    "nfl|12495|rotoballer|219910|1788308047000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Miami Dolphins running back Ollie Gordon II (rib) continues to see his fantasy football stock rise after an encouraging training camp and preseason. Gordon rushed for 47 yards on 11 carries during the preseason, and he also caught a pass for 10 additional yards. Outside of an isolated issue where head coach Jeff Hafley called him selfish for a 15-yard penalty, Gordon was praised by members of the coaching staff for the development and improvement that he has shown. Most notably, in early August, Hafley said that Gordon had the makings of a future every-down back in the NFL. That's high praise from the head coach, especially in an era of the league where true every-down backs are hard to come by. Miami obviously has a different every-down back right now in De'Von Achane, who possesses top-five upside in fantasy football. However, it sounds like Gordon is trending up and could have a significant role in the offense this year. Given the Dolphins' anticipated reliance on running the football, it wouldn't be a total shock to see two different running backs -- Gordon and Achane -- carve out fantasy relevance. For now, though, Gordon is more of a speculative late-round target in hopes that he can eventually ascend into the RB3/flex range. All the while, he remains a very appealing handcuff who could jump to the RB2 tier if Achane were to suffer an injury.",
+      "metadata": {
+        "description": "Miami Dolphins running back Ollie Gordon II (rib) continues to see his fantasy football stock rise after an encouraging training camp and preseason. Gordon rushed for 47 yards on 11 carries during the preseason, and he also caught a pass for 10 additional yards. Outside of an isolated issue where head coach Jeff Hafley called him selfish for a 15-yard penalty, Gordon was praised by members of the coaching staff for the development and improvement that he has shown. Most notably, in early August, Hafley said that Gordon had the makings of a future every-down back in the NFL. That's high praise from the head coach, especially in an era of the league where true every-down backs are hard to come by. Miami obviously has a different every-down back right now in De'Von Achane, who possesses top-five upside in fantasy football. However, it sounds like Gordon is trending up and could have a significant role in the offense this year. Given the Dolphins' anticipated reliance on running the football, it wouldn't be a total shock to see two different running backs -- Gordon and Achane -- carve out fantasy relevance. For now, though, Gordon is more of a speculative late-round target in hopes that he can eventually ascend into the RB3/flex range. All the while, he remains a very appealing handcuff who could jump to the RB2 tier if Achane were to suffer an injury.",
+        "title": "Ollie Gordon II is Seeing His Fantasy Stock Rise",
+        "topic_id": "1400731086798991360",
+        "url": "https://www.rotoballer.com/player-news/ollie-gordon-ii-is-seeing-his-fantasy-stock-rise/1921653"
+      },
+      "nfl_team": "MIA",
+      "player_id": "12495",
+      "player_name": "Ollie Gordon",
+      "position": "RB",
+      "published": 1788308047000,
+      "source": "rotoballer",
+      "source_key": "219910",
+      "story_id": "nfl|12495|rotoballer|219910|1788308047000",
+      "title": "Ollie Gordon II is Seeing His Fantasy Stock Rise",
+      "url": "https://www.rotoballer.com/player-news/ollie-gordon-ii-is-seeing-his-fantasy-stock-rise/1921653"
+    },
     {
       "analysis": "Monangai has been considered week-to-week for the past couple of weeks. It appears he won't be ready to go to begin the season, which should lead to a workhorse role for D'Andre Swift to open the year. ",
       "description": "The Bears say Kyle Monangai remains week-to-week. ",
