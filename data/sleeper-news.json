@@ -1,15 +1,8 @@
 {
-  "last_checked_at": "2026-09-02T05:17:05Z",
+  "last_checked_at": "2026-09-02T11:26:06Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|11237|rotoballer|219680|1788037987000",
-    "nfl|11237|rotoballer|219701|1788084012000",
-    "nfl|11237|rotowire|634464|1787428530000",
-    "nfl|12048|rotoballer|219468|1787780758000",
-    "nfl|12048|rotoballer|219759|1788126518000",
-    "nfl|12048|rotoballer|219790|1788178149000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -32233,26 +32226,6 @@
       "story_id": "nfl|9509|fantasy_pros|600261|1785845719054",
       "title": "Bijan Robinson agrees to three-year extension with Falcons",
       "url": "https://www.fantasypros.com/nfl/news/600261/bijan-robinson-agrees-to-three-year-extension-with-falcons.php"
-    },
-    {
-      "analysis": null,
-      "description": "After an injury-hampered 2025 campaign, Las Vegas Raiders tight end Brock Bowers has appeared healthy through the opening days of training camp, with The Athletic's Sam Warren calling him the star of camp, while pointing out that he has made \"at least one big play in each practice, and seemingly in every team period.\" Warren also notes, \"He's had his way with every defender he's gone up against.\" Bowers broke the rookie reception record with 112 catches in 2024, and he recorded 103 yards in the opening game of his second season, but a knee injury sustained in that contest slowed him for much of the year and kept him in and out of the lineup. Now, seemingly ready to dominate again, Bowers is RotoBaller's TE1 and offers a rare positional advantage that makes him worth spending up for in 2026 drafts.",
-      "metadata": {
-        "description": "After an injury-hampered 2025 campaign, Las Vegas Raiders tight end Brock Bowers has appeared healthy through the opening days of training camp, with The Athletic's Sam Warren calling him the star of camp, while pointing out that he has made \"at least one big play in each practice, and seemingly in every team period.\" Warren also notes, \"He's had his way with every defender he's gone up against.\" Bowers broke the rookie reception record with 112 catches in 2024, and he recorded 103 yards in the opening game of his second season, but a knee injury sustained in that contest slowed him for much of the year and kept him in and out of the lineup. Now, seemingly ready to dominate again, Bowers is RotoBaller's TE1 and offers a rare positional advantage that makes him worth spending up for in 2026 drafts.",
-        "title": "Brock Bowers Has Been the Star of Raiders Training Camp",
-        "topic_id": "1390027981295980544",
-        "url": "https://www.rotoballer.com/player-news/brock-bowers-has-been-the-star-of-raiders-training-camp/1902016"
-      },
-      "nfl_team": "LV",
-      "player_id": "11604",
-      "player_name": "Brock Bowers",
-      "position": "TE",
-      "published": 1785756131000,
-      "source": "rotoballer",
-      "source_key": "217909",
-      "story_id": "nfl|11604|rotoballer|217909|1785756131000",
-      "title": "Brock Bowers Has Been the Star of Raiders Training Camp",
-      "url": "https://www.rotoballer.com/player-news/brock-bowers-has-been-the-star-of-raiders-training-camp/1902016"
     }
   ]
 }
