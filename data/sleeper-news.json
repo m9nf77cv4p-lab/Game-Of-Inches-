@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-02T17:55:37Z",
+  "last_checked_at": "2026-09-02T18:13:22Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12535|rotowire|636018|1788371303000",
-    "nfl|13269|rotoballer|219942|1788357083000"
+    "nfl|8205|rotoballer|219943|1788357546000"
   ],
   "schema_version": 1,
   "source": {
@@ -394,6 +393,26 @@
       "story_id": "nfl|9488|rotowire|635999|1788359486000",
       "title": "Jaxon Smith-Njigba - Not concerned about run game",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions general manager Brad Holmes said that he does not want to put a timeline on running back Isiah Pacheco's (back) return after the team placed him on Injured Reserve on Tuesday, according to Colton Pouncy of The Athletic. \"He's doing everything that he can to get back. He's steadily feeling better,\" Holmes said. Pacheco's fantasy stock continues to fall because of injuries after he was brought to Detroit in free agency to handle change-of-pace duties behind stud All-Pro back Jahmyr Gibbs. The 27-year-old will miss at least the first four games in 2026, and possibly more if he is not ready by then. With Pacheco now injured, Sione Vaki and Jacob Saylors will battle for RB2 scraps behind Gibbs, who is one of the few elite workhorse backs left in the NFL. Pacheco, a former seventh-rounder in 2022 from Rutgers, had 1,765 combined rushing yards and 12 touchdowns in his first two years with the Kansas City Chiefs in 2022 and 2023, adding 57 receptions for 374 yards and two more TDs as a receiver. But he played in only 20 games the last two years and finished with 772 rushing yards and two touchdowns and 31 catches for 180 yards and a score.",
+      "metadata": {
+        "description": "Detroit Lions general manager Brad Holmes said that he does not want to put a timeline on running back Isiah Pacheco's (back) return after the team placed him on Injured Reserve on Tuesday, according to Colton Pouncy of The Athletic. \"He's doing everything that he can to get back. He's steadily feeling better,\" Holmes said. Pacheco's fantasy stock continues to fall because of injuries after he was brought to Detroit in free agency to handle change-of-pace duties behind stud All-Pro back Jahmyr Gibbs. The 27-year-old will miss at least the first four games in 2026, and possibly more if he is not ready by then. With Pacheco now injured, Sione Vaki and Jacob Saylors will battle for RB2 scraps behind Gibbs, who is one of the few elite workhorse backs left in the NFL. Pacheco, a former seventh-rounder in 2022 from Rutgers, had 1,765 combined rushing yards and 12 touchdowns in his first two years with the Kansas City Chiefs in 2022 and 2023, adding 57 receptions for 374 yards and two more TDs as a receiver. But he played in only 20 games the last two years and finished with 772 rushing yards and two touchdowns and 31 catches for 180 yards and a score.",
+        "title": "No Timeline for Isiah Pacheco's Return",
+        "topic_id": "1400938733011808256",
+        "url": "https://www.rotoballer.com/player-news/no-timeline-for-isiah-pachecos-return/1921983"
+      },
+      "nfl_team": "DET",
+      "player_id": "8205",
+      "player_name": "Isiah Pacheco",
+      "position": "RB",
+      "published": 1788357546000,
+      "source": "rotoballer",
+      "source_key": "219943",
+      "story_id": "nfl|8205|rotoballer|219943|1788357546000",
+      "title": "No Timeline for Isiah Pacheco's Return",
+      "url": "https://www.rotoballer.com/player-news/no-timeline-for-isiah-pachecos-return/1921983"
     },
     {
       "analysis": "Thomas injured his shoulder in a joint practice with the Buccaneers one week earlier, but he avoided a major scare and was back on the field a few days later while sporting a no-contact jersey. The wideout was seemingly able to shed that jersey and take some contact during Tuesday's session, so he looks like he'll be in the clear for the Jaguars' Sept. 13 season opener versus the Browns.",
