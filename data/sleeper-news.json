@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-02T23:01:01Z",
+  "last_checked_at": "2026-09-02T23:16:20Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12502|rotowire|636036|1788389772000"
+    "nfl|6801|rotoballer|219972|1788376209000"
   ],
   "schema_version": 1,
   "source": {
@@ -338,6 +338,26 @@
       "story_id": "nfl|11632|rotowire|636026|1788376449000",
       "title": "Malik Nabers - Handles individual, team drills Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals wide receiver Tee Higgins (heel) did not practice with the team on Wednesday, according to Ben Baby of ESPN. Higgins also missed practice on Tuesday with a bruised heel, but head coach Zac Taylor said it was a minor issue. Barring a setback, Higgins should be ready to rock for the Week 1 regular-season opener next Sunday, Sept. 13, versus the Tampa Bay Buccaneers. Top wideout Ja'Marr Chase (knee) is also out this week with a knee injury that he suffered last week, but he, too, is expected to be fine for Week 1. Higgins' minor heel injury should not make fantasy managers hesitant to use an early-round pick on him as a low-end WR1/high-end WR2. The 27-year-old former second-rounder from Clemson would be the WR1 on many teams around the league. Even in Chase's shadow, Higgins has managed to put up high-end production while battling through injuries. As a first-time Pro Bowler in 2025, Higgins had 59 receptions for 846 yards and a career-high 11 touchdowns in 15 games. Higgins has 21 touchdown catches in the last two seasons and has averaged a healthy 14 yards per catch in his six NFL seasons.",
+      "metadata": {
+        "description": "Cincinnati Bengals wide receiver Tee Higgins (heel) did not practice with the team on Wednesday, according to Ben Baby of ESPN. Higgins also missed practice on Tuesday with a bruised heel, but head coach Zac Taylor said it was a minor issue. Barring a setback, Higgins should be ready to rock for the Week 1 regular-season opener next Sunday, Sept. 13, versus the Tampa Bay Buccaneers. Top wideout Ja'Marr Chase (knee) is also out this week with a knee injury that he suffered last week, but he, too, is expected to be fine for Week 1. Higgins' minor heel injury should not make fantasy managers hesitant to use an early-round pick on him as a low-end WR1/high-end WR2. The 27-year-old former second-rounder from Clemson would be the WR1 on many teams around the league. Even in Chase's shadow, Higgins has managed to put up high-end production while battling through injuries. As a first-time Pro Bowler in 2025, Higgins had 59 receptions for 846 yards and a career-high 11 touchdowns in 15 games. Higgins has 21 touchdown catches in the last two seasons and has averaged a healthy 14 yards per catch in his six NFL seasons.",
+        "title": "Tee Higgins Misses Practice on Wednesday",
+        "topic_id": "1401016757438681088",
+        "url": "https://www.rotoballer.com/player-news/tee-higgins-misses-practice-on-wednesday/1922162"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6801",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "published": 1788376209000,
+      "source": "rotoballer",
+      "source_key": "219972",
+      "story_id": "nfl|6801|rotoballer|219972|1788376209000",
+      "title": "Tee Higgins Misses Practice on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/tee-higgins-misses-practice-on-wednesday/1922162"
     },
     {
       "analysis": "Evans has barely practiced this summer due to various nagging injuries, but his return to the field Wednesday gives him some time to get ready for next Thursday's season opener against the Rams in Australia. The Niners are flying out Wednesday to get their body clocks acclimated to the time change. As long as Evans avoids setbacks over the next week, he should be available against Los Angeles, though it's fair to wonder how much chemistry he's built with Brock Purdy at this point.",

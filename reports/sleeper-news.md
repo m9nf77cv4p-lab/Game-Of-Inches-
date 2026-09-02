@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1699**
+- Stored stories: **1700**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Gunnar Helm** — Gunnar Helm - Ends preseason with one catch (2026-09-02T22:56:12Z)
+- **Gunnar Helm** — Gunnar Helm - Ends preseason with one catch (2026-09-02T22:56:12Z)
   - Helm joined the rest of the healthy starters to kick off preseason Weeks 1 and 2, logging 26 offensive snaps between the two contests. He then was rested in Saturday's exhibition finale against the Bears along with QB Cam Ward and company. A fourth-round pick in the 2025 Draft, Helm hauled in 44 of 55 targets for 357 yards and two touchdowns in 16 regular-season games as a rookie, and he'll be looking to build upon those numbers in Year 2 under new offensive coordinator Brian Daboll.
 - **Marvin Harrison** — Marvin Harrison - Listed on first-team offense (2026-09-02T22:49:02Z)
   - This comes as no surprise considering Harrison's standing as the fourth overall pick in the 2024 Draft and his average of 6.5 targets per game through two seasons in the NFL. However, he has yet to take off, even with QB Jacoby Brissett under center for most of the 2025 campaign, as heel and foot injuries contained him to only three appearances in the final eight contests. Harrison has had a clean bill of health since late July, and with a full training camp working with Brissett and fellow WR Michael Wilson, the trio is set to hit the ground running Week 1 under new coach Mike LaFleur.
@@ -45,6 +45,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605639/alvin-kamara-knee-misses-practice-wednesday.php
 - **Malik Nabers** — Malik Nabers - Handles individual, team drills Wednesday (2026-09-02T19:14:09Z)
   - Nabers has had a notable week, from telling Jordan Raanan of ESPN.com on Monday that he was unsure about his status for the season opener to not being seen at the open portion of Tuesday's practice. He ended up mixing into drills Tuesday after the session was closed to the media, and Harbaugh's comments Wednesday indicate Nabers was somewhere between a limited and full participant. The Giants are required to post their first Week 1 injury report next Wednesday, and how Nabers is listed there may be telling ahead of the Giants' Week 1 matchup with the Cowboys on Sunday, Sept. 13.
+- **NEW — Tee Higgins** — Tee Higgins Misses Practice on Wednesday (2026-09-02T19:10:09Z)
+  - Source: https://www.rotoballer.com/player-news/tee-higgins-misses-practice-on-wednesday/1922162
 - **Mike Evans** — Mike Evans - Returns to practice Wednesday (2026-09-02T18:54:00Z)
   - Evans has barely practiced this summer due to various nagging injuries, but his return to the field Wednesday gives him some time to get ready for next Thursday's season opener against the Rams in Australia. The Niners are flying out Wednesday to get their body clocks acclimated to the time change. As long as Evans avoids setbacks over the next week, he should be available against Los Angeles, though it's fair to wonder how much chemistry he's built with Brock Purdy at this point.
 - **Ja'Marr Chase** — Ja'Marr Chase Not in Uniform on Wednesday (2026-09-02T18:44:05Z)
@@ -214,5 +216,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Luther Burden** — Luther Burden III (groin) practices Tuesday  (2026-09-02T00:05:25.607000Z)
   - Burden had returned to practice last week. He is on track to be good to go for the start of the season next week. 
   - Source: https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php
-- **Chris Brooks** — Chris Brooks Has a Path to More Playing Time with Teammate Out (2026-09-01T23:47:09Z)
-  - Source: https://www.rotoballer.com/player-news/chris-brooks-has-a-path-to-more-playing-time-with-teammate-out/1921647
