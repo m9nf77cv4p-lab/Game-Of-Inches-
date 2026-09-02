@@ -1,13 +1,11 @@
 {
-  "last_checked_at": "2026-09-02T15:24:30Z",
+  "last_checked_at": "2026-09-02T15:40:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12490|rotowire|636001|1788361622000",
-    "nfl|12508|rotoballer|219922|1788346687000",
-    "nfl|7547|rotowire|636000|1788361257000",
-    "nfl|8148|rotoballer|219923|1788347532000",
-    "nfl|8205|rotowire|636002|1788361827000"
+    "nfl|11581|rotoballer|219924|1788348187000",
+    "nfl|12514|rotowire|636005|1788362511000",
+    "nfl|3163|rotowire|636004|1788362408000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +15,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Egbuka has missed a ton of practice time this summer and didn't see any preseason action. However, it sounds like he's nearing 100 percent ahead of the Bucs' Week 1 game against the Bengals in 11 days. Seeing him return to full practices next week would be a positive development. Egbuka is expected to be a big beneficiary of Mike Evans' departure over the offseason, as he'll have a chance to establish himself as the Bucs' clear WR1 ahead of veteran Chris Godwin.",
+      "description": "Egbuka (toe) worked on a side field with trainers Wednesday and ran without any obvious issues from the injury, Rick Stroud of the Tampa Bay Times reports.",
+      "metadata": {
+        "analysis": "Egbuka has missed a ton of practice time this summer and didn't see any preseason action. However, it sounds like he's nearing 100 percent ahead of the Bucs' Week 1 game against the Bengals in 11 days. Seeing him return to full practices next week would be a positive development. Egbuka is expected to be a big beneficiary of Mike Evans' departure over the offseason, as he'll have a chance to establish himself as the Bucs' clear WR1 ahead of veteran Chris Godwin.",
+        "description": "Egbuka (toe) worked on a side field with trainers Wednesday and ran without any obvious issues from the injury, Rick Stroud of the Tampa Bay Times reports.",
+        "title": "Emeka Egbuka - Works on side field Wednesday",
+        "topic_id": "1400898463599689728"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1788362511000,
+      "source": "rotowire",
+      "source_key": "636005",
+      "story_id": "nfl|12514|rotowire|636005|1788362511000",
+      "title": "Emeka Egbuka - Works on side field Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "Head coach Dan Campbell elected to put the offense in a tough spot to begin the final session of training camp, but Goff didn't wilt from the challenge. He found Jameson Williams for a 22-yard gain early on the drive to give the offense some breathing room, then completed five more pass attempts before an incompletion set up a fourth-and-goal from the five-yard line. Goff evaded some pressure on fourth down and connected with a tightly-covered Williams in the back of the end zone to wrap up the drive. The 31-year-old quarterback threw for another touchdown later in the session, finding top target Amon-Ra St. Brown for a 16-yard score on the second-to-last drive of the day. While his lack of rushing ability will likely prevent him from emerging as a truly elite fantasy option in 2026, Goff is about as steady of a performer as it gets at the quarterback position, as he's turned in three straight seasons of at least 4,500 passing yards and 30 touchdown passes. The Detroit defense is still looking suspect heading into the upcoming season -- especially in the secondary -- which could result in the offense being involved in frequent shootouts that would enhance the fantasy value of Goff and the team's other skill-position players.",
+      "description": "Goff closed out training camp on a high note Thursday, notably leading the Lions on a 99-yard touchdown drive during the first series of practice, Tim Twentyman of the team's official site reports.",
+      "metadata": {
+        "analysis": "Head coach Dan Campbell elected to put the offense in a tough spot to begin the final session of training camp, but Goff didn't wilt from the challenge. He found Jameson Williams for a 22-yard gain early on the drive to give the offense some breathing room, then completed five more pass attempts before an incompletion set up a fourth-and-goal from the five-yard line. Goff evaded some pressure on fourth down and connected with a tightly-covered Williams in the back of the end zone to wrap up the drive. The 31-year-old quarterback threw for another touchdown later in the session, finding top target Amon-Ra St. Brown for a 16-yard score on the second-to-last drive of the day. While his lack of rushing ability will likely prevent him from emerging as a truly elite fantasy option in 2026, Goff is about as steady of a performer as it gets at the quarterback position, as he's turned in three straight seasons of at least 4,500 passing yards and 30 touchdown passes. The Detroit defense is still looking suspect heading into the upcoming season -- especially in the secondary -- which could result in the offense being involved in frequent shootouts that would enhance the fantasy value of Goff and the team's other skill-position players.",
+        "description": "Goff closed out training camp on a high note Thursday, notably leading the Lions on a 99-yard touchdown drive during the first series of practice, Tim Twentyman of the team's official site reports.",
+        "title": "Jared Goff - Guides 99-yard drive in final camp practice",
+        "topic_id": "1400898463587106816"
+      },
+      "nfl_team": "DET",
+      "player_id": "3163",
+      "player_name": "Jared Goff",
+      "position": "QB",
+      "published": 1788362408000,
+      "source": "rotowire",
+      "source_key": "636004",
+      "story_id": "nfl|3163|rotowire|636004|1788362408000",
+      "title": "Jared Goff - Guides 99-yard drive in final camp practice",
+      "url": null
+    },
     {
       "analysis": "Pacheco was placed on injured reserve with his back issue and will miss at least the first four games of the regular season. It sounds like his absence could extend beyond Week 5 when he's first eligible to play. In the meantime, Jacob Saylors looks like the direct backup to Jahmyr Gibbs in the backfield. Gibbs could see some heavy snaps this season after the departure of steady veteran running mate David Montgomery over the offseason.",
       "description": "Lions GM Brad Holmes said Wednesday that Pacheco (back) doesn't have a clear timetable for return, Colton Pouncy of The Athletic reports.",
@@ -179,6 +217,26 @@
     },
     {
       "analysis": null,
+      "description": "Green Bay Packers running back MarShawn Lloyd could get the first shot at the starting job while Josh Jacobs is on the Commissioner's Exempt List. ESPN's Dan Graziano reports that the coaching staff has liked what it has seen from Lloyd throughout the offseason and training camp, and believes he could run with the opportunity. Lloyd has barely had a chance to show anything in the regular season, playing just one game across his first two years because of injuries. He had six carries for 15 yards in that 2024 appearance and did not play at all in 2025. This summer has gone much better. Lloyd stayed healthy through camp, mixed in with the first-team offense and had 10 carries for 30 yards with two catches in the preseason, including an 11-yard touchdown against Denver. Green Bay also has Chris Brooks and recently acquired Kaleb Johnson, so the job is not automatically Lloyd's. But if he stays healthy and produces, ESPN's report makes it clear he has a real chance to claim the backfield.",
+      "metadata": {
+        "description": "Green Bay Packers running back MarShawn Lloyd could get the first shot at the starting job while Josh Jacobs is on the Commissioner's Exempt List. ESPN's Dan Graziano reports that the coaching staff has liked what it has seen from Lloyd throughout the offseason and training camp, and believes he could run with the opportunity. Lloyd has barely had a chance to show anything in the regular season, playing just one game across his first two years because of injuries. He had six carries for 15 yards in that 2024 appearance and did not play at all in 2025. This summer has gone much better. Lloyd stayed healthy through camp, mixed in with the first-team offense and had 10 carries for 30 yards with two catches in the preseason, including an 11-yard touchdown against Denver. Green Bay also has Chris Brooks and recently acquired Kaleb Johnson, so the job is not automatically Lloyd's. But if he stays healthy and produces, ESPN's report makes it clear he has a real chance to claim the backfield.",
+        "title": "MarShawn Lloyd Gets First Crack at Green Bay Backfield",
+        "topic_id": "1400899720829751296",
+        "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-gets-first-crack-at-green-bay-backfield/1921873"
+      },
+      "nfl_team": "GB",
+      "player_id": "11581",
+      "player_name": "MarShawn Lloyd",
+      "position": "RB",
+      "published": 1788348187000,
+      "source": "rotoballer",
+      "source_key": "219924",
+      "story_id": "nfl|11581|rotoballer|219924|1788348187000",
+      "title": "MarShawn Lloyd Gets First Crack at Green Bay Backfield",
+      "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-gets-first-crack-at-green-bay-backfield/1921873"
+    },
+    {
+      "analysis": null,
       "description": "Detroit Lions wide receiver Jameson Williams could emerge as the team's leading receiver this season, according to Dan Graziano of ESPN. Williams is coming off another big year, catching 65 passes for 1,117 yards and seven touchdowns on 102 targets in 2025. He averaged 17.2 yards per catch and topped 1,000 yards for the second straight season. The Lions have spent the past few years asking Williams to become more than a downfield threat, and there were signs of that growth in camp. Jared Goff recently praised the nuance Williams has added to his route running, while new offensive coordinator Drew Petzing has challenged him to play more physically. The obvious obstacle is Amon-Ra St. Brown, who drew 172 targets and finished with 1,401 receiving yards last year. Williams also led the NFL with 12 drops. Still, if Petzing can get him involved more consistently at every level of the field, a career year is firmly in play.",
       "metadata": {
         "description": "Detroit Lions wide receiver Jameson Williams could emerge as the team's leading receiver this season, according to Dan Graziano of ESPN. Williams is coming off another big year, catching 65 passes for 1,117 yards and seven touchdowns on 102 targets in 2025. He averaged 17.2 yards per catch and topped 1,000 yards for the second straight season. The Lions have spent the past few years asking Williams to become more than a downfield threat, and there were signs of that growth in camp. Jared Goff recently praised the nuance Williams has added to his route running, while new offensive coordinator Drew Petzing has challenged him to play more physically. The obvious obstacle is Amon-Ra St. Brown, who drew 172 targets and finished with 1,401 receiving yards last year. Williams also led the NFL with 12 drops. Still, if Petzing can get him involved more consistently at every level of the field, a career year is firmly in play.",
@@ -239,9 +297,9 @@
     },
     {
       "analysis": null,
-      "description": "Kansas City Chiefs wide receiver has quickly earned the trust of his quarterbacks, including Patrick Mahomes. \"Even when there were a couple routes he ran the wrong thing and lined up the wrong way in the game, the quarterback still threw the ball to him,\" head coach Andy Reid told Jesse Newell of The Athletic. \"You go, 'All right. There's a certain trust there.' And he'll work through all the other stuff.\" Mahomes recently dubbed Allen one of the team's biggest camp standouts, and Newell noted that the team's quarterbacks have all been very comfortable throwing him the ball even when he's covered. That level of trust should go a long way in the regular season. Even though Allen is set to open the year behind Rashee Rice and Xavier Worthy on the depth chart, he could work his way onto the fantasy radar by midseason, especially if Rice or Worthy get injured. Having Mahomes throwing him the football should only boost his stock in redraft and dynasty formats. Allen currently has an ADP of 186.5, which corresponds to the 16th round of drafts and makes him the 68th receiver off the board.",
+      "description": "Kansas City Chiefs rookie wide receiver Cyrus Allen has quickly earned the trust of his quarterbacks, including Patrick Mahomes. \"Even when there were a couple routes he ran the wrong thing and lined up the wrong way in the game, the quarterback still threw the ball to him,\" head coach Andy Reid told Jesse Newell of The Athletic. \"You go, 'All right. There's a certain trust there.' And he'll work through all the other stuff.\" Mahomes recently dubbed Allen one of the team's biggest camp standouts, and Newell noted that the team's quarterbacks have all been very comfortable throwing him the ball even when he's covered. That level of trust should go a long way in the regular season. Even though Allen is set to open the year behind Rashee Rice and Xavier Worthy on the depth chart, he could work his way onto the fantasy radar by midseason, especially if Rice or Worthy get injured. Having Mahomes throwing him the football should only boost his stock in redraft and dynasty formats. Allen currently has an ADP of 186.5, which corresponds to the 16th round of drafts and makes him the 68th receiver off the board.",
       "metadata": {
-        "description": "Kansas City Chiefs wide receiver has quickly earned the trust of his quarterbacks, including Patrick Mahomes. \"Even when there were a couple routes he ran the wrong thing and lined up the wrong way in the game, the quarterback still threw the ball to him,\" head coach Andy Reid told Jesse Newell of The Athletic. \"You go, 'All right. There's a certain trust there.' And he'll work through all the other stuff.\" Mahomes recently dubbed Allen one of the team's biggest camp standouts, and Newell noted that the team's quarterbacks have all been very comfortable throwing him the ball even when he's covered. That level of trust should go a long way in the regular season. Even though Allen is set to open the year behind Rashee Rice and Xavier Worthy on the depth chart, he could work his way onto the fantasy radar by midseason, especially if Rice or Worthy get injured. Having Mahomes throwing him the football should only boost his stock in redraft and dynasty formats. Allen currently has an ADP of 186.5, which corresponds to the 16th round of drafts and makes him the 68th receiver off the board.",
+        "description": "Kansas City Chiefs rookie wide receiver Cyrus Allen has quickly earned the trust of his quarterbacks, including Patrick Mahomes. \"Even when there were a couple routes he ran the wrong thing and lined up the wrong way in the game, the quarterback still threw the ball to him,\" head coach Andy Reid told Jesse Newell of The Athletic. \"You go, 'All right. There's a certain trust there.' And he'll work through all the other stuff.\" Mahomes recently dubbed Allen one of the team's biggest camp standouts, and Newell noted that the team's quarterbacks have all been very comfortable throwing him the ball even when he's covered. That level of trust should go a long way in the regular season. Even though Allen is set to open the year behind Rashee Rice and Xavier Worthy on the depth chart, he could work his way onto the fantasy radar by midseason, especially if Rice or Worthy get injured. Having Mahomes throwing him the football should only boost his stock in redraft and dynasty formats. Allen currently has an ADP of 186.5, which corresponds to the 16th round of drafts and makes him the 68th receiver off the board.",
         "title": "Cyrus Allen Earning Plenty of Trust From Quarterback",
         "topic_id": "1400889652621094912",
         "url": "https://www.rotoballer.com/player-news/cyrus-allen-earning-plenty-of-trust-from-quarterback/1921828"

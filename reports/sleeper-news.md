@@ -2,16 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1623**
-- Newly captured: **5**
+- Stored stories: **1626**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Isiah Pacheco** — Isiah Pacheco - Without timetable for return (2026-09-02T15:10:27Z)
+- **NEW — Emeka Egbuka** — Emeka Egbuka - Works on side field Wednesday (2026-09-02T15:21:51Z)
+  - Egbuka has missed a ton of practice time this summer and didn't see any preseason action. However, it sounds like he's nearing 100 percent ahead of the Bucs' Week 1 game against the Bengals in 11 days. Seeing him return to full practices next week would be a positive development. Egbuka is expected to be a big beneficiary of Mike Evans' departure over the offseason, as he'll have a chance to establish himself as the Bucs' clear WR1 ahead of veteran Chris Godwin.
+- **NEW — Jared Goff** — Jared Goff - Guides 99-yard drive in final camp practice (2026-09-02T15:20:08Z)
+  - Head coach Dan Campbell elected to put the offense in a tough spot to begin the final session of training camp, but Goff didn't wilt from the challenge. He found Jameson Williams for a 22-yard gain early on the drive to give the offense some breathing room, then completed five more pass attempts before an incompletion set up a fourth-and-goal from the five-yard line. Goff evaded some pressure on fourth down and connected with a tightly-covered Williams in the back of the end zone to wrap up the drive. The 31-year-old quarterback threw for another touchdown later in the session, finding top target Amon-Ra St. Brown for a 16-yard score on the second-to-last drive of the day. While his lack of rushing ability will likely prevent him from emerging as a truly elite fantasy option in 2026, Goff is about as steady of a performer as it gets at the quarterback position, as he's turned in three straight seasons of at least 4,500 passing yards and 30 touchdown passes. The Detroit defense is still looking suspect heading into the upcoming season -- especially in the secondary -- which could result in the offense being involved in frequent shootouts that would enhance the fantasy value of Goff and the team's other skill-position players.
+- **Isiah Pacheco** — Isiah Pacheco - Without timetable for return (2026-09-02T15:10:27Z)
   - Pacheco was placed on injured reserve with his back issue and will miss at least the first four games of the regular season. It sounds like his absence could extend beyond Week 5 when he's first eligible to play. In the meantime, Jacob Saylors looks like the direct backup to Jahmyr Gibbs in the backfield. Gibbs could see some heavy snaps this season after the departure of steady veteran running mate David Montgomery over the offseason.
-- **NEW — Bhayshul Tuten** — Bhayshul Tuten - Misses practice with illness (2026-09-02T15:07:02Z)
+- **Bhayshul Tuten** — Bhayshul Tuten - Misses practice with illness (2026-09-02T15:07:02Z)
   - Tuten should be fine by the time Week 1 against the Browns rolls around in 11 days. The second-year running back is expected to have a significant role in Jacksonville's backfield this season, but how this running back depth chart shakes out will be a situation to watch against Cleveland. All three of Tuten, Chris Rodriguez and LeQuint Allen (undisclosed) are likely to see snaps when healthy.
-- **NEW — Amon-Ra St. Brown** — Amon-Ra St. Brown - Ends camp on high note (2026-09-02T15:00:57Z)
+- **Amon-Ra St. Brown** — Amon-Ra St. Brown - Ends camp on high note (2026-09-02T15:00:57Z)
   - St. Brown was particularly impressive on the Lions' second-to-last series of the day, when he had gains of 14, seven and four yards on receptions before beating cornerback Rock Ya-Sin on a post route for a 16-yard score to end the drive. He nearly added another touchdown to his ledger on the final drive, as he corralled a jump ball over Ya-Sin in the end zone before he was ruled to have bobbled the ball prior to stepping out of bounds. The performance marked an impressive end to what Tim Twentyman of the Lions' official site labeled a "really strong camp" for St. Brown, who is once again ticketed for a high-volume role in the Detroit passing game and profiles as a strong first-round pick in fantasy drafts.
 - **Jaxon Smith-Njigba** — Jaxon Smith-Njigba - Not concerned about run game (2026-09-02T14:31:26Z)
   - After letting Super Bowl LX MVP Kenneth Walker walk in free agency, the Seahawks will be counting on Price -- the No. 32 overall pick in April's draft -- as well as George Holani and Emanuel Wilson (hamstring) to lead the backfield while Zach Charbonnet (knee) is out for at least the first four games of the season. Walker's tough running combined with Charbonnet's skills on passing downs helped ensure that defenses couldn't devote more resources to shutting down Smith-Njigba, who blossomed into arguably the NFL's top wideout in 2025. After taking most of his snaps out of the slot in his first two seasons, Smith-Njigba thrived while transitioning into more of a perimeter role, compiling a massive 119-1,793-10 receiving line over 17 games on his way to winning Offensive Player of the Year honors. A league-high 32.6 percent target share played a part in Smith-Njigba achieving his lofty production, but even if supporting pass catchers such as Rashid Shaheed and AJ Barner are more involved in 2026, Smith-Njigba could avoid a major dip in production if the Seahawks lean more heavily on the passing game as a whole. The Seahawks ranked third in the NFL with a 49.7 percent run rate in 2025, and despite Smith-Njigba's early praise for Price, it would still be surprising if the rookie was trusted right away to handle the sort of workloads that Walker and Charbonnet previously shouldered.
@@ -23,9 +27,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.
 - **George Kittle** — George Kittle - Traveling to Australia with team (2026-09-02T12:52:12Z)
   - A final call on Kittle's availability for Week 1 isn't expected to be made until the 49ers arrive in Australia, but his involvement in practice this week and presence on the road trip suggest that he's on track to play. Kittle -- who tore his right Achilles tendon Jan. 11 and underwent surgery three days later -- could have his snaps limited to some degree if he's cleared to play in the season opener.
-- **NEW — Jameson Williams** — Jameson Williams Could Lead Lions in Receiving (2026-09-02T11:12:12Z)
+- **NEW — MarShawn Lloyd** — MarShawn Lloyd Gets First Crack at Green Bay Backfield (2026-09-02T11:23:07Z)
+  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-gets-first-crack-at-green-bay-backfield/1921873
+- **Jameson Williams** — Jameson Williams Could Lead Lions in Receiving (2026-09-02T11:12:12Z)
   - Source: https://www.rotoballer.com/player-news/jameson-williams-could-lead-lions-in-receiving/1921861
-- **NEW — Jaxson Dart** — Jaxson Dart Feels "In Command" for Week 1 vs. Cowboys (2026-09-02T10:58:07Z)
+- **Jaxson Dart** — Jaxson Dart Feels "In Command" for Week 1 vs. Cowboys (2026-09-02T10:58:07Z)
   - Source: https://www.rotoballer.com/player-news/jaxson-dart-feels-in-command-for-week-1-vs-cowboys/1921838
 - **Jalen Hurts** — Eagles Don't View 2026 as a Make-or-Break Year for Jalen Hurts (2026-09-02T10:49:06Z)
   - Source: https://www.rotoballer.com/player-news/eagles-dont-view-2026-as-a-make-or-break-year-for-jalen-hurts/1921832
@@ -224,9 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The veteran has been slowed by an adductor injury over the last week. The team will continue to be cautious with Evans as they prepare for the season opener on September 10  in Australia. That Evans won't practice this week is notable, given the already tight timeline and the upcoming international travel.
 - **Chuba Hubbard** — Chuba Hubbard - Returns to practice Tuesday (2026-09-01T15:56:14Z)
   - Hubbard's level of participation in practice will be monitored, but he's on the field with his helmet as the session gets underway. The veteran has been hampered by a hamstring injury sustained in mid-August, but has been progressing well. His participation on Tuesday is a good sign that he's trending in the right direction toward being ready for the start of the season.
-- **Khalil Shakir** — Khalil Shakir Still Not Practicing (2026-09-01T15:53:42Z)
-  - Source: https://www.rotoballer.com/player-news/khalil-shakir-still-not-practicing/1921365
-- **Emmett Johnson** — Emmett Johnson - Well-positioned for role (2026-09-01T15:51:05Z)
-  - The Chiefs had final roster cutdowns Sunday and waived veteran Emari Demercado, clearing a path to a role for Johnson. The rookie out of Nebraska impressed throughout training camp and the preseason. Kansas City also has Brashard Smith on the roster, but Johnson may be the handcuff to target for fantasy managers.
-- **Carnell Tate** — Carnell Tate Working Through Some Stiffness (2026-09-01T15:39:48Z)
-  - Source: https://www.rotoballer.com/player-news/carnell-tate-working-through-some-stiffness/1921350
