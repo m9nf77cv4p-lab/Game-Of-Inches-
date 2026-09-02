@@ -1,15 +1,11 @@
 {
-  "last_checked_at": "2026-09-02T18:31:52Z",
+  "last_checked_at": "2026-09-02T18:46:06Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11565|rotoballer|219946|1788358512000",
-    "nfl|11565|rotowire|636019|1788372555000",
-    "nfl|11586|rotoballer|219945|1788357966000",
-    "nfl|12526|rotowire|636022|1788373220000",
-    "nfl|6794|rotowire|636020|1788372762000",
-    "nfl|8137|rotowire|636021|1788373097000",
-    "nfl|9997|rotoballer|219944|1788358148000"
+    "nfl|5846|rotoballer|219948|1788359949000",
+    "nfl|6806|rotoballer|219947|1788359348000",
+    "nfl|9224|rotowire|636023|1788374547000"
   ],
   "schema_version": 1,
   "source": {
@@ -19,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "In particular, Brown cited the scheme's efficiency while running the ball under center and also how much he's been lining up in the slot in the passing game during training camp. After earning just 58 touches as a fifth-round rookie in 2023, his usage increased to 283 touches in 2024 and 301 touches last season. In 17 regular-games in 2025, he matched or set career highs across the board, tallying 1,456 yards from scrimmage and 11 total TDs. Considering Brown was one of seven RBs with at least 50 receptions last year (69, to be exact), his stature in fantasy has never been higher.",
+      "description": "Brown is looking forward to an elevated role in the Bengals offense in 2026, Landon Belote of SI.com reports.",
+      "metadata": {
+        "analysis": "In particular, Brown cited the scheme's efficiency while running the ball under center and also how much he's been lining up in the slot in the passing game during training camp. After earning just 58 touches as a fifth-round rookie in 2023, his usage increased to 283 touches in 2024 and 301 touches last season. In 17 regular-games in 2025, he matched or set career highs across the board, tallying 1,456 yards from scrimmage and 11 total TDs. Considering Brown was one of seven RBs with at least 50 receptions last year (69, to be exact), his stature in fantasy has never been higher.",
+        "description": "Brown is looking forward to an elevated role in the Bengals offense in 2026, Landon Belote of SI.com reports.",
+        "title": "Chase Brown - Primed for increased role",
+        "topic_id": "1400948802411565056"
+      },
+      "nfl_team": "CIN",
+      "player_id": "9224",
+      "player_name": "Chase Brown",
+      "position": "RB",
+      "published": 1788374547000,
+      "source": "rotowire",
+      "source_key": "636023",
+      "story_id": "nfl|9224|rotowire|636023|1788374547000",
+      "title": "Chase Brown - Primed for increased role",
+      "url": null
+    },
     {
       "analysis": "If preseason usage means anything, it would seem Canales was putting the plan into action this summer. After playing just 15.3 percent of his regular-season offensive snaps out of the slot as a rookie, McMillan was in the slot on nine of 22 snaps (40.9 percent) across two preseason games. Moving to the slot more would give the 6-foot-5 McMillan significant size and speed advantages inside and allow for more easy \"layup\" style catches to get the ball in his hands quicker. The 2025 Offensive Rookie of the Year figures to be the center of Carolina's offense this season after posting 70 catches for 1,014 yards and seven scores across 17 regular-season contests last season.",
       "description": "Coach Dave Canales suggested Wednesday that McMillan will work out of the slot more this season, Sheena Quick of Fox Sports Radio 1340 reports.",
@@ -461,6 +477,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Pittsburgh Steelers veteran quarterback Aaron Rodgers is ready to get the football to wide receiver DK Metcalf as much as possible in 2026, according to Chris Adamski of the Pittsburgh Tribune-Review. \"We gotta get the ball to DK. He's our No. 1 for a reason,\" Rodgers said on Wednesday. The 28-year-old veteran receiver has missed the last several weeks of training camp with an undisclosed injury, but Metcalf is expected to be fine for Week 1 against the Atlanta Falcons, and he could be targeted heavily right out of the gates. In his first year in the Steel City in 2025, Metcalf caught 59 of his 99 targets for 850 yards and six touchdowns in 15 regular-season starts. He is looking to bounce back in 2026, but the addition of veteran wideout Michael Pittman Jr. could pose a roadblock. The two-time All-Star should remain the focal point of the Steelers' passing game, but with the aging Rodgers running the show for one more year in an offense that could lean on the ground game, fantasy managers may want to temper expectations for Metcalf as more of a WR3/flex.",
+      "metadata": {
+        "description": "Pittsburgh Steelers veteran quarterback Aaron Rodgers is ready to get the football to wide receiver DK Metcalf as much as possible in 2026, according to Chris Adamski of the Pittsburgh Tribune-Review. \"We gotta get the ball to DK. He's our No. 1 for a reason,\" Rodgers said on Wednesday. The 28-year-old veteran receiver has missed the last several weeks of training camp with an undisclosed injury, but Metcalf is expected to be fine for Week 1 against the Atlanta Falcons, and he could be targeted heavily right out of the gates. In his first year in the Steel City in 2025, Metcalf caught 59 of his 99 targets for 850 yards and six touchdowns in 15 regular-season starts. He is looking to bounce back in 2026, but the addition of veteran wideout Michael Pittman Jr. could pose a roadblock. The two-time All-Star should remain the focal point of the Steelers' passing game, but with the aging Rodgers running the show for one more year in an offense that could lean on the ground game, fantasy managers may want to temper expectations for Metcalf as more of a WR3/flex.",
+        "title": "Steelers Looking to Get the Football to DK Metcalf",
+        "topic_id": "1400948800410939392",
+        "url": "https://www.rotoballer.com/player-news/steelers-looking-to-get-the-football-to-dk-metcalf/1922016"
+      },
+      "nfl_team": "PIT",
+      "player_id": "5846",
+      "player_name": "DK Metcalf",
+      "position": "WR",
+      "published": 1788359949000,
+      "source": "rotoballer",
+      "source_key": "219948",
+      "story_id": "nfl|5846|rotoballer|219948|1788359949000",
+      "title": "Steelers Looking to Get the Football to DK Metcalf",
+      "url": "https://www.rotoballer.com/player-news/steelers-looking-to-get-the-football-to-dk-metcalf/1922016"
+    },
+    {
       "analysis": "After letting Super Bowl LX MVP Kenneth Walker walk in free agency, the Seahawks will be counting on Price -- the No. 32 overall pick in April's draft -- as well as George Holani and Emanuel Wilson (hamstring) to lead the backfield while Zach Charbonnet (knee) is out for at least the first four games of the season. Walker's tough running combined with Charbonnet's skills on passing downs helped ensure that defenses couldn't devote more resources to shutting down Smith-Njigba, who blossomed into arguably the NFL's top wideout in 2025. After taking most of his snaps out of the slot in his first two seasons, Smith-Njigba thrived while transitioning into more of a perimeter role, compiling a massive 119-1,793-10 receiving line over 17 games on his way to winning Offensive Player of the Year honors. A league-high 32.6 percent target share played a part in Smith-Njigba achieving his lofty production, but even if supporting pass catchers such as Rashid Shaheed and AJ Barner are more involved in 2026, Smith-Njigba could avoid a major dip in production if the Seahawks lean more heavily on the passing game as a whole. The Seahawks ranked third in the NFL with a 49.7 percent run rate in 2025, and despite Smith-Njigba's early praise for Price, it would still be surprising if the rookie was trusted right away to handle the sort of workloads that Walker and Charbonnet previously shouldered.",
       "description": "Smith-Njigba said Tuesday in his appearance on ESPN's \"SportsCenter\" that rookie running back Jadarian Price had \"a great training camp\" and will help relieve pressure on the passing game in 2026.",
       "metadata": {
@@ -479,6 +515,26 @@
       "story_id": "nfl|9488|rotowire|635999|1788359486000",
       "title": "Jaxon Smith-Njigba - Not concerned about run game",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos head coach Sean Payton said that running back J.K. Dobbins is \"moving well\" and \"ready to go for the season,\" according to Chris Tomasson of The Denver Gazette. Dobbins dealt with a minor soft-tissue injury during training camp, but he is fine now and will be a full-go for the Week 1 contest against the division-rival Kansas City Chiefs on Monday Night Football. The 27-year-old has had a lengthy injury history since being drafted in the second round by the Baltimore Ravens out of Ohio State, but he was in the midst of a career year in 2025 in his first year in Denver before suffering a season-ending foot injury. Dobbins finished with 153 carries for 772 yards and four rushing touchdowns in 10 games while adding 11 catches for 37 yards through the air. He should be in line for plenty of early-down work and goal-line touches, but in the Broncos' expected three-man committee (also involving RJ Harvey and rookie Jonah Coleman), he is best drafted as an RB3/flex in an offense on the rise.",
+      "metadata": {
+        "description": "Denver Broncos head coach Sean Payton said that running back J.K. Dobbins is \"moving well\" and \"ready to go for the season,\" according to Chris Tomasson of The Denver Gazette. Dobbins dealt with a minor soft-tissue injury during training camp, but he is fine now and will be a full-go for the Week 1 contest against the division-rival Kansas City Chiefs on Monday Night Football. The 27-year-old has had a lengthy injury history since being drafted in the second round by the Baltimore Ravens out of Ohio State, but he was in the midst of a career year in 2025 in his first year in Denver before suffering a season-ending foot injury. Dobbins finished with 153 carries for 772 yards and four rushing touchdowns in 10 games while adding 11 catches for 37 yards through the air. He should be in line for plenty of early-down work and goal-line touches, but in the Broncos' expected three-man committee (also involving RJ Harvey and rookie Jonah Coleman), he is best drafted as an RB3/flex in an offense on the rise.",
+        "title": "J.K. Dobbins Ready to Go for Start of the Season",
+        "topic_id": "1400946283610374144",
+        "url": "https://www.rotoballer.com/player-news/j-k-dobbins-ready-to-go-for-start-of-the-season/1922007"
+      },
+      "nfl_team": "DEN",
+      "player_id": "6806",
+      "player_name": "J.K. Dobbins",
+      "position": "RB",
+      "published": 1788359348000,
+      "source": "rotoballer",
+      "source_key": "219947",
+      "story_id": "nfl|6806|rotoballer|219947|1788359348000",
+      "title": "J.K. Dobbins Ready to Go for Start of the Season",
+      "url": "https://www.rotoballer.com/player-news/j-k-dobbins-ready-to-go-for-start-of-the-season/1922007"
     },
     {
       "analysis": null,
@@ -522,9 +578,9 @@
     },
     {
       "analysis": null,
-      "description": "Los Angeles Rams running back Blake Corum saw his workload increase over the back half of the 2025 season, and there was a case to be made that he was a more explosive runner than veteran Kyren Williams. With both backs again healthy heading into the 2026 season, there is an expectation that they could share something closer to a 50/50 workload split, and while ESPN's Dan Graziano acknowledges that Williams is likely to begin the year in a nominal lead back role, he believes that if Corum can improve as a pass protector, he could emerge as the Rams' 1A to William's 1B by year end. Both players performed as top 17 fantasy running backs over the final six weeks of the regular season, so there is obvious room for both to succeed, but with Corum going nearly six rounds later in 2026 drafts, he would prove to be a league-winner should Grazaiano's prediction bear out.",
+      "description": "Los Angeles Rams running back Blake Corum saw his workload increase over the back half of the 2025 season, and there was a case to be made that he was a more explosive runner than veteran Kyren Williams. With both backs again healthy heading into the 2026 season, there is an expectation that they could share something closer to a 50/50 workload split, and while ESPN's Dan Graziano acknowledges that Williams is likely to begin the year in a nominal lead back role, he believes that if Corum can improve as a pass protector, he could emerge as the Rams' 1A to William's 1B by year end. Both players performed as top 17 fantasy running backs over the final six weeks of the regular season, so there is obvious room for both to succeed, but with Corum going nearly six rounds later in 2026 drafts, he would prove to be a league-winner should Graziano's prediction bear out.",
       "metadata": {
-        "description": "Los Angeles Rams running back Blake Corum saw his workload increase over the back half of the 2025 season, and there was a case to be made that he was a more explosive runner than veteran Kyren Williams. With both backs again healthy heading into the 2026 season, there is an expectation that they could share something closer to a 50/50 workload split, and while ESPN's Dan Graziano acknowledges that Williams is likely to begin the year in a nominal lead back role, he believes that if Corum can improve as a pass protector, he could emerge as the Rams' 1A to William's 1B by year end. Both players performed as top 17 fantasy running backs over the final six weeks of the regular season, so there is obvious room for both to succeed, but with Corum going nearly six rounds later in 2026 drafts, he would prove to be a league-winner should Grazaiano's prediction bear out.",
+        "description": "Los Angeles Rams running back Blake Corum saw his workload increase over the back half of the 2025 season, and there was a case to be made that he was a more explosive runner than veteran Kyren Williams. With both backs again healthy heading into the 2026 season, there is an expectation that they could share something closer to a 50/50 workload split, and while ESPN's Dan Graziano acknowledges that Williams is likely to begin the year in a nominal lead back role, he believes that if Corum can improve as a pass protector, he could emerge as the Rams' 1A to William's 1B by year end. Both players performed as top 17 fantasy running backs over the final six weeks of the regular season, so there is obvious room for both to succeed, but with Corum going nearly six rounds later in 2026 drafts, he would prove to be a league-winner should Graziano's prediction bear out.",
         "title": "Blake Corum \"Could Emerge as the 1A\" in Rams' Backfield",
         "topic_id": "1400941249266982912",
         "url": "https://www.rotoballer.com/player-news/blake-corum-could-emerge-as-the-1a-in-rams-backfield/1921990"
