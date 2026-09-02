@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-02T17:45:45Z",
+  "last_checked_at": "2026-09-02T17:55:37Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11583|rotoballer|219940|1788356410000",
-    "nfl|8151|rotoballer|219939|1788355628000",
-    "nfl|9758|rotoballer|219938|1788355813000"
+    "nfl|12535|rotowire|636018|1788371303000",
+    "nfl|13269|rotoballer|219942|1788357083000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "TeSlaa operated primarily as the Lions' No. 4 receiver during his 2025 rookie campaign, appearing in all 17 games and finishing with a 16-239-6 receiving line on 27 targets. Even on the limited volume of targets, the 6-foot-4, 214-pound wideout made a number of highlight-reel grabs during his first NFL season, but he hasn't shown the same ability to win on contested balls during his second training camp. He also made a couple of critical blunders in the Lions' preseason-opening loss to the Bengals, dropping a pass that led to an interception and failing to reel in another catchable target on a fourth-down pass. Montgomery noted that getting more exposure to facing No. 1 cornerbacks in both camp and the preseason has likely played a part in TeSlaa's lack of output, but the Lions apparently saw enough growth from him beyond his box-score contributions to hand him the No. 3 job and keeping just four total receivers on the 53-man roster heading into Week 1. TeSlaa will still face a difficult path to fantasy relevance as the fifth option in the Detroit passing game when all of Amon-Ra St. Brown, Jameson Williams, Jahmyr Gibbs and Sam LaPorta (hip) are available.",
+      "description": "TeSlaa will enter the season as the Lions' No. 3 receiver, despite a poor showing during training camp and going without a reception on three targets over 44 snaps during his two preseason appearances, Dave Birkett of the Detroit Free Press reports. \"I'm not too concerned,\" wide receivers coach Scottie Montgomery said last week, regarding TeSlaa's lackluster camp. \"I do want our guys making every single play. And we did hold him accountable for some of the things that went on, and that's the difference in being in the room and being outside of the room.\"",
+      "metadata": {
+        "analysis": "TeSlaa operated primarily as the Lions' No. 4 receiver during his 2025 rookie campaign, appearing in all 17 games and finishing with a 16-239-6 receiving line on 27 targets. Even on the limited volume of targets, the 6-foot-4, 214-pound wideout made a number of highlight-reel grabs during his first NFL season, but he hasn't shown the same ability to win on contested balls during his second training camp. He also made a couple of critical blunders in the Lions' preseason-opening loss to the Bengals, dropping a pass that led to an interception and failing to reel in another catchable target on a fourth-down pass. Montgomery noted that getting more exposure to facing No. 1 cornerbacks in both camp and the preseason has likely played a part in TeSlaa's lack of output, but the Lions apparently saw enough growth from him beyond his box-score contributions to hand him the No. 3 job and keeping just four total receivers on the 53-man roster heading into Week 1. TeSlaa will still face a difficult path to fantasy relevance as the fifth option in the Detroit passing game when all of Amon-Ra St. Brown, Jameson Williams, Jahmyr Gibbs and Sam LaPorta (hip) are available.",
+        "description": "TeSlaa will enter the season as the Lions' No. 3 receiver, despite a poor showing during training camp and going without a reception on three targets over 44 snaps during his two preseason appearances, Dave Birkett of the Detroit Free Press reports. \"I'm not too concerned,\" wide receivers coach Scottie Montgomery said last week, regarding TeSlaa's lackluster camp. \"I do want our guys making every single play. And we did hold him accountable for some of the things that went on, and that's the difference in being in the room and being outside of the room.\"",
+        "title": "Isaac TeSlaa - Disappoints during second training camp",
+        "topic_id": "1400934958834438144"
+      },
+      "nfl_team": "DET",
+      "player_id": "12535",
+      "player_name": "Isaac TeSlaa",
+      "position": "WR",
+      "published": 1788371303000,
+      "source": "rotowire",
+      "source_key": "636018",
+      "story_id": "nfl|12535|rotowire|636018|1788371303000",
+      "title": "Isaac TeSlaa - Disappoints during second training camp",
+      "url": null
+    },
     {
       "analysis": "Flowers has been held out of practice since last week with what is believed to be a minor lower-body issue, but it's a positive sign that he received clearance to run. It was reported Tuesday that Flowers will practice fully next week and suit up for Week 1, and he appears to be on track to do so.",
       "description": "Flowers (lower body) did not participate in Wednesday's practice, but he did run sprints on the side, Jamison Hensley of ESPN.com reports.",
@@ -395,6 +414,26 @@
       "story_id": "nfl|11631|rotowire|635998|1788357291000",
       "title": "Brian Thomas - Practices fully Tuesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Las Vegas Raiders named veteran quarterback Kirk Cousins as their Week 1 starter on Wednesday, and while some late training camp rumblings hinted at Fernando Mendoza potentially starting his career as the third quarterback behind Aidan O'Connell, the first overall pick in the 2026 NFL Draft will serve as the team's primary backup, according to The Athletic's Sam Warren. Mendoza appeared in all three of the Raiders' preseason games, turning in a mixed bag on his way to a 56.5% completion percentage and two interceptions to his one touchdown. The Raiders face a daunting schedule to begin the year, a fact that could lead to early calls from fans to put the rookie on the field, but also a landmine that the coaching staff must navigate with the ultimate goal of setting Mendoza up for long-term success. Equipped with the tools and mindset to eventually become the face of the franchise, Mendoza is RotoBaller's QB29 and not a player who needs to be drafted as anything more than a third quarterback in 2026 superflex leagues.",
+      "metadata": {
+        "description": "The Las Vegas Raiders named veteran quarterback Kirk Cousins as their Week 1 starter on Wednesday, and while some late training camp rumblings hinted at Fernando Mendoza potentially starting his career as the third quarterback behind Aidan O'Connell, the first overall pick in the 2026 NFL Draft will serve as the team's primary backup, according to The Athletic's Sam Warren. Mendoza appeared in all three of the Raiders' preseason games, turning in a mixed bag on his way to a 56.5% completion percentage and two interceptions to his one touchdown. The Raiders face a daunting schedule to begin the year, a fact that could lead to early calls from fans to put the rookie on the field, but also a landmine that the coaching staff must navigate with the ultimate goal of setting Mendoza up for long-term success. Equipped with the tools and mindset to eventually become the face of the franchise, Mendoza is RotoBaller's QB29 and not a player who needs to be drafted as anything more than a third quarterback in 2026 superflex leagues.",
+        "title": "Fernando Mendoza to Serve as Raiders QB2",
+        "topic_id": "1400936215292751872",
+        "url": "https://www.rotoballer.com/player-news/fernando-mendoza-to-serve-as-raiders-qb2/1921973"
+      },
+      "nfl_team": "LV",
+      "player_id": "13269",
+      "player_name": "Fernando Mendoza",
+      "position": "QB",
+      "published": 1788357083000,
+      "source": "rotoballer",
+      "source_key": "219942",
+      "story_id": "nfl|13269|rotoballer|219942|1788357083000",
+      "title": "Fernando Mendoza to Serve as Raiders QB2",
+      "url": "https://www.rotoballer.com/player-news/fernando-mendoza-to-serve-as-raiders-qb2/1921973"
     },
     {
       "analysis": "Meyers has been out of action since injuring his hand during a joint practice with the Panthers nearly two weeks ago, but he is set to return to the field Wednesday. With Meyers cleared to get some work in, it seems likely he is on track to take the field Week 1 against the Browns.",
