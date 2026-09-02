@@ -2,13 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1604**
+- Stored stories: **1605**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — George Kittle** — George Kittle - Traveling to Australia with team (2026-09-02T12:52:12Z)
-  - It appears a final call on Kittle's availability for Week 1 will not be made until the 49ers land Down Under, but with him joining his teammates for practice this week and joining them on their road trip, there is momentum toward him taking the field for the season opener against the Rams.
+- **George Kittle** — George Kittle - Traveling to Australia with team (2026-09-02T12:52:12Z)
+  - A final call on Kittle's availability for Week 1 isn't expected to be made until the 49ers arrive in Australia, but his involvement in practice this week and presence on the road trip suggest that he's on track to play. Kittle -- who tore his right Achilles tendon Jan. 11 and underwent surgery three days later -- could have his snaps limited to some degree if he's cleared to play in the season opener.
+- **NEW — George Kittle** — George Kittle Trending Towards Playing in Week 1 (2026-09-02T09:09:08Z)
+  - Source: https://www.rotoballer.com/player-news/george-kittle-trending-towards-playing-in-week-1/1921750
 - **Ollie Gordon** — Ollie Gordon II is Seeing His Fantasy Stock Rise (2026-09-02T00:14:07Z)
   - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-is-seeing-his-fantasy-stock-rise/1921653
 - **Kyle Monangai** — Kyle Monangai (knee) remains week-to-week  (2026-09-02T00:05:25.623000Z)
@@ -228,5 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jamarr-chase-to-be-limited-this-week-no-real-concerns/1921282
 - **Tank Dell** — Texans GM Says Tank Dell is Close to Return (2026-09-01T13:49:05Z)
   - Source: https://www.rotoballer.com/player-news/texans-gm-says-tank-dell-is-close-to-return/1921275
-- **Jalen Hurts** — Jalen Hurts Adjusting Well to the New Scheme (2026-09-01T13:39:04Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-hurts-adjusting-well-to-the-new-scheme/1921268
