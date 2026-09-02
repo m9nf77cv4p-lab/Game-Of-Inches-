@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-02T13:57:35Z",
+  "last_checked_at": "2026-09-02T14:14:33Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|10236|rotoballer|219914|1788342247000",
-    "nfl|11631|rotowire|635998|1788357291000"
+    "nfl|11631|rotoballer|219916|1788343029000",
+    "nfl|5947|rotoballer|219915|1788342729000"
   ],
   "schema_version": 1,
   "source": {
@@ -93,6 +93,46 @@
       "story_id": "nfl|4217|rotowire|635993|1788353532000",
       "title": "George Kittle - Traveling to Australia with team",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars wide receiver Brian Thomas Jr. (shoulder) was a full-go in Tuesday's practice as he prepares for Week 1's matchup against the Cleveland Browns. Thomas fell awkwardly on his shoulder during a joint practice with the Tampa Bay Buccaneers, but head coach Liam Coen expressed no concern about his availability for the regular season. After a monster rookie season in 2024, Thomas struggled, hauling in just 48 of 91 targets for 707 yards and two touchdowns in 14 games, dropping from 14.1 points per game to 8.2 in 2025. Now with Parker Washington having a great camp and Jakobi Meyers still expected to receive volume, Thomas is a far riskier option in 2026.",
+      "metadata": {
+        "description": "Jacksonville Jaguars wide receiver Brian Thomas Jr. (shoulder) was a full-go in Tuesday's practice as he prepares for Week 1's matchup against the Cleveland Browns. Thomas fell awkwardly on his shoulder during a joint practice with the Tampa Bay Buccaneers, but head coach Liam Coen expressed no concern about his availability for the regular season. After a monster rookie season in 2024, Thomas struggled, hauling in just 48 of 91 targets for 707 yards and two touchdowns in 14 games, dropping from 14.1 points per game to 8.2 in 2025. Now with Parker Washington having a great camp and Jakobi Meyers still expected to receive volume, Thomas is a far riskier option in 2026.",
+        "title": "Brian Thomas Jr. a Full-Go in Tuesday's Practice",
+        "topic_id": "1400878326276444160",
+        "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-a-full-go-in-tuesdays-practice/1921801"
+      },
+      "nfl_team": "JAX",
+      "player_id": "11631",
+      "player_name": "Brian Thomas",
+      "position": "WR",
+      "published": 1788343029000,
+      "source": "rotoballer",
+      "source_key": "219916",
+      "story_id": "nfl|11631|rotoballer|219916|1788343029000",
+      "title": "Brian Thomas Jr. a Full-Go in Tuesday's Practice",
+      "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-a-full-go-in-tuesdays-practice/1921801"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars wide receiver Jakobi Meyers (hand) will practice Wednesday as he prepares for Week 1 against the Cleveland Browns. Meyers was seen wearing a brace on his right hand, which head coach Liam Coen described as \"a jammed hand.\" With him practicing more than a week before Week 1, he should be good to go. After being traded from Las Vegas to the Jaguars last season, Meyers hauled in 42 of 61 targets for 483 yards and three touchdowns in nine games, averaging just under 10 half-PPR fantasy points per game. With the emergence of Parker Washington and the talented first-round receiver Brian Thomas Jr. still in the mix, Meyers faces a difficult path to high volume in 2026. However, if his ADP has declined significantly because of his injury, he's a good late-round value in fantasy drafts.",
+      "metadata": {
+        "description": "Jacksonville Jaguars wide receiver Jakobi Meyers (hand) will practice Wednesday as he prepares for Week 1 against the Cleveland Browns. Meyers was seen wearing a brace on his right hand, which head coach Liam Coen described as \"a jammed hand.\" With him practicing more than a week before Week 1, he should be good to go. After being traded from Las Vegas to the Jaguars last season, Meyers hauled in 42 of 61 targets for 483 yards and three touchdowns in nine games, averaging just under 10 half-PPR fantasy points per game. With the emergence of Parker Washington and the talented first-round receiver Brian Thomas Jr. still in the mix, Meyers faces a difficult path to high volume in 2026. However, if his ADP has declined significantly because of his injury, he's a good late-round value in fantasy drafts.",
+        "title": "Jakobi Meyers Will Practice on Wednesday",
+        "topic_id": "1400877067955908608",
+        "url": "https://www.rotoballer.com/player-news/jakobi-meyers-will-practice-on-wednesday/1921796"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1788342729000,
+      "source": "rotoballer",
+      "source_key": "219915",
+      "story_id": "nfl|5947|rotoballer|219915|1788342729000",
+      "title": "Jakobi Meyers Will Practice on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/jakobi-meyers-will-practice-on-wednesday/1921796"
     },
     {
       "analysis": null,

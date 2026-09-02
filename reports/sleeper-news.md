@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1610**
+- Stored stories: **1612**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Brian Thomas** — Brian Thomas - Practices fully Tuesday (2026-09-02T13:54:51Z)
+- **Brian Thomas** — Brian Thomas - Practices fully Tuesday (2026-09-02T13:54:51Z)
   - Thomas injured his shoulder in a joint practice with the Buccaneers one week earlier, but he avoided a major scare and was back on the field a few days later while sporting a no-contact jersey. The wideout was seemingly able to shed that jersey and take some contact during Tuesday's session, so he looks like he'll be in the clear for the Jaguars' Sept. 13 season opener versus the Browns.
 - **Jakobi Meyers** — Jakobi Meyers - Will practice Wednesday (2026-09-02T13:41:16Z)
   - Meyers has been out of action since injuring his hand during a joint practice with the Panthers nearly two weeks ago, but he is set to return to the field Wednesday. With Meyers cleared to get some work in, it seems likely he is on track to take the field Week 1 against the Browns.
@@ -15,7 +15,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.
 - **George Kittle** — George Kittle - Traveling to Australia with team (2026-09-02T12:52:12Z)
   - A final call on Kittle's availability for Week 1 isn't expected to be made until the 49ers arrive in Australia, but his involvement in practice this week and presence on the road trip suggest that he's on track to play. Kittle -- who tore his right Achilles tendon Jan. 11 and underwent surgery three days later -- could have his snaps limited to some degree if he's cleared to play in the season opener.
-- **NEW — Dalton Kincaid** — Dalton Kincaid Primed for Bigger Role in 2026 After Strong Camp (2026-09-02T09:44:07Z)
+- **NEW — Brian Thomas** — Brian Thomas Jr. a Full-Go in Tuesday's Practice (2026-09-02T09:57:09Z)
+  - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-a-full-go-in-tuesdays-practice/1921801
+- **NEW — Jakobi Meyers** — Jakobi Meyers Will Practice on Wednesday (2026-09-02T09:52:09Z)
+  - Source: https://www.rotoballer.com/player-news/jakobi-meyers-will-practice-on-wednesday/1921796
+- **Dalton Kincaid** — Dalton Kincaid Primed for Bigger Role in 2026 After Strong Camp (2026-09-02T09:44:07Z)
   - Source: https://www.rotoballer.com/player-news/dalton-kincaid-primed-for-bigger-role-in-2026-after-strong-camp/1921789
 - **Dallas Goedert** — Dallas Goedert Set for Another High-Volume Season in 2026 (2026-09-02T09:30:59Z)
   - Source: https://www.rotoballer.com/player-news/dallas-goedert-set-for-another-high-volume-season-in-2026/1921773
@@ -226,7 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/texans-have-had-productive-talks-with-c-j-stroud-on-extension/1921311
 - **Tee Higgins** — Tee Higgins Dealing With Minor Heel Contusion (2026-09-01T14:36:32Z)
   - Source: https://www.rotoballer.com/player-news/tee-higgins-dealing-with-minor-heel-contusion/1921306
-- **Josh Jacobs** — Josh Jacobs - GM expects him to play in 2026 (2026-09-01T14:35:11Z)
-  - Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back is scheduled to make his first appearance in court Nov. 17 and won't be eligible to practice or play while he remains on the exempt list, though head coach Matt LaFleur said Tuesday that Jacobs will be present at the team facility, per Rob Demovsky of ESPN.com. While Jacobs is out, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson as their available backfield options, with Lloyd being the favorite to lead the trio in touches.
-- **TreVeyon Henderson** — TreVeyon Henderson Not Cleared for Full Practice Participation (2026-09-01T14:27:11Z)
-  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-not-cleared-for-full-practice-participation/1921294
