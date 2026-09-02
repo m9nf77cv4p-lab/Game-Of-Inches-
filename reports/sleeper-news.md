@@ -2,19 +2,19 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1688**
-- Newly captured: **5**
+- Stored stories: **1689**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Brian Thomas** — Brian Thomas Jr. (shoulder) practicing in full (2026-09-02T21:05:34.638000Z)
+- **Brian Thomas** — Brian Thomas Jr. (shoulder) practicing in full (2026-09-02T21:05:34.638000Z)
   - Thomas has been limited by a shoulder injury recently, but he was back to full practice activity on Tuesday. The third-year wideout should be good to go for Week 1. 
   - Source: https://www.fantasypros.com/nfl/news/605657/brian-thomas-jr-shoulder-practicing-full.php
-- **NEW — Jakobi Meyers** — Jakobi Meyers (hand) gets in limited practice Wednesday (2026-09-02T21:05:34.624000Z)
+- **Jakobi Meyers** — Jakobi Meyers (hand) gets in limited practice Wednesday (2026-09-02T21:05:34.624000Z)
   - Meyers is "all good," according to head coach Liam Coen. The veteran receiver has been practicing in a limited capacity this week and is not a concern for Week 1. 
   - Source: https://www.fantasypros.com/nfl/news/605658/jakobi-meyers-hand-gets-limited-practice-wednesday.php
-- **NEW — Bijan Robinson** — Bijan Robinson - Expecting more open running room in 2026 (2026-09-02T20:59:06Z)
-  - Robinson led the NFL with 2,298 scrimmage yards in 2025, with the 24-year-old doing much of his damage on outside runs in former offensive coordinator Zac Robinson's wide-zone running scheme. While the Falcons won't completely abandon those zone concepts during the upcoming season, the new coaching staff plans to implement more gap and power-style run plays that they believe will still allow Robinson to maintain effectiveness and put his explosiveness in the open field on display. Rees and head coach Kevin Stefanski also plan to keep Robinson heavily involved in the screen game, after he led all running backs with 20 receptions on screens last season. While working with a less talented Browns running-back room in 2025, Stefanski and Rees helped Cleveland generate 413 yards on screen plays, second-most in the NFL.
+- **Bijan Robinson** — Bijan Robinson - Expecting more open running room in 2026 (2026-09-02T20:59:06Z)
+  - Robinson led the NFL with 2,298 scrimmage yards in 2025, with the 24-year-old doing much of his damage on outside runs in former offensive coordinator Zac Robinson's wide-zone running scheme. The Falcons won't completely abandon those zone concepts during the upcoming season, but the new coaching staff plans to implement more gap and power-style run plays that they believe will help Robinson to maintain effectiveness and while still allowing him to put his explosiveness in the open field on display. Rees and head coach Kevin Stefanski also plan to keep Robinson heavily involved in the screen game, after he led all running backs with 20 receptions on screens last season. While working with a less talented Browns running-back room in 2025, Stefanski and Rees helped Cleveland generate 413 yards on screen plays, second-most in the NFL.
 - **Kyle Monangai** — Kyle Monangai - Resumes running (2026-09-02T20:37:23Z)
   - Since hyperextending his right knee in practice Aug. 16, Monangai has been described as "week-to-week" on multiple occasions by coach Ben Johnson, including as recently as Tuesday, according to Chris Emma of 670TheScore.com. Swift's view of Monangai one day later likely means the latter ran on the side versus in any drills, but it's at least the first positive sign that he's making progress in his recovery. If Monangai ends up being limited or even sidelined to begin the season, Swift likely would be a bellcow in the Bears offense, with Roschon Johnson on hand for any RB reps that linger.
 - **Khalil Shakir** — Khalil Shakir - Optimism regarding Week 1 (2026-09-02T20:34:38Z)
@@ -53,11 +53,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Flowers has been held out of practice since last week with what is believed to be a minor lower-body issue, but it's a positive sign that he received clearance to run. It was reported Tuesday that Flowers will practice fully next week and suit up for Week 1, and he appears to be on track to do so.
 - **Jonathon Brooks** — Jonathon Brooks - Optimism for Week 1 (2026-09-02T17:23:58Z)
   - It's unclear if Brooks' soreness is in his surgically-repaired knee or elsewhere, but he's worked off to the side with trainers at practice each of the last two days. While Brooks has drawn a substantial amount of summer hype, Chuba Hubbard (hamstring) is expected to maintain a large role in the Carolina backfield. Neither running back may be a reliable fantasy bet out of the gates against Chicago.
-- **NEW — Woody Marks** — Woody Marks' Production Upside Could Be Limited in Houston (2026-09-02T16:58:06Z)
+- **NEW — Kyle Monangai** — Kyle Monangai Does Some Running on Wednesday (2026-09-02T17:07:09Z)
+  - Source: https://www.rotoballer.com/player-news/kyle-monangai-does-some-running-on-wednesday/1922114
+- **Woody Marks** — Woody Marks' Production Upside Could Be Limited in Houston (2026-09-02T16:58:06Z)
   - Source: https://www.rotoballer.com/player-news/woody-marks-production-upside-could-be-limited-in-houston/1922111
 - **Kenneth Walker** — Kenneth Walker - Returns to full practice Wednesday (2026-09-02T16:56:54Z)
   - Walker dealt with some swelling around his ankle last week due to some cleat issues, but the star running back is back in action Wednesday with 12 days to go before the Chiefs open their season at home against the Broncos on Monday, Sept. 14. After splitting duties with Zach Charbonnet (knee) in Seattle, Walker is expected to operate as a three-down workhorse with Kansas City this season. Only fifth-round rookie Emmett Johnson and 2025 seventh-rounder Brashard Smith round out the depth chart behind Walker.
-- **NEW — AJ Barner** — AJ Barner May Be Undervalued in Drafts Entering 2026 (2026-09-02T16:51:09Z)
+- **AJ Barner** — AJ Barner May Be Undervalued in Drafts Entering 2026 (2026-09-02T16:51:09Z)
   - Source: https://www.rotoballer.com/player-news/aj-barner-may-be-undervalued-in-drafts-entering-2026/1922106
 - **Fernando Mendoza** — Fernando Mendoza - Opening season as QB2 (2026-09-02T16:48:22Z)
   - Mendoza was in the competition all offseason, but it was going to take some otherworldly play to knock Cousins out of the top spot on the depth chart. While Cousins completed 13 of 17 passes for 101 yards and one touchdown across 30 preseason snaps, Mendoza struggled some, completing just 26 of 46 passes for 250 yards, one touchdown and a pair of interceptions during exhibition action. Cousins is likely to have a decently long leash to begin the season, but Mendoza remains a good bet to make starts as a rookie.
@@ -217,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605442/alvin-kamara-knee-misses-practice-tuesday.php
 - **Oronde Gadsden** — Oronde Gadsden Falling Down Draft Boards Due to Added Competition (2026-09-01T22:24:12Z)
   - Source: https://www.rotoballer.com/player-news/oronde-gadsden-falling-down-draft-boards-due-to-added-competition/1921612
-- **Chris Bell** — Chris Bell - Still working into football shape (2026-09-01T22:17:55Z)
-  - Bell was cleared to return to full practice last week and ended up playing 14 offensive snaps in the Dolphins' preseason finale Friday, where he finished with two catches for 22 yards on five targets. After Miami traded Tutu Atwell to the Rams and dumped several other wideouts this past weekend, Bell is a candidate to see playing time out of the gates with the Dolphins, as he's competing with Malik Washington, Jalen Tolbert and fellow rookie Caleb Douglas for snaps at the position. Bell likely needs to improve his conditioning after a long rehab from ACL surgery.
