@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-02T17:08:36Z",
+  "last_checked_at": "2026-09-02T17:23:06Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|1166|rotoballer|219935|1788353538000",
-    "nfl|8151|rotowire|636015|1788368214000"
+    "nfl|12514|rotoballer|219936|1788353946000"
   ],
   "schema_version": 1,
   "source": {
@@ -394,6 +393,26 @@
       "story_id": "nfl|11586|rotowire|635995|1788356250000",
       "title": "Blake Corum - Sits out preseason in advance of Year 3",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers head coach Todd Bowles is still a bit cautious about wide receivers Emeka Egbuka (toe) and Jalen McMillan (knee) as far as playing in the Week 1 regular-season opener against the Cincinnati Bengals, according to Greg Auman of FOX Sports. \"Headed in the right direction. I don't know how fast. I'll have a better gauge next week. They're moving forward every day,\" Bowles said. Egbuka got some work in on a side field with trainers on Wednesday, but he has not been a full go with the rest of the team for a while after spraining his toe, and he is a true question mark right now for the season opener on Sunday, Sept. 13. Like Bowles said, fantasy managers will have a better idea of the 23-year-old's Week 1 status next week, when the Bucs start to release official practice statuses. If both Egbuka and McMillan are limited or out in Week 1, it will mean more targets for both Chris Godwin Jr. and Ted Hurst III. Egbuka's case as a legitimate WR2 in fantasy in Year 2 has been tempered this summer due to his toe injury, and he is currently ranked as RotoBaller's No. 23 fantasy WR. The former first-rounder from Ohio State had a solid rookie season in 2025 with a 63-938-6 line on 127 targets in 17 games played.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers head coach Todd Bowles is still a bit cautious about wide receivers Emeka Egbuka (toe) and Jalen McMillan (knee) as far as playing in the Week 1 regular-season opener against the Cincinnati Bengals, according to Greg Auman of FOX Sports. \"Headed in the right direction. I don't know how fast. I'll have a better gauge next week. They're moving forward every day,\" Bowles said. Egbuka got some work in on a side field with trainers on Wednesday, but he has not been a full go with the rest of the team for a while after spraining his toe, and he is a true question mark right now for the season opener on Sunday, Sept. 13. Like Bowles said, fantasy managers will have a better idea of the 23-year-old's Week 1 status next week, when the Bucs start to release official practice statuses. If both Egbuka and McMillan are limited or out in Week 1, it will mean more targets for both Chris Godwin Jr. and Ted Hurst III. Egbuka's case as a legitimate WR2 in fantasy in Year 2 has been tempered this summer due to his toe injury, and he is currently ranked as RotoBaller's No. 23 fantasy WR. The former first-rounder from Ohio State had a solid rookie season in 2025 with a 63-938-6 line on 127 targets in 17 games played.",
+        "title": "Todd Bowles Remains Cautious Regarding Emeka Egbuka's Week 1 Status",
+        "topic_id": "1400927406390296576",
+        "url": "https://www.rotoballer.com/player-news/todd-bowles-remains-cautious-regarding-emeka-egbukas-week-1-status/1921944"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1788353946000,
+      "source": "rotoballer",
+      "source_key": "219936",
+      "story_id": "nfl|12514|rotoballer|219936|1788353946000",
+      "title": "Todd Bowles Remains Cautious Regarding Emeka Egbuka's Week 1 Status",
+      "url": "https://www.rotoballer.com/player-news/todd-bowles-remains-cautious-regarding-emeka-egbukas-week-1-status/1921944"
     },
     {
       "analysis": null,
