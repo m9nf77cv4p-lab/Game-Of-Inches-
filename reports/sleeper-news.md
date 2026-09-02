@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1673**
+- Stored stories: **1675**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Alvin Kamara** — Alvin Kamara (knee) misses practice Wednesday  (2026-09-02T19:55:33.820000Z)
+- **Alvin Kamara** — Alvin Kamara (knee) misses practice Wednesday  (2026-09-02T19:55:33.820000Z)
   - Kamara remains uncertain for the start of the season next week. 
   - Source: https://www.fantasypros.com/nfl/news/605639/alvin-kamara-knee-misses-practice-wednesday.php
 - **Malik Nabers** — Malik Nabers - Handles individual, team drills Wednesday (2026-09-02T19:14:09Z)
@@ -45,13 +45,17 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After being contained on the first two of the first-team offense's eight drives on the day, Gibbs delivered his biggest gain of the day on the Lions' third possession. On the second play of that drive, Gibbs followed a block from right guard Tate Ratledge, then found daylight while bouncing out to the outside and raced past cornerback Avonte Maddox for a 59-yard house call. He then finished practice with his second touchdown of the day, taking a fourth-and-1 pitch to the outside and following a Penei Sewell block to beat multiple defenders to the pylon. The two scoring jaunts were demonstrative of Gibbs' trademark explosiveness in open space, but now that David Montgomery is in Houston, the Lions are likely to turn to Gibbs to add more work to his plate in the form of increased usage in goal-line situations and as a runner on early downs. Detroit signed Isiah Pacheco this offseason with the goal of having him take on some of those functions that Montgomery had handled, but Pacheco won't be available until Week 5 at the earliest while he recovers from a back injury as well as an MCL sprain.
 - **Ollie Gordon** — Ollie Gordon - Practicing in non-contact jersey (2026-09-02T16:06:38Z)
   - Gordon was injured in the Dolphins' second preseason game and missed the final exhibition last week. Across two preseason appearances, Gordon rushed 11 times for 47 yards and caught one of his two targets for 10 yards. He's competing with Jaylen Wright for the backup role behind De'Von Achane this season.
+- **NEW — Kyle Monangai** — Kyle Monangai Still Not Practicing (2026-09-02T15:59:08Z)
+  - Source: https://www.rotoballer.com/player-news/kyle-monangai-still-not-practicing/1922066
 - **Jonathon Brooks** — Jonathon Brooks - Working off to side Wednesday (2026-09-02T15:57:06Z)
   - Brooks has been dealing with some soreness in an undisclosed area for the past couple of days, as coach Dave Canales has been vague when describing the running back's issue. There doesn't seem to be any indication Brooks is in danger of missing Week 1 against the Bears in 11 days, but he's going to need to get back on the practice field next week.
+- **NEW — Malik Nabers** — Malik Nabers Handles Individual and Team Drills Wednesday (2026-09-02T15:54:10Z)
+  - Source: https://www.rotoballer.com/player-news/malik-nabers-handles-individual-and-team-drills-wednesday/1922062
 - **Jameson Williams** — Jameson Williams - Stands out in final training camp session (2026-09-02T15:51:37Z)
   - Touted as a standout performer during the Lions' earlier workouts of the summer, Williams authored another strong performance in a scrimmage-style practice to wrap up camp. On the Lions' opening drive alone, Williams beat cornerback Rock Ya-Sin for a 22-yard gain on the first play of the day, reeled off a 18-yard gain on a screen play to convert a third-and-12 and evaded tight coverage to make a sliding catch on a five-yard pass to the back end of the zone on a fourth-and-goal. Williams recorded another reception on a post route later in the day to convert a third-and-10, but the play was negated by a holding penalty. While No. 1 wideout Amon-Ra St. Brown remains Detroit's clear top target in 2026, Williams should still be in store for reliable weekly volume in a consolidated passing game that also includes Sam LaPorta (hip) and running back Jahmyr Gibbs. Heading into the summer, No. 3 wideout Isaac TeSlaa looked like a potential candidate to carve out a more notable role in his second season, but didn't record a reception in either of his two preseason appearances and had a number of underwhelming performances during camp practices, according to Dave Birkett of the Detroit Free Press.
 - **Ashton Jeanty** — Ashton Jeanty - Remains sidelined Wednesday (2026-09-02T15:46:20Z)
   - Jeanty worked off to the side with trainers Tuesday, as he attempts to get past an ankle injury suffered Aug. 23. It's believed to be a low-ankle sprain for the second-year running back. Jeanty has 11 more days before the Raiders open the season at home against the Dolphins on Sunday, Sept. 13. He'll likely need to practice in some fashion next week to have a chance to play, otherwise Mike Washington and Dylan Laube would be in line to carry the backfield load for Las Vegas.
-- **NEW — Isaac TeSlaa** — Isaac TeSlaa Still Has Lions' Trust After Quiet Summer (2026-09-02T15:46:09Z)
+- **Isaac TeSlaa** — Isaac TeSlaa Still Has Lions' Trust After Quiet Summer (2026-09-02T15:46:09Z)
   - Source: https://www.rotoballer.com/player-news/isaac-teslaa-still-has-lions-trust-after-quiet-summer/1922057
 - **Mike Evans** — Mike Evans Back at Practice (2026-09-02T15:33:40Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-back-at-practice/1922050
@@ -216,7 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tank Dell** — Tank Dell (knee) is 'close' but 'not quite there' (2026-09-01T19:45:22.839000Z)
   - Dell was placed on injured reserve, so he'll miss the first four games of the season. It is unclear when he'll be activated. 
   - Source: https://www.fantasypros.com/nfl/news/605356/tank-dell-knee-is-close-but-not-quite-there.php
-- **Jeremiyah Love** — Jeremiyah Love - Present Tuesday, but not practicing (2026-09-01T19:38:39Z)
-  - Love has been tending to a high-ankle sprain since making his pro debut preseason Week 1, missing all practices and the Cardinals' final two exhibitions in the meantime. Coach Mike LaFleur told Josh Weinfuss of ESPN.com on Monday that Love is "progressing really well" toward being available Week 1. Nevertheless, Love's next step will be mixing into at least some drills to begin to put questions about his status for the regular-season opener on Sunday, Sept. 13 at the Chargers in the rearview mirror.
-- **Chris Bell** — Chris Bell Still Needs to Get into Football Shape (2026-09-01T19:29:07Z)
-  - Source: https://www.rotoballer.com/player-news/chris-bell-still-needs-to-get-into-football-shape/1921504

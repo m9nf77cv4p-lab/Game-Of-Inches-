@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-02T19:56:15Z",
+  "last_checked_at": "2026-09-02T20:12:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12535|rotoballer|219953|1788363969000",
-    "nfl|4035|fantasy_pros|605639|1788378933820"
+    "nfl|11632|rotoballer|219955|1788364450000",
+    "nfl|12534|rotoballer|219954|1788364748000"
   ],
   "schema_version": 1,
   "source": {
@@ -377,6 +377,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Chicago Bears running back Kyle Monangai (knee) remained out of practice Wednesday, according to Jason Lieser of the Chicago Sun-Times. Monangai has not practiced since hyperextending his right knee during an Aug. 16 session, when he got tangled with defensive tackle Grady Jarrett. Head coach Ben Johnson said Tuesday that Monangai remains week-to-week, so his continued absence is not unexpected. The second-year back rushed for 783 yards and five touchdowns on 169 carries as a rookie, adding 18 catches for 164 yards. Chicago opens the season Sept. 13 at Carolina, leaving Monangai less than two weeks to get back on the field. His Week 1 status remains uncertain, and D'Andre Swift would be in line for a heavier workload if Monangai can't go.",
+      "metadata": {
+        "description": "Chicago Bears running back Kyle Monangai (knee) remained out of practice Wednesday, according to Jason Lieser of the Chicago Sun-Times. Monangai has not practiced since hyperextending his right knee during an Aug. 16 session, when he got tangled with defensive tackle Grady Jarrett. Head coach Ben Johnson said Tuesday that Monangai remains week-to-week, so his continued absence is not unexpected. The second-year back rushed for 783 yards and five touchdowns on 169 carries as a rookie, adding 18 catches for 164 yards. Chicago opens the season Sept. 13 at Carolina, leaving Monangai less than two weeks to get back on the field. His Week 1 status remains uncertain, and D'Andre Swift would be in line for a heavier workload if Monangai can't go.",
+        "title": "Kyle Monangai Still Not Practicing",
+        "topic_id": "1400968935871905792",
+        "url": "https://www.rotoballer.com/player-news/kyle-monangai-still-not-practicing/1922066"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12534",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "published": 1788364748000,
+      "source": "rotoballer",
+      "source_key": "219954",
+      "story_id": "nfl|12534|rotoballer|219954|1788364748000",
+      "title": "Kyle Monangai Still Not Practicing",
+      "url": "https://www.rotoballer.com/player-news/kyle-monangai-still-not-practicing/1922066"
+    },
+    {
       "analysis": "Brooks has been dealing with some soreness in an undisclosed area for the past couple of days, as coach Dave Canales has been vague when describing the running back's issue. There doesn't seem to be any indication Brooks is in danger of missing Week 1 against the Bears in 11 days, but he's going to need to get back on the practice field next week.",
       "description": "Brooks (soreness) was working off to the side with a trainer during Wednesday's practice, Mike Kaye of ESPN.com reports.",
       "metadata": {
@@ -395,6 +415,26 @@
       "story_id": "nfl|11583|rotowire|636008|1788364626000",
       "title": "Jonathon Brooks - Working off to side Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants wide receiver Malik Nabers (knee) took part in individual drills and team work Wednesday, head coach John Harbaugh said, according to Connor Hughes. Nabers is still working his way back from the torn ACL that ended his 2025 season after four games. He had 18 catches for 271 yards and two touchdowns before going down. Tuesday brought another encouraging sign when Harbaugh said Nabers handled most of the team reps after spending the early part of practice with the training staff. Wednesday's work keeps that progression moving, but Nabers has not committed to being ready for Week 1. The Giants open Sept. 13 against Dallas, leaving more than a week for his workload to build before a decision has to be made.",
+      "metadata": {
+        "description": "New York Giants wide receiver Malik Nabers (knee) took part in individual drills and team work Wednesday, head coach John Harbaugh said, according to Connor Hughes. Nabers is still working his way back from the torn ACL that ended his 2025 season after four games. He had 18 catches for 271 yards and two touchdowns before going down. Tuesday brought another encouraging sign when Harbaugh said Nabers handled most of the team reps after spending the early part of practice with the training staff. Wednesday's work keeps that progression moving, but Nabers has not committed to being ready for Week 1. The Giants open Sept. 13 against Dallas, leaving more than a week for his workload to build before a decision has to be made.",
+        "title": "Malik Nabers Handles Individual and Team Drills Wednesday",
+        "topic_id": "1400968935859322880",
+        "url": "https://www.rotoballer.com/player-news/malik-nabers-handles-individual-and-team-drills-wednesday/1922062"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1788364450000,
+      "source": "rotoballer",
+      "source_key": "219955",
+      "story_id": "nfl|11632|rotoballer|219955|1788364450000",
+      "title": "Malik Nabers Handles Individual and Team Drills Wednesday",
+      "url": "https://www.rotoballer.com/player-news/malik-nabers-handles-individual-and-team-drills-wednesday/1922062"
     },
     {
       "analysis": "Touted as a standout performer during the Lions' earlier workouts of the summer, Williams authored another strong performance in a scrimmage-style practice to wrap up camp. On the Lions' opening drive alone, Williams beat cornerback Rock Ya-Sin for a 22-yard gain on the first play of the day, reeled off a 18-yard gain on a screen play to convert a third-and-12 and evaded tight coverage to make a sliding catch on a five-yard pass to the back end of the zone on a fourth-and-goal. Williams recorded another reception on a post route later in the day to convert a third-and-10, but the play was negated by a holding penalty. While No. 1 wideout Amon-Ra St. Brown remains Detroit's clear top target in 2026, Williams should still be in store for reliable weekly volume in a consolidated passing game that also includes Sam LaPorta (hip) and running back Jahmyr Gibbs. Heading into the summer, No. 3 wideout Isaac TeSlaa looked like a potential candidate to carve out a more notable role in his second season, but didn't record a reception in either of his two preseason appearances and had a number of underwhelming performances during camp practices, according to Dave Birkett of the Detroit Free Press.",
