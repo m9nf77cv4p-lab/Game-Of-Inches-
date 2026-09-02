@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-02T03:52:00Z",
+  "last_checked_at": "2026-09-02T04:03:37Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 281,
   "new_story_ids": [
-    "nfl|4039|rotoballer|219907|1788305647000"
+    "nfl|11370|rotoballer|219908|1788306429000"
   ],
   "schema_version": 1,
   "source": {
@@ -54,6 +54,26 @@
       "story_id": "nfl|12519|fantasy_pros|605469|1788307525607",
       "title": "Luther Burden III (groin) practices Tuesday ",
       "url": "https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back Chris Brooks is headed for an increased role, at least on a temporary basis. Teammate Josh Jacobs was placed on the commissioner's exempt list last Sunday, sidelining him for an indefinite period of time and leaving a gaping hole atop the running back depth chart in Green Bay. While MarShawn Lloyd is the early favorite to operate as the Packers' No. 1 ball-carrier, we expect to see a heavy dose of Brooks out of the backfield, too. Jacobs' void is too big to be filled by just one player, so Brooks will offer impact carries and receptions, and more than just a change of pace. We expect to see him mix in around the goal line, too. Brooks' NFL opportunities so far have been hard to come by, but he has looked good whenever he's been given the chance. For example, in Week 18 last season, he rushed for 61 yards on 13 carries, good for an average of 4.7 YPC. Additionally, just about one-third of his total touches (13 of 40) were receptions, so there's some legitimate full-PPR and half-PPR upside here if he does indeed handle a significant snap share. Brooks is more of a speculative late-round draft right now, but Week 1 will paint a clear picture of whether he can be a low-end RB3/flex going forward.",
+      "metadata": {
+        "description": "Green Bay Packers running back Chris Brooks is headed for an increased role, at least on a temporary basis. Teammate Josh Jacobs was placed on the commissioner's exempt list last Sunday, sidelining him for an indefinite period of time and leaving a gaping hole atop the running back depth chart in Green Bay. While MarShawn Lloyd is the early favorite to operate as the Packers' No. 1 ball-carrier, we expect to see a heavy dose of Brooks out of the backfield, too. Jacobs' void is too big to be filled by just one player, so Brooks will offer impact carries and receptions, and more than just a change of pace. We expect to see him mix in around the goal line, too. Brooks' NFL opportunities so far have been hard to come by, but he has looked good whenever he's been given the chance. For example, in Week 18 last season, he rushed for 61 yards on 13 carries, good for an average of 4.7 YPC. Additionally, just about one-third of his total touches (13 of 40) were receptions, so there's some legitimate full-PPR and half-PPR upside here if he does indeed handle a significant snap share. Brooks is more of a speculative late-round draft right now, but Week 1 will paint a clear picture of whether he can be a low-end RB3/flex going forward.",
+        "title": "Chris Brooks Has a Path to More Playing Time with Teammate Out",
+        "topic_id": "1400724794789400576",
+        "url": "https://www.rotoballer.com/player-news/chris-brooks-has-a-path-to-more-playing-time-with-teammate-out/1921647"
+      },
+      "nfl_team": "GB",
+      "player_id": "11370",
+      "player_name": "Chris Brooks",
+      "position": "RB",
+      "published": 1788306429000,
+      "source": "rotoballer",
+      "source_key": "219908",
+      "story_id": "nfl|11370|rotoballer|219908|1788306429000",
+      "title": "Chris Brooks Has a Path to More Playing Time with Teammate Out",
+      "url": "https://www.rotoballer.com/player-news/chris-brooks-has-a-path-to-more-playing-time-with-teammate-out/1921647"
     },
     {
       "analysis": null,

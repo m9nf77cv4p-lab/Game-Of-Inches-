@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1596**
+- Stored stories: **1597**
 - Newly captured: **1**
 
 ## Latest news
@@ -13,7 +13,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Luther Burden** — Luther Burden III (groin) practices Tuesday  (2026-09-02T00:05:25.607000Z)
   - Burden had returned to practice last week. He is on track to be good to go for the start of the season next week. 
   - Source: https://www.fantasypros.com/nfl/news/605469/luther-burden-iii-groin-practices-tuesday.php
-- **NEW — Cooper Kupp** — Cooper Kupp Falling Off Draft Boards in Fantasy Football (2026-09-01T23:34:07Z)
+- **NEW — Chris Brooks** — Chris Brooks Has a Path to More Playing Time with Teammate Out (2026-09-01T23:47:09Z)
+  - Source: https://www.rotoballer.com/player-news/chris-brooks-has-a-path-to-more-playing-time-with-teammate-out/1921647
+- **Cooper Kupp** — Cooper Kupp Falling Off Draft Boards in Fantasy Football (2026-09-01T23:34:07Z)
   - Source: https://www.rotoballer.com/player-news/cooper-kupp-falling-off-draft-boards-in-fantasy-football/1921643
 - **Antonio Williams** — Antonio Williams' Outlook Negatively Impacted by Offseason Moves (2026-09-01T23:29:05Z)
   - Source: https://www.rotoballer.com/player-news/antonio-williams-outlook-negatively-impacted-by-offseason-moves/1921641
@@ -228,5 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/josh-downs-returns-from-calf-injury-and-practices-on-tuesday/1921266
 - **Kyren Williams** — Kyren Williams in a Timeshare in Rams' Backfield? (2026-09-01T13:29:05Z)
   - Source: https://www.rotoballer.com/player-news/kyren-williams-in-a-timeshare-in-rams-backfield/1921262
-- **Alec Pierce** — Alec Pierce Practicing with the Colts on Tuesday (2026-09-01T13:27:10Z)
-  - Source: https://www.rotoballer.com/player-news/alec-pierce-practicing-with-the-colts-on-tuesday/1921258
