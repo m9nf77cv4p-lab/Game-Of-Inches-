@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-09-02T17:35:00Z",
+  "last_checked_at": "2026-09-02T17:45:45Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11583|rotowire|636016|1788369838000",
-    "nfl|12495|rotoballer|219937|1788355035000",
-    "nfl|9997|rotowire|636017|1788370187000"
+    "nfl|11583|rotoballer|219940|1788356410000",
+    "nfl|8151|rotoballer|219939|1788355628000",
+    "nfl|9758|rotoballer|219938|1788355813000"
   ],
   "schema_version": 1,
   "source": {
@@ -417,6 +417,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Carolina Panthers running back Jonathon Brooks (undisclosed) spent Wednesday's practice working with trainers on a side field for the second day in a row, but head coach Dave Canales told reporters he was \"very optimistic\" about Brooks' availability for Week 1 against the Bears. A second-round pick in the 2024 NFL Draft, Brooks has appeared in only three career games, re-tearing the right ACL that ended his collegiate career after handling only 12 touches as a rookie. While Canales' update offers reassurance about his availability, questions about his role still make Brooks a difficult fantasy start to begin the year, as conflicting reports out of training camp have painted a muddied picture of how he might split work with veteran Chuba Hubbard in 2026. The talent that made Brooks the first running back off the board in 2024 is still apparent, and with the higher-upside case among Carolina's backs, he is well worth taking a shot on later in drafts as RotoBaller's RB33.",
+      "metadata": {
+        "description": "Carolina Panthers running back Jonathon Brooks (undisclosed) spent Wednesday's practice working with trainers on a side field for the second day in a row, but head coach Dave Canales told reporters he was \"very optimistic\" about Brooks' availability for Week 1 against the Bears. A second-round pick in the 2024 NFL Draft, Brooks has appeared in only three career games, re-tearing the right ACL that ended his collegiate career after handling only 12 touches as a rookie. While Canales' update offers reassurance about his availability, questions about his role still make Brooks a difficult fantasy start to begin the year, as conflicting reports out of training camp have painted a muddied picture of how he might split work with veteran Chuba Hubbard in 2026. The talent that made Brooks the first running back off the board in 2024 is still apparent, and with the higher-upside case among Carolina's backs, he is well worth taking a shot on later in drafts as RotoBaller's RB33.",
+        "title": "Panthers \"Very Optimistic\" Jonathon Brooks Will Be Available in Week 1",
+        "topic_id": "1400933698295107584",
+        "url": "https://www.rotoballer.com/player-news/panthers-very-optimistic-jonathon-brooks-will-be-available-in-week-1/1921961"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788356410000,
+      "source": "rotoballer",
+      "source_key": "219940",
+      "story_id": "nfl|11583|rotoballer|219940|1788356410000",
+      "title": "Panthers \"Very Optimistic\" Jonathon Brooks Will Be Available in Week 1",
+      "url": "https://www.rotoballer.com/player-news/panthers-very-optimistic-jonathon-brooks-will-be-available-in-week-1/1921961"
+    },
+    {
       "analysis": "Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.",
       "description": "Corum was rested for all three of the Rams' preseason contests.",
       "metadata": {
@@ -435,6 +455,46 @@
       "story_id": "nfl|11586|rotowire|635995|1788356250000",
       "title": "Blake Corum - Sits out preseason in advance of Year 3",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "ESPN's Jeremy Fowler reports that Houston Texans quarterback C.J. Stroud is \"prepared to play out this season without a new deal,\" despite the Texans making what they considered a competitive offer, according to several people with knowledge of the situation. The current sentiment is that Stroud will \"most likely not end up with a new deal\" before Week 1. However, Fowler's understanding is that the Texans are prepared to put Stroud in \"what it feels is a strong place among the 12 QBs in the $50 million club.\" If Stroud bets on himself and has a strong 2026 bounce-back campaign, he can \"let an exploding QB market do the work for him.\" The former second overall pick out of Ohio State had a strong training camp this summer and has plenty of talent around him (even with receiver Jayden Higgins (knee) done for the year), making him a popular rebound candidate as a QB2 with upside for fantasy football purposes. If Stroud does not ink a new deal with Houston before Week 1, he will have plenty of incentive to turn his game around after two straight disappointing seasons.",
+      "metadata": {
+        "description": "ESPN's Jeremy Fowler reports that Houston Texans quarterback C.J. Stroud is \"prepared to play out this season without a new deal,\" despite the Texans making what they considered a competitive offer, according to several people with knowledge of the situation. The current sentiment is that Stroud will \"most likely not end up with a new deal\" before Week 1. However, Fowler's understanding is that the Texans are prepared to put Stroud in \"what it feels is a strong place among the 12 QBs in the $50 million club.\" If Stroud bets on himself and has a strong 2026 bounce-back campaign, he can \"let an exploding QB market do the work for him.\" The former second overall pick out of Ohio State had a strong training camp this summer and has plenty of talent around him (even with receiver Jayden Higgins (knee) done for the year), making him a popular rebound candidate as a QB2 with upside for fantasy football purposes. If Stroud does not ink a new deal with Houston before Week 1, he will have plenty of incentive to turn his game around after two straight disappointing seasons.",
+        "title": "C.J. Stroud Unlikely to Open 2026 Season With a New Deal",
+        "topic_id": "1400931181213585408",
+        "url": "https://www.rotoballer.com/player-news/c-j-stroud-unlikely-to-open-2026-season-with-a-new-deal/1921957"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9758",
+      "player_name": "C.J. Stroud",
+      "position": "QB",
+      "published": 1788355813000,
+      "source": "rotoballer",
+      "source_key": "219938",
+      "story_id": "nfl|9758|rotoballer|219938|1788355813000",
+      "title": "C.J. Stroud Unlikely to Open 2026 Season With a New Deal",
+      "url": "https://www.rotoballer.com/player-news/c-j-stroud-unlikely-to-open-2026-season-with-a-new-deal/1921957"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs running back Kenneth Walker (foot), who dealt with a minor foot injury late in training camp, was present for Wednesday's practice and participated without limitation in all sessions, according to beat writer Pete Sweeney. The Super Bowl MVP signed a three-year, $43 million deal to join the Chiefs in free agency, and he is expected to handle a three-down role in an offense looking to rebound from a pair of down years. All signs point to the Week 1 availability of quarterback Patrick Mahomes (knee) after an ACL tear ended his 2025 season, but as he ramps up in his recovery, Walker could see a sizeable early-season workload and is one of a handful of running backs going near the one-two turn with a realistic chance to crack the top three. Following a hype-filled training camp, RotoBaller's RB8 has the feel of one of the safest running backs to build around in 2026.",
+      "metadata": {
+        "description": "Kansas City Chiefs running back Kenneth Walker (foot), who dealt with a minor foot injury late in training camp, was present for Wednesday's practice and participated without limitation in all sessions, according to beat writer Pete Sweeney. The Super Bowl MVP signed a three-year, $43 million deal to join the Chiefs in free agency, and he is expected to handle a three-down role in an offense looking to rebound from a pair of down years. All signs point to the Week 1 availability of quarterback Patrick Mahomes (knee) after an ACL tear ended his 2025 season, but as he ramps up in his recovery, Walker could see a sizeable early-season workload and is one of a handful of running backs going near the one-two turn with a realistic chance to crack the top three. Following a hype-filled training camp, RotoBaller's RB8 has the feel of one of the safest running backs to build around in 2026.",
+        "title": "Kenneth Walker a Full Participant at Wednesday's Practice",
+        "topic_id": "1400931181217779712",
+        "url": "https://www.rotoballer.com/player-news/kenneth-walker-a-full-participant-at-wednesdays-practice/1921955"
+      },
+      "nfl_team": "KC",
+      "player_id": "8151",
+      "player_name": "Kenneth Walker",
+      "position": "RB",
+      "published": 1788355628000,
+      "source": "rotoballer",
+      "source_key": "219939",
+      "story_id": "nfl|8151|rotoballer|219939|1788355628000",
+      "title": "Kenneth Walker a Full Participant at Wednesday's Practice",
+      "url": "https://www.rotoballer.com/player-news/kenneth-walker-a-full-participant-at-wednesdays-practice/1921955"
     },
     {
       "analysis": null,
