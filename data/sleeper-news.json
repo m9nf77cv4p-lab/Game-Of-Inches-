@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-09-02T15:40:24Z",
+  "last_checked_at": "2026-09-02T15:54:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11581|rotoballer|219924|1788348187000",
-    "nfl|12514|rotowire|636005|1788362511000",
-    "nfl|3163|rotowire|636004|1788362408000"
+    "nfl|12514|rotoballer|219925|1788348668000",
+    "nfl|12527|rotowire|636006|1788363980000",
+    "nfl|13345|rotoballer|219926|1788349330000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Jeanty worked off to the side with trainers Tuesday, as he attempts to get past an ankle injury suffered Aug. 23. It's believed to be a low-ankle sprain for the second-year running back. Jeanty has 11 more days before the Raiders open the season at home against the Dolphins on Sunday, Sept. 13. He'll likely need to practice in some fashion next week to have a chance to play, otherwise Mike Washington and Dylan Laube would be in line to carry the backfield load for Las Vegas.",
+      "description": "Jeanty (ankle) remained sidelined at practice Wednesday, Ryan McFadden of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Jeanty worked off to the side with trainers Tuesday, as he attempts to get past an ankle injury suffered Aug. 23. It's believed to be a low-ankle sprain for the second-year running back. Jeanty has 11 more days before the Raiders open the season at home against the Dolphins on Sunday, Sept. 13. He'll likely need to practice in some fashion next week to have a chance to play, otherwise Mike Washington and Dylan Laube would be in line to carry the backfield load for Las Vegas.",
+        "description": "Jeanty (ankle) remained sidelined at practice Wednesday, Ryan McFadden of ESPN.com reports.",
+        "title": "Ashton Jeanty - Remains sidelined Wednesday",
+        "topic_id": "1400904756322398208"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788363980000,
+      "source": "rotowire",
+      "source_key": "636006",
+      "story_id": "nfl|12527|rotowire|636006|1788363980000",
+      "title": "Ashton Jeanty - Remains sidelined Wednesday",
+      "url": null
+    },
     {
       "analysis": "Egbuka has missed a ton of practice time this summer and didn't see any preseason action. However, it sounds like he's nearing 100 percent ahead of the Bucs' Week 1 game against the Bengals in 11 days. Seeing him return to full practices next week would be a positive development. Egbuka is expected to be a big beneficiary of Mike Evans' departure over the offseason, as he'll have a chance to establish himself as the Bucs' clear WR1 ahead of veteran Chris Godwin.",
       "description": "Egbuka (toe) worked on a side field with trainers Wednesday and ran without any obvious issues from the injury, Rick Stroud of the Tampa Bay Times reports.",
@@ -214,6 +234,46 @@
       "story_id": "nfl|4217|rotowire|635993|1788353532000",
       "title": "George Kittle - Traveling to Australia with team",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos rookie running back Jonah Coleman could move into a much bigger role sooner than expected. According to Dan Graziano of ESPN, the belief is that Coleman will overtake RJ Harvey on the depth chart early in the season and would be Denver's top choice to handle the lead job if J.K. Dobbins misses time. The Broncos took Coleman in the fourth round this year despite already having Dobbins and Harvey, and they have liked his fit from the start. Sean Payton praised the 5-foot-8, 220-pound back's physical running style, intelligence and ability to handle third-down work after the draft. Denver also viewed Coleman as a strong pass protector coming out of Washington. Dobbins remains the starter after rushing for 772 yards in 10 games last season, but injuries have followed him throughout his career. Coleman still has to earn his way past Harvey, but ESPN's report gives the rookie a clear path to becoming much more than a depth piece.",
+      "metadata": {
+        "description": "Denver Broncos rookie running back Jonah Coleman could move into a much bigger role sooner than expected. According to Dan Graziano of ESPN, the belief is that Coleman will overtake RJ Harvey on the depth chart early in the season and would be Denver's top choice to handle the lead job if J.K. Dobbins misses time. The Broncos took Coleman in the fourth round this year despite already having Dobbins and Harvey, and they have liked his fit from the start. Sean Payton praised the 5-foot-8, 220-pound back's physical running style, intelligence and ability to handle third-down work after the draft. Denver also viewed Coleman as a strong pass protector coming out of Washington. Dobbins remains the starter after rushing for 772 yards in 10 games last season, but injuries have followed him throughout his career. Coleman still has to earn his way past Harvey, but ESPN's report gives the rookie a clear path to becoming much more than a depth piece.",
+        "title": "Jonah Coleman Trending Toward Bigger Role in Denver",
+        "topic_id": "1400904754317500416",
+        "url": "https://www.rotoballer.com/player-news/jonah-coleman-trending-toward-bigger-role-in-denver/1921887"
+      },
+      "nfl_team": "DEN",
+      "player_id": "13345",
+      "player_name": "Jonah Coleman",
+      "position": "RB",
+      "published": 1788349330000,
+      "source": "rotoballer",
+      "source_key": "219926",
+      "story_id": "nfl|13345|rotoballer|219926|1788349330000",
+      "title": "Jonah Coleman Trending Toward Bigger Role in Denver",
+      "url": "https://www.rotoballer.com/player-news/jonah-coleman-trending-toward-bigger-role-in-denver/1921887"
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers wide receiver Emeka Egbuka (toe) did some running on a side field with trainers Wednesday, according to Rick Stroud of the Tampa Bay Times. Stroud noted that Egbuka showed no obvious problems with the toe while running. The second-year receiver has been out since injuring it during an Aug. 12 joint practice with the Jets. Initial testing showed a sprained toe, and Egbuka still has not returned to team practice. Head coach Todd Bowles said Tuesday that he wants to see how Egbuka looks next week before making a call on his Week 1 availability. Egbuka caught 63 passes for 938 yards and six touchdowns as a rookie last season. Tampa Bay opens Sept. 13 at Cincinnati, so there is still time, but getting back into practice will be the next important step.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers wide receiver Emeka Egbuka (toe) did some running on a side field with trainers Wednesday, according to Rick Stroud of the Tampa Bay Times. Stroud noted that Egbuka showed no obvious problems with the toe while running. The second-year receiver has been out since injuring it during an Aug. 12 joint practice with the Jets. Initial testing showed a sprained toe, and Egbuka still has not returned to team practice. Head coach Todd Bowles said Tuesday that he wants to see how Egbuka looks next week before making a call on his Week 1 availability. Egbuka caught 63 passes for 938 yards and six touchdowns as a rookie last season. Tampa Bay opens Sept. 13 at Cincinnati, so there is still time, but getting back into practice will be the next important step.",
+        "title": "Emeka Egbuka Running on Side Field",
+        "topic_id": "1400902237126987776",
+        "url": "https://www.rotoballer.com/player-news/emeka-egbuka-running-on-side-field/1921877"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1788348668000,
+      "source": "rotoballer",
+      "source_key": "219925",
+      "story_id": "nfl|12514|rotoballer|219925|1788348668000",
+      "title": "Emeka Egbuka Running on Side Field",
+      "url": "https://www.rotoballer.com/player-news/emeka-egbuka-running-on-side-field/1921877"
     },
     {
       "analysis": null,

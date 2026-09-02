@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1626**
+- Stored stories: **1629**
 - Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Emeka Egbuka** — Emeka Egbuka - Works on side field Wednesday (2026-09-02T15:21:51Z)
+- **NEW — Ashton Jeanty** — Ashton Jeanty - Remains sidelined Wednesday (2026-09-02T15:46:20Z)
+  - Jeanty worked off to the side with trainers Tuesday, as he attempts to get past an ankle injury suffered Aug. 23. It's believed to be a low-ankle sprain for the second-year running back. Jeanty has 11 more days before the Raiders open the season at home against the Dolphins on Sunday, Sept. 13. He'll likely need to practice in some fashion next week to have a chance to play, otherwise Mike Washington and Dylan Laube would be in line to carry the backfield load for Las Vegas.
+- **Emeka Egbuka** — Emeka Egbuka - Works on side field Wednesday (2026-09-02T15:21:51Z)
   - Egbuka has missed a ton of practice time this summer and didn't see any preseason action. However, it sounds like he's nearing 100 percent ahead of the Bucs' Week 1 game against the Bengals in 11 days. Seeing him return to full practices next week would be a positive development. Egbuka is expected to be a big beneficiary of Mike Evans' departure over the offseason, as he'll have a chance to establish himself as the Bucs' clear WR1 ahead of veteran Chris Godwin.
-- **NEW — Jared Goff** — Jared Goff - Guides 99-yard drive in final camp practice (2026-09-02T15:20:08Z)
+- **Jared Goff** — Jared Goff - Guides 99-yard drive in final camp practice (2026-09-02T15:20:08Z)
   - Head coach Dan Campbell elected to put the offense in a tough spot to begin the final session of training camp, but Goff didn't wilt from the challenge. He found Jameson Williams for a 22-yard gain early on the drive to give the offense some breathing room, then completed five more pass attempts before an incompletion set up a fourth-and-goal from the five-yard line. Goff evaded some pressure on fourth down and connected with a tightly-covered Williams in the back of the end zone to wrap up the drive. The 31-year-old quarterback threw for another touchdown later in the session, finding top target Amon-Ra St. Brown for a 16-yard score on the second-to-last drive of the day. While his lack of rushing ability will likely prevent him from emerging as a truly elite fantasy option in 2026, Goff is about as steady of a performer as it gets at the quarterback position, as he's turned in three straight seasons of at least 4,500 passing yards and 30 touchdown passes. The Detroit defense is still looking suspect heading into the upcoming season -- especially in the secondary -- which could result in the offense being involved in frequent shootouts that would enhance the fantasy value of Goff and the team's other skill-position players.
 - **Isiah Pacheco** — Isiah Pacheco - Without timetable for return (2026-09-02T15:10:27Z)
   - Pacheco was placed on injured reserve with his back issue and will miss at least the first four games of the regular season. It sounds like his absence could extend beyond Week 5 when he's first eligible to play. In the meantime, Jacob Saylors looks like the direct backup to Jahmyr Gibbs in the backfield. Gibbs could see some heavy snaps this season after the departure of steady veteran running mate David Montgomery over the offseason.
@@ -27,7 +29,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.
 - **George Kittle** — George Kittle - Traveling to Australia with team (2026-09-02T12:52:12Z)
   - A final call on Kittle's availability for Week 1 isn't expected to be made until the 49ers arrive in Australia, but his involvement in practice this week and presence on the road trip suggest that he's on track to play. Kittle -- who tore his right Achilles tendon Jan. 11 and underwent surgery three days later -- could have his snaps limited to some degree if he's cleared to play in the season opener.
-- **NEW — MarShawn Lloyd** — MarShawn Lloyd Gets First Crack at Green Bay Backfield (2026-09-02T11:23:07Z)
+- **NEW — Jonah Coleman** — Jonah Coleman Trending Toward Bigger Role in Denver (2026-09-02T11:42:10Z)
+  - Source: https://www.rotoballer.com/player-news/jonah-coleman-trending-toward-bigger-role-in-denver/1921887
+- **NEW — Emeka Egbuka** — Emeka Egbuka Running on Side Field (2026-09-02T11:31:08Z)
+  - Source: https://www.rotoballer.com/player-news/emeka-egbuka-running-on-side-field/1921877
+- **MarShawn Lloyd** — MarShawn Lloyd Gets First Crack at Green Bay Backfield (2026-09-02T11:23:07Z)
   - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-gets-first-crack-at-green-bay-backfield/1921873
 - **Jameson Williams** — Jameson Williams Could Lead Lions in Receiving (2026-09-02T11:12:12Z)
   - Source: https://www.rotoballer.com/player-news/jameson-williams-could-lead-lions-in-receiving/1921861
@@ -224,9 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Kittle is making strides in his recovery from an Achilles tear suffered in the playoffs. He went through some team drills Monday, and the fact that he's going to be on the field back-to-back days is especially encouraging. The 49ers are just over a week away from their season-opener in Australia, so it's still a tight timeline for Kittle be up to game speed. His progress in practice this week will paint a clearer picture for whether he will be ready to go when the season starts.
 - **Jalen McMillan** — Jalen McMillan - Remains sidelined at practice (2026-09-01T16:08:05Z)
   - McMillan missed most of training camp with the issue, but there's been optimism about McMillan being available for Week 1 against the Bengals in 12 days. McMillan is expected to fill the third receiver role alongside Emeka Egbuka (toe) and Chris Godwin this season, though rookie Ted Hurst is also likely to see sub-package snaps at the position. McMillan appeared in just four regular-season games last season due to a neck injury. He turned 15 targets into 12 catches for 178 scoreless yards after producing eight touchdowns as a rookie in 2024.
-- **Tank Dell** — Tank Dell - Inching closer to return (2026-09-01T16:04:12Z)
-  - Dell was placed on injured reserve with a designation for return to begin the season and will be required to miss at least the Texans' first four games. While Dell is sidelined, the likes of Kayshon Boutte, Jaylin Noel and Xavier Hutchinson will vie for snaps behind No. 1 wideout Nico Collins.
-- **Mike Evans** — Mike Evans - Eyeing practice return next week (2026-09-01T16:04:10Z)
-  - The veteran has been slowed by an adductor injury over the last week. The team will continue to be cautious with Evans as they prepare for the season opener on September 10  in Australia. That Evans won't practice this week is notable, given the already tight timeline and the upcoming international travel.
-- **Chuba Hubbard** — Chuba Hubbard - Returns to practice Tuesday (2026-09-01T15:56:14Z)
-  - Hubbard's level of participation in practice will be monitored, but he's on the field with his helmet as the session gets underway. The veteran has been hampered by a hamstring injury sustained in mid-August, but has been progressing well. His participation on Tuesday is a good sign that he's trending in the right direction toward being ready for the start of the season.
