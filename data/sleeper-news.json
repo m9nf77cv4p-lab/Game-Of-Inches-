@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-03T19:44:29Z",
+  "last_checked_at": "2026-09-03T19:54:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11620|rotowire|636188|1788464150000",
-    "nfl|12529|rotoballer|220028|1788449710000",
-    "nfl|8146|rotoballer|220027|1788449530000"
+    "nfl|9226|rotowire|636189|1788464350000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,10 +14,30 @@
   },
   "stories": [
     {
-      "analysis": "Odunze was able to play through listed ankle and heel injuries through Week 13 last season, but a stress fracture in his foot sidelined him Weeks 14-18 before he returned for Chicago's two postseason contests. In 14 appearances including playoffs, he posted a 48-749-6 line on 102 targets, recording 13 receptions of 20-plus yards along the way. As the ninth overall pick in the 2024 Draft, Odunze has a 51.3 percent catch rate (98 for 191) in his two-year career, but he's made up for it with 14.2 YPC. If the aforementioned foot injury is a thing of the past, Odunze will be a key target for QB Caleb Williams along with TE Colston Loveland and WR Luther Burden (groin).",
+      "analysis": "The Dolphins traded for Jarquez Hunter shortly before cutdown day, but he ultimately didn't make the 53-man roster, though Hunter remains in the organization as part of the practice squad. Fullback D.J. Herman is also listed as a running back, but the team's backfield is otherwise unchanged from 2025, when Achane produced a career-high 1,838 scrimmage yards. The team around Achane went through an offseason overhaul, including the addition of mobile QB Malik Willis, but Achane projects to maintain a prominent role as the centerpiece of an otherwise unproven offense.",
+      "description": "Achane is set to lead a Dolphins backfield in 2026 that will also include Jaylen Wright and Ollie Gordon (ribs), based on Miami's initial 53-man roster.",
+      "metadata": {
+        "analysis": "The Dolphins traded for Jarquez Hunter shortly before cutdown day, but he ultimately didn't make the 53-man roster, though Hunter remains in the organization as part of the practice squad. Fullback D.J. Herman is also listed as a running back, but the team's backfield is otherwise unchanged from 2025, when Achane produced a career-high 1,838 scrimmage yards. The team around Achane went through an offseason overhaul, including the addition of mobile QB Malik Willis, but Achane projects to maintain a prominent role as the centerpiece of an otherwise unproven offense.",
+        "description": "Achane is set to lead a Dolphins backfield in 2026 that will also include Jaylen Wright and Ollie Gordon (ribs), based on Miami's initial 53-man roster.",
+        "title": "De'Von Achane - Set to lead Miami's new-look offense",
+        "topic_id": "1401326191549362176"
+      },
+      "nfl_team": "MIA",
+      "player_id": "9226",
+      "player_name": "De'Von Achane",
+      "position": "RB",
+      "published": 1788464350000,
+      "source": "rotowire",
+      "source_key": "636189",
+      "story_id": "nfl|9226|rotowire|636189|1788464350000",
+      "title": "De'Von Achane - Set to lead Miami's new-look offense",
+      "url": null
+    },
+    {
+      "analysis": "Odunze was able to play through listed ankle and heel injuries through Week 13 last season, but a stress fracture in his foot sidelined him Weeks 14-18 before he returned for Chicago's two postseason contests. In 14 appearances including playoffs, he posted a 48-749-6 line on 102 targets, recording 13 receptions of 20-plus yards along the way. As the ninth overall pick in the 2024 Draft, Odunze has a 51.3 percent catch rate (98 for 191) in his two-year career, but he's made up for it with 14.2 YPC. If the aforementioned foot injury is a thing of the past, Odunze will remain a key target for QB Caleb Williams along with TE Colston Loveland and WR Luther Burden (groin) in 2026.",
       "description": "Coach Ben Johnson said Tuesday that Odunze has had no issues this summer with the foot injury that plagued him last season, Larry Mayer of the Bears' official site reports.",
       "metadata": {
-        "analysis": "Odunze was able to play through listed ankle and heel injuries through Week 13 last season, but a stress fracture in his foot sidelined him Weeks 14-18 before he returned for Chicago's two postseason contests. In 14 appearances including playoffs, he posted a 48-749-6 line on 102 targets, recording 13 receptions of 20-plus yards along the way. As the ninth overall pick in the 2024 Draft, Odunze has a 51.3 percent catch rate (98 for 191) in his two-year career, but he's made up for it with 14.2 YPC. If the aforementioned foot injury is a thing of the past, Odunze will be a key target for QB Caleb Williams along with TE Colston Loveland and WR Luther Burden (groin).",
+        "analysis": "Odunze was able to play through listed ankle and heel injuries through Week 13 last season, but a stress fracture in his foot sidelined him Weeks 14-18 before he returned for Chicago's two postseason contests. In 14 appearances including playoffs, he posted a 48-749-6 line on 102 targets, recording 13 receptions of 20-plus yards along the way. As the ninth overall pick in the 2024 Draft, Odunze has a 51.3 percent catch rate (98 for 191) in his two-year career, but he's made up for it with 14.2 YPC. If the aforementioned foot injury is a thing of the past, Odunze will remain a key target for QB Caleb Williams along with TE Colston Loveland and WR Luther Burden (groin) in 2026.",
         "description": "Coach Ben Johnson said Tuesday that Odunze has had no issues this summer with the foot injury that plagued him last season, Larry Mayer of the Bears' official site reports.",
         "title": "Rome Odunze - Last year's foot injury behind him",
         "topic_id": "1401324928497639424"
