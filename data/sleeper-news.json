@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-03T12:16:53Z",
+  "last_checked_at": "2026-09-03T13:22:46Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|12501|rotoballer|219992|1788426785000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Green Bay Packers Matthew Golden is set for a larger role in the Packers' offense this season and could be a late-round sleeper with true breakout potential. Last year, as a rookie, the first-round pick from Texas totaled 29 catches for 361 receiving yards. He scored his first NFL touchdown in the team's playoff game against the Bears, finishing with four catches for 84 yards and a score. After inconsistent playing time, Golden is locked into a top-three role on the Packers for this year after the team traded Dontayvion Wicks to the Eagles and watched Romeo Doubs sign with the Patriots as a free agent. Golden should be locked into three-wide sets alongside Jayden Reed and Christian Watson. As an outside threat with breakaway speed, Golden could be a big-play-reliant starting option in deep leagues based on his more consistent role. He's ranked as RotoBaller's No. 44 WR in PPR leagues, and he's a solid late-round option to consider as you build depth into your receiving corps. The first-round pick has plenty of upside, even though he remains unproven, and he is therefore a high-risk, high-reward sleeper to target.",
+      "metadata": {
+        "description": "Green Bay Packers Matthew Golden is set for a larger role in the Packers' offense this season and could be a late-round sleeper with true breakout potential. Last year, as a rookie, the first-round pick from Texas totaled 29 catches for 361 receiving yards. He scored his first NFL touchdown in the team's playoff game against the Bears, finishing with four catches for 84 yards and a score. After inconsistent playing time, Golden is locked into a top-three role on the Packers for this year after the team traded Dontayvion Wicks to the Eagles and watched Romeo Doubs sign with the Patriots as a free agent. Golden should be locked into three-wide sets alongside Jayden Reed and Christian Watson. As an outside threat with breakaway speed, Golden could be a big-play-reliant starting option in deep leagues based on his more consistent role. He's ranked as RotoBaller's No. 44 WR in PPR leagues, and he's a solid late-round option to consider as you build depth into your receiving corps. The first-round pick has plenty of upside, even though he remains unproven, and he is therefore a high-risk, high-reward sleeper to target.",
+        "title": "Matthew Golden Brings Breakout Potential in Expanded Role",
+        "topic_id": "1401229436489097216",
+        "url": "https://www.rotoballer.com/player-news/matthew-golden-brings-breakout-potential-in-expanded-role/1922368"
+      },
+      "nfl_team": "GB",
+      "player_id": "12501",
+      "player_name": "Matthew Golden",
+      "position": "WR",
+      "published": 1788426785000,
+      "source": "rotoballer",
+      "source_key": "219992",
+      "story_id": "nfl|12501|rotoballer|219992|1788426785000",
+      "title": "Matthew Golden Brings Breakout Potential in Expanded Role",
+      "url": "https://www.rotoballer.com/player-news/matthew-golden-brings-breakout-potential-in-expanded-role/1922368"
+    },
     {
       "analysis": "After logging at least 1,000 receiving yards six times in seven seasons between 2018 and 2024, Adams put together just 789 such yards in his age-33 campaign last year over 14 regular-season games, though he did miss three contest due to a hamstring injury. He salvaged his season with an NFL-leading 14 touchdown catches, displaying an incredible rapport with QB Matthew Stafford. With the Rams' top WR, Puka Nacua, still tending to psoas soreness a week before the team's Week 1 matchup with the 49ers next Thursday, Sept. 10, Adams effectively could be Stafford's No. 1 target out of the gate if Nacua isn't 100 percent.",
       "description": "Adams didn't suit up for any of the Rams' three-game preseason schedule.",

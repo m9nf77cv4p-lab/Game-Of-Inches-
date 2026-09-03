@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1725**
-- Newly captured: **0**
+- Stored stories: **1726**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Matthew Golden** — Matthew Golden Brings Breakout Potential in Expanded Role (2026-09-03T09:13:05Z)
+  - Source: https://www.rotoballer.com/player-news/matthew-golden-brings-breakout-potential-in-expanded-role/1922368
 - **Davante Adams** — Davante Adams - Logs no preseason action (2026-09-03T01:04:50Z)
   - After logging at least 1,000 receiving yards six times in seven seasons between 2018 and 2024, Adams put together just 789 such yards in his age-33 campaign last year over 14 regular-season games, though he did miss three contest due to a hamstring injury. He salvaged his season with an NFL-leading 14 touchdown catches, displaying an incredible rapport with QB Matthew Stafford. With the Rams' top WR, Puka Nacua, still tending to psoas soreness a week before the team's Week 1 matchup with the 49ers next Thursday, Sept. 10, Adams effectively could be Stafford's No. 1 target out of the gate if Nacua isn't 100 percent.
 - **Ryan Flournoy** — Ryan Flournoy - Locked in as WR3 (2026-09-03T01:04:21Z)
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-practicing-in-a-non-contact-jersey-on-wednesday/1921952
 - **Emeka Egbuka** — Todd Bowles Remains Cautious Regarding Emeka Egbuka's Week 1 Status (2026-09-02T12:59:06Z)
   - Source: https://www.rotoballer.com/player-news/todd-bowles-remains-cautious-regarding-emeka-egbukas-week-1-status/1921944
-- **Kirk Cousins** — Raiders Officially Name Kirk Cousins the Week 1 Starter (2026-09-02T12:52:18Z)
-  - Source: https://www.rotoballer.com/player-news/raiders-officially-name-kirk-cousins-the-week-1-starter/1921942
