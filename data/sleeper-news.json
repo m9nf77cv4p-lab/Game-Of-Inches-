@@ -1,14 +1,12 @@
 {
-  "last_checked_at": "2026-09-03T20:23:16Z",
+  "last_checked_at": "2026-09-03T20:36:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12529|fantasy_pros|605824|1788466808899",
-    "nfl|8142|fantasy_pros|605823|1788466808912",
-    "nfl|8144|rotoballer|220033|1788451753000",
-    "nfl|8155|rotowire|636191|1788465964000",
-    "nfl|8228|rotoballer|220034|1788451689000",
-    "nfl|9488|rotoballer|220035|1788451570000"
+    "nfl|10219|rotoballer|220036|1788452227000",
+    "nfl|10859|rotoballer|220037|1788452706000",
+    "nfl|3294|rotoballer|220038|1788453128000",
+    "nfl|9484|rotowire|636192|1788467472000"
   ],
   "schema_version": 1,
   "source": {
@@ -18,6 +16,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Though Kraft was held out of action during the Packers' entire preseason slate, he was able to clear a major hurdle in his recovery from the torn ACL he sustained Nov. 2, 2025 by taking contact in a joint practice with the Cardinals last week. Kraft appeared to be in full uniform and pads for Wednesday's session, suggesting that he's on track to be ready to go for the Packers' Week 1 matchup with the Vikings. Green Bay will release its first injury report of 2026 next Wednesday, and if Kraft is listed as a full participant or is off the report entirely, it would provide confirmation that he's been cleared to play in the season opener.",
+      "description": "Kraft (knee) appeared to be running without any limitations during Wednesday's practice, Matt Schneidman of The Athletic reports.",
+      "metadata": {
+        "analysis": "Though Kraft was held out of action during the Packers' entire preseason slate, he was able to clear a major hurdle in his recovery from the torn ACL he sustained Nov. 2, 2025 by taking contact in a joint practice with the Cardinals last week. Kraft appeared to be in full uniform and pads for Wednesday's session, suggesting that he's on track to be ready to go for the Packers' Week 1 matchup with the Vikings. Green Bay will release its first injury report of 2026 next Wednesday, and if Kraft is listed as a full participant or is off the report entirely, it would provide confirmation that he's been cleared to play in the season opener.",
+        "description": "Kraft (knee) appeared to be running without any limitations during Wednesday's practice, Matt Schneidman of The Athletic reports.",
+        "title": "Tucker Kraft - Moving around well at practice",
+        "topic_id": "1401338770925563904"
+      },
+      "nfl_team": "GB",
+      "player_id": "9484",
+      "player_name": "Tucker Kraft",
+      "position": "TE",
+      "published": 1788467472000,
+      "source": "rotowire",
+      "source_key": "636192",
+      "story_id": "nfl|9484|rotowire|636192|1788467472000",
+      "title": "Tucker Kraft - Moving around well at practice",
+      "url": null
+    },
     {
       "analysis": "Pierce was limited in practice earlier this week, and this is the next big step for the newly anointed WR1 for the Colts on the road to full recovery and return to play. He will operate as the Colts primary deep threat this season when on the field, opening things up for Josh Downs and Tyler Warren over the middle and short areas.",
       "description": "Alec Pierce (ankle) practiced in full for the first time this year after a lengthy time off the field while recovering from ankle injuries.",
@@ -702,6 +720,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Dallas Cowboys quarterback Dak Prescott put together one of the better seasons of his career in 2025, completing 67.3% of his pass attempts for 4,552 yards, 30 touchdowns, and 10 interceptions. While health has hampered Prescott at times in his career, he's topped 4,400 passing yards and 30 touchdowns in each of the last three seasons in which he's played at least 16 games. Entering 2026, Prescott might also be working with the league's best supporting cast of pass-catchers, including wide receivers CeeDee Lamb, George Pickens, and Ryan Flournoy, as well as tight end Jake Ferguson. The 33-year-old Prescott is no longer much of a threat with his legs, but the Cowboys' passing game should be potent enough for him to put up solid fantasy numbers without being a high-end rusher. Given the talent around him in Dallas, Prescott remains a solid fantasy QB1 option entering 2026.",
+      "metadata": {
+        "description": "Dallas Cowboys quarterback Dak Prescott put together one of the better seasons of his career in 2025, completing 67.3% of his pass attempts for 4,552 yards, 30 touchdowns, and 10 interceptions. While health has hampered Prescott at times in his career, he's topped 4,400 passing yards and 30 touchdowns in each of the last three seasons in which he's played at least 16 games. Entering 2026, Prescott might also be working with the league's best supporting cast of pass-catchers, including wide receivers CeeDee Lamb, George Pickens, and Ryan Flournoy, as well as tight end Jake Ferguson. The 33-year-old Prescott is no longer much of a threat with his legs, but the Cowboys' passing game should be potent enough for him to put up solid fantasy numbers without being a high-end rusher. Given the talent around him in Dallas, Prescott remains a solid fantasy QB1 option entering 2026.",
+        "title": "Dak Prescott Well-Positioned for High-End Season with Elite Wide Receiver Corps in Dallas",
+        "topic_id": "1401338767947628544",
+        "url": "https://www.rotoballer.com/player-news/dak-prescott-well-positioned-for-high-end-season-with-elite-wide-receiver-corps-in-dallas/1922758"
+      },
+      "nfl_team": "DAL",
+      "player_id": "3294",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "published": 1788453128000,
+      "source": "rotoballer",
+      "source_key": "220038",
+      "story_id": "nfl|3294|rotoballer|220038|1788453128000",
+      "title": "Dak Prescott Well-Positioned for High-End Season with Elite Wide Receiver Corps in Dallas",
+      "url": "https://www.rotoballer.com/player-news/dak-prescott-well-positioned-for-high-end-season-with-elite-wide-receiver-corps-in-dallas/1922758"
+    },
+    {
       "analysis": "Flowers has been in and out of practice seemingly all summer, but he's always been eyeing Week 1 as his target date to be 100 percent, and his return to practice this week puts him on track for the opener in 10 days. The wide receiver inked a big extension with Baltimore during the offseason and is returning as Lamar Jackson's undisputed No. 1 pass-catching option.",
       "description": "Flowers (lower body) is practicing Thursday, Cordell Woodland of 105.7 The Fan Baltimore reports.",
       "metadata": {
@@ -720,6 +758,46 @@
       "story_id": "nfl|9997|rotowire|636157|1788452932000",
       "title": "Zay Flowers - Returns to practice Thursday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions tight end Sam LaPorta's 2025 campaign came to a premature end after he suffered a back injury in Week 10 that ultimately required season-ending surgery. The 25-year-old was productive before getting hurt, recording 40 catches for 489 yards and three touchdowns on 49 targets across nine games played. LaPorta gave fantasy managers a scare when he suffered a hip injury that caused him to miss some time this summer. However, the young tight end was able to return to practice and looks to be on track to start the regular season fully healthy. Between wide receivers Amon-Ra St. Brown and Jameson Williams, as well as running back Jahmyr Gibbs, LaPorta faces plenty of target competition in Detroit. Still, the Lions enter the year with questions on defense and a new-look offensive line, both of which could force them to turn to the air early and often in 2026. As long as LaPorta remains healthy, he could be poised for a bounce-back season.",
+      "metadata": {
+        "description": "Detroit Lions tight end Sam LaPorta's 2025 campaign came to a premature end after he suffered a back injury in Week 10 that ultimately required season-ending surgery. The 25-year-old was productive before getting hurt, recording 40 catches for 489 yards and three touchdowns on 49 targets across nine games played. LaPorta gave fantasy managers a scare when he suffered a hip injury that caused him to miss some time this summer. However, the young tight end was able to return to practice and looks to be on track to start the regular season fully healthy. Between wide receivers Amon-Ra St. Brown and Jameson Williams, as well as running back Jahmyr Gibbs, LaPorta faces plenty of target competition in Detroit. Still, the Lions enter the year with questions on defense and a new-look offensive line, both of which could force them to turn to the air early and often in 2026. As long as LaPorta remains healthy, he could be poised for a bounce-back season.",
+        "title": "Sam LaPorta Poised for Resurgent Season with Improved Health Outlook",
+        "topic_id": "1401337509736108032",
+        "url": "https://www.rotoballer.com/player-news/sam-laporta-poised-for-resurgent-season-with-improved-health-outlook/1922751"
+      },
+      "nfl_team": "DET",
+      "player_id": "10859",
+      "player_name": "Sam LaPorta",
+      "position": "TE",
+      "published": 1788452706000,
+      "source": "rotoballer",
+      "source_key": "220037",
+      "story_id": "nfl|10859|rotoballer|220037|1788452706000",
+      "title": "Sam LaPorta Poised for Resurgent Season with Improved Health Outlook",
+      "url": "https://www.rotoballer.com/player-news/sam-laporta-poised-for-resurgent-season-with-improved-health-outlook/1922751"
+    },
+    {
+      "analysis": null,
+      "description": "After recording 500 rushing yards and six touchdowns on 112 carries across 11 games for the Washington Commanders in 2025, veteran running back Chris Rodriguez Jr. signed a two-year deal with the Jacksonville Jaguars for 2026. In Jacksonville, Rodriguez Jr. looks to be competing with second-year back Bhayshul Tuten for the team's RB1 role. While Tuten flashed more explosive upside during his rookie campaign with the Jags, recent reporting out of Jacksonville indicates that Rodriguez Jr. is playing well in practice. The 25-year-old profiles as the more physical runner of Jacksonville's top two backs, which could help earn the majority of the goal-line work. Rodriguez Jr. could also be the Jaguars' top pass-protecting back, particularly while third-down specialist LeQuint Allen Jr. (undisclosed) is sidelined by a soft-tissue injury. As a later-round pick in many drafts, Rodriguez Jr. could end up being a value selection for fantasy managers.",
+      "metadata": {
+        "description": "After recording 500 rushing yards and six touchdowns on 112 carries across 11 games for the Washington Commanders in 2025, veteran running back Chris Rodriguez Jr. signed a two-year deal with the Jacksonville Jaguars for 2026. In Jacksonville, Rodriguez Jr. looks to be competing with second-year back Bhayshul Tuten for the team's RB1 role. While Tuten flashed more explosive upside during his rookie campaign with the Jags, recent reporting out of Jacksonville indicates that Rodriguez Jr. is playing well in practice. The 25-year-old profiles as the more physical runner of Jacksonville's top two backs, which could help earn the majority of the goal-line work. Rodriguez Jr. could also be the Jaguars' top pass-protecting back, particularly while third-down specialist LeQuint Allen Jr. (undisclosed) is sidelined by a soft-tissue injury. As a later-round pick in many drafts, Rodriguez Jr. could end up being a value selection for fantasy managers.",
+        "title": "Chris Rodriguez Jr. Rising Amidst Preseason Buzz in Jacksonville",
+        "topic_id": "1401336251533000704",
+        "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-s-stock-rising-amidst-preseason-buzz-in-jacksonville/1922744"
+      },
+      "nfl_team": "JAX",
+      "player_id": "10219",
+      "player_name": "Chris Rodriguez",
+      "position": "RB",
+      "published": 1788452227000,
+      "source": "rotoballer",
+      "source_key": "220036",
+      "story_id": "nfl|10219|rotoballer|220036|1788452227000",
+      "title": "Chris Rodriguez Jr. Rising Amidst Preseason Buzz in Jacksonville",
+      "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-s-stock-rising-amidst-preseason-buzz-in-jacksonville/1922744"
     },
     {
       "analysis": "Montgomery is ticketed for a prominent role after coming over from Detroit in an offseason trade, but it remains to be seen just how much Marks cuts into Montgomery's usage. The 230-pound Montgomery is much better-suited for running inside and short-yardage work than the 208-pound Marks, but Montgomery recorded only 76 receptions across the past three regular seasons in Detroit, so the shifty Marks could siphon away opportunities in passing situations.",

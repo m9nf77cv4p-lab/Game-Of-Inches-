@@ -2,18 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1825**
-- Newly captured: **6**
+- Stored stories: **1829**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Alec Pierce** — Alec Pierce (ankle) practices in full on Thursday  (2026-09-03T20:20:08.912000Z)
+- **NEW — Tucker Kraft** — Tucker Kraft - Moving around well at practice (2026-09-03T20:31:12Z)
+  - Though Kraft was held out of action during the Packers' entire preseason slate, he was able to clear a major hurdle in his recovery from the torn ACL he sustained Nov. 2, 2025 by taking contact in a joint practice with the Cardinals last week. Kraft appeared to be in full uniform and pads for Wednesday's session, suggesting that he's on track to be ready to go for the Packers' Week 1 matchup with the Vikings. Green Bay will release its first injury report of 2026 next Wednesday, and if Kraft is listed as a full participant or is off the report entirely, it would provide confirmation that he's been cleared to play in the season opener.
+- **Alec Pierce** — Alec Pierce (ankle) practices in full on Thursday  (2026-09-03T20:20:08.912000Z)
   - Pierce was limited in practice earlier this week, and this is the next big step for the newly anointed WR1 for the Colts on the road to full recovery and return to play. He will operate as the Colts primary deep threat this season when on the field, opening things up for Josh Downs and Tyler Warren over the middle and short areas.
   - Source: https://www.fantasypros.com/nfl/news/605823/alec-pierce-ankle-practices-full-on-thursday.php
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson (ankle) still not practicing Thursday  (2026-09-03T20:20:08.899000Z)
+- **TreVeyon Henderson** — TreVeyon Henderson (ankle) still not practicing Thursday  (2026-09-03T20:20:08.899000Z)
   - Henderson has not practiced since August 24 when he sustained the injury. His status is up in the air for the season opener next Wednesday. 
   - Source: https://www.fantasypros.com/nfl/news/605824/treveyon-henderson-ankle-still-not-practicing-thursday.php
-- **NEW — Breece Hall** — Breece Hall - Expected back for Week 1 (2026-09-03T20:06:04Z)
+- **Breece Hall** — Breece Hall - Expected back for Week 1 (2026-09-03T20:06:04Z)
   - Hall is still nursing the groin injury he suffered 17 days ago, but he was originally given a return timetable of 2-to-3 weeks and was spotted running without any noticeable issues on a side field last week. Barring any setbacks, it sounds like Hall should be fine for the season opener. Whether he sees his normal workload is another question, as Braelon Allen has looked the part in practice and during limited preseason action, where he rushed seven times for 48 yards (6.9 YPC) and one touchdown.
 - **Colston Loveland** — Colston Loveland - Listed as starter on depth chart (2026-09-03T19:50:58Z)
   - The 10th overall pick in the 2025 Draft, Loveland had a slow start to his rookie season, coming out of Week 8 with 11 catches total on the campaign and one DNP due to a hip injury. From Week 9 through the Bears' divisional-round loss to the Rams, though, he ran roughshod over opposing defenses, hauling in 59 of 89 targets for 790 yards and six touchdowns in 12 games. Loveland capped that stretch with four consecutive contests with double-digit targets, indicating he left off last season as QB Caleb Williams' top option in the passing game. While Loveland still has to contend with WRs Rome Odunze and Luther Burden (groin) for the attention of Williams, the tight end is poised to make a leap to the NFL's best at the position.
@@ -78,15 +80,21 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Ewers was retained on the 53-man roster after final cuts, while Nick Mullens was released during cut-down day, though Mullens subsequently signed with the practice squad. Lawrence remains locked in as the team's starting QB on the heels of a 2025 regular season in which he threw for 4,007 yards and a career-high 29 passing touchdowns. The first overall pick in the 2021 NFL Draft has exceeded 4,000 passing yards in three of his first five NFL seasons.
 - **Nico Collins** — Nico Collins - Depth chart uncertain behind him (2026-09-03T16:35:46Z)
   - Jayden Higgins had been set to start opposite Collins, but Higgins suffered a season-ending knee injury in practice, prompting the Texans to trade for Boutte from the Patriots. Dell has had the most success out of the options behind Collins, but the 2023 third-round pick hasn't suited up since the 2024 season and will miss at least the first four games of 2026. Collins has exceeded 1,000 regular-season receiving yards while scoring at least seven total touchdowns in each of the past three campaigns.
+- **NEW — Dak Prescott** — Dak Prescott Well-Positioned for High-End Season with Elite Wide Receiver Corps in Dallas (2026-09-03T16:32:08Z)
+  - Source: https://www.rotoballer.com/player-news/dak-prescott-well-positioned-for-high-end-season-with-elite-wide-receiver-corps-in-dallas/1922758
 - **Zay Flowers** — Zay Flowers - Returns to practice Thursday (2026-09-03T16:28:52Z)
   - Flowers has been in and out of practice seemingly all summer, but he's always been eyeing Week 1 as his target date to be 100 percent, and his return to practice this week puts him on track for the opener in 10 days. The wide receiver inked a big extension with Baltimore during the offseason and is returning as Lamar Jackson's undisputed No. 1 pass-catching option.
+- **NEW — Sam LaPorta** — Sam LaPorta Poised for Resurgent Season with Improved Health Outlook (2026-09-03T16:25:06Z)
+  - Source: https://www.rotoballer.com/player-news/sam-laporta-poised-for-resurgent-season-with-improved-health-outlook/1922751
+- **NEW — Chris Rodriguez** — Chris Rodriguez Jr. Rising Amidst Preseason Buzz in Jacksonville (2026-09-03T16:17:07Z)
+  - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-s-stock-rising-amidst-preseason-buzz-in-jacksonville/1922744
 - **David Montgomery** — David Montgomery - Tops RB depth chart over Marks and Brooks (2026-09-03T16:12:20Z)
   - Montgomery is ticketed for a prominent role after coming over from Detroit in an offseason trade, but it remains to be seen just how much Marks cuts into Montgomery's usage. The 230-pound Montgomery is much better-suited for running inside and short-yardage work than the 208-pound Marks, but Montgomery recorded only 76 receptions across the past three regular seasons in Detroit, so the shifty Marks could siphon away opportunities in passing situations.
-- **NEW — Chris Olave** — Chris Olave Has a Clear Path to Massive Early-Season Target Share (2026-09-03T16:09:13Z)
+- **Chris Olave** — Chris Olave Has a Clear Path to Massive Early-Season Target Share (2026-09-03T16:09:13Z)
   - Source: https://www.rotoballer.com/player-news/chris-olave-has-a-clear-path-to-massive-early-season-target-share-in-new-orleans/1922735
-- **NEW — Jaylen Warren** — Jaylen Warren Should Still Have Significant Role in Pittsburgh (2026-09-03T16:08:09Z)
+- **Jaylen Warren** — Jaylen Warren Should Still Have Significant Role in Pittsburgh (2026-09-03T16:08:09Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-warren-should-still-have-significant-role-in-pittsburgh/1922733
-- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba Primed to Begin WR1 Campaign on Wednesday Night (2026-09-03T16:06:10Z)
+- **Jaxon Smith-Njigba** — Jaxon Smith-Njigba Primed to Begin WR1 Campaign on Wednesday Night (2026-09-03T16:06:10Z)
   - Source: https://www.rotoballer.com/player-news/jaxon-smith-njigba-primed-to-begin-wr1-campaign-on-wednesday-night/1922731
 - **C.J. Stroud** — C.J. Stroud - Injuries and trade reshape WR room (2026-09-03T16:01:13Z)
   - The Texans traded for Boutte from New England after Jayden Higgins tore his ACL, knocking the 2025 second-round pick out for the season. Boutte's 551 receiving yards for the Patriots in the 2025 regular season would have ranked second among Houston's wideouts behind Collins. Hutchinson had a career-high 428 receiving yards during the 2025 regular season, Noel has some intriguing upside as a 2025 third-round pick, and Houston is hoping to get Dell back eventually from the knee injury that sidelined him for the entire 2025 season. Stroud is looking to bounce back after a 2025 campaign in which he threw for career lows in both passing yards (3,041) and touchdown passes (19) during the regular season before coughing up seven turnovers in two playoff games.
@@ -203,11 +211,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/mike-washington-is-going-to-be-a-thing-in-fantasy-football/1922424
 - **Quinshon Judkins** — Quinshon Judkins Expected to Have High-Volume Role for Browns (2026-09-03T10:12:09Z)
   - Source: https://www.rotoballer.com/player-news/quinshon-judkins-expected-to-have-high-volume-role-for-browns/1922423
-- **Kayshon Boutte** — Kayshon Boutte Could Step In as Texans' Second Receiver (2026-09-03T09:59:08Z)
-  - Source: https://www.rotoballer.com/player-news/kayshon-boutte-could-step-in-as-texans-second-receiver/1922412
-- **Rashid Shaheed** — Rashid Shaheed Ready for Larger Role (2026-09-03T09:49:08Z)
-  - Source: https://www.rotoballer.com/player-news/rashid-shaheed-ready-for-larger-role/1922403
-- **Aaron Jones** — Aaron Jones Sr. Could Land in Smaller Role (2026-09-03T09:40:34Z)
-  - Source: https://www.rotoballer.com/player-news/aaron-jones-sr-could-land-in-smaller-role/1922395
-- **Travis Kelce** — Travis Kelce Looks Strong in Training Camp (2026-09-03T09:27:10Z)
-  - Source: https://www.rotoballer.com/player-news/travis-kelce-looks-strong-in-training-camp/1922380
