@@ -2,11 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1767**
-- Newly captured: **2**
+- Stored stories: **1770**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Nico Collins** — Nico Collins - Depth chart uncertain behind him (2026-09-03T16:35:46Z)
+  - Jayden Higgins had been set to start opposite Collins, but Higgins suffered a season-ending knee injury in practice, prompting the Texans to trade for Boutte from the Patriots. Dell has had the most success out of the options behind Collins, but the 2023 third-round pick hasn't suited up since the 2024 season and will miss at least the first four games of 2026. Collins has exceeded 1,000 regular-season receiving yards while scoring at least seven total touchdowns in each of the past three campaigns.
+- **NEW — Zay Flowers** — Zay Flowers - Returns to practice Thursday (2026-09-03T16:28:52Z)
+  - Flowers has been in and out of practice seemingly all summer, but he's always been eyeing Week 1 as his target date to be 100 percent, and his return to practice this week puts him on track for the opener in 10 days. The wide receiver inked a big extension with Baltimore during the offseason and is returning as Lamar Jackson's undisputed No. 1 pass-catching option.
 - **David Montgomery** — David Montgomery - Tops RB depth chart over Marks and Brooks (2026-09-03T16:12:20Z)
   - Montgomery is ticketed for a prominent role after coming over from Detroit in an offseason trade, but it remains to be seen just how much Marks cuts into Montgomery's usage. The 230-pound Montgomery is much better-suited for running inside and short-yardage work than the 208-pound Marks, but Montgomery recorded only 76 receptions across the past three regular seasons in Detroit, so the shifty Marks could siphon away opportunities in passing situations.
 - **C.J. Stroud** — C.J. Stroud - Injuries and trade reshape WR room (2026-09-03T16:01:13Z)
@@ -56,9 +60,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.
 - **Michael Penix** — Michael Penix - Will start 'eventually,' if not Week 1 (2026-09-03T13:23:16Z)
   - Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.
-- **NEW — Malik Willis** — Malik Willis' Passing Progress Raises His Fantasy Ceiling (2026-09-03T12:24:10Z)
+- **NEW — Zay Flowers** — Zay Flowers Dressed for Thursday's Practice (2026-09-03T12:34:07Z)
+  - Source: https://www.rotoballer.com/player-news/zay-flowers-dressed-for-thursdays-practice/1922584
+- **Malik Willis** — Malik Willis' Passing Progress Raises His Fantasy Ceiling (2026-09-03T12:24:10Z)
   - Source: https://www.rotoballer.com/player-news/malik-willis-passing-progress-raises-his-fantasy-ceiling/1922565
-- **NEW — Joe Burrow** — Joe Burrow Thinks This Year's Bengals Team is "Different" (2026-09-03T12:22:10Z)
+- **Joe Burrow** — Joe Burrow Thinks This Year's Bengals Team is "Different" (2026-09-03T12:22:10Z)
   - Source: https://www.rotoballer.com/player-news/joe-burrow-thinks-this-years-bengals-team-is-different/1922561
 - **Anthony Richardson** — Anthony Richardson Sr. Will be Colts' Backup QB (2026-09-03T12:00:15Z)
   - Source: https://www.rotoballer.com/player-news/anthony-richardson-sr-will-be-colts-backup-qb/1922543
@@ -208,9 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/ravens-unclear-when-nfl-will-end-its-investigation-of-rashod-bateman/1922130
 - **Zay Flowers** — Zay Flowers - Runs on side Wednesday (2026-09-02T17:29:47Z)
   - Flowers has been held out of practice since last week with what is believed to be a minor lower-body issue, but it's a positive sign that he received clearance to run. It was reported Tuesday that Flowers will practice fully next week and suit up for Week 1, and he appears to be on track to do so.
-- **MarShawn Lloyd** — MarShawn Lloyd Sharing First-Team Reps at Practice (2026-09-02T17:29:08Z)
-  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-sharing-first-team-reps-at-practice/1922124
-- **Jonathon Brooks** — Jonathon Brooks - Optimism for Week 1 (2026-09-02T17:23:58Z)
-  - It's unclear if Brooks' soreness is in his surgically-repaired knee or elsewhere, but he's worked off to the side with trainers at practice each of the last two days. While Brooks has drawn a substantial amount of summer hype, Chuba Hubbard (hamstring) is expected to maintain a large role in the Carolina backfield. Neither running back may be a reliable fantasy bet out of the gates against Chicago.
-- **Khalil Shakir** — Optimism Surrounding Khalil Shakir's Week 1 Availability (2026-09-02T17:18:09Z)
-  - Source: https://www.rotoballer.com/player-news/optimism-surrounding-khalil-shakirs-week-1-availability/1922119

@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-03T16:31:53Z",
+  "last_checked_at": "2026-09-03T16:46:21Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|6770|rotoballer|220010|1788438130000",
-    "nfl|8161|rotoballer|220009|1788438250000"
+    "nfl|7569|rotowire|636158|1788453346000",
+    "nfl|9997|rotoballer|220011|1788438847000",
+    "nfl|9997|rotowire|636157|1788452932000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Jayden Higgins had been set to start opposite Collins, but Higgins suffered a season-ending knee injury in practice, prompting the Texans to trade for Boutte from the Patriots. Dell has had the most success out of the options behind Collins, but the 2023 third-round pick hasn't suited up since the 2024 season and will miss at least the first four games of 2026. Collins has exceeded 1,000 regular-season receiving yards while scoring at least seven total touchdowns in each of the past three campaigns.",
+      "description": "Collins is the clear No. 1 wide receiver for the Texans heading into the regular season, but the pecking order at the position behind him is uncertain, as Xavier Hutchinson, Jaylin Noel (hamstring), Kayshon Boutte and Jared Wayne are vying for roles, while Jonathan M. Alexander of the Houston Chronicle reports that Tank Dell (knee) will begin the season on IR with a designation to return.",
+      "metadata": {
+        "analysis": "Jayden Higgins had been set to start opposite Collins, but Higgins suffered a season-ending knee injury in practice, prompting the Texans to trade for Boutte from the Patriots. Dell has had the most success out of the options behind Collins, but the 2023 third-round pick hasn't suited up since the 2024 season and will miss at least the first four games of 2026. Collins has exceeded 1,000 regular-season receiving yards while scoring at least seven total touchdowns in each of the past three campaigns.",
+        "description": "Collins is the clear No. 1 wide receiver for the Texans heading into the regular season, but the pecking order at the position behind him is uncertain, as Xavier Hutchinson, Jaylin Noel (hamstring), Kayshon Boutte and Jared Wayne are vying for roles, while Jonathan M. Alexander of the Houston Chronicle reports that Tank Dell (knee) will begin the season on IR with a designation to return.",
+        "title": "Nico Collins - Depth chart uncertain behind him",
+        "topic_id": "1401279629846720512"
+      },
+      "nfl_team": "HOU",
+      "player_id": "7569",
+      "player_name": "Nico Collins",
+      "position": "WR",
+      "published": 1788453346000,
+      "source": "rotowire",
+      "source_key": "636158",
+      "story_id": "nfl|7569|rotowire|636158|1788453346000",
+      "title": "Nico Collins - Depth chart uncertain behind him",
+      "url": null
+    },
+    {
+      "analysis": "Flowers has been in and out of practice seemingly all summer, but he's always been eyeing Week 1 as his target date to be 100 percent, and his return to practice this week puts him on track for the opener in 10 days. The wide receiver inked a big extension with Baltimore during the offseason and is returning as Lamar Jackson's undisputed No. 1 pass-catching option.",
+      "description": "Flowers (lower body) is practicing Thursday, Cordell Woodland of 105.7 The Fan Baltimore reports.",
+      "metadata": {
+        "analysis": "Flowers has been in and out of practice seemingly all summer, but he's always been eyeing Week 1 as his target date to be 100 percent, and his return to practice this week puts him on track for the opener in 10 days. The wide receiver inked a big extension with Baltimore during the offseason and is returning as Lamar Jackson's undisputed No. 1 pass-catching option.",
+        "description": "Flowers (lower body) is practicing Thursday, Cordell Woodland of 105.7 The Fan Baltimore reports.",
+        "title": "Zay Flowers - Returns to practice Thursday",
+        "topic_id": "1401278366522355712"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1788452932000,
+      "source": "rotowire",
+      "source_key": "636157",
+      "story_id": "nfl|9997|rotowire|636157|1788452932000",
+      "title": "Zay Flowers - Returns to practice Thursday",
+      "url": null
+    },
     {
       "analysis": "Montgomery is ticketed for a prominent role after coming over from Detroit in an offseason trade, but it remains to be seen just how much Marks cuts into Montgomery's usage. The 230-pound Montgomery is much better-suited for running inside and short-yardage work than the 208-pound Marks, but Montgomery recorded only 76 receptions across the past three regular seasons in Detroit, so the shifty Marks could siphon away opportunities in passing situations.",
       "description": "Montgomery is one of three running backs on Houston's 53-man roster, along with Woody Marks and British Brooks, Jared Koch of SI.com reports.",
@@ -494,6 +535,26 @@
       "story_id": "nfl|11559|rotowire|636134|1788441796000",
       "title": "Michael Penix - Will start 'eventually,' if not Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) is dressed for practice on Thursday, according to Cordell Woodland of 105.7 The Fan. It will be Flowers' first practice since the team's joint practice with the Minnesota Vikings. The 25-year-old did some sprinting off to the side during Wednesday's practice, but now he is ready to rejoin the rest of the team for the first time in a week. His lower-body injury has never appeared to be serious, so as long as he does not suffer a setback going into practices next week, Flowers should be ready for the Week 1 regular-season opener against the Indianapolis Colts on Sunday, Sept. 13. Flowers is coming off a second straight Pro Bowl appearance and second straight 1,000-yard receiving season in 2025, catching 86 of his 118 targets for a career-high 1,211 yards and five touchdowns in 17 starts. In half-PPR scoring, he was the WR7 overall, which was quite impressive when considering the down year that quarterback Lamar Jackson had. In a new offense that could be beneficial for his volume, Flowers has a clear path to WR1 utility again in 2026, and RotoBaller has him ranked as the No. 14 player at his position.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) is dressed for practice on Thursday, according to Cordell Woodland of 105.7 The Fan. It will be Flowers' first practice since the team's joint practice with the Minnesota Vikings. The 25-year-old did some sprinting off to the side during Wednesday's practice, but now he is ready to rejoin the rest of the team for the first time in a week. His lower-body injury has never appeared to be serious, so as long as he does not suffer a setback going into practices next week, Flowers should be ready for the Week 1 regular-season opener against the Indianapolis Colts on Sunday, Sept. 13. Flowers is coming off a second straight Pro Bowl appearance and second straight 1,000-yard receiving season in 2025, catching 86 of his 118 targets for a career-high 1,211 yards and five touchdowns in 17 starts. In half-PPR scoring, he was the WR7 overall, which was quite impressive when considering the down year that quarterback Lamar Jackson had. In a new offense that could be beneficial for his volume, Flowers has a clear path to WR1 utility again in 2026, and RotoBaller has him ranked as the No. 14 player at his position.",
+        "title": "Zay Flowers Dressed for Thursday's Practice",
+        "topic_id": "1401279622460510208",
+        "url": "https://www.rotoballer.com/player-news/zay-flowers-dressed-for-thursdays-practice/1922584"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1788438847000,
+      "source": "rotoballer",
+      "source_key": "220011",
+      "story_id": "nfl|9997|rotoballer|220011|1788438847000",
+      "title": "Zay Flowers Dressed for Thursday's Practice",
+      "url": "https://www.rotoballer.com/player-news/zay-flowers-dressed-for-thursdays-practice/1922584"
     },
     {
       "analysis": null,
