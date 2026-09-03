@@ -1,9 +1,13 @@
 {
-  "last_checked_at": "2026-09-03T17:27:39Z",
+  "last_checked_at": "2026-09-03T17:42:39Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13286|rotoballer|220013|1788441194000"
+    "nfl|11564|rotoballer|220014|1788442029000",
+    "nfl|12489|rotowire|636163|1788456332000",
+    "nfl|7526|rotowire|636165|1788456959000",
+    "nfl|8111|rotoballer|220015|1788442628000",
+    "nfl|8146|rotowire|636164|1788456517000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +17,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "\"He's going to play everywhere,\" Webb said. \"He's really really good. He's going to play everywhere. Except offensive line.\" Coach Sean Payton has been moving Waddle all over the formation during training camp, and he recently beat Patrick Surtain for a 60-yard touchdown in practice. Payton added that Waddle \"walks on water\" with his traits. Acquired from the Dolphins over the offseason, Waddle missed some time early in camp with tightness. He's looking like a potential home run pick in the third and fourth rounds of fantasy drafts. Waddle is expected to be the engine of the Denver offense.",
+      "description": "Broncos OC Davis Webb said Aug. 25 that Waddle is \"going to play everywhere\" on offense this season, Zac Stevens of TheDNVR.com reports.",
+      "metadata": {
+        "analysis": "\"He's going to play everywhere,\" Webb said. \"He's really really good. He's going to play everywhere. Except offensive line.\" Coach Sean Payton has been moving Waddle all over the formation during training camp, and he recently beat Patrick Surtain for a 60-yard touchdown in practice. Payton added that Waddle \"walks on water\" with his traits. Acquired from the Dolphins over the offseason, Waddle missed some time early in camp with tightness. He's looking like a potential home run pick in the third and fourth rounds of fantasy drafts. Waddle is expected to be the engine of the Denver offense.",
+        "description": "Broncos OC Davis Webb said Aug. 25 that Waddle is \"going to play everywhere\" on offense this season, Zac Stevens of TheDNVR.com reports.",
+        "title": "Jaylen Waddle - Expected to play all over formation",
+        "topic_id": "1401294727633993728"
+      },
+      "nfl_team": "DEN",
+      "player_id": "7526",
+      "player_name": "Jaylen Waddle",
+      "position": "WR",
+      "published": 1788456959000,
+      "source": "rotowire",
+      "source_key": "636165",
+      "story_id": "nfl|7526|rotowire|636165|1788456959000",
+      "title": "Jaylen Waddle - Expected to play all over formation",
+      "url": null
+    },
+    {
+      "analysis": "Wilson led the Jets with 395 receiving yards in 2025 despite missing 10 of the last 11 games due to a knee injury. The 2022 first-round pick has regained health, while the passing offense around him has undergone a significant makeover, with veteran QB Geno Smith and rookie first-round pass catchers Cooper and Kenyon Sadiq (abdomen) among the team's most notable additions. Wilson exceeded 1,000 receiving yards in each of his first three NFL seasons despite uneven QB play prior to falling well short of that mark in his injury-shortened fourth campaign.",
+      "description": "Wilson is set to top a Jets wide receiver depth chart that also includes Adonai Mitchell, Omar Cooper, Isaiah Williams, Tim Patrick and Arian Smith, Randy Lange of the Jets' official site reports.",
+      "metadata": {
+        "analysis": "Wilson led the Jets with 395 receiving yards in 2025 despite missing 10 of the last 11 games due to a knee injury. The 2022 first-round pick has regained health, while the passing offense around him has undergone a significant makeover, with veteran QB Geno Smith and rookie first-round pass catchers Cooper and Kenyon Sadiq (abdomen) among the team's most notable additions. Wilson exceeded 1,000 receiving yards in each of his first three NFL seasons despite uneven QB play prior to falling well short of that mark in his injury-shortened fourth campaign.",
+        "description": "Wilson is set to top a Jets wide receiver depth chart that also includes Adonai Mitchell, Omar Cooper, Isaiah Williams, Tim Patrick and Arian Smith, Randy Lange of the Jets' official site reports.",
+        "title": "Garrett Wilson - Top target in revamped Jets offense",
+        "topic_id": "1401293468176777216"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8146",
+      "player_name": "Garrett Wilson",
+      "position": "WR",
+      "published": 1788456517000,
+      "source": "rotowire",
+      "source_key": "636164",
+      "story_id": "nfl|8146|rotowire|636164|1788456517000",
+      "title": "Garrett Wilson - Top target in revamped Jets offense",
+      "url": null
+    },
+    {
+      "analysis": "Along with veteran J.K. Dobbins and rookie fourth-round pick Jonah Coleman, Harvey was rested in the Broncos' 34-6 win over the Vikings in the preseason finale Friday, which seemingly indicates that Payton intends for all three players to have roles in the game plan Week 1 against the Chiefs. After managing a soft-tissue issue in training camp, Dobbins is back to full health and is slated to begin the season as the Broncos' starter and lead runner, while the 5-foot-8, 220-pound Coleman is also likely to get some work on early downs. That leaves Harvey in line to serve as more of a change-of-pace option, which could make it difficult for him to build on the seven rushing scores he delivered as a rookie last season. Harvey averaged an unremarkable 3.7 yards per carry but proved to be an adept receiver right away, turning in a 47-356-5 line on 58 targets. He'll maintain more appeal in fantasy leagues with PPR scoring, though Harvey could emerge as more trustworthy option in non-PPR formats if he earned more carries in the event Dobbins and/or Coleman miss time at any point.",
+      "description": "Harvey is expected to handle a key role in the Denver passing game in 2026, Jon Heath of USA Today reports. \"That's where you felt the initial impact,\" Broncos coach Sean Payton said last week, in reference to Harvey's receiving ability. \"And you saw marks of that in college and you also saw him as a runner. He's having a good camp in both areas [rushing and receiving], but [receiving] is certainly a strength of his.\"",
+      "metadata": {
+        "analysis": "Along with veteran J.K. Dobbins and rookie fourth-round pick Jonah Coleman, Harvey was rested in the Broncos' 34-6 win over the Vikings in the preseason finale Friday, which seemingly indicates that Payton intends for all three players to have roles in the game plan Week 1 against the Chiefs. After managing a soft-tissue issue in training camp, Dobbins is back to full health and is slated to begin the season as the Broncos' starter and lead runner, while the 5-foot-8, 220-pound Coleman is also likely to get some work on early downs. That leaves Harvey in line to serve as more of a change-of-pace option, which could make it difficult for him to build on the seven rushing scores he delivered as a rookie last season. Harvey averaged an unremarkable 3.7 yards per carry but proved to be an adept receiver right away, turning in a 47-356-5 line on 58 targets. He'll maintain more appeal in fantasy leagues with PPR scoring, though Harvey could emerge as more trustworthy option in non-PPR formats if he earned more carries in the event Dobbins and/or Coleman miss time at any point.",
+        "description": "Harvey is expected to handle a key role in the Denver passing game in 2026, Jon Heath of USA Today reports. \"That's where you felt the initial impact,\" Broncos coach Sean Payton said last week, in reference to Harvey's receiving ability. \"And you saw marks of that in college and you also saw him as a runner. He's having a good camp in both areas [rushing and receiving], but [receiving] is certainly a strength of his.\"",
+        "title": "RJ Harvey - Prepping for passing game role",
+        "topic_id": "1401292215644323840"
+      },
+      "nfl_team": "DEN",
+      "player_id": "12489",
+      "player_name": "RJ Harvey",
+      "position": "RB",
+      "published": 1788456332000,
+      "source": "rotowire",
+      "source_key": "636163",
+      "story_id": "nfl|12489|rotowire|636163|1788456332000",
+      "title": "RJ Harvey - Prepping for passing game role",
+      "url": null
+    },
     {
       "analysis": "The sides squeezed this deal in before the start of the regular season, as Wilson had been set to enter the final year of his rookie deal. Selected in the third round of the 2023 Draft, Wilson had a true breakout season in 2025, as he operated as the Cardinals' WR1 most weeks while Marvin Harrison battled injuries throughout the campaign. Wilson responded with three 10--yard receiving games over the final eight weeks of the season and finished the year with 78 catches for 1,006 yards and seven touchdowns. Six of his seven scores came in the final five contests. Harrison is back healthy this season, but Wilson figures to remain a prominent piece of the passing offense that also includes All-Pro tight end Trey McBride.",
       "description": "The Cardinals signed Wilson to a three-year, $75 million contract extension Thursday, Adam Schefter of ESPN reports.",
@@ -75,10 +139,10 @@
       "url": null
     },
     {
-      "analysis": "Reed is joined by Christian Watson, Matthew Golden, Bo Melton, Skyy Moore and K. Michael Sturdivant in Green Bay's wide receiver room, while Savion Williams (ankle) is on IR with a designation to return, meaning the 2025 third-round pick will miss at least four weeks before possibly factoring into the equation as well. Reed has historically been productive when healthy despite frequently coming off the field in two-wide sets, with his 63.2 percent snap share during the 2024 regular season representing his single-season career high. Watson is locked in as a starter, but Reed could earn a larger share of playing time if he holds off the 2025 first-round pick Golden.",
+      "analysis": "Reed is joined by Christian Watson, Matthew Golden, Bo Melton, Skyy Moore and J. Michael Sturdivant in Green Bay's wide receiver room, while Savion Williams (ankle) is on IR with a designation to return, meaning the 2025 third-round pick will miss at least four weeks before possibly factoring into the equation as well. Reed has historically been productive when healthy despite frequently coming off the field in two-wide sets, with his 63.2 percent snap share during the 2024 regular season representing his single-season career high. Watson is locked in as a starter, but Reed could earn a larger share of playing time if he holds off the 2025 first-round pick Golden.",
       "description": "Reed is one of six wide receivers on the Packers' initial 53-man roster, Wes Hodkiewicz of the team's official site reports.",
       "metadata": {
-        "analysis": "Reed is joined by Christian Watson, Matthew Golden, Bo Melton, Skyy Moore and K. Michael Sturdivant in Green Bay's wide receiver room, while Savion Williams (ankle) is on IR with a designation to return, meaning the 2025 third-round pick will miss at least four weeks before possibly factoring into the equation as well. Reed has historically been productive when healthy despite frequently coming off the field in two-wide sets, with his 63.2 percent snap share during the 2024 regular season representing his single-season career high. Watson is locked in as a starter, but Reed could earn a larger share of playing time if he holds off the 2025 first-round pick Golden.",
+        "analysis": "Reed is joined by Christian Watson, Matthew Golden, Bo Melton, Skyy Moore and J. Michael Sturdivant in Green Bay's wide receiver room, while Savion Williams (ankle) is on IR with a designation to return, meaning the 2025 third-round pick will miss at least four weeks before possibly factoring into the equation as well. Reed has historically been productive when healthy despite frequently coming off the field in two-wide sets, with his 63.2 percent snap share during the 2024 regular season representing his single-season career high. Watson is locked in as a starter, but Reed could earn a larger share of playing time if he holds off the 2025 first-round pick Golden.",
         "description": "Reed is one of six wide receivers on the Packers' initial 53-man roster, Wes Hodkiewicz of the team's official site reports.",
         "title": "Jayden Reed - Competing with Golden for WR2 spot",
         "topic_id": "1401284670775173120"
@@ -596,6 +660,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers tight end Cade Otton has rarely flashed for fantasy since coming into the league as a fourth-round pick in 2022, but he has reliably done what's been asked of him, and with the Buccaneers opening the season with a receiver room at less than full strength, he could again be asked to step up. Emeka Egbuka (toe) and Jalen McMillan (knee) have both been dealing with lingering injuries, putting their Week 1 availability in question. Even if both should suit up for the Buccaneers' season-opener against the Bengals, they could each face a snap count of sorts, providing Otton with a pathway to heavier involvement and an increased target share. Cracking the top 15 of the position four times in 2025, Otton has become a prototypical streamer, and although he ranks as RotoBaller's TE24 for 2026, he has the opportunity to re-enter that conversation straight out of the gate, making him a potentially usable piece early in the year.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers tight end Cade Otton has rarely flashed for fantasy since coming into the league as a fourth-round pick in 2022, but he has reliably done what's been asked of him, and with the Buccaneers opening the season with a receiver room at less than full strength, he could again be asked to step up. Emeka Egbuka (toe) and Jalen McMillan (knee) have both been dealing with lingering injuries, putting their Week 1 availability in question. Even if both should suit up for the Buccaneers' season-opener against the Bengals, they could each face a snap count of sorts, providing Otton with a pathway to heavier involvement and an increased target share. Cracking the top 15 of the position four times in 2025, Otton has become a prototypical streamer, and although he ranks as RotoBaller's TE24 for 2026, he has the opportunity to re-enter that conversation straight out of the gate, making him a potentially usable piece early in the year.",
+        "title": "Cade Otton a Potential Early-Season Streamer Amid Buccaneers' Wide Receiver Concerns",
+        "topic_id": "1401294723511017472",
+        "url": "https://www.rotoballer.com/player-news/cade-otton-a-potential-early-season-streamer-amid-buccaneers-wide-receiver-concerns/1922606"
+      },
+      "nfl_team": "TB",
+      "player_id": "8111",
+      "player_name": "Cade Otton",
+      "position": "TE",
+      "published": 1788442628000,
+      "source": "rotoballer",
+      "source_key": "220015",
+      "story_id": "nfl|8111|rotoballer|220015|1788442628000",
+      "title": "Cade Otton a Potential Early-Season Streamer Amid Buccaneers' Wide Receiver Concerns",
+      "url": "https://www.rotoballer.com/player-news/cade-otton-a-potential-early-season-streamer-amid-buccaneers-wide-receiver-concerns/1922606"
+    },
+    {
       "analysis": "Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.",
       "description": "Sampson was rested for the Browns' 37-13 win over the Patriots in their Aug. 27 preseason finale.",
       "metadata": {
@@ -614,6 +698,26 @@
       "story_id": "nfl|12469|rotowire|636135|1788442348000",
       "title": "Dylan Sampson - Rests up during preseason finale",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots quarterback Drake Maye came one vote away from winning the MVP Award in his first full season as a starter, and head coach Mike Vrabel has seen notable improvements since he took over the team in 2025. In speaking with reporters on Thursday about Maye's growth, Vrabel pointed out, \"More comfort in what we're doing. More command. More understanding.\" Maye threw for 4,394 yards and 31 touchdowns to only eight interceptions, adding 450 yards and four scores on the ground on his way to a QB2 finish, and the Patriots spent the offseason improving his offensive line and pass-catchers, most notably adding receivers A.J. Brown and Romeo Doubs, both of whom have reportedly established a quick rapport with the 24-year-old signal-caller. Questions about how much a historically easy schedule played into Maye's success have lingered throughout the offseason, particularly after a significant postseason dropoff, but an improved offensive environment could serve to raise a fantasy ceiling that was already among the highest in the league, making him a potential value at RotoBaller's QB6.",
+      "metadata": {
+        "description": "New England Patriots quarterback Drake Maye came one vote away from winning the MVP Award in his first full season as a starter, and head coach Mike Vrabel has seen notable improvements since he took over the team in 2025. In speaking with reporters on Thursday about Maye's growth, Vrabel pointed out, \"More comfort in what we're doing. More command. More understanding.\" Maye threw for 4,394 yards and 31 touchdowns to only eight interceptions, adding 450 yards and four scores on the ground on his way to a QB2 finish, and the Patriots spent the offseason improving his offensive line and pass-catchers, most notably adding receivers A.J. Brown and Romeo Doubs, both of whom have reportedly established a quick rapport with the 24-year-old signal-caller. Questions about how much a historically easy schedule played into Maye's success have lingered throughout the offseason, particularly after a significant postseason dropoff, but an improved offensive environment could serve to raise a fantasy ceiling that was already among the highest in the league, making him a potential value at RotoBaller's QB6.",
+        "title": "Drake Maye's Growth Has Stood Out to His Head Coach",
+        "topic_id": "1401293465253392384",
+        "url": "https://www.rotoballer.com/player-news/drake-mayes-growth-has-stood-out-to-his-head-coach/1922604"
+      },
+      "nfl_team": "NE",
+      "player_id": "11564",
+      "player_name": "Drake Maye",
+      "position": "QB",
+      "published": 1788442029000,
+      "source": "rotoballer",
+      "source_key": "220014",
+      "story_id": "nfl|11564|rotoballer|220014|1788442029000",
+      "title": "Drake Maye's Growth Has Stood Out to His Head Coach",
+      "url": "https://www.rotoballer.com/player-news/drake-mayes-growth-has-stood-out-to-his-head-coach/1922604"
     },
     {
       "analysis": "Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.",
