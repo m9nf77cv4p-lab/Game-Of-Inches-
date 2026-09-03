@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-03T22:29:56Z",
+  "last_checked_at": "2026-09-03T23:15:33Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|6790|rotoballer|220042|1788459307000"
+    "nfl|11620|rotowire|636197|1788476225000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Odunze exited in the first hour of Thursday's session, but despite attempting to stay on the field, he was escorted off of it with team trainers. Wiederer's report seems to back up that Odunze's new health concern isn't a serious one, but he'll still enter Week 1 prep with a question mark regarding his status. With fellow WR Luther Burden also tending to a groin injury, the Bears currently have only Kalif Raymond, Zavion Thomas and Jahdae Walker as healthy options at the position on the active roster.",
+      "description": "Odunze \"should be all good\" after leaving Thursday's practice with an apparent right leg injury, Dan Wiederer of the Chicago Tribune reports.",
+      "metadata": {
+        "analysis": "Odunze exited in the first hour of Thursday's session, but despite attempting to stay on the field, he was escorted off of it with team trainers. Wiederer's report seems to back up that Odunze's new health concern isn't a serious one, but he'll still enter Week 1 prep with a question mark regarding his status. With fellow WR Luther Burden also tending to a groin injury, the Bears currently have only Kalif Raymond, Zavion Thomas and Jahdae Walker as healthy options at the position on the active roster.",
+        "description": "Odunze \"should be all good\" after leaving Thursday's practice with an apparent right leg injury, Dan Wiederer of the Chicago Tribune reports.",
+        "title": "Rome Odunze - Seemingly avoids serious setback",
+        "topic_id": "1401375270392360960"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1788476225000,
+      "source": "rotowire",
+      "source_key": "636197",
+      "story_id": "nfl|11620|rotowire|636197|1788476225000",
+      "title": "Rome Odunze - Seemingly avoids serious setback",
+      "url": null
+    },
     {
       "analysis": "Hammond notes that Swift came off the field apparently holding at his midsection or core area. This will remain a situation to monitor during practice next week. ",
       "description": "D'Andre Swift left Thursday's practice early with an apparent injury. ",
@@ -1800,10 +1820,10 @@
       "url": "https://www.rotoballer.com/player-news/drake-mayes-growth-has-stood-out-to-his-head-coach/1922604"
     },
     {
-      "analysis": "Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.",
+      "analysis": "Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part in 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.",
       "description": "The Falcons plan for Penix (knee) to start \"eventually\" this season, but head coach Kevin Stefanski has yet to decide whether Penix or Tua Tagovailoa will direct the offense Week 1 in Pittsburgh, Cameron Wolfe of NFL Network reports.",
       "metadata": {
-        "analysis": "Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.",
+        "analysis": "Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part in 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.",
         "description": "The Falcons plan for Penix (knee) to start \"eventually\" this season, but head coach Kevin Stefanski has yet to decide whether Penix or Tua Tagovailoa will direct the offense Week 1 in Pittsburgh, Cameron Wolfe of NFL Network reports.",
         "title": "Michael Penix - Will start 'eventually,' if not Week 1",
         "topic_id": "1401231954778529792"
@@ -36840,26 +36860,6 @@
       "story_id": "nfl|6783|rotoballer|218003|1785922868000",
       "title": "Jerry Jeudy No Longer the No. 1 Option in Cleveland",
       "url": "https://www.rotoballer.com/player-news/jerry-jeudy-no-longer-the-no-1-option-in-cleveland/1903333"
-    },
-    {
-      "analysis": null,
-      "description": "New York Giants 25-year-old tight end Theo Johnson put together a nice season in 2025, hauling in 45 of his 74 targets for 528 receiving yards and five touchdowns. He had a 16.7 percent target share, was eighth in red zone targets, 7th in average target distance, and seventh in snap share. The opportunities were there for him, but much was left on the table as he averaged only 8.5 fantasy points per game, which was 22nd amongst tight ends. To make matters worse for Johnson, the Giants brought in Isaiah Likely over from Baltimore, who has been a fantasy sleeper for many experts over the past few seasons but has never panned out. At this moment, Likely projects to be the team's No.1 tight end and potentially the No. 2 passing option in this offense that is dealing with Malik Nabers (knee) recovering from an injury, and a mediocre wide receiver room that includes Odell Beckham Jr., Darnell Mooney, Calvin Austin, JuJu Smith-Schuster, and Malachi Fields. Johnson is off the radar in most redraft formats, but could be a decent buy-low option in dynasty if things with Likely don't work out, and it probably wouldn't take much to get him on your roster.",
-      "metadata": {
-        "description": "New York Giants 25-year-old tight end Theo Johnson put together a nice season in 2025, hauling in 45 of his 74 targets for 528 receiving yards and five touchdowns. He had a 16.7 percent target share, was eighth in red zone targets, 7th in average target distance, and seventh in snap share. The opportunities were there for him, but much was left on the table as he averaged only 8.5 fantasy points per game, which was 22nd amongst tight ends. To make matters worse for Johnson, the Giants brought in Isaiah Likely over from Baltimore, who has been a fantasy sleeper for many experts over the past few seasons but has never panned out. At this moment, Likely projects to be the team's No.1 tight end and potentially the No. 2 passing option in this offense that is dealing with Malik Nabers (knee) recovering from an injury, and a mediocre wide receiver room that includes Odell Beckham Jr., Darnell Mooney, Calvin Austin, JuJu Smith-Schuster, and Malachi Fields. Johnson is off the radar in most redraft formats, but could be a decent buy-low option in dynasty if things with Likely don't work out, and it probably wouldn't take much to get him on your roster.",
-        "title": "Theo Johnson a Buy-Low Target in Dynasty Formats",
-        "topic_id": "1390567873038012416",
-        "url": "https://www.rotoballer.com/player-news/theo-johnson-a-buy-low-target-in-dynasty-formats/1903164"
-      },
-      "nfl_team": "NYG",
-      "player_id": "11597",
-      "player_name": "Theo Johnson",
-      "position": "TE",
-      "published": 1785884945000,
-      "source": "rotoballer",
-      "source_key": "218000",
-      "story_id": "nfl|11597|rotoballer|218000|1785884945000",
-      "title": "Theo Johnson a Buy-Low Target in Dynasty Formats",
-      "url": "https://www.rotoballer.com/player-news/theo-johnson-a-buy-low-target-in-dynasty-formats/1903164"
     }
   ]
 }

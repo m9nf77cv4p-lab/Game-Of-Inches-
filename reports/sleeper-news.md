@@ -7,6 +7,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 ## Latest news
 
+- **NEW — Rome Odunze** — Rome Odunze - Seemingly avoids serious setback (2026-09-03T22:57:05Z)
+  - Odunze exited in the first hour of Thursday's session, but despite attempting to stay on the field, he was escorted off of it with team trainers. Wiederer's report seems to back up that Odunze's new health concern isn't a serious one, but he'll still enter Week 1 prep with a question mark regarding his status. With fellow WR Luther Burden also tending to a groin injury, the Bears currently have only Kalif Raymond, Zavion Thomas and Jahdae Walker as healthy options at the position on the active roster.
 - **D'Andre Swift** — D'Andre Swift exits practice early Thursday  (2026-09-03T22:00:09.545000Z)
   - Hammond notes that Swift came off the field apparently holding at his midsection or core area. This will remain a situation to monitor during practice next week. 
   - Source: https://www.fantasypros.com/nfl/news/605832/dandre-swift-exits-practice-early-thursday.php
@@ -59,7 +61,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Kamara was diagnosed with a sprained MCL a little over two weeks ago and was given a return timetable of "at least one month," according to Adam Schefter of ESPN, so it's not at all surprising to see the veteran running back still sidelined. The Saints will begin official Week 1 prep next week, and it would be somewhat shocking to see Kamara practice and be available for the season opener against the Lions. With Kendre Miller (undisclosed) also missing practice time, Audric Estime could be the backup to Travis Etienne against Detroit.
 - **Rico Dowdle** — Rico Dowdle - Splitting backfield with Warren (2026-09-03T18:19:37Z)
   - Despite Warren being the top incumbent running back in Pittsburgh, Graziano believes that Dowdle is a better bet to handle early downs out of the backfield, not only due to his experience working with new coach Mike McCarthy in Dallas but because of his combined 471 carries over the last two seasons. Both campaigns resulted in more than 1,000 yards on the ground for Dowdle, while Warren has topped out at 958 rushing yards (2025) in his four-year career. Warren does have the advantage in pass-catching chops, with 139 receptions over the last three years. As a result, both players are in line for weekly usage for the Steelers.
-- **NEW — D'Andre Swift** — D'Andre Swift Suffers Undisclosed Injury in Practice (2026-09-03T18:15:07Z)
+- **D'Andre Swift** — D'Andre Swift Suffers Undisclosed Injury in Practice (2026-09-03T18:15:07Z)
   - Source: https://www.rotoballer.com/player-news/dandre-swift-suffers-undisclosed-injury-in-practice/1922796
 - **Jaylen Warren** — Jaylen Warren - To share backfield with Dowdle (2026-09-03T18:12:11Z)
   - With Kenny Gainwell moving on to the Buccaneers in free agency, Warren is the top incumbent running back in Pittsburgh, but Dowdle has taken Gainwell's place. Dowdle's previous experience with new coach Mike McCarthy in Dallas could dampen Warren's early-down role somewhat, but according to Graziano, Warren should take on the bulk of the pass-catching work out of Pittsburgh's backfield, as evidenced by his 139 catches in 48 regular-season games over the last three campaigns. Overall, Warren handled a career-high 251 touches in 2025, while Dowdle is coming off back-to-back seasons with 274 (with the Cowboys) and 275 (in Carolina), so both should be busy on a weekly basis this fall.
@@ -192,7 +194,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Drake Maye** — Drake Maye's Growth Has Stood Out to His Head Coach (2026-09-03T13:27:09Z)
   - Source: https://www.rotoballer.com/player-news/drake-mayes-growth-has-stood-out-to-his-head-coach/1922604
 - **Michael Penix** — Michael Penix - Will start 'eventually,' if not Week 1 (2026-09-03T13:23:16Z)
-  - Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.
+  - Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part in 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.
 - **Jadarian Price** — Jadarian Price Set for an Important Early-Season Role (2026-09-03T13:13:14Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-set-for-an-important-early-season-role/1922599
 - **Michael Wilson** — Cardinals, Michael Wilson Agree on Three-Year Extension (2026-09-03T12:56:09Z)
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/omarion-hampton-set-up-for-year-2-breakout/1922532
 - **Jalen Hurts** — Jalen Hurts Admits he Grew Apart From Former Receiver (2026-09-03T11:39:09Z)
   - Source: https://www.rotoballer.com/player-news/jalen-hurts-admits-he-grew-apart-from-former-receiver/1922526
-- **Justice Hill** — Justice Hill's Handcuff Value Gets a Boost (2026-09-03T11:35:39Z)
-  - Source: https://www.rotoballer.com/player-news/justice-hills-handcuff-value-gets-a-boost/1922511
