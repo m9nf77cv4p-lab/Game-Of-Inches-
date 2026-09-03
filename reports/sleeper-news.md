@@ -2,13 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1831**
+- Stored stories: **1832**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — D'Andre Swift** — D'Andre Swift - Leaves practice with injury (2026-09-03T21:20:13Z)
-  - The initial report did not provide further specifics, but per Sean Hammond of the Chicago Tribune, Swift exited the field holding his "midsection or core area." Backfield mate Kyle Monangai is already working back from a knee issue, so the top two running backs on the depth chart for the Bears will head into the weekend with an injury designation.
+- **NEW — Rome Odunze** — Rome Odunze - Sustains apparent leg injury (2026-09-03T21:31:28Z)
+  - Per the report, Odunze did not seem overly concerned about the injury and attempted to stay on the field, but the training staff decided to bring his day to an early end. His status will be updated again when more details are released, but as things stand both Odunze and Luther Burden (groin) are less than 100 percent. Kalif Raymond, Zavion Thomas and Jahdae Walker are next in line on the depth chart.
+- **D'Andre Swift** — D'Andre Swift - Leaves practice with injury (2026-09-03T21:20:13Z)
+  - The initial report did not provide further specifics, but per Sean Hammond of the Chicago Tribune, Swift exited the field holding his "midsection or core area." Backfield mate Kyle Monangai is already working back from a knee issue, so the top two running backs on the depth chart for the Bears will head into the weekend with an injury designation, and Roschon Johnson will be the only ball carrier on the roster without one.
 - **Tucker Kraft** — Tucker Kraft - Moving around well at practice (2026-09-03T20:31:12Z)
   - Though Kraft was held out of action during the Packers' entire preseason slate, he was able to clear a major hurdle in his recovery from the torn ACL he sustained Nov. 2, 2025 by taking contact in a joint practice with the Cardinals last week. Kraft appeared to be in full uniform and pads for Wednesday's session, suggesting that he's on track to be ready to go for the Packers' Week 1 matchup with the Vikings. Green Bay will release its first injury report of 2026 next Wednesday, and if Kraft is listed as a full participant or is off the report entirely, it would provide confirmation that he's been cleared to play in the season opener.
 - **Alec Pierce** — Alec Pierce (ankle) practices in full on Thursday  (2026-09-03T20:20:08.912000Z)
@@ -209,5 +211,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/james-cook-iii-set-for-more-passing-work-to-reduce-rushing-workload/1922466
 - **Pat Bryant** — Pat Bryant Turning Heads During Broncos Training Camp (2026-09-03T10:41:56Z)
   - Source: https://www.rotoballer.com/player-news/pat-bryant-turning-heads-during-broncos-training-camp/1922452
-- **Romeo Doubs** — Romeo Doubs Set To Be No. 2 Receiver in New England (2026-09-03T10:28:08Z)
-  - Source: https://www.rotoballer.com/player-news/romeo-doubs-set-to-be-no-2-receiver-in-new-england/1922439
