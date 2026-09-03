@@ -1,9 +1,13 @@
 {
-  "last_checked_at": "2026-09-03T19:54:30Z",
+  "last_checked_at": "2026-09-03T20:08:23Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9226|rotowire|636189|1788464350000"
+    "nfl|11635|rotoballer|220031|1788451212000",
+    "nfl|12517|rotowire|636190|1788465058000",
+    "nfl|7021|rotoballer|220032|1788451146000",
+    "nfl|9511|rotoballer|220029|1788450606000",
+    "nfl|9756|rotoballer|220030|1788450307000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +17,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The 10th overall pick in the 2025 Draft, Loveland had a slow start to his rookie season, coming out of Week 8 with 11 catches total on the campaign and one DNP due to a hip injury. From Week 9 through the Bears' divisional-round loss to the Rams, though, he ran roughshod over opposing defenses, hauling in 59 of 89 targets for 790 yards and six touchdowns in 12 games. Loveland capped that stretch with four consecutive contests with double-digit targets, indicating he left off last season as QB Caleb Williams' top option in the passing game. While Loveland still has to contend with WRs Rome Odunze and Luther Burden (groin) for the attention of Williams, the tight end is poised to make a leap to the NFL's best at the position.",
+      "description": "Loveland is listed as a starting tight end along with Cole Kmet on the Bears' unofficial depth chart.",
+      "metadata": {
+        "analysis": "The 10th overall pick in the 2025 Draft, Loveland had a slow start to his rookie season, coming out of Week 8 with 11 catches total on the campaign and one DNP due to a hip injury. From Week 9 through the Bears' divisional-round loss to the Rams, though, he ran roughshod over opposing defenses, hauling in 59 of 89 targets for 790 yards and six touchdowns in 12 games. Loveland capped that stretch with four consecutive contests with double-digit targets, indicating he left off last season as QB Caleb Williams' top option in the passing game. While Loveland still has to contend with WRs Rome Odunze and Luther Burden (groin) for the attention of Williams, the tight end is poised to make a leap to the NFL's best at the position.",
+        "description": "Loveland is listed as a starting tight end along with Cole Kmet on the Bears' unofficial depth chart.",
+        "title": "Colston Loveland - Listed as starter on depth chart",
+        "topic_id": "1401328702750523392"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12517",
+      "player_name": "Colston Loveland",
+      "position": "TE",
+      "published": 1788465058000,
+      "source": "rotowire",
+      "source_key": "636190",
+      "story_id": "nfl|12517|rotowire|636190|1788465058000",
+      "title": "Colston Loveland - Listed as starter on depth chart",
+      "url": null
+    },
     {
       "analysis": "The Dolphins traded for Jarquez Hunter shortly before cutdown day, but he ultimately didn't make the 53-man roster, though Hunter remains in the organization as part of the practice squad. Fullback D.J. Herman is also listed as a running back, but the team's backfield is otherwise unchanged from 2025, when Achane produced a career-high 1,838 scrimmage yards. The team around Achane went through an offseason overhaul, including the addition of mobile QB Malik Willis, but Achane projects to maintain a prominent role as the centerpiece of an otherwise unproven offense.",
       "description": "Achane is set to lead a Dolphins backfield in 2026 that will also include Jaylen Wright and Ollie Gordon (ribs), based on Miami's initial 53-man roster.",
@@ -174,11 +198,11 @@
       "url": null
     },
     {
-      "analysis": "It marks Pierce's first full practice of the summer after he underwent offseason ankle surgery. General manager Chris Ballard said Tuesday that the \"hope\" was Pierce would be ready for the team's Week 1 opener against the Ravens, and this return to full work would suggest the wideout is on the path to playing Sunday, Sept. 13. Pierce is expected to operate as Daniel Jones' clear top outside field-stretching weapon this season, while Josh Downs (calf), Keenan Allen and Tyler Warren (groin) mostly work in the short and intermediate areas.",
-      "description": "Pierce (ankle) was a full participant in Thursday's practice, Nathan Brown of The Indianapolis Star reports.",
+      "analysis": "It marks Pierce's first full practice of the summer after he underwent offseason ankle surgery. GM Chris Ballard said Tuesday that the \"hope\" was Pierce would be ready for the team's Week 1 opener against the Ravens, and this return to full work would suggest the wideout is on the path to playing Sunday, Sept. 13. Pierce is expected to operate as Daniel Jones' clear top outside field-stretching weapon this season, while Josh Downs (calf), Keenan Allen and Tyler Warren (groin) mostly work in the short and intermediate areas.",
+      "description": "Coach Shane Steichen said Pierce (ankle) was a full participant in Thursday's practice, Nathan Brown of The Indianapolis Star reports.",
       "metadata": {
-        "analysis": "It marks Pierce's first full practice of the summer after he underwent offseason ankle surgery. General manager Chris Ballard said Tuesday that the \"hope\" was Pierce would be ready for the team's Week 1 opener against the Ravens, and this return to full work would suggest the wideout is on the path to playing Sunday, Sept. 13. Pierce is expected to operate as Daniel Jones' clear top outside field-stretching weapon this season, while Josh Downs (calf), Keenan Allen and Tyler Warren (groin) mostly work in the short and intermediate areas.",
-        "description": "Pierce (ankle) was a full participant in Thursday's practice, Nathan Brown of The Indianapolis Star reports.",
+        "analysis": "It marks Pierce's first full practice of the summer after he underwent offseason ankle surgery. GM Chris Ballard said Tuesday that the \"hope\" was Pierce would be ready for the team's Week 1 opener against the Ravens, and this return to full work would suggest the wideout is on the path to playing Sunday, Sept. 13. Pierce is expected to operate as Daniel Jones' clear top outside field-stretching weapon this season, while Josh Downs (calf), Keenan Allen and Tyler Warren (groin) mostly work in the short and intermediate areas.",
+        "description": "Coach Shane Steichen said Pierce (ankle) was a full participant in Thursday's practice, Nathan Brown of The Indianapolis Star reports.",
         "title": "Alec Pierce - Practices fully Thursday",
         "topic_id": "1401312343886934016"
       },
@@ -494,10 +518,10 @@
       "url": null
     },
     {
-      "analysis": "The sides squeezed this deal in before the start of the regular season, as Wilson had been set to enter the final year of his rookie deal. Selected in the third round of the 2023 Draft, Wilson had a true breakout season in 2025, as he operated as the Cardinals' WR1 most weeks while Marvin Harrison battled injuries throughout the campaign. Wilson responded with three 10--yard receiving games over the final eight weeks of the season and finished the year with 78 catches for 1,006 yards and seven touchdowns. Six of his seven scores came in the final five contests. Harrison is back healthy this season, but Wilson figures to remain a prominent piece of the passing offense that also includes All-Pro tight end Trey McBride.",
+      "analysis": "The sides squeezed this deal in before the start of the regular season, as Wilson had been set to enter the final year of his rookie deal. Selected in the third round of the 2023 Draft, Wilson had a true breakout season in 2025, as he operated as the Cardinals' WR1 most weeks while Marvin Harrison battled injuries throughout the campaign. Wilson responded with three 100-yard receiving games over the final eight weeks of the season and finished the year with 78 catches for 1,006 yards and seven touchdowns. Six of his seven scores came in the final five contests. Harrison is back healthy this season, but Wilson figures to remain a prominent piece of a passing offense that also includes All-Pro tight end Trey McBride.",
       "description": "The Cardinals signed Wilson to a three-year, $75 million contract extension Thursday, Adam Schefter of ESPN reports.",
       "metadata": {
-        "analysis": "The sides squeezed this deal in before the start of the regular season, as Wilson had been set to enter the final year of his rookie deal. Selected in the third round of the 2023 Draft, Wilson had a true breakout season in 2025, as he operated as the Cardinals' WR1 most weeks while Marvin Harrison battled injuries throughout the campaign. Wilson responded with three 10--yard receiving games over the final eight weeks of the season and finished the year with 78 catches for 1,006 yards and seven touchdowns. Six of his seven scores came in the final five contests. Harrison is back healthy this season, but Wilson figures to remain a prominent piece of the passing offense that also includes All-Pro tight end Trey McBride.",
+        "analysis": "The sides squeezed this deal in before the start of the regular season, as Wilson had been set to enter the final year of his rookie deal. Selected in the third round of the 2023 Draft, Wilson had a true breakout season in 2025, as he operated as the Cardinals' WR1 most weeks while Marvin Harrison battled injuries throughout the campaign. Wilson responded with three 100-yard receiving games over the final eight weeks of the season and finished the year with 78 catches for 1,006 yards and seven touchdowns. Six of his seven scores came in the final five contests. Harrison is back healthy this season, but Wilson figures to remain a prominent piece of a passing offense that also includes All-Pro tight end Trey McBride.",
         "description": "The Cardinals signed Wilson to a three-year, $75 million contract extension Thursday, Adam Schefter of ESPN reports.",
         "title": "Michael Wilson - Lands three-year extension",
         "topic_id": "1401285917288763392"
@@ -675,6 +699,46 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Los Angeles Chargers wide receiver Ladd McConkey has a much better setup heading into his third season. His numbers slipped last year, going from 82 catches for 1,149 yards and seven touchdowns as a rookie to 66 catches for 789 yards and six scores. The Chargers responded by moving on from Greg Roman and bringing in Mike McDaniel to run the offense. McDaniel's use of motion, spacing and quicker throws should suit McConkey, who was at his best as a rookie when he could find space and create after the catch. There's also a chunk of work available after Keenan Allen led Los Angeles with 122 targets and 81 receptions last season before departing. Quentin Johnston and Tre' Harris will still be involved, but McConkey enters the year as one of Justin Herbert's primary options. He also got through training camp after dealing with a hamstring strain during the spring. McConkey checks in at WR15 on RotoBaller's latest rankings, and the change in offensive direction gives him a good shot to rebound after last year's quieter season.",
+      "metadata": {
+        "description": "Los Angeles Chargers wide receiver Ladd McConkey has a much better setup heading into his third season. His numbers slipped last year, going from 82 catches for 1,149 yards and seven touchdowns as a rookie to 66 catches for 789 yards and six scores. The Chargers responded by moving on from Greg Roman and bringing in Mike McDaniel to run the offense. McDaniel's use of motion, spacing and quicker throws should suit McConkey, who was at his best as a rookie when he could find space and create after the catch. There's also a chunk of work available after Keenan Allen led Los Angeles with 122 targets and 81 receptions last season before departing. Quentin Johnston and Tre' Harris will still be involved, but McConkey enters the year as one of Justin Herbert's primary options. He also got through training camp after dealing with a hamstring strain during the spring. McConkey checks in at WR15 on RotoBaller's latest rankings, and the change in offensive direction gives him a good shot to rebound after last year's quieter season.",
+        "title": "Ladd McConkey Has More Working in His Favor This Year",
+        "topic_id": "1401331217529384960",
+        "url": "https://www.rotoballer.com/player-news/ladd-mcconkey-has-more-working-in-his-favor-this-year/1922729"
+      },
+      "nfl_team": "LAC",
+      "player_id": "11635",
+      "player_name": "Ladd McConkey",
+      "position": "WR",
+      "published": 1788451212000,
+      "source": "rotoballer",
+      "source_key": "220031",
+      "story_id": "nfl|11635|rotoballer|220031|1788451212000",
+      "title": "Ladd McConkey Has More Working in His Favor This Year",
+      "url": "https://www.rotoballer.com/player-news/ladd-mcconkey-has-more-working-in-his-favor-this-year/1922729"
+    },
+    {
+      "analysis": null,
+      "description": "ESPN's Dan Graziano does not think anyone should be surprised if Pittsburgh Steelers running back Rico Dowdle has a third straight 1,000-yard rushing season in 2026 in his first year with the Steelers. Dowdle's first 1,000-yard season came in 2024 with the Dallas Cowboys, when Mike McCarthy was the head coach. He is now the Steelers' head coach, and he knows Dowdle can be his lead back. Graziano's understanding is that Dowdle \"is more likely to get early-down work\" ahead of Jaylen Warren. Graziano does not think McCarthy will be shy about giving Dowdle plenty of work after he averaged 20.3 carries per game over the final seven games of the 2024 season in Dallas. He had a combined 471 carries over the last two seasons with the Cowboys and Carolina Panthers, and he made it a point to sign a two-year, $12.25 million deal with Pittsburgh so that he could have a real chance to be the RB1. Warren will still have a significant role, mostly as a pass-catcher, which means that Dowdle will be a better low-end RB2/high-end RB3 target in standard-scoring fantasy leagues in 2026. The 28-year-old has back-to-back seasons of exactly 39 receptions, but that number should drop with Warren handling most of the pass-catching work in the Steel City.",
+      "metadata": {
+        "description": "ESPN's Dan Graziano does not think anyone should be surprised if Pittsburgh Steelers running back Rico Dowdle has a third straight 1,000-yard rushing season in 2026 in his first year with the Steelers. Dowdle's first 1,000-yard season came in 2024 with the Dallas Cowboys, when Mike McCarthy was the head coach. He is now the Steelers' head coach, and he knows Dowdle can be his lead back. Graziano's understanding is that Dowdle \"is more likely to get early-down work\" ahead of Jaylen Warren. Graziano does not think McCarthy will be shy about giving Dowdle plenty of work after he averaged 20.3 carries per game over the final seven games of the 2024 season in Dallas. He had a combined 471 carries over the last two seasons with the Cowboys and Carolina Panthers, and he made it a point to sign a two-year, $12.25 million deal with Pittsburgh so that he could have a real chance to be the RB1. Warren will still have a significant role, mostly as a pass-catcher, which means that Dowdle will be a better low-end RB2/high-end RB3 target in standard-scoring fantasy leagues in 2026. The 28-year-old has back-to-back seasons of exactly 39 receptions, but that number should drop with Warren handling most of the pass-catching work in the Steel City.",
+        "title": "Rico Dowdle More Likely for Early-Down Work in Pittsburgh",
+        "topic_id": "1401331217525190656",
+        "url": "https://www.rotoballer.com/player-news/rico-dowdle-more-likely-for-early-down-work-in-pittsburgh/1922727"
+      },
+      "nfl_team": "PIT",
+      "player_id": "7021",
+      "player_name": "Rico Dowdle",
+      "position": "RB",
+      "published": 1788451146000,
+      "source": "rotoballer",
+      "source_key": "220032",
+      "story_id": "nfl|7021|rotoballer|220032|1788451146000",
+      "title": "Rico Dowdle More Likely for Early-Down Work in Pittsburgh",
+      "url": "https://www.rotoballer.com/player-news/rico-dowdle-more-likely-for-early-down-work-in-pittsburgh/1922727"
+    },
+    {
       "analysis": "After completing two of his three pass attempts for 10 yards against the Giants in the preseason opener, Murray took a seat and parked it for the remainder of the exhibition season. Coach Kevin O'Connell settled on Murray as the Vikings' starter before training camp, and he's expected to have a long leash under center this season after J.J. McCarthy continued to look overmatched throughout the 2025 campaign. Murray has big upside in this quarterback-friendly scheme and has arguably the best supporting cast of his career. He's an ideal late-round fantasy target at quarterback.",
       "description": "Murray played six snaps during Minnesota's three-game preseason slate.",
       "metadata": {
@@ -713,6 +777,46 @@
       "story_id": "nfl|6770|rotowire|636153|1788450674000",
       "title": "Joe Burrow - Optimistic heading into 2026",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers running back Keaton Mitchell (undisclosed) was not practicing on Thursday during the portion open to the media, according to Kris Rhim of ESPN. Mitchell was working off to the side with a trainer, and he has now missed six straight practices. It is unclear what the 24-year-old is dealing with as the start of the 2026 regular season quickly approaches, and Mitchell's status for the Week 1 contest on Sunday, Sept. 13, against the Arizona Cardinals is now in question. If Mitchell is limited or out to begin the year, second-year back Omarion Hampton and Kimani Vidal will both have higher fantasy ceilings against Arizona. A former undrafted free agent from East Carolina, Mitchell played in just 26 games (two starts) in his first three NFL seasons with the Baltimore Ravens due to injuries, although he has always been an intriguing big-play threat out of the backfield with explosive tendencies. When Mitchell, Hampton, and Vidal are all healthy in 2026, offensive coordinator Mike McDaniel plans for them all to have a role, although Hampton is the clear favorite to lead the Bolts in backfield touches. Mitchell's fantasy ceiling and floor will not be very high unless Hampton misses time with an injury, but Mitchell himself must get healthy first. RotoBaller has him ranked as the RB46.",
+      "metadata": {
+        "description": "Los Angeles Chargers running back Keaton Mitchell (undisclosed) was not practicing on Thursday during the portion open to the media, according to Kris Rhim of ESPN. Mitchell was working off to the side with a trainer, and he has now missed six straight practices. It is unclear what the 24-year-old is dealing with as the start of the 2026 regular season quickly approaches, and Mitchell's status for the Week 1 contest on Sunday, Sept. 13, against the Arizona Cardinals is now in question. If Mitchell is limited or out to begin the year, second-year back Omarion Hampton and Kimani Vidal will both have higher fantasy ceilings against Arizona. A former undrafted free agent from East Carolina, Mitchell played in just 26 games (two starts) in his first three NFL seasons with the Baltimore Ravens due to injuries, although he has always been an intriguing big-play threat out of the backfield with explosive tendencies. When Mitchell, Hampton, and Vidal are all healthy in 2026, offensive coordinator Mike McDaniel plans for them all to have a role, although Hampton is the clear favorite to lead the Bolts in backfield touches. Mitchell's fantasy ceiling and floor will not be very high unless Hampton misses time with an injury, but Mitchell himself must get healthy first. RotoBaller has him ranked as the RB46.",
+        "title": "Keaton Mitchell Missing Another Practice",
+        "topic_id": "1401328700636553216",
+        "url": "https://www.rotoballer.com/player-news/keaton-mitchell-missing-another-practice/1922725"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1788450606000,
+      "source": "rotoballer",
+      "source_key": "220029",
+      "story_id": "nfl|9511|rotoballer|220029|1788450606000",
+      "title": "Keaton Mitchell Missing Another Practice",
+      "url": "https://www.rotoballer.com/player-news/keaton-mitchell-missing-another-practice/1922725"
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings wide receiver Jordan Addison has a much better quarterback setup than he dealt with for most of 2025. Addison finished last season with career lows of 42 catches, 610 yards and three touchdowns on 79 targets while Minnesota cycled through J.J. McCarthy, Carson Wentz and Max Brosmer. The Vikings have settled things down this summer, naming Kyler Murray the starter on Aug. 11. Addison was involved right away. He caught back-to-back corner routes from Murray during his first practice working exclusively with the starters, then moved the chains on an eight-yard catch from him in Minnesota's preseason opener. That's encouraging for a receiver who scored 19 touchdowns through his first two NFL seasons before dropping to three last year. Justin Jefferson will still dominate targets, and Jauan Jennings and T.J. Hockenson give the offense other proven options, so Addison isn't walking into huge volume. RotoBaller ranks Addison at WR35 in its latest half-PPR rankings. After a down 2025, the steadier quarterback situation gives Addison a real shot to get back into the weekly WR3 mix.",
+      "metadata": {
+        "description": "Minnesota Vikings wide receiver Jordan Addison has a much better quarterback setup than he dealt with for most of 2025. Addison finished last season with career lows of 42 catches, 610 yards and three touchdowns on 79 targets while Minnesota cycled through J.J. McCarthy, Carson Wentz and Max Brosmer. The Vikings have settled things down this summer, naming Kyler Murray the starter on Aug. 11. Addison was involved right away. He caught back-to-back corner routes from Murray during his first practice working exclusively with the starters, then moved the chains on an eight-yard catch from him in Minnesota's preseason opener. That's encouraging for a receiver who scored 19 touchdowns through his first two NFL seasons before dropping to three last year. Justin Jefferson will still dominate targets, and Jauan Jennings and T.J. Hockenson give the offense other proven options, so Addison isn't walking into huge volume. RotoBaller ranks Addison at WR35 in its latest half-PPR rankings. After a down 2025, the steadier quarterback situation gives Addison a real shot to get back into the weekly WR3 mix.",
+        "title": "Jordan Addison's Outlook Improves With More Stability at Quarterback",
+        "topic_id": "1401328700657524736",
+        "url": "https://www.rotoballer.com/player-news/jordan-addisons-outlook-improves-with-more-stability-at-quarterback/1922723"
+      },
+      "nfl_team": "MIN",
+      "player_id": "9756",
+      "player_name": "Jordan Addison",
+      "position": "WR",
+      "published": 1788450307000,
+      "source": "rotoballer",
+      "source_key": "220030",
+      "story_id": "nfl|9756|rotoballer|220030|1788450307000",
+      "title": "Jordan Addison's Outlook Improves With More Stability at Quarterback",
+      "url": "https://www.rotoballer.com/player-news/jordan-addisons-outlook-improves-with-more-stability-at-quarterback/1922723"
     },
     {
       "analysis": "There have been multiple rumors that Richardson might be traded at some point. Some reports have suggested that he may lose out to Riley Leonard for the Colts' backup QB role. Head coach Shane Steichen has put all that to rest, at least for now, making clear Tuesday that Richardson is indeed the top backup to starter Daniel Jones. ",
