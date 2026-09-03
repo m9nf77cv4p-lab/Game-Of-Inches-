@@ -1,10 +1,13 @@
 {
-  "last_checked_at": "2026-09-03T14:59:11Z",
+  "last_checked_at": "2026-09-03T15:20:37Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12492|rotoballer|219999|1788432116000",
-    "nfl|13305|rotoballer|220000|1788430569000"
+    "nfl|12048|rotowire|636142|1788447988000",
+    "nfl|5012|rotowire|636143|1788448448000",
+    "nfl|5844|rotowire|636141|1788447327000",
+    "nfl|7049|rotowire|636144|1788448558000",
+    "nfl|8138|rotoballer|220001|1788433148000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +17,86 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Signed to a one-year, $8 million deal in May, Jennings is locked in as the Vikings' No. 3 receiver and didn't need to compete for a job during the preseason. With San Francisco last season, Jennings primarily operated as the \"X\" receiver and turned in a 55-643-9 receiving line on 90 targets over 15 games. With Justin Jefferson occupying the X spot for Minnesota and Jordan Addison mainly working as a \"Z\" receiver, Jennings could end up seeing most of his time out of the slot with his new squad. While a slot role often lends itself to catchable, higher-percentage targets, Jefferson will operate as the clear No. 1 option in the passing game, and Addison is capable of bumping inside and will likely be prioritized ahead of Jennings in two-wide formations. Moreover, Vikings quarterback Kyler Murray doesn't have an extensive track record of supporting more than one fantasy viable pass catcher, so Jennings could struggle to attain consistent week-to-week volume while he's competing with the likes of Addison and tight end T.J. Hockenson for the remaining targets that don't go to Jefferson.",
+      "description": "Jennings played four snaps in the Vikings' 13-10 preseason win over the Giants before being held out for rest purposes in the final two exhibition tilts.",
+      "metadata": {
+        "analysis": "Signed to a one-year, $8 million deal in May, Jennings is locked in as the Vikings' No. 3 receiver and didn't need to compete for a job during the preseason. With San Francisco last season, Jennings primarily operated as the \"X\" receiver and turned in a 55-643-9 receiving line on 90 targets over 15 games. With Justin Jefferson occupying the X spot for Minnesota and Jordan Addison mainly working as a \"Z\" receiver, Jennings could end up seeing most of his time out of the slot with his new squad. While a slot role often lends itself to catchable, higher-percentage targets, Jefferson will operate as the clear No. 1 option in the passing game, and Addison is capable of bumping inside and will likely be prioritized ahead of Jennings in two-wide formations. Moreover, Vikings quarterback Kyler Murray doesn't have an extensive track record of supporting more than one fantasy viable pass catcher, so Jennings could struggle to attain consistent week-to-week volume while he's competing with the likes of Addison and tight end T.J. Hockenson for the remaining targets that don't go to Jefferson.",
+        "description": "Jennings played four snaps in the Vikings' 13-10 preseason win over the Giants before being held out for rest purposes in the final two exhibition tilts.",
+        "title": "Jauan Jennings - Sits out final two preseason contests",
+        "topic_id": "1401259492804403200"
+      },
+      "nfl_team": "MIN",
+      "player_id": "7049",
+      "player_name": "Jauan Jennings",
+      "position": "WR",
+      "published": 1788448558000,
+      "source": "rotowire",
+      "source_key": "636144",
+      "story_id": "nfl|7049|rotowire|636144|1788448558000",
+      "title": "Jauan Jennings - Sits out final two preseason contests",
+      "url": null
+    },
+    {
+      "analysis": "Unlike previous years, when he had Isaiah Likely breathing down his neck, Andrews isn't projected to have much competition for targets at his position. Smythe is a blocking specialist who averages fewer than 10 receiving yards per game in his career, while Hibner and Cuevas are rookie Day 3 draft picks. Andrews will be 31 years old when the 2026 regular season kicks off, and he averaged a career-low 24.8 receiving yards per game in 2025, so age-related decline seems to be his biggest concern from a fantasy standpoint.",
+      "description": "Andrews is one of four tight ends on the Ravens' 53-man roster, along with Durham Smythe, Matthew Hibner and Josh Cuevas.",
+      "metadata": {
+        "analysis": "Unlike previous years, when he had Isaiah Likely breathing down his neck, Andrews isn't projected to have much competition for targets at his position. Smythe is a blocking specialist who averages fewer than 10 receiving yards per game in his career, while Hibner and Cuevas are rookie Day 3 draft picks. Andrews will be 31 years old when the 2026 regular season kicks off, and he averaged a career-low 24.8 receiving yards per game in 2025, so age-related decline seems to be his biggest concern from a fantasy standpoint.",
+        "description": "Andrews is one of four tight ends on the Ravens' 53-man roster, along with Durham Smythe, Matthew Hibner and Josh Cuevas.",
+        "title": "Mark Andrews - Set to lead new-look TE room",
+        "topic_id": "1401259492699545600"
+      },
+      "nfl_team": "BAL",
+      "player_id": "5012",
+      "player_name": "Mark Andrews",
+      "position": "TE",
+      "published": 1788448448000,
+      "source": "rotowire",
+      "source_key": "636143",
+      "story_id": "nfl|5012|rotowire|636143|1788448448000",
+      "title": "Mark Andrews - Set to lead new-look TE room",
+      "url": null
+    },
+    {
+      "analysis": "The Seahawks seem to trust Holani's receiving and pass-blocking abilities, which should allow the 26-year-old running back to earn a prominent role out of the gate, though the rookie first-round pick Price is the leading candidate to get most of the rushing opportunities. Zach Charbonnet (knee) could also earn a sizable role once healthy, but he'll miss at least the first four weeks of the season while on the reserve/PUP list and could be out well beyond then. Emanuel Wilson (hamstring) rounds out the running back depth chart.",
+      "description": "Holani could get most of the opportunities on third down and in passing situations while Jadarian Price gets the majority of early-down work to begin the regular season, according to Brady Henderson of ESPN.com.",
+      "metadata": {
+        "analysis": "The Seahawks seem to trust Holani's receiving and pass-blocking abilities, which should allow the 26-year-old running back to earn a prominent role out of the gate, though the rookie first-round pick Price is the leading candidate to get most of the rushing opportunities. Zach Charbonnet (knee) could also earn a sizable role once healthy, but he'll miss at least the first four weeks of the season while on the reserve/PUP list and could be out well beyond then. Emanuel Wilson (hamstring) rounds out the running back depth chart.",
+        "description": "Holani could get most of the opportunities on third down and in passing situations while Jadarian Price gets the majority of early-down work to begin the regular season, according to Brady Henderson of ESPN.com.",
+        "title": "George Holani - Set to work as third-down back",
+        "topic_id": "1401256972623294464"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12048",
+      "player_name": "George Holani",
+      "position": "RB",
+      "published": 1788447988000,
+      "source": "rotowire",
+      "source_key": "636142",
+      "story_id": "nfl|12048|rotowire|636142|1788447988000",
+      "title": "George Holani - Set to work as third-down back",
+      "url": null
+    },
+    {
+      "analysis": "Hockenson played just five snaps in the Vikings' preseason opener and was rested for the final two exhibition tilts, but he's been getting in reps with the first-team offense throughout camp. After a delayed start to the 2024 campaign while he completed his recovery from a torn ACL and MCL in his right knee, Hockenson mostly stayed healthy in 2025 but was a middling fantasy option at tight end with a 51-438-3 receiving line on 66 targets over 15 games. Though Hockenson should benefit from upgraded quarterback play in 2026 after drawing targets from the likes of J.J. McCarthy, Carson Wentz and Max Brosmer a season ago, the closest Murray has come to supporting two fantasy relevant pass catchers was in 2024, when tight end Trey McBride (111-1,146-2 line in 16 games) and wideout Marvin Harrison (62-885-8 in 17 games) both had some utility. Justin Jefferson is locked in as the clear top weapon in the passing game and should dominate the targets, but Hockenson could struggle to see consistent volume while he's vying with the likes of No. 2 receiver Jordan Addison and No. 3 receiver Jauan Jennings for the remaining looks that don't go to Jefferson.",
+      "description": "Hockenson recorded a touchdown reception from Kyler Murray during the Vikings' final training camp practice Aug. 26, Andrew Krammer of The Minnesota Star Tribune reports.",
+      "metadata": {
+        "analysis": "Hockenson played just five snaps in the Vikings' preseason opener and was rested for the final two exhibition tilts, but he's been getting in reps with the first-team offense throughout camp. After a delayed start to the 2024 campaign while he completed his recovery from a torn ACL and MCL in his right knee, Hockenson mostly stayed healthy in 2025 but was a middling fantasy option at tight end with a 51-438-3 receiving line on 66 targets over 15 games. Though Hockenson should benefit from upgraded quarterback play in 2026 after drawing targets from the likes of J.J. McCarthy, Carson Wentz and Max Brosmer a season ago, the closest Murray has come to supporting two fantasy relevant pass catchers was in 2024, when tight end Trey McBride (111-1,146-2 line in 16 games) and wideout Marvin Harrison (62-885-8 in 17 games) both had some utility. Justin Jefferson is locked in as the clear top weapon in the passing game and should dominate the targets, but Hockenson could struggle to see consistent volume while he's vying with the likes of No. 2 receiver Jordan Addison and No. 3 receiver Jauan Jennings for the remaining looks that don't go to Jefferson.",
+        "description": "Hockenson recorded a touchdown reception from Kyler Murray during the Vikings' final training camp practice Aug. 26, Andrew Krammer of The Minnesota Star Tribune reports.",
+        "title": "T.J. Hockenson - Nabs TD in final camp practice",
+        "topic_id": "1401254607077830656"
+      },
+      "nfl_team": "MIN",
+      "player_id": "5844",
+      "player_name": "T.J. Hockenson",
+      "position": "TE",
+      "published": 1788447327000,
+      "source": "rotowire",
+      "source_key": "636141",
+      "story_id": "nfl|5844|rotowire|636141|1788447327000",
+      "title": "T.J. Hockenson - Nabs TD in final camp practice",
+      "url": null
+    },
     {
       "analysis": "Along with most of the Vikings' other key starters, Addison was rested for the final two preseason contests, but he was taking regular reps with the first-team offense throughout camp and will be ready to go for Week 1 against the Packers. As was the case for nearly every Minnesota pass catcher last season, Addison saw his production crater as a result of suspect quarterback play from J.J. McCarthy, Carson Wentz and Max Brosmer, but his fantasy outlook should be improved heading into 2026 while Murray steps in as the Vikings' new starter under center. Over his first two NFL seasons, Addison averaged 4.16 receptions, 55.81 yards and 0.59 touchdowns per game while Kirk Cousins and Sam Darnold served as the Vikings' primary quarterbacks.",
       "description": "Addison provided one of the highlights of the day during the Vikings' final training camp practice Aug. 26, connecting with quarterback Kyler Murray on a toe-dragging, sideline catch, Andrew Krammer of The Minnesota Star Tribune reports.",
@@ -153,6 +236,26 @@
       "story_id": "nfl|11559|rotowire|636134|1788441796000",
       "title": "Michael Penix - Will start 'eventually,' if not Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills running back James Cook III led the league last year in rushing with 1,621 rushing yards on 309 carries, but look for him this season to be more involved in the passing game and be more explosive overall. According to a Sports Illustrated article, Bills offensive coordinator Pete Carmichael hinted that Cook was heavily involved in the run game last season and could see a reduction to his workload as a result of increased passing work. That's good news for Cook's health and a boost to fantasy managers with a big season upcoming due to potential big plays in the passing game with Josh Allen running the offense under new coach Joe Brady. Cook looks locked and loaded as a first round pick and this only increases his value. Last year, Cook had 33 catches for 291 yards and two receiving TDs. Look for those numbers to skyrocket this season if he stays healthy.",
+      "metadata": {
+        "description": "Buffalo Bills running back James Cook III led the league last year in rushing with 1,621 rushing yards on 309 carries, but look for him this season to be more involved in the passing game and be more explosive overall. According to a Sports Illustrated article, Bills offensive coordinator Pete Carmichael hinted that Cook was heavily involved in the run game last season and could see a reduction to his workload as a result of increased passing work. That's good news for Cook's health and a boost to fantasy managers with a big season upcoming due to potential big plays in the passing game with Josh Allen running the offense under new coach Joe Brady. Cook looks locked and loaded as a first round pick and this only increases his value. Last year, Cook had 33 catches for 291 yards and two receiving TDs. Look for those numbers to skyrocket this season if he stays healthy.",
+        "title": "James Cook III Set For More Passing Work To Reduce Rushing Workload",
+        "topic_id": "1401255864811188224",
+        "url": "https://www.rotoballer.com/player-news/james-cook-iii-set-for-more-passing-work-to-reduce-rushing-workload/1922466"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8138",
+      "player_name": "James Cook",
+      "position": "RB",
+      "published": 1788433148000,
+      "source": "rotoballer",
+      "source_key": "220001",
+      "story_id": "nfl|8138|rotoballer|220001|1788433148000",
+      "title": "James Cook III Set For More Passing Work To Reduce Rushing Workload",
+      "url": "https://www.rotoballer.com/player-news/james-cook-iii-set-for-more-passing-work-to-reduce-rushing-workload/1922466"
     },
     {
       "analysis": null,
