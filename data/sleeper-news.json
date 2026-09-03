@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-03T14:48:37Z",
+  "last_checked_at": "2026-09-03T14:59:11Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|8121|rotoballer|219998|1788431288000"
+    "nfl|12492|rotoballer|219999|1788432116000",
+    "nfl|13305|rotoballer|220000|1788430569000"
   ],
   "schema_version": 1,
   "source": {
@@ -155,6 +156,26 @@
     },
     {
       "analysis": null,
+      "description": "Denver Broncos wide receiver Pat Bryant has had an impressive training camp and should be moving up fantasy draft boards as a result. According to Jon Heath of Broncos Wire of USA Today, Bryant has been \"praised by coaches and teammates all summer.\" Heath goes on to quote safety Talanoa Hufanga as the latest to chime in on Bryant's excellent camp who said Bryant was the most improved offensive player on the team. \"Pat Bryant is a guy that came in -- believe it or not, was a guy who was more of a role player last year and doing what he was asked. He was still learning Sean [Payton]'s scheme at the time...What he's done this camp, he's really solidifying himself and making a name for himself in this league.\" Look for Bryant to carve out a role on a deep Broncos receiving core with Jaylen Waddle, Courtland Sutton, and Marvin Mims listed as the top three receivers. The Broncos Wire article says Bryant could emerge as the No. 3 with Mims having more of a special teams role.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Pat Bryant has had an impressive training camp and should be moving up fantasy draft boards as a result. According to Jon Heath of Broncos Wire of USA Today, Bryant has been \"praised by coaches and teammates all summer.\" Heath goes on to quote safety Talanoa Hufanga as the latest to chime in on Bryant's excellent camp who said Bryant was the most improved offensive player on the team. \"Pat Bryant is a guy that came in -- believe it or not, was a guy who was more of a role player last year and doing what he was asked. He was still learning Sean [Payton]'s scheme at the time...What he's done this camp, he's really solidifying himself and making a name for himself in this league.\" Look for Bryant to carve out a role on a deep Broncos receiving core with Jaylen Waddle, Courtland Sutton, and Marvin Mims listed as the top three receivers. The Broncos Wire article says Bryant could emerge as the No. 3 with Mims having more of a special teams role.",
+        "title": "Pat Bryant Turning Heads During Broncos Training Camp",
+        "topic_id": "1401252089119653888",
+        "url": "https://www.rotoballer.com/player-news/pat-bryant-turning-heads-during-broncos-training-camp/1922452"
+      },
+      "nfl_team": "DEN",
+      "player_id": "12492",
+      "player_name": "Pat Bryant",
+      "position": "WR",
+      "published": 1788432116000,
+      "source": "rotoballer",
+      "source_key": "219999",
+      "story_id": "nfl|12492|rotoballer|219999|1788432116000",
+      "title": "Pat Bryant Turning Heads During Broncos Training Camp",
+      "url": "https://www.rotoballer.com/player-news/pat-bryant-turning-heads-during-broncos-training-camp/1922452"
+    },
+    {
+      "analysis": null,
       "description": "New England Patriots wide receiver Romeo Doubs is set for a No. 2 receiver role in New England behind A.J. Brown following the trade of Kayshon Boutte to the Houston Texans. Doubs is joining New England from the Green Bay Packers where he averaged 10.3 points per game in PPR leagues and finished with a career high 13.2 yards per reception. All in all he had 85 targets and 55 receptions for 724 yards and six touchdowns. Look for Doubs to carry some value in New England's offense with his big-play ability opposite Brown on the outside with Drake Maye targeting him in the pass game. With the trade of Boutte, Doubs sees his value increase and he should be a nice value pick in fantasy leagues. Draft him with confidence in what looks to be a good offense in New England with a big opportunity.",
       "metadata": {
         "description": "New England Patriots wide receiver Romeo Doubs is set for a No. 2 receiver role in New England behind A.J. Brown following the trade of Kayshon Boutte to the Houston Texans. Doubs is joining New England from the Green Bay Packers where he averaged 10.3 points per game in PPR leagues and finished with a career high 13.2 yards per reception. All in all he had 85 targets and 55 receptions for 724 yards and six touchdowns. Look for Doubs to carry some value in New England's offense with his big-play ability opposite Brown on the outside with Drake Maye targeting him in the pass game. With the trade of Boutte, Doubs sees his value increase and he should be a nice value pick in fantasy leagues. Draft him with confidence in what looks to be a good offense in New England with a big opportunity.",
@@ -172,6 +193,26 @@
       "story_id": "nfl|8121|rotoballer|219998|1788431288000",
       "title": "Romeo Doubs Set To Be No. 2 Receiver in New England",
       "url": "https://www.rotoballer.com/player-news/romeo-doubs-set-to-be-no-2-receiver-in-new-england/1922439"
+    },
+    {
+      "analysis": null,
+      "description": "The Las Vegas Raiders are optimistic about the health of running back Ashton Jeanty (ankle), NFL Network insider Ian Rapoport reports, but that doesn't mean rookie running back Mike Washington Jr. will take a back seat this season. Rapoport says Washington \"is going to be a thing this year, not just in real football, in fantasy football as well.\" Rapoport went on to say, \"he for sure is going to be a weapon in Las Vegas.\" Washington stands out as a sleeper pick even if Jeanty does return to full health. Washington finished this preseason with 168 rushing yards on 23 carries for 7.3 yards per rush. Jeanty is recovering from a low ankle sprain that looked a little bit worse to teammates at the time. But now it looks like Jeanty is considered day-to-day with the injury. He is a top-of-the-line running back, but it seems as if Washington is carving out a role for himself in Las Vegas this season.",
+      "metadata": {
+        "description": "The Las Vegas Raiders are optimistic about the health of running back Ashton Jeanty (ankle), NFL Network insider Ian Rapoport reports, but that doesn't mean rookie running back Mike Washington Jr. will take a back seat this season. Rapoport says Washington \"is going to be a thing this year, not just in real football, in fantasy football as well.\" Rapoport went on to say, \"he for sure is going to be a weapon in Las Vegas.\" Washington stands out as a sleeper pick even if Jeanty does return to full health. Washington finished this preseason with 168 rushing yards on 23 carries for 7.3 yards per rush. Jeanty is recovering from a low ankle sprain that looked a little bit worse to teammates at the time. But now it looks like Jeanty is considered day-to-day with the injury. He is a top-of-the-line running back, but it seems as if Washington is carving out a role for himself in Las Vegas this season.",
+        "title": "Mike Washington Jr. \"Is Going to be a Thing in Fantasy Football\"",
+        "topic_id": "1401253347603853312",
+        "url": "https://www.rotoballer.com/player-news/mike-washington-is-going-to-be-a-thing-in-fantasy-football/1922424"
+      },
+      "nfl_team": "LV",
+      "player_id": "13305",
+      "player_name": "Mike Washington",
+      "position": "RB",
+      "published": 1788430569000,
+      "source": "rotoballer",
+      "source_key": "220000",
+      "story_id": "nfl|13305|rotoballer|220000|1788430569000",
+      "title": "Mike Washington Jr. \"Is Going to be a Thing in Fantasy Football\"",
+      "url": "https://www.rotoballer.com/player-news/mike-washington-is-going-to-be-a-thing-in-fantasy-football/1922424"
     },
     {
       "analysis": null,

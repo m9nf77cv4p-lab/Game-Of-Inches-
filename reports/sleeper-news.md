@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1739**
-- Newly captured: **1**
+- Stored stories: **1741**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -21,8 +21,12 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.
 - **Michael Penix** — Michael Penix - Will start 'eventually,' if not Week 1 (2026-09-03T13:23:16Z)
   - Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.
-- **NEW — Romeo Doubs** — Romeo Doubs Set To Be No. 2 Receiver in New England (2026-09-03T10:28:08Z)
+- **NEW — Pat Bryant** — Pat Bryant Turning Heads During Broncos Training Camp (2026-09-03T10:41:56Z)
+  - Source: https://www.rotoballer.com/player-news/pat-bryant-turning-heads-during-broncos-training-camp/1922452
+- **Romeo Doubs** — Romeo Doubs Set To Be No. 2 Receiver in New England (2026-09-03T10:28:08Z)
   - Source: https://www.rotoballer.com/player-news/romeo-doubs-set-to-be-no-2-receiver-in-new-england/1922439
+- **NEW — Mike Washington** — Mike Washington Jr. "Is Going to be a Thing in Fantasy Football" (2026-09-03T10:16:09Z)
+  - Source: https://www.rotoballer.com/player-news/mike-washington-is-going-to-be-a-thing-in-fantasy-football/1922424
 - **Kayshon Boutte** — Kayshon Boutte Could Step In as Texans' Second Receiver (2026-09-03T09:59:08Z)
   - Source: https://www.rotoballer.com/player-news/kayshon-boutte-could-step-in-as-texans-second-receiver/1922412
 - **Rashid Shaheed** — Rashid Shaheed Ready for Larger Role (2026-09-03T09:49:08Z)
@@ -210,7 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - St. Brown was particularly impressive on the Lions' second-to-last series of the day, when he had gains of 14, seven and four yards on receptions before beating cornerback Rock Ya-Sin on a post route for a 16-yard score to end the drive. He nearly added another touchdown to his ledger on the final drive, as he corralled a jump ball over Ya-Sin in the end zone before he was ruled to have bobbled the ball prior to stepping out of bounds. The performance marked an impressive end to what Tim Twentyman of the Lions' official site labeled a "really strong camp" for St. Brown, who is once again ticketed for a high-volume role in the Detroit passing game and profiles as a strong first-round pick in fantasy drafts.
 - **DK Metcalf** — Steelers Looking to Get the Football to DK Metcalf (2026-09-02T14:39:09Z)
   - Source: https://www.rotoballer.com/player-news/steelers-looking-to-get-the-football-to-dk-metcalf/1922016
-- **Jaxon Smith-Njigba** — Jaxon Smith-Njigba - Not concerned about run game (2026-09-02T14:31:26Z)
-  - After letting Super Bowl LX MVP Kenneth Walker walk in free agency, the Seahawks will be counting on Price -- the No. 32 overall pick in April's draft -- as well as George Holani and Emanuel Wilson (hamstring) to lead the backfield while Zach Charbonnet (knee) is out for at least the first four games of the season. Walker's tough running combined with Charbonnet's skills on passing downs helped ensure that defenses couldn't devote more resources to shutting down Smith-Njigba, who blossomed into arguably the NFL's top wideout in 2025. After taking most of his snaps out of the slot in his first two seasons, Smith-Njigba thrived while transitioning into more of a perimeter role, compiling a massive 119-1,793-10 receiving line over 17 games on his way to winning Offensive Player of the Year honors. A league-high 32.6 percent target share played a part in Smith-Njigba achieving his lofty production, but even if supporting pass catchers such as Rashid Shaheed and AJ Barner are more involved in 2026, Smith-Njigba could avoid a major dip in production if the Seahawks lean more heavily on the passing game as a whole. The Seahawks ranked third in the NFL with a 49.7 percent run rate in 2025, and despite Smith-Njigba's early praise for Price, it would still be surprising if the rookie was trusted right away to handle the sort of workloads that Walker and Charbonnet previously shouldered.
-- **J.K. Dobbins** — J.K. Dobbins Ready to Go for Start of the Season (2026-09-02T14:29:08Z)
-  - Source: https://www.rotoballer.com/player-news/j-k-dobbins-ready-to-go-for-start-of-the-season/1922007
