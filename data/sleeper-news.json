@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-03T21:13:18Z",
+  "last_checked_at": "2026-09-03T21:27:07Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11627|rotoballer|220040|1788454689000"
+    "nfl|6790|rotowire|636194|1788470413000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The initial report did not provide further specifics, but per Sean Hammond of the Chicago Tribune, Swift exited the field holding his \"midsection or core area.\" Backfield mate Kyle Monangai is already working back from a knee issue, so the top two running backs on the depth chart for the Bears will head into the weekend with an injury designation.",
+      "description": "Swift left Thursday's practice with an apparent injury and \"appeared to be in significant discomfort,\" Dan Wiederer of the Chicago Tribune reports.",
+      "metadata": {
+        "analysis": "The initial report did not provide further specifics, but per Sean Hammond of the Chicago Tribune, Swift exited the field holding his \"midsection or core area.\" Backfield mate Kyle Monangai is already working back from a knee issue, so the top two running backs on the depth chart for the Bears will head into the weekend with an injury designation.",
+        "description": "Swift left Thursday's practice with an apparent injury and \"appeared to be in significant discomfort,\" Dan Wiederer of the Chicago Tribune reports.",
+        "title": "D'Andre Swift - Leaves practice with injury",
+        "topic_id": "1401351354441576448"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1788470413000,
+      "source": "rotowire",
+      "source_key": "636194",
+      "story_id": "nfl|6790|rotowire|636194|1788470413000",
+      "title": "D'Andre Swift - Leaves practice with injury",
+      "url": null
+    },
     {
       "analysis": "Though Kraft was held out of action during the Packers' entire preseason slate, he was able to clear a major hurdle in his recovery from the torn ACL he sustained Nov. 2, 2025 by taking contact in a joint practice with the Cardinals last week. Kraft appeared to be in full uniform and pads for Wednesday's session, suggesting that he's on track to be ready to go for the Packers' Week 1 matchup with the Vikings. Green Bay will release its first injury report of 2026 next Wednesday, and if Kraft is listed as a full participant or is off the report entirely, it would provide confirmation that he's been cleared to play in the season opener.",
       "description": "Kraft (knee) appeared to be running without any limitations during Wednesday's practice, Matt Schneidman of The Athletic reports.",
