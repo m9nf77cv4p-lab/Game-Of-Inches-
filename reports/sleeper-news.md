@@ -3,11 +3,11 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1829**
-- Newly captured: **4**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Tucker Kraft** — Tucker Kraft - Moving around well at practice (2026-09-03T20:31:12Z)
+- **Tucker Kraft** — Tucker Kraft - Moving around well at practice (2026-09-03T20:31:12Z)
   - Though Kraft was held out of action during the Packers' entire preseason slate, he was able to clear a major hurdle in his recovery from the torn ACL he sustained Nov. 2, 2025 by taking contact in a joint practice with the Cardinals last week. Kraft appeared to be in full uniform and pads for Wednesday's session, suggesting that he's on track to be ready to go for the Packers' Week 1 matchup with the Vikings. Green Bay will release its first injury report of 2026 next Wednesday, and if Kraft is listed as a full participant or is off the report entirely, it would provide confirmation that he's been cleared to play in the season opener.
 - **Alec Pierce** — Alec Pierce (ankle) practices in full on Thursday  (2026-09-03T20:20:08.912000Z)
   - Pierce was limited in practice earlier this week, and this is the next big step for the newly anointed WR1 for the Colts on the road to full recovery and return to play. He will operate as the Colts primary deep threat this season when on the field, opening things up for Josh Downs and Tyler Warren over the middle and short areas.
@@ -80,13 +80,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Ewers was retained on the 53-man roster after final cuts, while Nick Mullens was released during cut-down day, though Mullens subsequently signed with the practice squad. Lawrence remains locked in as the team's starting QB on the heels of a 2025 regular season in which he threw for 4,007 yards and a career-high 29 passing touchdowns. The first overall pick in the 2021 NFL Draft has exceeded 4,000 passing yards in three of his first five NFL seasons.
 - **Nico Collins** — Nico Collins - Depth chart uncertain behind him (2026-09-03T16:35:46Z)
   - Jayden Higgins had been set to start opposite Collins, but Higgins suffered a season-ending knee injury in practice, prompting the Texans to trade for Boutte from the Patriots. Dell has had the most success out of the options behind Collins, but the 2023 third-round pick hasn't suited up since the 2024 season and will miss at least the first four games of 2026. Collins has exceeded 1,000 regular-season receiving yards while scoring at least seven total touchdowns in each of the past three campaigns.
-- **NEW — Dak Prescott** — Dak Prescott Well-Positioned for High-End Season with Elite Wide Receiver Corps in Dallas (2026-09-03T16:32:08Z)
+- **Dak Prescott** — Dak Prescott Well-Positioned for High-End Season with Elite WRs (2026-09-03T16:32:08Z)
   - Source: https://www.rotoballer.com/player-news/dak-prescott-well-positioned-for-high-end-season-with-elite-wide-receiver-corps-in-dallas/1922758
 - **Zay Flowers** — Zay Flowers - Returns to practice Thursday (2026-09-03T16:28:52Z)
   - Flowers has been in and out of practice seemingly all summer, but he's always been eyeing Week 1 as his target date to be 100 percent, and his return to practice this week puts him on track for the opener in 10 days. The wide receiver inked a big extension with Baltimore during the offseason and is returning as Lamar Jackson's undisputed No. 1 pass-catching option.
-- **NEW — Sam LaPorta** — Sam LaPorta Poised for Resurgent Season with Improved Health Outlook (2026-09-03T16:25:06Z)
+- **Sam LaPorta** — Sam LaPorta Poised for Resurgent Season with Improved Health Outlook (2026-09-03T16:25:06Z)
   - Source: https://www.rotoballer.com/player-news/sam-laporta-poised-for-resurgent-season-with-improved-health-outlook/1922751
-- **NEW — Chris Rodriguez** — Chris Rodriguez Jr. Rising Amidst Preseason Buzz in Jacksonville (2026-09-03T16:17:07Z)
+- **Chris Rodriguez** — Chris Rodriguez Jr. Rising Amidst Preseason Buzz in Jacksonville (2026-09-03T16:17:07Z)
   - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-s-stock-rising-amidst-preseason-buzz-in-jacksonville/1922744
 - **David Montgomery** — David Montgomery - Tops RB depth chart over Marks and Brooks (2026-09-03T16:12:20Z)
   - Montgomery is ticketed for a prominent role after coming over from Detroit in an offseason trade, but it remains to be seen just how much Marks cuts into Montgomery's usage. The 230-pound Montgomery is much better-suited for running inside and short-yardage work than the 208-pound Marks, but Montgomery recorded only 76 receptions across the past three regular seasons in Detroit, so the shifty Marks could siphon away opportunities in passing situations.

@@ -1,13 +1,8 @@
 {
-  "last_checked_at": "2026-09-03T20:36:42Z",
+  "last_checked_at": "2026-09-03T20:57:02Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|10219|rotoballer|220036|1788452227000",
-    "nfl|10859|rotoballer|220037|1788452706000",
-    "nfl|3294|rotoballer|220038|1788453128000",
-    "nfl|9484|rotowire|636192|1788467472000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -724,7 +719,7 @@
       "description": "Dallas Cowboys quarterback Dak Prescott put together one of the better seasons of his career in 2025, completing 67.3% of his pass attempts for 4,552 yards, 30 touchdowns, and 10 interceptions. While health has hampered Prescott at times in his career, he's topped 4,400 passing yards and 30 touchdowns in each of the last three seasons in which he's played at least 16 games. Entering 2026, Prescott might also be working with the league's best supporting cast of pass-catchers, including wide receivers CeeDee Lamb, George Pickens, and Ryan Flournoy, as well as tight end Jake Ferguson. The 33-year-old Prescott is no longer much of a threat with his legs, but the Cowboys' passing game should be potent enough for him to put up solid fantasy numbers without being a high-end rusher. Given the talent around him in Dallas, Prescott remains a solid fantasy QB1 option entering 2026.",
       "metadata": {
         "description": "Dallas Cowboys quarterback Dak Prescott put together one of the better seasons of his career in 2025, completing 67.3% of his pass attempts for 4,552 yards, 30 touchdowns, and 10 interceptions. While health has hampered Prescott at times in his career, he's topped 4,400 passing yards and 30 touchdowns in each of the last three seasons in which he's played at least 16 games. Entering 2026, Prescott might also be working with the league's best supporting cast of pass-catchers, including wide receivers CeeDee Lamb, George Pickens, and Ryan Flournoy, as well as tight end Jake Ferguson. The 33-year-old Prescott is no longer much of a threat with his legs, but the Cowboys' passing game should be potent enough for him to put up solid fantasy numbers without being a high-end rusher. Given the talent around him in Dallas, Prescott remains a solid fantasy QB1 option entering 2026.",
-        "title": "Dak Prescott Well-Positioned for High-End Season with Elite Wide Receiver Corps in Dallas",
+        "title": "Dak Prescott Well-Positioned for High-End Season with Elite WRs",
         "topic_id": "1401338767947628544",
         "url": "https://www.rotoballer.com/player-news/dak-prescott-well-positioned-for-high-end-season-with-elite-wide-receiver-corps-in-dallas/1922758"
       },
@@ -736,7 +731,7 @@
       "source": "rotoballer",
       "source_key": "220038",
       "story_id": "nfl|3294|rotoballer|220038|1788453128000",
-      "title": "Dak Prescott Well-Positioned for High-End Season with Elite Wide Receiver Corps in Dallas",
+      "title": "Dak Prescott Well-Positioned for High-End Season with Elite WRs",
       "url": "https://www.rotoballer.com/player-news/dak-prescott-well-positioned-for-high-end-season-with-elite-wide-receiver-corps-in-dallas/1922758"
     },
     {
