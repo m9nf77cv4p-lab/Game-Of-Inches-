@@ -1,13 +1,13 @@
 {
-  "last_checked_at": "2026-09-03T18:46:17Z",
+  "last_checked_at": "2026-09-03T18:57:21Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11584|rotowire|636174|1788460810000",
-    "nfl|13286|rotoballer|220020|1788445809000",
-    "nfl|13287|rotoballer|220021|1788446345000",
-    "nfl|4035|rotowire|636173|1788460693000",
-    "nfl|6804|rotowire|636175|1788460949000"
+    "nfl|11563|rotowire|636177|1788461180000",
+    "nfl|12501|rotowire|636179|1788461421000",
+    "nfl|4035|rotoballer|220022|1788446836000",
+    "nfl|7567|rotowire|636176|1788461106000",
+    "nfl|8142|rotowire|636178|1788461379000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +17,86 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Golden was held without a target in the team's exhibition opener but was on the receiving end of a dot from QB Jordan Love in Denver in preseason Week 2, displaying the duo's growing rapport. Green Bay invested a first-round pick in Golden during the 2025 Draft, but a crowded receiving corps capped him to just a 29-361-0 line on 44 targets in 14 regular-season games as a rookie. With Romeo Doubs having moved on to the Patriots in free agency and Dontayvion Wicks getting traded to the Eagles this offseason, the WR options for Love are more clear cut between Christian Watson, Jayden Reed and Golden, giving the latter a better chance to tap into his potential in the upcoming campaign.",
+      "description": "Golden finished the Packers' preseason schedule with one catch (on one target) for 19 yards across two games.",
+      "metadata": {
+        "analysis": "Golden was held without a target in the team's exhibition opener but was on the receiving end of a dot from QB Jordan Love in Denver in preseason Week 2, displaying the duo's growing rapport. Green Bay invested a first-round pick in Golden during the 2025 Draft, but a crowded receiving corps capped him to just a 29-361-0 line on 44 targets in 14 regular-season games as a rookie. With Romeo Doubs having moved on to the Patriots in free agency and Dontayvion Wicks getting traded to the Eagles this offseason, the WR options for Love are more clear cut between Christian Watson, Jayden Reed and Golden, giving the latter a better chance to tap into his potential in the upcoming campaign.",
+        "description": "Golden finished the Packers' preseason schedule with one catch (on one target) for 19 yards across two games.",
+        "title": "Matthew Golden - Records one catch in preseason",
+        "topic_id": "1401313602102693888"
+      },
+      "nfl_team": "GB",
+      "player_id": "12501",
+      "player_name": "Matthew Golden",
+      "position": "WR",
+      "published": 1788461421000,
+      "source": "rotowire",
+      "source_key": "636179",
+      "story_id": "nfl|12501|rotowire|636179|1788461421000",
+      "title": "Matthew Golden - Records one catch in preseason",
+      "url": null
+    },
+    {
+      "analysis": "It marks Pierce's first full practice of the summer after he underwent offseason ankle surgery. General manager Chris Ballard said Tuesday that the \"hope\" was Pierce would be ready for the team's Week 1 opener against the Ravens, and this return to full work would suggest the wideout is on the path to playing Sunday, Sept. 13. Pierce is expected to operate as Daniel Jones' clear top outside field-stretching weapon this season, while Josh Downs (calf), Keenan Allen and Tyler Warren (groin) mostly work in the short and intermediate areas.",
+      "description": "Pierce (ankle) was a full participant in Thursday's practice, Nathan Brown of The Indianapolis Star reports.",
+      "metadata": {
+        "analysis": "It marks Pierce's first full practice of the summer after he underwent offseason ankle surgery. General manager Chris Ballard said Tuesday that the \"hope\" was Pierce would be ready for the team's Week 1 opener against the Ravens, and this return to full work would suggest the wideout is on the path to playing Sunday, Sept. 13. Pierce is expected to operate as Daniel Jones' clear top outside field-stretching weapon this season, while Josh Downs (calf), Keenan Allen and Tyler Warren (groin) mostly work in the short and intermediate areas.",
+        "description": "Pierce (ankle) was a full participant in Thursday's practice, Nathan Brown of The Indianapolis Star reports.",
+        "title": "Alec Pierce - Practices fully Thursday",
+        "topic_id": "1401312343886934016"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1788461379000,
+      "source": "rotowire",
+      "source_key": "636178",
+      "story_id": "nfl|8142|rotowire|636178|1788461379000",
+      "title": "Alec Pierce - Practices fully Thursday",
+      "url": null
+    },
+    {
+      "analysis": "Tight end Evan Engram and offensive tackle Garett Bolles also chimed in with praise for Nix, who finished the 2025 regular season with a 25:11 TD and 3,931 yards on an NFL-high 612 pass attempts while adding 356 yards and five scores on the ground. He then helped lead Denver to a divisional-round win over Buffalo before sitting out the AFC Championship Game loss to the Patriots due to a broken ankle, but he made a full recovery from surgery in advance of June minicamp. Nix performed efficiently during his lone preseason appearance Aug. 21 versus the Packers, connecting with offseason pickup Jaylen Waddle on a deep throw for a 35-yard gain during that contest. With a new field-stretching weapon like Waddle in the fold, Nix can potentially offset any decline in his league-leading passing volume by generating more splash plays. Nix saw his yards per attempt drop from 6.7 as a rookie to 6.4 during his sophomore season.",
+      "description": "Broncos cornerback Patrick Surtain said Tuesday that he's recognized growth in Nix during the offseason and anticipates the quarterback taking another step forward both on the field and as a leader in his third NFL season, Susanna Weir of the team's official site reports. \"I think his cerebral approach to the game is off the charts,\" Surtain said. \"I always say he's so poised, but he's always had that calm demeanor going into his third year just bringing all the guys together offensively and just being a tremendous leader on the team.\"",
+      "metadata": {
+        "analysis": "Tight end Evan Engram and offensive tackle Garett Bolles also chimed in with praise for Nix, who finished the 2025 regular season with a 25:11 TD and 3,931 yards on an NFL-high 612 pass attempts while adding 356 yards and five scores on the ground. He then helped lead Denver to a divisional-round win over Buffalo before sitting out the AFC Championship Game loss to the Patriots due to a broken ankle, but he made a full recovery from surgery in advance of June minicamp. Nix performed efficiently during his lone preseason appearance Aug. 21 versus the Packers, connecting with offseason pickup Jaylen Waddle on a deep throw for a 35-yard gain during that contest. With a new field-stretching weapon like Waddle in the fold, Nix can potentially offset any decline in his league-leading passing volume by generating more splash plays. Nix saw his yards per attempt drop from 6.7 as a rookie to 6.4 during his sophomore season.",
+        "description": "Broncos cornerback Patrick Surtain said Tuesday that he's recognized growth in Nix during the offseason and anticipates the quarterback taking another step forward both on the field and as a leader in his third NFL season, Susanna Weir of the team's official site reports. \"I think his cerebral approach to the game is off the charts,\" Surtain said. \"I always say he's so poised, but he's always had that calm demeanor going into his third year just bringing all the guys together offensively and just being a tremendous leader on the team.\"",
+        "title": "Bo Nix - Gets talked up by teammate",
+        "topic_id": "1401312343836602368"
+      },
+      "nfl_team": "DEN",
+      "player_id": "11563",
+      "player_name": "Bo Nix",
+      "position": "QB",
+      "published": 1788461180000,
+      "source": "rotowire",
+      "source_key": "636177",
+      "story_id": "nfl|11563|rotowire|636177|1788461180000",
+      "title": "Bo Nix - Gets talked up by teammate",
+      "url": null
+    },
+    {
+      "analysis": "Gainwell signed a two-year, $14 million contract with the Buccaneers in March after leading the Steelers with 73 catches in the 2025 regular season. He's likely to fill a change-of-pace role while playing primarily in passing situations, much like Rachaad White did for the past couple seasons in a Buccaneers backfield that's expected to be led by Irving as long as the latter stays healthy. Tucker could be a thorn in the side of both Gainwell and Irving from a fantasy perspective if Tucker reprises his red-zone role from 2025, which helped him punch in a team-high seven rushing touchdowns.",
+      "description": "Gainwell is one of three running backs on Tampa Bay's 53-man roster, along with Bucky Irving and Sean Tucker (undisclosed), the latter of whom didn't practice Wednesday, per Greg Auman of Fox Sports.",
+      "metadata": {
+        "analysis": "Gainwell signed a two-year, $14 million contract with the Buccaneers in March after leading the Steelers with 73 catches in the 2025 regular season. He's likely to fill a change-of-pace role while playing primarily in passing situations, much like Rachaad White did for the past couple seasons in a Buccaneers backfield that's expected to be led by Irving as long as the latter stays healthy. Tucker could be a thorn in the side of both Gainwell and Irving from a fantasy perspective if Tucker reprises his red-zone role from 2025, which helped him punch in a team-high seven rushing touchdowns.",
+        "description": "Gainwell is one of three running backs on Tampa Bay's 53-man roster, along with Bucky Irving and Sean Tucker (undisclosed), the latter of whom didn't practice Wednesday, per Greg Auman of Fox Sports.",
+        "title": "Kenny Gainwell - Part of RB mix with Irving and Tucker",
+        "topic_id": "1401312343832408064"
+      },
+      "nfl_team": "TB",
+      "player_id": "7567",
+      "player_name": "Kenny Gainwell",
+      "position": "RB",
+      "published": 1788461106000,
+      "source": "rotowire",
+      "source_key": "636176",
+      "story_id": "nfl|7567|rotowire|636176|1788461106000",
+      "title": "Kenny Gainwell - Part of RB mix with Irving and Tucker",
+      "url": null
+    },
     {
       "analysis": "Love led one drive apiece in Green Bay's first two exhibitions, with his sole TD a connection with RB MarShawn Lloyd over the middle in Denver in preseason Week 2. Love also linked up with each of his top three WRs Christian Watson, Jayden Reed and Matthew Golden at least one time. Especially against the Broncos, Love appeared to be hitting on all cylinders, and he'll aim to carry it over to a Week 1 road matchup with the Vikings on Sunday, Sept. 13.",
       "description": "Love wrapped up the Packers' preseason slate having completed eight of 12 passes for 74 yards, one touchdown and no interceptions in two appearances.",
@@ -758,6 +838,26 @@
       "story_id": "nfl|5844|rotowire|636141|1788447327000",
       "title": "T.J. Hockenson - Nabs TD in final camp practice",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints veteran running back Alvin Kamara (knee) was not seen on the practice field on Thursday in the portion open to the media, according to Mike Triplett of NewOrleans.Football. Kamara still has another week to work himself back into practice and be cleared for the Week 1 regular-season opener against the Detroit Lions after suffering a sprained MCL in his knee over two weeks ago. Kendre Miller has also been sidelined this week with a minor undisclosed injury, which leaves only Audric Estime and Travis Etienne Jr. as the team's healthy RBs. At this point, it seems more likely that Kamara is unavailable to play in the 2026 season opener, but he was not placed on Injured Reserve to begin the year, which means the Saints believe he will be ready to make his season debut within the first four weeks. Once one of the best dual-threat backs in the league, the 31-year-old five-time Pro Bowler has ended each of the last two years with injuries and played in a career-low 11 contests in 2025, rushing for only 471 yards and one touchdown on 131 carries while catching a career-low 33 passes for 186 yards. Now that Etienne is in town as the primary RB1 in the Big Easy, Kamara is merely a handcuff option with some pass-catching upside in PPR formats late in fantasy drafts.",
+      "metadata": {
+        "description": "New Orleans Saints veteran running back Alvin Kamara (knee) was not seen on the practice field on Thursday in the portion open to the media, according to Mike Triplett of NewOrleans.Football. Kamara still has another week to work himself back into practice and be cleared for the Week 1 regular-season opener against the Detroit Lions after suffering a sprained MCL in his knee over two weeks ago. Kendre Miller has also been sidelined this week with a minor undisclosed injury, which leaves only Audric Estime and Travis Etienne Jr. as the team's healthy RBs. At this point, it seems more likely that Kamara is unavailable to play in the 2026 season opener, but he was not placed on Injured Reserve to begin the year, which means the Saints believe he will be ready to make his season debut within the first four weeks. Once one of the best dual-threat backs in the league, the 31-year-old five-time Pro Bowler has ended each of the last two years with injuries and played in a career-low 11 contests in 2025, rushing for only 471 yards and one touchdown on 131 carries while catching a career-low 33 passes for 186 yards. Now that Etienne is in town as the primary RB1 in the Big Easy, Kamara is merely a handcuff option with some pass-catching upside in PPR formats late in fantasy drafts.",
+        "title": "Alvin Kamara Absent From Thursday's Practice",
+        "topic_id": "1401313599795765248",
+        "url": "https://www.rotoballer.com/player-news/alvin-kamara-absent-from-thursdays-practice/1922663"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1788446836000,
+      "source": "rotoballer",
+      "source_key": "220022",
+      "story_id": "nfl|4035|rotoballer|220022|1788446836000",
+      "title": "Alvin Kamara Absent From Thursday's Practice",
+      "url": "https://www.rotoballer.com/player-news/alvin-kamara-absent-from-thursdays-practice/1922663"
     },
     {
       "analysis": null,
