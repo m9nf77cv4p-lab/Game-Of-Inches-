@@ -2,12 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1735**
-- Newly captured: **2**
+- Stored stories: **1738**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Travis Etienne** — Travis Etienne - Finishes training camp healthy (2026-09-03T14:02:17Z)
+- **NEW — Jordan Addison** — Jordan Addison - Makes impressive grab in final camp practice (2026-09-03T14:23:29Z)
+  - Along with most of the Vikings' other key starters, Addison was rested for the final two preseason contests, but he was taking regular reps with the first-team offense throughout camp and will be ready to go for Week 1 against the Packers. As was the case for nearly every Minnesota pass catcher last season, Addison saw his production crater as a result of suspect quarterback play from J.J. McCarthy, Carson Wentz and Max Brosmer, but his fantasy outlook should be improved heading into 2026 while Murray steps in as the Vikings' new starter under center. Over his first two NFL seasons, Addison averaged 4.16 receptions, 55.81 yards and 0.59 touchdowns per game while Kirk Cousins and Sam Darnold served as the Vikings' primary quarterbacks.
+- **NEW — Chris Brooks** — Chris Brooks - Remains in backfield mix (2026-09-03T14:22:59Z)
+  - Jacobs will spend an indeterminate amount of time on the Commissioner's Exempt List while his legal situation is sorted out. His absence creates an opportunity for Green Bay's running backs. Brooks is the most experienced of the team's available options at the position, having appeared in 41 regular-season games, including 32 with the Packers. Injuries have limited the currently healthy Lloyd to just one regular-season appearance in two years, while the recent trade acquisition Johnson seemed to be on the verge of being cut by Pittsburgh following a 28-carry rookie campaign in 2025.
+- **NEW — Isaiah Likely** — Isaiah Likely - Breakout potential with Giants (2026-09-03T14:20:29Z)
+  - Likely signed a three-year, $40 million contract with the Giants in March and has subsequently formed a strong connection with QB Jaxson Dart on and off the field. The 26-year-old tight end also has familiarity with head coach John Harbaugh from their time together in Baltimore, where Likely played from 2022 to 2025. Likely was overshadowed by Mark Andrews on the Ravens, but the former has a clear path to a larger role in New York, where Likely will be competing for targets with fellow TE Theo Johnson (shoulder), as well as a WR room that includes Darius Slayton, Darnell Mooney, Malachi Fields and Odell Beckham behind Nabers.
+- **Travis Etienne** — Travis Etienne - Finishes training camp healthy (2026-09-03T14:02:17Z)
   - Etienne was one of the few Saints running backs to avoid any sort of injury scare or setback during training camp. Devin Neal (hamstring) and Ty Chandler (knee) will be out for the season after landing on injured reserve, and Alvin Kamara (knee) appears to be trending toward sitting out Week 1. Additionally, Kendre Miller sustained a minor undisclosed injury during practice Tuesday and is day-to-day, while Audric Estime is healthy but missed time in camp due to an ankle issue. After signing a four-year, $52 million deal in March, Etienne had already looked poised to handle a sizable workload for New Orleans both as a lead runner and pass catcher, and the battered condition of his backups following camp and the preseason adds further fuel to the notion that he'll be in line for heavy volume right of the gate.
 - **Tyler Shough** — Tyler Shough - Shines in final camp practice (2026-09-03T13:45:43Z)
   - Though he didn't play at all in the preseason while the Saints instead opened up more reps for backups Spencer Rattler and Zach Wilson, Shough reportedly looked sharp throughout training camp while keeping the New Orleans offense productive. He was able to close out camp on a high note by tossing three touchdown passes during 11-on-11 sessions, and Shough would have had two more had Devaughn Vele secured a one-handed catch in the end zone and had Chris Olave not fumbled near the goal line on another play. New Orleans will be without one of its key playmakers to begin the season in rookie first-round wideout Jordyn Tyson (hamstring), but Shough appeared to build good chemistry with new starting running back Travis Etienne, who was a frequent target of the quarterback during camp practices.
@@ -15,7 +21,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.
 - **Michael Penix** — Michael Penix - Will start 'eventually,' if not Week 1 (2026-09-03T13:23:16Z)
   - Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.
-- **NEW — Kayshon Boutte** — Kayshon Boutte Could Step In as Texans' Second Receiver (2026-09-03T09:59:08Z)
+- **Kayshon Boutte** — Kayshon Boutte Could Step In as Texans' Second Receiver (2026-09-03T09:59:08Z)
   - Source: https://www.rotoballer.com/player-news/kayshon-boutte-could-step-in-as-texans-second-receiver/1922412
 - **Rashid Shaheed** — Rashid Shaheed Ready for Larger Role (2026-09-03T09:49:08Z)
   - Source: https://www.rotoballer.com/player-news/rashid-shaheed-ready-for-larger-role/1922403
@@ -208,9 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/j-k-dobbins-ready-to-go-for-start-of-the-season/1922007
 - **J.J. McCarthy** — Vikings Expect J.J. McCarthy to be on the Week 1 Roster (2026-09-02T14:15:12Z)
   - Source: https://www.rotoballer.com/player-news/vikings-expect-j-j-mccarthy-to-be-on-the-week-1-roster/1921999
-- **Zay Flowers** — Zay Flowers Does More Work on the Side on Wednesday (2026-09-02T14:09:08Z)
-  - Source: https://www.rotoballer.com/player-news/zay-flowers-does-more-work-on-the-side-on-wednesday/1921993
-- **Blake Corum** — Blake Corum "Could Emerge as the 1A" in Rams' Backfield (2026-09-02T14:06:06Z)
-  - Source: https://www.rotoballer.com/player-news/blake-corum-could-emerge-as-the-1a-in-rams-backfield/1921990
-- **Isiah Pacheco** — No Timeline for Isiah Pacheco's Return (2026-09-02T13:59:06Z)
-  - Source: https://www.rotoballer.com/player-news/no-timeline-for-isiah-pachecos-return/1921983

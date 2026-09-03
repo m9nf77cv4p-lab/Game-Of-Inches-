@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-03T14:19:58Z",
+  "last_checked_at": "2026-09-03T14:33:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|7543|rotowire|636137|1788444137000",
-    "nfl|9504|rotoballer|219997|1788429548000"
+    "nfl|11370|rotowire|636139|1788445379000",
+    "nfl|8131|rotowire|636138|1788445229000",
+    "nfl|9756|rotowire|636140|1788445409000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Along with most of the Vikings' other key starters, Addison was rested for the final two preseason contests, but he was taking regular reps with the first-team offense throughout camp and will be ready to go for Week 1 against the Packers. As was the case for nearly every Minnesota pass catcher last season, Addison saw his production crater as a result of suspect quarterback play from J.J. McCarthy, Carson Wentz and Max Brosmer, but his fantasy outlook should be improved heading into 2026 while Murray steps in as the Vikings' new starter under center. Over his first two NFL seasons, Addison averaged 4.16 receptions, 55.81 yards and 0.59 touchdowns per game while Kirk Cousins and Sam Darnold served as the Vikings' primary quarterbacks.",
+      "description": "Addison provided one of the highlights of the day during the Vikings' final training camp practice Aug. 26, connecting with quarterback Kyler Murray on a toe-dragging, sideline catch, Andrew Krammer of The Minnesota Star Tribune reports.",
+      "metadata": {
+        "analysis": "Along with most of the Vikings' other key starters, Addison was rested for the final two preseason contests, but he was taking regular reps with the first-team offense throughout camp and will be ready to go for Week 1 against the Packers. As was the case for nearly every Minnesota pass catcher last season, Addison saw his production crater as a result of suspect quarterback play from J.J. McCarthy, Carson Wentz and Max Brosmer, but his fantasy outlook should be improved heading into 2026 while Murray steps in as the Vikings' new starter under center. Over his first two NFL seasons, Addison averaged 4.16 receptions, 55.81 yards and 0.59 touchdowns per game while Kirk Cousins and Sam Darnold served as the Vikings' primary quarterbacks.",
+        "description": "Addison provided one of the highlights of the day during the Vikings' final training camp practice Aug. 26, connecting with quarterback Kyler Murray on a toe-dragging, sideline catch, Andrew Krammer of The Minnesota Star Tribune reports.",
+        "title": "Jordan Addison - Makes impressive grab in final camp practice",
+        "topic_id": "1401247057192218624"
+      },
+      "nfl_team": "MIN",
+      "player_id": "9756",
+      "player_name": "Jordan Addison",
+      "position": "WR",
+      "published": 1788445409000,
+      "source": "rotowire",
+      "source_key": "636140",
+      "story_id": "nfl|9756|rotowire|636140|1788445409000",
+      "title": "Jordan Addison - Makes impressive grab in final camp practice",
+      "url": null
+    },
+    {
+      "analysis": "Jacobs will spend an indeterminate amount of time on the Commissioner's Exempt List while his legal situation is sorted out. His absence creates an opportunity for Green Bay's running backs. Brooks is the most experienced of the team's available options at the position, having appeared in 41 regular-season games, including 32 with the Packers. Injuries have limited the currently healthy Lloyd to just one regular-season appearance in two years, while the recent trade acquisition Johnson seemed to be on the verge of being cut by Pittsburgh following a 28-carry rookie campaign in 2025.",
+      "description": "Brooks is set to begin the season as one of Green Bay's top three available running backs alongside MarShawn Lloyd and Kaleb Johnson, as Adam Schefter of ESPN reports that the NFL placed Josh Jacobs (personal) on the Commissioner's Exempt List on Sunday.",
+      "metadata": {
+        "analysis": "Jacobs will spend an indeterminate amount of time on the Commissioner's Exempt List while his legal situation is sorted out. His absence creates an opportunity for Green Bay's running backs. Brooks is the most experienced of the team's available options at the position, having appeared in 41 regular-season games, including 32 with the Packers. Injuries have limited the currently healthy Lloyd to just one regular-season appearance in two years, while the recent trade acquisition Johnson seemed to be on the verge of being cut by Pittsburgh following a 28-carry rookie campaign in 2025.",
+        "description": "Brooks is set to begin the season as one of Green Bay's top three available running backs alongside MarShawn Lloyd and Kaleb Johnson, as Adam Schefter of ESPN reports that the NFL placed Josh Jacobs (personal) on the Commissioner's Exempt List on Sunday.",
+        "title": "Chris Brooks - Remains in backfield mix",
+        "topic_id": "1401245798154407937"
+      },
+      "nfl_team": "GB",
+      "player_id": "11370",
+      "player_name": "Chris Brooks",
+      "position": "RB",
+      "published": 1788445379000,
+      "source": "rotowire",
+      "source_key": "636139",
+      "story_id": "nfl|11370|rotowire|636139|1788445379000",
+      "title": "Chris Brooks - Remains in backfield mix",
+      "url": null
+    },
+    {
+      "analysis": "Likely signed a three-year, $40 million contract with the Giants in March and has subsequently formed a strong connection with QB Jaxson Dart on and off the field. The 26-year-old tight end also has familiarity with head coach John Harbaugh from their time together in Baltimore, where Likely played from 2022 to 2025. Likely was overshadowed by Mark Andrews on the Ravens, but the former has a clear path to a larger role in New York, where Likely will be competing for targets with fellow TE Theo Johnson (shoulder), as well as a WR room that includes Darius Slayton, Darnell Mooney, Malachi Fields and Odell Beckham behind Nabers.",
+      "description": "Likely could emerge as the second option in the Giants' passing game behind Malik Nabers (knee), according to Dan Graziano of ESPN.com.",
+      "metadata": {
+        "analysis": "Likely signed a three-year, $40 million contract with the Giants in March and has subsequently formed a strong connection with QB Jaxson Dart on and off the field. The 26-year-old tight end also has familiarity with head coach John Harbaugh from their time together in Baltimore, where Likely played from 2022 to 2025. Likely was overshadowed by Mark Andrews on the Ravens, but the former has a clear path to a larger role in New York, where Likely will be competing for targets with fellow TE Theo Johnson (shoulder), as well as a WR room that includes Darius Slayton, Darnell Mooney, Malachi Fields and Odell Beckham behind Nabers.",
+        "description": "Likely could emerge as the second option in the Giants' passing game behind Malik Nabers (knee), according to Dan Graziano of ESPN.com.",
+        "title": "Isaiah Likely - Breakout potential with Giants",
+        "topic_id": "1401245798154407936"
+      },
+      "nfl_team": "NYG",
+      "player_id": "8131",
+      "player_name": "Isaiah Likely",
+      "position": "TE",
+      "published": 1788445229000,
+      "source": "rotowire",
+      "source_key": "636138",
+      "story_id": "nfl|8131|rotowire|636138|1788445229000",
+      "title": "Isaiah Likely - Breakout potential with Giants",
+      "url": null
+    },
     {
       "analysis": "Etienne was one of the few Saints running backs to avoid any sort of injury scare or setback during training camp. Devin Neal (hamstring) and Ty Chandler (knee) will be out for the season after landing on injured reserve, and Alvin Kamara (knee) appears to be trending toward sitting out Week 1. Additionally, Kendre Miller sustained a minor undisclosed injury during practice Tuesday and is day-to-day, while Audric Estime is healthy but missed time in camp due to an ankle issue. After signing a four-year, $52 million deal in March, Etienne had already looked poised to handle a sizable workload for New Orleans both as a lead runner and pass catcher, and the battered condition of his backups following camp and the preseason adds further fuel to the notion that he'll be in line for heavy volume right of the gate.",
       "description": "Etienne was rested for all three of the Saints' preseason contests and is fully healthy heading into the team's Week 1 game in Detroit.",
