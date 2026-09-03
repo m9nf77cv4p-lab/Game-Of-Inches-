@@ -1,13 +1,9 @@
 {
-  "last_checked_at": "2026-09-03T19:11:54Z",
+  "last_checked_at": "2026-09-03T19:23:45Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12529|rotowire|636183|1788462134000",
-    "nfl|5967|rotowire|636180|1788461672000",
-    "nfl|8142|rotoballer|220023|1788447437000",
-    "nfl|9508|rotowire|636182|1788461924000",
-    "nfl|9511|rotowire|636181|1788461777000"
+    "nfl|4217|rotoballer|220024|1788448396000"
   ],
   "schema_version": 1,
   "source": {
@@ -878,6 +874,26 @@
       "story_id": "nfl|5012|rotowire|636143|1788448448000",
       "title": "Mark Andrews - Set to lead new-look TE room",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers tight end George Kittle (Achilles) traveled with the team to Australia for the Week 1 regular-season opener next Thursday against the division-rival Los Angeles Rams, but that does not mean that he will play a full game if he is active next week. If Kittle is active, The Athletic's Matt Barrows is \"sure he won't be on the field for his usual 95 percent of the offensive snaps.\" The 49ers must consider the long ride back for Kittle, who suffered a torn Achilles tendon in the playoffs back in January. The 32-year-old veteran is a seven-time Pro Bowler and two-time first-team All-Pro, but he also has a lengthy injury history and managed to play in just 11 regular-season games in 2025 in his ninth year in the NFL, catching 57 of his 69 targets for 628 yards and seven touchdowns. The 49ers are most likely looking to slowly ease Kittle back into the offense so that he can be peaking late in the year if he manages to stay healthy in 2026. Fantasy managers setting DFS lineups in Week 1 should be fading Kittle at the TE position.",
+      "metadata": {
+        "description": "San Francisco 49ers tight end George Kittle (Achilles) traveled with the team to Australia for the Week 1 regular-season opener next Thursday against the division-rival Los Angeles Rams, but that does not mean that he will play a full game if he is active next week. If Kittle is active, The Athletic's Matt Barrows is \"sure he won't be on the field for his usual 95 percent of the offensive snaps.\" The 49ers must consider the long ride back for Kittle, who suffered a torn Achilles tendon in the playoffs back in January. The 32-year-old veteran is a seven-time Pro Bowler and two-time first-team All-Pro, but he also has a lengthy injury history and managed to play in just 11 regular-season games in 2025 in his ninth year in the NFL, catching 57 of his 69 targets for 628 yards and seven touchdowns. The 49ers are most likely looking to slowly ease Kittle back into the offense so that he can be peaking late in the year if he manages to stay healthy in 2026. Fantasy managers setting DFS lineups in Week 1 should be fading Kittle at the TE position.",
+        "title": "George Kittle Could be on Snap Count in Week 1",
+        "topic_id": "1401319891574738944",
+        "url": "https://www.rotoballer.com/player-news/george-kittle-could-be-on-snap-count-in-week-1/1922676"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788448396000,
+      "source": "rotoballer",
+      "source_key": "220024",
+      "story_id": "nfl|4217|rotoballer|220024|1788448396000",
+      "title": "George Kittle Could be on Snap Count in Week 1",
+      "url": "https://www.rotoballer.com/player-news/george-kittle-could-be-on-snap-count-in-week-1/1922676"
     },
     {
       "analysis": "The Seahawks seem to trust Holani's receiving and pass-blocking abilities, which should allow the 26-year-old running back to earn a prominent role out of the gate, though the rookie first-round pick Price is the leading candidate to get most of the rushing opportunities. Zach Charbonnet (knee) could also earn a sizable role once healthy, but he'll miss at least the first four weeks of the season while on the reserve/PUP list and could be out well beyond then. Emanuel Wilson (hamstring) rounds out the running back depth chart.",
@@ -36320,26 +36336,6 @@
       "story_id": "nfl|10226|rotoballer|217997|1785882489000",
       "title": "Andrei Iosivas Projects as the Bengals No. 3 Wide Receiver",
       "url": "https://www.rotoballer.com/player-news/andrei-iosivas-projects-as-the-bengals-no-3-wide-receiver-not-a-good-dynasty-or-redraft-target/1903144"
-    },
-    {
-      "analysis": "Orthopedic surgeon Dr. Prem Ramkumar told the San Francisco Chronicle that there's not enough data on similar surgeries to confidently predict whether Pearsall will regain his pre-injury form in 2027. That also explains why rehab estimates have been so broad, with one report suggesting \"6-12 months\" as the timeline for Pearsall's return. Having undergone surgery in early August, the wideout has 13 months to prepare for Week 1 of 2027 -- right around the time he'll celebrate his 27th birthday.",
-      "description": "Pearsall (knee) is one of the few prominent athletes to have surgery on an isolated PCL injury, making it difficult to set expectations for rehab length or a potential return to pre-injury form, Eric Branch of the San Francisco Chronicle reports.",
-      "metadata": {
-        "analysis": "Orthopedic surgeon Dr. Prem Ramkumar told the San Francisco Chronicle that there's not enough data on similar surgeries to confidently predict whether Pearsall will regain his pre-injury form in 2027. That also explains why rehab estimates have been so broad, with one report suggesting \"6-12 months\" as the timeline for Pearsall's return. Having undergone surgery in early August, the wideout has 13 months to prepare for Week 1 of 2027 -- right around the time he'll celebrate his 27th birthday.",
-        "description": "Pearsall (knee) is one of the few prominent athletes to have surgery on an isolated PCL injury, making it difficult to set expectations for rehab length or a potential return to pre-injury form, Eric Branch of the San Francisco Chronicle reports.",
-        "title": "Ricky Pearsall - Lengthy rehab with little precedent",
-        "topic_id": "1390449520453615616"
-      },
-      "nfl_team": "SF",
-      "player_id": "11638",
-      "player_name": "Ricky Pearsall",
-      "position": "WR",
-      "published": 1785871260000,
-      "source": "rotowire",
-      "source_key": "632578",
-      "story_id": "nfl|11638|rotowire|632578|1785871260000",
-      "title": "Ricky Pearsall - Lengthy rehab with little precedent",
-      "url": null
     }
   ]
 }
