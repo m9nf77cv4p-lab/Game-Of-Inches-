@@ -2,18 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1733**
-- Newly captured: **3**
+- Stored stories: **1735**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Tyler Shough** — Tyler Shough - Shines in final camp practice (2026-09-03T13:45:43Z)
+- **NEW — Travis Etienne** — Travis Etienne - Finishes training camp healthy (2026-09-03T14:02:17Z)
+  - Etienne was one of the few Saints running backs to avoid any sort of injury scare or setback during training camp. Devin Neal (hamstring) and Ty Chandler (knee) will be out for the season after landing on injured reserve, and Alvin Kamara (knee) appears to be trending toward sitting out Week 1. Additionally, Kendre Miller sustained a minor undisclosed injury during practice Tuesday and is day-to-day, while Audric Estime is healthy but missed time in camp due to an ankle issue. After signing a four-year, $52 million deal in March, Etienne had already looked poised to handle a sizable workload for New Orleans both as a lead runner and pass catcher, and the battered condition of his backups following camp and the preseason adds further fuel to the notion that he'll be in line for heavy volume right of the gate.
+- **Tyler Shough** — Tyler Shough - Shines in final camp practice (2026-09-03T13:45:43Z)
   - Though he didn't play at all in the preseason while the Saints instead opened up more reps for backups Spencer Rattler and Zach Wilson, Shough reportedly looked sharp throughout training camp while keeping the New Orleans offense productive. He was able to close out camp on a high note by tossing three touchdown passes during 11-on-11 sessions, and Shough would have had two more had Devaughn Vele secured a one-handed catch in the end zone and had Chris Olave not fumbled near the goal line on another play. New Orleans will be without one of its key playmakers to begin the season in rookie first-round wideout Jordyn Tyson (hamstring), but Shough appeared to build good chemistry with new starting running back Travis Etienne, who was a frequent target of the quarterback during camp practices.
 - **Dylan Sampson** — Dylan Sampson - Rests up during preseason finale (2026-09-03T13:32:28Z)
   - Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.
 - **Michael Penix** — Michael Penix - Will start 'eventually,' if not Week 1 (2026-09-03T13:23:16Z)
   - Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.
-- **NEW — Rashid Shaheed** — Rashid Shaheed Ready for Larger Role (2026-09-03T09:49:08Z)
+- **NEW — Kayshon Boutte** — Kayshon Boutte Could Step In as Texans' Second Receiver (2026-09-03T09:59:08Z)
+  - Source: https://www.rotoballer.com/player-news/kayshon-boutte-could-step-in-as-texans-second-receiver/1922412
+- **Rashid Shaheed** — Rashid Shaheed Ready for Larger Role (2026-09-03T09:49:08Z)
   - Source: https://www.rotoballer.com/player-news/rashid-shaheed-ready-for-larger-role/1922403
 - **Aaron Jones** — Aaron Jones Sr. Could Land in Smaller Role (2026-09-03T09:40:34Z)
   - Source: https://www.rotoballer.com/player-news/aaron-jones-sr-could-land-in-smaller-role/1922395
@@ -21,7 +25,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/travis-kelce-looks-strong-in-training-camp/1922380
 - **Matthew Golden** — Matthew Golden Brings Breakout Potential in Expanded Role (2026-09-03T09:13:05Z)
   - Source: https://www.rotoballer.com/player-news/matthew-golden-brings-breakout-potential-in-expanded-role/1922368
-- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Gaining Steam as the No. 1 RB for Patriots (2026-09-03T01:17:09Z)
+- **Rhamondre Stevenson** — Rhamondre Stevenson Gaining Steam as the No. 1 RB for Patriots (2026-09-03T01:17:09Z)
   - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-gaining-steam-as-the-no-1-rb-for-patriots/1922305
 - **Davante Adams** — Davante Adams - Logs no preseason action (2026-09-03T01:04:50Z)
   - After logging at least 1,000 receiving yards six times in seven seasons between 2018 and 2024, Adams put together just 789 such yards in his age-33 campaign last year over 14 regular-season games, though he did miss three contest due to a hamstring injury. He salvaged his season with an NFL-leading 14 touchdown catches, displaying an incredible rapport with QB Matthew Stafford. With the Rams' top WR, Puka Nacua, still tending to psoas soreness a week before the team's Week 1 matchup with the 49ers next Thursday, Sept. 10, Adams effectively could be Stafford's No. 1 target out of the gate if Nacua isn't 100 percent.
@@ -210,7 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/blake-corum-could-emerge-as-the-1a-in-rams-backfield/1921990
 - **Isiah Pacheco** — No Timeline for Isiah Pacheco's Return (2026-09-02T13:59:06Z)
   - Source: https://www.rotoballer.com/player-news/no-timeline-for-isiah-pachecos-return/1921983
-- **Brian Thomas** — Brian Thomas - Practices fully Tuesday (2026-09-02T13:54:51Z)
-  - Thomas injured his shoulder in a joint practice with the Buccaneers one week earlier, but he avoided a major scare and was back on the field a few days later while sporting a no-contact jersey. The wideout was seemingly able to shed that jersey and take some contact during Tuesday's session, so he looks like he'll be in the clear for the Jaguars' Sept. 13 season opener versus the Browns.
-- **Fernando Mendoza** — Fernando Mendoza to Serve as Raiders QB2 (2026-09-02T13:51:23Z)
-  - Source: https://www.rotoballer.com/player-news/fernando-mendoza-to-serve-as-raiders-qb2/1921973

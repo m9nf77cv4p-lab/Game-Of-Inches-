@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-03T14:00:16Z",
+  "last_checked_at": "2026-09-03T14:19:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12545|rotowire|636136|1788443143000",
-    "nfl|7611|rotoballer|219995|1788398229000",
-    "nfl|8676|rotoballer|219996|1788428948000"
+    "nfl|7543|rotowire|636137|1788444137000",
+    "nfl|9504|rotoballer|219997|1788429548000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Etienne was one of the few Saints running backs to avoid any sort of injury scare or setback during training camp. Devin Neal (hamstring) and Ty Chandler (knee) will be out for the season after landing on injured reserve, and Alvin Kamara (knee) appears to be trending toward sitting out Week 1. Additionally, Kendre Miller sustained a minor undisclosed injury during practice Tuesday and is day-to-day, while Audric Estime is healthy but missed time in camp due to an ankle issue. After signing a four-year, $52 million deal in March, Etienne had already looked poised to handle a sizable workload for New Orleans both as a lead runner and pass catcher, and the battered condition of his backups following camp and the preseason adds further fuel to the notion that he'll be in line for heavy volume right of the gate.",
+      "description": "Etienne was rested for all three of the Saints' preseason contests and is fully healthy heading into the team's Week 1 game in Detroit.",
+      "metadata": {
+        "analysis": "Etienne was one of the few Saints running backs to avoid any sort of injury scare or setback during training camp. Devin Neal (hamstring) and Ty Chandler (knee) will be out for the season after landing on injured reserve, and Alvin Kamara (knee) appears to be trending toward sitting out Week 1. Additionally, Kendre Miller sustained a minor undisclosed injury during practice Tuesday and is day-to-day, while Audric Estime is healthy but missed time in camp due to an ankle issue. After signing a four-year, $52 million deal in March, Etienne had already looked poised to handle a sizable workload for New Orleans both as a lead runner and pass catcher, and the battered condition of his backups following camp and the preseason adds further fuel to the notion that he'll be in line for heavy volume right of the gate.",
+        "description": "Etienne was rested for all three of the Saints' preseason contests and is fully healthy heading into the team's Week 1 game in Detroit.",
+        "title": "Travis Etienne - Finishes training camp healthy",
+        "topic_id": "1401240765023191040"
+      },
+      "nfl_team": "NO",
+      "player_id": "7543",
+      "player_name": "Travis Etienne",
+      "position": "RB",
+      "published": 1788444137000,
+      "source": "rotowire",
+      "source_key": "636137",
+      "story_id": "nfl|7543|rotowire|636137|1788444137000",
+      "title": "Travis Etienne - Finishes training camp healthy",
+      "url": null
+    },
     {
       "analysis": "Though he didn't play at all in the preseason while the Saints instead opened up more reps for backups Spencer Rattler and Zach Wilson, Shough reportedly looked sharp throughout training camp while keeping the New Orleans offense productive. He was able to close out camp on a high note by tossing three touchdown passes during 11-on-11 sessions, and Shough would have had two more had Devaughn Vele secured a one-handed catch in the end zone and had Chris Olave not fumbled near the goal line on another play. New Orleans will be without one of its key playmakers to begin the season in rookie first-round wideout Jordyn Tyson (hamstring), but Shough appeared to build good chemistry with new starting running back Travis Etienne, who was a frequent target of the quarterback during camp practices.",
       "description": "Shough drew positive reviews for his performance during the Saints' final practice of training camp Aug. 26, Grant Chachere of SI.com reports.",
@@ -74,6 +93,26 @@
       "story_id": "nfl|11559|rotowire|636134|1788441796000",
       "title": "Michael Penix - Will start 'eventually,' if not Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Kayshon Boutte landed in a great spot for his fantasy value to potentially take off this year. Last year with the Patriots, Boutte had 33 receptions for 551 yards and six touchdowns while helping Drake Maye take the next step in his development. With the team's offseason moves, though, Boutte was in a much smaller role this season and was ultimately traded to the Texans, who have a big need for a second receiver across from Nico Collins. Second-year receiver Jayden Higgins (knee) was lost for the year to a torn ACL this preseason, opening playing time and targets across the field from Collins. With Tank Dell (knee) on IR to start the year and Jaylin Noel (hamstring/finger) battling injury as well, Boutte should have a clear path to a significant role early in the year if he can develop good chemistry with QB C.J. Stroud right away. Boutte is currently the No. 62 WR in RotoBaller's rankings, but he brings intriguing upside in his potentially expanded role with his new team.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Kayshon Boutte landed in a great spot for his fantasy value to potentially take off this year. Last year with the Patriots, Boutte had 33 receptions for 551 yards and six touchdowns while helping Drake Maye take the next step in his development. With the team's offseason moves, though, Boutte was in a much smaller role this season and was ultimately traded to the Texans, who have a big need for a second receiver across from Nico Collins. Second-year receiver Jayden Higgins (knee) was lost for the year to a torn ACL this preseason, opening playing time and targets across the field from Collins. With Tank Dell (knee) on IR to start the year and Jaylin Noel (hamstring/finger) battling injury as well, Boutte should have a clear path to a significant role early in the year if he can develop good chemistry with QB C.J. Stroud right away. Boutte is currently the No. 62 WR in RotoBaller's rankings, but he brings intriguing upside in his potentially expanded role with his new team.",
+        "title": "Kayshon Boutte Could Step In as Texans' Second Receiver",
+        "topic_id": "1401240762523357184",
+        "url": "https://www.rotoballer.com/player-news/kayshon-boutte-could-step-in-as-texans-second-receiver/1922412"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9504",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "published": 1788429548000,
+      "source": "rotoballer",
+      "source_key": "219997",
+      "story_id": "nfl|9504|rotoballer|219997|1788429548000",
+      "title": "Kayshon Boutte Could Step In as Texans' Second Receiver",
+      "url": "https://www.rotoballer.com/player-news/kayshon-boutte-could-step-in-as-texans-second-receiver/1922412"
     },
     {
       "analysis": null,
