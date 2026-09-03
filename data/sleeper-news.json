@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-03T13:36:53Z",
+  "last_checked_at": "2026-09-03T13:50:11Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11559|rotowire|636134|1788441796000",
-    "nfl|12469|rotowire|636135|1788442348000",
-    "nfl|1466|rotoballer|219993|1788427630000"
+    "nfl|4199|rotoballer|219994|1788428434000"
   ],
   "schema_version": 1,
   "source": {
@@ -57,6 +55,26 @@
     },
     {
       "analysis": null,
+      "description": "Minnesota Vikings running back Aaron Jones Sr. is expected to work in a timeshare this season in his team's backfield, but he could be in a smaller role than expected since his teammate Jordan Mason has been shining throughout preseason and training camp. Jones restructured his deal this offseason after posting 548 rushing yards and 199 receiving yards with three total touchdowns last year. The 31-year-old running back will still be involved, but he could be limited, with Mason taking more of the lead. Jones does still have value and is ranked as RotoBaller's No. 44 RB, but Mason is No. 35 in those rankings and seems to be on the rise, making Jones a higher-risk pick best left as a deep-league option or backup emergency fill-in.",
+      "metadata": {
+        "description": "Minnesota Vikings running back Aaron Jones Sr. is expected to work in a timeshare this season in his team's backfield, but he could be in a smaller role than expected since his teammate Jordan Mason has been shining throughout preseason and training camp. Jones restructured his deal this offseason after posting 548 rushing yards and 199 receiving yards with three total touchdowns last year. The 31-year-old running back will still be involved, but he could be limited, with Mason taking more of the lead. Jones does still have value and is ranked as RotoBaller's No. 44 RB, but Mason is No. 35 in those rankings and seems to be on the rise, making Jones a higher-risk pick best left as a deep-league option or backup emergency fill-in.",
+        "title": "Aaron Jones Sr. Could Land in Smaller Role",
+        "topic_id": "1401235728809115650",
+        "url": "https://www.rotoballer.com/player-news/aaron-jones-sr-could-land-in-smaller-role/1922395"
+      },
+      "nfl_team": "MIN",
+      "player_id": "4199",
+      "player_name": "Aaron Jones",
+      "position": "RB",
+      "published": 1788428434000,
+      "source": "rotoballer",
+      "source_key": "219994",
+      "story_id": "nfl|4199|rotoballer|219994|1788428434000",
+      "title": "Aaron Jones Sr. Could Land in Smaller Role",
+      "url": "https://www.rotoballer.com/player-news/aaron-jones-sr-could-land-in-smaller-role/1922395"
+    },
+    {
+      "analysis": null,
       "description": "Kansas City Chiefs tight end Travis Kelce has looked locked in and ready to post another strong season, according to reports from Chiefs' camp. Last year, in a down year by his elite standards, Kelce racked up 76 catches for 851 yards and five touchdowns on 108 targets. He has finished with over 100 targets in 11 consecutive seasons, and the Chiefs return most of the same pass-catching options this year. In great news for Kelce's fantasy outlook, Chiefs quarterback Patrick Mahomes (knee) looks like he'll be ready for Week 1, so Kelce can continue his elite chemistry, serving as Mahomes' go-to option. He may not have the ceiling that he provided earlier in his career, but it looks like the veteran still has enough in the tank to bring great value at his current ADP. He's being drafted as a low-end TE1 option in most drafts and is RotoBaller's No. 11 TE. In that spot, he brings a high floor and good upside if he bounces back from last year's slightly reduced totals.",
       "metadata": {
         "description": "Kansas City Chiefs tight end Travis Kelce has looked locked in and ready to post another strong season, according to reports from Chiefs' camp. Last year, in a down year by his elite standards, Kelce racked up 76 catches for 851 yards and five touchdowns on 108 targets. He has finished with over 100 targets in 11 consecutive seasons, and the Chiefs return most of the same pass-catching options this year. In great news for Kelce's fantasy outlook, Chiefs quarterback Patrick Mahomes (knee) looks like he'll be ready for Week 1, so Kelce can continue his elite chemistry, serving as Mahomes' go-to option. He may not have the ceiling that he provided earlier in his career, but it looks like the veteran still has enough in the tank to bring great value at his current ADP. He's being drafted as a low-end TE1 option in most drafts and is RotoBaller's No. 11 TE. In that spot, he brings a high floor and good upside if he bounces back from last year's slightly reduced totals.",
@@ -77,9 +95,9 @@
     },
     {
       "analysis": null,
-      "description": "Green Bay Packers Matthew Golden is set for a larger role in the Packers' offense this season and could be a late-round sleeper with true breakout potential. Last year, as a rookie, the first-round pick from Texas totaled 29 catches for 361 receiving yards. He scored his first NFL touchdown in the team's playoff game against the Bears, finishing with four catches for 84 yards and a score. After inconsistent playing time, Golden is locked into a top-three role on the Packers for this year after the team traded Dontayvion Wicks to the Eagles and watched Romeo Doubs sign with the Patriots as a free agent. Golden should be locked into three-wide sets alongside Jayden Reed and Christian Watson. As an outside threat with breakaway speed, Golden could be a big-play-reliant starting option in deep leagues based on his more consistent role. He's ranked as RotoBaller's No. 44 WR in PPR leagues, and he's a solid late-round option to consider as you build depth into your receiving corps. The first-round pick has plenty of upside, even though he remains unproven, and he is therefore a high-risk, high-reward sleeper to target.",
+      "description": "Green Bay Packers wide receiver Matthew Golden is set for a larger role in the Packers' offense this season and could be a late-round sleeper with true breakout potential. Last year, as a rookie, the first-round pick from Texas totaled 29 catches for 361 receiving yards. He scored his first NFL touchdown in the team's playoff game against the Bears, finishing with four catches for 84 yards and a score. After inconsistent playing time, Golden is locked into a top-three role on the Packers for this year after the team traded Dontayvion Wicks to the Eagles and watched Romeo Doubs sign with the Patriots as a free agent. Golden should be locked into three-wide sets alongside Jayden Reed and Christian Watson. As an outside threat with breakaway speed, Golden could be a big-play-reliant starting option in deep leagues based on his more consistent role. He's ranked as RotoBaller's No. 44 WR in PPR leagues, and he's a solid late-round option to consider as you build depth into your receiving corps. The first-round pick has plenty of upside, even though he remains unproven, and he is therefore a high-risk, high-reward sleeper to target.",
       "metadata": {
-        "description": "Green Bay Packers Matthew Golden is set for a larger role in the Packers' offense this season and could be a late-round sleeper with true breakout potential. Last year, as a rookie, the first-round pick from Texas totaled 29 catches for 361 receiving yards. He scored his first NFL touchdown in the team's playoff game against the Bears, finishing with four catches for 84 yards and a score. After inconsistent playing time, Golden is locked into a top-three role on the Packers for this year after the team traded Dontayvion Wicks to the Eagles and watched Romeo Doubs sign with the Patriots as a free agent. Golden should be locked into three-wide sets alongside Jayden Reed and Christian Watson. As an outside threat with breakaway speed, Golden could be a big-play-reliant starting option in deep leagues based on his more consistent role. He's ranked as RotoBaller's No. 44 WR in PPR leagues, and he's a solid late-round option to consider as you build depth into your receiving corps. The first-round pick has plenty of upside, even though he remains unproven, and he is therefore a high-risk, high-reward sleeper to target.",
+        "description": "Green Bay Packers wide receiver Matthew Golden is set for a larger role in the Packers' offense this season and could be a late-round sleeper with true breakout potential. Last year, as a rookie, the first-round pick from Texas totaled 29 catches for 361 receiving yards. He scored his first NFL touchdown in the team's playoff game against the Bears, finishing with four catches for 84 yards and a score. After inconsistent playing time, Golden is locked into a top-three role on the Packers for this year after the team traded Dontayvion Wicks to the Eagles and watched Romeo Doubs sign with the Patriots as a free agent. Golden should be locked into three-wide sets alongside Jayden Reed and Christian Watson. As an outside threat with breakaway speed, Golden could be a big-play-reliant starting option in deep leagues based on his more consistent role. He's ranked as RotoBaller's No. 44 WR in PPR leagues, and he's a solid late-round option to consider as you build depth into your receiving corps. The first-round pick has plenty of upside, even though he remains unproven, and he is therefore a high-risk, high-reward sleeper to target.",
         "title": "Matthew Golden Brings Breakout Potential in Expanded Role",
         "topic_id": "1401229436489097216",
         "url": "https://www.rotoballer.com/player-news/matthew-golden-brings-breakout-potential-in-expanded-role/1922368"

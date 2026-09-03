@@ -2,16 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1729**
-- Newly captured: **3**
+- Stored stories: **1730**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Dylan Sampson** — Dylan Sampson - Rests up during preseason finale (2026-09-03T13:32:28Z)
+- **Dylan Sampson** — Dylan Sampson - Rests up during preseason finale (2026-09-03T13:32:28Z)
   - Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.
-- **NEW — Michael Penix** — Michael Penix - Will start 'eventually,' if not Week 1 (2026-09-03T13:23:16Z)
+- **Michael Penix** — Michael Penix - Will start 'eventually,' if not Week 1 (2026-09-03T13:23:16Z)
   - Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.
-- **NEW — Travis Kelce** — Travis Kelce Looks Strong in Training Camp (2026-09-03T09:27:10Z)
+- **NEW — Aaron Jones** — Aaron Jones Sr. Could Land in Smaller Role (2026-09-03T09:40:34Z)
+  - Source: https://www.rotoballer.com/player-news/aaron-jones-sr-could-land-in-smaller-role/1922395
+- **Travis Kelce** — Travis Kelce Looks Strong in Training Camp (2026-09-03T09:27:10Z)
   - Source: https://www.rotoballer.com/player-news/travis-kelce-looks-strong-in-training-camp/1922380
 - **Matthew Golden** — Matthew Golden Brings Breakout Potential in Expanded Role (2026-09-03T09:13:05Z)
   - Source: https://www.rotoballer.com/player-news/matthew-golden-brings-breakout-potential-in-expanded-role/1922368
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/panthers-very-optimistic-jonathon-brooks-will-be-available-in-week-1/1921961
 - **Blake Corum** — Blake Corum - Sits out preseason in advance of Year 3 (2026-09-02T13:37:30Z)
   - Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.
-- **C.J. Stroud** — C.J. Stroud Unlikely to Open 2026 Season With a New Deal (2026-09-02T13:30:13Z)
-  - Source: https://www.rotoballer.com/player-news/c-j-stroud-unlikely-to-open-2026-season-with-a-new-deal/1921957
