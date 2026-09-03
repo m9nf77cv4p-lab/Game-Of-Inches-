@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-03T01:59:35Z",
+  "last_checked_at": "2026-09-03T02:21:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4037|rotoballer|219976|1788385330000"
+    "nfl|11559|rotoballer|219977|1788386050000",
+    "nfl|13298|rotoballer|219979|1788386770000"
   ],
   "schema_version": 1,
   "source": {
@@ -394,6 +395,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Cleveland Browns wide receiver KC Concepcion said he's looking forward to carrying his strong play in training camp over into the regular season, Chris Easterling reports. Concepcion only made one preseason appearance, but he looked good during that contest versus the Chicago Bears. He hauled in three receptions for 27 yards and scored a 14-yard rushing touchdown. It sounds like Concepcion has earned enough trust from his coaches to be an immediate impact player in Cleveland. He currently has an ADP of 120.2, but has the potential to be a top-35 player at his position.",
+      "metadata": {
+        "description": "Cleveland Browns wide receiver KC Concepcion said he's looking forward to carrying his strong play in training camp over into the regular season, Chris Easterling reports. Concepcion only made one preseason appearance, but he looked good during that contest versus the Chicago Bears. He hauled in three receptions for 27 yards and scored a 14-yard rushing touchdown. It sounds like Concepcion has earned enough trust from his coaches to be an immediate impact player in Cleveland. He currently has an ADP of 120.2, but has the potential to be a top-35 player at his position.",
+        "title": "KC Concepcion Hopes to Carry Strong Summer into Regular Season",
+        "topic_id": "1401060804140236800",
+        "url": "https://www.rotoballer.com/player-news/kc-concepcion-hopes-to-carry-strong-summer-into-regular-season/1922235"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13298",
+      "player_name": "KC Concepcion",
+      "position": "WR",
+      "published": 1788386770000,
+      "source": "rotoballer",
+      "source_key": "219979",
+      "story_id": "nfl|13298|rotoballer|219979|1788386770000",
+      "title": "KC Concepcion Hopes to Carry Strong Summer into Regular Season",
+      "url": "https://www.rotoballer.com/player-news/kc-concepcion-hopes-to-carry-strong-summer-into-regular-season/1922235"
+    },
+    {
       "analysis": "On Tuesday, coach Zac Taylor relayed to Baby that Higgins was dealing with a bruised heel, but the issue wasn't a major concern. Having said that, Higgins didn't log any activity one day later, so his status, along with fellow DNP WR Ja'Marr Chase (knee), will be monitored closely as Week 1 inches closer. The Bengals take on the Buccaneers on Sunday, Sept. 13, meaning Higgins' first official practice reps of the campaign will be possible next Wednesday.",
       "description": "Higgins (heel) didn't take part in practice Wednesday, Ben Baby of ESPN.com reports.",
       "metadata": {
@@ -412,6 +433,26 @@
       "story_id": "nfl|6801|rotowire|636032|1788386524000",
       "title": "Tee Higgins - No practice Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Atlanta Falcons quarterback Michael Penix Jr. (knee) is expected to eventually take over as the starter under center, according to Cameron Wolfe. Penix is still working his way back from a partially torn left ACL from last year. He was cleared to begin doing team drills as of last weekend. Wolfe mentions that he believes it's too soon for Penix to start in Week 1, but it doesn't sound like it'll take him too long before he's ready to go. The expectation is that Tua Tagovailoa will begin the season as the starter while Penix gets fully healthy. The 26-year-old is likely still viewed as the future in Atlanta, but they need to make sure he's healthy first.",
+      "metadata": {
+        "description": "Atlanta Falcons quarterback Michael Penix Jr. (knee) is expected to eventually take over as the starter under center, according to Cameron Wolfe. Penix is still working his way back from a partially torn left ACL from last year. He was cleared to begin doing team drills as of last weekend. Wolfe mentions that he believes it's too soon for Penix to start in Week 1, but it doesn't sound like it'll take him too long before he's ready to go. The expectation is that Tua Tagovailoa will begin the season as the starter while Penix gets fully healthy. The 26-year-old is likely still viewed as the future in Atlanta, but they need to make sure he's healthy first.",
+        "title": "Falcons Plan to Eventually Start Michael Penix Jr.",
+        "topic_id": "1401058287608176640",
+        "url": "https://www.rotoballer.com/player-news/falcons-plan-to-eventually-start-michael-penix-jr/1922223"
+      },
+      "nfl_team": "ATL",
+      "player_id": "11559",
+      "player_name": "Michael Penix",
+      "position": "QB",
+      "published": 1788386050000,
+      "source": "rotoballer",
+      "source_key": "219977",
+      "story_id": "nfl|11559|rotoballer|219977|1788386050000",
+      "title": "Falcons Plan to Eventually Start Michael Penix Jr.",
+      "url": "https://www.rotoballer.com/player-news/falcons-plan-to-eventually-start-michael-penix-jr/1922223"
     },
     {
       "analysis": null,

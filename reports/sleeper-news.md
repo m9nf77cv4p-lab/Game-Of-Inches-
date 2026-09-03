@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1718**
-- Newly captured: **1**
+- Stored stories: **1720**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -45,9 +45,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - A 2023 third-round pick of Arizona, Wilson wasn't able to tap into his full potential until his third season in 2025, but once QB Jacoby Brissett took over the offense Week 6, the wide receiver was off and running thereafter, posting a 70-954-6 line on 108 targets over the final 12 contests. The run included three 100-yard receiving games and at least one touchdown grab in each of the final five weeks for Wilson. Entering the final year of his rookie contract, his situation is pending, and whether or not it gets decided before Week 1 or next offseason remains to be seen.
 - **Ja'Marr Chase** — Ja'Marr Chase - Doesn't practice Wednesday (2026-09-02T22:12:12Z)
   - Coach Zac Taylor told Ben Baby of ESPN.com on Tuesday that Chase would be limited this week, but he "feels good about" the wide receiver after he hyperextended his left knee while attempting to gather in a deep ball at practice early last week. Just one day later, though, Chase didn't mix into any drills, and fellow WR Tee Higgins joined him on the sideline due to his own heel injury. The statuses of the Bengals' top options at the position thus are up in the air as Week 1 approaches.
+- **NEW — KC Concepcion** — KC Concepcion Hopes to Carry Strong Summer into Regular Season (2026-09-02T22:06:10Z)
+  - Source: https://www.rotoballer.com/player-news/kc-concepcion-hopes-to-carry-strong-summer-into-regular-season/1922235
 - **Tee Higgins** — Tee Higgins - No practice Wednesday (2026-09-02T22:02:04Z)
   - On Tuesday, coach Zac Taylor relayed to Baby that Higgins was dealing with a bruised heel, but the issue wasn't a major concern. Having said that, Higgins didn't log any activity one day later, so his status, along with fellow DNP WR Ja'Marr Chase (knee), will be monitored closely as Week 1 inches closer. The Bengals take on the Buccaneers on Sunday, Sept. 13, meaning Higgins' first official practice reps of the campaign will be possible next Wednesday.
-- **NEW — Chris Godwin** — Buccaneers GM Speaks Highly of Chris Godwin Jr. (2026-09-02T21:42:10Z)
+- **NEW — Michael Penix** — Falcons Plan to Eventually Start Michael Penix Jr. (2026-09-02T21:54:10Z)
+  - Source: https://www.rotoballer.com/player-news/falcons-plan-to-eventually-start-michael-penix-jr/1922223
+- **Chris Godwin** — Buccaneers GM Speaks Highly of Chris Godwin Jr. (2026-09-02T21:42:10Z)
   - Source: https://www.rotoballer.com/player-news/buccaneers-gm-speaks-highly-of-chris-godwin-jr/1922212
 - **Bhayshul Tuten** — Jaguars Feel Bhayshul Tuten Can be a Complete No. 1 Running Back (2026-09-02T21:29:08Z)
   - Source: https://www.rotoballer.com/player-news/jaguars-feel-bhayshul-tuten-can-be-a-complete-no-1-running-back/1922202
@@ -210,7 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jonathon-brooks-off-to-the-side-again-on-wednesday/1921926
 - **Isaiah Likely** — Isaiah Likely Could Have a Breakout Season in First Year With Giants (2026-09-02T12:16:05Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-likely-could-have-a-breakout-season-in-first-year-with-giants/1921923
-- **Chuba Hubbard** — Chuba Hubbard Still in Line for Heavy Work (2026-09-02T12:14:09Z)
-  - Source: https://www.rotoballer.com/player-news/chuba-hubbard-still-in-line-for-heavy-work/1921920
-- **Bhayshul Tuten** — Bhayshul Tuten Sent Home Sick (2026-09-02T11:50:07Z)
-  - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-sent-home-sick/1921898
