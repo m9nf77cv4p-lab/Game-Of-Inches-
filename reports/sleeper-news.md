@@ -2,14 +2,19 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1770**
-- Newly captured: **3**
+- Stored stories: **1772**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Nico Collins** — Nico Collins - Depth chart uncertain behind him (2026-09-03T16:35:46Z)
+- **NEW — Michael Wilson** — Michael Wilson agrees to three year deal with Cardinals  (2026-09-03T16:55:07.772000Z)
+  - Wilson was about to be playing on the final year of his rookie contract, but will now see himself attached to the team for the long haul. It will be interesting to see how his role changes, if at all, under a new coaching stafff and with Marvin Harrison Jr. back in the fold.
+  - Source: https://www.fantasypros.com/nfl/news/605781/michael-wilson-agrees-to-three-year-deal-with-cardinals.php
+- **NEW — Trevor Lawrence** — Trevor Lawrence - Will be backed up by Ewers (2026-09-03T16:44:47Z)
+  - Ewers was retained on the 53-man roster after final cuts, while Nick Mullens was released during cut-down day, though Mullens subsequently signed with the practice squad. Lawrence remains locked in as the team's starting QB on the heels of a 2025 regular season in which he threw for 4,007 yards and a career-high 29 passing touchdowns. The first overall pick in the 2021 NFL Draft has exceeded 4,000 passing yards in three of his first five NFL seasons.
+- **Nico Collins** — Nico Collins - Depth chart uncertain behind him (2026-09-03T16:35:46Z)
   - Jayden Higgins had been set to start opposite Collins, but Higgins suffered a season-ending knee injury in practice, prompting the Texans to trade for Boutte from the Patriots. Dell has had the most success out of the options behind Collins, but the 2023 third-round pick hasn't suited up since the 2024 season and will miss at least the first four games of 2026. Collins has exceeded 1,000 regular-season receiving yards while scoring at least seven total touchdowns in each of the past three campaigns.
-- **NEW — Zay Flowers** — Zay Flowers - Returns to practice Thursday (2026-09-03T16:28:52Z)
+- **Zay Flowers** — Zay Flowers - Returns to practice Thursday (2026-09-03T16:28:52Z)
   - Flowers has been in and out of practice seemingly all summer, but he's always been eyeing Week 1 as his target date to be 100 percent, and his return to practice this week puts him on track for the opener in 10 days. The wide receiver inked a big extension with Baltimore during the offseason and is returning as Lamar Jackson's undisputed No. 1 pass-catching option.
 - **David Montgomery** — David Montgomery - Tops RB depth chart over Marks and Brooks (2026-09-03T16:12:20Z)
   - Montgomery is ticketed for a prominent role after coming over from Detroit in an offseason trade, but it remains to be seen just how much Marks cuts into Montgomery's usage. The 230-pound Montgomery is much better-suited for running inside and short-yardage work than the 208-pound Marks, but Montgomery recorded only 76 receptions across the past three regular seasons in Detroit, so the shifty Marks could siphon away opportunities in passing situations.
@@ -60,7 +65,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.
 - **Michael Penix** — Michael Penix - Will start 'eventually,' if not Week 1 (2026-09-03T13:23:16Z)
   - Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.
-- **NEW — Zay Flowers** — Zay Flowers Dressed for Thursday's Practice (2026-09-03T12:34:07Z)
+- **Zay Flowers** — Zay Flowers Dressed for Thursday's Practice (2026-09-03T12:34:07Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-dressed-for-thursdays-practice/1922584
 - **Malik Willis** — Malik Willis' Passing Progress Raises His Fantasy Ceiling (2026-09-03T12:24:10Z)
   - Source: https://www.rotoballer.com/player-news/malik-willis-passing-progress-raises-his-fantasy-ceiling/1922565
@@ -210,7 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Vikings GM Nolan Teasley said Wednesday that he also expects McCarthy to remain with the team this season, whether it's as Kyler Murray's direct backup or the QB3 behind Carson Wentz. Coach Kevin O'Connell seems to want more time with the 2024 first-rounder in an effort to continue to develop the 23-year-old. Across two preseason games this summer, McCarthy completed nine of 17 passes for 115 yards.
 - **Isaac TeSlaa** — Isaac TeSlaa - Disappoints during second training camp (2026-09-02T17:48:23Z)
   - TeSlaa operated primarily as the Lions' No. 4 receiver during his 2025 rookie campaign, appearing in all 17 games and finishing with a 16-239-6 receiving line on 27 targets. Even on the limited volume of targets, the 6-foot-4, 214-pound wideout made a number of highlight-reel grabs during his first NFL season, but he hasn't shown the same ability to win on contested balls during his second training camp. He also made a couple of critical blunders in the Lions' preseason-opening loss to the Bengals, dropping a pass that led to an interception and failing to reel in another catchable target on a fourth-down pass. Montgomery noted that getting more exposure to facing No. 1 cornerbacks in both camp and the preseason has likely played a part in TeSlaa's lack of output, but the Lions apparently saw enough growth from him beyond his box-score contributions to hand him the No. 3 job and are keeping just four total receivers on the 53-man roster heading into Week 1. TeSlaa will still face a difficult path to fantasy relevance as the fifth option in the Detroit passing game when all of Amon-Ra St. Brown, Jameson Williams, Jahmyr Gibbs and Sam LaPorta (hip) are available.
-- **Rashod Bateman** — Ravens Unclear When NFL Will End Its Investigation of Rashod Bateman (2026-09-02T17:37:07Z)
-  - Source: https://www.rotoballer.com/player-news/ravens-unclear-when-nfl-will-end-its-investigation-of-rashod-bateman/1922130
-- **Zay Flowers** — Zay Flowers - Runs on side Wednesday (2026-09-02T17:29:47Z)
-  - Flowers has been held out of practice since last week with what is believed to be a minor lower-body issue, but it's a positive sign that he received clearance to run. It was reported Tuesday that Flowers will practice fully next week and suit up for Week 1, and he appears to be on track to do so.

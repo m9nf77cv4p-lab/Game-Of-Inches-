@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-03T16:46:21Z",
+  "last_checked_at": "2026-09-03T16:57:07Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|7569|rotowire|636158|1788453346000",
-    "nfl|9997|rotoballer|220011|1788438847000",
-    "nfl|9997|rotowire|636157|1788452932000"
+    "nfl|10232|fantasy_pros|605781|1788454507772",
+    "nfl|7523|rotowire|636159|1788453887000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Wilson was about to be playing on the final year of his rookie contract, but will now see himself attached to the team for the long haul. It will be interesting to see how his role changes, if at all, under a new coaching stafff and with Marvin Harrison Jr. back in the fold.",
+      "description": "Michael Wilson has agreed to a three year deal with the Arizona Cardinals. He is expected to sign the deal later today.",
+      "metadata": {
+        "analysis": "Wilson was about to be playing on the final year of his rookie contract, but will now see himself attached to the team for the long haul. It will be interesting to see how his role changes, if at all, under a new coaching stafff and with Marvin Harrison Jr. back in the fold.",
+        "description": "Michael Wilson has agreed to a three year deal with the Arizona Cardinals. He is expected to sign the deal later today.",
+        "title": "Michael Wilson agrees to three year deal with Cardinals ",
+        "topic_id": "1401283405521358848",
+        "url": "https://www.fantasypros.com/nfl/news/605781/michael-wilson-agrees-to-three-year-deal-with-cardinals.php"
+      },
+      "nfl_team": "ARI",
+      "player_id": "10232",
+      "player_name": "Michael Wilson",
+      "position": "WR",
+      "published": 1788454507772,
+      "source": "fantasy_pros",
+      "source_key": "605781",
+      "story_id": "nfl|10232|fantasy_pros|605781|1788454507772",
+      "title": "Michael Wilson agrees to three year deal with Cardinals ",
+      "url": "https://www.fantasypros.com/nfl/news/605781/michael-wilson-agrees-to-three-year-deal-with-cardinals.php"
+    },
+    {
+      "analysis": "Ewers was retained on the 53-man roster after final cuts, while Nick Mullens was released during cut-down day, though Mullens subsequently signed with the practice squad. Lawrence remains locked in as the team's starting QB on the heels of a 2025 regular season in which he threw for 4,007 yards and a career-high 29 passing touchdowns. The first overall pick in the 2021 NFL Draft has exceeded 4,000 passing yards in three of his first five NFL seasons.",
+      "description": "Lawrence will have a new backup in 2026, as Ian Rapoport of NFL Network reports that the Jaguars traded for Quinn Ewers from the Dolphins on Saturday.",
+      "metadata": {
+        "analysis": "Ewers was retained on the 53-man roster after final cuts, while Nick Mullens was released during cut-down day, though Mullens subsequently signed with the practice squad. Lawrence remains locked in as the team's starting QB on the heels of a 2025 regular season in which he threw for 4,007 yards and a career-high 29 passing touchdowns. The first overall pick in the 2021 NFL Draft has exceeded 4,000 passing yards in three of his first five NFL seasons.",
+        "description": "Lawrence will have a new backup in 2026, as Ian Rapoport of NFL Network reports that the Jaguars traded for Quinn Ewers from the Dolphins on Saturday.",
+        "title": "Trevor Lawrence - Will be backed up by Ewers",
+        "topic_id": "1401282143442747392"
+      },
+      "nfl_team": "JAX",
+      "player_id": "7523",
+      "player_name": "Trevor Lawrence",
+      "position": "QB",
+      "published": 1788453887000,
+      "source": "rotowire",
+      "source_key": "636159",
+      "story_id": "nfl|7523|rotowire|636159|1788453887000",
+      "title": "Trevor Lawrence - Will be backed up by Ewers",
+      "url": null
+    },
     {
       "analysis": "Jayden Higgins had been set to start opposite Collins, but Higgins suffered a season-ending knee injury in practice, prompting the Texans to trade for Boutte from the Patriots. Dell has had the most success out of the options behind Collins, but the 2023 third-round pick hasn't suited up since the 2024 season and will miss at least the first four games of 2026. Collins has exceeded 1,000 regular-season receiving yards while scoring at least seven total touchdowns in each of the past three campaigns.",
       "description": "Collins is the clear No. 1 wide receiver for the Texans heading into the regular season, but the pecking order at the position behind him is uncertain, as Xavier Hutchinson, Jaylin Noel (hamstring), Kayshon Boutte and Jared Wayne are vying for roles, while Jonathan M. Alexander of the Houston Chronicle reports that Tank Dell (knee) will begin the season on IR with a designation to return.",
