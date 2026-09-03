@@ -1,13 +1,14 @@
 {
-  "last_checked_at": "2026-09-03T20:08:23Z",
+  "last_checked_at": "2026-09-03T20:23:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11635|rotoballer|220031|1788451212000",
-    "nfl|12517|rotowire|636190|1788465058000",
-    "nfl|7021|rotoballer|220032|1788451146000",
-    "nfl|9511|rotoballer|220029|1788450606000",
-    "nfl|9756|rotoballer|220030|1788450307000"
+    "nfl|12529|fantasy_pros|605824|1788466808899",
+    "nfl|8142|fantasy_pros|605823|1788466808912",
+    "nfl|8144|rotoballer|220033|1788451753000",
+    "nfl|8155|rotowire|636191|1788465964000",
+    "nfl|8228|rotoballer|220034|1788451689000",
+    "nfl|9488|rotoballer|220035|1788451570000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +18,68 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Pierce was limited in practice earlier this week, and this is the next big step for the newly anointed WR1 for the Colts on the road to full recovery and return to play. He will operate as the Colts primary deep threat this season when on the field, opening things up for Josh Downs and Tyler Warren over the middle and short areas.",
+      "description": "Alec Pierce (ankle) practiced in full for the first time this year after a lengthy time off the field while recovering from ankle injuries.",
+      "metadata": {
+        "analysis": "Pierce was limited in practice earlier this week, and this is the next big step for the newly anointed WR1 for the Colts on the road to full recovery and return to play. He will operate as the Colts primary deep threat this season when on the field, opening things up for Josh Downs and Tyler Warren over the middle and short areas.",
+        "description": "Alec Pierce (ankle) practiced in full for the first time this year after a lengthy time off the field while recovering from ankle injuries.",
+        "title": "Alec Pierce (ankle) practices in full on Thursday ",
+        "topic_id": "1401335000250462208",
+        "url": "https://www.fantasypros.com/nfl/news/605823/alec-pierce-ankle-practices-full-on-thursday.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1788466808912,
+      "source": "fantasy_pros",
+      "source_key": "605823",
+      "story_id": "nfl|8142|fantasy_pros|605823|1788466808912",
+      "title": "Alec Pierce (ankle) practices in full on Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/605823/alec-pierce-ankle-practices-full-on-thursday.php"
+    },
+    {
+      "analysis": "Henderson has not practiced since August 24 when he sustained the injury. His status is up in the air for the season opener next Wednesday. ",
+      "description": "TreVeyon Henderson was not present for the media-access portion of practice on Thursday. ",
+      "metadata": {
+        "analysis": "Henderson has not practiced since August 24 when he sustained the injury. His status is up in the air for the season opener next Wednesday. ",
+        "description": "TreVeyon Henderson was not present for the media-access portion of practice on Thursday. ",
+        "title": "TreVeyon Henderson (ankle) still not practicing Thursday ",
+        "topic_id": "1401335000200130560",
+        "url": "https://www.fantasypros.com/nfl/news/605824/treveyon-henderson-ankle-still-not-practicing-thursday.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788466808899,
+      "source": "fantasy_pros",
+      "source_key": "605824",
+      "story_id": "nfl|12529|fantasy_pros|605824|1788466808899",
+      "title": "TreVeyon Henderson (ankle) still not practicing Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/605824/treveyon-henderson-ankle-still-not-practicing-thursday.php"
+    },
+    {
+      "analysis": "Hall is still nursing the groin injury he suffered 17 days ago, but he was originally given a return timetable of 2-to-3 weeks and was spotted running without any noticeable issues on a side field last week. Barring any setbacks, it sounds like Hall should be fine for the season opener. Whether he sees his normal workload is another question, as Braelon Allen has looked the part in practice and during limited preseason action, where he rushed seven times for 48 yards (6.9 YPC) and one touchdown.",
+      "description": "Hall (groin) is expected to be ready for Week 1 against the Titans on Sunday, Sept. 13, Jack Bell of the Jets' official site reports.",
+      "metadata": {
+        "analysis": "Hall is still nursing the groin injury he suffered 17 days ago, but he was originally given a return timetable of 2-to-3 weeks and was spotted running without any noticeable issues on a side field last week. Barring any setbacks, it sounds like Hall should be fine for the season opener. Whether he sees his normal workload is another question, as Braelon Allen has looked the part in practice and during limited preseason action, where he rushed seven times for 48 yards (6.9 YPC) and one touchdown.",
+        "description": "Hall (groin) is expected to be ready for Week 1 against the Titans on Sunday, Sept. 13, Jack Bell of the Jets' official site reports.",
+        "title": "Breece Hall - Expected back for Week 1",
+        "topic_id": "1401332479654113280"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8155",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "published": 1788465964000,
+      "source": "rotowire",
+      "source_key": "636191",
+      "story_id": "nfl|8155|rotowire|636191|1788465964000",
+      "title": "Breece Hall - Expected back for Week 1",
+      "url": null
+    },
     {
       "analysis": "The 10th overall pick in the 2025 Draft, Loveland had a slow start to his rookie season, coming out of Week 8 with 11 catches total on the campaign and one DNP due to a hip injury. From Week 9 through the Bears' divisional-round loss to the Rams, though, he ran roughshod over opposing defenses, hauling in 59 of 89 targets for 790 yards and six touchdowns in 12 games. Loveland capped that stretch with four consecutive contests with double-digit targets, indicating he left off last season as QB Caleb Williams' top option in the passing game. While Loveland still has to contend with WRs Rome Odunze and Luther Burden (groin) for the attention of Williams, the tight end is poised to make a leap to the NFL's best at the position.",
       "description": "Loveland is listed as a starting tight end along with Cole Kmet on the Bears' unofficial depth chart.",
@@ -677,6 +740,66 @@
       "story_id": "nfl|5892|rotowire|636156|1788451940000",
       "title": "David Montgomery - Tops RB depth chart over Marks and Brooks",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "After an injury-marred 2024 campaign, New Orleans Saints wide receiver Chris Olave re-emerged as a high-end pass-catcher in 2025. Across 16 games, the 26-year-old recorded 100 catches for 1,163 receiving yards and nine touchdowns on 156 targets. Olave finished the season on an absolute tear while playing alongside then-rookie quarterback Tyler Shough, recording 24 catches for 352 yards and four touchdowns across his final three games played. Entering 2026, Olave and Shough look well-positioned to continue building on the chemistry they formed at the end of last season. With Saints rookie wideout Jordyn Tyson (hamstring) starting the year on Injured Reserve, Olave also appears poised to dominate target share in New Orleans, at least early on. Particularly in PPR-scoring formats, Olave carries top-12 fantasy wide receiver upside into 2026.",
+      "metadata": {
+        "description": "After an injury-marred 2024 campaign, New Orleans Saints wide receiver Chris Olave re-emerged as a high-end pass-catcher in 2025. Across 16 games, the 26-year-old recorded 100 catches for 1,163 receiving yards and nine touchdowns on 156 targets. Olave finished the season on an absolute tear while playing alongside then-rookie quarterback Tyler Shough, recording 24 catches for 352 yards and four touchdowns across his final three games played. Entering 2026, Olave and Shough look well-positioned to continue building on the chemistry they formed at the end of last season. With Saints rookie wideout Jordyn Tyson (hamstring) starting the year on Injured Reserve, Olave also appears poised to dominate target share in New Orleans, at least early on. Particularly in PPR-scoring formats, Olave carries top-12 fantasy wide receiver upside into 2026.",
+        "title": "Chris Olave Has a Clear Path to Massive Early-Season Target Share",
+        "topic_id": "1401333734183067648",
+        "url": "https://www.rotoballer.com/player-news/chris-olave-has-a-clear-path-to-massive-early-season-target-share-in-new-orleans/1922735"
+      },
+      "nfl_team": "NO",
+      "player_id": "8144",
+      "player_name": "Chris Olave",
+      "position": "WR",
+      "published": 1788451753000,
+      "source": "rotoballer",
+      "source_key": "220033",
+      "story_id": "nfl|8144|rotoballer|220033|1788451753000",
+      "title": "Chris Olave Has a Clear Path to Massive Early-Season Target Share",
+      "url": "https://www.rotoballer.com/player-news/chris-olave-has-a-clear-path-to-massive-early-season-target-share-in-new-orleans/1922735"
+    },
+    {
+      "analysis": null,
+      "description": "ESPN's Dan Graziano believes that Pittsburgh Steelers running back Jaylen Warren will still have a \"significant\" backfield role in 2026 after the team signed Rico Dowdle to a two-year, $12.25 million deal in free agency. New head coach Mike McCarthy will not be shy about giving Dowdle most of the early-down carries, but Graziano reminds us that Warren caught 61 passes on 74 targets in his second year in the league in Pittsburgh in 2023. His 61 receptions that year are 22 more than Dowdle has ever had in a season, and last year's pass-catching back in the Steel City, Kenny Gainwell, broke out with 73 catches. Veteran quarterback Aaron Rodgers is going to want to check the ball down some more to avoid sacks, and the recipient of those check-downs will be Warren in 2026. In his four-year NFL career, the 27-year-old Warren has 167 catches on 199 targets for 1,227 yards (7.3 yards per catch) and two touchdowns (both in 2025). He will be the team's primary pass-catching outlet, which will make him a PPR sleeper as an RB3/flex as he shares the backfield with Dowdle.",
+      "metadata": {
+        "description": "ESPN's Dan Graziano believes that Pittsburgh Steelers running back Jaylen Warren will still have a \"significant\" backfield role in 2026 after the team signed Rico Dowdle to a two-year, $12.25 million deal in free agency. New head coach Mike McCarthy will not be shy about giving Dowdle most of the early-down carries, but Graziano reminds us that Warren caught 61 passes on 74 targets in his second year in the league in Pittsburgh in 2023. His 61 receptions that year are 22 more than Dowdle has ever had in a season, and last year's pass-catching back in the Steel City, Kenny Gainwell, broke out with 73 catches. Veteran quarterback Aaron Rodgers is going to want to check the ball down some more to avoid sacks, and the recipient of those check-downs will be Warren in 2026. In his four-year NFL career, the 27-year-old Warren has 167 catches on 199 targets for 1,227 yards (7.3 yards per catch) and two touchdowns (both in 2025). He will be the team's primary pass-catching outlet, which will make him a PPR sleeper as an RB3/flex as he shares the backfield with Dowdle.",
+        "title": "Jaylen Warren Should Still Have Significant Role in Pittsburgh",
+        "topic_id": "1401333734166290432",
+        "url": "https://www.rotoballer.com/player-news/jaylen-warren-should-still-have-significant-role-in-pittsburgh/1922733"
+      },
+      "nfl_team": "PIT",
+      "player_id": "8228",
+      "player_name": "Jaylen Warren",
+      "position": "RB",
+      "published": 1788451689000,
+      "source": "rotoballer",
+      "source_key": "220034",
+      "story_id": "nfl|8228|rotoballer|220034|1788451689000",
+      "title": "Jaylen Warren Should Still Have Significant Role in Pittsburgh",
+      "url": "https://www.rotoballer.com/player-news/jaylen-warren-should-still-have-significant-role-in-pittsburgh/1922733"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Jaxon Smith-Njigba was a league-winner across all formats in the 2025 season. The former Ohio State standout smashed his ADP, finishing as the overall WR2, joining Puka Nacua as the only players at his position to average more than 20.0 PPR points per game. He would catch 119 of his 163 targets (fourth-most in football) for 1,793 yards and 10 touchdowns. During the regular season, he would only fall below double-digit PPR points in one game (Week 13) and would eclipse the 25.0 PPR point mark in five contests. On Wednesday night, Smith-Njigba and the reigning Super Bowl champions will host the New England Patriots, whom they faced in last February's season finale. In this contest, Smith-Njigba was relatively quiet, catching only four of his 10 targets for a mere 27 yards. However, despite the modest effort, Smith-Njigba enters the 2026 season as the clear alpha of this WR room and should draw a massive target share against this New England defense. Smith-Njigba carries elite upside at his position, even though his matchup on paper is a bit tough, facing a New England secondary that allowed the ninth-fewest passing yards last season. He profiles as the definition of a must-start in all season-long formats and is a top play in all DFS single-game showdown competitions.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Jaxon Smith-Njigba was a league-winner across all formats in the 2025 season. The former Ohio State standout smashed his ADP, finishing as the overall WR2, joining Puka Nacua as the only players at his position to average more than 20.0 PPR points per game. He would catch 119 of his 163 targets (fourth-most in football) for 1,793 yards and 10 touchdowns. During the regular season, he would only fall below double-digit PPR points in one game (Week 13) and would eclipse the 25.0 PPR point mark in five contests. On Wednesday night, Smith-Njigba and the reigning Super Bowl champions will host the New England Patriots, whom they faced in last February's season finale. In this contest, Smith-Njigba was relatively quiet, catching only four of his 10 targets for a mere 27 yards. However, despite the modest effort, Smith-Njigba enters the 2026 season as the clear alpha of this WR room and should draw a massive target share against this New England defense. Smith-Njigba carries elite upside at his position, even though his matchup on paper is a bit tough, facing a New England secondary that allowed the ninth-fewest passing yards last season. He profiles as the definition of a must-start in all season-long formats and is a top play in all DFS single-game showdown competitions.",
+        "title": "Jaxon Smith-Njigba Primed to Begin WR1 Campaign on Wednesday Night",
+        "topic_id": "1401333734216622080",
+        "url": "https://www.rotoballer.com/player-news/jaxon-smith-njigba-primed-to-begin-wr1-campaign-on-wednesday-night/1922731"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9488",
+      "player_name": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "published": 1788451570000,
+      "source": "rotoballer",
+      "source_key": "220035",
+      "story_id": "nfl|9488|rotoballer|220035|1788451570000",
+      "title": "Jaxon Smith-Njigba Primed to Begin WR1 Campaign on Wednesday Night",
+      "url": "https://www.rotoballer.com/player-news/jaxon-smith-njigba-primed-to-begin-wr1-campaign-on-wednesday-night/1922731"
     },
     {
       "analysis": "The Texans traded for Boutte from New England after Jayden Higgins tore his ACL, knocking the 2025 second-round pick out for the season. Boutte's 551 receiving yards for the Patriots in the 2025 regular season would have ranked second among Houston's wideouts behind Collins. Hutchinson had a career-high 428 receiving yards during the 2025 regular season, Noel has some intriguing upside as a 2025 third-round pick, and Houston is hoping to get Dell back eventually from the knee injury that sidelined him for the entire 2025 season. Stroud is looking to bounce back after a 2025 campaign in which he threw for career lows in both passing yards (3,041) and touchdown passes (19) during the regular season before coughing up seven turnovers in two playoff games.",

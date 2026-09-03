@@ -2,12 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1819**
-- Newly captured: **5**
+- Stored stories: **1825**
+- Newly captured: **6**
 
 ## Latest news
 
-- **NEW — Colston Loveland** — Colston Loveland - Listed as starter on depth chart (2026-09-03T19:50:58Z)
+- **NEW — Alec Pierce** — Alec Pierce (ankle) practices in full on Thursday  (2026-09-03T20:20:08.912000Z)
+  - Pierce was limited in practice earlier this week, and this is the next big step for the newly anointed WR1 for the Colts on the road to full recovery and return to play. He will operate as the Colts primary deep threat this season when on the field, opening things up for Josh Downs and Tyler Warren over the middle and short areas.
+  - Source: https://www.fantasypros.com/nfl/news/605823/alec-pierce-ankle-practices-full-on-thursday.php
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson (ankle) still not practicing Thursday  (2026-09-03T20:20:08.899000Z)
+  - Henderson has not practiced since August 24 when he sustained the injury. His status is up in the air for the season opener next Wednesday. 
+  - Source: https://www.fantasypros.com/nfl/news/605824/treveyon-henderson-ankle-still-not-practicing-thursday.php
+- **NEW — Breece Hall** — Breece Hall - Expected back for Week 1 (2026-09-03T20:06:04Z)
+  - Hall is still nursing the groin injury he suffered 17 days ago, but he was originally given a return timetable of 2-to-3 weeks and was spotted running without any noticeable issues on a side field last week. Barring any setbacks, it sounds like Hall should be fine for the season opener. Whether he sees his normal workload is another question, as Braelon Allen has looked the part in practice and during limited preseason action, where he rushed seven times for 48 yards (6.9 YPC) and one touchdown.
+- **Colston Loveland** — Colston Loveland - Listed as starter on depth chart (2026-09-03T19:50:58Z)
   - The 10th overall pick in the 2025 Draft, Loveland had a slow start to his rookie season, coming out of Week 8 with 11 catches total on the campaign and one DNP due to a hip injury. From Week 9 through the Bears' divisional-round loss to the Rams, though, he ran roughshod over opposing defenses, hauling in 59 of 89 targets for 790 yards and six touchdowns in 12 games. Loveland capped that stretch with four consecutive contests with double-digit targets, indicating he left off last season as QB Caleb Williams' top option in the passing game. While Loveland still has to contend with WRs Rome Odunze and Luther Burden (groin) for the attention of Williams, the tight end is poised to make a leap to the NFL's best at the position.
 - **De'Von Achane** — De'Von Achane - Set to lead Miami's new-look offense (2026-09-03T19:39:10Z)
   - The Dolphins traded for Jarquez Hunter shortly before cutdown day, but he ultimately didn't make the 53-man roster, though Hunter remains in the organization as part of the practice squad. Fullback D.J. Herman is also listed as a running back, but the team's backfield is otherwise unchanged from 2025, when Achane produced a career-high 1,838 scrimmage yards. The team around Achane went through an offseason overhaul, including the addition of mobile QB Malik Willis, but Achane projects to maintain a prominent role as the centerpiece of an otherwise unproven offense.
@@ -74,19 +82,25 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Flowers has been in and out of practice seemingly all summer, but he's always been eyeing Week 1 as his target date to be 100 percent, and his return to practice this week puts him on track for the opener in 10 days. The wide receiver inked a big extension with Baltimore during the offseason and is returning as Lamar Jackson's undisputed No. 1 pass-catching option.
 - **David Montgomery** — David Montgomery - Tops RB depth chart over Marks and Brooks (2026-09-03T16:12:20Z)
   - Montgomery is ticketed for a prominent role after coming over from Detroit in an offseason trade, but it remains to be seen just how much Marks cuts into Montgomery's usage. The 230-pound Montgomery is much better-suited for running inside and short-yardage work than the 208-pound Marks, but Montgomery recorded only 76 receptions across the past three regular seasons in Detroit, so the shifty Marks could siphon away opportunities in passing situations.
+- **NEW — Chris Olave** — Chris Olave Has a Clear Path to Massive Early-Season Target Share (2026-09-03T16:09:13Z)
+  - Source: https://www.rotoballer.com/player-news/chris-olave-has-a-clear-path-to-massive-early-season-target-share-in-new-orleans/1922735
+- **NEW — Jaylen Warren** — Jaylen Warren Should Still Have Significant Role in Pittsburgh (2026-09-03T16:08:09Z)
+  - Source: https://www.rotoballer.com/player-news/jaylen-warren-should-still-have-significant-role-in-pittsburgh/1922733
+- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba Primed to Begin WR1 Campaign on Wednesday Night (2026-09-03T16:06:10Z)
+  - Source: https://www.rotoballer.com/player-news/jaxon-smith-njigba-primed-to-begin-wr1-campaign-on-wednesday-night/1922731
 - **C.J. Stroud** — C.J. Stroud - Injuries and trade reshape WR room (2026-09-03T16:01:13Z)
   - The Texans traded for Boutte from New England after Jayden Higgins tore his ACL, knocking the 2025 second-round pick out for the season. Boutte's 551 receiving yards for the Patriots in the 2025 regular season would have ranked second among Houston's wideouts behind Collins. Hutchinson had a career-high 428 receiving yards during the 2025 regular season, Noel has some intriguing upside as a 2025 third-round pick, and Houston is hoping to get Dell back eventually from the knee injury that sidelined him for the entire 2025 season. Stroud is looking to bounce back after a 2025 campaign in which he threw for career lows in both passing yards (3,041) and touchdown passes (19) during the regular season before coughing up seven turnovers in two playoff games.
-- **NEW — Ladd McConkey** — Ladd McConkey Has More Working in His Favor This Year (2026-09-03T16:00:12Z)
+- **Ladd McConkey** — Ladd McConkey Has More Working in His Favor This Year (2026-09-03T16:00:12Z)
   - Source: https://www.rotoballer.com/player-news/ladd-mcconkey-has-more-working-in-his-favor-this-year/1922729
-- **NEW — Rico Dowdle** — Rico Dowdle More Likely for Early-Down Work in Pittsburgh (2026-09-03T15:59:06Z)
+- **Rico Dowdle** — Rico Dowdle More Likely for Early-Down Work in Pittsburgh (2026-09-03T15:59:06Z)
   - Source: https://www.rotoballer.com/player-news/rico-dowdle-more-likely-for-early-down-work-in-pittsburgh/1922727
 - **Kyler Murray** — Kyler Murray - Plays six preseason snaps (2026-09-03T15:58:16Z)
   - After completing two of his three pass attempts for 10 yards against the Giants in the preseason opener, Murray took a seat and parked it for the remainder of the exhibition season. Coach Kevin O'Connell settled on Murray as the Vikings' starter before training camp, and he's expected to have a long leash under center this season after J.J. McCarthy continued to look overmatched throughout the 2025 campaign. Murray has big upside in this quarterback-friendly scheme and has arguably the best supporting cast of his career. He's an ideal late-round fantasy target at quarterback.
 - **Joe Burrow** — Joe Burrow - Optimistic heading into 2026 (2026-09-03T15:51:14Z)
   - "We're going to have a really good team that has a chance to win every game that we step foot on the field for," Burrow said. "We brought in a lot of the right guys, a lot of the right people with the right mindsets to go and chase this goal of winning a Super Bowl." Cincinnati's offseason additions focused primarily on fixing a defense that allowed 28.9 points per game during the 2025 regular season, which was third-most in the NFL. Burrow and the offense are poised for another productive campaign if the star QB can stay healthy after being limited to eight appearances last season due to a toe injury. Starting wide receivers Chase and Tee Higgins (heel), as well as running back Chase Brown, are all reprising their roles alongside Burrow to provide continuity on offense.
-- **NEW — Keaton Mitchell** — Keaton Mitchell Missing Another Practice (2026-09-03T15:50:06Z)
+- **Keaton Mitchell** — Keaton Mitchell Missing Another Practice (2026-09-03T15:50:06Z)
   - Source: https://www.rotoballer.com/player-news/keaton-mitchell-missing-another-practice/1922725
-- **NEW — Jordan Addison** — Jordan Addison's Outlook Improves With More Stability at Quarterback (2026-09-03T15:45:07Z)
+- **Jordan Addison** — Jordan Addison's Outlook Improves With More Stability at Quarterback (2026-09-03T15:45:07Z)
   - Source: https://www.rotoballer.com/player-news/jordan-addisons-outlook-improves-with-more-stability-at-quarterback/1922723
 - **Anthony Richardson** — Anthony Richardson Sr. will be backup QB for Colts (2026-09-03T15:45:06.712000Z)
   - There have been multiple rumors that Richardson might be traded at some point. Some reports have suggested that he may lose out to Riley Leonard for the Colts' backup QB role. Head coach Shane Steichen has put all that to rest, at least for now, making clear Tuesday that Richardson is indeed the top backup to starter Daniel Jones. 
@@ -197,15 +211,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/aaron-jones-sr-could-land-in-smaller-role/1922395
 - **Travis Kelce** — Travis Kelce Looks Strong in Training Camp (2026-09-03T09:27:10Z)
   - Source: https://www.rotoballer.com/player-news/travis-kelce-looks-strong-in-training-camp/1922380
-- **Matthew Golden** — Matthew Golden Brings Breakout Potential in Expanded Role (2026-09-03T09:13:05Z)
-  - Source: https://www.rotoballer.com/player-news/matthew-golden-brings-breakout-potential-in-expanded-role/1922368
-- **Rhamondre Stevenson** — Rhamondre Stevenson Gaining Steam as the No. 1 RB for Patriots (2026-09-03T01:17:09Z)
-  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-gaining-steam-as-the-no-1-rb-for-patriots/1922305
-- **Davante Adams** — Davante Adams - Logs no preseason action (2026-09-03T01:04:50Z)
-  - After logging at least 1,000 receiving yards six times in seven seasons between 2018 and 2024, Adams put together just 789 such yards in his age-33 campaign last year over 14 regular-season games, though he did miss three contest due to a hamstring injury. He salvaged his season with an NFL-leading 14 touchdown catches, displaying an incredible rapport with QB Matthew Stafford. With the Rams' top WR, Puka Nacua, still tending to psoas soreness a week before the team's Week 1 matchup with the 49ers next Thursday, Sept. 10, Adams effectively could be Stafford's No. 1 target out of the gate if Nacua isn't 100 percent.
-- **Ryan Flournoy** — Ryan Flournoy - Locked in as WR3 (2026-09-03T01:04:21Z)
-  - Lamb, Pickens and tight end Jake Ferguson each saw 100-plus targets from Dak Prescott last season, and each of those three pass catchers should see a similar workload in 2026. Flournoy, a sixth-round selection of the Cowboys in the 2024 NFL Draft, saw his offensive production jump in his sophomore campaign, finishing with 40 catches (on 56 targets) for 475 yards and four touchdowns across 16 regular-season games. The Cowboys' offense ranked second in the NFL last season in passing yards per game, and Flournoy would be in line for a bigger workload if one of Lamb, Pickens or Ferguson were to miss time. One of Flournoy's best performances in 2025 was in Week 5 against the Jets, when he caught six passes (on nine targets) for 114 yards in a game that Lamb didn't play in due to an ankle injury.
-- **Jordan Mason** — Jordan Mason - Co-starting RB with Jones (2026-09-03T00:53:36Z)
-  - The 49ers dealt Mason to Minnesota in March 2025, and the pairing of him and Jones meant a split backfield last season, with the former getting 173 touches to the latter's 160 along the way. Jones did play in four fewer games than Mason (12 vs. 16), but Mason handled far more goal-line carries (29 vs. 14), finishing with six TDs to Jones' three. A similar breakdown of work is expected for the duo in 2026, meaning Mason may have the safer fantasy floor of the two.
-- **Jake Ferguson** — Jake Ferguson - Doesn't play in preseason (2026-09-03T00:50:44Z)
-  - Ferguson, George Pickens, CeeDee Lamb and Dak Prescott were all sidelined for the entire preseason, ensuring that they will all be available for Week 1 against the Giants on Sunday, Sept. 13. Ferguson is coming offf a career year, finishing the 2025 regular season with 82 catches (on 102 targets) for 600 yards and eight touchdowns across 17 games. Even with Lamb and Pickens both commanding 100-plus targets last year, Ferguson's reliability in the passing game has made him a go-to option for Prescott in the passing game. Ferguson will operate as the Cowboys' top pass-catching tight end this season, with Brevyn Spann-Ford and Luke Schoonmaker providing depth at the position.
