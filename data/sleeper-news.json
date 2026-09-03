@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-03T14:33:58Z",
+  "last_checked_at": "2026-09-03T14:48:37Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11370|rotowire|636139|1788445379000",
-    "nfl|8131|rotowire|636138|1788445229000",
-    "nfl|9756|rotowire|636140|1788445409000"
+    "nfl|8121|rotoballer|219998|1788431288000"
   ],
   "schema_version": 1,
   "source": {
@@ -154,6 +152,26 @@
       "story_id": "nfl|11559|rotowire|636134|1788441796000",
       "title": "Michael Penix - Will start 'eventually,' if not Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver Romeo Doubs is set for a No. 2 receiver role in New England behind A.J. Brown following the trade of Kayshon Boutte to the Houston Texans. Doubs is joining New England from the Green Bay Packers where he averaged 10.3 points per game in PPR leagues and finished with a career high 13.2 yards per reception. All in all he had 85 targets and 55 receptions for 724 yards and six touchdowns. Look for Doubs to carry some value in New England's offense with his big-play ability opposite Brown on the outside with Drake Maye targeting him in the pass game. With the trade of Boutte, Doubs sees his value increase and he should be a nice value pick in fantasy leagues. Draft him with confidence in what looks to be a good offense in New England with a big opportunity.",
+      "metadata": {
+        "description": "New England Patriots wide receiver Romeo Doubs is set for a No. 2 receiver role in New England behind A.J. Brown following the trade of Kayshon Boutte to the Houston Texans. Doubs is joining New England from the Green Bay Packers where he averaged 10.3 points per game in PPR leagues and finished with a career high 13.2 yards per reception. All in all he had 85 targets and 55 receptions for 724 yards and six touchdowns. Look for Doubs to carry some value in New England's offense with his big-play ability opposite Brown on the outside with Drake Maye targeting him in the pass game. With the trade of Boutte, Doubs sees his value increase and he should be a nice value pick in fantasy leagues. Draft him with confidence in what looks to be a good offense in New England with a big opportunity.",
+        "title": "Romeo Doubs Set To Be No. 2 Receiver in New England",
+        "topic_id": "1401248313562365952",
+        "url": "https://www.rotoballer.com/player-news/romeo-doubs-set-to-be-no-2-receiver-in-new-england/1922439"
+      },
+      "nfl_team": "NE",
+      "player_id": "8121",
+      "player_name": "Romeo Doubs",
+      "position": "WR",
+      "published": 1788431288000,
+      "source": "rotoballer",
+      "source_key": "219998",
+      "story_id": "nfl|8121|rotoballer|219998|1788431288000",
+      "title": "Romeo Doubs Set To Be No. 2 Receiver in New England",
+      "url": "https://www.rotoballer.com/player-news/romeo-doubs-set-to-be-no-2-receiver-in-new-england/1922439"
     },
     {
       "analysis": null,
