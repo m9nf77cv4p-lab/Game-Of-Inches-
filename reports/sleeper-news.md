@@ -2,14 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1712**
-- Newly captured: **2**
+- Stored stories: **1716**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Jake Ferguson** — Jake Ferguson - Doesn't play in preseason (2026-09-03T00:50:44Z)
+- **NEW — Davante Adams** — Davante Adams - Logs no preseason action (2026-09-03T01:04:50Z)
+  - After logging at least 1,000 receiving yards six times in seven seasons between 2018 and 2024, Adams put together just 789 such yards in his age-33 campaign last year, though he did miss three regular-season games due to a hamstring injury. He salvaged his season with an NFL-leading 14 touchdown catches, displaying an incredible rapport with QB Matthew Stafford. With the Rams' top WR Puka Nacua still tending to psoas soreness a week before the team's Week 1 matchup with the 49ers next Thursday, Sept. 10, Adams effectively could be Stafford's No. 1 target out of the gate if Nacua isn't 100 percent.
+- **NEW — Ryan Flournoy** — Ryan Flournoy - Locked in as WR3 (2026-09-03T01:04:21Z)
+  - Lamb, Pickens and tight end Jake Ferguson each saw 100-plus targets from Dak Prescott last season, and each of those three pass catchers should see a similar workload in 2026. Flournoy, a sixth-round selection of the Cowboys in the 2024 NFL Draft, saw his offensive production jump in his sophomore campaign, finishing with 40 catches (on 56 targets) for 475 yards and four touchdowns across 16 regular-season games. The Cowboys' offense ranked second in the NFL last season in passing yards per game, and Flournoy would be in line for a bigger workload if one of Lamb, Pickens or Ferguson were to miss time. One of Flournoy's best performances in 2025 was in Week 5 against the Jets, when he caught six passes (on nine targets) for 114 yards in a game that Lamb didn't play in due to an ankle injury.
+- **NEW — Jordan Mason** — Jordan Mason - Co-starting RB with Jones (2026-09-03T00:53:36Z)
+  - The 49ers dealt Mason to Minnesota in March 2025, and the pairing of him and Jones meant a split backfield last season, with the former getting 173 touches to the latter's 160 along the way. Jones did play in four fewer games than Mason (12 vs. 16), but Mason handled far more goal-line carries (29 vs. 14), finishing with six TDs to Jones' three. A similar breakdown of work is expected for the duo in 2026, meaning Mason may have the safer fantasy floor of the two.
+- **Jake Ferguson** — Jake Ferguson - Doesn't play in preseason (2026-09-03T00:50:44Z)
   - Ferguson, George Pickens, CeeDee Lamb and Dak Prescott were all sidelined for the entire preseason, ensuring that they will all be available for Week 1 against the Giants on Sunday, Sept. 13. Ferguson is coming offf a career year, finishing the 2025 regular season with 82 catches (on 102 targets) for 600 yards and eight touchdowns across 17 games. Even with Lamb and Pickens both commanding 100-plus targets last year, Ferguson's reliability in the passing game has made him a go-to option for Prescott in the passing game. Ferguson will operate as the Cowboys' top pass-catching tight end this season, with Brevyn Spann-Ford and Luke Schoonmaker providing depth at the position.
-- **NEW — Aaron Jones** — Aaron Jones - Listed as co-starter with Mason (2026-09-03T00:48:20Z)
+- **Aaron Jones** — Aaron Jones - Listed as co-starter with Mason (2026-09-03T00:48:20Z)
   - Jones and Mason effectively split Minnesota's backfield in 2025, with the former earning 160 touches in 12 regular-season games and the latter getting 173 in 16 such appearances. Mason's goal-line work (29 rushes inside the 5-yard line) helped him total six TDs, while Jones (14 such carries) ended up with only three end-zone visits, which matched the lowest of his career for a campaign. The duo should have a similar breakdown of reps this season, but Jones' age (31) and injury history seemingly make him the riskier of the two to roster for fantasy purposes.
 - **Chris Godwin** — Chris Godwin - Draws praise from GM Licht (2026-09-03T00:29:05Z)
   - "I would be remiss if I did not mention [Godwin] for all he has done for this organization and talk about being a consistent, steady, Mr. Clutch player, that is him and he looks very, very good out there right now," Licht relayed Monday. For the first time in his NFL career, Godwin enters the season out of the shadows of Mike Evans (groin), the latter of whom signed a three-year contract with the 49ers in March. Godwin logged 1,000-plus yard seasons four times from 2019 to 2023, and he was the league leader in receptions before dislocating his ankle in Week 7. He was limited to nine regular-season games last year due to a fibula injury, but Godwin is fully healthy entering the 2026 campaign and will serve as a go-to target in the passing game for quarterback Baker Mayfield. Godwin could operate in an elevated role early in the season depending on the statuses of Emeka Egbuka (toe) and Jalen McMillan (knee) for Week 1 against the Bengals on Sunday, Sept. 13.
@@ -41,6 +47,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Coach Zac Taylor told Ben Baby of ESPN.com on Tuesday that Chase would be limited this week, but he "feels good about" the wide receiver after he hyperextended his left knee while attempting to gather in a deep ball at practice early last week. Just one day later, though, Chase didn't mix into any drills, and fellow WR Tee Higgins joined him on the sideline due to his own heel injury. The statuses of the Bengals' top options at the position thus are up in the air as Week 1 approaches.
 - **Tee Higgins** — Tee Higgins - No practice Wednesday (2026-09-02T22:02:04Z)
   - On Tuesday, coach Zac Taylor relayed to Baby that Higgins was dealing with a bruised heel, but the issue wasn't a major concern. Having said that, Higgins didn't log any activity one day later, so his status, along with fellow DNP WR Ja'Marr Chase (knee), will be monitored closely as Week 1 inches closer. The Bengals take on the Buccaneers on Sunday, Sept. 13, meaning Higgins' first official practice reps of the campaign will be possible next Wednesday.
+- **NEW — Saquon Barkley** — Saquon Barkley is Unharmed After Attempted Burglary of His Home (2026-09-02T21:06:09Z)
+  - Source: https://www.rotoballer.com/player-news/saquon-barkley-is-unharmed-after-attempted-burglary-of-his-home/1922189
 - **Brian Thomas** — Brian Thomas Jr. (shoulder) practicing in full (2026-09-02T21:05:34.638000Z)
   - Thomas has been limited by a shoulder injury recently, but he was back to full practice activity on Tuesday. The third-year wideout should be good to go for Week 1. 
   - Source: https://www.fantasypros.com/nfl/news/605657/brian-thomas-jr-shoulder-practicing-full.php
@@ -206,11 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-trending-toward-bigger-role-in-denver/1921887
 - **Emeka Egbuka** — Emeka Egbuka Running on Side Field (2026-09-02T11:31:08Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-running-on-side-field/1921877
-- **MarShawn Lloyd** — MarShawn Lloyd Gets First Crack at Green Bay Backfield (2026-09-02T11:23:07Z)
-  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-gets-first-crack-at-green-bay-backfield/1921873
-- **Jameson Williams** — Jameson Williams Could Lead Lions in Receiving (2026-09-02T11:12:12Z)
-  - Source: https://www.rotoballer.com/player-news/jameson-williams-could-lead-lions-in-receiving/1921861
-- **Jaxson Dart** — Jaxson Dart Feels "In Command" for Week 1 vs. Cowboys (2026-09-02T10:58:07Z)
-  - Source: https://www.rotoballer.com/player-news/jaxson-dart-feels-in-command-for-week-1-vs-cowboys/1921838
-- **Jalen Hurts** — Eagles Don't View 2026 as a Make-or-Break Year for Jalen Hurts (2026-09-02T10:49:06Z)
-  - Source: https://www.rotoballer.com/player-news/eagles-dont-view-2026-as-a-make-or-break-year-for-jalen-hurts/1921832

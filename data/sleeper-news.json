@@ -1,10 +1,12 @@
 {
-  "last_checked_at": "2026-09-03T00:59:59Z",
+  "last_checked_at": "2026-09-03T01:21:46Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4199|rotowire|636081|1788396500000",
-    "nfl|8110|rotowire|636082|1788396644000"
+    "nfl|11783|rotowire|636087|1788397461000",
+    "nfl|2133|rotowire|636088|1788397490000",
+    "nfl|4866|rotoballer|219974|1788383169000",
+    "nfl|8408|rotowire|636085|1788396816000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +16,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "After logging at least 1,000 receiving yards six times in seven seasons between 2018 and 2024, Adams put together just 789 such yards in his age-33 campaign last year, though he did miss three regular-season games due to a hamstring injury. He salvaged his season with an NFL-leading 14 touchdown catches, displaying an incredible rapport with QB Matthew Stafford. With the Rams' top WR Puka Nacua still tending to psoas soreness a week before the team's Week 1 matchup with the 49ers next Thursday, Sept. 10, Adams effectively could be Stafford's No. 1 target out of the gate if Nacua isn't 100 percent.",
+      "description": "Adams didn't suit up for any of the Rams' three-game preseason schedule.",
+      "metadata": {
+        "analysis": "After logging at least 1,000 receiving yards six times in seven seasons between 2018 and 2024, Adams put together just 789 such yards in his age-33 campaign last year, though he did miss three regular-season games due to a hamstring injury. He salvaged his season with an NFL-leading 14 touchdown catches, displaying an incredible rapport with QB Matthew Stafford. With the Rams' top WR Puka Nacua still tending to psoas soreness a week before the team's Week 1 matchup with the 49ers next Thursday, Sept. 10, Adams effectively could be Stafford's No. 1 target out of the gate if Nacua isn't 100 percent.",
+        "description": "Adams didn't suit up for any of the Rams' three-game preseason schedule.",
+        "title": "Davante Adams - Logs no preseason action",
+        "topic_id": "1401045707594477568"
+      },
+      "nfl_team": "LAR",
+      "player_id": "2133",
+      "player_name": "Davante Adams",
+      "position": "WR",
+      "published": 1788397490000,
+      "source": "rotowire",
+      "source_key": "636088",
+      "story_id": "nfl|2133|rotowire|636088|1788397490000",
+      "title": "Davante Adams - Logs no preseason action",
+      "url": null
+    },
+    {
+      "analysis": "Lamb, Pickens and tight end Jake Ferguson each saw 100-plus targets from Dak Prescott last season, and each of those three pass catchers should see a similar workload in 2026. Flournoy, a sixth-round selection of the Cowboys in the 2024 NFL Draft, saw his offensive production jump in his sophomore campaign, finishing with 40 catches (on 56 targets) for 475 yards and four touchdowns across 16 regular-season games. The Cowboys' offense ranked second in the NFL last season in passing yards per game, and Flournoy would be in line for a bigger workload if one of Lamb, Pickens or Ferguson were to miss time. One of Flournoy's best performances in 2025 was in Week 5 against the Jets, when he caught six passes (on nine targets) for 114 yards in a game that Lamb didn't play in due to an ankle injury.",
+      "description": "Flournoy is listed as the Cowboys' third wide receiver on the depth chart behind CeeDee Lamb and George Pickens.",
+      "metadata": {
+        "analysis": "Lamb, Pickens and tight end Jake Ferguson each saw 100-plus targets from Dak Prescott last season, and each of those three pass catchers should see a similar workload in 2026. Flournoy, a sixth-round selection of the Cowboys in the 2024 NFL Draft, saw his offensive production jump in his sophomore campaign, finishing with 40 catches (on 56 targets) for 475 yards and four touchdowns across 16 regular-season games. The Cowboys' offense ranked second in the NFL last season in passing yards per game, and Flournoy would be in line for a bigger workload if one of Lamb, Pickens or Ferguson were to miss time. One of Flournoy's best performances in 2025 was in Week 5 against the Jets, when he caught six passes (on nine targets) for 114 yards in a game that Lamb didn't play in due to an ankle injury.",
+        "description": "Flournoy is listed as the Cowboys' third wide receiver on the depth chart behind CeeDee Lamb and George Pickens.",
+        "title": "Ryan Flournoy - Locked in as WR3",
+        "topic_id": "1401045707590283264"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11783",
+      "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "published": 1788397461000,
+      "source": "rotowire",
+      "source_key": "636087",
+      "story_id": "nfl|11783|rotowire|636087|1788397461000",
+      "title": "Ryan Flournoy - Locked in as WR3",
+      "url": null
+    },
+    {
+      "analysis": "The 49ers dealt Mason to Minnesota in March 2025, and the pairing of him and Jones meant a split backfield last season, with the former getting 173 touches to the latter's 160 along the way. Jones did play in four fewer games than Mason (12 vs. 16), but Mason handled far more goal-line carries (29 vs. 14), finishing with six TDs to Jones' three. A similar breakdown of work is expected for the duo in 2026, meaning Mason may have the safer fantasy floor of the two.",
+      "description": "Mason and Aaron Jones are listed as co-starting running backs on the Vikings' unofficial depth chart following cut-down day Sunday, Rob Kleifield of the team's official site reports.",
+      "metadata": {
+        "analysis": "The 49ers dealt Mason to Minnesota in March 2025, and the pairing of him and Jones meant a split backfield last season, with the former getting 173 touches to the latter's 160 along the way. Jones did play in four fewer games than Mason (12 vs. 16), but Mason handled far more goal-line carries (29 vs. 14), finishing with six TDs to Jones' three. A similar breakdown of work is expected for the duo in 2026, meaning Mason may have the safer fantasy floor of the two.",
+        "description": "Mason and Aaron Jones are listed as co-starting running backs on the Vikings' unofficial depth chart following cut-down day Sunday, Rob Kleifield of the team's official site reports.",
+        "title": "Jordan Mason - Co-starting RB with Jones",
+        "topic_id": "1401043189787295744"
+      },
+      "nfl_team": "MIN",
+      "player_id": "8408",
+      "player_name": "Jordan Mason",
+      "position": "RB",
+      "published": 1788396816000,
+      "source": "rotowire",
+      "source_key": "636085",
+      "story_id": "nfl|8408|rotowire|636085|1788396816000",
+      "title": "Jordan Mason - Co-starting RB with Jones",
+      "url": null
+    },
     {
       "analysis": "Ferguson, George Pickens, CeeDee Lamb and Dak Prescott were all sidelined for the entire preseason, ensuring that they will all be available for Week 1 against the Giants on Sunday, Sept. 13. Ferguson is coming offf a career year, finishing the 2025 regular season with 82 catches (on 102 targets) for 600 yards and eight touchdowns across 17 games. Even with Lamb and Pickens both commanding 100-plus targets last year, Ferguson's reliability in the passing game has made him a go-to option for Prescott in the passing game. Ferguson will operate as the Cowboys' top pass-catching tight end this season, with Brevyn Spann-Ford and Luke Schoonmaker providing depth at the position.",
       "description": "Ferguson did not play in any of the Cowboys' three preseason games.",
@@ -353,6 +415,26 @@
       "story_id": "nfl|6801|rotowire|636032|1788386524000",
       "title": "Tee Higgins - No practice Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "According to Adam Schefter, Philadelphia Eagles running back Saquon Barkley is unharmed after an attempted burglary of his home on Saturday. Barkley's home was broken into after 5:00 AM EST on Saturday, according to the Tredyffrin Township Police Department. Barkley and his family were home at the time of the break-in, but thankfully, no one was hurt. A 24-year-old man has been arrested and charged with multiple felonies, including attempted break-in of two other homes. This investigation isn't expected to impact Barkley's status for this upcoming season.",
+      "metadata": {
+        "description": "According to Adam Schefter, Philadelphia Eagles running back Saquon Barkley is unharmed after an attempted burglary of his home on Saturday. Barkley's home was broken into after 5:00 AM EST on Saturday, according to the Tredyffrin Township Police Department. Barkley and his family were home at the time of the break-in, but thankfully, no one was hurt. A 24-year-old man has been arrested and charged with multiple felonies, including attempted break-in of two other homes. This investigation isn't expected to impact Barkley's status for this upcoming season.",
+        "title": "Saquon Barkley is Unharmed After Attempted Burglary of His Home",
+        "topic_id": "1401045701734985728",
+        "url": "https://www.rotoballer.com/player-news/saquon-barkley-is-unharmed-after-attempted-burglary-of-his-home/1922189"
+      },
+      "nfl_team": "PHI",
+      "player_id": "4866",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "published": 1788383169000,
+      "source": "rotoballer",
+      "source_key": "219974",
+      "story_id": "nfl|4866|rotoballer|219974|1788383169000",
+      "title": "Saquon Barkley is Unharmed After Attempted Burglary of His Home",
+      "url": "https://www.rotoballer.com/player-news/saquon-barkley-is-unharmed-after-attempted-burglary-of-his-home/1922189"
     },
     {
       "analysis": "Thomas has been limited by a shoulder injury recently, but he was back to full practice activity on Tuesday. The third-year wideout should be good to go for Week 1. ",
