@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1720**
-- Newly captured: **2**
+- Stored stories: **1726**
+- Newly captured: **6**
 
 ## Latest news
 
@@ -19,16 +19,24 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Jones and Mason effectively split Minnesota's backfield in 2025, with the former earning 160 touches in 12 regular-season games and the latter getting 173 in 16 such appearances. Mason's goal-line work (29 rushes inside the 5-yard line) helped him total six TDs, while Jones (14 such carries) ended up with only three end-zone visits, which matched the lowest of his career for a campaign. The duo should have a similar breakdown of reps this season, but Jones' age (31) and injury history seemingly make him the riskier of the two to roster for fantasy purposes.
 - **Chris Godwin** — Chris Godwin - Draws praise from GM Licht (2026-09-03T00:29:05Z)
   - "I would be remiss if I did not mention [Godwin] for all he has done for this organization and talk about being a consistent, steady, Mr. Clutch player, that is him and he looks very, very good out there right now," Licht relayed Monday. For the first time in his NFL career, Godwin enters the season out of the shadows of Mike Evans (groin), the latter of whom signed a three-year contract with the 49ers in March. Godwin logged 1,000-plus yard seasons four times from 2019 to 2023, and he was the league leader in receptions before dislocating his ankle in Week 7. He was limited to nine regular-season games last year due to a fibula injury, but Godwin is fully healthy entering the 2026 campaign and will serve as a go-to target in the passing game for quarterback Baker Mayfield. Godwin could operate in an elevated role early in the season depending on the statuses of Emeka Egbuka (toe) and Jalen McMillan (knee) for Week 1 against the Bengals on Sunday, Sept. 13.
+- **NEW — Juwan Johnson** — Juwan Johnson Has a Clear Path to Early-Season Targets (2026-09-03T00:12:07Z)
+  - Source: https://www.rotoballer.com/player-news/juwan-johnson-has-a-clear-path-to-early-season-targets/1922302
 - **Dalton Schultz** — Dalton Schultz - Held out of exhibition games (2026-09-03T00:09:19Z)
   - Schultz, wide receiver Nico Collins and running back David Montgomery were some of the offensive starters that did not participate in preseason games, with quarterback C.J. Stroud seeing minimal action against the Raiders on Aug. 20. Schultz is coming off a productive 2025 regular season, setting a career high with 82 catches, while his 777 yards were his most since the 2021 campaign with the Cowboys (808 yards). Jayden Higgins (knee) will miss the entire 2026 season, and with Tank Dell (knee) opening the season on injured reserve, Schultz and Collins figure to be the go-to targets for Stroud in the passing game.
 - **Dak Prescott** — Dak Prescott - Rests during preseason (2026-09-03T00:07:17Z)
   - Prescott has had WR CeeDee Lamb to throw to since 2020, but the addition of George Pickens during the 2025 offseason helped the quarterback rack up the second-most passing yards in a season (4,552) of his 10-year career. Additionally, Prescott also tossed 30 TDs for the fourth time among his career-high 600 pass attempts. Dallas likely would like that latter number to come down in a more balanced offense, and a new defensive scheme under coordinator Christian Parker could mean Prescott and the offense are in catch-up mode less often. In any case, Prescott has a bonafide top receiving duo at his services, so another 4,000-yard campaign is entirely within the realm of possibilities in 2026
 - **Brock Bowers** — Brock Bowers - Working with Cousins to open season (2026-09-03T00:00:53Z)
   - The star tight end is looking to return to the caliber of production he managed during an outstanding 2024 rookie campaign, one where he recorded a 112-1,194-5 line across 17 regular-season games. Bowers endured a lingering knee injury last season that ultimately limited him to 12 games, but the combination of his return to full health and a savvy veteran familiar with head coach Klint Kubiak's system in Cousins sets the stage for a potentially productive start to the 2026 season.
+- **NEW — Daniel Jones** — Daniel Jones Fully Healthy and Undervalued in Drafts (2026-09-03T00:00:11Z)
+  - Source: https://www.rotoballer.com/player-news/daniel-jones-fully-healthy-and-undervalued-in-drafts/1922300
 - **Sam Darnold** — Sam Darnold - Idle for preseason action (2026-09-02T23:57:13Z)
   - Darnold, Jaxon Smith-Njigba, Rashid Shaheed, AJ Barner and other Seahawks offensive starters observed all three preseason games from the sidelines, with the team seemingly not wanting to risk injury to its top contributors ahead of Week 1 against the Patriots. Darnold's pass catchers are mostly the same as those he threw to during last year's Super Bowl run, though the veteran signal caller is working under new offensive coordinator Brian Fleury after Klint Kubiak accepted the Raiders' head coach position. Super Bowl LX MVP Kenneth Walker also bolted to Kansas City in free agency, and with Zach Charbonnet (knee) opening the season on the reserve/PUP list, Darnold's top options out of the backfield are rookie first-rounder Jadarian Price and George Holani. Darnold finished the 2025 regular season fifth and seventh in passing yards (4,048) and completion percentage (67.7), respectively, though his 14 interceptions were third-most behind Geno Smith (17) and Tua Tagovailoa (15).
 - **Saquon Barkley** — Saquon Barkley - No preseason action (2026-09-02T23:56:26Z)
   - At this point in his standout career, Barkley doesn't require exhibition reps to be his usual self once the games begin to count, so it's understandable that coach Nick Sirianni opted to rest Philadelphia's No. 1 RB and other key starters. After reeling off 2,005 rushing yards in 2024 and winning a Super Bowl, Barkley took a step back last season, but he still notched 1,413 yards from scrimmage and nine total TDs on 317 touches in 16 regular-season games. Sirianni has passed off play-calling duties to new offensive coordinator Sean Mannion, so it remains to be seen how effective Barkley will be in the new scheme.
+- **NEW — Zachariah Branch** — Zachariah Branch Off the Fantasy Radar Entirely? (2026-09-02T23:56:14Z)
+  - Source: https://www.rotoballer.com/player-news/zachariah-branch-off-the-fantasy-radar-entirely/1922298
+- **NEW — Jordan James** — Jordan James No Longer a Handcuff to Target in Fantasy Drafts (2026-09-02T23:42:06Z)
+  - Source: https://www.rotoballer.com/player-news/jordan-james-no-longer-a-handcuff-to-target-in-fantasy-drafts/1922296
 - **Trey McBride** — Trey McBride - No. 1 TE on depth chart (2026-09-02T23:38:25Z)
   - McBride emerged as a target hog in 2024, racking up 147 in 16 regular-season games en route to 111 catches and 1,146 yards but just two touchdowns. The end-zone woes finally came to a close last season, though, as he finished with a monster 126-1,239-11 line on 169 targets in 17 regular-season contests. The catch count set an NFL record for most by a tight end in a campaign, surpassing Zach Ertz's 116 from his 2018 season with the Eagles. McBride remains the top pass catcher for QB Jacoby Brissett and Arizona's offense, but he does have competition for looks from WRs Marvin Harrison and Michael Wilson.
 - **Isaiah Davis** — Isaiah Davis - Doesn't practice Wednesday (2026-09-02T23:36:45Z)
@@ -41,15 +49,19 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Helm joined the rest of the healthy starters to kick off preseason Weeks 1 and 2, logging 26 offensive snaps between the two contests. He then was rested in Saturday's exhibition finale against the Bears along with QB Cam Ward and company. A fourth-round pick in the 2025 Draft, Helm hauled in 44 of 55 targets for 357 yards and two touchdowns in 16 regular-season games as a rookie, and he'll be looking to build upon those numbers in Year 2 under new offensive coordinator Brian Daboll.
 - **Marvin Harrison** — Marvin Harrison - Listed on first-team offense (2026-09-02T22:49:02Z)
   - This comes as no surprise considering Harrison's standing as the fourth overall pick in the 2024 Draft and his average of 6.5 targets per game through two seasons in the NFL. However, he has yet to take off, even with QB Jacoby Brissett under center for most of the 2025 campaign, as heel and foot injuries contained him to only three appearances in the final eight contests. Harrison has had a clean bill of health since late July, and with a full training camp working with Brissett and fellow WR Michael Wilson, the trio is set to hit the ground running Week 1 under new coach Mike LaFleur.
+- **NEW — Michael Wilson** — Michael Wilson Could Receive Extension Soon (2026-09-02T22:45:16Z)
+  - Source: https://www.rotoballer.com/player-news/michael-wilson-could-receive-extension-soon/1922259
 - **Michael Wilson** — Michael Wilson - Potential extension looming? (2026-09-02T22:38:58Z)
   - A 2023 third-round pick of Arizona, Wilson wasn't able to tap into his full potential until his third season in 2025, but once QB Jacoby Brissett took over the offense Week 6, the wide receiver was off and running thereafter, posting a 70-954-6 line on 108 targets over the final 12 contests. The run included three 100-yard receiving games and at least one touchdown grab in each of the final five weeks for Wilson. Entering the final year of his rookie contract, his situation is pending, and whether or not it gets decided before Week 1 or next offseason remains to be seen.
+- **NEW — Emmett Johnson** — Emmett Johnson Earns Praise for his Pass Protection (2026-09-02T22:22:09Z)
+  - Source: https://www.rotoballer.com/player-news/emmett-johnson-earns-praise-for-his-pass-protection/1922247
 - **Ja'Marr Chase** — Ja'Marr Chase - Doesn't practice Wednesday (2026-09-02T22:12:12Z)
   - Coach Zac Taylor told Ben Baby of ESPN.com on Tuesday that Chase would be limited this week, but he "feels good about" the wide receiver after he hyperextended his left knee while attempting to gather in a deep ball at practice early last week. Just one day later, though, Chase didn't mix into any drills, and fellow WR Tee Higgins joined him on the sideline due to his own heel injury. The statuses of the Bengals' top options at the position thus are up in the air as Week 1 approaches.
-- **NEW — KC Concepcion** — KC Concepcion Hopes to Carry Strong Summer into Regular Season (2026-09-02T22:06:10Z)
+- **KC Concepcion** — KC Concepcion Hopes to Carry Strong Summer into Regular Season (2026-09-02T22:06:10Z)
   - Source: https://www.rotoballer.com/player-news/kc-concepcion-hopes-to-carry-strong-summer-into-regular-season/1922235
 - **Tee Higgins** — Tee Higgins - No practice Wednesday (2026-09-02T22:02:04Z)
   - On Tuesday, coach Zac Taylor relayed to Baby that Higgins was dealing with a bruised heel, but the issue wasn't a major concern. Having said that, Higgins didn't log any activity one day later, so his status, along with fellow DNP WR Ja'Marr Chase (knee), will be monitored closely as Week 1 inches closer. The Bengals take on the Buccaneers on Sunday, Sept. 13, meaning Higgins' first official practice reps of the campaign will be possible next Wednesday.
-- **NEW — Michael Penix** — Falcons Plan to Eventually Start Michael Penix Jr. (2026-09-02T21:54:10Z)
+- **Michael Penix** — Falcons Plan to Eventually Start Michael Penix Jr. (2026-09-02T21:54:10Z)
   - Source: https://www.rotoballer.com/player-news/falcons-plan-to-eventually-start-michael-penix-jr/1922223
 - **Chris Godwin** — Buccaneers GM Speaks Highly of Chris Godwin Jr. (2026-09-02T21:42:10Z)
   - Source: https://www.rotoballer.com/player-news/buccaneers-gm-speaks-highly-of-chris-godwin-jr/1922212
@@ -202,15 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/todd-bowles-remains-cautious-regarding-emeka-egbukas-week-1-status/1921944
 - **Kirk Cousins** — Raiders Officially Name Kirk Cousins the Week 1 Starter (2026-09-02T12:52:18Z)
   - Source: https://www.rotoballer.com/player-news/raiders-officially-name-kirk-cousins-the-week-1-starter/1921942
-- **George Kittle** — George Kittle - Traveling to Australia with team (2026-09-02T12:52:12Z)
-  - A final call on Kittle's availability for Week 1 isn't expected to be made until the 49ers arrive in Australia, but his involvement in practice this week and presence on the road trip suggest that he's on track to play. Kittle -- who tore his right Achilles tendon Jan. 11 and underwent surgery three days later -- could have his snaps limited to some degree if he's cleared to play in the season opener.
-- **Ashton Jeanty** — Klint Kubiak Optimistic About Ashton Jeanty's Week 1 Status (2026-09-02T12:46:06Z)
-  - Source: https://www.rotoballer.com/player-news/klint-kubiak-optimistic-about-ashton-jeantys-week-1-status/1921937
-- **Michael Wilson** — Michael Wilson Unlikely to Have New Deal by Week 1 (2026-09-02T12:37:44Z)
-  - Source: https://www.rotoballer.com/player-news/michael-wilson-unlikely-to-have-new-deal-by-week-1/1921935
-- **Ashton Jeanty** — Ashton Jeanty Misses Wednesday's Practice (2026-09-02T12:31:05Z)
-  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-misses-wednesdays-practice/1921930
-- **Jonathon Brooks** — Jonathon Brooks Off to the Side Again on Wednesday (2026-09-02T12:24:10Z)
-  - Source: https://www.rotoballer.com/player-news/jonathon-brooks-off-to-the-side-again-on-wednesday/1921926
-- **Isaiah Likely** — Isaiah Likely Could Have a Breakout Season in First Year With Giants (2026-09-02T12:16:05Z)
-  - Source: https://www.rotoballer.com/player-news/isaiah-likely-could-have-a-breakout-season-in-first-year-with-giants/1921923

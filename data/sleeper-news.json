@@ -1,10 +1,14 @@
 {
-  "last_checked_at": "2026-09-03T02:21:15Z",
+  "last_checked_at": "2026-09-03T05:15:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11559|rotoballer|219977|1788386050000",
-    "nfl|13298|rotoballer|219979|1788386770000"
+    "nfl|10232|rotoballer|219984|1788389116000",
+    "nfl|12467|rotoballer|219988|1788392526000",
+    "nfl|13320|rotoballer|219989|1788393374000",
+    "nfl|13337|rotoballer|219981|1788387729000",
+    "nfl|5870|rotoballer|219990|1788393611000",
+    "nfl|7002|rotoballer|219991|1788394327000"
   ],
   "schema_version": 1,
   "source": {
@@ -135,6 +139,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "New Orleans Saints tight end Juwan Johnson should see an uptick in targets early this season as he helps to fill the void of wide receiver Jordyn Tyson (hamstring). Johnson was a wide receiver in college, so even though he's a tight end now, he remains a legitimate receiving threat with impressive size and athleticism. While the coaching staff is high on Devaughn Vele, there's a very legitimate chance that Johnson ranks second on the team in targets (behind Chris Olave) for the duration of Tyson's absence. Tyson is expected to be sidelined through late October, setting up Johnson to see enough targets for him to rank as a low-end TE1. There's certainly precedent here, as Johnson was the overall TE8 while playing in a similar-looking offense last year. It's also encouraging that he performed better with Tyler Shough as his quarterback (11.5 PPR points per game) than with Spencer Rattler (9.5 PPR points per game). Johnson currently has an ADP of 146.3, which corresponds to the 13th round and makes him the 16th tight end off the board.",
+      "metadata": {
+        "description": "New Orleans Saints tight end Juwan Johnson should see an uptick in targets early this season as he helps to fill the void of wide receiver Jordyn Tyson (hamstring). Johnson was a wide receiver in college, so even though he's a tight end now, he remains a legitimate receiving threat with impressive size and athleticism. While the coaching staff is high on Devaughn Vele, there's a very legitimate chance that Johnson ranks second on the team in targets (behind Chris Olave) for the duration of Tyson's absence. Tyson is expected to be sidelined through late October, setting up Johnson to see enough targets for him to rank as a low-end TE1. There's certainly precedent here, as Johnson was the overall TE8 while playing in a similar-looking offense last year. It's also encouraging that he performed better with Tyler Shough as his quarterback (11.5 PPR points per game) than with Spencer Rattler (9.5 PPR points per game). Johnson currently has an ADP of 146.3, which corresponds to the 13th round and makes him the 16th tight end off the board.",
+        "title": "Juwan Johnson Has a Clear Path to Early-Season Targets",
+        "topic_id": "1401093523322712064",
+        "url": "https://www.rotoballer.com/player-news/juwan-johnson-has-a-clear-path-to-early-season-targets/1922302"
+      },
+      "nfl_team": "NO",
+      "player_id": "7002",
+      "player_name": "Juwan Johnson",
+      "position": "TE",
+      "published": 1788394327000,
+      "source": "rotoballer",
+      "source_key": "219991",
+      "story_id": "nfl|7002|rotoballer|219991|1788394327000",
+      "title": "Juwan Johnson Has a Clear Path to Early-Season Targets",
+      "url": "https://www.rotoballer.com/player-news/juwan-johnson-has-a-clear-path-to-early-season-targets/1922302"
+    },
+    {
       "analysis": "Schultz, wide receiver Nico Collins and running back David Montgomery were some of the offensive starters that did not participate in preseason games, with quarterback C.J. Stroud seeing minimal action against the Raiders on Aug. 20. Schultz is coming off a productive 2025 regular season, setting a career high with 82 catches, while his 777 yards were his most since the 2021 campaign with the Cowboys (808 yards). Jayden Higgins (knee) will miss the entire 2026 season, and with Tank Dell (knee) opening the season on injured reserve, Schultz and Collins figure to be the go-to targets for Stroud in the passing game.",
       "description": "Schultz did not play in any of the Texans' three preseason games.",
       "metadata": {
@@ -195,6 +219,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Indianapolis Colts quarterback Daniel Jones has fully recovered from last season's Achilles injury, but it doesn't look like his ADP has completely adjusted yet. As it stands, Jones has an ADP of 174.7, which corresponds to the 15th round and makes him the 23rd quarterback off the board. That seems to be a slightly pessimistic evaluation of the 29-year-old, who ranked as the QB7 in total points before getting injured last year. Even if Jones doesn't quite replicate his QB7 ranking this year, he's still a reasonable candidate to finish among the top 12 quarterbacks in fantasy football. Therefore, now that he's fully healthy, he's somewhat of a steal at his current price tag. He stands to benefit from a strong supporting cast, including Keenan Allen, Josh Downs, Alec Pierce, Tyler Warren, and Jonathan Taylor.",
+      "metadata": {
+        "description": "Indianapolis Colts quarterback Daniel Jones has fully recovered from last season's Achilles injury, but it doesn't look like his ADP has completely adjusted yet. As it stands, Jones has an ADP of 174.7, which corresponds to the 15th round and makes him the 23rd quarterback off the board. That seems to be a slightly pessimistic evaluation of the 29-year-old, who ranked as the QB7 in total points before getting injured last year. Even if Jones doesn't quite replicate his QB7 ranking this year, he's still a reasonable candidate to finish among the top 12 quarterbacks in fantasy football. Therefore, now that he's fully healthy, he's somewhat of a steal at his current price tag. He stands to benefit from a strong supporting cast, including Keenan Allen, Josh Downs, Alec Pierce, Tyler Warren, and Jonathan Taylor.",
+        "title": "Daniel Jones Fully Healthy and Undervalued in Drafts",
+        "topic_id": "1401089748063252480",
+        "url": "https://www.rotoballer.com/player-news/daniel-jones-fully-healthy-and-undervalued-in-drafts/1922300"
+      },
+      "nfl_team": "IND",
+      "player_id": "5870",
+      "player_name": "Daniel Jones",
+      "position": "QB",
+      "published": 1788393611000,
+      "source": "rotoballer",
+      "source_key": "219990",
+      "story_id": "nfl|5870|rotoballer|219990|1788393611000",
+      "title": "Daniel Jones Fully Healthy and Undervalued in Drafts",
+      "url": "https://www.rotoballer.com/player-news/daniel-jones-fully-healthy-and-undervalued-in-drafts/1922300"
+    },
+    {
       "analysis": "Darnold, Jaxon Smith-Njigba, Rashid Shaheed, AJ Barner and other Seahawks offensive starters observed all three preseason games from the sidelines, with the team seemingly not wanting to risk injury to its top contributors ahead of Week 1 against the Patriots. Darnold's pass catchers are mostly the same as those he threw to during last year's Super Bowl run, though the veteran signal caller is working under new offensive coordinator Brian Fleury after Klint Kubiak accepted the Raiders' head coach position. Super Bowl LX MVP Kenneth Walker also bolted to Kansas City in free agency, and with Zach Charbonnet (knee) opening the season on the reserve/PUP list, Darnold's top options out of the backfield are rookie first-rounder Jadarian Price and George Holani. Darnold finished the 2025 regular season fifth and seventh in passing yards (4,048) and completion percentage (67.7), respectively, though his 14 interceptions were third-most behind Geno Smith (17) and Tua Tagovailoa (15).",
       "description": "Darnold did not participate in any of the Seahawks' three preseason games.",
       "metadata": {
@@ -233,6 +277,46 @@
       "story_id": "nfl|4866|rotowire|636053|1788393386000",
       "title": "Saquon Barkley - No preseason action",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Atlanta Falcons wide receiver Zachariah Branch is not expected to have a starting role in Week 1, and his low position on the depth chart likely takes him off the redraft radar entirely. The Falcons' latest depth chart lists Branch with the second-team offense, likely putting him in the No. 4 or No. 5 receiver role. He's penciled in behind Drake London, Olamide Zaccheaus, and Jahan Dotson, as well as potentially Chris Blair. Branch was a third-round pick, so it's not a total shock to see him lower on the depth chart to open his career. With that said, he caught 81 passes at Georgia last year, so we know that he can produce against a strong caliber of opponent. Nevertheless, it looks like fantasy managers will have to be patient with Branch, who is likely headed for a more consistent role on special teams than on offense. He caught just four passes for 21 yards in the preseason, and he has fallen to WR81 in RotoBaller's latest redraft rankings for fantasy football.",
+      "metadata": {
+        "description": "Atlanta Falcons wide receiver Zachariah Branch is not expected to have a starting role in Week 1, and his low position on the depth chart likely takes him off the redraft radar entirely. The Falcons' latest depth chart lists Branch with the second-team offense, likely putting him in the No. 4 or No. 5 receiver role. He's penciled in behind Drake London, Olamide Zaccheaus, and Jahan Dotson, as well as potentially Chris Blair. Branch was a third-round pick, so it's not a total shock to see him lower on the depth chart to open his career. With that said, he caught 81 passes at Georgia last year, so we know that he can produce against a strong caliber of opponent. Nevertheless, it looks like fantasy managers will have to be patient with Branch, who is likely headed for a more consistent role on special teams than on offense. He caught just four passes for 21 yards in the preseason, and he has fallen to WR81 in RotoBaller's latest redraft rankings for fantasy football.",
+        "title": "Zachariah Branch Off the Fantasy Radar Entirely?",
+        "topic_id": "1401088490023686144",
+        "url": "https://www.rotoballer.com/player-news/zachariah-branch-off-the-fantasy-radar-entirely/1922298"
+      },
+      "nfl_team": "ATL",
+      "player_id": "13320",
+      "player_name": "Zachariah Branch",
+      "position": "WR",
+      "published": 1788393374000,
+      "source": "rotoballer",
+      "source_key": "219989",
+      "story_id": "nfl|13320|rotoballer|219989|1788393374000",
+      "title": "Zachariah Branch Off the Fantasy Radar Entirely?",
+      "url": "https://www.rotoballer.com/player-news/zachariah-branch-off-the-fantasy-radar-entirely/1922298"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers running back Jordan James seems to have lost his appeal as a handcuff option in fantasy football. Heading into the back half of August, it seemed like James was in line to earn the No. 2 running back role behind Christian McCaffrey, especially after Isaac Guerendo (pectoral) was placed on the PUP list. Instead, James is third on the depth chart while rookie Kaelon Black occupies the backup role. In years past, we have seen that the 49ers' No. 2 running back only has fantasy value when McCaffrey misses time. In other words, his backup has always been a handcuff and never really possessed standalone value. Now that James has fallen to third on the depth chart, his fantasy value is dwindling even further. He's still worth stashing in deeper leagues in case the depth chart changes or McCaffrey gets hurt and Black can't handle the lead-back role on his own. However, there's no incentive to roster him in redraft leagues at the moment.",
+      "metadata": {
+        "description": "San Francisco 49ers running back Jordan James seems to have lost his appeal as a handcuff option in fantasy football. Heading into the back half of August, it seemed like James was in line to earn the No. 2 running back role behind Christian McCaffrey, especially after Isaac Guerendo (pectoral) was placed on the PUP list. Instead, James is third on the depth chart while rookie Kaelon Black occupies the backup role. In years past, we have seen that the 49ers' No. 2 running back only has fantasy value when McCaffrey misses time. In other words, his backup has always been a handcuff and never really possessed standalone value. Now that James has fallen to third on the depth chart, his fantasy value is dwindling even further. He's still worth stashing in deeper leagues in case the depth chart changes or McCaffrey gets hurt and Black can't handle the lead-back role on his own. However, there's no incentive to roster him in redraft leagues at the moment.",
+        "title": "Jordan James No Longer a Handcuff to Target in Fantasy Drafts",
+        "topic_id": "1401085972292055040",
+        "url": "https://www.rotoballer.com/player-news/jordan-james-no-longer-a-handcuff-to-target-in-fantasy-drafts/1922296"
+      },
+      "nfl_team": "SF",
+      "player_id": "12467",
+      "player_name": "Jordan James",
+      "position": "RB",
+      "published": 1788392526000,
+      "source": "rotoballer",
+      "source_key": "219988",
+      "story_id": "nfl|12467|rotoballer|219988|1788392526000",
+      "title": "Jordan James No Longer a Handcuff to Target in Fantasy Drafts",
+      "url": "https://www.rotoballer.com/player-news/jordan-james-no-longer-a-handcuff-to-target-in-fantasy-drafts/1922296"
     },
     {
       "analysis": "McBride emerged as a target hog in 2024, racking up 147 in 16 regular-season games en route to 111 catches and 1,146 yards but just two touchdowns. The end-zone woes finally came to a close last season, though, as he finished with a monster 126-1,239-11 line on 169 targets in 17 regular-season contests. The catch count set an NFL record for most by a tight end in a campaign, surpassing Zach Ertz's 116 from his 2018 season with the Eagles. McBride remains the top pass catcher for QB Jacoby Brissett and Arizona's offense, but he does have competition for looks from WRs Marvin Harrison and Michael Wilson.",
@@ -355,6 +439,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "According to Josh Weinfuss of ESPN, Arizona Cardinals wide receiver Michael Wilson could receive a new contract within the next few days. There has reportedly been movement towards a new deal that could be happening before Week 1. Wilson is coming off a breakout campaign, so the Cardinals would like to lock him up long-term now. The former third-rounder finished with 78 receptions with 1,006 receiving yards and seven touchdowns in 17 games with the Cardinals last season. Wilson is heading into the final year of his rookie deal and appears to be coming into finally breaking out and building chemistry with this team. We'll see if the two teams can come to an agreement before the beginning of the season.",
+      "metadata": {
+        "description": "According to Josh Weinfuss of ESPN, Arizona Cardinals wide receiver Michael Wilson could receive a new contract within the next few days. There has reportedly been movement towards a new deal that could be happening before Week 1. Wilson is coming off a breakout campaign, so the Cardinals would like to lock him up long-term now. The former third-rounder finished with 78 receptions with 1,006 receiving yards and seven touchdowns in 17 games with the Cardinals last season. Wilson is heading into the final year of his rookie deal and appears to be coming into finally breaking out and building chemistry with this team. We'll see if the two teams can come to an agreement before the beginning of the season.",
+        "title": "Michael Wilson Could Receive Extension Soon",
+        "topic_id": "1401070870952169472",
+        "url": "https://www.rotoballer.com/player-news/michael-wilson-could-receive-extension-soon/1922259"
+      },
+      "nfl_team": "ARI",
+      "player_id": "10232",
+      "player_name": "Michael Wilson",
+      "position": "WR",
+      "published": 1788389116000,
+      "source": "rotoballer",
+      "source_key": "219984",
+      "story_id": "nfl|10232|rotoballer|219984|1788389116000",
+      "title": "Michael Wilson Could Receive Extension Soon",
+      "url": "https://www.rotoballer.com/player-news/michael-wilson-could-receive-extension-soon/1922259"
+    },
+    {
       "analysis": "A 2023 third-round pick of Arizona, Wilson wasn't able to tap into his full potential until his third season in 2025, but once QB Jacoby Brissett took over the offense Week 6, the wide receiver was off and running thereafter, posting a 70-954-6 line on 108 targets over the final 12 contests. The run included three 100-yard receiving games and at least one touchdown grab in each of the final five weeks for Wilson. Entering the final year of his rookie contract, his situation is pending, and whether or not it gets decided before Week 1 or next offseason remains to be seen.",
       "description": "The Cardinals have made attempts to figure out a contract extension with Wilson ahead of the 2026 campaign, Jeremy Fowler of ESPN reports.",
       "metadata": {
@@ -373,6 +477,26 @@
       "story_id": "nfl|10232|rotowire|636034|1788388738000",
       "title": "Michael Wilson - Potential extension looming?",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs running back Emmett Johnson is drawing praise from head coach Andy Reid for his work in pass protection. Reid said that Johnson's work in pass protection is one of the main reasons he's the RB2 right now, Charles Goldman reports. The rookie is playing so well that he beat out Emari Demercado for the backup role behind Kenneth Walker to begin the season. The expectation is that Johnson will serve as the change-of-pace back behind Walker. Johnson seems to be doing everything well and is one of the most important handcuffs in fantasy. The 22-year-old is well worth a look in the late rounds on draft day.",
+      "metadata": {
+        "description": "Kansas City Chiefs running back Emmett Johnson is drawing praise from head coach Andy Reid for his work in pass protection. Reid said that Johnson's work in pass protection is one of the main reasons he's the RB2 right now, Charles Goldman reports. The rookie is playing so well that he beat out Emari Demercado for the backup role behind Kenneth Walker to begin the season. The expectation is that Johnson will serve as the change-of-pace back behind Walker. Johnson seems to be doing everything well and is one of the most important handcuffs in fantasy. The 22-year-old is well worth a look in the late rounds on draft day.",
+        "title": "Emmett Johnson Earns Praise for his Pass Protection",
+        "topic_id": "1401065837435047936",
+        "url": "https://www.rotoballer.com/player-news/emmett-johnson-earns-praise-for-his-pass-protection/1922247"
+      },
+      "nfl_team": "KC",
+      "player_id": "13337",
+      "player_name": "Emmett Johnson",
+      "position": "RB",
+      "published": 1788387729000,
+      "source": "rotoballer",
+      "source_key": "219981",
+      "story_id": "nfl|13337|rotoballer|219981|1788387729000",
+      "title": "Emmett Johnson Earns Praise for his Pass Protection",
+      "url": "https://www.rotoballer.com/player-news/emmett-johnson-earns-praise-for-his-pass-protection/1922247"
     },
     {
       "analysis": "Coach Zac Taylor told Ben Baby of ESPN.com on Tuesday that Chase would be limited this week, but he \"feels good about\" the wide receiver after he hyperextended his left knee while attempting to gather in a deep ball at practice early last week. Just one day later, though, Chase didn't mix into any drills, and fellow WR Tee Higgins joined him on the sideline due to his own heel injury. The statuses of the Bengals' top options at the position thus are up in the air as Week 1 approaches.",
