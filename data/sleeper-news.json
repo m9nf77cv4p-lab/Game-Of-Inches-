@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-03T19:34:11Z",
+  "last_checked_at": "2026-09-03T19:44:29Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11560|rotowire|636186|1788463435000",
-    "nfl|13294|rotoballer|220026|1788448870000"
+    "nfl|11620|rotowire|636188|1788464150000",
+    "nfl|12529|rotoballer|220028|1788449710000",
+    "nfl|8146|rotoballer|220027|1788449530000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Odunze was able to play through listed ankle and heel injuries through Week 13 last season, but a stress fracture in his foot sidelined him Weeks 14-18 before he returned for Chicago's two postseason contests. In 14 appearances including playoffs, he posted a 48-749-6 line on 102 targets, recording 13 receptions of 20-plus yards along the way. As the ninth overall pick in the 2024 Draft, Odunze has a 51.3 percent catch rate (98 for 191) in his two-year career, but he's made up for it with 14.2 YPC. If the aforementioned foot injury is a thing of the past, Odunze will be a key target for QB Caleb Williams along with TE Colston Loveland and WR Luther Burden (groin).",
+      "description": "Coach Ben Johnson said Tuesday that Odunze has had no issues this summer with the foot injury that plagued him last season, Larry Mayer of the Bears' official site reports.",
+      "metadata": {
+        "analysis": "Odunze was able to play through listed ankle and heel injuries through Week 13 last season, but a stress fracture in his foot sidelined him Weeks 14-18 before he returned for Chicago's two postseason contests. In 14 appearances including playoffs, he posted a 48-749-6 line on 102 targets, recording 13 receptions of 20-plus yards along the way. As the ninth overall pick in the 2024 Draft, Odunze has a 51.3 percent catch rate (98 for 191) in his two-year career, but he's made up for it with 14.2 YPC. If the aforementioned foot injury is a thing of the past, Odunze will be a key target for QB Caleb Williams along with TE Colston Loveland and WR Luther Burden (groin).",
+        "description": "Coach Ben Johnson said Tuesday that Odunze has had no issues this summer with the foot injury that plagued him last season, Larry Mayer of the Bears' official site reports.",
+        "title": "Rome Odunze - Last year's foot injury behind him",
+        "topic_id": "1401324928497639424"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1788464150000,
+      "source": "rotowire",
+      "source_key": "636188",
+      "story_id": "nfl|11620|rotowire|636188|1788464150000",
+      "title": "Rome Odunze - Last year's foot injury behind him",
+      "url": null
+    },
     {
       "analysis": "Williams played just one possession during exhibition season, leading the Bears to a Cairo Santos field goal to kick off preseason Week 2 at Cincinnati. The performance (2-for-5 passing for 28 yards, no TDs and no interceptions) was nothing to write home about, but Williams is set to take another step forward in his development in 2026. There are two question marks within Chicago's skill positions as Week 1 approaches: RB Kyle Monangai is attempting to put a hyperextended knee behind him, while WR Luther Burden is continuing his recovery from an early August groin injury. Having said that, Williams still has the healthy trio of RB D'Andre Swift, WR Rome Odunze and TE Colston Loveland at his services, so the QB's first 4,000-yard season through the air may be on the horizon.",
       "description": "Coach Ben Johnson lauded Williams' approach Tuesday as the quarterback enters his third NFL campaign, Larry Mayer of the Bears' official site reports. \"He's executing at a much higher clip than he ever has, and I think it's going to continue to grow,\" Johnson said. \"He's going to continue to elevate everyone around him, coaches included.\"",
@@ -757,6 +778,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "New England Patriots running back TreVeyon Henderson (ankle) was missing from Thursday's practice due to an ongoing ankle injury that he suffered early last week, according to Evan Lazar of the team's official website. The Patriots have been saying that Henderson escaped a major injury, but after not practicing for the last 10 days, fantasy managers have to be wondering if the 23-year-old will be active for a Super Bowl rematch against the Seattle Seahawks next Wednesday night to kick off the 2026 regular season. The second-year back's ankle injury has caused Rhamondre Stevenson to jump ahead of him on most fantasy football draft boards as New England's RB1 to open the new season. After being taken in the second round in last year's draft out of Ohio State, Henderson had an impressive 911 rushing yards and nine touchdowns on 180 carries in 17 regular-season games, adding 35 receptions for 221 yards and one receiving TD. But Henderson was barely used in the playoff run to the Super Bowl, and he had not taken the next step in pass protection in training camp before his ankle injury. It will be hard to recommend Henderson as an RB3/flex play if he is active next Wednesday against a strong Seattle backfield, with the chance that he is limited from a workload perspective while sharing the backfield with Stevenson.",
+      "metadata": {
+        "description": "New England Patriots running back TreVeyon Henderson (ankle) was missing from Thursday's practice due to an ongoing ankle injury that he suffered early last week, according to Evan Lazar of the team's official website. The Patriots have been saying that Henderson escaped a major injury, but after not practicing for the last 10 days, fantasy managers have to be wondering if the 23-year-old will be active for a Super Bowl rematch against the Seattle Seahawks next Wednesday night to kick off the 2026 regular season. The second-year back's ankle injury has caused Rhamondre Stevenson to jump ahead of him on most fantasy football draft boards as New England's RB1 to open the new season. After being taken in the second round in last year's draft out of Ohio State, Henderson had an impressive 911 rushing yards and nine touchdowns on 180 carries in 17 regular-season games, adding 35 receptions for 221 yards and one receiving TD. But Henderson was barely used in the playoff run to the Super Bowl, and he had not taken the next step in pass protection in training camp before his ankle injury. It will be hard to recommend Henderson as an RB3/flex play if he is active next Wednesday against a strong Seattle backfield, with the chance that he is limited from a workload perspective while sharing the backfield with Stevenson.",
+        "title": "TreVeyon Henderson Missing From Thursday's Practice",
+        "topic_id": "1401324925351960576",
+        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-missing-from-thursdays-practice/1922706"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788449710000,
+      "source": "rotoballer",
+      "source_key": "220028",
+      "story_id": "nfl|12529|rotoballer|220028|1788449710000",
+      "title": "TreVeyon Henderson Missing From Thursday's Practice",
+      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-missing-from-thursdays-practice/1922706"
+    },
+    {
       "analysis": "Love is expected to eventually take on the lead role after being drafted third overall in the 2026 NFL Draft, but the rookie is likely to be eased in as he recovers from a preseason ankle injury, if he's cleared at all to suit up against the Chargers in Week 1 on Sept. 13. Allgeier has rushed for at least 514 yards in each of his four regular seasons, the last three of which were spent backing up Bijan Robinson, so the former Falcons running back figures to maintain some level of involvement even once Love is fully up to speed. James Conner (foot) is on IR with a designation to return, so Bam Knight is currently the only healthy alternative to Allgeier on the roster.",
       "description": "Allgeier is poised to begin the regular season splitting carries with Jeremiyah Love (ankle), whom Josh Weinfuss of ESPN.com reports is progressing well in his recovery and trending toward being available for Week 1.",
       "metadata": {
@@ -795,6 +836,26 @@
       "story_id": "nfl|9229|rotowire|636148|1788449645000",
       "title": "Anthony Richardson - Will open season as backup",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets wide receiver Garrett Wilson looks a lot easier to buy into after making it through the summer without any issues from the knee injury that derailed his 2025 season. Wilson played only seven games last year, finishing with 36 catches for 395 yards and four touchdowns on 59 targets after opening his career with three straight 1,000-yard seasons. This summer has looked much more normal. He practiced throughout camp, aside from one illness-related absence, and caught three passes for 42 yards across two preseason appearances. The connection with new quarterback Geno Smith showed up repeatedly in practice, including a five-for-five stretch when Smith targeted Wilson during team work on Aug. 7. Wilson is still the clear No. 1 receiver on New York's depth chart, even with Adonai Mitchell, Omar Cooper Jr. and a deeper group of pass catchers around him. RotoBaller has him at WR18 in its latest half-PPR rankings. After last year's lost season, a healthy Wilson looks like a solid WR2 with room to climb back toward the WR1 conversation.",
+      "metadata": {
+        "description": "New York Jets wide receiver Garrett Wilson looks a lot easier to buy into after making it through the summer without any issues from the knee injury that derailed his 2025 season. Wilson played only seven games last year, finishing with 36 catches for 395 yards and four touchdowns on 59 targets after opening his career with three straight 1,000-yard seasons. This summer has looked much more normal. He practiced throughout camp, aside from one illness-related absence, and caught three passes for 42 yards across two preseason appearances. The connection with new quarterback Geno Smith showed up repeatedly in practice, including a five-for-five stretch when Smith targeted Wilson during team work on Aug. 7. Wilson is still the clear No. 1 receiver on New York's depth chart, even with Adonai Mitchell, Omar Cooper Jr. and a deeper group of pass catchers around him. RotoBaller has him at WR18 in its latest half-PPR rankings. After last year's lost season, a healthy Wilson looks like a solid WR2 with room to climb back toward the WR1 conversation.",
+        "title": "Garrett Wilson's Stock Rebounds After Healthy Summer",
+        "topic_id": "1401323666997772288",
+        "url": "https://www.rotoballer.com/player-news/garrett-wilsons-stock-rebounds-after-healthy-summer/1922697"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8146",
+      "player_name": "Garrett Wilson",
+      "position": "WR",
+      "published": 1788449530000,
+      "source": "rotoballer",
+      "source_key": "220027",
+      "story_id": "nfl|8146|rotoballer|220027|1788449530000",
+      "title": "Garrett Wilson's Stock Rebounds After Healthy Summer",
+      "url": "https://www.rotoballer.com/player-news/garrett-wilsons-stock-rebounds-after-healthy-summer/1922697"
     },
     {
       "analysis": "Starters resting during the preseason has become customary for several teams around the league. Shaheed failed to gel with Sam Darnold after the wide receiver's midseason trade from the Saints, as he produced just 15 catches for 188 yards and no touchdowns across nine regular-season appearances with Seattle. However, the duo spent countless hours over the offseason working on their chemistry, and Shaheed was a standout player during training camp practices. He's locked in as the premier deep threat on the outside for the Seahawks this season and has generated steady buzz as a late-round fantasy pick and an ideal best-ball selection.",
