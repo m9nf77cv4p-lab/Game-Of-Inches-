@@ -3,14 +3,14 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1834**
-- Newly captured: **2**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — D'Andre Swift** — D'Andre Swift exits practice early Thursday  (2026-09-03T22:00:09.545000Z)
+- **D'Andre Swift** — D'Andre Swift exits practice early Thursday  (2026-09-03T22:00:09.545000Z)
   - Hammond notes that Swift came off the field apparently holding at his midsection or core area. This will remain a situation to monitor during practice next week. 
   - Source: https://www.fantasypros.com/nfl/news/605832/dandre-swift-exits-practice-early-thursday.php
-- **NEW — Rome Odunze** — Rome Odunze leaves practice early Thursday  (2026-09-03T22:00:09.528000Z)
+- **Rome Odunze** — Rome Odunze leaves practice early Thursday  (2026-09-03T22:00:09.528000Z)
   - Hammond notes that Odunze came up hobbling during an install period at the start of practice. He tried to return to practice, but trainers wouldn't let him. This will remain something to monitor into next week. 
   - Source: https://www.fantasypros.com/nfl/news/605833/rome-odunze-leaves-practice-early-thursday.php
 - **Rome Odunze** — Rome Odunze - Sustains apparent leg injury (2026-09-03T21:31:28Z)
@@ -59,6 +59,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Kamara was diagnosed with a sprained MCL a little over two weeks ago and was given a return timetable of "at least one month," according to Adam Schefter of ESPN, so it's not at all surprising to see the veteran running back still sidelined. The Saints will begin official Week 1 prep next week, and it would be somewhat shocking to see Kamara practice and be available for the season opener against the Lions. With Kendre Miller (undisclosed) also missing practice time, Audric Estime could be the backup to Travis Etienne against Detroit.
 - **Rico Dowdle** — Rico Dowdle - Splitting backfield with Warren (2026-09-03T18:19:37Z)
   - Despite Warren being the top incumbent running back in Pittsburgh, Graziano believes that Dowdle is a better bet to handle early downs out of the backfield, not only due to his experience working with new coach Mike McCarthy in Dallas but because of his combined 471 carries over the last two seasons. Both campaigns resulted in more than 1,000 yards on the ground for Dowdle, while Warren has topped out at 958 rushing yards (2025) in his four-year career. Warren does have the advantage in pass-catching chops, with 139 receptions over the last three years. As a result, both players are in line for weekly usage for the Steelers.
+- **NEW — D'Andre Swift** — D'Andre Swift Suffers Undisclosed Injury in Practice (2026-09-03T18:15:07Z)
+  - Source: https://www.rotoballer.com/player-news/dandre-swift-suffers-undisclosed-injury-in-practice/1922796
 - **Jaylen Warren** — Jaylen Warren - To share backfield with Dowdle (2026-09-03T18:12:11Z)
   - With Kenny Gainwell moving on to the Buccaneers in free agency, Warren is the top incumbent running back in Pittsburgh, but Dowdle has taken Gainwell's place. Dowdle's previous experience with new coach Mike McCarthy in Dallas could dampen Warren's early-down role somewhat, but according to Graziano, Warren should take on the bulk of the pass-catching work out of Pittsburgh's backfield, as evidenced by his 139 catches in 48 regular-season games over the last three campaigns. Overall, Warren handled a career-high 251 touches in 2025, while Dowdle is coming off back-to-back seasons with 274 (with the Cowboys) and 275 (in Carolina), so both should be busy on a weekly basis this fall.
 - **Terry McLaurin** — Terry McLaurin - Team's WR room comes into focus (2026-09-03T18:12:10Z)
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jalen-hurts-admits-he-grew-apart-from-former-receiver/1922526
 - **Justice Hill** — Justice Hill's Handcuff Value Gets a Boost (2026-09-03T11:35:39Z)
   - Source: https://www.rotoballer.com/player-news/justice-hills-handcuff-value-gets-a-boost/1922511
-- **A.J. Brown** — A.J. Brown's WR1 Ceiling Is Back in Play (2026-09-03T11:29:16Z)
-  - Source: https://www.rotoballer.com/player-news/a-j-browns-wr1-ceiling-is-back-in-play/1922507

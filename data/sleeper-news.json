@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-03T22:17:00Z",
+  "last_checked_at": "2026-09-03T22:29:56Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11620|fantasy_pros|605833|1788472809528",
-    "nfl|6790|fantasy_pros|605832|1788472809545"
+    "nfl|6790|rotoballer|220042|1788459307000"
   ],
   "schema_version": 1,
   "source": {
@@ -497,6 +496,26 @@
       "story_id": "nfl|7021|rotowire|636172|1788459577000",
       "title": "Rico Dowdle - Splitting backfield with Warren",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears running back D'Andre Swift (undisclosed) left on Thursday in the final stages of the Bears' padded practice and appeared to be in \"significant discomfort\" as he went inside the tent, according to Dan Wiederer of The Athletic. Sean Hammond of The Chicago Tribune reports that Swift exited toward the end of a full team period after carrying the ball on the offense's own one-yard line. He came off the field apparently holding his midsection or core area. Head coach Ben Johnson will not meet with the media again until next week, so we may not have many details on Swift's injury until the Bears release their first official practice report next Wednesday in preparations for Week 1 of the regular season. When fully healthy, Swift is the clear lead back for a Bears offense on the rise, giving him clear high-end RB2 potential in fantasy football leagues. However, his injury on Thursday will make him a bit of a question mark until we learn the extent of his injury. Backfield mate Kyle Monangai (knee) is also week-to-week with a hyperextended knee and may not be available for Week 1 against the Carolina Panthers, potentially thrusting Roschon Johnson into the lead-back role if Swift cannot play.",
+      "metadata": {
+        "description": "Chicago Bears running back D'Andre Swift (undisclosed) left on Thursday in the final stages of the Bears' padded practice and appeared to be in \"significant discomfort\" as he went inside the tent, according to Dan Wiederer of The Athletic. Sean Hammond of The Chicago Tribune reports that Swift exited toward the end of a full team period after carrying the ball on the offense's own one-yard line. He came off the field apparently holding his midsection or core area. Head coach Ben Johnson will not meet with the media again until next week, so we may not have many details on Swift's injury until the Bears release their first official practice report next Wednesday in preparations for Week 1 of the regular season. When fully healthy, Swift is the clear lead back for a Bears offense on the rise, giving him clear high-end RB2 potential in fantasy football leagues. However, his injury on Thursday will make him a bit of a question mark until we learn the extent of his injury. Backfield mate Kyle Monangai (knee) is also week-to-week with a hyperextended knee and may not be available for Week 1 against the Carolina Panthers, potentially thrusting Roschon Johnson into the lead-back role if Swift cannot play.",
+        "title": "D'Andre Swift Suffers Undisclosed Injury in Practice",
+        "topic_id": "1401365196240347136",
+        "url": "https://www.rotoballer.com/player-news/dandre-swift-suffers-undisclosed-injury-in-practice/1922796"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1788459307000,
+      "source": "rotoballer",
+      "source_key": "220042",
+      "story_id": "nfl|6790|rotoballer|220042|1788459307000",
+      "title": "D'Andre Swift Suffers Undisclosed Injury in Practice",
+      "url": "https://www.rotoballer.com/player-news/dandre-swift-suffers-undisclosed-injury-in-practice/1922796"
     },
     {
       "analysis": "With Kenny Gainwell moving on to the Buccaneers in free agency, Warren is the top incumbent running back in Pittsburgh, but Dowdle has taken Gainwell's place. Dowdle's previous experience with new coach Mike McCarthy in Dallas could dampen Warren's early-down role somewhat, but according to Graziano, Warren should take on the bulk of the pass-catching work out of Pittsburgh's backfield, as evidenced by his 139 catches in 48 regular-season games over the last three campaigns. Overall, Warren handled a career-high 251 touches in 2025, while Dowdle is coming off back-to-back seasons with 274 (with the Cowboys) and 275 (in Carolina), so both should be busy on a weekly basis this fall.",
@@ -36841,26 +36860,6 @@
       "story_id": "nfl|11597|rotoballer|218000|1785884945000",
       "title": "Theo Johnson a Buy-Low Target in Dynasty Formats",
       "url": "https://www.rotoballer.com/player-news/theo-johnson-a-buy-low-target-in-dynasty-formats/1903164"
-    },
-    {
-      "analysis": null,
-      "description": "Cincinnati Bengals wide receiver Andrei Iosivas has spent his three-year career with the Bengals and, through three seasons, has yet to top 500 yards in a single season. Iosivas was a sixth-round pick in the 2023 NFL draft, and while he has 12 touchdowns over the past three years, he simply isn't involved in the offensive game plan behind superstar Ja'Marr Chase, standout receiver Tee Higgins, and running back Chase Brown in this Joe Burrow-led offense. In 2025, he had a 9.6 percent target share (89th among WRs), a 77.7 percent route participation (50th among WRs), and 40 first-read targets (65th among WRs). Because of that, his productivity and efficiency followed suit, ranking 96th in targets per route run and 93rd in first downs per route run. The only value Iosivas has is if Chase or Higgins were to miss any time. Fantasy managers will want to fade the 26-year-old receiver in their upcoming drafts in both dynasty and redraft formats.",
-      "metadata": {
-        "description": "Cincinnati Bengals wide receiver Andrei Iosivas has spent his three-year career with the Bengals and, through three seasons, has yet to top 500 yards in a single season. Iosivas was a sixth-round pick in the 2023 NFL draft, and while he has 12 touchdowns over the past three years, he simply isn't involved in the offensive game plan behind superstar Ja'Marr Chase, standout receiver Tee Higgins, and running back Chase Brown in this Joe Burrow-led offense. In 2025, he had a 9.6 percent target share (89th among WRs), a 77.7 percent route participation (50th among WRs), and 40 first-read targets (65th among WRs). Because of that, his productivity and efficiency followed suit, ranking 96th in targets per route run and 93rd in first downs per route run. The only value Iosivas has is if Chase or Higgins were to miss any time. Fantasy managers will want to fade the 26-year-old receiver in their upcoming drafts in both dynasty and redraft formats.",
-        "title": "Andrei Iosivas Projects as the Bengals No. 3 Wide Receiver",
-        "topic_id": "1390557738035089409",
-        "url": "https://www.rotoballer.com/player-news/andrei-iosivas-projects-as-the-bengals-no-3-wide-receiver-not-a-good-dynasty-or-redraft-target/1903144"
-      },
-      "nfl_team": "CIN",
-      "player_id": "10226",
-      "player_name": "Andrei Iosivas",
-      "position": "WR",
-      "published": 1785882489000,
-      "source": "rotoballer",
-      "source_key": "217997",
-      "story_id": "nfl|10226|rotoballer|217997|1785882489000",
-      "title": "Andrei Iosivas Projects as the Bengals No. 3 Wide Receiver",
-      "url": "https://www.rotoballer.com/player-news/andrei-iosivas-projects-as-the-bengals-no-3-wide-receiver-not-a-good-dynasty-or-redraft-target/1903144"
     }
   ]
 }
