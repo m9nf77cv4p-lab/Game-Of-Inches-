@@ -1,13 +1,11 @@
 {
-  "last_checked_at": "2026-09-03T17:42:39Z",
+  "last_checked_at": "2026-09-03T17:54:10Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11564|rotoballer|220014|1788442029000",
-    "nfl|12489|rotowire|636163|1788456332000",
-    "nfl|7526|rotowire|636165|1788456959000",
-    "nfl|8111|rotoballer|220015|1788442628000",
-    "nfl|8146|rotowire|636164|1788456517000"
+    "nfl|12481|rotowire|636166|1788457147000",
+    "nfl|4984|rotoballer|220016|1788443289000",
+    "nfl|8167|rotowire|636167|1788457318000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +15,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Watson sits atop a wide receiver depth chart that also includes Jayden Reed, Matthew Golden, Bo Melton, Skyy Moore and J. Michael Sturdivant. Savion Williams (ankle) is on IR with a designation to return, so he could be eligible to play starting in Week 5. Watson failed to exceed 620 receiving yards in any of his previous four regular seasons while being plagued by injuries, but he's expected to lead Green Bay's wide receiver room as long as he's healthy.",
+      "description": "Watson is one of six wide receivers on the Packers' initial 53-man roster, per Wes Hodkiewicz of the team's official site.",
+      "metadata": {
+        "analysis": "Watson sits atop a wide receiver depth chart that also includes Jayden Reed, Matthew Golden, Bo Melton, Skyy Moore and J. Michael Sturdivant. Savion Williams (ankle) is on IR with a designation to return, so he could be eligible to play starting in Week 5. Watson failed to exceed 620 receiving yards in any of his previous four regular seasons while being plagued by injuries, but he's expected to lead Green Bay's wide receiver room as long as he's healthy.",
+        "description": "Watson is one of six wide receivers on the Packers' initial 53-man roster, per Wes Hodkiewicz of the team's official site.",
+        "title": "Christian Watson - Set to reprise key role in Packers WR room",
+        "topic_id": "1401295984339767296"
+      },
+      "nfl_team": "GB",
+      "player_id": "8167",
+      "player_name": "Christian Watson",
+      "position": "WR",
+      "published": 1788457318000,
+      "source": "rotowire",
+      "source_key": "636167",
+      "story_id": "nfl|8167|rotowire|636167|1788457318000",
+      "title": "Christian Watson - Set to reprise key role in Packers WR room",
+      "url": null
+    },
+    {
+      "analysis": "Skattebo told Kay Adams that coming out of college, he had determined that if he ever suffered a major injury, he would step away from football. However, after dislocating his right ankle just eight games into his rookie season, Skattebo determined that he still had too much good football left in him to justify an early retirement. Skattebo underwent surgery a day after suffering the injury and has bounced back well, as the Giants cleared him to take part in drills during June minicamp and made him available with no restrictions to begin training camp. After carrying four times for 19 yards in the Giants' preseason opener, Skattebo didn't play in either of the final two exhibitions, but he was held out merely as precaution. Skattebo is still likely to have his workload scaled back to some degree to begin the 2026 campaign after averaging 19.5 touches per game from Weeks 2 through 7 last season, but he'll head into the Sept. 13 opener versus the Cowboys as the Giants' clear lead option out of the backfield.",
+      "description": "Skattebo admitted Thursday in an appearance on FanDuel TV's \"Up &amp; Adams\" that he briefly considered retirement after sustaining a severe right ankle injury in an Oct. 26 loss to the Eagles. \"I would say probably a month in [to the rehab process] I was kind of like, 'Do I really want to do this?'\" Skattebo said. \"But I got to go back and play.\"",
+      "metadata": {
+        "analysis": "Skattebo told Kay Adams that coming out of college, he had determined that if he ever suffered a major injury, he would step away from football. However, after dislocating his right ankle just eight games into his rookie season, Skattebo determined that he still had too much good football left in him to justify an early retirement. Skattebo underwent surgery a day after suffering the injury and has bounced back well, as the Giants cleared him to take part in drills during June minicamp and made him available with no restrictions to begin training camp. After carrying four times for 19 yards in the Giants' preseason opener, Skattebo didn't play in either of the final two exhibitions, but he was held out merely as precaution. Skattebo is still likely to have his workload scaled back to some degree to begin the 2026 campaign after averaging 19.5 touches per game from Weeks 2 through 7 last season, but he'll head into the Sept. 13 opener versus the Cowboys as the Giants' clear lead option out of the backfield.",
+        "description": "Skattebo admitted Thursday in an appearance on FanDuel TV's \"Up &amp; Adams\" that he briefly considered retirement after sustaining a severe right ankle injury in an Oct. 26 loss to the Eagles. \"I would say probably a month in [to the rehab process] I was kind of like, 'Do I really want to do this?'\" Skattebo said. \"But I got to go back and play.\"",
+        "title": "Cam Skattebo - Briefly weighed retirement after injury",
+        "topic_id": "1401295984335572992"
+      },
+      "nfl_team": "NYG",
+      "player_id": "12481",
+      "player_name": "Cam Skattebo",
+      "position": "RB",
+      "published": 1788457147000,
+      "source": "rotowire",
+      "source_key": "636166",
+      "story_id": "nfl|12481|rotowire|636166|1788457147000",
+      "title": "Cam Skattebo - Briefly weighed retirement after injury",
+      "url": null
+    },
     {
       "analysis": "\"He's going to play everywhere,\" Webb said. \"He's really really good. He's going to play everywhere. Except offensive line.\" Coach Sean Payton has been moving Waddle all over the formation during training camp, and he recently beat Patrick Surtain for a 60-yard touchdown in practice. Payton added that Waddle \"walks on water\" with his traits. Acquired from the Dolphins over the offseason, Waddle missed some time early in camp with tightness. He's looking like a potential home run pick in the third and fourth rounds of fantasy drafts. Waddle is expected to be the engine of the Denver offense.",
       "description": "Broncos OC Davis Webb said Aug. 25 that Waddle is \"going to play everywhere\" on offense this season, Zac Stevens of TheDNVR.com reports.",
@@ -640,6 +678,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Buffalo Bills quarterback Josh Allen has finished no lower than the QB2 in six consecutive seasons, making a strong claim to the greatest fantasy quarterback of all time while racking up four overall QB1 finishes over that span. With the addition of wide receiver DJ Moore and the potential return to health of tight end Dalton Kincaid, Allen could find himself leading one of Buffalo's most complete offenses in years, creating the possibility of another 4,000-yard passing campaign after falling short of that mark in each of the past two seasons. With one of the safest rushing floors the league has ever known and the potential of a vintage passing ceiling, it should come as no surprise that Allen ranks as RotoBaller's QB1 and stands alone as the only player at the position routinely going in the first two rounds of 2026 single-quarterback drafts.",
+      "metadata": {
+        "description": "Buffalo Bills quarterback Josh Allen has finished no lower than the QB2 in six consecutive seasons, making a strong claim to the greatest fantasy quarterback of all time while racking up four overall QB1 finishes over that span. With the addition of wide receiver DJ Moore and the potential return to health of tight end Dalton Kincaid, Allen could find himself leading one of Buffalo's most complete offenses in years, creating the possibility of another 4,000-yard passing campaign after falling short of that mark in each of the past two seasons. With one of the safest rushing floors the league has ever known and the potential of a vintage passing ceiling, it should come as no surprise that Allen ranks as RotoBaller's QB1 and stands alone as the only player at the position routinely going in the first two rounds of 2026 single-quarterback drafts.",
+        "title": "An Improved Surrounding Cast Only Strengthens Josh Allen's QB1 Case for 2026",
+        "topic_id": "1401297240319885312",
+        "url": "https://www.rotoballer.com/player-news/an-improved-surrounding-cast-only-strengthens-josh-allens-qb1-case-for-2026/1922609"
+      },
+      "nfl_team": "BUF",
+      "player_id": "4984",
+      "player_name": "Josh Allen",
+      "position": "QB",
+      "published": 1788443289000,
+      "source": "rotoballer",
+      "source_key": "220016",
+      "story_id": "nfl|4984|rotoballer|220016|1788443289000",
+      "title": "An Improved Surrounding Cast Only Strengthens Josh Allen's QB1 Case for 2026",
+      "url": "https://www.rotoballer.com/player-news/an-improved-surrounding-cast-only-strengthens-josh-allens-qb1-case-for-2026/1922609"
+    },
+    {
       "analysis": "Though he didn't play at all in the preseason while the Saints instead opened up more reps for backups Spencer Rattler and Zach Wilson, Shough reportedly looked sharp throughout training camp while keeping the New Orleans offense productive. He was able to close out camp on a high note by tossing three touchdown passes during 11-on-11 sessions, and Shough would have had two more had Devaughn Vele secured a one-handed catch in the end zone and had Chris Olave not fumbled near the goal line on another play. New Orleans will be without one of its key playmakers to begin the season in rookie first-round wideout Jordyn Tyson (hamstring), but Shough appeared to build good chemistry with new starting running back Travis Etienne, who was a frequent target of the quarterback during camp practices.",
       "description": "Shough drew positive reviews for his performance during the Saints' final practice of training camp Aug. 26, Grant Chachere of SI.com reports.",
       "metadata": {
@@ -664,7 +722,7 @@
       "description": "Tampa Bay Buccaneers tight end Cade Otton has rarely flashed for fantasy since coming into the league as a fourth-round pick in 2022, but he has reliably done what's been asked of him, and with the Buccaneers opening the season with a receiver room at less than full strength, he could again be asked to step up. Emeka Egbuka (toe) and Jalen McMillan (knee) have both been dealing with lingering injuries, putting their Week 1 availability in question. Even if both should suit up for the Buccaneers' season-opener against the Bengals, they could each face a snap count of sorts, providing Otton with a pathway to heavier involvement and an increased target share. Cracking the top 15 of the position four times in 2025, Otton has become a prototypical streamer, and although he ranks as RotoBaller's TE24 for 2026, he has the opportunity to re-enter that conversation straight out of the gate, making him a potentially usable piece early in the year.",
       "metadata": {
         "description": "Tampa Bay Buccaneers tight end Cade Otton has rarely flashed for fantasy since coming into the league as a fourth-round pick in 2022, but he has reliably done what's been asked of him, and with the Buccaneers opening the season with a receiver room at less than full strength, he could again be asked to step up. Emeka Egbuka (toe) and Jalen McMillan (knee) have both been dealing with lingering injuries, putting their Week 1 availability in question. Even if both should suit up for the Buccaneers' season-opener against the Bengals, they could each face a snap count of sorts, providing Otton with a pathway to heavier involvement and an increased target share. Cracking the top 15 of the position four times in 2025, Otton has become a prototypical streamer, and although he ranks as RotoBaller's TE24 for 2026, he has the opportunity to re-enter that conversation straight out of the gate, making him a potentially usable piece early in the year.",
-        "title": "Cade Otton a Potential Early-Season Streamer Amid Buccaneers' Wide Receiver Concerns",
+        "title": "Cade Otton a Potential Early-Season Streamer",
         "topic_id": "1401294723511017472",
         "url": "https://www.rotoballer.com/player-news/cade-otton-a-potential-early-season-streamer-amid-buccaneers-wide-receiver-concerns/1922606"
       },
@@ -676,7 +734,7 @@
       "source": "rotoballer",
       "source_key": "220015",
       "story_id": "nfl|8111|rotoballer|220015|1788442628000",
-      "title": "Cade Otton a Potential Early-Season Streamer Amid Buccaneers' Wide Receiver Concerns",
+      "title": "Cade Otton a Potential Early-Season Streamer",
       "url": "https://www.rotoballer.com/player-news/cade-otton-a-potential-early-season-streamer-amid-buccaneers-wide-receiver-concerns/1922606"
     },
     {
