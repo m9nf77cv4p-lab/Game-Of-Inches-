@@ -1,17 +1,10 @@
 {
-  "last_checked_at": "2026-09-03T15:47:20Z",
+  "last_checked_at": "2026-09-03T15:57:51Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4981|rotowire|636151|1788450129000",
-    "nfl|5859|rotoballer|220003|1788434956000",
-    "nfl|5995|rotoballer|220004|1788435339000",
-    "nfl|6904|rotoballer|220005|1788435549000",
-    "nfl|7002|rotowire|636150|1788449787000",
-    "nfl|8132|rotowire|636149|1788449691000",
-    "nfl|9225|rotowire|636152|1788450187000",
-    "nfl|9229|fantasy_pros|605770|1788450306712",
-    "nfl|9229|rotowire|636148|1788449645000"
+    "nfl|12507|rotoballer|220006|1788435966000",
+    "nfl|6770|rotowire|636153|1788450674000"
   ],
   "schema_version": 1,
   "source": {
@@ -21,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "\"We're going to have a really good team that has a chance to win every game that we step foot on the field for,\" Burrow said. \"We brought in a lot of the right guys, a lot of the right people with the right mindsets to go and chase this goal of winning a Super Bowl.\" Cincinnati's offseason additions focused primarily on fixing a defense that allowed 28.9 points per game during the 2025 regular season, which was third-most in the NFL. Burrow and the offense are poised for another productive campaign if the star QB can stay healthy after being limited to eight appearances last season due to a toe injury. Starting wide receivers Chase and Tee Higgins (heel), as well as running back Chase Brown, are all reprising their roles alongside Burrow to provide continuity on offense.",
+      "description": "Burrow said on teammate Ja'Marr Chase's (knee) podcast that the quarterback has high hopes for the Bengals in 2026 after the team's offseason personnel changes, Kevin Patra of NFL.com reports Thursday.",
+      "metadata": {
+        "analysis": "\"We're going to have a really good team that has a chance to win every game that we step foot on the field for,\" Burrow said. \"We brought in a lot of the right guys, a lot of the right people with the right mindsets to go and chase this goal of winning a Super Bowl.\" Cincinnati's offseason additions focused primarily on fixing a defense that allowed 28.9 points per game during the 2025 regular season, which was third-most in the NFL. Burrow and the offense are poised for another productive campaign if the star QB can stay healthy after being limited to eight appearances last season due to a toe injury. Starting wide receivers Chase and Tee Higgins (heel), as well as running back Chase Brown, are all reprising their roles alongside Burrow to provide continuity on offense.",
+        "description": "Burrow said on teammate Ja'Marr Chase's (knee) podcast that the quarterback has high hopes for the Bengals in 2026 after the team's offseason personnel changes, Kevin Patra of NFL.com reports Thursday.",
+        "title": "Joe Burrow - Optimistic heading into 2026",
+        "topic_id": "1401268299387392000"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6770",
+      "player_name": "Joe Burrow",
+      "position": "QB",
+      "published": 1788450674000,
+      "source": "rotowire",
+      "source_key": "636153",
+      "story_id": "nfl|6770|rotowire|636153|1788450674000",
+      "title": "Joe Burrow - Optimistic heading into 2026",
+      "url": null
+    },
     {
       "analysis": "There have been multiple rumors that Richardson might be traded at some point. Some reports have suggested that he may lose out to Riley Leonard for the Colts' backup QB role. Head coach Shane Steichen has put all that to rest, at least for now, making clear Tuesday that Richardson is indeed the top backup to starter Daniel Jones. ",
       "description": "Anthony Richardson Sr. will be the Colts' No. 2 quarterback going into the season. ",
@@ -421,6 +434,26 @@
       "story_id": "nfl|11559|rotowire|636134|1788441796000",
       "title": "Michael Penix - Will start 'eventually,' if not Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers running back Omarion Hampton enters Year 2 with a setup that looks a lot friendlier than the one he had as a rookie. Hampton was limited to nine games by ankle injuries in 2025, but still rushed for 545 yards and four touchdowns while catching 32 passes for 192 yards and another score. Mike McDaniel is now running the offense, and Hampton spent camp looking like a natural fit. He was one of the standouts in the joint practice with San Francisco, running through defenders and earning praise from Justin Herbert. The line is not completely worry-free after Tyler Biadasz suffered a season-ending ACL injury, but Rashawn Slater and Joe Alt are both back in the starting group after missing major time last year. Hampton also sits first on the depth chart ahead of Keaton Mitchell and Kimani Vidal. RotoBaller has pushed him all the way to RB6 and No. 11 overall in its Sept. 2 half-PPR rankings. If he stays healthy, the breakout case is getting harder to ignore.",
+      "metadata": {
+        "description": "Los Angeles Chargers running back Omarion Hampton enters Year 2 with a setup that looks a lot friendlier than the one he had as a rookie. Hampton was limited to nine games by ankle injuries in 2025, but still rushed for 545 yards and four touchdowns while catching 32 passes for 192 yards and another score. Mike McDaniel is now running the offense, and Hampton spent camp looking like a natural fit. He was one of the standouts in the joint practice with San Francisco, running through defenders and earning praise from Justin Herbert. The line is not completely worry-free after Tyler Biadasz suffered a season-ending ACL injury, but Rashawn Slater and Joe Alt are both back in the starting group after missing major time last year. Hampton also sits first on the depth chart ahead of Keaton Mitchell and Kimani Vidal. RotoBaller has pushed him all the way to RB6 and No. 11 overall in its Sept. 2 half-PPR rankings. If he stays healthy, the breakout case is getting harder to ignore.",
+        "title": "Omarion Hampton Set Up for Year 2 Breakout",
+        "topic_id": "1401267037837271040",
+        "url": "https://www.rotoballer.com/player-news/omarion-hampton-set-up-for-year-2-breakout/1922532"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12507",
+      "player_name": "Omarion Hampton",
+      "position": "RB",
+      "published": 1788435966000,
+      "source": "rotoballer",
+      "source_key": "220006",
+      "story_id": "nfl|12507|rotoballer|220006|1788435966000",
+      "title": "Omarion Hampton Set Up for Year 2 Breakout",
+      "url": "https://www.rotoballer.com/player-news/omarion-hampton-set-up-for-year-2-breakout/1922532"
     },
     {
       "analysis": null,

@@ -2,23 +2,25 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1758**
-- Newly captured: **9**
+- Stored stories: **1760**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Anthony Richardson** — Anthony Richardson Sr. will be backup QB for Colts (2026-09-03T15:45:06.712000Z)
+- **NEW — Joe Burrow** — Joe Burrow - Optimistic heading into 2026 (2026-09-03T15:51:14Z)
+  - "We're going to have a really good team that has a chance to win every game that we step foot on the field for," Burrow said. "We brought in a lot of the right guys, a lot of the right people with the right mindsets to go and chase this goal of winning a Super Bowl." Cincinnati's offseason additions focused primarily on fixing a defense that allowed 28.9 points per game during the 2025 regular season, which was third-most in the NFL. Burrow and the offense are poised for another productive campaign if the star QB can stay healthy after being limited to eight appearances last season due to a toe injury. Starting wide receivers Chase and Tee Higgins (heel), as well as running back Chase Brown, are all reprising their roles alongside Burrow to provide continuity on offense.
+- **Anthony Richardson** — Anthony Richardson Sr. will be backup QB for Colts (2026-09-03T15:45:06.712000Z)
   - There have been multiple rumors that Richardson might be traded at some point. Some reports have suggested that he may lose out to Riley Leonard for the Colts' backup QB role. Head coach Shane Steichen has put all that to rest, at least for now, making clear Tuesday that Richardson is indeed the top backup to starter Daniel Jones. 
   - Source: https://www.fantasypros.com/nfl/news/605770/anthony-richardson-sr-will-be-backup-qb-colts.php
-- **NEW — Tank Bigsby** — Tank Bigsby - Plays 10 preseason snaps (2026-09-03T15:43:07Z)
+- **Tank Bigsby** — Tank Bigsby - Plays 10 preseason snaps (2026-09-03T15:43:07Z)
   - The fact he was rested for Weeks 2 and 3 of the preseason while Will Shipley played would suggest Bigsby has a firm grip on RB2 duties in Philadelphia behind Saquon Barkley. Barkley is entering his age-29 season with plenty of miles on his proverbial tires, and there's been talk out of Philly that the team wants to get Bigsby more involved to keep Barkley fresh. If something were to happen to him injury-wise, Bigsby would immediately enter the fantasy RB1 conversation in the Eagles' run-heavy offense that features one of the league's best offensive lines, making him the premier bench stash headed into the 2026 campaign.
-- **NEW — Calvin Ridley** — Calvin Ridley - Experienced option in young WR room (2026-09-03T15:42:09Z)
+- **Calvin Ridley** — Calvin Ridley - Experienced option in young WR room (2026-09-03T15:42:09Z)
   - Tennessee heads into the season with Carnell Tate (undisclosed), Wan'Dale Robinson (head), Ridley, Chimere Dike and Elic Ayomanor at wide receiver. Of those five players, only Robinson and Ridley have more than one year of NFL experience. Ridley was the team's No. 1 receiver in the early part of last season but finished the year with just 303 receiving yards in seven games, as he missed time due to a hamstring injury and then fractured his fibula. Having recovered from those injuries, the 31-year-old Ridley is in contention for a starting role on the outside opposite Tate, with Robinson likely to work primarily out of the slot.
-- **NEW — Juwan Johnson** — Juwan Johnson - Doesn't play during preseason (2026-09-03T15:36:27Z)
+- **Juwan Johnson** — Juwan Johnson - Doesn't play during preseason (2026-09-03T15:36:27Z)
   - Johnson is locked in atop the depth chart at tight end for New Orleans, and with Jordyn Tyson (hamstring) set to miss at least the first four games of the season and no clear WR2 on the roster, Johnson could have a significant pass-catching role out of the gates. Tyler Shough has already predicted a big season for his former college teammate after Johnson was fantasy's overall TE5 in yards per game and TE8 in catches per game following last season's Rashid Shaheed trade ahead of Week 10. Turning 30 years old Sept. 13, Johnson is coming off a 77-889-3 campaign on 102 targets last season.
-- **NEW — Tyler Allgeier** — Tyler Allgeier - Could have prominent role early (2026-09-03T15:34:51Z)
+- **Tyler Allgeier** — Tyler Allgeier - Could have prominent role early (2026-09-03T15:34:51Z)
   - Love is expected to eventually take on the lead role after being drafted third overall in the 2026 NFL Draft, but the rookie is likely to be eased in as he recovers from a preseason ankle injury, if he's cleared at all to suit up against the Chargers in Week 1 on Sept. 13. Allgeier has rushed for at least 514 yards in each of his four regular seasons, the last three of which were spent backing up Bijan Robinson, so the former Falcons running back figures to maintain some level of involvement even once Love is fully up to speed. James Conner (foot) is on IR with a designation to return, so Bam Knight is currently the only healthy alternative to Allgeier on the roster.
-- **NEW — Anthony Richardson** — Anthony Richardson - Will open season as backup (2026-09-03T15:34:05Z)
+- **Anthony Richardson** — Anthony Richardson - Will open season as backup (2026-09-03T15:34:05Z)
   - GM Chris Ballard confirmed Tuesday that Richardson -- who requested a trade over the offseason -- would remain with the Colts for the season, and head coach Shane Steichen revealed Thursday that Richardson beat out Riley Leonard for the backup job behind starter Daniel Jones.
 - **Rashid Shaheed** — Rashid Shaheed - No preseason action (2026-09-03T15:28:21Z)
   - Starters resting during the preseason has become customary for several teams around the league. Shaheed failed to gel with Sam Darnold after the wide receiver's midseason trade from the Saints, as he produced just 15 catches for 188 yards and no touchdowns across nine regular-season appearances with Seattle. However, the duo spent countless hours over the offseason working on their chemistry, and Shaheed was a standout player during training camp practices. He's locked in as the premier deep threat on the outside for the Seahawks this season and has generated steady buzz as a late-round fantasy pick and an ideal best-ball selection.
@@ -48,11 +50,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.
 - **Michael Penix** — Michael Penix - Will start 'eventually,' if not Week 1 (2026-09-03T13:23:16Z)
   - Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.
-- **NEW — Jalen Hurts** — Jalen Hurts Admits he Grew Apart From Former Receiver (2026-09-03T11:39:09Z)
+- **NEW — Omarion Hampton** — Omarion Hampton Set Up for Year 2 Breakout (2026-09-03T11:46:06Z)
+  - Source: https://www.rotoballer.com/player-news/omarion-hampton-set-up-for-year-2-breakout/1922532
+- **Jalen Hurts** — Jalen Hurts Admits he Grew Apart From Former Receiver (2026-09-03T11:39:09Z)
   - Source: https://www.rotoballer.com/player-news/jalen-hurts-admits-he-grew-apart-from-former-receiver/1922526
-- **NEW — Justice Hill** — Justice Hill's Handcuff Value Gets a Boost (2026-09-03T11:35:39Z)
+- **Justice Hill** — Justice Hill's Handcuff Value Gets a Boost (2026-09-03T11:35:39Z)
   - Source: https://www.rotoballer.com/player-news/justice-hills-handcuff-value-gets-a-boost/1922511
-- **NEW — A.J. Brown** — A.J. Brown's WR1 Ceiling Is Back in Play (2026-09-03T11:29:16Z)
+- **A.J. Brown** — A.J. Brown's WR1 Ceiling Is Back in Play (2026-09-03T11:29:16Z)
   - Source: https://www.rotoballer.com/player-news/a-j-browns-wr1-ceiling-is-back-in-play/1922507
 - **James Cook** — James Cook III Set For More Passing Work To Reduce Rushing Workload (2026-09-03T10:59:08Z)
   - Source: https://www.rotoballer.com/player-news/james-cook-iii-set-for-more-passing-work-to-reduce-rushing-workload/1922466
@@ -211,7 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605604/kirk-cousins-named-raiders-week-1-starter.php
 - **Ashton Jeanty** — Ashton Jeanty - Optimism for Week 1 (2026-09-02T16:45:01Z)
   - Jeanty hasn't practiced this week after suffering what is believed to be a low-ankle sprain back on Aug. 23, but the running back has been working off to the side with trainers in an effort to get ready for the start of the regular season. Once the Raiders are required to release true injury reports next week, there will be a better idea of Jeanty's availability for the regular-season opener. Mike Washington and Dylan Laube are next up for carries if Jeanty is unable to play against Miami.
-- **Kirk Cousins** — Kirk Cousins - Named starting quarterback (2026-09-02T16:41:17Z)
-  - It was a decision everyone expected and comes as no surprise after Cousins worked with the first-team offense all offseason. Cousins played 30 offensive snaps during the preseason and completed 13 of 17 pass attempts for 101 yards and one touchdown, while rookie No. 1 overall pick Fernando Mendoza was more scattershot, completing just 26 of 46 passes for 250 yards, one touchdown and a pair of picks. Cousins should have a somewhat long leash to begin the season, but Mendoza remains very likely to see rookie-year playing time.
-- **Adonai Mitchell** — Adonai Mitchell's Stock Rising Following Standout Summer (2026-09-02T16:29:08Z)
-  - Source: https://www.rotoballer.com/player-news/adonai-mitchells-stock-rising-following-standout-summer/1922084
