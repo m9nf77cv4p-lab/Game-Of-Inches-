@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1829**
-- Newly captured: **0**
+- Stored stories: **1830**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -69,6 +69,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Along with veteran J.K. Dobbins and rookie fourth-round pick Jonah Coleman, Harvey was rested in the Broncos' 34-6 win over the Vikings in the preseason finale Friday, which seemingly indicates that Payton intends for all three players to have roles in the game plan Week 1 against the Chiefs. After managing a soft-tissue issue in training camp, Dobbins is back to full health and is slated to begin the season as the Broncos' starter and lead runner, while the 5-foot-8, 220-pound Coleman is also likely to get some work on early downs. That leaves Harvey in line to serve as more of a change-of-pace option, which could make it difficult for him to build on the seven rushing scores he delivered as a rookie last season. Harvey averaged an unremarkable 3.7 yards per carry but proved to be an adept receiver right away, turning in a 47-356-5 line on 58 targets. He'll maintain more appeal in fantasy leagues with PPR scoring, though Harvey could emerge as more trustworthy option in non-PPR formats if he earned more carries in the event Dobbins and/or Coleman miss time at any point.
 - **Michael Wilson** — Michael Wilson - Lands three-year extension (2026-09-03T17:00:27Z)
   - The sides squeezed this deal in before the start of the regular season, as Wilson had been set to enter the final year of his rookie deal. Selected in the third round of the 2023 Draft, Wilson had a true breakout season in 2025, as he operated as the Cardinals' WR1 most weeks while Marvin Harrison battled injuries throughout the campaign. Wilson responded with three 100-yard receiving games over the final eight weeks of the season and finished the year with 78 catches for 1,006 yards and seven touchdowns. Six of his seven scores came in the final five contests. Harrison is back healthy this season, but Wilson figures to remain a prominent piece of a passing offense that also includes All-Pro tight end Trey McBride.
+- **NEW — Troy Franklin** — Troy Franklin Could Be Facing a Reduced Role in Crowded Broncos Wide Receiver Room (2026-09-03T16:58:09Z)
+  - Source: https://www.rotoballer.com/player-news/troy-franklin-could-be-facing-a-reduced-role-in-crowded-broncos-wide-receiver-room/1922774
 - **Michael Wilson** — Michael Wilson agrees to three year, $75 million deal with Cardinals  (2026-09-03T16:55:07.772000Z)
   - Wilson was about to be playing on the final year of his rookie contract, but will now see himself attached to the team for the long haul. It will be interesting to see how his role changes, if at all, under a new coaching stafff and with Marvin Harrison Jr. back in the fold.
   - Source: https://www.fantasypros.com/nfl/news/605781/michael-wilson-agrees-to-three-year-deal-with-cardinals.php
@@ -209,5 +211,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/romeo-doubs-set-to-be-no-2-receiver-in-new-england/1922439
 - **Mike Washington** — Mike Washington Jr. "Is Going to be a Thing in Fantasy Football" (2026-09-03T10:16:09Z)
   - Source: https://www.rotoballer.com/player-news/mike-washington-is-going-to-be-a-thing-in-fantasy-football/1922424
-- **Quinshon Judkins** — Quinshon Judkins Expected to Have High-Volume Role for Browns (2026-09-03T10:12:09Z)
-  - Source: https://www.rotoballer.com/player-news/quinshon-judkins-expected-to-have-high-volume-role-for-browns/1922423

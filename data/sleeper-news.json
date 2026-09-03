@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-03T20:57:02Z",
+  "last_checked_at": "2026-09-03T21:13:18Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11627|rotoballer|220040|1788454689000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -612,6 +614,26 @@
       "story_id": "nfl|10232|rotowire|636162|1788454827000",
       "title": "Michael Wilson - Lands three-year extension",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Troy Franklin put together a pretty productive season in 2025, recording 65 catches for 709 yards and six touchdowns on 106 targets across 17 games (seven starts). However, the 23-year-old's production faded a bit down the stretch, as he averaged fewer than three catches and 30 receiving yards over his final seven games of the year (including the postseason). Franklin's place in the Broncos' wide receiver room is in question entering 2026. The team acquired star wideout Jaylen Waddle, who now looks like the clear WR1 in Denver. Veteran Courtland Sutton should be the team's WR2, and 2025 third-round pick Pat Bryant has drawn rave reviews for his work in Broncos camp this summer. As a result, Franklin may be facing a significantly reduced workload in Denver in 2026.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Troy Franklin put together a pretty productive season in 2025, recording 65 catches for 709 yards and six touchdowns on 106 targets across 17 games (seven starts). However, the 23-year-old's production faded a bit down the stretch, as he averaged fewer than three catches and 30 receiving yards over his final seven games of the year (including the postseason). Franklin's place in the Broncos' wide receiver room is in question entering 2026. The team acquired star wideout Jaylen Waddle, who now looks like the clear WR1 in Denver. Veteran Courtland Sutton should be the team's WR2, and 2025 third-round pick Pat Bryant has drawn rave reviews for his work in Broncos camp this summer. As a result, Franklin may be facing a significantly reduced workload in Denver in 2026.",
+        "title": "Troy Franklin Could Be Facing a Reduced Role in Crowded Broncos Wide Receiver Room",
+        "topic_id": "1401346318500147200",
+        "url": "https://www.rotoballer.com/player-news/troy-franklin-could-be-facing-a-reduced-role-in-crowded-broncos-wide-receiver-room/1922774"
+      },
+      "nfl_team": "DEN",
+      "player_id": "11627",
+      "player_name": "Troy Franklin",
+      "position": "WR",
+      "published": 1788454689000,
+      "source": "rotoballer",
+      "source_key": "220040",
+      "story_id": "nfl|11627|rotoballer|220040|1788454689000",
+      "title": "Troy Franklin Could Be Facing a Reduced Role in Crowded Broncos Wide Receiver Room",
+      "url": "https://www.rotoballer.com/player-news/troy-franklin-could-be-facing-a-reduced-role-in-crowded-broncos-wide-receiver-room/1922774"
     },
     {
       "analysis": "Wilson was about to be playing on the final year of his rookie contract, but will now see himself attached to the team for the long haul. It will be interesting to see how his role changes, if at all, under a new coaching stafff and with Marvin Harrison Jr. back in the fold.",
