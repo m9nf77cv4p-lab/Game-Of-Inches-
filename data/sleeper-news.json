@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-03T19:23:45Z",
+  "last_checked_at": "2026-09-03T19:34:11Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4217|rotoballer|220024|1788448396000"
+    "nfl|11560|rotowire|636186|1788463435000",
+    "nfl|13294|rotoballer|220026|1788448870000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Williams played just one possession during exhibition season, leading the Bears to a Cairo Santos field goal to kick off preseason Week 2 at Cincinnati. The performance (2-for-5 passing for 28 yards, no TDs and no interceptions) was nothing to write home about, but Williams is set to take another step forward in his development in 2026. There are two question marks within Chicago's skill positions as Week 1 approaches: RB Kyle Monangai is attempting to put a hyperextended knee behind him, while WR Luther Burden is continuing his recovery from an early August groin injury. Having said that, Williams still has the healthy trio of RB D'Andre Swift, WR Rome Odunze and TE Colston Loveland at his services, so the QB's first 4,000-yard season through the air may be on the horizon.",
+      "description": "Coach Ben Johnson lauded Williams' approach Tuesday as the quarterback enters his third NFL campaign, Larry Mayer of the Bears' official site reports. \"He's executing at a much higher clip than he ever has, and I think it's going to continue to grow,\" Johnson said. \"He's going to continue to elevate everyone around him, coaches included.\"",
+      "metadata": {
+        "analysis": "Williams played just one possession during exhibition season, leading the Bears to a Cairo Santos field goal to kick off preseason Week 2 at Cincinnati. The performance (2-for-5 passing for 28 yards, no TDs and no interceptions) was nothing to write home about, but Williams is set to take another step forward in his development in 2026. There are two question marks within Chicago's skill positions as Week 1 approaches: RB Kyle Monangai is attempting to put a hyperextended knee behind him, while WR Luther Burden is continuing his recovery from an early August groin injury. Having said that, Williams still has the healthy trio of RB D'Andre Swift, WR Rome Odunze and TE Colston Loveland at his services, so the QB's first 4,000-yard season through the air may be on the horizon.",
+        "description": "Coach Ben Johnson lauded Williams' approach Tuesday as the quarterback enters his third NFL campaign, Larry Mayer of the Bears' official site reports. \"He's executing at a much higher clip than he ever has, and I think it's going to continue to grow,\" Johnson said. \"He's going to continue to elevate everyone around him, coaches included.\"",
+        "title": "Caleb Williams - Coach talks him up",
+        "topic_id": "1401322411286081536"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11560",
+      "player_name": "Caleb Williams",
+      "position": "QB",
+      "published": 1788463435000,
+      "source": "rotowire",
+      "source_key": "636186",
+      "story_id": "nfl|11560|rotowire|636186|1788463435000",
+      "title": "Caleb Williams - Coach talks him up",
+      "url": null
+    },
     {
       "analysis": "Henderson has been sidelined for the last 10 days, and while there's been no indication he's dealing with a serious injury, it's starting to get close to the wire for Henderson to play in next Wednesday's regular-season opener against the Seahawks. Henderson will almost certainly need to return to practice before Monday to have a chance to face Seattle. If he can't go in Week 1, Rhamondre Stevenson would get a huge fantasy boost as a surefire RB2 based on volume projection.",
       "description": "Henderson (ankle) wasn't present for Thursday's practice, Evan Lazar of the Patriots' official site reports.",
@@ -834,6 +855,26 @@
       "story_id": "nfl|5022|rotowire|636145|1788448964000",
       "title": "Dallas Goedert - No preseason action",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles wide receiver Makai Lemon came into the summer with a real shot to seize a major role right away, but things never quite got rolling. The No. 20 overall pick injured his hamstring on Aug. 3 and did not return to full participation until Aug. 24, costing him nearly three weeks of camp while Dontayvion Wicks made a push for work opposite DeVonta Smith. Lemon finally got on the field in the preseason finale against Cincinnati and looked rusty. He caught three of five targets for three yards, muffed a punt and had a drop that was intercepted. None of that changes why Philadelphia traded up for him after a 79-catch, 1,156-yard, 11-touchdown season at USC, and the Eagles say he is now fully healthy. It does make him harder to count on early. RotoBaller ranks Lemon WR48 in its September half-PPR rankings, which feels about right after a choppy August. There is still upside here, especially as the season goes on, but Lemon is better drafted as bench depth than as an immediate weekly option.",
+      "metadata": {
+        "description": "Philadelphia Eagles wide receiver Makai Lemon came into the summer with a real shot to seize a major role right away, but things never quite got rolling. The No. 20 overall pick injured his hamstring on Aug. 3 and did not return to full participation until Aug. 24, costing him nearly three weeks of camp while Dontayvion Wicks made a push for work opposite DeVonta Smith. Lemon finally got on the field in the preseason finale against Cincinnati and looked rusty. He caught three of five targets for three yards, muffed a punt and had a drop that was intercepted. None of that changes why Philadelphia traded up for him after a 79-catch, 1,156-yard, 11-touchdown season at USC, and the Eagles say he is now fully healthy. It does make him harder to count on early. RotoBaller ranks Lemon WR48 in its September half-PPR rankings, which feels about right after a choppy August. There is still upside here, especially as the season goes on, but Lemon is better drafted as bench depth than as an immediate weekly option.",
+        "title": "Makai Lemon's Rough Summer Has Cooled His Draft Appeal",
+        "topic_id": "1401321149819850752",
+        "url": "https://www.rotoballer.com/player-news/makai-lemons-rough-summer-has-cooled-his-draft-appeal/1922683"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13294",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "published": 1788448870000,
+      "source": "rotoballer",
+      "source_key": "220026",
+      "story_id": "nfl|13294|rotoballer|220026|1788448870000",
+      "title": "Makai Lemon's Rough Summer Has Cooled His Draft Appeal",
+      "url": "https://www.rotoballer.com/player-news/makai-lemons-rough-summer-has-cooled-his-draft-appeal/1922683"
     },
     {
       "analysis": "Signed to a one-year, $8 million deal in May, Jennings is locked in as the Vikings' No. 3 receiver and didn't need to compete for a job during the preseason. With San Francisco last season, Jennings primarily operated as the \"X\" receiver and turned in a 55-643-9 receiving line on 90 targets over his 15 appearances. Since Justin Jefferson typically occupies the X spot for Minnesota and Jordan Addison mainly works as the \"Z\" receiver, Jennings could end up seeing most of his time out of the slot with his new squad. While a slot role can often lead to catchable, higher-percentage targets, Jefferson remains the unquestioned No. 1 option in the passing game regardless of where he lines up, and Addison is capable of bumping inside and seems likely play ahead of Jennings in two-wide formations. Moreover, Vikings quarterback Kyler Murray hasn't had an extensive track record of supporting more than one fantasy viable pass catcher during his seven-year career, so Jennings could struggle to attain consistent week-to-week volume while he's vying with the likes of Addison and tight end T.J. Hockenson for the remaining targets that don't go to Jefferson.",
