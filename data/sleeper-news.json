@@ -1,12 +1,17 @@
 {
-  "last_checked_at": "2026-09-03T15:34:50Z",
+  "last_checked_at": "2026-09-03T15:47:20Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11603|rotowire|636146|1788449011000",
-    "nfl|12512|rotoballer|220002|1788430329000",
-    "nfl|5022|rotowire|636145|1788448964000",
-    "nfl|8676|rotowire|636147|1788449301000"
+    "nfl|4981|rotowire|636151|1788450129000",
+    "nfl|5859|rotoballer|220003|1788434956000",
+    "nfl|5995|rotoballer|220004|1788435339000",
+    "nfl|6904|rotoballer|220005|1788435549000",
+    "nfl|7002|rotowire|636150|1788449787000",
+    "nfl|8132|rotowire|636149|1788449691000",
+    "nfl|9225|rotowire|636152|1788450187000",
+    "nfl|9229|fantasy_pros|605770|1788450306712",
+    "nfl|9229|rotowire|636148|1788449645000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +21,127 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "There have been multiple rumors that Richardson might be traded at some point. Some reports have suggested that he may lose out to Riley Leonard for the Colts' backup QB role. Head coach Shane Steichen has put all that to rest, at least for now, making clear Tuesday that Richardson is indeed the top backup to starter Daniel Jones. ",
+      "description": "Anthony Richardson Sr. will be the Colts' No. 2 quarterback going into the season. ",
+      "metadata": {
+        "analysis": "There have been multiple rumors that Richardson might be traded at some point. Some reports have suggested that he may lose out to Riley Leonard for the Colts' backup QB role. Head coach Shane Steichen has put all that to rest, at least for now, making clear Tuesday that Richardson is indeed the top backup to starter Daniel Jones. ",
+        "description": "Anthony Richardson Sr. will be the Colts' No. 2 quarterback going into the season. ",
+        "title": "Anthony Richardson Sr. will be backup QB for Colts",
+        "topic_id": "1401265784994451456",
+        "url": "https://www.fantasypros.com/nfl/news/605770/anthony-richardson-sr-will-be-backup-qb-colts.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "9229",
+      "player_name": "Anthony Richardson",
+      "position": "QB",
+      "published": 1788450306712,
+      "source": "fantasy_pros",
+      "source_key": "605770",
+      "story_id": "nfl|9229|fantasy_pros|605770|1788450306712",
+      "title": "Anthony Richardson Sr. will be backup QB for Colts",
+      "url": "https://www.fantasypros.com/nfl/news/605770/anthony-richardson-sr-will-be-backup-qb-colts.php"
+    },
+    {
+      "analysis": "The fact he was rested for Weeks 2 and 3 of the preseason while Will Shipley played would suggest Bigsby has a firm grip on RB2 duties in Philadelphia behind Saquon Barkley. Barkley is entering his age-29 season with plenty of miles on his proverbial tires, and there's been talk out of Philly that the team wants to get Bigsby more involved to keep Barkley fresh. If something were to happen to him injury-wise, Bigsby would immediately enter the fantasy RB1 conversation in the Eagles' run-heavy offense that features one of the league's best offensive lines, making him the premier bench stash headed into the 2026 campaign.",
+      "description": "Bigsby played 10 offensive snaps this preseason before being rested for the final two exhibition contests.",
+      "metadata": {
+        "analysis": "The fact he was rested for Weeks 2 and 3 of the preseason while Will Shipley played would suggest Bigsby has a firm grip on RB2 duties in Philadelphia behind Saquon Barkley. Barkley is entering his age-29 season with plenty of miles on his proverbial tires, and there's been talk out of Philly that the team wants to get Bigsby more involved to keep Barkley fresh. If something were to happen to him injury-wise, Bigsby would immediately enter the fantasy RB1 conversation in the Eagles' run-heavy offense that features one of the league's best offensive lines, making him the premier bench stash headed into the 2026 campaign.",
+        "description": "Bigsby played 10 offensive snaps this preseason before being rested for the final two exhibition contests.",
+        "title": "Tank Bigsby - Plays 10 preseason snaps",
+        "topic_id": "1401265783673208832"
+      },
+      "nfl_team": "PHI",
+      "player_id": "9225",
+      "player_name": "Tank Bigsby",
+      "position": "RB",
+      "published": 1788450187000,
+      "source": "rotowire",
+      "source_key": "636152",
+      "story_id": "nfl|9225|rotowire|636152|1788450187000",
+      "title": "Tank Bigsby - Plays 10 preseason snaps",
+      "url": null
+    },
+    {
+      "analysis": "Tennessee heads into the season with Carnell Tate (undisclosed), Wan'Dale Robinson (head), Ridley, Chimere Dike and Elic Ayomanor at wide receiver. Of those five players, only Robinson and Ridley have more than one year of NFL experience. Ridley was the team's No. 1 receiver in the early part of last season but finished the year with just 303 receiving yards in seven games, as he missed time due to a hamstring injury and then fractured his fibula. Having recovered from those injuries, the 31-year-old Ridley is in contention for a starting role on the outside opposite Tate, with Robinson likely to work primarily out of the slot.",
+      "description": "Ridley is among the five wide receivers on the Titans' initial 53-man roster.",
+      "metadata": {
+        "analysis": "Tennessee heads into the season with Carnell Tate (undisclosed), Wan'Dale Robinson (head), Ridley, Chimere Dike and Elic Ayomanor at wide receiver. Of those five players, only Robinson and Ridley have more than one year of NFL experience. Ridley was the team's No. 1 receiver in the early part of last season but finished the year with just 303 receiving yards in seven games, as he missed time due to a hamstring injury and then fractured his fibula. Having recovered from those injuries, the 31-year-old Ridley is in contention for a starting role on the outside opposite Tate, with Robinson likely to work primarily out of the slot.",
+        "description": "Ridley is among the five wide receivers on the Titans' initial 53-man roster.",
+        "title": "Calvin Ridley - Experienced option in young WR room",
+        "topic_id": "1401265783669014528"
+      },
+      "nfl_team": "TEN",
+      "player_id": "4981",
+      "player_name": "Calvin Ridley",
+      "position": "WR",
+      "published": 1788450129000,
+      "source": "rotowire",
+      "source_key": "636151",
+      "story_id": "nfl|4981|rotowire|636151|1788450129000",
+      "title": "Calvin Ridley - Experienced option in young WR room",
+      "url": null
+    },
+    {
+      "analysis": "Johnson is locked in atop the depth chart at tight end for New Orleans, and with Jordyn Tyson (hamstring) set to miss at least the first four games of the season and no clear WR2 on the roster, Johnson could have a significant pass-catching role out of the gates. Tyler Shough has already predicted a big season for his former college teammate after Johnson was fantasy's overall TE5 in yards per game and TE8 in catches per game following last season's Rashid Shaheed trade ahead of Week 10. Turning 30 years old Sept. 13, Johnson is coming off a 77-889-3 campaign on 102 targets last season.",
+      "description": "Johnson didn't see any action during the Saints' three-game preseason slate.",
+      "metadata": {
+        "analysis": "Johnson is locked in atop the depth chart at tight end for New Orleans, and with Jordyn Tyson (hamstring) set to miss at least the first four games of the season and no clear WR2 on the roster, Johnson could have a significant pass-catching role out of the gates. Tyler Shough has already predicted a big season for his former college teammate after Johnson was fantasy's overall TE5 in yards per game and TE8 in catches per game following last season's Rashid Shaheed trade ahead of Week 10. Turning 30 years old Sept. 13, Johnson is coming off a 77-889-3 campaign on 102 targets last season.",
+        "description": "Johnson didn't see any action during the Saints' three-game preseason slate.",
+        "title": "Juwan Johnson - Doesn't play during preseason",
+        "topic_id": "1401264523217793024"
+      },
+      "nfl_team": "NO",
+      "player_id": "7002",
+      "player_name": "Juwan Johnson",
+      "position": "TE",
+      "published": 1788449787000,
+      "source": "rotowire",
+      "source_key": "636150",
+      "story_id": "nfl|7002|rotowire|636150|1788449787000",
+      "title": "Juwan Johnson - Doesn't play during preseason",
+      "url": null
+    },
+    {
+      "analysis": "Love is expected to eventually take on the lead role after being drafted third overall in the 2026 NFL Draft, but the rookie is likely to be eased in as he recovers from a preseason ankle injury, if he's cleared at all to suit up against the Chargers in Week 1 on Sept. 13. Allgeier has rushed for at least 514 yards in each of his four regular seasons, the last three of which were spent backing up Bijan Robinson, so the former Falcons running back figures to maintain some level of involvement even once Love is fully up to speed. James Conner (foot) is on IR with a designation to return, so Bam Knight is currently the only healthy alternative to Allgeier on the roster.",
+      "description": "Allgeier is poised to begin the regular season splitting carries with Jeremiyah Love (ankle), whom Josh Weinfuss of ESPN.com reports is progressing well in his recovery and trending toward being available for Week 1.",
+      "metadata": {
+        "analysis": "Love is expected to eventually take on the lead role after being drafted third overall in the 2026 NFL Draft, but the rookie is likely to be eased in as he recovers from a preseason ankle injury, if he's cleared at all to suit up against the Chargers in Week 1 on Sept. 13. Allgeier has rushed for at least 514 yards in each of his four regular seasons, the last three of which were spent backing up Bijan Robinson, so the former Falcons running back figures to maintain some level of involvement even once Love is fully up to speed. James Conner (foot) is on IR with a designation to return, so Bam Knight is currently the only healthy alternative to Allgeier on the roster.",
+        "description": "Allgeier is poised to begin the regular season splitting carries with Jeremiyah Love (ankle), whom Josh Weinfuss of ESPN.com reports is progressing well in his recovery and trending toward being available for Week 1.",
+        "title": "Tyler Allgeier - Could have prominent role early",
+        "topic_id": "1401264523121324033"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8132",
+      "player_name": "Tyler Allgeier",
+      "position": "RB",
+      "published": 1788449691000,
+      "source": "rotowire",
+      "source_key": "636149",
+      "story_id": "nfl|8132|rotowire|636149|1788449691000",
+      "title": "Tyler Allgeier - Could have prominent role early",
+      "url": null
+    },
+    {
+      "analysis": "GM Chris Ballard confirmed Tuesday that Richardson -- who requested a trade over the offseason -- would remain with the Colts for the season, and head coach Shane Steichen revealed Thursday that Richardson beat out Riley Leonard for the backup job behind starter Daniel Jones.",
+      "description": "Richardson will open the season as the Colts' backup quarterback, Nathan Brown of The Indianapolis Star reports.",
+      "metadata": {
+        "analysis": "GM Chris Ballard confirmed Tuesday that Richardson -- who requested a trade over the offseason -- would remain with the Colts for the season, and head coach Shane Steichen revealed Thursday that Richardson beat out Riley Leonard for the backup job behind starter Daniel Jones.",
+        "description": "Richardson will open the season as the Colts' backup quarterback, Nathan Brown of The Indianapolis Star reports.",
+        "title": "Anthony Richardson - Will open season as backup",
+        "topic_id": "1401264523121324032"
+      },
+      "nfl_team": "IND",
+      "player_id": "9229",
+      "player_name": "Anthony Richardson",
+      "position": "QB",
+      "published": 1788449645000,
+      "source": "rotowire",
+      "source_key": "636148",
+      "story_id": "nfl|9229|rotowire|636148|1788449645000",
+      "title": "Anthony Richardson - Will open season as backup",
+      "url": null
+    },
     {
       "analysis": "Starters resting during the preseason has become customary for several teams around the league. Shaheed failed to gel with Sam Darnold after the wide receiver's midseason trade from the Saints, as he produced just 15 catches for 188 yards and no touchdowns across nine regular-season appearances with Seattle. However, the duo spent countless hours over the offseason working on their chemistry, and Shaheed was a standout player during training camp practices. He's locked in as the premier deep threat on the outside for the Seahawks this season and has generated steady buzz as a late-round fantasy pick and an ideal best-ball selection.",
       "description": "Shaheed didn't see any action during the Seahawks' three-game preseason slate.",
@@ -295,6 +421,66 @@
       "story_id": "nfl|11559|rotowire|636134|1788441796000",
       "title": "Michael Penix - Will start 'eventually,' if not Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles quarterback Jalen Hurts admitted in an interview with GQ magazine that he grew apart from former wide receiver A.J. Brown before the Eagles traded him to the New England Patriots in the offseason, according to ESPN. \"Nothing happened, people just grow apart,\" Brown told NBC Sports' Maria Taylor in June. \"Nothing happened between me and him, or our families, wives, anything. Nothing like that ever happened. Life happens, and you just look up sometimes and you just, you find yourself drifting away, and that's fine. And I think both parties accepted that.\" Brown told reporters last month, when the Eagles and Patriots took part in joint practices, that he and Hurts had not spoken since Brown was traded. Hurts and Brown's relationship goes back a ways, with the two growing so tight that Hurts became godfather to Brown's daughter, Jersee. Hurts was a factor in Brown's frustrations near the end of his tenure in Philly, based in part on Brown not being targeted as much as he felt he should be. \"I've got a lot of love for him and always have,\" Hurts said. Hurts and the Eagles' offense are looking to bounce back in 2026 under a new offensive coordinator, while Brown could rebound as a true WR1 in fantasy with his move to New England.",
+      "metadata": {
+        "description": "Philadelphia Eagles quarterback Jalen Hurts admitted in an interview with GQ magazine that he grew apart from former wide receiver A.J. Brown before the Eagles traded him to the New England Patriots in the offseason, according to ESPN. \"Nothing happened, people just grow apart,\" Brown told NBC Sports' Maria Taylor in June. \"Nothing happened between me and him, or our families, wives, anything. Nothing like that ever happened. Life happens, and you just look up sometimes and you just, you find yourself drifting away, and that's fine. And I think both parties accepted that.\" Brown told reporters last month, when the Eagles and Patriots took part in joint practices, that he and Hurts had not spoken since Brown was traded. Hurts and Brown's relationship goes back a ways, with the two growing so tight that Hurts became godfather to Brown's daughter, Jersee. Hurts was a factor in Brown's frustrations near the end of his tenure in Philly, based in part on Brown not being targeted as much as he felt he should be. \"I've got a lot of love for him and always have,\" Hurts said. Hurts and the Eagles' offense are looking to bounce back in 2026 under a new offensive coordinator, while Brown could rebound as a true WR1 in fantasy with his move to New England.",
+        "title": "Jalen Hurts Admits he Grew Apart From Former Receiver",
+        "topic_id": "1401265779269222400",
+        "url": "https://www.rotoballer.com/player-news/jalen-hurts-admits-he-grew-apart-from-former-receiver/1922526"
+      },
+      "nfl_team": "PHI",
+      "player_id": "6904",
+      "player_name": "Jalen Hurts",
+      "position": "QB",
+      "published": 1788435549000,
+      "source": "rotoballer",
+      "source_key": "220005",
+      "story_id": "nfl|6904|rotoballer|220005|1788435549000",
+      "title": "Jalen Hurts Admits he Grew Apart From Former Receiver",
+      "url": "https://www.rotoballer.com/player-news/jalen-hurts-admits-he-grew-apart-from-former-receiver/1922526"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens running back Justice Hill enters Week 1 with a much cleaner path behind Derrick Henry. Rookie Adam Randall was placed on injured reserve with a designation to return during final cuts, leaving Hill and Rasheen Ali as the only other active backs on the initial 53-man roster. Baltimore's own roster breakdown called Hill a prized backup and identified Ali as the No. 3 back. That is a meaningful change after RotoBaller questioned earlier in August whether Randall could eventually become the better two-down handcuff. Hill was limited to 10 games last season by toe and neck injuries, finishing with 93 rushing yards and two touchdowns on 18 carries while adding 21 catches for 169 yards and another score. He still profiles better as a passing-down option than a direct replacement for Henry's massive early-down workload, and Ali could absorb some carries if Henry misses time. For now, though, the depth chart is cleaner. With Randall unavailable for at least four games, Hill opens the year with a stronger claim to Baltimore's No. 2 role.",
+      "metadata": {
+        "description": "Baltimore Ravens running back Justice Hill enters Week 1 with a much cleaner path behind Derrick Henry. Rookie Adam Randall was placed on injured reserve with a designation to return during final cuts, leaving Hill and Rasheen Ali as the only other active backs on the initial 53-man roster. Baltimore's own roster breakdown called Hill a prized backup and identified Ali as the No. 3 back. That is a meaningful change after RotoBaller questioned earlier in August whether Randall could eventually become the better two-down handcuff. Hill was limited to 10 games last season by toe and neck injuries, finishing with 93 rushing yards and two touchdowns on 18 carries while adding 21 catches for 169 yards and another score. He still profiles better as a passing-down option than a direct replacement for Henry's massive early-down workload, and Ali could absorb some carries if Henry misses time. For now, though, the depth chart is cleaner. With Randall unavailable for at least four games, Hill opens the year with a stronger claim to Baltimore's No. 2 role.",
+        "title": "Justice Hill's Handcuff Value Gets a Boost",
+        "topic_id": "1401264520755675136",
+        "url": "https://www.rotoballer.com/player-news/justice-hills-handcuff-value-gets-a-boost/1922511"
+      },
+      "nfl_team": "BAL",
+      "player_id": "5995",
+      "player_name": "Justice Hill",
+      "position": "RB",
+      "published": 1788435339000,
+      "source": "rotoballer",
+      "source_key": "220004",
+      "story_id": "nfl|5995|rotoballer|220004|1788435339000",
+      "title": "Justice Hill's Handcuff Value Gets a Boost",
+      "url": "https://www.rotoballer.com/player-news/justice-hills-handcuff-value-gets-a-boost/1922511"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver A.J. Brown has looked comfortable in his new offense from the start. Brown still caught 78 passes for 1,003 yards and seven touchdowns in 15 games with Philadelphia last season, but his move to New England gave him a chance to pair with Drake Maye after a frustrating year in the Eagles' passing game. That connection showed up throughout camp. Brown beat Christian Gonzalez on a double move for a long touchdown on July 31, then got behind the defense again for another would-be score on Aug. 17. Two days later, he was one of New England's standouts during a joint practice with Philadelphia as Maye kept finding him downfield. The Patriots rested Brown in all three preseason games, so there was no reason to risk the new No. 1 receiver in exhibition action. RotoBaller has him at WR9 in its latest half-PPR rankings. Brown was already a proven fantasy option, but a strong first summer with Maye has pushed his WR1 ceiling back into focus.",
+      "metadata": {
+        "description": "New England Patriots wide receiver A.J. Brown has looked comfortable in his new offense from the start. Brown still caught 78 passes for 1,003 yards and seven touchdowns in 15 games with Philadelphia last season, but his move to New England gave him a chance to pair with Drake Maye after a frustrating year in the Eagles' passing game. That connection showed up throughout camp. Brown beat Christian Gonzalez on a double move for a long touchdown on July 31, then got behind the defense again for another would-be score on Aug. 17. Two days later, he was one of New England's standouts during a joint practice with Philadelphia as Maye kept finding him downfield. The Patriots rested Brown in all three preseason games, so there was no reason to risk the new No. 1 receiver in exhibition action. RotoBaller has him at WR9 in its latest half-PPR rankings. Brown was already a proven fantasy option, but a strong first summer with Maye has pushed his WR1 ceiling back into focus.",
+        "title": "A.J. Brown's WR1 Ceiling Is Back in Play",
+        "topic_id": "1401263262699409408",
+        "url": "https://www.rotoballer.com/player-news/a-j-browns-wr1-ceiling-is-back-in-play/1922507"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1788434956000,
+      "source": "rotoballer",
+      "source_key": "220003",
+      "story_id": "nfl|5859|rotoballer|220003|1788434956000",
+      "title": "A.J. Brown's WR1 Ceiling Is Back in Play",
+      "url": "https://www.rotoballer.com/player-news/a-j-browns-wr1-ceiling-is-back-in-play/1922507"
     },
     {
       "analysis": null,
@@ -35157,26 +35343,6 @@
       "story_id": "nfl|11638|rotowire|632578|1785871260000",
       "title": "Ricky Pearsall - Lengthy rehab with little precedent",
       "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Some Atlanta Falcons people on the ground think that tight end Kyle Pitts Sr. is \"moving better than he has in years,\" according to Jeremy Fowler of ESPN. Pitts' confidence has wavered in previous seasons while battling a lingering knee injury, but he's at full health this offseason, and new head coach Kevin Stefanski's offense is set up for him. The Falcons' receiver depth is still a major question mark behind WR1 Drake London, leaving Pitts as \"a certified first or second option\" in the passing attack. Fowler mentions that Pitts has been going as a top-five fantasy TE in drafts after his big 2025 season in which he caught a career-high 88 passes on 118 targets for 928 yards and a career-high five touchdowns in 17 starts. We know that the former fourth overall pick in 2021 from the University of Florida is going to have a big role in 2026, but it's just a matter of whether QBs Tua Tagovailoa/Michael Penix Jr. can get him the ball consistently. Pitts finished last year as the No. 2 fantasy TE and has high-end TE1 potential yet again this year, albeit with some risk based on Atlanta's less-than-ideal QB situation.",
-      "metadata": {
-        "description": "Some Atlanta Falcons people on the ground think that tight end Kyle Pitts Sr. is \"moving better than he has in years,\" according to Jeremy Fowler of ESPN. Pitts' confidence has wavered in previous seasons while battling a lingering knee injury, but he's at full health this offseason, and new head coach Kevin Stefanski's offense is set up for him. The Falcons' receiver depth is still a major question mark behind WR1 Drake London, leaving Pitts as \"a certified first or second option\" in the passing attack. Fowler mentions that Pitts has been going as a top-five fantasy TE in drafts after his big 2025 season in which he caught a career-high 88 passes on 118 targets for 928 yards and a career-high five touchdowns in 17 starts. We know that the former fourth overall pick in 2021 from the University of Florida is going to have a big role in 2026, but it's just a matter of whether QBs Tua Tagovailoa/Michael Penix Jr. can get him the ball consistently. Pitts finished last year as the No. 2 fantasy TE and has high-end TE1 potential yet again this year, albeit with some risk based on Atlanta's less-than-ideal QB situation.",
-        "title": "Kyle Pitts Sr. \"Moving Better,\" Fully Healthy for 2026",
-        "topic_id": "1390453291145519104",
-        "url": "https://www.rotoballer.com/player-news/kyle-pitts-sr-moving-better-fully-healthy-for-2026/1902995"
-      },
-      "nfl_team": "ATL",
-      "player_id": "7553",
-      "player_name": "Kyle Pitts",
-      "position": "TE",
-      "published": 1785857767000,
-      "source": "rotoballer",
-      "source_key": "217977",
-      "story_id": "nfl|7553|rotoballer|217977|1785857767000",
-      "title": "Kyle Pitts Sr. \"Moving Better,\" Fully Healthy for 2026",
-      "url": "https://www.rotoballer.com/player-news/kyle-pitts-sr-moving-better-fully-healthy-for-2026/1902995"
     }
   ]
 }
