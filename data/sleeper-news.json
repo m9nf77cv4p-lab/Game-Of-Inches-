@@ -1,13 +1,13 @@
 {
-  "last_checked_at": "2026-09-03T18:57:21Z",
+  "last_checked_at": "2026-09-03T19:11:54Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11563|rotowire|636177|1788461180000",
-    "nfl|12501|rotowire|636179|1788461421000",
-    "nfl|4035|rotoballer|220022|1788446836000",
-    "nfl|7567|rotowire|636176|1788461106000",
-    "nfl|8142|rotowire|636178|1788461379000"
+    "nfl|12529|rotowire|636183|1788462134000",
+    "nfl|5967|rotowire|636180|1788461672000",
+    "nfl|8142|rotoballer|220023|1788447437000",
+    "nfl|9508|rotowire|636182|1788461924000",
+    "nfl|9511|rotowire|636181|1788461777000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +17,86 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Henderson has been sidelined for the last 10 days, and while there's been no indication he's dealing with a serious injury, it's starting to get close to the wire for Henderson to play in next Wednesday's regular-season opener against the Seahawks. Henderson will almost certainly need to return to practice before Monday to have a chance to face Seattle. If he can't go in Week 1, Rhamondre Stevenson would get a huge fantasy boost as a surefire RB2 based on volume projection.",
+      "description": "Henderson (ankle) wasn't present for Thursday's practice, Evan Lazar of the Patriots' official site reports.",
+      "metadata": {
+        "analysis": "Henderson has been sidelined for the last 10 days, and while there's been no indication he's dealing with a serious injury, it's starting to get close to the wire for Henderson to play in next Wednesday's regular-season opener against the Seahawks. Henderson will almost certainly need to return to practice before Monday to have a chance to face Seattle. If he can't go in Week 1, Rhamondre Stevenson would get a huge fantasy boost as a surefire RB2 based on volume projection.",
+        "description": "Henderson (ankle) wasn't present for Thursday's practice, Evan Lazar of the Patriots' official site reports.",
+        "title": "TreVeyon Henderson - Sits out Thursday's practice",
+        "topic_id": "1401316119444213760"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788462134000,
+      "source": "rotowire",
+      "source_key": "636183",
+      "story_id": "nfl|12529|rotowire|636183|1788462134000",
+      "title": "TreVeyon Henderson - Sits out Thursday's practice",
+      "url": null
+    },
+    {
+      "analysis": "Based on preseason usage, Spears is firmly entrenched as the team's top alternative to Tony Pollard in the backfield. Spears produced 536 scrimmage yards in 2024 and 547 scrimmage yards in 2025 while filling such a role. His 838-yard rookie season in 2023 came prior to Pollard's arrival in Tennessee. Rookie fifth-round pick Nicholas Singleton didn't show anything during preseason action that would indicate he's an immediate threat to Spears' role, while Julius Chestnut is likely ticketed for a role on special teams.",
+      "description": "Spears is among the four running backs that made the Titans' initial 53-man roster.",
+      "metadata": {
+        "analysis": "Based on preseason usage, Spears is firmly entrenched as the team's top alternative to Tony Pollard in the backfield. Spears produced 536 scrimmage yards in 2024 and 547 scrimmage yards in 2025 while filling such a role. His 838-yard rookie season in 2023 came prior to Pollard's arrival in Tennessee. Rookie fifth-round pick Nicholas Singleton didn't show anything during preseason action that would indicate he's an immediate threat to Spears' role, while Julius Chestnut is likely ticketed for a role on special teams.",
+        "description": "Spears is among the four running backs that made the Titans' initial 53-man roster.",
+        "title": "Tyjae Spears - Role seemingly unchanged from 2025",
+        "topic_id": "1401316119448408064"
+      },
+      "nfl_team": "TEN",
+      "player_id": "9508",
+      "player_name": "Tyjae Spears",
+      "position": "RB",
+      "published": 1788461924000,
+      "source": "rotowire",
+      "source_key": "636182",
+      "story_id": "nfl|9508|rotowire|636182|1788461924000",
+      "title": "Tyjae Spears - Role seemingly unchanged from 2025",
+      "url": null
+    },
+    {
+      "analysis": "With Mitchell now having missed six straight practices, his status for Week 1 against the Cardinals is starting to come into question. If he's unable to go against Arizona, Kimani Vidal would settle in as the likely RB2 behind Omarion Hampton. Mitchell will need to get back on the field in some capacity next week if he's going to have a chance to suit up for the regular-season opener.",
+      "description": "Mitchell (undisclosed) remained a non-participant in Thursday's practice, Kris Rhim of ESPN.com reports.",
+      "metadata": {
+        "analysis": "With Mitchell now having missed six straight practices, his status for Week 1 against the Cardinals is starting to come into question. If he's unable to go against Arizona, Kimani Vidal would settle in as the likely RB2 behind Omarion Hampton. Mitchell will need to get back on the field in some capacity next week if he's going to have a chance to suit up for the regular-season opener.",
+        "description": "Mitchell (undisclosed) remained a non-participant in Thursday's practice, Kris Rhim of ESPN.com reports.",
+        "title": "Keaton Mitchell - Remains out of practice Thursday",
+        "topic_id": "1401314863791255552"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1788461777000,
+      "source": "rotowire",
+      "source_key": "636181",
+      "story_id": "nfl|9511|rotowire|636181|1788461777000",
+      "title": "Keaton Mitchell - Remains out of practice Thursday",
+      "url": null
+    },
+    {
+      "analysis": "Tennessee also kept Tyjae Spears, rookie fifth-round pick Nicholas Singleton and Julius Chestnut on the 53-man roster. The decision to roster four running backs, coupled with second-year QB Cam Ward's struggles in the preseason, could indicate a desire to implement a run-heavy approach from new OC Brian Daboll. Pollard has topped 1,000 scrimmage yards in five consecutive regular seasons, the last two of which came with the Titans, and he sits atop the RB depth chart heading into the regular season, with Spears poised to reprise his change-of-pace role.",
+      "description": "Pollard is set to lead a group of four running backs that made the Titans' initial 53-man roster.",
+      "metadata": {
+        "analysis": "Tennessee also kept Tyjae Spears, rookie fifth-round pick Nicholas Singleton and Julius Chestnut on the 53-man roster. The decision to roster four running backs, coupled with second-year QB Cam Ward's struggles in the preseason, could indicate a desire to implement a run-heavy approach from new OC Brian Daboll. Pollard has topped 1,000 scrimmage yards in five consecutive regular seasons, the last two of which came with the Titans, and he sits atop the RB depth chart heading into the regular season, with Spears poised to reprise his change-of-pace role.",
+        "description": "Pollard is set to lead a group of four running backs that made the Titans' initial 53-man roster.",
+        "title": "Tony Pollard - Set to reprise lead role for Titans",
+        "topic_id": "1401314863795449856"
+      },
+      "nfl_team": "TEN",
+      "player_id": "5967",
+      "player_name": "Tony Pollard",
+      "position": "RB",
+      "published": 1788461672000,
+      "source": "rotowire",
+      "source_key": "636180",
+      "story_id": "nfl|5967|rotowire|636180|1788461672000",
+      "title": "Tony Pollard - Set to reprise lead role for Titans",
+      "url": null
+    },
     {
       "analysis": "Golden was held without a target in the team's exhibition opener but was on the receiving end of a dot from QB Jordan Love in Denver in preseason Week 2, displaying the duo's growing rapport. Green Bay invested a first-round pick in Golden during the 2025 Draft, but a crowded receiving corps capped him to just a 29-361-0 line on 44 targets in 14 regular-season games as a rookie. With Romeo Doubs having moved on to the Patriots in free agency and Dontayvion Wicks getting traded to the Eagles this offseason, the WR options for Love are more clear cut between Christian Watson, Jayden Reed and Golden, giving the latter a better chance to tap into his potential in the upcoming campaign.",
       "description": "Golden finished the Packers' preseason schedule with one catch (on one target) for 19 yards across two games.",
@@ -820,6 +900,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Alec Pierce (ankle) practiced in full on Thursday for the first time this summer after having ankle surgery in the spring, according to Nathan Brown of the Indianapolis Star. The Colts are just 10 days away from the Week 1 regular-season opener against the Baltimore Ravens, but now that Pierce is a full-go in practice, he should be expected to be active to kick off the season. General manager Chris Ballard said earlier this week that the \"hope\" is that the 26-year-old big-play receiver will be ready to roll versus Baltimore on Sunday, Sept. 13. Indy gave Pierce a new four-year, $114 million contract extension in March after he had a career-high 1,003 receiving yards and 47 receptions for six touchdowns in 15 games in 2025 in his fourth year in the league. The former second-rounder from Cincinnati has led the NFL in each of the last two years in yards per catch, and he is expected to have a bigger role in 2026 with Michael Pittman Jr. out of town. As Pierce nears a return to full health for the start of the season, he should begin to rise up draft boards as a WR3/flex with plenty of boom potential.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Alec Pierce (ankle) practiced in full on Thursday for the first time this summer after having ankle surgery in the spring, according to Nathan Brown of the Indianapolis Star. The Colts are just 10 days away from the Week 1 regular-season opener against the Baltimore Ravens, but now that Pierce is a full-go in practice, he should be expected to be active to kick off the season. General manager Chris Ballard said earlier this week that the \"hope\" is that the 26-year-old big-play receiver will be ready to roll versus Baltimore on Sunday, Sept. 13. Indy gave Pierce a new four-year, $114 million contract extension in March after he had a career-high 1,003 receiving yards and 47 receptions for six touchdowns in 15 games in 2025 in his fourth year in the league. The former second-rounder from Cincinnati has led the NFL in each of the last two years in yards per catch, and he is expected to have a bigger role in 2026 with Michael Pittman Jr. out of town. As Pierce nears a return to full health for the start of the season, he should begin to rise up draft boards as a WR3/flex with plenty of boom potential.",
+        "title": "Alec Pierce Practices in Full on Thursday",
+        "topic_id": "1401316116600492032",
+        "url": "https://www.rotoballer.com/player-news/alec-pierce-practices-in-full-on-thursday/1922670"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1788447437000,
+      "source": "rotoballer",
+      "source_key": "220023",
+      "story_id": "nfl|8142|rotoballer|220023|1788447437000",
+      "title": "Alec Pierce Practices in Full on Thursday",
+      "url": "https://www.rotoballer.com/player-news/alec-pierce-practices-in-full-on-thursday/1922670"
+    },
+    {
       "analysis": "Hockenson played just five snaps in the Vikings' preseason opener and was rested for the final two exhibition tilts, but he's been getting in reps with the first-team offense throughout camp. After a delayed start to the 2024 campaign while he completed his recovery from a torn ACL and MCL in his right knee, Hockenson mostly stayed healthy in 2025 but was a middling fantasy option at tight end with a 51-438-3 receiving line on 66 targets over 15 games. Though Hockenson should benefit from upgraded quarterback play in 2026 after drawing targets from the likes of J.J. McCarthy, Carson Wentz and Max Brosmer a season ago, the closest Murray has come to supporting two fantasy relevant pass catchers was in 2024, when tight end Trey McBride (111-1,146-2 line in 16 games) and wideout Marvin Harrison (62-885-8 in 17 games) both had some utility. Justin Jefferson is locked in as the clear top weapon in the passing game and should dominate the targets, but Hockenson could struggle to see consistent volume while he's vying with the likes of No. 2 receiver Jordan Addison and No. 3 receiver Jauan Jennings for the remaining looks that don't go to Jefferson.",
       "description": "Hockenson recorded a touchdown reception from Kyler Murray during the Vikings' final training camp practice Aug. 26, Andrew Krammer of The Minnesota Star Tribune reports.",
       "metadata": {
@@ -1181,9 +1281,9 @@
     },
     {
       "analysis": null,
-      "description": "The Arizona Cardinals reached an agreement on Wednesday with standout wide receiver Michael Wilson on a three-year extension that keeps him in Arizona through the 2029 season, according to Adam Schefter of ESPN. Financial terms of the extension were not disclosed by Schefter. Wilson is expected to sign the deal on Thursday. The 26-year-old earned a new deal after setting career highs across the board in his third NFL season in 2025 in catches (78), targets (126), receiving yards (1,006), and touchdowns (seven) in 17 games played for the Cardinals. The former third-rounder in 2023 from Stanford took advantage of Arizona's pass-happy offense under former coordinator Drew Petzing, and he also benefited from Marvin Harrison Jr. missing time due to various injuries. But Wilson proved last year that he can thrive in a bigger role in the Cardinals' passing attack, and he developed valuable chemistry with veteran quarterback Jacoby Brissett, who is still around. The offense should be more balanced under new head coach Mike LaFleur, but even with some regression baked into his profile, Wilson is an attractive WR4/flex target for fantasy managers in 2026.",
+      "description": "The Arizona Cardinals reached an agreement on Wednesday with standout wide receiver Michael Wilson on a three-year extension that keeps him in Arizona through the 2029 season, according to Adam Schefter of ESPN. Financial terms of the extension were not disclosed by Schefter. Wilson is expected to sign the deal on Thursday. The 26-year-old earned a new deal after setting career highs across the board in his third NFL season in 2025 in catches (78), targets (126), receiving yards (1,006), and touchdowns (seven) in 17 games played for the Cardinals. The former third-rounder in 2023 from Stanford took advantage of Arizona's pass-happy offense under former coordinator Drew Petzing, and he also benefited from Marvin Harrison Jr. missing time due to various injuries. But Wilson proved last year that he can thrive in a bigger role in the Cardinals' passing attack, and he developed valuable chemistry with veteran quarterback Jacoby Brissett, who is still around. The offense should be more balanced under new head coach Mike LaFleur, but even with some regression baked into his profile, Wilson is an attractive WR4/flex target for fantasy managers in 2026. UPDATE: Wilson's three-year extension is worth $75 million with a maximum value of $78 million and includes $47 million guaranteed.",
       "metadata": {
-        "description": "The Arizona Cardinals reached an agreement on Wednesday with standout wide receiver Michael Wilson on a three-year extension that keeps him in Arizona through the 2029 season, according to Adam Schefter of ESPN. Financial terms of the extension were not disclosed by Schefter. Wilson is expected to sign the deal on Thursday. The 26-year-old earned a new deal after setting career highs across the board in his third NFL season in 2025 in catches (78), targets (126), receiving yards (1,006), and touchdowns (seven) in 17 games played for the Cardinals. The former third-rounder in 2023 from Stanford took advantage of Arizona's pass-happy offense under former coordinator Drew Petzing, and he also benefited from Marvin Harrison Jr. missing time due to various injuries. But Wilson proved last year that he can thrive in a bigger role in the Cardinals' passing attack, and he developed valuable chemistry with veteran quarterback Jacoby Brissett, who is still around. The offense should be more balanced under new head coach Mike LaFleur, but even with some regression baked into his profile, Wilson is an attractive WR4/flex target for fantasy managers in 2026.",
+        "description": "The Arizona Cardinals reached an agreement on Wednesday with standout wide receiver Michael Wilson on a three-year extension that keeps him in Arizona through the 2029 season, according to Adam Schefter of ESPN. Financial terms of the extension were not disclosed by Schefter. Wilson is expected to sign the deal on Thursday. The 26-year-old earned a new deal after setting career highs across the board in his third NFL season in 2025 in catches (78), targets (126), receiving yards (1,006), and touchdowns (seven) in 17 games played for the Cardinals. The former third-rounder in 2023 from Stanford took advantage of Arizona's pass-happy offense under former coordinator Drew Petzing, and he also benefited from Marvin Harrison Jr. missing time due to various injuries. But Wilson proved last year that he can thrive in a bigger role in the Cardinals' passing attack, and he developed valuable chemistry with veteran quarterback Jacoby Brissett, who is still around. The offense should be more balanced under new head coach Mike LaFleur, but even with some regression baked into his profile, Wilson is an attractive WR4/flex target for fantasy managers in 2026. UPDATE: Wilson's three-year extension is worth $75 million with a maximum value of $78 million and includes $47 million guaranteed.",
         "title": "Cardinals, Michael Wilson Agree on Three-Year Extension",
         "topic_id": "1401284656137019392",
         "url": "https://www.rotoballer.com/player-news/cardinals-michael-wilson-agree-on-three-year-extension/1922595"
