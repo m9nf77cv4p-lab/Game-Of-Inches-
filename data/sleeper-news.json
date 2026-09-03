@@ -1,10 +1,12 @@
 {
-  "last_checked_at": "2026-09-03T16:57:07Z",
+  "last_checked_at": "2026-09-03T17:12:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|10232|fantasy_pros|605781|1788454507772",
-    "nfl|7523|rotowire|636159|1788453887000"
+    "nfl|10222|rotowire|636160|1788454456000",
+    "nfl|10232|rotoballer|220012|1788440169000",
+    "nfl|10232|rotowire|636162|1788454827000",
+    "nfl|12474|rotowire|636161|1788454466000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +16,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The sides squeezed this deal in before the start of the regular season, as Wilson had been set to enter the final year of his rookie deal. Selected in the third round of the 2023 Draft, Wilson had a true breakout season in 2025, as he operated as the Cardinals' WR1 most weeks while Marvin Harrison battled injuries throughout the campaign. Wilson responded with three 10--yard receiving games over the final eight weeks of the season and finished the year with 78 catches for 1,006 yards and seven touchdowns. Six of his seven scores came in the final five contests. Harrison is back healthy this season, but Wilson figures to remain a prominent piece of the passing offense that also includes All-Pro tight end Trey McBride.",
+      "description": "The Cardinals signed Wilson to a three-year, $75 million contract extension Thursday, Adam Schefter of ESPN reports.",
+      "metadata": {
+        "analysis": "The sides squeezed this deal in before the start of the regular season, as Wilson had been set to enter the final year of his rookie deal. Selected in the third round of the 2023 Draft, Wilson had a true breakout season in 2025, as he operated as the Cardinals' WR1 most weeks while Marvin Harrison battled injuries throughout the campaign. Wilson responded with three 10--yard receiving games over the final eight weeks of the season and finished the year with 78 catches for 1,006 yards and seven touchdowns. Six of his seven scores came in the final five contests. Harrison is back healthy this season, but Wilson figures to remain a prominent piece of the passing offense that also includes All-Pro tight end Trey McBride.",
+        "description": "The Cardinals signed Wilson to a three-year, $75 million contract extension Thursday, Adam Schefter of ESPN reports.",
+        "title": "Michael Wilson - Lands three-year extension",
+        "topic_id": "1401285917288763392"
+      },
+      "nfl_team": "ARI",
+      "player_id": "10232",
+      "player_name": "Michael Wilson",
+      "position": "WR",
+      "published": 1788454827000,
+      "source": "rotowire",
+      "source_key": "636162",
+      "story_id": "nfl|10232|rotowire|636162|1788454827000",
+      "title": "Michael Wilson - Lands three-year extension",
+      "url": null
+    },
     {
       "analysis": "Wilson was about to be playing on the final year of his rookie contract, but will now see himself attached to the team for the long haul. It will be interesting to see how his role changes, if at all, under a new coaching stafff and with Marvin Harrison Jr. back in the fold.",
       "description": "Michael Wilson has agreed to a three year deal with the Arizona Cardinals. He is expected to sign the deal later today.",
@@ -34,6 +56,46 @@
       "story_id": "nfl|10232|fantasy_pros|605781|1788454507772",
       "title": "Michael Wilson agrees to three year deal with Cardinals ",
       "url": "https://www.fantasypros.com/nfl/news/605781/michael-wilson-agrees-to-three-year-deal-with-cardinals.php"
+    },
+    {
+      "analysis": "\"The distribution ... might not be 50-50, but it will be close,\" Alexander wrote Aug. 23. \"The Texans have utilized both nearly evenly throughout camp.\" Alexander expects a sort-of hot-hand approach out of the Houston backfield on a weekly basis. Marks played 10 snaps in the Texans' second preseason game and rushed four times for 37 yards and one touchdown. He also added a catch for six yards, working exclusively with the first-team offense while Montgomery was rested for that exhibition. Marks is being drafted nearly five rounds after Montgomery in fantasy.",
+      "description": "Marks is expected to split backfield work pretty evenly with David Montgomery this season, Jonathan Alexander of the Houston Chronicle reports.",
+      "metadata": {
+        "analysis": "\"The distribution ... might not be 50-50, but it will be close,\" Alexander wrote Aug. 23. \"The Texans have utilized both nearly evenly throughout camp.\" Alexander expects a sort-of hot-hand approach out of the Houston backfield on a weekly basis. Marks played 10 snaps in the Texans' second preseason game and rushed four times for 37 yards and one touchdown. He also added a catch for six yards, working exclusively with the first-team offense while Montgomery was rested for that exhibition. Marks is being drafted nearly five rounds after Montgomery in fantasy.",
+        "description": "Marks is expected to split backfield work pretty evenly with David Montgomery this season, Jonathan Alexander of the Houston Chronicle reports.",
+        "title": "Woody Marks - Expected to split backfield work",
+        "topic_id": "1401284670783561728"
+      },
+      "nfl_team": "HOU",
+      "player_id": "12474",
+      "player_name": "Woody Marks",
+      "position": "RB",
+      "published": 1788454466000,
+      "source": "rotowire",
+      "source_key": "636161",
+      "story_id": "nfl|12474|rotowire|636161|1788454466000",
+      "title": "Woody Marks - Expected to split backfield work",
+      "url": null
+    },
+    {
+      "analysis": "Reed is joined by Christian Watson, Matthew Golden, Bo Melton, Skyy Moore and K. Michael Sturdivant in Green Bay's wide receiver room, while Savion Williams (ankle) is on IR with a designation to return, meaning the 2025 third-round pick will miss at least four weeks before possibly factoring into the equation as well. Reed has historically been productive when healthy despite frequently coming off the field in two-wide sets, with his 63.2 percent snap share during the 2024 regular season representing his single-season career high. Watson is locked in as a starter, but Reed could earn a larger share of playing time if he holds off the 2025 first-round pick Golden.",
+      "description": "Reed is one of six wide receivers on the Packers' initial 53-man roster, Wes Hodkiewicz of the team's official site reports.",
+      "metadata": {
+        "analysis": "Reed is joined by Christian Watson, Matthew Golden, Bo Melton, Skyy Moore and K. Michael Sturdivant in Green Bay's wide receiver room, while Savion Williams (ankle) is on IR with a designation to return, meaning the 2025 third-round pick will miss at least four weeks before possibly factoring into the equation as well. Reed has historically been productive when healthy despite frequently coming off the field in two-wide sets, with his 63.2 percent snap share during the 2024 regular season representing his single-season career high. Watson is locked in as a starter, but Reed could earn a larger share of playing time if he holds off the 2025 first-round pick Golden.",
+        "description": "Reed is one of six wide receivers on the Packers' initial 53-man roster, Wes Hodkiewicz of the team's official site reports.",
+        "title": "Jayden Reed - Competing with Golden for WR2 spot",
+        "topic_id": "1401284670775173120"
+      },
+      "nfl_team": "GB",
+      "player_id": "10222",
+      "player_name": "Jayden Reed",
+      "position": "WR",
+      "published": 1788454456000,
+      "source": "rotowire",
+      "source_key": "636160",
+      "story_id": "nfl|10222|rotowire|636160|1788454456000",
+      "title": "Jayden Reed - Competing with Golden for WR2 spot",
+      "url": null
     },
     {
       "analysis": "Ewers was retained on the 53-man roster after final cuts, while Nick Mullens was released during cut-down day, though Mullens subsequently signed with the practice squad. Lawrence remains locked in as the team's starting QB on the heels of a 2025 regular season in which he threw for 4,007 yards and a career-high 29 passing touchdowns. The first overall pick in the 2021 NFL Draft has exceeded 4,000 passing yards in three of his first five NFL seasons.",
@@ -575,6 +637,26 @@
       "story_id": "nfl|11559|rotowire|636134|1788441796000",
       "title": "Michael Penix - Will start 'eventually,' if not Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Arizona Cardinals reached an agreement on Wednesday with standout wide receiver Michael Wilson on a three-year extension that keeps him in Arizona through the 2029 season, according to Adam Schefter of ESPN. Financial terms of the extension were not disclosed by Schefter. Wilson is expected to sign the deal on Thursday. The 26-year-old earned a new deal after setting career highs across the board in his third NFL season in 2025 in catches (78), targets (126), receiving yards (1,006), and touchdowns (seven) in 17 games played for the Cardinals. The former third-rounder in 2023 from Stanford took advantage of Arizona's pass-happy offense under former coordinator Drew Petzing, and he also benefited from Marvin Harrison Jr. missing time due to various injuries. But Wilson proved last year that he can thrive in a bigger role in the Cardinals' passing attack, and he developed valuable chemistry with veteran quarterback Jacoby Brissett, who is still around. The offense should be more balanced under new head coach Mike LaFleur, but even with some regression baked into his profile, Wilson is an attractive WR4/flex target for fantasy managers in 2026.",
+      "metadata": {
+        "description": "The Arizona Cardinals reached an agreement on Wednesday with standout wide receiver Michael Wilson on a three-year extension that keeps him in Arizona through the 2029 season, according to Adam Schefter of ESPN. Financial terms of the extension were not disclosed by Schefter. Wilson is expected to sign the deal on Thursday. The 26-year-old earned a new deal after setting career highs across the board in his third NFL season in 2025 in catches (78), targets (126), receiving yards (1,006), and touchdowns (seven) in 17 games played for the Cardinals. The former third-rounder in 2023 from Stanford took advantage of Arizona's pass-happy offense under former coordinator Drew Petzing, and he also benefited from Marvin Harrison Jr. missing time due to various injuries. But Wilson proved last year that he can thrive in a bigger role in the Cardinals' passing attack, and he developed valuable chemistry with veteran quarterback Jacoby Brissett, who is still around. The offense should be more balanced under new head coach Mike LaFleur, but even with some regression baked into his profile, Wilson is an attractive WR4/flex target for fantasy managers in 2026.",
+        "title": "Cardinals, Michael Wilson Agree on Three-Year Extension",
+        "topic_id": "1401284656137019392",
+        "url": "https://www.rotoballer.com/player-news/cardinals-michael-wilson-agree-on-three-year-extension/1922595"
+      },
+      "nfl_team": "ARI",
+      "player_id": "10232",
+      "player_name": "Michael Wilson",
+      "position": "WR",
+      "published": 1788440169000,
+      "source": "rotoballer",
+      "source_key": "220012",
+      "story_id": "nfl|10232|rotoballer|220012|1788440169000",
+      "title": "Cardinals, Michael Wilson Agree on Three-Year Extension",
+      "url": "https://www.rotoballer.com/player-news/cardinals-michael-wilson-agree-on-three-year-extension/1922595"
     },
     {
       "analysis": null,
