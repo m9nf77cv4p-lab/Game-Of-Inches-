@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-03T13:22:46Z",
+  "last_checked_at": "2026-09-03T13:36:53Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12501|rotoballer|219992|1788426785000"
+    "nfl|11559|rotowire|636134|1788441796000",
+    "nfl|12469|rotowire|636135|1788442348000",
+    "nfl|1466|rotoballer|219993|1788427630000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.",
+      "description": "Sampson was rested for the Browns' 37-13 win over the Patriots in their Aug. 27 preseason finale.",
+      "metadata": {
+        "analysis": "Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.",
+        "description": "Sampson was rested for the Browns' 37-13 win over the Patriots in their Aug. 27 preseason finale.",
+        "title": "Dylan Sampson - Rests up during preseason finale",
+        "topic_id": "1401233213149446144"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12469",
+      "player_name": "Dylan Sampson",
+      "position": "RB",
+      "published": 1788442348000,
+      "source": "rotowire",
+      "source_key": "636135",
+      "story_id": "nfl|12469|rotowire|636135|1788442348000",
+      "title": "Dylan Sampson - Rests up during preseason finale",
+      "url": null
+    },
+    {
+      "analysis": "Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.",
+      "description": "The Falcons plan for Penix (knee) to start \"eventually\" this season, but head coach Kevin Stefanski has yet to decide whether Penix or Tua Tagovailoa will direct the offense Week 1 in Pittsburgh, Cameron Wolfe of NFL Network reports.",
+      "metadata": {
+        "analysis": "Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.",
+        "description": "The Falcons plan for Penix (knee) to start \"eventually\" this season, but head coach Kevin Stefanski has yet to decide whether Penix or Tua Tagovailoa will direct the offense Week 1 in Pittsburgh, Cameron Wolfe of NFL Network reports.",
+        "title": "Michael Penix - Will start 'eventually,' if not Week 1",
+        "topic_id": "1401231954778529792"
+      },
+      "nfl_team": "ATL",
+      "player_id": "11559",
+      "player_name": "Michael Penix",
+      "position": "QB",
+      "published": 1788441796000,
+      "source": "rotowire",
+      "source_key": "636134",
+      "story_id": "nfl|11559|rotowire|636134|1788441796000",
+      "title": "Michael Penix - Will start 'eventually,' if not Week 1",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs tight end Travis Kelce has looked locked in and ready to post another strong season, according to reports from Chiefs' camp. Last year, in a down year by his elite standards, Kelce racked up 76 catches for 851 yards and five touchdowns on 108 targets. He has finished with over 100 targets in 11 consecutive seasons, and the Chiefs return most of the same pass-catching options this year. In great news for Kelce's fantasy outlook, Chiefs quarterback Patrick Mahomes (knee) looks like he'll be ready for Week 1, so Kelce can continue his elite chemistry, serving as Mahomes' go-to option. He may not have the ceiling that he provided earlier in his career, but it looks like the veteran still has enough in the tank to bring great value at his current ADP. He's being drafted as a low-end TE1 option in most drafts and is RotoBaller's No. 11 TE. In that spot, he brings a high floor and good upside if he bounces back from last year's slightly reduced totals.",
+      "metadata": {
+        "description": "Kansas City Chiefs tight end Travis Kelce has looked locked in and ready to post another strong season, according to reports from Chiefs' camp. Last year, in a down year by his elite standards, Kelce racked up 76 catches for 851 yards and five touchdowns on 108 targets. He has finished with over 100 targets in 11 consecutive seasons, and the Chiefs return most of the same pass-catching options this year. In great news for Kelce's fantasy outlook, Chiefs quarterback Patrick Mahomes (knee) looks like he'll be ready for Week 1, so Kelce can continue his elite chemistry, serving as Mahomes' go-to option. He may not have the ceiling that he provided earlier in his career, but it looks like the veteran still has enough in the tank to bring great value at his current ADP. He's being drafted as a low-end TE1 option in most drafts and is RotoBaller's No. 11 TE. In that spot, he brings a high floor and good upside if he bounces back from last year's slightly reduced totals.",
+        "title": "Travis Kelce Looks Strong in Training Camp",
+        "topic_id": "1401233211643695104",
+        "url": "https://www.rotoballer.com/player-news/travis-kelce-looks-strong-in-training-camp/1922380"
+      },
+      "nfl_team": "KC",
+      "player_id": "1466",
+      "player_name": "Travis Kelce",
+      "position": "TE",
+      "published": 1788427630000,
+      "source": "rotoballer",
+      "source_key": "219993",
+      "story_id": "nfl|1466|rotoballer|219993|1788427630000",
+      "title": "Travis Kelce Looks Strong in Training Camp",
+      "url": "https://www.rotoballer.com/player-news/travis-kelce-looks-strong-in-training-camp/1922380"
+    },
     {
       "analysis": null,
       "description": "Green Bay Packers Matthew Golden is set for a larger role in the Packers' offense this season and could be a late-round sleeper with true breakout potential. Last year, as a rookie, the first-round pick from Texas totaled 29 catches for 361 receiving yards. He scored his first NFL touchdown in the team's playoff game against the Bears, finishing with four catches for 84 yards and a score. After inconsistent playing time, Golden is locked into a top-three role on the Packers for this year after the team traded Dontayvion Wicks to the Eagles and watched Romeo Doubs sign with the Patriots as a free agent. Golden should be locked into three-wide sets alongside Jayden Reed and Christian Watson. As an outside threat with breakaway speed, Golden could be a big-play-reliant starting option in deep leagues based on his more consistent role. He's ranked as RotoBaller's No. 44 WR in PPR leagues, and he's a solid late-round option to consider as you build depth into your receiving corps. The first-round pick has plenty of upside, even though he remains unproven, and he is therefore a high-risk, high-reward sleeper to target.",
