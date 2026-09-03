@@ -1,11 +1,13 @@
 {
-  "last_checked_at": "2026-09-03T18:08:53Z",
+  "last_checked_at": "2026-09-03T18:28:25Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12489|rotoballer|220017|1788443407000",
-    "nfl|13287|rotowire|636168|1788457788000",
-    "nfl|2449|rotowire|636169|1788458544000"
+    "nfl|12048|rotoballer|220018|1788444666000",
+    "nfl|13417|rotoballer|220019|1788445145000",
+    "nfl|5927|rotowire|636170|1788459130000",
+    "nfl|7021|rotowire|636172|1788459577000",
+    "nfl|8228|rotowire|636171|1788459131000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +17,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Despite Warren being the top incumbent running back in Pittsburgh, Graziano believes that Dowdle is a better bet to handle early downs out of the backfield, not only due to his experience working with new coach Mike McCarthy in Dallas but because of his combined 471 carries over the last two seasons. Both campaigns resulted in more than 1,000 yards on the ground for Dowdle, while Warren has topped out at 958 rushing yards (2025) in his four-year career. Warren does have the advantage in pass-catching chops, with 139 receptions over the last three years. As a result, both players are in line for weekly usage for the Steelers.",
+      "description": "Dowdle and Jaylen Warren are slated to have regular roles in the Steelers offense during the 2026 season, Dan Graziano of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Despite Warren being the top incumbent running back in Pittsburgh, Graziano believes that Dowdle is a better bet to handle early downs out of the backfield, not only due to his experience working with new coach Mike McCarthy in Dallas but because of his combined 471 carries over the last two seasons. Both campaigns resulted in more than 1,000 yards on the ground for Dowdle, while Warren has topped out at 958 rushing yards (2025) in his four-year career. Warren does have the advantage in pass-catching chops, with 139 receptions over the last three years. As a result, both players are in line for weekly usage for the Steelers.",
+        "description": "Dowdle and Jaylen Warren are slated to have regular roles in the Steelers offense during the 2026 season, Dan Graziano of ESPN.com reports.",
+        "title": "Rico Dowdle - Splitting backfield with Warren",
+        "topic_id": "1401304795360284672"
+      },
+      "nfl_team": "PIT",
+      "player_id": "7021",
+      "player_name": "Rico Dowdle",
+      "position": "RB",
+      "published": 1788459577000,
+      "source": "rotowire",
+      "source_key": "636172",
+      "story_id": "nfl|7021|rotowire|636172|1788459577000",
+      "title": "Rico Dowdle - Splitting backfield with Warren",
+      "url": null
+    },
+    {
+      "analysis": "With Kenny Gainwell moving on to the Buccaneers in free agency, Warren is the top incumbent running back in Pittsburgh, but Dowdle has taken Gainwell's place. Dowdle's previous experience with new coach Mike McCarthy in Dallas could dampen Warren's early-down role somewhat, but according to Graziano, Warren should take on the bulk of the pass-catching work out of Pittsburgh's backfield, as evidenced by his 139 catches in 48 regular-season games over the last three campaigns. Overall, Warren handled a career-high 251 touches in 2025, while Dowdle is coming off back-to-back seasons with 274 (with the Cowboys) and 275 (in Carolina), so both should be busy on a weekly basis this fall.",
+      "description": "Warren and Rico Dowdle are expected to have regular roles in the Steelers offense during the 2026 season, Dan Graziano of ESPN.com reports.",
+      "metadata": {
+        "analysis": "With Kenny Gainwell moving on to the Buccaneers in free agency, Warren is the top incumbent running back in Pittsburgh, but Dowdle has taken Gainwell's place. Dowdle's previous experience with new coach Mike McCarthy in Dallas could dampen Warren's early-down role somewhat, but according to Graziano, Warren should take on the bulk of the pass-catching work out of Pittsburgh's backfield, as evidenced by his 139 catches in 48 regular-season games over the last three campaigns. Overall, Warren handled a career-high 251 touches in 2025, while Dowdle is coming off back-to-back seasons with 274 (with the Cowboys) and 275 (in Carolina), so both should be busy on a weekly basis this fall.",
+        "description": "Warren and Rico Dowdle are expected to have regular roles in the Steelers offense during the 2026 season, Dan Graziano of ESPN.com reports.",
+        "title": "Jaylen Warren - To share backfield with Dowdle",
+        "topic_id": "1401303536670650368"
+      },
+      "nfl_team": "PIT",
+      "player_id": "8228",
+      "player_name": "Jaylen Warren",
+      "position": "RB",
+      "published": 1788459131000,
+      "source": "rotowire",
+      "source_key": "636171",
+      "story_id": "nfl|8228|rotowire|636171|1788459131000",
+      "title": "Jaylen Warren - To share backfield with Dowdle",
+      "url": null
+    },
+    {
+      "analysis": "McLaurin had a career-low 582 receiving yards while being limited to 10 appearances in 2025. Prior to that down year, the 2019 third-round pick out of Ohio State recorded at least 919 receiving yards in each of his first six NFL regular seasons. McLaurin and Stefon Diggs are expected to operate as the top targets for QB Jayden Daniels, with Antonio Williams, Dyami Brown, Treylon Burks, Jaylin Lane and Luke McCaffrey providing depth at wide receiver.",
+      "description": "McLaurin is set to lead a group of seven wide receivers that made Washington's initial 53-man roster.",
+      "metadata": {
+        "analysis": "McLaurin had a career-low 582 receiving yards while being limited to 10 appearances in 2025. Prior to that down year, the 2019 third-round pick out of Ohio State recorded at least 919 receiving yards in each of his first six NFL regular seasons. McLaurin and Stefon Diggs are expected to operate as the top targets for QB Jayden Daniels, with Antonio Williams, Dyami Brown, Treylon Burks, Jaylin Lane and Luke McCaffrey providing depth at wide receiver.",
+        "description": "McLaurin is set to lead a group of seven wide receivers that made Washington's initial 53-man roster.",
+        "title": "Terry McLaurin - Team's WR room comes into focus",
+        "topic_id": "1401303536666456064"
+      },
+      "nfl_team": "WAS",
+      "player_id": "5927",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
+      "published": 1788459130000,
+      "source": "rotowire",
+      "source_key": "636170",
+      "story_id": "nfl|5927|rotowire|636170|1788459130000",
+      "title": "Terry McLaurin - Team's WR room comes into focus",
+      "url": null
+    },
     {
       "analysis": "The depth chart behind Diggs appears uncertain, but the veteran wide receiver seems safely locked into a starting role opposite Terry McLaurin heading into the regular season. Antonio Williams, Dyami Brown, Treylon Burks, Jaylin Lane and Luke McCaffrey also made the team. Diggs has fallen short of 1,000 receiving yards only once in the past eight regular seasons.",
       "description": "Diggs is among the seven wide receivers on Washington's initial 53-man roster.",
@@ -696,6 +758,46 @@
       "story_id": "nfl|8131|rotowire|636138|1788445229000",
       "title": "Isaiah Likely - Breakout potential with Giants",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Athletic's Matt Barrows thinks the plan is for rookie second-round wide receiver De'Zhaun Stribling to be the team's primary F slot receiver and Mike Evans' understudy at the X spot. The Niners brought in veteran Christian Kirk as a free agent, and he has plenty of experience as a slot receiver, but he will start the 2026 campaign on Injured Reserve with a calf injury, opening up a regular role for Stribling out of the slot to begin his first year in the NFL. The 23-year-old from Ole Miss has been one of the biggest risers on draft boards at the receiver position this summer due to a strong training camp and preseason, and the fact that wideout Ricky Pearsall (knee) has already been ruled out for the season. Stribling is a big body at WR at 6-foot-2 and 207 pounds, and he combined for 1,693 receiving yards and 12 touchdowns on 107 receptions in his final two seasons at Ole Miss. He was held out of the preseason finale due to a minor shoulder injury, but he should be ready for Week 1 in Australia next Thursday against the division-rival Los Angeles Rams, where he could quickly start producing alongside Evans. Stribling will be a popular flex option in fantasy football drafts this weekend.",
+      "metadata": {
+        "description": "The Athletic's Matt Barrows thinks the plan is for rookie second-round wide receiver De'Zhaun Stribling to be the team's primary F slot receiver and Mike Evans' understudy at the X spot. The Niners brought in veteran Christian Kirk as a free agent, and he has plenty of experience as a slot receiver, but he will start the 2026 campaign on Injured Reserve with a calf injury, opening up a regular role for Stribling out of the slot to begin his first year in the NFL. The 23-year-old from Ole Miss has been one of the biggest risers on draft boards at the receiver position this summer due to a strong training camp and preseason, and the fact that wideout Ricky Pearsall (knee) has already been ruled out for the season. Stribling is a big body at WR at 6-foot-2 and 207 pounds, and he combined for 1,693 receiving yards and 12 touchdowns on 107 receptions in his final two seasons at Ole Miss. He was held out of the preseason finale due to a minor shoulder injury, but he should be ready for Week 1 in Australia next Thursday against the division-rival Los Angeles Rams, where he could quickly start producing alongside Evans. Stribling will be a popular flex option in fantasy football drafts this weekend.",
+        "title": "De'Zhaun Stribling to Begin as Starting Slot Receiver?",
+        "topic_id": "1401306049813704704",
+        "url": "https://www.rotoballer.com/player-news/dezhaun-stribling-to-begin-as-starting-slot-receiver/1922635"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1788445145000,
+      "source": "rotoballer",
+      "source_key": "220019",
+      "story_id": "nfl|13417|rotoballer|220019|1788445145000",
+      "title": "De'Zhaun Stribling to Begin as Starting Slot Receiver?",
+      "url": "https://www.rotoballer.com/player-news/dezhaun-stribling-to-begin-as-starting-slot-receiver/1922635"
+    },
+    {
+      "analysis": null,
+      "description": "The Athletic's Andrew Destin anticipates Seattle Seahawks running back George Holani being used on third downs and in short-yardage and goal-line situations, with rookie first-rounder Jadarian Price being featured plenty on first and second downs. Price was slowed by \"upper-leg soreness\" early in training camp, making it easier for Seattle to embrace more of a platoon backfield as they open the 2026 regular season without Zach Charbonnet (knee), who tore his ACL in the playoffs in January. Free-agent signee Emanuel Wilson will occasionally mix in behind Holani and Price. When Charbonnet makes his season debut, he should pair well with Price, which \"should allow Holani to slide back into a third-string role.\" Price has more short- and long-term fantasy appeal with more upside than Holani, which is why RotoBaller has Price ranked as the RB22 and Holani ranked at No. 75. If anything, Holani might be a thorn in Price's side early on in 2026. The 26-year-old former undrafted free agent from Boise State has seen only 25 carries for 83 yards (3.3 yards per carry) and one touchdown in 16 games (zero starts) in his first two years in the NFL in Seattle.",
+      "metadata": {
+        "description": "The Athletic's Andrew Destin anticipates Seattle Seahawks running back George Holani being used on third downs and in short-yardage and goal-line situations, with rookie first-rounder Jadarian Price being featured plenty on first and second downs. Price was slowed by \"upper-leg soreness\" early in training camp, making it easier for Seattle to embrace more of a platoon backfield as they open the 2026 regular season without Zach Charbonnet (knee), who tore his ACL in the playoffs in January. Free-agent signee Emanuel Wilson will occasionally mix in behind Holani and Price. When Charbonnet makes his season debut, he should pair well with Price, which \"should allow Holani to slide back into a third-string role.\" Price has more short- and long-term fantasy appeal with more upside than Holani, which is why RotoBaller has Price ranked as the RB22 and Holani ranked at No. 75. If anything, Holani might be a thorn in Price's side early on in 2026. The 26-year-old former undrafted free agent from Boise State has seen only 25 carries for 83 yards (3.3 yards per carry) and one touchdown in 16 games (zero starts) in his first two years in the NFL in Seattle.",
+        "title": "George Holani the Seahawks' Goal-Line Back?",
+        "topic_id": "1401303532589600768",
+        "url": "https://www.rotoballer.com/player-news/george-holani-the-seahawks-goal-line-back/1922630"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12048",
+      "player_name": "George Holani",
+      "position": "RB",
+      "published": 1788444666000,
+      "source": "rotoballer",
+      "source_key": "220018",
+      "story_id": "nfl|12048|rotoballer|220018|1788444666000",
+      "title": "George Holani the Seahawks' Goal-Line Back?",
+      "url": "https://www.rotoballer.com/player-news/george-holani-the-seahawks-goal-line-back/1922630"
     },
     {
       "analysis": "Etienne was one of the few Saints running backs to avoid any sort of injury scare or setback during training camp. Devin Neal (hamstring) and Ty Chandler (knee) will be out for the season after landing on injured reserve, and Alvin Kamara (knee) appears to be trending toward sitting out Week 1. Additionally, Kendre Miller sustained a minor undisclosed injury during practice Tuesday and is day-to-day, while Audric Estime is healthy but missed time in camp due to an ankle issue. After signing a four-year, $52 million deal in March, Etienne had already looked poised to handle a sizable workload for New Orleans both as a lead runner and pass catcher, and the battered condition of his backups following camp and the preseason adds further fuel to the notion that he'll be in line for heavy volume right of the gate.",

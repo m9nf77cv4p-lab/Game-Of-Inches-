@@ -2,14 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1788**
-- Newly captured: **3**
+- Stored stories: **1793**
+- Newly captured: **5**
 
 ## Latest news
 
-- **NEW — Stefon Diggs** — Stefon Diggs - Set for starting role in Washington (2026-09-03T18:02:24Z)
+- **NEW — Rico Dowdle** — Rico Dowdle - Splitting backfield with Warren (2026-09-03T18:19:37Z)
+  - Despite Warren being the top incumbent running back in Pittsburgh, Graziano believes that Dowdle is a better bet to handle early downs out of the backfield, not only due to his experience working with new coach Mike McCarthy in Dallas but because of his combined 471 carries over the last two seasons. Both campaigns resulted in more than 1,000 yards on the ground for Dowdle, while Warren has topped out at 958 rushing yards (2025) in his four-year career. Warren does have the advantage in pass-catching chops, with 139 receptions over the last three years. As a result, both players are in line for weekly usage for the Steelers.
+- **NEW — Jaylen Warren** — Jaylen Warren - To share backfield with Dowdle (2026-09-03T18:12:11Z)
+  - With Kenny Gainwell moving on to the Buccaneers in free agency, Warren is the top incumbent running back in Pittsburgh, but Dowdle has taken Gainwell's place. Dowdle's previous experience with new coach Mike McCarthy in Dallas could dampen Warren's early-down role somewhat, but according to Graziano, Warren should take on the bulk of the pass-catching work out of Pittsburgh's backfield, as evidenced by his 139 catches in 48 regular-season games over the last three campaigns. Overall, Warren handled a career-high 251 touches in 2025, while Dowdle is coming off back-to-back seasons with 274 (with the Cowboys) and 275 (in Carolina), so both should be busy on a weekly basis this fall.
+- **NEW — Terry McLaurin** — Terry McLaurin - Team's WR room comes into focus (2026-09-03T18:12:10Z)
+  - McLaurin had a career-low 582 receiving yards while being limited to 10 appearances in 2025. Prior to that down year, the 2019 third-round pick out of Ohio State recorded at least 919 receiving yards in each of his first six NFL regular seasons. McLaurin and Stefon Diggs are expected to operate as the top targets for QB Jayden Daniels, with Antonio Williams, Dyami Brown, Treylon Burks, Jaylin Lane and Luke McCaffrey providing depth at wide receiver.
+- **Stefon Diggs** — Stefon Diggs - Set for starting role in Washington (2026-09-03T18:02:24Z)
   - The depth chart behind Diggs appears uncertain, but the veteran wide receiver seems safely locked into a starting role opposite Terry McLaurin heading into the regular season. Antonio Williams, Dyami Brown, Treylon Burks, Jaylin Lane and Luke McCaffrey also made the team. Diggs has fallen short of 1,000 receiving yards only once in the past eight regular seasons.
-- **NEW — Jeremiyah Love** — Jeremiyah Love - Continues to progress (2026-09-03T17:49:48Z)
+- **Jeremiyah Love** — Jeremiyah Love - Continues to progress (2026-09-03T17:49:48Z)
   - It seems to be the only thing LaFleur is willing to say about his rookie running back's recovery at this point, as the coach has made it his daily ritual to say Love is merely progressing while offering little else in the form of insight. Love has 10 days to try and get ready for Arizona's Week 1 opener against the Chargers. He's going to need to practice in some fashion next week to have a chance to play Sunday, Sept. 13, and even then Love is still likely to split carries with Tyler Allgeier versus Los Angeles.
 - **Christian Watson** — Christian Watson - Set to reprise key role in Packers WR room (2026-09-03T17:41:58Z)
   - Watson sits atop a wide receiver depth chart that also includes Jayden Reed, Matthew Golden, Bo Melton, Skyy Moore and J. Michael Sturdivant. Savion Williams (ankle) is on IR with a designation to return, so he could be eligible to play starting in Week 5. Watson failed to exceed 620 receiving yards in any of his previous four regular seasons while being plagued by injuries, but he's expected to lead Green Bay's wide receiver room as long as he's healthy.
@@ -77,9 +83,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Jacobs will spend an indeterminate amount of time on the Commissioner's Exempt List while his legal situation is sorted out. His absence creates an opportunity for Green Bay's running backs. Brooks is the most experienced of the team's available options at the position, having appeared in 41 regular-season games, including 32 with the Packers. Injuries have limited the currently healthy Lloyd to just one regular-season appearance in two years, while the recent trade acquisition Johnson seemed to be on the verge of being cut by Pittsburgh following a 28-carry rookie campaign in 2025.
 - **Isaiah Likely** — Isaiah Likely - Breakout potential with Giants (2026-09-03T14:20:29Z)
   - Likely signed a three-year, $40 million contract with the Giants in March and has subsequently formed a strong connection with QB Jaxson Dart on and off the field. The 26-year-old tight end also has familiarity with head coach John Harbaugh from their time together in Baltimore, where Likely played from 2022 to 2025. Likely was overshadowed by Mark Andrews on the Ravens, but the former has a clear path to a larger role in New York, where Likely will be competing for targets with fellow TE Theo Johnson (shoulder), as well as a WR room that includes Darius Slayton, Darnell Mooney, Malachi Fields and Odell Beckham behind Nabers.
+- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling to Begin as Starting Slot Receiver? (2026-09-03T14:19:05Z)
+  - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-to-begin-as-starting-slot-receiver/1922635
+- **NEW — George Holani** — George Holani the Seahawks' Goal-Line Back? (2026-09-03T14:11:06Z)
+  - Source: https://www.rotoballer.com/player-news/george-holani-the-seahawks-goal-line-back/1922630
 - **Travis Etienne** — Travis Etienne - Finishes training camp healthy (2026-09-03T14:02:17Z)
   - Etienne was one of the few Saints running backs to avoid any sort of injury scare or setback during training camp. Devin Neal (hamstring) and Ty Chandler (knee) will be out for the season after landing on injured reserve, and Alvin Kamara (knee) appears to be trending toward sitting out Week 1. Additionally, Kendre Miller sustained a minor undisclosed injury during practice Tuesday and is day-to-day, while Audric Estime is healthy but missed time in camp due to an ankle issue. After signing a four-year, $52 million deal in March, Etienne had already looked poised to handle a sizable workload for New Orleans both as a lead runner and pass catcher, and the battered condition of his backups following camp and the preseason adds further fuel to the notion that he'll be in line for heavy volume right of the gate.
-- **NEW — RJ Harvey** — RJ Harvey has Value in PPR Leagues in Passing Role (2026-09-03T13:50:07Z)
+- **RJ Harvey** — RJ Harvey has Value in PPR Leagues in Passing Role (2026-09-03T13:50:07Z)
   - Source: https://www.rotoballer.com/player-news/rj-harvey-has-value-in-ppr-leagues-in-passing-role/1922611
 - **Josh Allen** — An Improved Surrounding Cast Only Strengthens Josh Allen's QB1 Case (2026-09-03T13:48:09Z)
   - Source: https://www.rotoballer.com/player-news/an-improved-surrounding-cast-only-strengthens-josh-allens-qb1-case-for-2026/1922609
@@ -199,15 +209,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jaguars-feel-bhayshul-tuten-can-be-a-complete-no-1-running-back/1922202
 - **Saquon Barkley** — Saquon Barkley is Unharmed After Attempted Burglary of His Home (2026-09-02T21:06:09Z)
   - Source: https://www.rotoballer.com/player-news/saquon-barkley-is-unharmed-after-attempted-burglary-of-his-home/1922189
-- **Brian Thomas** — Brian Thomas Jr. (shoulder) practicing in full (2026-09-02T21:05:34.638000Z)
-  - Thomas has been limited by a shoulder injury recently, but he was back to full practice activity on Tuesday. The third-year wideout should be good to go for Week 1. 
-  - Source: https://www.fantasypros.com/nfl/news/605657/brian-thomas-jr-shoulder-practicing-full.php
-- **Jakobi Meyers** — Jakobi Meyers (hand) gets in limited practice Wednesday (2026-09-02T21:05:34.624000Z)
-  - Meyers is "all good," according to head coach Liam Coen. The veteran receiver has been practicing in a limited capacity this week and is not a concern for Week 1. 
-  - Source: https://www.fantasypros.com/nfl/news/605658/jakobi-meyers-hand-gets-limited-practice-wednesday.php
-- **Bijan Robinson** — Bijan Robinson - Expecting more open running room in 2026 (2026-09-02T20:59:06Z)
-  - Robinson led the NFL with 2,298 scrimmage yards in 2025, with the 24-year-old doing much of his damage on outside runs in former offensive coordinator Zac Robinson's wide-zone running scheme. The Falcons won't completely abandon those zone concepts during the upcoming season, but the new coaching staff plans to implement more gap and power-style run plays that they believe will help Robinson to maintain effectiveness and while still allowing him to put his explosiveness in the open field on display. Rees and head coach Kevin Stefanski also plan to keep Robinson heavily involved in the screen game, after he led all running backs with 20 receptions on screens last season. While working with a less talented Browns running-back room in 2025, Stefanski and Rees helped Cleveland generate 413 yards on screen plays, second-most in the NFL.
-- **Kyle Monangai** — Kyle Monangai - Resumes running (2026-09-02T20:37:23Z)
-  - Since hyperextending his right knee in practice Aug. 16, Monangai has been described as "week-to-week" on multiple occasions by coach Ben Johnson, including as recently as Tuesday, according to Chris Emma of 670TheScore.com. Swift's view of Monangai one day later likely means the latter ran on the side versus in any drills, but it's at least the first positive sign that he's making progress in his recovery. If Monangai ends up being limited or even sidelined to begin the season, Swift likely would be a bellcow in the Bears offense, with Roschon Johnson on hand for any RB reps that linger.
-- **Khalil Shakir** — Khalil Shakir - Optimism regarding Week 1 (2026-09-02T20:34:38Z)
-  - Since making an appearance preseason Week 1 on Aug. 15, Shakir has been sidelined due to an undisclosed injury, including no activity at Tuesday's practice. The Bills will post their first Week 1 injury report next Wednesday, and how he's listed then will provide a sense for his status ahead of the regular-season opener.
