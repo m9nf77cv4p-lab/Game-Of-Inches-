@@ -2,21 +2,27 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1730**
-- Newly captured: **1**
+- Stored stories: **1733**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Tyler Shough** — Tyler Shough - Shines in final camp practice (2026-09-03T13:45:43Z)
+  - Though he didn't play at all in the preseason while the Saints instead opened up more reps for backups Spencer Rattler and Zach Wilson, Shough reportedly looked sharp throughout training camp while keeping the New Orleans offense productive. He was able to close out camp on a high note by tossing three touchdown passes during 11-on-11 sessions, and Shough would have had two more had Devaughn Vele secured a one-handed catch in the end zone and had Chris Olave not fumbled near the goal line on another play. New Orleans will be without one of its key playmakers to begin the season in rookie first-round wideout Jordyn Tyson (hamstring), but Shough appeared to build good chemistry with new starting running back Travis Etienne, who was a frequent target of the quarterback during camp practices.
 - **Dylan Sampson** — Dylan Sampson - Rests up during preseason finale (2026-09-03T13:32:28Z)
   - Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.
 - **Michael Penix** — Michael Penix - Will start 'eventually,' if not Week 1 (2026-09-03T13:23:16Z)
   - Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.
-- **NEW — Aaron Jones** — Aaron Jones Sr. Could Land in Smaller Role (2026-09-03T09:40:34Z)
+- **NEW — Rashid Shaheed** — Rashid Shaheed Ready for Larger Role (2026-09-03T09:49:08Z)
+  - Source: https://www.rotoballer.com/player-news/rashid-shaheed-ready-for-larger-role/1922403
+- **Aaron Jones** — Aaron Jones Sr. Could Land in Smaller Role (2026-09-03T09:40:34Z)
   - Source: https://www.rotoballer.com/player-news/aaron-jones-sr-could-land-in-smaller-role/1922395
 - **Travis Kelce** — Travis Kelce Looks Strong in Training Camp (2026-09-03T09:27:10Z)
   - Source: https://www.rotoballer.com/player-news/travis-kelce-looks-strong-in-training-camp/1922380
 - **Matthew Golden** — Matthew Golden Brings Breakout Potential in Expanded Role (2026-09-03T09:13:05Z)
   - Source: https://www.rotoballer.com/player-news/matthew-golden-brings-breakout-potential-in-expanded-role/1922368
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Gaining Steam as the No. 1 RB for Patriots (2026-09-03T01:17:09Z)
+  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-gaining-steam-as-the-no-1-rb-for-patriots/1922305
 - **Davante Adams** — Davante Adams - Logs no preseason action (2026-09-03T01:04:50Z)
   - After logging at least 1,000 receiving yards six times in seven seasons between 2018 and 2024, Adams put together just 789 such yards in his age-33 campaign last year over 14 regular-season games, though he did miss three contest due to a hamstring injury. He salvaged his season with an NFL-leading 14 touchdown catches, displaying an incredible rapport with QB Matthew Stafford. With the Rams' top WR, Puka Nacua, still tending to psoas soreness a week before the team's Week 1 matchup with the 49ers next Thursday, Sept. 10, Adams effectively could be Stafford's No. 1 target out of the gate if Nacua isn't 100 percent.
 - **Ryan Flournoy** — Ryan Flournoy - Locked in as WR3 (2026-09-03T01:04:21Z)
@@ -208,9 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Thomas injured his shoulder in a joint practice with the Buccaneers one week earlier, but he avoided a major scare and was back on the field a few days later while sporting a no-contact jersey. The wideout was seemingly able to shed that jersey and take some contact during Tuesday's session, so he looks like he'll be in the clear for the Jaguars' Sept. 13 season opener versus the Browns.
 - **Fernando Mendoza** — Fernando Mendoza to Serve as Raiders QB2 (2026-09-02T13:51:23Z)
   - Source: https://www.rotoballer.com/player-news/fernando-mendoza-to-serve-as-raiders-qb2/1921973
-- **Jakobi Meyers** — Jakobi Meyers - Will practice Wednesday (2026-09-02T13:41:16Z)
-  - Meyers has been out of action since injuring his hand during a joint practice with the Panthers nearly two weeks ago, but he is set to return to the field Wednesday. With Meyers cleared to get some work in, it seems likely he is on track to take the field Week 1 against the Browns.
-- **Jonathon Brooks** — Panthers "Very Optimistic" Jonathon Brooks Will Be Available in Week 1 (2026-09-02T13:40:10Z)
-  - Source: https://www.rotoballer.com/player-news/panthers-very-optimistic-jonathon-brooks-will-be-available-in-week-1/1921961
-- **Blake Corum** — Blake Corum - Sits out preseason in advance of Year 3 (2026-09-02T13:37:30Z)
-  - Though Kyren Williams remains listed as the top running back on the Rams' unofficial depth chart, head coach Sean McVay's decision to hold out Corum throughout the preseason along with many of the team's key players suggests that the 24-year-old is essentially being treated as a co-starter heading into his third NFL season. After seeing limited action as a rookie in 2024, Corum doubled up his snap count in Year 2, finishing the regular season with 746 yards and six touchdowns on 145 carries while chipping in eight receptions for 36 yards on 14 targets over 17 games. While Williams remains the better bet to lead the Los Angeles backfield in carries in 2026, Corum could be primed to take on at least a slightly larger share of the workload after he was highly efficient with his opportunities a season ago.

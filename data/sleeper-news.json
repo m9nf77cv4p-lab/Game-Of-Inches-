@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-03T13:50:11Z",
+  "last_checked_at": "2026-09-03T14:00:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4199|rotoballer|219994|1788428434000"
+    "nfl|12545|rotowire|636136|1788443143000",
+    "nfl|7611|rotoballer|219995|1788398229000",
+    "nfl|8676|rotoballer|219996|1788428948000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Though he didn't play at all in the preseason while the Saints instead opened up more reps for backups Spencer Rattler and Zach Wilson, Shough reportedly looked sharp throughout training camp while keeping the New Orleans offense productive. He was able to close out camp on a high note by tossing three touchdown passes during 11-on-11 sessions, and Shough would have had two more had Devaughn Vele secured a one-handed catch in the end zone and had Chris Olave not fumbled near the goal line on another play. New Orleans will be without one of its key playmakers to begin the season in rookie first-round wideout Jordyn Tyson (hamstring), but Shough appeared to build good chemistry with new starting running back Travis Etienne, who was a frequent target of the quarterback during camp practices.",
+      "description": "Shough drew positive reviews for his performance during the Saints' final practice of training camp Aug. 26, Grant Chachere of SI.com reports.",
+      "metadata": {
+        "analysis": "Though he didn't play at all in the preseason while the Saints instead opened up more reps for backups Spencer Rattler and Zach Wilson, Shough reportedly looked sharp throughout training camp while keeping the New Orleans offense productive. He was able to close out camp on a high note by tossing three touchdown passes during 11-on-11 sessions, and Shough would have had two more had Devaughn Vele secured a one-handed catch in the end zone and had Chris Olave not fumbled near the goal line on another play. New Orleans will be without one of its key playmakers to begin the season in rookie first-round wideout Jordyn Tyson (hamstring), but Shough appeared to build good chemistry with new starting running back Travis Etienne, who was a frequent target of the quarterback during camp practices.",
+        "description": "Shough drew positive reviews for his performance during the Saints' final practice of training camp Aug. 26, Grant Chachere of SI.com reports.",
+        "title": "Tyler Shough - Shines in final camp practice",
+        "topic_id": "1401236989394558976"
+      },
+      "nfl_team": "NO",
+      "player_id": "12545",
+      "player_name": "Tyler Shough",
+      "position": "QB",
+      "published": 1788443143000,
+      "source": "rotowire",
+      "source_key": "636136",
+      "story_id": "nfl|12545|rotowire|636136|1788443143000",
+      "title": "Tyler Shough - Shines in final camp practice",
+      "url": null
+    },
     {
       "analysis": "Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.",
       "description": "Sampson was rested for the Browns' 37-13 win over the Patriots in their Aug. 27 preseason finale.",
@@ -52,6 +74,26 @@
       "story_id": "nfl|11559|rotowire|636134|1788441796000",
       "title": "Michael Penix - Will start 'eventually,' if not Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Rashid Shaheed joined the team midseason last year in a trade from the Saints, and he immediately added a big-play threat to the offense and on special teams. After working with Sam Darnold throughout training camp and the preseason, Shaheed seems much more comfortable in the offense, according to Gregg Bell, and the veteran speedster has the potential to be a big part of Seattle's passing game. The Seahawks will lean heavily on Jaxson Smith-Njigba as their top receiver again this year, but the only other real competition for Shaheed is from veteran Cooper Kupp since Tory Horton (shin) is still recovering from surgery. Shaheed is the No. 55 WR in RotoBaller's rankings, but he brings a lot of big-play potential and a good ceiling as a sleeper to target late in drafts. If he lands on the waiver wire, he'll also be a name to watch in the early going to see if he's in a larger role in his first full season in Seattle.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Rashid Shaheed joined the team midseason last year in a trade from the Saints, and he immediately added a big-play threat to the offense and on special teams. After working with Sam Darnold throughout training camp and the preseason, Shaheed seems much more comfortable in the offense, according to Gregg Bell, and the veteran speedster has the potential to be a big part of Seattle's passing game. The Seahawks will lean heavily on Jaxson Smith-Njigba as their top receiver again this year, but the only other real competition for Shaheed is from veteran Cooper Kupp since Tory Horton (shin) is still recovering from surgery. Shaheed is the No. 55 WR in RotoBaller's rankings, but he brings a lot of big-play potential and a good ceiling as a sleeper to target late in drafts. If he lands on the waiver wire, he'll also be a name to watch in the early going to see if he's in a larger role in his first full season in Seattle.",
+        "title": "Rashid Shaheed Ready for Larger Role",
+        "topic_id": "1401238245378924544",
+        "url": "https://www.rotoballer.com/player-news/rashid-shaheed-ready-for-larger-role/1922403"
+      },
+      "nfl_team": "SEA",
+      "player_id": "8676",
+      "player_name": "Rashid Shaheed",
+      "position": "WR",
+      "published": 1788428948000,
+      "source": "rotoballer",
+      "source_key": "219996",
+      "story_id": "nfl|8676|rotoballer|219996|1788428948000",
+      "title": "Rashid Shaheed Ready for Larger Role",
+      "url": "https://www.rotoballer.com/player-news/rashid-shaheed-ready-for-larger-role/1922403"
     },
     {
       "analysis": null,
@@ -112,6 +154,26 @@
       "story_id": "nfl|12501|rotoballer|219992|1788426785000",
       "title": "Matthew Golden Brings Breakout Potential in Expanded Role",
       "url": "https://www.rotoballer.com/player-news/matthew-golden-brings-breakout-potential-in-expanded-role/1922368"
+    },
+    {
+      "analysis": null,
+      "description": "Running back Rhamondre Stevenson appears to be poised to lead the New England Patriots' backfield in the early part of the 2026 season as fellow tailback TreVeyon Henderson remains sidelined with an ankle injury he suffered on Aug. 24. Mike Reiss of ESPN reported on Aug. 31 that Henderson had not yet been cleared for a return to full participation, and he did not practice on Sept. 1. Meanwhile, Stevenson, who has drawn praise throughout training camp, continues to practice and seems to be the front-runner for No. 1 running back duties in New England. Stevenson is carrying momentum from the 2025 postseason, where he out-carried Henderson 58-30 and out-rushed Henderson by a tally of 217 yards to 76. While Henderson could be ready for Week 1 against the Seattle Seahawks, Stevenson is currently in the driver's seat for a larger workload. Stevenson's current Yahoo ADP of 78.1 is good value, as he ranks as RotoBaller's No. 58 overall player and No. 23 running back in half-PPR leagues.",
+      "metadata": {
+        "description": "Running back Rhamondre Stevenson appears to be poised to lead the New England Patriots' backfield in the early part of the 2026 season as fellow tailback TreVeyon Henderson remains sidelined with an ankle injury he suffered on Aug. 24. Mike Reiss of ESPN reported on Aug. 31 that Henderson had not yet been cleared for a return to full participation, and he did not practice on Sept. 1. Meanwhile, Stevenson, who has drawn praise throughout training camp, continues to practice and seems to be the front-runner for No. 1 running back duties in New England. Stevenson is carrying momentum from the 2025 postseason, where he out-carried Henderson 58-30 and out-rushed Henderson by a tally of 217 yards to 76. While Henderson could be ready for Week 1 against the Seattle Seahawks, Stevenson is currently in the driver's seat for a larger workload. Stevenson's current Yahoo ADP of 78.1 is good value, as he ranks as RotoBaller's No. 58 overall player and No. 23 running back in half-PPR leagues.",
+        "title": "Rhamondre Stevenson Gaining Steam as the No. 1 RB for Patriots",
+        "topic_id": "1401236987641331712",
+        "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-gaining-steam-as-the-no-1-rb-for-patriots/1922305"
+      },
+      "nfl_team": "NE",
+      "player_id": "7611",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "published": 1788398229000,
+      "source": "rotoballer",
+      "source_key": "219995",
+      "story_id": "nfl|7611|rotoballer|219995|1788398229000",
+      "title": "Rhamondre Stevenson Gaining Steam as the No. 1 RB for Patriots",
+      "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-gaining-steam-as-the-no-1-rb-for-patriots/1922305"
     },
     {
       "analysis": "After logging at least 1,000 receiving yards six times in seven seasons between 2018 and 2024, Adams put together just 789 such yards in his age-33 campaign last year over 14 regular-season games, though he did miss three contest due to a hamstring injury. He salvaged his season with an NFL-leading 14 touchdown catches, displaying an incredible rapport with QB Matthew Stafford. With the Rams' top WR, Puka Nacua, still tending to psoas soreness a week before the team's Week 1 matchup with the 49ers next Thursday, Sept. 10, Adams effectively could be Stafford's No. 1 target out of the gate if Nacua isn't 100 percent.",
