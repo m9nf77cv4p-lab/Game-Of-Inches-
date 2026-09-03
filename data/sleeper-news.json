@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-09-03T17:54:10Z",
+  "last_checked_at": "2026-09-03T18:08:53Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12481|rotowire|636166|1788457147000",
-    "nfl|4984|rotoballer|220016|1788443289000",
-    "nfl|8167|rotowire|636167|1788457318000"
+    "nfl|12489|rotoballer|220017|1788443407000",
+    "nfl|13287|rotowire|636168|1788457788000",
+    "nfl|2449|rotowire|636169|1788458544000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +15,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The depth chart behind Diggs appears uncertain, but the veteran wide receiver seems safely locked into a starting role opposite Terry McLaurin heading into the regular season. Antonio Williams, Dyami Brown, Treylon Burks, Jaylin Lane and Luke McCaffrey also made the team. Diggs has fallen short of 1,000 receiving yards only once in the past eight regular seasons.",
+      "description": "Diggs is among the seven wide receivers on Washington's initial 53-man roster.",
+      "metadata": {
+        "analysis": "The depth chart behind Diggs appears uncertain, but the veteran wide receiver seems safely locked into a starting role opposite Terry McLaurin heading into the regular season. Antonio Williams, Dyami Brown, Treylon Burks, Jaylin Lane and Luke McCaffrey also made the team. Diggs has fallen short of 1,000 receiving yards only once in the past eight regular seasons.",
+        "description": "Diggs is among the seven wide receivers on Washington's initial 53-man roster.",
+        "title": "Stefon Diggs - Set for starting role in Washington",
+        "topic_id": "1401301017940754432"
+      },
+      "nfl_team": "WAS",
+      "player_id": "2449",
+      "player_name": "Stefon Diggs",
+      "position": "WR",
+      "published": 1788458544000,
+      "source": "rotowire",
+      "source_key": "636169",
+      "story_id": "nfl|2449|rotowire|636169|1788458544000",
+      "title": "Stefon Diggs - Set for starting role in Washington",
+      "url": null
+    },
+    {
+      "analysis": "It seems to be the only thing LaFleur is willing to say about his rookie running back's recovery at this point, as the coach has made it his daily ritual to say Love is merely progressing while offering little else in the form of insight. Love has 10 days to try and get ready for Arizona's Week 1 opener against the Chargers. He's going to need to practice in some fashion next week to have a chance to play Sunday, Sept. 13, and even then Love is still likely to split carries with Tyler Allgeier versus Los Angeles.",
+      "description": "Coach Mike LaFleur said Thursday that Love (ankle) is \"progressing,\" Howard Balzer of Cards Wire reports.",
+      "metadata": {
+        "analysis": "It seems to be the only thing LaFleur is willing to say about his rookie running back's recovery at this point, as the coach has made it his daily ritual to say Love is merely progressing while offering little else in the form of insight. Love has 10 days to try and get ready for Arizona's Week 1 opener against the Chargers. He's going to need to practice in some fashion next week to have a chance to play Sunday, Sept. 13, and even then Love is still likely to split carries with Tyler Allgeier versus Los Angeles.",
+        "description": "Coach Mike LaFleur said Thursday that Love (ankle) is \"progressing,\" Howard Balzer of Cards Wire reports.",
+        "title": "Jeremiyah Love - Continues to progress",
+        "topic_id": "1401298500972449792"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788457788000,
+      "source": "rotowire",
+      "source_key": "636168",
+      "story_id": "nfl|13287|rotowire|636168|1788457788000",
+      "title": "Jeremiyah Love - Continues to progress",
+      "url": null
+    },
     {
       "analysis": "Watson sits atop a wide receiver depth chart that also includes Jayden Reed, Matthew Golden, Bo Melton, Skyy Moore and J. Michael Sturdivant. Savion Williams (ankle) is on IR with a designation to return, so he could be eligible to play starting in Week 5. Watson failed to exceed 620 receiving yards in any of his previous four regular seasons while being plagued by injuries, but he's expected to lead Green Bay's wide receiver room as long as he's healthy.",
       "description": "Watson is one of six wide receivers on the Packers' initial 53-man roster, per Wes Hodkiewicz of the team's official site.",
@@ -679,10 +719,30 @@
     },
     {
       "analysis": null,
+      "description": "Denver Broncos second-year running back RJ Harvey could be a key part of the team's passing game in 2026, according to Jon Heath of Broncos Wire. After the Broncos took Harvey in the second round last year out of Central Florida, the 25-year-old took on a huge role after J.K. Dobbins' season-ending foot injury and finished with 540 rushing yards and seven rushing touchdowns on 146 carries in 17 regular-season games, adding 47 receptions on 58 targets for 356 yards and another five TDs. His receiving skills were evident when he took a pass from quarterback Bo Nix for 21 yards and a touchdown last week. \"That's where you felt the initial impact,\" head coach Sean Payton said of Harvey's receiving ability, \"and you saw marks of that in college, and you also saw him as a runner. He's having a good camp in both areas [rushing and receiving], but it's certainly a strength of his.\" Denver's three-back rotation this year of Dobbins, Harvey, and rookie Jonah Coleman will limit Harvey's overall fantasy upside, but he still qualifies as a sleeper flex option in point-per-reception leagues in a Broncos offense that could be much more explosive in 2026.",
+      "metadata": {
+        "description": "Denver Broncos second-year running back RJ Harvey could be a key part of the team's passing game in 2026, according to Jon Heath of Broncos Wire. After the Broncos took Harvey in the second round last year out of Central Florida, the 25-year-old took on a huge role after J.K. Dobbins' season-ending foot injury and finished with 540 rushing yards and seven rushing touchdowns on 146 carries in 17 regular-season games, adding 47 receptions on 58 targets for 356 yards and another five TDs. His receiving skills were evident when he took a pass from quarterback Bo Nix for 21 yards and a touchdown last week. \"That's where you felt the initial impact,\" head coach Sean Payton said of Harvey's receiving ability, \"and you saw marks of that in college, and you also saw him as a runner. He's having a good camp in both areas [rushing and receiving], but it's certainly a strength of his.\" Denver's three-back rotation this year of Dobbins, Harvey, and rookie Jonah Coleman will limit Harvey's overall fantasy upside, but he still qualifies as a sleeper flex option in point-per-reception leagues in a Broncos offense that could be much more explosive in 2026.",
+        "title": "RJ Harvey has Value in PPR Leagues in Passing Role",
+        "topic_id": "1401298547634143232",
+        "url": "https://www.rotoballer.com/player-news/rj-harvey-has-value-in-ppr-leagues-in-passing-role/1922611"
+      },
+      "nfl_team": "DEN",
+      "player_id": "12489",
+      "player_name": "RJ Harvey",
+      "position": "RB",
+      "published": 1788443407000,
+      "source": "rotoballer",
+      "source_key": "220017",
+      "story_id": "nfl|12489|rotoballer|220017|1788443407000",
+      "title": "RJ Harvey has Value in PPR Leagues in Passing Role",
+      "url": "https://www.rotoballer.com/player-news/rj-harvey-has-value-in-ppr-leagues-in-passing-role/1922611"
+    },
+    {
+      "analysis": null,
       "description": "Buffalo Bills quarterback Josh Allen has finished no lower than the QB2 in six consecutive seasons, making a strong claim to the greatest fantasy quarterback of all time while racking up four overall QB1 finishes over that span. With the addition of wide receiver DJ Moore and the potential return to health of tight end Dalton Kincaid, Allen could find himself leading one of Buffalo's most complete offenses in years, creating the possibility of another 4,000-yard passing campaign after falling short of that mark in each of the past two seasons. With one of the safest rushing floors the league has ever known and the potential of a vintage passing ceiling, it should come as no surprise that Allen ranks as RotoBaller's QB1 and stands alone as the only player at the position routinely going in the first two rounds of 2026 single-quarterback drafts.",
       "metadata": {
         "description": "Buffalo Bills quarterback Josh Allen has finished no lower than the QB2 in six consecutive seasons, making a strong claim to the greatest fantasy quarterback of all time while racking up four overall QB1 finishes over that span. With the addition of wide receiver DJ Moore and the potential return to health of tight end Dalton Kincaid, Allen could find himself leading one of Buffalo's most complete offenses in years, creating the possibility of another 4,000-yard passing campaign after falling short of that mark in each of the past two seasons. With one of the safest rushing floors the league has ever known and the potential of a vintage passing ceiling, it should come as no surprise that Allen ranks as RotoBaller's QB1 and stands alone as the only player at the position routinely going in the first two rounds of 2026 single-quarterback drafts.",
-        "title": "An Improved Surrounding Cast Only Strengthens Josh Allen's QB1 Case for 2026",
+        "title": "An Improved Surrounding Cast Only Strengthens Josh Allen's QB1 Case",
         "topic_id": "1401297240319885312",
         "url": "https://www.rotoballer.com/player-news/an-improved-surrounding-cast-only-strengthens-josh-allens-qb1-case-for-2026/1922609"
       },
@@ -694,7 +754,7 @@
       "source": "rotoballer",
       "source_key": "220016",
       "story_id": "nfl|4984|rotoballer|220016|1788443289000",
-      "title": "An Improved Surrounding Cast Only Strengthens Josh Allen's QB1 Case for 2026",
+      "title": "An Improved Surrounding Cast Only Strengthens Josh Allen's QB1 Case",
       "url": "https://www.rotoballer.com/player-news/an-improved-surrounding-cast-only-strengthens-josh-allens-qb1-case-for-2026/1922609"
     },
     {
