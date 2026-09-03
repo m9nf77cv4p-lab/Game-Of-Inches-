@@ -2,16 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1704**
-- Newly captured: **3**
+- Stored stories: **1706**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Trey McBride** — Trey McBride - No. 1 TE on depth chart (2026-09-02T23:38:25Z)
+- **NEW — Sam Darnold** — Sam Darnold - Idle for preseason action (2026-09-02T23:57:13Z)
+  - Darnold, Jaxon Smith-Njigba, Rashid Shaheed, AJ Barner and other Seahawks offensive starters observed all three preseason games from the sidelines, with the team seemingly not wanting to risk injury to its top contributors ahead of Week 1 against the Patriots. Darnold's pass catchers are mostly the same as those he threw to during last year's Super Bowl run, though the veteran signal caller is working under new offensive coordinator Brian Fleury after Klint Kubiak accepted the Raiders' head coach position. Super Bowl LX MVP Kenneth Walker also bolted to Kansas City in free agency, and with Zach Charbonnet (knee) opening the season on the reserve/PUP list, Darnold's top options out of the backfield are rookie first-rounder Jadarian Price and George Holani. Darnold finished the 2025 regular season fifth and seventh in passing yards (4,048) and completion percentage (67.7), respectively, though his 14 interceptions were third-most behind Geno Smith (17) and Tua Tagovailoa (15).
+- **NEW — Saquon Barkley** — Saquon Barkley - No preseason action (2026-09-02T23:56:26Z)
+  - At this point in his standout career, Barkley doesn't require exhibition reps to be his usual self once the games begin to count, so it's understandable that coach Nick Sirianni opted to rest Philadelphia's No. 1 RB and other key starters. After reeling off 2,005 rushing yards in 2024 and winning a Super Bowl, Barkley took a step back last season, but he still notched 1,413 yards from scrimmage and nine total TDs on 317 touches in 16 regular-season games. Sirianni has passed off play-calling duties to new offensive coordinator Sean Mannion, so it remains to be seen how effective Barkley will be in the new scheme.
+- **Trey McBride** — Trey McBride - No. 1 TE on depth chart (2026-09-02T23:38:25Z)
   - McBride emerged as a target hog in 2024, racking up 147 in 16 regular-season games en route to 111 catches and 1,146 yards but just two touchdowns. The end-zone woes finally came to a close last season, though, as he finished with a monster 126-1,239-11 line on 169 targets in 17 regular-season contests. The catch count set an NFL record for most by a tight end in a campaign, surpassing Zach Ertz's 116 from his 2018 season with the Eagles. McBride remains the top pass catcher for QB Jacoby Brissett and Arizona's offense, but he does have competition for looks from WRs Marvin Harrison and Michael Wilson.
-- **NEW — Isaiah Davis** — Isaiah Davis - Doesn't practice Wednesday (2026-09-02T23:36:45Z)
+- **Isaiah Davis** — Isaiah Davis - Doesn't practice Wednesday (2026-09-02T23:36:45Z)
   - Davis continues to recover from a knee injury that he sustained in a training camp practice in early August. He's been limited to side work and has yet to be cleared for team drills, and his practice participation next week will provide a better sense of whether he'll be available for the Jets' regular-season opener against the Titans on Sunday, Sept. 13. Breece Hall (groin) is also nursing an injury, leaving Braelon Allen and Kene Nwangwu as the two healthy running backs on the Jets' 53-man roster.
-- **NEW — J.K. Dobbins** — J.K. Dobbins - Ready for Week 1 (2026-09-02T23:28:56Z)
+- **J.K. Dobbins** — J.K. Dobbins - Ready for Week 1 (2026-09-02T23:28:56Z)
   - Dobbins' practice participation in training camp was limited by a soft-tissue injury, which also caused the veteran running back to be held out of all three of the Broncos' preseason games out of caution. There's no indication that the issue is long-term, and Dobbins heads into Week 1 leading a backfield group that also consists of RJ Harvey, Tyler Badie and rookie fourth-rounder Jonah Coleman. Dobbins signed a two-year deal with the Broncos in March following his 2025 campaign with the Chargers, when he turned 153 carries into 772 yards (5.0 YPC) and four touchdowns while adding 11 catches (on 14 targets) for 37 yards across 10 regular-season games.
 - **KC Concepcion** — KC Concepcion - Looking to build off strong camp (2026-09-02T23:15:35Z)
   - "...Seeing that these coaches have trust built up in me to put me in different type of situations, I would say that it only makes me more excited for Week 1," Concepcion shared with reporters Wednesday. Concepcion's lone preseason appearance was against the Bears on Aug. 15, but he looked good in that game and finished with three catches (on four targets) for 27 yards while adding a 14-yard rushing touchdown and a 31-yard punt return. The Texas A&amp;M product was one of the standout players for the Browns in training camp, and the rookie first-rounder has enough trust from his coaching staff to be an immediate contributor on offense. Concepcion, fellow rookie Denzel Boston, veteran Jerry Jeudy, tight end Harold Fannin and running back Quinshon Judkins figure to be the key playmakers for the Browns this season, with Deshaun Watson manning the offense.
@@ -210,7 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-a-full-go-in-tuesdays-practice/1921801
 - **Jakobi Meyers** — Jakobi Meyers Will Practice on Wednesday (2026-09-02T09:52:09Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-meyers-will-practice-on-wednesday/1921796
-- **Dalton Kincaid** — Dalton Kincaid Primed for Bigger Role in 2026 After Strong Camp (2026-09-02T09:44:07Z)
-  - Source: https://www.rotoballer.com/player-news/dalton-kincaid-primed-for-bigger-role-in-2026-after-strong-camp/1921789
-- **Dallas Goedert** — Dallas Goedert Set for Another High-Volume Season in 2026 (2026-09-02T09:30:59Z)
-  - Source: https://www.rotoballer.com/player-news/dallas-goedert-set-for-another-high-volume-season-in-2026/1921773

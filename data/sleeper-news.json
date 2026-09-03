@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-02T23:40:50Z",
+  "last_checked_at": "2026-09-03T00:01:08Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11571|rotowire|636047|1788392205000",
-    "nfl|6806|rotowire|636043|1788391736000",
-    "nfl|8130|rotowire|636048|1788392305000"
+    "nfl|4866|rotowire|636053|1788393386000",
+    "nfl|4943|rotowire|636055|1788393433000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Darnold, Jaxon Smith-Njigba, Rashid Shaheed, AJ Barner and other Seahawks offensive starters observed all three preseason games from the sidelines, with the team seemingly not wanting to risk injury to its top contributors ahead of Week 1 against the Patriots. Darnold's pass catchers are mostly the same as those he threw to during last year's Super Bowl run, though the veteran signal caller is working under new offensive coordinator Brian Fleury after Klint Kubiak accepted the Raiders' head coach position. Super Bowl LX MVP Kenneth Walker also bolted to Kansas City in free agency, and with Zach Charbonnet (knee) opening the season on the reserve/PUP list, Darnold's top options out of the backfield are rookie first-rounder Jadarian Price and George Holani. Darnold finished the 2025 regular season fifth and seventh in passing yards (4,048) and completion percentage (67.7), respectively, though his 14 interceptions were third-most behind Geno Smith (17) and Tua Tagovailoa (15).",
+      "description": "Darnold did not participate in any of the Seahawks' three preseason games.",
+      "metadata": {
+        "analysis": "Darnold, Jaxon Smith-Njigba, Rashid Shaheed, AJ Barner and other Seahawks offensive starters observed all three preseason games from the sidelines, with the team seemingly not wanting to risk injury to its top contributors ahead of Week 1 against the Patriots. Darnold's pass catchers are mostly the same as those he threw to during last year's Super Bowl run, though the veteran signal caller is working under new offensive coordinator Brian Fleury after Klint Kubiak accepted the Raiders' head coach position. Super Bowl LX MVP Kenneth Walker also bolted to Kansas City in free agency, and with Zach Charbonnet (knee) opening the season on the reserve/PUP list, Darnold's top options out of the backfield are rookie first-rounder Jadarian Price and George Holani. Darnold finished the 2025 regular season fifth and seventh in passing yards (4,048) and completion percentage (67.7), respectively, though his 14 interceptions were third-most behind Geno Smith (17) and Tua Tagovailoa (15).",
+        "description": "Darnold did not participate in any of the Seahawks' three preseason games.",
+        "title": "Sam Darnold - Idle for preseason action",
+        "topic_id": "1401028085964382208"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1788393433000,
+      "source": "rotowire",
+      "source_key": "636055",
+      "story_id": "nfl|4943|rotowire|636055|1788393433000",
+      "title": "Sam Darnold - Idle for preseason action",
+      "url": null
+    },
+    {
+      "analysis": "At this point in his standout career, Barkley doesn't require exhibition reps to be his usual self once the games begin to count, so it's understandable that coach Nick Sirianni opted to rest Philadelphia's No. 1 RB and other key starters. After reeling off 2,005 rushing yards in 2024 and winning a Super Bowl, Barkley took a step back last season, but he still notched 1,413 yards from scrimmage and nine total TDs on 317 touches in 16 regular-season games. Sirianni has passed off play-calling duties to new offensive coordinator Sean Mannion, so it remains to be seen how effective Barkley will be in the new scheme.",
+      "description": "Barkley didn't see any action during the Eagles' three-game preseason slate.",
+      "metadata": {
+        "analysis": "At this point in his standout career, Barkley doesn't require exhibition reps to be his usual self once the games begin to count, so it's understandable that coach Nick Sirianni opted to rest Philadelphia's No. 1 RB and other key starters. After reeling off 2,005 rushing yards in 2024 and winning a Super Bowl, Barkley took a step back last season, but he still notched 1,413 yards from scrimmage and nine total TDs on 317 touches in 16 regular-season games. Sirianni has passed off play-calling duties to new offensive coordinator Sean Mannion, so it remains to be seen how effective Barkley will be in the new scheme.",
+        "description": "Barkley didn't see any action during the Eagles' three-game preseason slate.",
+        "title": "Saquon Barkley - No preseason action",
+        "topic_id": "1401028085893079040"
+      },
+      "nfl_team": "PHI",
+      "player_id": "4866",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "published": 1788393386000,
+      "source": "rotowire",
+      "source_key": "636053",
+      "story_id": "nfl|4866|rotowire|636053|1788393386000",
+      "title": "Saquon Barkley - No preseason action",
+      "url": null
+    },
     {
       "analysis": "McBride emerged as a target hog in 2024, racking up 147 in 16 regular-season games en route to 111 catches and 1,146 yards but just two touchdowns. The end-zone woes finally came to a close last season, though, as he finished with a monster 126-1,239-11 line on 169 targets in 17 regular-season contests. The catch count set an NFL record for most by a tight end in a campaign, surpassing Zach Ertz's 116 from his 2018 season with the Eagles. McBride remains the top pass catcher for QB Jacoby Brissett and Arizona's offense, but he does have competition for looks from WRs Marvin Harrison and Michael Wilson.",
       "description": "McBride is listed as the Cardinals' No. 1 TE on the team's unofficial depth chart.",
