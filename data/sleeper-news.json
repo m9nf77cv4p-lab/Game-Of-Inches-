@@ -1,13 +1,12 @@
 {
-  "last_checked_at": "2026-09-03T15:20:37Z",
+  "last_checked_at": "2026-09-03T15:34:50Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12048|rotowire|636142|1788447988000",
-    "nfl|5012|rotowire|636143|1788448448000",
-    "nfl|5844|rotowire|636141|1788447327000",
-    "nfl|7049|rotowire|636144|1788448558000",
-    "nfl|8138|rotoballer|220001|1788433148000"
+    "nfl|11603|rotowire|636146|1788449011000",
+    "nfl|12512|rotoballer|220002|1788430329000",
+    "nfl|5022|rotowire|636145|1788448964000",
+    "nfl|8676|rotowire|636147|1788449301000"
   ],
   "schema_version": 1,
   "source": {
@@ -18,10 +17,70 @@
   },
   "stories": [
     {
-      "analysis": "Signed to a one-year, $8 million deal in May, Jennings is locked in as the Vikings' No. 3 receiver and didn't need to compete for a job during the preseason. With San Francisco last season, Jennings primarily operated as the \"X\" receiver and turned in a 55-643-9 receiving line on 90 targets over 15 games. With Justin Jefferson occupying the X spot for Minnesota and Jordan Addison mainly working as a \"Z\" receiver, Jennings could end up seeing most of his time out of the slot with his new squad. While a slot role often lends itself to catchable, higher-percentage targets, Jefferson will operate as the clear No. 1 option in the passing game, and Addison is capable of bumping inside and will likely be prioritized ahead of Jennings in two-wide formations. Moreover, Vikings quarterback Kyler Murray doesn't have an extensive track record of supporting more than one fantasy viable pass catcher, so Jennings could struggle to attain consistent week-to-week volume while he's competing with the likes of Addison and tight end T.J. Hockenson for the remaining targets that don't go to Jefferson.",
+      "analysis": "Starters resting during the preseason has become customary for several teams around the league. Shaheed failed to gel with Sam Darnold after the wide receiver's midseason trade from the Saints, as he produced just 15 catches for 188 yards and no touchdowns across nine regular-season appearances with Seattle. However, the duo spent countless hours over the offseason working on their chemistry, and Shaheed was a standout player during training camp practices. He's locked in as the premier deep threat on the outside for the Seahawks this season and has generated steady buzz as a late-round fantasy pick and an ideal best-ball selection.",
+      "description": "Shaheed didn't see any action during the Seahawks' three-game preseason slate.",
+      "metadata": {
+        "analysis": "Starters resting during the preseason has become customary for several teams around the league. Shaheed failed to gel with Sam Darnold after the wide receiver's midseason trade from the Saints, as he produced just 15 catches for 188 yards and no touchdowns across nine regular-season appearances with Seattle. However, the duo spent countless hours over the offseason working on their chemistry, and Shaheed was a standout player during training camp practices. He's locked in as the premier deep threat on the outside for the Seahawks this season and has generated steady buzz as a late-round fantasy pick and an ideal best-ball selection.",
+        "description": "Shaheed didn't see any action during the Seahawks' three-game preseason slate.",
+        "title": "Rashid Shaheed - No preseason action",
+        "topic_id": "1401262010095689728"
+      },
+      "nfl_team": "SEA",
+      "player_id": "8676",
+      "player_name": "Rashid Shaheed",
+      "position": "WR",
+      "published": 1788449301000,
+      "source": "rotowire",
+      "source_key": "636147",
+      "story_id": "nfl|8676|rotowire|636147|1788449301000",
+      "title": "Rashid Shaheed - No preseason action",
+      "url": null
+    },
+    {
+      "analysis": "The Seahawks won the Super Bowl last season with a tight end room consisting of Barner, Eric Saubert, Elijah Arroyo and Nick Kallerup, so it's understandable that the team decided not to rock the boat at the position. Arroyo is Barner's primary competition for pass-catching opportunities, as the 2025 second-round pick enjoyed a productive 2026 preseason after a lackluster rookie regular season in which Arroyo posted just 179 receiving yards. Barner led the position group with 52 catches for 519 yards and six touchdown receptions on 68 targets during the 2025 regular season.",
+      "description": "Barner sits atop a Seahawks tight end depth chart that's unchanged from last season heading into the 2026 regular season, John Boyle of the team's official site reports.",
+      "metadata": {
+        "analysis": "The Seahawks won the Super Bowl last season with a tight end room consisting of Barner, Eric Saubert, Elijah Arroyo and Nick Kallerup, so it's understandable that the team decided not to rock the boat at the position. Arroyo is Barner's primary competition for pass-catching opportunities, as the 2025 second-round pick enjoyed a productive 2026 preseason after a lackluster rookie regular season in which Arroyo posted just 179 receiving yards. Barner led the position group with 52 catches for 519 yards and six touchdown receptions on 68 targets during the 2025 regular season.",
+        "description": "Barner sits atop a Seahawks tight end depth chart that's unchanged from last season heading into the 2026 regular season, John Boyle of the team's official site reports.",
+        "title": "AJ Barner - Status quo in Seattle's TE room",
+        "topic_id": "1401262010078912512"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11603",
+      "player_name": "AJ Barner",
+      "position": "TE",
+      "published": 1788449011000,
+      "source": "rotowire",
+      "source_key": "636146",
+      "story_id": "nfl|11603|rotowire|636146|1788449011000",
+      "title": "AJ Barner - Status quo in Seattle's TE room",
+      "url": null
+    },
+    {
+      "analysis": "The Eagles rested all of their key starters for the three exhibitions. Now 31 years old, Goedert is a veteran who doesn't necessarily need to play in meaningless preseason games. With A.J. Brown now in New England, Goedert is expected to have a big red-zone role for Philadelphia this season after he set a career high with 11 touchdown grabs on 60 catches last season. It will be difficult for Goedert to replicate that astounding touchdown rate, but he's very much in the TE1 mix for fantasy.",
+      "description": "Goedert didn't see any action during the Eagles' three-game preseason slate.",
+      "metadata": {
+        "analysis": "The Eagles rested all of their key starters for the three exhibitions. Now 31 years old, Goedert is a veteran who doesn't necessarily need to play in meaningless preseason games. With A.J. Brown now in New England, Goedert is expected to have a big red-zone role for Philadelphia this season after he set a career high with 11 touchdown grabs on 60 catches last season. It will be difficult for Goedert to replicate that astounding touchdown rate, but he's very much in the TE1 mix for fantasy.",
+        "description": "Goedert didn't see any action during the Eagles' three-game preseason slate.",
+        "title": "Dallas Goedert - No preseason action",
+        "topic_id": "1401260748109262848"
+      },
+      "nfl_team": "PHI",
+      "player_id": "5022",
+      "player_name": "Dallas Goedert",
+      "position": "TE",
+      "published": 1788448964000,
+      "source": "rotowire",
+      "source_key": "636145",
+      "story_id": "nfl|5022|rotowire|636145|1788448964000",
+      "title": "Dallas Goedert - No preseason action",
+      "url": null
+    },
+    {
+      "analysis": "Signed to a one-year, $8 million deal in May, Jennings is locked in as the Vikings' No. 3 receiver and didn't need to compete for a job during the preseason. With San Francisco last season, Jennings primarily operated as the \"X\" receiver and turned in a 55-643-9 receiving line on 90 targets over his 15 appearances. Since Justin Jefferson typically occupies the X spot for Minnesota and Jordan Addison mainly works as the \"Z\" receiver, Jennings could end up seeing most of his time out of the slot with his new squad. While a slot role can often lead to catchable, higher-percentage targets, Jefferson remains the unquestioned No. 1 option in the passing game regardless of where he lines up, and Addison is capable of bumping inside and seems likely play ahead of Jennings in two-wide formations. Moreover, Vikings quarterback Kyler Murray hasn't had an extensive track record of supporting more than one fantasy viable pass catcher during his seven-year career, so Jennings could struggle to attain consistent week-to-week volume while he's vying with the likes of Addison and tight end T.J. Hockenson for the remaining targets that don't go to Jefferson.",
       "description": "Jennings played four snaps in the Vikings' 13-10 preseason win over the Giants before being held out for rest purposes in the final two exhibition tilts.",
       "metadata": {
-        "analysis": "Signed to a one-year, $8 million deal in May, Jennings is locked in as the Vikings' No. 3 receiver and didn't need to compete for a job during the preseason. With San Francisco last season, Jennings primarily operated as the \"X\" receiver and turned in a 55-643-9 receiving line on 90 targets over 15 games. With Justin Jefferson occupying the X spot for Minnesota and Jordan Addison mainly working as a \"Z\" receiver, Jennings could end up seeing most of his time out of the slot with his new squad. While a slot role often lends itself to catchable, higher-percentage targets, Jefferson will operate as the clear No. 1 option in the passing game, and Addison is capable of bumping inside and will likely be prioritized ahead of Jennings in two-wide formations. Moreover, Vikings quarterback Kyler Murray doesn't have an extensive track record of supporting more than one fantasy viable pass catcher, so Jennings could struggle to attain consistent week-to-week volume while he's competing with the likes of Addison and tight end T.J. Hockenson for the remaining targets that don't go to Jefferson.",
+        "analysis": "Signed to a one-year, $8 million deal in May, Jennings is locked in as the Vikings' No. 3 receiver and didn't need to compete for a job during the preseason. With San Francisco last season, Jennings primarily operated as the \"X\" receiver and turned in a 55-643-9 receiving line on 90 targets over his 15 appearances. Since Justin Jefferson typically occupies the X spot for Minnesota and Jordan Addison mainly works as the \"Z\" receiver, Jennings could end up seeing most of his time out of the slot with his new squad. While a slot role can often lead to catchable, higher-percentage targets, Jefferson remains the unquestioned No. 1 option in the passing game regardless of where he lines up, and Addison is capable of bumping inside and seems likely play ahead of Jennings in two-wide formations. Moreover, Vikings quarterback Kyler Murray hasn't had an extensive track record of supporting more than one fantasy viable pass catcher during his seven-year career, so Jennings could struggle to attain consistent week-to-week volume while he's vying with the likes of Addison and tight end T.J. Hockenson for the remaining targets that don't go to Jefferson.",
         "description": "Jennings played four snaps in the Vikings' 13-10 preseason win over the Giants before being held out for rest purposes in the final two exhibition tilts.",
         "title": "Jauan Jennings - Sits out final two preseason contests",
         "topic_id": "1401259492804403200"
@@ -316,6 +375,26 @@
       "story_id": "nfl|13305|rotoballer|220000|1788430569000",
       "title": "Mike Washington Jr. \"Is Going to be a Thing in Fantasy Football\"",
       "url": "https://www.rotoballer.com/player-news/mike-washington-is-going-to-be-a-thing-in-fantasy-football/1922424"
+    },
+    {
+      "analysis": null,
+      "description": "After working his way back from an ankle and fibula injury suffered in Week 16 of the 2025 season, Cleveland Browns running back Quinshon Judkins is set for a large role in 2026. Unsurprisingly, Judkins is listed as the Browns' top running back on the depth chart, with Dylan Sampson and Raheim Sanders behind him. Judkins is in line for a high-volume role in an offense led by head coach Todd Monken and offensive coordinator Travis Switzer. During his time as offensive coordinator for the Baltimore Ravens from 2023 through 2025, Monken's offenses had more rushing attempts than passing attempts each year. In two seasons under Monken with the Ravens, running back Derrick Henry carried the ball 325 times and 307 times, respectively. Additionally, many questions remain about Cleveland's passing game with Deshaun Watson at quarterback. While defenses may stack the box against Judkins, he faced that often as a rookie in 2025 as well. Last season, Judkins rushed 230 times for 827 yards and seven touchdowns, including 505 yards after contact, while adding 26 receptions for 171 yards. Judkins currently has a Yahoo ADP of 54.2. He ranks as RotoBaller's No. 59 overall player and No. 24 running back in half-PPR formats.",
+      "metadata": {
+        "description": "After working his way back from an ankle and fibula injury suffered in Week 16 of the 2025 season, Cleveland Browns running back Quinshon Judkins is set for a large role in 2026. Unsurprisingly, Judkins is listed as the Browns' top running back on the depth chart, with Dylan Sampson and Raheim Sanders behind him. Judkins is in line for a high-volume role in an offense led by head coach Todd Monken and offensive coordinator Travis Switzer. During his time as offensive coordinator for the Baltimore Ravens from 2023 through 2025, Monken's offenses had more rushing attempts than passing attempts each year. In two seasons under Monken with the Ravens, running back Derrick Henry carried the ball 325 times and 307 times, respectively. Additionally, many questions remain about Cleveland's passing game with Deshaun Watson at quarterback. While defenses may stack the box against Judkins, he faced that often as a rookie in 2025 as well. Last season, Judkins rushed 230 times for 827 yards and seven touchdowns, including 505 yards after contact, while adding 26 receptions for 171 yards. Judkins currently has a Yahoo ADP of 54.2. He ranks as RotoBaller's No. 59 overall player and No. 24 running back in half-PPR formats.",
+        "title": "Quinshon Judkins Expected to Have High-Volume Role for Browns",
+        "topic_id": "1401260745387171840",
+        "url": "https://www.rotoballer.com/player-news/quinshon-judkins-expected-to-have-high-volume-role-for-browns/1922423"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12512",
+      "player_name": "Quinshon Judkins",
+      "position": "RB",
+      "published": 1788430329000,
+      "source": "rotoballer",
+      "source_key": "220002",
+      "story_id": "nfl|12512|rotoballer|220002|1788430329000",
+      "title": "Quinshon Judkins Expected to Have High-Volume Role for Browns",
+      "url": "https://www.rotoballer.com/player-news/quinshon-judkins-expected-to-have-high-volume-role-for-browns/1922423"
     },
     {
       "analysis": null,
