@@ -1,12 +1,9 @@
 {
-  "last_checked_at": "2026-09-03T17:12:40Z",
+  "last_checked_at": "2026-09-03T17:27:39Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|10222|rotowire|636160|1788454456000",
-    "nfl|10232|rotoballer|220012|1788440169000",
-    "nfl|10232|rotowire|636162|1788454827000",
-    "nfl|12474|rotowire|636161|1788454466000"
+    "nfl|13286|rotoballer|220013|1788441194000"
   ],
   "schema_version": 1,
   "source": {
@@ -38,11 +35,11 @@
     },
     {
       "analysis": "Wilson was about to be playing on the final year of his rookie contract, but will now see himself attached to the team for the long haul. It will be interesting to see how his role changes, if at all, under a new coaching stafff and with Marvin Harrison Jr. back in the fold.",
-      "description": "Michael Wilson has agreed to a three year deal with the Arizona Cardinals. He is expected to sign the deal later today.",
+      "description": "Michael Wilson has agreed to a three year, $75 million deal with the Arizona Cardinals.",
       "metadata": {
         "analysis": "Wilson was about to be playing on the final year of his rookie contract, but will now see himself attached to the team for the long haul. It will be interesting to see how his role changes, if at all, under a new coaching stafff and with Marvin Harrison Jr. back in the fold.",
-        "description": "Michael Wilson has agreed to a three year deal with the Arizona Cardinals. He is expected to sign the deal later today.",
-        "title": "Michael Wilson agrees to three year deal with Cardinals ",
+        "description": "Michael Wilson has agreed to a three year, $75 million deal with the Arizona Cardinals.",
+        "title": "Michael Wilson agrees to three year, $75 million deal with Cardinals ",
         "topic_id": "1401283405521358848",
         "url": "https://www.fantasypros.com/nfl/news/605781/michael-wilson-agrees-to-three-year-deal-with-cardinals.php"
       },
@@ -54,7 +51,7 @@
       "source": "fantasy_pros",
       "source_key": "605781",
       "story_id": "nfl|10232|fantasy_pros|605781|1788454507772",
-      "title": "Michael Wilson agrees to three year deal with Cardinals ",
+      "title": "Michael Wilson agrees to three year, $75 million deal with Cardinals ",
       "url": "https://www.fantasypros.com/nfl/news/605781/michael-wilson-agrees-to-three-year-deal-with-cardinals.php"
     },
     {
@@ -637,6 +634,26 @@
       "story_id": "nfl|11559|rotowire|636134|1788441796000",
       "title": "Michael Penix - Will start 'eventually,' if not Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Seattle Seahawks selected Notre Dame running back Jadarian Price with the final pick of the first round of the 2026 NFL Draft, filling one of their only obvious needs after retaining 20 of 22 starters from their Super Bowl-winning squad. With Veteran Zach Charbonnet (knee) beginning the year on the Physically Unable to Perform list after tearing his ACL in last year's Divisional Round win over the 49ers, Price is well-positioned to begin the year in something close to the every-down role last held by Kenneth Walker III, who averaged 139 yards and more than a touchdown per game during a three-game postseason run that resulted in a Super Bowl MVP Award. Price's biggest competition for touches early in the year will come from George Holani and Emanuel Wilson, two players who started a combined two games in 2025 and lack the rookie's upside. As RotoBaller's RB22, Price has week-winning potential to begin the year and the opportunity to lock down the Seahawks' primary running back spot, making him a player to target in the early-middle rounds of drafts.",
+      "metadata": {
+        "description": "The Seattle Seahawks selected Notre Dame running back Jadarian Price with the final pick of the first round of the 2026 NFL Draft, filling one of their only obvious needs after retaining 20 of 22 starters from their Super Bowl-winning squad. With Veteran Zach Charbonnet (knee) beginning the year on the Physically Unable to Perform list after tearing his ACL in last year's Divisional Round win over the 49ers, Price is well-positioned to begin the year in something close to the every-down role last held by Kenneth Walker III, who averaged 139 yards and more than a touchdown per game during a three-game postseason run that resulted in a Super Bowl MVP Award. Price's biggest competition for touches early in the year will come from George Holani and Emanuel Wilson, two players who started a combined two games in 2025 and lack the rookie's upside. As RotoBaller's RB22, Price has week-winning potential to begin the year and the opportunity to lock down the Seahawks' primary running back spot, making him a player to target in the early-middle rounds of drafts.",
+        "title": "Jadarian Price Set for an Important Early-Season Role",
+        "topic_id": "1401289691621298176",
+        "url": "https://www.rotoballer.com/player-news/jadarian-price-set-for-an-important-early-season-role/1922599"
+      },
+      "nfl_team": "SEA",
+      "player_id": "13286",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "published": 1788441194000,
+      "source": "rotoballer",
+      "source_key": "220013",
+      "story_id": "nfl|13286|rotoballer|220013|1788441194000",
+      "title": "Jadarian Price Set for an Important Early-Season Role",
+      "url": "https://www.rotoballer.com/player-news/jadarian-price-set-for-an-important-early-season-role/1922599"
     },
     {
       "analysis": null,

@@ -2,19 +2,19 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1776**
-- Newly captured: **4**
+- Stored stories: **1777**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Michael Wilson** — Michael Wilson - Lands three-year extension (2026-09-03T17:00:27Z)
+- **Michael Wilson** — Michael Wilson - Lands three-year extension (2026-09-03T17:00:27Z)
   - The sides squeezed this deal in before the start of the regular season, as Wilson had been set to enter the final year of his rookie deal. Selected in the third round of the 2023 Draft, Wilson had a true breakout season in 2025, as he operated as the Cardinals' WR1 most weeks while Marvin Harrison battled injuries throughout the campaign. Wilson responded with three 10--yard receiving games over the final eight weeks of the season and finished the year with 78 catches for 1,006 yards and seven touchdowns. Six of his seven scores came in the final five contests. Harrison is back healthy this season, but Wilson figures to remain a prominent piece of the passing offense that also includes All-Pro tight end Trey McBride.
-- **Michael Wilson** — Michael Wilson agrees to three year deal with Cardinals  (2026-09-03T16:55:07.772000Z)
+- **Michael Wilson** — Michael Wilson agrees to three year, $75 million deal with Cardinals  (2026-09-03T16:55:07.772000Z)
   - Wilson was about to be playing on the final year of his rookie contract, but will now see himself attached to the team for the long haul. It will be interesting to see how his role changes, if at all, under a new coaching stafff and with Marvin Harrison Jr. back in the fold.
   - Source: https://www.fantasypros.com/nfl/news/605781/michael-wilson-agrees-to-three-year-deal-with-cardinals.php
-- **NEW — Woody Marks** — Woody Marks - Expected to split backfield work (2026-09-03T16:54:26Z)
+- **Woody Marks** — Woody Marks - Expected to split backfield work (2026-09-03T16:54:26Z)
   - "The distribution ... might not be 50-50, but it will be close," Alexander wrote Aug. 23. "The Texans have utilized both nearly evenly throughout camp." Alexander expects a sort-of hot-hand approach out of the Houston backfield on a weekly basis. Marks played 10 snaps in the Texans' second preseason game and rushed four times for 37 yards and one touchdown. He also added a catch for six yards, working exclusively with the first-team offense while Montgomery was rested for that exhibition. Marks is being drafted nearly five rounds after Montgomery in fantasy.
-- **NEW — Jayden Reed** — Jayden Reed - Competing with Golden for WR2 spot (2026-09-03T16:54:16Z)
+- **Jayden Reed** — Jayden Reed - Competing with Golden for WR2 spot (2026-09-03T16:54:16Z)
   - Reed is joined by Christian Watson, Matthew Golden, Bo Melton, Skyy Moore and K. Michael Sturdivant in Green Bay's wide receiver room, while Savion Williams (ankle) is on IR with a designation to return, meaning the 2025 third-round pick will miss at least four weeks before possibly factoring into the equation as well. Reed has historically been productive when healthy despite frequently coming off the field in two-wide sets, with his 63.2 percent snap share during the 2024 regular season representing his single-season career high. Watson is locked in as a starter, but Reed could earn a larger share of playing time if he holds off the 2025 first-round pick Golden.
 - **Trevor Lawrence** — Trevor Lawrence - Will be backed up by Ewers (2026-09-03T16:44:47Z)
   - Ewers was retained on the 53-man roster after final cuts, while Nick Mullens was released during cut-down day, though Mullens subsequently signed with the practice squad. Lawrence remains locked in as the team's starting QB on the heels of a 2025 regular season in which he threw for 4,007 yards and a career-high 29 passing touchdowns. The first overall pick in the 2021 NFL Draft has exceeded 4,000 passing yards in three of his first five NFL seasons.
@@ -71,7 +71,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.
 - **Michael Penix** — Michael Penix - Will start 'eventually,' if not Week 1 (2026-09-03T13:23:16Z)
   - Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.
-- **NEW — Michael Wilson** — Cardinals, Michael Wilson Agree on Three-Year Extension (2026-09-03T12:56:09Z)
+- **NEW — Jadarian Price** — Jadarian Price Set for an Important Early-Season Role (2026-09-03T13:13:14Z)
+  - Source: https://www.rotoballer.com/player-news/jadarian-price-set-for-an-important-early-season-role/1922599
+- **Michael Wilson** — Cardinals, Michael Wilson Agree on Three-Year Extension (2026-09-03T12:56:09Z)
   - Source: https://www.rotoballer.com/player-news/cardinals-michael-wilson-agree-on-three-year-extension/1922595
 - **Zay Flowers** — Zay Flowers Dressed for Thursday's Practice (2026-09-03T12:34:07Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-dressed-for-thursdays-practice/1922584
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - In particular, Brown cited the scheme's efficiency while running the ball under center and also how much he's been lining up in the slot in the passing game during training camp. After earning just 58 touches as a fifth-round rookie in 2023, his usage increased to 283 touches in 2024 and 301 touches last season. In 17 regular-games in 2025, he matched or set career highs across the board, tallying 1,456 yards from scrimmage and 11 total TDs. Considering Brown was one of seven RBs with at least 50 receptions last year (69, to be exact), his stature in fantasy has never been higher.
 - **Tetairoa McMillan** — Tetairoa McMillan - In line for more slot work in 2026 (2026-09-02T18:20:20Z)
   - If preseason usage means anything, it would seem Canales was putting the plan into action this summer. After playing just 15.3 percent of his regular-season offensive snaps out of the slot as a rookie, McMillan was in the slot on nine of 22 snaps (40.9 percent) across two preseason games. Moving to the slot more would give the 6-foot-5 McMillan significant size and speed advantages inside and allow for more easy "layup" style catches to get the ball in his hands quicker. The 2025 Offensive Rookie of the Year figures to be the center of Carolina's offense this season after posting 70 catches for 1,014 yards and seven scores across 17 regular-season contests last season.
-- **Lamar Jackson** — Ravens "Optimistic" About Reaching Extension With Lamar Jackson (2026-09-02T18:20:09Z)
-  - Source: https://www.rotoballer.com/player-news/ravens-optimistic-about-reaching-extension-with-lamar-jackson/1922155
