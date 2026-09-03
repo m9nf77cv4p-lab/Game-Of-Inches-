@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-03T00:29:55Z",
+  "last_checked_at": "2026-09-03T00:48:26Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11604|rotowire|636056|1788393653000",
-    "nfl|3294|rotowire|636061|1788394037000",
-    "nfl|5001|rotowire|636064|1788394159000"
+    "nfl|4037|rotowire|636075|1788395345000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "\"I would be remiss if I did not mention [Godwin] for all he has done for this organization and talk about being a consistent, steady, Mr. Clutch player, that is him and he looks very, very good out there right now,\" Licht relayed Monday. For the first time in his NFL career, Godwin enters the season out of the shadows of Mike Evans (groin), the latter of whom signed a three-year contract with the 49ers in March. Godwin logged 1,000-plus yard seasons four times from 2019 to 2023, and he was the league leader in receptions before dislocating his ankle in Week 7. He was limited to nine regular-season games last year due to a fibula injury, but Godwin is fully healthy entering the 2026 campaign and will serve as a go-to target in the passing game for quarterback Baker Mayfield. Godwin could operate in an elevated role early in the season depending on the statuses of Emeka Egbuka (toe) and Jalen McMillan (knee) for Week 1 against the Bengals on Sunday, Sept. 13.",
+      "description": "Buccaneers general manager Jason Licht praised Godwin on Monday for his consistency and veteran leadership, Brianna Dix of the team's official site reports.",
+      "metadata": {
+        "analysis": "\"I would be remiss if I did not mention [Godwin] for all he has done for this organization and talk about being a consistent, steady, Mr. Clutch player, that is him and he looks very, very good out there right now,\" Licht relayed Monday. For the first time in his NFL career, Godwin enters the season out of the shadows of Mike Evans (groin), the latter of whom signed a three-year contract with the 49ers in March. Godwin logged 1,000-plus yard seasons four times from 2019 to 2023, and he was the league leader in receptions before dislocating his ankle in Week 7. He was limited to nine regular-season games last year due to a fibula injury, but Godwin is fully healthy entering the 2026 campaign and will serve as a go-to target in the passing game for quarterback Baker Mayfield. Godwin could operate in an elevated role early in the season depending on the statuses of Emeka Egbuka (toe) and Jalen McMillan (knee) for Week 1 against the Bengals on Sunday, Sept. 13.",
+        "description": "Buccaneers general manager Jason Licht praised Godwin on Monday for his consistency and veteran leadership, Brianna Dix of the team's official site reports.",
+        "title": "Chris Godwin - Draws praise from GM Licht",
+        "topic_id": "1401035638148448256"
+      },
+      "nfl_team": "TB",
+      "player_id": "4037",
+      "player_name": "Chris Godwin",
+      "position": "WR",
+      "published": 1788395345000,
+      "source": "rotowire",
+      "source_key": "636075",
+      "story_id": "nfl|4037|rotowire|636075|1788395345000",
+      "title": "Chris Godwin - Draws praise from GM Licht",
+      "url": null
+    },
     {
       "analysis": "Schultz, wide receiver Nico Collins and running back David Montgomery were some of the offensive starters that did not participate in preseason games, with quarterback C.J. Stroud seeing minimal action against the Raiders on Aug. 20. Schultz is coming off a productive 2025 regular season, setting a career high with 82 catches, while his 777 yards were his most since the 2021 campaign with the Cowboys (808 yards). Jayden Higgins (knee) will miss the entire 2026 season, and with Tank Dell (knee) opening the season on injured reserve, Schultz and Collins figure to be the go-to targets for Stroud in the passing game.",
       "description": "Schultz did not play in any of the Texans' three preseason games.",
