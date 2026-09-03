@@ -2,14 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1706**
-- Newly captured: **2**
+- Stored stories: **1709**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Sam Darnold** — Sam Darnold - Idle for preseason action (2026-09-02T23:57:13Z)
+- **NEW — Dalton Schultz** — Dalton Schultz - Held out of exhibition games (2026-09-03T00:09:19Z)
+  - Schultz, wide receiver Nico Collins and running back David Montgomery were some of the offensive starters that did not participate in preseason games, with quarterback C.J. Stroud seeing minimal action against the Raiders on Aug. 20. Schultz is coming off a productive 2025 regular season, setting a career high with 82 catches, while his 777 yards were his most since the 2021 campaign with the Cowboys (808 yards). Jayden Higgins (knee) will miss the entire 2026 season, and with Tank Dell (knee) opening the season on injured reserve, Schultz and Collins figure to be the go-to targets for Stroud in the passing game.
+- **NEW — Dak Prescott** — Dak Prescott - Rests during preseason (2026-09-03T00:07:17Z)
+  - Prescott has had WR CeeDee Lamb to throw to since 2020, but the addition of George Pickens during the 2025 offseason helped the quarterback rack up the second-most passing yards in a season (4,552) of his 10-year career. Additionally, Prescott also tossed 30 TDs for the fourth time among his career-high 600 pass attempts. Dallas likely would like that latter number to come down in a more balanced offense, and a new defensive scheme under coordinator Christian Parker could mean Prescott and the offense are in catch-up mode less often. In any case, Prescott has a bonafide top receiving duo at his services, so another 4,000-yard campaign is entirely within the realm of possibilities in 2026
+- **NEW — Brock Bowers** — Brock Bowers - Working with Cousins to open season (2026-09-03T00:00:53Z)
+  - The star tight end is looking to return to the caliber of production he managed during an outstanding 2024 rookie campaign, one where he recorded a 112-1,194-5 line across 17 regular-season games. Bowers endured a lingering knee injury last season that ultimately limited him to 12 games, but the combination of his return to full health and a savvy veteran familiar with head coach Klint Kubiak's system in Cousins sets the stage for a potentially productive start to the 2026 season.
+- **Sam Darnold** — Sam Darnold - Idle for preseason action (2026-09-02T23:57:13Z)
   - Darnold, Jaxon Smith-Njigba, Rashid Shaheed, AJ Barner and other Seahawks offensive starters observed all three preseason games from the sidelines, with the team seemingly not wanting to risk injury to its top contributors ahead of Week 1 against the Patriots. Darnold's pass catchers are mostly the same as those he threw to during last year's Super Bowl run, though the veteran signal caller is working under new offensive coordinator Brian Fleury after Klint Kubiak accepted the Raiders' head coach position. Super Bowl LX MVP Kenneth Walker also bolted to Kansas City in free agency, and with Zach Charbonnet (knee) opening the season on the reserve/PUP list, Darnold's top options out of the backfield are rookie first-rounder Jadarian Price and George Holani. Darnold finished the 2025 regular season fifth and seventh in passing yards (4,048) and completion percentage (67.7), respectively, though his 14 interceptions were third-most behind Geno Smith (17) and Tua Tagovailoa (15).
-- **NEW — Saquon Barkley** — Saquon Barkley - No preseason action (2026-09-02T23:56:26Z)
+- **Saquon Barkley** — Saquon Barkley - No preseason action (2026-09-02T23:56:26Z)
   - At this point in his standout career, Barkley doesn't require exhibition reps to be his usual self once the games begin to count, so it's understandable that coach Nick Sirianni opted to rest Philadelphia's No. 1 RB and other key starters. After reeling off 2,005 rushing yards in 2024 and winning a Super Bowl, Barkley took a step back last season, but he still notched 1,413 yards from scrimmage and nine total TDs on 317 touches in 16 regular-season games. Sirianni has passed off play-calling duties to new offensive coordinator Sean Mannion, so it remains to be seen how effective Barkley will be in the new scheme.
 - **Trey McBride** — Trey McBride - No. 1 TE on depth chart (2026-09-02T23:38:25Z)
   - McBride emerged as a target hog in 2024, racking up 147 in 16 regular-season games en route to 111 catches and 1,146 yards but just two touchdowns. The end-zone woes finally came to a close last season, though, as he finished with a monster 126-1,239-11 line on 169 targets in 17 regular-season contests. The catch count set an NFL record for most by a tight end in a campaign, surpassing Zach Ertz's 116 from his 2018 season with the Eagles. McBride remains the top pass catcher for QB Jacoby Brissett and Arizona's offense, but he does have competition for looks from WRs Marvin Harrison and Michael Wilson.
@@ -208,9 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/caleb-douglas-worth-a-late-round-pick-after-strong-camp-showing/1921825
 - **Bo Nix** — Bo Nix Trending Up with the Best Receiver Room of His Career (2026-09-02T10:29:08Z)
   - Source: https://www.rotoballer.com/player-news/bo-nix-trending-up-with-the-best-receiver-room-of-his-career/1921820
-- **Jaylen Warren** — Jaylen Warren a Reliable Fantasy Target with Consistent Receiving Work (2026-09-02T10:19:08Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-warren-a-reliable-fantasy-target-with-consistent-receiving-work/1921814
-- **Brian Thomas** — Brian Thomas Jr. a Full-Go in Tuesday's Practice (2026-09-02T09:57:09Z)
-  - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-a-full-go-in-tuesdays-practice/1921801
-- **Jakobi Meyers** — Jakobi Meyers Will Practice on Wednesday (2026-09-02T09:52:09Z)
-  - Source: https://www.rotoballer.com/player-news/jakobi-meyers-will-practice-on-wednesday/1921796

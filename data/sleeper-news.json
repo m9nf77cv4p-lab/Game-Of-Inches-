@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-03T00:01:08Z",
+  "last_checked_at": "2026-09-03T00:29:55Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4866|rotowire|636053|1788393386000",
-    "nfl|4943|rotowire|636055|1788393433000"
+    "nfl|11604|rotowire|636056|1788393653000",
+    "nfl|3294|rotowire|636061|1788394037000",
+    "nfl|5001|rotowire|636064|1788394159000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Schultz, wide receiver Nico Collins and running back David Montgomery were some of the offensive starters that did not participate in preseason games, with quarterback C.J. Stroud seeing minimal action against the Raiders on Aug. 20. Schultz is coming off a productive 2025 regular season, setting a career high with 82 catches, while his 777 yards were his most since the 2021 campaign with the Cowboys (808 yards). Jayden Higgins (knee) will miss the entire 2026 season, and with Tank Dell (knee) opening the season on injured reserve, Schultz and Collins figure to be the go-to targets for Stroud in the passing game.",
+      "description": "Schultz did not play in any of the Texans' three preseason games.",
+      "metadata": {
+        "analysis": "Schultz, wide receiver Nico Collins and running back David Montgomery were some of the offensive starters that did not participate in preseason games, with quarterback C.J. Stroud seeing minimal action against the Raiders on Aug. 20. Schultz is coming off a productive 2025 regular season, setting a career high with 82 catches, while his 777 yards were his most since the 2021 campaign with the Cowboys (808 yards). Jayden Higgins (knee) will miss the entire 2026 season, and with Tank Dell (knee) opening the season on injured reserve, Schultz and Collins figure to be the go-to targets for Stroud in the passing game.",
+        "description": "Schultz did not play in any of the Texans' three preseason games.",
+        "title": "Dalton Schultz - Held out of exhibition games",
+        "topic_id": "1401030603880534016"
+      },
+      "nfl_team": "HOU",
+      "player_id": "5001",
+      "player_name": "Dalton Schultz",
+      "position": "TE",
+      "published": 1788394159000,
+      "source": "rotowire",
+      "source_key": "636064",
+      "story_id": "nfl|5001|rotowire|636064|1788394159000",
+      "title": "Dalton Schultz - Held out of exhibition games",
+      "url": null
+    },
+    {
+      "analysis": "Prescott has had WR CeeDee Lamb to throw to since 2020, but the addition of George Pickens during the 2025 offseason helped the quarterback rack up the second-most passing yards in a season (4,552) of his 10-year career. Additionally, Prescott also tossed 30 TDs for the fourth time among his career-high 600 pass attempts. Dallas likely would like that latter number to come down in a more balanced offense, and a new defensive scheme under coordinator Christian Parker could mean Prescott and the offense are in catch-up mode less often. In any case, Prescott has a bonafide top receiving duo at his services, so another 4,000-yard campaign is entirely within the realm of possibilities in 2026",
+      "description": "Prescott didn't log any snaps during the Cowboys' three-game preseason schedule.",
+      "metadata": {
+        "analysis": "Prescott has had WR CeeDee Lamb to throw to since 2020, but the addition of George Pickens during the 2025 offseason helped the quarterback rack up the second-most passing yards in a season (4,552) of his 10-year career. Additionally, Prescott also tossed 30 TDs for the fourth time among his career-high 600 pass attempts. Dallas likely would like that latter number to come down in a more balanced offense, and a new defensive scheme under coordinator Christian Parker could mean Prescott and the offense are in catch-up mode less often. In any case, Prescott has a bonafide top receiving duo at his services, so another 4,000-yard campaign is entirely within the realm of possibilities in 2026",
+        "description": "Prescott didn't log any snaps during the Cowboys' three-game preseason schedule.",
+        "title": "Dak Prescott - Rests during preseason",
+        "topic_id": "1401030603683401729"
+      },
+      "nfl_team": "DAL",
+      "player_id": "3294",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "published": 1788394037000,
+      "source": "rotowire",
+      "source_key": "636061",
+      "story_id": "nfl|3294|rotowire|636061|1788394037000",
+      "title": "Dak Prescott - Rests during preseason",
+      "url": null
+    },
+    {
+      "analysis": "The star tight end is looking to return to the caliber of production he managed during an outstanding 2024 rookie campaign, one where he recorded a 112-1,194-5 line across 17 regular-season games. Bowers endured a lingering knee injury last season that ultimately limited him to 12 games, but the combination of his return to full health and a savvy veteran familiar with head coach Klint Kubiak's system in Cousins sets the stage for a potentially productive start to the 2026 season.",
+      "description": "Bowers will open the 2026 season working with Kirk Cousins as his quarterback after the veteran was named the Week 1 starter Wednesday, Ryan McFadden of ESPN.com reports.",
+      "metadata": {
+        "analysis": "The star tight end is looking to return to the caliber of production he managed during an outstanding 2024 rookie campaign, one where he recorded a 112-1,194-5 line across 17 regular-season games. Bowers endured a lingering knee injury last season that ultimately limited him to 12 games, but the combination of his return to full health and a savvy veteran familiar with head coach Klint Kubiak's system in Cousins sets the stage for a potentially productive start to the 2026 season.",
+        "description": "Bowers will open the 2026 season working with Kirk Cousins as his quarterback after the veteran was named the Week 1 starter Wednesday, Ryan McFadden of ESPN.com reports.",
+        "title": "Brock Bowers - Working with Cousins to open season",
+        "topic_id": "1401029344150704128"
+      },
+      "nfl_team": "LV",
+      "player_id": "11604",
+      "player_name": "Brock Bowers",
+      "position": "TE",
+      "published": 1788393653000,
+      "source": "rotowire",
+      "source_key": "636056",
+      "story_id": "nfl|11604|rotowire|636056|1788393653000",
+      "title": "Brock Bowers - Working with Cousins to open season",
+      "url": null
+    },
     {
       "analysis": "Darnold, Jaxon Smith-Njigba, Rashid Shaheed, AJ Barner and other Seahawks offensive starters observed all three preseason games from the sidelines, with the team seemingly not wanting to risk injury to its top contributors ahead of Week 1 against the Patriots. Darnold's pass catchers are mostly the same as those he threw to during last year's Super Bowl run, though the veteran signal caller is working under new offensive coordinator Brian Fleury after Klint Kubiak accepted the Raiders' head coach position. Super Bowl LX MVP Kenneth Walker also bolted to Kansas City in free agency, and with Zach Charbonnet (knee) opening the season on the reserve/PUP list, Darnold's top options out of the backfield are rookie first-rounder Jadarian Price and George Holani. Darnold finished the 2025 regular season fifth and seventh in passing yards (4,048) and completion percentage (67.7), respectively, though his 14 interceptions were third-most behind Geno Smith (17) and Tua Tagovailoa (15).",
       "description": "Darnold did not participate in any of the Seahawks' three preseason games.",
