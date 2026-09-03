@@ -1,12 +1,9 @@
 {
-  "last_checked_at": "2026-09-03T01:21:46Z",
+  "last_checked_at": "2026-09-03T01:36:07Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11783|rotowire|636087|1788397461000",
-    "nfl|2133|rotowire|636088|1788397490000",
-    "nfl|4866|rotoballer|219974|1788383169000",
-    "nfl|8408|rotowire|636085|1788396816000"
+    "nfl|12490|rotoballer|219975|1788384548000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,10 +14,10 @@
   },
   "stories": [
     {
-      "analysis": "After logging at least 1,000 receiving yards six times in seven seasons between 2018 and 2024, Adams put together just 789 such yards in his age-33 campaign last year, though he did miss three regular-season games due to a hamstring injury. He salvaged his season with an NFL-leading 14 touchdown catches, displaying an incredible rapport with QB Matthew Stafford. With the Rams' top WR Puka Nacua still tending to psoas soreness a week before the team's Week 1 matchup with the 49ers next Thursday, Sept. 10, Adams effectively could be Stafford's No. 1 target out of the gate if Nacua isn't 100 percent.",
+      "analysis": "After logging at least 1,000 receiving yards six times in seven seasons between 2018 and 2024, Adams put together just 789 such yards in his age-33 campaign last year over 14 regular-season games, though he did miss three contest due to a hamstring injury. He salvaged his season with an NFL-leading 14 touchdown catches, displaying an incredible rapport with QB Matthew Stafford. With the Rams' top WR, Puka Nacua, still tending to psoas soreness a week before the team's Week 1 matchup with the 49ers next Thursday, Sept. 10, Adams effectively could be Stafford's No. 1 target out of the gate if Nacua isn't 100 percent.",
       "description": "Adams didn't suit up for any of the Rams' three-game preseason schedule.",
       "metadata": {
-        "analysis": "After logging at least 1,000 receiving yards six times in seven seasons between 2018 and 2024, Adams put together just 789 such yards in his age-33 campaign last year, though he did miss three regular-season games due to a hamstring injury. He salvaged his season with an NFL-leading 14 touchdown catches, displaying an incredible rapport with QB Matthew Stafford. With the Rams' top WR Puka Nacua still tending to psoas soreness a week before the team's Week 1 matchup with the 49ers next Thursday, Sept. 10, Adams effectively could be Stafford's No. 1 target out of the gate if Nacua isn't 100 percent.",
+        "analysis": "After logging at least 1,000 receiving yards six times in seven seasons between 2018 and 2024, Adams put together just 789 such yards in his age-33 campaign last year over 14 regular-season games, though he did miss three contest due to a hamstring injury. He salvaged his season with an NFL-leading 14 touchdown catches, displaying an incredible rapport with QB Matthew Stafford. With the Rams' top WR, Puka Nacua, still tending to psoas soreness a week before the team's Week 1 matchup with the 49ers next Thursday, Sept. 10, Adams effectively could be Stafford's No. 1 target out of the gate if Nacua isn't 100 percent.",
         "description": "Adams didn't suit up for any of the Rams' three-game preseason schedule.",
         "title": "Davante Adams - Logs no preseason action",
         "topic_id": "1401045707594477568"
@@ -415,6 +412,26 @@
       "story_id": "nfl|6801|rotowire|636032|1788386524000",
       "title": "Tee Higgins - No practice Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars running back Bhayshul Tuten is being viewed as a complete running back, according to Mike Garafolo. It sounds like the Jaguars have a lot of faith in Tuten to step up and be the lead back this upcoming season. Tuten showed some flashes this past season, but will now get a real chance to show what he can do with Travis Etienne Jr. departing this offseason. Tuten has been working hard to improve as a pass-catching back during training camp. It sounds like Tuten could become a legit dual-threat back for the Jags this upcoming season. The expectation is that Chris Rodriguez Jr. will remain in the mix, but Tuten will be leaned on more than this past season.",
+      "metadata": {
+        "description": "Jacksonville Jaguars running back Bhayshul Tuten is being viewed as a complete running back, according to Mike Garafolo. It sounds like the Jaguars have a lot of faith in Tuten to step up and be the lead back this upcoming season. Tuten showed some flashes this past season, but will now get a real chance to show what he can do with Travis Etienne Jr. departing this offseason. Tuten has been working hard to improve as a pass-catching back during training camp. It sounds like Tuten could become a legit dual-threat back for the Jags this upcoming season. The expectation is that Chris Rodriguez Jr. will remain in the mix, but Tuten will be leaned on more than this past season.",
+        "title": "Jaguars Feel Bhayshul Tuten Can be a Complete No. 1 Running Back",
+        "topic_id": "1401051994130534400",
+        "url": "https://www.rotoballer.com/player-news/jaguars-feel-bhayshul-tuten-can-be-a-complete-no-1-running-back/1922202"
+      },
+      "nfl_team": "JAX",
+      "player_id": "12490",
+      "player_name": "Bhayshul Tuten",
+      "position": "RB",
+      "published": 1788384548000,
+      "source": "rotoballer",
+      "source_key": "219975",
+      "story_id": "nfl|12490|rotoballer|219975|1788384548000",
+      "title": "Jaguars Feel Bhayshul Tuten Can be a Complete No. 1 Running Back",
+      "url": "https://www.rotoballer.com/player-news/jaguars-feel-bhayshul-tuten-can-be-a-complete-no-1-running-back/1922202"
     },
     {
       "analysis": null,
