@@ -2,12 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1760**
-- Newly captured: **2**
+- Stored stories: **1765**
+- Newly captured: **5**
 
 ## Latest news
 
-- **NEW — Joe Burrow** — Joe Burrow - Optimistic heading into 2026 (2026-09-03T15:51:14Z)
+- **NEW — David Montgomery** — David Montgomery - Tops RB depth chart over Marks and Brooks (2026-09-03T16:12:20Z)
+  - Montgomery is ticketed for a prominent role after coming over from Detroit in an offseason trade, but it remains to be seen just how much Marks cuts into Montgomery's usage. The 230-pound Montgomery is much better-suited for running inside and short-yardage work than the 208-pound Marks, but Montgomery recorded only 76 receptions across the past three regular seasons in Detroit, so the shifty Marks could siphon away opportunities in passing situations.
+- **NEW — C.J. Stroud** — C.J. Stroud - Injuries and trade reshape WR room (2026-09-03T16:01:13Z)
+  - The Texans traded for Boutte from New England after Jayden Higgins tore his ACL, knocking the 2025 second-round pick out for the season. Boutte's 551 receiving yards for the Patriots in the 2025 regular season would have ranked second among Houston's wideouts behind Collins. Hutchinson had a career-high 428 receiving yards during the 2025 regular season, Noel has some intriguing upside as a 2025 third-round pick, and Houston is hoping to get Dell back eventually from the knee injury that sidelined him for the entire 2025 season. Stroud is looking to bounce back after a 2025 campaign in which he threw for career lows in both passing yards (3,041) and touchdown passes (19) during the regular season before coughing up seven turnovers in two playoff games.
+- **NEW — Kyler Murray** — Kyler Murray - Plays six preseason snaps (2026-09-03T15:58:16Z)
+  - After completing two of his three pass attempts for 10 yards against the Giants in the preseason opener, Murray took a seat and parked it for the remainder of the exhibition season. Coach Kevin O'Connell settled on Murray as the Vikings' starter before training camp, and he's expected to have a long leash under center this season after J.J. McCarthy continued to look overmatched throughout the 2025 campaign. Murray has big upside in this quarterback-friendly scheme and has arguably the best supporting cast of his career. He's an ideal late-round fantasy target at quarterback.
+- **Joe Burrow** — Joe Burrow - Optimistic heading into 2026 (2026-09-03T15:51:14Z)
   - "We're going to have a really good team that has a chance to win every game that we step foot on the field for," Burrow said. "We brought in a lot of the right guys, a lot of the right people with the right mindsets to go and chase this goal of winning a Super Bowl." Cincinnati's offseason additions focused primarily on fixing a defense that allowed 28.9 points per game during the 2025 regular season, which was third-most in the NFL. Burrow and the offense are poised for another productive campaign if the star QB can stay healthy after being limited to eight appearances last season due to a toe injury. Starting wide receivers Chase and Tee Higgins (heel), as well as running back Chase Brown, are all reprising their roles alongside Burrow to provide continuity on offense.
 - **Anthony Richardson** — Anthony Richardson Sr. will be backup QB for Colts (2026-09-03T15:45:06.712000Z)
   - There have been multiple rumors that Richardson might be traded at some point. Some reports have suggested that he may lose out to Riley Leonard for the Colts' backup QB role. Head coach Shane Steichen has put all that to rest, at least for now, making clear Tuesday that Richardson is indeed the top backup to starter Daniel Jones. 
@@ -50,7 +56,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.
 - **Michael Penix** — Michael Penix - Will start 'eventually,' if not Week 1 (2026-09-03T13:23:16Z)
   - Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part on 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Head coach Kevin Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.
-- **NEW — Omarion Hampton** — Omarion Hampton Set Up for Year 2 Breakout (2026-09-03T11:46:06Z)
+- **NEW — Anthony Richardson** — Anthony Richardson Sr. Will be Colts' Backup QB (2026-09-03T12:00:15Z)
+  - Source: https://www.rotoballer.com/player-news/anthony-richardson-sr-will-be-colts-backup-qb/1922543
+- **NEW — Cam Skattebo** — Cam Skattebo Considered Retirement After Rookie Injury (2026-09-03T11:59:10Z)
+  - Source: https://www.rotoballer.com/player-news/cam-skattebo-considered-retirement-after-rookie-injury/1922541
+- **Omarion Hampton** — Omarion Hampton Set Up for Year 2 Breakout (2026-09-03T11:46:06Z)
   - Source: https://www.rotoballer.com/player-news/omarion-hampton-set-up-for-year-2-breakout/1922532
 - **Jalen Hurts** — Jalen Hurts Admits he Grew Apart From Former Receiver (2026-09-03T11:39:09Z)
   - Source: https://www.rotoballer.com/player-news/jalen-hurts-admits-he-grew-apart-from-former-receiver/1922526
@@ -204,14 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kyle-monangai-does-some-running-on-wednesday/1922114
 - **Woody Marks** — Woody Marks' Production Upside Could Be Limited in Houston (2026-09-02T16:58:06Z)
   - Source: https://www.rotoballer.com/player-news/woody-marks-production-upside-could-be-limited-in-houston/1922111
-- **Kenneth Walker** — Kenneth Walker - Returns to full practice Wednesday (2026-09-02T16:56:54Z)
-  - Walker dealt with some swelling around his ankle last week due to some cleat issues, but the star running back is back in action Wednesday with 12 days to go before the Chiefs open their season at home against the Broncos on Monday, Sept. 14. After splitting duties with Zach Charbonnet (knee) in Seattle, Walker is expected to operate as a three-down workhorse with Kansas City this season. Only fifth-round rookie Emmett Johnson and 2025 seventh-rounder Brashard Smith round out the depth chart behind Walker.
-- **AJ Barner** — AJ Barner May Be Undervalued in Drafts Entering 2026 (2026-09-02T16:51:09Z)
-  - Source: https://www.rotoballer.com/player-news/aj-barner-may-be-undervalued-in-drafts-entering-2026/1922106
-- **Fernando Mendoza** — Fernando Mendoza - Opening season as QB2 (2026-09-02T16:48:22Z)
-  - Mendoza was in the competition all offseason, but it was going to take some otherworldly play to knock Cousins out of the top spot on the depth chart. While Cousins completed 13 of 17 passes for 101 yards and one touchdown across 30 preseason snaps, Mendoza struggled some, completing just 26 of 46 passes for 250 yards, one touchdown and a pair of interceptions during exhibition action. Cousins is likely to have a decently long leash to begin the season, but Mendoza remains a good bet to make starts as a rookie.
-- **Kirk Cousins** — Kirk Cousins named Raiders Week 1 starter (2026-09-02T16:45:33.181000Z)
-  - It's long been presumed that the Raiders would start Cousins and give Mendoza at least a half-redshirt year. This just confirms it. He could be an interesting streaming option, but we need to see more from the pass catchers not named Brock Bowers to really feel confident in this passing offense.
-  - Source: https://www.fantasypros.com/nfl/news/605604/kirk-cousins-named-raiders-week-1-starter.php
-- **Ashton Jeanty** — Ashton Jeanty - Optimism for Week 1 (2026-09-02T16:45:01Z)
-  - Jeanty hasn't practiced this week after suffering what is believed to be a low-ankle sprain back on Aug. 23, but the running back has been working off to the side with trainers in an effort to get ready for the start of the regular season. Once the Raiders are required to release true injury reports next week, there will be a better idea of Jeanty's availability for the regular-season opener. Mike Washington and Dylan Laube are next up for carries if Jeanty is unable to play against Miami.

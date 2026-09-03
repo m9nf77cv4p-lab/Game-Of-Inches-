@@ -1,10 +1,13 @@
 {
-  "last_checked_at": "2026-09-03T15:57:51Z",
+  "last_checked_at": "2026-09-03T16:16:22Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12507|rotoballer|220006|1788435966000",
-    "nfl|6770|rotowire|636153|1788450674000"
+    "nfl|12481|rotoballer|220008|1788436750000",
+    "nfl|5849|rotowire|636154|1788451096000",
+    "nfl|5892|rotowire|636156|1788451940000",
+    "nfl|9229|rotoballer|220007|1788436815000",
+    "nfl|9758|rotowire|636155|1788451273000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +17,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Montgomery is ticketed for a prominent role after coming over from Detroit in an offseason trade, but it remains to be seen just how much Marks cuts into Montgomery's usage. The 230-pound Montgomery is much better-suited for running inside and short-yardage work than the 208-pound Marks, but Montgomery recorded only 76 receptions across the past three regular seasons in Detroit, so the shifty Marks could siphon away opportunities in passing situations.",
+      "description": "Montgomery is one of three running backs on Houston's 53-man roster, along with Woody Marks and British Brooks, Jared Koch of SI.com reports.",
+      "metadata": {
+        "analysis": "Montgomery is ticketed for a prominent role after coming over from Detroit in an offseason trade, but it remains to be seen just how much Marks cuts into Montgomery's usage. The 230-pound Montgomery is much better-suited for running inside and short-yardage work than the 208-pound Marks, but Montgomery recorded only 76 receptions across the past three regular seasons in Detroit, so the shifty Marks could siphon away opportunities in passing situations.",
+        "description": "Montgomery is one of three running backs on Houston's 53-man roster, along with Woody Marks and British Brooks, Jared Koch of SI.com reports.",
+        "title": "David Montgomery - Tops RB depth chart over Marks and Brooks",
+        "topic_id": "1401273334536097792"
+      },
+      "nfl_team": "HOU",
+      "player_id": "5892",
+      "player_name": "David Montgomery",
+      "position": "RB",
+      "published": 1788451940000,
+      "source": "rotowire",
+      "source_key": "636156",
+      "story_id": "nfl|5892|rotowire|636156|1788451940000",
+      "title": "David Montgomery - Tops RB depth chart over Marks and Brooks",
+      "url": null
+    },
+    {
+      "analysis": "The Texans traded for Boutte from New England after Jayden Higgins tore his ACL, knocking the 2025 second-round pick out for the season. Boutte's 551 receiving yards for the Patriots in the 2025 regular season would have ranked second among Houston's wideouts behind Collins. Hutchinson had a career-high 428 receiving yards during the 2025 regular season, Noel has some intriguing upside as a 2025 third-round pick, and Houston is hoping to get Dell back eventually from the knee injury that sidelined him for the entire 2025 season. Stroud is looking to bounce back after a 2025 campaign in which he threw for career lows in both passing yards (3,041) and touchdown passes (19) during the regular season before coughing up seven turnovers in two playoff games.",
+      "description": "Stroud heads into the regular season with Nico Collins, Xavier Hutchinson, Jaylin Noel (hamstring) and Kayshon Boutte as his top wide receivers, while Jonathan M. Alexander of the Houston Chronicle reports that Tank Dell (knee) will begin the season on IR with a designation to return.",
+      "metadata": {
+        "analysis": "The Texans traded for Boutte from New England after Jayden Higgins tore his ACL, knocking the 2025 second-round pick out for the season. Boutte's 551 receiving yards for the Patriots in the 2025 regular season would have ranked second among Houston's wideouts behind Collins. Hutchinson had a career-high 428 receiving yards during the 2025 regular season, Noel has some intriguing upside as a 2025 third-round pick, and Houston is hoping to get Dell back eventually from the knee injury that sidelined him for the entire 2025 season. Stroud is looking to bounce back after a 2025 campaign in which he threw for career lows in both passing yards (3,041) and touchdown passes (19) during the regular season before coughing up seven turnovers in two playoff games.",
+        "description": "Stroud heads into the regular season with Nico Collins, Xavier Hutchinson, Jaylin Noel (hamstring) and Kayshon Boutte as his top wide receivers, while Jonathan M. Alexander of the Houston Chronicle reports that Tank Dell (knee) will begin the season on IR with a designation to return.",
+        "title": "C.J. Stroud - Injuries and trade reshape WR room",
+        "topic_id": "1401270815885955072"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9758",
+      "player_name": "C.J. Stroud",
+      "position": "QB",
+      "published": 1788451273000,
+      "source": "rotowire",
+      "source_key": "636155",
+      "story_id": "nfl|9758|rotowire|636155|1788451273000",
+      "title": "C.J. Stroud - Injuries and trade reshape WR room",
+      "url": null
+    },
+    {
+      "analysis": "After completing two of his three pass attempts for 10 yards against the Giants in the preseason opener, Murray took a seat and parked it for the remainder of the exhibition season. Coach Kevin O'Connell settled on Murray as the Vikings' starter before training camp, and he's expected to have a long leash under center this season after J.J. McCarthy continued to look overmatched throughout the 2025 campaign. Murray has big upside in this quarterback-friendly scheme and has arguably the best supporting cast of his career. He's an ideal late-round fantasy target at quarterback.",
+      "description": "Murray played six snaps during Minnesota's three-game preseason slate.",
+      "metadata": {
+        "analysis": "After completing two of his three pass attempts for 10 yards against the Giants in the preseason opener, Murray took a seat and parked it for the remainder of the exhibition season. Coach Kevin O'Connell settled on Murray as the Vikings' starter before training camp, and he's expected to have a long leash under center this season after J.J. McCarthy continued to look overmatched throughout the 2025 campaign. Murray has big upside in this quarterback-friendly scheme and has arguably the best supporting cast of his career. He's an ideal late-round fantasy target at quarterback.",
+        "description": "Murray played six snaps during Minnesota's three-game preseason slate.",
+        "title": "Kyler Murray - Plays six preseason snaps",
+        "topic_id": "1401269565563879424"
+      },
+      "nfl_team": "MIN",
+      "player_id": "5849",
+      "player_name": "Kyler Murray",
+      "position": "QB",
+      "published": 1788451096000,
+      "source": "rotowire",
+      "source_key": "636154",
+      "story_id": "nfl|5849|rotowire|636154|1788451096000",
+      "title": "Kyler Murray - Plays six preseason snaps",
+      "url": null
+    },
     {
       "analysis": "\"We're going to have a really good team that has a chance to win every game that we step foot on the field for,\" Burrow said. \"We brought in a lot of the right guys, a lot of the right people with the right mindsets to go and chase this goal of winning a Super Bowl.\" Cincinnati's offseason additions focused primarily on fixing a defense that allowed 28.9 points per game during the 2025 regular season, which was third-most in the NFL. Burrow and the offense are poised for another productive campaign if the star QB can stay healthy after being limited to eight appearances last season due to a toe injury. Starting wide receivers Chase and Tee Higgins (heel), as well as running back Chase Brown, are all reprising their roles alongside Burrow to provide continuity on offense.",
       "description": "Burrow said on teammate Ja'Marr Chase's (knee) podcast that the quarterback has high hopes for the Bengals in 2026 after the team's offseason personnel changes, Kevin Patra of NFL.com reports Thursday.",
@@ -434,6 +497,46 @@
       "story_id": "nfl|11559|rotowire|636134|1788441796000",
       "title": "Michael Penix - Will start 'eventually,' if not Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts head coach Shane Steichen announced on Thursday that Anthony Richardson Sr. will be the team's No. 2 quarterback behind starter Daniel Jones to start the 2026 season, according to Stephen Holder of ESPN. Richardson requested a trade in the offseason, but the Colts did not end up moving him, and he will open the 2026 campaign as the direct backup to Jones, who is coming off a torn Achilles tendon late last season. The 24-year-old Richardson, the former fourth overall pick in 2023 from the University of Florida, beat out Riley Leonard for the QB2 job in training camp and the preseason. Richardson's rushing abilities are elite, but he has been injury-prone early in his career and has not developed as a passer the way the Colts hoped he would. Through 17 games (15 starts), Richardson posted a 50.6% completion percentage with 2,400 passing yards, 11 touchdowns, and 13 interceptions. He added 115 carries for 634 yards and 10 touchdowns on the ground. While the 24-year-old's dynasty/keeper value has plummeted, he could quickly become attractive again for his rushing prowess if Jones goes down with another injury in 2026.",
+      "metadata": {
+        "description": "Indianapolis Colts head coach Shane Steichen announced on Thursday that Anthony Richardson Sr. will be the team's No. 2 quarterback behind starter Daniel Jones to start the 2026 season, according to Stephen Holder of ESPN. Richardson requested a trade in the offseason, but the Colts did not end up moving him, and he will open the 2026 campaign as the direct backup to Jones, who is coming off a torn Achilles tendon late last season. The 24-year-old Richardson, the former fourth overall pick in 2023 from the University of Florida, beat out Riley Leonard for the QB2 job in training camp and the preseason. Richardson's rushing abilities are elite, but he has been injury-prone early in his career and has not developed as a passer the way the Colts hoped he would. Through 17 games (15 starts), Richardson posted a 50.6% completion percentage with 2,400 passing yards, 11 touchdowns, and 13 interceptions. He added 115 carries for 634 yards and 10 touchdowns on the ground. While the 24-year-old's dynasty/keeper value has plummeted, he could quickly become attractive again for his rushing prowess if Jones goes down with another injury in 2026.",
+        "title": "Anthony Richardson Sr. Will be Colts' Backup QB",
+        "topic_id": "1401272072059023360",
+        "url": "https://www.rotoballer.com/player-news/anthony-richardson-sr-will-be-colts-backup-qb/1922543"
+      },
+      "nfl_team": "IND",
+      "player_id": "9229",
+      "player_name": "Anthony Richardson",
+      "position": "QB",
+      "published": 1788436815000,
+      "source": "rotoballer",
+      "source_key": "220007",
+      "story_id": "nfl|9229|rotoballer|220007|1788436815000",
+      "title": "Anthony Richardson Sr. Will be Colts' Backup QB",
+      "url": "https://www.rotoballer.com/player-news/anthony-richardson-sr-will-be-colts-backup-qb/1922543"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants running back Cam Skattebo considered retirement after the serious injury that ended his rookie season. Skattebo said he had always told himself that suffering a major injury would be enough to make him stop playing football, but his thinking changed once he actually went through it. The 24-year-old dislocated his right ankle and fractured his fibula against Philadelphia last October, requiring surgery and ending his season after eight appearances. He had rushed for 410 yards and five touchdowns on 101 carries while adding 24 catches for 207 yards and two more scores. Skattebo ultimately decided he wasn't ready to walk away, and the long rehab has already brought him back to game action. He started New York's preseason opener in August and carried four times for 19 yards. After briefly wondering whether football was still worth it, Skattebo is now preparing for his second NFL season.",
+      "metadata": {
+        "description": "New York Giants running back Cam Skattebo considered retirement after the serious injury that ended his rookie season. Skattebo said he had always told himself that suffering a major injury would be enough to make him stop playing football, but his thinking changed once he actually went through it. The 24-year-old dislocated his right ankle and fractured his fibula against Philadelphia last October, requiring surgery and ending his season after eight appearances. He had rushed for 410 yards and five touchdowns on 101 carries while adding 24 catches for 207 yards and two more scores. Skattebo ultimately decided he wasn't ready to walk away, and the long rehab has already brought him back to game action. He started New York's preseason opener in August and carried four times for 19 yards. After briefly wondering whether football was still worth it, Skattebo is now preparing for his second NFL season.",
+        "title": "Cam Skattebo Considered Retirement After Rookie Injury",
+        "topic_id": "1401272072071606272",
+        "url": "https://www.rotoballer.com/player-news/cam-skattebo-considered-retirement-after-rookie-injury/1922541"
+      },
+      "nfl_team": "NYG",
+      "player_id": "12481",
+      "player_name": "Cam Skattebo",
+      "position": "RB",
+      "published": 1788436750000,
+      "source": "rotoballer",
+      "source_key": "220008",
+      "story_id": "nfl|12481|rotoballer|220008|1788436750000",
+      "title": "Cam Skattebo Considered Retirement After Rookie Injury",
+      "url": "https://www.rotoballer.com/player-news/cam-skattebo-considered-retirement-after-rookie-injury/1922541"
     },
     {
       "analysis": null,
