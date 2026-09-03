@@ -1,13 +1,13 @@
 {
-  "last_checked_at": "2026-09-03T18:28:25Z",
+  "last_checked_at": "2026-09-03T18:46:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12048|rotoballer|220018|1788444666000",
-    "nfl|13417|rotoballer|220019|1788445145000",
-    "nfl|5927|rotowire|636170|1788459130000",
-    "nfl|7021|rotowire|636172|1788459577000",
-    "nfl|8228|rotowire|636171|1788459131000"
+    "nfl|11584|rotowire|636174|1788460810000",
+    "nfl|13286|rotoballer|220020|1788445809000",
+    "nfl|13287|rotoballer|220021|1788446345000",
+    "nfl|4035|rotowire|636173|1788460693000",
+    "nfl|6804|rotowire|636175|1788460949000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +17,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Love led one drive apiece in Green Bay's first two exhibitions, with his sole TD a connection with RB MarShawn Lloyd over the middle in Denver in preseason Week 2. Love also linked up with each of his top three WRs Christian Watson, Jayden Reed and Matthew Golden at least one time. Especially against the Broncos, Love appeared to be hitting on all cylinders, and he'll aim to carry it over to a Week 1 road matchup with the Vikings on Sunday, Sept. 13.",
+      "description": "Love wrapped up the Packers' preseason slate having completed eight of 12 passes for 74 yards, one touchdown and no interceptions in two appearances.",
+      "metadata": {
+        "analysis": "Love led one drive apiece in Green Bay's first two exhibitions, with his sole TD a connection with RB MarShawn Lloyd over the middle in Denver in preseason Week 2. Love also linked up with each of his top three WRs Christian Watson, Jayden Reed and Matthew Golden at least one time. Especially against the Broncos, Love appeared to be hitting on all cylinders, and he'll aim to carry it over to a Week 1 road matchup with the Vikings on Sunday, Sept. 13.",
+        "description": "Love wrapped up the Packers' preseason slate having completed eight of 12 passes for 74 yards, one touchdown and no interceptions in two appearances.",
+        "title": "Jordan Love - Tosses one TD during preseason",
+        "topic_id": "1401311085197307905"
+      },
+      "nfl_team": "GB",
+      "player_id": "6804",
+      "player_name": "Jordan Love",
+      "position": "QB",
+      "published": 1788460949000,
+      "source": "rotowire",
+      "source_key": "636175",
+      "story_id": "nfl|6804|rotowire|636175|1788460949000",
+      "title": "Jordan Love - Tosses one TD during preseason",
+      "url": null
+    },
+    {
+      "analysis": "Irving figures to get most of the rushing opportunities in Tampa Bay's backfield, though Gainwell is likely to play in passing situations after leading the Steelers with 73 catches in the 2025 regular season and subsequently signing a two-year, $14 million contract with the Buccaneers in March. Tucker was used frequently in the red zone last season, leading the Buccaneers with seven rushing touchdowns. Irving saw his rushing touchdown total dip to one in 10 games during his injury-plagued 2025 campaign after scoring eight regular-season rushing touchdowns as a rookie. Despite the competition for touches, Irving maintains the highest ceiling in Tampa Bay's backfield given his success in 2024.",
+      "description": "Irving is set to lead a Buccaneers backfield that also includes Kenny Gainwell and Sean Tucker (undisclosed), the latter of whom didn't practice Wednesday, per Greg Auman of Fox Sports.",
+      "metadata": {
+        "analysis": "Irving figures to get most of the rushing opportunities in Tampa Bay's backfield, though Gainwell is likely to play in passing situations after leading the Steelers with 73 catches in the 2025 regular season and subsequently signing a two-year, $14 million contract with the Buccaneers in March. Tucker was used frequently in the red zone last season, leading the Buccaneers with seven rushing touchdowns. Irving saw his rushing touchdown total dip to one in 10 games during his injury-plagued 2025 campaign after scoring eight regular-season rushing touchdowns as a rookie. Despite the competition for touches, Irving maintains the highest ceiling in Tampa Bay's backfield given his success in 2024.",
+        "description": "Irving is set to lead a Buccaneers backfield that also includes Kenny Gainwell and Sean Tucker (undisclosed), the latter of whom didn't practice Wednesday, per Greg Auman of Fox Sports.",
+        "title": "Bucky Irving - Will try to fend off competition for touches",
+        "topic_id": "1401311085197307904"
+      },
+      "nfl_team": "TB",
+      "player_id": "11584",
+      "player_name": "Bucky Irving",
+      "position": "RB",
+      "published": 1788460810000,
+      "source": "rotowire",
+      "source_key": "636174",
+      "story_id": "nfl|11584|rotowire|636174|1788460810000",
+      "title": "Bucky Irving - Will try to fend off competition for touches",
+      "url": null
+    },
+    {
+      "analysis": "Kamara was diagnosed with a sprained MCL a little over two weeks ago and was given a return timetable of \"at least one month,\" according to Adam Schefter of ESPN, so it's not at all surprising to see the veteran running back still sidelined. The Saints will begin official Week 1 prep next week, and it would be somewhat shocking to see Kamara practice and be available for the season opener against the Lions. With Kendre Miller (undisclosed) also missing practice time, Audric Estime could be the backup to Travis Etienne against Detroit.",
+      "description": "Kamara (knee) remained sidelined at Thursday's practice, Mike Triplett of NewOrleans.Football reports.",
+      "metadata": {
+        "analysis": "Kamara was diagnosed with a sprained MCL a little over two weeks ago and was given a return timetable of \"at least one month,\" according to Adam Schefter of ESPN, so it's not at all surprising to see the veteran running back still sidelined. The Saints will begin official Week 1 prep next week, and it would be somewhat shocking to see Kamara practice and be available for the season opener against the Lions. With Kendre Miller (undisclosed) also missing practice time, Audric Estime could be the backup to Travis Etienne against Detroit.",
+        "description": "Kamara (knee) remained sidelined at Thursday's practice, Mike Triplett of NewOrleans.Football reports.",
+        "title": "Alvin Kamara - Remains sidelined at practice",
+        "topic_id": "1401311085155364864"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1788460693000,
+      "source": "rotowire",
+      "source_key": "636173",
+      "story_id": "nfl|4035|rotowire|636173|1788460693000",
+      "title": "Alvin Kamara - Remains sidelined at practice",
+      "url": null
+    },
     {
       "analysis": "Despite Warren being the top incumbent running back in Pittsburgh, Graziano believes that Dowdle is a better bet to handle early downs out of the backfield, not only due to his experience working with new coach Mike McCarthy in Dallas but because of his combined 471 carries over the last two seasons. Both campaigns resulted in more than 1,000 yards on the ground for Dowdle, while Warren has topped out at 958 rushing yards (2025) in his four-year career. Warren does have the advantage in pass-catching chops, with 139 receptions over the last three years. As a result, both players are in line for weekly usage for the Steelers.",
       "description": "Dowdle and Jaylen Warren are slated to have regular roles in the Steelers offense during the 2026 season, Dan Graziano of ESPN.com reports.",
@@ -698,6 +758,46 @@
       "story_id": "nfl|5844|rotowire|636141|1788447327000",
       "title": "T.J. Hockenson - Nabs TD in final camp practice",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals head coach Mike LaFleur said that rookie first-round running back Jeremiyah Love (ankle) is \"progressing\" as he rehabs an ankle injury that he suffered late in training camp, according to Howard Balzer of Cards Wire. Love appears to be making progress from what is believed to be a low-ankle sprain, but he could end up being questionable on next week's final injury report for the Week 1 clash against the Los Angeles Chargers on Sunday, Sept. 13. Fantasy managers will have a much better idea of whether the Notre Dame product will be ready for the season opener next weekend once the Cardinals start releasing their official injury reports next Wednesday. Even if Love is cleared to face the Chargers in his regular-season NFL debut, he is expected to share valuable touches in the backfield with Tyler Allgeier as he is eased in. The third overall pick in April has obvious three-down workhorse potential in the NFL after combining for 3,014 scrimmage yards and 40 total touchdowns in 28 games in his final two seasons for the Fighting Irish, but his short-term upside could be limited in an Arizona backfield that will eventually have James Conner (foot) fighting for touches. RotoBaller has the talented young back ranked as the RB18 as he heads into his first season in the NFL.",
+      "metadata": {
+        "description": "Arizona Cardinals head coach Mike LaFleur said that rookie first-round running back Jeremiyah Love (ankle) is \"progressing\" as he rehabs an ankle injury that he suffered late in training camp, according to Howard Balzer of Cards Wire. Love appears to be making progress from what is believed to be a low-ankle sprain, but he could end up being questionable on next week's final injury report for the Week 1 clash against the Los Angeles Chargers on Sunday, Sept. 13. Fantasy managers will have a much better idea of whether the Notre Dame product will be ready for the season opener next weekend once the Cardinals start releasing their official injury reports next Wednesday. Even if Love is cleared to face the Chargers in his regular-season NFL debut, he is expected to share valuable touches in the backfield with Tyler Allgeier as he is eased in. The third overall pick in April has obvious three-down workhorse potential in the NFL after combining for 3,014 scrimmage yards and 40 total touchdowns in 28 games in his final two seasons for the Fighting Irish, but his short-term upside could be limited in an Arizona backfield that will eventually have James Conner (foot) fighting for touches. RotoBaller has the talented young back ranked as the RB18 as he heads into his first season in the NFL.",
+        "title": "Jeremiyah Love \"Progressing\" in Recovery From Ankle Injury",
+        "topic_id": "1401311083699937280",
+        "url": "https://www.rotoballer.com/player-news/jeremiyah-love-progressing-in-recovery-from-ankle-injury/1922655"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788446345000,
+      "source": "rotoballer",
+      "source_key": "220021",
+      "story_id": "nfl|13287|rotoballer|220021|1788446345000",
+      "title": "Jeremiyah Love \"Progressing\" in Recovery From Ankle Injury",
+      "url": "https://www.rotoballer.com/player-news/jeremiyah-love-progressing-in-recovery-from-ankle-injury/1922655"
+    },
+    {
+      "analysis": null,
+      "description": "The Athletic's Andrew Destin writes that rookie running back Jadarian Price was not selected with the final pick in the first round of the 2026 NFL draft to be the direct replacement for Kenneth Walker, nor should he be a replacement for Zach Charbonnet (knee) as he nurses back to health following an ACL tear in last year's postseason. Price, a Notre Dame product, missed some time early in training camp with \"upper-leg soreness,\" which has made it easier for Seattle to embrace a platoon with him and George Holani to start the 2026 season. Destin thinks Price will be featured plenty on first and second downs, with George Holani being used on third downs and in short-yardage and goal-line situations. It is a similar role that TreVeyon Henderson had with the New England Patriots last year as a rookie, which produced 1,132 scrimmage yards and 10 total touchdowns (nine rushing, one receiving) in 17 regular-season games. The difference is that Price could find it more difficult to score if Holani is the goal-line back, and his volume will likely shrink once Charbonnet makes his season debut. Ideally, Price makes for a strong RB3/flex option in standard-scoring fantasy leagues entering Year 1, while also possessing RB2 upside if Charbonnet's recovery lingers into the second half of the season.",
+      "metadata": {
+        "description": "The Athletic's Andrew Destin writes that rookie running back Jadarian Price was not selected with the final pick in the first round of the 2026 NFL draft to be the direct replacement for Kenneth Walker, nor should he be a replacement for Zach Charbonnet (knee) as he nurses back to health following an ACL tear in last year's postseason. Price, a Notre Dame product, missed some time early in training camp with \"upper-leg soreness,\" which has made it easier for Seattle to embrace a platoon with him and George Holani to start the 2026 season. Destin thinks Price will be featured plenty on first and second downs, with George Holani being used on third downs and in short-yardage and goal-line situations. It is a similar role that TreVeyon Henderson had with the New England Patriots last year as a rookie, which produced 1,132 scrimmage yards and 10 total touchdowns (nine rushing, one receiving) in 17 regular-season games. The difference is that Price could find it more difficult to score if Holani is the goal-line back, and his volume will likely shrink once Charbonnet makes his season debut. Ideally, Price makes for a strong RB3/flex option in standard-scoring fantasy leagues entering Year 1, while also possessing RB2 upside if Charbonnet's recovery lingers into the second half of the season.",
+        "title": "Jadarian Price Should be Featured on Early Downs",
+        "topic_id": "1401308567121764352",
+        "url": "https://www.rotoballer.com/player-news/jadarian-price-should-be-featured-on-early-downs/1922647"
+      },
+      "nfl_team": "SEA",
+      "player_id": "13286",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "published": 1788445809000,
+      "source": "rotoballer",
+      "source_key": "220020",
+      "story_id": "nfl|13286|rotoballer|220020|1788445809000",
+      "title": "Jadarian Price Should be Featured on Early Downs",
+      "url": "https://www.rotoballer.com/player-news/jadarian-price-should-be-featured-on-early-downs/1922647"
     },
     {
       "analysis": "Along with most of the Vikings' other key starters, Addison was rested for the final two preseason contests, but he was taking regular reps with the first-team offense throughout camp and will be ready to go for Week 1 against the Packers. As was the case for nearly every Minnesota pass catcher last season, Addison saw his production crater as a result of suspect quarterback play from J.J. McCarthy, Carson Wentz and Max Brosmer, but his fantasy outlook should be improved heading into 2026 while Murray steps in as the Vikings' new starter under center. Over his first two NFL seasons, Addison averaged 4.16 receptions, 55.81 yards and 0.59 touchdowns per game while Kirk Cousins and Sam Darnold served as the Vikings' primary quarterbacks.",
