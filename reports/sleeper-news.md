@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1717**
+- Stored stories: **1718**
 - Newly captured: **1**
 
 ## Latest news
@@ -47,7 +47,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Coach Zac Taylor told Ben Baby of ESPN.com on Tuesday that Chase would be limited this week, but he "feels good about" the wide receiver after he hyperextended his left knee while attempting to gather in a deep ball at practice early last week. Just one day later, though, Chase didn't mix into any drills, and fellow WR Tee Higgins joined him on the sideline due to his own heel injury. The statuses of the Bengals' top options at the position thus are up in the air as Week 1 approaches.
 - **Tee Higgins** — Tee Higgins - No practice Wednesday (2026-09-02T22:02:04Z)
   - On Tuesday, coach Zac Taylor relayed to Baby that Higgins was dealing with a bruised heel, but the issue wasn't a major concern. Having said that, Higgins didn't log any activity one day later, so his status, along with fellow DNP WR Ja'Marr Chase (knee), will be monitored closely as Week 1 inches closer. The Bengals take on the Buccaneers on Sunday, Sept. 13, meaning Higgins' first official practice reps of the campaign will be possible next Wednesday.
-- **NEW — Bhayshul Tuten** — Jaguars Feel Bhayshul Tuten Can be a Complete No. 1 Running Back (2026-09-02T21:29:08Z)
+- **NEW — Chris Godwin** — Buccaneers GM Speaks Highly of Chris Godwin Jr. (2026-09-02T21:42:10Z)
+  - Source: https://www.rotoballer.com/player-news/buccaneers-gm-speaks-highly-of-chris-godwin-jr/1922212
+- **Bhayshul Tuten** — Jaguars Feel Bhayshul Tuten Can be a Complete No. 1 Running Back (2026-09-02T21:29:08Z)
   - Source: https://www.rotoballer.com/player-news/jaguars-feel-bhayshul-tuten-can-be-a-complete-no-1-running-back/1922202
 - **Saquon Barkley** — Saquon Barkley is Unharmed After Attempted Burglary of His Home (2026-09-02T21:06:09Z)
   - Source: https://www.rotoballer.com/player-news/saquon-barkley-is-unharmed-after-attempted-burglary-of-his-home/1922189
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/chuba-hubbard-still-in-line-for-heavy-work/1921920
 - **Bhayshul Tuten** — Bhayshul Tuten Sent Home Sick (2026-09-02T11:50:07Z)
   - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-sent-home-sick/1921898
-- **Jonah Coleman** — Jonah Coleman Trending Toward Bigger Role in Denver (2026-09-02T11:42:10Z)
-  - Source: https://www.rotoballer.com/player-news/jonah-coleman-trending-toward-bigger-role-in-denver/1921887

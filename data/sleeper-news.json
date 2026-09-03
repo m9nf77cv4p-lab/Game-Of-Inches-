@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-03T01:36:07Z",
+  "last_checked_at": "2026-09-03T01:59:35Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12490|rotoballer|219975|1788384548000"
+    "nfl|4037|rotoballer|219976|1788385330000"
   ],
   "schema_version": 1,
   "source": {
@@ -55,10 +55,10 @@
     },
     {
       "analysis": "The 49ers dealt Mason to Minnesota in March 2025, and the pairing of him and Jones meant a split backfield last season, with the former getting 173 touches to the latter's 160 along the way. Jones did play in four fewer games than Mason (12 vs. 16), but Mason handled far more goal-line carries (29 vs. 14), finishing with six TDs to Jones' three. A similar breakdown of work is expected for the duo in 2026, meaning Mason may have the safer fantasy floor of the two.",
-      "description": "Mason and Aaron Jones are listed as co-starting running backs on the Vikings' unofficial depth chart following cut-down day Sunday, Rob Kleifield of the team's official site reports.",
+      "description": "Mason and Aaron Jones are listed as co-starting running backs on the Vikings' unofficial depth chart following cutdown day Sunday, Rob Kleifield of the team's official site reports.",
       "metadata": {
         "analysis": "The 49ers dealt Mason to Minnesota in March 2025, and the pairing of him and Jones meant a split backfield last season, with the former getting 173 touches to the latter's 160 along the way. Jones did play in four fewer games than Mason (12 vs. 16), but Mason handled far more goal-line carries (29 vs. 14), finishing with six TDs to Jones' three. A similar breakdown of work is expected for the duo in 2026, meaning Mason may have the safer fantasy floor of the two.",
-        "description": "Mason and Aaron Jones are listed as co-starting running backs on the Vikings' unofficial depth chart following cut-down day Sunday, Rob Kleifield of the team's official site reports.",
+        "description": "Mason and Aaron Jones are listed as co-starting running backs on the Vikings' unofficial depth chart following cutdown day Sunday, Rob Kleifield of the team's official site reports.",
         "title": "Jordan Mason - Co-starting RB with Jones",
         "topic_id": "1401043189787295744"
       },
@@ -412,6 +412,26 @@
       "story_id": "nfl|6801|rotowire|636032|1788386524000",
       "title": "Tee Higgins - No practice Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers General Manager Jason Licht praised wide receiver Chris Godwin Jr. for his consistency and leadership, Brianna Dix reports. On Monday, Licht talked about how consistent Godwin has been for Tampa Bay and even called him Mr. Clutch. Before his fibula injury, Godwin was a top-20 player at his position. He recorded three straight 1,000-yard campaigns before suffering his injury during the 2024 season. Now, Godwin is fully healthy heading into the 2026 season and should serve as a top target in the Bucs' passing attack. Both Emeka Egbuka (toe) and Jalen McMillian (knee) are banged up right now, so Godwin could be leaned on heavily early in the season.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers General Manager Jason Licht praised wide receiver Chris Godwin Jr. for his consistency and leadership, Brianna Dix reports. On Monday, Licht talked about how consistent Godwin has been for Tampa Bay and even called him Mr. Clutch. Before his fibula injury, Godwin was a top-20 player at his position. He recorded three straight 1,000-yard campaigns before suffering his injury during the 2024 season. Now, Godwin is fully healthy heading into the 2026 season and should serve as a top target in the Bucs' passing attack. Both Emeka Egbuka (toe) and Jalen McMillian (knee) are banged up right now, so Godwin could be leaned on heavily early in the season.",
+        "title": "Buccaneers GM Speaks Highly of Chris Godwin Jr.",
+        "topic_id": "1401055769931087872",
+        "url": "https://www.rotoballer.com/player-news/buccaneers-gm-speaks-highly-of-chris-godwin-jr/1922212"
+      },
+      "nfl_team": "TB",
+      "player_id": "4037",
+      "player_name": "Chris Godwin",
+      "position": "WR",
+      "published": 1788385330000,
+      "source": "rotoballer",
+      "source_key": "219976",
+      "story_id": "nfl|4037|rotoballer|219976|1788385330000",
+      "title": "Buccaneers GM Speaks Highly of Chris Godwin Jr.",
+      "url": "https://www.rotoballer.com/player-news/buccaneers-gm-speaks-highly-of-chris-godwin-jr/1922212"
     },
     {
       "analysis": null,
