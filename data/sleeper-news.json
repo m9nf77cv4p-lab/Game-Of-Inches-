@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-03T00:48:26Z",
+  "last_checked_at": "2026-09-03T00:59:59Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4037|rotowire|636075|1788395345000"
+    "nfl|4199|rotowire|636081|1788396500000",
+    "nfl|8110|rotowire|636082|1788396644000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Ferguson, George Pickens, CeeDee Lamb and Dak Prescott were all sidelined for the entire preseason, ensuring that they will all be available for Week 1 against the Giants on Sunday, Sept. 13. Ferguson is coming offf a career year, finishing the 2025 regular season with 82 catches (on 102 targets) for 600 yards and eight touchdowns across 17 games. Even with Lamb and Pickens both commanding 100-plus targets last year, Ferguson's reliability in the passing game has made him a go-to option for Prescott in the passing game. Ferguson will operate as the Cowboys' top pass-catching tight end this season, with Brevyn Spann-Ford and Luke Schoonmaker providing depth at the position.",
+      "description": "Ferguson did not play in any of the Cowboys' three preseason games.",
+      "metadata": {
+        "analysis": "Ferguson, George Pickens, CeeDee Lamb and Dak Prescott were all sidelined for the entire preseason, ensuring that they will all be available for Week 1 against the Giants on Sunday, Sept. 13. Ferguson is coming offf a career year, finishing the 2025 regular season with 82 catches (on 102 targets) for 600 yards and eight touchdowns across 17 games. Even with Lamb and Pickens both commanding 100-plus targets last year, Ferguson's reliability in the passing game has made him a go-to option for Prescott in the passing game. Ferguson will operate as the Cowboys' top pass-catching tight end this season, with Brevyn Spann-Ford and Luke Schoonmaker providing depth at the position.",
+        "description": "Ferguson did not play in any of the Cowboys' three preseason games.",
+        "title": "Jake Ferguson - Doesn't play in preseason",
+        "topic_id": "1401041932540510208"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8110",
+      "player_name": "Jake Ferguson",
+      "position": "TE",
+      "published": 1788396644000,
+      "source": "rotowire",
+      "source_key": "636082",
+      "story_id": "nfl|8110|rotowire|636082|1788396644000",
+      "title": "Jake Ferguson - Doesn't play in preseason",
+      "url": null
+    },
+    {
+      "analysis": "Jones and Mason effectively split Minnesota's backfield in 2025, with the former earning 160 touches in 12 regular-season games and the latter getting 173 in 16 such appearances. Mason's goal-line work (29 rushes inside the 5-yard line) helped him total six TDs, while Jones (14 such carries) ended up with only three end-zone visits, which matched the lowest of his career for a campaign. The duo should have a similar breakdown of reps this season, but Jones' age (31) and injury history seemingly make him the riskier of the two to roster for fantasy purposes.",
+      "description": "Jones and Jordan Mason are listed as co-starting running backs on the Vikings' unofficial depth chart following cut-down day Sunday, Rob Kleifield of the team's official site reports.",
+      "metadata": {
+        "analysis": "Jones and Mason effectively split Minnesota's backfield in 2025, with the former earning 160 touches in 12 regular-season games and the latter getting 173 in 16 such appearances. Mason's goal-line work (29 rushes inside the 5-yard line) helped him total six TDs, while Jones (14 such carries) ended up with only three end-zone visits, which matched the lowest of his career for a campaign. The duo should have a similar breakdown of reps this season, but Jones' age (31) and injury history seemingly make him the riskier of the two to roster for fantasy purposes.",
+        "description": "Jones and Jordan Mason are listed as co-starting running backs on the Vikings' unofficial depth chart following cut-down day Sunday, Rob Kleifield of the team's official site reports.",
+        "title": "Aaron Jones - Listed as co-starter with Mason",
+        "topic_id": "1401040675427901440"
+      },
+      "nfl_team": "MIN",
+      "player_id": "4199",
+      "player_name": "Aaron Jones",
+      "position": "RB",
+      "published": 1788396500000,
+      "source": "rotowire",
+      "source_key": "636081",
+      "story_id": "nfl|4199|rotowire|636081|1788396500000",
+      "title": "Aaron Jones - Listed as co-starter with Mason",
+      "url": null
+    },
     {
       "analysis": "\"I would be remiss if I did not mention [Godwin] for all he has done for this organization and talk about being a consistent, steady, Mr. Clutch player, that is him and he looks very, very good out there right now,\" Licht relayed Monday. For the first time in his NFL career, Godwin enters the season out of the shadows of Mike Evans (groin), the latter of whom signed a three-year contract with the 49ers in March. Godwin logged 1,000-plus yard seasons four times from 2019 to 2023, and he was the league leader in receptions before dislocating his ankle in Week 7. He was limited to nine regular-season games last year due to a fibula injury, but Godwin is fully healthy entering the 2026 campaign and will serve as a go-to target in the passing game for quarterback Baker Mayfield. Godwin could operate in an elevated role early in the season depending on the statuses of Emeka Egbuka (toe) and Jalen McMillan (knee) for Week 1 against the Bengals on Sunday, Sept. 13.",
       "description": "Buccaneers general manager Jason Licht praised Godwin on Monday for his consistency and veteran leadership, Brianna Dix of the team's official site reports.",

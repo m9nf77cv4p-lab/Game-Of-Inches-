@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1710**
-- Newly captured: **1**
+- Stored stories: **1712**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Chris Godwin** — Chris Godwin - Draws praise from GM Licht (2026-09-03T00:29:05Z)
+- **NEW — Jake Ferguson** — Jake Ferguson - Doesn't play in preseason (2026-09-03T00:50:44Z)
+  - Ferguson, George Pickens, CeeDee Lamb and Dak Prescott were all sidelined for the entire preseason, ensuring that they will all be available for Week 1 against the Giants on Sunday, Sept. 13. Ferguson is coming offf a career year, finishing the 2025 regular season with 82 catches (on 102 targets) for 600 yards and eight touchdowns across 17 games. Even with Lamb and Pickens both commanding 100-plus targets last year, Ferguson's reliability in the passing game has made him a go-to option for Prescott in the passing game. Ferguson will operate as the Cowboys' top pass-catching tight end this season, with Brevyn Spann-Ford and Luke Schoonmaker providing depth at the position.
+- **NEW — Aaron Jones** — Aaron Jones - Listed as co-starter with Mason (2026-09-03T00:48:20Z)
+  - Jones and Mason effectively split Minnesota's backfield in 2025, with the former earning 160 touches in 12 regular-season games and the latter getting 173 in 16 such appearances. Mason's goal-line work (29 rushes inside the 5-yard line) helped him total six TDs, while Jones (14 such carries) ended up with only three end-zone visits, which matched the lowest of his career for a campaign. The duo should have a similar breakdown of reps this season, but Jones' age (31) and injury history seemingly make him the riskier of the two to roster for fantasy purposes.
+- **Chris Godwin** — Chris Godwin - Draws praise from GM Licht (2026-09-03T00:29:05Z)
   - "I would be remiss if I did not mention [Godwin] for all he has done for this organization and talk about being a consistent, steady, Mr. Clutch player, that is him and he looks very, very good out there right now," Licht relayed Monday. For the first time in his NFL career, Godwin enters the season out of the shadows of Mike Evans (groin), the latter of whom signed a three-year contract with the 49ers in March. Godwin logged 1,000-plus yard seasons four times from 2019 to 2023, and he was the league leader in receptions before dislocating his ankle in Week 7. He was limited to nine regular-season games last year due to a fibula injury, but Godwin is fully healthy entering the 2026 campaign and will serve as a go-to target in the passing game for quarterback Baker Mayfield. Godwin could operate in an elevated role early in the season depending on the statuses of Emeka Egbuka (toe) and Jalen McMillan (knee) for Week 1 against the Bengals on Sunday, Sept. 13.
 - **Dalton Schultz** — Dalton Schultz - Held out of exhibition games (2026-09-03T00:09:19Z)
   - Schultz, wide receiver Nico Collins and running back David Montgomery were some of the offensive starters that did not participate in preseason games, with quarterback C.J. Stroud seeing minimal action against the Raiders on Aug. 20. Schultz is coming off a productive 2025 regular season, setting a career high with 82 catches, while his 777 yards were his most since the 2021 campaign with the Cowboys (808 yards). Jayden Higgins (knee) will miss the entire 2026 season, and with Tank Dell (knee) opening the season on injured reserve, Schultz and Collins figure to be the go-to targets for Stroud in the passing game.
@@ -210,7 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jaxson-dart-feels-in-command-for-week-1-vs-cowboys/1921838
 - **Jalen Hurts** — Eagles Don't View 2026 as a Make-or-Break Year for Jalen Hurts (2026-09-02T10:49:06Z)
   - Source: https://www.rotoballer.com/player-news/eagles-dont-view-2026-as-a-make-or-break-year-for-jalen-hurts/1921832
-- **Cyrus Allen** — Cyrus Allen Earning Plenty of Trust From Quarterback (2026-09-02T10:42:13Z)
-  - Source: https://www.rotoballer.com/player-news/cyrus-allen-earning-plenty-of-trust-from-quarterback/1921828
-- **Caleb Douglas** — Caleb Douglas Worth a Late-Round Pick After Strong Camp Showing (2026-09-02T10:36:23Z)
-  - Source: https://www.rotoballer.com/player-news/caleb-douglas-worth-a-late-round-pick-after-strong-camp-showing/1921825
