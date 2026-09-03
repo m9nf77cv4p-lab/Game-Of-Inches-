@@ -1,13 +1,10 @@
 {
-  "last_checked_at": "2026-09-03T16:16:22Z",
+  "last_checked_at": "2026-09-03T16:31:53Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12481|rotoballer|220008|1788436750000",
-    "nfl|5849|rotowire|636154|1788451096000",
-    "nfl|5892|rotowire|636156|1788451940000",
-    "nfl|9229|rotoballer|220007|1788436815000",
-    "nfl|9758|rotowire|636155|1788451273000"
+    "nfl|6770|rotoballer|220010|1788438130000",
+    "nfl|8161|rotoballer|220009|1788438250000"
   ],
   "schema_version": 1,
   "source": {
@@ -497,6 +494,46 @@
       "story_id": "nfl|11559|rotowire|636134|1788441796000",
       "title": "Michael Penix - Will start 'eventually,' if not Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins quarterback Malik Willis already had the rushing ability to make himself interesting in fantasy. What happened in August gave managers a little more reason to trust the rest of his game. Miami's own camp reports repeatedly pointed to Willis processing faster and getting the football out on time, with some of his best work coming late in the summer. He produced multiple explosive throws on Aug. 17, looked sharp and in rhythm during practice a week later, then closed camp with a three-play stretch that produced three touchdowns. Willis also handled his only preseason drive well, completing four of five passes for 43 yards while leading Miami 93 yards for a touchdown against Washington. The receiving corps remains a concern, and one strong camp doesn't erase how little starting experience Willis has. His legs provide a useful fallback after he rushed for 123 yards and two scores in limited action last season. RotoBaller now has Willis at QB20. The passing progress makes that late-round gamble a lot easier to see paying off.",
+      "metadata": {
+        "description": "Miami Dolphins quarterback Malik Willis already had the rushing ability to make himself interesting in fantasy. What happened in August gave managers a little more reason to trust the rest of his game. Miami's own camp reports repeatedly pointed to Willis processing faster and getting the football out on time, with some of his best work coming late in the summer. He produced multiple explosive throws on Aug. 17, looked sharp and in rhythm during practice a week later, then closed camp with a three-play stretch that produced three touchdowns. Willis also handled his only preseason drive well, completing four of five passes for 43 yards while leading Miami 93 yards for a touchdown against Washington. The receiving corps remains a concern, and one strong camp doesn't erase how little starting experience Willis has. His legs provide a useful fallback after he rushed for 123 yards and two scores in limited action last season. RotoBaller now has Willis at QB20. The passing progress makes that late-round gamble a lot easier to see paying off.",
+        "title": "Malik Willis' Passing Progress Raises His Fantasy Ceiling",
+        "topic_id": "1401277106305912832",
+        "url": "https://www.rotoballer.com/player-news/malik-willis-passing-progress-raises-his-fantasy-ceiling/1922565"
+      },
+      "nfl_team": "MIA",
+      "player_id": "8161",
+      "player_name": "Malik Willis",
+      "position": "QB",
+      "published": 1788438250000,
+      "source": "rotoballer",
+      "source_key": "220009",
+      "story_id": "nfl|8161|rotoballer|220009|1788438250000",
+      "title": "Malik Willis' Passing Progress Raises His Fantasy Ceiling",
+      "url": "https://www.rotoballer.com/player-news/malik-willis-passing-progress-raises-his-fantasy-ceiling/1922565"
+    },
+    {
+      "analysis": null,
+      "description": "Speaking on teammate Ja'Marr Chase's new podcast, Cincinnati Bengals quarterback Joe Burrow said he is extremely optimistic about the 2026 season and has high hopes for the team, according to Kevin Patra of NFL.com. \"I just want to win this year,\" Burrow said. \"I just want to win. The rest will take care of itself. I think we'll break a bunch of records eventually, but I think we're going to have a really good team that has a chance to win every game that we step foot on the field for. I don't know about you, but I could really feel it in my bones, in my soul in OTAs this year -- different from years past.\" Burrow has also compared this Cincy squad to his 2019 LSU squad that won the national championship and has said he is \"trying to manifest\" another Super Bowl run. The 29-year-old three-time Pro Bowler is one of the few QBs who has top-five fantasy upside at the position strictly because of his arm and his elite pass-catching duo of Chase and Tee Higgins. As long as Burrow can stay healthy, he should bounce back as a high-end QB1 in fantasy football in 2026.",
+      "metadata": {
+        "description": "Speaking on teammate Ja'Marr Chase's new podcast, Cincinnati Bengals quarterback Joe Burrow said he is extremely optimistic about the 2026 season and has high hopes for the team, according to Kevin Patra of NFL.com. \"I just want to win this year,\" Burrow said. \"I just want to win. The rest will take care of itself. I think we'll break a bunch of records eventually, but I think we're going to have a really good team that has a chance to win every game that we step foot on the field for. I don't know about you, but I could really feel it in my bones, in my soul in OTAs this year -- different from years past.\" Burrow has also compared this Cincy squad to his 2019 LSU squad that won the national championship and has said he is \"trying to manifest\" another Super Bowl run. The 29-year-old three-time Pro Bowler is one of the few QBs who has top-five fantasy upside at the position strictly because of his arm and his elite pass-catching duo of Chase and Tee Higgins. As long as Burrow can stay healthy, he should bounce back as a high-end QB1 in fantasy football in 2026.",
+        "title": "Joe Burrow Thinks This Year's Bengals Team is \"Different\"",
+        "topic_id": "1401277106301718528",
+        "url": "https://www.rotoballer.com/player-news/joe-burrow-thinks-this-years-bengals-team-is-different/1922561"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6770",
+      "player_name": "Joe Burrow",
+      "position": "QB",
+      "published": 1788438130000,
+      "source": "rotoballer",
+      "source_key": "220010",
+      "story_id": "nfl|6770|rotoballer|220010|1788438130000",
+      "title": "Joe Burrow Thinks This Year's Bengals Team is \"Different\"",
+      "url": "https://www.rotoballer.com/player-news/joe-burrow-thinks-this-years-bengals-team-is-different/1922561"
     },
     {
       "analysis": null,
