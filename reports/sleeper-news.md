@@ -2,11 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1832**
-- Newly captured: **0**
+- Stored stories: **1834**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — D'Andre Swift** — D'Andre Swift exits practice early Thursday  (2026-09-03T22:00:09.545000Z)
+  - Hammond notes that Swift came off the field apparently holding at his midsection or core area. This will remain a situation to monitor during practice next week. 
+  - Source: https://www.fantasypros.com/nfl/news/605832/dandre-swift-exits-practice-early-thursday.php
+- **NEW — Rome Odunze** — Rome Odunze leaves practice early Thursday  (2026-09-03T22:00:09.528000Z)
+  - Hammond notes that Odunze came up hobbling during an install period at the start of practice. He tried to return to practice, but trainers wouldn't let him. This will remain something to monitor into next week. 
+  - Source: https://www.fantasypros.com/nfl/news/605833/rome-odunze-leaves-practice-early-thursday.php
 - **Rome Odunze** — Rome Odunze - Sustains apparent leg injury (2026-09-03T21:31:28Z)
   - Per the report, Odunze did not seem overly concerned about the injury and attempted to stay on the field, but the training staff decided to bring his day to an early end. His status will be updated again when more details are released, but as things stand both Odunze and Luther Burden (groin) are less than 100 percent. Kalif Raymond, Zavion Thomas and Jahdae Walker are next in line on the depth chart.
 - **D'Andre Swift** — D'Andre Swift - Leaves practice with injury (2026-09-03T21:20:13Z)
@@ -207,7 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/justice-hills-handcuff-value-gets-a-boost/1922511
 - **A.J. Brown** — A.J. Brown's WR1 Ceiling Is Back in Play (2026-09-03T11:29:16Z)
   - Source: https://www.rotoballer.com/player-news/a-j-browns-wr1-ceiling-is-back-in-play/1922507
-- **James Cook** — James Cook III Set For More Passing Work To Reduce Rushing Workload (2026-09-03T10:59:08Z)
-  - Source: https://www.rotoballer.com/player-news/james-cook-iii-set-for-more-passing-work-to-reduce-rushing-workload/1922466
-- **Pat Bryant** — Pat Bryant Turning Heads During Broncos Training Camp (2026-09-03T10:41:56Z)
-  - Source: https://www.rotoballer.com/player-news/pat-bryant-turning-heads-during-broncos-training-camp/1922452

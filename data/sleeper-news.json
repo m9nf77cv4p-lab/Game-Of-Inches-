@@ -1,8 +1,11 @@
 {
-  "last_checked_at": "2026-09-03T21:59:47Z",
+  "last_checked_at": "2026-09-03T22:17:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11620|fantasy_pros|605833|1788472809528",
+    "nfl|6790|fantasy_pros|605832|1788472809545"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +14,48 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Hammond notes that Swift came off the field apparently holding at his midsection or core area. This will remain a situation to monitor during practice next week. ",
+      "description": "D'Andre Swift left Thursday's practice early with an apparent injury. ",
+      "metadata": {
+        "analysis": "Hammond notes that Swift came off the field apparently holding at his midsection or core area. This will remain a situation to monitor during practice next week. ",
+        "description": "D'Andre Swift left Thursday's practice early with an apparent injury. ",
+        "title": "D'Andre Swift exits practice early Thursday ",
+        "topic_id": "1401360168721076224",
+        "url": "https://www.fantasypros.com/nfl/news/605832/dandre-swift-exits-practice-early-thursday.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1788472809545,
+      "source": "fantasy_pros",
+      "source_key": "605832",
+      "story_id": "nfl|6790|fantasy_pros|605832|1788472809545",
+      "title": "D'Andre Swift exits practice early Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/605832/dandre-swift-exits-practice-early-thursday.php"
+    },
+    {
+      "analysis": "Hammond notes that Odunze came up hobbling during an install period at the start of practice. He tried to return to practice, but trainers wouldn't let him. This will remain something to monitor into next week. ",
+      "description": "Rome Odunze left Thursday's practice early with an apparent injury. ",
+      "metadata": {
+        "analysis": "Hammond notes that Odunze came up hobbling during an install period at the start of practice. He tried to return to practice, but trainers wouldn't let him. This will remain something to monitor into next week. ",
+        "description": "Rome Odunze left Thursday's practice early with an apparent injury. ",
+        "title": "Rome Odunze leaves practice early Thursday ",
+        "topic_id": "1401360168653967360",
+        "url": "https://www.fantasypros.com/nfl/news/605833/rome-odunze-leaves-practice-early-thursday.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1788472809528,
+      "source": "fantasy_pros",
+      "source_key": "605833",
+      "story_id": "nfl|11620|fantasy_pros|605833|1788472809528",
+      "title": "Rome Odunze leaves practice early Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/605833/rome-odunze-leaves-practice-early-thursday.php"
+    },
     {
       "analysis": "Per the report, Odunze did not seem overly concerned about the injury and attempted to stay on the field, but the training staff decided to bring his day to an early end. His status will be updated again when more details are released, but as things stand both Odunze and Luther Burden (groin) are less than 100 percent. Kalif Raymond, Zavion Thomas and Jahdae Walker are next in line on the depth chart.",
       "description": "Odunze sustained an apparent right leg injury during Thursday's practice session, Sean Hammond of the Chicago Tribune reports.",
