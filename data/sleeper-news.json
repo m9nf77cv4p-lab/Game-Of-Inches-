@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T17:32:08Z",
+  "last_checked_at": "2026-09-04T17:42:59Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11566|rotowire|636261|1788542526000"
+    "nfl|12489|rotoballer|220085|1788528437000",
+    "nfl|8210|rotowire|636262|1788543110000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "After a four-year stint to begin his career in Tennessee, Okonkwo moved on to Washington via free agency this offseason, agreeing to a three-year, $27 million contract. Considering the investment made in him, it's no surprise he's listed as a first-teamer ahead of the 2026 campaign, and with lacking competition behind him for targets in the form of John Bates (hamstring), Ben Sinnott (oblique) and Colson Yankoff, Okonkwo is poised to serve as the top TE for QB Jayden Daniels.",
+      "description": "Okonkwo is listed as a starting tight end on the Commanders' unofficial depth chart.",
+      "metadata": {
+        "analysis": "After a four-year stint to begin his career in Tennessee, Okonkwo moved on to Washington via free agency this offseason, agreeing to a three-year, $27 million contract. Considering the investment made in him, it's no surprise he's listed as a first-teamer ahead of the 2026 campaign, and with lacking competition behind him for targets in the form of John Bates (hamstring), Ben Sinnott (oblique) and Colson Yankoff, Okonkwo is poised to serve as the top TE for QB Jayden Daniels.",
+        "description": "Okonkwo is listed as a starting tight end on the Commanders' unofficial depth chart.",
+        "title": "Chig Okonkwo - Listed as first-teamer in depth chart",
+        "topic_id": "1401655919997157376"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8210",
+      "player_name": "Chig Okonkwo",
+      "position": "TE",
+      "published": 1788543110000,
+      "source": "rotowire",
+      "source_key": "636262",
+      "story_id": "nfl|8210|rotowire|636262|1788543110000",
+      "title": "Chig Okonkwo - Listed as first-teamer in depth chart",
+      "url": null
+    },
     {
       "analysis": "Daniels suited up for preseason Week 2 at Detroit, but Washington's offense quickly went three-and-out via the aforementioned incompletion, a sack for a loss of 10 yards and an 11-yard Kaytron Allen run. Daniels otherwise remained on the sideline for the rest of exhibition season. After an outstanding rookie campaign in 2024, he endured an injury-plagued 2025, completing just 60.6 percent of his passes for 1,262 yards, eight touchdowns and three interceptions and rushing 58 times for 278 yards and two more TDs in seven appearances.",
       "description": "Daniels played just one possession during the Commanders' three-game preseason slate, failing to complete his only pass.",
@@ -195,6 +216,26 @@
       "story_id": "nfl|13296|rotowire|636255|1788535389000",
       "title": "Caleb Douglas - Listed as starter",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "After scoring 12 touchdowns as a rookie, Denver Broncos running back RJ Harvey has been arguably the least discussed back on the Broncos' roster for most of the summer, but beat reporter Zac Stevens does not believe that should be the case, as he foresees a big role for the 2025 second-round pick. In a recent appearance with Ari Meirov of The 33rd Team, Stevens broke down the entire Broncos running back room and said that Harvey \"has really established himself as the third-down running back and the pass-catching running back,\" comparing his role to that of Alvin Kamara in Sean Payton's Saints offenses. While rookie Jonah Coleman has emerged as a more likely true handcuff to starter J.K. Dobbins, Harvey is expected to see a significant role in the passing game after catching 47 passes as a rookie. As RotoBaller's RB36, Harvey is a player to target in full-PPR leagues, and he has the spike-week potential to return tremendous value from the middle rounds of drafts.",
+      "metadata": {
+        "description": "After scoring 12 touchdowns as a rookie, Denver Broncos running back RJ Harvey has been arguably the least discussed back on the Broncos' roster for most of the summer, but beat reporter Zac Stevens does not believe that should be the case, as he foresees a big role for the 2025 second-round pick. In a recent appearance with Ari Meirov of The 33rd Team, Stevens broke down the entire Broncos running back room and said that Harvey \"has really established himself as the third-down running back and the pass-catching running back,\" comparing his role to that of Alvin Kamara in Sean Payton's Saints offenses. While rookie Jonah Coleman has emerged as a more likely true handcuff to starter J.K. Dobbins, Harvey is expected to see a significant role in the passing game after catching 47 passes as a rookie. As RotoBaller's RB36, Harvey is a player to target in full-PPR leagues, and he has the spike-week potential to return tremendous value from the middle rounds of drafts.",
+        "title": "RJ Harvey to See a \"Big Role\" as Broncos' Pass-Catching Back",
+        "topic_id": "1401655918638145536",
+        "url": "https://www.rotoballer.com/player-news/rj-harvey-to-see-a-big-role-as-broncos-pass-catching-back/1923313"
+      },
+      "nfl_team": "DEN",
+      "player_id": "12489",
+      "player_name": "RJ Harvey",
+      "position": "RB",
+      "published": 1788528437000,
+      "source": "rotoballer",
+      "source_key": "220085",
+      "story_id": "nfl|12489|rotoballer|220085|1788528437000",
+      "title": "RJ Harvey to See a \"Big Role\" as Broncos' Pass-Catching Back",
+      "url": "https://www.rotoballer.com/player-news/rj-harvey-to-see-a-big-role-as-broncos-pass-catching-back/1923313"
     },
     {
       "analysis": null,
