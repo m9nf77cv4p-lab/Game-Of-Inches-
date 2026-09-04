@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T13:30:33Z",
+  "last_checked_at": "2026-09-04T13:45:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9509|rotoballer|220064|1788513006000"
+    "nfl|5850|rotoballer|220065|1788513906000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back Josh Jacobs was placed on the commissioner's exempt list on Sunday and has no timetable for return. Jacobs was charged with battery and criminal damage to property stemming from the offseason. A video also provides evidence against Jacobs in this trial, and if it is released, it could lead the team to cut ties with him. While there is a possibility that he returns in 2026, fantasy managers should not spend more than a late-round pick on Jacobs. MarShawn Lloyd will have a chance to take the job early in the season, and the team has continued to praise the young back. A committee once Jacobs returns is very possible, so the reward may not be as big as some fantasy managers expect. Jacobs' range of outcomes is from being a contributor in the fantasy playoffs to not playing a snap in 2026 or beyond. Make sure that you know exactly what is going on with Jacobs' situation before spending draft capital on the veteran running back.",
+      "metadata": {
+        "description": "Green Bay Packers running back Josh Jacobs was placed on the commissioner's exempt list on Sunday and has no timetable for return. Jacobs was charged with battery and criminal damage to property stemming from the offseason. A video also provides evidence against Jacobs in this trial, and if it is released, it could lead the team to cut ties with him. While there is a possibility that he returns in 2026, fantasy managers should not spend more than a late-round pick on Jacobs. MarShawn Lloyd will have a chance to take the job early in the season, and the team has continued to praise the young back. A committee once Jacobs returns is very possible, so the reward may not be as big as some fantasy managers expect. Jacobs' range of outcomes is from being a contributor in the fantasy playoffs to not playing a snap in 2026 or beyond. Make sure that you know exactly what is going on with Jacobs' situation before spending draft capital on the veteran running back.",
+        "title": "Josh Jacobs Is Too Risky for Anything More Than a Late-Round Pick",
+        "topic_id": "1401595514314596357",
+        "url": "https://www.rotoballer.com/player-news/josh-jacobs-is-too-risky-for-anything-more-than-a-late-round-pick/1923115"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1788513906000,
+      "source": "rotoballer",
+      "source_key": "220065",
+      "story_id": "nfl|5850|rotoballer|220065|1788513906000",
+      "title": "Josh Jacobs Is Too Risky for Anything More Than a Late-Round Pick",
+      "url": "https://www.rotoballer.com/player-news/josh-jacobs-is-too-risky-for-anything-more-than-a-late-round-pick/1923115"
+    },
     {
       "analysis": null,
       "description": "Atlanta Falcons star running back Bijan Robinson will remain a fantasy superstar in 2026 despite rumors he would not get goal-line work. Robinson had 287 carries for 1,478 yards and seven touchdowns, while adding 820 receiving yards and four touchdowns on 79 receptions. His elite production last season came while running back Tyler Allgeier shared the workload, and Allgeier had 157 total attempts for 610 yards and eight touchdowns. The Falcons replaced Allgeier with former Commanders and 49ers running back Brian Robinson Jr., and reports on his usage in Atlanta have been mixed, ranging from taking the \"Allgeier role\" to splitting reps with third-string back Tyler Goodson. Regardless, Robinson will remain an elite option in the first rounds of fantasy drafts. He's an elite runner and receiver and has yet to miss a game in his NFL career. He should be among the first three picks in fantasy drafts this season.",
