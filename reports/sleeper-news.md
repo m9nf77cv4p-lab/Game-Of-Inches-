@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1923**
-- Newly captured: **3**
+- Stored stories: **1925**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Kayshon Boutte** — Kayshon Boutte - Building rapport with Stroud (2026-09-04T20:56:34Z)
+- **NEW — Josh Allen** — Josh Allen - Logs one appearance in preseason (2026-09-04T21:21:49Z)
+  - Allen suited up for a preseason Week 1 matchup with the Panthers on Aug. 15 and led two scoring drives, completing six of eight passes for 111 yards and one touchdown. His final connection with Keon Coleman resulted in a nine-yard touchdown, after which Allen's exhibition action came to a close. The cameo displayed that Allen already was in midseason form, and he'll be aiming to get back to 4,000 yards through the air in 2026 for the first time since doing so in four consecutive campaigns from 2020-2023. He'll be aided in that quest by the offseason addition of WR DJ Moore.
+- **Kayshon Boutte** — Kayshon Boutte - Building rapport with Stroud (2026-09-04T20:56:34Z)
   - Boutte ended up being the odd man out last month in a New England receiving corps that added A.J. Brown and Romeo Doubs in the offseason. Prior to their respective arrivals, Boutte was a regular in the Patriots' passing game the last two seasons, combining for a 76-1,140-9 line on 114 targets in 29 regular-season contests during that span. He joined Houston in the wake of Jayden Higgins' torn ACL, so Boutte will be in the mix for looks from Stroud behind Nico Collins and alongside Xavier Hutchinson, Jaylin Noel (hamstring) and Jared Wayne to begin the campaign.
 - **DeVonta Smith** — DeVonta Smith - Logs no preseason action (2026-09-04T20:40:04Z)
   - Smith picked up a hamstring injury early on in training camp that kept him sidelined for the Eagles' first two exhibitions. After logging a full practice Aug. 24, he had put the issue behind him, but he still rested with the rest of the starters in the team's exhibition finale. With A.J. Brown getting traded to the Patriots this offseason, Smith is positioned as Philadelphia's No. 1 WR, while Dontayvion Wicks, rookie first-rounder Makai Lemon and Hollywood Brown are the next players up at the position.
@@ -31,9 +33,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After a four-year stint to begin his career in Tennessee, Okonkwo moved on to Washington via free agency this offseason, agreeing to a three-year, $27 million contract. Considering the investment made in him, it's no surprise he's listed as a first-teamer ahead of the 2026 campaign, and with lacking competition behind him for targets in the form of John Bates (hamstring), Ben Sinnott (oblique) and Colson Yankoff, Okonkwo is poised to serve as the top TE for QB Jayden Daniels.
 - **Jayden Daniels** — Jayden Daniels - One possession in preseason (2026-09-04T17:22:06Z)
   - Daniels suited up for preseason Week 2 at Detroit, but Washington's offense quickly went three-and-out via the aforementioned incompletion, a sack for a loss of 10 yards and an 11-yard Kaytron Allen run. Daniels otherwise remained on the sideline for the rest of exhibition season. After an outstanding rookie campaign in 2024, he endured an injury-plagued 2025, completing just 60.6 percent of his passes for 1,262 yards, eight touchdowns and three interceptions and rushing 58 times for 278 yards and two more TDs in seven appearances.
-- **NEW — Kayshon Boutte** — Kayshon Boutte Developing Chemistry With New QB (2026-09-04T17:07:19Z)
+- **NEW — Jalen Hurts** — Jalen Hurts Buying into New Eagles Offense (2026-09-04T17:17:16Z)
+  - Source: https://www.rotoballer.com/player-news/jalen-hurts-buying-into-new-eagles-offense/1923521
+- **Kayshon Boutte** — Kayshon Boutte Developing Chemistry With New QB (2026-09-04T17:07:19Z)
   - Source: https://www.rotoballer.com/player-news/kayshon-boutte-developing-chemistry-with-new-qb/1923518
-- **NEW — A.J. Brown** — A.J. Brown Primed for Resurgent Season as Focal Point of Passing Game (2026-09-04T16:58:08Z)
+- **A.J. Brown** — A.J. Brown Primed for Resurgent Season as Focal Point of Passing Game (2026-09-04T16:58:08Z)
   - Source: https://www.rotoballer.com/player-news/a-j-brown-primed-for-resurgent-season-as-the-focal-point-of-the-patriots-passing-game/1923513
 - **Ryan Flournoy** — Ryan Flournoy an Intriguing Late-Round Target Amidst Training Camp Buzz (2026-09-04T16:47:10Z)
   - Source: https://www.rotoballer.com/player-news/ryan-flournoy-an-intriguing-late-round-target-amidst-training-camp-buzz/1923506
@@ -209,8 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Alec Pierce** — Alec Pierce (ankle) practices in full on Thursday  (2026-09-03T20:20:08.912000Z)
   - Pierce was limited in practice earlier this week, and this is the next big step for the newly anointed WR1 for the Colts on the road to full recovery and return to play. He will operate as the Colts primary deep threat this season when on the field, opening things up for Josh Downs and Tyler Warren over the middle and short areas.
   - Source: https://www.fantasypros.com/nfl/news/605823/alec-pierce-ankle-practices-full-on-thursday.php
-- **TreVeyon Henderson** — TreVeyon Henderson (ankle) still not practicing Thursday  (2026-09-03T20:20:08.899000Z)
-  - Henderson has not practiced since August 24 when he sustained the injury. His status is up in the air for the season opener next Wednesday. 
-  - Source: https://www.fantasypros.com/nfl/news/605824/treveyon-henderson-ankle-still-not-practicing-thursday.php
-- **Kyle Monangai** — Kyle Monangai Does Not Practice on Thursday (2026-09-03T20:20:06Z)
-  - Source: https://www.rotoballer.com/player-news/kyle-monangai-does-not-practice-on-thursday/1922854

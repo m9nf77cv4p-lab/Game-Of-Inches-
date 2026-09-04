@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T21:16:27Z",
+  "last_checked_at": "2026-09-04T21:29:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|5859|rotoballer|220105|1788541088000",
-    "nfl|9504|rotoballer|220106|1788541639000",
-    "nfl|9504|rotowire|636274|1788555394000"
+    "nfl|4984|rotowire|636275|1788556909000",
+    "nfl|6904|rotoballer|220107|1788542236000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Allen suited up for a preseason Week 1 matchup with the Panthers on Aug. 15 and led two scoring drives, completing six of eight passes for 111 yards and one touchdown. His final connection with Keon Coleman resulted in a nine-yard touchdown, after which Allen's exhibition action came to a close. The cameo displayed that Allen already was in midseason form, and he'll be aiming to get back to 4,000 yards through the air in 2026 for the first time since doing so in four consecutive campaigns from 2020-2023. He'll be aided in that quest by the offseason addition of WR DJ Moore.",
+      "description": "Allen made one appearance during the Bills' three-game preseason schedule.",
+      "metadata": {
+        "analysis": "Allen suited up for a preseason Week 1 matchup with the Panthers on Aug. 15 and led two scoring drives, completing six of eight passes for 111 yards and one touchdown. His final connection with Keon Coleman resulted in a nine-yard touchdown, after which Allen's exhibition action came to a close. The cameo displayed that Allen already was in midseason form, and he'll be aiming to get back to 4,000 yards through the air in 2026 for the first time since doing so in four consecutive campaigns from 2020-2023. He'll be aided in that quest by the offseason addition of WR DJ Moore.",
+        "description": "Allen made one appearance during the Bills' three-game preseason schedule.",
+        "title": "Josh Allen - Logs one appearance in preseason",
+        "topic_id": "1401713806014488576"
+      },
+      "nfl_team": "BUF",
+      "player_id": "4984",
+      "player_name": "Josh Allen",
+      "position": "QB",
+      "published": 1788556909000,
+      "source": "rotowire",
+      "source_key": "636275",
+      "story_id": "nfl|4984|rotowire|636275|1788556909000",
+      "title": "Josh Allen - Logs one appearance in preseason",
+      "url": null
+    },
     {
       "analysis": "Boutte ended up being the odd man out last month in a New England receiving corps that added A.J. Brown and Romeo Doubs in the offseason. Prior to their respective arrivals, Boutte was a regular in the Patriots' passing game the last two seasons, combining for a 76-1,140-9 line on 114 targets in 29 regular-season contests during that span. He joined Houston in the wake of Jayden Higgins' torn ACL, so Boutte will be in the mix for looks from Stroud behind Nico Collins and alongside Xavier Hutchinson, Jaylin Noel (hamstring) and Jared Wayne to begin the campaign.",
       "description": "Boutte said Wednesday that he's been developing chemistry with QB C.J. Stroud since his trade from the Patriots to the Texans on Aug. 24, Cole Thompson of USA Today reports.",
@@ -254,6 +273,26 @@
       "story_id": "nfl|11566|rotowire|636261|1788542526000",
       "title": "Jayden Daniels - One possession in preseason",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The \"feedback internally has been positive\" in regard to how Philadelphia Eagles quarterback Jalen Hurts has acclimated to offensive coordinator Sean Mannion's new West Coast-style system, according to Tim McManus of ESPN. Mannion's system is a significant departure from how the Eagles' offense has operated in the past under head coach Nick Sirianni, and it involves a \"heavy under-center operation.\" Passing-game coordinator Josh Grizzard has described it as a \"timing-based aerial attack\" that will require Hurts to have consistent footwork and trust in his receivers to be in the right place at the right time. It has not been perfect this summer as Hurts adjusts to the new scheme -- he threw double-digit interceptions during training camp -- while making more over-the-middle throws. McManus concludes by saying that the consensus is that Hurts is \"bought in and fighting hard through the learning curve.\" Despite the Eagles offense struggling last year, Hurts threw for a career-high 25 touchdowns and added 421 rushing yards and eight rushing scores to remain a top-10 fantasy QB. With improved offensive-line play, the three-time Pro Bowler has a chance to be even better in this new offense, giving him clear top-five QB upside in fantasy football.",
+      "metadata": {
+        "description": "The \"feedback internally has been positive\" in regard to how Philadelphia Eagles quarterback Jalen Hurts has acclimated to offensive coordinator Sean Mannion's new West Coast-style system, according to Tim McManus of ESPN. Mannion's system is a significant departure from how the Eagles' offense has operated in the past under head coach Nick Sirianni, and it involves a \"heavy under-center operation.\" Passing-game coordinator Josh Grizzard has described it as a \"timing-based aerial attack\" that will require Hurts to have consistent footwork and trust in his receivers to be in the right place at the right time. It has not been perfect this summer as Hurts adjusts to the new scheme -- he threw double-digit interceptions during training camp -- while making more over-the-middle throws. McManus concludes by saying that the consensus is that Hurts is \"bought in and fighting hard through the learning curve.\" Despite the Eagles offense struggling last year, Hurts threw for a career-high 25 touchdowns and added 421 rushing yards and eight rushing scores to remain a top-10 fantasy QB. With improved offensive-line play, the three-time Pro Bowler has a chance to be even better in this new offense, giving him clear top-five QB upside in fantasy football.",
+        "title": "Jalen Hurts Buying into New Eagles Offense",
+        "topic_id": "1401713803866988544",
+        "url": "https://www.rotoballer.com/player-news/jalen-hurts-buying-into-new-eagles-offense/1923521"
+      },
+      "nfl_team": "PHI",
+      "player_id": "6904",
+      "player_name": "Jalen Hurts",
+      "position": "QB",
+      "published": 1788542236000,
+      "source": "rotoballer",
+      "source_key": "220107",
+      "story_id": "nfl|6904|rotoballer|220107|1788542236000",
+      "title": "Jalen Hurts Buying into New Eagles Offense",
+      "url": "https://www.rotoballer.com/player-news/jalen-hurts-buying-into-new-eagles-offense/1923521"
     },
     {
       "analysis": null,
