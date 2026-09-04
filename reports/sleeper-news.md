@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1932**
-- Newly captured: **2**
+- Stored stories: **1933**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jadarian Price** — Jadarian Price - In line for Week 1 role (2026-09-04T22:46:05Z)
+- **NEW — Sam LaPorta** — Sam LaPorta - Sees no action in preseason (2026-09-04T22:59:00Z)
+  - LaPorta was rested in the team's exhibition opener, but a hip injury suffered in practice kept him on the sideline for the final two preseason games. He was able to return to drills as of Aug. 25, but it's unclear if he's put the issue behind him. LaPorta is entering the final year of his rookie contract, so he has every incentive to be as healthy as possible for a Week 1 matchup with the Saints on Sunday, Sept. 13.
+- **Jadarian Price** — Jadarian Price - In line for Week 1 role (2026-09-04T22:46:05Z)
   - The Seahawks used the 32nd overall pick in the 2026 Draft on Price, seemingly with the intention for him to be in the mix for the No. 1 RB role during Zach Charbonnet's recovery from a January ACL tear. Price handled first-team reps during the offseason program and also at the start of training camp, but he then tended to lower-body soreness, which sidelined him for a week and spurred the team to keep him in street clothes during exhibition season. With a Week 1 matchup with the Patriots just around the corner Wednesday, Price seems primed for lead-runner status, while George Holani will serve as a receiver and in pass-blocking situations. Meanwhile, Emanuel Wilson has been contained to work on the side at recent practices due to a hamstring injury, so it's unclear if he'll be able to contribute in the season opener.
 - **Chris Olave** — Chris Olave - No action in preseason (2026-09-04T22:21:13Z)
   - Olave missed time at the end of the offseason program due to a blood clot, and while he opened training camp as a full participant and agreed to a four-year extension worth up to $132 million on July 30, he exited three different practices for various reasons in August. Nevertheless, he appears to be entering the season in good health and ready to build upon a career-best 2025 regular season in which he posted a 100-1,163-9 line on 155 targets in 16 games.
@@ -29,7 +31,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Aside from adding sixth-round rookie Bauer Sharp to the TE room this offseason, it's status quo for the position group in 2026, with all of Otton, Payne Durham and Ko Kieft back. Otton himself re-signed with Tampa Bay on a three-year, $30 million contract in March to retain his standing as the team's top tight end. Over the last two regular seasons, he's recorded exactly 59 catches on both occasions, totaling 1,172 yards and five touchdowns on 168 targets across 30 contests.
 - **Baker Mayfield** — Baker Mayfield - One preseason appearance (2026-09-04T19:29:51Z)
   - Mayfield took the field for preseason Week 2 against the Chiefs on Aug. 22, leading two drives and finishing 2-for-4 passing for 10 yards. Both possessions ended in Riley Dixon punts, but Mayfield wasn't working with any of his top wide receivers or tight ends. WRs Emeka Egbuka (toe) and Jalen McMillan (knee) are dealing with injuries as Week 1 draws closer, so how both fare in practice next week will be key for Mayfield's prospects at Cincinnati on Sunday, Sept. 13.
-- **NEW — Cam Skattebo** — Cam Skattebo Could See 20-Plus Carries Per Game (2026-09-04T18:38:32Z)
+- **Cam Skattebo** — Cam Skattebo Could See 20-Plus Carries Per Game (2026-09-04T18:38:32Z)
   - Source: https://www.rotoballer.com/player-news/cam-skattebo-could-see-20-plus-carries-per-game/1923544
 - **Josh Jacobs** — Josh Jacobs - Court date moved up (2026-09-04T18:34:21Z)
   - The move of the court date is going to lead to speculation about if and when he'll receive discipline from the NFL, especially if a plea deal is announced. But that has not been divulged so far. At the very least, there may soon be more clarification about what the next step in the process is for Jacobs, who remains on the Commissioner's Exempt List.
@@ -209,6 +211,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **D'Andre Swift** — D'Andre Swift exits practice early Thursday  (2026-09-03T22:00:09.545000Z)
   - Hammond notes that Swift came off the field apparently holding at his midsection or core area. This will remain a situation to monitor during practice next week. 
   - Source: https://www.fantasypros.com/nfl/news/605832/dandre-swift-exits-practice-early-thursday.php
-- **Rome Odunze** — Rome Odunze leaves practice early Thursday  (2026-09-03T22:00:09.528000Z)
-  - Hammond notes that Odunze came up hobbling during an install period at the start of practice. He tried to return to practice, but trainers wouldn't let him. This will remain something to monitor into next week. 
-  - Source: https://www.fantasypros.com/nfl/news/605833/rome-odunze-leaves-practice-early-thursday.php
