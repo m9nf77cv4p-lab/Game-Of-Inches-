@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T02:50:20Z",
+  "last_checked_at": "2026-09-04T03:00:13Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11566|rotoballer|220055|1788474974000",
-    "nfl|13276|rotowire|636238|1788490092000"
+    "nfl|4943|rotoballer|220056|1788475615000"
   ],
   "schema_version": 1,
   "source": {
@@ -193,6 +192,26 @@
       "story_id": "nfl|11620|rotowire|636197|1788476225000",
       "title": "Rome Odunze - Seemingly avoids serious setback",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "2025 Super Bowl-winning quarterback Sam Darnold enters his second season with the Seattle Seahawks with a chance to emerge as a high-end QB2, alongside star wide receiver Jaxon Smith-Njigba and the emergence of Rashid Shaheed, with a full offseason under his belt to build chemistry with Darnold. Shaheed was brought over to the Seahawks in Week 9 of the 2025 season. Darnold finished the 2025 season as the QB13, throwing for 4,048 yards, 25 touchdowns, and 14 interceptions. This was followed by a season with the Vikings in 2024, where he finished as the QB9. Although he lost his offensive coordinator, Klint Kubiak, who was brought on to be the head coach for the Raiders, RotoBaller currently ranks Darnold as the QB23 and the 140th player taken off the board. Fantasy managers in superflex formats could look to target Darnold as their QB2, as he has finished in the top 15 at the position in back-to-back seasons.",
+      "metadata": {
+        "description": "2025 Super Bowl-winning quarterback Sam Darnold enters his second season with the Seattle Seahawks with a chance to emerge as a high-end QB2, alongside star wide receiver Jaxon Smith-Njigba and the emergence of Rashid Shaheed, with a full offseason under his belt to build chemistry with Darnold. Shaheed was brought over to the Seahawks in Week 9 of the 2025 season. Darnold finished the 2025 season as the QB13, throwing for 4,048 yards, 25 touchdowns, and 14 interceptions. This was followed by a season with the Vikings in 2024, where he finished as the QB9. Although he lost his offensive coordinator, Klint Kubiak, who was brought on to be the head coach for the Raiders, RotoBaller currently ranks Darnold as the QB23 and the 140th player taken off the board. Fantasy managers in superflex formats could look to target Darnold as their QB2, as he has finished in the top 15 at the position in back-to-back seasons.",
+        "title": "Sam Darnold Should Benefit From Second Season in Seahawks Offense",
+        "topic_id": "1401434437639520256",
+        "url": "https://www.rotoballer.com/player-news/sam-darnold-should-benefit-from-second-season-in-seahawks-offense/1922966"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1788475615000,
+      "source": "rotoballer",
+      "source_key": "220056",
+      "story_id": "nfl|4943|rotoballer|220056|1788475615000",
+      "title": "Sam Darnold Should Benefit From Second Season in Seahawks Offense",
+      "url": "https://www.rotoballer.com/player-news/sam-darnold-should-benefit-from-second-season-in-seahawks-offense/1922966"
     },
     {
       "analysis": null,

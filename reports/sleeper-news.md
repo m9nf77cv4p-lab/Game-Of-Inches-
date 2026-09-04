@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1852**
-- Newly captured: **2**
+- Stored stories: **1853**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Omar Cooper** — Omar Cooper - Listed as second-teamer on depth chart (2026-09-04T02:48:12Z)
+- **Omar Cooper** — Omar Cooper - Listed as second-teamer on depth chart (2026-09-04T02:48:12Z)
   - Cooper served as one of QB Fernando Mendoza's top targets at Indiana last season, finishing with a 69-937-13 line in 16 games. After turning in a 4.42 40 time at the combine, his prospect profile was enough for the Jets to use the 30th overall pick on him in the 2026 NFL Draft. Joining a receiving corps already boasting Garrett Wilson and Adonai Mitchell, Cooper wasn't destined for more than the No. 3 WR role in the offense, but he worked behind even Isaiah Williams in three-wide sets during training camp, and his current depth-chart slotting indicates he still has work to do to earn significant reps in New York's passing game.
 - **Courtland Sutton** — Courtland Sutton - Atop depth chart again in 2026 (2026-09-04T02:31:47Z)
   - Sutton will look to make it three straight seasons with over 1,000 receiving yards as he once again operates as a top option in the wide receiver room with Denver. The Broncos traded for Jaylen Waddle in the offseason, and as a result, Sutton will likely see a reduction in targets, but his role as a top red-zone threat will remain.
@@ -25,7 +25,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as "aggressive, which is huge for us." The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.
 - **Rome Odunze** — Rome Odunze - Seemingly avoids serious setback (2026-09-03T22:57:05Z)
   - Odunze exited in the first hour of Thursday's session, but despite attempting to stay on the field, he was escorted off of it with team trainers. Wiederer's report seems to back up that Odunze's new health concern isn't a serious one, but he'll still enter Week 1 prep with a question mark regarding his status. With fellow WR Luther Burden also tending to a groin injury, the Bears currently have only Kalif Raymond, Zavion Thomas and Jahdae Walker as healthy options at the position on the active roster.
-- **NEW — Jayden Daniels** — Jayden Daniels Primed for a Bounce-Back Season in 2026 (2026-09-03T22:36:14Z)
+- **NEW — Sam Darnold** — Sam Darnold Should Benefit From Second Season in Seahawks Offense (2026-09-03T22:46:55Z)
+  - Source: https://www.rotoballer.com/player-news/sam-darnold-should-benefit-from-second-season-in-seahawks-offense/1922966
+- **Jayden Daniels** — Jayden Daniels Primed for a Bounce-Back Season in 2026 (2026-09-03T22:36:14Z)
   - Source: https://www.rotoballer.com/player-news/jayden-daniels-primed-for-a-bounce-back-season-in-2026-with-improved-receiving-core/1922958
 - **Jake Ferguson** — Jake Ferguson Restructures Contract With the Cowboys (2026-09-03T22:23:56Z)
   - Source: https://www.rotoballer.com/player-news/jake-ferguson-restructures-contract-with-the-cowboys/1922954
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Jacobs will spend an indeterminate amount of time on the Commissioner's Exempt List while his legal situation is sorted out. His absence creates an opportunity for Green Bay's running backs. Brooks is the most experienced of the team's available options at the position, having appeared in 41 regular-season games, including 32 with the Packers. Injuries have limited the currently healthy Lloyd to just one regular-season appearance in two years, while the recent trade acquisition Johnson seemed to be on the verge of being cut by Pittsburgh following a 28-carry rookie campaign in 2025.
 - **Isaiah Likely** — Isaiah Likely - Breakout potential with Giants (2026-09-03T14:20:29Z)
   - Likely signed a three-year, $40 million contract with the Giants in March and has subsequently formed a strong connection with QB Jaxson Dart on and off the field. The 26-year-old tight end also has familiarity with head coach John Harbaugh from their time together in Baltimore, where Likely played from 2022 to 2025. Likely was overshadowed by Mark Andrews on the Ravens, but the former has a clear path to a larger role in New York, where Likely will be competing for targets with fellow TE Theo Johnson (shoulder), as well as a WR room that includes Darius Slayton, Darnell Mooney, Malachi Fields and Odell Beckham behind Nabers.
-- **De'Zhaun Stribling** — De'Zhaun Stribling to Begin as Starting Slot Receiver? (2026-09-03T14:19:05Z)
-  - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-to-begin-as-starting-slot-receiver/1922635
