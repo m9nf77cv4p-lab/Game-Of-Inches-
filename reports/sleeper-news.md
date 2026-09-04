@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1899**
-- Newly captured: **2**
+- Stored stories: **1902**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Malik Willis** — Malik Willis - Logs one appearance in preseason (2026-09-04T17:50:06Z)
+- **NEW — Malik Washington** — Malik Washington - First-team billing on depth chart (2026-09-04T18:09:45Z)
+  - Miami almost entirely retooled its receiving corps this offseason, releasing Tyreek Hill in February, trading Jaylen Waddle to the Broncos in March, signing Jalen Tolbert in free agency and then drafting three WRs (Caleb Douglas, Chris Bell and Kevin Coleman) in the 2026 Draft. Washington is the only holdover from 2025, a season in which he hauled in 46 of 65 targets for 317 yards and three touchdowns while also rushing 17 times for 110 yards and one more TD. In addition to an expected increase in snaps while working with new QB Malik Willis, Washington again will serve as the team's primary kick returner and perhaps on punt returns as well.
+- **Malik Willis** — Malik Willis - Logs one appearance in preseason (2026-09-04T17:50:06Z)
   - Willis started the team's exhibition opener at Washington on Aug. 14, leading a 14-play drive that culminated in a De'Von Achane one-yard TD run. During the possession, Willis was a crisp 4-for-5 passing for 43 yards and also had two carries for nine yards. He parlayed a successful two-year stint as Jordan Love's backup in Green Bay into a three-year, $67.5 million contract this offseason, and while Willis' brief game action last month was encouraging, outside of top RB Achane, Miami doesn't boast much in terms of skill-position talent, as Malik Washington will be the No. 1 WR to begin the 2026 season.
 - **Chig Okonkwo** — Chig Okonkwo - Listed as first-teamer in depth chart (2026-09-04T17:31:50Z)
   - After a four-year stint to begin his career in Tennessee, Okonkwo moved on to Washington via free agency this offseason, agreeing to a three-year, $27 million contract. Considering the investment made in him, it's no surprise he's listed as a first-teamer ahead of the 2026 campaign, and with lacking competition behind him for targets in the form of John Bates (hamstring), Ben Sinnott (oblique) and Colson Yankoff, Okonkwo is poised to serve as the top TE for QB Jayden Daniels.
@@ -32,7 +34,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special-teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.
 - **Caleb Douglas** — Caleb Douglas - Listed as starter (2026-09-04T15:23:09Z)
   - Douglas is slotted in as the X receiver, alongside Jalen Tolbert at the Z and Malik Washington as the slot man for Miami. A third-round pick out of Texas Tech back in April, Douglas has been running with the first-team offense most of the summer. He logged 17 offensive snaps during the preseason, catching one of his two targets for 28 yards, before being rested for the third exhibition. This Dolphins offense projects to be a low-scoring one, and it remains to be seen if Malik Willis will be able to carry any of his pass catchers to fantasy relevance.
-- **NEW — Terry McLaurin** — Terry McLaurin Continues to Develop Chemistry with Young QB (2026-09-04T13:50:30Z)
+- **NEW — Makai Lemon** — Makai Lemon Shadowing Eagles' Top Wideout (2026-09-04T14:14:05Z)
+  - Source: https://www.rotoballer.com/player-news/makai-lemon-shadowing-eagles-top-wideout/1923348
+- **NEW — David Montgomery** — David Montgomery a Safe RB2 with Predictable Goal-Line Usage (2026-09-04T14:04:31Z)
+  - Source: https://www.rotoballer.com/player-news/david-montgomery-a-safe-rb2-with-predictable-goal-line-usage/1923337
+- **Terry McLaurin** — Terry McLaurin Continues to Develop Chemistry with Young QB (2026-09-04T13:50:30Z)
   - Source: https://www.rotoballer.com/player-news/both-healthy-terry-mclaurin-continues-to-develop-chemistry-with-his-young-quarterback/1923330
 - **Jonah Coleman** — Jonah Coleman Viewed as Direct Backup on Early Downs (2026-09-04T13:40:04Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-most-hyped-player-on-roster-viewed-as-direct-backup-to-dobbins/1923322
@@ -208,9 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - McLaurin had a career-low 582 receiving yards while being limited to 10 appearances in 2025. Prior to that down year, the 2019 third-round pick out of Ohio State recorded at least 919 receiving yards in each of his first six NFL regular seasons. McLaurin and Stefon Diggs are expected to operate as the top targets for QB Jayden Daniels, with Antonio Williams, Dyami Brown, Treylon Burks, Jaylin Lane and Luke McCaffrey providing depth at wide receiver.
 - **Stefon Diggs** — Stefon Diggs - Set for starting role in Washington (2026-09-03T18:02:24Z)
   - The depth chart behind Diggs appears uncertain, but the veteran wide receiver seems safely locked into a starting role opposite Terry McLaurin heading into the regular season. Antonio Williams, Dyami Brown, Treylon Burks, Jaylin Lane and Luke McCaffrey also made the team. Diggs has fallen short of 1,000 receiving yards only once in the past eight regular seasons.
-- **Jeremiyah Love** — Jeremiyah Love - Continues to progress (2026-09-03T17:49:48Z)
-  - It seems to be the only thing LaFleur is willing to say about his rookie running back's recovery at this point, as the coach has made it his daily ritual to say Love is merely progressing while offering little else in the form of insight. Love has 10 days to try and get ready for Arizona's Week 1 opener against the Chargers. He's going to need to practice in some fashion next week to have a chance to play Sunday, Sept. 13, and even then Love is still likely to split carries with Tyler Allgeier versus Los Angeles.
-- **Christian Watson** — Christian Watson - Set to reprise key role in Packers WR room (2026-09-03T17:41:58Z)
-  - Watson sits atop a wide receiver depth chart that also includes Jayden Reed, Matthew Golden, Bo Melton, Skyy Moore and J. Michael Sturdivant. Savion Williams (ankle) is on IR with a designation to return, so he could be eligible to play starting in Week 5. Watson failed to exceed 620 receiving yards in any of his previous four regular seasons while being plagued by injuries, but he's expected to lead Green Bay's wide receiver room as long as he's healthy.
-- **Cam Skattebo** — Cam Skattebo - Briefly weighed retirement after injury (2026-09-03T17:39:07Z)
-  - Skattebo told Kay Adams that coming out of college, he had determined that if he ever suffered a major injury, he would step away from football. However, after dislocating his right ankle just eight games into his rookie season, Skattebo determined that he still had too much good football left in him to justify an early retirement. Skattebo underwent surgery a day after suffering the injury and has bounced back well, as the Giants cleared him to take part in drills during June minicamp and made him available with no restrictions to begin training camp. After carrying four times for 19 yards in the Giants' preseason opener, Skattebo didn't play in either of the final two exhibitions, but he was held out merely as precaution. Skattebo is still likely to have his workload scaled back to some degree to begin the 2026 campaign after averaging 19.5 touches per game from Weeks 2 through 7 last season, but he'll head into the Sept. 13 opener versus the Cowboys as the Giants' clear lead option out of the backfield.

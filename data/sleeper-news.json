@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-04T18:06:11Z",
+  "last_checked_at": "2026-09-04T18:23:03Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|5927|rotoballer|220087|1788529830000",
-    "nfl|8161|rotowire|636263|1788544206000"
+    "nfl|11610|rotowire|636264|1788545385000",
+    "nfl|13294|rotoballer|220089|1788531245000",
+    "nfl|5892|rotoballer|220088|1788530671000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Miami almost entirely retooled its receiving corps this offseason, releasing Tyreek Hill in February, trading Jaylen Waddle to the Broncos in March, signing Jalen Tolbert in free agency and then drafting three WRs (Caleb Douglas, Chris Bell and Kevin Coleman) in the 2026 Draft. Washington is the only holdover from 2025, a season in which he hauled in 46 of 65 targets for 317 yards and three touchdowns while also rushing 17 times for 110 yards and one more TD. In addition to an expected increase in snaps while working with new QB Malik Willis, Washington again will serve as the team's primary kick returner and perhaps on punt returns as well.",
+      "description": "Washington is listed as a starting wide receiver on the Dolphins' unofficial depth chart.",
+      "metadata": {
+        "analysis": "Miami almost entirely retooled its receiving corps this offseason, releasing Tyreek Hill in February, trading Jaylen Waddle to the Broncos in March, signing Jalen Tolbert in free agency and then drafting three WRs (Caleb Douglas, Chris Bell and Kevin Coleman) in the 2026 Draft. Washington is the only holdover from 2025, a season in which he hauled in 46 of 65 targets for 317 yards and three touchdowns while also rushing 17 times for 110 yards and one more TD. In addition to an expected increase in snaps while working with new QB Malik Willis, Washington again will serve as the team's primary kick returner and perhaps on punt returns as well.",
+        "description": "Washington is listed as a starting wide receiver on the Dolphins' unofficial depth chart.",
+        "title": "Malik Washington - First-team billing on depth chart",
+        "topic_id": "1401664728366878720"
+      },
+      "nfl_team": "MIA",
+      "player_id": "11610",
+      "player_name": "Malik Washington",
+      "position": "WR",
+      "published": 1788545385000,
+      "source": "rotowire",
+      "source_key": "636264",
+      "story_id": "nfl|11610|rotowire|636264|1788545385000",
+      "title": "Malik Washington - First-team billing on depth chart",
+      "url": null
+    },
     {
       "analysis": "Willis started the team's exhibition opener at Washington on Aug. 14, leading a 14-play drive that culminated in a De'Von Achane one-yard TD run. During the possession, Willis was a crisp 4-for-5 passing for 43 yards and also had two carries for nine yards. He parlayed a successful two-year stint as Jordan Love's backup in Green Bay into a three-year, $67.5 million contract this offseason, and while Willis' brief game action last month was encouraging, outside of top RB Achane, Miami doesn't boast much in terms of skill-position talent, as Malik Washington will be the No. 1 WR to begin the 2026 season.",
       "description": "Willis made just one appearance during the Dolphins' three-game preseason slate.",
@@ -236,6 +257,46 @@
       "story_id": "nfl|13296|rotowire|636255|1788535389000",
       "title": "Caleb Douglas - Listed as starter",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Philadelphia Eagles told rookie first-round wide receiver Makai Lemon to mirror the preparation of WR1 DeVonta Smith, who has been noted for his strong preparation in advance of games, according to Zach Berman of The Athletic. \"I basically told him, 'Whatever Smitty does, you do.' And he's taken to that a little bit. I know that Smitty's done a good job of going out of his way to help him with some of that stuff,\" wide receivers coach Aaron Moorehead said. The 22-year-old 20th overall pick from USC had a quiet summer in training camp and missed valuable development time due to a nagging hamstring injury. He caught three of his five targets for five yards in the preseason finale against the Cincinnati Bengals last week. With Dontayvion Wicks rising to become the clear WR2 for Philly to start the 2026 campaign, Lemon is penciled in as the team's No. 3 wideout to begin his pro career. Lemon caught 79 passes for 1,156 yards and 11 touchdowns in 12 games in his final collegiate season with the Trojans and could easily leapfrog Wicks at some point this year if he reaches his true potential. Despite his quiet summer, Lemon deserves attention as a late-round WR pick in upcoming drafts for his upside.",
+      "metadata": {
+        "description": "The Philadelphia Eagles told rookie first-round wide receiver Makai Lemon to mirror the preparation of WR1 DeVonta Smith, who has been noted for his strong preparation in advance of games, according to Zach Berman of The Athletic. \"I basically told him, 'Whatever Smitty does, you do.' And he's taken to that a little bit. I know that Smitty's done a good job of going out of his way to help him with some of that stuff,\" wide receivers coach Aaron Moorehead said. The 22-year-old 20th overall pick from USC had a quiet summer in training camp and missed valuable development time due to a nagging hamstring injury. He caught three of his five targets for five yards in the preseason finale against the Cincinnati Bengals last week. With Dontayvion Wicks rising to become the clear WR2 for Philly to start the 2026 campaign, Lemon is penciled in as the team's No. 3 wideout to begin his pro career. Lemon caught 79 passes for 1,156 yards and 11 touchdowns in 12 games in his final collegiate season with the Trojans and could easily leapfrog Wicks at some point this year if he reaches his true potential. Despite his quiet summer, Lemon deserves attention as a late-round WR pick in upcoming drafts for his upside.",
+        "title": "Makai Lemon Shadowing Eagles' Top Wideout",
+        "topic_id": "1401667242684334080",
+        "url": "https://www.rotoballer.com/player-news/makai-lemon-shadowing-eagles-top-wideout/1923348"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13294",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "published": 1788531245000,
+      "source": "rotoballer",
+      "source_key": "220089",
+      "story_id": "nfl|13294|rotoballer|220089|1788531245000",
+      "title": "Makai Lemon Shadowing Eagles' Top Wideout",
+      "url": "https://www.rotoballer.com/player-news/makai-lemon-shadowing-eagles-top-wideout/1923348"
+    },
+    {
+      "analysis": null,
+      "description": "In his three years with the Detroit Lions, running back David Montgomery finished no lower than the RB27, twice cracking the top 20 despite sharing a backfield with one of the league's most dynamic players in three-time Pro Bowler Jahmyr Gibbs. Following an offseason trade to the Houston Texans, the eighth-year veteran finds himself once more atop the depth chart. While recent buzz has suggested that 2025 fourth-round pick Woody Marks could still see a prominent role after leading the team with 703 rushing yards as a rookie, Montgomery is expected to see the bulk of the early-down work and the most valuable touches around the goal line. The Texans ranked 29th in the NFL in 2025 by converting fewer than 46% of their red zone trips into touchdowns, while Detroit was a top-eight team in that category, with Montgomery scoring five of his eight touchdowns from within the five-yard line. No longer splitting goal-line work with Gibbs, who has averaged 19 touchdowns over the past two seasons, Montgomery is a safe bet to reach double-digit scores and should provide a predictable weekly floor as RotoBaller's RB20.",
+      "metadata": {
+        "description": "In his three years with the Detroit Lions, running back David Montgomery finished no lower than the RB27, twice cracking the top 20 despite sharing a backfield with one of the league's most dynamic players in three-time Pro Bowler Jahmyr Gibbs. Following an offseason trade to the Houston Texans, the eighth-year veteran finds himself once more atop the depth chart. While recent buzz has suggested that 2025 fourth-round pick Woody Marks could still see a prominent role after leading the team with 703 rushing yards as a rookie, Montgomery is expected to see the bulk of the early-down work and the most valuable touches around the goal line. The Texans ranked 29th in the NFL in 2025 by converting fewer than 46% of their red zone trips into touchdowns, while Detroit was a top-eight team in that category, with Montgomery scoring five of his eight touchdowns from within the five-yard line. No longer splitting goal-line work with Gibbs, who has averaged 19 touchdowns over the past two seasons, Montgomery is a safe bet to reach double-digit scores and should provide a predictable weekly floor as RotoBaller's RB20.",
+        "title": "David Montgomery a Safe RB2 with Predictable Goal-Line Usage",
+        "topic_id": "1401665985341091840",
+        "url": "https://www.rotoballer.com/player-news/david-montgomery-a-safe-rb2-with-predictable-goal-line-usage/1923337"
+      },
+      "nfl_team": "HOU",
+      "player_id": "5892",
+      "player_name": "David Montgomery",
+      "position": "RB",
+      "published": 1788530671000,
+      "source": "rotoballer",
+      "source_key": "220088",
+      "story_id": "nfl|5892|rotoballer|220088|1788530671000",
+      "title": "David Montgomery a Safe RB2 with Predictable Goal-Line Usage",
+      "url": "https://www.rotoballer.com/player-news/david-montgomery-a-safe-rb2-with-predictable-goal-line-usage/1923337"
     },
     {
       "analysis": null,
