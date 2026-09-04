@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1866**
+- Stored stories: **1867**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Chase McLaughlin** — Chase McLaughlin - Set for fourth season as Bucs' kicker (2026-09-04T04:28:51Z)
+- **NEW — Jack Strand** — Jack Strand - Makes roster as one of four QBs (2026-09-04T04:44:08Z)
+  - The three QBs to make the roster along with Strand are Tua Tagovailoa, Michael Penix Jr. (knee) and Cooper Rush. Strand is listed as last on the team's initial depth chart, so he's unlikely to see much action, if any, barring injuries to multiple signal-callers ahead of him. Falcons GM Ian Cunningham called the team's decision to carry four quarterbacks "a little bit of an insurance policy," per the Associated Press, in acknowledgement of Tagovailoa's injury history and the knee issue Penix is still working his way back from. Still, Strand -- who signed with Atlanta as an undrafted free agent in May -- could ultimately end up on the practice squad when/if the team needs to provide more depth at other positions.
+- **Chase McLaughlin** — Chase McLaughlin - Set for fourth season as Bucs' kicker (2026-09-04T04:28:51Z)
   - McLaughlin got limited opportunities early in his career, but he's played in 16 or 17 contests each of the past five years, the last three of which have been with the Bucs. He was incredibly accurate in making 94 percent of his FG attempts over his first two seasons with the club, and though that rate dropped a bit to 84 percent last year, McLaughlin also hit a career-high 11 field goals from 50-plus yards (on 12 attempts). He'll be in the final year of the three-year contract he inked in 2024, which could give McLaughlin additional incentive to make a big impact with his leg.
 - **Pat Freiermuth** — Pat Freiermuth - Plays two preseason games (2026-09-04T04:19:01Z)
   - Through five campaigns as a pro, Freiermuth has played at least 16 regular-season games on four occasions, and his tally of 486 receiving yards from 2025 marked his lowest among them. He was on the receiving end of passes from QB Aaron Rodgers for the first time, and with Rodgers returning for his age-43 season, Freiermuth likely isn't in store for much more production, even if the addition of WR Michael Pittman frees up more space for the tight end to operate.
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Starters resting during the preseason has become customary for several teams around the league. Shaheed failed to gel with Sam Darnold after the wide receiver's midseason trade from the Saints, as he produced just 15 catches for 188 yards and no touchdowns across nine regular-season appearances with Seattle. However, the duo spent countless hours over the offseason working on their chemistry, and Shaheed was a standout player during training camp practices. He's locked in as the premier deep threat on the outside for the Seahawks this season and has generated steady buzz as a late-round fantasy pick and an ideal best-ball selection.
 - **AJ Barner** — AJ Barner - Status quo in Seattle's TE room (2026-09-03T15:23:31Z)
   - The Seahawks won the Super Bowl last season with a tight end room consisting of Barner, Eric Saubert, Elijah Arroyo and Nick Kallerup, so it's understandable that the team decided not to rock the boat at the position. Arroyo is Barner's primary competition for pass-catching opportunities, as the 2025 second-round pick enjoyed a productive 2026 preseason after a lackluster rookie regular season in which Arroyo posted just 179 receiving yards. Barner led the position group with 52 catches for 519 yards and six touchdown receptions on 68 targets during the 2025 regular season.
-- **Dallas Goedert** — Dallas Goedert - No preseason action (2026-09-03T15:22:44Z)
-  - The Eagles rested all of their key starters for the three exhibitions. Now 31 years old, Goedert is a veteran who doesn't necessarily need to play in meaningless preseason games. With A.J. Brown now in New England, Goedert is expected to have a big red-zone role for Philadelphia this season after he set a career high with 11 touchdown grabs on 60 catches last season. It will be difficult for Goedert to replicate that astounding touchdown rate, but he's very much in the TE1 mix for fantasy.

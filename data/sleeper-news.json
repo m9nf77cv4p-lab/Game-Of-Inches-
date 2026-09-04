@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T04:41:19Z",
+  "last_checked_at": "2026-09-04T04:52:43Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|6650|rotowire|636252|1788496131000"
+    "nfl|13602|rotowire|636253|1788497048000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The three QBs to make the roster along with Strand are Tua Tagovailoa, Michael Penix Jr. (knee) and Cooper Rush. Strand is listed as last on the team's initial depth chart, so he's unlikely to see much action, if any, barring injuries to multiple signal-callers ahead of him. Falcons GM Ian Cunningham called the team's decision to carry four quarterbacks \"a little bit of an insurance policy,\" per the Associated Press, in acknowledgement of Tagovailoa's injury history and the knee issue Penix is still working his way back from. Still, Strand -- who signed with Atlanta as an undrafted free agent in May -- could ultimately end up on the practice squad when/if the team needs to provide more depth at other positions.",
+      "description": "Strand is one of four quarterbacks who made Atlanta's 53-man roster, Will McFadden of the team's official site reports.",
+      "metadata": {
+        "analysis": "The three QBs to make the roster along with Strand are Tua Tagovailoa, Michael Penix Jr. (knee) and Cooper Rush. Strand is listed as last on the team's initial depth chart, so he's unlikely to see much action, if any, barring injuries to multiple signal-callers ahead of him. Falcons GM Ian Cunningham called the team's decision to carry four quarterbacks \"a little bit of an insurance policy,\" per the Associated Press, in acknowledgement of Tagovailoa's injury history and the knee issue Penix is still working his way back from. Still, Strand -- who signed with Atlanta as an undrafted free agent in May -- could ultimately end up on the practice squad when/if the team needs to provide more depth at other positions.",
+        "description": "Strand is one of four quarterbacks who made Atlanta's 53-man roster, Will McFadden of the team's official site reports.",
+        "title": "Jack Strand - Makes roster as one of four QBs",
+        "topic_id": "1401463383684857856"
+      },
+      "nfl_team": "ATL",
+      "player_id": "13602",
+      "player_name": "Jack Strand",
+      "position": "QB",
+      "published": 1788497048000,
+      "source": "rotowire",
+      "source_key": "636253",
+      "story_id": "nfl|13602|rotowire|636253|1788497048000",
+      "title": "Jack Strand - Makes roster as one of four QBs",
+      "url": null
+    },
     {
       "analysis": "McLaughlin got limited opportunities early in his career, but he's played in 16 or 17 contests each of the past five years, the last three of which have been with the Bucs. He was incredibly accurate in making 94 percent of his FG attempts over his first two seasons with the club, and though that rate dropped a bit to 84 percent last year, McLaughlin also hit a career-high 11 field goals from 50-plus yards (on 12 attempts). He'll be in the final year of the three-year contract he inked in 2024, which could give McLaughlin additional incentive to make a big impact with his leg.",
       "description": "McLaughlin is slated to be Tampa Bay's primary placekicker for the fourth consecutive campaign in 2026.",
