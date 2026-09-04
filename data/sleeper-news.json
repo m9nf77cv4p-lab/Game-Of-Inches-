@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T18:37:15Z",
+  "last_checked_at": "2026-09-04T18:49:19Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12508|rotowire|636266|1788546611000",
-    "nfl|13293|rotoballer|220091|1788526036000"
+    "nfl|5850|rotowire|636267|1788546861000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The move of the court date is going to lead to speculation about if and when he'll receive discipline from the NFL, especially if a plea deal is announced. But that has not been divulged so far. At the very least we will likely have more clarification about what is the next step in the process for Jacobs.",
+      "description": "Jacobs' next court date has been moved up from November 17 to September 10, Brian Kerhin of Fox 11 News reports. Jacobs is expected to be represented by his attorney and won't personally appear at the hearing.",
+      "metadata": {
+        "analysis": "The move of the court date is going to lead to speculation about if and when he'll receive discipline from the NFL, especially if a plea deal is announced. But that has not been divulged so far. At the very least we will likely have more clarification about what is the next step in the process for Jacobs.",
+        "description": "Jacobs' next court date has been moved up from November 17 to September 10, Brian Kerhin of Fox 11 News reports. Jacobs is expected to be represented by his attorney and won't personally appear at the hearing.",
+        "title": "Josh Jacobs - Court Date Moved Up",
+        "topic_id": "1401672279280119808"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1788546861000,
+      "source": "rotowire",
+      "source_key": "636267",
+      "story_id": "nfl|5850|rotowire|636267|1788546861000",
+      "title": "Josh Jacobs - Court Date Moved Up",
+      "url": null
+    },
     {
       "analysis": "As a rookie in 2025, Dart completed 63.7 percent (216 of 339) of his passes for 2,272 yards, 15 touchdowns and five interceptions while adding 86 carries for 487 yards and nine more TDs. But not many of his snaps occurred under center as then coach Brian Daboll attempted to cater to Dart's style of play. Perhaps the change in schemes will help Dart stay out of harm's way more often after he had five concussion checks last season. In any case, it remains to be seen if he'll have top WR Malik Nabers available Week 1 as he closes in on his recovery from last year's torn ACL.",
       "description": "Dart said Tuesday that he feels \"so much better\" now than he did during the offseason program in new offensive coordinator Matt Nagy's scheme, which has the quarterback playing more under center, Darryl Slater of NJ.com reports.",
@@ -38244,26 +38263,6 @@
       "story_id": "nfl|3294|fantasy_pros|600637|1785962742671",
       "title": "Dak Prescott, Cowboys starters will not play in preseason ",
       "url": "https://www.fantasypros.com/nfl/news/600637/dak-prescott-cowboys-starters-will-not-play-preseason.php"
-    },
-    {
-      "analysis": null,
-      "description": "San Francisco 49ers wide receiver Brandon Aiyuk (knee) remains on the team's Reserve/Left-Team list during training camp, meaning he doesn't count against the team's 90-man roster, and he isn't being paid, according to Spotrac. To be removed from the list, Aiyuk will have to submit a letter to NFL commissioner Roger Goodell seeking reinstatement. His contract still contains $26,662,370 of dead cap, which comes from his previously paid signing and option bonuses. If the 49ers release the former first-rounder in the coming weeks, they will take on dead-cap hits of $7,363,790 in 2026 and $19,298,580 in 2027. It looked like there might be an opening for Aiyuk to return to San Fran when Ricky Pearsall (knee) was lost for the season, but the return of Deebo Samuel Sr. quickly put an end to that. General manager John Lynch said back in January that the 28-year-old would never play for the organization again after badmouthing the team and failing to rehab at the team's facilities last year. The Washington Commanders were mentioned as the best potential fit for Aiyuk for most of the offseason, but that ship has sailed after they inked veteran Stefon Diggs to a one-year deal on Wednesday. Aiyuk's fantasy and real-life stock has hit rock bottom.",
-      "metadata": {
-        "description": "San Francisco 49ers wide receiver Brandon Aiyuk (knee) remains on the team's Reserve/Left-Team list during training camp, meaning he doesn't count against the team's 90-man roster, and he isn't being paid, according to Spotrac. To be removed from the list, Aiyuk will have to submit a letter to NFL commissioner Roger Goodell seeking reinstatement. His contract still contains $26,662,370 of dead cap, which comes from his previously paid signing and option bonuses. If the 49ers release the former first-rounder in the coming weeks, they will take on dead-cap hits of $7,363,790 in 2026 and $19,298,580 in 2027. It looked like there might be an opening for Aiyuk to return to San Fran when Ricky Pearsall (knee) was lost for the season, but the return of Deebo Samuel Sr. quickly put an end to that. General manager John Lynch said back in January that the 28-year-old would never play for the organization again after badmouthing the team and failing to rehab at the team's facilities last year. The Washington Commanders were mentioned as the best potential fit for Aiyuk for most of the offseason, but that ship has sailed after they inked veteran Stefon Diggs to a one-year deal on Wednesday. Aiyuk's fantasy and real-life stock has hit rock bottom.",
-        "title": "Brandon Aiyuk Remains on Left-Team List",
-        "topic_id": "1390864895389470720",
-        "url": "https://www.rotoballer.com/player-news/brandon-aiyuk-remains-on-left-team-list/1903750"
-      },
-      "nfl_team": "SF",
-      "player_id": "6803",
-      "player_name": "Brandon Aiyuk",
-      "position": "WR",
-      "published": 1785955647000,
-      "source": "rotoballer",
-      "source_key": "218046",
-      "story_id": "nfl|6803|rotoballer|218046|1785955647000",
-      "title": "Brandon Aiyuk Remains on Left-Team List",
-      "url": "https://www.rotoballer.com/player-news/brandon-aiyuk-remains-on-left-team-list/1903750"
     }
   ]
 }

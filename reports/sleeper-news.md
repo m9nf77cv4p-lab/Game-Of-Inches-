@@ -3,11 +3,13 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1904**
-- Newly captured: **2**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jaxson Dart** — Jaxson Dart - Feeling confident in new offense (2026-09-04T18:30:11Z)
+- **NEW — Josh Jacobs** — Josh Jacobs - Court Date Moved Up (2026-09-04T18:34:21Z)
+  - The move of the court date is going to lead to speculation about if and when he'll receive discipline from the NFL, especially if a plea deal is announced. But that has not been divulged so far. At the very least we will likely have more clarification about what is the next step in the process for Jacobs.
+- **Jaxson Dart** — Jaxson Dart - Feeling confident in new offense (2026-09-04T18:30:11Z)
   - As a rookie in 2025, Dart completed 63.7 percent (216 of 339) of his passes for 2,272 yards, 15 touchdowns and five interceptions while adding 86 carries for 487 yards and nine more TDs. But not many of his snaps occurred under center as then coach Brian Daboll attempted to cater to Dart's style of play. Perhaps the change in schemes will help Dart stay out of harm's way more often after he had five concussion checks last season. In any case, it remains to be seen if he'll have top WR Malik Nabers available Week 1 as he closes in on his recovery from last year's torn ACL.
 - **Malik Washington** — Malik Washington - First-team billing on depth chart (2026-09-04T18:09:45Z)
   - Miami almost entirely retooled its receiving corps this offseason, releasing Tyreek Hill in February, trading Jaylen Waddle to the Broncos in March, signing Jalen Tolbert in free agency and then drafting three WRs (Caleb Douglas, Chris Bell and Kevin Coleman) in the 2026 Draft. Washington is the only holdover from 2025, a season in which he hauled in 46 of 65 targets for 317 yards and three touchdowns while also rushing 17 times for 110 yards and one more TD. In addition to an expected increase in snaps while working with new QB Malik Willis, Washington again will serve as the team's primary kick returner and perhaps on punt returns as well.
@@ -50,7 +52,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-initial-court-appearance-moved-up/1923305
 - **J.K. Dobbins** — J.K. Dobbins the "For Sure" Lead Back When Healthy (2026-09-04T12:59:05Z)
   - Source: https://www.rotoballer.com/player-news/j-k-dobbins-the-for-sure-lead-back-when-healthy/1923297
-- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane Primed for Breakout Role with Ravens? (2026-09-04T12:47:16Z)
+- **Ja'Kobi Lane** — Ja'Kobi Lane Primed for Breakout Role with Ravens? (2026-09-04T12:47:16Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-lane-primed-for-breakout-role-with-ravens/1923291
 - **Kaleb Johnson** — Familiarity With Packers' Scheme Should Help Kaleb Johnson (2026-09-04T12:36:49Z)
   - Source: https://www.rotoballer.com/player-news/familiarity-with-packers-scheme-should-help-kaleb-johnson/1923279
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Despite Warren being the top incumbent running back in Pittsburgh, Graziano believes that Dowdle is a better bet to handle early downs out of the backfield, not only due to his experience working with new coach Mike McCarthy in Dallas but because of his combined 471 carries over the last two seasons. Both campaigns resulted in more than 1,000 yards on the ground for Dowdle, while Warren has topped out at 958 rushing yards (2025) in his four-year career. Warren does have the advantage in pass-catching chops, with 139 receptions over the last three years. As a result, both players are in line for weekly usage for the Steelers.
 - **D'Andre Swift** — D'Andre Swift Suffers Undisclosed Injury in Practice (2026-09-03T18:15:07Z)
   - Source: https://www.rotoballer.com/player-news/dandre-swift-suffers-undisclosed-injury-in-practice/1922796
-- **Jaylen Warren** — Jaylen Warren - To share backfield with Dowdle (2026-09-03T18:12:11Z)
-  - With Kenny Gainwell moving on to the Buccaneers in free agency, Warren is the top incumbent running back in Pittsburgh, but Dowdle has taken Gainwell's place. Dowdle's previous experience with new coach Mike McCarthy in Dallas could dampen Warren's early-down role somewhat, but according to Graziano, Warren should take on the bulk of the pass-catching work out of Pittsburgh's backfield, as evidenced by his 139 catches in 48 regular-season games over the last three campaigns. Overall, Warren handled a career-high 251 touches in 2025, while Dowdle is coming off back-to-back seasons with 274 (with the Cowboys) and 275 (in Carolina), so both should be busy on a weekly basis this fall.
