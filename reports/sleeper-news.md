@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1869**
-- Newly captured: **2**
+- Stored stories: **1870**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Courtland Sutton** — Courtland Sutton Faces Major Target Competition in 2026 (2026-09-04T09:47:06Z)
+- **NEW — Christian McCaffrey** — Christian McCaffrey Remains an Elite Fantasy Option in 2026 (2026-09-04T10:00:05Z)
+  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-remains-an-elite-fantasy-option-in-2026/1923150
+- **Courtland Sutton** — Courtland Sutton Faces Major Target Competition in 2026 (2026-09-04T09:47:06Z)
   - Source: https://www.rotoballer.com/player-news/courtland-sutton-faces-major-target-competition-in-2026/1923144
-- **NEW — Derrick Henry** — Derrick Henry Is Defying His Age Heading Into 2026 (2026-09-04T09:36:05Z)
+- **Derrick Henry** — Derrick Henry Is Defying His Age Heading Into 2026 (2026-09-04T09:36:05Z)
   - Source: https://www.rotoballer.com/player-news/derrick-henry-is-defying-his-age-heading-into-2026/1923128
 - **Josh Jacobs** — Josh Jacobs Is Too Risky for Anything More Than a Late-Round Pick (2026-09-04T09:25:06Z)
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-is-too-risky-for-anything-more-than-a-late-round-pick/1923115
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Johnson is locked in atop the depth chart at tight end for New Orleans, and with Jordyn Tyson (hamstring) set to miss at least the first four games of the season and no clear WR2 on the roster, Johnson could have a significant pass-catching role out of the gates. Tyler Shough has already predicted a big season for his former college teammate after Johnson was fantasy's overall TE5 in yards per game and TE8 in catches per game following last season's Rashid Shaheed trade ahead of Week 10. Turning 30 years old Sept. 13, Johnson is coming off a 77-889-3 campaign on 102 targets last season.
 - **TreVeyon Henderson** — TreVeyon Henderson Missing From Thursday's Practice (2026-09-03T15:35:10Z)
   - Source: https://www.rotoballer.com/player-news/treveyon-henderson-missing-from-thursdays-practice/1922706
-- **Tyler Allgeier** — Tyler Allgeier - Could have prominent role early (2026-09-03T15:34:51Z)
-  - Love is expected to eventually take on the lead role after being drafted third overall in the 2026 NFL Draft, but the rookie is likely to be eased in as he recovers from a preseason ankle injury, if he's cleared at all to suit up against the Chargers in Week 1 on Sept. 13. Allgeier has rushed for at least 514 yards in each of his four regular seasons, the last three of which were spent backing up Bijan Robinson, so the former Falcons running back figures to maintain some level of involvement even once Love is fully up to speed. James Conner (foot) is on IR with a designation to return, so Bam Knight is currently the only healthy alternative to Allgeier on the roster.

@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T13:56:35Z",
+  "last_checked_at": "2026-09-04T14:12:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|3198|rotoballer|220067|1788514565000",
-    "nfl|5045|rotoballer|220066|1788515226000"
+    "nfl|4034|rotoballer|220068|1788516005000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers star running back Christian McCaffrey is aiming to overcome the \"400-touch rule\" in 2026. McCaffrey was incredible in 2025, totaling 311 carries for 1,202 yards and 10 touchdowns, and adding 102 receptions for 924 yards and seven touchdowns through the air. Despite not being efficient on the ground last season, McCaffrey made up for it with elite receiving production, and he is the main reason fantasy managers should not fade the star this season. Now, fantasy managers are worried about the health of the 30-year-old back after a massive workload last season, but he's never faced a major injury that required a lengthy recovery. The addition of Kaelon Black as the backup running back shouldn't affect McCaffrey's receiving or goal-line workload. If the 49ers star running back stays healthy in 2026, he will be a contender for the RB1 overall.",
+      "metadata": {
+        "description": "San Francisco 49ers star running back Christian McCaffrey is aiming to overcome the \"400-touch rule\" in 2026. McCaffrey was incredible in 2025, totaling 311 carries for 1,202 yards and 10 touchdowns, and adding 102 receptions for 924 yards and seven touchdowns through the air. Despite not being efficient on the ground last season, McCaffrey made up for it with elite receiving production, and he is the main reason fantasy managers should not fade the star this season. Now, fantasy managers are worried about the health of the 30-year-old back after a massive workload last season, but he's never faced a major injury that required a lengthy recovery. The addition of Kaelon Black as the backup running back shouldn't affect McCaffrey's receiving or goal-line workload. If the 49ers star running back stays healthy in 2026, he will be a contender for the RB1 overall.",
+        "title": "Christian McCaffrey Remains an Elite Fantasy Option in 2026",
+        "topic_id": "1401603065882116096",
+        "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-remains-an-elite-fantasy-option-in-2026/1923150"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1788516005000,
+      "source": "rotoballer",
+      "source_key": "220068",
+      "story_id": "nfl|4034|rotoballer|220068|1788516005000",
+      "title": "Christian McCaffrey Remains an Elite Fantasy Option in 2026",
+      "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-remains-an-elite-fantasy-option-in-2026/1923150"
+    },
     {
       "analysis": null,
       "description": "Denver Broncos wide receiver Courtland Sutton is expected to see less volume as competition increases in 2026. Sutton has spent the last two seasons as Denver's clear WR1, totaling 155 receptions for 2,098 yards and 15 touchdowns in 34 games, averaging just over 11 half-PPR fantasy points per game. However, the trade for speedy wide receiver Jaylen Waddle should limit Sutton's production in 2026. Waddle has been used across the formation and has earned significant praise from the coaching staff and players. The emergence of second-year receiver Pat Bryant could also take targets away, as the 2025 third-round pick had a strong summer. Sutton will be in a primary X-receiver role, and while he'll have his great games, he'll be less consistent than in years past. Ranked as the WR40 in RotoBaller's positional rankings, Sutton doesn't offer enough upside despite his recent production.",
