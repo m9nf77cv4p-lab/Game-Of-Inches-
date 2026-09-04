@@ -2,12 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1886**
-- Newly captured: **2**
+- Stored stories: **1889**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Tank Dell** — Tank Dell - Takes pay cut from Houston (2026-09-04T15:55:44Z)
+- **NEW — Tank Dell** — Tank Dell restructures contract with Texans (2026-09-04T16:25:23.335000Z)
+  - The move saves Houston $2 million against the cap. Dell is nearing his return from a gruesome knee injury he suffered late in the 2024 season. 
+  - Source: https://www.fantasypros.com/nfl/news/605908/tank-dell-restructures-contract-with-texans.php
+- **NEW — D'Andre Swift** — D'Andre Swift left practice Thursday with a cramp  (2026-09-04T16:25:23.025000Z)
+  - Swift was seen leaving practice "holding at his midsection or core area." It appears he should be good to go for the season opener next week. 
+  - Source: https://www.fantasypros.com/nfl/news/605907/dandre-swift-left-practice-thursday-with-cramp.php
+- **Tank Dell** — Tank Dell - Takes pay cut from Houston (2026-09-04T15:55:44Z)
   - Entering the final year of his rookie deal, Dell was scheduled to collect $3.624 million, but he'll now make just over $1.7 million in 2026. Dell missed the entirety of the 2025 campaign after a catastrophic knee injury suffered toward the end of the previous season. He's now opening this season on injured reserve and won't be eligible to play until Week 5 at the earliest.
 - **Jerry Jeudy** — Jerry Jeudy - Listed as starting wideout (2026-09-04T15:51:27Z)
   - It comes as no surprise after the Browns cut Cedric Tillman at the end of training camp. Jeudy is listed as a starter alongside rookie wideouts KC Concepcion and Denzel Boston. Jeudy displayed no chemistry with Shedeur Sanders last season, as the veteran wideout finished 2025 with just 50 catches for 602 yards and two touchdowns on 106 targets. His 47.2 percent catch rate was fifth-worst out of 197 qualified pass catchers, and of the 38 players in the NFL to see at least 100 targets, Jeudy's 602 yards were just two more than Jake Ferguson at the bottom of the list. Concepcion is expected to become the go-to target in Cleveland, with Boston operating as the big-bodied X receiver. Jeudy will face far more competition for targets.
@@ -17,7 +23,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.
 - **Caleb Douglas** — Caleb Douglas - Listed as starter (2026-09-04T15:23:09Z)
   - Douglas is slotted in as the X receiver, alongside Jalen Tolbert at the Z and Malik Washington as the slot man for Miami. A third-round pick out of Texas Tech back in April, Douglas has been running with the first-team offense most of the summer. He logged 17 offensive snaps during the preseason, catching one of his two targets for 28 yards, before being rested for the third exhibition. This Dolphins offense projects to be a low-scoring one, and it remains to be seen if Malik Willis will be able to carry any of his pass catchers to fantasy relevance.
-- **NEW — Jaylen Waddle** — Jaylen Waddle's First Denver Summer Raises Expectations (2026-09-04T11:58:12Z)
+- **NEW — Tank Dell** — Tank Dell Restructures his Deal With Houston (2026-09-04T12:10:06Z)
+  - Source: https://www.rotoballer.com/player-news/tank-dell-restructures-his-deal-with-houston/1923270
+- **Jaylen Waddle** — Jaylen Waddle's First Denver Summer Raises Expectations (2026-09-04T11:58:12Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-waddles-first-denver-summer-raises-expectations/1923264
 - **Kyler Murray** — Kyler Murray Lands in a Great Spot for a Bounce-Back (2026-09-04T11:49:39Z)
   - Source: https://www.rotoballer.com/player-news/kyler-murray-lands-in-a-great-spot-for-a-bounce-back/1923253
@@ -206,9 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Ewers was retained on the 53-man roster after final cuts, while Nick Mullens was released during cut-down day, though Mullens subsequently signed with the practice squad. Lawrence remains locked in as the team's starting QB on the heels of a 2025 regular season in which he threw for 4,007 yards and a career-high 29 passing touchdowns. The first overall pick in the 2021 NFL Draft has exceeded 4,000 passing yards in three of his first five NFL seasons.
 - **Nico Collins** — Nico Collins - Depth chart uncertain behind him (2026-09-03T16:35:46Z)
   - Jayden Higgins had been set to start opposite Collins, but Higgins suffered a season-ending knee injury in practice, prompting the Texans to trade for Boutte from the Patriots. Dell has had the most success out of the options behind Collins, but the 2023 third-round pick hasn't suited up since the 2024 season and will miss at least the first four games of 2026. Collins has exceeded 1,000 regular-season receiving yards while scoring at least seven total touchdowns in each of the past three campaigns.
-- **Dak Prescott** — Dak Prescott Well-Positioned for High-End Season with Elite WRs (2026-09-03T16:32:08Z)
-  - Source: https://www.rotoballer.com/player-news/dak-prescott-well-positioned-for-high-end-season-with-elite-wide-receiver-corps-in-dallas/1922758
-- **Zay Flowers** — Zay Flowers - Returns to practice Thursday (2026-09-03T16:28:52Z)
-  - Flowers has been in and out of practice seemingly all summer, but he's always been eyeing Week 1 as his target date to be 100 percent, and his return to practice this week puts him on track for the opener in 10 days. The wide receiver inked a big extension with Baltimore during the offseason and is returning as Lamar Jackson's undisputed No. 1 pass-catching option.
-- **Sam LaPorta** — Sam LaPorta Poised for Resurgent Season with Improved Health Outlook (2026-09-03T16:25:06Z)
-  - Source: https://www.rotoballer.com/player-news/sam-laporta-poised-for-resurgent-season-with-improved-health-outlook/1922751

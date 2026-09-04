@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-04T16:18:58Z",
+  "last_checked_at": "2026-09-04T16:32:41Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|7526|rotoballer|220080|1788523092000",
-    "nfl|9502|rotowire|636260|1788537344000"
+    "nfl|6790|fantasy_pros|605907|1788539123025",
+    "nfl|9502|fantasy_pros|605908|1788539123335",
+    "nfl|9502|rotoballer|220081|1788523806000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,48 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The move saves Houston $2 million against the cap. Dell is nearing his return from a gruesome knee injury he suffered late in the 2024 season. ",
+      "description": "The Texans agreed to terms with Tank Dell on a one-year, $1.7 million contract restructure.",
+      "metadata": {
+        "analysis": "The move saves Houston $2 million against the cap. Dell is nearing his return from a gruesome knee injury he suffered late in the 2024 season. ",
+        "description": "The Texans agreed to terms with Tank Dell on a one-year, $1.7 million contract restructure.",
+        "title": "Tank Dell restructures contract with Texans",
+        "topic_id": "1401638308932521984",
+        "url": "https://www.fantasypros.com/nfl/news/605908/tank-dell-restructures-contract-with-texans.php"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9502",
+      "player_name": "Tank Dell",
+      "position": "WR",
+      "published": 1788539123335,
+      "source": "fantasy_pros",
+      "source_key": "605908",
+      "story_id": "nfl|9502|fantasy_pros|605908|1788539123335",
+      "title": "Tank Dell restructures contract with Texans",
+      "url": "https://www.fantasypros.com/nfl/news/605908/tank-dell-restructures-contract-with-texans.php"
+    },
+    {
+      "analysis": "Swift was seen leaving practice \"holding at his midsection or core area.\" It appears he should be good to go for the season opener next week. ",
+      "description": "Bears RB D'Andre Swift left practice early on Thursday due to \"a cramp.\"",
+      "metadata": {
+        "analysis": "Swift was seen leaving practice \"holding at his midsection or core area.\" It appears he should be good to go for the season opener next week. ",
+        "description": "Bears RB D'Andre Swift left practice early on Thursday due to \"a cramp.\"",
+        "title": "D'Andre Swift left practice Thursday with a cramp ",
+        "topic_id": "1401638307623899136",
+        "url": "https://www.fantasypros.com/nfl/news/605907/dandre-swift-left-practice-thursday-with-cramp.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1788539123025,
+      "source": "fantasy_pros",
+      "source_key": "605907",
+      "story_id": "nfl|6790|fantasy_pros|605907|1788539123025",
+      "title": "D'Andre Swift left practice Thursday with a cramp ",
+      "url": "https://www.fantasypros.com/nfl/news/605907/dandre-swift-left-practice-thursday-with-cramp.php"
+    },
     {
       "analysis": "Entering the final year of his rookie deal, Dell was scheduled to collect $3.624 million, but he'll now make just over $1.7 million in 2026. Dell missed the entirety of the 2025 campaign after a catastrophic knee injury suffered toward the end of the previous season. He's now opening this season on injured reserve and won't be eligible to play until Week 5 at the earliest.",
       "description": "Dell (knee) agreed to take a pay cut from the Texans on Friday, Aaron Wilson of KPRC 2 Houston reports.",
@@ -113,6 +156,26 @@
       "story_id": "nfl|13296|rotowire|636255|1788535389000",
       "title": "Caleb Douglas - Listed as starter",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Tank Dell (knee), who is opening the 2026 season on Injured Reserve, renegotiated the final year of his contract and is due $1.704 million, including a $500,000 signing bonus, $1 million total guaranteed, a salary-cap figure of $1.988 million, and a $1.145 million salary, according to Aaron Wilson of KPRC 2 Sports. Dell was previously due $3.624 million in the final year of his rookie deal with a $3.967 million salary-cap figure. The 26-year-old former third-rounder in 2023 from the University of Houston tore multiple ligaments in his knee in a devastating injury in 2024 and was unable to return at all last year. Dell was slowly being ramped up in training camp this summer, but now that he's on IR, he will not be eligible to make his 2026 season debut until at least Week 5. Even though fellow wideout Jayden Higgins (knee) is out for the year, Dell remains a question mark this year as far as what his role will be when he is cleared to return. The addition of Kayshon Boutte via trade from the New England Patriots will not help Dell's case for fantasy relevance later this year. For now, Nico Collins, Boutte, and Jaylin Noel will be quarterback C.J. Stroud's top three receivers.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Tank Dell (knee), who is opening the 2026 season on Injured Reserve, renegotiated the final year of his contract and is due $1.704 million, including a $500,000 signing bonus, $1 million total guaranteed, a salary-cap figure of $1.988 million, and a $1.145 million salary, according to Aaron Wilson of KPRC 2 Sports. Dell was previously due $3.624 million in the final year of his rookie deal with a $3.967 million salary-cap figure. The 26-year-old former third-rounder in 2023 from the University of Houston tore multiple ligaments in his knee in a devastating injury in 2024 and was unable to return at all last year. Dell was slowly being ramped up in training camp this summer, but now that he's on IR, he will not be eligible to make his 2026 season debut until at least Week 5. Even though fellow wideout Jayden Higgins (knee) is out for the year, Dell remains a question mark this year as far as what his role will be when he is cleared to return. The addition of Kayshon Boutte via trade from the New England Patriots will not help Dell's case for fantasy relevance later this year. For now, Nico Collins, Boutte, and Jaylin Noel will be quarterback C.J. Stroud's top three receivers.",
+        "title": "Tank Dell Restructures his Deal With Houston",
+        "topic_id": "1401637041569005568",
+        "url": "https://www.rotoballer.com/player-news/tank-dell-restructures-his-deal-with-houston/1923270"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9502",
+      "player_name": "Tank Dell",
+      "position": "WR",
+      "published": 1788523806000,
+      "source": "rotoballer",
+      "source_key": "220081",
+      "story_id": "nfl|9502|rotoballer|220081|1788523806000",
+      "title": "Tank Dell Restructures his Deal With Houston",
+      "url": "https://www.rotoballer.com/player-news/tank-dell-restructures-his-deal-with-houston/1923270"
     },
     {
       "analysis": null,
