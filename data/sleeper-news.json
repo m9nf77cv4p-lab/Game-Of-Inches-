@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T22:30:47Z",
+  "last_checked_at": "2026-09-04T22:51:46Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|7588|rotoballer|220109|1788546125000",
-    "nfl|8144|rotowire|636278|1788560473000"
+    "nfl|12481|rotoballer|220110|1788547112000",
+    "nfl|13286|rotowire|636279|1788561965000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The Seahawks used the 32nd overall pick in the 2026 Draft on Price, seemingly with the intention for him to be in the mix for the No. 1 RB role during Zach Charbonnet's recovery from a January ACL tear. Price handled first-team reps during the offseason program and also at the start of training camp, but he then tended to lower-body soreness, which sidelined him for a week and spurred the team to keep him in street clothes during exhibition season. With a Week 1 matchup with the Patriots just around the corner Wednesday, Price seems primed for lead-runner status, while George Holani will serve as a receiver and in pass-blocking situations. Meanwhile, Emanuel Wilson has been contained to work on the side at recent practices due to a hamstring injury, so it's unclear if he'll be able to contribute in the season opener.",
+      "description": "Price didn't play in the preseason, but he's still expected to have a large workload once the regular season kicks off, Brady Henderson of ESPN.com reports.",
+      "metadata": {
+        "analysis": "The Seahawks used the 32nd overall pick in the 2026 Draft on Price, seemingly with the intention for him to be in the mix for the No. 1 RB role during Zach Charbonnet's recovery from a January ACL tear. Price handled first-team reps during the offseason program and also at the start of training camp, but he then tended to lower-body soreness, which sidelined him for a week and spurred the team to keep him in street clothes during exhibition season. With a Week 1 matchup with the Patriots just around the corner Wednesday, Price seems primed for lead-runner status, while George Holani will serve as a receiver and in pass-blocking situations. Meanwhile, Emanuel Wilson has been contained to work on the side at recent practices due to a hamstring injury, so it's unclear if he'll be able to contribute in the season opener.",
+        "description": "Price didn't play in the preseason, but he's still expected to have a large workload once the regular season kicks off, Brady Henderson of ESPN.com reports.",
+        "title": "Jadarian Price - In line for Week 1 role",
+        "topic_id": "1401735198923587584"
+      },
+      "nfl_team": "SEA",
+      "player_id": "13286",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "published": 1788561965000,
+      "source": "rotowire",
+      "source_key": "636279",
+      "story_id": "nfl|13286|rotowire|636279|1788561965000",
+      "title": "Jadarian Price - In line for Week 1 role",
+      "url": null
+    },
     {
       "analysis": "Olave missed time at the end of the offseason program due to a blood clot, and while he opened training camp as a full participant and agreed to a four-year extension worth up to $132 million on July 30, he exited three different practices for various reasons in August. Nevertheless, he appears to be entering the season in good health and ready to build upon a career-best 2025 regular season in which he posted a 100-1,163-9 line on 155 targets in 16 games.",
       "description": "Olave didn't suit up for the Saints' three-game preseason slate.",
@@ -213,6 +233,26 @@
       "story_id": "nfl|4892|rotowire|636268|1788550191000",
       "title": "Baker Mayfield - One preseason appearance",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants running back Cam Skattebo suffered a gruesome dislocated ankle injury that ended his rookie season after just seven games last year, but that might not stop new head coach John Harbaugh from giving the second-year back a heavy workload in 2026, according to Chris Bumbaca of USA Today Sports. \"We talk a lot. When he walks up to me and tells me, 'Are you ready for 20-plus carries a game?' I think I'm in a pretty good spot,\" Skattebo said. The 24-year-old former fourth-rounder from Arizona State admitted that he briefly considered retirement after his injury last year, but Skattebo is back in the fold for his sophomore season and figures to lead the G-Men in backfield touches, even with Tyrone Tracy Jr. (neck) and Najee Harris being involved. Skattebo averaged 19.5 touches per game in his first eight contests in 2025, rushing for 410 yards and five touchdowns on 101 rushing attempts. He also added 24 receptions for 207 yards and another two scores. His three-down upside is evident, and if he sees 20-plus touches a game, Skattebo could approach RB1 territory in Year 2. RotoBaller has Skattebo ranked as the No. 21 fantasy back.",
+      "metadata": {
+        "description": "New York Giants running back Cam Skattebo suffered a gruesome dislocated ankle injury that ended his rookie season after just seven games last year, but that might not stop new head coach John Harbaugh from giving the second-year back a heavy workload in 2026, according to Chris Bumbaca of USA Today Sports. \"We talk a lot. When he walks up to me and tells me, 'Are you ready for 20-plus carries a game?' I think I'm in a pretty good spot,\" Skattebo said. The 24-year-old former fourth-rounder from Arizona State admitted that he briefly considered retirement after his injury last year, but Skattebo is back in the fold for his sophomore season and figures to lead the G-Men in backfield touches, even with Tyrone Tracy Jr. (neck) and Najee Harris being involved. Skattebo averaged 19.5 touches per game in his first eight contests in 2025, rushing for 410 yards and five touchdowns on 101 rushing attempts. He also added 24 receptions for 207 yards and another two scores. His three-down upside is evident, and if he sees 20-plus touches a game, Skattebo could approach RB1 territory in Year 2. RotoBaller has Skattebo ranked as the No. 21 fantasy back.",
+        "title": "Cam Skattebo Could See 20-Plus Carries Per Game",
+        "topic_id": "1401733938099023872",
+        "url": "https://www.rotoballer.com/player-news/cam-skattebo-could-see-20-plus-carries-per-game/1923544"
+      },
+      "nfl_team": "NYG",
+      "player_id": "12481",
+      "player_name": "Cam Skattebo",
+      "position": "RB",
+      "published": 1788547112000,
+      "source": "rotoballer",
+      "source_key": "220110",
+      "story_id": "nfl|12481|rotoballer|220110|1788547112000",
+      "title": "Cam Skattebo Could See 20-Plus Carries Per Game",
+      "url": "https://www.rotoballer.com/player-news/cam-skattebo-could-see-20-plus-carries-per-game/1923544"
     },
     {
       "analysis": "The move of the court date is going to lead to speculation about if and when he'll receive discipline from the NFL, especially if a plea deal is announced. But that has not been divulged so far. At the very least, there may soon be more clarification about what the next step in the process is for Jacobs, who remains on the Commissioner's Exempt List.",
