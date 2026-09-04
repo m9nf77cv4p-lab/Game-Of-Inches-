@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T01:55:04Z",
+  "last_checked_at": "2026-09-04T02:09:28Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11563|rotoballer|220050|1788471427000"
+    "nfl|1373|rotoballer|220052|1788472872000",
+    "nfl|9228|rotoballer|220051|1788472275000"
   ],
   "schema_version": 1,
   "source": {
@@ -154,6 +155,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "New York Jets quarterback Geno Smith was voted as a captain by his teammates ahead of the 2026 season, according to the team's official website. Smith hasn't played in a regular-season game for the Jets since the 2016 season. He's back after having a resurgence with the Seattle Seahawks and Raiders over the last four years. We'll see what the 35-year-old still has left in the tank after throwing 17 interceptions with the Raiders last season. It's nice to see the Jets players respecting Smith enough to give him the captain status, even with this being his first year back in New York in over a decade.",
+      "metadata": {
+        "description": "New York Jets quarterback Geno Smith was voted as a captain by his teammates ahead of the 2026 season, according to the team's official website. Smith hasn't played in a regular-season game for the Jets since the 2016 season. He's back after having a resurgence with the Seattle Seahawks and Raiders over the last four years. We'll see what the 35-year-old still has left in the tank after throwing 17 interceptions with the Raiders last season. It's nice to see the Jets players respecting Smith enough to give him the captain status, even with this being his first year back in New York in over a decade.",
+        "title": "Geno Smith is Voted Jets Captain",
+        "topic_id": "1401421853230182400",
+        "url": "https://www.rotoballer.com/player-news/geno-smith-is-voted-jets-captain/1922938"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "1373",
+      "player_name": "Geno Smith",
+      "position": "QB",
+      "published": 1788472872000,
+      "source": "rotoballer",
+      "source_key": "220052",
+      "story_id": "nfl|1373|rotoballer|220052|1788472872000",
+      "title": "Geno Smith is Voted Jets Captain",
+      "url": "https://www.rotoballer.com/player-news/geno-smith-is-voted-jets-captain/1922938"
+    },
+    {
       "analysis": "Hammond notes that Swift came off the field apparently holding at his midsection or core area. This will remain a situation to monitor during practice next week. ",
       "description": "D'Andre Swift left Thursday's practice early with an apparent injury. ",
       "metadata": {
@@ -194,6 +215,26 @@
       "story_id": "nfl|11620|fantasy_pros|605833|1788472809528",
       "title": "Rome Odunze leaves practice early Thursday ",
       "url": "https://www.fantasypros.com/nfl/news/605833/rome-odunze-leaves-practice-early-thursday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers quarterback Bryce Young will be working with a new play caller this upcoming season. Offensive coordinator Brad Idzik will be taking over the play-calling duties from Dave Canales, according to Mike Kaye of ESPN. Idzik is entering his third season as the OC in Carolina. Young recently described the new play calling as aggressive, so we'll see what that means during the regular season. Young completed eight of 11 passing attempts for 67 yards during the preseason. The Panthers are limited in terms of offensive weapons, but Tetairoa McMillan could be in for a big year.",
+      "metadata": {
+        "description": "Carolina Panthers quarterback Bryce Young will be working with a new play caller this upcoming season. Offensive coordinator Brad Idzik will be taking over the play-calling duties from Dave Canales, according to Mike Kaye of ESPN. Idzik is entering his third season as the OC in Carolina. Young recently described the new play calling as aggressive, so we'll see what that means during the regular season. Young completed eight of 11 passing attempts for 67 yards during the preseason. The Panthers are limited in terms of offensive weapons, but Tetairoa McMillan could be in for a big year.",
+        "title": "Bryce Young Working with New Play-Caller in 2026",
+        "topic_id": "1401419336815550464",
+        "url": "https://www.rotoballer.com/player-news/bryce-young-is-working-with-new-play-caller/1922933"
+      },
+      "nfl_team": "CAR",
+      "player_id": "9228",
+      "player_name": "Bryce Young",
+      "position": "QB",
+      "published": 1788472275000,
+      "source": "rotoballer",
+      "source_key": "220051",
+      "story_id": "nfl|9228|rotoballer|220051|1788472275000",
+      "title": "Bryce Young Working with New Play-Caller in 2026",
+      "url": "https://www.rotoballer.com/player-news/bryce-young-is-working-with-new-play-caller/1922933"
     },
     {
       "analysis": null,
