@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1855**
-- Newly captured: **1**
+- Stored stories: **1858**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Parker Washington** — Parker Washington - No preseason snaps (2026-09-04T03:29:08Z)
+- **NEW — Chris Rodriguez** — Chris Rodriguez - Healthy ahead of Week 1 (2026-09-04T03:41:23Z)
+  - Allen is the only one of the quartet whose status for Week 1 appears to be up in the air, but Rodriguez nonetheless is poised for a regular role in Jacksonville's offense. What kind of workload that entails remains to be seen, but Tuten is Rodriguez's primary competitor for touches. At least when it comes to short-yardage and goal-line usage, the more imposing Rodriguez likely will handle those after earning 33 carries inside the 20-yard line last season for the Commanders. The Jaguars' season opener against the Browns on Sunday, Sept. 13 ultimately will provide insight into what to expect from the duo.
+- **Parker Washington** — Parker Washington - No preseason snaps (2026-09-04T03:29:08Z)
   - Not long after Washington sat out Jacksonville's exhibition opener on Aug. 15, Washington missed a week of practice due to an undisclosed injury before retaking the field during a joint session with the Buccaneers on Aug. 25, so his lack of in-game activity isn't much a surprise. After reeling off three 100-yard receiving efforts in his final four appearances, including playoffs, of the 2025 campaign, he entered the offseason on a high note and also considered the team's most sought-after WR in fantasy terms ahead of Brian Thomas, Jakobi Meyers (hand) and Travis Hunter.
 - **Omar Cooper** — Omar Cooper - Listed as second-teamer on depth chart (2026-09-04T02:48:12Z)
   - Cooper served as one of QB Fernando Mendoza's top targets at Indiana last season, finishing with a 69-937-13 line in 16 games. After turning in a 4.42 40 time at the combine, his prospect profile was enough for the Jets to use the 30th overall pick on him in the 2026 NFL Draft. Joining a receiving corps already boasting Garrett Wilson and Adonai Mitchell, Cooper wasn't destined for more than the No. 3 WR role in the offense, but he worked behind even Isaiah Williams in three-wide sets during training camp, and his current depth-chart slotting indicates he still has work to do to earn significant reps in New York's passing game.
@@ -25,6 +27,10 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Despite going undrafted in 2024, Coker has made his presence felt through two pro campaigns, resulting in 65 catches (on 89 targets) for 872 yards and five touchdowns in 22 regular-season games. His defining moment of sorts occurred the last time he was on the field for a contest that counts, when he torched the Rams for 9-134-1 on 12 targets in a wild-card loss. Coker will continue to operate as a complementary option to No. 1 WR Tetairoa McMillan for QB Bryce Young in 2026.
 - **Bryce Young** — Bryce Young - Working with new play caller (2026-09-03T23:55:01Z)
   - Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as "aggressive, which is huge for us." The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.
+- **NEW — Trevor Lawrence** — Trevor Lawrence Set for Potential Career-Best Season (2026-09-03T23:35:02Z)
+  - Source: https://www.rotoballer.com/player-news/trevor-lawrence-set-for-potential-career-best-season-with-strong-supporting-cast/1922975
+- **NEW — DeVonta Smith** — DeVonta Smith Primed for Breakout as Eagles' Undisputed No. 1 WR (2026-09-03T23:30:06Z)
+  - Source: https://www.rotoballer.com/player-news/devonta-smith-primed-for-breakout-as-undisputed-no-1/1922973
 - **Eli Stowers** — Eli Stowers Struggling in Camp, Difficult to Trust in Redraft Formats (2026-09-03T23:00:06Z)
   - Source: https://www.rotoballer.com/player-news/eli-stowers-struggling-in-camp-difficult-to-trust-in-redraft-formats/1922969
 - **Rome Odunze** — Rome Odunze - Seemingly avoids serious setback (2026-09-03T22:57:05Z)
@@ -207,9 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Hockenson played just five snaps in the Vikings' preseason opener and was rested for the final two exhibition tilts, but he's been getting in reps with the first-team offense throughout camp. After a delayed start to the 2024 campaign while he completed his recovery from a torn ACL and MCL in his right knee, Hockenson mostly stayed healthy in 2025 but was a middling fantasy option at tight end with a 51-438-3 receiving line on 66 targets over 15 games. Though Hockenson should benefit from upgraded quarterback play in 2026 after drawing targets from the likes of J.J. McCarthy, Carson Wentz and Max Brosmer a season ago, the closest Murray has come to supporting two fantasy relevant pass catchers was in 2024, when tight end Trey McBride (111-1,146-2 line in 16 games) and wideout Marvin Harrison (62-885-8 in 17 games) both had some utility. Justin Jefferson is locked in as the clear top weapon in the passing game and should dominate the targets, but Hockenson could struggle to see consistent volume while he's vying with the likes of No. 2 receiver Jordan Addison and No. 3 receiver Jauan Jennings for the remaining looks that don't go to Jefferson.
 - **Alvin Kamara** — Alvin Kamara Absent From Thursday's Practice (2026-09-03T14:47:16Z)
   - Source: https://www.rotoballer.com/player-news/alvin-kamara-absent-from-thursdays-practice/1922663
-- **Jeremiyah Love** — Jeremiyah Love "Progressing" in Recovery From Ankle Injury (2026-09-03T14:39:05Z)
-  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-progressing-in-recovery-from-ankle-injury/1922655
-- **Jadarian Price** — Jadarian Price Should be Featured on Early Downs (2026-09-03T14:30:09Z)
-  - Source: https://www.rotoballer.com/player-news/jadarian-price-should-be-featured-on-early-downs/1922647
-- **Jordan Addison** — Jordan Addison - Makes impressive grab in final camp practice (2026-09-03T14:23:29Z)
-  - Along with most of the Vikings' other key starters, Addison was rested for the final two preseason contests, but he was taking regular reps with the first-team offense throughout camp and will be ready to go for Week 1 against the Packers. As was the case for nearly every Minnesota pass catcher last season, Addison saw his production crater as a result of suspect quarterback play from J.J. McCarthy, Carson Wentz and Max Brosmer, but his fantasy outlook should be improved heading into 2026 while Murray steps in as the Vikings' new starter under center. Over his first two NFL seasons, Addison averaged 4.2 receptions, 55.8 yards and 0.6 touchdowns per game while Kirk Cousins and Sam Darnold served as the Vikings' primary quarterbacks.

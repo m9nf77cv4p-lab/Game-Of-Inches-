@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-04T03:32:46Z",
+  "last_checked_at": "2026-09-04T03:45:34Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9487|rotowire|636242|1788492548000"
+    "nfl|10219|rotowire|636244|1788493283000",
+    "nfl|7523|rotoballer|220059|1788478502000",
+    "nfl|7525|rotoballer|220058|1788478206000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Allen is the only one of the quartet whose status for Week 1 appears to be up in the air, but Rodriguez nonetheless is poised for a regular role in Jacksonville's offense. What kind of workload that entails remains to be seen, but Tuten is Rodriguez's primary competitor for touches. At least when it comes to short-yardage and goal-line usage, the more imposing Rodriguez likely will handle those after earning 33 carries inside the 20-yard line last season for the Commanders. The Jaguars' season opener against the Browns on Sunday, Sept. 13 ultimately will provide insight into what to expect from the duo.",
+      "description": "Rodriguez currently is one of two healthy running backs on the Jaguars' roster along with Ameer Abdullah due to health concerns for Bhayshul Tuten (illness) and LeQuint Allen (undisclosed).",
+      "metadata": {
+        "analysis": "Allen is the only one of the quartet whose status for Week 1 appears to be up in the air, but Rodriguez nonetheless is poised for a regular role in Jacksonville's offense. What kind of workload that entails remains to be seen, but Tuten is Rodriguez's primary competitor for touches. At least when it comes to short-yardage and goal-line usage, the more imposing Rodriguez likely will handle those after earning 33 carries inside the 20-yard line last season for the Commanders. The Jaguars' season opener against the Browns on Sunday, Sept. 13 ultimately will provide insight into what to expect from the duo.",
+        "description": "Rodriguez currently is one of two healthy running backs on the Jaguars' roster along with Ameer Abdullah due to health concerns for Bhayshul Tuten (illness) and LeQuint Allen (undisclosed).",
+        "title": "Chris Rodriguez - Healthy ahead of Week 1",
+        "topic_id": "1401447024288653312"
+      },
+      "nfl_team": "JAX",
+      "player_id": "10219",
+      "player_name": "Chris Rodriguez",
+      "position": "RB",
+      "published": 1788493283000,
+      "source": "rotowire",
+      "source_key": "636244",
+      "story_id": "nfl|10219|rotowire|636244|1788493283000",
+      "title": "Chris Rodriguez - Healthy ahead of Week 1",
+      "url": null
+    },
     {
       "analysis": "Not long after Washington sat out Jacksonville's exhibition opener on Aug. 15, Washington missed a week of practice due to an undisclosed injury before retaking the field during a joint session with the Buccaneers on Aug. 25, so his lack of in-game activity isn't much a surprise. After reeling off three 100-yard receiving efforts in his final four appearances, including playoffs, of the 2025 campaign, he entered the offseason on a high note and also considered the team's most sought-after WR in fantasy terms ahead of Brian Thomas, Jakobi Meyers (hand) and Travis Hunter.",
       "description": "Washington didn't make an appearance during the Jaguars' three-game preseason slate.",
@@ -192,6 +214,46 @@
       "story_id": "nfl|9228|rotowire|636206|1788479701000",
       "title": "Bryce Young - Working with new play caller",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars quarterback Trevor Lawrence had an impressive 2025 season, but he could take yet another step forward with a very strong supporting cast at his disposal in 2026. Lawrence has a stacked wide receiver room featuring Brian Thomas Jr., Jakobi Meyers, Parker Washington, and (sometimes) Travis Hunter. Meanwhile, tight end Brenton Strange is expected to make a big Year 4 leap, and Bhayshul Tuten projects as another key target for Lawrence in the short-yardage passing game. Last year, Lawrence completed 60.9% of his pass attempts for 4,007 passing yards, 29 passing touchdowns, and 12 interceptions. He was arguably even more impressive with his legs, rushing for an additional 359 yards and nine touchdowns. Throughout the course of the year, he totaled 38 touchdowns, allowing him to rank as the overall QB4 in fantasy football. He has a chance to replicate (or even improve upon) that career-best fantasy finish from last year. The current rankings are on the safer side, though, as RotoBaller's experts have Lawrence as the QB9 in redraft. He currently has an ADP of 93.7, which corresponds to the eighth round of drafts and makes him the 10th quarterback off the board.",
+      "metadata": {
+        "description": "Jacksonville Jaguars quarterback Trevor Lawrence had an impressive 2025 season, but he could take yet another step forward with a very strong supporting cast at his disposal in 2026. Lawrence has a stacked wide receiver room featuring Brian Thomas Jr., Jakobi Meyers, Parker Washington, and (sometimes) Travis Hunter. Meanwhile, tight end Brenton Strange is expected to make a big Year 4 leap, and Bhayshul Tuten projects as another key target for Lawrence in the short-yardage passing game. Last year, Lawrence completed 60.9% of his pass attempts for 4,007 passing yards, 29 passing touchdowns, and 12 interceptions. He was arguably even more impressive with his legs, rushing for an additional 359 yards and nine touchdowns. Throughout the course of the year, he totaled 38 touchdowns, allowing him to rank as the overall QB4 in fantasy football. He has a chance to replicate (or even improve upon) that career-best fantasy finish from last year. The current rankings are on the safer side, though, as RotoBaller's experts have Lawrence as the QB9 in redraft. He currently has an ADP of 93.7, which corresponds to the eighth round of drafts and makes him the 10th quarterback off the board.",
+        "title": "Trevor Lawrence Set for Potential Career-Best Season",
+        "topic_id": "1401445762977505280",
+        "url": "https://www.rotoballer.com/player-news/trevor-lawrence-set-for-potential-career-best-season-with-strong-supporting-cast/1922975"
+      },
+      "nfl_team": "JAX",
+      "player_id": "7523",
+      "player_name": "Trevor Lawrence",
+      "position": "QB",
+      "published": 1788478502000,
+      "source": "rotoballer",
+      "source_key": "220059",
+      "story_id": "nfl|7523|rotoballer|220059|1788478502000",
+      "title": "Trevor Lawrence Set for Potential Career-Best Season",
+      "url": "https://www.rotoballer.com/player-news/trevor-lawrence-set-for-potential-career-best-season-with-strong-supporting-cast/1922975"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles wide receiver DeVonta Smith could be headed for a breakout season in 2026. The 27-year-old is poised to handle a significantly larger target share after teammate AJ Brown was traded to the New England Patriots. Smith had a total of nine catches and 136 yards across the two games that Brown missed last year, which likely represents his floor for the upcoming season. He is the undisputed No. 1 target in Philadelphia, offering a high-upside weapon for Jalen Hurts in all parts of the field. Perhaps the biggest question mark is whether Smith will take on a larger role around the goal line. He tallied a career-low four touchdowns last year, but he'll presumably get more goal-line targets following the departure of Brown, who scored seven touchdowns in 2025. As it stands, Smith has jumped to WR13 in RotoBaller's latest redraft rankings for 2026. He has an ADP of 31.4, which corresponds to the third round of fantasy drafts and makes him the 14th receiver off the board.",
+      "metadata": {
+        "description": "Philadelphia Eagles wide receiver DeVonta Smith could be headed for a breakout season in 2026. The 27-year-old is poised to handle a significantly larger target share after teammate AJ Brown was traded to the New England Patriots. Smith had a total of nine catches and 136 yards across the two games that Brown missed last year, which likely represents his floor for the upcoming season. He is the undisputed No. 1 target in Philadelphia, offering a high-upside weapon for Jalen Hurts in all parts of the field. Perhaps the biggest question mark is whether Smith will take on a larger role around the goal line. He tallied a career-low four touchdowns last year, but he'll presumably get more goal-line targets following the departure of Brown, who scored seven touchdowns in 2025. As it stands, Smith has jumped to WR13 in RotoBaller's latest redraft rankings for 2026. He has an ADP of 31.4, which corresponds to the third round of fantasy drafts and makes him the 14th receiver off the board.",
+        "title": "DeVonta Smith Primed for Breakout as Eagles' Undisputed No. 1 WR",
+        "topic_id": "1401444504413741056",
+        "url": "https://www.rotoballer.com/player-news/devonta-smith-primed-for-breakout-as-undisputed-no-1/1922973"
+      },
+      "nfl_team": "PHI",
+      "player_id": "7525",
+      "player_name": "DeVonta Smith",
+      "position": "WR",
+      "published": 1788478206000,
+      "source": "rotoballer",
+      "source_key": "220058",
+      "story_id": "nfl|7525|rotoballer|220058|1788478206000",
+      "title": "DeVonta Smith Primed for Breakout as Eagles' Undisputed No. 1 WR",
+      "url": "https://www.rotoballer.com/player-news/devonta-smith-primed-for-breakout-as-undisputed-no-1/1922973"
     },
     {
       "analysis": null,
