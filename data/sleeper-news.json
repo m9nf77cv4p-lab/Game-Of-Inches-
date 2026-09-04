@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T17:21:26Z",
+  "last_checked_at": "2026-09-04T17:32:08Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|5850|rotoballer|220084|1788527645000",
-    "nfl|6806|rotoballer|220083|1788526745000"
+    "nfl|11566|rotowire|636261|1788542526000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Daniels suited up for preseason Week 2 at Detroit, but Washington's offense quickly went three-and-out via the aforementioned incompletion, a sack for a loss of 10 yards and an 11-yard Kaytron Allen run. Daniels otherwise remained on the sideline for the rest of exhibition season. After an outstanding rookie campaign in 2024, he endured an injury-plagued 2025, completing just 60.6 percent of his passes for 1,262 yards, eight touchdowns and three interceptions and rushing 58 times for 278 yards and two more TDs in seven appearances.",
+      "description": "Daniels played just one possession during the Commanders' three-game preseason slate, failing to complete his only pass.",
+      "metadata": {
+        "analysis": "Daniels suited up for preseason Week 2 at Detroit, but Washington's offense quickly went three-and-out via the aforementioned incompletion, a sack for a loss of 10 yards and an 11-yard Kaytron Allen run. Daniels otherwise remained on the sideline for the rest of exhibition season. After an outstanding rookie campaign in 2024, he endured an injury-plagued 2025, completing just 60.6 percent of his passes for 1,262 yards, eight touchdowns and three interceptions and rushing 58 times for 278 yards and two more TDs in seven appearances.",
+        "description": "Daniels played just one possession during the Commanders' three-game preseason slate, failing to complete his only pass.",
+        "title": "Jayden Daniels - One possession in preseason",
+        "topic_id": "1401653402911432704"
+      },
+      "nfl_team": "WAS",
+      "player_id": "11566",
+      "player_name": "Jayden Daniels",
+      "position": "QB",
+      "published": 1788542526000,
+      "source": "rotowire",
+      "source_key": "636261",
+      "story_id": "nfl|11566|rotowire|636261|1788542526000",
+      "title": "Jayden Daniels - One possession in preseason",
+      "url": null
+    },
     {
       "analysis": "Ferguson's $7.25 million base salary was turned into a signing bonus. The Cowboys now have $33.2 million in salary cap space. ",
       "description": "The Cowboys restructured TE Jake Ferguson's contract.",

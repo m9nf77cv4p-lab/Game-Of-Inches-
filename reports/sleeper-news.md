@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1893**
-- Newly captured: **2**
+- Stored stories: **1894**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Jayden Daniels** — Jayden Daniels - One possession in preseason (2026-09-04T17:22:06Z)
+  - Daniels suited up for preseason Week 2 at Detroit, but Washington's offense quickly went three-and-out via the aforementioned incompletion, a sack for a loss of 10 yards and an 11-yard Kaytron Allen run. Daniels otherwise remained on the sideline for the rest of exhibition season. After an outstanding rookie campaign in 2024, he endured an injury-plagued 2025, completing just 60.6 percent of his passes for 1,262 yards, eight touchdowns and three interceptions and rushing 58 times for 278 yards and two more TDs in seven appearances.
 - **Jake Ferguson** — Jake Ferguson restructures contract with Cowboys  (2026-09-04T16:35:22.706000Z)
   - Ferguson's $7.25 million base salary was turned into a signing bonus. The Cowboys now have $33.2 million in salary cap space. 
   - Source: https://www.fantasypros.com/nfl/news/605912/jake-ferguson-restructures-contract-with-cowboys.php
@@ -26,9 +28,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special-teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.
 - **Caleb Douglas** — Caleb Douglas - Listed as starter (2026-09-04T15:23:09Z)
   - Douglas is slotted in as the X receiver, alongside Jalen Tolbert at the Z and Malik Washington as the slot man for Miami. A third-round pick out of Texas Tech back in April, Douglas has been running with the first-team offense most of the summer. He logged 17 offensive snaps during the preseason, catching one of his two targets for 28 yards, before being rested for the third exhibition. This Dolphins offense projects to be a low-scoring one, and it remains to be seen if Malik Willis will be able to carry any of his pass catchers to fantasy relevance.
-- **NEW — Josh Jacobs** — Josh Jacobs' Initial Court Appearance Moved Up (2026-09-04T13:14:05Z)
+- **Josh Jacobs** — Josh Jacobs' Initial Court Appearance Moved Up (2026-09-04T13:14:05Z)
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-initial-court-appearance-moved-up/1923305
-- **NEW — J.K. Dobbins** — J.K. Dobbins the "For Sure" Lead Back When Healthy (2026-09-04T12:59:05Z)
+- **J.K. Dobbins** — J.K. Dobbins the "For Sure" Lead Back When Healthy (2026-09-04T12:59:05Z)
   - Source: https://www.rotoballer.com/player-news/j-k-dobbins-the-for-sure-lead-back-when-healthy/1923297
 - **Kaleb Johnson** — Familiarity With Packers' Scheme Should Help Kaleb Johnson (2026-09-04T12:36:49Z)
   - Source: https://www.rotoballer.com/player-news/familiarity-with-packers-scheme-should-help-kaleb-johnson/1923279
@@ -212,6 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The sides squeezed this deal in before the start of the regular season, as Wilson had been set to enter the final year of his rookie deal. Selected in the third round of the 2023 Draft, Wilson had a true breakout season in 2025, as he operated as the Cardinals' WR1 most weeks while Marvin Harrison battled injuries throughout the campaign. Wilson responded with three 100-yard receiving games over the final eight weeks of the season and finished the year with 78 catches for 1,006 yards and seven touchdowns. Six of his seven scores came in the final five contests. Harrison is back healthy this season, but Wilson figures to remain a prominent piece of a passing offense that also includes All-Pro tight end Trey McBride.
 - **Troy Franklin** — Troy Franklin Could Be Facing a Reduced Role in Crowded WR Room (2026-09-03T16:58:09Z)
   - Source: https://www.rotoballer.com/player-news/troy-franklin-could-be-facing-a-reduced-role-in-crowded-broncos-wide-receiver-room/1922774
-- **Michael Wilson** — Michael Wilson agrees to three year, $75 million deal with Cardinals  (2026-09-03T16:55:07.772000Z)
-  - Wilson was about to be playing on the final year of his rookie contract, but will now see himself attached to the team for the long haul. It will be interesting to see how his role changes, if at all, under a new coaching stafff and with Marvin Harrison Jr. back in the fold.
-  - Source: https://www.fantasypros.com/nfl/news/605781/michael-wilson-agrees-to-three-year-deal-with-cardinals.php
