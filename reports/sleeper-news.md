@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1853**
+- Stored stories: **1854**
 - Newly captured: **1**
 
 ## Latest news
@@ -23,9 +23,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Despite going undrafted in 2024, Coker has made his presence felt through two pro campaigns, resulting in 65 catches (on 89 targets) for 872 yards and five touchdowns in 22 regular-season games. His defining moment of sorts occurred the last time he was on the field for a contest that counts, when he torched the Rams for 9-134-1 on 12 targets in a wild-card loss. Coker will continue to operate as a complementary option to No. 1 WR Tetairoa McMillan for QB Bryce Young in 2026.
 - **Bryce Young** — Bryce Young - Working with new play caller (2026-09-03T23:55:01Z)
   - Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as "aggressive, which is huge for us." The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.
+- **NEW — Eli Stowers** — Eli Stowers Struggling in Camp, Difficult to Trust in Redraft Formats (2026-09-03T23:00:06Z)
+  - Source: https://www.rotoballer.com/player-news/eli-stowers-struggling-in-camp-difficult-to-trust-in-redraft-formats/1922969
 - **Rome Odunze** — Rome Odunze - Seemingly avoids serious setback (2026-09-03T22:57:05Z)
   - Odunze exited in the first hour of Thursday's session, but despite attempting to stay on the field, he was escorted off of it with team trainers. Wiederer's report seems to back up that Odunze's new health concern isn't a serious one, but he'll still enter Week 1 prep with a question mark regarding his status. With fellow WR Luther Burden also tending to a groin injury, the Bears currently have only Kalif Raymond, Zavion Thomas and Jahdae Walker as healthy options at the position on the active roster.
-- **NEW — Sam Darnold** — Sam Darnold Should Benefit From Second Season in Seahawks Offense (2026-09-03T22:46:55Z)
+- **Sam Darnold** — Sam Darnold Should Benefit From Second Season in Seahawks Offense (2026-09-03T22:46:55Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-should-benefit-from-second-season-in-seahawks-offense/1922966
 - **Jayden Daniels** — Jayden Daniels Primed for a Bounce-Back Season in 2026 (2026-09-03T22:36:14Z)
   - Source: https://www.rotoballer.com/player-news/jayden-daniels-primed-for-a-bounce-back-season-in-2026-with-improved-receiving-core/1922958
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Along with most of the Vikings' other key starters, Addison was rested for the final two preseason contests, but he was taking regular reps with the first-team offense throughout camp and will be ready to go for Week 1 against the Packers. As was the case for nearly every Minnesota pass catcher last season, Addison saw his production crater as a result of suspect quarterback play from J.J. McCarthy, Carson Wentz and Max Brosmer, but his fantasy outlook should be improved heading into 2026 while Murray steps in as the Vikings' new starter under center. Over his first two NFL seasons, Addison averaged 4.2 receptions, 55.8 yards and 0.6 touchdowns per game while Kirk Cousins and Sam Darnold served as the Vikings' primary quarterbacks.
 - **Chris Brooks** — Chris Brooks - Remains in backfield mix (2026-09-03T14:22:59Z)
   - Jacobs will spend an indeterminate amount of time on the Commissioner's Exempt List while his legal situation is sorted out. His absence creates an opportunity for Green Bay's running backs. Brooks is the most experienced of the team's available options at the position, having appeared in 41 regular-season games, including 32 with the Packers. Injuries have limited the currently healthy Lloyd to just one regular-season appearance in two years, while the recent trade acquisition Johnson seemed to be on the verge of being cut by Pittsburgh following a 28-carry rookie campaign in 2025.
-- **Isaiah Likely** — Isaiah Likely - Breakout potential with Giants (2026-09-03T14:20:29Z)
-  - Likely signed a three-year, $40 million contract with the Giants in March and has subsequently formed a strong connection with QB Jaxson Dart on and off the field. The 26-year-old tight end also has familiarity with head coach John Harbaugh from their time together in Baltimore, where Likely played from 2022 to 2025. Likely was overshadowed by Mark Andrews on the Ravens, but the former has a clear path to a larger role in New York, where Likely will be competing for targets with fellow TE Theo Johnson (shoulder), as well as a WR room that includes Darius Slayton, Darnell Mooney, Malachi Fields and Odell Beckham behind Nabers.
