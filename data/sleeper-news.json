@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T04:10:59Z",
+  "last_checked_at": "2026-09-04T04:26:57Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|10222|rotoballer|220062|1788480127000",
-    "nfl|9226|rotoballer|220063|1788479827000",
-    "nfl|96|rotowire|636249|1788494763000"
+    "nfl|7600|rotowire|636251|1788495541000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Through five campaigns as a pro, Freiermuth has played at least 16 regular-season games on four occasions, and his tally of 486 receiving yards from 2025 marked his lowest among them. He was on the receiving end of passes from QB Aaron Rodgers for the first time, and with Rodgers returning for his age-43 season, Freiermuth likely isn't in store for much more production, even if the addition of WR Michael Pittman frees up more space for the tight end to operate.",
+      "description": "Freiermuth capped the Steelers' preseason schedule with one catch (on one target) for two yards in two contests.",
+      "metadata": {
+        "analysis": "Through five campaigns as a pro, Freiermuth has played at least 16 regular-season games on four occasions, and his tally of 486 receiving yards from 2025 marked his lowest among them. He was on the receiving end of passes from QB Aaron Rodgers for the first time, and with Rodgers returning for his age-43 season, Freiermuth likely isn't in store for much more production, even if the addition of WR Michael Pittman frees up more space for the tight end to operate.",
+        "description": "Freiermuth capped the Steelers' preseason schedule with one catch (on one target) for two yards in two contests.",
+        "title": "Pat Freiermuth - Plays two preseason games",
+        "topic_id": "1401455832784236544"
+      },
+      "nfl_team": "PIT",
+      "player_id": "7600",
+      "player_name": "Pat Freiermuth",
+      "position": "TE",
+      "published": 1788495541000,
+      "source": "rotowire",
+      "source_key": "636251",
+      "story_id": "nfl|7600|rotowire|636251|1788495541000",
+      "title": "Pat Freiermuth - Plays two preseason games",
+      "url": null
+    },
     {
       "analysis": "Rodgers didn't suit up in the preseason, and coach Mike McCarthy tied his decision to do so to the fact that Metcalf and Pittman weren't healthy enough to play. Even if one or both of Metcalf and Pittman aren't available for the regular-season opener, Rodgers wouldn't be a consideration to be inactive, but it appears the duo will be able to suit up, barring any setbacks in the meantime. Rodgers led a Steelers offense in 2025 that didn't have much talent at WR aside from Metcalf, but the quarterback still completed 65.7 percent of his passes for 3,322 yards, 24 touchdowns and seven interceptions in 16 regular-season games.",
       "description": "Rodgers is expected to have WRs DK Metcalf (undisclosed) and Michael Pittman (hamstring) available Week 1 against the Falcons on Sunday, Sept. 13, Brooke Pryor of ESPN.com reports.",

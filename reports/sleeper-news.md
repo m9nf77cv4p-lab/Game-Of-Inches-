@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1864**
-- Newly captured: **3**
+- Stored stories: **1865**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Aaron Rodgers** — Aaron Rodgers - To have Metcalf, Pittman back in Week 1 (2026-09-04T04:06:03Z)
+- **NEW — Pat Freiermuth** — Pat Freiermuth - Plays two preseason games (2026-09-04T04:19:01Z)
+  - Through five campaigns as a pro, Freiermuth has played at least 16 regular-season games on four occasions, and his tally of 486 receiving yards from 2025 marked his lowest among them. He was on the receiving end of passes from QB Aaron Rodgers for the first time, and with Rodgers returning for his age-43 season, Freiermuth likely isn't in store for much more production, even if the addition of WR Michael Pittman frees up more space for the tight end to operate.
+- **Aaron Rodgers** — Aaron Rodgers - To have Metcalf, Pittman back in Week 1 (2026-09-04T04:06:03Z)
   - Rodgers didn't suit up in the preseason, and coach Mike McCarthy tied his decision to do so to the fact that Metcalf and Pittman weren't healthy enough to play. Even if one or both of Metcalf and Pittman aren't available for the regular-season opener, Rodgers wouldn't be a consideration to be inactive, but it appears the duo will be able to suit up, barring any setbacks in the meantime. Rodgers led a Steelers offense in 2025 that didn't have much talent at WR aside from Metcalf, but the quarterback still completed 65.7 percent of his passes for 3,322 yards, 24 touchdowns and seven interceptions in 16 regular-season games.
 - **Brenton Strange** — Brenton Strange - In line to start Week 1 (2026-09-04T03:51:28Z)
   - Strange inked a three-year extension with Jacksonville back in June, and in the wake of roster cuts, rookie second-round pick Nate Boerkircher, rookie fifth-rounder Tanner Koziol and fifth-year pro Quintin Morris are the other TEs on the roster. As a result, Strange is the likeliest member of the group, barring health concerns, to end the campaign as the leader in offensive snaps. He's also coming off a 2025 season in which he posted a 46-540-3 line on 60 targets across 12 regular-season games.
@@ -29,9 +31,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Swift was reportedly "in significant discomfort" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will carry an injury designation for the time being, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injury report, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.
 - **Jalen Coker** — Jalen Coker - Listed as starting WR (2026-09-04T00:03:24Z)
   - Despite going undrafted in 2024, Coker has made his presence felt through two pro campaigns, resulting in 65 catches (on 89 targets) for 872 yards and five touchdowns in 22 regular-season games. His defining moment of sorts occurred the last time he was on the field for a contest that counts, when he torched the Rams for 9-134-1 on 12 targets in a wild-card loss. Coker will continue to operate as a complementary option to No. 1 WR Tetairoa McMillan for QB Bryce Young in 2026.
-- **NEW — Jayden Reed** — Jayden Reed Set for Larger Role Amid Improved Health (2026-09-04T00:02:07Z)
+- **Jayden Reed** — Jayden Reed Set for Larger Role Amid Improved Health (2026-09-04T00:02:07Z)
   - Source: https://www.rotoballer.com/player-news/jayden-reed-set-for-larger-role-amid-improved-health/1922987
-- **NEW — De'Von Achane** — De'Von Achane Still Holds Elite Upside Despite Poor Supporting Cast (2026-09-03T23:57:07Z)
+- **De'Von Achane** — De'Von Achane Still Holds Elite Upside Despite Poor Supporting Cast (2026-09-03T23:57:07Z)
   - Source: https://www.rotoballer.com/player-news/devon-achane-still-holds-elite-upside-despite-poor-supporting-cast/1922985
 - **Bryce Young** — Bryce Young - Working with new play caller (2026-09-03T23:55:01Z)
   - Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as "aggressive, which is huge for us." The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The Eagles rested all of their key starters for the three exhibitions. Now 31 years old, Goedert is a veteran who doesn't necessarily need to play in meaningless preseason games. With A.J. Brown now in New England, Goedert is expected to have a big red-zone role for Philadelphia this season after he set a career high with 11 touchdown grabs on 60 catches last season. It will be difficult for Goedert to replicate that astounding touchdown rate, but he's very much in the TE1 mix for fantasy.
 - **Makai Lemon** — Makai Lemon's Rough Summer Has Cooled His Draft Appeal (2026-09-03T15:21:10Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemons-rough-summer-has-cooled-his-draft-appeal/1922683
-- **Jauan Jennings** — Jauan Jennings - Sits out final two preseason contests (2026-09-03T15:15:58Z)
-  - Signed to a one-year, $8 million deal in May, Jennings is locked in as the Vikings' No. 3 receiver and didn't need to compete for a job during the preseason. With San Francisco last season, Jennings primarily operated as the "X" receiver and turned in a 55-643-9 receiving line on 90 targets over his 15 appearances. Since Justin Jefferson typically occupies the X spot for Minnesota and Jordan Addison mainly works as the "Z" receiver, Jennings could end up seeing most of his time out of the slot with his new squad. While a slot role can often lead to catchable, higher-percentage targets, Jefferson remains the unquestioned No. 1 option in the passing game regardless of where he lines up, and Addison is capable of bumping inside and seems likely play ahead of Jennings in two-wide formations. Moreover, Vikings quarterback Kyler Murray hasn't had an extensive track record of supporting more than one fantasy viable pass catcher during his seven-year career, so Jennings could struggle to attain consistent week-to-week volume while he's vying with the likes of Addison and tight end T.J. Hockenson for the remaining targets that don't go to Jefferson.
