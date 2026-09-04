@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1874**
+- Stored stories: **1876**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Bucky Irving** — Bucky Irving a Bounce-Back Candidate with Clean Bill of Health (2026-09-04T10:22:06Z)
+- **NEW — Javonte Williams** — Javonte Williams Slated for Every-Down Role with No Competition in Backfield (2026-09-04T11:14:05Z)
+  - Source: https://www.rotoballer.com/player-news/javonte-williams-slated-for-every-down-role-with-no-competition-in-backfield/1923224
+- **NEW — George Pickens** — George Pickens Keeps Pushing His Stock Higher (2026-09-04T11:12:06Z)
+  - Source: https://www.rotoballer.com/player-news/george-pickens-keeps-pushing-his-stock-higher/1923222
+- **Bucky Irving** — Bucky Irving a Bounce-Back Candidate with Clean Bill of Health (2026-09-04T10:22:06Z)
   - Source: https://www.rotoballer.com/player-news/bucky-irving-a-bounce-back-candidate-with-clean-bill-of-health/1923208
-- **NEW — DJ Moore** — DJ Moore Set to Bounce Back with New QB and New Role (2026-09-04T10:19:06Z)
+- **DJ Moore** — DJ Moore Set to Bounce Back with New QB and New Role (2026-09-04T10:19:06Z)
   - Source: https://www.rotoballer.com/player-news/dj-moore-set-to-bounce-back-with-new-qb-and-new-role/1923204
 - **Justin Jefferson** — Justin Jefferson Expected to Benefit From Improved Quarterback Play (2026-09-04T10:15:05Z)
   - Source: https://www.rotoballer.com/player-news/justin-jefferson-expected-to-benefit-from-improved-quarterback-play/1923180
@@ -208,8 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - "We're going to have a really good team that has a chance to win every game that we step foot on the field for," Burrow said. "We brought in a lot of the right guys, a lot of the right people with the right mindsets to go and chase this goal of winning a Super Bowl." Cincinnati's offseason additions focused primarily on fixing a defense that allowed 28.9 points per game during the 2025 regular season, which was third-most in the NFL. Burrow and the offense are poised for another productive campaign if the star QB can stay healthy after being limited to eight appearances last season due to a toe injury. Starting wide receivers Chase and Tee Higgins (heel), as well as running back Chase Brown, are all reprising their roles alongside Burrow to provide continuity on offense.
 - **Keaton Mitchell** — Keaton Mitchell Missing Another Practice (2026-09-03T15:50:06Z)
   - Source: https://www.rotoballer.com/player-news/keaton-mitchell-missing-another-practice/1922725
-- **Jordan Addison** — Jordan Addison's Outlook Improves With More Stability at Quarterback (2026-09-03T15:45:07Z)
-  - Source: https://www.rotoballer.com/player-news/jordan-addisons-outlook-improves-with-more-stability-at-quarterback/1922723
-- **Anthony Richardson** — Anthony Richardson Sr. will be backup QB for Colts (2026-09-03T15:45:06.712000Z)
-  - There have been multiple rumors that Richardson might be traded at some point. Some reports have suggested that he may lose out to Riley Leonard for the Colts' backup QB role. Head coach Shane Steichen has put all that to rest, at least for now, making clear Tuesday that Richardson is indeed the top backup to starter Daniel Jones. 
-  - Source: https://www.fantasypros.com/nfl/news/605770/anthony-richardson-sr-will-be-backup-qb-colts.php

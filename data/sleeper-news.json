@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T14:42:05Z",
+  "last_checked_at": "2026-09-04T15:23:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11584|rotoballer|220071|1788517326000",
-    "nfl|4983|rotoballer|220072|1788517146000"
+    "nfl|7588|rotoballer|220073|1788520445000",
+    "nfl|8137|rotoballer|220074|1788520326000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys running back Javonte Williams is expected to occupy an every-down role once again this season. The Cowboys recently released Phil Mafah and Jaydon Blue, leaving them with a backfield of Williams, Malik Davis, and Emari Demercado. Although Davis and Demercado have both been in the league for a while, they've established themself as depth options and won't sniff the lead-back role as long as Williams is healthy. As a result, the 26-year-old has a legitimate chance to replicate (or even improve upon) last year's RB12 finish in PPR leagues, especially with the Cowboys' offense projected to be effective again this year. Last year, Williams had 1,201 rushing yards and 11 rushing touchdowns, shattering his previous career-high rushing yards (903) and rushing touchdowns (four). At the moment, he ranks as the RB12 in RotoBaller's latest redraft rankings for PPR leagues. He has an ADP of 32.9, which corresponds to the third round of fantasy drafts and makes him the 15th running back off the board.",
+      "metadata": {
+        "description": "Dallas Cowboys running back Javonte Williams is expected to occupy an every-down role once again this season. The Cowboys recently released Phil Mafah and Jaydon Blue, leaving them with a backfield of Williams, Malik Davis, and Emari Demercado. Although Davis and Demercado have both been in the league for a while, they've established themself as depth options and won't sniff the lead-back role as long as Williams is healthy. As a result, the 26-year-old has a legitimate chance to replicate (or even improve upon) last year's RB12 finish in PPR leagues, especially with the Cowboys' offense projected to be effective again this year. Last year, Williams had 1,201 rushing yards and 11 rushing touchdowns, shattering his previous career-high rushing yards (903) and rushing touchdowns (four). At the moment, he ranks as the RB12 in RotoBaller's latest redraft rankings for PPR leagues. He has an ADP of 32.9, which corresponds to the third round of fantasy drafts and makes him the 15th running back off the board.",
+        "title": "Javonte Williams Slated for Every-Down Role with No Competition in Backfield",
+        "topic_id": "1401620682873298944",
+        "url": "https://www.rotoballer.com/player-news/javonte-williams-slated-for-every-down-role-with-no-competition-in-backfield/1923224"
+      },
+      "nfl_team": "DAL",
+      "player_id": "7588",
+      "player_name": "Javonte Williams",
+      "position": "RB",
+      "published": 1788520445000,
+      "source": "rotoballer",
+      "source_key": "220073",
+      "story_id": "nfl|7588|rotoballer|220073|1788520445000",
+      "title": "Javonte Williams Slated for Every-Down Role with No Competition in Backfield",
+      "url": "https://www.rotoballer.com/player-news/javonte-williams-slated-for-every-down-role-with-no-competition-in-backfield/1923224"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver George Pickens keeps making it harder to write off last year's breakout as a one-season spike. Pickens finished 2025 with 93 catches for 1,429 yards and nine touchdowns on 137 targets, good for a WR5 finish in PPR, then followed it with one of the loudest camps on the roster. Dallas' own coverage repeatedly highlighted him for making plays downfield and winning in contested situations, and the buzz carried through joint practices and the team's return to Texas. CeeDee Lamb is healthy again and remains one of the league's best receivers, so Pickens is not suddenly walking into a bigger share by default. What has changed is the confidence that last year's production was sustainable. Pickens is still starting opposite Lamb, still tied to Dak Prescott, and Dallas spent the summer talking about how difficult he has been to cover. He enters the season as WR8 in RotoBaller's latest half-PPR rankings. After the camp he just put together, another high-end fantasy season looks well within reach.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver George Pickens keeps making it harder to write off last year's breakout as a one-season spike. Pickens finished 2025 with 93 catches for 1,429 yards and nine touchdowns on 137 targets, good for a WR5 finish in PPR, then followed it with one of the loudest camps on the roster. Dallas' own coverage repeatedly highlighted him for making plays downfield and winning in contested situations, and the buzz carried through joint practices and the team's return to Texas. CeeDee Lamb is healthy again and remains one of the league's best receivers, so Pickens is not suddenly walking into a bigger share by default. What has changed is the confidence that last year's production was sustainable. Pickens is still starting opposite Lamb, still tied to Dak Prescott, and Dallas spent the summer talking about how difficult he has been to cover. He enters the season as WR8 in RotoBaller's latest half-PPR rankings. After the camp he just put together, another high-end fantasy season looks well within reach.",
+        "title": "George Pickens Keeps Pushing His Stock Higher",
+        "topic_id": "1401620682869104640",
+        "url": "https://www.rotoballer.com/player-news/george-pickens-keeps-pushing-his-stock-higher/1923222"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8137",
+      "player_name": "George Pickens",
+      "position": "WR",
+      "published": 1788520326000,
+      "source": "rotoballer",
+      "source_key": "220074",
+      "story_id": "nfl|8137|rotoballer|220074|1788520326000",
+      "title": "George Pickens Keeps Pushing His Stock Higher",
+      "url": "https://www.rotoballer.com/player-news/george-pickens-keeps-pushing-his-stock-higher/1923222"
+    },
     {
       "analysis": null,
       "description": "Tampa Bay Buccaneers running back Bucky Irving is primed to bounce back in fantasy football now that he's fully healthy for the 2026 season. Irving missed a whopping seven games in his second pro season last year, which resulted in him falling to RB34 with just 865 scrimmage yards and four total touchdowns. For context, he had been the RB13 the year prior. Irving is now fully healthy again, giving him a good chance to push for a top-12 finish in fantasy football at the running back position. There are certainly some other mouths to feed here, but as far as the backfield goes, Irving has pretty clearly solidified himself over Kenny Gainwell and Sean Tucker. In fact, the presence of those two other backs could allow the Bucs to manage Irving's workload. Sure, that might lower his ceiling slightly, but it will also reduce injury risk and increase the chance of him playing all 17 games. As it stands, Irving ranks as the RB19 in RotoBaller's latest redraft rankings. He has an ADP of 52.7, which corresponds to the fifth round of fantasy drafts and makes him the 22nd running back off the board.",
