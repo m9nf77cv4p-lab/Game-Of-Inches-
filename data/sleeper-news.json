@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T02:09:28Z",
+  "last_checked_at": "2026-09-04T02:25:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|1373|rotoballer|220052|1788472872000",
-    "nfl|9228|rotoballer|220051|1788472275000"
+    "nfl|6806|rotoballer|220053|1788473532000"
   ],
   "schema_version": 1,
   "source": {
@@ -153,6 +152,26 @@
       "story_id": "nfl|11620|rotowire|636197|1788476225000",
       "title": "Rome Odunze - Seemingly avoids serious setback",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos rookie running back out of Washington, Jonah Coleman, was drafted in the fourth round by the Broncos to work alongside J.K. Dobbins and RJ Harvey. However, Nick Kosmider of The Athletic wrote about how Coleman could be involved between the tackles as a complementary piece to Dobbins to lessen Dobbins' rushing load with the aim of keeping him healthy throughout the season. Dobbins has a long injury history, having yet to stay healthy for a full season in his six-year career. Last season, Dobbins rushed for 772 yards (5.05 YPC) with four touchdowns before going down with an injury and playing in only 10 games. Coleman was a solid back at Washington, rushing for 25 touchdowns over his past two seasons and 1,053 yards during his junior season. Coleman has a receiving profile as well, as he saw 54 receptions in his final two seasons, but Harvey is expected to assume most of that work. RotoBaller ranks Harvey as the RB54 entering the season, but any injury to Dobbins would propel him into RB3 consideration.",
+      "metadata": {
+        "description": "Denver Broncos rookie running back out of Washington, Jonah Coleman, was drafted in the fourth round by the Broncos to work alongside J.K. Dobbins and RJ Harvey. However, Nick Kosmider of The Athletic wrote about how Coleman could be involved between the tackles as a complementary piece to Dobbins to lessen Dobbins' rushing load with the aim of keeping him healthy throughout the season. Dobbins has a long injury history, having yet to stay healthy for a full season in his six-year career. Last season, Dobbins rushed for 772 yards (5.05 YPC) with four touchdowns before going down with an injury and playing in only 10 games. Coleman was a solid back at Washington, rushing for 25 touchdowns over his past two seasons and 1,053 yards during his junior season. Coleman has a receiving profile as well, as he saw 54 receptions in his final two seasons, but Harvey is expected to assume most of that work. RotoBaller ranks Harvey as the RB54 entering the season, but any injury to Dobbins would propel him into RB3 consideration.",
+        "title": "Jonah Coleman Could Be Between-the-Tackles Complement in Denver",
+        "topic_id": "1401424370093563904",
+        "url": "https://www.rotoballer.com/player-news/jonah-coleman-could-be-between-the-tackles-complement-to-j-k-dobbins/1922946"
+      },
+      "nfl_team": "DEN",
+      "player_id": "6806",
+      "player_name": "J.K. Dobbins",
+      "position": "RB",
+      "published": 1788473532000,
+      "source": "rotoballer",
+      "source_key": "220053",
+      "story_id": "nfl|6806|rotoballer|220053|1788473532000",
+      "title": "Jonah Coleman Could Be Between-the-Tackles Complement in Denver",
+      "url": "https://www.rotoballer.com/player-news/jonah-coleman-could-be-between-the-tackles-complement-to-j-k-dobbins/1922946"
     },
     {
       "analysis": null,

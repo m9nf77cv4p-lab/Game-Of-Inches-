@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1847**
-- Newly captured: **2**
+- Stored stories: **1848**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -21,7 +21,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as "aggressive, which is huge for us." The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.
 - **Rome Odunze** — Rome Odunze - Seemingly avoids serious setback (2026-09-03T22:57:05Z)
   - Odunze exited in the first hour of Thursday's session, but despite attempting to stay on the field, he was escorted off of it with team trainers. Wiederer's report seems to back up that Odunze's new health concern isn't a serious one, but he'll still enter Week 1 prep with a question mark regarding his status. With fellow WR Luther Burden also tending to a groin injury, the Bears currently have only Kalif Raymond, Zavion Thomas and Jahdae Walker as healthy options at the position on the active roster.
-- **NEW — Geno Smith** — Geno Smith is Voted Jets Captain (2026-09-03T22:01:12Z)
+- **NEW — J.K. Dobbins** — Jonah Coleman Could Be Between-the-Tackles Complement in Denver (2026-09-03T22:12:12Z)
+  - Source: https://www.rotoballer.com/player-news/jonah-coleman-could-be-between-the-tackles-complement-to-j-k-dobbins/1922946
+- **Geno Smith** — Geno Smith is Voted Jets Captain (2026-09-03T22:01:12Z)
   - Source: https://www.rotoballer.com/player-news/geno-smith-is-voted-jets-captain/1922938
 - **D'Andre Swift** — D'Andre Swift exits practice early Thursday  (2026-09-03T22:00:09.545000Z)
   - Hammond notes that Swift came off the field apparently holding at his midsection or core area. This will remain a situation to monitor during practice next week. 
@@ -29,7 +31,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Rome Odunze** — Rome Odunze leaves practice early Thursday  (2026-09-03T22:00:09.528000Z)
   - Hammond notes that Odunze came up hobbling during an install period at the start of practice. He tried to return to practice, but trainers wouldn't let him. This will remain something to monitor into next week. 
   - Source: https://www.fantasypros.com/nfl/news/605833/rome-odunze-leaves-practice-early-thursday.php
-- **NEW — Bryce Young** — Bryce Young Working with New Play-Caller in 2026 (2026-09-03T21:51:15Z)
+- **Bryce Young** — Bryce Young Working with New Play-Caller in 2026 (2026-09-03T21:51:15Z)
   - Source: https://www.rotoballer.com/player-news/bryce-young-is-working-with-new-play-caller/1922933
 - **Bo Nix** — Bo Nix Receives Praise From Patrick Surtain (2026-09-03T21:37:07Z)
   - Source: https://www.rotoballer.com/player-news/bo-nix-receives-praise-from-patrick-surtain/1922926
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/rj-harvey-has-value-in-ppr-leagues-in-passing-role/1922611
 - **Josh Allen** — An Improved Surrounding Cast Only Strengthens Josh Allen's QB1 Case (2026-09-03T13:48:09Z)
   - Source: https://www.rotoballer.com/player-news/an-improved-surrounding-cast-only-strengthens-josh-allens-qb1-case-for-2026/1922609
-- **Tyler Shough** — Tyler Shough - Shines in final camp practice (2026-09-03T13:45:43Z)
-  - Though he didn't play at all in the preseason while the Saints instead opened up more reps for backups Spencer Rattler and Zach Wilson, Shough reportedly looked sharp throughout training camp while keeping the New Orleans offense productive. Shough was able to close out camp on a high note by tossing three touchdown passes during 11-on-11 sessions, and Shough would have had two more had Devaughn Vele secured a one-handed catch in the end zone and had Chris Olave not fumbled near the goal line on another play. New Orleans will be without one of its key playmakers to begin the season in rookie first-round wideout Jordyn Tyson (hamstring), but Shough appeared to build good chemistry with new starting running back Travis Etienne, who was a frequent target of the quarterback during camp practices.
