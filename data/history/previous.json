@@ -19982,7 +19982,7 @@
       ],
       "first_name": "Rome",
       "full_name": "Rome Odunze",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Odunze",
       "nfl_team": "CHI",
       "player_id": "11620",
@@ -22278,7 +22278,7 @@
       ],
       "first_name": "D'Andre",
       "full_name": "D'Andre Swift",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Swift",
       "nfl_team": "CHI",
       "player_id": "6790",
@@ -23764,8 +23764,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-03T19:11:52Z",
-    "source_fingerprint": "e5e2f9f190c45807ed26d967123504accf111c31fb732bdd7bd25ccec875ab2e"
+    "last_changed_at": "2026-09-03T21:27:05Z",
+    "source_fingerprint": "69475132b25912797d18408938463b1866fab4e68f5be0966ea5384260f70fc9"
   },
   "teams": [
     {

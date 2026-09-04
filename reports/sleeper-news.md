@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1834**
-- Newly captured: **1**
+- Stored stories: **1839**
+- Newly captured: **5**
 
 ## Latest news
 
-- **NEW — Rome Odunze** — Rome Odunze - Seemingly avoids serious setback (2026-09-03T22:57:05Z)
+- **NEW — Jalen Coker** — Jalen Coker - Listed as starting WR (2026-09-04T00:03:24Z)
+  - Despite going undrafted in 2024, Coker has made his presence felt through two pro campaigns, resulting in 65 catches (on 89 targets) for 872 yards and five touchdowns in 22 regular-season games. His defining moment of sorts occurred the last time he was on the field for a contest that counts, when he torched the Rams for 9-134-1 on 12 targets in a wild-card loss. Coker will continue to operate as a complementary option to No. 1 WR Tetairoa McMillan for QB Bryce Young in 2026.
+- **NEW — Bryce Young** — Bryce Young - Working with new play caller (2026-09-03T23:55:01Z)
+  - Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as "aggressive, which is huge for us." The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.
+- **Rome Odunze** — Rome Odunze - Seemingly avoids serious setback (2026-09-03T22:57:05Z)
   - Odunze exited in the first hour of Thursday's session, but despite attempting to stay on the field, he was escorted off of it with team trainers. Wiederer's report seems to back up that Odunze's new health concern isn't a serious one, but he'll still enter Week 1 prep with a question mark regarding his status. With fellow WR Luther Burden also tending to a groin injury, the Bears currently have only Kalif Raymond, Zavion Thomas and Jahdae Walker as healthy options at the position on the active roster.
 - **D'Andre Swift** — D'Andre Swift exits practice early Thursday  (2026-09-03T22:00:09.545000Z)
   - Hammond notes that Swift came off the field apparently holding at his midsection or core area. This will remain a situation to monitor during practice next week. 
@@ -27,8 +31,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) still not practicing Thursday  (2026-09-03T20:20:08.899000Z)
   - Henderson has not practiced since August 24 when he sustained the injury. His status is up in the air for the season opener next Wednesday. 
   - Source: https://www.fantasypros.com/nfl/news/605824/treveyon-henderson-ankle-still-not-practicing-thursday.php
+- **NEW — Kyle Monangai** — Kyle Monangai Does Not Practice on Thursday (2026-09-03T20:20:06Z)
+  - Source: https://www.rotoballer.com/player-news/kyle-monangai-does-not-practice-on-thursday/1922854
+- **NEW — Caleb Williams** — Ben Johnson has More Praise for Caleb Williams (2026-09-03T20:11:13Z)
+  - Source: https://www.rotoballer.com/player-news/ben-johnson-has-more-praise-for-caleb-williams/1922851
 - **Breece Hall** — Breece Hall - Expected back for Week 1 (2026-09-03T20:06:04Z)
   - Hall is still nursing the groin injury he suffered 17 days ago, but he was originally given a return timetable of 2-to-3 weeks and was spotted running without any noticeable issues on a side field last week. Barring any setbacks, it sounds like Hall should be fine for the season opener. Whether he sees his normal workload is another question, as Braelon Allen has looked the part in practice and during limited preseason action, where he rushed seven times for 48 yards (6.9 YPC) and one touchdown.
+- **NEW — Breece Hall** — Breece Hall Expected to be Ready for Week 1 (2026-09-03T20:04:05Z)
+  - Source: https://www.rotoballer.com/player-news/breece-hall-expected-to-be-ready-for-week-1/1922849
 - **Colston Loveland** — Colston Loveland - Listed as starter on depth chart (2026-09-03T19:50:58Z)
   - The 10th overall pick in the 2025 Draft, Loveland had a slow start to his rookie season, coming out of Week 8 with 11 catches total on the campaign and one DNP due to a hip injury. From Week 9 through the Bears' divisional-round loss to the Rams, though, he ran roughshod over opposing defenses, hauling in 59 of 89 targets for 790 yards and six touchdowns in 12 games. Loveland capped that stretch with four consecutive contests with double-digit targets, indicating he left off last season as QB Caleb Williams' top option in the passing game. While Loveland still has to contend with WRs Rome Odunze and Luther Burden (groin) for the attention of Williams, the tight end is poised to make a leap to the NFL's best at the position.
 - **De'Von Achane** — De'Von Achane - Set to lead Miami's new-look offense (2026-09-03T19:39:10Z)
@@ -170,7 +180,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jadarian Price** — Jadarian Price Should be Featured on Early Downs (2026-09-03T14:30:09Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-should-be-featured-on-early-downs/1922647
 - **Jordan Addison** — Jordan Addison - Makes impressive grab in final camp practice (2026-09-03T14:23:29Z)
-  - Along with most of the Vikings' other key starters, Addison was rested for the final two preseason contests, but he was taking regular reps with the first-team offense throughout camp and will be ready to go for Week 1 against the Packers. As was the case for nearly every Minnesota pass catcher last season, Addison saw his production crater as a result of suspect quarterback play from J.J. McCarthy, Carson Wentz and Max Brosmer, but his fantasy outlook should be improved heading into 2026 while Murray steps in as the Vikings' new starter under center. Over his first two NFL seasons, Addison averaged 4.16 receptions, 55.81 yards and 0.59 touchdowns per game while Kirk Cousins and Sam Darnold served as the Vikings' primary quarterbacks.
+  - Along with most of the Vikings' other key starters, Addison was rested for the final two preseason contests, but he was taking regular reps with the first-team offense throughout camp and will be ready to go for Week 1 against the Packers. As was the case for nearly every Minnesota pass catcher last season, Addison saw his production crater as a result of suspect quarterback play from J.J. McCarthy, Carson Wentz and Max Brosmer, but his fantasy outlook should be improved heading into 2026 while Murray steps in as the Vikings' new starter under center. Over his first two NFL seasons, Addison averaged 4.2 receptions, 55.8 yards and 0.6 touchdowns per game while Kirk Cousins and Sam Darnold served as the Vikings' primary quarterbacks.
 - **Chris Brooks** — Chris Brooks - Remains in backfield mix (2026-09-03T14:22:59Z)
   - Jacobs will spend an indeterminate amount of time on the Commissioner's Exempt List while his legal situation is sorted out. His absence creates an opportunity for Green Bay's running backs. Brooks is the most experienced of the team's available options at the position, having appeared in 41 regular-season games, including 32 with the Packers. Injuries have limited the currently healthy Lloyd to just one regular-season appearance in two years, while the recent trade acquisition Johnson seemed to be on the verge of being cut by Pittsburgh following a 28-carry rookie campaign in 2025.
 - **Isaiah Likely** — Isaiah Likely - Breakout potential with Giants (2026-09-03T14:20:29Z)
@@ -180,13 +190,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **George Holani** — George Holani the Seahawks' Goal-Line Back? (2026-09-03T14:11:06Z)
   - Source: https://www.rotoballer.com/player-news/george-holani-the-seahawks-goal-line-back/1922630
 - **Travis Etienne** — Travis Etienne - Finishes training camp healthy (2026-09-03T14:02:17Z)
-  - Etienne was one of the few Saints running backs to avoid any sort of injury scare or setback during training camp. Devin Neal (hamstring) and Ty Chandler (knee) will be out for the season after landing on injured reserve, and Alvin Kamara (knee) appears to be trending toward sitting out Week 1. Additionally, Kendre Miller sustained a minor undisclosed injury during practice Tuesday and is day-to-day, while Audric Estime is healthy but missed time in camp due to an ankle issue. After signing a four-year, $52 million deal in March, Etienne had already looked poised to handle a sizable workload for New Orleans both as a lead runner and pass catcher, and the battered condition of his backups following camp and the preseason adds further fuel to the notion that he'll be in line for heavy volume right of the gate.
+  - Etienne was one of the few Saints running backs to avoid any sort of injury scare or setback during training camp. Ty Chandler (knee) is out for the season after landing on injured reserve, and Alvin Kamara (knee) appears to be trending toward sitting out Week 1. Additionally, Kendre Miller sustained a minor undisclosed injury during practice Tuesday and is day-to-day, while Audric Estime is healthy but missed time in camp due to an ankle issue. After signing a four-year, $52 million deal in March, Etienne had already looked poised to handle a sizable workload for New Orleans both as a lead runner and pass catcher, and the current condition of his backups following camp and the preseason adds further fuel to the notion that he'll be in line for heavy volume right of the gate.
 - **RJ Harvey** — RJ Harvey has Value in PPR Leagues in Passing Role (2026-09-03T13:50:07Z)
   - Source: https://www.rotoballer.com/player-news/rj-harvey-has-value-in-ppr-leagues-in-passing-role/1922611
 - **Josh Allen** — An Improved Surrounding Cast Only Strengthens Josh Allen's QB1 Case (2026-09-03T13:48:09Z)
   - Source: https://www.rotoballer.com/player-news/an-improved-surrounding-cast-only-strengthens-josh-allens-qb1-case-for-2026/1922609
 - **Tyler Shough** — Tyler Shough - Shines in final camp practice (2026-09-03T13:45:43Z)
-  - Though he didn't play at all in the preseason while the Saints instead opened up more reps for backups Spencer Rattler and Zach Wilson, Shough reportedly looked sharp throughout training camp while keeping the New Orleans offense productive. He was able to close out camp on a high note by tossing three touchdown passes during 11-on-11 sessions, and Shough would have had two more had Devaughn Vele secured a one-handed catch in the end zone and had Chris Olave not fumbled near the goal line on another play. New Orleans will be without one of its key playmakers to begin the season in rookie first-round wideout Jordyn Tyson (hamstring), but Shough appeared to build good chemistry with new starting running back Travis Etienne, who was a frequent target of the quarterback during camp practices.
+  - Though he didn't play at all in the preseason while the Saints instead opened up more reps for backups Spencer Rattler and Zach Wilson, Shough reportedly looked sharp throughout training camp while keeping the New Orleans offense productive. Shough was able to close out camp on a high note by tossing three touchdown passes during 11-on-11 sessions, and Shough would have had two more had Devaughn Vele secured a one-handed catch in the end zone and had Chris Olave not fumbled near the goal line on another play. New Orleans will be without one of its key playmakers to begin the season in rookie first-round wideout Jordyn Tyson (hamstring), but Shough appeared to build good chemistry with new starting running back Travis Etienne, who was a frequent target of the quarterback during camp practices.
 - **Cade Otton** — Cade Otton a Potential Early-Season Streamer (2026-09-03T13:37:08Z)
   - Source: https://www.rotoballer.com/player-news/cade-otton-a-potential-early-season-streamer-amid-buccaneers-wide-receiver-concerns/1922606
 - **Dylan Sampson** — Dylan Sampson - Rests up during preseason finale (2026-09-03T13:32:28Z)
@@ -203,13 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/zay-flowers-dressed-for-thursdays-practice/1922584
 - **Malik Willis** — Malik Willis' Passing Progress Raises His Fantasy Ceiling (2026-09-03T12:24:10Z)
   - Source: https://www.rotoballer.com/player-news/malik-willis-passing-progress-raises-his-fantasy-ceiling/1922565
-- **Joe Burrow** — Joe Burrow Thinks This Year's Bengals Team is "Different" (2026-09-03T12:22:10Z)
-  - Source: https://www.rotoballer.com/player-news/joe-burrow-thinks-this-years-bengals-team-is-different/1922561
-- **Anthony Richardson** — Anthony Richardson Sr. Will be Colts' Backup QB (2026-09-03T12:00:15Z)
-  - Source: https://www.rotoballer.com/player-news/anthony-richardson-sr-will-be-colts-backup-qb/1922543
-- **Cam Skattebo** — Cam Skattebo Considered Retirement After Rookie Injury (2026-09-03T11:59:10Z)
-  - Source: https://www.rotoballer.com/player-news/cam-skattebo-considered-retirement-after-rookie-injury/1922541
-- **Omarion Hampton** — Omarion Hampton Set Up for Year 2 Breakout (2026-09-03T11:46:06Z)
-  - Source: https://www.rotoballer.com/player-news/omarion-hampton-set-up-for-year-2-breakout/1922532
-- **Jalen Hurts** — Jalen Hurts Admits he Grew Apart From Former Receiver (2026-09-03T11:39:09Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-hurts-admits-he-grew-apart-from-former-receiver/1922526

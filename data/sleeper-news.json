@@ -1,9 +1,13 @@
 {
-  "last_checked_at": "2026-09-03T23:15:33Z",
+  "last_checked_at": "2026-09-04T00:25:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11620|rotowire|636197|1788476225000"
+    "nfl|11560|rotoballer|220046|1788466273000",
+    "nfl|11646|rotowire|636209|1788480204000",
+    "nfl|12534|rotoballer|220047|1788466806000",
+    "nfl|8155|rotoballer|220045|1788465845000",
+    "nfl|9228|rotowire|636206|1788479701000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +17,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Despite going undrafted in 2024, Coker has made his presence felt through two pro campaigns, resulting in 65 catches (on 89 targets) for 872 yards and five touchdowns in 22 regular-season games. His defining moment of sorts occurred the last time he was on the field for a contest that counts, when he torched the Rams for 9-134-1 on 12 targets in a wild-card loss. Coker will continue to operate as a complementary option to No. 1 WR Tetairoa McMillan for QB Bryce Young in 2026.",
+      "description": "Coker is listed as a starting wide receiver on the Panthers' unofficial depth chart.",
+      "metadata": {
+        "analysis": "Despite going undrafted in 2024, Coker has made his presence felt through two pro campaigns, resulting in 65 catches (on 89 targets) for 872 yards and five touchdowns in 22 regular-season games. His defining moment of sorts occurred the last time he was on the field for a contest that counts, when he torched the Rams for 9-134-1 on 12 targets in a wild-card loss. Coker will continue to operate as a complementary option to No. 1 WR Tetairoa McMillan for QB Bryce Young in 2026.",
+        "description": "Coker is listed as a starting wide receiver on the Panthers' unofficial depth chart.",
+        "title": "Jalen Coker - Listed as starting WR",
+        "topic_id": "1401391653889011712"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11646",
+      "player_name": "Jalen Coker",
+      "position": "WR",
+      "published": 1788480204000,
+      "source": "rotowire",
+      "source_key": "636209",
+      "story_id": "nfl|11646|rotowire|636209|1788480204000",
+      "title": "Jalen Coker - Listed as starting WR",
+      "url": null
+    },
+    {
+      "analysis": "Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as \"aggressive, which is huge for us.\" The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.",
+      "description": "Young will be working with a new play caller in 2026 with offensive coordinator Brad Idzik taking those duties from head coach Dave Canales, Mike Kaye of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as \"aggressive, which is huge for us.\" The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.",
+        "description": "Young will be working with a new play caller in 2026 with offensive coordinator Brad Idzik taking those duties from head coach Dave Canales, Mike Kaye of ESPN.com reports.",
+        "title": "Bryce Young - Working with new play caller",
+        "topic_id": "1401390396033994752"
+      },
+      "nfl_team": "CAR",
+      "player_id": "9228",
+      "player_name": "Bryce Young",
+      "position": "QB",
+      "published": 1788479701000,
+      "source": "rotowire",
+      "source_key": "636206",
+      "story_id": "nfl|9228|rotowire|636206|1788479701000",
+      "title": "Bryce Young - Working with new play caller",
+      "url": null
+    },
     {
       "analysis": "Odunze exited in the first hour of Thursday's session, but despite attempting to stay on the field, he was escorted off of it with team trainers. Wiederer's report seems to back up that Odunze's new health concern isn't a serious one, but he'll still enter Week 1 prep with a question mark regarding his status. With fellow WR Luther Burden also tending to a groin injury, the Bears currently have only Kalif Raymond, Zavion Thomas and Jahdae Walker as healthy options at the position on the active roster.",
       "description": "Odunze \"should be all good\" after leaving Thursday's practice with an apparent right leg injury, Dan Wiederer of the Chicago Tribune reports.",
@@ -178,6 +222,46 @@
       "url": "https://www.fantasypros.com/nfl/news/605824/treveyon-henderson-ankle-still-not-practicing-thursday.php"
     },
     {
+      "analysis": null,
+      "description": "Chicago Bears running back Kyle Monangai (knee) missed another practice on Thursday, according to Zack Pearson of 247 Sports. Monangai suffered a hyperextended right knee in training camp practice on Aug. 16 and was deemed week-to-week earlier this week, but the good news is that the 24-year-old \"looked good\" while running on a side field on Wednesday, per starting RB D'Andre Swift. Monangai's status for Week 1 against the Carolina Panthers on Sunday, Sept. 13, is firmly up in the air, and with Swift suffering an undisclosed injury of his own in Thursday's practice, Chicago's backfield is banged up with the regular-season opener closing in. With the statuses of both Monangai and Swift now in question, Roschon Johnson is becoming a bit more popular for some potential short-term value in Chicago's offense against Carolina in Week 1. Monangai produced an impressive 783 rushing yards and five rushing scores on 169 carries as a rookie after being taken in the seventh round out of Rutgers, but when Swift is healthy, he will continue to be the clear RB2 with little pass-catching upside. RotoBaller currently has him ranked as the No. 42 fantasy RB for the 2026 campaign.",
+      "metadata": {
+        "description": "Chicago Bears running back Kyle Monangai (knee) missed another practice on Thursday, according to Zack Pearson of 247 Sports. Monangai suffered a hyperextended right knee in training camp practice on Aug. 16 and was deemed week-to-week earlier this week, but the good news is that the 24-year-old \"looked good\" while running on a side field on Wednesday, per starting RB D'Andre Swift. Monangai's status for Week 1 against the Carolina Panthers on Sunday, Sept. 13, is firmly up in the air, and with Swift suffering an undisclosed injury of his own in Thursday's practice, Chicago's backfield is banged up with the regular-season opener closing in. With the statuses of both Monangai and Swift now in question, Roschon Johnson is becoming a bit more popular for some potential short-term value in Chicago's offense against Carolina in Week 1. Monangai produced an impressive 783 rushing yards and five rushing scores on 169 carries as a rookie after being taken in the seventh round out of Rutgers, but when Swift is healthy, he will continue to be the clear RB2 with little pass-catching upside. RotoBaller currently has him ranked as the No. 42 fantasy RB for the 2026 campaign.",
+        "title": "Kyle Monangai Does Not Practice on Thursday",
+        "topic_id": "1401396685095084032",
+        "url": "https://www.rotoballer.com/player-news/kyle-monangai-does-not-practice-on-thursday/1922854"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12534",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "published": 1788466806000,
+      "source": "rotoballer",
+      "source_key": "220047",
+      "story_id": "nfl|12534|rotoballer|220047|1788466806000",
+      "title": "Kyle Monangai Does Not Practice on Thursday",
+      "url": "https://www.rotoballer.com/player-news/kyle-monangai-does-not-practice-on-thursday/1922854"
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears head coach Ben Johnson has been liking what he has seen out of quarterback Caleb Williams as he prepares to take a step forward in his third NFL season in 2026, according to Larry Mayer of the team's official website. \"I've seen a very composed person every time he steps into the building,\" Johnson said. \"I think his teammates feel that as well. He's getting to the practice field early. He's making sure his part is taken care of. He's warmed up, he's ready to go. He stays after with the guys after practice on a regular basis. He's taking a lot of pride in his approach right now, and it trickles down to everyone around him. I think it's a great thing. He continues to grow up, and he's going to be a huge leader for us this year.\" The 24-year-old former first overall pick from USC has also been a more vocal leader after finishing as the QB8 in fantasy football after throwing for 3,942 yards, 27 touchdowns, and only seven interceptions in 17 regular-season starts in 2025 after taking a league-high 68 sacks as a rookie. Williams has shown a flair for the dramatic late in games, and his ability to produce off-script has been a strength of his. Despite losing receiver DJ Moore in an offseason trade, Williams still has plenty of weapons around him, and if he cleans some stuff up, he could take the next step as a passer for an up-and-coming Bears squad. Williams has plenty of appeal as a midrange to low-end QB1 in fantasy drafts for managers who wait a bit on the position.",
+      "metadata": {
+        "description": "Chicago Bears head coach Ben Johnson has been liking what he has seen out of quarterback Caleb Williams as he prepares to take a step forward in his third NFL season in 2026, according to Larry Mayer of the team's official website. \"I've seen a very composed person every time he steps into the building,\" Johnson said. \"I think his teammates feel that as well. He's getting to the practice field early. He's making sure his part is taken care of. He's warmed up, he's ready to go. He stays after with the guys after practice on a regular basis. He's taking a lot of pride in his approach right now, and it trickles down to everyone around him. I think it's a great thing. He continues to grow up, and he's going to be a huge leader for us this year.\" The 24-year-old former first overall pick from USC has also been a more vocal leader after finishing as the QB8 in fantasy football after throwing for 3,942 yards, 27 touchdowns, and only seven interceptions in 17 regular-season starts in 2025 after taking a league-high 68 sacks as a rookie. Williams has shown a flair for the dramatic late in games, and his ability to produce off-script has been a strength of his. Despite losing receiver DJ Moore in an offseason trade, Williams still has plenty of weapons around him, and if he cleans some stuff up, he could take the next step as a passer for an up-and-coming Bears squad. Williams has plenty of appeal as a midrange to low-end QB1 in fantasy drafts for managers who wait a bit on the position.",
+        "title": "Ben Johnson has More Praise for Caleb Williams",
+        "topic_id": "1401394168860848128",
+        "url": "https://www.rotoballer.com/player-news/ben-johnson-has-more-praise-for-caleb-williams/1922851"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11560",
+      "player_name": "Caleb Williams",
+      "position": "QB",
+      "published": 1788466273000,
+      "source": "rotoballer",
+      "source_key": "220046",
+      "story_id": "nfl|11560|rotoballer|220046|1788466273000",
+      "title": "Ben Johnson has More Praise for Caleb Williams",
+      "url": "https://www.rotoballer.com/player-news/ben-johnson-has-more-praise-for-caleb-williams/1922851"
+    },
+    {
       "analysis": "Hall is still nursing the groin injury he suffered 17 days ago, but he was originally given a return timetable of 2-to-3 weeks and was spotted running without any noticeable issues on a side field last week. Barring any setbacks, it sounds like Hall should be fine for the season opener. Whether he sees his normal workload is another question, as Braelon Allen has looked the part in practice and during limited preseason action, where he rushed seven times for 48 yards (6.9 YPC) and one touchdown.",
       "description": "Hall (groin) is expected to be ready for Week 1 against the Titans on Sunday, Sept. 13, Jack Bell of the Jets' official site reports.",
       "metadata": {
@@ -196,6 +280,26 @@
       "story_id": "nfl|8155|rotowire|636191|1788465964000",
       "title": "Breece Hall - Expected back for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets running back Breece Hall (groin) has been working his way back to full fitness after dealing with a groin injury in training camp this summer, and he is expected to be back and take his place in the starting backfield for Week 1 against the Tennessee Titans on Sunday, Sept. 13, according to Jack Bell of NewYorkJets.com. The 25-year-old former second-rounder from Iowa State is coming off his first 1,000-yard season in 2025 and was rewarded with a three-year, $45.75 million contract extension in May to solidify his position to see the lion's share of the backfield work again in 2026 in a new offense led by veteran quarterback Geno Smith. Hall was seen running on a side field last week, and he should be back at practice with the rest of the team next week as they prepare for the season opener. If Hall has his snaps limited at all in Week 1, Braelon Allen would see a larger piece of the pie, but he will not be a realistic standalone fantasy starter. Hall is a do-it-all back who should see plenty of volume, but the less-than-ideal QB situation in NY makes him more of a high-end RB2 than a low-end RB1 in fantasy drafts.",
+      "metadata": {
+        "description": "New York Jets running back Breece Hall (groin) has been working his way back to full fitness after dealing with a groin injury in training camp this summer, and he is expected to be back and take his place in the starting backfield for Week 1 against the Tennessee Titans on Sunday, Sept. 13, according to Jack Bell of NewYorkJets.com. The 25-year-old former second-rounder from Iowa State is coming off his first 1,000-yard season in 2025 and was rewarded with a three-year, $45.75 million contract extension in May to solidify his position to see the lion's share of the backfield work again in 2026 in a new offense led by veteran quarterback Geno Smith. Hall was seen running on a side field last week, and he should be back at practice with the rest of the team next week as they prepare for the season opener. If Hall has his snaps limited at all in Week 1, Braelon Allen would see a larger piece of the pie, but he will not be a realistic standalone fantasy starter. Hall is a do-it-all back who should see plenty of volume, but the less-than-ideal QB situation in NY makes him more of a high-end RB2 than a low-end RB1 in fantasy drafts.",
+        "title": "Breece Hall Expected to be Ready for Week 1",
+        "topic_id": "1401392909894336512",
+        "url": "https://www.rotoballer.com/player-news/breece-hall-expected-to-be-ready-for-week-1/1922849"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8155",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "published": 1788465845000,
+      "source": "rotoballer",
+      "source_key": "220045",
+      "story_id": "nfl|8155|rotoballer|220045|1788465845000",
+      "title": "Breece Hall Expected to be Ready for Week 1",
+      "url": "https://www.rotoballer.com/player-news/breece-hall-expected-to-be-ready-for-week-1/1922849"
     },
     {
       "analysis": "The 10th overall pick in the 2025 Draft, Loveland had a slow start to his rookie season, coming out of Week 8 with 11 catches total on the campaign and one DNP due to a hip injury. From Week 9 through the Bears' divisional-round loss to the Rams, though, he ran roughshod over opposing defenses, hauling in 59 of 89 targets for 790 yards and six touchdowns in 12 games. Loveland capped that stretch with four consecutive contests with double-digit targets, indicating he left off last season as QB Caleb Williams' top option in the passing game. While Loveland still has to contend with WRs Rome Odunze and Luther Burden (groin) for the attention of Williams, the tight end is poised to make a leap to the NFL's best at the position.",
@@ -1580,10 +1684,10 @@
       "url": "https://www.rotoballer.com/player-news/jadarian-price-should-be-featured-on-early-downs/1922647"
     },
     {
-      "analysis": "Along with most of the Vikings' other key starters, Addison was rested for the final two preseason contests, but he was taking regular reps with the first-team offense throughout camp and will be ready to go for Week 1 against the Packers. As was the case for nearly every Minnesota pass catcher last season, Addison saw his production crater as a result of suspect quarterback play from J.J. McCarthy, Carson Wentz and Max Brosmer, but his fantasy outlook should be improved heading into 2026 while Murray steps in as the Vikings' new starter under center. Over his first two NFL seasons, Addison averaged 4.16 receptions, 55.81 yards and 0.59 touchdowns per game while Kirk Cousins and Sam Darnold served as the Vikings' primary quarterbacks.",
+      "analysis": "Along with most of the Vikings' other key starters, Addison was rested for the final two preseason contests, but he was taking regular reps with the first-team offense throughout camp and will be ready to go for Week 1 against the Packers. As was the case for nearly every Minnesota pass catcher last season, Addison saw his production crater as a result of suspect quarterback play from J.J. McCarthy, Carson Wentz and Max Brosmer, but his fantasy outlook should be improved heading into 2026 while Murray steps in as the Vikings' new starter under center. Over his first two NFL seasons, Addison averaged 4.2 receptions, 55.8 yards and 0.6 touchdowns per game while Kirk Cousins and Sam Darnold served as the Vikings' primary quarterbacks.",
       "description": "Addison provided one of the highlights of the day during the Vikings' final training camp practice Aug. 26, connecting with quarterback Kyler Murray on a toe-dragging, sideline catch, Andrew Krammer of The Minnesota Star Tribune reports.",
       "metadata": {
-        "analysis": "Along with most of the Vikings' other key starters, Addison was rested for the final two preseason contests, but he was taking regular reps with the first-team offense throughout camp and will be ready to go for Week 1 against the Packers. As was the case for nearly every Minnesota pass catcher last season, Addison saw his production crater as a result of suspect quarterback play from J.J. McCarthy, Carson Wentz and Max Brosmer, but his fantasy outlook should be improved heading into 2026 while Murray steps in as the Vikings' new starter under center. Over his first two NFL seasons, Addison averaged 4.16 receptions, 55.81 yards and 0.59 touchdowns per game while Kirk Cousins and Sam Darnold served as the Vikings' primary quarterbacks.",
+        "analysis": "Along with most of the Vikings' other key starters, Addison was rested for the final two preseason contests, but he was taking regular reps with the first-team offense throughout camp and will be ready to go for Week 1 against the Packers. As was the case for nearly every Minnesota pass catcher last season, Addison saw his production crater as a result of suspect quarterback play from J.J. McCarthy, Carson Wentz and Max Brosmer, but his fantasy outlook should be improved heading into 2026 while Murray steps in as the Vikings' new starter under center. Over his first two NFL seasons, Addison averaged 4.2 receptions, 55.8 yards and 0.6 touchdowns per game while Kirk Cousins and Sam Darnold served as the Vikings' primary quarterbacks.",
         "description": "Addison provided one of the highlights of the day during the Vikings' final training camp practice Aug. 26, connecting with quarterback Kyler Murray on a toe-dragging, sideline catch, Andrew Krammer of The Minnesota Star Tribune reports.",
         "title": "Jordan Addison - Makes impressive grab in final camp practice",
         "topic_id": "1401247057192218624"
@@ -1680,10 +1784,10 @@
       "url": "https://www.rotoballer.com/player-news/george-holani-the-seahawks-goal-line-back/1922630"
     },
     {
-      "analysis": "Etienne was one of the few Saints running backs to avoid any sort of injury scare or setback during training camp. Devin Neal (hamstring) and Ty Chandler (knee) will be out for the season after landing on injured reserve, and Alvin Kamara (knee) appears to be trending toward sitting out Week 1. Additionally, Kendre Miller sustained a minor undisclosed injury during practice Tuesday and is day-to-day, while Audric Estime is healthy but missed time in camp due to an ankle issue. After signing a four-year, $52 million deal in March, Etienne had already looked poised to handle a sizable workload for New Orleans both as a lead runner and pass catcher, and the battered condition of his backups following camp and the preseason adds further fuel to the notion that he'll be in line for heavy volume right of the gate.",
+      "analysis": "Etienne was one of the few Saints running backs to avoid any sort of injury scare or setback during training camp. Ty Chandler (knee) is out for the season after landing on injured reserve, and Alvin Kamara (knee) appears to be trending toward sitting out Week 1. Additionally, Kendre Miller sustained a minor undisclosed injury during practice Tuesday and is day-to-day, while Audric Estime is healthy but missed time in camp due to an ankle issue. After signing a four-year, $52 million deal in March, Etienne had already looked poised to handle a sizable workload for New Orleans both as a lead runner and pass catcher, and the current condition of his backups following camp and the preseason adds further fuel to the notion that he'll be in line for heavy volume right of the gate.",
       "description": "Etienne was rested for all three of the Saints' preseason contests and is fully healthy heading into the team's Week 1 game in Detroit.",
       "metadata": {
-        "analysis": "Etienne was one of the few Saints running backs to avoid any sort of injury scare or setback during training camp. Devin Neal (hamstring) and Ty Chandler (knee) will be out for the season after landing on injured reserve, and Alvin Kamara (knee) appears to be trending toward sitting out Week 1. Additionally, Kendre Miller sustained a minor undisclosed injury during practice Tuesday and is day-to-day, while Audric Estime is healthy but missed time in camp due to an ankle issue. After signing a four-year, $52 million deal in March, Etienne had already looked poised to handle a sizable workload for New Orleans both as a lead runner and pass catcher, and the battered condition of his backups following camp and the preseason adds further fuel to the notion that he'll be in line for heavy volume right of the gate.",
+        "analysis": "Etienne was one of the few Saints running backs to avoid any sort of injury scare or setback during training camp. Ty Chandler (knee) is out for the season after landing on injured reserve, and Alvin Kamara (knee) appears to be trending toward sitting out Week 1. Additionally, Kendre Miller sustained a minor undisclosed injury during practice Tuesday and is day-to-day, while Audric Estime is healthy but missed time in camp due to an ankle issue. After signing a four-year, $52 million deal in March, Etienne had already looked poised to handle a sizable workload for New Orleans both as a lead runner and pass catcher, and the current condition of his backups following camp and the preseason adds further fuel to the notion that he'll be in line for heavy volume right of the gate.",
         "description": "Etienne was rested for all three of the Saints' preseason contests and is fully healthy heading into the team's Week 1 game in Detroit.",
         "title": "Travis Etienne - Finishes training camp healthy",
         "topic_id": "1401240765023191040"
@@ -1740,10 +1844,10 @@
       "url": "https://www.rotoballer.com/player-news/an-improved-surrounding-cast-only-strengthens-josh-allens-qb1-case-for-2026/1922609"
     },
     {
-      "analysis": "Though he didn't play at all in the preseason while the Saints instead opened up more reps for backups Spencer Rattler and Zach Wilson, Shough reportedly looked sharp throughout training camp while keeping the New Orleans offense productive. He was able to close out camp on a high note by tossing three touchdown passes during 11-on-11 sessions, and Shough would have had two more had Devaughn Vele secured a one-handed catch in the end zone and had Chris Olave not fumbled near the goal line on another play. New Orleans will be without one of its key playmakers to begin the season in rookie first-round wideout Jordyn Tyson (hamstring), but Shough appeared to build good chemistry with new starting running back Travis Etienne, who was a frequent target of the quarterback during camp practices.",
+      "analysis": "Though he didn't play at all in the preseason while the Saints instead opened up more reps for backups Spencer Rattler and Zach Wilson, Shough reportedly looked sharp throughout training camp while keeping the New Orleans offense productive. Shough was able to close out camp on a high note by tossing three touchdown passes during 11-on-11 sessions, and Shough would have had two more had Devaughn Vele secured a one-handed catch in the end zone and had Chris Olave not fumbled near the goal line on another play. New Orleans will be without one of its key playmakers to begin the season in rookie first-round wideout Jordyn Tyson (hamstring), but Shough appeared to build good chemistry with new starting running back Travis Etienne, who was a frequent target of the quarterback during camp practices.",
       "description": "Shough drew positive reviews for his performance during the Saints' final practice of training camp Aug. 26, Grant Chachere of SI.com reports.",
       "metadata": {
-        "analysis": "Though he didn't play at all in the preseason while the Saints instead opened up more reps for backups Spencer Rattler and Zach Wilson, Shough reportedly looked sharp throughout training camp while keeping the New Orleans offense productive. He was able to close out camp on a high note by tossing three touchdown passes during 11-on-11 sessions, and Shough would have had two more had Devaughn Vele secured a one-handed catch in the end zone and had Chris Olave not fumbled near the goal line on another play. New Orleans will be without one of its key playmakers to begin the season in rookie first-round wideout Jordyn Tyson (hamstring), but Shough appeared to build good chemistry with new starting running back Travis Etienne, who was a frequent target of the quarterback during camp practices.",
+        "analysis": "Though he didn't play at all in the preseason while the Saints instead opened up more reps for backups Spencer Rattler and Zach Wilson, Shough reportedly looked sharp throughout training camp while keeping the New Orleans offense productive. Shough was able to close out camp on a high note by tossing three touchdown passes during 11-on-11 sessions, and Shough would have had two more had Devaughn Vele secured a one-handed catch in the end zone and had Chris Olave not fumbled near the goal line on another play. New Orleans will be without one of its key playmakers to begin the season in rookie first-round wideout Jordyn Tyson (hamstring), but Shough appeared to build good chemistry with new starting running back Travis Etienne, who was a frequent target of the quarterback during camp practices.",
         "description": "Shough drew positive reviews for his performance during the Saints' final practice of training camp Aug. 26, Grant Chachere of SI.com reports.",
         "title": "Tyler Shough - Shines in final camp practice",
         "topic_id": "1401236989394558976"
