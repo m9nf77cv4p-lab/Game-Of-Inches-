@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1872**
+- Stored stories: **1874**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Justin Jefferson** — Justin Jefferson Expected to Benefit From Improved Quarterback Play (2026-09-04T10:15:05Z)
+- **NEW — Bucky Irving** — Bucky Irving a Bounce-Back Candidate with Clean Bill of Health (2026-09-04T10:22:06Z)
+  - Source: https://www.rotoballer.com/player-news/bucky-irving-a-bounce-back-candidate-with-clean-bill-of-health/1923208
+- **NEW — DJ Moore** — DJ Moore Set to Bounce Back with New QB and New Role (2026-09-04T10:19:06Z)
+  - Source: https://www.rotoballer.com/player-news/dj-moore-set-to-bounce-back-with-new-qb-and-new-role/1923204
+- **Justin Jefferson** — Justin Jefferson Expected to Benefit From Improved Quarterback Play (2026-09-04T10:15:05Z)
   - Source: https://www.rotoballer.com/player-news/justin-jefferson-expected-to-benefit-from-improved-quarterback-play/1923180
-- **NEW — Nico Collins** — Nico Collins a Fantasy Riser as Large Target Share Continues to Increase (2026-09-04T10:09:05Z)
+- **Nico Collins** — Nico Collins a Fantasy Riser as Large Target Share Continues to Increase (2026-09-04T10:09:05Z)
   - Source: https://www.rotoballer.com/player-news/nico-collins-a-fantasy-riser-as-large-target-share-continues-to-increase/1923157
 - **Christian McCaffrey** — Christian McCaffrey Remains an Elite Fantasy Option in 2026 (2026-09-04T10:00:05Z)
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-remains-an-elite-fantasy-option-in-2026/1923150
@@ -209,7 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Anthony Richardson** — Anthony Richardson Sr. will be backup QB for Colts (2026-09-03T15:45:06.712000Z)
   - There have been multiple rumors that Richardson might be traded at some point. Some reports have suggested that he may lose out to Riley Leonard for the Colts' backup QB role. Head coach Shane Steichen has put all that to rest, at least for now, making clear Tuesday that Richardson is indeed the top backup to starter Daniel Jones. 
   - Source: https://www.fantasypros.com/nfl/news/605770/anthony-richardson-sr-will-be-backup-qb-colts.php
-- **Tank Bigsby** — Tank Bigsby - Plays 10 preseason snaps (2026-09-03T15:43:07Z)
-  - The fact he was rested for Weeks 2 and 3 of the preseason while Will Shipley played would suggest Bigsby has a firm grip on RB2 duties in Philadelphia behind Saquon Barkley. Barkley is entering his age-29 season with plenty of miles on his proverbial tires, and there's been talk out of Philly that the team wants to get Bigsby more involved to keep Barkley fresh. If something were to happen to him injury-wise, Bigsby would immediately enter the fantasy RB1 conversation in the Eagles' run-heavy offense that features one of the league's best offensive lines, making him the premier bench stash headed into the 2026 campaign.
-- **Calvin Ridley** — Calvin Ridley - Experienced option in young WR room (2026-09-03T15:42:09Z)
-  - Tennessee heads into the season with Carnell Tate (undisclosed), Wan'Dale Robinson (head), Ridley, Chimere Dike and Elic Ayomanor at wide receiver. Of those five players, only Robinson and Ridley have more than one year of NFL experience. Ridley was the team's No. 1 receiver in the early part of last season but finished the year with just 303 receiving yards in seven games, as he missed time due to a hamstring injury and then fractured his fibula. Having recovered from those injuries, the 31-year-old Ridley is in contention for a starting role on the outside opposite Tate, with Robinson likely to work primarily out of the slot.

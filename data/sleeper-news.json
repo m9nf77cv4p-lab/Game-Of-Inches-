@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T14:27:15Z",
+  "last_checked_at": "2026-09-04T14:42:05Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|6794|rotoballer|220070|1788516905000",
-    "nfl|7569|rotoballer|220069|1788516545000"
+    "nfl|11584|rotoballer|220071|1788517326000",
+    "nfl|4983|rotoballer|220072|1788517146000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers running back Bucky Irving is primed to bounce back in fantasy football now that he's fully healthy for the 2026 season. Irving missed a whopping seven games in his second pro season last year, which resulted in him falling to RB34 with just 865 scrimmage yards and four total touchdowns. For context, he had been the RB13 the year prior. Irving is now fully healthy again, giving him a good chance to push for a top-12 finish in fantasy football at the running back position. There are certainly some other mouths to feed here, but as far as the backfield goes, Irving has pretty clearly solidified himself over Kenny Gainwell and Sean Tucker. In fact, the presence of those two other backs could allow the Bucs to manage Irving's workload. Sure, that might lower his ceiling slightly, but it will also reduce injury risk and increase the chance of him playing all 17 games. As it stands, Irving ranks as the RB19 in RotoBaller's latest redraft rankings. He has an ADP of 52.7, which corresponds to the fifth round of fantasy drafts and makes him the 22nd running back off the board.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers running back Bucky Irving is primed to bounce back in fantasy football now that he's fully healthy for the 2026 season. Irving missed a whopping seven games in his second pro season last year, which resulted in him falling to RB34 with just 865 scrimmage yards and four total touchdowns. For context, he had been the RB13 the year prior. Irving is now fully healthy again, giving him a good chance to push for a top-12 finish in fantasy football at the running back position. There are certainly some other mouths to feed here, but as far as the backfield goes, Irving has pretty clearly solidified himself over Kenny Gainwell and Sean Tucker. In fact, the presence of those two other backs could allow the Bucs to manage Irving's workload. Sure, that might lower his ceiling slightly, but it will also reduce injury risk and increase the chance of him playing all 17 games. As it stands, Irving ranks as the RB19 in RotoBaller's latest redraft rankings. He has an ADP of 52.7, which corresponds to the fifth round of fantasy drafts and makes him the 22nd running back off the board.",
+        "title": "Bucky Irving a Bounce-Back Candidate with Clean Bill of Health",
+        "topic_id": "1401609357472317440",
+        "url": "https://www.rotoballer.com/player-news/bucky-irving-a-bounce-back-candidate-with-clean-bill-of-health/1923208"
+      },
+      "nfl_team": "TB",
+      "player_id": "11584",
+      "player_name": "Bucky Irving",
+      "position": "RB",
+      "published": 1788517326000,
+      "source": "rotoballer",
+      "source_key": "220071",
+      "story_id": "nfl|11584|rotoballer|220071|1788517326000",
+      "title": "Bucky Irving a Bounce-Back Candidate with Clean Bill of Health",
+      "url": "https://www.rotoballer.com/player-news/bucky-irving-a-bounce-back-candidate-with-clean-bill-of-health/1923208"
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills wide receiver DJ Moore is expected to bounce back in fantasy football leagues following a change of scenery this past offseason. A fresh start was necessary for Moore, who fell to WR35 in PPR leagues with 50 catches, 682 yards, and six touchdowns. The Bears' offense was definitely trending up, but there simply weren't enough targets to go around in a system that also featured Rome Odunze, Luther Burden III, and Colston Loveland. On the other hand, Buffalo has very little receiver star power, which means that Moore should step up as the team's No. 1 receiver right away. He'll also benefit from a quarterback upgrade, going from Caleb Williams to Josh Allen. Williams is great, but Allen just plays at a completely different level and should help Moore get back to the top-24 receiver range in fantasy football this year. He currently ranks as RotoBaller's WR25 in the latest redraft rankings. He has an ADP of 53.5, which corresponds to the fifth round of fantasy drafts and makes him the 24th receiver off the board.",
+      "metadata": {
+        "description": "Buffalo Bills wide receiver DJ Moore is expected to bounce back in fantasy football leagues following a change of scenery this past offseason. A fresh start was necessary for Moore, who fell to WR35 in PPR leagues with 50 catches, 682 yards, and six touchdowns. The Bears' offense was definitely trending up, but there simply weren't enough targets to go around in a system that also featured Rome Odunze, Luther Burden III, and Colston Loveland. On the other hand, Buffalo has very little receiver star power, which means that Moore should step up as the team's No. 1 receiver right away. He'll also benefit from a quarterback upgrade, going from Caleb Williams to Josh Allen. Williams is great, but Allen just plays at a completely different level and should help Moore get back to the top-24 receiver range in fantasy football this year. He currently ranks as RotoBaller's WR25 in the latest redraft rankings. He has an ADP of 53.5, which corresponds to the fifth round of fantasy drafts and makes him the 24th receiver off the board.",
+        "title": "DJ Moore Set to Bounce Back with New QB and New Role",
+        "topic_id": "1401609357455540224",
+        "url": "https://www.rotoballer.com/player-news/dj-moore-set-to-bounce-back-with-new-qb-and-new-role/1923204"
+      },
+      "nfl_team": "BUF",
+      "player_id": "4983",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "published": 1788517146000,
+      "source": "rotoballer",
+      "source_key": "220072",
+      "story_id": "nfl|4983|rotoballer|220072|1788517146000",
+      "title": "DJ Moore Set to Bounce Back with New QB and New Role",
+      "url": "https://www.rotoballer.com/player-news/dj-moore-set-to-bounce-back-with-new-qb-and-new-role/1923204"
+    },
     {
       "analysis": null,
       "description": "Minnesota Vikings wide receiver Justin Jefferson is expected to have improved quarterback play this season after Kyler Murray was named the team's Week 1 starter. Jefferson endured a revolving quarterback carousel of J.J. McCarthy, Carson Wentz, and Max Brosmer last year, making it impossible for him to reach his full potential in fantasy football. Prior to last year, the only time Jefferson had finished lower than WR6 in fantasy football was the season he missed seven games. However, that trend changed in 2025 as he was healthy for all 17 games but still fell to WR21. The poor quarterback play resulted in him catching 84 passes for 1,048 yards and just two touchdowns. Murray may not be the long-term answer in Minnesota, but he should at least be an upgrade over last year's quarterbacks while helping Jefferson get back into the top-10 receiver range for fantasy football. As it stands, Jefferson ranks as RotoBaller's WR6 in redraft leagues. He is consistently being drafted at the one/two turn in fantasy leagues, which makes him the sixth receiver off the board.",
