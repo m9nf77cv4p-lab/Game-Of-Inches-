@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T14:12:17Z",
+  "last_checked_at": "2026-09-04T14:27:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4034|rotoballer|220068|1788516005000"
+    "nfl|6794|rotoballer|220070|1788516905000",
+    "nfl|7569|rotoballer|220069|1788516545000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings wide receiver Justin Jefferson is expected to have improved quarterback play this season after Kyler Murray was named the team's Week 1 starter. Jefferson endured a revolving quarterback carousel of J.J. McCarthy, Carson Wentz, and Max Brosmer last year, making it impossible for him to reach his full potential in fantasy football. Prior to last year, the only time Jefferson had finished lower than WR6 in fantasy football was the season he missed seven games. However, that trend changed in 2025 as he was healthy for all 17 games but still fell to WR21. The poor quarterback play resulted in him catching 84 passes for 1,048 yards and just two touchdowns. Murray may not be the long-term answer in Minnesota, but he should at least be an upgrade over last year's quarterbacks while helping Jefferson get back into the top-10 receiver range for fantasy football. As it stands, Jefferson ranks as RotoBaller's WR6 in redraft leagues. He is consistently being drafted at the one/two turn in fantasy leagues, which makes him the sixth receiver off the board.",
+      "metadata": {
+        "description": "Minnesota Vikings wide receiver Justin Jefferson is expected to have improved quarterback play this season after Kyler Murray was named the team's Week 1 starter. Jefferson endured a revolving quarterback carousel of J.J. McCarthy, Carson Wentz, and Max Brosmer last year, making it impossible for him to reach his full potential in fantasy football. Prior to last year, the only time Jefferson had finished lower than WR6 in fantasy football was the season he missed seven games. However, that trend changed in 2025 as he was healthy for all 17 games but still fell to WR21. The poor quarterback play resulted in him catching 84 passes for 1,048 yards and just two touchdowns. Murray may not be the long-term answer in Minnesota, but he should at least be an upgrade over last year's quarterbacks while helping Jefferson get back into the top-10 receiver range for fantasy football. As it stands, Jefferson ranks as RotoBaller's WR6 in redraft leagues. He is consistently being drafted at the one/two turn in fantasy leagues, which makes him the sixth receiver off the board.",
+        "title": "Justin Jefferson Expected to Benefit From Improved Quarterback Play",
+        "topic_id": "1401606839992389632",
+        "url": "https://www.rotoballer.com/player-news/justin-jefferson-expected-to-benefit-from-improved-quarterback-play/1923180"
+      },
+      "nfl_team": "MIN",
+      "player_id": "6794",
+      "player_name": "Justin Jefferson",
+      "position": "WR",
+      "published": 1788516905000,
+      "source": "rotoballer",
+      "source_key": "220070",
+      "story_id": "nfl|6794|rotoballer|220070|1788516905000",
+      "title": "Justin Jefferson Expected to Benefit From Improved Quarterback Play",
+      "url": "https://www.rotoballer.com/player-news/justin-jefferson-expected-to-benefit-from-improved-quarterback-play/1923180"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Nico Collins was already viewed as a strong WR1 in fantasy football entering the preseason, but his stock continues to rise now that Jayden Higgins (knee) has been ruled out for the season. Higgins was on the inside track to being the Texans' No. 2 receiver this year, so his season-ending injury creates plenty of vacated targets. Many of those targets will now go to Collins, who was the overall WR8 last year and has been a top-12 fantasy receiver in two of the last three seasons. In 2025, he converted a career-high 120 targets into 71 catches, 1,117 yards, and six touchdowns. The quality of play from quarterback C.J. Stroud will determine Collins' exact fantasy outlook and upside, but for now, we'd expect that the loss of Higgins will boost Collins' fantasy stock. As it stands, he has an ADP of 21.8, which corresponds to the second round of fantasy drafts and makes him the 10th receiver off the board.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Nico Collins was already viewed as a strong WR1 in fantasy football entering the preseason, but his stock continues to rise now that Jayden Higgins (knee) has been ruled out for the season. Higgins was on the inside track to being the Texans' No. 2 receiver this year, so his season-ending injury creates plenty of vacated targets. Many of those targets will now go to Collins, who was the overall WR8 last year and has been a top-12 fantasy receiver in two of the last three seasons. In 2025, he converted a career-high 120 targets into 71 catches, 1,117 yards, and six touchdowns. The quality of play from quarterback C.J. Stroud will determine Collins' exact fantasy outlook and upside, but for now, we'd expect that the loss of Higgins will boost Collins' fantasy stock. As it stands, he has an ADP of 21.8, which corresponds to the second round of fantasy drafts and makes him the 10th receiver off the board.",
+        "title": "Nico Collins a Fantasy Riser as Large Target Share Continues to Increase",
+        "topic_id": "1401605581936005120",
+        "url": "https://www.rotoballer.com/player-news/nico-collins-a-fantasy-riser-as-large-target-share-continues-to-increase/1923157"
+      },
+      "nfl_team": "HOU",
+      "player_id": "7569",
+      "player_name": "Nico Collins",
+      "position": "WR",
+      "published": 1788516545000,
+      "source": "rotoballer",
+      "source_key": "220069",
+      "story_id": "nfl|7569|rotoballer|220069|1788516545000",
+      "title": "Nico Collins a Fantasy Riser as Large Target Share Continues to Increase",
+      "url": "https://www.rotoballer.com/player-news/nico-collins-a-fantasy-riser-as-large-target-share-continues-to-increase/1923157"
+    },
     {
       "analysis": null,
       "description": "San Francisco 49ers star running back Christian McCaffrey is aiming to overcome the \"400-touch rule\" in 2026. McCaffrey was incredible in 2025, totaling 311 carries for 1,202 yards and 10 touchdowns, and adding 102 receptions for 924 yards and seven touchdowns through the air. Despite not being efficient on the ground last season, McCaffrey made up for it with elite receiving production, and he is the main reason fantasy managers should not fade the star this season. Now, fantasy managers are worried about the health of the 30-year-old back after a massive workload last season, but he's never faced a major injury that required a lengthy recovery. The addition of Kaelon Black as the backup running back shouldn't affect McCaffrey's receiving or goal-line workload. If the 49ers star running back stays healthy in 2026, he will be a contender for the RB1 overall.",

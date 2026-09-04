@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1870**
-- Newly captured: **1**
+- Stored stories: **1872**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Christian McCaffrey** — Christian McCaffrey Remains an Elite Fantasy Option in 2026 (2026-09-04T10:00:05Z)
+- **NEW — Justin Jefferson** — Justin Jefferson Expected to Benefit From Improved Quarterback Play (2026-09-04T10:15:05Z)
+  - Source: https://www.rotoballer.com/player-news/justin-jefferson-expected-to-benefit-from-improved-quarterback-play/1923180
+- **NEW — Nico Collins** — Nico Collins a Fantasy Riser as Large Target Share Continues to Increase (2026-09-04T10:09:05Z)
+  - Source: https://www.rotoballer.com/player-news/nico-collins-a-fantasy-riser-as-large-target-share-continues-to-increase/1923157
+- **Christian McCaffrey** — Christian McCaffrey Remains an Elite Fantasy Option in 2026 (2026-09-04T10:00:05Z)
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-remains-an-elite-fantasy-option-in-2026/1923150
 - **Courtland Sutton** — Courtland Sutton Faces Major Target Competition in 2026 (2026-09-04T09:47:06Z)
   - Source: https://www.rotoballer.com/player-news/courtland-sutton-faces-major-target-competition-in-2026/1923144
@@ -209,7 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The fact he was rested for Weeks 2 and 3 of the preseason while Will Shipley played would suggest Bigsby has a firm grip on RB2 duties in Philadelphia behind Saquon Barkley. Barkley is entering his age-29 season with plenty of miles on his proverbial tires, and there's been talk out of Philly that the team wants to get Bigsby more involved to keep Barkley fresh. If something were to happen to him injury-wise, Bigsby would immediately enter the fantasy RB1 conversation in the Eagles' run-heavy offense that features one of the league's best offensive lines, making him the premier bench stash headed into the 2026 campaign.
 - **Calvin Ridley** — Calvin Ridley - Experienced option in young WR room (2026-09-03T15:42:09Z)
   - Tennessee heads into the season with Carnell Tate (undisclosed), Wan'Dale Robinson (head), Ridley, Chimere Dike and Elic Ayomanor at wide receiver. Of those five players, only Robinson and Ridley have more than one year of NFL experience. Ridley was the team's No. 1 receiver in the early part of last season but finished the year with just 303 receiving yards in seven games, as he missed time due to a hamstring injury and then fractured his fibula. Having recovered from those injuries, the 31-year-old Ridley is in contention for a starting role on the outside opposite Tate, with Robinson likely to work primarily out of the slot.
-- **Juwan Johnson** — Juwan Johnson - Doesn't play during preseason (2026-09-03T15:36:27Z)
-  - Johnson is locked in atop the depth chart at tight end for New Orleans, and with Jordyn Tyson (hamstring) set to miss at least the first four games of the season and no clear WR2 on the roster, Johnson could have a significant pass-catching role out of the gates. Tyler Shough has already predicted a big season for his former college teammate after Johnson was fantasy's overall TE5 in yards per game and TE8 in catches per game following last season's Rashid Shaheed trade ahead of Week 10. Turning 30 years old Sept. 13, Johnson is coming off a 77-889-3 campaign on 102 targets last season.
-- **TreVeyon Henderson** — TreVeyon Henderson Missing From Thursday's Practice (2026-09-03T15:35:10Z)
-  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-missing-from-thursdays-practice/1922706
