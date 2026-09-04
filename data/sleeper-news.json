@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T20:49:53Z",
+  "last_checked_at": "2026-09-04T20:59:50Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12522|rotoballer|220102|1788539475000",
-    "nfl|13414|rotoballer|220103|1788539935000",
-    "nfl|7525|rotowire|636273|1788554404000"
+    "nfl|11783|rotoballer|220104|1788540430000"
   ],
   "schema_version": 1,
   "source": {
@@ -234,6 +232,26 @@
       "story_id": "nfl|11566|rotowire|636261|1788542526000",
       "title": "Jayden Daniels - One possession in preseason",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver Ryan Flournoy established a role in his team's passing game in 2025, recording 40 catches for 475 yards and four touchdowns on 56 targets across 16 games (four starts). Flournoy has a pair of high-volume target earners ahead of him on the Cowboys wide receiver depth chart in CeeDee Lamb and George Pickens, which may make it difficult for him to provide consistently fantasy-relevant production. However, Flournoy routinely garnered praise from both Cowboys coaches and reporters for his work throughout training camp and the preseason. If either Lamb or Pickens goes down with an injury for any stretch of time in 2026, Flournoy could immediately step into a high-value role in Dallas. As a late-round draft target, Flournoy should be on the radar of fantasy managers.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver Ryan Flournoy established a role in his team's passing game in 2025, recording 40 catches for 475 yards and four touchdowns on 56 targets across 16 games (four starts). Flournoy has a pair of high-volume target earners ahead of him on the Cowboys wide receiver depth chart in CeeDee Lamb and George Pickens, which may make it difficult for him to provide consistently fantasy-relevant production. However, Flournoy routinely garnered praise from both Cowboys coaches and reporters for his work throughout training camp and the preseason. If either Lamb or Pickens goes down with an injury for any stretch of time in 2026, Flournoy could immediately step into a high-value role in Dallas. As a late-round draft target, Flournoy should be on the radar of fantasy managers.",
+        "title": "Ryan Flournoy an Intriguing Late-Round Target Amidst Training Camp Buzz",
+        "topic_id": "1401704994419318784",
+        "url": "https://www.rotoballer.com/player-news/ryan-flournoy-an-intriguing-late-round-target-amidst-training-camp-buzz/1923506"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11783",
+      "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "published": 1788540430000,
+      "source": "rotoballer",
+      "source_key": "220104",
+      "story_id": "nfl|11783|rotoballer|220104|1788540430000",
+      "title": "Ryan Flournoy an Intriguing Late-Round Target Amidst Training Camp Buzz",
+      "url": "https://www.rotoballer.com/player-news/ryan-flournoy-an-intriguing-late-round-target-amidst-training-camp-buzz/1923506"
     },
     {
       "analysis": null,

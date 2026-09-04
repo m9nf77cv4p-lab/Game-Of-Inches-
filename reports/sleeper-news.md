@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1919**
-- Newly captured: **3**
+- Stored stories: **1920**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — DeVonta Smith** — DeVonta Smith - Logs no preseason action (2026-09-04T20:40:04Z)
+- **DeVonta Smith** — DeVonta Smith - Logs no preseason action (2026-09-04T20:40:04Z)
   - Smith picked up a hamstring injury early on in training camp that kept him sidelined for the Eagles' first two exhibitions. After logging a full practice Aug. 24, he had put the issue behind him, but he still rested with the rest of the starters in the team's exhibition finale. With A.J. Brown getting traded to the Patriots this offseason, Smith is positioned as Philadelphia's No. 1 WR, while Dontayvion Wicks, rookie first-rounder Makai Lemon and Hollywood Brown are the next players up at the position.
 - **Denzel Boston** — Denzel Boston - Gets first-team billing on depth chart (2026-09-04T20:15:16Z)
   - The 39th overall pick in the 2026 Draft, Boston combined for one catch (on two targets) for 15 yards on 37 offensive snaps between his two appearances during the preseason. The output was nothing to write home about, but he appears set to be one of starting QB Deshaun Watson's key pass catchers to begin the campaign.
@@ -29,12 +29,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After a four-year stint to begin his career in Tennessee, Okonkwo moved on to Washington via free agency this offseason, agreeing to a three-year, $27 million contract. Considering the investment made in him, it's no surprise he's listed as a first-teamer ahead of the 2026 campaign, and with lacking competition behind him for targets in the form of John Bates (hamstring), Ben Sinnott (oblique) and Colson Yankoff, Okonkwo is poised to serve as the top TE for QB Jayden Daniels.
 - **Jayden Daniels** — Jayden Daniels - One possession in preseason (2026-09-04T17:22:06Z)
   - Daniels suited up for preseason Week 2 at Detroit, but Washington's offense quickly went three-and-out via the aforementioned incompletion, a sack for a loss of 10 yards and an 11-yard Kaytron Allen run. Daniels otherwise remained on the sideline for the rest of exhibition season. After an outstanding rookie campaign in 2024, he endured an injury-plagued 2025, completing just 60.6 percent of his passes for 1,262 yards, eight touchdowns and three interceptions and rushing 58 times for 278 yards and two more TDs in seven appearances.
-- **NEW — Kaelon Black** — Kaelon Black a Premier Handcuff Running Back Worth Targeting in Drafts (2026-09-04T16:38:55Z)
+- **NEW — Ryan Flournoy** — Ryan Flournoy an Intriguing Late-Round Target Amidst Training Camp Buzz (2026-09-04T16:47:10Z)
+  - Source: https://www.rotoballer.com/player-news/ryan-flournoy-an-intriguing-late-round-target-amidst-training-camp-buzz/1923506
+- **Kaelon Black** — Kaelon Black a Premier Handcuff Running Back Worth Targeting in Drafts (2026-09-04T16:38:55Z)
   - Source: https://www.rotoballer.com/player-news/kaelon-black-a-premier-handcuff-running-back-worth-targeting-in-drafts/1923502
 - **Jake Ferguson** — Jake Ferguson restructures contract with Cowboys  (2026-09-04T16:35:22.706000Z)
   - Ferguson's $7.25 million base salary was turned into a signing bonus. The Cowboys now have $33.2 million in salary cap space. 
   - Source: https://www.fantasypros.com/nfl/news/605912/jake-ferguson-restructures-contract-with-cowboys.php
-- **NEW — Cam Ward** — Robert Saleh is Convinced Cam Ward Will Turn it Around (2026-09-04T16:31:15Z)
+- **Cam Ward** — Robert Saleh is Convinced Cam Ward Will Turn it Around (2026-09-04T16:31:15Z)
   - Source: https://www.rotoballer.com/player-news/robert-saleh-is-convinced-cam-ward-will-turn-it-around/1923486
 - **Tony Pollard** — Tony Pollard a High-Floor RB Due to Projectable Workload Volume (2026-09-04T16:26:09Z)
   - Source: https://www.rotoballer.com/player-news/tony-pollard-a-high-floor-running-back-option-due-to-projectable-workload-volume/1923470
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Hall is still nursing the groin injury he suffered 17 days ago, but he was originally given a return timetable of 2-to-3 weeks and was spotted running without any noticeable issues on a side field last week. Barring any setbacks, it sounds like Hall should be fine for the season opener. Whether he sees his normal workload is another question, as Braelon Allen has looked the part in practice and during limited preseason action, where he rushed seven times for 48 yards (6.9 YPC) and one touchdown.
 - **Breece Hall** — Breece Hall Expected to be Ready for Week 1 (2026-09-03T20:04:05Z)
   - Source: https://www.rotoballer.com/player-news/breece-hall-expected-to-be-ready-for-week-1/1922849
-- **Colston Loveland** — Colston Loveland - Listed as starter on depth chart (2026-09-03T19:50:58Z)
-  - The 10th overall pick in the 2025 Draft, Loveland had a slow start to his rookie season, coming out of Week 8 with 11 catches total on the campaign and one DNP due to a hip injury. From Week 9 through the Bears' divisional-round loss to the Rams, though, he ran roughshod over opposing defenses, hauling in 59 of 89 targets for 790 yards and six touchdowns in 12 games. Loveland capped that stretch with four consecutive contests with double-digit targets, indicating he left off last season as QB Caleb Williams' top option in the passing game. While Loveland still has to contend with WRs Rome Odunze and Luther Burden (groin) for the attention of Williams, the tight end is poised to make a leap to the NFL's best at the position.
