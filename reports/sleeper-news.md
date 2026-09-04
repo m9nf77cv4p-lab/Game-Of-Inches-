@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1839**
-- Newly captured: **5**
+- Stored stories: **1840**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jalen Coker** — Jalen Coker - Listed as starting WR (2026-09-04T00:03:24Z)
+- **NEW — D'Andre Swift** — D'Andre Swift - Believed to be dealing with cramp (2026-09-04T00:32:02Z)
+  - Swift was reportedly "in significant discomfort" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will head into Week 1 carrying an injury designation, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injured list, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.
+- **Jalen Coker** — Jalen Coker - Listed as starting WR (2026-09-04T00:03:24Z)
   - Despite going undrafted in 2024, Coker has made his presence felt through two pro campaigns, resulting in 65 catches (on 89 targets) for 872 yards and five touchdowns in 22 regular-season games. His defining moment of sorts occurred the last time he was on the field for a contest that counts, when he torched the Rams for 9-134-1 on 12 targets in a wild-card loss. Coker will continue to operate as a complementary option to No. 1 WR Tetairoa McMillan for QB Bryce Young in 2026.
-- **NEW — Bryce Young** — Bryce Young - Working with new play caller (2026-09-03T23:55:01Z)
+- **Bryce Young** — Bryce Young - Working with new play caller (2026-09-03T23:55:01Z)
   - Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as "aggressive, which is huge for us." The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.
 - **Rome Odunze** — Rome Odunze - Seemingly avoids serious setback (2026-09-03T22:57:05Z)
   - Odunze exited in the first hour of Thursday's session, but despite attempting to stay on the field, he was escorted off of it with team trainers. Wiederer's report seems to back up that Odunze's new health concern isn't a serious one, but he'll still enter Week 1 prep with a question mark regarding his status. With fellow WR Luther Burden also tending to a groin injury, the Bears currently have only Kalif Raymond, Zavion Thomas and Jahdae Walker as healthy options at the position on the active roster.
@@ -31,13 +33,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) still not practicing Thursday  (2026-09-03T20:20:08.899000Z)
   - Henderson has not practiced since August 24 when he sustained the injury. His status is up in the air for the season opener next Wednesday. 
   - Source: https://www.fantasypros.com/nfl/news/605824/treveyon-henderson-ankle-still-not-practicing-thursday.php
-- **NEW — Kyle Monangai** — Kyle Monangai Does Not Practice on Thursday (2026-09-03T20:20:06Z)
+- **Kyle Monangai** — Kyle Monangai Does Not Practice on Thursday (2026-09-03T20:20:06Z)
   - Source: https://www.rotoballer.com/player-news/kyle-monangai-does-not-practice-on-thursday/1922854
-- **NEW — Caleb Williams** — Ben Johnson has More Praise for Caleb Williams (2026-09-03T20:11:13Z)
+- **Caleb Williams** — Ben Johnson has More Praise for Caleb Williams (2026-09-03T20:11:13Z)
   - Source: https://www.rotoballer.com/player-news/ben-johnson-has-more-praise-for-caleb-williams/1922851
 - **Breece Hall** — Breece Hall - Expected back for Week 1 (2026-09-03T20:06:04Z)
   - Hall is still nursing the groin injury he suffered 17 days ago, but he was originally given a return timetable of 2-to-3 weeks and was spotted running without any noticeable issues on a side field last week. Barring any setbacks, it sounds like Hall should be fine for the season opener. Whether he sees his normal workload is another question, as Braelon Allen has looked the part in practice and during limited preseason action, where he rushed seven times for 48 yards (6.9 YPC) and one touchdown.
-- **NEW — Breece Hall** — Breece Hall Expected to be Ready for Week 1 (2026-09-03T20:04:05Z)
+- **Breece Hall** — Breece Hall Expected to be Ready for Week 1 (2026-09-03T20:04:05Z)
   - Source: https://www.rotoballer.com/player-news/breece-hall-expected-to-be-ready-for-week-1/1922849
 - **Colston Loveland** — Colston Loveland - Listed as starter on depth chart (2026-09-03T19:50:58Z)
   - The 10th overall pick in the 2025 Draft, Loveland had a slow start to his rookie season, coming out of Week 8 with 11 catches total on the campaign and one DNP due to a hip injury. From Week 9 through the Bears' divisional-round loss to the Rams, though, he ran roughshod over opposing defenses, hauling in 59 of 89 targets for 790 yards and six touchdowns in 12 games. Loveland capped that stretch with four consecutive contests with double-digit targets, indicating he left off last season as QB Caleb Williams' top option in the passing game. While Loveland still has to contend with WRs Rome Odunze and Luther Burden (groin) for the attention of Williams, the tight end is poised to make a leap to the NFL's best at the position.
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/cardinals-michael-wilson-agree-on-three-year-extension/1922595
 - **Zay Flowers** — Zay Flowers Dressed for Thursday's Practice (2026-09-03T12:34:07Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-dressed-for-thursdays-practice/1922584
-- **Malik Willis** — Malik Willis' Passing Progress Raises His Fantasy Ceiling (2026-09-03T12:24:10Z)
-  - Source: https://www.rotoballer.com/player-news/malik-willis-passing-progress-raises-his-fantasy-ceiling/1922565

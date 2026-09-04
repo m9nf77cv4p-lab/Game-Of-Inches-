@@ -1,13 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T00:25:17Z",
+  "last_checked_at": "2026-09-04T00:42:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11560|rotoballer|220046|1788466273000",
-    "nfl|11646|rotowire|636209|1788480204000",
-    "nfl|12534|rotoballer|220047|1788466806000",
-    "nfl|8155|rotoballer|220045|1788465845000",
-    "nfl|9228|rotowire|636206|1788479701000"
+    "nfl|6790|rotowire|636216|1788481922000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Swift was reportedly \"in significant discomfort\" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will head into Week 1 carrying an injury designation, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injured list, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.",
+      "description": "Swift (abdomen) is believed to have left Thursday's practice with \"a cramp,\" Adam Schefter of ESPN reports.",
+      "metadata": {
+        "analysis": "Swift was reportedly \"in significant discomfort\" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will head into Week 1 carrying an injury designation, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injured list, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.",
+        "description": "Swift (abdomen) is believed to have left Thursday's practice with \"a cramp,\" Adam Schefter of ESPN reports.",
+        "title": "D'Andre Swift - Believed to be dealing with cramp",
+        "topic_id": "1401399204957433856"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1788481922000,
+      "source": "rotowire",
+      "source_key": "636216",
+      "story_id": "nfl|6790|rotowire|636216|1788481922000",
+      "title": "D'Andre Swift - Believed to be dealing with cramp",
+      "url": null
+    },
     {
       "analysis": "Despite going undrafted in 2024, Coker has made his presence felt through two pro campaigns, resulting in 65 catches (on 89 targets) for 872 yards and five touchdowns in 22 regular-season games. His defining moment of sorts occurred the last time he was on the field for a contest that counts, when he torched the Rams for 9-134-1 on 12 targets in a wild-card loss. Coker will continue to operate as a complementary option to No. 1 WR Tetairoa McMillan for QB Bryce Young in 2026.",
       "description": "Coker is listed as a starting wide receiver on the Panthers' unofficial depth chart.",
