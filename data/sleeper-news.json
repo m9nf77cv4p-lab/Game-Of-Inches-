@@ -1,12 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T20:26:02Z",
+  "last_checked_at": "2026-09-04T20:39:41Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13346|rotowire|636271|1788552916000",
-    "nfl|6797|rotoballer|220099|1788538745000",
-    "nfl|9225|rotoballer|220098|1788538145000",
-    "nfl|9754|rotoballer|220100|1788538580000"
+    "nfl|5967|rotoballer|220101|1788539169000"
   ],
   "schema_version": 1,
   "source": {
@@ -238,6 +235,26 @@
       "url": "https://www.fantasypros.com/nfl/news/605912/jake-ferguson-restructures-contract-with-cowboys.php"
     },
     {
+      "analysis": null,
+      "description": "Across 17 games in 2025, Tennessee Titans running back Tony Pollard recorded 1,288 yards from scrimmage and five touchdowns on 275 touches. The 29-year-old has quietly been one of the NFL's most consistent running backs in recent years, recording at least 1,000 rushing yards and 1,250 scrimmage yards in four consecutive seasons. Pollard has also been exceptionally durable, missing just two games in that stretch. While playing in subpar Tennessee offenses, Pollard's fantasy value has been held down by his lack of red zone opportunities. However, the Titans project to be a more dangerous offense in 2026 with Brian Daboll now calling plays and quarterback Cam Ward entering his second NFL season. Fellow Titans back Tyjae Spears will steal some work from Pollard, but Pollard has averaged over 17 touches per game while sharing a backfield with Spears over the past two seasons. As a steady low-end RB2/high-end flex, Pollard may be undervalued in fantasy drafts entering 2026.",
+      "metadata": {
+        "description": "Across 17 games in 2025, Tennessee Titans running back Tony Pollard recorded 1,288 yards from scrimmage and five touchdowns on 275 touches. The 29-year-old has quietly been one of the NFL's most consistent running backs in recent years, recording at least 1,000 rushing yards and 1,250 scrimmage yards in four consecutive seasons. Pollard has also been exceptionally durable, missing just two games in that stretch. While playing in subpar Tennessee offenses, Pollard's fantasy value has been held down by his lack of red zone opportunities. However, the Titans project to be a more dangerous offense in 2026 with Brian Daboll now calling plays and quarterback Cam Ward entering his second NFL season. Fellow Titans back Tyjae Spears will steal some work from Pollard, but Pollard has averaged over 17 touches per game while sharing a backfield with Spears over the past two seasons. As a steady low-end RB2/high-end flex, Pollard may be undervalued in fantasy drafts entering 2026.",
+        "title": "Tony Pollard a High-Floor Running Back Option Due to Projectable Workload Volume",
+        "topic_id": "1401701219595976704",
+        "url": "https://www.rotoballer.com/player-news/tony-pollard-a-high-floor-running-back-option-due-to-projectable-workload-volume/1923470"
+      },
+      "nfl_team": "TEN",
+      "player_id": "5967",
+      "player_name": "Tony Pollard",
+      "position": "RB",
+      "published": 1788539169000,
+      "source": "rotoballer",
+      "source_key": "220101",
+      "story_id": "nfl|5967|rotoballer|220101|1788539169000",
+      "title": "Tony Pollard a High-Floor Running Back Option Due to Projectable Workload Volume",
+      "url": "https://www.rotoballer.com/player-news/tony-pollard-a-high-floor-running-back-option-due-to-projectable-workload-volume/1923470"
+    },
+    {
       "analysis": "The move saves Houston $2 million against the cap. Dell is nearing his return from a gruesome knee injury he suffered late in the 2024 season. ",
       "description": "The Texans agreed to terms with Tank Dell on a one-year, $1.7 million contract restructure.",
       "metadata": {
@@ -284,7 +301,7 @@
       "description": "Across 16 games in 2025, Los Angeles Chargers quarterback Justin Herbert completed 66.4% of his pass attempts for 3,727 yards, 26 touchdowns, and 13 interceptions. The 28-year-old also rushed for a career-high 498 yards and two touchdowns on 83 attempts, which helped him finish the year as the fantasy QB10 in both overall and per-game scoring. Entering 2026, there's reason to believe Herbert could be well-positioned to top 4,000 passing yards for the first time since 2022. The Chargers have a new offensive coordinator in former Miami Dolphins head coach Mike McDaniel, who should help open up the offense with more explosive plays down the field. Herbert also has a much healthier offensive line in front of him and an extremely talented group of offensive weapons to throw the ball to. As long as he stays healthy, Herbert has a chance to put together his most productive statistical season since 2021, when he threw for 5,014 yards and 35 touchdowns.",
       "metadata": {
         "description": "Across 16 games in 2025, Los Angeles Chargers quarterback Justin Herbert completed 66.4% of his pass attempts for 3,727 yards, 26 touchdowns, and 13 interceptions. The 28-year-old also rushed for a career-high 498 yards and two touchdowns on 83 attempts, which helped him finish the year as the fantasy QB10 in both overall and per-game scoring. Entering 2026, there's reason to believe Herbert could be well-positioned to top 4,000 passing yards for the first time since 2022. The Chargers have a new offensive coordinator in former Miami Dolphins head coach Mike McDaniel, who should help open up the offense with more explosive plays down the field. Herbert also has a much healthier offensive line in front of him and an extremely talented group of offensive weapons to throw the ball to. As long as he stays healthy, Herbert has a chance to put together his most productive statistical season since 2021, when he threw for 5,014 yards and 35 touchdowns.",
-        "title": "Justin Herbert Poised for Career Year Following Coaching Changes in Los Angeles?",
+        "title": "Justin Herbert Poised for Career Year Following Coaching Changes?",
         "topic_id": "1401698702833258496",
         "url": "https://www.rotoballer.com/player-news/justin-herbert-poised-for-career-year-following-coaching-changes-in-los-angeles/1923457"
       },
@@ -296,7 +313,7 @@
       "source": "rotoballer",
       "source_key": "220099",
       "story_id": "nfl|6797|rotoballer|220099|1788538745000",
-      "title": "Justin Herbert Poised for Career Year Following Coaching Changes in Los Angeles?",
+      "title": "Justin Herbert Poised for Career Year Following Coaching Changes?",
       "url": "https://www.rotoballer.com/player-news/justin-herbert-poised-for-career-year-following-coaching-changes-in-los-angeles/1923457"
     },
     {

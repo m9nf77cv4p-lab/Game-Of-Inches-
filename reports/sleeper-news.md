@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1916**
-- Newly captured: **4**
+- Stored stories: **1917**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Denzel Boston** — Denzel Boston - Gets first-team billing on depth chart (2026-09-04T20:15:16Z)
+- **Denzel Boston** — Denzel Boston - Gets first-team billing on depth chart (2026-09-04T20:15:16Z)
   - The 39th overall pick in the 2026 Draft, Boston combined for one catch (on two targets) for 15 yards on 37 offensive snaps between his two appearances during the preseason. The output was nothing to write home about, but he appears set to be one of starting QB Deshaun Watson's key pass catchers to begin the campaign.
 - **Cam Ward** — Cam Ward - Working out kinks with Daboll (2026-09-04T20:05:17Z)
   - The first overall pick in the 2025 Draft, Ward started all 17 regular-season games as a rookie, completing 323 of 540 passes (59.8 percent) for 3,169 yards, 15 touchdowns and seven interceptions while turning 39 carries into 159 yards and two more TDs. He also fumbled 11 times, losing seven of them. The Titans added WR Carnell Tate in the first round of this year's draft and also signed WR Wan'Dale Robinson to a four-year, $70 million deal in the offseason, so Ward does have a bit more support as he enters his second pro campaign. Whether or not that helps Ward cut down on mistakes remains to be seen.
@@ -30,17 +30,19 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jake Ferguson** — Jake Ferguson restructures contract with Cowboys  (2026-09-04T16:35:22.706000Z)
   - Ferguson's $7.25 million base salary was turned into a signing bonus. The Cowboys now have $33.2 million in salary cap space. 
   - Source: https://www.fantasypros.com/nfl/news/605912/jake-ferguson-restructures-contract-with-cowboys.php
+- **NEW — Tony Pollard** — Tony Pollard a High-Floor Running Back Option Due to Projectable Workload Volume (2026-09-04T16:26:09Z)
+  - Source: https://www.rotoballer.com/player-news/tony-pollard-a-high-floor-running-back-option-due-to-projectable-workload-volume/1923470
 - **Tank Dell** — Tank Dell restructures contract with Texans (2026-09-04T16:25:23.335000Z)
   - The move saves Houston $2 million against the cap. Dell is nearing his return from a gruesome knee injury he suffered late in the 2024 season. 
   - Source: https://www.fantasypros.com/nfl/news/605908/tank-dell-restructures-contract-with-texans.php
 - **D'Andre Swift** — D'Andre Swift left practice Thursday with a cramp  (2026-09-04T16:25:23.025000Z)
   - Swift was seen leaving practice "holding at his midsection or core area." It appears he should be good to go for the season opener next week. 
   - Source: https://www.fantasypros.com/nfl/news/605907/dandre-swift-left-practice-thursday-with-cramp.php
-- **NEW — Justin Herbert** — Justin Herbert Poised for Career Year Following Coaching Changes in Los Angeles? (2026-09-04T16:19:05Z)
+- **Justin Herbert** — Justin Herbert Poised for Career Year Following Coaching Changes? (2026-09-04T16:19:05Z)
   - Source: https://www.rotoballer.com/player-news/justin-herbert-poised-for-career-year-following-coaching-changes-in-los-angeles/1923457
-- **NEW — Quentin Johnston** — Quentin Johnston Has a Chance to Take Another Step Forward (2026-09-04T16:16:20Z)
+- **Quentin Johnston** — Quentin Johnston Has a Chance to Take Another Step Forward (2026-09-04T16:16:20Z)
   - Source: https://www.rotoballer.com/player-news/quentin-johnston-has-a-chance-to-take-another-step-forward/1923453
-- **NEW — Tank Bigsby** — Tank Bigsby a Priority Handcuff Running Back Option Entering 2026 (2026-09-04T16:09:05Z)
+- **Tank Bigsby** — Tank Bigsby a Priority Handcuff Running Back Option Entering 2026 (2026-09-04T16:09:05Z)
   - Source: https://www.rotoballer.com/player-news/tank-bigsby-a-priority-handcuff-running-back-option-entering-2026/1923446
 - **Tank Dell** — Tank Dell - Takes pay cut from Houston (2026-09-04T15:55:44Z)
   - Entering the final year of his rookie deal, Dell was scheduled to collect $3.624 million, but he'll now make just over $1.7 million in 2026. Dell missed the entirety of the 2025 campaign after a catastrophic knee injury suffered toward the end of the previous season. He's now opening this season on injured reserve and won't be eligible to play until Week 5 at the earliest.
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Odunze was able to play through listed ankle and heel injuries through Week 13 last season, but a stress fracture in his foot sidelined him Weeks 14-18 before he returned for Chicago's two postseason contests. In 14 appearances including playoffs, he posted a 48-749-6 line on 102 targets, recording 13 receptions of 20-plus yards along the way. As the ninth overall pick in the 2024 Draft, Odunze has a 51.3 percent catch rate (98 for 191) in his two-year career, but he's made up for it with 14.2 YPC. If the aforementioned foot injury is a thing of the past, Odunze will remain a key target for QB Caleb Williams along with TE Colston Loveland and WR Luther Burden (groin) in 2026.
 - **Caleb Williams** — Caleb Williams - Coach talks him up (2026-09-03T19:23:55Z)
   - Williams played just one possession during exhibition season, leading the Bears to a Cairo Santos field goal to kick off preseason Week 2 at Cincinnati. The performance (2-for-5 passing for 28 yards, no TDs and no interceptions) was nothing to write home about, but Williams is set to take another step forward in his development in 2026. There are two question marks within Chicago's skill positions as Week 1 approaches: RB Kyle Monangai is attempting to put a hyperextended knee behind him, while WR Luther Burden is continuing his recovery from an early August groin injury. Having said that, Williams still has the healthy trio of RB D'Andre Swift, WR Rome Odunze and TE Colston Loveland at his services, so the QB's first 4,000-yard season through the air may be on the horizon.
-- **TreVeyon Henderson** — TreVeyon Henderson - Sits out Thursday's practice (2026-09-03T19:02:14Z)
-  - Henderson has been sidelined for the last 10 days, and while there's been no indication he's dealing with a serious injury, it's starting to get close to the wire for Henderson to play in next Wednesday's regular-season opener against the Seahawks. Henderson will almost certainly need to return to practice before Monday to have a chance to face Seattle. If he can't go in Week 1, Rhamondre Stevenson would get a huge fantasy boost as a surefire RB2 based on volume projection.
