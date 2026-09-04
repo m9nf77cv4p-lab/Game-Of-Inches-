@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T16:00:05Z",
+  "last_checked_at": "2026-09-04T16:18:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|5849|rotoballer|220079|1788522579000",
-    "nfl|6783|rotowire|636259|1788537087000",
-    "nfl|8112|rotoballer|220078|1788522162000"
+    "nfl|7526|rotoballer|220080|1788523092000",
+    "nfl|9502|rotowire|636260|1788537344000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Entering the final year of his rookie deal, Dell was scheduled to collect $3.624 million, but he'll now make just over $1.7 million in 2026. Dell missed the entirety of the 2025 campaign after a catastrophic knee injury suffered toward the end of the previous season. He's now opening this season on injured reserve and won't be eligible to play until Week 5 at the earliest.",
+      "description": "Dell (knee) agreed to take a pay cut from the Texans on Friday, Aaron Wilson of KPRC 2 Houston reports.",
+      "metadata": {
+        "analysis": "Entering the final year of his rookie deal, Dell was scheduled to collect $3.624 million, but he'll now make just over $1.7 million in 2026. Dell missed the entirety of the 2025 campaign after a catastrophic knee injury suffered toward the end of the previous season. He's now opening this season on injured reserve and won't be eligible to play until Week 5 at the earliest.",
+        "description": "Dell (knee) agreed to take a pay cut from the Texans on Friday, Aaron Wilson of KPRC 2 Houston reports.",
+        "title": "Tank Dell - Takes pay cut from Houston",
+        "topic_id": "1401632009826107392"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9502",
+      "player_name": "Tank Dell",
+      "position": "WR",
+      "published": 1788537344000,
+      "source": "rotowire",
+      "source_key": "636260",
+      "story_id": "nfl|9502|rotowire|636260|1788537344000",
+      "title": "Tank Dell - Takes pay cut from Houston",
+      "url": null
+    },
     {
       "analysis": "It comes as no surprise after the Browns cut Cedric Tillman at the end of training camp. Jeudy is listed as a starter alongside rookie wideouts KC Concepcion and Denzel Boston. Jeudy displayed no chemistry with Shedeur Sanders last season, as the veteran wideout finished 2025 with just 50 catches for 602 yards and two touchdowns on 106 targets. His 47.2 percent catch rate was fifth-worst out of 197 qualified pass catchers, and of the 38 players in the NFL to see at least 100 targets, Jeudy's 602 yards were just two more than Jake Ferguson at the bottom of the list. Concepcion is expected to become the go-to target in Cleveland, with Boston operating as the big-bodied X receiver. Jeudy will face far more competition for targets.",
       "description": "Jeudy is listed as a starting wide receiver on Cleveland's initial depth chart ahead of the team's Week 1 game against the Jaguars.",
@@ -94,6 +113,26 @@
       "story_id": "nfl|13296|rotowire|636255|1788535389000",
       "title": "Caleb Douglas - Listed as starter",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Jaylen Waddle has made a strong first impression with his new team. The Broncos gave up first-, third- and fourth-round picks to acquire him from Miami in March, and Waddle spent much of camp showing exactly what they paid for. Denver's own coverage repeatedly highlighted his ability to separate and create explosive plays during the first six practices. A leg strain on Aug. 5 interrupted that run for nearly two weeks, but it didn't take long for Waddle to get going again. He returned to practice Aug. 17 and, two days later, hauled in a roughly 60-yard touchdown from Bo Nix during the final open practice of camp. Waddle is coming off 64 catches for 910 yards and six touchdowns on 100 targets last season and now enters a Denver offense that clearly has plans for his speed. Courtland Sutton, Marvin Mims Jr. and Evan Engram will all get their opportunities, so the targets could be spread around. Still, Waddle's first summer in Denver has given fantasy managers more reason to expect a rebound toward his earlier production.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Jaylen Waddle has made a strong first impression with his new team. The Broncos gave up first-, third- and fourth-round picks to acquire him from Miami in March, and Waddle spent much of camp showing exactly what they paid for. Denver's own coverage repeatedly highlighted his ability to separate and create explosive plays during the first six practices. A leg strain on Aug. 5 interrupted that run for nearly two weeks, but it didn't take long for Waddle to get going again. He returned to practice Aug. 17 and, two days later, hauled in a roughly 60-yard touchdown from Bo Nix during the final open practice of camp. Waddle is coming off 64 catches for 910 yards and six touchdowns on 100 targets last season and now enters a Denver offense that clearly has plans for his speed. Courtland Sutton, Marvin Mims Jr. and Evan Engram will all get their opportunities, so the targets could be spread around. Still, Waddle's first summer in Denver has given fantasy managers more reason to expect a rebound toward his earlier production.",
+        "title": "Jaylen Waddle's First Denver Summer Raises Expectations",
+        "topic_id": "1401633266481516544",
+        "url": "https://www.rotoballer.com/player-news/jaylen-waddles-first-denver-summer-raises-expectations/1923264"
+      },
+      "nfl_team": "DEN",
+      "player_id": "7526",
+      "player_name": "Jaylen Waddle",
+      "position": "WR",
+      "published": 1788523092000,
+      "source": "rotoballer",
+      "source_key": "220080",
+      "story_id": "nfl|7526|rotoballer|220080|1788523092000",
+      "title": "Jaylen Waddle's First Denver Summer Raises Expectations",
+      "url": "https://www.rotoballer.com/player-news/jaylen-waddles-first-denver-summer-raises-expectations/1923264"
     },
     {
       "analysis": null,
