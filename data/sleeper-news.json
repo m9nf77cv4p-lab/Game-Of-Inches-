@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T18:23:03Z",
+  "last_checked_at": "2026-09-04T18:37:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11610|rotowire|636264|1788545385000",
-    "nfl|13294|rotoballer|220089|1788531245000",
-    "nfl|5892|rotoballer|220088|1788530671000"
+    "nfl|12508|rotowire|636266|1788546611000",
+    "nfl|13293|rotoballer|220091|1788526036000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "As a rookie in 2025, Dart completed 63.7 percent (216 of 339) of his passes for 2,272 yards, 15 touchdowns and five interceptions while adding 86 carries for 487 yards and nine more TDs. But not many of his snaps occurred under center as then coach Brian Daboll attempted to cater to Dart's style of play. Perhaps the change in schemes will help Dart stay out of harm's way more often after he had five concussion checks last season. In any case, it remains to be seen if he'll have top WR Malik Nabers available Week 1 as he closes in on his recovery from last year's torn ACL.",
+      "description": "Dart said Tuesday that he feels \"so much better\" now than he did during the offseason program in new offensive coordinator Matt Nagy's scheme, which has the quarterback playing more under center, Darryl Slater of NJ.com reports.",
+      "metadata": {
+        "analysis": "As a rookie in 2025, Dart completed 63.7 percent (216 of 339) of his passes for 2,272 yards, 15 touchdowns and five interceptions while adding 86 carries for 487 yards and nine more TDs. But not many of his snaps occurred under center as then coach Brian Daboll attempted to cater to Dart's style of play. Perhaps the change in schemes will help Dart stay out of harm's way more often after he had five concussion checks last season. In any case, it remains to be seen if he'll have top WR Malik Nabers available Week 1 as he closes in on his recovery from last year's torn ACL.",
+        "description": "Dart said Tuesday that he feels \"so much better\" now than he did during the offseason program in new offensive coordinator Matt Nagy's scheme, which has the quarterback playing more under center, Darryl Slater of NJ.com reports.",
+        "title": "Jaxson Dart - Feeling confident in new offense",
+        "topic_id": "1401671020141686784"
+      },
+      "nfl_team": "NYG",
+      "player_id": "12508",
+      "player_name": "Jaxson Dart",
+      "position": "QB",
+      "published": 1788546611000,
+      "source": "rotowire",
+      "source_key": "636266",
+      "story_id": "nfl|12508|rotowire|636266|1788546611000",
+      "title": "Jaxson Dart - Feeling confident in new offense",
+      "url": null
+    },
     {
       "analysis": "Miami almost entirely retooled its receiving corps this offseason, releasing Tyreek Hill in February, trading Jaylen Waddle to the Broncos in March, signing Jalen Tolbert in free agency and then drafting three WRs (Caleb Douglas, Chris Bell and Kevin Coleman) in the 2026 Draft. Washington is the only holdover from 2025, a season in which he hauled in 46 of 65 targets for 317 yards and three touchdowns while also rushing 17 times for 110 yards and one more TD. In addition to an expected increase in snaps while working with new QB Malik Willis, Washington again will serve as the team's primary kick returner and perhaps on punt returns as well.",
       "description": "Washington is listed as a starting wide receiver on the Dolphins' unofficial depth chart.",
@@ -397,6 +416,26 @@
       "story_id": "nfl|6806|rotoballer|220083|1788526745000",
       "title": "J.K. Dobbins the \"For Sure\" Lead Back When Healthy",
       "url": "https://www.rotoballer.com/player-news/j-k-dobbins-the-for-sure-lead-back-when-healthy/1923297"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens rookie wide receiver Ja'Kobi Lane has drawn praise and created a lot of hype for himself throughout training camp and the preseason. In fact, Matt Verderame of Sports Illustrated recently included the rookie wideout in his \"10 Breakout Players to Watch in 2026\" article after speaking with coaches and executives across the league. The 6-foot-4, 205-pound Lane is expected to operate as Baltimore's No. 3 wide receiver behind Zay Flowers and Rashod Bateman this season. However, there is a chance that Lane could play an even bigger role, as Bateman is under investigation by the NFL and could potentially face a suspension. It would not be surprising if Lane outperforms Bateman this year. The Ravens selected Lane out of USC in the third round (No. 80 overall) of the 2026 NFL Draft. He is expected to play an immediate role. Lane is currently rostered in just 19% of Yahoo leagues and is worth considering on the waiver wire or in the later rounds of your drafts. Lane currently has a Yahoo ADP of 126.8. He ranks as the No. 181 overall player and No. 70 wide receiver at RotoBaller.",
+      "metadata": {
+        "description": "Baltimore Ravens rookie wide receiver Ja'Kobi Lane has drawn praise and created a lot of hype for himself throughout training camp and the preseason. In fact, Matt Verderame of Sports Illustrated recently included the rookie wideout in his \"10 Breakout Players to Watch in 2026\" article after speaking with coaches and executives across the league. The 6-foot-4, 205-pound Lane is expected to operate as Baltimore's No. 3 wide receiver behind Zay Flowers and Rashod Bateman this season. However, there is a chance that Lane could play an even bigger role, as Bateman is under investigation by the NFL and could potentially face a suspension. It would not be surprising if Lane outperforms Bateman this year. The Ravens selected Lane out of USC in the third round (No. 80 overall) of the 2026 NFL Draft. He is expected to play an immediate role. Lane is currently rostered in just 19% of Yahoo leagues and is worth considering on the waiver wire or in the later rounds of your drafts. Lane currently has a Yahoo ADP of 126.8. He ranks as the No. 181 overall player and No. 70 wide receiver at RotoBaller.",
+        "title": "Ja'Kobi Lane Primed for Breakout Role with Ravens?",
+        "topic_id": "1401669759962976256",
+        "url": "https://www.rotoballer.com/player-news/jakobi-lane-primed-for-breakout-role-with-ravens/1923291"
+      },
+      "nfl_team": "BAL",
+      "player_id": "13293",
+      "player_name": "Ja'Kobi Lane",
+      "position": "WR",
+      "published": 1788526036000,
+      "source": "rotoballer",
+      "source_key": "220091",
+      "story_id": "nfl|13293|rotoballer|220091|1788526036000",
+      "title": "Ja'Kobi Lane Primed for Breakout Role with Ravens?",
+      "url": "https://www.rotoballer.com/player-news/jakobi-lane-primed-for-breakout-role-with-ravens/1923291"
     },
     {
       "analysis": null,

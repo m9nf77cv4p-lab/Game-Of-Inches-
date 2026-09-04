@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1902**
-- Newly captured: **3**
+- Stored stories: **1904**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Malik Washington** — Malik Washington - First-team billing on depth chart (2026-09-04T18:09:45Z)
+- **NEW — Jaxson Dart** — Jaxson Dart - Feeling confident in new offense (2026-09-04T18:30:11Z)
+  - As a rookie in 2025, Dart completed 63.7 percent (216 of 339) of his passes for 2,272 yards, 15 touchdowns and five interceptions while adding 86 carries for 487 yards and nine more TDs. But not many of his snaps occurred under center as then coach Brian Daboll attempted to cater to Dart's style of play. Perhaps the change in schemes will help Dart stay out of harm's way more often after he had five concussion checks last season. In any case, it remains to be seen if he'll have top WR Malik Nabers available Week 1 as he closes in on his recovery from last year's torn ACL.
+- **Malik Washington** — Malik Washington - First-team billing on depth chart (2026-09-04T18:09:45Z)
   - Miami almost entirely retooled its receiving corps this offseason, releasing Tyreek Hill in February, trading Jaylen Waddle to the Broncos in March, signing Jalen Tolbert in free agency and then drafting three WRs (Caleb Douglas, Chris Bell and Kevin Coleman) in the 2026 Draft. Washington is the only holdover from 2025, a season in which he hauled in 46 of 65 targets for 317 yards and three touchdowns while also rushing 17 times for 110 yards and one more TD. In addition to an expected increase in snaps while working with new QB Malik Willis, Washington again will serve as the team's primary kick returner and perhaps on punt returns as well.
 - **Malik Willis** — Malik Willis - Logs one appearance in preseason (2026-09-04T17:50:06Z)
   - Willis started the team's exhibition opener at Washington on Aug. 14, leading a 14-play drive that culminated in a De'Von Achane one-yard TD run. During the possession, Willis was a crisp 4-for-5 passing for 43 yards and also had two carries for nine yards. He parlayed a successful two-year stint as Jordan Love's backup in Green Bay into a three-year, $67.5 million contract this offseason, and while Willis' brief game action last month was encouraging, outside of top RB Achane, Miami doesn't boast much in terms of skill-position talent, as Malik Washington will be the No. 1 WR to begin the 2026 season.
@@ -34,9 +36,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special-teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.
 - **Caleb Douglas** — Caleb Douglas - Listed as starter (2026-09-04T15:23:09Z)
   - Douglas is slotted in as the X receiver, alongside Jalen Tolbert at the Z and Malik Washington as the slot man for Miami. A third-round pick out of Texas Tech back in April, Douglas has been running with the first-team offense most of the summer. He logged 17 offensive snaps during the preseason, catching one of his two targets for 28 yards, before being rested for the third exhibition. This Dolphins offense projects to be a low-scoring one, and it remains to be seen if Malik Willis will be able to carry any of his pass catchers to fantasy relevance.
-- **NEW — Makai Lemon** — Makai Lemon Shadowing Eagles' Top Wideout (2026-09-04T14:14:05Z)
+- **Makai Lemon** — Makai Lemon Shadowing Eagles' Top Wideout (2026-09-04T14:14:05Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemon-shadowing-eagles-top-wideout/1923348
-- **NEW — David Montgomery** — David Montgomery a Safe RB2 with Predictable Goal-Line Usage (2026-09-04T14:04:31Z)
+- **David Montgomery** — David Montgomery a Safe RB2 with Predictable Goal-Line Usage (2026-09-04T14:04:31Z)
   - Source: https://www.rotoballer.com/player-news/david-montgomery-a-safe-rb2-with-predictable-goal-line-usage/1923337
 - **Terry McLaurin** — Terry McLaurin Continues to Develop Chemistry with Young QB (2026-09-04T13:50:30Z)
   - Source: https://www.rotoballer.com/player-news/both-healthy-terry-mclaurin-continues-to-develop-chemistry-with-his-young-quarterback/1923330
@@ -48,6 +50,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-initial-court-appearance-moved-up/1923305
 - **J.K. Dobbins** — J.K. Dobbins the "For Sure" Lead Back When Healthy (2026-09-04T12:59:05Z)
   - Source: https://www.rotoballer.com/player-news/j-k-dobbins-the-for-sure-lead-back-when-healthy/1923297
+- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane Primed for Breakout Role with Ravens? (2026-09-04T12:47:16Z)
+  - Source: https://www.rotoballer.com/player-news/jakobi-lane-primed-for-breakout-role-with-ravens/1923291
 - **Kaleb Johnson** — Familiarity With Packers' Scheme Should Help Kaleb Johnson (2026-09-04T12:36:49Z)
   - Source: https://www.rotoballer.com/player-news/familiarity-with-packers-scheme-should-help-kaleb-johnson/1923279
 - **Tank Dell** — Tank Dell Restructures his Deal With Houston (2026-09-04T12:10:06Z)
@@ -210,7 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/dandre-swift-suffers-undisclosed-injury-in-practice/1922796
 - **Jaylen Warren** — Jaylen Warren - To share backfield with Dowdle (2026-09-03T18:12:11Z)
   - With Kenny Gainwell moving on to the Buccaneers in free agency, Warren is the top incumbent running back in Pittsburgh, but Dowdle has taken Gainwell's place. Dowdle's previous experience with new coach Mike McCarthy in Dallas could dampen Warren's early-down role somewhat, but according to Graziano, Warren should take on the bulk of the pass-catching work out of Pittsburgh's backfield, as evidenced by his 139 catches in 48 regular-season games over the last three campaigns. Overall, Warren handled a career-high 251 touches in 2025, while Dowdle is coming off back-to-back seasons with 274 (with the Cowboys) and 275 (in Carolina), so both should be busy on a weekly basis this fall.
-- **Terry McLaurin** — Terry McLaurin - Team's WR room comes into focus (2026-09-03T18:12:10Z)
-  - McLaurin had a career-low 582 receiving yards while being limited to 10 appearances in 2025. Prior to that down year, the 2019 third-round pick out of Ohio State recorded at least 919 receiving yards in each of his first six NFL regular seasons. McLaurin and Stefon Diggs are expected to operate as the top targets for QB Jayden Daniels, with Antonio Williams, Dyami Brown, Treylon Burks, Jaylin Lane and Luke McCaffrey providing depth at wide receiver.
-- **Stefon Diggs** — Stefon Diggs - Set for starting role in Washington (2026-09-03T18:02:24Z)
-  - The depth chart behind Diggs appears uncertain, but the veteran wide receiver seems safely locked into a starting role opposite Terry McLaurin heading into the regular season. Antonio Williams, Dyami Brown, Treylon Burks, Jaylin Lane and Luke McCaffrey also made the team. Diggs has fallen short of 1,000 receiving yards only once in the past eight regular seasons.
