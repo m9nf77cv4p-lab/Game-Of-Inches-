@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1909**
-- Newly captured: **2**
+- Stored stories: **1910**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Cade Otton** — Cade Otton - Remains No. 1 TE on depth chart (2026-09-04T19:36:53Z)
+- **Cade Otton** — Cade Otton - Remains No. 1 TE on depth chart (2026-09-04T19:36:53Z)
   - Aside from adding sixth-round rookie Bauer Sharp to the TE room this offseason, it's status quo for the position group in 2026, with all of Otton, Payne Durham and Ko Kieft back. Otton himself re-signed with Tampa Bay on a three-year, $30 million contract in March to retain his standing as the team's top tight end. Over the last two regular seasons, he's recorded exactly 59 catches on both occasions, totaling 1,172 yards and five touchdowns on 168 targets across 30 contests.
 - **Baker Mayfield** — Baker Mayfield - One preseason appearance (2026-09-04T19:29:51Z)
   - Mayfield took the field for preseason Week 2 against the Chiefs on Aug. 22, leading two drives and finishing 2-for-4 passing for 10 yards. Both possessions ended in Riley Dixon punts, but Mayfield wasn't working with any of his top wide receivers or tight ends. WRs Emeka Egbuka (toe) and Jalen McMillan (knee) are dealing with injuries as Week 1 draws closer, so how both fare in practice next week will be key for Mayfield's prospects at Cincinnati on Sunday, Sept. 13.
@@ -36,9 +36,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Entering the final year of his rookie deal, Dell was scheduled to collect $3.624 million, but he'll now make just over $1.7 million in 2026. Dell missed the entirety of the 2025 campaign after a catastrophic knee injury suffered toward the end of the previous season. He's now opening this season on injured reserve and won't be eligible to play until Week 5 at the earliest.
 - **Jerry Jeudy** — Jerry Jeudy - Listed as starting wideout (2026-09-04T15:51:27Z)
   - It comes as no surprise after the Browns cut Cedric Tillman at the end of training camp. Jeudy is listed as a starter alongside rookie wideouts KC Concepcion and Denzel Boston. Jeudy displayed no chemistry with Shedeur Sanders last season, as the veteran wideout finished 2025 with just 50 catches for 602 yards and two touchdowns on 106 targets. His 47.2 percent catch rate was fifth worst out of 197 qualified pass catchers, and of the 38 players in the NFL to see at least 100 targets, Jeudy's 602 yards were just two more than Jake Ferguson at the bottom of the list. Concepcion is expected to become the go-to target in Cleveland, with Boston operating as the big-bodied X receiver. Jeudy will face far more competition for targets.
+- **NEW — Xavier Worthy** — Xavier Worthy Still Has a Path Back to Rookie Form (2026-09-04T15:45:06Z)
+  - Source: https://www.rotoballer.com/player-news/xavier-worthy-still-has-a-path-back-to-rookie-form/1923422
 - **Adonai Mitchell** — Adonai Mitchell - Listed as starter opposite Wilson (2026-09-04T15:39:23Z)
   - It's no surprise after Mitchell showed playmaking ability with New York following his midseason trade from the Colts last season. In eight games with the Jets, Mitchell caught 24 of 58 targets for 301 yards and two touchdowns. That 41.4 percent catch rate ranked second worst in the NFL out of 197 qualified pass catchers, but better quarterback play this season in the form of veteran pickup Geno Smith should help improve that number. Mitchell has big-play upside and is dripping with talent; he just needs to get out of his own way sometimes. He's worth a late-round flier in fantasy and makes for an intriguing best-ball selection.
-- **NEW — Jalen Nailor** — Jalen Nailor's Opportunity Makes Him a Late-Round Sleeper (2026-09-04T15:35:06Z)
+- **Jalen Nailor** — Jalen Nailor's Opportunity Makes Him a Late-Round Sleeper (2026-09-04T15:35:06Z)
   - Source: https://www.rotoballer.com/player-news/jalen-nailors-opportunity-makes-him-a-late-round-sleeper/1923414
 - **Tyler Shough** — Tyler Shough Offers Real Late-Round QB Upside (2026-09-04T15:27:06Z)
   - Source: https://www.rotoballer.com/player-news/tyler-shough-offers-real-late-round-qb-upside/1923409
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - It marks Pierce's first full practice of the summer after he underwent offseason ankle surgery. GM Chris Ballard said Tuesday that the "hope" was Pierce would be ready for the team's Week 1 opener against the Ravens, and this return to full work would suggest the wideout is on the path to playing Sunday, Sept. 13. Pierce is expected to operate as Daniel Jones' clear top outside field-stretching weapon this season, while Josh Downs (calf), Keenan Allen and Tyler Warren (groin) mostly work in the short and intermediate areas.
 - **Bo Nix** — Bo Nix - Gets talked up by teammate (2026-09-03T18:46:20Z)
   - Tight end Evan Engram and offensive tackle Garett Bolles also chimed in with praise for Nix, who finished the 2025 regular season with a 25:11 TD:INT and 3,931 yards on an NFL-high 612 pass attempts while adding 356 yards and five scores on the ground. He then helped lead Denver to a divisional-round win over Buffalo before sitting out the AFC Championship Game loss to the Patriots due to a broken bone in his ankle, but he made a full recovery from surgery in advance of June minicamp. Nix performed efficiently during his lone preseason appearance Aug. 21 versus the Packers, connecting with offseason pickup Jaylen Waddle on a deep throw for a 35-yard gain during that contest. With a new field-stretching weapon like Waddle in the fold, Nix can potentially offset any decline in his league-leading passing volume by generating more splash plays. Nix saw his yards per attempt drop from 6.7 as a rookie to 6.4 during his sophomore season.
-- **Kenny Gainwell** — Kenny Gainwell - Part of RB mix with Irving and Tucker (2026-09-03T18:45:06Z)
-  - Gainwell signed a two-year, $14 million contract with the Buccaneers in March after leading the Steelers with 73 catches in the 2025 regular season. He's likely to fill a change-of-pace role while playing primarily in passing situations, much like Rachaad White did for the past couple seasons in a Buccaneers backfield that's expected to be led by Irving as long as the latter stays healthy. Tucker could be a thorn in the side of both Gainwell and Irving from a fantasy perspective if Tucker reprises his red-zone role from 2025, which helped him punch in a team-high seven rushing touchdowns.

@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T19:45:49Z",
+  "last_checked_at": "2026-09-04T19:56:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|8111|rotowire|636269|1788550613000",
-    "nfl|8180|rotoballer|220095|1788536106000"
+    "nfl|11624|rotoballer|220096|1788536706000"
   ],
   "schema_version": 1,
   "source": {
@@ -276,6 +275,26 @@
       "story_id": "nfl|6783|rotowire|636259|1788537087000",
       "title": "Jerry Jeudy - Listed as starting wideout",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs wide receiver Xavier Worthy still has a believable path back to the player fantasy managers saw as a rookie. He caught 59 passes for 638 yards and six touchdowns in 2024, then added 104 rushing yards and three more scores. Last season never really got going. Worthy dislocated his shoulder and tore his labrum on the third snap of Week 1, missed two games and played through the injury before having surgery in January. He finished with 42 catches for 532 yards and one touchdown. This summer brought another scare when Worthy sprained the same shoulder on Aug. 1, but he returned to practice nine days later and was back working with the offense later in camp. He remains a starter opposite Rashee Rice on Kansas City's current depth chart. Rice and Travis Kelce will keep the target ceiling in check, and the shoulder history can't be ignored. Still, Worthy's WR45 ranking leaves room for a rebound if better health brings back some of the explosiveness and touchdown production from his rookie year.",
+      "metadata": {
+        "description": "Kansas City Chiefs wide receiver Xavier Worthy still has a believable path back to the player fantasy managers saw as a rookie. He caught 59 passes for 638 yards and six touchdowns in 2024, then added 104 rushing yards and three more scores. Last season never really got going. Worthy dislocated his shoulder and tore his labrum on the third snap of Week 1, missed two games and played through the injury before having surgery in January. He finished with 42 catches for 532 yards and one touchdown. This summer brought another scare when Worthy sprained the same shoulder on Aug. 1, but he returned to practice nine days later and was back working with the offense later in camp. He remains a starter opposite Rashee Rice on Kansas City's current depth chart. Rice and Travis Kelce will keep the target ceiling in check, and the shoulder history can't be ignored. Still, Worthy's WR45 ranking leaves room for a rebound if better health brings back some of the explosiveness and touchdown production from his rookie year.",
+        "title": "Xavier Worthy Still Has a Path Back to Rookie Form",
+        "topic_id": "1401689895256240128",
+        "url": "https://www.rotoballer.com/player-news/xavier-worthy-still-has-a-path-back-to-rookie-form/1923422"
+      },
+      "nfl_team": "KC",
+      "player_id": "11624",
+      "player_name": "Xavier Worthy",
+      "position": "WR",
+      "published": 1788536706000,
+      "source": "rotoballer",
+      "source_key": "220096",
+      "story_id": "nfl|11624|rotoballer|220096|1788536706000",
+      "title": "Xavier Worthy Still Has a Path Back to Rookie Form",
+      "url": "https://www.rotoballer.com/player-news/xavier-worthy-still-has-a-path-back-to-rookie-form/1923422"
     },
     {
       "analysis": "It's no surprise after Mitchell showed playmaking ability with New York following his midseason trade from the Colts last season. In eight games with the Jets, Mitchell caught 24 of 58 targets for 301 yards and two touchdowns. That 41.4 percent catch rate ranked second worst in the NFL out of 197 qualified pass catchers, but better quarterback play this season in the form of veteran pickup Geno Smith should help improve that number. Mitchell has big-play upside and is dripping with talent; he just needs to get out of his own way sometimes. He's worth a late-round flier in fantasy and makes for an intriguing best-ball selection.",
