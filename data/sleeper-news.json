@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T19:35:47Z",
+  "last_checked_at": "2026-09-04T19:45:49Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12545|rotoballer|220094|1788535626000",
-    "nfl|4892|rotowire|636268|1788550191000"
+    "nfl|8111|rotowire|636269|1788550613000",
+    "nfl|8180|rotoballer|220095|1788536106000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Aside from adding sixth-round rookie Bauer Sharp to the TE room this offseason, it's status quo for the position group in 2026, with all of Otton, Payne Durham and Ko Kieft back. Otton himself re-signed with Tampa Bay on a three-year, $30 million contract in March to retain his standing as the team's top tight end. Over the last two regular seasons, he's recorded exactly 59 catches on both occasions, totaling 1,172 yards and five touchdowns on 168 targets across 30 contests.",
+      "description": "Otton is listed as the No. 1 TE on the Buccaneers' unofficial depth chart.",
+      "metadata": {
+        "analysis": "Aside from adding sixth-round rookie Bauer Sharp to the TE room this offseason, it's status quo for the position group in 2026, with all of Otton, Payne Durham and Ko Kieft back. Otton himself re-signed with Tampa Bay on a three-year, $30 million contract in March to retain his standing as the team's top tight end. Over the last two regular seasons, he's recorded exactly 59 catches on both occasions, totaling 1,172 yards and five touchdowns on 168 targets across 30 contests.",
+        "description": "Otton is listed as the No. 1 TE on the Buccaneers' unofficial depth chart.",
+        "title": "Cade Otton - Remains No. 1 TE on depth chart",
+        "topic_id": "1401687379827249152"
+      },
+      "nfl_team": "TB",
+      "player_id": "8111",
+      "player_name": "Cade Otton",
+      "position": "TE",
+      "published": 1788550613000,
+      "source": "rotowire",
+      "source_key": "636269",
+      "story_id": "nfl|8111|rotowire|636269|1788550613000",
+      "title": "Cade Otton - Remains No. 1 TE on depth chart",
+      "url": null
+    },
     {
       "analysis": "Mayfield took the field for preseason Week 2 against the Chiefs on Aug. 22, leading two drives and finishing 2-for-4 passing for 10 yards. Both possessions ended in Riley Dixon punts, but Mayfield wasn't working with any of his top wide receivers or tight ends. WRs Emeka Egbuka (toe) and Jalen McMillan (knee) are dealing with injuries as Week 1 draws closer, so how both fare in practice next week will be key for Mayfield's prospects at Cincinnati on Sunday, Sept. 13.",
       "description": "Mayfield logged just one appearance during the Buccaneers' three-game preseason schedule.",
@@ -276,6 +296,26 @@
       "story_id": "nfl|11625|rotowire|636257|1788536363000",
       "title": "Adonai Mitchell - Listed as starter opposite Wilson",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders wide receiver Jalen Nailor has a much cleaner path to volume than he ever had in Minnesota. Nailor spent four years buried behind Justin Jefferson and Jordan Addison, but he enters 2026 listed with the first-team offense in a wide receiver room that doesn't have an established target hog. He caught 29 of 53 targets for 444 yards and four touchdowns last season, then spent August building real chemistry with Kirk Cousins. Nailor caught a deep score from Cousins on Aug. 6, another touchdown on Aug. 10 and two more in red-zone work a week later. That doesn't guarantee a huge target share, especially with Brock Bowers likely to remain the centerpiece and Tre Tucker and Jack Bech still involved. It does give Nailor a legitimate chance to see more work than he ever did with the Vikings. Las Vegas signed him early in free agency, kept him with the starters all summer, and the opportunity held through roster cuts. For managers looking for a late-round receiver with room to beat his draft cost, Nailor has a pretty easy case to make.",
+      "metadata": {
+        "description": "Las Vegas Raiders wide receiver Jalen Nailor has a much cleaner path to volume than he ever had in Minnesota. Nailor spent four years buried behind Justin Jefferson and Jordan Addison, but he enters 2026 listed with the first-team offense in a wide receiver room that doesn't have an established target hog. He caught 29 of 53 targets for 444 yards and four touchdowns last season, then spent August building real chemistry with Kirk Cousins. Nailor caught a deep score from Cousins on Aug. 6, another touchdown on Aug. 10 and two more in red-zone work a week later. That doesn't guarantee a huge target share, especially with Brock Bowers likely to remain the centerpiece and Tre Tucker and Jack Bech still involved. It does give Nailor a legitimate chance to see more work than he ever did with the Vikings. Las Vegas signed him early in free agency, kept him with the starters all summer, and the opportunity held through roster cuts. For managers looking for a late-round receiver with room to beat his draft cost, Nailor has a pretty easy case to make.",
+        "title": "Jalen Nailor's Opportunity Makes Him a Late-Round Sleeper",
+        "topic_id": "1401687377944039424",
+        "url": "https://www.rotoballer.com/player-news/jalen-nailors-opportunity-makes-him-a-late-round-sleeper/1923414"
+      },
+      "nfl_team": "LV",
+      "player_id": "8180",
+      "player_name": "Jalen Nailor",
+      "position": "WR",
+      "published": 1788536106000,
+      "source": "rotoballer",
+      "source_key": "220095",
+      "story_id": "nfl|8180|rotoballer|220095|1788536106000",
+      "title": "Jalen Nailor's Opportunity Makes Him a Late-Round Sleeper",
+      "url": "https://www.rotoballer.com/player-news/jalen-nailors-opportunity-makes-him-a-late-round-sleeper/1923414"
     },
     {
       "analysis": null,
