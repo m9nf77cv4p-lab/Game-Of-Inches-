@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T03:18:04Z",
+  "last_checked_at": "2026-09-04T03:32:46Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13349|rotoballer|220057|1788476406000"
+    "nfl|9487|rotowire|636242|1788492548000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Not long after Washington sat out Jacksonville's exhibition opener on Aug. 15, Washington missed a week of practice due to an undisclosed injury before retaking the field during a joint session with the Buccaneers on Aug. 25, so his lack of in-game activity isn't much a surprise. After reeling off three 100-yard receiving efforts in his final four appearances, including playoffs, of the 2025 campaign, he entered the offseason on a high note and also considered the team's most sought-after WR in fantasy terms ahead of Brian Thomas, Jakobi Meyers (hand) and Travis Hunter.",
+      "description": "Washington didn't make an appearance during the Jaguars' three-game preseason slate.",
+      "metadata": {
+        "analysis": "Not long after Washington sat out Jacksonville's exhibition opener on Aug. 15, Washington missed a week of practice due to an undisclosed injury before retaking the field during a joint session with the Buccaneers on Aug. 25, so his lack of in-game activity isn't much a surprise. After reeling off three 100-yard receiving efforts in his final four appearances, including playoffs, of the 2025 campaign, he entered the offseason on a high note and also considered the team's most sought-after WR in fantasy terms ahead of Brian Thomas, Jakobi Meyers (hand) and Travis Hunter.",
+        "description": "Washington didn't make an appearance during the Jaguars' three-game preseason slate.",
+        "title": "Parker Washington - No preseason snaps",
+        "topic_id": "1401443249079529472"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9487",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "published": 1788492548000,
+      "source": "rotowire",
+      "source_key": "636242",
+      "story_id": "nfl|9487|rotowire|636242|1788492548000",
+      "title": "Parker Washington - No preseason snaps",
+      "url": null
+    },
     {
       "analysis": "Cooper served as one of QB Fernando Mendoza's top targets at Indiana last season, finishing with a 69-937-13 line in 16 games. After turning in a 4.42 40 time at the combine, his prospect profile was enough for the Jets to use the 30th overall pick on him in the 2026 NFL Draft. Joining a receiving corps already boasting Garrett Wilson and Adonai Mitchell, Cooper wasn't destined for more than the No. 3 WR role in the offense, but he worked behind even Isaiah Williams in three-wide sets during training camp, and his current depth-chart slotting indicates he still has work to do to earn significant reps in New York's passing game.",
       "description": "Cooper is listed as a backup wide receiver on the Jets' unofficial depth chart.",
@@ -175,9 +195,9 @@
     },
     {
       "analysis": null,
-      "description": "Philadelphia Eagles' second-round pick, Eli Stowers, out of Vanderbilt in the 2026 NFL Draft, has struggled in camp. He has faced heavy criticism and struggled to stand out as a receiver or blocker during practices, including a tough joint practice against the New England Patriots. Ultimately, the learning curve has been steep for him, and while he flashed some upside at the combine with his athleticism, recent reports from camp suggest he's not ready to play at the NFL level. He has also been slowed down by a hamstring injury, and Jimmy Kempski of PhillyVoice reported that he could be a healthy scratch on Sundays. During his senior season at Vanderbilt, he had 62 receptions, 769 yards, and four touchdowns. At this point, Stowers is a dynasty stash at best. RotoBaller ranks Stowers as the TE64 and 377th player off the board, making him undraftable in most standard-sized redraft formats.",
+      "description": "Philadelphia Eagles' second-round rookie tight end Eli Stowers, out of Vanderbilt in the 2026 NFL Draft, has struggled in camp. He has faced heavy criticism and struggled to stand out as a receiver or blocker during practices, including a tough joint practice against the New England Patriots. Ultimately, the learning curve has been steep for him, and while he flashed some upside at the combine with his athleticism, recent reports from camp suggest he's not ready to play at the NFL level. He has also been slowed down by a hamstring injury, and Jimmy Kempski of PhillyVoice reported that he could be a healthy scratch on Sundays. During his senior season at Vanderbilt, he had 62 receptions, 769 yards, and four touchdowns. At this point, Stowers is a dynasty stash at best. RotoBaller ranks Stowers as the TE64 and 377th player off the board, making him undraftable in most standard-sized redraft formats.",
       "metadata": {
-        "description": "Philadelphia Eagles' second-round pick, Eli Stowers, out of Vanderbilt in the 2026 NFL Draft, has struggled in camp. He has faced heavy criticism and struggled to stand out as a receiver or blocker during practices, including a tough joint practice against the New England Patriots. Ultimately, the learning curve has been steep for him, and while he flashed some upside at the combine with his athleticism, recent reports from camp suggest he's not ready to play at the NFL level. He has also been slowed down by a hamstring injury, and Jimmy Kempski of PhillyVoice reported that he could be a healthy scratch on Sundays. During his senior season at Vanderbilt, he had 62 receptions, 769 yards, and four touchdowns. At this point, Stowers is a dynasty stash at best. RotoBaller ranks Stowers as the TE64 and 377th player off the board, making him undraftable in most standard-sized redraft formats.",
+        "description": "Philadelphia Eagles' second-round rookie tight end Eli Stowers, out of Vanderbilt in the 2026 NFL Draft, has struggled in camp. He has faced heavy criticism and struggled to stand out as a receiver or blocker during practices, including a tough joint practice against the New England Patriots. Ultimately, the learning curve has been steep for him, and while he flashed some upside at the combine with his athleticism, recent reports from camp suggest he's not ready to play at the NFL level. He has also been slowed down by a hamstring injury, and Jimmy Kempski of PhillyVoice reported that he could be a healthy scratch on Sundays. During his senior season at Vanderbilt, he had 62 receptions, 769 yards, and four touchdowns. At this point, Stowers is a dynasty stash at best. RotoBaller ranks Stowers as the TE64 and 377th player off the board, making him undraftable in most standard-sized redraft formats.",
         "title": "Eli Stowers Struggling in Camp, Difficult to Trust in Redraft Formats",
         "topic_id": "1401436954507108352",
         "url": "https://www.rotoballer.com/player-news/eli-stowers-struggling-in-camp-difficult-to-trust-in-redraft-formats/1922969"
