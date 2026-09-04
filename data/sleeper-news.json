@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-04T23:02:43Z",
+  "last_checked_at": "2026-09-04T23:17:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|10859|rotowire|636280|1788562740000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -38822,26 +38820,6 @@
       "story_id": "nfl|13317|rotoballer|218062|1786011905000",
       "title": "Ted Hurst Taking Advantage of Receiver Absences",
       "url": "https://www.rotoballer.com/player-news/ted-hurst-taking-advantage-of-receiver-absences/1903951"
-    },
-    {
-      "analysis": null,
-      "description": "Baltimore Ravens running back Derrick Henry said Wednesday he would prefer to finish his career with the Ravens. In a post on X (formerly known as Twitter), Henry wrote, \"I would like to finish my career with the Ravens. I never said anything about retiring lol. I'm enjoying being a Raven. I'll worry about that retirement s**t later.\" The 32-year-old veteran is coming off another strong season, totaling 1,745 scrimmage yards and 16 touchdowns while playing all 17 games for the third consecutive season. With superstar quarterback Lamar Jackson in the fold and still showing no signs of slowing down, the future Hall-of-Famer will look to continue his legendary run in 2026.",
-      "metadata": {
-        "description": "Baltimore Ravens running back Derrick Henry said Wednesday he would prefer to finish his career with the Ravens. In a post on X (formerly known as Twitter), Henry wrote, \"I would like to finish my career with the Ravens. I never said anything about retiring lol. I'm enjoying being a Raven. I'll worry about that retirement s**t later.\" The 32-year-old veteran is coming off another strong season, totaling 1,745 scrimmage yards and 16 touchdowns while playing all 17 games for the third consecutive season. With superstar quarterback Lamar Jackson in the fold and still showing no signs of slowing down, the future Hall-of-Famer will look to continue his legendary run in 2026.",
-        "title": "Derrick Henry Wants to Finish his Career With Ravens",
-        "topic_id": "1390929077057105920",
-        "url": "https://www.rotoballer.com/player-news/derrick-henry-wants-to-finish-career-with-ravens/1903840"
-      },
-      "nfl_team": "BAL",
-      "player_id": "3198",
-      "player_name": "Derrick Henry",
-      "position": "RB",
-      "published": 1785971107000,
-      "source": "rotoballer",
-      "source_key": "218050",
-      "story_id": "nfl|3198|rotoballer|218050|1785971107000",
-      "title": "Derrick Henry Wants to Finish his Career With Ravens",
-      "url": "https://www.rotoballer.com/player-news/derrick-henry-wants-to-finish-career-with-ravens/1903840"
     }
   ]
 }

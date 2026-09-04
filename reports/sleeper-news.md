@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1933**
-- Newly captured: **1**
+- Stored stories: **1932**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Sam LaPorta** — Sam LaPorta - Sees no action in preseason (2026-09-04T22:59:00Z)
+- **Sam LaPorta** — Sam LaPorta - Sees no action in preseason (2026-09-04T22:59:00Z)
   - LaPorta was rested in the team's exhibition opener, but a hip injury suffered in practice kept him on the sideline for the final two preseason games. He was able to return to drills as of Aug. 25, but it's unclear if he's put the issue behind him. LaPorta is entering the final year of his rookie contract, so he has every incentive to be as healthy as possible for a Week 1 matchup with the Saints on Sunday, Sept. 13.
 - **Jadarian Price** — Jadarian Price - In line for Week 1 role (2026-09-04T22:46:05Z)
   - The Seahawks used the 32nd overall pick in the 2026 Draft on Price, seemingly with the intention for him to be in the mix for the No. 1 RB role during Zach Charbonnet's recovery from a January ACL tear. Price handled first-team reps during the offseason program and also at the start of training camp, but he then tended to lower-body soreness, which sidelined him for a week and spurred the team to keep him in street clothes during exhibition season. With a Week 1 matchup with the Patriots just around the corner Wednesday, Price seems primed for lead-runner status, while George Holani will serve as a receiver and in pass-blocking situations. Meanwhile, Emanuel Wilson has been contained to work on the side at recent practices due to a hamstring injury, so it's unclear if he'll be able to contribute in the season opener.
