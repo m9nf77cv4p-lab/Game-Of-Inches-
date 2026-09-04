@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1917**
-- Newly captured: **1**
+- Stored stories: **1919**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — DeVonta Smith** — DeVonta Smith - Logs no preseason action (2026-09-04T20:40:04Z)
+  - Smith picked up a hamstring injury early on in training camp that kept him sidelined for the Eagles' first two exhibitions. After logging a full practice Aug. 24, he had put the issue behind him, but he still rested with the rest of the starters in the team's exhibition finale. With A.J. Brown getting traded to the Patriots this offseason, Smith is positioned as Philadelphia's No. 1 WR, while Dontayvion Wicks, rookie first-rounder Makai Lemon and Hollywood Brown are the next players up at the position.
 - **Denzel Boston** — Denzel Boston - Gets first-team billing on depth chart (2026-09-04T20:15:16Z)
   - The 39th overall pick in the 2026 Draft, Boston combined for one catch (on two targets) for 15 yards on 37 offensive snaps between his two appearances during the preseason. The output was nothing to write home about, but he appears set to be one of starting QB Deshaun Watson's key pass catchers to begin the campaign.
 - **Cam Ward** — Cam Ward - Working out kinks with Daboll (2026-09-04T20:05:17Z)
@@ -27,10 +29,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After a four-year stint to begin his career in Tennessee, Okonkwo moved on to Washington via free agency this offseason, agreeing to a three-year, $27 million contract. Considering the investment made in him, it's no surprise he's listed as a first-teamer ahead of the 2026 campaign, and with lacking competition behind him for targets in the form of John Bates (hamstring), Ben Sinnott (oblique) and Colson Yankoff, Okonkwo is poised to serve as the top TE for QB Jayden Daniels.
 - **Jayden Daniels** — Jayden Daniels - One possession in preseason (2026-09-04T17:22:06Z)
   - Daniels suited up for preseason Week 2 at Detroit, but Washington's offense quickly went three-and-out via the aforementioned incompletion, a sack for a loss of 10 yards and an 11-yard Kaytron Allen run. Daniels otherwise remained on the sideline for the rest of exhibition season. After an outstanding rookie campaign in 2024, he endured an injury-plagued 2025, completing just 60.6 percent of his passes for 1,262 yards, eight touchdowns and three interceptions and rushing 58 times for 278 yards and two more TDs in seven appearances.
+- **NEW — Kaelon Black** — Kaelon Black a Premier Handcuff Running Back Worth Targeting in Drafts (2026-09-04T16:38:55Z)
+  - Source: https://www.rotoballer.com/player-news/kaelon-black-a-premier-handcuff-running-back-worth-targeting-in-drafts/1923502
 - **Jake Ferguson** — Jake Ferguson restructures contract with Cowboys  (2026-09-04T16:35:22.706000Z)
   - Ferguson's $7.25 million base salary was turned into a signing bonus. The Cowboys now have $33.2 million in salary cap space. 
   - Source: https://www.fantasypros.com/nfl/news/605912/jake-ferguson-restructures-contract-with-cowboys.php
-- **NEW — Tony Pollard** — Tony Pollard a High-Floor Running Back Option Due to Projectable Workload Volume (2026-09-04T16:26:09Z)
+- **NEW — Cam Ward** — Robert Saleh is Convinced Cam Ward Will Turn it Around (2026-09-04T16:31:15Z)
+  - Source: https://www.rotoballer.com/player-news/robert-saleh-is-convinced-cam-ward-will-turn-it-around/1923486
+- **Tony Pollard** — Tony Pollard a High-Floor RB Due to Projectable Workload Volume (2026-09-04T16:26:09Z)
   - Source: https://www.rotoballer.com/player-news/tony-pollard-a-high-floor-running-back-option-due-to-projectable-workload-volume/1923470
 - **Tank Dell** — Tank Dell restructures contract with Texans (2026-09-04T16:25:23.335000Z)
   - The move saves Houston $2 million against the cap. Dell is nearing his return from a gruesome knee injury he suffered late in the 2024 season. 
@@ -208,9 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/breece-hall-expected-to-be-ready-for-week-1/1922849
 - **Colston Loveland** — Colston Loveland - Listed as starter on depth chart (2026-09-03T19:50:58Z)
   - The 10th overall pick in the 2025 Draft, Loveland had a slow start to his rookie season, coming out of Week 8 with 11 catches total on the campaign and one DNP due to a hip injury. From Week 9 through the Bears' divisional-round loss to the Rams, though, he ran roughshod over opposing defenses, hauling in 59 of 89 targets for 790 yards and six touchdowns in 12 games. Loveland capped that stretch with four consecutive contests with double-digit targets, indicating he left off last season as QB Caleb Williams' top option in the passing game. While Loveland still has to contend with WRs Rome Odunze and Luther Burden (groin) for the attention of Williams, the tight end is poised to make a leap to the NFL's best at the position.
-- **De'Von Achane** — De'Von Achane - Set to lead Miami's new-look offense (2026-09-03T19:39:10Z)
-  - The Dolphins traded for Jarquez Hunter shortly before cutdown day, but he ultimately didn't make the 53-man roster, though Hunter remains in the organization as part of the practice squad. Fullback D.J. Herman is also listed as a running back, but the team's backfield is otherwise unchanged from 2025, when Achane produced a career-high 1,838 scrimmage yards. The team around Achane went through an offseason overhaul, including the addition of mobile QB Malik Willis, but Achane projects to maintain a prominent role as the centerpiece of an otherwise unproven offense.
-- **Rome Odunze** — Rome Odunze - Last year's foot injury behind him (2026-09-03T19:35:50Z)
-  - Odunze was able to play through listed ankle and heel injuries through Week 13 last season, but a stress fracture in his foot sidelined him Weeks 14-18 before he returned for Chicago's two postseason contests. In 14 appearances including playoffs, he posted a 48-749-6 line on 102 targets, recording 13 receptions of 20-plus yards along the way. As the ninth overall pick in the 2024 Draft, Odunze has a 51.3 percent catch rate (98 for 191) in his two-year career, but he's made up for it with 14.2 YPC. If the aforementioned foot injury is a thing of the past, Odunze will remain a key target for QB Caleb Williams along with TE Colston Loveland and WR Luther Burden (groin) in 2026.
-- **Caleb Williams** — Caleb Williams - Coach talks him up (2026-09-03T19:23:55Z)
-  - Williams played just one possession during exhibition season, leading the Bears to a Cairo Santos field goal to kick off preseason Week 2 at Cincinnati. The performance (2-for-5 passing for 28 yards, no TDs and no interceptions) was nothing to write home about, but Williams is set to take another step forward in his development in 2026. There are two question marks within Chicago's skill positions as Week 1 approaches: RB Kyle Monangai is attempting to put a hyperextended knee behind him, while WR Luther Burden is continuing his recovery from an early August groin injury. Having said that, Williams still has the healthy trio of RB D'Andre Swift, WR Rome Odunze and TE Colston Loveland at his services, so the QB's first 4,000-yard season through the air may be on the horizon.

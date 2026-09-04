@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-04T20:39:41Z",
+  "last_checked_at": "2026-09-04T20:49:53Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|5967|rotoballer|220101|1788539169000"
+    "nfl|12522|rotoballer|220102|1788539475000",
+    "nfl|13414|rotoballer|220103|1788539935000",
+    "nfl|7525|rotowire|636273|1788554404000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Smith picked up a hamstring injury early on in training camp that kept him sidelined for the Eagles' first two exhibitions. After logging a full practice Aug. 24, he had put the issue behind him, but he still rested with the rest of the starters in the team's exhibition finale. With A.J. Brown getting traded to the Patriots this offseason, Smith is positioned as Philadelphia's No. 1 WR, while Dontayvion Wicks, rookie first-rounder Makai Lemon and Hollywood Brown are the next players up at the position.",
+      "description": "Smith didn't make an appearance during the Eagles' three-game preseason slate.",
+      "metadata": {
+        "analysis": "Smith picked up a hamstring injury early on in training camp that kept him sidelined for the Eagles' first two exhibitions. After logging a full practice Aug. 24, he had put the issue behind him, but he still rested with the rest of the starters in the team's exhibition finale. With A.J. Brown getting traded to the Patriots this offseason, Smith is positioned as Philadelphia's No. 1 WR, while Dontayvion Wicks, rookie first-rounder Makai Lemon and Hollywood Brown are the next players up at the position.",
+        "description": "Smith didn't make an appearance during the Eagles' three-game preseason slate.",
+        "title": "DeVonta Smith - Logs no preseason action",
+        "topic_id": "1401702481163001856"
+      },
+      "nfl_team": "PHI",
+      "player_id": "7525",
+      "player_name": "DeVonta Smith",
+      "position": "WR",
+      "published": 1788554404000,
+      "source": "rotowire",
+      "source_key": "636273",
+      "story_id": "nfl|7525|rotowire|636273|1788554404000",
+      "title": "DeVonta Smith - Logs no preseason action",
+      "url": null
+    },
     {
       "analysis": "The 39th overall pick in the 2026 Draft, Boston combined for one catch (on two targets) for 15 yards on 37 offensive snaps between his two appearances during the preseason. The output was nothing to write home about, but he appears set to be one of starting QB Deshaun Watson's key pass catchers to begin the campaign.",
       "description": "Boston is listed as a starting wide receiver along with veteran Jerry Jeudy and 2026 first-round pick KC Concepcion on the Browns' unofficial depth chart.",
@@ -214,6 +236,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "A third-round pick in the 2026 NFL Draft, San Francisco 49ers rookie running back Kaelon Black entered training camp in competition with fellow 49ers back Jordan James for the team's RB2 role behind Christian McCaffrey. However, James battled some injury issues throughout the summer, and recent reporting out of San Francisco indicates that Black currently has a hold on the backup running back job. As long as McCaffrey remains healthy, Black is unlikely to play a fantasy-relevant role in 2026. Still, McCaffrey is now 30 years old and logged an NFL-high 413 touches in 2025. The superstar back also has a history of suffering season-altering injuries, as he's played seven games or fewer in three of his nine NFL campaigns. If he is indeed the clear RB2 in San Francisco, Black carries high-end handcuff appeal into 2026.",
+      "metadata": {
+        "description": "A third-round pick in the 2026 NFL Draft, San Francisco 49ers rookie running back Kaelon Black entered training camp in competition with fellow 49ers back Jordan James for the team's RB2 role behind Christian McCaffrey. However, James battled some injury issues throughout the summer, and recent reporting out of San Francisco indicates that Black currently has a hold on the backup running back job. As long as McCaffrey remains healthy, Black is unlikely to play a fantasy-relevant role in 2026. Still, McCaffrey is now 30 years old and logged an NFL-high 413 touches in 2025. The superstar back also has a history of suffering season-altering injuries, as he's played seven games or fewer in three of his nine NFL campaigns. If he is indeed the clear RB2 in San Francisco, Black carries high-end handcuff appeal into 2026.",
+        "title": "Kaelon Black a Premier Handcuff Running Back Worth Targeting in Drafts",
+        "topic_id": "1401703736912400384",
+        "url": "https://www.rotoballer.com/player-news/kaelon-black-a-premier-handcuff-running-back-worth-targeting-in-drafts/1923502"
+      },
+      "nfl_team": "SF",
+      "player_id": "13414",
+      "player_name": "Kaelon Black",
+      "position": "RB",
+      "published": 1788539935000,
+      "source": "rotoballer",
+      "source_key": "220103",
+      "story_id": "nfl|13414|rotoballer|220103|1788539935000",
+      "title": "Kaelon Black a Premier Handcuff Running Back Worth Targeting in Drafts",
+      "url": "https://www.rotoballer.com/player-news/kaelon-black-a-premier-handcuff-running-back-worth-targeting-in-drafts/1923502"
+    },
+    {
       "analysis": "Ferguson's $7.25 million base salary was turned into a signing bonus. The Cowboys now have $33.2 million in salary cap space. ",
       "description": "The Cowboys restructured TE Jake Ferguson's contract.",
       "metadata": {
@@ -236,10 +278,30 @@
     },
     {
       "analysis": null,
+      "description": "Tennessee Titans new head coach Robert Saleh is convinced that new offensive coordinator Brian Daboll will help quarterback Cam Ward improve in his second season in the NFL, according to Turron Davenport of ESPN. \"This kid's not going to fail,\" Saleh said. \"Obviously, I put my job on that one, but he's not going to fail. He's special.\" Ward did little to impress anyone in two preseason games, but he looked much better in joint practices against the Seattle Seahawks and Chicago Bears. Last year's first overall pick, Ward finished his rookie campaign with 3,169 passing yards (17th), 15 touchdowns (25th), and seven interceptions (tied for 10th-most), but he showed improvement in his final five games, throwing eight TDs and just one interception. \"I have a lot of confidence in this young man,\" Daboll said. The new coaching staff is not looking to tweak Ward's throwing motion, but they are putting an emphasis on his decision-making, encouraging him to take what the defense is giving him while also looking for opportunities to make chunk gains down the field. With the offseason additions of receivers Wan'Dale Robinson and rookie Carnell Tate, Ward will have more help in the passing game. The jury is still out on Ward as he heads into Year 2, but with a better supporting cast of coaches and receivers, he is trending up in superflex fantasy leagues as a low-end QB2 option with upside in 2026.",
+      "metadata": {
+        "description": "Tennessee Titans new head coach Robert Saleh is convinced that new offensive coordinator Brian Daboll will help quarterback Cam Ward improve in his second season in the NFL, according to Turron Davenport of ESPN. \"This kid's not going to fail,\" Saleh said. \"Obviously, I put my job on that one, but he's not going to fail. He's special.\" Ward did little to impress anyone in two preseason games, but he looked much better in joint practices against the Seattle Seahawks and Chicago Bears. Last year's first overall pick, Ward finished his rookie campaign with 3,169 passing yards (17th), 15 touchdowns (25th), and seven interceptions (tied for 10th-most), but he showed improvement in his final five games, throwing eight TDs and just one interception. \"I have a lot of confidence in this young man,\" Daboll said. The new coaching staff is not looking to tweak Ward's throwing motion, but they are putting an emphasis on his decision-making, encouraging him to take what the defense is giving him while also looking for opportunities to make chunk gains down the field. With the offseason additions of receivers Wan'Dale Robinson and rookie Carnell Tate, Ward will have more help in the passing game. The jury is still out on Ward as he heads into Year 2, but with a better supporting cast of coaches and receivers, he is trending up in superflex fantasy leagues as a low-end QB2 option with upside in 2026.",
+        "title": "Robert Saleh is Convinced Cam Ward Will Turn it Around",
+        "topic_id": "1401702478612836352",
+        "url": "https://www.rotoballer.com/player-news/robert-saleh-is-convinced-cam-ward-will-turn-it-around/1923486"
+      },
+      "nfl_team": "TEN",
+      "player_id": "12522",
+      "player_name": "Cam Ward",
+      "position": "QB",
+      "published": 1788539475000,
+      "source": "rotoballer",
+      "source_key": "220102",
+      "story_id": "nfl|12522|rotoballer|220102|1788539475000",
+      "title": "Robert Saleh is Convinced Cam Ward Will Turn it Around",
+      "url": "https://www.rotoballer.com/player-news/robert-saleh-is-convinced-cam-ward-will-turn-it-around/1923486"
+    },
+    {
+      "analysis": null,
       "description": "Across 17 games in 2025, Tennessee Titans running back Tony Pollard recorded 1,288 yards from scrimmage and five touchdowns on 275 touches. The 29-year-old has quietly been one of the NFL's most consistent running backs in recent years, recording at least 1,000 rushing yards and 1,250 scrimmage yards in four consecutive seasons. Pollard has also been exceptionally durable, missing just two games in that stretch. While playing in subpar Tennessee offenses, Pollard's fantasy value has been held down by his lack of red zone opportunities. However, the Titans project to be a more dangerous offense in 2026 with Brian Daboll now calling plays and quarterback Cam Ward entering his second NFL season. Fellow Titans back Tyjae Spears will steal some work from Pollard, but Pollard has averaged over 17 touches per game while sharing a backfield with Spears over the past two seasons. As a steady low-end RB2/high-end flex, Pollard may be undervalued in fantasy drafts entering 2026.",
       "metadata": {
         "description": "Across 17 games in 2025, Tennessee Titans running back Tony Pollard recorded 1,288 yards from scrimmage and five touchdowns on 275 touches. The 29-year-old has quietly been one of the NFL's most consistent running backs in recent years, recording at least 1,000 rushing yards and 1,250 scrimmage yards in four consecutive seasons. Pollard has also been exceptionally durable, missing just two games in that stretch. While playing in subpar Tennessee offenses, Pollard's fantasy value has been held down by his lack of red zone opportunities. However, the Titans project to be a more dangerous offense in 2026 with Brian Daboll now calling plays and quarterback Cam Ward entering his second NFL season. Fellow Titans back Tyjae Spears will steal some work from Pollard, but Pollard has averaged over 17 touches per game while sharing a backfield with Spears over the past two seasons. As a steady low-end RB2/high-end flex, Pollard may be undervalued in fantasy drafts entering 2026.",
-        "title": "Tony Pollard a High-Floor Running Back Option Due to Projectable Workload Volume",
+        "title": "Tony Pollard a High-Floor RB Due to Projectable Workload Volume",
         "topic_id": "1401701219595976704",
         "url": "https://www.rotoballer.com/player-news/tony-pollard-a-high-floor-running-back-option-due-to-projectable-workload-volume/1923470"
       },
@@ -251,7 +313,7 @@
       "source": "rotoballer",
       "source_key": "220101",
       "story_id": "nfl|5967|rotoballer|220101|1788539169000",
-      "title": "Tony Pollard a High-Floor Running Back Option Due to Projectable Workload Volume",
+      "title": "Tony Pollard a High-Floor RB Due to Projectable Workload Volume",
       "url": "https://www.rotoballer.com/player-news/tony-pollard-a-high-floor-running-back-option-due-to-projectable-workload-volume/1923470"
     },
     {
@@ -38502,27 +38564,6 @@
       "story_id": "nfl|3198|rotoballer|218050|1785971107000",
       "title": "Derrick Henry Wants to Finish his Career With Ravens",
       "url": "https://www.rotoballer.com/player-news/derrick-henry-wants-to-finish-career-with-ravens/1903840"
-    },
-    {
-      "analysis": "Schottenheimer said he broke up all players into four groups for preseason playing time. The A group plays zero snaps, B+ group plays 10-15 snaps, B- group plays 20-25 snaps and the C group plays unlimited snaps. We'll get our first look at Dak Prescott and the Cowboys starters in Week 1 against the Giants. ",
-      "description": "Cowboys head coach Brian Schottenheimer said he won't play starters in the preseason.",
-      "metadata": {
-        "analysis": "Schottenheimer said he broke up all players into four groups for preseason playing time. The A group plays zero snaps, B+ group plays 10-15 snaps, B- group plays 20-25 snaps and the C group plays unlimited snaps. We'll get our first look at Dak Prescott and the Cowboys starters in Week 1 against the Giants. ",
-        "description": "Cowboys head coach Brian Schottenheimer said he won't play starters in the preseason.",
-        "title": "Dak Prescott, Cowboys starters will not play in preseason ",
-        "topic_id": "1390832185191178240",
-        "url": "https://www.fantasypros.com/nfl/news/600637/dak-prescott-cowboys-starters-will-not-play-preseason.php"
-      },
-      "nfl_team": "DAL",
-      "player_id": "3294",
-      "player_name": "Dak Prescott",
-      "position": "QB",
-      "published": 1785962742671,
-      "source": "fantasy_pros",
-      "source_key": "600637",
-      "story_id": "nfl|3294|fantasy_pros|600637|1785962742671",
-      "title": "Dak Prescott, Cowboys starters will not play in preseason ",
-      "url": "https://www.fantasypros.com/nfl/news/600637/dak-prescott-cowboys-starters-will-not-play-preseason.php"
     }
   ]
 }
