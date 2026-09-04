@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T16:44:11Z",
+  "last_checked_at": "2026-09-04T16:54:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|8110|fantasy_pros|605912|1788539722706"
+    "nfl|12504|rotoballer|220082|1788525409000"
   ],
   "schema_version": 1,
   "source": {
@@ -175,6 +175,26 @@
       "story_id": "nfl|13296|rotowire|636255|1788535389000",
       "title": "Caleb Douglas - Listed as starter",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Iowa Hawkeyes offensive coordinator Tim Lester spent the 2023 season with the Green Bay Packers as an analyst and was named offensive coordinator at Iowa in 2024, where he inherited new Packers running back Kaleb Johnson and brought along head coach Matt LaFleur's offense, according to Bill Huber of Sports Illustrated. \"He should have unbelievable familiarity with the system, that's for sure, because that's exactly what we ran his senior year of college, which is good,\" Lester said. \"And so I've been excited for him to get his shot and kind of get settled. The NFL normally takes a little bit of time to get adjusted, but definitely a talented kid.\" It should help Johnson, a third-rounder by the Pittsburgh Steelers last year, get up to speed much faster after recently being acquired in a trade from Pittsburgh to help the Packers with RB depth now that Josh Jacobs will not be with the team to begin the 2026 season. Johnson had 1,537 rushing yards and 21 touchdowns at Iowa in 2024, with 4.4 yards on average coming after contact. The 23-year-old excels at breaking tackles, although he only had 28 carries for 69 yards (2.5 yards per carry) in 10 games with the Steelers as a rookie. Johnson's rookie season was forgettable, but he could quickly turn things around in Green Bay in an offense he is much more familiar with. MarShawn Lloyd is expected to get the first crack at RB1 duties with Jacobs out, but Johnson should not be ignored as a late-round handcuff with rising value because of Jacobs' status.",
+      "metadata": {
+        "description": "Iowa Hawkeyes offensive coordinator Tim Lester spent the 2023 season with the Green Bay Packers as an analyst and was named offensive coordinator at Iowa in 2024, where he inherited new Packers running back Kaleb Johnson and brought along head coach Matt LaFleur's offense, according to Bill Huber of Sports Illustrated. \"He should have unbelievable familiarity with the system, that's for sure, because that's exactly what we ran his senior year of college, which is good,\" Lester said. \"And so I've been excited for him to get his shot and kind of get settled. The NFL normally takes a little bit of time to get adjusted, but definitely a talented kid.\" It should help Johnson, a third-rounder by the Pittsburgh Steelers last year, get up to speed much faster after recently being acquired in a trade from Pittsburgh to help the Packers with RB depth now that Josh Jacobs will not be with the team to begin the 2026 season. Johnson had 1,537 rushing yards and 21 touchdowns at Iowa in 2024, with 4.4 yards on average coming after contact. The 23-year-old excels at breaking tackles, although he only had 28 carries for 69 yards (2.5 yards per carry) in 10 games with the Steelers as a rookie. Johnson's rookie season was forgettable, but he could quickly turn things around in Green Bay in an offense he is much more familiar with. MarShawn Lloyd is expected to get the first crack at RB1 duties with Jacobs out, but Johnson should not be ignored as a late-round handcuff with rising value because of Jacobs' status.",
+        "title": "Familiarity With Packers' Scheme Should Help Kaleb Johnson",
+        "topic_id": "1401643333784227840",
+        "url": "https://www.rotoballer.com/player-news/familiarity-with-packers-scheme-should-help-kaleb-johnson/1923279"
+      },
+      "nfl_team": "GB",
+      "player_id": "12504",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "published": 1788525409000,
+      "source": "rotoballer",
+      "source_key": "220082",
+      "story_id": "nfl|12504|rotoballer|220082|1788525409000",
+      "title": "Familiarity With Packers' Scheme Should Help Kaleb Johnson",
+      "url": "https://www.rotoballer.com/player-news/familiarity-with-packers-scheme-should-help-kaleb-johnson/1923279"
     },
     {
       "analysis": null,
