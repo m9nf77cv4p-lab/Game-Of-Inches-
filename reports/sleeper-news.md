@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1927**
-- Newly captured: **0**
+- Stored stories: **1928**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Travis Hunter** — Travis Hunter - Getting more work at CB vs. WR (2026-09-04T21:53:36Z)
+  - After his rookie 2025 season came to an abrupt end after Week 7 due to an isolated LCL injury in his right knee, Hunter still was expected to play both wide receiver and cornerback in 2026, but the breakdown of reps between the two wasn't entirely clear until the Jaguars posted their first unofficial depth chart of training camp. Therein, he was listed as a starting CB and reserve WR, and his practice reps trended in that direction as August went on. It's thus unclear what kind of role Hunter can expect on offense to begin the campaign, especially in a position group that rosters Brian Thomas, Parker Washington, Jakobi Meyers (hand) and rookie sixth-rounders Josh Cameron and C.J. Williams.
 - **Jacoby Brissett** — Jacoby Brissett - Starting QB on depth chart (2026-09-04T21:36:45Z)
   - After Arizona released Kyler Murray in March, the team signed Gardner Minshew in free agency and then rounded out the QB room by drafting Carson Beck (ribs) in the third round of the 2026 Draft. Despite those notable additions, Brissett was expected to be the starter, and as a result he held a hold-in during the offseason program and at the starting training camp before agreeing to a revised contract with the team on July 26. Brissett made a cameo in preseason Week 1 versus the Raiders, completing all five of his passes for 44 yards and a touchdown strike to Marvin Harrison. Considering he'll have TE Trey McBride, WRs Harrison and Michael Wilson and RBs Jeremiyah Love (ankle) and Tyler Allgeier at his disposal, Brissett very well may produce like he did during his 12-game starting stint to end last season. Whether that'll be enough for Brissett to hold on to the No. 1 gig throughout the campaign is up in the air, especially with Beck waiting in the wings.
 - **Josh Allen** — Josh Allen - Logs one appearance in preseason (2026-09-04T21:21:49Z)
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Per the report, Odunze did not seem overly concerned about the injury and attempted to stay on the field, but the training staff decided to bring his day to an early end. His status will be updated again when more details are released, but as things stand both Odunze and Luther Burden (groin) are less than 100 percent. Kalif Raymond, Zavion Thomas and Jahdae Walker are next in line on the depth chart.
 - **Tucker Kraft** — Tucker Kraft Trending Up as He Approaches Full Health (2026-09-03T21:21:12Z)
   - Source: https://www.rotoballer.com/player-news/tucker-kraft-is-looking-good-running-before-practice/1922914
-- **D'Andre Swift** — D'Andre Swift - Leaves practice with injury (2026-09-03T21:20:13Z)
-  - The initial report did not provide further specifics, but per Sean Hammond of the Chicago Tribune, Swift exited the field holding his "midsection or core area." Backfield mate Kyle Monangai is already working back from a knee issue, so the top two running backs on the depth chart for the Bears will head into the weekend with an injury designation, and Roschon Johnson will be the only ball carrier on the roster without one.
