@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-04T18:49:19Z",
+  "last_checked_at": "2026-09-04T18:59:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|5850|rotowire|636267|1788546861000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -14,12 +12,12 @@
   },
   "stories": [
     {
-      "analysis": "The move of the court date is going to lead to speculation about if and when he'll receive discipline from the NFL, especially if a plea deal is announced. But that has not been divulged so far. At the very least we will likely have more clarification about what is the next step in the process for Jacobs.",
-      "description": "Jacobs' next court date has been moved up from November 17 to September 10, Brian Kerhin of Fox 11 News reports. Jacobs is expected to be represented by his attorney and won't personally appear at the hearing.",
+      "analysis": "The move of the court date is going to lead to speculation about if and when he'll receive discipline from the NFL, especially if a plea deal is announced. But that has not been divulged so far. At the very least, there may soon be more clarification about what the next step in the process is for Jacobs, who remains on the Commissioner's Exempt List.",
+      "description": "Jacobs' next court date has been moved up from Nov. 17 to Sept. 10, Michael Gross of Fox 11 Green Bay reports. Jacobs is expected to be represented by his attorney and won't personally appear at the hearing.",
       "metadata": {
-        "analysis": "The move of the court date is going to lead to speculation about if and when he'll receive discipline from the NFL, especially if a plea deal is announced. But that has not been divulged so far. At the very least we will likely have more clarification about what is the next step in the process for Jacobs.",
-        "description": "Jacobs' next court date has been moved up from November 17 to September 10, Brian Kerhin of Fox 11 News reports. Jacobs is expected to be represented by his attorney and won't personally appear at the hearing.",
-        "title": "Josh Jacobs - Court Date Moved Up",
+        "analysis": "The move of the court date is going to lead to speculation about if and when he'll receive discipline from the NFL, especially if a plea deal is announced. But that has not been divulged so far. At the very least, there may soon be more clarification about what the next step in the process is for Jacobs, who remains on the Commissioner's Exempt List.",
+        "description": "Jacobs' next court date has been moved up from Nov. 17 to Sept. 10, Michael Gross of Fox 11 Green Bay reports. Jacobs is expected to be represented by his attorney and won't personally appear at the hearing.",
+        "title": "Josh Jacobs - Court date moved up",
         "topic_id": "1401672279280119808"
       },
       "nfl_team": "GB",
@@ -30,7 +28,7 @@
       "source": "rotowire",
       "source_key": "636267",
       "story_id": "nfl|5850|rotowire|636267|1788546861000",
-      "title": "Josh Jacobs - Court Date Moved Up",
+      "title": "Josh Jacobs - Court date moved up",
       "url": null
     },
     {
