@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T02:38:40Z",
+  "last_checked_at": "2026-09-04T02:50:20Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|5045|rotowire|636237|1788489107000",
-    "nfl|8110|rotoballer|220054|1788474236000"
+    "nfl|11566|rotoballer|220055|1788474974000",
+    "nfl|13276|rotowire|636238|1788490092000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Cooper served as one of QB Fernando Mendoza's top targets at Indiana last season, finishing with a 69-937-13 line in 16 games. After turning in a 4.42 40 time at the combine, his prospect profile was enough for the Jets to use the 30th overall pick on him in the 2026 NFL Draft. Joining a receiving corps already boasting Garrett Wilson and Adonai Mitchell, Cooper wasn't destined for more than the No. 3 WR role in the offense, but he worked behind even Isaiah Williams in three-wide sets during training camp, and his current depth-chart slotting indicates he still has work to do to earn significant reps in New York's passing game.",
+      "description": "Cooper is listed as a backup wide receiver on the Jets' unofficial depth chart.",
+      "metadata": {
+        "analysis": "Cooper served as one of QB Fernando Mendoza's top targets at Indiana last season, finishing with a 69-937-13 line in 16 games. After turning in a 4.42 40 time at the combine, his prospect profile was enough for the Jets to use the 30th overall pick on him in the 2026 NFL Draft. Joining a receiving corps already boasting Garrett Wilson and Adonai Mitchell, Cooper wasn't destined for more than the No. 3 WR role in the offense, but he worked behind even Isaiah Williams in three-wide sets during training camp, and his current depth-chart slotting indicates he still has work to do to earn significant reps in New York's passing game.",
+        "description": "Cooper is listed as a backup wide receiver on the Jets' unofficial depth chart.",
+        "title": "Omar Cooper - Listed as second-teamer on depth chart",
+        "topic_id": "1401433181583855616"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13276",
+      "player_name": "Omar Cooper",
+      "position": "WR",
+      "published": 1788490092000,
+      "source": "rotowire",
+      "source_key": "636238",
+      "story_id": "nfl|13276|rotowire|636238|1788490092000",
+      "title": "Omar Cooper - Listed as second-teamer on depth chart",
+      "url": null
+    },
     {
       "analysis": "Sutton will look to make it three straight seasons with over 1,000 receiving yards as he once again operates as a top option in the wide receiver room with Denver. The Broncos traded for Jaylen Waddle in the offseason, and as a result, Sutton will likely see a reduction in targets, but his role as a top red-zone threat will remain.",
       "description": "Sutton is listed as a starting wide receiver on the Broncos' unofficial depth chart.",
@@ -173,6 +193,26 @@
       "story_id": "nfl|11620|rotowire|636197|1788476225000",
       "title": "Rome Odunze - Seemingly avoids serious setback",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders third-year quarterback Jayden Daniels, out of LSU, had a down season in 2025 after his rookie campaign, in which he finished as the QB5 while rushing for 891 yards and throwing for 3,568 yards, and led the Commanders to the NFC title game. His 2025 season was derailed by multiple injuries, and he played in only seven games. Daniels is healthy entering the 2026 season with an improved receiving group. The Commanders brought in Stefon Diggs over the Patriots, Chig Okonkwo from the Titans, and Terry McLaurin is healthy entering the season. Diggs remained efficient on a per-route basis with the Patriots last season, and McLaurin had a career year with Daniels in 2024, when he had 1,096 receiving yards and 13 touchdowns on 117 targets. Daniels still has elite rushing upside and should bounce back in a big way this season. RotoBaller ranks Daniels as the QB4 for the season and the 60th overall player off the board.",
+      "metadata": {
+        "description": "Washington Commanders third-year quarterback Jayden Daniels, out of LSU, had a down season in 2025 after his rookie campaign, in which he finished as the QB5 while rushing for 891 yards and throwing for 3,568 yards, and led the Commanders to the NFC title game. His 2025 season was derailed by multiple injuries, and he played in only seven games. Daniels is healthy entering the 2026 season with an improved receiving group. The Commanders brought in Stefon Diggs over the Patriots, Chig Okonkwo from the Titans, and Terry McLaurin is healthy entering the season. Diggs remained efficient on a per-route basis with the Patriots last season, and McLaurin had a career year with Daniels in 2024, when he had 1,096 receiving yards and 13 touchdowns on 117 targets. Daniels still has elite rushing upside and should bounce back in a big way this season. RotoBaller ranks Daniels as the QB4 for the season and the 60th overall player off the board.",
+        "title": "Jayden Daniels Primed for a Bounce-Back Season in 2026",
+        "topic_id": "1401431920516038656",
+        "url": "https://www.rotoballer.com/player-news/jayden-daniels-primed-for-a-bounce-back-season-in-2026-with-improved-receiving-core/1922958"
+      },
+      "nfl_team": "WAS",
+      "player_id": "11566",
+      "player_name": "Jayden Daniels",
+      "position": "QB",
+      "published": 1788474974000,
+      "source": "rotoballer",
+      "source_key": "220055",
+      "story_id": "nfl|11566|rotoballer|220055|1788474974000",
+      "title": "Jayden Daniels Primed for a Bounce-Back Season in 2026",
+      "url": "https://www.rotoballer.com/player-news/jayden-daniels-primed-for-a-bounce-back-season-in-2026-with-improved-receiving-core/1922958"
     },
     {
       "analysis": null,

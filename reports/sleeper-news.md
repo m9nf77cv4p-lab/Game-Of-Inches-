@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1850**
+- Stored stories: **1852**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Courtland Sutton** — Courtland Sutton - Atop depth chart again in 2026 (2026-09-04T02:31:47Z)
+- **NEW — Omar Cooper** — Omar Cooper - Listed as second-teamer on depth chart (2026-09-04T02:48:12Z)
+  - Cooper served as one of QB Fernando Mendoza's top targets at Indiana last season, finishing with a 69-937-13 line in 16 games. After turning in a 4.42 40 time at the combine, his prospect profile was enough for the Jets to use the 30th overall pick on him in the 2026 NFL Draft. Joining a receiving corps already boasting Garrett Wilson and Adonai Mitchell, Cooper wasn't destined for more than the No. 3 WR role in the offense, but he worked behind even Isaiah Williams in three-wide sets during training camp, and his current depth-chart slotting indicates he still has work to do to earn significant reps in New York's passing game.
+- **Courtland Sutton** — Courtland Sutton - Atop depth chart again in 2026 (2026-09-04T02:31:47Z)
   - Sutton will look to make it three straight seasons with over 1,000 receiving yards as he once again operates as a top option in the wide receiver room with Denver. The Broncos traded for Jaylen Waddle in the offseason, and as a result, Sutton will likely see a reduction in targets, but his role as a top red-zone threat will remain.
 - **Jonah Coleman** — Jonah Coleman - Destined for between-the-tackles role (2026-09-04T01:24:54Z)
   - Coleman was selected in the fourth round of April's draft after completing his four-year college career with a 2025 campaign with Washington during which he compiled 758 rushing yards and 15 touchdowns on 156 carries over 12 contests. He also added 31 catches for 354 yards and two scores during his senior season. The Huskies played with an up-tempo style, so Coleman was on the field for all downs, resulting in him becoming a capable receiver and pass blocker. The running back is considered a more physical back than RJ Harvey, who is also set to serve as reserve option behind Dobbins this season, and as a result, Coleman could be ticketed to serve more frequently as a direct replacement for Dobbins.
@@ -23,7 +25,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as "aggressive, which is huge for us." The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.
 - **Rome Odunze** — Rome Odunze - Seemingly avoids serious setback (2026-09-03T22:57:05Z)
   - Odunze exited in the first hour of Thursday's session, but despite attempting to stay on the field, he was escorted off of it with team trainers. Wiederer's report seems to back up that Odunze's new health concern isn't a serious one, but he'll still enter Week 1 prep with a question mark regarding his status. With fellow WR Luther Burden also tending to a groin injury, the Bears currently have only Kalif Raymond, Zavion Thomas and Jahdae Walker as healthy options at the position on the active roster.
-- **NEW — Jake Ferguson** — Jake Ferguson Restructures Contract With the Cowboys (2026-09-03T22:23:56Z)
+- **NEW — Jayden Daniels** — Jayden Daniels Primed for a Bounce-Back Season in 2026 (2026-09-03T22:36:14Z)
+  - Source: https://www.rotoballer.com/player-news/jayden-daniels-primed-for-a-bounce-back-season-in-2026-with-improved-receiving-core/1922958
+- **Jake Ferguson** — Jake Ferguson Restructures Contract With the Cowboys (2026-09-03T22:23:56Z)
   - Source: https://www.rotoballer.com/player-news/jake-ferguson-restructures-contract-with-the-cowboys/1922954
 - **J.K. Dobbins** — Jonah Coleman Could Be Between-the-Tackles Complement in Denver (2026-09-03T22:12:12Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-could-be-between-the-tackles-complement-to-j-k-dobbins/1922946
@@ -209,7 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Likely signed a three-year, $40 million contract with the Giants in March and has subsequently formed a strong connection with QB Jaxson Dart on and off the field. The 26-year-old tight end also has familiarity with head coach John Harbaugh from their time together in Baltimore, where Likely played from 2022 to 2025. Likely was overshadowed by Mark Andrews on the Ravens, but the former has a clear path to a larger role in New York, where Likely will be competing for targets with fellow TE Theo Johnson (shoulder), as well as a WR room that includes Darius Slayton, Darnell Mooney, Malachi Fields and Odell Beckham behind Nabers.
 - **De'Zhaun Stribling** — De'Zhaun Stribling to Begin as Starting Slot Receiver? (2026-09-03T14:19:05Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-to-begin-as-starting-slot-receiver/1922635
-- **George Holani** — George Holani the Seahawks' Goal-Line Back? (2026-09-03T14:11:06Z)
-  - Source: https://www.rotoballer.com/player-news/george-holani-the-seahawks-goal-line-back/1922630
-- **Travis Etienne** — Travis Etienne - Finishes training camp healthy (2026-09-03T14:02:17Z)
-  - Etienne was one of the few Saints running backs to avoid any sort of injury scare or setback during training camp. Ty Chandler (knee) is out for the season after landing on injured reserve, and Alvin Kamara (knee) appears to be trending toward sitting out Week 1. Additionally, Kendre Miller sustained a minor undisclosed injury during practice Tuesday and is day-to-day, while Audric Estime is healthy but missed time in camp due to an ankle issue. After signing a four-year, $52 million deal in March, Etienne had already looked poised to handle a sizable workload for New Orleans both as a lead runner and pass catcher, and the current condition of his backups following camp and the preseason adds further fuel to the notion that he'll be in line for heavy volume right of the gate.
