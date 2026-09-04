@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1896**
-- Newly captured: **2**
+- Stored stories: **1897**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Chig Okonkwo** — Chig Okonkwo - Listed as first-teamer in depth chart (2026-09-04T17:31:50Z)
+- **Chig Okonkwo** — Chig Okonkwo - Listed as first-teamer in depth chart (2026-09-04T17:31:50Z)
   - After a four-year stint to begin his career in Tennessee, Okonkwo moved on to Washington via free agency this offseason, agreeing to a three-year, $27 million contract. Considering the investment made in him, it's no surprise he's listed as a first-teamer ahead of the 2026 campaign, and with lacking competition behind him for targets in the form of John Bates (hamstring), Ben Sinnott (oblique) and Colson Yankoff, Okonkwo is poised to serve as the top TE for QB Jayden Daniels.
 - **Jayden Daniels** — Jayden Daniels - One possession in preseason (2026-09-04T17:22:06Z)
   - Daniels suited up for preseason Week 2 at Detroit, but Washington's offense quickly went three-and-out via the aforementioned incompletion, a sack for a loss of 10 yards and an 11-yard Kaytron Allen run. Daniels otherwise remained on the sideline for the rest of exhibition season. After an outstanding rookie campaign in 2024, he endured an injury-plagued 2025, completing just 60.6 percent of his passes for 1,262 yards, eight touchdowns and three interceptions and rushing 58 times for 278 yards and two more TDs in seven appearances.
@@ -30,7 +30,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special-teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.
 - **Caleb Douglas** — Caleb Douglas - Listed as starter (2026-09-04T15:23:09Z)
   - Douglas is slotted in as the X receiver, alongside Jalen Tolbert at the Z and Malik Washington as the slot man for Miami. A third-round pick out of Texas Tech back in April, Douglas has been running with the first-team offense most of the summer. He logged 17 offensive snaps during the preseason, catching one of his two targets for 28 yards, before being rested for the third exhibition. This Dolphins offense projects to be a low-scoring one, and it remains to be seen if Malik Willis will be able to carry any of his pass catchers to fantasy relevance.
-- **NEW — RJ Harvey** — RJ Harvey to See a "Big Role" as Broncos' Pass-Catching Back (2026-09-04T13:27:17Z)
+- **NEW — Jonah Coleman** — Jonah Coleman "Most Hyped Player on Roster", Viewed as Direct Backup to Dobbins (2026-09-04T13:40:04Z)
+  - Source: https://www.rotoballer.com/player-news/jonah-coleman-most-hyped-player-on-roster-viewed-as-direct-backup-to-dobbins/1923322
+- **RJ Harvey** — RJ Harvey to See a "Big Role" as Broncos' Pass-Catching Back (2026-09-04T13:27:17Z)
   - Source: https://www.rotoballer.com/player-news/rj-harvey-to-see-a-big-role-as-broncos-pass-catching-back/1923313
 - **Josh Jacobs** — Josh Jacobs' Initial Court Appearance Moved Up (2026-09-04T13:14:05Z)
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-initial-court-appearance-moved-up/1923305
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - "He's going to play everywhere," Webb said. "He's really really good. He's going to play everywhere. Except offensive line." Coach Sean Payton has been moving Waddle all over the formation during training camp, and he recently beat Patrick Surtain for a 60-yard touchdown in practice. Payton added that Waddle "walks on water" with his traits. Acquired from the Dolphins over the offseason, Waddle missed some time early in camp with tightness. He's looking like a potential home run pick in the third and fourth rounds of fantasy drafts. Waddle is expected to be the engine of the Denver offense.
 - **Garrett Wilson** — Garrett Wilson - Top target in revamped Jets offense (2026-09-03T17:28:37Z)
   - Wilson led the Jets with 395 receiving yards in 2025 despite missing 10 of the last 11 games due to a knee injury. The 2022 first-round pick has regained health, while the passing offense around him has undergone a significant makeover, with veteran QB Geno Smith and rookie first-round pass catchers Cooper and Kenyon Sadiq (abdomen) among the team's most notable additions. Wilson exceeded 1,000 receiving yards in each of his first three NFL seasons despite uneven QB play prior to falling well short of that mark in his injury-shortened fourth campaign.
-- **RJ Harvey** — RJ Harvey - Prepping for passing game role (2026-09-03T17:25:32Z)
-  - Along with veteran J.K. Dobbins and rookie fourth-round pick Jonah Coleman, Harvey was rested in the Broncos' 34-6 win over the Vikings in the preseason finale Friday, which seemingly indicates that Payton intends for all three players to have roles in the game plan Week 1 against the Chiefs. After managing a soft-tissue issue in training camp, Dobbins is back to full health and is slated to begin the season as the Broncos' starter and lead runner, while the 5-foot-8, 220-pound Coleman is also likely to get some work on early downs. That leaves Harvey in line to serve as more of a change-of-pace option, which could make it difficult for him to build on the seven rushing scores he delivered as a rookie last season. Harvey averaged an unremarkable 3.7 yards per carry but proved to be an adept receiver right away, turning in a 47-356-5 line on 58 targets. He'll maintain more appeal in fantasy leagues with PPR scoring, though Harvey could emerge as a more trustworthy option in non-PPR formats if he earned more carries in the event Dobbins and/or Coleman miss time at any point.

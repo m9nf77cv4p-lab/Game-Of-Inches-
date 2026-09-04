@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T17:42:59Z",
+  "last_checked_at": "2026-09-04T17:52:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12489|rotoballer|220085|1788528437000",
-    "nfl|8210|rotowire|636262|1788543110000"
+    "nfl|13345|rotoballer|220086|1788529204000"
   ],
   "schema_version": 1,
   "source": {
@@ -216,6 +215,26 @@
       "story_id": "nfl|13296|rotowire|636255|1788535389000",
       "title": "Caleb Douglas - Listed as starter",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos rookie running back Jonah Coleman has been one of the most hyped players on the roster since the team spent a fourth-round pick on him in the 2026 NFL Draft, and in appearing with Ari Meirov of The 33rd Team, Broncos beat reporter Zac Stevens indicated that the buzz is well-justified. Pointing out the complexity of Sean Payton's offense, Stevens notes that Coleman has already earned the trust of Payton and new offensive coordinator Davis Webb and says, \"If and when J.K. Dobbins gets hurt, it's not going to be RJ Harvey that steps up into that starting running back role. It's going to be Jonah Coleman.\" Dobbins has not played more than 13 games in any year since his 2020 rookie season, so if Coleman has truly earned his coaches' favor, he could prove to be one of the league's most valuable insurance backs, heading into the final weekend of draft season as RotoBaller's RB54.",
+      "metadata": {
+        "description": "Denver Broncos rookie running back Jonah Coleman has been one of the most hyped players on the roster since the team spent a fourth-round pick on him in the 2026 NFL Draft, and in appearing with Ari Meirov of The 33rd Team, Broncos beat reporter Zac Stevens indicated that the buzz is well-justified. Pointing out the complexity of Sean Payton's offense, Stevens notes that Coleman has already earned the trust of Payton and new offensive coordinator Davis Webb and says, \"If and when J.K. Dobbins gets hurt, it's not going to be RJ Harvey that steps up into that starting running back role. It's going to be Jonah Coleman.\" Dobbins has not played more than 13 games in any year since his 2020 rookie season, so if Coleman has truly earned his coaches' favor, he could prove to be one of the league's most valuable insurance backs, heading into the final weekend of draft season as RotoBaller's RB54.",
+        "title": "Jonah Coleman \"Most Hyped Player on Roster\", Viewed as Direct Backup to Dobbins",
+        "topic_id": "1401658434339745792",
+        "url": "https://www.rotoballer.com/player-news/jonah-coleman-most-hyped-player-on-roster-viewed-as-direct-backup-to-dobbins/1923322"
+      },
+      "nfl_team": "DEN",
+      "player_id": "13345",
+      "player_name": "Jonah Coleman",
+      "position": "RB",
+      "published": 1788529204000,
+      "source": "rotoballer",
+      "source_key": "220086",
+      "story_id": "nfl|13345|rotoballer|220086|1788529204000",
+      "title": "Jonah Coleman \"Most Hyped Player on Roster\", Viewed as Direct Backup to Dobbins",
+      "url": "https://www.rotoballer.com/player-news/jonah-coleman-most-hyped-player-on-roster-viewed-as-direct-backup-to-dobbins/1923322"
     },
     {
       "analysis": null,
