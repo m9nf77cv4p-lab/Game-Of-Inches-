@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1861**
+- Stored stories: **1864**
 - Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Brenton Strange** — Brenton Strange - In line to start Week 1 (2026-09-04T03:51:28Z)
+- **NEW — Aaron Rodgers** — Aaron Rodgers - To have Metcalf, Pittman back in Week 1 (2026-09-04T04:06:03Z)
+  - Rodgers didn't suit up in the preseason, and coach Mike McCarthy tied his decision to do so to the fact that Metcalf and Pittman weren't healthy enough to play. Even if one or both of Metcalf and Pittman aren't available for the regular-season opener, Rodgers wouldn't be a consideration to be inactive, but it appears the duo will be able to suit up, barring any setbacks in the meantime. Rodgers led a Steelers offense in 2025 that didn't have much talent at WR aside from Metcalf, but the quarterback still completed 65.7 percent of his passes for 3,322 yards, 24 touchdowns and seven interceptions in 16 regular-season games.
+- **Brenton Strange** — Brenton Strange - In line to start Week 1 (2026-09-04T03:51:28Z)
   - Strange inked a three-year extension with Jacksonville back in June, and in the wake of roster cuts, rookie second-round pick Nate Boerkircher, rookie fifth-rounder Tanner Koziol and fifth-year pro Quintin Morris are the other TEs on the roster. As a result, Strange is the likeliest member of the group, barring health concerns, to end the campaign as the leader in offensive snaps. He's also coming off a 2025 season in which he posted a 46-540-3 line on 60 targets across 12 regular-season games.
 - **Chris Rodriguez** — Chris Rodriguez - Healthy ahead of Week 1 (2026-09-04T03:41:23Z)
   - Allen is the only one of the quartet whose status for Week 1 appears to be up in the air, but Rodriguez nonetheless is poised for a regular role in Jacksonville's offense. What kind of workload that entails remains to be seen, but Tuten is Rodriguez's primary competitor for touches. At least when it comes to short-yardage and goal-line usage, the more imposing Rodriguez likely will handle those after earning 33 carries inside the 20-yard line last season for the Commanders. The Jaguars' season opener against the Browns on Sunday, Sept. 13 ultimately will provide insight into what to expect from the duo.
@@ -27,11 +29,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Swift was reportedly "in significant discomfort" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will carry an injury designation for the time being, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injury report, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.
 - **Jalen Coker** — Jalen Coker - Listed as starting WR (2026-09-04T00:03:24Z)
   - Despite going undrafted in 2024, Coker has made his presence felt through two pro campaigns, resulting in 65 catches (on 89 targets) for 872 yards and five touchdowns in 22 regular-season games. His defining moment of sorts occurred the last time he was on the field for a contest that counts, when he torched the Rams for 9-134-1 on 12 targets in a wild-card loss. Coker will continue to operate as a complementary option to No. 1 WR Tetairoa McMillan for QB Bryce Young in 2026.
+- **NEW — Jayden Reed** — Jayden Reed Set for Larger Role Amid Improved Health (2026-09-04T00:02:07Z)
+  - Source: https://www.rotoballer.com/player-news/jayden-reed-set-for-larger-role-amid-improved-health/1922987
+- **NEW — De'Von Achane** — De'Von Achane Still Holds Elite Upside Despite Poor Supporting Cast (2026-09-03T23:57:07Z)
+  - Source: https://www.rotoballer.com/player-news/devon-achane-still-holds-elite-upside-despite-poor-supporting-cast/1922985
 - **Bryce Young** — Bryce Young - Working with new play caller (2026-09-03T23:55:01Z)
   - Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as "aggressive, which is huge for us." The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.
-- **NEW — Jonathan Taylor** — Jonathan Taylor Poised for Another Productive Year (2026-09-03T23:46:14Z)
+- **Jonathan Taylor** — Jonathan Taylor Poised for Another Productive Year (2026-09-03T23:46:14Z)
   - Source: https://www.rotoballer.com/player-news/jonathan-taylor-poised-for-another-productive-year/1922981
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks Set for Starting Role in Philadelphia (2026-09-03T23:42:08Z)
+- **Dontayvion Wicks** — Dontayvion Wicks Set for Starting Role in Philadelphia (2026-09-03T23:42:08Z)
   - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-set-for-starting-role-in-philadelphia/1922979
 - **Trevor Lawrence** — Trevor Lawrence Set for Potential Career-Best Season (2026-09-03T23:35:02Z)
   - Source: https://www.rotoballer.com/player-news/trevor-lawrence-set-for-potential-career-best-season-with-strong-supporting-cast/1922975
@@ -207,9 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/makai-lemons-rough-summer-has-cooled-his-draft-appeal/1922683
 - **Jauan Jennings** — Jauan Jennings - Sits out final two preseason contests (2026-09-03T15:15:58Z)
   - Signed to a one-year, $8 million deal in May, Jennings is locked in as the Vikings' No. 3 receiver and didn't need to compete for a job during the preseason. With San Francisco last season, Jennings primarily operated as the "X" receiver and turned in a 55-643-9 receiving line on 90 targets over his 15 appearances. Since Justin Jefferson typically occupies the X spot for Minnesota and Jordan Addison mainly works as the "Z" receiver, Jennings could end up seeing most of his time out of the slot with his new squad. While a slot role can often lead to catchable, higher-percentage targets, Jefferson remains the unquestioned No. 1 option in the passing game regardless of where he lines up, and Addison is capable of bumping inside and seems likely play ahead of Jennings in two-wide formations. Moreover, Vikings quarterback Kyler Murray hasn't had an extensive track record of supporting more than one fantasy viable pass catcher during his seven-year career, so Jennings could struggle to attain consistent week-to-week volume while he's vying with the likes of Addison and tight end T.J. Hockenson for the remaining targets that don't go to Jefferson.
-- **Mark Andrews** — Mark Andrews - Set to lead new-look TE room (2026-09-03T15:14:08Z)
-  - Unlike previous years, when he had Isaiah Likely breathing down his neck, Andrews isn't projected to have much competition for targets at his position. Smythe is a blocking specialist who averages fewer than 10 receiving yards per game in his career, while Hibner and Cuevas are rookie Day 3 draft picks. Andrews will be 31 years old when the 2026 regular season kicks off, and he averaged a career-low 24.8 receiving yards per game in 2025, so age-related decline seems to be his biggest concern from a fantasy standpoint.
-- **George Kittle** — George Kittle Could be on Snap Count in Week 1 (2026-09-03T15:13:16Z)
-  - Source: https://www.rotoballer.com/player-news/george-kittle-could-be-on-snap-count-in-week-1/1922676
-- **George Holani** — George Holani - Set to work as third-down back (2026-09-03T15:06:28Z)
-  - The Seahawks seem to trust Holani's receiving and pass-blocking abilities, which should allow the 26-year-old running back to earn a prominent role out of the gate, though the rookie first-round pick Price is the leading candidate to get most of the rushing opportunities. Zach Charbonnet (knee) could also earn a sizable role once healthy, but he'll miss at least the first four weeks of the season while on the reserve/PUP list and could be out well beyond then. Emanuel Wilson (hamstring) rounds out the running back depth chart.
