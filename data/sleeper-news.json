@@ -1,8 +1,11 @@
 {
-  "last_checked_at": "2026-09-04T01:20:22Z",
+  "last_checked_at": "2026-09-04T01:31:28Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|13345|rotowire|636230|1788485094000",
+    "nfl|9484|rotoballer|220049|1788470472000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Coleman was selected in the fourth round of April's draft after completing his four-year college career with a 2025 campaign with Washington during which he compiled 758 rushing yards and 15 touchdowns on 156 carries over 12 contests. He also added 31 catches for 354 yards and two scores during his senior season. The Huskies played with an up-tempo style, so Coleman was on the field for all downs, resulting in him becoming a capable receiver and pass blocker. The running back is considered a more physical back than RJ Harvey, who is also set to serve as reserve option behind Dobbins this season, and as a result, Coleman could be ticketed to serve more frequently as a direct replacement for Dobbins.",
+      "description": "Coleman is likely to serve as the Broncos' between-the-tackles complement to starter J.K. Dobbins this season, Nick Kosmider of The Athletic reports.",
+      "metadata": {
+        "analysis": "Coleman was selected in the fourth round of April's draft after completing his four-year college career with a 2025 campaign with Washington during which he compiled 758 rushing yards and 15 touchdowns on 156 carries over 12 contests. He also added 31 catches for 354 yards and two scores during his senior season. The Huskies played with an up-tempo style, so Coleman was on the field for all downs, resulting in him becoming a capable receiver and pass blocker. The running back is considered a more physical back than RJ Harvey, who is also set to serve as reserve option behind Dobbins this season, and as a result, Coleman could be ticketed to serve more frequently as a direct replacement for Dobbins.",
+        "description": "Coleman is likely to serve as the Broncos' between-the-tackles complement to starter J.K. Dobbins this season, Nick Kosmider of The Athletic reports.",
+        "title": "Jonah Coleman - Destined for between-the-tackles role",
+        "topic_id": "1401413048698150912"
+      },
+      "nfl_team": "DEN",
+      "player_id": "13345",
+      "player_name": "Jonah Coleman",
+      "position": "RB",
+      "published": 1788485094000,
+      "source": "rotowire",
+      "source_key": "636230",
+      "story_id": "nfl|13345|rotowire|636230|1788485094000",
+      "title": "Jonah Coleman - Destined for between-the-tackles role",
+      "url": null
+    },
     {
       "analysis": "Bryant reeled in 31 of 49 targets for 378 yards and a touchdown over 15 regular-season contests in his rookie campaign with Denver in 2025. The 23-year-old possesses a 6-foot-2, 200-plus pound frame, and he's on track to operate as the immediate backup behind Courtland Sutton as a boundary receiver with Denver this season. Bryant has already impressed with his physicality at his position, and he could earn more opportunities in his first campaign with new playcaller Davis Webb.",
       "description": "Bryant is slotted in as a top reserve option on the Broncos' unofficial depth chart.",
@@ -192,6 +215,26 @@
       "story_id": "nfl|11620|rotowire|636195|1788471088000",
       "title": "Rome Odunze - Sustains apparent leg injury",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers tight end Tucker Kraft (knee) appeared to be running without any issues ahead of Wednesday's game, Matt Schneidman of The Athletic reports. Kraft continues to work his way back from a torn ACL that he suffered in November of last year. He missed all of the preseason, but was able to take part during joint practice with the Arizona Cardinals last week. It seems that Kraft is trending in the right direction ahead of the Week 1 matchup against the Minnesota Vikings. He appears to be moving well and could very well be ready to go in time for the first game of the season.",
+      "metadata": {
+        "description": "Green Bay Packers tight end Tucker Kraft (knee) appeared to be running without any issues ahead of Wednesday's game, Matt Schneidman of The Athletic reports. Kraft continues to work his way back from a torn ACL that he suffered in November of last year. He missed all of the preseason, but was able to take part during joint practice with the Arizona Cardinals last week. It seems that Kraft is trending in the right direction ahead of the Week 1 matchup against the Minnesota Vikings. He appears to be moving well and could very well be ready to go in time for the first game of the season.",
+        "title": "Tucker Kraft is Looking Good Running Before Practice",
+        "topic_id": "1401411785961021440",
+        "url": "https://www.rotoballer.com/player-news/tucker-kraft-is-looking-good-running-before-practice/1922914"
+      },
+      "nfl_team": "GB",
+      "player_id": "9484",
+      "player_name": "Tucker Kraft",
+      "position": "TE",
+      "published": 1788470472000,
+      "source": "rotoballer",
+      "source_key": "220049",
+      "story_id": "nfl|9484|rotoballer|220049|1788470472000",
+      "title": "Tucker Kraft is Looking Good Running Before Practice",
+      "url": "https://www.rotoballer.com/player-news/tucker-kraft-is-looking-good-running-before-practice/1922914"
     },
     {
       "analysis": "The initial report did not provide further specifics, but per Sean Hammond of the Chicago Tribune, Swift exited the field holding his \"midsection or core area.\" Backfield mate Kyle Monangai is already working back from a knee issue, so the top two running backs on the depth chart for the Bears will head into the weekend with an injury designation, and Roschon Johnson will be the only ball carrier on the roster without one.",

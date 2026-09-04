@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1842**
-- Newly captured: **0**
+- Stored stories: **1844**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Jonah Coleman** — Jonah Coleman - Destined for between-the-tackles role (2026-09-04T01:24:54Z)
+  - Coleman was selected in the fourth round of April's draft after completing his four-year college career with a 2025 campaign with Washington during which he compiled 758 rushing yards and 15 touchdowns on 156 carries over 12 contests. He also added 31 catches for 354 yards and two scores during his senior season. The Huskies played with an up-tempo style, so Coleman was on the field for all downs, resulting in him becoming a capable receiver and pass blocker. The running back is considered a more physical back than RJ Harvey, who is also set to serve as reserve option behind Dobbins this season, and as a result, Coleman could be ticketed to serve more frequently as a direct replacement for Dobbins.
 - **Pat Bryant** — Pat Bryant - Poised to operate as top depth option (2026-09-04T00:53:42Z)
   - Bryant reeled in 31 of 49 targets for 378 yards and a touchdown over 15 regular-season contests in his rookie campaign with Denver in 2025. The 23-year-old possesses a 6-foot-2, 200-plus pound frame, and he's on track to operate as the immediate backup behind Courtland Sutton as a boundary receiver with Denver this season. Bryant has already impressed with his physicality at his position, and he could earn more opportunities in his first campaign with new playcaller Davis Webb.
 - **Geno Smith** — Geno Smith - Voted team captain (2026-09-04T00:45:54Z)
@@ -27,6 +29,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605833/rome-odunze-leaves-practice-early-thursday.php
 - **Rome Odunze** — Rome Odunze - Sustains apparent leg injury (2026-09-03T21:31:28Z)
   - Per the report, Odunze did not seem overly concerned about the injury and attempted to stay on the field, but the training staff decided to bring his day to an early end. His status will be updated again when more details are released, but as things stand both Odunze and Luther Burden (groin) are less than 100 percent. Kalif Raymond, Zavion Thomas and Jahdae Walker are next in line on the depth chart.
+- **NEW — Tucker Kraft** — Tucker Kraft is Looking Good Running Before Practice (2026-09-03T21:21:12Z)
+  - Source: https://www.rotoballer.com/player-news/tucker-kraft-is-looking-good-running-before-practice/1922914
 - **D'Andre Swift** — D'Andre Swift - Leaves practice with injury (2026-09-03T21:20:13Z)
   - The initial report did not provide further specifics, but per Sean Hammond of the Chicago Tribune, Swift exited the field holding his "midsection or core area." Backfield mate Kyle Monangai is already working back from a knee issue, so the top two running backs on the depth chart for the Bears will head into the weekend with an injury designation, and Roschon Johnson will be the only ball carrier on the roster without one.
 - **Tucker Kraft** — Tucker Kraft - Moving around well at practice (2026-09-03T20:31:12Z)
@@ -209,7 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.
 - **Drake Maye** — Drake Maye's Growth Has Stood Out to His Head Coach (2026-09-03T13:27:09Z)
   - Source: https://www.rotoballer.com/player-news/drake-mayes-growth-has-stood-out-to-his-head-coach/1922604
-- **Michael Penix** — Michael Penix - Will start 'eventually,' if not Week 1 (2026-09-03T13:23:16Z)
-  - Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part in 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.
-- **Jadarian Price** — Jadarian Price Set for an Important Early-Season Role (2026-09-03T13:13:14Z)
-  - Source: https://www.rotoballer.com/player-news/jadarian-price-set-for-an-important-early-season-role/1922599
