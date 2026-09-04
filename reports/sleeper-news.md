@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1912**
-- Newly captured: **2**
+- Stored stories: **1916**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Cam Ward** — Cam Ward - Working out kinks with Daboll (2026-09-04T20:05:17Z)
+- **NEW — Denzel Boston** — Denzel Boston - Gets first-team billing on depth chart (2026-09-04T20:15:16Z)
+  - The 39th overall pick in the 2026 Draft, Boston combined for one catch (on two targets) for 15 yards on 37 offensive snaps between his two appearances during the preseason. The output was nothing to write home about, but he appears set to be one of starting QB Deshaun Watson's key pass catchers to begin the campaign.
+- **Cam Ward** — Cam Ward - Working out kinks with Daboll (2026-09-04T20:05:17Z)
   - The first overall pick in the 2025 Draft, Ward started all 17 regular-season games as a rookie, completing 323 of 540 passes (59.8 percent) for 3,169 yards, 15 touchdowns and seven interceptions while turning 39 carries into 159 yards and two more TDs. He also fumbled 11 times, losing seven of them. The Titans added WR Carnell Tate in the first round of this year's draft and also signed WR Wan'Dale Robinson to a four-year, $70 million deal in the offseason, so Ward does have a bit more support as he enters his second pro campaign. Whether or not that helps Ward cut down on mistakes remains to be seen.
 - **Cade Otton** — Cade Otton - Remains No. 1 TE on depth chart (2026-09-04T19:36:53Z)
   - Aside from adding sixth-round rookie Bauer Sharp to the TE room this offseason, it's status quo for the position group in 2026, with all of Otton, Payne Durham and Ko Kieft back. Otton himself re-signed with Tampa Bay on a three-year, $30 million contract in March to retain his standing as the team's top tight end. Over the last two regular seasons, he's recorded exactly 59 catches on both occasions, totaling 1,172 yards and five touchdowns on 168 targets across 30 contests.
@@ -34,9 +36,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **D'Andre Swift** — D'Andre Swift left practice Thursday with a cramp  (2026-09-04T16:25:23.025000Z)
   - Swift was seen leaving practice "holding at his midsection or core area." It appears he should be good to go for the season opener next week. 
   - Source: https://www.fantasypros.com/nfl/news/605907/dandre-swift-left-practice-thursday-with-cramp.php
+- **NEW — Justin Herbert** — Justin Herbert Poised for Career Year Following Coaching Changes in Los Angeles? (2026-09-04T16:19:05Z)
+  - Source: https://www.rotoballer.com/player-news/justin-herbert-poised-for-career-year-following-coaching-changes-in-los-angeles/1923457
+- **NEW — Quentin Johnston** — Quentin Johnston Has a Chance to Take Another Step Forward (2026-09-04T16:16:20Z)
+  - Source: https://www.rotoballer.com/player-news/quentin-johnston-has-a-chance-to-take-another-step-forward/1923453
+- **NEW — Tank Bigsby** — Tank Bigsby a Priority Handcuff Running Back Option Entering 2026 (2026-09-04T16:09:05Z)
+  - Source: https://www.rotoballer.com/player-news/tank-bigsby-a-priority-handcuff-running-back-option-entering-2026/1923446
 - **Tank Dell** — Tank Dell - Takes pay cut from Houston (2026-09-04T15:55:44Z)
   - Entering the final year of his rookie deal, Dell was scheduled to collect $3.624 million, but he'll now make just over $1.7 million in 2026. Dell missed the entirety of the 2025 campaign after a catastrophic knee injury suffered toward the end of the previous season. He's now opening this season on injured reserve and won't be eligible to play until Week 5 at the earliest.
-- **NEW — Mark Andrews** — Mark Andrews Has Room for His Targets to Climb Again (2026-09-04T15:54:05Z)
+- **Mark Andrews** — Mark Andrews Has Room for His Targets to Climb Again (2026-09-04T15:54:05Z)
   - Source: https://www.rotoballer.com/player-news/mark-andrews-has-room-for-his-targets-to-climb-again/1923433
 - **Jerry Jeudy** — Jerry Jeudy - Listed as starting wideout (2026-09-04T15:51:27Z)
   - It comes as no surprise after the Browns cut Cedric Tillman at the end of training camp. Jeudy is listed as a starter alongside rookie wideouts KC Concepcion and Denzel Boston. Jeudy displayed no chemistry with Shedeur Sanders last season, as the veteran wideout finished 2025 with just 50 catches for 602 yards and two touchdowns on 106 targets. His 47.2 percent catch rate was fifth worst out of 197 qualified pass catchers, and of the 38 players in the NFL to see at least 100 targets, Jeudy's 602 yards were just two more than Jake Ferguson at the bottom of the list. Concepcion is expected to become the go-to target in Cleveland, with Boston operating as the big-bodied X receiver. Jeudy will face far more competition for targets.
@@ -206,11 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Williams played just one possession during exhibition season, leading the Bears to a Cairo Santos field goal to kick off preseason Week 2 at Cincinnati. The performance (2-for-5 passing for 28 yards, no TDs and no interceptions) was nothing to write home about, but Williams is set to take another step forward in his development in 2026. There are two question marks within Chicago's skill positions as Week 1 approaches: RB Kyle Monangai is attempting to put a hyperextended knee behind him, while WR Luther Burden is continuing his recovery from an early August groin injury. Having said that, Williams still has the healthy trio of RB D'Andre Swift, WR Rome Odunze and TE Colston Loveland at his services, so the QB's first 4,000-yard season through the air may be on the horizon.
 - **TreVeyon Henderson** — TreVeyon Henderson - Sits out Thursday's practice (2026-09-03T19:02:14Z)
   - Henderson has been sidelined for the last 10 days, and while there's been no indication he's dealing with a serious injury, it's starting to get close to the wire for Henderson to play in next Wednesday's regular-season opener against the Seahawks. Henderson will almost certainly need to return to practice before Monday to have a chance to face Seattle. If he can't go in Week 1, Rhamondre Stevenson would get a huge fantasy boost as a surefire RB2 based on volume projection.
-- **Tyjae Spears** — Tyjae Spears - Role seemingly unchanged from 2025 (2026-09-03T18:58:44Z)
-  - Based on preseason usage, Spears is firmly entrenched as the team's top alternative to Tony Pollard in the backfield. Spears produced 536 scrimmage yards in 2024 and 547 scrimmage yards in 2025 while filling such a role. His 838-yard rookie season in 2023 came prior to Pollard's arrival in Tennessee. Rookie fifth-round pick Nicholas Singleton didn't show anything during preseason action that would indicate he's an immediate threat to Spears' role, while Julius Chestnut is likely ticketed for a role on special teams.
-- **Keaton Mitchell** — Keaton Mitchell - Remains out of practice Thursday (2026-09-03T18:56:17Z)
-  - With Mitchell now having missed six straight practices, his status for Week 1 against the Cardinals is starting to come into question. If he's unable to go against Arizona, Kimani Vidal would settle in as the likely RB2 behind Omarion Hampton. Mitchell will need to get back on the field in some capacity next week if he's going to have a chance to suit up for the regular-season opener.
-- **Tony Pollard** — Tony Pollard - Set to reprise lead role for Titans (2026-09-03T18:54:32Z)
-  - Tennessee also kept Tyjae Spears, rookie fifth-round pick Nicholas Singleton and Julius Chestnut on the 53-man roster. The decision to roster four running backs, coupled with second-year QB Cam Ward's struggles in the preseason, could indicate a desire to implement a run-heavy approach from new OC Brian Daboll. Pollard has topped 1,000 scrimmage yards in five consecutive regular seasons, the last two of which came with the Titans, and he sits atop the RB depth chart heading into the regular season, with Spears poised to reprise his change-of-pace role.
-- **Matthew Golden** — Matthew Golden - Records one catch in preseason (2026-09-03T18:50:21Z)
-  - Golden was held without a target in the team's exhibition opener but was on the receiving end of a dot from QB Jordan Love in Denver in preseason Week 2, displaying the duo's growing rapport. Green Bay invested a first-round pick in Golden during the 2025 Draft, but a crowded receiving corps capped him to just a 29-361-0 line on 44 targets in 14 regular-season games as a rookie. With Romeo Doubs having moved on to the Patriots in free agency and Dontayvion Wicks getting traded to the Eagles this offseason, the WR options for Love are more clear cut between Christian Watson, Jayden Reed and Golden, giving the latter a better chance to tap into his potential in the upcoming campaign.
