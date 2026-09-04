@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1865**
+- Stored stories: **1866**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Pat Freiermuth** — Pat Freiermuth - Plays two preseason games (2026-09-04T04:19:01Z)
+- **NEW — Chase McLaughlin** — Chase McLaughlin - Set for fourth season as Bucs' kicker (2026-09-04T04:28:51Z)
+  - McLaughlin got limited opportunities early in his career, but he's played in 16 or 17 contests each of the past five years, the last three of which have been with the Bucs. He was incredibly accurate in making 94 percent of his FG attempts over his first two seasons with the club, and though that rate dropped a bit to 84 percent last year, McLaughlin also hit a career-high 11 field goals from 50-plus yards (on 12 attempts). He'll be in the final year of the three-year contract he inked in 2024, which could give McLaughlin additional incentive to make a big impact with his leg.
+- **Pat Freiermuth** — Pat Freiermuth - Plays two preseason games (2026-09-04T04:19:01Z)
   - Through five campaigns as a pro, Freiermuth has played at least 16 regular-season games on four occasions, and his tally of 486 receiving yards from 2025 marked his lowest among them. He was on the receiving end of passes from QB Aaron Rodgers for the first time, and with Rodgers returning for his age-43 season, Freiermuth likely isn't in store for much more production, even if the addition of WR Michael Pittman frees up more space for the tight end to operate.
 - **Aaron Rodgers** — Aaron Rodgers - To have Metcalf, Pittman back in Week 1 (2026-09-04T04:06:03Z)
   - Rodgers didn't suit up in the preseason, and coach Mike McCarthy tied his decision to do so to the fact that Metcalf and Pittman weren't healthy enough to play. Even if one or both of Metcalf and Pittman aren't available for the regular-season opener, Rodgers wouldn't be a consideration to be inactive, but it appears the duo will be able to suit up, barring any setbacks in the meantime. Rodgers led a Steelers offense in 2025 that didn't have much talent at WR aside from Metcalf, but the quarterback still completed 65.7 percent of his passes for 3,322 yards, 24 touchdowns and seven interceptions in 16 regular-season games.
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The Seahawks won the Super Bowl last season with a tight end room consisting of Barner, Eric Saubert, Elijah Arroyo and Nick Kallerup, so it's understandable that the team decided not to rock the boat at the position. Arroyo is Barner's primary competition for pass-catching opportunities, as the 2025 second-round pick enjoyed a productive 2026 preseason after a lackluster rookie regular season in which Arroyo posted just 179 receiving yards. Barner led the position group with 52 catches for 519 yards and six touchdown receptions on 68 targets during the 2025 regular season.
 - **Dallas Goedert** — Dallas Goedert - No preseason action (2026-09-03T15:22:44Z)
   - The Eagles rested all of their key starters for the three exhibitions. Now 31 years old, Goedert is a veteran who doesn't necessarily need to play in meaningless preseason games. With A.J. Brown now in New England, Goedert is expected to have a big red-zone role for Philadelphia this season after he set a career high with 11 touchdown grabs on 60 catches last season. It will be difficult for Goedert to replicate that astounding touchdown rate, but he's very much in the TE1 mix for fantasy.
-- **Makai Lemon** — Makai Lemon's Rough Summer Has Cooled His Draft Appeal (2026-09-03T15:21:10Z)
-  - Source: https://www.rotoballer.com/player-news/makai-lemons-rough-summer-has-cooled-his-draft-appeal/1922683
