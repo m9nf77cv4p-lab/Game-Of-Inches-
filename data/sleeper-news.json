@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T18:59:15Z",
+  "last_checked_at": "2026-09-04T19:24:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11610|rotoballer|220092|1788534725000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -293,6 +295,26 @@
       "story_id": "nfl|13296|rotowire|636255|1788535389000",
       "title": "Caleb Douglas - Listed as starter",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins wide receiver Malik Washington has come out of the summer with a much cleaner path to regular playing time. Tyreek Hill was released and Jaylen Waddle was traded during the offseason, and Washington now sits with Caleb Douglas and Jalen Tolbert among the three first-team receivers on Miami's current depth chart. He did enough during camp to hold onto that spot, too. Washington was regularly involved with Malik Willis, including a pair of deep catches during an Aug. 3 practice and another touchdown connection late in camp. There was already some useful versatility in his game last season, when he caught 46 passes for 317 yards and three touchdowns while adding 110 yards and another score on 17 carries. Douglas had an excellent summer and could eventually command a large share of the passing game, so Washington isn't suddenly locked in as Miami's top target. The opportunity is still much better than it was a year ago. With a starting job within reach, Washington has become a more interesting late-round option in deeper redraft leagues.",
+      "metadata": {
+        "description": "Miami Dolphins wide receiver Malik Washington has come out of the summer with a much cleaner path to regular playing time. Tyreek Hill was released and Jaylen Waddle was traded during the offseason, and Washington now sits with Caleb Douglas and Jalen Tolbert among the three first-team receivers on Miami's current depth chart. He did enough during camp to hold onto that spot, too. Washington was regularly involved with Malik Willis, including a pair of deep catches during an Aug. 3 practice and another touchdown connection late in camp. There was already some useful versatility in his game last season, when he caught 46 passes for 317 yards and three touchdowns while adding 110 yards and another score on 17 carries. Douglas had an excellent summer and could eventually command a large share of the passing game, so Washington isn't suddenly locked in as Miami's top target. The opportunity is still much better than it was a year ago. With a starting job within reach, Washington has become a more interesting late-round option in deeper redraft leagues.",
+        "title": "Malik Washington Has a Clearer Path to a Starting Role",
+        "topic_id": "1401682343650951168",
+        "url": "https://www.rotoballer.com/player-news/malik-washington-has-a-clearer-path-to-a-starting-role/1923396"
+      },
+      "nfl_team": "MIA",
+      "player_id": "11610",
+      "player_name": "Malik Washington",
+      "position": "WR",
+      "published": 1788534725000,
+      "source": "rotoballer",
+      "source_key": "220092",
+      "story_id": "nfl|11610|rotoballer|220092|1788534725000",
+      "title": "Malik Washington Has a Clearer Path to a Starting Role",
+      "url": "https://www.rotoballer.com/player-news/malik-washington-has-a-clearer-path-to-a-starting-role/1923396"
     },
     {
       "analysis": null,

@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1904**
-- Newly captured: **0**
+- Stored stories: **1905**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -38,6 +38,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special-teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.
 - **Caleb Douglas** — Caleb Douglas - Listed as starter (2026-09-04T15:23:09Z)
   - Douglas is slotted in as the X receiver, alongside Jalen Tolbert at the Z and Malik Washington as the slot man for Miami. A third-round pick out of Texas Tech back in April, Douglas has been running with the first-team offense most of the summer. He logged 17 offensive snaps during the preseason, catching one of his two targets for 28 yards, before being rested for the third exhibition. This Dolphins offense projects to be a low-scoring one, and it remains to be seen if Malik Willis will be able to carry any of his pass catchers to fantasy relevance.
+- **NEW — Malik Washington** — Malik Washington Has a Clearer Path to a Starting Role (2026-09-04T15:12:05Z)
+  - Source: https://www.rotoballer.com/player-news/malik-washington-has-a-clearer-path-to-a-starting-role/1923396
 - **Makai Lemon** — Makai Lemon Shadowing Eagles' Top Wideout (2026-09-04T14:14:05Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemon-shadowing-eagles-top-wideout/1923348
 - **David Montgomery** — David Montgomery a Safe RB2 with Predictable Goal-Line Usage (2026-09-04T14:04:31Z)
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Kamara was diagnosed with a sprained MCL a little over two weeks ago and was given a return timetable of "at least one month," according to Adam Schefter of ESPN, so it's not at all surprising to see the veteran running back still sidelined. The Saints will begin official Week 1 prep next week, and it would be somewhat shocking to see Kamara practice and be available for the season opener against the Lions. With Kendre Miller (undisclosed) also missing practice time, Audric Estime could be the backup to Travis Etienne against Detroit.
 - **Rico Dowdle** — Rico Dowdle - Splitting backfield with Warren (2026-09-03T18:19:37Z)
   - Despite Warren being the top incumbent running back in Pittsburgh, Graziano believes that Dowdle is a better bet to handle early downs out of the backfield, not only due to his experience working with new coach Mike McCarthy in Dallas but because of his combined 471 carries over the last two seasons. Both campaigns resulted in more than 1,000 yards on the ground for Dowdle, while Warren has topped out at 958 rushing yards (2025) in his four-year career. Warren does have the advantage in pass-catching chops, with 139 receptions over the last three years. As a result, both players are in line for weekly usage for the Steelers.
-- **D'Andre Swift** — D'Andre Swift Suffers Undisclosed Injury in Practice (2026-09-03T18:15:07Z)
-  - Source: https://www.rotoballer.com/player-news/dandre-swift-suffers-undisclosed-injury-in-practice/1922796
