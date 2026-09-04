@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1905**
-- Newly captured: **1**
+- Stored stories: **1907**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Baker Mayfield** — Baker Mayfield - One preseason appearance (2026-09-04T19:29:51Z)
+  - Mayfield took the field for preseason Week 2 against the Chiefs on Aug. 22, leading two drives and finishing 2-for-4 passing for 10 yards. Both possessions ended in Riley Dixon punts, but Mayfield wasn't working with any of his top wide receivers or tight ends. WRs Emeka Egbuka (toe) and Jalen McMillan (knee) are dealing with injuries as Week 1 draws closer, so how both fare in practice next week will be key for Mayfield's prospects at Cincinnati on Sunday, Sept. 13.
 - **Josh Jacobs** — Josh Jacobs - Court date moved up (2026-09-04T18:34:21Z)
   - The move of the court date is going to lead to speculation about if and when he'll receive discipline from the NFL, especially if a plea deal is announced. But that has not been divulged so far. At the very least, there may soon be more clarification about what the next step in the process is for Jacobs, who remains on the Commissioner's Exempt List.
 - **Jaxson Dart** — Jaxson Dart - Feeling confident in new offense (2026-09-04T18:30:11Z)
@@ -34,11 +36,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - It comes as no surprise after the Browns cut Cedric Tillman at the end of training camp. Jeudy is listed as a starter alongside rookie wideouts KC Concepcion and Denzel Boston. Jeudy displayed no chemistry with Shedeur Sanders last season, as the veteran wideout finished 2025 with just 50 catches for 602 yards and two touchdowns on 106 targets. His 47.2 percent catch rate was fifth worst out of 197 qualified pass catchers, and of the 38 players in the NFL to see at least 100 targets, Jeudy's 602 yards were just two more than Jake Ferguson at the bottom of the list. Concepcion is expected to become the go-to target in Cleveland, with Boston operating as the big-bodied X receiver. Jeudy will face far more competition for targets.
 - **Adonai Mitchell** — Adonai Mitchell - Listed as starter opposite Wilson (2026-09-04T15:39:23Z)
   - It's no surprise after Mitchell showed playmaking ability with New York following his midseason trade from the Colts last season. In eight games with the Jets, Mitchell caught 24 of 58 targets for 301 yards and two touchdowns. That 41.4 percent catch rate ranked second worst in the NFL out of 197 qualified pass catchers, but better quarterback play this season in the form of veteran pickup Geno Smith should help improve that number. Mitchell has big-play upside and is dripping with talent; he just needs to get out of his own way sometimes. He's worth a late-round flier in fantasy and makes for an intriguing best-ball selection.
+- **NEW — Tyler Shough** — Tyler Shough Offers Real Late-Round QB Upside (2026-09-04T15:27:06Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-shough-offers-real-late-round-qb-upside/1923409
 - **Jaylen Wright** — Jaylen Wright - Listed as RB2 behind Achane (2026-09-04T15:26:59Z)
   - The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special-teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.
 - **Caleb Douglas** — Caleb Douglas - Listed as starter (2026-09-04T15:23:09Z)
   - Douglas is slotted in as the X receiver, alongside Jalen Tolbert at the Z and Malik Washington as the slot man for Miami. A third-round pick out of Texas Tech back in April, Douglas has been running with the first-team offense most of the summer. He logged 17 offensive snaps during the preseason, catching one of his two targets for 28 yards, before being rested for the third exhibition. This Dolphins offense projects to be a low-scoring one, and it remains to be seen if Malik Willis will be able to carry any of his pass catchers to fantasy relevance.
-- **NEW — Malik Washington** — Malik Washington Has a Clearer Path to a Starting Role (2026-09-04T15:12:05Z)
+- **Malik Washington** — Malik Washington Has a Clearer Path to a Starting Role (2026-09-04T15:12:05Z)
   - Source: https://www.rotoballer.com/player-news/malik-washington-has-a-clearer-path-to-a-starting-role/1923396
 - **Makai Lemon** — Makai Lemon Shadowing Eagles' Top Wideout (2026-09-04T14:14:05Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemon-shadowing-eagles-top-wideout/1923348
@@ -210,7 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Love led one drive apiece in Green Bay's first two exhibitions, with his sole TD a connection with RB MarShawn Lloyd over the middle in Denver in preseason Week 2. Love also linked up with each of his top three WRs Christian Watson, Jayden Reed and Matthew Golden at least one time. Especially against the Broncos, Love appeared to be hitting on all cylinders, and he'll aim to carry it over to a Week 1 road matchup with the Vikings on Sunday, Sept. 13.
 - **Bucky Irving** — Bucky Irving - Will try to fend off competition for touches (2026-09-03T18:40:10Z)
   - Irving figures to get most of the rushing opportunities in Tampa Bay's backfield, though Gainwell is likely to play in passing situations after leading the Steelers with 73 catches in the 2025 regular season and subsequently signing a two-year, $14 million contract with the Buccaneers in March. Tucker was used frequently in the red zone last season, leading the Buccaneers with seven rushing touchdowns. Irving saw his rushing touchdown total dip to one in 10 games during his injury-plagued 2025 campaign after scoring eight regular-season rushing touchdowns as a rookie. Despite the competition for touches, Irving maintains the highest ceiling in Tampa Bay's backfield given his success in 2024.
-- **Alvin Kamara** — Alvin Kamara - Remains sidelined at practice (2026-09-03T18:38:13Z)
-  - Kamara was diagnosed with a sprained MCL a little over two weeks ago and was given a return timetable of "at least one month," according to Adam Schefter of ESPN, so it's not at all surprising to see the veteran running back still sidelined. The Saints will begin official Week 1 prep next week, and it would be somewhat shocking to see Kamara practice and be available for the season opener against the Lions. With Kendre Miller (undisclosed) also missing practice time, Audric Estime could be the backup to Travis Etienne against Detroit.
-- **Rico Dowdle** — Rico Dowdle - Splitting backfield with Warren (2026-09-03T18:19:37Z)
-  - Despite Warren being the top incumbent running back in Pittsburgh, Graziano believes that Dowdle is a better bet to handle early downs out of the backfield, not only due to his experience working with new coach Mike McCarthy in Dallas but because of his combined 471 carries over the last two seasons. Both campaigns resulted in more than 1,000 yards on the ground for Dowdle, while Warren has topped out at 958 rushing yards (2025) in his four-year career. Warren does have the advantage in pass-catching chops, with 139 receptions over the last three years. As a result, both players are in line for weekly usage for the Steelers.

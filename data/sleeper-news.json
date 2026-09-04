@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T19:24:30Z",
+  "last_checked_at": "2026-09-04T19:35:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11610|rotoballer|220092|1788534725000"
+    "nfl|12545|rotoballer|220094|1788535626000",
+    "nfl|4892|rotowire|636268|1788550191000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Mayfield took the field for preseason Week 2 against the Chiefs on Aug. 22, leading two drives and finishing 2-for-4 passing for 10 yards. Both possessions ended in Riley Dixon punts, but Mayfield wasn't working with any of his top wide receivers or tight ends. WRs Emeka Egbuka (toe) and Jalen McMillan (knee) are dealing with injuries as Week 1 draws closer, so how both fare in practice next week will be key for Mayfield's prospects at Cincinnati on Sunday, Sept. 13.",
+      "description": "Mayfield logged just one appearance during the Buccaneers' three-game preseason schedule.",
+      "metadata": {
+        "analysis": "Mayfield took the field for preseason Week 2 against the Chiefs on Aug. 22, leading two drives and finishing 2-for-4 passing for 10 yards. Both possessions ended in Riley Dixon punts, but Mayfield wasn't working with any of his top wide receivers or tight ends. WRs Emeka Egbuka (toe) and Jalen McMillan (knee) are dealing with injuries as Week 1 draws closer, so how both fare in practice next week will be key for Mayfield's prospects at Cincinnati on Sunday, Sept. 13.",
+        "description": "Mayfield logged just one appearance during the Buccaneers' three-game preseason schedule.",
+        "title": "Baker Mayfield - One preseason appearance",
+        "topic_id": "1401684862393389056"
+      },
+      "nfl_team": "TB",
+      "player_id": "4892",
+      "player_name": "Baker Mayfield",
+      "position": "QB",
+      "published": 1788550191000,
+      "source": "rotowire",
+      "source_key": "636268",
+      "story_id": "nfl|4892|rotowire|636268|1788550191000",
+      "title": "Baker Mayfield - One preseason appearance",
+      "url": null
+    },
     {
       "analysis": "The move of the court date is going to lead to speculation about if and when he'll receive discipline from the NFL, especially if a plea deal is announced. But that has not been divulged so far. At the very least, there may soon be more clarification about what the next step in the process is for Jacobs, who remains on the Commissioner's Exempt List.",
       "description": "Jacobs' next court date has been moved up from Nov. 17 to Sept. 10, Michael Gross of Fox 11 Green Bay reports. Jacobs is expected to be represented by his attorney and won't personally appear at the hearing.",
@@ -255,6 +276,26 @@
       "story_id": "nfl|11625|rotowire|636257|1788536363000",
       "title": "Adonai Mitchell - Listed as starter opposite Wilson",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints quarterback Tyler Shough is one of the more appealing late-round bets for fantasy managers who don't want to pay up at the position. He took over in Week 9 last year and went 5-4 as a starter, finishing his rookie season with 2,384 passing yards, 10 touchdowns and six interceptions while completing 67.6% of his throws. The finish was much better than the full-season line suggests. Shough totaled 10 touchdowns from Weeks 12-18 and ranked QB5 in total fantasy points over that stretch, with 272, 308 and 333 passing yards in consecutive games from Weeks 15-17. He also ran for 186 yards and three scores on 45 carries, which gives him a little more floor than a pure pocket passer. New Orleans enters 2026 with Shough firmly entrenched as the starter and Chris Olave, Juwan Johnson and Travis Etienne Jr. around him, although first-round rookie Jordyn Tyson will open the year on injured reserve. Shough is still only QB22 in RotoBaller's Sept. 3 rankings. For managers waiting on quarterback, that leaves plenty of room for him to beat the price.",
+      "metadata": {
+        "description": "New Orleans Saints quarterback Tyler Shough is one of the more appealing late-round bets for fantasy managers who don't want to pay up at the position. He took over in Week 9 last year and went 5-4 as a starter, finishing his rookie season with 2,384 passing yards, 10 touchdowns and six interceptions while completing 67.6% of his throws. The finish was much better than the full-season line suggests. Shough totaled 10 touchdowns from Weeks 12-18 and ranked QB5 in total fantasy points over that stretch, with 272, 308 and 333 passing yards in consecutive games from Weeks 15-17. He also ran for 186 yards and three scores on 45 carries, which gives him a little more floor than a pure pocket passer. New Orleans enters 2026 with Shough firmly entrenched as the starter and Chris Olave, Juwan Johnson and Travis Etienne Jr. around him, although first-round rookie Jordyn Tyson will open the year on injured reserve. Shough is still only QB22 in RotoBaller's Sept. 3 rankings. For managers waiting on quarterback, that leaves plenty of room for him to beat the price.",
+        "title": "Tyler Shough Offers Real Late-Round QB Upside",
+        "topic_id": "1401684860547928064",
+        "url": "https://www.rotoballer.com/player-news/tyler-shough-offers-real-late-round-qb-upside/1923409"
+      },
+      "nfl_team": "NO",
+      "player_id": "12545",
+      "player_name": "Tyler Shough",
+      "position": "QB",
+      "published": 1788535626000,
+      "source": "rotoballer",
+      "source_key": "220094",
+      "story_id": "nfl|12545|rotoballer|220094|1788535626000",
+      "title": "Tyler Shough Offers Real Late-Round QB Upside",
+      "url": "https://www.rotoballer.com/player-news/tyler-shough-offers-real-late-round-qb-upside/1923409"
     },
     {
       "analysis": "The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special-teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.",
