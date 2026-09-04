@@ -1,11 +1,8 @@
 {
-  "last_checked_at": "2026-09-04T01:31:28Z",
+  "last_checked_at": "2026-09-04T01:44:57Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|13345|rotowire|636230|1788485094000",
-    "nfl|9484|rotoballer|220049|1788470472000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -218,10 +215,10 @@
     },
     {
       "analysis": null,
-      "description": "Green Bay Packers tight end Tucker Kraft (knee) appeared to be running without any issues ahead of Wednesday's game, Matt Schneidman of The Athletic reports. Kraft continues to work his way back from a torn ACL that he suffered in November of last year. He missed all of the preseason, but was able to take part during joint practice with the Arizona Cardinals last week. It seems that Kraft is trending in the right direction ahead of the Week 1 matchup against the Minnesota Vikings. He appears to be moving well and could very well be ready to go in time for the first game of the season.",
+      "description": "Green Bay Packers tight end Tucker Kraft (knee) appeared to be running without any issues ahead of Thursday's practice, Matt Schneidman of The Athletic reports. Kraft continues to work his way back from a torn ACL that he suffered in November of last year. He missed all of the preseason, but was able to take part during joint practice with the Arizona Cardinals last week. It seems that Kraft is trending in the right direction ahead of the Week 1 matchup against the Minnesota Vikings. He appears to be moving well and could very well be ready to go in time for the first game of the season.",
       "metadata": {
-        "description": "Green Bay Packers tight end Tucker Kraft (knee) appeared to be running without any issues ahead of Wednesday's game, Matt Schneidman of The Athletic reports. Kraft continues to work his way back from a torn ACL that he suffered in November of last year. He missed all of the preseason, but was able to take part during joint practice with the Arizona Cardinals last week. It seems that Kraft is trending in the right direction ahead of the Week 1 matchup against the Minnesota Vikings. He appears to be moving well and could very well be ready to go in time for the first game of the season.",
-        "title": "Tucker Kraft is Looking Good Running Before Practice",
+        "description": "Green Bay Packers tight end Tucker Kraft (knee) appeared to be running without any issues ahead of Thursday's practice, Matt Schneidman of The Athletic reports. Kraft continues to work his way back from a torn ACL that he suffered in November of last year. He missed all of the preseason, but was able to take part during joint practice with the Arizona Cardinals last week. It seems that Kraft is trending in the right direction ahead of the Week 1 matchup against the Minnesota Vikings. He appears to be moving well and could very well be ready to go in time for the first game of the season.",
+        "title": "Tucker Kraft Trending Up as He Approaches Full Health",
         "topic_id": "1401411785961021440",
         "url": "https://www.rotoballer.com/player-news/tucker-kraft-is-looking-good-running-before-practice/1922914"
       },
@@ -233,7 +230,7 @@
       "source": "rotoballer",
       "source_key": "220049",
       "story_id": "nfl|9484|rotoballer|220049|1788470472000",
-      "title": "Tucker Kraft is Looking Good Running Before Practice",
+      "title": "Tucker Kraft Trending Up as He Approaches Full Health",
       "url": "https://www.rotoballer.com/player-news/tucker-kraft-is-looking-good-running-before-practice/1922914"
     },
     {
