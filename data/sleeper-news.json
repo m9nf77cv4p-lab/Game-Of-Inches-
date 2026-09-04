@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-04T01:08:29Z",
+  "last_checked_at": "2026-09-04T01:20:22Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|12492|rotowire|636223|1788483222000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -54,10 +52,10 @@
       "url": null
     },
     {
-      "analysis": "Swift was reportedly \"in significant discomfort\" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will head into Week 1 carrying an injury designation, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injured list, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.",
+      "analysis": "Swift was reportedly \"in significant discomfort\" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will carry an injury designation for the time being, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injury report, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.",
       "description": "Swift (abdomen) is believed to have left Thursday's practice with \"a cramp,\" Adam Schefter of ESPN reports.",
       "metadata": {
-        "analysis": "Swift was reportedly \"in significant discomfort\" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will head into Week 1 carrying an injury designation, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injured list, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.",
+        "analysis": "Swift was reportedly \"in significant discomfort\" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will carry an injury designation for the time being, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injury report, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.",
         "description": "Swift (abdomen) is believed to have left Thursday's practice with \"a cramp,\" Adam Schefter of ESPN reports.",
         "title": "D'Andre Swift - Believed to be dealing with cramp",
         "topic_id": "1401399204957433856"

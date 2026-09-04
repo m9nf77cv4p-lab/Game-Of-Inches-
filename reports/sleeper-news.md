@@ -3,16 +3,16 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1842**
-- Newly captured: **1**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Pat Bryant** — Pat Bryant - Poised to operate as top depth option (2026-09-04T00:53:42Z)
+- **Pat Bryant** — Pat Bryant - Poised to operate as top depth option (2026-09-04T00:53:42Z)
   - Bryant reeled in 31 of 49 targets for 378 yards and a touchdown over 15 regular-season contests in his rookie campaign with Denver in 2025. The 23-year-old possesses a 6-foot-2, 200-plus pound frame, and he's on track to operate as the immediate backup behind Courtland Sutton as a boundary receiver with Denver this season. Bryant has already impressed with his physicality at his position, and he could earn more opportunities in his first campaign with new playcaller Davis Webb.
 - **Geno Smith** — Geno Smith - Voted team captain (2026-09-04T00:45:54Z)
   - It's been nearly 10 years since Smith last took a snap for the Jets, but after revitalizing his career with the Seahawks and Raiders over the last four seasons, he's back in New York as a grizzled vet with age (34) and experience on his side. Smith recorded at least 3,000 yards and 19 touchdowns through the air in each of those four campaigns, but he also tossed 52 interceptions in 64 regular-season games during that span. Picks are often an issue for Smith, but he at least will have a nice skill-position group of RB Breece Hall (groin), WRs Garrett Wilson, Adonai Mitchell and Omar Cooper and TEs Mason Taylor and Kenyon Sadiq (abdomen) to throw to in 2026.
 - **D'Andre Swift** — D'Andre Swift - Believed to be dealing with cramp (2026-09-04T00:32:02Z)
-  - Swift was reportedly "in significant discomfort" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will head into Week 1 carrying an injury designation, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injured list, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.
+  - Swift was reportedly "in significant discomfort" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will carry an injury designation for the time being, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injury report, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.
 - **Jalen Coker** — Jalen Coker - Listed as starting WR (2026-09-04T00:03:24Z)
   - Despite going undrafted in 2024, Coker has made his presence felt through two pro campaigns, resulting in 65 catches (on 89 targets) for 872 yards and five touchdowns in 22 regular-season games. His defining moment of sorts occurred the last time he was on the field for a contest that counts, when he torched the Rams for 9-134-1 on 12 targets in a wild-card loss. Coker will continue to operate as a complementary option to No. 1 WR Tetairoa McMillan for QB Bryce Young in 2026.
 - **Bryce Young** — Bryce Young - Working with new play caller (2026-09-03T23:55:01Z)
