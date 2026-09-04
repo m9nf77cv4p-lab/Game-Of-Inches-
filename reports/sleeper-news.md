@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1844**
-- Newly captured: **0**
+- Stored stories: **1845**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -27,6 +27,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Rome Odunze** — Rome Odunze leaves practice early Thursday  (2026-09-03T22:00:09.528000Z)
   - Hammond notes that Odunze came up hobbling during an install period at the start of practice. He tried to return to practice, but trainers wouldn't let him. This will remain something to monitor into next week. 
   - Source: https://www.fantasypros.com/nfl/news/605833/rome-odunze-leaves-practice-early-thursday.php
+- **NEW — Bo Nix** — Bo Nix Receives Praise From Patrick Surtain (2026-09-03T21:37:07Z)
+  - Source: https://www.rotoballer.com/player-news/bo-nix-receives-praise-from-patrick-surtain/1922926
 - **Rome Odunze** — Rome Odunze - Sustains apparent leg injury (2026-09-03T21:31:28Z)
   - Per the report, Odunze did not seem overly concerned about the injury and attempted to stay on the field, but the training staff decided to bring his day to an early end. His status will be updated again when more details are released, but as things stand both Odunze and Luther Burden (groin) are less than 100 percent. Kalif Raymond, Zavion Thomas and Jahdae Walker are next in line on the depth chart.
 - **Tucker Kraft** — Tucker Kraft Trending Up as He Approaches Full Health (2026-09-03T21:21:12Z)
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/cade-otton-a-potential-early-season-streamer-amid-buccaneers-wide-receiver-concerns/1922606
 - **Dylan Sampson** — Dylan Sampson - Rests up during preseason finale (2026-09-03T13:32:28Z)
   - Cleveland held both of their top two backs -- Quinshon Judkins and Sampson -- out for the third game of the preseason to open up more playing time for other running backs to stake claims to roster spots. Judkins is locked in as the Browns' lead runner heading into their Week 1 matchup with the Jaguars, but Sampson should have a consistent role as a weapon on passing downs. Sampson proved to be adept as a pass catcher during his 2025 rookie campaign, drawing 40 targets on just 249 snaps while producing a 33-271-2 receiving line. He was much less productive as a runner, however, averaging just 2.7 yards per carry on 65 totes.
-- **Drake Maye** — Drake Maye's Growth Has Stood Out to His Head Coach (2026-09-03T13:27:09Z)
-  - Source: https://www.rotoballer.com/player-news/drake-mayes-growth-has-stood-out-to-his-head-coach/1922604

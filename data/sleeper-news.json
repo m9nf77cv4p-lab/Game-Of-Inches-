@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T01:44:57Z",
+  "last_checked_at": "2026-09-04T01:55:04Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11563|rotoballer|220050|1788471427000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -192,6 +194,26 @@
       "story_id": "nfl|11620|fantasy_pros|605833|1788472809528",
       "title": "Rome Odunze leaves practice early Thursday ",
       "url": "https://www.fantasypros.com/nfl/news/605833/rome-odunze-leaves-practice-early-thursday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos quarterback Bo Nix recently received praise from his teammate, defensive back Patrick Surtain, Susanna Wier of the team's official website reports. Surtain talked about the growth in Nix and how he believes he'll take another step forward this upcoming season. He continued by saying Nix can bring all the guys together and that he's a tremendous leader. Both tight end Evan Engram and offensive tackle Garett Bolles also praised Nix for his leadership. Nix has made a full recovery after suffering a broken ankle during the AFC Championship Game last season. He threw a league-high 612 times this past season, so it wouldn't be shocking to see the Broncos attempt to run more this season. The 26-year-old should remain a top-10 quarterback this upcoming season.",
+      "metadata": {
+        "description": "Denver Broncos quarterback Bo Nix recently received praise from his teammate, defensive back Patrick Surtain, Susanna Wier of the team's official website reports. Surtain talked about the growth in Nix and how he believes he'll take another step forward this upcoming season. He continued by saying Nix can bring all the guys together and that he's a tremendous leader. Both tight end Evan Engram and offensive tackle Garett Bolles also praised Nix for his leadership. Nix has made a full recovery after suffering a broken ankle during the AFC Championship Game last season. He threw a league-high 612 times this past season, so it wouldn't be shocking to see the Broncos attempt to run more this season. The 26-year-old should remain a top-10 quarterback this upcoming season.",
+        "title": "Bo Nix Receives Praise From Patrick Surtain",
+        "topic_id": "1401416819448803328",
+        "url": "https://www.rotoballer.com/player-news/bo-nix-receives-praise-from-patrick-surtain/1922926"
+      },
+      "nfl_team": "DEN",
+      "player_id": "11563",
+      "player_name": "Bo Nix",
+      "position": "QB",
+      "published": 1788471427000,
+      "source": "rotoballer",
+      "source_key": "220050",
+      "story_id": "nfl|11563|rotoballer|220050|1788471427000",
+      "title": "Bo Nix Receives Praise From Patrick Surtain",
+      "url": "https://www.rotoballer.com/player-news/bo-nix-receives-praise-from-patrick-surtain/1922926"
     },
     {
       "analysis": "Per the report, Odunze did not seem overly concerned about the injury and attempted to stay on the field, but the training staff decided to bring his day to an early end. His status will be updated again when more details are released, but as things stand both Odunze and Luther Burden (groin) are less than 100 percent. Kalif Raymond, Zavion Thomas and Jahdae Walker are next in line on the depth chart.",
