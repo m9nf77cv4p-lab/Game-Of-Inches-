@@ -2,18 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1880**
-- Newly captured: **4**
+- Stored stories: **1882**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Jaylen Wright** — Jaylen Wright - Listed as RB2 behind Achane (2026-09-04T15:26:59Z)
+- **NEW — Adonai Mitchell** — Adonai Mitchell - Listed as starter opposite Wilson (2026-09-04T15:39:23Z)
+  - It's no surprise after Mitchell showed playmaking ability with New York following his midseason trade from the Colts last season. In eight games with the Jets, Mitchell caught 24 of 58 targets for 301 yards and two touchdowns. That 41.4 percent catch rate ranked second-worst in the NFL out of 197 qualified wide receivers, but better quarterback play this season in the form of veteran pickup Geno Smith should help improve that number. Mitchell has big-play upside and is dripping with talent; he just needs to get out of his own way sometimes. He's worth a late-round flier in fantasy and makes for an intriguing best-ball selection.
+- **Jaylen Wright** — Jaylen Wright - Listed as RB2 behind Achane (2026-09-04T15:26:59Z)
   - The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.
-- **NEW — Caleb Douglas** — Caleb Douglas - Listed as starter (2026-09-04T15:23:09Z)
+- **Caleb Douglas** — Caleb Douglas - Listed as starter (2026-09-04T15:23:09Z)
   - Douglas is slotted in as the X receiver, alongside Jalen Tolbert at the Z and Malik Washington as the slot man for Miami. A third-round pick out of Texas Tech back in April, Douglas has been running with the first-team offense most of the summer. He logged 17 offensive snaps during the preseason, catching one of his two targets for 28 yards, before being rested for the third exhibition. This Dolphins offense projects to be a low-scoring one, and it remains to be seen if Malik Willis will be able to carry any of his pass catchers to fantasy relevance.
-- **NEW — Jordan Love** — Jordan Love Could See His Passing Volume Climb (2026-09-04T11:24:05Z)
+- **NEW — Michael Pittman** — Michael Pittman Jr. Moving Closer to a Week 1 Return (2026-09-04T11:35:05Z)
+  - Source: https://www.rotoballer.com/player-news/michael-pittman-jr-moving-closer-to-a-week-1-return/1923243
+- **Jordan Love** — Jordan Love Could See His Passing Volume Climb (2026-09-04T11:24:05Z)
   - Source: https://www.rotoballer.com/player-news/jordan-love-could-see-his-passing-volume-climb/1923237
-- **NEW — Travis Etienne** — Travis Etienne Jr. Could Open the Year With a Heavy Workload (2026-09-04T11:16:06Z)
+- **Travis Etienne** — Travis Etienne Jr. Could Open the Year With a Heavy Workload (2026-09-04T11:16:06Z)
   - Source: https://www.rotoballer.com/player-news/travis-etienne-jr-could-open-the-year-with-a-heavy-workload/1923228
 - **Javonte Williams** — Javonte Williams Slated for Every-Down Role (2026-09-04T11:14:05Z)
   - Source: https://www.rotoballer.com/player-news/javonte-williams-slated-for-every-down-role-with-no-competition-in-backfield/1923224
@@ -208,7 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jaylen-warren-should-still-have-significant-role-in-pittsburgh/1922733
 - **Jaxon Smith-Njigba** — Jaxon Smith-Njigba Primed to Begin WR1 Campaign on Wednesday Night (2026-09-03T16:06:10Z)
   - Source: https://www.rotoballer.com/player-news/jaxon-smith-njigba-primed-to-begin-wr1-campaign-on-wednesday-night/1922731
-- **C.J. Stroud** — C.J. Stroud - Injuries and trade reshape WR room (2026-09-03T16:01:13Z)
-  - The Texans traded for Boutte from New England after Jayden Higgins tore his ACL, knocking the 2025 second-round pick out for the season. Boutte's 551 receiving yards for the Patriots in the 2025 regular season would have ranked second among Houston's wideouts behind Collins. Hutchinson had a career-high 428 receiving yards during the 2025 regular season, Noel has some intriguing upside as a 2025 third-round pick, and Houston is hoping to get Dell back eventually from the knee injury that sidelined him for the entire 2025 season. Stroud is looking to bounce back after a 2025 campaign in which he threw for career lows in both passing yards (3,041) and touchdown passes (19) during the regular season before coughing up seven turnovers in two playoff games.
-- **Ladd McConkey** — Ladd McConkey Has More Working in His Favor This Year (2026-09-03T16:00:12Z)
-  - Source: https://www.rotoballer.com/player-news/ladd-mcconkey-has-more-working-in-his-favor-this-year/1922729

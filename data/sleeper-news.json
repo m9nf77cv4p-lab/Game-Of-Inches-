@@ -1,12 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T15:38:10Z",
+  "last_checked_at": "2026-09-04T15:50:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11643|rotowire|636256|1788535619000",
-    "nfl|13296|rotowire|636255|1788535389000",
-    "nfl|6804|rotoballer|220076|1788521045000",
-    "nfl|7543|rotoballer|220075|1788520566000"
+    "nfl|11625|rotowire|636257|1788536363000",
+    "nfl|6819|rotoballer|220077|1788521705000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "It's no surprise after Mitchell showed playmaking ability with New York following his midseason trade from the Colts last season. In eight games with the Jets, Mitchell caught 24 of 58 targets for 301 yards and two touchdowns. That 41.4 percent catch rate ranked second-worst in the NFL out of 197 qualified wide receivers, but better quarterback play this season in the form of veteran pickup Geno Smith should help improve that number. Mitchell has big-play upside and is dripping with talent; he just needs to get out of his own way sometimes. He's worth a late-round flier in fantasy and makes for an intriguing best-ball selection.",
+      "description": "Mitchell is listed as a starting wide receiver on the Jets' initial depth chart ahead of Week 1 against the Titans.",
+      "metadata": {
+        "analysis": "It's no surprise after Mitchell showed playmaking ability with New York following his midseason trade from the Colts last season. In eight games with the Jets, Mitchell caught 24 of 58 targets for 301 yards and two touchdowns. That 41.4 percent catch rate ranked second-worst in the NFL out of 197 qualified wide receivers, but better quarterback play this season in the form of veteran pickup Geno Smith should help improve that number. Mitchell has big-play upside and is dripping with talent; he just needs to get out of his own way sometimes. He's worth a late-round flier in fantasy and makes for an intriguing best-ball selection.",
+        "description": "Mitchell is listed as a starting wide receiver on the Jets' initial depth chart ahead of Week 1 against the Titans.",
+        "title": "Adonai Mitchell - Listed as starter opposite Wilson",
+        "topic_id": "1401628234889592832"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "11625",
+      "player_name": "Adonai Mitchell",
+      "position": "WR",
+      "published": 1788536363000,
+      "source": "rotowire",
+      "source_key": "636257",
+      "story_id": "nfl|11625|rotowire|636257|1788536363000",
+      "title": "Adonai Mitchell - Listed as starter opposite Wilson",
+      "url": null
+    },
     {
       "analysis": "The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.",
       "description": "Wright is listed as the Dolphins' No. 2 running back on the team's initial depth chart ahead of Week 1 against the Raiders.",
@@ -55,6 +73,26 @@
       "story_id": "nfl|13296|rotowire|636255|1788535389000",
       "title": "Caleb Douglas - Listed as starter",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers wide receiver Michael Pittman Jr. is moving in the right direction after a hamstring injury took a chunk out of his training camp. Pittman had not practiced since Aug. 8 before getting back on the field Aug. 24, and he was still participating in team work this week as Pittsburgh began ramping up for the regular season. General manager Omar Khan has said Pittman is expected to be available for the Sept. 13 opener against Atlanta, although head coach Mike McCarthy made it clear the Steelers are still being smart with his workload. That matters after Pittman missed the entire preseason and lost valuable reps in a new offense. Pittsburgh brought him in this spring after he caught 80 passes for 784 yards and a career-high seven touchdowns with Indianapolis last year. DK Metcalf remains the top receiver, but Pittman should have a steady role underneath once he is fully up to speed. His summer took a hit, but the outlook is getting better now that Week 1 appears to be back on the table.",
+      "metadata": {
+        "description": "Pittsburgh Steelers wide receiver Michael Pittman Jr. is moving in the right direction after a hamstring injury took a chunk out of his training camp. Pittman had not practiced since Aug. 8 before getting back on the field Aug. 24, and he was still participating in team work this week as Pittsburgh began ramping up for the regular season. General manager Omar Khan has said Pittman is expected to be available for the Sept. 13 opener against Atlanta, although head coach Mike McCarthy made it clear the Steelers are still being smart with his workload. That matters after Pittman missed the entire preseason and lost valuable reps in a new offense. Pittsburgh brought him in this spring after he caught 80 passes for 784 yards and a career-high seven touchdowns with Indianapolis last year. DK Metcalf remains the top receiver, but Pittman should have a steady role underneath once he is fully up to speed. His summer took a hit, but the outlook is getting better now that Week 1 appears to be back on the table.",
+        "title": "Michael Pittman Jr. Moving Closer to a Week 1 Return",
+        "topic_id": "1401626974153129984",
+        "url": "https://www.rotoballer.com/player-news/michael-pittman-jr-moving-closer-to-a-week-1-return/1923243"
+      },
+      "nfl_team": "PIT",
+      "player_id": "6819",
+      "player_name": "Michael Pittman",
+      "position": "WR",
+      "published": 1788521705000,
+      "source": "rotoballer",
+      "source_key": "220077",
+      "story_id": "nfl|6819|rotoballer|220077|1788521705000",
+      "title": "Michael Pittman Jr. Moving Closer to a Week 1 Return",
+      "url": "https://www.rotoballer.com/player-news/michael-pittman-jr-moving-closer-to-a-week-1-return/1923243"
     },
     {
       "analysis": null,
