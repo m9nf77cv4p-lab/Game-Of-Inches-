@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T21:29:40Z",
+  "last_checked_at": "2026-09-04T21:42:10Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4984|rotowire|636275|1788556909000",
-    "nfl|6904|rotoballer|220107|1788542236000"
+    "nfl|3257|rotowire|636276|1788557805000",
+    "nfl|8137|rotoballer|220108|1788543295000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,10 +15,30 @@
   },
   "stories": [
     {
-      "analysis": "Allen suited up for a preseason Week 1 matchup with the Panthers on Aug. 15 and led two scoring drives, completing six of eight passes for 111 yards and one touchdown. His final connection with Keon Coleman resulted in a nine-yard touchdown, after which Allen's exhibition action came to a close. The cameo displayed that Allen already was in midseason form, and he'll be aiming to get back to 4,000 yards through the air in 2026 for the first time since doing so in four consecutive campaigns from 2020-2023. He'll be aided in that quest by the offseason addition of WR DJ Moore.",
+      "analysis": "After Arizona released Kyler Murray in March, the team signed Gardner Minshew in free agency and then rounded out the QB room by drafting Carson Beck (ribs) in the third round of the 2026 Draft. Despite those notable additions, Brissett was expected to be the starter, and as a result he held a hold-in during the offseason program and at the starting training camp before agreeing to a revised contract with the team on July 26. Brissett made a cameo in preseason Week 1 versus the Raiders, completing all five of his passes for 44 yards and a touchdown strike to Marvin Harrison. Considering he'll have TE Trey McBride, WRs Harrison and Michael Wilson and RBs Jeremiyah Love (ankle) and Tyler Allgeier at his disposal, Brissett very well may produce like he did during his 12-game starting stint to end last season. Whether that'll be enough for Brissett to hold on to the No. 1 gig throughout the campaign is up in the air, especially with Beck waiting in the wings.",
+      "description": "Brissett is listed with the first-team offense on the Cardinals' unofficial depth chart.",
+      "metadata": {
+        "analysis": "After Arizona released Kyler Murray in March, the team signed Gardner Minshew in free agency and then rounded out the QB room by drafting Carson Beck (ribs) in the third round of the 2026 Draft. Despite those notable additions, Brissett was expected to be the starter, and as a result he held a hold-in during the offseason program and at the starting training camp before agreeing to a revised contract with the team on July 26. Brissett made a cameo in preseason Week 1 versus the Raiders, completing all five of his passes for 44 yards and a touchdown strike to Marvin Harrison. Considering he'll have TE Trey McBride, WRs Harrison and Michael Wilson and RBs Jeremiyah Love (ankle) and Tyler Allgeier at his disposal, Brissett very well may produce like he did during his 12-game starting stint to end last season. Whether that'll be enough for Brissett to hold on to the No. 1 gig throughout the campaign is up in the air, especially with Beck waiting in the wings.",
+        "description": "Brissett is listed with the first-team offense on the Cardinals' unofficial depth chart.",
+        "title": "Jacoby Brissett - Starting QB on depth chart",
+        "topic_id": "1401717580938391552"
+      },
+      "nfl_team": "ARI",
+      "player_id": "3257",
+      "player_name": "Jacoby Brissett",
+      "position": "QB",
+      "published": 1788557805000,
+      "source": "rotowire",
+      "source_key": "636276",
+      "story_id": "nfl|3257|rotowire|636276|1788557805000",
+      "title": "Jacoby Brissett - Starting QB on depth chart",
+      "url": null
+    },
+    {
+      "analysis": "Allen suited up for a preseason Week 1 matchup with the Panthers on Aug. 15 and led two scoring drives, completing six of eight passes for 111 yards and one touchdown. His final connection with Keon Coleman resulted in a nine-yard touchdown, after which Allen's exhibition action came to a close. The cameo displayed that Allen already was in midseason form, and he'll be aiming to get back to 4,000 yards through the air in 2026 for the first time since doing so in four consecutive campaigns from 2020-23. He'll be aided in that quest by the offseason addition of WR DJ Moore.",
       "description": "Allen made one appearance during the Bills' three-game preseason schedule.",
       "metadata": {
-        "analysis": "Allen suited up for a preseason Week 1 matchup with the Panthers on Aug. 15 and led two scoring drives, completing six of eight passes for 111 yards and one touchdown. His final connection with Keon Coleman resulted in a nine-yard touchdown, after which Allen's exhibition action came to a close. The cameo displayed that Allen already was in midseason form, and he'll be aiming to get back to 4,000 yards through the air in 2026 for the first time since doing so in four consecutive campaigns from 2020-2023. He'll be aided in that quest by the offseason addition of WR DJ Moore.",
+        "analysis": "Allen suited up for a preseason Week 1 matchup with the Panthers on Aug. 15 and led two scoring drives, completing six of eight passes for 111 yards and one touchdown. His final connection with Keon Coleman resulted in a nine-yard touchdown, after which Allen's exhibition action came to a close. The cameo displayed that Allen already was in midseason form, and he'll be aiming to get back to 4,000 yards through the air in 2026 for the first time since doing so in four consecutive campaigns from 2020-23. He'll be aided in that quest by the offseason addition of WR DJ Moore.",
         "description": "Allen made one appearance during the Bills' three-game preseason schedule.",
         "title": "Josh Allen - Logs one appearance in preseason",
         "topic_id": "1401713806014488576"
@@ -233,6 +253,26 @@
       "story_id": "nfl|8161|rotowire|636263|1788544206000",
       "title": "Malik Willis - Logs one appearance in preseason",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Dallas Morning News' Joseph Hoyt predicts that Dallas Cowboys wide receiver George Pickens will have a better fantasy football season in 2026 than CeeDee Lamb for the second straight year. Hoyt projects Pickens to come down with 90 catches, 1,380 yards, and 12 touchdowns after the 25-year-old caught 93 of 137 targets for 1,429 yards and nine touchdowns as a first-time Pro Bowler in 2025 in his first year with the Cowboys. Pickens was late to some team meetings and did not always appear to be locked in, but teammates and coaches have said he has been different as he heads into a contract year. The former second-rounder by the Pittsburgh Steelers has continued to make plays in training camp and looks as comfortable as ever in a pass-happy offense. It might be difficult for Pickens to outproduce Lamb for a second straight season, but even if he doesn't, he should have a pretty high fantasy floor. RotoBaller has Pickens ranked as the No. 8 fantasy WR for 2026, with Lamb coming in at No. 5. If Pickens stays healthy, he should have another big season.",
+      "metadata": {
+        "description": "The Dallas Morning News' Joseph Hoyt predicts that Dallas Cowboys wide receiver George Pickens will have a better fantasy football season in 2026 than CeeDee Lamb for the second straight year. Hoyt projects Pickens to come down with 90 catches, 1,380 yards, and 12 touchdowns after the 25-year-old caught 93 of 137 targets for 1,429 yards and nine touchdowns as a first-time Pro Bowler in 2025 in his first year with the Cowboys. Pickens was late to some team meetings and did not always appear to be locked in, but teammates and coaches have said he has been different as he heads into a contract year. The former second-rounder by the Pittsburgh Steelers has continued to make plays in training camp and looks as comfortable as ever in a pass-happy offense. It might be difficult for Pickens to outproduce Lamb for a second straight season, but even if he doesn't, he should have a pretty high fantasy floor. RotoBaller has Pickens ranked as the No. 8 fantasy WR for 2026, with Lamb coming in at No. 5. If Pickens stays healthy, he should have another big season.",
+        "title": "George Pickens to be Best Cowboys Receiver Again in 2026?",
+        "topic_id": "1401717578954448896",
+        "url": "https://www.rotoballer.com/player-news/george-pickens-to-be-best-cowboys-receiver-again-in-2026/1923524"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8137",
+      "player_name": "George Pickens",
+      "position": "WR",
+      "published": 1788543295000,
+      "source": "rotoballer",
+      "source_key": "220108",
+      "story_id": "nfl|8137|rotoballer|220108|1788543295000",
+      "title": "George Pickens to be Best Cowboys Receiver Again in 2026?",
+      "url": "https://www.rotoballer.com/player-news/george-pickens-to-be-best-cowboys-receiver-again-in-2026/1923524"
     },
     {
       "analysis": "After a four-year stint to begin his career in Tennessee, Okonkwo moved on to Washington via free agency this offseason, agreeing to a three-year, $27 million contract. Considering the investment made in him, it's no surprise he's listed as a first-teamer ahead of the 2026 campaign, and with lacking competition behind him for targets in the form of John Bates (hamstring), Ben Sinnott (oblique) and Colson Yankoff, Okonkwo is poised to serve as the top TE for QB Jayden Daniels.",
