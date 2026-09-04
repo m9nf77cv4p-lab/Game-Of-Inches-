@@ -20797,7 +20797,7 @@
       "last_name": "Hunter",
       "nfl_team": "JAX",
       "player_id": "12530",
-      "position": "WR",
+      "position": "DB",
       "status": "Active",
       "years_exp": 1
     },
@@ -23764,8 +23764,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-04T05:20:22Z",
-    "source_fingerprint": "3ac5ef2889cb0e0094cf36e9580afde87cdb0ecb38d79d595a3cd503358d344f"
+    "last_changed_at": "2026-09-04T21:52:09Z",
+    "source_fingerprint": "cfebddd0a699751dc8b1bcf938d37fc705913994492522e46b59412869de3fb7"
   },
   "teams": [
     {

@@ -1,11 +1,8 @@
 {
-  "last_checked_at": "2026-09-04T21:42:10Z",
+  "last_checked_at": "2026-09-04T21:52:11Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|3257|rotowire|636276|1788557805000",
-    "nfl|8137|rotoballer|220108|1788543295000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -6844,7 +6841,7 @@
       "nfl_team": "JAX",
       "player_id": "12530",
       "player_name": "Travis Hunter",
-      "position": "WR",
+      "position": "DB",
       "published": 1788303550000,
       "source": "rotoballer",
       "source_key": "219905",
@@ -25994,7 +25991,7 @@
       "nfl_team": "JAX",
       "player_id": "12530",
       "player_name": "Travis Hunter",
-      "position": "WR",
+      "position": "DB",
       "published": 1787422628000,
       "source": "rotowire",
       "source_key": "634437",
@@ -28681,7 +28678,7 @@
       "nfl_team": "JAX",
       "player_id": "12530",
       "player_name": "Travis Hunter",
-      "position": "WR",
+      "position": "DB",
       "published": 1787307248000,
       "source": "rotoballer",
       "source_key": "219054",

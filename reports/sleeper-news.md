@@ -3,11 +3,11 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1927**
-- Newly captured: **2**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Jacoby Brissett** — Jacoby Brissett - Starting QB on depth chart (2026-09-04T21:36:45Z)
+- **Jacoby Brissett** — Jacoby Brissett - Starting QB on depth chart (2026-09-04T21:36:45Z)
   - After Arizona released Kyler Murray in March, the team signed Gardner Minshew in free agency and then rounded out the QB room by drafting Carson Beck (ribs) in the third round of the 2026 Draft. Despite those notable additions, Brissett was expected to be the starter, and as a result he held a hold-in during the offseason program and at the starting training camp before agreeing to a revised contract with the team on July 26. Brissett made a cameo in preseason Week 1 versus the Raiders, completing all five of his passes for 44 yards and a touchdown strike to Marvin Harrison. Considering he'll have TE Trey McBride, WRs Harrison and Michael Wilson and RBs Jeremiyah Love (ankle) and Tyler Allgeier at his disposal, Brissett very well may produce like he did during his 12-game starting stint to end last season. Whether that'll be enough for Brissett to hold on to the No. 1 gig throughout the campaign is up in the air, especially with Beck waiting in the wings.
 - **Josh Allen** — Josh Allen - Logs one appearance in preseason (2026-09-04T21:21:49Z)
   - Allen suited up for a preseason Week 1 matchup with the Panthers on Aug. 15 and led two scoring drives, completing six of eight passes for 111 yards and one touchdown. His final connection with Keon Coleman resulted in a nine-yard touchdown, after which Allen's exhibition action came to a close. The cameo displayed that Allen already was in midseason form, and he'll be aiming to get back to 4,000 yards through the air in 2026 for the first time since doing so in four consecutive campaigns from 2020-23. He'll be aided in that quest by the offseason addition of WR DJ Moore.
@@ -31,7 +31,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Miami almost entirely retooled its receiving corps this offseason, releasing Tyreek Hill in February, trading Jaylen Waddle to the Broncos in March, signing Jalen Tolbert in free agency and then drafting three WRs (Caleb Douglas, Chris Bell and Kevin Coleman) in the 2026 Draft. Washington is the only holdover from 2025, a season in which he hauled in 46 of 65 targets for 317 yards and three touchdowns while also rushing 17 times for 110 yards and one more TD. In addition to an expected increase in snaps while working with new QB Malik Willis, Washington again will serve as the team's primary kick returner and perhaps on punt returns as well.
 - **Malik Willis** — Malik Willis - Logs one appearance in preseason (2026-09-04T17:50:06Z)
   - Willis started the team's exhibition opener at Washington on Aug. 14, leading a 14-play drive that culminated in a De'Von Achane one-yard TD run. During the possession, Willis was a crisp 4-for-5 passing for 43 yards and also had two carries for nine yards. He parlayed a successful two-year stint as Jordan Love's backup in Green Bay into a three-year, $67.5 million contract this offseason, and while Willis' brief game action last month was encouraging, outside of top RB Achane, Miami doesn't boast much in terms of skill-position talent, as Malik Washington will be the No. 1 WR to begin the 2026 season.
-- **NEW — George Pickens** — George Pickens to be Best Cowboys Receiver Again in 2026? (2026-09-04T17:34:55Z)
+- **George Pickens** — George Pickens to be Best Cowboys Receiver Again in 2026? (2026-09-04T17:34:55Z)
   - Source: https://www.rotoballer.com/player-news/george-pickens-to-be-best-cowboys-receiver-again-in-2026/1923524
 - **Chig Okonkwo** — Chig Okonkwo - Listed as first-teamer in depth chart (2026-09-04T17:31:50Z)
   - After a four-year stint to begin his career in Tennessee, Okonkwo moved on to Washington via free agency this offseason, agreeing to a three-year, $27 million contract. Considering the investment made in him, it's no surprise he's listed as a first-teamer ahead of the 2026 campaign, and with lacking competition behind him for targets in the form of John Bates (hamstring), Ben Sinnott (oblique) and Colson Yankoff, Okonkwo is poised to serve as the top TE for QB Jayden Daniels.
