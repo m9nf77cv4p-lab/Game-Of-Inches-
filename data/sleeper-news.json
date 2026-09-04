@@ -1,10 +1,12 @@
 {
-  "last_checked_at": "2026-09-04T15:23:42Z",
+  "last_checked_at": "2026-09-04T15:38:10Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|7588|rotoballer|220073|1788520445000",
-    "nfl|8137|rotoballer|220074|1788520326000"
+    "nfl|11643|rotowire|636256|1788535619000",
+    "nfl|13296|rotowire|636255|1788535389000",
+    "nfl|6804|rotoballer|220076|1788521045000",
+    "nfl|7543|rotoballer|220075|1788520566000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,11 +17,91 @@
   },
   "stories": [
     {
+      "analysis": "The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.",
+      "description": "Wright is listed as the Dolphins' No. 2 running back on the team's initial depth chart ahead of Week 1 against the Raiders.",
+      "metadata": {
+        "analysis": "The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.",
+        "description": "Wright is listed as the Dolphins' No. 2 running back on the team's initial depth chart ahead of Week 1 against the Raiders.",
+        "title": "Jaylen Wright - Listed as RB2 behind Achane",
+        "topic_id": "1401624460078919680"
+      },
+      "nfl_team": "MIA",
+      "player_id": "11643",
+      "player_name": "Jaylen Wright",
+      "position": "RB",
+      "published": 1788535619000,
+      "source": "rotowire",
+      "source_key": "636256",
+      "story_id": "nfl|11643|rotowire|636256|1788535619000",
+      "title": "Jaylen Wright - Listed as RB2 behind Achane",
+      "url": null
+    },
+    {
+      "analysis": "Douglas is slotted in as the X receiver, alongside Jalen Tolbert at the Z and Malik Washington as the slot man for Miami. A third-round pick out of Texas Tech back in April, Douglas has been running with the first-team offense most of the summer. He logged 17 offensive snaps during the preseason, catching one of his two targets for 28 yards, before being rested for the third exhibition. This Dolphins offense projects to be a low-scoring one, and it remains to be seen if Malik Willis will be able to carry any of his pass catchers to fantasy relevance.",
+      "description": "Douglas is listed as a starting wide receiver on Miami's initial depth chart headed into Week 1 against the Raiders.",
+      "metadata": {
+        "analysis": "Douglas is slotted in as the X receiver, alongside Jalen Tolbert at the Z and Malik Washington as the slot man for Miami. A third-round pick out of Texas Tech back in April, Douglas has been running with the first-team offense most of the summer. He logged 17 offensive snaps during the preseason, catching one of his two targets for 28 yards, before being rested for the third exhibition. This Dolphins offense projects to be a low-scoring one, and it remains to be seen if Malik Willis will be able to carry any of his pass catchers to fantasy relevance.",
+        "description": "Douglas is listed as a starting wide receiver on Miami's initial depth chart headed into Week 1 against the Raiders.",
+        "title": "Caleb Douglas - Listed as starter",
+        "topic_id": "1401623200344875008"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13296",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "published": 1788535389000,
+      "source": "rotowire",
+      "source_key": "636255",
+      "story_id": "nfl|13296|rotowire|636255|1788535389000",
+      "title": "Caleb Douglas - Listed as starter",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers quarterback Jordan Love hasn't been asked to throw nearly as much the past two seasons, but that could change with Josh Jacobs unavailable. Love averaged just 28.8 pass attempts per game across 2024 and 2025 after throwing 579 times in his first full season as the starter in 2023. He still put together an efficient year last season, completing a career-high 66.3% of his passes for 3,381 yards, 23 touchdowns and only six interceptions. Jacobs remains on the Commissioner's Exempt List with no timetable to return, leaving MarShawn Lloyd as the likely lead back entering Week 1. Lloyd has just six NFL carries after spending most of his first two seasons battling injuries, while Chris Brooks and Kaleb Johnson provide the other backfield options. Green Bay doesn't suddenly have to abandon the run, but there is more reason to put the offense in Love's hands. He has also climbed to QB17 in RotoBaller's latest rankings. A bump in attempts would give Love a better chance to push back into the QB1 mix.",
+      "metadata": {
+        "description": "Green Bay Packers quarterback Jordan Love hasn't been asked to throw nearly as much the past two seasons, but that could change with Josh Jacobs unavailable. Love averaged just 28.8 pass attempts per game across 2024 and 2025 after throwing 579 times in his first full season as the starter in 2023. He still put together an efficient year last season, completing a career-high 66.3% of his passes for 3,381 yards, 23 touchdowns and only six interceptions. Jacobs remains on the Commissioner's Exempt List with no timetable to return, leaving MarShawn Lloyd as the likely lead back entering Week 1. Lloyd has just six NFL carries after spending most of his first two seasons battling injuries, while Chris Brooks and Kaleb Johnson provide the other backfield options. Green Bay doesn't suddenly have to abandon the run, but there is more reason to put the offense in Love's hands. He has also climbed to QB17 in RotoBaller's latest rankings. A bump in attempts would give Love a better chance to push back into the QB1 mix.",
+        "title": "Jordan Love Could See His Passing Volume Climb",
+        "topic_id": "1401624458149543936",
+        "url": "https://www.rotoballer.com/player-news/jordan-love-could-see-his-passing-volume-climb/1923237"
+      },
+      "nfl_team": "GB",
+      "player_id": "6804",
+      "player_name": "Jordan Love",
+      "position": "QB",
+      "published": 1788521045000,
+      "source": "rotoballer",
+      "source_key": "220076",
+      "story_id": "nfl|6804|rotoballer|220076|1788521045000",
+      "title": "Jordan Love Could See His Passing Volume Climb",
+      "url": "https://www.rotoballer.com/player-news/jordan-love-could-see-his-passing-volume-climb/1923237"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints running back Travis Etienne Jr. already looked headed for the bigger share of this backfield, and Alvin Kamara's knee injury could give him even more work out of the gate. Kamara was still absent from the portion of Thursday's practice open to the media as he works back from a sprained MCL. Kendre Miller has also been sidelined this week, which only adds to the uncertainty behind Etienne. The 27-year-old handled most of the first-team early-down work before Kamara was hurt, then finished camp healthy while the rest of the room dealt with injuries. Etienne is coming off 1,107 rushing yards and seven touchdowns on 260 carries in Jacksonville, plus 36 catches for 292 yards and six more scores. He now sits at RB15 in the latest PPR rankings. Kamara avoided injured reserve and still has time to make it back for the opener, so this may be a short-term boost rather than a season-long change. For now, Etienne has a clearer path to heavy volume than he did a few weeks ago.",
+      "metadata": {
+        "description": "New Orleans Saints running back Travis Etienne Jr. already looked headed for the bigger share of this backfield, and Alvin Kamara's knee injury could give him even more work out of the gate. Kamara was still absent from the portion of Thursday's practice open to the media as he works back from a sprained MCL. Kendre Miller has also been sidelined this week, which only adds to the uncertainty behind Etienne. The 27-year-old handled most of the first-team early-down work before Kamara was hurt, then finished camp healthy while the rest of the room dealt with injuries. Etienne is coming off 1,107 rushing yards and seven touchdowns on 260 carries in Jacksonville, plus 36 catches for 292 yards and six more scores. He now sits at RB15 in the latest PPR rankings. Kamara avoided injured reserve and still has time to make it back for the opener, so this may be a short-term boost rather than a season-long change. For now, Etienne has a clearer path to heavy volume than he did a few weeks ago.",
+        "title": "Travis Etienne Jr. Could Open the Year With a Heavy Workload",
+        "topic_id": "1401623218522980352",
+        "url": "https://www.rotoballer.com/player-news/travis-etienne-jr-could-open-the-year-with-a-heavy-workload/1923228"
+      },
+      "nfl_team": "NO",
+      "player_id": "7543",
+      "player_name": "Travis Etienne",
+      "position": "RB",
+      "published": 1788520566000,
+      "source": "rotoballer",
+      "source_key": "220075",
+      "story_id": "nfl|7543|rotoballer|220075|1788520566000",
+      "title": "Travis Etienne Jr. Could Open the Year With a Heavy Workload",
+      "url": "https://www.rotoballer.com/player-news/travis-etienne-jr-could-open-the-year-with-a-heavy-workload/1923228"
+    },
+    {
       "analysis": null,
       "description": "Dallas Cowboys running back Javonte Williams is expected to occupy an every-down role once again this season. The Cowboys recently released Phil Mafah and Jaydon Blue, leaving them with a backfield of Williams, Malik Davis, and Emari Demercado. Although Davis and Demercado have both been in the league for a while, they've established themself as depth options and won't sniff the lead-back role as long as Williams is healthy. As a result, the 26-year-old has a legitimate chance to replicate (or even improve upon) last year's RB12 finish in PPR leagues, especially with the Cowboys' offense projected to be effective again this year. Last year, Williams had 1,201 rushing yards and 11 rushing touchdowns, shattering his previous career-high rushing yards (903) and rushing touchdowns (four). At the moment, he ranks as the RB12 in RotoBaller's latest redraft rankings for PPR leagues. He has an ADP of 32.9, which corresponds to the third round of fantasy drafts and makes him the 15th running back off the board.",
       "metadata": {
         "description": "Dallas Cowboys running back Javonte Williams is expected to occupy an every-down role once again this season. The Cowboys recently released Phil Mafah and Jaydon Blue, leaving them with a backfield of Williams, Malik Davis, and Emari Demercado. Although Davis and Demercado have both been in the league for a while, they've established themself as depth options and won't sniff the lead-back role as long as Williams is healthy. As a result, the 26-year-old has a legitimate chance to replicate (or even improve upon) last year's RB12 finish in PPR leagues, especially with the Cowboys' offense projected to be effective again this year. Last year, Williams had 1,201 rushing yards and 11 rushing touchdowns, shattering his previous career-high rushing yards (903) and rushing touchdowns (four). At the moment, he ranks as the RB12 in RotoBaller's latest redraft rankings for PPR leagues. He has an ADP of 32.9, which corresponds to the third round of fantasy drafts and makes him the 15th running back off the board.",
-        "title": "Javonte Williams Slated for Every-Down Role with No Competition in Backfield",
+        "title": "Javonte Williams Slated for Every-Down Role",
         "topic_id": "1401620682873298944",
         "url": "https://www.rotoballer.com/player-news/javonte-williams-slated-for-every-down-role-with-no-competition-in-backfield/1923224"
       },
@@ -31,7 +113,7 @@
       "source": "rotoballer",
       "source_key": "220073",
       "story_id": "nfl|7588|rotoballer|220073|1788520445000",
-      "title": "Javonte Williams Slated for Every-Down Role with No Competition in Backfield",
+      "title": "Javonte Williams Slated for Every-Down Role",
       "url": "https://www.rotoballer.com/player-news/javonte-williams-slated-for-every-down-role-with-no-competition-in-backfield/1923224"
     },
     {

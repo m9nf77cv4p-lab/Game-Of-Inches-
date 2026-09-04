@@ -2,14 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1876**
-- Newly captured: **2**
+- Stored stories: **1880**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Javonte Williams** — Javonte Williams Slated for Every-Down Role with No Competition in Backfield (2026-09-04T11:14:05Z)
+- **NEW — Jaylen Wright** — Jaylen Wright - Listed as RB2 behind Achane (2026-09-04T15:26:59Z)
+  - The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.
+- **NEW — Caleb Douglas** — Caleb Douglas - Listed as starter (2026-09-04T15:23:09Z)
+  - Douglas is slotted in as the X receiver, alongside Jalen Tolbert at the Z and Malik Washington as the slot man for Miami. A third-round pick out of Texas Tech back in April, Douglas has been running with the first-team offense most of the summer. He logged 17 offensive snaps during the preseason, catching one of his two targets for 28 yards, before being rested for the third exhibition. This Dolphins offense projects to be a low-scoring one, and it remains to be seen if Malik Willis will be able to carry any of his pass catchers to fantasy relevance.
+- **NEW — Jordan Love** — Jordan Love Could See His Passing Volume Climb (2026-09-04T11:24:05Z)
+  - Source: https://www.rotoballer.com/player-news/jordan-love-could-see-his-passing-volume-climb/1923237
+- **NEW — Travis Etienne** — Travis Etienne Jr. Could Open the Year With a Heavy Workload (2026-09-04T11:16:06Z)
+  - Source: https://www.rotoballer.com/player-news/travis-etienne-jr-could-open-the-year-with-a-heavy-workload/1923228
+- **Javonte Williams** — Javonte Williams Slated for Every-Down Role (2026-09-04T11:14:05Z)
   - Source: https://www.rotoballer.com/player-news/javonte-williams-slated-for-every-down-role-with-no-competition-in-backfield/1923224
-- **NEW — George Pickens** — George Pickens Keeps Pushing His Stock Higher (2026-09-04T11:12:06Z)
+- **George Pickens** — George Pickens Keeps Pushing His Stock Higher (2026-09-04T11:12:06Z)
   - Source: https://www.rotoballer.com/player-news/george-pickens-keeps-pushing-his-stock-higher/1923222
 - **Bucky Irving** — Bucky Irving a Bounce-Back Candidate with Clean Bill of Health (2026-09-04T10:22:06Z)
   - Source: https://www.rotoballer.com/player-news/bucky-irving-a-bounce-back-candidate-with-clean-bill-of-health/1923208
@@ -204,11 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The Texans traded for Boutte from New England after Jayden Higgins tore his ACL, knocking the 2025 second-round pick out for the season. Boutte's 551 receiving yards for the Patriots in the 2025 regular season would have ranked second among Houston's wideouts behind Collins. Hutchinson had a career-high 428 receiving yards during the 2025 regular season, Noel has some intriguing upside as a 2025 third-round pick, and Houston is hoping to get Dell back eventually from the knee injury that sidelined him for the entire 2025 season. Stroud is looking to bounce back after a 2025 campaign in which he threw for career lows in both passing yards (3,041) and touchdown passes (19) during the regular season before coughing up seven turnovers in two playoff games.
 - **Ladd McConkey** — Ladd McConkey Has More Working in His Favor This Year (2026-09-03T16:00:12Z)
   - Source: https://www.rotoballer.com/player-news/ladd-mcconkey-has-more-working-in-his-favor-this-year/1922729
-- **Rico Dowdle** — Rico Dowdle More Likely for Early-Down Work in Pittsburgh (2026-09-03T15:59:06Z)
-  - Source: https://www.rotoballer.com/player-news/rico-dowdle-more-likely-for-early-down-work-in-pittsburgh/1922727
-- **Kyler Murray** — Kyler Murray - Plays six preseason snaps (2026-09-03T15:58:16Z)
-  - After completing two of his three pass attempts for 10 yards against the Giants in the preseason opener, Murray took a seat and parked it for the remainder of the exhibition season. Coach Kevin O'Connell settled on Murray as the Vikings' starter before training camp, and he's expected to have a long leash under center this season after J.J. McCarthy continued to look overmatched throughout the 2025 campaign. Murray has big upside in this quarterback-friendly scheme and has arguably the best supporting cast of his career. He's an ideal late-round fantasy target at quarterback.
-- **Joe Burrow** — Joe Burrow - Optimistic heading into 2026 (2026-09-03T15:51:14Z)
-  - "We're going to have a really good team that has a chance to win every game that we step foot on the field for," Burrow said. "We brought in a lot of the right guys, a lot of the right people with the right mindsets to go and chase this goal of winning a Super Bowl." Cincinnati's offseason additions focused primarily on fixing a defense that allowed 28.9 points per game during the 2025 regular season, which was third-most in the NFL. Burrow and the offense are poised for another productive campaign if the star QB can stay healthy after being limited to eight appearances last season due to a toe injury. Starting wide receivers Chase and Tee Higgins (heel), as well as running back Chase Brown, are all reprising their roles alongside Burrow to provide continuity on offense.
-- **Keaton Mitchell** — Keaton Mitchell Missing Another Practice (2026-09-03T15:50:06Z)
-  - Source: https://www.rotoballer.com/player-news/keaton-mitchell-missing-another-practice/1922725
