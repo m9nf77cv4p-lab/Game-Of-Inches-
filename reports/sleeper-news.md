@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1841**
+- Stored stories: **1842**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Geno Smith** — Geno Smith - Voted team captain (2026-09-04T00:45:54Z)
+- **NEW — Pat Bryant** — Pat Bryant - Poised to operate as top depth option (2026-09-04T00:53:42Z)
+  - Bryant reeled in 31 of 49 targets for 378 yards and a touchdown over 15 regular-season contests in his rookie campaign with Denver in 2025. The 23-year-old possesses a 6-foot-2, 200-plus pound frame, and he's on track to operate as the immediate backup behind Courtland Sutton as a boundary receiver with Denver this season. Bryant has already impressed with his physicality at his position, and he could earn more opportunities in his first campaign with new playcaller Davis Webb.
+- **Geno Smith** — Geno Smith - Voted team captain (2026-09-04T00:45:54Z)
   - It's been nearly 10 years since Smith last took a snap for the Jets, but after revitalizing his career with the Seahawks and Raiders over the last four seasons, he's back in New York as a grizzled vet with age (34) and experience on his side. Smith recorded at least 3,000 yards and 19 touchdowns through the air in each of those four campaigns, but he also tossed 52 interceptions in 64 regular-season games during that span. Picks are often an issue for Smith, but he at least will have a nice skill-position group of RB Breece Hall (groin), WRs Garrett Wilson, Adonai Mitchell and Omar Cooper and TEs Mason Taylor and Kenyon Sadiq (abdomen) to throw to in 2026.
 - **D'Andre Swift** — D'Andre Swift - Believed to be dealing with cramp (2026-09-04T00:32:02Z)
   - Swift was reportedly "in significant discomfort" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will head into Week 1 carrying an injury designation, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injured list, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Penix didn't suit up for the preseason while completing his recovery from Nov. 25 surgery to repair a torn ACL in his left knee, but he was cleared to take part in 11-on-11 drills just under two weeks ago and has been able to get some reps in with the first-team offense. Stefanski plans to continue evaluating both Penix and Tagovailoa in practices this week and next before naming a starter. Because of Penix's limitations for much of training camp, Tagovailoa initially appeared to be a strong bet to open the season as the Falcons' starter, but a poor preseason in which he fumbled twice and struggled to push the ball down the field has thus far prevented him from securing the Week 1 nod.
 - **Jadarian Price** — Jadarian Price Set for an Important Early-Season Role (2026-09-03T13:13:14Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-set-for-an-important-early-season-role/1922599
-- **Michael Wilson** — Cardinals, Michael Wilson Agree on Three-Year Extension (2026-09-03T12:56:09Z)
-  - Source: https://www.rotoballer.com/player-news/cardinals-michael-wilson-agree-on-three-year-extension/1922595
