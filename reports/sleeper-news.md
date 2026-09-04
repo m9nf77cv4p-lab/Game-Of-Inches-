@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1858**
+- Stored stories: **1861**
 - Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Chris Rodriguez** — Chris Rodriguez - Healthy ahead of Week 1 (2026-09-04T03:41:23Z)
+- **NEW — Brenton Strange** — Brenton Strange - In line to start Week 1 (2026-09-04T03:51:28Z)
+  - Strange inked a three-year extension with Jacksonville back in June, and in the wake of roster cuts, rookie second-round pick Nate Boerkircher, rookie fifth-rounder Tanner Koziol and fifth-year pro Quintin Morris are the other TEs on the roster. As a result, Strange is the likeliest member of the group, barring health concerns, to end the campaign as the leader in offensive snaps. He's also coming off a 2025 season in which he posted a 46-540-3 line on 60 targets across 12 regular-season games.
+- **Chris Rodriguez** — Chris Rodriguez - Healthy ahead of Week 1 (2026-09-04T03:41:23Z)
   - Allen is the only one of the quartet whose status for Week 1 appears to be up in the air, but Rodriguez nonetheless is poised for a regular role in Jacksonville's offense. What kind of workload that entails remains to be seen, but Tuten is Rodriguez's primary competitor for touches. At least when it comes to short-yardage and goal-line usage, the more imposing Rodriguez likely will handle those after earning 33 carries inside the 20-yard line last season for the Commanders. The Jaguars' season opener against the Browns on Sunday, Sept. 13 ultimately will provide insight into what to expect from the duo.
 - **Parker Washington** — Parker Washington - No preseason snaps (2026-09-04T03:29:08Z)
   - Not long after Washington sat out Jacksonville's exhibition opener on Aug. 15, Washington missed a week of practice due to an undisclosed injury before retaking the field during a joint session with the Buccaneers on Aug. 25, so his lack of in-game activity isn't much a surprise. After reeling off three 100-yard receiving efforts in his final four appearances, including playoffs, of the 2025 campaign, he entered the offseason on a high note and also considered the team's most sought-after WR in fantasy terms ahead of Brian Thomas, Jakobi Meyers (hand) and Travis Hunter.
@@ -27,9 +29,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Despite going undrafted in 2024, Coker has made his presence felt through two pro campaigns, resulting in 65 catches (on 89 targets) for 872 yards and five touchdowns in 22 regular-season games. His defining moment of sorts occurred the last time he was on the field for a contest that counts, when he torched the Rams for 9-134-1 on 12 targets in a wild-card loss. Coker will continue to operate as a complementary option to No. 1 WR Tetairoa McMillan for QB Bryce Young in 2026.
 - **Bryce Young** — Bryce Young - Working with new play caller (2026-09-03T23:55:01Z)
   - Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as "aggressive, which is huge for us." The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.
-- **NEW — Trevor Lawrence** — Trevor Lawrence Set for Potential Career-Best Season (2026-09-03T23:35:02Z)
+- **NEW — Jonathan Taylor** — Jonathan Taylor Poised for Another Productive Year (2026-09-03T23:46:14Z)
+  - Source: https://www.rotoballer.com/player-news/jonathan-taylor-poised-for-another-productive-year/1922981
+- **NEW — Dontayvion Wicks** — Dontayvion Wicks Set for Starting Role in Philadelphia (2026-09-03T23:42:08Z)
+  - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-set-for-starting-role-in-philadelphia/1922979
+- **Trevor Lawrence** — Trevor Lawrence Set for Potential Career-Best Season (2026-09-03T23:35:02Z)
   - Source: https://www.rotoballer.com/player-news/trevor-lawrence-set-for-potential-career-best-season-with-strong-supporting-cast/1922975
-- **NEW — DeVonta Smith** — DeVonta Smith Primed for Breakout as Eagles' Undisputed No. 1 WR (2026-09-03T23:30:06Z)
+- **DeVonta Smith** — DeVonta Smith Primed for Breakout as Eagles' Undisputed No. 1 WR (2026-09-03T23:30:06Z)
   - Source: https://www.rotoballer.com/player-news/devonta-smith-primed-for-breakout-as-undisputed-no-1/1922973
 - **Eli Stowers** — Eli Stowers Struggling in Camp, Difficult to Trust in Redraft Formats (2026-09-03T23:00:06Z)
   - Source: https://www.rotoballer.com/player-news/eli-stowers-struggling-in-camp-difficult-to-trust-in-redraft-formats/1922969
@@ -207,9 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/george-kittle-could-be-on-snap-count-in-week-1/1922676
 - **George Holani** — George Holani - Set to work as third-down back (2026-09-03T15:06:28Z)
   - The Seahawks seem to trust Holani's receiving and pass-blocking abilities, which should allow the 26-year-old running back to earn a prominent role out of the gate, though the rookie first-round pick Price is the leading candidate to get most of the rushing opportunities. Zach Charbonnet (knee) could also earn a sizable role once healthy, but he'll miss at least the first four weeks of the season while on the reserve/PUP list and could be out well beyond then. Emanuel Wilson (hamstring) rounds out the running back depth chart.
-- **Alec Pierce** — Alec Pierce Practices in Full on Thursday (2026-09-03T14:57:17Z)
-  - Source: https://www.rotoballer.com/player-news/alec-pierce-practices-in-full-on-thursday/1922670
-- **T.J. Hockenson** — T.J. Hockenson - Nabs TD in final camp practice (2026-09-03T14:55:27Z)
-  - Hockenson played just five snaps in the Vikings' preseason opener and was rested for the final two exhibition tilts, but he's been getting in reps with the first-team offense throughout camp. After a delayed start to the 2024 campaign while he completed his recovery from a torn ACL and MCL in his right knee, Hockenson mostly stayed healthy in 2025 but was a middling fantasy option at tight end with a 51-438-3 receiving line on 66 targets over 15 games. Though Hockenson should benefit from upgraded quarterback play in 2026 after drawing targets from the likes of J.J. McCarthy, Carson Wentz and Max Brosmer a season ago, the closest Murray has come to supporting two fantasy relevant pass catchers was in 2024, when tight end Trey McBride (111-1,146-2 line in 16 games) and wideout Marvin Harrison (62-885-8 in 17 games) both had some utility. Justin Jefferson is locked in as the clear top weapon in the passing game and should dominate the targets, but Hockenson could struggle to see consistent volume while he's vying with the likes of No. 2 receiver Jordan Addison and No. 3 receiver Jauan Jennings for the remaining looks that don't go to Jefferson.
-- **Alvin Kamara** — Alvin Kamara Absent From Thursday's Practice (2026-09-03T14:47:16Z)
-  - Source: https://www.rotoballer.com/player-news/alvin-kamara-absent-from-thursdays-practice/1922663

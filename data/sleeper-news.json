@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-09-04T03:45:34Z",
+  "last_checked_at": "2026-09-04T03:55:37Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|10219|rotowire|636244|1788493283000",
-    "nfl|7523|rotoballer|220059|1788478502000",
-    "nfl|7525|rotoballer|220058|1788478206000"
+    "nfl|6813|rotoballer|220060|1788479174000",
+    "nfl|9480|rotowire|636246|1788493888000",
+    "nfl|9486|rotoballer|220061|1788478928000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Strange inked a three-year extension with Jacksonville back in June, and in the wake of roster cuts, rookie second-round pick Nate Boerkircher, rookie fifth-rounder Tanner Koziol and fifth-year pro Quintin Morris are the other TEs on the roster. As a result, Strange is the likeliest member of the group, barring health concerns, to end the campaign as the leader in offensive snaps. He's also coming off a 2025 season in which he posted a 46-540-3 line on 60 targets across 12 regular-season games.",
+      "description": "Strange is the Jaguars' projected Week 1 starter at tight end following the NFL's cut-down day, John Oehser of the team's official site reports.",
+      "metadata": {
+        "analysis": "Strange inked a three-year extension with Jacksonville back in June, and in the wake of roster cuts, rookie second-round pick Nate Boerkircher, rookie fifth-rounder Tanner Koziol and fifth-year pro Quintin Morris are the other TEs on the roster. As a result, Strange is the likeliest member of the group, barring health concerns, to end the campaign as the leader in offensive snaps. He's also coming off a 2025 season in which he posted a 46-540-3 line on 60 targets across 12 regular-season games.",
+        "description": "Strange is the Jaguars' projected Week 1 starter at tight end following the NFL's cut-down day, John Oehser of the team's official site reports.",
+        "title": "Brenton Strange - In line to start Week 1",
+        "topic_id": "1401449540866830336"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9480",
+      "player_name": "Brenton Strange",
+      "position": "TE",
+      "published": 1788493888000,
+      "source": "rotowire",
+      "source_key": "636246",
+      "story_id": "nfl|9480|rotowire|636246|1788493888000",
+      "title": "Brenton Strange - In line to start Week 1",
+      "url": null
+    },
     {
       "analysis": "Allen is the only one of the quartet whose status for Week 1 appears to be up in the air, but Rodriguez nonetheless is poised for a regular role in Jacksonville's offense. What kind of workload that entails remains to be seen, but Tuten is Rodriguez's primary competitor for touches. At least when it comes to short-yardage and goal-line usage, the more imposing Rodriguez likely will handle those after earning 33 carries inside the 20-yard line last season for the Commanders. The Jaguars' season opener against the Browns on Sunday, Sept. 13 ultimately will provide insight into what to expect from the duo.",
       "description": "Rodriguez currently is one of two healthy running backs on the Jaguars' roster along with Ameer Abdullah due to health concerns for Bhayshul Tuten (illness) and LeQuint Allen (undisclosed).",
@@ -214,6 +234,46 @@
       "story_id": "nfl|9228|rotowire|636206|1788479701000",
       "title": "Bryce Young - Working with new play caller",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts running back Jonathan Taylor is poised to have another very productive season in 2026. Taylor ranked as the overall RB4 in PPR leagues last year, and even that finish was somewhat underwhelming relative to how dominant he started the season. Through the first 10 weeks last year, he scored a whopping 17 touchdowns while ranking as the RB1 in PPR leagues. In fact, during that span, he scored 25.1 points more than the RB2, Christian McCaffrey. He also had a torrid stretch where he recorded five different three-touchdown games within eight weeks. In other words, Taylor was playing at an MVP level before cooling off after the bye week (and after quarterback Daniel Jones went down with an Achilles injury). Jones is healthy again, restoring a semblance of life to this offense and potentially reigniting Taylor's upside as the overall RB1 if he can stay healthy. He is currently being drafted in the middle of the first round of fantasy drafts, typically as the fourth running back off the board.",
+      "metadata": {
+        "description": "Indianapolis Colts running back Jonathan Taylor is poised to have another very productive season in 2026. Taylor ranked as the overall RB4 in PPR leagues last year, and even that finish was somewhat underwhelming relative to how dominant he started the season. Through the first 10 weeks last year, he scored a whopping 17 touchdowns while ranking as the RB1 in PPR leagues. In fact, during that span, he scored 25.1 points more than the RB2, Christian McCaffrey. He also had a torrid stretch where he recorded five different three-touchdown games within eight weeks. In other words, Taylor was playing at an MVP level before cooling off after the bye week (and after quarterback Daniel Jones went down with an Achilles injury). Jones is healthy again, restoring a semblance of life to this offense and potentially reigniting Taylor's upside as the overall RB1 if he can stay healthy. He is currently being drafted in the middle of the first round of fantasy drafts, typically as the fourth running back off the board.",
+        "title": "Jonathan Taylor Poised for Another Productive Year",
+        "topic_id": "1401448280075870208",
+        "url": "https://www.rotoballer.com/player-news/jonathan-taylor-poised-for-another-productive-year/1922981"
+      },
+      "nfl_team": "IND",
+      "player_id": "6813",
+      "player_name": "Jonathan Taylor",
+      "position": "RB",
+      "published": 1788479174000,
+      "source": "rotoballer",
+      "source_key": "220060",
+      "story_id": "nfl|6813|rotoballer|220060|1788479174000",
+      "title": "Jonathan Taylor Poised for Another Productive Year",
+      "url": "https://www.rotoballer.com/player-news/jonathan-taylor-poised-for-another-productive-year/1922981"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles wide receiver Dontayvion Wicks is expected to occupy a starting role when the regular season gets underway next week. Wicks was traded from the Packers to the Eagles this offseason, and he'll immediately occupy a significant role following the departure of A.J. Brown. All signs point to the 25-year-old opening the regular season as Philly's No. 2 receiver, starting opposite DeVonta Smith. His track record in Green Bay was iffy, but there was never any doubt about his role with the Eagles. After all, he was held out of all three preseason games due to his status as a projected starter. We expect the Eagles' offense to trend upward under new offensive coordinator Sean Mannion, which bodes well for Wicks' upside as a low-end WR3/flex. For now, he's an extremely affordable option in fantasy drafts. The latest ADP has him as a fringe draft pick in 12-team leagues and a 14th-round pick in 14-team leagues.",
+      "metadata": {
+        "description": "Philadelphia Eagles wide receiver Dontayvion Wicks is expected to occupy a starting role when the regular season gets underway next week. Wicks was traded from the Packers to the Eagles this offseason, and he'll immediately occupy a significant role following the departure of A.J. Brown. All signs point to the 25-year-old opening the regular season as Philly's No. 2 receiver, starting opposite DeVonta Smith. His track record in Green Bay was iffy, but there was never any doubt about his role with the Eagles. After all, he was held out of all three preseason games due to his status as a projected starter. We expect the Eagles' offense to trend upward under new offensive coordinator Sean Mannion, which bodes well for Wicks' upside as a low-end WR3/flex. For now, he's an extremely affordable option in fantasy drafts. The latest ADP has him as a fringe draft pick in 12-team leagues and a 14th-round pick in 14-team leagues.",
+        "title": "Dontayvion Wicks Set for Starting Role in Philadelphia",
+        "topic_id": "1401448280071675904",
+        "url": "https://www.rotoballer.com/player-news/dontayvion-wicks-set-for-starting-role-in-philadelphia/1922979"
+      },
+      "nfl_team": "PHI",
+      "player_id": "9486",
+      "player_name": "Dontayvion Wicks",
+      "position": "WR",
+      "published": 1788478928000,
+      "source": "rotoballer",
+      "source_key": "220061",
+      "story_id": "nfl|9486|rotoballer|220061|1788478928000",
+      "title": "Dontayvion Wicks Set for Starting Role in Philadelphia",
+      "url": "https://www.rotoballer.com/player-news/dontayvion-wicks-set-for-starting-role-in-philadelphia/1922979"
     },
     {
       "analysis": null,
