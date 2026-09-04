@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1848**
-- Newly captured: **1**
+- Stored stories: **1850**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Courtland Sutton** — Courtland Sutton - Atop depth chart again in 2026 (2026-09-04T02:31:47Z)
+  - Sutton will look to make it three straight seasons with over 1,000 receiving yards as he once again operates as a top option in the wide receiver room with Denver. The Broncos traded for Jaylen Waddle in the offseason, and as a result, Sutton will likely see a reduction in targets, but his role as a top red-zone threat will remain.
 - **Jonah Coleman** — Jonah Coleman - Destined for between-the-tackles role (2026-09-04T01:24:54Z)
   - Coleman was selected in the fourth round of April's draft after completing his four-year college career with a 2025 campaign with Washington during which he compiled 758 rushing yards and 15 touchdowns on 156 carries over 12 contests. He also added 31 catches for 354 yards and two scores during his senior season. The Huskies played with an up-tempo style, so Coleman was on the field for all downs, resulting in him becoming a capable receiver and pass blocker. The running back is considered a more physical back than RJ Harvey, who is also set to serve as reserve option behind Dobbins this season, and as a result, Coleman could be ticketed to serve more frequently as a direct replacement for Dobbins.
 - **Pat Bryant** — Pat Bryant - Poised to operate as top depth option (2026-09-04T00:53:42Z)
@@ -21,7 +23,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as "aggressive, which is huge for us." The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.
 - **Rome Odunze** — Rome Odunze - Seemingly avoids serious setback (2026-09-03T22:57:05Z)
   - Odunze exited in the first hour of Thursday's session, but despite attempting to stay on the field, he was escorted off of it with team trainers. Wiederer's report seems to back up that Odunze's new health concern isn't a serious one, but he'll still enter Week 1 prep with a question mark regarding his status. With fellow WR Luther Burden also tending to a groin injury, the Bears currently have only Kalif Raymond, Zavion Thomas and Jahdae Walker as healthy options at the position on the active roster.
-- **NEW — J.K. Dobbins** — Jonah Coleman Could Be Between-the-Tackles Complement in Denver (2026-09-03T22:12:12Z)
+- **NEW — Jake Ferguson** — Jake Ferguson Restructures Contract With the Cowboys (2026-09-03T22:23:56Z)
+  - Source: https://www.rotoballer.com/player-news/jake-ferguson-restructures-contract-with-the-cowboys/1922954
+- **J.K. Dobbins** — Jonah Coleman Could Be Between-the-Tackles Complement in Denver (2026-09-03T22:12:12Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-could-be-between-the-tackles-complement-to-j-k-dobbins/1922946
 - **Geno Smith** — Geno Smith is Voted Jets Captain (2026-09-03T22:01:12Z)
   - Source: https://www.rotoballer.com/player-news/geno-smith-is-voted-jets-captain/1922938
@@ -209,7 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/george-holani-the-seahawks-goal-line-back/1922630
 - **Travis Etienne** — Travis Etienne - Finishes training camp healthy (2026-09-03T14:02:17Z)
   - Etienne was one of the few Saints running backs to avoid any sort of injury scare or setback during training camp. Ty Chandler (knee) is out for the season after landing on injured reserve, and Alvin Kamara (knee) appears to be trending toward sitting out Week 1. Additionally, Kendre Miller sustained a minor undisclosed injury during practice Tuesday and is day-to-day, while Audric Estime is healthy but missed time in camp due to an ankle issue. After signing a four-year, $52 million deal in March, Etienne had already looked poised to handle a sizable workload for New Orleans both as a lead runner and pass catcher, and the current condition of his backups following camp and the preseason adds further fuel to the notion that he'll be in line for heavy volume right of the gate.
-- **RJ Harvey** — RJ Harvey has Value in PPR Leagues in Passing Role (2026-09-03T13:50:07Z)
-  - Source: https://www.rotoballer.com/player-news/rj-harvey-has-value-in-ppr-leagues-in-passing-role/1922611
-- **Josh Allen** — An Improved Surrounding Cast Only Strengthens Josh Allen's QB1 Case (2026-09-03T13:48:09Z)
-  - Source: https://www.rotoballer.com/player-news/an-improved-surrounding-cast-only-strengthens-josh-allens-qb1-case-for-2026/1922609

@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T02:25:09Z",
+  "last_checked_at": "2026-09-04T02:38:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|6806|rotoballer|220053|1788473532000"
+    "nfl|5045|rotowire|636237|1788489107000",
+    "nfl|8110|rotoballer|220054|1788474236000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Sutton will look to make it three straight seasons with over 1,000 receiving yards as he once again operates as a top option in the wide receiver room with Denver. The Broncos traded for Jaylen Waddle in the offseason, and as a result, Sutton will likely see a reduction in targets, but his role as a top red-zone threat will remain.",
+      "description": "Sutton is listed as a starting wide receiver on the Broncos' unofficial depth chart.",
+      "metadata": {
+        "analysis": "Sutton will look to make it three straight seasons with over 1,000 receiving yards as he once again operates as a top option in the wide receiver room with Denver. The Broncos traded for Jaylen Waddle in the offseason, and as a result, Sutton will likely see a reduction in targets, but his role as a top red-zone threat will remain.",
+        "description": "Sutton is listed as a starting wide receiver on the Broncos' unofficial depth chart.",
+        "title": "Courtland Sutton - Atop depth chart again in 2026",
+        "topic_id": "1401429406265643008"
+      },
+      "nfl_team": "DEN",
+      "player_id": "5045",
+      "player_name": "Courtland Sutton",
+      "position": "WR",
+      "published": 1788489107000,
+      "source": "rotowire",
+      "source_key": "636237",
+      "story_id": "nfl|5045|rotowire|636237|1788489107000",
+      "title": "Courtland Sutton - Atop depth chart again in 2026",
+      "url": null
+    },
     {
       "analysis": "Coleman was selected in the fourth round of April's draft after completing his four-year college career with a 2025 campaign with Washington during which he compiled 758 rushing yards and 15 touchdowns on 156 carries over 12 contests. He also added 31 catches for 354 yards and two scores during his senior season. The Huskies played with an up-tempo style, so Coleman was on the field for all downs, resulting in him becoming a capable receiver and pass blocker. The running back is considered a more physical back than RJ Harvey, who is also set to serve as reserve option behind Dobbins this season, and as a result, Coleman could be ticketed to serve more frequently as a direct replacement for Dobbins.",
       "description": "Coleman is likely to serve as the Broncos' between-the-tackles complement to starter J.K. Dobbins this season, Nick Kosmider of The Athletic reports.",
@@ -152,6 +173,26 @@
       "story_id": "nfl|11620|rotowire|636197|1788476225000",
       "title": "Rome Odunze - Seemingly avoids serious setback",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys 27-year-old tight end Jake Ferguson restructured his contract with the Cowboys, turning his $7.25 million base salary into a signing bonus, and Ferguson's cap number will increase by $1.2 million, Todd Archer of ESPN reports. Archer also mentions that the adjustments are accounting tools and do not change how much the players are paid weekly. Ferguson finished the 2025 season as the TE5, hauling in 82 of his 105 targets for 600 yards and eight touchdowns. His 7.32 YPR was very modest, and the eight touchdowns were a career high for him. With Dak Prescott leaning mostly on his two stud wide receivers, CeeDee Lamb and George Pickens, it will be tough sledding for Ferguson to be a reliable fantasy asset if he experiences any sort of touchdown regression. RotoBaller ranks Ferguson as the TE16 for the season, and fantasy managers who decide to wait on the tight end position should look to target Ferguson based on the high-powered nature of this Cowboys offense.",
+      "metadata": {
+        "description": "Dallas Cowboys 27-year-old tight end Jake Ferguson restructured his contract with the Cowboys, turning his $7.25 million base salary into a signing bonus, and Ferguson's cap number will increase by $1.2 million, Todd Archer of ESPN reports. Archer also mentions that the adjustments are accounting tools and do not change how much the players are paid weekly. Ferguson finished the 2025 season as the TE5, hauling in 82 of his 105 targets for 600 yards and eight touchdowns. His 7.32 YPR was very modest, and the eight touchdowns were a career high for him. With Dak Prescott leaning mostly on his two stud wide receivers, CeeDee Lamb and George Pickens, it will be tough sledding for Ferguson to be a reliable fantasy asset if he experiences any sort of touchdown regression. RotoBaller ranks Ferguson as the TE16 for the season, and fantasy managers who decide to wait on the tight end position should look to target Ferguson based on the high-powered nature of this Cowboys offense.",
+        "title": "Jake Ferguson Restructures Contract With the Cowboys",
+        "topic_id": "1401428145373982720",
+        "url": "https://www.rotoballer.com/player-news/jake-ferguson-restructures-contract-with-the-cowboys/1922954"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8110",
+      "player_name": "Jake Ferguson",
+      "position": "TE",
+      "published": 1788474236000,
+      "source": "rotoballer",
+      "source_key": "220054",
+      "story_id": "nfl|8110|rotoballer|220054|1788474236000",
+      "title": "Jake Ferguson Restructures Contract With the Cowboys",
+      "url": "https://www.rotoballer.com/player-news/jake-ferguson-restructures-contract-with-the-cowboys/1922954"
     },
     {
       "analysis": null,
