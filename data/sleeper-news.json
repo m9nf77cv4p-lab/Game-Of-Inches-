@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T17:52:58Z",
+  "last_checked_at": "2026-09-04T18:06:11Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13345|rotoballer|220086|1788529204000"
+    "nfl|5927|rotoballer|220087|1788529830000",
+    "nfl|8161|rotowire|636263|1788544206000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Willis started the team's exhibition opener at Washington on Aug. 14, leading a 14-play drive that culminated in a De'Von Achane one-yard TD run. During the possession, Willis was a crisp 4-for-5 passing for 43 yards and also had two carries for nine yards. He parlayed a successful two-year stint as Jordan Love's backup in Green Bay into a three-year, $67.5 million contract this offseason, and while Willis' brief game action last month was encouraging, outside of top RB Achane, Miami doesn't boast much in terms of skill-position talent, as Malik Washington will be the No. 1 WR to begin the 2026 season.",
+      "description": "Willis made just one appearance during the Dolphins' three-game preseason slate.",
+      "metadata": {
+        "analysis": "Willis started the team's exhibition opener at Washington on Aug. 14, leading a 14-play drive that culminated in a De'Von Achane one-yard TD run. During the possession, Willis was a crisp 4-for-5 passing for 43 yards and also had two carries for nine yards. He parlayed a successful two-year stint as Jordan Love's backup in Green Bay into a three-year, $67.5 million contract this offseason, and while Willis' brief game action last month was encouraging, outside of top RB Achane, Miami doesn't boast much in terms of skill-position talent, as Malik Washington will be the No. 1 WR to begin the 2026 season.",
+        "description": "Willis made just one appearance during the Dolphins' three-game preseason slate.",
+        "title": "Malik Willis - Logs one appearance in preseason",
+        "topic_id": "1401660952809644032"
+      },
+      "nfl_team": "MIA",
+      "player_id": "8161",
+      "player_name": "Malik Willis",
+      "position": "QB",
+      "published": 1788544206000,
+      "source": "rotowire",
+      "source_key": "636263",
+      "story_id": "nfl|8161|rotowire|636263|1788544206000",
+      "title": "Malik Willis - Logs one appearance in preseason",
+      "url": null
+    },
     {
       "analysis": "After a four-year stint to begin his career in Tennessee, Okonkwo moved on to Washington via free agency this offseason, agreeing to a three-year, $27 million contract. Considering the investment made in him, it's no surprise he's listed as a first-teamer ahead of the 2026 campaign, and with lacking competition behind him for targets in the form of John Bates (hamstring), Ben Sinnott (oblique) and Colson Yankoff, Okonkwo is poised to serve as the top TE for QB Jayden Daniels.",
       "description": "Okonkwo is listed as a starting tight end on the Commanders' unofficial depth chart.",
@@ -218,10 +239,30 @@
     },
     {
       "analysis": null,
+      "description": "Washington Commanders wide receiver Terry McLaurin was limited to 10 games in 2025, with only three of those outings started by quarterback Jayden Daniels. With limited time together, the pair was unable to build upon the chemistry they'd established in 2024, when McLaurin caught a career-high 13 touchdowns, and Daniels took home Offensive Rookie of the Year Honors. Despite playing most of the season with backups Marcus Mariota and Josh Johnson, McLaurin showed no signs of slowing when he was on the field, turning in one of his most efficient seasons to date. His 2.29 yards per route run in 2025 were the most since his 2019 rookie season and ranked 13th in the NFL, and with both McLaurin and Daniels healthy heading into 2026, the eighth-year veteran has the capacity to greatly exceed his current ADP of WR26.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Terry McLaurin was limited to 10 games in 2025, with only three of those outings started by quarterback Jayden Daniels. With limited time together, the pair was unable to build upon the chemistry they'd established in 2024, when McLaurin caught a career-high 13 touchdowns, and Daniels took home Offensive Rookie of the Year Honors. Despite playing most of the season with backups Marcus Mariota and Josh Johnson, McLaurin showed no signs of slowing when he was on the field, turning in one of his most efficient seasons to date. His 2.29 yards per route run in 2025 were the most since his 2019 rookie season and ranked 13th in the NFL, and with both McLaurin and Daniels healthy heading into 2026, the eighth-year veteran has the capacity to greatly exceed his current ADP of WR26.",
+        "title": "Terry McLaurin Continues to Develop Chemistry with Young QB",
+        "topic_id": "1401660951429689344",
+        "url": "https://www.rotoballer.com/player-news/both-healthy-terry-mclaurin-continues-to-develop-chemistry-with-his-young-quarterback/1923330"
+      },
+      "nfl_team": "WAS",
+      "player_id": "5927",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
+      "published": 1788529830000,
+      "source": "rotoballer",
+      "source_key": "220087",
+      "story_id": "nfl|5927|rotoballer|220087|1788529830000",
+      "title": "Terry McLaurin Continues to Develop Chemistry with Young QB",
+      "url": "https://www.rotoballer.com/player-news/both-healthy-terry-mclaurin-continues-to-develop-chemistry-with-his-young-quarterback/1923330"
+    },
+    {
+      "analysis": null,
       "description": "Denver Broncos rookie running back Jonah Coleman has been one of the most hyped players on the roster since the team spent a fourth-round pick on him in the 2026 NFL Draft, and in appearing with Ari Meirov of The 33rd Team, Broncos beat reporter Zac Stevens indicated that the buzz is well-justified. Pointing out the complexity of Sean Payton's offense, Stevens notes that Coleman has already earned the trust of Payton and new offensive coordinator Davis Webb and says, \"If and when J.K. Dobbins gets hurt, it's not going to be RJ Harvey that steps up into that starting running back role. It's going to be Jonah Coleman.\" Dobbins has not played more than 13 games in any year since his 2020 rookie season, so if Coleman has truly earned his coaches' favor, he could prove to be one of the league's most valuable insurance backs, heading into the final weekend of draft season as RotoBaller's RB54.",
       "metadata": {
         "description": "Denver Broncos rookie running back Jonah Coleman has been one of the most hyped players on the roster since the team spent a fourth-round pick on him in the 2026 NFL Draft, and in appearing with Ari Meirov of The 33rd Team, Broncos beat reporter Zac Stevens indicated that the buzz is well-justified. Pointing out the complexity of Sean Payton's offense, Stevens notes that Coleman has already earned the trust of Payton and new offensive coordinator Davis Webb and says, \"If and when J.K. Dobbins gets hurt, it's not going to be RJ Harvey that steps up into that starting running back role. It's going to be Jonah Coleman.\" Dobbins has not played more than 13 games in any year since his 2020 rookie season, so if Coleman has truly earned his coaches' favor, he could prove to be one of the league's most valuable insurance backs, heading into the final weekend of draft season as RotoBaller's RB54.",
-        "title": "Jonah Coleman \"Most Hyped Player on Roster\", Viewed as Direct Backup to Dobbins",
+        "title": "Jonah Coleman Viewed as Direct Backup on Early Downs",
         "topic_id": "1401658434339745792",
         "url": "https://www.rotoballer.com/player-news/jonah-coleman-most-hyped-player-on-roster-viewed-as-direct-backup-to-dobbins/1923322"
       },
@@ -233,7 +274,7 @@
       "source": "rotoballer",
       "source_key": "220086",
       "story_id": "nfl|13345|rotoballer|220086|1788529204000",
-      "title": "Jonah Coleman \"Most Hyped Player on Roster\", Viewed as Direct Backup to Dobbins",
+      "title": "Jonah Coleman Viewed as Direct Backup on Early Downs",
       "url": "https://www.rotoballer.com/player-news/jonah-coleman-most-hyped-player-on-roster-viewed-as-direct-backup-to-dobbins/1923322"
     },
     {
