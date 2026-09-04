@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-04T15:50:16Z",
+  "last_checked_at": "2026-09-04T16:00:05Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11625|rotowire|636257|1788536363000",
-    "nfl|6819|rotoballer|220077|1788521705000"
+    "nfl|5849|rotoballer|220079|1788522579000",
+    "nfl|6783|rotowire|636259|1788537087000",
+    "nfl|8112|rotoballer|220078|1788522162000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,10 +16,30 @@
   },
   "stories": [
     {
-      "analysis": "It's no surprise after Mitchell showed playmaking ability with New York following his midseason trade from the Colts last season. In eight games with the Jets, Mitchell caught 24 of 58 targets for 301 yards and two touchdowns. That 41.4 percent catch rate ranked second-worst in the NFL out of 197 qualified wide receivers, but better quarterback play this season in the form of veteran pickup Geno Smith should help improve that number. Mitchell has big-play upside and is dripping with talent; he just needs to get out of his own way sometimes. He's worth a late-round flier in fantasy and makes for an intriguing best-ball selection.",
+      "analysis": "It comes as no surprise after the Browns cut Cedric Tillman at the end of training camp. Jeudy is listed as a starter alongside rookie wideouts KC Concepcion and Denzel Boston. Jeudy displayed no chemistry with Shedeur Sanders last season, as the veteran wideout finished 2025 with just 50 catches for 602 yards and two touchdowns on 106 targets. His 47.2 percent catch rate was fifth-worst out of 197 qualified pass catchers, and of the 38 players in the NFL to see at least 100 targets, Jeudy's 602 yards were just two more than Jake Ferguson at the bottom of the list. Concepcion is expected to become the go-to target in Cleveland, with Boston operating as the big-bodied X receiver. Jeudy will face far more competition for targets.",
+      "description": "Jeudy is listed as a starting wide receiver on Cleveland's initial depth chart ahead of the team's Week 1 game against the Jaguars.",
+      "metadata": {
+        "analysis": "It comes as no surprise after the Browns cut Cedric Tillman at the end of training camp. Jeudy is listed as a starter alongside rookie wideouts KC Concepcion and Denzel Boston. Jeudy displayed no chemistry with Shedeur Sanders last season, as the veteran wideout finished 2025 with just 50 catches for 602 yards and two touchdowns on 106 targets. His 47.2 percent catch rate was fifth-worst out of 197 qualified pass catchers, and of the 38 players in the NFL to see at least 100 targets, Jeudy's 602 yards were just two more than Jake Ferguson at the bottom of the list. Concepcion is expected to become the go-to target in Cleveland, with Boston operating as the big-bodied X receiver. Jeudy will face far more competition for targets.",
+        "description": "Jeudy is listed as a starting wide receiver on Cleveland's initial depth chart ahead of the team's Week 1 game against the Jaguars.",
+        "title": "Jerry Jeudy - Listed as starting wideout",
+        "topic_id": "1401630751941763072"
+      },
+      "nfl_team": "CLE",
+      "player_id": "6783",
+      "player_name": "Jerry Jeudy",
+      "position": "WR",
+      "published": 1788537087000,
+      "source": "rotowire",
+      "source_key": "636259",
+      "story_id": "nfl|6783|rotowire|636259|1788537087000",
+      "title": "Jerry Jeudy - Listed as starting wideout",
+      "url": null
+    },
+    {
+      "analysis": "It's no surprise after Mitchell showed playmaking ability with New York following his midseason trade from the Colts last season. In eight games with the Jets, Mitchell caught 24 of 58 targets for 301 yards and two touchdowns. That 41.4 percent catch rate ranked second-worst in the NFL out of 197 qualified pass catchers, but better quarterback play this season in the form of veteran pickup Geno Smith should help improve that number. Mitchell has big-play upside and is dripping with talent; he just needs to get out of his own way sometimes. He's worth a late-round flier in fantasy and makes for an intriguing best-ball selection.",
       "description": "Mitchell is listed as a starting wide receiver on the Jets' initial depth chart ahead of Week 1 against the Titans.",
       "metadata": {
-        "analysis": "It's no surprise after Mitchell showed playmaking ability with New York following his midseason trade from the Colts last season. In eight games with the Jets, Mitchell caught 24 of 58 targets for 301 yards and two touchdowns. That 41.4 percent catch rate ranked second-worst in the NFL out of 197 qualified wide receivers, but better quarterback play this season in the form of veteran pickup Geno Smith should help improve that number. Mitchell has big-play upside and is dripping with talent; he just needs to get out of his own way sometimes. He's worth a late-round flier in fantasy and makes for an intriguing best-ball selection.",
+        "analysis": "It's no surprise after Mitchell showed playmaking ability with New York following his midseason trade from the Colts last season. In eight games with the Jets, Mitchell caught 24 of 58 targets for 301 yards and two touchdowns. That 41.4 percent catch rate ranked second-worst in the NFL out of 197 qualified pass catchers, but better quarterback play this season in the form of veteran pickup Geno Smith should help improve that number. Mitchell has big-play upside and is dripping with talent; he just needs to get out of his own way sometimes. He's worth a late-round flier in fantasy and makes for an intriguing best-ball selection.",
         "description": "Mitchell is listed as a starting wide receiver on the Jets' initial depth chart ahead of Week 1 against the Titans.",
         "title": "Adonai Mitchell - Listed as starter opposite Wilson",
         "topic_id": "1401628234889592832"
@@ -73,6 +94,46 @@
       "story_id": "nfl|13296|rotowire|636255|1788535389000",
       "title": "Caleb Douglas - Listed as starter",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings quarterback Kyler Murray has a much stronger group of pass-catchers around him after his final season in Arizona fell apart. A foot injury limited Murray to five games in 2025, but Minnesota named him the starter on Aug. 11 after his competition with J.J. McCarthy. The job comes with Justin Jefferson, Jordan Addison and Jauan Jennings at receiver, plus T.J. Hockenson at tight end. Jefferson was full-go throughout camp and started clicking with Murray late in the summer, while Jennings arrives after piling up 1,618 receiving yards and 15 touchdowns over the past two seasons. Murray has already shown what his rushing can add when healthy. In 2024, he threw for 3,851 yards and 21 touchdowns while running for another 572 yards and five scores. He enters September at QB19 in RotoBaller's updated rankings, so fantasy managers aren't paying for a full rebound yet. Durability is still the concern, but this Minnesota group gives Murray plenty of room to beat that price.",
+      "metadata": {
+        "description": "Minnesota Vikings quarterback Kyler Murray has a much stronger group of pass-catchers around him after his final season in Arizona fell apart. A foot injury limited Murray to five games in 2025, but Minnesota named him the starter on Aug. 11 after his competition with J.J. McCarthy. The job comes with Justin Jefferson, Jordan Addison and Jauan Jennings at receiver, plus T.J. Hockenson at tight end. Jefferson was full-go throughout camp and started clicking with Murray late in the summer, while Jennings arrives after piling up 1,618 receiving yards and 15 touchdowns over the past two seasons. Murray has already shown what his rushing can add when healthy. In 2024, he threw for 3,851 yards and 21 touchdowns while running for another 572 yards and five scores. He enters September at QB19 in RotoBaller's updated rankings, so fantasy managers aren't paying for a full rebound yet. Durability is still the concern, but this Minnesota group gives Murray plenty of room to beat that price.",
+        "title": "Kyler Murray Lands in a Great Spot for a Bounce-Back",
+        "topic_id": "1401630749613920256",
+        "url": "https://www.rotoballer.com/player-news/kyler-murray-lands-in-a-great-spot-for-a-bounce-back/1923253"
+      },
+      "nfl_team": "MIN",
+      "player_id": "5849",
+      "player_name": "Kyler Murray",
+      "position": "QB",
+      "published": 1788522579000,
+      "source": "rotoballer",
+      "source_key": "220079",
+      "story_id": "nfl|5849|rotoballer|220079|1788522579000",
+      "title": "Kyler Murray Lands in a Great Spot for a Bounce-Back",
+      "url": "https://www.rotoballer.com/player-news/kyler-murray-lands-in-a-great-spot-for-a-bounce-back/1923253"
+    },
+    {
+      "analysis": null,
+      "description": "Atlanta Falcons wide receiver Drake London remains one of the safer bets for volume, even with the quarterback situation still unsettled. London drew 112 targets in only 12 games last season, turning them into 68 catches for 919 yards and seven touchdowns. No other Falcons wide receiver reached 75 targets, and Darnell Mooney is no longer on the roster. Atlanta added Jahan Dotson, Olamide Zaccheaus and rookie Zachariah Branch, but none of them changes London's standing as the clear No. 1 receiver. The bigger question is who will be throwing him the ball. The Falcons were still evaluating Michael Penix Jr. and Tua Tagovailoa this week, and their current depth chart lists both atop the quarterback spot. London has enough of a grip on this passing game to keep that uncertainty from sinking his value. He checks in at WR7 in RotoBaller's latest half-PPR rankings after averaging 9.3 targets per game over the past two seasons. The quarterback play may be uneven, but London's role gives him a strong chance to keep producing like a fantasy WR1.",
+      "metadata": {
+        "description": "Atlanta Falcons wide receiver Drake London remains one of the safer bets for volume, even with the quarterback situation still unsettled. London drew 112 targets in only 12 games last season, turning them into 68 catches for 919 yards and seven touchdowns. No other Falcons wide receiver reached 75 targets, and Darnell Mooney is no longer on the roster. Atlanta added Jahan Dotson, Olamide Zaccheaus and rookie Zachariah Branch, but none of them changes London's standing as the clear No. 1 receiver. The bigger question is who will be throwing him the ball. The Falcons were still evaluating Michael Penix Jr. and Tua Tagovailoa this week, and their current depth chart lists both atop the quarterback spot. London has enough of a grip on this passing game to keep that uncertainty from sinking his value. He checks in at WR7 in RotoBaller's latest half-PPR rankings after averaging 9.3 targets per game over the past two seasons. The quarterback play may be uneven, but London's role gives him a strong chance to keep producing like a fantasy WR1.",
+        "title": "Drake London's Volume Keeps Him in the WR1 Mix",
+        "topic_id": "1401629491452764160",
+        "url": "https://www.rotoballer.com/player-news/drake-londons-volume-keeps-him-in-the-wr1-mix/1923246"
+      },
+      "nfl_team": "ATL",
+      "player_id": "8112",
+      "player_name": "Drake London",
+      "position": "WR",
+      "published": 1788522162000,
+      "source": "rotoballer",
+      "source_key": "220078",
+      "story_id": "nfl|8112|rotoballer|220078|1788522162000",
+      "title": "Drake London's Volume Keeps Him in the WR1 Mix",
+      "url": "https://www.rotoballer.com/player-news/drake-londons-volume-keeps-him-in-the-wr1-mix/1923246"
     },
     {
       "analysis": null,
@@ -37801,26 +37862,6 @@
       "story_id": "nfl|6803|rotoballer|218046|1785955647000",
       "title": "Brandon Aiyuk Remains on Left-Team List",
       "url": "https://www.rotoballer.com/player-news/brandon-aiyuk-remains-on-left-team-list/1903750"
-    },
-    {
-      "analysis": null,
-      "description": "Tampa Bay Buccaneers wide receiver Chris Godwin Jr. never had a real chance to settle in last season. He returned from the dislocated ankle that ended his 2024 campaign, played two games, then suffered a fibula injury in Week 5. By the time he was back for good, the season was already slipping away. Godwin still closed with 24 catches for 291 yards and two touchdowns from Weeks 13 through 17, which matters more than the ugly 33-360-2 full-year line. He has since completed a full offseason and is back in his familiar slot role under new coordinator Zac Robinson. Mike Evans is gone, but this is not an empty target tree. Emeka Egbuka, Jalen McMillan, Cade Otton, and the backs will all be involved. The injury history is impossible to ignore, too, after Godwin played only 16 games over the past two years. RotoBaller ranks him WR48 in PPR. That is a fair place to account for the risk, but it may undersell the weekly usefulness of a healthy slot receiver who still showed something late last season. Godwin makes sense as a WR4 with a chance to become a regular flex.",
-      "metadata": {
-        "description": "Tampa Bay Buccaneers wide receiver Chris Godwin Jr. never had a real chance to settle in last season. He returned from the dislocated ankle that ended his 2024 campaign, played two games, then suffered a fibula injury in Week 5. By the time he was back for good, the season was already slipping away. Godwin still closed with 24 catches for 291 yards and two touchdowns from Weeks 13 through 17, which matters more than the ugly 33-360-2 full-year line. He has since completed a full offseason and is back in his familiar slot role under new coordinator Zac Robinson. Mike Evans is gone, but this is not an empty target tree. Emeka Egbuka, Jalen McMillan, Cade Otton, and the backs will all be involved. The injury history is impossible to ignore, too, after Godwin played only 16 games over the past two years. RotoBaller ranks him WR48 in PPR. That is a fair place to account for the risk, but it may undersell the weekly usefulness of a healthy slot receiver who still showed something late last season. Godwin makes sense as a WR4 with a chance to become a regular flex.",
-        "title": "Chris Godwin Jr. Still Has Flex Value at WR48",
-        "topic_id": "1390822106740047872",
-        "url": "https://www.rotoballer.com/player-news/chris-godwin-jr-still-has-flex-value-at-wr48/1903668"
-      },
-      "nfl_team": "TB",
-      "player_id": "4037",
-      "player_name": "Chris Godwin",
-      "position": "WR",
-      "published": 1785945367000,
-      "source": "rotoballer",
-      "source_key": "218040",
-      "story_id": "nfl|4037|rotoballer|218040|1785945367000",
-      "title": "Chris Godwin Jr. Still Has Flex Value at WR48",
-      "url": "https://www.rotoballer.com/player-news/chris-godwin-jr-still-has-flex-value-at-wr48/1903668"
     }
   ]
 }

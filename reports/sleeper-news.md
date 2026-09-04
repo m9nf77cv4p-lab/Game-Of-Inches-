@@ -2,18 +2,24 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1882**
-- Newly captured: **2**
+- Stored stories: **1884**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Adonai Mitchell** — Adonai Mitchell - Listed as starter opposite Wilson (2026-09-04T15:39:23Z)
-  - It's no surprise after Mitchell showed playmaking ability with New York following his midseason trade from the Colts last season. In eight games with the Jets, Mitchell caught 24 of 58 targets for 301 yards and two touchdowns. That 41.4 percent catch rate ranked second-worst in the NFL out of 197 qualified wide receivers, but better quarterback play this season in the form of veteran pickup Geno Smith should help improve that number. Mitchell has big-play upside and is dripping with talent; he just needs to get out of his own way sometimes. He's worth a late-round flier in fantasy and makes for an intriguing best-ball selection.
+- **NEW — Jerry Jeudy** — Jerry Jeudy - Listed as starting wideout (2026-09-04T15:51:27Z)
+  - It comes as no surprise after the Browns cut Cedric Tillman at the end of training camp. Jeudy is listed as a starter alongside rookie wideouts KC Concepcion and Denzel Boston. Jeudy displayed no chemistry with Shedeur Sanders last season, as the veteran wideout finished 2025 with just 50 catches for 602 yards and two touchdowns on 106 targets. His 47.2 percent catch rate was fifth-worst out of 197 qualified pass catchers, and of the 38 players in the NFL to see at least 100 targets, Jeudy's 602 yards were just two more than Jake Ferguson at the bottom of the list. Concepcion is expected to become the go-to target in Cleveland, with Boston operating as the big-bodied X receiver. Jeudy will face far more competition for targets.
+- **Adonai Mitchell** — Adonai Mitchell - Listed as starter opposite Wilson (2026-09-04T15:39:23Z)
+  - It's no surprise after Mitchell showed playmaking ability with New York following his midseason trade from the Colts last season. In eight games with the Jets, Mitchell caught 24 of 58 targets for 301 yards and two touchdowns. That 41.4 percent catch rate ranked second-worst in the NFL out of 197 qualified pass catchers, but better quarterback play this season in the form of veteran pickup Geno Smith should help improve that number. Mitchell has big-play upside and is dripping with talent; he just needs to get out of his own way sometimes. He's worth a late-round flier in fantasy and makes for an intriguing best-ball selection.
 - **Jaylen Wright** — Jaylen Wright - Listed as RB2 behind Achane (2026-09-04T15:26:59Z)
   - The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.
 - **Caleb Douglas** — Caleb Douglas - Listed as starter (2026-09-04T15:23:09Z)
   - Douglas is slotted in as the X receiver, alongside Jalen Tolbert at the Z and Malik Washington as the slot man for Miami. A third-round pick out of Texas Tech back in April, Douglas has been running with the first-team offense most of the summer. He logged 17 offensive snaps during the preseason, catching one of his two targets for 28 yards, before being rested for the third exhibition. This Dolphins offense projects to be a low-scoring one, and it remains to be seen if Malik Willis will be able to carry any of his pass catchers to fantasy relevance.
-- **NEW — Michael Pittman** — Michael Pittman Jr. Moving Closer to a Week 1 Return (2026-09-04T11:35:05Z)
+- **NEW — Kyler Murray** — Kyler Murray Lands in a Great Spot for a Bounce-Back (2026-09-04T11:49:39Z)
+  - Source: https://www.rotoballer.com/player-news/kyler-murray-lands-in-a-great-spot-for-a-bounce-back/1923253
+- **NEW — Drake London** — Drake London's Volume Keeps Him in the WR1 Mix (2026-09-04T11:42:42Z)
+  - Source: https://www.rotoballer.com/player-news/drake-londons-volume-keeps-him-in-the-wr1-mix/1923246
+- **Michael Pittman** — Michael Pittman Jr. Moving Closer to a Week 1 Return (2026-09-04T11:35:05Z)
   - Source: https://www.rotoballer.com/player-news/michael-pittman-jr-moving-closer-to-a-week-1-return/1923243
 - **Jordan Love** — Jordan Love Could See His Passing Volume Climb (2026-09-04T11:24:05Z)
   - Source: https://www.rotoballer.com/player-news/jordan-love-could-see-his-passing-volume-climb/1923237
@@ -206,9 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-s-stock-rising-amidst-preseason-buzz-in-jacksonville/1922744
 - **David Montgomery** — David Montgomery - Tops RB depth chart over Marks and Brooks (2026-09-03T16:12:20Z)
   - Montgomery is ticketed for a prominent role after coming over from Detroit in an offseason trade, but it remains to be seen just how much Marks cuts into Montgomery's usage. The 230-pound Montgomery is much better-suited for running inside and short-yardage work than the 208-pound Marks, but Montgomery recorded only 76 receptions across the past three regular seasons in Detroit, so the shifty Marks could siphon away opportunities in passing situations.
-- **Chris Olave** — Chris Olave Has a Clear Path to Massive Early-Season Target Share (2026-09-03T16:09:13Z)
-  - Source: https://www.rotoballer.com/player-news/chris-olave-has-a-clear-path-to-massive-early-season-target-share-in-new-orleans/1922735
-- **Jaylen Warren** — Jaylen Warren Should Still Have Significant Role in Pittsburgh (2026-09-03T16:08:09Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-warren-should-still-have-significant-role-in-pittsburgh/1922733
-- **Jaxon Smith-Njigba** — Jaxon Smith-Njigba Primed to Begin WR1 Campaign on Wednesday Night (2026-09-03T16:06:10Z)
-  - Source: https://www.rotoballer.com/player-news/jaxon-smith-njigba-primed-to-begin-wr1-campaign-on-wednesday-night/1922731
