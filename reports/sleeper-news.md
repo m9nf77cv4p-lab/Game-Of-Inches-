@@ -2,15 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1889**
-- Newly captured: **3**
+- Stored stories: **1890**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Tank Dell** — Tank Dell restructures contract with Texans (2026-09-04T16:25:23.335000Z)
+- **NEW — Jake Ferguson** — Jake Ferguson restructures contract with Cowboys  (2026-09-04T16:35:22.706000Z)
+  - Ferguson's $7.25 million base salary was turned into a signing bonus. The Cowboys now have $33.2 million in salary cap space. 
+  - Source: https://www.fantasypros.com/nfl/news/605912/jake-ferguson-restructures-contract-with-cowboys.php
+- **Tank Dell** — Tank Dell restructures contract with Texans (2026-09-04T16:25:23.335000Z)
   - The move saves Houston $2 million against the cap. Dell is nearing his return from a gruesome knee injury he suffered late in the 2024 season. 
   - Source: https://www.fantasypros.com/nfl/news/605908/tank-dell-restructures-contract-with-texans.php
-- **NEW — D'Andre Swift** — D'Andre Swift left practice Thursday with a cramp  (2026-09-04T16:25:23.025000Z)
+- **D'Andre Swift** — D'Andre Swift left practice Thursday with a cramp  (2026-09-04T16:25:23.025000Z)
   - Swift was seen leaving practice "holding at his midsection or core area." It appears he should be good to go for the season opener next week. 
   - Source: https://www.fantasypros.com/nfl/news/605907/dandre-swift-left-practice-thursday-with-cramp.php
 - **Tank Dell** — Tank Dell - Takes pay cut from Houston (2026-09-04T15:55:44Z)
@@ -23,7 +26,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.
 - **Caleb Douglas** — Caleb Douglas - Listed as starter (2026-09-04T15:23:09Z)
   - Douglas is slotted in as the X receiver, alongside Jalen Tolbert at the Z and Malik Washington as the slot man for Miami. A third-round pick out of Texas Tech back in April, Douglas has been running with the first-team offense most of the summer. He logged 17 offensive snaps during the preseason, catching one of his two targets for 28 yards, before being rested for the third exhibition. This Dolphins offense projects to be a low-scoring one, and it remains to be seen if Malik Willis will be able to carry any of his pass catchers to fantasy relevance.
-- **NEW — Tank Dell** — Tank Dell Restructures his Deal With Houston (2026-09-04T12:10:06Z)
+- **Tank Dell** — Tank Dell Restructures his Deal With Houston (2026-09-04T12:10:06Z)
   - Source: https://www.rotoballer.com/player-news/tank-dell-restructures-his-deal-with-houston/1923270
 - **Jaylen Waddle** — Jaylen Waddle's First Denver Summer Raises Expectations (2026-09-04T11:58:12Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-waddles-first-denver-summer-raises-expectations/1923264
@@ -212,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Reed is joined by Christian Watson, Matthew Golden, Bo Melton, Skyy Moore and J. Michael Sturdivant in Green Bay's wide receiver room, while Savion Williams (ankle) is on IR with a designation to return, meaning the 2025 third-round pick will miss at least four weeks before possibly factoring into the equation as well. Reed has historically been productive when healthy despite frequently coming off the field in two-wide sets, with his 63.2 percent snap share during the 2024 regular season representing his single-season career high. Watson is locked in as a starter, but Reed could earn a larger share of playing time if he holds off the 2025 first-round pick Golden.
 - **Trevor Lawrence** — Trevor Lawrence - Will be backed up by Ewers (2026-09-03T16:44:47Z)
   - Ewers was retained on the 53-man roster after final cuts, while Nick Mullens was released during cut-down day, though Mullens subsequently signed with the practice squad. Lawrence remains locked in as the team's starting QB on the heels of a 2025 regular season in which he threw for 4,007 yards and a career-high 29 passing touchdowns. The first overall pick in the 2021 NFL Draft has exceeded 4,000 passing yards in three of his first five NFL seasons.
-- **Nico Collins** — Nico Collins - Depth chart uncertain behind him (2026-09-03T16:35:46Z)
-  - Jayden Higgins had been set to start opposite Collins, but Higgins suffered a season-ending knee injury in practice, prompting the Texans to trade for Boutte from the Patriots. Dell has had the most success out of the options behind Collins, but the 2023 third-round pick hasn't suited up since the 2024 season and will miss at least the first four games of 2026. Collins has exceeded 1,000 regular-season receiving yards while scoring at least seven total touchdowns in each of the past three campaigns.

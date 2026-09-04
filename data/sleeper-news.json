@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T16:32:41Z",
+  "last_checked_at": "2026-09-04T16:44:11Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|6790|fantasy_pros|605907|1788539123025",
-    "nfl|9502|fantasy_pros|605908|1788539123335",
-    "nfl|9502|rotoballer|220081|1788523806000"
+    "nfl|8110|fantasy_pros|605912|1788539722706"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +13,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Ferguson's $7.25 million base salary was turned into a signing bonus. The Cowboys now have $33.2 million in salary cap space. ",
+      "description": "The Cowboys restructured TE Jake Ferguson's contract.",
+      "metadata": {
+        "analysis": "Ferguson's $7.25 million base salary was turned into a signing bonus. The Cowboys now have $33.2 million in salary cap space. ",
+        "description": "The Cowboys restructured TE Jake Ferguson's contract.",
+        "title": "Jake Ferguson restructures contract with Cowboys ",
+        "topic_id": "1401640822864162816",
+        "url": "https://www.fantasypros.com/nfl/news/605912/jake-ferguson-restructures-contract-with-cowboys.php"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8110",
+      "player_name": "Jake Ferguson",
+      "position": "TE",
+      "published": 1788539722706,
+      "source": "fantasy_pros",
+      "source_key": "605912",
+      "story_id": "nfl|8110|fantasy_pros|605912|1788539722706",
+      "title": "Jake Ferguson restructures contract with Cowboys ",
+      "url": "https://www.fantasypros.com/nfl/news/605912/jake-ferguson-restructures-contract-with-cowboys.php"
+    },
     {
       "analysis": "The move saves Houston $2 million against the cap. Dell is nearing his return from a gruesome knee injury he suffered late in the 2024 season. ",
       "description": "The Texans agreed to terms with Tank Dell on a one-year, $1.7 million contract restructure.",
