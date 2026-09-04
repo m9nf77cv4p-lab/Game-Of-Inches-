@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T13:45:17Z",
+  "last_checked_at": "2026-09-04T13:56:35Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|5850|rotoballer|220065|1788513906000"
+    "nfl|3198|rotoballer|220067|1788514565000",
+    "nfl|5045|rotoballer|220066|1788515226000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Courtland Sutton is expected to see less volume as competition increases in 2026. Sutton has spent the last two seasons as Denver's clear WR1, totaling 155 receptions for 2,098 yards and 15 touchdowns in 34 games, averaging just over 11 half-PPR fantasy points per game. However, the trade for speedy wide receiver Jaylen Waddle should limit Sutton's production in 2026. Waddle has been used across the formation and has earned significant praise from the coaching staff and players. The emergence of second-year receiver Pat Bryant could also take targets away, as the 2025 third-round pick had a strong summer. Sutton will be in a primary X-receiver role, and while he'll have his great games, he'll be less consistent than in years past. Ranked as the WR40 in RotoBaller's positional rankings, Sutton doesn't offer enough upside despite his recent production.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Courtland Sutton is expected to see less volume as competition increases in 2026. Sutton has spent the last two seasons as Denver's clear WR1, totaling 155 receptions for 2,098 yards and 15 touchdowns in 34 games, averaging just over 11 half-PPR fantasy points per game. However, the trade for speedy wide receiver Jaylen Waddle should limit Sutton's production in 2026. Waddle has been used across the formation and has earned significant praise from the coaching staff and players. The emergence of second-year receiver Pat Bryant could also take targets away, as the 2025 third-round pick had a strong summer. Sutton will be in a primary X-receiver role, and while he'll have his great games, he'll be less consistent than in years past. Ranked as the WR40 in RotoBaller's positional rankings, Sutton doesn't offer enough upside despite his recent production.",
+        "title": "Courtland Sutton Faces Major Target Competition in 2026",
+        "topic_id": "1401600547819130880",
+        "url": "https://www.rotoballer.com/player-news/courtland-sutton-faces-major-target-competition-in-2026/1923144"
+      },
+      "nfl_team": "DEN",
+      "player_id": "5045",
+      "player_name": "Courtland Sutton",
+      "position": "WR",
+      "published": 1788515226000,
+      "source": "rotoballer",
+      "source_key": "220066",
+      "story_id": "nfl|5045|rotoballer|220066|1788515226000",
+      "title": "Courtland Sutton Faces Major Target Competition in 2026",
+      "url": "https://www.rotoballer.com/player-news/courtland-sutton-faces-major-target-competition-in-2026/1923144"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens running back Derrick Henry continues to prove he has not slowed down despite entering his age-32 season. In his first two seasons in Baltimore, Henry has totaled 3,859 scrimmage yards and 34 touchdowns in 34 games, averaging 17.9 fantasy points per game. Despite a \"down year\" by his standards in 2025, he still finished as the RB7, even as the team struggled offensively throughout the season. In 2026, Henry remains an incredible value for fantasy managers. With Lamar Jackson back and healthy, Henry should face fewer stacked boxes than last season, when he ranked first in Defenders in the Box (7.0) and second in Stacked Front Carry % (23.8). He may not be the best receiver, but if healthy, he should contend for the NFL's leading rusher in 2026.",
+      "metadata": {
+        "description": "Baltimore Ravens running back Derrick Henry continues to prove he has not slowed down despite entering his age-32 season. In his first two seasons in Baltimore, Henry has totaled 3,859 scrimmage yards and 34 touchdowns in 34 games, averaging 17.9 fantasy points per game. Despite a \"down year\" by his standards in 2025, he still finished as the RB7, even as the team struggled offensively throughout the season. In 2026, Henry remains an incredible value for fantasy managers. With Lamar Jackson back and healthy, Henry should face fewer stacked boxes than last season, when he ranked first in Defenders in the Box (7.0) and second in Stacked Front Carry % (23.8). He may not be the best receiver, but if healthy, he should contend for the NFL's leading rusher in 2026.",
+        "title": "Derrick Henry Is Defying His Age Heading Into 2026",
+        "topic_id": "1401600547819130881",
+        "url": "https://www.rotoballer.com/player-news/derrick-henry-is-defying-his-age-heading-into-2026/1923128"
+      },
+      "nfl_team": "BAL",
+      "player_id": "3198",
+      "player_name": "Derrick Henry",
+      "position": "RB",
+      "published": 1788514565000,
+      "source": "rotoballer",
+      "source_key": "220067",
+      "story_id": "nfl|3198|rotoballer|220067|1788514565000",
+      "title": "Derrick Henry Is Defying His Age Heading Into 2026",
+      "url": "https://www.rotoballer.com/player-news/derrick-henry-is-defying-his-age-heading-into-2026/1923128"
+    },
     {
       "analysis": null,
       "description": "Green Bay Packers running back Josh Jacobs was placed on the commissioner's exempt list on Sunday and has no timetable for return. Jacobs was charged with battery and criminal damage to property stemming from the offseason. A video also provides evidence against Jacobs in this trial, and if it is released, it could lead the team to cut ties with him. While there is a possibility that he returns in 2026, fantasy managers should not spend more than a late-round pick on Jacobs. MarShawn Lloyd will have a chance to take the job early in the season, and the team has continued to praise the young back. A committee once Jacobs returns is very possible, so the reward may not be as big as some fantasy managers expect. Jacobs' range of outcomes is from being a contributor in the fantasy playoffs to not playing a snap in 2026 or beyond. Make sure that you know exactly what is going on with Jacobs' situation before spending draft capital on the veteran running back.",
@@ -38,7 +79,7 @@
       "description": "Atlanta Falcons star running back Bijan Robinson will remain a fantasy superstar in 2026 despite rumors he would not get goal-line work. Robinson had 287 carries for 1,478 yards and seven touchdowns, while adding 820 receiving yards and four touchdowns on 79 receptions. His elite production last season came while running back Tyler Allgeier shared the workload, and Allgeier had 157 total attempts for 610 yards and eight touchdowns. The Falcons replaced Allgeier with former Commanders and 49ers running back Brian Robinson Jr., and reports on his usage in Atlanta have been mixed, ranging from taking the \"Allgeier role\" to splitting reps with third-string back Tyler Goodson. Regardless, Robinson will remain an elite option in the first rounds of fantasy drafts. He's an elite runner and receiver and has yet to miss a game in his NFL career. He should be among the first three picks in fantasy drafts this season.",
       "metadata": {
         "description": "Atlanta Falcons star running back Bijan Robinson will remain a fantasy superstar in 2026 despite rumors he would not get goal-line work. Robinson had 287 carries for 1,478 yards and seven touchdowns, while adding 820 receiving yards and four touchdowns on 79 receptions. His elite production last season came while running back Tyler Allgeier shared the workload, and Allgeier had 157 total attempts for 610 yards and eight touchdowns. The Falcons replaced Allgeier with former Commanders and 49ers running back Brian Robinson Jr., and reports on his usage in Atlanta have been mixed, ranging from taking the \"Allgeier role\" to splitting reps with third-string back Tyler Goodson. Regardless, Robinson will remain an elite option in the first rounds of fantasy drafts. He's an elite runner and receiver and has yet to miss a game in his NFL career. He should be among the first three picks in fantasy drafts this season.",
-        "title": "Bijan Robinson Still a Fantasy Superstar Despite Goal-Line Work Concerns",
+        "title": "Bijan Robinson Still a Fantasy Superstar Despite Goal-Line Concerns",
         "topic_id": "1401590481053319168",
         "url": "https://www.rotoballer.com/player-news/bijan-robinson-still-a-fantasy-superstar-despite-goal-line-work-concerns/1923097"
       },
@@ -50,7 +91,7 @@
       "source": "rotoballer",
       "source_key": "220064",
       "story_id": "nfl|9509|rotoballer|220064|1788513006000",
-      "title": "Bijan Robinson Still a Fantasy Superstar Despite Goal-Line Work Concerns",
+      "title": "Bijan Robinson Still a Fantasy Superstar Despite Goal-Line Concerns",
       "url": "https://www.rotoballer.com/player-news/bijan-robinson-still-a-fantasy-superstar-despite-goal-line-work-concerns/1923097"
     },
     {

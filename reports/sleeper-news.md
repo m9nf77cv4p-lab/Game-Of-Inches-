@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1867**
-- Newly captured: **1**
+- Stored stories: **1869**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Josh Jacobs** — Josh Jacobs Is Too Risky for Anything More Than a Late-Round Pick (2026-09-04T09:25:06Z)
+- **NEW — Courtland Sutton** — Courtland Sutton Faces Major Target Competition in 2026 (2026-09-04T09:47:06Z)
+  - Source: https://www.rotoballer.com/player-news/courtland-sutton-faces-major-target-competition-in-2026/1923144
+- **NEW — Derrick Henry** — Derrick Henry Is Defying His Age Heading Into 2026 (2026-09-04T09:36:05Z)
+  - Source: https://www.rotoballer.com/player-news/derrick-henry-is-defying-his-age-heading-into-2026/1923128
+- **Josh Jacobs** — Josh Jacobs Is Too Risky for Anything More Than a Late-Round Pick (2026-09-04T09:25:06Z)
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-is-too-risky-for-anything-more-than-a-late-round-pick/1923115
-- **Bijan Robinson** — Bijan Robinson Still a Fantasy Superstar Despite Goal-Line Work Concerns (2026-09-04T09:10:06Z)
+- **Bijan Robinson** — Bijan Robinson Still a Fantasy Superstar Despite Goal-Line Concerns (2026-09-04T09:10:06Z)
   - Source: https://www.rotoballer.com/player-news/bijan-robinson-still-a-fantasy-superstar-despite-goal-line-work-concerns/1923097
 - **Jack Strand** — Jack Strand - Makes roster as one of four QBs (2026-09-04T04:44:08Z)
   - The three QBs to make the roster along with Strand are Tua Tagovailoa, Michael Penix Jr. (knee) and Cooper Rush. Strand is listed as last on the team's initial depth chart, so he's unlikely to see much action, if any, barring injuries to multiple signal-callers ahead of him. Falcons GM Ian Cunningham called the team's decision to carry four quarterbacks "a little bit of an insurance policy," per the Associated Press, in acknowledgement of Tagovailoa's injury history and the knee issue Penix is still working his way back from. Still, Strand -- who signed with Atlanta as an undrafted free agent in May -- could ultimately end up on the practice squad when/if the team needs to provide more depth at other positions.
@@ -209,7 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/treveyon-henderson-missing-from-thursdays-practice/1922706
 - **Tyler Allgeier** — Tyler Allgeier - Could have prominent role early (2026-09-03T15:34:51Z)
   - Love is expected to eventually take on the lead role after being drafted third overall in the 2026 NFL Draft, but the rookie is likely to be eased in as he recovers from a preseason ankle injury, if he's cleared at all to suit up against the Chargers in Week 1 on Sept. 13. Allgeier has rushed for at least 514 yards in each of his four regular seasons, the last three of which were spent backing up Bijan Robinson, so the former Falcons running back figures to maintain some level of involvement even once Love is fully up to speed. James Conner (foot) is on IR with a designation to return, so Bam Knight is currently the only healthy alternative to Allgeier on the roster.
-- **Anthony Richardson** — Anthony Richardson - Will open season as backup (2026-09-03T15:34:05Z)
-  - GM Chris Ballard confirmed Tuesday that Richardson -- who requested a trade over the offseason -- would remain with the Colts for the season, and head coach Shane Steichen revealed Thursday that Richardson beat out Riley Leonard for the backup job behind starter Daniel Jones.
-- **Garrett Wilson** — Garrett Wilson's Stock Rebounds After Healthy Summer (2026-09-03T15:32:10Z)
-  - Source: https://www.rotoballer.com/player-news/garrett-wilsons-stock-rebounds-after-healthy-summer/1922697
