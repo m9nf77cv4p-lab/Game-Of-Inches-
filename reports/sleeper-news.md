@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1928**
-- Newly captured: **0**
+- Stored stories: **1930**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Chris Olave** — Chris Olave - No action in preseason (2026-09-04T22:21:13Z)
+  - Olave missed time at the end of the offseason program due to a blood clot, and while he opened training camp as a full participant and agreed to a four-year extension worth up to $132 million on July 30, he exited three different practices for various reasons in August. Nevertheless, he appears to be entering the season in good health and ready to build upon a career-best 2025 regular season in which he posted a 100-1,163-9 line on 155 targets in 16 games.
 - **Travis Hunter** — Travis Hunter - Getting more work at CB vs. WR (2026-09-04T21:53:36Z)
   - After his rookie 2025 season came to an abrupt end after Week 7 due to an isolated LCL injury in his right knee, Hunter still was expected to play both wide receiver and cornerback in 2026, but the breakdown of reps between the two wasn't entirely clear until the Jaguars posted their first unofficial depth chart of training camp. Therein, he was listed as a starting CB and reserve WR, and his practice reps trended in that direction as August went on. It's thus unclear what kind of role Hunter can expect on offense to begin the campaign, especially in a position group that rosters Brian Thomas, Parker Washington, Jakobi Meyers (hand) and rookie sixth-rounders Josh Cameron and C.J. Williams.
 - **Jacoby Brissett** — Jacoby Brissett - Starting QB on depth chart (2026-09-04T21:36:45Z)
@@ -29,6 +31,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The move of the court date is going to lead to speculation about if and when he'll receive discipline from the NFL, especially if a plea deal is announced. But that has not been divulged so far. At the very least, there may soon be more clarification about what the next step in the process is for Jacobs, who remains on the Commissioner's Exempt List.
 - **Jaxson Dart** — Jaxson Dart - Feeling confident in new offense (2026-09-04T18:30:11Z)
   - As a rookie in 2025, Dart completed 63.7 percent (216 of 339) of his passes for 2,272 yards, 15 touchdowns and five interceptions while adding 86 carries for 487 yards and nine more TDs. But not many of his snaps occurred under center as then coach Brian Daboll attempted to cater to Dart's style of play. Perhaps the change in schemes will help Dart stay out of harm's way more often after he had five concussion checks last season. In any case, it remains to be seen if he'll have top WR Malik Nabers available Week 1 as he closes in on his recovery from last year's torn ACL.
+- **NEW — Javonte Williams** — Cowboys Could be Mindful of Javonte Williams' Workload (2026-09-04T18:22:05Z)
+  - Source: https://www.rotoballer.com/player-news/cowboys-could-be-mindful-of-javonte-williams-workload/1923539
 - **Malik Washington** — Malik Washington - First-team billing on depth chart (2026-09-04T18:09:45Z)
   - Miami almost entirely retooled its receiving corps this offseason, releasing Tyreek Hill in February, trading Jaylen Waddle to the Broncos in March, signing Jalen Tolbert in free agency and then drafting three WRs (Caleb Douglas, Chris Bell and Kevin Coleman) in the 2026 Draft. Washington is the only holdover from 2025, a season in which he hauled in 46 of 65 targets for 317 yards and three touchdowns while also rushing 17 times for 110 yards and one more TD. In addition to an expected increase in snaps while working with new QB Malik Willis, Washington again will serve as the team's primary kick returner and perhaps on punt returns as well.
 - **Malik Willis** — Malik Willis - Logs one appearance in preseason (2026-09-04T17:50:06Z)
@@ -208,7 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/bryce-young-is-working-with-new-play-caller/1922933
 - **Bo Nix** — Bo Nix Receives Praise From Patrick Surtain (2026-09-03T21:37:07Z)
   - Source: https://www.rotoballer.com/player-news/bo-nix-receives-praise-from-patrick-surtain/1922926
-- **Rome Odunze** — Rome Odunze - Sustains apparent leg injury (2026-09-03T21:31:28Z)
-  - Per the report, Odunze did not seem overly concerned about the injury and attempted to stay on the field, but the training staff decided to bring his day to an early end. His status will be updated again when more details are released, but as things stand both Odunze and Luther Burden (groin) are less than 100 percent. Kalif Raymond, Zavion Thomas and Jahdae Walker are next in line on the depth chart.
-- **Tucker Kraft** — Tucker Kraft Trending Up as He Approaches Full Health (2026-09-03T21:21:12Z)
-  - Source: https://www.rotoballer.com/player-news/tucker-kraft-is-looking-good-running-before-practice/1922914
