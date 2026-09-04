@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1920**
-- Newly captured: **1**
+- Stored stories: **1923**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Kayshon Boutte** — Kayshon Boutte - Building rapport with Stroud (2026-09-04T20:56:34Z)
+  - Boutte ended up being the odd man out last month in a New England receiving corps that added A.J. Brown and Romeo Doubs in the offseason. Prior to their respective arrivals, Boutte was a regular in the Patriots' passing game the last two seasons, combining for a 76-1,140-9 line on 114 targets in 29 regular-season contests during that span. He joined Houston in the wake of Jayden Higgins' torn ACL, so Boutte will be in the mix for looks from Stroud behind Nico Collins and alongside Xavier Hutchinson, Jaylin Noel (hamstring) and Jared Wayne to begin the campaign.
 - **DeVonta Smith** — DeVonta Smith - Logs no preseason action (2026-09-04T20:40:04Z)
   - Smith picked up a hamstring injury early on in training camp that kept him sidelined for the Eagles' first two exhibitions. After logging a full practice Aug. 24, he had put the issue behind him, but he still rested with the rest of the starters in the team's exhibition finale. With A.J. Brown getting traded to the Patriots this offseason, Smith is positioned as Philadelphia's No. 1 WR, while Dontayvion Wicks, rookie first-rounder Makai Lemon and Hollywood Brown are the next players up at the position.
 - **Denzel Boston** — Denzel Boston - Gets first-team billing on depth chart (2026-09-04T20:15:16Z)
@@ -29,7 +31,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After a four-year stint to begin his career in Tennessee, Okonkwo moved on to Washington via free agency this offseason, agreeing to a three-year, $27 million contract. Considering the investment made in him, it's no surprise he's listed as a first-teamer ahead of the 2026 campaign, and with lacking competition behind him for targets in the form of John Bates (hamstring), Ben Sinnott (oblique) and Colson Yankoff, Okonkwo is poised to serve as the top TE for QB Jayden Daniels.
 - **Jayden Daniels** — Jayden Daniels - One possession in preseason (2026-09-04T17:22:06Z)
   - Daniels suited up for preseason Week 2 at Detroit, but Washington's offense quickly went three-and-out via the aforementioned incompletion, a sack for a loss of 10 yards and an 11-yard Kaytron Allen run. Daniels otherwise remained on the sideline for the rest of exhibition season. After an outstanding rookie campaign in 2024, he endured an injury-plagued 2025, completing just 60.6 percent of his passes for 1,262 yards, eight touchdowns and three interceptions and rushing 58 times for 278 yards and two more TDs in seven appearances.
-- **NEW — Ryan Flournoy** — Ryan Flournoy an Intriguing Late-Round Target Amidst Training Camp Buzz (2026-09-04T16:47:10Z)
+- **NEW — Kayshon Boutte** — Kayshon Boutte Developing Chemistry With New QB (2026-09-04T17:07:19Z)
+  - Source: https://www.rotoballer.com/player-news/kayshon-boutte-developing-chemistry-with-new-qb/1923518
+- **NEW — A.J. Brown** — A.J. Brown Primed for Resurgent Season as Focal Point of Passing Game (2026-09-04T16:58:08Z)
+  - Source: https://www.rotoballer.com/player-news/a-j-brown-primed-for-resurgent-season-as-the-focal-point-of-the-patriots-passing-game/1923513
+- **Ryan Flournoy** — Ryan Flournoy an Intriguing Late-Round Target Amidst Training Camp Buzz (2026-09-04T16:47:10Z)
   - Source: https://www.rotoballer.com/player-news/ryan-flournoy-an-intriguing-late-round-target-amidst-training-camp-buzz/1923506
 - **Kaelon Black** — Kaelon Black a Premier Handcuff Running Back Worth Targeting in Drafts (2026-09-04T16:38:55Z)
   - Source: https://www.rotoballer.com/player-news/kaelon-black-a-premier-handcuff-running-back-worth-targeting-in-drafts/1923502
@@ -208,9 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605824/treveyon-henderson-ankle-still-not-practicing-thursday.php
 - **Kyle Monangai** — Kyle Monangai Does Not Practice on Thursday (2026-09-03T20:20:06Z)
   - Source: https://www.rotoballer.com/player-news/kyle-monangai-does-not-practice-on-thursday/1922854
-- **Caleb Williams** — Ben Johnson has More Praise for Caleb Williams (2026-09-03T20:11:13Z)
-  - Source: https://www.rotoballer.com/player-news/ben-johnson-has-more-praise-for-caleb-williams/1922851
-- **Breece Hall** — Breece Hall - Expected back for Week 1 (2026-09-03T20:06:04Z)
-  - Hall is still nursing the groin injury he suffered 17 days ago, but he was originally given a return timetable of 2-to-3 weeks and was spotted running without any noticeable issues on a side field last week. Barring any setbacks, it sounds like Hall should be fine for the season opener. Whether he sees his normal workload is another question, as Braelon Allen has looked the part in practice and during limited preseason action, where he rushed seven times for 48 yards (6.9 YPC) and one touchdown.
-- **Breece Hall** — Breece Hall Expected to be Ready for Week 1 (2026-09-03T20:04:05Z)
-  - Source: https://www.rotoballer.com/player-news/breece-hall-expected-to-be-ready-for-week-1/1922849

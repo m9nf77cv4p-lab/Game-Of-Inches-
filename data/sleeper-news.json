@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-04T20:59:50Z",
+  "last_checked_at": "2026-09-04T21:16:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11783|rotoballer|220104|1788540430000"
+    "nfl|5859|rotoballer|220105|1788541088000",
+    "nfl|9504|rotoballer|220106|1788541639000",
+    "nfl|9504|rotowire|636274|1788555394000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Boutte ended up being the odd man out last month in a New England receiving corps that added A.J. Brown and Romeo Doubs in the offseason. Prior to their respective arrivals, Boutte was a regular in the Patriots' passing game the last two seasons, combining for a 76-1,140-9 line on 114 targets in 29 regular-season contests during that span. He joined Houston in the wake of Jayden Higgins' torn ACL, so Boutte will be in the mix for looks from Stroud behind Nico Collins and alongside Xavier Hutchinson, Jaylin Noel (hamstring) and Jared Wayne to begin the campaign.",
+      "description": "Boutte said Wednesday that he's been developing chemistry with QB C.J. Stroud since his trade from the Patriots to the Texans on Aug. 24, Cole Thompson of USA Today reports.",
+      "metadata": {
+        "analysis": "Boutte ended up being the odd man out last month in a New England receiving corps that added A.J. Brown and Romeo Doubs in the offseason. Prior to their respective arrivals, Boutte was a regular in the Patriots' passing game the last two seasons, combining for a 76-1,140-9 line on 114 targets in 29 regular-season contests during that span. He joined Houston in the wake of Jayden Higgins' torn ACL, so Boutte will be in the mix for looks from Stroud behind Nico Collins and alongside Xavier Hutchinson, Jaylin Noel (hamstring) and Jared Wayne to begin the campaign.",
+        "description": "Boutte said Wednesday that he's been developing chemistry with QB C.J. Stroud since his trade from the Patriots to the Texans on Aug. 24, Cole Thompson of USA Today reports.",
+        "title": "Kayshon Boutte - Building rapport with Stroud",
+        "topic_id": "1401707514566840320"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9504",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "published": 1788555394000,
+      "source": "rotowire",
+      "source_key": "636274",
+      "story_id": "nfl|9504|rotowire|636274|1788555394000",
+      "title": "Kayshon Boutte - Building rapport with Stroud",
+      "url": null
+    },
     {
       "analysis": "Smith picked up a hamstring injury early on in training camp that kept him sidelined for the Eagles' first two exhibitions. After logging a full practice Aug. 24, he had put the issue behind him, but he still rested with the rest of the starters in the team's exhibition finale. With A.J. Brown getting traded to the Patriots this offseason, Smith is positioned as Philadelphia's No. 1 WR, while Dontayvion Wicks, rookie first-rounder Makai Lemon and Hollywood Brown are the next players up at the position.",
       "description": "Smith didn't make an appearance during the Eagles' three-game preseason slate.",
@@ -232,6 +254,46 @@
       "story_id": "nfl|11566|rotowire|636261|1788542526000",
       "title": "Jayden Daniels - One possession in preseason",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Kayshon Boutte said he has been working every day to build chemistry with quarterback C.J. Stroud after he was acquired in a trade from the New England Patriots, according to Cole Thompson of Texans Wire. \"Big playmaking ability. Whether it's short routes, mid-routes, deep routes, go ball, I'm going to always build that trust every day with C.J. [Stroud],\" Boutte said when asked about what he brings to Houston's offense. The 24-year-old former sixth-rounder by New England in 2023 from LSU was buried on the Pats' WR depth chart this summer after offseason additions of A.J. Brown and Romeo Doubs, but in Houston, he is expected to operate as the WR2 behind Nico Collins after Jayden Higgins (knee) was ruled out for the season due to a torn ACL. Boutte never reached 600 receiving yards in three seasons with the Patriots, but he did score a career-high six times on 33 receptions in 14 regular-season games in 2025. He will have to hold off Jaylin Noel, Xavier Hutchinson, and eventually Tank Dell (knee), but with more opportunities coming in his new digs, Boutte is in play as a late-round flier at WR.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Kayshon Boutte said he has been working every day to build chemistry with quarterback C.J. Stroud after he was acquired in a trade from the New England Patriots, according to Cole Thompson of Texans Wire. \"Big playmaking ability. Whether it's short routes, mid-routes, deep routes, go ball, I'm going to always build that trust every day with C.J. [Stroud],\" Boutte said when asked about what he brings to Houston's offense. The 24-year-old former sixth-rounder by New England in 2023 from LSU was buried on the Pats' WR depth chart this summer after offseason additions of A.J. Brown and Romeo Doubs, but in Houston, he is expected to operate as the WR2 behind Nico Collins after Jayden Higgins (knee) was ruled out for the season due to a torn ACL. Boutte never reached 600 receiving yards in three seasons with the Patriots, but he did score a career-high six times on 33 receptions in 14 regular-season games in 2025. He will have to hold off Jaylin Noel, Xavier Hutchinson, and eventually Tank Dell (knee), but with more opportunities coming in his new digs, Boutte is in play as a late-round flier at WR.",
+        "title": "Kayshon Boutte Developing Chemistry With New QB",
+        "topic_id": "1401711286911275008",
+        "url": "https://www.rotoballer.com/player-news/kayshon-boutte-developing-chemistry-with-new-qb/1923518"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9504",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "published": 1788541639000,
+      "source": "rotoballer",
+      "source_key": "220106",
+      "story_id": "nfl|9504|rotoballer|220106|1788541639000",
+      "title": "Kayshon Boutte Developing Chemistry With New QB",
+      "url": "https://www.rotoballer.com/player-news/kayshon-boutte-developing-chemistry-with-new-qb/1923518"
+    },
+    {
+      "analysis": null,
+      "description": "Entering his first season with the team in 2026, New England Patriots wide receiver A.J. Brown looks like the clear focal point of his team's passing game. Even in a tumultuous 2025 season with the Philadelphia Eagles, in which he publicly agitated for more targets and a larger role, Brown recorded 78 catches for 1,003 yards and seven touchdowns across 15 games. With the Patriots, Brown should be rejuvenated and could have a chance to get back to his peak form, when he recorded 2,952 receiving yards and 18 touchdowns across two seasons with the Eagles in 2022 and 2023. Brown's profile carries some risk for fantasy managers, as he's entering his age-29 season and has missed six games over the past two years due to knee and hamstring injuries. Still, Brown is in a strong position in New England to recapture his top-12 fantasy WR status.",
+      "metadata": {
+        "description": "Entering his first season with the team in 2026, New England Patriots wide receiver A.J. Brown looks like the clear focal point of his team's passing game. Even in a tumultuous 2025 season with the Philadelphia Eagles, in which he publicly agitated for more targets and a larger role, Brown recorded 78 catches for 1,003 yards and seven touchdowns across 15 games. With the Patriots, Brown should be rejuvenated and could have a chance to get back to his peak form, when he recorded 2,952 receiving yards and 18 touchdowns across two seasons with the Eagles in 2022 and 2023. Brown's profile carries some risk for fantasy managers, as he's entering his age-29 season and has missed six games over the past two years due to knee and hamstring injuries. Still, Brown is in a strong position in New England to recapture his top-12 fantasy WR status.",
+        "title": "A.J. Brown Primed for Resurgent Season as Focal Point of Passing Game",
+        "topic_id": "1401708769972338688",
+        "url": "https://www.rotoballer.com/player-news/a-j-brown-primed-for-resurgent-season-as-the-focal-point-of-the-patriots-passing-game/1923513"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1788541088000,
+      "source": "rotoballer",
+      "source_key": "220105",
+      "story_id": "nfl|5859|rotoballer|220105|1788541088000",
+      "title": "A.J. Brown Primed for Resurgent Season as Focal Point of Passing Game",
+      "url": "https://www.rotoballer.com/player-news/a-j-brown-primed-for-resurgent-season-as-the-focal-point-of-the-patriots-passing-game/1923513"
     },
     {
       "analysis": null,
