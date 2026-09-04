@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-04T00:42:42Z",
+  "last_checked_at": "2026-09-04T00:55:35Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|6790|rotowire|636216|1788481922000"
+    "nfl|1373|rotowire|636221|1788482754000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "It's been nearly 10 years since Smith last took a snap for the Jets, but after revitalizing his career with the Seahawks and Raiders over the last four seasons, he's back in New York as a grizzled vet with age (34) and experience on his side. Smith recorded at least 3,000 yards and 19 touchdowns through the air in each of those four campaigns, but he also tossed 52 interceptions in 64 regular-season games during that span. Picks are often an issue for Smith, but he at least will have a nice skill-position group of RB Breece Hall (groin), WRs Garrett Wilson, Adonai Mitchell and Omar Cooper and TEs Mason Taylor and Kenyon Sadiq (abdomen) to throw to in 2026.",
+      "description": "Smith was voted a Jets captain by his teammates ahead of the 2026 season, Amanda Vogt and Eric Allen of the team's official site reports.",
+      "metadata": {
+        "analysis": "It's been nearly 10 years since Smith last took a snap for the Jets, but after revitalizing his career with the Seahawks and Raiders over the last four seasons, he's back in New York as a grizzled vet with age (34) and experience on his side. Smith recorded at least 3,000 yards and 19 touchdowns through the air in each of those four campaigns, but he also tossed 52 interceptions in 64 regular-season games during that span. Picks are often an issue for Smith, but he at least will have a nice skill-position group of RB Breece Hall (groin), WRs Garrett Wilson, Adonai Mitchell and Omar Cooper and TEs Mason Taylor and Kenyon Sadiq (abdomen) to throw to in 2026.",
+        "description": "Smith was voted a Jets captain by his teammates ahead of the 2026 season, Amanda Vogt and Eric Allen of the team's official site reports.",
+        "title": "Geno Smith - Voted team captain",
+        "topic_id": "1401402979835195392"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "1373",
+      "player_name": "Geno Smith",
+      "position": "QB",
+      "published": 1788482754000,
+      "source": "rotowire",
+      "source_key": "636221",
+      "story_id": "nfl|1373|rotowire|636221|1788482754000",
+      "title": "Geno Smith - Voted team captain",
+      "url": null
+    },
     {
       "analysis": "Swift was reportedly \"in significant discomfort\" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will head into Week 1 carrying an injury designation, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injured list, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.",
       "description": "Swift (abdomen) is believed to have left Thursday's practice with \"a cramp,\" Adam Schefter of ESPN reports.",
