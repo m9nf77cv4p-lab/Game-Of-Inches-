@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T10:44:15Z",
+  "last_checked_at": "2026-09-04T13:30:33Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|9509|rotoballer|220064|1788513006000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Atlanta Falcons star running back Bijan Robinson will remain a fantasy superstar in 2026 despite rumors he would not get goal-line work. Robinson had 287 carries for 1,478 yards and seven touchdowns, while adding 820 receiving yards and four touchdowns on 79 receptions. His elite production last season came while running back Tyler Allgeier shared the workload, and Allgeier had 157 total attempts for 610 yards and eight touchdowns. The Falcons replaced Allgeier with former Commanders and 49ers running back Brian Robinson Jr., and reports on his usage in Atlanta have been mixed, ranging from taking the \"Allgeier role\" to splitting reps with third-string back Tyler Goodson. Regardless, Robinson will remain an elite option in the first rounds of fantasy drafts. He's an elite runner and receiver and has yet to miss a game in his NFL career. He should be among the first three picks in fantasy drafts this season.",
+      "metadata": {
+        "description": "Atlanta Falcons star running back Bijan Robinson will remain a fantasy superstar in 2026 despite rumors he would not get goal-line work. Robinson had 287 carries for 1,478 yards and seven touchdowns, while adding 820 receiving yards and four touchdowns on 79 receptions. His elite production last season came while running back Tyler Allgeier shared the workload, and Allgeier had 157 total attempts for 610 yards and eight touchdowns. The Falcons replaced Allgeier with former Commanders and 49ers running back Brian Robinson Jr., and reports on his usage in Atlanta have been mixed, ranging from taking the \"Allgeier role\" to splitting reps with third-string back Tyler Goodson. Regardless, Robinson will remain an elite option in the first rounds of fantasy drafts. He's an elite runner and receiver and has yet to miss a game in his NFL career. He should be among the first three picks in fantasy drafts this season.",
+        "title": "Bijan Robinson Still a Fantasy Superstar Despite Goal-Line Work Concerns",
+        "topic_id": "1401590481053319168",
+        "url": "https://www.rotoballer.com/player-news/bijan-robinson-still-a-fantasy-superstar-despite-goal-line-work-concerns/1923097"
+      },
+      "nfl_team": "ATL",
+      "player_id": "9509",
+      "player_name": "Bijan Robinson",
+      "position": "RB",
+      "published": 1788513006000,
+      "source": "rotoballer",
+      "source_key": "220064",
+      "story_id": "nfl|9509|rotoballer|220064|1788513006000",
+      "title": "Bijan Robinson Still a Fantasy Superstar Despite Goal-Line Work Concerns",
+      "url": "https://www.rotoballer.com/player-news/bijan-robinson-still-a-fantasy-superstar-despite-goal-line-work-concerns/1923097"
+    },
     {
       "analysis": "The three QBs to make the roster along with Strand are Tua Tagovailoa, Michael Penix Jr. (knee) and Cooper Rush. Strand is listed as last on the team's initial depth chart, so he's unlikely to see much action, if any, barring injuries to multiple signal-callers ahead of him. Falcons GM Ian Cunningham called the team's decision to carry four quarterbacks \"a little bit of an insurance policy,\" per the Associated Press, in acknowledgement of Tagovailoa's injury history and the knee issue Penix is still working his way back from. Still, Strand -- who signed with Atlanta as an undrafted free agent in May -- could ultimately end up on the practice squad when/if the team needs to provide more depth at other positions.",
       "description": "Strand is one of four quarterbacks who made Atlanta's 53-man roster, Will McFadden of the team's official site reports.",
