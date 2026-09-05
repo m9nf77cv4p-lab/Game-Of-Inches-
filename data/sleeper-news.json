@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T01:34:06Z",
+  "last_checked_at": "2026-09-05T01:45:48Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|5001|rotoballer|220112|1788557165000"
+    "nfl|5872|rotoballer|220113|1788557798000"
   ],
   "schema_version": 1,
   "source": {
@@ -115,10 +115,30 @@
     },
     {
       "analysis": null,
+      "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. is back with the organization and is ready to make an impact. Samuel spent the first six years of his career in San Francisco before heading to the Washington Commanders last season. The 30-year-old posted decent stats, 72 receptions with 727 receiving yards, and five touchdowns in 16 games. The hope is that a return to a familiar place in San Francisco will give Samuel a boost this upcoming season. Samuel is familiar with both the staff and playbook in San Francisco, which is always a good thing. The 49ers are already banged up before the season starts, which could give Samuel a boost as well. Sometimes, Samuel is a forgotten man, but he has the potential to be a top-20 player at his position.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. is back with the organization and is ready to make an impact. Samuel spent the first six years of his career in San Francisco before heading to the Washington Commanders last season. The 30-year-old posted decent stats, 72 receptions with 727 receiving yards, and five touchdowns in 16 games. The hope is that a return to a familiar place in San Francisco will give Samuel a boost this upcoming season. Samuel is familiar with both the staff and playbook in San Francisco, which is always a good thing. The 49ers are already banged up before the season starts, which could give Samuel a boost as well. Sometimes, Samuel is a forgotten man, but he has the potential to be a top-20 player at his position.",
+        "title": "Deebo Samuel Sr. Could Shine in San Francisco",
+        "topic_id": "1401779240952668160",
+        "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-could-shine-in-san-francisco/1923618"
+      },
+      "nfl_team": "SF",
+      "player_id": "5872",
+      "player_name": "Deebo Samuel",
+      "position": "WR",
+      "published": 1788557798000,
+      "source": "rotoballer",
+      "source_key": "220113",
+      "story_id": "nfl|5872|rotoballer|220113|1788557798000",
+      "title": "Deebo Samuel Sr. Could Shine in San Francisco",
+      "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-could-shine-in-san-francisco/1923618"
+    },
+    {
+      "analysis": null,
       "description": "Houston Texans tight end Dalton Schultz is coming off one of the best seasons of his eight-year professional career. This past season, Schultz recorded a career-high 82 receptions with 777 receiving yards and three touchdowns in 17 games. The 30-year-old saw a career-high 106 targets, and he actually might be able to top that this upcoming season. The Texans did little to improve this receiving room outside of adding wideout Kayshon Boutte. Nico Collins is the No. 1 option in this offense, but the No. 2 job is up for grabs right now. Schultz showed last season that he's capable of being a top-10 player at his position. Given the lack of viable options, Schultz could become the No. 2 option in the passing game in 2026.",
       "metadata": {
         "description": "Houston Texans tight end Dalton Schultz is coming off one of the best seasons of his eight-year professional career. This past season, Schultz recorded a career-high 82 receptions with 777 receiving yards and three touchdowns in 17 games. The 30-year-old saw a career-high 106 targets, and he actually might be able to top that this upcoming season. The Texans did little to improve this receiving room outside of adding wideout Kayshon Boutte. Nico Collins is the No. 1 option in this offense, but the No. 2 job is up for grabs right now. Schultz showed last season that he's capable of being a top-10 player at his position. Given the lack of viable options, Schultz could become the No. 2 option in the passing game in 2026.",
-        "title": "Dalton Schultz has Path to No. 2 Receiving Option",
+        "title": "Dalton Schultz has Path to No. 2 Receiving Role",
         "topic_id": "1401775466171396096",
         "url": "https://www.rotoballer.com/player-news/dalton-schultz-has-path-to-no-2-receiving-option/1923609"
       },
@@ -130,7 +150,7 @@
       "source": "rotoballer",
       "source_key": "220112",
       "story_id": "nfl|5001|rotoballer|220112|1788557165000",
-      "title": "Dalton Schultz has Path to No. 2 Receiving Option",
+      "title": "Dalton Schultz has Path to No. 2 Receiving Role",
       "url": "https://www.rotoballer.com/player-news/dalton-schultz-has-path-to-no-2-receiving-option/1923609"
     },
     {
