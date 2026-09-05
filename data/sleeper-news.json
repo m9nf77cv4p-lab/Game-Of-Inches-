@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-04T23:17:24Z",
+  "last_checked_at": "2026-09-05T01:22:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|7567|rotoballer|220111|1788556508000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -130,6 +132,26 @@
       "story_id": "nfl|4984|rotowire|636275|1788556909000",
       "title": "Josh Allen - Logs one appearance in preseason",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers running back Kenny Gainwell was brought in to be additional depth in the backfield this upcoming season. The Bucs have Bucky Irving as their lead back, but that doesn't mean that Gainwell won't be involved. Gainwell received a two-year, $14 million deal from the Bucs this past offseason. He'll likely fill the pass-catching role in the backfield similar to what Rachaad White did the past few years. Given the injuries the Bucs are facing right now, Gainwell might be asked to do more than expected early in the season. Both Emeka Egbuka (toe) and Jalen McMillan (knee) are banged up heading into the Week 1 matchup against the Cincinnati Bengals. The Bucs could lean on Gainwell more as a receiving option if the Bucs are limited early in the year. The 27-year-old is looking like an intriguing PPR option heading into Week 1.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers running back Kenny Gainwell was brought in to be additional depth in the backfield this upcoming season. The Bucs have Bucky Irving as their lead back, but that doesn't mean that Gainwell won't be involved. Gainwell received a two-year, $14 million deal from the Bucs this past offseason. He'll likely fill the pass-catching role in the backfield similar to what Rachaad White did the past few years. Given the injuries the Bucs are facing right now, Gainwell might be asked to do more than expected early in the season. Both Emeka Egbuka (toe) and Jalen McMillan (knee) are banged up heading into the Week 1 matchup against the Cincinnati Bengals. The Bucs could lean on Gainwell more as a receiving option if the Bucs are limited early in the year. The 27-year-old is looking like an intriguing PPR option heading into Week 1.",
+        "title": "Kenny Gainwell Could See Larger Workload",
+        "topic_id": "1401772949551185920",
+        "url": "https://www.rotoballer.com/player-news/kenny-gainwell-could-see-larger-workload/1923599"
+      },
+      "nfl_team": "TB",
+      "player_id": "7567",
+      "player_name": "Kenny Gainwell",
+      "position": "RB",
+      "published": 1788556508000,
+      "source": "rotoballer",
+      "source_key": "220111",
+      "story_id": "nfl|7567|rotoballer|220111|1788556508000",
+      "title": "Kenny Gainwell Could See Larger Workload",
+      "url": "https://www.rotoballer.com/player-news/kenny-gainwell-could-see-larger-workload/1923599"
     },
     {
       "analysis": "Boutte ended up being the odd man out last month in a New England receiving corps that added A.J. Brown and Romeo Doubs in the offseason. Prior to their respective arrivals, Boutte was a regular in the Patriots' passing game the last two seasons, combining for a 76-1,140-9 line on 114 targets in 29 regular-season contests during that span. He joined Houston in the wake of Jayden Higgins' torn ACL, so Boutte will be in the mix for looks from Stroud behind Nico Collins and alongside Xavier Hutchinson, Jaylin Noel (hamstring) and Jared Wayne to begin the campaign.",
