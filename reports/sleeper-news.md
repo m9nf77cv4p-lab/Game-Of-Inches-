@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1939**
+- Stored stories: **1940**
 - Newly captured: **1**
 
 ## Latest news
@@ -11,9 +11,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - LaPorta was rested in the team's exhibition opener, but a hip injury suffered in practice kept him on the sideline for the final two preseason games. He was able to return to drills as of Aug. 25, but it's unclear if he's put the issue behind him. LaPorta is entering the final year of his rookie contract, so he has every incentive to be as healthy as possible for a Week 1 matchup with the Saints on Sunday, Sept. 13.
 - **Jadarian Price** — Jadarian Price - In line for Week 1 role (2026-09-04T22:46:05Z)
   - The Seahawks used the 32nd overall pick in the 2026 Draft on Price, seemingly with the intention for him to be in the mix for the No. 1 RB role during Zach Charbonnet's recovery from a January ACL tear. Price handled first-team reps during the offseason program and also at the start of training camp, but he then tended to lower-body soreness, which sidelined him for a week and spurred the team to keep him in street clothes during exhibition season. With a Week 1 matchup with the Patriots just around the corner Wednesday, Price seems primed for lead-runner status, while George Holani will serve as a receiver and in pass-blocking situations. Meanwhile, Emanuel Wilson has been contained to work on the side at recent practices due to a hamstring injury, so it's unclear if he'll be able to contribute in the season opener.
+- **NEW — Devaughn Vele** — Devaughn Vele Enters 2026 with a Clear Path to Early-Season Targets (2026-09-04T22:34:57Z)
+  - Source: https://www.rotoballer.com/player-news/devaughn-vele-enters-2026-with-a-clear-path-to-early-season-targets/1923655
 - **Chris Olave** — Chris Olave - No action in preseason (2026-09-04T22:21:13Z)
   - Olave missed time at the end of the offseason program due to a blood clot, and while he opened training camp as a full participant and agreed to a four-year extension worth up to $132 million on July 30, he exited three different practices for various reasons in August. Nevertheless, he appears to be entering the season in good health and ready to build upon a career-best 2025 regular season in which he posted a 100-1,163-9 line on 155 targets in 16 games.
-- **NEW — Matthew Stafford** — Matthew Stafford a High-Floor, Late-Round QB Option Entering 2026 (2026-09-04T22:21:05Z)
+- **Matthew Stafford** — Matthew Stafford a High-Floor, Late-Round QB Option Entering 2026 (2026-09-04T22:21:05Z)
   - Source: https://www.rotoballer.com/player-news/matthew-stafford-a-high-floor-late-round-qb-option-entering-2026/1923644
 - **Rashee Rice** — How Concerned Should Fantasy Managers Be About Rashee Rice? (2026-09-04T22:11:06Z)
   - Source: https://www.rotoballer.com/player-news/how-concerned-should-fantasy-managers-be-about-rashee-rice/1923640
@@ -208,5 +210,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/trevor-lawrence-set-for-potential-career-best-season-with-strong-supporting-cast/1922975
 - **DeVonta Smith** — DeVonta Smith Primed for Breakout as Eagles' Undisputed No. 1 WR (2026-09-03T23:30:06Z)
   - Source: https://www.rotoballer.com/player-news/devonta-smith-primed-for-breakout-as-undisputed-no-1/1922973
-- **Eli Stowers** — Eli Stowers Struggling in Camp, Difficult to Trust in Redraft Formats (2026-09-03T23:00:06Z)
-  - Source: https://www.rotoballer.com/player-news/eli-stowers-struggling-in-camp-difficult-to-trust-in-redraft-formats/1922969

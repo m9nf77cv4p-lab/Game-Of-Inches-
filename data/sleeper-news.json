@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T02:38:34Z",
+  "last_checked_at": "2026-09-05T02:51:33Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|421|rotoballer|220117|1788560465000"
+    "nfl|11834|rotoballer|220119|1788561297000"
   ],
   "schema_version": 1,
   "source": {
@@ -52,6 +52,26 @@
       "story_id": "nfl|13286|rotowire|636279|1788561965000",
       "title": "Jadarian Price - In line for Week 1 role",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Across 13 games (seven starts) in 2025, New Orleans Saints wide receiver Devaughn Vele recorded 25 catches for 293 yards and two touchdowns on 39 targets. The 28-year-old got off to a slow start to his first season in New Orleans, recording just five catches across his first eight games with the team. However, Vele got hot in his final five games played before suffering a season-ending shoulder injury, recording 20 catches for 254 yards and a touchdown on 29 targets. Vele's increased usage came after the Saints traded away then-WR2 Rashid Shaheed at the trade deadline. Entering 2026, Vele could be in a similar situation early in the season. Projected Saints WR2 Jordyn Tyson (hamstring) will begin the year on Injured Reserve due to a hamstring injury, leaving a void in the team's wide receiver room behind star wideout Chris Olave. As a late-round sleeper, Vele is a worthy target for fantasy managers.",
+      "metadata": {
+        "description": "Across 13 games (seven starts) in 2025, New Orleans Saints wide receiver Devaughn Vele recorded 25 catches for 293 yards and two touchdowns on 39 targets. The 28-year-old got off to a slow start to his first season in New Orleans, recording just five catches across his first eight games with the team. However, Vele got hot in his final five games played before suffering a season-ending shoulder injury, recording 20 catches for 254 yards and a touchdown on 29 targets. Vele's increased usage came after the Saints traded away then-WR2 Rashid Shaheed at the trade deadline. Entering 2026, Vele could be in a similar situation early in the season. Projected Saints WR2 Jordyn Tyson (hamstring) will begin the year on Injured Reserve due to a hamstring injury, leaving a void in the team's wide receiver room behind star wideout Chris Olave. As a late-round sleeper, Vele is a worthy target for fantasy managers.",
+        "title": "Devaughn Vele Enters 2026 with a Clear Path to Early-Season Targets",
+        "topic_id": "1401794341671809024",
+        "url": "https://www.rotoballer.com/player-news/devaughn-vele-enters-2026-with-a-clear-path-to-early-season-targets/1923655"
+      },
+      "nfl_team": "NO",
+      "player_id": "11834",
+      "player_name": "Devaughn Vele",
+      "position": "WR",
+      "published": 1788561297000,
+      "source": "rotoballer",
+      "source_key": "220119",
+      "story_id": "nfl|11834|rotoballer|220119|1788561297000",
+      "title": "Devaughn Vele Enters 2026 with a Clear Path to Early-Season Targets",
+      "url": "https://www.rotoballer.com/player-news/devaughn-vele-enters-2026-with-a-clear-path-to-early-season-targets/1923655"
     },
     {
       "analysis": "Olave missed time at the end of the offseason program due to a blood clot, and while he opened training camp as a full participant and agreed to a four-year extension worth up to $132 million on July 30, he exited three different practices for various reasons in August. Nevertheless, he appears to be entering the season in good health and ready to build upon a career-best 2025 regular season in which he posted a 100-1,163-9 line on 155 targets in 16 games.",
