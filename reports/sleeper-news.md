@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1951**
-- Newly captured: **1**
+- Stored stories: **1950**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Josh Jacobs** — Josh Jacobs has court appearance date moved up (2026-09-05T04:30:16.442000Z)
+- **Josh Jacobs** — Josh Jacobs has court appearance date moved up (2026-09-05T04:30:16.442000Z)
   - Jacobs was charged with battery and criminal destruction of property and is scheduled to appear at the Brown County courthouse on Sept. 10, multiple days before Green Bay's season opener against Minnesota. It is unclear how this will affect his return timeline; Jacobs is currently on the commissioner's exempt list, with a potential suspension looming.
   - Source: https://www.fantasypros.com/nfl/news/605957/josh-jacobs-has-court-appearance-date-moved-up.php
 - **Parker Washington** — Parker Washington, Jaguars remain in contract talks (2026-09-05T04:20:15.588000Z)

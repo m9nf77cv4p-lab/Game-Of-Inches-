@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-05T04:34:07Z",
+  "last_checked_at": "2026-09-05T10:33:41Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|5850|fantasy_pros|605957|1788582616442"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -39186,26 +39184,6 @@
       "story_id": "nfl|6813|rotowire|632732|1786018262000",
       "title": "Jonathan Taylor - Lands two-year extension with Colts",
       "url": null
-    },
-    {
-      "analysis": null,
-      "description": "The Tampa Bay Buccaneers selected Georgia State wide receiver Ted Hurst in the third round of the 2026 NFL Draft, potentially eyeing a big-bodied long-term replacement for franchise legend Mike Evans. In recent days, the Buccaneers' receiver depth chart has been thinned by injury, and Hurst has taken advantage of the opportunity to build chemistry with quarterback Baker Mayfield. With Emeka Egbuka, Chris Godwin Jr., and Jalen McMillan all absent from the team's last practice, and Tez Johnson exiting early with a groin strain, Hurst became Mayfield's go-to target according to team staff writer Brianna Dix, and head coach Todd Bowles spoke on their growing rapport. \"Baker trusts him,\" he said of the rookie. \"He knows he goes where he needs to go with the football. Ted was open at the right time, so we know he's got a good vertical, and he's got very good hands.\" The crowded depth chart in Tampa could still make consistent fantasy viability difficult to come by, but at RotoBaller's dynasty WR72, Hurst is a player well worth stashing with a future that will only be made brighter if he can continue to stack productive days in his first training camp.",
-      "metadata": {
-        "description": "The Tampa Bay Buccaneers selected Georgia State wide receiver Ted Hurst in the third round of the 2026 NFL Draft, potentially eyeing a big-bodied long-term replacement for franchise legend Mike Evans. In recent days, the Buccaneers' receiver depth chart has been thinned by injury, and Hurst has taken advantage of the opportunity to build chemistry with quarterback Baker Mayfield. With Emeka Egbuka, Chris Godwin Jr., and Jalen McMillan all absent from the team's last practice, and Tez Johnson exiting early with a groin strain, Hurst became Mayfield's go-to target according to team staff writer Brianna Dix, and head coach Todd Bowles spoke on their growing rapport. \"Baker trusts him,\" he said of the rookie. \"He knows he goes where he needs to go with the football. Ted was open at the right time, so we know he's got a good vertical, and he's got very good hands.\" The crowded depth chart in Tampa could still make consistent fantasy viability difficult to come by, but at RotoBaller's dynasty WR72, Hurst is a player well worth stashing with a future that will only be made brighter if he can continue to stack productive days in his first training camp.",
-        "title": "Ted Hurst Taking Advantage of Receiver Absences",
-        "topic_id": "1391101483516203008",
-        "url": "https://www.rotoballer.com/player-news/ted-hurst-taking-advantage-of-receiver-absences/1903951"
-      },
-      "nfl_team": "TB",
-      "player_id": "13317",
-      "player_name": "Ted Hurst",
-      "position": "WR",
-      "published": 1786011905000,
-      "source": "rotoballer",
-      "source_key": "218062",
-      "story_id": "nfl|13317|rotoballer|218062|1786011905000",
-      "title": "Ted Hurst Taking Advantage of Receiver Absences",
-      "url": "https://www.rotoballer.com/player-news/ted-hurst-taking-advantage-of-receiver-absences/1903951"
     }
   ]
 }
