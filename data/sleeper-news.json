@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T15:41:54Z",
+  "last_checked_at": "2026-09-05T15:52:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11583|rotoballer|220140|1788607805000"
+    "nfl|12526|rotoballer|220141|1788608466000"
   ],
   "schema_version": 1,
   "source": {
@@ -32,6 +32,26 @@
       "story_id": "nfl|11237|rotowire|636294|1788618270000",
       "title": "Jacob Saylors - Earns trust of coaching staff",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers wide receiver Tetairoa McMillan could see more usage out of the slot in 2026, speculates ESPN's Mike Kaye. McMillan was used almost exclusively as an outside receiver as a rookie in 2025 and had plenty of success, recording 70 catches for 1,014 yards and seven touchdowns on 122 targets across 17 games. However, Kaye writes that the Panthers have spoken about wanting to use McMillan's size and strength to get him more targets in the middle of the field in his second season. McMillan already projects to be the dominant target-earner in Carolina's offense, as he finished with nearly 60 more targets than any other Panthers pass-catcher in 2025. If he does indeed see more slot usage and an even larger target share in 2026, McMillan could emerge as a fantasy WR1.",
+      "metadata": {
+        "description": "Carolina Panthers wide receiver Tetairoa McMillan could see more usage out of the slot in 2026, speculates ESPN's Mike Kaye. McMillan was used almost exclusively as an outside receiver as a rookie in 2025 and had plenty of success, recording 70 catches for 1,014 yards and seven touchdowns on 122 targets across 17 games. However, Kaye writes that the Panthers have spoken about wanting to use McMillan's size and strength to get him more targets in the middle of the field in his second season. McMillan already projects to be the dominant target-earner in Carolina's offense, as he finished with nearly 60 more targets than any other Panthers pass-catcher in 2025. If he does indeed see more slot usage and an even larger target share in 2026, McMillan could emerge as a fantasy WR1.",
+        "title": "Tetairoa McMillan Set for More Versatile Usage in 2026?",
+        "topic_id": "1401991864860557312",
+        "url": "https://www.rotoballer.com/player-news/tetairoa-mcmillan-set-for-more-versatile-usage-in-2026/1923900"
+      },
+      "nfl_team": "CAR",
+      "player_id": "12526",
+      "player_name": "Tetairoa McMillan",
+      "position": "WR",
+      "published": 1788608466000,
+      "source": "rotoballer",
+      "source_key": "220141",
+      "story_id": "nfl|12526|rotoballer|220141|1788608466000",
+      "title": "Tetairoa McMillan Set for More Versatile Usage in 2026?",
+      "url": "https://www.rotoballer.com/player-news/tetairoa-mcmillan-set-for-more-versatile-usage-in-2026/1923900"
     },
     {
       "analysis": null,
