@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1938**
+- Stored stories: **1939**
 - Newly captured: **1**
 
 ## Latest news
@@ -13,7 +13,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The Seahawks used the 32nd overall pick in the 2026 Draft on Price, seemingly with the intention for him to be in the mix for the No. 1 RB role during Zach Charbonnet's recovery from a January ACL tear. Price handled first-team reps during the offseason program and also at the start of training camp, but he then tended to lower-body soreness, which sidelined him for a week and spurred the team to keep him in street clothes during exhibition season. With a Week 1 matchup with the Patriots just around the corner Wednesday, Price seems primed for lead-runner status, while George Holani will serve as a receiver and in pass-blocking situations. Meanwhile, Emanuel Wilson has been contained to work on the side at recent practices due to a hamstring injury, so it's unclear if he'll be able to contribute in the season opener.
 - **Chris Olave** — Chris Olave - No action in preseason (2026-09-04T22:21:13Z)
   - Olave missed time at the end of the offseason program due to a blood clot, and while he opened training camp as a full participant and agreed to a four-year extension worth up to $132 million on July 30, he exited three different practices for various reasons in August. Nevertheless, he appears to be entering the season in good health and ready to build upon a career-best 2025 regular season in which he posted a 100-1,163-9 line on 155 targets in 16 games.
-- **NEW — Rashee Rice** — How Concerned Should Fantasy Managers Be About Rashee Rice? (2026-09-04T22:11:06Z)
+- **NEW — Matthew Stafford** — Matthew Stafford a High-Floor, Late-Round QB Option Entering 2026 (2026-09-04T22:21:05Z)
+  - Source: https://www.rotoballer.com/player-news/matthew-stafford-a-high-floor-late-round-qb-option-entering-2026/1923644
+- **Rashee Rice** — How Concerned Should Fantasy Managers Be About Rashee Rice? (2026-09-04T22:11:06Z)
   - Source: https://www.rotoballer.com/player-news/how-concerned-should-fantasy-managers-be-about-rashee-rice/1923640
 - **Denzel Boston** — Denzel Boston is Gaining Traction After Strong Showing in Camp (2026-09-04T21:58:09Z)
   - Source: https://www.rotoballer.com/player-news/denzel-boston-is-gaining-traction-after-strong-showing-in-camp/1923635
@@ -208,5 +210,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/devonta-smith-primed-for-breakout-as-undisputed-no-1/1922973
 - **Eli Stowers** — Eli Stowers Struggling in Camp, Difficult to Trust in Redraft Formats (2026-09-03T23:00:06Z)
   - Source: https://www.rotoballer.com/player-news/eli-stowers-struggling-in-camp-difficult-to-trust-in-redraft-formats/1922969
-- **Rome Odunze** — Rome Odunze - Seemingly avoids serious setback (2026-09-03T22:57:05Z)
-  - Odunze exited in the first hour of Thursday's session, but despite attempting to stay on the field, he was escorted off of it with team trainers. Wiederer's report seems to back up that Odunze's new health concern isn't a serious one, but he'll still enter Week 1 prep with a question mark regarding his status. With fellow WR Luther Burden also tending to a groin injury, the Bears currently have only Kalif Raymond, Zavion Thomas and Jahdae Walker as healthy options at the position on the active roster.

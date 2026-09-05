@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T02:25:14Z",
+  "last_checked_at": "2026-09-05T02:38:34Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|10229|rotoballer|220116|1788559866000"
+    "nfl|421|rotoballer|220117|1788560465000"
   ],
   "schema_version": 1,
   "source": {
@@ -72,6 +72,26 @@
       "story_id": "nfl|8144|rotowire|636278|1788560473000",
       "title": "Chris Olave - No action in preseason",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The reigning NFL MVP, Los Angeles Rams quarterback Matthew Stafford, is coming off a season in which he completed 65.0% of his pass attempts for 4,707 yards, 46 touchdowns, and eight interceptions. Entering 2026, it's reasonable to believe that the 38-year-old's numbers are poised to regress. Stafford's touchdown rate spiked to a career-high 7.7% last season, well above his career mark of 4.8%. Still, Stafford remains in an ideal situation for success in Los Angeles. The Rams have a solid offensive line, an elite wide receiver duo in Puka Nacua and Davante Adams, and arguably the NFL's best play-caller in head coach Sean McVay. At his average draft position of a low-end fantasy QB1, Stafford profiles as a high-floor pick with some upside for fantasy managers.",
+      "metadata": {
+        "description": "The reigning NFL MVP, Los Angeles Rams quarterback Matthew Stafford, is coming off a season in which he completed 65.0% of his pass attempts for 4,707 yards, 46 touchdowns, and eight interceptions. Entering 2026, it's reasonable to believe that the 38-year-old's numbers are poised to regress. Stafford's touchdown rate spiked to a career-high 7.7% last season, well above his career mark of 4.8%. Still, Stafford remains in an ideal situation for success in Los Angeles. The Rams have a solid offensive line, an elite wide receiver duo in Puka Nacua and Davante Adams, and arguably the NFL's best play-caller in head coach Sean McVay. At his average draft position of a low-end fantasy QB1, Stafford profiles as a high-floor pick with some upside for fantasy managers.",
+        "title": "Matthew Stafford a High-Floor, Late-Round QB Option Entering 2026",
+        "topic_id": "1401789308360261632",
+        "url": "https://www.rotoballer.com/player-news/matthew-stafford-a-high-floor-late-round-qb-option-entering-2026/1923644"
+      },
+      "nfl_team": "LAR",
+      "player_id": "421",
+      "player_name": "Matthew Stafford",
+      "position": "QB",
+      "published": 1788560465000,
+      "source": "rotoballer",
+      "source_key": "220117",
+      "story_id": "nfl|421|rotoballer|220117|1788560465000",
+      "title": "Matthew Stafford a High-Floor, Late-Round QB Option Entering 2026",
+      "url": "https://www.rotoballer.com/player-news/matthew-stafford-a-high-floor-late-round-qb-option-entering-2026/1923644"
     },
     {
       "analysis": null,
