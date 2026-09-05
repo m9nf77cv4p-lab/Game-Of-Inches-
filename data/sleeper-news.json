@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T14:00:12Z",
+  "last_checked_at": "2026-09-05T14:16:37Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|6786|rotoballer|220132|1788601626000"
+    "nfl|9487|rotoballer|220133|1788602344000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Across 16 games (seven starts) in 2025, Jacksonville Jaguars wide receiver Parker Washington recorded 58 catches for 847 yards and five touchdowns on 95 targets. While Washington's year-long production may not leap off the page, he finished the year on a tear. Across his final four games (including the playoffs), the 24-year-old hauled in 26 receptions for 454 yards and three touchdowns on 41 targets. The buzz around Washington has been extremely consistent this summer, as he's drawn rave reviews for his work in training camp from both Jaguars personnel and Jacksonville reporters. While the team has other capable wideouts in Brian Thomas Jr. and Jakobi Meyers, Washington appears to have excellent chemistry with Jaguars quarterback Trevor Lawrence and could lead the team in targets in 2026. Carrying a mid-round ADP in most drafts, Washington could end up being a steal for fantasy managers.",
+      "metadata": {
+        "description": "Across 16 games (seven starts) in 2025, Jacksonville Jaguars wide receiver Parker Washington recorded 58 catches for 847 yards and five touchdowns on 95 targets. While Washington's year-long production may not leap off the page, he finished the year on a tear. Across his final four games (including the playoffs), the 24-year-old hauled in 26 receptions for 454 yards and three touchdowns on 41 targets. The buzz around Washington has been extremely consistent this summer, as he's drawn rave reviews for his work in training camp from both Jaguars personnel and Jacksonville reporters. While the team has other capable wideouts in Brian Thomas Jr. and Jakobi Meyers, Washington appears to have excellent chemistry with Jaguars quarterback Trevor Lawrence and could lead the team in targets in 2026. Carrying a mid-round ADP in most drafts, Washington could end up being a steal for fantasy managers.",
+        "title": "Parker Washington's Stock Soaring Amidst WR1 Buzz in Jacksonville",
+        "topic_id": "1401965439092822016",
+        "url": "https://www.rotoballer.com/player-news/parker-washingtons-stock-soaring-amidst-wr1-buzz-in-jacksonville/1923821"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9487",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "published": 1788602344000,
+      "source": "rotoballer",
+      "source_key": "220133",
+      "story_id": "nfl|9487|rotoballer|220133|1788602344000",
+      "title": "Parker Washington's Stock Soaring Amidst WR1 Buzz in Jacksonville",
+      "url": "https://www.rotoballer.com/player-news/parker-washingtons-stock-soaring-amidst-wr1-buzz-in-jacksonville/1923821"
+    },
     {
       "analysis": null,
       "description": "Dallas Cowboys wide receiver CeeDee Lamb's production dropped off significantly in 2025, as he finished the year with 75 catches for 1,077 yards and three touchdowns on 117 targets across 14 games. Part of that was due to an early-season ankle injury, which caused Lamb to miss three full games and most of a fourth. However, another factor in Lamb's reduced usage was the emergence of Cowboys wideout George Pickens, who recorded over 1,400 receiving yards and nine touchdown grabs. Pickens has also consistently drawn rave reviews for his work in Cowboys camp throughout the summer, with several reporters in Dallas categorizing him as the team's best wide receiver. While Lamb will surely see plenty of targets as well, Pickens' presence may limit his high-end production upside, particularly in the red zone. Lamb remains a worthy early-round pick for fantasy managers, but his status as a no-doubt fantasy WR1 may be in question entering 2026.",
@@ -39246,26 +39266,6 @@
       "story_id": "nfl|12483|rotoballer|218087|1786026128000",
       "title": "Jack Bech Has Not Separated in the Raiders' Receiver Battle",
       "url": "https://www.rotoballer.com/player-news/jack-bech-has-not-separated-in-the-raiders-receiver-battle/1904236"
-    },
-    {
-      "analysis": null,
-      "description": "Cleveland Browns running back Dylan Sampson has a clear role behind Quinshon Judkins, but fantasy managers should not assume every Judkins touch would fall to him. Sampson was much better as a receiver than a runner during his rookie year, catching 33 passes for 271 yards and two touchdowns while managing only 175 yards on 65 carries. Jerome Ford is gone, which leaves Sampson as the leading passing-down option in the backfield. That gives him some standalone value in deeper PPR leagues. The handcuff case is less straightforward. Judkins returned to full work during the offseason after recovering from a dislocated ankle and fractured fibula, and Cleveland still has 6-foot, 230-pound Raheim Sanders for heavier carries. The Browns also added fullback Michael Burton as Todd Monken installs more gap concepts and short-yardage looks. RotoBaller ranks Sampson RB53 in PPR and RB52 in half-PPR. He is worth a late pick in deeper formats, especially for managers looking for catches from the back end of the roster. Just do not draft him expecting a three-down role if Judkins misses time.",
-      "metadata": {
-        "description": "Cleveland Browns running back Dylan Sampson has a clear role behind Quinshon Judkins, but fantasy managers should not assume every Judkins touch would fall to him. Sampson was much better as a receiver than a runner during his rookie year, catching 33 passes for 271 yards and two touchdowns while managing only 175 yards on 65 carries. Jerome Ford is gone, which leaves Sampson as the leading passing-down option in the backfield. That gives him some standalone value in deeper PPR leagues. The handcuff case is less straightforward. Judkins returned to full work during the offseason after recovering from a dislocated ankle and fractured fibula, and Cleveland still has 6-foot, 230-pound Raheim Sanders for heavier carries. The Browns also added fullback Michael Burton as Todd Monken installs more gap concepts and short-yardage looks. RotoBaller ranks Sampson RB53 in PPR and RB52 in half-PPR. He is worth a late pick in deeper formats, especially for managers looking for catches from the back end of the roster. Just do not draft him expecting a three-down role if Judkins misses time.",
-        "title": "Dylan Sampson's Handcuff Case Is Not That Simple",
-        "topic_id": "1391158113712746496",
-        "url": "https://www.rotoballer.com/player-news/dylan-sampsons-handcuff-case-is-not-that-simple/1904228"
-      },
-      "nfl_team": "CLE",
-      "player_id": "12469",
-      "player_name": "Dylan Sampson",
-      "position": "RB",
-      "published": 1786025589000,
-      "source": "rotoballer",
-      "source_key": "218085",
-      "story_id": "nfl|12469|rotoballer|218085|1786025589000",
-      "title": "Dylan Sampson's Handcuff Case Is Not That Simple",
-      "url": "https://www.rotoballer.com/player-news/dylan-sampsons-handcuff-case-is-not-that-simple/1904228"
     }
   ]
 }

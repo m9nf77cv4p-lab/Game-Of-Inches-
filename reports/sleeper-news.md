@@ -7,7 +7,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 ## Latest news
 
-- **NEW — CeeDee Lamb** — CeeDee Lamb a Faller in Drafts Amidst Target Share Questions in Dallas (2026-09-05T09:47:06Z)
+- **NEW — Parker Washington** — Parker Washington's Stock Soaring Amidst WR1 Buzz in Jacksonville (2026-09-05T09:59:04Z)
+  - Source: https://www.rotoballer.com/player-news/parker-washingtons-stock-soaring-amidst-wr1-buzz-in-jacksonville/1923821
+- **CeeDee Lamb** — CeeDee Lamb a Faller in Drafts Amidst Target Share Questions in Dallas (2026-09-05T09:47:06Z)
   - Source: https://www.rotoballer.com/player-news/ceedee-lamb-a-faller-in-drafts-amidst-target-share-questions-in-dallas/1923815
 - **Carnell Tate** — Carnell Tate Should See Heavy Usage as a Rookie (2026-09-05T09:35:50Z)
   - Source: https://www.rotoballer.com/player-news/carnell-tate-should-see-heavy-usage-as-a-rookie/1923811
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Through five campaigns as a pro, Freiermuth has played at least 16 regular-season games on four occasions, and his tally of 486 receiving yards from 2025 marked his lowest among them. He was on the receiving end of passes from QB Aaron Rodgers for the first time, and with Rodgers returning for his age-43 season, Freiermuth likely isn't in store for much more production, even if the addition of WR Michael Pittman frees up more space for the tight end to operate.
 - **Aaron Rodgers** — Aaron Rodgers - To have Metcalf, Pittman back in Week 1 (2026-09-04T04:06:03Z)
   - Rodgers didn't suit up in the preseason, and coach Mike McCarthy tied his decision to do so to the fact that Metcalf and Pittman weren't healthy enough to play. Even if one or both of Metcalf and Pittman aren't available for the regular-season opener, Rodgers wouldn't be a consideration to be inactive, but it appears the duo will be able to suit up, barring any setbacks in the meantime. Rodgers led a Steelers offense in 2025 that didn't have much talent at WR aside from Metcalf, but the quarterback still completed 65.7 percent of his passes for 3,322 yards, 24 touchdowns and seven interceptions in 16 regular-season games.
-- **Brenton Strange** — Brenton Strange - In line to start Week 1 (2026-09-04T03:51:28Z)
-  - Strange inked a three-year extension with Jacksonville back in June, and in the wake of roster cuts, rookie second-round pick Nate Boerkircher, rookie fifth-rounder Tanner Koziol and fifth-year pro Quintin Morris are the other TEs on the roster. As a result, Strange is the likeliest member of the group, barring health concerns, to end the campaign as the leader in offensive snaps. He's also coming off a 2025 season in which he posted a 46-540-3 line on 60 targets across 12 regular-season games.
