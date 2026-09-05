@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T20:45:56Z",
+  "last_checked_at": "2026-09-05T21:10:43Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11643|rotoballer|220163|1788626096000"
+    "nfl|6783|rotoballer|220164|1788627132000"
   ],
   "schema_version": 1,
   "source": {
@@ -73,6 +73,26 @@
       "story_id": "nfl|12529|rotowire|636303|1788628621000",
       "title": "TreVeyon Henderson - Could practice Saturday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Jerry Jeudy is listed as a starting wide receiver for Week 1 on the Cleveland Browns' depth chart, but his exact role remains uncertain. Cleveland head coach Todd Monken is expected to move Jeudy around as a Z or F receiver, instead of his usual role as an X, which is generally considered a team's No. 1 wideout. However, Monken noted that Jeudy could still play as the X as well. With rookie Denzel Boston now expected to play the X spot, fellow rookie wideout KC Concepcion also emerging as a starter, and tight end Harold Fannin Jr. expected to remain heavily involved, Jeudy may not see as many targets as he did last season (106). Jeudy ranked second on Cleveland in 2025 with receptions (50) and receiving yards (602), behind Fannin. He also scored just two touchdowns. Jeudy, RotoBaller's No. 77 wide receiver (half-PPR), is currently rostered in just 12% of Yahoo leagues, but is somebody to monitor in the later rounds of upcoming fantasy football drafts.",
+      "metadata": {
+        "description": "Jerry Jeudy is listed as a starting wide receiver for Week 1 on the Cleveland Browns' depth chart, but his exact role remains uncertain. Cleveland head coach Todd Monken is expected to move Jeudy around as a Z or F receiver, instead of his usual role as an X, which is generally considered a team's No. 1 wideout. However, Monken noted that Jeudy could still play as the X as well. With rookie Denzel Boston now expected to play the X spot, fellow rookie wideout KC Concepcion also emerging as a starter, and tight end Harold Fannin Jr. expected to remain heavily involved, Jeudy may not see as many targets as he did last season (106). Jeudy ranked second on Cleveland in 2025 with receptions (50) and receiving yards (602), behind Fannin. He also scored just two touchdowns. Jeudy, RotoBaller's No. 77 wide receiver (half-PPR), is currently rostered in just 12% of Yahoo leagues, but is somebody to monitor in the later rounds of upcoming fantasy football drafts.",
+        "title": "New Role, Crowded Depth Chart in Cleveland Clouds Jerry Jeudy's Fantasy Value",
+        "topic_id": "1402071166121717760",
+        "url": "https://www.rotoballer.com/player-news/new-role-crowded-depth-chart-in-cleveland-clouds-jerry-jeudys-fantasy-value/1924193"
+      },
+      "nfl_team": "CLE",
+      "player_id": "6783",
+      "player_name": "Jerry Jeudy",
+      "position": "WR",
+      "published": 1788627132000,
+      "source": "rotoballer",
+      "source_key": "220164",
+      "story_id": "nfl|6783|rotoballer|220164|1788627132000",
+      "title": "New Role, Crowded Depth Chart in Cleveland Clouds Jerry Jeudy's Fantasy Value",
+      "url": "https://www.rotoballer.com/player-news/new-role-crowded-depth-chart-in-cleveland-clouds-jerry-jeudys-fantasy-value/1924193"
     },
     {
       "analysis": null,

@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1981**
+- Stored stories: **1982**
 - Newly captured: **1**
 
 ## Latest news
@@ -14,7 +14,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Head coach Mike Vrabel suggested earlier Saturday that Henderson could return to practice, but the second-year running back will end up observing the session in street clothes as he continues to recover from an ankle injury. Henderson will have two more chances to return to practice in at least a limited capacity ahead of the Patriots' regular-season opener against the Seahawks on Wednesday.
 - **TreVeyon Henderson** — TreVeyon Henderson - Could practice Saturday (2026-09-05T17:17:01Z)
   - After missing recent practice time due to an ankle injury, Henderson appears to have at least a chance to get back on the field as New England begins a game-prep stretch ahead of Wednesday's regular-season opener against Seattle. The second-year running back would have to operate in at least a limited capacity over the coming days to have a realistic chance of playing in Week 1. If Henderson cannot play, then Rhamondre Stevenson would be in line for a significant boost in workload, and Corey Kiner would also be in the mix for some backfield touches.
-- **NEW — Jaylen Wright** — Jaylen Wright Listed as RB2 on Dolphins' Depth Chart (2026-09-05T16:34:56Z)
+- **NEW — Jerry Jeudy** — New Role, Crowded Depth Chart in Cleveland Clouds Jerry Jeudy's Fantasy Value (2026-09-05T16:52:12Z)
+  - Source: https://www.rotoballer.com/player-news/new-role-crowded-depth-chart-in-cleveland-clouds-jerry-jeudys-fantasy-value/1924193
+- **Jaylen Wright** — Jaylen Wright Listed as RB2 on Dolphins' Depth Chart (2026-09-05T16:34:56Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-wright-listed-as-rb2-on-dolphins-depth-chart/1924182
 - **Gunnar Helm** — Gunnar Helm Emerging as a Deep-League Sleeper (2026-09-05T16:02:07Z)
   - Source: https://www.rotoballer.com/player-news/gunnar-helm-emerging-as-a-deep-league-sleeper/1924164
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/malik-washington-has-a-clearer-path-to-a-starting-role/1923396
 - **Makai Lemon** — Makai Lemon Shadowing Eagles' Top Wideout (2026-09-04T14:14:05Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemon-shadowing-eagles-top-wideout/1923348
-- **David Montgomery** — David Montgomery a Safe RB2 with Predictable Goal-Line Usage (2026-09-04T14:04:31Z)
-  - Source: https://www.rotoballer.com/player-news/david-montgomery-a-safe-rb2-with-predictable-goal-line-usage/1923337
