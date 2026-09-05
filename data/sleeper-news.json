@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T15:29:47Z",
+  "last_checked_at": "2026-09-05T15:41:54Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12514|rotoballer|220138|1788606845000",
-    "nfl|8151|rotoballer|220139|1788607205000"
+    "nfl|11583|rotoballer|220140|1788607805000"
   ],
   "schema_version": 1,
   "source": {
@@ -33,6 +32,26 @@
       "story_id": "nfl|11237|rotowire|636294|1788618270000",
       "title": "Jacob Saylors - Earns trust of coaching staff",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "A second-round pick in 2024, Carolina Panthers running back Jonathon Brooks (undisclosed) has been limited by knee injuries to just three career games and nine career carries through his first two NFL seasons. The 23-year-old has also been working through an undisclosed injury that has prevented him from practicing in recent days, which is obviously a concern given his track record. However, Panthers coach Dave Canales recently said that the team is very optimistic that Brooks will be able to play in Week 1. Reporting throughout the summer also indicated that Brooks was impressive in training camp and that the team could be planning on him playing a significant role in their offense. While veteran running back Chuba Hubbard will likely open the year as Carolina's RB1, Brooks could be the higher-upside option of the two. As a mid-to-late round pick in most drafts, Brooks profiles as a high-risk, high-reward selection for fantasy managers.",
+      "metadata": {
+        "description": "A second-round pick in 2024, Carolina Panthers running back Jonathon Brooks (undisclosed) has been limited by knee injuries to just three career games and nine career carries through his first two NFL seasons. The 23-year-old has also been working through an undisclosed injury that has prevented him from practicing in recent days, which is obviously a concern given his track record. However, Panthers coach Dave Canales recently said that the team is very optimistic that Brooks will be able to play in Week 1. Reporting throughout the summer also indicated that Brooks was impressive in training camp and that the team could be planning on him playing a significant role in their offense. While veteran running back Chuba Hubbard will likely open the year as Carolina's RB1, Brooks could be the higher-upside option of the two. As a mid-to-late round pick in most drafts, Brooks profiles as a high-risk, high-reward selection for fantasy managers.",
+        "title": "Jonathon Brooks' Stock Back on the Rise Amidst Improved Health Outlook",
+        "topic_id": "1401989348181684224",
+        "url": "https://www.rotoballer.com/player-news/jonathon-brooks-stock-back-on-the-rise-amidst-improved-health-outlook/1923872"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788607805000,
+      "source": "rotoballer",
+      "source_key": "220140",
+      "story_id": "nfl|11583|rotoballer|220140|1788607805000",
+      "title": "Jonathon Brooks' Stock Back on the Rise Amidst Improved Health Outlook",
+      "url": "https://www.rotoballer.com/player-news/jonathon-brooks-stock-back-on-the-rise-amidst-improved-health-outlook/1923872"
     },
     {
       "analysis": null,

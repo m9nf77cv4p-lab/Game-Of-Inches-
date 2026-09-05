@@ -2,16 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1960**
-- Newly captured: **2**
+- Stored stories: **1961**
+- Newly captured: **1**
 
 ## Latest news
 
 - **Jacob Saylors** — Jacob Saylors - Earns trust of coaching staff (2026-09-05T14:24:30Z)
   - Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role in the offense behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.
-- **NEW — Kenneth Walker** — Kenneth Walker Could Be Poised for Monster Year in Kansas City (2026-09-05T11:20:05Z)
+- **NEW — Jonathon Brooks** — Jonathon Brooks' Stock Back on the Rise Amidst Improved Health Outlook (2026-09-05T11:30:05Z)
+  - Source: https://www.rotoballer.com/player-news/jonathon-brooks-stock-back-on-the-rise-amidst-improved-health-outlook/1923872
+- **Kenneth Walker** — Kenneth Walker Could Be Poised for Monster Year in Kansas City (2026-09-05T11:20:05Z)
   - Source: https://www.rotoballer.com/player-news/kenneth-walker-iii-could-be-poised-for-monster-year-in-kansas-city/1923865
-- **NEW — Emeka Egbuka** — Emeka Egbuka's Stock Falling Amidst Injury Uncertainty? (2026-09-05T11:14:05Z)
+- **Emeka Egbuka** — Emeka Egbuka's Stock Falling Amidst Injury Uncertainty? (2026-09-05T11:14:05Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbukas-stock-falling-amidst-injury-uncertainty/1923862
 - **Ashton Jeanty** — Ashton Jeanty A Riskier Pick Due to Ankle Injury (2026-09-05T11:01:05Z)
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-a-risky-pick-now-with-injury-emergence-of-mike-washington-jr/1923852
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/nico-collins-a-fantasy-riser-as-large-target-share-continues-to-increase/1923157
 - **Christian McCaffrey** — Christian McCaffrey Remains an Elite Fantasy Option in 2026 (2026-09-04T10:00:05Z)
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-remains-an-elite-fantasy-option-in-2026/1923150
-- **Courtland Sutton** — Courtland Sutton Faces Major Target Competition in 2026 (2026-09-04T09:47:06Z)
-  - Source: https://www.rotoballer.com/player-news/courtland-sutton-faces-major-target-competition-in-2026/1923144
