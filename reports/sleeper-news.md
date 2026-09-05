@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1955**
-- Newly captured: **2**
+- Stored stories: **1956**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jacob Saylors** — Jacob Saylors - Earns trust of coaching staff (2026-09-05T14:24:30Z)
+- **Jacob Saylors** — Jacob Saylors - Earns trust of coaching staff (2026-09-05T14:24:30Z)
   - Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role offensive behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.
-- **NEW — Jordan Mason** — Jordan Mason Turning Heads In Vikings Training Camp (2026-09-05T10:22:06Z)
+- **NEW — Chase Brown** — Chase Brown Ready For Three-Down Role in Bengals Offense (2026-09-05T10:32:06Z)
+  - Source: https://www.rotoballer.com/player-news/chase-brown-ready-for-three-down-role-in-bengals-offense/1923841
+- **Jordan Mason** — Jordan Mason Turning Heads In Vikings Training Camp (2026-09-05T10:22:06Z)
   - Source: https://www.rotoballer.com/player-news/jordan-mason-turning-heads-in-vikings-training-camp/1923834
 - **Parker Washington** — Parker Washington's Stock Soaring Amidst WR1 Buzz in Jacksonville (2026-09-05T09:59:04Z)
   - Source: https://www.rotoballer.com/player-news/parker-washingtons-stock-soaring-amidst-wr1-buzz-in-jacksonville/1923821
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/bijan-robinson-still-a-fantasy-superstar-despite-goal-line-work-concerns/1923097
 - **Jack Strand** — Jack Strand - Makes roster as one of four QBs (2026-09-04T04:44:08Z)
   - The three QBs to make the roster along with Strand are Tua Tagovailoa, Michael Penix Jr. (knee) and Cooper Rush. Strand is listed as last on the team's initial depth chart, so he's unlikely to see much action, if any, barring injuries to multiple signal-callers ahead of him. Falcons GM Ian Cunningham called the team's decision to carry four quarterbacks "a little bit of an insurance policy," per the Associated Press, in acknowledgement of Tagovailoa's injury history and the knee issue Penix is still working his way back from. Still, Strand -- who signed with Atlanta as an undrafted free agent in May -- could ultimately end up on the practice squad when/if the team needs to provide more depth at other positions.
-- **Chase McLaughlin** — Chase McLaughlin - Set for fourth season as Bucs' kicker (2026-09-04T04:28:51Z)
-  - McLaughlin got limited opportunities early in his career, but he's played in 16 or 17 contests each of the past five years, the last three of which have been with the Bucs. He was incredibly accurate in making 94 percent of his FG attempts over his first two seasons with the club, and though that rate dropped a bit to 84 percent last year, McLaughlin also hit a career-high 11 field goals from 50-plus yards (on 12 attempts). He'll be in the final year of the three-year contract he inked in 2024, which could give McLaughlin additional incentive to make a big impact with his leg.

@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T14:28:58Z",
+  "last_checked_at": "2026-09-05T14:40:34Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11237|rotowire|636294|1788618270000",
-    "nfl|8408|rotoballer|220134|1788603726000"
+    "nfl|9224|rotoballer|220135|1788604326000"
   ],
   "schema_version": 1,
   "source": {
@@ -36,9 +35,29 @@
     },
     {
       "analysis": null,
-      "description": "Minnesota Vikings running back Jordan Mason has had a great training camp, so much so that he was reportedly listed as a co-starter with Aaron Jones at running back on the team's first unofficial depth chart according to Rob Kleifield of the Vikings official site. Mason had a productive season for the Vikings in 2025 with 159 carries for 758 yards and six touchdowns. He averaged 4.8 yards per carry and also caught 14 passes 51 yards. Mason played in 16 games last season, carving out a nice role even with Aaron Jones on the team. At 5-foot-11 and 230 pounds, Mason is a big-time presence in the backfield and looks like a nice between-the-tackles runner while Jones could feature more on the passing downs. While he will likely continue split carries, Mason still could be a good late round draft pick.",
+      "description": "Cincinnati Bengals running back Chase Brown is looking like an elite fantasy player with his every down role in what should be one of the most explosive offenses in the league. Stacked in the Bengals offense with quarterback Joe Burrow, and receivers Ja'Marr Chase and Tee Higgins, Brown figures to be heavily involved in the passing game apart from his role as the early down running back. That makes for a potential first round draft pick in leagues still drafting. According to Ben Baby of ESPN, Burrow praised Brown's versatility and pass-blocking ability. \"I think there's very few backs in this league that you can say that about,\" Burrow said. \"And when you have a guy like that, you don't have to take him off the field.\" Brown ranked ninth in the league last season with 1,456 total scrimmage yards and included in that was 437 receiving yards ranking sixth in the league. Look for even more involvement for Brown this season.",
       "metadata": {
-        "description": "Minnesota Vikings running back Jordan Mason has had a great training camp, so much so that he was reportedly listed as a co-starter with Aaron Jones at running back on the team's first unofficial depth chart according to Rob Kleifield of the Vikings official site. Mason had a productive season for the Vikings in 2025 with 159 carries for 758 yards and six touchdowns. He averaged 4.8 yards per carry and also caught 14 passes 51 yards. Mason played in 16 games last season, carving out a nice role even with Aaron Jones on the team. At 5-foot-11 and 230 pounds, Mason is a big-time presence in the backfield and looks like a nice between-the-tackles runner while Jones could feature more on the passing downs. While he will likely continue split carries, Mason still could be a good late round draft pick.",
+        "description": "Cincinnati Bengals running back Chase Brown is looking like an elite fantasy player with his every down role in what should be one of the most explosive offenses in the league. Stacked in the Bengals offense with quarterback Joe Burrow, and receivers Ja'Marr Chase and Tee Higgins, Brown figures to be heavily involved in the passing game apart from his role as the early down running back. That makes for a potential first round draft pick in leagues still drafting. According to Ben Baby of ESPN, Burrow praised Brown's versatility and pass-blocking ability. \"I think there's very few backs in this league that you can say that about,\" Burrow said. \"And when you have a guy like that, you don't have to take him off the field.\" Brown ranked ninth in the league last season with 1,456 total scrimmage yards and included in that was 437 receiving yards ranking sixth in the league. Look for even more involvement for Brown this season.",
+        "title": "Chase Brown Ready For Three-Down Role in Bengals Offense",
+        "topic_id": "1401974247785574400",
+        "url": "https://www.rotoballer.com/player-news/chase-brown-ready-for-three-down-role-in-bengals-offense/1923841"
+      },
+      "nfl_team": "CIN",
+      "player_id": "9224",
+      "player_name": "Chase Brown",
+      "position": "RB",
+      "published": 1788604326000,
+      "source": "rotoballer",
+      "source_key": "220135",
+      "story_id": "nfl|9224|rotoballer|220135|1788604326000",
+      "title": "Chase Brown Ready For Three-Down Role in Bengals Offense",
+      "url": "https://www.rotoballer.com/player-news/chase-brown-ready-for-three-down-role-in-bengals-offense/1923841"
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings running back Jordan Mason has had a great training camp, so much so that he was reportedly listed as a co-starter with Aaron Jones at running back on the team's first unofficial depth chart, according to Rob Kleifield of the Vikings' official site. Mason had a productive season for the Vikings in 2025 with 159 carries for 758 yards and six touchdowns. He averaged 4.8 yards per carry and also caught 14 passes for 51 yards. Mason played in 16 games last season, carving out a nice role even with Aaron Jones on the team. At 5-foot-11 and 230 pounds, Mason is a big-time presence in the backfield and looks like a nice between-the-tackles runner, while Jones could feature more on the passing downs. While he will likely continue to split carries, Mason still could be a good late-round draft pick.",
+      "metadata": {
+        "description": "Minnesota Vikings running back Jordan Mason has had a great training camp, so much so that he was reportedly listed as a co-starter with Aaron Jones at running back on the team's first unofficial depth chart, according to Rob Kleifield of the Vikings' official site. Mason had a productive season for the Vikings in 2025 with 159 carries for 758 yards and six touchdowns. He averaged 4.8 yards per carry and also caught 14 passes for 51 yards. Mason played in 16 games last season, carving out a nice role even with Aaron Jones on the team. At 5-foot-11 and 230 pounds, Mason is a big-time presence in the backfield and looks like a nice between-the-tackles runner, while Jones could feature more on the passing downs. While he will likely continue to split carries, Mason still could be a good late-round draft pick.",
         "title": "Jordan Mason Turning Heads In Vikings Training Camp",
         "topic_id": "1401970472144400384",
         "url": "https://www.rotoballer.com/player-news/jordan-mason-turning-heads-in-vikings-training-camp/1923834"
