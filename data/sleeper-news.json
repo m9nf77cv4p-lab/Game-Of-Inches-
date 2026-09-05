@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-05T14:16:37Z",
+  "last_checked_at": "2026-09-05T14:28:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9487|rotoballer|220133|1788602344000"
+    "nfl|11237|rotowire|636294|1788618270000",
+    "nfl|8408|rotoballer|220134|1788603726000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role offensive behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.",
+      "description": "Saylors earned the trust of coaching staff during training camp and could see consistent playing time on both offense and special teams this season, Tim Twentyman of the Lions' official site reports.",
+      "metadata": {
+        "analysis": "Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role offensive behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.",
+        "description": "Saylors earned the trust of coaching staff during training camp and could see consistent playing time on both offense and special teams this season, Tim Twentyman of the Lions' official site reports.",
+        "title": "Jacob Saylors - Earns trust of coaching staff",
+        "topic_id": "1401970474023387136"
+      },
+      "nfl_team": "DET",
+      "player_id": "11237",
+      "player_name": "Jacob Saylors",
+      "position": "RB",
+      "published": 1788618270000,
+      "source": "rotowire",
+      "source_key": "636294",
+      "story_id": "nfl|11237|rotowire|636294|1788618270000",
+      "title": "Jacob Saylors - Earns trust of coaching staff",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings running back Jordan Mason has had a great training camp, so much so that he was reportedly listed as a co-starter with Aaron Jones at running back on the team's first unofficial depth chart according to Rob Kleifield of the Vikings official site. Mason had a productive season for the Vikings in 2025 with 159 carries for 758 yards and six touchdowns. He averaged 4.8 yards per carry and also caught 14 passes 51 yards. Mason played in 16 games last season, carving out a nice role even with Aaron Jones on the team. At 5-foot-11 and 230 pounds, Mason is a big-time presence in the backfield and looks like a nice between-the-tackles runner while Jones could feature more on the passing downs. While he will likely continue split carries, Mason still could be a good late round draft pick.",
+      "metadata": {
+        "description": "Minnesota Vikings running back Jordan Mason has had a great training camp, so much so that he was reportedly listed as a co-starter with Aaron Jones at running back on the team's first unofficial depth chart according to Rob Kleifield of the Vikings official site. Mason had a productive season for the Vikings in 2025 with 159 carries for 758 yards and six touchdowns. He averaged 4.8 yards per carry and also caught 14 passes 51 yards. Mason played in 16 games last season, carving out a nice role even with Aaron Jones on the team. At 5-foot-11 and 230 pounds, Mason is a big-time presence in the backfield and looks like a nice between-the-tackles runner while Jones could feature more on the passing downs. While he will likely continue split carries, Mason still could be a good late round draft pick.",
+        "title": "Jordan Mason Turning Heads In Vikings Training Camp",
+        "topic_id": "1401970472144400384",
+        "url": "https://www.rotoballer.com/player-news/jordan-mason-turning-heads-in-vikings-training-camp/1923834"
+      },
+      "nfl_team": "MIN",
+      "player_id": "8408",
+      "player_name": "Jordan Mason",
+      "position": "RB",
+      "published": 1788603726000,
+      "source": "rotoballer",
+      "source_key": "220134",
+      "story_id": "nfl|8408|rotoballer|220134|1788603726000",
+      "title": "Jordan Mason Turning Heads In Vikings Training Camp",
+      "url": "https://www.rotoballer.com/player-news/jordan-mason-turning-heads-in-vikings-training-camp/1923834"
+    },
     {
       "analysis": null,
       "description": "Across 16 games (seven starts) in 2025, Jacksonville Jaguars wide receiver Parker Washington recorded 58 catches for 847 yards and five touchdowns on 95 targets. While Washington's year-long production may not leap off the page, he finished the year on a tear. Across his final four games (including the playoffs), the 24-year-old hauled in 26 receptions for 454 yards and three touchdowns on 41 targets. The buzz around Washington has been extremely consistent this summer, as he's drawn rave reviews for his work in training camp from both Jaguars personnel and Jacksonville reporters. While the team has other capable wideouts in Brian Thomas Jr. and Jakobi Meyers, Washington appears to have excellent chemistry with Jaguars quarterback Trevor Lawrence and could lead the team in targets in 2026. Carrying a mid-round ADP in most drafts, Washington could end up being a steal for fantasy managers.",
@@ -38,7 +79,7 @@
       "description": "Dallas Cowboys wide receiver CeeDee Lamb's production dropped off significantly in 2025, as he finished the year with 75 catches for 1,077 yards and three touchdowns on 117 targets across 14 games. Part of that was due to an early-season ankle injury, which caused Lamb to miss three full games and most of a fourth. However, another factor in Lamb's reduced usage was the emergence of Cowboys wideout George Pickens, who recorded over 1,400 receiving yards and nine touchdown grabs. Pickens has also consistently drawn rave reviews for his work in Cowboys camp throughout the summer, with several reporters in Dallas categorizing him as the team's best wide receiver. While Lamb will surely see plenty of targets as well, Pickens' presence may limit his high-end production upside, particularly in the red zone. Lamb remains a worthy early-round pick for fantasy managers, but his status as a no-doubt fantasy WR1 may be in question entering 2026.",
       "metadata": {
         "description": "Dallas Cowboys wide receiver CeeDee Lamb's production dropped off significantly in 2025, as he finished the year with 75 catches for 1,077 yards and three touchdowns on 117 targets across 14 games. Part of that was due to an early-season ankle injury, which caused Lamb to miss three full games and most of a fourth. However, another factor in Lamb's reduced usage was the emergence of Cowboys wideout George Pickens, who recorded over 1,400 receiving yards and nine touchdown grabs. Pickens has also consistently drawn rave reviews for his work in Cowboys camp throughout the summer, with several reporters in Dallas categorizing him as the team's best wide receiver. While Lamb will surely see plenty of targets as well, Pickens' presence may limit his high-end production upside, particularly in the red zone. Lamb remains a worthy early-round pick for fantasy managers, but his status as a no-doubt fantasy WR1 may be in question entering 2026.",
-        "title": "CeeDee Lamb a Faller in Drafts Amidst Target Share Questions in Dallas",
+        "title": "CeeDee Lamb a Faller in Drafts Amidst Target-Share Questions in Dallas",
         "topic_id": "1401962921935794176",
         "url": "https://www.rotoballer.com/player-news/ceedee-lamb-a-faller-in-drafts-amidst-target-share-questions-in-dallas/1923815"
       },
@@ -50,7 +91,7 @@
       "source": "rotoballer",
       "source_key": "220132",
       "story_id": "nfl|6786|rotoballer|220132|1788601626000",
-      "title": "CeeDee Lamb a Faller in Drafts Amidst Target Share Questions in Dallas",
+      "title": "CeeDee Lamb a Faller in Drafts Amidst Target-Share Questions in Dallas",
       "url": "https://www.rotoballer.com/player-news/ceedee-lamb-a-faller-in-drafts-amidst-target-share-questions-in-dallas/1923815"
     },
     {
@@ -78,7 +119,7 @@
       "description": "Chicago Bears wide receiver Luther Burden III (groin) missed a large chunk of training camp after suffering a groin injury in early August. However, the second-year wideout returned to the practice field on Tuesday, and he appears to be trending toward being a full-go for Week 1. Across 15 games (five starts) as a rookie in 2025, Burden III recorded 47 catches for 652 yards and two touchdowns on 60 targets. His best stretch came at the end of the year, as he recorded 21 catches for 324 yards and a touchdown over his final four games of the regular season. Entering 2026, Burden III appears poised to play an even larger role in the Bears' passing game following the team's offseason trade of veteran wide receiver DJ Moore to the Buffalo Bills. As long as he remains on the field, Burden III could be in line for a breakout season.",
       "metadata": {
         "description": "Chicago Bears wide receiver Luther Burden III (groin) missed a large chunk of training camp after suffering a groin injury in early August. However, the second-year wideout returned to the practice field on Tuesday, and he appears to be trending toward being a full-go for Week 1. Across 15 games (five starts) as a rookie in 2025, Burden III recorded 47 catches for 652 yards and two touchdowns on 60 targets. His best stretch came at the end of the year, as he recorded 21 catches for 324 yards and a touchdown over his final four games of the regular season. Entering 2026, Burden III appears poised to play an even larger role in the Bears' passing game following the team's offseason trade of veteran wide receiver DJ Moore to the Buffalo Bills. As long as he remains on the field, Burden III could be in line for a breakout season.",
-        "title": "Luther Burden III Poised for Breakout Season Amidst Improving Health Outlook?",
+        "title": "Luther Burden III Poised for Breakout Season Amidst Improving Health",
         "topic_id": "1401957888297070592",
         "url": "https://www.rotoballer.com/player-news/luther-burden-iii-poised-for-breakout-season-amidst-improving-health-outlook/1923801"
       },
@@ -90,7 +131,7 @@
       "source": "rotoballer",
       "source_key": "220130",
       "story_id": "nfl|12519|rotoballer|220130|1788600545000",
-      "title": "Luther Burden III Poised for Breakout Season Amidst Improving Health Outlook?",
+      "title": "Luther Burden III Poised for Breakout Season Amidst Improving Health",
       "url": "https://www.rotoballer.com/player-news/luther-burden-iii-poised-for-breakout-season-amidst-improving-health-outlook/1923801"
     },
     {
@@ -39246,26 +39287,6 @@
       "story_id": "nfl|11586|rotoballer|218100|1786035368000",
       "title": "Blake Corum's Intense Offseason Workouts Go Viral",
       "url": "https://www.rotoballer.com/player-news/blake-corums-intense-offseason-workouts-go-viral/1904386"
-    },
-    {
-      "analysis": null,
-      "description": "Las Vegas Raiders wide receiver Jack Bech ended his rookie season with a little life, catching 12 passes for 132 yards over the final five games. That does not erase how quiet the year was. The 2025 second-round pick finished with 20 catches for 224 yards and no touchdowns across 16 games, despite five starts and a receiver room that opened up after Jakobi Meyers was traded. Year 2 brings another chance under Klint Kubiak, but Bech has not pulled away from the competition. Tre Tucker led the group last season, Jalen Nailor was added in free agency, and sixth-round rookie Malik Benson has been one of the early camp risers. Dont'e Thornton Jr. remains in the mix as well. RotoBaller ranks Bech WR100 across its main scoring formats. That is low enough for deep dynasty managers to wait, especially given his age and second-round investment. Redraft managers do not need to follow. Bech still has to win regular snaps before Las Vegas can provide enough weekly volume for him to matter.",
-      "metadata": {
-        "description": "Las Vegas Raiders wide receiver Jack Bech ended his rookie season with a little life, catching 12 passes for 132 yards over the final five games. That does not erase how quiet the year was. The 2025 second-round pick finished with 20 catches for 224 yards and no touchdowns across 16 games, despite five starts and a receiver room that opened up after Jakobi Meyers was traded. Year 2 brings another chance under Klint Kubiak, but Bech has not pulled away from the competition. Tre Tucker led the group last season, Jalen Nailor was added in free agency, and sixth-round rookie Malik Benson has been one of the early camp risers. Dont'e Thornton Jr. remains in the mix as well. RotoBaller ranks Bech WR100 across its main scoring formats. That is low enough for deep dynasty managers to wait, especially given his age and second-round investment. Redraft managers do not need to follow. Bech still has to win regular snaps before Las Vegas can provide enough weekly volume for him to matter.",
-        "title": "Jack Bech Has Not Separated in the Raiders' Receiver Battle",
-        "topic_id": "1391160630207062016",
-        "url": "https://www.rotoballer.com/player-news/jack-bech-has-not-separated-in-the-raiders-receiver-battle/1904236"
-      },
-      "nfl_team": "LV",
-      "player_id": "12483",
-      "player_name": "Jack Bech",
-      "position": "WR",
-      "published": 1786026128000,
-      "source": "rotoballer",
-      "source_key": "218087",
-      "story_id": "nfl|12483|rotoballer|218087|1786026128000",
-      "title": "Jack Bech Has Not Separated in the Raiders' Receiver Battle",
-      "url": "https://www.rotoballer.com/player-news/jack-bech-has-not-separated-in-the-raiders-receiver-battle/1904236"
     }
   ]
 }

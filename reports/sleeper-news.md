@@ -2,18 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1954**
-- Newly captured: **1**
+- Stored stories: **1955**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Parker Washington** — Parker Washington's Stock Soaring Amidst WR1 Buzz in Jacksonville (2026-09-05T09:59:04Z)
+- **NEW — Jacob Saylors** — Jacob Saylors - Earns trust of coaching staff (2026-09-05T14:24:30Z)
+  - Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role offensive behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.
+- **NEW — Jordan Mason** — Jordan Mason Turning Heads In Vikings Training Camp (2026-09-05T10:22:06Z)
+  - Source: https://www.rotoballer.com/player-news/jordan-mason-turning-heads-in-vikings-training-camp/1923834
+- **Parker Washington** — Parker Washington's Stock Soaring Amidst WR1 Buzz in Jacksonville (2026-09-05T09:59:04Z)
   - Source: https://www.rotoballer.com/player-news/parker-washingtons-stock-soaring-amidst-wr1-buzz-in-jacksonville/1923821
-- **CeeDee Lamb** — CeeDee Lamb a Faller in Drafts Amidst Target Share Questions in Dallas (2026-09-05T09:47:06Z)
+- **CeeDee Lamb** — CeeDee Lamb a Faller in Drafts Amidst Target-Share Questions in Dallas (2026-09-05T09:47:06Z)
   - Source: https://www.rotoballer.com/player-news/ceedee-lamb-a-faller-in-drafts-amidst-target-share-questions-in-dallas/1923815
 - **Carnell Tate** — Carnell Tate Should See Heavy Usage as a Rookie (2026-09-05T09:35:50Z)
   - Source: https://www.rotoballer.com/player-news/carnell-tate-should-see-heavy-usage-as-a-rookie/1923811
-- **Luther Burden** — Luther Burden III Poised for Breakout Season Amidst Improving Health Outlook? (2026-09-05T09:29:05Z)
+- **Luther Burden** — Luther Burden III Poised for Breakout Season Amidst Improving Health (2026-09-05T09:29:05Z)
   - Source: https://www.rotoballer.com/player-news/luther-burden-iii-poised-for-breakout-season-amidst-improving-health-outlook/1923801
 - **Josh Downs** — Josh Downs Looks Well-Positioned for a Resurgent Season in Indianapolis (2026-09-05T09:21:14Z)
   - Source: https://www.rotoballer.com/player-news/josh-downs-looks-well-positioned-for-a-resurgent-season-in-indianapolis/1923796
@@ -210,7 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The three QBs to make the roster along with Strand are Tua Tagovailoa, Michael Penix Jr. (knee) and Cooper Rush. Strand is listed as last on the team's initial depth chart, so he's unlikely to see much action, if any, barring injuries to multiple signal-callers ahead of him. Falcons GM Ian Cunningham called the team's decision to carry four quarterbacks "a little bit of an insurance policy," per the Associated Press, in acknowledgement of Tagovailoa's injury history and the knee issue Penix is still working his way back from. Still, Strand -- who signed with Atlanta as an undrafted free agent in May -- could ultimately end up on the practice squad when/if the team needs to provide more depth at other positions.
 - **Chase McLaughlin** — Chase McLaughlin - Set for fourth season as Bucs' kicker (2026-09-04T04:28:51Z)
   - McLaughlin got limited opportunities early in his career, but he's played in 16 or 17 contests each of the past five years, the last three of which have been with the Bucs. He was incredibly accurate in making 94 percent of his FG attempts over his first two seasons with the club, and though that rate dropped a bit to 84 percent last year, McLaughlin also hit a career-high 11 field goals from 50-plus yards (on 12 attempts). He'll be in the final year of the three-year contract he inked in 2024, which could give McLaughlin additional incentive to make a big impact with his leg.
-- **Pat Freiermuth** — Pat Freiermuth - Plays two preseason games (2026-09-04T04:19:01Z)
-  - Through five campaigns as a pro, Freiermuth has played at least 16 regular-season games on four occasions, and his tally of 486 receiving yards from 2025 marked his lowest among them. He was on the receiving end of passes from QB Aaron Rodgers for the first time, and with Rodgers returning for his age-43 season, Freiermuth likely isn't in store for much more production, even if the addition of WR Michael Pittman frees up more space for the tight end to operate.
-- **Aaron Rodgers** — Aaron Rodgers - To have Metcalf, Pittman back in Week 1 (2026-09-04T04:06:03Z)
-  - Rodgers didn't suit up in the preseason, and coach Mike McCarthy tied his decision to do so to the fact that Metcalf and Pittman weren't healthy enough to play. Even if one or both of Metcalf and Pittman aren't available for the regular-season opener, Rodgers wouldn't be a consideration to be inactive, but it appears the duo will be able to suit up, barring any setbacks in the meantime. Rodgers led a Steelers offense in 2025 that didn't have much talent at WR aside from Metcalf, but the quarterback still completed 65.7 percent of his passes for 3,322 yards, 24 touchdowns and seven interceptions in 16 regular-season games.
