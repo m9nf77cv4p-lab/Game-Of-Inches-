@@ -1,8 +1,11 @@
 {
-  "last_checked_at": "2026-09-05T22:08:47Z",
+  "last_checked_at": "2026-09-05T22:22:04Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|12469|rotoballer|220166|1788631806000",
+    "nfl|12483|rotoballer|220167|1788632045000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -31,6 +34,46 @@
       "story_id": "nfl|12529|fantasy_pros|606042|1788636025559",
       "title": "TreVeyon Henderson (ankle) not practicing Saturday",
       "url": "https://www.fantasypros.com/nfl/news/606042/treveyon-henderson-ankle-not-practicing-saturday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders wide receiver Jack Bech is expected to occupy a starting role this season. Bech should consistently handle a large snap share as the team's primary slot receiver, playing alongside Tre Tucker and Jalen Nailor. Bech finished his rookie season last year with a modest 20 catches for 224 receiving yards, but he had an impressive stretch near the end of the year, catching 12 passes for 132 yards across four games. The state of the Raiders' offense this year remains a question mark with Kirk Cousins starting at quarterback, but Bech's role as the starting slot receiver should get him on the fantasy radar in deeper leagues. Plus, if the Raiders do find themselves playing from behind often, they'll likely pass the football more, which benefits Bech. At the moment, he ranks as RotoBaller's WR114 in redraft leagues. He has an ADP of 274.8, which makes him the 100th receiver off the board in fantasy drafts.",
+      "metadata": {
+        "description": "Las Vegas Raiders wide receiver Jack Bech is expected to occupy a starting role this season. Bech should consistently handle a large snap share as the team's primary slot receiver, playing alongside Tre Tucker and Jalen Nailor. Bech finished his rookie season last year with a modest 20 catches for 224 receiving yards, but he had an impressive stretch near the end of the year, catching 12 passes for 132 yards across four games. The state of the Raiders' offense this year remains a question mark with Kirk Cousins starting at quarterback, but Bech's role as the starting slot receiver should get him on the fantasy radar in deeper leagues. Plus, if the Raiders do find themselves playing from behind often, they'll likely pass the football more, which benefits Bech. At the moment, he ranks as RotoBaller's WR114 in redraft leagues. He has an ADP of 274.8, which makes him the 100th receiver off the board in fantasy drafts.",
+        "title": "Jack Bech Set for a Starting Role in Second Season",
+        "topic_id": "1402090042490355712",
+        "url": "https://www.rotoballer.com/player-news/jack-bech-set-for-a-starting-role-in-second-season/1924222"
+      },
+      "nfl_team": "LV",
+      "player_id": "12483",
+      "player_name": "Jack Bech",
+      "position": "WR",
+      "published": 1788632045000,
+      "source": "rotoballer",
+      "source_key": "220167",
+      "story_id": "nfl|12483|rotoballer|220167|1788632045000",
+      "title": "Jack Bech Set for a Starting Role in Second Season",
+      "url": "https://www.rotoballer.com/player-news/jack-bech-set-for-a-starting-role-in-second-season/1924222"
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns running back Dylan Sampson enters the 2026 season as a solid handcuff in fantasy football, but he also has a chance to carve out standalone value with his pass-catching ability. Sampson was limited to just 175 rushing yards across 15 games in his role behind Quinshon Judkins last year, but he made an impact as a receiver with 33 catches, 271 receiving yards, and two receiving touchdowns. Judkins will occupy the lead-back role again this year, but he may not play every down, opening the door for Sampson to get targets specifically on third downs. Plus, if Judkins were to miss any time due to injury, Sampson would step into the lead-back role. As it stands, he's the RB55 in RotoBaller's latest redraft fantasy football rankings. He has an ADP of 168.4, which corresponds to the 14th round and makes him the 53rd running back off the board.",
+      "metadata": {
+        "description": "Cleveland Browns running back Dylan Sampson enters the 2026 season as a solid handcuff in fantasy football, but he also has a chance to carve out standalone value with his pass-catching ability. Sampson was limited to just 175 rushing yards across 15 games in his role behind Quinshon Judkins last year, but he made an impact as a receiver with 33 catches, 271 receiving yards, and two receiving touchdowns. Judkins will occupy the lead-back role again this year, but he may not play every down, opening the door for Sampson to get targets specifically on third downs. Plus, if Judkins were to miss any time due to injury, Sampson would step into the lead-back role. As it stands, he's the RB55 in RotoBaller's latest redraft fantasy football rankings. He has an ADP of 168.4, which corresponds to the 14th round and makes him the 53rd running back off the board.",
+        "title": "Dylan Sampson a Handcuff with Pass-Catching Upside",
+        "topic_id": "1402088783771336704",
+        "url": "https://www.rotoballer.com/player-news/dylan-sampson-a-handcuff-with-pass-catching-upside/1924220"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12469",
+      "player_name": "Dylan Sampson",
+      "position": "RB",
+      "published": 1788631806000,
+      "source": "rotoballer",
+      "source_key": "220166",
+      "story_id": "nfl|12469|rotoballer|220166|1788631806000",
+      "title": "Dylan Sampson a Handcuff with Pass-Catching Upside",
+      "url": "https://www.rotoballer.com/player-news/dylan-sampson-a-handcuff-with-pass-catching-upside/1924220"
     },
     {
       "analysis": "Head coach Mike Vrabel suggested earlier Saturday that Henderson could return to practice, but the second-year running back will end up observing the session in street clothes as he continues to recover from an ankle injury. Henderson will have two more chances to return to practice in at least a limited capacity ahead of the Patriots' regular-season opener against the Seahawks on Wednesday.",
