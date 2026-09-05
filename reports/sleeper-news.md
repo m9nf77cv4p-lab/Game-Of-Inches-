@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1976**
+- Stored stories: **1977**
 - Newly captured: **1**
 
 ## Latest news
@@ -13,7 +13,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After missing recent practice time due to an ankle injury, Henderson appears to have at least a chance to get back on the field as New England begins a game-prep stretch ahead of Wednesday's regular-season opener against Seattle. The second-year running back would have to operate in at least a limited capacity over the coming days to have a realistic chance of playing in Week 1. If Henderson cannot play, then Rhamondre Stevenson would be in line for a significant boost in workload, and Corey Kiner would also be in the mix for some backfield touches.
 - **Puka Nacua** — Puka Nacua - Making progress in recovery (2026-09-05T15:52:28Z)
   - Nacua worked with trainers on the side at practice throughout the week, but McVay indicated things are moving in the right direction for Nacua and that he has been "hitting some high speed yards at a really good clip." Nacua's status for Thursday's season opener against the 49ers remains up in the air, but a better estimate at his availability will presumably be able to be made when the Rams release their first official injury report in advance of Week 1.
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson Remains Sidelined Saturday (2026-09-05T14:44:17Z)
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Continues to Gain Redraft Momentum (2026-09-05T14:58:07Z)
+  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-continues-to-gain-redraft-momentum/1924085
+- **TreVeyon Henderson** — TreVeyon Henderson Remains Sidelined Saturday (2026-09-05T14:44:17Z)
   - Source: https://www.rotoballer.com/player-news/treveyon-henderson-remains-sidelined-saturday/1924075
 - **Elijah Sarratt** — Elijah Sarratt Comes Out of Camp Behind the Rookie Curve (2026-09-05T14:35:05Z)
   - Source: https://www.rotoballer.com/player-news/elijah-sarratt-comes-out-of-camp-behind-the-rookie-curve/1924059
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/rj-harvey-to-see-a-big-role-as-broncos-pass-catching-back/1923313
 - **Josh Jacobs** — Josh Jacobs' Initial Court Appearance Moved Up (2026-09-04T13:14:05Z)
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-initial-court-appearance-moved-up/1923305
-- **J.K. Dobbins** — J.K. Dobbins the "For Sure" Lead Back When Healthy (2026-09-04T12:59:05Z)
-  - Source: https://www.rotoballer.com/player-news/j-k-dobbins-the-for-sure-lead-back-when-healthy/1923297

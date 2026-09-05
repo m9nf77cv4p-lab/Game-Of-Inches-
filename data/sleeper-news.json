@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T18:57:36Z",
+  "last_checked_at": "2026-09-05T19:12:14Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12529|rotoballer|220156|1788619457000"
+    "nfl|7611|rotoballer|220157|1788620287000"
   ],
   "schema_version": 1,
   "source": {
@@ -72,6 +72,26 @@
       "story_id": "nfl|9493|rotowire|636301|1788623548000",
       "title": "Puka Nacua - Making progress in recovery",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots running back Rhamondre Stevenson has picked up another reason to climb draft boards. TreVeyon Henderson (ankle) was in street clothes for Saturday's practice and has not been back on the field since getting hurt Aug. 24. New England opens at Seattle on Wednesday, so Henderson is running out of time to get meaningful work in before Week 1. Stevenson was already making a push for the larger role. He handled 58 carries during New England's four playoff games last season, while Henderson had 30, and Stevenson also caught 12 passes for 126 yards during that run. His regular season included 948 yards from scrimmage and a career-high nine touchdowns despite missing three games. Henderson could still return before Wednesday and will have a role once healthy, but this backfield looks a lot less murky than it did earlier in the summer. RotoBaller now has Stevenson at RB23 in half-PPR formats. For drafts happening this weekend, he's one of the clearer running back risers on the board.",
+      "metadata": {
+        "description": "New England Patriots running back Rhamondre Stevenson has picked up another reason to climb draft boards. TreVeyon Henderson (ankle) was in street clothes for Saturday's practice and has not been back on the field since getting hurt Aug. 24. New England opens at Seattle on Wednesday, so Henderson is running out of time to get meaningful work in before Week 1. Stevenson was already making a push for the larger role. He handled 58 carries during New England's four playoff games last season, while Henderson had 30, and Stevenson also caught 12 passes for 126 yards during that run. His regular season included 948 yards from scrimmage and a career-high nine touchdowns despite missing three games. Henderson could still return before Wednesday and will have a role once healthy, but this backfield looks a lot less murky than it did earlier in the summer. RotoBaller now has Stevenson at RB23 in half-PPR formats. For drafts happening this weekend, he's one of the clearer running back risers on the board.",
+        "title": "Rhamondre Stevenson Continues to Gain Redraft Momentum",
+        "topic_id": "1402039706367062016",
+        "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-continues-to-gain-redraft-momentum/1924085"
+      },
+      "nfl_team": "NE",
+      "player_id": "7611",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "published": 1788620287000,
+      "source": "rotoballer",
+      "source_key": "220157",
+      "story_id": "nfl|7611|rotoballer|220157|1788620287000",
+      "title": "Rhamondre Stevenson Continues to Gain Redraft Momentum",
+      "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-continues-to-gain-redraft-momentum/1924085"
     },
     {
       "analysis": null,
