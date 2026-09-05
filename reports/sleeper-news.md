@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1981**
+- Stored stories: **1980**
 - Newly captured: **0**
 
 ## Latest news
