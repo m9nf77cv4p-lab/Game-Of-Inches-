@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T03:43:03Z",
+  "last_checked_at": "2026-09-05T04:05:55Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|6768|fantasy_pros|605953|1788579615247",
-    "nfl|9221|rotoballer|220124|1788564386000"
+    "nfl|2449|rotoballer|220125|1788565926000"
   ],
   "schema_version": 1,
   "source": {
@@ -34,6 +33,26 @@
       "story_id": "nfl|6768|fantasy_pros|605953|1788579615247",
       "title": "Tua Tagovailoa: Falcons could name starting QB soon",
       "url": "https://www.fantasypros.com/nfl/news/605953/tua-tagovailoa-falcons-could-name-starting-qb-soon.php"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders wide receiver Stefon Diggs is set for a high-volume role with his new team. Diggs is coming off an impressive season with the Patriots, in which he caught 85 passes for 1,013 yards and four touchdowns. He finished as the overall WR17 in PPR leagues and turned in his seventh 1,000-yard campaign in the last eight years. Now with the Commanders, Diggs finds himself in a slightly different role compared to last year. This year, he'll operate as the No. 2 receiver behind Terry McLaurin. While that could lower his ceiling and threaten his chance of another 1,000-yard season, it should also benefit him by taking away some of the defense's attention. In other words, he'll likely be covered by opponents' No. 2 cornerbacks, while the top corners lock onto McLaurin. As long as quarterback Jayden Daniels stays healthy for most of the season, Diggs has a great chance to be a low-end WR2 or high-end WR3 this year.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Stefon Diggs is set for a high-volume role with his new team. Diggs is coming off an impressive season with the Patriots, in which he caught 85 passes for 1,013 yards and four touchdowns. He finished as the overall WR17 in PPR leagues and turned in his seventh 1,000-yard campaign in the last eight years. Now with the Commanders, Diggs finds himself in a slightly different role compared to last year. This year, he'll operate as the No. 2 receiver behind Terry McLaurin. While that could lower his ceiling and threaten his chance of another 1,000-yard season, it should also benefit him by taking away some of the defense's attention. In other words, he'll likely be covered by opponents' No. 2 cornerbacks, while the top corners lock onto McLaurin. As long as quarterback Jayden Daniels stays healthy for most of the season, Diggs has a great chance to be a low-end WR2 or high-end WR3 this year.",
+        "title": "Stefon Diggs Set for High-Volume Role in Washington",
+        "topic_id": "1401813172343541760",
+        "url": "https://www.rotoballer.com/player-news/stefon-diggs-set-for-high-volume-role-in-washington/1923681"
+      },
+      "nfl_team": "WAS",
+      "player_id": "2449",
+      "player_name": "Stefon Diggs",
+      "position": "WR",
+      "published": 1788565926000,
+      "source": "rotoballer",
+      "source_key": "220125",
+      "story_id": "nfl|2449|rotoballer|220125|1788565926000",
+      "title": "Stefon Diggs Set for High-Volume Role in Washington",
+      "url": "https://www.rotoballer.com/player-news/stefon-diggs-set-for-high-volume-role-in-washington/1923681"
     },
     {
       "analysis": null,

@@ -2,15 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1945**
-- Newly captured: **2**
+- Stored stories: **1946**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa: Falcons could name starting QB soon (2026-09-05T03:40:15.247000Z)
+- **Tua Tagovailoa** — Tua Tagovailoa: Falcons could name starting QB soon (2026-09-05T03:40:15.247000Z)
   - Nearly every team has named its starter for Week 1, but Atlanta has not formally announced its QB1. According to Ian Rapoport, Tagovailoa could have a "short leash" if named the starter as Atlanta waits for Penix to get healthy. Ideally, the Falcons hoped Tagovailoa would prove himself to be a steady, veteran presence, but Atlanta finds itself in limbo under center.
   - Source: https://www.fantasypros.com/nfl/news/605953/tua-tagovailoa-falcons-could-name-starting-qb-soon.php
-- **NEW — Jahmyr Gibbs** — Jahmyr Gibbs the Consensus 1.01 in Fantasy Drafts (2026-09-04T23:26:26Z)
+- **NEW — Stefon Diggs** — Stefon Diggs Set for High-Volume Role in Washington (2026-09-04T23:52:06Z)
+  - Source: https://www.rotoballer.com/player-news/stefon-diggs-set-for-high-volume-role-in-washington/1923681
+- **Jahmyr Gibbs** — Jahmyr Gibbs the Consensus 1.01 in Fantasy Drafts (2026-09-04T23:26:26Z)
   - Source: https://www.rotoballer.com/player-news/jahmyr-gibbs-the-consensus-1-01-in-fantasy-drafts/1923678
 - **Brock Bowers** — Brock Bowers Projected for a Massive Target Share (2026-09-04T23:09:05Z)
   - Source: https://www.rotoballer.com/player-news/brock-bowers-projected-for-a-massive-target-share/1923670
@@ -209,5 +211,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Despite going undrafted in 2024, Coker has made his presence felt through two pro campaigns, resulting in 65 catches (on 89 targets) for 872 yards and five touchdowns in 22 regular-season games. His defining moment of sorts occurred the last time he was on the field for a contest that counts, when he torched the Rams for 9-134-1 on 12 targets in a wild-card loss. Coker will continue to operate as a complementary option to No. 1 WR Tetairoa McMillan for QB Bryce Young in 2026.
 - **Jayden Reed** — Jayden Reed Set for Larger Role Amid Improved Health (2026-09-04T00:02:07Z)
   - Source: https://www.rotoballer.com/player-news/jayden-reed-set-for-larger-role-amid-improved-health/1922987
-- **De'Von Achane** — De'Von Achane Still Holds Elite Upside Despite Poor Supporting Cast (2026-09-03T23:57:07Z)
-  - Source: https://www.rotoballer.com/player-news/devon-achane-still-holds-elite-upside-despite-poor-supporting-cast/1922985
