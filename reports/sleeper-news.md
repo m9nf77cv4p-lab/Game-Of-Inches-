@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1978**
+- Stored stories: **1979**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson (ankle) not practicing Saturday (2026-09-05T19:20:25.559000Z)
+- **TreVeyon Henderson** — TreVeyon Henderson (ankle) not practicing Saturday (2026-09-05T19:20:25.559000Z)
   - Henderson has not practiced since August 24th, not a great sign for his availability come game time. The Patriots play the Seahawks on Wednesday, rather than a Thursday, giving Henderson one less day to get healthy. The Patriots first injury report comes out later today.
   - Source: https://www.fantasypros.com/nfl/news/606042/treveyon-henderson-ankle-not-practicing-saturday.php
 - **TreVeyon Henderson** — TreVeyon Henderson - Sitting out Saturday's practice (2026-09-05T18:01:37Z)
@@ -16,6 +16,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After missing recent practice time due to an ankle injury, Henderson appears to have at least a chance to get back on the field as New England begins a game-prep stretch ahead of Wednesday's regular-season opener against Seattle. The second-year running back would have to operate in at least a limited capacity over the coming days to have a realistic chance of playing in Week 1. If Henderson cannot play, then Rhamondre Stevenson would be in line for a significant boost in workload, and Corey Kiner would also be in the mix for some backfield touches.
 - **Puka Nacua** — Puka Nacua - Making progress in recovery (2026-09-05T15:52:28Z)
   - Nacua worked with trainers on the side at practice throughout the week, but McVay indicated things are moving in the right direction for Nacua and that he has been "hitting some high speed yards at a really good clip." Nacua's status for Thursday's season opener against the 49ers remains up in the air, but a better estimate at his availability will presumably be able to be made when the Rams release their first official injury report in advance of Week 1.
+- **NEW — Tua Tagovailoa** — Tua Tagovailoa Could Be on a Short Leash if Named the Starter (2026-09-05T15:25:06Z)
+  - Source: https://www.rotoballer.com/player-news/tua-tagovailoa-could-be-on-a-short-leash-if-named-starter-nfl-news-fantasy-football/1924112
 - **Rhamondre Stevenson** — Rhamondre Stevenson Continues to Gain Redraft Momentum (2026-09-05T14:58:07Z)
   - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-continues-to-gain-redraft-momentum/1924085
 - **TreVeyon Henderson** — TreVeyon Henderson Remains Sidelined Saturday (2026-09-05T14:44:17Z)
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/both-healthy-terry-mclaurin-continues-to-develop-chemistry-with-his-young-quarterback/1923330
 - **Jonah Coleman** — Jonah Coleman Viewed as Direct Backup on Early Downs (2026-09-04T13:40:04Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-most-hyped-player-on-roster-viewed-as-direct-backup-to-dobbins/1923322
-- **RJ Harvey** — RJ Harvey to See a "Big Role" as Broncos' Pass-Catching Back (2026-09-04T13:27:17Z)
-  - Source: https://www.rotoballer.com/player-news/rj-harvey-to-see-a-big-role-as-broncos-pass-catching-back/1923313

@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T19:24:21Z",
+  "last_checked_at": "2026-09-05T19:45:35Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12529|fantasy_pros|606042|1788636025559"
+    "nfl|6768|rotoballer|220159|1788621906000"
   ],
   "schema_version": 1,
   "source": {
@@ -93,6 +93,26 @@
       "story_id": "nfl|9493|rotowire|636301|1788623548000",
       "title": "Puka Nacua - Making progress in recovery",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "NFL Network national insider Ian Rapoport expects Tua Tagovailoa to be on \"a little bit of a short leash\" if he is named the starting quarterback for the Atlanta Falcons. Tagovailoa is competing with Michael Penix Jr. for the QB1 role in Atlanta. Penix is recovering from a partial ACL tear that he suffered in November 2025, which required surgery. Penix was fully cleared to practice in late August, but his timeline for returning to game action remains unknown. Tagovailoa struggled in the preseason, and his confidence seems to be waning. Rapoport noted that Penix would likely be the starter if he were healthy, but that Atlanta is left in \"limbo\" in terms of what to do at the quarterback position right now. The Falcons signed Tagovailoa to a one-year contract worth $1.215 million in March. Tagovailoa has a current Yahoo ADP of 201 and is best left on the waiver wire in all standard leagues as things currently stand.",
+      "metadata": {
+        "description": "NFL Network national insider Ian Rapoport expects Tua Tagovailoa to be on \"a little bit of a short leash\" if he is named the starting quarterback for the Atlanta Falcons. Tagovailoa is competing with Michael Penix Jr. for the QB1 role in Atlanta. Penix is recovering from a partial ACL tear that he suffered in November 2025, which required surgery. Penix was fully cleared to practice in late August, but his timeline for returning to game action remains unknown. Tagovailoa struggled in the preseason, and his confidence seems to be waning. Rapoport noted that Penix would likely be the starter if he were healthy, but that Atlanta is left in \"limbo\" in terms of what to do at the quarterback position right now. The Falcons signed Tagovailoa to a one-year contract worth $1.215 million in March. Tagovailoa has a current Yahoo ADP of 201 and is best left on the waiver wire in all standard leagues as things currently stand.",
+        "title": "Tua Tagovailoa Could Be on a Short Leash if Named the Starter",
+        "topic_id": "1402048515256885248",
+        "url": "https://www.rotoballer.com/player-news/tua-tagovailoa-could-be-on-a-short-leash-if-named-starter-nfl-news-fantasy-football/1924112"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1788621906000,
+      "source": "rotoballer",
+      "source_key": "220159",
+      "story_id": "nfl|6768|rotoballer|220159|1788621906000",
+      "title": "Tua Tagovailoa Could Be on a Short Leash if Named the Starter",
+      "url": "https://www.rotoballer.com/player-news/tua-tagovailoa-could-be-on-a-short-leash-if-named-starter-nfl-news-fantasy-football/1924112"
     },
     {
       "analysis": null,
