@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T18:47:46Z",
+  "last_checked_at": "2026-09-05T18:57:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13268|rotoballer|220154|1788618905000",
-    "nfl|7600|rotoballer|220155|1788618715000"
+    "nfl|12529|rotoballer|220156|1788619457000"
   ],
   "schema_version": 1,
   "source": {
@@ -20,7 +19,7 @@
       "metadata": {
         "analysis": "Head coach Mike Vrabel suggested earlier Saturday that Henderson could return to practice, but the second-year running back will end up observing the session in street clothes as he continues to recover from an ankle injury. Henderson will have two more chances to return to practice in at least a limited capacity ahead of the Patriots' regular-season opener against the Seahawks on Wednesday.",
         "description": "Henderson (ankle) was in street clothes ahead of Saturday's practice, Andrew Callahan of the Boston Herald reports.",
-        "title": "TreVeyon Henderson - Sitting out of Saturday's practice",
+        "title": "TreVeyon Henderson - Sitting out Saturday's practice",
         "topic_id": "1402025866283765760"
       },
       "nfl_team": "NE",
@@ -31,7 +30,7 @@
       "source": "rotowire",
       "source_key": "636304",
       "story_id": "nfl|12529|rotowire|636304|1788631297000",
-      "title": "TreVeyon Henderson - Sitting out of Saturday's practice",
+      "title": "TreVeyon Henderson - Sitting out Saturday's practice",
       "url": null
     },
     {
@@ -73,6 +72,26 @@
       "story_id": "nfl|9493|rotowire|636301|1788623548000",
       "title": "Puka Nacua - Making progress in recovery",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots running back TreVeyon Henderson (ankle) was not present for the media-access portion of Saturday's practice, according to Mike Reiss of ESPN. Henderson has not practiced since injuring his right ankle on Aug. 24. A report late last month said he had avoided a serious injury and was expected to be ready for Week 1, but the second-year back still has not made it onto the field with New England's opener four days away. Henderson ran for 911 yards and nine touchdowns on 180 carries as a rookie, adding 35 catches for 221 yards and another score. The Patriots will issue their first injury report of the season later Saturday, which should give a clearer picture of where Henderson stands for Wednesday night's game in Seattle.",
+      "metadata": {
+        "description": "New England Patriots running back TreVeyon Henderson (ankle) was not present for the media-access portion of Saturday's practice, according to Mike Reiss of ESPN. Henderson has not practiced since injuring his right ankle on Aug. 24. A report late last month said he had avoided a serious injury and was expected to be ready for Week 1, but the second-year back still has not made it onto the field with New England's opener four days away. Henderson ran for 911 yards and nine touchdowns on 180 carries as a rookie, adding 35 catches for 221 yards and another score. The Patriots will issue their first injury report of the season later Saturday, which should give a clearer picture of where Henderson stands for Wednesday night's game in Seattle.",
+        "title": "TreVeyon Henderson Remains Sidelined Saturday",
+        "topic_id": "1402037189491105792",
+        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-remains-sidelined-saturday/1924075"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788619457000,
+      "source": "rotoballer",
+      "source_key": "220156",
+      "story_id": "nfl|12529|rotoballer|220156|1788619457000",
+      "title": "TreVeyon Henderson Remains Sidelined Saturday",
+      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-remains-sidelined-saturday/1924075"
     },
     {
       "analysis": null,
