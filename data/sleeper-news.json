@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T17:29:18Z",
+  "last_checked_at": "2026-09-05T17:40:45Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12529|rotowire|636303|1788628621000"
+    "nfl|4017|rotoballer|220148|1788614945000"
   ],
   "schema_version": 1,
   "source": {
@@ -72,6 +72,26 @@
       "story_id": "nfl|11237|rotowire|636294|1788618270000",
       "title": "Jacob Saylors - Earns trust of coaching staff",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns quarterback Deshaun Watson won the starting job, but his preseason left plenty of reasons to stay cautious in fantasy. Watson looked comfortable in the opener against Chicago, completing 11 of 15 passes for 126 yards, although he lost a fumble on a fourth-down sack. A week later, the offense went nowhere against Buffalo. Watson finished 5-for-12 for 36 yards with an interception before Cleveland shut down its starters for the preseason finale. Todd Monken still gave him the Week 1 job after evaluating the full offseason, camp, joint practices and games, so the Browns clearly saw more than the uneven game tape. Fantasy managers don't have to be as patient. Watson hasn't played a regular-season snap since tearing his Achilles in October 2024, then re-rupturing it and missing all of 2025. The job is his, but the August inconsistency did little to suggest an immediate fantasy rebound. Watson is best left to deeper Superflex formats until he shows he can string together productive games again.",
+      "metadata": {
+        "description": "Cleveland Browns quarterback Deshaun Watson won the starting job, but his preseason left plenty of reasons to stay cautious in fantasy. Watson looked comfortable in the opener against Chicago, completing 11 of 15 passes for 126 yards, although he lost a fumble on a fourth-down sack. A week later, the offense went nowhere against Buffalo. Watson finished 5-for-12 for 36 yards with an interception before Cleveland shut down its starters for the preseason finale. Todd Monken still gave him the Week 1 job after evaluating the full offseason, camp, joint practices and games, so the Browns clearly saw more than the uneven game tape. Fantasy managers don't have to be as patient. Watson hasn't played a regular-season snap since tearing his Achilles in October 2024, then re-rupturing it and missing all of 2025. The job is his, but the August inconsistency did little to suggest an immediate fantasy rebound. Watson is best left to deeper Superflex formats until he shows he can string together productive games again.",
+        "title": "Deshaun Watson's Starting Job Doesn't Erase Preseason Concerns",
+        "topic_id": "1402018292259950592",
+        "url": "https://www.rotoballer.com/player-news/deshaun-watsons-starting-job-doesnt-erase-preseason-concerns/1923988"
+      },
+      "nfl_team": "CLE",
+      "player_id": "4017",
+      "player_name": "Deshaun Watson",
+      "position": "QB",
+      "published": 1788614945000,
+      "source": "rotoballer",
+      "source_key": "220148",
+      "story_id": "nfl|4017|rotoballer|220148|1788614945000",
+      "title": "Deshaun Watson's Starting Job Doesn't Erase Preseason Concerns",
+      "url": "https://www.rotoballer.com/player-news/deshaun-watsons-starting-job-doesnt-erase-preseason-concerns/1923988"
     },
     {
       "analysis": null,
