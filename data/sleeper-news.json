@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T14:40:34Z",
+  "last_checked_at": "2026-09-05T14:50:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9224|rotoballer|220135|1788604326000"
+    "nfl|12508|rotoballer|220136|1788605105000"
   ],
   "schema_version": 1,
   "source": {
@@ -32,6 +32,26 @@
       "story_id": "nfl|11237|rotowire|636294|1788618270000",
       "title": "Jacob Saylors - Earns trust of coaching staff",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants quarterback Jaxson Dart is reportedly gaining confidence in his second year in the Giants offense according to Darryl Slater of NJ.com. Dart even looks back to this spring and says he already notices a difference in camp this fall. \"I feel so much better,\" Dart said of where he's at now, compared to the spring. \"I feel in command. I feel confident. In this offense, there's a lot that's put on the quarterback's plate, but it's exactly how I want it. It's exactly how I viewed this coming together.\" The Giants new offense is led by offensive coordinator Matt Nagy and head coach John Harbaugh and it already feels like a good fit for Dart. Last season, Dart was 216-for-339 passing for 2,272 yards and 15 touchdowns with five interceptions. He also rushed 86 times for 487 yards and nine touchdowns. Dart looks like a nice risk at the quarterback position in drafts with league-winning upside because of the rushing ability.",
+      "metadata": {
+        "description": "New York Giants quarterback Jaxson Dart is reportedly gaining confidence in his second year in the Giants offense according to Darryl Slater of NJ.com. Dart even looks back to this spring and says he already notices a difference in camp this fall. \"I feel so much better,\" Dart said of where he's at now, compared to the spring. \"I feel in command. I feel confident. In this offense, there's a lot that's put on the quarterback's plate, but it's exactly how I want it. It's exactly how I viewed this coming together.\" The Giants new offense is led by offensive coordinator Matt Nagy and head coach John Harbaugh and it already feels like a good fit for Dart. Last season, Dart was 216-for-339 passing for 2,272 yards and 15 touchdowns with five interceptions. He also rushed 86 times for 487 yards and nine touchdowns. Dart looks like a nice risk at the quarterback position in drafts with league-winning upside because of the rushing ability.",
+        "title": "Jaxson Dart Feeling More Comrfortable In Giants Offense",
+        "topic_id": "1401976764015603712",
+        "url": "https://www.rotoballer.com/player-news/jaxson-dart-feeling-more-comrfortable-in-giants-offense/1923844"
+      },
+      "nfl_team": "NYG",
+      "player_id": "12508",
+      "player_name": "Jaxson Dart",
+      "position": "QB",
+      "published": 1788605105000,
+      "source": "rotoballer",
+      "source_key": "220136",
+      "story_id": "nfl|12508|rotoballer|220136|1788605105000",
+      "title": "Jaxson Dart Feeling More Comrfortable In Giants Offense",
+      "url": "https://www.rotoballer.com/player-news/jaxson-dart-feeling-more-comrfortable-in-giants-offense/1923844"
     },
     {
       "analysis": null,

@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1956**
+- Stored stories: **1957**
 - Newly captured: **1**
 
 ## Latest news
 
 - **Jacob Saylors** — Jacob Saylors - Earns trust of coaching staff (2026-09-05T14:24:30Z)
   - Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role offensive behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.
-- **NEW — Chase Brown** — Chase Brown Ready For Three-Down Role in Bengals Offense (2026-09-05T10:32:06Z)
+- **NEW — Jaxson Dart** — Jaxson Dart Feeling More Comrfortable In Giants Offense (2026-09-05T10:45:05Z)
+  - Source: https://www.rotoballer.com/player-news/jaxson-dart-feeling-more-comrfortable-in-giants-offense/1923844
+- **Chase Brown** — Chase Brown Ready For Three-Down Role in Bengals Offense (2026-09-05T10:32:06Z)
   - Source: https://www.rotoballer.com/player-news/chase-brown-ready-for-three-down-role-in-bengals-offense/1923841
 - **Jordan Mason** — Jordan Mason Turning Heads In Vikings Training Camp (2026-09-05T10:22:06Z)
   - Source: https://www.rotoballer.com/player-news/jordan-mason-turning-heads-in-vikings-training-camp/1923834
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-is-too-risky-for-anything-more-than-a-late-round-pick/1923115
 - **Bijan Robinson** — Bijan Robinson Still a Fantasy Superstar Despite Goal-Line Concerns (2026-09-04T09:10:06Z)
   - Source: https://www.rotoballer.com/player-news/bijan-robinson-still-a-fantasy-superstar-despite-goal-line-work-concerns/1923097
-- **Jack Strand** — Jack Strand - Makes roster as one of four QBs (2026-09-04T04:44:08Z)
-  - The three QBs to make the roster along with Strand are Tua Tagovailoa, Michael Penix Jr. (knee) and Cooper Rush. Strand is listed as last on the team's initial depth chart, so he's unlikely to see much action, if any, barring injuries to multiple signal-callers ahead of him. Falcons GM Ian Cunningham called the team's decision to carry four quarterbacks "a little bit of an insurance policy," per the Associated Press, in acknowledgement of Tagovailoa's injury history and the knee issue Penix is still working his way back from. Still, Strand -- who signed with Atlanta as an undrafted free agent in May -- could ultimately end up on the practice squad when/if the team needs to provide more depth at other positions.
