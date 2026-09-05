@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T02:10:21Z",
+  "last_checked_at": "2026-09-05T02:25:14Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13346|rotoballer|220115|1788559089000"
+    "nfl|10229|rotoballer|220116|1788559866000"
   ],
   "schema_version": 1,
   "source": {
@@ -72,6 +72,26 @@
       "story_id": "nfl|8144|rotowire|636278|1788560473000",
       "title": "Chris Olave - No action in preseason",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "After an encouraging rookie season in 2023, injuries and off-field issues have limited Kansas City Chiefs wide receiver Rashee Rice to just 12 games over the last two seasons. After serving a six-game suspension to begin 2025, Rice recorded 53 catches for 571 yards and five touchdowns on 78 targets across eight games. However, Rice finished the year on Injured Reserve due to a concussion. He hasn't exactly had the greatest offseason leading into 2026, as he spent time in jail due to a failed drug test and also underwent knee surgery. If Rice can stay on the field in 2026, he carries top-12 fantasy wide receiver upside in PPR-scoring formats. However, Rice's persistent injury concerns and the ever-present risk posed by his off-field issues make him an extremely risky selection for fantasy managers.",
+      "metadata": {
+        "description": "After an encouraging rookie season in 2023, injuries and off-field issues have limited Kansas City Chiefs wide receiver Rashee Rice to just 12 games over the last two seasons. After serving a six-game suspension to begin 2025, Rice recorded 53 catches for 571 yards and five touchdowns on 78 targets across eight games. However, Rice finished the year on Injured Reserve due to a concussion. He hasn't exactly had the greatest offseason leading into 2026, as he spent time in jail due to a failed drug test and also underwent knee surgery. If Rice can stay on the field in 2026, he carries top-12 fantasy wide receiver upside in PPR-scoring formats. However, Rice's persistent injury concerns and the ever-present risk posed by his off-field issues make him an extremely risky selection for fantasy managers.",
+        "title": "How Concerned Should Fantasy Managers Be About Rashee Rice?",
+        "topic_id": "1401786792029466624",
+        "url": "https://www.rotoballer.com/player-news/how-concerned-should-fantasy-managers-be-about-rashee-rice/1923640"
+      },
+      "nfl_team": "KC",
+      "player_id": "10229",
+      "player_name": "Rashee Rice",
+      "position": "WR",
+      "published": 1788559866000,
+      "source": "rotoballer",
+      "source_key": "220116",
+      "story_id": "nfl|10229|rotoballer|220116|1788559866000",
+      "title": "How Concerned Should Fantasy Managers Be About Rashee Rice?",
+      "url": "https://www.rotoballer.com/player-news/how-concerned-should-fantasy-managers-be-about-rashee-rice/1923640"
     },
     {
       "analysis": null,
