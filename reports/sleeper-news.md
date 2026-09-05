@@ -3,7 +3,7 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1980**
-- Newly captured: **1**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -14,7 +14,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Head coach Mike Vrabel suggested earlier Saturday that Henderson could return to practice, but the second-year running back will end up observing the session in street clothes as he continues to recover from an ankle injury. Henderson will have two more chances to return to practice in at least a limited capacity ahead of the Patriots' regular-season opener against the Seahawks on Wednesday.
 - **TreVeyon Henderson** — TreVeyon Henderson - Could practice Saturday (2026-09-05T17:17:01Z)
   - After missing recent practice time due to an ankle injury, Henderson appears to have at least a chance to get back on the field as New England begins a game-prep stretch ahead of Wednesday's regular-season opener against Seattle. The second-year running back would have to operate in at least a limited capacity over the coming days to have a realistic chance of playing in Week 1. If Henderson cannot play, then Rhamondre Stevenson would be in line for a significant boost in workload, and Corey Kiner would also be in the mix for some backfield touches.
-- **NEW — Gunnar Helm** — Gunnar Helm Emerging as a Deep League Sleeper (2026-09-05T16:02:07Z)
+- **Gunnar Helm** — Gunnar Helm Emerging as a Deep-League Sleeper (2026-09-05T16:02:07Z)
   - Source: https://www.rotoballer.com/player-news/gunnar-helm-emerging-as-a-deep-league-sleeper/1924164
 - **Puka Nacua** — Puka Nacua - Making progress in recovery (2026-09-05T15:52:28Z)
   - Nacua worked with trainers on the side at practice throughout the week, but McVay indicated things are moving in the right direction for Nacua and that he has been "hitting some high speed yards at a really good clip." Nacua's status for Thursday's season opener against the 49ers remains up in the air, but a better estimate at his availability will presumably be able to be made when the Rams release their first official injury report in advance of Week 1.
