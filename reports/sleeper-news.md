@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1941**
-- Newly captured: **1**
+- Stored stories: **1943**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Brock Bowers** — Brock Bowers Projected for a Massive Target Share (2026-09-04T23:09:05Z)
+  - Source: https://www.rotoballer.com/player-news/brock-bowers-projected-for-a-massive-target-share/1923670
+- **NEW — Jordyn Tyson** — Jordyn Tyson's Redraft Value Fading Amidst Injury Concerns (2026-09-04T23:00:10Z)
+  - Source: https://www.rotoballer.com/player-news/jordyn-tysons-redraft-value-fading-amidst-injury-concerns/1923666
 - **Sam LaPorta** — Sam LaPorta - Sees no action in preseason (2026-09-04T22:59:00Z)
   - LaPorta was rested in the team's exhibition opener, but a hip injury suffered in practice kept him on the sideline for the final two preseason games. He was able to return to drills as of Aug. 25, but it's unclear if he's put the issue behind him. LaPorta is entering the final year of his rookie contract, so he has every incentive to be as healthy as possible for a Week 1 matchup with the Saints on Sunday, Sept. 13.
-- **NEW — Colston Loveland** — Colston Loveland Poised for High-End TE1 Season Following Dominant Close to 2025? (2026-09-04T22:47:07Z)
+- **Colston Loveland** — Colston Loveland Poised for High-End TE1 Season in Year 2 (2026-09-04T22:47:07Z)
   - Source: https://www.rotoballer.com/player-news/colston-loveland-poised-for-high-end-te1-season-following-dominant-close-to-2025/1923659
 - **Jadarian Price** — Jadarian Price - In line for Week 1 role (2026-09-04T22:46:05Z)
   - The Seahawks used the 32nd overall pick in the 2026 Draft on Price, seemingly with the intention for him to be in the mix for the No. 1 RB role during Zach Charbonnet's recovery from a January ACL tear. Price handled first-team reps during the offseason program and also at the start of training camp, but he then tended to lower-body soreness, which sidelined him for a week and spurred the team to keep him in street clothes during exhibition season. With a Week 1 matchup with the Patriots just around the corner Wednesday, Price seems primed for lead-runner status, while George Holani will serve as a receiver and in pass-blocking situations. Meanwhile, Emanuel Wilson has been contained to work on the side at recent practices due to a hamstring injury, so it's unclear if he'll be able to contribute in the season opener.
@@ -206,7 +210,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as "aggressive, which is huge for us." The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.
 - **Jonathan Taylor** — Jonathan Taylor Poised for Another Productive Year (2026-09-03T23:46:14Z)
   - Source: https://www.rotoballer.com/player-news/jonathan-taylor-poised-for-another-productive-year/1922981
-- **Dontayvion Wicks** — Dontayvion Wicks Set for Starting Role in Philadelphia (2026-09-03T23:42:08Z)
-  - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-set-for-starting-role-in-philadelphia/1922979
-- **Trevor Lawrence** — Trevor Lawrence Set for Potential Career-Best Season (2026-09-03T23:35:02Z)
-  - Source: https://www.rotoballer.com/player-news/trevor-lawrence-set-for-potential-career-best-season-with-strong-supporting-cast/1922975

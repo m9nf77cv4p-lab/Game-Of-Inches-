@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-05T02:59:35Z",
+  "last_checked_at": "2026-09-05T03:16:52Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12517|rotoballer|220120|1788562027000"
+    "nfl|11604|rotoballer|220122|1788563345000",
+    "nfl|13281|rotoballer|220121|1788562810000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders tight end Brock Bowers is likely headed for an enormous target share in 2026. Injuries and subpar quarterback play limited Bowers to just 64 catches, 680 yards, and seven touchdowns last year. However, he had 112 catches on 153 targets as a rookie in 2024, and he's looking to get back to that level of volume this year. The good news is that he's fully healthy and got a quarterback upgrade this offseason, as the Raiders moved on from Geno Smith. Kirk Cousins will lead the offense for now, and we know that he's capable of elevating his tight ends to the next level. After Cousins took over the Falcons' offense last year, tight end Kyle Pitts averaged 8.0 targets, 0.6 touchdowns, and 16.3 fantasy points per game. That should be Bowers' floor, and his ceiling is significantly higher. There's a legitimate chance that Bowers will finish as the overall TE1 this year if he stays healthy for all 17 games. For now, he has an ADP of 19.8, which corresponds to the second round of fantasy drafts and makes him the first tight end off the board.",
+      "metadata": {
+        "description": "Las Vegas Raiders tight end Brock Bowers is likely headed for an enormous target share in 2026. Injuries and subpar quarterback play limited Bowers to just 64 catches, 680 yards, and seven touchdowns last year. However, he had 112 catches on 153 targets as a rookie in 2024, and he's looking to get back to that level of volume this year. The good news is that he's fully healthy and got a quarterback upgrade this offseason, as the Raiders moved on from Geno Smith. Kirk Cousins will lead the offense for now, and we know that he's capable of elevating his tight ends to the next level. After Cousins took over the Falcons' offense last year, tight end Kyle Pitts averaged 8.0 targets, 0.6 touchdowns, and 16.3 fantasy points per game. That should be Bowers' floor, and his ceiling is significantly higher. There's a legitimate chance that Bowers will finish as the overall TE1 this year if he stays healthy for all 17 games. For now, he has an ADP of 19.8, which corresponds to the second round of fantasy drafts and makes him the first tight end off the board.",
+        "title": "Brock Bowers Projected for a Massive Target Share",
+        "topic_id": "1401801891897188352",
+        "url": "https://www.rotoballer.com/player-news/brock-bowers-projected-for-a-massive-target-share/1923670"
+      },
+      "nfl_team": "LV",
+      "player_id": "11604",
+      "player_name": "Brock Bowers",
+      "position": "TE",
+      "published": 1788563345000,
+      "source": "rotoballer",
+      "source_key": "220122",
+      "story_id": "nfl|11604|rotoballer|220122|1788563345000",
+      "title": "Brock Bowers Projected for a Massive Target Share",
+      "url": "https://www.rotoballer.com/player-news/brock-bowers-projected-for-a-massive-target-share/1923670"
+    },
+    {
+      "analysis": null,
+      "description": "After being selected eighth overall in the 2026 NFL Draft, New Orleans Saints wide receiver Jordyn Tyson (hamstring) was initially expected to play a significant role in his team's offense as a rookie. However, the 22-year-old suffered a hamstring injury during training camp that will cause him to start the year on Injured Reserve and could be serious enough to keep him out longer than the mandatory four games. Tyson's hamstring issue is made a bit more concerning by the fact that he also suffered two separate hamstring injuries that caused him to miss time during his final collegiate season at Arizona State. Even when he is eventually cleared to return, it could take Tyson a while to be fully integrated into the New Orleans offense. The young wideout remains a high-upside prospect in dynasty formats, but his redraft value is highly questionable ahead of 2026.",
+      "metadata": {
+        "description": "After being selected eighth overall in the 2026 NFL Draft, New Orleans Saints wide receiver Jordyn Tyson (hamstring) was initially expected to play a significant role in his team's offense as a rookie. However, the 22-year-old suffered a hamstring injury during training camp that will cause him to start the year on Injured Reserve and could be serious enough to keep him out longer than the mandatory four games. Tyson's hamstring issue is made a bit more concerning by the fact that he also suffered two separate hamstring injuries that caused him to miss time during his final collegiate season at Arizona State. Even when he is eventually cleared to return, it could take Tyson a while to be fully integrated into the New Orleans offense. The young wideout remains a high-upside prospect in dynasty formats, but his redraft value is highly questionable ahead of 2026.",
+        "title": "Jordyn Tyson's Redraft Value Fading Amidst Injury Concerns",
+        "topic_id": "1401799375671279616",
+        "url": "https://www.rotoballer.com/player-news/jordyn-tysons-redraft-value-fading-amidst-injury-concerns/1923666"
+      },
+      "nfl_team": "NO",
+      "player_id": "13281",
+      "player_name": "Jordyn Tyson",
+      "position": "WR",
+      "published": 1788562810000,
+      "source": "rotoballer",
+      "source_key": "220121",
+      "story_id": "nfl|13281|rotoballer|220121|1788562810000",
+      "title": "Jordyn Tyson's Redraft Value Fading Amidst Injury Concerns",
+      "url": "https://www.rotoballer.com/player-news/jordyn-tysons-redraft-value-fading-amidst-injury-concerns/1923666"
+    },
     {
       "analysis": "LaPorta was rested in the team's exhibition opener, but a hip injury suffered in practice kept him on the sideline for the final two preseason games. He was able to return to drills as of Aug. 25, but it's unclear if he's put the issue behind him. LaPorta is entering the final year of his rookie contract, so he has every incentive to be as healthy as possible for a Week 1 matchup with the Saints on Sunday, Sept. 13.",
       "description": "LaPorta (hip) didn't play in any of the Lions' preseason contests.",
@@ -38,7 +79,7 @@
       "description": "Across 16 games as a rookie in 2025, Chicago Bears tight end Colston Loveland recorded 58 catches for 713 yards and six touchdowns on 82 targets. The 22-year-old got off to a bit of a slow start, failing to record more than three catches or 38 receiving yards in any of his first six games as a pro. However, Loveland finished the year on a tear. Across his final four games of the year (including the playoffs), Loveland recorded 28 catches for 378 yards and two touchdowns on 38 targets. Entering 2026, Loveland looks poised for an even larger role in Chicago's passing game following the team's offseason trade of veteran wide receiver DJ Moore to the Buffalo Bills. Bears wideout Luther Burden III (groin) also missed significant time this summer with a groin injury, which could lead to him facing a reduced workload to begin the year. Loveland's value in drafts is soaring, but he carries high-end fantasy TE1 upside into his second NFL season.",
       "metadata": {
         "description": "Across 16 games as a rookie in 2025, Chicago Bears tight end Colston Loveland recorded 58 catches for 713 yards and six touchdowns on 82 targets. The 22-year-old got off to a bit of a slow start, failing to record more than three catches or 38 receiving yards in any of his first six games as a pro. However, Loveland finished the year on a tear. Across his final four games of the year (including the playoffs), Loveland recorded 28 catches for 378 yards and two touchdowns on 38 targets. Entering 2026, Loveland looks poised for an even larger role in Chicago's passing game following the team's offseason trade of veteran wide receiver DJ Moore to the Buffalo Bills. Bears wideout Luther Burden III (groin) also missed significant time this summer with a groin injury, which could lead to him facing a reduced workload to begin the year. Loveland's value in drafts is soaring, but he carries high-end fantasy TE1 upside into his second NFL season.",
-        "title": "Colston Loveland Poised for High-End TE1 Season Following Dominant Close to 2025?",
+        "title": "Colston Loveland Poised for High-End TE1 Season in Year 2",
         "topic_id": "1401796859386683392",
         "url": "https://www.rotoballer.com/player-news/colston-loveland-poised-for-high-end-te1-season-following-dominant-close-to-2025/1923659"
       },
@@ -50,7 +91,7 @@
       "source": "rotoballer",
       "source_key": "220120",
       "story_id": "nfl|12517|rotoballer|220120|1788562027000",
-      "title": "Colston Loveland Poised for High-End TE1 Season Following Dominant Close to 2025?",
+      "title": "Colston Loveland Poised for High-End TE1 Season in Year 2",
       "url": "https://www.rotoballer.com/player-news/colston-loveland-poised-for-high-end-te1-season-following-dominant-close-to-2025/1923659"
     },
     {
