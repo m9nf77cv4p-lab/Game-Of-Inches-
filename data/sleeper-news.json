@@ -1,9 +1,12 @@
 {
-  "last_checked_at": "2026-09-05T04:05:55Z",
+  "last_checked_at": "2026-09-05T04:21:29Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|2449|rotoballer|220125|1788565926000"
+    "nfl|13294|rotoballer|220127|1788567005000",
+    "nfl|6806|fantasy_pros|605956|1788582015573",
+    "nfl|8132|rotoballer|220126|1788566526000",
+    "nfl|9487|fantasy_pros|605955|1788582015588"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +16,48 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Gladstone said the team would not hesitate to carry contract discussions into the regular season as they aim to finalize a deal with their breakout wideout. Washington had 58 receptions for 847 yards and five touchdowns last season and carries an expert consensus ranking of WR29, according to FantasPros, into his fourth NFL season.",
+      "description": "The Jacksonville Jaguars are \"not going to stop talking\" to wide receiver Parker Washington as both sides iron out a potential contract extension, says general manager James Gladstone.",
+      "metadata": {
+        "analysis": "Gladstone said the team would not hesitate to carry contract discussions into the regular season as they aim to finalize a deal with their breakout wideout. Washington had 58 receptions for 847 yards and five touchdowns last season and carries an expert consensus ranking of WR29, according to FantasPros, into his fourth NFL season.",
+        "description": "The Jacksonville Jaguars are \"not going to stop talking\" to wide receiver Parker Washington as both sides iron out a potential contract extension, says general manager James Gladstone.",
+        "title": "Parker Washington, Jaguars remain in contract talks",
+        "topic_id": "1401818212072443904",
+        "url": "https://www.fantasypros.com/nfl/news/605955/parker-washington-jaguars-remain-contract-talks.php"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9487",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "published": 1788582015588,
+      "source": "fantasy_pros",
+      "source_key": "605955",
+      "story_id": "nfl|9487|fantasy_pros|605955|1788582015588",
+      "title": "Parker Washington, Jaguars remain in contract talks",
+      "url": "https://www.fantasypros.com/nfl/news/605955/parker-washington-jaguars-remain-contract-talks.php"
+    },
+    {
+      "analysis": "Dobbins was very successful in 2025 when he was healthy, averaging 5.0 yards per carry and rushing for 772 yards in 10 games. RJ Harvey and rookie Jonah Coleman will have roles, a regular trait for head coach Sean Payton's offenses. Due to injury risk and a congested backfield, Dobbins has a deflated ADP price as the half-PPR RB34, according to FantasyPros.",
+      "description": "Running back J.K. Dobbins will \"for sure\" be the Denver Broncos' lead back this season, with three players set to have roles in the backfield, according to Zac Stevens of DNVR Sports.",
+      "metadata": {
+        "analysis": "Dobbins was very successful in 2025 when he was healthy, averaging 5.0 yards per carry and rushing for 772 yards in 10 games. RJ Harvey and rookie Jonah Coleman will have roles, a regular trait for head coach Sean Payton's offenses. Due to injury risk and a congested backfield, Dobbins has a deflated ADP price as the half-PPR RB34, according to FantasyPros.",
+        "description": "Running back J.K. Dobbins will \"for sure\" be the Denver Broncos' lead back this season, with three players set to have roles in the backfield, according to Zac Stevens of DNVR Sports.",
+        "title": "J.K. Dobbins will maintain Denver's RB1 role in 2026",
+        "topic_id": "1401818212022112256",
+        "url": "https://www.fantasypros.com/nfl/news/605956/jk-dobbins-will-maintain-denvers-rb1-role-2026.php"
+      },
+      "nfl_team": "DEN",
+      "player_id": "6806",
+      "player_name": "J.K. Dobbins",
+      "position": "RB",
+      "published": 1788582015573,
+      "source": "fantasy_pros",
+      "source_key": "605956",
+      "story_id": "nfl|6806|fantasy_pros|605956|1788582015573",
+      "title": "J.K. Dobbins will maintain Denver's RB1 role in 2026",
+      "url": "https://www.fantasypros.com/nfl/news/605956/jk-dobbins-will-maintain-denvers-rb1-role-2026.php"
+    },
     {
       "analysis": "Nearly every team has named its starter for Week 1, but Atlanta has not formally announced its QB1. According to Ian Rapoport, Tagovailoa could have a \"short leash\" if named the starter as Atlanta waits for Penix to get healthy. Ideally, the Falcons hoped Tagovailoa would prove himself to be a steady, veteran presence, but Atlanta finds itself in limbo under center.",
       "description": "The Atlanta Falcons could name their starting quarterback, between Tua Tagovailoa and Michael Penix Jr., as early as Monday, Sept. 7, ahead of Week 1.",
@@ -33,6 +78,46 @@
       "story_id": "nfl|6768|fantasy_pros|605953|1788579615247",
       "title": "Tua Tagovailoa: Falcons could name starting QB soon",
       "url": "https://www.fantasypros.com/nfl/news/605953/tua-tagovailoa-falcons-could-name-starting-qb-soon.php"
+    },
+    {
+      "analysis": null,
+      "description": "\"Expectations should be tempered early\" for Philadelphia Eagles wide receiver Makai Lemon, according to Tim McManus of ESPN.com. Lemon entered the league with plenty of upside, fueled by his first-round draft capital. However, some of that excitement faded away after he struggled in the preseason, catching just three passes for three yards. He also missed a portion of training camp due to a hamstring injury. The rookie noted that he needs to be more professional about how he conducts himself off the field in regard to proactively avoiding injuries, and the coaching staff followed that up by encouraging him to learn from experienced receiver DeVonta Smith. The rookie's slow summer will likely result in a slow start to the regular season, so he's unlikely to make a big impression right away. Instead, he's more of a developmental option in fantasy leagues, especially after falling to No. 3 on the depth chart behind Smith and Dontayvion Wicks. Currently, he has an ADP of 106.4 in redraft leagues; that corresponds to the ninth round of fantasy drafts, which feels like a bit of a reach given the latest chatter from Philly-based media.",
+      "metadata": {
+        "description": "\"Expectations should be tempered early\" for Philadelphia Eagles wide receiver Makai Lemon, according to Tim McManus of ESPN.com. Lemon entered the league with plenty of upside, fueled by his first-round draft capital. However, some of that excitement faded away after he struggled in the preseason, catching just three passes for three yards. He also missed a portion of training camp due to a hamstring injury. The rookie noted that he needs to be more professional about how he conducts himself off the field in regard to proactively avoiding injuries, and the coaching staff followed that up by encouraging him to learn from experienced receiver DeVonta Smith. The rookie's slow summer will likely result in a slow start to the regular season, so he's unlikely to make a big impression right away. Instead, he's more of a developmental option in fantasy leagues, especially after falling to No. 3 on the depth chart behind Smith and Dontayvion Wicks. Currently, he has an ADP of 106.4 in redraft leagues; that corresponds to the ninth round of fantasy drafts, which feels like a bit of a reach given the latest chatter from Philly-based media.",
+        "title": "Beat Writer Warns Fantasy Managers to Temper Expectations for Makai Lemon",
+        "topic_id": "1401816946139209728",
+        "url": "https://www.rotoballer.com/player-news/beat-writer-warns-fantasy-managers-to-temper-expectations-for-makai-lemon/1923686"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13294",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "published": 1788567005000,
+      "source": "rotoballer",
+      "source_key": "220127",
+      "story_id": "nfl|13294|rotoballer|220127|1788567005000",
+      "title": "Beat Writer Warns Fantasy Managers to Temper Expectations for Makai Lemon",
+      "url": "https://www.rotoballer.com/player-news/beat-writer-warns-fantasy-managers-to-temper-expectations-for-makai-lemon/1923686"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back Tyler Allgeier should take on a larger role early in the season, making him a very appealing late-round target for fantasy managers in 2026. Rookie Jeremiyah Love (ankle) is at risk of missing a few weeks and James Conner (foot) will open the year on injured reserve, leaving Allgeier in line to start at running back in Week 1. The ex-Falcons ball-carrier has a track record of producing on the ground and through the air, giving him upside in all league formats, from standard to full-PPR. Over the course of the full season, he ranks as RotoBaller's overall RB48. However, for Week 1, he should break into the top-25 range. Managers looking for him to step into the RB3/flex role in their lineup can currently get him at an ADP of 140.7 (RB44) in fantasy drafts.",
+      "metadata": {
+        "description": "Arizona Cardinals running back Tyler Allgeier should take on a larger role early in the season, making him a very appealing late-round target for fantasy managers in 2026. Rookie Jeremiyah Love (ankle) is at risk of missing a few weeks and James Conner (foot) will open the year on injured reserve, leaving Allgeier in line to start at running back in Week 1. The ex-Falcons ball-carrier has a track record of producing on the ground and through the air, giving him upside in all league formats, from standard to full-PPR. Over the course of the full season, he ranks as RotoBaller's overall RB48. However, for Week 1, he should break into the top-25 range. Managers looking for him to step into the RB3/flex role in their lineup can currently get him at an ADP of 140.7 (RB44) in fantasy drafts.",
+        "title": "Tyler Allgeier a Top Running Back Target in the Later Rounds",
+        "topic_id": "1401815688103882752",
+        "url": "https://www.rotoballer.com/player-news/tyler-allgeier-a-top-running-back-target-in-the-later-rounds/1923684"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8132",
+      "player_name": "Tyler Allgeier",
+      "position": "RB",
+      "published": 1788566526000,
+      "source": "rotoballer",
+      "source_key": "220126",
+      "story_id": "nfl|8132|rotoballer|220126|1788566526000",
+      "title": "Tyler Allgeier a Top Running Back Target in the Later Rounds",
+      "url": "https://www.rotoballer.com/player-news/tyler-allgeier-a-top-running-back-target-in-the-later-rounds/1923684"
     },
     {
       "analysis": null,

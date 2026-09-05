@@ -2,15 +2,25 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1946**
-- Newly captured: **1**
+- Stored stories: **1950**
+- Newly captured: **4**
 
 ## Latest news
 
+- **NEW — Parker Washington** — Parker Washington, Jaguars remain in contract talks (2026-09-05T04:20:15.588000Z)
+  - Gladstone said the team would not hesitate to carry contract discussions into the regular season as they aim to finalize a deal with their breakout wideout. Washington had 58 receptions for 847 yards and five touchdowns last season and carries an expert consensus ranking of WR29, according to FantasPros, into his fourth NFL season.
+  - Source: https://www.fantasypros.com/nfl/news/605955/parker-washington-jaguars-remain-contract-talks.php
+- **NEW — J.K. Dobbins** — J.K. Dobbins will maintain Denver's RB1 role in 2026 (2026-09-05T04:20:15.573000Z)
+  - Dobbins was very successful in 2025 when he was healthy, averaging 5.0 yards per carry and rushing for 772 yards in 10 games. RJ Harvey and rookie Jonah Coleman will have roles, a regular trait for head coach Sean Payton's offenses. Due to injury risk and a congested backfield, Dobbins has a deflated ADP price as the half-PPR RB34, according to FantasyPros.
+  - Source: https://www.fantasypros.com/nfl/news/605956/jk-dobbins-will-maintain-denvers-rb1-role-2026.php
 - **Tua Tagovailoa** — Tua Tagovailoa: Falcons could name starting QB soon (2026-09-05T03:40:15.247000Z)
   - Nearly every team has named its starter for Week 1, but Atlanta has not formally announced its QB1. According to Ian Rapoport, Tagovailoa could have a "short leash" if named the starter as Atlanta waits for Penix to get healthy. Ideally, the Falcons hoped Tagovailoa would prove himself to be a steady, veteran presence, but Atlanta finds itself in limbo under center.
   - Source: https://www.fantasypros.com/nfl/news/605953/tua-tagovailoa-falcons-could-name-starting-qb-soon.php
-- **NEW — Stefon Diggs** — Stefon Diggs Set for High-Volume Role in Washington (2026-09-04T23:52:06Z)
+- **NEW — Makai Lemon** — Beat Writer Warns Fantasy Managers to Temper Expectations for Makai Lemon (2026-09-05T00:10:05Z)
+  - Source: https://www.rotoballer.com/player-news/beat-writer-warns-fantasy-managers-to-temper-expectations-for-makai-lemon/1923686
+- **NEW — Tyler Allgeier** — Tyler Allgeier a Top Running Back Target in the Later Rounds (2026-09-05T00:02:06Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-allgeier-a-top-running-back-target-in-the-later-rounds/1923684
+- **Stefon Diggs** — Stefon Diggs Set for High-Volume Role in Washington (2026-09-04T23:52:06Z)
   - Source: https://www.rotoballer.com/player-news/stefon-diggs-set-for-high-volume-role-in-washington/1923681
 - **Jahmyr Gibbs** — Jahmyr Gibbs the Consensus 1.01 in Fantasy Drafts (2026-09-04T23:26:26Z)
   - Source: https://www.rotoballer.com/player-news/jahmyr-gibbs-the-consensus-1-01-in-fantasy-drafts/1923678
@@ -203,11 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Coleman was selected in the fourth round of April's draft after completing his four-year college career with a 2025 campaign with Washington during which he compiled 758 rushing yards and 15 touchdowns on 156 carries over 12 contests. He also added 31 catches for 354 yards and two scores during his senior season. The Huskies played with an up-tempo style, so Coleman was on the field for all downs, resulting in him becoming a capable receiver and pass blocker. The running back is considered a more physical back than RJ Harvey, who is also set to serve as reserve option behind Dobbins this season, and as a result, Coleman could be ticketed to serve more frequently as a direct replacement for Dobbins.
 - **Pat Bryant** — Pat Bryant - Poised to operate as top depth option (2026-09-04T00:53:42Z)
   - Bryant reeled in 31 of 49 targets for 378 yards and a touchdown over 15 regular-season contests in his rookie campaign with Denver in 2025. The 23-year-old possesses a 6-foot-2, 200-plus pound frame, and he's on track to operate as the immediate backup behind Courtland Sutton as a boundary receiver with Denver this season. Bryant has already impressed with his physicality at his position, and he could earn more opportunities in his first campaign with new playcaller Davis Webb.
-- **Geno Smith** — Geno Smith - Voted team captain (2026-09-04T00:45:54Z)
-  - It's been nearly 10 years since Smith last took a snap for the Jets, but after revitalizing his career with the Seahawks and Raiders over the last four seasons, he's back in New York as a grizzled vet with age (34) and experience on his side. Smith recorded at least 3,000 yards and 19 touchdowns through the air in each of those four campaigns, but he also tossed 52 interceptions in 64 regular-season games during that span. Picks are often an issue for Smith, but he at least will have a nice skill-position group of RB Breece Hall (groin), WRs Garrett Wilson, Adonai Mitchell and Omar Cooper and TEs Mason Taylor and Kenyon Sadiq (abdomen) to throw to in 2026.
-- **D'Andre Swift** — D'Andre Swift - Believed to be dealing with cramp (2026-09-04T00:32:02Z)
-  - Swift was reportedly "in significant discomfort" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will carry an injury designation for the time being, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injury report, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.
-- **Jalen Coker** — Jalen Coker - Listed as starting WR (2026-09-04T00:03:24Z)
-  - Despite going undrafted in 2024, Coker has made his presence felt through two pro campaigns, resulting in 65 catches (on 89 targets) for 872 yards and five touchdowns in 22 regular-season games. His defining moment of sorts occurred the last time he was on the field for a contest that counts, when he torched the Rams for 9-134-1 on 12 targets in a wild-card loss. Coker will continue to operate as a complementary option to No. 1 WR Tetairoa McMillan for QB Bryce Young in 2026.
-- **Jayden Reed** — Jayden Reed Set for Larger Role Amid Improved Health (2026-09-04T00:02:07Z)
-  - Source: https://www.rotoballer.com/player-news/jayden-reed-set-for-larger-role-amid-improved-health/1922987
