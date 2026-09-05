@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1953**
+- Stored stories: **1954**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Carnell Tate** — Carnell Tate Should See Heavy Usage as a Rookie (2026-09-05T09:35:50Z)
+- **NEW — CeeDee Lamb** — CeeDee Lamb a Faller in Drafts Amidst Target Share Questions in Dallas (2026-09-05T09:47:06Z)
+  - Source: https://www.rotoballer.com/player-news/ceedee-lamb-a-faller-in-drafts-amidst-target-share-questions-in-dallas/1923815
+- **Carnell Tate** — Carnell Tate Should See Heavy Usage as a Rookie (2026-09-05T09:35:50Z)
   - Source: https://www.rotoballer.com/player-news/carnell-tate-should-see-heavy-usage-as-a-rookie/1923811
 - **Luther Burden** — Luther Burden III Poised for Breakout Season Amidst Improving Health Outlook? (2026-09-05T09:29:05Z)
   - Source: https://www.rotoballer.com/player-news/luther-burden-iii-poised-for-breakout-season-amidst-improving-health-outlook/1923801
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Rodgers didn't suit up in the preseason, and coach Mike McCarthy tied his decision to do so to the fact that Metcalf and Pittman weren't healthy enough to play. Even if one or both of Metcalf and Pittman aren't available for the regular-season opener, Rodgers wouldn't be a consideration to be inactive, but it appears the duo will be able to suit up, barring any setbacks in the meantime. Rodgers led a Steelers offense in 2025 that didn't have much talent at WR aside from Metcalf, but the quarterback still completed 65.7 percent of his passes for 3,322 yards, 24 touchdowns and seven interceptions in 16 regular-season games.
 - **Brenton Strange** — Brenton Strange - In line to start Week 1 (2026-09-04T03:51:28Z)
   - Strange inked a three-year extension with Jacksonville back in June, and in the wake of roster cuts, rookie second-round pick Nate Boerkircher, rookie fifth-rounder Tanner Koziol and fifth-year pro Quintin Morris are the other TEs on the roster. As a result, Strange is the likeliest member of the group, barring health concerns, to end the campaign as the leader in offensive snaps. He's also coming off a 2025 season in which he posted a 46-540-3 line on 60 targets across 12 regular-season games.
-- **Chris Rodriguez** — Chris Rodriguez - Healthy ahead of Week 1 (2026-09-04T03:41:23Z)
-  - Allen is the only one of the quartet whose status for Week 1 appears to be up in the air, but Rodriguez nonetheless is poised for a regular role in Jacksonville's offense. What kind of workload that entails remains to be seen, but Tuten is Rodriguez's primary competitor for touches. At least when it comes to short-yardage and goal-line usage, the more imposing Rodriguez likely will handle those after earning 33 carries inside the 20-yard line last season for the Commanders. The Jaguars' season opener against the Browns on Sunday, Sept. 13 ultimately will provide insight into what to expect from the duo.
