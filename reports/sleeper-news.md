@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1982**
+- Stored stories: **1983**
 - Newly captured: **1**
 
 ## Latest news
@@ -10,7 +10,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) not practicing Saturday (2026-09-05T19:20:25.559000Z)
   - Henderson has not practiced since August 24th, not a great sign for his availability come game time. The Patriots play the Seahawks on Wednesday, rather than a Thursday, giving Henderson one less day to get healthy. The Patriots first injury report comes out later today.
   - Source: https://www.fantasypros.com/nfl/news/606042/treveyon-henderson-ankle-not-practicing-saturday.php
-- **NEW — Keon Coleman** — Keon Coleman's Stock Falling After Injury During Camp (2026-09-05T18:20:06Z)
+- **NEW — Aaron Rodgers** — Aaron Rodgers Holds Deep-League Appeal with Improved Supporting Cast (2026-09-05T18:45:06Z)
+  - Source: https://www.rotoballer.com/player-news/aaron-rodgers-holds-deep-league-appeal-with-improved-supporting-cast/1924229
+- **Keon Coleman** — Keon Coleman's Stock Falling After Injury During Camp (2026-09-05T18:20:06Z)
   - Source: https://www.rotoballer.com/player-news/keon-colemans-stock-falling-after-injury-during-camp/1924224
 - **Jack Bech** — Jack Bech Set for a Starting Role in Second Season (2026-09-05T18:14:05Z)
   - Source: https://www.rotoballer.com/player-news/jack-bech-set-for-a-starting-role-in-second-season/1924222
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jalen-nailors-opportunity-makes-him-a-late-round-sleeper/1923414
 - **Tyler Shough** — Tyler Shough Offers Real Late-Round QB Upside (2026-09-04T15:27:06Z)
   - Source: https://www.rotoballer.com/player-news/tyler-shough-offers-real-late-round-qb-upside/1923409
-- **Jaylen Wright** — Jaylen Wright - Listed as RB2 behind Achane (2026-09-04T15:26:59Z)
-  - The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special-teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.

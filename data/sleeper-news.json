@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T22:32:29Z",
+  "last_checked_at": "2026-09-05T23:03:31Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11637|rotoballer|220168|1788632406000"
+    "nfl|96|rotoballer|220169|1788633906000"
   ],
   "schema_version": 1,
   "source": {
@@ -33,6 +33,26 @@
       "story_id": "nfl|12529|fantasy_pros|606042|1788636025559",
       "title": "TreVeyon Henderson (ankle) not practicing Saturday",
       "url": "https://www.fantasypros.com/nfl/news/606042/treveyon-henderson-ankle-not-practicing-saturday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers quarterback Aaron Rodgers has emerged as a viable fantasy option in deeper leagues this season. Rodgers lacks true rushing upside, and he's certainly past his peak even as a passer. After all, he has confirmed that the 2026 season will be his last. Nevertheless, he continues to hold deep-league appeal, given the Steelers' improved wide receiver room. Pittsburgh made a diligent effort to improve its pass-catching unit this offseason, acquiring Michael Pittman Jr. from the Indianapolis Colts. Pittman is coming off a WR18 finish, fueled by 80 catches and seven touchdowns. The unit also features DK Metcalf, who is back for his second year in Pittsburgh after catching 59 passes for 850 yards and six touchdowns in 2025. Beyond the receiver room, Rodgers should also get support in the passing game from Jaylen Warren and Pat Freiermuth. As it stands, the veteran quarterback ranks as the QB27 in RotoBaller's latest redraft rankings. He currently has an ADP of 218.7, which means he'll be available on the waiver wire in many leagues.",
+      "metadata": {
+        "description": "Pittsburgh Steelers quarterback Aaron Rodgers has emerged as a viable fantasy option in deeper leagues this season. Rodgers lacks true rushing upside, and he's certainly past his peak even as a passer. After all, he has confirmed that the 2026 season will be his last. Nevertheless, he continues to hold deep-league appeal, given the Steelers' improved wide receiver room. Pittsburgh made a diligent effort to improve its pass-catching unit this offseason, acquiring Michael Pittman Jr. from the Indianapolis Colts. Pittman is coming off a WR18 finish, fueled by 80 catches and seven touchdowns. The unit also features DK Metcalf, who is back for his second year in Pittsburgh after catching 59 passes for 850 yards and six touchdowns in 2025. Beyond the receiver room, Rodgers should also get support in the passing game from Jaylen Warren and Pat Freiermuth. As it stands, the veteran quarterback ranks as the QB27 in RotoBaller's latest redraft rankings. He currently has an ADP of 218.7, which means he'll be available on the waiver wire in many leagues.",
+        "title": "Aaron Rodgers Holds Deep-League Appeal with Improved Supporting Cast",
+        "topic_id": "1402098850944045056",
+        "url": "https://www.rotoballer.com/player-news/aaron-rodgers-holds-deep-league-appeal-with-improved-supporting-cast/1924229"
+      },
+      "nfl_team": "PIT",
+      "player_id": "96",
+      "player_name": "Aaron Rodgers",
+      "position": "QB",
+      "published": 1788633906000,
+      "source": "rotoballer",
+      "source_key": "220169",
+      "story_id": "nfl|96|rotoballer|220169|1788633906000",
+      "title": "Aaron Rodgers Holds Deep-League Appeal with Improved Supporting Cast",
+      "url": "https://www.rotoballer.com/player-news/aaron-rodgers-holds-deep-league-appeal-with-improved-supporting-cast/1924229"
     },
     {
       "analysis": null,
