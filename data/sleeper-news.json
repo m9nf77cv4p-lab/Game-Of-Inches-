@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T23:17:53Z",
+  "last_checked_at": "2026-09-05T23:59:35Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|8126|rotoballer|220171|1788635406000"
+    "nfl|9487|rotoballer|220173|1788637692000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "ESPN's Jeremy Fowler reports that Jacksonville Jaguars wide receiver Parker Washington, who has had a tremendous training camp this summer after a strong 2025 season, is seeking a new contract with the team as he gets set to enter the final season of his rookie contract in 2026. Washington has developed excellent chemistry with quarterback Trevor Lawrence and has become his trusted safety valve, and because of that, he wants to be compensated accordingly. Washington and the Jaguars' front office have been in communication. There is a chance that something between the two sides gets done before Week 1 of the regular season, and the 24-year-old would prefer to get it done before then and not have talks linger into the regular season. Fowler adds that the Jaguars would be comfortable continuing talks into the season. Washington is likely comparing himself to Arizona Cardinals wideout Michael Wilson, who just got $25 million a year from the Cardinals in a new deal. After catching 58 of 95 targets for 847 yards and five touchdowns in 16 regular-season games in 2025, Washington is rising up fantasy draft boards this year as a WR3/flex with upside going into his fourth year in the NFL.",
+      "metadata": {
+        "description": "ESPN's Jeremy Fowler reports that Jacksonville Jaguars wide receiver Parker Washington, who has had a tremendous training camp this summer after a strong 2025 season, is seeking a new contract with the team as he gets set to enter the final season of his rookie contract in 2026. Washington has developed excellent chemistry with quarterback Trevor Lawrence and has become his trusted safety valve, and because of that, he wants to be compensated accordingly. Washington and the Jaguars' front office have been in communication. There is a chance that something between the two sides gets done before Week 1 of the regular season, and the 24-year-old would prefer to get it done before then and not have talks linger into the regular season. Fowler adds that the Jaguars would be comfortable continuing talks into the season. Washington is likely comparing himself to Arizona Cardinals wideout Michael Wilson, who just got $25 million a year from the Cardinals in a new deal. After catching 58 of 95 targets for 847 yards and five touchdowns in 16 regular-season games in 2025, Washington is rising up fantasy draft boards this year as a WR3/flex with upside going into his fourth year in the NFL.",
+        "title": "Parker Washington Seeking New Contract in Jacksonville",
+        "topic_id": "1402113952346861568",
+        "url": "https://www.rotoballer.com/player-news/parker-washington-seeking-new-contract-in-jacksonville/1924257"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9487",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "published": 1788637692000,
+      "source": "rotoballer",
+      "source_key": "220173",
+      "story_id": "nfl|9487|rotoballer|220173|1788637692000",
+      "title": "Parker Washington Seeking New Contract in Jacksonville",
+      "url": "https://www.rotoballer.com/player-news/parker-washington-seeking-new-contract-in-jacksonville/1924257"
+    },
     {
       "analysis": "Henderson has not practiced since August 24th, not a great sign for his availability come game time. The Patriots play the Seahawks on Wednesday, rather than a Thursday, giving Henderson one less day to get healthy. The Patriots first injury report comes out later today.",
       "description": "TreVeyon Henderson (ankle) was not practicing Saturday. ",
