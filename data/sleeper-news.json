@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T13:17:16Z",
+  "last_checked_at": "2026-09-05T13:29:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|8150|rotoballer|220128|1788599526000"
+    "nfl|9500|rotoballer|220129|1788600074000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Josh Downs had a down year in 2025, setting career lows in targets (88), receptions (58), and receiving yards (566). The offseason has been a roller coaster ride for his fantasy value, as Downs' stock appeared to be trending up following the Colts' trade of veteran star wideout Michael Pittman Jr. to the Pittsburgh Steelers. Then, Indianapolis signed veteran slot receiver Keenan Allen, throwing Downs' role in the team's offense back into question. Downs has also battled back and calf injuries this summer, limiting his availability for stretches of training camp. However, Downs has returned to practice and looks like he will be ready to go for the start of the regular season. The Colts wide receiver room outside of Downs also has questions, as Allen was recently arrested and charged with DUI, and top wideout Alec Pierce (ankle) has missed most of the summer while he recovers from ankle surgery. All in all, Downs profiles as a sleeper target in fantasy drafts ahead of what could be a resurgent season.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Josh Downs had a down year in 2025, setting career lows in targets (88), receptions (58), and receiving yards (566). The offseason has been a roller coaster ride for his fantasy value, as Downs' stock appeared to be trending up following the Colts' trade of veteran star wideout Michael Pittman Jr. to the Pittsburgh Steelers. Then, Indianapolis signed veteran slot receiver Keenan Allen, throwing Downs' role in the team's offense back into question. Downs has also battled back and calf injuries this summer, limiting his availability for stretches of training camp. However, Downs has returned to practice and looks like he will be ready to go for the start of the regular season. The Colts wide receiver room outside of Downs also has questions, as Allen was recently arrested and charged with DUI, and top wideout Alec Pierce (ankle) has missed most of the summer while he recovers from ankle surgery. All in all, Downs profiles as a sleeper target in fantasy drafts ahead of what could be a resurgent season.",
+        "title": "Josh Downs Looks Well-Positioned for a Resurgent Season in Indianapolis",
+        "topic_id": "1401955371685310464",
+        "url": "https://www.rotoballer.com/player-news/josh-downs-looks-well-positioned-for-a-resurgent-season-in-indianapolis/1923796"
+      },
+      "nfl_team": "IND",
+      "player_id": "9500",
+      "player_name": "Josh Downs",
+      "position": "WR",
+      "published": 1788600074000,
+      "source": "rotoballer",
+      "source_key": "220129",
+      "story_id": "nfl|9500|rotoballer|220129|1788600074000",
+      "title": "Josh Downs Looks Well-Positioned for a Resurgent Season in Indianapolis",
+      "url": "https://www.rotoballer.com/player-news/josh-downs-looks-well-positioned-for-a-resurgent-season-in-indianapolis/1923796"
+    },
     {
       "analysis": null,
       "description": "Los Angeles Rams running back Kyren Williams is coming off another highly productive season in 2025, recording 1,533 yards from scrimmage and 13 touchdowns on 295 touches across 17 games. Since 2023, Williams has recorded three consecutive seasons with at least 1,350 scrimmage yards and 13 scores. However, the emergence of fellow Rams back Blake Corum has led to questions around Williams' workload entering 2026. While sharing the backfield with Corum in 2025, Williams averaged just 17.4 touches per game after averaging 21.9 touches per game in 2024. Over the final eight games of the regular season, Williams recorded more than 13 carries just twice. Williams remains a borderline fantasy RB1 entering 2026, but his production upside may be limited as long as both he and Corum are healthy.",

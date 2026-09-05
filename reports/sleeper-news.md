@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1950**
+- Stored stories: **1951**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Kyren Williams** — Kyren Williams May Face Reduced Role in Rams Offense in 2026 (2026-09-05T09:12:06Z)
+- **NEW — Josh Downs** — Josh Downs Looks Well-Positioned for a Resurgent Season in Indianapolis (2026-09-05T09:21:14Z)
+  - Source: https://www.rotoballer.com/player-news/josh-downs-looks-well-positioned-for-a-resurgent-season-in-indianapolis/1923796
+- **Kyren Williams** — Kyren Williams May Face Reduced Role in Rams Offense in 2026 (2026-09-05T09:12:06Z)
   - Source: https://www.rotoballer.com/player-news/kyren-williams-may-face-reduced-role-in-rams-offense-in-2026/1923781
 - **Josh Jacobs** — Josh Jacobs has court appearance date moved up (2026-09-05T04:30:16.442000Z)
   - Jacobs was charged with battery and criminal destruction of property and is scheduled to appear at the Brown County courthouse on Sept. 10, multiple days before Green Bay's season opener against Minnesota. It is unclear how this will affect his return timeline; Jacobs is currently on the commissioner's exempt list, with a potential suspension looming.
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Not long after Washington sat out Jacksonville's exhibition opener on Aug. 15, Washington missed a week of practice due to an undisclosed injury before retaking the field during a joint session with the Buccaneers on Aug. 25, so his lack of in-game activity isn't much a surprise. After reeling off three 100-yard receiving efforts in his final four appearances, including playoffs, of the 2025 campaign, he entered the offseason on a high note and also considered the team's most sought-after WR in fantasy terms ahead of Brian Thomas, Jakobi Meyers (hand) and Travis Hunter.
 - **Omar Cooper** — Omar Cooper - Listed as second-teamer on depth chart (2026-09-04T02:48:12Z)
   - Cooper served as one of QB Fernando Mendoza's top targets at Indiana last season, finishing with a 69-937-13 line in 16 games. After turning in a 4.42 40 time at the combine, his prospect profile was enough for the Jets to use the 30th overall pick on him in the 2026 NFL Draft. Joining a receiving corps already boasting Garrett Wilson and Adonai Mitchell, Cooper wasn't destined for more than the No. 3 WR role in the offense, but he worked behind even Isaiah Williams in three-wide sets during training camp, and his current depth-chart slotting indicates he still has work to do to earn significant reps in New York's passing game.
-- **Courtland Sutton** — Courtland Sutton - Atop depth chart again in 2026 (2026-09-04T02:31:47Z)
-  - Sutton will look to make it three straight seasons with over 1,000 receiving yards as he once again operates as a top option in the wide receiver room with Denver. The Broncos traded for Jaylen Waddle in the offseason, and as a result, Sutton will likely see a reduction in targets, but his role as a top red-zone threat will remain.
