@@ -2,18 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1970**
-- Newly captured: **1**
+- Stored stories: **1972**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Sitting out of Saturday's practice (2026-09-05T18:01:37Z)
+  - Head coach Mike Vrabel suggested earlier Saturday that Henderson could return to practice, but the second-year running back will end up observing the session in street clothes as he continues to recover from an ankle injury. Henderson will have two more chances to return to practice in at least a limited capacity ahead of the Patriots' regular-season opener against the Seahawks on Wednesday.
 - **TreVeyon Henderson** — TreVeyon Henderson - Could practice Saturday (2026-09-05T17:17:01Z)
   - After missing recent practice time due to an ankle injury, Henderson appears to have at least a chance to get back on the field as New England begins a game-prep stretch ahead of Wednesday's regular-season opener against Seattle. The second-year running back would have to operate in at least a limited capacity over the coming days to have a realistic chance of playing in Week 1. If Henderson cannot play, then Rhamondre Stevenson would be in line for a significant boost in workload, and Corey Kiner would also be in the mix for some backfield touches.
 - **Puka Nacua** — Puka Nacua - Making progress in recovery (2026-09-05T15:52:28Z)
   - Nacua worked with trainers on the side at practice throughout the week, but McVay indicated things are moving in the right direction for Nacua and that he has been "hitting some high speed yards at a really good clip." Nacua's status for Thursday's season opener against the 49ers remains up in the air, but a better estimate at his availability will presumably be able to be made when the Rams release their first official injury report in advance of Week 1.
 - **Jacob Saylors** — Jacob Saylors - Earns trust of coaching staff (2026-09-05T14:24:30Z)
   - Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role in the offense behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.
-- **NEW — Andrei Iosivas** — Andrei Iosivas Has Less Room for Error This Year (2026-09-05T13:40:05Z)
+- **NEW — Brenton Strange** — Brenton Strange May Have a Hard Time Taking the Next Step (2026-09-05T14:05:05Z)
+  - Source: https://www.rotoballer.com/player-news/brenton-strange-may-have-a-hard-time-taking-the-next-step/1924023
+- **Andrei Iosivas** — Andrei Iosivas Has Less Room for Error This Year (2026-09-05T13:40:05Z)
   - Source: https://www.rotoballer.com/player-news/andrei-iosivas-has-less-room-for-error-this-year/1923999
 - **Deshaun Watson** — Deshaun Watson's Starting Job Doesn't Erase Preseason Concerns (2026-09-05T13:29:05Z)
   - Source: https://www.rotoballer.com/player-news/deshaun-watsons-starting-job-doesnt-erase-preseason-concerns/1923988
@@ -210,7 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tank-dell-restructures-his-deal-with-houston/1923270
 - **Jaylen Waddle** — Jaylen Waddle's First Denver Summer Raises Expectations (2026-09-04T11:58:12Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-waddles-first-denver-summer-raises-expectations/1923264
-- **Kyler Murray** — Kyler Murray Lands in a Great Spot for a Bounce-Back (2026-09-04T11:49:39Z)
-  - Source: https://www.rotoballer.com/player-news/kyler-murray-lands-in-a-great-spot-for-a-bounce-back/1923253
-- **Drake London** — Drake London's Volume Keeps Him in the WR1 Mix (2026-09-04T11:42:42Z)
-  - Source: https://www.rotoballer.com/player-news/drake-londons-volume-keeps-him-in-the-wr1-mix/1923246
