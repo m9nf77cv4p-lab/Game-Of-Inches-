@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1966**
-- Newly captured: **0**
+- Stored stories: **1967**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -11,6 +11,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Nacua worked with trainers on the side at practice throughout the week, but McVay indicated things are moving in the right direction for Nacua and that he has been "hitting some high speed yards at a really good clip." Nacua's status for Thursday's season opener against the 49ers remains up in the air, but a better estimate at his availability will presumably be able to be made when the Rams release their first official injury report in advance of Week 1.
 - **Jacob Saylors** — Jacob Saylors - Earns trust of coaching staff (2026-09-05T14:24:30Z)
   - Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role in the offense behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.
+- **NEW — Elijah Arroyo** — Elijah Arroyo Pushing for a Bigger Role After Strong Summer (2026-09-05T13:07:06Z)
+  - Source: https://www.rotoballer.com/player-news/elijah-arroyo-pushing-for-a-bigger-role-after-strong-summer/1923954
 - **Jacob Saylors** — Jacob Saylors has Earned the Trust of the Coaching Staff (2026-09-05T12:33:15Z)
   - Source: https://www.rotoballer.com/player-news/jacob-saylors-has-earned-the-trust-of-the-coaching-staff/1923935
 - **Puka Nacua** — Puka Nacua "Making Good Progress" (2026-09-05T12:24:05Z)
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jordan-love-could-see-his-passing-volume-climb/1923237
 - **Travis Etienne** — Travis Etienne Jr. Could Open the Year With a Heavy Workload (2026-09-04T11:16:06Z)
   - Source: https://www.rotoballer.com/player-news/travis-etienne-jr-could-open-the-year-with-a-heavy-workload/1923228
-- **Javonte Williams** — Javonte Williams Slated for Every-Down Role (2026-09-04T11:14:05Z)
-  - Source: https://www.rotoballer.com/player-news/javonte-williams-slated-for-every-down-role-with-no-competition-in-backfield/1923224

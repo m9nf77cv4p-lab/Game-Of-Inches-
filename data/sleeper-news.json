@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-05T17:05:03Z",
+  "last_checked_at": "2026-09-05T17:18:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|12521|rotoballer|220146|1788613626000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -50,6 +52,26 @@
       "story_id": "nfl|11237|rotowire|636294|1788618270000",
       "title": "Jacob Saylors - Earns trust of coaching staff",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks tight end Elijah Arroyo gave the team plenty to think about with one of the better summers on the roster. His rookie season was quiet, with 15 catches for 179 yards and one touchdown in 13 games before a knee injury sent him to injured reserve in December. He returned for Seattle's Super Bowl run, then spent this camp looking much more like the receiving threat the Seahawks drafted 50th overall in 2025. Arroyo stacked strong practices early in August and carried that into the preseason, catching four passes for 86 yards and a touchdown on just four receptions. The biggest play was a 36-yard score against Tennessee, and Seattle's own roster review called him a potential breakout candidate after final cuts. AJ Barner still leads the tight end room, so Arroyo isn't walking into a featured role. But with former tight ends coach Brian Fleury now coordinating the offense, there should be room for multiple tight ends to matter. Arroyo has done enough to push for more work and is worth tracking in deeper leagues.",
+      "metadata": {
+        "description": "Seattle Seahawks tight end Elijah Arroyo gave the team plenty to think about with one of the better summers on the roster. His rookie season was quiet, with 15 catches for 179 yards and one touchdown in 13 games before a knee injury sent him to injured reserve in December. He returned for Seattle's Super Bowl run, then spent this camp looking much more like the receiving threat the Seahawks drafted 50th overall in 2025. Arroyo stacked strong practices early in August and carried that into the preseason, catching four passes for 86 yards and a touchdown on just four receptions. The biggest play was a 36-yard score against Tennessee, and Seattle's own roster review called him a potential breakout candidate after final cuts. AJ Barner still leads the tight end room, so Arroyo isn't walking into a featured role. But with former tight ends coach Brian Fleury now coordinating the offense, there should be room for multiple tight ends to matter. Arroyo has done enough to push for more work and is worth tracking in deeper leagues.",
+        "title": "Elijah Arroyo Pushing for a Bigger Role After Strong Summer",
+        "topic_id": "1402011999860240384",
+        "url": "https://www.rotoballer.com/player-news/elijah-arroyo-pushing-for-a-bigger-role-after-strong-summer/1923954"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12521",
+      "player_name": "Elijah Arroyo",
+      "position": "TE",
+      "published": 1788613626000,
+      "source": "rotoballer",
+      "source_key": "220146",
+      "story_id": "nfl|12521|rotoballer|220146|1788613626000",
+      "title": "Elijah Arroyo Pushing for a Bigger Role After Strong Summer",
+      "url": "https://www.rotoballer.com/player-news/elijah-arroyo-pushing-for-a-bigger-role-after-strong-summer/1923954"
     },
     {
       "analysis": null,
