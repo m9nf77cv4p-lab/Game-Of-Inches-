@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T17:40:45Z",
+  "last_checked_at": "2026-09-05T17:50:52Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4017|rotoballer|220148|1788614945000"
+    "nfl|10226|rotoballer|220149|1788615605000"
   ],
   "schema_version": 1,
   "source": {
@@ -72,6 +72,26 @@
       "story_id": "nfl|11237|rotowire|636294|1788618270000",
       "title": "Jacob Saylors - Earns trust of coaching staff",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals wide receiver Andrei Iosivas is still holding onto the No. 3 job, but the players behind him made that spot feel a little less comfortable this summer. Iosivas caught 33 passes for 435 yards and two touchdowns last season, numbers that already left him well outside the weekly fantasy picture behind Ja'Marr Chase and Tee Higgins. He had a good camp himself, and Cincinnati's current depth chart still lists him with the first-team offense. The concern is what happened behind him. Fourth-round rookie Colbie Young kept making plays downfield and scored in the preseason, while Dohnte Meyers finished August with a team-high 11 catches for 121 yards and repeatedly stood out in practice. Bengals coaches have continued to point to Iosivas' experience as an advantage, so this is not a case of him losing the job. It is a case of the margin getting thinner. With Chase and Higgins already soaking up most of the useful volume, even a small reduction in snaps would make Iosivas tougher to justify outside of deeper leagues.",
+      "metadata": {
+        "description": "Cincinnati Bengals wide receiver Andrei Iosivas is still holding onto the No. 3 job, but the players behind him made that spot feel a little less comfortable this summer. Iosivas caught 33 passes for 435 yards and two touchdowns last season, numbers that already left him well outside the weekly fantasy picture behind Ja'Marr Chase and Tee Higgins. He had a good camp himself, and Cincinnati's current depth chart still lists him with the first-team offense. The concern is what happened behind him. Fourth-round rookie Colbie Young kept making plays downfield and scored in the preseason, while Dohnte Meyers finished August with a team-high 11 catches for 121 yards and repeatedly stood out in practice. Bengals coaches have continued to point to Iosivas' experience as an advantage, so this is not a case of him losing the job. It is a case of the margin getting thinner. With Chase and Higgins already soaking up most of the useful volume, even a small reduction in snaps would make Iosivas tougher to justify outside of deeper leagues.",
+        "title": "Andrei Iosivas Has Less Room for Error This Year",
+        "topic_id": "1402020809056194560",
+        "url": "https://www.rotoballer.com/player-news/andrei-iosivas-has-less-room-for-error-this-year/1923999"
+      },
+      "nfl_team": "CIN",
+      "player_id": "10226",
+      "player_name": "Andrei Iosivas",
+      "position": "WR",
+      "published": 1788615605000,
+      "source": "rotoballer",
+      "source_key": "220149",
+      "story_id": "nfl|10226|rotoballer|220149|1788615605000",
+      "title": "Andrei Iosivas Has Less Room for Error This Year",
+      "url": "https://www.rotoballer.com/player-news/andrei-iosivas-has-less-room-for-error-this-year/1923999"
     },
     {
       "analysis": null,

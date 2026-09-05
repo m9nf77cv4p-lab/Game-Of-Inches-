@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1969**
+- Stored stories: **1970**
 - Newly captured: **1**
 
 ## Latest news
@@ -13,7 +13,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Nacua worked with trainers on the side at practice throughout the week, but McVay indicated things are moving in the right direction for Nacua and that he has been "hitting some high speed yards at a really good clip." Nacua's status for Thursday's season opener against the 49ers remains up in the air, but a better estimate at his availability will presumably be able to be made when the Rams release their first official injury report in advance of Week 1.
 - **Jacob Saylors** — Jacob Saylors - Earns trust of coaching staff (2026-09-05T14:24:30Z)
   - Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role in the offense behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.
-- **NEW — Deshaun Watson** — Deshaun Watson's Starting Job Doesn't Erase Preseason Concerns (2026-09-05T13:29:05Z)
+- **NEW — Andrei Iosivas** — Andrei Iosivas Has Less Room for Error This Year (2026-09-05T13:40:05Z)
+  - Source: https://www.rotoballer.com/player-news/andrei-iosivas-has-less-room-for-error-this-year/1923999
+- **Deshaun Watson** — Deshaun Watson's Starting Job Doesn't Erase Preseason Concerns (2026-09-05T13:29:05Z)
   - Source: https://www.rotoballer.com/player-news/deshaun-watsons-starting-job-doesnt-erase-preseason-concerns/1923988
 - **Elijah Arroyo** — Elijah Arroyo Pushing for a Bigger Role After Strong Summer (2026-09-05T13:07:06Z)
   - Source: https://www.rotoballer.com/player-news/elijah-arroyo-pushing-for-a-bigger-role-after-strong-summer/1923954
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kyler-murray-lands-in-a-great-spot-for-a-bounce-back/1923253
 - **Drake London** — Drake London's Volume Keeps Him in the WR1 Mix (2026-09-04T11:42:42Z)
   - Source: https://www.rotoballer.com/player-news/drake-londons-volume-keeps-him-in-the-wr1-mix/1923246
-- **Michael Pittman** — Michael Pittman Jr. Moving Closer to a Week 1 Return (2026-09-04T11:35:05Z)
-  - Source: https://www.rotoballer.com/player-news/michael-pittman-jr-moving-closer-to-a-week-1-return/1923243
