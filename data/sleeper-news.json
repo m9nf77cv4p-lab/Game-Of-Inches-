@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T16:03:13Z",
+  "last_checked_at": "2026-09-05T16:19:44Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13311|rotoballer|220142|1788608945000",
-    "nfl|9493|rotowire|636301|1788623548000"
+    "nfl|11655|rotoballer|220143|1788609605000"
   ],
   "schema_version": 1,
   "source": {
@@ -53,6 +52,26 @@
       "story_id": "nfl|11237|rotowire|636294|1788618270000",
       "title": "Jacob Saylors - Earns trust of coaching staff",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants running back Tyrone Tracy Jr. (neck) is among the players projected to be inactive in Week 1 by Giants beat writer Patricia Traina of Sports Illustrated. Injury could be the reason why Tracy Jr. does not play, as he suffered a stinger in the Giants' final preseason game. However, Tracy Jr.'s place in the crowded Giants backfield is also in question entering the year. Despite topping 1,000 scrimmage yards in each of his first two seasons in New York, Tracy Jr. may currently be behind all three of Cam Skattebo, Najee Harris, and Devin Singletary on the Giants' running back depth chart. Barring an injury or a trade elsewhere before the start of the regular season, fantasy managers may want to avoid Tracy Jr. in drafts ahead of 2026.",
+      "metadata": {
+        "description": "New York Giants running back Tyrone Tracy Jr. (neck) is among the players projected to be inactive in Week 1 by Giants beat writer Patricia Traina of Sports Illustrated. Injury could be the reason why Tracy Jr. does not play, as he suffered a stinger in the Giants' final preseason game. However, Tracy Jr.'s place in the crowded Giants backfield is also in question entering the year. Despite topping 1,000 scrimmage yards in each of his first two seasons in New York, Tracy Jr. may currently be behind all three of Cam Skattebo, Najee Harris, and Devin Singletary on the Giants' running back depth chart. Barring an injury or a trade elsewhere before the start of the regular season, fantasy managers may want to avoid Tracy Jr. in drafts ahead of 2026.",
+        "title": "Tyrone Tracy Jr. Trending Towards Being Inactive in Week 1?",
+        "topic_id": "1401995640904396800",
+        "url": "https://www.rotoballer.com/player-news/tyrone-tracy-jr-trending-towards-being-inactive-in-week-1/1923926"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11655",
+      "player_name": "Tyrone Tracy",
+      "position": "RB",
+      "published": 1788609605000,
+      "source": "rotoballer",
+      "source_key": "220143",
+      "story_id": "nfl|11655|rotoballer|220143|1788609605000",
+      "title": "Tyrone Tracy Jr. Trending Towards Being Inactive in Week 1?",
+      "url": "https://www.rotoballer.com/player-news/tyrone-tracy-jr-trending-towards-being-inactive-in-week-1/1923926"
     },
     {
       "analysis": null,
