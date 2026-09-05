@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-05T18:34:46Z",
+  "last_checked_at": "2026-09-05T18:47:46Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12529|rotoballer|220152|1788617466000"
+    "nfl|13268|rotoballer|220154|1788618905000",
+    "nfl|7600|rotoballer|220155|1788618715000"
   ],
   "schema_version": 1,
   "source": {
@@ -72,6 +73,46 @@
       "story_id": "nfl|9493|rotowire|636301|1788623548000",
       "title": "Puka Nacua - Making progress in recovery",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Elijah Sarratt had a solid first NFL summer, but another rookie made a much stronger push for immediate work. Sarratt opened the preseason with six catches for 66 yards against Philadelphia, then managed only two catches for four yards over the final two games. Meanwhile, Ja'Kobi Lane kept stacking plays throughout camp and has emerged as Baltimore's No. 3 receiver behind Zay Flowers and Rashod Bateman. The current depth chart has Sarratt behind Lane, while Devontez Walker is also expected to have a significant role in the offense. That leaves Sarratt looking at more special-teams work than offensive snaps to begin the year. There is still plenty to like long term about a fourth-round pick who led the nation with 15 receiving touchdowns at Indiana last season, and his strong preseason opener wasn't meaningless. For 2026 redraft purposes, though, Lane's emergence made an already difficult path to targets even tighter. Sarratt is better viewed as a dynasty stash than someone likely to help fantasy managers early.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Elijah Sarratt had a solid first NFL summer, but another rookie made a much stronger push for immediate work. Sarratt opened the preseason with six catches for 66 yards against Philadelphia, then managed only two catches for four yards over the final two games. Meanwhile, Ja'Kobi Lane kept stacking plays throughout camp and has emerged as Baltimore's No. 3 receiver behind Zay Flowers and Rashod Bateman. The current depth chart has Sarratt behind Lane, while Devontez Walker is also expected to have a significant role in the offense. That leaves Sarratt looking at more special-teams work than offensive snaps to begin the year. There is still plenty to like long term about a fourth-round pick who led the nation with 15 receiving touchdowns at Indiana last season, and his strong preseason opener wasn't meaningless. For 2026 redraft purposes, though, Lane's emergence made an already difficult path to targets even tighter. Sarratt is better viewed as a dynasty stash than someone likely to help fantasy managers early.",
+        "title": "Elijah Sarratt Comes Out of Camp Behind the Rookie Curve",
+        "topic_id": "1402034672115945472",
+        "url": "https://www.rotoballer.com/player-news/elijah-sarratt-comes-out-of-camp-behind-the-rookie-curve/1924059"
+      },
+      "nfl_team": "BAL",
+      "player_id": "13268",
+      "player_name": "Elijah Sarratt",
+      "position": "WR",
+      "published": 1788618905000,
+      "source": "rotoballer",
+      "source_key": "220154",
+      "story_id": "nfl|13268|rotoballer|220154|1788618905000",
+      "title": "Elijah Sarratt Comes Out of Camp Behind the Rookie Curve",
+      "url": "https://www.rotoballer.com/player-news/elijah-sarratt-comes-out-of-camp-behind-the-rookie-curve/1924059"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers tight end Pat Freiermuth should have a little more room to operate after spending last season stuck in a crowded rotation. Freiermuth played just over half of Pittsburgh's offensive snaps and saw 54 targets, the exact same number as Jonnu Smith. Smith is gone now after being released in March, leaving Freiermuth, Darnell Washington and Robert Tonyan in the tight end room. That doesn't mean Washington disappears. He actually played slightly more snaps than Freiermuth last season and should remain heavily involved, especially as a blocker. There is still less competition than a year ago, when Freiermuth fell to 41 catches for 486 yards and four touchdowns after posting a 65-653-7 line in 2024. He also showed some early chemistry with Aaron Rodgers this summer, including a 23-yard touchdown during a two-minute drill in camp. DK Metcalf and Michael Pittman Jr. will command plenty of targets, but Smith's departure gives Freiermuth a better chance to stay on the field and get back into the TE2 conversation.",
+      "metadata": {
+        "description": "Pittsburgh Steelers tight end Pat Freiermuth should have a little more room to operate after spending last season stuck in a crowded rotation. Freiermuth played just over half of Pittsburgh's offensive snaps and saw 54 targets, the exact same number as Jonnu Smith. Smith is gone now after being released in March, leaving Freiermuth, Darnell Washington and Robert Tonyan in the tight end room. That doesn't mean Washington disappears. He actually played slightly more snaps than Freiermuth last season and should remain heavily involved, especially as a blocker. There is still less competition than a year ago, when Freiermuth fell to 41 catches for 486 yards and four touchdowns after posting a 65-653-7 line in 2024. He also showed some early chemistry with Aaron Rodgers this summer, including a 23-yard touchdown during a two-minute drill in camp. DK Metcalf and Michael Pittman Jr. will command plenty of targets, but Smith's departure gives Freiermuth a better chance to stay on the field and get back into the TE2 conversation.",
+        "title": "Pat Freiermuth Has More Receiving Work Up for Grabs",
+        "topic_id": "1402034672132722688",
+        "url": "https://www.rotoballer.com/player-news/pat-freiermuth-has-more-receiving-work-up-for-grabs/1924054"
+      },
+      "nfl_team": "PIT",
+      "player_id": "7600",
+      "player_name": "Pat Freiermuth",
+      "position": "TE",
+      "published": 1788618715000,
+      "source": "rotoballer",
+      "source_key": "220155",
+      "story_id": "nfl|7600|rotoballer|220155|1788618715000",
+      "title": "Pat Freiermuth Has More Receiving Work Up for Grabs",
+      "url": "https://www.rotoballer.com/player-news/pat-freiermuth-has-more-receiving-work-up-for-grabs/1924054"
     },
     {
       "analysis": "Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role in the offense behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.",

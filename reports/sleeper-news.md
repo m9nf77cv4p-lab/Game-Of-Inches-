@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1973**
-- Newly captured: **1**
+- Stored stories: **1975**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -13,9 +13,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After missing recent practice time due to an ankle injury, Henderson appears to have at least a chance to get back on the field as New England begins a game-prep stretch ahead of Wednesday's regular-season opener against Seattle. The second-year running back would have to operate in at least a limited capacity over the coming days to have a realistic chance of playing in Week 1. If Henderson cannot play, then Rhamondre Stevenson would be in line for a significant boost in workload, and Corey Kiner would also be in the mix for some backfield touches.
 - **Puka Nacua** — Puka Nacua - Making progress in recovery (2026-09-05T15:52:28Z)
   - Nacua worked with trainers on the side at practice throughout the week, but McVay indicated things are moving in the right direction for Nacua and that he has been "hitting some high speed yards at a really good clip." Nacua's status for Thursday's season opener against the 49ers remains up in the air, but a better estimate at his availability will presumably be able to be made when the Rams release their first official injury report in advance of Week 1.
+- **NEW — Elijah Sarratt** — Elijah Sarratt Comes Out of Camp Behind the Rookie Curve (2026-09-05T14:35:05Z)
+  - Source: https://www.rotoballer.com/player-news/elijah-sarratt-comes-out-of-camp-behind-the-rookie-curve/1924059
+- **NEW — Pat Freiermuth** — Pat Freiermuth Has More Receiving Work Up for Grabs (2026-09-05T14:31:55Z)
+  - Source: https://www.rotoballer.com/player-news/pat-freiermuth-has-more-receiving-work-up-for-grabs/1924054
 - **Jacob Saylors** — Jacob Saylors - Earns trust of coaching staff (2026-09-05T14:24:30Z)
   - Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role in the offense behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson in Street Clothes for Saturday's Practice (2026-09-05T14:11:06Z)
+- **TreVeyon Henderson** — TreVeyon Henderson in Street Clothes for Saturday's Practice (2026-09-05T14:11:06Z)
   - Source: https://www.rotoballer.com/player-news/treveyon-henderson-in-street-clothes-for-saturdays-practice/1924029
 - **Brenton Strange** — Brenton Strange May Have a Hard Time Taking the Next Step (2026-09-05T14:05:05Z)
   - Source: https://www.rotoballer.com/player-news/brenton-strange-may-have-a-hard-time-taking-the-next-step/1924023
@@ -210,7 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/j-k-dobbins-the-for-sure-lead-back-when-healthy/1923297
 - **Ja'Kobi Lane** — Ja'Kobi Lane Primed for Breakout Role with Ravens? (2026-09-04T12:47:16Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-lane-primed-for-breakout-role-with-ravens/1923291
-- **Kaleb Johnson** — Familiarity With Packers' Scheme Should Help Kaleb Johnson (2026-09-04T12:36:49Z)
-  - Source: https://www.rotoballer.com/player-news/familiarity-with-packers-scheme-should-help-kaleb-johnson/1923279
-- **Tank Dell** — Tank Dell Restructures his Deal With Houston (2026-09-04T12:10:06Z)
-  - Source: https://www.rotoballer.com/player-news/tank-dell-restructures-his-deal-with-houston/1923270
