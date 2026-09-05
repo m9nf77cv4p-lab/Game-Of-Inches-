@@ -2,14 +2,19 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1943**
+- Stored stories: **1945**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Brock Bowers** — Brock Bowers Projected for a Massive Target Share (2026-09-04T23:09:05Z)
+- **NEW — Tua Tagovailoa** — Tua Tagovailoa: Falcons could name starting QB soon (2026-09-05T03:40:15.247000Z)
+  - Nearly every team has named its starter for Week 1, but Atlanta has not formally announced its QB1. According to Ian Rapoport, Tagovailoa could have a "short leash" if named the starter as Atlanta waits for Penix to get healthy. Ideally, the Falcons hoped Tagovailoa would prove himself to be a steady, veteran presence, but Atlanta finds itself in limbo under center.
+  - Source: https://www.fantasypros.com/nfl/news/605953/tua-tagovailoa-falcons-could-name-starting-qb-soon.php
+- **NEW — Jahmyr Gibbs** — Jahmyr Gibbs the Consensus 1.01 in Fantasy Drafts (2026-09-04T23:26:26Z)
+  - Source: https://www.rotoballer.com/player-news/jahmyr-gibbs-the-consensus-1-01-in-fantasy-drafts/1923678
+- **Brock Bowers** — Brock Bowers Projected for a Massive Target Share (2026-09-04T23:09:05Z)
   - Source: https://www.rotoballer.com/player-news/brock-bowers-projected-for-a-massive-target-share/1923670
-- **NEW — Jordyn Tyson** — Jordyn Tyson's Redraft Value Fading Amidst Injury Concerns (2026-09-04T23:00:10Z)
+- **Jordyn Tyson** — Jordyn Tyson's Redraft Value Fading Amidst Injury Concerns (2026-09-04T23:00:10Z)
   - Source: https://www.rotoballer.com/player-news/jordyn-tysons-redraft-value-fading-amidst-injury-concerns/1923666
 - **Sam LaPorta** — Sam LaPorta - Sees no action in preseason (2026-09-04T22:59:00Z)
   - LaPorta was rested in the team's exhibition opener, but a hip injury suffered in practice kept him on the sideline for the final two preseason games. He was able to return to drills as of Aug. 25, but it's unclear if he's put the issue behind him. LaPorta is entering the final year of his rookie contract, so he has every incentive to be as healthy as possible for a Week 1 matchup with the Saints on Sunday, Sept. 13.
@@ -206,7 +211,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jayden-reed-set-for-larger-role-amid-improved-health/1922987
 - **De'Von Achane** — De'Von Achane Still Holds Elite Upside Despite Poor Supporting Cast (2026-09-03T23:57:07Z)
   - Source: https://www.rotoballer.com/player-news/devon-achane-still-holds-elite-upside-despite-poor-supporting-cast/1922985
-- **Bryce Young** — Bryce Young - Working with new play caller (2026-09-03T23:55:01Z)
-  - Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as "aggressive, which is huge for us." The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.
-- **Jonathan Taylor** — Jonathan Taylor Poised for Another Productive Year (2026-09-03T23:46:14Z)
-  - Source: https://www.rotoballer.com/player-news/jonathan-taylor-poised-for-another-productive-year/1922981

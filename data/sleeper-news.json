@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-05T03:16:52Z",
+  "last_checked_at": "2026-09-05T03:43:03Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11604|rotoballer|220122|1788563345000",
-    "nfl|13281|rotoballer|220121|1788562810000"
+    "nfl|6768|fantasy_pros|605953|1788579615247",
+    "nfl|9221|rotoballer|220124|1788564386000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Nearly every team has named its starter for Week 1, but Atlanta has not formally announced its QB1. According to Ian Rapoport, Tagovailoa could have a \"short leash\" if named the starter as Atlanta waits for Penix to get healthy. Ideally, the Falcons hoped Tagovailoa would prove himself to be a steady, veteran presence, but Atlanta finds itself in limbo under center.",
+      "description": "The Atlanta Falcons could name their starting quarterback, between Tua Tagovailoa and Michael Penix Jr., as early as Monday, Sept. 7, ahead of Week 1.",
+      "metadata": {
+        "analysis": "Nearly every team has named its starter for Week 1, but Atlanta has not formally announced its QB1. According to Ian Rapoport, Tagovailoa could have a \"short leash\" if named the starter as Atlanta waits for Penix to get healthy. Ideally, the Falcons hoped Tagovailoa would prove himself to be a steady, veteran presence, but Atlanta finds itself in limbo under center.",
+        "description": "The Atlanta Falcons could name their starting quarterback, between Tua Tagovailoa and Michael Penix Jr., as early as Monday, Sept. 7, ahead of Week 1.",
+        "title": "Tua Tagovailoa: Falcons could name starting QB soon",
+        "topic_id": "1401808144308396032",
+        "url": "https://www.fantasypros.com/nfl/news/605953/tua-tagovailoa-falcons-could-name-starting-qb-soon.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1788579615247,
+      "source": "fantasy_pros",
+      "source_key": "605953",
+      "story_id": "nfl|6768|fantasy_pros|605953|1788579615247",
+      "title": "Tua Tagovailoa: Falcons could name starting QB soon",
+      "url": "https://www.fantasypros.com/nfl/news/605953/tua-tagovailoa-falcons-could-name-starting-qb-soon.php"
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions running back Jahmyr Gibbs has an ADP of 1.1, which means he is consistently being taken with the first pick in 2026 fantasy football drafts. There are plenty of intriguing names near the top of the draft, including running backs Bijan Robinson and Christian McCaffrey, but managers who have the luxury of picking first are selecting Gibbs more often than not. Gibbs has been a top-10 fantasy running back in each of his three pro seasons, including RB1 and RB3 over the last two years, respectively. In fact, despite finishing as the RB3 last year, he posted the highest fantasy points total of his young career. Despite sharing touches with David Montgomery, Gibbs broke out for 1,223 rushing yards, 77 catches, 616 receiving yards, and 18 touchdowns. Assuming he stays healthy for 17 games this year, he's a pretty safe bet to finish among the top three at his position, with a very real chance at the overall RB1 title.",
+      "metadata": {
+        "description": "Detroit Lions running back Jahmyr Gibbs has an ADP of 1.1, which means he is consistently being taken with the first pick in 2026 fantasy football drafts. There are plenty of intriguing names near the top of the draft, including running backs Bijan Robinson and Christian McCaffrey, but managers who have the luxury of picking first are selecting Gibbs more often than not. Gibbs has been a top-10 fantasy running back in each of his three pro seasons, including RB1 and RB3 over the last two years, respectively. In fact, despite finishing as the RB3 last year, he posted the highest fantasy points total of his young career. Despite sharing touches with David Montgomery, Gibbs broke out for 1,223 rushing yards, 77 catches, 616 receiving yards, and 18 touchdowns. Assuming he stays healthy for 17 games this year, he's a pretty safe bet to finish among the top three at his position, with a very real chance at the overall RB1 title.",
+        "title": "Jahmyr Gibbs the Consensus 1.01 in Fantasy Drafts",
+        "topic_id": "1401806878878490624",
+        "url": "https://www.rotoballer.com/player-news/jahmyr-gibbs-the-consensus-1-01-in-fantasy-drafts/1923678"
+      },
+      "nfl_team": "DET",
+      "player_id": "9221",
+      "player_name": "Jahmyr Gibbs",
+      "position": "RB",
+      "published": 1788564386000,
+      "source": "rotoballer",
+      "source_key": "220124",
+      "story_id": "nfl|9221|rotoballer|220124|1788564386000",
+      "title": "Jahmyr Gibbs the Consensus 1.01 in Fantasy Drafts",
+      "url": "https://www.rotoballer.com/player-news/jahmyr-gibbs-the-consensus-1-01-in-fantasy-drafts/1923678"
+    },
     {
       "analysis": null,
       "description": "Las Vegas Raiders tight end Brock Bowers is likely headed for an enormous target share in 2026. Injuries and subpar quarterback play limited Bowers to just 64 catches, 680 yards, and seven touchdowns last year. However, he had 112 catches on 153 targets as a rookie in 2024, and he's looking to get back to that level of volume this year. The good news is that he's fully healthy and got a quarterback upgrade this offseason, as the Raiders moved on from Geno Smith. Kirk Cousins will lead the offense for now, and we know that he's capable of elevating his tight ends to the next level. After Cousins took over the Falcons' offense last year, tight end Kyle Pitts averaged 8.0 targets, 0.6 touchdowns, and 16.3 fantasy points per game. That should be Bowers' floor, and his ceiling is significantly higher. There's a legitimate chance that Bowers will finish as the overall TE1 this year if he stays healthy for all 17 games. For now, he has an ADP of 19.8, which corresponds to the second round of fantasy drafts and makes him the first tight end off the board.",
