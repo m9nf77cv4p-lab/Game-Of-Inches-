@@ -2,23 +2,26 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1950**
-- Newly captured: **4**
+- Stored stories: **1951**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Parker Washington** — Parker Washington, Jaguars remain in contract talks (2026-09-05T04:20:15.588000Z)
+- **NEW — Josh Jacobs** — Josh Jacobs has court appearance date moved up (2026-09-05T04:30:16.442000Z)
+  - Jacobs was charged with battery and criminal destruction of property and is scheduled to appear at the Brown County courthouse on Sept. 10, multiple days before Green Bay's season opener against Minnesota. It is unclear how this will affect his return timeline; Jacobs is currently on the commissioner's exempt list, with a potential suspension looming.
+  - Source: https://www.fantasypros.com/nfl/news/605957/josh-jacobs-has-court-appearance-date-moved-up.php
+- **Parker Washington** — Parker Washington, Jaguars remain in contract talks (2026-09-05T04:20:15.588000Z)
   - Gladstone said the team would not hesitate to carry contract discussions into the regular season as they aim to finalize a deal with their breakout wideout. Washington had 58 receptions for 847 yards and five touchdowns last season and carries an expert consensus ranking of WR29, according to FantasPros, into his fourth NFL season.
   - Source: https://www.fantasypros.com/nfl/news/605955/parker-washington-jaguars-remain-contract-talks.php
-- **NEW — J.K. Dobbins** — J.K. Dobbins will maintain Denver's RB1 role in 2026 (2026-09-05T04:20:15.573000Z)
+- **J.K. Dobbins** — J.K. Dobbins will maintain Denver's RB1 role in 2026 (2026-09-05T04:20:15.573000Z)
   - Dobbins was very successful in 2025 when he was healthy, averaging 5.0 yards per carry and rushing for 772 yards in 10 games. RJ Harvey and rookie Jonah Coleman will have roles, a regular trait for head coach Sean Payton's offenses. Due to injury risk and a congested backfield, Dobbins has a deflated ADP price as the half-PPR RB34, according to FantasyPros.
   - Source: https://www.fantasypros.com/nfl/news/605956/jk-dobbins-will-maintain-denvers-rb1-role-2026.php
 - **Tua Tagovailoa** — Tua Tagovailoa: Falcons could name starting QB soon (2026-09-05T03:40:15.247000Z)
   - Nearly every team has named its starter for Week 1, but Atlanta has not formally announced its QB1. According to Ian Rapoport, Tagovailoa could have a "short leash" if named the starter as Atlanta waits for Penix to get healthy. Ideally, the Falcons hoped Tagovailoa would prove himself to be a steady, veteran presence, but Atlanta finds itself in limbo under center.
   - Source: https://www.fantasypros.com/nfl/news/605953/tua-tagovailoa-falcons-could-name-starting-qb-soon.php
-- **NEW — Makai Lemon** — Beat Writer Warns Fantasy Managers to Temper Expectations for Makai Lemon (2026-09-05T00:10:05Z)
+- **Makai Lemon** — Should Fantasy Managers Temper Expectations for Makai Lemon? (2026-09-05T00:10:05Z)
   - Source: https://www.rotoballer.com/player-news/beat-writer-warns-fantasy-managers-to-temper-expectations-for-makai-lemon/1923686
-- **NEW — Tyler Allgeier** — Tyler Allgeier a Top Running Back Target in the Later Rounds (2026-09-05T00:02:06Z)
+- **Tyler Allgeier** — Tyler Allgeier a Top Running Back Target in the Later Rounds (2026-09-05T00:02:06Z)
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-a-top-running-back-target-in-the-later-rounds/1923684
 - **Stefon Diggs** — Stefon Diggs Set for High-Volume Role in Washington (2026-09-04T23:52:06Z)
   - Source: https://www.rotoballer.com/player-news/stefon-diggs-set-for-high-volume-role-in-washington/1923681
@@ -211,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Sutton will look to make it three straight seasons with over 1,000 receiving yards as he once again operates as a top option in the wide receiver room with Denver. The Broncos traded for Jaylen Waddle in the offseason, and as a result, Sutton will likely see a reduction in targets, but his role as a top red-zone threat will remain.
 - **Jonah Coleman** — Jonah Coleman - Destined for between-the-tackles role (2026-09-04T01:24:54Z)
   - Coleman was selected in the fourth round of April's draft after completing his four-year college career with a 2025 campaign with Washington during which he compiled 758 rushing yards and 15 touchdowns on 156 carries over 12 contests. He also added 31 catches for 354 yards and two scores during his senior season. The Huskies played with an up-tempo style, so Coleman was on the field for all downs, resulting in him becoming a capable receiver and pass blocker. The running back is considered a more physical back than RJ Harvey, who is also set to serve as reserve option behind Dobbins this season, and as a result, Coleman could be ticketed to serve more frequently as a direct replacement for Dobbins.
-- **Pat Bryant** — Pat Bryant - Poised to operate as top depth option (2026-09-04T00:53:42Z)
-  - Bryant reeled in 31 of 49 targets for 378 yards and a touchdown over 15 regular-season contests in his rookie campaign with Denver in 2025. The 23-year-old possesses a 6-foot-2, 200-plus pound frame, and he's on track to operate as the immediate backup behind Courtland Sutton as a boundary receiver with Denver this season. Bryant has already impressed with his physicality at his position, and he could earn more opportunities in his first campaign with new playcaller Davis Webb.

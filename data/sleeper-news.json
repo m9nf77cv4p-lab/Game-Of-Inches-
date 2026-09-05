@@ -1,12 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T04:21:29Z",
+  "last_checked_at": "2026-09-05T04:34:07Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13294|rotoballer|220127|1788567005000",
-    "nfl|6806|fantasy_pros|605956|1788582015573",
-    "nfl|8132|rotoballer|220126|1788566526000",
-    "nfl|9487|fantasy_pros|605955|1788582015588"
+    "nfl|5850|fantasy_pros|605957|1788582616442"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +13,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Jacobs was charged with battery and criminal destruction of property and is scheduled to appear at the Brown County courthouse on Sept. 10, multiple days before Green Bay's season opener against Minnesota. It is unclear how this will affect his return timeline; Jacobs is currently on the commissioner's exempt list, with a potential suspension looming.",
+      "description": "Green Bay Packers running back Josh Jacobs had his initial court appearance moved up to Sept. 10 from Nov. 17 regarding Jacobs' misdemeanor charges.",
+      "metadata": {
+        "analysis": "Jacobs was charged with battery and criminal destruction of property and is scheduled to appear at the Brown County courthouse on Sept. 10, multiple days before Green Bay's season opener against Minnesota. It is unclear how this will affect his return timeline; Jacobs is currently on the commissioner's exempt list, with a potential suspension looming.",
+        "description": "Green Bay Packers running back Josh Jacobs had his initial court appearance moved up to Sept. 10 from Nov. 17 regarding Jacobs' misdemeanor charges.",
+        "title": "Josh Jacobs has court appearance date moved up",
+        "topic_id": "1401820732236759040",
+        "url": "https://www.fantasypros.com/nfl/news/605957/josh-jacobs-has-court-appearance-date-moved-up.php"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1788582616442,
+      "source": "fantasy_pros",
+      "source_key": "605957",
+      "story_id": "nfl|5850|fantasy_pros|605957|1788582616442",
+      "title": "Josh Jacobs has court appearance date moved up",
+      "url": "https://www.fantasypros.com/nfl/news/605957/josh-jacobs-has-court-appearance-date-moved-up.php"
+    },
     {
       "analysis": "Gladstone said the team would not hesitate to carry contract discussions into the regular season as they aim to finalize a deal with their breakout wideout. Washington had 58 receptions for 847 yards and five touchdowns last season and carries an expert consensus ranking of WR29, according to FantasPros, into his fourth NFL season.",
       "description": "The Jacksonville Jaguars are \"not going to stop talking\" to wide receiver Parker Washington as both sides iron out a potential contract extension, says general manager James Gladstone.",
@@ -84,7 +102,7 @@
       "description": "\"Expectations should be tempered early\" for Philadelphia Eagles wide receiver Makai Lemon, according to Tim McManus of ESPN.com. Lemon entered the league with plenty of upside, fueled by his first-round draft capital. However, some of that excitement faded away after he struggled in the preseason, catching just three passes for three yards. He also missed a portion of training camp due to a hamstring injury. The rookie noted that he needs to be more professional about how he conducts himself off the field in regard to proactively avoiding injuries, and the coaching staff followed that up by encouraging him to learn from experienced receiver DeVonta Smith. The rookie's slow summer will likely result in a slow start to the regular season, so he's unlikely to make a big impression right away. Instead, he's more of a developmental option in fantasy leagues, especially after falling to No. 3 on the depth chart behind Smith and Dontayvion Wicks. Currently, he has an ADP of 106.4 in redraft leagues; that corresponds to the ninth round of fantasy drafts, which feels like a bit of a reach given the latest chatter from Philly-based media.",
       "metadata": {
         "description": "\"Expectations should be tempered early\" for Philadelphia Eagles wide receiver Makai Lemon, according to Tim McManus of ESPN.com. Lemon entered the league with plenty of upside, fueled by his first-round draft capital. However, some of that excitement faded away after he struggled in the preseason, catching just three passes for three yards. He also missed a portion of training camp due to a hamstring injury. The rookie noted that he needs to be more professional about how he conducts himself off the field in regard to proactively avoiding injuries, and the coaching staff followed that up by encouraging him to learn from experienced receiver DeVonta Smith. The rookie's slow summer will likely result in a slow start to the regular season, so he's unlikely to make a big impression right away. Instead, he's more of a developmental option in fantasy leagues, especially after falling to No. 3 on the depth chart behind Smith and Dontayvion Wicks. Currently, he has an ADP of 106.4 in redraft leagues; that corresponds to the ninth round of fantasy drafts, which feels like a bit of a reach given the latest chatter from Philly-based media.",
-        "title": "Beat Writer Warns Fantasy Managers to Temper Expectations for Makai Lemon",
+        "title": "Should Fantasy Managers Temper Expectations for Makai Lemon?",
         "topic_id": "1401816946139209728",
         "url": "https://www.rotoballer.com/player-news/beat-writer-warns-fantasy-managers-to-temper-expectations-for-makai-lemon/1923686"
       },
@@ -96,7 +114,7 @@
       "source": "rotoballer",
       "source_key": "220127",
       "story_id": "nfl|13294|rotoballer|220127|1788567005000",
-      "title": "Beat Writer Warns Fantasy Managers to Temper Expectations for Makai Lemon",
+      "title": "Should Fantasy Managers Temper Expectations for Makai Lemon?",
       "url": "https://www.rotoballer.com/player-news/beat-writer-warns-fantasy-managers-to-temper-expectations-for-makai-lemon/1923686"
     },
     {
