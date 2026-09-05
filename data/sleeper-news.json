@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-05T15:17:24Z",
+  "last_checked_at": "2026-09-05T15:29:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12527|rotoballer|220137|1788606065000"
+    "nfl|12514|rotoballer|220138|1788606845000",
+    "nfl|8151|rotoballer|220139|1788607205000"
   ],
   "schema_version": 1,
   "source": {
@@ -32,6 +33,46 @@
       "story_id": "nfl|11237|rotowire|636294|1788618270000",
       "title": "Jacob Saylors - Earns trust of coaching staff",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "After spending the first four years of his career with the Seattle Seahawks, running back Kenneth Walker is entering his first season with the Kansas City Chiefs in 2026. Across 17 games with Seattle in 2025, Walker III recorded 1,309 yards from scrimmage and five touchdowns on 252 touches. While the 25-year-old was a productive player, his overall and goal-line usage was limited by the presence of Seahawks back Zach Charbonnet (knee). In Kansas City, Walker III currently projects to be backed up by 2026 fifth-rounder Emmett Johnson and 2025 seventh-rounder Brashard Smith, neither of whom projects to take him off the field in high-value situations. Walker III has also drawn rave reviews for his work in Kansas City this summer, with reporting indicating that he may play a significant role as both a rusher and receiver in 2026. If he stays healthy, Walker III has a chance to reach 300 touches for the first time in his career and could finish as a high-end fantasy RB1.",
+      "metadata": {
+        "description": "After spending the first four years of his career with the Seattle Seahawks, running back Kenneth Walker is entering his first season with the Kansas City Chiefs in 2026. Across 17 games with Seattle in 2025, Walker III recorded 1,309 yards from scrimmage and five touchdowns on 252 touches. While the 25-year-old was a productive player, his overall and goal-line usage was limited by the presence of Seahawks back Zach Charbonnet (knee). In Kansas City, Walker III currently projects to be backed up by 2026 fifth-rounder Emmett Johnson and 2025 seventh-rounder Brashard Smith, neither of whom projects to take him off the field in high-value situations. Walker III has also drawn rave reviews for his work in Kansas City this summer, with reporting indicating that he may play a significant role as both a rusher and receiver in 2026. If he stays healthy, Walker III has a chance to reach 300 touches for the first time in his career and could finish as a high-end fantasy RB1.",
+        "title": "Kenneth Walker Could Be Poised for Monster Year in Kansas City",
+        "topic_id": "1401985573199065088",
+        "url": "https://www.rotoballer.com/player-news/kenneth-walker-iii-could-be-poised-for-monster-year-in-kansas-city/1923865"
+      },
+      "nfl_team": "KC",
+      "player_id": "8151",
+      "player_name": "Kenneth Walker",
+      "position": "RB",
+      "published": 1788607205000,
+      "source": "rotoballer",
+      "source_key": "220139",
+      "story_id": "nfl|8151|rotoballer|220139|1788607205000",
+      "title": "Kenneth Walker Could Be Poised for Monster Year in Kansas City",
+      "url": "https://www.rotoballer.com/player-news/kenneth-walker-iii-could-be-poised-for-monster-year-in-kansas-city/1923865"
+    },
+    {
+      "analysis": null,
+      "description": "Across 17 games as a rookie in 2025, Tampa Bay Buccaneers wide receiver Emeka Egbuka (toe) recorded 63 catches for 938 yards and six touchdowns on 127 targets. When longtime Bucs wideout Mike Evans departed the team in free agency this past spring, it looked like Egbuka would be his successor as the team's WR1. While that may still be the case, Egbuka suffered a sprained toe in training camp that has limited his participation throughout the summer and now has his status for Week 1 in question as well. Egbuka's production also tailed off throughout the course of his rookie season, as he failed to record a touchdown after Week 10 and only topped 50 receiving yards just once in his final eight games. The 23-year-old should still play a significant role in the Tampa Bay passing game once he's fully healthy, but his current injury uncertainty brings some risk to his profile entering 2026.",
+      "metadata": {
+        "description": "Across 17 games as a rookie in 2025, Tampa Bay Buccaneers wide receiver Emeka Egbuka (toe) recorded 63 catches for 938 yards and six touchdowns on 127 targets. When longtime Bucs wideout Mike Evans departed the team in free agency this past spring, it looked like Egbuka would be his successor as the team's WR1. While that may still be the case, Egbuka suffered a sprained toe in training camp that has limited his participation throughout the summer and now has his status for Week 1 in question as well. Egbuka's production also tailed off throughout the course of his rookie season, as he failed to record a touchdown after Week 10 and only topped 50 receiving yards just once in his final eight games. The 23-year-old should still play a significant role in the Tampa Bay passing game once he's fully healthy, but his current injury uncertainty brings some risk to his profile entering 2026.",
+        "title": "Emeka Egbuka's Stock Falling Amidst Injury Uncertainty?",
+        "topic_id": "1401984315088236544",
+        "url": "https://www.rotoballer.com/player-news/emeka-egbukas-stock-falling-amidst-injury-uncertainty/1923862"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1788606845000,
+      "source": "rotoballer",
+      "source_key": "220138",
+      "story_id": "nfl|12514|rotoballer|220138|1788606845000",
+      "title": "Emeka Egbuka's Stock Falling Amidst Injury Uncertainty?",
+      "url": "https://www.rotoballer.com/player-news/emeka-egbukas-stock-falling-amidst-injury-uncertainty/1923862"
     },
     {
       "analysis": null,
