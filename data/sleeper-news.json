@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-05T20:35:44Z",
+  "last_checked_at": "2026-09-05T20:45:56Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11643|rotoballer|220163|1788626096000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -71,6 +73,26 @@
       "story_id": "nfl|12529|rotowire|636303|1788628621000",
       "title": "TreVeyon Henderson - Could practice Saturday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Jaylen Wright is listed as the No. 2 running back on the Miami Dolphins depth chart, behind bell-cow tailback De'Von Achane. While Achane is expected to touch the ball at an extremely high rate in Miami's offense, Wright should be the first Dolphin off the bench to spell Achane when he is tired or needs to come out of the game for any purpose. Wright is listed ahead of Ollie Gordon II (ribs), who is dealing with an injury to his ribs, and Carlos Washington Jr. on the depth chart. The Dolphins selected Wright out of Tennessee in the fourth round of the 2024 NFL Draft (No. 120 overall). Wright is rostered in just 2% of Yahoo leagues right now, but is worth a look in dynasty leagues or deeper leagues as Achane's handcuff. He ranks as RotoBaller's No. 66 running back and is a name to monitor in deep-league and best-ball formats as a late-round flyer.",
+      "metadata": {
+        "description": "Jaylen Wright is listed as the No. 2 running back on the Miami Dolphins depth chart, behind bell-cow tailback De'Von Achane. While Achane is expected to touch the ball at an extremely high rate in Miami's offense, Wright should be the first Dolphin off the bench to spell Achane when he is tired or needs to come out of the game for any purpose. Wright is listed ahead of Ollie Gordon II (ribs), who is dealing with an injury to his ribs, and Carlos Washington Jr. on the depth chart. The Dolphins selected Wright out of Tennessee in the fourth round of the 2024 NFL Draft (No. 120 overall). Wright is rostered in just 2% of Yahoo leagues right now, but is worth a look in dynasty leagues or deeper leagues as Achane's handcuff. He ranks as RotoBaller's No. 66 running back and is a name to monitor in deep-league and best-ball formats as a late-round flyer.",
+        "title": "Jaylen Wright Listed as RB2 on Dolphins' Depth Chart",
+        "topic_id": "1402066132151574528",
+        "url": "https://www.rotoballer.com/player-news/jaylen-wright-listed-as-rb2-on-dolphins-depth-chart/1924182"
+      },
+      "nfl_team": "MIA",
+      "player_id": "11643",
+      "player_name": "Jaylen Wright",
+      "position": "RB",
+      "published": 1788626096000,
+      "source": "rotoballer",
+      "source_key": "220163",
+      "story_id": "nfl|11643|rotoballer|220163|1788626096000",
+      "title": "Jaylen Wright Listed as RB2 on Dolphins' Depth Chart",
+      "url": "https://www.rotoballer.com/player-news/jaylen-wright-listed-as-rb2-on-dolphins-depth-chart/1924182"
     },
     {
       "analysis": null,
