@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T16:32:29Z",
+  "last_checked_at": "2026-09-05T16:43:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9493|rotoballer|220144|1788611045000"
+    "nfl|11237|rotoballer|220145|1788611595000"
   ],
   "schema_version": 1,
   "source": {
@@ -52,6 +52,26 @@
       "story_id": "nfl|11237|rotowire|636294|1788618270000",
       "title": "Jacob Saylors - Earns trust of coaching staff",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions running back Jacob Saylors runs hard and \"has earned the trust of the coaching staff\" for his play on offense and special teams during training camp, according to Tim Twentyman of the team's official website. Saylors led the team in total scrimmage yards during the preseason (31 carries for 187 yards and five catches for 40 yards) and could be in the mix to return kicks on special teams if he is active on game days. The chances of Saylors being active for Week 1 of the 2026 regular season went way up when the Lions placed Isiah Pacheco (back) on Injured Reserve to start the year. All-Pro RB Jahmyr Gibbs will handle the lion's share of backfield work, but Saylors could open his second year in the NFL as the No. 2 over Sione Vaki. The former undrafted free agent out of East Carolina appeared in 16 games for the Lions as a rookie in 2025, but he only had two carries for 11 yards on offense. Even with an elevated role to open his sophomore campaign, Saylors is only in consideration as a handcuff option for Gibbs in deeper leagues.",
+      "metadata": {
+        "description": "Detroit Lions running back Jacob Saylors runs hard and \"has earned the trust of the coaching staff\" for his play on offense and special teams during training camp, according to Tim Twentyman of the team's official website. Saylors led the team in total scrimmage yards during the preseason (31 carries for 187 yards and five catches for 40 yards) and could be in the mix to return kicks on special teams if he is active on game days. The chances of Saylors being active for Week 1 of the 2026 regular season went way up when the Lions placed Isiah Pacheco (back) on Injured Reserve to start the year. All-Pro RB Jahmyr Gibbs will handle the lion's share of backfield work, but Saylors could open his second year in the NFL as the No. 2 over Sione Vaki. The former undrafted free agent out of East Carolina appeared in 16 games for the Lions as a rookie in 2025, but he only had two carries for 11 yards on offense. Even with an elevated role to open his sophomore campaign, Saylors is only in consideration as a handcuff option for Gibbs in deeper leagues.",
+        "title": "Jacob Saylors has Earned the Trust of the Coaching Staff",
+        "topic_id": "1402004449836175360",
+        "url": "https://www.rotoballer.com/player-news/jacob-saylors-has-earned-the-trust-of-the-coaching-staff/1923935"
+      },
+      "nfl_team": "DET",
+      "player_id": "11237",
+      "player_name": "Jacob Saylors",
+      "position": "RB",
+      "published": 1788611595000,
+      "source": "rotoballer",
+      "source_key": "220145",
+      "story_id": "nfl|11237|rotoballer|220145|1788611595000",
+      "title": "Jacob Saylors has Earned the Trust of the Coaching Staff",
+      "url": "https://www.rotoballer.com/player-news/jacob-saylors-has-earned-the-trust-of-the-coaching-staff/1923935"
     },
     {
       "analysis": null,
