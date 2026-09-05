@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-05T16:43:16Z",
+  "last_checked_at": "2026-09-05T17:05:03Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|11237|rotoballer|220145|1788611595000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -39506,26 +39504,6 @@
       "story_id": "nfl|9221|fantasy_pros|600836|1786052153778",
       "title": "Jahmyr Gibbs agrees to 3-year, $67.5 million deal with Lions",
       "url": "https://www.fantasypros.com/nfl/news/600836/jahmyr-gibbs-agrees-to-3-year-675-million-deal-with-lions.php"
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams running back Blake Corum pushed his body \"in ways he never had before\" this offseason, according to Nate Atkins of The Athletic. The third-year back will still be sharing the backfield with Kyren Williams, but the Rams are pretty excited about how he can continue to help their offense in 2026. \"I did see a couple of those videos,\" head coach Sean McVay said, \"and they look cool as s--. It's impressive. I want to see him make people miss like that in the hole.\" Williams has already noticed that Corum looks \"a lot leaner\" and \"a lot more explosive.\" The 25-year-old former third-rounder from Michigan is looking to take the next step after breaking out for 746 rushing yards and six touchdowns on 5.1 yards per carry in 2025 for the league's top-scoring offense. With added explosion in addition to his elite straight-line speed and sharp vision, Corum could become one of the best No. 2 backs in the NFL. Even with Williams seeing most of the early-down work in L.A., Corum will continue to have a key role in an explosive offense, which will make him a weekly RB3/flex with upside if anything were to happen to Williams.",
-      "metadata": {
-        "description": "Los Angeles Rams running back Blake Corum pushed his body \"in ways he never had before\" this offseason, according to Nate Atkins of The Athletic. The third-year back will still be sharing the backfield with Kyren Williams, but the Rams are pretty excited about how he can continue to help their offense in 2026. \"I did see a couple of those videos,\" head coach Sean McVay said, \"and they look cool as s--. It's impressive. I want to see him make people miss like that in the hole.\" Williams has already noticed that Corum looks \"a lot leaner\" and \"a lot more explosive.\" The 25-year-old former third-rounder from Michigan is looking to take the next step after breaking out for 746 rushing yards and six touchdowns on 5.1 yards per carry in 2025 for the league's top-scoring offense. With added explosion in addition to his elite straight-line speed and sharp vision, Corum could become one of the best No. 2 backs in the NFL. Even with Williams seeing most of the early-down work in L.A., Corum will continue to have a key role in an explosive offense, which will make him a weekly RB3/flex with upside if anything were to happen to Williams.",
-        "title": "Blake Corum's Intense Offseason Workouts Go Viral",
-        "topic_id": "1391199642682687488",
-        "url": "https://www.rotoballer.com/player-news/blake-corums-intense-offseason-workouts-go-viral/1904386"
-      },
-      "nfl_team": "LAR",
-      "player_id": "11586",
-      "player_name": "Blake Corum",
-      "position": "RB",
-      "published": 1786035368000,
-      "source": "rotoballer",
-      "source_key": "218100",
-      "story_id": "nfl|11586|rotoballer|218100|1786035368000",
-      "title": "Blake Corum's Intense Offseason Workouts Go Viral",
-      "url": "https://www.rotoballer.com/player-news/blake-corums-intense-offseason-workouts-go-viral/1904386"
     }
   ]
 }
