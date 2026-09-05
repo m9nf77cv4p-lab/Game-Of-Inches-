@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T01:22:42Z",
+  "last_checked_at": "2026-09-05T01:34:06Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|7567|rotoballer|220111|1788556508000"
+    "nfl|5001|rotoballer|220112|1788557165000"
   ],
   "schema_version": 1,
   "source": {
@@ -112,6 +112,26 @@
       "story_id": "nfl|3257|rotowire|636276|1788557805000",
       "title": "Jacoby Brissett - Starting QB on depth chart",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans tight end Dalton Schultz is coming off one of the best seasons of his eight-year professional career. This past season, Schultz recorded a career-high 82 receptions with 777 receiving yards and three touchdowns in 17 games. The 30-year-old saw a career-high 106 targets, and he actually might be able to top that this upcoming season. The Texans did little to improve this receiving room outside of adding wideout Kayshon Boutte. Nico Collins is the No. 1 option in this offense, but the No. 2 job is up for grabs right now. Schultz showed last season that he's capable of being a top-10 player at his position. Given the lack of viable options, Schultz could become the No. 2 option in the passing game in 2026.",
+      "metadata": {
+        "description": "Houston Texans tight end Dalton Schultz is coming off one of the best seasons of his eight-year professional career. This past season, Schultz recorded a career-high 82 receptions with 777 receiving yards and three touchdowns in 17 games. The 30-year-old saw a career-high 106 targets, and he actually might be able to top that this upcoming season. The Texans did little to improve this receiving room outside of adding wideout Kayshon Boutte. Nico Collins is the No. 1 option in this offense, but the No. 2 job is up for grabs right now. Schultz showed last season that he's capable of being a top-10 player at his position. Given the lack of viable options, Schultz could become the No. 2 option in the passing game in 2026.",
+        "title": "Dalton Schultz has Path to No. 2 Receiving Option",
+        "topic_id": "1401775466171396096",
+        "url": "https://www.rotoballer.com/player-news/dalton-schultz-has-path-to-no-2-receiving-option/1923609"
+      },
+      "nfl_team": "HOU",
+      "player_id": "5001",
+      "player_name": "Dalton Schultz",
+      "position": "TE",
+      "published": 1788557165000,
+      "source": "rotoballer",
+      "source_key": "220112",
+      "story_id": "nfl|5001|rotoballer|220112|1788557165000",
+      "title": "Dalton Schultz has Path to No. 2 Receiving Option",
+      "url": "https://www.rotoballer.com/player-news/dalton-schultz-has-path-to-no-2-receiving-option/1923609"
     },
     {
       "analysis": "Allen suited up for a preseason Week 1 matchup with the Panthers on Aug. 15 and led two scoring drives, completing six of eight passes for 111 yards and one touchdown. His final connection with Keon Coleman resulted in a nine-yard touchdown, after which Allen's exhibition action came to a close. The cameo displayed that Allen already was in midseason form, and he'll be aiming to get back to 4,000 yards through the air in 2026 for the first time since doing so in four consecutive campaigns from 2020-23. He'll be aided in that quest by the offseason addition of WR DJ Moore.",

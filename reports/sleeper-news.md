@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1933**
+- Stored stories: **1934**
 - Newly captured: **1**
 
 ## Latest news
@@ -17,9 +17,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After his rookie 2025 season came to an abrupt end after Week 7 due to an isolated LCL injury in his right knee, Hunter still was expected to play both wide receiver and cornerback in 2026, but the breakdown of reps between the two wasn't entirely clear until the Jaguars posted their first unofficial depth chart of training camp. Therein, he was listed as a starting CB and reserve WR, and his practice reps trended in that direction as August went on. It's thus unclear what kind of role Hunter can expect on offense to begin the campaign, especially in a position group that rosters Brian Thomas, Parker Washington, Jakobi Meyers (hand) and rookie sixth-rounders Josh Cameron and C.J. Williams.
 - **Jacoby Brissett** — Jacoby Brissett - Starting QB on depth chart (2026-09-04T21:36:45Z)
   - After Arizona released Kyler Murray in March, the team signed Gardner Minshew in free agency and then rounded out the QB room by drafting Carson Beck (ribs) in the third round of the 2026 Draft. Despite those notable additions, Brissett was expected to be the starter, and as a result he held a hold-in during the offseason program and at the starting training camp before agreeing to a revised contract with the team on July 26. Brissett made a cameo in preseason Week 1 versus the Raiders, completing all five of his passes for 44 yards and a touchdown strike to Marvin Harrison. Considering he'll have TE Trey McBride, WRs Harrison and Michael Wilson and RBs Jeremiyah Love (ankle) and Tyler Allgeier at his disposal, Brissett very well may produce like he did during his 12-game starting stint to end last season. Whether that'll be enough for Brissett to hold on to the No. 1 gig throughout the campaign is up in the air, especially with Beck waiting in the wings.
+- **NEW — Dalton Schultz** — Dalton Schultz has Path to No. 2 Receiving Option (2026-09-04T21:26:05Z)
+  - Source: https://www.rotoballer.com/player-news/dalton-schultz-has-path-to-no-2-receiving-option/1923609
 - **Josh Allen** — Josh Allen - Logs one appearance in preseason (2026-09-04T21:21:49Z)
   - Allen suited up for a preseason Week 1 matchup with the Panthers on Aug. 15 and led two scoring drives, completing six of eight passes for 111 yards and one touchdown. His final connection with Keon Coleman resulted in a nine-yard touchdown, after which Allen's exhibition action came to a close. The cameo displayed that Allen already was in midseason form, and he'll be aiming to get back to 4,000 yards through the air in 2026 for the first time since doing so in four consecutive campaigns from 2020-23. He'll be aided in that quest by the offseason addition of WR DJ Moore.
-- **NEW — Kenny Gainwell** — Kenny Gainwell Could See Larger Workload (2026-09-04T21:15:08Z)
+- **Kenny Gainwell** — Kenny Gainwell Could See Larger Workload (2026-09-04T21:15:08Z)
   - Source: https://www.rotoballer.com/player-news/kenny-gainwell-could-see-larger-workload/1923599
 - **Kayshon Boutte** — Kayshon Boutte - Building rapport with Stroud (2026-09-04T20:56:34Z)
   - Boutte ended up being the odd man out last month in a New England receiving corps that added A.J. Brown and Romeo Doubs in the offseason. Prior to their respective arrivals, Boutte was a regular in the Patriots' passing game the last two seasons, combining for a 76-1,140-9 line on 114 targets in 29 regular-season contests during that span. He joined Houston in the wake of Jayden Higgins' torn ACL, so Boutte will be in the mix for looks from Stroud behind Nico Collins and alongside Xavier Hutchinson, Jaylin Noel (hamstring) and Jared Wayne to begin the campaign.
@@ -208,5 +210,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jake-ferguson-restructures-contract-with-the-cowboys/1922954
 - **J.K. Dobbins** — Jonah Coleman Could Be Between-the-Tackles Complement in Denver (2026-09-03T22:12:12Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-could-be-between-the-tackles-complement-to-j-k-dobbins/1922946
-- **Geno Smith** — Geno Smith is Voted Jets Captain (2026-09-03T22:01:12Z)
-  - Source: https://www.rotoballer.com/player-news/geno-smith-is-voted-jets-captain/1922938
