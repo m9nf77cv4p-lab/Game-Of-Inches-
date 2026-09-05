@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1979**
+- Stored stories: **1980**
 - Newly captured: **1**
 
 ## Latest news
@@ -14,9 +14,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Head coach Mike Vrabel suggested earlier Saturday that Henderson could return to practice, but the second-year running back will end up observing the session in street clothes as he continues to recover from an ankle injury. Henderson will have two more chances to return to practice in at least a limited capacity ahead of the Patriots' regular-season opener against the Seahawks on Wednesday.
 - **TreVeyon Henderson** — TreVeyon Henderson - Could practice Saturday (2026-09-05T17:17:01Z)
   - After missing recent practice time due to an ankle injury, Henderson appears to have at least a chance to get back on the field as New England begins a game-prep stretch ahead of Wednesday's regular-season opener against Seattle. The second-year running back would have to operate in at least a limited capacity over the coming days to have a realistic chance of playing in Week 1. If Henderson cannot play, then Rhamondre Stevenson would be in line for a significant boost in workload, and Corey Kiner would also be in the mix for some backfield touches.
+- **NEW — Gunnar Helm** — Gunnar Helm Emerging as a Deep League Sleeper (2026-09-05T16:02:07Z)
+  - Source: https://www.rotoballer.com/player-news/gunnar-helm-emerging-as-a-deep-league-sleeper/1924164
 - **Puka Nacua** — Puka Nacua - Making progress in recovery (2026-09-05T15:52:28Z)
   - Nacua worked with trainers on the side at practice throughout the week, but McVay indicated things are moving in the right direction for Nacua and that he has been "hitting some high speed yards at a really good clip." Nacua's status for Thursday's season opener against the 49ers remains up in the air, but a better estimate at his availability will presumably be able to be made when the Rams release their first official injury report in advance of Week 1.
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa Could Be on a Short Leash if Named the Starter (2026-09-05T15:25:06Z)
+- **Tua Tagovailoa** — Tua Tagovailoa Could Be on a Short Leash if Named the Starter (2026-09-05T15:25:06Z)
   - Source: https://www.rotoballer.com/player-news/tua-tagovailoa-could-be-on-a-short-leash-if-named-starter-nfl-news-fantasy-football/1924112
 - **Rhamondre Stevenson** — Rhamondre Stevenson Continues to Gain Redraft Momentum (2026-09-05T14:58:07Z)
   - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-continues-to-gain-redraft-momentum/1924085
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/david-montgomery-a-safe-rb2-with-predictable-goal-line-usage/1923337
 - **Terry McLaurin** — Terry McLaurin Continues to Develop Chemistry with Young QB (2026-09-04T13:50:30Z)
   - Source: https://www.rotoballer.com/player-news/both-healthy-terry-mclaurin-continues-to-develop-chemistry-with-his-young-quarterback/1923330
-- **Jonah Coleman** — Jonah Coleman Viewed as Direct Backup on Early Downs (2026-09-04T13:40:04Z)
-  - Source: https://www.rotoballer.com/player-news/jonah-coleman-most-hyped-player-on-roster-viewed-as-direct-backup-to-dobbins/1923322
