@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T19:12:14Z",
+  "last_checked_at": "2026-09-05T19:24:21Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|7611|rotoballer|220157|1788620287000"
+    "nfl|12529|fantasy_pros|606042|1788636025559"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Henderson has not practiced since August 24th, not a great sign for his availability come game time. The Patriots play the Seahawks on Wednesday, rather than a Thursday, giving Henderson one less day to get healthy. The Patriots first injury report comes out later today.",
+      "description": "TreVeyon Henderson (ankle) was not practicing Saturday. ",
+      "metadata": {
+        "analysis": "Henderson has not practiced since August 24th, not a great sign for his availability come game time. The Patriots play the Seahawks on Wednesday, rather than a Thursday, giving Henderson one less day to get healthy. The Patriots first injury report comes out later today.",
+        "description": "TreVeyon Henderson (ankle) was not practicing Saturday. ",
+        "title": "TreVeyon Henderson (ankle) not practicing Saturday",
+        "topic_id": "1402044746314022912",
+        "url": "https://www.fantasypros.com/nfl/news/606042/treveyon-henderson-ankle-not-practicing-saturday.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788636025559,
+      "source": "fantasy_pros",
+      "source_key": "606042",
+      "story_id": "nfl|12529|fantasy_pros|606042|1788636025559",
+      "title": "TreVeyon Henderson (ankle) not practicing Saturday",
+      "url": "https://www.fantasypros.com/nfl/news/606042/treveyon-henderson-ankle-not-practicing-saturday.php"
+    },
     {
       "analysis": "Head coach Mike Vrabel suggested earlier Saturday that Henderson could return to practice, but the second-year running back will end up observing the session in street clothes as he continues to recover from an ankle injury. Henderson will have two more chances to return to practice in at least a limited capacity ahead of the Patriots' regular-season opener against the Seahawks on Wednesday.",
       "description": "Henderson (ankle) was in street clothes ahead of Saturday's practice, Andrew Callahan of the Boston Herald reports.",
