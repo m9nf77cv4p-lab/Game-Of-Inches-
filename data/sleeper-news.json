@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T02:51:33Z",
+  "last_checked_at": "2026-09-05T02:59:35Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11834|rotoballer|220119|1788561297000"
+    "nfl|12517|rotoballer|220120|1788562027000"
   ],
   "schema_version": 1,
   "source": {
@@ -32,6 +32,26 @@
       "story_id": "nfl|10859|rotowire|636280|1788562740000",
       "title": "Sam LaPorta - Sees no action in preseason",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Across 16 games as a rookie in 2025, Chicago Bears tight end Colston Loveland recorded 58 catches for 713 yards and six touchdowns on 82 targets. The 22-year-old got off to a bit of a slow start, failing to record more than three catches or 38 receiving yards in any of his first six games as a pro. However, Loveland finished the year on a tear. Across his final four games of the year (including the playoffs), Loveland recorded 28 catches for 378 yards and two touchdowns on 38 targets. Entering 2026, Loveland looks poised for an even larger role in Chicago's passing game following the team's offseason trade of veteran wide receiver DJ Moore to the Buffalo Bills. Bears wideout Luther Burden III (groin) also missed significant time this summer with a groin injury, which could lead to him facing a reduced workload to begin the year. Loveland's value in drafts is soaring, but he carries high-end fantasy TE1 upside into his second NFL season.",
+      "metadata": {
+        "description": "Across 16 games as a rookie in 2025, Chicago Bears tight end Colston Loveland recorded 58 catches for 713 yards and six touchdowns on 82 targets. The 22-year-old got off to a bit of a slow start, failing to record more than three catches or 38 receiving yards in any of his first six games as a pro. However, Loveland finished the year on a tear. Across his final four games of the year (including the playoffs), Loveland recorded 28 catches for 378 yards and two touchdowns on 38 targets. Entering 2026, Loveland looks poised for an even larger role in Chicago's passing game following the team's offseason trade of veteran wide receiver DJ Moore to the Buffalo Bills. Bears wideout Luther Burden III (groin) also missed significant time this summer with a groin injury, which could lead to him facing a reduced workload to begin the year. Loveland's value in drafts is soaring, but he carries high-end fantasy TE1 upside into his second NFL season.",
+        "title": "Colston Loveland Poised for High-End TE1 Season Following Dominant Close to 2025?",
+        "topic_id": "1401796859386683392",
+        "url": "https://www.rotoballer.com/player-news/colston-loveland-poised-for-high-end-te1-season-following-dominant-close-to-2025/1923659"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12517",
+      "player_name": "Colston Loveland",
+      "position": "TE",
+      "published": 1788562027000,
+      "source": "rotoballer",
+      "source_key": "220120",
+      "story_id": "nfl|12517|rotoballer|220120|1788562027000",
+      "title": "Colston Loveland Poised for High-End TE1 Season Following Dominant Close to 2025?",
+      "url": "https://www.rotoballer.com/player-news/colston-loveland-poised-for-high-end-te1-season-following-dominant-close-to-2025/1923659"
     },
     {
       "analysis": "The Seahawks used the 32nd overall pick in the 2026 Draft on Price, seemingly with the intention for him to be in the mix for the No. 1 RB role during Zach Charbonnet's recovery from a January ACL tear. Price handled first-team reps during the offseason program and also at the start of training camp, but he then tended to lower-body soreness, which sidelined him for a week and spurred the team to keep him in street clothes during exhibition season. With a Week 1 matchup with the Patriots just around the corner Wednesday, Price seems primed for lead-runner status, while George Holani will serve as a receiver and in pass-blocking situations. Meanwhile, Emanuel Wilson has been contained to work on the side at recent practices due to a hamstring injury, so it's unclear if he'll be able to contribute in the season opener.",
