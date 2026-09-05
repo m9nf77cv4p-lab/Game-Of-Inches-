@@ -3,13 +3,13 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **1957**
-- Newly captured: **1**
+- Newly captured: **0**
 
 ## Latest news
 
 - **Jacob Saylors** — Jacob Saylors - Earns trust of coaching staff (2026-09-05T14:24:30Z)
   - Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role offensive behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.
-- **NEW — Jaxson Dart** — Jaxson Dart Feeling More Comrfortable In Giants Offense (2026-09-05T10:45:05Z)
+- **Jaxson Dart** — Jaxson Dart Feeling More Comrfortable In Giants Offense (2026-09-05T10:45:05Z)
   - Source: https://www.rotoballer.com/player-news/jaxson-dart-feeling-more-comrfortable-in-giants-offense/1923844
 - **Chase Brown** — Chase Brown Ready For Three-Down Role in Bengals Offense (2026-09-05T10:32:06Z)
   - Source: https://www.rotoballer.com/player-news/chase-brown-ready-for-three-down-role-in-bengals-offense/1923841
