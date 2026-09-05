@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-05T15:52:00Z",
+  "last_checked_at": "2026-09-05T16:03:13Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12526|rotoballer|220141|1788608466000"
+    "nfl|13311|rotoballer|220142|1788608945000",
+    "nfl|9493|rotowire|636301|1788623548000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Nacua worked with trainers on the side at practice throughout the week, but McVay indicated things are moving in the right direction for Nacua and that he has been \"hitting some high speed yards at a really good clip.\" Nacua's status for Thursday's season opener against the 49ers remains up in the air, but a better estimate at his availability will presumably be able to be made when the Rams release their first official injury report in advance of Week 1.",
+      "description": "Nacua (groin), per head coach Sean McVay, is \"making good progress\" in his recovery, Sarah Barshop of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Nacua worked with trainers on the side at practice throughout the week, but McVay indicated things are moving in the right direction for Nacua and that he has been \"hitting some high speed yards at a really good clip.\" Nacua's status for Thursday's season opener against the 49ers remains up in the air, but a better estimate at his availability will presumably be able to be made when the Rams release their first official injury report in advance of Week 1.",
+        "description": "Nacua (groin), per head coach Sean McVay, is \"making good progress\" in his recovery, Sarah Barshop of ESPN.com reports.",
+        "title": "Puka Nacua - Making progress in recovery",
+        "topic_id": "1401993125408276480"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1788623548000,
+      "source": "rotowire",
+      "source_key": "636301",
+      "story_id": "nfl|9493|rotowire|636301|1788623548000",
+      "title": "Puka Nacua - Making progress in recovery",
+      "url": null
+    },
     {
       "analysis": "Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role in the offense behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.",
       "description": "Saylors earned the trust of coaching staff during training camp and could see consistent playing time on both offense and special teams this season, Tim Twentyman of the Lions' official site reports.",
@@ -32,6 +53,26 @@
       "story_id": "nfl|11237|rotowire|636294|1788618270000",
       "title": "Jacob Saylors - Earns trust of coaching staff",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins beat writer Joe Schad of the Palm Beach Post lists rookie wide receiver Chris Bell leading the team in receiving yards as one of his \"bold predictions\" for the 2026 season. A third-round pick out of Louisville, Bell had his final collegiate season cut short after he suffered a torn ACL in late November. While the injury was originally expected to sideline Bell early in his rookie season, the 22-year-old was able to suit up for Miami's final preseason game and now appears to be on track to be ready for Week 1. Bell was a highly productive player at Louisville, recording 72 catches for 917 yards and six touchdowns across 11 games before getting injured. The Dolphins wide receiver room should also offer plenty of opportunities for Bell, as the team enters 2026 without an established number one pass-catcher. As a late-round target in drafts, Bell profiles as a worthy dart throw for fantasy managers.",
+      "metadata": {
+        "description": "Miami Dolphins beat writer Joe Schad of the Palm Beach Post lists rookie wide receiver Chris Bell leading the team in receiving yards as one of his \"bold predictions\" for the 2026 season. A third-round pick out of Louisville, Bell had his final collegiate season cut short after he suffered a torn ACL in late November. While the injury was originally expected to sideline Bell early in his rookie season, the 22-year-old was able to suit up for Miami's final preseason game and now appears to be on track to be ready for Week 1. Bell was a highly productive player at Louisville, recording 72 catches for 917 yards and six touchdowns across 11 games before getting injured. The Dolphins wide receiver room should also offer plenty of opportunities for Bell, as the team enters 2026 without an established number one pass-catcher. As a late-round target in drafts, Bell profiles as a worthy dart throw for fantasy managers.",
+        "title": "Chris Bell a Dark Horse Candidate to Lead Dolphins in Receiving Yards",
+        "topic_id": "1401993123755749376",
+        "url": "https://www.rotoballer.com/player-news/chris-bell-a-dark-horse-candidate-to-lead-dolphins-in-receiving-yards/1923914"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1788608945000,
+      "source": "rotoballer",
+      "source_key": "220142",
+      "story_id": "nfl|13311|rotoballer|220142|1788608945000",
+      "title": "Chris Bell a Dark Horse Candidate to Lead Dolphins in Receiving Yards",
+      "url": "https://www.rotoballer.com/player-news/chris-bell-a-dark-horse-candidate-to-lead-dolphins-in-receiving-yards/1923914"
     },
     {
       "analysis": null,

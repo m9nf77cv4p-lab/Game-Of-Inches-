@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1962**
-- Newly captured: **1**
+- Stored stories: **1964**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Puka Nacua** — Puka Nacua - Making progress in recovery (2026-09-05T15:52:28Z)
+  - Nacua worked with trainers on the side at practice throughout the week, but McVay indicated things are moving in the right direction for Nacua and that he has been "hitting some high speed yards at a really good clip." Nacua's status for Thursday's season opener against the 49ers remains up in the air, but a better estimate at his availability will presumably be able to be made when the Rams release their first official injury report in advance of Week 1.
 - **Jacob Saylors** — Jacob Saylors - Earns trust of coaching staff (2026-09-05T14:24:30Z)
   - Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role in the offense behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.
-- **NEW — Tetairoa McMillan** — Tetairoa McMillan Set for More Versatile Usage in 2026? (2026-09-05T11:41:06Z)
+- **NEW — Chris Bell** — Chris Bell a Dark Horse Candidate to Lead Dolphins in Receiving Yards (2026-09-05T11:49:05Z)
+  - Source: https://www.rotoballer.com/player-news/chris-bell-a-dark-horse-candidate-to-lead-dolphins-in-receiving-yards/1923914
+- **Tetairoa McMillan** — Tetairoa McMillan Set for More Versatile Usage in 2026? (2026-09-05T11:41:06Z)
   - Source: https://www.rotoballer.com/player-news/tetairoa-mcmillan-set-for-more-versatile-usage-in-2026/1923900
 - **Jonathon Brooks** — Jonathon Brooks' Stock Back on the Rise Amidst Improved Health Outlook (2026-09-05T11:30:05Z)
   - Source: https://www.rotoballer.com/player-news/jonathon-brooks-stock-back-on-the-rise-amidst-improved-health-outlook/1923872
@@ -210,7 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/bucky-irving-a-bounce-back-candidate-with-clean-bill-of-health/1923208
 - **DJ Moore** — DJ Moore Set to Bounce Back with New QB and New Role (2026-09-04T10:19:06Z)
   - Source: https://www.rotoballer.com/player-news/dj-moore-set-to-bounce-back-with-new-qb-and-new-role/1923204
-- **Justin Jefferson** — Justin Jefferson Expected to Benefit From Improved Quarterback Play (2026-09-04T10:15:05Z)
-  - Source: https://www.rotoballer.com/player-news/justin-jefferson-expected-to-benefit-from-improved-quarterback-play/1923180
-- **Nico Collins** — Nico Collins a Fantasy Riser as Large Target Share Continues to Increase (2026-09-04T10:09:05Z)
-  - Source: https://www.rotoballer.com/player-news/nico-collins-a-fantasy-riser-as-large-target-share-continues-to-increase/1923157
