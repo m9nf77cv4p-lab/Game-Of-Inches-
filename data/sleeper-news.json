@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T13:40:23Z",
+  "last_checked_at": "2026-09-05T13:50:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12519|rotoballer|220130|1788600545000"
+    "nfl|13279|rotoballer|220131|1788600950000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "The fourth overall pick in the 2026 NFL Draft, Tennessee Titans rookie wide receiver Carnell Tate is expected to play a significant role in his team's passing game right away. The 21-year-old proved his big-play ability in his final collegiate season at Ohio State, recording 51 catches for 875 yards and nine touchdowns across 11 games. While the Titans have a pair of capable veteran pass-catchers in wide receivers Wan'Dale Robinson and Calvin Ridley, Tate profiles as the team's highest-upside target earner. The Titans offense as a whole should also improve in quarterback Cam Ward's second NFL season and offensive coordinator Brian Daboll's first year in Tennessee. Daboll has also shown he is willing to heavily feature a rookie wide receiver, as New York Giants wide receiver Malik Nabers saw 170 targets as a rookie under Daboll's watch. All in all, Tate profiles as a fantasy WR3 with significant upside entering his rookie season.",
+      "metadata": {
+        "description": "The fourth overall pick in the 2026 NFL Draft, Tennessee Titans rookie wide receiver Carnell Tate is expected to play a significant role in his team's passing game right away. The 21-year-old proved his big-play ability in his final collegiate season at Ohio State, recording 51 catches for 875 yards and nine touchdowns across 11 games. While the Titans have a pair of capable veteran pass-catchers in wide receivers Wan'Dale Robinson and Calvin Ridley, Tate profiles as the team's highest-upside target earner. The Titans offense as a whole should also improve in quarterback Cam Ward's second NFL season and offensive coordinator Brian Daboll's first year in Tennessee. Daboll has also shown he is willing to heavily feature a rookie wide receiver, as New York Giants wide receiver Malik Nabers saw 170 targets as a rookie under Daboll's watch. All in all, Tate profiles as a fantasy WR3 with significant upside entering his rookie season.",
+        "title": "Carnell Tate Should See Heavy Usage as a Rookie",
+        "topic_id": "1401960405496049664",
+        "url": "https://www.rotoballer.com/player-news/carnell-tate-should-see-heavy-usage-as-a-rookie/1923811"
+      },
+      "nfl_team": "TEN",
+      "player_id": "13279",
+      "player_name": "Carnell Tate",
+      "position": "WR",
+      "published": 1788600950000,
+      "source": "rotoballer",
+      "source_key": "220131",
+      "story_id": "nfl|13279|rotoballer|220131|1788600950000",
+      "title": "Carnell Tate Should See Heavy Usage as a Rookie",
+      "url": "https://www.rotoballer.com/player-news/carnell-tate-should-see-heavy-usage-as-a-rookie/1923811"
+    },
     {
       "analysis": null,
       "description": "Chicago Bears wide receiver Luther Burden III (groin) missed a large chunk of training camp after suffering a groin injury in early August. However, the second-year wideout returned to the practice field on Tuesday, and he appears to be trending toward being a full-go for Week 1. Across 15 games (five starts) as a rookie in 2025, Burden III recorded 47 catches for 652 yards and two touchdowns on 60 targets. His best stretch came at the end of the year, as he recorded 21 catches for 324 yards and a touchdown over his final four games of the regular season. Entering 2026, Burden III appears poised to play an even larger role in the Bears' passing game following the team's offseason trade of veteran wide receiver DJ Moore to the Buffalo Bills. As long as he remains on the field, Burden III could be in line for a breakout season.",
