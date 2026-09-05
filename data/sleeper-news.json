@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T17:18:40Z",
+  "last_checked_at": "2026-09-05T17:29:18Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12521|rotoballer|220146|1788613626000"
+    "nfl|12529|rotowire|636303|1788628621000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "After missing recent practice time due to an ankle injury, Henderson appears to have at least a chance to get back on the field as New England begins a game-prep stretch ahead of Wednesday's regular-season opener against Seattle. The second-year running back would have to operate in at least a limited capacity over the coming days to have a realistic chance of playing in Week 1. If Henderson cannot play, then Rhamondre Stevenson would be in line for a significant boost in workload, and Corey Kiner would also be in the mix for some backfield touches.",
+      "description": "Henderson (ankle) could return to practice Saturday, Evan Lazar of the Patriots' official site reports.",
+      "metadata": {
+        "analysis": "After missing recent practice time due to an ankle injury, Henderson appears to have at least a chance to get back on the field as New England begins a game-prep stretch ahead of Wednesday's regular-season opener against Seattle. The second-year running back would have to operate in at least a limited capacity over the coming days to have a realistic chance of playing in Week 1. If Henderson cannot play, then Rhamondre Stevenson would be in line for a significant boost in workload, and Corey Kiner would also be in the mix for some backfield touches.",
+        "description": "Henderson (ankle) could return to practice Saturday, Evan Lazar of the Patriots' official site reports.",
+        "title": "TreVeyon Henderson - Could practice Saturday",
+        "topic_id": "1402014518086766592"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788628621000,
+      "source": "rotowire",
+      "source_key": "636303",
+      "story_id": "nfl|12529|rotowire|636303|1788628621000",
+      "title": "TreVeyon Henderson - Could practice Saturday",
+      "url": null
+    },
     {
       "analysis": "Nacua worked with trainers on the side at practice throughout the week, but McVay indicated things are moving in the right direction for Nacua and that he has been \"hitting some high speed yards at a really good clip.\" Nacua's status for Thursday's season opener against the 49ers remains up in the air, but a better estimate at his availability will presumably be able to be made when the Rams release their first official injury report in advance of Week 1.",
       "description": "Nacua (groin), per head coach Sean McVay, is \"making good progress\" in his recovery, Sarah Barshop of ESPN.com reports.",

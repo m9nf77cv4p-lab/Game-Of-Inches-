@@ -2,16 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1967**
+- Stored stories: **1968**
 - Newly captured: **1**
 
 ## Latest news
 
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Could practice Saturday (2026-09-05T17:17:01Z)
+  - After missing recent practice time due to an ankle injury, Henderson appears to have at least a chance to get back on the field as New England begins a game-prep stretch ahead of Wednesday's regular-season opener against Seattle. The second-year running back would have to operate in at least a limited capacity over the coming days to have a realistic chance of playing in Week 1. If Henderson cannot play, then Rhamondre Stevenson would be in line for a significant boost in workload, and Corey Kiner would also be in the mix for some backfield touches.
 - **Puka Nacua** — Puka Nacua - Making progress in recovery (2026-09-05T15:52:28Z)
   - Nacua worked with trainers on the side at practice throughout the week, but McVay indicated things are moving in the right direction for Nacua and that he has been "hitting some high speed yards at a really good clip." Nacua's status for Thursday's season opener against the 49ers remains up in the air, but a better estimate at his availability will presumably be able to be made when the Rams release their first official injury report in advance of Week 1.
 - **Jacob Saylors** — Jacob Saylors - Earns trust of coaching staff (2026-09-05T14:24:30Z)
   - Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role in the offense behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.
-- **NEW — Elijah Arroyo** — Elijah Arroyo Pushing for a Bigger Role After Strong Summer (2026-09-05T13:07:06Z)
+- **Elijah Arroyo** — Elijah Arroyo Pushing for a Bigger Role After Strong Summer (2026-09-05T13:07:06Z)
   - Source: https://www.rotoballer.com/player-news/elijah-arroyo-pushing-for-a-bigger-role-after-strong-summer/1923954
 - **Jacob Saylors** — Jacob Saylors has Earned the Trust of the Coaching Staff (2026-09-05T12:33:15Z)
   - Source: https://www.rotoballer.com/player-news/jacob-saylors-has-earned-the-trust-of-the-coaching-staff/1923935
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/michael-pittman-jr-moving-closer-to-a-week-1-return/1923243
 - **Jordan Love** — Jordan Love Could See His Passing Volume Climb (2026-09-04T11:24:05Z)
   - Source: https://www.rotoballer.com/player-news/jordan-love-could-see-his-passing-volume-climb/1923237
-- **Travis Etienne** — Travis Etienne Jr. Could Open the Year With a Heavy Workload (2026-09-04T11:16:06Z)
-  - Source: https://www.rotoballer.com/player-news/travis-etienne-jr-could-open-the-year-with-a-heavy-workload/1923228
