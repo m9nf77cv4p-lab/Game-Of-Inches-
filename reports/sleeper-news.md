@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1951**
+- Stored stories: **1952**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Josh Downs** — Josh Downs Looks Well-Positioned for a Resurgent Season in Indianapolis (2026-09-05T09:21:14Z)
+- **NEW — Luther Burden** — Luther Burden III Poised for Breakout Season Amidst Improving Health Outlook? (2026-09-05T09:29:05Z)
+  - Source: https://www.rotoballer.com/player-news/luther-burden-iii-poised-for-breakout-season-amidst-improving-health-outlook/1923801
+- **Josh Downs** — Josh Downs Looks Well-Positioned for a Resurgent Season in Indianapolis (2026-09-05T09:21:14Z)
   - Source: https://www.rotoballer.com/player-news/josh-downs-looks-well-positioned-for-a-resurgent-season-in-indianapolis/1923796
 - **Kyren Williams** — Kyren Williams May Face Reduced Role in Rams Offense in 2026 (2026-09-05T09:12:06Z)
   - Source: https://www.rotoballer.com/player-news/kyren-williams-may-face-reduced-role-in-rams-offense-in-2026/1923781
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Allen is the only one of the quartet whose status for Week 1 appears to be up in the air, but Rodriguez nonetheless is poised for a regular role in Jacksonville's offense. What kind of workload that entails remains to be seen, but Tuten is Rodriguez's primary competitor for touches. At least when it comes to short-yardage and goal-line usage, the more imposing Rodriguez likely will handle those after earning 33 carries inside the 20-yard line last season for the Commanders. The Jaguars' season opener against the Browns on Sunday, Sept. 13 ultimately will provide insight into what to expect from the duo.
 - **Parker Washington** — Parker Washington - No preseason snaps (2026-09-04T03:29:08Z)
   - Not long after Washington sat out Jacksonville's exhibition opener on Aug. 15, Washington missed a week of practice due to an undisclosed injury before retaking the field during a joint session with the Buccaneers on Aug. 25, so his lack of in-game activity isn't much a surprise. After reeling off three 100-yard receiving efforts in his final four appearances, including playoffs, of the 2025 campaign, he entered the offseason on a high note and also considered the team's most sought-after WR in fantasy terms ahead of Brian Thomas, Jakobi Meyers (hand) and Travis Hunter.
-- **Omar Cooper** — Omar Cooper - Listed as second-teamer on depth chart (2026-09-04T02:48:12Z)
-  - Cooper served as one of QB Fernando Mendoza's top targets at Indiana last season, finishing with a 69-937-13 line in 16 games. After turning in a 4.42 40 time at the combine, his prospect profile was enough for the Jets to use the 30th overall pick on him in the 2026 NFL Draft. Joining a receiving corps already boasting Garrett Wilson and Adonai Mitchell, Cooper wasn't destined for more than the No. 3 WR role in the offense, but he worked behind even Isaiah Williams in three-wide sets during training camp, and his current depth-chart slotting indicates he still has work to do to earn significant reps in New York's passing game.

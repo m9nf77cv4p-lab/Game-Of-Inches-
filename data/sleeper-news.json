@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T13:29:15Z",
+  "last_checked_at": "2026-09-05T13:40:23Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9500|rotoballer|220129|1788600074000"
+    "nfl|12519|rotoballer|220130|1788600545000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Chicago Bears wide receiver Luther Burden III (groin) missed a large chunk of training camp after suffering a groin injury in early August. However, the second-year wideout returned to the practice field on Tuesday, and he appears to be trending toward being a full-go for Week 1. Across 15 games (five starts) as a rookie in 2025, Burden III recorded 47 catches for 652 yards and two touchdowns on 60 targets. His best stretch came at the end of the year, as he recorded 21 catches for 324 yards and a touchdown over his final four games of the regular season. Entering 2026, Burden III appears poised to play an even larger role in the Bears' passing game following the team's offseason trade of veteran wide receiver DJ Moore to the Buffalo Bills. As long as he remains on the field, Burden III could be in line for a breakout season.",
+      "metadata": {
+        "description": "Chicago Bears wide receiver Luther Burden III (groin) missed a large chunk of training camp after suffering a groin injury in early August. However, the second-year wideout returned to the practice field on Tuesday, and he appears to be trending toward being a full-go for Week 1. Across 15 games (five starts) as a rookie in 2025, Burden III recorded 47 catches for 652 yards and two touchdowns on 60 targets. His best stretch came at the end of the year, as he recorded 21 catches for 324 yards and a touchdown over his final four games of the regular season. Entering 2026, Burden III appears poised to play an even larger role in the Bears' passing game following the team's offseason trade of veteran wide receiver DJ Moore to the Buffalo Bills. As long as he remains on the field, Burden III could be in line for a breakout season.",
+        "title": "Luther Burden III Poised for Breakout Season Amidst Improving Health Outlook?",
+        "topic_id": "1401957888297070592",
+        "url": "https://www.rotoballer.com/player-news/luther-burden-iii-poised-for-breakout-season-amidst-improving-health-outlook/1923801"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12519",
+      "player_name": "Luther Burden",
+      "position": "WR",
+      "published": 1788600545000,
+      "source": "rotoballer",
+      "source_key": "220130",
+      "story_id": "nfl|12519|rotoballer|220130|1788600545000",
+      "title": "Luther Burden III Poised for Breakout Season Amidst Improving Health Outlook?",
+      "url": "https://www.rotoballer.com/player-news/luther-burden-iii-poised-for-breakout-season-amidst-improving-health-outlook/1923801"
+    },
     {
       "analysis": null,
       "description": "Indianapolis Colts wide receiver Josh Downs had a down year in 2025, setting career lows in targets (88), receptions (58), and receiving yards (566). The offseason has been a roller coaster ride for his fantasy value, as Downs' stock appeared to be trending up following the Colts' trade of veteran star wideout Michael Pittman Jr. to the Pittsburgh Steelers. Then, Indianapolis signed veteran slot receiver Keenan Allen, throwing Downs' role in the team's offense back into question. Downs has also battled back and calf injuries this summer, limiting his availability for stretches of training camp. However, Downs has returned to practice and looks like he will be ready to go for the start of the regular season. The Colts wide receiver room outside of Downs also has questions, as Allen was recently arrested and charged with DUI, and top wideout Alec Pierce (ankle) has missed most of the summer while he recovers from ankle surgery. All in all, Downs profiles as a sleeper target in fantasy drafts ahead of what could be a resurgent season.",
