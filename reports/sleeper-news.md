@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1983**
+- Stored stories: **1984**
 - Newly captured: **1**
 
 ## Latest news
@@ -10,7 +10,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) not practicing Saturday (2026-09-05T19:20:25.559000Z)
   - Henderson has not practiced since August 24th, not a great sign for his availability come game time. The Patriots play the Seahawks on Wednesday, rather than a Thursday, giving Henderson one less day to get healthy. The Patriots first injury report comes out later today.
   - Source: https://www.fantasypros.com/nfl/news/606042/treveyon-henderson-ankle-not-practicing-saturday.php
-- **NEW — Aaron Rodgers** — Aaron Rodgers Holds Deep-League Appeal with Improved Supporting Cast (2026-09-05T18:45:06Z)
+- **NEW — Wan'Dale Robinson** — Wan'Dale Robinson a PPR Sleeper with Large Target Share Expected (2026-09-05T19:10:06Z)
+  - Source: https://www.rotoballer.com/player-news/wandale-robinson-a-ppr-sleeper-with-large-target-share-expected/1924236
+- **Aaron Rodgers** — Aaron Rodgers Holds Deep-League Appeal with Improved Supporting Cast (2026-09-05T18:45:06Z)
   - Source: https://www.rotoballer.com/player-news/aaron-rodgers-holds-deep-league-appeal-with-improved-supporting-cast/1924229
 - **Keon Coleman** — Keon Coleman's Stock Falling After Injury During Camp (2026-09-05T18:20:06Z)
   - Source: https://www.rotoballer.com/player-news/keon-colemans-stock-falling-after-injury-during-camp/1924224
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - It's no surprise after Mitchell showed playmaking ability with New York following his midseason trade from the Colts last season. In eight games with the Jets, Mitchell caught 24 of 58 targets for 301 yards and two touchdowns. That 41.4 percent catch rate ranked second worst in the NFL out of 197 qualified pass catchers, but better quarterback play this season in the form of veteran pickup Geno Smith should help improve that number. Mitchell has big-play upside and is dripping with talent; he just needs to get out of his own way sometimes. He's worth a late-round flier in fantasy and makes for an intriguing best-ball selection.
 - **Jalen Nailor** — Jalen Nailor's Opportunity Makes Him a Late-Round Sleeper (2026-09-04T15:35:06Z)
   - Source: https://www.rotoballer.com/player-news/jalen-nailors-opportunity-makes-him-a-late-round-sleeper/1923414
-- **Tyler Shough** — Tyler Shough Offers Real Late-Round QB Upside (2026-09-04T15:27:06Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-shough-offers-real-late-round-qb-upside/1923409

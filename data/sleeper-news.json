@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T23:03:31Z",
+  "last_checked_at": "2026-09-05T23:17:53Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|96|rotoballer|220169|1788633906000"
+    "nfl|8126|rotoballer|220171|1788635406000"
   ],
   "schema_version": 1,
   "source": {
@@ -33,6 +33,26 @@
       "story_id": "nfl|12529|fantasy_pros|606042|1788636025559",
       "title": "TreVeyon Henderson (ankle) not practicing Saturday",
       "url": "https://www.fantasypros.com/nfl/news/606042/treveyon-henderson-ankle-not-practicing-saturday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Tennessee Titans wide receiver Wan'Dale Robinson currently has an ADP of 130.8, and he's emerging as a potential sleeper in PPR leagues because of his anticipated role. Robinson is coming off a fantastic season with the Giants, catching 92 of his 140 targets for 1,014 yards and four touchdowns. He's not a major threat for otherworldly yardage or touchdown totals, but he was peppered with targets in New York, and that trend should continue in Tennessee. First of all, the Titans gave him a four-year, $78 million contract, demonstrating a financial commitment to getting him heavily involved, especially as rookie Carnell Tate adjusts to the NFL. Furthermore, Robinson's new offensive coordinator in Tennessee is Brian Daboll, who was the Giants' head coach for the first portion of last season. Assuming Daboll's Titans offense looks similar to his Giants offense, Robinson should continue to fetch a very high target share, making him a very appealing target in PPR leagues, especially at his current ADP. Robinson has top-25 receiver upside after finishing as the WR14 last year, yet he's being drafted as the WR46 this year. That's a major discrepancy and could be an opportunity for managers to get a steal in the 10th round of fantasy drafts.",
+      "metadata": {
+        "description": "Tennessee Titans wide receiver Wan'Dale Robinson currently has an ADP of 130.8, and he's emerging as a potential sleeper in PPR leagues because of his anticipated role. Robinson is coming off a fantastic season with the Giants, catching 92 of his 140 targets for 1,014 yards and four touchdowns. He's not a major threat for otherworldly yardage or touchdown totals, but he was peppered with targets in New York, and that trend should continue in Tennessee. First of all, the Titans gave him a four-year, $78 million contract, demonstrating a financial commitment to getting him heavily involved, especially as rookie Carnell Tate adjusts to the NFL. Furthermore, Robinson's new offensive coordinator in Tennessee is Brian Daboll, who was the Giants' head coach for the first portion of last season. Assuming Daboll's Titans offense looks similar to his Giants offense, Robinson should continue to fetch a very high target share, making him a very appealing target in PPR leagues, especially at his current ADP. Robinson has top-25 receiver upside after finishing as the WR14 last year, yet he's being drafted as the WR46 this year. That's a major discrepancy and could be an opportunity for managers to get a steal in the 10th round of fantasy drafts.",
+        "title": "Wan'Dale Robinson a PPR Sleeper with Large Target Share Expected",
+        "topic_id": "1402103884469510144",
+        "url": "https://www.rotoballer.com/player-news/wandale-robinson-a-ppr-sleeper-with-large-target-share-expected/1924236"
+      },
+      "nfl_team": "TEN",
+      "player_id": "8126",
+      "player_name": "Wan'Dale Robinson",
+      "position": "WR",
+      "published": 1788635406000,
+      "source": "rotoballer",
+      "source_key": "220171",
+      "story_id": "nfl|8126|rotoballer|220171|1788635406000",
+      "title": "Wan'Dale Robinson a PPR Sleeper with Large Target Share Expected",
+      "url": "https://www.rotoballer.com/player-news/wandale-robinson-a-ppr-sleeper-with-large-target-share-expected/1924236"
     },
     {
       "analysis": null,
