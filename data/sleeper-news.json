@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T01:55:36Z",
+  "last_checked_at": "2026-09-05T02:10:21Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|3163|rotoballer|220114|1788558245000"
+    "nfl|13346|rotoballer|220115|1788559089000"
   ],
   "schema_version": 1,
   "source": {
@@ -72,6 +72,26 @@
       "story_id": "nfl|8144|rotowire|636278|1788560473000",
       "title": "Chris Olave - No action in preseason",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns wide receiver Denzel Boston has been one of the most impressive players in this offense during training camp. The Browns are extremely pleased with the results they've been getting from the second-round rookie. According to the Browns' unofficial depth chart, Boston is listed as a starting wideout alongside Jerry Jeudy. The Browns don't have many viable options to count on as pass-catchers, so both Boston and fellow rookie KC Concepcion could play significant roles right away. The 22-year-old is looking like a sleeper target in the late rounds during redraft formats. It might take some time, but fantasy managers shouldn't be surprised if Boston makes a big impact in Cleveland this upcoming season.",
+      "metadata": {
+        "description": "Cleveland Browns wide receiver Denzel Boston has been one of the most impressive players in this offense during training camp. The Browns are extremely pleased with the results they've been getting from the second-round rookie. According to the Browns' unofficial depth chart, Boston is listed as a starting wideout alongside Jerry Jeudy. The Browns don't have many viable options to count on as pass-catchers, so both Boston and fellow rookie KC Concepcion could play significant roles right away. The 22-year-old is looking like a sleeper target in the late rounds during redraft formats. It might take some time, but fantasy managers shouldn't be surprised if Boston makes a big impact in Cleveland this upcoming season.",
+        "title": "Denzel Boston is Gaining Traction After Strong Showing in Camp",
+        "topic_id": "1401784274415321088",
+        "url": "https://www.rotoballer.com/player-news/denzel-boston-is-gaining-traction-after-strong-showing-in-camp/1923635"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13346",
+      "player_name": "Denzel Boston",
+      "position": "WR",
+      "published": 1788559089000,
+      "source": "rotoballer",
+      "source_key": "220115",
+      "story_id": "nfl|13346|rotoballer|220115|1788559089000",
+      "title": "Denzel Boston is Gaining Traction After Strong Showing in Camp",
+      "url": "https://www.rotoballer.com/player-news/denzel-boston-is-gaining-traction-after-strong-showing-in-camp/1923635"
     },
     {
       "analysis": "After his rookie 2025 season came to an abrupt end after Week 7 due to an isolated LCL injury in his right knee, Hunter still was expected to play both wide receiver and cornerback in 2026, but the breakdown of reps between the two wasn't entirely clear until the Jaguars posted their first unofficial depth chart of training camp. Therein, he was listed as a starting CB and reserve WR, and his practice reps trended in that direction as August went on. It's thus unclear what kind of role Hunter can expect on offense to begin the campaign, especially in a position group that rosters Brian Thomas, Parker Washington, Jakobi Meyers (hand) and rookie sixth-rounders Josh Cameron and C.J. Williams.",
