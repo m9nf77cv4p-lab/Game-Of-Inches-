@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-05T21:10:43Z",
+  "last_checked_at": "2026-09-05T21:44:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|6783|rotoballer|220164|1788627132000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -39806,27 +39804,6 @@
       "story_id": "nfl|12540|rotoballer|218108|1786052887000",
       "title": "Chimere Dike Starting to Stand Out At Training Camp",
       "url": "https://www.rotoballer.com/player-news/chimere-dike-starting-to-stand-out-at-training-camp/1904480"
-    },
-    {
-      "analysis": "Gibbs has done everything he needs to to earn this money. He's a premier running back in the NFL, in the argument for the best. Now with David Montgomery gone, we will see how well he can shoulder a workhorse role, and fantasy managers are rightly expecting big things.",
-      "description": "Jahmyr Gibbs has agreed to 3-year, $67.5 million deal with Lions that could be worth up to $75.75 million. Gibbs is now the NFL's highest paid running back.",
-      "metadata": {
-        "analysis": "Gibbs has done everything he needs to to earn this money. He's a premier running back in the NFL, in the argument for the best. Now with David Montgomery gone, we will see how well he can shoulder a workhorse role, and fantasy managers are rightly expecting big things.",
-        "description": "Jahmyr Gibbs has agreed to 3-year, $67.5 million deal with Lions that could be worth up to $75.75 million. Gibbs is now the NFL's highest paid running back.",
-        "title": "Jahmyr Gibbs agrees to 3-year, $67.5 million deal with Lions",
-        "topic_id": "1391207202554912768",
-        "url": "https://www.fantasypros.com/nfl/news/600836/jahmyr-gibbs-agrees-to-3-year-675-million-deal-with-lions.php"
-      },
-      "nfl_team": "DET",
-      "player_id": "9221",
-      "player_name": "Jahmyr Gibbs",
-      "position": "RB",
-      "published": 1786052153778,
-      "source": "fantasy_pros",
-      "source_key": "600836",
-      "story_id": "nfl|9221|fantasy_pros|600836|1786052153778",
-      "title": "Jahmyr Gibbs agrees to 3-year, $67.5 million deal with Lions",
-      "url": "https://www.fantasypros.com/nfl/news/600836/jahmyr-gibbs-agrees-to-3-year-675-million-deal-with-lions.php"
     }
   ]
 }
