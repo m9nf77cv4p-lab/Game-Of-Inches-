@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1949**
-- Newly captured: **0**
+- Stored stories: **1950**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Kyren Williams** — Kyren Williams May Face Reduced Role in Rams Offense in 2026 (2026-09-05T09:12:06Z)
+  - Source: https://www.rotoballer.com/player-news/kyren-williams-may-face-reduced-role-in-rams-offense-in-2026/1923781
 - **Josh Jacobs** — Josh Jacobs has court appearance date moved up (2026-09-05T04:30:16.442000Z)
   - Jacobs was charged with battery and criminal destruction of property and is scheduled to appear at the Brown County courthouse on Sept. 10, multiple days before Green Bay's season opener against Minnesota. It is unclear how this will affect his return timeline; Jacobs is currently on the commissioner's exempt list, with a potential suspension looming.
   - Source: https://www.fantasypros.com/nfl/news/605957/josh-jacobs-has-court-appearance-date-moved-up.php
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Cooper served as one of QB Fernando Mendoza's top targets at Indiana last season, finishing with a 69-937-13 line in 16 games. After turning in a 4.42 40 time at the combine, his prospect profile was enough for the Jets to use the 30th overall pick on him in the 2026 NFL Draft. Joining a receiving corps already boasting Garrett Wilson and Adonai Mitchell, Cooper wasn't destined for more than the No. 3 WR role in the offense, but he worked behind even Isaiah Williams in three-wide sets during training camp, and his current depth-chart slotting indicates he still has work to do to earn significant reps in New York's passing game.
 - **Courtland Sutton** — Courtland Sutton - Atop depth chart again in 2026 (2026-09-04T02:31:47Z)
   - Sutton will look to make it three straight seasons with over 1,000 receiving yards as he once again operates as a top option in the wide receiver room with Denver. The Broncos traded for Jaylen Waddle in the offseason, and as a result, Sutton will likely see a reduction in targets, but his role as a top red-zone threat will remain.
-- **Jonah Coleman** — Jonah Coleman - Destined for between-the-tackles role (2026-09-04T01:24:54Z)
-  - Coleman was selected in the fourth round of April's draft after completing his four-year college career with a 2025 campaign with Washington during which he compiled 758 rushing yards and 15 touchdowns on 156 carries over 12 contests. He also added 31 catches for 354 yards and two scores during his senior season. The Huskies played with an up-tempo style, so Coleman was on the field for all downs, resulting in him becoming a capable receiver and pass blocker. The running back is considered a more physical back than RJ Harvey, who is also set to serve as reserve option behind Dobbins this season, and as a result, Coleman could be ticketed to serve more frequently as a direct replacement for Dobbins.
