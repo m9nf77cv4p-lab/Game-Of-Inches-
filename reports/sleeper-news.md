@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1935**
+- Stored stories: **1936**
 - Newly captured: **1**
 
 ## Latest news
@@ -15,9 +15,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Olave missed time at the end of the offseason program due to a blood clot, and while he opened training camp as a full participant and agreed to a four-year extension worth up to $132 million on July 30, he exited three different practices for various reasons in August. Nevertheless, he appears to be entering the season in good health and ready to build upon a career-best 2025 regular season in which he posted a 100-1,163-9 line on 155 targets in 16 games.
 - **Travis Hunter** — Travis Hunter - Getting more work at CB vs. WR (2026-09-04T21:53:36Z)
   - After his rookie 2025 season came to an abrupt end after Week 7 due to an isolated LCL injury in his right knee, Hunter still was expected to play both wide receiver and cornerback in 2026, but the breakdown of reps between the two wasn't entirely clear until the Jaguars posted their first unofficial depth chart of training camp. Therein, he was listed as a starting CB and reserve WR, and his practice reps trended in that direction as August went on. It's thus unclear what kind of role Hunter can expect on offense to begin the campaign, especially in a position group that rosters Brian Thomas, Parker Washington, Jakobi Meyers (hand) and rookie sixth-rounders Josh Cameron and C.J. Williams.
+- **NEW — Jared Goff** — Jared Goff Offers Top Late-Round Value (2026-09-04T21:44:05Z)
+  - Source: https://www.rotoballer.com/player-news/jared-goff-offers-top-late-round-value/1923625
 - **Jacoby Brissett** — Jacoby Brissett - Starting QB on depth chart (2026-09-04T21:36:45Z)
   - After Arizona released Kyler Murray in March, the team signed Gardner Minshew in free agency and then rounded out the QB room by drafting Carson Beck (ribs) in the third round of the 2026 Draft. Despite those notable additions, Brissett was expected to be the starter, and as a result he held a hold-in during the offseason program and at the starting training camp before agreeing to a revised contract with the team on July 26. Brissett made a cameo in preseason Week 1 versus the Raiders, completing all five of his passes for 44 yards and a touchdown strike to Marvin Harrison. Considering he'll have TE Trey McBride, WRs Harrison and Michael Wilson and RBs Jeremiyah Love (ankle) and Tyler Allgeier at his disposal, Brissett very well may produce like he did during his 12-game starting stint to end last season. Whether that'll be enough for Brissett to hold on to the No. 1 gig throughout the campaign is up in the air, especially with Beck waiting in the wings.
-- **NEW — Deebo Samuel** — Deebo Samuel Sr. Could Shine in San Francisco (2026-09-04T21:36:38Z)
+- **Deebo Samuel** — Deebo Samuel Sr. Could Shine in San Francisco (2026-09-04T21:36:38Z)
   - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-could-shine-in-san-francisco/1923618
 - **Dalton Schultz** — Dalton Schultz has Path to No. 2 Receiving Role (2026-09-04T21:26:05Z)
   - Source: https://www.rotoballer.com/player-news/dalton-schultz-has-path-to-no-2-receiving-option/1923609
@@ -208,5 +210,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/sam-darnold-should-benefit-from-second-season-in-seahawks-offense/1922966
 - **Jayden Daniels** — Jayden Daniels Primed for a Bounce-Back Season in 2026 (2026-09-03T22:36:14Z)
   - Source: https://www.rotoballer.com/player-news/jayden-daniels-primed-for-a-bounce-back-season-in-2026-with-improved-receiving-core/1922958
-- **Jake Ferguson** — Jake Ferguson Restructures Contract With the Cowboys (2026-09-03T22:23:56Z)
-  - Source: https://www.rotoballer.com/player-news/jake-ferguson-restructures-contract-with-the-cowboys/1922954
