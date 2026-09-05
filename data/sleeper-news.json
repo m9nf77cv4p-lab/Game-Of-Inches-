@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T18:20:08Z",
+  "last_checked_at": "2026-09-05T18:34:46Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12529|rotowire|636304|1788631297000",
-    "nfl|9480|rotoballer|220151|1788617105000"
+    "nfl|12529|rotoballer|220152|1788617466000"
   ],
   "schema_version": 1,
   "source": {
@@ -93,6 +92,26 @@
       "story_id": "nfl|11237|rotowire|636294|1788618270000",
       "title": "Jacob Saylors - Earns trust of coaching staff",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots running back TreVeyon Henderson (ankle) is in street clothes for the team's practice on Saturday, according to Andrew Callahan of The Boston Herald. Henderson tweaked his ankle in practice early last week and has not returned since, putting his availability for the Week 1 regular-season opener against the Seattle Seahawks on Wednesday firmly in question. His injury and the fact that he did not stand out as a pass protector in training camp have caused backfield mate Rhamondre Stevenson to become more attractive in fantasy football drafts in New England's backfield. When Henderson is healthy, he will have a significant role alongside Stevenson after rushing for 911 yards and nine rushing touchdowns on 180 carries as a rookie in 2025, but it is clear that head coach Mike Vrabel still has a ton of trust in Stevenson. At RotoBaller, Stevenson is ranked as the RB23 with the season opener in less than a week, with Henderson checking in at No. 29 at the RB position. If Henderson is out or limited in the Super Bowl rematch next week, Corey Kiner would be in line to work as the RB2 behind Stevenson.",
+      "metadata": {
+        "description": "New England Patriots running back TreVeyon Henderson (ankle) is in street clothes for the team's practice on Saturday, according to Andrew Callahan of The Boston Herald. Henderson tweaked his ankle in practice early last week and has not returned since, putting his availability for the Week 1 regular-season opener against the Seattle Seahawks on Wednesday firmly in question. His injury and the fact that he did not stand out as a pass protector in training camp have caused backfield mate Rhamondre Stevenson to become more attractive in fantasy football drafts in New England's backfield. When Henderson is healthy, he will have a significant role alongside Stevenson after rushing for 911 yards and nine rushing touchdowns on 180 carries as a rookie in 2025, but it is clear that head coach Mike Vrabel still has a ton of trust in Stevenson. At RotoBaller, Stevenson is ranked as the RB23 with the season opener in less than a week, with Henderson checking in at No. 29 at the RB position. If Henderson is out or limited in the Super Bowl rematch next week, Corey Kiner would be in line to work as the RB2 behind Stevenson.",
+        "title": "TreVeyon Henderson in Street Clothes for Saturday's Practice",
+        "topic_id": "1402029639358009344",
+        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-in-street-clothes-for-saturdays-practice/1924029"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788617466000,
+      "source": "rotoballer",
+      "source_key": "220152",
+      "story_id": "nfl|12529|rotoballer|220152|1788617466000",
+      "title": "TreVeyon Henderson in Street Clothes for Saturday's Practice",
+      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-in-street-clothes-for-saturdays-practice/1924029"
     },
     {
       "analysis": null,
