@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T22:22:04Z",
+  "last_checked_at": "2026-09-05T22:32:29Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12469|rotoballer|220166|1788631806000",
-    "nfl|12483|rotoballer|220167|1788632045000"
+    "nfl|11637|rotoballer|220168|1788632406000"
   ],
   "schema_version": 1,
   "source": {
@@ -34,6 +33,26 @@
       "story_id": "nfl|12529|fantasy_pros|606042|1788636025559",
       "title": "TreVeyon Henderson (ankle) not practicing Saturday",
       "url": "https://www.fantasypros.com/nfl/news/606042/treveyon-henderson-ankle-not-practicing-saturday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills wide receiver Keon Coleman's stock is falling in fantasy football, partly due to an injury that slowed him down during training camp. Coleman suffered a right foot/toe injury during the Bills' preseason opener on Aug. 15, and although he did get back on the practice field this past week, his abbreviated training camp will likely hurt his stock at the start of the season. It's an unfortunate setback for the former Florida State receiver, who was already trending down after a frustrating 2025 season that included multiple non-injury-related absences. Coleman will try to dig his way out of the doghouse with new head coach Joe Brady, but first, he needs to get back up to game speed. He also needs to prove himself worthy of playing time in a wide receiver room that features DJ Moore, Khalil Shakir, Josh Palmer, and Skyler Bell. As it stands, Coleman is RotoBaller's WR117 in the latest redraft rankings. He can be avoided in 16-round fantasy drafts in leagues with 16 or fewer teams.",
+      "metadata": {
+        "description": "Buffalo Bills wide receiver Keon Coleman's stock is falling in fantasy football, partly due to an injury that slowed him down during training camp. Coleman suffered a right foot/toe injury during the Bills' preseason opener on Aug. 15, and although he did get back on the practice field this past week, his abbreviated training camp will likely hurt his stock at the start of the season. It's an unfortunate setback for the former Florida State receiver, who was already trending down after a frustrating 2025 season that included multiple non-injury-related absences. Coleman will try to dig his way out of the doghouse with new head coach Joe Brady, but first, he needs to get back up to game speed. He also needs to prove himself worthy of playing time in a wide receiver room that features DJ Moore, Khalil Shakir, Josh Palmer, and Skyler Bell. As it stands, Coleman is RotoBaller's WR117 in the latest redraft rankings. He can be avoided in 16-round fantasy drafts in leagues with 16 or fewer teams.",
+        "title": "Keon Coleman's Stock Falling After Injury During Camp",
+        "topic_id": "1402091301091962880",
+        "url": "https://www.rotoballer.com/player-news/keon-colemans-stock-falling-after-injury-during-camp/1924224"
+      },
+      "nfl_team": "BUF",
+      "player_id": "11637",
+      "player_name": "Keon Coleman",
+      "position": "WR",
+      "published": 1788632406000,
+      "source": "rotoballer",
+      "source_key": "220168",
+      "story_id": "nfl|11637|rotoballer|220168|1788632406000",
+      "title": "Keon Coleman's Stock Falling After Injury During Camp",
+      "url": "https://www.rotoballer.com/player-news/keon-colemans-stock-falling-after-injury-during-camp/1924224"
     },
     {
       "analysis": null,

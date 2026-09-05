@@ -2,17 +2,19 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1981**
-- Newly captured: **2**
+- Stored stories: **1982**
+- Newly captured: **1**
 
 ## Latest news
 
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) not practicing Saturday (2026-09-05T19:20:25.559000Z)
   - Henderson has not practiced since August 24th, not a great sign for his availability come game time. The Patriots play the Seahawks on Wednesday, rather than a Thursday, giving Henderson one less day to get healthy. The Patriots first injury report comes out later today.
   - Source: https://www.fantasypros.com/nfl/news/606042/treveyon-henderson-ankle-not-practicing-saturday.php
-- **NEW — Jack Bech** — Jack Bech Set for a Starting Role in Second Season (2026-09-05T18:14:05Z)
+- **NEW — Keon Coleman** — Keon Coleman's Stock Falling After Injury During Camp (2026-09-05T18:20:06Z)
+  - Source: https://www.rotoballer.com/player-news/keon-colemans-stock-falling-after-injury-during-camp/1924224
+- **Jack Bech** — Jack Bech Set for a Starting Role in Second Season (2026-09-05T18:14:05Z)
   - Source: https://www.rotoballer.com/player-news/jack-bech-set-for-a-starting-role-in-second-season/1924222
-- **NEW — Dylan Sampson** — Dylan Sampson a Handcuff with Pass-Catching Upside (2026-09-05T18:10:06Z)
+- **Dylan Sampson** — Dylan Sampson a Handcuff with Pass-Catching Upside (2026-09-05T18:10:06Z)
   - Source: https://www.rotoballer.com/player-news/dylan-sampson-a-handcuff-with-pass-catching-upside/1924220
 - **TreVeyon Henderson** — TreVeyon Henderson - Sitting out Saturday's practice (2026-09-05T18:01:37Z)
   - Head coach Mike Vrabel suggested earlier Saturday that Henderson could return to practice, but the second-year running back will end up observing the session in street clothes as he continues to recover from an ankle injury. Henderson will have two more chances to return to practice in at least a limited capacity ahead of the Patriots' regular-season opener against the Seahawks on Wednesday.
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tyler-shough-offers-real-late-round-qb-upside/1923409
 - **Jaylen Wright** — Jaylen Wright - Listed as RB2 behind Achane (2026-09-04T15:26:59Z)
   - The 23-year-old is entering his third NFL season after being selected in the fourth round of the 2024 Draft by then-coach Mike McDaniel. Now playing under a new coaching staff, Wright appears to be ahead of Ollie Gordon and special-teams player Carlos Washington for backup duties behind De'Von Achane. Wright carried the ball 70 times for 288 yards (4.1 YPC) and two touchdowns last season but hasn't been asked to catch the ball in the pros, with just eight grabs for 52 yards across 25 career regular-season contests.
-- **Caleb Douglas** — Caleb Douglas - Listed as starter (2026-09-04T15:23:09Z)
-  - Douglas is slotted in as the X receiver, alongside Jalen Tolbert at the Z and Malik Washington as the slot man for Miami. A third-round pick out of Texas Tech back in April, Douglas has been running with the first-team offense most of the summer. He logged 17 offensive snaps during the preseason, catching one of his two targets for 28 yards, before being rested for the third exhibition. This Dolphins offense projects to be a low-scoring one, and it remains to be seen if Malik Willis will be able to carry any of his pass catchers to fantasy relevance.
