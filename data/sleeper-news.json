@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-05T15:01:00Z",
+  "last_checked_at": "2026-09-05T15:17:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|12527|rotoballer|220137|1788606065000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -12,10 +14,10 @@
   },
   "stories": [
     {
-      "analysis": "Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role offensive behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.",
+      "analysis": "Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role in the offense behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.",
       "description": "Saylors earned the trust of coaching staff during training camp and could see consistent playing time on both offense and special teams this season, Tim Twentyman of the Lions' official site reports.",
       "metadata": {
-        "analysis": "Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role offensive behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.",
+        "analysis": "Saylors had a strong training camp, and across three preseason games he logged 31 carries for 187 yards while catching five passes (on nine targets) for 40 yards. With Isiah Pacheco (back) on injured reserve with no clear return timeline, Saylors is poised to operate in an elevated role in the offense behind Jahmyr Gibbs, with 2024 fourth-rounder Sione Vaki also in the mix for backfield touches.",
         "description": "Saylors earned the trust of coaching staff during training camp and could see consistent playing time on both offense and special teams this season, Tim Twentyman of the Lions' official site reports.",
         "title": "Jacob Saylors - Earns trust of coaching staff",
         "topic_id": "1401970474023387136"
@@ -33,12 +35,32 @@
     },
     {
       "analysis": null,
+      "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) suffered a sprained ankle in the preseason rather than a more serious injury that was feared, and ESPN Insider Adam Schefter said he has a \"legitimate chance to play in Week 1 against the Miami Dolphins.\" However, with the injury and the emergence of rookie running back Mike Washington Jr. in camp, there is real worry in selecting Jeanty in the late first round, which was where he was projected prior to his injury. The good news is it was only a sprained ankle; the bad news is there could be more of a split in carries than originally thought with Washington. Washington has looked good in camp and is averaging 7.3 yards per carry in preseason games. General manager John Spytek has praised Washington this fall: \"We have an expectation that he's going to help us win football games this year,\" Spytek told Ryan McFadden of ESPN.com.",
+      "metadata": {
+        "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) suffered a sprained ankle in the preseason rather than a more serious injury that was feared, and ESPN Insider Adam Schefter said he has a \"legitimate chance to play in Week 1 against the Miami Dolphins.\" However, with the injury and the emergence of rookie running back Mike Washington Jr. in camp, there is real worry in selecting Jeanty in the late first round, which was where he was projected prior to his injury. The good news is it was only a sprained ankle; the bad news is there could be more of a split in carries than originally thought with Washington. Washington has looked good in camp and is averaging 7.3 yards per carry in preseason games. General manager John Spytek has praised Washington this fall: \"We have an expectation that he's going to help us win football games this year,\" Spytek told Ryan McFadden of ESPN.com.",
+        "title": "Ashton Jeanty A Riskier Pick Due to Ankle Injury",
+        "topic_id": "1401980539702947840",
+        "url": "https://www.rotoballer.com/player-news/ashton-jeanty-a-risky-pick-now-with-injury-emergence-of-mike-washington-jr/1923852"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788606065000,
+      "source": "rotoballer",
+      "source_key": "220137",
+      "story_id": "nfl|12527|rotoballer|220137|1788606065000",
+      "title": "Ashton Jeanty A Riskier Pick Due to Ankle Injury",
+      "url": "https://www.rotoballer.com/player-news/ashton-jeanty-a-risky-pick-now-with-injury-emergence-of-mike-washington-jr/1923852"
+    },
+    {
+      "analysis": null,
       "description": "New York Giants quarterback Jaxson Dart is reportedly gaining confidence in his second year in the Giants' offense, according to Darryl Slater of NJ.com. Dart even looks back to this spring and says he already notices a difference in camp this fall. \"I feel so much better,\" Dart said of where he's at now, compared to the spring. \"I feel in command. I feel confident. In this offense, there's a lot that's put on the quarterback's plate, but it's exactly how I want it. It's exactly how I viewed this coming together.\" The Giants' new offense is led by offensive coordinator Matt Nagy and head coach John Harbaugh, and it already feels like a good fit for Dart. Last season, Dart was 216-for-339 passing for 2,272 yards and 15 touchdowns with five interceptions. He also rushed 86 times for 487 yards and nine touchdowns. Dart looks like a nice risk at the quarterback position in drafts with league-winning upside because of his rushing ability.",
       "metadata": {
         "description": "New York Giants quarterback Jaxson Dart is reportedly gaining confidence in his second year in the Giants' offense, according to Darryl Slater of NJ.com. Dart even looks back to this spring and says he already notices a difference in camp this fall. \"I feel so much better,\" Dart said of where he's at now, compared to the spring. \"I feel in command. I feel confident. In this offense, there's a lot that's put on the quarterback's plate, but it's exactly how I want it. It's exactly how I viewed this coming together.\" The Giants' new offense is led by offensive coordinator Matt Nagy and head coach John Harbaugh, and it already feels like a good fit for Dart. Last season, Dart was 216-for-339 passing for 2,272 yards and 15 touchdowns with five interceptions. He also rushed 86 times for 487 yards and nine touchdowns. Dart looks like a nice risk at the quarterback position in drafts with league-winning upside because of his rushing ability.",
-        "title": "Jaxson Dart Feeling More Comrfortable In Giants Offense",
+        "title": "Jaxson Dart Feeling More Comfortable In Giants Offense",
         "topic_id": "1401976764015603712",
-        "url": "https://www.rotoballer.com/player-news/jaxson-dart-feeling-more-comrfortable-in-giants-offense/1923844"
+        "url": "https://www.rotoballer.com/player-news/jaxson-dart-feeling-more-comfortable-in-giants-offense/1923844"
       },
       "nfl_team": "NYG",
       "player_id": "12508",
@@ -48,8 +70,8 @@
       "source": "rotoballer",
       "source_key": "220136",
       "story_id": "nfl|12508|rotoballer|220136|1788605105000",
-      "title": "Jaxson Dart Feeling More Comrfortable In Giants Offense",
-      "url": "https://www.rotoballer.com/player-news/jaxson-dart-feeling-more-comrfortable-in-giants-offense/1923844"
+      "title": "Jaxson Dart Feeling More Comfortable In Giants Offense",
+      "url": "https://www.rotoballer.com/player-news/jaxson-dart-feeling-more-comfortable-in-giants-offense/1923844"
     },
     {
       "analysis": null,
