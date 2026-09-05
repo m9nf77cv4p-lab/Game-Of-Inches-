@@ -20,7 +20,8 @@
   "loser_bracket_overrides_id": null,
   "metadata": {
     "auto_continue": "on",
-    "keeper_deadline": "0"
+    "keeper_deadline": "0",
+    "latest_league_winner_roster_id": "5"
   },
   "name": "Game of Inches",
   "previous_league_id": "1182525546322374656",
