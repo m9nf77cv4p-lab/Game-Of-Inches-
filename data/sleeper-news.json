@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T05:37:05Z",
+  "last_checked_at": "2026-09-06T06:49:52Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|3257|rotoballer|220185|1788657665000"
+    "nfl|13285|rotoballer|220186|1788652088000"
   ],
   "schema_version": 1,
   "source": {
@@ -92,6 +92,26 @@
       "story_id": "nfl|11575|rotoballer|220180|1788654426000",
       "title": "Ray Davis a Handcuff with Low Standalone Value",
       "url": "https://www.rotoballer.com/player-news/ray-davis-a-handcuff-with-low-standalone-value/1924348"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants rookie wide receiver Malachi Fields could potentially earn a large role for the Giants in 2026. The Giants' depth chart currently lists Malik Nabers andDarius Slayton as the starting wide receiver duo, with Calvin Austin III and Darnell Mooney also listed ahead of Fields. Fields is also competing with veteran Odell Beckham Jr. for snaps. However, recent reports indicate that Fields may actually operate as the No. 2 wide receiver for New York. According to SNY, the 6-foot-4, 222-pound Fields has worked his way up the depth chart and will work in tandem with Nabers. Fields recorded three receptions for 34 yards and a touchdown in his preseason debut against the Minnesota Vikings. The third-round pick out of Notre Dame is currently a promising dynasty prospect, while he is rostered in just 6% of dynasty leagues. He is a name to watch in standard leagues moving forward.",
+      "metadata": {
+        "description": "New York Giants rookie wide receiver Malachi Fields could potentially earn a large role for the Giants in 2026. The Giants' depth chart currently lists Malik Nabers andDarius Slayton as the starting wide receiver duo, with Calvin Austin III and Darnell Mooney also listed ahead of Fields. Fields is also competing with veteran Odell Beckham Jr. for snaps. However, recent reports indicate that Fields may actually operate as the No. 2 wide receiver for New York. According to SNY, the 6-foot-4, 222-pound Fields has worked his way up the depth chart and will work in tandem with Nabers. Fields recorded three receptions for 34 yards and a touchdown in his preseason debut against the Minnesota Vikings. The third-round pick out of Notre Dame is currently a promising dynasty prospect, while he is rostered in just 6% of dynasty leagues. He is a name to watch in standard leagues moving forward.",
+        "title": "Is Malachi Fields Set for Large Role with Giants?",
+        "topic_id": "1402215883157331968",
+        "url": "https://www.rotoballer.com/player-news/is-malachi-fields-set-for-large-role-with-giants/1924343"
+      },
+      "nfl_team": "NYG",
+      "player_id": "13285",
+      "player_name": "Malachi Fields",
+      "position": "WR",
+      "published": 1788652088000,
+      "source": "rotoballer",
+      "source_key": "220186",
+      "story_id": "nfl|13285|rotoballer|220186|1788652088000",
+      "title": "Is Malachi Fields Set for Large Role with Giants?",
+      "url": "https://www.rotoballer.com/player-news/is-malachi-fields-set-for-large-role-with-giants/1924343"
     },
     {
       "analysis": null,

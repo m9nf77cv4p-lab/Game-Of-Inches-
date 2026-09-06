@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1995**
+- Stored stories: **1996**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jacoby Brissett** — Jacoby Brissett a Sleeper with Talented Supporting Cast (2026-09-06T01:21:05Z)
+- **Jacoby Brissett** — Jacoby Brissett a Sleeper with Talented Supporting Cast (2026-09-06T01:21:05Z)
   - Source: https://www.rotoballer.com/player-news/jacoby-brissett-a-sleeper-with-talented-supporting-cast/1924357
 - **Rachaad White** — Rachaad White the Subject of Positive Reports During Camp (2026-09-06T00:40:55Z)
   - Source: https://www.rotoballer.com/player-news/rachaad-white-the-subject-of-positive-reports-during-camp/1924355
@@ -15,6 +15,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jauan-jennings-a-late-round-pick-with-limited-upside-in-crowded-receiver-room/1924350
 - **Ray Davis** — Ray Davis a Handcuff with Low Standalone Value (2026-09-06T00:27:06Z)
   - Source: https://www.rotoballer.com/player-news/ray-davis-a-handcuff-with-low-standalone-value/1924348
+- **NEW — Malachi Fields** — Is Malachi Fields Set for Large Role with Giants? (2026-09-05T23:48:08Z)
+  - Source: https://www.rotoballer.com/player-news/is-malachi-fields-set-for-large-role-with-giants/1924343
 - **Germie Bernard** — Germie Bernard Impresses During Preseason, Looks to Earn Role in Pittsburgh's Offense (2026-09-05T23:31:05Z)
   - Source: https://www.rotoballer.com/player-news/germie-bernard-impresses-during-preseason-and-looks-to-earn-role-in-pittsburghs-offense/1924337
 - **Tyjae Spears** — Tyjae Spears Could Lose Touches (2026-09-05T21:53:36Z)
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605912/jake-ferguson-restructures-contract-with-cowboys.php
 - **Cam Ward** — Robert Saleh is Convinced Cam Ward Will Turn it Around (2026-09-04T16:31:15Z)
   - Source: https://www.rotoballer.com/player-news/robert-saleh-is-convinced-cam-ward-will-turn-it-around/1923486
-- **Tony Pollard** — Tony Pollard a High-Floor RB Due to Projectable Workload Volume (2026-09-04T16:26:09Z)
-  - Source: https://www.rotoballer.com/player-news/tony-pollard-a-high-floor-running-back-option-due-to-projectable-workload-volume/1923470
