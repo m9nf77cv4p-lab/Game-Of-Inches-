@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-06T19:56:15Z",
+  "last_checked_at": "2026-09-06T20:26:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|12529|rotoballer|220221|1788709220000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -40627,26 +40625,6 @@
       "story_id": "nfl|12499|rotowire|632863|1786145914000",
       "title": "Elic Ayomanor - Back at practice Friday",
       "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Las Vegas Raiders wide receiver Tre Tucker (leg) left training camp practice on Friday with an undisclosed leg injury, according to Joshua Jacopetti. Fellow wideout Dont'e Thornton Jr. also left Friday's practice with an undisclosed injury, so the Raiders' WR depth will be tested this weekend. The 25-year-old Tucker is expected to start alongside newcomer Jalen Nailor in 2026 in the team's new offense under head coach Klint Kubiak, with veteran quarterback Kirk Cousins and rookie Fernando Mendoza running it. Tucker had career highs across the board in 2025 in his third year in the NFL, catching 57 of his 92 targets for 696 yards and five touchdowns in 17 starts. The efficiency was not there in a bad Raiders offense, but that could change with new personnel and a new scheme this year. Still, the 25-year-old is a hard sell in 12-team fantasy football leagues, even with a potentially more efficient Raiders offense in 2026. RotoBaller has Tucker ranked as the No. 65 fantasy WR in half-PPR formats.",
-      "metadata": {
-        "description": "Las Vegas Raiders wide receiver Tre Tucker (leg) left training camp practice on Friday with an undisclosed leg injury, according to Joshua Jacopetti. Fellow wideout Dont'e Thornton Jr. also left Friday's practice with an undisclosed injury, so the Raiders' WR depth will be tested this weekend. The 25-year-old Tucker is expected to start alongside newcomer Jalen Nailor in 2026 in the team's new offense under head coach Klint Kubiak, with veteran quarterback Kirk Cousins and rookie Fernando Mendoza running it. Tucker had career highs across the board in 2025 in his third year in the NFL, catching 57 of his 92 targets for 696 yards and five touchdowns in 17 starts. The efficiency was not there in a bad Raiders offense, but that could change with new personnel and a new scheme this year. Still, the 25-year-old is a hard sell in 12-team fantasy football leagues, even with a potentially more efficient Raiders offense in 2026. RotoBaller has Tucker ranked as the No. 65 fantasy WR in half-PPR formats.",
-        "title": "Tre Tucker Leaves Practice With Leg Injury on Friday",
-        "topic_id": "1391613501822226433",
-        "url": "https://www.rotoballer.com/player-news/tre-tucker-leaves-practice-with-leg-injury-on-friday/1905010"
-      },
-      "nfl_team": "LV",
-      "player_id": "10213",
-      "player_name": "Tre Tucker",
-      "position": "WR",
-      "published": 1786134306000,
-      "source": "rotoballer",
-      "source_key": "218157",
-      "story_id": "nfl|10213|rotoballer|218157|1786134306000",
-      "title": "Tre Tucker Leaves Practice With Leg Injury on Friday",
-      "url": "https://www.rotoballer.com/player-news/tre-tucker-leaves-practice-with-leg-injury-on-friday/1905010"
     }
   ]
 }

@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2023**
-- Newly captured: **1**
+- Stored stories: **2022**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -12,7 +12,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php
 - **TreVeyon Henderson** — TreVeyon Henderson - Looks set to miss Sunday's practice (2026-09-06T18:11:28Z)
   - New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson Still Sidelined With Week 1 Nearing (2026-09-06T15:40:20Z)
+- **TreVeyon Henderson** — TreVeyon Henderson Still Sidelined With Week 1 Nearing (2026-09-06T15:40:20Z)
   - Source: https://www.rotoballer.com/player-news/treveyon-henderson-still-sidelined-with-week-1-nearing/1924712
 - **Baker Mayfield** — Baker Mayfield Building Some Bounce-Back Momentum (2026-09-06T15:13:22Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-building-some-bounce-back-momentum/1924703
