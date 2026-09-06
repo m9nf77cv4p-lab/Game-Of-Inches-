@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2031**
+- Stored stories: **2030**
 - Newly captured: **1**
 
 ## Latest news
 
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Misses Sunday's practice (2026-09-06T23:31:39Z)
+  - Henderson suffered a minor right ankle injury on Aug. 24 and hasn't been able to practice since then. After Sunday's absence, he'll have two more chances to mix into drills before the Patriots potentially make a ruling on his status for Week 1 when they post Tuesday's injury report. If Henderson isn't able to suit up for Wednesday's season opener at Seattle, Rhamondre Stevenson would be in line to handle the bulk of the backfield reps for New England, with Corey Kiner and practice-squad members Lan Larison and Hassan Haskins the potential candidates for complementary work, per Mike Reiss of ESPN.com.
 - **George Kittle** — George Kittle - In line to practice Monday (2026-09-06T22:04:37Z)
   - Kittle has made a speedy recovery from the torn right Achilles that he suffered in the 49ers' wild-card win at Philadelphia on Jan. 11, for which he underwent surgery three days later. Both GM John Lynch and coach Kyle Shanahan and the tight end himself expressed optimism in the offseason about Kittle being available Week 1 against the Rams, and his activation from the active/PUP list on Aug. 23 begin to set the stage for such a reality. Kittle then logged team drills last week and made the trip to Australia with his teammates. The 49ers will post their first injury report of the season Monday, which will reveal how much activity he was able to manage.
 - **Puka Nacua** — Puka Nacua (psoas) expected to play in Week 1 (2026-09-06T21:25:34.525000Z)
@@ -17,7 +19,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) not at practice Sunday  (2026-09-06T19:20:33.878000Z)
   - Henderson has not practiced since August 24. He continues to trend in the wrong direction heading into Wednesday's season opener. 
   - Source: https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php
-- **NEW — Jadarian Price** — Jadarian Price Unlikely to Occupy Every-Down Role in Seattle (2026-09-06T19:00:09Z)
+- **Jadarian Price** — Jadarian Price Unlikely to Occupy Every-Down Role in Seattle (2026-09-06T19:00:09Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-unlikely-to-occupy-every-down-role-in-seattle/1924807
 - **Rashid Shaheed** — Rashid Shaheed Will Take on a Bigger Role in 2026 (2026-09-06T18:49:50Z)
   - Source: https://www.rotoballer.com/player-news/rashid-shaheed-will-take-on-a-bigger-role-in-2026/1924805
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/stefon-diggs-set-for-high-volume-role-in-washington/1923681
 - **Jahmyr Gibbs** — Jahmyr Gibbs the Consensus 1.01 in Fantasy Drafts (2026-09-04T23:26:26Z)
   - Source: https://www.rotoballer.com/player-news/jahmyr-gibbs-the-consensus-1-01-in-fantasy-drafts/1923678
-- **Brock Bowers** — Brock Bowers Projected for a Massive Target Share (2026-09-04T23:09:05Z)
-  - Source: https://www.rotoballer.com/player-news/brock-bowers-projected-for-a-massive-target-share/1923670
