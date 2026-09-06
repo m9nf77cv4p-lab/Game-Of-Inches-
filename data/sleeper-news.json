@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T23:01:59Z",
+  "last_checked_at": "2026-09-06T23:17:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|8676|rotoballer|220231|1788720590000"
+    "nfl|13286|rotoballer|220232|1788721209000"
   ],
   "schema_version": 1,
   "source": {
@@ -94,6 +94,26 @@
       "story_id": "nfl|12529|fantasy_pros|606192|1788722433878",
       "title": "TreVeyon Henderson (ankle) not at practice Sunday ",
       "url": "https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks running back Jadarian Price will be a major part of the team's offense this season, but he's not expected to occupy an every-down role, according to Jeremy Fowler of ESPN.com. \"I don't know if he's going to be that huge 20-carry-per-game workload, because Seattle likes to use two or three backs,\" Fowler said. \"That's their plan this season.\" Hype had been growing for Price in recent weeks, especially after the Seahawks officially placed Zach Charbonnet (knee) on the PUP list. However, this latest update shouldn't come as much of a surprise. Indeed, Seattle is known for sharing the running back workload, and Price's track record suggested he isn't ready for an every-down role. During his final season at Notre Dame, he averaged just 9.4 carries per game, albeit in a role behind fellow first-round pick Jeremiyah Love. We do imagine that Price will be the preferred ball-carrier while Charbonnet is sidelined, but we fully expect George Holani and Emanuel Wilson to carve out sizable roles, too.",
+      "metadata": {
+        "description": "Seattle Seahawks running back Jadarian Price will be a major part of the team's offense this season, but he's not expected to occupy an every-down role, according to Jeremy Fowler of ESPN.com. \"I don't know if he's going to be that huge 20-carry-per-game workload, because Seattle likes to use two or three backs,\" Fowler said. \"That's their plan this season.\" Hype had been growing for Price in recent weeks, especially after the Seahawks officially placed Zach Charbonnet (knee) on the PUP list. However, this latest update shouldn't come as much of a surprise. Indeed, Seattle is known for sharing the running back workload, and Price's track record suggested he isn't ready for an every-down role. During his final season at Notre Dame, he averaged just 9.4 carries per game, albeit in a role behind fellow first-round pick Jeremiyah Love. We do imagine that Price will be the preferred ball-carrier while Charbonnet is sidelined, but we fully expect George Holani and Emanuel Wilson to carve out sizable roles, too.",
+        "title": "Jadarian Price Unlikely to Occupy Every-Down Role in Seattle",
+        "topic_id": "1402463791085522944",
+        "url": "https://www.rotoballer.com/player-news/jadarian-price-unlikely-to-occupy-every-down-role-in-seattle/1924807"
+      },
+      "nfl_team": "SEA",
+      "player_id": "13286",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "published": 1788721209000,
+      "source": "rotoballer",
+      "source_key": "220232",
+      "story_id": "nfl|13286|rotoballer|220232|1788721209000",
+      "title": "Jadarian Price Unlikely to Occupy Every-Down Role in Seattle",
+      "url": "https://www.rotoballer.com/player-news/jadarian-price-unlikely-to-occupy-every-down-role-in-seattle/1924807"
     },
     {
       "analysis": null,
