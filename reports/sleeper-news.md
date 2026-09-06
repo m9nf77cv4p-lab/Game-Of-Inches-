@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1986**
+- Stored stories: **1987**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Tory Horton** — Tory Horton Injury Concerns Could Lower His Value (2026-09-05T21:21:05Z)
+- **NEW — Chimere Dike** — Chimere Dike Could Get Lost in the Shuffle (2026-09-05T21:30:05Z)
+  - Source: https://www.rotoballer.com/player-news/chimere-dike-could-get-lost-in-the-shuffle/1924289
+- **Tory Horton** — Tory Horton Injury Concerns Could Lower His Value (2026-09-05T21:21:05Z)
   - Source: https://www.rotoballer.com/player-news/tory-horton-injury-concerns-could-lower-his-value/1924286
 - **Parker Washington** — Parker Washington Seeking New Contract in Jacksonville (2026-09-05T19:48:12Z)
   - Source: https://www.rotoballer.com/player-news/parker-washington-seeking-new-contract-in-jacksonville/1924257
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/mark-andrews-has-room-for-his-targets-to-climb-again/1923433
 - **Jerry Jeudy** — Jerry Jeudy - Listed as starting wideout (2026-09-04T15:51:27Z)
   - It comes as no surprise after the Browns cut Cedric Tillman at the end of training camp. Jeudy is listed as a starter alongside rookie wideouts KC Concepcion and Denzel Boston. Jeudy displayed no chemistry with Shedeur Sanders last season, as the veteran wideout finished 2025 with just 50 catches for 602 yards and two touchdowns on 106 targets. His 47.2 percent catch rate was fifth worst out of 197 qualified pass catchers, and of the 38 players in the NFL to see at least 100 targets, Jeudy's 602 yards were just two more than Jake Ferguson at the bottom of the list. Concepcion is expected to become the go-to target in Cleveland, with Boston operating as the big-bodied X receiver. Jeudy will face far more competition for targets.
-- **Xavier Worthy** — Xavier Worthy Still Has a Path Back to Rookie Form (2026-09-04T15:45:06Z)
-  - Source: https://www.rotoballer.com/player-news/xavier-worthy-still-has-a-path-back-to-rookie-form/1923422

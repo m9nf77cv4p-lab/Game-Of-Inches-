@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T01:29:05Z",
+  "last_checked_at": "2026-09-06T01:42:54Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12497|rotoballer|220174|1788643265000"
+    "nfl|12540|rotoballer|220175|1788643805000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Tennessee Titans wide receiver Chimere Dike is hopeful to build off a decent rookie campaign. Last season, Dike hauled in 48 receptions with 423 receiving yards and four touchdowns in 17 games. Those stats were good enough to finish as the WR50, but Dike could be trending downward now. The Titans made significant upgrades to their offense this past offseason with Wan'Dale Robinson and drafting Carnell Tate in the first round. Dike might end up as the fourth or fifth wideout on this roster, which doesn't bode well for his fantasy value. The 24-year-old could be worth holding in dynasty leagues, but Dike isn't someone who must be selected in redraft formats.",
+      "metadata": {
+        "description": "Tennessee Titans wide receiver Chimere Dike is hopeful to build off a decent rookie campaign. Last season, Dike hauled in 48 receptions with 423 receiving yards and four touchdowns in 17 games. Those stats were good enough to finish as the WR50, but Dike could be trending downward now. The Titans made significant upgrades to their offense this past offseason with Wan'Dale Robinson and drafting Carnell Tate in the first round. Dike might end up as the fourth or fifth wideout on this roster, which doesn't bode well for his fantasy value. The 24-year-old could be worth holding in dynasty leagues, but Dike isn't someone who must be selected in redraft formats.",
+        "title": "Chimere Dike Could Get Lost in the Shuffle",
+        "topic_id": "1402140378244599808",
+        "url": "https://www.rotoballer.com/player-news/chimere-dike-could-get-lost-in-the-shuffle/1924289"
+      },
+      "nfl_team": "TEN",
+      "player_id": "12540",
+      "player_name": "Chimere Dike",
+      "position": "WR",
+      "published": 1788643805000,
+      "source": "rotoballer",
+      "source_key": "220175",
+      "story_id": "nfl|12540|rotoballer|220175|1788643805000",
+      "title": "Chimere Dike Could Get Lost in the Shuffle",
+      "url": "https://www.rotoballer.com/player-news/chimere-dike-could-get-lost-in-the-shuffle/1924289"
+    },
     {
       "analysis": null,
       "description": "Seattle Seahawks wide receiver Tory Horton has missed part of training camp due to an undisclosed injury. Head coach Mike Macdonald recently told the media that Horton isn't dealing with a significant injury. The Seahawks haven't given much information on this situation, which is concerning for fantasy managers. It sounds like Horton is going to be fine for the season opener against the New England Patriots. The 23-year-old finished with 13 receptions for 161 receiving yards and five touchdowns in eight games last season. The expectation is that Horton will step into a bigger role this season, but the injury bug is something fantasy managers should be aware of with Horton.",
