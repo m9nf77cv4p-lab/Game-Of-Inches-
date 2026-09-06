@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T17:43:14Z",
+  "last_checked_at": "2026-09-06T17:53:12Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|6803|rotoballer|220208|1788701525000"
+    "nfl|11618|rotoballer|220209|1788702244000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers wide receiver Jalen McMillan (knee) has lost some of the late-round appeal he carried into training camp. He banged up his knee in early August, missed all three preseason games and was still sidelined when Tampa Bay practiced on Sept. 1. The Bucs remain hopeful he'll be ready for Week 1, but this comes right after a 2025 season that was mostly lost to a serious neck injury. McMillan spent months in a restrictive brace before returning in Week 15 and finished the year with 12 catches for 178 yards in four games. That followed a much more encouraging rookie season, when he caught 37 passes for 461 yards and eight touchdowns. There is still room for him in this offense, but the missed summer work matters with Chris Godwin Jr. and Emeka Egbuka holding clearly defined roles and Ted Hurst III and Tez Johnson also in the mix. RotoBaller had McMillan at WR57 in late August. He's down to WR64 in the Sept. 6 half-PPR rankings.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers wide receiver Jalen McMillan (knee) has lost some of the late-round appeal he carried into training camp. He banged up his knee in early August, missed all three preseason games and was still sidelined when Tampa Bay practiced on Sept. 1. The Bucs remain hopeful he'll be ready for Week 1, but this comes right after a 2025 season that was mostly lost to a serious neck injury. McMillan spent months in a restrictive brace before returning in Week 15 and finished the year with 12 catches for 178 yards in four games. That followed a much more encouraging rookie season, when he caught 37 passes for 461 yards and eight touchdowns. There is still room for him in this offense, but the missed summer work matters with Chris Godwin Jr. and Emeka Egbuka holding clearly defined roles and Ted Hurst III and Tez Johnson also in the mix. RotoBaller had McMillan at WR57 in late August. He's down to WR64 in the Sept. 6 half-PPR rankings.",
+        "title": "Jalen McMillan's Redraft Appeal Takes Another Hit",
+        "topic_id": "1402384510321963008",
+        "url": "https://www.rotoballer.com/player-news/jalen-mcmillans-redraft-appeal-takes-another-hit/1924644"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1788702244000,
+      "source": "rotoballer",
+      "source_key": "220209",
+      "story_id": "nfl|11618|rotoballer|220209|1788702244000",
+      "title": "Jalen McMillan's Redraft Appeal Takes Another Hit",
+      "url": "https://www.rotoballer.com/player-news/jalen-mcmillans-redraft-appeal-takes-another-hit/1924644"
+    },
     {
       "analysis": null,
       "description": "San Francisco 49ers wide receiver Brandon Aiyuk is getting awfully difficult to keep on a redraft board. He remains on the reserve/left squad list as Week 1 approaches, and there has been no movement toward getting him back into the 49ers' offense. Aiyuk hasn't played since Week 7 of 2024, when a torn ACL and MCL ended a seven-game season in which he caught 25 passes for 374 yards and no touchdowns. He then missed all of 2025. At this point, the bigger concern isn't even the knee. There is simply no 2026 role to project while he remains away from the team. RotoBaller had Aiyuk at WR115 in its August half-PPR rankings, and he has since dropped to WR132 in the Sept. 6 update. Something could eventually change with his roster situation, but fantasy managers drafting right now have very little reason to spend a pick waiting for it.",

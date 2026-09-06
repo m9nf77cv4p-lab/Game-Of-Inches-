@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2011**
+- Stored stories: **2012**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Brandon Aiyuk** — Brandon Aiyuk Keeps Sliding Out of Redraft Relevance (2026-09-06T13:32:05Z)
+- **NEW — Jalen McMillan** — Jalen McMillan's Redraft Appeal Takes Another Hit (2026-09-06T13:44:04Z)
+  - Source: https://www.rotoballer.com/player-news/jalen-mcmillans-redraft-appeal-takes-another-hit/1924644
+- **Brandon Aiyuk** — Brandon Aiyuk Keeps Sliding Out of Redraft Relevance (2026-09-06T13:32:05Z)
   - Source: https://www.rotoballer.com/player-news/brandon-aiyuk-keeps-sliding-out-of-redraft-relevance/1924641
 - **Theo Johnson** — Theo Johnson's Redraft Stock Has Slipped (2026-09-06T13:12:05Z)
   - Source: https://www.rotoballer.com/player-news/theo-johnsons-redraft-stock-has-slipped/1924632
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The 39th overall pick in the 2026 Draft, Boston combined for one catch (on two targets) for 15 yards on 37 offensive snaps between his two appearances during the preseason. The output was nothing to write home about, but he appears set to be one of starting QB Deshaun Watson's key pass catchers to begin the campaign.
 - **Cam Ward** — Cam Ward - Working out kinks with Daboll (2026-09-04T20:05:17Z)
   - The first overall pick in the 2025 Draft, Ward started all 17 regular-season games as a rookie, completing 323 of 540 passes (59.8 percent) for 3,169 yards, 15 touchdowns and seven interceptions while turning 39 carries into 159 yards and two more TDs. He also fumbled 11 times, losing seven of them. The Titans added WR Carnell Tate in the first round of this year's draft and also signed WR Wan'Dale Robinson to a four-year, $70 million deal in the offseason, so Ward does have a bit more support as he enters his second pro campaign. Whether or not that helps Ward cut down on mistakes remains to be seen.
-- **Cade Otton** — Cade Otton - Remains No. 1 TE on depth chart (2026-09-04T19:36:53Z)
-  - Aside from adding sixth-round rookie Bauer Sharp to the TE room this offseason, it's status quo for the position group in 2026, with all of Otton, Payne Durham and Ko Kieft back. Otton himself re-signed with Tampa Bay on a three-year, $30 million contract in March to retain his standing as the team's top tight end. Over the last two regular seasons, he's recorded exactly 59 catches on both occasions, totaling 1,172 yards and five touchdowns on 168 targets across 30 contests.
