@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-06T16:35:37Z",
+  "last_checked_at": "2026-09-06T16:45:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11646|rotoballer|220204|1788697809000",
-    "nfl|8167|rotoballer|220203|1788697086000"
+    "nfl|11628|rotoballer|220206|1788698479000",
+    "nfl|13405|rotoballer|220205|1788698165000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals wide receiver Marvin Harrison Jr.'s fantasy outlook took another hit after teammate Michael Wilson signed a lucrative three-year, $75 million extension. While the extension doesn't directly impact Harrison's productivity, it does shift the dynamic of Arizona's receiver room. The Cardinals' willingness to pay Wilson three-quarters of a million dollars indicates that they don't believe his performance last season (78 catches, 1,006 yards, and seven touchdowns) was a fluke. They're invested in him to be their No. 1 receiver long-term. In fact, he's now under team control for the same length of time as Harrison. We're still intrigued that Harrison can improve upon last year's total of 41 targets, especially if the Cardinals are trailing in games and have to throw the football a lot. However, Wilson has the stronger rapport with Jacoby Brissett, and his new contract is further evidence that he's going to be a major contributor in Arizona for years to come. Harrison is firmly nestled into the No. 2 receiver role, making him a fringe WR3/flex in fantasy football leagues. With that being said, managers are still drafting him as a fringe top-30 receiver. He has an ADP of 71.8, which corresponds to the sixth round of fantasy drafts. That price tag feels a bit too rich, especially since you can get players like Christian Watson, Mike Evans, Parker Washington, Carnell Tate, and Wilson in the same range.",
+      "metadata": {
+        "description": "Arizona Cardinals wide receiver Marvin Harrison Jr.'s fantasy outlook took another hit after teammate Michael Wilson signed a lucrative three-year, $75 million extension. While the extension doesn't directly impact Harrison's productivity, it does shift the dynamic of Arizona's receiver room. The Cardinals' willingness to pay Wilson three-quarters of a million dollars indicates that they don't believe his performance last season (78 catches, 1,006 yards, and seven touchdowns) was a fluke. They're invested in him to be their No. 1 receiver long-term. In fact, he's now under team control for the same length of time as Harrison. We're still intrigued that Harrison can improve upon last year's total of 41 targets, especially if the Cardinals are trailing in games and have to throw the football a lot. However, Wilson has the stronger rapport with Jacoby Brissett, and his new contract is further evidence that he's going to be a major contributor in Arizona for years to come. Harrison is firmly nestled into the No. 2 receiver role, making him a fringe WR3/flex in fantasy football leagues. With that being said, managers are still drafting him as a fringe top-30 receiver. He has an ADP of 71.8, which corresponds to the sixth round of fantasy drafts. That price tag feels a bit too rich, especially since you can get players like Christian Watson, Mike Evans, Parker Washington, Carnell Tate, and Wilson in the same range.",
+        "title": "Marvin Harrison Jr.'s Fantasy Stock Impacted by Teammate's Extension",
+        "topic_id": "1402368151114543104",
+        "url": "https://www.rotoballer.com/player-news/marvin-harrison-jr-s-fantasy-stock-impacted-by-teammates-extension/1924622"
+      },
+      "nfl_team": "ARI",
+      "player_id": "11628",
+      "player_name": "Marvin Harrison",
+      "position": "WR",
+      "published": 1788698479000,
+      "source": "rotoballer",
+      "source_key": "220206",
+      "story_id": "nfl|11628|rotoballer|220206|1788698479000",
+      "title": "Marvin Harrison Jr.'s Fantasy Stock Impacted by Teammate's Extension",
+      "url": "https://www.rotoballer.com/player-news/marvin-harrison-jr-s-fantasy-stock-impacted-by-teammates-extension/1924622"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Kaytron Allen could struggle to earn meaningful snaps during his rookie season. The Commanders spent their sixth-round pick this year on Allen, who finished his collegiate career as Penn State's all-time leading rusher. Despite his impressive NCAA track record, he may struggle to carve out a significant role right away in the NFL. He's currently third on the running back depth chart behind Jacory Croskey-Merritt and Rachaad White. Croskey-Merritt made a great impression as a rookie last season with 805 rushing yards and eight rushing touchdowns, and White was signed this offseason as a perfect complement because of his prowess as a receiver. The Commanders have two very strong options for passing and receiving downs, leaving Allen in more of a depth role. He'll get some opportunities to handle change-of-pace snaps, and he'd presumably take on a bigger role if Croskey-Merritt or White get hurt. For now, though, he's likely off the fantasy radar in redraft leagues. His ADP of 231.3 confirms that he's an afterthought in most drafts at the moment.",
+      "metadata": {
+        "description": "Washington Commanders running back Kaytron Allen could struggle to earn meaningful snaps during his rookie season. The Commanders spent their sixth-round pick this year on Allen, who finished his collegiate career as Penn State's all-time leading rusher. Despite his impressive NCAA track record, he may struggle to carve out a significant role right away in the NFL. He's currently third on the running back depth chart behind Jacory Croskey-Merritt and Rachaad White. Croskey-Merritt made a great impression as a rookie last season with 805 rushing yards and eight rushing touchdowns, and White was signed this offseason as a perfect complement because of his prowess as a receiver. The Commanders have two very strong options for passing and receiving downs, leaving Allen in more of a depth role. He'll get some opportunities to handle change-of-pace snaps, and he'd presumably take on a bigger role if Croskey-Merritt or White get hurt. For now, though, he's likely off the fantasy radar in redraft leagues. His ADP of 231.3 confirms that he's an afterthought in most drafts at the moment.",
+        "title": "Kaytron Allen Faces an Uphill Battle to Earn Playing Time",
+        "topic_id": "1402366892680675328",
+        "url": "https://www.rotoballer.com/player-news/kaytron-allen-faces-an-uphill-battle-to-earn-playing-time/1924620"
+      },
+      "nfl_team": "WAS",
+      "player_id": "13405",
+      "player_name": "Kaytron Allen",
+      "position": "RB",
+      "published": 1788698165000,
+      "source": "rotoballer",
+      "source_key": "220205",
+      "story_id": "nfl|13405|rotoballer|220205|1788698165000",
+      "title": "Kaytron Allen Faces an Uphill Battle to Earn Playing Time",
+      "url": "https://www.rotoballer.com/player-news/kaytron-allen-faces-an-uphill-battle-to-earn-playing-time/1924620"
+    },
     {
       "analysis": null,
       "description": "Carolina Panthers wide receiver Jalen Coker's name hasn't generated much buzz this draft season, but his role on offense makes him a very intriguing sleeper in fantasy football. Injuries have limited Coker to just 11 games in each of the last two seasons, but he took advantage of his opportunities last year with 33 catches, 394 yards, and three touchdowns across those 11 games. He came on especially strong in the second half of the season. From Weeks 11-18, he ranked as the WR26 in PPR leagues. Fortunately for Coker, as long as he stays healthy, he should continue to be a strong WR3/flex this season. The Panthers' passing offense looks nearly identical to last season. Coker is firmly entrenched as the No. 2 receiver behind Tetairoa McMillan, the team didn't bring in any big-name rookies to compete for targets, and Bryce Young is back as his quarterback for the third year in a row. The team also has no major threat for targets at tight end; Darren Waller sits atop the depth chart, and he's unlikely to replicate his six-touchdown campaign from last year given the nature of the difference between the Panthers and Dolphins offenses. All signs point to a high-volume role for Coker, who has proven that he can produce at the NFL level. Fortunately for fantasy managers, he's available at a very modest price tag right now. He currently has an ADP of 137.4, which corresponds to the 12th round of fantasy drafts and makes him the 54th receiver off the board.",
