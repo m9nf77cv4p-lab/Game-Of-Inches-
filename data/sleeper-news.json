@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T22:51:26Z",
+  "last_checked_at": "2026-09-06T23:01:59Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12521|rotoballer|220230|1788719828000"
+    "nfl|8676|rotoballer|220231|1788720590000"
   ],
   "schema_version": 1,
   "source": {
@@ -94,6 +94,26 @@
       "story_id": "nfl|12529|fantasy_pros|606192|1788722433878",
       "title": "TreVeyon Henderson (ankle) not at practice Sunday ",
       "url": "https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Rashid Shaheed is expected to be \"more of a complete receiver\" this season, according to Jeremy Fowler of ESPN.com. Fowler pointed out that Shaheed didn't have a huge offensive impact after being acquired from the Saints at last year's trade deadline, but that should change going forward. The 28-year-old had a \"killer offseason,\" according to Fowler, and he's expected to eat into Jaxon Smith-Njigba's workload. This isn't any sort of indictment on Smith-Njigba, but rather a result of the Seahawks wanting to spread the ball around so that the former Offensive Player of the Year doesn't have to be relied on for a 36% target share again this year. The exact workload for Shaheed remains unclear, but we wouldn't be surprised to see him have weekly WR3/flex appeal, especially in a Seahawks offense that is expected to be firing on all cylinders following their Super Bowl victory.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Rashid Shaheed is expected to be \"more of a complete receiver\" this season, according to Jeremy Fowler of ESPN.com. Fowler pointed out that Shaheed didn't have a huge offensive impact after being acquired from the Saints at last year's trade deadline, but that should change going forward. The 28-year-old had a \"killer offseason,\" according to Fowler, and he's expected to eat into Jaxon Smith-Njigba's workload. This isn't any sort of indictment on Smith-Njigba, but rather a result of the Seahawks wanting to spread the ball around so that the former Offensive Player of the Year doesn't have to be relied on for a 36% target share again this year. The exact workload for Shaheed remains unclear, but we wouldn't be surprised to see him have weekly WR3/flex appeal, especially in a Seahawks offense that is expected to be firing on all cylinders following their Super Bowl victory.",
+        "title": "Rashid Shaheed Will Take on a Bigger Role in 2026",
+        "topic_id": "1402461274108858368",
+        "url": "https://www.rotoballer.com/player-news/rashid-shaheed-will-take-on-a-bigger-role-in-2026/1924805"
+      },
+      "nfl_team": "SEA",
+      "player_id": "8676",
+      "player_name": "Rashid Shaheed",
+      "position": "WR",
+      "published": 1788720590000,
+      "source": "rotoballer",
+      "source_key": "220231",
+      "story_id": "nfl|8676|rotoballer|220231|1788720590000",
+      "title": "Rashid Shaheed Will Take on a Bigger Role in 2026",
+      "url": "https://www.rotoballer.com/player-news/rashid-shaheed-will-take-on-a-bigger-role-in-2026/1924805"
     },
     {
       "analysis": null,

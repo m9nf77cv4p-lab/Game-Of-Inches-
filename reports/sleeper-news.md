@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2029**
+- Stored stories: **2030**
 - Newly captured: **1**
 
 ## Latest news
@@ -17,7 +17,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) not at practice Sunday  (2026-09-06T19:20:33.878000Z)
   - Henderson has not practiced since August 24. He continues to trend in the wrong direction heading into Wednesday's season opener. 
   - Source: https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php
-- **NEW — Elijah Arroyo** — Seahawks Expected to Feature Both A.J. Barner and Elijah Arroyo (2026-09-06T18:37:08Z)
+- **NEW — Rashid Shaheed** — Rashid Shaheed Will Take on a Bigger Role in 2026 (2026-09-06T18:49:50Z)
+  - Source: https://www.rotoballer.com/player-news/rashid-shaheed-will-take-on-a-bigger-role-in-2026/1924805
+- **Elijah Arroyo** — Seahawks Expected to Feature Both A.J. Barner and Elijah Arroyo (2026-09-06T18:37:08Z)
   - Source: https://www.rotoballer.com/player-news/seahawks-expected-to-feature-both-a-j-barner-and-elijah-arroyo/1924803
 - **Jeremiyah Love** — Cardinals Expected to Ease Jeremiyah Love Back Into the Offense (2026-09-06T18:25:06Z)
   - Source: https://www.rotoballer.com/player-news/cardinals-expected-to-ease-jeremiyah-love-back-into-the-offense/1924797
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/brock-bowers-projected-for-a-massive-target-share/1923670
 - **Jordyn Tyson** — Jordyn Tyson's Redraft Value Fading Amidst Injury Concerns (2026-09-04T23:00:10Z)
   - Source: https://www.rotoballer.com/player-news/jordyn-tysons-redraft-value-fading-amidst-injury-concerns/1923666
-- **Sam LaPorta** — Sam LaPorta - Sees no action in preseason (2026-09-04T22:59:00Z)
-  - LaPorta was rested in the team's exhibition opener, but a hip injury suffered in practice kept him on the sideline for the final two preseason games. He was able to return to drills as of Aug. 25, but it's unclear if he's put the issue behind him. LaPorta is entering the final year of his rookie contract, so he has every incentive to be as healthy as possible for a Week 1 matchup with the Saints on Sunday, Sept. 13.
