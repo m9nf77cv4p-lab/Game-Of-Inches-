@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-06T13:26:54Z",
+  "last_checked_at": "2026-09-06T13:39:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|8183|rotoballer|220188|1788686826000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers quarterback Brock Purdy was a very strong fantasy option when healthy last year, and he is expected to raise his ceiling even higher in 2026. First of all, Purdy reportedly has increased mobility this year. It was previously reported that he's going to run more, building on his last year's average of 16.3 rushing yards per game. We're not expecting this major transformation into a run-first quarterback, but any sort of increased mobility should help his fantasy stock. Second, Purdy continues to play in a 49ers offense full of talent. Even after losing Jauan Jennings to free agency and Ricky Pearsall (knee) to injury, San Francisco's receiver room still features Mike Evans, Deebo Samuel Sr., and De'Zhaun Stribling. Plus, he has one of the league's best tight ends in George Kittle and one of the best running backs in Christian McCaffrey. Purdy has so many talented options to target on any given play, giving him a high ceiling in fantasy football. The 26-year-old ranks as the QB11 in RotoBaller's latest redraft rankings. He has an ADP of 110.4, which corresponds to the 10th round of fantasy drafts and makes him the 13th quarterback off the board.",
+      "metadata": {
+        "description": "San Francisco 49ers quarterback Brock Purdy was a very strong fantasy option when healthy last year, and he is expected to raise his ceiling even higher in 2026. First of all, Purdy reportedly has increased mobility this year. It was previously reported that he's going to run more, building on his last year's average of 16.3 rushing yards per game. We're not expecting this major transformation into a run-first quarterback, but any sort of increased mobility should help his fantasy stock. Second, Purdy continues to play in a 49ers offense full of talent. Even after losing Jauan Jennings to free agency and Ricky Pearsall (knee) to injury, San Francisco's receiver room still features Mike Evans, Deebo Samuel Sr., and De'Zhaun Stribling. Plus, he has one of the league's best tight ends in George Kittle and one of the best running backs in Christian McCaffrey. Purdy has so many talented options to target on any given play, giving him a high ceiling in fantasy football. The 26-year-old ranks as the QB11 in RotoBaller's latest redraft rankings. He has an ADP of 110.4, which corresponds to the 10th round of fantasy drafts and makes him the 13th quarterback off the board.",
+        "title": "Brock Purdy to Benefit From Increased Mobility, Strong Supporting Cast",
+        "topic_id": "1402320331636482048",
+        "url": "https://www.rotoballer.com/player-news/brock-purdy-to-benefit-from-increased-mobility-strong-supporting-cast/1924450"
+      },
+      "nfl_team": "SF",
+      "player_id": "8183",
+      "player_name": "Brock Purdy",
+      "position": "QB",
+      "published": 1788686826000,
+      "source": "rotoballer",
+      "source_key": "220188",
+      "story_id": "nfl|8183|rotoballer|220188|1788686826000",
+      "title": "Brock Purdy to Benefit From Increased Mobility, Strong Supporting Cast",
+      "url": "https://www.rotoballer.com/player-news/brock-purdy-to-benefit-from-increased-mobility-strong-supporting-cast/1924450"
+    },
     {
       "analysis": null,
       "description": "Arizona Cardinals quarterback Jacoby Brissett maintained QB1 value in fantasy football after taking over for Kyler Murray last season, and he could remain on the fantasy radar this season despite his price tag falling. From Weeks 6- 18 last year, Brissett was the overall QB6 in fantasy football and averaged 19.6 fantasy points per game. He ranked as a top-14 fantasy quarterback in 11 of his 12 starts, as well as a top-12 fantasy quarterback in nine of those starts. Simply put, the veteran quarterback displayed league-winning results for managers who snagged him off the waiver wire after Murray went down. Brissett enters this year with a similar supporting cast, if not better. Trey McBride, Michael Wilson, and Marvin Harrison Jr. are all at his disposal once again, and he'll also be able to rely on new faces out of the backfield like Jeremiyah Love and Tyler Allgeier. While we're not saying Brissett will replicate that QB6 stretch from last season, the fact that he gets the same talented supporting cast this year (in an offense that will likely need to throw the ball a lot) makes him a very appealing fantasy quarterback with legitimate top-12 upside. And yet, he's being drafted at an ADP of 229.2, which means he'll end up going undrafted in most fantasy leagues. There's a huge discrepancy between his ceiling and his price tag, making him a very appealing sleeper to target for your QB2 spot in 2026 fantasy football drafts.",

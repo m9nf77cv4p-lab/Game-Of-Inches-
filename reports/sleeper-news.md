@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1994**
-- Newly captured: **0**
+- Stored stories: **1995**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Brock Purdy** — Brock Purdy to Benefit From Increased Mobility, Strong Supporting Cast (2026-09-06T09:27:06Z)
+  - Source: https://www.rotoballer.com/player-news/brock-purdy-to-benefit-from-increased-mobility-strong-supporting-cast/1924450
 - **Jacoby Brissett** — Jacoby Brissett a Sleeper with Talented Supporting Cast (2026-09-06T01:21:05Z)
   - Source: https://www.rotoballer.com/player-news/jacoby-brissett-a-sleeper-with-talented-supporting-cast/1924357
 - **Rachaad White** — Rachaad White the Subject of Positive Reports During Camp (2026-09-06T00:40:55Z)
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jake Ferguson** — Jake Ferguson restructures contract with Cowboys  (2026-09-04T16:35:22.706000Z)
   - Ferguson's $7.25 million base salary was turned into a signing bonus. The Cowboys now have $33.2 million in salary cap space. 
   - Source: https://www.fantasypros.com/nfl/news/605912/jake-ferguson-restructures-contract-with-cowboys.php
-- **Cam Ward** — Robert Saleh is Convinced Cam Ward Will Turn it Around (2026-09-04T16:31:15Z)
-  - Source: https://www.rotoballer.com/player-news/robert-saleh-is-convinced-cam-ward-will-turn-it-around/1923486
