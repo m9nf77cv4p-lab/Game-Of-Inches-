@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2012**
+- Stored stories: **2013**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jalen McMillan** — Jalen McMillan's Redraft Appeal Takes Another Hit (2026-09-06T13:44:04Z)
+- **NEW — Keenan Allen** — Keenan Allen Losing Ground in a Crowded Passing Game (2026-09-06T13:54:04Z)
+  - Source: https://www.rotoballer.com/player-news/keenan-allen-losing-ground-in-a-crowded-passing-game/1924650
+- **Jalen McMillan** — Jalen McMillan's Redraft Appeal Takes Another Hit (2026-09-06T13:44:04Z)
   - Source: https://www.rotoballer.com/player-news/jalen-mcmillans-redraft-appeal-takes-another-hit/1924644
 - **Brandon Aiyuk** — Brandon Aiyuk Keeps Sliding Out of Redraft Relevance (2026-09-06T13:32:05Z)
   - Source: https://www.rotoballer.com/player-news/brandon-aiyuk-keeps-sliding-out-of-redraft-relevance/1924641
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Smith picked up a hamstring injury early on in training camp that kept him sidelined for the Eagles' first two exhibitions. After logging a full practice Aug. 24, he had put the issue behind him, but he still rested with the rest of the starters in the team's exhibition finale. With A.J. Brown getting traded to the Patriots this offseason, Smith is positioned as Philadelphia's No. 1 WR, while Dontayvion Wicks, rookie first-rounder Makai Lemon and Hollywood Brown are the next players up at the position.
 - **Denzel Boston** — Denzel Boston - Gets first-team billing on depth chart (2026-09-04T20:15:16Z)
   - The 39th overall pick in the 2026 Draft, Boston combined for one catch (on two targets) for 15 yards on 37 offensive snaps between his two appearances during the preseason. The output was nothing to write home about, but he appears set to be one of starting QB Deshaun Watson's key pass catchers to begin the campaign.
-- **Cam Ward** — Cam Ward - Working out kinks with Daboll (2026-09-04T20:05:17Z)
-  - The first overall pick in the 2025 Draft, Ward started all 17 regular-season games as a rookie, completing 323 of 540 passes (59.8 percent) for 3,169 yards, 15 touchdowns and seven interceptions while turning 39 carries into 159 yards and two more TDs. He also fumbled 11 times, losing seven of them. The Titans added WR Carnell Tate in the first round of this year's draft and also signed WR Wan'Dale Robinson to a four-year, $70 million deal in the offseason, so Ward does have a bit more support as he enters his second pro campaign. Whether or not that helps Ward cut down on mistakes remains to be seen.
