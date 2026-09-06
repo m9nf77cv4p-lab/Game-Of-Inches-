@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T21:28:21Z",
+  "last_checked_at": "2026-09-06T22:17:32Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9493|fantasy_pros|606224|1788729934525",
-    "nfl|9493|rotoballer|220228|1788714786000"
+    "nfl|4217|rotowire|636315|1788732277000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Kittle has made a speedy recovery from the torn right Achilles that he suffered in the 49ers' wild-card win at Philadelphia on Jan. 11, for which he underwent surgery three days later. Both GM John Lynch and coach Kyle Shanahan and the tight end himself expressed optimism in the offseason about Kittle being available Week 1 against the Rams, and his activation from the active/PUP list on Aug. 23 begin to set the stage for such a reality. Kittle then logged team drills last week and made the trip to Australia with his teammates. The 49ers will post their first injury report of the season Monday, which will reveal how much activity he was able to manage.",
+      "description": "Kittle (Achilles) is slated to practice Monday in Melbourne, Australia, Matt Barrows of The Athletic reports.",
+      "metadata": {
+        "analysis": "Kittle has made a speedy recovery from the torn right Achilles that he suffered in the 49ers' wild-card win at Philadelphia on Jan. 11, for which he underwent surgery three days later. Both GM John Lynch and coach Kyle Shanahan and the tight end himself expressed optimism in the offseason about Kittle being available Week 1 against the Rams, and his activation from the active/PUP list on Aug. 23 begin to set the stage for such a reality. Kittle then logged team drills last week and made the trip to Australia with his teammates. The 49ers will post their first injury report of the season Monday, which will reveal how much activity he was able to manage.",
+        "description": "Kittle (Achilles) is slated to practice Monday in Melbourne, Australia, Matt Barrows of The Athletic reports.",
+        "title": "George Kittle - In line to practice Monday",
+        "topic_id": "1402449950477955072"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788732277000,
+      "source": "rotowire",
+      "source_key": "636315",
+      "story_id": "nfl|4217|rotowire|636315|1788732277000",
+      "title": "George Kittle - In line to practice Monday",
+      "url": null
+    },
     {
       "analysis": "Nacua has been dealing with a psoas injury but returned to practice about a week ago. With the opening game in Melbourne, the Rams are being smart with their players given the toll of travel. However, their WR1 should be good to go. Nacua also still faces a potential suspension \"under the NFL's personal conduct policy,\" says Adkins.",
       "description": "Los Angeles Rams wide receiver Puka Nacua is expected to play in Week 1 against the San Francisco 49ers as the team travels to Australia, says head coach Sean McVay.",

@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2026**
-- Newly captured: **2**
+- Stored stories: **2027**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Puka Nacua** — Puka Nacua (psoas) expected to play in Week 1 (2026-09-06T21:25:34.525000Z)
+- **NEW — George Kittle** — George Kittle - In line to practice Monday (2026-09-06T22:04:37Z)
+  - Kittle has made a speedy recovery from the torn right Achilles that he suffered in the 49ers' wild-card win at Philadelphia on Jan. 11, for which he underwent surgery three days later. Both GM John Lynch and coach Kyle Shanahan and the tight end himself expressed optimism in the offseason about Kittle being available Week 1 against the Rams, and his activation from the active/PUP list on Aug. 23 begin to set the stage for such a reality. Kittle then logged team drills last week and made the trip to Australia with his teammates. The 49ers will post their first injury report of the season Monday, which will reveal how much activity he was able to manage.
+- **Puka Nacua** — Puka Nacua (psoas) expected to play in Week 1 (2026-09-06T21:25:34.525000Z)
   - Nacua has been dealing with a psoas injury but returned to practice about a week ago. With the opening game in Melbourne, the Rams are being smart with their players given the toll of travel. However, their WR1 should be good to go. Nacua also still faces a potential suspension "under the NFL's personal conduct policy," says Adkins.
   - Source: https://www.fantasypros.com/nfl/news/606224/puka-nacua-expected-to-play-week-1.php
 - **Puka Nacua** — Puka Nacua - Expected to play in Australia (2026-09-06T21:02:35Z)
@@ -17,7 +19,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php
 - **TreVeyon Henderson** — TreVeyon Henderson - Looks set to miss Sunday's practice (2026-09-06T18:11:28Z)
   - New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.
-- **NEW — Puka Nacua** — Puka Nacua Expected to Play Week 1 in Australia (2026-09-06T17:13:06Z)
+- **Puka Nacua** — Puka Nacua Expected to Play Week 1 in Australia (2026-09-06T17:13:06Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacua-expected-to-play-week-1-in-australia/1924787
 - **Shedeur Sanders** — Shedeur Sanders Slides Further in Dynasty Leagues (2026-09-06T16:35:05Z)
   - Source: https://www.rotoballer.com/player-news/shedeur-sanders-slides-further-in-dynasty-leagues/1924760
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/colston-loveland-poised-for-high-end-te1-season-following-dominant-close-to-2025/1923659
 - **Jadarian Price** — Jadarian Price - In line for Week 1 role (2026-09-04T22:46:05Z)
   - The Seahawks used the 32nd overall pick in the 2026 Draft on Price, seemingly with the intention for him to be in the mix for the No. 1 RB role during Zach Charbonnet's recovery from a January ACL tear. Price handled first-team reps during the offseason program and also at the start of training camp, but he then tended to lower-body soreness, which sidelined him for a week and spurred the team to keep him in street clothes during exhibition season. With a Week 1 matchup with the Patriots just around the corner Wednesday, Price seems primed for lead-runner status, while George Holani will serve as a receiver and in pass-blocking situations. Meanwhile, Emanuel Wilson has been contained to work on the side at recent practices due to a hamstring injury, so it's unclear if he'll be able to contribute in the season opener.
-- **Devaughn Vele** — Devaughn Vele Enters 2026 with a Clear Path to Early-Season Targets (2026-09-04T22:34:57Z)
-  - Source: https://www.rotoballer.com/player-news/devaughn-vele-enters-2026-with-a-clear-path-to-early-season-targets/1923655
