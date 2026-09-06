@@ -2,17 +2,19 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2023**
+- Stored stories: **2024**
 - Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Puka Nacua** — Puka Nacua - Expected to play in Australia (2026-09-06T21:02:35Z)
+  - According to Sarah Barshop of ESPN.com, McVay noted earlier in the weekend that Nacua was "making good progress" in his recovery from psoas soreness, and the coach's latest update offers further reassurance that the star wideout will be ready to go for the season opener. Along with the core injury, Nacua's status had been muddled while the NFL actively reviewed his case for a potential violation of the league's personal conduct policy. While Nacua isn't necessarily in the clear of discipline from the league, the NFL typically announces suspensions for players prior to the Aug. 30 roster cutdown deadline.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) not at practice Sunday  (2026-09-06T19:20:33.878000Z)
   - Henderson has not practiced since August 24. He continues to trend in the wrong direction heading into Wednesday's season opener. 
   - Source: https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php
 - **TreVeyon Henderson** — TreVeyon Henderson - Looks set to miss Sunday's practice (2026-09-06T18:11:28Z)
   - New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.
-- **NEW — Shedeur Sanders** — Shedeur Sanders Slides Further in Dynasty Leagues (2026-09-06T16:35:05Z)
+- **Shedeur Sanders** — Shedeur Sanders Slides Further in Dynasty Leagues (2026-09-06T16:35:05Z)
   - Source: https://www.rotoballer.com/player-news/shedeur-sanders-slides-further-in-dynasty-leagues/1924760
 - **TreVeyon Henderson** — TreVeyon Henderson Still Sidelined With Week 1 Nearing (2026-09-06T15:40:20Z)
   - Source: https://www.rotoballer.com/player-news/treveyon-henderson-still-sidelined-with-week-1-nearing/1924712
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Olave missed time at the end of the offseason program due to a blood clot, and while he opened training camp as a full participant and agreed to a four-year extension worth up to $132 million on July 30, he exited three different practices for various reasons in August. Nevertheless, he appears to be entering the season in good health and ready to build upon a career-best 2025 regular season in which he posted a 100-1,163-9 line on 155 targets in 16 games.
 - **Matthew Stafford** — Matthew Stafford a High-Floor, Late-Round QB Option Entering 2026 (2026-09-04T22:21:05Z)
   - Source: https://www.rotoballer.com/player-news/matthew-stafford-a-high-floor-late-round-qb-option-entering-2026/1923644
-- **Rashee Rice** — How Concerned Should Fantasy Managers Be About Rashee Rice? (2026-09-04T22:11:06Z)
-  - Source: https://www.rotoballer.com/player-news/how-concerned-should-fantasy-managers-be-about-rashee-rice/1923640
