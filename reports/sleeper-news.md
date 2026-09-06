@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1985**
+- Stored stories: **1986**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Parker Washington** — Parker Washington Seeking New Contract in Jacksonville (2026-09-05T19:48:12Z)
+- **NEW — Tory Horton** — Tory Horton Injury Concerns Could Lower His Value (2026-09-05T21:21:05Z)
+  - Source: https://www.rotoballer.com/player-news/tory-horton-injury-concerns-could-lower-his-value/1924286
+- **Parker Washington** — Parker Washington Seeking New Contract in Jacksonville (2026-09-05T19:48:12Z)
   - Source: https://www.rotoballer.com/player-news/parker-washington-seeking-new-contract-in-jacksonville/1924257
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) not practicing Saturday (2026-09-05T19:20:25.559000Z)
   - Henderson has not practiced since August 24th, not a great sign for his availability come game time. The Patriots play the Seahawks on Wednesday, rather than a Thursday, giving Henderson one less day to get healthy. The Patriots first injury report comes out later today.
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - It comes as no surprise after the Browns cut Cedric Tillman at the end of training camp. Jeudy is listed as a starter alongside rookie wideouts KC Concepcion and Denzel Boston. Jeudy displayed no chemistry with Shedeur Sanders last season, as the veteran wideout finished 2025 with just 50 catches for 602 yards and two touchdowns on 106 targets. His 47.2 percent catch rate was fifth worst out of 197 qualified pass catchers, and of the 38 players in the NFL to see at least 100 targets, Jeudy's 602 yards were just two more than Jake Ferguson at the bottom of the list. Concepcion is expected to become the go-to target in Cleveland, with Boston operating as the big-bodied X receiver. Jeudy will face far more competition for targets.
 - **Xavier Worthy** — Xavier Worthy Still Has a Path Back to Rookie Form (2026-09-04T15:45:06Z)
   - Source: https://www.rotoballer.com/player-news/xavier-worthy-still-has-a-path-back-to-rookie-form/1923422
-- **Adonai Mitchell** — Adonai Mitchell - Listed as starter opposite Wilson (2026-09-04T15:39:23Z)
-  - It's no surprise after Mitchell showed playmaking ability with New York following his midseason trade from the Colts last season. In eight games with the Jets, Mitchell caught 24 of 58 targets for 301 yards and two touchdowns. That 41.4 percent catch rate ranked second worst in the NFL out of 197 qualified pass catchers, but better quarterback play this season in the form of veteran pickup Geno Smith should help improve that number. Mitchell has big-play upside and is dripping with talent; he just needs to get out of his own way sometimes. He's worth a late-round flier in fantasy and makes for an intriguing best-ball selection.

@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-05T23:59:35Z",
+  "last_checked_at": "2026-09-06T01:29:05Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9487|rotoballer|220173|1788637692000"
+    "nfl|12497|rotoballer|220174|1788643265000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Tory Horton has missed part of training camp due to an undisclosed injury. Head coach Mike Macdonald recently told the media that Horton isn't dealing with a significant injury. The Seahawks haven't given much information on this situation, which is concerning for fantasy managers. It sounds like Horton is going to be fine for the season opener against the New England Patriots. The 23-year-old finished with 13 receptions for 161 receiving yards and five touchdowns in eight games last season. The expectation is that Horton will step into a bigger role this season, but the injury bug is something fantasy managers should be aware of with Horton.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Tory Horton has missed part of training camp due to an undisclosed injury. Head coach Mike Macdonald recently told the media that Horton isn't dealing with a significant injury. The Seahawks haven't given much information on this situation, which is concerning for fantasy managers. It sounds like Horton is going to be fine for the season opener against the New England Patriots. The 23-year-old finished with 13 receptions for 161 receiving yards and five touchdowns in eight games last season. The expectation is that Horton will step into a bigger role this season, but the injury bug is something fantasy managers should be aware of with Horton.",
+        "title": "Tory Horton Injury Concerns Could Lower His Value",
+        "topic_id": "1402136603299737600",
+        "url": "https://www.rotoballer.com/player-news/tory-horton-injury-concerns-could-lower-his-value/1924286"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12497",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "published": 1788643265000,
+      "source": "rotoballer",
+      "source_key": "220174",
+      "story_id": "nfl|12497|rotoballer|220174|1788643265000",
+      "title": "Tory Horton Injury Concerns Could Lower His Value",
+      "url": "https://www.rotoballer.com/player-news/tory-horton-injury-concerns-could-lower-his-value/1924286"
+    },
     {
       "analysis": null,
       "description": "ESPN's Jeremy Fowler reports that Jacksonville Jaguars wide receiver Parker Washington, who has had a tremendous training camp this summer after a strong 2025 season, is seeking a new contract with the team as he gets set to enter the final season of his rookie contract in 2026. Washington has developed excellent chemistry with quarterback Trevor Lawrence and has become his trusted safety valve, and because of that, he wants to be compensated accordingly. Washington and the Jaguars' front office have been in communication. There is a chance that something between the two sides gets done before Week 1 of the regular season, and the 24-year-old would prefer to get it done before then and not have talks linger into the regular season. Fowler adds that the Jaguars would be comfortable continuing talks into the season. Washington is likely comparing himself to Arizona Cardinals wideout Michael Wilson, who just got $25 million a year from the Cardinals in a new deal. After catching 58 of 95 targets for 847 yards and five touchdowns in 16 regular-season games in 2025, Washington is rising up fantasy draft boards this year as a WR3/flex with upside going into his fourth year in the NFL.",
