@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-06T01:54:07Z",
+  "last_checked_at": "2026-09-06T02:07:32Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|3214|rotoballer|220176|1788644229000"
+    "nfl|11576|rotoballer|220177|1788644766000",
+    "nfl|9508|rotoballer|220178|1788645216000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Tennessee Titans running back Tyjae Spears could see a reduced role in the backfield this upcoming season. The Titans added more competition in the backfield by selecting Nicholas Singleton in the fifth-round of this year's draft. The expectation is that Tony Pollard will lead the charge, while Spears is the second string, and Singleton begins the season behind them. It might not take too long before Singleton jumps Spears on the depth chart. Spears produced a solid rookie campaign in 2023, but he hasn't been anything special on the field since then. For now, Spears is the No. 2 option in Tennessee, but fantasy managers can't confidently play Spears as an RB3 every week.",
+      "metadata": {
+        "description": "Tennessee Titans running back Tyjae Spears could see a reduced role in the backfield this upcoming season. The Titans added more competition in the backfield by selecting Nicholas Singleton in the fifth-round of this year's draft. The expectation is that Tony Pollard will lead the charge, while Spears is the second string, and Singleton begins the season behind them. It might not take too long before Singleton jumps Spears on the depth chart. Spears produced a solid rookie campaign in 2023, but he hasn't been anything special on the field since then. For now, Spears is the No. 2 option in Tennessee, but fantasy managers can't confidently play Spears as an RB3 every week.",
+        "title": "Tyjae Spears Could Lose Touches",
+        "topic_id": "1402145412474777600",
+        "url": "https://www.rotoballer.com/player-news/tyjae-spears-could-lose-touches/1924300"
+      },
+      "nfl_team": "TEN",
+      "player_id": "9508",
+      "player_name": "Tyjae Spears",
+      "position": "RB",
+      "published": 1788645216000,
+      "source": "rotoballer",
+      "source_key": "220178",
+      "story_id": "nfl|9508|rotoballer|220178|1788645216000",
+      "title": "Tyjae Spears Could Lose Touches",
+      "url": "https://www.rotoballer.com/player-news/tyjae-spears-could-lose-touches/1924300"
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets running back Braelon Allen is expected to have a larger role in the offense this upcoming season. Allen was forced to miss 13 games last year due to an MCL injury. The 22-year-old is healthy now and is expected to be the primary backup to Breece Hall (groin) in the backfield. Allen is viewed as a dual-threat back who can contribute as a runner and a pass-catcher in the backfield. Sadly, fantasy managers weren't able to see what he could do last season. Hall is already banged up coming into the season, so it wouldn't be shocking to see the Jets wanting to slightly lower his workload. If he plays well, Allen could carve out a legitimate role for himself in the Jets' backfield this upcoming season.",
+      "metadata": {
+        "description": "New York Jets running back Braelon Allen is expected to have a larger role in the offense this upcoming season. Allen was forced to miss 13 games last year due to an MCL injury. The 22-year-old is healthy now and is expected to be the primary backup to Breece Hall (groin) in the backfield. Allen is viewed as a dual-threat back who can contribute as a runner and a pass-catcher in the backfield. Sadly, fantasy managers weren't able to see what he could do last season. Hall is already banged up coming into the season, so it wouldn't be shocking to see the Jets wanting to slightly lower his workload. If he plays well, Allen could carve out a legitimate role for himself in the Jets' backfield this upcoming season.",
+        "title": "Braelon Allen Could be Interesting Handcuff Option",
+        "topic_id": "1402144153252466688",
+        "url": "https://www.rotoballer.com/player-news/braelon-allen-could-be-interesting-handcuff-option/1924296"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "11576",
+      "player_name": "Braelon Allen",
+      "position": "RB",
+      "published": 1788644766000,
+      "source": "rotoballer",
+      "source_key": "220177",
+      "story_id": "nfl|11576|rotoballer|220177|1788644766000",
+      "title": "Braelon Allen Could be Interesting Handcuff Option",
+      "url": "https://www.rotoballer.com/player-news/braelon-allen-could-be-interesting-handcuff-option/1924296"
+    },
     {
       "analysis": null,
       "description": "New England Patriots tight end Hunter Henry quietly put together a top-10 season at his position in 2025. The Patriots made some offensive upgrades this offseason, but Henry is expected to remain a focal point. Over the offseason, the Pats added wide receivers A.J. Brown and Romeo Doubs. The assumption is that Henry will take a backseat to them, but that might not be the case. Henry has finished with 60 or more receptions during his first two seasons with Drake Maye under center. The two of them clearly have good chemistry, which is something you don't mess with. According to Mark Daniels of MassLive.com, Henry is expected to be a key part of the Patriots' offense next season. It's unclear if he'll post another top-10 season, but he should be a viable option.",

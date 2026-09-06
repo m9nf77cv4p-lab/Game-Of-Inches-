@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1988**
-- Newly captured: **1**
+- Stored stories: **1990**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Hunter Henry** — Hunter Henry is Likely to Play a Key Part in the Offense (2026-09-05T21:37:09Z)
+- **NEW — Tyjae Spears** — Tyjae Spears Could Lose Touches (2026-09-05T21:53:36Z)
+  - Source: https://www.rotoballer.com/player-news/tyjae-spears-could-lose-touches/1924300
+- **NEW — Braelon Allen** — Braelon Allen Could be Interesting Handcuff Option (2026-09-05T21:46:06Z)
+  - Source: https://www.rotoballer.com/player-news/braelon-allen-could-be-interesting-handcuff-option/1924296
+- **Hunter Henry** — Hunter Henry is Likely to Play a Key Part in the Offense (2026-09-05T21:37:09Z)
   - Source: https://www.rotoballer.com/player-news/hunter-henry-is-likely-to-play-a-key-part-in-the-offense/1924291
 - **Chimere Dike** — Chimere Dike Could Get Lost in the Shuffle (2026-09-05T21:30:05Z)
   - Source: https://www.rotoballer.com/player-news/chimere-dike-could-get-lost-in-the-shuffle/1924289
@@ -211,7 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/quentin-johnston-has-a-chance-to-take-another-step-forward/1923453
 - **Tank Bigsby** — Tank Bigsby a Priority Handcuff Running Back Option Entering 2026 (2026-09-04T16:09:05Z)
   - Source: https://www.rotoballer.com/player-news/tank-bigsby-a-priority-handcuff-running-back-option-entering-2026/1923446
-- **Tank Dell** — Tank Dell - Takes pay cut from Houston (2026-09-04T15:55:44Z)
-  - Entering the final year of his rookie deal, Dell was scheduled to collect $3.624 million, but he'll now make just over $1.7 million in 2026. Dell missed the entirety of the 2025 campaign after a catastrophic knee injury suffered toward the end of the previous season. He's now opening this season on injured reserve and won't be eligible to play until Week 5 at the earliest.
-- **Mark Andrews** — Mark Andrews Has Room for His Targets to Climb Again (2026-09-04T15:54:05Z)
-  - Source: https://www.rotoballer.com/player-news/mark-andrews-has-room-for-his-targets-to-climb-again/1923433
