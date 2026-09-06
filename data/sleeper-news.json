@@ -1,9 +1,13 @@
 {
-  "last_checked_at": "2026-09-06T18:06:41Z",
+  "last_checked_at": "2026-09-06T18:23:20Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|1479|rotoballer|220210|1788702844000"
+    "nfl|12493|rotoballer|220214|1788704109000",
+    "nfl|12518|rotoballer|220212|1788703745000",
+    "nfl|12529|rotowire|636311|1788718288000",
+    "nfl|12533|rotoballer|220213|1788703626000",
+    "nfl|13330|rotoballer|220211|1788703805000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +17,106 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.",
+      "description": "Henderson (ankle) was in street clothes ahead of Sunday's practice and appears likely to be listed as a non-participant on the Patriots' first injury report of the season, Andrew Callahan of the Boston Herald reports.",
+      "metadata": {
+        "analysis": "New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.",
+        "description": "Henderson (ankle) was in street clothes ahead of Sunday's practice and appears likely to be listed as a non-participant on the Patriots' first injury report of the season, Andrew Callahan of the Boston Herald reports.",
+        "title": "TreVeyon Henderson - Looks set to miss Sunday's practice",
+        "topic_id": "1402390804839837696"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788718288000,
+      "source": "rotowire",
+      "source_key": "636311",
+      "story_id": "nfl|12529|rotowire|636311|1788718288000",
+      "title": "TreVeyon Henderson - Looks set to miss Sunday's practice",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "A fifth-round pick in the 2025 NFL Draft, Los Angeles Chargers tight end Oronde Gadsden was a pleasant surprise for fantasy managers during his rookie season. Across 15 games (seven starts), the 23-year-old recorded 49 catches for 664 yards and three touchdowns on 69 targets. Despite the encouraging rookie campaign, Gadsden's fantasy value has fallen over the course of the summer. The Chargers added a pair of veteran tight ends in the offseason in Charlie Kolar and David Njoku, both of whom may currently be above Gadsden on the team's depth chart due to their superior skill set as blockers. Los Angeles also has plenty of target competition for Gadsden in its wide receiver corps between wideouts Ladd McConkey, Quentin Johnston, and Tre' Harris. While Gadsden still carries some upside, his lack of a clear role in the Chargers offense makes him a player for redraft managers to avoid ahead of 2026.",
+      "metadata": {
+        "description": "A fifth-round pick in the 2025 NFL Draft, Los Angeles Chargers tight end Oronde Gadsden was a pleasant surprise for fantasy managers during his rookie season. Across 15 games (seven starts), the 23-year-old recorded 49 catches for 664 yards and three touchdowns on 69 targets. Despite the encouraging rookie campaign, Gadsden's fantasy value has fallen over the course of the summer. The Chargers added a pair of veteran tight ends in the offseason in Charlie Kolar and David Njoku, both of whom may currently be above Gadsden on the team's depth chart due to their superior skill set as blockers. Los Angeles also has plenty of target competition for Gadsden in its wide receiver corps between wideouts Ladd McConkey, Quentin Johnston, and Tre' Harris. While Gadsden still carries some upside, his lack of a clear role in the Chargers offense makes him a player for redraft managers to avoid ahead of 2026.",
+        "title": "Oronde Gadsden's Stock Falling Due to Uncertain Role in Los Angeles",
+        "topic_id": "1402392060874518528",
+        "url": "https://www.rotoballer.com/player-news/oronde-gadsdens-stock-falling-due-to-uncertain-role-in-los-angeles/1924672"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12493",
+      "player_name": "Oronde Gadsden",
+      "position": "TE",
+      "published": 1788704109000,
+      "source": "rotoballer",
+      "source_key": "220214",
+      "story_id": "nfl|12493|rotoballer|220214|1788704109000",
+      "title": "Oronde Gadsden's Stock Falling Due to Uncertain Role in Los Angeles",
+      "url": "https://www.rotoballer.com/player-news/oronde-gadsdens-stock-falling-due-to-uncertain-role-in-los-angeles/1924672"
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets tight end Kenyon Sadiq (hernia) had his first pro camp slightly derailed due to a hernia. The rookie missed most of training camp, as well as all three of the Jets' preseason games. Being available throughout the summer is pivotal for all players, but especially rookies who are trying to adapt to the speed of the NFL while making a good impression. Sadiq's injury has delayed him significantly, making it unlikely that he carves out a fantasy-relevant role early in the season. His age (21) and draft stock (16th overall pick) still make him a must-roster tight end in dynasty leagues, but he's no longer a must-draft player in redraft formats. He has fallen to TE27 in RotoBaller's redraft rankings, and he could slip even further if Mason Taylor handles the bulk of the snaps in Week 1. Sadiq currently has a redraft ADP of 169.4, which corresponds to the 15th round of fantasy drafts and makes him the 23rd tight end off the board. At that same price tag, we'd prefer slightly safer tight ends like Dalton Schultz, Oronde Gadsden II, T.J. Hockenson, and AJ Barner.",
+      "metadata": {
+        "description": "New York Jets tight end Kenyon Sadiq (hernia) had his first pro camp slightly derailed due to a hernia. The rookie missed most of training camp, as well as all three of the Jets' preseason games. Being available throughout the summer is pivotal for all players, but especially rookies who are trying to adapt to the speed of the NFL while making a good impression. Sadiq's injury has delayed him significantly, making it unlikely that he carves out a fantasy-relevant role early in the season. His age (21) and draft stock (16th overall pick) still make him a must-roster tight end in dynasty leagues, but he's no longer a must-draft player in redraft formats. He has fallen to TE27 in RotoBaller's redraft rankings, and he could slip even further if Mason Taylor handles the bulk of the snaps in Week 1. Sadiq currently has a redraft ADP of 169.4, which corresponds to the 15th round of fantasy drafts and makes him the 23rd tight end off the board. At that same price tag, we'd prefer slightly safer tight ends like Dalton Schultz, Oronde Gadsden II, T.J. Hockenson, and AJ Barner.",
+        "title": "Kenyon Sadiq Unlikely to be Immediate Contributor After Injury-Riddled Camp",
+        "topic_id": "1402390803321487360",
+        "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-unlikely-to-be-immediate-contributor-after-injury-riddled-camp/1924664"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13330",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "published": 1788703805000,
+      "source": "rotoballer",
+      "source_key": "220211",
+      "story_id": "nfl|13330|rotoballer|220211|1788703805000",
+      "title": "Kenyon Sadiq Unlikely to be Immediate Contributor After Injury-Riddled Camp",
+      "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-unlikely-to-be-immediate-contributor-after-injury-riddled-camp/1924664"
+    },
+    {
+      "analysis": null,
+      "description": "Across 17 games as a rookie in 2025, Indianapolis Colts tight end Tyler Warren recorded 76 catches for 817 yards and four touchdowns on 112 targets. The 24-year-old got off to a dominant start to the season, but his production tapered off down the stretch. From Week 12 onward, Warren recorded just one touchdown catch and failed to log more than 43 receiving yards in any game. However, Warren's worst run of the season largely correlated with the health of Colts QB1 Daniel Jones, who suffered a season-ending torn Achilles in Week 14. Heading into 2026, Jones will be back under center for Indianapolis. The Colts also traded away veteran wideout Michael Pittman Jr. over the offseason, which could put Warren in position to be the team's clear number one target in its passing game. Warren carries high-end TE1 potential for fantasy managers into 2026.",
+      "metadata": {
+        "description": "Across 17 games as a rookie in 2025, Indianapolis Colts tight end Tyler Warren recorded 76 catches for 817 yards and four touchdowns on 112 targets. The 24-year-old got off to a dominant start to the season, but his production tapered off down the stretch. From Week 12 onward, Warren recorded just one touchdown catch and failed to log more than 43 receiving yards in any game. However, Warren's worst run of the season largely correlated with the health of Colts QB1 Daniel Jones, who suffered a season-ending torn Achilles in Week 14. Heading into 2026, Jones will be back under center for Indianapolis. The Colts also traded away veteran wideout Michael Pittman Jr. over the offseason, which could put Warren in position to be the team's clear number one target in its passing game. Warren carries high-end TE1 potential for fantasy managers into 2026.",
+        "title": "Tyler Warren Carries High-End TE1 Upside with Improved QB Health in Indianapolis",
+        "topic_id": "1402390803317293056",
+        "url": "https://www.rotoballer.com/player-news/tyler-warren-carries-high-end-te1-upside-with-improved-qb-health-in-indianapolis/1924662"
+      },
+      "nfl_team": "IND",
+      "player_id": "12518",
+      "player_name": "Tyler Warren",
+      "position": "TE",
+      "published": 1788703745000,
+      "source": "rotoballer",
+      "source_key": "220212",
+      "story_id": "nfl|12518|rotoballer|220212|1788703745000",
+      "title": "Tyler Warren Carries High-End TE1 Upside with Improved QB Health in Indianapolis",
+      "url": "https://www.rotoballer.com/player-news/tyler-warren-carries-high-end-te1-upside-with-improved-qb-health-in-indianapolis/1924662"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Jacory Croskey-Merritt has made a stronger case for more work heading into Year 2. The rushing production was already there after he turned 175 carries into 805 yards and eight touchdowns as a rookie, but the bigger development this summer has come without the ball. Washington senior writer Zach Selby called Croskey-Merritt's pass protection arguably the biggest thing that stood out during a good camp, and that matters after those struggles cost him snaps at times last season. Dan Quinn has also praised the progress he's made as a receiver. A late-August groin injury interrupted things for a bit, but Croskey-Merritt was back on the practice field Sept. 1 and spoke with reporters after practice two days later. Rachaad White still gives Washington another option, especially on passing downs, so this is not suddenly a one-back setup. Still, RotoBaller has moved Croskey-Merritt from RB43 earlier this offseason to RB37 in its Sept. 6 half-PPR rankings. He has done enough this summer to justify the bump.",
+      "metadata": {
+        "description": "Washington Commanders running back Jacory Croskey-Merritt has made a stronger case for more work heading into Year 2. The rushing production was already there after he turned 175 carries into 805 yards and eight touchdowns as a rookie, but the bigger development this summer has come without the ball. Washington senior writer Zach Selby called Croskey-Merritt's pass protection arguably the biggest thing that stood out during a good camp, and that matters after those struggles cost him snaps at times last season. Dan Quinn has also praised the progress he's made as a receiver. A late-August groin injury interrupted things for a bit, but Croskey-Merritt was back on the practice field Sept. 1 and spoke with reporters after practice two days later. Rachaad White still gives Washington another option, especially on passing downs, so this is not suddenly a one-back setup. Still, RotoBaller has moved Croskey-Merritt from RB43 earlier this offseason to RB37 in its Sept. 6 half-PPR rankings. He has done enough this summer to justify the bump.",
+        "title": "Jacory Croskey-Merritt Keeps Building His Case for More Work",
+        "topic_id": "1402390803371819008",
+        "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-keeps-building-his-case-for-more-work/1924658"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1788703626000,
+      "source": "rotoballer",
+      "source_key": "220213",
+      "story_id": "nfl|12533|rotoballer|220213|1788703626000",
+      "title": "Jacory Croskey-Merritt Keeps Building His Case for More Work",
+      "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-keeps-building-his-case-for-more-work/1924658"
+    },
     {
       "analysis": null,
       "description": "Indianapolis Colts wide receiver Keenan Allen doesn't look quite as interesting as he did when he signed in August. Allen was arrested last weekend on misdemeanor charges related to operating a vehicle while intoxicated, though the Colts expect him to play Week 1 and no NFL discipline has been announced. More important for fantasy managers, Alec Pierce is back. Pierce returned from offseason ankle surgery and was a full participant in practice Thursday after spending most of the summer on PUP. He is coming off 1,003 receiving yards, and Allen also has Josh Downs and tight end Tyler Warren fighting for targets. Warren drew 112 of them last season, while Downs had 88. Allen can still get open and caught 81 passes for the Chargers last year, but those receptions produced 777 yards and four touchdowns. RotoBaller currently has him at WR61 in half-PPR formats, behind both Downs and Pierce. There's still a role for Allen here. It just doesn't look like one that needs to carry much fantasy upside.",

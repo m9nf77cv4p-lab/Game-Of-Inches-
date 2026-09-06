@@ -2,12 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2013**
-- Newly captured: **1**
+- Stored stories: **2018**
+- Newly captured: **5**
 
 ## Latest news
 
-- **NEW — Keenan Allen** — Keenan Allen Losing Ground in a Crowded Passing Game (2026-09-06T13:54:04Z)
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Looks set to miss Sunday's practice (2026-09-06T18:11:28Z)
+  - New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.
+- **NEW — Oronde Gadsden** — Oronde Gadsden's Stock Falling Due to Uncertain Role in Los Angeles (2026-09-06T14:15:09Z)
+  - Source: https://www.rotoballer.com/player-news/oronde-gadsdens-stock-falling-due-to-uncertain-role-in-los-angeles/1924672
+- **NEW — Kenyon Sadiq** — Kenyon Sadiq Unlikely to be Immediate Contributor After Injury-Riddled Camp (2026-09-06T14:10:05Z)
+  - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-unlikely-to-be-immediate-contributor-after-injury-riddled-camp/1924664
+- **NEW — Tyler Warren** — Tyler Warren Carries High-End TE1 Upside with Improved QB Health in Indianapolis (2026-09-06T14:09:05Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-warren-carries-high-end-te1-upside-with-improved-qb-health-in-indianapolis/1924662
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt Keeps Building His Case for More Work (2026-09-06T14:07:06Z)
+  - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-keeps-building-his-case-for-more-work/1924658
+- **Keenan Allen** — Keenan Allen Losing Ground in a Crowded Passing Game (2026-09-06T13:54:04Z)
   - Source: https://www.rotoballer.com/player-news/keenan-allen-losing-ground-in-a-crowded-passing-game/1924650
 - **Jalen McMillan** — Jalen McMillan's Redraft Appeal Takes Another Hit (2026-09-06T13:44:04Z)
   - Source: https://www.rotoballer.com/player-news/jalen-mcmillans-redraft-appeal-takes-another-hit/1924644
@@ -202,13 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-could-shine-in-san-francisco/1923618
 - **Dalton Schultz** — Dalton Schultz has Path to No. 2 Receiving Role (2026-09-04T21:26:05Z)
   - Source: https://www.rotoballer.com/player-news/dalton-schultz-has-path-to-no-2-receiving-option/1923609
-- **Josh Allen** — Josh Allen - Logs one appearance in preseason (2026-09-04T21:21:49Z)
-  - Allen suited up for a preseason Week 1 matchup with the Panthers on Aug. 15 and led two scoring drives, completing six of eight passes for 111 yards and one touchdown. His final connection with Keon Coleman resulted in a nine-yard touchdown, after which Allen's exhibition action came to a close. The cameo displayed that Allen already was in midseason form, and he'll be aiming to get back to 4,000 yards through the air in 2026 for the first time since doing so in four consecutive campaigns from 2020-23. He'll be aided in that quest by the offseason addition of WR DJ Moore.
-- **Kenny Gainwell** — Kenny Gainwell Could See Larger Workload (2026-09-04T21:15:08Z)
-  - Source: https://www.rotoballer.com/player-news/kenny-gainwell-could-see-larger-workload/1923599
-- **Kayshon Boutte** — Kayshon Boutte - Building rapport with Stroud (2026-09-04T20:56:34Z)
-  - Boutte ended up being the odd man out last month in a New England receiving corps that added A.J. Brown and Romeo Doubs in the offseason. Prior to their respective arrivals, Boutte was a regular in the Patriots' passing game the last two seasons, combining for a 76-1,140-9 line on 114 targets in 29 regular-season contests during that span. He joined Houston in the wake of Jayden Higgins' torn ACL, so Boutte will be in the mix for looks from Stroud behind Nico Collins and alongside Xavier Hutchinson, Jaylin Noel (hamstring) and Jared Wayne to begin the campaign.
-- **DeVonta Smith** — DeVonta Smith - Logs no preseason action (2026-09-04T20:40:04Z)
-  - Smith picked up a hamstring injury early on in training camp that kept him sidelined for the Eagles' first two exhibitions. After logging a full practice Aug. 24, he had put the issue behind him, but he still rested with the rest of the starters in the team's exhibition finale. With A.J. Brown getting traded to the Patriots this offseason, Smith is positioned as Philadelphia's No. 1 WR, while Dontayvion Wicks, rookie first-rounder Makai Lemon and Hollywood Brown are the next players up at the position.
-- **Denzel Boston** — Denzel Boston - Gets first-team billing on depth chart (2026-09-04T20:15:16Z)
-  - The 39th overall pick in the 2026 Draft, Boston combined for one catch (on two targets) for 15 yards on 37 offensive snaps between his two appearances during the preseason. The output was nothing to write home about, but he appears set to be one of starting QB Deshaun Watson's key pass catchers to begin the campaign.
