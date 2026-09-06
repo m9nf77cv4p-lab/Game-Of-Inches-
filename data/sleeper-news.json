@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-06T15:31:33Z",
+  "last_checked_at": "2026-09-06T15:43:04Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11370|rotoballer|220196|1788693486000",
-    "nfl|13288|rotoballer|220197|1788693729000"
+    "nfl|2133|rotoballer|220199|1788694145000",
+    "nfl|8800|rotoballer|220198|1788694209000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys running back Malik Davis is worth stashing as a handcuff in deeper fantasy football leagues. The Cowboys brought in Emari Demercado to round out their backfield this past week, but there's no question that Davis remains the direct backup to Javonte Williams. We expect Williams to occupy an every-down role this year, so Davis doesn't have much standalone value at the moment. However, if Williams were to miss time, Davis would instantly jump into the RB2 range for fantasy purposes. Injuries impacted Williams near the end of last season, giving us an opportunity to see the backup in action. Across the two games in which Williams played less than 50% of the snaps, Davis totaled 28 carries, 124 rushing yards, two catches, 16 receiving yards, and one touchdown. He currently has an ADP of 231.4 in redraft leagues. That price tag indicates that he's going undrafted in most leagues, but we believe managers in leagues with 12+ teams would be justified in drafting Davis if they already have Williams on their roster.",
+      "metadata": {
+        "description": "Dallas Cowboys running back Malik Davis is worth stashing as a handcuff in deeper fantasy football leagues. The Cowboys brought in Emari Demercado to round out their backfield this past week, but there's no question that Davis remains the direct backup to Javonte Williams. We expect Williams to occupy an every-down role this year, so Davis doesn't have much standalone value at the moment. However, if Williams were to miss time, Davis would instantly jump into the RB2 range for fantasy purposes. Injuries impacted Williams near the end of last season, giving us an opportunity to see the backup in action. Across the two games in which Williams played less than 50% of the snaps, Davis totaled 28 carries, 124 rushing yards, two catches, 16 receiving yards, and one touchdown. He currently has an ADP of 231.4 in redraft leagues. That price tag indicates that he's going undrafted in most leagues, but we believe managers in leagues with 12+ teams would be justified in drafting Davis if they already have Williams on their roster.",
+        "title": "Malik Davis the Top Handcuff to Stash in Dallas",
+        "topic_id": "1402350533615828993",
+        "url": "https://www.rotoballer.com/player-news/malik-davis-the-top-handcuff-to-stash-in-dallas/1924594"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8800",
+      "player_name": "Malik Davis",
+      "position": "RB",
+      "published": 1788694209000,
+      "source": "rotoballer",
+      "source_key": "220198",
+      "story_id": "nfl|8800|rotoballer|220198|1788694209000",
+      "title": "Malik Davis the Top Handcuff to Stash in Dallas",
+      "url": "https://www.rotoballer.com/player-news/malik-davis-the-top-handcuff-to-stash-in-dallas/1924594"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Davante Adams didn't play in the preseason, but he generated plenty of buzz because of his performance throughout training camp. Adams has had a dominant camp alongside fellow starting receiver Puka Nacua, as the two continue to form the best one-two punch in the NFL. The veteran is coming off a WR9 finish in PPR leagues. He has been a top-12 wide receiver in each of his last six seasons, as well as a top-14 receiver in nine of his last 10. The great news for Adams is that he plays in an offense where multiple players can thrive. After all, Nacua was the WR1 in PPR leagues last year, and Adams still turned in his best fantasy finish since 2022. We expect that trend to continue in 2026 and for as long as Matthew Stafford remains the Rams' quarterback. For now, the big question is whether Adams will replicate last year's 14 touchdowns on 60 catches, or if he'll come back to the mean and catch more passes with fewer touchdowns. The other note on Adams is that he could spend a portion of the season in the No. 1 receiver role as a potential suspension lingers for Nacua. If that happens, Adams would jump from a low-end WR1 to a high-end WR1. At the moment, he has an ADP of 52.8, which corresponds to the fifth round of fantasy drafts. He's a steal at that current price tag, especially given his nose for the end zone.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Davante Adams didn't play in the preseason, but he generated plenty of buzz because of his performance throughout training camp. Adams has had a dominant camp alongside fellow starting receiver Puka Nacua, as the two continue to form the best one-two punch in the NFL. The veteran is coming off a WR9 finish in PPR leagues. He has been a top-12 wide receiver in each of his last six seasons, as well as a top-14 receiver in nine of his last 10. The great news for Adams is that he plays in an offense where multiple players can thrive. After all, Nacua was the WR1 in PPR leagues last year, and Adams still turned in his best fantasy finish since 2022. We expect that trend to continue in 2026 and for as long as Matthew Stafford remains the Rams' quarterback. For now, the big question is whether Adams will replicate last year's 14 touchdowns on 60 catches, or if he'll come back to the mean and catch more passes with fewer touchdowns. The other note on Adams is that he could spend a portion of the season in the No. 1 receiver role as a potential suspension lingers for Nacua. If that happens, Adams would jump from a low-end WR1 to a high-end WR1. At the moment, he has an ADP of 52.8, which corresponds to the fifth round of fantasy drafts. He's a steal at that current price tag, especially given his nose for the end zone.",
+        "title": "Davante Adams Enjoys a Dominant Showing in Camp",
+        "topic_id": "1402350533615828992",
+        "url": "https://www.rotoballer.com/player-news/davante-adams-enjoys-a-dominant-showing-in-camp/1924592"
+      },
+      "nfl_team": "LAR",
+      "player_id": "2133",
+      "player_name": "Davante Adams",
+      "position": "WR",
+      "published": 1788694145000,
+      "source": "rotoballer",
+      "source_key": "220199",
+      "story_id": "nfl|2133|rotoballer|220199|1788694145000",
+      "title": "Davante Adams Enjoys a Dominant Showing in Camp",
+      "url": "https://www.rotoballer.com/player-news/davante-adams-enjoys-a-dominant-showing-in-camp/1924592"
+    },
     {
       "analysis": null,
       "description": "Tennessee Titans running back Nicholas Singleton is losing some of his fantasy football appeal after a relatively uninspiring preseason. Throughout the preseason, he rushed for 57 yards on 15 carries. That equates to just 3.8 YPC, despite the fact that Singleton was often facing other defenses' backups. He also caught two passes for 18 receiving yards. Singleton was taken in the fifth round of the 2026 NFL Draft, so perhaps we should have known that it would take a little while for him to get acclimated. Nevertheless, the post-draft buzz was that Singleton was one of the more pro-ready picks to come out of Day 3. Instead, he has buried himself in the No. 3 role and could have trouble digging himself out without an injury to Tony Pollard or Tyjae Spears. Singleton, who went from 1,474 scrimmage yards at Penn State in 2024 to 768 in 2025, ranks as RotoBaller's RB75 in redraft leagues. He has an ADP of 208.1, making him the 61st running back off the board.",

@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2001**
+- Stored stories: **2003**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Nicholas Singleton** — Nicholas Singleton Falling Down Draft Boards After Modest Preseason (2026-09-06T11:22:09Z)
+- **NEW — Malik Davis** — Malik Davis the Top Handcuff to Stash in Dallas (2026-09-06T11:30:09Z)
+  - Source: https://www.rotoballer.com/player-news/malik-davis-the-top-handcuff-to-stash-in-dallas/1924594
+- **NEW — Davante Adams** — Davante Adams Enjoys a Dominant Showing in Camp (2026-09-06T11:29:05Z)
+  - Source: https://www.rotoballer.com/player-news/davante-adams-enjoys-a-dominant-showing-in-camp/1924592
+- **Nicholas Singleton** — Nicholas Singleton Falling Down Draft Boards After Modest Preseason (2026-09-06T11:22:09Z)
   - Source: https://www.rotoballer.com/player-news/nicholas-singleton-falling-down-draft-boards-after-modest-preseason/1924574
-- **NEW — Chris Brooks** — Chris Brooks Has a Path to No. 2 Role Early in Season (2026-09-06T11:18:06Z)
+- **Chris Brooks** — Chris Brooks Has a Path to No. 2 Role Early in Season (2026-09-06T11:18:06Z)
   - Source: https://www.rotoballer.com/player-news/chris-brooks-has-a-path-to-no-2-role-early-in-season/1924527
 - **Harold Fannin** — Harold Fannin Jr. Has Clear Path To High Targets (2026-09-06T10:51:15Z)
   - Source: https://www.rotoballer.com/player-news/harold-fannin-jr-has-clear-path-to-high-targets/1924506
@@ -208,7 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Willis started the team's exhibition opener at Washington on Aug. 14, leading a 14-play drive that culminated in a De'Von Achane one-yard TD run. During the possession, Willis was a crisp 4-for-5 passing for 43 yards and also had two carries for nine yards. He parlayed a successful two-year stint as Jordan Love's backup in Green Bay into a three-year, $67.5 million contract this offseason, and while Willis' brief game action last month was encouraging, outside of top RB Achane, Miami doesn't boast much in terms of skill-position talent, as Malik Washington will be the No. 1 WR to begin the 2026 season.
 - **George Pickens** — George Pickens to be Best Cowboys Receiver Again in 2026? (2026-09-04T17:34:55Z)
   - Source: https://www.rotoballer.com/player-news/george-pickens-to-be-best-cowboys-receiver-again-in-2026/1923524
-- **Chig Okonkwo** — Chig Okonkwo - Listed as first-teamer in depth chart (2026-09-04T17:31:50Z)
-  - After a four-year stint to begin his career in Tennessee, Okonkwo moved on to Washington via free agency this offseason, agreeing to a three-year, $27 million contract. Considering the investment made in him, it's no surprise he's listed as a first-teamer ahead of the 2026 campaign, and with lackluster competition behind him for targets in the form of John Bates (hamstring), Ben Sinnott (oblique) and Colson Yankoff, Okonkwo is poised to serve as the top TE for QB Jayden Daniels.
-- **Jayden Daniels** — Jayden Daniels - One possession in preseason (2026-09-04T17:22:06Z)
-  - Daniels suited up for preseason Week 2 at Detroit, but Washington's offense quickly went three-and-out via the aforementioned incompletion, a sack for a loss of 10 yards and an 11-yard Kaytron Allen run. Daniels otherwise remained on the sideline for the rest of exhibition season. After an outstanding rookie campaign in 2024, he endured an injury-plagued 2025, completing just 60.6 percent of his passes for 1,262 yards, eight touchdowns and three interceptions and rushing 58 times for 278 yards and two more TDs in seven appearances.
