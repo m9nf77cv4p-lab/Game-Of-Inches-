@@ -2,18 +2,23 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2024**
-- Newly captured: **1**
+- Stored stories: **2026**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Puka Nacua** — Puka Nacua - Expected to play in Australia (2026-09-06T21:02:35Z)
-  - According to Sarah Barshop of ESPN.com, McVay noted earlier in the weekend that Nacua was "making good progress" in his recovery from psoas soreness, and the coach's latest update offers further reassurance that the star wideout will be ready to go for the season opener. Along with the core injury, Nacua's status had been muddled while the NFL actively reviewed his case for a potential violation of the league's personal conduct policy. While Nacua isn't necessarily in the clear of discipline from the league, the NFL typically announces suspensions for players prior to the Aug. 30 roster cutdown deadline.
+- **NEW — Puka Nacua** — Puka Nacua (psoas) expected to play in Week 1 (2026-09-06T21:25:34.525000Z)
+  - Nacua has been dealing with a psoas injury but returned to practice about a week ago. With the opening game in Melbourne, the Rams are being smart with their players given the toll of travel. However, their WR1 should be good to go. Nacua also still faces a potential suspension "under the NFL's personal conduct policy," says Adkins.
+  - Source: https://www.fantasypros.com/nfl/news/606224/puka-nacua-expected-to-play-week-1.php
+- **Puka Nacua** — Puka Nacua - Expected to play in Australia (2026-09-06T21:02:35Z)
+  - According to Sarah Barshop of ESPN.com, McVay noted earlier in the weekend that Nacua was "making good progress" in his recovery from psoas soreness, and the coach's latest update offers further reassurance that the star wideout will be ready to go for the season opener. Additionally, Nacua's status had been muddled by the NFL actively reviewing his case for a potential violation of the league's personal conduct policy. While Nacua isn't necessarily in the clear of discipline from the league, the NFL typically announces suspensions for players prior to the Aug. 30 roster cutdown deadline. Nacua's recovery from the core injury thus appears to be his chief concern at this juncture rather than any suspension, and if the Rams list him as a full practice participant when they release their first injury report of the season Monday, it would be a firm indication that he'll suit up Thursday.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) not at practice Sunday  (2026-09-06T19:20:33.878000Z)
   - Henderson has not practiced since August 24. He continues to trend in the wrong direction heading into Wednesday's season opener. 
   - Source: https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php
 - **TreVeyon Henderson** — TreVeyon Henderson - Looks set to miss Sunday's practice (2026-09-06T18:11:28Z)
   - New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.
+- **NEW — Puka Nacua** — Puka Nacua Expected to Play Week 1 in Australia (2026-09-06T17:13:06Z)
+  - Source: https://www.rotoballer.com/player-news/puka-nacua-expected-to-play-week-1-in-australia/1924787
 - **Shedeur Sanders** — Shedeur Sanders Slides Further in Dynasty Leagues (2026-09-06T16:35:05Z)
   - Source: https://www.rotoballer.com/player-news/shedeur-sanders-slides-further-in-dynasty-leagues/1924760
 - **TreVeyon Henderson** — TreVeyon Henderson Still Sidelined With Week 1 Nearing (2026-09-06T15:40:20Z)
@@ -209,7 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The Seahawks used the 32nd overall pick in the 2026 Draft on Price, seemingly with the intention for him to be in the mix for the No. 1 RB role during Zach Charbonnet's recovery from a January ACL tear. Price handled first-team reps during the offseason program and also at the start of training camp, but he then tended to lower-body soreness, which sidelined him for a week and spurred the team to keep him in street clothes during exhibition season. With a Week 1 matchup with the Patriots just around the corner Wednesday, Price seems primed for lead-runner status, while George Holani will serve as a receiver and in pass-blocking situations. Meanwhile, Emanuel Wilson has been contained to work on the side at recent practices due to a hamstring injury, so it's unclear if he'll be able to contribute in the season opener.
 - **Devaughn Vele** — Devaughn Vele Enters 2026 with a Clear Path to Early-Season Targets (2026-09-04T22:34:57Z)
   - Source: https://www.rotoballer.com/player-news/devaughn-vele-enters-2026-with-a-clear-path-to-early-season-targets/1923655
-- **Chris Olave** — Chris Olave - No action in preseason (2026-09-04T22:21:13Z)
-  - Olave missed time at the end of the offseason program due to a blood clot, and while he opened training camp as a full participant and agreed to a four-year extension worth up to $132 million on July 30, he exited three different practices for various reasons in August. Nevertheless, he appears to be entering the season in good health and ready to build upon a career-best 2025 regular season in which he posted a 100-1,163-9 line on 155 targets in 16 games.
-- **Matthew Stafford** — Matthew Stafford a High-Floor, Late-Round QB Option Entering 2026 (2026-09-04T22:21:05Z)
-  - Source: https://www.rotoballer.com/player-news/matthew-stafford-a-high-floor-late-round-qb-option-entering-2026/1923644
