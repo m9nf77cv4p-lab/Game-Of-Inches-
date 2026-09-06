@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T18:48:28Z",
+  "last_checked_at": "2026-09-06T18:58:13Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13301|rotoballer|220215|1788705365000"
+    "nfl|4039|rotoballer|220216|1788706026000"
   ],
   "schema_version": 1,
   "source": {
@@ -32,6 +32,26 @@
       "story_id": "nfl|12529|rotowire|636311|1788718288000",
       "title": "TreVeyon Henderson - Looks set to miss Sunday's practice",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Across 16 games (15 starts) in 2025, Seattle Seahawks wide receiver Cooper Kupp recorded 47 catches for 593 yards and two touchdowns on 70 targets. While Kupp remained an important piece of Seattle's run to a Super Bowl title, his average of 4.4 targets per game was by far the lowest mark of his nine-year NFL career. Entering 2026, Seahawks WR1 Jaxon Smith-Njigba projects to once again dominate target share in Seattle. Unlike 2025, Kupp may also be behind Seahawks wideout Rashid Shaheed in terms of expected target volume. While Seattle utilized Shaheed in a low-volume, downfield role after acquiring him from the New Orleans Saints at the 2025 trade deadline, Shaheed has reportedly seen much more expansive usage in training camp. As Kupp enters his age-33 season, his days as a must-roster fantasy wide receiver may be behind him.",
+      "metadata": {
+        "description": "Across 16 games (15 starts) in 2025, Seattle Seahawks wide receiver Cooper Kupp recorded 47 catches for 593 yards and two touchdowns on 70 targets. While Kupp remained an important piece of Seattle's run to a Super Bowl title, his average of 4.4 targets per game was by far the lowest mark of his nine-year NFL career. Entering 2026, Seahawks WR1 Jaxon Smith-Njigba projects to once again dominate target share in Seattle. Unlike 2025, Kupp may also be behind Seahawks wideout Rashid Shaheed in terms of expected target volume. While Seattle utilized Shaheed in a low-volume, downfield role after acquiring him from the New Orleans Saints at the 2025 trade deadline, Shaheed has reportedly seen much more expansive usage in training camp. As Kupp enters his age-33 season, his days as a must-roster fantasy wide receiver may be behind him.",
+        "title": "Cooper Kupp May See Even Further Workload Reduction in 2026",
+        "topic_id": "1402400869856575488",
+        "url": "https://www.rotoballer.com/player-news/cooper-kupp-may-see-even-further-workload-reduction-in-2026/1924687"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4039",
+      "player_name": "Cooper Kupp",
+      "position": "WR",
+      "published": 1788706026000,
+      "source": "rotoballer",
+      "source_key": "220216",
+      "story_id": "nfl|4039|rotoballer|220216|1788706026000",
+      "title": "Cooper Kupp May See Even Further Workload Reduction in 2026",
+      "url": "https://www.rotoballer.com/player-news/cooper-kupp-may-see-even-further-workload-reduction-in-2026/1924687"
     },
     {
       "analysis": null,
