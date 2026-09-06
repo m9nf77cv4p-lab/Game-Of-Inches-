@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T22:41:25Z",
+  "last_checked_at": "2026-09-06T22:51:26Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13287|rotoballer|220229|1788719106000"
+    "nfl|12521|rotoballer|220230|1788719828000"
   ],
   "schema_version": 1,
   "source": {
@@ -94,6 +94,26 @@
       "story_id": "nfl|12529|fantasy_pros|606192|1788722433878",
       "title": "TreVeyon Henderson (ankle) not at practice Sunday ",
       "url": "https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "The Seattle Seahawks' new-look offense is expected to feature plenty of two tight end sets, which will result in a large role for both A.J. Barner and Elijah Arroyo, according to Jeremy Fowler of ESPN.com. \"Barner and Arroyo are going to be major parts of this offense,\" Fowler said. Seattle's offense is now led by coordinator Brian Fleury, who comes from the San Francisco coaching tree. Fleury has spent four years as the tight end coach with the Niners, leading an impressive unit headlined by superstar George Kittle. While we don't expect Kittle-caliber production from either Barner or Arroyo, it does sound like one or both tight ends will get on the fantasy radar. The incumbent starter is Barner, who had 52 catches, 519 yards, and six touchdowns last year. However, managers shouldn't sleep on Arroyo, comes with high draft capital after being a second-round pick in 2025. As it stands, Barner is RotoBaller's TE25, while Arroyo ranks as the TE47.",
+      "metadata": {
+        "description": "The Seattle Seahawks' new-look offense is expected to feature plenty of two tight end sets, which will result in a large role for both A.J. Barner and Elijah Arroyo, according to Jeremy Fowler of ESPN.com. \"Barner and Arroyo are going to be major parts of this offense,\" Fowler said. Seattle's offense is now led by coordinator Brian Fleury, who comes from the San Francisco coaching tree. Fleury has spent four years as the tight end coach with the Niners, leading an impressive unit headlined by superstar George Kittle. While we don't expect Kittle-caliber production from either Barner or Arroyo, it does sound like one or both tight ends will get on the fantasy radar. The incumbent starter is Barner, who had 52 catches, 519 yards, and six touchdowns last year. However, managers shouldn't sleep on Arroyo, comes with high draft capital after being a second-round pick in 2025. As it stands, Barner is RotoBaller's TE25, while Arroyo ranks as the TE47.",
+        "title": "Seahawks Expected to Feature Both A.J. Barner and Elijah Arroyo",
+        "topic_id": "1402458756930887680",
+        "url": "https://www.rotoballer.com/player-news/seahawks-expected-to-feature-both-a-j-barner-and-elijah-arroyo/1924803"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12521",
+      "player_name": "Elijah Arroyo",
+      "position": "TE",
+      "published": 1788719828000,
+      "source": "rotoballer",
+      "source_key": "220230",
+      "story_id": "nfl|12521|rotoballer|220230|1788719828000",
+      "title": "Seahawks Expected to Feature Both A.J. Barner and Elijah Arroyo",
+      "url": "https://www.rotoballer.com/player-news/seahawks-expected-to-feature-both-a-j-barner-and-elijah-arroyo/1924803"
     },
     {
       "analysis": null,

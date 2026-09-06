@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2028**
+- Stored stories: **2029**
 - Newly captured: **1**
 
 ## Latest news
@@ -17,7 +17,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) not at practice Sunday  (2026-09-06T19:20:33.878000Z)
   - Henderson has not practiced since August 24. He continues to trend in the wrong direction heading into Wednesday's season opener. 
   - Source: https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php
-- **NEW — Jeremiyah Love** — Cardinals Expected to Ease Jeremiyah Love Back Into the Offense (2026-09-06T18:25:06Z)
+- **NEW — Elijah Arroyo** — Seahawks Expected to Feature Both A.J. Barner and Elijah Arroyo (2026-09-06T18:37:08Z)
+  - Source: https://www.rotoballer.com/player-news/seahawks-expected-to-feature-both-a-j-barner-and-elijah-arroyo/1924803
+- **Jeremiyah Love** — Cardinals Expected to Ease Jeremiyah Love Back Into the Offense (2026-09-06T18:25:06Z)
   - Source: https://www.rotoballer.com/player-news/cardinals-expected-to-ease-jeremiyah-love-back-into-the-offense/1924797
 - **TreVeyon Henderson** — TreVeyon Henderson - Looks set to miss Sunday's practice (2026-09-06T18:11:28Z)
   - New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jordyn-tysons-redraft-value-fading-amidst-injury-concerns/1923666
 - **Sam LaPorta** — Sam LaPorta - Sees no action in preseason (2026-09-04T22:59:00Z)
   - LaPorta was rested in the team's exhibition opener, but a hip injury suffered in practice kept him on the sideline for the final two preseason games. He was able to return to drills as of Aug. 25, but it's unclear if he's put the issue behind him. LaPorta is entering the final year of his rookie contract, so he has every incentive to be as healthy as possible for a Week 1 matchup with the Saints on Sunday, Sept. 13.
-- **Colston Loveland** — Colston Loveland Poised for High-End TE1 Season in Year 2 (2026-09-04T22:47:07Z)
-  - Source: https://www.rotoballer.com/player-news/colston-loveland-poised-for-high-end-te1-season-following-dominant-close-to-2025/1923659
