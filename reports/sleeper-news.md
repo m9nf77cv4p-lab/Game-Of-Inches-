@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1998**
+- Stored stories: **1999**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Patrick Mahomes** — Patrick Mahomes Took Unique Approach To Grueling Rehab (2026-09-06T10:24:05Z)
+- **NEW — Harold Fannin** — Harold Fannin Jr. Has Clear Path To High Targets (2026-09-06T10:51:15Z)
+  - Source: https://www.rotoballer.com/player-news/harold-fannin-jr-has-clear-path-to-high-targets/1924506
+- **Patrick Mahomes** — Patrick Mahomes Took Unique Approach To Grueling Rehab (2026-09-06T10:24:05Z)
   - Source: https://www.rotoballer.com/player-news/patrick-mahomes-took-unique-approach-to-grueling-rehab/1924488
 - **Najee Harris** — Najee Harris Draws Positive Reports in Giants Camp (2026-09-06T09:46:17Z)
   - Source: https://www.rotoballer.com/player-news/najee-harris-draws-positive-reports-in-giants-camp/1924468
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jalen-hurts-buying-into-new-eagles-offense/1923521
 - **Kayshon Boutte** — Kayshon Boutte Developing Chemistry With New QB (2026-09-04T17:07:19Z)
   - Source: https://www.rotoballer.com/player-news/kayshon-boutte-developing-chemistry-with-new-qb/1923518
-- **A.J. Brown** — A.J. Brown Primed for Resurgent Season as Focal Point of Passing Game (2026-09-04T16:58:08Z)
-  - Source: https://www.rotoballer.com/player-news/a-j-brown-primed-for-resurgent-season-as-the-focal-point-of-the-patriots-passing-game/1923513
