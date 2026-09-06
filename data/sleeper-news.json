@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-06T20:26:16Z",
+  "last_checked_at": "2026-09-06T20:49:41Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|12524|rotoballer|220225|1788712505000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -51,6 +53,26 @@
       "story_id": "nfl|12529|rotowire|636311|1788718288000",
       "title": "TreVeyon Henderson - Looks set to miss Sunday's practice",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns quarterback Shedeur Sanders had a chance to carry last year's starting role into his second season. He couldn't hold onto it. Deshaun Watson won Cleveland's quarterback competition after the two traded first-team reps throughout camp, and the Browns have since confirmed Sanders will open the year as the backup. That's a rough turn for a fifth-round pick who still had plenty to prove after completing 56.6% of his passes for 1,400 yards, seven touchdowns and 10 interceptions as a rookie. Sanders went 3-4 across seven starts and added 169 yards and a touchdown on the ground, but Cleveland had a full summer to evaluate him and chose Watson. His dynasty value had already been slipping before the decision. RotoBaller ranked Sanders No. 207 overall in January, No. 258 in June and now has him at No. 269 in its Sept. 1 dynasty rankings. He's still only 24 and sits one injury or poor stretch from another opportunity, but dynasty managers have a lot less certainty than they did entering the offseason.",
+      "metadata": {
+        "description": "Cleveland Browns quarterback Shedeur Sanders had a chance to carry last year's starting role into his second season. He couldn't hold onto it. Deshaun Watson won Cleveland's quarterback competition after the two traded first-team reps throughout camp, and the Browns have since confirmed Sanders will open the year as the backup. That's a rough turn for a fifth-round pick who still had plenty to prove after completing 56.6% of his passes for 1,400 yards, seven touchdowns and 10 interceptions as a rookie. Sanders went 3-4 across seven starts and added 169 yards and a touchdown on the ground, but Cleveland had a full summer to evaluate him and chose Watson. His dynasty value had already been slipping before the decision. RotoBaller ranked Sanders No. 207 overall in January, No. 258 in June and now has him at No. 269 in its Sept. 1 dynasty rankings. He's still only 24 and sits one injury or poor stretch from another opportunity, but dynasty managers have a lot less certainty than they did entering the offseason.",
+        "title": "Shedeur Sanders Slides Further in Dynasty Leagues",
+        "topic_id": "1402427297465659392",
+        "url": "https://www.rotoballer.com/player-news/shedeur-sanders-slides-further-in-dynasty-leagues/1924760"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12524",
+      "player_name": "Shedeur Sanders",
+      "position": "QB",
+      "published": 1788712505000,
+      "source": "rotoballer",
+      "source_key": "220225",
+      "story_id": "nfl|12524|rotoballer|220225|1788712505000",
+      "title": "Shedeur Sanders Slides Further in Dynasty Leagues",
+      "url": "https://www.rotoballer.com/player-news/shedeur-sanders-slides-further-in-dynasty-leagues/1924760"
     },
     {
       "analysis": null,
@@ -117,7 +139,7 @@
       "description": "A third-round pick out of Clemson this past April, Washington Commanders rookie wide receiver Antonio Williams appeared to have a chance to play a significant role in his team's offense at the start of the summer. However, the Commanders' addition of veteran wideout Stefon Diggs in early August may have eliminated Williams' path to high-end usage early on. Between Diggs and star wideout Terry McLaurin, Washington now has two wide receivers who should both easily clear 100+ targets if they are able to stay on the field in 2026. Commanders tight end Chig Okonkwo has recorded at least 50 receptions in three straight seasons and may also be more heavily featured in the Washington pass game than Williams. While Williams remains an intriguing option in dynasty leagues, his redraft value for 2026 could be limited without an injury to the wide receivers ahead of him on the Commanders' depth chart.",
       "metadata": {
         "description": "A third-round pick out of Clemson this past April, Washington Commanders rookie wide receiver Antonio Williams appeared to have a chance to play a significant role in his team's offense at the start of the summer. However, the Commanders' addition of veteran wideout Stefon Diggs in early August may have eliminated Williams' path to high-end usage early on. Between Diggs and star wideout Terry McLaurin, Washington now has two wide receivers who should both easily clear 100+ targets if they are able to stay on the field in 2026. Commanders tight end Chig Okonkwo has recorded at least 50 receptions in three straight seasons and may also be more heavily featured in the Washington pass game than Williams. While Williams remains an intriguing option in dynasty leagues, his redraft value for 2026 could be limited without an injury to the wide receivers ahead of him on the Commanders' depth chart.",
-        "title": "Antonio Williams' Path to Immediate Production in Washington May Be Blocked",
+        "title": "Antonio Williams' Path to Immediate Production May Be Blocked",
         "topic_id": "1402397095171776512",
         "url": "https://www.rotoballer.com/player-news/antonio-williams-path-to-immediate-production-in-washington-may-be-blocked/1924683"
       },
@@ -129,7 +151,7 @@
       "source": "rotoballer",
       "source_key": "220215",
       "story_id": "nfl|13301|rotoballer|220215|1788705365000",
-      "title": "Antonio Williams' Path to Immediate Production in Washington May Be Blocked",
+      "title": "Antonio Williams' Path to Immediate Production May Be Blocked",
       "url": "https://www.rotoballer.com/player-news/antonio-williams-path-to-immediate-production-in-washington-may-be-blocked/1924683"
     },
     {
@@ -157,7 +179,7 @@
       "description": "New York Jets tight end Kenyon Sadiq (hernia) had his first pro camp slightly derailed due to a hernia. The rookie missed most of training camp, as well as all three of the Jets' preseason games. Being available throughout the summer is pivotal for all players, but especially rookies who are trying to adapt to the speed of the NFL while making a good impression. Sadiq's injury has delayed him significantly, making it unlikely that he carves out a fantasy-relevant role early in the season. His age (21) and draft stock (16th overall pick) still make him a must-roster tight end in dynasty leagues, but he's no longer a must-draft player in redraft formats. He has fallen to TE27 in RotoBaller's redraft rankings, and he could slip even further if Mason Taylor handles the bulk of the snaps in Week 1. Sadiq currently has a redraft ADP of 169.4, which corresponds to the 15th round of fantasy drafts and makes him the 23rd tight end off the board. At that same price tag, we'd prefer slightly safer tight ends like Dalton Schultz, Oronde Gadsden II, T.J. Hockenson, and AJ Barner.",
       "metadata": {
         "description": "New York Jets tight end Kenyon Sadiq (hernia) had his first pro camp slightly derailed due to a hernia. The rookie missed most of training camp, as well as all three of the Jets' preseason games. Being available throughout the summer is pivotal for all players, but especially rookies who are trying to adapt to the speed of the NFL while making a good impression. Sadiq's injury has delayed him significantly, making it unlikely that he carves out a fantasy-relevant role early in the season. His age (21) and draft stock (16th overall pick) still make him a must-roster tight end in dynasty leagues, but he's no longer a must-draft player in redraft formats. He has fallen to TE27 in RotoBaller's redraft rankings, and he could slip even further if Mason Taylor handles the bulk of the snaps in Week 1. Sadiq currently has a redraft ADP of 169.4, which corresponds to the 15th round of fantasy drafts and makes him the 23rd tight end off the board. At that same price tag, we'd prefer slightly safer tight ends like Dalton Schultz, Oronde Gadsden II, T.J. Hockenson, and AJ Barner.",
-        "title": "Kenyon Sadiq Unlikely to be Immediate Contributor After Injury-Riddled Camp",
+        "title": "Kenyon Sadiq Unlikely to be Immediate Contributor For Jets",
         "topic_id": "1402390803321487360",
         "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-unlikely-to-be-immediate-contributor-after-injury-riddled-camp/1924664"
       },
@@ -169,7 +191,7 @@
       "source": "rotoballer",
       "source_key": "220211",
       "story_id": "nfl|13330|rotoballer|220211|1788703805000",
-      "title": "Kenyon Sadiq Unlikely to be Immediate Contributor After Injury-Riddled Camp",
+      "title": "Kenyon Sadiq Unlikely to be Immediate Contributor For Jets",
       "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-unlikely-to-be-immediate-contributor-after-injury-riddled-camp/1924664"
     },
     {
@@ -177,7 +199,7 @@
       "description": "Across 17 games as a rookie in 2025, Indianapolis Colts tight end Tyler Warren recorded 76 catches for 817 yards and four touchdowns on 112 targets. The 24-year-old got off to a dominant start to the season, but his production tapered off down the stretch. From Week 12 onward, Warren recorded just one touchdown catch and failed to log more than 43 receiving yards in any game. However, Warren's worst run of the season largely correlated with the health of Colts QB1 Daniel Jones, who suffered a season-ending torn Achilles in Week 14. Heading into 2026, Jones will be back under center for Indianapolis. The Colts also traded away veteran wideout Michael Pittman Jr. over the offseason, which could put Warren in position to be the team's clear number one target in its passing game. Warren carries high-end TE1 potential for fantasy managers into 2026.",
       "metadata": {
         "description": "Across 17 games as a rookie in 2025, Indianapolis Colts tight end Tyler Warren recorded 76 catches for 817 yards and four touchdowns on 112 targets. The 24-year-old got off to a dominant start to the season, but his production tapered off down the stretch. From Week 12 onward, Warren recorded just one touchdown catch and failed to log more than 43 receiving yards in any game. However, Warren's worst run of the season largely correlated with the health of Colts QB1 Daniel Jones, who suffered a season-ending torn Achilles in Week 14. Heading into 2026, Jones will be back under center for Indianapolis. The Colts also traded away veteran wideout Michael Pittman Jr. over the offseason, which could put Warren in position to be the team's clear number one target in its passing game. Warren carries high-end TE1 potential for fantasy managers into 2026.",
-        "title": "Tyler Warren Carries High-End TE1 Upside with Improved QB Health in Indianapolis",
+        "title": "Tyler Warren Carries High-End TE1 Upside with Improved QB Health",
         "topic_id": "1402390803317293056",
         "url": "https://www.rotoballer.com/player-news/tyler-warren-carries-high-end-te1-upside-with-improved-qb-health-in-indianapolis/1924662"
       },
@@ -189,7 +211,7 @@
       "source": "rotoballer",
       "source_key": "220212",
       "story_id": "nfl|12518|rotoballer|220212|1788703745000",
-      "title": "Tyler Warren Carries High-End TE1 Upside with Improved QB Health in Indianapolis",
+      "title": "Tyler Warren Carries High-End TE1 Upside with Improved QB Health",
       "url": "https://www.rotoballer.com/player-news/tyler-warren-carries-high-end-te1-upside-with-improved-qb-health-in-indianapolis/1924662"
     },
     {
@@ -297,7 +319,7 @@
       "description": "Arizona Cardinals wide receiver Marvin Harrison Jr.'s fantasy outlook took another hit after teammate Michael Wilson signed a lucrative three-year, $75 million extension. While the extension doesn't directly impact Harrison's productivity, it does shift the dynamic of Arizona's receiver room. The Cardinals' willingness to pay Wilson three-quarters of a million dollars indicates that they don't believe his performance last season (78 catches, 1,006 yards, and seven touchdowns) was a fluke. They're invested in him to be their No. 1 receiver long-term. In fact, he's now under team control for the same length of time as Harrison. We're still intrigued that Harrison can improve upon last year's total of 41 targets, especially if the Cardinals are trailing in games and have to throw the football a lot. However, Wilson has the stronger rapport with Jacoby Brissett, and his new contract is further evidence that he's going to be a major contributor in Arizona for years to come. Harrison is firmly nestled into the No. 2 receiver role, making him a fringe WR3/flex in fantasy football leagues. With that being said, managers are still drafting him as a fringe top-30 receiver. He has an ADP of 71.8, which corresponds to the sixth round of fantasy drafts. That price tag feels a bit too rich, especially since you can get players like Christian Watson, Mike Evans, Parker Washington, Carnell Tate, and Wilson in the same range.",
       "metadata": {
         "description": "Arizona Cardinals wide receiver Marvin Harrison Jr.'s fantasy outlook took another hit after teammate Michael Wilson signed a lucrative three-year, $75 million extension. While the extension doesn't directly impact Harrison's productivity, it does shift the dynamic of Arizona's receiver room. The Cardinals' willingness to pay Wilson three-quarters of a million dollars indicates that they don't believe his performance last season (78 catches, 1,006 yards, and seven touchdowns) was a fluke. They're invested in him to be their No. 1 receiver long-term. In fact, he's now under team control for the same length of time as Harrison. We're still intrigued that Harrison can improve upon last year's total of 41 targets, especially if the Cardinals are trailing in games and have to throw the football a lot. However, Wilson has the stronger rapport with Jacoby Brissett, and his new contract is further evidence that he's going to be a major contributor in Arizona for years to come. Harrison is firmly nestled into the No. 2 receiver role, making him a fringe WR3/flex in fantasy football leagues. With that being said, managers are still drafting him as a fringe top-30 receiver. He has an ADP of 71.8, which corresponds to the sixth round of fantasy drafts. That price tag feels a bit too rich, especially since you can get players like Christian Watson, Mike Evans, Parker Washington, Carnell Tate, and Wilson in the same range.",
-        "title": "Marvin Harrison Jr.'s Fantasy Stock Impacted by Teammate's Extension",
+        "title": "Marvin Harrison Jr. Impacted by Teammate's Extension",
         "topic_id": "1402368151114543104",
         "url": "https://www.rotoballer.com/player-news/marvin-harrison-jr-s-fantasy-stock-impacted-by-teammates-extension/1924622"
       },
@@ -309,7 +331,7 @@
       "source": "rotoballer",
       "source_key": "220206",
       "story_id": "nfl|11628|rotoballer|220206|1788698479000",
-      "title": "Marvin Harrison Jr.'s Fantasy Stock Impacted by Teammate's Extension",
+      "title": "Marvin Harrison Jr. Impacted by Teammate's Extension",
       "url": "https://www.rotoballer.com/player-news/marvin-harrison-jr-s-fantasy-stock-impacted-by-teammates-extension/1924622"
     },
     {

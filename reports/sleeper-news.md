@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2022**
-- Newly captured: **0**
+- Stored stories: **2023**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -12,19 +12,21 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php
 - **TreVeyon Henderson** — TreVeyon Henderson - Looks set to miss Sunday's practice (2026-09-06T18:11:28Z)
   - New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.
+- **NEW — Shedeur Sanders** — Shedeur Sanders Slides Further in Dynasty Leagues (2026-09-06T16:35:05Z)
+  - Source: https://www.rotoballer.com/player-news/shedeur-sanders-slides-further-in-dynasty-leagues/1924760
 - **TreVeyon Henderson** — TreVeyon Henderson Still Sidelined With Week 1 Nearing (2026-09-06T15:40:20Z)
   - Source: https://www.rotoballer.com/player-news/treveyon-henderson-still-sidelined-with-week-1-nearing/1924712
 - **Baker Mayfield** — Baker Mayfield Building Some Bounce-Back Momentum (2026-09-06T15:13:22Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-building-some-bounce-back-momentum/1924703
 - **Cooper Kupp** — Cooper Kupp May See Even Further Workload Reduction in 2026 (2026-09-06T14:47:06Z)
   - Source: https://www.rotoballer.com/player-news/cooper-kupp-may-see-even-further-workload-reduction-in-2026/1924687
-- **Antonio Williams** — Antonio Williams' Path to Immediate Production in Washington May Be Blocked (2026-09-06T14:36:05Z)
+- **Antonio Williams** — Antonio Williams' Path to Immediate Production May Be Blocked (2026-09-06T14:36:05Z)
   - Source: https://www.rotoballer.com/player-news/antonio-williams-path-to-immediate-production-in-washington-may-be-blocked/1924683
 - **Oronde Gadsden** — Oronde Gadsden's Stock Falling Due to Uncertain Role in Los Angeles (2026-09-06T14:15:09Z)
   - Source: https://www.rotoballer.com/player-news/oronde-gadsdens-stock-falling-due-to-uncertain-role-in-los-angeles/1924672
-- **Kenyon Sadiq** — Kenyon Sadiq Unlikely to be Immediate Contributor After Injury-Riddled Camp (2026-09-06T14:10:05Z)
+- **Kenyon Sadiq** — Kenyon Sadiq Unlikely to be Immediate Contributor For Jets (2026-09-06T14:10:05Z)
   - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-unlikely-to-be-immediate-contributor-after-injury-riddled-camp/1924664
-- **Tyler Warren** — Tyler Warren Carries High-End TE1 Upside with Improved QB Health in Indianapolis (2026-09-06T14:09:05Z)
+- **Tyler Warren** — Tyler Warren Carries High-End TE1 Upside with Improved QB Health (2026-09-06T14:09:05Z)
   - Source: https://www.rotoballer.com/player-news/tyler-warren-carries-high-end-te1-upside-with-improved-qb-health-in-indianapolis/1924662
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Keeps Building His Case for More Work (2026-09-06T14:07:06Z)
   - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-keeps-building-his-case-for-more-work/1924658
@@ -36,7 +38,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/brandon-aiyuk-keeps-sliding-out-of-redraft-relevance/1924641
 - **Theo Johnson** — Theo Johnson's Redraft Stock Has Slipped (2026-09-06T13:12:05Z)
   - Source: https://www.rotoballer.com/player-news/theo-johnsons-redraft-stock-has-slipped/1924632
-- **Marvin Harrison** — Marvin Harrison Jr.'s Fantasy Stock Impacted by Teammate's Extension (2026-09-06T12:41:19Z)
+- **Marvin Harrison** — Marvin Harrison Jr. Impacted by Teammate's Extension (2026-09-06T12:41:19Z)
   - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-s-fantasy-stock-impacted-by-teammates-extension/1924622
 - **Kaytron Allen** — Kaytron Allen Faces an Uphill Battle to Earn Playing Time (2026-09-06T12:36:05Z)
   - Source: https://www.rotoballer.com/player-news/kaytron-allen-faces-an-uphill-battle-to-earn-playing-time/1924620
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/matthew-stafford-a-high-floor-late-round-qb-option-entering-2026/1923644
 - **Rashee Rice** — How Concerned Should Fantasy Managers Be About Rashee Rice? (2026-09-04T22:11:06Z)
   - Source: https://www.rotoballer.com/player-news/how-concerned-should-fantasy-managers-be-about-rashee-rice/1923640
-- **Denzel Boston** — Denzel Boston is Gaining Traction After Strong Showing in Camp (2026-09-04T21:58:09Z)
-  - Source: https://www.rotoballer.com/player-news/denzel-boston-is-gaining-traction-after-strong-showing-in-camp/1923635
