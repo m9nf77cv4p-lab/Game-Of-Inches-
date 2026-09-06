@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2005**
-- Newly captured: **1**
+- Stored stories: **2007**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Ted Hurst** — Ted Hurst III a Fantasy Riser After Consistently Productive Camp and Preseason (2026-09-06T12:07:06Z)
+- **NEW — Jalen Coker** — Jalen Coker Has a Clear Path to High Target Share (2026-09-06T12:30:09Z)
+  - Source: https://www.rotoballer.com/player-news/jalen-coker-has-a-clear-path-to-high-target-share/1924617
+- **NEW — Christian Watson** — Christian Watson the Primary Beneficiary of Packers' Pass-Heavy Approach (2026-09-06T12:18:06Z)
+  - Source: https://www.rotoballer.com/player-news/christian-watson-the-primary-beneficiary-of-packers-pass-heavy-approach/1924610
+- **Ted Hurst** — Ted Hurst III a Fantasy Riser After Consistently Productive Camp and Preseason (2026-09-06T12:07:06Z)
   - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-a-fantasy-riser-after-consistently-productive-camp-and-preseason/1924607
 - **Zach Charbonnet** — Zach Charbonnet Falling Down Draft Boards Amid ACL Recovery (2026-09-06T11:40:24Z)
   - Source: https://www.rotoballer.com/player-news/zach-charbonnet-falling-down-draft-boards-amid-acl-recovery/1924600
@@ -208,7 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The move of the court date is going to lead to speculation about if and when he'll receive discipline from the NFL, especially if a plea deal is announced. But that has not been divulged so far. At the very least, there may soon be more clarification about what the next step in the process is for Jacobs, who remains on the Commissioner's Exempt List.
 - **Jaxson Dart** — Jaxson Dart - Feeling confident in new offense (2026-09-04T18:30:11Z)
   - As a rookie in 2025, Dart completed 63.7 percent (216 of 339) of his passes for 2,272 yards, 15 touchdowns and five interceptions while adding 86 carries for 487 yards and nine more TDs. But not many of his snaps occurred under center as then coach Brian Daboll attempted to cater to Dart's style of play. Perhaps the change in schemes will help Dart stay out of harm's way more often after he had five concussion checks last season. In any case, it remains to be seen if he'll have top WR Malik Nabers available Week 1 as he closes in on his recovery from last year's torn ACL.
-- **Javonte Williams** — Cowboys Could be Mindful of Javonte Williams' Workload (2026-09-04T18:22:05Z)
-  - Source: https://www.rotoballer.com/player-news/cowboys-could-be-mindful-of-javonte-williams-workload/1923539
-- **Malik Washington** — Malik Washington - First-team billing on depth chart (2026-09-04T18:09:45Z)
-  - Miami almost entirely retooled its receiving corps this offseason, releasing Tyreek Hill in February, trading Jaylen Waddle to the Broncos in March, signing Jalen Tolbert in free agency and then drafting three WRs (Caleb Douglas, Chris Bell and Kevin Coleman) in the 2026 Draft. Washington is the only holdover from 2025, a season in which he hauled in 46 of 65 targets for 317 yards and three touchdowns while also rushing 17 times for 110 yards and one more TD. In addition to an expected increase in snaps while working with new QB Malik Willis, Washington again will serve as the team's primary kick returner and perhaps on punt returns as well.
