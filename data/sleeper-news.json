@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-06T06:49:52Z",
+  "last_checked_at": "2026-09-06T09:30:55Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|13285|rotoballer|220186|1788652088000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -40086,26 +40084,6 @@
       "story_id": "nfl|12499|rotoballer|218141|1786109168000",
       "title": "Elic Ayomanor Good to Go After Suffering Shoulder Injury on Thursday",
       "url": "https://www.rotoballer.com/player-news/elic-ayomanor-good-to-go-after-suffering-shoulder-injury-on-thursday/1904847"
-    },
-    {
-      "analysis": null,
-      "description": "Chicago Bears running back D'Andre Swift ran for a career-high 1,087 yards and nine touchdowns in 2025, but in catching a career-low 34 passes, head coach Ben Johnson views that as an area where he can still get his lead back more involved. Swift earned 148 targets in his two seasons with Johnson at passing game coordinator and offensive coordinator in Detroit, and while praising Swift as a runner, Johnson recently told reporters he wants to \"continue to look at and challenge him\" on receiving opportunities. How many opportunities will truly present themselves in an offense with Luther Burden III, Rome Odunze, and Colston Loveland is a question for debate, but even a modest increase to his receiving production could push Swift into RB1 territory after a top 15 finish in 2025.",
-      "metadata": {
-        "description": "Chicago Bears running back D'Andre Swift ran for a career-high 1,087 yards and nine touchdowns in 2025, but in catching a career-low 34 passes, head coach Ben Johnson views that as an area where he can still get his lead back more involved. Swift earned 148 targets in his two seasons with Johnson at passing game coordinator and offensive coordinator in Detroit, and while praising Swift as a runner, Johnson recently told reporters he wants to \"continue to look at and challenge him\" on receiving opportunities. How many opportunities will truly present themselves in an offense with Luther Burden III, Rome Odunze, and Colston Loveland is a question for debate, but even a modest increase to his receiving production could push Swift into RB1 territory after a top 15 finish in 2025.",
-        "title": "D'Andre Swift Could Have Expanded Role in 2026",
-        "topic_id": "1391448620338798592",
-        "url": "https://www.rotoballer.com/player-news/dandre-swift-could-have-expanded-role-in-2026/1904695"
-      },
-      "nfl_team": "CHI",
-      "player_id": "6790",
-      "player_name": "D'Andre Swift",
-      "position": "RB",
-      "published": 1786094705000,
-      "source": "rotoballer",
-      "source_key": "218121",
-      "story_id": "nfl|6790|rotoballer|218121|1786094705000",
-      "title": "D'Andre Swift Could Have Expanded Role in 2026",
-      "url": "https://www.rotoballer.com/player-news/dandre-swift-could-have-expanded-role-in-2026/1904695"
     }
   ]
 }

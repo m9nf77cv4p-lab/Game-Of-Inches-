@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1996**
-- Newly captured: **1**
+- Stored stories: **1995**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -15,7 +15,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jauan-jennings-a-late-round-pick-with-limited-upside-in-crowded-receiver-room/1924350
 - **Ray Davis** — Ray Davis a Handcuff with Low Standalone Value (2026-09-06T00:27:06Z)
   - Source: https://www.rotoballer.com/player-news/ray-davis-a-handcuff-with-low-standalone-value/1924348
-- **NEW — Malachi Fields** — Is Malachi Fields Set for Large Role with Giants? (2026-09-05T23:48:08Z)
+- **Malachi Fields** — Is Malachi Fields Set for Large Role with Giants? (2026-09-05T23:48:08Z)
   - Source: https://www.rotoballer.com/player-news/is-malachi-fields-set-for-large-role-with-giants/1924343
 - **Germie Bernard** — Germie Bernard Impresses During Preseason, Looks to Earn Role in Pittsburgh's Offense (2026-09-05T23:31:05Z)
   - Source: https://www.rotoballer.com/player-news/germie-bernard-impresses-during-preseason-and-looks-to-earn-role-in-pittsburghs-offense/1924337
