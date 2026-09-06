@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1990**
-- Newly captured: **2**
+- Stored stories: **1991**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Tyjae Spears** — Tyjae Spears Could Lose Touches (2026-09-05T21:53:36Z)
+- **NEW — Germie Bernard** — Germie Bernard Impresses During Preseason, Looks to Earn Role in Pittsburgh's Offense (2026-09-05T23:31:05Z)
+  - Source: https://www.rotoballer.com/player-news/germie-bernard-impresses-during-preseason-and-looks-to-earn-role-in-pittsburghs-offense/1924337
+- **Tyjae Spears** — Tyjae Spears Could Lose Touches (2026-09-05T21:53:36Z)
   - Source: https://www.rotoballer.com/player-news/tyjae-spears-could-lose-touches/1924300
-- **NEW — Braelon Allen** — Braelon Allen Could be Interesting Handcuff Option (2026-09-05T21:46:06Z)
+- **Braelon Allen** — Braelon Allen Could be Interesting Handcuff Option (2026-09-05T21:46:06Z)
   - Source: https://www.rotoballer.com/player-news/braelon-allen-could-be-interesting-handcuff-option/1924296
 - **Hunter Henry** — Hunter Henry is Likely to Play a Key Part in the Offense (2026-09-05T21:37:09Z)
   - Source: https://www.rotoballer.com/player-news/hunter-henry-is-likely-to-play-a-key-part-in-the-offense/1924291
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/justin-herbert-poised-for-career-year-following-coaching-changes-in-los-angeles/1923457
 - **Quentin Johnston** — Quentin Johnston Has a Chance to Take Another Step Forward (2026-09-04T16:16:20Z)
   - Source: https://www.rotoballer.com/player-news/quentin-johnston-has-a-chance-to-take-another-step-forward/1923453
-- **Tank Bigsby** — Tank Bigsby a Priority Handcuff Running Back Option Entering 2026 (2026-09-04T16:09:05Z)
-  - Source: https://www.rotoballer.com/player-news/tank-bigsby-a-priority-handcuff-running-back-option-entering-2026/1923446

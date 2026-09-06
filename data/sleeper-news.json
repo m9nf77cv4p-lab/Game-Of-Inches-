@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T02:07:32Z",
+  "last_checked_at": "2026-09-06T04:04:51Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11576|rotoballer|220177|1788644766000",
-    "nfl|9508|rotoballer|220178|1788645216000"
+    "nfl|13274|rotoballer|220179|1788651065000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers rookie wide receiver Germie Bernard impressed throughout the preseason, recording five catches (on eight targets) for 64 yards (12.8 yards per catch) and a touchdown during the preseason. Two of his five receptions went for first downs. Pittsburgh's depth chart currently lists DK Metcalf, Michael Pittman Jr. and Roman Wilson as its starting wide receiver trio. Still, Bernard is expected to be involved in the passing game alongside quarterback Aaron Rodgers. Rodgers recently spoke about the process, including the mental aspects, that Bernard and the young receivers will need to learn as the 2026 season quickly approaches. Pittsburgh selected the 6-foot-1, 206-pound Bernard out of Alabama in the second round (47th overall pick) of the 2026 NFL Draft. Bernard is a strong dynasty league play, but he is currently rostered in just 2% of Yahoo leagues. Bernard ranks as RotoBaller's No. 80 receiver (Half-PPR).",
+      "metadata": {
+        "description": "Pittsburgh Steelers rookie wide receiver Germie Bernard impressed throughout the preseason, recording five catches (on eight targets) for 64 yards (12.8 yards per catch) and a touchdown during the preseason. Two of his five receptions went for first downs. Pittsburgh's depth chart currently lists DK Metcalf, Michael Pittman Jr. and Roman Wilson as its starting wide receiver trio. Still, Bernard is expected to be involved in the passing game alongside quarterback Aaron Rodgers. Rodgers recently spoke about the process, including the mental aspects, that Bernard and the young receivers will need to learn as the 2026 season quickly approaches. Pittsburgh selected the 6-foot-1, 206-pound Bernard out of Alabama in the second round (47th overall pick) of the 2026 NFL Draft. Bernard is a strong dynasty league play, but he is currently rostered in just 2% of Yahoo leagues. Bernard ranks as RotoBaller's No. 80 receiver (Half-PPR).",
+        "title": "Germie Bernard Impresses During Preseason, Looks to Earn Role in Pittsburgh's Offense",
+        "topic_id": "1402171838699683840",
+        "url": "https://www.rotoballer.com/player-news/germie-bernard-impresses-during-preseason-and-looks-to-earn-role-in-pittsburghs-offense/1924337"
+      },
+      "nfl_team": "PIT",
+      "player_id": "13274",
+      "player_name": "Germie Bernard",
+      "position": "WR",
+      "published": 1788651065000,
+      "source": "rotoballer",
+      "source_key": "220179",
+      "story_id": "nfl|13274|rotoballer|220179|1788651065000",
+      "title": "Germie Bernard Impresses During Preseason, Looks to Earn Role in Pittsburgh's Offense",
+      "url": "https://www.rotoballer.com/player-news/germie-bernard-impresses-during-preseason-and-looks-to-earn-role-in-pittsburghs-offense/1924337"
+    },
     {
       "analysis": null,
       "description": "Tennessee Titans running back Tyjae Spears could see a reduced role in the backfield this upcoming season. The Titans added more competition in the backfield by selecting Nicholas Singleton in the fifth-round of this year's draft. The expectation is that Tony Pollard will lead the charge, while Spears is the second string, and Singleton begins the season behind them. It might not take too long before Singleton jumps Spears on the depth chart. Spears produced a solid rookie campaign in 2023, but he hasn't been anything special on the field since then. For now, Spears is the No. 2 option in Tennessee, but fantasy managers can't confidently play Spears as an RB3 every week.",
