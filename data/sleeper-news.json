@@ -1,13 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T18:23:20Z",
+  "last_checked_at": "2026-09-06T18:48:28Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12493|rotoballer|220214|1788704109000",
-    "nfl|12518|rotoballer|220212|1788703745000",
-    "nfl|12529|rotowire|636311|1788718288000",
-    "nfl|12533|rotoballer|220213|1788703626000",
-    "nfl|13330|rotoballer|220211|1788703805000"
+    "nfl|13301|rotoballer|220215|1788705365000"
   ],
   "schema_version": 1,
   "source": {
@@ -36,6 +32,26 @@
       "story_id": "nfl|12529|rotowire|636311|1788718288000",
       "title": "TreVeyon Henderson - Looks set to miss Sunday's practice",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "A third-round pick out of Clemson this past April, Washington Commanders rookie wide receiver Antonio Williams appeared to have a chance to play a significant role in his team's offense at the start of the summer. However, the Commanders' addition of veteran wideout Stefon Diggs in early August may have eliminated Williams' path to high-end usage early on. Between Diggs and star wideout Terry McLaurin, Washington now has two wide receivers who should both easily clear 100+ targets if they are able to stay on the field in 2026. Commanders tight end Chig Okonkwo has recorded at least 50 receptions in three straight seasons and may also be more heavily featured in the Washington pass game than Williams. While Williams remains an intriguing option in dynasty leagues, his redraft value for 2026 could be limited without an injury to the wide receivers ahead of him on the Commanders' depth chart.",
+      "metadata": {
+        "description": "A third-round pick out of Clemson this past April, Washington Commanders rookie wide receiver Antonio Williams appeared to have a chance to play a significant role in his team's offense at the start of the summer. However, the Commanders' addition of veteran wideout Stefon Diggs in early August may have eliminated Williams' path to high-end usage early on. Between Diggs and star wideout Terry McLaurin, Washington now has two wide receivers who should both easily clear 100+ targets if they are able to stay on the field in 2026. Commanders tight end Chig Okonkwo has recorded at least 50 receptions in three straight seasons and may also be more heavily featured in the Washington pass game than Williams. While Williams remains an intriguing option in dynasty leagues, his redraft value for 2026 could be limited without an injury to the wide receivers ahead of him on the Commanders' depth chart.",
+        "title": "Antonio Williams' Path to Immediate Production in Washington May Be Blocked",
+        "topic_id": "1402397095171776512",
+        "url": "https://www.rotoballer.com/player-news/antonio-williams-path-to-immediate-production-in-washington-may-be-blocked/1924683"
+      },
+      "nfl_team": "WAS",
+      "player_id": "13301",
+      "player_name": "Antonio Williams",
+      "position": "WR",
+      "published": 1788705365000,
+      "source": "rotoballer",
+      "source_key": "220215",
+      "story_id": "nfl|13301|rotoballer|220215|1788705365000",
+      "title": "Antonio Williams' Path to Immediate Production in Washington May Be Blocked",
+      "url": "https://www.rotoballer.com/player-news/antonio-williams-path-to-immediate-production-in-washington-may-be-blocked/1924683"
     },
     {
       "analysis": null,

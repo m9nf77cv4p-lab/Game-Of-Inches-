@@ -2,20 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2018**
-- Newly captured: **5**
+- Stored stories: **2019**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Looks set to miss Sunday's practice (2026-09-06T18:11:28Z)
+- **TreVeyon Henderson** — TreVeyon Henderson - Looks set to miss Sunday's practice (2026-09-06T18:11:28Z)
   - New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.
-- **NEW — Oronde Gadsden** — Oronde Gadsden's Stock Falling Due to Uncertain Role in Los Angeles (2026-09-06T14:15:09Z)
+- **NEW — Antonio Williams** — Antonio Williams' Path to Immediate Production in Washington May Be Blocked (2026-09-06T14:36:05Z)
+  - Source: https://www.rotoballer.com/player-news/antonio-williams-path-to-immediate-production-in-washington-may-be-blocked/1924683
+- **Oronde Gadsden** — Oronde Gadsden's Stock Falling Due to Uncertain Role in Los Angeles (2026-09-06T14:15:09Z)
   - Source: https://www.rotoballer.com/player-news/oronde-gadsdens-stock-falling-due-to-uncertain-role-in-los-angeles/1924672
-- **NEW — Kenyon Sadiq** — Kenyon Sadiq Unlikely to be Immediate Contributor After Injury-Riddled Camp (2026-09-06T14:10:05Z)
+- **Kenyon Sadiq** — Kenyon Sadiq Unlikely to be Immediate Contributor After Injury-Riddled Camp (2026-09-06T14:10:05Z)
   - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-unlikely-to-be-immediate-contributor-after-injury-riddled-camp/1924664
-- **NEW — Tyler Warren** — Tyler Warren Carries High-End TE1 Upside with Improved QB Health in Indianapolis (2026-09-06T14:09:05Z)
+- **Tyler Warren** — Tyler Warren Carries High-End TE1 Upside with Improved QB Health in Indianapolis (2026-09-06T14:09:05Z)
   - Source: https://www.rotoballer.com/player-news/tyler-warren-carries-high-end-te1-upside-with-improved-qb-health-in-indianapolis/1924662
-- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt Keeps Building His Case for More Work (2026-09-06T14:07:06Z)
+- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Keeps Building His Case for More Work (2026-09-06T14:07:06Z)
   - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-keeps-building-his-case-for-more-work/1924658
 - **Keenan Allen** — Keenan Allen Losing Ground in a Crowded Passing Game (2026-09-06T13:54:04Z)
   - Source: https://www.rotoballer.com/player-news/keenan-allen-losing-ground-in-a-crowded-passing-game/1924650
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After Arizona released Kyler Murray in March, the team signed Gardner Minshew in free agency and then rounded out the QB room by drafting Carson Beck (ribs) in the third round of the 2026 Draft. Despite those notable additions, Brissett was expected to be the starter, and as a result he held a hold-in during the offseason program and at the starting training camp before agreeing to a revised contract with the team on July 26. Brissett made a cameo in preseason Week 1 versus the Raiders, completing all five of his passes for 44 yards and a touchdown strike to Marvin Harrison. Considering he'll have TE Trey McBride, WRs Harrison and Michael Wilson and RBs Jeremiyah Love (ankle) and Tyler Allgeier at his disposal, Brissett very well may produce like he did during his 12-game starting stint to end last season. Whether that'll be enough for Brissett to hold on to the No. 1 gig throughout the campaign is up in the air, especially with Beck waiting in the wings.
 - **Deebo Samuel** — Deebo Samuel Sr. Could Shine in San Francisco (2026-09-04T21:36:38Z)
   - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-could-shine-in-san-francisco/1923618
-- **Dalton Schultz** — Dalton Schultz has Path to No. 2 Receiving Role (2026-09-04T21:26:05Z)
-  - Source: https://www.rotoballer.com/player-news/dalton-schultz-has-path-to-no-2-receiving-option/1923609
