@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1999**
-- Newly captured: **1**
+- Stored stories: **2001**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Harold Fannin** — Harold Fannin Jr. Has Clear Path To High Targets (2026-09-06T10:51:15Z)
+- **NEW — Nicholas Singleton** — Nicholas Singleton Falling Down Draft Boards After Modest Preseason (2026-09-06T11:22:09Z)
+  - Source: https://www.rotoballer.com/player-news/nicholas-singleton-falling-down-draft-boards-after-modest-preseason/1924574
+- **NEW — Chris Brooks** — Chris Brooks Has a Path to No. 2 Role Early in Season (2026-09-06T11:18:06Z)
+  - Source: https://www.rotoballer.com/player-news/chris-brooks-has-a-path-to-no-2-role-early-in-season/1924527
+- **Harold Fannin** — Harold Fannin Jr. Has Clear Path To High Targets (2026-09-06T10:51:15Z)
   - Source: https://www.rotoballer.com/player-news/harold-fannin-jr-has-clear-path-to-high-targets/1924506
 - **Patrick Mahomes** — Patrick Mahomes Took Unique Approach To Grueling Rehab (2026-09-06T10:24:05Z)
   - Source: https://www.rotoballer.com/player-news/patrick-mahomes-took-unique-approach-to-grueling-rehab/1924488
@@ -208,7 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After a four-year stint to begin his career in Tennessee, Okonkwo moved on to Washington via free agency this offseason, agreeing to a three-year, $27 million contract. Considering the investment made in him, it's no surprise he's listed as a first-teamer ahead of the 2026 campaign, and with lackluster competition behind him for targets in the form of John Bates (hamstring), Ben Sinnott (oblique) and Colson Yankoff, Okonkwo is poised to serve as the top TE for QB Jayden Daniels.
 - **Jayden Daniels** — Jayden Daniels - One possession in preseason (2026-09-04T17:22:06Z)
   - Daniels suited up for preseason Week 2 at Detroit, but Washington's offense quickly went three-and-out via the aforementioned incompletion, a sack for a loss of 10 yards and an 11-yard Kaytron Allen run. Daniels otherwise remained on the sideline for the rest of exhibition season. After an outstanding rookie campaign in 2024, he endured an injury-plagued 2025, completing just 60.6 percent of his passes for 1,262 yards, eight touchdowns and three interceptions and rushing 58 times for 278 yards and two more TDs in seven appearances.
-- **Jalen Hurts** — Jalen Hurts Buying into New Eagles Offense (2026-09-04T17:17:16Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-hurts-buying-into-new-eagles-offense/1923521
-- **Kayshon Boutte** — Kayshon Boutte Developing Chemistry With New QB (2026-09-04T17:07:19Z)
-  - Source: https://www.rotoballer.com/player-news/kayshon-boutte-developing-chemistry-with-new-qb/1923518

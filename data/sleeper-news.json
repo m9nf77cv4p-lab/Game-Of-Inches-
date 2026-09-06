@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-06T15:03:21Z",
+  "last_checked_at": "2026-09-06T15:31:33Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12506|rotoballer|220195|1788691875000"
+    "nfl|11370|rotoballer|220196|1788693486000",
+    "nfl|13288|rotoballer|220197|1788693729000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Tennessee Titans running back Nicholas Singleton is losing some of his fantasy football appeal after a relatively uninspiring preseason. Throughout the preseason, he rushed for 57 yards on 15 carries. That equates to just 3.8 YPC, despite the fact that Singleton was often facing other defenses' backups. He also caught two passes for 18 receiving yards. Singleton was taken in the fifth round of the 2026 NFL Draft, so perhaps we should have known that it would take a little while for him to get acclimated. Nevertheless, the post-draft buzz was that Singleton was one of the more pro-ready picks to come out of Day 3. Instead, he has buried himself in the No. 3 role and could have trouble digging himself out without an injury to Tony Pollard or Tyjae Spears. Singleton, who went from 1,474 scrimmage yards at Penn State in 2024 to 768 in 2025, ranks as RotoBaller's RB75 in redraft leagues. He has an ADP of 208.1, making him the 61st running back off the board.",
+      "metadata": {
+        "description": "Tennessee Titans running back Nicholas Singleton is losing some of his fantasy football appeal after a relatively uninspiring preseason. Throughout the preseason, he rushed for 57 yards on 15 carries. That equates to just 3.8 YPC, despite the fact that Singleton was often facing other defenses' backups. He also caught two passes for 18 receiving yards. Singleton was taken in the fifth round of the 2026 NFL Draft, so perhaps we should have known that it would take a little while for him to get acclimated. Nevertheless, the post-draft buzz was that Singleton was one of the more pro-ready picks to come out of Day 3. Instead, he has buried himself in the No. 3 role and could have trouble digging himself out without an injury to Tony Pollard or Tyjae Spears. Singleton, who went from 1,474 scrimmage yards at Penn State in 2024 to 768 in 2025, ranks as RotoBaller's RB75 in redraft leagues. He has an ADP of 208.1, making him the 61st running back off the board.",
+        "title": "Nicholas Singleton Falling Down Draft Boards After Modest Preseason",
+        "topic_id": "1402349275744112640",
+        "url": "https://www.rotoballer.com/player-news/nicholas-singleton-falling-down-draft-boards-after-modest-preseason/1924574"
+      },
+      "nfl_team": "TEN",
+      "player_id": "13288",
+      "player_name": "Nicholas Singleton",
+      "position": "RB",
+      "published": 1788693729000,
+      "source": "rotoballer",
+      "source_key": "220197",
+      "story_id": "nfl|13288|rotoballer|220197|1788693729000",
+      "title": "Nicholas Singleton Falling Down Draft Boards After Modest Preseason",
+      "url": "https://www.rotoballer.com/player-news/nicholas-singleton-falling-down-draft-boards-after-modest-preseason/1924574"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back Chris Brooks could open the regular season as the No. 2 option on the depth chart. The Packers' backfield is suddenly reeling after Josh Jacobs (personal) was arrested, charged with battery and criminal destruction of property, and placed on the commissioner's exempt list. There's no timetable for his return, and even though his court date was moved up to Sept. 10, that doesn't mean he'll get back on the field sooner. A suspension seems inevitable, and now the big question is whether he'll be suspended for games in 2026 or 2027. Regardless of how much time Jacobs misses, all signs point to Brooks stepping up as the Packers' No. 2 running back while MarShawn Lloyd fills the lead role. Brooks was quiet to the tune of 106 rushing yards and 91 receiving yards last year, but he showed in Week 17 (13 carries for 61 yards) that he's capable of stepping into a larger role. For now, he's more of a speculative stash in deeper leagues, but he could absolutely carve out standalone value as a low-end RB3/flex early in the season.",
+      "metadata": {
+        "description": "Green Bay Packers running back Chris Brooks could open the regular season as the No. 2 option on the depth chart. The Packers' backfield is suddenly reeling after Josh Jacobs (personal) was arrested, charged with battery and criminal destruction of property, and placed on the commissioner's exempt list. There's no timetable for his return, and even though his court date was moved up to Sept. 10, that doesn't mean he'll get back on the field sooner. A suspension seems inevitable, and now the big question is whether he'll be suspended for games in 2026 or 2027. Regardless of how much time Jacobs misses, all signs point to Brooks stepping up as the Packers' No. 2 running back while MarShawn Lloyd fills the lead role. Brooks was quiet to the tune of 106 rushing yards and 91 receiving yards last year, but he showed in Week 17 (13 carries for 61 yards) that he's capable of stepping into a larger role. For now, he's more of a speculative stash in deeper leagues, but he could absolutely carve out standalone value as a low-end RB3/flex early in the season.",
+        "title": "Chris Brooks Has a Path to No. 2 Role Early in Season",
+        "topic_id": "1402348016504991744",
+        "url": "https://www.rotoballer.com/player-news/chris-brooks-has-a-path-to-no-2-role-early-in-season/1924527"
+      },
+      "nfl_team": "GB",
+      "player_id": "11370",
+      "player_name": "Chris Brooks",
+      "position": "RB",
+      "published": 1788693486000,
+      "source": "rotoballer",
+      "source_key": "220196",
+      "story_id": "nfl|11370|rotoballer|220196|1788693486000",
+      "title": "Chris Brooks Has a Path to No. 2 Role Early in Season",
+      "url": "https://www.rotoballer.com/player-news/chris-brooks-has-a-path-to-no-2-role-early-in-season/1924527"
+    },
     {
       "analysis": null,
       "description": "Cleveland Browns tight end Harold Fannin Jr. is looking like the Browns top target around a relatively inexperienced group of wide receivers. Fannin Jr. is inexperienced himself in only his second season, but produced as a rookie and is looking to expand on that this year. The tight end started 13 of the Browns' 16 games last season and recorded 72 catches on 107 targets for 731 yards and six touchdowns. With David Njoku out of the picture this season, those 107 targets could very well increase. The quarterback play in Cleveland is a question mark with Deshuan Watson starting the season as the starter, but Fannin Jr. has shown he can make the most of his opportunities. He could potentially be the lead target in front of receivers like Denzel Boston, KC Concepcion, and Jerry Jeudy.",
