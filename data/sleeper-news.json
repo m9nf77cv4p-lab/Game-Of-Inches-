@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T22:17:32Z",
+  "last_checked_at": "2026-09-06T22:41:25Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4217|rotowire|636315|1788732277000"
+    "nfl|13287|rotoballer|220229|1788719106000"
   ],
   "schema_version": 1,
   "source": {
@@ -96,6 +96,26 @@
       "url": "https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php"
     },
     {
+      "analysis": null,
+      "description": "The Arizona Cardinals are expected to \"ease\" rookie first-round running back Jeremiyah Love (ankle) back into the offense, according to Donnie Druin of Sports Illustrated. Love suffered a high-ankle sprain during the Cardinals' preseason opener, putting his status for Week 1 up in the air. Druin expects that Love will be active, but that the Cardinals will lean on Tyler Allgeier more than the rookie during the regular-season opener on Sept. 13. This makes sense from both an injury and developmental standpoint. There's no need to rush Love back to a full workload before he's ready, especially since Allgeier has proven that he can be a lead back in the NFL. The Cardinals are taking it week by week with Love, but we wouldn't even be surprised if Allgeier gets a few starts before Love gets back up to full speed. Love is a high-end RB2 in fantasy leagues this season, but we'd be hesitant to start him for at least the first week or two. Meanwhile, Allgeier is more of a handcuff long-term, but he should get onto the RB2 radar for the first game against the Los Angeles Chargers.",
+      "metadata": {
+        "description": "The Arizona Cardinals are expected to \"ease\" rookie first-round running back Jeremiyah Love (ankle) back into the offense, according to Donnie Druin of Sports Illustrated. Love suffered a high-ankle sprain during the Cardinals' preseason opener, putting his status for Week 1 up in the air. Druin expects that Love will be active, but that the Cardinals will lean on Tyler Allgeier more than the rookie during the regular-season opener on Sept. 13. This makes sense from both an injury and developmental standpoint. There's no need to rush Love back to a full workload before he's ready, especially since Allgeier has proven that he can be a lead back in the NFL. The Cardinals are taking it week by week with Love, but we wouldn't even be surprised if Allgeier gets a few starts before Love gets back up to full speed. Love is a high-end RB2 in fantasy leagues this season, but we'd be hesitant to start him for at least the first week or two. Meanwhile, Allgeier is more of a handcuff long-term, but he should get onto the RB2 radar for the first game against the Los Angeles Chargers.",
+        "title": "Cardinals Expected to Ease Jeremiyah Love Back Into the Offense",
+        "topic_id": "1402454981973430272",
+        "url": "https://www.rotoballer.com/player-news/cardinals-expected-to-ease-jeremiyah-love-back-into-the-offense/1924797"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788719106000,
+      "source": "rotoballer",
+      "source_key": "220229",
+      "story_id": "nfl|13287|rotoballer|220229|1788719106000",
+      "title": "Cardinals Expected to Ease Jeremiyah Love Back Into the Offense",
+      "url": "https://www.rotoballer.com/player-news/cardinals-expected-to-ease-jeremiyah-love-back-into-the-offense/1924797"
+    },
+    {
       "analysis": "New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.",
       "description": "Henderson (ankle) was in street clothes ahead of Sunday's practice and appears likely to be listed as a non-participant on the Patriots' first injury report of the season, Andrew Callahan of the Boston Herald reports.",
       "metadata": {
@@ -117,9 +137,9 @@
     },
     {
       "analysis": null,
-      "description": "Los Angeles Rams wide receiver Puka Nacua is expected to play in the season opener in Australia, head coach Sean McVay said, according to Nate Atkins. Nacua has been facing the possibility of discipline under the NFL's Personal Conduct Policy, but no suspension has been announced. McVay also expects offensive tackle Alaric Jackson, who has been dealing with his own potential discipline, to play. Nacua caught 129 passes for 1,715 yards and 10 touchdowns across 16 games last season, leading the NFL in receptions. The Rams open against San Francisco in Melbourne on Sept. 10. McVay's comments are a strong sign that Nacua will be available for Week 1, though there has been no public indication that the NFL's review of his situation is finished.",
+      "description": "Los Angeles Rams wide receiver Puka Nacua (groin) is expected to play in the season opener in Australia, head coach Sean McVay said, according to Nate Atkins. Nacua has been facing the possibility of discipline under the NFL's Personal Conduct Policy, but no suspension has been announced. McVay also expects offensive tackle Alaric Jackson, who has been dealing with his own potential discipline, to play. Nacua caught 129 passes for 1,715 yards and 10 touchdowns across 16 games last season, leading the NFL in receptions. The Rams open against San Francisco in Melbourne on Sept. 10. McVay's comments are a strong sign that Nacua will be available for Week 1, though there has been no public indication that the NFL's review of his situation is finished.",
       "metadata": {
-        "description": "Los Angeles Rams wide receiver Puka Nacua is expected to play in the season opener in Australia, head coach Sean McVay said, according to Nate Atkins. Nacua has been facing the possibility of discipline under the NFL's Personal Conduct Policy, but no suspension has been announced. McVay also expects offensive tackle Alaric Jackson, who has been dealing with his own potential discipline, to play. Nacua caught 129 passes for 1,715 yards and 10 touchdowns across 16 games last season, leading the NFL in receptions. The Rams open against San Francisco in Melbourne on Sept. 10. McVay's comments are a strong sign that Nacua will be available for Week 1, though there has been no public indication that the NFL's review of his situation is finished.",
+        "description": "Los Angeles Rams wide receiver Puka Nacua (groin) is expected to play in the season opener in Australia, head coach Sean McVay said, according to Nate Atkins. Nacua has been facing the possibility of discipline under the NFL's Personal Conduct Policy, but no suspension has been announced. McVay also expects offensive tackle Alaric Jackson, who has been dealing with his own potential discipline, to play. Nacua caught 129 passes for 1,715 yards and 10 touchdowns across 16 games last season, leading the NFL in receptions. The Rams open against San Francisco in Melbourne on Sept. 10. McVay's comments are a strong sign that Nacua will be available for Week 1, though there has been no public indication that the NFL's review of his situation is finished.",
         "title": "Puka Nacua Expected to Play Week 1 in Australia",
         "topic_id": "1402437364571197440",
         "url": "https://www.rotoballer.com/player-news/puka-nacua-expected-to-play-week-1-in-australia/1924787"
