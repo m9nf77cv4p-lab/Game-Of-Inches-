@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T15:43:04Z",
+  "last_checked_at": "2026-09-06T15:53:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|2133|rotoballer|220199|1788694145000",
-    "nfl|8800|rotoballer|220198|1788694209000"
+    "nfl|9753|rotoballer|220201|1788694824000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks running back Zach Charbonnet (knee) is seeing his fantasy football appeal decline as the regular season gets closer. Charbonnet tore his ACL in the playoffs last year, and the original fantasy outlook was that he'd return to his RB2 form once he recovered, especially after Kenneth Walker III left the team in free agency. Now, though, it's no longer a guarantee that Charbonnet will return to the lead-back role once he's healthy. There are plenty of different running backs expected to audition for the lead-back role in Week 1, and any of those top performers could make a case to remain atop the depth chart for the rest of the season. The early leader in the pack is Jadarian Price, a rookie first-round pick from Notre Dame. He may not be ready for an every-down role right away, but we know he's capable of contributing after he tallied 761 scrimmage yards and 13 touchdowns at school last year. George Holani and Emanuel Wilson are also expected to carve out significant roles on offense, adding another wrinkle to the backfield when Charbonnet returns. There are a lot of running backs with upside in this backfield, so Charbonnet may end up being more of a low-end RB3/flex once he's healthy. As a result, he has fallen to RB56 in RotoBaller's redraft rankings, and his ADP has slipped to 150.4 (RB49).",
+      "metadata": {
+        "description": "Seattle Seahawks running back Zach Charbonnet (knee) is seeing his fantasy football appeal decline as the regular season gets closer. Charbonnet tore his ACL in the playoffs last year, and the original fantasy outlook was that he'd return to his RB2 form once he recovered, especially after Kenneth Walker III left the team in free agency. Now, though, it's no longer a guarantee that Charbonnet will return to the lead-back role once he's healthy. There are plenty of different running backs expected to audition for the lead-back role in Week 1, and any of those top performers could make a case to remain atop the depth chart for the rest of the season. The early leader in the pack is Jadarian Price, a rookie first-round pick from Notre Dame. He may not be ready for an every-down role right away, but we know he's capable of contributing after he tallied 761 scrimmage yards and 13 touchdowns at school last year. George Holani and Emanuel Wilson are also expected to carve out significant roles on offense, adding another wrinkle to the backfield when Charbonnet returns. There are a lot of running backs with upside in this backfield, so Charbonnet may end up being more of a low-end RB3/flex once he's healthy. As a result, he has fallen to RB56 in RotoBaller's redraft rankings, and his ADP has slipped to 150.4 (RB49).",
+        "title": "Zach Charbonnet Falling Down Draft Boards Amid ACL Recovery",
+        "topic_id": "1402353050319921152",
+        "url": "https://www.rotoballer.com/player-news/zach-charbonnet-falling-down-draft-boards-amid-acl-recovery/1924600"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9753",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
+      "published": 1788694824000,
+      "source": "rotoballer",
+      "source_key": "220201",
+      "story_id": "nfl|9753|rotoballer|220201|1788694824000",
+      "title": "Zach Charbonnet Falling Down Draft Boards Amid ACL Recovery",
+      "url": "https://www.rotoballer.com/player-news/zach-charbonnet-falling-down-draft-boards-amid-acl-recovery/1924600"
+    },
     {
       "analysis": null,
       "description": "Dallas Cowboys running back Malik Davis is worth stashing as a handcuff in deeper fantasy football leagues. The Cowboys brought in Emari Demercado to round out their backfield this past week, but there's no question that Davis remains the direct backup to Javonte Williams. We expect Williams to occupy an every-down role this year, so Davis doesn't have much standalone value at the moment. However, if Williams were to miss time, Davis would instantly jump into the RB2 range for fantasy purposes. Injuries impacted Williams near the end of last season, giving us an opportunity to see the backup in action. Across the two games in which Williams played less than 50% of the snaps, Davis totaled 28 carries, 124 rushing yards, two catches, 16 receiving yards, and one touchdown. He currently has an ADP of 231.4 in redraft leagues. That price tag indicates that he's going undrafted in most leagues, but we believe managers in leagues with 12+ teams would be justified in drafting Davis if they already have Williams on their roster.",
