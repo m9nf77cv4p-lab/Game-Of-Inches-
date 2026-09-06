@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T04:46:17Z",
+  "last_checked_at": "2026-09-06T05:37:05Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11575|rotoballer|220180|1788654426000",
-    "nfl|7049|rotoballer|220181|1788654606000",
-    "nfl|8136|rotoballer|220183|1788655255000"
+    "nfl|3257|rotoballer|220185|1788657665000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals quarterback Jacoby Brissett maintained QB1 value in fantasy football after taking over for Kyler Murray last season, and he could remain on the fantasy radar this season despite his price tag falling. From Weeks 6- 18 last year, Brissett was the overall QB6 in fantasy football and averaged 19.6 fantasy points per game. He ranked as a top-14 fantasy quarterback in 11 of his 12 starts, as well as a top-12 fantasy quarterback in nine of those starts. Simply put, the veteran quarterback displayed league-winning results for managers who snagged him off the waiver wire after Murray went down. Brissett enters this year with a similar supporting cast, if not better. Trey McBride, Michael Wilson, and Marvin Harrison Jr. are all at his disposal once again, and he'll also be able to rely on new faces out of the backfield like Jeremiyah Love and Tyler Allgeier. While we're not saying Brissett will replicate that QB6 stretch from last season, the fact that he gets the same talented supporting cast this year (in an offense that will likely need to throw the ball a lot) makes him a very appealing fantasy quarterback with legitimate top-12 upside. And yet, he's being drafted at an ADP of 229.2, which means he'll end up going undrafted in most fantasy leagues. There's a huge discrepancy between his ceiling and his price tag, making him a very appealing sleeper to target for your QB2 spot in 2026 fantasy football drafts.",
+      "metadata": {
+        "description": "Arizona Cardinals quarterback Jacoby Brissett maintained QB1 value in fantasy football after taking over for Kyler Murray last season, and he could remain on the fantasy radar this season despite his price tag falling. From Weeks 6- 18 last year, Brissett was the overall QB6 in fantasy football and averaged 19.6 fantasy points per game. He ranked as a top-14 fantasy quarterback in 11 of his 12 starts, as well as a top-12 fantasy quarterback in nine of those starts. Simply put, the veteran quarterback displayed league-winning results for managers who snagged him off the waiver wire after Murray went down. Brissett enters this year with a similar supporting cast, if not better. Trey McBride, Michael Wilson, and Marvin Harrison Jr. are all at his disposal once again, and he'll also be able to rely on new faces out of the backfield like Jeremiyah Love and Tyler Allgeier. While we're not saying Brissett will replicate that QB6 stretch from last season, the fact that he gets the same talented supporting cast this year (in an offense that will likely need to throw the ball a lot) makes him a very appealing fantasy quarterback with legitimate top-12 upside. And yet, he's being drafted at an ADP of 229.2, which means he'll end up going undrafted in most fantasy leagues. There's a huge discrepancy between his ceiling and his price tag, making him a very appealing sleeper to target for your QB2 spot in 2026 fantasy football drafts.",
+        "title": "Jacoby Brissett a Sleeper with Talented Supporting Cast",
+        "topic_id": "1402198265214050304",
+        "url": "https://www.rotoballer.com/player-news/jacoby-brissett-a-sleeper-with-talented-supporting-cast/1924357"
+      },
+      "nfl_team": "ARI",
+      "player_id": "3257",
+      "player_name": "Jacoby Brissett",
+      "position": "QB",
+      "published": 1788657665000,
+      "source": "rotoballer",
+      "source_key": "220185",
+      "story_id": "nfl|3257|rotoballer|220185|1788657665000",
+      "title": "Jacoby Brissett a Sleeper with Talented Supporting Cast",
+      "url": "https://www.rotoballer.com/player-news/jacoby-brissett-a-sleeper-with-talented-supporting-cast/1924357"
+    },
     {
       "analysis": null,
       "description": "Washington Commanders running back Rachaad White drew positive reviews for his performance throughout training camp this summer. A minor hamstring injury sidelined White for the final two preseason games, but even though he didn't touch the ball in a game, he still flashed upside as a ball-carrier and receiver during camp. White is gearing up for his first season in Washington after four years with the Tampa Bay Buccaneers. He was the RB4 in PPR leagues in 2023 before falling to RB22 and RB32 over the last two years, respectively. White's exact fantasy outlook depends on how the Commanders distribute the volume. Right now, we'd assume Jacory Croskey-Merritt and White both get involved on early downs, with Croskey-Merritt seeing a slightly larger carry share. However, White is the far more productive back on receiving downs, so he should get on the field in passing situations and carve out a decent target share. White has logged 40+ receptions in all four NFL seasons and 50+ receptions in three of the four. As a result, managers in PPR leagues should consider snagging him as their RB3/flex this year. As it stands, he ranks as RotoBaller's RB40 in redraft leagues. He has an ADP of 116.1, which corresponds to the 10th round of fantasy drafts and makes him the 40th running back off the board.",

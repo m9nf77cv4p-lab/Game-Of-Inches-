@@ -2,16 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1994**
-- Newly captured: **3**
+- Stored stories: **1995**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Rachaad White** — Rachaad White the Subject of Positive Reports During Camp (2026-09-06T00:40:55Z)
+- **NEW — Jacoby Brissett** — Jacoby Brissett a Sleeper with Talented Supporting Cast (2026-09-06T01:21:05Z)
+  - Source: https://www.rotoballer.com/player-news/jacoby-brissett-a-sleeper-with-talented-supporting-cast/1924357
+- **Rachaad White** — Rachaad White the Subject of Positive Reports During Camp (2026-09-06T00:40:55Z)
   - Source: https://www.rotoballer.com/player-news/rachaad-white-the-subject-of-positive-reports-during-camp/1924355
-- **NEW — Jauan Jennings** — Jauan Jennings a Late-Round Pick with Limited Upside in Crowded Receiver Room (2026-09-06T00:30:06Z)
+- **Jauan Jennings** — Jauan Jennings a Late-Round Pick with Limited Upside in Crowded Receiver Room (2026-09-06T00:30:06Z)
   - Source: https://www.rotoballer.com/player-news/jauan-jennings-a-late-round-pick-with-limited-upside-in-crowded-receiver-room/1924350
-- **NEW — Ray Davis** — Ray Davis a Handcuff with Low Standalone Value (2026-09-06T00:27:06Z)
+- **Ray Davis** — Ray Davis a Handcuff with Low Standalone Value (2026-09-06T00:27:06Z)
   - Source: https://www.rotoballer.com/player-news/ray-davis-a-handcuff-with-low-standalone-value/1924348
 - **Germie Bernard** — Germie Bernard Impresses During Preseason, Looks to Earn Role in Pittsburgh's Offense (2026-09-05T23:31:05Z)
   - Source: https://www.rotoballer.com/player-news/germie-bernard-impresses-during-preseason-and-looks-to-earn-role-in-pittsburghs-offense/1924337
@@ -211,6 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/robert-saleh-is-convinced-cam-ward-will-turn-it-around/1923486
 - **Tony Pollard** — Tony Pollard a High-Floor RB Due to Projectable Workload Volume (2026-09-04T16:26:09Z)
   - Source: https://www.rotoballer.com/player-news/tony-pollard-a-high-floor-running-back-option-due-to-projectable-workload-volume/1923470
-- **Tank Dell** — Tank Dell restructures contract with Texans (2026-09-04T16:25:23.335000Z)
-  - The move saves Houston $2 million against the cap. Dell is nearing his return from a gruesome knee injury he suffered late in the 2024 season. 
-  - Source: https://www.fantasypros.com/nfl/news/605908/tank-dell-restructures-contract-with-texans.php
