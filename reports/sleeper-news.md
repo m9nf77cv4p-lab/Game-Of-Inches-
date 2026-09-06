@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1997**
-- Newly captured: **2**
+- Stored stories: **1998**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Najee Harris** — Najee Harris Draws Positive Reports in Giants Camp (2026-09-06T09:46:17Z)
+- **NEW — Patrick Mahomes** — Patrick Mahomes Took Unique Approach To Grueling Rehab (2026-09-06T10:24:05Z)
+  - Source: https://www.rotoballer.com/player-news/patrick-mahomes-took-unique-approach-to-grueling-rehab/1924488
+- **Najee Harris** — Najee Harris Draws Positive Reports in Giants Camp (2026-09-06T09:46:17Z)
   - Source: https://www.rotoballer.com/player-news/najee-harris-draws-positive-reports-in-giants-camp/1924468
-- **NEW — Kyle Pitts** — Kyle Pitts Sr. Looking to Build Off Last Season and This Preseason (2026-09-06T09:42:07Z)
+- **Kyle Pitts** — Kyle Pitts Sr. Looking to Build Off Last Season and This Preseason (2026-09-06T09:42:07Z)
   - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-looking-to-build-off-last-season-and-this-preseason/1924460
 - **Brock Purdy** — Brock Purdy to Benefit From Increased Mobility, Strong Supporting Cast (2026-09-06T09:27:06Z)
   - Source: https://www.rotoballer.com/player-news/brock-purdy-to-benefit-from-increased-mobility-strong-supporting-cast/1924450
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kayshon-boutte-developing-chemistry-with-new-qb/1923518
 - **A.J. Brown** — A.J. Brown Primed for Resurgent Season as Focal Point of Passing Game (2026-09-04T16:58:08Z)
   - Source: https://www.rotoballer.com/player-news/a-j-brown-primed-for-resurgent-season-as-the-focal-point-of-the-patriots-passing-game/1923513
-- **Ryan Flournoy** — Ryan Flournoy an Intriguing Late-Round Target Amidst Training Camp Buzz (2026-09-04T16:47:10Z)
-  - Source: https://www.rotoballer.com/player-news/ryan-flournoy-an-intriguing-late-round-target-amidst-training-camp-buzz/1923506

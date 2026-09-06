@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T13:59:49Z",
+  "last_checked_at": "2026-09-06T14:41:56Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|7528|rotoballer|220192|1788687977000",
-    "nfl|7553|rotoballer|220191|1788687727000"
+    "nfl|4046|rotoballer|220193|1788690245000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs quarterback Patrick Mahomes has undergone rehab from a torn ACL and LCL he suffered in December, the worst injury of his career, and as Sam McDowell of the Kansas City Star wrote, he went into his rehab with a unique goal in his mind. \"He wanted to walk before his baby daughter, 11-month-old Golden\". McDowell went on to write that after a training camp practice, Golden, now 20 months old ran toward Mahomes for a hug and Golden's running rather than walking was a surprise, but \"Mahomes beat her to it, by the way, barely.\" The Chiefs have been quiet about Mahomes potential return to action, but Chiefs receiver Xavier Worthy reportedly told reporters, \"He's back\" and Sean Payton has reportedly been preparing the Broncos for the Week 1 matchup with the Chiefs assuming Mahomes will play.",
+      "metadata": {
+        "description": "Kansas City Chiefs quarterback Patrick Mahomes has undergone rehab from a torn ACL and LCL he suffered in December, the worst injury of his career, and as Sam McDowell of the Kansas City Star wrote, he went into his rehab with a unique goal in his mind. \"He wanted to walk before his baby daughter, 11-month-old Golden\". McDowell went on to write that after a training camp practice, Golden, now 20 months old ran toward Mahomes for a hug and Golden's running rather than walking was a surprise, but \"Mahomes beat her to it, by the way, barely.\" The Chiefs have been quiet about Mahomes potential return to action, but Chiefs receiver Xavier Worthy reportedly told reporters, \"He's back\" and Sean Payton has reportedly been preparing the Broncos for the Week 1 matchup with the Chiefs assuming Mahomes will play.",
+        "title": "Patrick Mahomes Took Unique Approach To Grueling Rehab",
+        "topic_id": "1402335432439508992",
+        "url": "https://www.rotoballer.com/player-news/patrick-mahomes-took-unique-approach-to-grueling-rehab/1924488"
+      },
+      "nfl_team": "KC",
+      "player_id": "4046",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "published": 1788690245000,
+      "source": "rotoballer",
+      "source_key": "220193",
+      "story_id": "nfl|4046|rotoballer|220193|1788690245000",
+      "title": "Patrick Mahomes Took Unique Approach To Grueling Rehab",
+      "url": "https://www.rotoballer.com/player-news/patrick-mahomes-took-unique-approach-to-grueling-rehab/1924488"
+    },
     {
       "analysis": null,
       "description": "New York Giants running back Najee Harris is a name to monitor in fantasy football as the 2026 regular season gets underway. Harris was a late addition to the Giants' roster, putting pen to paper on his contract in August. As a result, he had a delayed start to training camp and the preseason. In his lone preseason contest, he tallied 11 rushes for 39 yards, as well as a 20-yard reception. Head coach John Harbaugh noted that Harris is \"a really good football player,\" and the fact that he made the 53-man roster indicates that the Giants want to get him involved. An Achilles injury limited him to three games and 18 touches with the Chargers last year, but the season prior in Pittsburgh, he posted 299 touches, 1,326 scrimmage yards, and six total touchdowns. His biggest challenge to start the season will be earning snaps in a deep backfield that also features Cam Skattebo, Tyrone Tracy Jr., and Devin Singletary. For now, Harris ranks as the RB60 in RotoBaller's latest redraft rankings. He has an ADP of 222.5, which means he's going undrafted in most 12-team leagues.",
