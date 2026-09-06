@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2004**
+- Stored stories: **2005**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Zach Charbonnet** — Zach Charbonnet Falling Down Draft Boards Amid ACL Recovery (2026-09-06T11:40:24Z)
+- **NEW — Ted Hurst** — Ted Hurst III a Fantasy Riser After Consistently Productive Camp and Preseason (2026-09-06T12:07:06Z)
+  - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-a-fantasy-riser-after-consistently-productive-camp-and-preseason/1924607
+- **Zach Charbonnet** — Zach Charbonnet Falling Down Draft Boards Amid ACL Recovery (2026-09-06T11:40:24Z)
   - Source: https://www.rotoballer.com/player-news/zach-charbonnet-falling-down-draft-boards-amid-acl-recovery/1924600
 - **Malik Davis** — Malik Davis the Top Handcuff to Stash in Dallas (2026-09-06T11:30:09Z)
   - Source: https://www.rotoballer.com/player-news/malik-davis-the-top-handcuff-to-stash-in-dallas/1924594
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/cowboys-could-be-mindful-of-javonte-williams-workload/1923539
 - **Malik Washington** — Malik Washington - First-team billing on depth chart (2026-09-04T18:09:45Z)
   - Miami almost entirely retooled its receiving corps this offseason, releasing Tyreek Hill in February, trading Jaylen Waddle to the Broncos in March, signing Jalen Tolbert in free agency and then drafting three WRs (Caleb Douglas, Chris Bell and Kevin Coleman) in the 2026 Draft. Washington is the only holdover from 2025, a season in which he hauled in 46 of 65 targets for 317 yards and three touchdowns while also rushing 17 times for 110 yards and one more TD. In addition to an expected increase in snaps while working with new QB Malik Willis, Washington again will serve as the team's primary kick returner and perhaps on punt returns as well.
-- **Malik Willis** — Malik Willis - Logs one appearance in preseason (2026-09-04T17:50:06Z)
-  - Willis started the team's exhibition opener at Washington on Aug. 14, leading a 14-play drive that culminated in a De'Von Achane one-yard TD run. During the possession, Willis was a crisp 4-for-5 passing for 43 yards and also had two carries for nine yards. He parlayed a successful two-year stint as Jordan Love's backup in Green Bay into a three-year, $67.5 million contract this offseason, and while Willis' brief game action last month was encouraging, outside of top RB Achane, Miami doesn't boast much in terms of skill-position talent, as Malik Washington will be the No. 1 WR to begin the 2026 season.

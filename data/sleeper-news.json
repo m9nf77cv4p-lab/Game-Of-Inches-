@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T15:53:16Z",
+  "last_checked_at": "2026-09-06T16:22:32Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9753|rotoballer|220201|1788694824000"
+    "nfl|13317|rotoballer|220202|1788696426000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers wide receiver Ted Hurst III is trending up in fantasy football after a consistent and impressive summer. While Emeka Egbuka (toe), Jalen McMillan (knee), and Tez Johnson (groin) all missed portions of camp due to their injuries, Hurst was consistently available for the duration of the summer. Not only did he stay healthy and get consistent reps, but he also had an impressive performance in training camp and the preseason, during which he caught two passes for 19 yards. Head coach Todd Bowles and quarterback Baker Mayfield have both been outspoken about Hurst's reliability this year, so we wouldn't be surprised to see him take on a significant role this year, despite the fact that the Bucs have a somewhat crowded receiver room. The rookie out of Georgia State currently ranks as the WR83 in RotoBaller's redraft rankings, but we could see him jump into the top 50 by midseason.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers wide receiver Ted Hurst III is trending up in fantasy football after a consistent and impressive summer. While Emeka Egbuka (toe), Jalen McMillan (knee), and Tez Johnson (groin) all missed portions of camp due to their injuries, Hurst was consistently available for the duration of the summer. Not only did he stay healthy and get consistent reps, but he also had an impressive performance in training camp and the preseason, during which he caught two passes for 19 yards. Head coach Todd Bowles and quarterback Baker Mayfield have both been outspoken about Hurst's reliability this year, so we wouldn't be surprised to see him take on a significant role this year, despite the fact that the Bucs have a somewhat crowded receiver room. The rookie out of Georgia State currently ranks as the WR83 in RotoBaller's redraft rankings, but we could see him jump into the top 50 by midseason.",
+        "title": "Ted Hurst III a Fantasy Riser After Consistently Productive Camp and Preseason",
+        "topic_id": "1402360600708837376",
+        "url": "https://www.rotoballer.com/player-news/ted-hurst-iii-a-fantasy-riser-after-consistently-productive-camp-and-preseason/1924607"
+      },
+      "nfl_team": "TB",
+      "player_id": "13317",
+      "player_name": "Ted Hurst",
+      "position": "WR",
+      "published": 1788696426000,
+      "source": "rotoballer",
+      "source_key": "220202",
+      "story_id": "nfl|13317|rotoballer|220202|1788696426000",
+      "title": "Ted Hurst III a Fantasy Riser After Consistently Productive Camp and Preseason",
+      "url": "https://www.rotoballer.com/player-news/ted-hurst-iii-a-fantasy-riser-after-consistently-productive-camp-and-preseason/1924607"
+    },
     {
       "analysis": null,
       "description": "Seattle Seahawks running back Zach Charbonnet (knee) is seeing his fantasy football appeal decline as the regular season gets closer. Charbonnet tore his ACL in the playoffs last year, and the original fantasy outlook was that he'd return to his RB2 form once he recovered, especially after Kenneth Walker III left the team in free agency. Now, though, it's no longer a guarantee that Charbonnet will return to the lead-back role once he's healthy. There are plenty of different running backs expected to audition for the lead-back role in Week 1, and any of those top performers could make a case to remain atop the depth chart for the rest of the season. The early leader in the pack is Jadarian Price, a rookie first-round pick from Notre Dame. He may not be ready for an every-down role right away, but we know he's capable of contributing after he tallied 761 scrimmage yards and 13 touchdowns at school last year. George Holani and Emanuel Wilson are also expected to carve out significant roles on offense, adding another wrinkle to the backfield when Charbonnet returns. There are a lot of running backs with upside in this backfield, so Charbonnet may end up being more of a low-end RB3/flex once he's healthy. As a result, he has fallen to RB56 in RotoBaller's redraft rankings, and his ADP has slipped to 150.4 (RB49).",
