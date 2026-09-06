@@ -2,17 +2,19 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2022**
-- Newly captured: **2**
+- Stored stories: **2023**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson (ankle) not at practice Sunday  (2026-09-06T19:20:33.878000Z)
+- **TreVeyon Henderson** — TreVeyon Henderson (ankle) not at practice Sunday  (2026-09-06T19:20:33.878000Z)
   - Henderson has not practiced since August 24. He continues to trend in the wrong direction heading into Wednesday's season opener. 
   - Source: https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php
 - **TreVeyon Henderson** — TreVeyon Henderson - Looks set to miss Sunday's practice (2026-09-06T18:11:28Z)
   - New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.
-- **NEW — Baker Mayfield** — Baker Mayfield Building Some Bounce-Back Momentum (2026-09-06T15:13:22Z)
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson Still Sidelined With Week 1 Nearing (2026-09-06T15:40:20Z)
+  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-still-sidelined-with-week-1-nearing/1924712
+- **Baker Mayfield** — Baker Mayfield Building Some Bounce-Back Momentum (2026-09-06T15:13:22Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-building-some-bounce-back-momentum/1924703
 - **Cooper Kupp** — Cooper Kupp May See Even Further Workload Reduction in 2026 (2026-09-06T14:47:06Z)
   - Source: https://www.rotoballer.com/player-news/cooper-kupp-may-see-even-further-workload-reduction-in-2026/1924687
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/how-concerned-should-fantasy-managers-be-about-rashee-rice/1923640
 - **Denzel Boston** — Denzel Boston is Gaining Traction After Strong Showing in Camp (2026-09-04T21:58:09Z)
   - Source: https://www.rotoballer.com/player-news/denzel-boston-is-gaining-traction-after-strong-showing-in-camp/1923635
-- **Travis Hunter** — Travis Hunter - Getting more work at CB vs. WR (2026-09-04T21:53:36Z)
-  - After his rookie 2025 season came to an abrupt end after Week 7 due to an isolated LCL injury in his right knee, Hunter still was expected to play both wide receiver and cornerback in 2026, but the breakdown of reps between the two wasn't entirely clear until the Jaguars posted their first unofficial depth chart of training camp. Therein, he was listed as a starting CB and reserve WR, and his practice reps trended in that direction as August went on. It's thus unclear what kind of role Hunter can expect on offense to begin the campaign, especially in a position group that rosters Brian Thomas, Parker Washington, Jakobi Meyers (hand) and rookie sixth-rounders Josh Cameron and C.J. Williams.

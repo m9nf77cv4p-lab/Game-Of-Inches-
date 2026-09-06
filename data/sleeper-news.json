@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T19:25:30Z",
+  "last_checked_at": "2026-09-06T19:56:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12529|fantasy_pros|606192|1788722433878",
-    "nfl|4892|rotoballer|220218|1788707602000"
+    "nfl|12529|rotoballer|220221|1788709220000"
   ],
   "schema_version": 1,
   "source": {
@@ -54,6 +53,26 @@
       "story_id": "nfl|12529|rotowire|636311|1788718288000",
       "title": "TreVeyon Henderson - Looks set to miss Sunday's practice",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots running back TreVeyon Henderson (ankle) was not present for the media-access portion of Sunday's practice, according to Mike Reiss of ESPN. Henderson has not practiced since injuring his ankle on Aug. 24, and New England opens the season Wednesday night in Seattle. If he cannot play, Rhamondre Stevenson and Corey Kiner are the other running backs on the active roster. Reiss noted that Lan Larison and/or Hassan Haskins could be elevated from the practice squad to provide additional depth. Henderson ran for 911 yards and nine touchdowns on 180 carries as a rookie, adding 35 catches for 221 yards and another score. There was optimism late last month that the injury would not keep him out of Week 1, but his continued absence with only a few days left before the opener has made his status much harder to take for granted.",
+      "metadata": {
+        "description": "New England Patriots running back TreVeyon Henderson (ankle) was not present for the media-access portion of Sunday's practice, according to Mike Reiss of ESPN. Henderson has not practiced since injuring his ankle on Aug. 24, and New England opens the season Wednesday night in Seattle. If he cannot play, Rhamondre Stevenson and Corey Kiner are the other running backs on the active roster. Reiss noted that Lan Larison and/or Hassan Haskins could be elevated from the practice squad to provide additional depth. Henderson ran for 911 yards and nine touchdowns on 180 carries as a rookie, adding 35 catches for 221 yards and another score. There was optimism late last month that the injury would not keep him out of Week 1, but his continued absence with only a few days left before the opener has made his status much harder to take for granted.",
+        "title": "TreVeyon Henderson Still Sidelined With Week 1 Nearing",
+        "topic_id": "1402414712649486336",
+        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-still-sidelined-with-week-1-nearing/1924712"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788709220000,
+      "source": "rotoballer",
+      "source_key": "220221",
+      "story_id": "nfl|12529|rotoballer|220221|1788709220000",
+      "title": "TreVeyon Henderson Still Sidelined With Week 1 Nearing",
+      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-still-sidelined-with-week-1-nearing/1924712"
     },
     {
       "analysis": null,
