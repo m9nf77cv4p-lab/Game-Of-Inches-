@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T01:42:54Z",
+  "last_checked_at": "2026-09-06T01:54:07Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12540|rotoballer|220175|1788643805000"
+    "nfl|3214|rotoballer|220176|1788644229000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "New England Patriots tight end Hunter Henry quietly put together a top-10 season at his position in 2025. The Patriots made some offensive upgrades this offseason, but Henry is expected to remain a focal point. Over the offseason, the Pats added wide receivers A.J. Brown and Romeo Doubs. The assumption is that Henry will take a backseat to them, but that might not be the case. Henry has finished with 60 or more receptions during his first two seasons with Drake Maye under center. The two of them clearly have good chemistry, which is something you don't mess with. According to Mark Daniels of MassLive.com, Henry is expected to be a key part of the Patriots' offense next season. It's unclear if he'll post another top-10 season, but he should be a viable option.",
+      "metadata": {
+        "description": "New England Patriots tight end Hunter Henry quietly put together a top-10 season at his position in 2025. The Patriots made some offensive upgrades this offseason, but Henry is expected to remain a focal point. Over the offseason, the Pats added wide receivers A.J. Brown and Romeo Doubs. The assumption is that Henry will take a backseat to them, but that might not be the case. Henry has finished with 60 or more receptions during his first two seasons with Drake Maye under center. The two of them clearly have good chemistry, which is something you don't mess with. According to Mark Daniels of MassLive.com, Henry is expected to be a key part of the Patriots' offense next season. It's unclear if he'll post another top-10 season, but he should be a viable option.",
+        "title": "Hunter Henry is Likely to Play a Key Part in the Offense",
+        "topic_id": "1402141637194321920",
+        "url": "https://www.rotoballer.com/player-news/hunter-henry-is-likely-to-play-a-key-part-in-the-offense/1924291"
+      },
+      "nfl_team": "NE",
+      "player_id": "3214",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "published": 1788644229000,
+      "source": "rotoballer",
+      "source_key": "220176",
+      "story_id": "nfl|3214|rotoballer|220176|1788644229000",
+      "title": "Hunter Henry is Likely to Play a Key Part in the Offense",
+      "url": "https://www.rotoballer.com/player-news/hunter-henry-is-likely-to-play-a-key-part-in-the-offense/1924291"
+    },
     {
       "analysis": null,
       "description": "Tennessee Titans wide receiver Chimere Dike is hopeful to build off a decent rookie campaign. Last season, Dike hauled in 48 receptions with 423 receiving yards and four touchdowns in 17 games. Those stats were good enough to finish as the WR50, but Dike could be trending downward now. The Titans made significant upgrades to their offense this past offseason with Wan'Dale Robinson and drafting Carnell Tate in the first round. Dike might end up as the fourth or fifth wideout on this roster, which doesn't bode well for his fantasy value. The 24-year-old could be worth holding in dynasty leagues, but Dike isn't someone who must be selected in redraft formats.",

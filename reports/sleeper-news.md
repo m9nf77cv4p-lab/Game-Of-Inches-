@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1987**
+- Stored stories: **1988**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Chimere Dike** — Chimere Dike Could Get Lost in the Shuffle (2026-09-05T21:30:05Z)
+- **NEW — Hunter Henry** — Hunter Henry is Likely to Play a Key Part in the Offense (2026-09-05T21:37:09Z)
+  - Source: https://www.rotoballer.com/player-news/hunter-henry-is-likely-to-play-a-key-part-in-the-offense/1924291
+- **Chimere Dike** — Chimere Dike Could Get Lost in the Shuffle (2026-09-05T21:30:05Z)
   - Source: https://www.rotoballer.com/player-news/chimere-dike-could-get-lost-in-the-shuffle/1924289
 - **Tory Horton** — Tory Horton Injury Concerns Could Lower His Value (2026-09-05T21:21:05Z)
   - Source: https://www.rotoballer.com/player-news/tory-horton-injury-concerns-could-lower-his-value/1924286
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Entering the final year of his rookie deal, Dell was scheduled to collect $3.624 million, but he'll now make just over $1.7 million in 2026. Dell missed the entirety of the 2025 campaign after a catastrophic knee injury suffered toward the end of the previous season. He's now opening this season on injured reserve and won't be eligible to play until Week 5 at the earliest.
 - **Mark Andrews** — Mark Andrews Has Room for His Targets to Climb Again (2026-09-04T15:54:05Z)
   - Source: https://www.rotoballer.com/player-news/mark-andrews-has-room-for-his-targets-to-climb-again/1923433
-- **Jerry Jeudy** — Jerry Jeudy - Listed as starting wideout (2026-09-04T15:51:27Z)
-  - It comes as no surprise after the Browns cut Cedric Tillman at the end of training camp. Jeudy is listed as a starter alongside rookie wideouts KC Concepcion and Denzel Boston. Jeudy displayed no chemistry with Shedeur Sanders last season, as the veteran wideout finished 2025 with just 50 catches for 602 yards and two touchdowns on 106 targets. His 47.2 percent catch rate was fifth worst out of 197 qualified pass catchers, and of the 38 players in the NFL to see at least 100 targets, Jeudy's 602 yards were just two more than Jake Ferguson at the bottom of the list. Concepcion is expected to become the go-to target in Cleveland, with Boston operating as the big-bodied X receiver. Jeudy will face far more competition for targets.
