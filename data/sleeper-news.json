@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T17:22:29Z",
+  "last_checked_at": "2026-09-06T17:43:14Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11597|rotoballer|220207|1788700325000"
+    "nfl|6803|rotoballer|220208|1788701525000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Brandon Aiyuk is getting awfully difficult to keep on a redraft board. He remains on the reserve/left squad list as Week 1 approaches, and there has been no movement toward getting him back into the 49ers' offense. Aiyuk hasn't played since Week 7 of 2024, when a torn ACL and MCL ended a seven-game season in which he caught 25 passes for 374 yards and no touchdowns. He then missed all of 2025. At this point, the bigger concern isn't even the knee. There is simply no 2026 role to project while he remains away from the team. RotoBaller had Aiyuk at WR115 in its August half-PPR rankings, and he has since dropped to WR132 in the Sept. 6 update. Something could eventually change with his roster situation, but fantasy managers drafting right now have very little reason to spend a pick waiting for it.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Brandon Aiyuk is getting awfully difficult to keep on a redraft board. He remains on the reserve/left squad list as Week 1 approaches, and there has been no movement toward getting him back into the 49ers' offense. Aiyuk hasn't played since Week 7 of 2024, when a torn ACL and MCL ended a seven-game season in which he caught 25 passes for 374 yards and no touchdowns. He then missed all of 2025. At this point, the bigger concern isn't even the knee. There is simply no 2026 role to project while he remains away from the team. RotoBaller had Aiyuk at WR115 in its August half-PPR rankings, and he has since dropped to WR132 in the Sept. 6 update. Something could eventually change with his roster situation, but fantasy managers drafting right now have very little reason to spend a pick waiting for it.",
+        "title": "Brandon Aiyuk Keeps Sliding Out of Redraft Relevance",
+        "topic_id": "1402380735502954496",
+        "url": "https://www.rotoballer.com/player-news/brandon-aiyuk-keeps-sliding-out-of-redraft-relevance/1924641"
+      },
+      "nfl_team": "SF",
+      "player_id": "6803",
+      "player_name": "Brandon Aiyuk",
+      "position": "WR",
+      "published": 1788701525000,
+      "source": "rotoballer",
+      "source_key": "220208",
+      "story_id": "nfl|6803|rotoballer|220208|1788701525000",
+      "title": "Brandon Aiyuk Keeps Sliding Out of Redraft Relevance",
+      "url": "https://www.rotoballer.com/player-news/brandon-aiyuk-keeps-sliding-out-of-redraft-relevance/1924641"
+    },
     {
       "analysis": null,
       "description": "New York Giants tight end Theo Johnson still has a role, but the fantasy case has taken a hit. Johnson was productive last season, finishing with 45 catches for 528 yards and five touchdowns, yet Isaiah Likely has been the more prominent receiving option throughout camp. Likely caught six passes during live work in the Aug. 20 joint practice with Miami and was described by Jordan Raanan as one of Jaxson Dart's favorite targets. Johnson, meanwhile, had a quiet camp before a shoulder injury cost him additional practice time late in August. Head coach John Harbaugh has said Johnson should be ready for Week 1, so the injury itself is not the main concern. The bigger issue is where the targets are going. RotoBaller has Likely at TE15 in its September half-PPR rankings and Johnson at TE42. Johnson should still see the field, especially in two-tight-end sets, but he is looking more like a secondary option in the passing game than a breakout candidate.",

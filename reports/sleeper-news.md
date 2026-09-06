@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2010**
+- Stored stories: **2011**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Theo Johnson** — Theo Johnson's Redraft Stock Has Slipped (2026-09-06T13:12:05Z)
+- **NEW — Brandon Aiyuk** — Brandon Aiyuk Keeps Sliding Out of Redraft Relevance (2026-09-06T13:32:05Z)
+  - Source: https://www.rotoballer.com/player-news/brandon-aiyuk-keeps-sliding-out-of-redraft-relevance/1924641
+- **Theo Johnson** — Theo Johnson's Redraft Stock Has Slipped (2026-09-06T13:12:05Z)
   - Source: https://www.rotoballer.com/player-news/theo-johnsons-redraft-stock-has-slipped/1924632
 - **Marvin Harrison** — Marvin Harrison Jr.'s Fantasy Stock Impacted by Teammate's Extension (2026-09-06T12:41:19Z)
   - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-s-fantasy-stock-impacted-by-teammates-extension/1924622
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The first overall pick in the 2025 Draft, Ward started all 17 regular-season games as a rookie, completing 323 of 540 passes (59.8 percent) for 3,169 yards, 15 touchdowns and seven interceptions while turning 39 carries into 159 yards and two more TDs. He also fumbled 11 times, losing seven of them. The Titans added WR Carnell Tate in the first round of this year's draft and also signed WR Wan'Dale Robinson to a four-year, $70 million deal in the offseason, so Ward does have a bit more support as he enters his second pro campaign. Whether or not that helps Ward cut down on mistakes remains to be seen.
 - **Cade Otton** — Cade Otton - Remains No. 1 TE on depth chart (2026-09-04T19:36:53Z)
   - Aside from adding sixth-round rookie Bauer Sharp to the TE room this offseason, it's status quo for the position group in 2026, with all of Otton, Payne Durham and Ko Kieft back. Otton himself re-signed with Tampa Bay on a three-year, $30 million contract in March to retain his standing as the team's top tight end. Over the last two regular seasons, he's recorded exactly 59 catches on both occasions, totaling 1,172 yards and five touchdowns on 168 targets across 30 contests.
-- **Baker Mayfield** — Baker Mayfield - One preseason appearance (2026-09-04T19:29:51Z)
-  - Mayfield took the field for preseason Week 2 against the Chiefs on Aug. 22, leading two drives and finishing 2-for-4 passing for 10 yards. Both possessions ended in Riley Dixon punts, but Mayfield wasn't working with any of his top wide receivers or tight ends. WRs Emeka Egbuka (toe) and Jalen McMillan (knee) are dealing with injuries as Week 1 draws closer, so how both fare in practice next week will be key for Mayfield's prospects at Cincinnati on Sunday, Sept. 13.
