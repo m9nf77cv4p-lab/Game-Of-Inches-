@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-06T18:58:13Z",
+  "last_checked_at": "2026-09-06T19:25:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4039|rotoballer|220216|1788706026000"
+    "nfl|12529|fantasy_pros|606192|1788722433878",
+    "nfl|4892|rotoballer|220218|1788707602000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Henderson has not practiced since August 24. He continues to trend in the wrong direction heading into Wednesday's season opener. ",
+      "description": "TreVeyon Henderson was not present again for the media-access portion of practice Sunday.",
+      "metadata": {
+        "analysis": "Henderson has not practiced since August 24. He continues to trend in the wrong direction heading into Wednesday's season opener. ",
+        "description": "TreVeyon Henderson was not present again for the media-access portion of practice Sunday.",
+        "title": "TreVeyon Henderson (ankle) not at practice Sunday ",
+        "topic_id": "1402407169072111616",
+        "url": "https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788722433878,
+      "source": "fantasy_pros",
+      "source_key": "606192",
+      "story_id": "nfl|12529|fantasy_pros|606192|1788722433878",
+      "title": "TreVeyon Henderson (ankle) not at practice Sunday ",
+      "url": "https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php"
+    },
     {
       "analysis": "New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.",
       "description": "Henderson (ankle) was in street clothes ahead of Sunday's practice and appears likely to be listed as a non-participant on the Patriots' first injury report of the season, Andrew Callahan of the Boston Herald reports.",
@@ -32,6 +54,26 @@
       "story_id": "nfl|12529|rotowire|636311|1788718288000",
       "title": "TreVeyon Henderson - Looks set to miss Sunday's practice",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers quarterback Baker Mayfield has given fantasy managers a few more reasons to buy into a bounce-back. His numbers slipped to 3,693 passing yards and 26 touchdowns last season after the 4,500-yard, 41-score campaign he put together in 2024, but he also played through several injuries and still ran for a career-high 382 yards. Things have gone smoothly enough with new offensive coordinator Zac Robinson that Mayfield said in August the Bucs were in a good place with the new system. Chris Godwin Jr. has helped, too. Tampa Bay's camp coverage said Godwin had returned to peak form, and Mayfield called him the best version of himself after leaning on him throughout camp. There are still questions with Emeka Egbuka and Jalen McMillan banged up and Mike Evans gone, so this is not suddenly a top-end QB1 case. Still, RotoBaller's positional rankings moved Mayfield from QB17 in August to QB16 in the Sept. 3 update. It's a small bump, but the summer has gone well enough to justify it.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers quarterback Baker Mayfield has given fantasy managers a few more reasons to buy into a bounce-back. His numbers slipped to 3,693 passing yards and 26 touchdowns last season after the 4,500-yard, 41-score campaign he put together in 2024, but he also played through several injuries and still ran for a career-high 382 yards. Things have gone smoothly enough with new offensive coordinator Zac Robinson that Mayfield said in August the Bucs were in a good place with the new system. Chris Godwin Jr. has helped, too. Tampa Bay's camp coverage said Godwin had returned to peak form, and Mayfield called him the best version of himself after leaning on him throughout camp. There are still questions with Emeka Egbuka and Jalen McMillan banged up and Mike Evans gone, so this is not suddenly a top-end QB1 case. Still, RotoBaller's positional rankings moved Mayfield from QB17 in August to QB16 in the Sept. 3 update. It's a small bump, but the summer has gone well enough to justify it.",
+        "title": "Baker Mayfield Building Some Bounce-Back Momentum",
+        "topic_id": "1402407162637983744",
+        "url": "https://www.rotoballer.com/player-news/baker-mayfield-building-some-bounce-back-momentum/1924703"
+      },
+      "nfl_team": "TB",
+      "player_id": "4892",
+      "player_name": "Baker Mayfield",
+      "position": "QB",
+      "published": 1788707602000,
+      "source": "rotoballer",
+      "source_key": "220218",
+      "story_id": "nfl|4892|rotoballer|220218|1788707602000",
+      "title": "Baker Mayfield Building Some Bounce-Back Momentum",
+      "url": "https://www.rotoballer.com/player-news/baker-mayfield-building-some-bounce-back-momentum/1924703"
     },
     {
       "analysis": null,

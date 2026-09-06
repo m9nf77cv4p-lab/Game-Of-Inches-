@@ -2,14 +2,19 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2020**
-- Newly captured: **1**
+- Stored stories: **2022**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson (ankle) not at practice Sunday  (2026-09-06T19:20:33.878000Z)
+  - Henderson has not practiced since August 24. He continues to trend in the wrong direction heading into Wednesday's season opener. 
+  - Source: https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php
 - **TreVeyon Henderson** — TreVeyon Henderson - Looks set to miss Sunday's practice (2026-09-06T18:11:28Z)
   - New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.
-- **NEW — Cooper Kupp** — Cooper Kupp May See Even Further Workload Reduction in 2026 (2026-09-06T14:47:06Z)
+- **NEW — Baker Mayfield** — Baker Mayfield Building Some Bounce-Back Momentum (2026-09-06T15:13:22Z)
+  - Source: https://www.rotoballer.com/player-news/baker-mayfield-building-some-bounce-back-momentum/1924703
+- **Cooper Kupp** — Cooper Kupp May See Even Further Workload Reduction in 2026 (2026-09-06T14:47:06Z)
   - Source: https://www.rotoballer.com/player-news/cooper-kupp-may-see-even-further-workload-reduction-in-2026/1924687
 - **Antonio Williams** — Antonio Williams' Path to Immediate Production in Washington May Be Blocked (2026-09-06T14:36:05Z)
   - Source: https://www.rotoballer.com/player-news/antonio-williams-path-to-immediate-production-in-washington-may-be-blocked/1924683
@@ -208,7 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/denzel-boston-is-gaining-traction-after-strong-showing-in-camp/1923635
 - **Travis Hunter** — Travis Hunter - Getting more work at CB vs. WR (2026-09-04T21:53:36Z)
   - After his rookie 2025 season came to an abrupt end after Week 7 due to an isolated LCL injury in his right knee, Hunter still was expected to play both wide receiver and cornerback in 2026, but the breakdown of reps between the two wasn't entirely clear until the Jaguars posted their first unofficial depth chart of training camp. Therein, he was listed as a starting CB and reserve WR, and his practice reps trended in that direction as August went on. It's thus unclear what kind of role Hunter can expect on offense to begin the campaign, especially in a position group that rosters Brian Thomas, Parker Washington, Jakobi Meyers (hand) and rookie sixth-rounders Josh Cameron and C.J. Williams.
-- **Jared Goff** — Jared Goff Offers Top Late-Round Value (2026-09-04T21:44:05Z)
-  - Source: https://www.rotoballer.com/player-news/jared-goff-offers-top-late-round-value/1923625
-- **Jacoby Brissett** — Jacoby Brissett - Starting QB on depth chart (2026-09-04T21:36:45Z)
-  - After Arizona released Kyler Murray in March, the team signed Gardner Minshew in free agency and then rounded out the QB room by drafting Carson Beck (ribs) in the third round of the 2026 Draft. Despite those notable additions, Brissett was expected to be the starter, and as a result he held a hold-in during the offseason program and at the starting training camp before agreeing to a revised contract with the team on July 26. Brissett made a cameo in preseason Week 1 versus the Raiders, completing all five of his passes for 44 yards and a touchdown strike to Marvin Harrison. Considering he'll have TE Trey McBride, WRs Harrison and Michael Wilson and RBs Jeremiyah Love (ankle) and Tyler Allgeier at his disposal, Brissett very well may produce like he did during his 12-game starting stint to end last season. Whether that'll be enough for Brissett to hold on to the No. 1 gig throughout the campaign is up in the air, especially with Beck waiting in the wings.
