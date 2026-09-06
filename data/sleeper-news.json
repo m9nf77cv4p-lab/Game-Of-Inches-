@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-06T16:45:47Z",
+  "last_checked_at": "2026-09-06T17:22:29Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11628|rotoballer|220206|1788698479000",
-    "nfl|13405|rotoballer|220205|1788698165000"
+    "nfl|11597|rotoballer|220207|1788700325000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "New York Giants tight end Theo Johnson still has a role, but the fantasy case has taken a hit. Johnson was productive last season, finishing with 45 catches for 528 yards and five touchdowns, yet Isaiah Likely has been the more prominent receiving option throughout camp. Likely caught six passes during live work in the Aug. 20 joint practice with Miami and was described by Jordan Raanan as one of Jaxson Dart's favorite targets. Johnson, meanwhile, had a quiet camp before a shoulder injury cost him additional practice time late in August. Head coach John Harbaugh has said Johnson should be ready for Week 1, so the injury itself is not the main concern. The bigger issue is where the targets are going. RotoBaller has Likely at TE15 in its September half-PPR rankings and Johnson at TE42. Johnson should still see the field, especially in two-tight-end sets, but he is looking more like a secondary option in the passing game than a breakout candidate.",
+      "metadata": {
+        "description": "New York Giants tight end Theo Johnson still has a role, but the fantasy case has taken a hit. Johnson was productive last season, finishing with 45 catches for 528 yards and five touchdowns, yet Isaiah Likely has been the more prominent receiving option throughout camp. Likely caught six passes during live work in the Aug. 20 joint practice with Miami and was described by Jordan Raanan as one of Jaxson Dart's favorite targets. Johnson, meanwhile, had a quiet camp before a shoulder injury cost him additional practice time late in August. Head coach John Harbaugh has said Johnson should be ready for Week 1, so the injury itself is not the main concern. The bigger issue is where the targets are going. RotoBaller has Likely at TE15 in its September half-PPR rankings and Johnson at TE42. Johnson should still see the field, especially in two-tight-end sets, but he is looking more like a secondary option in the passing game than a breakout candidate.",
+        "title": "Theo Johnson's Redraft Stock Has Slipped",
+        "topic_id": "1402376960323121152",
+        "url": "https://www.rotoballer.com/player-news/theo-johnsons-redraft-stock-has-slipped/1924632"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11597",
+      "player_name": "Theo Johnson",
+      "position": "TE",
+      "published": 1788700325000,
+      "source": "rotoballer",
+      "source_key": "220207",
+      "story_id": "nfl|11597|rotoballer|220207|1788700325000",
+      "title": "Theo Johnson's Redraft Stock Has Slipped",
+      "url": "https://www.rotoballer.com/player-news/theo-johnsons-redraft-stock-has-slipped/1924632"
+    },
     {
       "analysis": null,
       "description": "Arizona Cardinals wide receiver Marvin Harrison Jr.'s fantasy outlook took another hit after teammate Michael Wilson signed a lucrative three-year, $75 million extension. While the extension doesn't directly impact Harrison's productivity, it does shift the dynamic of Arizona's receiver room. The Cardinals' willingness to pay Wilson three-quarters of a million dollars indicates that they don't believe his performance last season (78 catches, 1,006 yards, and seven touchdowns) was a fluke. They're invested in him to be their No. 1 receiver long-term. In fact, he's now under team control for the same length of time as Harrison. We're still intrigued that Harrison can improve upon last year's total of 41 targets, especially if the Cardinals are trailing in games and have to throw the football a lot. However, Wilson has the stronger rapport with Jacoby Brissett, and his new contract is further evidence that he's going to be a major contributor in Arizona for years to come. Harrison is firmly nestled into the No. 2 receiver role, making him a fringe WR3/flex in fantasy football leagues. With that being said, managers are still drafting him as a fringe top-30 receiver. He has an ADP of 71.8, which corresponds to the sixth round of fantasy drafts. That price tag feels a bit too rich, especially since you can get players like Christian Watson, Mike Evans, Parker Washington, Carnell Tate, and Wilson in the same range.",

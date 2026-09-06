@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2009**
-- Newly captured: **2**
+- Stored stories: **2010**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Marvin Harrison** — Marvin Harrison Jr.'s Fantasy Stock Impacted by Teammate's Extension (2026-09-06T12:41:19Z)
+- **NEW — Theo Johnson** — Theo Johnson's Redraft Stock Has Slipped (2026-09-06T13:12:05Z)
+  - Source: https://www.rotoballer.com/player-news/theo-johnsons-redraft-stock-has-slipped/1924632
+- **Marvin Harrison** — Marvin Harrison Jr.'s Fantasy Stock Impacted by Teammate's Extension (2026-09-06T12:41:19Z)
   - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-s-fantasy-stock-impacted-by-teammates-extension/1924622
-- **NEW — Kaytron Allen** — Kaytron Allen Faces an Uphill Battle to Earn Playing Time (2026-09-06T12:36:05Z)
+- **Kaytron Allen** — Kaytron Allen Faces an Uphill Battle to Earn Playing Time (2026-09-06T12:36:05Z)
   - Source: https://www.rotoballer.com/player-news/kaytron-allen-faces-an-uphill-battle-to-earn-playing-time/1924620
 - **Jalen Coker** — Jalen Coker Has a Clear Path to High Target Share (2026-09-06T12:30:09Z)
   - Source: https://www.rotoballer.com/player-news/jalen-coker-has-a-clear-path-to-high-target-share/1924617
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Aside from adding sixth-round rookie Bauer Sharp to the TE room this offseason, it's status quo for the position group in 2026, with all of Otton, Payne Durham and Ko Kieft back. Otton himself re-signed with Tampa Bay on a three-year, $30 million contract in March to retain his standing as the team's top tight end. Over the last two regular seasons, he's recorded exactly 59 catches on both occasions, totaling 1,172 yards and five touchdowns on 168 targets across 30 contests.
 - **Baker Mayfield** — Baker Mayfield - One preseason appearance (2026-09-04T19:29:51Z)
   - Mayfield took the field for preseason Week 2 against the Chiefs on Aug. 22, leading two drives and finishing 2-for-4 passing for 10 yards. Both possessions ended in Riley Dixon punts, but Mayfield wasn't working with any of his top wide receivers or tight ends. WRs Emeka Egbuka (toe) and Jalen McMillan (knee) are dealing with injuries as Week 1 draws closer, so how both fare in practice next week will be key for Mayfield's prospects at Cincinnati on Sunday, Sept. 13.
-- **Cam Skattebo** — Cam Skattebo Could See 20-Plus Carries Per Game (2026-09-04T18:38:32Z)
-  - Source: https://www.rotoballer.com/player-news/cam-skattebo-could-see-20-plus-carries-per-game/1923544
