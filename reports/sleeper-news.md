@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1995**
-- Newly captured: **1**
+- Stored stories: **1997**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Brock Purdy** — Brock Purdy to Benefit From Increased Mobility, Strong Supporting Cast (2026-09-06T09:27:06Z)
+- **NEW — Najee Harris** — Najee Harris Draws Positive Reports in Giants Camp (2026-09-06T09:46:17Z)
+  - Source: https://www.rotoballer.com/player-news/najee-harris-draws-positive-reports-in-giants-camp/1924468
+- **NEW — Kyle Pitts** — Kyle Pitts Sr. Looking to Build Off Last Season and This Preseason (2026-09-06T09:42:07Z)
+  - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-looking-to-build-off-last-season-and-this-preseason/1924460
+- **Brock Purdy** — Brock Purdy to Benefit From Increased Mobility, Strong Supporting Cast (2026-09-06T09:27:06Z)
   - Source: https://www.rotoballer.com/player-news/brock-purdy-to-benefit-from-increased-mobility-strong-supporting-cast/1924450
 - **Jacoby Brissett** — Jacoby Brissett a Sleeper with Talented Supporting Cast (2026-09-06T01:21:05Z)
   - Source: https://www.rotoballer.com/player-news/jacoby-brissett-a-sleeper-with-talented-supporting-cast/1924357
@@ -208,8 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/a-j-brown-primed-for-resurgent-season-as-the-focal-point-of-the-patriots-passing-game/1923513
 - **Ryan Flournoy** — Ryan Flournoy an Intriguing Late-Round Target Amidst Training Camp Buzz (2026-09-04T16:47:10Z)
   - Source: https://www.rotoballer.com/player-news/ryan-flournoy-an-intriguing-late-round-target-amidst-training-camp-buzz/1923506
-- **Kaelon Black** — Kaelon Black a Premier Handcuff Running Back Worth Targeting in Drafts (2026-09-04T16:38:55Z)
-  - Source: https://www.rotoballer.com/player-news/kaelon-black-a-premier-handcuff-running-back-worth-targeting-in-drafts/1923502
-- **Jake Ferguson** — Jake Ferguson restructures contract with Cowboys  (2026-09-04T16:35:22.706000Z)
-  - Ferguson's $7.25 million base salary was turned into a signing bonus. The Cowboys now have $33.2 million in salary cap space. 
-  - Source: https://www.fantasypros.com/nfl/news/605912/jake-ferguson-restructures-contract-with-cowboys.php
