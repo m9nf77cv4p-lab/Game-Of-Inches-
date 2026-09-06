@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-06T04:04:51Z",
+  "last_checked_at": "2026-09-06T04:46:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13274|rotoballer|220179|1788651065000"
+    "nfl|11575|rotoballer|220180|1788654426000",
+    "nfl|7049|rotoballer|220181|1788654606000",
+    "nfl|8136|rotoballer|220183|1788655255000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Rachaad White drew positive reviews for his performance throughout training camp this summer. A minor hamstring injury sidelined White for the final two preseason games, but even though he didn't touch the ball in a game, he still flashed upside as a ball-carrier and receiver during camp. White is gearing up for his first season in Washington after four years with the Tampa Bay Buccaneers. He was the RB4 in PPR leagues in 2023 before falling to RB22 and RB32 over the last two years, respectively. White's exact fantasy outlook depends on how the Commanders distribute the volume. Right now, we'd assume Jacory Croskey-Merritt and White both get involved on early downs, with Croskey-Merritt seeing a slightly larger carry share. However, White is the far more productive back on receiving downs, so he should get on the field in passing situations and carve out a decent target share. White has logged 40+ receptions in all four NFL seasons and 50+ receptions in three of the four. As a result, managers in PPR leagues should consider snagging him as their RB3/flex this year. As it stands, he ranks as RotoBaller's RB40 in redraft leagues. He has an ADP of 116.1, which corresponds to the 10th round of fantasy drafts and makes him the 40th running back off the board.",
+      "metadata": {
+        "description": "Washington Commanders running back Rachaad White drew positive reviews for his performance throughout training camp this summer. A minor hamstring injury sidelined White for the final two preseason games, but even though he didn't touch the ball in a game, he still flashed upside as a ball-carrier and receiver during camp. White is gearing up for his first season in Washington after four years with the Tampa Bay Buccaneers. He was the RB4 in PPR leagues in 2023 before falling to RB22 and RB32 over the last two years, respectively. White's exact fantasy outlook depends on how the Commanders distribute the volume. Right now, we'd assume Jacory Croskey-Merritt and White both get involved on early downs, with Croskey-Merritt seeing a slightly larger carry share. However, White is the far more productive back on receiving downs, so he should get on the field in passing situations and carve out a decent target share. White has logged 40+ receptions in all four NFL seasons and 50+ receptions in three of the four. As a result, managers in PPR leagues should consider snagging him as their RB3/flex this year. As it stands, he ranks as RotoBaller's RB40 in redraft leagues. He has an ADP of 116.1, which corresponds to the 10th round of fantasy drafts and makes him the 40th running back off the board.",
+        "title": "Rachaad White the Subject of Positive Reports During Camp",
+        "topic_id": "1402186939532062720",
+        "url": "https://www.rotoballer.com/player-news/rachaad-white-the-subject-of-positive-reports-during-camp/1924355"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8136",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "published": 1788655255000,
+      "source": "rotoballer",
+      "source_key": "220183",
+      "story_id": "nfl|8136|rotoballer|220183|1788655255000",
+      "title": "Rachaad White the Subject of Positive Reports During Camp",
+      "url": "https://www.rotoballer.com/player-news/rachaad-white-the-subject-of-positive-reports-during-camp/1924355"
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings wide receiver Jauan Jennings has a solid track record in the NFL, but his fantasy upside will be limited this upcoming season. Jennings left the 49ers and signed with the Vikings in free agency. He went from being the No. 1 receiver in San Francisco to the No. 3 receiver in Minnesota, where he ranks behind Justin Jefferson and Jordan Addison on the depth chart. Not only is his position on the depth chart worse this season, but he's also dealing with a quarterback downgrade after leaving Brock Purdy for Kyler Murray (or J.J. McCarthy). Because of the crowded receiver room and subpar quarterback situation, Jennings is falling down draft boards. He ranks as the WR73 in RotoBaller's latest redraft rankings for 2026. He currently has an ADP of 181, which corresponds to the 16th round of fantasy drafts and makes him the 71st receiver off the board.",
+      "metadata": {
+        "description": "Minnesota Vikings wide receiver Jauan Jennings has a solid track record in the NFL, but his fantasy upside will be limited this upcoming season. Jennings left the 49ers and signed with the Vikings in free agency. He went from being the No. 1 receiver in San Francisco to the No. 3 receiver in Minnesota, where he ranks behind Justin Jefferson and Jordan Addison on the depth chart. Not only is his position on the depth chart worse this season, but he's also dealing with a quarterback downgrade after leaving Brock Purdy for Kyler Murray (or J.J. McCarthy). Because of the crowded receiver room and subpar quarterback situation, Jennings is falling down draft boards. He ranks as the WR73 in RotoBaller's latest redraft rankings for 2026. He currently has an ADP of 181, which corresponds to the 16th round of fantasy drafts and makes him the 71st receiver off the board.",
+        "title": "Jauan Jennings a Late-Round Pick with Limited Upside in Crowded Receiver Room",
+        "topic_id": "1402185681756758016",
+        "url": "https://www.rotoballer.com/player-news/jauan-jennings-a-late-round-pick-with-limited-upside-in-crowded-receiver-room/1924350"
+      },
+      "nfl_team": "MIN",
+      "player_id": "7049",
+      "player_name": "Jauan Jennings",
+      "position": "WR",
+      "published": 1788654606000,
+      "source": "rotoballer",
+      "source_key": "220181",
+      "story_id": "nfl|7049|rotoballer|220181|1788654606000",
+      "title": "Jauan Jennings a Late-Round Pick with Limited Upside in Crowded Receiver Room",
+      "url": "https://www.rotoballer.com/player-news/jauan-jennings-a-late-round-pick-with-limited-upside-in-crowded-receiver-room/1924350"
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills running back Ray Davis lacks standalone value as long as teammate James Cook is healthy. However, Davis remains a very appealing handcuff option, especially in deeper fantasy leagues. Cook, who has been a top-12 running back in each of the last three seasons, has missed just one game since entering the NFL. However, if he were to miss time this year, Davis would step into the lead-back role as a strong RB2 in a high-powered offense that loves to run the ball. Because Cook hasn't really dealt with injuries in the past, Davis isn't a must-roster player in every single league. Instead, he's more of a low-end stash in fantasy leagues with 12+ teams. Managers in shallower leagues will have a tough time justifying keeping Davis on their bench if Cook stays healthy for most of the year. As it stands, Davis has an ADP of 188.4. He projects as a last-round pick in 12-team fantasy leagues.",
+      "metadata": {
+        "description": "Buffalo Bills running back Ray Davis lacks standalone value as long as teammate James Cook is healthy. However, Davis remains a very appealing handcuff option, especially in deeper fantasy leagues. Cook, who has been a top-12 running back in each of the last three seasons, has missed just one game since entering the NFL. However, if he were to miss time this year, Davis would step into the lead-back role as a strong RB2 in a high-powered offense that loves to run the ball. Because Cook hasn't really dealt with injuries in the past, Davis isn't a must-roster player in every single league. Instead, he's more of a low-end stash in fantasy leagues with 12+ teams. Managers in shallower leagues will have a tough time justifying keeping Davis on their bench if Cook stays healthy for most of the year. As it stands, Davis has an ADP of 188.4. He projects as a last-round pick in 12-team fantasy leagues.",
+        "title": "Ray Davis a Handcuff with Low Standalone Value",
+        "topic_id": "1402184422576435200",
+        "url": "https://www.rotoballer.com/player-news/ray-davis-a-handcuff-with-low-standalone-value/1924348"
+      },
+      "nfl_team": "BUF",
+      "player_id": "11575",
+      "player_name": "Ray Davis",
+      "position": "RB",
+      "published": 1788654426000,
+      "source": "rotoballer",
+      "source_key": "220180",
+      "story_id": "nfl|11575|rotoballer|220180|1788654426000",
+      "title": "Ray Davis a Handcuff with Low Standalone Value",
+      "url": "https://www.rotoballer.com/player-news/ray-davis-a-handcuff-with-low-standalone-value/1924348"
+    },
     {
       "analysis": null,
       "description": "Pittsburgh Steelers rookie wide receiver Germie Bernard impressed throughout the preseason, recording five catches (on eight targets) for 64 yards (12.8 yards per catch) and a touchdown during the preseason. Two of his five receptions went for first downs. Pittsburgh's depth chart currently lists DK Metcalf, Michael Pittman Jr. and Roman Wilson as its starting wide receiver trio. Still, Bernard is expected to be involved in the passing game alongside quarterback Aaron Rodgers. Rodgers recently spoke about the process, including the mental aspects, that Bernard and the young receivers will need to learn as the 2026 season quickly approaches. Pittsburgh selected the 6-foot-1, 206-pound Bernard out of Alabama in the second round (47th overall pick) of the 2026 NFL Draft. Bernard is a strong dynasty league play, but he is currently rostered in just 2% of Yahoo leagues. Bernard ranks as RotoBaller's No. 80 receiver (Half-PPR).",

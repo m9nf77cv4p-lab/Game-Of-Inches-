@@ -2,12 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **1991**
-- Newly captured: **1**
+- Stored stories: **1994**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Germie Bernard** — Germie Bernard Impresses During Preseason, Looks to Earn Role in Pittsburgh's Offense (2026-09-05T23:31:05Z)
+- **NEW — Rachaad White** — Rachaad White the Subject of Positive Reports During Camp (2026-09-06T00:40:55Z)
+  - Source: https://www.rotoballer.com/player-news/rachaad-white-the-subject-of-positive-reports-during-camp/1924355
+- **NEW — Jauan Jennings** — Jauan Jennings a Late-Round Pick with Limited Upside in Crowded Receiver Room (2026-09-06T00:30:06Z)
+  - Source: https://www.rotoballer.com/player-news/jauan-jennings-a-late-round-pick-with-limited-upside-in-crowded-receiver-room/1924350
+- **NEW — Ray Davis** — Ray Davis a Handcuff with Low Standalone Value (2026-09-06T00:27:06Z)
+  - Source: https://www.rotoballer.com/player-news/ray-davis-a-handcuff-with-low-standalone-value/1924348
+- **Germie Bernard** — Germie Bernard Impresses During Preseason, Looks to Earn Role in Pittsburgh's Offense (2026-09-05T23:31:05Z)
   - Source: https://www.rotoballer.com/player-news/germie-bernard-impresses-during-preseason-and-looks-to-earn-role-in-pittsburghs-offense/1924337
 - **Tyjae Spears** — Tyjae Spears Could Lose Touches (2026-09-05T21:53:36Z)
   - Source: https://www.rotoballer.com/player-news/tyjae-spears-could-lose-touches/1924300
@@ -208,10 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tank Dell** — Tank Dell restructures contract with Texans (2026-09-04T16:25:23.335000Z)
   - The move saves Houston $2 million against the cap. Dell is nearing his return from a gruesome knee injury he suffered late in the 2024 season. 
   - Source: https://www.fantasypros.com/nfl/news/605908/tank-dell-restructures-contract-with-texans.php
-- **D'Andre Swift** — D'Andre Swift left practice Thursday with a cramp  (2026-09-04T16:25:23.025000Z)
-  - Swift was seen leaving practice "holding at his midsection or core area." It appears he should be good to go for the season opener next week. 
-  - Source: https://www.fantasypros.com/nfl/news/605907/dandre-swift-left-practice-thursday-with-cramp.php
-- **Justin Herbert** — Justin Herbert Poised for Career Year Following Coaching Changes? (2026-09-04T16:19:05Z)
-  - Source: https://www.rotoballer.com/player-news/justin-herbert-poised-for-career-year-following-coaching-changes-in-los-angeles/1923457
-- **Quentin Johnston** — Quentin Johnston Has a Chance to Take Another Step Forward (2026-09-04T16:16:20Z)
-  - Source: https://www.rotoballer.com/player-news/quentin-johnston-has-a-chance-to-take-another-step-forward/1923453
