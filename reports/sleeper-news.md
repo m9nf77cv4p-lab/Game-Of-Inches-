@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2126**
-- Newly captured: **0**
+- Stored stories: **2127**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -64,6 +64,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - It marked Monangai's first practice action since he hyperextended his knee Aug. 16. It's unclear if Monangai will be able to play in Sunday's regular-season opener against the Panthers, but he's obviously nearing 100 percent. D'Andre Swift (abdomen) was also back at practice Monday after dealing with cramps last week.
 - **D'Andre Swift** — D'Andre Swift - Back at practice Monday (2026-09-07T18:43:25Z)
   - Swift left practice last Thursday with abdominal cramps, but his ability to mix into drills after a weekend off generally is a good sign ahead of Sunday's season opener against the Panthers. In addition to Swift, Kyle Monangai (knee) returned to practice Monday for the first time since hyperextending his knee Aug. 16. Swift is a locked-in fantasy RB2 to open the 2026 campaign, while Monangai makes for an ideal bench stash in Chicago's elite offense. Roschon Johnson will bring up the rear of the depth chart as the Bears' RB3.
+- **NEW — Terrance Ferguson** — Terrance Ferguson One of the Best Upside TE Stashes Off the Waiver Wire (2026-09-07T18:17:15Z)
+  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-one-of-the-best-upside-te-stashes-off-the-waiver-wire/1925436
 - **Jalen McMillan** — Jalen McMillan - On field for Monday's practice (2026-09-07T18:15:23Z)
   - Both McMillan and Emeka Egbuka (toe) were participating in Monday's session, putting both in good position to play Sunday against the Bengals. McMillan missed most of training camp, but his injury never sounded serious. He's expected to compete with rookie Ted Hurst for WR3 duties behind Egbuka and Chris Godwin this season. McMillan is the favorite to open the campaign in three-wide sets.
 - **Ja'Marr Chase** — Ja'Marr Chase (knee) returns to practice Monday  (2026-09-07T17:45:42.459000Z)
@@ -229,5 +231,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Henderson suffered a minor right ankle injury Aug. 24 and hasn't been able to practice since then. After Sunday's absence, he'll have two more chances to mix into drills before the Patriots potentially make a ruling on his status for Week 1 when they post Tuesday's injury report. If Henderson isn't able to suit up for Wednesday's season opener at Seattle, Rhamondre Stevenson would be in line to handle the bulk of the backfield reps for New England, with Corey Kiner and practice-squad members Lan Larison and Hassan Haskins the potential candidates for complementary work, per Mike Reiss of ESPN.com.
 - **James Conner** — James Conner is Avoidable in Redraft Formats (2026-09-06T22:46:12Z)
   - Source: https://www.rotoballer.com/player-news/james-conner-is-avoidable-in-redraft-formats/1924893
-- **Kimani Vidal** — Kimani Vidal Gets Praised for his Pass Protection (2026-09-06T22:38:09Z)
-  - Source: https://www.rotoballer.com/player-news/kimani-vidal-gets-praised-for-his-pass-protection/1924891

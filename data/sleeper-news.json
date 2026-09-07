@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-07T22:20:17Z",
+  "last_checked_at": "2026-09-07T22:32:55Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|12487|rotoballer|220302|1788805035000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -463,6 +465,26 @@
       "story_id": "nfl|6790|rotowire|636343|1788806605000",
       "title": "D'Andre Swift - Back at practice Monday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams second-year tight end Terrance Ferguson might have gone undrafted in many single-year fantasy football formats, but that does not mean that he will not be a factor in 2026. The second-round pick from Oregon finds himself in a crowded Rams tight end room again in 2026 alongside Colby Parkinson, Tyler Higbee, Davis Allen, and rookie Max Klare, but he arguably has the most pass-catching upside among the group. And when we are talking about upside players in an already explosive Rams offense, you should pay attention. Ferguson had only 11 receptions on 25 targets for 231 yards and three touchdowns in his first 14 NFL games in 2025, but he came alive late and scored two of his three touchdowns in his final two regular-season contests. It would not be a big surprise to see Ferguson emerge as quarterback Matthew Stafford's third option by the end of the 2026 campaign behind receivers Puka Nacua and Davante Adams. And if Nacua faces any kind of NFL suspension this year, Ferguson could quickly become a must-start TE. The 23-year-old is only rostered in 24% of Yahoo leagues right now and is worth a pickup if you need extra depth at the position.",
+      "metadata": {
+        "description": "Los Angeles Rams second-year tight end Terrance Ferguson might have gone undrafted in many single-year fantasy football formats, but that does not mean that he will not be a factor in 2026. The second-round pick from Oregon finds himself in a crowded Rams tight end room again in 2026 alongside Colby Parkinson, Tyler Higbee, Davis Allen, and rookie Max Klare, but he arguably has the most pass-catching upside among the group. And when we are talking about upside players in an already explosive Rams offense, you should pay attention. Ferguson had only 11 receptions on 25 targets for 231 yards and three touchdowns in his first 14 NFL games in 2025, but he came alive late and scored two of his three touchdowns in his final two regular-season contests. It would not be a big surprise to see Ferguson emerge as quarterback Matthew Stafford's third option by the end of the 2026 campaign behind receivers Puka Nacua and Davante Adams. And if Nacua faces any kind of NFL suspension this year, Ferguson could quickly become a must-start TE. The 23-year-old is only rostered in 24% of Yahoo leagues right now and is worth a pickup if you need extra depth at the position.",
+        "title": "Terrance Ferguson One of the Best Upside TE Stashes Off the Waiver Wire",
+        "topic_id": "1402816151087493120",
+        "url": "https://www.rotoballer.com/player-news/terrance-ferguson-one-of-the-best-upside-te-stashes-off-the-waiver-wire/1925436"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12487",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "published": 1788805035000,
+      "source": "rotoballer",
+      "source_key": "220302",
+      "story_id": "nfl|12487|rotoballer|220302|1788805035000",
+      "title": "Terrance Ferguson One of the Best Upside TE Stashes Off the Waiver Wire",
+      "url": "https://www.rotoballer.com/player-news/terrance-ferguson-one-of-the-best-upside-te-stashes-off-the-waiver-wire/1925436"
     },
     {
       "analysis": "Both McMillan and Emeka Egbuka (toe) were participating in Monday's session, putting both in good position to play Sunday against the Bengals. McMillan missed most of training camp, but his injury never sounded serious. He's expected to compete with rookie Ted Hurst for WR3 duties behind Egbuka and Chris Godwin this season. McMillan is the favorite to open the campaign in three-wide sets.",
