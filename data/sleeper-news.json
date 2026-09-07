@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-07T16:32:16Z",
+  "last_checked_at": "2026-09-07T16:56:55Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12514|rotowire|636335|1788798352000"
+    "nfl|11618|fantasy_pros|606363|1788799842091",
+    "nfl|12514|fantasy_pros|606362|1788799842101"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,48 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "It is a good sign for Egbuka's availability to open the season after missing time in training camp. His status will need to continue to be monitored in practice the rest of the week. ",
+      "description": "Emeka Egbuka took part in individual drills at practice on Monday. ",
+      "metadata": {
+        "analysis": "It is a good sign for Egbuka's availability to open the season after missing time in training camp. His status will need to continue to be monitored in practice the rest of the week. ",
+        "description": "Emeka Egbuka took part in individual drills at practice on Monday. ",
+        "title": "Emeka Egbuka (toe) practices Monday ",
+        "topic_id": "1402731842691457024",
+        "url": "https://www.fantasypros.com/nfl/news/606362/emeka-egbuka-toe-practices-monday.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1788799842101,
+      "source": "fantasy_pros",
+      "source_key": "606362",
+      "story_id": "nfl|12514|fantasy_pros|606362|1788799842101",
+      "title": "Emeka Egbuka (toe) practices Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/606362/emeka-egbuka-toe-practices-monday.php"
+    },
+    {
+      "analysis": "McMillan missed time during training camp with a knee injury. He remains hopeful to be good to go for Sunday's season opener. ",
+      "description": "Jalen McMillan took part in individual drills during practice on Monday. ",
+      "metadata": {
+        "analysis": "McMillan missed time during training camp with a knee injury. He remains hopeful to be good to go for Sunday's season opener. ",
+        "description": "Jalen McMillan took part in individual drills during practice on Monday. ",
+        "title": "Jalen McMillan (knee) practices Monday ",
+        "topic_id": "1402731842649513984",
+        "url": "https://www.fantasypros.com/nfl/news/606363/jalen-mcmillan-knee-practices-monday.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1788799842091,
+      "source": "fantasy_pros",
+      "source_key": "606363",
+      "story_id": "nfl|11618|fantasy_pros|606363|1788799842091",
+      "title": "Jalen McMillan (knee) practices Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/606363/jalen-mcmillan-knee-practices-monday.php"
+    },
     {
       "analysis": "Egbuka was limited to work on the side last week, and although it's not yet clear how much he will do Monday, it appears he has taken a step forward in his recovery from a toe issue. There has been hope that Egbuka will be available for Week 1, and there remains reason to believe he will be available for Tampa Bay's opener.",
       "description": "Egbuka (toe) is \"participating in warmups and running routes\" at Monday's practice, according to Pewter Report.",

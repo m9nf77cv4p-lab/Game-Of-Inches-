@@ -2,12 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2068**
-- Newly captured: **1**
+- Stored stories: **2070**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Emeka Egbuka** — Emeka Egbuka - Getting work Monday (2026-09-07T16:25:52Z)
+- **NEW — Emeka Egbuka** — Emeka Egbuka (toe) practices Monday  (2026-09-07T16:50:42.101000Z)
+  - It is a good sign for Egbuka's availability to open the season after missing time in training camp. His status will need to continue to be monitored in practice the rest of the week. 
+  - Source: https://www.fantasypros.com/nfl/news/606362/emeka-egbuka-toe-practices-monday.php
+- **NEW — Jalen McMillan** — Jalen McMillan (knee) practices Monday  (2026-09-07T16:50:42.091000Z)
+  - McMillan missed time during training camp with a knee injury. He remains hopeful to be good to go for Sunday's season opener. 
+  - Source: https://www.fantasypros.com/nfl/news/606363/jalen-mcmillan-knee-practices-monday.php
+- **Emeka Egbuka** — Emeka Egbuka - Getting work Monday (2026-09-07T16:25:52Z)
   - Egbuka was limited to work on the side last week, and although it's not yet clear how much he will do Monday, it appears he has taken a step forward in his recovery from a toe issue. There has been hope that Egbuka will be available for Week 1, and there remains reason to believe he will be available for Tampa Bay's opener.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) not seen practicing Monday  (2026-09-07T16:05:41.763000Z)
   - Henderson continues to trend towards likely being sidelined for Wednesday's season opener. Rhamondre Stevenson should open the season in a workhorse role. 
@@ -213,7 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/wandale-robinson-a-ppr-sleeper-with-large-target-share-expected/1924236
 - **Aaron Rodgers** — Aaron Rodgers Holds Deep-League Appeal with Improved Supporting Cast (2026-09-05T18:45:06Z)
   - Source: https://www.rotoballer.com/player-news/aaron-rodgers-holds-deep-league-appeal-with-improved-supporting-cast/1924229
-- **Keon Coleman** — Keon Coleman's Stock Falling After Injury During Camp (2026-09-05T18:20:06Z)
-  - Source: https://www.rotoballer.com/player-news/keon-colemans-stock-falling-after-injury-during-camp/1924224
-- **Jack Bech** — Jack Bech Set for a Starting Role in Second Season (2026-09-05T18:14:05Z)
-  - Source: https://www.rotoballer.com/player-news/jack-bech-set-for-a-starting-role-in-second-season/1924222
