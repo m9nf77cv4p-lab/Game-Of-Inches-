@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-07T16:56:55Z",
+  "last_checked_at": "2026-09-07T17:12:28Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11618|fantasy_pros|606363|1788799842091",
-    "nfl|12514|fantasy_pros|606362|1788799842101"
+    "nfl|12514|rotoballer|220269|1788786246000",
+    "nfl|2216|rotoballer|220268|1788785645000"
   ],
   "schema_version": 1,
   "source": {
@@ -259,6 +259,46 @@
       "story_id": "nfl|2216|rotowire|636329|1788787332000",
       "title": "Mike Evans - Involved in practice Monday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers wide receiver Emeka Egbuka (toe) is practicing on Monday, according to Rick Stroud of the Tampa Bay Times. Pewter Report reports that Egbuka is \"participating in warmups and running routes.\" It is a good sign to see Egbuka doing something on the field on Monday after he was limited to side work last week. However, the 23-year-old could just be limited and may need to upgrade to a full practice before the end of the week before the Bucs clear him to play in the Week 1 season opener on Sunday, Sept. 13, against the Cincinnati Bengals. Jalen McMillan (knee) was also practicing on Monday, so Tampa could have all three of their top wideouts available against Cincy this weekend, in addition to veteran Chris Godwin Jr. That would be good news for quarterback Baker Mayfield in a game in which the Bucs may need to open up the passing playbook in order to keep pace with the Bengals' explosive offense. If Egbuka is cleared to play later this week, fantasy managers should consider him a low-end WR2 option to kick off the season. The Bucs will release their first official practice report of 2026 on Wednesday.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers wide receiver Emeka Egbuka (toe) is practicing on Monday, according to Rick Stroud of the Tampa Bay Times. Pewter Report reports that Egbuka is \"participating in warmups and running routes.\" It is a good sign to see Egbuka doing something on the field on Monday after he was limited to side work last week. However, the 23-year-old could just be limited and may need to upgrade to a full practice before the end of the week before the Bucs clear him to play in the Week 1 season opener on Sunday, Sept. 13, against the Cincinnati Bengals. Jalen McMillan (knee) was also practicing on Monday, so Tampa could have all three of their top wideouts available against Cincy this weekend, in addition to veteran Chris Godwin Jr. That would be good news for quarterback Baker Mayfield in a game in which the Bucs may need to open up the passing playbook in order to keep pace with the Bengals' explosive offense. If Egbuka is cleared to play later this week, fantasy managers should consider him a low-end WR2 option to kick off the season. The Bucs will release their first official practice report of 2026 on Wednesday.",
+        "title": "Emeka Egbuka Practicing on Monday",
+        "topic_id": "1402736870542020608",
+        "url": "https://www.rotoballer.com/player-news/emeka-egbuka-practicing-on-monday/1925210"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1788786246000,
+      "source": "rotoballer",
+      "source_key": "220269",
+      "story_id": "nfl|12514|rotoballer|220269|1788786246000",
+      "title": "Emeka Egbuka Practicing on Monday",
+      "url": "https://www.rotoballer.com/player-news/emeka-egbuka-practicing-on-monday/1925210"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers veteran wide receiver Mike Evans (groin) said that none of the injuries that he dealt with this summer during training camp were significant, according to Christopher Mathis of The Drive. \"I know I'm an older player. I've had probably over a thousand football practices in my life now, so I know what I'm doing out there. They know what they're doing. They did a good job taking care of me. None of my injuries were significant, so if it was a game week, I wouldn't have missed any time,\" Evans said. The 33-year-old was spotted on the field on Monday in Melbourne, Australia, in the portion of practice open to the media, but he could have been limited with a groin injury that he has been dealing with since the end of camp. While the Niners have been careful with Evans after he played in a career-low eight games in 2025 in his final season with the Tampa Bay Buccaneers, he is expected to suit up on Thursday against the division-rival Los Angeles Rams in his 49ers debut. Evans is a future Hall of Famer and the unquestioned WR1 in San Fran in 2026, but durability concerns as he nears the end of his career should not be ignored. Fantasy managers should treat Evans as a WR3/flex for his debut with his new squad in Week 1.",
+      "metadata": {
+        "description": "San Francisco 49ers veteran wide receiver Mike Evans (groin) said that none of the injuries that he dealt with this summer during training camp were significant, according to Christopher Mathis of The Drive. \"I know I'm an older player. I've had probably over a thousand football practices in my life now, so I know what I'm doing out there. They know what they're doing. They did a good job taking care of me. None of my injuries were significant, so if it was a game week, I wouldn't have missed any time,\" Evans said. The 33-year-old was spotted on the field on Monday in Melbourne, Australia, in the portion of practice open to the media, but he could have been limited with a groin injury that he has been dealing with since the end of camp. While the Niners have been careful with Evans after he played in a career-low eight games in 2025 in his final season with the Tampa Bay Buccaneers, he is expected to suit up on Thursday against the division-rival Los Angeles Rams in his 49ers debut. Evans is a future Hall of Famer and the unquestioned WR1 in San Fran in 2026, but durability concerns as he nears the end of his career should not be ignored. Fantasy managers should treat Evans as a WR3/flex for his debut with his new squad in Week 1.",
+        "title": "Mike Evans' Injuries During Camp Were Not Significant",
+        "topic_id": "1402734353947058176",
+        "url": "https://www.rotoballer.com/player-news/mike-evans-injuries-during-camp-were-not-significant/1925177"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1788785645000,
+      "source": "rotoballer",
+      "source_key": "220268",
+      "story_id": "nfl|2216|rotoballer|220268|1788785645000",
+      "title": "Mike Evans' Injuries During Camp Were Not Significant",
+      "url": "https://www.rotoballer.com/player-news/mike-evans-injuries-during-camp-were-not-significant/1925177"
     },
     {
       "analysis": "The Falcons were deciding between Tagovailoa and Michael Penix (knee) for the Week 1 starting assignment, and with the latter still getting back up to full speed as he works his way back from a torn ACL, Tagovailoa will get the nod. Tagovailoa likely won't have much leash as a starter, coming off a poor preseason in which he completed 10 of 13 pass attempts for 117 yards while fumbling twice (losing one).",
