@@ -1,12 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T15:47:04Z",
+  "last_checked_at": "2026-09-07T15:58:02Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11559|fantasy_pros|606334|1788795341756",
-    "nfl|11583|fantasy_pros|606338|1788795341703",
-    "nfl|11583|rotowire|636333|1788795345000",
-    "nfl|4217|fantasy_pros|606340|1788795941629"
+    "nfl|8121|rotoballer|220264|1788781634000"
   ],
   "schema_version": 1,
   "source": {
@@ -199,6 +196,26 @@
       "story_id": "nfl|6768|fantasy_pros|606317|1788783340302",
       "title": "Tua Tagovailoa named Falcons starter",
       "url": "https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver Romeo Doubs shouldn't be sitting on many waiver wires heading into Week 1. RotoBaller has him fifth among its pre-Week 1 wide receiver pickups and recommends adding him in leagues with 10 or more teams. The role is there, too. New England's unofficial depth chart has Doubs with the first-team offense after he came over from Green Bay, where he caught 55 passes for a career-high 724 yards and six touchdowns last season. He followed that with eight catches for 124 yards and another score in the playoffs. A.J. Brown will command plenty of targets, and DeMario Douglas and Hunter Henry aren't going away, so Doubs doesn't need to be forced into fantasy lineups immediately. RotoBaller has him at WR48 for the opener in Seattle. That ranking shouldn't stop managers from adding him, though. Doubs has enough of a role and enough production behind him to be more than a speculative stash, making him a priority pickup in 10-team leagues and deeper.",
+      "metadata": {
+        "description": "New England Patriots wide receiver Romeo Doubs shouldn't be sitting on many waiver wires heading into Week 1. RotoBaller has him fifth among its pre-Week 1 wide receiver pickups and recommends adding him in leagues with 10 or more teams. The role is there, too. New England's unofficial depth chart has Doubs with the first-team offense after he came over from Green Bay, where he caught 55 passes for a career-high 724 yards and six touchdowns last season. He followed that with eight catches for 124 yards and another score in the playoffs. A.J. Brown will command plenty of targets, and DeMario Douglas and Hunter Henry aren't going away, so Doubs doesn't need to be forced into fantasy lineups immediately. RotoBaller has him at WR48 for the opener in Seattle. That ranking shouldn't stop managers from adding him, though. Doubs has enough of a role and enough production behind him to be more than a speculative stash, making him a priority pickup in 10-team leagues and deeper.",
+        "title": "Romeo Doubs a Priority Add Before Week 1",
+        "topic_id": "1402716735848656896",
+        "url": "https://www.rotoballer.com/player-news/romeo-doubs-a-priority-add-before-week-1/1925152"
+      },
+      "nfl_team": "NE",
+      "player_id": "8121",
+      "player_name": "Romeo Doubs",
+      "position": "WR",
+      "published": 1788781634000,
+      "source": "rotoballer",
+      "source_key": "220264",
+      "story_id": "nfl|8121|rotoballer|220264|1788781634000",
+      "title": "Romeo Doubs a Priority Add Before Week 1",
+      "url": "https://www.rotoballer.com/player-news/romeo-doubs-a-priority-add-before-week-1/1925152"
     },
     {
       "analysis": null,
