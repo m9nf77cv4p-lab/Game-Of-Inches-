@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2102**
-- Newly captured: **2**
+- Stored stories: **2106**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Alec Pierce** — Alec Pierce (knee) expected to be ready for Week 1 (2026-09-07T19:45:43.629000Z)
+- **NEW — Alec Pierce** — Alec Pierce - Expected to play Week 1 (2026-09-07T19:50:11Z)
+  - Pierce returned to a full practice last week and is nearing 100 percent following ankle surgery earlier in the offseason. While Pierce is expected to play against Baltimore, it's unclear if he'll play his normal allotment of snaps, according to Stephen Holder of ESPN.com. Pierce could be on some sort of snap count, and Ashton Dulin would be in line for additional reps on offense. Pierce is shaping up as a boom-or-bust fantasy bet for Week 1.
+- **Alec Pierce** — Alec Pierce (knee) expected to be ready for Week 1 (2026-09-07T19:45:43.629000Z)
   - Pierce has continues to increase his workload in team practice without any setbacks, setting up the dynamic pass-catcher to take advantage of his role as the No. 1 wideout alongside tight end Tyler Warren for quarterback Daniel Jones against a tough Ravens defensive unit Sunday.
   - Source: https://www.fantasypros.com/nfl/news/606405/alec-pierce-knee-expected-to-be-ready-week-1.php
 - **Rome Odunze** — Rome Odunze - Not practicing Monday (2026-09-07T18:48:49Z)
@@ -56,9 +58,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606350/treveyon-henderson-ankle-not-seen-practicing-monday.php
 - **TreVeyon Henderson** — TreVeyon Henderson - Not spotted at Monday's practice (2026-09-07T16:00:13Z)
   - Henderson was listed as a non-participant on Sunday's injury report, and it appears likely he will receive the same designation a day later. Henderson has not been ruled out for Wednesday's season opener just yet, but his chances of suiting up are seemingly growing slimmer.
+- **NEW — Alec Pierce** — Alec Pierce Should Be Good to Go for Week 1 (2026-09-07T15:50:32Z)
+  - Source: https://www.rotoballer.com/player-news/alec-pierce-should-be-good-to-go-for-week-1/1925379
 - **George Kittle** — George Kittle (Achilles) seen practicing Monday  (2026-09-07T15:45:41.629000Z)
   - Kittle was on the field on Monday in Australia. It keeps him on track to be good to go for Thursday's seaaon opener, though it remains unclear if he will be facing any sort of snap count. 
   - Source: https://www.fantasypros.com/nfl/news/606340/george-kittle-achilles-seen-practicing-monday.php
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Expected to See Plenty of Work Wednesday (2026-09-07T15:43:06Z)
+  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-expected-to-see-plenty-of-work-wednesday/1925377
+- **NEW — Kayshon Boutte** — Kayshon Boutte Will be Active in Week 1, Worth a Look on Waiver Wire (2026-09-07T15:40:05Z)
+  - Source: https://www.rotoballer.com/player-news/kayshon-boutte-will-be-active-in-week-1-worth-a-look-on-waiver-wire/1925375
 - **Jonathon Brooks** — Jonathon Brooks - Works off to side Monday (2026-09-07T15:35:45Z)
   - Kaye notes that Brooks was spotted doing some running, so he wasn't completely limited to rehab work. According to Joe Person of The Athletic, Panthers head coach Dave Canales expressed optimism last week that Brooks would be ready to play in Sunday's season opener versus the Bears, and the running back's lack of involvement in Monday's practice isn't believed to have changed the Panthers' stance. Brooks missed the entire 2025 campaign after tearing the ACL in his right knee for the second time in his career in December 2024, but he was fully cleared in the spring and saw action in two preseason games.
 - **Michael Penix** — Michael Penix Jr. (knee) to be inactive in Week 1 (2026-09-07T15:35:41.756000Z)
@@ -67,7 +75,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jonathon Brooks** — Jonathon Brooks works off to side with trainers Monday (2026-09-07T15:35:41.703000Z)
   - Head coach Dave Canales said last week that he was "very optimistic" that Brooks would play in Week 1. It remains unclear what the exact injury is that he is dealing with. His status will need to continue to be monitored the rest of the week. 
   - Source: https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php
-- **NEW — Dalton Schultz** — Dalton Schultz a Strong PPR Streamer for Week 1 (2026-09-07T15:32:06Z)
+- **Dalton Schultz** — Dalton Schultz a Strong PPR Streamer for Week 1 (2026-09-07T15:32:06Z)
   - Source: https://www.rotoballer.com/player-news/dalton-schultz-a-strong-ppr-streamer-for-week-1/1925370
 - **Khalil Shakir** — Khalil Shakir Still Has PPR Appeal on the Waiver Wire (2026-09-07T15:25:06Z)
   - Source: https://www.rotoballer.com/player-news/khalil-shakir-still-has-ppr-appeal-on-the-waiver-wire/1925361
@@ -218,11 +226,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/oronde-gadsdens-stock-falling-due-to-uncertain-role-in-los-angeles/1924672
 - **Kenyon Sadiq** — Kenyon Sadiq Unlikely to be Immediate Contributor For Jets (2026-09-06T14:10:05Z)
   - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-unlikely-to-be-immediate-contributor-after-injury-riddled-camp/1924664
-- **Tyler Warren** — Tyler Warren Carries High-End TE1 Upside with Improved QB Health (2026-09-06T14:09:05Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-warren-carries-high-end-te1-upside-with-improved-qb-health-in-indianapolis/1924662
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Keeps Building His Case for More Work (2026-09-06T14:07:06Z)
-  - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-keeps-building-his-case-for-more-work/1924658
-- **Keenan Allen** — Keenan Allen Losing Ground in a Crowded Passing Game (2026-09-06T13:54:04Z)
-  - Source: https://www.rotoballer.com/player-news/keenan-allen-losing-ground-in-a-crowded-passing-game/1924650
-- **Jalen McMillan** — Jalen McMillan's Redraft Appeal Takes Another Hit (2026-09-06T13:44:04Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-mcmillans-redraft-appeal-takes-another-hit/1924644

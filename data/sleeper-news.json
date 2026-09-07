@@ -1,10 +1,12 @@
 {
-  "last_checked_at": "2026-09-07T19:48:07Z",
+  "last_checked_at": "2026-09-07T19:58:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|5001|rotoballer|220288|1788795126000",
-    "nfl|8142|fantasy_pros|606405|1788810343629"
+    "nfl|7611|rotoballer|220289|1788795786000",
+    "nfl|8142|rotoballer|220291|1788796232000",
+    "nfl|8142|rotowire|636346|1788810611000",
+    "nfl|9504|rotoballer|220290|1788795605000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +16,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Pierce returned to a full practice last week and is nearing 100 percent following ankle surgery earlier in the offseason. While Pierce is expected to play against Baltimore, it's unclear if he'll play his normal allotment of snaps, according to Stephen Holder of ESPN.com. Pierce could be on some sort of snap count, and Ashton Dulin would be in line for additional reps on offense. Pierce is shaping up as a boom-or-bust fantasy bet for Week 1.",
+      "description": "Coach Shan Steichen said Monday that Pierce (ankle) \"should be good to go\" for Sunday's game against the Ravens, Joel A. Erickson of The Indianapolis Star reports.",
+      "metadata": {
+        "analysis": "Pierce returned to a full practice last week and is nearing 100 percent following ankle surgery earlier in the offseason. While Pierce is expected to play against Baltimore, it's unclear if he'll play his normal allotment of snaps, according to Stephen Holder of ESPN.com. Pierce could be on some sort of snap count, and Ashton Dulin would be in line for additional reps on offense. Pierce is shaping up as a boom-or-bust fantasy bet for Week 1.",
+        "description": "Coach Shan Steichen said Monday that Pierce (ankle) \"should be good to go\" for Sunday's game against the Ravens, Joel A. Erickson of The Indianapolis Star reports.",
+        "title": "Alec Pierce - Expected to play Week 1",
+        "topic_id": "1402778400409522176"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1788810611000,
+      "source": "rotowire",
+      "source_key": "636346",
+      "story_id": "nfl|8142|rotowire|636346|1788810611000",
+      "title": "Alec Pierce - Expected to play Week 1",
+      "url": null
+    },
     {
       "analysis": "Pierce has continues to increase his workload in team practice without any setbacks, setting up the dynamic pass-catcher to take advantage of his role as the No. 1 wideout alongside tight end Tyler Warren for quarterback Daniel Jones against a tough Ravens defensive unit Sunday.",
       "description": "Alec Pierce (knee) is expected to be ready for Week 1 for the Indianapolis Colts against the Baltimore Ravens according to Stephen Holder.",
@@ -406,6 +428,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Alec Pierce (ankle) \"should be good\" to play in Sunday's season opener against Baltimore, head coach Shane Steichen said, according to Joel A. Erickson. Pierce underwent ankle surgery in March and spent nearly all of training camp on the Active/PUP list before finally returning to practice Aug. 27. The Colts have been ramping him up since then, with Week 1 always the target. Pierce is coming off the best season of his career, catching 47 passes for 1,003 yards and six touchdowns in 15 games. He also led the NFL with 21.3 yards per reception for the second straight year. After spending most of the summer rehabbing, Steichen's latest update is a strong sign Pierce will be back in the lineup when Indianapolis opens against the Ravens.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Alec Pierce (ankle) \"should be good\" to play in Sunday's season opener against Baltimore, head coach Shane Steichen said, according to Joel A. Erickson. Pierce underwent ankle surgery in March and spent nearly all of training camp on the Active/PUP list before finally returning to practice Aug. 27. The Colts have been ramping him up since then, with Week 1 always the target. Pierce is coming off the best season of his career, catching 47 passes for 1,003 yards and six touchdowns in 15 games. He also led the NFL with 21.3 yards per reception for the second straight year. After spending most of the summer rehabbing, Steichen's latest update is a strong sign Pierce will be back in the lineup when Indianapolis opens against the Ravens.",
+        "title": "Alec Pierce Should Be Good to Go for Week 1",
+        "topic_id": "1402778399017009152",
+        "url": "https://www.rotoballer.com/player-news/alec-pierce-should-be-good-to-go-for-week-1/1925379"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1788796232000,
+      "source": "rotoballer",
+      "source_key": "220291",
+      "story_id": "nfl|8142|rotoballer|220291|1788796232000",
+      "title": "Alec Pierce Should Be Good to Go for Week 1",
+      "url": "https://www.rotoballer.com/player-news/alec-pierce-should-be-good-to-go-for-week-1/1925379"
+    },
+    {
       "analysis": "Kittle was on the field on Monday in Australia. It keeps him on track to be good to go for Thursday's seaaon opener, though it remains unclear if he will be facing any sort of snap count. ",
       "description": "George Kittle was seen practicing on Monday. ",
       "metadata": {
@@ -425,6 +467,46 @@
       "story_id": "nfl|4217|fantasy_pros|606340|1788795941629",
       "title": "George Kittle (Achilles) seen practicing Monday ",
       "url": "https://www.fantasypros.com/nfl/news/606340/george-kittle-achilles-seen-practicing-monday.php"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots running back Rhamondre Stevenson is expected to see plenty of snaps in Wednesday night's opener against Seattle, according to Chad Graff. Head coach Mike Vrabel pointed to Stevenson's pass protection Monday, saying \"the protection for me is what stands out\" when discussing what he values in the veteran's game. That part of Stevenson's skill set could keep him on the field regardless of how the carries are divided. He played 14 games last season, rushing for 603 yards and seven touchdowns on 130 carries while adding 32 catches for 345 yards and two more scores. TreVeyon Henderson's ankle injury could open the door to even more work, but Stevenson already has a strong case for a heavy snap count because New England trusts him to protect the quarterback.",
+      "metadata": {
+        "description": "New England Patriots running back Rhamondre Stevenson is expected to see plenty of snaps in Wednesday night's opener against Seattle, according to Chad Graff. Head coach Mike Vrabel pointed to Stevenson's pass protection Monday, saying \"the protection for me is what stands out\" when discussing what he values in the veteran's game. That part of Stevenson's skill set could keep him on the field regardless of how the carries are divided. He played 14 games last season, rushing for 603 yards and seven touchdowns on 130 carries while adding 32 catches for 345 yards and two more scores. TreVeyon Henderson's ankle injury could open the door to even more work, but Stevenson already has a strong case for a heavy snap count because New England trusts him to protect the quarterback.",
+        "title": "Rhamondre Stevenson Expected to See Plenty of Work Wednesday",
+        "topic_id": "1402777139064897536",
+        "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-expected-to-see-plenty-of-work-wednesday/1925377"
+      },
+      "nfl_team": "NE",
+      "player_id": "7611",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "published": 1788795786000,
+      "source": "rotoballer",
+      "source_key": "220289",
+      "story_id": "nfl|7611|rotoballer|220289|1788795786000",
+      "title": "Rhamondre Stevenson Expected to See Plenty of Work Wednesday",
+      "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-expected-to-see-plenty-of-work-wednesday/1925377"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans head coach DeMeco Ryans said that wide receiver \"Kayshon Boutte is picking up the playbook really well\" and that he will be active on Sunday, Sept. 13, for the Week 1 season opener against the Buffalo Bills, according to DJ Bien-Aime of ESPN. The 24-year-old has the clearest path to fantasy relevance in his new home in Houston since entering the NFL as a sixth-round pick in 2023 by the New England Patriots out of LSU. The Texans acquired him in a trade with the Patriots this summer after they learned that second-year wideout Jayden Higgins (knee) would miss the entire 2026 season. Boutte, who has developed chemistry with quarterback C.J. Stroud quickly, is expected to serve as the team's WR2 behind Nico Collins despite limited time to learn the offense in training camp. In three seasons with the Pats, Boutte recorded 78 catches on 121 targets for 1,159 yards and nine touchdowns, with six of his scores coming in 14 regular-season games in 2025. Boutte is rostered in only 20% of Yahoo leagues currently, but he could quickly become a popular waiver-wire target if he lights up the box score early on for Houston.",
+      "metadata": {
+        "description": "Houston Texans head coach DeMeco Ryans said that wide receiver \"Kayshon Boutte is picking up the playbook really well\" and that he will be active on Sunday, Sept. 13, for the Week 1 season opener against the Buffalo Bills, according to DJ Bien-Aime of ESPN. The 24-year-old has the clearest path to fantasy relevance in his new home in Houston since entering the NFL as a sixth-round pick in 2023 by the New England Patriots out of LSU. The Texans acquired him in a trade with the Patriots this summer after they learned that second-year wideout Jayden Higgins (knee) would miss the entire 2026 season. Boutte, who has developed chemistry with quarterback C.J. Stroud quickly, is expected to serve as the team's WR2 behind Nico Collins despite limited time to learn the offense in training camp. In three seasons with the Pats, Boutte recorded 78 catches on 121 targets for 1,159 yards and nine touchdowns, with six of his scores coming in 14 regular-season games in 2025. Boutte is rostered in only 20% of Yahoo leagues currently, but he could quickly become a popular waiver-wire target if he lights up the box score early on for Houston.",
+        "title": "Kayshon Boutte Will be Active in Week 1, Worth a Look on Waiver Wire",
+        "topic_id": "1402777139060703232",
+        "url": "https://www.rotoballer.com/player-news/kayshon-boutte-will-be-active-in-week-1-worth-a-look-on-waiver-wire/1925375"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9504",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "published": 1788795605000,
+      "source": "rotoballer",
+      "source_key": "220290",
+      "story_id": "nfl|9504|rotoballer|220290|1788795605000",
+      "title": "Kayshon Boutte Will be Active in Week 1, Worth a Look on Waiver Wire",
+      "url": "https://www.rotoballer.com/player-news/kayshon-boutte-will-be-active-in-week-1-worth-a-look-on-waiver-wire/1925375"
     },
     {
       "analysis": "Kaye notes that Brooks was spotted doing some running, so he wasn't completely limited to rehab work. According to Joe Person of The Athletic, Panthers head coach Dave Canales expressed optimism last week that Brooks would be ready to play in Sunday's season opener versus the Bears, and the running back's lack of involvement in Monday's practice isn't believed to have changed the Panthers' stance. Brooks missed the entire 2025 campaign after tearing the ACL in his right knee for the second time in his career in December 2024, but he was fully cleared in the spring and saw action in two preseason games.",
