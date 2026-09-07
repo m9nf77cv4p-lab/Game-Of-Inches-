@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T22:32:55Z",
+  "last_checked_at": "2026-09-07T22:43:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12487|rotoballer|220302|1788805035000"
+    "nfl|13345|rotoballer|220303|1788805805000"
   ],
   "schema_version": 1,
   "source": {
@@ -465,6 +465,26 @@
       "story_id": "nfl|6790|rotowire|636343|1788806605000",
       "title": "D'Andre Swift - Back at practice Monday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos rookie running back Jonah Coleman will enter his first NFL season as the Broncos' No. 3 back behind J.K. Dobbins and second-year RB RJ Harvey. Coleman is rostered in only 34% of Yahoo leagues with the regular-season opener in just a few days. While the 23-year-old fourth-rounder from the University of Washington might not have a big role right away in the Broncos' backfield, he should at least be rostered by fantasy managers who selected Dobbins in their drafts. The 5-foot-8, 200-pounder impressed the Broncos' coaching staff at training camp this summer and is expected to be the early-down complement to the oft-injured Dobbins, with Harvey working mostly in pass-catching situations. If Dobbins continues to miss time with injuries, Coleman, not Harvey, would most likely jump into the early-down role for Denver in 2026. In his final season with the Huskies in 2025, Coleman had 156 carries for 758 yards and 15 touchdowns in 12 games, adding 31 catches for 354 yards and two more touchdowns as a receiver. While he probably will not realize his three-down potential in his rookie campaign, Coleman has intriguing stash upside off the waiver wire in the Broncos' ascending offense.",
+      "metadata": {
+        "description": "Denver Broncos rookie running back Jonah Coleman will enter his first NFL season as the Broncos' No. 3 back behind J.K. Dobbins and second-year RB RJ Harvey. Coleman is rostered in only 34% of Yahoo leagues with the regular-season opener in just a few days. While the 23-year-old fourth-rounder from the University of Washington might not have a big role right away in the Broncos' backfield, he should at least be rostered by fantasy managers who selected Dobbins in their drafts. The 5-foot-8, 200-pounder impressed the Broncos' coaching staff at training camp this summer and is expected to be the early-down complement to the oft-injured Dobbins, with Harvey working mostly in pass-catching situations. If Dobbins continues to miss time with injuries, Coleman, not Harvey, would most likely jump into the early-down role for Denver in 2026. In his final season with the Huskies in 2025, Coleman had 156 carries for 758 yards and 15 touchdowns in 12 games, adding 31 catches for 354 yards and two more touchdowns as a receiver. While he probably will not realize his three-down potential in his rookie campaign, Coleman has intriguing stash upside off the waiver wire in the Broncos' ascending offense.",
+        "title": "Jonah Coleman an Intriguing Rookie Waiver Stash in Denver's Backfield",
+        "topic_id": "1402818668093571072",
+        "url": "https://www.rotoballer.com/player-news/jonah-coleman-an-intriguing-rookie-waiver-stash-in-denvers-backfield/1925443"
+      },
+      "nfl_team": "DEN",
+      "player_id": "13345",
+      "player_name": "Jonah Coleman",
+      "position": "RB",
+      "published": 1788805805000,
+      "source": "rotoballer",
+      "source_key": "220303",
+      "story_id": "nfl|13345|rotoballer|220303|1788805805000",
+      "title": "Jonah Coleman an Intriguing Rookie Waiver Stash in Denver's Backfield",
+      "url": "https://www.rotoballer.com/player-news/jonah-coleman-an-intriguing-rookie-waiver-stash-in-denvers-backfield/1925443"
     },
     {
       "analysis": null,
