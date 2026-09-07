@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2034**
+- Stored stories: **2035**
 - Newly captured: **1**
 
 ## Latest news
@@ -17,9 +17,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Coach Mike Macdonald relayed on Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.
 - **TreVeyon Henderson** — TreVeyon Henderson - Misses Sunday's practice (2026-09-06T23:31:39Z)
   - Henderson suffered a minor right ankle injury on Aug. 24 and hasn't been able to practice since then. After Sunday's absence, he'll have two more chances to mix into drills before the Patriots potentially make a ruling on his status for Week 1 when they post Tuesday's injury report. If Henderson isn't able to suit up for Wednesday's season opener at Seattle, Rhamondre Stevenson would be in line to handle the bulk of the backfield reps for New England, with Corey Kiner and practice-squad members Lan Larison and Hassan Haskins the potential candidates for complementary work, per Mike Reiss of ESPN.com.
+- **NEW — Marvin Mims** — Marvin Mims Jr. Could See Reduced Role (2026-09-06T22:23:43Z)
+  - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-could-see-reduced-role/1924878
 - **George Kittle** — George Kittle - In line to practice Monday (2026-09-06T22:04:37Z)
   - Kittle has made a speedy recovery from the torn right Achilles that he suffered in the 49ers' wild-card win at Philadelphia on Jan. 11, for which he underwent surgery three days later. Both GM John Lynch and coach Kyle Shanahan and the tight end himself expressed optimism in the offseason about Kittle being available Week 1 against the Rams, and his activation from the active/PUP list on Aug. 23 begin to set the stage for such a reality. Kittle then logged team drills last week and made the trip to Australia with his teammates. The 49ers will post their first injury report of the season Monday, which will reveal how much activity he was able to manage.
-- **NEW — Ja'Tavion Sanders** — Ja'Tavion Sanders Likely to Lose Playing Time (2026-09-06T21:45:06Z)
+- **Ja'Tavion Sanders** — Ja'Tavion Sanders Likely to Lose Playing Time (2026-09-06T21:45:06Z)
   - Source: https://www.rotoballer.com/player-news/jatavion-sanders-likely-to-lose-playing-time/1924852
 - **Puka Nacua** — Puka Nacua (psoas) expected to play in Week 1 (2026-09-06T21:25:34.525000Z)
   - Nacua has been dealing with a psoas injury but returned to practice about a week ago. With the opening game in Melbourne, the Rams are being smart with their players given the toll of travel. However, their WR1 should be good to go. Nacua also still faces a potential suspension "under the NFL's personal conduct policy," says Adkins.
@@ -213,6 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **J.K. Dobbins** — J.K. Dobbins will maintain Denver's RB1 role in 2026 (2026-09-05T04:20:15.573000Z)
   - Dobbins was very successful in 2025 when he was healthy, averaging 5.0 yards per carry and rushing for 772 yards in 10 games. RJ Harvey and rookie Jonah Coleman will have roles, a regular trait for head coach Sean Payton's offenses. Due to injury risk and a congested backfield, Dobbins has a deflated ADP price as the half-PPR RB34, according to FantasyPros.
   - Source: https://www.fantasypros.com/nfl/news/605956/jk-dobbins-will-maintain-denvers-rb1-role-2026.php
-- **Tua Tagovailoa** — Tua Tagovailoa: Falcons could name starting QB soon (2026-09-05T03:40:15.247000Z)
-  - Nearly every team has named its starter for Week 1, but Atlanta has not formally announced its QB1. According to Ian Rapoport, Tagovailoa could have a "short leash" if named the starter as Atlanta waits for Penix to get healthy. Ideally, the Falcons hoped Tagovailoa would prove himself to be a steady, veteran presence, but Atlanta finds itself in limbo under center.
-  - Source: https://www.fantasypros.com/nfl/news/605953/tua-tagovailoa-falcons-could-name-starting-qb-soon.php
