@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2052**
-- Newly captured: **3**
+- Stored stories: **2053**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Michael Penix** — Michael Penix - Won't start in Week 1 (2026-09-07T13:36:21Z)
+- **Michael Penix** — Michael Penix - Won't start in Week 1 (2026-09-07T13:36:21Z)
   - Though Penix is expected to receive the opportunity to start at some point in 2026, he'll have to wait at least one more week before getting his chance while he continues to work his way back from the torn ACL he sustained last November. Penix didn't play in the preseason and wasn't cleared to take part in 11-on-11 drills until Aug. 22, so he'll need to get some full practices under his belt before the Falcons consider elevating him into the starting role over Tagovailoa, who completed 10 of 13 pass attempts for 117 yards in two exhibition contests but fumbled twice and generally struggled to push the ball downfield during the preseason and training camp. The Falcons kept four quarterbacks on their roster following the preseason, so Cooper Rush and Jack Strand will be available as backup options if Penix isn't ready to serve as Tagovailoa's understudy in the season opener.
 - **Mike Evans** — Mike Evans - Involved in practice Monday (2026-09-07T13:22:12Z)
   - Wagoner notes that linebacker Nick Bosa (knee) and running back Christian McCaffrey (undisclosed) were the only 49ers players who didn't appear to be mixing into team drills during the open portion of practice, so Evans appears likely to have been at least a limited participant in Monday's session. The 49ers will release their first injury report of the season later Monday, when the extent of Evans' practice participation will be revealed. Evans had his practice activity managed for much of training camp while he contended with a minor quadriceps strain and more recently, an adductor injury.
@@ -16,9 +16,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tua Tagovailoa** — Tua Tagovailoa named Falcons starter (2026-09-07T12:15:40.302000Z)
   - After a camp that was full of negative reports, Tua has managed to win the starting job. Frankly, it's likely by default, as Michael Penix just got back to practice after suffering a torn ACL last season. It will be interesting to see how long Tua can keep the job.
   - Source: https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php
-- **NEW — Wan'Dale Robinson** — Wan'Dale Robinson Worth Adding Ahead of Week 1 (2026-09-07T09:41:09Z)
+- **NEW — Kaelon Black** — Kaelon Black a Priority Waiver-Wire Add With CMC Banged Up (2026-09-07T09:50:25Z)
+  - Source: https://www.rotoballer.com/player-news/kaelon-black-a-priority-waiver-wire-add-with-mccaffrey-not-practicing/1925037
+- **Wan'Dale Robinson** — Wan'Dale Robinson Worth Adding Ahead of Week 1 (2026-09-07T09:41:09Z)
   - Source: https://www.rotoballer.com/player-news/wandale-robinson-worth-adding-ahead-of-week-1/1925020
-- **NEW — Tyler Allgeier** — Tyler Allgeier Could Be Workhorse in Week 1 (2026-09-07T09:33:27Z)
+- **Tyler Allgeier** — Tyler Allgeier Could Be Workhorse in Week 1 (2026-09-07T09:33:27Z)
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-to-be-workhorse-if-jeremiyah-love-is-ruled-out/1925014
 - **Mike Washington** — Mike Washington Jr. Has Impressed Ahead of Week 1 (2026-09-07T09:25:13Z)
   - Source: https://www.rotoballer.com/player-news/mike-washington-jr-has-impressed-ahead-of-week-1/1925004
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/puka-nacua-making-good-progress/1923933
 - **Tyrone Tracy** — Tyrone Tracy Jr. Trending Towards Being Inactive in Week 1? (2026-09-05T12:00:05Z)
   - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-trending-towards-being-inactive-in-week-1/1923926
-- **Chris Bell** — Chris Bell a Dark-Horse Candidate to Lead Dolphins in Receiving Yards (2026-09-05T11:49:05Z)
-  - Source: https://www.rotoballer.com/player-news/chris-bell-a-dark-horse-candidate-to-lead-dolphins-in-receiving-yards/1923914

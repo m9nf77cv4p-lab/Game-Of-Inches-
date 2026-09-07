@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T13:50:55Z",
+  "last_checked_at": "2026-09-07T14:01:32Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11559|rotowire|636330|1788788181000",
-    "nfl|8126|rotoballer|220252|1788774069000",
-    "nfl|8132|rotoballer|220251|1788773607000"
+    "nfl|13414|rotoballer|220253|1788774625000"
   ],
   "schema_version": 1,
   "source": {
@@ -95,6 +93,26 @@
       "story_id": "nfl|6768|fantasy_pros|606317|1788783340302",
       "title": "Tua Tagovailoa named Falcons starter",
       "url": "https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers rookie running back Kaelon Black is a priority addition off the waiver wire, as Christian McCaffrey (undisclosed) did not participate in the team's first practice in Australia ahead of the Week 1 contest on Thursday against the division-rival Los Angeles Rams. Black emerged as the clear backup to McCaffrey late in training camp, despite an adductor injury early in the summer. In his only preseason action, Black had four carries for 28 yards and played every snap with the offense, with Jordan James coming in afterward. With McCaffrey not participating in team drills on Monday, Black could be in line for a heavy workload if McCaffrey is unable to play on Thursday against the Los Angeles Rams. While he will still face one of the NFL's best run defenses, Black is a priority waiver-wire addition because any injury to McCaffrey would make him the starter.",
+      "metadata": {
+        "description": "San Francisco 49ers rookie running back Kaelon Black is a priority addition off the waiver wire, as Christian McCaffrey (undisclosed) did not participate in the team's first practice in Australia ahead of the Week 1 contest on Thursday against the division-rival Los Angeles Rams. Black emerged as the clear backup to McCaffrey late in training camp, despite an adductor injury early in the summer. In his only preseason action, Black had four carries for 28 yards and played every snap with the offense, with Jordan James coming in afterward. With McCaffrey not participating in team drills on Monday, Black could be in line for a heavy workload if McCaffrey is unable to play on Thursday against the Los Angeles Rams. While he will still face one of the NFL's best run defenses, Black is a priority waiver-wire addition because any injury to McCaffrey would make him the starter.",
+        "title": "Kaelon Black a Priority Waiver-Wire Add With CMC Banged Up",
+        "topic_id": "1402687790809890816",
+        "url": "https://www.rotoballer.com/player-news/kaelon-black-a-priority-waiver-wire-add-with-mccaffrey-not-practicing/1925037"
+      },
+      "nfl_team": "SF",
+      "player_id": "13414",
+      "player_name": "Kaelon Black",
+      "position": "RB",
+      "published": 1788774625000,
+      "source": "rotoballer",
+      "source_key": "220253",
+      "story_id": "nfl|13414|rotoballer|220253|1788774625000",
+      "title": "Kaelon Black a Priority Waiver-Wire Add With CMC Banged Up",
+      "url": "https://www.rotoballer.com/player-news/kaelon-black-a-priority-waiver-wire-add-with-mccaffrey-not-practicing/1925037"
     },
     {
       "analysis": null,
