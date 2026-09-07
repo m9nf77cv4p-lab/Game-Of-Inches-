@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-07T14:35:15Z",
+  "last_checked_at": "2026-09-07T14:49:38Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11646|rotoballer|220256|1788776526000",
-    "nfl|9508|rotoballer|220255|1788776345000"
+    "nfl|7002|rotoballer|220257|1788777652000",
+    "nfl|9225|rotoballer|220258|1788777486000"
   ],
   "schema_version": 1,
   "source": {
@@ -94,6 +94,46 @@
       "story_id": "nfl|6768|fantasy_pros|606317|1788783340302",
       "title": "Tua Tagovailoa named Falcons starter",
       "url": "https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints tight end Juwan Johnson is coming off an impressive TE8 finish in PPR leagues, and he has the potential to finish among the top 12 once again this year as the Saints' offense continues to trend upward. He was healthy for all 17 games last year, catching 77 of 102 targets for 889 yards and three touchdowns. The targets, catches, and yards all represent career-highs, and it was impressive to see him finish so high in fantasy scoring despite finding the end zone just three times. If he can replicate his volume stats and increase his touchdown total in 2026, he'll finish even higher. Fantasy managers should also feel encouraged that Johnson performed better with Tyler Shough as his quarterback (11.5 PPR points per game) than with Spencer Rattler (9.5 PPR points per game). Shough is the starter for New Orleans, which bodes well for Johnson. Finally, there's a clear path to targets for Johnson in New Orleans. Not only does he face minimal competition at the tight end position, but he could also handle an increased target share with Jordyn Tyson (hamstring) opening the year on injured reserve. With Tyson sidelined, Johnson projects to be Shough's second-favorite target behind Chris Olave. The 29-year-old tight end should be targeted on the waiver wire in all leagues.",
+      "metadata": {
+        "description": "New Orleans Saints tight end Juwan Johnson is coming off an impressive TE8 finish in PPR leagues, and he has the potential to finish among the top 12 once again this year as the Saints' offense continues to trend upward. He was healthy for all 17 games last year, catching 77 of 102 targets for 889 yards and three touchdowns. The targets, catches, and yards all represent career-highs, and it was impressive to see him finish so high in fantasy scoring despite finding the end zone just three times. If he can replicate his volume stats and increase his touchdown total in 2026, he'll finish even higher. Fantasy managers should also feel encouraged that Johnson performed better with Tyler Shough as his quarterback (11.5 PPR points per game) than with Spencer Rattler (9.5 PPR points per game). Shough is the starter for New Orleans, which bodes well for Johnson. Finally, there's a clear path to targets for Johnson in New Orleans. Not only does he face minimal competition at the tight end position, but he could also handle an increased target share with Jordyn Tyson (hamstring) opening the year on injured reserve. With Tyson sidelined, Johnson projects to be Shough's second-favorite target behind Chris Olave. The 29-year-old tight end should be targeted on the waiver wire in all leagues.",
+        "title": "Juwan Johnson Has Top-12 Upside in New Orleans This Year",
+        "topic_id": "1402700375168937984",
+        "url": "https://www.rotoballer.com/player-news/juwan-johnson-has-top-12-upside-in-new-orleans-this-year/1925080"
+      },
+      "nfl_team": "NO",
+      "player_id": "7002",
+      "player_name": "Juwan Johnson",
+      "position": "TE",
+      "published": 1788777652000,
+      "source": "rotoballer",
+      "source_key": "220257",
+      "story_id": "nfl|7002|rotoballer|220257|1788777652000",
+      "title": "Juwan Johnson Has Top-12 Upside in New Orleans This Year",
+      "url": "https://www.rotoballer.com/player-news/juwan-johnson-has-top-12-upside-in-new-orleans-this-year/1925080"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles running back Tank Bigsby is a handcuff to target on the waiver wire as the 2026 regular season gets underway. Managers in 10+ team leagues who already have Saquon Barkley on their roster should make it a priority to add Bigsby off the waiver wire. Losing Barkley, a fantasy RB1, to an injury would be brutal, but being able to plug-and-play Bigsby as a solid RB2 would take away a lot of the sting of losing Barkley. Managers in 12+ team leagues who don't even have Barkley on their roster should consider adding Bigsby, too. There's not a ton of standalone value here week after week, but he does get into the mix when the Eagles are leading by a lot. Plus, he'd jump to the RB2 tier if Barkley missed any time. With all that being said, he's a bench stash as long as Barkley is healthy, which means he's not worth starting in Week 1 against the Washington Commanders.",
+      "metadata": {
+        "description": "Philadelphia Eagles running back Tank Bigsby is a handcuff to target on the waiver wire as the 2026 regular season gets underway. Managers in 10+ team leagues who already have Saquon Barkley on their roster should make it a priority to add Bigsby off the waiver wire. Losing Barkley, a fantasy RB1, to an injury would be brutal, but being able to plug-and-play Bigsby as a solid RB2 would take away a lot of the sting of losing Barkley. Managers in 12+ team leagues who don't even have Barkley on their roster should consider adding Bigsby, too. There's not a ton of standalone value here week after week, but he does get into the mix when the Eagles are leading by a lot. Plus, he'd jump to the RB2 tier if Barkley missed any time. With all that being said, he's a bench stash as long as Barkley is healthy, which means he's not worth starting in Week 1 against the Washington Commanders.",
+        "title": "Tank Bigsby a Priority Handcuff to Target on Waiver Wire",
+        "topic_id": "1402700375168937985",
+        "url": "https://www.rotoballer.com/player-news/tank-bigsby-a-priority-handcuff-to-target-on-waiver-wire/1925076"
+      },
+      "nfl_team": "PHI",
+      "player_id": "9225",
+      "player_name": "Tank Bigsby",
+      "position": "RB",
+      "published": 1788777486000,
+      "source": "rotoballer",
+      "source_key": "220258",
+      "story_id": "nfl|9225|rotoballer|220258|1788777486000",
+      "title": "Tank Bigsby a Priority Handcuff to Target on Waiver Wire",
+      "url": "https://www.rotoballer.com/player-news/tank-bigsby-a-priority-handcuff-to-target-on-waiver-wire/1925076"
     },
     {
       "analysis": null,

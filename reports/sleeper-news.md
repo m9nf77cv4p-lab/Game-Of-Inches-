@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2056**
+- Stored stories: **2058**
 - Newly captured: **2**
 
 ## Latest news
@@ -16,9 +16,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tua Tagovailoa** — Tua Tagovailoa named Falcons starter (2026-09-07T12:15:40.302000Z)
   - After a camp that was full of negative reports, Tua has managed to win the starting job. Frankly, it's likely by default, as Michael Penix just got back to practice after suffering a torn ACL last season. It will be interesting to see how long Tua can keep the job.
   - Source: https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php
-- **NEW — Jalen Coker** — Jalen Coker Set for High Receiving Volume in 2026 (2026-09-07T10:22:06Z)
+- **NEW — Juwan Johnson** — Juwan Johnson Has Top-12 Upside in New Orleans This Year (2026-09-07T10:40:52Z)
+  - Source: https://www.rotoballer.com/player-news/juwan-johnson-has-top-12-upside-in-new-orleans-this-year/1925080
+- **NEW — Tank Bigsby** — Tank Bigsby a Priority Handcuff to Target on Waiver Wire (2026-09-07T10:38:06Z)
+  - Source: https://www.rotoballer.com/player-news/tank-bigsby-a-priority-handcuff-to-target-on-waiver-wire/1925076
+- **Jalen Coker** — Jalen Coker Set for High Receiving Volume in 2026 (2026-09-07T10:22:06Z)
   - Source: https://www.rotoballer.com/player-news/jalen-coker-set-for-high-receiving-volume-in-2026/1925060
-- **NEW — Tyjae Spears** — Tyjae Spears a Waiver Wire Target in PPR Leagues (2026-09-07T10:19:05Z)
+- **Tyjae Spears** — Tyjae Spears a Waiver Wire Target in PPR Leagues (2026-09-07T10:19:05Z)
   - Source: https://www.rotoballer.com/player-news/tyjae-spears-a-waiver-wire-target-in-ppr-leagues/1925056
 - **Xavier Worthy** — Xavier Worthy Could Become Top Waiver Wire Target After Injury-Plagued 2025 (2026-09-07T10:00:11Z)
   - Source: https://www.rotoballer.com/player-news/xavier-worthy-could-become-top-waiver-wire-target-after-injury-plagued-2025/1925044
@@ -209,7 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/brenton-strange-may-have-a-hard-time-taking-the-next-step/1924023
 - **Andrei Iosivas** — Andrei Iosivas Has Less Room for Error This Year (2026-09-05T13:40:05Z)
   - Source: https://www.rotoballer.com/player-news/andrei-iosivas-has-less-room-for-error-this-year/1923999
-- **Deshaun Watson** — Deshaun Watson's Starting Job Doesn't Erase Preseason Concerns (2026-09-05T13:29:05Z)
-  - Source: https://www.rotoballer.com/player-news/deshaun-watsons-starting-job-doesnt-erase-preseason-concerns/1923988
-- **Elijah Arroyo** — Elijah Arroyo Pushing for a Bigger Role After Strong Summer (2026-09-05T13:07:06Z)
-  - Source: https://www.rotoballer.com/player-news/elijah-arroyo-pushing-for-a-bigger-role-after-strong-summer/1923954
