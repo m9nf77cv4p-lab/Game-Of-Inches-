@@ -1,13 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T16:16:12Z",
+  "last_checked_at": "2026-09-07T16:32:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11583|rotoballer|220266|1788782410000",
-    "nfl|12529|fantasy_pros|606350|1788797141763",
-    "nfl|12529|rotoballer|220267|1788782889000",
-    "nfl|12529|rotowire|636334|1788796813000",
-    "nfl|8676|rotoballer|220265|1788782015000"
+    "nfl|12514|rotowire|636335|1788798352000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Egbuka was limited to work on the side last week, and although it's not yet clear how much he will do Monday, it appears he has taken a step forward in his recovery from a toe issue. There has been hope that Egbuka will be available for Week 1, and there remains reason to believe he will be available for Tampa Bay's opener.",
+      "description": "Egbuka (toe) is \"participating in warmups and running routes\" at Monday's practice, according to Pewter Report.",
+      "metadata": {
+        "analysis": "Egbuka was limited to work on the side last week, and although it's not yet clear how much he will do Monday, it appears he has taken a step forward in his recovery from a toe issue. There has been hope that Egbuka will be available for Week 1, and there remains reason to believe he will be available for Tampa Bay's opener.",
+        "description": "Egbuka (toe) is \"participating in warmups and running routes\" at Monday's practice, according to Pewter Report.",
+        "title": "Emeka Egbuka - Getting work Monday",
+        "topic_id": "1402726804023672832"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1788798352000,
+      "source": "rotowire",
+      "source_key": "636335",
+      "story_id": "nfl|12514|rotowire|636335|1788798352000",
+      "title": "Emeka Egbuka - Getting work Monday",
+      "url": null
+    },
     {
       "analysis": "Henderson continues to trend towards likely being sidelined for Wednesday's season opener. Rhamondre Stevenson should open the season in a workhorse role. ",
       "description": "TreVeyon Henderson was not seen practicing on Monday. ",

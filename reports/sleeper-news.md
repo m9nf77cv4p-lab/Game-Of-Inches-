@@ -2,15 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2067**
-- Newly captured: **5**
+- Stored stories: **2068**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson (ankle) not seen practicing Monday  (2026-09-07T16:05:41.763000Z)
+- **NEW — Emeka Egbuka** — Emeka Egbuka - Getting work Monday (2026-09-07T16:25:52Z)
+  - Egbuka was limited to work on the side last week, and although it's not yet clear how much he will do Monday, it appears he has taken a step forward in his recovery from a toe issue. There has been hope that Egbuka will be available for Week 1, and there remains reason to believe he will be available for Tampa Bay's opener.
+- **TreVeyon Henderson** — TreVeyon Henderson (ankle) not seen practicing Monday  (2026-09-07T16:05:41.763000Z)
   - Henderson continues to trend towards likely being sidelined for Wednesday's season opener. Rhamondre Stevenson should open the season in a workhorse role. 
   - Source: https://www.fantasypros.com/nfl/news/606350/treveyon-henderson-ankle-not-seen-practicing-monday.php
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Not spotted at Monday's practice (2026-09-07T16:00:13Z)
+- **TreVeyon Henderson** — TreVeyon Henderson - Not spotted at Monday's practice (2026-09-07T16:00:13Z)
   - Henderson was listed as a non-participant on Sunday's injury report, and it appears likely he will receive the same designation a day later. Henderson has not been ruled out for Wednesday's season opener just yet, but his chances of suiting up are seemingly growing slimmer.
 - **George Kittle** — George Kittle (Achilles) seen practicing Monday  (2026-09-07T15:45:41.629000Z)
   - Kittle was on the field on Monday in Australia. It keeps him on track to be good to go for Thursday's seaaon opener, though it remains unclear if he will be facing any sort of snap count. 
@@ -34,11 +36,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tua Tagovailoa** — Tua Tagovailoa named Falcons starter (2026-09-07T12:15:40.302000Z)
   - After a camp that was full of negative reports, Tua has managed to win the starting job. Frankly, it's likely by default, as Michael Penix just got back to practice after suffering a torn ACL last season. It will be interesting to see how long Tua can keep the job.
   - Source: https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson Still Absent Two Days Before Week 1 (2026-09-07T12:08:09Z)
+- **TreVeyon Henderson** — TreVeyon Henderson Still Absent Two Days Before Week 1 (2026-09-07T12:08:09Z)
   - Source: https://www.rotoballer.com/player-news/treveyon-henderson-still-absent-two-days-before-week-1/1925164
-- **NEW — Jonathon Brooks** — Jonathon Brooks Remains Limited to Side Work (2026-09-07T12:00:10Z)
+- **Jonathon Brooks** — Jonathon Brooks Remains Limited to Side Work (2026-09-07T12:00:10Z)
   - Source: https://www.rotoballer.com/player-news/jonathon-brooks-remains-limited-to-side-work/1925160
-- **NEW — Rashid Shaheed** — Rashid Shaheed Shouldn't Be Sitting on Waiver Wires (2026-09-07T11:53:35Z)
+- **Rashid Shaheed** — Rashid Shaheed Shouldn't Be Sitting on Waiver Wires (2026-09-07T11:53:35Z)
   - Source: https://www.rotoballer.com/player-news/rashid-shaheed-shouldnt-be-sitting-on-waiver-wires/1925155
 - **Romeo Doubs** — Romeo Doubs a Priority Add Before Week 1 (2026-09-07T11:47:14Z)
   - Source: https://www.rotoballer.com/player-news/romeo-doubs-a-priority-add-before-week-1/1925152
@@ -215,5 +217,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/keon-colemans-stock-falling-after-injury-during-camp/1924224
 - **Jack Bech** — Jack Bech Set for a Starting Role in Second Season (2026-09-05T18:14:05Z)
   - Source: https://www.rotoballer.com/player-news/jack-bech-set-for-a-starting-role-in-second-season/1924222
-- **Dylan Sampson** — Dylan Sampson a Handcuff with Pass-Catching Upside (2026-09-05T18:10:06Z)
-  - Source: https://www.rotoballer.com/player-news/dylan-sampson-a-handcuff-with-pass-catching-upside/1924220
