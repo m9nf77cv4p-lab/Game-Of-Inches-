@@ -3,7 +3,7 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **2058**
-- Newly captured: **2**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -16,9 +16,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tua Tagovailoa** — Tua Tagovailoa named Falcons starter (2026-09-07T12:15:40.302000Z)
   - After a camp that was full of negative reports, Tua has managed to win the starting job. Frankly, it's likely by default, as Michael Penix just got back to practice after suffering a torn ACL last season. It will be interesting to see how long Tua can keep the job.
   - Source: https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php
-- **NEW — Juwan Johnson** — Juwan Johnson Has Top-12 Upside in New Orleans This Year (2026-09-07T10:40:52Z)
+- **NEW — Keaton Mitchell** — Keaton Mitchell Worth a Waiver Claim with High Upside? (2026-09-07T10:46:40Z)
+  - Source: https://www.rotoballer.com/player-news/keaton-mitchell-worth-a-waiver-claim-with-high-upside/1925092
+- **Juwan Johnson** — Juwan Johnson Has Top-12 Upside in New Orleans This Year (2026-09-07T10:40:52Z)
   - Source: https://www.rotoballer.com/player-news/juwan-johnson-has-top-12-upside-in-new-orleans-this-year/1925080
-- **NEW — Tank Bigsby** — Tank Bigsby a Priority Handcuff to Target on Waiver Wire (2026-09-07T10:38:06Z)
+- **Tank Bigsby** — Tank Bigsby a Priority Handcuff to Target on Waiver Wire (2026-09-07T10:38:06Z)
   - Source: https://www.rotoballer.com/player-news/tank-bigsby-a-priority-handcuff-to-target-on-waiver-wire/1925076
 - **Jalen Coker** — Jalen Coker Set for High Receiving Volume in 2026 (2026-09-07T10:22:06Z)
   - Source: https://www.rotoballer.com/player-news/jalen-coker-set-for-high-receiving-volume-in-2026/1925060
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/treveyon-henderson-in-street-clothes-for-saturdays-practice/1924029
 - **Brenton Strange** — Brenton Strange May Have a Hard Time Taking the Next Step (2026-09-05T14:05:05Z)
   - Source: https://www.rotoballer.com/player-news/brenton-strange-may-have-a-hard-time-taking-the-next-step/1924023
-- **Andrei Iosivas** — Andrei Iosivas Has Less Room for Error This Year (2026-09-05T13:40:05Z)
-  - Source: https://www.rotoballer.com/player-news/andrei-iosivas-has-less-room-for-error-this-year/1923999
