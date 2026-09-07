@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T22:53:57Z",
+  "last_checked_at": "2026-09-07T23:43:54Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9753|rotoballer|220304|1788806465000"
+    "nfl|12495|rotowire|636359|1788823570000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Falcons on Sunday, but the team could hold him out. Gordon is set to be the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the team will have no reason to throw him back into the fire when he could rest a week and return to full health.",
+      "description": "Gordon (ribs) was able to practice with contact in Monday's practice, David Furones of the South Florida Sun Sentinel reports.",
+      "metadata": {
+        "analysis": "Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Falcons on Sunday, but the team could hold him out. Gordon is set to be the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the team will have no reason to throw him back into the fire when he could rest a week and return to full health.",
+        "description": "Gordon (ribs) was able to practice with contact in Monday's practice, David Furones of the South Florida Sun Sentinel reports.",
+        "title": "Ollie Gordon - Ditches non-contact jersey",
+        "topic_id": "1402833771308298240"
+      },
+      "nfl_team": "MIA",
+      "player_id": "12495",
+      "player_name": "Ollie Gordon",
+      "position": "RB",
+      "published": 1788823570000,
+      "source": "rotowire",
+      "source_key": "636359",
+      "story_id": "nfl|12495|rotowire|636359|1788823570000",
+      "title": "Ollie Gordon - Ditches non-contact jersey",
+      "url": null
+    },
     {
       "analysis": "Horton logged his second straight limited practice. It would still be a surprise if he plays on Wednesday, but it is a good sign nonetheless. ",
       "description": "Tory Horton remained limited in practice on Monday. ",

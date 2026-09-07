@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2129**
+- Stored stories: **2130**
 - Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Ollie Gordon** — Ollie Gordon - Ditches non-contact jersey (2026-09-07T23:26:10Z)
+  - Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Falcons on Sunday, but the team could hold him out. Gordon is set to be the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the team will have no reason to throw him back into the fire when he could rest a week and return to full health.
 - **Tory Horton** — Tory Horton (hamstring) limited in practice Monday  (2026-09-07T21:25:43.834000Z)
   - Horton logged his second straight limited practice. It would still be a surprise if he plays on Wednesday, but it is a good sign nonetheless. 
   - Source: https://www.fantasypros.com/nfl/news/606432/tory-horton-hamstring-limited-practice-monday.php
@@ -64,7 +66,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - It marked Monangai's first practice action since he hyperextended his knee Aug. 16. It's unclear if Monangai will be able to play in Sunday's regular-season opener against the Panthers, but he's obviously nearing 100 percent. D'Andre Swift (abdomen) was also back at practice Monday after dealing with cramps last week.
 - **D'Andre Swift** — D'Andre Swift - Back at practice Monday (2026-09-07T18:43:25Z)
   - Swift left practice last Thursday with abdominal cramps, but his ability to mix into drills after a weekend off generally is a good sign ahead of Sunday's season opener against the Panthers. In addition to Swift, Kyle Monangai (knee) returned to practice Monday for the first time since hyperextending his knee Aug. 16. Swift is a locked-in fantasy RB2 to open the 2026 campaign, while Monangai makes for an ideal bench stash in Chicago's elite offense. Roschon Johnson will bring up the rear of the depth chart as the Bears' RB3.
-- **NEW — Zach Charbonnet** — Zach Charbonnet On Track With his "Aggressive" Return Timetable (2026-09-07T18:41:05Z)
+- **Zach Charbonnet** — Zach Charbonnet On Track With his "Aggressive" Return Timetable (2026-09-07T18:41:05Z)
   - Source: https://www.rotoballer.com/player-news/zach-charbonnet-on-track-with-his-aggressive-return-timetable/1925446
 - **Jonah Coleman** — Jonah Coleman an Intriguing Rookie Waiver Stash in Denver's Backfield (2026-09-07T18:30:05Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-an-intriguing-rookie-waiver-stash-in-denvers-backfield/1925443
@@ -229,5 +231,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tory-horton-limited-in-practice-ahead-of-week-1/1924899
 - **Trey McBride** — Trey McBride Remains the Focal Point of Cardinals Offense (2026-09-07T00:50:00Z)
   - Source: https://www.rotoballer.com/player-news/trey-mcbride-remains-the-focal-point-of-cardinals-offense/1924897
-- **Tory Horton** — Tory Horton - Dealing with hamstring injury (2026-09-06T23:50:12Z)
-  - Coach Mike Macdonald relayed Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.
