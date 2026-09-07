@@ -3,29 +3,29 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **2126**
-- Newly captured: **5**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Tory Horton** — Tory Horton (hamstring) limited in practice Monday  (2026-09-07T21:25:43.834000Z)
+- **Tory Horton** — Tory Horton (hamstring) limited in practice Monday  (2026-09-07T21:25:43.834000Z)
   - Horton logged his second straight limited practice. It would still be a surprise if he plays on Wednesday, but it is a good sign nonetheless. 
   - Source: https://www.fantasypros.com/nfl/news/606432/tory-horton-hamstring-limited-practice-monday.php
-- **NEW — Zach Charbonnet** — Zach Charbonnet (knee) has 'aggressive' return timeline (2026-09-07T21:15:44.064000Z)
+- **Zach Charbonnet** — Zach Charbonnet (knee) has 'aggressive' return timeline (2026-09-07T21:15:44.064000Z)
   - Charbonnet is opening the season on the physically unable to perform (PUP) list. He will miss at least four games, but he could be off the PUP list sooner than expected. Macdonald did not disclose specifics on Charbonnet's timeline. The fourth-year running back has scored 20 rushing touchdowns in the last two seasons and tore his ACL in January.
   - Source: https://www.fantasypros.com/nfl/news/606418/zach-charbonnet-knee-aggressive-return-timeline.php
-- **NEW — Jeremiyah Love** — Jeremiyah Love: status improving for Week 1 (2026-09-07T21:15:44.050000Z)
+- **Jeremiyah Love** — Jeremiyah Love: status improving for Week 1 (2026-09-07T21:15:44.050000Z)
   - Love has been struggling with a high ankle sprain injury for a few weeks now, but this is a promising sign for his return. The first round rookie should be in line for a nice workload, and he flashed serious ability in his limited preseason action.
   - Source: https://www.fantasypros.com/nfl/news/606424/jeremiyah-love-status-improving-week-1.php
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson (ankle) officially misses practice Monday  (2026-09-07T21:15:44.034000Z)
+- **TreVeyon Henderson** — TreVeyon Henderson (ankle) officially misses practice Monday  (2026-09-07T21:15:44.034000Z)
   - Henderson continues to trend towards missing Wednesday's season opener. 
   - Source: https://www.fantasypros.com/nfl/news/606425/treveyon-henderson-ankle-officially-misses-practice-monday.php
-- **NEW — AJ Barner** — AJ Barner (oblique) logs full practice Monday  (2026-09-07T21:15:44.009000Z)
+- **AJ Barner** — AJ Barner (oblique) logs full practice Monday  (2026-09-07T21:15:44.009000Z)
   - Barner remains on track to be a full-go for Wednesday's season opener against the Patriots. 
   - Source: https://www.fantasypros.com/nfl/news/606428/aj-barner-oblique-logs-full-practice-monday.php
 - **Zach Charbonnet** — Zach Charbonnet - Progressing in rehab (2026-09-07T20:53:06Z)
   - Macdonald added that Charbonnet looks "dang good." The running back is on reserve/PUP to begin the season and will miss at least the first four games, but it sounds like he could return sometime next month. Seattle's backfield picture remains murky with rookie Jadarian Price, George Holani and Emanuel Wilson all options to see snaps. Adding Charbonnet's name to the mix will only muddy the picture. Price looks like the best bet for fantasy production, but the coaching staff has an affinity for Charbonnet, especially near the goal line.
 - **Jeremiyah Love** — Jeremiyah Love - Optimism for Week 1 (2026-09-07T20:34:27Z)
-  - Love was moving around at practice Monday, but LaFleur would only go as far as to say the rooking running back is "progressing" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.
+  - Love was moving around at practice Monday, but LaFleur would only go as far as to say the rookie running back is "progressing" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.
 - **TreVeyon Henderson** — TreVeyon Henderson - Remains out of practice Monday (2026-09-07T20:25:56Z)
   - Henderson has been DNP all week leading up to Wednesday's season opener in Seattle, and it's looking extremely unlikely that he's going to play Week 1. The Patriots have one more practice report to issue Tuesday, and it's at least notable that Henderson traveled with the team to Seattle, according to Mike Reiss of ESPN.com. If the second-year running back is unable to play, Rhamondre Stevenson would be looking at a potential workhorse role, as Corey Kiner is the only other running back on the active roster. Lan Larison is on the practice squad as a likely elevation.
 - **Keaton Mitchell** — Keaton Mitchell returns to practice Monday  (2026-09-07T20:15:43.840000Z)

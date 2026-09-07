@@ -1,14 +1,8 @@
 {
-  "last_checked_at": "2026-09-07T21:26:15Z",
+  "last_checked_at": "2026-09-07T21:52:11Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|11603|fantasy_pros|606428|1788815744009",
-    "nfl|12497|fantasy_pros|606432|1788816343834",
-    "nfl|12529|fantasy_pros|606425|1788815744034",
-    "nfl|13287|fantasy_pros|606424|1788815744050",
-    "nfl|9753|fantasy_pros|606418|1788815744064"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -143,11 +137,11 @@
       "url": null
     },
     {
-      "analysis": "Love was moving around at practice Monday, but LaFleur would only go as far as to say the rooking running back is \"progressing\" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.",
-      "description": "Coach Mike LaFleur said he's \"optimistic\" Love (ankle) will be able to play Sunday against the Chargers, Darren Urban of the team's official site reports.",
+      "analysis": "Love was moving around at practice Monday, but LaFleur would only go as far as to say the rookie running back is \"progressing\" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.",
+      "description": "Coach Mike LaFleur said he's \"optimistic\" Love (ankle) will be able to play Sunday against the Chargers, Darren Urban of the Cardinals' official site reports.",
       "metadata": {
-        "analysis": "Love was moving around at practice Monday, but LaFleur would only go as far as to say the rooking running back is \"progressing\" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.",
-        "description": "Coach Mike LaFleur said he's \"optimistic\" Love (ankle) will be able to play Sunday against the Chargers, Darren Urban of the team's official site reports.",
+        "analysis": "Love was moving around at practice Monday, but LaFleur would only go as far as to say the rookie running back is \"progressing\" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.",
+        "description": "Coach Mike LaFleur said he's \"optimistic\" Love (ankle) will be able to play Sunday against the Chargers, Darren Urban of the Cardinals' official site reports.",
         "title": "Jeremiyah Love - Optimism for Week 1",
         "topic_id": "1402788467695452160"
       },
