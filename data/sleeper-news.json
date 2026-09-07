@@ -1,9 +1,13 @@
 {
-  "last_checked_at": "2026-09-07T15:58:02Z",
+  "last_checked_at": "2026-09-07T16:16:12Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|8121|rotoballer|220264|1788781634000"
+    "nfl|11583|rotoballer|220266|1788782410000",
+    "nfl|12529|fantasy_pros|606350|1788797141763",
+    "nfl|12529|rotoballer|220267|1788782889000",
+    "nfl|12529|rotowire|636334|1788796813000",
+    "nfl|8676|rotoballer|220265|1788782015000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +17,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Henderson continues to trend towards likely being sidelined for Wednesday's season opener. Rhamondre Stevenson should open the season in a workhorse role. ",
+      "description": "TreVeyon Henderson was not seen practicing on Monday. ",
+      "metadata": {
+        "analysis": "Henderson continues to trend towards likely being sidelined for Wednesday's season opener. Rhamondre Stevenson should open the season in a workhorse role. ",
+        "description": "TreVeyon Henderson was not seen practicing on Monday. ",
+        "title": "TreVeyon Henderson (ankle) not seen practicing Monday ",
+        "topic_id": "1402720516652978176",
+        "url": "https://www.fantasypros.com/nfl/news/606350/treveyon-henderson-ankle-not-seen-practicing-monday.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788797141763,
+      "source": "fantasy_pros",
+      "source_key": "606350",
+      "story_id": "nfl|12529|fantasy_pros|606350|1788797141763",
+      "title": "TreVeyon Henderson (ankle) not seen practicing Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/606350/treveyon-henderson-ankle-not-seen-practicing-monday.php"
+    },
+    {
+      "analysis": "Henderson was listed as a non-participant on Sunday's injury report, and it appears likely he will receive the same designation a day later. Henderson has not been ruled out for Wednesday's season opener just yet, but his chances of suiting up are seemingly growing slimmer.",
+      "description": "Henderson (ankle) was not spotted at the portion of Monday's practice open to the media, according to Mark Daniels of MassLive.com.",
+      "metadata": {
+        "analysis": "Henderson was listed as a non-participant on Sunday's injury report, and it appears likely he will receive the same designation a day later. Henderson has not been ruled out for Wednesday's season opener just yet, but his chances of suiting up are seemingly growing slimmer.",
+        "description": "Henderson (ankle) was not spotted at the portion of Monday's practice open to the media, according to Mark Daniels of MassLive.com.",
+        "title": "TreVeyon Henderson - Not spotted at Monday's practice",
+        "topic_id": "1402720511804379136"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788796813000,
+      "source": "rotowire",
+      "source_key": "636334",
+      "story_id": "nfl|12529|rotowire|636334|1788796813000",
+      "title": "TreVeyon Henderson - Not spotted at Monday's practice",
+      "url": null
+    },
     {
       "analysis": "Kittle was on the field on Monday in Australia. It keeps him on track to be good to go for Thursday's seaaon opener, though it remains unclear if he will be facing any sort of snap count. ",
       "description": "George Kittle was seen practicing on Monday. ",
@@ -35,12 +80,12 @@
       "url": "https://www.fantasypros.com/nfl/news/606340/george-kittle-achilles-seen-practicing-monday.php"
     },
     {
-      "analysis": "Kaye notes that Brooks was spotted doing some running, so he wasn't completed limited to rehab work. According to Joe Person of The Athletic, Panthers head coach Dave Canales expressed optimism last week that Brooks would be ready to play in Sunday's season opener versus the Bears, and the running back's lack of involvement in Monday's practice isn't believed to have changed the Panthers' stance. Brooks missed the entire 2025 campaign after tearing the ACL in his right knee for the second time in his career in December 2024, but he was fully cleared in the spring and saw action in two preseason games.",
+      "analysis": "Kaye notes that Brooks was spotted doing some running, so he wasn't completely limited to rehab work. According to Joe Person of The Athletic, Panthers head coach Dave Canales expressed optimism last week that Brooks would be ready to play in Sunday's season opener versus the Bears, and the running back's lack of involvement in Monday's practice isn't believed to have changed the Panthers' stance. Brooks missed the entire 2025 campaign after tearing the ACL in his right knee for the second time in his career in December 2024, but he was fully cleared in the spring and saw action in two preseason games.",
       "description": "Brooks (general soreness) was spotted working out of to the side during Monday's practice, Mike Kaye of ESPN.com reports.",
       "metadata": {
-        "analysis": "Kaye notes that Brooks was spotted doing some running, so he wasn't completed limited to rehab work. According to Joe Person of The Athletic, Panthers head coach Dave Canales expressed optimism last week that Brooks would be ready to play in Sunday's season opener versus the Bears, and the running back's lack of involvement in Monday's practice isn't believed to have changed the Panthers' stance. Brooks missed the entire 2025 campaign after tearing the ACL in his right knee for the second time in his career in December 2024, but he was fully cleared in the spring and saw action in two preseason games.",
+        "analysis": "Kaye notes that Brooks was spotted doing some running, so he wasn't completely limited to rehab work. According to Joe Person of The Athletic, Panthers head coach Dave Canales expressed optimism last week that Brooks would be ready to play in Sunday's season opener versus the Bears, and the running back's lack of involvement in Monday's practice isn't believed to have changed the Panthers' stance. Brooks missed the entire 2025 campaign after tearing the ACL in his right knee for the second time in his career in December 2024, but he was fully cleared in the spring and saw action in two preseason games.",
         "description": "Brooks (general soreness) was spotted working out of to the side during Monday's practice, Mike Kaye of ESPN.com reports.",
-        "title": "Jonathon Brooks - Works out off to side Monday",
+        "title": "Jonathon Brooks - Works off to side Monday",
         "topic_id": "1402714219933118464"
       },
       "nfl_team": "CAR",
@@ -51,7 +96,7 @@
       "source": "rotowire",
       "source_key": "636333",
       "story_id": "nfl|11583|rotowire|636333|1788795345000",
-      "title": "Jonathon Brooks - Works out off to side Monday",
+      "title": "Jonathon Brooks - Works off to side Monday",
       "url": null
     },
     {
@@ -102,7 +147,7 @@
       "metadata": {
         "analysis": "While addressing the media shortly after the Falcons named Tua Tagovailoa their Week 1 starter Monday, Stefanski noted that Penix had taken part in only six 11-on-11 practices during training camp, so the third-year quarterback will need some more time to get back to full speed following last November's ACL tear before making his 2026 debut, per Raimondi. The Falcons were pleased enough with Penix's progress to wait until less than a week before the season opener to name a starter, which suggests that he'll likely get a chance to supplant Tagovailoa atop the depth chart at some point this season. While Penix is in street clothes for Week 1, Cooper Rush will step in as Tagovailoa's backup, and undrafted rookie Jack Strand will serve as the No. 3 quarterback.",
         "description": "Falcons head coach Kevin Stefanski said that Penix (knee) will be inactive for Sunday's season opener in Pittsburgh, Marc Raimondi of ESPN.com reports.",
-        "title": "Michael Penix - Will be inactive for season opener",
+        "title": "Michael Penix - Will be inactive for opener",
         "topic_id": "1402705410166632448"
       },
       "nfl_team": "ATL",
@@ -113,7 +158,7 @@
       "source": "rotowire",
       "source_key": "636331",
       "story_id": "nfl|11559|rotowire|636331|1788793251000",
-      "title": "Michael Penix - Will be inactive for season opener",
+      "title": "Michael Penix - Will be inactive for opener",
       "url": null
     },
     {
@@ -196,6 +241,66 @@
       "story_id": "nfl|6768|fantasy_pros|606317|1788783340302",
       "title": "Tua Tagovailoa named Falcons starter",
       "url": "https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots running back TreVeyon Henderson (ankle) was not spotted during the media-access portion of Monday's practice, according to Mike Reiss of ESPN. Henderson has not practiced since injuring his ankle Aug. 24 and was officially listed as a non-participant Sunday. With New England opening Wednesday night in Seattle, there is very little time left for him to get back on the field. Rhamondre Stevenson and Corey Kiner were both practicing Monday, along with practice-squad running backs Lan Larison and Hassan Haskins. Neither practice-squad back has been elevated yet, but both would give New England another option if Henderson cannot play. Monday's official practice designation is still pending, but his Week 1 availability is firmly in question.",
+      "metadata": {
+        "description": "New England Patriots running back TreVeyon Henderson (ankle) was not spotted during the media-access portion of Monday's practice, according to Mike Reiss of ESPN. Henderson has not practiced since injuring his ankle Aug. 24 and was officially listed as a non-participant Sunday. With New England opening Wednesday night in Seattle, there is very little time left for him to get back on the field. Rhamondre Stevenson and Corey Kiner were both practicing Monday, along with practice-squad running backs Lan Larison and Hassan Haskins. Neither practice-squad back has been elevated yet, but both would give New England another option if Henderson cannot play. Monday's official practice designation is still pending, but his Week 1 availability is firmly in question.",
+        "title": "TreVeyon Henderson Still Absent Two Days Before Week 1",
+        "topic_id": "1402723027812134912",
+        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-still-absent-two-days-before-week-1/1925164"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788782889000,
+      "source": "rotoballer",
+      "source_key": "220267",
+      "story_id": "nfl|12529|rotoballer|220267|1788782889000",
+      "title": "TreVeyon Henderson Still Absent Two Days Before Week 1",
+      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-still-absent-two-days-before-week-1/1925164"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers running back Jonathon Brooks is still dealing with general soreness and worked off to the side with a trainer during Monday's practice, according to Mike Kaye. Brooks was also held out of Carolina's Sept. 1 and Sept. 2 practices before the team took a few days off. Head coach Dave Canales said last week that he was \"very optimistic\" Brooks would be available for Week 1, but the third-year back has yet to get back into regular team work. Brooks missed all of 2025 following his second right ACL tear before returning this summer and appearing in two preseason games. Carolina doesn't open against Chicago until Sept. 13, so there is still time. For now, Brooks' practice participation over the next few days will be worth watching.",
+      "metadata": {
+        "description": "Carolina Panthers running back Jonathon Brooks is still dealing with general soreness and worked off to the side with a trainer during Monday's practice, according to Mike Kaye. Brooks was also held out of Carolina's Sept. 1 and Sept. 2 practices before the team took a few days off. Head coach Dave Canales said last week that he was \"very optimistic\" Brooks would be available for Week 1, but the third-year back has yet to get back into regular team work. Brooks missed all of 2025 following his second right ACL tear before returning this summer and appearing in two preseason games. Carolina doesn't open against Chicago until Sept. 13, so there is still time. For now, Brooks' practice participation over the next few days will be worth watching.",
+        "title": "Jonathon Brooks Remains Limited to Side Work",
+        "topic_id": "1402721768715636736",
+        "url": "https://www.rotoballer.com/player-news/jonathon-brooks-remains-limited-to-side-work/1925160"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788782410000,
+      "source": "rotoballer",
+      "source_key": "220266",
+      "story_id": "nfl|11583|rotoballer|220266|1788782410000",
+      "title": "Jonathon Brooks Remains Limited to Side Work",
+      "url": "https://www.rotoballer.com/player-news/jonathon-brooks-remains-limited-to-side-work/1925160"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Rashid Shaheed is becoming one of the more interesting players still available in a lot of leagues. He didn't do much through the air after arriving in Seattle last season, catching 15 passes for 188 yards in nine games, but the Seahawks appear ready to give him more this time around. Shaheed had a strong offseason, and the latest expectation is that he'll be used as more of a complete receiver rather than mostly being sent downfield. Seattle also wants to spread the targets around more after leaning so heavily on Jaxon Smith-Njigba last year. That doesn't make Shaheed an automatic Week 1 starter, and RotoBaller currently has him at WR59 for the opener. The waiver case is stronger. He's sixth among the site's wide receiver pickups and carries an add recommendation for leagues with 10 or more teams. If Shaheed is still available, he's worth grabbing now before the expanded role gets a chance to show up on Sundays.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Rashid Shaheed is becoming one of the more interesting players still available in a lot of leagues. He didn't do much through the air after arriving in Seattle last season, catching 15 passes for 188 yards in nine games, but the Seahawks appear ready to give him more this time around. Shaheed had a strong offseason, and the latest expectation is that he'll be used as more of a complete receiver rather than mostly being sent downfield. Seattle also wants to spread the targets around more after leaning so heavily on Jaxon Smith-Njigba last year. That doesn't make Shaheed an automatic Week 1 starter, and RotoBaller currently has him at WR59 for the opener. The waiver case is stronger. He's sixth among the site's wide receiver pickups and carries an add recommendation for leagues with 10 or more teams. If Shaheed is still available, he's worth grabbing now before the expanded role gets a chance to show up on Sundays.",
+        "title": "Rashid Shaheed Shouldn't Be Sitting on Waiver Wires",
+        "topic_id": "1402720510529269760",
+        "url": "https://www.rotoballer.com/player-news/rashid-shaheed-shouldnt-be-sitting-on-waiver-wires/1925155"
+      },
+      "nfl_team": "SEA",
+      "player_id": "8676",
+      "player_name": "Rashid Shaheed",
+      "position": "WR",
+      "published": 1788782015000,
+      "source": "rotoballer",
+      "source_key": "220265",
+      "story_id": "nfl|8676|rotoballer|220265|1788782015000",
+      "title": "Rashid Shaheed Shouldn't Be Sitting on Waiver Wires",
+      "url": "https://www.rotoballer.com/player-news/rashid-shaheed-shouldnt-be-sitting-on-waiver-wires/1925155"
     },
     {
       "analysis": null,
@@ -41434,26 +41539,6 @@
       "story_id": "nfl|12521|rotoballer|218225|1786269006000",
       "title": "Elijah Arroyo Primed to \"Blow the Roof Off\"",
       "url": "https://www.rotoballer.com/player-news/elijah-arroyo-primed-to-blow-the-roof-off/1905694"
-    },
-    {
-      "analysis": null,
-      "description": "Dallas Cowboys tight end Jake Ferguson was one of Dak Prescott's favorite options near the goal line last season, and that still gives him a path to TE1 value. Ferguson caught a career-high 82 passes for 600 yards and eight touchdowns on 102 targets, finishing TE7 in half-PPR. He also drew 23 red-zone targets, catching 14 of them for seven scores. The problem is that Dallas has plenty of mouths to feed. CeeDee Lamb is healthy, George Pickens is coming off a huge season, and Ferguson averaged only 7.3 yards per catch in 2025. He is not the kind of tight end who can live on a handful of deep shots if the volume falls. The good news is that his job is secure, and the connection with Prescott has looked sharp again in camp. RotoBaller has Ferguson 129th overall and TE14 in its August 8 half-PPR rankings. That price reflects the risk without burying a player who just finished inside the top eight. Ferguson is better viewed as a borderline TE1 than someone fantasy managers need to chase.",
-      "metadata": {
-        "description": "Dallas Cowboys tight end Jake Ferguson was one of Dak Prescott's favorite options near the goal line last season, and that still gives him a path to TE1 value. Ferguson caught a career-high 82 passes for 600 yards and eight touchdowns on 102 targets, finishing TE7 in half-PPR. He also drew 23 red-zone targets, catching 14 of them for seven scores. The problem is that Dallas has plenty of mouths to feed. CeeDee Lamb is healthy, George Pickens is coming off a huge season, and Ferguson averaged only 7.3 yards per catch in 2025. He is not the kind of tight end who can live on a handful of deep shots if the volume falls. The good news is that his job is secure, and the connection with Prescott has looked sharp again in camp. RotoBaller has Ferguson 129th overall and TE14 in its August 8 half-PPR rankings. That price reflects the risk without burying a player who just finished inside the top eight. Ferguson is better viewed as a borderline TE1 than someone fantasy managers need to chase.",
-        "title": "Jake Ferguson's Red-Zone Role Keeps Him in the TE1 Mix",
-        "topic_id": "1391911750911152128",
-        "url": "https://www.rotoballer.com/player-news/jake-fergusons-red-zone-role-keeps-him-in-the-te1-mix/1905411"
-      },
-      "nfl_team": "DAL",
-      "player_id": "8110",
-      "player_name": "Jake Ferguson",
-      "position": "TE",
-      "published": 1786205168000,
-      "source": "rotoballer",
-      "source_key": "218207",
-      "story_id": "nfl|8110|rotoballer|218207|1786205168000",
-      "title": "Jake Ferguson's Red-Zone Role Keeps Him in the TE1 Mix",
-      "url": "https://www.rotoballer.com/player-news/jake-fergusons-red-zone-role-keeps-him-in-the-te1-mix/1905411"
     }
   ]
 }

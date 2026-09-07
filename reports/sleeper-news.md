@@ -2,23 +2,28 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2063**
-- Newly captured: **1**
+- Stored stories: **2067**
+- Newly captured: **5**
 
 ## Latest news
 
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson (ankle) not seen practicing Monday  (2026-09-07T16:05:41.763000Z)
+  - Henderson continues to trend towards likely being sidelined for Wednesday's season opener. Rhamondre Stevenson should open the season in a workhorse role. 
+  - Source: https://www.fantasypros.com/nfl/news/606350/treveyon-henderson-ankle-not-seen-practicing-monday.php
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Not spotted at Monday's practice (2026-09-07T16:00:13Z)
+  - Henderson was listed as a non-participant on Sunday's injury report, and it appears likely he will receive the same designation a day later. Henderson has not been ruled out for Wednesday's season opener just yet, but his chances of suiting up are seemingly growing slimmer.
 - **George Kittle** — George Kittle (Achilles) seen practicing Monday  (2026-09-07T15:45:41.629000Z)
   - Kittle was on the field on Monday in Australia. It keeps him on track to be good to go for Thursday's seaaon opener, though it remains unclear if he will be facing any sort of snap count. 
   - Source: https://www.fantasypros.com/nfl/news/606340/george-kittle-achilles-seen-practicing-monday.php
-- **Jonathon Brooks** — Jonathon Brooks - Works out off to side Monday (2026-09-07T15:35:45Z)
-  - Kaye notes that Brooks was spotted doing some running, so he wasn't completed limited to rehab work. According to Joe Person of The Athletic, Panthers head coach Dave Canales expressed optimism last week that Brooks would be ready to play in Sunday's season opener versus the Bears, and the running back's lack of involvement in Monday's practice isn't believed to have changed the Panthers' stance. Brooks missed the entire 2025 campaign after tearing the ACL in his right knee for the second time in his career in December 2024, but he was fully cleared in the spring and saw action in two preseason games.
+- **Jonathon Brooks** — Jonathon Brooks - Works off to side Monday (2026-09-07T15:35:45Z)
+  - Kaye notes that Brooks was spotted doing some running, so he wasn't completely limited to rehab work. According to Joe Person of The Athletic, Panthers head coach Dave Canales expressed optimism last week that Brooks would be ready to play in Sunday's season opener versus the Bears, and the running back's lack of involvement in Monday's practice isn't believed to have changed the Panthers' stance. Brooks missed the entire 2025 campaign after tearing the ACL in his right knee for the second time in his career in December 2024, but he was fully cleared in the spring and saw action in two preseason games.
 - **Michael Penix** — Michael Penix Jr. (knee) to be inactive in Week 1 (2026-09-07T15:35:41.756000Z)
   - Penix remains without a clear timetable to return to the field. Stefanski declined to put a timeline on when Penix could be ready to take the field. Tua Tagovailoa was named the starter for Week 1. 
   - Source: https://www.fantasypros.com/nfl/news/606334/michael-penix-jr-knee-to-be-inactive-week-1.php
 - **Jonathon Brooks** — Jonathon Brooks works off to side with trainers Monday (2026-09-07T15:35:41.703000Z)
   - Head coach Dave Canales said last week that he was "very optimistic" that Brooks would play in Week 1. It remains unclear what the exact injury is that he is dealing with. His status will need to continue to be monitored the rest of the week. 
   - Source: https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php
-- **Michael Penix** — Michael Penix - Will be inactive for season opener (2026-09-07T15:00:51Z)
+- **Michael Penix** — Michael Penix - Will be inactive for opener (2026-09-07T15:00:51Z)
   - While addressing the media shortly after the Falcons named Tua Tagovailoa their Week 1 starter Monday, Stefanski noted that Penix had taken part in only six 11-on-11 practices during training camp, so the third-year quarterback will need some more time to get back to full speed following last November's ACL tear before making his 2026 debut, per Raimondi. The Falcons were pleased enough with Penix's progress to wait until less than a week before the season opener to name a starter, which suggests that he'll likely get a chance to supplant Tagovailoa atop the depth chart at some point this season. While Penix is in street clothes for Week 1, Cooper Rush will step in as Tagovailoa's backup, and undrafted rookie Jack Strand will serve as the No. 3 quarterback.
 - **Michael Penix** — Michael Penix - Won't start in Week 1 (2026-09-07T13:36:21Z)
   - Though Penix is expected to receive the opportunity to start at some point in 2026, he'll have to wait at least one more week before getting his chance while he continues to work his way back from the torn ACL he sustained last November. Penix didn't play in the preseason and wasn't cleared to take part in 11-on-11 drills until Aug. 22, so he'll need to get some full practices under his belt before the Falcons consider elevating him into the starting role over Tagovailoa, who completed 10 of 13 pass attempts for 117 yards in two exhibition contests but fumbled twice and generally struggled to push the ball downfield during the preseason and training camp. The Falcons kept four quarterbacks on their roster following the preseason, so Cooper Rush and Jack Strand will be available as backup options if Penix isn't ready to serve as Tagovailoa's understudy in the season opener.
@@ -29,7 +34,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tua Tagovailoa** — Tua Tagovailoa named Falcons starter (2026-09-07T12:15:40.302000Z)
   - After a camp that was full of negative reports, Tua has managed to win the starting job. Frankly, it's likely by default, as Michael Penix just got back to practice after suffering a torn ACL last season. It will be interesting to see how long Tua can keep the job.
   - Source: https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php
-- **NEW — Romeo Doubs** — Romeo Doubs a Priority Add Before Week 1 (2026-09-07T11:47:14Z)
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson Still Absent Two Days Before Week 1 (2026-09-07T12:08:09Z)
+  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-still-absent-two-days-before-week-1/1925164
+- **NEW — Jonathon Brooks** — Jonathon Brooks Remains Limited to Side Work (2026-09-07T12:00:10Z)
+  - Source: https://www.rotoballer.com/player-news/jonathon-brooks-remains-limited-to-side-work/1925160
+- **NEW — Rashid Shaheed** — Rashid Shaheed Shouldn't Be Sitting on Waiver Wires (2026-09-07T11:53:35Z)
+  - Source: https://www.rotoballer.com/player-news/rashid-shaheed-shouldnt-be-sitting-on-waiver-wires/1925155
+- **Romeo Doubs** — Romeo Doubs a Priority Add Before Week 1 (2026-09-07T11:47:14Z)
   - Source: https://www.rotoballer.com/player-news/romeo-doubs-a-priority-add-before-week-1/1925152
 - **Pat Bryant** — Pat Bryant Drawing Rave Reviews After Breakout Camp (2026-09-07T11:22:07Z)
   - Source: https://www.rotoballer.com/player-news/pat-bryant-drawing-rave-reviews-after-breakout-camp/1925121
@@ -206,13 +217,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jack-bech-set-for-a-starting-role-in-second-season/1924222
 - **Dylan Sampson** — Dylan Sampson a Handcuff with Pass-Catching Upside (2026-09-05T18:10:06Z)
   - Source: https://www.rotoballer.com/player-news/dylan-sampson-a-handcuff-with-pass-catching-upside/1924220
-- **TreVeyon Henderson** — TreVeyon Henderson - Sitting out Saturday's practice (2026-09-05T18:01:37Z)
-  - Head coach Mike Vrabel suggested earlier Saturday that Henderson could return to practice, but the second-year running back will end up observing the session in street clothes as he continues to recover from an ankle injury. Henderson will have two more chances to return to practice in at least a limited capacity ahead of the Patriots' regular-season opener against the Seahawks on Wednesday.
-- **TreVeyon Henderson** — TreVeyon Henderson - Could practice Saturday (2026-09-05T17:17:01Z)
-  - After missing recent practice time due to an ankle injury, Henderson appears to have at least a chance to get back on the field as New England begins a game-prep stretch ahead of Wednesday's regular-season opener against Seattle. The second-year running back would have to operate in at least a limited capacity over the coming days to have a realistic chance of playing in Week 1. If Henderson cannot play, then Rhamondre Stevenson would be in line for a significant boost in workload, and Corey Kiner would also be in the mix for some backfield touches.
-- **Jerry Jeudy** — New Role, Crowded Depth Chart in Cleveland Clouds Jerry Jeudy's Value (2026-09-05T16:52:12Z)
-  - Source: https://www.rotoballer.com/player-news/new-role-crowded-depth-chart-in-cleveland-clouds-jerry-jeudys-fantasy-value/1924193
-- **Jaylen Wright** — Jaylen Wright Listed as RB2 on Dolphins' Depth Chart (2026-09-05T16:34:56Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-wright-listed-as-rb2-on-dolphins-depth-chart/1924182
-- **Gunnar Helm** — Gunnar Helm Emerging as a Deep-League Sleeper (2026-09-05T16:02:07Z)
-  - Source: https://www.rotoballer.com/player-news/gunnar-helm-emerging-as-a-deep-league-sleeper/1924164
