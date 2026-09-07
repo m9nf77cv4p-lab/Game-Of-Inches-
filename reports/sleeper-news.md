@@ -3,11 +3,11 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **2060**
-- Newly captured: **3**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Michael Penix** — Michael Penix - Will be inactive for season opener (2026-09-07T15:00:51Z)
+- **Michael Penix** — Michael Penix - Will be inactive for season opener (2026-09-07T15:00:51Z)
   - While addressing the media shortly after the Falcons named Tua Tagovailoa their Week 1 starter Monday, Stefanski noted that Penix had taken part in only six 11-on-11 practices during training camp, so the third-year quarterback will need some more time to get back to full speed following last November's ACL tear before making his 2026 debut, per Raimondi. The Falcons were pleased enough with Penix's progress to wait until less than a week before the season opener to name a starter, which suggests that he'll likely get a chance to supplant Tagovailoa atop the depth chart at some point this season. While Penix is in street clothes for Week 1, Cooper Rush will step in as Tagovailoa's backup, and undrafted rookie Jack Strand will serve as the No. 3 quarterback.
 - **Michael Penix** — Michael Penix - Won't start in Week 1 (2026-09-07T13:36:21Z)
   - Though Penix is expected to receive the opportunity to start at some point in 2026, he'll have to wait at least one more week before getting his chance while he continues to work his way back from the torn ACL he sustained last November. Penix didn't play in the preseason and wasn't cleared to take part in 11-on-11 drills until Aug. 22, so he'll need to get some full practices under his belt before the Falcons consider elevating him into the starting role over Tagovailoa, who completed 10 of 13 pass attempts for 117 yards in two exhibition contests but fumbled twice and generally struggled to push the ball downfield during the preseason and training camp. The Falcons kept four quarterbacks on their roster following the preseason, so Cooper Rush and Jack Strand will be available as backup options if Penix isn't ready to serve as Tagovailoa's understudy in the season opener.
@@ -18,9 +18,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tua Tagovailoa** — Tua Tagovailoa named Falcons starter (2026-09-07T12:15:40.302000Z)
   - After a camp that was full of negative reports, Tua has managed to win the starting job. Frankly, it's likely by default, as Michael Penix just got back to practice after suffering a torn ACL last season. It will be interesting to see how long Tua can keep the job.
   - Source: https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson's Week 1 Status Remains Uncertain (2026-09-07T11:09:05Z)
+- **NEW — Pat Bryant** — Pat Bryant Drawing Rave Reviews After Breakout Camp (2026-09-07T11:22:07Z)
+  - Source: https://www.rotoballer.com/player-news/pat-bryant-drawing-rave-reviews-after-breakout-camp/1925121
+- **TreVeyon Henderson** — TreVeyon Henderson's Week 1 Status Remains Uncertain (2026-09-07T11:09:05Z)
   - Source: https://www.rotoballer.com/player-news/treveyon-hendersons-week-1-status-remains-uncertain/1925109
-- **NEW — Jakobi Meyers** — Jakobi Meyers a Potential Steal in Fantasy Leagues (2026-09-07T10:54:05Z)
+- **Jakobi Meyers** — Jakobi Meyers a Potential Steal in Fantasy Leagues (2026-09-07T10:54:05Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-meyers-a-potential-steal-in-fantasy-leagues/1925096
 - **Keaton Mitchell** — Keaton Mitchell Worth a Waiver Claim with High Upside? (2026-09-07T10:46:40Z)
   - Source: https://www.rotoballer.com/player-news/keaton-mitchell-worth-a-waiver-claim-with-high-upside/1925092
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/treveyon-henderson-remains-sidelined-saturday/1924075
 - **Elijah Sarratt** — Elijah Sarratt Comes Out of Camp Behind the Rookie Curve (2026-09-05T14:35:05Z)
   - Source: https://www.rotoballer.com/player-news/elijah-sarratt-comes-out-of-camp-behind-the-rookie-curve/1924059
-- **Pat Freiermuth** — Pat Freiermuth Has More Receiving Work Up for Grabs (2026-09-05T14:31:55Z)
-  - Source: https://www.rotoballer.com/player-news/pat-freiermuth-has-more-receiving-work-up-for-grabs/1924054

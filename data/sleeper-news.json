@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T15:18:42Z",
+  "last_checked_at": "2026-09-07T15:33:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11559|rotowire|636331|1788793251000",
-    "nfl|12529|rotoballer|220261|1788779345000",
-    "nfl|5947|rotoballer|220260|1788778445000"
+    "nfl|12492|rotoballer|220262|1788780127000"
   ],
   "schema_version": 1,
   "source": {
@@ -115,6 +113,26 @@
       "story_id": "nfl|6768|fantasy_pros|606317|1788783340302",
       "title": "Tua Tagovailoa named Falcons starter",
       "url": "https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Pat Bryant turned plenty of heads during training camp and could be in line for more work in Year 2. According to Parker Gabriel of the Denver Post, Sean Payton keeps coming back to one fairly simple trait when talking about Bryant: he rarely has to leave his feet to make a clean catch. That allows him to stay in stride and create more after the catch. Payton has also praised Bryant's strong hands, intelligence, size and consistency after what he called a \"heck of a camp.\" Bryant caught 31 passes for 378 yards and one touchdown across 15 games as a rookie, starting seven of them. Denver still has Courtland Sutton, Jaylen Waddle and Marvin Mims Jr. ahead of him on the current depth chart, but Bryant can work outside or from the slot. After the summer he just put together, finding him more snaps shouldn't be difficult.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Pat Bryant turned plenty of heads during training camp and could be in line for more work in Year 2. According to Parker Gabriel of the Denver Post, Sean Payton keeps coming back to one fairly simple trait when talking about Bryant: he rarely has to leave his feet to make a clean catch. That allows him to stay in stride and create more after the catch. Payton has also praised Bryant's strong hands, intelligence, size and consistency after what he called a \"heck of a camp.\" Bryant caught 31 passes for 378 yards and one touchdown across 15 games as a rookie, starting seven of them. Denver still has Courtland Sutton, Jaylen Waddle and Marvin Mims Jr. ahead of him on the current depth chart, but Bryant can work outside or from the slot. After the summer he just put together, finding him more snaps shouldn't be difficult.",
+        "title": "Pat Bryant Drawing Rave Reviews After Breakout Camp",
+        "topic_id": "1402711701635248128",
+        "url": "https://www.rotoballer.com/player-news/pat-bryant-drawing-rave-reviews-after-breakout-camp/1925121"
+      },
+      "nfl_team": "DEN",
+      "player_id": "12492",
+      "player_name": "Pat Bryant",
+      "position": "WR",
+      "published": 1788780127000,
+      "source": "rotoballer",
+      "source_key": "220262",
+      "story_id": "nfl|12492|rotoballer|220262|1788780127000",
+      "title": "Pat Bryant Drawing Rave Reviews After Breakout Camp",
+      "url": "https://www.rotoballer.com/player-news/pat-bryant-drawing-rave-reviews-after-breakout-camp/1925121"
     },
     {
       "analysis": null,
@@ -41373,26 +41391,6 @@
       "story_id": "nfl|7049|rotoballer|218204|1786203377000",
       "title": "Jauan Jennings Is Worth a Late-Round Bet in Minnesota",
       "url": "https://www.rotoballer.com/player-news/jauan-jennings-is-worth-a-late-round-bet-in-minnesota/1905391"
-    },
-    {
-      "analysis": null,
-      "description": "Dallas Cowboys wide receiver CeeDee Lamb had a down 2025 by his standards, but there is not much of a discount attached to it. He missed three full games with a high ankle sprain and still caught 75 passes for 1,077 yards on 117 targets. The three touchdowns were a career low, which is probably the biggest reason last year felt so disappointing in fantasy. George Pickens is not going away after a 93-catch, 1,429-yard breakout, and Dallas now has two receivers capable of commanding plenty of looks from Dak Prescott. That makes another 2023-type 181-target season harder to bank on. It also does not push Lamb out of the first-round conversation. Dallas has made red-zone improvement a focus in camp, and Lamb has been working in those drills. RotoBaller ranks him ninth overall and WR5 in half-PPR, almost exactly in line with his 10.6 ADP. At that price, Lamb is neither a bargain nor a fade. He is still one of the safest bets to anchor a fantasy receiving corps.",
-      "metadata": {
-        "description": "Dallas Cowboys wide receiver CeeDee Lamb had a down 2025 by his standards, but there is not much of a discount attached to it. He missed three full games with a high ankle sprain and still caught 75 passes for 1,077 yards on 117 targets. The three touchdowns were a career low, which is probably the biggest reason last year felt so disappointing in fantasy. George Pickens is not going away after a 93-catch, 1,429-yard breakout, and Dallas now has two receivers capable of commanding plenty of looks from Dak Prescott. That makes another 2023-type 181-target season harder to bank on. It also does not push Lamb out of the first-round conversation. Dallas has made red-zone improvement a focus in camp, and Lamb has been working in those drills. RotoBaller ranks him ninth overall and WR5 in half-PPR, almost exactly in line with his 10.6 ADP. At that price, Lamb is neither a bargain nor a fade. He is still one of the safest bets to anchor a fantasy receiving corps.",
-        "title": "CeeDee Lamb Still Worth His First-Round Price",
-        "topic_id": "1391900426990780416",
-        "url": "https://www.rotoballer.com/player-news/ceedee-lamb-still-worth-his-first-round-price/1905389"
-      },
-      "nfl_team": "DAL",
-      "player_id": "6786",
-      "player_name": "CeeDee Lamb",
-      "position": "WR",
-      "published": 1786202530000,
-      "source": "rotoballer",
-      "source_key": "218203",
-      "story_id": "nfl|6786|rotoballer|218203|1786202530000",
-      "title": "CeeDee Lamb Still Worth His First-Round Price",
-      "url": "https://www.rotoballer.com/player-news/ceedee-lamb-still-worth-his-first-round-price/1905389"
     }
   ]
 }
