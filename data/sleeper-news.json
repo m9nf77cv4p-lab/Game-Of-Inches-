@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-07T17:12:28Z",
+  "last_checked_at": "2026-09-07T17:27:06Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12514|rotoballer|220269|1788786246000",
-    "nfl|2216|rotoballer|220268|1788785645000"
+    "nfl|11618|rotoballer|220270|1788786606000",
+    "nfl|9493|rotoballer|220271|1788786489000"
   ],
   "schema_version": 1,
   "source": {
@@ -259,6 +259,46 @@
       "story_id": "nfl|2216|rotowire|636329|1788787332000",
       "title": "Mike Evans - Involved in practice Monday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers wide receiver Jalen McMillan (knee) was seen practicing on Monday, according to the Tampa Bay Times' Rick Stroud. In addition to McMillan, fellow wideout Emeka Egbuka (toe) was on the field, which means the team's top three wideouts -- Egbuka, Chris Godwin Jr., and McMillan -- could all be active for Week 1 this Sunday, Sept. 13, against the Cincinnati Bengals. That would be great news for quarterback Baker Mayfield in a potential shootout as he looks to get out of the gate strong following a disappointing 2025 campaign. McMillan did not play at all in the preseason due to his knee injury, but there is optimism that he will be available this weekend in the regular-season opener. The 24-year-old played in only four games last year due to a serious neck injury that he suffered in the preseason, but he had an impressive 37-461-8 line in 13 games played as a rookie in 2024, and he should have a bigger role this year with Mike Evans no longer around. Still, McMillan will need to hold off rising young receiver Ted Hurst III in a new offense in 2026. McMillan is currently rostered in only 16% of Yahoo leagues and is shaping up as a deep-league sleeper for his Week 1 matchup against the Bengals if he plays this weekend.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers wide receiver Jalen McMillan (knee) was seen practicing on Monday, according to the Tampa Bay Times' Rick Stroud. In addition to McMillan, fellow wideout Emeka Egbuka (toe) was on the field, which means the team's top three wideouts -- Egbuka, Chris Godwin Jr., and McMillan -- could all be active for Week 1 this Sunday, Sept. 13, against the Cincinnati Bengals. That would be great news for quarterback Baker Mayfield in a potential shootout as he looks to get out of the gate strong following a disappointing 2025 campaign. McMillan did not play at all in the preseason due to his knee injury, but there is optimism that he will be available this weekend in the regular-season opener. The 24-year-old played in only four games last year due to a serious neck injury that he suffered in the preseason, but he had an impressive 37-461-8 line in 13 games played as a rookie in 2024, and he should have a bigger role this year with Mike Evans no longer around. Still, McMillan will need to hold off rising young receiver Ted Hurst III in a new offense in 2026. McMillan is currently rostered in only 16% of Yahoo leagues and is shaping up as a deep-league sleeper for his Week 1 matchup against the Bengals if he plays this weekend.",
+        "title": "Jalen McMillan on the Practice Field on Monday",
+        "topic_id": "1402738128376115200",
+        "url": "https://www.rotoballer.com/player-news/jalen-mcmillan-on-the-practice-field-on-monday/1925216"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1788786606000,
+      "source": "rotoballer",
+      "source_key": "220270",
+      "story_id": "nfl|11618|rotoballer|220270|1788786606000",
+      "title": "Jalen McMillan on the Practice Field on Monday",
+      "url": "https://www.rotoballer.com/player-news/jalen-mcmillan-on-the-practice-field-on-monday/1925216"
+    },
+    {
+      "analysis": null,
+      "description": "According to ESPN's Adam Schefter, there is a \"real possibility\" Los Angeles Rams wide receiver Puka Nacua does not face any suspension during the 2026 season. This news comes after the star wideout was not placed on the Commissioner Exempt List the past week. The 25-year-old is facing a civil lawsuit and was subject to potential discipline from the league. However, it appears Nacua will avoid any missed time due to legal issues ahead of the new season. Schefter also noted that Nacua is progressing well from the psoas soreness that sidelined him at times during the later stages of camp. Last season, Nacua turned in a dominant effort, catching 129 passes for 1,715 yards and 10 touchdowns, and should carry this momentum into his season opener on Thursday against the 49ers. When active, Nacua carries elite WR1 upside and has a clear path to finishing the season as the top fantasy asset.",
+      "metadata": {
+        "description": "According to ESPN's Adam Schefter, there is a \"real possibility\" Los Angeles Rams wide receiver Puka Nacua does not face any suspension during the 2026 season. This news comes after the star wideout was not placed on the Commissioner Exempt List the past week. The 25-year-old is facing a civil lawsuit and was subject to potential discipline from the league. However, it appears Nacua will avoid any missed time due to legal issues ahead of the new season. Schefter also noted that Nacua is progressing well from the psoas soreness that sidelined him at times during the later stages of camp. Last season, Nacua turned in a dominant effort, catching 129 passes for 1,715 yards and 10 touchdowns, and should carry this momentum into his season opener on Thursday against the 49ers. When active, Nacua carries elite WR1 upside and has a clear path to finishing the season as the top fantasy asset.",
+        "title": "\"Real Possibility\" Puka Nacua Does Not Face Discipline in 2026",
+        "topic_id": "1402738128367726592",
+        "url": "https://www.rotoballer.com/player-news/real-possibility-puka-nacua-does-not-face-discipline-in-2026/1925213"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1788786489000,
+      "source": "rotoballer",
+      "source_key": "220271",
+      "story_id": "nfl|9493|rotoballer|220271|1788786489000",
+      "title": "\"Real Possibility\" Puka Nacua Does Not Face Discipline in 2026",
+      "url": "https://www.rotoballer.com/player-news/real-possibility-puka-nacua-does-not-face-discipline-in-2026/1925213"
     },
     {
       "analysis": null,

@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2072**
+- Stored stories: **2074**
 - Newly captured: **2**
 
 ## Latest news
@@ -37,9 +37,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Though Penix is expected to receive the opportunity to start at some point in 2026, he'll have to wait at least one more week before getting his chance while he continues to work his way back from the torn ACL he sustained last November. Penix didn't play in the preseason and wasn't cleared to take part in 11-on-11 drills until Aug. 22, so he'll need to get some full practices under his belt before the Falcons consider elevating him into the starting role over Tagovailoa, who completed 10 of 13 pass attempts for 117 yards in two exhibition contests but fumbled twice and generally struggled to push the ball downfield during the preseason and training camp. The Falcons kept four quarterbacks on their roster following the preseason, so Cooper Rush and Jack Strand will be available as backup options if Penix isn't ready to serve as Tagovailoa's understudy in the season opener.
 - **Mike Evans** — Mike Evans - Involved in practice Monday (2026-09-07T13:22:12Z)
   - Wagoner notes that linebacker Nick Bosa (knee) and running back Christian McCaffrey (undisclosed) were the only 49ers players who didn't appear to be mixing into team drills during the open portion of practice, so Evans appears likely to have been at least a limited participant in Monday's session. The 49ers will release their first injury report of the season later Monday, when the extent of Evans' practice participation will be revealed. Evans had his practice activity managed for much of training camp while he contended with a minor quadriceps strain and more recently, an adductor injury.
-- **NEW — Emeka Egbuka** — Emeka Egbuka Practicing on Monday (2026-09-07T13:04:06Z)
+- **NEW — Jalen McMillan** — Jalen McMillan on the Practice Field on Monday (2026-09-07T13:10:06Z)
+  - Source: https://www.rotoballer.com/player-news/jalen-mcmillan-on-the-practice-field-on-monday/1925216
+- **NEW — Puka Nacua** — "Real Possibility" Puka Nacua Does Not Face Discipline in 2026 (2026-09-07T13:08:09Z)
+  - Source: https://www.rotoballer.com/player-news/real-possibility-puka-nacua-does-not-face-discipline-in-2026/1925213
+- **Emeka Egbuka** — Emeka Egbuka Practicing on Monday (2026-09-07T13:04:06Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-practicing-on-monday/1925210
-- **NEW — Mike Evans** — Mike Evans' Injuries During Camp Were Not Significant (2026-09-07T12:54:05Z)
+- **Mike Evans** — Mike Evans' Injuries During Camp Were Not Significant (2026-09-07T12:54:05Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-injuries-during-camp-were-not-significant/1925177
 - **Tua Tagovailoa** — Tua Tagovailoa - Will start Week 1 (2026-09-07T12:23:28Z)
   - The Falcons were deciding between Tagovailoa and Michael Penix (knee) for the Week 1 starting assignment, and with the latter still getting back up to full speed as he works his way back from a torn ACL, Tagovailoa will get the nod. Tagovailoa likely won't have much leash as a starter, coming off a poor preseason in which he completed 10 of 13 pass attempts for 117 yards while fumbling twice (losing one).
@@ -214,8 +218,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/chimere-dike-could-get-lost-in-the-shuffle/1924289
 - **Tory Horton** — Tory Horton Injury Concerns Could Lower His Value (2026-09-05T21:21:05Z)
   - Source: https://www.rotoballer.com/player-news/tory-horton-injury-concerns-could-lower-his-value/1924286
-- **Parker Washington** — Parker Washington Seeking New Contract in Jacksonville (2026-09-05T19:48:12Z)
-  - Source: https://www.rotoballer.com/player-news/parker-washington-seeking-new-contract-in-jacksonville/1924257
-- **TreVeyon Henderson** — TreVeyon Henderson (ankle) not practicing Saturday (2026-09-05T19:20:25.559000Z)
-  - Henderson has not practiced since August 24th, not a great sign for his availability come game time. The Patriots play the Seahawks on Wednesday, rather than a Thursday, giving Henderson one less day to get healthy. The Patriots first injury report comes out later today.
-  - Source: https://www.fantasypros.com/nfl/news/606042/treveyon-henderson-ankle-not-practicing-saturday.php
