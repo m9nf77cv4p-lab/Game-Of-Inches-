@@ -1,12 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T17:53:01Z",
+  "last_checked_at": "2026-09-07T18:06:22Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11583|rotoballer|220274|1788788408000",
-    "nfl|6801|fantasy_pros|606373|1788803142448",
-    "nfl|6801|rotowire|636337|1788802931000",
-    "nfl|7564|fantasy_pros|606372|1788803142459"
+    "nfl|9226|rotoballer|220275|1788789072000"
   ],
   "schema_version": 1,
   "source": {
@@ -79,10 +76,10 @@
       "url": null
     },
     {
-      "analysis": "Chase limped off the practice field on Aug. 25 and was diagnosed with a hyperextended left knee. Prior to Monday, he hasn't logged any visible on-field work in the meantime, so his ability to suit up indicates he'll at least be able to get in some work on the side. The Bengals will be posting their first Week 1 injury report Wednesday, at which point his activity level will became known as the team prepares for Sunday's game against the Bengals.",
+      "analysis": "Chase limped off the practice field on Aug. 25 and was diagnosed with a hyperextended left knee. Prior to Monday, he hasn't logged any visible on-field work in the meantime, so his ability to suit up indicates he'll at least be able to get involved in individual drills. The Bengals will be posting their first Week 1 injury report Wednesday, at which point his activity level will became known as the team prepares for Sunday's game against the Bengals.",
       "description": "Chase (knee) is in uniform for Monday's practice, Charlie Goldsmith of Charlie's Chalkboard reports.",
       "metadata": {
-        "analysis": "Chase limped off the practice field on Aug. 25 and was diagnosed with a hyperextended left knee. Prior to Monday, he hasn't logged any visible on-field work in the meantime, so his ability to suit up indicates he'll at least be able to get in some work on the side. The Bengals will be posting their first Week 1 injury report Wednesday, at which point his activity level will became known as the team prepares for Sunday's game against the Bengals.",
+        "analysis": "Chase limped off the practice field on Aug. 25 and was diagnosed with a hyperextended left knee. Prior to Monday, he hasn't logged any visible on-field work in the meantime, so his ability to suit up indicates he'll at least be able to get involved in individual drills. The Bengals will be posting their first Week 1 injury report Wednesday, at which point his activity level will became known as the team prepares for Sunday's game against the Bengals.",
         "description": "Chase (knee) is in uniform for Monday's practice, Charlie Goldsmith of Charlie's Chalkboard reports.",
         "title": "Ja'Marr Chase - Present at practice",
         "topic_id": "1402744422004727808"
@@ -303,6 +300,26 @@
       "story_id": "nfl|11559|rotowire|636331|1788793251000",
       "title": "Michael Penix - Will be inactive for opener",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins running back De'Von Achane touched the ball 305 times in 2025, and team beat reporter Kyle Crabbs believes another 300-plus touches are on the table again in Miami's new-look offense. Appearing on NFL Spotlight with Ari Meirov on Monday, Crabbs acknowledged that the mobility of quarterback Malik Willis could cap Achane's targets after seeing 170 opportunities in the passing game over the past two seasons, but he believes the quality of targets could improve with more potential use out of the slot. Crabbs also profiles Miami as a run-heavy team, with Achane standing significantly above the rest of the team's runners, which include Jaylen Wright and Ollie Gordon II. Achane is RotoBaller's RB11 and should be viewed as a locked-in RB1 option when the Dolphins travel to Vegas to face the Raiders in Week 1.",
+      "metadata": {
+        "description": "Miami Dolphins running back De'Von Achane touched the ball 305 times in 2025, and team beat reporter Kyle Crabbs believes another 300-plus touches are on the table again in Miami's new-look offense. Appearing on NFL Spotlight with Ari Meirov on Monday, Crabbs acknowledged that the mobility of quarterback Malik Willis could cap Achane's targets after seeing 170 opportunities in the passing game over the past two seasons, but he believes the quality of targets could improve with more potential use out of the slot. Crabbs also profiles Miami as a run-heavy team, with Achane standing significantly above the rest of the team's runners, which include Jaylen Wright and Ollie Gordon II. Achane is RotoBaller's RB11 and should be viewed as a locked-in RB1 option when the Dolphins travel to Vegas to face the Raiders in Week 1.",
+        "title": "De'Von Achane Expected to See Another Significant Workload",
+        "topic_id": "1402749454271909888",
+        "url": "https://www.rotoballer.com/player-news/devon-achane-expected-to-see-another-significant-workload/1925258"
+      },
+      "nfl_team": "MIA",
+      "player_id": "9226",
+      "player_name": "De'Von Achane",
+      "position": "RB",
+      "published": 1788789072000,
+      "source": "rotoballer",
+      "source_key": "220275",
+      "story_id": "nfl|9226|rotoballer|220275|1788789072000",
+      "title": "De'Von Achane Expected to See Another Significant Workload",
+      "url": "https://www.rotoballer.com/player-news/devon-achane-expected-to-see-another-significant-workload/1925258"
     },
     {
       "analysis": null,

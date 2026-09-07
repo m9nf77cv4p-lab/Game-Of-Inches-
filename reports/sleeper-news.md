@@ -2,21 +2,21 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2080**
-- Newly captured: **4**
+- Stored stories: **2081**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Ja'Marr Chase** — Ja'Marr Chase (knee) returns to practice Monday  (2026-09-07T17:45:42.459000Z)
+- **Ja'Marr Chase** — Ja'Marr Chase (knee) returns to practice Monday  (2026-09-07T17:45:42.459000Z)
   - Chase was sidelined last week after suffering a hyperextended knee in practice. The superstar wideout will look to increase his activity throughout the week ahead of a Week 1 matchup against the Tampa Buccaneers.
   - Source: https://www.fantasypros.com/nfl/news/606372/jamarr-chase-knee-returns-to-practice-monday.php
-- **NEW — Tee Higgins** — Tee Higgins (heel) practicing Monday (2026-09-07T17:45:42.448000Z)
+- **Tee Higgins** — Tee Higgins (heel) practicing Monday (2026-09-07T17:45:42.448000Z)
   - Higgins returned to the practice field alongside superstar wideout Ja'Marr Chase (knee) after both were sidelined last week while managing their minor injuries. The wideout looks poised to be available to slot into his role as the No. 2 pass-catching option behind Chase in time for Cincinnati's Week 1 contest against the Tampa Bay Buccaneers.
   - Source: https://www.fantasypros.com/nfl/news/606373/tee-higgins-heel-practicing-monday.php
-- **NEW — Tee Higgins** — Tee Higgins - Suited up for practice (2026-09-07T17:42:11Z)
+- **Tee Higgins** — Tee Higgins - Suited up for practice (2026-09-07T17:42:11Z)
   - Coach Zac Taylor relayed last Tuesday that Higgins was tending to a bruised heel, which sidelined the wide receiver since then, so his ability to suit up Monday generally is a step in the right direction. Cincinnati will be posting it's first injury report of the season Wednesday, after which Higgins' activity level will become clearer as the team preps for Sunday's Week 1 matchup with the Buccaneers.
 - **Ja'Marr Chase** — Ja'Marr Chase - Present at practice (2026-09-07T17:38:06Z)
-  - Chase limped off the practice field on Aug. 25 and was diagnosed with a hyperextended left knee. Prior to Monday, he hasn't logged any visible on-field work in the meantime, so his ability to suit up indicates he'll at least be able to get in some work on the side. The Bengals will be posting their first Week 1 injury report Wednesday, at which point his activity level will became known as the team prepares for Sunday's game against the Bengals.
+  - Chase limped off the practice field on Aug. 25 and was diagnosed with a hyperextended left knee. Prior to Monday, he hasn't logged any visible on-field work in the meantime, so his ability to suit up indicates he'll at least be able to get involved in individual drills. The Bengals will be posting their first Week 1 injury report Wednesday, at which point his activity level will became known as the team prepares for Sunday's game against the Bengals.
 - **Emeka Egbuka** — Emeka Egbuka (toe) practices Monday  (2026-09-07T16:50:42.101000Z)
   - It is a good sign for Egbuka's availability to open the season after missing time in training camp. His status will need to continue to be monitored in practice the rest of the week. 
   - Source: https://www.fantasypros.com/nfl/news/606362/emeka-egbuka-toe-practices-monday.php
@@ -43,7 +43,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php
 - **Michael Penix** — Michael Penix - Will be inactive for opener (2026-09-07T15:00:51Z)
   - While addressing the media shortly after the Falcons named Tua Tagovailoa their Week 1 starter Monday, Stefanski noted that Penix had taken part in only six 11-on-11 practices during training camp, so the third-year quarterback will need some more time to get back to full speed following last November's ACL tear before making his 2026 debut, per Raimondi. The Falcons were pleased enough with Penix's progress to wait until less than a week before the season opener to name a starter, which suggests that he'll likely get a chance to supplant Tagovailoa atop the depth chart at some point this season. While Penix is in street clothes for Week 1, Cooper Rush will step in as Tagovailoa's backup, and undrafted rookie Jack Strand will serve as the No. 3 quarterback.
-- **NEW — Jonathon Brooks** — Optimism Waning for Jonathon Brooks' Week 1 Availability? (2026-09-07T13:40:08Z)
+- **NEW — De'Von Achane** — De'Von Achane Expected to See Another Significant Workload (2026-09-07T13:51:12Z)
+  - Source: https://www.rotoballer.com/player-news/devon-achane-expected-to-see-another-significant-workload/1925258
+- **Jonathon Brooks** — Optimism Waning for Jonathon Brooks' Week 1 Availability? (2026-09-07T13:40:08Z)
   - Source: https://www.rotoballer.com/player-news/optimism-waning-for-jonathon-brooks-week-1-availability/1925244
 - **Michael Penix** — Michael Penix - Won't start in Week 1 (2026-09-07T13:36:21Z)
   - Though Penix is expected to receive the opportunity to start at some point in 2026, he'll have to wait at least one more week before getting his chance while he continues to work his way back from the torn ACL he sustained last November. Penix didn't play in the preseason and wasn't cleared to take part in 11-on-11 drills until Aug. 22, so he'll need to get some full practices under his belt before the Falcons consider elevating him into the starting role over Tagovailoa, who completed 10 of 13 pass attempts for 117 yards in two exhibition contests but fumbled twice and generally struggled to push the ball downfield during the preseason and training camp. The Falcons kept four quarterbacks on their roster following the preseason, so Cooper Rush and Jack Strand will be available as backup options if Penix isn't ready to serve as Tagovailoa's understudy in the season opener.
@@ -218,5 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jauan-jennings-a-late-round-pick-with-limited-upside-in-crowded-receiver-room/1924350
 - **Ray Davis** — Ray Davis a Handcuff with Low Standalone Value (2026-09-06T00:27:06Z)
   - Source: https://www.rotoballer.com/player-news/ray-davis-a-handcuff-with-low-standalone-value/1924348
-- **Malachi Fields** — Is Malachi Fields Set for Large Role with Giants? (2026-09-05T23:48:08Z)
-  - Source: https://www.rotoballer.com/player-news/is-malachi-fields-set-for-large-role-with-giants/1924343
