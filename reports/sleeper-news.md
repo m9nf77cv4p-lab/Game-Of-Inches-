@@ -2,11 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2100**
-- Newly captured: **1**
+- Stored stories: **2102**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Alec Pierce** — Alec Pierce (knee) expected to be ready for Week 1 (2026-09-07T19:45:43.629000Z)
+  - Pierce has continues to increase his workload in team practice without any setbacks, setting up the dynamic pass-catcher to take advantage of his role as the No. 1 wideout alongside tight end Tyler Warren for quarterback Daniel Jones against a tough Ravens defensive unit Sunday.
+  - Source: https://www.fantasypros.com/nfl/news/606405/alec-pierce-knee-expected-to-be-ready-week-1.php
 - **Rome Odunze** — Rome Odunze - Not practicing Monday (2026-09-07T18:48:49Z)
   - After Odunze exited Thursday's practice with an apparent right leg injury, the wide receiver is opening the Week 1 practice week with an absence. The Bears will release an official practice report Wednesday, and it will be a situation to monitor heading into the weekend ahead of Sunday's season opener against the Panthers. If Odunze can't go against Carolina, Luther Burden (groin) and Colston Loveland would likely see expanded target shares, while Kalif Raymond and rookie Zavion Thomas would be in line for elevated snaps.
 - **D'Andre Swift** — D'Andre Swift at practice Monday  (2026-09-07T18:45:42.981000Z)
@@ -64,7 +67,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jonathon Brooks** — Jonathon Brooks works off to side with trainers Monday (2026-09-07T15:35:41.703000Z)
   - Head coach Dave Canales said last week that he was "very optimistic" that Brooks would play in Week 1. It remains unclear what the exact injury is that he is dealing with. His status will need to continue to be monitored the rest of the week. 
   - Source: https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php
-- **NEW — Khalil Shakir** — Khalil Shakir Still Has PPR Appeal on the Waiver Wire (2026-09-07T15:25:06Z)
+- **NEW — Dalton Schultz** — Dalton Schultz a Strong PPR Streamer for Week 1 (2026-09-07T15:32:06Z)
+  - Source: https://www.rotoballer.com/player-news/dalton-schultz-a-strong-ppr-streamer-for-week-1/1925370
+- **Khalil Shakir** — Khalil Shakir Still Has PPR Appeal on the Waiver Wire (2026-09-07T15:25:06Z)
   - Source: https://www.rotoballer.com/player-news/khalil-shakir-still-has-ppr-appeal-on-the-waiver-wire/1925361
 - **Deebo Samuel** — Deebo Samuel Sr. Offers Immediate Waiver-Wire Appeal (2026-09-07T15:17:14Z)
   - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-offers-immediate-waiver-wire-appeal/1925355
@@ -221,7 +226,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/keenan-allen-losing-ground-in-a-crowded-passing-game/1924650
 - **Jalen McMillan** — Jalen McMillan's Redraft Appeal Takes Another Hit (2026-09-06T13:44:04Z)
   - Source: https://www.rotoballer.com/player-news/jalen-mcmillans-redraft-appeal-takes-another-hit/1924644
-- **Brandon Aiyuk** — Brandon Aiyuk Keeps Sliding Out of Redraft Relevance (2026-09-06T13:32:05Z)
-  - Source: https://www.rotoballer.com/player-news/brandon-aiyuk-keeps-sliding-out-of-redraft-relevance/1924641
-- **Theo Johnson** — Theo Johnson's Redraft Stock Has Slipped (2026-09-06T13:12:05Z)
-  - Source: https://www.rotoballer.com/player-news/theo-johnsons-redraft-stock-has-slipped/1924632

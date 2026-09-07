@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-07T19:37:22Z",
+  "last_checked_at": "2026-09-07T19:48:07Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|8134|rotoballer|220287|1788794706000"
+    "nfl|5001|rotoballer|220288|1788795126000",
+    "nfl|8142|fantasy_pros|606405|1788810343629"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Pierce has continues to increase his workload in team practice without any setbacks, setting up the dynamic pass-catcher to take advantage of his role as the No. 1 wideout alongside tight end Tyler Warren for quarterback Daniel Jones against a tough Ravens defensive unit Sunday.",
+      "description": "Alec Pierce (knee) is expected to be ready for Week 1 for the Indianapolis Colts against the Baltimore Ravens according to Stephen Holder.",
+      "metadata": {
+        "analysis": "Pierce has continues to increase his workload in team practice without any setbacks, setting up the dynamic pass-catcher to take advantage of his role as the No. 1 wideout alongside tight end Tyler Warren for quarterback Daniel Jones against a tough Ravens defensive unit Sunday.",
+        "description": "Alec Pierce (knee) is expected to be ready for Week 1 for the Indianapolis Colts against the Baltimore Ravens according to Stephen Holder.",
+        "title": "Alec Pierce (knee) expected to be ready for Week 1",
+        "topic_id": "1402775889275527168",
+        "url": "https://www.fantasypros.com/nfl/news/606405/alec-pierce-knee-expected-to-be-ready-week-1.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1788810343629,
+      "source": "fantasy_pros",
+      "source_key": "606405",
+      "story_id": "nfl|8142|fantasy_pros|606405|1788810343629",
+      "title": "Alec Pierce (knee) expected to be ready for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606405/alec-pierce-knee-expected-to-be-ready-week-1.php"
+    },
     {
       "analysis": "After Odunze exited Thursday's practice with an apparent right leg injury, the wide receiver is opening the Week 1 practice week with an absence. The Bears will release an official practice report Wednesday, and it will be a situation to monitor heading into the weekend ahead of Sunday's season opener against the Panthers. If Odunze can't go against Carolina, Luther Burden (groin) and Colston Loveland would likely see expanded target shares, while Kalif Raymond and rookie Zavion Thomas would be in line for elevated snaps.",
       "description": "Odunze (leg) is not practicing Monday, Courtney Cronin of ESPN.com reports.",
@@ -465,6 +487,26 @@
       "story_id": "nfl|11583|fantasy_pros|606338|1788795341703",
       "title": "Jonathon Brooks works off to side with trainers Monday",
       "url": "https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans tight end Dalton Schultz is one of the easier waiver-wire answers if you need help at tight end for Week 1. He caught a career-high 82 passes on 106 targets last season, and the Texans are already down two receivers before facing Buffalo. Jayden Higgins is out for the year after tearing his ACL, while Tank Dell will begin the season on injured reserve and cannot return until at least Week 5. Houston did trade for Kayshon Boutte, and Nico Collins remains the clear top target. Still, Schultz does not need a huge role change to matter in PPR. He already saw 106 targets last year, and RotoBaller's current Week 1 waiver column has him rostered in only 43% of Yahoo leagues. The three touchdowns from 2025 are a reminder that the ceiling can be frustrating, especially in non-PPR formats. If you drafted the position late and are already looking around, Schultz is an easy enough player to use Sunday.",
+      "metadata": {
+        "description": "Houston Texans tight end Dalton Schultz is one of the easier waiver-wire answers if you need help at tight end for Week 1. He caught a career-high 82 passes on 106 targets last season, and the Texans are already down two receivers before facing Buffalo. Jayden Higgins is out for the year after tearing his ACL, while Tank Dell will begin the season on injured reserve and cannot return until at least Week 5. Houston did trade for Kayshon Boutte, and Nico Collins remains the clear top target. Still, Schultz does not need a huge role change to matter in PPR. He already saw 106 targets last year, and RotoBaller's current Week 1 waiver column has him rostered in only 43% of Yahoo leagues. The three touchdowns from 2025 are a reminder that the ceiling can be frustrating, especially in non-PPR formats. If you drafted the position late and are already looking around, Schultz is an easy enough player to use Sunday.",
+        "title": "Dalton Schultz a Strong PPR Streamer for Week 1",
+        "topic_id": "1402774623505903616",
+        "url": "https://www.rotoballer.com/player-news/dalton-schultz-a-strong-ppr-streamer-for-week-1/1925370"
+      },
+      "nfl_team": "HOU",
+      "player_id": "5001",
+      "player_name": "Dalton Schultz",
+      "position": "TE",
+      "published": 1788795126000,
+      "source": "rotoballer",
+      "source_key": "220288",
+      "story_id": "nfl|5001|rotoballer|220288|1788795126000",
+      "title": "Dalton Schultz a Strong PPR Streamer for Week 1",
+      "url": "https://www.rotoballer.com/player-news/dalton-schultz-a-strong-ppr-streamer-for-week-1/1925370"
     },
     {
       "analysis": null,
