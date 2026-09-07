@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T22:43:58Z",
+  "last_checked_at": "2026-09-07T22:53:57Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13345|rotoballer|220303|1788805805000"
+    "nfl|9753|rotoballer|220304|1788806465000"
   ],
   "schema_version": 1,
   "source": {
@@ -465,6 +465,26 @@
       "story_id": "nfl|6790|rotowire|636343|1788806605000",
       "title": "D'Andre Swift - Back at practice Monday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Updating a previous report, Seattle Seahawks running back Zach Charbonnet (knee) has an \"aggressive\" timetable that he is currently on target to meet as he recovers from a torn ACL that he suffered in last year's postseason, head coach Mike Macdonald told Corbin K. Smith of the Emerald Spectrum. Macdonald said that Charbonnet looks \"dang good.\" Seattle placed Charbonnet on the Physically Unable to Perform list to begin the 2026 season, which means that he will miss at least the first four games. However, this report on Monday suggests that Charbonnet could be a candidate to come off the PUP and make his season debut as early as Week 5 against the division-rival San Francisco 49ers on Oct. 11. Rookie first-rounder Jadarian Price and George Holani are expected to share the backfield to open the year without Charbonnet, but once Charbonnet returns, he should eventually be Seattle's preferred back. He is currently rostered in just over half of Yahoo leagues, but he deserves to be rostered in more formats, especially in leagues that have IR/PUP roster spots. Charbonnet had a bigger role alongside Kenneth Walker (now in KC) last year, carried the ball 184 times for 730 yards and 12 touchdowns while adding 20 catches for 144 yards through the air in 16 regular-season games. Charb has found the end zone on the ground 20 times in the last two years.",
+      "metadata": {
+        "description": "Updating a previous report, Seattle Seahawks running back Zach Charbonnet (knee) has an \"aggressive\" timetable that he is currently on target to meet as he recovers from a torn ACL that he suffered in last year's postseason, head coach Mike Macdonald told Corbin K. Smith of the Emerald Spectrum. Macdonald said that Charbonnet looks \"dang good.\" Seattle placed Charbonnet on the Physically Unable to Perform list to begin the 2026 season, which means that he will miss at least the first four games. However, this report on Monday suggests that Charbonnet could be a candidate to come off the PUP and make his season debut as early as Week 5 against the division-rival San Francisco 49ers on Oct. 11. Rookie first-rounder Jadarian Price and George Holani are expected to share the backfield to open the year without Charbonnet, but once Charbonnet returns, he should eventually be Seattle's preferred back. He is currently rostered in just over half of Yahoo leagues, but he deserves to be rostered in more formats, especially in leagues that have IR/PUP roster spots. Charbonnet had a bigger role alongside Kenneth Walker (now in KC) last year, carried the ball 184 times for 730 yards and 12 touchdowns while adding 20 catches for 144 yards through the air in 16 regular-season games. Charb has found the end zone on the ground 20 times in the last two years.",
+        "title": "Zach Charbonnet On Track With his \"Aggressive\" Return Timetable",
+        "topic_id": "1402822443667599360",
+        "url": "https://www.rotoballer.com/player-news/zach-charbonnet-on-track-with-his-aggressive-return-timetable/1925446"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9753",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
+      "published": 1788806465000,
+      "source": "rotoballer",
+      "source_key": "220304",
+      "story_id": "nfl|9753|rotoballer|220304|1788806465000",
+      "title": "Zach Charbonnet On Track With his \"Aggressive\" Return Timetable",
+      "url": "https://www.rotoballer.com/player-news/zach-charbonnet-on-track-with-his-aggressive-return-timetable/1925446"
     },
     {
       "analysis": null,
