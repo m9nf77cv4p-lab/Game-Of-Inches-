@@ -2,16 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2046**
-- Newly captured: **0**
+- Stored stories: **2049**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Mike Evans** — Mike Evans - Involved in practice Monday (2026-09-07T13:22:12Z)
+  - Wagoner notes that linebacker Nick Bosa (knee) and running back Christian McCaffrey (undisclosed) were the only 49ers players who didn't appear to be mixing into team drills during the open portion of practice, so Evans appears likely to have been at least a limited participant in Monday's session. The 49ers will release their first injury report of the season later Monday, when the extent of Evans' practice participation will be revealed. Evans had his practice activity managed for much of training camp while he contended with a minor quadriceps strain and more recently, an adductor injury.
 - **Tua Tagovailoa** — Tua Tagovailoa - Will start Week 1 (2026-09-07T12:23:28Z)
   - The Falcons were deciding between Tagovailoa and Michael Penix (knee) for the Week 1 starting assignment, and with the latter still getting back up to full speed as he works his way back from a torn ACL, Tagovailoa will get the nod. Tagovailoa likely won't have much leash as a starter, coming off a poor preseason in which he completed 10 of 13 pass attempts for 117 yards while fumbling twice (losing one).
 - **Tua Tagovailoa** — Tua Tagovailoa named Falcons starter (2026-09-07T12:15:40.302000Z)
   - After a camp that was full of negative reports, Tua has managed to win the starting job. Frankly, it's likely by default, as Michael Penix just got back to practice after suffering a torn ACL last season. It will be interesting to see how long Tua can keep the job.
   - Source: https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php
+- **NEW — Mike Washington** — Mike Washington Jr. Has Impressed Ahead of Week 1 (2026-09-07T09:25:13Z)
+  - Source: https://www.rotoballer.com/player-news/mike-washington-jr-has-impressed-ahead-of-week-1/1925004
+- **NEW — Chris Rodriguez** — Chris Rodriguez Jr. Could See Increased Role in Week 1 (2026-09-07T09:15:06Z)
+  - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-could-see-increased-role-in-week-1/1924996
 - **Tua Tagovailoa** — Falcons Name Tua Tagovailoa Week 1 Starter (2026-09-07T08:22:11Z)
   - Source: https://www.rotoballer.com/player-news/falcons-name-tua-tagovailoa-week-1-starter/1924969
 - **Christian McCaffrey** — Christian McCaffrey - Sitting out early drills Monday (2026-09-07T05:57:03Z)
@@ -207,9 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jonathon-brooks-stock-back-on-the-rise-amidst-improved-health-outlook/1923872
 - **Kenneth Walker** — Kenneth Walker Could Be Poised for Monster Year in Kansas City (2026-09-05T11:20:05Z)
   - Source: https://www.rotoballer.com/player-news/kenneth-walker-iii-could-be-poised-for-monster-year-in-kansas-city/1923865
-- **Emeka Egbuka** — Emeka Egbuka's Stock Falling Amidst Injury Uncertainty? (2026-09-05T11:14:05Z)
-  - Source: https://www.rotoballer.com/player-news/emeka-egbukas-stock-falling-amidst-injury-uncertainty/1923862
-- **Ashton Jeanty** — Ashton Jeanty A Riskier Pick Due to Ankle Injury (2026-09-05T11:01:05Z)
-  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-a-risky-pick-now-with-injury-emergence-of-mike-washington-jr/1923852
-- **Jaxson Dart** — Jaxson Dart Feeling More Comfortable In Giants Offense (2026-09-05T10:45:05Z)
-  - Source: https://www.rotoballer.com/player-news/jaxson-dart-feeling-more-comfortable-in-giants-offense/1923844

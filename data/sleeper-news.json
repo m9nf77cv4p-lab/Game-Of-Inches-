@@ -1,8 +1,12 @@
 {
-  "last_checked_at": "2026-09-07T13:20:45Z",
+  "last_checked_at": "2026-09-07T13:36:05Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|10219|rotoballer|220249|1788772506000",
+    "nfl|13305|rotoballer|220250|1788773113000",
+    "nfl|2216|rotowire|636329|1788787332000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Wagoner notes that linebacker Nick Bosa (knee) and running back Christian McCaffrey (undisclosed) were the only 49ers players who didn't appear to be mixing into team drills during the open portion of practice, so Evans appears likely to have been at least a limited participant in Monday's session. The 49ers will release their first injury report of the season later Monday, when the extent of Evans' practice participation will be revealed. Evans had his practice activity managed for much of training camp while he contended with a minor quadriceps strain and more recently, an adductor injury.",
+      "description": "Evans (adductor) was spotted on the field in full uniform during the open portion of Monday's practice in Melbourne, Australia, Nick Wagoner of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Wagoner notes that linebacker Nick Bosa (knee) and running back Christian McCaffrey (undisclosed) were the only 49ers players who didn't appear to be mixing into team drills during the open portion of practice, so Evans appears likely to have been at least a limited participant in Monday's session. The 49ers will release their first injury report of the season later Monday, when the extent of Evans' practice participation will be revealed. Evans had his practice activity managed for much of training camp while he contended with a minor quadriceps strain and more recently, an adductor injury.",
+        "description": "Evans (adductor) was spotted on the field in full uniform during the open portion of Monday's practice in Melbourne, Australia, Nick Wagoner of ESPN.com reports.",
+        "title": "Mike Evans - Involved in practice Monday",
+        "topic_id": "1402680241792540672"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1788787332000,
+      "source": "rotowire",
+      "source_key": "636329",
+      "story_id": "nfl|2216|rotowire|636329|1788787332000",
+      "title": "Mike Evans - Involved in practice Monday",
+      "url": null
+    },
     {
       "analysis": "The Falcons were deciding between Tagovailoa and Michael Penix (knee) for the Week 1 starting assignment, and with the latter still getting back up to full speed as he works his way back from a torn ACL, Tagovailoa will get the nod. Tagovailoa likely won't have much leash as a starter, coming off a poor preseason in which he completed 10 of 13 pass attempts for 117 yards while fumbling twice (losing one).",
       "description": "The Falcons will have Tagovailoa start at quarterback in Sunday's season opener against the Steelers, Tom Pelissero of Netflix reports.",
@@ -51,6 +75,46 @@
       "story_id": "nfl|6768|fantasy_pros|606317|1788783340302",
       "title": "Tua Tagovailoa named Falcons starter",
       "url": "https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders rookie running back Mike Washington Jr. put on a show during the preseason and is expected to have a role in the backfield this season. In three preseason games, Washington totaled 23 carries for 168 yards and a touchdown, averaging a whopping 7.3 yards per carry. There were reports that head coach Klint Kubiak was \"jumping on the table\" to draft the former Razorback running back. With Kubiak's history in Seattle running a two-back committee, Washington will have a role this season. While things are trending up for second-year back Ashton Jeanty (ankle), who suffered what appeared to be a serious injury in practice on August 23rd, Washington should still produce against the Miami Dolphins, who allowed the seventh-most fantasy points to running backs last season. While he's not a startable option for fantasy managers if Jeanty is active, the rookie running back offers upside as a handcuff option behind the already banged-up Jeanty.",
+      "metadata": {
+        "description": "Las Vegas Raiders rookie running back Mike Washington Jr. put on a show during the preseason and is expected to have a role in the backfield this season. In three preseason games, Washington totaled 23 carries for 168 yards and a touchdown, averaging a whopping 7.3 yards per carry. There were reports that head coach Klint Kubiak was \"jumping on the table\" to draft the former Razorback running back. With Kubiak's history in Seattle running a two-back committee, Washington will have a role this season. While things are trending up for second-year back Ashton Jeanty (ankle), who suffered what appeared to be a serious injury in practice on August 23rd, Washington should still produce against the Miami Dolphins, who allowed the seventh-most fantasy points to running backs last season. While he's not a startable option for fantasy managers if Jeanty is active, the rookie running back offers upside as a handcuff option behind the already banged-up Jeanty.",
+        "title": "Mike Washington Jr. Has Impressed Ahead of Week 1",
+        "topic_id": "1402682757917777920",
+        "url": "https://www.rotoballer.com/player-news/mike-washington-jr-has-impressed-ahead-of-week-1/1925004"
+      },
+      "nfl_team": "LV",
+      "player_id": "13305",
+      "player_name": "Mike Washington",
+      "position": "RB",
+      "published": 1788773113000,
+      "source": "rotoballer",
+      "source_key": "220250",
+      "story_id": "nfl|13305|rotoballer|220250|1788773113000",
+      "title": "Mike Washington Jr. Has Impressed Ahead of Week 1",
+      "url": "https://www.rotoballer.com/player-news/mike-washington-jr-has-impressed-ahead-of-week-1/1925004"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. could see a larger workload in Week 1, with LeQuint Allen Jr. questionable due to a soft tissue injury. Allen suffered an undisclosed injury during training camp more than two weeks ago and has not practiced since. He was expected to handle obvious passing downs, but with him questionable, Rodriguez could take on more of that role given his knack for pass protection. With the Commanders last season, Rodriguez had 112 carries for 500 yards and six touchdowns in 13 games. Now with Jacksonville, he is expected to be the short-yardage back while second-year back Bhayshul Tuten handles early-down work. A short-yardage back could have a strong day against the Cleveland Browns, who are the biggest underdogs in Week 1. With plenty of scoring opportunities in Jacksonville, Rodriguez could be a low-end FLEX in Week 1, and fantasy managers should consider adding him, especially as a handcuff to Tuten.",
+      "metadata": {
+        "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. could see a larger workload in Week 1, with LeQuint Allen Jr. questionable due to a soft tissue injury. Allen suffered an undisclosed injury during training camp more than two weeks ago and has not practiced since. He was expected to handle obvious passing downs, but with him questionable, Rodriguez could take on more of that role given his knack for pass protection. With the Commanders last season, Rodriguez had 112 carries for 500 yards and six touchdowns in 13 games. Now with Jacksonville, he is expected to be the short-yardage back while second-year back Bhayshul Tuten handles early-down work. A short-yardage back could have a strong day against the Cleveland Browns, who are the biggest underdogs in Week 1. With plenty of scoring opportunities in Jacksonville, Rodriguez could be a low-end FLEX in Week 1, and fantasy managers should consider adding him, especially as a handcuff to Tuten.",
+        "title": "Chris Rodriguez Jr. Could See Increased Role in Week 1",
+        "topic_id": "1402680240500674560",
+        "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-could-see-increased-role-in-week-1/1924996"
+      },
+      "nfl_team": "JAX",
+      "player_id": "10219",
+      "player_name": "Chris Rodriguez",
+      "position": "RB",
+      "published": 1788772506000,
+      "source": "rotoballer",
+      "source_key": "220249",
+      "story_id": "nfl|10219|rotoballer|220249|1788772506000",
+      "title": "Chris Rodriguez Jr. Could See Increased Role in Week 1",
+      "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-could-see-increased-role-in-week-1/1924996"
     },
     {
       "analysis": null,
