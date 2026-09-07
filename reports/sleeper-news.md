@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2084**
-- Newly captured: **3**
+- Stored stories: **2086**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Jalen McMillan** — Jalen McMillan - On field for Monday's practice (2026-09-07T18:15:23Z)
+- **Jalen McMillan** — Jalen McMillan - On field for Monday's practice (2026-09-07T18:15:23Z)
   - Both McMillan and Emeka Egbuka (toe) were participating in Monday's session, putting both in good position to play Sunday against the Bengals. McMillan missed most of training camp, but his injury never sounded serious. He's expected to compete with rookie Ted Hurst for WR3 duties behind Egbuka and Chris Godwin this season. McMillan is the favorite to open the campaign in three-wide sets.
 - **Ja'Marr Chase** — Ja'Marr Chase (knee) returns to practice Monday  (2026-09-07T17:45:42.459000Z)
   - Chase was sidelined last week after suffering a hyperextended knee in practice. The superstar wideout will look to increase his activity throughout the week ahead of a Week 1 matchup against the Tampa Buccaneers.
@@ -45,9 +45,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php
 - **Michael Penix** — Michael Penix - Will be inactive for opener (2026-09-07T15:00:51Z)
   - While addressing the media shortly after the Falcons named Tua Tagovailoa their Week 1 starter Monday, Stefanski noted that Penix had taken part in only six 11-on-11 practices during training camp, so the third-year quarterback will need some more time to get back to full speed following last November's ACL tear before making his 2026 debut, per Raimondi. The Falcons were pleased enough with Penix's progress to wait until less than a week before the season opener to name a starter, which suggests that he'll likely get a chance to supplant Tagovailoa atop the depth chart at some point this season. While Penix is in street clothes for Week 1, Cooper Rush will step in as Tagovailoa's backup, and undrafted rookie Jack Strand will serve as the No. 3 quarterback.
-- **NEW — Ja'Marr Chase** — Ja'Marr Chase Practicing on Monday (2026-09-07T14:15:05Z)
+- **NEW — Jacob Saylors** — Jacob Saylors, Sione Vaki to Split RB2 Role in Detroit (2026-09-07T14:30:04Z)
+  - Source: https://www.rotoballer.com/player-news/jacob-saylors-sione-vaki-to-split-rb2-role-in-detroit/1925315
+- **NEW — Tee Higgins** — Tee Higgins Seen Practicing on Monday (2026-09-07T14:20:06Z)
+  - Source: https://www.rotoballer.com/player-news/tee-higgins-seen-practicing-on-monday/1925303
+- **Ja'Marr Chase** — Ja'Marr Chase Practicing on Monday (2026-09-07T14:15:05Z)
   - Source: https://www.rotoballer.com/player-news/jamarr-chase-practicing-on-monday/1925300
-- **NEW — TreVeyon Henderson** — "Hard to Imagine" That TreVeyon Henderson Plays in Week 1 (2026-09-07T14:10:06Z)
+- **TreVeyon Henderson** — "Hard to Imagine" That TreVeyon Henderson Plays in Week 1 (2026-09-07T14:10:06Z)
   - Source: https://www.rotoballer.com/player-news/hard-to-imagine-that-treveyon-henderson-plays-in-week-1/1925298
 - **De'Von Achane** — De'Von Achane Expected to See Another Significant Workload (2026-09-07T13:51:12Z)
   - Source: https://www.rotoballer.com/player-news/devon-achane-expected-to-see-another-significant-workload/1925258
@@ -216,7 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/najee-harris-draws-positive-reports-in-giants-camp/1924468
 - **Kyle Pitts** — Kyle Pitts Sr. Looking to Build Off Last Season and This Preseason (2026-09-06T09:42:07Z)
   - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-looking-to-build-off-last-season-and-this-preseason/1924460
-- **Brock Purdy** — Brock Purdy to Benefit From Increased Mobility, Strong Supporting Cast (2026-09-06T09:27:06Z)
-  - Source: https://www.rotoballer.com/player-news/brock-purdy-to-benefit-from-increased-mobility-strong-supporting-cast/1924450
-- **Jacoby Brissett** — Jacoby Brissett a Sleeper with Talented Supporting Cast (2026-09-06T01:21:05Z)
-  - Source: https://www.rotoballer.com/player-news/jacoby-brissett-a-sleeper-with-talented-supporting-cast/1924357

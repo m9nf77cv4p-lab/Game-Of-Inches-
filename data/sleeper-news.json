@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-07T18:25:31Z",
+  "last_checked_at": "2026-09-07T18:43:01Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11618|rotowire|636339|1788804923000",
-    "nfl|12529|rotoballer|220277|1788790206000",
-    "nfl|7564|rotoballer|220278|1788790505000"
+    "nfl|11237|rotoballer|220280|1788791404000",
+    "nfl|6801|rotoballer|220279|1788790806000"
   ],
   "schema_version": 1,
   "source": {
@@ -322,6 +321,46 @@
       "story_id": "nfl|11559|rotowire|636331|1788793251000",
       "title": "Michael Penix - Will be inactive for opener",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions head coach Dan Campbell said on Monday that the team's RB2 role behind starter Jahmyr Gibbs will be by committee, according to Brad Galli. Campbell thinks that both Jacob Saylors and Sione Vaki will be ready when Gibbs needs a breather. The head coach sees Vaki getting carries, but knows that Saylors will contribute on offense and special teams. The news makes it hard for fantasy managers in deeper leagues to pinpoint the preferred handcuff option for Gibbs. For what it is worth, Vaki is not currently rostered in any Yahoo leagues, while Saylors is rostered in just 2% of leagues. Vaki, a former fourth-rounder from Utah in 2024, has seen only seven carries for 18 yards and has three catches for 37 yards in 27 games (zero starts) in his first two NFL seasons. Saylors, a former undrafted free agent out of East Tennessee State, ran the ball twice for 11 yards last year and was not targeted as a receiver. Neither RB will have any standalone fantasy appeal as long as Gibbs is healthy, and if Gibbs misses time with an injury, Vaki and Saylors would likely split the backfield down the middle.",
+      "metadata": {
+        "description": "Detroit Lions head coach Dan Campbell said on Monday that the team's RB2 role behind starter Jahmyr Gibbs will be by committee, according to Brad Galli. Campbell thinks that both Jacob Saylors and Sione Vaki will be ready when Gibbs needs a breather. The head coach sees Vaki getting carries, but knows that Saylors will contribute on offense and special teams. The news makes it hard for fantasy managers in deeper leagues to pinpoint the preferred handcuff option for Gibbs. For what it is worth, Vaki is not currently rostered in any Yahoo leagues, while Saylors is rostered in just 2% of leagues. Vaki, a former fourth-rounder from Utah in 2024, has seen only seven carries for 18 yards and has three catches for 37 yards in 27 games (zero starts) in his first two NFL seasons. Saylors, a former undrafted free agent out of East Tennessee State, ran the ball twice for 11 yards last year and was not targeted as a receiver. Neither RB will have any standalone fantasy appeal as long as Gibbs is healthy, and if Gibbs misses time with an injury, Vaki and Saylors would likely split the backfield down the middle.",
+        "title": "Jacob Saylors, Sione Vaki to Split RB2 Role in Detroit",
+        "topic_id": "1402758262935269376",
+        "url": "https://www.rotoballer.com/player-news/jacob-saylors-sione-vaki-to-split-rb2-role-in-detroit/1925315"
+      },
+      "nfl_team": "DET",
+      "player_id": "11237",
+      "player_name": "Jacob Saylors",
+      "position": "RB",
+      "published": 1788791404000,
+      "source": "rotoballer",
+      "source_key": "220280",
+      "story_id": "nfl|11237|rotoballer|220280|1788791404000",
+      "title": "Jacob Saylors, Sione Vaki to Split RB2 Role in Detroit",
+      "url": "https://www.rotoballer.com/player-news/jacob-saylors-sione-vaki-to-split-rb2-role-in-detroit/1925315"
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals wide receiver Tee Higgins (heel) was back on the practice field on Monday, according to The Cincinnati Enquirer's Kelsey Conway. In addition to Higgins, star wideout Ja'Marr Chase (knee) was also participating in the portion of practice open to the media. Both wideouts could be limited, but the fact that they are both practicing early in the week bodes well for their availability in the Week 1 season opener on Sunday, Sept. 13, against the Tampa Bay Buccaneers. Head coach Zac Taylor said early last week that Higgins was dealing with a minor bruised heel, so the 27-year-old has never really been in danger of missing the start of the 2026 campaign this weekend. The former second-rounder was a first-time Pro Bowler in 2025, catching 59 of his 98 targets for 846 yards and a career-high 11 touchdowns in only 15 games played. Higgins also had 10 TDs the year prior, and he will be a must-start in all fantasy football formats this Sunday against the Bucs if he is active, as is expected. Fantasy managers will want to check back in on Cincy's first official practice report of the year on Wednesday for a better idea of Higgins' status.",
+      "metadata": {
+        "description": "Cincinnati Bengals wide receiver Tee Higgins (heel) was back on the practice field on Monday, according to The Cincinnati Enquirer's Kelsey Conway. In addition to Higgins, star wideout Ja'Marr Chase (knee) was also participating in the portion of practice open to the media. Both wideouts could be limited, but the fact that they are both practicing early in the week bodes well for their availability in the Week 1 season opener on Sunday, Sept. 13, against the Tampa Bay Buccaneers. Head coach Zac Taylor said early last week that Higgins was dealing with a minor bruised heel, so the 27-year-old has never really been in danger of missing the start of the 2026 campaign this weekend. The former second-rounder was a first-time Pro Bowler in 2025, catching 59 of his 98 targets for 846 yards and a career-high 11 touchdowns in only 15 games played. Higgins also had 10 TDs the year prior, and he will be a must-start in all fantasy football formats this Sunday against the Bucs if he is active, as is expected. Fantasy managers will want to check back in on Cincy's first official practice report of the year on Wednesday for a better idea of Higgins' status.",
+        "title": "Tee Higgins Seen Practicing on Monday",
+        "topic_id": "1402755746294173696",
+        "url": "https://www.rotoballer.com/player-news/tee-higgins-seen-practicing-on-monday/1925303"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6801",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "published": 1788790806000,
+      "source": "rotoballer",
+      "source_key": "220279",
+      "story_id": "nfl|6801|rotoballer|220279|1788790806000",
+      "title": "Tee Higgins Seen Practicing on Monday",
+      "url": "https://www.rotoballer.com/player-news/tee-higgins-seen-practicing-on-monday/1925303"
     },
     {
       "analysis": null,
