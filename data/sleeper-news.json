@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-09-07T19:10:08Z",
+  "last_checked_at": "2026-09-07T19:24:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11620|rotowire|636345|1788806929000",
-    "nfl|12534|rotoballer|220282|1788792545000",
-    "nfl|6790|rotoballer|220283|1788792906000"
+    "nfl|11620|rotoballer|220284|1788793528000",
+    "nfl|12504|rotoballer|220285|1788793781000",
+    "nfl|5872|rotoballer|220286|1788794234000"
   ],
   "schema_version": 1,
   "source": {
@@ -467,6 +467,66 @@
       "story_id": "nfl|11583|fantasy_pros|606338|1788795341703",
       "title": "Jonathon Brooks works off to side with trainers Monday",
       "url": "https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. is more than a bench stash for fantasy managers who can still find him on waivers. He's back in a familiar offense and opens the season with a real role after Ricky Pearsall and Christian Kirk landed on injured reserve. San Francisco's current depth chart has Samuel with the first team, and he showed during camp that the reunion wasn't just for show, catching five passes and scoring twice during team work in the Aug. 11 joint practice with Tennessee. Samuel also wasn't finished last season, catching 72 passes for 727 yards and five touchdowns with Washington while adding another score on the ground. Mike Evans, George Kittle and Christian McCaffrey will keep this offense crowded, but Samuel doesn't need huge target volume to be useful. RotoBaller has him seventh among its pre-Week 1 wide receiver pickups and WR40 for the opener. He's a strong add in 10-team PPR leagues and can already be considered for a FLEX spot.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. is more than a bench stash for fantasy managers who can still find him on waivers. He's back in a familiar offense and opens the season with a real role after Ricky Pearsall and Christian Kirk landed on injured reserve. San Francisco's current depth chart has Samuel with the first team, and he showed during camp that the reunion wasn't just for show, catching five passes and scoring twice during team work in the Aug. 11 joint practice with Tennessee. Samuel also wasn't finished last season, catching 72 passes for 727 yards and five touchdowns with Washington while adding another score on the ground. Mike Evans, George Kittle and Christian McCaffrey will keep this offense crowded, but Samuel doesn't need huge target volume to be useful. RotoBaller has him seventh among its pre-Week 1 wide receiver pickups and WR40 for the opener. He's a strong add in 10-team PPR leagues and can already be considered for a FLEX spot.",
+        "title": "Deebo Samuel Sr. Offers Immediate Waiver-Wire Appeal",
+        "topic_id": "1402769589632299008",
+        "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-offers-immediate-waiver-wire-appeal/1925355"
+      },
+      "nfl_team": "SF",
+      "player_id": "5872",
+      "player_name": "Deebo Samuel",
+      "position": "WR",
+      "published": 1788794234000,
+      "source": "rotoballer",
+      "source_key": "220286",
+      "story_id": "nfl|5872|rotoballer|220286|1788794234000",
+      "title": "Deebo Samuel Sr. Offers Immediate Waiver-Wire Appeal",
+      "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-offers-immediate-waiver-wire-appeal/1925355"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back Kaleb Johnson is worth keeping an eye on while Josh Jacobs remains unavailable. The Packers traded a 2028 sixth-round pick for Johnson on Aug. 30 after his quiet rookie season in Pittsburgh, where he managed only 69 yards on 28 carries. The opportunity in Green Bay is better. MarShawn Lloyd should get the first crack at leading the backfield, but Johnson has already worked alongside him with the first-team offense, while Chris Brooks is better suited for passing-down work. Johnson also has some familiarity with Matt LaFleur's system after playing in a similar offense during his final season at Iowa. None of that makes him a Week 1 starter, and RotoBaller currently has him at RB70 for the opener against Minnesota. The waiver outlook is more interesting than the immediate lineup value. RotoBaller recommends Johnson in leagues with 14 or more teams, which fits where things stand. He's a speculative stash with a path to more work if this backfield stays unsettled.",
+      "metadata": {
+        "description": "Green Bay Packers running back Kaleb Johnson is worth keeping an eye on while Josh Jacobs remains unavailable. The Packers traded a 2028 sixth-round pick for Johnson on Aug. 30 after his quiet rookie season in Pittsburgh, where he managed only 69 yards on 28 carries. The opportunity in Green Bay is better. MarShawn Lloyd should get the first crack at leading the backfield, but Johnson has already worked alongside him with the first-team offense, while Chris Brooks is better suited for passing-down work. Johnson also has some familiarity with Matt LaFleur's system after playing in a similar offense during his final season at Iowa. None of that makes him a Week 1 starter, and RotoBaller currently has him at RB70 for the opener against Minnesota. The waiver outlook is more interesting than the immediate lineup value. RotoBaller recommends Johnson in leagues with 14 or more teams, which fits where things stand. He's a speculative stash with a path to more work if this backfield stays unsettled.",
+        "title": "Kaleb Johnson Worth Stashing in Deeper Leagues",
+        "topic_id": "1402768330992955392",
+        "url": "https://www.rotoballer.com/player-news/kaleb-johnson-worth-stashing-in-deeper-leagues/1925345"
+      },
+      "nfl_team": "GB",
+      "player_id": "12504",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "published": 1788793781000,
+      "source": "rotoballer",
+      "source_key": "220285",
+      "story_id": "nfl|12504|rotoballer|220285|1788793781000",
+      "title": "Kaleb Johnson Worth Stashing in Deeper Leagues",
+      "url": "https://www.rotoballer.com/player-news/kaleb-johnson-worth-stashing-in-deeper-leagues/1925345"
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears wide receiver Rome Odunze (leg) was the only player missing from Monday's brisk, 50-minute practice, according to Brad Biggs of The Chicago Tribune. Odunze is still not back on the practice field after leaving Thursday's practice early with a right-leg injury. The 24-year-old's status will be closely monitored heading into the team's Week 1 regular-season opener this Sunday against the Carolina Panthers. We should have a better read on the former first-rounder's status for this coming weekend once the Bears release their first official practice report of the season on Wednesday. But for now, Odunze's status is firmly up in the air. If he is limited or out against the Panthers, receivers Luther Burden III (groin), Kalif Raymond, and Zavion Thomas could all see extra targets, as well as tight end Colston Loveland. Odunze regressed with 44 catches and 661 receiving yards in his sophomore season in 2025 while playing in just 12 games due to a foot injury, but he also had a career-high six receiving touchdowns, and he is expected to have a bigger role in 2026 with DJ Moore out of the picture. As of right now, Odunze is shaping up as a shaky WR3/flex in Week 1 in fantasy because of his leg injury.",
+      "metadata": {
+        "description": "Chicago Bears wide receiver Rome Odunze (leg) was the only player missing from Monday's brisk, 50-minute practice, according to Brad Biggs of The Chicago Tribune. Odunze is still not back on the practice field after leaving Thursday's practice early with a right-leg injury. The 24-year-old's status will be closely monitored heading into the team's Week 1 regular-season opener this Sunday against the Carolina Panthers. We should have a better read on the former first-rounder's status for this coming weekend once the Bears release their first official practice report of the season on Wednesday. But for now, Odunze's status is firmly up in the air. If he is limited or out against the Panthers, receivers Luther Burden III (groin), Kalif Raymond, and Zavion Thomas could all see extra targets, as well as tight end Colston Loveland. Odunze regressed with 44 catches and 661 receiving yards in his sophomore season in 2025 while playing in just 12 games due to a foot injury, but he also had a career-high six receiving touchdowns, and he is expected to have a bigger role in 2026 with DJ Moore out of the picture. As of right now, Odunze is shaping up as a shaky WR3/flex in Week 1 in fantasy because of his leg injury.",
+        "title": "Rome Odunze Missing From Monday's Practice",
+        "topic_id": "1402767074555666432",
+        "url": "https://www.rotoballer.com/player-news/rome-odunze-missing-from-mondays-practice/1925342"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1788793528000,
+      "source": "rotoballer",
+      "source_key": "220284",
+      "story_id": "nfl|11620|rotoballer|220284|1788793528000",
+      "title": "Rome Odunze Missing From Monday's Practice",
+      "url": "https://www.rotoballer.com/player-news/rome-odunze-missing-from-mondays-practice/1925342"
     },
     {
       "analysis": "While addressing the media shortly after the Falcons named Tua Tagovailoa their Week 1 starter Monday, Stefanski noted that Penix had taken part in only six 11-on-11 practices during training camp, so the third-year quarterback will need some more time to get back to full speed following last November's ACL tear before making his 2026 debut, per Raimondi. The Falcons were pleased enough with Penix's progress to wait until less than a week before the season opener to name a starter, which suggests that he'll likely get a chance to supplant Tagovailoa atop the depth chart at some point this season. While Penix is in street clothes for Week 1, Cooper Rush will step in as Tagovailoa's backup, and undrafted rookie Jack Strand will serve as the No. 3 quarterback.",

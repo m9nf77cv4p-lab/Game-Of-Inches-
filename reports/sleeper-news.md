@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2096**
+- Stored stories: **2099**
 - Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Rome Odunze** — Rome Odunze - Not practicing Monday (2026-09-07T18:48:49Z)
+- **Rome Odunze** — Rome Odunze - Not practicing Monday (2026-09-07T18:48:49Z)
   - After Odunze exited Thursday's practice with an apparent right leg injury, the wide receiver is opening the Week 1 practice week with an absence. The Bears will release an official practice report Wednesday, and it will be a situation to monitor heading into the weekend ahead of Sunday's season opener against the Panthers. If Odunze can't go against Carolina, Luther Burden (groin) and Colston Loveland would likely see expanded target shares, while Kalif Raymond and rookie Zavion Thomas would be in line for elevated snaps.
 - **D'Andre Swift** — D'Andre Swift at practice Monday  (2026-09-07T18:45:42.981000Z)
   - Swift left practice early last week due to what was reported to be a cramp. His presence at practice on Monday is a good sign for his status heading into this week's season opener. 
@@ -64,11 +64,17 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jonathon Brooks** — Jonathon Brooks works off to side with trainers Monday (2026-09-07T15:35:41.703000Z)
   - Head coach Dave Canales said last week that he was "very optimistic" that Brooks would play in Week 1. It remains unclear what the exact injury is that he is dealing with. His status will need to continue to be monitored the rest of the week. 
   - Source: https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php
+- **NEW — Deebo Samuel** — Deebo Samuel Sr. Offers Immediate Waiver-Wire Appeal (2026-09-07T15:17:14Z)
+  - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-offers-immediate-waiver-wire-appeal/1925355
+- **NEW — Kaleb Johnson** — Kaleb Johnson Worth Stashing in Deeper Leagues (2026-09-07T15:09:41Z)
+  - Source: https://www.rotoballer.com/player-news/kaleb-johnson-worth-stashing-in-deeper-leagues/1925345
+- **NEW — Rome Odunze** — Rome Odunze Missing From Monday's Practice (2026-09-07T15:05:28Z)
+  - Source: https://www.rotoballer.com/player-news/rome-odunze-missing-from-mondays-practice/1925342
 - **Michael Penix** — Michael Penix - Will be inactive for opener (2026-09-07T15:00:51Z)
   - While addressing the media shortly after the Falcons named Tua Tagovailoa their Week 1 starter Monday, Stefanski noted that Penix had taken part in only six 11-on-11 practices during training camp, so the third-year quarterback will need some more time to get back to full speed following last November's ACL tear before making his 2026 debut, per Raimondi. The Falcons were pleased enough with Penix's progress to wait until less than a week before the season opener to name a starter, which suggests that he'll likely get a chance to supplant Tagovailoa atop the depth chart at some point this season. While Penix is in street clothes for Week 1, Cooper Rush will step in as Tagovailoa's backup, and undrafted rookie Jack Strand will serve as the No. 3 quarterback.
-- **NEW — D'Andre Swift** — D'Andre Swift Returns to Practice on Monday (2026-09-07T14:55:06Z)
+- **D'Andre Swift** — D'Andre Swift Returns to Practice on Monday (2026-09-07T14:55:06Z)
   - Source: https://www.rotoballer.com/player-news/dandre-swift-returns-to-practice-on-monday/1925336
-- **NEW — Kyle Monangai** — Kyle Monangai Back at Practice on Monday (2026-09-07T14:49:05Z)
+- **Kyle Monangai** — Kyle Monangai Back at Practice on Monday (2026-09-07T14:49:05Z)
   - Source: https://www.rotoballer.com/player-news/kyle-monangai-back-at-practice-on-monday/1925331
 - **Jacob Saylors** — Jacob Saylors, Sione Vaki to Split RB2 Role in Detroit (2026-09-07T14:30:04Z)
   - Source: https://www.rotoballer.com/player-news/jacob-saylors-sione-vaki-to-split-rb2-role-in-detroit/1925315
@@ -219,9 +225,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/theo-johnsons-redraft-stock-has-slipped/1924632
 - **Marvin Harrison** — Marvin Harrison Jr. Impacted by Teammate's Extension (2026-09-06T12:41:19Z)
   - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-s-fantasy-stock-impacted-by-teammates-extension/1924622
-- **Kaytron Allen** — Kaytron Allen Faces an Uphill Battle to Earn Playing Time (2026-09-06T12:36:05Z)
-  - Source: https://www.rotoballer.com/player-news/kaytron-allen-faces-an-uphill-battle-to-earn-playing-time/1924620
-- **Jalen Coker** — Jalen Coker Has a Clear Path to High Target Share (2026-09-06T12:30:09Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-coker-has-a-clear-path-to-high-target-share/1924617
-- **Christian Watson** — Christian Watson the Primary Beneficiary of Packers' Pass-Heavy Approach (2026-09-06T12:18:06Z)
-  - Source: https://www.rotoballer.com/player-news/christian-watson-the-primary-beneficiary-of-packers-pass-heavy-approach/1924610
