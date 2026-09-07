@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2030**
+- Stored stories: **2031**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Misses Sunday's practice (2026-09-06T23:31:39Z)
+- **NEW — Tory Horton** — Tory Horton - Dealing with hamstring injury (2026-09-06T23:50:12Z)
+  - Coach Mike Macdonald relayed on Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.
+- **TreVeyon Henderson** — TreVeyon Henderson - Misses Sunday's practice (2026-09-06T23:31:39Z)
   - Henderson suffered a minor right ankle injury on Aug. 24 and hasn't been able to practice since then. After Sunday's absence, he'll have two more chances to mix into drills before the Patriots potentially make a ruling on his status for Week 1 when they post Tuesday's injury report. If Henderson isn't able to suit up for Wednesday's season opener at Seattle, Rhamondre Stevenson would be in line to handle the bulk of the backfield reps for New England, with Corey Kiner and practice-squad members Lan Larison and Hassan Haskins the potential candidates for complementary work, per Mike Reiss of ESPN.com.
 - **George Kittle** — George Kittle - In line to practice Monday (2026-09-06T22:04:37Z)
   - Kittle has made a speedy recovery from the torn right Achilles that he suffered in the 49ers' wild-card win at Philadelphia on Jan. 11, for which he underwent surgery three days later. Both GM John Lynch and coach Kyle Shanahan and the tight end himself expressed optimism in the offseason about Kittle being available Week 1 against the Rams, and his activation from the active/PUP list on Aug. 23 begin to set the stage for such a reality. Kittle then logged team drills last week and made the trip to Australia with his teammates. The 49ers will post their first injury report of the season Monday, which will reveal how much activity he was able to manage.
@@ -212,5 +214,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-a-top-running-back-target-in-the-later-rounds/1923684
 - **Stefon Diggs** — Stefon Diggs Set for High-Volume Role in Washington (2026-09-04T23:52:06Z)
   - Source: https://www.rotoballer.com/player-news/stefon-diggs-set-for-high-volume-role-in-washington/1923681
-- **Jahmyr Gibbs** — Jahmyr Gibbs the Consensus 1.01 in Fantasy Drafts (2026-09-04T23:26:26Z)
-  - Source: https://www.rotoballer.com/player-news/jahmyr-gibbs-the-consensus-1-01-in-fantasy-drafts/1923678
