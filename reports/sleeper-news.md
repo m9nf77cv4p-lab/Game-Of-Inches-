@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2036**
-- Newly captured: **1**
+- Stored stories: **2038**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -17,7 +17,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Coach Mike Macdonald relayed on Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.
 - **TreVeyon Henderson** — TreVeyon Henderson - Misses Sunday's practice (2026-09-06T23:31:39Z)
   - Henderson suffered a minor right ankle injury on Aug. 24 and hasn't been able to practice since then. After Sunday's absence, he'll have two more chances to mix into drills before the Patriots potentially make a ruling on his status for Week 1 when they post Tuesday's injury report. If Henderson isn't able to suit up for Wednesday's season opener at Seattle, Rhamondre Stevenson would be in line to handle the bulk of the backfield reps for New England, with Corey Kiner and practice-squad members Lan Larison and Hassan Haskins the potential candidates for complementary work, per Mike Reiss of ESPN.com.
-- **NEW — Demond Claiborne** — Demond Claiborne Unlikely to See Significant Action (2026-09-06T22:30:09Z)
+- **NEW — James Conner** — James Conner is Avoidable in Redraft Formats (2026-09-06T22:46:12Z)
+  - Source: https://www.rotoballer.com/player-news/james-conner-is-avoidable-in-redraft-formats/1924893
+- **NEW — Kimani Vidal** — Kimani Vidal Gets Praised for his Pass Protection (2026-09-06T22:38:09Z)
+  - Source: https://www.rotoballer.com/player-news/kimani-vidal-gets-praised-for-his-pass-protection/1924891
+- **Demond Claiborne** — Demond Claiborne Unlikely to See Significant Action (2026-09-06T22:30:09Z)
   - Source: https://www.rotoballer.com/player-news/demond-claiborne-unlikely-to-see-significant-action/1924880
 - **Marvin Mims** — Marvin Mims Jr. Could See Reduced Role (2026-09-06T22:23:43Z)
   - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-could-see-reduced-role/1924878
@@ -208,9 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/josh-downs-looks-well-positioned-for-a-resurgent-season-in-indianapolis/1923796
 - **Kyren Williams** — Kyren Williams May Face Reduced Role in Rams Offense in 2026 (2026-09-05T09:12:06Z)
   - Source: https://www.rotoballer.com/player-news/kyren-williams-may-face-reduced-role-in-rams-offense-in-2026/1923781
-- **Josh Jacobs** — Josh Jacobs has court appearance date moved up (2026-09-05T04:30:16.442000Z)
-  - Jacobs was charged with battery and criminal destruction of property and is scheduled to appear at the Brown County courthouse on Sept. 10, multiple days before Green Bay's season opener against Minnesota. It is unclear how this will affect his return timeline; Jacobs is currently on the commissioner's exempt list, with a potential suspension looming.
-  - Source: https://www.fantasypros.com/nfl/news/605957/josh-jacobs-has-court-appearance-date-moved-up.php
-- **Parker Washington** — Parker Washington, Jaguars remain in contract talks (2026-09-05T04:20:15.588000Z)
-  - Gladstone said the team would not hesitate to carry contract discussions into the regular season as they aim to finalize a deal with their breakout wideout. Washington had 58 receptions for 847 yards and five touchdowns last season and carries an expert consensus ranking of WR29, according to FantasPros, into his fourth NFL season.
-  - Source: https://www.fantasypros.com/nfl/news/605955/parker-washington-jaguars-remain-contract-talks.php

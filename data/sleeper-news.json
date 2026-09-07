@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-07T02:45:29Z",
+  "last_checked_at": "2026-09-07T02:56:43Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13347|rotoballer|220239|1788733809000"
+    "nfl|11647|rotoballer|220240|1788734289000",
+    "nfl|4137|rotoballer|220241|1788734772000"
   ],
   "schema_version": 1,
   "source": {
@@ -94,6 +95,46 @@
       "story_id": "nfl|12529|rotowire|636316|1788737499000",
       "title": "TreVeyon Henderson - Misses Sunday's practice",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back James Conner (foot) was placed on the Injured Reserve to begin the season. He continues to have issues with a foot injury that ended his 2025 season. Conner will miss at least the first four games of the season while he recovers from that. Once he's back, there might not be a significant role in the backfield for Conner. Rookie Jeremiah Love (ankle) figures to play a big part in the running back once he's back to full speed. The Cardinals also signed Tyler Allgeier to a two-year deal during the offseason. Conner figures to have some kind of role once he's healthy, but he isn't someone who needs to be selected in redraft formats to begin the season. He could be worth stashing on the IR, but who knows what kind of role he'll have in the mess of this backfield.",
+      "metadata": {
+        "description": "Arizona Cardinals running back James Conner (foot) was placed on the Injured Reserve to begin the season. He continues to have issues with a foot injury that ended his 2025 season. Conner will miss at least the first four games of the season while he recovers from that. Once he's back, there might not be a significant role in the backfield for Conner. Rookie Jeremiah Love (ankle) figures to play a big part in the running back once he's back to full speed. The Cardinals also signed Tyler Allgeier to a two-year deal during the offseason. Conner figures to have some kind of role once he's healthy, but he isn't someone who needs to be selected in redraft formats to begin the season. He could be worth stashing on the IR, but who knows what kind of role he'll have in the mess of this backfield.",
+        "title": "James Conner is Avoidable in Redraft Formats",
+        "topic_id": "1402520420535517184",
+        "url": "https://www.rotoballer.com/player-news/james-conner-is-avoidable-in-redraft-formats/1924893"
+      },
+      "nfl_team": "ARI",
+      "player_id": "4137",
+      "player_name": "James Conner",
+      "position": "RB",
+      "published": 1788734772000,
+      "source": "rotoballer",
+      "source_key": "220241",
+      "story_id": "nfl|4137|rotoballer|220241|1788734772000",
+      "title": "James Conner is Avoidable in Redraft Formats",
+      "url": "https://www.rotoballer.com/player-news/james-conner-is-avoidable-in-redraft-formats/1924893"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers running back Kimani Vidal has reportedly been the best pass-protector in the backfield during camp, according to Alexander Insdorf. Vidal won't be the starter, but that doesn't mean that he won't have a significant role in the offense this season. His above-average pass-blocking abilities could get him on the field more frequently than fantasy managers might think. Omarion Hampton is the starter, but Vidal could have an advantage over Keaton Mitchell (knee) for the No. 2 role in the backfield. Vidal might be fantasy relevant outside of being the handcuff to Hampton. He's worth stashing for fantasy managers seeking additional depth in the backfield.",
+      "metadata": {
+        "description": "Los Angeles Chargers running back Kimani Vidal has reportedly been the best pass-protector in the backfield during camp, according to Alexander Insdorf. Vidal won't be the starter, but that doesn't mean that he won't have a significant role in the offense this season. His above-average pass-blocking abilities could get him on the field more frequently than fantasy managers might think. Omarion Hampton is the starter, but Vidal could have an advantage over Keaton Mitchell (knee) for the No. 2 role in the backfield. Vidal might be fantasy relevant outside of being the handcuff to Hampton. He's worth stashing for fantasy managers seeking additional depth in the backfield.",
+        "title": "Kimani Vidal Gets Praised for his Pass Protection",
+        "topic_id": "1402519161636184064",
+        "url": "https://www.rotoballer.com/player-news/kimani-vidal-gets-praised-for-his-pass-protection/1924891"
+      },
+      "nfl_team": "LAC",
+      "player_id": "11647",
+      "player_name": "Kimani Vidal",
+      "position": "RB",
+      "published": 1788734289000,
+      "source": "rotoballer",
+      "source_key": "220240",
+      "story_id": "nfl|11647|rotoballer|220240|1788734289000",
+      "title": "Kimani Vidal Gets Praised for his Pass Protection",
+      "url": "https://www.rotoballer.com/player-news/kimani-vidal-gets-praised-for-his-pass-protection/1924891"
     },
     {
       "analysis": null,
