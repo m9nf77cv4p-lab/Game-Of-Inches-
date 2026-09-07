@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-07T20:55:34Z",
+  "last_checked_at": "2026-09-07T21:10:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13287|rotoballer|220296|1788799211000",
-    "nfl|9511|rotoballer|220297|1788799205000"
+    "nfl|9480|rotoballer|220299|1788799625000",
+    "nfl|9753|rotoballer|220300|1788800345000",
+    "nfl|9753|rotowire|636351|1788814386000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Macdonald added that Charbonnet looks \"dang good.\" The running back is on reserve/PUP to begin the season and will miss at least the first four games, but it sounds like he could return sometime next month. Seattle's backfield picture remains murky with rookie Jadarian Price, George Holani and Emanuel Wilson all options to see snaps. Adding Charbonnet's name to the mix will only muddy the picture. Price looks like the best bet for fantasy production, but the coaching staff has an affinity for Charbonnet, especially near the goal line.",
+      "description": "Coach Mike Macdonald said Monday that Charbonnet (knee) looks \"awesome\" in his rehab from a torn ACL, Gregg Bell of The Tacoma News Tribune reports.",
+      "metadata": {
+        "analysis": "Macdonald added that Charbonnet looks \"dang good.\" The running back is on reserve/PUP to begin the season and will miss at least the first four games, but it sounds like he could return sometime next month. Seattle's backfield picture remains murky with rookie Jadarian Price, George Holani and Emanuel Wilson all options to see snaps. Adding Charbonnet's name to the mix will only muddy the picture. Price looks like the best bet for fantasy production, but the coaching staff has an affinity for Charbonnet, especially near the goal line.",
+        "description": "Coach Mike Macdonald said Monday that Charbonnet (knee) looks \"awesome\" in his rehab from a torn ACL, Gregg Bell of The Tacoma News Tribune reports.",
+        "title": "Zach Charbonnet - Progressing in rehab",
+        "topic_id": "1402793501879508992"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9753",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
+      "published": 1788814386000,
+      "source": "rotowire",
+      "source_key": "636351",
+      "story_id": "nfl|9753|rotowire|636351|1788814386000",
+      "title": "Zach Charbonnet - Progressing in rehab",
+      "url": null
+    },
     {
       "analysis": "Love was moving around at practice Monday, but LaFleur would only go as far as to say the rooking running back is \"progressing\" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.",
       "description": "Coach Mike LaFleur said he's \"optimistic\" Love (ankle) will be able to play Sunday against the Chargers, Darren Urban of the team's official site reports.",
@@ -445,6 +466,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Seattle Seahawks head coach Mike McDonald said that running back Zach Charbonnet (knee) looks \"awesome\" and \"dang good\" in his rehab efforts, per Gregg Bell of the Tacoma News Tribune. Charbonnet is working his way back from a torn ACL, which he suffered during Seattle's NFC Divisional Round win over the San Francisco 49ers in mid-January. The 25-year-old is set to open 2026 on the Physically Unable to Perform List, which guarantees he will miss at least the Seahawks' first four games. However, it appears Charbonnet could have a chance to make his return as soon as Week 5. Once healthy, Charbonnet has a legitimate chance to assume the Seahawks RB1 role. While the Seahawks drafted rookie running back Jadarian Price to replace the departed Kenneth Walker III, Charbonnet recorded 730 rushing yards and 12 touchdowns across 16 games in 2025 and should have the full faith of the coaching staff. In leagues where Charbonnet is available on the waiver wire, he could be worth stashing in an IR or bench spot ahead of a potential mid-October return.",
+      "metadata": {
+        "description": "Seattle Seahawks head coach Mike McDonald said that running back Zach Charbonnet (knee) looks \"awesome\" and \"dang good\" in his rehab efforts, per Gregg Bell of the Tacoma News Tribune. Charbonnet is working his way back from a torn ACL, which he suffered during Seattle's NFC Divisional Round win over the San Francisco 49ers in mid-January. The 25-year-old is set to open 2026 on the Physically Unable to Perform List, which guarantees he will miss at least the Seahawks' first four games. However, it appears Charbonnet could have a chance to make his return as soon as Week 5. Once healthy, Charbonnet has a legitimate chance to assume the Seahawks RB1 role. While the Seahawks drafted rookie running back Jadarian Price to replace the departed Kenneth Walker III, Charbonnet recorded 730 rushing yards and 12 touchdowns across 16 games in 2025 and should have the full faith of the coaching staff. In leagues where Charbonnet is available on the waiver wire, he could be worth stashing in an IR or bench spot ahead of a potential mid-October return.",
+        "title": "Zach Charbonnet Looks \"Awesome\" in Rehab Efforts, Worth Stashing Off the Waiver Wire Ahead of Week 1?",
+        "topic_id": "1402796016125685760",
+        "url": "https://www.rotoballer.com/player-news/zach-charbonnet-looks-awesome-in-rehab-efforts-worth-stashing-off-the-waiver-wire-ahead-of-week-1/1925424"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9753",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
+      "published": 1788800345000,
+      "source": "rotoballer",
+      "source_key": "220300",
+      "story_id": "nfl|9753|rotoballer|220300|1788800345000",
+      "title": "Zach Charbonnet Looks \"Awesome\" in Rehab Efforts, Worth Stashing Off the Waiver Wire Ahead of Week 1?",
+      "url": "https://www.rotoballer.com/player-news/zach-charbonnet-looks-awesome-in-rehab-efforts-worth-stashing-off-the-waiver-wire-ahead-of-week-1/1925424"
+    },
+    {
       "analysis": "It is a good sign for Egbuka's availability to open the season after missing time in training camp. His status will need to continue to be monitored in practice the rest of the week. ",
       "description": "Emeka Egbuka took part in individual drills at practice on Monday. ",
       "metadata": {
@@ -485,6 +526,26 @@
       "story_id": "nfl|11618|fantasy_pros|606363|1788799842091",
       "title": "Jalen McMillan (knee) practices Monday ",
       "url": "https://www.fantasypros.com/nfl/news/606363/jalen-mcmillan-knee-practices-monday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars tight end Brenton Strange's overall production in 2025 was held down by a hip/quad injury that forced him to miss five games. However, the 25-year-old was a productive player when he was on the field, recording 46 catches for 540 yards and three touchdowns on 60 targets across 12 games. Across seven games after returning from the injury in Week 12, Strange recorded double-digit PPR fantasy points four times. The Jaguars have one of the deeper wide receiver corps in the NFL, which could make it difficult for Strange to see high-volume targets on a consistent basis. Still, Strange is a talented pass-catcher with some breakout potential, especially if Jacksonville suffers a wide receiver injury or two over the course of the season. In deeper league formats, Strange could be worth stashing in a bench spot ahead of Week 1.",
+      "metadata": {
+        "description": "Jacksonville Jaguars tight end Brenton Strange's overall production in 2025 was held down by a hip/quad injury that forced him to miss five games. However, the 25-year-old was a productive player when he was on the field, recording 46 catches for 540 yards and three touchdowns on 60 targets across 12 games. Across seven games after returning from the injury in Week 12, Strange recorded double-digit PPR fantasy points four times. The Jaguars have one of the deeper wide receiver corps in the NFL, which could make it difficult for Strange to see high-volume targets on a consistent basis. Still, Strange is a talented pass-catcher with some breakout potential, especially if Jacksonville suffers a wide receiver injury or two over the course of the season. In deeper league formats, Strange could be worth stashing in a bench spot ahead of Week 1.",
+        "title": "Brenton Strange a Worthy Deep-League Add Despite Target Competition",
+        "topic_id": "1402793499698417664",
+        "url": "https://www.rotoballer.com/player-news/brenton-strange-a-worthy-deep-league-add-despite-target-competition-in-jacksonville/1925411"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9480",
+      "player_name": "Brenton Strange",
+      "position": "TE",
+      "published": 1788799625000,
+      "source": "rotoballer",
+      "source_key": "220299",
+      "story_id": "nfl|9480|rotoballer|220299|1788799625000",
+      "title": "Brenton Strange a Worthy Deep-League Add Despite Target Competition",
+      "url": "https://www.rotoballer.com/player-news/brenton-strange-a-worthy-deep-league-add-despite-target-competition-in-jacksonville/1925411"
     },
     {
       "analysis": null,

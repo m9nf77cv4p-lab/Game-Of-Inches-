@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2118**
-- Newly captured: **2**
+- Stored stories: **2121**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Zach Charbonnet** — Zach Charbonnet - Progressing in rehab (2026-09-07T20:53:06Z)
+  - Macdonald added that Charbonnet looks "dang good." The running back is on reserve/PUP to begin the season and will miss at least the first four games, but it sounds like he could return sometime next month. Seattle's backfield picture remains murky with rookie Jadarian Price, George Holani and Emanuel Wilson all options to see snaps. Adding Charbonnet's name to the mix will only muddy the picture. Price looks like the best bet for fantasy production, but the coaching staff has an affinity for Charbonnet, especially near the goal line.
 - **Jeremiyah Love** — Jeremiyah Love - Optimism for Week 1 (2026-09-07T20:34:27Z)
   - Love was moving around at practice Monday, but LaFleur would only go as far as to say the rooking running back is "progressing" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.
 - **TreVeyon Henderson** — TreVeyon Henderson - Remains out of practice Monday (2026-09-07T20:25:56Z)
@@ -59,15 +61,19 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Coach Zac Taylor relayed last Tuesday that Higgins was tending to a bruised heel, which sidelined the wide receiver since then, so his ability to suit up Monday generally is a step in the right direction. Cincinnati will be posting it's first injury report of the season Wednesday, after which Higgins' activity level will become clearer as the team preps for Sunday's Week 1 matchup with the Buccaneers.
 - **Ja'Marr Chase** — Ja'Marr Chase - Present at practice (2026-09-07T17:38:06Z)
   - Chase limped off the practice field on Aug. 25 and was diagnosed with a hyperextended left knee. Prior to Monday, he hasn't logged any visible on-field work in the meantime, so his ability to suit up indicates he'll at least be able to get involved in individual drills. The Bengals will be posting their first Week 1 injury report Wednesday, at which point his activity level will became known as the team prepares for Sunday's game against the Bengals.
+- **NEW — Zach Charbonnet** — Zach Charbonnet Looks "Awesome" in Rehab Efforts, Worth Stashing Off the Waiver Wire Ahead of Week 1? (2026-09-07T16:59:05Z)
+  - Source: https://www.rotoballer.com/player-news/zach-charbonnet-looks-awesome-in-rehab-efforts-worth-stashing-off-the-waiver-wire-ahead-of-week-1/1925424
 - **Emeka Egbuka** — Emeka Egbuka (toe) practices Monday  (2026-09-07T16:50:42.101000Z)
   - It is a good sign for Egbuka's availability to open the season after missing time in training camp. His status will need to continue to be monitored in practice the rest of the week. 
   - Source: https://www.fantasypros.com/nfl/news/606362/emeka-egbuka-toe-practices-monday.php
 - **Jalen McMillan** — Jalen McMillan (knee) practices Monday  (2026-09-07T16:50:42.091000Z)
   - McMillan missed time during training camp with a knee injury. He remains hopeful to be good to go for Sunday's season opener. 
   - Source: https://www.fantasypros.com/nfl/news/606363/jalen-mcmillan-knee-practices-monday.php
-- **NEW — Jeremiyah Love** — Cardinals Optimistic on Jeremiyah Love's Status for Week 1 (2026-09-07T16:40:11Z)
+- **NEW — Brenton Strange** — Brenton Strange a Worthy Deep-League Add Despite Target Competition (2026-09-07T16:47:05Z)
+  - Source: https://www.rotoballer.com/player-news/brenton-strange-a-worthy-deep-league-add-despite-target-competition-in-jacksonville/1925411
+- **Jeremiyah Love** — Cardinals Optimistic on Jeremiyah Love's Status for Week 1 (2026-09-07T16:40:11Z)
   - Source: https://www.rotoballer.com/player-news/cardinals-optimistic-on-jeremiyah-loves-status-for-week-1/1925408
-- **NEW — Keaton Mitchell** — Keaton Mitchell Back at Practice on Monday (2026-09-07T16:40:05Z)
+- **Keaton Mitchell** — Keaton Mitchell Back at Practice on Monday (2026-09-07T16:40:05Z)
   - Source: https://www.rotoballer.com/player-news/keaton-mitchell-back-at-practice-on-monday/1925406
 - **Braelon Allen** — Braelon Allen a Priority Add Amidst Backfield Injury Questions in New York (2026-09-07T16:27:05Z)
   - Source: https://www.rotoballer.com/player-news/braelon-allen-a-priority-add-amidst-backfield-injury-questions-in-new-york/1925401
@@ -221,10 +227,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Puka Nacua** — Puka Nacua (psoas) expected to play in Week 1 (2026-09-06T21:25:34.525000Z)
   - Nacua has been dealing with a psoas injury but returned to practice about a week ago. With the opening game in Melbourne, the Rams are being smart with their players given the toll of travel. However, their WR1 should be good to go. Nacua also still faces a potential suspension "under the NFL's personal conduct policy," says Adkins.
   - Source: https://www.fantasypros.com/nfl/news/606224/puka-nacua-expected-to-play-week-1.php
-- **Puka Nacua** — Puka Nacua - Expected to play in Australia (2026-09-06T21:02:35Z)
-  - According to Sarah Barshop of ESPN.com, McVay noted earlier in the weekend that Nacua was "making good progress" in his recovery from psoas soreness, and the coach's latest update offers further reassurance that the star wideout will be ready to go for the season opener. Additionally, Nacua's status had been muddled by the NFL actively reviewing his case for a potential violation of the league's personal conduct policy. While Nacua isn't necessarily in the clear of discipline from the league, the NFL typically announces suspensions for players prior to the Aug. 30 roster cutdown deadline. Nacua's recovery from the core injury thus appears to be his chief concern at this juncture rather than any suspension, and if the Rams list him as a full practice participant when they release their first injury report of the season Monday, it would be a firm indication that he'll suit up Thursday.
-- **TreVeyon Henderson** — TreVeyon Henderson (ankle) not at practice Sunday  (2026-09-06T19:20:33.878000Z)
-  - Henderson has not practiced since August 24. He continues to trend in the wrong direction heading into Wednesday's season opener. 
-  - Source: https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php
-- **Jadarian Price** — Jadarian Price Unlikely to Occupy Every-Down Role in Seattle (2026-09-06T19:00:09Z)
-  - Source: https://www.rotoballer.com/player-news/jadarian-price-unlikely-to-occupy-every-down-role-in-seattle/1924807
