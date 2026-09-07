@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2042**
-- Newly captured: **0**
+- Stored stories: **2043**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Christian McCaffrey** — Christian McCaffrey - Sitting out early drills Monday (2026-09-07T05:57:03Z)
+  - This was the portion of practice available to the media Monday. We'll await the official practice status of McCaffrey, with the Niners taking on the Rams on Thursday.
 - **Tory Horton** — Tory Horton (hamstring) limited in practice Sunday  (2026-09-07T01:35:36.529000Z)
   - This is a little surprising as just a couple of weeks ago, Horton was said to be out "for a while." He projects as an upside WR4/WR5 for fantasy managers when he is healthy. 
   - Source: https://www.fantasypros.com/nfl/news/606236/tory-horton-hamstring-limited-practice-sunday.php
@@ -24,7 +26,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tory Horton** — Tory Horton - Dealing with hamstring injury (2026-09-06T23:50:12Z)
   - Coach Mike Macdonald relayed Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.
 - **TreVeyon Henderson** — TreVeyon Henderson - Misses Sunday's practice (2026-09-06T23:31:39Z)
-  - Henderson suffered a minor right ankle injury on Aug. 24 and hasn't been able to practice since then. After Sunday's absence, he'll have two more chances to mix into drills before the Patriots potentially make a ruling on his status for Week 1 when they post Tuesday's injury report. If Henderson isn't able to suit up for Wednesday's season opener at Seattle, Rhamondre Stevenson would be in line to handle the bulk of the backfield reps for New England, with Corey Kiner and practice-squad members Lan Larison and Hassan Haskins the potential candidates for complementary work, per Mike Reiss of ESPN.com.
+  - Henderson suffered a minor right ankle injury Aug. 24 and hasn't been able to practice since then. After Sunday's absence, he'll have two more chances to mix into drills before the Patriots potentially make a ruling on his status for Week 1 when they post Tuesday's injury report. If Henderson isn't able to suit up for Wednesday's season opener at Seattle, Rhamondre Stevenson would be in line to handle the bulk of the backfield reps for New England, with Corey Kiner and practice-squad members Lan Larison and Hassan Haskins the potential candidates for complementary work, per Mike Reiss of ESPN.com.
 - **James Conner** — James Conner is Avoidable in Redraft Formats (2026-09-06T22:46:12Z)
   - Source: https://www.rotoballer.com/player-news/james-conner-is-avoidable-in-redraft-formats/1924893
 - **Kimani Vidal** — Kimani Vidal Gets Praised for his Pass Protection (2026-09-06T22:38:09Z)
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jordan-mason-turning-heads-in-vikings-training-camp/1923834
 - **Parker Washington** — Parker Washington's Stock Soaring Amidst WR1 Buzz in Jacksonville (2026-09-05T09:59:04Z)
   - Source: https://www.rotoballer.com/player-news/parker-washingtons-stock-soaring-amidst-wr1-buzz-in-jacksonville/1923821
-- **CeeDee Lamb** — CeeDee Lamb a Faller in Drafts Amidst Target-Share Questions in Dallas (2026-09-05T09:47:06Z)
-  - Source: https://www.rotoballer.com/player-news/ceedee-lamb-a-faller-in-drafts-amidst-target-share-questions-in-dallas/1923815

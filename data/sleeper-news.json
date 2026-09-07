@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-07T05:56:35Z",
+  "last_checked_at": "2026-09-07T06:18:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|4034|rotowire|636326|1788760623000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "This was the portion of practice available to the media Monday. We'll await the official practice status of McCaffrey, with the Niners taking on the Rams on Thursday.",
+      "description": "McCaffrey (undisclosed) was not participating in drills in the early portion of the 49ers' practice Monday morning in Australia, Matt Maiocco of NBC Sports Bay Area reports.",
+      "metadata": {
+        "analysis": "This was the portion of practice available to the media Monday. We'll await the official practice status of McCaffrey, with the Niners taking on the Rams on Thursday.",
+        "description": "McCaffrey (undisclosed) was not participating in drills in the early portion of the 49ers' practice Monday morning in Australia, Matt Maiocco of NBC Sports Bay Area reports.",
+        "title": "Christian McCaffrey - Sitting out early drills Monday",
+        "topic_id": "1402568242748219392"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1788760623000,
+      "source": "rotowire",
+      "source_key": "636326",
+      "story_id": "nfl|4034|rotowire|636326|1788760623000",
+      "title": "Christian McCaffrey - Sitting out early drills Monday",
+      "url": null
+    },
     {
       "analysis": "This is a little surprising as just a couple of weeks ago, Horton was said to be out \"for a while.\" He projects as an upside WR4/WR5 for fantasy managers when he is healthy. ",
       "description": "Tory Horton was a limited participant in practice on Sunday. ",
@@ -154,10 +176,10 @@
       "url": null
     },
     {
-      "analysis": "Henderson suffered a minor right ankle injury on Aug. 24 and hasn't been able to practice since then. After Sunday's absence, he'll have two more chances to mix into drills before the Patriots potentially make a ruling on his status for Week 1 when they post Tuesday's injury report. If Henderson isn't able to suit up for Wednesday's season opener at Seattle, Rhamondre Stevenson would be in line to handle the bulk of the backfield reps for New England, with Corey Kiner and practice-squad members Lan Larison and Hassan Haskins the potential candidates for complementary work, per Mike Reiss of ESPN.com.",
+      "analysis": "Henderson suffered a minor right ankle injury Aug. 24 and hasn't been able to practice since then. After Sunday's absence, he'll have two more chances to mix into drills before the Patriots potentially make a ruling on his status for Week 1 when they post Tuesday's injury report. If Henderson isn't able to suit up for Wednesday's season opener at Seattle, Rhamondre Stevenson would be in line to handle the bulk of the backfield reps for New England, with Corey Kiner and practice-squad members Lan Larison and Hassan Haskins the potential candidates for complementary work, per Mike Reiss of ESPN.com.",
       "description": "Henderson (ankle) officially didn't practice Sunday, Doug Kyed of the Boston Herald reports.",
       "metadata": {
-        "analysis": "Henderson suffered a minor right ankle injury on Aug. 24 and hasn't been able to practice since then. After Sunday's absence, he'll have two more chances to mix into drills before the Patriots potentially make a ruling on his status for Week 1 when they post Tuesday's injury report. If Henderson isn't able to suit up for Wednesday's season opener at Seattle, Rhamondre Stevenson would be in line to handle the bulk of the backfield reps for New England, with Corey Kiner and practice-squad members Lan Larison and Hassan Haskins the potential candidates for complementary work, per Mike Reiss of ESPN.com.",
+        "analysis": "Henderson suffered a minor right ankle injury Aug. 24 and hasn't been able to practice since then. After Sunday's absence, he'll have two more chances to mix into drills before the Patriots potentially make a ruling on his status for Week 1 when they post Tuesday's injury report. If Henderson isn't able to suit up for Wednesday's season opener at Seattle, Rhamondre Stevenson would be in line to handle the bulk of the backfield reps for New England, with Corey Kiner and practice-squad members Lan Larison and Hassan Haskins the potential candidates for complementary work, per Mike Reiss of ESPN.com.",
         "description": "Henderson (ankle) officially didn't practice Sunday, Doug Kyed of the Boston Herald reports.",
         "title": "TreVeyon Henderson - Misses Sunday's practice",
         "topic_id": "1402471343185756160"
