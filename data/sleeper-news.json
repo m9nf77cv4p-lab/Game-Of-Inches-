@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-07T06:18:36Z",
+  "last_checked_at": "2026-09-07T12:28:04Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4034|rotowire|636326|1788760623000"
+    "nfl|6768|fantasy_pros|606317|1788783340302",
+    "nfl|6768|rotowire|636328|1788783808000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The Falcons were deciding between Tagovailoa and Michael Penix (knee) for their Week 1 starter, and with the latter still getting back up to speed, Tagovailoa will get the nod.",
+      "description": "Tagovailoa will start at quarterback in Sunday's season opener against the Steelers, Tom Pelissero of Netflix reports.",
+      "metadata": {
+        "analysis": "The Falcons were deciding between Tagovailoa and Michael Penix (knee) for their Week 1 starter, and with the latter still getting back up to speed, Tagovailoa will get the nod.",
+        "description": "Tagovailoa will start at quarterback in Sunday's season opener against the Steelers, Tom Pelissero of Netflix reports.",
+        "title": "Tua Tagovailoa - Will start Week 1",
+        "topic_id": "1402665140343537664"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1788783808000,
+      "source": "rotowire",
+      "source_key": "636328",
+      "story_id": "nfl|6768|rotowire|636328|1788783808000",
+      "title": "Tua Tagovailoa - Will start Week 1",
+      "url": null
+    },
+    {
+      "analysis": "After a camp that was full of negative reports, Tua has managed to win the starting job. Frankly, it's likely by default, as Michael Penix just got back to practice after suffering a torn ACL last season. It will be interesting to see how long Tua can keep the job.",
+      "description": "Tua Tagovailoa has been named the Falcons starting QB.",
+      "metadata": {
+        "analysis": "After a camp that was full of negative reports, Tua has managed to win the starting job. Frankly, it's likely by default, as Michael Penix just got back to practice after suffering a torn ACL last season. It will be interesting to see how long Tua can keep the job.",
+        "description": "Tua Tagovailoa has been named the Falcons starting QB.",
+        "title": "Tua Tagovailoa named Falcons starter",
+        "topic_id": "1402662629121495040",
+        "url": "https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1788783340302,
+      "source": "fantasy_pros",
+      "source_key": "606317",
+      "story_id": "nfl|6768|fantasy_pros|606317|1788783340302",
+      "title": "Tua Tagovailoa named Falcons starter",
+      "url": "https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php"
+    },
     {
       "analysis": "This was the portion of practice available to the media Monday. We'll await the official practice status of McCaffrey, with the Niners taking on the Rams on Thursday.",
       "description": "McCaffrey (undisclosed) was not participating in drills in the early portion of the 49ers' practice Monday morning in Australia, Matt Maiocco of NBC Sports Bay Area reports.",
