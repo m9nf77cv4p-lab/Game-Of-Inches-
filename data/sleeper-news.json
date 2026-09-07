@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-07T17:27:06Z",
+  "last_checked_at": "2026-09-07T17:41:34Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11618|rotoballer|220270|1788786606000",
-    "nfl|9493|rotoballer|220271|1788786489000"
+    "nfl|13311|rotoballer|220273|1788787570000",
+    "nfl|7564|rotowire|636336|1788802686000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Chase limped off the practice field on Aug. 25 and was diagnosed with a hyperextended left knee. Prior to Monday, he hasn't logged any visible on-field work in the meantime, so his ability to suit up indicates he'll at least be able to get in some work on the side. The Bengals will be posting their first Week 1 injury report Wednesday, at which point his activity level will became known as the team prepares for Sunday's game against the Bengals.",
+      "description": "Chase (knee) is in uniform for Monday's practice, Charlie Goldsmith of Charlie's Chalkboard reports.",
+      "metadata": {
+        "analysis": "Chase limped off the practice field on Aug. 25 and was diagnosed with a hyperextended left knee. Prior to Monday, he hasn't logged any visible on-field work in the meantime, so his ability to suit up indicates he'll at least be able to get in some work on the side. The Bengals will be posting their first Week 1 injury report Wednesday, at which point his activity level will became known as the team prepares for Sunday's game against the Bengals.",
+        "description": "Chase (knee) is in uniform for Monday's practice, Charlie Goldsmith of Charlie's Chalkboard reports.",
+        "title": "Ja'Marr Chase - Present at practice",
+        "topic_id": "1402744422004727808"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1788802686000,
+      "source": "rotowire",
+      "source_key": "636336",
+      "story_id": "nfl|7564|rotowire|636336|1788802686000",
+      "title": "Ja'Marr Chase - Present at practice",
+      "url": null
+    },
     {
       "analysis": "It is a good sign for Egbuka's availability to open the season after missing time in training camp. His status will need to continue to be monitored in practice the rest of the week. ",
       "description": "Emeka Egbuka took part in individual drills at practice on Monday. ",
@@ -239,6 +259,26 @@
       "story_id": "nfl|11559|rotowire|636330|1788788181000",
       "title": "Michael Penix - Won't start in Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins rookie wide receiver Chris Bell saw five targets in roughly 10 minutes of game time in his lone preseason appearance, and team beat reporter Kyle Crabbs believes the team's concerted effort to get him involved could be a precursor of things to come in the regular season. Appearing on NFL Spotlight with Ari Meirov on Monday, Crabbs noted that he saw Bell as a top 50 talent in the 2026 NFL draft, describing him as a \"run-after-catch monster\". Bell is still playing catch-up after spending most of the spring and summer rehabbing from the torn ACL that ended his collegiate career, but Crabbs believes his versatility could lead to designed targets early in the year with the potential for significant growth. With an injury-depressed ADP causing him to go undrafted in a number of leagues throughout the summer, Bell has a path to becoming the Dolphins' top wide receiver and should be viewed as a top waiver priority wherever he's still available.",
+      "metadata": {
+        "description": "Miami Dolphins rookie wide receiver Chris Bell saw five targets in roughly 10 minutes of game time in his lone preseason appearance, and team beat reporter Kyle Crabbs believes the team's concerted effort to get him involved could be a precursor of things to come in the regular season. Appearing on NFL Spotlight with Ari Meirov on Monday, Crabbs noted that he saw Bell as a top 50 talent in the 2026 NFL draft, describing him as a \"run-after-catch monster\". Bell is still playing catch-up after spending most of the spring and summer rehabbing from the torn ACL that ended his collegiate career, but Crabbs believes his versatility could lead to designed targets early in the year with the potential for significant growth. With an injury-depressed ADP causing him to go undrafted in a number of leagues throughout the summer, Bell has a path to becoming the Dolphins' top wide receiver and should be viewed as a top waiver priority wherever he's still available.",
+        "title": "Chris Bell a \"Run-After-Catch Monster\" Who Should See His Role Grow",
+        "topic_id": "1402741903757217792",
+        "url": "https://www.rotoballer.com/player-news/chris-bell-a-run-after-catch-monster-who-should-see-his-role-grow/1925225"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1788787570000,
+      "source": "rotoballer",
+      "source_key": "220273",
+      "story_id": "nfl|13311|rotoballer|220273|1788787570000",
+      "title": "Chris Bell a \"Run-After-Catch Monster\" Who Should See His Role Grow",
+      "url": "https://www.rotoballer.com/player-news/chris-bell-a-run-after-catch-monster-who-should-see-his-role-grow/1925225"
     },
     {
       "analysis": "Wagoner notes that linebacker Nick Bosa (knee) and running back Christian McCaffrey (undisclosed) were the only 49ers players who didn't appear to be mixing into team drills during the open portion of practice, so Evans appears likely to have been at least a limited participant in Monday's session. The 49ers will release their first injury report of the season later Monday, when the extent of Evans' practice participation will be revealed. Evans had his practice activity managed for much of training camp while he contended with a minor quadriceps strain and more recently, an adductor injury.",

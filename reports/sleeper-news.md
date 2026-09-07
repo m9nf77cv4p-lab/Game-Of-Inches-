@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2074**
+- Stored stories: **2076**
 - Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Ja'Marr Chase** — Ja'Marr Chase - Present at practice (2026-09-07T17:38:06Z)
+  - Chase limped off the practice field on Aug. 25 and was diagnosed with a hyperextended left knee. Prior to Monday, he hasn't logged any visible on-field work in the meantime, so his ability to suit up indicates he'll at least be able to get in some work on the side. The Bengals will be posting their first Week 1 injury report Wednesday, at which point his activity level will became known as the team prepares for Sunday's game against the Bengals.
 - **Emeka Egbuka** — Emeka Egbuka (toe) practices Monday  (2026-09-07T16:50:42.101000Z)
   - It is a good sign for Egbuka's availability to open the season after missing time in training camp. His status will need to continue to be monitored in practice the rest of the week. 
   - Source: https://www.fantasypros.com/nfl/news/606362/emeka-egbuka-toe-practices-monday.php
@@ -35,11 +37,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - While addressing the media shortly after the Falcons named Tua Tagovailoa their Week 1 starter Monday, Stefanski noted that Penix had taken part in only six 11-on-11 practices during training camp, so the third-year quarterback will need some more time to get back to full speed following last November's ACL tear before making his 2026 debut, per Raimondi. The Falcons were pleased enough with Penix's progress to wait until less than a week before the season opener to name a starter, which suggests that he'll likely get a chance to supplant Tagovailoa atop the depth chart at some point this season. While Penix is in street clothes for Week 1, Cooper Rush will step in as Tagovailoa's backup, and undrafted rookie Jack Strand will serve as the No. 3 quarterback.
 - **Michael Penix** — Michael Penix - Won't start in Week 1 (2026-09-07T13:36:21Z)
   - Though Penix is expected to receive the opportunity to start at some point in 2026, he'll have to wait at least one more week before getting his chance while he continues to work his way back from the torn ACL he sustained last November. Penix didn't play in the preseason and wasn't cleared to take part in 11-on-11 drills until Aug. 22, so he'll need to get some full practices under his belt before the Falcons consider elevating him into the starting role over Tagovailoa, who completed 10 of 13 pass attempts for 117 yards in two exhibition contests but fumbled twice and generally struggled to push the ball downfield during the preseason and training camp. The Falcons kept four quarterbacks on their roster following the preseason, so Cooper Rush and Jack Strand will be available as backup options if Penix isn't ready to serve as Tagovailoa's understudy in the season opener.
+- **NEW — Chris Bell** — Chris Bell a "Run-After-Catch Monster" Who Should See His Role Grow (2026-09-07T13:26:10Z)
+  - Source: https://www.rotoballer.com/player-news/chris-bell-a-run-after-catch-monster-who-should-see-his-role-grow/1925225
 - **Mike Evans** — Mike Evans - Involved in practice Monday (2026-09-07T13:22:12Z)
   - Wagoner notes that linebacker Nick Bosa (knee) and running back Christian McCaffrey (undisclosed) were the only 49ers players who didn't appear to be mixing into team drills during the open portion of practice, so Evans appears likely to have been at least a limited participant in Monday's session. The 49ers will release their first injury report of the season later Monday, when the extent of Evans' practice participation will be revealed. Evans had his practice activity managed for much of training camp while he contended with a minor quadriceps strain and more recently, an adductor injury.
-- **NEW — Jalen McMillan** — Jalen McMillan on the Practice Field on Monday (2026-09-07T13:10:06Z)
+- **Jalen McMillan** — Jalen McMillan on the Practice Field on Monday (2026-09-07T13:10:06Z)
   - Source: https://www.rotoballer.com/player-news/jalen-mcmillan-on-the-practice-field-on-monday/1925216
-- **NEW — Puka Nacua** — "Real Possibility" Puka Nacua Does Not Face Discipline in 2026 (2026-09-07T13:08:09Z)
+- **Puka Nacua** — "Real Possibility" Puka Nacua Does Not Face Discipline in 2026 (2026-09-07T13:08:09Z)
   - Source: https://www.rotoballer.com/player-news/real-possibility-puka-nacua-does-not-face-discipline-in-2026/1925213
 - **Emeka Egbuka** — Emeka Egbuka Practicing on Monday (2026-09-07T13:04:06Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-practicing-on-monday/1925210
@@ -214,7 +218,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/braelon-allen-could-be-interesting-handcuff-option/1924296
 - **Hunter Henry** — Hunter Henry is Likely to Play a Key Part in the Offense (2026-09-05T21:37:09Z)
   - Source: https://www.rotoballer.com/player-news/hunter-henry-is-likely-to-play-a-key-part-in-the-offense/1924291
-- **Chimere Dike** — Chimere Dike Could Get Lost in the Shuffle (2026-09-05T21:30:05Z)
-  - Source: https://www.rotoballer.com/player-news/chimere-dike-could-get-lost-in-the-shuffle/1924289
-- **Tory Horton** — Tory Horton Injury Concerns Could Lower His Value (2026-09-05T21:21:05Z)
-  - Source: https://www.rotoballer.com/player-news/tory-horton-injury-concerns-could-lower-his-value/1924286
