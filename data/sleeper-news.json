@@ -1,10 +1,12 @@
 {
-  "last_checked_at": "2026-09-07T17:41:34Z",
+  "last_checked_at": "2026-09-07T17:53:01Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13311|rotoballer|220273|1788787570000",
-    "nfl|7564|rotowire|636336|1788802686000"
+    "nfl|11583|rotoballer|220274|1788788408000",
+    "nfl|6801|fantasy_pros|606373|1788803142448",
+    "nfl|6801|rotowire|636337|1788802931000",
+    "nfl|7564|fantasy_pros|606372|1788803142459"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +16,68 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Chase was sidelined last week after suffering a hyperextended knee in practice. The superstar wideout will look to increase his activity throughout the week ahead of a Week 1 matchup against the Tampa Buccaneers.",
+      "description": "Ja'Marr Chase (knee) returned to practice for the Cincinnati Bengals Monday according to Ben Baby.",
+      "metadata": {
+        "analysis": "Chase was sidelined last week after suffering a hyperextended knee in practice. The superstar wideout will look to increase his activity throughout the week ahead of a Week 1 matchup against the Tampa Buccaneers.",
+        "description": "Ja'Marr Chase (knee) returned to practice for the Cincinnati Bengals Monday according to Ben Baby.",
+        "title": "Ja'Marr Chase (knee) returns to practice Monday ",
+        "topic_id": "1402745685396217856",
+        "url": "https://www.fantasypros.com/nfl/news/606372/jamarr-chase-knee-returns-to-practice-monday.php"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1788803142459,
+      "source": "fantasy_pros",
+      "source_key": "606372",
+      "story_id": "nfl|7564|fantasy_pros|606372|1788803142459",
+      "title": "Ja'Marr Chase (knee) returns to practice Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/606372/jamarr-chase-knee-returns-to-practice-monday.php"
+    },
+    {
+      "analysis": "Higgins returned to the practice field alongside superstar wideout Ja'Marr Chase (knee) after both were sidelined last week while managing their minor injuries. The wideout looks poised to be available to slot into his role as the No. 2 pass-catching option behind Chase in time for Cincinnati's Week 1 contest against the Tampa Bay Buccaneers.",
+      "description": "Tee Higgins (heel) is practicing for the Cincinnati Bengals Monday according to Ben Baby.",
+      "metadata": {
+        "analysis": "Higgins returned to the practice field alongside superstar wideout Ja'Marr Chase (knee) after both were sidelined last week while managing their minor injuries. The wideout looks poised to be available to slot into his role as the No. 2 pass-catching option behind Chase in time for Cincinnati's Week 1 contest against the Tampa Bay Buccaneers.",
+        "description": "Tee Higgins (heel) is practicing for the Cincinnati Bengals Monday according to Ben Baby.",
+        "title": "Tee Higgins (heel) practicing Monday",
+        "topic_id": "1402745685354274816",
+        "url": "https://www.fantasypros.com/nfl/news/606373/tee-higgins-heel-practicing-monday.php"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6801",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "published": 1788803142448,
+      "source": "fantasy_pros",
+      "source_key": "606373",
+      "story_id": "nfl|6801|fantasy_pros|606373|1788803142448",
+      "title": "Tee Higgins (heel) practicing Monday",
+      "url": "https://www.fantasypros.com/nfl/news/606373/tee-higgins-heel-practicing-monday.php"
+    },
+    {
+      "analysis": "Coach Zac Taylor relayed last Tuesday that Higgins was tending to a bruised heel, which sidelined the wide receiver since then, so his ability to suit up Monday generally is a step in the right direction. Cincinnati will be posting it's first injury report of the season Wednesday, after which Higgins' activity level will become clearer as the team preps for Sunday's Week 1 matchup with the Buccaneers.",
+      "description": "Higgins (heel) is in uniform for Monday's practice, Charlie Goldsmith of Charlie's Chalkboard reports.",
+      "metadata": {
+        "analysis": "Coach Zac Taylor relayed last Tuesday that Higgins was tending to a bruised heel, which sidelined the wide receiver since then, so his ability to suit up Monday generally is a step in the right direction. Cincinnati will be posting it's first injury report of the season Wednesday, after which Higgins' activity level will become clearer as the team preps for Sunday's Week 1 matchup with the Buccaneers.",
+        "description": "Higgins (heel) is in uniform for Monday's practice, Charlie Goldsmith of Charlie's Chalkboard reports.",
+        "title": "Tee Higgins - Suited up for practice",
+        "topic_id": "1402745680769843200"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6801",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "published": 1788802931000,
+      "source": "rotowire",
+      "source_key": "636337",
+      "story_id": "nfl|6801|rotowire|636337|1788802931000",
+      "title": "Tee Higgins - Suited up for practice",
+      "url": null
+    },
     {
       "analysis": "Chase limped off the practice field on Aug. 25 and was diagnosed with a hyperextended left knee. Prior to Monday, he hasn't logged any visible on-field work in the meantime, so his ability to suit up indicates he'll at least be able to get in some work on the side. The Bengals will be posting their first Week 1 injury report Wednesday, at which point his activity level will became known as the team prepares for Sunday's game against the Bengals.",
       "description": "Chase (knee) is in uniform for Monday's practice, Charlie Goldsmith of Charlie's Chalkboard reports.",
@@ -239,6 +303,26 @@
       "story_id": "nfl|11559|rotowire|636331|1788793251000",
       "title": "Michael Penix - Will be inactive for opener",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers running back Jonathon Brooks (soreness) continues to deal with general soreness, and after he was seen working with trainers during the media accessible portion of Monday's practice, head coach Dave Canales declined to offer an update on his status. Canales told reporters on Thursday that he was \"very optimistic\" about Brooks' availability for Week 1, and when asked on Monday if that remained the case, he said he \"hopes so.\" The Panthers host the Bears to open the 2026 season, and with the first official injury report to be released on Wednesday, Brooks' status will need to be monitored, as he has become a popular breakout candidate in what had looked to be the first fully healthy season of his professional career.",
+      "metadata": {
+        "description": "Carolina Panthers running back Jonathon Brooks (soreness) continues to deal with general soreness, and after he was seen working with trainers during the media accessible portion of Monday's practice, head coach Dave Canales declined to offer an update on his status. Canales told reporters on Thursday that he was \"very optimistic\" about Brooks' availability for Week 1, and when asked on Monday if that remained the case, he said he \"hopes so.\" The Panthers host the Bears to open the 2026 season, and with the first official injury report to be released on Wednesday, Brooks' status will need to be monitored, as he has become a popular breakout candidate in what had looked to be the first fully healthy season of his professional career.",
+        "title": "Optimism Waning for Jonathon Brooks' Week 1 Availability?",
+        "topic_id": "1402746937781813248",
+        "url": "https://www.rotoballer.com/player-news/optimism-waning-for-jonathon-brooks-week-1-availability/1925244"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788788408000,
+      "source": "rotoballer",
+      "source_key": "220274",
+      "story_id": "nfl|11583|rotoballer|220274|1788788408000",
+      "title": "Optimism Waning for Jonathon Brooks' Week 1 Availability?",
+      "url": "https://www.rotoballer.com/player-news/optimism-waning-for-jonathon-brooks-week-1-availability/1925244"
     },
     {
       "analysis": "Though Penix is expected to receive the opportunity to start at some point in 2026, he'll have to wait at least one more week before getting his chance while he continues to work his way back from the torn ACL he sustained last November. Penix didn't play in the preseason and wasn't cleared to take part in 11-on-11 drills until Aug. 22, so he'll need to get some full practices under his belt before the Falcons consider elevating him into the starting role over Tagovailoa, who completed 10 of 13 pass attempts for 117 yards in two exhibition contests but fumbled twice and generally struggled to push the ball downfield during the preseason and training camp. The Falcons kept four quarterbacks on their roster following the preseason, so Cooper Rush and Jack Strand will be available as backup options if Penix isn't ready to serve as Tagovailoa's understudy in the season opener.",
