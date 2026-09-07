@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-07T18:06:22Z",
+  "last_checked_at": "2026-09-07T18:25:31Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9226|rotoballer|220275|1788789072000"
+    "nfl|11618|rotowire|636339|1788804923000",
+    "nfl|12529|rotoballer|220277|1788790206000",
+    "nfl|7564|rotoballer|220278|1788790505000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Both McMillan and Emeka Egbuka (toe) were participating in Monday's session, putting both in good position to play Sunday against the Bengals. McMillan missed most of training camp, but his injury never sounded serious. He's expected to compete with rookie Ted Hurst for WR3 duties behind Egbuka and Chris Godwin this season. McMillan is the favorite to open the campaign in three-wide sets.",
+      "description": "McMillan (knee) was on the field running routes at Monday's practice, PewterReport.com reports.",
+      "metadata": {
+        "analysis": "Both McMillan and Emeka Egbuka (toe) were participating in Monday's session, putting both in good position to play Sunday against the Bengals. McMillan missed most of training camp, but his injury never sounded serious. He's expected to compete with rookie Ted Hurst for WR3 duties behind Egbuka and Chris Godwin this season. McMillan is the favorite to open the campaign in three-wide sets.",
+        "description": "McMillan (knee) was on the field running routes at Monday's practice, PewterReport.com reports.",
+        "title": "Jalen McMillan - On field for Monday's practice",
+        "topic_id": "1402754490339164160"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1788804923000,
+      "source": "rotowire",
+      "source_key": "636339",
+      "story_id": "nfl|11618|rotowire|636339|1788804923000",
+      "title": "Jalen McMillan - On field for Monday's practice",
+      "url": null
+    },
     {
       "analysis": "Chase was sidelined last week after suffering a hyperextended knee in practice. The superstar wideout will look to increase his activity throughout the week ahead of a Week 1 matchup against the Tampa Buccaneers.",
       "description": "Ja'Marr Chase (knee) returned to practice for the Cincinnati Bengals Monday according to Ben Baby.",
@@ -300,6 +322,46 @@
       "story_id": "nfl|11559|rotowire|636331|1788793251000",
       "title": "Michael Penix - Will be inactive for opener",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals wide receiver Ja'Marr Chase (knee) was back at practice on Monday as the team prepares for its regular-season opener on Sunday, Sept. 13, versus the Tampa Bay Buccaneers, according to Kelsey Conway of The Cincinnati Enquirer. Fellow wideout Tee Higgins (heel) was also seen practicing on Monday, so quarterback Joe Burrow figures to have both of his top pass-catchers available to kick off the 2026 campaign. The 26-year-old Chase, who is the consensus top overall fantasy receiver, hyperextended his left knee in practice on Aug. 25 while trying to come down with a pass and was held out of action last week as a precaution. Thankfully, the star wideout avoided a serious injury that would sideline him for the start of the upcoming season, and he should be active as a must-start in all fantasy football leagues against the Bucs. The Bengals will release their first official practice report of the year on Wednesday, at which point we should have a clearer picture of Chase's Week 1 status. For now, though, fantasy managers should have him locked into starting lineups until further notice.",
+      "metadata": {
+        "description": "Cincinnati Bengals wide receiver Ja'Marr Chase (knee) was back at practice on Monday as the team prepares for its regular-season opener on Sunday, Sept. 13, versus the Tampa Bay Buccaneers, according to Kelsey Conway of The Cincinnati Enquirer. Fellow wideout Tee Higgins (heel) was also seen practicing on Monday, so quarterback Joe Burrow figures to have both of his top pass-catchers available to kick off the 2026 campaign. The 26-year-old Chase, who is the consensus top overall fantasy receiver, hyperextended his left knee in practice on Aug. 25 while trying to come down with a pass and was held out of action last week as a precaution. Thankfully, the star wideout avoided a serious injury that would sideline him for the start of the upcoming season, and he should be active as a must-start in all fantasy football leagues against the Bucs. The Bengals will release their first official practice report of the year on Wednesday, at which point we should have a clearer picture of Chase's Week 1 status. For now, though, fantasy managers should have him locked into starting lineups until further notice.",
+        "title": "Ja'Marr Chase Practicing on Monday",
+        "topic_id": "1402754487961001984",
+        "url": "https://www.rotoballer.com/player-news/jamarr-chase-practicing-on-monday/1925300"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1788790505000,
+      "source": "rotoballer",
+      "source_key": "220278",
+      "story_id": "nfl|7564|rotoballer|220278|1788790505000",
+      "title": "Ja'Marr Chase Practicing on Monday",
+      "url": "https://www.rotoballer.com/player-news/jamarr-chase-practicing-on-monday/1925300"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots second-year running back TreVeyon Henderson (ankle) was not at practice again on Monday and has not practiced since Aug. 24, according to Adam Schefter of ESPN on The Pat McAfee Show. Schefter adds that \"it's hard to imagine\" that Henderson will be active for Wednesday's regular-season opener against the Seattle Seahawks in a Super Bowl rematch. The 23-year-old also did not take part in practice over the weekend as the Patriots get set for their Week 1 clash on Wednesday. We will continue to keep a close eye on New England's official practice report over the next couple of days, but if you have Henderson rostered, you should already be preparing to have him on your bench as he starts his sophomore season in the NFL. The 23-year-old former second-rounder from Ohio State had a successful first year in the league in 2025, carrying the ball 180 times for 911 yards and nine touchdowns during the regular season while adding 35 catches for 221 yards and a touchdown as a receiver. Henderson's fantasy ceiling is limited, though, as long as he continues to share the backfield in a near-even split with Rhamondre Stevenson, especially since he does not figure to be a major weapon in the passing game.",
+      "metadata": {
+        "description": "New England Patriots second-year running back TreVeyon Henderson (ankle) was not at practice again on Monday and has not practiced since Aug. 24, according to Adam Schefter of ESPN on The Pat McAfee Show. Schefter adds that \"it's hard to imagine\" that Henderson will be active for Wednesday's regular-season opener against the Seattle Seahawks in a Super Bowl rematch. The 23-year-old also did not take part in practice over the weekend as the Patriots get set for their Week 1 clash on Wednesday. We will continue to keep a close eye on New England's official practice report over the next couple of days, but if you have Henderson rostered, you should already be preparing to have him on your bench as he starts his sophomore season in the NFL. The 23-year-old former second-rounder from Ohio State had a successful first year in the league in 2025, carrying the ball 180 times for 911 yards and nine touchdowns during the regular season while adding 35 catches for 221 yards and a touchdown as a receiver. Henderson's fantasy ceiling is limited, though, as long as he continues to share the backfield in a near-even split with Rhamondre Stevenson, especially since he does not figure to be a major weapon in the passing game.",
+        "title": "\"Hard to Imagine\" That TreVeyon Henderson Plays in Week 1",
+        "topic_id": "1402753229338443776",
+        "url": "https://www.rotoballer.com/player-news/hard-to-imagine-that-treveyon-henderson-plays-in-week-1/1925298"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788790206000,
+      "source": "rotoballer",
+      "source_key": "220277",
+      "story_id": "nfl|12529|rotoballer|220277|1788790206000",
+      "title": "\"Hard to Imagine\" That TreVeyon Henderson Plays in Week 1",
+      "url": "https://www.rotoballer.com/player-news/hard-to-imagine-that-treveyon-henderson-plays-in-week-1/1925298"
     },
     {
       "analysis": null,
