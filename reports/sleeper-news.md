@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2116**
+- Stored stories: **2118**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Jeremiyah Love** — Jeremiyah Love - Optimism for Week 1 (2026-09-07T20:34:27Z)
+- **Jeremiyah Love** — Jeremiyah Love - Optimism for Week 1 (2026-09-07T20:34:27Z)
   - Love was moving around at practice Monday, but LaFleur would only go as far as to say the rooking running back is "progressing" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.
 - **TreVeyon Henderson** — TreVeyon Henderson - Remains out of practice Monday (2026-09-07T20:25:56Z)
   - Henderson has been DNP all week leading up to Wednesday's season opener in Seattle, and it's looking extremely unlikely that he's going to play Week 1. The Patriots have one more practice report to issue Tuesday, and it's at least notable that Henderson traveled with the team to Seattle, according to Mike Reiss of ESPN.com. If the second-year running back is unable to play, Rhamondre Stevenson would be looking at a potential workhorse role, as Corey Kiner is the only other running back on the active roster. Lan Larison is on the practice squad as a likely elevation.
@@ -65,7 +65,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jalen McMillan** — Jalen McMillan (knee) practices Monday  (2026-09-07T16:50:42.091000Z)
   - McMillan missed time during training camp with a knee injury. He remains hopeful to be good to go for Sunday's season opener. 
   - Source: https://www.fantasypros.com/nfl/news/606363/jalen-mcmillan-knee-practices-monday.php
-- **NEW — Braelon Allen** — Braelon Allen a Priority Add Amidst Backfield Injury Questions in New York (2026-09-07T16:27:05Z)
+- **NEW — Jeremiyah Love** — Cardinals Optimistic on Jeremiyah Love's Status for Week 1 (2026-09-07T16:40:11Z)
+  - Source: https://www.rotoballer.com/player-news/cardinals-optimistic-on-jeremiyah-loves-status-for-week-1/1925408
+- **NEW — Keaton Mitchell** — Keaton Mitchell Back at Practice on Monday (2026-09-07T16:40:05Z)
+  - Source: https://www.rotoballer.com/player-news/keaton-mitchell-back-at-practice-on-monday/1925406
+- **Braelon Allen** — Braelon Allen a Priority Add Amidst Backfield Injury Questions in New York (2026-09-07T16:27:05Z)
   - Source: https://www.rotoballer.com/player-news/braelon-allen-a-priority-add-amidst-backfield-injury-questions-in-new-york/1925401
 - **Emeka Egbuka** — Emeka Egbuka - Getting work Monday (2026-09-07T16:25:52Z)
   - Egbuka was limited to work on the side last week, and although it's not yet clear how much he will do Monday, it appears he has taken a step forward in his recovery from a toe issue. There has been hope that Egbuka will be available for Week 1, and there remains reason to believe he will be available for Tampa Bay's opener.
@@ -224,7 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606192/treveyon-henderson-ankle-not-practice-sunday.php
 - **Jadarian Price** — Jadarian Price Unlikely to Occupy Every-Down Role in Seattle (2026-09-06T19:00:09Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-unlikely-to-occupy-every-down-role-in-seattle/1924807
-- **Rashid Shaheed** — Rashid Shaheed Will Take on a Bigger Role in 2026 (2026-09-06T18:49:50Z)
-  - Source: https://www.rotoballer.com/player-news/rashid-shaheed-will-take-on-a-bigger-role-in-2026/1924805
-- **Elijah Arroyo** — Seahawks Expected to Feature Both A.J. Barner and Elijah Arroyo (2026-09-06T18:37:08Z)
-  - Source: https://www.rotoballer.com/player-news/seahawks-expected-to-feature-both-a-j-barner-and-elijah-arroyo/1924803

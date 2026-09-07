@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-07T20:44:48Z",
+  "last_checked_at": "2026-09-07T20:55:34Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11576|rotoballer|220295|1788798425000",
-    "nfl|13287|rotowire|636350|1788813267000"
+    "nfl|13287|rotoballer|220296|1788799211000",
+    "nfl|9511|rotoballer|220297|1788799205000"
   ],
   "schema_version": 1,
   "source": {
@@ -485,6 +485,46 @@
       "story_id": "nfl|11618|fantasy_pros|606363|1788799842091",
       "title": "Jalen McMillan (knee) practices Monday ",
       "url": "https://www.fantasypros.com/nfl/news/606363/jalen-mcmillan-knee-practices-monday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals head coach Mike LaFleur said he is \"optimistic\" about rookie running back Jeremiyah Love's (ankle) status for Week 1, per Darren Urban of azcardinals.com. Love is working his way back from a high-ankle sprain, which he suffered in the team's second preseason game on August 13. Given that Love's participation in team activities has been very limited since suffering the injury, it seems unlikely that he would see a true workhorse snap share in Week 1. The Cardinals also have a steady veteran option at running back in Tyler Allgeier, who is expected to play a role in the team's backfield even when Love is fully healthy. Still, it's obviously a positive sign for fantasy managers that Love is making progress and has a chance to suit up in Week 1. If he does miss Arizona's season opener against the Los Angeles Chargers, it seems likely that Love would make his NFL debut in Week 2 against the Seattle Seahawks.",
+      "metadata": {
+        "description": "Arizona Cardinals head coach Mike LaFleur said he is \"optimistic\" about rookie running back Jeremiyah Love's (ankle) status for Week 1, per Darren Urban of azcardinals.com. Love is working his way back from a high-ankle sprain, which he suffered in the team's second preseason game on August 13. Given that Love's participation in team activities has been very limited since suffering the injury, it seems unlikely that he would see a true workhorse snap share in Week 1. The Cardinals also have a steady veteran option at running back in Tyler Allgeier, who is expected to play a role in the team's backfield even when Love is fully healthy. Still, it's obviously a positive sign for fantasy managers that Love is making progress and has a chance to suit up in Week 1. If he does miss Arizona's season opener against the Los Angeles Chargers, it seems likely that Love would make his NFL debut in Week 2 against the Seattle Seahawks.",
+        "title": "Cardinals Optimistic on Jeremiyah Love's Status for Week 1",
+        "topic_id": "1402790983233445888",
+        "url": "https://www.rotoballer.com/player-news/cardinals-optimistic-on-jeremiyah-loves-status-for-week-1/1925408"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788799211000,
+      "source": "rotoballer",
+      "source_key": "220296",
+      "story_id": "nfl|13287|rotoballer|220296|1788799211000",
+      "title": "Cardinals Optimistic on Jeremiyah Love's Status for Week 1",
+      "url": "https://www.rotoballer.com/player-news/cardinals-optimistic-on-jeremiyah-loves-status-for-week-1/1925408"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers running back Keaton Mitchell (undisclosed) was back at practice on Monday after missing each of the last six practices, according to Kris Rhim of ESPN. It is a good sign that Mitchell is back at practice to begin the new week, but it does not guarantee that he will be active for Week 1 this Sunday, Sept. 13, against the Arizona Cardinals. If the 24-year-old is limited or out to begin the regular season, it would mean more backfield work for both Omarion Hampton and Kimani Vidal. In new offensive coordinator Mike McDaniel's scheme, Mitchell, Hampton, and Vidal are all expected to be used in some sort of committee approach. However, Hampton is expected to see the majority of opportunities, with Mitchell and Vidal picking up scraps as change-of-pace options to keep defenses on their toes. Mitchell has intriguing explosiveness and big-play ability out of the backfield, but his inability to stay healthy so far at the NFL level and committee involvement make him merely a bench stash in fantasy leagues rather than a weekly start to open the 2026 campaign.",
+      "metadata": {
+        "description": "Los Angeles Chargers running back Keaton Mitchell (undisclosed) was back at practice on Monday after missing each of the last six practices, according to Kris Rhim of ESPN. It is a good sign that Mitchell is back at practice to begin the new week, but it does not guarantee that he will be active for Week 1 this Sunday, Sept. 13, against the Arizona Cardinals. If the 24-year-old is limited or out to begin the regular season, it would mean more backfield work for both Omarion Hampton and Kimani Vidal. In new offensive coordinator Mike McDaniel's scheme, Mitchell, Hampton, and Vidal are all expected to be used in some sort of committee approach. However, Hampton is expected to see the majority of opportunities, with Mitchell and Vidal picking up scraps as change-of-pace options to keep defenses on their toes. Mitchell has intriguing explosiveness and big-play ability out of the backfield, but his inability to stay healthy so far at the NFL level and committee involvement make him merely a bench stash in fantasy leagues rather than a weekly start to open the 2026 campaign.",
+        "title": "Keaton Mitchell Back at Practice on Monday",
+        "topic_id": "1402790983237640192",
+        "url": "https://www.rotoballer.com/player-news/keaton-mitchell-back-at-practice-on-monday/1925406"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1788799205000,
+      "source": "rotoballer",
+      "source_key": "220297",
+      "story_id": "nfl|9511|rotoballer|220297|1788799205000",
+      "title": "Keaton Mitchell Back at Practice on Monday",
+      "url": "https://www.rotoballer.com/player-news/keaton-mitchell-back-at-practice-on-monday/1925406"
     },
     {
       "analysis": null,
