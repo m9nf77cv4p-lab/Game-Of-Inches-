@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2033**
+- Stored stories: **2034**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Tory Horton** — Tory Horton (hamstring) limited in practice Sunday  (2026-09-07T01:35:36.529000Z)
+- **Tory Horton** — Tory Horton (hamstring) limited in practice Sunday  (2026-09-07T01:35:36.529000Z)
   - This is a little surprising as just a couple of weeks ago, Horton was said to be out "for a while." He projects as an upside WR4/WR5 for fantasy managers when he is healthy. 
   - Source: https://www.fantasypros.com/nfl/news/606236/tory-horton-hamstring-limited-practice-sunday.php
 - **AJ Barner** — AJ Barner (oblique) practices in full Sunday  (2026-09-07T01:25:37.014000Z)
@@ -19,6 +19,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Henderson suffered a minor right ankle injury on Aug. 24 and hasn't been able to practice since then. After Sunday's absence, he'll have two more chances to mix into drills before the Patriots potentially make a ruling on his status for Week 1 when they post Tuesday's injury report. If Henderson isn't able to suit up for Wednesday's season opener at Seattle, Rhamondre Stevenson would be in line to handle the bulk of the backfield reps for New England, with Corey Kiner and practice-squad members Lan Larison and Hassan Haskins the potential candidates for complementary work, per Mike Reiss of ESPN.com.
 - **George Kittle** — George Kittle - In line to practice Monday (2026-09-06T22:04:37Z)
   - Kittle has made a speedy recovery from the torn right Achilles that he suffered in the 49ers' wild-card win at Philadelphia on Jan. 11, for which he underwent surgery three days later. Both GM John Lynch and coach Kyle Shanahan and the tight end himself expressed optimism in the offseason about Kittle being available Week 1 against the Rams, and his activation from the active/PUP list on Aug. 23 begin to set the stage for such a reality. Kittle then logged team drills last week and made the trip to Australia with his teammates. The 49ers will post their first injury report of the season Monday, which will reveal how much activity he was able to manage.
+- **NEW — Ja'Tavion Sanders** — Ja'Tavion Sanders Likely to Lose Playing Time (2026-09-06T21:45:06Z)
+  - Source: https://www.rotoballer.com/player-news/jatavion-sanders-likely-to-lose-playing-time/1924852
 - **Puka Nacua** — Puka Nacua (psoas) expected to play in Week 1 (2026-09-06T21:25:34.525000Z)
   - Nacua has been dealing with a psoas injury but returned to practice about a week ago. With the opening game in Melbourne, the Rams are being smart with their players given the toll of travel. However, their WR1 should be good to go. Nacua also still faces a potential suspension "under the NFL's personal conduct policy," says Adkins.
   - Source: https://www.fantasypros.com/nfl/news/606224/puka-nacua-expected-to-play-week-1.php
@@ -214,5 +216,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tua Tagovailoa** — Tua Tagovailoa: Falcons could name starting QB soon (2026-09-05T03:40:15.247000Z)
   - Nearly every team has named its starter for Week 1, but Atlanta has not formally announced its QB1. According to Ian Rapoport, Tagovailoa could have a "short leash" if named the starter as Atlanta waits for Penix to get healthy. Ideally, the Falcons hoped Tagovailoa would prove himself to be a steady, veteran presence, but Atlanta finds itself in limbo under center.
   - Source: https://www.fantasypros.com/nfl/news/605953/tua-tagovailoa-falcons-could-name-starting-qb-soon.php
-- **Makai Lemon** — Should Fantasy Managers Temper Expectations for Makai Lemon? (2026-09-05T00:10:05Z)
-  - Source: https://www.rotoballer.com/player-news/beat-writer-warns-fantasy-managers-to-temper-expectations-for-makai-lemon/1923686

@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T01:46:40Z",
+  "last_checked_at": "2026-09-07T01:58:03Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12497|fantasy_pros|606236|1788744936529"
+    "nfl|11600|rotoballer|220234|1788731106000"
   ],
   "schema_version": 1,
   "source": {
@@ -114,6 +114,26 @@
       "story_id": "nfl|4217|rotowire|636315|1788732277000",
       "title": "George Kittle - In line to practice Monday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers tight end Ja'Tavion Sanders might not be as appealing of a fantasy option as he was earlier in the summer. The Panthers recently signed veteran tight end Darren Waller to a deal for the 2026 season. He has been taking first-time reps, which pushes the rest of the tight ends down a spot. The latest unofficial depth chart has Sanders listed as third behind Waller and Tommy Tremble. The presence of Waller is certainly going to hurt Sanders' path to playing time. The 23-year-old still has decent upside as a dynasty stash, but he isn't someone who should be rostered in redraft formats to begin the season.",
+      "metadata": {
+        "description": "Carolina Panthers tight end Ja'Tavion Sanders might not be as appealing of a fantasy option as he was earlier in the summer. The Panthers recently signed veteran tight end Darren Waller to a deal for the 2026 season. He has been taking first-time reps, which pushes the rest of the tight ends down a spot. The latest unofficial depth chart has Sanders listed as third behind Waller and Tommy Tremble. The presence of Waller is certainly going to hurt Sanders' path to playing time. The 23-year-old still has decent upside as a dynasty stash, but he isn't someone who should be rostered in redraft formats to begin the season.",
+        "title": "Ja'Tavion Sanders Likely to Lose Playing Time",
+        "topic_id": "1402505318935633921",
+        "url": "https://www.rotoballer.com/player-news/jatavion-sanders-likely-to-lose-playing-time/1924852"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11600",
+      "player_name": "Ja'Tavion Sanders",
+      "position": "TE",
+      "published": 1788731106000,
+      "source": "rotoballer",
+      "source_key": "220234",
+      "story_id": "nfl|11600|rotoballer|220234|1788731106000",
+      "title": "Ja'Tavion Sanders Likely to Lose Playing Time",
+      "url": "https://www.rotoballer.com/player-news/jatavion-sanders-likely-to-lose-playing-time/1924852"
     },
     {
       "analysis": "Nacua has been dealing with a psoas injury but returned to practice about a week ago. With the opening game in Melbourne, the Rams are being smart with their players given the toll of travel. However, their WR1 should be good to go. Nacua also still faces a potential suspension \"under the NFL's personal conduct policy,\" says Adkins.",
