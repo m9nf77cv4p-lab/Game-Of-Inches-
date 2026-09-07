@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T04:58:27Z",
+  "last_checked_at": "2026-09-07T05:14:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|8130|rotoballer|220243|1788742200000"
+    "nfl|12497|rotoballer|220244|1788742570000"
   ],
   "schema_version": 1,
   "source": {
@@ -54,6 +54,26 @@
       "story_id": "nfl|11603|fantasy_pros|606233|1788744337014",
       "title": "AJ Barner (oblique) practices in full Sunday ",
       "url": "https://www.fantasypros.com/nfl/news/606233/aj-barner-oblique-practices-full-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Tory Horton (hamstring) was a limited participant in practice on Sunday, according to Alex Barth of 98.5 The Sports Hub. Seattle kicks off the regular season this Wednesday against the Patriots, which is why they already hit the practice field and submitted an official injury report on Sunday. The hamstring injury is something that Horton has been dealing with for a while, but he was able to avoid landing on injured reserve at the conclusion of training camp. It remains unclear whether he'll be able to suit up in Week 1, but the fact that he was even able to practice in a limited capacity should be viewed as an encouraging sign. The 23-year-old was limited to 13 catches across eight games as a rookie last year. He projects as the No. 4 receiver in Seattle this year, keeping him off the fantasy radar in most redraft leagues.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Tory Horton (hamstring) was a limited participant in practice on Sunday, according to Alex Barth of 98.5 The Sports Hub. Seattle kicks off the regular season this Wednesday against the Patriots, which is why they already hit the practice field and submitted an official injury report on Sunday. The hamstring injury is something that Horton has been dealing with for a while, but he was able to avoid landing on injured reserve at the conclusion of training camp. It remains unclear whether he'll be able to suit up in Week 1, but the fact that he was even able to practice in a limited capacity should be viewed as an encouraging sign. The 23-year-old was limited to 13 catches across eight games as a rookie last year. He projects as the No. 4 receiver in Seattle this year, keeping him off the fantasy radar in most redraft leagues.",
+        "title": "Tory Horton Limited in Practice Ahead of Week 1",
+        "topic_id": "1402554397535252480",
+        "url": "https://www.rotoballer.com/player-news/tory-horton-limited-in-practice-ahead-of-week-1/1924899"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12497",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "published": 1788742570000,
+      "source": "rotoballer",
+      "source_key": "220244",
+      "story_id": "nfl|12497|rotoballer|220244|1788742570000",
+      "title": "Tory Horton Limited in Practice Ahead of Week 1",
+      "url": "https://www.rotoballer.com/player-news/tory-horton-limited-in-practice-ahead-of-week-1/1924899"
     },
     {
       "analysis": null,

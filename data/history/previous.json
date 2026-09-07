@@ -23764,8 +23764,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-06T05:10:40Z",
-    "source_fingerprint": "84021726dde9e0b853c7bfb132996624a14e9a473237928204b9a86a79b7eebd"
+    "last_changed_at": "2026-09-06T23:17:15Z",
+    "source_fingerprint": "fab5ab0e9aeac73641be6f3f1c16e1c9b82dabba830c2235d79b5cb6a4dd8784"
   },
   "teams": [
     {
@@ -23834,7 +23834,7 @@
       "taxi_ids": [
         "13405"
       ],
-      "team_name": "2023 Is My Year"
+      "team_name": "2026 Is My Year"
     },
     {
       "manager": "steelercrazy21",

@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2039**
+- Stored stories: **2040**
 - Newly captured: **1**
 
 ## Latest news
@@ -13,7 +13,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **AJ Barner** — AJ Barner (oblique) practices in full Sunday  (2026-09-07T01:25:37.014000Z)
   - Barner missed some time early in the offseason program, but he avoided the PUP list during training camp. He heads into the season as a TE2 for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/606233/aj-barner-oblique-practices-full-sunday.php
-- **NEW — Trey McBride** — Trey McBride Remains the Focal Point of Cardinals Offense (2026-09-07T00:50:00Z)
+- **NEW — Tory Horton** — Tory Horton Limited in Practice Ahead of Week 1 (2026-09-07T00:56:10Z)
+  - Source: https://www.rotoballer.com/player-news/tory-horton-limited-in-practice-ahead-of-week-1/1924899
+- **Trey McBride** — Trey McBride Remains the Focal Point of Cardinals Offense (2026-09-07T00:50:00Z)
   - Source: https://www.rotoballer.com/player-news/trey-mcbride-remains-the-focal-point-of-cardinals-offense/1924897
 - **Tory Horton** — Tory Horton - Dealing with hamstring injury (2026-09-06T23:50:12Z)
   - Coach Mike Macdonald relayed on Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/carnell-tate-should-see-heavy-usage-as-a-rookie/1923811
 - **Luther Burden** — Luther Burden III Poised for Breakout Season Amidst Improving Health (2026-09-05T09:29:05Z)
   - Source: https://www.rotoballer.com/player-news/luther-burden-iii-poised-for-breakout-season-amidst-improving-health-outlook/1923801
-- **Josh Downs** — Josh Downs Looks Well-Positioned for a Resurgent Season in Indianapolis (2026-09-05T09:21:14Z)
-  - Source: https://www.rotoballer.com/player-news/josh-downs-looks-well-positioned-for-a-resurgent-season-in-indianapolis/1923796
