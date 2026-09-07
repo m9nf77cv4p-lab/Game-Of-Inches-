@@ -2,16 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2045**
-- Newly captured: **2**
+- Stored stories: **2046**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa - Will start Week 1 (2026-09-07T12:23:28Z)
+- **Tua Tagovailoa** — Tua Tagovailoa - Will start Week 1 (2026-09-07T12:23:28Z)
   - The Falcons were deciding between Tagovailoa and Michael Penix (knee) for their Week 1 starter, and with the latter still getting back up to speed, Tagovailoa will get the nod.
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa named Falcons starter (2026-09-07T12:15:40.302000Z)
+- **Tua Tagovailoa** — Tua Tagovailoa named Falcons starter (2026-09-07T12:15:40.302000Z)
   - After a camp that was full of negative reports, Tua has managed to win the starting job. Frankly, it's likely by default, as Michael Penix just got back to practice after suffering a torn ACL last season. It will be interesting to see how long Tua can keep the job.
   - Source: https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php
+- **NEW — Tua Tagovailoa** — Falcons Name Tua Tagovailoa Week 1 Starter (2026-09-07T08:22:11Z)
+  - Source: https://www.rotoballer.com/player-news/falcons-name-tua-tagovailoa-week-1-starter/1924969
 - **Christian McCaffrey** — Christian McCaffrey - Sitting out early drills Monday (2026-09-07T05:57:03Z)
   - This was the portion of practice available to the media Monday. We'll await the official practice status of McCaffrey, with the Niners taking on the Rams on Thursday.
 - **Tory Horton** — Tory Horton (hamstring) limited in practice Sunday  (2026-09-07T01:35:36.529000Z)
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-a-risky-pick-now-with-injury-emergence-of-mike-washington-jr/1923852
 - **Jaxson Dart** — Jaxson Dart Feeling More Comfortable In Giants Offense (2026-09-05T10:45:05Z)
   - Source: https://www.rotoballer.com/player-news/jaxson-dart-feeling-more-comfortable-in-giants-offense/1923844
-- **Chase Brown** — Chase Brown Ready For Three-Down Role in Bengals Offense (2026-09-05T10:32:06Z)
-  - Source: https://www.rotoballer.com/player-news/chase-brown-ready-for-three-down-role-in-bengals-offense/1923841

@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T12:28:04Z",
+  "last_checked_at": "2026-09-07T12:48:19Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|6768|fantasy_pros|606317|1788783340302",
-    "nfl|6768|rotowire|636328|1788783808000"
+    "nfl|6768|rotoballer|220248|1788769331000"
   ],
   "schema_version": 1,
   "source": {
@@ -54,6 +53,26 @@
       "story_id": "nfl|6768|fantasy_pros|606317|1788783340302",
       "title": "Tua Tagovailoa named Falcons starter",
       "url": "https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php"
+    },
+    {
+      "analysis": null,
+      "description": "According to Adam Schefter of ESPN, the Atlanta Falcons have named quarterback Tua Tagovailoa their starter for their Week 1 matchup against the Pittsburgh Steelers. The former Miami Dolphins quarterback joined the Falcons in the offseason and was competing alongside Michael Penix Jr. for the starting job. However, with Penix still recovering from a torn ACL, Tagovailoa had the edge for much of the competition. Despite this, fantasy managers should keep a close eye on his production, as Ian Rapoport of the NFL Network reported last week that the Falcons may not give Tagovailoa a long leash if he were to struggle early in the season. In 2025, Tagovailoa appeared in 14 games for the Dolphins and posted a modest 20:15 TD:INT while averaging 190 passing yards per game. Given his inconsistencies last season, Tagovailoa should be viewed as a low-end QB3 in Superflex formats in Week 1.",
+      "metadata": {
+        "description": "According to Adam Schefter of ESPN, the Atlanta Falcons have named quarterback Tua Tagovailoa their starter for their Week 1 matchup against the Pittsburgh Steelers. The former Miami Dolphins quarterback joined the Falcons in the offseason and was competing alongside Michael Penix Jr. for the starting job. However, with Penix still recovering from a torn ACL, Tagovailoa had the edge for much of the competition. Despite this, fantasy managers should keep a close eye on his production, as Ian Rapoport of the NFL Network reported last week that the Falcons may not give Tagovailoa a long leash if he were to struggle early in the season. In 2025, Tagovailoa appeared in 14 games for the Dolphins and posted a modest 20:15 TD:INT while averaging 190 passing yards per game. Given his inconsistencies last season, Tagovailoa should be viewed as a low-end QB3 in Superflex formats in Week 1.",
+        "title": "Falcons Name Tua Tagovailoa Week 1 Starter",
+        "topic_id": "1402666397187768320",
+        "url": "https://www.rotoballer.com/player-news/falcons-name-tua-tagovailoa-week-1-starter/1924969"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1788769331000,
+      "source": "rotoballer",
+      "source_key": "220248",
+      "story_id": "nfl|6768|rotoballer|220248|1788769331000",
+      "title": "Falcons Name Tua Tagovailoa Week 1 Starter",
+      "url": "https://www.rotoballer.com/player-news/falcons-name-tua-tagovailoa-week-1-starter/1924969"
     },
     {
       "analysis": "This was the portion of practice available to the media Monday. We'll await the official practice status of McCaffrey, with the Niners taking on the Rams on Thursday.",
