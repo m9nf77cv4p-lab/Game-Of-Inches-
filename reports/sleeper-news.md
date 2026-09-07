@@ -2,12 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2031**
+- Stored stories: **2032**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Tory Horton** — Tory Horton - Dealing with hamstring injury (2026-09-06T23:50:12Z)
+- **NEW — AJ Barner** — AJ Barner (oblique) practices in full Sunday  (2026-09-07T01:25:37.014000Z)
+  - Barner missed some time early in the offseason program, but he avoided the PUP list during training camp. He heads into the season as a TE2 for fantasy managers. 
+  - Source: https://www.fantasypros.com/nfl/news/606233/aj-barner-oblique-practices-full-sunday.php
+- **Tory Horton** — Tory Horton - Dealing with hamstring injury (2026-09-06T23:50:12Z)
   - Coach Mike Macdonald relayed on Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.
 - **TreVeyon Henderson** — TreVeyon Henderson - Misses Sunday's practice (2026-09-06T23:31:39Z)
   - Henderson suffered a minor right ankle injury on Aug. 24 and hasn't been able to practice since then. After Sunday's absence, he'll have two more chances to mix into drills before the Patriots potentially make a ruling on his status for Week 1 when they post Tuesday's injury report. If Henderson isn't able to suit up for Wednesday's season opener at Seattle, Rhamondre Stevenson would be in line to handle the bulk of the backfield reps for New England, with Corey Kiner and practice-squad members Lan Larison and Hassan Haskins the potential candidates for complementary work, per Mike Reiss of ESPN.com.
@@ -212,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/beat-writer-warns-fantasy-managers-to-temper-expectations-for-makai-lemon/1923686
 - **Tyler Allgeier** — Tyler Allgeier a Top Running Back Target in the Later Rounds (2026-09-05T00:02:06Z)
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-a-top-running-back-target-in-the-later-rounds/1923684
-- **Stefon Diggs** — Stefon Diggs Set for High-Volume Role in Washington (2026-09-04T23:52:06Z)
-  - Source: https://www.rotoballer.com/player-news/stefon-diggs-set-for-high-volume-role-in-washington/1923681

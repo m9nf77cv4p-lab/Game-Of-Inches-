@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T00:02:16Z",
+  "last_checked_at": "2026-09-07T01:33:07Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12497|rotowire|636318|1788738612000"
+    "nfl|11603|fantasy_pros|606233|1788744337014"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Barner missed some time early in the offseason program, but he avoided the PUP list during training camp. He heads into the season as a TE2 for fantasy managers. ",
+      "description": "AJ Barner was a full participant in practice on Sunday. ",
+      "metadata": {
+        "analysis": "Barner missed some time early in the offseason program, but he avoided the PUP list during training camp. He heads into the season as a TE2 for fantasy managers. ",
+        "description": "AJ Barner was a full participant in practice on Sunday. ",
+        "title": "AJ Barner (oblique) practices in full Sunday ",
+        "topic_id": "1402499037474643968",
+        "url": "https://www.fantasypros.com/nfl/news/606233/aj-barner-oblique-practices-full-sunday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11603",
+      "player_name": "AJ Barner",
+      "position": "TE",
+      "published": 1788744337014,
+      "source": "fantasy_pros",
+      "source_key": "606233",
+      "story_id": "nfl|11603|fantasy_pros|606233|1788744337014",
+      "title": "AJ Barner (oblique) practices in full Sunday ",
+      "url": "https://www.fantasypros.com/nfl/news/606233/aj-barner-oblique-practices-full-sunday.php"
+    },
     {
       "analysis": "Coach Mike Macdonald relayed on Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.",
       "description": "Horton was limited at Sunday's practice due to a hamstring injury, John Boyle of the Seahawks' official site reports.",
