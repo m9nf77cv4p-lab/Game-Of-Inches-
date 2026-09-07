@@ -3,16 +3,16 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **2046**
-- Newly captured: **1**
+- Newly captured: **0**
 
 ## Latest news
 
 - **Tua Tagovailoa** — Tua Tagovailoa - Will start Week 1 (2026-09-07T12:23:28Z)
-  - The Falcons were deciding between Tagovailoa and Michael Penix (knee) for their Week 1 starter, and with the latter still getting back up to speed, Tagovailoa will get the nod.
+  - The Falcons were deciding between Tagovailoa and Michael Penix (knee) for the Week 1 starting assignment, and with the latter still getting back up to full speed as he works his way back from a torn ACL, Tagovailoa will get the nod. Tagovailoa likely won't have much leash as a starter, coming off a poor preseason in which he completed 10 of 13 pass attempts for 117 yards while fumbling twice (losing one).
 - **Tua Tagovailoa** — Tua Tagovailoa named Falcons starter (2026-09-07T12:15:40.302000Z)
   - After a camp that was full of negative reports, Tua has managed to win the starting job. Frankly, it's likely by default, as Michael Penix just got back to practice after suffering a torn ACL last season. It will be interesting to see how long Tua can keep the job.
   - Source: https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php
-- **NEW — Tua Tagovailoa** — Falcons Name Tua Tagovailoa Week 1 Starter (2026-09-07T08:22:11Z)
+- **Tua Tagovailoa** — Falcons Name Tua Tagovailoa Week 1 Starter (2026-09-07T08:22:11Z)
   - Source: https://www.rotoballer.com/player-news/falcons-name-tua-tagovailoa-week-1-starter/1924969
 - **Christian McCaffrey** — Christian McCaffrey - Sitting out early drills Monday (2026-09-07T05:57:03Z)
   - This was the portion of practice available to the media Monday. We'll await the official practice status of McCaffrey, with the Niners taking on the Rams on Thursday.

@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-07T12:48:19Z",
+  "last_checked_at": "2026-09-07T13:20:45Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|6768|rotoballer|220248|1788769331000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -14,11 +12,11 @@
   },
   "stories": [
     {
-      "analysis": "The Falcons were deciding between Tagovailoa and Michael Penix (knee) for their Week 1 starter, and with the latter still getting back up to speed, Tagovailoa will get the nod.",
-      "description": "Tagovailoa will start at quarterback in Sunday's season opener against the Steelers, Tom Pelissero of Netflix reports.",
+      "analysis": "The Falcons were deciding between Tagovailoa and Michael Penix (knee) for the Week 1 starting assignment, and with the latter still getting back up to full speed as he works his way back from a torn ACL, Tagovailoa will get the nod. Tagovailoa likely won't have much leash as a starter, coming off a poor preseason in which he completed 10 of 13 pass attempts for 117 yards while fumbling twice (losing one).",
+      "description": "The Falcons will have Tagovailoa start at quarterback in Sunday's season opener against the Steelers, Tom Pelissero of Netflix reports.",
       "metadata": {
-        "analysis": "The Falcons were deciding between Tagovailoa and Michael Penix (knee) for their Week 1 starter, and with the latter still getting back up to speed, Tagovailoa will get the nod.",
-        "description": "Tagovailoa will start at quarterback in Sunday's season opener against the Steelers, Tom Pelissero of Netflix reports.",
+        "analysis": "The Falcons were deciding between Tagovailoa and Michael Penix (knee) for the Week 1 starting assignment, and with the latter still getting back up to full speed as he works his way back from a torn ACL, Tagovailoa will get the nod. Tagovailoa likely won't have much leash as a starter, coming off a poor preseason in which he completed 10 of 13 pass attempts for 117 yards while fumbling twice (losing one).",
+        "description": "The Falcons will have Tagovailoa start at quarterback in Sunday's season opener against the Steelers, Tom Pelissero of Netflix reports.",
         "title": "Tua Tagovailoa - Will start Week 1",
         "topic_id": "1402665140343537664"
       },
