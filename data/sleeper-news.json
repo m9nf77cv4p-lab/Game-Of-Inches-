@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T14:01:32Z",
+  "last_checked_at": "2026-09-07T14:20:38Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13414|rotoballer|220253|1788774625000"
+    "nfl|11624|rotoballer|220254|1788775211000"
   ],
   "schema_version": 1,
   "source": {
@@ -93,6 +93,26 @@
       "story_id": "nfl|6768|fantasy_pros|606317|1788783340302",
       "title": "Tua Tagovailoa named Falcons starter",
       "url": "https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs wide receiver Xavier Worthy enters the 2026 season in a strong position. After a shoulder injury, Worthy struggled, hauling in 42 of 73 targets for 532 yards and one touchdown in 14 games. He suffered the injury on the first drive of the 2025 season, and it was reportedly \"serious\" and should have required season-ending surgery. Now that he and star quarterback Patrick Mahomes are healthy, Worthy hopes to regain form in 2026. With Eric Bieniemy back in Kansas City, Worthy hopes to be the new \"Tyreek Hill\" in this offense. With Rashee Rice not looking great in training camp, Worthy could be the lead receiver in 2026. He faces a tough Week 1 matchup against the Denver Broncos, but a big game on Monday night will make him a top addition on the waiver wire next week.",
+      "metadata": {
+        "description": "Kansas City Chiefs wide receiver Xavier Worthy enters the 2026 season in a strong position. After a shoulder injury, Worthy struggled, hauling in 42 of 73 targets for 532 yards and one touchdown in 14 games. He suffered the injury on the first drive of the 2025 season, and it was reportedly \"serious\" and should have required season-ending surgery. Now that he and star quarterback Patrick Mahomes are healthy, Worthy hopes to regain form in 2026. With Eric Bieniemy back in Kansas City, Worthy hopes to be the new \"Tyreek Hill\" in this offense. With Rashee Rice not looking great in training camp, Worthy could be the lead receiver in 2026. He faces a tough Week 1 matchup against the Denver Broncos, but a big game on Monday night will make him a top addition on the waiver wire next week.",
+        "title": "Xavier Worthy Could Become Top Waiver Wire Target After Injury-Plagued 2025",
+        "topic_id": "1402691566325276672",
+        "url": "https://www.rotoballer.com/player-news/xavier-worthy-could-become-top-waiver-wire-target-after-injury-plagued-2025/1925044"
+      },
+      "nfl_team": "KC",
+      "player_id": "11624",
+      "player_name": "Xavier Worthy",
+      "position": "WR",
+      "published": 1788775211000,
+      "source": "rotoballer",
+      "source_key": "220254",
+      "story_id": "nfl|11624|rotoballer|220254|1788775211000",
+      "title": "Xavier Worthy Could Become Top Waiver Wire Target After Injury-Plagued 2025",
+      "url": "https://www.rotoballer.com/player-news/xavier-worthy-could-become-top-waiver-wire-target-after-injury-plagued-2025/1925044"
     },
     {
       "analysis": null,

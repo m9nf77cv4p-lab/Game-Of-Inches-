@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2053**
+- Stored stories: **2054**
 - Newly captured: **1**
 
 ## Latest news
@@ -16,7 +16,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tua Tagovailoa** — Tua Tagovailoa named Falcons starter (2026-09-07T12:15:40.302000Z)
   - After a camp that was full of negative reports, Tua has managed to win the starting job. Frankly, it's likely by default, as Michael Penix just got back to practice after suffering a torn ACL last season. It will be interesting to see how long Tua can keep the job.
   - Source: https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php
-- **NEW — Kaelon Black** — Kaelon Black a Priority Waiver-Wire Add With CMC Banged Up (2026-09-07T09:50:25Z)
+- **NEW — Xavier Worthy** — Xavier Worthy Could Become Top Waiver Wire Target After Injury-Plagued 2025 (2026-09-07T10:00:11Z)
+  - Source: https://www.rotoballer.com/player-news/xavier-worthy-could-become-top-waiver-wire-target-after-injury-plagued-2025/1925044
+- **Kaelon Black** — Kaelon Black a Priority Waiver-Wire Add With CMC Banged Up (2026-09-07T09:50:25Z)
   - Source: https://www.rotoballer.com/player-news/kaelon-black-a-priority-waiver-wire-add-with-mccaffrey-not-practicing/1925037
 - **Wan'Dale Robinson** — Wan'Dale Robinson Worth Adding Ahead of Week 1 (2026-09-07T09:41:09Z)
   - Source: https://www.rotoballer.com/player-news/wandale-robinson-worth-adding-ahead-of-week-1/1925020
@@ -211,5 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jacob-saylors-has-earned-the-trust-of-the-coaching-staff/1923935
 - **Puka Nacua** — Puka Nacua "Making Good Progress" (2026-09-05T12:24:05Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacua-making-good-progress/1923933
-- **Tyrone Tracy** — Tyrone Tracy Jr. Trending Towards Being Inactive in Week 1? (2026-09-05T12:00:05Z)
-  - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-trending-towards-being-inactive-in-week-1/1923926
