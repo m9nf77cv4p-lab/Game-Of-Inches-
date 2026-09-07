@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2040**
-- Newly captured: **1**
+- Stored stories: **2042**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -13,7 +13,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **AJ Barner** — AJ Barner (oblique) practices in full Sunday  (2026-09-07T01:25:37.014000Z)
   - Barner missed some time early in the offseason program, but he avoided the PUP list during training camp. He heads into the season as a TE2 for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/606233/aj-barner-oblique-practices-full-sunday.php
-- **NEW — Tory Horton** — Tory Horton Limited in Practice Ahead of Week 1 (2026-09-07T00:56:10Z)
+- **NEW — George Kittle** — George Kittle Practices Ahead of Week 1 (2026-09-07T01:16:24Z)
+  - Source: https://www.rotoballer.com/player-news/george-kittle-practices-ahead-of-week-1/1924907
+- **NEW — Christian McCaffrey** — Christian McCaffrey Doesn't Practice on Monday (2026-09-07T01:11:17Z)
+  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-doesnt-practice-on-monday/1924905
+- **Tory Horton** — Tory Horton Limited in Practice Ahead of Week 1 (2026-09-07T00:56:10Z)
   - Source: https://www.rotoballer.com/player-news/tory-horton-limited-in-practice-ahead-of-week-1/1924899
 - **Trey McBride** — Trey McBride Remains the Focal Point of Cardinals Offense (2026-09-07T00:50:00Z)
   - Source: https://www.rotoballer.com/player-news/trey-mcbride-remains-the-focal-point-of-cardinals-offense/1924897
@@ -208,7 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/parker-washingtons-stock-soaring-amidst-wr1-buzz-in-jacksonville/1923821
 - **CeeDee Lamb** — CeeDee Lamb a Faller in Drafts Amidst Target-Share Questions in Dallas (2026-09-05T09:47:06Z)
   - Source: https://www.rotoballer.com/player-news/ceedee-lamb-a-faller-in-drafts-amidst-target-share-questions-in-dallas/1923815
-- **Carnell Tate** — Carnell Tate Should See Heavy Usage as a Rookie (2026-09-05T09:35:50Z)
-  - Source: https://www.rotoballer.com/player-news/carnell-tate-should-see-heavy-usage-as-a-rookie/1923811
-- **Luther Burden** — Luther Burden III Poised for Breakout Season Amidst Improving Health (2026-09-05T09:29:05Z)
-  - Source: https://www.rotoballer.com/player-news/luther-burden-iii-poised-for-breakout-season-amidst-improving-health-outlook/1923801

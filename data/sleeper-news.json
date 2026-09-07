@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-07T05:14:58Z",
+  "last_checked_at": "2026-09-07T05:30:25Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12497|rotoballer|220244|1788742570000"
+    "nfl|4034|rotoballer|220247|1788743477000",
+    "nfl|4217|rotoballer|220246|1788743784000"
   ],
   "schema_version": 1,
   "source": {
@@ -54,6 +55,46 @@
       "story_id": "nfl|11603|fantasy_pros|606233|1788744337014",
       "title": "AJ Barner (oblique) practices in full Sunday ",
       "url": "https://www.fantasypros.com/nfl/news/606233/aj-barner-oblique-practices-full-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers tight end George Kittle (Achilles) participated in practice on Monday, according to Matt Maiocco of NBC Sports. For clarification purposes, the 49ers are overseas preparing for Week 1, so this practice occurred on Monday in Australia but lined up with the waning hours of Sunday in the United States. Time zone logistics aside, fantasy managers should be encouraged that Kittle was able to practice on Monday. There's still a chance that he has some sort of snap count for Week 1, but at this point, it looks like he'll at least be active for the season opener. This falls in line with a previous report from ESPN.com's Adam Schefter that said Kittle should be able to play. The 32-year-old is a top-three fantasy tight end when healthy, and he'll be tasked with occupying a major receiving role once again this year. Managers looking for additional updates on Kittle's status should check back in approximately 24 hours when the 49ers release their first official injury report of the regular season.",
+      "metadata": {
+        "description": "San Francisco 49ers tight end George Kittle (Achilles) participated in practice on Monday, according to Matt Maiocco of NBC Sports. For clarification purposes, the 49ers are overseas preparing for Week 1, so this practice occurred on Monday in Australia but lined up with the waning hours of Sunday in the United States. Time zone logistics aside, fantasy managers should be encouraged that Kittle was able to practice on Monday. There's still a chance that he has some sort of snap count for Week 1, but at this point, it looks like he'll at least be active for the season opener. This falls in line with a previous report from ESPN.com's Adam Schefter that said Kittle should be able to play. The 32-year-old is a top-three fantasy tight end when healthy, and he'll be tasked with occupying a major receiving role once again this year. Managers looking for additional updates on Kittle's status should check back in approximately 24 hours when the 49ers release their first official injury report of the regular season.",
+        "title": "George Kittle Practices Ahead of Week 1",
+        "topic_id": "1402558173113487361",
+        "url": "https://www.rotoballer.com/player-news/george-kittle-practices-ahead-of-week-1/1924907"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788743784000,
+      "source": "rotoballer",
+      "source_key": "220246",
+      "story_id": "nfl|4217|rotoballer|220246|1788743784000",
+      "title": "George Kittle Practices Ahead of Week 1",
+      "url": "https://www.rotoballer.com/player-news/george-kittle-practices-ahead-of-week-1/1924907"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers running back Christian McCaffrey (undisclosed) did not participate in the portion of Monday's practice that was open to the media, according to Matt Maiocco of NBC Sports. For clarification purposes, it's worth noting that this practice occurred on Monday in Australia, where the 49ers currently are, but it technically lined up with the waning hours of Sunday evening on the United States west coast. McCaffrey had been dealing with an undisclosed injury throughout camp, but it wasn't always serious enough to keep him out of practice. Therefore, there's at least a little bit of concern that he didn't participate in practice on Monday. The good news is that the 49ers still have three more days of practice ahead of them, so he could upgrade to a limited or even full participant by the time the first official injury reports come out on Tuesday in Australia (or Monday night in the United States).",
+      "metadata": {
+        "description": "San Francisco 49ers running back Christian McCaffrey (undisclosed) did not participate in the portion of Monday's practice that was open to the media, according to Matt Maiocco of NBC Sports. For clarification purposes, it's worth noting that this practice occurred on Monday in Australia, where the 49ers currently are, but it technically lined up with the waning hours of Sunday evening on the United States west coast. McCaffrey had been dealing with an undisclosed injury throughout camp, but it wasn't always serious enough to keep him out of practice. Therefore, there's at least a little bit of concern that he didn't participate in practice on Monday. The good news is that the 49ers still have three more days of practice ahead of them, so he could upgrade to a limited or even full participant by the time the first official injury reports come out on Tuesday in Australia (or Monday night in the United States).",
+        "title": "Christian McCaffrey Doesn't Practice on Monday",
+        "topic_id": "1402558173113487360",
+        "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-doesnt-practice-on-monday/1924905"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1788743477000,
+      "source": "rotoballer",
+      "source_key": "220247",
+      "story_id": "nfl|4034|rotoballer|220247|1788743477000",
+      "title": "Christian McCaffrey Doesn't Practice on Monday",
+      "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-doesnt-practice-on-monday/1924905"
     },
     {
       "analysis": null,
