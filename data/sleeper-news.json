@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-07T15:00:22Z",
+  "last_checked_at": "2026-09-07T15:18:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9511|rotoballer|220259|1788778000000"
+    "nfl|11559|rotowire|636331|1788793251000",
+    "nfl|12529|rotoballer|220261|1788779345000",
+    "nfl|5947|rotoballer|220260|1788778445000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "While addressing the media shortly after the Falcons named Tua Tagovailoa their Week 1 starter Monday, Stefanski noted that Penix had taken part in only six 11-on-11 practices during training camp, so the third-year quarterback will need some more time to get back to full speed following last November's ACL tear before making his 2026 debut, per Raimondi. The Falcons were pleased enough with Penix's progress to wait until less than a week before the season opener to name a starter, which suggests that he'll likely get a chance to supplant Tagovailoa atop the depth chart at some point this season. While Penix is in street clothes for Week 1, Cooper Rush will step in as Tagovailoa's backup, and undrafted rookie Jack Strand will serve as the No. 3 quarterback.",
+      "description": "Falcons head coach Kevin Stefanski said that Penix (knee) will be inactive for Sunday's season opener in Pittsburgh, Marc Raimondi of ESPN.com reports.",
+      "metadata": {
+        "analysis": "While addressing the media shortly after the Falcons named Tua Tagovailoa their Week 1 starter Monday, Stefanski noted that Penix had taken part in only six 11-on-11 practices during training camp, so the third-year quarterback will need some more time to get back to full speed following last November's ACL tear before making his 2026 debut, per Raimondi. The Falcons were pleased enough with Penix's progress to wait until less than a week before the season opener to name a starter, which suggests that he'll likely get a chance to supplant Tagovailoa atop the depth chart at some point this season. While Penix is in street clothes for Week 1, Cooper Rush will step in as Tagovailoa's backup, and undrafted rookie Jack Strand will serve as the No. 3 quarterback.",
+        "description": "Falcons head coach Kevin Stefanski said that Penix (knee) will be inactive for Sunday's season opener in Pittsburgh, Marc Raimondi of ESPN.com reports.",
+        "title": "Michael Penix - Will be inactive for season opener",
+        "topic_id": "1402705410166632448"
+      },
+      "nfl_team": "ATL",
+      "player_id": "11559",
+      "player_name": "Michael Penix",
+      "position": "QB",
+      "published": 1788793251000,
+      "source": "rotowire",
+      "source_key": "636331",
+      "story_id": "nfl|11559|rotowire|636331|1788793251000",
+      "title": "Michael Penix - Will be inactive for season opener",
+      "url": null
+    },
     {
       "analysis": "Though Penix is expected to receive the opportunity to start at some point in 2026, he'll have to wait at least one more week before getting his chance while he continues to work his way back from the torn ACL he sustained last November. Penix didn't play in the preseason and wasn't cleared to take part in 11-on-11 drills until Aug. 22, so he'll need to get some full practices under his belt before the Falcons consider elevating him into the starting role over Tagovailoa, who completed 10 of 13 pass attempts for 117 yards in two exhibition contests but fumbled twice and generally struggled to push the ball downfield during the preseason and training camp. The Falcons kept four quarterbacks on their roster following the preseason, so Cooper Rush and Jack Strand will be available as backup options if Penix isn't ready to serve as Tagovailoa's understudy in the season opener.",
       "description": "Penix (knee) won't start the season opener Sunday in Pittsburgh, after the Falcons named Tua Tagovailoa their top quarterback heading into Week 1, Will McFadden and Tori McElhaney of the team's official site reports.",
@@ -93,6 +115,46 @@
       "story_id": "nfl|6768|fantasy_pros|606317|1788783340302",
       "title": "Tua Tagovailoa named Falcons starter",
       "url": "https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots running back TreVeyon Henderson (ankle) remains uncertain for Wednesday night's opener against Seattle. Asked Monday about Henderson's status, head coach Mike Vrabel said the team will see how he feels and whether he can do anything at practice, according to Alex Barth. Vrabel added that Henderson has been working \"extremely hard\" to get back. Henderson was officially listed as a non-participant Sunday and has not practiced since injuring his ankle Aug. 24. The second-year back ran for 911 yards and nine touchdowns on 180 carries as a rookie while adding 35 catches for 221 yards and another score. New England has not yet issued Monday's official practice designation, so Henderson's status remains up in the air with the opener only two days away.",
+      "metadata": {
+        "description": "New England Patriots running back TreVeyon Henderson (ankle) remains uncertain for Wednesday night's opener against Seattle. Asked Monday about Henderson's status, head coach Mike Vrabel said the team will see how he feels and whether he can do anything at practice, according to Alex Barth. Vrabel added that Henderson has been working \"extremely hard\" to get back. Henderson was officially listed as a non-participant Sunday and has not practiced since injuring his ankle Aug. 24. The second-year back ran for 911 yards and nine touchdowns on 180 carries as a rookie while adding 35 catches for 221 yards and another score. New England has not yet issued Monday's official practice designation, so Henderson's status remains up in the air with the opener only two days away.",
+        "title": "TreVeyon Henderson's Week 1 Status Remains Uncertain",
+        "topic_id": "1402707926212153344",
+        "url": "https://www.rotoballer.com/player-news/treveyon-hendersons-week-1-status-remains-uncertain/1925109"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788779345000,
+      "source": "rotoballer",
+      "source_key": "220261",
+      "story_id": "nfl|12529|rotoballer|220261|1788779345000",
+      "title": "TreVeyon Henderson's Week 1 Status Remains Uncertain",
+      "url": "https://www.rotoballer.com/player-news/treveyon-hendersons-week-1-status-remains-uncertain/1925109"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars wide receiver Jakobi Meyers had a very productive second half of his 2026 season after being traded from Vegas to Jacksonville. Meyers finished last year as the WR32 in PPR leagues, but he jumped to the overall WR17 spot after joining the Jaguars' offense. Additionally, he scored zero touchdowns with the Raiders, then went on to score three with the Jags. Meyers benefitted significantly from playing in an improved offense with Trevor Lawrence as his quarterback, and he was able to maintain WR2 value despite competing for targets with Parker Washington, Brian Thomas Jr., and Brenton Strange. Those three players will continue to push for volume this year, but Meyers has already established that he's going to get the ball and produce regardless of the players around him. Plus, there should be enough targets to go around. This was already a high-volume passing offense last year, and now, we would expect to see even more emphasis on throwing the ball after running back Travis Etienne Jr. departed in free agency. Right now, managers are drafting Meyers as the 50th receiver off the board. There's a massive discrepancy between his price tag and his outlook, which creates a great opportunity for managers to pick up Meyers off the waiver wire after drafts end. He should be a priority waiver wire target in 10+ team leagues.",
+      "metadata": {
+        "description": "Jacksonville Jaguars wide receiver Jakobi Meyers had a very productive second half of his 2026 season after being traded from Vegas to Jacksonville. Meyers finished last year as the WR32 in PPR leagues, but he jumped to the overall WR17 spot after joining the Jaguars' offense. Additionally, he scored zero touchdowns with the Raiders, then went on to score three with the Jags. Meyers benefitted significantly from playing in an improved offense with Trevor Lawrence as his quarterback, and he was able to maintain WR2 value despite competing for targets with Parker Washington, Brian Thomas Jr., and Brenton Strange. Those three players will continue to push for volume this year, but Meyers has already established that he's going to get the ball and produce regardless of the players around him. Plus, there should be enough targets to go around. This was already a high-volume passing offense last year, and now, we would expect to see even more emphasis on throwing the ball after running back Travis Etienne Jr. departed in free agency. Right now, managers are drafting Meyers as the 50th receiver off the board. There's a massive discrepancy between his price tag and his outlook, which creates a great opportunity for managers to pick up Meyers off the waiver wire after drafts end. He should be a priority waiver wire target in 10+ team leagues.",
+        "title": "Jakobi Meyers a Potential Steal in Fantasy Leagues",
+        "topic_id": "1402705409294204928",
+        "url": "https://www.rotoballer.com/player-news/jakobi-meyers-a-potential-steal-in-fantasy-leagues/1925096"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1788778445000,
+      "source": "rotoballer",
+      "source_key": "220260",
+      "story_id": "nfl|5947|rotoballer|220260|1788778445000",
+      "title": "Jakobi Meyers a Potential Steal in Fantasy Leagues",
+      "url": "https://www.rotoballer.com/player-news/jakobi-meyers-a-potential-steal-in-fantasy-leagues/1925096"
     },
     {
       "analysis": null,
@@ -41331,26 +41393,6 @@
       "story_id": "nfl|6786|rotoballer|218203|1786202530000",
       "title": "CeeDee Lamb Still Worth His First-Round Price",
       "url": "https://www.rotoballer.com/player-news/ceedee-lamb-still-worth-his-first-round-price/1905389"
-    },
-    {
-      "analysis": null,
-      "description": "Detroit Lions wide receiver Isaac TeSlaa didn't do much between the 20s as a rookie, but six touchdowns on 16 catches made it hard to ignore what his size can add to this offense. Detroit is giving him more to do now. The 24-year-old enters camp as the clear No. 3 receiver behind Amon-Ra St. Brown and Jameson Williams, and Dan Campbell said the Lions had built a lot of trust in him by the end of last season. There is some noise in the late-season numbers, though. TeSlaa caught 12 balls over the final six weeks, but that run came after Sam LaPorta went on injured reserve. LaPorta is back at full strength, and Jahmyr Gibbs will also see plenty of targets. TeSlaa may never get enough volume to become a weekly fantasy starter in this offense. Still, Detroit traded up 32 spots to take him 70th overall last year, and his 6-foot-4 frame gives him a red-zone role that doesn't require huge target volume. RotoBaller has him 189th overall in its latest dynasty rankings. That's cheap enough to buy into the Year 2 role growth without paying for a breakout that's already happened.",
-      "metadata": {
-        "description": "Detroit Lions wide receiver Isaac TeSlaa didn't do much between the 20s as a rookie, but six touchdowns on 16 catches made it hard to ignore what his size can add to this offense. Detroit is giving him more to do now. The 24-year-old enters camp as the clear No. 3 receiver behind Amon-Ra St. Brown and Jameson Williams, and Dan Campbell said the Lions had built a lot of trust in him by the end of last season. There is some noise in the late-season numbers, though. TeSlaa caught 12 balls over the final six weeks, but that run came after Sam LaPorta went on injured reserve. LaPorta is back at full strength, and Jahmyr Gibbs will also see plenty of targets. TeSlaa may never get enough volume to become a weekly fantasy starter in this offense. Still, Detroit traded up 32 spots to take him 70th overall last year, and his 6-foot-4 frame gives him a red-zone role that doesn't require huge target volume. RotoBaller has him 189th overall in its latest dynasty rankings. That's cheap enough to buy into the Year 2 role growth without paying for a breakout that's already happened.",
-        "title": "Isaac TeSlaa's Growing Role Makes Him a Dynasty Buy",
-        "topic_id": "1391896650393341952",
-        "url": "https://www.rotoballer.com/player-news/isaac-teslaas-growing-role-makes-him-a-dynasty-buy/1905383"
-      },
-      "nfl_team": "DET",
-      "player_id": "12535",
-      "player_name": "Isaac TeSlaa",
-      "position": "WR",
-      "published": 1786201747000,
-      "source": "rotoballer",
-      "source_key": "218202",
-      "story_id": "nfl|12535|rotoballer|218202|1786201747000",
-      "title": "Isaac TeSlaa's Growing Role Makes Him a Dynasty Buy",
-      "url": "https://www.rotoballer.com/player-news/isaac-teslaas-growing-role-makes-him-a-dynasty-buy/1905383"
     }
   ]
 }
