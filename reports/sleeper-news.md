@@ -2,13 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2114**
+- Stored stories: **2116**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Remains out of practice Monday (2026-09-07T20:25:56Z)
-  - Henderson has been DNP all week leading up to Wednesday's season opener in Seattle, and it's looking extremely unlikely that he's going to play Week 1. The Patriots have one more practice report to issue Tuesday, and it's at least notable that Henderson traveled with the team to Seattle, according to Mike Reiss of ESPN.com. If the second-year running back in unable to play, Rhamondre Stevenson would be looking at a potential workhorse role, as Corey Kiner is the only other running back on the active roster. Lan Larison is on the practice squad as a likely elevation.
+- **NEW — Jeremiyah Love** — Jeremiyah Love - Optimism for Week 1 (2026-09-07T20:34:27Z)
+  - Love was moving around at practice Monday, but LaFleur would only go as far as to say the rooking running back is "progressing" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.
+- **TreVeyon Henderson** — TreVeyon Henderson - Remains out of practice Monday (2026-09-07T20:25:56Z)
+  - Henderson has been DNP all week leading up to Wednesday's season opener in Seattle, and it's looking extremely unlikely that he's going to play Week 1. The Patriots have one more practice report to issue Tuesday, and it's at least notable that Henderson traveled with the team to Seattle, according to Mike Reiss of ESPN.com. If the second-year running back is unable to play, Rhamondre Stevenson would be looking at a potential workhorse role, as Corey Kiner is the only other running back on the active roster. Lan Larison is on the practice squad as a likely elevation.
 - **Keaton Mitchell** — Keaton Mitchell returns to practice Monday  (2026-09-07T20:15:43.840000Z)
   - Mitchell had missed the last six practices. His return on Monday is a good sign for his status heading into Sunday's season opener. 
   - Source: https://www.fantasypros.com/nfl/news/606409/keaton-mitchell-returns-to-practice-monday.php
@@ -63,9 +65,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jalen McMillan** — Jalen McMillan (knee) practices Monday  (2026-09-07T16:50:42.091000Z)
   - McMillan missed time during training camp with a knee injury. He remains hopeful to be good to go for Sunday's season opener. 
   - Source: https://www.fantasypros.com/nfl/news/606363/jalen-mcmillan-knee-practices-monday.php
+- **NEW — Braelon Allen** — Braelon Allen a Priority Add Amidst Backfield Injury Questions in New York (2026-09-07T16:27:05Z)
+  - Source: https://www.rotoballer.com/player-news/braelon-allen-a-priority-add-amidst-backfield-injury-questions-in-new-york/1925401
 - **Emeka Egbuka** — Emeka Egbuka - Getting work Monday (2026-09-07T16:25:52Z)
   - Egbuka was limited to work on the side last week, and although it's not yet clear how much he will do Monday, it appears he has taken a step forward in his recovery from a toe issue. There has been hope that Egbuka will be available for Week 1, and there remains reason to believe he will be available for Tampa Bay's opener.
-- **NEW — Cooper Kupp** — Is Cooper Kupp Still Worth Rostering in Deeper Leagues? (2026-09-07T16:19:05Z)
+- **Cooper Kupp** — Is Cooper Kupp Still Worth Rostering in Deeper Leagues? (2026-09-07T16:19:05Z)
   - Source: https://www.rotoballer.com/player-news/is-cooper-kupp-still-worth-rostering-in-deeper-league-formats/1925394
 - **Brian Robinson** — Brian Robinson a Top Stash Candidate Ahead of Week 1 (2026-09-07T16:10:05Z)
   - Source: https://www.rotoballer.com/player-news/brian-robinson-jr-a-top-stash-candidate-ahead-of-week-1/1925387
@@ -224,7 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/rashid-shaheed-will-take-on-a-bigger-role-in-2026/1924805
 - **Elijah Arroyo** — Seahawks Expected to Feature Both A.J. Barner and Elijah Arroyo (2026-09-06T18:37:08Z)
   - Source: https://www.rotoballer.com/player-news/seahawks-expected-to-feature-both-a-j-barner-and-elijah-arroyo/1924803
-- **Jeremiyah Love** — Cardinals Expected to Ease Jeremiyah Love Back Into the Offense (2026-09-06T18:25:06Z)
-  - Source: https://www.rotoballer.com/player-news/cardinals-expected-to-ease-jeremiyah-love-back-into-the-offense/1924797
-- **TreVeyon Henderson** — TreVeyon Henderson - Looks set to miss Sunday's practice (2026-09-06T18:11:28Z)
-  - New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.

@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-07T20:31:32Z",
+  "last_checked_at": "2026-09-07T20:44:48Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12529|rotowire|636349|1788812756000",
-    "nfl|4039|rotoballer|220294|1788797945000"
+    "nfl|11576|rotoballer|220295|1788798425000",
+    "nfl|13287|rotowire|636350|1788813267000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,10 +15,30 @@
   },
   "stories": [
     {
-      "analysis": "Henderson has been DNP all week leading up to Wednesday's season opener in Seattle, and it's looking extremely unlikely that he's going to play Week 1. The Patriots have one more practice report to issue Tuesday, and it's at least notable that Henderson traveled with the team to Seattle, according to Mike Reiss of ESPN.com. If the second-year running back in unable to play, Rhamondre Stevenson would be looking at a potential workhorse role, as Corey Kiner is the only other running back on the active roster. Lan Larison is on the practice squad as a likely elevation.",
+      "analysis": "Love was moving around at practice Monday, but LaFleur would only go as far as to say the rooking running back is \"progressing\" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.",
+      "description": "Coach Mike LaFleur said he's \"optimistic\" Love (ankle) will be able to play Sunday against the Chargers, Darren Urban of the team's official site reports.",
+      "metadata": {
+        "analysis": "Love was moving around at practice Monday, but LaFleur would only go as far as to say the rooking running back is \"progressing\" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.",
+        "description": "Coach Mike LaFleur said he's \"optimistic\" Love (ankle) will be able to play Sunday against the Chargers, Darren Urban of the team's official site reports.",
+        "title": "Jeremiyah Love - Optimism for Week 1",
+        "topic_id": "1402788467695452160"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788813267000,
+      "source": "rotowire",
+      "source_key": "636350",
+      "story_id": "nfl|13287|rotowire|636350|1788813267000",
+      "title": "Jeremiyah Love - Optimism for Week 1",
+      "url": null
+    },
+    {
+      "analysis": "Henderson has been DNP all week leading up to Wednesday's season opener in Seattle, and it's looking extremely unlikely that he's going to play Week 1. The Patriots have one more practice report to issue Tuesday, and it's at least notable that Henderson traveled with the team to Seattle, according to Mike Reiss of ESPN.com. If the second-year running back is unable to play, Rhamondre Stevenson would be looking at a potential workhorse role, as Corey Kiner is the only other running back on the active roster. Lan Larison is on the practice squad as a likely elevation.",
       "description": "Henderson (ankle) remained sidelined at Monday's practice, Mike Kadlick of Sports Illustrated reports.",
       "metadata": {
-        "analysis": "Henderson has been DNP all week leading up to Wednesday's season opener in Seattle, and it's looking extremely unlikely that he's going to play Week 1. The Patriots have one more practice report to issue Tuesday, and it's at least notable that Henderson traveled with the team to Seattle, according to Mike Reiss of ESPN.com. If the second-year running back in unable to play, Rhamondre Stevenson would be looking at a potential workhorse role, as Corey Kiner is the only other running back on the active roster. Lan Larison is on the practice squad as a likely elevation.",
+        "analysis": "Henderson has been DNP all week leading up to Wednesday's season opener in Seattle, and it's looking extremely unlikely that he's going to play Week 1. The Patriots have one more practice report to issue Tuesday, and it's at least notable that Henderson traveled with the team to Seattle, according to Mike Reiss of ESPN.com. If the second-year running back is unable to play, Rhamondre Stevenson would be looking at a potential workhorse role, as Corey Kiner is the only other running back on the active roster. Lan Larison is on the practice squad as a likely elevation.",
         "description": "Henderson (ankle) remained sidelined at Monday's practice, Mike Kadlick of Sports Illustrated reports.",
         "title": "TreVeyon Henderson - Remains out of practice Monday",
         "topic_id": "1402787208523468800"
@@ -465,6 +485,26 @@
       "story_id": "nfl|11618|fantasy_pros|606363|1788799842091",
       "title": "Jalen McMillan (knee) practices Monday ",
       "url": "https://www.fantasypros.com/nfl/news/606363/jalen-mcmillan-knee-practices-monday.php"
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets running back Braelon Allen had his 2025 season ruined by injury, going down with a season-ending knee ailment in Week 4. While Allen is healthy ahead of 2026, he will open the year as the clear RB2 in New York behind Breece Hall (groin). Allen played a limited role behind Hall in the four games he was healthy for in 2025, recording 93 scrimmage yards and a touchdown on 20 touches. However, Allen profiles as a bigger and potentially more physical back than Hall, which could lead to him seeing some goal-line and short-yardage work. Additionally, Hall is currently battling a groin injury that he suffered during training camp. While Hall is expected to be ready to go for Week 1, the Jets could choose to ease him into the season and give Allen some more touches in the early going. As a handcuff option with some standalone upside as well, Allen profiles as a worthy waiver wire pickup ahead of Week 1.",
+      "metadata": {
+        "description": "New York Jets running back Braelon Allen had his 2025 season ruined by injury, going down with a season-ending knee ailment in Week 4. While Allen is healthy ahead of 2026, he will open the year as the clear RB2 in New York behind Breece Hall (groin). Allen played a limited role behind Hall in the four games he was healthy for in 2025, recording 93 scrimmage yards and a touchdown on 20 touches. However, Allen profiles as a bigger and potentially more physical back than Hall, which could lead to him seeing some goal-line and short-yardage work. Additionally, Hall is currently battling a groin injury that he suffered during training camp. While Hall is expected to be ready to go for Week 1, the Jets could choose to ease him into the season and give Allen some more touches in the early going. As a handcuff option with some standalone upside as well, Allen profiles as a worthy waiver wire pickup ahead of Week 1.",
+        "title": "Braelon Allen a Priority Add Amidst Backfield Injury Questions in New York",
+        "topic_id": "1402788465644453888",
+        "url": "https://www.rotoballer.com/player-news/braelon-allen-a-priority-add-amidst-backfield-injury-questions-in-new-york/1925401"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "11576",
+      "player_name": "Braelon Allen",
+      "position": "RB",
+      "published": 1788798425000,
+      "source": "rotoballer",
+      "source_key": "220295",
+      "story_id": "nfl|11576|rotoballer|220295|1788798425000",
+      "title": "Braelon Allen a Priority Add Amidst Backfield Injury Questions in New York",
+      "url": "https://www.rotoballer.com/player-news/braelon-allen-a-priority-add-amidst-backfield-injury-questions-in-new-york/1925401"
     },
     {
       "analysis": "Egbuka was limited to work on the side last week, and although it's not yet clear how much he will do Monday, it appears he has taken a step forward in his recovery from a toe issue. There has been hope that Egbuka will be available for Week 1, and there remains reason to believe he will be available for Tampa Bay's opener.",
