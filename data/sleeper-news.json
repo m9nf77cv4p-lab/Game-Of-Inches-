@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-09-07T13:36:05Z",
+  "last_checked_at": "2026-09-07T13:50:55Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|10219|rotoballer|220249|1788772506000",
-    "nfl|13305|rotoballer|220250|1788773113000",
-    "nfl|2216|rotowire|636329|1788787332000"
+    "nfl|11559|rotowire|636330|1788788181000",
+    "nfl|8126|rotoballer|220252|1788774069000",
+    "nfl|8132|rotoballer|220251|1788773607000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Though Penix is expected to receive the opportunity to start at some point in 2026, he'll have to wait at least one more week before getting his chance while he continues to work his way back from the torn ACL he sustained last November. Penix didn't play in the preseason and wasn't cleared to take part in 11-on-11 drills until Aug. 22, so he'll need to get some full practices under his belt before the Falcons consider elevating him into the starting role over Tagovailoa, who completed 10 of 13 pass attempts for 117 yards in two exhibition contests but fumbled twice and generally struggled to push the ball downfield during the preseason and training camp. The Falcons kept four quarterbacks on their roster following the preseason, so Cooper Rush and Jack Strand will be available as backup options if Penix isn't ready to serve as Tagovailoa's understudy in the season opener.",
+      "description": "Penix (knee) won't start the season opener Sunday in Pittsburgh, after the Falcons named Tua Tagovailoa their top quarterback heading into Week 1, Will McFadden and Tori McElhaney of the team's official site reports.",
+      "metadata": {
+        "analysis": "Though Penix is expected to receive the opportunity to start at some point in 2026, he'll have to wait at least one more week before getting his chance while he continues to work his way back from the torn ACL he sustained last November. Penix didn't play in the preseason and wasn't cleared to take part in 11-on-11 drills until Aug. 22, so he'll need to get some full practices under his belt before the Falcons consider elevating him into the starting role over Tagovailoa, who completed 10 of 13 pass attempts for 117 yards in two exhibition contests but fumbled twice and generally struggled to push the ball downfield during the preseason and training camp. The Falcons kept four quarterbacks on their roster following the preseason, so Cooper Rush and Jack Strand will be available as backup options if Penix isn't ready to serve as Tagovailoa's understudy in the season opener.",
+        "description": "Penix (knee) won't start the season opener Sunday in Pittsburgh, after the Falcons named Tua Tagovailoa their top quarterback heading into Week 1, Will McFadden and Tori McElhaney of the team's official site reports.",
+        "title": "Michael Penix - Won't start in Week 1",
+        "topic_id": "1402684017660211200"
+      },
+      "nfl_team": "ATL",
+      "player_id": "11559",
+      "player_name": "Michael Penix",
+      "position": "QB",
+      "published": 1788788181000,
+      "source": "rotowire",
+      "source_key": "636330",
+      "story_id": "nfl|11559|rotowire|636330|1788788181000",
+      "title": "Michael Penix - Won't start in Week 1",
+      "url": null
+    },
     {
       "analysis": "Wagoner notes that linebacker Nick Bosa (knee) and running back Christian McCaffrey (undisclosed) were the only 49ers players who didn't appear to be mixing into team drills during the open portion of practice, so Evans appears likely to have been at least a limited participant in Monday's session. The 49ers will release their first injury report of the season later Monday, when the extent of Evans' practice participation will be revealed. Evans had his practice activity managed for much of training camp while he contended with a minor quadriceps strain and more recently, an adductor injury.",
       "description": "Evans (adductor) was spotted on the field in full uniform during the open portion of Monday's practice in Melbourne, Australia, Nick Wagoner of ESPN.com reports.",
@@ -78,6 +98,46 @@
     },
     {
       "analysis": null,
+      "description": "Tennessee Titans wide receiver Wan'Dale Robinson enters Week 1 with a chance to be the team's leading receiver in 2026. Last season with the New York Giants, Robinson had a career year, hauling in 92 of 140 targets for 1,014 yards and four touchdowns in 16 games. Robinson cashed out, signing a four-year, $70 million contract with the Titans in free agency. He performed well in training camp, leading the team in targets, and has been a security blanket for second-year quarterback Cam Ward. In Week 1, he faces an ideal matchup against the New York Jets, who allowed the fifth most fantasy points to slot receivers in 2025. While he's a risky start given the team's uncertainty around its passing game, Robinson should be rostered in all formats as we approach the season.",
+      "metadata": {
+        "description": "Tennessee Titans wide receiver Wan'Dale Robinson enters Week 1 with a chance to be the team's leading receiver in 2026. Last season with the New York Giants, Robinson had a career year, hauling in 92 of 140 targets for 1,014 yards and four touchdowns in 16 games. Robinson cashed out, signing a four-year, $70 million contract with the Titans in free agency. He performed well in training camp, leading the team in targets, and has been a security blanket for second-year quarterback Cam Ward. In Week 1, he faces an ideal matchup against the New York Jets, who allowed the fifth most fantasy points to slot receivers in 2025. While he's a risky start given the team's uncertainty around its passing game, Robinson should be rostered in all formats as we approach the season.",
+        "title": "Wan'Dale Robinson Worth Adding Ahead of Week 1",
+        "topic_id": "1402685274630148096",
+        "url": "https://www.rotoballer.com/player-news/wandale-robinson-worth-adding-ahead-of-week-1/1925020"
+      },
+      "nfl_team": "TEN",
+      "player_id": "8126",
+      "player_name": "Wan'Dale Robinson",
+      "position": "WR",
+      "published": 1788774069000,
+      "source": "rotoballer",
+      "source_key": "220252",
+      "story_id": "nfl|8126|rotoballer|220252|1788774069000",
+      "title": "Wan'Dale Robinson Worth Adding Ahead of Week 1",
+      "url": "https://www.rotoballer.com/player-news/wandale-robinson-worth-adding-ahead-of-week-1/1925020"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back Tyler Allgeier could see a substantial workload in Week 1 against the Los Angeles Chargers. In 2025, Allgeier had 157 attempts for 610 yards and eight touchdowns with the Atlanta Falcons. Now in Arizona, Allgeier is expected to split carries with sensational rookie Jeremiyah Love, the third-overall pick in the 2026 NFL Draft. However, with Love dealing with a high-ankle sprain from the opening preseason game and reportedly 50/50 to play in Week 1, Allgeier could see a workhorse role with James Conner (ankle) on injured reserve. He faces a tough Chargers defense, which ranked sixth-best against running backs last season. Workhorse running backs on the waiver wire should be added immediately, and Allgeier should be rostered in all formats.",
+      "metadata": {
+        "description": "Arizona Cardinals running back Tyler Allgeier could see a substantial workload in Week 1 against the Los Angeles Chargers. In 2025, Allgeier had 157 attempts for 610 yards and eight touchdowns with the Atlanta Falcons. Now in Arizona, Allgeier is expected to split carries with sensational rookie Jeremiyah Love, the third-overall pick in the 2026 NFL Draft. However, with Love dealing with a high-ankle sprain from the opening preseason game and reportedly 50/50 to play in Week 1, Allgeier could see a workhorse role with James Conner (ankle) on injured reserve. He faces a tough Chargers defense, which ranked sixth-best against running backs last season. Workhorse running backs on the waiver wire should be added immediately, and Allgeier should be rostered in all formats.",
+        "title": "Tyler Allgeier Could Be Workhorse in Week 1",
+        "topic_id": "1402684016364113920",
+        "url": "https://www.rotoballer.com/player-news/tyler-allgeier-to-be-workhorse-if-jeremiyah-love-is-ruled-out/1925014"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8132",
+      "player_name": "Tyler Allgeier",
+      "position": "RB",
+      "published": 1788773607000,
+      "source": "rotoballer",
+      "source_key": "220251",
+      "story_id": "nfl|8132|rotoballer|220251|1788773607000",
+      "title": "Tyler Allgeier Could Be Workhorse in Week 1",
+      "url": "https://www.rotoballer.com/player-news/tyler-allgeier-to-be-workhorse-if-jeremiyah-love-is-ruled-out/1925014"
+    },
+    {
+      "analysis": null,
       "description": "Las Vegas Raiders rookie running back Mike Washington Jr. put on a show during the preseason and is expected to have a role in the backfield this season. In three preseason games, Washington totaled 23 carries for 168 yards and a touchdown, averaging a whopping 7.3 yards per carry. There were reports that head coach Klint Kubiak was \"jumping on the table\" to draft the former Razorback running back. With Kubiak's history in Seattle running a two-back committee, Washington will have a role this season. While things are trending up for second-year back Ashton Jeanty (ankle), who suffered what appeared to be a serious injury in practice on August 23rd, Washington should still produce against the Miami Dolphins, who allowed the seventh-most fantasy points to running backs last season. While he's not a startable option for fantasy managers if Jeanty is active, the rookie running back offers upside as a handcuff option behind the already banged-up Jeanty.",
       "metadata": {
         "description": "Las Vegas Raiders rookie running back Mike Washington Jr. put on a show during the preseason and is expected to have a role in the backfield this season. In three preseason games, Washington totaled 23 carries for 168 yards and a touchdown, averaging a whopping 7.3 yards per carry. There were reports that head coach Klint Kubiak was \"jumping on the table\" to draft the former Razorback running back. With Kubiak's history in Seattle running a two-back committee, Washington will have a role this season. While things are trending up for second-year back Ashton Jeanty (ankle), who suffered what appeared to be a serious injury in practice on August 23rd, Washington should still produce against the Miami Dolphins, who allowed the seventh-most fantasy points to running backs last season. While he's not a startable option for fantasy managers if Jeanty is active, the rookie running back offers upside as a handcuff option behind the already banged-up Jeanty.",
@@ -121,7 +181,7 @@
       "description": "According to Adam Schefter of ESPN, the Atlanta Falcons have named quarterback Tua Tagovailoa their starter for their Week 1 matchup against the Pittsburgh Steelers. The former Miami Dolphins quarterback joined the Falcons in the offseason and was competing alongside Michael Penix Jr. for the starting job. However, with Penix still recovering from a torn ACL, Tagovailoa had the edge for much of the competition. Despite this, fantasy managers should keep a close eye on his production, as Ian Rapoport of the NFL Network reported last week that the Falcons may not give Tagovailoa a long leash if he were to struggle early in the season. In 2025, Tagovailoa appeared in 14 games for the Dolphins and posted a modest 20:15 TD:INT while averaging 190 passing yards per game. Given his inconsistencies last season, Tagovailoa should be viewed as a low-end QB3 in Superflex formats in Week 1.",
       "metadata": {
         "description": "According to Adam Schefter of ESPN, the Atlanta Falcons have named quarterback Tua Tagovailoa their starter for their Week 1 matchup against the Pittsburgh Steelers. The former Miami Dolphins quarterback joined the Falcons in the offseason and was competing alongside Michael Penix Jr. for the starting job. However, with Penix still recovering from a torn ACL, Tagovailoa had the edge for much of the competition. Despite this, fantasy managers should keep a close eye on his production, as Ian Rapoport of the NFL Network reported last week that the Falcons may not give Tagovailoa a long leash if he were to struggle early in the season. In 2025, Tagovailoa appeared in 14 games for the Dolphins and posted a modest 20:15 TD:INT while averaging 190 passing yards per game. Given his inconsistencies last season, Tagovailoa should be viewed as a low-end QB3 in Superflex formats in Week 1.",
-        "title": "Falcons Name Tua Tagovailoa Week 1 Starter",
+        "title": "Falcons Name Tua Tagovailoa the Week 1 Starter",
         "topic_id": "1402666397187768320",
         "url": "https://www.rotoballer.com/player-news/falcons-name-tua-tagovailoa-week-1-starter/1924969"
       },
@@ -133,7 +193,7 @@
       "source": "rotoballer",
       "source_key": "220248",
       "story_id": "nfl|6768|rotoballer|220248|1788769331000",
-      "title": "Falcons Name Tua Tagovailoa Week 1 Starter",
+      "title": "Falcons Name Tua Tagovailoa the Week 1 Starter",
       "url": "https://www.rotoballer.com/player-news/falcons-name-tua-tagovailoa-week-1-starter/1924969"
     },
     {
