@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T02:31:13Z",
+  "last_checked_at": "2026-09-07T02:45:29Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9494|rotoballer|220238|1788733423000"
+    "nfl|13347|rotoballer|220239|1788733809000"
   ],
   "schema_version": 1,
   "source": {
@@ -94,6 +94,26 @@
       "story_id": "nfl|12529|rotowire|636316|1788737499000",
       "title": "TreVeyon Henderson - Misses Sunday's practice",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings running back Demond Claiborne was unlikely to make a legitimate push for playing time this summer. The 22-year-old was likely always going to be a depth option after being taken in the sixth-round by the Vikings during this year's draft. Claiborne did little to impress during the preseason, and he appears to have himself locked into the RB3 role in Minnesota. There probably won't be room for much action with Aaron Jones Sr. and Jordan Mason leading the way in the running game. His only chance at seeing serious playing time would be if one of the backs goes down with an injury. He is best left on the waiver wire in redraft formats to begin the year.",
+      "metadata": {
+        "description": "Minnesota Vikings running back Demond Claiborne was unlikely to make a legitimate push for playing time this summer. The 22-year-old was likely always going to be a depth option after being taken in the sixth-round by the Vikings during this year's draft. Claiborne did little to impress during the preseason, and he appears to have himself locked into the RB3 role in Minnesota. There probably won't be room for much action with Aaron Jones Sr. and Jordan Mason leading the way in the running game. His only chance at seeing serious playing time would be if one of the backs goes down with an injury. He is best left on the waiver wire in redraft formats to begin the year.",
+        "title": "Demond Claiborne Unlikely to See Significant Action",
+        "topic_id": "1402516644667924480",
+        "url": "https://www.rotoballer.com/player-news/demond-claiborne-unlikely-to-see-significant-action/1924880"
+      },
+      "nfl_team": "MIN",
+      "player_id": "13347",
+      "player_name": "Demond Claiborne",
+      "position": "RB",
+      "published": 1788733809000,
+      "source": "rotoballer",
+      "source_key": "220239",
+      "story_id": "nfl|13347|rotoballer|220239|1788733809000",
+      "title": "Demond Claiborne Unlikely to See Significant Action",
+      "url": "https://www.rotoballer.com/player-news/demond-claiborne-unlikely-to-see-significant-action/1924880"
     },
     {
       "analysis": null,
