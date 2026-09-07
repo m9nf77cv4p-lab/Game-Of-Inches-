@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T19:24:24Z",
+  "last_checked_at": "2026-09-07T19:37:22Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11620|rotoballer|220284|1788793528000",
-    "nfl|12504|rotoballer|220285|1788793781000",
-    "nfl|5872|rotoballer|220286|1788794234000"
+    "nfl|8134|rotoballer|220287|1788794706000"
   ],
   "schema_version": 1,
   "source": {
@@ -467,6 +465,26 @@
       "story_id": "nfl|11583|fantasy_pros|606338|1788795341703",
       "title": "Jonathon Brooks works off to side with trainers Monday",
       "url": "https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills wide receiver Khalil Shakir is sitting on waivers in more leagues than he probably should be, though there is one obvious concern heading into Week 1. Shakir has been out of team drills since Aug. 20 with an undisclosed injury, so this is not a player to pick up and immediately throw into a flex spot. There is still something here for PPR managers. He caught 72 passes for 719 yards and four touchdowns last season after posting 76 catches for 821 yards the year before, and Josh Allen has consistently looked his way underneath. DJ Moore joining the offense probably keeps Shakir from becoming much more than that, especially with Keon Coleman and Dalton Kincaid also needing targets. That's fine. Shakir does not need a breakout to have some use in fantasy. If he is available in a 12-team PPR league, he is worth grabbing for the bench while we wait to see where his health stands going into Houston.",
+      "metadata": {
+        "description": "Buffalo Bills wide receiver Khalil Shakir is sitting on waivers in more leagues than he probably should be, though there is one obvious concern heading into Week 1. Shakir has been out of team drills since Aug. 20 with an undisclosed injury, so this is not a player to pick up and immediately throw into a flex spot. There is still something here for PPR managers. He caught 72 passes for 719 yards and four touchdowns last season after posting 76 catches for 821 yards the year before, and Josh Allen has consistently looked his way underneath. DJ Moore joining the offense probably keeps Shakir from becoming much more than that, especially with Keon Coleman and Dalton Kincaid also needing targets. That's fine. Shakir does not need a breakout to have some use in fantasy. If he is available in a 12-team PPR league, he is worth grabbing for the bench while we wait to see where his health stands going into Houston.",
+        "title": "Khalil Shakir Still Has PPR Appeal on the Waiver Wire",
+        "topic_id": "1402772106017533952",
+        "url": "https://www.rotoballer.com/player-news/khalil-shakir-still-has-ppr-appeal-on-the-waiver-wire/1925361"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8134",
+      "player_name": "Khalil Shakir",
+      "position": "WR",
+      "published": 1788794706000,
+      "source": "rotoballer",
+      "source_key": "220287",
+      "story_id": "nfl|8134|rotoballer|220287|1788794706000",
+      "title": "Khalil Shakir Still Has PPR Appeal on the Waiver Wire",
+      "url": "https://www.rotoballer.com/player-news/khalil-shakir-still-has-ppr-appeal-on-the-waiver-wire/1925361"
     },
     {
       "analysis": null,

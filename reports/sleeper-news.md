@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2099**
-- Newly captured: **3**
+- Stored stories: **2100**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -64,11 +64,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jonathon Brooks** — Jonathon Brooks works off to side with trainers Monday (2026-09-07T15:35:41.703000Z)
   - Head coach Dave Canales said last week that he was "very optimistic" that Brooks would play in Week 1. It remains unclear what the exact injury is that he is dealing with. His status will need to continue to be monitored the rest of the week. 
   - Source: https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php
-- **NEW — Deebo Samuel** — Deebo Samuel Sr. Offers Immediate Waiver-Wire Appeal (2026-09-07T15:17:14Z)
+- **NEW — Khalil Shakir** — Khalil Shakir Still Has PPR Appeal on the Waiver Wire (2026-09-07T15:25:06Z)
+  - Source: https://www.rotoballer.com/player-news/khalil-shakir-still-has-ppr-appeal-on-the-waiver-wire/1925361
+- **Deebo Samuel** — Deebo Samuel Sr. Offers Immediate Waiver-Wire Appeal (2026-09-07T15:17:14Z)
   - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-offers-immediate-waiver-wire-appeal/1925355
-- **NEW — Kaleb Johnson** — Kaleb Johnson Worth Stashing in Deeper Leagues (2026-09-07T15:09:41Z)
+- **Kaleb Johnson** — Kaleb Johnson Worth Stashing in Deeper Leagues (2026-09-07T15:09:41Z)
   - Source: https://www.rotoballer.com/player-news/kaleb-johnson-worth-stashing-in-deeper-leagues/1925345
-- **NEW — Rome Odunze** — Rome Odunze Missing From Monday's Practice (2026-09-07T15:05:28Z)
+- **Rome Odunze** — Rome Odunze Missing From Monday's Practice (2026-09-07T15:05:28Z)
   - Source: https://www.rotoballer.com/player-news/rome-odunze-missing-from-mondays-practice/1925342
 - **Michael Penix** — Michael Penix - Will be inactive for opener (2026-09-07T15:00:51Z)
   - While addressing the media shortly after the Falcons named Tua Tagovailoa their Week 1 starter Monday, Stefanski noted that Penix had taken part in only six 11-on-11 practices during training camp, so the third-year quarterback will need some more time to get back to full speed following last November's ACL tear before making his 2026 debut, per Raimondi. The Falcons were pleased enough with Penix's progress to wait until less than a week before the season opener to name a starter, which suggests that he'll likely get a chance to supplant Tagovailoa atop the depth chart at some point this season. While Penix is in street clothes for Week 1, Cooper Rush will step in as Tagovailoa's backup, and undrafted rookie Jack Strand will serve as the No. 3 quarterback.
@@ -223,5 +225,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/brandon-aiyuk-keeps-sliding-out-of-redraft-relevance/1924641
 - **Theo Johnson** — Theo Johnson's Redraft Stock Has Slipped (2026-09-06T13:12:05Z)
   - Source: https://www.rotoballer.com/player-news/theo-johnsons-redraft-stock-has-slipped/1924632
-- **Marvin Harrison** — Marvin Harrison Jr. Impacted by Teammate's Extension (2026-09-06T12:41:19Z)
-  - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-s-fantasy-stock-impacted-by-teammates-extension/1924622
