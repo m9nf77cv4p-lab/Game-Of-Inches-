@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2038**
-- Newly captured: **2**
+- Stored stories: **2039**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -13,13 +13,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **AJ Barner** — AJ Barner (oblique) practices in full Sunday  (2026-09-07T01:25:37.014000Z)
   - Barner missed some time early in the offseason program, but he avoided the PUP list during training camp. He heads into the season as a TE2 for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/606233/aj-barner-oblique-practices-full-sunday.php
+- **NEW — Trey McBride** — Trey McBride Remains the Focal Point of Cardinals Offense (2026-09-07T00:50:00Z)
+  - Source: https://www.rotoballer.com/player-news/trey-mcbride-remains-the-focal-point-of-cardinals-offense/1924897
 - **Tory Horton** — Tory Horton - Dealing with hamstring injury (2026-09-06T23:50:12Z)
   - Coach Mike Macdonald relayed on Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.
 - **TreVeyon Henderson** — TreVeyon Henderson - Misses Sunday's practice (2026-09-06T23:31:39Z)
   - Henderson suffered a minor right ankle injury on Aug. 24 and hasn't been able to practice since then. After Sunday's absence, he'll have two more chances to mix into drills before the Patriots potentially make a ruling on his status for Week 1 when they post Tuesday's injury report. If Henderson isn't able to suit up for Wednesday's season opener at Seattle, Rhamondre Stevenson would be in line to handle the bulk of the backfield reps for New England, with Corey Kiner and practice-squad members Lan Larison and Hassan Haskins the potential candidates for complementary work, per Mike Reiss of ESPN.com.
-- **NEW — James Conner** — James Conner is Avoidable in Redraft Formats (2026-09-06T22:46:12Z)
+- **James Conner** — James Conner is Avoidable in Redraft Formats (2026-09-06T22:46:12Z)
   - Source: https://www.rotoballer.com/player-news/james-conner-is-avoidable-in-redraft-formats/1924893
-- **NEW — Kimani Vidal** — Kimani Vidal Gets Praised for his Pass Protection (2026-09-06T22:38:09Z)
+- **Kimani Vidal** — Kimani Vidal Gets Praised for his Pass Protection (2026-09-06T22:38:09Z)
   - Source: https://www.rotoballer.com/player-news/kimani-vidal-gets-praised-for-his-pass-protection/1924891
 - **Demond Claiborne** — Demond Claiborne Unlikely to See Significant Action (2026-09-06T22:30:09Z)
   - Source: https://www.rotoballer.com/player-news/demond-claiborne-unlikely-to-see-significant-action/1924880
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/luther-burden-iii-poised-for-breakout-season-amidst-improving-health-outlook/1923801
 - **Josh Downs** — Josh Downs Looks Well-Positioned for a Resurgent Season in Indianapolis (2026-09-05T09:21:14Z)
   - Source: https://www.rotoballer.com/player-news/josh-downs-looks-well-positioned-for-a-resurgent-season-in-indianapolis/1923796
-- **Kyren Williams** — Kyren Williams May Face Reduced Role in Rams Offense in 2026 (2026-09-05T09:12:06Z)
-  - Source: https://www.rotoballer.com/player-news/kyren-williams-may-face-reduced-role-in-rams-offense-in-2026/1923781

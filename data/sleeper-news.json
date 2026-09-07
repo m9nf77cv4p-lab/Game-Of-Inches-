@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T02:56:43Z",
+  "last_checked_at": "2026-09-07T04:58:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11647|rotoballer|220240|1788734289000",
-    "nfl|4137|rotoballer|220241|1788734772000"
+    "nfl|8130|rotoballer|220243|1788742200000"
   ],
   "schema_version": 1,
   "source": {
@@ -55,6 +54,26 @@
       "story_id": "nfl|11603|fantasy_pros|606233|1788744337014",
       "title": "AJ Barner (oblique) practices in full Sunday ",
       "url": "https://www.fantasypros.com/nfl/news/606233/aj-barner-oblique-practices-full-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals tight end Trey McBride continues to be a central part of the team's offense in 2026. Last season, McBride ranked as the overall TE1 in PPR leagues with 126 catches, 1,239 yards, and 11 touchdowns. His productivity peaked when the Cardinals switched over from Kyler Murray to Jacoby Brissett at quarterback. In his five weeks catching passes from Kyler Murray, McBride averaged 12.5 fantasy points and ranked as the TE4. He took his game to the next level through 12 weeks playing alongside Brissett, with whom he averaged 21.1 points per game. During that span, he was the undisputed TE1, scoring a whopping 90 points more than the TE2 (Kyle Pitts). It's unclear whether Brissett can replicate last season's impressive numbers, but that shouldn't stop McBride. He is the best pass catcher in this offense, and there's a very real chance that he finishes as the top-scoring tight end in fantasy football once again this year.",
+      "metadata": {
+        "description": "Arizona Cardinals tight end Trey McBride continues to be a central part of the team's offense in 2026. Last season, McBride ranked as the overall TE1 in PPR leagues with 126 catches, 1,239 yards, and 11 touchdowns. His productivity peaked when the Cardinals switched over from Kyler Murray to Jacoby Brissett at quarterback. In his five weeks catching passes from Kyler Murray, McBride averaged 12.5 fantasy points and ranked as the TE4. He took his game to the next level through 12 weeks playing alongside Brissett, with whom he averaged 21.1 points per game. During that span, he was the undisputed TE1, scoring a whopping 90 points more than the TE2 (Kyle Pitts). It's unclear whether Brissett can replicate last season's impressive numbers, but that shouldn't stop McBride. He is the best pass catcher in this offense, and there's a very real chance that he finishes as the top-scoring tight end in fantasy football once again this year.",
+        "title": "Trey McBride Remains the Focal Point of Cardinals Offense",
+        "topic_id": "1402551881040977920",
+        "url": "https://www.rotoballer.com/player-news/trey-mcbride-remains-the-focal-point-of-cardinals-offense/1924897"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8130",
+      "player_name": "Trey McBride",
+      "position": "TE",
+      "published": 1788742200000,
+      "source": "rotoballer",
+      "source_key": "220243",
+      "story_id": "nfl|8130|rotoballer|220243|1788742200000",
+      "title": "Trey McBride Remains the Focal Point of Cardinals Offense",
+      "url": "https://www.rotoballer.com/player-news/trey-mcbride-remains-the-focal-point-of-cardinals-offense/1924897"
     },
     {
       "analysis": "Coach Mike Macdonald relayed on Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.",
