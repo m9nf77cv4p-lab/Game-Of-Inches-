@@ -2,12 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2032**
+- Stored stories: **2033**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — AJ Barner** — AJ Barner (oblique) practices in full Sunday  (2026-09-07T01:25:37.014000Z)
+- **NEW — Tory Horton** — Tory Horton (hamstring) limited in practice Sunday  (2026-09-07T01:35:36.529000Z)
+  - This is a little surprising as just a couple of weeks ago, Horton was said to be out "for a while." He projects as an upside WR4/WR5 for fantasy managers when he is healthy. 
+  - Source: https://www.fantasypros.com/nfl/news/606236/tory-horton-hamstring-limited-practice-sunday.php
+- **AJ Barner** — AJ Barner (oblique) practices in full Sunday  (2026-09-07T01:25:37.014000Z)
   - Barner missed some time early in the offseason program, but he avoided the PUP list during training camp. He heads into the season as a TE2 for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/606233/aj-barner-oblique-practices-full-sunday.php
 - **Tory Horton** — Tory Horton - Dealing with hamstring injury (2026-09-06T23:50:12Z)
@@ -213,5 +216,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/605953/tua-tagovailoa-falcons-could-name-starting-qb-soon.php
 - **Makai Lemon** — Should Fantasy Managers Temper Expectations for Makai Lemon? (2026-09-05T00:10:05Z)
   - Source: https://www.rotoballer.com/player-news/beat-writer-warns-fantasy-managers-to-temper-expectations-for-makai-lemon/1923686
-- **Tyler Allgeier** — Tyler Allgeier a Top Running Back Target in the Later Rounds (2026-09-05T00:02:06Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-allgeier-a-top-running-back-target-in-the-later-rounds/1923684

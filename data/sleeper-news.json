@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T01:33:07Z",
+  "last_checked_at": "2026-09-07T01:46:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11603|fantasy_pros|606233|1788744337014"
+    "nfl|12497|fantasy_pros|606236|1788744936529"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "This is a little surprising as just a couple of weeks ago, Horton was said to be out \"for a while.\" He projects as an upside WR4/WR5 for fantasy managers when he is healthy. ",
+      "description": "Tory Horton was a limited participant in practice on Sunday. ",
+      "metadata": {
+        "analysis": "This is a little surprising as just a couple of weeks ago, Horton was said to be out \"for a while.\" He projects as an upside WR4/WR5 for fantasy managers when he is healthy. ",
+        "description": "Tory Horton was a limited participant in practice on Sunday. ",
+        "title": "Tory Horton (hamstring) limited in practice Sunday ",
+        "topic_id": "1402501552035377152",
+        "url": "https://www.fantasypros.com/nfl/news/606236/tory-horton-hamstring-limited-practice-sunday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12497",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "published": 1788744936529,
+      "source": "fantasy_pros",
+      "source_key": "606236",
+      "story_id": "nfl|12497|fantasy_pros|606236|1788744936529",
+      "title": "Tory Horton (hamstring) limited in practice Sunday ",
+      "url": "https://www.fantasypros.com/nfl/news/606236/tory-horton-hamstring-limited-practice-sunday.php"
+    },
     {
       "analysis": "Barner missed some time early in the offseason program, but he avoided the PUP list during training camp. He heads into the season as a TE2 for fantasy managers. ",
       "description": "AJ Barner was a full participant in practice on Sunday. ",
