@@ -3,7 +3,7 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **2042**
-- Newly captured: **2**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -13,16 +13,16 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **AJ Barner** — AJ Barner (oblique) practices in full Sunday  (2026-09-07T01:25:37.014000Z)
   - Barner missed some time early in the offseason program, but he avoided the PUP list during training camp. He heads into the season as a TE2 for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/606233/aj-barner-oblique-practices-full-sunday.php
-- **NEW — George Kittle** — George Kittle Practices Ahead of Week 1 (2026-09-07T01:16:24Z)
+- **George Kittle** — George Kittle Practices Ahead of Week 1 (2026-09-07T01:16:24Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-practices-ahead-of-week-1/1924907
-- **NEW — Christian McCaffrey** — Christian McCaffrey Doesn't Practice on Monday (2026-09-07T01:11:17Z)
+- **Christian McCaffrey** — Christian McCaffrey Doesn't Practice on Monday (2026-09-07T01:11:17Z)
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-doesnt-practice-on-monday/1924905
 - **Tory Horton** — Tory Horton Limited in Practice Ahead of Week 1 (2026-09-07T00:56:10Z)
   - Source: https://www.rotoballer.com/player-news/tory-horton-limited-in-practice-ahead-of-week-1/1924899
 - **Trey McBride** — Trey McBride Remains the Focal Point of Cardinals Offense (2026-09-07T00:50:00Z)
   - Source: https://www.rotoballer.com/player-news/trey-mcbride-remains-the-focal-point-of-cardinals-offense/1924897
 - **Tory Horton** — Tory Horton - Dealing with hamstring injury (2026-09-06T23:50:12Z)
-  - Coach Mike Macdonald relayed on Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.
+  - Coach Mike Macdonald relayed Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.
 - **TreVeyon Henderson** — TreVeyon Henderson - Misses Sunday's practice (2026-09-06T23:31:39Z)
   - Henderson suffered a minor right ankle injury on Aug. 24 and hasn't been able to practice since then. After Sunday's absence, he'll have two more chances to mix into drills before the Patriots potentially make a ruling on his status for Week 1 when they post Tuesday's injury report. If Henderson isn't able to suit up for Wednesday's season opener at Seattle, Rhamondre Stevenson would be in line to handle the bulk of the backfield reps for New England, with Corey Kiner and practice-squad members Lan Larison and Hassan Haskins the potential candidates for complementary work, per Mike Reiss of ESPN.com.
 - **James Conner** — James Conner is Avoidable in Redraft Formats (2026-09-06T22:46:12Z)

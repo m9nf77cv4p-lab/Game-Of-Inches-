@@ -1,11 +1,8 @@
 {
-  "last_checked_at": "2026-09-07T05:30:25Z",
+  "last_checked_at": "2026-09-07T05:56:35Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|4034|rotoballer|220247|1788743477000",
-    "nfl|4217|rotoballer|220246|1788743784000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -137,10 +134,10 @@
       "url": "https://www.rotoballer.com/player-news/trey-mcbride-remains-the-focal-point-of-cardinals-offense/1924897"
     },
     {
-      "analysis": "Coach Mike Macdonald relayed on Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.",
+      "analysis": "Coach Mike Macdonald relayed Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.",
       "description": "Horton was limited at Sunday's practice due to a hamstring injury, John Boyle of the Seahawks' official site reports.",
       "metadata": {
-        "analysis": "Coach Mike Macdonald relayed on Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.",
+        "analysis": "Coach Mike Macdonald relayed Aug. 18 that Horton was dealing with a health concern but wouldn't elaborate further. On Aug. 27, Corbin K. Smith of SI.com reported that Horton's issue was of the long-term variety, but it wasn't until the Seahawks posted their first Week 1 practice report that its nature was revealed. Horton will have two more days to prove his health ahead of Wednesday's regular-season opener versus the Patriots.",
         "description": "Horton was limited at Sunday's practice due to a hamstring injury, John Boyle of the Seahawks' official site reports.",
         "title": "Tory Horton - Dealing with hamstring injury",
         "topic_id": "1402476376497324032"
