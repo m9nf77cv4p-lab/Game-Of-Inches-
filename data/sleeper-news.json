@@ -1,10 +1,15 @@
 {
-  "last_checked_at": "2026-09-07T18:43:01Z",
+  "last_checked_at": "2026-09-07T18:55:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11237|rotoballer|220280|1788791404000",
-    "nfl|6801|rotoballer|220279|1788790806000"
+    "nfl|11620|fantasy_pros|606389|1788806742953",
+    "nfl|12534|fantasy_pros|606388|1788806742964",
+    "nfl|12534|rotowire|636344|1788806737000",
+    "nfl|5846|fantasy_pros|606390|1788806742938",
+    "nfl|6790|fantasy_pros|606387|1788806742981",
+    "nfl|6790|rotowire|636343|1788806605000",
+    "nfl|6819|fantasy_pros|606391|1788806742926"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +19,151 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Swift left practice early last week due to what was reported to be a cramp. His presence at practice on Monday is a good sign for his status heading into this week's season opener. ",
+      "description": "D'Andre Swift was present at practice on Monday. ",
+      "metadata": {
+        "analysis": "Swift left practice early last week due to what was reported to be a cramp. His presence at practice on Monday is a good sign for his status heading into this week's season opener. ",
+        "description": "D'Andre Swift was present at practice on Monday. ",
+        "title": "D'Andre Swift at practice Monday ",
+        "topic_id": "1402760787071598592",
+        "url": "https://www.fantasypros.com/nfl/news/606387/dandre-swift-practice-monday.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1788806742981,
+      "source": "fantasy_pros",
+      "source_key": "606387",
+      "story_id": "nfl|6790|fantasy_pros|606387|1788806742981",
+      "title": "D'Andre Swift at practice Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/606387/dandre-swift-practice-monday.php"
+    },
+    {
+      "analysis": "Monangai was considered week-to-week to end training camp. His presence at practice on Monday gives him a chance to be available for Sunday's season opener. ",
+      "description": "Kyle Monangai was at practice on Monday. ",
+      "metadata": {
+        "analysis": "Monangai was considered week-to-week to end training camp. His presence at practice on Monday gives him a chance to be available for Sunday's season opener. ",
+        "description": "Kyle Monangai was at practice on Monday. ",
+        "title": "Kyle Monangai (knee) at practice Monday ",
+        "topic_id": "1402760787008684032",
+        "url": "https://www.fantasypros.com/nfl/news/606388/kyle-monangai-knee-practice-monday.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12534",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "published": 1788806742964,
+      "source": "fantasy_pros",
+      "source_key": "606388",
+      "story_id": "nfl|12534|fantasy_pros|606388|1788806742964",
+      "title": "Kyle Monangai (knee) at practice Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/606388/kyle-monangai-knee-practice-monday.php"
+    },
+    {
+      "analysis": "Odunze left practice early last Thursday with an apparent right leg injury. His status for Sunday's season opener is up in the air. ",
+      "description": "Rome Odunze did not practice on Monday. ",
+      "metadata": {
+        "analysis": "Odunze left practice early last Thursday with an apparent right leg injury. His status for Sunday's season opener is up in the air. ",
+        "description": "Rome Odunze did not practice on Monday. ",
+        "title": "Rome Odunze (leg) misses practice Monday ",
+        "topic_id": "1402760786954158080",
+        "url": "https://www.fantasypros.com/nfl/news/606389/rome-odunze-leg-misses-practice-monday.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1788806742953,
+      "source": "fantasy_pros",
+      "source_key": "606389",
+      "story_id": "nfl|11620|fantasy_pros|606389|1788806742953",
+      "title": "Rome Odunze (leg) misses practice Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/606389/rome-odunze-leg-misses-practice-monday.php"
+    },
+    {
+      "analysis": "Metcalf missed time during training camp with an undisclosed injury. He remains on track to be good to go for Sunday's season opener against the Falcons. ",
+      "description": "DK Metcalf practiced on Monday. ",
+      "metadata": {
+        "analysis": "Metcalf missed time during training camp with an undisclosed injury. He remains on track to be good to go for Sunday's season opener against the Falcons. ",
+        "description": "DK Metcalf practiced on Monday. ",
+        "title": "DK Metcalf practices Monday ",
+        "topic_id": "1402760786903826432",
+        "url": "https://www.fantasypros.com/nfl/news/606390/dk-metcalf-practices-monday.php"
+      },
+      "nfl_team": "PIT",
+      "player_id": "5846",
+      "player_name": "DK Metcalf",
+      "position": "WR",
+      "published": 1788806742938,
+      "source": "fantasy_pros",
+      "source_key": "606390",
+      "story_id": "nfl|5846|fantasy_pros|606390|1788806742938",
+      "title": "DK Metcalf practices Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/606390/dk-metcalf-practices-monday.php"
+    },
+    {
+      "analysis": "Pittman missed time during training camp with a hamstring injury. He remains on track to be good to go for Sunday's season opener against the Falcons. ",
+      "description": "Michael Pittman Jr. practiced on Monday. ",
+      "metadata": {
+        "analysis": "Pittman missed time during training camp with a hamstring injury. He remains on track to be good to go for Sunday's season opener against the Falcons. ",
+        "description": "Michael Pittman Jr. practiced on Monday. ",
+        "title": "Michael Pittman Jr. (hamstring) practices Monday ",
+        "topic_id": "1402760786849300480",
+        "url": "https://www.fantasypros.com/nfl/news/606391/michael-pittman-jr-hamstring-practices-monday.php"
+      },
+      "nfl_team": "PIT",
+      "player_id": "6819",
+      "player_name": "Michael Pittman",
+      "position": "WR",
+      "published": 1788806742926,
+      "source": "fantasy_pros",
+      "source_key": "606391",
+      "story_id": "nfl|6819|fantasy_pros|606391|1788806742926",
+      "title": "Michael Pittman Jr. (hamstring) practices Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/606391/michael-pittman-jr-hamstring-practices-monday.php"
+    },
+    {
+      "analysis": "It marked Monangai's first practice action since he hyperextended his knee Aug. 16. It's unclear if Monangai will be able to play in Sunday's regular-season opener against the Panthers, but he's obviously nearing 100 percent. D'Andre Swift (abdomen) was also back at practice Monday after dealing with cramps last week.",
+      "description": "Monangai (knee) returned to practice Monday, Courtney Cronin of ESPN.com reports.",
+      "metadata": {
+        "analysis": "It marked Monangai's first practice action since he hyperextended his knee Aug. 16. It's unclear if Monangai will be able to play in Sunday's regular-season opener against the Panthers, but he's obviously nearing 100 percent. D'Andre Swift (abdomen) was also back at practice Monday after dealing with cramps last week.",
+        "description": "Monangai (knee) returned to practice Monday, Courtney Cronin of ESPN.com reports.",
+        "title": "Kyle Monangai - Back at practice Monday",
+        "topic_id": "1402762040220622848"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12534",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "published": 1788806737000,
+      "source": "rotowire",
+      "source_key": "636344",
+      "story_id": "nfl|12534|rotowire|636344|1788806737000",
+      "title": "Kyle Monangai - Back at practice Monday",
+      "url": null
+    },
+    {
+      "analysis": "Swift left practice last Thursday with abdominal cramps, but he's fine and will be good to go for Sunday's season opener against the Panthers. In addition to Swift, Kyle Monangai (knee) returned to practice Monday for the first time since hyperextending his knee Aug. 16. Swift is a locked-in fantasy RB2 to open the 2026 campaign, while Monangai makes for an ideal bench stash in Chicago's elite offense. Roschon Johnson will bring up the rear of the depth chart as the Bears' RB3.",
+      "description": "Swift (abdomen) returned to practice Monday, Courtney Cronin of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Swift left practice last Thursday with abdominal cramps, but he's fine and will be good to go for Sunday's season opener against the Panthers. In addition to Swift, Kyle Monangai (knee) returned to practice Monday for the first time since hyperextending his knee Aug. 16. Swift is a locked-in fantasy RB2 to open the 2026 campaign, while Monangai makes for an ideal bench stash in Chicago's elite offense. Roschon Johnson will bring up the rear of the depth chart as the Bears' RB3.",
+        "description": "Swift (abdomen) returned to practice Monday, Courtney Cronin of ESPN.com reports.",
+        "title": "D'Andre Swift - Back at practice Monday",
+        "topic_id": "1402760781690343424"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1788806605000,
+      "source": "rotowire",
+      "source_key": "636343",
+      "story_id": "nfl|6790|rotowire|636343|1788806605000",
+      "title": "D'Andre Swift - Back at practice Monday",
+      "url": null
+    },
     {
       "analysis": "Both McMillan and Emeka Egbuka (toe) were participating in Monday's session, putting both in good position to play Sunday against the Bengals. McMillan missed most of training camp, but his injury never sounded serious. He's expected to compete with rookie Ted Hurst for WR3 duties behind Egbuka and Chris Godwin this season. McMillan is the favorite to open the campaign in three-wide sets.",
       "description": "McMillan (knee) was on the field running routes at Monday's practice, PewterReport.com reports.",

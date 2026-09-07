@@ -2,11 +2,30 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2086**
-- Newly captured: **2**
+- Stored stories: **2093**
+- Newly captured: **7**
 
 ## Latest news
 
+- **NEW — D'Andre Swift** — D'Andre Swift at practice Monday  (2026-09-07T18:45:42.981000Z)
+  - Swift left practice early last week due to what was reported to be a cramp. His presence at practice on Monday is a good sign for his status heading into this week's season opener. 
+  - Source: https://www.fantasypros.com/nfl/news/606387/dandre-swift-practice-monday.php
+- **NEW — Kyle Monangai** — Kyle Monangai (knee) at practice Monday  (2026-09-07T18:45:42.964000Z)
+  - Monangai was considered week-to-week to end training camp. His presence at practice on Monday gives him a chance to be available for Sunday's season opener. 
+  - Source: https://www.fantasypros.com/nfl/news/606388/kyle-monangai-knee-practice-monday.php
+- **NEW — Rome Odunze** — Rome Odunze (leg) misses practice Monday  (2026-09-07T18:45:42.953000Z)
+  - Odunze left practice early last Thursday with an apparent right leg injury. His status for Sunday's season opener is up in the air. 
+  - Source: https://www.fantasypros.com/nfl/news/606389/rome-odunze-leg-misses-practice-monday.php
+- **NEW — DK Metcalf** — DK Metcalf practices Monday  (2026-09-07T18:45:42.938000Z)
+  - Metcalf missed time during training camp with an undisclosed injury. He remains on track to be good to go for Sunday's season opener against the Falcons. 
+  - Source: https://www.fantasypros.com/nfl/news/606390/dk-metcalf-practices-monday.php
+- **NEW — Michael Pittman** — Michael Pittman Jr. (hamstring) practices Monday  (2026-09-07T18:45:42.926000Z)
+  - Pittman missed time during training camp with a hamstring injury. He remains on track to be good to go for Sunday's season opener against the Falcons. 
+  - Source: https://www.fantasypros.com/nfl/news/606391/michael-pittman-jr-hamstring-practices-monday.php
+- **NEW — Kyle Monangai** — Kyle Monangai - Back at practice Monday (2026-09-07T18:45:37Z)
+  - It marked Monangai's first practice action since he hyperextended his knee Aug. 16. It's unclear if Monangai will be able to play in Sunday's regular-season opener against the Panthers, but he's obviously nearing 100 percent. D'Andre Swift (abdomen) was also back at practice Monday after dealing with cramps last week.
+- **NEW — D'Andre Swift** — D'Andre Swift - Back at practice Monday (2026-09-07T18:43:25Z)
+  - Swift left practice last Thursday with abdominal cramps, but he's fine and will be good to go for Sunday's season opener against the Panthers. In addition to Swift, Kyle Monangai (knee) returned to practice Monday for the first time since hyperextending his knee Aug. 16. Swift is a locked-in fantasy RB2 to open the 2026 campaign, while Monangai makes for an ideal bench stash in Chicago's elite offense. Roschon Johnson will bring up the rear of the depth chart as the Bears' RB3.
 - **Jalen McMillan** — Jalen McMillan - On field for Monday's practice (2026-09-07T18:15:23Z)
   - Both McMillan and Emeka Egbuka (toe) were participating in Monday's session, putting both in good position to play Sunday against the Bengals. McMillan missed most of training camp, but his injury never sounded serious. He's expected to compete with rookie Ted Hurst for WR3 duties behind Egbuka and Chris Godwin this season. McMillan is the favorite to open the campaign in three-wide sets.
 - **Ja'Marr Chase** — Ja'Marr Chase (knee) returns to practice Monday  (2026-09-07T17:45:42.459000Z)
@@ -45,9 +64,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php
 - **Michael Penix** — Michael Penix - Will be inactive for opener (2026-09-07T15:00:51Z)
   - While addressing the media shortly after the Falcons named Tua Tagovailoa their Week 1 starter Monday, Stefanski noted that Penix had taken part in only six 11-on-11 practices during training camp, so the third-year quarterback will need some more time to get back to full speed following last November's ACL tear before making his 2026 debut, per Raimondi. The Falcons were pleased enough with Penix's progress to wait until less than a week before the season opener to name a starter, which suggests that he'll likely get a chance to supplant Tagovailoa atop the depth chart at some point this season. While Penix is in street clothes for Week 1, Cooper Rush will step in as Tagovailoa's backup, and undrafted rookie Jack Strand will serve as the No. 3 quarterback.
-- **NEW — Jacob Saylors** — Jacob Saylors, Sione Vaki to Split RB2 Role in Detroit (2026-09-07T14:30:04Z)
+- **Jacob Saylors** — Jacob Saylors, Sione Vaki to Split RB2 Role in Detroit (2026-09-07T14:30:04Z)
   - Source: https://www.rotoballer.com/player-news/jacob-saylors-sione-vaki-to-split-rb2-role-in-detroit/1925315
-- **NEW — Tee Higgins** — Tee Higgins Seen Practicing on Monday (2026-09-07T14:20:06Z)
+- **Tee Higgins** — Tee Higgins Seen Practicing on Monday (2026-09-07T14:20:06Z)
   - Source: https://www.rotoballer.com/player-news/tee-higgins-seen-practicing-on-monday/1925303
 - **Ja'Marr Chase** — Ja'Marr Chase Practicing on Monday (2026-09-07T14:15:05Z)
   - Source: https://www.rotoballer.com/player-news/jamarr-chase-practicing-on-monday/1925300
@@ -206,17 +225,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/zach-charbonnet-falling-down-draft-boards-amid-acl-recovery/1924600
 - **Malik Davis** — Malik Davis the Top Handcuff to Stash in Dallas (2026-09-06T11:30:09Z)
   - Source: https://www.rotoballer.com/player-news/malik-davis-the-top-handcuff-to-stash-in-dallas/1924594
-- **Davante Adams** — Davante Adams Enjoys a Dominant Showing in Camp (2026-09-06T11:29:05Z)
-  - Source: https://www.rotoballer.com/player-news/davante-adams-enjoys-a-dominant-showing-in-camp/1924592
-- **Nicholas Singleton** — Nicholas Singleton Falling Down Draft Boards After Modest Preseason (2026-09-06T11:22:09Z)
-  - Source: https://www.rotoballer.com/player-news/nicholas-singleton-falling-down-draft-boards-after-modest-preseason/1924574
-- **Chris Brooks** — Chris Brooks Has a Path to No. 2 Role Early in Season (2026-09-06T11:18:06Z)
-  - Source: https://www.rotoballer.com/player-news/chris-brooks-has-a-path-to-no-2-role-early-in-season/1924527
-- **Harold Fannin** — Harold Fannin Jr. Has Clear Path To High Targets (2026-09-06T10:51:15Z)
-  - Source: https://www.rotoballer.com/player-news/harold-fannin-jr-has-clear-path-to-high-targets/1924506
-- **Patrick Mahomes** — Patrick Mahomes Took Unique Approach To Grueling Rehab (2026-09-06T10:24:05Z)
-  - Source: https://www.rotoballer.com/player-news/patrick-mahomes-took-unique-approach-to-grueling-rehab/1924488
-- **Najee Harris** — Najee Harris Draws Positive Reports in Giants Camp (2026-09-06T09:46:17Z)
-  - Source: https://www.rotoballer.com/player-news/najee-harris-draws-positive-reports-in-giants-camp/1924468
-- **Kyle Pitts** — Kyle Pitts Sr. Looking to Build Off Last Season and This Preseason (2026-09-06T09:42:07Z)
-  - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-looking-to-build-off-last-season-and-this-preseason/1924460
