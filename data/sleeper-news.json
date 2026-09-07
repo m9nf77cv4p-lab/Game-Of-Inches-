@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-07T14:20:38Z",
+  "last_checked_at": "2026-09-07T14:35:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11624|rotoballer|220254|1788775211000"
+    "nfl|11646|rotoballer|220256|1788776526000",
+    "nfl|9508|rotoballer|220255|1788776345000"
   ],
   "schema_version": 1,
   "source": {
@@ -93,6 +94,46 @@
       "story_id": "nfl|6768|fantasy_pros|606317|1788783340302",
       "title": "Tua Tagovailoa named Falcons starter",
       "url": "https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers wide receiver Jalen Coker enters the 2026 season as the undisputed No. 2 target for quarterback Bryce Young. Coker is behind Tetairoa McMillan on the depth chart, but other than that, he faces no real competition for volume. The 24-year-old is coming off his second pro season, during which he played 11 games and tallied 33 catches, 394 yards, and three touchdowns. With decent quarterback play, a clearly defined role with little competition for targets, and an offense that could throw the ball a lot, Coker is emerging as a priority waiver wire target in 12+ team leagues, especially for managers in half-PPR or full-PPR formats. He has a chance to produce right away, as he faces off in Week 1 against the Chicago Bears, who allowed the third-most fantasy points to wide receivers last season.",
+      "metadata": {
+        "description": "Carolina Panthers wide receiver Jalen Coker enters the 2026 season as the undisputed No. 2 target for quarterback Bryce Young. Coker is behind Tetairoa McMillan on the depth chart, but other than that, he faces no real competition for volume. The 24-year-old is coming off his second pro season, during which he played 11 games and tallied 33 catches, 394 yards, and three touchdowns. With decent quarterback play, a clearly defined role with little competition for targets, and an offense that could throw the ball a lot, Coker is emerging as a priority waiver wire target in 12+ team leagues, especially for managers in half-PPR or full-PPR formats. He has a chance to produce right away, as he faces off in Week 1 against the Chicago Bears, who allowed the third-most fantasy points to wide receivers last season.",
+        "title": "Jalen Coker Set for High Receiving Volume in 2026",
+        "topic_id": "1402696600123371520",
+        "url": "https://www.rotoballer.com/player-news/jalen-coker-set-for-high-receiving-volume-in-2026/1925060"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11646",
+      "player_name": "Jalen Coker",
+      "position": "WR",
+      "published": 1788776526000,
+      "source": "rotoballer",
+      "source_key": "220256",
+      "story_id": "nfl|11646|rotoballer|220256|1788776526000",
+      "title": "Jalen Coker Set for High Receiving Volume in 2026",
+      "url": "https://www.rotoballer.com/player-news/jalen-coker-set-for-high-receiving-volume-in-2026/1925060"
+    },
+    {
+      "analysis": null,
+      "description": "Tennessee Titans running back Tyjae Spears enters the season as No. 2 on the depth chart, but he still has the potential to carve out standalone value, especially in PPR leagues. The Titans have Tony Pollard set to handle early-down work and Nicholas Singleton at the bottom of the depth chart to offer a change of pace. However, Spears is a pass-catching specialist who should consistently work his way onto the field on passing downs. Through 13 games last year, he tallied 283 rushing yards, 45 catches, 264 receiving yards, and two total touchdowns. He finished as the RB44 in PPR leagues, but if he had been healthy for the full season, he likely would've cracked the top 36. Spears gets somewhat of a fresh start this year with new offensive coordinator Brian Daboll, and he also opens the season with a softer matchup against the New York Jets. There's legitimate RB3/flex appeal here for managers in 10+ team PPR leagues.",
+      "metadata": {
+        "description": "Tennessee Titans running back Tyjae Spears enters the season as No. 2 on the depth chart, but he still has the potential to carve out standalone value, especially in PPR leagues. The Titans have Tony Pollard set to handle early-down work and Nicholas Singleton at the bottom of the depth chart to offer a change of pace. However, Spears is a pass-catching specialist who should consistently work his way onto the field on passing downs. Through 13 games last year, he tallied 283 rushing yards, 45 catches, 264 receiving yards, and two total touchdowns. He finished as the RB44 in PPR leagues, but if he had been healthy for the full season, he likely would've cracked the top 36. Spears gets somewhat of a fresh start this year with new offensive coordinator Brian Daboll, and he also opens the season with a softer matchup against the New York Jets. There's legitimate RB3/flex appeal here for managers in 10+ team PPR leagues.",
+        "title": "Tyjae Spears a Waiver Wire Target in PPR Leagues",
+        "topic_id": "1402695341274320896",
+        "url": "https://www.rotoballer.com/player-news/tyjae-spears-a-waiver-wire-target-in-ppr-leagues/1925056"
+      },
+      "nfl_team": "TEN",
+      "player_id": "9508",
+      "player_name": "Tyjae Spears",
+      "position": "RB",
+      "published": 1788776345000,
+      "source": "rotoballer",
+      "source_key": "220255",
+      "story_id": "nfl|9508|rotoballer|220255|1788776345000",
+      "title": "Tyjae Spears a Waiver Wire Target in PPR Leagues",
+      "url": "https://www.rotoballer.com/player-news/tyjae-spears-a-waiver-wire-target-in-ppr-leagues/1925056"
     },
     {
       "analysis": null,
