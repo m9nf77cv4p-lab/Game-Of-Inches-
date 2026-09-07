@@ -1,11 +1,13 @@
 {
-  "last_checked_at": "2026-09-07T21:10:36Z",
+  "last_checked_at": "2026-09-07T21:26:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9480|rotoballer|220299|1788799625000",
-    "nfl|9753|rotoballer|220300|1788800345000",
-    "nfl|9753|rotowire|636351|1788814386000"
+    "nfl|11603|fantasy_pros|606428|1788815744009",
+    "nfl|12497|fantasy_pros|606432|1788816343834",
+    "nfl|12529|fantasy_pros|606425|1788815744034",
+    "nfl|13287|fantasy_pros|606424|1788815744050",
+    "nfl|9753|fantasy_pros|606418|1788815744064"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +17,111 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Horton logged his second straight limited practice. It would still be a surprise if he plays on Wednesday, but it is a good sign nonetheless. ",
+      "description": "Tory Horton remained limited in practice on Monday. ",
+      "metadata": {
+        "analysis": "Horton logged his second straight limited practice. It would still be a surprise if he plays on Wednesday, but it is a good sign nonetheless. ",
+        "description": "Tory Horton remained limited in practice on Monday. ",
+        "title": "Tory Horton (hamstring) limited in practice Monday ",
+        "topic_id": "1402801055971975168",
+        "url": "https://www.fantasypros.com/nfl/news/606432/tory-horton-hamstring-limited-practice-monday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12497",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "published": 1788816343834,
+      "source": "fantasy_pros",
+      "source_key": "606432",
+      "story_id": "nfl|12497|fantasy_pros|606432|1788816343834",
+      "title": "Tory Horton (hamstring) limited in practice Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/606432/tory-horton-hamstring-limited-practice-monday.php"
+    },
+    {
+      "analysis": "Charbonnet is opening the season on the physically unable to perform (PUP) list. He will miss at least four games, but he could be off the PUP list sooner than expected. Macdonald did not disclose specifics on Charbonnet's timeline. The fourth-year running back has scored 20 rushing touchdowns in the last two seasons and tore his ACL in January.",
+      "description": "Seattle Seahawks running back Zach Charbonnet has an \"aggressive\" timeline for his return from injury, says head coach Mike Macdonald.",
+      "metadata": {
+        "analysis": "Charbonnet is opening the season on the physically unable to perform (PUP) list. He will miss at least four games, but he could be off the PUP list sooner than expected. Macdonald did not disclose specifics on Charbonnet's timeline. The fourth-year running back has scored 20 rushing touchdowns in the last two seasons and tore his ACL in January.",
+        "description": "Seattle Seahawks running back Zach Charbonnet has an \"aggressive\" timeline for his return from injury, says head coach Mike Macdonald.",
+        "title": "Zach Charbonnet (knee) has 'aggressive' return timeline",
+        "topic_id": "1402798540358451200",
+        "url": "https://www.fantasypros.com/nfl/news/606418/zach-charbonnet-knee-aggressive-return-timeline.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9753",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
+      "published": 1788815744064,
+      "source": "fantasy_pros",
+      "source_key": "606418",
+      "story_id": "nfl|9753|fantasy_pros|606418|1788815744064",
+      "title": "Zach Charbonnet (knee) has 'aggressive' return timeline",
+      "url": "https://www.fantasypros.com/nfl/news/606418/zach-charbonnet-knee-aggressive-return-timeline.php"
+    },
+    {
+      "analysis": "Love has been struggling with a high ankle sprain injury for a few weeks now, but this is a promising sign for his return. The first round rookie should be in line for a nice workload, and he flashed serious ability in his limited preseason action.",
+      "description": "Jeremiyah Love is improving as the Cardinals approach Week 1. When asked about Love's status for the season opener, HC Mike LaFleur said \"I feel good.\"",
+      "metadata": {
+        "analysis": "Love has been struggling with a high ankle sprain injury for a few weeks now, but this is a promising sign for his return. The first round rookie should be in line for a nice workload, and he flashed serious ability in his limited preseason action.",
+        "description": "Jeremiyah Love is improving as the Cardinals approach Week 1. When asked about Love's status for the season opener, HC Mike LaFleur said \"I feel good.\"",
+        "title": "Jeremiyah Love: status improving for Week 1",
+        "topic_id": "1402798540295536640",
+        "url": "https://www.fantasypros.com/nfl/news/606424/jeremiyah-love-status-improving-week-1.php"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788815744050,
+      "source": "fantasy_pros",
+      "source_key": "606424",
+      "story_id": "nfl|13287|fantasy_pros|606424|1788815744050",
+      "title": "Jeremiyah Love: status improving for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606424/jeremiyah-love-status-improving-week-1.php"
+    },
+    {
+      "analysis": "Henderson continues to trend towards missing Wednesday's season opener. ",
+      "description": "TreVeyon Henderson missed practice again on Monday. ",
+      "metadata": {
+        "analysis": "Henderson continues to trend towards missing Wednesday's season opener. ",
+        "description": "TreVeyon Henderson missed practice again on Monday. ",
+        "title": "TreVeyon Henderson (ankle) officially misses practice Monday ",
+        "topic_id": "1402798540236816384",
+        "url": "https://www.fantasypros.com/nfl/news/606425/treveyon-henderson-ankle-officially-misses-practice-monday.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788815744034,
+      "source": "fantasy_pros",
+      "source_key": "606425",
+      "story_id": "nfl|12529|fantasy_pros|606425|1788815744034",
+      "title": "TreVeyon Henderson (ankle) officially misses practice Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/606425/treveyon-henderson-ankle-officially-misses-practice-monday.php"
+    },
+    {
+      "analysis": "Barner remains on track to be a full-go for Wednesday's season opener against the Patriots. ",
+      "description": "AJ Barner was a full participant in practice on Monday. ",
+      "metadata": {
+        "analysis": "Barner remains on track to be a full-go for Wednesday's season opener against the Patriots. ",
+        "description": "AJ Barner was a full participant in practice on Monday. ",
+        "title": "AJ Barner (oblique) logs full practice Monday ",
+        "topic_id": "1402798540123570176",
+        "url": "https://www.fantasypros.com/nfl/news/606428/aj-barner-oblique-logs-full-practice-monday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11603",
+      "player_name": "AJ Barner",
+      "position": "TE",
+      "published": 1788815744009,
+      "source": "fantasy_pros",
+      "source_key": "606428",
+      "story_id": "nfl|11603|fantasy_pros|606428|1788815744009",
+      "title": "AJ Barner (oblique) logs full practice Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/606428/aj-barner-oblique-logs-full-practice-monday.php"
+    },
     {
       "analysis": "Macdonald added that Charbonnet looks \"dang good.\" The running back is on reserve/PUP to begin the season and will miss at least the first four games, but it sounds like he could return sometime next month. Seattle's backfield picture remains murky with rookie Jadarian Price, George Holani and Emanuel Wilson all options to see snaps. Adding Charbonnet's name to the mix will only muddy the picture. Price looks like the best bet for fantasy production, but the coaching staff has an affinity for Charbonnet, especially near the goal line.",
       "description": "Coach Mike Macdonald said Monday that Charbonnet (knee) looks \"awesome\" in his rehab from a torn ACL, Gregg Bell of The Tacoma News Tribune reports.",
@@ -467,10 +574,10 @@
     },
     {
       "analysis": null,
-      "description": "Seattle Seahawks head coach Mike McDonald said that running back Zach Charbonnet (knee) looks \"awesome\" and \"dang good\" in his rehab efforts, per Gregg Bell of the Tacoma News Tribune. Charbonnet is working his way back from a torn ACL, which he suffered during Seattle's NFC Divisional Round win over the San Francisco 49ers in mid-January. The 25-year-old is set to open 2026 on the Physically Unable to Perform List, which guarantees he will miss at least the Seahawks' first four games. However, it appears Charbonnet could have a chance to make his return as soon as Week 5. Once healthy, Charbonnet has a legitimate chance to assume the Seahawks RB1 role. While the Seahawks drafted rookie running back Jadarian Price to replace the departed Kenneth Walker III, Charbonnet recorded 730 rushing yards and 12 touchdowns across 16 games in 2025 and should have the full faith of the coaching staff. In leagues where Charbonnet is available on the waiver wire, he could be worth stashing in an IR or bench spot ahead of a potential mid-October return.",
+      "description": "Seattle Seahawks head coach Mike Macdonald said that running back Zach Charbonnet (knee) looks \"awesome\" and \"dang good\" in his rehab efforts, per Gregg Bell of the Tacoma News Tribune. Charbonnet is working his way back from a torn ACL, which he suffered during Seattle's NFC Divisional Round win over the San Francisco 49ers in mid-January. The 25-year-old is set to open 2026 on the Physically Unable to Perform List, which guarantees he will miss at least the Seahawks' first four games. However, it appears Charbonnet could have a chance to make his return as soon as Week 5. Once healthy, Charbonnet has a legitimate chance to assume the Seahawks RB1 role. While the Seahawks drafted rookie running back Jadarian Price to replace the departed Kenneth Walker III, Charbonnet recorded 730 rushing yards and 12 touchdowns across 16 games in 2025 and should have the full faith of the coaching staff. In leagues where Charbonnet is available on the waiver wire, he could be worth stashing in an IR or bench spot ahead of a potential mid-October return.",
       "metadata": {
-        "description": "Seattle Seahawks head coach Mike McDonald said that running back Zach Charbonnet (knee) looks \"awesome\" and \"dang good\" in his rehab efforts, per Gregg Bell of the Tacoma News Tribune. Charbonnet is working his way back from a torn ACL, which he suffered during Seattle's NFC Divisional Round win over the San Francisco 49ers in mid-January. The 25-year-old is set to open 2026 on the Physically Unable to Perform List, which guarantees he will miss at least the Seahawks' first four games. However, it appears Charbonnet could have a chance to make his return as soon as Week 5. Once healthy, Charbonnet has a legitimate chance to assume the Seahawks RB1 role. While the Seahawks drafted rookie running back Jadarian Price to replace the departed Kenneth Walker III, Charbonnet recorded 730 rushing yards and 12 touchdowns across 16 games in 2025 and should have the full faith of the coaching staff. In leagues where Charbonnet is available on the waiver wire, he could be worth stashing in an IR or bench spot ahead of a potential mid-October return.",
-        "title": "Zach Charbonnet Looks \"Awesome\" in Rehab Efforts, Worth Stashing Off the Waiver Wire Ahead of Week 1?",
+        "description": "Seattle Seahawks head coach Mike Macdonald said that running back Zach Charbonnet (knee) looks \"awesome\" and \"dang good\" in his rehab efforts, per Gregg Bell of the Tacoma News Tribune. Charbonnet is working his way back from a torn ACL, which he suffered during Seattle's NFC Divisional Round win over the San Francisco 49ers in mid-January. The 25-year-old is set to open 2026 on the Physically Unable to Perform List, which guarantees he will miss at least the Seahawks' first four games. However, it appears Charbonnet could have a chance to make his return as soon as Week 5. Once healthy, Charbonnet has a legitimate chance to assume the Seahawks RB1 role. While the Seahawks drafted rookie running back Jadarian Price to replace the departed Kenneth Walker III, Charbonnet recorded 730 rushing yards and 12 touchdowns across 16 games in 2025 and should have the full faith of the coaching staff. In leagues where Charbonnet is available on the waiver wire, he could be worth stashing in an IR or bench spot ahead of a potential mid-October return.",
+        "title": "Zach Charbonnet Worth Stashing Off the Waiver Wire Ahead of Week 1?",
         "topic_id": "1402796016125685760",
         "url": "https://www.rotoballer.com/player-news/zach-charbonnet-looks-awesome-in-rehab-efforts-worth-stashing-off-the-waiver-wire-ahead-of-week-1/1925424"
       },
@@ -482,7 +589,7 @@
       "source": "rotoballer",
       "source_key": "220300",
       "story_id": "nfl|9753|rotoballer|220300|1788800345000",
-      "title": "Zach Charbonnet Looks \"Awesome\" in Rehab Efforts, Worth Stashing Off the Waiver Wire Ahead of Week 1?",
+      "title": "Zach Charbonnet Worth Stashing Off the Waiver Wire Ahead of Week 1?",
       "url": "https://www.rotoballer.com/player-news/zach-charbonnet-looks-awesome-in-rehab-efforts-worth-stashing-off-the-waiver-wire-ahead-of-week-1/1925424"
     },
     {
