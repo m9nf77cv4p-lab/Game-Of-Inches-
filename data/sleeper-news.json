@@ -1,9 +1,12 @@
 {
-  "last_checked_at": "2026-09-07T15:33:36Z",
+  "last_checked_at": "2026-09-07T15:47:04Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12492|rotoballer|220262|1788780127000"
+    "nfl|11559|fantasy_pros|606334|1788795341756",
+    "nfl|11583|fantasy_pros|606338|1788795341703",
+    "nfl|11583|rotowire|636333|1788795345000",
+    "nfl|4217|fantasy_pros|606340|1788795941629"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +16,89 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Kittle was on the field on Monday in Australia. It keeps him on track to be good to go for Thursday's seaaon opener, though it remains unclear if he will be facing any sort of snap count. ",
+      "description": "George Kittle was seen practicing on Monday. ",
+      "metadata": {
+        "analysis": "Kittle was on the field on Monday in Australia. It keeps him on track to be good to go for Thursday's seaaon opener, though it remains unclear if he will be facing any sort of snap count. ",
+        "description": "George Kittle was seen practicing on Monday. ",
+        "title": "George Kittle (Achilles) seen practicing Monday ",
+        "topic_id": "1402715482913546240",
+        "url": "https://www.fantasypros.com/nfl/news/606340/george-kittle-achilles-seen-practicing-monday.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788795941629,
+      "source": "fantasy_pros",
+      "source_key": "606340",
+      "story_id": "nfl|4217|fantasy_pros|606340|1788795941629",
+      "title": "George Kittle (Achilles) seen practicing Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/606340/george-kittle-achilles-seen-practicing-monday.php"
+    },
+    {
+      "analysis": "Kaye notes that Brooks was spotted doing some running, so he wasn't completed limited to rehab work. According to Joe Person of The Athletic, Panthers head coach Dave Canales expressed optimism last week that Brooks would be ready to play in Sunday's season opener versus the Bears, and the running back's lack of involvement in Monday's practice isn't believed to have changed the Panthers' stance. Brooks missed the entire 2025 campaign after tearing the ACL in his right knee for the second time in his career in December 2024, but he was fully cleared in the spring and saw action in two preseason games.",
+      "description": "Brooks (general soreness) was spotted working out of to the side during Monday's practice, Mike Kaye of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Kaye notes that Brooks was spotted doing some running, so he wasn't completed limited to rehab work. According to Joe Person of The Athletic, Panthers head coach Dave Canales expressed optimism last week that Brooks would be ready to play in Sunday's season opener versus the Bears, and the running back's lack of involvement in Monday's practice isn't believed to have changed the Panthers' stance. Brooks missed the entire 2025 campaign after tearing the ACL in his right knee for the second time in his career in December 2024, but he was fully cleared in the spring and saw action in two preseason games.",
+        "description": "Brooks (general soreness) was spotted working out of to the side during Monday's practice, Mike Kaye of ESPN.com reports.",
+        "title": "Jonathon Brooks - Works out off to side Monday",
+        "topic_id": "1402714219933118464"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788795345000,
+      "source": "rotowire",
+      "source_key": "636333",
+      "story_id": "nfl|11583|rotowire|636333|1788795345000",
+      "title": "Jonathon Brooks - Works out off to side Monday",
+      "url": null
+    },
+    {
+      "analysis": "Penix remains without a clear timetable to return to the field. Stefanski declined to put a timeline on when Penix could be ready to take the field. Tua Tagovailoa was named the starter for Week 1. ",
+      "description": "Falcons head coach Kevin Stefanski said Michael Penix will be inactive for Week 1 against the Steelers.",
+      "metadata": {
+        "analysis": "Penix remains without a clear timetable to return to the field. Stefanski declined to put a timeline on when Penix could be ready to take the field. Tua Tagovailoa was named the starter for Week 1. ",
+        "description": "Falcons head coach Kevin Stefanski said Michael Penix will be inactive for Week 1 against the Steelers.",
+        "title": "Michael Penix Jr. (knee) to be inactive in Week 1",
+        "topic_id": "1402712966872207360",
+        "url": "https://www.fantasypros.com/nfl/news/606334/michael-penix-jr-knee-to-be-inactive-week-1.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "11559",
+      "player_name": "Michael Penix",
+      "position": "QB",
+      "published": 1788795341756,
+      "source": "fantasy_pros",
+      "source_key": "606334",
+      "story_id": "nfl|11559|fantasy_pros|606334|1788795341756",
+      "title": "Michael Penix Jr. (knee) to be inactive in Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606334/michael-penix-jr-knee-to-be-inactive-week-1.php"
+    },
+    {
+      "analysis": "Head coach Dave Canales said last week that he was \"very optimistic\" that Brooks would play in Week 1. It remains unclear what the exact injury is that he is dealing with. His status will need to continue to be monitored the rest of the week. ",
+      "description": "Jonathon Brooks was seen working off to the side with trainers on Monday.",
+      "metadata": {
+        "analysis": "Head coach Dave Canales said last week that he was \"very optimistic\" that Brooks would play in Week 1. It remains unclear what the exact injury is that he is dealing with. His status will need to continue to be monitored the rest of the week. ",
+        "description": "Jonathon Brooks was seen working off to the side with trainers on Monday.",
+        "title": "Jonathon Brooks works off to side with trainers Monday",
+        "topic_id": "1402712966645714944",
+        "url": "https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788795341703,
+      "source": "fantasy_pros",
+      "source_key": "606338",
+      "story_id": "nfl|11583|fantasy_pros|606338|1788795341703",
+      "title": "Jonathon Brooks works off to side with trainers Monday",
+      "url": "https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php"
+    },
     {
       "analysis": "While addressing the media shortly after the Falcons named Tua Tagovailoa their Week 1 starter Monday, Stefanski noted that Penix had taken part in only six 11-on-11 practices during training camp, so the third-year quarterback will need some more time to get back to full speed following last November's ACL tear before making his 2026 debut, per Raimondi. The Falcons were pleased enough with Penix's progress to wait until less than a week before the season opener to name a starter, which suggests that he'll likely get a chance to supplant Tagovailoa atop the depth chart at some point this season. While Penix is in street clothes for Week 1, Cooper Rush will step in as Tagovailoa's backup, and undrafted rookie Jack Strand will serve as the No. 3 quarterback.",
       "description": "Falcons head coach Kevin Stefanski said that Penix (knee) will be inactive for Sunday's season opener in Pittsburgh, Marc Raimondi of ESPN.com reports.",
@@ -259,7 +345,7 @@
       "description": "Tennessee Titans running back Tyjae Spears enters the season as No. 2 on the depth chart, but he still has the potential to carve out standalone value, especially in PPR leagues. The Titans have Tony Pollard set to handle early-down work and Nicholas Singleton at the bottom of the depth chart to offer a change of pace. However, Spears is a pass-catching specialist who should consistently work his way onto the field on passing downs. Through 13 games last year, he tallied 283 rushing yards, 45 catches, 264 receiving yards, and two total touchdowns. He finished as the RB44 in PPR leagues, but if he had been healthy for the full season, he likely would've cracked the top 36. Spears gets somewhat of a fresh start this year with new offensive coordinator Brian Daboll, and he also opens the season with a softer matchup against the New York Jets. There's legitimate RB3/flex appeal here for managers in 10+ team PPR leagues.",
       "metadata": {
         "description": "Tennessee Titans running back Tyjae Spears enters the season as No. 2 on the depth chart, but he still has the potential to carve out standalone value, especially in PPR leagues. The Titans have Tony Pollard set to handle early-down work and Nicholas Singleton at the bottom of the depth chart to offer a change of pace. However, Spears is a pass-catching specialist who should consistently work his way onto the field on passing downs. Through 13 games last year, he tallied 283 rushing yards, 45 catches, 264 receiving yards, and two total touchdowns. He finished as the RB44 in PPR leagues, but if he had been healthy for the full season, he likely would've cracked the top 36. Spears gets somewhat of a fresh start this year with new offensive coordinator Brian Daboll, and he also opens the season with a softer matchup against the New York Jets. There's legitimate RB3/flex appeal here for managers in 10+ team PPR leagues.",
-        "title": "Tyjae Spears a Waiver Wire Target in PPR Leagues",
+        "title": "Tyjae Spears a Waiver-Wire Target in PPR Leagues",
         "topic_id": "1402695341274320896",
         "url": "https://www.rotoballer.com/player-news/tyjae-spears-a-waiver-wire-target-in-ppr-leagues/1925056"
       },
@@ -271,7 +357,7 @@
       "source": "rotoballer",
       "source_key": "220255",
       "story_id": "nfl|9508|rotoballer|220255|1788776345000",
-      "title": "Tyjae Spears a Waiver Wire Target in PPR Leagues",
+      "title": "Tyjae Spears a Waiver-Wire Target in PPR Leagues",
       "url": "https://www.rotoballer.com/player-news/tyjae-spears-a-waiver-wire-target-in-ppr-leagues/1925056"
     },
     {
@@ -279,7 +365,7 @@
       "description": "Kansas City Chiefs wide receiver Xavier Worthy enters the 2026 season in a strong position. After a shoulder injury, Worthy struggled, hauling in 42 of 73 targets for 532 yards and one touchdown in 14 games. He suffered the injury on the first drive of the 2025 season, and it was reportedly \"serious\" and should have required season-ending surgery. Now that he and star quarterback Patrick Mahomes are healthy, Worthy hopes to regain form in 2026. With Eric Bieniemy back in Kansas City, Worthy hopes to be the new \"Tyreek Hill\" in this offense. With Rashee Rice not looking great in training camp, Worthy could be the lead receiver in 2026. He faces a tough Week 1 matchup against the Denver Broncos, but a big game on Monday night will make him a top addition on the waiver wire next week.",
       "metadata": {
         "description": "Kansas City Chiefs wide receiver Xavier Worthy enters the 2026 season in a strong position. After a shoulder injury, Worthy struggled, hauling in 42 of 73 targets for 532 yards and one touchdown in 14 games. He suffered the injury on the first drive of the 2025 season, and it was reportedly \"serious\" and should have required season-ending surgery. Now that he and star quarterback Patrick Mahomes are healthy, Worthy hopes to regain form in 2026. With Eric Bieniemy back in Kansas City, Worthy hopes to be the new \"Tyreek Hill\" in this offense. With Rashee Rice not looking great in training camp, Worthy could be the lead receiver in 2026. He faces a tough Week 1 matchup against the Denver Broncos, but a big game on Monday night will make him a top addition on the waiver wire next week.",
-        "title": "Xavier Worthy Could Become Top Waiver Wire Target After Injury-Plagued 2025",
+        "title": "Xavier Worthy Could Become Top Waiver-Wire Target",
         "topic_id": "1402691566325276672",
         "url": "https://www.rotoballer.com/player-news/xavier-worthy-could-become-top-waiver-wire-target-after-injury-plagued-2025/1925044"
       },
@@ -291,7 +377,7 @@
       "source": "rotoballer",
       "source_key": "220254",
       "story_id": "nfl|11624|rotoballer|220254|1788775211000",
-      "title": "Xavier Worthy Could Become Top Waiver Wire Target After Injury-Plagued 2025",
+      "title": "Xavier Worthy Could Become Top Waiver-Wire Target",
       "url": "https://www.rotoballer.com/player-news/xavier-worthy-could-become-top-waiver-wire-target-after-injury-plagued-2025/1925044"
     },
     {
@@ -41351,46 +41437,6 @@
       "story_id": "nfl|8110|rotoballer|218207|1786205168000",
       "title": "Jake Ferguson's Red-Zone Role Keeps Him in the TE1 Mix",
       "url": "https://www.rotoballer.com/player-news/jake-fergusons-red-zone-role-keeps-him-in-the-te1-mix/1905411"
-    },
-    {
-      "analysis": null,
-      "description": "Houston Texans tight end Dalton Schultz was busy last year. He saw 106 targets, caught a career-high 82 passes for 777 yards and three touchdowns, and finished as the TE11. Finding that much work again could be difficult. Nico Collins is still the top receiver, Jayden Higgins is coming off a 41-catch, 525-yard rookie season and has drawn strong reviews in camp, while Tank Dell is back on the field after missing all of 2025 with a knee injury. Houston also signed Foster Moreau and used the 59th overall pick on tight end Marlin Klein. Schultz is still the Texans' TE1, and he played more than 71% of the offensive snaps last season, so his role isn't disappearing. There are simply more options around C.J. Stroud now. RotoBaller has Schultz 177th overall and TE24. He still makes sense as a second tight end, but another TE11 finish would require much of last year's target volume to stick around.",
-      "metadata": {
-        "description": "Houston Texans tight end Dalton Schultz was busy last year. He saw 106 targets, caught a career-high 82 passes for 777 yards and three touchdowns, and finished as the TE11. Finding that much work again could be difficult. Nico Collins is still the top receiver, Jayden Higgins is coming off a 41-catch, 525-yard rookie season and has drawn strong reviews in camp, while Tank Dell is back on the field after missing all of 2025 with a knee injury. Houston also signed Foster Moreau and used the 59th overall pick on tight end Marlin Klein. Schultz is still the Texans' TE1, and he played more than 71% of the offensive snaps last season, so his role isn't disappearing. There are simply more options around C.J. Stroud now. RotoBaller has Schultz 177th overall and TE24. He still makes sense as a second tight end, but another TE11 finish would require much of last year's target volume to stick around.",
-        "title": "Dalton Schultz Belongs in the TE2 Range in 2026",
-        "topic_id": "1391905458326900736",
-        "url": "https://www.rotoballer.com/player-news/dalton-schultz-belongs-in-the-te2-range-in-2026/1905395"
-      },
-      "nfl_team": "HOU",
-      "player_id": "5001",
-      "player_name": "Dalton Schultz",
-      "position": "TE",
-      "published": 1786203908000,
-      "source": "rotoballer",
-      "source_key": "218205",
-      "story_id": "nfl|5001|rotoballer|218205|1786203908000",
-      "title": "Dalton Schultz Belongs in the TE2 Range in 2026",
-      "url": "https://www.rotoballer.com/player-news/dalton-schultz-belongs-in-the-te2-range-in-2026/1905395"
-    },
-    {
-      "analysis": null,
-      "description": "Minnesota Vikings wide receiver Jauan Jennings is going late enough in drafts that last year's drop in yardage shouldn't scare fantasy managers away. Jennings caught 55 passes for 643 yards in 15 games for San Francisco, but he also scored a career-high nine touchdowns while playing through a collection of injuries that included five broken ribs. That came one year after he posted 77 catches for 975 yards. Minnesota doesn't need Jennings to be its top receiver with Justin Jefferson and Jordan Addison around, and T.J. Hockenson gives whichever quarterback wins the job another established target. There is still room for Jennings to matter, though. He gives the Vikings a physical veteran underneath and has shown he can produce when his role expands. The unsettled competition between J.J. McCarthy and Kyler Murray adds some uncertainty, but the price has already accounted for plenty of it. RotoBaller ranks Jennings 147th overall in half-PPR, while his current consensus ADP sits at 173.9. At that point in a draft, his track record is worth taking a chance on.",
-      "metadata": {
-        "description": "Minnesota Vikings wide receiver Jauan Jennings is going late enough in drafts that last year's drop in yardage shouldn't scare fantasy managers away. Jennings caught 55 passes for 643 yards in 15 games for San Francisco, but he also scored a career-high nine touchdowns while playing through a collection of injuries that included five broken ribs. That came one year after he posted 77 catches for 975 yards. Minnesota doesn't need Jennings to be its top receiver with Justin Jefferson and Jordan Addison around, and T.J. Hockenson gives whichever quarterback wins the job another established target. There is still room for Jennings to matter, though. He gives the Vikings a physical veteran underneath and has shown he can produce when his role expands. The unsettled competition between J.J. McCarthy and Kyler Murray adds some uncertainty, but the price has already accounted for plenty of it. RotoBaller ranks Jennings 147th overall in half-PPR, while his current consensus ADP sits at 173.9. At that point in a draft, his track record is worth taking a chance on.",
-        "title": "Jauan Jennings Is Worth a Late-Round Bet in Minnesota",
-        "topic_id": "1391904202183163904",
-        "url": "https://www.rotoballer.com/player-news/jauan-jennings-is-worth-a-late-round-bet-in-minnesota/1905391"
-      },
-      "nfl_team": "MIN",
-      "player_id": "7049",
-      "player_name": "Jauan Jennings",
-      "position": "WR",
-      "published": 1786203377000,
-      "source": "rotoballer",
-      "source_key": "218204",
-      "story_id": "nfl|7049|rotoballer|218204|1786203377000",
-      "title": "Jauan Jennings Is Worth a Late-Round Bet in Minnesota",
-      "url": "https://www.rotoballer.com/player-news/jauan-jennings-is-worth-a-late-round-bet-in-minnesota/1905391"
     }
   ]
 }

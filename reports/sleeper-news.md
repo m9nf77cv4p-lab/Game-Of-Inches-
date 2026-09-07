@@ -2,11 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2060**
-- Newly captured: **1**
+- Stored stories: **2062**
+- Newly captured: **4**
 
 ## Latest news
 
+- **NEW — George Kittle** — George Kittle (Achilles) seen practicing Monday  (2026-09-07T15:45:41.629000Z)
+  - Kittle was on the field on Monday in Australia. It keeps him on track to be good to go for Thursday's seaaon opener, though it remains unclear if he will be facing any sort of snap count. 
+  - Source: https://www.fantasypros.com/nfl/news/606340/george-kittle-achilles-seen-practicing-monday.php
+- **NEW — Jonathon Brooks** — Jonathon Brooks - Works out off to side Monday (2026-09-07T15:35:45Z)
+  - Kaye notes that Brooks was spotted doing some running, so he wasn't completed limited to rehab work. According to Joe Person of The Athletic, Panthers head coach Dave Canales expressed optimism last week that Brooks would be ready to play in Sunday's season opener versus the Bears, and the running back's lack of involvement in Monday's practice isn't believed to have changed the Panthers' stance. Brooks missed the entire 2025 campaign after tearing the ACL in his right knee for the second time in his career in December 2024, but he was fully cleared in the spring and saw action in two preseason games.
+- **NEW — Michael Penix** — Michael Penix Jr. (knee) to be inactive in Week 1 (2026-09-07T15:35:41.756000Z)
+  - Penix remains without a clear timetable to return to the field. Stefanski declined to put a timeline on when Penix could be ready to take the field. Tua Tagovailoa was named the starter for Week 1. 
+  - Source: https://www.fantasypros.com/nfl/news/606334/michael-penix-jr-knee-to-be-inactive-week-1.php
+- **NEW — Jonathon Brooks** — Jonathon Brooks works off to side with trainers Monday (2026-09-07T15:35:41.703000Z)
+  - Head coach Dave Canales said last week that he was "very optimistic" that Brooks would play in Week 1. It remains unclear what the exact injury is that he is dealing with. His status will need to continue to be monitored the rest of the week. 
+  - Source: https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php
 - **Michael Penix** — Michael Penix - Will be inactive for season opener (2026-09-07T15:00:51Z)
   - While addressing the media shortly after the Falcons named Tua Tagovailoa their Week 1 starter Monday, Stefanski noted that Penix had taken part in only six 11-on-11 practices during training camp, so the third-year quarterback will need some more time to get back to full speed following last November's ACL tear before making his 2026 debut, per Raimondi. The Falcons were pleased enough with Penix's progress to wait until less than a week before the season opener to name a starter, which suggests that he'll likely get a chance to supplant Tagovailoa atop the depth chart at some point this season. While Penix is in street clothes for Week 1, Cooper Rush will step in as Tagovailoa's backup, and undrafted rookie Jack Strand will serve as the No. 3 quarterback.
 - **Michael Penix** — Michael Penix - Won't start in Week 1 (2026-09-07T13:36:21Z)
@@ -18,7 +29,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tua Tagovailoa** — Tua Tagovailoa named Falcons starter (2026-09-07T12:15:40.302000Z)
   - After a camp that was full of negative reports, Tua has managed to win the starting job. Frankly, it's likely by default, as Michael Penix just got back to practice after suffering a torn ACL last season. It will be interesting to see how long Tua can keep the job.
   - Source: https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php
-- **NEW — Pat Bryant** — Pat Bryant Drawing Rave Reviews After Breakout Camp (2026-09-07T11:22:07Z)
+- **Pat Bryant** — Pat Bryant Drawing Rave Reviews After Breakout Camp (2026-09-07T11:22:07Z)
   - Source: https://www.rotoballer.com/player-news/pat-bryant-drawing-rave-reviews-after-breakout-camp/1925121
 - **TreVeyon Henderson** — TreVeyon Henderson's Week 1 Status Remains Uncertain (2026-09-07T11:09:05Z)
   - Source: https://www.rotoballer.com/player-news/treveyon-hendersons-week-1-status-remains-uncertain/1925109
@@ -32,9 +43,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tank-bigsby-a-priority-handcuff-to-target-on-waiver-wire/1925076
 - **Jalen Coker** — Jalen Coker Set for High Receiving Volume in 2026 (2026-09-07T10:22:06Z)
   - Source: https://www.rotoballer.com/player-news/jalen-coker-set-for-high-receiving-volume-in-2026/1925060
-- **Tyjae Spears** — Tyjae Spears a Waiver Wire Target in PPR Leagues (2026-09-07T10:19:05Z)
+- **Tyjae Spears** — Tyjae Spears a Waiver-Wire Target in PPR Leagues (2026-09-07T10:19:05Z)
   - Source: https://www.rotoballer.com/player-news/tyjae-spears-a-waiver-wire-target-in-ppr-leagues/1925056
-- **Xavier Worthy** — Xavier Worthy Could Become Top Waiver Wire Target After Injury-Plagued 2025 (2026-09-07T10:00:11Z)
+- **Xavier Worthy** — Xavier Worthy Could Become Top Waiver-Wire Target (2026-09-07T10:00:11Z)
   - Source: https://www.rotoballer.com/player-news/xavier-worthy-could-become-top-waiver-wire-target-after-injury-plagued-2025/1925044
 - **Kaelon Black** — Kaelon Black a Priority Waiver-Wire Add With CMC Banged Up (2026-09-07T09:50:25Z)
   - Source: https://www.rotoballer.com/player-news/kaelon-black-a-priority-waiver-wire-add-with-mccaffrey-not-practicing/1925037
@@ -205,11 +216,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/gunnar-helm-emerging-as-a-deep-league-sleeper/1924164
 - **Puka Nacua** — Puka Nacua - Making progress in recovery (2026-09-05T15:52:28Z)
   - Nacua worked with trainers on the side at practice throughout the week, but McVay indicated things are moving in the right direction for Nacua and that he has been "hitting some high speed yards at a really good clip." Nacua's status for Thursday's season opener against the 49ers remains up in the air, but a better estimate at his availability will presumably be able to be made when the Rams release their first official injury report in advance of Week 1.
-- **Tua Tagovailoa** — Tua Tagovailoa Could Be on a Short Leash if Named the Starter (2026-09-05T15:25:06Z)
-  - Source: https://www.rotoballer.com/player-news/tua-tagovailoa-could-be-on-a-short-leash-if-named-starter-nfl-news-fantasy-football/1924112
-- **Rhamondre Stevenson** — Rhamondre Stevenson Continues to Gain Redraft Momentum (2026-09-05T14:58:07Z)
-  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-continues-to-gain-redraft-momentum/1924085
-- **TreVeyon Henderson** — TreVeyon Henderson Remains Sidelined Saturday (2026-09-05T14:44:17Z)
-  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-remains-sidelined-saturday/1924075
-- **Elijah Sarratt** — Elijah Sarratt Comes Out of Camp Behind the Rookie Curve (2026-09-05T14:35:05Z)
-  - Source: https://www.rotoballer.com/player-news/elijah-sarratt-comes-out-of-camp-behind-the-rookie-curve/1924059
