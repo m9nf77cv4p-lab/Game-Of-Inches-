@@ -1,12 +1,14 @@
 {
-  "last_checked_at": "2026-09-07T19:58:00Z",
+  "last_checked_at": "2026-09-07T20:15:54Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|7611|rotoballer|220289|1788795786000",
-    "nfl|8142|rotoballer|220291|1788796232000",
-    "nfl|8142|rotowire|636346|1788810611000",
-    "nfl|9504|rotoballer|220290|1788795605000"
+    "nfl|12474|rotoballer|220292|1788797106000",
+    "nfl|13306|rotowire|636347|1788811468000",
+    "nfl|8154|rotoballer|220293|1788797405000",
+    "nfl|9504|fantasy_pros|606408|1788812143510",
+    "nfl|9511|fantasy_pros|606409|1788812143840",
+    "nfl|9511|rotowire|636348|1788812059000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +18,88 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Mitchell had missed the last six practices. His return on Monday is a good sign for his status heading into Sunday's season opener. ",
+      "description": "Keaton Mitchell was back at Chargers practice on Monday. ",
+      "metadata": {
+        "analysis": "Mitchell had missed the last six practices. His return on Monday is a good sign for his status heading into Sunday's season opener. ",
+        "description": "Keaton Mitchell was back at Chargers practice on Monday. ",
+        "title": "Keaton Mitchell returns to practice Monday ",
+        "topic_id": "1402783439916146688",
+        "url": "https://www.fantasypros.com/nfl/news/606409/keaton-mitchell-returns-to-practice-monday.php"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1788812143840,
+      "source": "fantasy_pros",
+      "source_key": "606409",
+      "story_id": "nfl|9511|fantasy_pros|606409|1788812143840",
+      "title": "Keaton Mitchell returns to practice Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/606409/keaton-mitchell-returns-to-practice-monday.php"
+    },
+    {
+      "analysis": "Boutte was acquired in a trade with the Patriots back on August 24. Ryans said he has been \"picking up the playbook really well.\" He'll be a deep threat on the outside for CJ Stroud. ",
+      "description": "Texans head coach DeMeco Ryans said Kayshon Boutte will play in Week 1 against the Bills. ",
+      "metadata": {
+        "analysis": "Boutte was acquired in a trade with the Patriots back on August 24. Ryans said he has been \"picking up the playbook really well.\" He'll be a deep threat on the outside for CJ Stroud. ",
+        "description": "Texans head coach DeMeco Ryans said Kayshon Boutte will play in Week 1 against the Bills. ",
+        "title": "Kayshon Boutte will play in Week 1",
+        "topic_id": "1402783438532026368",
+        "url": "https://www.fantasypros.com/nfl/news/606408/kayshon-boutte-will-play-week-1.php"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9504",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "published": 1788812143510,
+      "source": "fantasy_pros",
+      "source_key": "606408",
+      "story_id": "nfl|9504|fantasy_pros|606408|1788812143510",
+      "title": "Kayshon Boutte will play in Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606408/kayshon-boutte-will-play-week-1.php"
+    },
+    {
+      "analysis": "After six straight missed practices, Mitchell's return is a positive step for his Week 1 outlook against the Cardinals. When healthy, Mitchell is expected to serve in a sort-of lightning role to Omarion Hampton's thunder out of the backfield. Mitchell may not be immediately usable in fantasy leagues as a starter, but he's one of the higher-upside bench stashes to see what his role is under new OC Mike McDaniel, who personally campaigned for Mitchell's signing in Los Angeles.",
+      "description": "Mitchell (undisclosed) returned to practice Monday, Kris Rhim of ESPN.com reports.",
+      "metadata": {
+        "analysis": "After six straight missed practices, Mitchell's return is a positive step for his Week 1 outlook against the Cardinals. When healthy, Mitchell is expected to serve in a sort-of lightning role to Omarion Hampton's thunder out of the backfield. Mitchell may not be immediately usable in fantasy leagues as a starter, but he's one of the higher-upside bench stashes to see what his role is under new OC Mike McDaniel, who personally campaigned for Mitchell's signing in Los Angeles.",
+        "description": "Mitchell (undisclosed) returned to practice Monday, Kris Rhim of ESPN.com reports.",
+        "title": "Keaton Mitchell - Returns to practice Monday",
+        "topic_id": "1402783434954272768"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1788812059000,
+      "source": "rotowire",
+      "source_key": "636348",
+      "story_id": "nfl|9511|rotowire|636348|1788812059000",
+      "title": "Keaton Mitchell - Returns to practice Monday",
+      "url": null
+    },
+    {
+      "analysis": "It's unclear if Green would be active as the QB2 over Shedeur Sanders or if Cleveland would make three quarterbacks active, but the idea is out there to get Green some plays after he showed off his elite athleticism with 66 yards on eight carries in the preseason finale. Green is big and athletic and set positional records at the combine back in February when he ran a 4.36 forty-yard dash with a 43.5-inch vertical and 11-foot-2 broad jump. There's an outside chance Green sees playing time as a rookie for a Browns team that is likely looking at another rebuild at the quarterback position.",
+      "description": "Coach Todd Monken said Monday that Green could be active and have a package of plays in Sunday's game against the Jaguars, Daniel Oyefusi of ESPN.com reports.",
+      "metadata": {
+        "analysis": "It's unclear if Green would be active as the QB2 over Shedeur Sanders or if Cleveland would make three quarterbacks active, but the idea is out there to get Green some plays after he showed off his elite athleticism with 66 yards on eight carries in the preseason finale. Green is big and athletic and set positional records at the combine back in February when he ran a 4.36 forty-yard dash with a 43.5-inch vertical and 11-foot-2 broad jump. There's an outside chance Green sees playing time as a rookie for a Browns team that is likely looking at another rebuild at the quarterback position.",
+        "description": "Coach Todd Monken said Monday that Green could be active and have a package of plays in Sunday's game against the Jaguars, Daniel Oyefusi of ESPN.com reports.",
+        "title": "Taylen Green - Could be active Week 1",
+        "topic_id": "1402780917075804160"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13306",
+      "player_name": "Taylen Green",
+      "position": "QB",
+      "published": 1788811468000,
+      "source": "rotowire",
+      "source_key": "636347",
+      "story_id": "nfl|13306|rotowire|636347|1788811468000",
+      "title": "Taylen Green - Could be active Week 1",
+      "url": null
+    },
     {
       "analysis": "Pierce returned to a full practice last week and is nearing 100 percent following ankle surgery earlier in the offseason. While Pierce is expected to play against Baltimore, it's unclear if he'll play his normal allotment of snaps, according to Stephen Holder of ESPN.com. Pierce could be on some sort of snap count, and Ashton Dulin would be in line for additional reps on offense. Pierce is shaping up as a boom-or-bust fantasy bet for Week 1.",
       "description": "Coach Shan Steichen said Monday that Pierce (ankle) \"should be good to go\" for Sunday's game against the Ravens, Joel A. Erickson of The Indianapolis Star reports.",
@@ -387,6 +471,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Entering 2026, Atlanta Falcons running back Brian Robinson Jr. appears unlikely to be a consistent fantasy producer as long as star Falcons running back Bijan Robinson stays healthy. Playing a similar role behind Christian McCaffrey for the San Francisco 49ers in 2025, Robinson Jr. recorded 92 carries for 400 yards and two touchdowns across 17 games. However, Robinson Jr. has clear handcuff appeal as the obvious go-to option in Atlanta should Bijan Robinson suffer an injury. He may also see a bit more goal-line work this year, as former Falcons back Tyler Allgeier recorded eight rushing touchdowns in 2025 while playing a supporting role in the Atlanta backfield. In leagues where Robinson Jr. is available on the waiver wire ahead of Week 1, he may be worth stashing in a bench spot as a high-end handcuff running back.",
+      "metadata": {
+        "description": "Entering 2026, Atlanta Falcons running back Brian Robinson Jr. appears unlikely to be a consistent fantasy producer as long as star Falcons running back Bijan Robinson stays healthy. Playing a similar role behind Christian McCaffrey for the San Francisco 49ers in 2025, Robinson Jr. recorded 92 carries for 400 yards and two touchdowns across 17 games. However, Robinson Jr. has clear handcuff appeal as the obvious go-to option in Atlanta should Bijan Robinson suffer an injury. He may also see a bit more goal-line work this year, as former Falcons back Tyler Allgeier recorded eight rushing touchdowns in 2025 while playing a supporting role in the Atlanta backfield. In leagues where Robinson Jr. is available on the waiver wire ahead of Week 1, he may be worth stashing in a bench spot as a high-end handcuff running back.",
+        "title": "Brian Robinson Jr. a Top Stash Candidate Ahead of Week 1",
+        "topic_id": "1402783435424022528",
+        "url": "https://www.rotoballer.com/player-news/brian-robinson-jr-a-top-stash-candidate-ahead-of-week-1/1925387"
+      },
+      "nfl_team": "ATL",
+      "player_id": "8154",
+      "player_name": "Brian Robinson",
+      "position": "RB",
+      "published": 1788797405000,
+      "source": "rotoballer",
+      "source_key": "220293",
+      "story_id": "nfl|8154|rotoballer|220293|1788797405000",
+      "title": "Brian Robinson Jr. a Top Stash Candidate Ahead of Week 1",
+      "url": "https://www.rotoballer.com/player-news/brian-robinson-jr-a-top-stash-candidate-ahead-of-week-1/1925387"
+    },
+    {
       "analysis": "Henderson continues to trend towards likely being sidelined for Wednesday's season opener. Rhamondre Stevenson should open the season in a workhorse role. ",
       "description": "TreVeyon Henderson was not seen practicing on Monday. ",
       "metadata": {
@@ -406,6 +510,26 @@
       "story_id": "nfl|12529|fantasy_pros|606350|1788797141763",
       "title": "TreVeyon Henderson (ankle) not seen practicing Monday ",
       "url": "https://www.fantasypros.com/nfl/news/606350/treveyon-henderson-ankle-not-seen-practicing-monday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans running back Woody Marks appears headed for plenty of work in Year 2. Jonathan Alexander of the Houston Chronicle reported that Houston used Marks and David Montgomery nearly evenly throughout training camp, with the carry split expected to be close even if it doesn't land exactly at 50-50. Marks led the Texans with 703 rushing yards on 196 carries as a rookie, scoring twice on the ground while adding 24 catches for 208 yards and three receiving touchdowns. He also looked sharp in his main preseason appearance, turning five touches into 43 yards with a 20-yard touchdown against Las Vegas. The Texans have talked about expanding Marks' work on third downs and in the passing game as well. Montgomery will have a significant role, but Marks looks like more than a change-of-pace option heading into the season.",
+      "metadata": {
+        "description": "Houston Texans running back Woody Marks appears headed for plenty of work in Year 2. Jonathan Alexander of the Houston Chronicle reported that Houston used Marks and David Montgomery nearly evenly throughout training camp, with the carry split expected to be close even if it doesn't land exactly at 50-50. Marks led the Texans with 703 rushing yards on 196 carries as a rookie, scoring twice on the ground while adding 24 catches for 208 yards and three receiving touchdowns. He also looked sharp in his main preseason appearance, turning five touches into 43 yards with a 20-yard touchdown against Las Vegas. The Texans have talked about expanding Marks' work on third downs and in the passing game as well. Montgomery will have a significant role, but Marks looks like more than a change-of-pace option heading into the season.",
+        "title": "Woody Marks Expected to Share Plenty of Backfield Work",
+        "topic_id": "1402782173035048960",
+        "url": "https://www.rotoballer.com/player-news/woody-marks-expected-to-share-plenty-of-backfield-work/1925381"
+      },
+      "nfl_team": "HOU",
+      "player_id": "12474",
+      "player_name": "Woody Marks",
+      "position": "RB",
+      "published": 1788797106000,
+      "source": "rotoballer",
+      "source_key": "220292",
+      "story_id": "nfl|12474|rotoballer|220292|1788797106000",
+      "title": "Woody Marks Expected to Share Plenty of Backfield Work",
+      "url": "https://www.rotoballer.com/player-news/woody-marks-expected-to-share-plenty-of-backfield-work/1925381"
     },
     {
       "analysis": "Henderson was listed as a non-participant on Sunday's injury report, and it appears likely he will receive the same designation a day later. Henderson has not been ruled out for Wednesday's season opener just yet, but his chances of suiting up are seemingly growing slimmer.",

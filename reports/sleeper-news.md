@@ -2,12 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2106**
-- Newly captured: **4**
+- Stored stories: **2112**
+- Newly captured: **6**
 
 ## Latest news
 
-- **NEW — Alec Pierce** — Alec Pierce - Expected to play Week 1 (2026-09-07T19:50:11Z)
+- **NEW — Keaton Mitchell** — Keaton Mitchell returns to practice Monday  (2026-09-07T20:15:43.840000Z)
+  - Mitchell had missed the last six practices. His return on Monday is a good sign for his status heading into Sunday's season opener. 
+  - Source: https://www.fantasypros.com/nfl/news/606409/keaton-mitchell-returns-to-practice-monday.php
+- **NEW — Kayshon Boutte** — Kayshon Boutte will play in Week 1 (2026-09-07T20:15:43.510000Z)
+  - Boutte was acquired in a trade with the Patriots back on August 24. Ryans said he has been "picking up the playbook really well." He'll be a deep threat on the outside for CJ Stroud. 
+  - Source: https://www.fantasypros.com/nfl/news/606408/kayshon-boutte-will-play-week-1.php
+- **NEW — Keaton Mitchell** — Keaton Mitchell - Returns to practice Monday (2026-09-07T20:14:19Z)
+  - After six straight missed practices, Mitchell's return is a positive step for his Week 1 outlook against the Cardinals. When healthy, Mitchell is expected to serve in a sort-of lightning role to Omarion Hampton's thunder out of the backfield. Mitchell may not be immediately usable in fantasy leagues as a starter, but he's one of the higher-upside bench stashes to see what his role is under new OC Mike McDaniel, who personally campaigned for Mitchell's signing in Los Angeles.
+- **NEW — Taylen Green** — Taylen Green - Could be active Week 1 (2026-09-07T20:04:28Z)
+  - It's unclear if Green would be active as the QB2 over Shedeur Sanders or if Cleveland would make three quarterbacks active, but the idea is out there to get Green some plays after he showed off his elite athleticism with 66 yards on eight carries in the preseason finale. Green is big and athletic and set positional records at the combine back in February when he ran a 4.36 forty-yard dash with a 43.5-inch vertical and 11-foot-2 broad jump. There's an outside chance Green sees playing time as a rookie for a Browns team that is likely looking at another rebuild at the quarterback position.
+- **Alec Pierce** — Alec Pierce - Expected to play Week 1 (2026-09-07T19:50:11Z)
   - Pierce returned to a full practice last week and is nearing 100 percent following ankle surgery earlier in the offseason. While Pierce is expected to play against Baltimore, it's unclear if he'll play his normal allotment of snaps, according to Stephen Holder of ESPN.com. Pierce could be on some sort of snap count, and Ashton Dulin would be in line for additional reps on offense. Pierce is shaping up as a boom-or-bust fantasy bet for Week 1.
 - **Alec Pierce** — Alec Pierce (knee) expected to be ready for Week 1 (2026-09-07T19:45:43.629000Z)
   - Pierce has continues to increase his workload in team practice without any setbacks, setting up the dynamic pass-catcher to take advantage of his role as the No. 1 wideout alongside tight end Tyler Warren for quarterback Daniel Jones against a tough Ravens defensive unit Sunday.
@@ -53,19 +63,23 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606363/jalen-mcmillan-knee-practices-monday.php
 - **Emeka Egbuka** — Emeka Egbuka - Getting work Monday (2026-09-07T16:25:52Z)
   - Egbuka was limited to work on the side last week, and although it's not yet clear how much he will do Monday, it appears he has taken a step forward in his recovery from a toe issue. There has been hope that Egbuka will be available for Week 1, and there remains reason to believe he will be available for Tampa Bay's opener.
+- **NEW — Brian Robinson** — Brian Robinson Jr. a Top Stash Candidate Ahead of Week 1 (2026-09-07T16:10:05Z)
+  - Source: https://www.rotoballer.com/player-news/brian-robinson-jr-a-top-stash-candidate-ahead-of-week-1/1925387
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) not seen practicing Monday  (2026-09-07T16:05:41.763000Z)
   - Henderson continues to trend towards likely being sidelined for Wednesday's season opener. Rhamondre Stevenson should open the season in a workhorse role. 
   - Source: https://www.fantasypros.com/nfl/news/606350/treveyon-henderson-ankle-not-seen-practicing-monday.php
+- **NEW — Woody Marks** — Woody Marks Expected to Share Plenty of Backfield Work (2026-09-07T16:05:06Z)
+  - Source: https://www.rotoballer.com/player-news/woody-marks-expected-to-share-plenty-of-backfield-work/1925381
 - **TreVeyon Henderson** — TreVeyon Henderson - Not spotted at Monday's practice (2026-09-07T16:00:13Z)
   - Henderson was listed as a non-participant on Sunday's injury report, and it appears likely he will receive the same designation a day later. Henderson has not been ruled out for Wednesday's season opener just yet, but his chances of suiting up are seemingly growing slimmer.
-- **NEW — Alec Pierce** — Alec Pierce Should Be Good to Go for Week 1 (2026-09-07T15:50:32Z)
+- **Alec Pierce** — Alec Pierce Should Be Good to Go for Week 1 (2026-09-07T15:50:32Z)
   - Source: https://www.rotoballer.com/player-news/alec-pierce-should-be-good-to-go-for-week-1/1925379
 - **George Kittle** — George Kittle (Achilles) seen practicing Monday  (2026-09-07T15:45:41.629000Z)
   - Kittle was on the field on Monday in Australia. It keeps him on track to be good to go for Thursday's seaaon opener, though it remains unclear if he will be facing any sort of snap count. 
   - Source: https://www.fantasypros.com/nfl/news/606340/george-kittle-achilles-seen-practicing-monday.php
-- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Expected to See Plenty of Work Wednesday (2026-09-07T15:43:06Z)
+- **Rhamondre Stevenson** — Rhamondre Stevenson Expected to See Plenty of Work Wednesday (2026-09-07T15:43:06Z)
   - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-expected-to-see-plenty-of-work-wednesday/1925377
-- **NEW — Kayshon Boutte** — Kayshon Boutte Will be Active in Week 1, Worth a Look on Waiver Wire (2026-09-07T15:40:05Z)
+- **Kayshon Boutte** — Kayshon Boutte Will be Active in Week 1, Worth a Look on Waiver Wire (2026-09-07T15:40:05Z)
   - Source: https://www.rotoballer.com/player-news/kayshon-boutte-will-be-active-in-week-1-worth-a-look-on-waiver-wire/1925375
 - **Jonathon Brooks** — Jonathon Brooks - Works off to side Monday (2026-09-07T15:35:45Z)
   - Kaye notes that Brooks was spotted doing some running, so he wasn't completely limited to rehab work. According to Joe Person of The Athletic, Panthers head coach Dave Canales expressed optimism last week that Brooks would be ready to play in Sunday's season opener versus the Bears, and the running back's lack of involvement in Monday's practice isn't believed to have changed the Panthers' stance. Brooks missed the entire 2025 campaign after tearing the ACL in his right knee for the second time in his career in December 2024, but he was fully cleared in the spring and saw action in two preseason games.
@@ -214,15 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/puka-nacua-expected-to-play-week-1-in-australia/1924787
 - **Shedeur Sanders** — Shedeur Sanders Slides Further in Dynasty Leagues (2026-09-06T16:35:05Z)
   - Source: https://www.rotoballer.com/player-news/shedeur-sanders-slides-further-in-dynasty-leagues/1924760
-- **TreVeyon Henderson** — TreVeyon Henderson Still Sidelined With Week 1 Nearing (2026-09-06T15:40:20Z)
-  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-still-sidelined-with-week-1-nearing/1924712
-- **Baker Mayfield** — Baker Mayfield Building Some Bounce-Back Momentum (2026-09-06T15:13:22Z)
-  - Source: https://www.rotoballer.com/player-news/baker-mayfield-building-some-bounce-back-momentum/1924703
-- **Cooper Kupp** — Cooper Kupp May See Even Further Workload Reduction in 2026 (2026-09-06T14:47:06Z)
-  - Source: https://www.rotoballer.com/player-news/cooper-kupp-may-see-even-further-workload-reduction-in-2026/1924687
-- **Antonio Williams** — Antonio Williams' Path to Immediate Production May Be Blocked (2026-09-06T14:36:05Z)
-  - Source: https://www.rotoballer.com/player-news/antonio-williams-path-to-immediate-production-in-washington-may-be-blocked/1924683
-- **Oronde Gadsden** — Oronde Gadsden's Stock Falling Due to Uncertain Role in Los Angeles (2026-09-06T14:15:09Z)
-  - Source: https://www.rotoballer.com/player-news/oronde-gadsdens-stock-falling-due-to-uncertain-role-in-los-angeles/1924672
-- **Kenyon Sadiq** — Kenyon Sadiq Unlikely to be Immediate Contributor For Jets (2026-09-06T14:10:05Z)
-  - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-unlikely-to-be-immediate-contributor-after-injury-riddled-camp/1924664
