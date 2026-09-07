@@ -1,15 +1,11 @@
 {
-  "last_checked_at": "2026-09-07T18:55:40Z",
+  "last_checked_at": "2026-09-07T19:10:08Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11620|fantasy_pros|606389|1788806742953",
-    "nfl|12534|fantasy_pros|606388|1788806742964",
-    "nfl|12534|rotowire|636344|1788806737000",
-    "nfl|5846|fantasy_pros|606390|1788806742938",
-    "nfl|6790|fantasy_pros|606387|1788806742981",
-    "nfl|6790|rotowire|636343|1788806605000",
-    "nfl|6819|fantasy_pros|606391|1788806742926"
+    "nfl|11620|rotowire|636345|1788806929000",
+    "nfl|12534|rotoballer|220282|1788792545000",
+    "nfl|6790|rotoballer|220283|1788792906000"
   ],
   "schema_version": 1,
   "source": {
@@ -19,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "After Odunze exited Thursday's practice with an apparent right leg injury, the wide receiver is opening the Week 1 practice week with an absence. The Bears will release an official practice report Wednesday, and it will be a situation to monitor heading into the weekend ahead of Sunday's season opener against the Panthers. If Odunze can't go against Carolina, Luther Burden (groin) and Colston Loveland would likely see expanded target shares, while Kalif Raymond and rookie Zavion Thomas would be in line for elevated snaps.",
+      "description": "Odunze (leg) is not practicing Monday, Courtney Cronin of ESPN.com reports.",
+      "metadata": {
+        "analysis": "After Odunze exited Thursday's practice with an apparent right leg injury, the wide receiver is opening the Week 1 practice week with an absence. The Bears will release an official practice report Wednesday, and it will be a situation to monitor heading into the weekend ahead of Sunday's season opener against the Panthers. If Odunze can't go against Carolina, Luther Burden (groin) and Colston Loveland would likely see expanded target shares, while Kalif Raymond and rookie Zavion Thomas would be in line for elevated snaps.",
+        "description": "Odunze (leg) is not practicing Monday, Courtney Cronin of ESPN.com reports.",
+        "title": "Rome Odunze - Not practicing Monday",
+        "topic_id": "1402763299140960256"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1788806929000,
+      "source": "rotowire",
+      "source_key": "636345",
+      "story_id": "nfl|11620|rotowire|636345|1788806929000",
+      "title": "Rome Odunze - Not practicing Monday",
+      "url": null
+    },
     {
       "analysis": "Swift left practice early last week due to what was reported to be a cramp. His presence at practice on Monday is a good sign for his status heading into this week's season opener. ",
       "description": "D'Andre Swift was present at practice on Monday. ",
@@ -471,6 +487,46 @@
       "story_id": "nfl|11559|rotowire|636331|1788793251000",
       "title": "Michael Penix - Will be inactive for opener",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears running back D'Andre Swift (abdomen) was back at practice on Monday, according to The Chicago Tribune's Brad Biggs. The Bears held a brisk, 50-minute practice session, but it was good to see both Swift and Kyle Monangai (knee) back on the field. Swift was pulled from last Thursday's practice early with abdominal cramps, so the 27-year-old should be just fine for the Week 1 regular-season opener this Sunday against the Carolina Panthers. Monangai's status is a bit more uncertain after he suffered a hyperextended knee back on Aug. 16 in training camp. If Monangai is out or limited, Swift could see an even larger piece of the backfield pie to kick things off against Carolina this weekend, making him a must-start low-end RB1/high-end RB2 option as Chicago's starting RB. Swift finished as the RB14 in half-PPR scoring last year, producing 1,087 rushing yards and nine touchdowns on 223 carries while adding 34 receptions for 299 yards and another score through the air in 16 regular-season games. Swift could have an even better year in 2026 if the Bears' offense can take another step forward in head coach Ben Johnson's second season in the Windy City.",
+      "metadata": {
+        "description": "Chicago Bears running back D'Andre Swift (abdomen) was back at practice on Monday, according to The Chicago Tribune's Brad Biggs. The Bears held a brisk, 50-minute practice session, but it was good to see both Swift and Kyle Monangai (knee) back on the field. Swift was pulled from last Thursday's practice early with abdominal cramps, so the 27-year-old should be just fine for the Week 1 regular-season opener this Sunday against the Carolina Panthers. Monangai's status is a bit more uncertain after he suffered a hyperextended knee back on Aug. 16 in training camp. If Monangai is out or limited, Swift could see an even larger piece of the backfield pie to kick things off against Carolina this weekend, making him a must-start low-end RB1/high-end RB2 option as Chicago's starting RB. Swift finished as the RB14 in half-PPR scoring last year, producing 1,087 rushing yards and nine touchdowns on 223 carries while adding 34 receptions for 299 yards and another score through the air in 16 regular-season games. Swift could have an even better year in 2026 if the Bears' offense can take another step forward in head coach Ben Johnson's second season in the Windy City.",
+        "title": "D'Andre Swift Returns to Practice on Monday",
+        "topic_id": "1402764555477630976",
+        "url": "https://www.rotoballer.com/player-news/dandre-swift-returns-to-practice-on-monday/1925336"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1788792906000,
+      "source": "rotoballer",
+      "source_key": "220283",
+      "story_id": "nfl|6790|rotoballer|220283|1788792906000",
+      "title": "D'Andre Swift Returns to Practice on Monday",
+      "url": "https://www.rotoballer.com/player-news/dandre-swift-returns-to-practice-on-monday/1925336"
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears running back Kyle Monangai (knee) was back at Monday's practice, according to Brad Biggs of The Chicago Tribune. It was a brisk, 50-minute practice, but it is notable that Monangai was back on the field. Backfield mate D'Andre Swift said that Monangai \"looked good\" while doing some running before last Wednesday's practice following a hyperextension of his right knee in training camp practice back on Aug. 16. The 24-year-old was being considered week-to-week as early as last week, so although he has returned to practice on Monday, it is not a guarantee that he will be active for Sunday's Week 1 season opener against the Carolina Panthers. But with Swift also returning to practice on Monday, the Bears' backfield is looking much healthier entering the season opener. When fully healthy, Monangai, a seventh-rounder last year, will continue to be the primary change-of-pace option behind Swift after he recorded 783 rushing yards and five touchdowns on 169 carries in 2025 as a rookie. If Monangai is active on Sunday, he should be viewed as an RB4/flex option at risk of being on a snap count. If Monangai is inactive against Carolina, Roschon Johnson is expected to serve as the backup to Swift.",
+      "metadata": {
+        "description": "Chicago Bears running back Kyle Monangai (knee) was back at Monday's practice, according to Brad Biggs of The Chicago Tribune. It was a brisk, 50-minute practice, but it is notable that Monangai was back on the field. Backfield mate D'Andre Swift said that Monangai \"looked good\" while doing some running before last Wednesday's practice following a hyperextension of his right knee in training camp practice back on Aug. 16. The 24-year-old was being considered week-to-week as early as last week, so although he has returned to practice on Monday, it is not a guarantee that he will be active for Sunday's Week 1 season opener against the Carolina Panthers. But with Swift also returning to practice on Monday, the Bears' backfield is looking much healthier entering the season opener. When fully healthy, Monangai, a seventh-rounder last year, will continue to be the primary change-of-pace option behind Swift after he recorded 783 rushing yards and five touchdowns on 169 carries in 2025 as a rookie. If Monangai is active on Sunday, he should be viewed as an RB4/flex option at risk of being on a snap count. If Monangai is inactive against Carolina, Roschon Johnson is expected to serve as the backup to Swift.",
+        "title": "Kyle Monangai Back at Practice on Monday",
+        "topic_id": "1402763296997691392",
+        "url": "https://www.rotoballer.com/player-news/kyle-monangai-back-at-practice-on-monday/1925331"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12534",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "published": 1788792545000,
+      "source": "rotoballer",
+      "source_key": "220282",
+      "story_id": "nfl|12534|rotoballer|220282|1788792545000",
+      "title": "Kyle Monangai Back at Practice on Monday",
+      "url": "https://www.rotoballer.com/player-news/kyle-monangai-back-at-practice-on-monday/1925331"
     },
     {
       "analysis": null,
