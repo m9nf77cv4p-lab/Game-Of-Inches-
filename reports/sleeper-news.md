@@ -2,20 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2112**
-- Newly captured: **6**
+- Stored stories: **2114**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Keaton Mitchell** — Keaton Mitchell returns to practice Monday  (2026-09-07T20:15:43.840000Z)
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Remains out of practice Monday (2026-09-07T20:25:56Z)
+  - Henderson has been DNP all week leading up to Wednesday's season opener in Seattle, and it's looking extremely unlikely that he's going to play Week 1. The Patriots have one more practice report to issue Tuesday, and it's at least notable that Henderson traveled with the team to Seattle, according to Mike Reiss of ESPN.com. If the second-year running back in unable to play, Rhamondre Stevenson would be looking at a potential workhorse role, as Corey Kiner is the only other running back on the active roster. Lan Larison is on the practice squad as a likely elevation.
+- **Keaton Mitchell** — Keaton Mitchell returns to practice Monday  (2026-09-07T20:15:43.840000Z)
   - Mitchell had missed the last six practices. His return on Monday is a good sign for his status heading into Sunday's season opener. 
   - Source: https://www.fantasypros.com/nfl/news/606409/keaton-mitchell-returns-to-practice-monday.php
-- **NEW — Kayshon Boutte** — Kayshon Boutte will play in Week 1 (2026-09-07T20:15:43.510000Z)
+- **Kayshon Boutte** — Kayshon Boutte will play in Week 1 (2026-09-07T20:15:43.510000Z)
   - Boutte was acquired in a trade with the Patriots back on August 24. Ryans said he has been "picking up the playbook really well." He'll be a deep threat on the outside for CJ Stroud. 
   - Source: https://www.fantasypros.com/nfl/news/606408/kayshon-boutte-will-play-week-1.php
-- **NEW — Keaton Mitchell** — Keaton Mitchell - Returns to practice Monday (2026-09-07T20:14:19Z)
+- **Keaton Mitchell** — Keaton Mitchell - Returns to practice Monday (2026-09-07T20:14:19Z)
   - After six straight missed practices, Mitchell's return is a positive step for his Week 1 outlook against the Cardinals. When healthy, Mitchell is expected to serve in a sort-of lightning role to Omarion Hampton's thunder out of the backfield. Mitchell may not be immediately usable in fantasy leagues as a starter, but he's one of the higher-upside bench stashes to see what his role is under new OC Mike McDaniel, who personally campaigned for Mitchell's signing in Los Angeles.
-- **NEW — Taylen Green** — Taylen Green - Could be active Week 1 (2026-09-07T20:04:28Z)
+- **Taylen Green** — Taylen Green - Could be active Week 1 (2026-09-07T20:04:28Z)
   - It's unclear if Green would be active as the QB2 over Shedeur Sanders or if Cleveland would make three quarterbacks active, but the idea is out there to get Green some plays after he showed off his elite athleticism with 66 yards on eight carries in the preseason finale. Green is big and athletic and set positional records at the combine back in February when he ran a 4.36 forty-yard dash with a 43.5-inch vertical and 11-foot-2 broad jump. There's an outside chance Green sees playing time as a rookie for a Browns team that is likely looking at another rebuild at the quarterback position.
 - **Alec Pierce** — Alec Pierce - Expected to play Week 1 (2026-09-07T19:50:11Z)
   - Pierce returned to a full practice last week and is nearing 100 percent following ankle surgery earlier in the offseason. While Pierce is expected to play against Baltimore, it's unclear if he'll play his normal allotment of snaps, according to Stephen Holder of ESPN.com. Pierce could be on some sort of snap count, and Ashton Dulin would be in line for additional reps on offense. Pierce is shaping up as a boom-or-bust fantasy bet for Week 1.
@@ -63,12 +65,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606363/jalen-mcmillan-knee-practices-monday.php
 - **Emeka Egbuka** — Emeka Egbuka - Getting work Monday (2026-09-07T16:25:52Z)
   - Egbuka was limited to work on the side last week, and although it's not yet clear how much he will do Monday, it appears he has taken a step forward in his recovery from a toe issue. There has been hope that Egbuka will be available for Week 1, and there remains reason to believe he will be available for Tampa Bay's opener.
-- **NEW — Brian Robinson** — Brian Robinson Jr. a Top Stash Candidate Ahead of Week 1 (2026-09-07T16:10:05Z)
+- **NEW — Cooper Kupp** — Is Cooper Kupp Still Worth Rostering in Deeper Leagues? (2026-09-07T16:19:05Z)
+  - Source: https://www.rotoballer.com/player-news/is-cooper-kupp-still-worth-rostering-in-deeper-league-formats/1925394
+- **Brian Robinson** — Brian Robinson a Top Stash Candidate Ahead of Week 1 (2026-09-07T16:10:05Z)
   - Source: https://www.rotoballer.com/player-news/brian-robinson-jr-a-top-stash-candidate-ahead-of-week-1/1925387
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) not seen practicing Monday  (2026-09-07T16:05:41.763000Z)
   - Henderson continues to trend towards likely being sidelined for Wednesday's season opener. Rhamondre Stevenson should open the season in a workhorse role. 
   - Source: https://www.fantasypros.com/nfl/news/606350/treveyon-henderson-ankle-not-seen-practicing-monday.php
-- **NEW — Woody Marks** — Woody Marks Expected to Share Plenty of Backfield Work (2026-09-07T16:05:06Z)
+- **Woody Marks** — Woody Marks Expected to Share Plenty of Backfield Work (2026-09-07T16:05:06Z)
   - Source: https://www.rotoballer.com/player-news/woody-marks-expected-to-share-plenty-of-backfield-work/1925381
 - **TreVeyon Henderson** — TreVeyon Henderson - Not spotted at Monday's practice (2026-09-07T16:00:13Z)
   - Henderson was listed as a non-participant on Sunday's injury report, and it appears likely he will receive the same designation a day later. Henderson has not been ruled out for Wednesday's season opener just yet, but his chances of suiting up are seemingly growing slimmer.
@@ -224,7 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/cardinals-expected-to-ease-jeremiyah-love-back-into-the-offense/1924797
 - **TreVeyon Henderson** — TreVeyon Henderson - Looks set to miss Sunday's practice (2026-09-06T18:11:28Z)
   - New England won't issue its first Week 1 injury report until the conclusion of practice, but unless Henderson is able to fit in some on-field work in the portion of Sunday's session that's closed to the media, he'll go down as a non-participant. After Sunday, Henderson will have two more chances to potentially increase his practice activity before the Patriots decide whether he'll take an injury designation into Wednesday's season opener versus the Seahawks. If Henderson isn't available to play Wednesday or is available only in a limited capacity, the Patriots would likely turn to Rhamondre Stevenson to handle a workhorse role out of the backfield.
-- **Puka Nacua** — Puka Nacua Expected to Play Week 1 in Australia (2026-09-06T17:13:06Z)
-  - Source: https://www.rotoballer.com/player-news/puka-nacua-expected-to-play-week-1-in-australia/1924787
-- **Shedeur Sanders** — Shedeur Sanders Slides Further in Dynasty Leagues (2026-09-06T16:35:05Z)
-  - Source: https://www.rotoballer.com/player-news/shedeur-sanders-slides-further-in-dynasty-leagues/1924760
