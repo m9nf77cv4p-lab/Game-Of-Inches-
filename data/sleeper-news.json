@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T19:54:36Z",
+  "last_checked_at": "2026-09-08T20:08:56Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11637|rotowire|636399|1788896833000"
+    "nfl|13287|rotowire|636400|1788897080000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The No. 3 overall pick in the April's draft, Love will eventually settle in as the unquestioned No. 1 option on the depth chart, but the Cardinals could look to ease him into NFL action while he works his way back from the high-ankle sprain he sustained Aug. 13 in the preseason opener against the Raiders. Head coach Mike LaFleur said Monday that he's optimistic Love will be available Sunday, though even if he manages to practice without limitations by the end of the week, the 21-year-old seems likely to share the load with Allgeier. Love should handle a larger portion of the snaps and touches out of the backfield once his ankle injury fades further in the rear-view mirror.",
+      "description": "The Cardinals listed Love (ankle) as the No. 2 running back behind Tyler Allgeier on their unofficial depth chart released prior to Sunday's season opener versus the Chargers, Bo Brack of GoPHNX.com reports.",
+      "metadata": {
+        "analysis": "The No. 3 overall pick in the April's draft, Love will eventually settle in as the unquestioned No. 1 option on the depth chart, but the Cardinals could look to ease him into NFL action while he works his way back from the high-ankle sprain he sustained Aug. 13 in the preseason opener against the Raiders. Head coach Mike LaFleur said Monday that he's optimistic Love will be available Sunday, though even if he manages to practice without limitations by the end of the week, the 21-year-old seems likely to share the load with Allgeier. Love should handle a larger portion of the snaps and touches out of the backfield once his ankle injury fades further in the rear-view mirror.",
+        "description": "The Cardinals listed Love (ankle) as the No. 2 running back behind Tyler Allgeier on their unofficial depth chart released prior to Sunday's season opener versus the Chargers, Bo Brack of GoPHNX.com reports.",
+        "title": "Jeremiyah Love - Listed second on unofficial depth chart",
+        "topic_id": "1403140827923881984"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788897080000,
+      "source": "rotowire",
+      "source_key": "636400",
+      "story_id": "nfl|13287|rotowire|636400|1788897080000",
+      "title": "Jeremiyah Love - Listed second on unofficial depth chart",
+      "url": null
+    },
     {
       "analysis": "While DJ Moore and Khalil Shakir are secure as Buffalo's top two wideouts in some order, Coleman could be prioritized ahead of Joshua Palmer for the No. 3 spot when the season gets underway. After averaging 9.8 yards per target as a rookie in 2024, Coleman dropped all the way down to 6.8 per game during his sophomore season and also drew the ire of the coaching staff for his lack of professionalism, which played a part in him being a healthy inactive on four occasions. Coleman appears to have received a clean slate entering 2026, and after a strong showing during minicamp, he continued to make a positive impression in training camp before spraining his right foot in an Aug. 18 preseason game against the Panthers. The injury doesn't appear to be a long-term concern, and if he can return to full practice at some point this week, Coleman looks like he could handle a notable role in the passing game in the season opener.",
       "description": "Coleman (foot) is listed as one of three starting receivers on the Bills' unofficial depth chart for Sunday's season opener versus the Texans, Joe Buscaglia of The Athletic reports.",

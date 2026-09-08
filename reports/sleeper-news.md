@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2195**
+- Stored stories: **2196**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Keon Coleman** — Keon Coleman - Designated as starter on depth chart (2026-09-08T19:47:13Z)
+- **NEW — Jeremiyah Love** — Jeremiyah Love - Listed second on unofficial depth chart (2026-09-08T19:51:20Z)
+  - The No. 3 overall pick in the April's draft, Love will eventually settle in as the unquestioned No. 1 option on the depth chart, but the Cardinals could look to ease him into NFL action while he works his way back from the high-ankle sprain he sustained Aug. 13 in the preseason opener against the Raiders. Head coach Mike LaFleur said Monday that he's optimistic Love will be available Sunday, though even if he manages to practice without limitations by the end of the week, the 21-year-old seems likely to share the load with Allgeier. Love should handle a larger portion of the snaps and touches out of the backfield once his ankle injury fades further in the rear-view mirror.
+- **Keon Coleman** — Keon Coleman - Designated as starter on depth chart (2026-09-08T19:47:13Z)
   - While DJ Moore and Khalil Shakir are secure as Buffalo's top two wideouts in some order, Coleman could be prioritized ahead of Joshua Palmer for the No. 3 spot when the season gets underway. After averaging 9.8 yards per target as a rookie in 2024, Coleman dropped all the way down to 6.8 per game during his sophomore season and also drew the ire of the coaching staff for his lack of professionalism, which played a part in him being a healthy inactive on four occasions. Coleman appears to have received a clean slate entering 2026, and after a strong showing during minicamp, he continued to make a positive impression in training camp before spraining his right foot in an Aug. 18 preseason game against the Panthers. The injury doesn't appear to be a long-term concern, and if he can return to full practice at some point this week, Coleman looks like he could handle a notable role in the passing game in the season opener.
 - **Chris Bell** — Chris Bell - Gets starter listing on depth chart (2026-09-08T19:33:22Z)
   - Though team-issued depth charts don't always reflect how players will be used once the season gets underway, Bell's listing in a top-three role could be noteworthy. Miami had previously listed Jalen Tolbert along with Malik Washington and Caleb Douglas as Miami's starting receiver trio, but Bell may have shown enough during his lone preseason appearance to leapfrog Tolbert in the pecking order. After opening training camp on the non-football injury list while he recovered from the ACL tear he sustained during his final collegiate season at Louisville, Bell joined the Dolphins for practice Aug. 17 and shined in his lone preseason appearance just under two weeks later, reeling in two of five targets for 22 yards in a 17-12 loss to the Falcons. If Bell does in fact start Week 1, the Dolphins could still look to limit his snaps to some degree while he works to regain full conditioning coming off knee surgery.
@@ -226,5 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606373/tee-higgins-heel-practicing-monday.php
 - **Tee Higgins** — Tee Higgins - Suited up for practice (2026-09-07T17:42:11Z)
   - Coach Zac Taylor relayed last Tuesday that Higgins was tending to a bruised heel, which sidelined the wide receiver since then, so his ability to suit up Monday generally is a step in the right direction. Cincinnati will be posting it's first injury report of the season Wednesday, after which Higgins' activity level will become clearer as the team preps for Sunday's Week 1 matchup with the Buccaneers.
-- **Ja'Marr Chase** — Ja'Marr Chase - Present at practice (2026-09-07T17:38:06Z)
-  - Chase limped off the practice field on Aug. 25 and was diagnosed with a hyperextended left knee. Prior to Monday, he hasn't logged any visible on-field work in the meantime, so his ability to suit up indicates he'll at least be able to get involved in individual drills. The Bengals will be posting their first Week 1 injury report Wednesday, at which point his activity level will became known as the team prepares for Sunday's game against the Bengals.
