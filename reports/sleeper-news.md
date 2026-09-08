@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2145**
-- Newly captured: **0**
+- Stored stories: **2147**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -13,6 +13,10 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - McCaffrey wasn't spotted taking part in the early portion of practice Monday, so his presence on the field in full uniform Tuesday is a promising sign for his potential availability for the 49ers' season opener against the Rams. It's been a bit of a mysterious several weeks for McCaffrey, as he was described as dealing with "tightness" in early August and didn't play at all in the preseason while being an inconsistent participant in team drills. San Francisco's injury reports this week should shed some light on McCaffrey's status for the matchup against Los Angeles, but to this point he seems more likely than not to play in that contest.
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Suited up for practice Monday (2026-09-08T03:49:37Z)
   - The practice session is technically taking placing Tuesday afternoon in Melbourne local time, but regardless, Stribling's participation is a positive sign as he looks to rebound from a minor shoulder injury. It remains to be seen what the rookie wideout's level of practice participation will be, but to this point there hasn't been any indication that he's in any danger of missing the season opener versus the Rams. Stribling appears in line for a big role in San Francisco's offense as one of the team's top three wideouts alongside veterans Mike Evans (adductor) and Deebo Samuel.
+- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling in Full Uniform for Practice (2026-09-08T00:51:42Z)
+  - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-in-full-uniform-for-practice/1925601
+- **NEW — Malik Davis** — Malik Davis a Priority Handcuff on the Waiver Wire (2026-09-08T00:46:09Z)
+  - Source: https://www.rotoballer.com/player-news/malik-davis-a-priority-handcuff-on-the-waiver-wire/1925597
 - **Ollie Gordon** — Ollie Gordon - Ditches non-contact jersey (2026-09-07T23:26:10Z)
   - Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Raiders on Sunday, but he could be held out as a precaution. The second-year pro is set to serve as the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the Dolphins arguably have the luxury of giving Gordon an extra week to recover if necessary.
 - **Ray Davis** — Ray Davis Offers Late-Round Value (2026-09-07T22:55:05Z)
@@ -69,7 +73,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Keaton Mitchell** — Keaton Mitchell - Returns to practice Monday (2026-09-07T20:14:19Z)
   - After six straight missed practices, Mitchell's return is a positive step for his Week 1 outlook against the Cardinals. When healthy, Mitchell is expected to serve in a sort-of lightning role to Omarion Hampton's thunder out of the backfield. Mitchell may not be immediately usable in fantasy leagues as a starter, but he's one of the higher-upside bench stashes to see what his role is under new OC Mike McDaniel, who personally campaigned for Mitchell's signing in Los Angeles.
 - **Taylen Green** — Taylen Green - Could be active Week 1 (2026-09-07T20:04:28Z)
-  - It's unclear if Green would be active as the QB2 over Shedeur Sanders or if Cleveland would make three quarterbacks active, but the idea is out there to get Green some plays after he showed off his elite athleticism with 66 yards on eight carries in the preseason finale. Green is big and athletic and set positional records at the combine back in February when he ran a 4.36 forty-yard dash with a 43.5-inch vertical and 11-foot-2 broad jump. There's an outside chance Green sees playing time as a rookie for a Browns team that is likely looking at another rebuild at the quarterback position.
+  - It's unclear if Green would be active as the QB2 over Shedeur Sanders, or if Cleveland would make three quarterbacks active, but the idea is out there to get Green some plays after he showed off his elite athleticism with 66 yards on eight carries in the preseason finale. Green is big and athletic and set positional records at the combine back in February when he ran a 4.36 40-yard dash with a 43.5-inch vertical and 11-foot-2 broad jump. There's an outside chance Green sees playing time as a rookie for a Browns team that is likely looking at another rebuild at the quarterback position.
 - **Alec Pierce** — Alec Pierce - Expected to play Week 1 (2026-09-07T19:50:11Z)
   - Pierce returned to a full practice last week and is nearing 100 percent following ankle surgery earlier in the offseason. While Pierce is expected to play against Baltimore, it's unclear if he'll play his normal allotment of snaps, according to Stephen Holder of ESPN.com. Pierce could be on some sort of snap count, and Ashton Dulin would be in line for additional reps on offense. Pierce is shaping up as a boom-or-bust fantasy bet for Week 1.
 - **Alec Pierce** — Alec Pierce (knee) expected to be ready for Week 1 (2026-09-07T19:45:43.629000Z)
@@ -225,7 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/keaton-mitchell-worth-a-waiver-claim-with-high-upside/1925092
 - **Juwan Johnson** — Juwan Johnson Has Top-12 Upside in New Orleans This Year (2026-09-07T10:40:52Z)
   - Source: https://www.rotoballer.com/player-news/juwan-johnson-has-top-12-upside-in-new-orleans-this-year/1925080
-- **Tank Bigsby** — Tank Bigsby a Priority Handcuff to Target on Waiver Wire (2026-09-07T10:38:06Z)
-  - Source: https://www.rotoballer.com/player-news/tank-bigsby-a-priority-handcuff-to-target-on-waiver-wire/1925076
-- **Jalen Coker** — Jalen Coker Set for High Receiving Volume in 2026 (2026-09-07T10:22:06Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-coker-set-for-high-receiving-volume-in-2026/1925060

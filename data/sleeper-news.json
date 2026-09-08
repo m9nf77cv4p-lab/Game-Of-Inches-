@@ -1,8 +1,11 @@
 {
-  "last_checked_at": "2026-09-08T04:52:55Z",
+  "last_checked_at": "2026-09-08T05:05:13Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|13417|rotoballer|220322|1788828702000",
+    "nfl|8800|rotoballer|220321|1788828369000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -70,6 +73,46 @@
       "story_id": "nfl|13417|rotowire|636380|1788839377000",
       "title": "De'Zhaun Stribling - Suited up for practice Monday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver De'Zhaun Stribling (shoulder) was seen wearing his full uniform for Tuesday's practice in Australia, according to Nick Wagoner of ESPN.com. It should be noted that this practice is occurring on Tuesday in Australian local time, but the timing lines up with Monday night for folks in the Pacific Time Zone of the United States. Time zone specifics aside, fantasy managers should feel encouraged that the rookie was able to don full pads with the 49ers' season opener less than three days away. Assuming he suits up for Week 1 against the Los Angeles Rams, Stribling projects to handle a decent workload alongside Mike Evans and Deebo Samuel Sr. We wouldn't recommend starting the 23-year-old in fantasy lineups until we see what his role looks like, but he's absolutely worth stashing on the bench in 12+ team leagues and even some deeper 10-team formats, too.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver De'Zhaun Stribling (shoulder) was seen wearing his full uniform for Tuesday's practice in Australia, according to Nick Wagoner of ESPN.com. It should be noted that this practice is occurring on Tuesday in Australian local time, but the timing lines up with Monday night for folks in the Pacific Time Zone of the United States. Time zone specifics aside, fantasy managers should feel encouraged that the rookie was able to don full pads with the 49ers' season opener less than three days away. Assuming he suits up for Week 1 against the Los Angeles Rams, Stribling projects to handle a decent workload alongside Mike Evans and Deebo Samuel Sr. We wouldn't recommend starting the 23-year-old in fantasy lineups until we see what his role looks like, but he's absolutely worth stashing on the bench in 12+ team leagues and even some deeper 10-team formats, too.",
+        "title": "De'Zhaun Stribling in Full Uniform for Practice",
+        "topic_id": "1402915566825558016",
+        "url": "https://www.rotoballer.com/player-news/dezhaun-stribling-in-full-uniform-for-practice/1925601"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1788828702000,
+      "source": "rotoballer",
+      "source_key": "220322",
+      "story_id": "nfl|13417|rotoballer|220322|1788828702000",
+      "title": "De'Zhaun Stribling in Full Uniform for Practice",
+      "url": "https://www.rotoballer.com/player-news/dezhaun-stribling-in-full-uniform-for-practice/1925601"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys running back Malik Davis is the undisputed No. 2 option on the depth chart, making him a priority target on the waiver wire in fantasy football. Specifically, he has appeal as a handcuff for managers in 14+ team leagues, as well as managers who have Javonte Williams in leagues with 10 or 12 teams. Williams is expected to occupy an every-down role this season, which means he's a candidate for some wear and tear. If he were to miss any time due to injury, his managers would want to be ready to plug and play his replacement, which would be Davis. Adding Davis off the waiver wire doesn't give managers a running back with standalone weekly fantasy value, but rather protects those managers in case Williams misses any time this season. We saw what Davis could do in the lead-back role last year, as he totaled 28 carries, 124 rushing yards, and one touchdown across the two games in which Williams played less than 50% of the snaps.",
+      "metadata": {
+        "description": "Dallas Cowboys running back Malik Davis is the undisputed No. 2 option on the depth chart, making him a priority target on the waiver wire in fantasy football. Specifically, he has appeal as a handcuff for managers in 14+ team leagues, as well as managers who have Javonte Williams in leagues with 10 or 12 teams. Williams is expected to occupy an every-down role this season, which means he's a candidate for some wear and tear. If he were to miss any time due to injury, his managers would want to be ready to plug and play his replacement, which would be Davis. Adding Davis off the waiver wire doesn't give managers a running back with standalone weekly fantasy value, but rather protects those managers in case Williams misses any time this season. We saw what Davis could do in the lead-back role last year, as he totaled 28 carries, 124 rushing yards, and one touchdown across the two games in which Williams played less than 50% of the snaps.",
+        "title": "Malik Davis a Priority Handcuff on the Waiver Wire",
+        "topic_id": "1402914308265902080",
+        "url": "https://www.rotoballer.com/player-news/malik-davis-a-priority-handcuff-on-the-waiver-wire/1925597"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8800",
+      "player_name": "Malik Davis",
+      "position": "RB",
+      "published": 1788828369000,
+      "source": "rotoballer",
+      "source_key": "220321",
+      "story_id": "nfl|8800|rotoballer|220321|1788828369000",
+      "title": "Malik Davis a Priority Handcuff on the Waiver Wire",
+      "url": "https://www.rotoballer.com/player-news/malik-davis-a-priority-handcuff-on-the-waiver-wire/1925597"
     },
     {
       "analysis": "Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Raiders on Sunday, but he could be held out as a precaution. The second-year pro is set to serve as the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the Dolphins arguably have the luxury of giving Gordon an extra week to recover if necessary.",
@@ -559,10 +602,10 @@
       "url": null
     },
     {
-      "analysis": "It's unclear if Green would be active as the QB2 over Shedeur Sanders or if Cleveland would make three quarterbacks active, but the idea is out there to get Green some plays after he showed off his elite athleticism with 66 yards on eight carries in the preseason finale. Green is big and athletic and set positional records at the combine back in February when he ran a 4.36 forty-yard dash with a 43.5-inch vertical and 11-foot-2 broad jump. There's an outside chance Green sees playing time as a rookie for a Browns team that is likely looking at another rebuild at the quarterback position.",
+      "analysis": "It's unclear if Green would be active as the QB2 over Shedeur Sanders, or if Cleveland would make three quarterbacks active, but the idea is out there to get Green some plays after he showed off his elite athleticism with 66 yards on eight carries in the preseason finale. Green is big and athletic and set positional records at the combine back in February when he ran a 4.36 40-yard dash with a 43.5-inch vertical and 11-foot-2 broad jump. There's an outside chance Green sees playing time as a rookie for a Browns team that is likely looking at another rebuild at the quarterback position.",
       "description": "Coach Todd Monken said Monday that Green could be active and have a package of plays in Sunday's game against the Jaguars, Daniel Oyefusi of ESPN.com reports.",
       "metadata": {
-        "analysis": "It's unclear if Green would be active as the QB2 over Shedeur Sanders or if Cleveland would make three quarterbacks active, but the idea is out there to get Green some plays after he showed off his elite athleticism with 66 yards on eight carries in the preseason finale. Green is big and athletic and set positional records at the combine back in February when he ran a 4.36 forty-yard dash with a 43.5-inch vertical and 11-foot-2 broad jump. There's an outside chance Green sees playing time as a rookie for a Browns team that is likely looking at another rebuild at the quarterback position.",
+        "analysis": "It's unclear if Green would be active as the QB2 over Shedeur Sanders, or if Cleveland would make three quarterbacks active, but the idea is out there to get Green some plays after he showed off his elite athleticism with 66 yards on eight carries in the preseason finale. Green is big and athletic and set positional records at the combine back in February when he ran a 4.36 40-yard dash with a 43.5-inch vertical and 11-foot-2 broad jump. There's an outside chance Green sees playing time as a rookie for a Browns team that is likely looking at another rebuild at the quarterback position.",
         "description": "Coach Todd Monken said Monday that Green could be active and have a package of plays in Sunday's game against the Jaguars, Daniel Oyefusi of ESPN.com reports.",
         "title": "Taylen Green - Could be active Week 1",
         "topic_id": "1402780917075804160"
