@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T16:51:07Z",
+  "last_checked_at": "2026-09-08T17:01:49Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|10219|rotoballer|220348|1788871330000"
+    "nfl|8228|rotoballer|220349|1788871805000"
   ],
   "schema_version": 1,
   "source": {
@@ -93,6 +93,26 @@
       "story_id": "nfl|13285|rotowire|636385|1788880703000",
       "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers running back Jaylen Warren is listed as the team's RB1 on their unofficial depth chart heading into a Week 1 meeting against the Atlanta Falcons this Sunday, according to Alan Saunders of PGH Steelers Now. Newcomer Rico Dowdle is expected to be the leader on early downs in Pittsburgh's backfield, but Warren is the incumbent at the position. Fantasy managers should take the Steelers' latest depth chart with a grain of salt, as Dowdle should still have a sizeable role in his first year in the Steel City, with a path to a third straight 1,000-rushing season with his third team in the last three years if he can stay healthy. Warren, meanwhile, could be a sneaky low-end RB2/high-end RB3/flex in point-per-reception fantasy leagues as the Steelers' primary receiving back out of the backfield. The 27-year-old former undrafted free agent from Oklahoma State did have a career-high 61 receptions for 370 yards back in 2023 in his second year in the league, and he could be a staple in PPR leagues with quarterback Aaron Rodgers showing a high tendency for dump-offs and checkdowns in this offense. Last year, Warren had 40 receptions on 45 targets for 333 receiving yards and two touchdowns in 16 regular-season games, and that was with Kenny Gainwell catching a whopping 73 passes for 486 yards and three touchdowns as a receiver.",
+      "metadata": {
+        "description": "Pittsburgh Steelers running back Jaylen Warren is listed as the team's RB1 on their unofficial depth chart heading into a Week 1 meeting against the Atlanta Falcons this Sunday, according to Alan Saunders of PGH Steelers Now. Newcomer Rico Dowdle is expected to be the leader on early downs in Pittsburgh's backfield, but Warren is the incumbent at the position. Fantasy managers should take the Steelers' latest depth chart with a grain of salt, as Dowdle should still have a sizeable role in his first year in the Steel City, with a path to a third straight 1,000-rushing season with his third team in the last three years if he can stay healthy. Warren, meanwhile, could be a sneaky low-end RB2/high-end RB3/flex in point-per-reception fantasy leagues as the Steelers' primary receiving back out of the backfield. The 27-year-old former undrafted free agent from Oklahoma State did have a career-high 61 receptions for 370 yards back in 2023 in his second year in the league, and he could be a staple in PPR leagues with quarterback Aaron Rodgers showing a high tendency for dump-offs and checkdowns in this offense. Last year, Warren had 40 receptions on 45 targets for 333 receiving yards and two touchdowns in 16 regular-season games, and that was with Kenny Gainwell catching a whopping 73 passes for 486 yards and three touchdowns as a receiver.",
+        "title": "Jaylen Warren Listed as Starter on Steelers' Depth Chart",
+        "topic_id": "1403096781679566848",
+        "url": "https://www.rotoballer.com/player-news/jaylen-warren-listed-as-starter-on-steelers-depth-chart/1925976"
+      },
+      "nfl_team": "PIT",
+      "player_id": "8228",
+      "player_name": "Jaylen Warren",
+      "position": "RB",
+      "published": 1788871805000,
+      "source": "rotoballer",
+      "source_key": "220349",
+      "story_id": "nfl|8228|rotoballer|220349|1788871805000",
+      "title": "Jaylen Warren Listed as Starter on Steelers' Depth Chart",
+      "url": "https://www.rotoballer.com/player-news/jaylen-warren-listed-as-starter-on-steelers-depth-chart/1925976"
     },
     {
       "analysis": null,
