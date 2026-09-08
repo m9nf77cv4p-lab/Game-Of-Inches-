@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2138**
+- Stored stories: **2139**
 - Newly captured: **1**
 
 ## Latest news
 
 - **Ollie Gordon** — Ollie Gordon - Ditches non-contact jersey (2026-09-07T23:26:10Z)
   - Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Falcons on Sunday, but the team could hold him out. Gordon is set to be the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the team will have no reason to throw him back into the fire when he could rest a week and return to full health.
-- **NEW — Hunter Henry** — Hunter Henry Remains a High-Floor Deep-League Tight End Option (2026-09-07T22:00:05Z)
+- **NEW — Chig Okonkwo** — Chig Okonkwo Could be Headed Towards Breakout Campaign (2026-09-07T22:30:09Z)
+  - Source: https://www.rotoballer.com/player-news/chig-okonkwo-could-be-headed-towards-breakout-campaign/1925561
+- **Hunter Henry** — Hunter Henry Remains a High-Floor Deep-League Tight End Option (2026-09-07T22:00:05Z)
   - Source: https://www.rotoballer.com/player-news/hunter-henry-remains-a-high-floor-deep-league-tight-end-option/1925541
 - **Denzel Boston** — Denzel Boston a Must-Add Wide Receiver Amidst Preseason Buzz (2026-09-07T21:47:59Z)
   - Source: https://www.rotoballer.com/player-news/denzel-boston-a-must-add-wide-receiver-amidst-preseason-buzz/1925536
@@ -227,5 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-to-be-workhorse-if-jeremiyah-love-is-ruled-out/1925014
 - **Mike Washington** — Mike Washington Jr. Has Impressed Ahead of Week 1 (2026-09-07T09:25:13Z)
   - Source: https://www.rotoballer.com/player-news/mike-washington-jr-has-impressed-ahead-of-week-1/1925004
-- **Chris Rodriguez** — Chris Rodriguez Jr. Could See Increased Role in Week 1 (2026-09-07T09:15:06Z)
-  - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-could-see-increased-role-in-week-1/1924996

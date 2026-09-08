@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T02:24:16Z",
+  "last_checked_at": "2026-09-08T02:40:03Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|3214|rotoballer|220314|1788818405000"
+    "nfl|8210|rotoballer|220316|1788820209000"
   ],
   "schema_version": 1,
   "source": {
@@ -32,6 +32,26 @@
       "story_id": "nfl|12495|rotowire|636359|1788823570000",
       "title": "Ollie Gordon - Ditches non-contact jersey",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders tight end Chig Okonkwo is likely an afterthought for most fantasy managers, but he deserves a serious look this upcoming season. The Commanders signed Okonkwo to a three-year deal this past offseason. The assumption is that they gave him a long-term deal with the intention of him operating as the top pass-catching tight end. The 27-year-old was recently listed as the starter on the unofficial depth chart. Okonkwo has posted three straight seasons with 50 receptions or more. He'll now be in a better offense led by quarterback Jayden Daniels. If everything goes right, Okonkwo has legitimate top-12 upside with his new organization.",
+      "metadata": {
+        "description": "Washington Commanders tight end Chig Okonkwo is likely an afterthought for most fantasy managers, but he deserves a serious look this upcoming season. The Commanders signed Okonkwo to a three-year deal this past offseason. The assumption is that they gave him a long-term deal with the intention of him operating as the top pass-catching tight end. The 27-year-old was recently listed as the starter on the unofficial depth chart. Okonkwo has posted three straight seasons with 50 receptions or more. He'll now be in a better offense led by quarterback Jayden Daniels. If everything goes right, Okonkwo has legitimate top-12 upside with his new organization.",
+        "title": "Chig Okonkwo Could be Headed Towards Breakout Campaign",
+        "topic_id": "1402879072652001280",
+        "url": "https://www.rotoballer.com/player-news/chig-okonkwo-could-be-headed-towards-breakout-campaign/1925561"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8210",
+      "player_name": "Chig Okonkwo",
+      "position": "TE",
+      "published": 1788820209000,
+      "source": "rotoballer",
+      "source_key": "220316",
+      "story_id": "nfl|8210|rotoballer|220316|1788820209000",
+      "title": "Chig Okonkwo Could be Headed Towards Breakout Campaign",
+      "url": "https://www.rotoballer.com/player-news/chig-okonkwo-could-be-headed-towards-breakout-campaign/1925561"
     },
     {
       "analysis": null,
