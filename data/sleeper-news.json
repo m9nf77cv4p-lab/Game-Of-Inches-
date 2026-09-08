@@ -1,12 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T19:44:17Z",
+  "last_checked_at": "2026-09-08T19:54:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11571|rotoballer|220365|1788881345000",
-    "nfl|13311|rotowire|636398|1788896002000",
-    "nfl|7600|rotoballer|220364|1788880866000",
-    "nfl|8132|rotoballer|220363|1788880445000"
+    "nfl|11637|rotowire|636399|1788896833000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "While DJ Moore and Khalil Shakir are secure as Buffalo's top two wideouts in some order, Coleman could be prioritized ahead of Joshua Palmer for the No. 3 spot when the season gets underway. After averaging 9.8 yards per target as a rookie in 2024, Coleman dropped all the way down to 6.8 per game during his sophomore season and also drew the ire of the coaching staff for his lack of professionalism, which played a part in him being a healthy inactive on four occasions. Coleman appears to have received a clean slate entering 2026, and after a strong showing during minicamp, he continued to make a positive impression in training camp before spraining his right foot in an Aug. 18 preseason game against the Panthers. The injury doesn't appear to be a long-term concern, and if he can return to full practice at some point this week, Coleman looks like he could handle a notable role in the passing game in the season opener.",
+      "description": "Coleman (foot) is listed as one of three starting receivers on the Bills' unofficial depth chart for Sunday's season opener versus the Texans, Joe Buscaglia of The Athletic reports.",
+      "metadata": {
+        "analysis": "While DJ Moore and Khalil Shakir are secure as Buffalo's top two wideouts in some order, Coleman could be prioritized ahead of Joshua Palmer for the No. 3 spot when the season gets underway. After averaging 9.8 yards per target as a rookie in 2024, Coleman dropped all the way down to 6.8 per game during his sophomore season and also drew the ire of the coaching staff for his lack of professionalism, which played a part in him being a healthy inactive on four occasions. Coleman appears to have received a clean slate entering 2026, and after a strong showing during minicamp, he continued to make a positive impression in training camp before spraining his right foot in an Aug. 18 preseason game against the Panthers. The injury doesn't appear to be a long-term concern, and if he can return to full practice at some point this week, Coleman looks like he could handle a notable role in the passing game in the season opener.",
+        "description": "Coleman (foot) is listed as one of three starting receivers on the Bills' unofficial depth chart for Sunday's season opener versus the Texans, Joe Buscaglia of The Athletic reports.",
+        "title": "Keon Coleman - Designated as starter on depth chart",
+        "topic_id": "1403139570396090368"
+      },
+      "nfl_team": "BUF",
+      "player_id": "11637",
+      "player_name": "Keon Coleman",
+      "position": "WR",
+      "published": 1788896833000,
+      "source": "rotowire",
+      "source_key": "636399",
+      "story_id": "nfl|11637|rotowire|636399|1788896833000",
+      "title": "Keon Coleman - Designated as starter on depth chart",
+      "url": null
+    },
     {
       "analysis": "Though team-issued depth charts don't always reflect how players will be used once the season gets underway, Bell's listing in a top-three role could be noteworthy. Miami had previously listed Jalen Tolbert along with Malik Washington and Caleb Douglas as Miami's starting receiver trio, but Bell may have shown enough during his lone preseason appearance to leapfrog Tolbert in the pecking order. After opening training camp on the non-football injury list while he recovered from the ACL tear he sustained during his final collegiate season at Louisville, Bell joined the Dolphins for practice Aug. 17 and shined in his lone preseason appearance just under two weeks later, reeling in two of five targets for 22 yards in a 17-12 loss to the Falcons. If Bell does in fact start Week 1, the Dolphins could still look to limit his snaps to some degree while he works to regain full conditioning coming off knee surgery.",
       "description": "The Dolphins list Bell as one of three starting wide receivers on their unofficial depth chart released in advance of Sunday's season opener versus the Raiders, Joe Schad of The Palm Beach Post reports.",

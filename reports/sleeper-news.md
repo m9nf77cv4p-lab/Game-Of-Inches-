@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2194**
-- Newly captured: **4**
+- Stored stories: **2195**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Chris Bell** — Chris Bell - Gets starter listing on depth chart (2026-09-08T19:33:22Z)
+- **NEW — Keon Coleman** — Keon Coleman - Designated as starter on depth chart (2026-09-08T19:47:13Z)
+  - While DJ Moore and Khalil Shakir are secure as Buffalo's top two wideouts in some order, Coleman could be prioritized ahead of Joshua Palmer for the No. 3 spot when the season gets underway. After averaging 9.8 yards per target as a rookie in 2024, Coleman dropped all the way down to 6.8 per game during his sophomore season and also drew the ire of the coaching staff for his lack of professionalism, which played a part in him being a healthy inactive on four occasions. Coleman appears to have received a clean slate entering 2026, and after a strong showing during minicamp, he continued to make a positive impression in training camp before spraining his right foot in an Aug. 18 preseason game against the Panthers. The injury doesn't appear to be a long-term concern, and if he can return to full practice at some point this week, Coleman looks like he could handle a notable role in the passing game in the season opener.
+- **Chris Bell** — Chris Bell - Gets starter listing on depth chart (2026-09-08T19:33:22Z)
   - Though team-issued depth charts don't always reflect how players will be used once the season gets underway, Bell's listing in a top-three role could be noteworthy. Miami had previously listed Jalen Tolbert along with Malik Washington and Caleb Douglas as Miami's starting receiver trio, but Bell may have shown enough during his lone preseason appearance to leapfrog Tolbert in the pecking order. After opening training camp on the non-football injury list while he recovered from the ACL tear he sustained during his final collegiate season at Louisville, Bell joined the Dolphins for practice Aug. 17 and shined in his lone preseason appearance just under two weeks later, reeling in two of five targets for 22 yards in a 17-12 loss to the Falcons. If Bell does in fact start Week 1, the Dolphins could still look to limit his snaps to some degree while he works to regain full conditioning coming off knee surgery.
 - **Tyler Allgeier** — Tyler Allgeier listed as starter on Cardinals depth chart (2026-09-08T19:05:52.756000Z)
   - Allgeier was listed as the starter ahead of rookie Jeremiyah Love after a training camp battle. Love has also been making his way back from an ankle sprain, which could be why Allgeier sees more carries in the early part of the season. If he does indeed get the start on Sunday, Allgeier could be an RB3 or deeper flex option in fantasy.
@@ -45,13 +47,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Hall sustained a minor right groin strain during an Aug. 17 practice, and though he didn't return to full team drills before the end of the preseason, the running back looks like he's on track to be available for the start of the regular season. The Jets will publish their first injury report of 2026 following practice Wednesday, when it will be known whether Hall is a full or limited participant. Assuming Hall progresses to full practice workload by the end of the week, he should be ready to handle a three-down workload out of the New York backfield Sunday.
 - **Makai Lemon** — Makai Lemon - Listed as starting receiver, punt returner (2026-09-08T15:54:17Z)
   - Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.
-- **NEW — Isaiah Davis** — Isaiah Davis Takes Part in RB Drills on Tuesday (2026-09-08T15:29:05Z)
+- **Isaiah Davis** — Isaiah Davis Takes Part in RB Drills on Tuesday (2026-09-08T15:29:05Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-davis-takes-part-in-rb-drills-on-tuesday/1926091
-- **NEW — Pat Freiermuth** — Pat Freiermuth Not Worth Chasing Before Week 1 (2026-09-08T15:21:06Z)
+- **Pat Freiermuth** — Pat Freiermuth Not Worth Chasing Before Week 1 (2026-09-08T15:21:06Z)
   - Source: https://www.rotoballer.com/player-news/pat-freiermuth-not-worth-chasing-before-week-1/1926084
 - **Malachi Fields** — Malachi Fields - Looks set to begin season as No. 2 wideout (2026-09-08T15:18:23Z)
   - The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.
-- **NEW — Tyler Allgeier** — Tyler Allgeier Gets a Boost From Cardinals Depth Chart (2026-09-08T15:14:05Z)
+- **Tyler Allgeier** — Tyler Allgeier Gets a Boost From Cardinals Depth Chart (2026-09-08T15:14:05Z)
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-gets-a-boost-from-cardinals-depth-chart/1926079
 - **Jeremiyah Love** — Jeremiyah Love Listed as RB2 on Cardinals' Depth Chart (2026-09-08T15:02:06Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-listed-as-rb2-on-cardinals-depth-chart/1926066
@@ -226,5 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Coach Zac Taylor relayed last Tuesday that Higgins was tending to a bruised heel, which sidelined the wide receiver since then, so his ability to suit up Monday generally is a step in the right direction. Cincinnati will be posting it's first injury report of the season Wednesday, after which Higgins' activity level will become clearer as the team preps for Sunday's Week 1 matchup with the Buccaneers.
 - **Ja'Marr Chase** — Ja'Marr Chase - Present at practice (2026-09-07T17:38:06Z)
   - Chase limped off the practice field on Aug. 25 and was diagnosed with a hyperextended left knee. Prior to Monday, he hasn't logged any visible on-field work in the meantime, so his ability to suit up indicates he'll at least be able to get involved in individual drills. The Bengals will be posting their first Week 1 injury report Wednesday, at which point his activity level will became known as the team prepares for Sunday's game against the Bengals.
-- **Zach Charbonnet** — Zach Charbonnet Worth Stashing Off the Waiver Wire Ahead of Week 1? (2026-09-07T16:59:05Z)
-  - Source: https://www.rotoballer.com/player-news/zach-charbonnet-looks-awesome-in-rehab-efforts-worth-stashing-off-the-waiver-wire-ahead-of-week-1/1925424
