@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-08T19:02:00Z",
+  "last_checked_at": "2026-09-08T19:18:49Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11571|rotowire|636397|1788893685000",
-    "nfl|13287|fantasy_pros|606576|1788893752610"
+    "nfl|13287|rotoballer|220362|1788879726000",
+    "nfl|8132|fantasy_pros|606577|1788894352756"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Allgeier was listed as the starter ahead of rookie Jeremiyah Love after a training camp battle. Love has also been making his way back from an ankle sprain, which could be why Allgeier sees more carries in the early part of the season. If he does indeed get the start on Sunday, Allgeier could be an RB3 or deeper flex option in fantasy.",
+      "description": "Tyler Allgeier was listed as the starting running back on the Cardinals' Week 1 depth chart.",
+      "metadata": {
+        "analysis": "Allgeier was listed as the starter ahead of rookie Jeremiyah Love after a training camp battle. Love has also been making his way back from an ankle sprain, which could be why Allgeier sees more carries in the early part of the season. If he does indeed get the start on Sunday, Allgeier could be an RB3 or deeper flex option in fantasy.",
+        "description": "Tyler Allgeier was listed as the starting running back on the Cardinals' Week 1 depth chart.",
+        "title": "Tyler Allgeier listed as starter on Cardinals depth chart",
+        "topic_id": "1403128249101369344",
+        "url": "https://www.fantasypros.com/nfl/news/606577/tyler-allgeier-listed-starter-on-cardinals-depth-chart.php"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8132",
+      "player_name": "Tyler Allgeier",
+      "position": "RB",
+      "published": 1788894352756,
+      "source": "fantasy_pros",
+      "source_key": "606577",
+      "story_id": "nfl|8132|fantasy_pros|606577|1788894352756",
+      "title": "Tyler Allgeier listed as starter on Cardinals depth chart",
+      "url": "https://www.fantasypros.com/nfl/news/606577/tyler-allgeier-listed-starter-on-cardinals-depth-chart.php"
+    },
     {
       "analysis": "Love has been dealing with an ankle sprain leading up to Sunday as well, but he has been trending in the right direction to suit up. The rookie will likely be slowly worked into the offense, which could be the reason for him sitting behind Allgeier on the depth chart.",
       "description": "Jeremiyah Love was listed as the RB2 behind Tyler Allgeier on the Cardinals' Week 1 depth chart.",
@@ -318,6 +339,26 @@
       "story_id": "nfl|13285|rotowire|636385|1788880703000",
       "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Arizona Cardinals have listed rookie first-round running back Jeremiyah Love (ankle) as the RB2 on their unofficial depth chart entering their Week 1 contest on Sunday against the Los Angeles Chargers, according to Bo Brack of PHNX Sports. The No. 3 overall pick in April from Notre Dame has clear three-down potential long-term in the NFL, but after suffering an ankle sprain early in the preseason, the Cardinals are going to ease Love into the regular season as the No. 2 behind Tyler Allgeier, who is in his first year in the desert. Trey Benson (knee) has already been ruled out for the season, and veteran James Conner (foot) will miss at least the first four games of the year due to a foot injury he suffered early in 2025. Love is trending in the right direction to be active this weekend against the Bolts, but he seems likely to cede most of the backfield work to Allgeier in his NFL debut if he is active, making him more of a low-end RB2/high-end RB3/flex choice for starting lineups on Sunday. Fantasy managers might have to be patient with Love early in his rookie season.",
+      "metadata": {
+        "description": "The Arizona Cardinals have listed rookie first-round running back Jeremiyah Love (ankle) as the RB2 on their unofficial depth chart entering their Week 1 contest on Sunday against the Los Angeles Chargers, according to Bo Brack of PHNX Sports. The No. 3 overall pick in April from Notre Dame has clear three-down potential long-term in the NFL, but after suffering an ankle sprain early in the preseason, the Cardinals are going to ease Love into the regular season as the No. 2 behind Tyler Allgeier, who is in his first year in the desert. Trey Benson (knee) has already been ruled out for the season, and veteran James Conner (foot) will miss at least the first four games of the year due to a foot injury he suffered early in 2025. Love is trending in the right direction to be active this weekend against the Bolts, but he seems likely to cede most of the backfield work to Allgeier in his NFL debut if he is active, making him more of a low-end RB2/high-end RB3/flex choice for starting lineups on Sunday. Fantasy managers might have to be patient with Love early in his rookie season.",
+        "title": "Jeremiyah Love Listed as RB2 on Cardinals' Depth Chart",
+        "topic_id": "1403129500853641216",
+        "url": "https://www.rotoballer.com/player-news/jeremiyah-love-listed-as-rb2-on-cardinals-depth-chart/1926066"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788879726000,
+      "source": "rotoballer",
+      "source_key": "220362",
+      "story_id": "nfl|13287|rotoballer|220362|1788879726000",
+      "title": "Jeremiyah Love Listed as RB2 on Cardinals' Depth Chart",
+      "url": "https://www.rotoballer.com/player-news/jeremiyah-love-listed-as-rb2-on-cardinals-depth-chart/1926066"
     },
     {
       "analysis": null,
