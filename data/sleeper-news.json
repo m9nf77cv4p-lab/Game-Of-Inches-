@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-08T21:04:01Z",
+  "last_checked_at": "2026-09-08T21:19:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12497|rotowire|636405|1788900890000",
-    "nfl|4035|rotoballer|220375|1788885845000"
+    "nfl|12529|fantasy_pros|606601|1788901553555",
+    "nfl|12529|rotoballer|220376|1788887226000",
+    "nfl|12529|rotowire|636406|1788901515000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Henderson will miss the season opener after being unable to practice to begin the week for head coach Mike Vrabel. Rhamondre Stevenson will see as many touches as he can handle against a strong Seattle front seven Wednesday night.",
+      "description": "TreVeyon Henderson (ankle) has been ruled out for Week 1 for the New England Patriots against the Seattle Seahawks according to Ari Meirov.",
+      "metadata": {
+        "analysis": "Henderson will miss the season opener after being unable to practice to begin the week for head coach Mike Vrabel. Rhamondre Stevenson will see as many touches as he can handle against a strong Seattle front seven Wednesday night.",
+        "description": "TreVeyon Henderson (ankle) has been ruled out for Week 1 for the New England Patriots against the Seattle Seahawks according to Ari Meirov.",
+        "title": "TreVeyon Henderson (ankle) ruled out for Week 1",
+        "topic_id": "1403158451445583872",
+        "url": "https://www.fantasypros.com/nfl/news/606601/treveyon-henderson-ankle-ruled-out-week-1.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788901553555,
+      "source": "fantasy_pros",
+      "source_key": "606601",
+      "story_id": "nfl|12529|fantasy_pros|606601|1788901553555",
+      "title": "TreVeyon Henderson (ankle) ruled out for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606601/treveyon-henderson-ankle-ruled-out-week-1.php"
+    },
+    {
+      "analysis": "Henderson's absence for Week 1 hardly comes as a surprise after his ankle injury kept him from practicing in any fashion from Sunday through Tuesday. With Henderson sidelined for the opener, Rhamondre Stevenson will have a clear path to earning the bulk of snaps and touches out of the backfield. Corey Kiner will serve as the Stevenson's top understudy, and the Patriots will likely elevate one or both of Lan Larison and Hassan Haskins from the practice squad to add depth at the position.",
+      "description": "The Patriots ruled out Henderson for Wednesday's season opener versus the Seahawks, Evan Lazar of the Patriots' official site reports.",
+      "metadata": {
+        "analysis": "Henderson's absence for Week 1 hardly comes as a surprise after his ankle injury kept him from practicing in any fashion from Sunday through Tuesday. With Henderson sidelined for the opener, Rhamondre Stevenson will have a clear path to earning the bulk of snaps and touches out of the backfield. Corey Kiner will serve as the Stevenson's top understudy, and the Patriots will likely elevate one or both of Lan Larison and Hassan Haskins from the practice squad to add depth at the position.",
+        "description": "The Patriots ruled out Henderson for Wednesday's season opener versus the Seahawks, Evan Lazar of the Patriots' official site reports.",
+        "title": "TreVeyon Henderson - Sitting out season opener",
+        "topic_id": "1403159573145124864"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788901515000,
+      "source": "rotowire",
+      "source_key": "636406",
+      "story_id": "nfl|12529|rotowire|636406|1788901515000",
+      "title": "TreVeyon Henderson - Sitting out season opener",
+      "url": null
+    },
     {
       "analysis": "Horton missed the final nine games of the regular season as well as the entirety of the Seahawks' playoff run due to a shin fracture as well as a groin issue, then required offseason surgery to address the injuries. Though he was deemed ready to go for the start of training camp, Horton ended up succumbing to a hamstring injury around the middle of August. Though his hamstring isn't viewed as a long-term concern, Horton had his practice participation managed this week and may not get clearance to suit up Wednesday. If he's able to avoid the inactive list, Horton will likely be in line for a small role as the Seahawks' No. 4 wide receiver behind Jaxon Smith-Njigba, Rashid Shaheed and Cooper Kupp.",
       "description": "The Seahawks list Horton (hamstring) as questionable for Wednesday's season opener versus the Patriots, John Boyle of the team's official site reports.",
@@ -358,6 +400,26 @@
       "story_id": "nfl|9997|rotowire|636389|1788887572000",
       "title": "Zay Flowers - Looks to be practicing fully Tuesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots second-year running back TreVeyon Henderson (ankle) has officially been ruled out for the Week 1 season opener on Thursday and a rematch of last year's Super Bowl against the Seattle Seahawks after he did not practice all week, according to the team. Henderson's ankle injury is not considered long-term, but it remains to be seen if he will be ready for his 2026 season debut in Week 2 next Sunday, Sept. 20, versus the Pittsburgh Steelers in the team's home opener. With Henderson sidelined this Thursday in a tough matchup against a strong Seahawks defense, Rhamondre Stevenson should see the lion's share of touches out of the backfield while being spelled by Corey Kiner. With New England's backfield a little thin out of the gate, expect to see the Patriots bring up Lan Larison from the practice squad to serve as the RB3 against Seattle. The 23-year-old Henderson had a solid rookie season in 2025 with over 900 rushing yards and 10 total touchdowns in the regular season, but he remains in a timeshare with Stevenson when he is healthy, and his early-season fantasy stock is down because of his ankle injury.",
+      "metadata": {
+        "description": "New England Patriots second-year running back TreVeyon Henderson (ankle) has officially been ruled out for the Week 1 season opener on Thursday and a rematch of last year's Super Bowl against the Seattle Seahawks after he did not practice all week, according to the team. Henderson's ankle injury is not considered long-term, but it remains to be seen if he will be ready for his 2026 season debut in Week 2 next Sunday, Sept. 20, versus the Pittsburgh Steelers in the team's home opener. With Henderson sidelined this Thursday in a tough matchup against a strong Seahawks defense, Rhamondre Stevenson should see the lion's share of touches out of the backfield while being spelled by Corey Kiner. With New England's backfield a little thin out of the gate, expect to see the Patriots bring up Lan Larison from the practice squad to serve as the RB3 against Seattle. The 23-year-old Henderson had a solid rookie season in 2025 with over 900 rushing yards and 10 total touchdowns in the regular season, but he remains in a timeshare with Stevenson when he is healthy, and his early-season fantasy stock is down because of his ankle injury.",
+        "title": "TreVeyon Henderson Ruled Out for Season Opener on Thursday",
+        "topic_id": "1403160828701638656",
+        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-ruled-out-for-season-opener-on-thursday/1926176"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1788887226000,
+      "source": "rotoballer",
+      "source_key": "220376",
+      "story_id": "nfl|12529|rotoballer|220376|1788887226000",
+      "title": "TreVeyon Henderson Ruled Out for Season Opener on Thursday",
+      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-ruled-out-for-season-opener-on-thursday/1926176"
     },
     {
       "analysis": null,

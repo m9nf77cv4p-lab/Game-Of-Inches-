@@ -2,12 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2203**
-- Newly captured: **2**
+- Stored stories: **2206**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Tory Horton** — Tory Horton - Taking questionable tag into Week 1 (2026-09-08T20:54:50Z)
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson (ankle) ruled out for Week 1 (2026-09-08T21:05:53.555000Z)
+  - Henderson will miss the season opener after being unable to practice to begin the week for head coach Mike Vrabel. Rhamondre Stevenson will see as many touches as he can handle against a strong Seattle front seven Wednesday night.
+  - Source: https://www.fantasypros.com/nfl/news/606601/treveyon-henderson-ankle-ruled-out-week-1.php
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Sitting out season opener (2026-09-08T21:05:15Z)
+  - Henderson's absence for Week 1 hardly comes as a surprise after his ankle injury kept him from practicing in any fashion from Sunday through Tuesday. With Henderson sidelined for the opener, Rhamondre Stevenson will have a clear path to earning the bulk of snaps and touches out of the backfield. Corey Kiner will serve as the Stevenson's top understudy, and the Patriots will likely elevate one or both of Lan Larison and Hassan Haskins from the practice squad to add depth at the position.
+- **Tory Horton** — Tory Horton - Taking questionable tag into Week 1 (2026-09-08T20:54:50Z)
   - Horton missed the final nine games of the regular season as well as the entirety of the Seahawks' playoff run due to a shin fracture as well as a groin issue, then required offseason surgery to address the injuries. Though he was deemed ready to go for the start of training camp, Horton ended up succumbing to a hamstring injury around the middle of August. Though his hamstring isn't viewed as a long-term concern, Horton had his practice participation managed this week and may not get clearance to suit up Wednesday. If he's able to avoid the inactive list, Horton will likely be in line for a small role as the Seahawks' No. 4 wide receiver behind Jaxon Smith-Njigba, Rashid Shaheed and Cooper Kupp.
 - **Tyler Allgeier** — Tyler Allgeier - No. 1 back on unofficial depth chart (2026-09-08T20:08:23Z)
   - Head coach Mike LaFleur expressed optimism Tuesday that Jeremiyah Love would be ready to play Sunday after suffering a high-ankle sprain in the Cardinals' preseason opener, but the No. 3 overall pick in April's draft isn't expected to handle a workhorse role right away coming off the injury. While Love should emerge as the clear No. 1 option once he's further removed from the injury, Allgeier appears well-positioned to have a meaningful role in the Week 1 game plan, regardless of whether he ends up starting or not.
@@ -46,7 +51,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Mahomes didn't play in any of the Chiefs' preseason games, but he was cleared for 11-on-11 work early in camp and steered clear of any setbacks in his recovery from Dec. 15 surgery to repair a torn ACL and LCL in his left knee. The Chiefs will release their first injury report of 2026 on Thursday, and assuming Mahomes is listed as a full participant, it would confirm that he's on track to start against Denver. Mahomes will likely be playing without one of his top protectors, however, as Reid said that starting left tackle Josh Simmons (back) has a "good chance" of sitting out Week 1, per Matt McMullen of the Chiefs' official site.
 - **Zay Flowers** — Zay Flowers - Looks to be practicing fully Tuesday (2026-09-08T17:12:52Z)
   - Baltimore won't release its first Week 1 injury report until Wednesday, but assuming Flowers doesn't appear on the report or is listed as a full practice participant, he'll be in the clear to suit up Sunday in Indianapolis. Rewarded with a four-year, $140 million extension earlier this summer, Flowers remains on track to serve as the Ravens' clear No. 1 pass catcher heading into his fourth NFL campaign.
-- **NEW — Alvin Kamara** — Travis Etienne Jr. Listed as Co-Starter With Alvin Kamara (2026-09-08T16:44:05Z)
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson Ruled Out for Season Opener on Thursday (2026-09-08T17:07:06Z)
+  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-ruled-out-for-season-opener-on-thursday/1926176
+- **Alvin Kamara** — Travis Etienne Jr. Listed as Co-Starter With Alvin Kamara (2026-09-08T16:44:05Z)
   - Source: https://www.rotoballer.com/player-news/travis-etienne-jr-listed-as-co-starter-with-alvin-kamara/1926163
 - **Kenny Gainwell** — Kenny Gainwell Could Feature Prominently in Red-Zone, Goal-Line Situations (2026-09-08T16:36:43Z)
   - Source: https://www.rotoballer.com/player-news/kenny-gainwell-could-feature-prominently-in-red-zone-goal-line-situations/1926155
@@ -219,10 +226,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **DK Metcalf** — DK Metcalf practices Monday  (2026-09-07T18:45:42.938000Z)
   - Metcalf missed time during training camp with an undisclosed injury. He remains on track to be good to go for Sunday's season opener against the Falcons. 
   - Source: https://www.fantasypros.com/nfl/news/606390/dk-metcalf-practices-monday.php
-- **Michael Pittman** — Michael Pittman Jr. (hamstring) practices Monday  (2026-09-07T18:45:42.926000Z)
-  - Pittman missed time during training camp with a hamstring injury. He remains on track to be good to go for Sunday's season opener against the Falcons. 
-  - Source: https://www.fantasypros.com/nfl/news/606391/michael-pittman-jr-hamstring-practices-monday.php
-- **Kyle Monangai** — Kyle Monangai - Back at practice Monday (2026-09-07T18:45:37Z)
-  - It marked Monangai's first practice action since he hyperextended his knee Aug. 16. It's unclear if Monangai will be able to play in Sunday's regular-season opener against the Panthers, but he's obviously nearing 100 percent. D'Andre Swift (abdomen) was also back at practice Monday after dealing with cramps last week.
-- **D'Andre Swift** — D'Andre Swift - Back at practice Monday (2026-09-07T18:43:25Z)
-  - Swift left practice last Thursday with abdominal cramps, but his ability to mix into drills after a weekend off generally is a good sign ahead of Sunday's season opener against the Panthers. In addition to Swift, Kyle Monangai (knee) returned to practice Monday for the first time since hyperextending his knee Aug. 16. Swift is a locked-in fantasy RB2 to open the 2026 campaign, while Monangai makes for an ideal bench stash in Chicago's elite offense. Roschon Johnson will bring up the rear of the depth chart as the Bears' RB3.
