@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2228**
-- Newly captured: **3**
+- Stored stories: **2230**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — George Kittle** — George Kittle - Listed as limited participant (2026-09-08T22:54:09Z)
+- **NEW — Mike Evans** — Mike Evans - Removed from injured list (2026-09-08T22:59:21Z)
+  - Evans has been slowed by injuries since early August, but he apparently is back at 100 percent in advance of Week 1. Barring any setbacks, he seems set to fill a starting wide receiver spot when the 49ers kick off their 2026 campaign against the Rams in Australia.
+- **George Kittle** — George Kittle - Listed as limited participant (2026-09-08T22:54:09Z)
   - Kittle has been practicing regularly since being activated from the active/PUP list a little over two weeks ago, and although he seemingly did not take part in every drill Tuesday, he was able to get at least some work in at San Francisco's first official practice session of the week. He could wind up a full participant before kickoff, and even still the door remains open for him to suit up for Week 1.
 - **Christian McCaffrey** — Christian McCaffrey - Not listed on injury report (2026-09-08T22:39:55Z)
   - McCaffrey's status has been a hot topic for nearly a month, particularly after it was reported in mid-August that he was dealing with some sort of "tightness." However, McCaffrey himself said in late August that he always planned to take it easy during training camp, and San Francisco's first injury report of the year confirms he is back at 100 percent. As such, it seems likely he will be able to fill his regular role when the 49ers kick off their season against the Rams in Australia.
@@ -47,14 +49,16 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tyler Allgeier** — Tyler Allgeier listed as starter on Cardinals depth chart (2026-09-08T19:05:52.756000Z)
   - Allgeier was listed as the starter ahead of rookie Jeremiyah Love after a training camp battle. Love has also been making his way back from an ankle sprain, which could be why Allgeier sees more carries in the early part of the season. If he does indeed get the start on Sunday, Allgeier could be an RB3 or deeper flex option in fantasy.
   - Source: https://www.fantasypros.com/nfl/news/606577/tyler-allgeier-listed-starter-on-cardinals-depth-chart.php
+- **NEW — George Kittle** — George Kittle is Limited During Tuesday's Practice (2026-09-08T18:56:23Z)
+  - Source: https://www.rotoballer.com/player-news/george-kittle-is-limited-during-tuesdays-practice/1926271
 - **Jeremiyah Love** — Jeremiyah Love listed as RB2 on Cardinals depth chart (2026-09-08T18:55:52.610000Z)
   - Love has been dealing with an ankle sprain leading up to Sunday as well, but he has been trending in the right direction to suit up. The rookie will likely be slowly worked into the offense, which could be the reason for him sitting behind Allgeier on the depth chart.
   - Source: https://www.fantasypros.com/nfl/news/606576/jeremiyah-love-listed-rb2-on-cardinals-depth-chart.php
 - **Isaiah Davis** — Isaiah Davis - Partakes in practice Tuesday (2026-09-08T18:54:45Z)
   - Davis' involvement in Tuesday's session bodes well for his chances of being listed as at least a limited participant Wednesday, when the Jets release their first injury report of 2026. The 24-year-old sat out all three of the Jets' preseason games while tending to the knee injury, but if Davis emerges from Week 1 prep without any setbacks, he should be available to serve as the team's No. 3 back behind Breece Hall (groin) and Braelon Allen in Sunday's season opener at Tennessee.
-- **NEW — Terrance Ferguson** — Terrance Ferguson is Not Listed on Injury Report (2026-09-08T18:48:11Z)
+- **Terrance Ferguson** — Terrance Ferguson is Not Listed on Injury Report (2026-09-08T18:48:11Z)
   - Source: https://www.rotoballer.com/player-news/terrance-ferguson-is-not-listed-on-injury-report/1926240
-- **NEW — Jordyn Tyson** — Jordyn Tyson is a Late-Round Stash Option (2026-09-08T18:40:09Z)
+- **Jordyn Tyson** — Jordyn Tyson is a Late-Round Stash Option (2026-09-08T18:40:09Z)
   - Source: https://www.rotoballer.com/player-news/jordyn-tyson-is-a-late-round-stash-option/1926229
 - **Sam Darnold** — Sam Darnold Not in Streaming Conversation for Week 1 (2026-09-08T18:37:12Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-not-in-streaming-conversation-for-week-1/1926227
@@ -214,8 +218,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/denzel-boston-a-must-add-wide-receiver-amidst-preseason-buzz/1925536
 - **Ollie Gordon** — Ollie Gordon II Ditches No-Contact Jersey on Monday (2026-09-07T21:40:05Z)
   - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-ditches-no-contact-jersey-on-monday/1925532
-- **Ryan Flournoy** — Ryan Flournoy a High-Upside Stash Option Entering 2026 (2026-09-07T21:33:51Z)
-  - Source: https://www.rotoballer.com/player-news/ryan-flournoy-a-high-upside-stash-option-entering-2026/1925530
-- **Tory Horton** — Tory Horton (hamstring) limited in practice Monday  (2026-09-07T21:25:43.834000Z)
-  - Horton logged his second straight limited practice. It would still be a surprise if he plays on Wednesday, but it is a good sign nonetheless. 
-  - Source: https://www.fantasypros.com/nfl/news/606432/tory-horton-hamstring-limited-practice-monday.php
