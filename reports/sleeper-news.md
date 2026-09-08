@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2130**
+- Stored stories: **2131**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Ollie Gordon** — Ollie Gordon - Ditches non-contact jersey (2026-09-07T23:26:10Z)
+- **Ollie Gordon** — Ollie Gordon - Ditches non-contact jersey (2026-09-07T23:26:10Z)
   - Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Falcons on Sunday, but the team could hold him out. Gordon is set to be the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the team will have no reason to throw him back into the fire when he could rest a week and return to full health.
 - **Tory Horton** — Tory Horton (hamstring) limited in practice Monday  (2026-09-07T21:25:43.834000Z)
   - Horton logged his second straight limited practice. It would still be a surprise if he plays on Wednesday, but it is a good sign nonetheless. 
@@ -26,6 +26,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606428/aj-barner-oblique-logs-full-practice-monday.php
 - **Zach Charbonnet** — Zach Charbonnet - Progressing in rehab (2026-09-07T20:53:06Z)
   - Macdonald added that Charbonnet looks "dang good." The running back is on reserve/PUP to begin the season and will miss at least the first four games, but it sounds like he could return sometime next month. Seattle's backfield picture remains murky with rookie Jadarian Price, George Holani and Emanuel Wilson all options to see snaps. Adding Charbonnet's name to the mix will only muddy the picture. Price looks like the best bet for fantasy production, but the coaching staff has an affinity for Charbonnet, especially near the goal line.
+- **NEW — Tory Horton** — Tory Horton Listed as Limited on Monday (2026-09-07T20:42:06Z)
+  - Source: https://www.rotoballer.com/player-news/tory-horton-listed-as-limited-on-monday/1925505
 - **Jeremiyah Love** — Jeremiyah Love - Optimism for Week 1 (2026-09-07T20:34:27Z)
   - Love was moving around at practice Monday, but LaFleur would only go as far as to say the rookie running back is "progressing" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.
 - **TreVeyon Henderson** — TreVeyon Henderson - Remains out of practice Monday (2026-09-07T20:25:56Z)
@@ -229,5 +231,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-doesnt-practice-on-monday/1924905
 - **Tory Horton** — Tory Horton Limited in Practice Ahead of Week 1 (2026-09-07T00:56:10Z)
   - Source: https://www.rotoballer.com/player-news/tory-horton-limited-in-practice-ahead-of-week-1/1924899
-- **Trey McBride** — Trey McBride Remains the Focal Point of Cardinals Offense (2026-09-07T00:50:00Z)
-  - Source: https://www.rotoballer.com/player-news/trey-mcbride-remains-the-focal-point-of-cardinals-offense/1924897

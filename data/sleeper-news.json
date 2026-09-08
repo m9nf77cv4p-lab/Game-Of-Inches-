@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-07T23:43:54Z",
+  "last_checked_at": "2026-09-08T00:55:32Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12495|rotowire|636359|1788823570000"
+    "nfl|12497|rotoballer|220306|1788813726000"
   ],
   "schema_version": 1,
   "source": {
@@ -157,6 +157,26 @@
       "story_id": "nfl|9753|rotowire|636351|1788814386000",
       "title": "Zach Charbonnet - Progressing in rehab",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Tory Horton (hamstring) was listed as a limited participant in Monday's practice session, according to John Boyle of the team's official website. Horton was also listed as limited on Sunday as the team prepares to kick off the 2026 campaign with a Super Bowl rematch against the New England Patriots on Wednesday. The 23-year-old second-year pass-catcher's hamstring injury is not believed to be a long-term injury, but it could limit him or keep him out entirely in Wednesday's season opener. Even if Horton is active this week, fantasy managers should not consider him a realistic starting option with all of the team's other receivers healthy. The former fifth-rounder in last year's draft from Colorado State has big-play abilities on offense and special teams, but he only contributed 13 catches for 161 yards and five touchdowns in 2025 in eight regular-season games, and he has been injured for most of his time in the NFL so far. Horton went undrafted in most redraft leagues this summer and is currently rostered in only 1% of Yahoo leagues.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Tory Horton (hamstring) was listed as a limited participant in Monday's practice session, according to John Boyle of the team's official website. Horton was also listed as limited on Sunday as the team prepares to kick off the 2026 campaign with a Super Bowl rematch against the New England Patriots on Wednesday. The 23-year-old second-year pass-catcher's hamstring injury is not believed to be a long-term injury, but it could limit him or keep him out entirely in Wednesday's season opener. Even if Horton is active this week, fantasy managers should not consider him a realistic starting option with all of the team's other receivers healthy. The former fifth-rounder in last year's draft from Colorado State has big-play abilities on offense and special teams, but he only contributed 13 catches for 161 yards and five touchdowns in 2025 in eight regular-season games, and he has been injured for most of his time in the NFL so far. Horton went undrafted in most redraft leagues this summer and is currently rostered in only 1% of Yahoo leagues.",
+        "title": "Tory Horton Listed as Limited on Monday",
+        "topic_id": "1402851387359920128",
+        "url": "https://www.rotoballer.com/player-news/tory-horton-listed-as-limited-on-monday/1925505"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12497",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "published": 1788813726000,
+      "source": "rotoballer",
+      "source_key": "220306",
+      "story_id": "nfl|12497|rotoballer|220306|1788813726000",
+      "title": "Tory Horton Listed as Limited on Monday",
+      "url": "https://www.rotoballer.com/player-news/tory-horton-listed-as-limited-on-monday/1925505"
     },
     {
       "analysis": "Love was moving around at practice Monday, but LaFleur would only go as far as to say the rookie running back is \"progressing\" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.",
