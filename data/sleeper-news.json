@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-08T14:05:10Z",
+  "last_checked_at": "2026-09-08T14:24:54Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11632|rotoballer|220330|1788860645000"
+    "nfl|13296|rotoballer|220332|1788862506000",
+    "nfl|7528|rotoballer|220331|1788861545000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Miami Dolphins wide receiver Caleb Douglas had a strong showing in training camp and the preseason, and the rookie has the potential to be the team's top receiver this season. After trading Jaylen Waddle to the Broncos, the Dolphins will count on Douglas, Malik Washington, and Jalen Tolbert as their expected starters. Douglas was a third-round pick out of Texas Tech and brings big-play potential, as he showed with highlight-reel catches throughout the preseason. He may be held back by the run-heavy Dolphins' offense with QB Malik Willis under center, but since he could develop into the team's No. 1 receiver by midseason, he definitely has the upside to be a fantasy factor. If you can stash him off the waiver wire in deep leagues, he's one of the few options with such a large potential role so easily available. He's only the WR84 in RotoBaller's Week 1 rankings, so he isn't a flex option yet, but his later-season potential gives him intriguing upside.",
+      "metadata": {
+        "description": "Miami Dolphins wide receiver Caleb Douglas had a strong showing in training camp and the preseason, and the rookie has the potential to be the team's top receiver this season. After trading Jaylen Waddle to the Broncos, the Dolphins will count on Douglas, Malik Washington, and Jalen Tolbert as their expected starters. Douglas was a third-round pick out of Texas Tech and brings big-play potential, as he showed with highlight-reel catches throughout the preseason. He may be held back by the run-heavy Dolphins' offense with QB Malik Willis under center, but since he could develop into the team's No. 1 receiver by midseason, he definitely has the upside to be a fantasy factor. If you can stash him off the waiver wire in deep leagues, he's one of the few options with such a large potential role so easily available. He's only the WR84 in RotoBaller's Week 1 rankings, so he isn't a flex option yet, but his later-season potential gives him intriguing upside.",
+        "title": "Caleb Douglas Brings a High Ceiling from the Waiver Wire",
+        "topic_id": "1403056512011644928",
+        "url": "https://www.rotoballer.com/player-news/caleb-douglas-brings-a-high-ceiling-from-the-waiver-wire/1925794"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13296",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "published": 1788862506000,
+      "source": "rotoballer",
+      "source_key": "220332",
+      "story_id": "nfl|13296|rotoballer|220332|1788862506000",
+      "title": "Caleb Douglas Brings a High Ceiling from the Waiver Wire",
+      "url": "https://www.rotoballer.com/player-news/caleb-douglas-brings-a-high-ceiling-from-the-waiver-wire/1925794"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants running back Najee Harris will be an important name to monitor early in the season after the veteran signed a one-year deal to join new coach John Harbaugh in New York. He is expected to play a significant role behind starter Cam Skattebo, and he will compete for snaps with Tyrone Tracy Jr. and Devin Singletary for backup work. Tracy struggled in pass protection this preseason, which may be part of the reason that Harris was added. The 28-year-old veteran was limited to just three games with Jim Harbaugh and the Chargers last season, suffering a season-ending Achilles injury in late September after missing training camp due to a fireworks accident. He was a workhorse in his first four seasons in the league for the Steelers, racking up over 1,000 rushing yards and playing all 17 games each year. His role with the Giants is uncertain, which is why he's only RotoBaller's No. 53 RB for Week 1, indicating he isn't in the mix to start in most formats. However, he is a solid handcuff for Skattebo and could work his way into a large enough role to be a deep-league flex option by the time we reach bye weeks.",
+      "metadata": {
+        "description": "New York Giants running back Najee Harris will be an important name to monitor early in the season after the veteran signed a one-year deal to join new coach John Harbaugh in New York. He is expected to play a significant role behind starter Cam Skattebo, and he will compete for snaps with Tyrone Tracy Jr. and Devin Singletary for backup work. Tracy struggled in pass protection this preseason, which may be part of the reason that Harris was added. The 28-year-old veteran was limited to just three games with Jim Harbaugh and the Chargers last season, suffering a season-ending Achilles injury in late September after missing training camp due to a fireworks accident. He was a workhorse in his first four seasons in the league for the Steelers, racking up over 1,000 rushing yards and playing all 17 games each year. His role with the Giants is uncertain, which is why he's only RotoBaller's No. 53 RB for Week 1, indicating he isn't in the mix to start in most formats. However, he is a solid handcuff for Skattebo and could work his way into a large enough role to be a deep-league flex option by the time we reach bye weeks.",
+        "title": "Najee Harris Could Earn a Role in New York",
+        "topic_id": "1403052736877977600",
+        "url": "https://www.rotoballer.com/player-news/najee-harris-could-earn-a-role-in-new-york/1925771"
+      },
+      "nfl_team": "NYG",
+      "player_id": "7528",
+      "player_name": "Najee Harris",
+      "position": "RB",
+      "published": 1788861545000,
+      "source": "rotoballer",
+      "source_key": "220331",
+      "story_id": "nfl|7528|rotoballer|220331|1788861545000",
+      "title": "Najee Harris Could Earn a Role in New York",
+      "url": "https://www.rotoballer.com/player-news/najee-harris-could-earn-a-role-in-new-york/1925771"
+    },
     {
       "analysis": null,
       "description": "New York Giants wide receiver Malik Nabers (knee) sounds like he will be \"good to go for Sunday night,\" according to ESPN's Dan Graziano. Nabers is coming back from a torn ACL that ended his 2025 season after four games, but it looks like he'll be ready to play in Week 1. Last year, he had 18 catches for 271 yards and two touchdowns before his injury after an impressive rookie year with 1,204 receiving yards and seven touchdowns in 15 games, despite iffy QB play. This year, he'll work with Jaxson Dart as the team's top receiver under new head coach John Harbaugh and new offensive coordinator Matt Nagy. The team added wide receiver Darnell Mooney and tight end Isaiah Likely, but Nabers should remain the focal point of the offense and be set for as large a target share as he can handle. Since it will be his first game back, Nabers is the No. 16 WR in RotoBaller's Week 1 rankings, but he definitely has top-10 upside even though he'll take on an improved Dallas defense on Sunday Night Football. If you drafted Nabers as a starter, be sure to get him in your lineups this week since he seems to be all systems go for Week 1.",

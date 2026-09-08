@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2151**
-- Newly captured: **1**
+- Stored stories: **2153**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Malik Nabers** — Malik Nabers Should Be "Good to Go" (2026-09-08T09:44:05Z)
+- **NEW — Caleb Douglas** — Caleb Douglas Brings a High Ceiling from the Waiver Wire (2026-09-08T10:15:06Z)
+  - Source: https://www.rotoballer.com/player-news/caleb-douglas-brings-a-high-ceiling-from-the-waiver-wire/1925794
+- **NEW — Najee Harris** — Najee Harris Could Earn a Role in New York (2026-09-08T09:59:05Z)
+  - Source: https://www.rotoballer.com/player-news/najee-harris-could-earn-a-role-in-new-york/1925771
+- **Malik Nabers** — Malik Nabers Should Be "Good to Go" (2026-09-08T09:44:05Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-should-be-good-to-go/1925749
 - **George Holani** — George Holani Brings Early-Season Upside (2026-09-08T09:25:06Z)
   - Source: https://www.rotoballer.com/player-news/george-holani-brings-early-season-upside/1925733
@@ -225,7 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tua Tagovailoa** — Tua Tagovailoa named Falcons starter (2026-09-07T12:15:40.302000Z)
   - After a camp that was full of negative reports, Tua has managed to win the starting job. Frankly, it's likely by default, as Michael Penix just got back to practice after suffering a torn ACL last season. It will be interesting to see how long Tua can keep the job.
   - Source: https://www.fantasypros.com/nfl/news/606317/tua-tagovailoa-named-falcons-starter.php
-- **TreVeyon Henderson** — TreVeyon Henderson Still Absent Two Days Before Week 1 (2026-09-07T12:08:09Z)
-  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-still-absent-two-days-before-week-1/1925164
-- **Jonathon Brooks** — Jonathon Brooks Remains Limited to Side Work (2026-09-07T12:00:10Z)
-  - Source: https://www.rotoballer.com/player-news/jonathon-brooks-remains-limited-to-side-work/1925160
