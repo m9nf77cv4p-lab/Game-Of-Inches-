@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2223**
-- Newly captured: **7**
+- Stored stories: **2225**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Puka Nacua** — Puka Nacua not listed on Rams first injury report (2026-09-08T22:35:22.707000Z)
+- **NEW — Christian McCaffrey** — Christian McCaffrey - Not listed on injury report (2026-09-08T22:39:55Z)
+  - McCaffrey's status has been a hot topic for nearly a month, particularly after it was reported in mid-August that he was dealing with some sort of "tightness." However, McCaffrey himself said in late August that he always planned to take it easy during training camp, and San Francisco's first injury report of the year confirms he is back at 100 percent. As such, it seems likely he will be able to fill his regular role when the 49ers kick off their season Thursday against the Rams in Australia.
+- **Puka Nacua** — Puka Nacua not listed on Rams first injury report (2026-09-08T22:35:22.707000Z)
   - Puka has been dealing with a psoas injury for a little over a week, but his absence on the injury report is a big indication that barring a setback, he will play on Thursday. The star receiver should be a full go and lock into fantasy lineups.
   - Source: https://www.fantasypros.com/nfl/news/606631/puka-nacua-not-listed-on-rams-first-injury-report.php
 - **Cyrus Allen** — Cyrus Allen - Labeled as reserve on depth chart (2026-09-08T22:05:12Z)
@@ -48,17 +50,19 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606576/jeremiyah-love-listed-rb2-on-cardinals-depth-chart.php
 - **Isaiah Davis** — Isaiah Davis - Partakes in practice Tuesday (2026-09-08T18:54:45Z)
   - Davis' involvement in Tuesday's session bodes well for his chances of being listed as at least a limited participant Wednesday, when the Jets release their first injury report of 2026. The 24-year-old sat out all three of the Jets' preseason games while tending to the knee injury, but if Davis emerges from Week 1 prep without any setbacks, he should be available to serve as the team's No. 3 back behind Breece Hall (groin) and Braelon Allen in Sunday's season opener at Tennessee.
-- **NEW — Malik Willis** — Malik Willis Could Offer Late-Round Value (2026-09-08T18:27:17Z)
+- **NEW — Sam Darnold** — Sam Darnold Not in Streaming Conversation for Week 1 (2026-09-08T18:37:12Z)
+  - Source: https://www.rotoballer.com/player-news/sam-darnold-not-in-streaming-conversation-for-week-1/1926227
+- **Malik Willis** — Malik Willis Could Offer Late-Round Value (2026-09-08T18:27:17Z)
   - Source: https://www.rotoballer.com/player-news/malik-willis-could-offer-late-round-value/1926218
-- **NEW — Jadarian Price** — Jadarian Price an Intriguing Flex Option in Week 1 (2026-09-08T18:25:16Z)
+- **Jadarian Price** — Jadarian Price an Intriguing Flex Option in Week 1 (2026-09-08T18:25:16Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-an-intriguing-flex-option-in-week-1/1926216
-- **NEW — AJ Barner** — AJ Barner a Potential Tight End Option in Week 1 (2026-09-08T18:23:51Z)
+- **AJ Barner** — AJ Barner a Potential Tight End Option in Week 1 (2026-09-08T18:23:51Z)
   - Source: https://www.rotoballer.com/player-news/aj-barner-a-potential-tight-end-option-in-week-1/1926214
-- **NEW — Cooper Kupp** — Cooper Kupp Not Worth Rostering in Week 1 (2026-09-08T18:22:14Z)
+- **Cooper Kupp** — Cooper Kupp Not Worth Rostering in Week 1 (2026-09-08T18:22:14Z)
   - Source: https://www.rotoballer.com/player-news/cooper-kupp-not-worth-rostering-in-week-1/1926212
-- **NEW — Rashid Shaheed** — Rashid Shaheed a Player to Watch in Week 1 (2026-09-08T18:22:10Z)
+- **Rashid Shaheed** — Rashid Shaheed a Player to Watch in Week 1 (2026-09-08T18:22:10Z)
   - Source: https://www.rotoballer.com/player-news/rashid-shaheed-a-player-to-watch-in-week-1/1926210
-- **NEW — Jason Myers** — Jason Myers a Clear K1 in Week 1 (2026-09-08T18:18:10Z)
+- **Jason Myers** — Jason Myers a Clear K1 in Week 1 (2026-09-08T18:18:10Z)
   - Source: https://www.rotoballer.com/player-news/jason-myers-a-clear-k1-in-week-1/1926208
 - **Tory Horton** — Tory Horton is Questionable for Wednesday's Game (2026-09-08T18:16:05Z)
   - Source: https://www.rotoballer.com/player-news/tory-horton-is-questionable-for-wednesdays-game/1926204
@@ -216,9 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Zach Charbonnet** — Zach Charbonnet (knee) has 'aggressive' return timeline (2026-09-07T21:15:44.064000Z)
   - Charbonnet is opening the season on the physically unable to perform (PUP) list. He will miss at least four games, but he could be off the PUP list sooner than expected. Macdonald did not disclose specifics on Charbonnet's timeline. The fourth-year running back has scored 20 rushing touchdowns in the last two seasons and tore his ACL in January.
   - Source: https://www.fantasypros.com/nfl/news/606418/zach-charbonnet-knee-aggressive-return-timeline.php
-- **Jeremiyah Love** — Jeremiyah Love: status improving for Week 1 (2026-09-07T21:15:44.050000Z)
-  - Love has been struggling with a high ankle sprain injury for a few weeks now, but this is a promising sign for his return. The first round rookie should be in line for a nice workload, and he flashed serious ability in his limited preseason action.
-  - Source: https://www.fantasypros.com/nfl/news/606424/jeremiyah-love-status-improving-week-1.php
-- **TreVeyon Henderson** — TreVeyon Henderson (ankle) officially misses practice Monday  (2026-09-07T21:15:44.034000Z)
-  - Henderson continues to trend towards missing Wednesday's season opener. 
-  - Source: https://www.fantasypros.com/nfl/news/606425/treveyon-henderson-ankle-officially-misses-practice-monday.php

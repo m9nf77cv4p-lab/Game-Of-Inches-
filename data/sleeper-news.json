@@ -1,15 +1,10 @@
 {
-  "last_checked_at": "2026-09-08T22:37:11Z",
+  "last_checked_at": "2026-09-08T22:48:33Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11603|rotoballer|220386|1788891831000",
-    "nfl|13286|rotoballer|220385|1788891916000",
-    "nfl|2747|rotoballer|220383|1788891490000",
-    "nfl|4039|rotoballer|220381|1788891734000",
-    "nfl|8161|rotoballer|220384|1788892037000",
-    "nfl|8676|rotoballer|220382|1788891730000",
-    "nfl|9493|fantasy_pros|606631|1788906922707"
+    "nfl|4034|rotowire|636411|1788907195000",
+    "nfl|4943|rotoballer|220387|1788892632000"
   ],
   "schema_version": 1,
   "source": {
@@ -19,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "McCaffrey's status has been a hot topic for nearly a month, particularly after it was reported in mid-August that he was dealing with some sort of \"tightness.\" However, McCaffrey himself said in late August that he always planned to take it easy during training camp, and San Francisco's first injury report of the year confirms he is back at 100 percent. As such, it seems likely he will be able to fill his regular role when the 49ers kick off their season Thursday against the Rams in Australia.",
+      "description": "McCaffrey (undisclosed) was not listed on the injury report the 49ers released Tuesday, according to Matt Maiocco of NBC Sports Bay Area.",
+      "metadata": {
+        "analysis": "McCaffrey's status has been a hot topic for nearly a month, particularly after it was reported in mid-August that he was dealing with some sort of \"tightness.\" However, McCaffrey himself said in late August that he always planned to take it easy during training camp, and San Francisco's first injury report of the year confirms he is back at 100 percent. As such, it seems likely he will be able to fill his regular role when the 49ers kick off their season Thursday against the Rams in Australia.",
+        "description": "McCaffrey (undisclosed) was not listed on the injury report the 49ers released Tuesday, according to Matt Maiocco of NBC Sports Bay Area.",
+        "title": "Christian McCaffrey - Not listed on injury report",
+        "topic_id": "1403183483001524224"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1788907195000,
+      "source": "rotowire",
+      "source_key": "636411",
+      "story_id": "nfl|4034|rotowire|636411|1788907195000",
+      "title": "Christian McCaffrey - Not listed on injury report",
+      "url": null
+    },
     {
       "analysis": "Puka has been dealing with a psoas injury for a little over a week, but his absence on the injury report is a big indication that barring a setback, he will play on Thursday. The star receiver should be a full go and lock into fantasy lineups.",
       "description": "Puka Nacua is not listed on the Rams initial injury report for Week 1.",
@@ -365,6 +380,26 @@
       "story_id": "nfl|11571|rotowire|636397|1788893685000",
       "title": "Isaiah Davis - Partakes in practice Tuesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks quarterback Sam Darnold is not in the streaming conversation when Seattle hosts the New England Patriots in Week 1. The Patriots boast a quality defense, and this feels like a game in which Seattle will rely more heavily on the running game. The Patriots were near the top of the pack against opposing quarterbacks in fantasy in 2025 as well. While they were not exactly facing the most quality opponents, this was still a defense that took care of business when it needed to. Darnold was the QB13 in 2025 due to his scorching first half of the season. However, the Seahawks' offensive strategy shifted down the stretch once Darnold began to struggle with turnovers. Darnold turned it around for the playoffs, but there are plenty of other quarterback options in Week 1 who have a narrower range of outcomes. Leave Darnold on waivers for this week.",
+      "metadata": {
+        "description": "Seattle Seahawks quarterback Sam Darnold is not in the streaming conversation when Seattle hosts the New England Patriots in Week 1. The Patriots boast a quality defense, and this feels like a game in which Seattle will rely more heavily on the running game. The Patriots were near the top of the pack against opposing quarterbacks in fantasy in 2025 as well. While they were not exactly facing the most quality opponents, this was still a defense that took care of business when it needed to. Darnold was the QB13 in 2025 due to his scorching first half of the season. However, the Seahawks' offensive strategy shifted down the stretch once Darnold began to struggle with turnovers. Darnold turned it around for the playoffs, but there are plenty of other quarterback options in Week 1 who have a narrower range of outcomes. Leave Darnold on waivers for this week.",
+        "title": "Sam Darnold Not in Streaming Conversation for Week 1",
+        "topic_id": "1403183480082268160",
+        "url": "https://www.rotoballer.com/player-news/sam-darnold-not-in-streaming-conversation-for-week-1/1926227"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1788892632000,
+      "source": "rotoballer",
+      "source_key": "220387",
+      "story_id": "nfl|4943|rotoballer|220387|1788892632000",
+      "title": "Sam Darnold Not in Streaming Conversation for Week 1",
+      "url": "https://www.rotoballer.com/player-news/sam-darnold-not-in-streaming-conversation-for-week-1/1926227"
     },
     {
       "analysis": null,
