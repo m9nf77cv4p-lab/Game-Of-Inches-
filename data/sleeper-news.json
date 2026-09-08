@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T02:07:40Z",
+  "last_checked_at": "2026-09-08T02:24:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13346|rotoballer|220313|1788817679000"
+    "nfl|3214|rotoballer|220314|1788818405000"
   ],
   "schema_version": 1,
   "source": {
@@ -32,6 +32,26 @@
       "story_id": "nfl|12495|rotowire|636359|1788823570000",
       "title": "Ollie Gordon - Ditches non-contact jersey",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots tight end Hunter Henry put together a quietly productive season in 2025, recording 60 catches for 768 yards and seven touchdowns on 87 targets across 17 games. The 31-year-old finished second on the Patriots in targets and first in touchdown receptions. New England added some significant pass-catching talent over the offseason, trading for star wide receiver A.J. Brown and signing veteran wideout Romeo Doubs in free agency. Still, Henry remains atop the team's tight end depth chart entering 2026, and he proved last season that he has the trust of Patriots quarterback Drake Maye in the red zone. Particularly in deeper league formats, Henry profiles as a high-floor tight end option who should be a worthy streamer in the right matchups for fantasy managers in 2026.",
+      "metadata": {
+        "description": "New England Patriots tight end Hunter Henry put together a quietly productive season in 2025, recording 60 catches for 768 yards and seven touchdowns on 87 targets across 17 games. The 31-year-old finished second on the Patriots in targets and first in touchdown receptions. New England added some significant pass-catching talent over the offseason, trading for star wide receiver A.J. Brown and signing veteran wideout Romeo Doubs in free agency. Still, Henry remains atop the team's tight end depth chart entering 2026, and he proved last season that he has the trust of Patriots quarterback Drake Maye in the red zone. Particularly in deeper league formats, Henry profiles as a high-floor tight end option who should be a worthy streamer in the right matchups for fantasy managers in 2026.",
+        "title": "Hunter Henry Remains a High-Floor Deep-League Tight End Option",
+        "topic_id": "1402872780017381376",
+        "url": "https://www.rotoballer.com/player-news/hunter-henry-remains-a-high-floor-deep-league-tight-end-option/1925541"
+      },
+      "nfl_team": "NE",
+      "player_id": "3214",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "published": 1788818405000,
+      "source": "rotoballer",
+      "source_key": "220314",
+      "story_id": "nfl|3214|rotoballer|220314|1788818405000",
+      "title": "Hunter Henry Remains a High-Floor Deep-League Tight End Option",
+      "url": "https://www.rotoballer.com/player-news/hunter-henry-remains-a-high-floor-deep-league-tight-end-option/1925541"
     },
     {
       "analysis": null,
