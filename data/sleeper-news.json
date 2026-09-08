@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-08T20:08:56Z",
+  "last_checked_at": "2026-09-08T20:25:04Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13287|rotowire|636400|1788897080000"
+    "nfl|11370|rotoballer|220370|1788883534000",
+    "nfl|11637|rotoballer|220369|1788883631000",
+    "nfl|8132|rotowire|636401|1788898103000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Head coach Mike LaFleur expressed optimism Tuesday that Jeremiyah Love would be ready to play Sunday after suffering a high-ankle sprain in the Cardinals' preseason opener, but the No. 3 overall pick in April's draft isn't expected to handle a workhorse role right away coming off the injury. While Love should emerge as the clear No. 1 option once he's further removed from the injury, Allgeier appears well-positioned to have a meaningful role in the Week 1 game plan, regardless of whether he ends up starting or not.",
+      "description": "The Cardinals list Allgeier as the starting running back on their unofficial depth chart in advance of Sunday's season opener versus the Chargers, Bo Brack of GoPHNX.com reports.",
+      "metadata": {
+        "analysis": "Head coach Mike LaFleur expressed optimism Tuesday that Jeremiyah Love would be ready to play Sunday after suffering a high-ankle sprain in the Cardinals' preseason opener, but the No. 3 overall pick in April's draft isn't expected to handle a workhorse role right away coming off the injury. While Love should emerge as the clear No. 1 option once he's further removed from the injury, Allgeier appears well-positioned to have a meaningful role in the Week 1 game plan, regardless of whether he ends up starting or not.",
+        "description": "The Cardinals list Allgeier as the starting running back on their unofficial depth chart in advance of Sunday's season opener versus the Chargers, Bo Brack of GoPHNX.com reports.",
+        "title": "Tyler Allgeier - No. 1 back on unofficial depth chart",
+        "topic_id": "1403144603456036864"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8132",
+      "player_name": "Tyler Allgeier",
+      "position": "RB",
+      "published": 1788898103000,
+      "source": "rotowire",
+      "source_key": "636401",
+      "story_id": "nfl|8132|rotowire|636401|1788898103000",
+      "title": "Tyler Allgeier - No. 1 back on unofficial depth chart",
+      "url": null
+    },
     {
       "analysis": "The No. 3 overall pick in the April's draft, Love will eventually settle in as the unquestioned No. 1 option on the depth chart, but the Cardinals could look to ease him into NFL action while he works his way back from the high-ankle sprain he sustained Aug. 13 in the preseason opener against the Raiders. Head coach Mike LaFleur said Monday that he's optimistic Love will be available Sunday, though even if he manages to practice without limitations by the end of the week, the 21-year-old seems likely to share the load with Allgeier. Love should handle a larger portion of the snaps and touches out of the backfield once his ankle injury fades further in the rear-view mirror.",
       "description": "The Cardinals listed Love (ankle) as the No. 2 running back behind Tyler Allgeier on their unofficial depth chart released prior to Sunday's season opener versus the Chargers, Bo Brack of GoPHNX.com reports.",
@@ -55,10 +77,10 @@
     },
     {
       "analysis": "Though team-issued depth charts don't always reflect how players will be used once the season gets underway, Bell's listing in a top-three role could be noteworthy. Miami had previously listed Jalen Tolbert along with Malik Washington and Caleb Douglas as Miami's starting receiver trio, but Bell may have shown enough during his lone preseason appearance to leapfrog Tolbert in the pecking order. After opening training camp on the non-football injury list while he recovered from the ACL tear he sustained during his final collegiate season at Louisville, Bell joined the Dolphins for practice Aug. 17 and shined in his lone preseason appearance just under two weeks later, reeling in two of five targets for 22 yards in a 17-12 loss to the Falcons. If Bell does in fact start Week 1, the Dolphins could still look to limit his snaps to some degree while he works to regain full conditioning coming off knee surgery.",
-      "description": "The Dolphins list Bell as one of three starting wide receivers on their unofficial depth chart released in advance of Sunday's season opener versus the Raiders, Joe Schad of The Palm Beach Post reports.",
+      "description": "The Dolphins list Bell as one of three starting wide receivers on their unofficial depth chart released in advance of Sunday's season opener versus the Raiders, David Furones of the South Florida Sun Sentinel reports.",
       "metadata": {
         "analysis": "Though team-issued depth charts don't always reflect how players will be used once the season gets underway, Bell's listing in a top-three role could be noteworthy. Miami had previously listed Jalen Tolbert along with Malik Washington and Caleb Douglas as Miami's starting receiver trio, but Bell may have shown enough during his lone preseason appearance to leapfrog Tolbert in the pecking order. After opening training camp on the non-football injury list while he recovered from the ACL tear he sustained during his final collegiate season at Louisville, Bell joined the Dolphins for practice Aug. 17 and shined in his lone preseason appearance just under two weeks later, reeling in two of five targets for 22 yards in a 17-12 loss to the Falcons. If Bell does in fact start Week 1, the Dolphins could still look to limit his snaps to some degree while he works to regain full conditioning coming off knee surgery.",
-        "description": "The Dolphins list Bell as one of three starting wide receivers on their unofficial depth chart released in advance of Sunday's season opener versus the Raiders, Joe Schad of The Palm Beach Post reports.",
+        "description": "The Dolphins list Bell as one of three starting wide receivers on their unofficial depth chart released in advance of Sunday's season opener versus the Raiders, David Furones of the South Florida Sun Sentinel reports.",
         "title": "Chris Bell - Gets starter listing on depth chart",
         "topic_id": "1403135795761549312"
       },
@@ -358,6 +380,46 @@
       "story_id": "nfl|8155|rotowire|636388|1788884362000",
       "title": "Breece Hall - Trending toward playing Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Athletic's Joe Buscaglia reports that wide receiver Keon Coleman is ahead of Joshua Palmer on the Buffalo Bills' unofficial depth chart ahead of their Week 1 game this Sunday against the Houston Texans. Coleman, the team's former second-round pick in 2024 from Florida State, has been a disappointment in his first two years in the league, catching 67 of 116 targets for 960 yards and eight touchdowns in 26 games played (18 starts). The 23-year-old battled drops and was benched for showing up late to a team meeting, further hurting his dynasty/keeper stock. But heading into Year 3, the Bills' brass continues to say that Coleman is in their long-term plans, and they are hoping to see more maturity from him in 2026. The offseason acquisition of DJ Moore did not help Coleman's cause, but he is expected to start alongside Moore and Khalil Shakir in three-wide sets to kick off the regular season. Coleman has buy-low appeal in dynasty leagues and should be considered a deep-league sleeper. Right now, he is only rostered in 2% of Yahoo leagues and can be left on the waiver wire in 12-team formats.",
+      "metadata": {
+        "description": "The Athletic's Joe Buscaglia reports that wide receiver Keon Coleman is ahead of Joshua Palmer on the Buffalo Bills' unofficial depth chart ahead of their Week 1 game this Sunday against the Houston Texans. Coleman, the team's former second-round pick in 2024 from Florida State, has been a disappointment in his first two years in the league, catching 67 of 116 targets for 960 yards and eight touchdowns in 26 games played (18 starts). The 23-year-old battled drops and was benched for showing up late to a team meeting, further hurting his dynasty/keeper stock. But heading into Year 3, the Bills' brass continues to say that Coleman is in their long-term plans, and they are hoping to see more maturity from him in 2026. The offseason acquisition of DJ Moore did not help Coleman's cause, but he is expected to start alongside Moore and Khalil Shakir in three-wide sets to kick off the regular season. Coleman has buy-low appeal in dynasty leagues and should be considered a deep-league sleeper. Right now, he is only rostered in 2% of Yahoo leagues and can be left on the waiver wire in 12-team formats.",
+        "title": "Keon Coleman Listed as a Starter on Bills' Depth Chart",
+        "topic_id": "1403145859855605760",
+        "url": "https://www.rotoballer.com/player-news/keon-coleman-listed-as-a-starter-on-bills-depth-chart/1926131"
+      },
+      "nfl_team": "BUF",
+      "player_id": "11637",
+      "player_name": "Keon Coleman",
+      "position": "WR",
+      "published": 1788883631000,
+      "source": "rotoballer",
+      "source_key": "220369",
+      "story_id": "nfl|11637|rotoballer|220369|1788883631000",
+      "title": "Keon Coleman Listed as a Starter on Bills' Depth Chart",
+      "url": "https://www.rotoballer.com/player-news/keon-coleman-listed-as-a-starter-on-bills-depth-chart/1926131"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back Chris Brooks has become a little more interesting with Josh Jacobs unavailable to open the season. The Packers are going with a committee for now, leaving Brooks in a three-man backfield with MarShawn Lloyd and Kaleb Johnson. Lloyd has the obvious big-play appeal, but Brooks brings something Green Bay already trusts. He has carved out work on passing downs because of his hands and pass protection, which gives him a chance to stick in the rotation even if he isn't getting many early-down carries. Brooks had only 27 rushes for 106 yards last season, though he also caught 13 passes for 91 yards. There isn't enough here to put him into a Week 1 lineup yet. He is rostered in just 3% of Yahoo leagues and makes the most sense as a stash in 14-team PPR formats. If the committee gives Brooks more passing-game work than expected, there could be something useful here.",
+      "metadata": {
+        "description": "Green Bay Packers running back Chris Brooks has become a little more interesting with Josh Jacobs unavailable to open the season. The Packers are going with a committee for now, leaving Brooks in a three-man backfield with MarShawn Lloyd and Kaleb Johnson. Lloyd has the obvious big-play appeal, but Brooks brings something Green Bay already trusts. He has carved out work on passing downs because of his hands and pass protection, which gives him a chance to stick in the rotation even if he isn't getting many early-down carries. Brooks had only 27 rushes for 106 yards last season, though he also caught 13 passes for 91 yards. There isn't enough here to put him into a Week 1 lineup yet. He is rostered in just 3% of Yahoo leagues and makes the most sense as a stash in 14-team PPR formats. If the committee gives Brooks more passing-game work than expected, there could be something useful here.",
+        "title": "Chris Brooks Has a Real Opening in Green Bay's Backfield",
+        "topic_id": "1403145859855605761",
+        "url": "https://www.rotoballer.com/player-news/chris-brooks-has-a-real-opening-in-green-bays-backfield/1926125"
+      },
+      "nfl_team": "GB",
+      "player_id": "11370",
+      "player_name": "Chris Brooks",
+      "position": "RB",
+      "published": 1788883534000,
+      "source": "rotoballer",
+      "source_key": "220370",
+      "story_id": "nfl|11370|rotoballer|220370|1788883534000",
+      "title": "Chris Brooks Has a Real Opening in Green Bay's Backfield",
+      "url": "https://www.rotoballer.com/player-news/chris-brooks-has-a-real-opening-in-green-bays-backfield/1926125"
     },
     {
       "analysis": "Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.",

@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2196**
-- Newly captured: **1**
+- Stored stories: **2199**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Jeremiyah Love** — Jeremiyah Love - Listed second on unofficial depth chart (2026-09-08T19:51:20Z)
+- **NEW — Tyler Allgeier** — Tyler Allgeier - No. 1 back on unofficial depth chart (2026-09-08T20:08:23Z)
+  - Head coach Mike LaFleur expressed optimism Tuesday that Jeremiyah Love would be ready to play Sunday after suffering a high-ankle sprain in the Cardinals' preseason opener, but the No. 3 overall pick in April's draft isn't expected to handle a workhorse role right away coming off the injury. While Love should emerge as the clear No. 1 option once he's further removed from the injury, Allgeier appears well-positioned to have a meaningful role in the Week 1 game plan, regardless of whether he ends up starting or not.
+- **Jeremiyah Love** — Jeremiyah Love - Listed second on unofficial depth chart (2026-09-08T19:51:20Z)
   - The No. 3 overall pick in the April's draft, Love will eventually settle in as the unquestioned No. 1 option on the depth chart, but the Cardinals could look to ease him into NFL action while he works his way back from the high-ankle sprain he sustained Aug. 13 in the preseason opener against the Raiders. Head coach Mike LaFleur said Monday that he's optimistic Love will be available Sunday, though even if he manages to practice without limitations by the end of the week, the 21-year-old seems likely to share the load with Allgeier. Love should handle a larger portion of the snaps and touches out of the backfield once his ankle injury fades further in the rear-view mirror.
 - **Keon Coleman** — Keon Coleman - Designated as starter on depth chart (2026-09-08T19:47:13Z)
   - While DJ Moore and Khalil Shakir are secure as Buffalo's top two wideouts in some order, Coleman could be prioritized ahead of Joshua Palmer for the No. 3 spot when the season gets underway. After averaging 9.8 yards per target as a rookie in 2024, Coleman dropped all the way down to 6.8 per game during his sophomore season and also drew the ire of the coaching staff for his lack of professionalism, which played a part in him being a healthy inactive on four occasions. Coleman appears to have received a clean slate entering 2026, and after a strong showing during minicamp, he continued to make a positive impression in training camp before spraining his right foot in an Aug. 18 preseason game against the Panthers. The injury doesn't appear to be a long-term concern, and if he can return to full practice at some point this week, Coleman looks like he could handle a notable role in the passing game in the season opener.
@@ -47,6 +49,10 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606556/breece-hall-groin-trending-towards-playing-week-1.php
 - **Breece Hall** — Breece Hall - Trending toward playing Week 1 (2026-09-08T16:19:22Z)
   - Hall sustained a minor right groin strain during an Aug. 17 practice, and though he didn't return to full team drills before the end of the preseason, the running back looks like he's on track to be available for the start of the regular season. The Jets will publish their first injury report of 2026 following practice Wednesday, when it will be known whether Hall is a full or limited participant. Assuming Hall progresses to full practice workload by the end of the week, he should be ready to handle a three-down workload out of the New York backfield Sunday.
+- **NEW — Keon Coleman** — Keon Coleman Listed as a Starter on Bills' Depth Chart (2026-09-08T16:07:11Z)
+  - Source: https://www.rotoballer.com/player-news/keon-coleman-listed-as-a-starter-on-bills-depth-chart/1926131
+- **NEW — Chris Brooks** — Chris Brooks Has a Real Opening in Green Bay's Backfield (2026-09-08T16:05:34Z)
+  - Source: https://www.rotoballer.com/player-news/chris-brooks-has-a-real-opening-in-green-bays-backfield/1926125
 - **Makai Lemon** — Makai Lemon - Listed as starting receiver, punt returner (2026-09-08T15:54:17Z)
   - Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.
 - **Isaiah Davis** — Isaiah Davis Takes Part in RB Drills on Tuesday (2026-09-08T15:29:05Z)
@@ -220,11 +226,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/terrance-ferguson-one-of-the-best-upside-te-stashes-off-the-waiver-wire/1925436
 - **Jalen McMillan** — Jalen McMillan - On field for Monday's practice (2026-09-07T18:15:23Z)
   - Both McMillan and Emeka Egbuka (toe) were participating in Monday's session, putting both in good position to play Sunday against the Bengals. McMillan missed most of training camp, but his injury never sounded serious. He's expected to compete with rookie Ted Hurst for WR3 duties behind Egbuka and Chris Godwin this season. McMillan is the favorite to open the campaign in three-wide sets.
-- **Ja'Marr Chase** — Ja'Marr Chase (knee) returns to practice Monday  (2026-09-07T17:45:42.459000Z)
-  - Chase was sidelined last week after suffering a hyperextended knee in practice. The superstar wideout will look to increase his activity throughout the week ahead of a Week 1 matchup against the Tampa Buccaneers.
-  - Source: https://www.fantasypros.com/nfl/news/606372/jamarr-chase-knee-returns-to-practice-monday.php
-- **Tee Higgins** — Tee Higgins (heel) practicing Monday (2026-09-07T17:45:42.448000Z)
-  - Higgins returned to the practice field alongside superstar wideout Ja'Marr Chase (knee) after both were sidelined last week while managing their minor injuries. The wideout looks poised to be available to slot into his role as the No. 2 pass-catching option behind Chase in time for Cincinnati's Week 1 contest against the Tampa Bay Buccaneers.
-  - Source: https://www.fantasypros.com/nfl/news/606373/tee-higgins-heel-practicing-monday.php
-- **Tee Higgins** — Tee Higgins - Suited up for practice (2026-09-07T17:42:11Z)
-  - Coach Zac Taylor relayed last Tuesday that Higgins was tending to a bruised heel, which sidelined the wide receiver since then, so his ability to suit up Monday generally is a step in the right direction. Cincinnati will be posting it's first injury report of the season Wednesday, after which Higgins' activity level will become clearer as the team preps for Sunday's Week 1 matchup with the Buccaneers.
