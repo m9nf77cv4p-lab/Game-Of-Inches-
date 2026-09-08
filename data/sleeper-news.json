@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-08T22:48:33Z",
+  "last_checked_at": "2026-09-08T22:58:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4034|rotowire|636411|1788907195000",
-    "nfl|4943|rotoballer|220387|1788892632000"
+    "nfl|12487|rotoballer|220389|1788893291000",
+    "nfl|13281|rotoballer|220388|1788892809000",
+    "nfl|4217|rotowire|636412|1788908049000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,10 +16,30 @@
   },
   "stories": [
     {
-      "analysis": "McCaffrey's status has been a hot topic for nearly a month, particularly after it was reported in mid-August that he was dealing with some sort of \"tightness.\" However, McCaffrey himself said in late August that he always planned to take it easy during training camp, and San Francisco's first injury report of the year confirms he is back at 100 percent. As such, it seems likely he will be able to fill his regular role when the 49ers kick off their season Thursday against the Rams in Australia.",
+      "analysis": "Kittle has been practicing regularly since being activated from the active/PUP list a little over two weeks ago, and although he seemingly did not take part in every drill Tuesday, he was able to get at least some work in at San Francisco's first official practice session of the week. He could wind up a full participant before kickoff, and even still the door remains open for him to suit up for Week 1.",
+      "description": "Kittle (Achilles) was listed as a limited participant on Tuesday's injury report, Matt Maiocco of NBC Sports Bay Area reports.",
+      "metadata": {
+        "analysis": "Kittle has been practicing regularly since being activated from the active/PUP list a little over two weeks ago, and although he seemingly did not take part in every drill Tuesday, he was able to get at least some work in at San Francisco's first official practice session of the week. He could wind up a full participant before kickoff, and even still the door remains open for him to suit up for Week 1.",
+        "description": "Kittle (Achilles) was listed as a limited participant on Tuesday's injury report, Matt Maiocco of NBC Sports Bay Area reports.",
+        "title": "George Kittle - Listed as limited participant",
+        "topic_id": "1403185999370043392"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788908049000,
+      "source": "rotowire",
+      "source_key": "636412",
+      "story_id": "nfl|4217|rotowire|636412|1788908049000",
+      "title": "George Kittle - Listed as limited participant",
+      "url": null
+    },
+    {
+      "analysis": "McCaffrey's status has been a hot topic for nearly a month, particularly after it was reported in mid-August that he was dealing with some sort of \"tightness.\" However, McCaffrey himself said in late August that he always planned to take it easy during training camp, and San Francisco's first injury report of the year confirms he is back at 100 percent. As such, it seems likely he will be able to fill his regular role when the 49ers kick off their season against the Rams in Australia.",
       "description": "McCaffrey (undisclosed) was not listed on the injury report the 49ers released Tuesday, according to Matt Maiocco of NBC Sports Bay Area.",
       "metadata": {
-        "analysis": "McCaffrey's status has been a hot topic for nearly a month, particularly after it was reported in mid-August that he was dealing with some sort of \"tightness.\" However, McCaffrey himself said in late August that he always planned to take it easy during training camp, and San Francisco's first injury report of the year confirms he is back at 100 percent. As such, it seems likely he will be able to fill his regular role when the 49ers kick off their season Thursday against the Rams in Australia.",
+        "analysis": "McCaffrey's status has been a hot topic for nearly a month, particularly after it was reported in mid-August that he was dealing with some sort of \"tightness.\" However, McCaffrey himself said in late August that he always planned to take it easy during training camp, and San Francisco's first injury report of the year confirms he is back at 100 percent. As such, it seems likely he will be able to fill his regular role when the 49ers kick off their season against the Rams in Australia.",
         "description": "McCaffrey (undisclosed) was not listed on the injury report the 49ers released Tuesday, according to Matt Maiocco of NBC Sports Bay Area.",
         "title": "Christian McCaffrey - Not listed on injury report",
         "topic_id": "1403183483001524224"
@@ -380,6 +401,46 @@
       "story_id": "nfl|11571|rotowire|636397|1788893685000",
       "title": "Isaiah Davis - Partakes in practice Tuesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams tight end Terrance Ferguson is not listed on the injury report ahead of Thursday's game against the San Francisco 49ers, Josh Dobow reports. Ferguson is ready to go after being sidelined during recent practices due to an ongoing soreness issue. The 23-year-old is one of the more intriguing tight end stashes this upcoming season. The Rams used a second-round pick on Ferguson during the 2025 draft. He saw limited usage last season, but is expected to take a step forward in 2026. The Rams do have a handful of options at tight end, but Ferguson is looking like the best of the bunch. He could pay off big time for fantasy managers if they're willing to be patient with him",
+      "metadata": {
+        "description": "Los Angeles Rams tight end Terrance Ferguson is not listed on the injury report ahead of Thursday's game against the San Francisco 49ers, Josh Dobow reports. Ferguson is ready to go after being sidelined during recent practices due to an ongoing soreness issue. The 23-year-old is one of the more intriguing tight end stashes this upcoming season. The Rams used a second-round pick on Ferguson during the 2025 draft. He saw limited usage last season, but is expected to take a step forward in 2026. The Rams do have a handful of options at tight end, but Ferguson is looking like the best of the bunch. He could pay off big time for fantasy managers if they're willing to be patient with him",
+        "title": "Terrance Ferguson is Not Listed on Injury Report",
+        "topic_id": "1403185997776203776",
+        "url": "https://www.rotoballer.com/player-news/terrance-ferguson-is-not-listed-on-injury-report/1926240"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12487",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "published": 1788893291000,
+      "source": "rotoballer",
+      "source_key": "220389",
+      "story_id": "nfl|12487|rotoballer|220389|1788893291000",
+      "title": "Terrance Ferguson is Not Listed on Injury Report",
+      "url": "https://www.rotoballer.com/player-news/terrance-ferguson-is-not-listed-on-injury-report/1926240"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Jordyn Tyson (hamstring) won't be ready for the season opener against the Detroit Lions. The Saints were forced to place Tyson on the Injured Reserve due to a hamstring injury. The Saints expect the rookie wideout to miss roughly two months of action. Once he's cleared to play, Tyson figures to be a focal point in the Saints' passing game. The fact that Tyson won't be ready for at least the first four games of the season is obviously dropping his draft stock. Although fantasy managers should strongly consider snagging Tyson in the later rounds if he's available. He's a high-upside prospect who could be a difference maker for fantasy managers in a few months.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Jordyn Tyson (hamstring) won't be ready for the season opener against the Detroit Lions. The Saints were forced to place Tyson on the Injured Reserve due to a hamstring injury. The Saints expect the rookie wideout to miss roughly two months of action. Once he's cleared to play, Tyson figures to be a focal point in the Saints' passing game. The fact that Tyson won't be ready for at least the first four games of the season is obviously dropping his draft stock. Although fantasy managers should strongly consider snagging Tyson in the later rounds if he's available. He's a high-upside prospect who could be a difference maker for fantasy managers in a few months.",
+        "title": "Jordyn Tyson is a Late-Round Stash Option",
+        "topic_id": "1403184738180534272",
+        "url": "https://www.rotoballer.com/player-news/jordyn-tyson-is-a-late-round-stash-option/1926229"
+      },
+      "nfl_team": "NO",
+      "player_id": "13281",
+      "player_name": "Jordyn Tyson",
+      "position": "WR",
+      "published": 1788892809000,
+      "source": "rotoballer",
+      "source_key": "220388",
+      "story_id": "nfl|13281|rotoballer|220388|1788892809000",
+      "title": "Jordyn Tyson is a Late-Round Stash Option",
+      "url": "https://www.rotoballer.com/player-news/jordyn-tyson-is-a-late-round-stash-option/1926229"
     },
     {
       "analysis": null,

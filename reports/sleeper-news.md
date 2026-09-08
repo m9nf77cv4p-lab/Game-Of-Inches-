@@ -2,13 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2225**
-- Newly captured: **2**
+- Stored stories: **2228**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Christian McCaffrey** — Christian McCaffrey - Not listed on injury report (2026-09-08T22:39:55Z)
-  - McCaffrey's status has been a hot topic for nearly a month, particularly after it was reported in mid-August that he was dealing with some sort of "tightness." However, McCaffrey himself said in late August that he always planned to take it easy during training camp, and San Francisco's first injury report of the year confirms he is back at 100 percent. As such, it seems likely he will be able to fill his regular role when the 49ers kick off their season Thursday against the Rams in Australia.
+- **NEW — George Kittle** — George Kittle - Listed as limited participant (2026-09-08T22:54:09Z)
+  - Kittle has been practicing regularly since being activated from the active/PUP list a little over two weeks ago, and although he seemingly did not take part in every drill Tuesday, he was able to get at least some work in at San Francisco's first official practice session of the week. He could wind up a full participant before kickoff, and even still the door remains open for him to suit up for Week 1.
+- **Christian McCaffrey** — Christian McCaffrey - Not listed on injury report (2026-09-08T22:39:55Z)
+  - McCaffrey's status has been a hot topic for nearly a month, particularly after it was reported in mid-August that he was dealing with some sort of "tightness." However, McCaffrey himself said in late August that he always planned to take it easy during training camp, and San Francisco's first injury report of the year confirms he is back at 100 percent. As such, it seems likely he will be able to fill his regular role when the 49ers kick off their season against the Rams in Australia.
 - **Puka Nacua** — Puka Nacua not listed on Rams first injury report (2026-09-08T22:35:22.707000Z)
   - Puka has been dealing with a psoas injury for a little over a week, but his absence on the injury report is a big indication that barring a setback, he will play on Thursday. The star receiver should be a full go and lock into fantasy lineups.
   - Source: https://www.fantasypros.com/nfl/news/606631/puka-nacua-not-listed-on-rams-first-injury-report.php
@@ -50,7 +52,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606576/jeremiyah-love-listed-rb2-on-cardinals-depth-chart.php
 - **Isaiah Davis** — Isaiah Davis - Partakes in practice Tuesday (2026-09-08T18:54:45Z)
   - Davis' involvement in Tuesday's session bodes well for his chances of being listed as at least a limited participant Wednesday, when the Jets release their first injury report of 2026. The 24-year-old sat out all three of the Jets' preseason games while tending to the knee injury, but if Davis emerges from Week 1 prep without any setbacks, he should be available to serve as the team's No. 3 back behind Breece Hall (groin) and Braelon Allen in Sunday's season opener at Tennessee.
-- **NEW — Sam Darnold** — Sam Darnold Not in Streaming Conversation for Week 1 (2026-09-08T18:37:12Z)
+- **NEW — Terrance Ferguson** — Terrance Ferguson is Not Listed on Injury Report (2026-09-08T18:48:11Z)
+  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-is-not-listed-on-injury-report/1926240
+- **NEW — Jordyn Tyson** — Jordyn Tyson is a Late-Round Stash Option (2026-09-08T18:40:09Z)
+  - Source: https://www.rotoballer.com/player-news/jordyn-tyson-is-a-late-round-stash-option/1926229
+- **Sam Darnold** — Sam Darnold Not in Streaming Conversation for Week 1 (2026-09-08T18:37:12Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-not-in-streaming-conversation-for-week-1/1926227
 - **Malik Willis** — Malik Willis Could Offer Late-Round Value (2026-09-08T18:27:17Z)
   - Source: https://www.rotoballer.com/player-news/malik-willis-could-offer-late-round-value/1926218
@@ -213,10 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tory Horton** — Tory Horton (hamstring) limited in practice Monday  (2026-09-07T21:25:43.834000Z)
   - Horton logged his second straight limited practice. It would still be a surprise if he plays on Wednesday, but it is a good sign nonetheless. 
   - Source: https://www.fantasypros.com/nfl/news/606432/tory-horton-hamstring-limited-practice-monday.php
-- **Keenan Allen** — Is Keenan Allen Still Worth Rostering in Deeper Leagues? (2026-09-07T21:25:06Z)
-  - Source: https://www.rotoballer.com/player-news/is-keenan-allen-still-worth-rostering-in-deeper-league-formats/1925523
-- **Tre Tucker** — Tre Tucker an Appealing Depth Add for Fantasy Managers Ahead of 2026 (2026-09-07T21:16:05Z)
-  - Source: https://www.rotoballer.com/player-news/tre-tucker-an-appealing-depth-add-for-fantasy-managers-ahead-of-2026/1925517
-- **Zach Charbonnet** — Zach Charbonnet (knee) has 'aggressive' return timeline (2026-09-07T21:15:44.064000Z)
-  - Charbonnet is opening the season on the physically unable to perform (PUP) list. He will miss at least four games, but he could be off the PUP list sooner than expected. Macdonald did not disclose specifics on Charbonnet's timeline. The fourth-year running back has scored 20 rushing touchdowns in the last two seasons and tore his ACL in January.
-  - Source: https://www.fantasypros.com/nfl/news/606418/zach-charbonnet-knee-aggressive-return-timeline.php
