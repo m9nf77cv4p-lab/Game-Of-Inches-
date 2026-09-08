@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T14:24:54Z",
+  "last_checked_at": "2026-09-08T14:41:53Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13296|rotoballer|220332|1788862506000",
-    "nfl|7528|rotoballer|220331|1788861545000"
+    "nfl|9486|rotoballer|220334|1788863345000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles wide receiver Dontayvion Wicks is a nice addition to the Eagles receiving core coming from the Green Bay Packers and he could challenge for the No. 2 receiver role in Philadelphia. He could also emerge as a popular early-season waiver wire pickup. The Eagles drafted Makai Lemon out of USC but he might fit in more as a slot receiver with Wicks playing on the outside. Last year in Green Bay, Wicks was in a room full of talented receivers, but he did finish the season with 46 targets and 30 catches for 332 yards and two touchdowns. Reuben Frank of NBC Sports Philadelphia wrote that Wicks could expand his role in Philadelphia to more than a role player. He quoted Eagles wide receivers coach Aaron Moorehead: \"There's nothing that should be holding him back from anything in this league. He can go out here and have as good a year as anybody. Exciting time for him to prove that, 'Hey, I can be more than what I was in Green Bay.'\"",
+      "metadata": {
+        "description": "Philadelphia Eagles wide receiver Dontayvion Wicks is a nice addition to the Eagles receiving core coming from the Green Bay Packers and he could challenge for the No. 2 receiver role in Philadelphia. He could also emerge as a popular early-season waiver wire pickup. The Eagles drafted Makai Lemon out of USC but he might fit in more as a slot receiver with Wicks playing on the outside. Last year in Green Bay, Wicks was in a room full of talented receivers, but he did finish the season with 46 targets and 30 catches for 332 yards and two touchdowns. Reuben Frank of NBC Sports Philadelphia wrote that Wicks could expand his role in Philadelphia to more than a role player. He quoted Eagles wide receivers coach Aaron Moorehead: \"There's nothing that should be holding him back from anything in this league. He can go out here and have as good a year as anybody. Exciting time for him to prove that, 'Hey, I can be more than what I was in Green Bay.'\"",
+        "title": "Dontayvion Wicks Is a Potential Waiver Wire Pickup",
+        "topic_id": "1403060287636000768",
+        "url": "https://www.rotoballer.com/player-news/dontayvion-wicks-is-a-potential-waiver-wire-pickup/1925808"
+      },
+      "nfl_team": "PHI",
+      "player_id": "9486",
+      "player_name": "Dontayvion Wicks",
+      "position": "WR",
+      "published": 1788863345000,
+      "source": "rotoballer",
+      "source_key": "220334",
+      "story_id": "nfl|9486|rotoballer|220334|1788863345000",
+      "title": "Dontayvion Wicks Is a Potential Waiver Wire Pickup",
+      "url": "https://www.rotoballer.com/player-news/dontayvion-wicks-is-a-potential-waiver-wire-pickup/1925808"
+    },
     {
       "analysis": null,
       "description": "Miami Dolphins wide receiver Caleb Douglas had a strong showing in training camp and the preseason, and the rookie has the potential to be the team's top receiver this season. After trading Jaylen Waddle to the Broncos, the Dolphins will count on Douglas, Malik Washington, and Jalen Tolbert as their expected starters. Douglas was a third-round pick out of Texas Tech and brings big-play potential, as he showed with highlight-reel catches throughout the preseason. He may be held back by the run-heavy Dolphins' offense with QB Malik Willis under center, but since he could develop into the team's No. 1 receiver by midseason, he definitely has the upside to be a fantasy factor. If you can stash him off the waiver wire in deep leagues, he's one of the few options with such a large potential role so easily available. He's only the WR84 in RotoBaller's Week 1 rankings, so he isn't a flex option yet, but his later-season potential gives him intriguing upside.",
