@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-08T04:05:01Z",
+  "last_checked_at": "2026-09-08T04:22:53Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13417|rotowire|636380|1788839377000"
+    "nfl|4034|rotowire|636381|1788840026000",
+    "nfl|4217|rotowire|636382|1788840574000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Earlier in the day, 49ers offensive coordinator Klay Kubiak said of Kittle: \"Super impressed with how he's looked considering the injury and how quick he got back on the field. It's cool to me to see how Kittle looks ... Workload will be determined,\" per Cam Inman of The San Jose Mercury News. While that doesn't fully confirm that the star tight end will be ready to play in the season opener against the Rams, the fact that the team seems to be focused on Kittle's gameday workload, rather than his general playing status, suggests that he's more likely than not to suit up. Kubiak did give the caveat that Kittle will need to get through San Francisco's final practices before a decision is ultimately made, and the club's injury reports this week should shed further status on Kittle's level of participation in practice as well as his outlook for the Friday (local time) NFC West clash.",
+      "description": "Kittle (Achilles) is in full uniform for the 49ers' practice session in Melbourne, Australia on Tuesday (local time), Nick Wagoner of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Earlier in the day, 49ers offensive coordinator Klay Kubiak said of Kittle: \"Super impressed with how he's looked considering the injury and how quick he got back on the field. It's cool to me to see how Kittle looks ... Workload will be determined,\" per Cam Inman of The San Jose Mercury News. While that doesn't fully confirm that the star tight end will be ready to play in the season opener against the Rams, the fact that the team seems to be focused on Kittle's gameday workload, rather than his general playing status, suggests that he's more likely than not to suit up. Kubiak did give the caveat that Kittle will need to get through San Francisco's final practices before a decision is ultimately made, and the club's injury reports this week should shed further status on Kittle's level of participation in practice as well as his outlook for the Friday (local time) NFC West clash.",
+        "description": "Kittle (Achilles) is in full uniform for the 49ers' practice session in Melbourne, Australia on Tuesday (local time), Nick Wagoner of ESPN.com reports.",
+        "title": "George Kittle - Looking increasingly likely to play vs. Rams",
+        "topic_id": "1402904248865267712"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788840574000,
+      "source": "rotowire",
+      "source_key": "636382",
+      "story_id": "nfl|4217|rotowire|636382|1788840574000",
+      "title": "George Kittle - Looking increasingly likely to play vs. Rams",
+      "url": null
+    },
+    {
+      "analysis": "McCaffrey wasn't spotted taking part in the early portion of practice Monday, so his presence on the field in full uniform Tuesday is a promising sign for his potential availability for the 49ers' season opener against the Rams. It's been a bit of a mysterious several weeks for McCaffrey, as he was described as dealing with \"tightness\" in early August and didn't play at all in the preseason while being an inconsistent participant in team drills. San Francisco's injury reports this week should shed some light on McCaffrey's status for the matchup against Los Angeles, but to this point he seems more likely than not to play in that contest.",
+      "description": "McCaffrey (undisclosed) is in full uniform for the 49ers' practice session taking place Tuesday afternoon local time in Melbourne, Australia, Nick Wagoner of ESPN.com reports.",
+      "metadata": {
+        "analysis": "McCaffrey wasn't spotted taking part in the early portion of practice Monday, so his presence on the field in full uniform Tuesday is a promising sign for his potential availability for the 49ers' season opener against the Rams. It's been a bit of a mysterious several weeks for McCaffrey, as he was described as dealing with \"tightness\" in early August and didn't play at all in the preseason while being an inconsistent participant in team drills. San Francisco's injury reports this week should shed some light on McCaffrey's status for the matchup against Los Angeles, but to this point he seems more likely than not to play in that contest.",
+        "description": "McCaffrey (undisclosed) is in full uniform for the 49ers' practice session taking place Tuesday afternoon local time in Melbourne, Australia, Nick Wagoner of ESPN.com reports.",
+        "title": "Christian McCaffrey - Fully dressed for second practice of week",
+        "topic_id": "1402901729216843776"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1788840026000,
+      "source": "rotowire",
+      "source_key": "636381",
+      "story_id": "nfl|4034|rotowire|636381|1788840026000",
+      "title": "Christian McCaffrey - Fully dressed for second practice of week",
+      "url": null
+    },
     {
       "analysis": "The practice session is technically taking placing Tuesday afternoon in Melbourne local time, but regardless, Stribling's participation is a positive sign as he looks to rebound from a minor shoulder injury. It remains to be seen what the rookie wideout's level of practice participation will be, but to this point there hasn't been any indication that he's in any danger of missing the season opener versus the Rams. Stribling appears in line for a big role in San Francisco's offense as one of the team's top three wideouts alongside veterans Mike Evans (adductor) and Deebo Samuel.",
       "description": "Stribling (shoulder) is in full uniform for Monday's practice in Melbourne, Australia, Nick Wagoner of ESPN.com reports.",

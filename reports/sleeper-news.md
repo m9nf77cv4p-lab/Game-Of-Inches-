@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2143**
-- Newly captured: **1**
+- Stored stories: **2145**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling - Suited up for practice Monday (2026-09-08T03:49:37Z)
+- **NEW — George Kittle** — George Kittle - Looking increasingly likely to play vs. Rams (2026-09-08T04:09:34Z)
+  - Earlier in the day, 49ers offensive coordinator Klay Kubiak said of Kittle: "Super impressed with how he's looked considering the injury and how quick he got back on the field. It's cool to me to see how Kittle looks ... Workload will be determined," per Cam Inman of The San Jose Mercury News. While that doesn't fully confirm that the star tight end will be ready to play in the season opener against the Rams, the fact that the team seems to be focused on Kittle's gameday workload, rather than his general playing status, suggests that he's more likely than not to suit up. Kubiak did give the caveat that Kittle will need to get through San Francisco's final practices before a decision is ultimately made, and the club's injury reports this week should shed further status on Kittle's level of participation in practice as well as his outlook for the Friday (local time) NFC West clash.
+- **NEW — Christian McCaffrey** — Christian McCaffrey - Fully dressed for second practice of week (2026-09-08T04:00:26Z)
+  - McCaffrey wasn't spotted taking part in the early portion of practice Monday, so his presence on the field in full uniform Tuesday is a promising sign for his potential availability for the 49ers' season opener against the Rams. It's been a bit of a mysterious several weeks for McCaffrey, as he was described as dealing with "tightness" in early August and didn't play at all in the preseason while being an inconsistent participant in team drills. San Francisco's injury reports this week should shed some light on McCaffrey's status for the matchup against Los Angeles, but to this point he seems more likely than not to play in that contest.
+- **De'Zhaun Stribling** — De'Zhaun Stribling - Suited up for practice Monday (2026-09-08T03:49:37Z)
   - The practice session is technically taking placing Tuesday afternoon in Melbourne local time, but regardless, Stribling's participation is a positive sign as he looks to rebound from a minor shoulder injury. It remains to be seen what the rookie wideout's level of practice participation will be, but to this point there hasn't been any indication that he's in any danger of missing the season opener versus the Rams. Stribling appears in line for a big role in San Francisco's offense as one of the team's top three wideouts alongside veterans Mike Evans (adductor) and Deebo Samuel.
 - **Ollie Gordon** — Ollie Gordon - Ditches non-contact jersey (2026-09-07T23:26:10Z)
   - Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Raiders on Sunday, but he could be held out as a precaution. The second-year pro is set to serve as the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the Dolphins arguably have the luxury of giving Gordon an extra week to recover if necessary.
@@ -225,7 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tank-bigsby-a-priority-handcuff-to-target-on-waiver-wire/1925076
 - **Jalen Coker** — Jalen Coker Set for High Receiving Volume in 2026 (2026-09-07T10:22:06Z)
   - Source: https://www.rotoballer.com/player-news/jalen-coker-set-for-high-receiving-volume-in-2026/1925060
-- **Tyjae Spears** — Tyjae Spears a Waiver-Wire Target in PPR Leagues (2026-09-07T10:19:05Z)
-  - Source: https://www.rotoballer.com/player-news/tyjae-spears-a-waiver-wire-target-in-ppr-leagues/1925056
-- **Xavier Worthy** — Xavier Worthy Could Become Top Waiver-Wire Target (2026-09-07T10:00:11Z)
-  - Source: https://www.rotoballer.com/player-news/xavier-worthy-could-become-top-waiver-wire-target-after-injury-plagued-2025/1925044
