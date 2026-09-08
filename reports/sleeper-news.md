@@ -2,22 +2,26 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2174**
-- Newly captured: **5**
+- Stored stories: **2177**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Zay Flowers** — Zay Flowers (lower body) practices Tuesday (2026-09-08T17:15:52.735000Z)
+- **NEW — Rome Odunze** — Rome Odunze - Won't practice Tuesday (2026-09-08T17:17:15Z)
+  - Johnson didn't provide many specifics regarding the right leg injury that Odunze sustained in a practice last Thursday, though the coach noted that the issue isn't an aggravation of the foot injury that kept the wideout sidelined for the final five games of the 2025 regular season, per Courtney Cronin of ESPN.com. Odunze will still have three more chances to fit in some practice activity this week before the Bears decide on his status for Sunday's contest, but at this stage, the the team is optimistic that the third-year receiver will be able to play through the leg injury.
+- **Zay Flowers** — Zay Flowers (lower body) practices Tuesday (2026-09-08T17:15:52.735000Z)
   - Flowers had missed two full weeks of practice with a lower-body injury before returning last Thursday. The wideout being on the field on Tuesday is a good sign for him playing in Week 1, but fantasy managers should keep an eye on him leading up to Sunday. 
   - Source: https://www.fantasypros.com/nfl/news/606565/zay-flowers-lower-body-practices-tuesday.php
-- **NEW — Patrick Mahomes** — Patrick Mahomes II (knee) to start Week 1 barring setback (2026-09-08T17:15:52.286000Z)
+- **Patrick Mahomes** — Patrick Mahomes II (knee) to start Week 1 barring setback (2026-09-08T17:15:52.286000Z)
   - Mahomes has officially worked his way back from a torn ACL and LCL suffered in Week 15 last year. He has said he may not run as much coming off the injury, at least early in the season. 
   - Source: https://www.fantasypros.com/nfl/news/606562/patrick-mahomes-ii-knee-to-start-week-1-barring-setback.php
-- **NEW — Rome Odunze** — Rome Odunze (leg) day-to-day (2026-09-08T17:15:52.256000Z)
+- **Rome Odunze** — Rome Odunze (leg) day-to-day (2026-09-08T17:15:52.256000Z)
   - Odunze will remain absent from practice on Tuesday. He remains hopeful to play on Sunday against the Panthers. 
   - Source: https://www.fantasypros.com/nfl/news/606563/rome-odunze-leg-day-to-day.php
-- **NEW — Zay Flowers** — Zay Flowers - Looks to be practicing fully Tuesday (2026-09-08T17:12:52Z)
-  - With Flowers having missed time on and off recently due to a lower-body issue, his apparent full participation is another positive step toward Week 1. The Ravens' top wide receiver looks to be back on track after he was already expected to be available for the regular-season opener.
+- **NEW — Patrick Mahomes** — Patrick Mahomes - Still on track to start opener (2026-09-08T17:14:59Z)
+  - Mahomes didn't play in any of the Chiefs' preseason games, but he was cleared for 11-on-11 work early in camp and steered clear of any setbacks in his recovery from Dec. 15 surgery to repair a torn ACL and LCL in his left knee. The Chiefs will release their first injury report of 2026 on Thursday, and assuming Mahomes is listed as a full participant, it would confirm that he's on track to start against Denver. Mahomes will likely be playing without one of his top protectors, however, as Reid said that starting left tackle Josh Simmons (back) has a "good chance" of sitting out Week 1, per Matt McMullen of the Chiefs' official site.
+- **Zay Flowers** — Zay Flowers - Looks to be practicing fully Tuesday (2026-09-08T17:12:52Z)
+  - Baltimore won't release its first Week 1 injury report until Wednesday, but assuming Flowers doesn't appear on the report or is listed as a full practice participant, he'll be in the clear to suit up Sunday in Indianapolis. Rewarded with a four-year, $140 million extension earlier this summer, Flowers remains on track to serve as the Ravens' clear No. 1 pass catcher heading into his fourth NFL campaign.
 - **Breece Hall** — Breece Hall (groin) trending towards playing Week 1 (2026-09-08T16:20:52.031000Z)
   - Hall was initially expected to be out two weeks with his groin injury, and this lines up well with his timeline. If he plays, he will be a high-end RB2 with RB1 upside.
   - Source: https://www.fantasypros.com/nfl/news/606556/breece-hall-groin-trending-towards-playing-week-1.php
@@ -27,7 +31,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.
 - **Malachi Fields** — Malachi Fields - Looks set to begin season as No. 2 wideout (2026-09-08T15:18:23Z)
   - The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.
-- **NEW — Rico Dowdle** — Rico Dowdle Listed as RB2 on Steelers' Depth Chart (2026-09-08T12:59:04Z)
+- **NEW — Jalen McMillan** — Jalen McMillan Listed as Starting Receiver for the Bucs (2026-09-08T13:07:06Z)
+  - Source: https://www.rotoballer.com/player-news/jalen-mcmillan-listed-as-starting-receiver-for-the-bucs/1925981
+- **Rico Dowdle** — Rico Dowdle Listed as RB2 on Steelers' Depth Chart (2026-09-08T12:59:04Z)
   - Source: https://www.rotoballer.com/player-news/rico-dowdle-listed-as-rb2-on-steelers-depth-chart/1925979
 - **Jaylen Warren** — Jaylen Warren Listed as Starter on Steelers' Depth Chart (2026-09-08T12:50:05Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-warren-listed-as-starter-on-steelers-depth-chart/1925976
@@ -224,11 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kayshon-boutte-will-be-active-in-week-1-worth-a-look-on-waiver-wire/1925375
 - **Jonathon Brooks** — Jonathon Brooks - Works off to side Monday (2026-09-07T15:35:45Z)
   - Kaye notes that Brooks was spotted doing some running, so he wasn't completely limited to rehab work. According to Joe Person of The Athletic, Panthers head coach Dave Canales expressed optimism last week that Brooks would be ready to play in Sunday's season opener versus the Bears, and the running back's lack of involvement in Monday's practice isn't believed to have changed the Panthers' stance. Brooks missed the entire 2025 campaign after tearing the ACL in his right knee for the second time in his career in December 2024, but he was fully cleared in the spring and saw action in two preseason games.
-- **Michael Penix** — Michael Penix Jr. (knee) to be inactive in Week 1 (2026-09-07T15:35:41.756000Z)
-  - Penix remains without a clear timetable to return to the field. Stefanski declined to put a timeline on when Penix could be ready to take the field. Tua Tagovailoa was named the starter for Week 1. 
-  - Source: https://www.fantasypros.com/nfl/news/606334/michael-penix-jr-knee-to-be-inactive-week-1.php
-- **Jonathon Brooks** — Jonathon Brooks works off to side with trainers Monday (2026-09-07T15:35:41.703000Z)
-  - Head coach Dave Canales said last week that he was "very optimistic" that Brooks would play in Week 1. It remains unclear what the exact injury is that he is dealing with. His status will need to continue to be monitored the rest of the week. 
-  - Source: https://www.fantasypros.com/nfl/news/606338/jonathon-brooks-works-off-to-side-with-trainers-monday.php
-- **Dalton Schultz** — Dalton Schultz a Strong PPR Streamer for Week 1 (2026-09-07T15:32:06Z)
-  - Source: https://www.rotoballer.com/player-news/dalton-schultz-a-strong-ppr-streamer-for-week-1/1925370
