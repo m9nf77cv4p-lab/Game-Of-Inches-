@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T17:56:00Z",
+  "last_checked_at": "2026-09-08T18:14:25Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11581|rotowire|636394|1788889805000",
-    "nfl|4046|rotoballer|220354|1788874627000",
-    "nfl|8155|rotowire|636393|1788889378000"
+    "nfl|9997|rotoballer|220355|1788876126000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,10 +14,10 @@
   },
   "stories": [
     {
-      "analysis": "Though he profiles as the most enticing fantasy option of a backfield group that includes Kaleb Johnson and Chris Brooks, Lloyd doesn't look like he'll be called upon to handle a workhorse role out of the backfield amid Jacobs' absence.",
+      "analysis": "Though he profiles as the most enticing fantasy option of a backfield group that includes Kaleb Johnson and Chris Brooks, Lloyd doesn't look like he'll be called upon to handle a workhorse role out of the backfield amid Jacobs' absence. While Lloyd made it through training camp and the preseason unscathed and showed some dynamism as both a ball carrier and pass catcher, durability was a major concern over his first two NFL seasons; he's thus far been limited to just one career game on account of multiple soft-tissue injuries in addition to an emergency appendectomy. As such, the Packers are unlikely to ask Lloyd to shoulder heavy workloads, especially with Johnson on hand to serve as a between-the-tackles rushing complement and with Brooks available to spell him on passing downs.",
       "description": "Packers offensive coordinator Adam Stenavich suggested Tuesday that Lloyd could be part of a backfield committee to begin the season while Josh Jacobs (personal) remains on the Commissioner's Exempt List, Weston Hodkiewicz of the Packers' official site reports. \"It's gonna be running back by committee for a little bit to see where everyone is at,\" Stenavich said. \"[Lloyd] definitely has explosive ability, playmaking ability.\"",
       "metadata": {
-        "analysis": "Though he profiles as the most enticing fantasy option of a backfield group that includes Kaleb Johnson and Chris Brooks, Lloyd doesn't look like he'll be called upon to handle a workhorse role out of the backfield amid Jacobs' absence.",
+        "analysis": "Though he profiles as the most enticing fantasy option of a backfield group that includes Kaleb Johnson and Chris Brooks, Lloyd doesn't look like he'll be called upon to handle a workhorse role out of the backfield amid Jacobs' absence. While Lloyd made it through training camp and the preseason unscathed and showed some dynamism as both a ball carrier and pass catcher, durability was a major concern over his first two NFL seasons; he's thus far been limited to just one career game on account of multiple soft-tissue injuries in addition to an emergency appendectomy. As such, the Packers are unlikely to ask Lloyd to shoulder heavy workloads, especially with Johnson on hand to serve as a between-the-tackles rushing complement and with Brooks available to spell him on passing downs.",
         "description": "Packers offensive coordinator Adam Stenavich suggested Tuesday that Lloyd could be part of a backfield committee to begin the season while Josh Jacobs (personal) remains on the Commissioner's Exempt List, Weston Hodkiewicz of the Packers' official site reports. \"It's gonna be running back by committee for a little bit to see where everyone is at,\" Stenavich said. \"[Lloyd] definitely has explosive ability, playmaking ability.\"",
         "title": "MarShawn Lloyd - Set to be included in committee",
         "topic_id": "1403110626225590272"
@@ -278,6 +276,26 @@
       "story_id": "nfl|13285|rotowire|636385|1788880703000",
       "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) was seen leading positional drills during the media accessible portion of Tuesday's practice, and beat reporter Jamison Hensley points out that he looks to be operating at full strength after missing two weeks of practice with a lower body ailment. Flowers caught a career-high 86 passes for 1,211 yards on his way to a WR7 finish in 2025, and he returns as a focal point of a Ravens offense looking to get more explosive under new offensive coordinator Declan Doyle. Having never topped five touchdowns in a season, it's possible he has yet to approach his true fantasy ceiling, making Flowers a legitimate WR1 candidate for the second year in a row and a potential value as RotoBaller's WR14.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) was seen leading positional drills during the media accessible portion of Tuesday's practice, and beat reporter Jamison Hensley points out that he looks to be operating at full strength after missing two weeks of practice with a lower body ailment. Flowers caught a career-high 86 passes for 1,211 yards on his way to a WR7 finish in 2025, and he returns as a focal point of a Ravens offense looking to get more explosive under new offensive coordinator Declan Doyle. Having never topped five touchdowns in a season, it's possible he has yet to approach his true fantasy ceiling, making Flowers a legitimate WR1 candidate for the second year in a row and a potential value as RotoBaller's WR14.",
+        "title": "Zay Flowers Goes Through Drills at \"Full Strength\"",
+        "topic_id": "1403113141604261888",
+        "url": "https://www.rotoballer.com/player-news/zay-flowers-goes-through-drills-at-full-strength/1926020"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1788876126000,
+      "source": "rotoballer",
+      "source_key": "220355",
+      "story_id": "nfl|9997|rotoballer|220355|1788876126000",
+      "title": "Zay Flowers Goes Through Drills at \"Full Strength\"",
+      "url": "https://www.rotoballer.com/player-news/zay-flowers-goes-through-drills-at-full-strength/1926020"
     },
     {
       "analysis": null,

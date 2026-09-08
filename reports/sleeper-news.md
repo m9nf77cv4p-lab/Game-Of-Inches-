@@ -2,14 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2182**
-- Newly captured: **3**
+- Stored stories: **2183**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — MarShawn Lloyd** — MarShawn Lloyd - Set to be included in committee (2026-09-08T17:50:05Z)
-  - Though he profiles as the most enticing fantasy option of a backfield group that includes Kaleb Johnson and Chris Brooks, Lloyd doesn't look like he'll be called upon to handle a workhorse role out of the backfield amid Jacobs' absence.
-- **NEW — Breece Hall** — Breece Hall - Involved in Tuesday's practice (2026-09-08T17:42:58Z)
+- **MarShawn Lloyd** — MarShawn Lloyd - Set to be included in committee (2026-09-08T17:50:05Z)
+  - Though he profiles as the most enticing fantasy option of a backfield group that includes Kaleb Johnson and Chris Brooks, Lloyd doesn't look like he'll be called upon to handle a workhorse role out of the backfield amid Jacobs' absence. While Lloyd made it through training camp and the preseason unscathed and showed some dynamism as both a ball carrier and pass catcher, durability was a major concern over his first two NFL seasons; he's thus far been limited to just one career game on account of multiple soft-tissue injuries in addition to an emergency appendectomy. As such, the Packers are unlikely to ask Lloyd to shoulder heavy workloads, especially with Johnson on hand to serve as a between-the-tackles rushing complement and with Brooks available to spell him on passing downs.
+- **Breece Hall** — Breece Hall - Involved in Tuesday's practice (2026-09-08T17:42:58Z)
   - The Jets won't release their first injury report of the season until Wednesday, but Hall's activity at Tuesday's session offers hope that he might be listed as a full participant in practice. Though Hall had been sidelined for or limited in practices over the past three weeks while nursing a minor right groin strain, the expectation is that he'll be ready to handle a lead role out of the backfield in Sunday's season opener versus the Titans.
 - **Kenyon Sadiq** — Kenyon Sadiq - Involved in positional drills (2026-09-08T17:37:23Z)
   - The rookie first-round pick missed nearly all of training camp and the preseason after experiencing a setback in his recovery from hernia surgery, but head coach Aaron Glenn had been optimistic over the past week that Sadiq would be ready to go for the start of the regular season. Sadiq's involvement in positional drills suggests that he remains on track to play in Sunday's game at Tennessee, though the extensive time he missed during the summer means that he'll likely have to settle for a small role off the bat. Mason Taylor looks to be the leading candidate to start and lead the tight-end group in snaps Week 1.
@@ -37,7 +37,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.
 - **Malachi Fields** — Malachi Fields - Looks set to begin season as No. 2 wideout (2026-09-08T15:18:23Z)
   - The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.
-- **NEW — Patrick Mahomes** — Patrick Mahomes on Track to Start Week 1 (2026-09-08T13:37:07Z)
+- **NEW — Zay Flowers** — Zay Flowers Goes Through Drills at "Full Strength" (2026-09-08T14:02:06Z)
+  - Source: https://www.rotoballer.com/player-news/zay-flowers-goes-through-drills-at-full-strength/1926020
+- **Patrick Mahomes** — Patrick Mahomes on Track to Start Week 1 (2026-09-08T13:37:07Z)
   - Source: https://www.rotoballer.com/player-news/patrick-mahomes-on-track-to-start-week-1/1925999
 - **Rome Odunze** — Rome Odunze Won't Practice Tuesday, Bears "Hopeful" for Week 1 (2026-09-08T13:25:05Z)
   - Source: https://www.rotoballer.com/player-news/rome-odunze-wont-practice-tuesday-bears-hopeful-for-week-1/1925989
@@ -227,5 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606350/treveyon-henderson-ankle-not-seen-practicing-monday.php
 - **Woody Marks** — Woody Marks Expected to Share Plenty of Backfield Work (2026-09-07T16:05:06Z)
   - Source: https://www.rotoballer.com/player-news/woody-marks-expected-to-share-plenty-of-backfield-work/1925381
-- **TreVeyon Henderson** — TreVeyon Henderson - Not spotted at Monday's practice (2026-09-07T16:00:13Z)
-  - Henderson was listed as a non-participant on Sunday's injury report, and it appears likely he will receive the same designation a day later. Henderson has not been ruled out for Wednesday's season opener just yet, but his chances of suiting up are seemingly growing slimmer.
