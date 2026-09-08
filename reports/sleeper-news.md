@@ -2,16 +2,27 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2206**
-- Newly captured: **3**
+- Stored stories: **2212**
+- Newly captured: **6**
 
 ## Latest news
 
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson (ankle) ruled out for Week 1 (2026-09-08T21:05:53.555000Z)
+- **NEW — AJ Barner** — AJ Barner (oblique) off injury report Wednesday  (2026-09-08T21:30:22.081000Z)
+  - Barner practiced all week in full. He'll be a TE2 for fantasy managers going into the season. 
+  - Source: https://www.fantasypros.com/nfl/news/606608/aj-barner-oblique-off-injury-report-wednesday.php
+- **NEW — Tory Horton** — Tory Horton (hamstring) listed questionable Wednesday  (2026-09-08T21:20:22.192000Z)
+  - Horton was limited in practice the past few days. His status is up in the air heading into Wednesday. 
+  - Source: https://www.fantasypros.com/nfl/news/606606/tory-horton-hamstring-listed-questionable-wednesday.php
+- **NEW — Baker Mayfield** — Baker Mayfield signs three-year extension with Bucs  (2026-09-08T21:20:21.904000Z)
+  - This move comes out of no where as reports suggested talks between the two sides on an extension weren't going to continue this season. Mayfield lands his extension right before the start of the season. 
+  - Source: https://www.fantasypros.com/nfl/news/606603/baker-mayfield-signs-three-year-extension-with-bucs.php
+- **NEW — Baker Mayfield** — Baker Mayfield - Lands $165M extension with Bucs (2026-09-08T21:19:15Z)
+  - Though Mayfield's self-imposed deadline of the start of training camp for signing a new contract came and went without him coming to terms with the Buccaneers, the two sides revisited extension talks less than a week before the start of the regular season and were able to find common ground on a deal. With the new deal in place, the Buccaneers will avoid losing Mayfield in free agency next offseason and keep him on their books through 2029.
+- **TreVeyon Henderson** — TreVeyon Henderson (ankle) ruled out for Week 1 (2026-09-08T21:05:53.555000Z)
   - Henderson will miss the season opener after being unable to practice to begin the week for head coach Mike Vrabel. Rhamondre Stevenson will see as many touches as he can handle against a strong Seattle front seven Wednesday night.
   - Source: https://www.fantasypros.com/nfl/news/606601/treveyon-henderson-ankle-ruled-out-week-1.php
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Sitting out season opener (2026-09-08T21:05:15Z)
-  - Henderson's absence for Week 1 hardly comes as a surprise after his ankle injury kept him from practicing in any fashion from Sunday through Tuesday. With Henderson sidelined for the opener, Rhamondre Stevenson will have a clear path to earning the bulk of snaps and touches out of the backfield. Corey Kiner will serve as the Stevenson's top understudy, and the Patriots will likely elevate one or both of Lan Larison and Hassan Haskins from the practice squad to add depth at the position.
+- **TreVeyon Henderson** — TreVeyon Henderson - Sitting out season opener (2026-09-08T21:05:15Z)
+  - Henderson's absence for the opener hardly comes as a surprise with his ankle injury having kept him from practicing in any capacity since Aug. 24. With Henderson sidelined for the opener, Rhamondre Stevenson will have a clear path to earning the bulk of snaps and touches out of the backfield. Corey Kiner will serve as the Stevenson's top understudy, and the Patriots will likely elevate one or both of Lan Larison and Hassan Haskins from the practice squad to add depth at the position.
 - **Tory Horton** — Tory Horton - Taking questionable tag into Week 1 (2026-09-08T20:54:50Z)
   - Horton missed the final nine games of the regular season as well as the entirety of the Seahawks' playoff run due to a shin fracture as well as a groin issue, then required offseason surgery to address the injuries. Though he was deemed ready to go for the start of training camp, Horton ended up succumbing to a hamstring injury around the middle of August. Though his hamstring isn't viewed as a long-term concern, Horton had his practice participation managed this week and may not get clearance to suit up Wednesday. If he's able to avoid the inactive list, Horton will likely be in line for a small role as the Seahawks' No. 4 wide receiver behind Jaxon Smith-Njigba, Rashid Shaheed and Cooper Kupp.
 - **Tyler Allgeier** — Tyler Allgeier - No. 1 back on unofficial depth chart (2026-09-08T20:08:23Z)
@@ -36,6 +47,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The Jets won't release their first injury report of the season until Wednesday, but Hall's activity at Tuesday's session offers hope that he might be listed as a full participant in practice. Though Hall had been sidelined for or limited in practices over the past three weeks while nursing a minor right groin strain, the expectation is that he'll be ready to handle a lead role out of the backfield in Sunday's season opener versus the Titans.
 - **Kenyon Sadiq** — Kenyon Sadiq - Involved in positional drills (2026-09-08T17:37:23Z)
   - The rookie first-round pick missed nearly all of training camp and the preseason after experiencing a setback in his recovery from hernia surgery, but head coach Aaron Glenn had been optimistic over the past week that Sadiq would be ready to go for the start of the regular season. Sadiq's involvement in positional drills suggests that he remains on track to play in Sunday's game at Tennessee, though the extensive time he missed during the summer means that he'll likely have to settle for a small role off the bat. Mason Taylor looks to be the leading candidate to start and lead the tight-end group in snaps Week 1.
+- **NEW — Baker Mayfield** — Baker Mayfield, Buccaneers Reach Agreement on Three-Year Extension (2026-09-08T17:24:05Z)
+  - Source: https://www.rotoballer.com/player-news/baker-mayfield-buccaneers-reach-agreement-on-three-year-extension/1926190
 - **Rome Odunze** — Rome Odunze - Won't practice Tuesday (2026-09-08T17:17:15Z)
   - Johnson didn't provide many specifics regarding the right leg injury that Odunze sustained in a practice last Thursday, though the coach noted that the issue isn't an aggravation of the foot injury that kept the wideout sidelined for the final five games of the 2025 regular season, per Courtney Cronin of ESPN.com. Odunze will still have three more chances to fit in some practice activity this week before the Bears decide on his status for Sunday's contest, but at this stage, the the team is optimistic that the third-year receiver will be able to play through the leg injury.
 - **Zay Flowers** — Zay Flowers (lower body) practices Tuesday (2026-09-08T17:15:52.735000Z)
@@ -49,9 +62,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606563/rome-odunze-leg-day-to-day.php
 - **Patrick Mahomes** — Patrick Mahomes - Still on track to start opener (2026-09-08T17:14:59Z)
   - Mahomes didn't play in any of the Chiefs' preseason games, but he was cleared for 11-on-11 work early in camp and steered clear of any setbacks in his recovery from Dec. 15 surgery to repair a torn ACL and LCL in his left knee. The Chiefs will release their first injury report of 2026 on Thursday, and assuming Mahomes is listed as a full participant, it would confirm that he's on track to start against Denver. Mahomes will likely be playing without one of his top protectors, however, as Reid said that starting left tackle Josh Simmons (back) has a "good chance" of sitting out Week 1, per Matt McMullen of the Chiefs' official site.
+- **NEW — MarShawn Lloyd** — MarShawn Lloyd Listed as RB1 on First Depth Chart (2026-09-08T17:14:05Z)
+  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-listed-as-rb1-on-first-depth-chart/1926182
 - **Zay Flowers** — Zay Flowers - Looks to be practicing fully Tuesday (2026-09-08T17:12:52Z)
   - Baltimore won't release its first Week 1 injury report until Wednesday, but assuming Flowers doesn't appear on the report or is listed as a full practice participant, he'll be in the clear to suit up Sunday in Indianapolis. Rewarded with a four-year, $140 million extension earlier this summer, Flowers remains on track to serve as the Ravens' clear No. 1 pass catcher heading into his fourth NFL campaign.
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson Ruled Out for Season Opener on Thursday (2026-09-08T17:07:06Z)
+- **TreVeyon Henderson** — TreVeyon Henderson Ruled Out for Season Opener on Thursday (2026-09-08T17:07:06Z)
   - Source: https://www.rotoballer.com/player-news/treveyon-henderson-ruled-out-for-season-opener-on-thursday/1926176
 - **Alvin Kamara** — Travis Etienne Jr. Listed as Co-Starter With Alvin Kamara (2026-09-08T16:44:05Z)
   - Source: https://www.rotoballer.com/player-news/travis-etienne-jr-listed-as-co-starter-with-alvin-kamara/1926163
@@ -209,20 +224,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - It's unclear if Green would be active as the QB2 over Shedeur Sanders, or if Cleveland would make three quarterbacks active, but the idea is out there to get Green some plays after he showed off his elite athleticism with 66 yards on eight carries in the preseason finale. Green is big and athletic and set positional records at the combine back in February when he ran a 4.36 40-yard dash with a 43.5-inch vertical and 11-foot-2 broad jump. There's an outside chance Green sees playing time as a rookie for a Browns team that is likely looking at another rebuild at the quarterback position.
 - **Alec Pierce** — Alec Pierce - Expected to play Week 1 (2026-09-07T19:50:11Z)
   - Pierce returned to a full practice last week and is nearing 100 percent following ankle surgery earlier in the offseason. While Pierce is expected to play against Baltimore, it's unclear if he'll play his normal allotment of snaps, according to Stephen Holder of ESPN.com. Pierce could be on some sort of snap count, and Ashton Dulin would be in line for additional reps on offense. Pierce is shaping up as a boom-or-bust fantasy bet for Week 1.
-- **Alec Pierce** — Alec Pierce (knee) expected to be ready for Week 1 (2026-09-07T19:45:43.629000Z)
-  - Pierce has continues to increase his workload in team practice without any setbacks, setting up the dynamic pass-catcher to take advantage of his role as the No. 1 wideout alongside tight end Tyler Warren for quarterback Daniel Jones against a tough Ravens defensive unit Sunday.
-  - Source: https://www.fantasypros.com/nfl/news/606405/alec-pierce-knee-expected-to-be-ready-week-1.php
-- **Rome Odunze** — Rome Odunze - Not practicing Monday (2026-09-07T18:48:49Z)
-  - After Odunze exited Thursday's practice with an apparent right leg injury, the wide receiver is opening the Week 1 practice week with an absence. The Bears will release an official practice report Wednesday, and it will be a situation to monitor heading into the weekend for Sunday's season opener against the Panthers. If Odunze can't go against Carolina, Luther Burden (groin) and Colston Loveland would likely see expanded target shares, while Kalif Raymond and rookie Zavion Thomas would be in line for elevated snaps.
-- **D'Andre Swift** — D'Andre Swift at practice Monday  (2026-09-07T18:45:42.981000Z)
-  - Swift left practice early last week due to what was reported to be a cramp. His presence at practice on Monday is a good sign for his status heading into this week's season opener. 
-  - Source: https://www.fantasypros.com/nfl/news/606387/dandre-swift-practice-monday.php
-- **Kyle Monangai** — Kyle Monangai (knee) at practice Monday  (2026-09-07T18:45:42.964000Z)
-  - Monangai was considered week-to-week to end training camp. His presence at practice on Monday gives him a chance to be available for Sunday's season opener. 
-  - Source: https://www.fantasypros.com/nfl/news/606388/kyle-monangai-knee-practice-monday.php
-- **Rome Odunze** — Rome Odunze (leg) misses practice Monday  (2026-09-07T18:45:42.953000Z)
-  - Odunze left practice early last Thursday with an apparent right leg injury. His status for Sunday's season opener is up in the air. 
-  - Source: https://www.fantasypros.com/nfl/news/606389/rome-odunze-leg-misses-practice-monday.php
-- **DK Metcalf** — DK Metcalf practices Monday  (2026-09-07T18:45:42.938000Z)
-  - Metcalf missed time during training camp with an undisclosed injury. He remains on track to be good to go for Sunday's season opener against the Falcons. 
-  - Source: https://www.fantasypros.com/nfl/news/606390/dk-metcalf-practices-monday.php

@@ -1,11 +1,14 @@
 {
-  "last_checked_at": "2026-09-08T21:19:24Z",
+  "last_checked_at": "2026-09-08T21:31:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12529|fantasy_pros|606601|1788901553555",
-    "nfl|12529|rotoballer|220376|1788887226000",
-    "nfl|12529|rotowire|636406|1788901515000"
+    "nfl|11581|rotoballer|220377|1788887645000",
+    "nfl|11603|fantasy_pros|606608|1788903022081",
+    "nfl|12497|fantasy_pros|606606|1788902422192",
+    "nfl|4892|fantasy_pros|606603|1788902421904",
+    "nfl|4892|rotoballer|220378|1788888245000",
+    "nfl|4892|rotowire|636407|1788902355000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +18,89 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Barner practiced all week in full. He'll be a TE2 for fantasy managers going into the season. ",
+      "description": "AJ Barner is off the injury report for Wednesday's game against the Patriots. ",
+      "metadata": {
+        "analysis": "Barner practiced all week in full. He'll be a TE2 for fantasy managers going into the season. ",
+        "description": "AJ Barner is off the injury report for Wednesday's game against the Patriots. ",
+        "title": "AJ Barner (oblique) off injury report Wednesday ",
+        "topic_id": "1403164610894290944",
+        "url": "https://www.fantasypros.com/nfl/news/606608/aj-barner-oblique-off-injury-report-wednesday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11603",
+      "player_name": "AJ Barner",
+      "position": "TE",
+      "published": 1788903022081,
+      "source": "fantasy_pros",
+      "source_key": "606608",
+      "story_id": "nfl|11603|fantasy_pros|606608|1788903022081",
+      "title": "AJ Barner (oblique) off injury report Wednesday ",
+      "url": "https://www.fantasypros.com/nfl/news/606608/aj-barner-oblique-off-injury-report-wednesday.php"
+    },
+    {
+      "analysis": "Horton was limited in practice the past few days. His status is up in the air heading into Wednesday. ",
+      "description": "Tory Horton is listed as questionable for Wednesday's season opener against the Patriots. ",
+      "metadata": {
+        "analysis": "Horton was limited in practice the past few days. His status is up in the air heading into Wednesday. ",
+        "description": "Tory Horton is listed as questionable for Wednesday's season opener against the Patriots. ",
+        "title": "Tory Horton (hamstring) listed questionable Wednesday ",
+        "topic_id": "1403162094777458688",
+        "url": "https://www.fantasypros.com/nfl/news/606606/tory-horton-hamstring-listed-questionable-wednesday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12497",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "published": 1788902422192,
+      "source": "fantasy_pros",
+      "source_key": "606606",
+      "story_id": "nfl|12497|fantasy_pros|606606|1788902422192",
+      "title": "Tory Horton (hamstring) listed questionable Wednesday ",
+      "url": "https://www.fantasypros.com/nfl/news/606606/tory-horton-hamstring-listed-questionable-wednesday.php"
+    },
+    {
+      "analysis": "This move comes out of no where as reports suggested talks between the two sides on an extension weren't going to continue this season. Mayfield lands his extension right before the start of the season. ",
+      "description": "Baker Mayfield and the Buccaneers reached agreement today on a three-year contract extension. ",
+      "metadata": {
+        "analysis": "This move comes out of no where as reports suggested talks between the two sides on an extension weren't going to continue this season. Mayfield lands his extension right before the start of the season. ",
+        "description": "Baker Mayfield and the Buccaneers reached agreement today on a three-year contract extension. ",
+        "title": "Baker Mayfield signs three-year extension with Bucs ",
+        "topic_id": "1403162093573693444",
+        "url": "https://www.fantasypros.com/nfl/news/606603/baker-mayfield-signs-three-year-extension-with-bucs.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "4892",
+      "player_name": "Baker Mayfield",
+      "position": "QB",
+      "published": 1788902421904,
+      "source": "fantasy_pros",
+      "source_key": "606603",
+      "story_id": "nfl|4892|fantasy_pros|606603|1788902421904",
+      "title": "Baker Mayfield signs three-year extension with Bucs ",
+      "url": "https://www.fantasypros.com/nfl/news/606603/baker-mayfield-signs-three-year-extension-with-bucs.php"
+    },
+    {
+      "analysis": "Though Mayfield's self-imposed deadline of the start of training camp for signing a new contract came and went without him coming to terms with the Buccaneers, the two sides revisited extension talks less than a week before the start of the regular season and were able to find common ground on a deal. With the new deal in place, the Buccaneers will avoid losing Mayfield in free agency next offseason and keep him on their books through 2029.",
+      "description": "Mayfield and the Buccaneers agreed Tuesday on a three-year, $165 million contract extension, Adam Schefter and Ian Rapoport of ESPN report.",
+      "metadata": {
+        "analysis": "Though Mayfield's self-imposed deadline of the start of training camp for signing a new contract came and went without him coming to terms with the Buccaneers, the two sides revisited extension talks less than a week before the start of the regular season and were able to find common ground on a deal. With the new deal in place, the Buccaneers will avoid losing Mayfield in free agency next offseason and keep him on their books through 2029.",
+        "description": "Mayfield and the Buccaneers agreed Tuesday on a three-year, $165 million contract extension, Adam Schefter and Ian Rapoport of ESPN report.",
+        "title": "Baker Mayfield - Lands $165M extension with Bucs",
+        "topic_id": "1403163348123582464"
+      },
+      "nfl_team": "TB",
+      "player_id": "4892",
+      "player_name": "Baker Mayfield",
+      "position": "QB",
+      "published": 1788902355000,
+      "source": "rotowire",
+      "source_key": "636407",
+      "story_id": "nfl|4892|rotowire|636407|1788902355000",
+      "title": "Baker Mayfield - Lands $165M extension with Bucs",
+      "url": null
+    },
     {
       "analysis": "Henderson will miss the season opener after being unable to practice to begin the week for head coach Mike Vrabel. Rhamondre Stevenson will see as many touches as he can handle against a strong Seattle front seven Wednesday night.",
       "description": "TreVeyon Henderson (ankle) has been ruled out for Week 1 for the New England Patriots against the Seattle Seahawks according to Ari Meirov.",
@@ -37,10 +123,10 @@
       "url": "https://www.fantasypros.com/nfl/news/606601/treveyon-henderson-ankle-ruled-out-week-1.php"
     },
     {
-      "analysis": "Henderson's absence for Week 1 hardly comes as a surprise after his ankle injury kept him from practicing in any fashion from Sunday through Tuesday. With Henderson sidelined for the opener, Rhamondre Stevenson will have a clear path to earning the bulk of snaps and touches out of the backfield. Corey Kiner will serve as the Stevenson's top understudy, and the Patriots will likely elevate one or both of Lan Larison and Hassan Haskins from the practice squad to add depth at the position.",
+      "analysis": "Henderson's absence for the opener hardly comes as a surprise with his ankle injury having kept him from practicing in any capacity since Aug. 24. With Henderson sidelined for the opener, Rhamondre Stevenson will have a clear path to earning the bulk of snaps and touches out of the backfield. Corey Kiner will serve as the Stevenson's top understudy, and the Patriots will likely elevate one or both of Lan Larison and Hassan Haskins from the practice squad to add depth at the position.",
       "description": "The Patriots ruled out Henderson for Wednesday's season opener versus the Seahawks, Evan Lazar of the Patriots' official site reports.",
       "metadata": {
-        "analysis": "Henderson's absence for Week 1 hardly comes as a surprise after his ankle injury kept him from practicing in any fashion from Sunday through Tuesday. With Henderson sidelined for the opener, Rhamondre Stevenson will have a clear path to earning the bulk of snaps and touches out of the backfield. Corey Kiner will serve as the Stevenson's top understudy, and the Patriots will likely elevate one or both of Lan Larison and Hassan Haskins from the practice squad to add depth at the position.",
+        "analysis": "Henderson's absence for the opener hardly comes as a surprise with his ankle injury having kept him from practicing in any capacity since Aug. 24. With Henderson sidelined for the opener, Rhamondre Stevenson will have a clear path to earning the bulk of snaps and touches out of the backfield. Corey Kiner will serve as the Stevenson's top understudy, and the Patriots will likely elevate one or both of Lan Larison and Hassan Haskins from the practice squad to add depth at the position.",
         "description": "The Patriots ruled out Henderson for Wednesday's season opener versus the Seahawks, Evan Lazar of the Patriots' official site reports.",
         "title": "TreVeyon Henderson - Sitting out season opener",
         "topic_id": "1403159573145124864"
@@ -279,6 +365,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Two-time Pro Bowl quarterback Baker Mayfield and the Tampa Bay Buccaneers agreed to a three-year contract extension worth $165 million on Tuesday that will prevent him from becoming a free agent after the 2026 season, according to Adam Schefter of ESPN and Ian Rapoport of the NFL Network. Mayfield broke off contract talks with the team as training camp opened at the end of July, but with the regular season kicking off this week, a deal was revisited and agreed upon. The 31-year-old veteran was a Pro Bowler in each of his first two seasons in Tampa in 2023 and 2024, but he played through injuries in 2025 and dropped down to 3,693 passing yards, 26 touchdowns, and 11 interceptions in 17 games and failed to make the postseason. Mayfield's fantasy football stock is down overall heading into the 2026 campaign with top wideout Mike Evans now in San Francisco and Emeka Egbuka (toe) and Jalen McMillan (knee) banged up going into the season opener this Sunday. However, he should still be considered a midrange QB2 in superflex leagues, and he has some QB1 upside in Week 1 in a matchup against the Cincinnati Bengals.",
+      "metadata": {
+        "description": "Two-time Pro Bowl quarterback Baker Mayfield and the Tampa Bay Buccaneers agreed to a three-year contract extension worth $165 million on Tuesday that will prevent him from becoming a free agent after the 2026 season, according to Adam Schefter of ESPN and Ian Rapoport of the NFL Network. Mayfield broke off contract talks with the team as training camp opened at the end of July, but with the regular season kicking off this week, a deal was revisited and agreed upon. The 31-year-old veteran was a Pro Bowler in each of his first two seasons in Tampa in 2023 and 2024, but he played through injuries in 2025 and dropped down to 3,693 passing yards, 26 touchdowns, and 11 interceptions in 17 games and failed to make the postseason. Mayfield's fantasy football stock is down overall heading into the 2026 campaign with top wideout Mike Evans now in San Francisco and Emeka Egbuka (toe) and Jalen McMillan (knee) banged up going into the season opener this Sunday. However, he should still be considered a midrange QB2 in superflex leagues, and he has some QB1 upside in Week 1 in a matchup against the Cincinnati Bengals.",
+        "title": "Baker Mayfield, Buccaneers Reach Agreement on Three-Year Extension",
+        "topic_id": "1403164604791599104",
+        "url": "https://www.rotoballer.com/player-news/baker-mayfield-buccaneers-reach-agreement-on-three-year-extension/1926190"
+      },
+      "nfl_team": "TB",
+      "player_id": "4892",
+      "player_name": "Baker Mayfield",
+      "position": "QB",
+      "published": 1788888245000,
+      "source": "rotoballer",
+      "source_key": "220378",
+      "story_id": "nfl|4892|rotoballer|220378|1788888245000",
+      "title": "Baker Mayfield, Buccaneers Reach Agreement on Three-Year Extension",
+      "url": "https://www.rotoballer.com/player-news/baker-mayfield-buccaneers-reach-agreement-on-three-year-extension/1926190"
+    },
+    {
       "analysis": "Johnson didn't provide many specifics regarding the right leg injury that Odunze sustained in a practice last Thursday, though the coach noted that the issue isn't an aggravation of the foot injury that kept the wideout sidelined for the final five games of the 2025 regular season, per Courtney Cronin of ESPN.com. Odunze will still have three more chances to fit in some practice activity this week before the Bears decide on his status for Sunday's contest, but at this stage, the the team is optimistic that the third-year receiver will be able to play through the leg injury.",
       "description": "Head coach Ben Johnson said that Odunze (leg) won't practice Tuesday, but the wide receiver is considered \"more day-to-day,\" and the Bears remain hopeful that he'll play in Sunday's season opener versus the Panthers, Brad Biggs of the Chicago Tribune reports.",
       "metadata": {
@@ -380,6 +486,26 @@
       "story_id": "nfl|4046|rotowire|636390|1788887699000",
       "title": "Patrick Mahomes - Still on track to start opener",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back MarShawn Lloyd was listed as the team's RB1 on their unofficial depth chart going into Week 1 of the regular season this Sunday against the division-rival Minnesota Vikings, according to ESPN's Rob Demovsky. However, offensive coordinator Adam Stenavich said on Tuesday that the Packers' backfield will be a committee approach, with Josh Jacobs unavailable early on due to legal issues. With Jacobs out for the foreseeable future while on the commissioner's exempt list, expect Lloyd, Kaleb Johnson, and Chris Brooks to all be involved at the position. Although Lloyd has played in just one NFL game since being drafted in the third round in 2024 from USC, he is the most enticing fantasy back for the Packers as long as Jacobs is away from the team. Between his speed and athleticism, Lloyd has the skills to become an RB2 for fantasy managers if he stands out over both Johnson and Brooks early on. Going into the team's Week 1 matchup against Minnesota, Lloyd should be viewed as an RB3/flex play in just his second NFL game this weekend.",
+      "metadata": {
+        "description": "Green Bay Packers running back MarShawn Lloyd was listed as the team's RB1 on their unofficial depth chart going into Week 1 of the regular season this Sunday against the division-rival Minnesota Vikings, according to ESPN's Rob Demovsky. However, offensive coordinator Adam Stenavich said on Tuesday that the Packers' backfield will be a committee approach, with Josh Jacobs unavailable early on due to legal issues. With Jacobs out for the foreseeable future while on the commissioner's exempt list, expect Lloyd, Kaleb Johnson, and Chris Brooks to all be involved at the position. Although Lloyd has played in just one NFL game since being drafted in the third round in 2024 from USC, he is the most enticing fantasy back for the Packers as long as Jacobs is away from the team. Between his speed and athleticism, Lloyd has the skills to become an RB2 for fantasy managers if he stands out over both Johnson and Brooks early on. Going into the team's Week 1 matchup against Minnesota, Lloyd should be viewed as an RB3/flex play in just his second NFL game this weekend.",
+        "title": "MarShawn Lloyd Listed as RB1 on First Depth Chart",
+        "topic_id": "1403162087802298368",
+        "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-listed-as-rb1-on-first-depth-chart/1926182"
+      },
+      "nfl_team": "GB",
+      "player_id": "11581",
+      "player_name": "MarShawn Lloyd",
+      "position": "RB",
+      "published": 1788887645000,
+      "source": "rotoballer",
+      "source_key": "220377",
+      "story_id": "nfl|11581|rotoballer|220377|1788887645000",
+      "title": "MarShawn Lloyd Listed as RB1 on First Depth Chart",
+      "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-listed-as-rb1-on-first-depth-chart/1926182"
     },
     {
       "analysis": "Baltimore won't release its first Week 1 injury report until Wednesday, but assuming Flowers doesn't appear on the report or is listed as a full practice participant, he'll be in the clear to suit up Sunday in Indianapolis. Rewarded with a four-year, $140 million extension earlier this summer, Flowers remains on track to serve as the Ravens' clear No. 1 pass catcher heading into his fourth NFL campaign.",
