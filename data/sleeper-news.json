@@ -1,13 +1,8 @@
 {
-  "last_checked_at": "2026-09-08T05:22:01Z",
+  "last_checked_at": "2026-09-08T09:53:07Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|11618|rotoballer|220324|1788829031000",
-    "nfl|12509|rotoballer|220326|1788830227000",
-    "nfl|13337|rotoballer|220323|1788829274000",
-    "nfl|4034|rotoballer|220325|1788829027000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -43215,26 +43210,6 @@
       "story_id": "nfl|6801|rotoballer|218237|1786276868000",
       "title": "Tee Higgins Returns to Practice on Sunday",
       "url": "https://www.rotoballer.com/player-news/tee-higgins-returns-to-practice-on-sunday/1905792"
-    },
-    {
-      "analysis": null,
-      "description": "Seattle Seahawks tight end Elijah Arroyo dealt with injuries as a rookie that prevented him from building any true consistency, but now fully healthy in his second professional training camp, the 2025 second-round pick has put his playmaking abilities on full display. After Arroyo made a contested touchdown grab in the team's annual Football Fest scrimmage, head coach Mike Macdonald spoke on his upside, telling reporters, \"When Elijah's been out there, he's been productive for us... It's not a fault of his own that sometimes he's gotten nicked up, but if he can continue this trend of having a routine, attacking the details, making those marginal gains every day, then this is the type of stuff that he's capable of, and he can take it even further.\" While cautioning against drawing too much from two weeks of practice, Macdonald himself then raised the bar by saying, \"Let's blow the roof off of the expectations for what you can do, and let's go get it.\" Arroyo is RotoBaller's dynasty TE30 and a player to pay attention to as a potential breakout candidate.",
-      "metadata": {
-        "description": "Seattle Seahawks tight end Elijah Arroyo dealt with injuries as a rookie that prevented him from building any true consistency, but now fully healthy in his second professional training camp, the 2025 second-round pick has put his playmaking abilities on full display. After Arroyo made a contested touchdown grab in the team's annual Football Fest scrimmage, head coach Mike Macdonald spoke on his upside, telling reporters, \"When Elijah's been out there, he's been productive for us... It's not a fault of his own that sometimes he's gotten nicked up, but if he can continue this trend of having a routine, attacking the details, making those marginal gains every day, then this is the type of stuff that he's capable of, and he can take it even further.\" While cautioning against drawing too much from two weeks of practice, Macdonald himself then raised the bar by saying, \"Let's blow the roof off of the expectations for what you can do, and let's go get it.\" Arroyo is RotoBaller's dynasty TE30 and a player to pay attention to as a potential breakout candidate.",
-        "title": "Elijah Arroyo Primed to \"Blow the Roof Off\"",
-        "topic_id": "1392178491973193728",
-        "url": "https://www.rotoballer.com/player-news/elijah-arroyo-primed-to-blow-the-roof-off/1905694"
-      },
-      "nfl_team": "SEA",
-      "player_id": "12521",
-      "player_name": "Elijah Arroyo",
-      "position": "TE",
-      "published": 1786269006000,
-      "source": "rotoballer",
-      "source_key": "218225",
-      "story_id": "nfl|12521|rotoballer|218225|1786269006000",
-      "title": "Elijah Arroyo Primed to \"Blow the Roof Off\"",
-      "url": "https://www.rotoballer.com/player-news/elijah-arroyo-primed-to-blow-the-roof-off/1905694"
     }
   ]
 }

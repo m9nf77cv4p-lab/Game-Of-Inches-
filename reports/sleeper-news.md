@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2151**
-- Newly captured: **4**
+- Stored stories: **2150**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -13,13 +13,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - McCaffrey wasn't spotted taking part in the early portion of practice Monday, so his presence on the field in full uniform Tuesday is a promising sign for his potential availability for the 49ers' season opener against the Rams. It's been a bit of a mysterious several weeks for McCaffrey, as he was described as dealing with "tightness" in early August and didn't play at all in the preseason while being an inconsistent participant in team drills. San Francisco's injury reports this week should shed some light on McCaffrey's status for the matchup against Los Angeles, but to this point he seems more likely than not to play in that contest.
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Suited up for practice Monday (2026-09-08T03:49:37Z)
   - The practice session is technically taking placing Tuesday afternoon in Melbourne local time, but regardless, Stribling's participation is a positive sign as he looks to rebound from a minor shoulder injury. It remains to be seen what the rookie wideout's level of practice participation will be, but to this point there hasn't been any indication that he's in any danger of missing the season opener versus the Rams. Stribling appears in line for a big role in San Francisco's offense as one of the team's top three wideouts alongside veterans Mike Evans (adductor) and Deebo Samuel.
-- **NEW — Tre' Harris** — Tre' Harris Should Produce in Chargers Offense (2026-09-08T01:17:07Z)
+- **Tre' Harris** — Tre' Harris Should Produce in Chargers Offense (2026-09-08T01:17:07Z)
   - Source: https://www.rotoballer.com/player-news/tre-harris-should-produce-in-chargers-offense/1925612
-- **NEW — Emmett Johnson** — Emmett Johnson Worth Rostering as Handcuff in Powerful Offense (2026-09-08T01:01:14Z)
+- **Emmett Johnson** — Emmett Johnson Worth Rostering as Handcuff in Powerful Offense (2026-09-08T01:01:14Z)
   - Source: https://www.rotoballer.com/player-news/emmett-johnson-worth-rostering-as-handcuff-in-powerful-offense/1925608
-- **NEW — Jalen McMillan** — Jalen McMillan's Experience an Advantage in Depth-Chart Competition (2026-09-08T00:57:11Z)
+- **Jalen McMillan** — Jalen McMillan's Experience an Advantage in Depth-Chart Competition (2026-09-08T00:57:11Z)
   - Source: https://www.rotoballer.com/player-news/jalen-mcmillans-experience-an-advantage-in-depth-chart-competition/1925605
-- **NEW — Christian McCaffrey** — Christian McCaffrey in Full Uniform for Tuesday's practice in Australia (2026-09-08T00:57:07Z)
+- **Christian McCaffrey** — Christian McCaffrey in Full Uniform for Tuesday's practice in Australia (2026-09-08T00:57:07Z)
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-in-full-uniform-for-tuesdays-practice-in-australia/1925603
 - **De'Zhaun Stribling** — De'Zhaun Stribling in Full Uniform for Practice (2026-09-08T00:51:42Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-in-full-uniform-for-practice/1925601
