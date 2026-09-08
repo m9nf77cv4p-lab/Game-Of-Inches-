@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T20:25:04Z",
+  "last_checked_at": "2026-09-08T20:40:25Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11370|rotoballer|220370|1788883534000",
-    "nfl|11637|rotoballer|220369|1788883631000",
-    "nfl|8132|rotowire|636401|1788898103000"
+    "nfl|13311|rotoballer|220372|1788884629000"
   ],
   "schema_version": 1,
   "source": {
@@ -339,6 +337,26 @@
       "story_id": "nfl|9997|rotowire|636389|1788887572000",
       "title": "Zay Flowers - Looks to be practicing fully Tuesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "On the Miami Dolphins' updated unofficial depth chart after final 53-man roster cuts, rookie wide receiver Chris Bell is listed as a starter alongside Malik Washington and Jalen Tolbert, according to David Furones of the South Florida Sun-Sentinel. Fantasy managers should always take depth-chart information with a grain of salt, but Bell will enter the Week 1 regular-season opener against the Las Vegas Raiders on Sunday with a key role in Miami's new-look offense led by quarterback Malik Willis. Bell had an eventful training camp this summer after initially opening on the Physically Unable to Perform list due to the ACL tear that he suffered in his final college season at Louisville in 2025. He looked good in his lone preseason performance and will have an opportunity to produce right away in his first year in the NFL in the shallowest WR corps in the NFL. Bell is still a better bench stash in dynasty/keeper leagues for his long-term upside, but if he has a bigger role than expected on offense early in the season, he could quickly become a priority waiver-wire target in deeper single-year leagues. He is currently rostered in only 5% of Yahoo leagues.",
+      "metadata": {
+        "description": "On the Miami Dolphins' updated unofficial depth chart after final 53-man roster cuts, rookie wide receiver Chris Bell is listed as a starter alongside Malik Washington and Jalen Tolbert, according to David Furones of the South Florida Sun-Sentinel. Fantasy managers should always take depth-chart information with a grain of salt, but Bell will enter the Week 1 regular-season opener against the Las Vegas Raiders on Sunday with a key role in Miami's new-look offense led by quarterback Malik Willis. Bell had an eventful training camp this summer after initially opening on the Physically Unable to Perform list due to the ACL tear that he suffered in his final college season at Louisville in 2025. He looked good in his lone preseason performance and will have an opportunity to produce right away in his first year in the NFL in the shallowest WR corps in the NFL. Bell is still a better bench stash in dynasty/keeper leagues for his long-term upside, but if he has a bigger role than expected on offense early in the season, he could quickly become a priority waiver-wire target in deeper single-year leagues. He is currently rostered in only 5% of Yahoo leagues.",
+        "title": "Chris Bell Listed as Starting Receiver for Dolphins",
+        "topic_id": "1403149634985050112",
+        "url": "https://www.rotoballer.com/player-news/chris-bell-listed-as-starting-receiver-for-dolphins/1926144"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1788884629000,
+      "source": "rotoballer",
+      "source_key": "220372",
+      "story_id": "nfl|13311|rotoballer|220372|1788884629000",
+      "title": "Chris Bell Listed as Starting Receiver for Dolphins",
+      "url": "https://www.rotoballer.com/player-news/chris-bell-listed-as-starting-receiver-for-dolphins/1926144"
     },
     {
       "analysis": "Hall was initially expected to be out two weeks with his groin injury, and this lines up well with his timeline. If he plays, he will be a high-end RB2 with RB1 upside.",

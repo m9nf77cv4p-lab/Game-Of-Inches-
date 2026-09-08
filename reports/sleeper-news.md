@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2199**
-- Newly captured: **3**
+- Stored stories: **2200**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Tyler Allgeier** — Tyler Allgeier - No. 1 back on unofficial depth chart (2026-09-08T20:08:23Z)
+- **Tyler Allgeier** — Tyler Allgeier - No. 1 back on unofficial depth chart (2026-09-08T20:08:23Z)
   - Head coach Mike LaFleur expressed optimism Tuesday that Jeremiyah Love would be ready to play Sunday after suffering a high-ankle sprain in the Cardinals' preseason opener, but the No. 3 overall pick in April's draft isn't expected to handle a workhorse role right away coming off the injury. While Love should emerge as the clear No. 1 option once he's further removed from the injury, Allgeier appears well-positioned to have a meaningful role in the Week 1 game plan, regardless of whether he ends up starting or not.
 - **Jeremiyah Love** — Jeremiyah Love - Listed second on unofficial depth chart (2026-09-08T19:51:20Z)
   - The No. 3 overall pick in the April's draft, Love will eventually settle in as the unquestioned No. 1 option on the depth chart, but the Cardinals could look to ease him into NFL action while he works his way back from the high-ankle sprain he sustained Aug. 13 in the preseason opener against the Raiders. Head coach Mike LaFleur said Monday that he's optimistic Love will be available Sunday, though even if he manages to practice without limitations by the end of the week, the 21-year-old seems likely to share the load with Allgeier. Love should handle a larger portion of the snaps and touches out of the backfield once his ankle injury fades further in the rear-view mirror.
@@ -44,14 +44,16 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Mahomes didn't play in any of the Chiefs' preseason games, but he was cleared for 11-on-11 work early in camp and steered clear of any setbacks in his recovery from Dec. 15 surgery to repair a torn ACL and LCL in his left knee. The Chiefs will release their first injury report of 2026 on Thursday, and assuming Mahomes is listed as a full participant, it would confirm that he's on track to start against Denver. Mahomes will likely be playing without one of his top protectors, however, as Reid said that starting left tackle Josh Simmons (back) has a "good chance" of sitting out Week 1, per Matt McMullen of the Chiefs' official site.
 - **Zay Flowers** — Zay Flowers - Looks to be practicing fully Tuesday (2026-09-08T17:12:52Z)
   - Baltimore won't release its first Week 1 injury report until Wednesday, but assuming Flowers doesn't appear on the report or is listed as a full practice participant, he'll be in the clear to suit up Sunday in Indianapolis. Rewarded with a four-year, $140 million extension earlier this summer, Flowers remains on track to serve as the Ravens' clear No. 1 pass catcher heading into his fourth NFL campaign.
+- **NEW — Chris Bell** — Chris Bell Listed as Starting Receiver for Dolphins (2026-09-08T16:23:49Z)
+  - Source: https://www.rotoballer.com/player-news/chris-bell-listed-as-starting-receiver-for-dolphins/1926144
 - **Breece Hall** — Breece Hall (groin) trending towards playing Week 1 (2026-09-08T16:20:52.031000Z)
   - Hall was initially expected to be out two weeks with his groin injury, and this lines up well with his timeline. If he plays, he will be a high-end RB2 with RB1 upside.
   - Source: https://www.fantasypros.com/nfl/news/606556/breece-hall-groin-trending-towards-playing-week-1.php
 - **Breece Hall** — Breece Hall - Trending toward playing Week 1 (2026-09-08T16:19:22Z)
   - Hall sustained a minor right groin strain during an Aug. 17 practice, and though he didn't return to full team drills before the end of the preseason, the running back looks like he's on track to be available for the start of the regular season. The Jets will publish their first injury report of 2026 following practice Wednesday, when it will be known whether Hall is a full or limited participant. Assuming Hall progresses to full practice workload by the end of the week, he should be ready to handle a three-down workload out of the New York backfield Sunday.
-- **NEW — Keon Coleman** — Keon Coleman Listed as a Starter on Bills' Depth Chart (2026-09-08T16:07:11Z)
+- **Keon Coleman** — Keon Coleman Listed as a Starter on Bills' Depth Chart (2026-09-08T16:07:11Z)
   - Source: https://www.rotoballer.com/player-news/keon-coleman-listed-as-a-starter-on-bills-depth-chart/1926131
-- **NEW — Chris Brooks** — Chris Brooks Has a Real Opening in Green Bay's Backfield (2026-09-08T16:05:34Z)
+- **Chris Brooks** — Chris Brooks Has a Real Opening in Green Bay's Backfield (2026-09-08T16:05:34Z)
   - Source: https://www.rotoballer.com/player-news/chris-brooks-has-a-real-opening-in-green-bays-backfield/1926125
 - **Makai Lemon** — Makai Lemon - Listed as starting receiver, punt returner (2026-09-08T15:54:17Z)
   - Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.
@@ -224,5 +226,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-an-intriguing-rookie-waiver-stash-in-denvers-backfield/1925443
 - **Terrance Ferguson** — Terrance Ferguson One of the Best Upside TE Stashes Off the Waiver Wire (2026-09-07T18:17:15Z)
   - Source: https://www.rotoballer.com/player-news/terrance-ferguson-one-of-the-best-upside-te-stashes-off-the-waiver-wire/1925436
-- **Jalen McMillan** — Jalen McMillan - On field for Monday's practice (2026-09-07T18:15:23Z)
-  - Both McMillan and Emeka Egbuka (toe) were participating in Monday's session, putting both in good position to play Sunday against the Bengals. McMillan missed most of training camp, but his injury never sounded serious. He's expected to compete with rookie Ted Hurst for WR3 duties behind Egbuka and Chris Godwin this season. McMillan is the favorite to open the campaign in three-wide sets.
