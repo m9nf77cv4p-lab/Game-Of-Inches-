@@ -1,10 +1,12 @@
 {
-  "last_checked_at": "2026-09-08T19:18:49Z",
+  "last_checked_at": "2026-09-08T19:44:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13287|rotoballer|220362|1788879726000",
-    "nfl|8132|fantasy_pros|606577|1788894352756"
+    "nfl|11571|rotoballer|220365|1788881345000",
+    "nfl|13311|rotowire|636398|1788896002000",
+    "nfl|7600|rotoballer|220364|1788880866000",
+    "nfl|8132|rotoballer|220363|1788880445000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +16,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Though team-issued depth charts don't always reflect how players will be used once the season gets underway, Bell's listing in a top-three role could be noteworthy. Miami had previously listed Jalen Tolbert along with Malik Washington and Caleb Douglas as Miami's starting receiver trio, but Bell may have shown enough during his lone preseason appearance to leapfrog Tolbert in the pecking order. After opening training camp on the non-football injury list while he recovered from the ACL tear he sustained during his final collegiate season at Louisville, Bell joined the Dolphins for practice Aug. 17 and shined in his lone preseason appearance just under two weeks later, reeling in two of five targets for 22 yards in a 17-12 loss to the Falcons. If Bell does in fact start Week 1, the Dolphins could still look to limit his snaps to some degree while he works to regain full conditioning coming off knee surgery.",
+      "description": "The Dolphins list Bell as one of three starting wide receivers on their unofficial depth chart released in advance of Sunday's season opener versus the Raiders, Joe Schad of The Palm Beach Post reports.",
+      "metadata": {
+        "analysis": "Though team-issued depth charts don't always reflect how players will be used once the season gets underway, Bell's listing in a top-three role could be noteworthy. Miami had previously listed Jalen Tolbert along with Malik Washington and Caleb Douglas as Miami's starting receiver trio, but Bell may have shown enough during his lone preseason appearance to leapfrog Tolbert in the pecking order. After opening training camp on the non-football injury list while he recovered from the ACL tear he sustained during his final collegiate season at Louisville, Bell joined the Dolphins for practice Aug. 17 and shined in his lone preseason appearance just under two weeks later, reeling in two of five targets for 22 yards in a 17-12 loss to the Falcons. If Bell does in fact start Week 1, the Dolphins could still look to limit his snaps to some degree while he works to regain full conditioning coming off knee surgery.",
+        "description": "The Dolphins list Bell as one of three starting wide receivers on their unofficial depth chart released in advance of Sunday's season opener versus the Raiders, Joe Schad of The Palm Beach Post reports.",
+        "title": "Chris Bell - Gets starter listing on depth chart",
+        "topic_id": "1403135795761549312"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1788896002000,
+      "source": "rotowire",
+      "source_key": "636398",
+      "story_id": "nfl|13311|rotowire|636398|1788896002000",
+      "title": "Chris Bell - Gets starter listing on depth chart",
+      "url": null
+    },
     {
       "analysis": "Allgeier was listed as the starter ahead of rookie Jeremiyah Love after a training camp battle. Love has also been making his way back from an ankle sprain, which could be why Allgeier sees more carries in the early part of the season. If he does indeed get the start on Sunday, Allgeier could be an RB3 or deeper flex option in fantasy.",
       "description": "Tyler Allgeier was listed as the starting running back on the Cardinals' Week 1 depth chart.",
@@ -321,6 +343,46 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "New York Jets running back Isaiah Davis (knee) is taking part in RB drills at practice on Tuesday, according to Al Iannazzone of Newsday Sports. Davis missed the entire preseason because of his knee injury and is expected to open the 2026 campaign as the RB3 in New York behind Breece Hall (groin) and Braelon Allen if he is healthy enough to suit up for the Week 1 regular-season opener on Sunday against the Tennessee Titans. That role will not make Davis very appealing to fantasy managers in any league format to start the new season. The 24-year-old former fifth-round selection in the 2024 NFL Draft out of South Dakota State has averaged a healthy 5.6 yards per carry in his first two NFL seasons, but it has amounted to only 73 carries for 410 yards and two touchdowns on the ground in 33 games (zero starts). Davis has added 30 receptions for 261 yards and another score through the air. Davis needs Hall to miss time with an injury to become a waiver-wire target. We will have a better idea of Davis' Week 1 status once the Jets begin to release their official practice reports on Wednesday.",
+      "metadata": {
+        "description": "New York Jets running back Isaiah Davis (knee) is taking part in RB drills at practice on Tuesday, according to Al Iannazzone of Newsday Sports. Davis missed the entire preseason because of his knee injury and is expected to open the 2026 campaign as the RB3 in New York behind Breece Hall (groin) and Braelon Allen if he is healthy enough to suit up for the Week 1 regular-season opener on Sunday against the Tennessee Titans. That role will not make Davis very appealing to fantasy managers in any league format to start the new season. The 24-year-old former fifth-round selection in the 2024 NFL Draft out of South Dakota State has averaged a healthy 5.6 yards per carry in his first two NFL seasons, but it has amounted to only 73 carries for 410 yards and two touchdowns on the ground in 33 games (zero starts). Davis has added 30 receptions for 261 yards and another score through the air. Davis needs Hall to miss time with an injury to become a waiver-wire target. We will have a better idea of Davis' Week 1 status once the Jets begin to release their official practice reports on Wednesday.",
+        "title": "Isaiah Davis Takes Part in RB Drills on Tuesday",
+        "topic_id": "1403135793282695168",
+        "url": "https://www.rotoballer.com/player-news/isaiah-davis-takes-part-in-rb-drills-on-tuesday/1926091"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "11571",
+      "player_name": "Isaiah Davis",
+      "position": "RB",
+      "published": 1788881345000,
+      "source": "rotoballer",
+      "source_key": "220365",
+      "story_id": "nfl|11571|rotoballer|220365|1788881345000",
+      "title": "Isaiah Davis Takes Part in RB Drills on Tuesday",
+      "url": "https://www.rotoballer.com/player-news/isaiah-davis-takes-part-in-rb-drills-on-tuesday/1926091"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers tight end Pat Freiermuth is still easy to find on waiver wires, but Week 1 is not the spot to get cute. He caught 41 passes for 486 yards and four touchdowns on 54 targets last season, and while Jonnu Smith is gone, Pittsburgh added Michael Pittman Jr. to a group that already includes DK Metcalf and Roman Wilson. Freiermuth is still the starting tight end, so there is at least a path to more work than he saw in 2025. The matchup is the problem. Atlanta allowed the third-fewest fantasy points to tight ends last season, and the current Week 1 rankings have Freiermuth at TE25. He is rostered in only 6% of Yahoo leagues and is best viewed as a 14-team option for now. In a 10- or 12-team league, there are better tight ends to chase before Sunday.",
+      "metadata": {
+        "description": "Pittsburgh Steelers tight end Pat Freiermuth is still easy to find on waiver wires, but Week 1 is not the spot to get cute. He caught 41 passes for 486 yards and four touchdowns on 54 targets last season, and while Jonnu Smith is gone, Pittsburgh added Michael Pittman Jr. to a group that already includes DK Metcalf and Roman Wilson. Freiermuth is still the starting tight end, so there is at least a path to more work than he saw in 2025. The matchup is the problem. Atlanta allowed the third-fewest fantasy points to tight ends last season, and the current Week 1 rankings have Freiermuth at TE25. He is rostered in only 6% of Yahoo leagues and is best viewed as a 14-team option for now. In a 10- or 12-team league, there are better tight ends to chase before Sunday.",
+        "title": "Pat Freiermuth Not Worth Chasing Before Week 1",
+        "topic_id": "1403134534140047360",
+        "url": "https://www.rotoballer.com/player-news/pat-freiermuth-not-worth-chasing-before-week-1/1926084"
+      },
+      "nfl_team": "PIT",
+      "player_id": "7600",
+      "player_name": "Pat Freiermuth",
+      "position": "TE",
+      "published": 1788880866000,
+      "source": "rotoballer",
+      "source_key": "220364",
+      "story_id": "nfl|7600|rotoballer|220364|1788880866000",
+      "title": "Pat Freiermuth Not Worth Chasing Before Week 1",
+      "url": "https://www.rotoballer.com/player-news/pat-freiermuth-not-worth-chasing-before-week-1/1926084"
+    },
+    {
       "analysis": "The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.",
       "description": "Fields appears on track to open the season as the Giants' No. 2 receiver after the team released Darius Slayton on Monday, Matt Iegros of USA Today reports.",
       "metadata": {
@@ -339,6 +401,26 @@
       "story_id": "nfl|13285|rotowire|636385|1788880703000",
       "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back Tyler Allgeier has picked up some real short-term value heading into Week 1. Arizona's current depth chart lists him first at running back, ahead of rookie Jeremiyah Love, while James Conner will open the season on injured reserve. The ordering alone should not be treated like a permanent changing of the guard. The Cardinals said during the preseason not to make too much of Love being listed behind Allgeier, and Love was the No. 3 overall pick for a reason. The timing matters now, though. Love has not practiced since injuring his ankle on Aug. 13, although he was moving around during Monday's walk-through and head coach Mike LaFleur said he feels good about his chances of playing against the Chargers. Allgeier already has a 1,000-yard season on his r sum  and scored a career-high eight rushing touchdowns last year. Even if Love is active Sunday, Allgeier looks much harder to dismiss as an early-season fantasy option.",
+      "metadata": {
+        "description": "Arizona Cardinals running back Tyler Allgeier has picked up some real short-term value heading into Week 1. Arizona's current depth chart lists him first at running back, ahead of rookie Jeremiyah Love, while James Conner will open the season on injured reserve. The ordering alone should not be treated like a permanent changing of the guard. The Cardinals said during the preseason not to make too much of Love being listed behind Allgeier, and Love was the No. 3 overall pick for a reason. The timing matters now, though. Love has not practiced since injuring his ankle on Aug. 13, although he was moving around during Monday's walk-through and head coach Mike LaFleur said he feels good about his chances of playing against the Chargers. Allgeier already has a 1,000-yard season on his r sum  and scored a career-high eight rushing touchdowns last year. Even if Love is active Sunday, Allgeier looks much harder to dismiss as an early-season fantasy option.",
+        "title": "Tyler Allgeier Gets a Boost From Cardinals Depth Chart",
+        "topic_id": "1403132018446880768",
+        "url": "https://www.rotoballer.com/player-news/tyler-allgeier-gets-a-boost-from-cardinals-depth-chart/1926079"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8132",
+      "player_name": "Tyler Allgeier",
+      "position": "RB",
+      "published": 1788880445000,
+      "source": "rotoballer",
+      "source_key": "220363",
+      "story_id": "nfl|8132|rotoballer|220363|1788880445000",
+      "title": "Tyler Allgeier Gets a Boost From Cardinals Depth Chart",
+      "url": "https://www.rotoballer.com/player-news/tyler-allgeier-gets-a-boost-from-cardinals-depth-chart/1926079"
     },
     {
       "analysis": null,
