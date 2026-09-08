@@ -2,16 +2,25 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2162**
-- Newly captured: **2**
+- Stored stories: **2166**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Makai Lemon** — Makai Lemon - Listed as starting receiver, punt returner (2026-09-08T15:54:17Z)
+- **NEW — Breece Hall** — Breece Hall (groin) trending towards playing Week 1 (2026-09-08T16:20:52.031000Z)
+  - Hall was initially expected to be out two weeks with his groin injury, and this lines up well with his timeline. If he plays, he will be a high-end RB2 with RB1 upside.
+  - Source: https://www.fantasypros.com/nfl/news/606556/breece-hall-groin-trending-towards-playing-week-1.php
+- **NEW — Breece Hall** — Breece Hall - Trending toward playing Week 1 (2026-09-08T16:19:22Z)
+  - With Hall having already been expected to be ready for Week 1 after his groin injury, Glenn's update reinforces that the Jets' lead running back remains in line for the season opener. The coach didn't mention Hall by name, but the report indicates he was believed to be among the players included in that group.
+- **Makai Lemon** — Makai Lemon - Listed as starting receiver, punt returner (2026-09-08T15:54:17Z)
   - Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.
 - **Malachi Fields** — Malachi Fields - Looks set to begin season as No. 2 wideout (2026-09-08T15:18:23Z)
   - The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.
-- **NEW — Isaac TeSlaa** — Isaac TeSlaa Shouldn't Be Ignored in Deeper Leagues (2026-09-08T11:46:50Z)
+- **NEW — Makai Lemon** — Makai Lemon Listed as Starting WR, Punt Returner (2026-09-08T12:08:06Z)
+  - Source: https://www.rotoballer.com/player-news/makai-lemon-listed-as-starting-wr-punt-returner/1925950
+- **NEW — Tyler Shough** — Tyler Shough Belongs in the Week 1 Streaming Conversation (2026-09-08T11:59:08Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-shough-belongs-in-the-week-1-streaming-conversation/1925940
+- **Isaac TeSlaa** — Isaac TeSlaa Shouldn't Be Ignored in Deeper Leagues (2026-09-08T11:46:50Z)
   - Source: https://www.rotoballer.com/player-news/isaac-teslaa-shouldnt-be-ignored-in-deeper-leagues/1925935
 - **Sam Darnold** — Sam Darnold Best Left on Waivers in Standard Leagues (2026-09-08T11:36:09Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-best-left-on-waivers-in-standard-leagues/1925922
@@ -220,11 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kyle-monangai-back-at-practice-on-monday/1925331
 - **Jacob Saylors** — Jacob Saylors, Sione Vaki to Split RB2 Role in Detroit (2026-09-07T14:30:04Z)
   - Source: https://www.rotoballer.com/player-news/jacob-saylors-sione-vaki-to-split-rb2-role-in-detroit/1925315
-- **Tee Higgins** — Tee Higgins Seen Practicing on Monday (2026-09-07T14:20:06Z)
-  - Source: https://www.rotoballer.com/player-news/tee-higgins-seen-practicing-on-monday/1925303
-- **Ja'Marr Chase** — Ja'Marr Chase Practicing on Monday (2026-09-07T14:15:05Z)
-  - Source: https://www.rotoballer.com/player-news/jamarr-chase-practicing-on-monday/1925300
-- **TreVeyon Henderson** — "Hard to Imagine" That TreVeyon Henderson Plays in Week 1 (2026-09-07T14:10:06Z)
-  - Source: https://www.rotoballer.com/player-news/hard-to-imagine-that-treveyon-henderson-plays-in-week-1/1925298
-- **De'Von Achane** — De'Von Achane Expected to See Another Significant Workload (2026-09-07T13:51:12Z)
-  - Source: https://www.rotoballer.com/player-news/devon-achane-expected-to-see-another-significant-workload/1925258

@@ -1,10 +1,12 @@
 {
-  "last_checked_at": "2026-09-08T16:00:55Z",
+  "last_checked_at": "2026-09-08T16:21:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12535|rotoballer|220343|1788868010000",
-    "nfl|13294|rotowire|636387|1788882857000"
+    "nfl|12545|rotoballer|220345|1788868748000",
+    "nfl|13294|rotoballer|220346|1788869286000",
+    "nfl|8155|fantasy_pros|606556|1788884452031",
+    "nfl|8155|rotowire|636388|1788884362000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +16,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Hall was initially expected to be out two weeks with his groin injury, and this lines up well with his timeline. If he plays, he will be a high-end RB2 with RB1 upside.",
+      "description": "Breece Hall is trending towards playing in Week 1, per HC Aaron Glenn. The running back will practice today.",
+      "metadata": {
+        "analysis": "Hall was initially expected to be out two weeks with his groin injury, and this lines up well with his timeline. If he plays, he will be a high-end RB2 with RB1 upside.",
+        "description": "Breece Hall is trending towards playing in Week 1, per HC Aaron Glenn. The running back will practice today.",
+        "title": "Breece Hall (groin) trending towards playing Week 1",
+        "topic_id": "1403086722446680064",
+        "url": "https://www.fantasypros.com/nfl/news/606556/breece-hall-groin-trending-towards-playing-week-1.php"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8155",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "published": 1788884452031,
+      "source": "fantasy_pros",
+      "source_key": "606556",
+      "story_id": "nfl|8155|fantasy_pros|606556|1788884452031",
+      "title": "Breece Hall (groin) trending towards playing Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606556/breece-hall-groin-trending-towards-playing-week-1.php"
+    },
+    {
+      "analysis": "With Hall having already been expected to be ready for Week 1 after his groin injury, Glenn's update reinforces that the Jets' lead running back remains in line for the season opener. The coach didn't mention Hall by name, but the report indicates he was believed to be among the players included in that group.",
+      "description": "Jets head coach Aaron Glenn said Tuesday that Hall (groin) is trending toward playing in Sunday's season opener versus the Titans, Zack Rosenblatt of The Athletic reports.",
+      "metadata": {
+        "analysis": "With Hall having already been expected to be ready for Week 1 after his groin injury, Glenn's update reinforces that the Jets' lead running back remains in line for the season opener. The coach didn't mention Hall by name, but the report indicates he was believed to be among the players included in that group.",
+        "description": "Jets head coach Aaron Glenn said Tuesday that Hall (groin) is trending toward playing in Sunday's season opener versus the Titans, Zack Rosenblatt of The Athletic reports.",
+        "title": "Breece Hall - Trending toward playing Week 1",
+        "topic_id": "1403086715807084544"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8155",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "published": 1788884362000,
+      "source": "rotowire",
+      "source_key": "636388",
+      "story_id": "nfl|8155|rotowire|636388|1788884362000",
+      "title": "Breece Hall - Trending toward playing Week 1",
+      "url": null
+    },
     {
       "analysis": "Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.",
       "description": "The Eagles list Lemon as a starting receiver and their top punt returner on their unofficial depth chart released Tuesday, Andrew DiCecco of InsideTheBirds.com reports.",
@@ -53,6 +96,46 @@
       "story_id": "nfl|13285|rotowire|636385|1788880703000",
       "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "On the Philadelphia Eagles' unofficial depth chart released before Week 1, rookie first-round wide receiver Makai Lemon is listed as a starting WR and as the team's top punt-return option, according to Andrew DiCecco of InsideTheBirds.com. Although Lemon missed valuable development time in training camp this summer with a hamstring injury, he was always a lock to be a starter in three-wide sets to begin his rookie campaign in 2026 after the Eagles traded A.J. Brown to the New England Patriots in the offseason. However, Lemon should be viewed as more of a WR3 than a WR2 because of his quiet summer and Dontayvion Wicks' strong camp. The former USC star certainly has the potential to pass Wicks on the depth chart in 2026 by the end of the season, but early on, fantasy managers may want to temper expectations for Lemon. He is coming off a very productive final season with the Trojans in 2025, in which he caught 79 passes for 1,156 yards and 11 touchdowns in 12 games played. It is not a bad idea to keep Lemon on the bench in his NFL debut this Sunday night against the division-rival Dallas Cowboys. Lemon is rostered in 75% of Yahoo leagues.",
+      "metadata": {
+        "description": "On the Philadelphia Eagles' unofficial depth chart released before Week 1, rookie first-round wide receiver Makai Lemon is listed as a starting WR and as the team's top punt-return option, according to Andrew DiCecco of InsideTheBirds.com. Although Lemon missed valuable development time in training camp this summer with a hamstring injury, he was always a lock to be a starter in three-wide sets to begin his rookie campaign in 2026 after the Eagles traded A.J. Brown to the New England Patriots in the offseason. However, Lemon should be viewed as more of a WR3 than a WR2 because of his quiet summer and Dontayvion Wicks' strong camp. The former USC star certainly has the potential to pass Wicks on the depth chart in 2026 by the end of the season, but early on, fantasy managers may want to temper expectations for Lemon. He is coming off a very productive final season with the Trojans in 2025, in which he caught 79 passes for 1,156 yards and 11 touchdowns in 12 games played. It is not a bad idea to keep Lemon on the bench in his NFL debut this Sunday night against the division-rival Dallas Cowboys. Lemon is rostered in 75% of Yahoo leagues.",
+        "title": "Makai Lemon Listed as Starting WR, Punt Returner",
+        "topic_id": "1403085455829798912",
+        "url": "https://www.rotoballer.com/player-news/makai-lemon-listed-as-starting-wr-punt-returner/1925950"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13294",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "published": 1788869286000,
+      "source": "rotoballer",
+      "source_key": "220346",
+      "story_id": "nfl|13294|rotoballer|220346|1788869286000",
+      "title": "Makai Lemon Listed as Starting WR, Punt Returner",
+      "url": "https://www.rotoballer.com/player-news/makai-lemon-listed-as-starting-wr-punt-returner/1925950"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints quarterback Tyler Shough is worth considering if you're already looking for a Week 1 streamer. He settled in once New Orleans gave him the job last season, throwing for 2,256 yards, 10 touchdowns and five interceptions across nine starts while adding another 174 yards and three scores on the ground. That little bit of rushing helps here. Shough will go into 2026 as the starter, with Chris Olave still leading the receiver room, although rookie Jordyn Tyson will miss the beginning of the season on injured reserve. The matchup sends him to Detroit on Sunday, and the current Week 1 rankings have Shough at QB16 despite being rostered in only 43% of Yahoo leagues. He still makes the most sense in 14-team leagues or for managers who don't love their current starter, but this isn't just a desperation QB2. Shough can actually be used right away.",
+      "metadata": {
+        "description": "New Orleans Saints quarterback Tyler Shough is worth considering if you're already looking for a Week 1 streamer. He settled in once New Orleans gave him the job last season, throwing for 2,256 yards, 10 touchdowns and five interceptions across nine starts while adding another 174 yards and three scores on the ground. That little bit of rushing helps here. Shough will go into 2026 as the starter, with Chris Olave still leading the receiver room, although rookie Jordyn Tyson will miss the beginning of the season on injured reserve. The matchup sends him to Detroit on Sunday, and the current Week 1 rankings have Shough at QB16 despite being rostered in only 43% of Yahoo leagues. He still makes the most sense in 14-team leagues or for managers who don't love their current starter, but this isn't just a desperation QB2. Shough can actually be used right away.",
+        "title": "Tyler Shough Belongs in the Week 1 Streaming Conversation",
+        "topic_id": "1403082939088011264",
+        "url": "https://www.rotoballer.com/player-news/tyler-shough-belongs-in-the-week-1-streaming-conversation/1925940"
+      },
+      "nfl_team": "NO",
+      "player_id": "12545",
+      "player_name": "Tyler Shough",
+      "position": "QB",
+      "published": 1788868748000,
+      "source": "rotoballer",
+      "source_key": "220345",
+      "story_id": "nfl|12545|rotoballer|220345|1788868748000",
+      "title": "Tyler Shough Belongs in the Week 1 Streaming Conversation",
+      "url": "https://www.rotoballer.com/player-news/tyler-shough-belongs-in-the-week-1-streaming-conversation/1925940"
     },
     {
       "analysis": null,
