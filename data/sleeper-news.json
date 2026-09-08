@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-08T20:52:27Z",
+  "last_checked_at": "2026-09-08T21:04:01Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|7567|rotoballer|220374|1788885403000"
+    "nfl|12497|rotowire|636405|1788900890000",
+    "nfl|4035|rotoballer|220375|1788885845000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Horton missed the final nine games of the regular season as well as the entirety of the Seahawks' playoff run due to a shin fracture as well as a groin issue, then required offseason surgery to address the injuries. Though he was deemed ready to go for the start of training camp, Horton ended up succumbing to a hamstring injury around the middle of August. Though his hamstring isn't viewed as a long-term concern, Horton had his practice participation managed this week and may not get clearance to suit up Wednesday. If he's able to avoid the inactive list, Horton will likely be in line for a small role as the Seahawks' No. 4 wide receiver behind Jaxon Smith-Njigba, Rashid Shaheed and Cooper Kupp.",
+      "description": "The Seahawks list Horton (hamstring) as questionable for Wednesday's season opener versus the Patriots, John Boyle of the team's official site reports.",
+      "metadata": {
+        "analysis": "Horton missed the final nine games of the regular season as well as the entirety of the Seahawks' playoff run due to a shin fracture as well as a groin issue, then required offseason surgery to address the injuries. Though he was deemed ready to go for the start of training camp, Horton ended up succumbing to a hamstring injury around the middle of August. Though his hamstring isn't viewed as a long-term concern, Horton had his practice participation managed this week and may not get clearance to suit up Wednesday. If he's able to avoid the inactive list, Horton will likely be in line for a small role as the Seahawks' No. 4 wide receiver behind Jaxon Smith-Njigba, Rashid Shaheed and Cooper Kupp.",
+        "description": "The Seahawks list Horton (hamstring) as questionable for Wednesday's season opener versus the Patriots, John Boyle of the team's official site reports.",
+        "title": "Tory Horton - Taking questionable tag into Week 1",
+        "topic_id": "1403155929288990720"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12497",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "published": 1788900890000,
+      "source": "rotowire",
+      "source_key": "636405",
+      "story_id": "nfl|12497|rotowire|636405|1788900890000",
+      "title": "Tory Horton - Taking questionable tag into Week 1",
+      "url": null
+    },
     {
       "analysis": "Head coach Mike LaFleur expressed optimism Tuesday that Jeremiyah Love would be ready to play Sunday after suffering a high-ankle sprain in the Cardinals' preseason opener, but the No. 3 overall pick in April's draft isn't expected to handle a workhorse role right away coming off the injury. While Love should emerge as the clear No. 1 option once he's further removed from the injury, Allgeier appears well-positioned to have a meaningful role in the Week 1 game plan, regardless of whether he ends up starting or not.",
       "description": "The Cardinals list Allgeier as the starting running back on their unofficial depth chart in advance of Sunday's season opener versus the Chargers, Bo Brack of GoPHNX.com reports.",
@@ -337,6 +358,26 @@
       "story_id": "nfl|9997|rotowire|636389|1788887572000",
       "title": "Zay Flowers - Looks to be practicing fully Tuesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints running backs Travis Etienne Jr. and Alvin Kamara (knee) are listed as co-starters on the team's unofficial depth chart as they get ready for their Week 1 contest this Sunday, Sept. 13, against the Detroit Lions, according to Katherine Terrell of ESPN. Etienne should lead the Saints in overall touches by a wide margin when all is said and done in 2026 after they signed him to a four-year, $52 million deal in free agency in March, but when healthy, Kamara will be involved in head coach Kellen Moore's offense as a pass-catcher. Kamara is looking unlikely to play in Week 1 against the Lions, but when he makes his 2026 debut, he will no doubt take away valuable passing-game targets from the 27-year-old Etienne, lowering his overall fantasy ceiling in his first year in the Big Easy. The former 25th overall pick by the Jacksonville Jaguars in 2021 from Clemson had his third 1,000-yard rushing campaign and added seven rushing touchdowns in 17 regular-season games in 2025, tacking on 36 catches for 292 yards and another six TDs through the air. With Kamara unlikely to play this weekend, Etienne should have plenty of fantasy upside as a low-end RB1/high-end RB2 in his debut with the Saints.",
+      "metadata": {
+        "description": "New Orleans Saints running backs Travis Etienne Jr. and Alvin Kamara (knee) are listed as co-starters on the team's unofficial depth chart as they get ready for their Week 1 contest this Sunday, Sept. 13, against the Detroit Lions, according to Katherine Terrell of ESPN. Etienne should lead the Saints in overall touches by a wide margin when all is said and done in 2026 after they signed him to a four-year, $52 million deal in free agency in March, but when healthy, Kamara will be involved in head coach Kellen Moore's offense as a pass-catcher. Kamara is looking unlikely to play in Week 1 against the Lions, but when he makes his 2026 debut, he will no doubt take away valuable passing-game targets from the 27-year-old Etienne, lowering his overall fantasy ceiling in his first year in the Big Easy. The former 25th overall pick by the Jacksonville Jaguars in 2021 from Clemson had his third 1,000-yard rushing campaign and added seven rushing touchdowns in 17 regular-season games in 2025, tacking on 36 catches for 292 yards and another six TDs through the air. With Kamara unlikely to play this weekend, Etienne should have plenty of fantasy upside as a low-end RB1/high-end RB2 in his debut with the Saints.",
+        "title": "Travis Etienne Jr. Listed as Co-Starter With Alvin Kamara",
+        "topic_id": "1403155927674146816",
+        "url": "https://www.rotoballer.com/player-news/travis-etienne-jr-listed-as-co-starter-with-alvin-kamara/1926163"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1788885845000,
+      "source": "rotoballer",
+      "source_key": "220375",
+      "story_id": "nfl|4035|rotoballer|220375|1788885845000",
+      "title": "Travis Etienne Jr. Listed as Co-Starter With Alvin Kamara",
+      "url": "https://www.rotoballer.com/player-news/travis-etienne-jr-listed-as-co-starter-with-alvin-kamara/1926163"
     },
     {
       "analysis": null,
