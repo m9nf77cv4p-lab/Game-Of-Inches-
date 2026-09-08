@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2150**
+- Stored stories: **2151**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Adonai Mitchell** — Adonai Mitchell Makes a Solid Stash for Depth (2026-09-08T09:13:32Z)
+- **NEW — George Holani** — George Holani Brings Early-Season Upside (2026-09-08T09:25:06Z)
+  - Source: https://www.rotoballer.com/player-news/george-holani-brings-early-season-upside/1925733
+- **Adonai Mitchell** — Adonai Mitchell Makes a Solid Stash for Depth (2026-09-08T09:13:32Z)
   - Source: https://www.rotoballer.com/player-news/adonai-mitchell-makes-a-solid-stash-for-depth/1925724
 - **George Kittle** — George Kittle - Looking increasingly likely to play vs. Rams (2026-09-08T04:09:34Z)
   - Earlier in the day, 49ers offensive coordinator Klay Kubiak said of Kittle: "Super impressed with how he's looked considering the injury and how quick he got back on the field. It's cool to me to see how Kittle looks ... Workload will be determined," per Cam Inman of The San Jose Mercury News. While that doesn't fully confirm that the star tight end will be ready to play in the season opener against the Rams, the fact that the team seems to be focused on Kittle's gameday workload, rather than his general playing status, suggests that he's more likely than not to suit up. Kubiak did give the caveat that Kittle will need to get through San Francisco's final practices before a decision is ultimately made, and the club's injury reports this week should shed further light on Kittle's level of participation in practice as well as his outlook for the Friday (local time) NFC West clash.
@@ -227,5 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jonathon-brooks-remains-limited-to-side-work/1925160
 - **Rashid Shaheed** — Rashid Shaheed Shouldn't Be Sitting on Waiver Wires (2026-09-07T11:53:35Z)
   - Source: https://www.rotoballer.com/player-news/rashid-shaheed-shouldnt-be-sitting-on-waiver-wires/1925155
-- **Romeo Doubs** — Romeo Doubs a Priority Add Before Week 1 (2026-09-07T11:47:14Z)
-  - Source: https://www.rotoballer.com/player-news/romeo-doubs-a-priority-add-before-week-1/1925152
