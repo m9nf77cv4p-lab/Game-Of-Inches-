@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-08T17:45:09Z",
+  "last_checked_at": "2026-09-08T17:56:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11620|rotoballer|220353|1788873905000",
-    "nfl|13330|rotowire|636392|1788889043000"
+    "nfl|11581|rotowire|636394|1788889805000",
+    "nfl|4046|rotoballer|220354|1788874627000",
+    "nfl|8155|rotowire|636393|1788889378000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Though he profiles as the most enticing fantasy option of a backfield group that includes Kaleb Johnson and Chris Brooks, Lloyd doesn't look like he'll be called upon to handle a workhorse role out of the backfield amid Jacobs' absence.",
+      "description": "Packers offensive coordinator Adam Stenavich suggested Tuesday that Lloyd could be part of a backfield committee to begin the season while Josh Jacobs (personal) remains on the Commissioner's Exempt List, Weston Hodkiewicz of the Packers' official site reports. \"It's gonna be running back by committee for a little bit to see where everyone is at,\" Stenavich said. \"[Lloyd] definitely has explosive ability, playmaking ability.\"",
+      "metadata": {
+        "analysis": "Though he profiles as the most enticing fantasy option of a backfield group that includes Kaleb Johnson and Chris Brooks, Lloyd doesn't look like he'll be called upon to handle a workhorse role out of the backfield amid Jacobs' absence.",
+        "description": "Packers offensive coordinator Adam Stenavich suggested Tuesday that Lloyd could be part of a backfield committee to begin the season while Josh Jacobs (personal) remains on the Commissioner's Exempt List, Weston Hodkiewicz of the Packers' official site reports. \"It's gonna be running back by committee for a little bit to see where everyone is at,\" Stenavich said. \"[Lloyd] definitely has explosive ability, playmaking ability.\"",
+        "title": "MarShawn Lloyd - Set to be included in committee",
+        "topic_id": "1403110626225590272"
+      },
+      "nfl_team": "GB",
+      "player_id": "11581",
+      "player_name": "MarShawn Lloyd",
+      "position": "RB",
+      "published": 1788889805000,
+      "source": "rotowire",
+      "source_key": "636394",
+      "story_id": "nfl|11581|rotowire|636394|1788889805000",
+      "title": "MarShawn Lloyd - Set to be included in committee",
+      "url": null
+    },
+    {
+      "analysis": "The Jets won't release their first injury report of the season until Wednesday, but Hall's activity at Tuesday's session offers hope that he might be listed as a full participant in practice. Though Hall had been sidelined for or limited in practices over the past three weeks while nursing a minor right groin strain, the expectation is that he'll be ready to handle a lead role out of the backfield in Sunday's season opener versus the Titans.",
+      "description": "Hall (groin) was seen taking part in positional drills during Tuesday's practice, Brian Costello of the New York Post reports.",
+      "metadata": {
+        "analysis": "The Jets won't release their first injury report of the season until Wednesday, but Hall's activity at Tuesday's session offers hope that he might be listed as a full participant in practice. Though Hall had been sidelined for or limited in practices over the past three weeks while nursing a minor right groin strain, the expectation is that he'll be ready to handle a lead role out of the backfield in Sunday's season opener versus the Titans.",
+        "description": "Hall (groin) was seen taking part in positional drills during Tuesday's practice, Brian Costello of the New York Post reports.",
+        "title": "Breece Hall - Involved in Tuesday's practice",
+        "topic_id": "1403108109387325440"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8155",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "published": 1788889378000,
+      "source": "rotowire",
+      "source_key": "636393",
+      "story_id": "nfl|8155|rotowire|636393|1788889378000",
+      "title": "Breece Hall - Involved in Tuesday's practice",
+      "url": null
+    },
     {
       "analysis": "The rookie first-round pick missed nearly all of training camp and the preseason after experiencing a setback in his recovery from hernia surgery, but head coach Aaron Glenn had been optimistic over the past week that Sadiq would be ready to go for the start of the regular season. Sadiq's involvement in positional drills suggests that he remains on track to play in Sunday's game at Tennessee, though the extensive time he missed during the summer means that he'll likely have to settle for a small role off the bat. Mason Taylor looks to be the leading candidate to start and lead the tight-end group in snaps Week 1.",
       "description": "Sadiq (hernia) was spotted taking part in positional drills during Tuesday's practice, Brian Costello of the New York Post reports.",
@@ -237,6 +278,26 @@
       "story_id": "nfl|13285|rotowire|636385|1788880703000",
       "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs quarterback Patrick Mahomes (knee) has led the team from Day 1 of training camp, reportedly looking as sharp as he has in years, and NFL Insider Ian Rapoport reports that he is on track to start Week 1 in a Monday Night divisional matchup with the Broncos. The two-time MVP tore his ACL in Week 15 of the 2025 season, but head coach Andy Reid told reporters on Tuesday that there is a \"pretty good chance\" he'll be under center to begin his tenth season. Mahomes was the fantasy QB2 at the time of his injury, having run for a career-high 422 yards and five rushing scores to that point, but with him less than nine months removed from knee surgery, there are lingering questions about how he'll be used in 2026, and he enters the season as RotoBaller's QB13.",
+      "metadata": {
+        "description": "Kansas City Chiefs quarterback Patrick Mahomes (knee) has led the team from Day 1 of training camp, reportedly looking as sharp as he has in years, and NFL Insider Ian Rapoport reports that he is on track to start Week 1 in a Monday Night divisional matchup with the Broncos. The two-time MVP tore his ACL in Week 15 of the 2025 season, but head coach Andy Reid told reporters on Tuesday that there is a \"pretty good chance\" he'll be under center to begin his tenth season. Mahomes was the fantasy QB2 at the time of his injury, having run for a career-high 422 yards and five rushing scores to that point, but with him less than nine months removed from knee surgery, there are lingering questions about how he'll be used in 2026, and he enters the season as RotoBaller's QB13.",
+        "title": "Patrick Mahomes on Track to Start Week 1",
+        "topic_id": "1403108107516641280",
+        "url": "https://www.rotoballer.com/player-news/patrick-mahomes-on-track-to-start-week-1/1925999"
+      },
+      "nfl_team": "KC",
+      "player_id": "4046",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "published": 1788874627000,
+      "source": "rotoballer",
+      "source_key": "220354",
+      "story_id": "nfl|4046|rotoballer|220354|1788874627000",
+      "title": "Patrick Mahomes on Track to Start Week 1",
+      "url": "https://www.rotoballer.com/player-news/patrick-mahomes-on-track-to-start-week-1/1925999"
     },
     {
       "analysis": null,

@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2179**
-- Newly captured: **2**
+- Stored stories: **2182**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Kenyon Sadiq** — Kenyon Sadiq - Involved in positional drills (2026-09-08T17:37:23Z)
+- **NEW — MarShawn Lloyd** — MarShawn Lloyd - Set to be included in committee (2026-09-08T17:50:05Z)
+  - Though he profiles as the most enticing fantasy option of a backfield group that includes Kaleb Johnson and Chris Brooks, Lloyd doesn't look like he'll be called upon to handle a workhorse role out of the backfield amid Jacobs' absence.
+- **NEW — Breece Hall** — Breece Hall - Involved in Tuesday's practice (2026-09-08T17:42:58Z)
+  - The Jets won't release their first injury report of the season until Wednesday, but Hall's activity at Tuesday's session offers hope that he might be listed as a full participant in practice. Though Hall had been sidelined for or limited in practices over the past three weeks while nursing a minor right groin strain, the expectation is that he'll be ready to handle a lead role out of the backfield in Sunday's season opener versus the Titans.
+- **Kenyon Sadiq** — Kenyon Sadiq - Involved in positional drills (2026-09-08T17:37:23Z)
   - The rookie first-round pick missed nearly all of training camp and the preseason after experiencing a setback in his recovery from hernia surgery, but head coach Aaron Glenn had been optimistic over the past week that Sadiq would be ready to go for the start of the regular season. Sadiq's involvement in positional drills suggests that he remains on track to play in Sunday's game at Tennessee, though the extensive time he missed during the summer means that he'll likely have to settle for a small role off the bat. Mason Taylor looks to be the leading candidate to start and lead the tight-end group in snaps Week 1.
 - **Rome Odunze** — Rome Odunze - Won't practice Tuesday (2026-09-08T17:17:15Z)
   - Johnson didn't provide many specifics regarding the right leg injury that Odunze sustained in a practice last Thursday, though the coach noted that the issue isn't an aggravation of the foot injury that kept the wideout sidelined for the final five games of the 2025 regular season, per Courtney Cronin of ESPN.com. Odunze will still have three more chances to fit in some practice activity this week before the Bears decide on his status for Sunday's contest, but at this stage, the the team is optimistic that the third-year receiver will be able to play through the leg injury.
@@ -33,7 +37,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.
 - **Malachi Fields** — Malachi Fields - Looks set to begin season as No. 2 wideout (2026-09-08T15:18:23Z)
   - The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.
-- **NEW — Rome Odunze** — Rome Odunze Won't Practice Tuesday, Bears "Hopeful" for Week 1 (2026-09-08T13:25:05Z)
+- **NEW — Patrick Mahomes** — Patrick Mahomes on Track to Start Week 1 (2026-09-08T13:37:07Z)
+  - Source: https://www.rotoballer.com/player-news/patrick-mahomes-on-track-to-start-week-1/1925999
+- **Rome Odunze** — Rome Odunze Won't Practice Tuesday, Bears "Hopeful" for Week 1 (2026-09-08T13:25:05Z)
   - Source: https://www.rotoballer.com/player-news/rome-odunze-wont-practice-tuesday-bears-hopeful-for-week-1/1925989
 - **Jalen McMillan** — Jalen McMillan Listed as Starting Receiver for the Bucs (2026-09-08T13:07:06Z)
   - Source: https://www.rotoballer.com/player-news/jalen-mcmillan-listed-as-starting-receiver-for-the-bucs/1925981
@@ -223,10 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/woody-marks-expected-to-share-plenty-of-backfield-work/1925381
 - **TreVeyon Henderson** — TreVeyon Henderson - Not spotted at Monday's practice (2026-09-07T16:00:13Z)
   - Henderson was listed as a non-participant on Sunday's injury report, and it appears likely he will receive the same designation a day later. Henderson has not been ruled out for Wednesday's season opener just yet, but his chances of suiting up are seemingly growing slimmer.
-- **Alec Pierce** — Alec Pierce Should Be Good to Go for Week 1 (2026-09-07T15:50:32Z)
-  - Source: https://www.rotoballer.com/player-news/alec-pierce-should-be-good-to-go-for-week-1/1925379
-- **George Kittle** — George Kittle (Achilles) seen practicing Monday  (2026-09-07T15:45:41.629000Z)
-  - Kittle was on the field on Monday in Australia. It keeps him on track to be good to go for Thursday's seaaon opener, though it remains unclear if he will be facing any sort of snap count. 
-  - Source: https://www.fantasypros.com/nfl/news/606340/george-kittle-achilles-seen-practicing-monday.php
-- **Rhamondre Stevenson** — Rhamondre Stevenson Expected to See Plenty of Work Wednesday (2026-09-07T15:43:06Z)
-  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-expected-to-see-plenty-of-work-wednesday/1925377
