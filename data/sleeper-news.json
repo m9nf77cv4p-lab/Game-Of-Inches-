@@ -1,10 +1,12 @@
 {
-  "last_checked_at": "2026-09-08T05:05:13Z",
+  "last_checked_at": "2026-09-08T05:22:01Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13417|rotoballer|220322|1788828702000",
-    "nfl|8800|rotoballer|220321|1788828369000"
+    "nfl|11618|rotoballer|220324|1788829031000",
+    "nfl|12509|rotoballer|220326|1788830227000",
+    "nfl|13337|rotoballer|220323|1788829274000",
+    "nfl|4034|rotoballer|220325|1788829027000"
   ],
   "schema_version": 1,
   "source": {
@@ -73,6 +75,86 @@
       "story_id": "nfl|13417|rotowire|636380|1788839377000",
       "title": "De'Zhaun Stribling - Suited up for practice Monday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers wide receiver Tre' Harris is a potential Year 2 breakout candidate, especially as the Chargers' offense continues to trend upward. Not every team can support a fantasy-relevant outlook for their No. 3 receiver, but Los Angeles' offense is powerful enough to make Harris an intriguing stash in 12+ team leagues. Quarterback Justin Herbert averaged 32 pass attempts per game last year, despite drastically lowering his total number of pass attempts in the second half of the season while managing an injury. A fully healthy Herbert might throw the ball 35 times a game, and many of those targets will go to Harris, his No. 3 option in the passing attack. The 24-year-old receiver already started to flash upside as a rookie last year, catching 30 passes for 324 yards and one touchdown. Although he is playing behind Ladd McConkey and Quentin Johnston, he has an opportunity to step into a bigger role if either of those receivers suffer from drop issues or miss time due to injury. It's way too early to confidently insert Harris into your lineups, but he's at least worth adding off the waiver wire in 12+ team leagues.",
+      "metadata": {
+        "description": "Los Angeles Chargers wide receiver Tre' Harris is a potential Year 2 breakout candidate, especially as the Chargers' offense continues to trend upward. Not every team can support a fantasy-relevant outlook for their No. 3 receiver, but Los Angeles' offense is powerful enough to make Harris an intriguing stash in 12+ team leagues. Quarterback Justin Herbert averaged 32 pass attempts per game last year, despite drastically lowering his total number of pass attempts in the second half of the season while managing an injury. A fully healthy Herbert might throw the ball 35 times a game, and many of those targets will go to Harris, his No. 3 option in the passing attack. The 24-year-old receiver already started to flash upside as a rookie last year, catching 30 passes for 324 yards and one touchdown. Although he is playing behind Ladd McConkey and Quentin Johnston, he has an opportunity to step into a bigger role if either of those receivers suffer from drop issues or miss time due to injury. It's way too early to confidently insert Harris into your lineups, but he's at least worth adding off the waiver wire in 12+ team leagues.",
+        "title": "Tre' Harris Should Produce in Chargers Offense",
+        "topic_id": "1402920600766308353",
+        "url": "https://www.rotoballer.com/player-news/tre-harris-should-produce-in-chargers-offense/1925612"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12509",
+      "player_name": "Tre' Harris",
+      "position": "WR",
+      "published": 1788830227000,
+      "source": "rotoballer",
+      "source_key": "220326",
+      "story_id": "nfl|12509|rotoballer|220326|1788830227000",
+      "title": "Tre' Harris Should Produce in Chargers Offense",
+      "url": "https://www.rotoballer.com/player-news/tre-harris-should-produce-in-chargers-offense/1925612"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs running back Emmett Johnson may be a fifth-round rookie, but he's already on the fantasy radar as a potential waiver wire target. Johnson will open the year as the Chiefs' No. 2 running back, largely because he impressed the coaching staff so much with his pass-blocking ability. We may not see Johnson carve out standalone fantasy value on a weekly basis in his current role, but he would jump to the lead-back role and possess RB2 value if workhorse Kenneth Walker III were to miss time. It's worth noting that the ex-Seahawk missed at least two games every year from 2022 through 2024, so Walker's managers would be justified in adding his handcuff off the waiver wire. Because of his potential to feast if Walker misses any time, Johnson should be picked up off the waiver wire in all leagues with 12+ teams.",
+      "metadata": {
+        "description": "Kansas City Chiefs running back Emmett Johnson may be a fifth-round rookie, but he's already on the fantasy radar as a potential waiver wire target. Johnson will open the year as the Chiefs' No. 2 running back, largely because he impressed the coaching staff so much with his pass-blocking ability. We may not see Johnson carve out standalone fantasy value on a weekly basis in his current role, but he would jump to the lead-back role and possess RB2 value if workhorse Kenneth Walker III were to miss time. It's worth noting that the ex-Seahawk missed at least two games every year from 2022 through 2024, so Walker's managers would be justified in adding his handcuff off the waiver wire. Because of his potential to feast if Walker misses any time, Johnson should be picked up off the waiver wire in all leagues with 12+ teams.",
+        "title": "Emmett Johnson Worth Rostering as Handcuff in Powerful Offense",
+        "topic_id": "1402916825863294976",
+        "url": "https://www.rotoballer.com/player-news/emmett-johnson-worth-rostering-as-handcuff-in-powerful-offense/1925608"
+      },
+      "nfl_team": "KC",
+      "player_id": "13337",
+      "player_name": "Emmett Johnson",
+      "position": "RB",
+      "published": 1788829274000,
+      "source": "rotoballer",
+      "source_key": "220323",
+      "story_id": "nfl|13337|rotoballer|220323|1788829274000",
+      "title": "Emmett Johnson Worth Rostering as Handcuff in Powerful Offense",
+      "url": "https://www.rotoballer.com/player-news/emmett-johnson-worth-rostering-as-handcuff-in-powerful-offense/1925608"
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers wide receiver Jalen McMillan (knee) is competing for the No. 3 role on the depth chart, and his experience in the Bucs' offense gives him an early advantage over his teammates. Chris Godwin Sr. and Emeka Egbuka (toe) project as Tampa Bay's top two wideouts, leaving McMillan and Ted Hurst III vying for the next spot in the pecking order. The good news for McMillan is that Hurst is a rookie, which means his ascension into a meaningful role might be delayed as he adapts to NFL speed. On the other hand, McMillan has been in the NFL since 2024 and has 17 games' worth of experience (plus three offseasons) under his belt. His familiarity with the system and his connection with quarterback Baker Mayfield go a long way, especially considering that McMillan averaged 10.4 fantasy points per game in PPR leagues as a rookie. Managers should expect McMillan to open the year as the Bucs' No. 3 wide receiver, which also puts him on the fantasy radar in deeper leagues. The 24-year-old is a matchup-dependent WR3/flex as it is, and he would jump into the WR3 tier on a consistent basis if Godwin or Egbuk were to miss time. As a result, McMillan should be added off the waiver wire in all 12+ team leagues.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers wide receiver Jalen McMillan (knee) is competing for the No. 3 role on the depth chart, and his experience in the Bucs' offense gives him an early advantage over his teammates. Chris Godwin Sr. and Emeka Egbuka (toe) project as Tampa Bay's top two wideouts, leaving McMillan and Ted Hurst III vying for the next spot in the pecking order. The good news for McMillan is that Hurst is a rookie, which means his ascension into a meaningful role might be delayed as he adapts to NFL speed. On the other hand, McMillan has been in the NFL since 2024 and has 17 games' worth of experience (plus three offseasons) under his belt. His familiarity with the system and his connection with quarterback Baker Mayfield go a long way, especially considering that McMillan averaged 10.4 fantasy points per game in PPR leagues as a rookie. Managers should expect McMillan to open the year as the Bucs' No. 3 wide receiver, which also puts him on the fantasy radar in deeper leagues. The 24-year-old is a matchup-dependent WR3/flex as it is, and he would jump into the WR3 tier on a consistent basis if Godwin or Egbuk were to miss time. As a result, McMillan should be added off the waiver wire in all 12+ team leagues.",
+        "title": "Jalen McMillan's Experience an Advantage in Depth-Chart Competition",
+        "topic_id": "1402916825867489280",
+        "url": "https://www.rotoballer.com/player-news/jalen-mcmillans-experience-an-advantage-in-depth-chart-competition/1925605"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1788829031000,
+      "source": "rotoballer",
+      "source_key": "220324",
+      "story_id": "nfl|11618|rotoballer|220324|1788829031000",
+      "title": "Jalen McMillan's Experience an Advantage in Depth-Chart Competition",
+      "url": "https://www.rotoballer.com/player-news/jalen-mcmillans-experience-an-advantage-in-depth-chart-competition/1925605"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers running back Christian McCaffrey (undisclosed) is in full uniform for the team's practice in Melbourne, Australia, on Tuesday, according to Nick Wagoner of ESPN. The team's final injury report for the day will tell us more about CMC's status for the Week 1 showdown on Thursday against the division-rival Los Angeles Rams, but it looks like he is heading in the right direction to be active. The Niners kept McCaffrey in bubble wrap during the preseason, and he has been sitting out of practices for several weeks due to undisclosed tightness. The star RB said the plan was always for the team to play it safe with him to have him fully ready for the start of the 2026 regular season, and it makes sense given his lengthy injury history. Until further notice, there is no reason for fantasy managers to pull CMC out of their starting lineups for Week 1. The 30-year-old four-time Pro Bowler and 2023 Offensive Player of the Year is a league-winner if he stays healthy, which is what he did in 2025, when he ran for 1,202 yards and 10 touchdowns while adding 102 receptions for 924 yards and seven touchdowns in 17 regular-season games.",
+      "metadata": {
+        "description": "San Francisco 49ers running back Christian McCaffrey (undisclosed) is in full uniform for the team's practice in Melbourne, Australia, on Tuesday, according to Nick Wagoner of ESPN. The team's final injury report for the day will tell us more about CMC's status for the Week 1 showdown on Thursday against the division-rival Los Angeles Rams, but it looks like he is heading in the right direction to be active. The Niners kept McCaffrey in bubble wrap during the preseason, and he has been sitting out of practices for several weeks due to undisclosed tightness. The star RB said the plan was always for the team to play it safe with him to have him fully ready for the start of the 2026 regular season, and it makes sense given his lengthy injury history. Until further notice, there is no reason for fantasy managers to pull CMC out of their starting lineups for Week 1. The 30-year-old four-time Pro Bowler and 2023 Offensive Player of the Year is a league-winner if he stays healthy, which is what he did in 2025, when he ran for 1,202 yards and 10 touchdowns while adding 102 receptions for 924 yards and seven touchdowns in 17 regular-season games.",
+        "title": "Christian McCaffrey in Full Uniform for Tuesday's practice in Australia",
+        "topic_id": "1402916826022678528",
+        "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-in-full-uniform-for-tuesdays-practice-in-australia/1925603"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1788829027000,
+      "source": "rotoballer",
+      "source_key": "220325",
+      "story_id": "nfl|4034|rotoballer|220325|1788829027000",
+      "title": "Christian McCaffrey in Full Uniform for Tuesday's practice in Australia",
+      "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-in-full-uniform-for-tuesdays-practice-in-australia/1925603"
     },
     {
       "analysis": null,

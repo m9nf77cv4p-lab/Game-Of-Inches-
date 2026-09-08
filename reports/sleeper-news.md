@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2147**
-- Newly captured: **2**
+- Stored stories: **2151**
+- Newly captured: **4**
 
 ## Latest news
 
@@ -13,9 +13,17 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - McCaffrey wasn't spotted taking part in the early portion of practice Monday, so his presence on the field in full uniform Tuesday is a promising sign for his potential availability for the 49ers' season opener against the Rams. It's been a bit of a mysterious several weeks for McCaffrey, as he was described as dealing with "tightness" in early August and didn't play at all in the preseason while being an inconsistent participant in team drills. San Francisco's injury reports this week should shed some light on McCaffrey's status for the matchup against Los Angeles, but to this point he seems more likely than not to play in that contest.
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Suited up for practice Monday (2026-09-08T03:49:37Z)
   - The practice session is technically taking placing Tuesday afternoon in Melbourne local time, but regardless, Stribling's participation is a positive sign as he looks to rebound from a minor shoulder injury. It remains to be seen what the rookie wideout's level of practice participation will be, but to this point there hasn't been any indication that he's in any danger of missing the season opener versus the Rams. Stribling appears in line for a big role in San Francisco's offense as one of the team's top three wideouts alongside veterans Mike Evans (adductor) and Deebo Samuel.
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling in Full Uniform for Practice (2026-09-08T00:51:42Z)
+- **NEW — Tre' Harris** — Tre' Harris Should Produce in Chargers Offense (2026-09-08T01:17:07Z)
+  - Source: https://www.rotoballer.com/player-news/tre-harris-should-produce-in-chargers-offense/1925612
+- **NEW — Emmett Johnson** — Emmett Johnson Worth Rostering as Handcuff in Powerful Offense (2026-09-08T01:01:14Z)
+  - Source: https://www.rotoballer.com/player-news/emmett-johnson-worth-rostering-as-handcuff-in-powerful-offense/1925608
+- **NEW — Jalen McMillan** — Jalen McMillan's Experience an Advantage in Depth-Chart Competition (2026-09-08T00:57:11Z)
+  - Source: https://www.rotoballer.com/player-news/jalen-mcmillans-experience-an-advantage-in-depth-chart-competition/1925605
+- **NEW — Christian McCaffrey** — Christian McCaffrey in Full Uniform for Tuesday's practice in Australia (2026-09-08T00:57:07Z)
+  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-in-full-uniform-for-tuesdays-practice-in-australia/1925603
+- **De'Zhaun Stribling** — De'Zhaun Stribling in Full Uniform for Practice (2026-09-08T00:51:42Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-in-full-uniform-for-practice/1925601
-- **NEW — Malik Davis** — Malik Davis a Priority Handcuff on the Waiver Wire (2026-09-08T00:46:09Z)
+- **Malik Davis** — Malik Davis a Priority Handcuff on the Waiver Wire (2026-09-08T00:46:09Z)
   - Source: https://www.rotoballer.com/player-news/malik-davis-a-priority-handcuff-on-the-waiver-wire/1925597
 - **Ollie Gordon** — Ollie Gordon - Ditches non-contact jersey (2026-09-07T23:26:10Z)
   - Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Raiders on Sunday, but he could be held out as a precaution. The second-year pro is set to serve as the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the Dolphins arguably have the luxury of giving Gordon an extra week to recover if necessary.
@@ -221,11 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/romeo-doubs-a-priority-add-before-week-1/1925152
 - **Pat Bryant** — Pat Bryant Drawing Rave Reviews After Breakout Camp (2026-09-07T11:22:07Z)
   - Source: https://www.rotoballer.com/player-news/pat-bryant-drawing-rave-reviews-after-breakout-camp/1925121
-- **TreVeyon Henderson** — TreVeyon Henderson's Week 1 Status Remains Uncertain (2026-09-07T11:09:05Z)
-  - Source: https://www.rotoballer.com/player-news/treveyon-hendersons-week-1-status-remains-uncertain/1925109
-- **Jakobi Meyers** — Jakobi Meyers a Potential Steal in Fantasy Leagues (2026-09-07T10:54:05Z)
-  - Source: https://www.rotoballer.com/player-news/jakobi-meyers-a-potential-steal-in-fantasy-leagues/1925096
-- **Keaton Mitchell** — Keaton Mitchell Worth a Waiver Claim with High Upside? (2026-09-07T10:46:40Z)
-  - Source: https://www.rotoballer.com/player-news/keaton-mitchell-worth-a-waiver-claim-with-high-upside/1925092
-- **Juwan Johnson** — Juwan Johnson Has Top-12 Upside in New Orleans This Year (2026-09-07T10:40:52Z)
-  - Source: https://www.rotoballer.com/player-news/juwan-johnson-has-top-12-upside-in-new-orleans-this-year/1925080
