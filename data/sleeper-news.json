@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-08T03:22:54Z",
+  "last_checked_at": "2026-09-08T03:38:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|11575|rotoballer|220320|1788821705000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -14,10 +12,10 @@
   },
   "stories": [
     {
-      "analysis": "Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Falcons on Sunday, but the team could hold him out. Gordon is set to be the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the team will have no reason to throw him back into the fire when he could rest a week and return to full health.",
+      "analysis": "Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Raiders on Sunday, but he could be held out as a precaution. The second-year pro is set to serve as the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the Dolphins arguably have the luxury of giving Gordon an extra week to recover if necessary.",
       "description": "Gordon (ribs) was able to practice with contact in Monday's practice, David Furones of the South Florida Sun Sentinel reports.",
       "metadata": {
-        "analysis": "Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Falcons on Sunday, but the team could hold him out. Gordon is set to be the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the team will have no reason to throw him back into the fire when he could rest a week and return to full health.",
+        "analysis": "Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Raiders on Sunday, but he could be held out as a precaution. The second-year pro is set to serve as the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the Dolphins arguably have the luxury of giving Gordon an extra week to recover if necessary.",
         "description": "Gordon (ribs) was able to practice with contact in Monday's practice, David Furones of the South Florida Sun Sentinel reports.",
         "title": "Ollie Gordon - Ditches non-contact jersey",
         "topic_id": "1402833771308298240"

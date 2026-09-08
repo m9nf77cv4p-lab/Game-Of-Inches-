@@ -3,13 +3,13 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **2142**
-- Newly captured: **1**
+- Newly captured: **0**
 
 ## Latest news
 
 - **Ollie Gordon** — Ollie Gordon - Ditches non-contact jersey (2026-09-07T23:26:10Z)
-  - Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Falcons on Sunday, but the team could hold him out. Gordon is set to be the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the team will have no reason to throw him back into the fire when he could rest a week and return to full health.
-- **NEW — Ray Davis** — Ray Davis Offers Late-Round Value (2026-09-07T22:55:05Z)
+  - Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Raiders on Sunday, but he could be held out as a precaution. The second-year pro is set to serve as the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the Dolphins arguably have the luxury of giving Gordon an extra week to recover if necessary.
+- **Ray Davis** — Ray Davis Offers Late-Round Value (2026-09-07T22:55:05Z)
   - Source: https://www.rotoballer.com/player-news/ray-davis-offers-late-round-value/1925582
 - **George Kittle** — George Kittle's Week 1 Workload is Undecided (2026-09-07T22:48:06Z)
   - Source: https://www.rotoballer.com/player-news/george-kittles-workload-is-undecided/1925577
