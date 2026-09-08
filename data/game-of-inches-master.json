@@ -20387,7 +20387,7 @@
       ],
       "first_name": "Terrance",
       "full_name": "Terrance Ferguson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Ferguson",
       "nfl_team": "LAR",
       "player_id": "12487",
@@ -21423,7 +21423,7 @@
       ],
       "first_name": "De'Zhaun",
       "full_name": "De'Zhaun Stribling",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Stribling",
       "nfl_team": "SF",
       "player_id": "13417",
@@ -21543,7 +21543,7 @@
       ],
       "first_name": "Mike",
       "full_name": "Mike Evans",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Evans",
       "nfl_team": "SF",
       "player_id": "2216",
@@ -21708,7 +21708,7 @@
       ],
       "first_name": "Christian",
       "full_name": "Christian McCaffrey",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "McCaffrey",
       "nfl_team": "SF",
       "player_id": "4034",
@@ -23358,7 +23358,7 @@
       ],
       "first_name": "Puka",
       "full_name": "Puka Nacua",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Nacua",
       "nfl_team": "LAR",
       "player_id": "9493",
@@ -23764,8 +23764,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-08T22:08:15Z",
-    "source_fingerprint": "e958bba9b0a78d5b1d6d917b3cfde3d32607ff9b055ae6c9fdc64e1030ad3b0a"
+    "last_changed_at": "2026-09-08T22:37:09Z",
+    "source_fingerprint": "59e52e30680981320aaab36b65570e40aff8ace779bcb2a59d47fc0988d2bd7b"
   },
   "teams": [
     {

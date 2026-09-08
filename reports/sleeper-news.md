@@ -2,12 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2216**
-- Newly captured: **2**
+- Stored stories: **2223**
+- Newly captured: **7**
 
 ## Latest news
 
-- **NEW — Cyrus Allen** — Cyrus Allen - Labeled as reserve on depth chart (2026-09-08T22:05:12Z)
+- **NEW — Puka Nacua** — Puka Nacua not listed on Rams first injury report (2026-09-08T22:35:22.707000Z)
+  - Puka has been dealing with a psoas injury for a little over a week, but his absence on the injury report is a big indication that barring a setback, he will play on Thursday. The star receiver should be a full go and lock into fantasy lineups.
+  - Source: https://www.fantasypros.com/nfl/news/606631/puka-nacua-not-listed-on-rams-first-injury-report.php
+- **Cyrus Allen** — Cyrus Allen - Labeled as reserve on depth chart (2026-09-08T22:05:12Z)
   - A rookie fifth-round pick out of Cincinnati, Allen generated plenty of positive buzz in training camp and the preseason, but he doesn't appear to have a path to meaningful playing time heading into Week 1 while the Chiefs' receiving corps is at full strength. Rashee Rice and Xavier Worthy are locked in as the clear top two options on the depth chart, but Allen could eventually push Tyquan Thornton for the No. 3 spot. Thornton possesses more speed of the two and found some success as a vertical threat for the Chiefs last season, but Allen offers a more diverse route tree and could be a higher-volume target earner if Rice were to miss time at any point.
 - **Rhamondre Stevenson** — Rhamondre Stevenson - Lead role awaits in season opener (2026-09-08T22:01:39Z)
   - Stevenson and Henderson are expected to have a fairly equitable split of the backfield when both are fully healthy, but the latter's absence for Week 1 should clear the way for Stevenson to handle a workhorse role. The Patriots have Corey Kiner on hand as a backup option, and at least one of Lan Larison and Hassan Haskins will be promoted from the practice squad for the opener, but none are expected to poach much work from Stevenson on early or passing downs. With a big workload likely awaiting him Wednesday, Stevenson should make for a strong option in Week 1 fantasy lineups, even in a tough matchup against the reigning Super Bowl champions.
@@ -45,7 +48,19 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606576/jeremiyah-love-listed-rb2-on-cardinals-depth-chart.php
 - **Isaiah Davis** — Isaiah Davis - Partakes in practice Tuesday (2026-09-08T18:54:45Z)
   - Davis' involvement in Tuesday's session bodes well for his chances of being listed as at least a limited participant Wednesday, when the Jets release their first injury report of 2026. The 24-year-old sat out all three of the Jets' preseason games while tending to the knee injury, but if Davis emerges from Week 1 prep without any setbacks, he should be available to serve as the team's No. 3 back behind Breece Hall (groin) and Braelon Allen in Sunday's season opener at Tennessee.
-- **NEW — Tory Horton** — Tory Horton is Questionable for Wednesday's Game (2026-09-08T18:16:05Z)
+- **NEW — Malik Willis** — Malik Willis Could Offer Late-Round Value (2026-09-08T18:27:17Z)
+  - Source: https://www.rotoballer.com/player-news/malik-willis-could-offer-late-round-value/1926218
+- **NEW — Jadarian Price** — Jadarian Price an Intriguing Flex Option in Week 1 (2026-09-08T18:25:16Z)
+  - Source: https://www.rotoballer.com/player-news/jadarian-price-an-intriguing-flex-option-in-week-1/1926216
+- **NEW — AJ Barner** — AJ Barner a Potential Tight End Option in Week 1 (2026-09-08T18:23:51Z)
+  - Source: https://www.rotoballer.com/player-news/aj-barner-a-potential-tight-end-option-in-week-1/1926214
+- **NEW — Cooper Kupp** — Cooper Kupp Not Worth Rostering in Week 1 (2026-09-08T18:22:14Z)
+  - Source: https://www.rotoballer.com/player-news/cooper-kupp-not-worth-rostering-in-week-1/1926212
+- **NEW — Rashid Shaheed** — Rashid Shaheed a Player to Watch in Week 1 (2026-09-08T18:22:10Z)
+  - Source: https://www.rotoballer.com/player-news/rashid-shaheed-a-player-to-watch-in-week-1/1926210
+- **NEW — Jason Myers** — Jason Myers a Clear K1 in Week 1 (2026-09-08T18:18:10Z)
+  - Source: https://www.rotoballer.com/player-news/jason-myers-a-clear-k1-in-week-1/1926208
+- **Tory Horton** — Tory Horton is Questionable for Wednesday's Game (2026-09-08T18:16:05Z)
   - Source: https://www.rotoballer.com/player-news/tory-horton-is-questionable-for-wednesdays-game/1926204
 - **MarShawn Lloyd** — MarShawn Lloyd - Set to be included in committee (2026-09-08T17:50:05Z)
   - Though he profiles as the most enticing fantasy option of a backfield group that includes Kaleb Johnson and Chris Brooks, Lloyd doesn't look like he'll be called upon to handle a workhorse role out of the backfield amid Jacobs' absence. While Lloyd made it through training camp and the preseason unscathed and showed some dynamism as both a ball carrier and pass catcher, durability was a major concern over his first two NFL seasons; he's thus far been limited to just one career game on account of multiple soft-tissue injuries in addition to an emergency appendectomy. As such, the Packers are unlikely to ask Lloyd to shoulder heavy workloads, especially with Johnson on hand to serve as a between-the-tackles rushing complement and with Brooks available to spell him on passing downs.
@@ -207,19 +222,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) officially misses practice Monday  (2026-09-07T21:15:44.034000Z)
   - Henderson continues to trend towards missing Wednesday's season opener. 
   - Source: https://www.fantasypros.com/nfl/news/606425/treveyon-henderson-ankle-officially-misses-practice-monday.php
-- **AJ Barner** — AJ Barner (oblique) logs full practice Monday  (2026-09-07T21:15:44.009000Z)
-  - Barner remains on track to be a full-go for Wednesday's season opener against the Patriots. 
-  - Source: https://www.fantasypros.com/nfl/news/606428/aj-barner-oblique-logs-full-practice-monday.php
-- **Dylan Sampson** — Dylan Sampson a Worthy Deep-League Running Back Stash (2026-09-07T21:06:15Z)
-  - Source: https://www.rotoballer.com/player-news/dylan-sampson-a-worthy-deep-league-running-back-stash/1925513
-- **Zach Charbonnet** — Zach Charbonnet - Progressing in rehab (2026-09-07T20:53:06Z)
-  - Macdonald added that Charbonnet looks "dang good." The running back is on reserve/PUP to begin the season and will miss at least the first four games, but it sounds like he could return sometime next month. Seattle's backfield picture remains murky with rookie Jadarian Price, George Holani and Emanuel Wilson all options to see snaps. Adding Charbonnet's name to the mix will only muddy the picture. Price looks like the best bet for fantasy production, but the coaching staff has an affinity for Charbonnet, especially near the goal line.
-- **Tory Horton** — Tory Horton Listed as Limited on Monday (2026-09-07T20:42:06Z)
-  - Source: https://www.rotoballer.com/player-news/tory-horton-listed-as-limited-on-monday/1925505
-- **Jeremiyah Love** — Jeremiyah Love - Optimism for Week 1 (2026-09-07T20:34:27Z)
-  - Love was moving around at practice Monday, but LaFleur would only go as far as to say the rookie running back is "progressing" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.
-- **TreVeyon Henderson** — TreVeyon Henderson - Remains out of practice Monday (2026-09-07T20:25:56Z)
-  - Henderson has been DNP all week leading up to Wednesday's season opener in Seattle, and it's looking extremely unlikely that he's going to play Week 1. The Patriots have one more practice report to issue Tuesday, and it's at least notable that Henderson traveled with the team to Seattle, according to Mike Reiss of ESPN.com. If the second-year running back is unable to play, Rhamondre Stevenson would be looking at a potential workhorse role, as Corey Kiner is the only other running back on the active roster. Lan Larison is on the practice squad as a likely elevation.
-- **Keaton Mitchell** — Keaton Mitchell returns to practice Monday  (2026-09-07T20:15:43.840000Z)
-  - Mitchell had missed the last six practices. His return on Monday is a good sign for his status heading into Sunday's season opener. 
-  - Source: https://www.fantasypros.com/nfl/news/606409/keaton-mitchell-returns-to-practice-monday.php

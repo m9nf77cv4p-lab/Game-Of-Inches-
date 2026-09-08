@@ -1,10 +1,15 @@
 {
-  "last_checked_at": "2026-09-08T22:23:49Z",
+  "last_checked_at": "2026-09-08T22:37:11Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12497|rotoballer|220380|1788891365000",
-    "nfl|13413|rotowire|636409|1788905112000"
+    "nfl|11603|rotoballer|220386|1788891831000",
+    "nfl|13286|rotoballer|220385|1788891916000",
+    "nfl|2747|rotoballer|220383|1788891490000",
+    "nfl|4039|rotoballer|220381|1788891734000",
+    "nfl|8161|rotoballer|220384|1788892037000",
+    "nfl|8676|rotoballer|220382|1788891730000",
+    "nfl|9493|fantasy_pros|606631|1788906922707"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +19,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Puka has been dealing with a psoas injury for a little over a week, but his absence on the injury report is a big indication that barring a setback, he will play on Thursday. The star receiver should be a full go and lock into fantasy lineups.",
+      "description": "Puka Nacua is not listed on the Rams initial injury report for Week 1.",
+      "metadata": {
+        "analysis": "Puka has been dealing with a psoas injury for a little over a week, but his absence on the injury report is a big indication that barring a setback, he will play on Thursday. The star receiver should be a full go and lock into fantasy lineups.",
+        "description": "Puka Nacua is not listed on the Rams initial injury report for Week 1.",
+        "title": "Puka Nacua not listed on Rams first injury report",
+        "topic_id": "1403180971288735744",
+        "url": "https://www.fantasypros.com/nfl/news/606631/puka-nacua-not-listed-on-rams-first-injury-report.php"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1788906922707,
+      "source": "fantasy_pros",
+      "source_key": "606631",
+      "story_id": "nfl|9493|fantasy_pros|606631|1788906922707",
+      "title": "Puka Nacua not listed on Rams first injury report",
+      "url": "https://www.fantasypros.com/nfl/news/606631/puka-nacua-not-listed-on-rams-first-injury-report.php"
+    },
     {
       "analysis": "A rookie fifth-round pick out of Cincinnati, Allen generated plenty of positive buzz in training camp and the preseason, but he doesn't appear to have a path to meaningful playing time heading into Week 1 while the Chiefs' receiving corps is at full strength. Rashee Rice and Xavier Worthy are locked in as the clear top two options on the depth chart, but Allen could eventually push Tyquan Thornton for the No. 3 spot. Thornton possesses more speed of the two and found some success as a vertical threat for the Chiefs last season, but Allen offers a more diverse route tree and could be a higher-volume target earner if Rice were to miss time at any point.",
       "description": "Allen is listed as a backup receiver on the Chiefs' unofficial depth chart ahead of Monday's season opener versus the Broncos, Charles Goldsmith of AtoZSports.com reports.",
@@ -339,6 +365,126 @@
       "story_id": "nfl|11571|rotowire|636397|1788893685000",
       "title": "Isaiah Davis - Partakes in practice Tuesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins quarterback Malik Willis will get a chance to show what he can do against the Las Vegas Raiders in Week 1. The 27-year-old will get an opportunity to be a full-time starter after playing sparingly throughout his first four seasons in the league. The Dolphins haven't set Willis up for success with one of the worst receiving rooms in the league. They have superstar running back De'Von Achane, but this offense will likely struggle no matter who is under center. Rotoballer currently has Willis ranked at QB20, but Willis has the potential to be better than that. Given his lack of viable targets, Willis could be asked to use his legs to pick up first downs. He might be worth a late-round gamble, with there being some upside of a dual-threat quarterback.",
+      "metadata": {
+        "description": "Miami Dolphins quarterback Malik Willis will get a chance to show what he can do against the Las Vegas Raiders in Week 1. The 27-year-old will get an opportunity to be a full-time starter after playing sparingly throughout his first four seasons in the league. The Dolphins haven't set Willis up for success with one of the worst receiving rooms in the league. They have superstar running back De'Von Achane, but this offense will likely struggle no matter who is under center. Rotoballer currently has Willis ranked at QB20, but Willis has the potential to be better than that. Given his lack of viable targets, Willis could be asked to use his legs to pick up first downs. He might be worth a late-round gamble, with there being some upside of a dual-threat quarterback.",
+        "title": "Malik Willis Could Offer Late-Round Value",
+        "topic_id": "1403179705338699776",
+        "url": "https://www.rotoballer.com/player-news/malik-willis-could-offer-late-round-value/1926218"
+      },
+      "nfl_team": "MIA",
+      "player_id": "8161",
+      "player_name": "Malik Willis",
+      "position": "QB",
+      "published": 1788892037000,
+      "source": "rotoballer",
+      "source_key": "220384",
+      "story_id": "nfl|8161|rotoballer|220384|1788892037000",
+      "title": "Malik Willis Could Offer Late-Round Value",
+      "url": "https://www.rotoballer.com/player-news/malik-willis-could-offer-late-round-value/1926218"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks running back Jadarian Price figures to lead the backfield in Week 1 against the New England Patriots. Price was the No. 32 overall pick in the 2026 NFL Draft. He was brought in to replace the departing Kenneth Walker III. The knock on Price all offseason has been his lack of a college production profile due to his playing behind Arizona Cardinals rookie running back Jeremiyah Love (ankle) while at Notre Dame. However, all reports out of camp suggest that Price is playing lights out and looks like the real deal. New England was stout against opposing running backs in fantasy in 2025. This is a quality defensive front that will match up with an equally good offensive line in Week 1. However, Price figures to see his fair share of snaps, and he should be involved in the passing game. Based on where you likely drafted Price in fantasy, it is unlikely that you will have to start him in Week 1. However, he should provide a decent floor as a flex option this week. He should have decent volume and scoring opportunities.",
+      "metadata": {
+        "description": "Seattle Seahawks running back Jadarian Price figures to lead the backfield in Week 1 against the New England Patriots. Price was the No. 32 overall pick in the 2026 NFL Draft. He was brought in to replace the departing Kenneth Walker III. The knock on Price all offseason has been his lack of a college production profile due to his playing behind Arizona Cardinals rookie running back Jeremiyah Love (ankle) while at Notre Dame. However, all reports out of camp suggest that Price is playing lights out and looks like the real deal. New England was stout against opposing running backs in fantasy in 2025. This is a quality defensive front that will match up with an equally good offensive line in Week 1. However, Price figures to see his fair share of snaps, and he should be involved in the passing game. Based on where you likely drafted Price in fantasy, it is unlikely that you will have to start him in Week 1. However, he should provide a decent floor as a flex option this week. He should have decent volume and scoring opportunities.",
+        "title": "Jadarian Price an Intriguing Flex Option in Week 1",
+        "topic_id": "1403179705342894080",
+        "url": "https://www.rotoballer.com/player-news/jadarian-price-an-intriguing-flex-option-in-week-1/1926216"
+      },
+      "nfl_team": "SEA",
+      "player_id": "13286",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "published": 1788891916000,
+      "source": "rotoballer",
+      "source_key": "220385",
+      "story_id": "nfl|13286|rotoballer|220385|1788891916000",
+      "title": "Jadarian Price an Intriguing Flex Option in Week 1",
+      "url": "https://www.rotoballer.com/player-news/jadarian-price-an-intriguing-flex-option-in-week-1/1926216"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks tight end AJ Barner (oblique) is entering Year 3 entrenched as the No. 1 tight end option in the offense. He could be a solid play in Week 1 against the New England Patriots. Barner subtly broke out in 2025. He finished as the TE14 with 52 receptions for 519 yards and six touchdowns. While nothing elite, Barner seemed to steadily improve as the season wore on. Through seven games, Barner was averaging 3.14 targets per game. Following Seattle's Week 8 bye, that number crept up to 4.6. Barner remained a large part of the offense into the playoffs, suggesting that he could be a huge offensive piece as we enter the 2026 season. New England was middle-of-the-pack against tight ends in 2026. Week 1 games can be sloppy, and Barner could benefit as an outlet for quarterback Sam Darnold. If you punted on tight end in your draft, and you need a start, Barner is certainly an option you could turn to.",
+      "metadata": {
+        "description": "Seattle Seahawks tight end AJ Barner (oblique) is entering Year 3 entrenched as the No. 1 tight end option in the offense. He could be a solid play in Week 1 against the New England Patriots. Barner subtly broke out in 2025. He finished as the TE14 with 52 receptions for 519 yards and six touchdowns. While nothing elite, Barner seemed to steadily improve as the season wore on. Through seven games, Barner was averaging 3.14 targets per game. Following Seattle's Week 8 bye, that number crept up to 4.6. Barner remained a large part of the offense into the playoffs, suggesting that he could be a huge offensive piece as we enter the 2026 season. New England was middle-of-the-pack against tight ends in 2026. Week 1 games can be sloppy, and Barner could benefit as an outlet for quarterback Sam Darnold. If you punted on tight end in your draft, and you need a start, Barner is certainly an option you could turn to.",
+        "title": "AJ Barner a Potential Tight End Option in Week 1",
+        "topic_id": "1403179705456140288",
+        "url": "https://www.rotoballer.com/player-news/aj-barner-a-potential-tight-end-option-in-week-1/1926214"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11603",
+      "player_name": "AJ Barner",
+      "position": "TE",
+      "published": 1788891831000,
+      "source": "rotoballer",
+      "source_key": "220386",
+      "story_id": "nfl|11603|rotoballer|220386|1788891831000",
+      "title": "AJ Barner a Potential Tight End Option in Week 1",
+      "url": "https://www.rotoballer.com/player-news/aj-barner-a-potential-tight-end-option-in-week-1/1926214"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Cooper Kupp has entered an era in which he is far more important to the real-life Seahawks than he is to fantasy managers. Kupp is not a player you should be starting or even rostering in Week 1 against the New England Patriots. Kupp finished as the WR53 in 2025 on 47 receptions for 593 yards. He made plays when Seattle needed him to, but he was not a needle-mover for fantasy. Additionally, Kupp's role in the passing game waned as the season wore on. He only surpassed four targets in a game once following the team's Week 8 bye. With Rashid Shaheed and Tory Horton (hamstring) in line for more touches this coming season, Kupp feels like he could be the odd man out in fantasy football. Additionally, with Jaxon Smith-Njigba soaking up so many targets in a low-volume offense, as well, Kupp should not be considered in Week 1.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Cooper Kupp has entered an era in which he is far more important to the real-life Seahawks than he is to fantasy managers. Kupp is not a player you should be starting or even rostering in Week 1 against the New England Patriots. Kupp finished as the WR53 in 2025 on 47 receptions for 593 yards. He made plays when Seattle needed him to, but he was not a needle-mover for fantasy. Additionally, Kupp's role in the passing game waned as the season wore on. He only surpassed four targets in a game once following the team's Week 8 bye. With Rashid Shaheed and Tory Horton (hamstring) in line for more touches this coming season, Kupp feels like he could be the odd man out in fantasy football. Additionally, with Jaxon Smith-Njigba soaking up so many targets in a low-volume offense, as well, Kupp should not be considered in Week 1.",
+        "title": "Cooper Kupp Not Worth Rostering in Week 1",
+        "topic_id": "1403178447039143936",
+        "url": "https://www.rotoballer.com/player-news/cooper-kupp-not-worth-rostering-in-week-1/1926212"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4039",
+      "player_name": "Cooper Kupp",
+      "position": "WR",
+      "published": 1788891734000,
+      "source": "rotoballer",
+      "source_key": "220381",
+      "story_id": "nfl|4039|rotoballer|220381|1788891734000",
+      "title": "Cooper Kupp Not Worth Rostering in Week 1",
+      "url": "https://www.rotoballer.com/player-news/cooper-kupp-not-worth-rostering-in-week-1/1926212"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Rashid Shaheed is not in the starting conversation in Week 1 against the New England Patriots. However, Shaheed's usage as a player should be monitored in Week 1 now that he has had a whole offseason to acclimate to Seattle's offense. Before being traded to the Seahawks in 2025, Shaheed was on pace for 83 receptions for 942 yards. He has always been a quality wide receiver, but the Seahawks used him as more of a gadget player after acquiring him midseason. A $51 million contract extension suggests that Seattle would like to get Shaheed more involved offensively. Cooper Kupp is primarily a possession target and veteran leader, while second-year wideout Tory Horton (hamstring) is still coming up to speed. There is a lot of room for another wide receiver to emerge opposite Jaxon Smith-Njigba. Shaheed should be on your bench in Week 1, but his snap count and target numbers will be worth monitoring.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Rashid Shaheed is not in the starting conversation in Week 1 against the New England Patriots. However, Shaheed's usage as a player should be monitored in Week 1 now that he has had a whole offseason to acclimate to Seattle's offense. Before being traded to the Seahawks in 2025, Shaheed was on pace for 83 receptions for 942 yards. He has always been a quality wide receiver, but the Seahawks used him as more of a gadget player after acquiring him midseason. A $51 million contract extension suggests that Seattle would like to get Shaheed more involved offensively. Cooper Kupp is primarily a possession target and veteran leader, while second-year wideout Tory Horton (hamstring) is still coming up to speed. There is a lot of room for another wide receiver to emerge opposite Jaxon Smith-Njigba. Shaheed should be on your bench in Week 1, but his snap count and target numbers will be worth monitoring.",
+        "title": "Rashid Shaheed a Player to Watch in Week 1",
+        "topic_id": "1403178447034949632",
+        "url": "https://www.rotoballer.com/player-news/rashid-shaheed-a-player-to-watch-in-week-1/1926210"
+      },
+      "nfl_team": "SEA",
+      "player_id": "8676",
+      "player_name": "Rashid Shaheed",
+      "position": "WR",
+      "published": 1788891730000,
+      "source": "rotoballer",
+      "source_key": "220382",
+      "story_id": "nfl|8676|rotoballer|220382|1788891730000",
+      "title": "Rashid Shaheed a Player to Watch in Week 1",
+      "url": "https://www.rotoballer.com/player-news/rashid-shaheed-a-player-to-watch-in-week-1/1926210"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks kicker Jason Myers is an easy Week 1 start against the New England Patriots. Myers finished as the No. 1 kicker in fantasy last season while being highly efficient for one of the league's best offenses. Helping Myers' case was the Seahawks' field goal volume. Myers attempted 48 field goals, hitting 41. He also made all 48 of his extra point attempts. The Patriots boast a good defense, but Seattle should be able to score on them consistently with how efficiently the offense runs. Either way, Myers will be in a position to kick field goals or extra points often on Wednesday. He can safely be deployed as a starting kicking option as we get our first look at the Seahawks' 2026 offense.",
+      "metadata": {
+        "description": "Seattle Seahawks kicker Jason Myers is an easy Week 1 start against the New England Patriots. Myers finished as the No. 1 kicker in fantasy last season while being highly efficient for one of the league's best offenses. Helping Myers' case was the Seahawks' field goal volume. Myers attempted 48 field goals, hitting 41. He also made all 48 of his extra point attempts. The Patriots boast a good defense, but Seattle should be able to score on them consistently with how efficiently the offense runs. Either way, Myers will be in a position to kick field goals or extra points often on Wednesday. He can safely be deployed as a starting kicking option as we get our first look at the Seahawks' 2026 offense.",
+        "title": "Jason Myers a Clear K1 in Week 1",
+        "topic_id": "1403178447135612928",
+        "url": "https://www.rotoballer.com/player-news/jason-myers-a-clear-k1-in-week-1/1926208"
+      },
+      "nfl_team": "SEA",
+      "player_id": "2747",
+      "player_name": "Jason Myers",
+      "position": "K",
+      "published": 1788891490000,
+      "source": "rotoballer",
+      "source_key": "220383",
+      "story_id": "nfl|2747|rotoballer|220383|1788891490000",
+      "title": "Jason Myers a Clear K1 in Week 1",
+      "url": "https://www.rotoballer.com/player-news/jason-myers-a-clear-k1-in-week-1/1926208"
     },
     {
       "analysis": null,

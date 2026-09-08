@@ -23764,8 +23764,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-08T21:54:09Z",
-    "source_fingerprint": "60f39566c589798c37de0171dc4c48f2610e097651064acd237e382b53aa34ff"
+    "last_changed_at": "2026-09-08T22:08:15Z",
+    "source_fingerprint": "e958bba9b0a78d5b1d6d917b3cfde3d32607ff9b055ae6c9fdc64e1030ad3b0a"
   },
   "teams": [
     {
@@ -24360,6 +24360,7 @@
         "PHI"
       ],
       "reserve_ids": [
+        "12529",
         "13353"
       ],
       "roster_id": 10,
@@ -24376,10 +24377,10 @@
       "starter_ids": [
         "11564",
         "12507",
-        "12529",
+        "8136",
         "6786",
         "8144",
-        "12526",
+        "4983",
         "7553",
         "8146",
         "6797",
