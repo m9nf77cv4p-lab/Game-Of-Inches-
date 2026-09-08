@@ -1,12 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T16:21:24Z",
+  "last_checked_at": "2026-09-08T16:37:43Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12545|rotoballer|220345|1788868748000",
-    "nfl|13294|rotoballer|220346|1788869286000",
-    "nfl|8155|fantasy_pros|606556|1788884452031",
-    "nfl|8155|rotowire|636388|1788884362000"
+    "nfl|8155|rotoballer|220347|1788870727000"
   ],
   "schema_version": 1,
   "source": {
@@ -38,10 +35,10 @@
       "url": "https://www.fantasypros.com/nfl/news/606556/breece-hall-groin-trending-towards-playing-week-1.php"
     },
     {
-      "analysis": "With Hall having already been expected to be ready for Week 1 after his groin injury, Glenn's update reinforces that the Jets' lead running back remains in line for the season opener. The coach didn't mention Hall by name, but the report indicates he was believed to be among the players included in that group.",
+      "analysis": "Hall sustained a minor right groin strain during an Aug. 17 practice, and though he didn't return to full team drills before the end of the preseason, the running back looks like he's on track to be available for the start of the regular season. The Jets will publish their first injury report of 2026 following practice Wednesday, when it will be known whether Hall is a full or limited participant. Assuming Hall progresses to full practice workload by the end of the week, he should be ready to handle a three-down workload out of the New York backfield Sunday.",
       "description": "Jets head coach Aaron Glenn said Tuesday that Hall (groin) is trending toward playing in Sunday's season opener versus the Titans, Zack Rosenblatt of The Athletic reports.",
       "metadata": {
-        "analysis": "With Hall having already been expected to be ready for Week 1 after his groin injury, Glenn's update reinforces that the Jets' lead running back remains in line for the season opener. The coach didn't mention Hall by name, but the report indicates he was believed to be among the players included in that group.",
+        "analysis": "Hall sustained a minor right groin strain during an Aug. 17 practice, and though he didn't return to full team drills before the end of the preseason, the running back looks like he's on track to be available for the start of the regular season. The Jets will publish their first injury report of 2026 following practice Wednesday, when it will be known whether Hall is a full or limited participant. Assuming Hall progresses to full practice workload by the end of the week, he should be ready to handle a three-down workload out of the New York backfield Sunday.",
         "description": "Jets head coach Aaron Glenn said Tuesday that Hall (groin) is trending toward playing in Sunday's season opener versus the Titans, Zack Rosenblatt of The Athletic reports.",
         "title": "Breece Hall - Trending toward playing Week 1",
         "topic_id": "1403086715807084544"
@@ -96,6 +93,26 @@
       "story_id": "nfl|13285|rotowire|636385|1788880703000",
       "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets head coach Aaron Glenn said on Tuesday that running back Breece Hall (groin) is trending towards being ready for Week 1 this Sunday, Sept. 13, against the Tennessee Titans, according to Zack Rosenblatt of The Athletic. Hall has been trending this way for a while after initially suffering a minor strain of his right groin during training camp practice on Aug. 17. The Jets held Hall out as a precaution to close out camp and the preseason, but he should be ready to return to practice on Wednesday, and as long as he does not have a setback later this week, he should be ready to take on his role as the bell-cow back for Gang Green on Sunday against Tennessee. If Hall is limited at all, though, look for Braelon Allen to take on a bigger change-of-pace role to get the season started. The 25-year-old Hall had his first 1,000-yard rushing season in 2025 in his fourth year in the league, adding four touchdowns on 243 rushing attempts across 16 starts. The former second-rounder added 36 catches for 350 yards and another score as a receiver. Hall should see enough volume alone to operate as a strong RB2 for fantasy managers in his fifth year in the NFL in a new offense led by veteran quarterback Geno Smith.",
+      "metadata": {
+        "description": "New York Jets head coach Aaron Glenn said on Tuesday that running back Breece Hall (groin) is trending towards being ready for Week 1 this Sunday, Sept. 13, against the Tennessee Titans, according to Zack Rosenblatt of The Athletic. Hall has been trending this way for a while after initially suffering a minor strain of his right groin during training camp practice on Aug. 17. The Jets held Hall out as a precaution to close out camp and the preseason, but he should be ready to return to practice on Wednesday, and as long as he does not have a setback later this week, he should be ready to take on his role as the bell-cow back for Gang Green on Sunday against Tennessee. If Hall is limited at all, though, look for Braelon Allen to take on a bigger change-of-pace role to get the season started. The 25-year-old Hall had his first 1,000-yard rushing season in 2025 in his fourth year in the league, adding four touchdowns on 243 rushing attempts across 16 starts. The former second-rounder added 36 catches for 350 yards and another score as a receiver. Hall should see enough volume alone to operate as a strong RB2 for fantasy managers in his fifth year in the NFL in a new offense led by veteran quarterback Geno Smith.",
+        "title": "Breece Hall Trending Towards Being Active in Week 1",
+        "topic_id": "1403090489426620416",
+        "url": "https://www.rotoballer.com/player-news/breece-hall-trending-towards-being-active-in-week-1/1925966"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8155",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "published": 1788870727000,
+      "source": "rotoballer",
+      "source_key": "220347",
+      "story_id": "nfl|8155|rotoballer|220347|1788870727000",
+      "title": "Breece Hall Trending Towards Being Active in Week 1",
+      "url": "https://www.rotoballer.com/player-news/breece-hall-trending-towards-being-active-in-week-1/1925966"
     },
     {
       "analysis": null,
