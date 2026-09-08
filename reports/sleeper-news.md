@@ -2,11 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2186**
-- Newly captured: **3**
+- Stored stories: **2188**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Jeremiyah Love** — Jeremiyah Love listed as RB2 on Cardinals depth chart (2026-09-08T18:55:52.610000Z)
+  - Love has been dealing with an ankle sprain leading up to Sunday as well, but he has been trending in the right direction to suit up. The rookie will likely be slowly worked into the offense, which could be the reason for him sitting behind Allgeier on the depth chart.
+  - Source: https://www.fantasypros.com/nfl/news/606576/jeremiyah-love-listed-rb2-on-cardinals-depth-chart.php
+- **NEW — Isaiah Davis** — Isaiah Davis - Partakes in practice Tuesday (2026-09-08T18:54:45Z)
+  - Davis' involvement in Tuesday's session bodes well for his chances of being listed as at least a limited participant Wednesday, when the Jets release their first injury report of 2026. The 24-year-old sat out all three of the Jets' preseason games while tending to the knee injury, but if Davis emerges from Week 1 prep without any setbacks, he should be available to serve as the team's No. 3 back behind Breece Hall (groin) and Braelon Allen in Sunday's season opener at Tennessee.
 - **MarShawn Lloyd** — MarShawn Lloyd - Set to be included in committee (2026-09-08T17:50:05Z)
   - Though he profiles as the most enticing fantasy option of a backfield group that includes Kaleb Johnson and Chris Brooks, Lloyd doesn't look like he'll be called upon to handle a workhorse role out of the backfield amid Jacobs' absence. While Lloyd made it through training camp and the preseason unscathed and showed some dynamism as both a ball carrier and pass catcher, durability was a major concern over his first two NFL seasons; he's thus far been limited to just one career game on account of multiple soft-tissue injuries in addition to an emergency appendectomy. As such, the Packers are unlikely to ask Lloyd to shoulder heavy workloads, especially with Johnson on hand to serve as a between-the-tackles rushing complement and with Brooks available to spell him on passing downs.
 - **Breece Hall** — Breece Hall - Involved in Tuesday's practice (2026-09-08T17:42:58Z)
@@ -37,11 +42,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.
 - **Malachi Fields** — Malachi Fields - Looks set to begin season as No. 2 wideout (2026-09-08T15:18:23Z)
   - The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.
-- **NEW — Cam Skattebo** — Cam Skattebo Listed as Top Giants Running Back (2026-09-08T14:21:15Z)
+- **Cam Skattebo** — Cam Skattebo Listed as Top Giants Running Back (2026-09-08T14:21:15Z)
   - Source: https://www.rotoballer.com/player-news/cam-skattebo-listed-as-top-giants-running-back/1926038
-- **NEW — Kayshon Boutte** — Texans Have "Big Plans" for Kayshon Boutte (2026-09-08T14:14:05Z)
+- **Kayshon Boutte** — Texans Have "Big Plans" for Kayshon Boutte (2026-09-08T14:14:05Z)
   - Source: https://www.rotoballer.com/player-news/texans-have-big-plans-for-kayshon-boutte/1926030
-- **NEW — Kenyon Sadiq** — Kenyon Sadiq Worth a Waiver Stash as his Health Improves (2026-09-08T14:04:05Z)
+- **Kenyon Sadiq** — Kenyon Sadiq Worth a Waiver Stash as his Health Improves (2026-09-08T14:04:05Z)
   - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-worth-a-waiver-stash-as-his-health-improves/1926022
 - **Zay Flowers** — Zay Flowers Goes Through Drills at "Full Strength" (2026-09-08T14:02:06Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-goes-through-drills-at-full-strength/1926020
@@ -224,7 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/keaton-mitchell-back-at-practice-on-monday/1925406
 - **Braelon Allen** — Braelon Allen a Priority Add Amidst Backfield Injury Questions in New York (2026-09-07T16:27:05Z)
   - Source: https://www.rotoballer.com/player-news/braelon-allen-a-priority-add-amidst-backfield-injury-questions-in-new-york/1925401
-- **Emeka Egbuka** — Emeka Egbuka - Getting work Monday (2026-09-07T16:25:52Z)
-  - Egbuka was limited to work on the side last week, and although it's not yet clear how much he will do Monday, it appears he has taken a step forward in his recovery from a toe issue. There has been hope that Egbuka will be available for Week 1, and there remains reason to believe he will be available for Tampa Bay's opener.
-- **Cooper Kupp** — Is Cooper Kupp Still Worth Rostering in Deeper Leagues? (2026-09-07T16:19:05Z)
-  - Source: https://www.rotoballer.com/player-news/is-cooper-kupp-still-worth-rostering-in-deeper-league-formats/1925394

@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-08T18:34:19Z",
+  "last_checked_at": "2026-09-08T19:02:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12481|rotoballer|220358|1788877275000",
-    "nfl|13330|rotoballer|220356|1788876245000",
-    "nfl|9504|rotoballer|220357|1788876845000"
+    "nfl|11571|rotowire|636397|1788893685000",
+    "nfl|13287|fantasy_pros|606576|1788893752610"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Love has been dealing with an ankle sprain leading up to Sunday as well, but he has been trending in the right direction to suit up. The rookie will likely be slowly worked into the offense, which could be the reason for him sitting behind Allgeier on the depth chart.",
+      "description": "Jeremiyah Love was listed as the RB2 behind Tyler Allgeier on the Cardinals' Week 1 depth chart.",
+      "metadata": {
+        "analysis": "Love has been dealing with an ankle sprain leading up to Sunday as well, but he has been trending in the right direction to suit up. The rookie will likely be slowly worked into the offense, which could be the reason for him sitting behind Allgeier on the depth chart.",
+        "description": "Jeremiyah Love was listed as the RB2 behind Tyler Allgeier on the Cardinals' Week 1 depth chart.",
+        "title": "Jeremiyah Love listed as RB2 on Cardinals depth chart",
+        "topic_id": "1403125731898204160",
+        "url": "https://www.fantasypros.com/nfl/news/606576/jeremiyah-love-listed-rb2-on-cardinals-depth-chart.php"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788893752610,
+      "source": "fantasy_pros",
+      "source_key": "606576",
+      "story_id": "nfl|13287|fantasy_pros|606576|1788893752610",
+      "title": "Jeremiyah Love listed as RB2 on Cardinals depth chart",
+      "url": "https://www.fantasypros.com/nfl/news/606576/jeremiyah-love-listed-rb2-on-cardinals-depth-chart.php"
+    },
+    {
+      "analysis": "Davis' involvement in Tuesday's session bodes well for his chances of being listed as at least a limited participant Wednesday, when the Jets release their first injury report of 2026. The 24-year-old sat out all three of the Jets' preseason games while tending to the knee injury, but if Davis emerges from Week 1 prep without any setbacks, he should be available to serve as the team's No. 3 back behind Breece Hall (groin) and Braelon Allen in Sunday's season opener at Tennessee.",
+      "description": "Davis (knee) was spotted participating in drills with the Jets' other running backs during Tuesday's practice, Al Iannazzone of Newsday reports.",
+      "metadata": {
+        "analysis": "Davis' involvement in Tuesday's session bodes well for his chances of being listed as at least a limited participant Wednesday, when the Jets release their first injury report of 2026. The 24-year-old sat out all three of the Jets' preseason games while tending to the knee injury, but if Davis emerges from Week 1 prep without any setbacks, he should be available to serve as the team's No. 3 back behind Breece Hall (groin) and Braelon Allen in Sunday's season opener at Tennessee.",
+        "description": "Davis (knee) was spotted participating in drills with the Jets' other running backs during Tuesday's practice, Al Iannazzone of Newsday reports.",
+        "title": "Isaiah Davis - Partakes in practice Tuesday",
+        "topic_id": "1403126986586517504"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "11571",
+      "player_name": "Isaiah Davis",
+      "position": "RB",
+      "published": 1788893685000,
+      "source": "rotowire",
+      "source_key": "636397",
+      "story_id": "nfl|11571|rotowire|636397|1788893685000",
+      "title": "Isaiah Davis - Partakes in practice Tuesday",
+      "url": null
+    },
     {
       "analysis": "Though he profiles as the most enticing fantasy option of a backfield group that includes Kaleb Johnson and Chris Brooks, Lloyd doesn't look like he'll be called upon to handle a workhorse role out of the backfield amid Jacobs' absence. While Lloyd made it through training camp and the preseason unscathed and showed some dynamism as both a ball carrier and pass catcher, durability was a major concern over his first two NFL seasons; he's thus far been limited to just one career game on account of multiple soft-tissue injuries in addition to an emergency appendectomy. As such, the Packers are unlikely to ask Lloyd to shoulder heavy workloads, especially with Johnson on hand to serve as a between-the-tackles rushing complement and with Brooks available to spell him on passing downs.",
       "description": "Packers offensive coordinator Adam Stenavich suggested Tuesday that Lloyd could be part of a backfield committee to begin the season while Josh Jacobs (personal) remains on the Commissioner's Exempt List, Weston Hodkiewicz of the Packers' official site reports. \"It's gonna be running back by committee for a little bit to see where everyone is at,\" Stenavich said. \"[Lloyd] definitely has explosive ability, playmaking ability.\"",
