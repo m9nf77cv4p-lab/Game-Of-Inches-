@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T01:54:13Z",
+  "last_checked_at": "2026-09-08T02:07:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12495|rotoballer|220312|1788817205000"
+    "nfl|13346|rotoballer|220313|1788817679000"
   ],
   "schema_version": 1,
   "source": {
@@ -32,6 +32,26 @@
       "story_id": "nfl|12495|rotowire|636359|1788823570000",
       "title": "Ollie Gordon - Ditches non-contact jersey",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "After recording over 1,700 receiving yards and 20 touchdowns across his final two collegiate seasons at the University of Washington, wide receiver Denzel Boston was selected 39th overall in the 2026 NFL Draft by the Cleveland Browns. Boston has reportedly been an impressive performer throughout the preseason in Browns camp, and he could be in line for a significant role in the Cleveland offense right away. With fellow rookie KC Concepcion and veteran wideout Jerry Jeudy as his primary competition, Boston has a legitimate chance to emerge as the Browns' WR1 before the end of the year. Despite the underwhelming quarterback situation in Cleveland, Boston profiles as a must-add wide receiver in any fantasy league where he remains unrostered ahead of 2026.",
+      "metadata": {
+        "description": "After recording over 1,700 receiving yards and 20 touchdowns across his final two collegiate seasons at the University of Washington, wide receiver Denzel Boston was selected 39th overall in the 2026 NFL Draft by the Cleveland Browns. Boston has reportedly been an impressive performer throughout the preseason in Browns camp, and he could be in line for a significant role in the Cleveland offense right away. With fellow rookie KC Concepcion and veteran wideout Jerry Jeudy as his primary competition, Boston has a legitimate chance to emerge as the Browns' WR1 before the end of the year. Despite the underwhelming quarterback situation in Cleveland, Boston profiles as a must-add wide receiver in any fantasy league where he remains unrostered ahead of 2026.",
+        "title": "Denzel Boston a Must-Add Wide Receiver Amidst Preseason Buzz",
+        "topic_id": "1402869004992823296",
+        "url": "https://www.rotoballer.com/player-news/denzel-boston-a-must-add-wide-receiver-amidst-preseason-buzz/1925536"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13346",
+      "player_name": "Denzel Boston",
+      "position": "WR",
+      "published": 1788817679000,
+      "source": "rotoballer",
+      "source_key": "220313",
+      "story_id": "nfl|13346|rotoballer|220313|1788817679000",
+      "title": "Denzel Boston a Must-Add Wide Receiver Amidst Preseason Buzz",
+      "url": "https://www.rotoballer.com/player-news/denzel-boston-a-must-add-wide-receiver-amidst-preseason-buzz/1925536"
     },
     {
       "analysis": null,
