@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-08T01:26:05Z",
+  "last_checked_at": "2026-09-08T01:41:13Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|10213|rotoballer|220308|1788815765000",
-    "nfl|12469|rotoballer|220307|1788815175000"
+    "nfl|11783|rotoballer|220310|1788816831000",
+    "nfl|1479|rotoballer|220309|1788816306000"
   ],
   "schema_version": 1,
   "source": {
@@ -35,6 +35,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Across 16 games in 2025, Dallas Cowboys wide receiver Ryan Flournoy recorded 40 catches for 475 yards and four touchdowns on 56 targets. Entering 2026, Flournoy remains behind star Cowboys wide receivers CeeDee Lamb and George Pickens, which may make it difficult for him to provide consistently fantasy-relevant production. However, Flournoy closed the 2025 season strong, recording 20 catches for 241 yards and two touchdowns on 27 targets across his final four games played. The 26-year-old has also drawn positive buzz from both team personnel and Cowboys beat writers throughout this summer. When Dallas deploys three-wide receiver sets, the attention defenses are forced to give to Lamb and Pickens should open up the field for Flournoy. In leagues where he remains available, Flournoy profiles as a must-add stash for fantasy managers.",
+      "metadata": {
+        "description": "Across 16 games in 2025, Dallas Cowboys wide receiver Ryan Flournoy recorded 40 catches for 475 yards and four touchdowns on 56 targets. Entering 2026, Flournoy remains behind star Cowboys wide receivers CeeDee Lamb and George Pickens, which may make it difficult for him to provide consistently fantasy-relevant production. However, Flournoy closed the 2025 season strong, recording 20 catches for 241 yards and two touchdowns on 27 targets across his final four games played. The 26-year-old has also drawn positive buzz from both team personnel and Cowboys beat writers throughout this summer. When Dallas deploys three-wide receiver sets, the attention defenses are forced to give to Lamb and Pickens should open up the field for Flournoy. In leagues where he remains available, Flournoy profiles as a must-add stash for fantasy managers.",
+        "title": "Ryan Flournoy a High-Upside Stash Option Entering 2026",
+        "topic_id": "1402865229829840897",
+        "url": "https://www.rotoballer.com/player-news/ryan-flournoy-a-high-upside-stash-option-entering-2026/1925530"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11783",
+      "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "published": 1788816831000,
+      "source": "rotoballer",
+      "source_key": "220310",
+      "story_id": "nfl|11783|rotoballer|220310|1788816831000",
+      "title": "Ryan Flournoy a High-Upside Stash Option Entering 2026",
+      "url": "https://www.rotoballer.com/player-news/ryan-flournoy-a-high-upside-stash-option-entering-2026/1925530"
+    },
+    {
       "analysis": "Horton logged his second straight limited practice. It would still be a surprise if he plays on Wednesday, but it is a good sign nonetheless. ",
       "description": "Tory Horton remained limited in practice on Monday. ",
       "metadata": {
@@ -54,6 +74,26 @@
       "story_id": "nfl|12497|fantasy_pros|606432|1788816343834",
       "title": "Tory Horton (hamstring) limited in practice Monday ",
       "url": "https://www.fantasypros.com/nfl/news/606432/tory-horton-hamstring-limited-practice-monday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Keenan Allen spent most of the summer as a free agent before signing with Indianapolis in mid-August. The veteran wideout's tenure with the Colts has not gotten off to the cleanest start, as he was arrested on drunken driving charges on August 30. However, no league discipline for Allen has been announced and the Colts reportedly expect him to play in Week 1. As he enters his age-34 season, Allen is no longer the same player he once was at his peak. Still, he's logged over 120 targets in each of the past two seasons and finished 2025 with 81 catches for 777 yards and four touchdowns across 17 games with the Los Angeles Chargers. The Colts have talented pass-catchers in tight end Tyler Warren and wide receivers Alec Pierce (ankle) and Josh Downs, but the team lacks an established number one option after trading away wideout Michael Pittman Jr. over the offseason. As long as he's active, Allen profiles as a high-floor deep-league wide receiver option.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Keenan Allen spent most of the summer as a free agent before signing with Indianapolis in mid-August. The veteran wideout's tenure with the Colts has not gotten off to the cleanest start, as he was arrested on drunken driving charges on August 30. However, no league discipline for Allen has been announced and the Colts reportedly expect him to play in Week 1. As he enters his age-34 season, Allen is no longer the same player he once was at his peak. Still, he's logged over 120 targets in each of the past two seasons and finished 2025 with 81 catches for 777 yards and four touchdowns across 17 games with the Los Angeles Chargers. The Colts have talented pass-catchers in tight end Tyler Warren and wide receivers Alec Pierce (ankle) and Josh Downs, but the team lacks an established number one option after trading away wideout Michael Pittman Jr. over the offseason. As long as he's active, Allen profiles as a high-floor deep-league wide receiver option.",
+        "title": "Is Keenan Allen Still Worth Rostering in Deeper Leagues?",
+        "topic_id": "1402862713155092480",
+        "url": "https://www.rotoballer.com/player-news/is-keenan-allen-still-worth-rostering-in-deeper-league-formats/1925523"
+      },
+      "nfl_team": "IND",
+      "player_id": "1479",
+      "player_name": "Keenan Allen",
+      "position": "WR",
+      "published": 1788816306000,
+      "source": "rotoballer",
+      "source_key": "220309",
+      "story_id": "nfl|1479|rotoballer|220309|1788816306000",
+      "title": "Is Keenan Allen Still Worth Rostering in Deeper Leagues?",
+      "url": "https://www.rotoballer.com/player-news/is-keenan-allen-still-worth-rostering-in-deeper-league-formats/1925523"
     },
     {
       "analysis": null,

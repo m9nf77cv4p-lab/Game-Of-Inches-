@@ -2,17 +2,21 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2133**
+- Stored stories: **2135**
 - Newly captured: **2**
 
 ## Latest news
 
 - **Ollie Gordon** — Ollie Gordon - Ditches non-contact jersey (2026-09-07T23:26:10Z)
   - Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Falcons on Sunday, but the team could hold him out. Gordon is set to be the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the team will have no reason to throw him back into the fire when he could rest a week and return to full health.
+- **NEW — Ryan Flournoy** — Ryan Flournoy a High-Upside Stash Option Entering 2026 (2026-09-07T21:33:51Z)
+  - Source: https://www.rotoballer.com/player-news/ryan-flournoy-a-high-upside-stash-option-entering-2026/1925530
 - **Tory Horton** — Tory Horton (hamstring) limited in practice Monday  (2026-09-07T21:25:43.834000Z)
   - Horton logged his second straight limited practice. It would still be a surprise if he plays on Wednesday, but it is a good sign nonetheless. 
   - Source: https://www.fantasypros.com/nfl/news/606432/tory-horton-hamstring-limited-practice-monday.php
-- **NEW — Tre Tucker** — Tre Tucker an Appealing Depth Add for Fantasy Managers Ahead of 2026 (2026-09-07T21:16:05Z)
+- **NEW — Keenan Allen** — Is Keenan Allen Still Worth Rostering in Deeper Leagues? (2026-09-07T21:25:06Z)
+  - Source: https://www.rotoballer.com/player-news/is-keenan-allen-still-worth-rostering-in-deeper-league-formats/1925523
+- **Tre Tucker** — Tre Tucker an Appealing Depth Add for Fantasy Managers Ahead of 2026 (2026-09-07T21:16:05Z)
   - Source: https://www.rotoballer.com/player-news/tre-tucker-an-appealing-depth-add-for-fantasy-managers-ahead-of-2026/1925517
 - **Zach Charbonnet** — Zach Charbonnet (knee) has 'aggressive' return timeline (2026-09-07T21:15:44.064000Z)
   - Charbonnet is opening the season on the physically unable to perform (PUP) list. He will miss at least four games, but he could be off the PUP list sooner than expected. Macdonald did not disclose specifics on Charbonnet's timeline. The fourth-year running back has scored 20 rushing touchdowns in the last two seasons and tore his ACL in January.
@@ -26,7 +30,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **AJ Barner** — AJ Barner (oblique) logs full practice Monday  (2026-09-07T21:15:44.009000Z)
   - Barner remains on track to be a full-go for Wednesday's season opener against the Patriots. 
   - Source: https://www.fantasypros.com/nfl/news/606428/aj-barner-oblique-logs-full-practice-monday.php
-- **NEW — Dylan Sampson** — Dylan Sampson a Worthy Deep-League Running Back Stash (2026-09-07T21:06:15Z)
+- **Dylan Sampson** — Dylan Sampson a Worthy Deep-League Running Back Stash (2026-09-07T21:06:15Z)
   - Source: https://www.rotoballer.com/player-news/dylan-sampson-a-worthy-deep-league-running-back-stash/1925513
 - **Zach Charbonnet** — Zach Charbonnet - Progressing in rehab (2026-09-07T20:53:06Z)
   - Macdonald added that Charbonnet looks "dang good." The running back is on reserve/PUP to begin the season and will miss at least the first four games, but it sounds like he could return sometime next month. Seattle's backfield picture remains murky with rookie Jadarian Price, George Holani and Emanuel Wilson all options to see snaps. Adding Charbonnet's name to the mix will only muddy the picture. Price looks like the best bet for fantasy production, but the coaching staff has an affinity for Charbonnet, especially near the goal line.
@@ -226,8 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tory Horton** — Tory Horton (hamstring) limited in practice Sunday  (2026-09-07T01:35:36.529000Z)
   - This is a little surprising as just a couple of weeks ago, Horton was said to be out "for a while." He projects as an upside WR4/WR5 for fantasy managers when he is healthy. 
   - Source: https://www.fantasypros.com/nfl/news/606236/tory-horton-hamstring-limited-practice-sunday.php
-- **AJ Barner** — AJ Barner (oblique) practices in full Sunday  (2026-09-07T01:25:37.014000Z)
-  - Barner missed some time early in the offseason program, but he avoided the PUP list during training camp. He heads into the season as a TE2 for fantasy managers. 
-  - Source: https://www.fantasypros.com/nfl/news/606233/aj-barner-oblique-practices-full-sunday.php
-- **George Kittle** — George Kittle Practices Ahead of Week 1 (2026-09-07T01:16:24Z)
-  - Source: https://www.rotoballer.com/player-news/george-kittle-practices-ahead-of-week-1/1924907
