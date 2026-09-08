@@ -3,11 +3,13 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **2230**
-- Newly captured: **2**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Mike Evans** — Mike Evans - Removed from injured list (2026-09-08T22:59:21Z)
+- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling - Shakes off shoulder issue (2026-09-08T23:16:04Z)
+  - Stribling was slowed by a shoulder injury for a couple weeks, but it apparently is no longer an issue, as he did not draw a mention on the first injury report the 49ers put out in advance of Week 1. Stribling is listed as a reserve receiver behind veterans Mike Evans and Deebo Samuel on San Francisco's unofficial depth chart, so while it appears he will debut against the Rams in Australia it's unclear exactly what role he will fill.
+- **Mike Evans** — Mike Evans - Removed from injured list (2026-09-08T22:59:21Z)
   - Evans has been slowed by injuries since early August, but he apparently is back at 100 percent in advance of Week 1. Barring any setbacks, he seems set to fill a starting wide receiver spot when the 49ers kick off their 2026 campaign against the Rams in Australia.
 - **George Kittle** — George Kittle - Listed as limited participant (2026-09-08T22:54:09Z)
   - Kittle has been practicing regularly since being activated from the active/PUP list a little over two weeks ago, and although he seemingly did not take part in every drill Tuesday, he was able to get at least some work in at San Francisco's first official practice session of the week. He could wind up a full participant before kickoff, and even still the door remains open for him to suit up for Week 1.
@@ -49,7 +51,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tyler Allgeier** — Tyler Allgeier listed as starter on Cardinals depth chart (2026-09-08T19:05:52.756000Z)
   - Allgeier was listed as the starter ahead of rookie Jeremiyah Love after a training camp battle. Love has also been making his way back from an ankle sprain, which could be why Allgeier sees more carries in the early part of the season. If he does indeed get the start on Sunday, Allgeier could be an RB3 or deeper flex option in fantasy.
   - Source: https://www.fantasypros.com/nfl/news/606577/tyler-allgeier-listed-starter-on-cardinals-depth-chart.php
-- **NEW — George Kittle** — George Kittle is Limited During Tuesday's Practice (2026-09-08T18:56:23Z)
+- **George Kittle** — George Kittle is Limited During Tuesday's Practice (2026-09-08T18:56:23Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-is-limited-during-tuesdays-practice/1926271
 - **Jeremiyah Love** — Jeremiyah Love listed as RB2 on Cardinals depth chart (2026-09-08T18:55:52.610000Z)
   - Love has been dealing with an ankle sprain leading up to Sunday as well, but he has been trending in the right direction to suit up. The rookie will likely be slowly worked into the offense, which could be the reason for him sitting behind Allgeier on the depth chart.
@@ -216,5 +218,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/hunter-henry-remains-a-high-floor-deep-league-tight-end-option/1925541
 - **Denzel Boston** — Denzel Boston a Must-Add Wide Receiver Amidst Preseason Buzz (2026-09-07T21:47:59Z)
   - Source: https://www.rotoballer.com/player-news/denzel-boston-a-must-add-wide-receiver-amidst-preseason-buzz/1925536
-- **Ollie Gordon** — Ollie Gordon II Ditches No-Contact Jersey on Monday (2026-09-07T21:40:05Z)
-  - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-ditches-no-contact-jersey-on-monday/1925532

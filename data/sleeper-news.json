@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T23:15:36Z",
+  "last_checked_at": "2026-09-08T23:28:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|2216|rotowire|636413|1788908361000",
-    "nfl|4217|rotoballer|220390|1788893783000"
+    "nfl|13417|rotowire|636414|1788909364000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Stribling was slowed by a shoulder injury for a couple weeks, but it apparently is no longer an issue, as he did not draw a mention on the first injury report the 49ers put out in advance of Week 1. Stribling is listed as a reserve receiver behind veterans Mike Evans and Deebo Samuel on San Francisco's unofficial depth chart, so while it appears he will debut against the Rams in Australia it's unclear exactly what role he will fill.",
+      "description": "Stribling (shoulder) was not listed on the injury report the 49ers released Tuesday, according to Matt Maiocco of NBC Sports Bay Area.",
+      "metadata": {
+        "analysis": "Stribling was slowed by a shoulder injury for a couple weeks, but it apparently is no longer an issue, as he did not draw a mention on the first injury report the 49ers put out in advance of Week 1. Stribling is listed as a reserve receiver behind veterans Mike Evans and Deebo Samuel on San Francisco's unofficial depth chart, so while it appears he will debut against the Rams in Australia it's unclear exactly what role he will fill.",
+        "description": "Stribling (shoulder) was not listed on the injury report the 49ers released Tuesday, according to Matt Maiocco of NBC Sports Bay Area.",
+        "title": "De'Zhaun Stribling - Shakes off shoulder issue",
+        "topic_id": "1403192294617694208"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1788909364000,
+      "source": "rotowire",
+      "source_key": "636414",
+      "story_id": "nfl|13417|rotowire|636414|1788909364000",
+      "title": "De'Zhaun Stribling - Shakes off shoulder issue",
+      "url": null
+    },
     {
       "analysis": "Evans has been slowed by injuries since early August, but he apparently is back at 100 percent in advance of Week 1. Barring any setbacks, he seems set to fill a starting wide receiver spot when the 49ers kick off their 2026 campaign against the Rams in Australia.",
       "description": "Evans (adductor) was not listed on the injury report the 49ers released Tuesday, according to Matt Maiocco of NBC Sports Bay Area.",
@@ -44804,26 +44823,6 @@
       "story_id": "nfl|2747|rotoballer|218275|1786319161000",
       "title": "Jason Myers One of the Best Kicker Options in Fantasy Drafts",
       "url": "https://www.rotoballer.com/player-news/jason-myers-one-of-the-best-kicker-options-in-fantasy-drafts/1906068"
-    },
-    {
-      "analysis": null,
-      "description": "Baltimore Ravens running back Justice Hill enters his seventh NFL season as he prepares for his first coaching change. Hill had a down year in 2025, totaling 262 yards and three touchdowns in 10 games, averaging 5.5 half-PPR fantasy points per game. The good news: former Bears' offensive coordinator Declan Doyle is now the team's play caller. Doyle comes from the Sean Payton coaching tree, and in all the years he's been in the NFL, running backs have caught more than 50 passes in five of the seven seasons. Payton's offense favors throwing to running backs, which is good news for Hill, who is clearly the best receiving back in the offense. Hill's role in Baltimore is solidified, but with star running back Derrick Henry expected to take most of the snaps in this backfield, Hill doesn't carry much fantasy value in 2026.",
-      "metadata": {
-        "description": "Baltimore Ravens running back Justice Hill enters his seventh NFL season as he prepares for his first coaching change. Hill had a down year in 2025, totaling 262 yards and three touchdowns in 10 games, averaging 5.5 half-PPR fantasy points per game. The good news: former Bears' offensive coordinator Declan Doyle is now the team's play caller. Doyle comes from the Sean Payton coaching tree, and in all the years he's been in the NFL, running backs have caught more than 50 passes in five of the seven seasons. Payton's offense favors throwing to running backs, which is good news for Hill, who is clearly the best receiving back in the offense. Hill's role in Baltimore is solidified, but with star running back Derrick Henry expected to take most of the snaps in this backfield, Hill doesn't carry much fantasy value in 2026.",
-        "title": "Justice Hill a Great Fit in Ravens' New Offense",
-        "topic_id": "1392384880930717696",
-        "url": "https://www.rotoballer.com/player-news/justice-hill-a-great-fit-in-ravens-new-offense/1906064"
-      },
-      "nfl_team": "BAL",
-      "player_id": "5995",
-      "player_name": "Justice Hill",
-      "position": "RB",
-      "published": 1786317913000,
-      "source": "rotoballer",
-      "source_key": "218273",
-      "story_id": "nfl|5995|rotoballer|218273|1786317913000",
-      "title": "Justice Hill a Great Fit in Ravens' New Offense",
-      "url": "https://www.rotoballer.com/player-news/justice-hill-a-great-fit-in-ravens-new-offense/1906064"
     }
   ]
 }
