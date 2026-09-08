@@ -7,7 +7,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 ## Latest news
 
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks Is a Potential Waiver Wire Pickup (2026-09-08T10:29:05Z)
+- **NEW — Malachi Fields** — Malachi Fields Emerging As Target for Week 1 (2026-09-08T10:41:58Z)
+  - Source: https://www.rotoballer.com/player-news/malachi-fields-emerging-as-target-for-week-1/1925820
+- **Dontayvion Wicks** — Dontayvion Wicks Is a Potential Waiver-Wire Pickup (2026-09-08T10:29:05Z)
   - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-is-a-potential-waiver-wire-pickup/1925808
 - **Caleb Douglas** — Caleb Douglas Brings a High Ceiling from the Waiver Wire (2026-09-08T10:15:06Z)
   - Source: https://www.rotoballer.com/player-news/caleb-douglas-brings-a-high-ceiling-from-the-waiver-wire/1925794
@@ -226,5 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-practicing-on-monday/1925210
 - **Mike Evans** — Mike Evans' Injuries During Camp Were Not Significant (2026-09-07T12:54:05Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-injuries-during-camp-were-not-significant/1925177
-- **Tua Tagovailoa** — Tua Tagovailoa - Will start Week 1 (2026-09-07T12:23:28Z)
-  - The Falcons were deciding between Tagovailoa and Michael Penix (knee) for the Week 1 starting assignment, and with the latter still getting back up to full speed as he works his way back from a torn ACL, Tagovailoa will get the nod. Tagovailoa likely won't have much leash as a starter, coming off a poor preseason in which he completed 10 of 13 pass attempts for 117 yards while fumbling twice (losing one).

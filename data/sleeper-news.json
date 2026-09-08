@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T14:41:53Z",
+  "last_checked_at": "2026-09-08T14:56:52Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9486|rotoballer|220334|1788863345000"
+    "nfl|13285|rotoballer|220335|1788864118000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,10 +15,30 @@
   "stories": [
     {
       "analysis": null,
-      "description": "Philadelphia Eagles wide receiver Dontayvion Wicks is a nice addition to the Eagles receiving core coming from the Green Bay Packers and he could challenge for the No. 2 receiver role in Philadelphia. He could also emerge as a popular early-season waiver wire pickup. The Eagles drafted Makai Lemon out of USC but he might fit in more as a slot receiver with Wicks playing on the outside. Last year in Green Bay, Wicks was in a room full of talented receivers, but he did finish the season with 46 targets and 30 catches for 332 yards and two touchdowns. Reuben Frank of NBC Sports Philadelphia wrote that Wicks could expand his role in Philadelphia to more than a role player. He quoted Eagles wide receivers coach Aaron Moorehead: \"There's nothing that should be holding him back from anything in this league. He can go out here and have as good a year as anybody. Exciting time for him to prove that, 'Hey, I can be more than what I was in Green Bay.'\"",
+      "description": "New York Giants wide receiver Malachi Fields is a rookie out of Notre Dame and might now be the No. 2 wide receiver for the Giants. Matt Legros of Giants Wire of USA Today broke down the latest Fields news, writing, \"Malachi Fields is in line for a much larger role with the New York Giants after the team moved on from veteran wide receiver Darius Slayton on Monday. The rookie now has an opportunity to entrench himself as the No. 2 receiver opposite Malik Nabers.\" The No. 2 receiver in the Giants offense could be a productive role for Fields, who turned heads in camp, according to Legros: \"Fields was particularly impressive during the preseason, showing strong hands and the ability to create plays downfield. He also connected well with quarterback Jaxson Dart, strengthening his case for meaningful snaps once the regular season begins.\" Fields looks like an impact player right out of the gate for the Giants.",
       "metadata": {
-        "description": "Philadelphia Eagles wide receiver Dontayvion Wicks is a nice addition to the Eagles receiving core coming from the Green Bay Packers and he could challenge for the No. 2 receiver role in Philadelphia. He could also emerge as a popular early-season waiver wire pickup. The Eagles drafted Makai Lemon out of USC but he might fit in more as a slot receiver with Wicks playing on the outside. Last year in Green Bay, Wicks was in a room full of talented receivers, but he did finish the season with 46 targets and 30 catches for 332 yards and two touchdowns. Reuben Frank of NBC Sports Philadelphia wrote that Wicks could expand his role in Philadelphia to more than a role player. He quoted Eagles wide receivers coach Aaron Moorehead: \"There's nothing that should be holding him back from anything in this league. He can go out here and have as good a year as anybody. Exciting time for him to prove that, 'Hey, I can be more than what I was in Green Bay.'\"",
-        "title": "Dontayvion Wicks Is a Potential Waiver Wire Pickup",
+        "description": "New York Giants wide receiver Malachi Fields is a rookie out of Notre Dame and might now be the No. 2 wide receiver for the Giants. Matt Legros of Giants Wire of USA Today broke down the latest Fields news, writing, \"Malachi Fields is in line for a much larger role with the New York Giants after the team moved on from veteran wide receiver Darius Slayton on Monday. The rookie now has an opportunity to entrench himself as the No. 2 receiver opposite Malik Nabers.\" The No. 2 receiver in the Giants offense could be a productive role for Fields, who turned heads in camp, according to Legros: \"Fields was particularly impressive during the preseason, showing strong hands and the ability to create plays downfield. He also connected well with quarterback Jaxson Dart, strengthening his case for meaningful snaps once the regular season begins.\" Fields looks like an impact player right out of the gate for the Giants.",
+        "title": "Malachi Fields Emerging As Target for Week 1",
+        "topic_id": "1403062804356866048",
+        "url": "https://www.rotoballer.com/player-news/malachi-fields-emerging-as-target-for-week-1/1925820"
+      },
+      "nfl_team": "NYG",
+      "player_id": "13285",
+      "player_name": "Malachi Fields",
+      "position": "WR",
+      "published": 1788864118000,
+      "source": "rotoballer",
+      "source_key": "220335",
+      "story_id": "nfl|13285|rotoballer|220335|1788864118000",
+      "title": "Malachi Fields Emerging As Target for Week 1",
+      "url": "https://www.rotoballer.com/player-news/malachi-fields-emerging-as-target-for-week-1/1925820"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles wide receiver Dontayvion Wicks is a nice addition to the Eagles receiving corps coming from the Green Bay Packers, and he could challenge for the No. 2 receiver role in Philadelphia. He could also emerge as a popular early-season waiver wire pickup. The Eagles drafted Makai Lemon out of USC, but he might fit in more as a slot receiver with Wicks playing on the outside. Last year in Green Bay, Wicks was in a room full of talented receivers, but he did finish the season with 46 targets and 30 catches for 332 yards and two touchdowns. Reuben Frank of NBC Sports Philadelphia wrote that Wicks could expand his role in Philadelphia to more than a role player. He quoted Eagles wide receivers coach Aaron Moorehead: \"There's nothing that should be holding him back from anything in this league. He can go out here and have as good a year as anybody. Exciting time for him to prove that, 'Hey, I can be more than what I was in Green Bay.'\"",
+      "metadata": {
+        "description": "Philadelphia Eagles wide receiver Dontayvion Wicks is a nice addition to the Eagles receiving corps coming from the Green Bay Packers, and he could challenge for the No. 2 receiver role in Philadelphia. He could also emerge as a popular early-season waiver wire pickup. The Eagles drafted Makai Lemon out of USC, but he might fit in more as a slot receiver with Wicks playing on the outside. Last year in Green Bay, Wicks was in a room full of talented receivers, but he did finish the season with 46 targets and 30 catches for 332 yards and two touchdowns. Reuben Frank of NBC Sports Philadelphia wrote that Wicks could expand his role in Philadelphia to more than a role player. He quoted Eagles wide receivers coach Aaron Moorehead: \"There's nothing that should be holding him back from anything in this league. He can go out here and have as good a year as anybody. Exciting time for him to prove that, 'Hey, I can be more than what I was in Green Bay.'\"",
+        "title": "Dontayvion Wicks Is a Potential Waiver-Wire Pickup",
         "topic_id": "1403060287636000768",
         "url": "https://www.rotoballer.com/player-news/dontayvion-wicks-is-a-potential-waiver-wire-pickup/1925808"
       },
@@ -30,7 +50,7 @@
       "source": "rotoballer",
       "source_key": "220334",
       "story_id": "nfl|9486|rotoballer|220334|1788863345000",
-      "title": "Dontayvion Wicks Is a Potential Waiver Wire Pickup",
+      "title": "Dontayvion Wicks Is a Potential Waiver-Wire Pickup",
       "url": "https://www.rotoballer.com/player-news/dontayvion-wicks-is-a-potential-waiver-wire-pickup/1925808"
     },
     {
@@ -43272,26 +43292,6 @@
       "story_id": "nfl|5995|rotoballer|218273|1786317913000",
       "title": "Justice Hill a Great Fit in Ravens' New Offense",
       "url": "https://www.rotoballer.com/player-news/justice-hill-a-great-fit-in-ravens-new-offense/1906064"
-    },
-    {
-      "analysis": null,
-      "description": "Dallas Cowboys kicker Brandon Aubrey gives fantasy managers something most players at his position can't match. He made 36 of 42 field goals last season, including 11 from at least 50 yards, with a long of 64. His range was on full display against Detroit when he connected from 55, 57 and 63 yards, becoming the first kicker in NFL history to make three field goals of 55 yards or longer in the same game. Aubrey also finished 2025 with three makes from 60-plus yards, another NFL single-season record. That distance matters even more in fantasy formats that award additional points for longer kicks. RotoBaller has Aubrey 149th overall and K1 entering 2026. There is still no reason to pass on useful running back or wide receiver depth several rounds early just to grab a kicker. Once that part of the roster is built, though, Aubrey is one of the few at his position worth paying a little extra to get.",
-      "metadata": {
-        "description": "Dallas Cowboys kicker Brandon Aubrey gives fantasy managers something most players at his position can't match. He made 36 of 42 field goals last season, including 11 from at least 50 yards, with a long of 64. His range was on full display against Detroit when he connected from 55, 57 and 63 yards, becoming the first kicker in NFL history to make three field goals of 55 yards or longer in the same game. Aubrey also finished 2025 with three makes from 60-plus yards, another NFL single-season record. That distance matters even more in fantasy formats that award additional points for longer kicks. RotoBaller has Aubrey 149th overall and K1 entering 2026. There is still no reason to pass on useful running back or wide receiver depth several rounds early just to grab a kicker. Once that part of the roster is built, though, Aubrey is one of the few at his position worth paying a little extra to get.",
-        "title": "Brandon Aubrey's Deep Range Separates Him From the Kicker Field",
-        "topic_id": "1392255258939363328",
-        "url": "https://www.rotoballer.com/player-news/brandon-aubreys-deep-range-separates-him-from-the-kicker-field/1905924"
-      },
-      "nfl_team": "DAL",
-      "player_id": "11533",
-      "player_name": "Brandon Aubrey",
-      "position": "K",
-      "published": 1786287308000,
-      "source": "rotoballer",
-      "source_key": "218254",
-      "story_id": "nfl|11533|rotoballer|218254|1786287308000",
-      "title": "Brandon Aubrey's Deep Range Separates Him From the Kicker Field",
-      "url": "https://www.rotoballer.com/player-news/brandon-aubreys-deep-range-separates-him-from-the-kicker-field/1905924"
     }
   ]
 }
