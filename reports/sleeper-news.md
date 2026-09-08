@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2200**
+- Stored stories: **2201**
 - Newly captured: **1**
 
 ## Latest news
@@ -44,7 +44,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Mahomes didn't play in any of the Chiefs' preseason games, but he was cleared for 11-on-11 work early in camp and steered clear of any setbacks in his recovery from Dec. 15 surgery to repair a torn ACL and LCL in his left knee. The Chiefs will release their first injury report of 2026 on Thursday, and assuming Mahomes is listed as a full participant, it would confirm that he's on track to start against Denver. Mahomes will likely be playing without one of his top protectors, however, as Reid said that starting left tackle Josh Simmons (back) has a "good chance" of sitting out Week 1, per Matt McMullen of the Chiefs' official site.
 - **Zay Flowers** — Zay Flowers - Looks to be practicing fully Tuesday (2026-09-08T17:12:52Z)
   - Baltimore won't release its first Week 1 injury report until Wednesday, but assuming Flowers doesn't appear on the report or is listed as a full practice participant, he'll be in the clear to suit up Sunday in Indianapolis. Rewarded with a four-year, $140 million extension earlier this summer, Flowers remains on track to serve as the Ravens' clear No. 1 pass catcher heading into his fourth NFL campaign.
-- **NEW — Chris Bell** — Chris Bell Listed as Starting Receiver for Dolphins (2026-09-08T16:23:49Z)
+- **NEW — Kenny Gainwell** — Kenny Gainwell Could Feature Prominently in Red-Zone, Goal-Line Situations (2026-09-08T16:36:43Z)
+  - Source: https://www.rotoballer.com/player-news/kenny-gainwell-could-feature-prominently-in-red-zone-goal-line-situations/1926155
+- **Chris Bell** — Chris Bell Listed as Starting Receiver for Dolphins (2026-09-08T16:23:49Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-listed-as-starting-receiver-for-dolphins/1926144
 - **Breece Hall** — Breece Hall (groin) trending towards playing Week 1 (2026-09-08T16:20:52.031000Z)
   - Hall was initially expected to be out two weeks with his groin injury, and this lines up well with his timeline. If he plays, he will be a high-end RB2 with RB1 upside.
@@ -224,5 +226,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/zach-charbonnet-on-track-with-his-aggressive-return-timetable/1925446
 - **Jonah Coleman** — Jonah Coleman an Intriguing Rookie Waiver Stash in Denver's Backfield (2026-09-07T18:30:05Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-an-intriguing-rookie-waiver-stash-in-denvers-backfield/1925443
-- **Terrance Ferguson** — Terrance Ferguson One of the Best Upside TE Stashes Off the Waiver Wire (2026-09-07T18:17:15Z)
-  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-one-of-the-best-upside-te-stashes-off-the-waiver-wire/1925436
