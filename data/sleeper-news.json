@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-08T13:52:28Z",
+  "last_checked_at": "2026-09-08T14:05:10Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11632|rotoballer|220330|1788860645000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "New York Giants wide receiver Malik Nabers (knee) sounds like he will be \"good to go for Sunday night,\" according to ESPN's Dan Graziano. Nabers is coming back from a torn ACL that ended his 2025 season after four games, but it looks like he'll be ready to play in Week 1. Last year, he had 18 catches for 271 yards and two touchdowns before his injury after an impressive rookie year with 1,204 receiving yards and seven touchdowns in 15 games, despite iffy QB play. This year, he'll work with Jaxson Dart as the team's top receiver under new head coach John Harbaugh and new offensive coordinator Matt Nagy. The team added wide receiver Darnell Mooney and tight end Isaiah Likely, but Nabers should remain the focal point of the offense and be set for as large a target share as he can handle. Since it will be his first game back, Nabers is the No. 16 WR in RotoBaller's Week 1 rankings, but he definitely has top-10 upside even though he'll take on an improved Dallas defense on Sunday Night Football. If you drafted Nabers as a starter, be sure to get him in your lineups this week since he seems to be all systems go for Week 1.",
+      "metadata": {
+        "description": "New York Giants wide receiver Malik Nabers (knee) sounds like he will be \"good to go for Sunday night,\" according to ESPN's Dan Graziano. Nabers is coming back from a torn ACL that ended his 2025 season after four games, but it looks like he'll be ready to play in Week 1. Last year, he had 18 catches for 271 yards and two touchdowns before his injury after an impressive rookie year with 1,204 receiving yards and seven touchdowns in 15 games, despite iffy QB play. This year, he'll work with Jaxson Dart as the team's top receiver under new head coach John Harbaugh and new offensive coordinator Matt Nagy. The team added wide receiver Darnell Mooney and tight end Isaiah Likely, but Nabers should remain the focal point of the offense and be set for as large a target share as he can handle. Since it will be his first game back, Nabers is the No. 16 WR in RotoBaller's Week 1 rankings, but he definitely has top-10 upside even though he'll take on an improved Dallas defense on Sunday Night Football. If you drafted Nabers as a starter, be sure to get him in your lineups this week since he seems to be all systems go for Week 1.",
+        "title": "Malik Nabers Should Be \"Good to Go\"",
+        "topic_id": "1403050220845031424",
+        "url": "https://www.rotoballer.com/player-news/malik-nabers-should-be-good-to-go/1925749"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1788860645000,
+      "source": "rotoballer",
+      "source_key": "220330",
+      "story_id": "nfl|11632|rotoballer|220330|1788860645000",
+      "title": "Malik Nabers Should Be \"Good to Go\"",
+      "url": "https://www.rotoballer.com/player-news/malik-nabers-should-be-good-to-go/1925749"
+    },
     {
       "analysis": null,
       "description": "Seattle Seahawks running back George Holani could be very involved in the Seahawks' backfield rotation, as they begin the defense of their Super Bowl title. After the injury to Zach Charbonnet (knee) and the departure of Kenneth Walker III, the Seahawks are expected to share time between rookie Jadarian Price, Holani, and free-agent addition Emanuel Wilson. Price is expected to lead the way, but he has missed time over the past few weeks with muscle soreness and did not play a single snap in the preseason. Wilson is expected to be the power option, but Holani has an interesting mix of third-down and short-yardage skills that should make him an interesting contributor, especially while Price adjusts to NFL speed. Especially early in the year, Holani's experience in the team's system could help him be trusted to handle high-value touches on both passing downs and in scoring position. He's the No. 56 RB in Week 1 in RotoBaller's rankings, so he is not a FLEX consideration for the team's opener against the Patriots. However, it does make sense to snag him in deep leagues in case he gets those key plays and production early in the season with Price ramping up.",

@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2150**
-- Newly captured: **0**
+- Stored stories: **2151**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Malik Nabers** — Malik Nabers Should Be "Good to Go" (2026-09-08T09:44:05Z)
+  - Source: https://www.rotoballer.com/player-news/malik-nabers-should-be-good-to-go/1925749
 - **George Holani** — George Holani Brings Early-Season Upside (2026-09-08T09:25:06Z)
   - Source: https://www.rotoballer.com/player-news/george-holani-brings-early-season-upside/1925733
 - **Adonai Mitchell** — Adonai Mitchell Makes a Solid Stash for Depth (2026-09-08T09:13:32Z)
@@ -227,5 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/treveyon-henderson-still-absent-two-days-before-week-1/1925164
 - **Jonathon Brooks** — Jonathon Brooks Remains Limited to Side Work (2026-09-07T12:00:10Z)
   - Source: https://www.rotoballer.com/player-news/jonathon-brooks-remains-limited-to-side-work/1925160
-- **Rashid Shaheed** — Rashid Shaheed Shouldn't Be Sitting on Waiver Wires (2026-09-07T11:53:35Z)
-  - Source: https://www.rotoballer.com/player-news/rashid-shaheed-shouldnt-be-sitting-on-waiver-wires/1925155
