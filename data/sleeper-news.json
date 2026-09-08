@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-08T00:55:32Z",
+  "last_checked_at": "2026-09-08T01:26:05Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12497|rotoballer|220306|1788813726000"
+    "nfl|10213|rotoballer|220308|1788815765000",
+    "nfl|12469|rotoballer|220307|1788815175000"
   ],
   "schema_version": 1,
   "source": {
@@ -53,6 +54,26 @@
       "story_id": "nfl|12497|fantasy_pros|606432|1788816343834",
       "title": "Tory Horton (hamstring) limited in practice Monday ",
       "url": "https://www.fantasypros.com/nfl/news/606432/tory-horton-hamstring-limited-practice-monday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders wide receiver Tre Tucker had the most productive season of his career in 2025, recording 57 catches for 696 yards and five touchdowns on 92 targets across 17 games. While Tucker's numbers may not leap off the page, his statistical impact was limited by the offensive environment around him in Las Vegas, which was one of the NFL's worst in 2025. Entering 2026, the Raiders have a new head coach and play-caller in Klint Kubiak, and two new quarterbacks in veteran Kirk Cousins and first overall pick Fernando Mendoza. Tucker could also remain the WR1 in a Las Vegas wide receiver room that features veteran Jalen Nailor and 2025 second-rounder Jack Bech as its other projected starters. Given the clear opportunity available to him with the Raiders, Tucker could be worth rostering as a depth piece in most fantasy formats.",
+      "metadata": {
+        "description": "Las Vegas Raiders wide receiver Tre Tucker had the most productive season of his career in 2025, recording 57 catches for 696 yards and five touchdowns on 92 targets across 17 games. While Tucker's numbers may not leap off the page, his statistical impact was limited by the offensive environment around him in Las Vegas, which was one of the NFL's worst in 2025. Entering 2026, the Raiders have a new head coach and play-caller in Klint Kubiak, and two new quarterbacks in veteran Kirk Cousins and first overall pick Fernando Mendoza. Tucker could also remain the WR1 in a Las Vegas wide receiver room that features veteran Jalen Nailor and 2025 second-rounder Jack Bech as its other projected starters. Given the clear opportunity available to him with the Raiders, Tucker could be worth rostering as a depth piece in most fantasy formats.",
+        "title": "Tre Tucker an Appealing Depth Add for Fantasy Managers Ahead of 2026",
+        "topic_id": "1402861454482268160",
+        "url": "https://www.rotoballer.com/player-news/tre-tucker-an-appealing-depth-add-for-fantasy-managers-ahead-of-2026/1925517"
+      },
+      "nfl_team": "LV",
+      "player_id": "10213",
+      "player_name": "Tre Tucker",
+      "position": "WR",
+      "published": 1788815765000,
+      "source": "rotoballer",
+      "source_key": "220308",
+      "story_id": "nfl|10213|rotoballer|220308|1788815765000",
+      "title": "Tre Tucker an Appealing Depth Add for Fantasy Managers Ahead of 2026",
+      "url": "https://www.rotoballer.com/player-news/tre-tucker-an-appealing-depth-add-for-fantasy-managers-ahead-of-2026/1925517"
     },
     {
       "analysis": "Charbonnet is opening the season on the physically unable to perform (PUP) list. He will miss at least four games, but he could be off the PUP list sooner than expected. Macdonald did not disclose specifics on Charbonnet's timeline. The fourth-year running back has scored 20 rushing touchdowns in the last two seasons and tore his ACL in January.",
@@ -137,6 +158,26 @@
       "story_id": "nfl|11603|fantasy_pros|606428|1788815744009",
       "title": "AJ Barner (oblique) logs full practice Monday ",
       "url": "https://www.fantasypros.com/nfl/news/606428/aj-barner-oblique-logs-full-practice-monday.php"
+    },
+    {
+      "analysis": null,
+      "description": "A fourth-round pick in the 2025 NFL Draft, Cleveland Browns running back Dylan Sampson recorded 446 scrimmage yards and two touchdowns on 98 touches across 15 games (two starts). The 21-year-old saw most of his production in the passing game, hauling in 33 catches for 271 yards and two scores on 40 targets. Entering 2026, Sampson remains unlikely to see significant work as a rusher as long as Browns RB1 Quinshon Judkins remains healthy. However, Sampson appears to be the team's clear RB2 and should play a consistent role as Cleveland's top pass-catching back. Heading into his second NFL season, Sampson profiles as an appealing handcuff running back option for fantasy managers with some standalone upside in full PPR scoring formats.",
+      "metadata": {
+        "description": "A fourth-round pick in the 2025 NFL Draft, Cleveland Browns running back Dylan Sampson recorded 446 scrimmage yards and two touchdowns on 98 touches across 15 games (two starts). The 21-year-old saw most of his production in the passing game, hauling in 33 catches for 271 yards and two scores on 40 targets. Entering 2026, Sampson remains unlikely to see significant work as a rusher as long as Browns RB1 Quinshon Judkins remains healthy. However, Sampson appears to be the team's clear RB2 and should play a consistent role as Cleveland's top pass-catching back. Heading into his second NFL season, Sampson profiles as an appealing handcuff running back option for fantasy managers with some standalone upside in full PPR scoring formats.",
+        "title": "Dylan Sampson a Worthy Deep-League Running Back Stash",
+        "topic_id": "1402858937555947520",
+        "url": "https://www.rotoballer.com/player-news/dylan-sampson-a-worthy-deep-league-running-back-stash/1925513"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12469",
+      "player_name": "Dylan Sampson",
+      "position": "RB",
+      "published": 1788815175000,
+      "source": "rotoballer",
+      "source_key": "220307",
+      "story_id": "nfl|12469|rotoballer|220307|1788815175000",
+      "title": "Dylan Sampson a Worthy Deep-League Running Back Stash",
+      "url": "https://www.rotoballer.com/player-news/dylan-sampson-a-worthy-deep-league-running-back-stash/1925513"
     },
     {
       "analysis": "Macdonald added that Charbonnet looks \"dang good.\" The running back is on reserve/PUP to begin the season and will miss at least the first four games, but it sounds like he could return sometime next month. Seattle's backfield picture remains murky with rookie Jadarian Price, George Holani and Emanuel Wilson all options to see snaps. Adding Charbonnet's name to the mix will only muddy the picture. Price looks like the best bet for fantasy production, but the coaching staff has an affinity for Charbonnet, especially near the goal line.",

@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2131**
-- Newly captured: **1**
+- Stored stories: **2133**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -12,6 +12,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tory Horton** — Tory Horton (hamstring) limited in practice Monday  (2026-09-07T21:25:43.834000Z)
   - Horton logged his second straight limited practice. It would still be a surprise if he plays on Wednesday, but it is a good sign nonetheless. 
   - Source: https://www.fantasypros.com/nfl/news/606432/tory-horton-hamstring-limited-practice-monday.php
+- **NEW — Tre Tucker** — Tre Tucker an Appealing Depth Add for Fantasy Managers Ahead of 2026 (2026-09-07T21:16:05Z)
+  - Source: https://www.rotoballer.com/player-news/tre-tucker-an-appealing-depth-add-for-fantasy-managers-ahead-of-2026/1925517
 - **Zach Charbonnet** — Zach Charbonnet (knee) has 'aggressive' return timeline (2026-09-07T21:15:44.064000Z)
   - Charbonnet is opening the season on the physically unable to perform (PUP) list. He will miss at least four games, but he could be off the PUP list sooner than expected. Macdonald did not disclose specifics on Charbonnet's timeline. The fourth-year running back has scored 20 rushing touchdowns in the last two seasons and tore his ACL in January.
   - Source: https://www.fantasypros.com/nfl/news/606418/zach-charbonnet-knee-aggressive-return-timeline.php
@@ -24,9 +26,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **AJ Barner** — AJ Barner (oblique) logs full practice Monday  (2026-09-07T21:15:44.009000Z)
   - Barner remains on track to be a full-go for Wednesday's season opener against the Patriots. 
   - Source: https://www.fantasypros.com/nfl/news/606428/aj-barner-oblique-logs-full-practice-monday.php
+- **NEW — Dylan Sampson** — Dylan Sampson a Worthy Deep-League Running Back Stash (2026-09-07T21:06:15Z)
+  - Source: https://www.rotoballer.com/player-news/dylan-sampson-a-worthy-deep-league-running-back-stash/1925513
 - **Zach Charbonnet** — Zach Charbonnet - Progressing in rehab (2026-09-07T20:53:06Z)
   - Macdonald added that Charbonnet looks "dang good." The running back is on reserve/PUP to begin the season and will miss at least the first four games, but it sounds like he could return sometime next month. Seattle's backfield picture remains murky with rookie Jadarian Price, George Holani and Emanuel Wilson all options to see snaps. Adding Charbonnet's name to the mix will only muddy the picture. Price looks like the best bet for fantasy production, but the coaching staff has an affinity for Charbonnet, especially near the goal line.
-- **NEW — Tory Horton** — Tory Horton Listed as Limited on Monday (2026-09-07T20:42:06Z)
+- **Tory Horton** — Tory Horton Listed as Limited on Monday (2026-09-07T20:42:06Z)
   - Source: https://www.rotoballer.com/player-news/tory-horton-listed-as-limited-on-monday/1925505
 - **Jeremiyah Love** — Jeremiyah Love - Optimism for Week 1 (2026-09-07T20:34:27Z)
   - Love was moving around at practice Monday, but LaFleur would only go as far as to say the rookie running back is "progressing" in his recovery from his mid-August ankle sprain. Even if he plays Week 1, Love is expected to cede plenty of carries and snaps to Tyler Allgeier. Love would be a risky fantasy start in redraft leagues, but he also has plenty of upside as the No. 3 overall pick with home run-hitting ability with the ball in his hands.
@@ -227,7 +231,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606233/aj-barner-oblique-practices-full-sunday.php
 - **George Kittle** — George Kittle Practices Ahead of Week 1 (2026-09-07T01:16:24Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-practices-ahead-of-week-1/1924907
-- **Christian McCaffrey** — Christian McCaffrey Doesn't Practice on Monday (2026-09-07T01:11:17Z)
-  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-doesnt-practice-on-monday/1924905
-- **Tory Horton** — Tory Horton Limited in Practice Ahead of Week 1 (2026-09-07T00:56:10Z)
-  - Source: https://www.rotoballer.com/player-news/tory-horton-limited-in-practice-ahead-of-week-1/1924899
