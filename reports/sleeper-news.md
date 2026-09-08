@@ -2,22 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2212**
-- Newly captured: **6**
+- Stored stories: **2213**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — AJ Barner** — AJ Barner (oblique) off injury report Wednesday  (2026-09-08T21:30:22.081000Z)
+- **AJ Barner** — AJ Barner (oblique) off injury report Wednesday  (2026-09-08T21:30:22.081000Z)
   - Barner practiced all week in full. He'll be a TE2 for fantasy managers going into the season. 
   - Source: https://www.fantasypros.com/nfl/news/606608/aj-barner-oblique-off-injury-report-wednesday.php
-- **NEW — Tory Horton** — Tory Horton (hamstring) listed questionable Wednesday  (2026-09-08T21:20:22.192000Z)
+- **Tory Horton** — Tory Horton (hamstring) listed questionable Wednesday  (2026-09-08T21:20:22.192000Z)
   - Horton was limited in practice the past few days. His status is up in the air heading into Wednesday. 
   - Source: https://www.fantasypros.com/nfl/news/606606/tory-horton-hamstring-listed-questionable-wednesday.php
-- **NEW — Baker Mayfield** — Baker Mayfield signs three-year extension with Bucs  (2026-09-08T21:20:21.904000Z)
+- **Baker Mayfield** — Baker Mayfield signs three-year extension with Bucs  (2026-09-08T21:20:21.904000Z)
   - This move comes out of no where as reports suggested talks between the two sides on an extension weren't going to continue this season. Mayfield lands his extension right before the start of the season. 
   - Source: https://www.fantasypros.com/nfl/news/606603/baker-mayfield-signs-three-year-extension-with-bucs.php
-- **NEW — Baker Mayfield** — Baker Mayfield - Lands $165M extension with Bucs (2026-09-08T21:19:15Z)
-  - Though Mayfield's self-imposed deadline of the start of training camp for signing a new contract came and went without him coming to terms with the Buccaneers, the two sides revisited extension talks less than a week before the start of the regular season and were able to find common ground on a deal. With the new deal in place, the Buccaneers will avoid losing Mayfield in free agency next offseason and keep him on their books through 2029.
+- **Baker Mayfield** — Baker Mayfield - Lands $165M extension with Bucs (2026-09-08T21:19:15Z)
+  - Though Mayfield's self-imposed deadline of the start of training camp for signing a new contract came and went without him coming to terms with the Buccaneers, the two sides revisited extension talks less than a week before the start of the regular season and were able to find common ground on a deal. With the new deal in place, the Buccaneers will avoid losing Mayfield in free agency next offseason and keep him on their books through 2029. Mayfield's first three seasons in Tampa Bay have been a resounding success, with the quarterback averaging 31.6 touchdown passes per season and having led the team to two playoff appearances.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) ruled out for Week 1 (2026-09-08T21:05:53.555000Z)
   - Henderson will miss the season opener after being unable to practice to begin the week for head coach Mike Vrabel. Rhamondre Stevenson will see as many touches as he can handle against a strong Seattle front seven Wednesday night.
   - Source: https://www.fantasypros.com/nfl/news/606601/treveyon-henderson-ankle-ruled-out-week-1.php
@@ -47,7 +47,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The Jets won't release their first injury report of the season until Wednesday, but Hall's activity at Tuesday's session offers hope that he might be listed as a full participant in practice. Though Hall had been sidelined for or limited in practices over the past three weeks while nursing a minor right groin strain, the expectation is that he'll be ready to handle a lead role out of the backfield in Sunday's season opener versus the Titans.
 - **Kenyon Sadiq** — Kenyon Sadiq - Involved in positional drills (2026-09-08T17:37:23Z)
   - The rookie first-round pick missed nearly all of training camp and the preseason after experiencing a setback in his recovery from hernia surgery, but head coach Aaron Glenn had been optimistic over the past week that Sadiq would be ready to go for the start of the regular season. Sadiq's involvement in positional drills suggests that he remains on track to play in Sunday's game at Tennessee, though the extensive time he missed during the summer means that he'll likely have to settle for a small role off the bat. Mason Taylor looks to be the leading candidate to start and lead the tight-end group in snaps Week 1.
-- **NEW — Baker Mayfield** — Baker Mayfield, Buccaneers Reach Agreement on Three-Year Extension (2026-09-08T17:24:05Z)
+- **NEW — Chuba Hubbard** — Chuba Hubbard Listed as RB1 on Unofficial Depth Chart (2026-09-08T17:32:06Z)
+  - Source: https://www.rotoballer.com/player-news/chuba-hubbard-listed-as-rb1-on-unofficial-depth-chart/1926195
+- **Baker Mayfield** — Baker Mayfield, Buccaneers Reach Agreement on Three-Year Extension (2026-09-08T17:24:05Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-buccaneers-reach-agreement-on-three-year-extension/1926190
 - **Rome Odunze** — Rome Odunze - Won't practice Tuesday (2026-09-08T17:17:15Z)
   - Johnson didn't provide many specifics regarding the right leg injury that Odunze sustained in a practice last Thursday, though the coach noted that the issue isn't an aggravation of the foot injury that kept the wideout sidelined for the final five games of the 2025 regular season, per Courtney Cronin of ESPN.com. Odunze will still have three more chances to fit in some practice activity this week before the Bears decide on his status for Sunday's contest, but at this stage, the the team is optimistic that the third-year receiver will be able to play through the leg injury.
@@ -62,7 +64,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606563/rome-odunze-leg-day-to-day.php
 - **Patrick Mahomes** — Patrick Mahomes - Still on track to start opener (2026-09-08T17:14:59Z)
   - Mahomes didn't play in any of the Chiefs' preseason games, but he was cleared for 11-on-11 work early in camp and steered clear of any setbacks in his recovery from Dec. 15 surgery to repair a torn ACL and LCL in his left knee. The Chiefs will release their first injury report of 2026 on Thursday, and assuming Mahomes is listed as a full participant, it would confirm that he's on track to start against Denver. Mahomes will likely be playing without one of his top protectors, however, as Reid said that starting left tackle Josh Simmons (back) has a "good chance" of sitting out Week 1, per Matt McMullen of the Chiefs' official site.
-- **NEW — MarShawn Lloyd** — MarShawn Lloyd Listed as RB1 on First Depth Chart (2026-09-08T17:14:05Z)
+- **MarShawn Lloyd** — MarShawn Lloyd Listed as RB1 on First Depth Chart (2026-09-08T17:14:05Z)
   - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-listed-as-rb1-on-first-depth-chart/1926182
 - **Zay Flowers** — Zay Flowers - Looks to be practicing fully Tuesday (2026-09-08T17:12:52Z)
   - Baltimore won't release its first Week 1 injury report until Wednesday, but assuming Flowers doesn't appear on the report or is listed as a full practice participant, he'll be in the clear to suit up Sunday in Indianapolis. Rewarded with a four-year, $140 million extension earlier this summer, Flowers remains on track to serve as the Ravens' clear No. 1 pass catcher heading into his fourth NFL campaign.
@@ -222,5 +224,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After six straight missed practices, Mitchell's return is a positive step for his Week 1 outlook against the Cardinals. When healthy, Mitchell is expected to serve in a sort-of lightning role to Omarion Hampton's thunder out of the backfield. Mitchell may not be immediately usable in fantasy leagues as a starter, but he's one of the higher-upside bench stashes to see what his role is under new OC Mike McDaniel, who personally campaigned for Mitchell's signing in Los Angeles.
 - **Taylen Green** — Taylen Green - Could be active Week 1 (2026-09-07T20:04:28Z)
   - It's unclear if Green would be active as the QB2 over Shedeur Sanders, or if Cleveland would make three quarterbacks active, but the idea is out there to get Green some plays after he showed off his elite athleticism with 66 yards on eight carries in the preseason finale. Green is big and athletic and set positional records at the combine back in February when he ran a 4.36 40-yard dash with a 43.5-inch vertical and 11-foot-2 broad jump. There's an outside chance Green sees playing time as a rookie for a Browns team that is likely looking at another rebuild at the quarterback position.
-- **Alec Pierce** — Alec Pierce - Expected to play Week 1 (2026-09-07T19:50:11Z)
-  - Pierce returned to a full practice last week and is nearing 100 percent following ankle surgery earlier in the offseason. While Pierce is expected to play against Baltimore, it's unclear if he'll play his normal allotment of snaps, according to Stephen Holder of ESPN.com. Pierce could be on some sort of snap count, and Ashton Dulin would be in line for additional reps on offense. Pierce is shaping up as a boom-or-bust fantasy bet for Week 1.

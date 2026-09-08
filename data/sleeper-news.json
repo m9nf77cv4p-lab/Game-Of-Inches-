@@ -1,14 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T21:31:27Z",
+  "last_checked_at": "2026-09-08T21:44:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11581|rotoballer|220377|1788887645000",
-    "nfl|11603|fantasy_pros|606608|1788903022081",
-    "nfl|12497|fantasy_pros|606606|1788902422192",
-    "nfl|4892|fantasy_pros|606603|1788902421904",
-    "nfl|4892|rotoballer|220378|1788888245000",
-    "nfl|4892|rotowire|636407|1788902355000"
+    "nfl|7594|rotoballer|220379|1788888726000"
   ],
   "schema_version": 1,
   "source": {
@@ -82,10 +77,10 @@
       "url": "https://www.fantasypros.com/nfl/news/606603/baker-mayfield-signs-three-year-extension-with-bucs.php"
     },
     {
-      "analysis": "Though Mayfield's self-imposed deadline of the start of training camp for signing a new contract came and went without him coming to terms with the Buccaneers, the two sides revisited extension talks less than a week before the start of the regular season and were able to find common ground on a deal. With the new deal in place, the Buccaneers will avoid losing Mayfield in free agency next offseason and keep him on their books through 2029.",
+      "analysis": "Though Mayfield's self-imposed deadline of the start of training camp for signing a new contract came and went without him coming to terms with the Buccaneers, the two sides revisited extension talks less than a week before the start of the regular season and were able to find common ground on a deal. With the new deal in place, the Buccaneers will avoid losing Mayfield in free agency next offseason and keep him on their books through 2029. Mayfield's first three seasons in Tampa Bay have been a resounding success, with the quarterback averaging 31.6 touchdown passes per season and having led the team to two playoff appearances.",
       "description": "Mayfield and the Buccaneers agreed Tuesday on a three-year, $165 million contract extension, Adam Schefter and Ian Rapoport of ESPN report.",
       "metadata": {
-        "analysis": "Though Mayfield's self-imposed deadline of the start of training camp for signing a new contract came and went without him coming to terms with the Buccaneers, the two sides revisited extension talks less than a week before the start of the regular season and were able to find common ground on a deal. With the new deal in place, the Buccaneers will avoid losing Mayfield in free agency next offseason and keep him on their books through 2029.",
+        "analysis": "Though Mayfield's self-imposed deadline of the start of training camp for signing a new contract came and went without him coming to terms with the Buccaneers, the two sides revisited extension talks less than a week before the start of the regular season and were able to find common ground on a deal. With the new deal in place, the Buccaneers will avoid losing Mayfield in free agency next offseason and keep him on their books through 2029. Mayfield's first three seasons in Tampa Bay have been a resounding success, with the quarterback averaging 31.6 touchdown passes per season and having led the team to two playoff appearances.",
         "description": "Mayfield and the Buccaneers agreed Tuesday on a three-year, $165 million contract extension, Adam Schefter and Ian Rapoport of ESPN report.",
         "title": "Baker Mayfield - Lands $165M extension with Bucs",
         "topic_id": "1403163348123582464"
@@ -363,6 +358,26 @@
       "story_id": "nfl|13330|rotowire|636392|1788889043000",
       "title": "Kenyon Sadiq - Involved in positional drills",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "On the Carolina Panthers' Week 1 unofficial 53-man depth chart, running back Chuba Hubbard is listed as the RB1 over Jonathon Brooks, according to Mike Kaye of The Charlotte Observer. As always, fantasy managers should not be reading too much into an unofficial depth chart before the start of the regular season. The 27-year-old Hubbard is the more experienced, longer-tenured RB on the Panthers' roster after rushing for 3,686 yards and 23 touchdowns in his five seasons in the NFL with the Panthers. The former fourth-rounder in 2021 from Oklahoma State broke out with 1,195 yards and 10 touchdowns on 250 carries in 15 games in 2024, adding 43 catches for 171 yards and another score as a receiver, but Rico Dowdle took over the team's backfield last year, leaving Hubbard as a disappointment with only 511 rushing yards and one touchdown on the ground in 15 regular-season games. Going into 2026, Hubbard's stock has fallen to that of an RB3/flex option, with Brooks having an opportunity to take over the backfield if he can finally stay healthy (he has already suffered two torn ACLs since being drafted in 2024). Behind one of the worst offensive lines in the league, Hubbard and Brooks may find running lanes hard to come by in 2026.",
+      "metadata": {
+        "description": "On the Carolina Panthers' Week 1 unofficial 53-man depth chart, running back Chuba Hubbard is listed as the RB1 over Jonathon Brooks, according to Mike Kaye of The Charlotte Observer. As always, fantasy managers should not be reading too much into an unofficial depth chart before the start of the regular season. The 27-year-old Hubbard is the more experienced, longer-tenured RB on the Panthers' roster after rushing for 3,686 yards and 23 touchdowns in his five seasons in the NFL with the Panthers. The former fourth-rounder in 2021 from Oklahoma State broke out with 1,195 yards and 10 touchdowns on 250 carries in 15 games in 2024, adding 43 catches for 171 yards and another score as a receiver, but Rico Dowdle took over the team's backfield last year, leaving Hubbard as a disappointment with only 511 rushing yards and one touchdown on the ground in 15 regular-season games. Going into 2026, Hubbard's stock has fallen to that of an RB3/flex option, with Brooks having an opportunity to take over the backfield if he can finally stay healthy (he has already suffered two torn ACLs since being drafted in 2024). Behind one of the worst offensive lines in the league, Hubbard and Brooks may find running lanes hard to come by in 2026.",
+        "title": "Chuba Hubbard Listed as RB1 on Unofficial Depth Chart",
+        "topic_id": "1403165862512316416",
+        "url": "https://www.rotoballer.com/player-news/chuba-hubbard-listed-as-rb1-on-unofficial-depth-chart/1926195"
+      },
+      "nfl_team": "CAR",
+      "player_id": "7594",
+      "player_name": "Chuba Hubbard",
+      "position": "RB",
+      "published": 1788888726000,
+      "source": "rotoballer",
+      "source_key": "220379",
+      "story_id": "nfl|7594|rotoballer|220379|1788888726000",
+      "title": "Chuba Hubbard Listed as RB1 on Unofficial Depth Chart",
+      "url": "https://www.rotoballer.com/player-news/chuba-hubbard-listed-as-rb1-on-unofficial-depth-chart/1926195"
     },
     {
       "analysis": null,
