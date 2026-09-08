@@ -1,9 +1,13 @@
 {
-  "last_checked_at": "2026-09-08T17:01:49Z",
+  "last_checked_at": "2026-09-08T17:20:26Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|8228|rotoballer|220349|1788871805000"
+    "nfl|11620|fantasy_pros|606563|1788887752256",
+    "nfl|4046|fantasy_pros|606562|1788887752286",
+    "nfl|7021|rotoballer|220350|1788872344000",
+    "nfl|9997|fantasy_pros|606565|1788887752735",
+    "nfl|9997|rotowire|636389|1788887572000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +17,89 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Flowers had missed two full weeks of practice with a lower-body injury before returning last Thursday. The wideout being on the field on Tuesday is a good sign for him playing in Week 1, but fantasy managers should keep an eye on him leading up to Sunday. ",
+      "description": "Zay Flowers is practicing for the Ravens on Tuesday after dealing with a lower-body injury.",
+      "metadata": {
+        "analysis": "Flowers had missed two full weeks of practice with a lower-body injury before returning last Thursday. The wideout being on the field on Tuesday is a good sign for him playing in Week 1, but fantasy managers should keep an eye on him leading up to Sunday. ",
+        "description": "Zay Flowers is practicing for the Ravens on Tuesday after dealing with a lower-body injury.",
+        "title": "Zay Flowers (lower body) practices Tuesday",
+        "topic_id": "1403100566598524928",
+        "url": "https://www.fantasypros.com/nfl/news/606565/zay-flowers-lower-body-practices-tuesday.php"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1788887752735,
+      "source": "fantasy_pros",
+      "source_key": "606565",
+      "story_id": "nfl|9997|fantasy_pros|606565|1788887752735",
+      "title": "Zay Flowers (lower body) practices Tuesday",
+      "url": "https://www.fantasypros.com/nfl/news/606565/zay-flowers-lower-body-practices-tuesday.php"
+    },
+    {
+      "analysis": "Mahomes has officially worked his way back from a torn ACL and LCL suffered in Week 15 last year. He has said he may not run as much coming off the injury, at least early in the season. ",
+      "description": "Chiefs coach Andy Reid said Patrick Mahomes is set to start on Monday night barring a setback. ",
+      "metadata": {
+        "analysis": "Mahomes has officially worked his way back from a torn ACL and LCL suffered in Week 15 last year. He has said he may not run as much coming off the injury, at least early in the season. ",
+        "description": "Chiefs coach Andy Reid said Patrick Mahomes is set to start on Monday night barring a setback. ",
+        "title": "Patrick Mahomes II (knee) to start Week 1 barring setback",
+        "topic_id": "1403100564723671040",
+        "url": "https://www.fantasypros.com/nfl/news/606562/patrick-mahomes-ii-knee-to-start-week-1-barring-setback.php"
+      },
+      "nfl_team": "KC",
+      "player_id": "4046",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "published": 1788887752286,
+      "source": "fantasy_pros",
+      "source_key": "606562",
+      "story_id": "nfl|4046|fantasy_pros|606562|1788887752286",
+      "title": "Patrick Mahomes II (knee) to start Week 1 barring setback",
+      "url": "https://www.fantasypros.com/nfl/news/606562/patrick-mahomes-ii-knee-to-start-week-1-barring-setback.php"
+    },
+    {
+      "analysis": "Odunze will remain absent from practice on Tuesday. He remains hopeful to play on Sunday against the Panthers. ",
+      "description": "Bears head coach Ben Johnson said WR Rome Odunze is considered day-to-day. ",
+      "metadata": {
+        "analysis": "Odunze will remain absent from practice on Tuesday. He remains hopeful to play on Sunday against the Panthers. ",
+        "description": "Bears head coach Ben Johnson said WR Rome Odunze is considered day-to-day. ",
+        "title": "Rome Odunze (leg) day-to-day",
+        "topic_id": "1403100564593647616",
+        "url": "https://www.fantasypros.com/nfl/news/606563/rome-odunze-leg-day-to-day.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1788887752256,
+      "source": "fantasy_pros",
+      "source_key": "606563",
+      "story_id": "nfl|11620|fantasy_pros|606563|1788887752256",
+      "title": "Rome Odunze (leg) day-to-day",
+      "url": "https://www.fantasypros.com/nfl/news/606563/rome-odunze-leg-day-to-day.php"
+    },
+    {
+      "analysis": "With Flowers having missed time on and off recently due to a lower-body issue, his apparent full participation is another positive step toward Week 1. The Ravens' top wide receiver looks to be back on track after he was already expected to be available for the regular-season opener.",
+      "description": "Flowers (lower body) was on the field for practice Tuesday and appears to be participating fully, Sam Cohn of The Baltimore Sun reports.",
+      "metadata": {
+        "analysis": "With Flowers having missed time on and off recently due to a lower-body issue, his apparent full participation is another positive step toward Week 1. The Ravens' top wide receiver looks to be back on track after he was already expected to be available for the regular-season opener.",
+        "description": "Flowers (lower body) was on the field for practice Tuesday and appears to be participating fully, Sam Cohn of The Baltimore Sun reports.",
+        "title": "Zay Flowers - Looks to be practicing fully Tuesday",
+        "topic_id": "1403100558717407232"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1788887572000,
+      "source": "rotowire",
+      "source_key": "636389",
+      "story_id": "nfl|9997|rotowire|636389|1788887572000",
+      "title": "Zay Flowers - Looks to be practicing fully Tuesday",
+      "url": null
+    },
     {
       "analysis": "Hall was initially expected to be out two weeks with his groin injury, and this lines up well with his timeline. If he plays, he will be a high-end RB2 with RB1 upside.",
       "description": "Breece Hall is trending towards playing in Week 1, per HC Aaron Glenn. The running back will practice today.",
@@ -93,6 +180,26 @@
       "story_id": "nfl|13285|rotowire|636385|1788880703000",
       "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Running back Rico Dowdle is listed as the No. 2 RB on the Pittsburgh Steelers' unofficial depth chart ahead of the team's Week 1 season opener against the Atlanta Falcons this Sunday, Sept. 13, according to PGH Steelers Now's Alan Saunders. Fantasy managers should not read too much into this, as Dowdle is fully expected to be head coach Mike McCarthy's preferred option out of the backfield on early downs in 2026, and if he stays healthy, the 28-year-old could have a path to a third straight 1,000-rushing season with his third different team in the last three years. Jaylen Warren is likely listed as the RB1 on the depth chart because he is the incumbent of Pittsburgh's backfield. Dowdle handled a career-high 236 carries for 1,076 yards and a career-high six rushing touchdowns in 17 regular-season games in 2025 with the Carolina Panthers, adding 39 receptions for 297 yards and an additional score through the air. As the Steelers' preferred early-down option, Dowdle will have more fantasy value in standard-scoring leagues as an RB3/flex going into the Week 1 tilt this Sunday against Atlanta.",
+      "metadata": {
+        "description": "Running back Rico Dowdle is listed as the No. 2 RB on the Pittsburgh Steelers' unofficial depth chart ahead of the team's Week 1 season opener against the Atlanta Falcons this Sunday, Sept. 13, according to PGH Steelers Now's Alan Saunders. Fantasy managers should not read too much into this, as Dowdle is fully expected to be head coach Mike McCarthy's preferred option out of the backfield on early downs in 2026, and if he stays healthy, the 28-year-old could have a path to a third straight 1,000-rushing season with his third different team in the last three years. Jaylen Warren is likely listed as the RB1 on the depth chart because he is the incumbent of Pittsburgh's backfield. Dowdle handled a career-high 236 carries for 1,076 yards and a career-high six rushing touchdowns in 17 regular-season games in 2025 with the Carolina Panthers, adding 39 receptions for 297 yards and an additional score through the air. As the Steelers' preferred early-down option, Dowdle will have more fantasy value in standard-scoring leagues as an RB3/flex going into the Week 1 tilt this Sunday against Atlanta.",
+        "title": "Rico Dowdle Listed as RB2 on Steelers' Depth Chart",
+        "topic_id": "1403098039769407489",
+        "url": "https://www.rotoballer.com/player-news/rico-dowdle-listed-as-rb2-on-steelers-depth-chart/1925979"
+      },
+      "nfl_team": "PIT",
+      "player_id": "7021",
+      "player_name": "Rico Dowdle",
+      "position": "RB",
+      "published": 1788872344000,
+      "source": "rotoballer",
+      "source_key": "220350",
+      "story_id": "nfl|7021|rotoballer|220350|1788872344000",
+      "title": "Rico Dowdle Listed as RB2 on Steelers' Depth Chart",
+      "url": "https://www.rotoballer.com/player-news/rico-dowdle-listed-as-rb2-on-steelers-depth-chart/1925979"
     },
     {
       "analysis": null,
