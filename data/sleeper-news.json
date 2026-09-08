@@ -1,13 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T15:33:41Z",
+  "last_checked_at": "2026-09-08T15:50:03Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|10236|rotoballer|220340|1788866645000",
-    "nfl|13285|rotowire|636385|1788880703000",
-    "nfl|13293|rotoballer|220339|1788866705000",
-    "nfl|4983|rotoballer|220337|1788866226000",
-    "nfl|5844|rotoballer|220338|1788866124000"
+    "nfl|4943|rotoballer|220342|1788867369000"
   ],
   "schema_version": 1,
   "source": {
@@ -36,6 +32,26 @@
       "story_id": "nfl|13285|rotowire|636385|1788880703000",
       "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks quarterback Sam Darnold is a tougher sell as a Week 1 pickup than the name value suggests. He threw for 4,048 yards and 25 touchdowns last season, so the passing production itself isn't the concern. The problem for fantasy is what happens when the touchdowns don't come. Darnold added only 95 rushing yards and no scores on the ground in 2025, and he opens against New England, the team that held him to 202 yards and one touchdown in Super Bowl LX. Seattle still has Jaxon Smith-Njigba, Cooper Kupp and Rashid Shaheed, so there is enough around him to get by if you're stuck. RotoBaller has Darnold at QB24 for Week 1 and rostered in 38% of Yahoo leagues, with the current waiver recommendation limited to 14-team formats. In a standard one-QB league, that's not enough to make him a priority. Leave him on the wire unless your options are already getting thin.",
+      "metadata": {
+        "description": "Seattle Seahawks quarterback Sam Darnold is a tougher sell as a Week 1 pickup than the name value suggests. He threw for 4,048 yards and 25 touchdowns last season, so the passing production itself isn't the concern. The problem for fantasy is what happens when the touchdowns don't come. Darnold added only 95 rushing yards and no scores on the ground in 2025, and he opens against New England, the team that held him to 202 yards and one touchdown in Super Bowl LX. Seattle still has Jaxon Smith-Njigba, Cooper Kupp and Rashid Shaheed, so there is enough around him to get by if you're stuck. RotoBaller has Darnold at QB24 for Week 1 and rostered in 38% of Yahoo leagues, with the current waiver recommendation limited to 14-team formats. In a standard one-QB league, that's not enough to make him a priority. Leave him on the wire unless your options are already getting thin.",
+        "title": "Sam Darnold Best Left on Waivers in Standard Leagues",
+        "topic_id": "1403077905193381888",
+        "url": "https://www.rotoballer.com/player-news/sam-darnold-best-left-on-waivers-in-standard-leagues/1925922"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1788867369000,
+      "source": "rotoballer",
+      "source_key": "220342",
+      "story_id": "nfl|4943|rotoballer|220342|1788867369000",
+      "title": "Sam Darnold Best Left on Waivers in Standard Leagues",
+      "url": "https://www.rotoballer.com/player-news/sam-darnold-best-left-on-waivers-in-standard-leagues/1925922"
     },
     {
       "analysis": null,
