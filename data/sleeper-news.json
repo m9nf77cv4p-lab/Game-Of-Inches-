@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-08T18:14:25Z",
+  "last_checked_at": "2026-09-08T18:34:19Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|9997|rotoballer|220355|1788876126000"
+    "nfl|12481|rotoballer|220358|1788877275000",
+    "nfl|13330|rotoballer|220356|1788876245000",
+    "nfl|9504|rotoballer|220357|1788876845000"
   ],
   "schema_version": 1,
   "source": {
@@ -276,6 +278,66 @@
       "story_id": "nfl|13285|rotowire|636385|1788880703000",
       "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "On the New York Giants' unofficial depth chart going into their Week 1 showdown against the division-rival Dallas Cowboys on Sunday night, Cam Skattebo is listed as the top running back, with Tyrone Tracy Jr., Najee Harris, and Devin Singletary all listed as co-RB2s, according to ESPN's Jordan Raanan. Despite suffering a gruesome ankle dislocation early in his rookie campaign in 2025, Skattebo is fully recovered and ready to serve as New York's primary option in the backfield in Year 2 in new head coach John Harbaugh's offense. While the G-Men have plenty of depth behind him after adding Harris in training camp, it is possible that Skattebo handles 20-plus carries per game if he can remain healthy. The 24-year-old fourth-rounder from Arizona State had 101 carries for 410 yards and five touchdowns while adding 24 catches for 207 yards and another two TDs in eight games played last year before getting hurt. Fantasy managers should treat him as an RB2 in starting fantasy lineups with the regular-season opener quickly approaching.",
+      "metadata": {
+        "description": "On the New York Giants' unofficial depth chart going into their Week 1 showdown against the division-rival Dallas Cowboys on Sunday night, Cam Skattebo is listed as the top running back, with Tyrone Tracy Jr., Najee Harris, and Devin Singletary all listed as co-RB2s, according to ESPN's Jordan Raanan. Despite suffering a gruesome ankle dislocation early in his rookie campaign in 2025, Skattebo is fully recovered and ready to serve as New York's primary option in the backfield in Year 2 in new head coach John Harbaugh's offense. While the G-Men have plenty of depth behind him after adding Harris in training camp, it is possible that Skattebo handles 20-plus carries per game if he can remain healthy. The 24-year-old fourth-rounder from Arizona State had 101 carries for 410 yards and five touchdowns while adding 24 catches for 207 yards and another two TDs in eight games played last year before getting hurt. Fantasy managers should treat him as an RB2 in starting fantasy lineups with the regular-season opener quickly approaching.",
+        "title": "Cam Skattebo Listed as Top Giants Running Back",
+        "topic_id": "1403119433966157824",
+        "url": "https://www.rotoballer.com/player-news/cam-skattebo-listed-as-top-giants-running-back/1926038"
+      },
+      "nfl_team": "NYG",
+      "player_id": "12481",
+      "player_name": "Cam Skattebo",
+      "position": "RB",
+      "published": 1788877275000,
+      "source": "rotoballer",
+      "source_key": "220358",
+      "story_id": "nfl|12481|rotoballer|220358|1788877275000",
+      "title": "Cam Skattebo Listed as Top Giants Running Back",
+      "url": "https://www.rotoballer.com/player-news/cam-skattebo-listed-as-top-giants-running-back/1926038"
+    },
+    {
+      "analysis": null,
+      "description": "The Houston Texans have \"big plans\" for new wide receiver Kayshon Boutte in the immediate future after acquiring him in a trade from the New England Patriots in exchange for safety Jaylen Reed and a 2028 seventh-round draft pick, according to Aaron Wilson of KPRC 2 Sports. The plan for Boutte is for the Texans to \"utilize him immediately\" in the Week 1 season opener versus the Buffalo Bills on Sunday. There is overlap for Boutte with the offensive scheme since coordinator Nick Caley is a former Patriots assistant whose playbook is similar to what Pats OC Josh McDaniels runs. \"Kayshon is learning the playbook very well and we're throwing it all at him,\" head coach DeMeco Ryans said. \"He's a smart guy. He's picked up on what we've asked him to do.\" Boutte has been working overtime since joining the Texans to build chemistry with quarterback C.J. Stroud. He will essentially be replacing Jayden Higgins (knee) as the WR2 in Houston after Higgins suffered a season-ending torn ACL in the preseason. With much more opportunity to become fantasy relevant than he ever had in New England, Boutte could become one of the more popular wideouts on the waiver wire early in the 2026 season. He is currently rostered in only 21% of Yahoo leagues.",
+      "metadata": {
+        "description": "The Houston Texans have \"big plans\" for new wide receiver Kayshon Boutte in the immediate future after acquiring him in a trade from the New England Patriots in exchange for safety Jaylen Reed and a 2028 seventh-round draft pick, according to Aaron Wilson of KPRC 2 Sports. The plan for Boutte is for the Texans to \"utilize him immediately\" in the Week 1 season opener versus the Buffalo Bills on Sunday. There is overlap for Boutte with the offensive scheme since coordinator Nick Caley is a former Patriots assistant whose playbook is similar to what Pats OC Josh McDaniels runs. \"Kayshon is learning the playbook very well and we're throwing it all at him,\" head coach DeMeco Ryans said. \"He's a smart guy. He's picked up on what we've asked him to do.\" Boutte has been working overtime since joining the Texans to build chemistry with quarterback C.J. Stroud. He will essentially be replacing Jayden Higgins (knee) as the WR2 in Houston after Higgins suffered a season-ending torn ACL in the preseason. With much more opportunity to become fantasy relevant than he ever had in New England, Boutte could become one of the more popular wideouts on the waiver wire early in the 2026 season. He is currently rostered in only 21% of Yahoo leagues.",
+        "title": "Texans Have \"Big Plans\" for Kayshon Boutte",
+        "topic_id": "1403116916733661184",
+        "url": "https://www.rotoballer.com/player-news/texans-have-big-plans-for-kayshon-boutte/1926030"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9504",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "published": 1788876845000,
+      "source": "rotoballer",
+      "source_key": "220357",
+      "story_id": "nfl|9504|rotoballer|220357|1788876845000",
+      "title": "Texans Have \"Big Plans\" for Kayshon Boutte",
+      "url": "https://www.rotoballer.com/player-news/texans-have-big-plans-for-kayshon-boutte/1926030"
+    },
+    {
+      "analysis": null,
+      "description": "The New York Jets have already acknowledged that they will likely be easing rookie first-round tight end Kenyon Sadiq (hernia) into the offense early on after he missed all of training camp and the preseason this summer following hernia surgery and a setback along the way. However, Sadiq is trending in the right direction to be active for Week 1 against the Tennessee Titans this Sunday, Sept. 13, after participating in positional drills on Tuesday, according to Brian Costello of The New York Post. The extremely athletic tight end from Oregon has tons of long-term upside, but the Jets do not need to rush him back in his first NFL campaign when they have second-year TE Mason Taylor capable of handling the pass-catching duties as Sadiq gets up to speed. Sadiq went undrafted in the majority of 12- and 14-team leagues this summer, but he is not a bad waiver-wire stash if you have room on your bench and want more depth at the position. If Sadiq is active in Week 1 on Sunday, fantasy managers should have him on their benches for his NFL debut.",
+      "metadata": {
+        "description": "The New York Jets have already acknowledged that they will likely be easing rookie first-round tight end Kenyon Sadiq (hernia) into the offense early on after he missed all of training camp and the preseason this summer following hernia surgery and a setback along the way. However, Sadiq is trending in the right direction to be active for Week 1 against the Tennessee Titans this Sunday, Sept. 13, after participating in positional drills on Tuesday, according to Brian Costello of The New York Post. The extremely athletic tight end from Oregon has tons of long-term upside, but the Jets do not need to rush him back in his first NFL campaign when they have second-year TE Mason Taylor capable of handling the pass-catching duties as Sadiq gets up to speed. Sadiq went undrafted in the majority of 12- and 14-team leagues this summer, but he is not a bad waiver-wire stash if you have room on your bench and want more depth at the position. If Sadiq is active in Week 1 on Sunday, fantasy managers should have him on their benches for his NFL debut.",
+        "title": "Kenyon Sadiq Worth a Waiver Stash as his Health Improves",
+        "topic_id": "1403115658496974848",
+        "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-worth-a-waiver-stash-as-his-health-improves/1926022"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13330",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "published": 1788876245000,
+      "source": "rotoballer",
+      "source_key": "220356",
+      "story_id": "nfl|13330|rotoballer|220356|1788876245000",
+      "title": "Kenyon Sadiq Worth a Waiver Stash as his Health Improves",
+      "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-worth-a-waiver-stash-as-his-health-improves/1926022"
     },
     {
       "analysis": null,

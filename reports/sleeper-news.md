@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2183**
-- Newly captured: **1**
+- Stored stories: **2186**
+- Newly captured: **3**
 
 ## Latest news
 
@@ -37,7 +37,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.
 - **Malachi Fields** — Malachi Fields - Looks set to begin season as No. 2 wideout (2026-09-08T15:18:23Z)
   - The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.
-- **NEW — Zay Flowers** — Zay Flowers Goes Through Drills at "Full Strength" (2026-09-08T14:02:06Z)
+- **NEW — Cam Skattebo** — Cam Skattebo Listed as Top Giants Running Back (2026-09-08T14:21:15Z)
+  - Source: https://www.rotoballer.com/player-news/cam-skattebo-listed-as-top-giants-running-back/1926038
+- **NEW — Kayshon Boutte** — Texans Have "Big Plans" for Kayshon Boutte (2026-09-08T14:14:05Z)
+  - Source: https://www.rotoballer.com/player-news/texans-have-big-plans-for-kayshon-boutte/1926030
+- **NEW — Kenyon Sadiq** — Kenyon Sadiq Worth a Waiver Stash as his Health Improves (2026-09-08T14:04:05Z)
+  - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-worth-a-waiver-stash-as-his-health-improves/1926022
+- **Zay Flowers** — Zay Flowers Goes Through Drills at "Full Strength" (2026-09-08T14:02:06Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-goes-through-drills-at-full-strength/1926020
 - **Patrick Mahomes** — Patrick Mahomes on Track to Start Week 1 (2026-09-08T13:37:07Z)
   - Source: https://www.rotoballer.com/player-news/patrick-mahomes-on-track-to-start-week-1/1925999
@@ -222,10 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Egbuka was limited to work on the side last week, and although it's not yet clear how much he will do Monday, it appears he has taken a step forward in his recovery from a toe issue. There has been hope that Egbuka will be available for Week 1, and there remains reason to believe he will be available for Tampa Bay's opener.
 - **Cooper Kupp** — Is Cooper Kupp Still Worth Rostering in Deeper Leagues? (2026-09-07T16:19:05Z)
   - Source: https://www.rotoballer.com/player-news/is-cooper-kupp-still-worth-rostering-in-deeper-league-formats/1925394
-- **Brian Robinson** — Brian Robinson a Top Stash Candidate Ahead of Week 1 (2026-09-07T16:10:05Z)
-  - Source: https://www.rotoballer.com/player-news/brian-robinson-jr-a-top-stash-candidate-ahead-of-week-1/1925387
-- **TreVeyon Henderson** — TreVeyon Henderson (ankle) not seen practicing Monday  (2026-09-07T16:05:41.763000Z)
-  - Henderson continues to trend towards likely being sidelined for Wednesday's season opener. Rhamondre Stevenson should open the season in a workhorse role. 
-  - Source: https://www.fantasypros.com/nfl/news/606350/treveyon-henderson-ankle-not-seen-practicing-monday.php
-- **Woody Marks** — Woody Marks Expected to Share Plenty of Backfield Work (2026-09-07T16:05:06Z)
-  - Source: https://www.rotoballer.com/player-news/woody-marks-expected-to-share-plenty-of-backfield-work/1925381
