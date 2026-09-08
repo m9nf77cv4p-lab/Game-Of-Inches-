@@ -2,13 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2141**
-- Newly captured: **0**
+- Stored stories: **2142**
+- Newly captured: **1**
 
 ## Latest news
 
 - **Ollie Gordon** — Ollie Gordon - Ditches non-contact jersey (2026-09-07T23:26:10Z)
   - Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Falcons on Sunday, but the team could hold him out. Gordon is set to be the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the team will have no reason to throw him back into the fire when he could rest a week and return to full health.
+- **NEW — Ray Davis** — Ray Davis Offers Late-Round Value (2026-09-07T22:55:05Z)
+  - Source: https://www.rotoballer.com/player-news/ray-davis-offers-late-round-value/1925582
 - **George Kittle** — George Kittle's Week 1 Workload is Undecided (2026-09-07T22:48:06Z)
   - Source: https://www.rotoballer.com/player-news/george-kittles-workload-is-undecided/1925577
 - **Rashod Bateman** — Rashod Bateman is Avoidable in Redraft Formats (2026-09-07T22:40:05Z)
@@ -227,5 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/xavier-worthy-could-become-top-waiver-wire-target-after-injury-plagued-2025/1925044
 - **Kaelon Black** — Kaelon Black a Priority Waiver-Wire Add With CMC Banged Up (2026-09-07T09:50:25Z)
   - Source: https://www.rotoballer.com/player-news/kaelon-black-a-priority-waiver-wire-add-with-mccaffrey-not-practicing/1925037
-- **Wan'Dale Robinson** — Wan'Dale Robinson Worth Adding Ahead of Week 1 (2026-09-07T09:41:09Z)
-  - Source: https://www.rotoballer.com/player-news/wandale-robinson-worth-adding-ahead-of-week-1/1925020

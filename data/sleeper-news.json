@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-08T03:05:43Z",
+  "last_checked_at": "2026-09-08T03:22:54Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11575|rotoballer|220320|1788821705000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -30,6 +32,26 @@
       "story_id": "nfl|12495|rotowire|636359|1788823570000",
       "title": "Ollie Gordon - Ditches non-contact jersey",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills running back Ray Davis doesn't offer much standalone value, but is an intriguing handcuff option. Davis hasn't seen a ton of work on the ground due to the fact that James Cook has been mostly healthy. However, Davis remains one of the more popular handcuff options because of the way the Bills love to pound the ball on the ground. The 26-year-old only rushed the ball 58 times last season, but averaged 4.74 yards per carry. Davis is successful when he gets an opportunity, but his chances have been limited so far during his two years in the league. Davis isn't a must-roster player, but is someone worth considering during the final round on Draft Day due to his potential upside if Cook ever goes down.",
+      "metadata": {
+        "description": "Buffalo Bills running back Ray Davis doesn't offer much standalone value, but is an intriguing handcuff option. Davis hasn't seen a ton of work on the ground due to the fact that James Cook has been mostly healthy. However, Davis remains one of the more popular handcuff options because of the way the Bills love to pound the ball on the ground. The 26-year-old only rushed the ball 58 times last season, but averaged 4.74 yards per carry. Davis is successful when he gets an opportunity, but his chances have been limited so far during his two years in the league. Davis isn't a must-roster player, but is someone worth considering during the final round on Draft Day due to his potential upside if Cook ever goes down.",
+        "title": "Ray Davis Offers Late-Round Value",
+        "topic_id": "1402886622848036864",
+        "url": "https://www.rotoballer.com/player-news/ray-davis-offers-late-round-value/1925582"
+      },
+      "nfl_team": "BUF",
+      "player_id": "11575",
+      "player_name": "Ray Davis",
+      "position": "RB",
+      "published": 1788821705000,
+      "source": "rotoballer",
+      "source_key": "220320",
+      "story_id": "nfl|11575|rotoballer|220320|1788821705000",
+      "title": "Ray Davis Offers Late-Round Value",
+      "url": "https://www.rotoballer.com/player-news/ray-davis-offers-late-round-value/1925582"
     },
     {
       "analysis": null,
