@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-08T02:40:03Z",
+  "last_checked_at": "2026-09-08T02:53:39Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|8210|rotoballer|220316|1788820209000"
+    "nfl|4217|rotoballer|220319|1788821286000",
+    "nfl|7571|rotoballer|220318|1788820805000"
   ],
   "schema_version": 1,
   "source": {
@@ -32,6 +33,46 @@
       "story_id": "nfl|12495|rotowire|636359|1788823570000",
       "title": "Ollie Gordon - Ditches non-contact jersey",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers tight end George Kittle (Achilles) was seen participating in practice on Monday. 49ers offensive coordinator Klay Kubiak says Kittle looks good for the season opener, but his workload is still to be determined, Cam Inman reports. Kittle still needs to get through a few more practices, but is trending towards playing on Thursday versus the Los Angeles Rams. The 32-year-old made an incredibly quick recovery from a torn right Achilles that he suffered during a playoff game in January. When healthy, Kittle is a top-tier tight end, but fantasy managers might need to be patient with him for a game or two.",
+      "metadata": {
+        "description": "San Francisco 49ers tight end George Kittle (Achilles) was seen participating in practice on Monday. 49ers offensive coordinator Klay Kubiak says Kittle looks good for the season opener, but his workload is still to be determined, Cam Inman reports. Kittle still needs to get through a few more practices, but is trending towards playing on Thursday versus the Los Angeles Rams. The 32-year-old made an incredibly quick recovery from a torn right Achilles that he suffered during a playoff game in January. When healthy, Kittle is a top-tier tight end, but fantasy managers might need to be patient with him for a game or two.",
+        "title": "George Kittle's Workload is Undecided",
+        "topic_id": "1402882847668236288",
+        "url": "https://www.rotoballer.com/player-news/george-kittles-workload-is-undecided/1925577"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788821286000,
+      "source": "rotoballer",
+      "source_key": "220319",
+      "story_id": "nfl|4217|rotoballer|220319|1788821286000",
+      "title": "George Kittle's Workload is Undecided",
+      "url": "https://www.rotoballer.com/player-news/george-kittles-workload-is-undecided/1925577"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Rashod Bateman is trending in the wrong direction heading into the regular season. Bateman could be facing a suspension by the league after getting arrested on violence charges in June. The investigation is not over yet, but a potential suspension does significantly hurt Bateman's value. Bateman is currently the No. 2 option behind Zay Flowers on the depth chart. Rookie Ja'Kobi Lane appears to be quickly gaining ground and could jump Bateman for that spot soon. The 26-year-old finished with 19 receptions for 224 receiving yards and two touchdowns in 13 games with the Ravens last season. Fantasy managers in redraft formats can find a much more reliable option than Bateman.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Rashod Bateman is trending in the wrong direction heading into the regular season. Bateman could be facing a suspension by the league after getting arrested on violence charges in June. The investigation is not over yet, but a potential suspension does significantly hurt Bateman's value. Bateman is currently the No. 2 option behind Zay Flowers on the depth chart. Rookie Ja'Kobi Lane appears to be quickly gaining ground and could jump Bateman for that spot soon. The 26-year-old finished with 19 receptions for 224 receiving yards and two touchdowns in 13 games with the Ravens last season. Fantasy managers in redraft formats can find a much more reliable option than Bateman.",
+        "title": "Rashod Bateman is Avoidable in Redraft Formats",
+        "topic_id": "1402881589209210880",
+        "url": "https://www.rotoballer.com/player-news/rashod-bateman-is-avoidable-in-redraft-formats/1925569"
+      },
+      "nfl_team": "BAL",
+      "player_id": "7571",
+      "player_name": "Rashod Bateman",
+      "position": "WR",
+      "published": 1788820805000,
+      "source": "rotoballer",
+      "source_key": "220318",
+      "story_id": "nfl|7571|rotoballer|220318|1788820805000",
+      "title": "Rashod Bateman is Avoidable in Redraft Formats",
+      "url": "https://www.rotoballer.com/player-news/rashod-bateman-is-avoidable-in-redraft-formats/1925569"
     },
     {
       "analysis": null,
@@ -462,10 +503,10 @@
     },
     {
       "analysis": "Pierce returned to a full practice last week and is nearing 100 percent following ankle surgery earlier in the offseason. While Pierce is expected to play against Baltimore, it's unclear if he'll play his normal allotment of snaps, according to Stephen Holder of ESPN.com. Pierce could be on some sort of snap count, and Ashton Dulin would be in line for additional reps on offense. Pierce is shaping up as a boom-or-bust fantasy bet for Week 1.",
-      "description": "Coach Shan Steichen said Monday that Pierce (ankle) \"should be good to go\" for Sunday's game against the Ravens, Joel A. Erickson of The Indianapolis Star reports.",
+      "description": "Coach Shane Steichen said Monday that Pierce (ankle) \"should be good to go\" for Sunday's game against the Ravens, Joel A. Erickson of The Indianapolis Star reports.",
       "metadata": {
         "analysis": "Pierce returned to a full practice last week and is nearing 100 percent following ankle surgery earlier in the offseason. While Pierce is expected to play against Baltimore, it's unclear if he'll play his normal allotment of snaps, according to Stephen Holder of ESPN.com. Pierce could be on some sort of snap count, and Ashton Dulin would be in line for additional reps on offense. Pierce is shaping up as a boom-or-bust fantasy bet for Week 1.",
-        "description": "Coach Shan Steichen said Monday that Pierce (ankle) \"should be good to go\" for Sunday's game against the Ravens, Joel A. Erickson of The Indianapolis Star reports.",
+        "description": "Coach Shane Steichen said Monday that Pierce (ankle) \"should be good to go\" for Sunday's game against the Ravens, Joel A. Erickson of The Indianapolis Star reports.",
         "title": "Alec Pierce - Expected to play Week 1",
         "topic_id": "1402778400409522176"
       },

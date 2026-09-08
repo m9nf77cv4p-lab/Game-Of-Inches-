@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2139**
-- Newly captured: **1**
+- Stored stories: **2141**
+- Newly captured: **2**
 
 ## Latest news
 
 - **Ollie Gordon** — Ollie Gordon - Ditches non-contact jersey (2026-09-07T23:26:10Z)
   - Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Falcons on Sunday, but the team could hold him out. Gordon is set to be the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the team will have no reason to throw him back into the fire when he could rest a week and return to full health.
-- **NEW — Chig Okonkwo** — Chig Okonkwo Could be Headed Towards Breakout Campaign (2026-09-07T22:30:09Z)
+- **NEW — George Kittle** — George Kittle's Workload is Undecided (2026-09-07T22:48:06Z)
+  - Source: https://www.rotoballer.com/player-news/george-kittles-workload-is-undecided/1925577
+- **NEW — Rashod Bateman** — Rashod Bateman is Avoidable in Redraft Formats (2026-09-07T22:40:05Z)
+  - Source: https://www.rotoballer.com/player-news/rashod-bateman-is-avoidable-in-redraft-formats/1925569
+- **Chig Okonkwo** — Chig Okonkwo Could be Headed Towards Breakout Campaign (2026-09-07T22:30:09Z)
   - Source: https://www.rotoballer.com/player-news/chig-okonkwo-could-be-headed-towards-breakout-campaign/1925561
 - **Hunter Henry** — Hunter Henry Remains a High-Floor Deep-League Tight End Option (2026-09-07T22:00:05Z)
   - Source: https://www.rotoballer.com/player-news/hunter-henry-remains-a-high-floor-deep-league-tight-end-option/1925541
@@ -225,7 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kaelon-black-a-priority-waiver-wire-add-with-mccaffrey-not-practicing/1925037
 - **Wan'Dale Robinson** — Wan'Dale Robinson Worth Adding Ahead of Week 1 (2026-09-07T09:41:09Z)
   - Source: https://www.rotoballer.com/player-news/wandale-robinson-worth-adding-ahead-of-week-1/1925020
-- **Tyler Allgeier** — Tyler Allgeier Could Be Workhorse in Week 1 (2026-09-07T09:33:27Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-allgeier-to-be-workhorse-if-jeremiyah-love-is-ruled-out/1925014
-- **Mike Washington** — Mike Washington Jr. Has Impressed Ahead of Week 1 (2026-09-07T09:25:13Z)
-  - Source: https://www.rotoballer.com/player-news/mike-washington-jr-has-impressed-ahead-of-week-1/1925004
