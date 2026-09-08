@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2230**
+- Stored stories: **2231**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling - Shakes off shoulder issue (2026-09-08T23:16:04Z)
+- **NEW — Puka Nacua** — Puka Nacua - Avoids injury report (2026-09-08T23:32:06Z)
+  - Nacua has been slowed since picking up a psoas injury nearly a month ago, but he will avoid the injury report altogether in advance of Week 1. With Nacua seemingly at full speed, expect him to fill his usual role when the Rams kick off their season against the 49ers in Australia.
+- **De'Zhaun Stribling** — De'Zhaun Stribling - Shakes off shoulder issue (2026-09-08T23:16:04Z)
   - Stribling was slowed by a shoulder injury for a couple weeks, but it apparently is no longer an issue, as he did not draw a mention on the first injury report the 49ers put out in advance of Week 1. Stribling is listed as a reserve receiver behind veterans Mike Evans and Deebo Samuel on San Francisco's unofficial depth chart, so while it appears he will debut against the Rams in Australia it's unclear exactly what role he will fill.
 - **Mike Evans** — Mike Evans - Removed from injured list (2026-09-08T22:59:21Z)
   - Evans has been slowed by injuries since early August, but he apparently is back at 100 percent in advance of Week 1. Barring any setbacks, he seems set to fill a starting wide receiver spot when the 49ers kick off their 2026 campaign against the Rams in Australia.
@@ -216,5 +218,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/chig-okonkwo-could-be-headed-towards-breakout-campaign/1925561
 - **Hunter Henry** — Hunter Henry Remains a High-Floor Deep-League Tight End Option (2026-09-07T22:00:05Z)
   - Source: https://www.rotoballer.com/player-news/hunter-henry-remains-a-high-floor-deep-league-tight-end-option/1925541
-- **Denzel Boston** — Denzel Boston a Must-Add Wide Receiver Amidst Preseason Buzz (2026-09-07T21:47:59Z)
-  - Source: https://www.rotoballer.com/player-news/denzel-boston-a-must-add-wide-receiver-amidst-preseason-buzz/1925536
