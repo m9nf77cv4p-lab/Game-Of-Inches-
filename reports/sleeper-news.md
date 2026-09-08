@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2167**
+- Stored stories: **2168**
 - Newly captured: **1**
 
 ## Latest news
@@ -16,7 +16,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.
 - **Malachi Fields** — Malachi Fields - Looks set to begin season as No. 2 wideout (2026-09-08T15:18:23Z)
   - The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.
-- **NEW — Breece Hall** — Breece Hall Trending Towards Being Active in Week 1 (2026-09-08T12:32:07Z)
+- **NEW — Chris Rodriguez** — Bhayshul Tuten, Chris Rodriguez Jr. Listed as Co-Starters at RB (2026-09-08T12:42:10Z)
+  - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-chris-rodriguez-jr-listed-as-co-starters-at-rb/1925971
+- **Breece Hall** — Breece Hall Trending Towards Being Active in Week 1 (2026-09-08T12:32:07Z)
   - Source: https://www.rotoballer.com/player-news/breece-hall-trending-towards-being-active-in-week-1/1925966
 - **Makai Lemon** — Makai Lemon Listed as Starting WR, Punt Returner (2026-09-08T12:08:06Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemon-listed-as-starting-wr-punt-returner/1925950
@@ -227,5 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - While addressing the media shortly after the Falcons named Tua Tagovailoa their Week 1 starter Monday, Stefanski noted that Penix had taken part in only six 11-on-11 practices during training camp, so the third-year quarterback will need some more time to get back to full speed following last November's ACL tear before making his 2026 debut, per Raimondi. The Falcons were pleased enough with Penix's progress to wait until less than a week before the season opener to name a starter, which suggests that he'll likely get a chance to supplant Tagovailoa atop the depth chart at some point this season. While Penix is in street clothes for Week 1, Cooper Rush will step in as Tagovailoa's backup, and undrafted rookie Jack Strand will serve as the No. 3 quarterback.
 - **D'Andre Swift** — D'Andre Swift Returns to Practice on Monday (2026-09-07T14:55:06Z)
   - Source: https://www.rotoballer.com/player-news/dandre-swift-returns-to-practice-on-monday/1925336
-- **Kyle Monangai** — Kyle Monangai Back at Practice on Monday (2026-09-07T14:49:05Z)
-  - Source: https://www.rotoballer.com/player-news/kyle-monangai-back-at-practice-on-monday/1925331

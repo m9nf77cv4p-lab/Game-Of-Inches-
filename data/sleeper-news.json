@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T16:37:43Z",
+  "last_checked_at": "2026-09-08T16:51:07Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|8155|rotoballer|220347|1788870727000"
+    "nfl|10219|rotoballer|220348|1788871330000"
   ],
   "schema_version": 1,
   "source": {
@@ -93,6 +93,26 @@
       "story_id": "nfl|13285|rotowire|636385|1788880703000",
       "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "On the Jacksonville Jaguars' unofficial depth chart heading into Week 1 of the 2026 regular season this Sunday against the Cleveland Browns, running backs Bhayshul Tuten and Chris Rodriguez Jr. are listed as co-starters at the RB position. Tuten, a second-year back who had 307 rushing yards and five rushing touchdowns in his rookie campaign last year, is expected to see most of the early-down rushing opportunities for the Jaguars this year, and he has the most fantasy football upside because of his explosive big-play abilities out of the backfield. However, Rodriguez's presence as a pass-catching and goal-line option for head coach Liam Coen's offense will certainly lower Tuten's overall ceiling in Year 2 in Duvall. Fantasy managers should keep in mind that pass-catching specialist LeQuint Allen Jr. (undisclosed) is trending towards missing the season opener, which could give C-Rod more work as a receiver out of the backfield. Going into the Week 1 matchup against Cleveland, Tuten is the preferred fantasy option as a low-end RB2/high-end RB3/flex, while Rodriguez will be more of a touchdown-dependent RB3/flex option in PPR formats.",
+      "metadata": {
+        "description": "On the Jacksonville Jaguars' unofficial depth chart heading into Week 1 of the 2026 regular season this Sunday against the Cleveland Browns, running backs Bhayshul Tuten and Chris Rodriguez Jr. are listed as co-starters at the RB position. Tuten, a second-year back who had 307 rushing yards and five rushing touchdowns in his rookie campaign last year, is expected to see most of the early-down rushing opportunities for the Jaguars this year, and he has the most fantasy football upside because of his explosive big-play abilities out of the backfield. However, Rodriguez's presence as a pass-catching and goal-line option for head coach Liam Coen's offense will certainly lower Tuten's overall ceiling in Year 2 in Duvall. Fantasy managers should keep in mind that pass-catching specialist LeQuint Allen Jr. (undisclosed) is trending towards missing the season opener, which could give C-Rod more work as a receiver out of the backfield. Going into the Week 1 matchup against Cleveland, Tuten is the preferred fantasy option as a low-end RB2/high-end RB3/flex, while Rodriguez will be more of a touchdown-dependent RB3/flex option in PPR formats.",
+        "title": "Bhayshul Tuten, Chris Rodriguez Jr. Listed as Co-Starters at RB",
+        "topic_id": "1403094265474617344",
+        "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-chris-rodriguez-jr-listed-as-co-starters-at-rb/1925971"
+      },
+      "nfl_team": "JAX",
+      "player_id": "10219",
+      "player_name": "Chris Rodriguez",
+      "position": "RB",
+      "published": 1788871330000,
+      "source": "rotoballer",
+      "source_key": "220348",
+      "story_id": "nfl|10219|rotoballer|220348|1788871330000",
+      "title": "Bhayshul Tuten, Chris Rodriguez Jr. Listed as Co-Starters at RB",
+      "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-chris-rodriguez-jr-listed-as-co-starters-at-rb/1925971"
     },
     {
       "analysis": null,
