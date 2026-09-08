@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T01:41:13Z",
+  "last_checked_at": "2026-09-08T01:54:13Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11783|rotoballer|220310|1788816831000",
-    "nfl|1479|rotoballer|220309|1788816306000"
+    "nfl|12495|rotoballer|220312|1788817205000"
   ],
   "schema_version": 1,
   "source": {
@@ -33,6 +32,26 @@
       "story_id": "nfl|12495|rotowire|636359|1788823570000",
       "title": "Ollie Gordon - Ditches non-contact jersey",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins running back Ollie Gordon II (ribs) was no longer wearing a red, no-contact jersey in practice on Monday, according to David Furones of the South Florida Sun-Sentinel. Gordon, who is expected to enter the 2026 campaign this weekend as the RB3 in Miami behind De'Von Achane and Jaylen Wright, is heading in the right direction to be available for the Week 1 regular-season opener on Sunday, Sept. 13, versus the Las Vegas Raiders on the road. However, with a limited role as the No. 3, fantasy managers cannot legitimately consider Gordon a starter on offense in fantasy lineups. The 22-year-old former sixth-round selection from Oklahoma State carried the ball 70 times for 199 yards (2.8 yards per tote) and three touchdowns in 17 games as a rookie, adding seven catches for 32 yards and one touchdown as a receiver in a rough Miami offense. Gordon is only rostered in 1% of Yahoo leagues and will not become a target off the waiver wire unless one of Achane or Wright misses time with an injury.",
+      "metadata": {
+        "description": "Miami Dolphins running back Ollie Gordon II (ribs) was no longer wearing a red, no-contact jersey in practice on Monday, according to David Furones of the South Florida Sun-Sentinel. Gordon, who is expected to enter the 2026 campaign this weekend as the RB3 in Miami behind De'Von Achane and Jaylen Wright, is heading in the right direction to be available for the Week 1 regular-season opener on Sunday, Sept. 13, versus the Las Vegas Raiders on the road. However, with a limited role as the No. 3, fantasy managers cannot legitimately consider Gordon a starter on offense in fantasy lineups. The 22-year-old former sixth-round selection from Oklahoma State carried the ball 70 times for 199 yards (2.8 yards per tote) and three touchdowns in 17 games as a rookie, adding seven catches for 32 yards and one touchdown as a receiver in a rough Miami offense. Gordon is only rostered in 1% of Yahoo leagues and will not become a target off the waiver wire unless one of Achane or Wright misses time with an injury.",
+        "title": "Ollie Gordon II Ditches No-Contact Jersey on Monday",
+        "topic_id": "1402866488142012416",
+        "url": "https://www.rotoballer.com/player-news/ollie-gordon-ii-ditches-no-contact-jersey-on-monday/1925532"
+      },
+      "nfl_team": "MIA",
+      "player_id": "12495",
+      "player_name": "Ollie Gordon",
+      "position": "RB",
+      "published": 1788817205000,
+      "source": "rotoballer",
+      "source_key": "220312",
+      "story_id": "nfl|12495|rotoballer|220312|1788817205000",
+      "title": "Ollie Gordon II Ditches No-Contact Jersey on Monday",
+      "url": "https://www.rotoballer.com/player-news/ollie-gordon-ii-ditches-no-contact-jersey-on-monday/1925532"
     },
     {
       "analysis": null,

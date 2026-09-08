@@ -2,19 +2,21 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2135**
-- Newly captured: **2**
+- Stored stories: **2136**
+- Newly captured: **1**
 
 ## Latest news
 
 - **Ollie Gordon** — Ollie Gordon - Ditches non-contact jersey (2026-09-07T23:26:10Z)
   - Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Falcons on Sunday, but the team could hold him out. Gordon is set to be the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the team will have no reason to throw him back into the fire when he could rest a week and return to full health.
-- **NEW — Ryan Flournoy** — Ryan Flournoy a High-Upside Stash Option Entering 2026 (2026-09-07T21:33:51Z)
+- **NEW — Ollie Gordon** — Ollie Gordon II Ditches No-Contact Jersey on Monday (2026-09-07T21:40:05Z)
+  - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-ditches-no-contact-jersey-on-monday/1925532
+- **Ryan Flournoy** — Ryan Flournoy a High-Upside Stash Option Entering 2026 (2026-09-07T21:33:51Z)
   - Source: https://www.rotoballer.com/player-news/ryan-flournoy-a-high-upside-stash-option-entering-2026/1925530
 - **Tory Horton** — Tory Horton (hamstring) limited in practice Monday  (2026-09-07T21:25:43.834000Z)
   - Horton logged his second straight limited practice. It would still be a surprise if he plays on Wednesday, but it is a good sign nonetheless. 
   - Source: https://www.fantasypros.com/nfl/news/606432/tory-horton-hamstring-limited-practice-monday.php
-- **NEW — Keenan Allen** — Is Keenan Allen Still Worth Rostering in Deeper Leagues? (2026-09-07T21:25:06Z)
+- **Keenan Allen** — Is Keenan Allen Still Worth Rostering in Deeper Leagues? (2026-09-07T21:25:06Z)
   - Source: https://www.rotoballer.com/player-news/is-keenan-allen-still-worth-rostering-in-deeper-league-formats/1925523
 - **Tre Tucker** — Tre Tucker an Appealing Depth Add for Fantasy Managers Ahead of 2026 (2026-09-07T21:16:05Z)
   - Source: https://www.rotoballer.com/player-news/tre-tucker-an-appealing-depth-add-for-fantasy-managers-ahead-of-2026/1925517
@@ -227,6 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/falcons-name-tua-tagovailoa-week-1-starter/1924969
 - **Christian McCaffrey** — Christian McCaffrey - Sitting out early drills Monday (2026-09-07T05:57:03Z)
   - This was the portion of practice available to the media Monday. We'll await the official practice status of McCaffrey, with the Niners taking on the Rams on Thursday.
-- **Tory Horton** — Tory Horton (hamstring) limited in practice Sunday  (2026-09-07T01:35:36.529000Z)
-  - This is a little surprising as just a couple of weeks ago, Horton was said to be out "for a while." He projects as an upside WR4/WR5 for fantasy managers when he is healthy. 
-  - Source: https://www.fantasypros.com/nfl/news/606236/tory-horton-hamstring-limited-practice-sunday.php
