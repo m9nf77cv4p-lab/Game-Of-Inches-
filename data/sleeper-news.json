@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-08T17:33:06Z",
+  "last_checked_at": "2026-09-08T17:45:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11618|rotoballer|220352|1788872826000",
-    "nfl|11620|rotowire|636391|1788887835000",
-    "nfl|4046|rotowire|636390|1788887699000"
+    "nfl|11620|rotoballer|220353|1788873905000",
+    "nfl|13330|rotowire|636392|1788889043000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The rookie first-round pick missed nearly all of training camp and the preseason after experiencing a setback in his recovery from hernia surgery, but head coach Aaron Glenn had been optimistic over the past week that Sadiq would be ready to go for the start of the regular season. Sadiq's involvement in positional drills suggests that he remains on track to play in Sunday's game at Tennessee, though the extensive time he missed during the summer means that he'll likely have to settle for a small role off the bat. Mason Taylor looks to be the leading candidate to start and lead the tight-end group in snaps Week 1.",
+      "description": "Sadiq (hernia) was spotted taking part in positional drills during Tuesday's practice, Brian Costello of the New York Post reports.",
+      "metadata": {
+        "analysis": "The rookie first-round pick missed nearly all of training camp and the preseason after experiencing a setback in his recovery from hernia surgery, but head coach Aaron Glenn had been optimistic over the past week that Sadiq would be ready to go for the start of the regular season. Sadiq's involvement in positional drills suggests that he remains on track to play in Sunday's game at Tennessee, though the extensive time he missed during the summer means that he'll likely have to settle for a small role off the bat. Mason Taylor looks to be the leading candidate to start and lead the tight-end group in snaps Week 1.",
+        "description": "Sadiq (hernia) was spotted taking part in positional drills during Tuesday's practice, Brian Costello of the New York Post reports.",
+        "title": "Kenyon Sadiq - Involved in positional drills",
+        "topic_id": "1403106851087716352"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13330",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "published": 1788889043000,
+      "source": "rotowire",
+      "source_key": "636392",
+      "story_id": "nfl|13330|rotowire|636392|1788889043000",
+      "title": "Kenyon Sadiq - Involved in positional drills",
+      "url": null
+    },
     {
       "analysis": "Johnson didn't provide many specifics regarding the right leg injury that Odunze sustained in a practice last Thursday, though the coach noted that the issue isn't an aggravation of the foot injury that kept the wideout sidelined for the final five games of the 2025 regular season, per Courtney Cronin of ESPN.com. Odunze will still have three more chances to fit in some practice activity this week before the Bears decide on his status for Sunday's contest, but at this stage, the the team is optimistic that the third-year receiver will be able to play through the leg injury.",
       "description": "Head coach Ben Johnson said that Odunze (leg) won't practice Tuesday, but the wide receiver is considered \"more day-to-day,\" and the Bears remain hopeful that he'll play in Sunday's season opener versus the Panthers, Brad Biggs of the Chicago Tribune reports.",
@@ -218,6 +237,26 @@
       "story_id": "nfl|13285|rotowire|636385|1788880703000",
       "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears wide receiver Rome Odunze (leg) will not practice on Tuesday, and head coach Ben Johnson told reporters he is considered \"day-to-day.\" Johnson clarified that the 2024 first-round pick did not aggravate the foot injury that he dealt with last season but is instead dealing with \"something different,\" and the team remains hopeful he'll be able to suit up for a Week 1 matchup with the Panthers. Odunze led the Bears with 87 targets in 2025 despite missing five games, and following the departure of veteran DJ Moore, there is an expectation of a further consolidation of opportunities between Odunze and second-year pass-catchers Luther Burden III and Colston Loveland. Fantasy managers will now need to monitor Odunze's status when the team releases its first official practice report on Wednesday.",
+      "metadata": {
+        "description": "Chicago Bears wide receiver Rome Odunze (leg) will not practice on Tuesday, and head coach Ben Johnson told reporters he is considered \"day-to-day.\" Johnson clarified that the 2024 first-round pick did not aggravate the foot injury that he dealt with last season but is instead dealing with \"something different,\" and the team remains hopeful he'll be able to suit up for a Week 1 matchup with the Panthers. Odunze led the Bears with 87 targets in 2025 despite missing five games, and following the departure of veteran DJ Moore, there is an expectation of a further consolidation of opportunities between Odunze and second-year pass-catchers Luther Burden III and Colston Loveland. Fantasy managers will now need to monitor Odunze's status when the team releases its first official practice report on Wednesday.",
+        "title": "Rome Odunze Won't Practice Tuesday, Bears \"Hopeful\" for Week 1",
+        "topic_id": "1403105590699401216",
+        "url": "https://www.rotoballer.com/player-news/rome-odunze-wont-practice-tuesday-bears-hopeful-for-week-1/1925989"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1788873905000,
+      "source": "rotoballer",
+      "source_key": "220353",
+      "story_id": "nfl|11620|rotoballer|220353|1788873905000",
+      "title": "Rome Odunze Won't Practice Tuesday, Bears \"Hopeful\" for Week 1",
+      "url": "https://www.rotoballer.com/player-news/rome-odunze-wont-practice-tuesday-bears-hopeful-for-week-1/1925989"
     },
     {
       "analysis": null,
