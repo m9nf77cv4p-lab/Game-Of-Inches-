@@ -1,9 +1,13 @@
 {
-  "last_checked_at": "2026-09-08T14:56:52Z",
+  "last_checked_at": "2026-09-08T15:33:41Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13285|rotoballer|220335|1788864118000"
+    "nfl|10236|rotoballer|220340|1788866645000",
+    "nfl|13285|rotowire|636385|1788880703000",
+    "nfl|13293|rotoballer|220339|1788866705000",
+    "nfl|4983|rotoballer|220337|1788866226000",
+    "nfl|5844|rotoballer|220338|1788866124000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +17,106 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.",
+      "description": "Fields appears on track to open the season as the Giants' No. 2 receiver after the team released Darius Slayton on Monday, Matt Iegros of USA Today reports.",
+      "metadata": {
+        "analysis": "The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.",
+        "description": "Fields appears on track to open the season as the Giants' No. 2 receiver after the team released Darius Slayton on Monday, Matt Iegros of USA Today reports.",
+        "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
+        "topic_id": "1403071614840492032"
+      },
+      "nfl_team": "NYG",
+      "player_id": "13285",
+      "player_name": "Malachi Fields",
+      "position": "WR",
+      "published": 1788880703000,
+      "source": "rotowire",
+      "source_key": "636385",
+      "story_id": "nfl|13285|rotowire|636385|1788880703000",
+      "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens rookie wide receiver Ja'Kobi Lane has done enough this summer to be worth tracking, though the waiver case is better in deeper PPR leagues than standard 12-team formats. Baltimore took Lane 80th overall in April after he caught 49 passes for 745 yards and four touchdowns in his final season at USC, and he kept showing up during camp. The Ravens said after roster cuts that Lane's emergence helped settle their No. 3 receiver question and projected him for a substantial role. That still leaves Zay Flowers and Rashod Bateman ahead of him, with Mark Andrews involved underneath, so there may not be enough targets right away to use Lane against Indianapolis. RotoBaller currently has him rostered in 19% of Yahoo leagues and recommends him in 14-team PPR leagues. That feels like the right range. Lane is not a Week 1 starter, but the size, draft investment and camp buzz make him a worthwhile bench stash in deeper formats.",
+      "metadata": {
+        "description": "Baltimore Ravens rookie wide receiver Ja'Kobi Lane has done enough this summer to be worth tracking, though the waiver case is better in deeper PPR leagues than standard 12-team formats. Baltimore took Lane 80th overall in April after he caught 49 passes for 745 yards and four touchdowns in his final season at USC, and he kept showing up during camp. The Ravens said after roster cuts that Lane's emergence helped settle their No. 3 receiver question and projected him for a substantial role. That still leaves Zay Flowers and Rashod Bateman ahead of him, with Mark Andrews involved underneath, so there may not be enough targets right away to use Lane against Indianapolis. RotoBaller currently has him rostered in 19% of Yahoo leagues and recommends him in 14-team PPR leagues. That feels like the right range. Lane is not a Week 1 starter, but the size, draft investment and camp buzz make him a worthwhile bench stash in deeper formats.",
+        "title": "Ja'Kobi Lane a High-Upside Stash in Deeper PPR Leagues",
+        "topic_id": "1403074130202374144",
+        "url": "https://www.rotoballer.com/player-news/jakobi-lane-a-high-upside-stash-in-deeper-ppr-leagues/1925907"
+      },
+      "nfl_team": "BAL",
+      "player_id": "13293",
+      "player_name": "Ja'Kobi Lane",
+      "position": "WR",
+      "published": 1788866705000,
+      "source": "rotoballer",
+      "source_key": "220339",
+      "story_id": "nfl|13293|rotoballer|220339|1788866705000",
+      "title": "Ja'Kobi Lane a High-Upside Stash in Deeper PPR Leagues",
+      "url": "https://www.rotoballer.com/player-news/jakobi-lane-a-high-upside-stash-in-deeper-ppr-leagues/1925907"
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills tight end Dalton Kincaid's on-field role with Buffalo has suffered in the last two years with the team because of injuries, but he just wrapped up the healthiest training camp he has had since his rookie year and had a big role in the offense during practices open to the media, according to The Athletic's Joe Buscaglia. Kincaid could become one of the most important pieces on the Bills' roster if he can \"become a 60-65% snap player\" and be just competent enough in blocking when he is on the field. The 26-year-old had 73 catches for 673 yards and two touchdowns on 91 targets as a rookie, but his snap counts fell in each of the last two years while dealing with nagging injuries. The former first-rounder from Utah did have a career-best five touchdowns in 12 games in 2025, but he played fewer than 50% of the offensive snaps. If Kincaid can maintain his high-end pass-catching efficiency and see the field more, he will have clear TE1 upside for fantasy managers in an offense that could be opened up by new deep-threat receiver DJ Moore.",
+      "metadata": {
+        "description": "Buffalo Bills tight end Dalton Kincaid's on-field role with Buffalo has suffered in the last two years with the team because of injuries, but he just wrapped up the healthiest training camp he has had since his rookie year and had a big role in the offense during practices open to the media, according to The Athletic's Joe Buscaglia. Kincaid could become one of the most important pieces on the Bills' roster if he can \"become a 60-65% snap player\" and be just competent enough in blocking when he is on the field. The 26-year-old had 73 catches for 673 yards and two touchdowns on 91 targets as a rookie, but his snap counts fell in each of the last two years while dealing with nagging injuries. The former first-rounder from Utah did have a career-best five touchdowns in 12 games in 2025, but he played fewer than 50% of the offensive snaps. If Kincaid can maintain his high-end pass-catching efficiency and see the field more, he will have clear TE1 upside for fantasy managers in an offense that could be opened up by new deep-threat receiver DJ Moore.",
+        "title": "Dalton Kincaid Looks Set for Bigger Role With Improved Health",
+        "topic_id": "1403074130214957056",
+        "url": "https://www.rotoballer.com/player-news/dalton-kincaid-looks-set-for-bigger-role-with-improved-health/1925904"
+      },
+      "nfl_team": "BUF",
+      "player_id": "10236",
+      "player_name": "Dalton Kincaid",
+      "position": "TE",
+      "published": 1788866645000,
+      "source": "rotoballer",
+      "source_key": "220340",
+      "story_id": "nfl|10236|rotoballer|220340|1788866645000",
+      "title": "Dalton Kincaid Looks Set for Bigger Role With Improved Health",
+      "url": "https://www.rotoballer.com/player-news/dalton-kincaid-looks-set-for-bigger-role-with-improved-health/1925904"
+    },
+    {
+      "analysis": null,
+      "description": "The Athletic's Joe Buscaglia writes that wide receiver DJ Moore could help swing the Bills' 2026 season after he was their \"crown jewel\" of the offseason when they acquired him in a trade from the Chicago Bears. His contributions during training camp were \"immediate and obvious\" for the offense, with quarterback Josh Allen \"routinely pushing the ball downfield\" to Moore. Allen made a \"concerted effort all summer\" to build on-field chemistry with Moore. It is no secret that Buffalo brought Moore in to be their WR1. The days of \"everybody eats\" in the Bills' offense \"seem to be in the rearview mirror,\" and Buscaglia does not think it would be surprising to see Moore on the field \"consistently and for Allen to default to looking his way.\" With that said, Buscaglia also cautions that Moore could be a letdown. After all, he averaged only 824 yards per season the last two years in Chicago and seemed to have a disconnect with QB Caleb Williams. The good news for fantasy managers is that Moore should be guaranteed a high snap and target role in Buffalo, making him a high-floor WR3/flex each week. Ultimately, Moore's success (or lack thereof) could depend on the connection he develops with Allen.",
+      "metadata": {
+        "description": "The Athletic's Joe Buscaglia writes that wide receiver DJ Moore could help swing the Bills' 2026 season after he was their \"crown jewel\" of the offseason when they acquired him in a trade from the Chicago Bears. His contributions during training camp were \"immediate and obvious\" for the offense, with quarterback Josh Allen \"routinely pushing the ball downfield\" to Moore. Allen made a \"concerted effort all summer\" to build on-field chemistry with Moore. It is no secret that Buffalo brought Moore in to be their WR1. The days of \"everybody eats\" in the Bills' offense \"seem to be in the rearview mirror,\" and Buscaglia does not think it would be surprising to see Moore on the field \"consistently and for Allen to default to looking his way.\" With that said, Buscaglia also cautions that Moore could be a letdown. After all, he averaged only 824 yards per season the last two years in Chicago and seemed to have a disconnect with QB Caleb Williams. The good news for fantasy managers is that Moore should be guaranteed a high snap and target role in Buffalo, making him a high-floor WR3/flex each week. Ultimately, Moore's success (or lack thereof) could depend on the connection he develops with Allen.",
+        "title": "DJ Moore Could be on the Field Constantly",
+        "topic_id": "1403071613192118272",
+        "url": "https://www.rotoballer.com/player-news/dj-moore-could-be-on-the-field-constantly/1925896"
+      },
+      "nfl_team": "BUF",
+      "player_id": "4983",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "published": 1788866226000,
+      "source": "rotoballer",
+      "source_key": "220337",
+      "story_id": "nfl|4983|rotoballer|220337|1788866226000",
+      "title": "DJ Moore Could be on the Field Constantly",
+      "url": "https://www.rotoballer.com/player-news/dj-moore-could-be-on-the-field-constantly/1925896"
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings tight end T.J. Hockenson is still sitting on plenty of waiver wires, but that does not make him one of the better Week 1 tight end pickups. He is rostered in only 22% of Yahoo leagues after finishing 2025 with 51 catches for 438 yards and three touchdowns on 66 targets in 15 games. Minnesota's offensive-line problems were part of it. Hockenson had to stay in and chip more often, which cut into his routes. There has been at least one encouraging sign this summer, with Hockenson and new starting quarterback Kyler Murray connecting repeatedly in the red zone during camp. The target tree is still crowded with Justin Jefferson, Jordan Addison and Jauan Jennings, though, and Hockenson has not been a reliable weekly fantasy starter lately. RotoBaller has him at TE22 for Week 1 and lists him as an add in 14-team leagues. That is probably where he belongs. In a standard 10- or 12-team league, there are better streaming bets on the wire.",
+      "metadata": {
+        "description": "Minnesota Vikings tight end T.J. Hockenson is still sitting on plenty of waiver wires, but that does not make him one of the better Week 1 tight end pickups. He is rostered in only 22% of Yahoo leagues after finishing 2025 with 51 catches for 438 yards and three touchdowns on 66 targets in 15 games. Minnesota's offensive-line problems were part of it. Hockenson had to stay in and chip more often, which cut into his routes. There has been at least one encouraging sign this summer, with Hockenson and new starting quarterback Kyler Murray connecting repeatedly in the red zone during camp. The target tree is still crowded with Justin Jefferson, Jordan Addison and Jauan Jennings, though, and Hockenson has not been a reliable weekly fantasy starter lately. RotoBaller has him at TE22 for Week 1 and lists him as an add in 14-team leagues. That is probably where he belongs. In a standard 10- or 12-team league, there are better streaming bets on the wire.",
+        "title": "T.J. Hockenson Only a Deep-League Waiver Add for Week 1",
+        "topic_id": "1403071613200506880",
+        "url": "https://www.rotoballer.com/player-news/t-j-hockenson-only-a-deep-league-waiver-add-for-week-1/1925890"
+      },
+      "nfl_team": "MIN",
+      "player_id": "5844",
+      "player_name": "T.J. Hockenson",
+      "position": "TE",
+      "published": 1788866124000,
+      "source": "rotoballer",
+      "source_key": "220338",
+      "story_id": "nfl|5844|rotoballer|220338|1788866124000",
+      "title": "T.J. Hockenson Only a Deep-League Waiver Add for Week 1",
+      "url": "https://www.rotoballer.com/player-news/t-j-hockenson-only-a-deep-league-waiver-add-for-week-1/1925890"
+    },
     {
       "analysis": null,
       "description": "New York Giants wide receiver Malachi Fields is a rookie out of Notre Dame and might now be the No. 2 wide receiver for the Giants. Matt Legros of Giants Wire of USA Today broke down the latest Fields news, writing, \"Malachi Fields is in line for a much larger role with the New York Giants after the team moved on from veteran wide receiver Darius Slayton on Monday. The rookie now has an opportunity to entrench himself as the No. 2 receiver opposite Malik Nabers.\" The No. 2 receiver in the Giants offense could be a productive role for Fields, who turned heads in camp, according to Legros: \"Fields was particularly impressive during the preseason, showing strong hands and the ability to create plays downfield. He also connected well with quarterback Jaxson Dart, strengthening his case for meaningful snaps once the regular season begins.\" Fields looks like an impact player right out of the gate for the Giants.",

@@ -2,12 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2154**
-- Newly captured: **1**
+- Stored stories: **2159**
+- Newly captured: **5**
 
 ## Latest news
 
-- **NEW — Malachi Fields** — Malachi Fields Emerging As Target for Week 1 (2026-09-08T10:41:58Z)
+- **NEW — Malachi Fields** — Malachi Fields - Looks set to begin season as No. 2 wideout (2026-09-08T15:18:23Z)
+  - The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.
+- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane a High-Upside Stash in Deeper PPR Leagues (2026-09-08T11:25:05Z)
+  - Source: https://www.rotoballer.com/player-news/jakobi-lane-a-high-upside-stash-in-deeper-ppr-leagues/1925907
+- **NEW — Dalton Kincaid** — Dalton Kincaid Looks Set for Bigger Role With Improved Health (2026-09-08T11:24:05Z)
+  - Source: https://www.rotoballer.com/player-news/dalton-kincaid-looks-set-for-bigger-role-with-improved-health/1925904
+- **NEW — DJ Moore** — DJ Moore Could be on the Field Constantly (2026-09-08T11:17:06Z)
+  - Source: https://www.rotoballer.com/player-news/dj-moore-could-be-on-the-field-constantly/1925896
+- **NEW — T.J. Hockenson** — T.J. Hockenson Only a Deep-League Waiver Add for Week 1 (2026-09-08T11:15:24Z)
+  - Source: https://www.rotoballer.com/player-news/t-j-hockenson-only-a-deep-league-waiver-add-for-week-1/1925890
+- **Malachi Fields** — Malachi Fields Emerging As Target for Week 1 (2026-09-08T10:41:58Z)
   - Source: https://www.rotoballer.com/player-news/malachi-fields-emerging-as-target-for-week-1/1925820
 - **Dontayvion Wicks** — Dontayvion Wicks Is a Potential Waiver-Wire Pickup (2026-09-08T10:29:05Z)
   - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-is-a-potential-waiver-wire-pickup/1925808
@@ -218,13 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Though Penix is expected to receive the opportunity to start at some point in 2026, he'll have to wait at least one more week before getting his chance while he continues to work his way back from the torn ACL he sustained last November. Penix didn't play in the preseason and wasn't cleared to take part in 11-on-11 drills until Aug. 22, so he'll need to get some full practices under his belt before the Falcons consider moving him into the starting role over Tagovailoa, who completed 10 of 13 pass attempts for 117 yards in two exhibition contests but fumbled twice and generally struggled to push the ball downfield during the preseason and training camp. The Falcons kept four quarterbacks on their roster following cut-down day, so Cooper Rush and Jack Strand will be available as backup options if Penix isn't ready to serve as Tagovailoa's understudy in the season opener.
 - **Chris Bell** — Chris Bell a "Run-After-Catch Monster" Who Should See His Role Grow (2026-09-07T13:26:10Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-a-run-after-catch-monster-who-should-see-his-role-grow/1925225
-- **Mike Evans** — Mike Evans - Involved in practice Monday (2026-09-07T13:22:12Z)
-  - Wagoner notes that linebacker Nick Bosa (knee) and running back Christian McCaffrey (undisclosed) were the only 49ers players who didn't appear to be mixing into team drills during the open portion of practice, so Evans appears likely to have been at least a limited participant in Monday's session. The 49ers will release their first injury report of the season later Monday, when the extent of Evans' practice participation will be revealed. Evans had his practice activity managed for much of training camp while he contended with a minor quadriceps strain and, more recently, an adductor injury.
-- **Jalen McMillan** — Jalen McMillan on the Practice Field on Monday (2026-09-07T13:10:06Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-mcmillan-on-the-practice-field-on-monday/1925216
-- **Puka Nacua** — "Real Possibility" Puka Nacua Does Not Face Discipline in 2026 (2026-09-07T13:08:09Z)
-  - Source: https://www.rotoballer.com/player-news/real-possibility-puka-nacua-does-not-face-discipline-in-2026/1925213
-- **Emeka Egbuka** — Emeka Egbuka Practicing on Monday (2026-09-07T13:04:06Z)
-  - Source: https://www.rotoballer.com/player-news/emeka-egbuka-practicing-on-monday/1925210
-- **Mike Evans** — Mike Evans' Injuries During Camp Were Not Significant (2026-09-07T12:54:05Z)
-  - Source: https://www.rotoballer.com/player-news/mike-evans-injuries-during-camp-were-not-significant/1925177
