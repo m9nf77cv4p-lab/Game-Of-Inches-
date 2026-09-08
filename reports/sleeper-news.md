@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2213**
+- Stored stories: **2214**
 - Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson - Lead role awaits in season opener (2026-09-08T22:01:39Z)
+  - Stevenson and Henderson are expected to have a fairly equitable split of the backfield when both are fully healthy, but the latter's absence for Week 1 should clear the way for Stevenson to handle a workhorse role. The Patriots have Corey Kiner on hand as a backup option, and at least one of Lan Larison and Hassan Haskins will be promoted from the practice squad for the opener, but none are expected to poach much work from Stevenson on early or passing downs. With a big workload likely awaiting him Wednesday, Stevenson should make for a strong option in Week 1 fantasy lineups, even in a tough matchup against the reigning Super Bowl champions.
 - **AJ Barner** — AJ Barner (oblique) off injury report Wednesday  (2026-09-08T21:30:22.081000Z)
   - Barner practiced all week in full. He'll be a TE2 for fantasy managers going into the season. 
   - Source: https://www.fantasypros.com/nfl/news/606608/aj-barner-oblique-off-injury-report-wednesday.php
@@ -47,7 +49,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The Jets won't release their first injury report of the season until Wednesday, but Hall's activity at Tuesday's session offers hope that he might be listed as a full participant in practice. Though Hall had been sidelined for or limited in practices over the past three weeks while nursing a minor right groin strain, the expectation is that he'll be ready to handle a lead role out of the backfield in Sunday's season opener versus the Titans.
 - **Kenyon Sadiq** — Kenyon Sadiq - Involved in positional drills (2026-09-08T17:37:23Z)
   - The rookie first-round pick missed nearly all of training camp and the preseason after experiencing a setback in his recovery from hernia surgery, but head coach Aaron Glenn had been optimistic over the past week that Sadiq would be ready to go for the start of the regular season. Sadiq's involvement in positional drills suggests that he remains on track to play in Sunday's game at Tennessee, though the extensive time he missed during the summer means that he'll likely have to settle for a small role off the bat. Mason Taylor looks to be the leading candidate to start and lead the tight-end group in snaps Week 1.
-- **NEW — Chuba Hubbard** — Chuba Hubbard Listed as RB1 on Unofficial Depth Chart (2026-09-08T17:32:06Z)
+- **Chuba Hubbard** — Chuba Hubbard Listed as RB1 on Unofficial Depth Chart (2026-09-08T17:32:06Z)
   - Source: https://www.rotoballer.com/player-news/chuba-hubbard-listed-as-rb1-on-unofficial-depth-chart/1926195
 - **Baker Mayfield** — Baker Mayfield, Buccaneers Reach Agreement on Three-Year Extension (2026-09-08T17:24:05Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-buccaneers-reach-agreement-on-three-year-extension/1926190
@@ -222,5 +224,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606408/kayshon-boutte-will-play-week-1.php
 - **Keaton Mitchell** — Keaton Mitchell - Returns to practice Monday (2026-09-07T20:14:19Z)
   - After six straight missed practices, Mitchell's return is a positive step for his Week 1 outlook against the Cardinals. When healthy, Mitchell is expected to serve in a sort-of lightning role to Omarion Hampton's thunder out of the backfield. Mitchell may not be immediately usable in fantasy leagues as a starter, but he's one of the higher-upside bench stashes to see what his role is under new OC Mike McDaniel, who personally campaigned for Mitchell's signing in Los Angeles.
-- **Taylen Green** — Taylen Green - Could be active Week 1 (2026-09-07T20:04:28Z)
-  - It's unclear if Green would be active as the QB2 over Shedeur Sanders, or if Cleveland would make three quarterbacks active, but the idea is out there to get Green some plays after he showed off his elite athleticism with 66 yards on eight carries in the preseason finale. Green is big and athletic and set positional records at the combine back in February when he ran a 4.36 40-yard dash with a 43.5-inch vertical and 11-foot-2 broad jump. There's an outside chance Green sees playing time as a rookie for a Browns team that is likely looking at another rebuild at the quarterback position.

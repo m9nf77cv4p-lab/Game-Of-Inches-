@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-08T21:44:15Z",
+  "last_checked_at": "2026-09-08T22:08:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|7594|rotoballer|220379|1788888726000"
+    "nfl|7611|rotowire|636408|1788904899000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Stevenson and Henderson are expected to have a fairly equitable split of the backfield when both are fully healthy, but the latter's absence for Week 1 should clear the way for Stevenson to handle a workhorse role. The Patriots have Corey Kiner on hand as a backup option, and at least one of Lan Larison and Hassan Haskins will be promoted from the practice squad for the opener, but none are expected to poach much work from Stevenson on early or passing downs. With a big workload likely awaiting him Wednesday, Stevenson should make for a strong option in Week 1 fantasy lineups, even in a tough matchup against the reigning Super Bowl champions.",
+      "description": "Stevenson is expected to see the bulk of the snaps and touches out of the backfield Wednesday against the Seahawks after teammate TreVeyon Henderson (ankle) was ruled out for the season opener, Mike Reiss of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Stevenson and Henderson are expected to have a fairly equitable split of the backfield when both are fully healthy, but the latter's absence for Week 1 should clear the way for Stevenson to handle a workhorse role. The Patriots have Corey Kiner on hand as a backup option, and at least one of Lan Larison and Hassan Haskins will be promoted from the practice squad for the opener, but none are expected to poach much work from Stevenson on early or passing downs. With a big workload likely awaiting him Wednesday, Stevenson should make for a strong option in Week 1 fantasy lineups, even in a tough matchup against the reigning Super Bowl champions.",
+        "description": "Stevenson is expected to see the bulk of the snaps and touches out of the backfield Wednesday against the Seahawks after teammate TreVeyon Henderson (ankle) was ruled out for the season opener, Mike Reiss of ESPN.com reports.",
+        "title": "Rhamondre Stevenson - Lead role awaits in season opener",
+        "topic_id": "1403173415665299456"
+      },
+      "nfl_team": "NE",
+      "player_id": "7611",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "published": 1788904899000,
+      "source": "rotowire",
+      "source_key": "636408",
+      "story_id": "nfl|7611|rotowire|636408|1788904899000",
+      "title": "Rhamondre Stevenson - Lead role awaits in season opener",
+      "url": null
+    },
     {
       "analysis": "Barner practiced all week in full. He'll be a TE2 for fantasy managers going into the season. ",
       "description": "AJ Barner is off the injury report for Wednesday's game against the Patriots. ",
