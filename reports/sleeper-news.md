@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2160**
-- Newly captured: **1**
+- Stored stories: **2162**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Makai Lemon** — Makai Lemon - Listed as starting receiver, punt returner (2026-09-08T15:54:17Z)
+  - Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.
 - **Malachi Fields** — Malachi Fields - Looks set to begin season as No. 2 wideout (2026-09-08T15:18:23Z)
   - The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.
-- **NEW — Sam Darnold** — Sam Darnold Best Left on Waivers in Standard Leagues (2026-09-08T11:36:09Z)
+- **NEW — Isaac TeSlaa** — Isaac TeSlaa Shouldn't Be Ignored in Deeper Leagues (2026-09-08T11:46:50Z)
+  - Source: https://www.rotoballer.com/player-news/isaac-teslaa-shouldnt-be-ignored-in-deeper-leagues/1925935
+- **Sam Darnold** — Sam Darnold Best Left on Waivers in Standard Leagues (2026-09-08T11:36:09Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-best-left-on-waivers-in-standard-leagues/1925922
 - **Ja'Kobi Lane** — Ja'Kobi Lane a High-Upside Stash in Deeper PPR Leagues (2026-09-08T11:25:05Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-lane-a-high-upside-stash-in-deeper-ppr-leagues/1925907
@@ -224,7 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/hard-to-imagine-that-treveyon-henderson-plays-in-week-1/1925298
 - **De'Von Achane** — De'Von Achane Expected to See Another Significant Workload (2026-09-07T13:51:12Z)
   - Source: https://www.rotoballer.com/player-news/devon-achane-expected-to-see-another-significant-workload/1925258
-- **Jonathon Brooks** — Optimism Waning for Jonathon Brooks' Week 1 Availability? (2026-09-07T13:40:08Z)
-  - Source: https://www.rotoballer.com/player-news/optimism-waning-for-jonathon-brooks-week-1-availability/1925244
-- **Michael Penix** — Michael Penix - Won't start in Week 1 (2026-09-07T13:36:21Z)
-  - Though Penix is expected to receive the opportunity to start at some point in 2026, he'll have to wait at least one more week before getting his chance while he continues to work his way back from the torn ACL he sustained last November. Penix didn't play in the preseason and wasn't cleared to take part in 11-on-11 drills until Aug. 22, so he'll need to get some full practices under his belt before the Falcons consider moving him into the starting role over Tagovailoa, who completed 10 of 13 pass attempts for 117 yards in two exhibition contests but fumbled twice and generally struggled to push the ball downfield during the preseason and training camp. The Falcons kept four quarterbacks on their roster following cut-down day, so Cooper Rush and Jack Strand will be available as backup options if Penix isn't ready to serve as Tagovailoa's understudy in the season opener.

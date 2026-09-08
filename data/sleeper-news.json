@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-08T15:50:03Z",
+  "last_checked_at": "2026-09-08T16:00:55Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4943|rotoballer|220342|1788867369000"
+    "nfl|12535|rotoballer|220343|1788868010000",
+    "nfl|13294|rotowire|636387|1788882857000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.",
+      "description": "The Eagles list Lemon as a starting receiver and their top punt returner on their unofficial depth chart released Tuesday, Andrew DiCecco of InsideTheBirds.com reports.",
+      "metadata": {
+        "analysis": "Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.",
+        "description": "The Eagles list Lemon as a starting receiver and their top punt returner on their unofficial depth chart released Tuesday, Andrew DiCecco of InsideTheBirds.com reports.",
+        "title": "Makai Lemon - Listed as starting receiver, punt returner",
+        "topic_id": "1403081682961063936"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13294",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "published": 1788882857000,
+      "source": "rotowire",
+      "source_key": "636387",
+      "story_id": "nfl|13294|rotowire|636387|1788882857000",
+      "title": "Makai Lemon - Listed as starting receiver, punt returner",
+      "url": null
+    },
     {
       "analysis": "The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.",
       "description": "Fields appears on track to open the season as the Giants' No. 2 receiver after the team released Darius Slayton on Monday, Matt Iegros of USA Today reports.",
@@ -32,6 +53,26 @@
       "story_id": "nfl|13285|rotowire|636385|1788880703000",
       "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions wide receiver Isaac TeSlaa has a better path to playing time than his rookie numbers would suggest. He caught only 16 passes for 239 yards last season, but six went for touchdowns, and Detroit enters Week 1 with just four receivers on the active roster. Greg Dortch was released, Kalif Raymond left in free agency, and general manager Brad Holmes said TeSlaa is stepping into the No. 3 job behind Amon-Ra St. Brown and Jameson Williams. The Lions also liked the progress he made as a route runner this summer. That does not make him a Week 1 starter. St. Brown, Williams, Sam LaPorta and Jahmyr Gibbs are still going to command most of the touches, and RotoBaller has TeSlaa at WR71 for the opener against New Orleans. He is rostered in only 6% of Yahoo leagues and is best left for 14-team formats or deeper benches, where the new role is worth taking a shot on before we see what the target share looks like.",
+      "metadata": {
+        "description": "Detroit Lions wide receiver Isaac TeSlaa has a better path to playing time than his rookie numbers would suggest. He caught only 16 passes for 239 yards last season, but six went for touchdowns, and Detroit enters Week 1 with just four receivers on the active roster. Greg Dortch was released, Kalif Raymond left in free agency, and general manager Brad Holmes said TeSlaa is stepping into the No. 3 job behind Amon-Ra St. Brown and Jameson Williams. The Lions also liked the progress he made as a route runner this summer. That does not make him a Week 1 starter. St. Brown, Williams, Sam LaPorta and Jahmyr Gibbs are still going to command most of the touches, and RotoBaller has TeSlaa at WR71 for the opener against New Orleans. He is rostered in only 6% of Yahoo leagues and is best left for 14-team formats or deeper benches, where the new role is worth taking a shot on before we see what the target share looks like.",
+        "title": "Isaac TeSlaa Shouldn't Be Ignored in Deeper Leagues",
+        "topic_id": "1403080422132334592",
+        "url": "https://www.rotoballer.com/player-news/isaac-teslaa-shouldnt-be-ignored-in-deeper-leagues/1925935"
+      },
+      "nfl_team": "DET",
+      "player_id": "12535",
+      "player_name": "Isaac TeSlaa",
+      "position": "WR",
+      "published": 1788868010000,
+      "source": "rotoballer",
+      "source_key": "220343",
+      "story_id": "nfl|12535|rotoballer|220343|1788868010000",
+      "title": "Isaac TeSlaa Shouldn't Be Ignored in Deeper Leagues",
+      "url": "https://www.rotoballer.com/player-news/isaac-teslaa-shouldnt-be-ignored-in-deeper-leagues/1925935"
     },
     {
       "analysis": null,
