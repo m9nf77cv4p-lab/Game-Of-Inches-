@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-08T23:41:49Z",
+  "last_checked_at": "2026-09-08T23:51:44Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|9493|rotowire|636418|1788910326000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -44823,26 +44821,6 @@
       "story_id": "nfl|8205|rotowire|633065|1786371530000",
       "title": "Isiah Pacheco - Out with MCL sprain, should play Week 1",
       "url": null
-    },
-    {
-      "analysis": null,
-      "description": "After an elite 2025 season, Seattle Seahawks kicker Jason Myers enters this season as one of the best at the position. Myers made 41 of 48 field goals (a league-high) and all 48 extra-point attempts, helping the Seahawks win the Super Bowl over the New England Patriots. Myers averaged 11.9 fantasy points per game last season, finishing as the second-best kicker on a per-game basis, behind Texans kicker Ka'imi Fairbairn. While the volume was there, his accuracy could've been better: he made 85.4% of his field goals, which ranked below the league average in 2025. While he may not be able to fully replicate his fantastic season, Myers should be among the top kickers off the board in 2026.",
-      "metadata": {
-        "description": "After an elite 2025 season, Seattle Seahawks kicker Jason Myers enters this season as one of the best at the position. Myers made 41 of 48 field goals (a league-high) and all 48 extra-point attempts, helping the Seahawks win the Super Bowl over the New England Patriots. Myers averaged 11.9 fantasy points per game last season, finishing as the second-best kicker on a per-game basis, behind Texans kicker Ka'imi Fairbairn. While the volume was there, his accuracy could've been better: he made 85.4% of his field goals, which ranked below the league average in 2025. While he may not be able to fully replicate his fantastic season, Myers should be among the top kickers off the board in 2026.",
-        "title": "Jason Myers One of the Best Kicker Options in Fantasy Drafts",
-        "topic_id": "1392388656395739136",
-        "url": "https://www.rotoballer.com/player-news/jason-myers-one-of-the-best-kicker-options-in-fantasy-drafts/1906068"
-      },
-      "nfl_team": "SEA",
-      "player_id": "2747",
-      "player_name": "Jason Myers",
-      "position": "K",
-      "published": 1786319161000,
-      "source": "rotoballer",
-      "source_key": "218275",
-      "story_id": "nfl|2747|rotoballer|218275|1786319161000",
-      "title": "Jason Myers One of the Best Kicker Options in Fantasy Drafts",
-      "url": "https://www.rotoballer.com/player-news/jason-myers-one-of-the-best-kicker-options-in-fantasy-drafts/1906068"
     }
   ]
 }

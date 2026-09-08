@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2231**
-- Newly captured: **1**
+- Stored stories: **2230**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Puka Nacua** — Puka Nacua - Avoids injury report (2026-09-08T23:32:06Z)
+- **Puka Nacua** — Puka Nacua - Avoids injury report (2026-09-08T23:32:06Z)
   - Nacua has been slowed since picking up a psoas injury nearly a month ago, but he will avoid the injury report altogether in advance of Week 1. With Nacua seemingly at full speed, expect him to fill his usual role when the Rams kick off their season against the 49ers in Australia.
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Shakes off shoulder issue (2026-09-08T23:16:04Z)
   - Stribling was slowed by a shoulder injury for a couple weeks, but it apparently is no longer an issue, as he did not draw a mention on the first injury report the 49ers put out in advance of Week 1. Stribling is listed as a reserve receiver behind veterans Mike Evans and Deebo Samuel on San Francisco's unofficial depth chart, so while it appears he will debut against the Rams in Australia it's unclear exactly what role he will fill.
