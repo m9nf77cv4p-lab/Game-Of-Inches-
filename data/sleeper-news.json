@@ -1,11 +1,8 @@
 {
-  "last_checked_at": "2026-09-08T02:53:39Z",
+  "last_checked_at": "2026-09-08T03:05:43Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|4217|rotoballer|220319|1788821286000",
-    "nfl|7571|rotoballer|220318|1788820805000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -39,7 +36,7 @@
       "description": "San Francisco 49ers tight end George Kittle (Achilles) was seen participating in practice on Monday. 49ers offensive coordinator Klay Kubiak says Kittle looks good for the season opener, but his workload is still to be determined, Cam Inman reports. Kittle still needs to get through a few more practices, but is trending towards playing on Thursday versus the Los Angeles Rams. The 32-year-old made an incredibly quick recovery from a torn right Achilles that he suffered during a playoff game in January. When healthy, Kittle is a top-tier tight end, but fantasy managers might need to be patient with him for a game or two.",
       "metadata": {
         "description": "San Francisco 49ers tight end George Kittle (Achilles) was seen participating in practice on Monday. 49ers offensive coordinator Klay Kubiak says Kittle looks good for the season opener, but his workload is still to be determined, Cam Inman reports. Kittle still needs to get through a few more practices, but is trending towards playing on Thursday versus the Los Angeles Rams. The 32-year-old made an incredibly quick recovery from a torn right Achilles that he suffered during a playoff game in January. When healthy, Kittle is a top-tier tight end, but fantasy managers might need to be patient with him for a game or two.",
-        "title": "George Kittle's Workload is Undecided",
+        "title": "George Kittle's Week 1 Workload is Undecided",
         "topic_id": "1402882847668236288",
         "url": "https://www.rotoballer.com/player-news/george-kittles-workload-is-undecided/1925577"
       },
@@ -51,7 +48,7 @@
       "source": "rotoballer",
       "source_key": "220319",
       "story_id": "nfl|4217|rotoballer|220319|1788821286000",
-      "title": "George Kittle's Workload is Undecided",
+      "title": "George Kittle's Week 1 Workload is Undecided",
       "url": "https://www.rotoballer.com/player-news/george-kittles-workload-is-undecided/1925577"
     },
     {

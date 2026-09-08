@@ -3,15 +3,15 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **2141**
-- Newly captured: **2**
+- Newly captured: **0**
 
 ## Latest news
 
 - **Ollie Gordon** — Ollie Gordon - Ditches non-contact jersey (2026-09-07T23:26:10Z)
   - Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Falcons on Sunday, but the team could hold him out. Gordon is set to be the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the team will have no reason to throw him back into the fire when he could rest a week and return to full health.
-- **NEW — George Kittle** — George Kittle's Workload is Undecided (2026-09-07T22:48:06Z)
+- **George Kittle** — George Kittle's Week 1 Workload is Undecided (2026-09-07T22:48:06Z)
   - Source: https://www.rotoballer.com/player-news/george-kittles-workload-is-undecided/1925577
-- **NEW — Rashod Bateman** — Rashod Bateman is Avoidable in Redraft Formats (2026-09-07T22:40:05Z)
+- **Rashod Bateman** — Rashod Bateman is Avoidable in Redraft Formats (2026-09-07T22:40:05Z)
   - Source: https://www.rotoballer.com/player-news/rashod-bateman-is-avoidable-in-redraft-formats/1925569
 - **Chig Okonkwo** — Chig Okonkwo Could be Headed Towards Breakout Campaign (2026-09-07T22:30:09Z)
   - Source: https://www.rotoballer.com/player-news/chig-okonkwo-could-be-headed-towards-breakout-campaign/1925561
