@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2214**
-- Newly captured: **1**
+- Stored stories: **2216**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson - Lead role awaits in season opener (2026-09-08T22:01:39Z)
+- **NEW — Cyrus Allen** — Cyrus Allen - Labeled as reserve on depth chart (2026-09-08T22:05:12Z)
+  - A rookie fifth-round pick out of Cincinnati, Allen generated plenty of positive buzz in training camp and the preseason, but he doesn't appear to have a path to meaningful playing time heading into Week 1 while the Chiefs' receiving corps is at full strength. Rashee Rice and Xavier Worthy are locked in as the clear top two options on the depth chart, but Allen could eventually push Tyquan Thornton for the No. 3 spot. Thornton possesses more speed of the two and found some success as a vertical threat for the Chiefs last season, but Allen offers a more diverse route tree and could be a higher-volume target earner if Rice were to miss time at any point.
+- **Rhamondre Stevenson** — Rhamondre Stevenson - Lead role awaits in season opener (2026-09-08T22:01:39Z)
   - Stevenson and Henderson are expected to have a fairly equitable split of the backfield when both are fully healthy, but the latter's absence for Week 1 should clear the way for Stevenson to handle a workhorse role. The Patriots have Corey Kiner on hand as a backup option, and at least one of Lan Larison and Hassan Haskins will be promoted from the practice squad for the opener, but none are expected to poach much work from Stevenson on early or passing downs. With a big workload likely awaiting him Wednesday, Stevenson should make for a strong option in Week 1 fantasy lineups, even in a tough matchup against the reigning Super Bowl champions.
 - **AJ Barner** — AJ Barner (oblique) off injury report Wednesday  (2026-09-08T21:30:22.081000Z)
   - Barner practiced all week in full. He'll be a TE2 for fantasy managers going into the season. 
@@ -43,6 +45,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606576/jeremiyah-love-listed-rb2-on-cardinals-depth-chart.php
 - **Isaiah Davis** — Isaiah Davis - Partakes in practice Tuesday (2026-09-08T18:54:45Z)
   - Davis' involvement in Tuesday's session bodes well for his chances of being listed as at least a limited participant Wednesday, when the Jets release their first injury report of 2026. The 24-year-old sat out all three of the Jets' preseason games while tending to the knee injury, but if Davis emerges from Week 1 prep without any setbacks, he should be available to serve as the team's No. 3 back behind Breece Hall (groin) and Braelon Allen in Sunday's season opener at Tennessee.
+- **NEW — Tory Horton** — Tory Horton is Questionable for Wednesday's Game (2026-09-08T18:16:05Z)
+  - Source: https://www.rotoballer.com/player-news/tory-horton-is-questionable-for-wednesdays-game/1926204
 - **MarShawn Lloyd** — MarShawn Lloyd - Set to be included in committee (2026-09-08T17:50:05Z)
   - Though he profiles as the most enticing fantasy option of a backfield group that includes Kaleb Johnson and Chris Brooks, Lloyd doesn't look like he'll be called upon to handle a workhorse role out of the backfield amid Jacobs' absence. While Lloyd made it through training camp and the preseason unscathed and showed some dynamism as both a ball carrier and pass catcher, durability was a major concern over his first two NFL seasons; he's thus far been limited to just one career game on account of multiple soft-tissue injuries in addition to an emergency appendectomy. As such, the Packers are unlikely to ask Lloyd to shoulder heavy workloads, especially with Johnson on hand to serve as a between-the-tackles rushing complement and with Brooks available to spell him on passing downs.
 - **Breece Hall** — Breece Hall - Involved in Tuesday's practice (2026-09-08T17:42:58Z)
@@ -219,8 +223,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Keaton Mitchell** — Keaton Mitchell returns to practice Monday  (2026-09-07T20:15:43.840000Z)
   - Mitchell had missed the last six practices. His return on Monday is a good sign for his status heading into Sunday's season opener. 
   - Source: https://www.fantasypros.com/nfl/news/606409/keaton-mitchell-returns-to-practice-monday.php
-- **Kayshon Boutte** — Kayshon Boutte will play in Week 1 (2026-09-07T20:15:43.510000Z)
-  - Boutte was acquired in a trade with the Patriots back on August 24. Ryans said he has been "picking up the playbook really well." He'll be a deep threat on the outside for CJ Stroud. 
-  - Source: https://www.fantasypros.com/nfl/news/606408/kayshon-boutte-will-play-week-1.php
-- **Keaton Mitchell** — Keaton Mitchell - Returns to practice Monday (2026-09-07T20:14:19Z)
-  - After six straight missed practices, Mitchell's return is a positive step for his Week 1 outlook against the Cardinals. When healthy, Mitchell is expected to serve in a sort-of lightning role to Omarion Hampton's thunder out of the backfield. Mitchell may not be immediately usable in fantasy leagues as a starter, but he's one of the higher-upside bench stashes to see what his role is under new OC Mike McDaniel, who personally campaigned for Mitchell's signing in Los Angeles.

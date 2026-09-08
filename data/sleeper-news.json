@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-08T22:08:17Z",
+  "last_checked_at": "2026-09-08T22:23:49Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|7611|rotowire|636408|1788904899000"
+    "nfl|12497|rotoballer|220380|1788891365000",
+    "nfl|13413|rotowire|636409|1788905112000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "A rookie fifth-round pick out of Cincinnati, Allen generated plenty of positive buzz in training camp and the preseason, but he doesn't appear to have a path to meaningful playing time heading into Week 1 while the Chiefs' receiving corps is at full strength. Rashee Rice and Xavier Worthy are locked in as the clear top two options on the depth chart, but Allen could eventually push Tyquan Thornton for the No. 3 spot. Thornton possesses more speed of the two and found some success as a vertical threat for the Chiefs last season, but Allen offers a more diverse route tree and could be a higher-volume target earner if Rice were to miss time at any point.",
+      "description": "Allen is listed as a backup receiver on the Chiefs' unofficial depth chart ahead of Monday's season opener versus the Broncos, Charles Goldsmith of AtoZSports.com reports.",
+      "metadata": {
+        "analysis": "A rookie fifth-round pick out of Cincinnati, Allen generated plenty of positive buzz in training camp and the preseason, but he doesn't appear to have a path to meaningful playing time heading into Week 1 while the Chiefs' receiving corps is at full strength. Rashee Rice and Xavier Worthy are locked in as the clear top two options on the depth chart, but Allen could eventually push Tyquan Thornton for the No. 3 spot. Thornton possesses more speed of the two and found some success as a vertical threat for the Chiefs last season, but Allen offers a more diverse route tree and could be a higher-volume target earner if Rice were to miss time at any point.",
+        "description": "Allen is listed as a backup receiver on the Chiefs' unofficial depth chart ahead of Monday's season opener versus the Broncos, Charles Goldsmith of AtoZSports.com reports.",
+        "title": "Cyrus Allen - Labeled as reserve on depth chart",
+        "topic_id": "1403174674480795648"
+      },
+      "nfl_team": "KC",
+      "player_id": "13413",
+      "player_name": "Cyrus Allen",
+      "position": "WR",
+      "published": 1788905112000,
+      "source": "rotowire",
+      "source_key": "636409",
+      "story_id": "nfl|13413|rotowire|636409|1788905112000",
+      "title": "Cyrus Allen - Labeled as reserve on depth chart",
+      "url": null
+    },
     {
       "analysis": "Stevenson and Henderson are expected to have a fairly equitable split of the backfield when both are fully healthy, but the latter's absence for Week 1 should clear the way for Stevenson to handle a workhorse role. The Patriots have Corey Kiner on hand as a backup option, and at least one of Lan Larison and Hassan Haskins will be promoted from the practice squad for the opener, but none are expected to poach much work from Stevenson on early or passing downs. With a big workload likely awaiting him Wednesday, Stevenson should make for a strong option in Week 1 fantasy lineups, even in a tough matchup against the reigning Super Bowl champions.",
       "description": "Stevenson is expected to see the bulk of the snaps and touches out of the backfield Wednesday against the Seahawks after teammate TreVeyon Henderson (ankle) was ruled out for the season opener, Mike Reiss of ESPN.com reports.",
@@ -318,6 +339,26 @@
       "story_id": "nfl|11571|rotowire|636397|1788893685000",
       "title": "Isaiah Davis - Partakes in practice Tuesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Tory Horton (hamstring) is considered questionable ahead of Wednesday's game against the New England Patriots, according to Curtis Crabtree. Horton has been limited in practice the last few days due to a lingering hamstring issue. Luckily, the injury isn't viewed as a long-term issue, so Horton should be ready to go soon. The 23-year-old is looking to make a bigger impact after a shin fracture and groin issue limited him to eight games last season. If he's inactive, Rashid Shaheed and Cooper Kupp could see larger roles in the passing game behind superstar Jaxon Smith-Njigba.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Tory Horton (hamstring) is considered questionable ahead of Wednesday's game against the New England Patriots, according to Curtis Crabtree. Horton has been limited in practice the last few days due to a lingering hamstring issue. Luckily, the injury isn't viewed as a long-term issue, so Horton should be ready to go soon. The 23-year-old is looking to make a bigger impact after a shin fracture and groin issue limited him to eight games last season. If he's inactive, Rashid Shaheed and Cooper Kupp could see larger roles in the passing game behind superstar Jaxon Smith-Njigba.",
+        "title": "Tory Horton is Questionable for Wednesday's Game",
+        "topic_id": "1403177188097826816",
+        "url": "https://www.rotoballer.com/player-news/tory-horton-is-questionable-for-wednesdays-game/1926204"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12497",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "published": 1788891365000,
+      "source": "rotoballer",
+      "source_key": "220380",
+      "story_id": "nfl|12497|rotoballer|220380|1788891365000",
+      "title": "Tory Horton is Questionable for Wednesday's Game",
+      "url": "https://www.rotoballer.com/player-news/tory-horton-is-questionable-for-wednesdays-game/1926204"
     },
     {
       "analysis": "Though he profiles as the most enticing fantasy option of a backfield group that includes Kaleb Johnson and Chris Brooks, Lloyd doesn't look like he'll be called upon to handle a workhorse role out of the backfield amid Jacobs' absence. While Lloyd made it through training camp and the preseason unscathed and showed some dynamism as both a ball carrier and pass catcher, durability was a major concern over his first two NFL seasons; he's thus far been limited to just one career game on account of multiple soft-tissue injuries in addition to an emergency appendectomy. As such, the Packers are unlikely to ask Lloyd to shoulder heavy workloads, especially with Johnson on hand to serve as a between-the-tackles rushing complement and with Brooks available to spell him on passing downs.",
