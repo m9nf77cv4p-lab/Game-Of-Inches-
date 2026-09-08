@@ -20777,7 +20777,7 @@
       ],
       "first_name": "TreVeyon",
       "full_name": "TreVeyon Henderson",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Henderson",
       "nfl_team": "NE",
       "player_id": "12529",
@@ -23764,8 +23764,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-08T19:44:15Z",
-    "source_fingerprint": "21d6d16db7a481f54e0273b2792db9dc5aad427e6a60eaf9ece4c66b26fd9f34"
+    "last_changed_at": "2026-09-08T21:19:23Z",
+    "source_fingerprint": "31ab2d3d6fb3e1e0d45832f293888c69b88cac09d929e6348ad0fd981169d037"
   },
   "teams": [
     {
