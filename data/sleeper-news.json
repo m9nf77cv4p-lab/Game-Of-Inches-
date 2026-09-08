@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-08T13:36:49Z",
+  "last_checked_at": "2026-09-08T13:52:28Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [
-    "nfl|12048|rotoballer|220329|1788859506000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -43212,26 +43210,6 @@
       "story_id": "nfl|11533|rotoballer|218254|1786287308000",
       "title": "Brandon Aubrey's Deep Range Separates Him From the Kicker Field",
       "url": "https://www.rotoballer.com/player-news/brandon-aubreys-deep-range-separates-him-from-the-kicker-field/1905924"
-    },
-    {
-      "analysis": null,
-      "description": "Jacksonville Jaguars running back Bhayshul Tuten continues to split first-team work with Chris Rodriguez Jr., with Sports Illustrated reporting that the two handled carries at roughly an even rate during Sunday's practice. Both backs had productive moments, which only adds to the uncertainty surrounding a backfield that has yet to produce a clear leader. Tuten scored seven total touchdowns as a rookie, but he finished with 307 rushing yards on 83 carries and caught only 10 passes for 79 yards. Rodriguez brings more proven rushing volume after posting 500 yards and six touchdowns on 112 carries for Washington last season. LeQuint Allen Jr. also remains part of the equation after serving as Jacksonville's primary third-down back as a rookie. Tuten still has a path to a larger second-year role following Travis Etienne Jr.'s departure, but Sunday's split is another reminder that Rodriguez is very much in the mix for early-down work.",
-      "metadata": {
-        "description": "Jacksonville Jaguars running back Bhayshul Tuten continues to split first-team work with Chris Rodriguez Jr., with Sports Illustrated reporting that the two handled carries at roughly an even rate during Sunday's practice. Both backs had productive moments, which only adds to the uncertainty surrounding a backfield that has yet to produce a clear leader. Tuten scored seven total touchdowns as a rookie, but he finished with 307 rushing yards on 83 carries and caught only 10 passes for 79 yards. Rodriguez brings more proven rushing volume after posting 500 yards and six touchdowns on 112 carries for Washington last season. LeQuint Allen Jr. also remains part of the equation after serving as Jacksonville's primary third-down back as a rookie. Tuten still has a path to a larger second-year role following Travis Etienne Jr.'s departure, but Sunday's split is another reminder that Rodriguez is very much in the mix for early-down work.",
-        "title": "Bhayshul Tuten Still Sharing First-Team Work With Rodriguez",
-        "topic_id": "1392238898670739456",
-        "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-still-sharing-first-team-work-with-rodriguez/1905890"
-      },
-      "nfl_team": "JAX",
-      "player_id": "12490",
-      "player_name": "Bhayshul Tuten",
-      "position": "RB",
-      "published": 1786283467000,
-      "source": "rotoballer",
-      "source_key": "218248",
-      "story_id": "nfl|12490|rotoballer|218248|1786283467000",
-      "title": "Bhayshul Tuten Still Sharing First-Team Work With Rodriguez",
-      "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-still-sharing-first-team-work-with-rodriguez/1905890"
     }
   ]
 }

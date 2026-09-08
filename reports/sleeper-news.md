@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2151**
-- Newly captured: **1**
+- Stored stories: **2150**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — George Holani** — George Holani Brings Early-Season Upside (2026-09-08T09:25:06Z)
+- **George Holani** — George Holani Brings Early-Season Upside (2026-09-08T09:25:06Z)
   - Source: https://www.rotoballer.com/player-news/george-holani-brings-early-season-upside/1925733
 - **Adonai Mitchell** — Adonai Mitchell Makes a Solid Stash for Depth (2026-09-08T09:13:32Z)
   - Source: https://www.rotoballer.com/player-news/adonai-mitchell-makes-a-solid-stash-for-depth/1925724
