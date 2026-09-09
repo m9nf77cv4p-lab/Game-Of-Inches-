@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2309**
-- Newly captured: **3**
+- Stored stories: **2311**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -74,11 +74,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
 - **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling Keeps Pushing Toward a Bigger Role (2026-09-09T15:09:09Z)
+- **NEW — Malachi Fields** — Malachi Fields Is Becoming Harder to Keep Off the Field (2026-09-09T15:25:05Z)
+  - Source: https://www.rotoballer.com/player-news/malachi-fields-is-becoming-harder-to-keep-off-the-field/1926996
+- **NEW — Kayshon Boutte** — Kayshon Boutte Has a Real Shot to Break Out in Houston (2026-09-09T15:16:06Z)
+  - Source: https://www.rotoballer.com/player-news/kayshon-boutte-has-a-real-shot-to-break-out-in-houston/1926986
+- **De'Zhaun Stribling** — De'Zhaun Stribling Keeps Pushing Toward a Bigger Role (2026-09-09T15:09:09Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-keeps-pushing-toward-a-bigger-role/1926977
-- **NEW — Malik Nabers** — Malik Nabers Doing Individual Drills, Looking Good for Week 1 (2026-09-09T15:03:52Z)
+- **Malik Nabers** — Malik Nabers Doing Individual Drills, Looking Good for Week 1 (2026-09-09T15:03:52Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-doing-individual-drills-looking-good-for-week-1/1926973
-- **NEW — Parker Washington** — Parker Washington to Return Punts This Year (2026-09-09T14:59:08Z)
+- **Parker Washington** — Parker Washington to Return Punts This Year (2026-09-09T14:59:08Z)
   - Source: https://www.rotoballer.com/player-news/parker-washington-to-return-punts-this-year/1926969
 - **J.J. McCarthy** — J.J. McCarthy Demoted to Third-String Role (2026-09-09T14:51:15Z)
   - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-demoted-to-third-string-role/1926967
@@ -222,7 +226,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/mike-evans-not-listed-on-49ers-week-1-injury-report/1926307
 - **Tyler Allgeier** — Tyler Allgeier - No. 1 back on unofficial depth chart (2026-09-08T20:08:23Z)
   - Head coach Mike LaFleur expressed optimism Tuesday that Jeremiyah Love would be ready to play Sunday after suffering a high-ankle sprain in the Cardinals' preseason opener, but the No. 3 overall pick in April's draft isn't expected to handle a workhorse role right away coming off the injury. While Love should emerge as the clear No. 1 option once he's further removed from the injury, Allgeier appears well-positioned to have a meaningful role in the Week 1 game plan, regardless of whether he ends up starting or not.
-- **Jeremiyah Love** — Jeremiyah Love - Listed second on unofficial depth chart (2026-09-08T19:51:20Z)
-  - The No. 3 overall pick in the April's draft, Love will eventually settle in as the unquestioned No. 1 option on the depth chart, but the Cardinals could look to ease him into NFL action while he works his way back from the high-ankle sprain he sustained Aug. 13 in the preseason opener against the Raiders. Head coach Mike LaFleur said Monday that he's optimistic Love will be available Sunday, though even if he manages to practice without limitations by the end of the week, the 21-year-old seems likely to share the load with Allgeier. Love should handle a larger portion of the snaps and touches out of the backfield once his ankle injury fades further in the rear-view mirror.
-- **Keon Coleman** — Keon Coleman - Designated as starter on depth chart (2026-09-08T19:47:13Z)
-  - While DJ Moore and Khalil Shakir are secure as Buffalo's top two wideouts in some order, Coleman could be prioritized ahead of Joshua Palmer for the No. 3 spot when the season gets underway. After averaging 9.8 yards per target as a rookie in 2024, Coleman dropped all the way down to 6.8 per game during his sophomore season and also drew the ire of the coaching staff for his lack of professionalism, which played a part in him being a healthy inactive on four occasions. Coleman appears to have received a clean slate entering 2026, and after a strong showing during minicamp, he continued to make a positive impression in training camp before spraining his right foot in an Aug. 18 preseason game against the Panthers. The injury doesn't appear to be a long-term concern, and if he can return to full practice at some point this week, Coleman looks like he could handle a notable role in the passing game in the season opener.

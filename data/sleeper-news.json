@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-09T19:24:24Z",
+  "last_checked_at": "2026-09-09T19:36:34Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|11632|rotoballer|220451|1788966232000",
-    "nfl|13417|rotoballer|220453|1788966549000",
-    "nfl|9487|rotoballer|220452|1788965948000"
+    "nfl|13285|rotoballer|220456|1788967505000",
+    "nfl|9504|rotoballer|220454|1788966966000"
   ],
   "schema_version": 1,
   "source": {
@@ -567,6 +566,46 @@
       "story_id": "nfl|12514|rotowire|636460|1788970341000",
       "title": "Emeka Egbuka - Looks to be practicing fully Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants wide receiver Malachi Fields was already making a push before Darius Slayton was released, and that move only makes the rookie more interesting. Fields impressed throughout the summer and caught all three of his preseason targets for 34 yards and a touchdown, while also getting work with the first-team offense. Slayton had fallen behind by the end of camp, so his departure shouldn't be treated as the only reason Fields has a chance here. It does leave New York with just four receivers on the active roster. Malik Nabers and Darnell Mooney are still listed as the starters, with Fields behind Nabers on the current depth chart, but the third-round pick is getting increasingly difficult to leave out of the offensive plans. He still has to show he can earn regular-season targets before becoming a weekly fantasy option. The opportunity is opening quickly, though, and Fields looks much closer to a meaningful role than he did when camp began.",
+      "metadata": {
+        "description": "New York Giants wide receiver Malachi Fields was already making a push before Darius Slayton was released, and that move only makes the rookie more interesting. Fields impressed throughout the summer and caught all three of his preseason targets for 34 yards and a touchdown, while also getting work with the first-team offense. Slayton had fallen behind by the end of camp, so his departure shouldn't be treated as the only reason Fields has a chance here. It does leave New York with just four receivers on the active roster. Malik Nabers and Darnell Mooney are still listed as the starters, with Fields behind Nabers on the current depth chart, but the third-round pick is getting increasingly difficult to leave out of the offensive plans. He still has to show he can earn regular-season targets before becoming a weekly fantasy option. The opportunity is opening quickly, though, and Fields looks much closer to a meaningful role than he did when camp began.",
+        "title": "Malachi Fields Is Becoming Harder to Keep Off the Field",
+        "topic_id": "1403498155814707200",
+        "url": "https://www.rotoballer.com/player-news/malachi-fields-is-becoming-harder-to-keep-off-the-field/1926996"
+      },
+      "nfl_team": "NYG",
+      "player_id": "13285",
+      "player_name": "Malachi Fields",
+      "position": "WR",
+      "published": 1788967505000,
+      "source": "rotoballer",
+      "source_key": "220456",
+      "story_id": "nfl|13285|rotoballer|220456|1788967505000",
+      "title": "Malachi Fields Is Becoming Harder to Keep Off the Field",
+      "url": "https://www.rotoballer.com/player-news/malachi-fields-is-becoming-harder-to-keep-off-the-field/1926996"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Kayshon Boutte landed in a much better fantasy spot when Houston traded for him late in August, and the early signs point to a real role. The Texans plan to use him immediately, with Boutte expected to replace injured Jayden Higgins as the No. 2 receiver opposite Nico Collins. That's a big jump from where things were headed in New England. Boutte caught 33 passes for 551 yards and six touchdowns last season, averaging 16.7 yards per reception, but the volume was never really there. It could be now. Tank Dell is also opening the season on injured reserve, and DeMeco Ryans has praised how quickly Boutte has picked up the offense. Boutte has been putting in extra work with C.J. Stroud, too. He still needs to prove he can turn this opportunity into steady targets instead of living on big plays, but the path is there. If this role holds, Boutte's fantasy value could climb fast.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Kayshon Boutte landed in a much better fantasy spot when Houston traded for him late in August, and the early signs point to a real role. The Texans plan to use him immediately, with Boutte expected to replace injured Jayden Higgins as the No. 2 receiver opposite Nico Collins. That's a big jump from where things were headed in New England. Boutte caught 33 passes for 551 yards and six touchdowns last season, averaging 16.7 yards per reception, but the volume was never really there. It could be now. Tank Dell is also opening the season on injured reserve, and DeMeco Ryans has praised how quickly Boutte has picked up the offense. Boutte has been putting in extra work with C.J. Stroud, too. He still needs to prove he can turn this opportunity into steady targets instead of living on big plays, but the path is there. If this role holds, Boutte's fantasy value could climb fast.",
+        "title": "Kayshon Boutte Has a Real Shot to Break Out in Houston",
+        "topic_id": "1403495639492407296",
+        "url": "https://www.rotoballer.com/player-news/kayshon-boutte-has-a-real-shot-to-break-out-in-houston/1926986"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9504",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "published": 1788966966000,
+      "source": "rotoballer",
+      "source_key": "220454",
+      "story_id": "nfl|9504|rotoballer|220454|1788966966000",
+      "title": "Kayshon Boutte Has a Real Shot to Break Out in Houston",
+      "url": "https://www.rotoballer.com/player-news/kayshon-boutte-has-a-real-shot-to-break-out-in-houston/1926986"
     },
     {
       "analysis": null,
