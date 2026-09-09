@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-09T22:39:26Z",
+  "last_checked_at": "2026-09-09T22:50:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|11618|fantasy_pros|606810|1788993048147",
-    "nfl|12514|fantasy_pros|606811|1788993048134",
-    "nfl|7564|fantasy_pros|606813|1788993048110"
+    "nfl|12527|rotoballer|220469|1788978545000",
+    "nfl|4217|rotowire|636539|1788993464000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Coach Kyle Shanahan has already indicated Kittle will play in Thursday night's season opener against the Rams in Australia, but the team is monitoring his practice reps. The veteran tight end is coming off a torn Achilles and is expected to see his snaps dialed back some against Los Angeles, though he should remain a staple in the red zone. Kittle is probably more of a TE2 than locked-in TE1 for fantasy in Week 1.",
+      "description": "Kittle (Achilles) remained limited in Wednesday's practice, Nick Wagoner of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Coach Kyle Shanahan has already indicated Kittle will play in Thursday night's season opener against the Rams in Australia, but the team is monitoring his practice reps. The veteran tight end is coming off a torn Achilles and is expected to see his snaps dialed back some against Los Angeles, though he should remain a staple in the red zone. Kittle is probably more of a TE2 than locked-in TE1 for fantasy in Week 1.",
+        "description": "Kittle (Achilles) remained limited in Wednesday's practice, Nick Wagoner of ESPN.com reports.",
+        "title": "George Kittle - Remains limited Wednesday",
+        "topic_id": "1403544719669157888"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788993464000,
+      "source": "rotowire",
+      "source_key": "636539",
+      "story_id": "nfl|4217|rotowire|636539|1788993464000",
+      "title": "George Kittle - Remains limited Wednesday",
+      "url": null
+    },
     {
       "analysis": "McMillan's knee injury is still not fully healed, so he remained a limited participant at practice on Wednesday as a result. If he is sidelined for Week 1, Ted Hurst III will be primed for more work in his absence.",
       "description": "Jalen McMillan (knee) was officially a limited participant at practice on Wednesday.",
@@ -1648,6 +1667,26 @@
       "story_id": "nfl|3321|rotowire|636472|1788978810000",
       "title": "Tyreek Hill - Delaying comeback",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) was listed as a full participant in the team's first official practice report of the year, according to Anthony Galaviz of The Fresno Bee. Jeanty suffered an ankle injury on Aug. 23 in training camp and was up in the air to suit up for the Week 1 regular-season opener against the Miami Dolphins. However, his return to a full practice on Wednesday should ensure that he will be active to kick off the 2026 season this weekend against Miami, so fantasy managers should leave him in their starting lineups everywhere. The Boise State product could be a little more boom/bust for fantasy managers if his snaps are limited coming off his ankle injury, especially since the Raiders have been talking up rookie Mike Washington Jr. as a backfield complement after his impressive training camp. At worst, though, Jeanty should be considered an RB2 this weekend against the Dolphins after he had over 1,000 scrimmage yards and 10 total touchdowns as a rookie for a bad Raiders offense in 2025.",
+      "metadata": {
+        "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) was listed as a full participant in the team's first official practice report of the year, according to Anthony Galaviz of The Fresno Bee. Jeanty suffered an ankle injury on Aug. 23 in training camp and was up in the air to suit up for the Week 1 regular-season opener against the Miami Dolphins. However, his return to a full practice on Wednesday should ensure that he will be active to kick off the 2026 season this weekend against Miami, so fantasy managers should leave him in their starting lineups everywhere. The Boise State product could be a little more boom/bust for fantasy managers if his snaps are limited coming off his ankle injury, especially since the Raiders have been talking up rookie Mike Washington Jr. as a backfield complement after his impressive training camp. At worst, though, Jeanty should be considered an RB2 this weekend against the Dolphins after he had over 1,000 scrimmage yards and 10 total touchdowns as a rookie for a bad Raiders offense in 2025.",
+        "title": "Ashton Jeanty Practices in Full on Wednesday",
+        "topic_id": "1403544716460519424",
+        "url": "https://www.rotoballer.com/player-news/ashton-jeanty-practices-in-full-on-wednesday/1927139"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788978545000,
+      "source": "rotoballer",
+      "source_key": "220469",
+      "story_id": "nfl|12527|rotoballer|220469|1788978545000",
+      "title": "Ashton Jeanty Practices in Full on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/ashton-jeanty-practices-in-full-on-wednesday/1927139"
     },
     {
       "analysis": "As expected, Nabers was taking part in New York's first official practice of the week on Wednesday. He is trending towards playing in Week 1, but fantasy managers should keep a close eye on any official updates about his status ahead of the season opener on Sunday night.",

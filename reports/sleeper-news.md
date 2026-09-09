@@ -2,18 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2395**
-- Newly captured: **3**
+- Stored stories: **2397**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Jalen McMillan** — Jalen McMillan (knee) officially limited Wednesday (2026-09-09T22:30:48.147000Z)
+- **NEW — George Kittle** — George Kittle - Remains limited Wednesday (2026-09-09T22:37:44Z)
+  - Coach Kyle Shanahan has already indicated Kittle will play in Thursday night's season opener against the Rams in Australia, but the team is monitoring his practice reps. The veteran tight end is coming off a torn Achilles and is expected to see his snaps dialed back some against Los Angeles, though he should remain a staple in the red zone. Kittle is probably more of a TE2 than locked-in TE1 for fantasy in Week 1.
+- **Jalen McMillan** — Jalen McMillan (knee) officially limited Wednesday (2026-09-09T22:30:48.147000Z)
   - McMillan's knee injury is still not fully healed, so he remained a limited participant at practice on Wednesday as a result. If he is sidelined for Week 1, Ted Hurst III will be primed for more work in his absence.
   - Source: https://www.fantasypros.com/nfl/news/606810/jalen-mcmillan-knee-officially-limited-wednesday.php
-- **NEW — Emeka Egbuka** — Emeka Egbuka (toe) logs full practice Wednesday (2026-09-09T22:30:48.134000Z)
+- **Emeka Egbuka** — Emeka Egbuka (toe) logs full practice Wednesday (2026-09-09T22:30:48.134000Z)
   - The young stud wideout was able to log a full practice session on Wednesday, which means that his toe injury is likely fully healed at this point. He should play in Week 1 and is expected to be a good fantasy option in a great matchup against the Cincinnati Bengals.
   - Source: https://www.fantasypros.com/nfl/news/606811/emeka-egbuka-toe-logs-full-practice-wednesday.php
-- **NEW — Ja'Marr Chase** — Ja'Marr Chase (knee) practices in full Wednesday (2026-09-09T22:30:48.110000Z)
+- **Ja'Marr Chase** — Ja'Marr Chase (knee) practices in full Wednesday (2026-09-09T22:30:48.110000Z)
   - Chase was able to log a full practice session on Wednesday and is considered close to full health, if not already fully healthy heading into Week 1. He should be a full go against the Buccaneers and projects to be an elite fantasy option in the season opener and beyond.
   - Source: https://www.fantasypros.com/nfl/news/606813/jamarr-chase-knee-practices-full-wednesday.php
 - **Tucker Kraft** — Tucker Kraft (knee) off injury report for Week 1 (2026-09-09T22:10:47.878000Z)
@@ -201,6 +203,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After being sidelined recently by an undisclosed injury, Shakir's presence on the field is an encouraging sign for the wide receiver's availability for Sunday's season opener against the Texans. He's expected to face added competition for targets from trade pickup DJ Moore and a healthy Dalton Kincaid this season.
 - **Tyreek Hill** — Tyreek Hill - Delaying comeback (2026-09-09T18:33:30Z)
   - Hill is not yet 100 percent healthy after dislocating his knee and tearing multiple ligaments last season with the Dolphins. There's been no indication that the 32-year-old has drawn any interest on the open market, as teams are likely waiting for Hill to gain full medical clearance.
+- **NEW — Ashton Jeanty** — Ashton Jeanty Practices in Full on Wednesday (2026-09-09T18:29:05Z)
+  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-practices-in-full-on-wednesday/1927139
 - **Malik Nabers** — Malik Nabers (knee) seen practicing Wednesday (2026-09-09T18:10:36.094000Z)
   - As expected, Nabers was taking part in New York's first official practice of the week on Wednesday. He is trending towards playing in Week 1, but fantasy managers should keep a close eye on any official updates about his status ahead of the season opener on Sunday night.
   - Source: https://www.fantasypros.com/nfl/news/606735/malik-nabers-knee-seen-practicing-wednesday.php
@@ -245,8 +249,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Caleb Douglas** — Caleb Douglas set to start in Week 1 (2026-09-09T16:50:35.803000Z)
   - The Dolphins selected Douglas in the third round of this year's draft, but he had an impressive offseason for them and is set to be a starter for the team in their season opener. That's a great sign for his season outlook, as it means he will have ample opportunities to prove himself and break out from the very start of the season.
   - Source: https://www.fantasypros.com/nfl/news/606730/caleb-douglas-set-to-start-week-1.php
-- **Juwan Johnson** — Juwan Johnson Primed for Early-Season Target Volume in New Orleans (2026-09-09T16:47:17Z)
-  - Source: https://www.rotoballer.com/player-news/juwan-johnson-primed-for-early-season-target-volume-in-new-orleans/1927083
-- **Jakobi Meyers** — Jakobi Meyers (hand) seen in non-contact jersey Wednesday (2026-09-09T16:40:35.485000Z)
-  - It appears that Meyers is not over his hand injury yet, as it left him in a red non-contact jersey at the team's first practice of the week on Wednesday. If this issue leaves him sidelined for Week 1, fantasy managers should expect Parker Washington to be a great fantasy option against the Cleveland Browns.
-  - Source: https://www.fantasypros.com/nfl/news/606723/jakobi-meyers-hand-seen-non-contact-jersey-wednesday.php
