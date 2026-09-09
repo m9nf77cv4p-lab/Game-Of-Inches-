@@ -1,12 +1,9 @@
 {
-  "last_checked_at": "2026-09-09T23:29:32Z",
+  "last_checked_at": "2026-09-09T23:42:38Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|11597|fantasy_pros|606825|1788996048556",
-    "nfl|8126|fantasy_pros|606824|1788996048570",
-    "nfl|9500|fantasy_pros|606823|1788996048584",
-    "nfl|9511|fantasy_pros|606822|1788996048599"
+    "nfl|8259|rotowire|636564|1788996742000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Dicker was working through an undisclosed issue toward the tail end of training camp, but his absence from the Chargers' first injury report of the week indicates that he's fully healthy for Sunday's regular-season opener against the Cardinals. Dicker was a top-5 kicker in fantasy last season, connecting on 38 of 41 field-goal attempts (including 12-for-13 on attempts from 50-plus yards) while making 34 of 35 extra-point tries across 17 regular-season games. His scoring output could increase this season if the Chargers' offense levels up under new offensive coordinator Mike McDaniel.",
+      "description": "Dicker (undisclosed) was not listed on Wednesday's injury report.",
+      "metadata": {
+        "analysis": "Dicker was working through an undisclosed issue toward the tail end of training camp, but his absence from the Chargers' first injury report of the week indicates that he's fully healthy for Sunday's regular-season opener against the Cardinals. Dicker was a top-5 kicker in fantasy last season, connecting on 38 of 41 field-goal attempts (including 12-for-13 on attempts from 50-plus yards) while making 34 of 35 extra-point tries across 17 regular-season games. His scoring output could increase this season if the Chargers' offense levels up under new offensive coordinator Mike McDaniel.",
+        "description": "Dicker (undisclosed) was not listed on Wednesday's injury report.",
+        "title": "Cameron Dicker - Fades Wednesday's injury report",
+        "topic_id": "1403558562017316864"
+      },
+      "nfl_team": "LAC",
+      "player_id": "8259",
+      "player_name": "Cameron Dicker",
+      "position": "K",
+      "published": 1788996742000,
+      "source": "rotowire",
+      "source_key": "636564",
+      "story_id": "nfl|8259|rotowire|636564|1788996742000",
+      "title": "Cameron Dicker - Fades Wednesday's injury report",
+      "url": null
+    },
     {
       "analysis": "Mitchell was sidelined for a while as he dealt with a hamstring injury, but he was able to practice in a limited fashion on Wednesday. He will have a chance to play in Week 1, but even if he's active, he's not expected to play more than a depth role for the Chargers in their matchup against the Cardinals.",
       "description": "Keaton Mitchell (hamstring) was a limited participant at practice on Wednesday.",
