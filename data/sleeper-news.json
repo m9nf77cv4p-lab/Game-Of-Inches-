@@ -1,13 +1,9 @@
 {
-  "last_checked_at": "2026-09-09T18:44:17Z",
+  "last_checked_at": "2026-09-09T18:55:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|12527|rotoballer|220447|1788964210000",
-    "nfl|3321|rotowire|636472|1788978810000",
-    "nfl|6801|rotoballer|220445|1788963731000",
-    "nfl|7564|rotoballer|220446|1788963200000",
-    "nfl|8134|rotowire|636473|1788978912000"
+    "nfl|11565|rotowire|636475|1788979551000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "After losing out in the battle with newcomer Kyler Murray for the starting job prior to the preseason opener, McCarthy will plummet all the way to third on the depth chart heading into Week 1, with Carson Wentz settling in as Murray's top backup. O'Connell said that he considers the No. 2 quarterback \"a week-to-week thing,\" so McCarthy could leapfrog Wentz on the depth chart in future games depending on how he performs during practice. In any case, the fact that the 23-year-old McCarthy has to battle for the No. 2 job less than three years after being selected with the No. 10 overall pick in the 2024 NFL Draft is an indiction Minnesota doesn't view him as its long-term solution under center.",
+      "description": "Head coach Kevin O'Connell announced Wednesday that McCarthy will serve as the Vikings' third-string quarterback for Sunday's season opener versus the Packers.",
+      "metadata": {
+        "analysis": "After losing out in the battle with newcomer Kyler Murray for the starting job prior to the preseason opener, McCarthy will plummet all the way to third on the depth chart heading into Week 1, with Carson Wentz settling in as Murray's top backup. O'Connell said that he considers the No. 2 quarterback \"a week-to-week thing,\" so McCarthy could leapfrog Wentz on the depth chart in future games depending on how he performs during practice. In any case, the fact that the 23-year-old McCarthy has to battle for the No. 2 job less than three years after being selected with the No. 10 overall pick in the 2024 NFL Draft is an indiction Minnesota doesn't view him as its long-term solution under center.",
+        "description": "Head coach Kevin O'Connell announced Wednesday that McCarthy will serve as the Vikings' third-string quarterback for Sunday's season opener versus the Packers.",
+        "title": "J.J. McCarthy - Opens season third on depth chart",
+        "topic_id": "1403486788898623488"
+      },
+      "nfl_team": "MIN",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1788979551000,
+      "source": "rotowire",
+      "source_key": "636475",
+      "story_id": "nfl|11565|rotowire|636475|1788979551000",
+      "title": "J.J. McCarthy - Opens season third on depth chart",
+      "url": null
+    },
     {
       "analysis": "After being sidelined recently by an undisclosed injury, Shakir's presence on the field is an encouraging sign for the wide receiver's availability for Sunday's season opener against the Texans. He's expected to face added competition for targets from trade pickup DJ Moore and a healthy Dalton Kincaid this season.",
       "description": "Shakir (undisclosed) is on the practice field Wednesday, Joe Buscaglia of The Athletic reports.",

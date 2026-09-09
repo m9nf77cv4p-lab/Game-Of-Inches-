@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2302**
-- Newly captured: **5**
+- Stored stories: **2303**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Khalil Shakir** — Khalil Shakir - Practicing Wednesday (2026-09-09T18:35:12Z)
+- **NEW — J.J. McCarthy** — J.J. McCarthy - Opens season third on depth chart (2026-09-09T18:45:51Z)
+  - After losing out in the battle with newcomer Kyler Murray for the starting job prior to the preseason opener, McCarthy will plummet all the way to third on the depth chart heading into Week 1, with Carson Wentz settling in as Murray's top backup. O'Connell said that he considers the No. 2 quarterback "a week-to-week thing," so McCarthy could leapfrog Wentz on the depth chart in future games depending on how he performs during practice. In any case, the fact that the 23-year-old McCarthy has to battle for the No. 2 job less than three years after being selected with the No. 10 overall pick in the 2024 NFL Draft is an indiction Minnesota doesn't view him as its long-term solution under center.
+- **Khalil Shakir** — Khalil Shakir - Practicing Wednesday (2026-09-09T18:35:12Z)
   - After being sidelined recently by an undisclosed injury, Shakir's presence on the field is an encouraging sign for the wide receiver's availability for Sunday's season opener against the Texans. He's expected to face added competition for targets from trade pickup DJ Moore and a healthy Dalton Kincaid this season.
-- **NEW — Tyreek Hill** — Tyreek Hill - Delaying comeback (2026-09-09T18:33:30Z)
+- **Tyreek Hill** — Tyreek Hill - Delaying comeback (2026-09-09T18:33:30Z)
   - Hill is not yet 100 percent healthy after dislocating his knee and tearing multiple ligaments last season with the Dolphins. There's been no indication that the 32-year-old has drawn any interest on the open market, as teams are likely waiting for Hill to gain full medical clearance.
 - **Malik Nabers** — Malik Nabers (knee) seen practicing Wednesday (2026-09-09T18:10:36.094000Z)
   - As expected, Nabers was taking part in New York's first official practice of the week on Wednesday. He is trending towards playing in Week 1, but fantasy managers should keep a close eye on any official updates about his status ahead of the season opener on Sunday night.
@@ -69,11 +71,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
 - **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
-- **NEW — Ashton Jeanty** — Ashton Jeanty Will Practice on Wednesday (2026-09-09T14:30:10Z)
+- **Ashton Jeanty** — Ashton Jeanty Will Practice on Wednesday (2026-09-09T14:30:10Z)
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-will-practice-on-wednesday/1926960
-- **NEW — Tee Higgins** — Tee Higgins on Track to Play in Week 1 (2026-09-09T14:22:11Z)
+- **Tee Higgins** — Tee Higgins on Track to Play in Week 1 (2026-09-09T14:22:11Z)
   - Source: https://www.rotoballer.com/player-news/tee-higgins-on-track-to-play-in-week-1/1926953
-- **NEW — Ja'Marr Chase** — Bengals Feel Good About Ja'Marr Chase Playing in Week 1 (2026-09-09T14:13:20Z)
+- **Ja'Marr Chase** — Bengals Feel Good About Ja'Marr Chase Playing in Week 1 (2026-09-09T14:13:20Z)
   - Source: https://www.rotoballer.com/player-news/bengals-feel-good-about-jamarr-chase-playing-in-week-1/1926946
 - **Kaleb Johnson** — Kaleb Johnson Could Play a Role in Week 1 Against Vikings (2026-09-09T13:58:23Z)
   - Source: https://www.rotoballer.com/player-news/kaleb-johnson-could-play-a-role-in-week-1-against-vikings/1926919
@@ -225,5 +227,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Davis' involvement in Tuesday's session bodes well for his chances of being listed as at least a limited participant Wednesday, when the Jets release their first injury report of 2026. The 24-year-old sat out all three of the Jets' preseason games while tending to the knee injury, but if Davis emerges from Week 1 prep without any setbacks, he should be available to serve as the team's No. 3 back behind Breece Hall (groin) and Braelon Allen in Sunday's season opener at Tennessee.
 - **Terrance Ferguson** — Terrance Ferguson is Not Listed on Injury Report (2026-09-08T18:48:11Z)
   - Source: https://www.rotoballer.com/player-news/terrance-ferguson-is-not-listed-on-injury-report/1926240
-- **Jordyn Tyson** — Jordyn Tyson is a Late-Round Stash Option (2026-09-08T18:40:09Z)
-  - Source: https://www.rotoballer.com/player-news/jordyn-tyson-is-a-late-round-stash-option/1926229
