@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2258**
+- Stored stories: **2259**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Rashid Shaheed** — Rashid Shaheed Could Emerge as Key Part of Offense After Very Positive Camp (2026-09-09T10:32:06Z)
+- **NEW — AJ Barner** — AJ Barner Could Have a Larger Role After Strong Camp (2026-09-09T10:47:06Z)
+  - Source: https://www.rotoballer.com/player-news/aj-barner-could-have-a-larger-role-after-strong-camp/1926692
+- **NEW — Chris Rodriguez** — Chris Rodriguez Jr. Emerging as Key Part of Backfield Despite Buzz Around Teammate (2026-09-09T10:39:05Z)
+  - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-emerging-as-key-part-of-backfield-despite-buzz-around-teammate/1926678
+- **Rashid Shaheed** — Rashid Shaheed Could Emerge as Key Part of Offense After Very Positive Camp (2026-09-09T10:32:06Z)
   - Source: https://www.rotoballer.com/player-news/rashid-shaheed-could-emerge-as-key-part-of-offense-after-very-positive-camp/1926672
-- **NEW — MarShawn Lloyd** — Marshawn Lloyd Ready to Lead the Packers Backfield (2026-09-09T10:25:05Z)
+- **MarShawn Lloyd** — Marshawn Lloyd Ready to Lead the Packers Backfield (2026-09-09T10:25:05Z)
   - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-ready-to-lead-the-packers-backfield/1926667
 - **Tre Tucker** — Tre Tucker's Has Clear Path to Fantasy Relevance in 2026 (2026-09-09T10:02:06Z)
   - Source: https://www.rotoballer.com/player-news/tre-tuckers-has-clear-path-to-fantasy-relevance-in-2026/1926644
@@ -215,7 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jaylen-warren-listed-as-starter-on-steelers-depth-chart/1925976
 - **Chris Rodriguez** — Bhayshul Tuten, Chris Rodriguez Jr. Listed as Co-Starters at RB (2026-09-08T12:42:10Z)
   - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-chris-rodriguez-jr-listed-as-co-starters-at-rb/1925971
-- **Breece Hall** — Breece Hall Trending Towards Being Active in Week 1 (2026-09-08T12:32:07Z)
-  - Source: https://www.rotoballer.com/player-news/breece-hall-trending-towards-being-active-in-week-1/1925966
-- **Makai Lemon** — Makai Lemon Listed as Starting WR, Punt Returner (2026-09-08T12:08:06Z)
-  - Source: https://www.rotoballer.com/player-news/makai-lemon-listed-as-starting-wr-punt-returner/1925950

@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-09T14:41:03Z",
+  "last_checked_at": "2026-09-09T14:54:57Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|11581|rotoballer|220420|1788949505000",
-    "nfl|8676|rotoballer|220421|1788949926000"
+    "nfl|10219|rotoballer|220422|1788950345000",
+    "nfl|11603|rotoballer|220423|1788950826000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks tight end AJ Barner put together a strong camp, and he could be headed for a larger role during the 2026 season. Barner has impressed with 10 touchdowns over his two NFL seasons, and he finished last year as the overall TE14 in PPR leagues. He was able to maintain his fantasy relevance despite facing competition from Elijah Arroyo, who had second-round draft capital last year. This season, we expect Barner to get a similar amount of playing time, and that could actually lead to more volume. Now that he has established himself on offense for two years in a row, he should see his target share increase. Additionally, he should benefit from playing for new offensive coordinator Brian Fleury. Fleury was the tight ends coach in San Francisco, so he brings a strong background in the position to his new job with the Seahawks. In fact, it has already been reported by ESPN's Jeremy Fowler that Fleury plans to use a lot of two-tight-end sets in Seattle. That bodes well for Barner, who has a very strong chance to emerge as a top-12 fantasy tight end in Year 3.",
+      "metadata": {
+        "description": "Seattle Seahawks tight end AJ Barner put together a strong camp, and he could be headed for a larger role during the 2026 season. Barner has impressed with 10 touchdowns over his two NFL seasons, and he finished last year as the overall TE14 in PPR leagues. He was able to maintain his fantasy relevance despite facing competition from Elijah Arroyo, who had second-round draft capital last year. This season, we expect Barner to get a similar amount of playing time, and that could actually lead to more volume. Now that he has established himself on offense for two years in a row, he should see his target share increase. Additionally, he should benefit from playing for new offensive coordinator Brian Fleury. Fleury was the tight ends coach in San Francisco, so he brings a strong background in the position to his new job with the Seahawks. In fact, it has already been reported by ESPN's Jeremy Fowler that Fleury plans to use a lot of two-tight-end sets in Seattle. That bodes well for Barner, who has a very strong chance to emerge as a top-12 fantasy tight end in Year 3.",
+        "title": "AJ Barner Could Have a Larger Role After Strong Camp",
+        "topic_id": "1403426353620992000",
+        "url": "https://www.rotoballer.com/player-news/aj-barner-could-have-a-larger-role-after-strong-camp/1926692"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11603",
+      "player_name": "AJ Barner",
+      "position": "TE",
+      "published": 1788950826000,
+      "source": "rotoballer",
+      "source_key": "220423",
+      "story_id": "nfl|11603|rotoballer|220423|1788950826000",
+      "title": "AJ Barner Could Have a Larger Role After Strong Camp",
+      "url": "https://www.rotoballer.com/player-news/aj-barner-could-have-a-larger-role-after-strong-camp/1926692"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. has emerged as a last-minute riser in fantasy football ahead of the start of the 2026 NFL season. The narrative for several months has been that Bhayshul Tuten would lead the Jags' backfield, and while that still might be the case, it's worth noting that the team's official depth chart lists Tuten and Rodriguez as sharing the No. 1 role. Perhaps we shouldn't be that surprised. After all, Tuten was the backup to Travis Etienne Jr. last year, so he hasn't handled a workhorse role yet. Additionally, there was plenty of buzz during the offseason that head coach Liam Coen expected big things from Rodriguez, whom he coached in college. The exact fantasy outlook for both of these backs remains a bit murky until we've seen how the backfield shakes out through the first game or two. For now, we'd view Tuten as a fringe RB2/RB3 and Rodriguez as a fringe RB3/RB4. That's still enough to get Rodriguez on the fantasy radar in 10+ team leagues, and he's a potential Week 1 flex for managers in 14+ team leagues, especially against a Browns defense that is trending down.",
+      "metadata": {
+        "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. has emerged as a last-minute riser in fantasy football ahead of the start of the 2026 NFL season. The narrative for several months has been that Bhayshul Tuten would lead the Jags' backfield, and while that still might be the case, it's worth noting that the team's official depth chart lists Tuten and Rodriguez as sharing the No. 1 role. Perhaps we shouldn't be that surprised. After all, Tuten was the backup to Travis Etienne Jr. last year, so he hasn't handled a workhorse role yet. Additionally, there was plenty of buzz during the offseason that head coach Liam Coen expected big things from Rodriguez, whom he coached in college. The exact fantasy outlook for both of these backs remains a bit murky until we've seen how the backfield shakes out through the first game or two. For now, we'd view Tuten as a fringe RB2/RB3 and Rodriguez as a fringe RB3/RB4. That's still enough to get Rodriguez on the fantasy radar in 10+ team leagues, and he's a potential Week 1 flex for managers in 14+ team leagues, especially against a Browns defense that is trending down.",
+        "title": "Chris Rodriguez Jr. Emerging as Key Part of Backfield Despite Buzz Around Teammate",
+        "topic_id": "1403425094969106432",
+        "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-emerging-as-key-part-of-backfield-despite-buzz-around-teammate/1926678"
+      },
+      "nfl_team": "JAX",
+      "player_id": "10219",
+      "player_name": "Chris Rodriguez",
+      "position": "RB",
+      "published": 1788950345000,
+      "source": "rotoballer",
+      "source_key": "220422",
+      "story_id": "nfl|10219|rotoballer|220422|1788950345000",
+      "title": "Chris Rodriguez Jr. Emerging as Key Part of Backfield Despite Buzz Around Teammate",
+      "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-emerging-as-key-part-of-backfield-despite-buzz-around-teammate/1926678"
+    },
     {
       "analysis": null,
       "description": "Seattle Seahawks wide receiver Rashid Shaheed could play a pivotal role on offense this season. Shaheed had a very positive camp, earning praise from coaches, teammates, and media. It was a great step in the right direction for the 28-year-old, who was due to make a leap after posting relatively modest numbers following his trade from New Orleans to Seattle last season. Shaheed finished last year as the WR39 in PPR leagues, catching 59 passes for 687 yards and two touchdowns. Those are fine numbers, but the latest buzz from Seattle indicates that Shaheed should take another step forward after his first full offseason with the Seahawks. In fact, it's not crazy to say that he could open the year as the team's No. 2 receiver, ahead of Cooper Kupp. While Kupp is getting older and declining in productivity, Shaheed is trending up, and he represents a flashy playmaking option for quarterback Sam Darnold. A top-36 finish is well within reason for the Seahawks, who will likely lean on the passing game with Kenneth Walker gone and Zach Charbonnet (knee) on the PUP list. Shaheed ranks as a WR4/WR5 for now, but in a perfect world, he has high-end WR3 upside.",
@@ -45365,26 +45405,6 @@
       "story_id": "nfl|8205|fantasy_pros|601585|1786374342524",
       "title": "Isiah Pacheco dealing with sprained MCL, should be good to go Week 1",
       "url": "https://www.fantasypros.com/nfl/news/601585/isiah-pacheco-dealing-with-sprained-mcl-should-be-good-to-go-week-1.php"
-    },
-    {
-      "analysis": null,
-      "description": "Seattle Seahawks wide receiver Cooper Kupp was still on the field plenty last season, but the opportunities weren't there often enough for fantasy managers. He played more than 72% of Seattle's offensive snaps across 16 games and finished with 47 catches for 593 yards and two touchdowns on 70 targets. Jaxon Smith-Njigba had taken over the passing game by then, piling up 119 catches and an NFL-high 1,793 yards. Kupp remains a starter on Seattle's current depth chart and has shown he can still make plays in camp, including a pair of touchdowns during recent red-zone work. The 33-year-old isn't disappearing from the offense. The issue is whether that role produces enough targets to trust him every week. Last season suggests it probably won't. RotoBaller has Kupp at WR76 in its August 10 half-PPR rankings. He can still give fantasy managers a useful week here and there, but at this point he makes more sense as bench depth than someone to draft expecting a regular starting role.",
-      "metadata": {
-        "description": "Seattle Seahawks wide receiver Cooper Kupp was still on the field plenty last season, but the opportunities weren't there often enough for fantasy managers. He played more than 72% of Seattle's offensive snaps across 16 games and finished with 47 catches for 593 yards and two touchdowns on 70 targets. Jaxon Smith-Njigba had taken over the passing game by then, piling up 119 catches and an NFL-high 1,793 yards. Kupp remains a starter on Seattle's current depth chart and has shown he can still make plays in camp, including a pair of touchdowns during recent red-zone work. The 33-year-old isn't disappearing from the offense. The issue is whether that role produces enough targets to trust him every week. Last season suggests it probably won't. RotoBaller has Kupp at WR76 in its August 10 half-PPR rankings. He can still give fantasy managers a useful week here and there, but at this point he makes more sense as bench depth than someone to draft expecting a regular starting role.",
-        "title": "Cooper Kupp No Longer Offers Reliable Weekly Volume",
-        "topic_id": "1392616441785630720",
-        "url": "https://www.rotoballer.com/player-news/cooper-kupp-no-longer-offers-reliable-weekly-volume/1906385"
-      },
-      "nfl_team": "SEA",
-      "player_id": "4039",
-      "player_name": "Cooper Kupp",
-      "position": "WR",
-      "published": 1786373345000,
-      "source": "rotoballer",
-      "source_key": "218296",
-      "story_id": "nfl|4039|rotoballer|218296|1786373345000",
-      "title": "Cooper Kupp No Longer Offers Reliable Weekly Volume",
-      "url": "https://www.rotoballer.com/player-news/cooper-kupp-no-longer-offers-reliable-weekly-volume/1906385"
     }
   ]
 }
