@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2252**
+- Stored stories: **2253**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Tyler Allgeier** — Tyler Allgeier Set for a Lead Role in Week 1 (2026-09-09T09:12:06Z)
+- **NEW — Kaelon Black** — Kaelon Black a Top Handcuff Option in 2026 (2026-09-09T09:24:05Z)
+  - Source: https://www.rotoballer.com/player-news/kaelon-black-a-top-handcuff-option-in-2026/1926571
+- **Tyler Allgeier** — Tyler Allgeier Set for a Lead Role in Week 1 (2026-09-09T09:12:06Z)
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-set-for-a-lead-role-in-week-1/1926555
 - **George Kittle** — George Kittle - Could see limited Week 1 role (2026-09-09T02:49:22Z)
   - "We got to be smart with that," Shanahan said. With Kittle having been listed as a limited participant Tuesday after returning from the active/PUP list a little over two weeks ago, Shanahan's comments suggest San Francisco is preparing to manage the tight end's Week 1 snaps. Kittle figures to be featured on third downs and in the scoring area if his playing time is limited, and Jake Tonges could see elevated snaps as the Niners' TE2.
@@ -217,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/dalton-kincaid-looks-set-for-bigger-role-with-improved-health/1925904
 - **DJ Moore** — DJ Moore Could be on the Field Constantly (2026-09-08T11:17:06Z)
   - Source: https://www.rotoballer.com/player-news/dj-moore-could-be-on-the-field-constantly/1925896
-- **T.J. Hockenson** — T.J. Hockenson Only a Deep-League Waiver Add for Week 1 (2026-09-08T11:15:24Z)
-  - Source: https://www.rotoballer.com/player-news/t-j-hockenson-only-a-deep-league-waiver-add-for-week-1/1925890

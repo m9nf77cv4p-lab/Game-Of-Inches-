@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-09T13:23:09Z",
+  "last_checked_at": "2026-09-09T13:39:37Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|8132|rotoballer|220414|1788945126000"
+    "nfl|13414|rotoballer|220415|1788945845000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers rookie running back Kaelon Black enters 2026 as the clear handcuff to star running back Christian McCaffrey. Black missed time throughout training camp with an adductor injury but played well in the final preseason game and reportedly earned the backup role in San Francisco. The third-round pick was the team's second-highest-ranked running back in the draft process and has earned praise throughout the organization, earning the label \"fast and explosive.\" McCaffrey has missed time throughout training camp, and the team is expected to manage the 30-year-old's workload in practice. Black is a strong handcuff at the running back position and carries immense upside if McCaffrey misses time.",
+      "metadata": {
+        "description": "San Francisco 49ers rookie running back Kaelon Black enters 2026 as the clear handcuff to star running back Christian McCaffrey. Black missed time throughout training camp with an adductor injury but played well in the final preseason game and reportedly earned the backup role in San Francisco. The third-round pick was the team's second-highest-ranked running back in the draft process and has earned praise throughout the organization, earning the label \"fast and explosive.\" McCaffrey has missed time throughout training camp, and the team is expected to manage the 30-year-old's workload in practice. Black is a strong handcuff at the running back position and carries immense upside if McCaffrey misses time.",
+        "title": "Kaelon Black a Top Handcuff Option in 2026",
+        "topic_id": "1403406219141484544",
+        "url": "https://www.rotoballer.com/player-news/kaelon-black-a-top-handcuff-option-in-2026/1926571"
+      },
+      "nfl_team": "SF",
+      "player_id": "13414",
+      "player_name": "Kaelon Black",
+      "position": "RB",
+      "published": 1788945845000,
+      "source": "rotoballer",
+      "source_key": "220415",
+      "story_id": "nfl|13414|rotoballer|220415|1788945845000",
+      "title": "Kaelon Black a Top Handcuff Option in 2026",
+      "url": "https://www.rotoballer.com/player-news/kaelon-black-a-top-handcuff-option-in-2026/1926571"
+    },
     {
       "analysis": null,
       "description": "Arizona Cardinals running back Tyler Allgeier is projected to be the backfield's leader in Week 1's matchup against the Los Angeles Chargers. With the Atlanta Falcons in 2025, Allgeier totaled 610 scrimmage yards and eight touchdowns on 157 attempts in 17 games. He signed a two-year deal with the Cardinals during the offseason, but the team spent the third-overall pick on rookie Jeremiyah Love. Both are expected to form a one-two punch in the backfield, but Love's ankle injury makes his Week 1 status unclear. The Cardinals listed Allgeier as the starting back with Love as the backup on their depth chart. The Chargers were the sixth-best defense against running backs last season, and a negative game script is expected against the Cardinals, making Allgeier and Love risky Week 1 starts.",
