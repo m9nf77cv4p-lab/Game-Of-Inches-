@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-09T13:53:42Z",
+  "last_checked_at": "2026-09-09T14:06:39Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|13311|rotoballer|220417|1788946911000",
-    "nfl|7611|rotoballer|220416|1788946312000"
+    "nfl|10213|rotoballer|220419|1788948126000",
+    "nfl|13286|rotoballer|220418|1788947530000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders wide receiver Tre Tucker had a strong training camp and is expected to be the team's top wide receiver in 2026. In 2025, Tucker hauled in 57 of 92 targets for 696 yards and five touchdowns, while adding 51 rushing yards on 11 carries. With Jakobi Meyers gone and the team not making any significant additions, Tucker is in a good spot in head coach Klint Kubiak's offense. Tucker was a favorite of Kirk Cousins' during the preseason, catching five passes for over 50 yards in just three drives together. While he is not a clear startable option in Week 1, his current role in Las Vegas is enticing, and fantasy managers should take note of his workload against Miami.",
+      "metadata": {
+        "description": "Las Vegas Raiders wide receiver Tre Tucker had a strong training camp and is expected to be the team's top wide receiver in 2026. In 2025, Tucker hauled in 57 of 92 targets for 696 yards and five touchdowns, while adding 51 rushing yards on 11 carries. With Jakobi Meyers gone and the team not making any significant additions, Tucker is in a good spot in head coach Klint Kubiak's offense. Tucker was a favorite of Kirk Cousins' during the preseason, catching five passes for over 50 yards in just three drives together. While he is not a clear startable option in Week 1, his current role in Las Vegas is enticing, and fantasy managers should take note of his workload against Miami.",
+        "title": "Tre Tucker's Has Clear Path to Fantasy Relevance in 2026",
+        "topic_id": "1403415027930705920",
+        "url": "https://www.rotoballer.com/player-news/tre-tuckers-has-clear-path-to-fantasy-relevance-in-2026/1926644"
+      },
+      "nfl_team": "LV",
+      "player_id": "10213",
+      "player_name": "Tre Tucker",
+      "position": "WR",
+      "published": 1788948126000,
+      "source": "rotoballer",
+      "source_key": "220419",
+      "story_id": "nfl|10213|rotoballer|220419|1788948126000",
+      "title": "Tre Tucker's Has Clear Path to Fantasy Relevance in 2026",
+      "url": "https://www.rotoballer.com/player-news/tre-tuckers-has-clear-path-to-fantasy-relevance-in-2026/1926644"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks rookie running back Jadarian Price is likely to carry a significant workload in Week 1 against the New England Patriots. According to multiple reports, the first-round pick has had a fantastic training camp and is expected to be a main beneficiary of Zach Charbonnet's absence. Price was listed as the RB2 on Seattle's depth chart, behind George Holani, but reports have indicated that Price will be the lead back in Week 1. He also faces the Patriots' stout run defense, which allowed the third-fewest fantasy points to running backs last season. Price's workload will be a main talking point during Wednesday night's game, as he is a high-risk, high-reward option in 2026.",
+      "metadata": {
+        "description": "Seattle Seahawks rookie running back Jadarian Price is likely to carry a significant workload in Week 1 against the New England Patriots. According to multiple reports, the first-round pick has had a fantastic training camp and is expected to be a main beneficiary of Zach Charbonnet's absence. Price was listed as the RB2 on Seattle's depth chart, behind George Holani, but reports have indicated that Price will be the lead back in Week 1. He also faces the Patriots' stout run defense, which allowed the third-fewest fantasy points to running backs last season. Price's workload will be a main talking point during Wednesday night's game, as he is a high-risk, high-reward option in 2026.",
+        "title": "Jadarian Price Carries Immense Upside in 2026",
+        "topic_id": "1403412510983368704",
+        "url": "https://www.rotoballer.com/player-news/jadarian-price-carries-immense-upside-in-2026/1926635"
+      },
+      "nfl_team": "SEA",
+      "player_id": "13286",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "published": 1788947530000,
+      "source": "rotoballer",
+      "source_key": "220418",
+      "story_id": "nfl|13286|rotoballer|220418|1788947530000",
+      "title": "Jadarian Price Carries Immense Upside in 2026",
+      "url": "https://www.rotoballer.com/player-news/jadarian-price-carries-immense-upside-in-2026/1926635"
+    },
     {
       "analysis": null,
       "description": "Miami Dolphins rookie wide receiver Chris Bell is a high-upside option to target late in drafts and on the waiver wire this season. In his senior season at Louisville, Bell had 72 receptions for 917 yards and six touchdowns in 11 games. Bell was drafted in the third round and would've gone much higher if not for a torn ACL in the 2025 season. The rookie receiver has recovered at a tremendous pace and played in the team's final preseason game, a positive sign for his Week 1 outlook. He was listed as a starter on the team's Week 1 depth chart alongside Malik Washington and fellow third-round rookie Caleb Douglas. While he shouldn't be a starting player in fantasy this week, he offers immense upside, as the climb to the top of the depth chart is not too crowded.",

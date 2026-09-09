@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2255**
+- Stored stories: **2257**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Chris Bell** — Chris Bell Has a Clear Path to Major Role in Miami (2026-09-09T09:41:51Z)
+- **NEW — Tre Tucker** — Tre Tucker's Has Clear Path to Fantasy Relevance in 2026 (2026-09-09T10:02:06Z)
+  - Source: https://www.rotoballer.com/player-news/tre-tuckers-has-clear-path-to-fantasy-relevance-in-2026/1926644
+- **NEW — Jadarian Price** — Jadarian Price Carries Immense Upside in 2026 (2026-09-09T09:52:10Z)
+  - Source: https://www.rotoballer.com/player-news/jadarian-price-carries-immense-upside-in-2026/1926635
+- **Chris Bell** — Chris Bell Has a Clear Path to Major Role in Miami (2026-09-09T09:41:51Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-has-a-clear-path-to-major-role-in-miami/1926617
-- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Expected to be Workhorse in Week 1 (2026-09-09T09:31:52Z)
+- **Rhamondre Stevenson** — Rhamondre Stevenson Expected to be Workhorse in Week 1 (2026-09-09T09:31:52Z)
   - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-expected-to-be-workhorse-in-week-1/1926603
 - **Kaelon Black** — Kaelon Black a Top Handcuff Option in 2026 (2026-09-09T09:24:05Z)
   - Source: https://www.rotoballer.com/player-news/kaelon-black-a-top-handcuff-option-in-2026/1926571
@@ -215,7 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tyler-shough-belongs-in-the-week-1-streaming-conversation/1925940
 - **Isaac TeSlaa** — Isaac TeSlaa Shouldn't Be Ignored in Deeper Leagues (2026-09-08T11:46:50Z)
   - Source: https://www.rotoballer.com/player-news/isaac-teslaa-shouldnt-be-ignored-in-deeper-leagues/1925935
-- **Sam Darnold** — Sam Darnold Best Left on Waivers in Standard Leagues (2026-09-08T11:36:09Z)
-  - Source: https://www.rotoballer.com/player-news/sam-darnold-best-left-on-waivers-in-standard-leagues/1925922
-- **Ja'Kobi Lane** — Ja'Kobi Lane a High-Upside Stash in Deeper PPR Leagues (2026-09-08T11:25:05Z)
-  - Source: https://www.rotoballer.com/player-news/jakobi-lane-a-high-upside-stash-in-deeper-ppr-leagues/1925907
