@@ -2,18 +2,41 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2350**
-- Newly captured: **4**
+- Stored stories: **2362**
+- Newly captured: **12**
 
 ## Latest news
 
-- **NEW — Alec Pierce** — Alec Pierce - Logs limited practice Wednesday (2026-09-09T20:48:22Z)
+- **NEW — Zay Flowers** — Zay Flowers - Limited in practice Wednesday (2026-09-09T21:02:18Z)
+  - This is the first specification on Flowers' recent lower-body issue as the team listed his injury as a hamstring. He missed multiple sessions last week and was working off to the side in Wednesday's practice. Flowers still has two more days to ramp up to a full practice. The Ravens' receiver depth behind Flowers is also being tested going into the season as Devontez Walker was listed as limited with a groin issue. Flowers' status will be one to monitor as Sunday approaches.
+- **NEW — Jalen McMillan** — Jalen McMillan - Officially limited Wednesday (2026-09-09T21:00:47Z)
+  - Despite McMillan looking like his normal self in the portion of Wednesday's session open to the media, per Greg Auman of Fox Sports, the third-year wide receiver experienced restrictions on his workload. McMillan thus remains in recovery mode from the knee injury he suffered during an Aug. 4 practice, but he'll still have two more chances to get back to full participation before the weekend and Sunday's road matchup with the Bengals.
+- **NEW — Tee Higgins** — Tee Higgins - Full-go Wednesday (2026-09-09T20:56:51Z)
+  - The Bengals look to have their dynamic receiver tandem in position to play in the opener as Higgins and Ja'Marr Chase (knee) both practiced in full to begin the week. Higgins was slowed by a heel contusion earlier in September but is tracking towards being ready to begin the season. The Bengals will host the Buccaneers to kick off 2026.
+- **NEW — Jakobi Meyers** — Jakobi Meyers (thumb) officially limited Wednesday (2026-09-09T20:55:47.504000Z)
+  - Meyers was officially a limited participant at Wednesday's practice, but he told reporters that he is going to play in Week 1, so it looks like he will be a full go barring any setbacks with his recovery. Look for Brian Thomas Jr. to see less work with the veteran in the lineup.
+  - Source: https://www.fantasypros.com/nfl/news/606764/jakobi-meyers-thumb-officially-limited-wednesday.php
+- **NEW — Brian Thomas** — Brian Thomas Jr. (shoulder) without injury designation for Sunday (2026-09-09T20:55:47.488000Z)
+  - The young wideout's shoulder injury is no longer an issue and he carries no injury designation ahead of Sunday's game against the Browns. He won't be limited at all, but it remains to be seen how big of a role he will play in Jacksonville's offense in 2026.
+  - Source: https://www.fantasypros.com/nfl/news/606767/brian-thomas-jr-shoulder-without-injury-designation-sunday.php
+- **NEW — Alec Pierce** — Alec Pierce (heel) limited at practice Wednesday (2026-09-09T20:55:47.469000Z)
+  - Pierce took part in Wednesday's practice as a limited participant. He is still recovering from an injury that left him sidelined for most of the offseason, but it was previously reported that he is expected to play in Week 1. Fantasy managers should keep close tabs on updates about his health throughout the week to see whether or not he will be a full go for the season opener.
+  - Source: https://www.fantasypros.com/nfl/news/606770/alec-pierce-heel-limited-practice-wednesday.php
+- **NEW — Theo Johnson** — Theo Johnson - Full practice Wednesday (2026-09-09T20:54:24Z)
+  - Johnson is coming off a 2025 regular season in which he posted a 45-528-5 line on 74 targets in 15 games, but the arrival of TE Isaiah Likely via free agency has provided the former with some competition at the position ahead of his third pro campaign. With the shoulder injury he picked up in an Aug. 24 practice behind Johnson, he'll focus on being a regular part of the Giants offense in Sunday's Week 1 matchup with the Cowboys.
+- **NEW — Alvin Kamara** — Alvin Kamara - Returns to practice Wednesday (2026-09-09T20:54:19Z)
+  - With Kamara back on the field after being sidelined by a sprained MCL for most of the summer, he has a chance to play Sunday against the Lions. Travis Etienne is expected to operate as the Saints' lead back this season, but the veteran Kamara still figures to have a prominent role on offense. If Kamara is unable to face Detroit, Etienne gets a big boost to his fantasy floor, making him a borderline RB1 in a potential shootout.
+- **NEW — Ja'Marr Chase** — Ja'Marr Chase - Full participant Wednesday (2026-09-09T20:52:15Z)
+  - It's looking promising for Chase's status going into the season-opener after his full practice Wednesday. He had a knee injury scare in August but has been present for practices since the beginning of the week. At this stage, Chase should be good to go for the season-opener against the Buccaneers.
+- **NEW — Emeka Egbuka** — Emeka Egbuka - Practices fully Wednesday (2026-09-09T20:51:08Z)
+  - Egbuka is ready to go for Sunday's Week 1 opener against the Bengals, and in a game with the highest total on the slate, Egbuka is looking like a fantasy WR2 with obvious upside. He's expected to take over as the Bucs' top wideout this season after Mike Evans left for San Francisco in free agency.
+- **Alec Pierce** — Alec Pierce - Logs limited practice Wednesday (2026-09-09T20:48:22Z)
   - Pierce was limited to begin the week and will have two more opportunities ramp up going into the season-opener against the Ravens. Pierce's lengthy recovery from an ankle procedure slowed him throughout the offseason, though he was able to get back on the practice field earlier in September. Coach Shane Steichen even noted Monday that Pierce should be "good to go" for the opener.
-- **NEW — Tyrone Tracy** — Tyrone Tracy - No listing on Week 1 injury report (2026-09-09T20:47:22Z)
+- **Tyrone Tracy** — Tyrone Tracy - No listing on Week 1 injury report (2026-09-09T20:47:22Z)
   - Tracy sustained an apparent neck injury during New York's exhibition finale, but after landing a spot on the team's initial active roster and nearly two weeks to recover, he's in good health ahead of a Week 1 matchup with the Cowboys. With Cam Skattebo leading the Giants backfield and Najee Harris and Devin Singletary also on hand for reps, it remains to be seen what kind of workload Tracy can expect in the regular-season opener.
-- **NEW — Jonathon Brooks** — Jonathon Brooks - Declares himself 100 percent (2026-09-09T20:46:51Z)
+- **Jonathon Brooks** — Jonathon Brooks - Declares himself 100 percent (2026-09-09T20:46:51Z)
   - Brooks was officially limited in practice Wednesday, but all indications are he did everything in the session and looked ready to go for the start of the season. Brooks will push Chuba Hubbard for carries in the Carolina backfield, but Hubbard is expected to open the campaign as the starter and lead back while Brooks sees plenty of work as the 1B option. It may be best to take a wait-and-see approach with him in fantasy.
-- **NEW — Tyler Warren** — Tyler Warren - Off injury report (2026-09-09T20:41:28Z)
+- **Tyler Warren** — Tyler Warren - Off injury report (2026-09-09T20:41:28Z)
   - Indianapolis' star tight end looks good to go for the opener after not even being listed on the practice report to start the week. Warren was dealing with a minor groin issue late in camp but the expectation has been that he would be ready to begin the season. The Colts host the Ravens to kick off the season Sunday.
 - **Chris Rodriguez** — Chris Rodriguez Jr. (foot) off injury report for Week 1 (2026-09-09T20:40:48.500000Z)
   - Rodriguez is set to be a full go in Week 1 after battling with a foot injury throughout the preseason. He is likely to play a substantial role in Jacksonville's backfield this season, although the exact distribution of work will remain obscure until after the first game or two, which makes him hard to trust as a fantasy option in the season opener.
@@ -136,9 +159,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Chris Bell** — Chris Bell (knee) will start Sunday, set to have no snap count (2026-09-09T17:00:35.833000Z)
   - The rookie fell in the NFL Draft this year due to a major knee injury that he was rehabbing, but it looks like he is 100% healthy heading into the team's season opener, as they confirmed that he will start and will not have a snap count in Week 1. He will start alongside fellow rookie Caleb Douglas, and it looks likely that one or both of them will become fantasy relevant this year with how thin Miami's WR depth chart is heading into Week 1.
   - Source: https://www.fantasypros.com/nfl/news/606731/chris-bell-knee-will-start-sunday-set-to-have-no-snap-count.php
+- **NEW — Adonai Mitchell** — Adonai Mitchell Carries Breakout Potential into 2026 (2026-09-09T16:59:05Z)
+  - Source: https://www.rotoballer.com/player-news/adonai-mitchell-carries-breakout-potential-into-2026/1927097
 - **Caleb Douglas** — Caleb Douglas set to start in Week 1 (2026-09-09T16:50:35.803000Z)
   - The Dolphins selected Douglas in the third round of this year's draft, but he had an impressive offseason for them and is set to be a starter for the team in their season opener. That's a great sign for his season outlook, as it means he will have ample opportunities to prove himself and break out from the very start of the season.
   - Source: https://www.fantasypros.com/nfl/news/606730/caleb-douglas-set-to-start-week-1.php
+- **NEW — Juwan Johnson** — Juwan Johnson Primed for Early-Season Target Volume in New Orleans (2026-09-09T16:47:17Z)
+  - Source: https://www.rotoballer.com/player-news/juwan-johnson-primed-for-early-season-target-volume-in-new-orleans/1927083
 - **Jakobi Meyers** — Jakobi Meyers (hand) seen in non-contact jersey Wednesday (2026-09-09T16:40:35.485000Z)
   - It appears that Meyers is not over his hand injury yet, as it left him in a red non-contact jersey at the team's first practice of the week on Wednesday. If this issue leaves him sidelined for Week 1, fantasy managers should expect Parker Washington to be a great fantasy option against the Cleveland Browns.
   - Source: https://www.fantasypros.com/nfl/news/606723/jakobi-meyers-hand-seen-non-contact-jersey-wednesday.php
@@ -211,27 +238,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-joins-broncos-starting-receiver-trio/1926797
 - **Luther Burden** — Luther Burden III Appears Healthy Ahead of Week 1 (2026-09-09T12:13:06Z)
   - Source: https://www.rotoballer.com/player-news/luther-burden-iii-praised-by-coaches-throughout-camp-appears-healthy-ahead-of-week-1/1926792
-- **Tank Bigsby** — Tank Bigsby Belongs Among Fantasy's Elite Handcuffs (2026-09-09T12:05:05Z)
-  - Source: https://www.rotoballer.com/player-news/tank-bigsby-belongs-among-fantasys-elite-handcuffs/1926778
-- **Parker Washington** — Parker Washington's Breakout May Be Just Getting Started (2026-09-09T11:55:05Z)
-  - Source: https://www.rotoballer.com/player-news/parker-washingtons-breakout-may-be-just-getting-started/1926762
-- **Matthew Golden** — Matthew Golden Steps Into Bigger Role in Year 2 (2026-09-09T11:34:58Z)
-  - Source: https://www.rotoballer.com/player-news/matthew-golden-steps-into-bigger-role-in-year-2/1926734
-- **Jonah Coleman** — Jonah Coleman Could be a Late-Season League-Winner (2026-09-09T11:09:05Z)
-  - Source: https://www.rotoballer.com/player-news/jonah-coleman-earns-praise-of-coaches-could-be-a-late-season-league-winner/1926704
-- **AJ Barner** — AJ Barner Could Have a Larger Role After Strong Camp (2026-09-09T10:47:06Z)
-  - Source: https://www.rotoballer.com/player-news/aj-barner-could-have-a-larger-role-after-strong-camp/1926692
-- **Chris Rodriguez** — Chris Rodriguez Jr. Emerging as Key Part of Backfield (2026-09-09T10:39:05Z)
-  - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-emerging-as-key-part-of-backfield-despite-buzz-around-teammate/1926678
-- **Rashid Shaheed** — Rashid Shaheed Could Emerge as Key Part of Offense (2026-09-09T10:32:06Z)
-  - Source: https://www.rotoballer.com/player-news/rashid-shaheed-could-emerge-as-key-part-of-offense-after-very-positive-camp/1926672
-- **MarShawn Lloyd** — Marshawn Lloyd Ready to Lead the Packers Backfield (2026-09-09T10:25:05Z)
-  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-ready-to-lead-the-packers-backfield/1926667
-- **Tre Tucker** — Tre Tucker Has Clear Path to Fantasy Relevance in 2026 (2026-09-09T10:02:06Z)
-  - Source: https://www.rotoballer.com/player-news/tre-tuckers-has-clear-path-to-fantasy-relevance-in-2026/1926644
-- **Jadarian Price** — Jadarian Price Carries Immense Upside in 2026 (2026-09-09T09:52:10Z)
-  - Source: https://www.rotoballer.com/player-news/jadarian-price-carries-immense-upside-in-2026/1926635
-- **Chris Bell** — Chris Bell Has a Clear Path to Major Role in Miami (2026-09-09T09:41:51Z)
-  - Source: https://www.rotoballer.com/player-news/chris-bell-has-a-clear-path-to-major-role-in-miami/1926617
-- **Rhamondre Stevenson** — Rhamondre Stevenson Expected to be Workhorse in Week 1 (2026-09-09T09:31:52Z)
-  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-expected-to-be-workhorse-in-week-1/1926603
