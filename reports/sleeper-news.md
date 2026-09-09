@@ -2,11 +2,25 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2311**
-- Newly captured: **2**
+- Stored stories: **2318**
+- Newly captured: **7**
 
 ## Latest news
 
+- **NEW — Chuba Hubbard** — Chuba Hubbard - Not listed on injury report (2026-09-09T19:43:22Z)
+  - Hubbard dealt with a hamstring injury last month but has been practicing since the calendar flipped to September. With Jonathon Brooks dealing with soreness in his groin for the past week and limited in practice, Hubbard looks like the front-runner for carries and touches out of the Carolina backfield to open the season. He's shaping up as a low-end RB2 against Chicago on Sunday.
+- **NEW — Jonathon Brooks** — Jonathon Brooks (groin) officially limited Wednesday (2026-09-09T19:40:47.088000Z)
+  - The team has been calling Brooks' injury 'general soreness' for a little while, but it seems that it is specifically groin soreness, which left him limited at Wednesday's practice. He seems to be trending towards playing in Week 1 but may not be worth starting in fantasy if he's playing at less than full health against the Bears.
+  - Source: https://www.fantasypros.com/nfl/news/606741/jonathon-brooks-groin-officially-limited-wednesday.php
+- **NEW — Chuba Hubbard** — Chuba Hubbard (hamstring) off injury report for Week 1 (2026-09-09T19:40:47.073000Z)
+  - Hubbard was battling a hamstring injury earlier this offseason, but it's no longer an issue for him and he carries no injury designation ahead of Week 1. He will likely split work with Jonathan Brooks (groin) in the season opener, which hurts the fantasy outlook for both of them.
+  - Source: https://www.fantasypros.com/nfl/news/606742/chuba-hubbard-hamstring-off-injury-report-week-1.php
+- **NEW — Carnell Tate** — Carnell Tate - Spotted at practice Wednesday (2026-09-09T19:40:15Z)
+  - The rookie had been dealing with some stiffness late in the preseason but seems to be trending in the right direction as the Titans' season-opener approaches. Official word on whether Tate was a full or limited participant will come after the Titans release their practice report later Wednesday afternoon.
+- **NEW — Jonathon Brooks** — Jonathon Brooks - Officially limited Wednesday (2026-09-09T19:39:32Z)
+  - There's now an official body part attached to Brooks after the Panthers were forced to clarify the running back's injury on the team's first official injury report of the season. Brooks has been dealing with "soreness" for more than a week now, and the good news is it's not in his surgically-repaired knee. He was in full pads Wednesday, and a limited start to the week gives Brooks a good chance to play Sunday against the Bears. Chuba Hubbard is expected to open 2026 as the 1A to Brooks' 1B in the Carolina backfield.
+- **NEW — Malik Nabers** — Malik Nabers - Practices fully Wednesday (2026-09-09T19:34:14Z)
+  - Coach John Harbaugh said Nabers looks "ready to go," but the Giants are going to see how he feels throughout the practice week before declaring him in for Sunday night's game against the Cowboys. All signs continue to point to Nabers being out there versus Dallas for his first game action since tearing his ACL in Week 4 of last season.
 - **J.J. McCarthy** — J.J. McCarthy to be QB3 for Week 1 (2026-09-09T19:00:36.380000Z)
   - McCarthy lost the competition for the starting QB job earlier this offseason to Kyler Murray, and now it appears that he didn't make a strong push for the job, as the team has opted to make him the third QB on their depth chart behind Carson Wentz as well. The team has left the door open to promoting him to backup at some point in the season, but he remains entirely irrelevant for fantasy purposes for the foreseeable future.
   - Source: https://www.fantasypros.com/nfl/news/606739/jj-mccarthy-to-be-qb3-week-1.php
@@ -74,9 +88,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
 - **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
-- **NEW — Malachi Fields** — Malachi Fields Is Becoming Harder to Keep Off the Field (2026-09-09T15:25:05Z)
+- **NEW — Dalton Kincaid** — Dalton Kincaid Could Become a League-Winner With More Snaps (2026-09-09T15:36:48Z)
+  - Source: https://www.rotoballer.com/player-news/dalton-kincaid-could-become-a-league-winner-with-more-snaps/1927010
+- **Malachi Fields** — Malachi Fields Is Becoming Harder to Keep Off the Field (2026-09-09T15:25:05Z)
   - Source: https://www.rotoballer.com/player-news/malachi-fields-is-becoming-harder-to-keep-off-the-field/1926996
-- **NEW — Kayshon Boutte** — Kayshon Boutte Has a Real Shot to Break Out in Houston (2026-09-09T15:16:06Z)
+- **Kayshon Boutte** — Kayshon Boutte Has a Real Shot to Break Out in Houston (2026-09-09T15:16:06Z)
   - Source: https://www.rotoballer.com/player-news/kayshon-boutte-has-a-real-shot-to-break-out-in-houston/1926986
 - **De'Zhaun Stribling** — De'Zhaun Stribling Keeps Pushing Toward a Bigger Role (2026-09-09T15:09:09Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-keeps-pushing-toward-a-bigger-role/1926977
@@ -212,17 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) ruled out for Week 1 (2026-09-08T21:05:53.555000Z)
   - Henderson will miss the season opener after being unable to practice to begin the week for head coach Mike Vrabel. Rhamondre Stevenson will see as many touches as he can handle against a strong Seattle front seven Wednesday night.
   - Source: https://www.fantasypros.com/nfl/news/606601/treveyon-henderson-ankle-ruled-out-week-1.php
-- **TreVeyon Henderson** — TreVeyon Henderson - Sitting out season opener (2026-09-08T21:05:15Z)
-  - Henderson's absence for the opener hardly comes as a surprise with his ankle injury having kept him from practicing in any capacity since Aug. 24. With Henderson sidelined for the opener, Rhamondre Stevenson will have a clear path to earning the bulk of snaps and touches out of the backfield. Corey Kiner will serve as the Stevenson's top understudy, and the Patriots will likely elevate one or both of Lan Larison and Hassan Haskins from the practice squad to add depth at the position.
-- **Tory Horton** — Tory Horton - Taking questionable tag into Week 1 (2026-09-08T20:54:50Z)
-  - Horton missed the final nine games of the regular season as well as the entirety of the Seahawks' playoff run due to a shin fracture as well as a groin issue, then required offseason surgery to address the injuries. Though he was deemed ready to go for the start of training camp, Horton ended up succumbing to a hamstring injury around the middle of August. Though his hamstring isn't viewed as a long-term concern, Horton had his practice participation managed this week and may not get clearance to suit up Wednesday. If he's able to avoid the inactive list, Horton will likely be in line for a small role as the Seahawks' No. 4 wide receiver behind Jaxon Smith-Njigba, Rashid Shaheed and Cooper Kupp.
-- **Puka Nacua** — Puka Nacua Not Listed on Rams' Initial Week 1 Injury Report (2026-09-08T20:34:46Z)
-  - Source: https://www.rotoballer.com/player-news/puka-nacua-not-listed-on-rams-initial-week-1-injury-report/1926327
-- **Christian McCaffrey** — Christian McCaffrey Avoids 49ers Injury Report Ahead of Week 1 (2026-09-08T20:27:06Z)
-  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-avoids-49ers-injury-report-ahead-of-week-1/1926321
-- **De'Zhaun Stribling** — De'Zhaun Stribling Not Listed on 49ers Injury Report on Tuesday (2026-09-08T20:17:06Z)
-  - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-not-listed-on-49ers-injury-report-on-tuesday/1926314
-- **Mike Evans** — Mike Evans Not Listed on 49ers Week 1 Injury Report (2026-09-08T20:10:05Z)
-  - Source: https://www.rotoballer.com/player-news/mike-evans-not-listed-on-49ers-week-1-injury-report/1926307
-- **Tyler Allgeier** — Tyler Allgeier - No. 1 back on unofficial depth chart (2026-09-08T20:08:23Z)
-  - Head coach Mike LaFleur expressed optimism Tuesday that Jeremiyah Love would be ready to play Sunday after suffering a high-ankle sprain in the Cardinals' preseason opener, but the No. 3 overall pick in April's draft isn't expected to handle a workhorse role right away coming off the injury. While Love should emerge as the clear No. 1 option once he's further removed from the injury, Allgeier appears well-positioned to have a meaningful role in the Week 1 game plan, regardless of whether he ends up starting or not.

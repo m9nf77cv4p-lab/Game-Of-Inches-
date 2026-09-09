@@ -1,10 +1,15 @@
 {
-  "last_checked_at": "2026-09-09T19:36:34Z",
+  "last_checked_at": "2026-09-09T19:46:39Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|13285|rotoballer|220456|1788967505000",
-    "nfl|9504|rotoballer|220454|1788966966000"
+    "nfl|10236|rotoballer|220457|1788968208000",
+    "nfl|11583|fantasy_pros|606741|1788982847088",
+    "nfl|11583|rotowire|636478|1788982772000",
+    "nfl|11632|rotowire|636477|1788982454000",
+    "nfl|13279|rotowire|636479|1788982815000",
+    "nfl|7594|fantasy_pros|606742|1788982847073",
+    "nfl|7594|rotowire|636480|1788983002000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +19,128 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Hubbard dealt with a hamstring injury last month but has been practicing since the calendar flipped to September. With Jonathon Brooks dealing with soreness in his groin for the past week and limited in practice, Hubbard looks like the front-runner for carries and touches out of the Carolina backfield to open the season. He's shaping up as a low-end RB2 against Chicago on Sunday.",
+      "description": "Hubbard (hamstring) was not listed on the Panthers' injury report Wednesday.",
+      "metadata": {
+        "analysis": "Hubbard dealt with a hamstring injury last month but has been practicing since the calendar flipped to September. With Jonathon Brooks dealing with soreness in his groin for the past week and limited in practice, Hubbard looks like the front-runner for carries and touches out of the Carolina backfield to open the season. He's shaping up as a low-end RB2 against Chicago on Sunday.",
+        "description": "Hubbard (hamstring) was not listed on the Panthers' injury report Wednesday.",
+        "title": "Chuba Hubbard - Not listed on injury report",
+        "topic_id": "1403500675488382976"
+      },
+      "nfl_team": "CAR",
+      "player_id": "7594",
+      "player_name": "Chuba Hubbard",
+      "position": "RB",
+      "published": 1788983002000,
+      "source": "rotowire",
+      "source_key": "636480",
+      "story_id": "nfl|7594|rotowire|636480|1788983002000",
+      "title": "Chuba Hubbard - Not listed on injury report",
+      "url": null
+    },
+    {
+      "analysis": "The team has been calling Brooks' injury 'general soreness' for a little while, but it seems that it is specifically groin soreness, which left him limited at Wednesday's practice. He seems to be trending towards playing in Week 1 but may not be worth starting in fantasy if he's playing at less than full health against the Bears.",
+      "description": "Jonathon Brooks (groin) was officially limited in Wednesday's practice for the Panthers.",
+      "metadata": {
+        "analysis": "The team has been calling Brooks' injury 'general soreness' for a little while, but it seems that it is specifically groin soreness, which left him limited at Wednesday's practice. He seems to be trending towards playing in Week 1 but may not be worth starting in fantasy if he's playing at less than full health against the Bears.",
+        "description": "Jonathon Brooks (groin) was officially limited in Wednesday's practice for the Panthers.",
+        "title": "Jonathon Brooks (groin) officially limited Wednesday",
+        "topic_id": "1403499421236277248",
+        "url": "https://www.fantasypros.com/nfl/news/606741/jonathon-brooks-groin-officially-limited-wednesday.php"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788982847088,
+      "source": "fantasy_pros",
+      "source_key": "606741",
+      "story_id": "nfl|11583|fantasy_pros|606741|1788982847088",
+      "title": "Jonathon Brooks (groin) officially limited Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606741/jonathon-brooks-groin-officially-limited-wednesday.php"
+    },
+    {
+      "analysis": "Hubbard was battling a hamstring injury earlier this offseason, but it's no longer an issue for him and he carries no injury designation ahead of Week 1. He will likely split work with Jonathan Brooks (groin) in the season opener, which hurts the fantasy outlook for both of them.",
+      "description": "Chuba Hubbard (hamstring) is off of the injury report ahead of Week 1's matchup against the Chicago Bears.",
+      "metadata": {
+        "analysis": "Hubbard was battling a hamstring injury earlier this offseason, but it's no longer an issue for him and he carries no injury designation ahead of Week 1. He will likely split work with Jonathan Brooks (groin) in the season opener, which hurts the fantasy outlook for both of them.",
+        "description": "Chuba Hubbard (hamstring) is off of the injury report ahead of Week 1's matchup against the Chicago Bears.",
+        "title": "Chuba Hubbard (hamstring) off injury report for Week 1",
+        "topic_id": "1403499421181751296",
+        "url": "https://www.fantasypros.com/nfl/news/606742/chuba-hubbard-hamstring-off-injury-report-week-1.php"
+      },
+      "nfl_team": "CAR",
+      "player_id": "7594",
+      "player_name": "Chuba Hubbard",
+      "position": "RB",
+      "published": 1788982847073,
+      "source": "fantasy_pros",
+      "source_key": "606742",
+      "story_id": "nfl|7594|fantasy_pros|606742|1788982847073",
+      "title": "Chuba Hubbard (hamstring) off injury report for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606742/chuba-hubbard-hamstring-off-injury-report-week-1.php"
+    },
+    {
+      "analysis": "The rookie had been dealing with some stiffness late in the preseason but seems to be trending in the right direction as the Titans' season-opener approaches. Official word on whether Tate was a full or limited participant will come after the Titans release their practice report later Wednesday afternoon.",
+      "description": "Tate (undisclosed) was in uniform and participating in drills during Wednesday's practice, Jim Wyatt of the Titans' official site reports.",
+      "metadata": {
+        "analysis": "The rookie had been dealing with some stiffness late in the preseason but seems to be trending in the right direction as the Titans' season-opener approaches. Official word on whether Tate was a full or limited participant will come after the Titans release their practice report later Wednesday afternoon.",
+        "description": "Tate (undisclosed) was in uniform and participating in drills during Wednesday's practice, Jim Wyatt of the Titans' official site reports.",
+        "title": "Carnell Tate - Spotted at practice Wednesday",
+        "topic_id": "1403500675479994369"
+      },
+      "nfl_team": "TEN",
+      "player_id": "13279",
+      "player_name": "Carnell Tate",
+      "position": "WR",
+      "published": 1788982815000,
+      "source": "rotowire",
+      "source_key": "636479",
+      "story_id": "nfl|13279|rotowire|636479|1788982815000",
+      "title": "Carnell Tate - Spotted at practice Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "There's now an official body part attached to Brooks after the Panthers were forced to clarify the running back's injury on the team's first official injury report of the season. Brooks has been dealing with \"soreness\" for more than a week now, and the good news is it's not in his surgically-repaired knee. He was in full pads Wednesday, and a limited start to the week gives Brooks a good chance to play Sunday against the Bears. Chuba Hubbard is expected to open 2026 as the 1A to Brooks' 1B in the Carolina backfield.",
+      "description": "Brooks (groin) was listed as a limited participant in Wednesday's practice.",
+      "metadata": {
+        "analysis": "There's now an official body part attached to Brooks after the Panthers were forced to clarify the running back's injury on the team's first official injury report of the season. Brooks has been dealing with \"soreness\" for more than a week now, and the good news is it's not in his surgically-repaired knee. He was in full pads Wednesday, and a limited start to the week gives Brooks a good chance to play Sunday against the Bears. Chuba Hubbard is expected to open 2026 as the 1A to Brooks' 1B in the Carolina backfield.",
+        "description": "Brooks (groin) was listed as a limited participant in Wednesday's practice.",
+        "title": "Jonathon Brooks - Officially limited Wednesday",
+        "topic_id": "1403499418065305600"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788982772000,
+      "source": "rotowire",
+      "source_key": "636478",
+      "story_id": "nfl|11583|rotowire|636478|1788982772000",
+      "title": "Jonathon Brooks - Officially limited Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "Coach John Harbaugh said Nabers looks \"ready to go,\" but the Giants are going to see how he feels throughout the practice week before declaring him in for Sunday night's game against the Cowboys. All signs continue to point to Nabers being out there versus Dallas for his first game action since tearing his ACL in Week 4 of last season.",
+      "description": "Nabers (knee) was a full participant in Wednesday's practice, Connor Hughes of SNY.tv reports.",
+      "metadata": {
+        "analysis": "Coach John Harbaugh said Nabers looks \"ready to go,\" but the Giants are going to see how he feels throughout the practice week before declaring him in for Sunday night's game against the Cowboys. All signs continue to point to Nabers being out there versus Dallas for his first game action since tearing his ACL in Week 4 of last season.",
+        "description": "Nabers (knee) was a full participant in Wednesday's practice, Connor Hughes of SNY.tv reports.",
+        "title": "Malik Nabers - Practices fully Wednesday",
+        "topic_id": "1403499417905922048"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1788982454000,
+      "source": "rotowire",
+      "source_key": "636477",
+      "story_id": "nfl|11632|rotowire|636477|1788982454000",
+      "title": "Malik Nabers - Practices fully Wednesday",
+      "url": null
+    },
     {
       "analysis": "McCarthy lost the competition for the starting QB job earlier this offseason to Kyler Murray, and now it appears that he didn't make a strong push for the job, as the team has opted to make him the third QB on their depth chart behind Carson Wentz as well. The team has left the door open to promoting him to backup at some point in the season, but he remains entirely irrelevant for fantasy purposes for the foreseeable future.",
       "description": "J.J. McCarthy will be the third quarterback on Minnesota's depth chart for their season opener against the Green Bay Packers on Sunday.",
@@ -566,6 +693,26 @@
       "story_id": "nfl|12514|rotowire|636460|1788970341000",
       "title": "Emeka Egbuka - Looks to be practicing fully Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills tight end Dalton Kincaid might finally get the playing time fantasy managers have been waiting for. Kincaid caught 39 passes for 571 yards and five touchdowns in only 12 games last season despite spending much of the year in a part-time role. His efficiency was among the best at the position whenever he actually ran routes. Now there is belief around Buffalo that Kincaid could push into the 60% to 65% snap range after going through his healthiest training camp in years. He looked the part this summer too, repeatedly finding the end zone with Josh Allen and earning praise for both his receiving work and improvement as a blocker. Dawson Knox and Jackson Hawes are still involved, so the increased workload isn't guaranteed. That's really the only thing holding this back. Kincaid has already shown what he can do with limited opportunities. If Buffalo finally keeps him on the field consistently, he has the kind of ceiling that can swing fantasy leagues at tight end.",
+      "metadata": {
+        "description": "Buffalo Bills tight end Dalton Kincaid might finally get the playing time fantasy managers have been waiting for. Kincaid caught 39 passes for 571 yards and five touchdowns in only 12 games last season despite spending much of the year in a part-time role. His efficiency was among the best at the position whenever he actually ran routes. Now there is belief around Buffalo that Kincaid could push into the 60% to 65% snap range after going through his healthiest training camp in years. He looked the part this summer too, repeatedly finding the end zone with Josh Allen and earning praise for both his receiving work and improvement as a blocker. Dawson Knox and Jackson Hawes are still involved, so the increased workload isn't guaranteed. That's really the only thing holding this back. Kincaid has already shown what he can do with limited opportunities. If Buffalo finally keeps him on the field consistently, he has the kind of ceiling that can swing fantasy leagues at tight end.",
+        "title": "Dalton Kincaid Could Become a League-Winner With More Snaps",
+        "topic_id": "1403500672866877440",
+        "url": "https://www.rotoballer.com/player-news/dalton-kincaid-could-become-a-league-winner-with-more-snaps/1927010"
+      },
+      "nfl_team": "BUF",
+      "player_id": "10236",
+      "player_name": "Dalton Kincaid",
+      "position": "TE",
+      "published": 1788968208000,
+      "source": "rotoballer",
+      "source_key": "220457",
+      "story_id": "nfl|10236|rotoballer|220457|1788968208000",
+      "title": "Dalton Kincaid Could Become a League-Winner With More Snaps",
+      "url": "https://www.rotoballer.com/player-news/dalton-kincaid-could-become-a-league-winner-with-more-snaps/1927010"
     },
     {
       "analysis": null,
