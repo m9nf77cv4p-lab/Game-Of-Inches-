@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-09T02:47:21Z",
+  "last_checked_at": "2026-09-09T02:57:50Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12536|rotoballer|220399|1788907207000"
+    "nfl|11237|rotoballer|220400|1788907866000",
+    "nfl|4217|rotowire|636457|1788922162000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "\"We got to be smart with that,\" Shanahan said. With Kittle having been listed as a limited participant Tuesday after returning from the active/PUP list a little over two weeks ago, Shanahan's comments suggest San Francisco is preparing to manage the tight end's Week 1 snaps. Kittle figures to be featured on third downs and in the scoring area if his playing time is limited, and Jake Tonges could see elevated snaps as the Niners' TE2.",
+      "description": "Coach Kyle Shanahan said Tuesday that Kittle (Achilles) could have his workload monitored against the Rams on Thursday, Matt Maiocco of NBC Sports Bay Area reports.",
+      "metadata": {
+        "analysis": "\"We got to be smart with that,\" Shanahan said. With Kittle having been listed as a limited participant Tuesday after returning from the active/PUP list a little over two weeks ago, Shanahan's comments suggest San Francisco is preparing to manage the tight end's Week 1 snaps. Kittle figures to be featured on third downs and in the scoring area if his playing time is limited, and Jake Tonges could see elevated snaps as the Niners' TE2.",
+        "description": "Coach Kyle Shanahan said Tuesday that Kittle (Achilles) could have his workload monitored against the Rams on Thursday, Matt Maiocco of NBC Sports Bay Area reports.",
+        "title": "George Kittle - Could see limited Week 1 role",
+        "topic_id": "1403245144802631680"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788922162000,
+      "source": "rotowire",
+      "source_key": "636457",
+      "story_id": "nfl|4217|rotowire|636457|1788922162000",
+      "title": "George Kittle - Could see limited Week 1 role",
+      "url": null
+    },
     {
       "analysis": "Kittle remains on track to be good to go for Thursday's season opener coming off an Achilles tear. It is unclear if he'll be facing any sort of snap count on Thursday. ",
       "description": "George Kittle was limited in Tuesday's practice.",
@@ -133,6 +154,26 @@
       "story_id": "nfl|4217|rotowire|636412|1788908049000",
       "title": "George Kittle - Listed as limited participant",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Fourth-year running back out of East Tennessee State, Jacob Saylors, is in line to potentially back up one of the best running backs in the game and the consensus No. 1 fantasy running back, Jahmyr Gibbs. Important to note that head coach Dan Campbell did come out Monday and said that the team's RB2 role behind starter Gibbs will be by committee, according to Brad Galli; however, Saylors is listed as the team's RB2 on the depth chart, and with how potent this Lions offense is, that makes him a valuable bench option on the off chance Gibbs goes down with an injury. Saylors went undrafted in 2023 and has two career rushing attempts in the NFL, so he is truly a handcuff option for the Lions, with no standalone value to start the season. The Lions' former RB2, David Montgomery, was picked up by the Houston Texans during the offseason, opening the door for the 25-year-old. Fantasy managers looking to stash a handcuff should be looking in Saylor's direction.",
+      "metadata": {
+        "description": "Fourth-year running back out of East Tennessee State, Jacob Saylors, is in line to potentially back up one of the best running backs in the game and the consensus No. 1 fantasy running back, Jahmyr Gibbs. Important to note that head coach Dan Campbell did come out Monday and said that the team's RB2 role behind starter Gibbs will be by committee, according to Brad Galli; however, Saylors is listed as the team's RB2 on the depth chart, and with how potent this Lions offense is, that makes him a valuable bench option on the off chance Gibbs goes down with an injury. Saylors went undrafted in 2023 and has two career rushing attempts in the NFL, so he is truly a handcuff option for the Lions, with no standalone value to start the season. The Lions' former RB2, David Montgomery, was picked up by the Houston Texans during the offseason, opening the door for the 25-year-old. Fantasy managers looking to stash a handcuff should be looking in Saylor's direction.",
+        "title": "Jacob Saylors Providing Waiver Wire Value as Handcuff to Gibbs",
+        "topic_id": "1403246400178798592",
+        "url": "https://www.rotoballer.com/player-news/jacob-saylors-providing-waiver-wire-value-as-handcuff-to-gibbs/1926411"
+      },
+      "nfl_team": "DET",
+      "player_id": "11237",
+      "player_name": "Jacob Saylors",
+      "position": "RB",
+      "published": 1788907866000,
+      "source": "rotoballer",
+      "source_key": "220400",
+      "story_id": "nfl|11237|rotoballer|220400|1788907866000",
+      "title": "Jacob Saylors Providing Waiver Wire Value as Handcuff to Gibbs",
+      "url": "https://www.rotoballer.com/player-news/jacob-saylors-providing-waiver-wire-value-as-handcuff-to-gibbs/1926411"
     },
     {
       "analysis": null,

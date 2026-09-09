@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2239**
-- Newly captured: **1**
+- Stored stories: **2241**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — George Kittle** — George Kittle - Could see limited Week 1 role (2026-09-09T02:49:22Z)
+  - "We got to be smart with that," Shanahan said. With Kittle having been listed as a limited participant Tuesday after returning from the active/PUP list a little over two weeks ago, Shanahan's comments suggest San Francisco is preparing to manage the tight end's Week 1 snaps. Kittle figures to be featured on third downs and in the scoring area if his playing time is limited, and Jake Tonges could see elevated snaps as the Niners' TE2.
 - **George Kittle** — George Kittle (Achilles) limited in practice Tuesday  (2026-09-09T00:00:23.558000Z)
   - Kittle remains on track to be good to go for Thursday's season opener coming off an Achilles tear. It is unclear if he'll be facing any sort of snap count on Thursday. 
   - Source: https://www.fantasypros.com/nfl/news/606651/george-kittle-achilles-limited-practice-tuesday.php
@@ -20,7 +22,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Evans has been slowed by injuries since early August, but he apparently is back at 100 percent in advance of Week 1. Barring any setbacks, he seems set to fill a starting wide receiver spot when the 49ers kick off their 2026 campaign against the Rams in Australia.
 - **George Kittle** — George Kittle - Listed as limited participant (2026-09-08T22:54:09Z)
   - Kittle has been practicing regularly since being activated from the active/PUP list a little over two weeks ago, and although he seemingly did not take part in every drill Tuesday, he was able to get at least some work in at San Francisco's first official practice session of the week. He could wind up a full participant before kickoff, and even still the door remains open for him to suit up for Week 1.
-- **NEW — Jaylin Noel** — Jaylin Noel Gaining Value With Injuries to the Texans Receiving Room (2026-09-08T22:40:07Z)
+- **NEW — Jacob Saylors** — Jacob Saylors Providing Waiver Wire Value as Handcuff to Gibbs (2026-09-08T22:51:06Z)
+  - Source: https://www.rotoballer.com/player-news/jacob-saylors-providing-waiver-wire-value-as-handcuff-to-gibbs/1926411
+- **Jaylin Noel** — Jaylin Noel Gaining Value With Injuries to the Texans Receiving Room (2026-09-08T22:40:07Z)
   - Source: https://www.rotoballer.com/player-news/jaylin-noel-gaining-value-with-injuries-to-the-texans-receiving-room/1926407
 - **Christian McCaffrey** — Christian McCaffrey - Not listed on injury report (2026-09-08T22:39:55Z)
   - McCaffrey's status has been a hot topic for nearly a month, particularly after it was reported in mid-August that he was dealing with some sort of "tightness." However, McCaffrey himself said in late August that he always planned to take it easy during training camp, and San Francisco's first injury report of the year confirms he is back at 100 percent. As such, it seems likely he will be able to fill his regular role when the 49ers kick off their season against the Rams in Australia.
@@ -215,7 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The practice session is technically taking placing Tuesday afternoon in Melbourne local time, but regardless, Stribling's participation is a positive sign as he looks to rebound from a minor shoulder injury. It remains to be seen what the rookie wideout's level of practice participation will be, but to this point there hasn't been any indication that he's in any danger of missing the season opener versus the Rams. Stribling appears in line for a big role in San Francisco's offense as one of the team's top three wideouts alongside veterans Mike Evans (adductor) and Deebo Samuel.
 - **Tre' Harris** — Tre' Harris Should Produce in Chargers Offense (2026-09-08T01:17:07Z)
   - Source: https://www.rotoballer.com/player-news/tre-harris-should-produce-in-chargers-offense/1925612
-- **Emmett Johnson** — Emmett Johnson Worth Rostering as Handcuff in Powerful Offense (2026-09-08T01:01:14Z)
-  - Source: https://www.rotoballer.com/player-news/emmett-johnson-worth-rostering-as-handcuff-in-powerful-offense/1925608
-- **Jalen McMillan** — Jalen McMillan's Experience an Advantage in Depth-Chart Competition (2026-09-08T00:57:11Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-mcmillans-experience-an-advantage-in-depth-chart-competition/1925605
