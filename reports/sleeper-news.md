@@ -2,24 +2,30 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2318**
-- Newly captured: **7**
+- Stored stories: **2321**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Chuba Hubbard** — Chuba Hubbard - Not listed on injury report (2026-09-09T19:43:22Z)
+- **NEW — Khalil Shakir** — Khalil Shakir (undisclosed) seen practicing Wednesday (2026-09-09T19:50:50.613000Z)
+  - Shakir's availability for Week 1 is currently up in the air due to an undisclosed injury that he's dealing with. He was spotted at practice on Wednesday, however, which bodes well for his availability for the season opener. It remains unclear if he was a limited or full participant.
+  - Source: https://www.fantasypros.com/nfl/news/606743/khalil-shakir-undisclosed-seen-practicing-wednesday.php
+- **NEW — Malik Nabers** — Malik Nabers (knee) logs full practice Wednesday, likely to play Sunday (2026-09-09T19:50:50.601000Z)
+  - HC John Harbaugh told reporters that he thinks Nabers will be ready to go for the team's season opener against the Cowboys on Sunday night. This comes after he logged a full practice session on Wednesday, so he seems to be trending towards being close to full health for Week 1. If there are no setbacks throughout the week, fantasy managers should start him with confidence in what projects to be a high scoring matchup against their divisional rivals.
+  - Source: https://www.fantasypros.com/nfl/news/606744/malik-nabers-knee-logs-full-practice-wednesday-likely-to-play-sunday.php
+- **Chuba Hubbard** — Chuba Hubbard - Not listed on injury report (2026-09-09T19:43:22Z)
   - Hubbard dealt with a hamstring injury last month but has been practicing since the calendar flipped to September. With Jonathon Brooks dealing with soreness in his groin for the past week and limited in practice, Hubbard looks like the front-runner for carries and touches out of the Carolina backfield to open the season. He's shaping up as a low-end RB2 against Chicago on Sunday.
-- **NEW — Jonathon Brooks** — Jonathon Brooks (groin) officially limited Wednesday (2026-09-09T19:40:47.088000Z)
+- **Jonathon Brooks** — Jonathon Brooks (groin) officially limited Wednesday (2026-09-09T19:40:47.088000Z)
   - The team has been calling Brooks' injury 'general soreness' for a little while, but it seems that it is specifically groin soreness, which left him limited at Wednesday's practice. He seems to be trending towards playing in Week 1 but may not be worth starting in fantasy if he's playing at less than full health against the Bears.
   - Source: https://www.fantasypros.com/nfl/news/606741/jonathon-brooks-groin-officially-limited-wednesday.php
-- **NEW — Chuba Hubbard** — Chuba Hubbard (hamstring) off injury report for Week 1 (2026-09-09T19:40:47.073000Z)
+- **Chuba Hubbard** — Chuba Hubbard (hamstring) off injury report for Week 1 (2026-09-09T19:40:47.073000Z)
   - Hubbard was battling a hamstring injury earlier this offseason, but it's no longer an issue for him and he carries no injury designation ahead of Week 1. He will likely split work with Jonathan Brooks (groin) in the season opener, which hurts the fantasy outlook for both of them.
   - Source: https://www.fantasypros.com/nfl/news/606742/chuba-hubbard-hamstring-off-injury-report-week-1.php
-- **NEW — Carnell Tate** — Carnell Tate - Spotted at practice Wednesday (2026-09-09T19:40:15Z)
+- **Carnell Tate** — Carnell Tate - Spotted at practice Wednesday (2026-09-09T19:40:15Z)
   - The rookie had been dealing with some stiffness late in the preseason but seems to be trending in the right direction as the Titans' season-opener approaches. Official word on whether Tate was a full or limited participant will come after the Titans release their practice report later Wednesday afternoon.
-- **NEW — Jonathon Brooks** — Jonathon Brooks - Officially limited Wednesday (2026-09-09T19:39:32Z)
+- **Jonathon Brooks** — Jonathon Brooks - Officially limited Wednesday (2026-09-09T19:39:32Z)
   - There's now an official body part attached to Brooks after the Panthers were forced to clarify the running back's injury on the team's first official injury report of the season. Brooks has been dealing with "soreness" for more than a week now, and the good news is it's not in his surgically-repaired knee. He was in full pads Wednesday, and a limited start to the week gives Brooks a good chance to play Sunday against the Bears. Chuba Hubbard is expected to open 2026 as the 1A to Brooks' 1B in the Carolina backfield.
-- **NEW — Malik Nabers** — Malik Nabers - Practices fully Wednesday (2026-09-09T19:34:14Z)
+- **Malik Nabers** — Malik Nabers - Practices fully Wednesday (2026-09-09T19:34:14Z)
   - Coach John Harbaugh said Nabers looks "ready to go," but the Giants are going to see how he feels throughout the practice week before declaring him in for Sunday night's game against the Cowboys. All signs continue to point to Nabers being out there versus Dallas for his first game action since tearing his ACL in Week 4 of last season.
 - **J.J. McCarthy** — J.J. McCarthy to be QB3 for Week 1 (2026-09-09T19:00:36.380000Z)
   - McCarthy lost the competition for the starting QB job earlier this offseason to Kyler Murray, and now it appears that he didn't make a strong push for the job, as the team has opted to make him the third QB on their depth chart behind Carson Wentz as well. The team has left the door open to promoting him to backup at some point in the season, but he remains entirely irrelevant for fantasy purposes for the foreseeable future.
@@ -88,7 +94,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
 - **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
-- **NEW — Dalton Kincaid** — Dalton Kincaid Could Become a League-Winner With More Snaps (2026-09-09T15:36:48Z)
+- **NEW — Malik Washington** — Malik Washington Gets His Shot in Miami's Starting Lineup (2026-09-09T15:45:07Z)
+  - Source: https://www.rotoballer.com/player-news/malik-washington-gets-his-shot-in-miamis-starting-lineup/1927018
+- **Dalton Kincaid** — Dalton Kincaid Could Become a League-Winner With More Snaps (2026-09-09T15:36:48Z)
   - Source: https://www.rotoballer.com/player-news/dalton-kincaid-could-become-a-league-winner-with-more-snaps/1927010
 - **Malachi Fields** — Malachi Fields Is Becoming Harder to Keep Off the Field (2026-09-09T15:25:05Z)
   - Source: https://www.rotoballer.com/player-news/malachi-fields-is-becoming-harder-to-keep-off-the-field/1926996
@@ -220,11 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tory Horton** — Tory Horton (hamstring) listed questionable Wednesday  (2026-09-08T21:20:22.192000Z)
   - Horton was limited in practice the past few days. His status is up in the air heading into Wednesday. 
   - Source: https://www.fantasypros.com/nfl/news/606606/tory-horton-hamstring-listed-questionable-wednesday.php
-- **Baker Mayfield** — Baker Mayfield signs three-year extension with Bucs  (2026-09-08T21:20:21.904000Z)
-  - This move comes out of no where as reports suggested talks between the two sides on an extension weren't going to continue this season. Mayfield lands his extension right before the start of the season. 
-  - Source: https://www.fantasypros.com/nfl/news/606603/baker-mayfield-signs-three-year-extension-with-bucs.php
-- **Baker Mayfield** — Baker Mayfield - Lands $165M extension with Bucs (2026-09-08T21:19:15Z)
-  - Though Mayfield's self-imposed deadline of the start of training camp for signing a new contract came and went without him coming to terms with the Buccaneers, the two sides revisited extension talks less than a week before the start of the regular season and were able to find common ground on a deal. With the new deal in place, the Buccaneers will avoid losing Mayfield in free agency next offseason and keep him on their books through 2029. Mayfield's first three seasons in Tampa Bay have been a resounding success, with the quarterback averaging 31.6 touchdown passes per season and having led the team to two playoff appearances.
-- **TreVeyon Henderson** — TreVeyon Henderson (ankle) ruled out for Week 1 (2026-09-08T21:05:53.555000Z)
-  - Henderson will miss the season opener after being unable to practice to begin the week for head coach Mike Vrabel. Rhamondre Stevenson will see as many touches as he can handle against a strong Seattle front seven Wednesday night.
-  - Source: https://www.fantasypros.com/nfl/news/606601/treveyon-henderson-ankle-ruled-out-week-1.php

@@ -22704,7 +22704,7 @@
       ],
       "first_name": "Chuba",
       "full_name": "Chuba Hubbard",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Hubbard",
       "nfl_team": "CAR",
       "player_id": "7594",
@@ -23815,8 +23815,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-09T18:27:07Z",
-    "source_fingerprint": "0020ad9b88cf049cec7f2f2cfcd7137cc1e5a8c3fd7dcfaa0ffa4b62b10579ae"
+    "last_changed_at": "2026-09-09T19:56:54Z",
+    "source_fingerprint": "661978431dec2ea4466244236f5496e9c76b0321c3107f8e2cbc5a9cfdbcef2a"
   },
   "teams": [
     {

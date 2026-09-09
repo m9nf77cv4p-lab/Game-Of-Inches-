@@ -1,15 +1,11 @@
 {
-  "last_checked_at": "2026-09-09T19:46:39Z",
+  "last_checked_at": "2026-09-09T19:56:56Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|10236|rotoballer|220457|1788968208000",
-    "nfl|11583|fantasy_pros|606741|1788982847088",
-    "nfl|11583|rotowire|636478|1788982772000",
-    "nfl|11632|rotowire|636477|1788982454000",
-    "nfl|13279|rotowire|636479|1788982815000",
-    "nfl|7594|fantasy_pros|606742|1788982847073",
-    "nfl|7594|rotowire|636480|1788983002000"
+    "nfl|11610|rotoballer|220458|1788968707000",
+    "nfl|11632|fantasy_pros|606744|1788983450601",
+    "nfl|8134|fantasy_pros|606743|1788983450613"
   ],
   "schema_version": 1,
   "source": {
@@ -19,6 +15,48 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Shakir's availability for Week 1 is currently up in the air due to an undisclosed injury that he's dealing with. He was spotted at practice on Wednesday, however, which bodes well for his availability for the season opener. It remains unclear if he was a limited or full participant.",
+      "description": "Khalil Shakir (undisclosed) was seen practicing for the Bills on Wednesday.",
+      "metadata": {
+        "analysis": "Shakir's availability for Week 1 is currently up in the air due to an undisclosed injury that he's dealing with. He was spotted at practice on Wednesday, however, which bodes well for his availability for the season opener. It remains unclear if he was a limited or full participant.",
+        "description": "Khalil Shakir (undisclosed) was seen practicing for the Bills on Wednesday.",
+        "title": "Khalil Shakir (undisclosed) seen practicing Wednesday",
+        "topic_id": "1403501952607813632",
+        "url": "https://www.fantasypros.com/nfl/news/606743/khalil-shakir-undisclosed-seen-practicing-wednesday.php"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8134",
+      "player_name": "Khalil Shakir",
+      "position": "WR",
+      "published": 1788983450613,
+      "source": "fantasy_pros",
+      "source_key": "606743",
+      "story_id": "nfl|8134|fantasy_pros|606743|1788983450613",
+      "title": "Khalil Shakir (undisclosed) seen practicing Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606743/khalil-shakir-undisclosed-seen-practicing-wednesday.php"
+    },
+    {
+      "analysis": "HC John Harbaugh told reporters that he thinks Nabers will be ready to go for the team's season opener against the Cowboys on Sunday night. This comes after he logged a full practice session on Wednesday, so he seems to be trending towards being close to full health for Week 1. If there are no setbacks throughout the week, fantasy managers should start him with confidence in what projects to be a high scoring matchup against their divisional rivals.",
+      "description": "Malik Nabers (knee) logged a full practice on Wednesday night and is trending towards playing in Sunday night's game against the Dallas Cowboys.",
+      "metadata": {
+        "analysis": "HC John Harbaugh told reporters that he thinks Nabers will be ready to go for the team's season opener against the Cowboys on Sunday night. This comes after he logged a full practice session on Wednesday, so he seems to be trending towards being close to full health for Week 1. If there are no setbacks throughout the week, fantasy managers should start him with confidence in what projects to be a high scoring matchup against their divisional rivals.",
+        "description": "Malik Nabers (knee) logged a full practice on Wednesday night and is trending towards playing in Sunday night's game against the Dallas Cowboys.",
+        "title": "Malik Nabers (knee) logs full practice Wednesday, likely to play Sunday",
+        "topic_id": "1403501952561676288",
+        "url": "https://www.fantasypros.com/nfl/news/606744/malik-nabers-knee-logs-full-practice-wednesday-likely-to-play-sunday.php"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1788983450601,
+      "source": "fantasy_pros",
+      "source_key": "606744",
+      "story_id": "nfl|11632|fantasy_pros|606744|1788983450601",
+      "title": "Malik Nabers (knee) logs full practice Wednesday, likely to play Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/606744/malik-nabers-knee-logs-full-practice-wednesday-likely-to-play-sunday.php"
+    },
     {
       "analysis": "Hubbard dealt with a hamstring injury last month but has been practicing since the calendar flipped to September. With Jonathon Brooks dealing with soreness in his groin for the past week and limited in practice, Hubbard looks like the front-runner for carries and touches out of the Carolina backfield to open the season. He's shaping up as a low-end RB2 against Chicago on Sunday.",
       "description": "Hubbard (hamstring) was not listed on the Panthers' injury report Wednesday.",
@@ -693,6 +731,26 @@
       "story_id": "nfl|12514|rotowire|636460|1788970341000",
       "title": "Emeka Egbuka - Looks to be practicing fully Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins wide receiver Malik Washington enters 2026 with a much better opportunity than he had a year ago. Miami's current depth chart lists him with the first-team offense alongside Caleb Douglas and Chris Bell, giving Washington a real chance to turn a part-time role into something more useful for fantasy. He caught 46 passes for 317 yards and three touchdowns last season and also added 110 rushing yards and another score on 17 carries. The receiving efficiency was modest, but the situation around him has changed. Washington also built some chemistry with new starting quarterback Malik Willis during camp, including multiple downfield connections and a late-camp touchdown. Being listed with the starters doesn't guarantee a big target share, especially with Douglas and Bell both pushing for work. Still, Washington has moved from rotational depth into a legitimate starting opportunity. If the routes and targets follow, his fantasy value could rise quickly.",
+      "metadata": {
+        "description": "Miami Dolphins wide receiver Malik Washington enters 2026 with a much better opportunity than he had a year ago. Miami's current depth chart lists him with the first-team offense alongside Caleb Douglas and Chris Bell, giving Washington a real chance to turn a part-time role into something more useful for fantasy. He caught 46 passes for 317 yards and three touchdowns last season and also added 110 rushing yards and another score on 17 carries. The receiving efficiency was modest, but the situation around him has changed. Washington also built some chemistry with new starting quarterback Malik Willis during camp, including multiple downfield connections and a late-camp touchdown. Being listed with the starters doesn't guarantee a big target share, especially with Douglas and Bell both pushing for work. Still, Washington has moved from rotational depth into a legitimate starting opportunity. If the routes and targets follow, his fantasy value could rise quickly.",
+        "title": "Malik Washington Gets His Shot in Miami's Starting Lineup",
+        "topic_id": "1403501932219244544",
+        "url": "https://www.rotoballer.com/player-news/malik-washington-gets-his-shot-in-miamis-starting-lineup/1927018"
+      },
+      "nfl_team": "MIA",
+      "player_id": "11610",
+      "player_name": "Malik Washington",
+      "position": "WR",
+      "published": 1788968707000,
+      "source": "rotoballer",
+      "source_key": "220458",
+      "story_id": "nfl|11610|rotoballer|220458|1788968707000",
+      "title": "Malik Washington Gets His Shot in Miami's Starting Lineup",
+      "url": "https://www.rotoballer.com/player-news/malik-washington-gets-his-shot-in-miamis-starting-lineup/1927018"
     },
     {
       "analysis": null,
