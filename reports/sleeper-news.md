@@ -2,20 +2,29 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2279**
+- Stored stories: **2285**
 - Newly captured: **6**
 
 ## Latest news
 
-- **NEW — Ja'Marr Chase** — Ja'Marr Chase (knee) on track to play Sunday (2026-09-09T17:10:35.742000Z)
+- **NEW — Rachaad White** — Rachaad White (hamstring) set to practice Wednesday (2026-09-09T17:20:35.832000Z)
+  - White's status for Week 1 is still unclear right now thanks to a hamstring injury that he's still dealing with. He is taking part in Wednesday's practice, however, which is a step in the right direction for him. Fantasy managers should pay attention to updates about his health throughout the week, as Jacory Croskey-Merritt will be a significantly better fantasy option if the veteran is sidelined this week.
+  - Source: https://www.fantasypros.com/nfl/news/606734/rachaad-white-hamstring-set-to-practice-wednesday.php
+- **NEW — Zay Flowers** — Zay Flowers - Works off to side Wednesday (2026-09-09T17:15:15Z)
+  - After appearing to participate fully Tuesday, Flowers' side work Wednesday suggests Baltimore could be managing his reps heading into Week 1. His official participation level on the Ravens' injury report will provide the clearest read on his availability for Sunday's game at Indianapolis, but there's been no indication Flowers is in any danger of missing the season opener.
+- **NEW — Tee Higgins** — Tee Higgins - On track for Week 1 (2026-09-09T17:14:00Z)
+  - Higgins has been dealing with a bruised heel, but there's been nothing to suggest he's in any real danger of missing Week 1. As is the case most weeks, Higgins is a fantasy WR2 with WR1 upside in the Bengals' elite passing offense.
+- **NEW — Ja'Marr Chase** — Ja'Marr Chase - Trending toward playing Week 1 (2026-09-09T17:11:58Z)
+  - Chase limped off the field late last month with a left knee injury, but there's been nothing to suggest he's in any real danger of missing the season opener versus Tampa Bay. In a potential shootout with the Bucs, Chase is looking like the premier wide receiver play on the board for Week 1 in fantasy.
+- **Ja'Marr Chase** — Ja'Marr Chase (knee) on track to play Sunday (2026-09-09T17:10:35.742000Z)
   - Chase has been recovering from a minor knee injury for several weeks at this point, but it is not considered a serious issue and he is on track to play through it against the Buccaneers on Sunday. Assuming he's active for the season opener, fantasy managers should have no hesitations about starting him and viewing him as a top-tier fantasy asset moving forward.
   - Source: https://www.fantasypros.com/nfl/news/606732/jamarr-chase-knee-on-track-to-play-sunday.php
-- **NEW — Tee Higgins** — Tee Higgins (heel) on pace to play Sunday (2026-09-09T17:10:35.733000Z)
+- **Tee Higgins** — Tee Higgins (heel) on pace to play Sunday (2026-09-09T17:10:35.733000Z)
   - Higgins is reportedly on pace to play in the team's season opener on Sunday, despite still managing a heel injury that has been bothering him for multiple weeks. His availability for the season opener would render both him and QB Joe Burrow great fantasy options heading into Week 1.
   - Source: https://www.fantasypros.com/nfl/news/606733/tee-higgins-heel-on-pace-to-play-sunday.php
-- **NEW — Chris Bell** — Chris Bell - No 'pitch count' for Week 1 (2026-09-09T17:09:38Z)
+- **Chris Bell** — Chris Bell - No 'pitch count' for Week 1 (2026-09-09T17:09:38Z)
   - Despite not practicing with the Dolphins until Aug. 17 after completing his recovery from the ACL tear he sustained in November, Bell assuaged any concerns about his health and conditioning over the final two weeks of training camp and during his lone appearance in the preseason. The Dolphins are seemingly preparing for the rookie third-round pick to handle a vital role in the passing game right off the bat, as he's listed as one of three starting wide receivers on the team's unofficial depth chart heading into Week 1, per David Furones of the South Florida Sun Sentinel. Though Miami is expected to be one of the league's lower-volume passing attacks, Bell won't be facing much in the way of established competition for targets. He'll be part of a new-look receiver room that includes third-year player Malik Washington and fellow rookie Caleb Douglas as starters after Miami moved on from both Tyreek Hill (knee) and Jaylen Waddle in the offseason.
-- **NEW — Chris Bell** — Chris Bell (knee) will start Sunday, set to have no snap count (2026-09-09T17:00:35.833000Z)
+- **Chris Bell** — Chris Bell (knee) will start Sunday, set to have no snap count (2026-09-09T17:00:35.833000Z)
   - The rookie fell in the NFL Draft this year due to a major knee injury that he was rehabbing, but it looks like he is 100% healthy heading into the team's season opener, as they confirmed that he will start and will not have a snap count in Week 1. He will start alongside fellow rookie Caleb Douglas, and it looks likely that one or both of them will become fantasy relevant this year with how thin Miami's WR depth chart is heading into Week 1.
   - Source: https://www.fantasypros.com/nfl/news/606731/chris-bell-knee-will-start-sunday-set-to-have-no-snap-count.php
 - **Caleb Douglas** — Caleb Douglas set to start in Week 1 (2026-09-09T16:50:35.803000Z)
@@ -39,9 +48,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
 - **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
-- **NEW — Chris Bell** — Chris Bell to Start Week 1 Without a Pitch Count (2026-09-09T13:00:17Z)
+- **NEW — J.K. Dobbins** — J.K. Dobbins Listed as RB1 on Broncos' Depth Chart (2026-09-09T13:13:21Z)
+  - Source: https://www.rotoballer.com/player-news/j-k-dobbins-listed-as-rb1-on-broncos-depth-chart/1926858
+- **NEW — George Kittle** — 49ers to Monitor Playing Time for George Kittle in Week 1 (2026-09-09T13:07:18Z)
+  - Source: https://www.rotoballer.com/player-news/49ers-to-monitor-playing-time-for-george-kittle-in-week-1/1926854
+- **Chris Bell** — Chris Bell to Start Week 1 Without a Pitch Count (2026-09-09T13:00:17Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-to-start-week-1-without-a-pitch-count/1926847
-- **NEW — Jaylen Warren** — Jaylen Warren Could Handle a Large Week 1 Role (2026-09-09T12:49:05Z)
+- **Jaylen Warren** — Jaylen Warren Could Handle a Large Week 1 Role (2026-09-09T12:49:05Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-warren-could-handle-a-large-week-1-role-as-the-steelers-listed-starter/1926837
 - **Mike Washington** — Mike Washington Jr. Could See a Key Week 1 Role (2026-09-09T12:37:26Z)
   - Source: https://www.rotoballer.com/player-news/mike-washington-jr-could-see-a-key-week-1-role-after-dominant-preseason-effort/1926824
@@ -214,15 +227,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Rome Odunze** — Rome Odunze (leg) day-to-day (2026-09-08T17:15:52.256000Z)
   - Odunze will remain absent from practice on Tuesday. He remains hopeful to play on Sunday against the Panthers. 
   - Source: https://www.fantasypros.com/nfl/news/606563/rome-odunze-leg-day-to-day.php
-- **Patrick Mahomes** — Patrick Mahomes - Still on track to start opener (2026-09-08T17:14:59Z)
-  - Mahomes didn't play in any of the Chiefs' preseason games, but he was cleared for 11-on-11 work early in camp and steered clear of any setbacks in his recovery from Dec. 15 surgery to repair a torn ACL and LCL in his left knee. The Chiefs will release their first injury report of 2026 on Thursday, and assuming Mahomes is listed as a full participant, it would confirm that he's on track to start against Denver. Mahomes will likely be playing without one of his top protectors, however, as Reid said that starting left tackle Josh Simmons (back) has a "good chance" of sitting out Week 1, per Matt McMullen of the Chiefs' official site.
-- **MarShawn Lloyd** — MarShawn Lloyd Listed as RB1 on First Depth Chart (2026-09-08T17:14:05Z)
-  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-listed-as-rb1-on-first-depth-chart/1926182
-- **Zay Flowers** — Zay Flowers - Looks to be practicing fully Tuesday (2026-09-08T17:12:52Z)
-  - Baltimore won't release its first Week 1 injury report until Wednesday, but assuming Flowers doesn't appear on the report or is listed as a full practice participant, he'll be in the clear to suit up Sunday in Indianapolis. Rewarded with a four-year, $140 million extension earlier this summer, Flowers remains on track to serve as the Ravens' clear No. 1 pass catcher heading into his fourth NFL campaign.
-- **TreVeyon Henderson** — TreVeyon Henderson Ruled Out for Season Opener on Thursday (2026-09-08T17:07:06Z)
-  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-ruled-out-for-season-opener-on-thursday/1926176
-- **Alvin Kamara** — Travis Etienne Jr. Listed as Co-Starter With Alvin Kamara (2026-09-08T16:44:05Z)
-  - Source: https://www.rotoballer.com/player-news/travis-etienne-jr-listed-as-co-starter-with-alvin-kamara/1926163
-- **Kenny Gainwell** — Kenny Gainwell Could Feature Prominently in Red-Zone, Goal-Line Situations (2026-09-08T16:36:43Z)
-  - Source: https://www.rotoballer.com/player-news/kenny-gainwell-could-feature-prominently-in-red-zone-goal-line-situations/1926155

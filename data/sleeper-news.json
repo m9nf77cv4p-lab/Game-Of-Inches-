@@ -1,14 +1,14 @@
 {
-  "last_checked_at": "2026-09-09T17:12:18Z",
+  "last_checked_at": "2026-09-09T17:28:05Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|13311|fantasy_pros|606731|1788973235833",
-    "nfl|13311|rotoballer|220436|1788958817000",
-    "nfl|13311|rotowire|636464|1788973778000",
-    "nfl|6801|fantasy_pros|606733|1788973835733",
-    "nfl|7564|fantasy_pros|606732|1788973835742",
-    "nfl|8228|rotoballer|220435|1788958145000"
+    "nfl|4217|rotoballer|220437|1788959238000",
+    "nfl|6801|rotowire|636466|1788974040000",
+    "nfl|6806|rotoballer|220438|1788959601000",
+    "nfl|7564|rotowire|636465|1788973918000",
+    "nfl|8136|fantasy_pros|606734|1788974435832",
+    "nfl|9997|rotowire|636467|1788974115000"
   ],
   "schema_version": 1,
   "source": {
@@ -18,6 +18,87 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "White's status for Week 1 is still unclear right now thanks to a hamstring injury that he's still dealing with. He is taking part in Wednesday's practice, however, which is a step in the right direction for him. Fantasy managers should pay attention to updates about his health throughout the week, as Jacory Croskey-Merritt will be a significantly better fantasy option if the veteran is sidelined this week.",
+      "description": "Rachaad White (hamstring) is set to take part in Washington's practice on Wednesday.",
+      "metadata": {
+        "analysis": "White's status for Week 1 is still unclear right now thanks to a hamstring injury that he's still dealing with. He is taking part in Wednesday's practice, however, which is a step in the right direction for him. Fantasy managers should pay attention to updates about his health throughout the week, as Jacory Croskey-Merritt will be a significantly better fantasy option if the veteran is sidelined this week.",
+        "description": "Rachaad White (hamstring) is set to take part in Washington's practice on Wednesday.",
+        "title": "Rachaad White (hamstring) set to practice Wednesday",
+        "topic_id": "1403464141871620096",
+        "url": "https://www.fantasypros.com/nfl/news/606734/rachaad-white-hamstring-set-to-practice-wednesday.php"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8136",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "published": 1788974435832,
+      "source": "fantasy_pros",
+      "source_key": "606734",
+      "story_id": "nfl|8136|fantasy_pros|606734|1788974435832",
+      "title": "Rachaad White (hamstring) set to practice Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606734/rachaad-white-hamstring-set-to-practice-wednesday.php"
+    },
+    {
+      "analysis": "After appearing to participate fully Tuesday, Flowers' side work Wednesday suggests Baltimore could be managing his reps heading into Week 1. His official participation level on the Ravens' injury report will provide the clearest read on his availability for Sunday's game at Indianapolis, but there's been no indication Flowers is in any danger of missing the season opener.",
+      "description": "Flowers (lower body) was working off to the side with a trainer during Wednesday's practice, Brian Wacker of The Baltimore Sun reports.",
+      "metadata": {
+        "analysis": "After appearing to participate fully Tuesday, Flowers' side work Wednesday suggests Baltimore could be managing his reps heading into Week 1. His official participation level on the Ravens' injury report will provide the clearest read on his availability for Sunday's game at Indianapolis, but there's been no indication Flowers is in any danger of missing the season opener.",
+        "description": "Flowers (lower body) was working off to the side with a trainer during Wednesday's practice, Brian Wacker of The Baltimore Sun reports.",
+        "title": "Zay Flowers - Works off to side Wednesday",
+        "topic_id": "1403464137152999424"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1788974115000,
+      "source": "rotowire",
+      "source_key": "636467",
+      "story_id": "nfl|9997|rotowire|636467|1788974115000",
+      "title": "Zay Flowers - Works off to side Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "Higgins has been dealing with a bruised heel, but there's been nothing to suggest he's in any real danger of missing Week 1. As is the case most weeks, Higgins is a fantasy WR2 with WR1 upside in the Bengals' elite passing offense.",
+      "description": "Coach Zac Taylor said Wednesday he \"feels good\" about Higgins' (heel) chances of playing Sunday against Tampa Bay, Jay Morrison of SI.com reports.",
+      "metadata": {
+        "analysis": "Higgins has been dealing with a bruised heel, but there's been nothing to suggest he's in any real danger of missing Week 1. As is the case most weeks, Higgins is a fantasy WR2 with WR1 upside in the Bengals' elite passing offense.",
+        "description": "Coach Zac Taylor said Wednesday he \"feels good\" about Higgins' (heel) chances of playing Sunday against Tampa Bay, Jay Morrison of SI.com reports.",
+        "title": "Tee Higgins - On track for Week 1",
+        "topic_id": "1403464137132027904"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6801",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "published": 1788974040000,
+      "source": "rotowire",
+      "source_key": "636466",
+      "story_id": "nfl|6801|rotowire|636466|1788974040000",
+      "title": "Tee Higgins - On track for Week 1",
+      "url": null
+    },
+    {
+      "analysis": "Chase limped off the field late last month with a left knee injury, but there's been nothing to suggest he's in any real danger of missing the season opener versus Tampa Bay. In a potential shootout with the Bucs, Chase is looking like the premier wide receiver play on the board for Week 1 in fantasy.",
+      "description": "Coach Zac Taylor said Wednesday he \"feels good\" about Chase (knee) playing Sunday against the Bucs, Jay Morrison of SI.com reports.",
+      "metadata": {
+        "analysis": "Chase limped off the field late last month with a left knee injury, but there's been nothing to suggest he's in any real danger of missing the season opener versus Tampa Bay. In a potential shootout with the Bucs, Chase is looking like the premier wide receiver play on the board for Week 1 in fantasy.",
+        "description": "Coach Zac Taylor said Wednesday he \"feels good\" about Chase (knee) playing Sunday against the Bucs, Jay Morrison of SI.com reports.",
+        "title": "Ja'Marr Chase - Trending toward playing Week 1",
+        "topic_id": "1403462879067320320"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1788973918000,
+      "source": "rotowire",
+      "source_key": "636465",
+      "story_id": "nfl|7564|rotowire|636465|1788973918000",
+      "title": "Ja'Marr Chase - Trending toward playing Week 1",
+      "url": null
+    },
     {
       "analysis": "Chase has been recovering from a minor knee injury for several weeks at this point, but it is not considered a serious issue and he is on track to play through it against the Buccaneers on Sunday. Assuming he's active for the season opener, fantasy managers should have no hesitations about starting him and viewing him as a top-tier fantasy asset moving forward.",
       "description": "Ja'Marr Chase (knee) is on track to play in Sunday's game against the Tampa Bay Buccaneers.",
@@ -265,6 +346,46 @@
       "story_id": "nfl|12514|rotowire|636460|1788970341000",
       "title": "Emeka Egbuka - Looks to be practicing fully Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Denver Broncos released their first unofficial depth chart on Wednesday ahead of their Week 1 season opener on Monday night against the division-rival Kansas City Chiefs, and running back J.K. Dobbins was listed as the team's RB1, according to Parker Gabriel of The Denver Post. Dobbins, who has a lengthy injury history in the NFL and suffered a season-ending foot injury in 2025 in his first year with Denver, is fully healthy entering Week 1 and received positive reviews during training camp this summer. The 27-year-old is set up to be the team's primary early-down option in the backfield in an offense that is rising under head coach Sean Payton and new coordinator Davis Webb. However, second-year back RJ Harvey should be the primary passing-down weapon, and rookie Jonah Coleman will be involved as well as the between-the-tackles backup to Dobbins. In 10 games last year before getting hurt, Dobbins was averaging 5.0 yards per carry for 772 yards and four touchdowns on 153 rushing attempts, and if he can stay healthy in 2026, he should be a solid weekly RB3/flex option for fantasy managers, including in Week 1 versus KC.",
+      "metadata": {
+        "description": "The Denver Broncos released their first unofficial depth chart on Wednesday ahead of their Week 1 season opener on Monday night against the division-rival Kansas City Chiefs, and running back J.K. Dobbins was listed as the team's RB1, according to Parker Gabriel of The Denver Post. Dobbins, who has a lengthy injury history in the NFL and suffered a season-ending foot injury in 2025 in his first year with Denver, is fully healthy entering Week 1 and received positive reviews during training camp this summer. The 27-year-old is set up to be the team's primary early-down option in the backfield in an offense that is rising under head coach Sean Payton and new coordinator Davis Webb. However, second-year back RJ Harvey should be the primary passing-down weapon, and rookie Jonah Coleman will be involved as well as the between-the-tackles backup to Dobbins. In 10 games last year before getting hurt, Dobbins was averaging 5.0 yards per carry for 772 yards and four touchdowns on 153 rushing attempts, and if he can stay healthy in 2026, he should be a solid weekly RB3/flex option for fantasy managers, including in Week 1 versus KC.",
+        "title": "J.K. Dobbins Listed as RB1 on Broncos' Depth Chart",
+        "topic_id": "1403464135076806656",
+        "url": "https://www.rotoballer.com/player-news/j-k-dobbins-listed-as-rb1-on-broncos-depth-chart/1926858"
+      },
+      "nfl_team": "DEN",
+      "player_id": "6806",
+      "player_name": "J.K. Dobbins",
+      "position": "RB",
+      "published": 1788959601000,
+      "source": "rotoballer",
+      "source_key": "220438",
+      "story_id": "nfl|6806|rotoballer|220438|1788959601000",
+      "title": "J.K. Dobbins Listed as RB1 on Broncos' Depth Chart",
+      "url": "https://www.rotoballer.com/player-news/j-k-dobbins-listed-as-rb1-on-broncos-depth-chart/1926858"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers head coach Kyle Shanahan said that the team will monitor the playing time for tight end George Kittle (Achilles) in the Week 1 season opener in Melbourne, Australia, on Thursday against the division-rival Los Angeles Rams, according to Matt Maiocco of NBC Sports. \"We got to be smart with that,\" Shanahan said. Kittle was listed as limited in Tuesday's practice in Australia as he comes back from a torn Achilles tendon in last year's postseason. The 32-year-old veteran traveled with the team and is in line to play on Thursday, but he could be facing limited offensive snaps, which will make him highly volatile in fantasy football to kick things off. It does not mean that Kittle cannot still be valuable for his red-zone prowess, but there will be much more risk. Jake Tonges could be a sneaky deep-league streamer in Week 1 if Kittle's reps are managed against the Rams. Fantasy managers should view Kittle as more of a low-end TE2 option in starting lineups for Week 1.",
+      "metadata": {
+        "description": "San Francisco 49ers head coach Kyle Shanahan said that the team will monitor the playing time for tight end George Kittle (Achilles) in the Week 1 season opener in Melbourne, Australia, on Thursday against the division-rival Los Angeles Rams, according to Matt Maiocco of NBC Sports. \"We got to be smart with that,\" Shanahan said. Kittle was listed as limited in Tuesday's practice in Australia as he comes back from a torn Achilles tendon in last year's postseason. The 32-year-old veteran traveled with the team and is in line to play on Thursday, but he could be facing limited offensive snaps, which will make him highly volatile in fantasy football to kick things off. It does not mean that Kittle cannot still be valuable for his red-zone prowess, but there will be much more risk. Jake Tonges could be a sneaky deep-league streamer in Week 1 if Kittle's reps are managed against the Rams. Fantasy managers should view Kittle as more of a low-end TE2 option in starting lineups for Week 1.",
+        "title": "49ers to Monitor Playing Time for George Kittle in Week 1",
+        "topic_id": "1403462876387135488",
+        "url": "https://www.rotoballer.com/player-news/49ers-to-monitor-playing-time-for-george-kittle-in-week-1/1926854"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788959238000,
+      "source": "rotoballer",
+      "source_key": "220437",
+      "story_id": "nfl|4217|rotoballer|220437|1788959238000",
+      "title": "49ers to Monitor Playing Time for George Kittle in Week 1",
+      "url": "https://www.rotoballer.com/player-news/49ers-to-monitor-playing-time-for-george-kittle-in-week-1/1926854"
     },
     {
       "analysis": null,
