@@ -2,19 +2,31 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2404**
+- Stored stories: **2407**
 - Newly captured: **4**
 
 ## Latest news
 
-- **NEW — George Kittle** — George Kittle (Achilles) limited again Wednesday (2026-09-09T23:10:48.191000Z)
+- **NEW — Keaton Mitchell** — Keaton Mitchell (hamstring) limited participant Wednesday (2026-09-09T23:20:48.599000Z)
+  - Mitchell was sidelined for a while as he dealt with a hamstring injury, but he was able to practice in a limited fashion on Wednesday. He will have a chance to play in Week 1, but even if he's active, he's not expected to play more than a depth role for the Chargers in their matchup against the Cardinals.
+  - Source: https://www.fantasypros.com/nfl/news/606822/keaton-mitchell-hamstring-limited-participant-wednesday.php
+- **NEW — Josh Downs** — Josh Downs (calf) without injury designation for Sunday (2026-09-09T23:20:48.584000Z)
+  - Downs is not listed on Indianapolis' injury report heading into Week 1, meaning that his calf injury is no longer an issue and that he should be at full health at this point. Indianapolis' distribution of targets should be something fantasy managers keep a close eye on this weekend, but the 25-year old isn't projected to be a strong fantasy asset on his own to start the season.
+  - Source: https://www.fantasypros.com/nfl/news/606823/josh-downs-calf-without-injury-designation-sunday.php
+- **NEW — Wan'Dale Robinson** — Wan'Dale Robinson (head) off injury report for Week 1 (2026-09-09T23:20:48.570000Z)
+  - As expected, Robinson's head injury is no longer an issue and he carries no injury designation heading into Week 1. He should be a full go against the Jets and projects to be a worthwhile streaming option in PPR formats.
+  - Source: https://www.fantasypros.com/nfl/news/606824/wandale-robinson-head-off-injury-report-week-1.php
+- **NEW — Theo Johnson** — Theo Johnson (shoulder) logs full practice Wednesday (2026-09-09T23:20:48.556000Z)
+  - It looks like the Giants will have Johnson available to play for them on Sunday, as he was able to log a full practice to start the week on Wednesday. He won't carry any fantasy value himself but should serve as a nice depth option for Jaxson Dart moving forward.
+  - Source: https://www.fantasypros.com/nfl/news/606825/theo-johnson-shoulder-logs-full-practice-wednesday.php
+- **George Kittle** — George Kittle (Achilles) limited again Wednesday (2026-09-09T23:10:48.191000Z)
   - The star tight end was once again limited at practice on Wednesday. He seems to have a good chance to play on Thursday night, but he will probably be limited even if active. The team's official injury report should shed more light on his status when it comes out.
   - Source: https://www.fantasypros.com/nfl/news/606820/george-kittle-achilles-limited-again-wednesday.php
-- **NEW — Eli Stowers** — Eli Stowers - Limited to open Week 1 prep (2026-09-09T23:09:30Z)
+- **Eli Stowers** — Eli Stowers - Limited to open Week 1 prep (2026-09-09T23:09:30Z)
   - The rookie second-rounder has been working through a hamstring injury since the tail end of training camp, which prevented him from playing in the Eagles' preseason finale against the Bengals on Aug. 28. Stowers will have two more opportunities to increase his practice participation and avoid an injury designation for Sunday's regular-season opener against the Commanders. The Vanderbilt product figures to operate in a depth role at tight end this season behind Dallas Goedert, with Johnny Mundt and E.J. Jenkins also in the mix for snaps on offense.
-- **NEW — Jalen Milroe** — Jalen Milroe - Emergency QB for Wednesday night (2026-09-09T23:07:08Z)
+- **Jalen Milroe** — Jalen Milroe - Emergency QB for Wednesday night (2026-09-09T23:07:08Z)
   - Milroe is the No. 3 quarterback behind Sam Darnold and Drew Lock. The second-year player is already settling into what will likely be his weekly role throughout the 2026 season, set to only check in to the game if both quarterbacks are unable to continue playing.
-- **NEW — Tory Horton** — Tory Horton - Inactive for opener (2026-09-09T23:04:59Z)
+- **Tory Horton** — Tory Horton - Inactive for opener (2026-09-09T23:04:59Z)
   - The 2025 fifth-rounder was not able to recover from his hamstring injury in time for the Seahawks' Week 1 contest. Montorie Foster will take over as the No. 4 wide receiver behind Jaxon Smith-Njigba, Rashid Shaheed and Cooper Kupp for the contest.
 - **Tee Higgins** — Tee Higgins (foot) fully participates in practice Wednesday (2026-09-09T22:55:48.305000Z)
   - Higgins is still listed on Cincinnati's injury report due to a nagging foot injury, but it's not a serious issue at this point and he was able to log a full practice session on Wednesday. He should be good to go for Week 1 and projects to be a good fantasy option against the Buccaneers.
@@ -239,12 +251,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Nabers was first in line to go through wideout drills, according to Hughes, and it appeared as if he's ready to go for Sunday night's Week 1 opener against Dallas. It's unclear if Nabers will play his full snap allotment against the Cowboys, so Nabers is looking more like a fantasy WR2 with obvious upside in what would be his first game back from a torn ACL.
 - **Tucker Kraft** — Tucker Kraft - In full pads Wednesday (2026-09-09T17:48:17Z)
   - Kraft has been in full pads at practice for weeks now and appears ready to go for Sunday's Week 1 opener against the Vikings. He's insisted he's ready and doesn't need to be on a snap count, but it will be something to watch Sunday in Kraft's first game back from a torn ACL. Even if he's somewhat limited, Kraft is a locked-in fantasy TE1.
-- **Rachaad White** — Rachaad White (hamstring) set to practice Wednesday (2026-09-09T17:20:35.832000Z)
-  - White's status for Week 1 is still unclear right now thanks to a hamstring injury that he's still dealing with. He is taking part in Wednesday's practice, however, which is a step in the right direction for him. Fantasy managers should pay attention to updates about his health throughout the week, as Jacory Croskey-Merritt will be a significantly better fantasy option if the veteran is sidelined this week.
-  - Source: https://www.fantasypros.com/nfl/news/606734/rachaad-white-hamstring-set-to-practice-wednesday.php
-- **Jeremiyah Love** — Jeremiyah Love to Practice Wednesday, Still TBD for Week 1 (2026-09-09T17:17:06Z)
-  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-to-practice-wednesday-still-tbd-for-week-1/1927112
-- **Zay Flowers** — Zay Flowers - Works off to side Wednesday (2026-09-09T17:15:15Z)
-  - After appearing to participate fully Tuesday, Flowers' side work Wednesday suggests Baltimore could be managing his reps heading into Week 1. His official participation level on the Ravens' injury report will provide the clearest read on his availability for Sunday's game at Indianapolis, but there's been no indication Flowers is in any danger of missing the season opener.
-- **Tee Higgins** — Tee Higgins - On track for Week 1 (2026-09-09T17:14:00Z)
-  - Higgins has been dealing with a bruised heel, but there's been nothing to suggest he's in any real danger of missing Week 1. As is the case most weeks, Higgins is a fantasy WR2 with WR1 upside in the Bengals' elite passing offense.

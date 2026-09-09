@@ -1,12 +1,12 @@
 {
-  "last_checked_at": "2026-09-09T23:16:32Z",
+  "last_checked_at": "2026-09-09T23:29:32Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|12497|rotowire|636548|1788995099000",
-    "nfl|12510|rotowire|636550|1788995228000",
-    "nfl|13349|rotowire|636552|1788995370000",
-    "nfl|4217|fantasy_pros|606820|1788995448191"
+    "nfl|11597|fantasy_pros|606825|1788996048556",
+    "nfl|8126|fantasy_pros|606824|1788996048570",
+    "nfl|9500|fantasy_pros|606823|1788996048584",
+    "nfl|9511|fantasy_pros|606822|1788996048599"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +16,90 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Mitchell was sidelined for a while as he dealt with a hamstring injury, but he was able to practice in a limited fashion on Wednesday. He will have a chance to play in Week 1, but even if he's active, he's not expected to play more than a depth role for the Chargers in their matchup against the Cardinals.",
+      "description": "Keaton Mitchell (hamstring) was a limited participant at practice on Wednesday.",
+      "metadata": {
+        "analysis": "Mitchell was sidelined for a while as he dealt with a hamstring injury, but he was able to practice in a limited fashion on Wednesday. He will have a chance to play in Week 1, but even if he's active, he's not expected to play more than a depth role for the Chargers in their matchup against the Cardinals.",
+        "description": "Keaton Mitchell (hamstring) was a limited participant at practice on Wednesday.",
+        "title": "Keaton Mitchell (hamstring) limited participant Wednesday",
+        "topic_id": "1403554792386658304",
+        "url": "https://www.fantasypros.com/nfl/news/606822/keaton-mitchell-hamstring-limited-participant-wednesday.php"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1788996048599,
+      "source": "fantasy_pros",
+      "source_key": "606822",
+      "story_id": "nfl|9511|fantasy_pros|606822|1788996048599",
+      "title": "Keaton Mitchell (hamstring) limited participant Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606822/keaton-mitchell-hamstring-limited-participant-wednesday.php"
+    },
+    {
+      "analysis": "Downs is not listed on Indianapolis' injury report heading into Week 1, meaning that his calf injury is no longer an issue and that he should be at full health at this point. Indianapolis' distribution of targets should be something fantasy managers keep a close eye on this weekend, but the 25-year old isn't projected to be a strong fantasy asset on his own to start the season.",
+      "description": "Josh Downs (calf) is without an injury designation for Sunday's game against the Baltimore Ravens.",
+      "metadata": {
+        "analysis": "Downs is not listed on Indianapolis' injury report heading into Week 1, meaning that his calf injury is no longer an issue and that he should be at full health at this point. Indianapolis' distribution of targets should be something fantasy managers keep a close eye on this weekend, but the 25-year old isn't projected to be a strong fantasy asset on his own to start the season.",
+        "description": "Josh Downs (calf) is without an injury designation for Sunday's game against the Baltimore Ravens.",
+        "title": "Josh Downs (calf) without injury designation for Sunday",
+        "topic_id": "1403554792323743744",
+        "url": "https://www.fantasypros.com/nfl/news/606823/josh-downs-calf-without-injury-designation-sunday.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "9500",
+      "player_name": "Josh Downs",
+      "position": "WR",
+      "published": 1788996048584,
+      "source": "fantasy_pros",
+      "source_key": "606823",
+      "story_id": "nfl|9500|fantasy_pros|606823|1788996048584",
+      "title": "Josh Downs (calf) without injury designation for Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/606823/josh-downs-calf-without-injury-designation-sunday.php"
+    },
+    {
+      "analysis": "As expected, Robinson's head injury is no longer an issue and he carries no injury designation heading into Week 1. He should be a full go against the Jets and projects to be a worthwhile streaming option in PPR formats.",
+      "description": "Wan'Dale Robinson (head) is off of the injury report ahead of Week 1's matchup against the New York Jets.",
+      "metadata": {
+        "analysis": "As expected, Robinson's head injury is no longer an issue and he carries no injury designation heading into Week 1. He should be a full go against the Jets and projects to be a worthwhile streaming option in PPR formats.",
+        "description": "Wan'Dale Robinson (head) is off of the injury report ahead of Week 1's matchup against the New York Jets.",
+        "title": "Wan'Dale Robinson (head) off injury report for Week 1",
+        "topic_id": "1403554792260829184",
+        "url": "https://www.fantasypros.com/nfl/news/606824/wandale-robinson-head-off-injury-report-week-1.php"
+      },
+      "nfl_team": "TEN",
+      "player_id": "8126",
+      "player_name": "Wan'Dale Robinson",
+      "position": "WR",
+      "published": 1788996048570,
+      "source": "fantasy_pros",
+      "source_key": "606824",
+      "story_id": "nfl|8126|fantasy_pros|606824|1788996048570",
+      "title": "Wan'Dale Robinson (head) off injury report for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606824/wandale-robinson-head-off-injury-report-week-1.php"
+    },
+    {
+      "analysis": "It looks like the Giants will have Johnson available to play for them on Sunday, as he was able to log a full practice to start the week on Wednesday. He won't carry any fantasy value himself but should serve as a nice depth option for Jaxson Dart moving forward.",
+      "description": "Theo Johnson (shoulder) logged a full practice session on Wednesday.",
+      "metadata": {
+        "analysis": "It looks like the Giants will have Johnson available to play for them on Sunday, as he was able to log a full practice to start the week on Wednesday. He won't carry any fantasy value himself but should serve as a nice depth option for Jaxson Dart moving forward.",
+        "description": "Theo Johnson (shoulder) logged a full practice session on Wednesday.",
+        "title": "Theo Johnson (shoulder) logs full practice Wednesday",
+        "topic_id": "1403554792206303232",
+        "url": "https://www.fantasypros.com/nfl/news/606825/theo-johnson-shoulder-logs-full-practice-wednesday.php"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11597",
+      "player_name": "Theo Johnson",
+      "position": "TE",
+      "published": 1788996048556,
+      "source": "fantasy_pros",
+      "source_key": "606825",
+      "story_id": "nfl|11597|fantasy_pros|606825|1788996048556",
+      "title": "Theo Johnson (shoulder) logs full practice Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606825/theo-johnson-shoulder-logs-full-practice-wednesday.php"
+    },
     {
       "analysis": "The star tight end was once again limited at practice on Wednesday. He seems to have a good chance to play on Thursday night, but he will probably be limited even if active. The team's official injury report should shed more light on his status when it comes out.",
       "description": "George Kittle (Achilles) was limited at practice again on Wednesday.",
@@ -48335,26 +48419,6 @@
       "story_id": "nfl|421|rotoballer|218336|1786405926000",
       "title": "Davante Adams Gaining More Chemistry With Veteran QB",
       "url": "https://www.rotoballer.com/player-news/matthew-stafford-and-davante-adams-gaining-more-chemistry/1906702"
-    },
-    {
-      "analysis": null,
-      "description": "Minnesota Vikings head coach Kevin O'Connell said on Monday that wide receiver Jordan Addison (thumb) will be \"close to full participation\" in the team's night practice, according to Ben Goessling of the Minneapolis Star Tribune. Addison has been dealing with a minor thumb injury in training camp that has kept him out of practices recently, but the 24-year-old should be a full-go sooner rather than later. The former 23rd overall pick in 2023 from USC struggled with injuries and consistency amidst the Vikings' issues at the quarterback position last year, ultimately finishing with career lows across the board in catches (42), targets (79), receiving yards (610), and touchdowns (three) in 14 games played. It's unclear who will win the QB competition in camp between veteran Kyler Murray and J.J. McCarthy, but it's notable that Addison spent extended time working with Murray in the offseason as he looks to bounce back in 2026. Addison will continue to operate in the shadow of All-Pro Justin Jefferson, but with Murray trending toward starting in Minnesota, Addison will have some intriguing value in fantasy drafts this year with a WR3/flex price tag.",
-      "metadata": {
-        "description": "Minnesota Vikings head coach Kevin O'Connell said on Monday that wide receiver Jordan Addison (thumb) will be \"close to full participation\" in the team's night practice, according to Ben Goessling of the Minneapolis Star Tribune. Addison has been dealing with a minor thumb injury in training camp that has kept him out of practices recently, but the 24-year-old should be a full-go sooner rather than later. The former 23rd overall pick in 2023 from USC struggled with injuries and consistency amidst the Vikings' issues at the quarterback position last year, ultimately finishing with career lows across the board in catches (42), targets (79), receiving yards (610), and touchdowns (three) in 14 games played. It's unclear who will win the QB competition in camp between veteran Kyler Murray and J.J. McCarthy, but it's notable that Addison spent extended time working with Murray in the offseason as he looks to bounce back in 2026. Addison will continue to operate in the shadow of All-Pro Justin Jefferson, but with Murray trending toward starting in Minnesota, Addison will have some intriguing value in fantasy drafts this year with a WR3/flex price tag.",
-        "title": "Jordan Addison Close to Full Participation Following Thumb Injury",
-        "topic_id": "1392744746681630720",
-        "url": "https://www.rotoballer.com/player-news/jordan-addison-close-to-full-participation-following-thumb-injury/1906677"
-      },
-      "nfl_team": "MIN",
-      "player_id": "9756",
-      "player_name": "Jordan Addison",
-      "position": "WR",
-      "published": 1786404005000,
-      "source": "rotoballer",
-      "source_key": "218329",
-      "story_id": "nfl|9756|rotoballer|218329|1786404005000",
-      "title": "Jordan Addison Close to Full Participation Following Thumb Injury",
-      "url": "https://www.rotoballer.com/player-news/jordan-addison-close-to-full-participation-following-thumb-injury/1906677"
     }
   ]
 }
