@@ -2,22 +2,38 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2261**
-- Newly captured: **1**
+- Stored stories: **2268**
+- Newly captured: **7**
 
 ## Latest news
 
-- **NEW — Parker Washington** — Parker Washington's Breakout May Be Just Getting Started (2026-09-09T11:55:05Z)
+- **NEW — Jalen McMillan** — Jalen McMillan (knee) participating at practice Wednesday (2026-09-09T16:25:36.108000Z)
+  - McMillan is taking part in Tampa Bay's first official practice of the week on Wednesday. He was sidelined for part of the offseason due to a knee injury, but he seems to be nearly full health at this point and looks likely to play in Week 1. We should learn more when the team's official injury report comes out after practice.
+  - Source: https://www.fantasypros.com/nfl/news/606721/jalen-mcmillan-knee-participating-practice-wednesday.php
+- **NEW — Jalen McMillan** — Jalen McMillan - Seems to be full practice participant (2026-09-09T16:20:05Z)
+  - Tampa Bay will release its first injury report of the season following Wednesday's session, when it will be known whether McMillan was in fact a full participant or limited in some capacity. Even a limited listing would still put McMillan in a strong position to play in Sunday's season opener versus the Bengals, after a sore knee as well as a left calf injury kept him off the field for much of training camp. McMillan projects to begin the season as Tampa Bay's No. 3 receiver behind Emeka Egbuka (toe) and Chris Godwin.
+- **NEW — Emeka Egbuka** — Emeka Egbuka (toe) seen practicing Wednesday (2026-09-09T16:15:35.994000Z)
+  - Egbuka has been dealing with a nagging toe injury for several weeks, but he was seen practicing with the Buccaneers on Wednesday ahead of their season opener against the Bengals on Sunday. That's a good sign for his health heading into Week 1, but fantasy managers should keep tabs on further updates about his health in the coming days to see whether or not he will be fully healthy for the first game of the season.
+  - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
+- **NEW — Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
+  - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
+- **NEW — Marvin Mims** — Marvin Mims Jr. Joins Broncos' Starting Receiver Trio (2026-09-09T12:18:06Z)
+  - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-joins-broncos-starting-receiver-trio/1926797
+- **NEW — Luther Burden** — Luther Burden III Appears Healthy Ahead of Week 1 (2026-09-09T12:13:06Z)
+  - Source: https://www.rotoballer.com/player-news/luther-burden-iii-praised-by-coaches-throughout-camp-appears-healthy-ahead-of-week-1/1926792
+- **NEW — Tank Bigsby** — Tank Bigsby Belongs Among Fantasy's Elite Handcuffs (2026-09-09T12:05:05Z)
+  - Source: https://www.rotoballer.com/player-news/tank-bigsby-belongs-among-fantasys-elite-handcuffs/1926778
+- **Parker Washington** — Parker Washington's Breakout May Be Just Getting Started (2026-09-09T11:55:05Z)
   - Source: https://www.rotoballer.com/player-news/parker-washingtons-breakout-may-be-just-getting-started/1926762
 - **Matthew Golden** — Matthew Golden Steps Into Bigger Role in Year 2 (2026-09-09T11:34:58Z)
   - Source: https://www.rotoballer.com/player-news/matthew-golden-steps-into-bigger-role-in-year-2/1926734
-- **Jonah Coleman** — Jonah Coleman Earns Praise of Coaches, Could be a Late-Season League Winner (2026-09-09T11:09:05Z)
+- **Jonah Coleman** — Jonah Coleman Could be a Late-Season League-Winner (2026-09-09T11:09:05Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-earns-praise-of-coaches-could-be-a-late-season-league-winner/1926704
 - **AJ Barner** — AJ Barner Could Have a Larger Role After Strong Camp (2026-09-09T10:47:06Z)
   - Source: https://www.rotoballer.com/player-news/aj-barner-could-have-a-larger-role-after-strong-camp/1926692
-- **Chris Rodriguez** — Chris Rodriguez Jr. Emerging as Key Part of Backfield Despite Buzz Around Teammate (2026-09-09T10:39:05Z)
+- **Chris Rodriguez** — Chris Rodriguez Jr. Emerging as Key Part of Backfield (2026-09-09T10:39:05Z)
   - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-emerging-as-key-part-of-backfield-despite-buzz-around-teammate/1926678
-- **Rashid Shaheed** — Rashid Shaheed Could Emerge as Key Part of Offense After Very Positive Camp (2026-09-09T10:32:06Z)
+- **Rashid Shaheed** — Rashid Shaheed Could Emerge as Key Part of Offense (2026-09-09T10:32:06Z)
   - Source: https://www.rotoballer.com/player-news/rashid-shaheed-could-emerge-as-key-part-of-offense-after-very-positive-camp/1926672
 - **MarShawn Lloyd** — Marshawn Lloyd Ready to Lead the Packers Backfield (2026-09-09T10:25:05Z)
   - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-ready-to-lead-the-packers-backfield/1926667
@@ -205,17 +221,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-gets-a-boost-from-cardinals-depth-chart/1926079
 - **Jeremiyah Love** — Jeremiyah Love Listed as RB2 on Cardinals' Depth Chart (2026-09-08T15:02:06Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-listed-as-rb2-on-cardinals-depth-chart/1926066
-- **Cam Skattebo** — Cam Skattebo Listed as Top Giants Running Back (2026-09-08T14:21:15Z)
-  - Source: https://www.rotoballer.com/player-news/cam-skattebo-listed-as-top-giants-running-back/1926038
-- **Kayshon Boutte** — Texans Have "Big Plans" for Kayshon Boutte (2026-09-08T14:14:05Z)
-  - Source: https://www.rotoballer.com/player-news/texans-have-big-plans-for-kayshon-boutte/1926030
-- **Kenyon Sadiq** — Kenyon Sadiq Worth a Waiver Stash as his Health Improves (2026-09-08T14:04:05Z)
-  - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-worth-a-waiver-stash-as-his-health-improves/1926022
-- **Zay Flowers** — Zay Flowers Goes Through Drills at "Full Strength" (2026-09-08T14:02:06Z)
-  - Source: https://www.rotoballer.com/player-news/zay-flowers-goes-through-drills-at-full-strength/1926020
-- **Patrick Mahomes** — Patrick Mahomes on Track to Start Week 1 (2026-09-08T13:37:07Z)
-  - Source: https://www.rotoballer.com/player-news/patrick-mahomes-on-track-to-start-week-1/1925999
-- **Rome Odunze** — Rome Odunze Won't Practice Tuesday, Bears "Hopeful" for Week 1 (2026-09-08T13:25:05Z)
-  - Source: https://www.rotoballer.com/player-news/rome-odunze-wont-practice-tuesday-bears-hopeful-for-week-1/1925989
-- **Jalen McMillan** — Jalen McMillan Listed as Starting Receiver for the Bucs (2026-09-08T13:07:06Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-mcmillan-listed-as-starting-receiver-for-the-bucs/1925981

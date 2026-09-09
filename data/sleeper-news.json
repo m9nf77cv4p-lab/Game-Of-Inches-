@@ -1,9 +1,15 @@
 {
-  "last_checked_at": "2026-09-09T16:10:40Z",
+  "last_checked_at": "2026-09-09T16:29:04Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|9487|rotoballer|220429|1788954905000"
+    "nfl|11618|fantasy_pros|606721|1788971136108",
+    "nfl|11618|rotowire|636461|1788970805000",
+    "nfl|12514|fantasy_pros|606720|1788970535994",
+    "nfl|12514|rotowire|636460|1788970341000",
+    "nfl|12519|rotoballer|220431|1788955986000",
+    "nfl|9225|rotoballer|220430|1788955505000",
+    "nfl|9494|rotoballer|220432|1788956286000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +19,148 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "McMillan is taking part in Tampa Bay's first official practice of the week on Wednesday. He was sidelined for part of the offseason due to a knee injury, but he seems to be nearly full health at this point and looks likely to play in Week 1. We should learn more when the team's official injury report comes out after practice.",
+      "description": "Jalen McMillan (knee) is participating at Tampa Bay's practice on Wednesday.",
+      "metadata": {
+        "analysis": "McMillan is taking part in Tampa Bay's first official practice of the week on Wednesday. He was sidelined for part of the offseason due to a knee injury, but he seems to be nearly full health at this point and looks likely to play in Week 1. We should learn more when the team's official injury report comes out after practice.",
+        "description": "Jalen McMillan (knee) is participating at Tampa Bay's practice on Wednesday.",
+        "title": "Jalen McMillan (knee) participating at practice Wednesday",
+        "topic_id": "1403450301821755392",
+        "url": "https://www.fantasypros.com/nfl/news/606721/jalen-mcmillan-knee-participating-practice-wednesday.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1788971136108,
+      "source": "fantasy_pros",
+      "source_key": "606721",
+      "story_id": "nfl|11618|fantasy_pros|606721|1788971136108",
+      "title": "Jalen McMillan (knee) participating at practice Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606721/jalen-mcmillan-knee-participating-practice-wednesday.php"
+    },
+    {
+      "analysis": "Tampa Bay will release its first injury report of the season following Wednesday's session, when it will be known whether McMillan was in fact a full participant or limited in some capacity. Even a limited listing would still put McMillan in a strong position to play in Sunday's season opener versus the Bengals, after a sore knee as well as a left calf injury kept him off the field for much of training camp. McMillan projects to begin the season as Tampa Bay's No. 3 receiver behind Emeka Egbuka (toe) and Chris Godwin.",
+      "description": "McMillan (knee) appeared to be a full participant in the portion of Wednesday's practice that was open to the media, Greg Auman of Fox Sports reports.",
+      "metadata": {
+        "analysis": "Tampa Bay will release its first injury report of the season following Wednesday's session, when it will be known whether McMillan was in fact a full participant or limited in some capacity. Even a limited listing would still put McMillan in a strong position to play in Sunday's season opener versus the Bengals, after a sore knee as well as a left calf injury kept him off the field for much of training camp. McMillan projects to begin the season as Tampa Bay's No. 3 receiver behind Emeka Egbuka (toe) and Chris Godwin.",
+        "description": "McMillan (knee) appeared to be a full participant in the portion of Wednesday's practice that was open to the media, Greg Auman of Fox Sports reports.",
+        "title": "Jalen McMillan - Seems to be full practice participant",
+        "topic_id": "1403450294938976256"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1788970805000,
+      "source": "rotowire",
+      "source_key": "636461",
+      "story_id": "nfl|11618|rotowire|636461|1788970805000",
+      "title": "Jalen McMillan - Seems to be full practice participant",
+      "url": null
+    },
+    {
+      "analysis": "Egbuka has been dealing with a nagging toe injury for several weeks, but he was seen practicing with the Buccaneers on Wednesday ahead of their season opener against the Bengals on Sunday. That's a good sign for his health heading into Week 1, but fantasy managers should keep tabs on further updates about his health in the coming days to see whether or not he will be fully healthy for the first game of the season.",
+      "description": "Emeka Egbuka (toe) was seen practicing for the Buccaneers on Wednesday.",
+      "metadata": {
+        "analysis": "Egbuka has been dealing with a nagging toe injury for several weeks, but he was seen practicing with the Buccaneers on Wednesday ahead of their season opener against the Bengals on Sunday. That's a good sign for his health heading into Week 1, but fantasy managers should keep tabs on further updates about his health in the coming days to see whether or not he will be fully healthy for the first game of the season.",
+        "description": "Emeka Egbuka (toe) was seen practicing for the Buccaneers on Wednesday.",
+        "title": "Emeka Egbuka (toe) seen practicing Wednesday",
+        "topic_id": "1403447784757018624",
+        "url": "https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1788970535994,
+      "source": "fantasy_pros",
+      "source_key": "606720",
+      "story_id": "nfl|12514|fantasy_pros|606720|1788970535994",
+      "title": "Emeka Egbuka (toe) seen practicing Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php"
+    },
+    {
+      "analysis": "Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.",
+      "description": "Egbuka (toe) was on the field for the start of Wednesday's practice and appeared to be a full participant, Greg Auman of Fox Sports reports.",
+      "metadata": {
+        "analysis": "Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.",
+        "description": "Egbuka (toe) was on the field for the start of Wednesday's practice and appeared to be a full participant, Greg Auman of Fox Sports reports.",
+        "title": "Emeka Egbuka - Looks to be practicing fully Wednesday",
+        "topic_id": "1403447777924554752"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1788970341000,
+      "source": "rotowire",
+      "source_key": "636460",
+      "story_id": "nfl|12514|rotowire|636460|1788970341000",
+      "title": "Emeka Egbuka - Looks to be practicing fully Wednesday",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Marvin Mims Jr. joins Jaylen Waddle and Courtland Sutton in the team's starting receiver group, according to Zac Stevens. Mims started only four games last season, finishing with 37 catches for 322 yards and one touchdown while adding 78 yards and another score on 12 carries. He did show more as a receiver during Denver's playoff run, catching 12 passes for 155 yards and a touchdown across two games. The Broncos still have plenty of competition for snaps and targets with Pat Bryant and Troy Franklin in the receiver room, so being listed as a starter doesn't guarantee Mims a major weekly workload. Still, his place alongside Sutton and Waddle is a positive sign for how Denver plans to use the fourth-year receiver when the season begins.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Marvin Mims Jr. joins Jaylen Waddle and Courtland Sutton in the team's starting receiver group, according to Zac Stevens. Mims started only four games last season, finishing with 37 catches for 322 yards and one touchdown while adding 78 yards and another score on 12 carries. He did show more as a receiver during Denver's playoff run, catching 12 passes for 155 yards and a touchdown across two games. The Broncos still have plenty of competition for snaps and targets with Pat Bryant and Troy Franklin in the receiver room, so being listed as a starter doesn't guarantee Mims a major weekly workload. Still, his place alongside Sutton and Waddle is a positive sign for how Denver plans to use the fourth-year receiver when the season begins.",
+        "title": "Marvin Mims Jr. Joins Broncos' Starting Receiver Trio",
+        "topic_id": "1403450292934053888",
+        "url": "https://www.rotoballer.com/player-news/marvin-mims-jr-joins-broncos-starting-receiver-trio/1926797"
+      },
+      "nfl_team": "DEN",
+      "player_id": "9494",
+      "player_name": "Marvin Mims",
+      "position": "WR",
+      "published": 1788956286000,
+      "source": "rotoballer",
+      "source_key": "220432",
+      "story_id": "nfl|9494|rotoballer|220432|1788956286000",
+      "title": "Marvin Mims Jr. Joins Broncos' Starting Receiver Trio",
+      "url": "https://www.rotoballer.com/player-news/marvin-mims-jr-joins-broncos-starting-receiver-trio/1926797"
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears wide receiver Luther Burden III (groin) was one of the most talked-about players in the early stages of training camp, seemingly making a highlight play every time he took the field. A groin injury suffered in early August caused him to miss a significant portion of camp, but by most accounts he has looked like the same explosive player since returning to practice more than a week ago, and all indications point to a full workload in the Bears' season opener against the Panthers on Sunday. Following the departure of veteran DJ Moore, Burden will compete with Rome Odunze and tight end Colston Loveland to see the most targets in what profiles as a high-ceiling Chicago offense, and after dominating on a per-route basis late in his rookie season, the second-year wideout with WR1 upside could see a hot start to the 2026 season.",
+      "metadata": {
+        "description": "Chicago Bears wide receiver Luther Burden III (groin) was one of the most talked-about players in the early stages of training camp, seemingly making a highlight play every time he took the field. A groin injury suffered in early August caused him to miss a significant portion of camp, but by most accounts he has looked like the same explosive player since returning to practice more than a week ago, and all indications point to a full workload in the Bears' season opener against the Panthers on Sunday. Following the departure of veteran DJ Moore, Burden will compete with Rome Odunze and tight end Colston Loveland to see the most targets in what profiles as a high-ceiling Chicago offense, and after dominating on a per-route basis late in his rookie season, the second-year wideout with WR1 upside could see a hot start to the 2026 season.",
+        "title": "Luther Burden III Appears Healthy Ahead of Week 1",
+        "topic_id": "1403449034135322624",
+        "url": "https://www.rotoballer.com/player-news/luther-burden-iii-praised-by-coaches-throughout-camp-appears-healthy-ahead-of-week-1/1926792"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12519",
+      "player_name": "Luther Burden",
+      "position": "WR",
+      "published": 1788955986000,
+      "source": "rotoballer",
+      "source_key": "220431",
+      "story_id": "nfl|12519|rotoballer|220431|1788955986000",
+      "title": "Luther Burden III Appears Healthy Ahead of Week 1",
+      "url": "https://www.rotoballer.com/player-news/luther-burden-iii-praised-by-coaches-throughout-camp-appears-healthy-ahead-of-week-1/1926792"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles running back Tank Bigsby belongs on the short list of backups who could become weekly fantasy starters with one depth-chart change. He is officially listed second behind Saquon Barkley, and we already got a look at what a bigger role can produce. When Barkley sat the 2025 regular-season finale, Bigsby ran 16 times for 75 yards and a touchdown and added a 31-yard catch. He was efficient throughout his first season in Philadelphia too, averaging 5.9 yards per carry on 58 attempts. There is more workload evidence from Jacksonville, where Bigsby handled 168 carries for 766 yards and seven touchdowns in 2024. None of this gives him much standalone value while Barkley is healthy. That's fine. The appeal is what happens if the opportunity changes. Bigsby has the size, efficiency and prior volume to step into a much larger role, and the current depth chart confirms he is the next man up.",
+      "metadata": {
+        "description": "Philadelphia Eagles running back Tank Bigsby belongs on the short list of backups who could become weekly fantasy starters with one depth-chart change. He is officially listed second behind Saquon Barkley, and we already got a look at what a bigger role can produce. When Barkley sat the 2025 regular-season finale, Bigsby ran 16 times for 75 yards and a touchdown and added a 31-yard catch. He was efficient throughout his first season in Philadelphia too, averaging 5.9 yards per carry on 58 attempts. There is more workload evidence from Jacksonville, where Bigsby handled 168 carries for 766 yards and seven touchdowns in 2024. None of this gives him much standalone value while Barkley is healthy. That's fine. The appeal is what happens if the opportunity changes. Bigsby has the size, efficiency and prior volume to step into a much larger role, and the current depth chart confirms he is the next man up.",
+        "title": "Tank Bigsby Belongs Among Fantasy's Elite Handcuffs",
+        "topic_id": "1403447776540360704",
+        "url": "https://www.rotoballer.com/player-news/tank-bigsby-belongs-among-fantasys-elite-handcuffs/1926778"
+      },
+      "nfl_team": "PHI",
+      "player_id": "9225",
+      "player_name": "Tank Bigsby",
+      "position": "RB",
+      "published": 1788955505000,
+      "source": "rotoballer",
+      "source_key": "220430",
+      "story_id": "nfl|9225|rotoballer|220430|1788955505000",
+      "title": "Tank Bigsby Belongs Among Fantasy's Elite Handcuffs",
+      "url": "https://www.rotoballer.com/player-news/tank-bigsby-belongs-among-fantasys-elite-handcuffs/1926778"
+    },
     {
       "analysis": null,
       "description": "Jacksonville Jaguars wide receiver Parker Washington was already starting to look like a breakout late last season, and nothing that happened this summer cooled it off. Washington led Jacksonville with 95 targets, 58 catches and 847 receiving yards in 2025, then went for 454 yards and three touchdowns over his final four games including the playoffs. He kept showing up in training camp too. Jacksonville's own observers repeatedly singled Washington out, while his chemistry with Trevor Lawrence looked noticeably stronger throughout the summer. There are still a lot of mouths to feed here. Brian Thomas Jr. and Jakobi Meyers are starting alongside him, with Travis Hunter still part of the offensive mix. Washington has already shown he can earn targets in that kind of environment, though. He enters Week 1 at WR27 in the current rankings and can be started against Cleveland, but the more interesting part is where his value goes from here. Washington has a legitimate chance to emerge as Jacksonville's top fantasy receiver if last year's finish carries over.",
@@ -58,7 +206,7 @@
       "description": "Denver Broncos running back Jonah Coleman has consistently earned the praise of coaches, teammates, and media throughout his first preseason in the NFL. The fourth-round pick out of Washington was already trending up as soon as the Broncos drafted him, and nothing has changed in the last few months. He continues to have massive upside in dynasty leagues after posting 3,496 scrimmage yards and 33 touchdowns over his last three years of school, and he's even rising up the rankings in redraft leagues. As it stands, Coleman is worthy of a roster spot in 12+ team leagues, despite the fact that he's third on the depth chart behind J.K. Dobbins and RJ Harvey. After the first few weeks of the season go by and Coleman gets more acclimated to the NFL, we fully expect him to carve out a meaningful role alongside Dobbins and Harvey. Just like we saw Harvey emerge as a fantasy league winner in the second half of the 2025 season, Coleman could do the same in 2026.",
       "metadata": {
         "description": "Denver Broncos running back Jonah Coleman has consistently earned the praise of coaches, teammates, and media throughout his first preseason in the NFL. The fourth-round pick out of Washington was already trending up as soon as the Broncos drafted him, and nothing has changed in the last few months. He continues to have massive upside in dynasty leagues after posting 3,496 scrimmage yards and 33 touchdowns over his last three years of school, and he's even rising up the rankings in redraft leagues. As it stands, Coleman is worthy of a roster spot in 12+ team leagues, despite the fact that he's third on the depth chart behind J.K. Dobbins and RJ Harvey. After the first few weeks of the season go by and Coleman gets more acclimated to the NFL, we fully expect him to carve out a meaningful role alongside Dobbins and Harvey. Just like we saw Harvey emerge as a fantasy league winner in the second half of the 2025 season, Coleman could do the same in 2026.",
-        "title": "Jonah Coleman Earns Praise of Coaches, Could be a Late-Season League Winner",
+        "title": "Jonah Coleman Could be a Late-Season League-Winner",
         "topic_id": "1403432645077020672",
         "url": "https://www.rotoballer.com/player-news/jonah-coleman-earns-praise-of-coaches-could-be-a-late-season-league-winner/1926704"
       },
@@ -70,7 +218,7 @@
       "source": "rotoballer",
       "source_key": "220424",
       "story_id": "nfl|13345|rotoballer|220424|1788952145000",
-      "title": "Jonah Coleman Earns Praise of Coaches, Could be a Late-Season League Winner",
+      "title": "Jonah Coleman Could be a Late-Season League-Winner",
       "url": "https://www.rotoballer.com/player-news/jonah-coleman-earns-praise-of-coaches-could-be-a-late-season-league-winner/1926704"
     },
     {
@@ -98,7 +246,7 @@
       "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. has emerged as a last-minute riser in fantasy football ahead of the start of the 2026 NFL season. The narrative for several months has been that Bhayshul Tuten would lead the Jags' backfield, and while that still might be the case, it's worth noting that the team's official depth chart lists Tuten and Rodriguez as sharing the No. 1 role. Perhaps we shouldn't be that surprised. After all, Tuten was the backup to Travis Etienne Jr. last year, so he hasn't handled a workhorse role yet. Additionally, there was plenty of buzz during the offseason that head coach Liam Coen expected big things from Rodriguez, whom he coached in college. The exact fantasy outlook for both of these backs remains a bit murky until we've seen how the backfield shakes out through the first game or two. For now, we'd view Tuten as a fringe RB2/RB3 and Rodriguez as a fringe RB3/RB4. That's still enough to get Rodriguez on the fantasy radar in 10+ team leagues, and he's a potential Week 1 flex for managers in 14+ team leagues, especially against a Browns defense that is trending down.",
       "metadata": {
         "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. has emerged as a last-minute riser in fantasy football ahead of the start of the 2026 NFL season. The narrative for several months has been that Bhayshul Tuten would lead the Jags' backfield, and while that still might be the case, it's worth noting that the team's official depth chart lists Tuten and Rodriguez as sharing the No. 1 role. Perhaps we shouldn't be that surprised. After all, Tuten was the backup to Travis Etienne Jr. last year, so he hasn't handled a workhorse role yet. Additionally, there was plenty of buzz during the offseason that head coach Liam Coen expected big things from Rodriguez, whom he coached in college. The exact fantasy outlook for both of these backs remains a bit murky until we've seen how the backfield shakes out through the first game or two. For now, we'd view Tuten as a fringe RB2/RB3 and Rodriguez as a fringe RB3/RB4. That's still enough to get Rodriguez on the fantasy radar in 10+ team leagues, and he's a potential Week 1 flex for managers in 14+ team leagues, especially against a Browns defense that is trending down.",
-        "title": "Chris Rodriguez Jr. Emerging as Key Part of Backfield Despite Buzz Around Teammate",
+        "title": "Chris Rodriguez Jr. Emerging as Key Part of Backfield",
         "topic_id": "1403425094969106432",
         "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-emerging-as-key-part-of-backfield-despite-buzz-around-teammate/1926678"
       },
@@ -110,7 +258,7 @@
       "source": "rotoballer",
       "source_key": "220422",
       "story_id": "nfl|10219|rotoballer|220422|1788950345000",
-      "title": "Chris Rodriguez Jr. Emerging as Key Part of Backfield Despite Buzz Around Teammate",
+      "title": "Chris Rodriguez Jr. Emerging as Key Part of Backfield",
       "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-emerging-as-key-part-of-backfield-despite-buzz-around-teammate/1926678"
     },
     {
@@ -118,7 +266,7 @@
       "description": "Seattle Seahawks wide receiver Rashid Shaheed could play a pivotal role on offense this season. Shaheed had a very positive camp, earning praise from coaches, teammates, and media. It was a great step in the right direction for the 28-year-old, who was due to make a leap after posting relatively modest numbers following his trade from New Orleans to Seattle last season. Shaheed finished last year as the WR39 in PPR leagues, catching 59 passes for 687 yards and two touchdowns. Those are fine numbers, but the latest buzz from Seattle indicates that Shaheed should take another step forward after his first full offseason with the Seahawks. In fact, it's not crazy to say that he could open the year as the team's No. 2 receiver, ahead of Cooper Kupp. While Kupp is getting older and declining in productivity, Shaheed is trending up, and he represents a flashy playmaking option for quarterback Sam Darnold. A top-36 finish is well within reason for the Seahawks, who will likely lean on the passing game with Kenneth Walker gone and Zach Charbonnet (knee) on the PUP list. Shaheed ranks as a WR4/WR5 for now, but in a perfect world, he has high-end WR3 upside.",
       "metadata": {
         "description": "Seattle Seahawks wide receiver Rashid Shaheed could play a pivotal role on offense this season. Shaheed had a very positive camp, earning praise from coaches, teammates, and media. It was a great step in the right direction for the 28-year-old, who was due to make a leap after posting relatively modest numbers following his trade from New Orleans to Seattle last season. Shaheed finished last year as the WR39 in PPR leagues, catching 59 passes for 687 yards and two touchdowns. Those are fine numbers, but the latest buzz from Seattle indicates that Shaheed should take another step forward after his first full offseason with the Seahawks. In fact, it's not crazy to say that he could open the year as the team's No. 2 receiver, ahead of Cooper Kupp. While Kupp is getting older and declining in productivity, Shaheed is trending up, and he represents a flashy playmaking option for quarterback Sam Darnold. A top-36 finish is well within reason for the Seahawks, who will likely lean on the passing game with Kenneth Walker gone and Zach Charbonnet (knee) on the PUP list. Shaheed ranks as a WR4/WR5 for now, but in a perfect world, he has high-end WR3 upside.",
-        "title": "Rashid Shaheed Could Emerge as Key Part of Offense After Very Positive Camp",
+        "title": "Rashid Shaheed Could Emerge as Key Part of Offense",
         "topic_id": "1403423836430426112",
         "url": "https://www.rotoballer.com/player-news/rashid-shaheed-could-emerge-as-key-part-of-offense-after-very-positive-camp/1926672"
       },
@@ -130,7 +278,7 @@
       "source": "rotoballer",
       "source_key": "220421",
       "story_id": "nfl|8676|rotoballer|220421|1788949926000",
-      "title": "Rashid Shaheed Could Emerge as Key Part of Offense After Very Positive Camp",
+      "title": "Rashid Shaheed Could Emerge as Key Part of Offense",
       "url": "https://www.rotoballer.com/player-news/rashid-shaheed-could-emerge-as-key-part-of-offense-after-very-positive-camp/1926672"
     },
     {
