@@ -2,12 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2397**
-- Newly captured: **2**
+- Stored stories: **2400**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — George Kittle** — George Kittle - Remains limited Wednesday (2026-09-09T22:37:44Z)
+- **NEW — Tee Higgins** — Tee Higgins (foot) fully participates in practice Wednesday (2026-09-09T22:55:48.305000Z)
+  - Higgins is still listed on Cincinnati's injury report due to a nagging foot injury, but it's not a serious issue at this point and he was able to log a full practice session on Wednesday. He should be good to go for Week 1 and projects to be a good fantasy option against the Buccaneers.
+  - Source: https://www.fantasypros.com/nfl/news/606814/tee-higgins-foot-fully-participates-practice-wednesday.php
+- **NEW — Ashton Jeanty** — Ashton Jeanty (ankle) practices in full Wednesday (2026-09-09T22:55:48.291000Z)
+  - It looks like Jeanty is strongly trending towards playing in Week 1, as he was able to put up a full session in Las Vegas' first practice of the week on Wednesday. If he is active, he will likely see enough work to be a great fantasy option in a positive matchup against the Dolphins.
+  - Source: https://www.fantasypros.com/nfl/news/606815/ashton-jeanty-ankle-practices-full-wednesday.php
+- **George Kittle** — George Kittle - Remains limited Wednesday (2026-09-09T22:37:44Z)
   - Coach Kyle Shanahan has already indicated Kittle will play in Thursday night's season opener against the Rams in Australia, but the team is monitoring his practice reps. The veteran tight end is coming off a torn Achilles and is expected to see his snaps dialed back some against Los Angeles, though he should remain a staple in the red zone. Kittle is probably more of a TE2 than locked-in TE1 for fantasy in Week 1.
 - **Jalen McMillan** — Jalen McMillan (knee) officially limited Wednesday (2026-09-09T22:30:48.147000Z)
   - McMillan's knee injury is still not fully healed, so he remained a limited participant at practice on Wednesday as a result. If he is sidelined for Week 1, Ted Hurst III will be primed for more work in his absence.
@@ -199,11 +205,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606739/jj-mccarthy-to-be-qb3-week-1.php
 - **J.J. McCarthy** — J.J. McCarthy - Opens season third on depth chart (2026-09-09T18:45:51Z)
   - After losing out in the battle with newcomer Kyler Murray for the starting job prior to the preseason opener, McCarthy will plummet all the way to third on the depth chart heading into Week 1, with Carson Wentz settling in as Murray's top backup. O'Connell said that he considers the No. 2 quarterback "a week-to-week thing," so McCarthy could leapfrog Wentz on the depth chart in future games depending on how he performs during practice. In any case, the fact that the 23-year-old McCarthy has to battle for the No. 2 job less than three years after being selected with the No. 10 overall pick in the 2024 NFL Draft is an indiction Minnesota doesn't view him as its long-term solution under center.
+- **NEW — Tucker Kraft** — Tucker Kraft Not on the Week 1 Injury Report (2026-09-09T18:39:05Z)
+  - Source: https://www.rotoballer.com/player-news/tucker-kraft-not-on-the-week-1-injury-report/1927142
 - **Khalil Shakir** — Khalil Shakir - Practicing Wednesday (2026-09-09T18:35:12Z)
   - After being sidelined recently by an undisclosed injury, Shakir's presence on the field is an encouraging sign for the wide receiver's availability for Sunday's season opener against the Texans. He's expected to face added competition for targets from trade pickup DJ Moore and a healthy Dalton Kincaid this season.
 - **Tyreek Hill** — Tyreek Hill - Delaying comeback (2026-09-09T18:33:30Z)
   - Hill is not yet 100 percent healthy after dislocating his knee and tearing multiple ligaments last season with the Dolphins. There's been no indication that the 32-year-old has drawn any interest on the open market, as teams are likely waiting for Hill to gain full medical clearance.
-- **NEW — Ashton Jeanty** — Ashton Jeanty Practices in Full on Wednesday (2026-09-09T18:29:05Z)
+- **Ashton Jeanty** — Ashton Jeanty Practices in Full on Wednesday (2026-09-09T18:29:05Z)
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-practices-in-full-on-wednesday/1927139
 - **Malik Nabers** — Malik Nabers (knee) seen practicing Wednesday (2026-09-09T18:10:36.094000Z)
   - As expected, Nabers was taking part in New York's first official practice of the week on Wednesday. He is trending towards playing in Week 1, but fantasy managers should keep a close eye on any official updates about his status ahead of the season opener on Sunday night.
@@ -241,11 +249,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606733/tee-higgins-heel-on-pace-to-play-sunday.php
 - **Chris Bell** — Chris Bell - No 'pitch count' for Week 1 (2026-09-09T17:09:38Z)
   - Despite not practicing with the Dolphins until Aug. 17 after completing his recovery from the ACL tear he sustained in November, Bell assuaged any concerns about his health and conditioning over the final two weeks of training camp and during his lone appearance in the preseason. The Dolphins are seemingly preparing for the rookie third-round pick to handle a vital role in the passing game right off the bat, as he's listed as one of three starting wide receivers on the team's unofficial depth chart heading into Week 1, per David Furones of the South Florida Sun Sentinel. Though Miami is expected to be one of the league's lower-volume passing attacks, Bell won't be facing much in the way of established competition for targets. He'll be part of a new-look receiver room that includes third-year player Malik Washington and fellow rookie Caleb Douglas as starters after Miami moved on from both Tyreek Hill (knee) and Jaylen Waddle in the offseason.
-- **Chris Bell** — Chris Bell (knee) will start Sunday, set to have no snap count (2026-09-09T17:00:35.833000Z)
-  - The rookie fell in the NFL Draft this year due to a major knee injury that he was rehabbing, but it looks like he is 100% healthy heading into the team's season opener, as they confirmed that he will start and will not have a snap count in Week 1. He will start alongside fellow rookie Caleb Douglas, and it looks likely that one or both of them will become fantasy relevant this year with how thin Miami's WR depth chart is heading into Week 1.
-  - Source: https://www.fantasypros.com/nfl/news/606731/chris-bell-knee-will-start-sunday-set-to-have-no-snap-count.php
-- **Adonai Mitchell** — Adonai Mitchell Carries Breakout Potential into 2026 (2026-09-09T16:59:05Z)
-  - Source: https://www.rotoballer.com/player-news/adonai-mitchell-carries-breakout-potential-into-2026/1927097
-- **Caleb Douglas** — Caleb Douglas set to start in Week 1 (2026-09-09T16:50:35.803000Z)
-  - The Dolphins selected Douglas in the third round of this year's draft, but he had an impressive offseason for them and is set to be a starter for the team in their season opener. That's a great sign for his season outlook, as it means he will have ample opportunities to prove himself and break out from the very start of the season.
-  - Source: https://www.fantasypros.com/nfl/news/606730/caleb-douglas-set-to-start-week-1.php

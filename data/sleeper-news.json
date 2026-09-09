@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-09T22:50:27Z",
+  "last_checked_at": "2026-09-09T23:00:18Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|12527|rotoballer|220469|1788978545000",
-    "nfl|4217|rotowire|636539|1788993464000"
+    "nfl|12527|fantasy_pros|606815|1788994548291",
+    "nfl|6801|fantasy_pros|606814|1788994548305",
+    "nfl|9484|rotoballer|220470|1788979145000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,48 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Higgins is still listed on Cincinnati's injury report due to a nagging foot injury, but it's not a serious issue at this point and he was able to log a full practice session on Wednesday. He should be good to go for Week 1 and projects to be a good fantasy option against the Buccaneers.",
+      "description": "Tee Higgins (foot) fully participated in Cincinnati's practice on Wednesday. ",
+      "metadata": {
+        "analysis": "Higgins is still listed on Cincinnati's injury report due to a nagging foot injury, but it's not a serious issue at this point and he was able to log a full practice session on Wednesday. He should be good to go for Week 1 and projects to be a good fantasy option against the Buccaneers.",
+        "description": "Tee Higgins (foot) fully participated in Cincinnati's practice on Wednesday. ",
+        "title": "Tee Higgins (foot) fully participates in practice Wednesday",
+        "topic_id": "1403548499697504256",
+        "url": "https://www.fantasypros.com/nfl/news/606814/tee-higgins-foot-fully-participates-practice-wednesday.php"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6801",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "published": 1788994548305,
+      "source": "fantasy_pros",
+      "source_key": "606814",
+      "story_id": "nfl|6801|fantasy_pros|606814|1788994548305",
+      "title": "Tee Higgins (foot) fully participates in practice Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606814/tee-higgins-foot-fully-participates-practice-wednesday.php"
+    },
+    {
+      "analysis": "It looks like Jeanty is strongly trending towards playing in Week 1, as he was able to put up a full session in Las Vegas' first practice of the week on Wednesday. If he is active, he will likely see enough work to be a great fantasy option in a positive matchup against the Dolphins.",
+      "description": "Ashton Jeanty (ankle) practiced in a full capacity on Wednesday.",
+      "metadata": {
+        "analysis": "It looks like Jeanty is strongly trending towards playing in Week 1, as he was able to put up a full session in Las Vegas' first practice of the week on Wednesday. If he is active, he will likely see enough work to be a great fantasy option in a positive matchup against the Dolphins.",
+        "description": "Ashton Jeanty (ankle) practiced in a full capacity on Wednesday.",
+        "title": "Ashton Jeanty (ankle) practices in full Wednesday",
+        "topic_id": "1403548499638784000",
+        "url": "https://www.fantasypros.com/nfl/news/606815/ashton-jeanty-ankle-practices-full-wednesday.php"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788994548291,
+      "source": "fantasy_pros",
+      "source_key": "606815",
+      "story_id": "nfl|12527|fantasy_pros|606815|1788994548291",
+      "title": "Ashton Jeanty (ankle) practices in full Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606815/ashton-jeanty-ankle-practices-full-wednesday.php"
+    },
     {
       "analysis": "Coach Kyle Shanahan has already indicated Kittle will play in Thursday night's season opener against the Rams in Australia, but the team is monitoring his practice reps. The veteran tight end is coming off a torn Achilles and is expected to see his snaps dialed back some against Los Angeles, though he should remain a staple in the red zone. Kittle is probably more of a TE2 than locked-in TE1 for fantasy in Week 1.",
       "description": "Kittle (Achilles) remained limited in Wednesday's practice, Nick Wagoner of ESPN.com reports.",
@@ -1627,6 +1670,26 @@
       "story_id": "nfl|11565|rotowire|636475|1788979551000",
       "title": "J.J. McCarthy - Opens season third on depth chart",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers tight end Tucker Kraft (knee) is not listed on the team's Week 1 injury report as they get set to take on the division-rival Minnesota Vikings this Sunday, according to Tom Silverstein of the Milwaukee Journal Sentinel. Kraft is ready to roll for the season opener after suffering a season-ending torn ACL last year. There were some reports during training camp this summer that suggested that Kraft could be on a snap count early in the 2026 season, but since he has been practicing in full pads for weeks, that seems unlikely. The 25-year-old former third-rounder in the 2023 NFL Draft from South Dakota State was among the best at his position last year before getting hurt, catching 32 of his 44 targets for 489 yards and six touchdowns in eight games played, and despite coming off a serious knee injury, he is expected to be a top-five option at the TE position in 2026, especially with Packers receivers Romeo Doubs and Dontayvion Wicks no longer in town. Start Kraft with confidence in Week 1 against the Vikings.",
+      "metadata": {
+        "description": "Green Bay Packers tight end Tucker Kraft (knee) is not listed on the team's Week 1 injury report as they get set to take on the division-rival Minnesota Vikings this Sunday, according to Tom Silverstein of the Milwaukee Journal Sentinel. Kraft is ready to roll for the season opener after suffering a season-ending torn ACL last year. There were some reports during training camp this summer that suggested that Kraft could be on a snap count early in the 2026 season, but since he has been practicing in full pads for weeks, that seems unlikely. The 25-year-old former third-rounder in the 2023 NFL Draft from South Dakota State was among the best at his position last year before getting hurt, catching 32 of his 44 targets for 489 yards and six touchdowns in eight games played, and despite coming off a serious knee injury, he is expected to be a top-five option at the TE position in 2026, especially with Packers receivers Romeo Doubs and Dontayvion Wicks no longer in town. Start Kraft with confidence in Week 1 against the Vikings.",
+        "title": "Tucker Kraft Not on the Week 1 Injury Report",
+        "topic_id": "1403547233927847936",
+        "url": "https://www.rotoballer.com/player-news/tucker-kraft-not-on-the-week-1-injury-report/1927142"
+      },
+      "nfl_team": "GB",
+      "player_id": "9484",
+      "player_name": "Tucker Kraft",
+      "position": "TE",
+      "published": 1788979145000,
+      "source": "rotoballer",
+      "source_key": "220470",
+      "story_id": "nfl|9484|rotoballer|220470|1788979145000",
+      "title": "Tucker Kraft Not on the Week 1 Injury Report",
+      "url": "https://www.rotoballer.com/player-news/tucker-kraft-not-on-the-week-1-injury-report/1927142"
     },
     {
       "analysis": "After being sidelined recently by an undisclosed injury, Shakir's presence on the field is an encouraging sign for the wide receiver's availability for Sunday's season opener against the Texans. He's expected to face added competition for targets from trade pickup DJ Moore and a healthy Dalton Kincaid this season.",
