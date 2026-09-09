@@ -1,12 +1,11 @@
 {
-  "last_checked_at": "2026-09-09T22:25:47Z",
+  "last_checked_at": "2026-09-09T22:39:26Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|12509|rotowire|636534|1788991827000",
-    "nfl|12527|rotowire|636533|1788991775000",
-    "nfl|12536|rotowire|636532|1788991693000",
-    "nfl|9484|fantasy_pros|606807|1788991847878"
+    "nfl|11618|fantasy_pros|606810|1788993048147",
+    "nfl|12514|fantasy_pros|606811|1788993048134",
+    "nfl|7564|fantasy_pros|606813|1788993048110"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +15,69 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "McMillan's knee injury is still not fully healed, so he remained a limited participant at practice on Wednesday as a result. If he is sidelined for Week 1, Ted Hurst III will be primed for more work in his absence.",
+      "description": "Jalen McMillan (knee) was officially a limited participant at practice on Wednesday.",
+      "metadata": {
+        "analysis": "McMillan's knee injury is still not fully healed, so he remained a limited participant at practice on Wednesday as a result. If he is sidelined for Week 1, Ted Hurst III will be primed for more work in his absence.",
+        "description": "Jalen McMillan (knee) was officially a limited participant at practice on Wednesday.",
+        "title": "Jalen McMillan (knee) officially limited Wednesday",
+        "topic_id": "1403542207578832896",
+        "url": "https://www.fantasypros.com/nfl/news/606810/jalen-mcmillan-knee-officially-limited-wednesday.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1788993048147,
+      "source": "fantasy_pros",
+      "source_key": "606810",
+      "story_id": "nfl|11618|fantasy_pros|606810|1788993048147",
+      "title": "Jalen McMillan (knee) officially limited Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606810/jalen-mcmillan-knee-officially-limited-wednesday.php"
+    },
+    {
+      "analysis": "The young stud wideout was able to log a full practice session on Wednesday, which means that his toe injury is likely fully healed at this point. He should play in Week 1 and is expected to be a good fantasy option in a great matchup against the Cincinnati Bengals.",
+      "description": "Emeka Egbuka (toe) logged a full practice session on Wednesday.",
+      "metadata": {
+        "analysis": "The young stud wideout was able to log a full practice session on Wednesday, which means that his toe injury is likely fully healed at this point. He should play in Week 1 and is expected to be a good fantasy option in a great matchup against the Cincinnati Bengals.",
+        "description": "Emeka Egbuka (toe) logged a full practice session on Wednesday.",
+        "title": "Emeka Egbuka (toe) logs full practice Wednesday",
+        "topic_id": "1403542207528501248",
+        "url": "https://www.fantasypros.com/nfl/news/606811/emeka-egbuka-toe-logs-full-practice-wednesday.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1788993048134,
+      "source": "fantasy_pros",
+      "source_key": "606811",
+      "story_id": "nfl|12514|fantasy_pros|606811|1788993048134",
+      "title": "Emeka Egbuka (toe) logs full practice Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606811/emeka-egbuka-toe-logs-full-practice-wednesday.php"
+    },
+    {
+      "analysis": "Chase was able to log a full practice session on Wednesday and is considered close to full health, if not already fully healthy heading into Week 1. He should be a full go against the Buccaneers and projects to be an elite fantasy option in the season opener and beyond.",
+      "description": "Ja'Marr Chase (knee) practiced in a full capacity on Wednesday.",
+      "metadata": {
+        "analysis": "Chase was able to log a full practice session on Wednesday and is considered close to full health, if not already fully healthy heading into Week 1. He should be a full go against the Buccaneers and projects to be an elite fantasy option in the season opener and beyond.",
+        "description": "Ja'Marr Chase (knee) practiced in a full capacity on Wednesday.",
+        "title": "Ja'Marr Chase (knee) practices in full Wednesday",
+        "topic_id": "1403542207419449344",
+        "url": "https://www.fantasypros.com/nfl/news/606813/jamarr-chase-knee-practices-full-wednesday.php"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1788993048110,
+      "source": "fantasy_pros",
+      "source_key": "606813",
+      "story_id": "nfl|7564|fantasy_pros|606813|1788993048110",
+      "title": "Ja'Marr Chase (knee) practices in full Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606813/jamarr-chase-knee-practices-full-wednesday.php"
+    },
     {
       "analysis": "Kraft has been rehabbing from a major knee injury all offseason, but it appears that he is finally close to full health again, as he carries no injury designation prior to the team's season opener on Sunday. He could be limited for his first few weeks back, but the team hasn't indicated that, meaning that he could be seeing a full workload in the very near future.",
       "description": "Tucker Kraft (knee) is off of the injury report for Week 1's game against the Minnesota Vikings.",

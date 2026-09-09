@@ -2,19 +2,28 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2392**
-- Newly captured: **4**
+- Stored stories: **2395**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Tucker Kraft** — Tucker Kraft (knee) off injury report for Week 1 (2026-09-09T22:10:47.878000Z)
+- **NEW — Jalen McMillan** — Jalen McMillan (knee) officially limited Wednesday (2026-09-09T22:30:48.147000Z)
+  - McMillan's knee injury is still not fully healed, so he remained a limited participant at practice on Wednesday as a result. If he is sidelined for Week 1, Ted Hurst III will be primed for more work in his absence.
+  - Source: https://www.fantasypros.com/nfl/news/606810/jalen-mcmillan-knee-officially-limited-wednesday.php
+- **NEW — Emeka Egbuka** — Emeka Egbuka (toe) logs full practice Wednesday (2026-09-09T22:30:48.134000Z)
+  - The young stud wideout was able to log a full practice session on Wednesday, which means that his toe injury is likely fully healed at this point. He should play in Week 1 and is expected to be a good fantasy option in a great matchup against the Cincinnati Bengals.
+  - Source: https://www.fantasypros.com/nfl/news/606811/emeka-egbuka-toe-logs-full-practice-wednesday.php
+- **NEW — Ja'Marr Chase** — Ja'Marr Chase (knee) practices in full Wednesday (2026-09-09T22:30:48.110000Z)
+  - Chase was able to log a full practice session on Wednesday and is considered close to full health, if not already fully healthy heading into Week 1. He should be a full go against the Buccaneers and projects to be an elite fantasy option in the season opener and beyond.
+  - Source: https://www.fantasypros.com/nfl/news/606813/jamarr-chase-knee-practices-full-wednesday.php
+- **Tucker Kraft** — Tucker Kraft (knee) off injury report for Week 1 (2026-09-09T22:10:47.878000Z)
   - Kraft has been rehabbing from a major knee injury all offseason, but it appears that he is finally close to full health again, as he carries no injury designation prior to the team's season opener on Sunday. He could be limited for his first few weeks back, but the team hasn't indicated that, meaning that he could be seeing a full workload in the very near future.
   - Source: https://www.fantasypros.com/nfl/news/606807/tucker-kraft-knee-off-injury-report-week-1.php
-- **NEW — Tre' Harris** — Tre' Harris - Fully healthy for Week 1 (2026-09-09T22:10:27Z)
+- **Tre' Harris** — Tre' Harris - Fully healthy for Week 1 (2026-09-09T22:10:27Z)
   - Harris dealt with an unspecified injury last month but is fine for Sunday's season opener against the Cardinals. He's expected to fill the WR3 role behind Ladd McConkey and Quentin Johnson this season, but the Chargers also figure to use plenty of TE-heavy sets with Charlie Kolar, Oronde Gadsden and David Njoku.
-- **NEW — Ashton Jeanty** — Ashton Jeanty - Logs full practice Wednesday (2026-09-09T22:09:35Z)
+- **Ashton Jeanty** — Ashton Jeanty - Logs full practice Wednesday (2026-09-09T22:09:35Z)
   - When Jeanty left practice on Aug. 23, the initial concerns were significant because the running back wasn't able to put much pressure on his right leg as he exited the field. Adam Schefter of ESPN subsequently reported that Jeanty wasn't dealing with a long-term issue, and the diagnosis eventually revealed a low-ankle sprain. After logging all activity at Wednesday's session, Jeanty now is in the clear for Sunday's regular-season opener against the Dolphins, though he may still yield some RB reps to reserves Mike Washington and even Dylan Laube.
-- **NEW — Jaylin Noel** — Jaylin Noel - Fully healthy (2026-09-09T22:08:13Z)
+- **Jaylin Noel** — Jaylin Noel - Fully healthy (2026-09-09T22:08:13Z)
   - Noel dealt with hamstring and finger issues early on in camp but is ready to go for Sunday's season opener against Buffalo. The second-year wideout is competing with Xavier Hutchinson for snaps behind Nico Collins and trade pickup Kayshon Boutte.
 - **Zay Flowers** — Zay Flowers (hamstring) limited at practice Wednesday (2026-09-09T22:00:48.012000Z)
   - Flowers was only able to practice in a limited fashion on Wednesday. There seems to be a lot of optimism for his Week 1 availability, but fantasy managers should keep tabs on him throughout the week to make sure he's ready to go for the season opener, as hamstring injuries have a tendency to reaggravate or linger longer than expected. He should be started in most league formats if he is fully cleared to play, however.
@@ -241,10 +250,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jakobi Meyers** — Jakobi Meyers (hand) seen in non-contact jersey Wednesday (2026-09-09T16:40:35.485000Z)
   - It appears that Meyers is not over his hand injury yet, as it left him in a red non-contact jersey at the team's first practice of the week on Wednesday. If this issue leaves him sidelined for Week 1, fantasy managers should expect Parker Washington to be a great fantasy option against the Cleveland Browns.
   - Source: https://www.fantasypros.com/nfl/news/606723/jakobi-meyers-hand-seen-non-contact-jersey-wednesday.php
-- **Shedeur Sanders** — Shedeur Sanders expected to be QB2 in Week 1 (2026-09-09T16:40:35.474000Z)
-  - Deshaun Watson won the starting QB job for the Browns, and now the team has confirmed the Sanders is going to be active on gamedays and serve as their backup quarterback in Week 1. He won't seen the field in any large capacity for the foreseeable future, barring any injury to Watson.
-  - Source: https://www.fantasypros.com/nfl/news/606724/shedeur-sanders-expected-to-be-qb2-week-1.php
-- **Terrance Ferguson** — Terrance Ferguson Well-Positioned for a Second-Year Breakout in 2026? (2026-09-09T16:36:09Z)
-  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-well-positioned-for-a-second-year-breakout-in-2026/1927077
-- **Jakobi Meyers** — Jakobi Meyers - Not taking contact Wednesday (2026-09-09T16:28:59Z)
-  - The extent of Meyers' practice participation won't be revealed until the Jaguars post their first injury report of the season following Wednesday's session, but the fact that the wideout was donning a non-contact jersey suggests that he'll likely be listed as a limited participant. Meyers jammed his right hand in a joint practice with the Panthers three weeks ago, but the Jaguars haven't yet indicated that the receiver's availability for Sunday's season opener versus the Browns is in any serious jeopardy.
