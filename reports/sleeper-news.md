@@ -3,15 +3,15 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **2251**
-- Newly captured: **2**
+- Newly captured: **0**
 
 ## Latest news
 
 - **George Kittle** — George Kittle - Could see limited Week 1 role (2026-09-09T02:49:22Z)
   - "We got to be smart with that," Shanahan said. With Kittle having been listed as a limited participant Tuesday after returning from the active/PUP list a little over two weeks ago, Shanahan's comments suggest San Francisco is preparing to manage the tight end's Week 1 snaps. Kittle figures to be featured on third downs and in the scoring area if his playing time is limited, and Jake Tonges could see elevated snaps as the Niners' TE2.
-- **NEW — Romeo Doubs** — Romeo Doubs Fighting for Fantasy Relevance Right Away (2026-09-09T01:43:07Z)
+- **Romeo Doubs** — Romeo Doubs Fighting for Fantasy Relevance Right Away (2026-09-09T01:43:07Z)
   - Source: https://www.rotoballer.com/player-news/romeo-doubs-fighting-for-fantasy-relevance-right-away/1926452
-- **NEW — A.J. Brown** — A.J. Brown a Potential Difference Maker for Patriots in Week 1 (2026-09-09T01:40:05Z)
+- **A.J. Brown** — A.J. Brown's Impact Should be Felt Right Away (2026-09-09T01:40:05Z)
   - Source: https://www.rotoballer.com/player-news/a-j-brown-a-potential-difference-maker-for-patriots-in-week-1/1926450
 - **Hunter Henry** — Hunter Henry Belongs on the Bench for Week 1 (2026-09-09T01:34:23Z)
   - Source: https://www.rotoballer.com/player-news/hunter-henry-belongs-on-the-bench-for-week-1/1926446
