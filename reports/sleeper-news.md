@@ -2,14 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2257**
-- Newly captured: **2**
+- Stored stories: **2256**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Tre Tucker** — Tre Tucker's Has Clear Path to Fantasy Relevance in 2026 (2026-09-09T10:02:06Z)
+- **Tre Tucker** — Tre Tucker's Has Clear Path to Fantasy Relevance in 2026 (2026-09-09T10:02:06Z)
   - Source: https://www.rotoballer.com/player-news/tre-tuckers-has-clear-path-to-fantasy-relevance-in-2026/1926644
-- **NEW — Jadarian Price** — Jadarian Price Carries Immense Upside in 2026 (2026-09-09T09:52:10Z)
+- **Jadarian Price** — Jadarian Price Carries Immense Upside in 2026 (2026-09-09T09:52:10Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-carries-immense-upside-in-2026/1926635
 - **Chris Bell** — Chris Bell Has a Clear Path to Major Role in Miami (2026-09-09T09:41:51Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-has-a-clear-path-to-major-role-in-miami/1926617
