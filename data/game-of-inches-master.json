@@ -20678,7 +20678,7 @@
       ],
       "first_name": "Emeka",
       "full_name": "Emeka Egbuka",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Egbuka",
       "nfl_team": "TB",
       "player_id": "12514",
@@ -23815,8 +23815,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-09T21:06:48Z",
-    "source_fingerprint": "4a134709f57debe51f927cd29e86c33927497fb4526100a44cab6cfa4c1ccc6e"
+    "last_changed_at": "2026-09-09T21:21:19Z",
+    "source_fingerprint": "5e4d541765bc4740f5bf57d72059a83204037b840c9a99625379c32a017853ad"
   },
   "teams": [
     {

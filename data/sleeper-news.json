@@ -1,20 +1,13 @@
 {
-  "last_checked_at": "2026-09-09T21:06:50Z",
+  "last_checked_at": "2026-09-09T21:21:21Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|11597|rotowire|636501|1788987264000",
-    "nfl|11618|rotowire|636503|1788987647000",
-    "nfl|11625|rotoballer|220467|1788973145000",
-    "nfl|11631|fantasy_pros|606767|1788987347488",
-    "nfl|12514|rotowire|636498|1788987068000",
-    "nfl|4035|rotowire|636500|1788987259000",
-    "nfl|5947|fantasy_pros|606764|1788987347504",
-    "nfl|6801|rotowire|636502|1788987411000",
-    "nfl|7002|rotoballer|220466|1788972437000",
-    "nfl|7564|rotowire|636499|1788987135000",
-    "nfl|8142|fantasy_pros|606770|1788987347469",
-    "nfl|9997|rotowire|636504|1788987738000"
+    "nfl|12490|rotowire|636505|1788987823000",
+    "nfl|13287|rotowire|636510|1788988422000",
+    "nfl|5947|rotowire|636508|1788988162000",
+    "nfl|6819|rotowire|636512|1788988689000",
+    "nfl|8126|rotowire|636509|1788988339000"
   ],
   "schema_version": 1,
   "source": {
@@ -24,6 +17,106 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Pittman and DK Metcalf (undisclosed) missed time in training camp and the preseason due to their injuries, but the Steelers will have both of their top wideouts available heading into Sunday's season opener versus the Falcons.",
+      "description": "Pittman (hamstring) didn't appear Wednesday on the Steelers' first Week 1 injury report, Teresa Varley of the team's official site reports.",
+      "metadata": {
+        "analysis": "Pittman and DK Metcalf (undisclosed) missed time in training camp and the preseason due to their injuries, but the Steelers will have both of their top wideouts available heading into Sunday's season opener versus the Falcons.",
+        "description": "Pittman (hamstring) didn't appear Wednesday on the Steelers' first Week 1 injury report, Teresa Varley of the team's official site reports.",
+        "title": "Michael Pittman - Ready to go for Week 1",
+        "topic_id": "1403524585336377344"
+      },
+      "nfl_team": "PIT",
+      "player_id": "6819",
+      "player_name": "Michael Pittman",
+      "position": "WR",
+      "published": 1788988689000,
+      "source": "rotowire",
+      "source_key": "636512",
+      "story_id": "nfl|6819|rotowire|636512|1788988689000",
+      "title": "Michael Pittman - Ready to go for Week 1",
+      "url": null
+    },
+    {
+      "analysis": "In typical LaFleur fashion, the coach tried to be wishy-washy and hide things from the media by saying Love is not expected to be limited in practice, but his status for Sunday's opener against the Chargers depends on how the running back looks during the practice week. The Cardinals have already listed Tyler Allgeier ahead of their No. 3 overall pick Love on the backfield depth chart. Love will shape up as a shaky RB3 for fantasy if he's active against Los Angeles.",
+      "description": "Coach Mike LaFleur said Love (ankle) will practice Wednesday, Darren Urban of the Cardinals' official site reports.",
+      "metadata": {
+        "analysis": "In typical LaFleur fashion, the coach tried to be wishy-washy and hide things from the media by saying Love is not expected to be limited in practice, but his status for Sunday's opener against the Chargers depends on how the running back looks during the practice week. The Cardinals have already listed Tyler Allgeier ahead of their No. 3 overall pick Love on the backfield depth chart. Love will shape up as a shaky RB3 for fantasy if he's active against Los Angeles.",
+        "description": "Coach Mike LaFleur said Love (ankle) will practice Wednesday, Darren Urban of the Cardinals' official site reports.",
+        "title": "Jeremiyah Love - Set to practice Wednesday",
+        "topic_id": "1403524585277657089"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788988422000,
+      "source": "rotowire",
+      "source_key": "636510",
+      "story_id": "nfl|13287|rotowire|636510|1788988422000",
+      "title": "Jeremiyah Love - Set to practice Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "The Titans' big offseason addition at wideout will be good to go for his new-team debut Sunday as Robinson carries no injury designation. Both Robinson and rookie Carnell Tate are off the injury report, signaling that Cam Ward will have his top weapons at his disposal as the team starts a new chapter under head coach Robert Saleh.",
+      "description": "Robinson (head) is not on the Titans' injury report.",
+      "metadata": {
+        "analysis": "The Titans' big offseason addition at wideout will be good to go for his new-team debut Sunday as Robinson carries no injury designation. Both Robinson and rookie Carnell Tate are off the injury report, signaling that Cam Ward will have his top weapons at his disposal as the team starts a new chapter under head coach Robert Saleh.",
+        "description": "Robinson (head) is not on the Titans' injury report.",
+        "title": "Wan'Dale Robinson - No injury designation",
+        "topic_id": "1403523327259152384"
+      },
+      "nfl_team": "TEN",
+      "player_id": "8126",
+      "player_name": "Wan'Dale Robinson",
+      "position": "WR",
+      "published": 1788988339000,
+      "source": "rotowire",
+      "source_key": "636509",
+      "story_id": "nfl|8126|rotowire|636509|1788988339000",
+      "title": "Wan'Dale Robinson - No injury designation",
+      "url": null
+    },
+    {
+      "analysis": "Per Ryan O'Halloran of The Florida Times-Union, Meyers sported a non-contact jersey during the open portion of Wednesday's session, though he was ultimately able to do enough work to garner a limited listing. Per John Shipley of SI.com, Meyers said after practice that he expects to play Sunday against the Browns, though he may need to upgrade to full practice participation Thursday or Friday to avoid carrying a designation into the weekend.",
+      "description": "Meyers (thumb) was listed as a limited participant in Wednesday's practice.",
+      "metadata": {
+        "analysis": "Per Ryan O'Halloran of The Florida Times-Union, Meyers sported a non-contact jersey during the open portion of Wednesday's session, though he was ultimately able to do enough work to garner a limited listing. Per John Shipley of SI.com, Meyers said after practice that he expects to play Sunday against the Browns, though he may need to upgrade to full practice participation Thursday or Friday to avoid carrying a designation into the weekend.",
+        "description": "Meyers (thumb) was listed as a limited participant in Wednesday's practice.",
+        "title": "Jakobi Meyers - Limited during Wednesday's practice",
+        "topic_id": "1403522068569460736"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1788988162000,
+      "source": "rotowire",
+      "source_key": "636508",
+      "story_id": "nfl|5947|rotowire|636508|1788988162000",
+      "title": "Jakobi Meyers - Limited during Wednesday's practice",
+      "url": null
+    },
+    {
+      "analysis": "Tuten missed a practice one week ago after falling ill, but his absence from the Jaguars' first injury report of the season suggests that he's 100 percent healthy heading into Sunday's opener versus the Browns. Jaguars head coach Liam Coen hasn't revealed how he plans to divvy up the snaps among his running backs; even if Tuten ends up starting, he could wind up sharing the load on the ground with Chris Rodriguez. Third-down specialist LeQuint Allen (hip) didn't practice Wednesday and appears to be trending toward sitting out Week 1, potentially opening the door for both Tuten and Rodriguez to also see a slight spike in pass-catching opportunities.",
+      "description": "Tuten (illness) wasn't included on the Jaguars' first Week 1 injury report released Wednesday.",
+      "metadata": {
+        "analysis": "Tuten missed a practice one week ago after falling ill, but his absence from the Jaguars' first injury report of the season suggests that he's 100 percent healthy heading into Sunday's opener versus the Browns. Jaguars head coach Liam Coen hasn't revealed how he plans to divvy up the snaps among his running backs; even if Tuten ends up starting, he could wind up sharing the load on the ground with Chris Rodriguez. Third-down specialist LeQuint Allen (hip) didn't practice Wednesday and appears to be trending toward sitting out Week 1, potentially opening the door for both Tuten and Rodriguez to also see a slight spike in pass-catching opportunities.",
+        "description": "Tuten (illness) wasn't included on the Jaguars' first Week 1 injury report released Wednesday.",
+        "title": "Bhayshul Tuten - Ready to go for Week 1",
+        "topic_id": "1403522068447825920"
+      },
+      "nfl_team": "JAX",
+      "player_id": "12490",
+      "player_name": "Bhayshul Tuten",
+      "position": "RB",
+      "published": 1788987823000,
+      "source": "rotowire",
+      "source_key": "636505",
+      "story_id": "nfl|12490|rotowire|636505|1788987823000",
+      "title": "Bhayshul Tuten - Ready to go for Week 1",
+      "url": null
+    },
     {
       "analysis": "This is the first specification on Flowers' recent lower-body issue as the team listed his injury as a hamstring. He missed multiple sessions last week and was working off to the side in Wednesday's practice. Flowers still has two more days to ramp up to a full practice. The Ravens' receiver depth behind Flowers is also being tested going into the season as Devontez Walker was listed as limited with a groin issue. Flowers' status will be one to monitor as Sunday approaches.",
       "description": "Flowers (hamstring) was listed as limited on Wednesday's injury report.",
