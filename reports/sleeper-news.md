@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2241**
-- Newly captured: **2**
+- Stored stories: **2242**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — George Kittle** — George Kittle - Could see limited Week 1 role (2026-09-09T02:49:22Z)
+- **George Kittle** — George Kittle - Could see limited Week 1 role (2026-09-09T02:49:22Z)
   - "We got to be smart with that," Shanahan said. With Kittle having been listed as a limited participant Tuesday after returning from the active/PUP list a little over two weeks ago, Shanahan's comments suggest San Francisco is preparing to manage the tight end's Week 1 snaps. Kittle figures to be featured on third downs and in the scoring area if his playing time is limited, and Jake Tonges could see elevated snaps as the Niners' TE2.
 - **George Kittle** — George Kittle (Achilles) limited in practice Tuesday  (2026-09-09T00:00:23.558000Z)
   - Kittle remains on track to be good to go for Thursday's season opener coming off an Achilles tear. It is unclear if he'll be facing any sort of snap count on Thursday. 
@@ -18,11 +18,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Nacua has been slowed since picking up a psoas injury nearly a month ago, but he will avoid the injury report altogether in advance of Week 1. With Nacua seemingly at full speed, expect him to fill his usual role when the Rams kick off their season against the 49ers in Australia.
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Shakes off shoulder issue (2026-09-08T23:16:04Z)
   - Stribling was slowed by a shoulder injury for a couple weeks, but it apparently is no longer an issue, as he did not draw a mention on the first injury report the 49ers put out in advance of Week 1. Stribling is listed as a reserve receiver behind veterans Mike Evans and Deebo Samuel on San Francisco's unofficial depth chart, so while it appears he will debut against the Rams in Australia it's unclear exactly what role he will fill.
+- **NEW — Baker Mayfield** — Baker Mayfield Strong Option off the Waiver Wire for Week 1 (2026-09-08T23:01:16Z)
+  - Source: https://www.rotoballer.com/player-news/baker-mayfield-strong-option-off-the-waiver-wire-for-week-1/1926417
 - **Mike Evans** — Mike Evans - Removed from injured list (2026-09-08T22:59:21Z)
   - Evans has been slowed by injuries since early August, but he apparently is back at 100 percent in advance of Week 1. Barring any setbacks, he seems set to fill a starting wide receiver spot when the 49ers kick off their 2026 campaign against the Rams in Australia.
 - **George Kittle** — George Kittle - Listed as limited participant (2026-09-08T22:54:09Z)
   - Kittle has been practicing regularly since being activated from the active/PUP list a little over two weeks ago, and although he seemingly did not take part in every drill Tuesday, he was able to get at least some work in at San Francisco's first official practice session of the week. He could wind up a full participant before kickoff, and even still the door remains open for him to suit up for Week 1.
-- **NEW — Jacob Saylors** — Jacob Saylors Providing Waiver Wire Value as Handcuff to Gibbs (2026-09-08T22:51:06Z)
+- **Jacob Saylors** — Jacob Saylors Providing Waiver Wire Value as Handcuff to Gibbs (2026-09-08T22:51:06Z)
   - Source: https://www.rotoballer.com/player-news/jacob-saylors-providing-waiver-wire-value-as-handcuff-to-gibbs/1926411
 - **Jaylin Noel** — Jaylin Noel Gaining Value With Injuries to the Texans Receiving Room (2026-09-08T22:40:07Z)
   - Source: https://www.rotoballer.com/player-news/jaylin-noel-gaining-value-with-injuries-to-the-texans-receiving-room/1926407
@@ -141,20 +143,20 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Breece Hall** — Breece Hall (groin) trending towards playing Week 1 (2026-09-08T16:20:52.031000Z)
   - Hall was initially expected to be out two weeks with his groin injury, and this lines up well with his timeline. If he plays, he will be a high-end RB2 with RB1 upside.
   - Source: https://www.fantasypros.com/nfl/news/606556/breece-hall-groin-trending-towards-playing-week-1.php
-- **Breece Hall** — Breece Hall - Trending toward playing Week 1 (2026-09-08T16:19:22Z)
-  - Hall sustained a minor right groin strain during an Aug. 17 practice, and though he didn't return to full team drills before the end of the preseason, the running back looks like he's on track to be available for the start of the regular season. The Jets will publish their first injury report of 2026 following practice Wednesday, when it will be known whether Hall is a full or limited participant. Assuming Hall progresses to full practice workload by the end of the week, he should be ready to handle a three-down workload out of the New York backfield Sunday.
+- **Breece Hall** — Breece Hall - Trending toward playing in Week 1 (2026-09-08T16:19:22Z)
+  - Hall sustained a minor right groin strain during an Aug. 17 practice, and though he didn't return to full team drills before the end of the preseason, the running back looks like he'll be available for Week 1. Assuming Hall progresses to a full practice workload by the end of the week, he should be ready to handle a three-down workload Sunday.
 - **Keon Coleman** — Keon Coleman Listed as a Starter on Bills' Depth Chart (2026-09-08T16:07:11Z)
   - Source: https://www.rotoballer.com/player-news/keon-coleman-listed-as-a-starter-on-bills-depth-chart/1926131
 - **Chris Brooks** — Chris Brooks Has a Real Opening in Green Bay's Backfield (2026-09-08T16:05:34Z)
   - Source: https://www.rotoballer.com/player-news/chris-brooks-has-a-real-opening-in-green-bays-backfield/1926125
 - **Makai Lemon** — Makai Lemon - Listed as starting receiver, punt returner (2026-09-08T15:54:17Z)
-  - Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.
+  - The rookie joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the depth chart, though Wicks may be prioritized ahead of Lemon in two-wide sets to begin the season. Wicks turned in a strong training camp, while Lemon spent considerable time on the sideline while tending to a hamstring injury. The first-round pick will likely need to impress early in the season before pushing past Wicks as the No. 2 receiver.
 - **Isaiah Davis** — Isaiah Davis Takes Part in RB Drills on Tuesday (2026-09-08T15:29:05Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-davis-takes-part-in-rb-drills-on-tuesday/1926091
 - **Pat Freiermuth** — Pat Freiermuth Not Worth Chasing Before Week 1 (2026-09-08T15:21:06Z)
   - Source: https://www.rotoballer.com/player-news/pat-freiermuth-not-worth-chasing-before-week-1/1926084
 - **Malachi Fields** — Malachi Fields - Looks set to begin season as No. 2 wideout (2026-09-08T15:18:23Z)
-  - The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.
+  - Prior to his release, Slayton looked like the leading candidate to handle the perimeter role opposite Malik Nabers (knee). Those duties instead could fall to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields drew positive buzz in training camp and the preseason for his physicality and ability to make plays downfield. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.
 - **Tyler Allgeier** — Tyler Allgeier Gets a Boost From Cardinals Depth Chart (2026-09-08T15:14:05Z)
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-gets-a-boost-from-cardinals-depth-chart/1926079
 - **Jeremiyah Love** — Jeremiyah Love Listed as RB2 on Cardinals' Depth Chart (2026-09-08T15:02:06Z)
@@ -217,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - McCaffrey wasn't spotted taking part in the early portion of practice Monday, so his presence on the field in full uniform Tuesday is a promising sign for his potential availability for the 49ers' season opener against the Rams. It's been a bit of a mysterious several weeks for McCaffrey, as he was described as dealing with "tightness" in early August and didn't play at all in the preseason while being an inconsistent participant in team drills. San Francisco's injury reports this week should shed some light on McCaffrey's status for the matchup against Los Angeles, but to this point he seems more likely than not to play in that contest.
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Suited up for practice Monday (2026-09-08T03:49:37Z)
   - The practice session is technically taking placing Tuesday afternoon in Melbourne local time, but regardless, Stribling's participation is a positive sign as he looks to rebound from a minor shoulder injury. It remains to be seen what the rookie wideout's level of practice participation will be, but to this point there hasn't been any indication that he's in any danger of missing the season opener versus the Rams. Stribling appears in line for a big role in San Francisco's offense as one of the team's top three wideouts alongside veterans Mike Evans (adductor) and Deebo Samuel.
-- **Tre' Harris** — Tre' Harris Should Produce in Chargers Offense (2026-09-08T01:17:07Z)
-  - Source: https://www.rotoballer.com/player-news/tre-harris-should-produce-in-chargers-offense/1925612

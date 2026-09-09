@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-09T02:57:50Z",
+  "last_checked_at": "2026-09-09T03:15:53Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|11237|rotoballer|220400|1788907866000",
-    "nfl|4217|rotowire|636457|1788922162000"
+    "nfl|4892|rotoballer|220401|1788908476000"
   ],
   "schema_version": 1,
   "source": {
@@ -114,6 +113,26 @@
       "story_id": "nfl|13417|rotowire|636414|1788909364000",
       "title": "De'Zhaun Stribling - Shakes off shoulder issue",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers quarterback Baker Mayfield signed a three-year extension with the Bucs on Tuesday and enters the 2026 season with a bit of a chip on his shoulder after finishing the 2025 season as the QB17 on a points-per-game basis (17th) after finishing as the QB4 in 2024. Mayfield dealt with a handful of injuries last season and finished the year throwing for 3,693 yards, 26 touchdowns, and 11 interceptions. He also contributed on the ground with 382 rushing yards, giving him a safe floor to go with his passing volume. Mayfield has a strong matchup in Week 1, going up against the Cincinnati Bengals, who ranked bottom 10 against opposing quarterbacks last season, allowing roughly 19.1 fantasy points per game to the position. Second-year standout receiver Emeka Egbuka (toe) appears to be trending toward playing in Week 1 to go along with another of Mayfield's go-to targets, Chris Godwin. Mayfield is being drafted as a QB2 in most formats, but his Week 1 matchup may be too good to pass up. Fantasy managers looking to stream a quarterback in Week 1 should look Mayfield's way.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers quarterback Baker Mayfield signed a three-year extension with the Bucs on Tuesday and enters the 2026 season with a bit of a chip on his shoulder after finishing the 2025 season as the QB17 on a points-per-game basis (17th) after finishing as the QB4 in 2024. Mayfield dealt with a handful of injuries last season and finished the year throwing for 3,693 yards, 26 touchdowns, and 11 interceptions. He also contributed on the ground with 382 rushing yards, giving him a safe floor to go with his passing volume. Mayfield has a strong matchup in Week 1, going up against the Cincinnati Bengals, who ranked bottom 10 against opposing quarterbacks last season, allowing roughly 19.1 fantasy points per game to the position. Second-year standout receiver Emeka Egbuka (toe) appears to be trending toward playing in Week 1 to go along with another of Mayfield's go-to targets, Chris Godwin. Mayfield is being drafted as a QB2 in most formats, but his Week 1 matchup may be too good to pass up. Fantasy managers looking to stream a quarterback in Week 1 should look Mayfield's way.",
+        "title": "Baker Mayfield Strong Option off the Waiver Wire for Week 1",
+        "topic_id": "1403248916832514048",
+        "url": "https://www.rotoballer.com/player-news/baker-mayfield-strong-option-off-the-waiver-wire-for-week-1/1926417"
+      },
+      "nfl_team": "TB",
+      "player_id": "4892",
+      "player_name": "Baker Mayfield",
+      "position": "QB",
+      "published": 1788908476000,
+      "source": "rotoballer",
+      "source_key": "220401",
+      "story_id": "nfl|4892|rotoballer|220401|1788908476000",
+      "title": "Baker Mayfield Strong Option off the Waiver Wire for Week 1",
+      "url": "https://www.rotoballer.com/player-news/baker-mayfield-strong-option-off-the-waiver-wire-for-week-1/1926417"
     },
     {
       "analysis": "Evans has been slowed by injuries since early August, but he apparently is back at 100 percent in advance of Week 1. Barring any setbacks, he seems set to fill a starting wide receiver spot when the 49ers kick off their 2026 campaign against the Rams in Australia.",
@@ -1247,12 +1266,12 @@
       "url": "https://www.fantasypros.com/nfl/news/606556/breece-hall-groin-trending-towards-playing-week-1.php"
     },
     {
-      "analysis": "Hall sustained a minor right groin strain during an Aug. 17 practice, and though he didn't return to full team drills before the end of the preseason, the running back looks like he's on track to be available for the start of the regular season. The Jets will publish their first injury report of 2026 following practice Wednesday, when it will be known whether Hall is a full or limited participant. Assuming Hall progresses to full practice workload by the end of the week, he should be ready to handle a three-down workload out of the New York backfield Sunday.",
+      "analysis": "Hall sustained a minor right groin strain during an Aug. 17 practice, and though he didn't return to full team drills before the end of the preseason, the running back looks like he'll be available for Week 1. Assuming Hall progresses to a full practice workload by the end of the week, he should be ready to handle a three-down workload Sunday.",
       "description": "Jets head coach Aaron Glenn said Tuesday that Hall (groin) is trending toward playing in Sunday's season opener versus the Titans, Zack Rosenblatt of The Athletic reports.",
       "metadata": {
-        "analysis": "Hall sustained a minor right groin strain during an Aug. 17 practice, and though he didn't return to full team drills before the end of the preseason, the running back looks like he's on track to be available for the start of the regular season. The Jets will publish their first injury report of 2026 following practice Wednesday, when it will be known whether Hall is a full or limited participant. Assuming Hall progresses to full practice workload by the end of the week, he should be ready to handle a three-down workload out of the New York backfield Sunday.",
+        "analysis": "Hall sustained a minor right groin strain during an Aug. 17 practice, and though he didn't return to full team drills before the end of the preseason, the running back looks like he'll be available for Week 1. Assuming Hall progresses to a full practice workload by the end of the week, he should be ready to handle a three-down workload Sunday.",
         "description": "Jets head coach Aaron Glenn said Tuesday that Hall (groin) is trending toward playing in Sunday's season opener versus the Titans, Zack Rosenblatt of The Athletic reports.",
-        "title": "Breece Hall - Trending toward playing Week 1",
+        "title": "Breece Hall - Trending toward playing in Week 1",
         "topic_id": "1403086715807084544"
       },
       "nfl_team": "NYJ",
@@ -1263,7 +1282,7 @@
       "source": "rotowire",
       "source_key": "636388",
       "story_id": "nfl|8155|rotowire|636388|1788884362000",
-      "title": "Breece Hall - Trending toward playing Week 1",
+      "title": "Breece Hall - Trending toward playing in Week 1",
       "url": null
     },
     {
@@ -1307,11 +1326,11 @@
       "url": "https://www.rotoballer.com/player-news/chris-brooks-has-a-real-opening-in-green-bays-backfield/1926125"
     },
     {
-      "analysis": "Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.",
-      "description": "The Eagles list Lemon as a starting receiver and their top punt returner on their unofficial depth chart released Tuesday, Andrew DiCecco of InsideTheBirds.com reports.",
+      "analysis": "The rookie joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the depth chart, though Wicks may be prioritized ahead of Lemon in two-wide sets to begin the season. Wicks turned in a strong training camp, while Lemon spent considerable time on the sideline while tending to a hamstring injury. The first-round pick will likely need to impress early in the season before pushing past Wicks as the No. 2 receiver.",
+      "description": "Lemon is listed as a starting wide receiver for the Eagles and their top punt returner on the unofficial depth chart released Tuesday, Andrew DiCecco of InsideTheBirds.com reports.",
       "metadata": {
-        "analysis": "Lemon joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the Eagles' depth chart, though Wicks may be prioritized ahead of the rookie first-round pick in two-wide sets, at least to begin the season. Wicks turned in a strong training camp for the Eagles, while Lemon spent considerable time on the sideline while tending to a hamstring injury. Lemon has since moved past that injury, but he'll likely need to impress both in practices and the snaps he receives early in the season before pushing past Wicks as the Eagles' No. 2 receiver.",
-        "description": "The Eagles list Lemon as a starting receiver and their top punt returner on their unofficial depth chart released Tuesday, Andrew DiCecco of InsideTheBirds.com reports.",
+        "analysis": "The rookie joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the depth chart, though Wicks may be prioritized ahead of Lemon in two-wide sets to begin the season. Wicks turned in a strong training camp, while Lemon spent considerable time on the sideline while tending to a hamstring injury. The first-round pick will likely need to impress early in the season before pushing past Wicks as the No. 2 receiver.",
+        "description": "Lemon is listed as a starting wide receiver for the Eagles and their top punt returner on the unofficial depth chart released Tuesday, Andrew DiCecco of InsideTheBirds.com reports.",
         "title": "Makai Lemon - Listed as starting receiver, punt returner",
         "topic_id": "1403081682961063936"
       },
@@ -1367,11 +1386,11 @@
       "url": "https://www.rotoballer.com/player-news/pat-freiermuth-not-worth-chasing-before-week-1/1926084"
     },
     {
-      "analysis": "The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.",
-      "description": "Fields appears on track to open the season as the Giants' No. 2 receiver after the team released Darius Slayton on Monday, Matt Iegros of USA Today reports.",
+      "analysis": "Prior to his release, Slayton looked like the leading candidate to handle the perimeter role opposite Malik Nabers (knee). Those duties instead could fall to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields drew positive buzz in training camp and the preseason for his physicality and ability to make plays downfield. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.",
+      "description": "Fields appears on track to open the season as the Giants' No. 2 wide receiver after the team released Darius Slayton on Monday, Matt Iegros of USA Today reports.",
       "metadata": {
-        "analysis": "The longest-tenured player on the Giants roster, Slayton looked like the leading candidate to handle the perimeter role opposite No. 1 wideout Malik Nabers (knee), but those duties could end up falling to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields showed impressive size-adjusted speed during pre-draft testing, and after drawing positive buzz in training camp and the preseason for his physicality and ability to make plays downfield, the Giants may have felt comfortable moving on from Slayton. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time in two- and three-wide sets, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.",
-        "description": "Fields appears on track to open the season as the Giants' No. 2 receiver after the team released Darius Slayton on Monday, Matt Iegros of USA Today reports.",
+        "analysis": "Prior to his release, Slayton looked like the leading candidate to handle the perimeter role opposite Malik Nabers (knee). Those duties instead could fall to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields drew positive buzz in training camp and the preseason for his physicality and ability to make plays downfield. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.",
+        "description": "Fields appears on track to open the season as the Giants' No. 2 wide receiver after the team released Darius Slayton on Monday, Matt Iegros of USA Today reports.",
         "title": "Malachi Fields - Looks set to begin season as No. 2 wideout",
         "topic_id": "1403071614840492032"
       },
