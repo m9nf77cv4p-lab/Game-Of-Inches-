@@ -2,11 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2256**
-- Newly captured: **0**
+- Stored stories: **2258**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Rashid Shaheed** — Rashid Shaheed Could Emerge as Key Part of Offense After Very Positive Camp (2026-09-09T10:32:06Z)
+  - Source: https://www.rotoballer.com/player-news/rashid-shaheed-could-emerge-as-key-part-of-offense-after-very-positive-camp/1926672
+- **NEW — MarShawn Lloyd** — Marshawn Lloyd Ready to Lead the Packers Backfield (2026-09-09T10:25:05Z)
+  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-ready-to-lead-the-packers-backfield/1926667
 - **Tre Tucker** — Tre Tucker's Has Clear Path to Fantasy Relevance in 2026 (2026-09-09T10:02:06Z)
   - Source: https://www.rotoballer.com/player-news/tre-tuckers-has-clear-path-to-fantasy-relevance-in-2026/1926644
 - **Jadarian Price** — Jadarian Price Carries Immense Upside in 2026 (2026-09-09T09:52:10Z)
@@ -215,7 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/breece-hall-trending-towards-being-active-in-week-1/1925966
 - **Makai Lemon** — Makai Lemon Listed as Starting WR, Punt Returner (2026-09-08T12:08:06Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemon-listed-as-starting-wr-punt-returner/1925950
-- **Tyler Shough** — Tyler Shough Belongs in the Week 1 Streaming Conversation (2026-09-08T11:59:08Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-shough-belongs-in-the-week-1-streaming-conversation/1925940
-- **Isaac TeSlaa** — Isaac TeSlaa Shouldn't Be Ignored in Deeper Leagues (2026-09-08T11:46:50Z)
-  - Source: https://www.rotoballer.com/player-news/isaac-teslaa-shouldnt-be-ignored-in-deeper-leagues/1925935

@@ -1,8 +1,11 @@
 {
-  "last_checked_at": "2026-09-09T14:23:49Z",
+  "last_checked_at": "2026-09-09T14:41:03Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11581|rotoballer|220420|1788949505000",
+    "nfl|8676|rotoballer|220421|1788949926000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Rashid Shaheed could play a pivotal role on offense this season. Shaheed had a very positive camp, earning praise from coaches, teammates, and media. It was a great step in the right direction for the 28-year-old, who was due to make a leap after posting relatively modest numbers following his trade from New Orleans to Seattle last season. Shaheed finished last year as the WR39 in PPR leagues, catching 59 passes for 687 yards and two touchdowns. Those are fine numbers, but the latest buzz from Seattle indicates that Shaheed should take another step forward after his first full offseason with the Seahawks. In fact, it's not crazy to say that he could open the year as the team's No. 2 receiver, ahead of Cooper Kupp. While Kupp is getting older and declining in productivity, Shaheed is trending up, and he represents a flashy playmaking option for quarterback Sam Darnold. A top-36 finish is well within reason for the Seahawks, who will likely lean on the passing game with Kenneth Walker gone and Zach Charbonnet (knee) on the PUP list. Shaheed ranks as a WR4/WR5 for now, but in a perfect world, he has high-end WR3 upside.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Rashid Shaheed could play a pivotal role on offense this season. Shaheed had a very positive camp, earning praise from coaches, teammates, and media. It was a great step in the right direction for the 28-year-old, who was due to make a leap after posting relatively modest numbers following his trade from New Orleans to Seattle last season. Shaheed finished last year as the WR39 in PPR leagues, catching 59 passes for 687 yards and two touchdowns. Those are fine numbers, but the latest buzz from Seattle indicates that Shaheed should take another step forward after his first full offseason with the Seahawks. In fact, it's not crazy to say that he could open the year as the team's No. 2 receiver, ahead of Cooper Kupp. While Kupp is getting older and declining in productivity, Shaheed is trending up, and he represents a flashy playmaking option for quarterback Sam Darnold. A top-36 finish is well within reason for the Seahawks, who will likely lean on the passing game with Kenneth Walker gone and Zach Charbonnet (knee) on the PUP list. Shaheed ranks as a WR4/WR5 for now, but in a perfect world, he has high-end WR3 upside.",
+        "title": "Rashid Shaheed Could Emerge as Key Part of Offense After Very Positive Camp",
+        "topic_id": "1403423836430426112",
+        "url": "https://www.rotoballer.com/player-news/rashid-shaheed-could-emerge-as-key-part-of-offense-after-very-positive-camp/1926672"
+      },
+      "nfl_team": "SEA",
+      "player_id": "8676",
+      "player_name": "Rashid Shaheed",
+      "position": "WR",
+      "published": 1788949926000,
+      "source": "rotoballer",
+      "source_key": "220421",
+      "story_id": "nfl|8676|rotoballer|220421|1788949926000",
+      "title": "Rashid Shaheed Could Emerge as Key Part of Offense After Very Positive Camp",
+      "url": "https://www.rotoballer.com/player-news/rashid-shaheed-could-emerge-as-key-part-of-offense-after-very-positive-camp/1926672"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back MarShawn Lloyd is ready to step into the lead-back role for Week 1 against the Minnesota Vikings, despite playing just one game over the last two seasons. Injuries have kept Lloyd sidelined for all but one game throughout his NFL career. However, the Packers are optimistic he'll be able to fill the void left by Josh Jacobs, who was recently placed on the commissioner's exempt list. \"[Lloyd is as] ready as he's ever been since he's been here,\" general manager Brian Gutekunst told Rob Demovsky of ESPN.com. \"He looks good. He's handling all the physicality, the things that he needs to as a running back.\" Head coach Matt Lafleur has echoed Gutekunst's optimistic tone, but he also declined to pencil Lloyd into a specific workload. Given that Lloyd has just seven touches as a pro, it's unlikely that he'll occupy an every-down role. In all likelihood, Kaleb Johnson and Chris Brooks will earn some touches. With that being said, if there's a Green Bay running back to roster, it's Lloyd. He projects as a fringe RB2/RB3 this week and for the duration of Jacobs' absence.",
+      "metadata": {
+        "description": "Green Bay Packers running back MarShawn Lloyd is ready to step into the lead-back role for Week 1 against the Minnesota Vikings, despite playing just one game over the last two seasons. Injuries have kept Lloyd sidelined for all but one game throughout his NFL career. However, the Packers are optimistic he'll be able to fill the void left by Josh Jacobs, who was recently placed on the commissioner's exempt list. \"[Lloyd is as] ready as he's ever been since he's been here,\" general manager Brian Gutekunst told Rob Demovsky of ESPN.com. \"He looks good. He's handling all the physicality, the things that he needs to as a running back.\" Head coach Matt Lafleur has echoed Gutekunst's optimistic tone, but he also declined to pencil Lloyd into a specific workload. Given that Lloyd has just seven touches as a pro, it's unlikely that he'll occupy an every-down role. In all likelihood, Kaleb Johnson and Chris Brooks will earn some touches. With that being said, if there's a Green Bay running back to roster, it's Lloyd. He projects as a fringe RB2/RB3 this week and for the duration of Jacobs' absence.",
+        "title": "Marshawn Lloyd Ready to Lead the Packers Backfield",
+        "topic_id": "1403422578495774720",
+        "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-ready-to-lead-the-packers-backfield/1926667"
+      },
+      "nfl_team": "GB",
+      "player_id": "11581",
+      "player_name": "MarShawn Lloyd",
+      "position": "RB",
+      "published": 1788949505000,
+      "source": "rotoballer",
+      "source_key": "220420",
+      "story_id": "nfl|11581|rotoballer|220420|1788949505000",
+      "title": "Marshawn Lloyd Ready to Lead the Packers Backfield",
+      "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-ready-to-lead-the-packers-backfield/1926667"
+    },
     {
       "analysis": null,
       "description": "Las Vegas Raiders wide receiver Tre Tucker had a strong training camp and is expected to be the team's top wide receiver in 2026. In 2025, Tucker hauled in 57 of 92 targets for 696 yards and five touchdowns, while adding 51 rushing yards on 11 carries. With Jakobi Meyers gone and the team not making any significant additions, Tucker is in a good spot in head coach Klint Kubiak's offense. Tucker was a favorite of Kirk Cousins' during the preseason, catching five passes for over 50 yards in just three drives together. While he is not a clear startable option in Week 1, his current role in Las Vegas is enticing, and fantasy managers should take note of his workload against Miami.",
