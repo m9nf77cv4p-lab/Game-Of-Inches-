@@ -2,14 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2259**
-- Newly captured: **2**
+- Stored stories: **2258**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — AJ Barner** — AJ Barner Could Have a Larger Role After Strong Camp (2026-09-09T10:47:06Z)
+- **AJ Barner** — AJ Barner Could Have a Larger Role After Strong Camp (2026-09-09T10:47:06Z)
   - Source: https://www.rotoballer.com/player-news/aj-barner-could-have-a-larger-role-after-strong-camp/1926692
-- **NEW — Chris Rodriguez** — Chris Rodriguez Jr. Emerging as Key Part of Backfield Despite Buzz Around Teammate (2026-09-09T10:39:05Z)
+- **Chris Rodriguez** — Chris Rodriguez Jr. Emerging as Key Part of Backfield Despite Buzz Around Teammate (2026-09-09T10:39:05Z)
   - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-emerging-as-key-part-of-backfield-despite-buzz-around-teammate/1926678
 - **Rashid Shaheed** — Rashid Shaheed Could Emerge as Key Part of Offense After Very Positive Camp (2026-09-09T10:32:06Z)
   - Source: https://www.rotoballer.com/player-news/rashid-shaheed-could-emerge-as-key-part-of-offense-after-very-positive-camp/1926672

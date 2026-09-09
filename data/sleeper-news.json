@@ -1,11 +1,8 @@
 {
-  "last_checked_at": "2026-09-09T14:54:57Z",
+  "last_checked_at": "2026-09-09T15:08:48Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
-  "new_story_ids": [
-    "nfl|10219|rotoballer|220422|1788950345000",
-    "nfl|11603|rotoballer|220423|1788950826000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -45384,27 +45381,6 @@
       "story_id": "nfl|9756|rotoballer|218329|1786404005000",
       "title": "Jordan Addison Close to Full Participation Following Thumb Injury",
       "url": "https://www.rotoballer.com/player-news/jordan-addison-close-to-full-participation-following-thumb-injury/1906677"
-    },
-    {
-      "analysis": "\"We feel pretty good about him being ready to go, especially when the season gets here,\" Campbell said. Pacheco is slated to open the season backing up Jahmyr Gibbs. ",
-      "description": "Lions coach Dan Campbell said Isiah Pacheco is dealing with a sprained MCL but should be good to go in time for Week 1.",
-      "metadata": {
-        "analysis": "\"We feel pretty good about him being ready to go, especially when the season gets here,\" Campbell said. Pacheco is slated to open the season backing up Jahmyr Gibbs. ",
-        "description": "Lions coach Dan Campbell said Isiah Pacheco is dealing with a sprained MCL but should be good to go in time for Week 1.",
-        "title": "Isiah Pacheco dealing with sprained MCL, should be good to go Week 1",
-        "topic_id": "1392558560105234432",
-        "url": "https://www.fantasypros.com/nfl/news/601585/isiah-pacheco-dealing-with-sprained-mcl-should-be-good-to-go-week-1.php"
-      },
-      "nfl_team": "DET",
-      "player_id": "8205",
-      "player_name": "Isiah Pacheco",
-      "position": "RB",
-      "published": 1786374342524,
-      "source": "fantasy_pros",
-      "source_key": "601585",
-      "story_id": "nfl|8205|fantasy_pros|601585|1786374342524",
-      "title": "Isiah Pacheco dealing with sprained MCL, should be good to go Week 1",
-      "url": "https://www.fantasypros.com/nfl/news/601585/isiah-pacheco-dealing-with-sprained-mcl-should-be-good-to-go-week-1.php"
     }
   ]
 }
