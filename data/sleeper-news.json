@@ -1,22 +1,10 @@
 {
-  "last_checked_at": "2026-09-09T21:46:02Z",
+  "last_checked_at": "2026-09-09T21:55:46Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|11571|rotowire|636518|1788989748000",
-    "nfl|11637|rotowire|636520|1788989925000",
-    "nfl|12534|fantasy_pros|606795|1788989747873",
-    "nfl|13287|fantasy_pros|606796|1788989748305",
-    "nfl|13287|rotoballer|220468|1788974226000",
-    "nfl|4035|fantasy_pros|606797|1788990347771",
-    "nfl|5846|fantasy_pros|606791|1788989147701",
-    "nfl|5846|rotowire|636513|1788988880000",
-    "nfl|6790|fantasy_pros|606794|1788989747885",
-    "nfl|6819|fantasy_pros|606793|1788989747901",
-    "nfl|8134|fantasy_pros|606800|1788990347730",
-    "nfl|8134|rotowire|636517|1788989738000",
-    "nfl|9484|rotowire|636522|1788990088000",
-    "nfl|9500|rotowire|636514|1788988957000"
+    "nfl|12533|rotowire|636524|1788990345000",
+    "nfl|8136|rotowire|636525|1788990550000"
   ],
   "schema_version": 1,
   "source": {
@@ -26,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "White had been tending to a hamstring issue since mid-August, but his ability to avoid the practice report entirely Wednesday indicates he's put the injury behind him. Meanwhile, Jacory Croskey-Merritt (groin) was limited to kick off Week 1 prep, leaving one big question mark in Washington's backfield ahead of Sunday's game in Philadelphia.",
+      "description": "White (hamstring) wasn't listed on the Commanders' initial Week 1 injury report Wednesday.",
+      "metadata": {
+        "analysis": "White had been tending to a hamstring issue since mid-August, but his ability to avoid the practice report entirely Wednesday indicates he's put the injury behind him. Meanwhile, Jacory Croskey-Merritt (groin) was limited to kick off Week 1 prep, leaving one big question mark in Washington's backfield ahead of Sunday's game in Philadelphia.",
+        "description": "White (hamstring) wasn't listed on the Commanders' initial Week 1 injury report Wednesday.",
+        "title": "Rachaad White - Clear of injury report",
+        "topic_id": "1403532135624634368"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8136",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "published": 1788990550000,
+      "source": "rotowire",
+      "source_key": "636525",
+      "story_id": "nfl|8136|rotowire|636525|1788990550000",
+      "title": "Rachaad White - Clear of injury report",
+      "url": null
+    },
     {
       "analysis": "The veteran running back was a limited participant at the team's first practice of the week on Wednesday. He's recovering from a knee injury right now and seems likely to miss Week 1 as a result. If that's the case, Kendre Miller will be primed for more work in his absence.",
       "description": "Alvin Kamara (knee) was officially limited at practice on Wednesday.",
@@ -67,6 +75,26 @@
       "story_id": "nfl|8134|fantasy_pros|606800|1788990347730",
       "title": "Khalil Shakir good to go for Sunday",
       "url": "https://www.fantasypros.com/nfl/news/606800/khalil-shakir-good-to-go-sunday.php"
+    },
+    {
+      "analysis": "Croskey-Merritt initially suffered an undisclosed injury in an Aug. 22 practice that coach Dan Quinn clarified as to the running back's lower body not long after. While the running back was able to return to the practice field Sept. 1, Croskey-Merritt's activity level wasn't known until this week. He still has some work to do ahead of Sunday's Week 1 matchup at Philadelphia, while fellow RB Rachaad White (hamstring) avoided the Commanders' injury report entirely Wednesday.",
+      "description": "Croskey-Merritt practiced in a limited capacity Wednesday due to a groin injury.",
+      "metadata": {
+        "analysis": "Croskey-Merritt initially suffered an undisclosed injury in an Aug. 22 practice that coach Dan Quinn clarified as to the running back's lower body not long after. While the running back was able to return to the practice field Sept. 1, Croskey-Merritt's activity level wasn't known until this week. He still has some work to do ahead of Sunday's Week 1 matchup at Philadelphia, while fellow RB Rachaad White (hamstring) avoided the Commanders' injury report entirely Wednesday.",
+        "description": "Croskey-Merritt practiced in a limited capacity Wednesday due to a groin injury.",
+        "title": "Jacory Croskey-Merritt - Limited practice Wednesday",
+        "topic_id": "1403532135565914112"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1788990345000,
+      "source": "rotowire",
+      "source_key": "636524",
+      "story_id": "nfl|12533|rotowire|636524|1788990345000",
+      "title": "Jacory Croskey-Merritt - Limited practice Wednesday",
+      "url": null
     },
     {
       "analysis": "Kraft has been working in full pads for weeks, so it's no surprise. He's ready to go for Sunday's game against the Vikings and is a top-five TE1 for fantasy in that matchup.",
