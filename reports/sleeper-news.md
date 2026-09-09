@@ -2,23 +2,32 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2388**
-- Newly captured: **5**
+- Stored stories: **2392**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Zay Flowers** — Zay Flowers (hamstring) limited at practice Wednesday (2026-09-09T22:00:48.012000Z)
+- **NEW — Tucker Kraft** — Tucker Kraft (knee) off injury report for Week 1 (2026-09-09T22:10:47.878000Z)
+  - Kraft has been rehabbing from a major knee injury all offseason, but it appears that he is finally close to full health again, as he carries no injury designation prior to the team's season opener on Sunday. He could be limited for his first few weeks back, but the team hasn't indicated that, meaning that he could be seeing a full workload in the very near future.
+  - Source: https://www.fantasypros.com/nfl/news/606807/tucker-kraft-knee-off-injury-report-week-1.php
+- **NEW — Tre' Harris** — Tre' Harris - Fully healthy for Week 1 (2026-09-09T22:10:27Z)
+  - Harris dealt with an unspecified injury last month but is fine for Sunday's season opener against the Cardinals. He's expected to fill the WR3 role behind Ladd McConkey and Quentin Johnson this season, but the Chargers also figure to use plenty of TE-heavy sets with Charlie Kolar, Oronde Gadsden and David Njoku.
+- **NEW — Ashton Jeanty** — Ashton Jeanty - Logs full practice Wednesday (2026-09-09T22:09:35Z)
+  - When Jeanty left practice on Aug. 23, the initial concerns were significant because the running back wasn't able to put much pressure on his right leg as he exited the field. Adam Schefter of ESPN subsequently reported that Jeanty wasn't dealing with a long-term issue, and the diagnosis eventually revealed a low-ankle sprain. After logging all activity at Wednesday's session, Jeanty now is in the clear for Sunday's regular-season opener against the Dolphins, though he may still yield some RB reps to reserves Mike Washington and even Dylan Laube.
+- **NEW — Jaylin Noel** — Jaylin Noel - Fully healthy (2026-09-09T22:08:13Z)
+  - Noel dealt with hamstring and finger issues early on in camp but is ready to go for Sunday's season opener against Buffalo. The second-year wideout is competing with Xavier Hutchinson for snaps behind Nico Collins and trade pickup Kayshon Boutte.
+- **Zay Flowers** — Zay Flowers (hamstring) limited at practice Wednesday (2026-09-09T22:00:48.012000Z)
   - Flowers was only able to practice in a limited fashion on Wednesday. There seems to be a lot of optimism for his Week 1 availability, but fantasy managers should keep tabs on him throughout the week to make sure he's ready to go for the season opener, as hamstring injuries have a tendency to reaggravate or linger longer than expected. He should be started in most league formats if he is fully cleared to play, however.
   - Source: https://www.fantasypros.com/nfl/news/606802/zay-flowers-hamstring-limited-practice-wednesday.php
-- **NEW — Rachaad White** — Rachaad White (hamstring) off injury report for Sunday (2026-09-09T22:00:47.986000Z)
+- **Rachaad White** — Rachaad White (hamstring) off injury report for Sunday (2026-09-09T22:00:47.986000Z)
   - The veteran running back is fully over his hamstring injury at this point and is set to be a full go for Washington's season opener on Sunday. He will be primed for more work if Jacory Croskey-Merritt (groin) is limited or sidelined for the team's matchup against the Eagles.
   - Source: https://www.fantasypros.com/nfl/news/606804/rachaad-white-hamstring-off-injury-report-sunday.php
-- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) limited participant Wednesday (2026-09-09T22:00:47.973000Z)
+- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) limited participant Wednesday (2026-09-09T22:00:47.973000Z)
   - Croskey-Merritt is managing a groin injury right now and was unable to log a full practice session on Wednesday as a result. There's an off-chance that it will leave him sidelined for Week 1, which would lead to more work for Rachaad White against the Eagles.
   - Source: https://www.fantasypros.com/nfl/news/606805/jacory-croskey-merritt-groin-limited-participant-wednesday.php
-- **NEW — Keaton Mitchell** — Keaton Mitchell - Limited Wednesday (2026-09-09T21:58:45Z)
+- **Keaton Mitchell** — Keaton Mitchell - Limited Wednesday (2026-09-09T21:58:45Z)
   - Mitchell returned to practice earlier this week, and a limited session to open the week gives him a good chance to take the field Sunday against the Cardinals. Mitchell is expected to serve as the big-play complementary back behind Omarion Hampton this season. He's worthy of a bench stash in most fantasy leagues.
-- **NEW — Keon Coleman** — Keon Coleman (foot/toe) without injury designation for Sunday (2026-09-09T21:55:47.849000Z)
+- **Keon Coleman** — Keon Coleman (foot/toe) without injury designation for Sunday (2026-09-09T21:55:47.849000Z)
   - Coleman's foot and toe injuries are no longer an issue for him and he carries no injury designation ahead of the team's season opener on Sunday. He isn't expected to be fantasy relevant for the foreseeable future, however.
   - Source: https://www.fantasypros.com/nfl/news/606801/keon-coleman-foottoe-without-injury-designation-sunday.php
 - **Rachaad White** — Rachaad White - Clear of injury report (2026-09-09T21:49:10Z)
@@ -239,13 +248,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/terrance-ferguson-well-positioned-for-a-second-year-breakout-in-2026/1927077
 - **Jakobi Meyers** — Jakobi Meyers - Not taking contact Wednesday (2026-09-09T16:28:59Z)
   - The extent of Meyers' practice participation won't be revealed until the Jaguars post their first injury report of the season following Wednesday's session, but the fact that the wideout was donning a non-contact jersey suggests that he'll likely be listed as a limited participant. Meyers jammed his right hand in a joint practice with the Panthers three weeks ago, but the Jaguars haven't yet indicated that the receiver's availability for Sunday's season opener versus the Browns is in any serious jeopardy.
-- **Caleb Douglas** — Caleb Douglas Could Be Poised for Heavy Usage in Miami (2026-09-09T16:27:08Z)
-  - Source: https://www.rotoballer.com/player-news/caleb-douglas-could-be-poised-for-heavy-usage-in-miami/1927067
-- **Jalen McMillan** — Jalen McMillan (knee) participating at practice Wednesday (2026-09-09T16:25:36.108000Z)
-  - McMillan is taking part in Tampa Bay's first official practice of the week on Wednesday. He was sidelined for part of the offseason due to a knee injury, but he seems to be nearly full health at this point and looks likely to play in Week 1. We should learn more when the team's official injury report comes out after practice.
-  - Source: https://www.fantasypros.com/nfl/news/606721/jalen-mcmillan-knee-participating-practice-wednesday.php
-- **Jalen McMillan** — Jalen McMillan - Seems to be full practice participant (2026-09-09T16:20:05Z)
-  - Tampa Bay will release its first injury report of the season following Wednesday's session, when it will be known whether McMillan was in fact a full participant or limited in some capacity. Even a limited listing would still put McMillan in a strong position to play in Sunday's season opener versus the Bengals, after a sore knee as well as a left calf injury kept him off the field for much of training camp. McMillan projects to begin the season as Tampa Bay's No. 3 receiver behind Emeka Egbuka (toe) and Chris Godwin.
-- **Emeka Egbuka** — Emeka Egbuka (toe) seen practicing Wednesday (2026-09-09T16:15:35.994000Z)
-  - Egbuka has been dealing with a nagging toe injury for several weeks, but he was seen practicing with the Buccaneers on Wednesday ahead of their season opener against the Bengals on Sunday. That's a good sign for his health heading into Week 1, but fantasy managers should keep tabs on further updates about his health in the coming days to see whether or not he will be fully healthy for the first game of the season.
-  - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php

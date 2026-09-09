@@ -1,13 +1,12 @@
 {
-  "last_checked_at": "2026-09-09T22:10:39Z",
+  "last_checked_at": "2026-09-09T22:25:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|11637|fantasy_pros|606801|1788990947849",
-    "nfl|12533|fantasy_pros|606805|1788991247973",
-    "nfl|8136|fantasy_pros|606804|1788991247986",
-    "nfl|9511|rotowire|636529|1788991125000",
-    "nfl|9997|fantasy_pros|606802|1788991248012"
+    "nfl|12509|rotowire|636534|1788991827000",
+    "nfl|12527|rotowire|636533|1788991775000",
+    "nfl|12536|rotowire|636532|1788991693000",
+    "nfl|9484|fantasy_pros|606807|1788991847878"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +16,87 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Kraft has been rehabbing from a major knee injury all offseason, but it appears that he is finally close to full health again, as he carries no injury designation prior to the team's season opener on Sunday. He could be limited for his first few weeks back, but the team hasn't indicated that, meaning that he could be seeing a full workload in the very near future.",
+      "description": "Tucker Kraft (knee) is off of the injury report for Week 1's game against the Minnesota Vikings.",
+      "metadata": {
+        "analysis": "Kraft has been rehabbing from a major knee injury all offseason, but it appears that he is finally close to full health again, as he carries no injury designation prior to the team's season opener on Sunday. He could be limited for his first few weeks back, but the team hasn't indicated that, meaning that he could be seeing a full workload in the very near future.",
+        "description": "Tucker Kraft (knee) is off of the injury report for Week 1's game against the Minnesota Vikings.",
+        "title": "Tucker Kraft (knee) off injury report for Week 1",
+        "topic_id": "1403537173281538048",
+        "url": "https://www.fantasypros.com/nfl/news/606807/tucker-kraft-knee-off-injury-report-week-1.php"
+      },
+      "nfl_team": "GB",
+      "player_id": "9484",
+      "player_name": "Tucker Kraft",
+      "position": "TE",
+      "published": 1788991847878,
+      "source": "fantasy_pros",
+      "source_key": "606807",
+      "story_id": "nfl|9484|fantasy_pros|606807|1788991847878",
+      "title": "Tucker Kraft (knee) off injury report for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606807/tucker-kraft-knee-off-injury-report-week-1.php"
+    },
+    {
+      "analysis": "Harris dealt with an unspecified injury last month but is fine for Sunday's season opener against the Cardinals. He's expected to fill the WR3 role behind Ladd McConkey and Quentin Johnson this season, but the Chargers also figure to use plenty of TE-heavy sets with Charlie Kolar, Oronde Gadsden and David Njoku.",
+      "description": "Harris (undisclosed) is not listed on the Week 1 injury report Wednesday.",
+      "metadata": {
+        "analysis": "Harris dealt with an unspecified injury last month but is fine for Sunday's season opener against the Cardinals. He's expected to fill the WR3 role behind Ladd McConkey and Quentin Johnson this season, but the Chargers also figure to use plenty of TE-heavy sets with Charlie Kolar, Oronde Gadsden and David Njoku.",
+        "description": "Harris (undisclosed) is not listed on the Week 1 injury report Wednesday.",
+        "title": "Tre' Harris - Fully healthy for Week 1",
+        "topic_id": "1403538427785265152"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12509",
+      "player_name": "Tre' Harris",
+      "position": "WR",
+      "published": 1788991827000,
+      "source": "rotowire",
+      "source_key": "636534",
+      "story_id": "nfl|12509|rotowire|636534|1788991827000",
+      "title": "Tre' Harris - Fully healthy for Week 1",
+      "url": null
+    },
+    {
+      "analysis": "When Jeanty left practice on Aug. 23, the initial concerns were significant because the running back wasn't able to put much pressure on his right leg as he exited the field. Adam Schefter of ESPN subsequently reported that Jeanty wasn't dealing with a long-term issue, and the diagnosis eventually revealed a low-ankle sprain. After logging all activity at Wednesday's session, Jeanty now is in the clear for Sunday's regular-season opener against the Dolphins, though he may still yield some RB reps to reserves Mike Washington and even Dylan Laube.",
+      "description": "Jeanty (ankle) practiced fully Wednesday, Anthony Galaviz of The Fresno Bee reports.",
+      "metadata": {
+        "analysis": "When Jeanty left practice on Aug. 23, the initial concerns were significant because the running back wasn't able to put much pressure on his right leg as he exited the field. Adam Schefter of ESPN subsequently reported that Jeanty wasn't dealing with a long-term issue, and the diagnosis eventually revealed a low-ankle sprain. After logging all activity at Wednesday's session, Jeanty now is in the clear for Sunday's regular-season opener against the Dolphins, though he may still yield some RB reps to reserves Mike Washington and even Dylan Laube.",
+        "description": "Jeanty (ankle) practiced fully Wednesday, Anthony Galaviz of The Fresno Bee reports.",
+        "title": "Ashton Jeanty - Logs full practice Wednesday",
+        "topic_id": "1403537169015922688"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788991775000,
+      "source": "rotowire",
+      "source_key": "636533",
+      "story_id": "nfl|12527|rotowire|636533|1788991775000",
+      "title": "Ashton Jeanty - Logs full practice Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "Noel dealt with hamstring and finger issues early on in camp but is ready to go for Sunday's season opener against Buffalo. The second-year wideout is competing with Xavier Hutchinson for snaps behind Nico Collins and trade pickup Kayshon Boutte.",
+      "description": "Noel (hamstring) is not listed on the Week 1 injury report Wednesday.",
+      "metadata": {
+        "analysis": "Noel dealt with hamstring and finger issues early on in camp but is ready to go for Sunday's season opener against Buffalo. The second-year wideout is competing with Xavier Hutchinson for snaps behind Nico Collins and trade pickup Kayshon Boutte.",
+        "description": "Noel (hamstring) is not listed on the Week 1 injury report Wednesday.",
+        "title": "Jaylin Noel - Fully healthy",
+        "topic_id": "1403537169003339776"
+      },
+      "nfl_team": "HOU",
+      "player_id": "12536",
+      "player_name": "Jaylin Noel",
+      "position": "WR",
+      "published": 1788991693000,
+      "source": "rotowire",
+      "source_key": "636532",
+      "story_id": "nfl|12536|rotowire|636532|1788991693000",
+      "title": "Jaylin Noel - Fully healthy",
+      "url": null
+    },
     {
       "analysis": "Flowers was only able to practice in a limited fashion on Wednesday. There seems to be a lot of optimism for his Week 1 availability, but fantasy managers should keep tabs on him throughout the week to make sure he's ready to go for the season opener, as hamstring injuries have a tendency to reaggravate or linger longer than expected. He should be started in most league formats if he is fully cleared to play, however.",
       "description": "Zay Flowers (hamstring) was limited at Baltimore's practice on Wednesday.",
