@@ -2,16 +2,25 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2294**
-- Newly captured: **5**
+- Stored stories: **2297**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Jonathon Brooks** — Jonathon Brooks - Practicing in pads Wednesday (2026-09-09T17:58:58Z)
+- **NEW — Malik Nabers** — Malik Nabers (knee) seen practicing Wednesday (2026-09-09T18:10:36.094000Z)
+  - As expected, Nabers was taking part in New York's first official practice of the week on Wednesday. He is trending towards playing in Week 1, but fantasy managers should keep a close eye on any official updates about his status ahead of the season opener on Sunday night.
+  - Source: https://www.fantasypros.com/nfl/news/606735/malik-nabers-knee-seen-practicing-wednesday.php
+- **NEW — Ashton Jeanty** — Ashton Jeanty (ankle) set to practice Wednesday (2026-09-09T18:10:36.076000Z)
+  - Jeanty will participate in the team's first practice of the week on Wednesday. It is unknown if he will be a limited or full participant, but we should get clarity on that later in the day. His injury status has a lot of implications ahead of Week 1, so it should be monitored closely throughout the week.
+  - Source: https://www.fantasypros.com/nfl/news/606736/ashton-jeanty-ankle-set-to-practice-wednesday.php
+- **NEW — Jakobi Meyers** — Jakobi Meyers (hand) says he will play Sunday (2026-09-09T18:10:36.060000Z)
+  - Meyers was practicing in a non-contact jersey on Wednesday due to his hand injury, but it seems that was only a precautionary measure, and he told reporters that he is going to play in the team's season opener on Sunday. His presence will mean more competition for Parker Washington, Brian Thomas Jr., and Travis Hunter against the Browns.
+  - Source: https://www.fantasypros.com/nfl/news/606737/jakobi-meyers-hand-says-he-will-play-sunday.php
+- **Jonathon Brooks** — Jonathon Brooks - Practicing in pads Wednesday (2026-09-09T17:58:58Z)
   - With Brooks having worked off to the side earlier in the week, his presence in uniform and pads would suggest he's trending toward being available for Sunday's season opener against the Bears. If he plays, Brooks is expected to split backfield work with Chuba Hubbard, rendering both little more than low-end RB2 fantasy options until one is able to separate from the other atop the depth chart.
-- **NEW — Ashton Jeanty** — Ashton Jeanty - Will practice Wednesday (2026-09-09T17:56:53Z)
+- **Ashton Jeanty** — Ashton Jeanty - Will practice Wednesday (2026-09-09T17:56:53Z)
   - Jeanty has been sidelined since suffering a low-ankle sprain Aug. 23, but Kubiak expressed optimism last week that his star running back would be available for Week 1. Getting on the practice field Wednesday would be a strong sign that Jeanty will be able to suit up Sunday versus Miami.
-- **NEW — Malik Nabers** — Malik Nabers - Going through drills Wednesday (2026-09-09T17:51:12Z)
+- **Malik Nabers** — Malik Nabers - Going through drills Wednesday (2026-09-09T17:51:12Z)
   - Nabers was first in line to go through wideout drills, according to Hughes, and it appeared as if he's ready to go for Sunday night's Week 1 opener against Dallas. It's unclear if Nabers will play his full snap allotment against the Cowboys, so Nabers is looking more like a fantasy WR2 with obvious upside in what would be his first game back from a torn ACL.
 - **Tucker Kraft** — Tucker Kraft - In full pads Wednesday (2026-09-09T17:48:17Z)
   - Kraft has been in full pads at practice for weeks now and appears ready to go for Sunday's Week 1 opener against the Vikings. He's insisted he's ready and doesn't need to be on a snap count, but it will be something to watch Sunday in Kraft's first game back from a torn ACL. Even if he's somewhat limited, Kraft is a locked-in fantasy TE1.
@@ -56,9 +65,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
 - **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
-- **NEW — Kaleb Johnson** — Kaleb Johnson Could Play a Role in Week 1 Against Vikings (2026-09-09T13:58:23Z)
+- **Kaleb Johnson** — Kaleb Johnson Could Play a Role in Week 1 Against Vikings (2026-09-09T13:58:23Z)
   - Source: https://www.rotoballer.com/player-news/kaleb-johnson-could-play-a-role-in-week-1-against-vikings/1926919
-- **NEW — Zay Flowers** — Zay Flowers Working to the Side on Wednesday (2026-09-09T13:51:09Z)
+- **Zay Flowers** — Zay Flowers Working to the Side on Wednesday (2026-09-09T13:51:09Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-working-to-the-side-on-wednesday/1926897
 - **Tyreek Hill** — Tyreek Hill Recommended to Return in October (2026-09-09T13:44:29Z)
   - Source: https://www.rotoballer.com/player-news/tyreek-hill-recommended-to-return-in-october/1926887
@@ -218,9 +227,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/aj-barner-a-potential-tight-end-option-in-week-1/1926214
 - **Cooper Kupp** — Cooper Kupp Not Worth Rostering in Week 1 (2026-09-08T18:22:14Z)
   - Source: https://www.rotoballer.com/player-news/cooper-kupp-not-worth-rostering-in-week-1/1926212
-- **Rashid Shaheed** — Rashid Shaheed a Player to Watch in Week 1 (2026-09-08T18:22:10Z)
-  - Source: https://www.rotoballer.com/player-news/rashid-shaheed-a-player-to-watch-in-week-1/1926210
-- **Jason Myers** — Jason Myers a Clear K1 in Week 1 (2026-09-08T18:18:10Z)
-  - Source: https://www.rotoballer.com/player-news/jason-myers-a-clear-k1-in-week-1/1926208
-- **Tory Horton** — Tory Horton is Questionable for Wednesday's Game (2026-09-08T18:16:05Z)
-  - Source: https://www.rotoballer.com/player-news/tory-horton-is-questionable-for-wednesdays-game/1926204

@@ -1,13 +1,11 @@
 {
-  "last_checked_at": "2026-09-09T18:07:18Z",
+  "last_checked_at": "2026-09-09T18:27:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|11583|rotowire|636471|1788976738000",
-    "nfl|11632|rotowire|636469|1788976272000",
-    "nfl|12504|rotoballer|220444|1788962303000",
-    "nfl|12527|rotowire|636470|1788976613000",
-    "nfl|9997|rotoballer|220443|1788961869000"
+    "nfl|11632|fantasy_pros|606735|1788977436094",
+    "nfl|12527|fantasy_pros|606736|1788977436076",
+    "nfl|5947|fantasy_pros|606737|1788977436060"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +15,69 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "As expected, Nabers was taking part in New York's first official practice of the week on Wednesday. He is trending towards playing in Week 1, but fantasy managers should keep a close eye on any official updates about his status ahead of the season opener on Sunday night.",
+      "description": "Malik Nabers (knee) was seen participating at New York's practice on Wednesday.",
+      "metadata": {
+        "analysis": "As expected, Nabers was taking part in New York's first official practice of the week on Wednesday. He is trending towards playing in Week 1, but fantasy managers should keep a close eye on any official updates about his status ahead of the season opener on Sunday night.",
+        "description": "Malik Nabers (knee) was seen participating at New York's practice on Wednesday.",
+        "title": "Malik Nabers (knee) seen practicing Wednesday",
+        "topic_id": "1403476725869899776",
+        "url": "https://www.fantasypros.com/nfl/news/606735/malik-nabers-knee-seen-practicing-wednesday.php"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1788977436094,
+      "source": "fantasy_pros",
+      "source_key": "606735",
+      "story_id": "nfl|11632|fantasy_pros|606735|1788977436094",
+      "title": "Malik Nabers (knee) seen practicing Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606735/malik-nabers-knee-seen-practicing-wednesday.php"
+    },
+    {
+      "analysis": "Jeanty will participate in the team's first practice of the week on Wednesday. It is unknown if he will be a limited or full participant, but we should get clarity on that later in the day. His injury status has a lot of implications ahead of Week 1, so it should be monitored closely throughout the week.",
+      "description": "Ashton Jeanty (ankle) is set to take part in Las Vegas' practice on Wednesday.",
+      "metadata": {
+        "analysis": "Jeanty will participate in the team's first practice of the week on Wednesday. It is unknown if he will be a limited or full participant, but we should get clarity on that later in the day. His injury status has a lot of implications ahead of Week 1, so it should be monitored closely throughout the week.",
+        "description": "Ashton Jeanty (ankle) is set to take part in Las Vegas' practice on Wednesday.",
+        "title": "Ashton Jeanty (ankle) set to practice Wednesday",
+        "topic_id": "1403476725798596608",
+        "url": "https://www.fantasypros.com/nfl/news/606736/ashton-jeanty-ankle-set-to-practice-wednesday.php"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788977436076,
+      "source": "fantasy_pros",
+      "source_key": "606736",
+      "story_id": "nfl|12527|fantasy_pros|606736|1788977436076",
+      "title": "Ashton Jeanty (ankle) set to practice Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606736/ashton-jeanty-ankle-set-to-practice-wednesday.php"
+    },
+    {
+      "analysis": "Meyers was practicing in a non-contact jersey on Wednesday due to his hand injury, but it seems that was only a precautionary measure, and he told reporters that he is going to play in the team's season opener on Sunday. His presence will mean more competition for Parker Washington, Brian Thomas Jr., and Travis Hunter against the Browns.",
+      "description": "Jakobi Meyers (hand) told reporters that he is going to play in Sunday's season opener against the Cleveland Browns.",
+      "metadata": {
+        "analysis": "Meyers was practicing in a non-contact jersey on Wednesday due to his hand injury, but it seems that was only a precautionary measure, and he told reporters that he is going to play in the team's season opener on Sunday. His presence will mean more competition for Parker Washington, Brian Thomas Jr., and Travis Hunter against the Browns.",
+        "description": "Jakobi Meyers (hand) told reporters that he is going to play in Sunday's season opener against the Cleveland Browns.",
+        "title": "Jakobi Meyers (hand) says he will play Sunday",
+        "topic_id": "1403476725731487744",
+        "url": "https://www.fantasypros.com/nfl/news/606737/jakobi-meyers-hand-says-he-will-play-sunday.php"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1788977436060,
+      "source": "fantasy_pros",
+      "source_key": "606737",
+      "story_id": "nfl|5947|fantasy_pros|606737|1788977436060",
+      "title": "Jakobi Meyers (hand) says he will play Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/606737/jakobi-meyers-hand-says-he-will-play-sunday.php"
+    },
     {
       "analysis": "With Brooks having worked off to the side earlier in the week, his presence in uniform and pads would suggest he's trending toward being available for Sunday's season opener against the Bears. If he plays, Brooks is expected to split backfield work with Chuba Hubbard, rendering both little more than low-end RB2 fantasy options until one is able to separate from the other atop the depth chart.",
       "description": "Brooks (general soreness) is in uniform and pads at Wednesday's practice, Mike Kaye of ESPN.com reports.",
