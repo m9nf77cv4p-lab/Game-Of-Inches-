@@ -2,15 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2232**
+- Stored stories: **2234**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — George Kittle** — George Kittle (Achilles) limited in practice Tuesday  (2026-09-09T00:00:23.558000Z)
+- **George Kittle** — George Kittle (Achilles) limited in practice Tuesday  (2026-09-09T00:00:23.558000Z)
   - Kittle remains on track to be good to go for Thursday's season opener coming off an Achilles tear. It is unclear if he'll be facing any sort of snap count on Thursday. 
   - Source: https://www.fantasypros.com/nfl/news/606651/george-kittle-achilles-limited-practice-tuesday.php
-- **NEW — Terrance Ferguson** — Terrance Ferguson - Sheds injury tag (2026-09-08T23:53:32Z)
+- **Terrance Ferguson** — Terrance Ferguson - Sheds injury tag (2026-09-08T23:53:32Z)
   - Ferguson carried an injury designation for the past couple weeks due to some sort of injury, but his omission from Tuesday's report indicates the issue is no longer a concern. Ferguson has been generating some buzz in fantasy circles, but all five of the tight ends on the roster for the Rams head into Week 1 healthy, so it's unclear exactly where he will slot in out of the gate.
 - **Puka Nacua** — Puka Nacua - Avoids injury report (2026-09-08T23:32:06Z)
   - Nacua has been slowed since picking up a psoas injury nearly a month ago, but he will avoid the injury report altogether in advance of Week 1. With Nacua seemingly at full speed, expect him to fill his usual role when the Rams kick off their season against the 49ers in Australia.
@@ -47,6 +47,10 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Henderson's absence for the opener hardly comes as a surprise with his ankle injury having kept him from practicing in any capacity since Aug. 24. With Henderson sidelined for the opener, Rhamondre Stevenson will have a clear path to earning the bulk of snaps and touches out of the backfield. Corey Kiner will serve as the Stevenson's top understudy, and the Patriots will likely elevate one or both of Lan Larison and Hassan Haskins from the practice squad to add depth at the position.
 - **Tory Horton** — Tory Horton - Taking questionable tag into Week 1 (2026-09-08T20:54:50Z)
   - Horton missed the final nine games of the regular season as well as the entirety of the Seahawks' playoff run due to a shin fracture as well as a groin issue, then required offseason surgery to address the injuries. Though he was deemed ready to go for the start of training camp, Horton ended up succumbing to a hamstring injury around the middle of August. Though his hamstring isn't viewed as a long-term concern, Horton had his practice participation managed this week and may not get clearance to suit up Wednesday. If he's able to avoid the inactive list, Horton will likely be in line for a small role as the Seahawks' No. 4 wide receiver behind Jaxon Smith-Njigba, Rashid Shaheed and Cooper Kupp.
+- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling Not Listed on 49ers Injury Report on Tuesday (2026-09-08T20:17:06Z)
+  - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-not-listed-on-49ers-injury-report-on-tuesday/1926314
+- **NEW — Mike Evans** — Mike Evans Not Listed on 49ers Week 1 Injury Report (2026-09-08T20:10:05Z)
+  - Source: https://www.rotoballer.com/player-news/mike-evans-not-listed-on-49ers-week-1-injury-report/1926307
 - **Tyler Allgeier** — Tyler Allgeier - No. 1 back on unofficial depth chart (2026-09-08T20:08:23Z)
   - Head coach Mike LaFleur expressed optimism Tuesday that Jeremiyah Love would be ready to play Sunday after suffering a high-ankle sprain in the Cardinals' preseason opener, but the No. 3 overall pick in April's draft isn't expected to handle a workhorse role right away coming off the injury. While Love should emerge as the clear No. 1 option once he's further removed from the injury, Allgeier appears well-positioned to have a meaningful role in the Week 1 game plan, regardless of whether he ends up starting or not.
 - **Jeremiyah Love** — Jeremiyah Love - Listed second on unofficial depth chart (2026-09-08T19:51:20Z)
@@ -215,7 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Raiders on Sunday, but he could be held out as a precaution. The second-year pro is set to serve as the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the Dolphins arguably have the luxury of giving Gordon an extra week to recover if necessary.
 - **Ray Davis** — Ray Davis Offers Late-Round Value (2026-09-07T22:55:05Z)
   - Source: https://www.rotoballer.com/player-news/ray-davis-offers-late-round-value/1925582
-- **George Kittle** — George Kittle's Week 1 Workload is Undecided (2026-09-07T22:48:06Z)
-  - Source: https://www.rotoballer.com/player-news/george-kittles-workload-is-undecided/1925577
-- **Rashod Bateman** — Rashod Bateman is Avoidable in Redraft Formats (2026-09-07T22:40:05Z)
-  - Source: https://www.rotoballer.com/player-news/rashod-bateman-is-avoidable-in-redraft-formats/1925569

@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-09T00:04:36Z",
+  "last_checked_at": "2026-09-09T00:32:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|12487|rotowire|636424|1788911612000",
-    "nfl|4217|fantasy_pros|606651|1788912023558"
+    "nfl|13417|rotoballer|220392|1788898626000",
+    "nfl|2216|rotoballer|220391|1788898205000"
   ],
   "schema_version": 1,
   "source": {
@@ -359,6 +359,46 @@
       "story_id": "nfl|12497|rotowire|636405|1788900890000",
       "title": "Tory Horton - Taking questionable tag into Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers rookie wide receiver De'Zhaun Stribling was not listed on the team's initial injury report ahead of its season opener against the Los Angeles Rams on Thursday. Stribling dealt with a shoulder injury during the preseason, but he was able to practice in full on Tuesday and looks to be a full-go for Week 1. A second-round pick out of Ole Miss, Stribling recorded 55 catches for 811 yards and six touchdowns across 15 games in his final collegiate season. With 49ers wide receiver Ricky Pearsall (knee) expected to miss the entire 2026 season due to a knee injury, Stribling should play a starting role in San Francisco alongside veteran wideouts Mike Evans and Deebo Samuel Sr. The 23-year-old may not provide high-end fantasy production right away, but his upside makes him worth stashing in a bench spot in most league formats.",
+      "metadata": {
+        "description": "San Francisco 49ers rookie wide receiver De'Zhaun Stribling was not listed on the team's initial injury report ahead of its season opener against the Los Angeles Rams on Thursday. Stribling dealt with a shoulder injury during the preseason, but he was able to practice in full on Tuesday and looks to be a full-go for Week 1. A second-round pick out of Ole Miss, Stribling recorded 55 catches for 811 yards and six touchdowns across 15 games in his final collegiate season. With 49ers wide receiver Ricky Pearsall (knee) expected to miss the entire 2026 season due to a knee injury, Stribling should play a starting role in San Francisco alongside veteran wideouts Mike Evans and Deebo Samuel Sr. The 23-year-old may not provide high-end fantasy production right away, but his upside makes him worth stashing in a bench spot in most league formats.",
+        "title": "De'Zhaun Stribling Not Listed on 49ers Injury Report on Tuesday",
+        "topic_id": "1403207390186209280",
+        "url": "https://www.rotoballer.com/player-news/dezhaun-stribling-not-listed-on-49ers-injury-report-on-tuesday/1926314"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1788898626000,
+      "source": "rotoballer",
+      "source_key": "220392",
+      "story_id": "nfl|13417|rotoballer|220392|1788898626000",
+      "title": "De'Zhaun Stribling Not Listed on 49ers Injury Report on Tuesday",
+      "url": "https://www.rotoballer.com/player-news/dezhaun-stribling-not-listed-on-49ers-injury-report-on-tuesday/1926314"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Mike Evans is not listed on the team's initial injury report ahead of its season opener against the Los Angeles Rams on Thursday. Evans dealt with a groin injury during training camp, but the veteran wideout said it wasn't serious, and he appears to be a full-go for the start of the regular season. Evans is entering his age-33 season and missed nine games in 2025 due to hamstring and collarbone injuries. Even ahead of his first season with the 49ers, Evans has little to prove in training camp practices, so it makes sense that the team would be extra cautious with him over the summer. Evans remained a productive player when healthy last season, recording 30 catches for 368 yards and three touchdowns on 62 targets across eight games. He profiles as a high-end WR3 option for fantasy managers entering 2026.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Mike Evans is not listed on the team's initial injury report ahead of its season opener against the Los Angeles Rams on Thursday. Evans dealt with a groin injury during training camp, but the veteran wideout said it wasn't serious, and he appears to be a full-go for the start of the regular season. Evans is entering his age-33 season and missed nine games in 2025 due to hamstring and collarbone injuries. Even ahead of his first season with the 49ers, Evans has little to prove in training camp practices, so it makes sense that the team would be extra cautious with him over the summer. Evans remained a productive player when healthy last season, recording 30 catches for 368 yards and three touchdowns on 62 targets across eight games. He profiles as a high-end WR3 option for fantasy managers entering 2026.",
+        "title": "Mike Evans Not Listed on 49ers Week 1 Injury Report",
+        "topic_id": "1403206131580411905",
+        "url": "https://www.rotoballer.com/player-news/mike-evans-not-listed-on-49ers-week-1-injury-report/1926307"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1788898205000,
+      "source": "rotoballer",
+      "source_key": "220391",
+      "story_id": "nfl|2216|rotoballer|220391|1788898205000",
+      "title": "Mike Evans Not Listed on 49ers Week 1 Injury Report",
+      "url": "https://www.rotoballer.com/player-news/mike-evans-not-listed-on-49ers-week-1-injury-report/1926307"
     },
     {
       "analysis": "Head coach Mike LaFleur expressed optimism Tuesday that Jeremiyah Love would be ready to play Sunday after suffering a high-ankle sprain in the Cardinals' preseason opener, but the No. 3 overall pick in April's draft isn't expected to handle a workhorse role right away coming off the injury. While Love should emerge as the clear No. 1 option once he's further removed from the injury, Allgeier appears well-positioned to have a meaningful role in the Week 1 game plan, regardless of whether he ends up starting or not.",
