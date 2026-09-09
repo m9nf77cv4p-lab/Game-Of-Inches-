@@ -1,21 +1,12 @@
 {
-  "last_checked_at": "2026-09-09T20:44:10Z",
+  "last_checked_at": "2026-09-09T20:54:01Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|10219|fantasy_pros|606763|1788986448500",
-    "nfl|11571|fantasy_pros|606755|1788985847547",
-    "nfl|11620|rotowire|636490|1788985766000",
-    "nfl|12487|rotoballer|220464|1788971769000",
-    "nfl|12519|rotowire|636493|1788986223000",
-    "nfl|12534|rotowire|636491|1788986081000",
-    "nfl|13279|fantasy_pros|606760|1788985847858",
-    "nfl|13279|rotowire|636492|1788986168000",
-    "nfl|13296|rotoballer|220465|1788971228000",
-    "nfl|13330|fantasy_pros|606758|1788985847524",
-    "nfl|13330|rotowire|636489|1788985724000",
-    "nfl|6790|rotowire|636488|1788985618000",
-    "nfl|8155|fantasy_pros|606753|1788985847560"
+    "nfl|11583|rotowire|636495|1788986811000",
+    "nfl|11655|rotowire|636496|1788986842000",
+    "nfl|12518|rotowire|636494|1788986488000",
+    "nfl|8142|rotowire|636497|1788986902000"
   ],
   "schema_version": 1,
   "source": {
@@ -25,6 +16,86 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Pierce was limited to begin the week and will have two more opportunities ramp up going into the season-opener against the Ravens. Pierce's lengthy recovery from an ankle procedure slowed him throughout the offseason, though he was able to get back on the practice field earlier in September. Coach Shane Steichen even noted Monday that Pierce should be \"good to go\" for the opener.",
+      "description": "Pierce (heel) was a limited participant on Wednesday's practice report.",
+      "metadata": {
+        "analysis": "Pierce was limited to begin the week and will have two more opportunities ramp up going into the season-opener against the Ravens. Pierce's lengthy recovery from an ankle procedure slowed him throughout the offseason, though he was able to get back on the practice field earlier in September. Coach Shane Steichen even noted Monday that Pierce should be \"good to go\" for the opener.",
+        "description": "Pierce (heel) was a limited participant on Wednesday's practice report.",
+        "title": "Alec Pierce - Logs limited practice Wednesday",
+        "topic_id": "1403517034863534080"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1788986902000,
+      "source": "rotowire",
+      "source_key": "636497",
+      "story_id": "nfl|8142|rotowire|636497|1788986902000",
+      "title": "Alec Pierce - Logs limited practice Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "Tracy sustained an apparent neck injury during New York's exhibition finale, but after landing a spot on the team's initial active roster and nearly two weeks to recover, he's in good health ahead of a Week 1 matchup with the Cowboys. With Cam Skattebo leading the Giants backfield and Najee Harris and Devin Singletary also on hand for reps, it remains to be seen what kind of workload Tracy can expect in the regular-season opener.",
+      "description": "Tracy (neck) wasn't listed on the Giants' first Week 1 injury report Wednesday, Dan Salomone of the team's official site reports.",
+      "metadata": {
+        "analysis": "Tracy sustained an apparent neck injury during New York's exhibition finale, but after landing a spot on the team's initial active roster and nearly two weeks to recover, he's in good health ahead of a Week 1 matchup with the Cowboys. With Cam Skattebo leading the Giants backfield and Najee Harris and Devin Singletary also on hand for reps, it remains to be seen what kind of workload Tracy can expect in the regular-season opener.",
+        "description": "Tracy (neck) wasn't listed on the Giants' first Week 1 injury report Wednesday, Dan Salomone of the team's official site reports.",
+        "title": "Tyrone Tracy - No listing on Week 1 injury report",
+        "topic_id": "1403517034800619520"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11655",
+      "player_name": "Tyrone Tracy",
+      "position": "RB",
+      "published": 1788986842000,
+      "source": "rotowire",
+      "source_key": "636496",
+      "story_id": "nfl|11655|rotowire|636496|1788986842000",
+      "title": "Tyrone Tracy - No listing on Week 1 injury report",
+      "url": null
+    },
+    {
+      "analysis": "Brooks was officially limited in practice Wednesday, but all indications are he did everything in the session and looked ready to go for the start of the season. Brooks will push Chuba Hubbard for carries in the Carolina backfield, but Hubbard is expected to open the campaign as the starter and lead back while Brooks sees plenty of work as the 1B option. It may be best to take a wait-and-see approach with him in fantasy.",
+      "description": "Brooks (groin) said Wednesday he's 100 percent healthy and expects to play Sunday against the Bears, Steve Reed reports.",
+      "metadata": {
+        "analysis": "Brooks was officially limited in practice Wednesday, but all indications are he did everything in the session and looked ready to go for the start of the season. Brooks will push Chuba Hubbard for carries in the Carolina backfield, but Hubbard is expected to open the campaign as the starter and lead back while Brooks sees plenty of work as the 1B option. It may be best to take a wait-and-see approach with him in fantasy.",
+        "description": "Brooks (groin) said Wednesday he's 100 percent healthy and expects to play Sunday against the Bears, Steve Reed reports.",
+        "title": "Jonathon Brooks - Declares himself 100 percent",
+        "topic_id": "1403517034800619521"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788986811000,
+      "source": "rotowire",
+      "source_key": "636495",
+      "story_id": "nfl|11583|rotowire|636495|1788986811000",
+      "title": "Jonathon Brooks - Declares himself 100 percent",
+      "url": null
+    },
+    {
+      "analysis": "Indianapolis' star tight end looks good to go for the opener after not even being listed on the practice report to start the week. Warren was dealing with a minor groin issue late in camp but the expectation has been that he would be ready to begin the season. The Colts host the Ravens to kick off the season Sunday.",
+      "description": "Warren (groin) was off the injury report Wednesday.",
+      "metadata": {
+        "analysis": "Indianapolis' star tight end looks good to go for the opener after not even being listed on the practice report to start the week. Warren was dealing with a minor groin issue late in camp but the expectation has been that he would be ready to begin the season. The Colts host the Ravens to kick off the season Sunday.",
+        "description": "Warren (groin) was off the injury report Wednesday.",
+        "title": "Tyler Warren - Off injury report",
+        "topic_id": "1403515776496844800"
+      },
+      "nfl_team": "IND",
+      "player_id": "12518",
+      "player_name": "Tyler Warren",
+      "position": "TE",
+      "published": 1788986488000,
+      "source": "rotowire",
+      "source_key": "636494",
+      "story_id": "nfl|12518|rotowire|636494|1788986488000",
+      "title": "Tyler Warren - Off injury report",
+      "url": null
+    },
     {
       "analysis": "Rodriguez is set to be a full go in Week 1 after battling with a foot injury throughout the preseason. He is likely to play a substantial role in Jacksonville's backfield this season, although the exact distribution of work will remain obscure until after the first game or two, which makes him hard to trust as a fantasy option in the season opener.",
       "description": "Chris Rodriguez Jr. (foot) is off of Jacksonville's injury report ahead of the season opener against the Cleveland Browns.",
