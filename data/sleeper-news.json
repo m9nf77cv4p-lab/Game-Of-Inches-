@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-09T03:15:53Z",
+  "last_checked_at": "2026-09-09T04:46:55Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4892|rotoballer|220401|1788908476000"
+    "nfl|5870|rotoballer|220403|1788914527000",
+    "nfl|9502|rotoballer|220402|1788914058000"
   ],
   "schema_version": 1,
   "source": {
@@ -32,6 +33,46 @@
       "story_id": "nfl|4217|rotowire|636457|1788922162000",
       "title": "George Kittle - Could see limited Week 1 role",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts quarterback Daniel Jones has been going undrafted in many leagues with 12 or fewer teams, leaving him on the waiver wire in many formats. It's a bit surprising to see Jones remain available after fantasy drafts wrap up. Although he is coming off an Achilles injury, he was phenomenal through the first stretch of the 2025 season. In fact, he ranked as the QB7 in total fantasy points through 12 games before getting injured last year. Jones no longer has Michael Pittman Jr. at his disposal, but he still gets to throw the ball to a very talented group of players, including Alec Pierce, Josh Downs, Tyler Warren, and Jonathan Taylor. Indianapolis also signed veteran wide receiver Keenan Allen to bolster its receiver room this offseason. With numerous weapons at his disposal and plenty of rushing upside, Jones should be viewed as a fringe top-15 fantasy quarterback with top-10 upside this year. As a result, he's an appealing waiver wire option, especially since he opens the season against the Baltimore Ravens, who allowed the 10th-most fantasy points to quarterbacks last year.",
+      "metadata": {
+        "description": "Indianapolis Colts quarterback Daniel Jones has been going undrafted in many leagues with 12 or fewer teams, leaving him on the waiver wire in many formats. It's a bit surprising to see Jones remain available after fantasy drafts wrap up. Although he is coming off an Achilles injury, he was phenomenal through the first stretch of the 2025 season. In fact, he ranked as the QB7 in total fantasy points through 12 games before getting injured last year. Jones no longer has Michael Pittman Jr. at his disposal, but he still gets to throw the ball to a very talented group of players, including Alec Pierce, Josh Downs, Tyler Warren, and Jonathan Taylor. Indianapolis also signed veteran wide receiver Keenan Allen to bolster its receiver room this offseason. With numerous weapons at his disposal and plenty of rushing upside, Jones should be viewed as a fringe top-15 fantasy quarterback with top-10 upside this year. As a result, he's an appealing waiver wire option, especially since he opens the season against the Baltimore Ravens, who allowed the 10th-most fantasy points to quarterbacks last year.",
+        "title": "Daniel Jones a Priority Waiver Wire Target for Week 1",
+        "topic_id": "1403274085173055488",
+        "url": "https://www.rotoballer.com/player-news/daniel-jones-a-priority-waiver-wire-target-for-week-1/1926427"
+      },
+      "nfl_team": "IND",
+      "player_id": "5870",
+      "player_name": "Daniel Jones",
+      "position": "QB",
+      "published": 1788914527000,
+      "source": "rotoballer",
+      "source_key": "220403",
+      "story_id": "nfl|5870|rotoballer|220403|1788914527000",
+      "title": "Daniel Jones a Priority Waiver Wire Target for Week 1",
+      "url": "https://www.rotoballer.com/player-news/daniel-jones-a-priority-waiver-wire-target-for-week-1/1926427"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Tank Dell (knee) will open the season on injured reserve. While that takes him off the immediate fantasy radar, it actually gives him specific appeal as a player to target on the waiver wire. Many fantasy leagues designate one or two roster spots specifically for players on injured reserve, for which Dell would be eligible. As a result, managers who are on the fence about stashing the Texans' wideout can now add him without occupying a normal roster spot. Dell is working his way back from a brutal knee injury that he suffered more than 18 months ago. It has been a long recovery process, and he's still not quite ready to get back on the field. However, he's worth stashing for once he's healthy enough to play again. He'll presumably be in the mix for the No. 2 receiver role alongside Nico Collins, especially after Jayden Higgins (knee) was placed on season-ending IR.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Tank Dell (knee) will open the season on injured reserve. While that takes him off the immediate fantasy radar, it actually gives him specific appeal as a player to target on the waiver wire. Many fantasy leagues designate one or two roster spots specifically for players on injured reserve, for which Dell would be eligible. As a result, managers who are on the fence about stashing the Texans' wideout can now add him without occupying a normal roster spot. Dell is working his way back from a brutal knee injury that he suffered more than 18 months ago. It has been a long recovery process, and he's still not quite ready to get back on the field. However, he's worth stashing for once he's healthy enough to play again. He'll presumably be in the mix for the No. 2 receiver role alongside Nico Collins, especially after Jayden Higgins (knee) was placed on season-ending IR.",
+        "title": "Tank Dell an Intriguing Stash in Leagues with an IR Spot",
+        "topic_id": "1403272826684723200",
+        "url": "https://www.rotoballer.com/player-news/tank-dell-an-intriguing-stash-in-leagues-with-an-ir-spot/1926425"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9502",
+      "player_name": "Tank Dell",
+      "position": "WR",
+      "published": 1788914058000,
+      "source": "rotoballer",
+      "source_key": "220402",
+      "story_id": "nfl|9502|rotoballer|220402|1788914058000",
+      "title": "Tank Dell an Intriguing Stash in Leagues with an IR Spot",
+      "url": "https://www.rotoballer.com/player-news/tank-dell-an-intriguing-stash-in-leagues-with-an-ir-spot/1926425"
     },
     {
       "analysis": "Kittle remains on track to be good to go for Thursday's season opener coming off an Achilles tear. It is unclear if he'll be facing any sort of snap count on Thursday. ",

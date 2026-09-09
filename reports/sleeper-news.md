@@ -2,13 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2242**
-- Newly captured: **1**
+- Stored stories: **2244**
+- Newly captured: **2**
 
 ## Latest news
 
 - **George Kittle** — George Kittle - Could see limited Week 1 role (2026-09-09T02:49:22Z)
   - "We got to be smart with that," Shanahan said. With Kittle having been listed as a limited participant Tuesday after returning from the active/PUP list a little over two weeks ago, Shanahan's comments suggest San Francisco is preparing to manage the tight end's Week 1 snaps. Kittle figures to be featured on third downs and in the scoring area if his playing time is limited, and Jake Tonges could see elevated snaps as the Niners' TE2.
+- **NEW — Daniel Jones** — Daniel Jones a Priority Waiver Wire Target for Week 1 (2026-09-09T00:42:07Z)
+  - Source: https://www.rotoballer.com/player-news/daniel-jones-a-priority-waiver-wire-target-for-week-1/1926427
+- **NEW — Tank Dell** — Tank Dell an Intriguing Stash in Leagues with an IR Spot (2026-09-09T00:34:18Z)
+  - Source: https://www.rotoballer.com/player-news/tank-dell-an-intriguing-stash-in-leagues-with-an-ir-spot/1926425
 - **George Kittle** — George Kittle (Achilles) limited in practice Tuesday  (2026-09-09T00:00:23.558000Z)
   - Kittle remains on track to be good to go for Thursday's season opener coming off an Achilles tear. It is unclear if he'll be facing any sort of snap count on Thursday. 
   - Source: https://www.fantasypros.com/nfl/news/606651/george-kittle-achilles-limited-practice-tuesday.php
@@ -18,7 +22,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Nacua has been slowed since picking up a psoas injury nearly a month ago, but he will avoid the injury report altogether in advance of Week 1. With Nacua seemingly at full speed, expect him to fill his usual role when the Rams kick off their season against the 49ers in Australia.
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Shakes off shoulder issue (2026-09-08T23:16:04Z)
   - Stribling was slowed by a shoulder injury for a couple weeks, but it apparently is no longer an issue, as he did not draw a mention on the first injury report the 49ers put out in advance of Week 1. Stribling is listed as a reserve receiver behind veterans Mike Evans and Deebo Samuel on San Francisco's unofficial depth chart, so while it appears he will debut against the Rams in Australia it's unclear exactly what role he will fill.
-- **NEW — Baker Mayfield** — Baker Mayfield Strong Option off the Waiver Wire for Week 1 (2026-09-08T23:01:16Z)
+- **Baker Mayfield** — Baker Mayfield Strong Option off the Waiver Wire for Week 1 (2026-09-08T23:01:16Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-strong-option-off-the-waiver-wire-for-week-1/1926417
 - **Mike Evans** — Mike Evans - Removed from injured list (2026-09-08T22:59:21Z)
   - Evans has been slowed by injuries since early August, but he apparently is back at 100 percent in advance of Week 1. Barring any setbacks, he seems set to fill a starting wide receiver spot when the 49ers kick off their 2026 campaign against the Rams in Australia.
@@ -215,7 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/adonai-mitchell-makes-a-solid-stash-for-depth/1925724
 - **George Kittle** — George Kittle - Looking increasingly likely to play vs. Rams (2026-09-08T04:09:34Z)
   - Earlier in the day, 49ers offensive coordinator Klay Kubiak said of Kittle: "Super impressed with how he's looked considering the injury and how quick he got back on the field. It's cool to me to see how Kittle looks ... Workload will be determined," per Cam Inman of The San Jose Mercury News. While that doesn't fully confirm that the star tight end will be ready to play in the season opener against the Rams, the fact that the team seems to be focused on Kittle's gameday workload, rather than his general playing status, suggests that he's more likely than not to suit up. Kubiak did give the caveat that Kittle will need to get through San Francisco's final practices before a decision is ultimately made, and the club's injury reports this week should shed further light on Kittle's level of participation in practice as well as his outlook for the Friday (local time) NFC West clash.
-- **Christian McCaffrey** — Christian McCaffrey - Fully dressed for second practice of week (2026-09-08T04:00:26Z)
-  - McCaffrey wasn't spotted taking part in the early portion of practice Monday, so his presence on the field in full uniform Tuesday is a promising sign for his potential availability for the 49ers' season opener against the Rams. It's been a bit of a mysterious several weeks for McCaffrey, as he was described as dealing with "tightness" in early August and didn't play at all in the preseason while being an inconsistent participant in team drills. San Francisco's injury reports this week should shed some light on McCaffrey's status for the matchup against Los Angeles, but to this point he seems more likely than not to play in that contest.
-- **De'Zhaun Stribling** — De'Zhaun Stribling - Suited up for practice Monday (2026-09-08T03:49:37Z)
-  - The practice session is technically taking placing Tuesday afternoon in Melbourne local time, but regardless, Stribling's participation is a positive sign as he looks to rebound from a minor shoulder injury. It remains to be seen what the rookie wideout's level of practice participation will be, but to this point there hasn't been any indication that he's in any danger of missing the season opener versus the Rams. Stribling appears in line for a big role in San Francisco's offense as one of the team's top three wideouts alongside veterans Mike Evans (adductor) and Deebo Samuel.
