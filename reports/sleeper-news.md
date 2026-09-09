@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2253**
-- Newly captured: **1**
+- Stored stories: **2255**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Kaelon Black** — Kaelon Black a Top Handcuff Option in 2026 (2026-09-09T09:24:05Z)
+- **NEW — Chris Bell** — Chris Bell Has a Clear Path to Major Role in Miami (2026-09-09T09:41:51Z)
+  - Source: https://www.rotoballer.com/player-news/chris-bell-has-a-clear-path-to-major-role-in-miami/1926617
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Expected to be Workhorse in Week 1 (2026-09-09T09:31:52Z)
+  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-expected-to-be-workhorse-in-week-1/1926603
+- **Kaelon Black** — Kaelon Black a Top Handcuff Option in 2026 (2026-09-09T09:24:05Z)
   - Source: https://www.rotoballer.com/player-news/kaelon-black-a-top-handcuff-option-in-2026/1926571
 - **Tyler Allgeier** — Tyler Allgeier Set for a Lead Role in Week 1 (2026-09-09T09:12:06Z)
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-set-for-a-lead-role-in-week-1/1926555
@@ -215,7 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/sam-darnold-best-left-on-waivers-in-standard-leagues/1925922
 - **Ja'Kobi Lane** — Ja'Kobi Lane a High-Upside Stash in Deeper PPR Leagues (2026-09-08T11:25:05Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-lane-a-high-upside-stash-in-deeper-ppr-leagues/1925907
-- **Dalton Kincaid** — Dalton Kincaid Looks Set for Bigger Role With Improved Health (2026-09-08T11:24:05Z)
-  - Source: https://www.rotoballer.com/player-news/dalton-kincaid-looks-set-for-bigger-role-with-improved-health/1925904
-- **DJ Moore** — DJ Moore Could be on the Field Constantly (2026-09-08T11:17:06Z)
-  - Source: https://www.rotoballer.com/player-news/dj-moore-could-be-on-the-field-constantly/1925896

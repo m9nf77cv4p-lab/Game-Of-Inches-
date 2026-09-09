@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-09T13:39:37Z",
+  "last_checked_at": "2026-09-09T13:53:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|13414|rotoballer|220415|1788945845000"
+    "nfl|13311|rotoballer|220417|1788946911000",
+    "nfl|7611|rotoballer|220416|1788946312000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Miami Dolphins rookie wide receiver Chris Bell is a high-upside option to target late in drafts and on the waiver wire this season. In his senior season at Louisville, Bell had 72 receptions for 917 yards and six touchdowns in 11 games. Bell was drafted in the third round and would've gone much higher if not for a torn ACL in the 2025 season. The rookie receiver has recovered at a tremendous pace and played in the team's final preseason game, a positive sign for his Week 1 outlook. He was listed as a starter on the team's Week 1 depth chart alongside Malik Washington and fellow third-round rookie Caleb Douglas. While he shouldn't be a starting player in fantasy this week, he offers immense upside, as the climb to the top of the depth chart is not too crowded.",
+      "metadata": {
+        "description": "Miami Dolphins rookie wide receiver Chris Bell is a high-upside option to target late in drafts and on the waiver wire this season. In his senior season at Louisville, Bell had 72 receptions for 917 yards and six touchdowns in 11 games. Bell was drafted in the third round and would've gone much higher if not for a torn ACL in the 2025 season. The rookie receiver has recovered at a tremendous pace and played in the team's final preseason game, a positive sign for his Week 1 outlook. He was listed as a starter on the team's Week 1 depth chart alongside Malik Washington and fellow third-round rookie Caleb Douglas. While he shouldn't be a starting player in fantasy this week, he offers immense upside, as the climb to the top of the depth chart is not too crowded.",
+        "title": "Chris Bell Has a Clear Path to Major Role in Miami",
+        "topic_id": "1403411252536942592",
+        "url": "https://www.rotoballer.com/player-news/chris-bell-has-a-clear-path-to-major-role-in-miami/1926617"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1788946911000,
+      "source": "rotoballer",
+      "source_key": "220417",
+      "story_id": "nfl|13311|rotoballer|220417|1788946911000",
+      "title": "Chris Bell Has a Clear Path to Major Role in Miami",
+      "url": "https://www.rotoballer.com/player-news/chris-bell-has-a-clear-path-to-major-role-in-miami/1926617"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots running back Rhamondre Stevenson is expected to handle the bulk of the workload in Week 1 against the Seattle Seahawks. In 2025, Stevenson totaled 948 scrimmage yards and nine touchdowns on 162 touches across 14 games. He split the workload with rookie running back TreVeyon Henderson, who totaled over 1,100 scrimmage yards and 10 touchdowns as a rookie. Now, Henderson (ankle) has been ruled out for Week 1's matchup against the Seahawks, opening the door for Stevenson to get more work. The matchup is still tough, as Seattle allowed the fewest fantasy points to running backs and the fewest yards per carry last season. Still, with a great offense and as the clear workhorse, Stevenson is a mid-RB2 in Week 1.",
+      "metadata": {
+        "description": "New England Patriots running back Rhamondre Stevenson is expected to handle the bulk of the workload in Week 1 against the Seattle Seahawks. In 2025, Stevenson totaled 948 scrimmage yards and nine touchdowns on 162 touches across 14 games. He split the workload with rookie running back TreVeyon Henderson, who totaled over 1,100 scrimmage yards and 10 touchdowns as a rookie. Now, Henderson (ankle) has been ruled out for Week 1's matchup against the Seahawks, opening the door for Stevenson to get more work. The matchup is still tough, as Seattle allowed the fewest fantasy points to running backs and the fewest yards per carry last season. Still, with a great offense and as the clear workhorse, Stevenson is a mid-RB2 in Week 1.",
+        "title": "Rhamondre Stevenson Expected to be Workhorse in Week 1",
+        "topic_id": "1403408735467999232",
+        "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-expected-to-be-workhorse-in-week-1/1926603"
+      },
+      "nfl_team": "NE",
+      "player_id": "7611",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "published": 1788946312000,
+      "source": "rotoballer",
+      "source_key": "220416",
+      "story_id": "nfl|7611|rotoballer|220416|1788946312000",
+      "title": "Rhamondre Stevenson Expected to be Workhorse in Week 1",
+      "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-expected-to-be-workhorse-in-week-1/1926603"
+    },
     {
       "analysis": null,
       "description": "San Francisco 49ers rookie running back Kaelon Black enters 2026 as the clear handcuff to star running back Christian McCaffrey. Black missed time throughout training camp with an adductor injury but played well in the final preseason game and reportedly earned the backup role in San Francisco. The third-round pick was the team's second-highest-ranked running back in the draft process and has earned praise throughout the organization, earning the label \"fast and explosive.\" McCaffrey has missed time throughout training camp, and the team is expected to manage the 30-year-old's workload in practice. Black is a strong handcuff at the running back position and carries immense upside if McCaffrey misses time.",
