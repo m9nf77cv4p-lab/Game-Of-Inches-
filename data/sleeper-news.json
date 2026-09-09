@@ -1,12 +1,9 @@
 {
-  "last_checked_at": "2026-09-09T16:46:01Z",
+  "last_checked_at": "2026-09-09T16:56:45Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|12524|fantasy_pros|606724|1788972035474",
-    "nfl|13305|rotoballer|220434|1788957446000",
-    "nfl|5947|fantasy_pros|606723|1788972035485",
-    "nfl|5947|rotowire|636462|1788971339000"
+    "nfl|13296|fantasy_pros|606730|1788972635803"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +13,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The Dolphins selected Douglas in the third round of this year's draft, but he had an impressive offseason for them and is set to be a starter for the team in their season opener. That's a great sign for his season outlook, as it means he will have ample opportunities to prove himself and break out from the very start of the season.",
+      "description": "Caleb Douglas is set to be a starter for the Dolphins in their Week 1 matchup against the Las Vegas Raiders.",
+      "metadata": {
+        "analysis": "The Dolphins selected Douglas in the third round of this year's draft, but he had an impressive offseason for them and is set to be a starter for the team in their season opener. That's a great sign for his season outlook, as it means he will have ample opportunities to prove himself and break out from the very start of the season.",
+        "description": "Caleb Douglas is set to be a starter for the Dolphins in their Week 1 matchup against the Las Vegas Raiders.",
+        "title": "Caleb Douglas set to start in Week 1",
+        "topic_id": "1403456591998492672",
+        "url": "https://www.fantasypros.com/nfl/news/606730/caleb-douglas-set-to-start-week-1.php"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13296",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "published": 1788972635803,
+      "source": "fantasy_pros",
+      "source_key": "606730",
+      "story_id": "nfl|13296|fantasy_pros|606730|1788972635803",
+      "title": "Caleb Douglas set to start in Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606730/caleb-douglas-set-to-start-week-1.php"
+    },
     {
       "analysis": "It appears that Meyers is not over his hand injury yet, as it left him in a red non-contact jersey at the team's first practice of the week on Wednesday. If this issue leaves him sidelined for Week 1, fantasy managers should expect Parker Washington to be a great fantasy option against the Cleveland Browns.",
       "description": "Jakobi Meyers (hand) was spotted wearing a red non-contact jersey at practice on Wednesday.",

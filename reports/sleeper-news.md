@@ -2,18 +2,21 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2272**
-- Newly captured: **4**
+- Stored stories: **2273**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jakobi Meyers** — Jakobi Meyers (hand) seen in non-contact jersey Wednesday (2026-09-09T16:40:35.485000Z)
+- **NEW — Caleb Douglas** — Caleb Douglas set to start in Week 1 (2026-09-09T16:50:35.803000Z)
+  - The Dolphins selected Douglas in the third round of this year's draft, but he had an impressive offseason for them and is set to be a starter for the team in their season opener. That's a great sign for his season outlook, as it means he will have ample opportunities to prove himself and break out from the very start of the season.
+  - Source: https://www.fantasypros.com/nfl/news/606730/caleb-douglas-set-to-start-week-1.php
+- **Jakobi Meyers** — Jakobi Meyers (hand) seen in non-contact jersey Wednesday (2026-09-09T16:40:35.485000Z)
   - It appears that Meyers is not over his hand injury yet, as it left him in a red non-contact jersey at the team's first practice of the week on Wednesday. If this issue leaves him sidelined for Week 1, fantasy managers should expect Parker Washington to be a great fantasy option against the Cleveland Browns.
   - Source: https://www.fantasypros.com/nfl/news/606723/jakobi-meyers-hand-seen-non-contact-jersey-wednesday.php
-- **NEW — Shedeur Sanders** — Shedeur Sanders expected to be QB2 in Week 1 (2026-09-09T16:40:35.474000Z)
+- **Shedeur Sanders** — Shedeur Sanders expected to be QB2 in Week 1 (2026-09-09T16:40:35.474000Z)
   - Deshaun Watson won the starting QB job for the Browns, and now the team has confirmed the Sanders is going to be active on gamedays and serve as their backup quarterback in Week 1. He won't seen the field in any large capacity for the foreseeable future, barring any injury to Watson.
   - Source: https://www.fantasypros.com/nfl/news/606724/shedeur-sanders-expected-to-be-qb2-week-1.php
-- **NEW — Jakobi Meyers** — Jakobi Meyers - Not taking contact Wednesday (2026-09-09T16:28:59Z)
+- **Jakobi Meyers** — Jakobi Meyers - Not taking contact Wednesday (2026-09-09T16:28:59Z)
   - The extent of Meyers' practice participation won't be revealed until the Jaguars post their first injury report of the season following Wednesday's session, but the fact that the wideout was donning a non-contact jersey suggests that he'll likely be listed as a limited participant. Meyers jammed his right hand in a joint practice with the Panthers three weeks ago, but the Jaguars haven't yet indicated that the receiver's availability for Sunday's season opener versus the Browns is in any serious jeopardy.
 - **Jalen McMillan** — Jalen McMillan (knee) participating at practice Wednesday (2026-09-09T16:25:36.108000Z)
   - McMillan is taking part in Tampa Bay's first official practice of the week on Wednesday. He was sidelined for part of the offseason due to a knee injury, but he seems to be nearly full health at this point and looks likely to play in Week 1. We should learn more when the team's official injury report comes out after practice.
@@ -25,7 +28,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
 - **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
-- **NEW — Mike Washington** — Mike Washington Jr. Could See a Key Week 1 Role After Dominant Preseason Effort (2026-09-09T12:37:26Z)
+- **Mike Washington** — Mike Washington Jr. Could See a Key Week 1 Role After Dominant Preseason Effort (2026-09-09T12:37:26Z)
   - Source: https://www.rotoballer.com/player-news/mike-washington-jr-could-see-a-key-week-1-role-after-dominant-preseason-effort/1926824
 - **Marvin Mims** — Marvin Mims Jr. Joins Broncos' Starting Receiver Trio (2026-09-09T12:18:06Z)
   - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-joins-broncos-starting-receiver-trio/1926797
@@ -221,5 +224,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/chris-brooks-has-a-real-opening-in-green-bays-backfield/1926125
 - **Makai Lemon** — Makai Lemon - Listed as starting receiver, punt returner (2026-09-08T15:54:17Z)
   - The rookie joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the depth chart, though Wicks may be prioritized ahead of Lemon in two-wide sets to begin the season. Wicks turned in a strong training camp, while Lemon spent considerable time on the sideline while tending to a hamstring injury. The first-round pick will likely need to impress early in the season before pushing past Wicks as the No. 2 receiver.
-- **Isaiah Davis** — Isaiah Davis Takes Part in RB Drills on Tuesday (2026-09-08T15:29:05Z)
-  - Source: https://www.rotoballer.com/player-news/isaiah-davis-takes-part-in-rb-drills-on-tuesday/1926091
