@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2236**
-- Newly captured: **2**
+- Stored stories: **2237**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -25,6 +25,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Puka Nacua** — Puka Nacua not listed on Rams first injury report (2026-09-08T22:35:22.707000Z)
   - Puka has been dealing with a psoas injury for a little over a week, but his absence on the injury report is a big indication that barring a setback, he will play on Thursday. The star receiver should be a full go and lock into fantasy lineups.
   - Source: https://www.fantasypros.com/nfl/news/606631/puka-nacua-not-listed-on-rams-first-injury-report.php
+- **NEW — Cyrus Allen** — Cyrus Allen a Top Waiver Wire Stash Heading Into Week 1 (2026-09-08T22:12:12Z)
+  - Source: https://www.rotoballer.com/player-news/cyrus-allen-a-top-waiver-wire-stash-heading-into-week-1/1926387
 - **Cyrus Allen** — Cyrus Allen - Labeled as reserve on depth chart (2026-09-08T22:05:12Z)
   - A rookie fifth-round pick out of Cincinnati, Allen generated plenty of positive buzz in training camp and the preseason, but he doesn't appear to have a path to meaningful playing time heading into Week 1 while the Chiefs' receiving corps is at full strength. Rashee Rice and Xavier Worthy are locked in as the clear top two options on the depth chart, but Allen could eventually push Tyquan Thornton for the No. 3 spot. Thornton possesses more speed of the two and found some success as a vertical threat for the Chiefs last season, but Allen offers a more diverse route tree and could be a higher-volume target earner if Rice were to miss time at any point.
 - **Rhamondre Stevenson** — Rhamondre Stevenson - Lead role awaits in season opener (2026-09-08T22:01:39Z)
@@ -47,9 +49,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Henderson's absence for the opener hardly comes as a surprise with his ankle injury having kept him from practicing in any capacity since Aug. 24. With Henderson sidelined for the opener, Rhamondre Stevenson will have a clear path to earning the bulk of snaps and touches out of the backfield. Corey Kiner will serve as the Stevenson's top understudy, and the Patriots will likely elevate one or both of Lan Larison and Hassan Haskins from the practice squad to add depth at the position.
 - **Tory Horton** — Tory Horton - Taking questionable tag into Week 1 (2026-09-08T20:54:50Z)
   - Horton missed the final nine games of the regular season as well as the entirety of the Seahawks' playoff run due to a shin fracture as well as a groin issue, then required offseason surgery to address the injuries. Though he was deemed ready to go for the start of training camp, Horton ended up succumbing to a hamstring injury around the middle of August. Though his hamstring isn't viewed as a long-term concern, Horton had his practice participation managed this week and may not get clearance to suit up Wednesday. If he's able to avoid the inactive list, Horton will likely be in line for a small role as the Seahawks' No. 4 wide receiver behind Jaxon Smith-Njigba, Rashid Shaheed and Cooper Kupp.
-- **NEW — Puka Nacua** — Puka Nacua Not Listed on Rams' Initial Week 1 Injury Report (2026-09-08T20:34:46Z)
+- **Puka Nacua** — Puka Nacua Not Listed on Rams' Initial Week 1 Injury Report (2026-09-08T20:34:46Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacua-not-listed-on-rams-initial-week-1-injury-report/1926327
-- **NEW — Christian McCaffrey** — Christian McCaffrey Avoids 49ers Injury Report Ahead of Week 1 (2026-09-08T20:27:06Z)
+- **Christian McCaffrey** — Christian McCaffrey Avoids 49ers Injury Report Ahead of Week 1 (2026-09-08T20:27:06Z)
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-avoids-49ers-injury-report-ahead-of-week-1/1926321
 - **De'Zhaun Stribling** — De'Zhaun Stribling Not Listed on 49ers Injury Report on Tuesday (2026-09-08T20:17:06Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-not-listed-on-49ers-injury-report-on-tuesday/1926314
@@ -217,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-in-full-uniform-for-tuesdays-practice-in-australia/1925603
 - **De'Zhaun Stribling** — De'Zhaun Stribling in Full Uniform for Practice (2026-09-08T00:51:42Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-in-full-uniform-for-practice/1925601
-- **Malik Davis** — Malik Davis a Priority Handcuff on the Waiver Wire (2026-09-08T00:46:09Z)
-  - Source: https://www.rotoballer.com/player-news/malik-davis-a-priority-handcuff-on-the-waiver-wire/1925597

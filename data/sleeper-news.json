@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-09T00:51:45Z",
+  "last_checked_at": "2026-09-09T02:18:11Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|4034|rotoballer|220393|1788899226000",
-    "nfl|9493|rotoballer|220394|1788899686000"
+    "nfl|13413|rotoballer|220397|1788905532000"
   ],
   "schema_version": 1,
   "source": {
@@ -175,6 +174,26 @@
       "story_id": "nfl|9493|fantasy_pros|606631|1788906922707",
       "title": "Puka Nacua not listed on Rams first injury report",
       "url": "https://www.fantasypros.com/nfl/news/606631/puka-nacua-not-listed-on-rams-first-injury-report.php"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs' fifth-round pick out of Cincinnati, Cyrus Allen, burst onto the scene throughout training camp and generated a lot of positive buzz and praise from Chiefs players and the coaching staff; however, he had a bit of a quiet preseason, catching six of his 12 targets for only 39 yards. Additionally, Allen was labeled as a reserve on the depth chart on Tuesday behind Rashee Rice, Xavier Worthy, and Tyquan Thornton. While it may take an injury for Allen to immediately provide WR3 or flex appeal, the positivity he gained throughout training camp garners a bench spot for fantasy managers taking a late-round flier or looking to fill a bench spot off the waiver wire. Allen has a more diverse route tree than Thornton, who is known as a deep-ball specialist. Allen remains a top waiver-wire stash heading into week one based on his training camp buzz and the potential to be getting passes from Patrick Mahomes. RotoBaller ranks Allen as the WR82 off the board and the 213th player overall.",
+      "metadata": {
+        "description": "Kansas City Chiefs' fifth-round pick out of Cincinnati, Cyrus Allen, burst onto the scene throughout training camp and generated a lot of positive buzz and praise from Chiefs players and the coaching staff; however, he had a bit of a quiet preseason, catching six of his 12 targets for only 39 yards. Additionally, Allen was labeled as a reserve on the depth chart on Tuesday behind Rashee Rice, Xavier Worthy, and Tyquan Thornton. While it may take an injury for Allen to immediately provide WR3 or flex appeal, the positivity he gained throughout training camp garners a bench spot for fantasy managers taking a late-round flier or looking to fill a bench spot off the waiver wire. Allen has a more diverse route tree than Thornton, who is known as a deep-ball specialist. Allen remains a top waiver-wire stash heading into week one based on his training camp buzz and the potential to be getting passes from Patrick Mahomes. RotoBaller ranks Allen as the WR82 off the board and the 213th player overall.",
+        "title": "Cyrus Allen a Top Waiver Wire Stash Heading Into Week 1",
+        "topic_id": "1403236333845012480",
+        "url": "https://www.rotoballer.com/player-news/cyrus-allen-a-top-waiver-wire-stash-heading-into-week-1/1926387"
+      },
+      "nfl_team": "KC",
+      "player_id": "13413",
+      "player_name": "Cyrus Allen",
+      "position": "WR",
+      "published": 1788905532000,
+      "source": "rotoballer",
+      "source_key": "220397",
+      "story_id": "nfl|13413|rotoballer|220397|1788905532000",
+      "title": "Cyrus Allen a Top Waiver Wire Stash Heading Into Week 1",
+      "url": "https://www.rotoballer.com/player-news/cyrus-allen-a-top-waiver-wire-stash-heading-into-week-1/1926387"
     },
     {
       "analysis": "A rookie fifth-round pick out of Cincinnati, Allen generated plenty of positive buzz in training camp and the preseason, but he doesn't appear to have a path to meaningful playing time heading into Week 1 while the Chiefs' receiving corps is at full strength. Rashee Rice and Xavier Worthy are locked in as the clear top two options on the depth chart, but Allen could eventually push Tyquan Thornton for the No. 3 spot. Thornton possesses more speed of the two and found some success as a vertical threat for the Chiefs last season, but Allen offers a more diverse route tree and could be a higher-volume target earner if Rice were to miss time at any point.",
