@@ -1,15 +1,21 @@
 {
-  "last_checked_at": "2026-09-09T20:30:09Z",
+  "last_checked_at": "2026-09-09T20:44:10Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|10859|fantasy_pros|606751|1788985247981",
-    "nfl|11559|fantasy_pros|606746|1788985248060",
-    "nfl|11620|fantasy_pros|606748|1788985248029",
-    "nfl|12519|fantasy_pros|606750|1788985247997",
-    "nfl|13320|fantasy_pros|606747|1788985248048",
-    "nfl|13320|rotowire|636487|1788985370000",
-    "nfl|8155|rotowire|636486|1788985166000"
+    "nfl|10219|fantasy_pros|606763|1788986448500",
+    "nfl|11571|fantasy_pros|606755|1788985847547",
+    "nfl|11620|rotowire|636490|1788985766000",
+    "nfl|12487|rotoballer|220464|1788971769000",
+    "nfl|12519|rotowire|636493|1788986223000",
+    "nfl|12534|rotowire|636491|1788986081000",
+    "nfl|13279|fantasy_pros|606760|1788985847858",
+    "nfl|13279|rotowire|636492|1788986168000",
+    "nfl|13296|rotoballer|220465|1788971228000",
+    "nfl|13330|fantasy_pros|606758|1788985847524",
+    "nfl|13330|rotowire|636489|1788985724000",
+    "nfl|6790|rotowire|636488|1788985618000",
+    "nfl|8155|fantasy_pros|606753|1788985847560"
   ],
   "schema_version": 1,
   "source": {
@@ -19,6 +25,231 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Rodriguez is set to be a full go in Week 1 after battling with a foot injury throughout the preseason. He is likely to play a substantial role in Jacksonville's backfield this season, although the exact distribution of work will remain obscure until after the first game or two, which makes him hard to trust as a fantasy option in the season opener.",
+      "description": "Chris Rodriguez Jr. (foot) is off of Jacksonville's injury report ahead of the season opener against the Cleveland Browns.",
+      "metadata": {
+        "analysis": "Rodriguez is set to be a full go in Week 1 after battling with a foot injury throughout the preseason. He is likely to play a substantial role in Jacksonville's backfield this season, although the exact distribution of work will remain obscure until after the first game or two, which makes him hard to trust as a fantasy option in the season opener.",
+        "description": "Chris Rodriguez Jr. (foot) is off of Jacksonville's injury report ahead of the season opener against the Cleveland Browns.",
+        "title": "Chris Rodriguez Jr. (foot) off injury report for Week 1",
+        "topic_id": "1403514526640435200",
+        "url": "https://www.fantasypros.com/nfl/news/606763/chris-rodriguez-jr-foot-off-injury-report-week-1.php"
+      },
+      "nfl_team": "JAX",
+      "player_id": "10219",
+      "player_name": "Chris Rodriguez",
+      "position": "RB",
+      "published": 1788986448500,
+      "source": "fantasy_pros",
+      "source_key": "606763",
+      "story_id": "nfl|10219|fantasy_pros|606763|1788986448500",
+      "title": "Chris Rodriguez Jr. (foot) off injury report for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606763/chris-rodriguez-jr-foot-off-injury-report-week-1.php"
+    },
+    {
+      "analysis": "As expected, Burden is ready to go for the start of the season Sunday against the Panthers. He missed some time earlier in the summer with a groin issue, but it was never believed to be serious. With Rome Odunze (calf) limited in practice Wednesday, Burden could have an enormous role in the passing game Sunday if Odunze is unable to play.",
+      "description": "Burden (groin) is not listed on the Bears' Week 1 injury report Wednesday.",
+      "metadata": {
+        "analysis": "As expected, Burden is ready to go for the start of the season Sunday against the Panthers. He missed some time earlier in the summer with a groin issue, but it was never believed to be serious. With Rome Odunze (calf) limited in practice Wednesday, Burden could have an enormous role in the passing game Sunday if Odunze is unable to play.",
+        "description": "Burden (groin) is not listed on the Bears' Week 1 injury report Wednesday.",
+        "title": "Luther Burden - Not on Week 1 injury report",
+        "topic_id": "1403514518155370496"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12519",
+      "player_name": "Luther Burden",
+      "position": "WR",
+      "published": 1788986223000,
+      "source": "rotowire",
+      "source_key": "636493",
+      "story_id": "nfl|12519|rotowire|636493|1788986223000",
+      "title": "Luther Burden - Not on Week 1 injury report",
+      "url": null
+    },
+    {
+      "analysis": "This is a great development for Tate after dealing with an undisclosed issue late in preseason. Tate is now on track to make his NFL debut in Week 1, where he will be a focal point of the Titans' passing game.",
+      "description": "Tate (undisclosed) is off the injury report ahead of the Titans' season opener against the Jets, Turron Davenport of ESPN.com reports.",
+      "metadata": {
+        "analysis": "This is a great development for Tate after dealing with an undisclosed issue late in preseason. Tate is now on track to make his NFL debut in Week 1, where he will be a focal point of the Titans' passing game.",
+        "description": "Tate (undisclosed) is off the injury report ahead of the Titans' season opener against the Jets, Turron Davenport of ESPN.com reports.",
+        "title": "Carnell Tate - Off injury report",
+        "topic_id": "1403514518105038848"
+      },
+      "nfl_team": "TEN",
+      "player_id": "13279",
+      "player_name": "Carnell Tate",
+      "position": "WR",
+      "published": 1788986168000,
+      "source": "rotowire",
+      "source_key": "636492",
+      "story_id": "nfl|13279|rotowire|636492|1788986168000",
+      "title": "Carnell Tate - Off injury report",
+      "url": null
+    },
+    {
+      "analysis": "After missing a bunch of training camp and the entire preseason with a hyperextended knee, Monangai's ready to roll for the games that count. He should fill a similar role as last season behind D'Andre Swift, who out-carried Monangai 32 to 21 in the Bears' two playoff games. Monangai is one of the premier fantasy bench stashes at running back, and he could have some standalone value during bye weeks.",
+      "description": "Monangai (knee) is not listed on the Bears' Week 1 injury report Wednesday.",
+      "metadata": {
+        "analysis": "After missing a bunch of training camp and the entire preseason with a hyperextended knee, Monangai's ready to roll for the games that count. He should fill a similar role as last season behind D'Andre Swift, who out-carried Monangai 32 to 21 in the Bears' two playoff games. Monangai is one of the premier fantasy bench stashes at running back, and he could have some standalone value during bye weeks.",
+        "description": "Monangai (knee) is not listed on the Bears' Week 1 injury report Wednesday.",
+        "title": "Kyle Monangai - Cleared to play Sunday",
+        "topic_id": "1403514518096650240"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12534",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "published": 1788986081000,
+      "source": "rotowire",
+      "source_key": "636491",
+      "story_id": "nfl|12534|rotowire|636491|1788986081000",
+      "title": "Kyle Monangai - Cleared to play Sunday",
+      "url": null
+    },
+    {
+      "analysis": "The rookie is no longer on Tennessee's injury report and is set to make his NFL debut on Sunday. Fantasy managers should pay close attention to his debut game to see if he has the talent and situation of a breakout fantasy player for this season.",
+      "description": "Carnell Tate (stiffness) is off of the injury report and good to go for Week 1's matchup against the New York Jets.",
+      "metadata": {
+        "analysis": "The rookie is no longer on Tennessee's injury report and is set to make his NFL debut on Sunday. Fantasy managers should pay close attention to his debut game to see if he has the talent and situation of a breakout fantasy player for this season.",
+        "description": "Carnell Tate (stiffness) is off of the injury report and good to go for Week 1's matchup against the New York Jets.",
+        "title": "Carnell Tate (stiffness) good to go for Sunday",
+        "topic_id": "1403512007365324800",
+        "url": "https://www.fantasypros.com/nfl/news/606760/carnell-tate-stiffness-good-to-go-sunday.php"
+      },
+      "nfl_team": "TEN",
+      "player_id": "13279",
+      "player_name": "Carnell Tate",
+      "position": "WR",
+      "published": 1788985847858,
+      "source": "fantasy_pros",
+      "source_key": "606760",
+      "story_id": "nfl|13279|fantasy_pros|606760|1788985847858",
+      "title": "Carnell Tate (stiffness) good to go for Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/606760/carnell-tate-stiffness-good-to-go-sunday.php"
+    },
+    {
+      "analysis": "As expected, Hall is pretty well over his groin injury at this point and was able to practice in a full capacity on Wednesday. He should be healthy for the foreseeable future and projects to be a high-quality fantasy asset for as long as he can remain on the field.",
+      "description": "Breece Hall (groin) logged a full practice session on Wednesday.",
+      "metadata": {
+        "analysis": "As expected, Hall is pretty well over his groin injury at this point and was able to practice in a full capacity on Wednesday. He should be healthy for the foreseeable future and projects to be a high-quality fantasy asset for as long as he can remain on the field.",
+        "description": "Breece Hall (groin) logged a full practice session on Wednesday.",
+        "title": "Breece Hall (groin) logs full practice Wednesday",
+        "topic_id": "1403512006132199424",
+        "url": "https://www.fantasypros.com/nfl/news/606753/breece-hall-groin-logs-full-practice-wednesday.php"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8155",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "published": 1788985847560,
+      "source": "fantasy_pros",
+      "source_key": "606753",
+      "story_id": "nfl|8155|fantasy_pros|606753|1788985847560",
+      "title": "Breece Hall (groin) logs full practice Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606753/breece-hall-groin-logs-full-practice-wednesday.php"
+    },
+    {
+      "analysis": "Davis was a full participant for the Jets on Wednesday. He's still listed on the injury report due to a knee injury, but it shouldn't affect his availability for Week 1. He will continue to play a depth role in this backfield behind Breece Hall moving forward.",
+      "description": "Isaiah Davis (knee) was a full participant at practice on Wednesday.",
+      "metadata": {
+        "analysis": "Davis was a full participant for the Jets on Wednesday. He's still listed on the injury report due to a knee injury, but it shouldn't affect his availability for Week 1. He will continue to play a depth role in this backfield behind Breece Hall moving forward.",
+        "description": "Isaiah Davis (knee) was a full participant at practice on Wednesday.",
+        "title": "Isaiah Davis (knee) full participant Wednesday",
+        "topic_id": "1403512006073479168",
+        "url": "https://www.fantasypros.com/nfl/news/606755/isaiah-davis-knee-full-participant-wednesday.php"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "11571",
+      "player_name": "Isaiah Davis",
+      "position": "RB",
+      "published": 1788985847547,
+      "source": "fantasy_pros",
+      "source_key": "606755",
+      "story_id": "nfl|11571|fantasy_pros|606755|1788985847547",
+      "title": "Isaiah Davis (knee) full participant Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606755/isaiah-davis-knee-full-participant-wednesday.php"
+    },
+    {
+      "analysis": "The first-round rookie missed part of the offseason while recovering from a hernia, but he is back now and was able to put up a full practice session on Wednesday. He should be good to go for Week 1 but is unlikely to be a high-impact fantasy player at the start of the season.",
+      "description": "Kenyon Sadiq (groin) practiced in a full capacity on Wednesday.",
+      "metadata": {
+        "analysis": "The first-round rookie missed part of the offseason while recovering from a hernia, but he is back now and was able to put up a full practice session on Wednesday. He should be good to go for Week 1 but is unlikely to be a high-impact fantasy player at the start of the season.",
+        "description": "Kenyon Sadiq (groin) practiced in a full capacity on Wednesday.",
+        "title": "Kenyon Sadiq (groin) practices in full Wednesday",
+        "topic_id": "1403512005968621568",
+        "url": "https://www.fantasypros.com/nfl/news/606758/kenyon-sadiq-groin-practices-full-wednesday.php"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13330",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "published": 1788985847524,
+      "source": "fantasy_pros",
+      "source_key": "606758",
+      "story_id": "nfl|13330|fantasy_pros|606758|1788985847524",
+      "title": "Kenyon Sadiq (groin) practices in full Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606758/kenyon-sadiq-groin-practices-full-wednesday.php"
+    },
+    {
+      "analysis": "After sitting out Monday and being labeled day-to-day by coach Ben Johnson on Tuesday, Odunze is limited in the first official practice of the week. His status for Sunday's season opener against Carolina still appears unsettled. If Odunze is unable to go, Luther Burden and Colston Loveland should dominate most of the targets from Caleb Williams, while Kalif Raymond and Zavion Thomas see more action on offense.",
+      "description": "Odunze (calf) was limited in Wednesday's practice.",
+      "metadata": {
+        "analysis": "After sitting out Monday and being labeled day-to-day by coach Ben Johnson on Tuesday, Odunze is limited in the first official practice of the week. His status for Sunday's season opener against Carolina still appears unsettled. If Odunze is unable to go, Luther Burden and Colston Loveland should dominate most of the targets from Caleb Williams, while Kalif Raymond and Zavion Thomas see more action on offense.",
+        "description": "Odunze (calf) was limited in Wednesday's practice.",
+        "title": "Rome Odunze - Listed as limited participant Wednesday",
+        "topic_id": "1403513259637637120"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1788985766000,
+      "source": "rotowire",
+      "source_key": "636490",
+      "story_id": "nfl|11620|rotowire|636490|1788985766000",
+      "title": "Rome Odunze - Listed as limited participant Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "The first-round rookie has bounced back from his offseason hernia surgery and is now gearing up for his NFL debut this Sunday. Sadiq was back to participating in positional drills earlier in the week. At this stage, Sadiq is very much on track to be ready for the start of the season.",
+      "description": "Sadiq (hernia) was a full participant in Wednesday's practice, Rich Cimini of ESPN.com reports.",
+      "metadata": {
+        "analysis": "The first-round rookie has bounced back from his offseason hernia surgery and is now gearing up for his NFL debut this Sunday. Sadiq was back to participating in positional drills earlier in the week. At this stage, Sadiq is very much on track to be ready for the start of the season.",
+        "description": "Sadiq (hernia) was a full participant in Wednesday's practice, Rich Cimini of ESPN.com reports.",
+        "title": "Kenyon Sadiq - Listed as full-go Wednesday",
+        "topic_id": "1403512001262612480"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13330",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "published": 1788985724000,
+      "source": "rotowire",
+      "source_key": "636489",
+      "story_id": "nfl|13330|rotowire|636489|1788985724000",
+      "title": "Kenyon Sadiq - Listed as full-go Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "Swift dealt with cramps last week but is good to go for Sunday's season opener against the Panthers. With Kyle Monangai (knee) also removed from the injury report, Swift should operate as the clear RB1 versus Carolina, while Monangai a handful of carries behind him. Swift looks like a borderline RB1 fantasy option in Chicago's loaded offense.",
+      "description": "Swift (abdomen) is not listed on the Bears' Week 1 injury report Wednesday.",
+      "metadata": {
+        "analysis": "Swift dealt with cramps last week but is good to go for Sunday's season opener against the Panthers. With Kyle Monangai (knee) also removed from the injury report, Swift should operate as the clear RB1 versus Carolina, while Monangai a handful of carries behind him. Swift looks like a borderline RB1 fantasy option in Chicago's loaded offense.",
+        "description": "Swift (abdomen) is not listed on the Bears' Week 1 injury report Wednesday.",
+        "title": "D'Andre Swift - Cleared for Week 1",
+        "topic_id": "1403512001170337792"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1788985618000,
+      "source": "rotowire",
+      "source_key": "636488",
+      "story_id": "nfl|6790|rotowire|636488|1788985618000",
+      "title": "D'Andre Swift - Cleared for Week 1",
+      "url": null
+    },
     {
       "analysis": "It's a new injury for the rookie wideout, but a limited start to the week gives Branch a chance to suit up Sunday against the Steelers. He's competing with the likes of Olamide Zaccheaus and Jahan Dotson for offensive snaps behind Drake London.",
       "description": "Branch (hamstring) was limited in Wednesday's practice, Daniel Flick of The Atlanta Journal-Constitution reports.",
@@ -145,12 +376,12 @@
       "url": "https://www.fantasypros.com/nfl/news/606751/sam-laporta-hip-off-injury-report-sunday.php"
     },
     {
-      "analysis": "The star running back was a full-go to begin the practice week as Sunday's season opener looms. Hall suffered a groin injury late in camp but has been making good progress to the point where it's been expected that he would be ready for Week 1. A full practice Wednesday further affirms that expectation. Look for Hall to lead the Jets' backfield to begin the season.",
-      "description": "Hall (groin) was a full participant in Wednesday's practice, Rich Cimini of ESPN reports.",
+      "analysis": "The star running back was a full-go to begin the practice week as Sunday's season opener looms. Hall suffered a groin injury late in camp but has been making good progress to the point where it's been expected that he would be ready for Week 1. Look for Hall to lead the Jets' backfield to begin the season.",
+      "description": "Hall (groin) was a full participant on Wednesday's practice report, Rich Cimini of ESPN reports.",
       "metadata": {
-        "analysis": "The star running back was a full-go to begin the practice week as Sunday's season opener looms. Hall suffered a groin injury late in camp but has been making good progress to the point where it's been expected that he would be ready for Week 1. A full practice Wednesday further affirms that expectation. Look for Hall to lead the Jets' backfield to begin the season.",
-        "description": "Hall (groin) was a full participant in Wednesday's practice, Rich Cimini of ESPN reports.",
-        "title": "Breece Hall - Returns to full practice",
+        "analysis": "The star running back was a full-go to begin the practice week as Sunday's season opener looms. Hall suffered a groin injury late in camp but has been making good progress to the point where it's been expected that he would be ready for Week 1. Look for Hall to lead the Jets' backfield to begin the season.",
+        "description": "Hall (groin) was a full participant on Wednesday's practice report, Rich Cimini of ESPN reports.",
+        "title": "Breece Hall - Full participant Wednesday",
         "topic_id": "1403509485384761344"
       },
       "nfl_team": "NYJ",
@@ -161,7 +392,7 @@
       "source": "rotowire",
       "source_key": "636486",
       "story_id": "nfl|8155|rotowire|636486|1788985166000",
-      "title": "Breece Hall - Returns to full practice",
+      "title": "Breece Hall - Full participant Wednesday",
       "url": null
     },
     {
@@ -861,6 +1092,26 @@
       "url": "https://www.fantasypros.com/nfl/news/606724/shedeur-sanders-expected-to-be-qb2-week-1.php"
     },
     {
+      "analysis": null,
+      "description": "A second-round pick in the 2025 NFL Draft, Los Angeles Rams tight end Terrance Ferguson recorded 11 catches for 231 yards and three touchdowns on 25 targets across 14 games (three starts) as a rookie last season. While the 23-year-old flashed high-end talent, the depth of the Rams tight end room prevented him from playing a high-volume role. Entering 2026, Los Angeles once again fields a deep tight end room that features veterans Colby Parkinson, Tyler Higbee, and Davis Allen as well as rookie second-rounder Max Klare. However, Ferguson reportedly had a strong camp and profiles as the team's highest-upside receiving option at tight end. If he can work his way into consistent playing time this season, Ferguson has the talent to be a breakout candidate. In deeper league formats, fantasy managers may want to consider stashing Ferguson through the early portion of the year.",
+      "metadata": {
+        "description": "A second-round pick in the 2025 NFL Draft, Los Angeles Rams tight end Terrance Ferguson recorded 11 catches for 231 yards and three touchdowns on 25 targets across 14 games (three starts) as a rookie last season. While the 23-year-old flashed high-end talent, the depth of the Rams tight end room prevented him from playing a high-volume role. Entering 2026, Los Angeles once again fields a deep tight end room that features veterans Colby Parkinson, Tyler Higbee, and Davis Allen as well as rookie second-rounder Max Klare. However, Ferguson reportedly had a strong camp and profiles as the team's highest-upside receiving option at tight end. If he can work his way into consistent playing time this season, Ferguson has the talent to be a breakout candidate. In deeper league formats, fantasy managers may want to consider stashing Ferguson through the early portion of the year.",
+        "title": "Terrance Ferguson Well-Positioned for a Second-Year Breakout in 2026?",
+        "topic_id": "1403514515202527232",
+        "url": "https://www.rotoballer.com/player-news/terrance-ferguson-well-positioned-for-a-second-year-breakout-in-2026/1927077"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12487",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "published": 1788971769000,
+      "source": "rotoballer",
+      "source_key": "220464",
+      "story_id": "nfl|12487|rotoballer|220464|1788971769000",
+      "title": "Terrance Ferguson Well-Positioned for a Second-Year Breakout in 2026?",
+      "url": "https://www.rotoballer.com/player-news/terrance-ferguson-well-positioned-for-a-second-year-breakout-in-2026/1927077"
+    },
+    {
       "analysis": "The extent of Meyers' practice participation won't be revealed until the Jaguars post their first injury report of the season following Wednesday's session, but the fact that the wideout was donning a non-contact jersey suggests that he'll likely be listed as a limited participant. Meyers jammed his right hand in a joint practice with the Panthers three weeks ago, but the Jaguars haven't yet indicated that the receiver's availability for Sunday's season opener versus the Browns is in any serious jeopardy.",
       "description": "Meyers (hand) was spotted practicing Wednesday while wearing a non-contact jersey, Ryan O'Halloran of The Florida Times-Union reports.",
       "metadata": {
@@ -879,6 +1130,26 @@
       "story_id": "nfl|5947|rotowire|636462|1788971339000",
       "title": "Jakobi Meyers - Not taking contact Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "A third-round pick out of Texas Tech in the 2026 NFL Draft, Miami Dolphins rookie wide receiver Caleb Douglas could have a chance to play a significant role in his team's offense right away. The Dolphins appear to have plenty of targets and playing time available on the outside, as underwhelming veterans Jalen Tolbert and Malik Washington are the team's most experienced wide receivers. Douglas also drew positive reviews for his work in training camp and then saw minimal usage throughout the preseason, which could indicate that the team is planning to feature him heavily once the regular season begins. The Dolphins' passing game has plenty of question marks to open the year in quarterback Malik Willis' first season as the team's starter, so fantasy managers may not want to rely on Douglas for immediate production. Still, Douglas' season-long upside makes him a worthy stash target going into Week 1.",
+      "metadata": {
+        "description": "A third-round pick out of Texas Tech in the 2026 NFL Draft, Miami Dolphins rookie wide receiver Caleb Douglas could have a chance to play a significant role in his team's offense right away. The Dolphins appear to have plenty of targets and playing time available on the outside, as underwhelming veterans Jalen Tolbert and Malik Washington are the team's most experienced wide receivers. Douglas also drew positive reviews for his work in training camp and then saw minimal usage throughout the preseason, which could indicate that the team is planning to feature him heavily once the regular season begins. The Dolphins' passing game has plenty of question marks to open the year in quarterback Malik Willis' first season as the team's starter, so fantasy managers may not want to rely on Douglas for immediate production. Still, Douglas' season-long upside makes him a worthy stash target going into Week 1.",
+        "title": "Caleb Douglas Could Be Poised for Heavy Usage in Miami",
+        "topic_id": "1403514515210915840",
+        "url": "https://www.rotoballer.com/player-news/caleb-douglas-could-be-poised-for-heavy-usage-in-miami/1927067"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13296",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "published": 1788971228000,
+      "source": "rotoballer",
+      "source_key": "220465",
+      "story_id": "nfl|13296|rotoballer|220465|1788971228000",
+      "title": "Caleb Douglas Could Be Poised for Heavy Usage in Miami",
+      "url": "https://www.rotoballer.com/player-news/caleb-douglas-could-be-poised-for-heavy-usage-in-miami/1927067"
     },
     {
       "analysis": "McMillan is taking part in Tampa Bay's first official practice of the week on Wednesday. He was sidelined for part of the offseason due to a knee injury, but he seems to be nearly full health at this point and looks likely to play in Week 1. We should learn more when the team's official injury report comes out after practice.",
