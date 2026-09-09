@@ -2,26 +2,36 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2268**
-- Newly captured: **7**
+- Stored stories: **2272**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Jalen McMillan** — Jalen McMillan (knee) participating at practice Wednesday (2026-09-09T16:25:36.108000Z)
+- **NEW — Jakobi Meyers** — Jakobi Meyers (hand) seen in non-contact jersey Wednesday (2026-09-09T16:40:35.485000Z)
+  - It appears that Meyers is not over his hand injury yet, as it left him in a red non-contact jersey at the team's first practice of the week on Wednesday. If this issue leaves him sidelined for Week 1, fantasy managers should expect Parker Washington to be a great fantasy option against the Cleveland Browns.
+  - Source: https://www.fantasypros.com/nfl/news/606723/jakobi-meyers-hand-seen-non-contact-jersey-wednesday.php
+- **NEW — Shedeur Sanders** — Shedeur Sanders expected to be QB2 in Week 1 (2026-09-09T16:40:35.474000Z)
+  - Deshaun Watson won the starting QB job for the Browns, and now the team has confirmed the Sanders is going to be active on gamedays and serve as their backup quarterback in Week 1. He won't seen the field in any large capacity for the foreseeable future, barring any injury to Watson.
+  - Source: https://www.fantasypros.com/nfl/news/606724/shedeur-sanders-expected-to-be-qb2-week-1.php
+- **NEW — Jakobi Meyers** — Jakobi Meyers - Not taking contact Wednesday (2026-09-09T16:28:59Z)
+  - The extent of Meyers' practice participation won't be revealed until the Jaguars post their first injury report of the season following Wednesday's session, but the fact that the wideout was donning a non-contact jersey suggests that he'll likely be listed as a limited participant. Meyers jammed his right hand in a joint practice with the Panthers three weeks ago, but the Jaguars haven't yet indicated that the receiver's availability for Sunday's season opener versus the Browns is in any serious jeopardy.
+- **Jalen McMillan** — Jalen McMillan (knee) participating at practice Wednesday (2026-09-09T16:25:36.108000Z)
   - McMillan is taking part in Tampa Bay's first official practice of the week on Wednesday. He was sidelined for part of the offseason due to a knee injury, but he seems to be nearly full health at this point and looks likely to play in Week 1. We should learn more when the team's official injury report comes out after practice.
   - Source: https://www.fantasypros.com/nfl/news/606721/jalen-mcmillan-knee-participating-practice-wednesday.php
-- **NEW — Jalen McMillan** — Jalen McMillan - Seems to be full practice participant (2026-09-09T16:20:05Z)
+- **Jalen McMillan** — Jalen McMillan - Seems to be full practice participant (2026-09-09T16:20:05Z)
   - Tampa Bay will release its first injury report of the season following Wednesday's session, when it will be known whether McMillan was in fact a full participant or limited in some capacity. Even a limited listing would still put McMillan in a strong position to play in Sunday's season opener versus the Bengals, after a sore knee as well as a left calf injury kept him off the field for much of training camp. McMillan projects to begin the season as Tampa Bay's No. 3 receiver behind Emeka Egbuka (toe) and Chris Godwin.
-- **NEW — Emeka Egbuka** — Emeka Egbuka (toe) seen practicing Wednesday (2026-09-09T16:15:35.994000Z)
+- **Emeka Egbuka** — Emeka Egbuka (toe) seen practicing Wednesday (2026-09-09T16:15:35.994000Z)
   - Egbuka has been dealing with a nagging toe injury for several weeks, but he was seen practicing with the Buccaneers on Wednesday ahead of their season opener against the Bengals on Sunday. That's a good sign for his health heading into Week 1, but fantasy managers should keep tabs on further updates about his health in the coming days to see whether or not he will be fully healthy for the first game of the season.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
-- **NEW — Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
+- **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
-- **NEW — Marvin Mims** — Marvin Mims Jr. Joins Broncos' Starting Receiver Trio (2026-09-09T12:18:06Z)
+- **NEW — Mike Washington** — Mike Washington Jr. Could See a Key Week 1 Role After Dominant Preseason Effort (2026-09-09T12:37:26Z)
+  - Source: https://www.rotoballer.com/player-news/mike-washington-jr-could-see-a-key-week-1-role-after-dominant-preseason-effort/1926824
+- **Marvin Mims** — Marvin Mims Jr. Joins Broncos' Starting Receiver Trio (2026-09-09T12:18:06Z)
   - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-joins-broncos-starting-receiver-trio/1926797
-- **NEW — Luther Burden** — Luther Burden III Appears Healthy Ahead of Week 1 (2026-09-09T12:13:06Z)
+- **Luther Burden** — Luther Burden III Appears Healthy Ahead of Week 1 (2026-09-09T12:13:06Z)
   - Source: https://www.rotoballer.com/player-news/luther-burden-iii-praised-by-coaches-throughout-camp-appears-healthy-ahead-of-week-1/1926792
-- **NEW — Tank Bigsby** — Tank Bigsby Belongs Among Fantasy's Elite Handcuffs (2026-09-09T12:05:05Z)
+- **Tank Bigsby** — Tank Bigsby Belongs Among Fantasy's Elite Handcuffs (2026-09-09T12:05:05Z)
   - Source: https://www.rotoballer.com/player-news/tank-bigsby-belongs-among-fantasys-elite-handcuffs/1926778
 - **Parker Washington** — Parker Washington's Breakout May Be Just Getting Started (2026-09-09T11:55:05Z)
   - Source: https://www.rotoballer.com/player-news/parker-washingtons-breakout-may-be-just-getting-started/1926762
@@ -213,11 +223,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The rookie joins DeVonta Smith and Dontayvion Wicks as the top three receivers on the depth chart, though Wicks may be prioritized ahead of Lemon in two-wide sets to begin the season. Wicks turned in a strong training camp, while Lemon spent considerable time on the sideline while tending to a hamstring injury. The first-round pick will likely need to impress early in the season before pushing past Wicks as the No. 2 receiver.
 - **Isaiah Davis** — Isaiah Davis Takes Part in RB Drills on Tuesday (2026-09-08T15:29:05Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-davis-takes-part-in-rb-drills-on-tuesday/1926091
-- **Pat Freiermuth** — Pat Freiermuth Not Worth Chasing Before Week 1 (2026-09-08T15:21:06Z)
-  - Source: https://www.rotoballer.com/player-news/pat-freiermuth-not-worth-chasing-before-week-1/1926084
-- **Malachi Fields** — Malachi Fields - Looks set to begin season as No. 2 wideout (2026-09-08T15:18:23Z)
-  - Prior to his release, Slayton looked like the leading candidate to handle the perimeter role opposite Malik Nabers (knee). Those duties instead could fall to Fields, a third-round rookie out of Notre Dame. Listed at 6-foot-4 and 222 pounds, Fields drew positive buzz in training camp and the preseason for his physicality and ability to make plays downfield. The Giants still have veterans Darnell Mooney and Odell Beckham on hand to push for playing time, but Fields often took reps ahead of both players while Nabers was sidelined or limited to non-contact portions of practice for much of camp.
-- **Tyler Allgeier** — Tyler Allgeier Gets a Boost From Cardinals Depth Chart (2026-09-08T15:14:05Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-allgeier-gets-a-boost-from-cardinals-depth-chart/1926079
-- **Jeremiyah Love** — Jeremiyah Love Listed as RB2 on Cardinals' Depth Chart (2026-09-08T15:02:06Z)
-  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-listed-as-rb2-on-cardinals-depth-chart/1926066

@@ -1,15 +1,12 @@
 {
-  "last_checked_at": "2026-09-09T16:29:04Z",
+  "last_checked_at": "2026-09-09T16:46:01Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|11618|fantasy_pros|606721|1788971136108",
-    "nfl|11618|rotowire|636461|1788970805000",
-    "nfl|12514|fantasy_pros|606720|1788970535994",
-    "nfl|12514|rotowire|636460|1788970341000",
-    "nfl|12519|rotoballer|220431|1788955986000",
-    "nfl|9225|rotoballer|220430|1788955505000",
-    "nfl|9494|rotoballer|220432|1788956286000"
+    "nfl|12524|fantasy_pros|606724|1788972035474",
+    "nfl|13305|rotoballer|220434|1788957446000",
+    "nfl|5947|fantasy_pros|606723|1788972035485",
+    "nfl|5947|rotowire|636462|1788971339000"
   ],
   "schema_version": 1,
   "source": {
@@ -19,6 +16,68 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "It appears that Meyers is not over his hand injury yet, as it left him in a red non-contact jersey at the team's first practice of the week on Wednesday. If this issue leaves him sidelined for Week 1, fantasy managers should expect Parker Washington to be a great fantasy option against the Cleveland Browns.",
+      "description": "Jakobi Meyers (hand) was spotted wearing a red non-contact jersey at practice on Wednesday.",
+      "metadata": {
+        "analysis": "It appears that Meyers is not over his hand injury yet, as it left him in a red non-contact jersey at the team's first practice of the week on Wednesday. If this issue leaves him sidelined for Week 1, fantasy managers should expect Parker Washington to be a great fantasy option against the Cleveland Browns.",
+        "description": "Jakobi Meyers (hand) was spotted wearing a red non-contact jersey at practice on Wednesday.",
+        "title": "Jakobi Meyers (hand) seen in non-contact jersey Wednesday",
+        "topic_id": "1403454074086543360",
+        "url": "https://www.fantasypros.com/nfl/news/606723/jakobi-meyers-hand-seen-non-contact-jersey-wednesday.php"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1788972035485,
+      "source": "fantasy_pros",
+      "source_key": "606723",
+      "story_id": "nfl|5947|fantasy_pros|606723|1788972035485",
+      "title": "Jakobi Meyers (hand) seen in non-contact jersey Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606723/jakobi-meyers-hand-seen-non-contact-jersey-wednesday.php"
+    },
+    {
+      "analysis": "Deshaun Watson won the starting QB job for the Browns, and now the team has confirmed the Sanders is going to be active on gamedays and serve as their backup quarterback in Week 1. He won't seen the field in any large capacity for the foreseeable future, barring any injury to Watson.",
+      "description": "Shedeur Sanders is expected to be active as Cleveland's backup quarterback in Week 1.",
+      "metadata": {
+        "analysis": "Deshaun Watson won the starting QB job for the Browns, and now the team has confirmed the Sanders is going to be active on gamedays and serve as their backup quarterback in Week 1. He won't seen the field in any large capacity for the foreseeable future, barring any injury to Watson.",
+        "description": "Shedeur Sanders is expected to be active as Cleveland's backup quarterback in Week 1.",
+        "title": "Shedeur Sanders expected to be QB2 in Week 1",
+        "topic_id": "1403454074036211712",
+        "url": "https://www.fantasypros.com/nfl/news/606724/shedeur-sanders-expected-to-be-qb2-week-1.php"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12524",
+      "player_name": "Shedeur Sanders",
+      "position": "QB",
+      "published": 1788972035474,
+      "source": "fantasy_pros",
+      "source_key": "606724",
+      "story_id": "nfl|12524|fantasy_pros|606724|1788972035474",
+      "title": "Shedeur Sanders expected to be QB2 in Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606724/shedeur-sanders-expected-to-be-qb2-week-1.php"
+    },
+    {
+      "analysis": "The extent of Meyers' practice participation won't be revealed until the Jaguars post their first injury report of the season following Wednesday's session, but the fact that the wideout was donning a non-contact jersey suggests that he'll likely be listed as a limited participant. Meyers jammed his right hand in a joint practice with the Panthers three weeks ago, but the Jaguars haven't yet indicated that the receiver's availability for Sunday's season opener versus the Browns is in any serious jeopardy.",
+      "description": "Meyers (hand) was spotted practicing Wednesday while wearing a non-contact jersey, Ryan O'Halloran of The Florida Times-Union reports.",
+      "metadata": {
+        "analysis": "The extent of Meyers' practice participation won't be revealed until the Jaguars post their first injury report of the season following Wednesday's session, but the fact that the wideout was donning a non-contact jersey suggests that he'll likely be listed as a limited participant. Meyers jammed his right hand in a joint practice with the Panthers three weeks ago, but the Jaguars haven't yet indicated that the receiver's availability for Sunday's season opener versus the Browns is in any serious jeopardy.",
+        "description": "Meyers (hand) was spotted practicing Wednesday while wearing a non-contact jersey, Ryan O'Halloran of The Florida Times-Union reports.",
+        "title": "Jakobi Meyers - Not taking contact Wednesday",
+        "topic_id": "1403451552752062464"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1788971339000,
+      "source": "rotowire",
+      "source_key": "636462",
+      "story_id": "nfl|5947|rotowire|636462|1788971339000",
+      "title": "Jakobi Meyers - Not taking contact Wednesday",
+      "url": null
+    },
     {
       "analysis": "McMillan is taking part in Tampa Bay's first official practice of the week on Wednesday. He was sidelined for part of the offseason due to a knee injury, but he seems to be nearly full health at this point and looks likely to play in Week 1. We should learn more when the team's official injury report comes out after practice.",
       "description": "Jalen McMillan (knee) is participating at Tampa Bay's practice on Wednesday.",
@@ -100,6 +159,26 @@
       "story_id": "nfl|12514|rotowire|636460|1788970341000",
       "title": "Emeka Egbuka - Looks to be practicing fully Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders rookie running back Mike Washington Jr. led all qualified runners with a 7.3 yards-per-carry average during the 2026 preseason. Following a dominant effort across all three games, he has positioned himself as not just an important insurance back, but as a player who could see a standalone role as early as Week 1. 2025 sixth overall pick Ashton Jeanty (ankle) handled 334 opportunities as a rookie, but upon his arrival from Seattle, head coach Klint Kubiak immediately espoused the value of a committee running back approach. In Washington, he may have found a player to help lighten Jeanty's workload, particularly with the former first-rounder already dealing with an ankle injury. With the Raiders still holding one of the league's lowest projected win totals, it may be difficult for the team to support two usable fantasy backs, but Washington's preseason push makes him an intriguing end-of-bench stash who would see his value catapult if ever forced into a larger role by injury.",
+      "metadata": {
+        "description": "Las Vegas Raiders rookie running back Mike Washington Jr. led all qualified runners with a 7.3 yards-per-carry average during the 2026 preseason. Following a dominant effort across all three games, he has positioned himself as not just an important insurance back, but as a player who could see a standalone role as early as Week 1. 2025 sixth overall pick Ashton Jeanty (ankle) handled 334 opportunities as a rookie, but upon his arrival from Seattle, head coach Klint Kubiak immediately espoused the value of a committee running back approach. In Washington, he may have found a player to help lighten Jeanty's workload, particularly with the former first-rounder already dealing with an ankle injury. With the Raiders still holding one of the league's lowest projected win totals, it may be difficult for the team to support two usable fantasy backs, but Washington's preseason push makes him an intriguing end-of-bench stash who would see his value catapult if ever forced into a larger role by injury.",
+        "title": "Mike Washington Jr. Could See a Key Week 1 Role After Dominant Preseason Effort",
+        "topic_id": "1403454068801708032",
+        "url": "https://www.rotoballer.com/player-news/mike-washington-jr-could-see-a-key-week-1-role-after-dominant-preseason-effort/1926824"
+      },
+      "nfl_team": "LV",
+      "player_id": "13305",
+      "player_name": "Mike Washington",
+      "position": "RB",
+      "published": 1788957446000,
+      "source": "rotoballer",
+      "source_key": "220434",
+      "story_id": "nfl|13305|rotoballer|220434|1788957446000",
+      "title": "Mike Washington Jr. Could See a Key Week 1 Role After Dominant Preseason Effort",
+      "url": "https://www.rotoballer.com/player-news/mike-washington-jr-could-see-a-key-week-1-role-after-dominant-preseason-effort/1926824"
     },
     {
       "analysis": null,
