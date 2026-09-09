@@ -2,12 +2,26 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2383**
-- Newly captured: **2**
+- Stored stories: **2388**
+- Newly captured: **5**
 
 ## Latest news
 
-- **NEW — Rachaad White** — Rachaad White - Clear of injury report (2026-09-09T21:49:10Z)
+- **NEW — Zay Flowers** — Zay Flowers (hamstring) limited at practice Wednesday (2026-09-09T22:00:48.012000Z)
+  - Flowers was only able to practice in a limited fashion on Wednesday. There seems to be a lot of optimism for his Week 1 availability, but fantasy managers should keep tabs on him throughout the week to make sure he's ready to go for the season opener, as hamstring injuries have a tendency to reaggravate or linger longer than expected. He should be started in most league formats if he is fully cleared to play, however.
+  - Source: https://www.fantasypros.com/nfl/news/606802/zay-flowers-hamstring-limited-practice-wednesday.php
+- **NEW — Rachaad White** — Rachaad White (hamstring) off injury report for Sunday (2026-09-09T22:00:47.986000Z)
+  - The veteran running back is fully over his hamstring injury at this point and is set to be a full go for Washington's season opener on Sunday. He will be primed for more work if Jacory Croskey-Merritt (groin) is limited or sidelined for the team's matchup against the Eagles.
+  - Source: https://www.fantasypros.com/nfl/news/606804/rachaad-white-hamstring-off-injury-report-sunday.php
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) limited participant Wednesday (2026-09-09T22:00:47.973000Z)
+  - Croskey-Merritt is managing a groin injury right now and was unable to log a full practice session on Wednesday as a result. There's an off-chance that it will leave him sidelined for Week 1, which would lead to more work for Rachaad White against the Eagles.
+  - Source: https://www.fantasypros.com/nfl/news/606805/jacory-croskey-merritt-groin-limited-participant-wednesday.php
+- **NEW — Keaton Mitchell** — Keaton Mitchell - Limited Wednesday (2026-09-09T21:58:45Z)
+  - Mitchell returned to practice earlier this week, and a limited session to open the week gives him a good chance to take the field Sunday against the Cardinals. Mitchell is expected to serve as the big-play complementary back behind Omarion Hampton this season. He's worthy of a bench stash in most fantasy leagues.
+- **NEW — Keon Coleman** — Keon Coleman (foot/toe) without injury designation for Sunday (2026-09-09T21:55:47.849000Z)
+  - Coleman's foot and toe injuries are no longer an issue for him and he carries no injury designation ahead of the team's season opener on Sunday. He isn't expected to be fantasy relevant for the foreseeable future, however.
+  - Source: https://www.fantasypros.com/nfl/news/606801/keon-coleman-foottoe-without-injury-designation-sunday.php
+- **Rachaad White** — Rachaad White - Clear of injury report (2026-09-09T21:49:10Z)
   - White had been tending to a hamstring issue since mid-August, but his ability to avoid the practice report entirely Wednesday indicates he's put the injury behind him. Meanwhile, Jacory Croskey-Merritt (groin) was limited to kick off Week 1 prep, leaving one big question mark in Washington's backfield ahead of Sunday's game in Philadelphia.
 - **Alvin Kamara** — Alvin Kamara (knee) officially limited Wednesday (2026-09-09T21:45:47.771000Z)
   - The veteran running back was a limited participant at the team's first practice of the week on Wednesday. He's recovering from a knee injury right now and seems likely to miss Week 1 as a result. If that's the case, Kendre Miller will be primed for more work in his absence.
@@ -15,7 +29,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Khalil Shakir** — Khalil Shakir good to go for Sunday (2026-09-09T21:45:47.730000Z)
   - Shakir was a full participant at practice on Wednesday and is expected to be fully good to go for Sunday's season opener against the Houston Texans. He is not worth starting for fantasy purposes at this point, however, especially with DJ Moore now in town for the Bills.
   - Source: https://www.fantasypros.com/nfl/news/606800/khalil-shakir-good-to-go-sunday.php
-- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Limited practice Wednesday (2026-09-09T21:45:45Z)
+- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Limited practice Wednesday (2026-09-09T21:45:45Z)
   - Croskey-Merritt initially suffered an undisclosed injury in an Aug. 22 practice that coach Dan Quinn clarified as to the running back's lower body not long after. While the running back was able to return to the practice field Sept. 1, Croskey-Merritt's activity level wasn't known until this week. He still has some work to do ahead of Sunday's Week 1 matchup at Philadelphia, while fellow RB Rachaad White (hamstring) avoided the Commanders' injury report entirely Wednesday.
 - **Tucker Kraft** — Tucker Kraft - Not on Week 1 injury report (2026-09-09T21:41:28Z)
   - Kraft has been working in full pads for weeks, so it's no surprise. He's ready to go for Sunday's game against the Vikings and is a top-five TE1 for fantasy in that matchup.
@@ -235,13 +249,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Emeka Egbuka** — Emeka Egbuka (toe) seen practicing Wednesday (2026-09-09T16:15:35.994000Z)
   - Egbuka has been dealing with a nagging toe injury for several weeks, but he was seen practicing with the Buccaneers on Wednesday ahead of their season opener against the Bengals on Sunday. That's a good sign for his health heading into Week 1, but fantasy managers should keep tabs on further updates about his health in the coming days to see whether or not he will be fully healthy for the first game of the season.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
-- **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
-  - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
-- **Devaughn Vele** — Devaughn Vele Could Grab the No. 2 Job Early (2026-09-09T16:08:10Z)
-  - Source: https://www.rotoballer.com/player-news/devaughn-vele-could-grab-the-no-2-job-early/1927038
-- **Malik Washington** — Malik Washington Gets His Shot in Miami's Starting Lineup (2026-09-09T15:45:07Z)
-  - Source: https://www.rotoballer.com/player-news/malik-washington-gets-his-shot-in-miamis-starting-lineup/1927018
-- **Dalton Kincaid** — Dalton Kincaid Could Become a League-Winner With More Snaps (2026-09-09T15:36:48Z)
-  - Source: https://www.rotoballer.com/player-news/dalton-kincaid-could-become-a-league-winner-with-more-snaps/1927010
-- **Malachi Fields** — Malachi Fields Is Becoming Harder to Keep Off the Field (2026-09-09T15:25:05Z)
-  - Source: https://www.rotoballer.com/player-news/malachi-fields-is-becoming-harder-to-keep-off-the-field/1926996

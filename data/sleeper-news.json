@@ -1,10 +1,13 @@
 {
-  "last_checked_at": "2026-09-09T21:55:46Z",
+  "last_checked_at": "2026-09-09T22:10:39Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|12533|rotowire|636524|1788990345000",
-    "nfl|8136|rotowire|636525|1788990550000"
+    "nfl|11637|fantasy_pros|606801|1788990947849",
+    "nfl|12533|fantasy_pros|606805|1788991247973",
+    "nfl|8136|fantasy_pros|606804|1788991247986",
+    "nfl|9511|rotowire|636529|1788991125000",
+    "nfl|9997|fantasy_pros|606802|1788991248012"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +17,110 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Flowers was only able to practice in a limited fashion on Wednesday. There seems to be a lot of optimism for his Week 1 availability, but fantasy managers should keep tabs on him throughout the week to make sure he's ready to go for the season opener, as hamstring injuries have a tendency to reaggravate or linger longer than expected. He should be started in most league formats if he is fully cleared to play, however.",
+      "description": "Zay Flowers (hamstring) was limited at Baltimore's practice on Wednesday.",
+      "metadata": {
+        "analysis": "Flowers was only able to practice in a limited fashion on Wednesday. There seems to be a lot of optimism for his Week 1 availability, but fantasy managers should keep tabs on him throughout the week to make sure he's ready to go for the season opener, as hamstring injuries have a tendency to reaggravate or linger longer than expected. He should be started in most league formats if he is fully cleared to play, however.",
+        "description": "Zay Flowers (hamstring) was limited at Baltimore's practice on Wednesday.",
+        "title": "Zay Flowers (hamstring) limited at practice Wednesday",
+        "topic_id": "1403534657265446912",
+        "url": "https://www.fantasypros.com/nfl/news/606802/zay-flowers-hamstring-limited-practice-wednesday.php"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1788991248012,
+      "source": "fantasy_pros",
+      "source_key": "606802",
+      "story_id": "nfl|9997|fantasy_pros|606802|1788991248012",
+      "title": "Zay Flowers (hamstring) limited at practice Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606802/zay-flowers-hamstring-limited-practice-wednesday.php"
+    },
+    {
+      "analysis": "The veteran running back is fully over his hamstring injury at this point and is set to be a full go for Washington's season opener on Sunday. He will be primed for more work if Jacory Croskey-Merritt (groin) is limited or sidelined for the team's matchup against the Eagles.",
+      "description": "Rachaad White (hamstring) is off of the injury report for Sunday's game against the Philadelphia Eagles.",
+      "metadata": {
+        "analysis": "The veteran running back is fully over his hamstring injury at this point and is set to be a full go for Washington's season opener on Sunday. He will be primed for more work if Jacory Croskey-Merritt (groin) is limited or sidelined for the team's matchup against the Eagles.",
+        "description": "Rachaad White (hamstring) is off of the injury report for Sunday's game against the Philadelphia Eagles.",
+        "title": "Rachaad White (hamstring) off injury report for Sunday",
+        "topic_id": "1403534657156395008",
+        "url": "https://www.fantasypros.com/nfl/news/606804/rachaad-white-hamstring-off-injury-report-sunday.php"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8136",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "published": 1788991247986,
+      "source": "fantasy_pros",
+      "source_key": "606804",
+      "story_id": "nfl|8136|fantasy_pros|606804|1788991247986",
+      "title": "Rachaad White (hamstring) off injury report for Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/606804/rachaad-white-hamstring-off-injury-report-sunday.php"
+    },
+    {
+      "analysis": "Croskey-Merritt is managing a groin injury right now and was unable to log a full practice session on Wednesday as a result. There's an off-chance that it will leave him sidelined for Week 1, which would lead to more work for Rachaad White against the Eagles.",
+      "description": "Jacory Croskey-Merritt (groin) was a limited participant at practice on Wednesday.",
+      "metadata": {
+        "analysis": "Croskey-Merritt is managing a groin injury right now and was unable to log a full practice session on Wednesday as a result. There's an off-chance that it will leave him sidelined for Week 1, which would lead to more work for Rachaad White against the Eagles.",
+        "description": "Jacory Croskey-Merritt (groin) was a limited participant at practice on Wednesday.",
+        "title": "Jacory Croskey-Merritt (groin) limited participant Wednesday",
+        "topic_id": "1403534657097674752",
+        "url": "https://www.fantasypros.com/nfl/news/606805/jacory-croskey-merritt-groin-limited-participant-wednesday.php"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1788991247973,
+      "source": "fantasy_pros",
+      "source_key": "606805",
+      "story_id": "nfl|12533|fantasy_pros|606805|1788991247973",
+      "title": "Jacory Croskey-Merritt (groin) limited participant Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606805/jacory-croskey-merritt-groin-limited-participant-wednesday.php"
+    },
+    {
+      "analysis": "Mitchell returned to practice earlier this week, and a limited session to open the week gives him a good chance to take the field Sunday against the Cardinals. Mitchell is expected to serve as the big-play complementary back behind Omarion Hampton this season. He's worthy of a bench stash in most fantasy leagues.",
+      "description": "Mitchell (hamstring) was limited in Wednesday's practice.",
+      "metadata": {
+        "analysis": "Mitchell returned to practice earlier this week, and a limited session to open the week gives him a good chance to take the field Sunday against the Cardinals. Mitchell is expected to serve as the big-play complementary back behind Omarion Hampton this season. He's worthy of a bench stash in most fantasy leagues.",
+        "description": "Mitchell (hamstring) was limited in Wednesday's practice.",
+        "title": "Keaton Mitchell - Limited Wednesday",
+        "topic_id": "1403534651598868480"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1788991125000,
+      "source": "rotowire",
+      "source_key": "636529",
+      "story_id": "nfl|9511|rotowire|636529|1788991125000",
+      "title": "Keaton Mitchell - Limited Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "Coleman's foot and toe injuries are no longer an issue for him and he carries no injury designation ahead of the team's season opener on Sunday. He isn't expected to be fantasy relevant for the foreseeable future, however.",
+      "description": "Keon Coleman (foot/toe) is without an injury designation for Sunday's game against the Houston Texans.",
+      "metadata": {
+        "analysis": "Coleman's foot and toe injuries are no longer an issue for him and he carries no injury designation ahead of the team's season opener on Sunday. He isn't expected to be fantasy relevant for the foreseeable future, however.",
+        "description": "Keon Coleman (foot/toe) is without an injury designation for Sunday's game against the Houston Texans.",
+        "title": "Keon Coleman (foot/toe) without injury designation for Sunday",
+        "topic_id": "1403533398273748992",
+        "url": "https://www.fantasypros.com/nfl/news/606801/keon-coleman-foottoe-without-injury-designation-sunday.php"
+      },
+      "nfl_team": "BUF",
+      "player_id": "11637",
+      "player_name": "Keon Coleman",
+      "position": "WR",
+      "published": 1788990947849,
+      "source": "fantasy_pros",
+      "source_key": "606801",
+      "story_id": "nfl|11637|fantasy_pros|606801|1788990947849",
+      "title": "Keon Coleman (foot/toe) without injury designation for Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/606801/keon-coleman-foottoe-without-injury-designation-sunday.php"
+    },
     {
       "analysis": "White had been tending to a hamstring issue since mid-August, but his ability to avoid the practice report entirely Wednesday indicates he's put the injury behind him. Meanwhile, Jacory Croskey-Merritt (groin) was limited to kick off Week 1 prep, leaving one big question mark in Washington's backfield ahead of Sunday's game in Philadelphia.",
       "description": "White (hamstring) wasn't listed on the Commanders' initial Week 1 injury report Wednesday.",

@@ -22884,7 +22884,7 @@
       ],
       "first_name": "Rachaad",
       "full_name": "Rachaad White",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "White",
       "nfl_team": "WAS",
       "player_id": "8136",
@@ -23334,7 +23334,7 @@
       ],
       "first_name": "Tucker",
       "full_name": "Tucker Kraft",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Kraft",
       "nfl_team": "GB",
       "player_id": "9484",
@@ -23815,8 +23815,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-09T21:46:01Z",
-    "source_fingerprint": "2df4d598e6edae0a7c6d8d697aa69a0a6d2f2675a577c5f823246e01c2d65f33"
+    "last_changed_at": "2026-09-09T21:55:44Z",
+    "source_fingerprint": "1f878c75a1adb550b800d11a0e4235f536895da7a927657fe75bcf5ea8a0183b"
   },
   "teams": [
     {
