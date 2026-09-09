@@ -2,16 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2247**
+- Stored stories: **2249**
 - Newly captured: **2**
 
 ## Latest news
 
 - **George Kittle** — George Kittle - Could see limited Week 1 role (2026-09-09T02:49:22Z)
   - "We got to be smart with that," Shanahan said. With Kittle having been listed as a limited participant Tuesday after returning from the active/PUP list a little over two weeks ago, Shanahan's comments suggest San Francisco is preparing to manage the tight end's Week 1 snaps. Kittle figures to be featured on third downs and in the scoring area if his playing time is limited, and Jake Tonges could see elevated snaps as the Niners' TE2.
-- **NEW — Drake Maye** — Drake Maye Opens the Season in Must-Start Territory Despite Tough Matchup (2026-09-09T01:13:07Z)
+- **NEW — Hunter Henry** — Hunter Henry Belongs on the Bench for Week 1 (2026-09-09T01:34:23Z)
+  - Source: https://www.rotoballer.com/player-news/hunter-henry-belongs-on-the-bench-for-week-1/1926446
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Soars Up the Rankings for Week 1 (2026-09-09T01:23:07Z)
+  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-soars-up-the-rankings-for-week-1/1926442
+- **Drake Maye** — Drake Maye Opens the Season in Must-Start Territory Despite Tough Matchup (2026-09-09T01:13:07Z)
   - Source: https://www.rotoballer.com/player-news/drake-maye-opens-the-season-in-must-start-territory-despite-tough-matchup/1926438
-- **NEW — C.J. Stroud** — C.J. Stroud an Intriguing Streamer in Potential Week 1 Shootout (2026-09-09T01:07:06Z)
+- **C.J. Stroud** — C.J. Stroud an Intriguing Streamer in Potential Week 1 Shootout (2026-09-09T01:07:06Z)
   - Source: https://www.rotoballer.com/player-news/c-j-stroud-an-intriguing-streamer-in-potential-week-1-shootout/1926436
 - **Jacoby Brissett** — Jacoby Brissett a Viable Streamer in Deeper Leagues (2026-09-09T00:54:19Z)
   - Source: https://www.rotoballer.com/player-news/jacoby-brissett-a-viable-streamer-in-deeper-leagues/1926432
@@ -215,7 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-is-a-potential-waiver-wire-pickup/1925808
 - **Caleb Douglas** — Caleb Douglas Brings a High Ceiling from the Waiver Wire (2026-09-08T10:15:06Z)
   - Source: https://www.rotoballer.com/player-news/caleb-douglas-brings-a-high-ceiling-from-the-waiver-wire/1925794
-- **Najee Harris** — Najee Harris Could Earn a Role in New York (2026-09-08T09:59:05Z)
-  - Source: https://www.rotoballer.com/player-news/najee-harris-could-earn-a-role-in-new-york/1925771
-- **Malik Nabers** — Malik Nabers Should Be "Good to Go" (2026-09-08T09:44:05Z)
-  - Source: https://www.rotoballer.com/player-news/malik-nabers-should-be-good-to-go/1925749

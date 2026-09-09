@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-09T05:29:59Z",
+  "last_checked_at": "2026-09-09T05:44:49Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|11564|rotoballer|220407|1788916387000",
-    "nfl|9758|rotoballer|220406|1788916026000"
+    "nfl|3214|rotoballer|220410|1788917663000",
+    "nfl|7611|rotoballer|220408|1788916987000"
   ],
   "schema_version": 1,
   "source": {
@@ -33,6 +33,46 @@
       "story_id": "nfl|4217|rotowire|636457|1788922162000",
       "title": "George Kittle - Could see limited Week 1 role",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots tight end Hunter Henry is worth rostering in fantasy football, but managers should leave him on the bench in most leagues for Week 1 against the Seattle Seahawks. Henry had a mediocre stat line against the Seahawks in the Super Bowl seven months ago, catching three of his five targets for 31 yards. That's not bad production by any means, but it also wouldn't be good enough to get him on the fantasy radar as a top tight end. Additionally, managers should wait to see if A.J. Brown eats into his workload at all during the season opener. Brown is a bigger-bodied receiver, offering physicality in coverage and around the goal line. That's similar to what Henry did last year, so we'll see just how much the prized offseason acquisition's presence impacts a player like Henry. For now, the veteran tight end ranks #17 in RotoBaller's latest fantasy football rankings for Week 1.",
+      "metadata": {
+        "description": "New England Patriots tight end Hunter Henry is worth rostering in fantasy football, but managers should leave him on the bench in most leagues for Week 1 against the Seattle Seahawks. Henry had a mediocre stat line against the Seahawks in the Super Bowl seven months ago, catching three of his five targets for 31 yards. That's not bad production by any means, but it also wouldn't be good enough to get him on the fantasy radar as a top tight end. Additionally, managers should wait to see if A.J. Brown eats into his workload at all during the season opener. Brown is a bigger-bodied receiver, offering physicality in coverage and around the goal line. That's similar to what Henry did last year, so we'll see just how much the prized offseason acquisition's presence impacts a player like Henry. For now, the veteran tight end ranks #17 in RotoBaller's latest fantasy football rankings for Week 1.",
+        "title": "Hunter Henry Belongs on the Bench for Week 1",
+        "topic_id": "1403287927668097024",
+        "url": "https://www.rotoballer.com/player-news/hunter-henry-belongs-on-the-bench-for-week-1/1926446"
+      },
+      "nfl_team": "NE",
+      "player_id": "3214",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "published": 1788917663000,
+      "source": "rotoballer",
+      "source_key": "220410",
+      "story_id": "nfl|3214|rotoballer|220410|1788917663000",
+      "title": "Hunter Henry Belongs on the Bench for Week 1",
+      "url": "https://www.rotoballer.com/player-news/hunter-henry-belongs-on-the-bench-for-week-1/1926446"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots running back Rhamondre Stevenson has emerged as a very strong RB2 option in fantasy football for Week 1 against the Seattle Seahawks. Entering fantasy drafts this summer, there were plenty of debates about the Patriots' backfield dynamic. We still don't know exactly how this backfield will look when TreVeyon Henderson (ankle) is healthy, but we don't have to worry about that for at least another week. Henderson has been ruled out for Wednesday's season opener, leaving Stevenson in line to lead the backfield. Not only will Stevenson jump to No. 1 on the depth chart, but he'll presumably take on an every-down role. The de facto No. 2 running back, Corey Kiner, has just 14 career touches across four games, so it's unlikely that he'll carve out a large workload against the reigning champs. That leaves Stevenson in line for at least 15-20 touches this week. Interestingly, Stevenson was one of the few offensive players who impressed in the Pats' ugly Super Bowl loss against the Seahawks. On the big stage, he rushed for 23 yards, added five catches for 40 receiving yards, and scored a touchdown. If he can boost his rushing stats while continuing to produce as a receiver and around the goal line, he'll have no trouble finishing as an RB2. The Seahawks have a strong defense, but Stevenson showed that he could overcome this tricky matchup seven months ago, and he can do it again on Wednesday night. As it stands, he's the RB23 in RotoBaller's Week 1 fantasy football rankings. He should be started in all leagues with 10+ teams.",
+      "metadata": {
+        "description": "New England Patriots running back Rhamondre Stevenson has emerged as a very strong RB2 option in fantasy football for Week 1 against the Seattle Seahawks. Entering fantasy drafts this summer, there were plenty of debates about the Patriots' backfield dynamic. We still don't know exactly how this backfield will look when TreVeyon Henderson (ankle) is healthy, but we don't have to worry about that for at least another week. Henderson has been ruled out for Wednesday's season opener, leaving Stevenson in line to lead the backfield. Not only will Stevenson jump to No. 1 on the depth chart, but he'll presumably take on an every-down role. The de facto No. 2 running back, Corey Kiner, has just 14 career touches across four games, so it's unlikely that he'll carve out a large workload against the reigning champs. That leaves Stevenson in line for at least 15-20 touches this week. Interestingly, Stevenson was one of the few offensive players who impressed in the Pats' ugly Super Bowl loss against the Seahawks. On the big stage, he rushed for 23 yards, added five catches for 40 receiving yards, and scored a touchdown. If he can boost his rushing stats while continuing to produce as a receiver and around the goal line, he'll have no trouble finishing as an RB2. The Seahawks have a strong defense, but Stevenson showed that he could overcome this tricky matchup seven months ago, and he can do it again on Wednesday night. As it stands, he's the RB23 in RotoBaller's Week 1 fantasy football rankings. He should be started in all leagues with 10+ teams.",
+        "title": "Rhamondre Stevenson Soars Up the Rankings for Week 1",
+        "topic_id": "1403285410796298240",
+        "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-soars-up-the-rankings-for-week-1/1926442"
+      },
+      "nfl_team": "NE",
+      "player_id": "7611",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "published": 1788916987000,
+      "source": "rotoballer",
+      "source_key": "220408",
+      "story_id": "nfl|7611|rotoballer|220408|1788916987000",
+      "title": "Rhamondre Stevenson Soars Up the Rankings for Week 1",
+      "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-soars-up-the-rankings-for-week-1/1926442"
     },
     {
       "analysis": null,
