@@ -2,19 +2,38 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2326**
-- Newly captured: **5**
+- Stored stories: **2333**
+- Newly captured: **7**
 
 ## Latest news
 
-- **NEW — Sam LaPorta** — Sam LaPorta - Not listed on injury report (2026-09-09T20:08:50Z)
+- **NEW — Zachariah Branch** — Zachariah Branch - Limited with hamstring injury (2026-09-09T20:22:50Z)
+  - It's a new injury for the rookie wideout, but a limited start to the week gives Branch a chance to suit up Sunday against the Steelers. He's competing with the likes of Olamide Zaccheaus and Jahan Dotson for offensive snaps behind Drake London.
+- **NEW — Michael Penix** — Michael Penix Jr. (knee) practices in full Wednesday (2026-09-09T20:20:48.060000Z)
+  - Penix has already been ruled out for Week 1 as he continues to recover from a knee injury of some kind. He was able to log a full practice session on Wednesday, however, which indicates that he is nearly healthy enough to make his return to the field. Either way, it looks like Tua Tagovailoa will remain Atlanta's starting quarterback for the foreseeable future.
+  - Source: https://www.fantasypros.com/nfl/news/606746/michael-penix-jr-knee-practices-full-wednesday.php
+- **NEW — Zachariah Branch** — Zachariah Branch (hamstring) limited Wednesday (2026-09-09T20:20:48.048000Z)
+  - The rookie was limited at Atlanta's practice on Wednesday due to a minor hamstring injury that he's dealing with. It remains to be seen whether or not it will affect his availability for Week 1, but either way he isn't expected to be fantasy relevant for the time being.
+  - Source: https://www.fantasypros.com/nfl/news/606747/zachariah-branch-hamstring-limited-wednesday.php
+- **NEW — Rome Odunze** — Rome Odunze (calf) limited at practice Wednesday (2026-09-09T20:20:48.029000Z)
+  - Odunze is considered day-to-day due to a calf injury that he's dealing with. He was able to practice in a limited fashion on Wednesday, and it looks like his availability for Week 1 remains up in the air at this point. Look for Luther Burden III and Colston Loveland to see a lot of work if he's ruled out for the season opener, with Zavion Thomas likely to see more work as well.
+  - Source: https://www.fantasypros.com/nfl/news/606748/rome-odunze-calf-limited-practice-wednesday.php
+- **NEW — Luther Burden** — Luther Burden III (groin) good to go for Week 1 (2026-09-09T20:20:47.997000Z)
+  - Burden was dealing with a groin injury earlier in the offseason, but he is fully healthy now and carries no injury designation ahead of Sunday's season opener. He should play without any restrictions and will be primed for a huge Week 1 if the Bears are without Rome Odunze (calf) for their matchup against the Panthers.
+  - Source: https://www.fantasypros.com/nfl/news/606750/luther-burden-iii-groin-good-to-go-week-1.php
+- **NEW — Sam LaPorta** — Sam LaPorta (hip) off injury report for Sunday (2026-09-09T20:20:47.981000Z)
+  - LaPorta is now off of the injury report after dealing with a hip injury for the latter part of the preseason. He should be a full go for Week 1 and will remain a startable fantasy option in this matchup and beyond.
+  - Source: https://www.fantasypros.com/nfl/news/606751/sam-laporta-hip-off-injury-report-sunday.php
+- **NEW — Breece Hall** — Breece Hall - Returns to full practice (2026-09-09T20:19:26Z)
+  - The star running back was a full-go to begin the practice week as Sunday's season opener looms. Hall suffered a groin injury late in camp but has been making good progress to the point where it's been expected that he would be ready for Week 1. A full practice Wednesday further affirms that expectation. Look for Hall to lead the Jets' backfield to begin the season.
+- **Sam LaPorta** — Sam LaPorta - Not listed on injury report (2026-09-09T20:08:50Z)
   - LaPorta missed the Lions' final eight games last season with a back injury and then dealt with a hip issue this summer. He returned to practice in late August and is ready to go for Sunday's season opener against the Saints. LaPorta is expected to compete with Jameson Williams for targets behind alpha WR1 Amon-Ra St. Brown this season, and the tight end will likely be a big a presence in the red zone.
-- **NEW — Brock Bowers** — Brock Bowers (knee) to miss 'a game or two' (2026-09-09T20:05:48.589000Z)
+- **Brock Bowers** — Brock Bowers (knee) to miss 'a game or two' (2026-09-09T20:05:48.589000Z)
   - Bowers reportedly got 'banged up' during training camp last week, and the team made the decision to have him undergo a minor procedure to trim his meniscus. This is especially concerning considering that he missed much of last year due to a nagging knee injury, and the team already expects him to be sidelined for at least a game or two while he recovers from this one. This is an alarming situation that fantasy managers should keep close tabs on, as this injury could linger if there are any setbacks in his recovery. Michael Mayer will step in as the team's top tight end in his absence, with Tre Tucker and Jalen Nailor both also likely to see an increase in opportunities in the star tight end's absence.
   - Source: https://www.fantasypros.com/nfl/news/606745/brock-bowers-knee-to-miss-a-game-or-two.php
-- **NEW — Brock Bowers** — Brock Bowers - Undergoes meniscus trim, expected miss 1-2 games (2026-09-09T20:04:45Z)
+- **Brock Bowers** — Brock Bowers - Undergoes meniscus trim, expected miss 1-2 games (2026-09-09T20:04:45Z)
   - This is huge news just before the season gets underway as the top tight end in the league is now expected to miss regular season time. Per Schefter, Bowers suffered a minor knee injury in camp that was diagnosed last week. He underwent a meniscus trim, which will speed up his time to return to the field rather than a repair. Michael Mayer projects to see a usage boost for however long Bowers is sidelined.
-- **NEW — Brock Bowers** — Brock Bowers - Not spotted at Wednesday's practice (2026-09-09T19:57:45Z)
+- **Brock Bowers** — Brock Bowers - Not spotted at Wednesday's practice (2026-09-09T19:57:45Z)
   - Bowers remained healthy throughout training camp and the preseason after a lingering PCL injury and bone bruise in his knee sidelined him for five games in 2025, but he could be dealing with a new health concern leading up to the Raiders' Week 1 matchup with the Dolphins. The Raiders will release their first injury report of the season later Wednesday, when an explanation behind Bowers' absence will be provided.
 - **Khalil Shakir** — Khalil Shakir (undisclosed) seen practicing Wednesday (2026-09-09T19:50:50.613000Z)
   - Shakir's availability for Week 1 is currently up in the air due to an undisclosed injury that he's dealing with. He was spotted at practice on Wednesday, however, which bodes well for his availability for the season opener. It remains unclear if he was a limited or full participant.
@@ -103,7 +122,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
 - **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
-- **NEW — Devaughn Vele** — Devaughn Vele Could Grab the No. 2 Job Early (2026-09-09T16:08:10Z)
+- **Devaughn Vele** — Devaughn Vele Could Grab the No. 2 Job Early (2026-09-09T16:08:10Z)
   - Source: https://www.rotoballer.com/player-news/devaughn-vele-could-grab-the-no-2-job-early/1927038
 - **Malik Washington** — Malik Washington Gets His Shot in Miami's Starting Lineup (2026-09-09T15:45:07Z)
   - Source: https://www.rotoballer.com/player-news/malik-washington-gets-his-shot-in-miamis-starting-lineup/1927018
@@ -212,18 +231,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Stribling was slowed by a shoulder injury for a couple weeks, but it apparently is no longer an issue, as he did not draw a mention on the first injury report the 49ers put out in advance of Week 1. Stribling is listed as a reserve receiver behind veterans Mike Evans and Deebo Samuel on San Francisco's unofficial depth chart, so while it appears he will debut against the Rams in Australia it's unclear exactly what role he will fill.
 - **Baker Mayfield** — Baker Mayfield Strong Option off the Waiver Wire for Week 1 (2026-09-08T23:01:16Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-strong-option-off-the-waiver-wire-for-week-1/1926417
-- **Mike Evans** — Mike Evans - Removed from injured list (2026-09-08T22:59:21Z)
-  - Evans has been slowed by injuries since early August, but he apparently is back at 100 percent in advance of Week 1. Barring any setbacks, he seems set to fill a starting wide receiver spot when the 49ers kick off their 2026 campaign against the Rams in Australia.
-- **George Kittle** — George Kittle - Listed as limited participant (2026-09-08T22:54:09Z)
-  - Kittle has been practicing regularly since being activated from the active/PUP list a little over two weeks ago, and although he seemingly did not take part in every drill Tuesday, he was able to get at least some work in at San Francisco's first official practice session of the week. He could wind up a full participant before kickoff, and even still the door remains open for him to suit up for Week 1.
-- **Jacob Saylors** — Jacob Saylors Providing Waiver Wire Value as Handcuff to Gibbs (2026-09-08T22:51:06Z)
-  - Source: https://www.rotoballer.com/player-news/jacob-saylors-providing-waiver-wire-value-as-handcuff-to-gibbs/1926411
-- **Jaylin Noel** — Jaylin Noel Gaining Value With Injuries to the Texans Receiving Room (2026-09-08T22:40:07Z)
-  - Source: https://www.rotoballer.com/player-news/jaylin-noel-gaining-value-with-injuries-to-the-texans-receiving-room/1926407
-- **Christian McCaffrey** — Christian McCaffrey - Not listed on injury report (2026-09-08T22:39:55Z)
-  - McCaffrey's status has been a hot topic for nearly a month, particularly after it was reported in mid-August that he was dealing with some sort of "tightness." However, McCaffrey himself said in late August that he always planned to take it easy during training camp, and San Francisco's first injury report of the year confirms he is back at 100 percent. As such, it seems likely he will be able to fill his regular role when the 49ers kick off their season against the Rams in Australia.
-- **Puka Nacua** — Puka Nacua not listed on Rams first injury report (2026-09-08T22:35:22.707000Z)
-  - Puka has been dealing with a psoas injury for a little over a week, but his absence on the injury report is a big indication that barring a setback, he will play on Thursday. The star receiver should be a full go and lock into fantasy lineups.
-  - Source: https://www.fantasypros.com/nfl/news/606631/puka-nacua-not-listed-on-rams-first-injury-report.php
-- **Jordan Love** — Jordan Love a Must-Add off the Waiver Wire Heading into Week 1 (2026-09-08T22:24:06Z)
-  - Source: https://www.rotoballer.com/player-news/jordan-love-a-must-add-off-the-waiver-wire-heading-into-week-1/1926396

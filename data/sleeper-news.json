@@ -1,13 +1,15 @@
 {
-  "last_checked_at": "2026-09-09T20:13:52Z",
+  "last_checked_at": "2026-09-09T20:30:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|10859|rotowire|636485|1788984530000",
-    "nfl|11604|fantasy_pros|606745|1788984348589",
-    "nfl|11604|rotowire|636482|1788983865000",
-    "nfl|11604|rotowire|636483|1788984285000",
-    "nfl|11834|rotoballer|220461|1788970090000"
+    "nfl|10859|fantasy_pros|606751|1788985247981",
+    "nfl|11559|fantasy_pros|606746|1788985248060",
+    "nfl|11620|fantasy_pros|606748|1788985248029",
+    "nfl|12519|fantasy_pros|606750|1788985247997",
+    "nfl|13320|fantasy_pros|606747|1788985248048",
+    "nfl|13320|rotowire|636487|1788985370000",
+    "nfl|8155|rotowire|636486|1788985166000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +19,151 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "It's a new injury for the rookie wideout, but a limited start to the week gives Branch a chance to suit up Sunday against the Steelers. He's competing with the likes of Olamide Zaccheaus and Jahan Dotson for offensive snaps behind Drake London.",
+      "description": "Branch (hamstring) was limited in Wednesday's practice, Daniel Flick of The Atlanta Journal-Constitution reports.",
+      "metadata": {
+        "analysis": "It's a new injury for the rookie wideout, but a limited start to the week gives Branch a chance to suit up Sunday against the Steelers. He's competing with the likes of Olamide Zaccheaus and Jahan Dotson for offensive snaps behind Drake London.",
+        "description": "Branch (hamstring) was limited in Wednesday's practice, Daniel Flick of The Atlanta Journal-Constitution reports.",
+        "title": "Zachariah Branch - Limited with hamstring injury",
+        "topic_id": "1403510743076192256"
+      },
+      "nfl_team": "ATL",
+      "player_id": "13320",
+      "player_name": "Zachariah Branch",
+      "position": "WR",
+      "published": 1788985370000,
+      "source": "rotowire",
+      "source_key": "636487",
+      "story_id": "nfl|13320|rotowire|636487|1788985370000",
+      "title": "Zachariah Branch - Limited with hamstring injury",
+      "url": null
+    },
+    {
+      "analysis": "Penix has already been ruled out for Week 1 as he continues to recover from a knee injury of some kind. He was able to log a full practice session on Wednesday, however, which indicates that he is nearly healthy enough to make his return to the field. Either way, it looks like Tua Tagovailoa will remain Atlanta's starting quarterback for the foreseeable future.",
+      "description": "Michael Penix Jr. (knee) practiced in a full capacity on Wednesday.",
+      "metadata": {
+        "analysis": "Penix has already been ruled out for Week 1 as he continues to recover from a knee injury of some kind. He was able to log a full practice session on Wednesday, however, which indicates that he is nearly healthy enough to make his return to the field. Either way, it looks like Tua Tagovailoa will remain Atlanta's starting quarterback for the foreseeable future.",
+        "description": "Michael Penix Jr. (knee) practiced in a full capacity on Wednesday.",
+        "title": "Michael Penix Jr. (knee) practices in full Wednesday",
+        "topic_id": "1403509491646959616",
+        "url": "https://www.fantasypros.com/nfl/news/606746/michael-penix-jr-knee-practices-full-wednesday.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "11559",
+      "player_name": "Michael Penix",
+      "position": "QB",
+      "published": 1788985248060,
+      "source": "fantasy_pros",
+      "source_key": "606746",
+      "story_id": "nfl|11559|fantasy_pros|606746|1788985248060",
+      "title": "Michael Penix Jr. (knee) practices in full Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606746/michael-penix-jr-knee-practices-full-wednesday.php"
+    },
+    {
+      "analysis": "The rookie was limited at Atlanta's practice on Wednesday due to a minor hamstring injury that he's dealing with. It remains to be seen whether or not it will affect his availability for Week 1, but either way he isn't expected to be fantasy relevant for the time being.",
+      "description": "Zachariah Branch (hamstring) was limited at practice on Wednesday.",
+      "metadata": {
+        "analysis": "The rookie was limited at Atlanta's practice on Wednesday due to a minor hamstring injury that he's dealing with. It remains to be seen whether or not it will affect his availability for Week 1, but either way he isn't expected to be fantasy relevant for the time being.",
+        "description": "Zachariah Branch (hamstring) was limited at practice on Wednesday.",
+        "title": "Zachariah Branch (hamstring) limited Wednesday",
+        "topic_id": "1403509491567267840",
+        "url": "https://www.fantasypros.com/nfl/news/606747/zachariah-branch-hamstring-limited-wednesday.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "13320",
+      "player_name": "Zachariah Branch",
+      "position": "WR",
+      "published": 1788985248048,
+      "source": "fantasy_pros",
+      "source_key": "606747",
+      "story_id": "nfl|13320|fantasy_pros|606747|1788985248048",
+      "title": "Zachariah Branch (hamstring) limited Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606747/zachariah-branch-hamstring-limited-wednesday.php"
+    },
+    {
+      "analysis": "Odunze is considered day-to-day due to a calf injury that he's dealing with. He was able to practice in a limited fashion on Wednesday, and it looks like his availability for Week 1 remains up in the air at this point. Look for Luther Burden III and Colston Loveland to see a lot of work if he's ruled out for the season opener, with Zavion Thomas likely to see more work as well.",
+      "description": "Rome Odunze (calf) was limited at Chicago's practice on Wednesday.",
+      "metadata": {
+        "analysis": "Odunze is considered day-to-day due to a calf injury that he's dealing with. He was able to practice in a limited fashion on Wednesday, and it looks like his availability for Week 1 remains up in the air at this point. Look for Luther Burden III and Colston Loveland to see a lot of work if he's ruled out for the season opener, with Zavion Thomas likely to see more work as well.",
+        "description": "Rome Odunze (calf) was limited at Chicago's practice on Wednesday.",
+        "title": "Rome Odunze (calf) limited at practice Wednesday",
+        "topic_id": "1403509491504353280",
+        "url": "https://www.fantasypros.com/nfl/news/606748/rome-odunze-calf-limited-practice-wednesday.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1788985248029,
+      "source": "fantasy_pros",
+      "source_key": "606748",
+      "story_id": "nfl|11620|fantasy_pros|606748|1788985248029",
+      "title": "Rome Odunze (calf) limited at practice Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606748/rome-odunze-calf-limited-practice-wednesday.php"
+    },
+    {
+      "analysis": "Burden was dealing with a groin injury earlier in the offseason, but he is fully healthy now and carries no injury designation ahead of Sunday's season opener. He should play without any restrictions and will be primed for a huge Week 1 if the Bears are without Rome Odunze (calf) for their matchup against the Panthers.",
+      "description": "Luther Burden III (groin) is off of the injury report and good to go for Week 1's matchup against the Carolina Panthers.",
+      "metadata": {
+        "analysis": "Burden was dealing with a groin injury earlier in the offseason, but he is fully healthy now and carries no injury designation ahead of Sunday's season opener. He should play without any restrictions and will be primed for a huge Week 1 if the Bears are without Rome Odunze (calf) for their matchup against the Panthers.",
+        "description": "Luther Burden III (groin) is off of the injury report and good to go for Week 1's matchup against the Carolina Panthers.",
+        "title": "Luther Burden III (groin) good to go for Week 1",
+        "topic_id": "1403509491374329856",
+        "url": "https://www.fantasypros.com/nfl/news/606750/luther-burden-iii-groin-good-to-go-week-1.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12519",
+      "player_name": "Luther Burden",
+      "position": "WR",
+      "published": 1788985247997,
+      "source": "fantasy_pros",
+      "source_key": "606750",
+      "story_id": "nfl|12519|fantasy_pros|606750|1788985247997",
+      "title": "Luther Burden III (groin) good to go for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606750/luther-burden-iii-groin-good-to-go-week-1.php"
+    },
+    {
+      "analysis": "LaPorta is now off of the injury report after dealing with a hip injury for the latter part of the preseason. He should be a full go for Week 1 and will remain a startable fantasy option in this matchup and beyond.",
+      "description": "Sam LaPorta (hip) is off of the injury report ahead of Sunday's game against the New Orleans Saints.",
+      "metadata": {
+        "analysis": "LaPorta is now off of the injury report after dealing with a hip injury for the latter part of the preseason. He should be a full go for Week 1 and will remain a startable fantasy option in this matchup and beyond.",
+        "description": "Sam LaPorta (hip) is off of the injury report ahead of Sunday's game against the New Orleans Saints.",
+        "title": "Sam LaPorta (hip) off injury report for Sunday",
+        "topic_id": "1403509491298832384",
+        "url": "https://www.fantasypros.com/nfl/news/606751/sam-laporta-hip-off-injury-report-sunday.php"
+      },
+      "nfl_team": "DET",
+      "player_id": "10859",
+      "player_name": "Sam LaPorta",
+      "position": "TE",
+      "published": 1788985247981,
+      "source": "fantasy_pros",
+      "source_key": "606751",
+      "story_id": "nfl|10859|fantasy_pros|606751|1788985247981",
+      "title": "Sam LaPorta (hip) off injury report for Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/606751/sam-laporta-hip-off-injury-report-sunday.php"
+    },
+    {
+      "analysis": "The star running back was a full-go to begin the practice week as Sunday's season opener looms. Hall suffered a groin injury late in camp but has been making good progress to the point where it's been expected that he would be ready for Week 1. A full practice Wednesday further affirms that expectation. Look for Hall to lead the Jets' backfield to begin the season.",
+      "description": "Hall (groin) was a full participant in Wednesday's practice, Rich Cimini of ESPN reports.",
+      "metadata": {
+        "analysis": "The star running back was a full-go to begin the practice week as Sunday's season opener looms. Hall suffered a groin injury late in camp but has been making good progress to the point where it's been expected that he would be ready for Week 1. A full practice Wednesday further affirms that expectation. Look for Hall to lead the Jets' backfield to begin the season.",
+        "description": "Hall (groin) was a full participant in Wednesday's practice, Rich Cimini of ESPN reports.",
+        "title": "Breece Hall - Returns to full practice",
+        "topic_id": "1403509485384761344"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8155",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "published": 1788985166000,
+      "source": "rotowire",
+      "source_key": "636486",
+      "story_id": "nfl|8155|rotowire|636486|1788985166000",
+      "title": "Breece Hall - Returns to full practice",
+      "url": null
+    },
     {
       "analysis": "LaPorta missed the Lions' final eight games last season with a back injury and then dealt with a hip issue this summer. He returned to practice in late August and is ready to go for Sunday's season opener against the Saints. LaPorta is expected to compete with Jameson Williams for targets behind alpha WR1 Amon-Ra St. Brown this season, and the tight end will likely be a big a presence in the red zone.",
       "description": "LaPorta (hip) is not listed on the Lions' Week 1 injury report Wednesday, Tim Twentyman of the Lions' official site reports.",
