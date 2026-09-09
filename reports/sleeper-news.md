@@ -2,19 +2,19 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2285**
-- Newly captured: **6**
+- Stored stories: **2286**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Rachaad White** — Rachaad White (hamstring) set to practice Wednesday (2026-09-09T17:20:35.832000Z)
+- **Rachaad White** — Rachaad White (hamstring) set to practice Wednesday (2026-09-09T17:20:35.832000Z)
   - White's status for Week 1 is still unclear right now thanks to a hamstring injury that he's still dealing with. He is taking part in Wednesday's practice, however, which is a step in the right direction for him. Fantasy managers should pay attention to updates about his health throughout the week, as Jacory Croskey-Merritt will be a significantly better fantasy option if the veteran is sidelined this week.
   - Source: https://www.fantasypros.com/nfl/news/606734/rachaad-white-hamstring-set-to-practice-wednesday.php
-- **NEW — Zay Flowers** — Zay Flowers - Works off to side Wednesday (2026-09-09T17:15:15Z)
+- **Zay Flowers** — Zay Flowers - Works off to side Wednesday (2026-09-09T17:15:15Z)
   - After appearing to participate fully Tuesday, Flowers' side work Wednesday suggests Baltimore could be managing his reps heading into Week 1. His official participation level on the Ravens' injury report will provide the clearest read on his availability for Sunday's game at Indianapolis, but there's been no indication Flowers is in any danger of missing the season opener.
-- **NEW — Tee Higgins** — Tee Higgins - On track for Week 1 (2026-09-09T17:14:00Z)
+- **Tee Higgins** — Tee Higgins - On track for Week 1 (2026-09-09T17:14:00Z)
   - Higgins has been dealing with a bruised heel, but there's been nothing to suggest he's in any real danger of missing Week 1. As is the case most weeks, Higgins is a fantasy WR2 with WR1 upside in the Bengals' elite passing offense.
-- **NEW — Ja'Marr Chase** — Ja'Marr Chase - Trending toward playing Week 1 (2026-09-09T17:11:58Z)
+- **Ja'Marr Chase** — Ja'Marr Chase - Trending toward playing Week 1 (2026-09-09T17:11:58Z)
   - Chase limped off the field late last month with a left knee injury, but there's been nothing to suggest he's in any real danger of missing the season opener versus Tampa Bay. In a potential shootout with the Bucs, Chase is looking like the premier wide receiver play on the board for Week 1 in fantasy.
 - **Ja'Marr Chase** — Ja'Marr Chase (knee) on track to play Sunday (2026-09-09T17:10:35.742000Z)
   - Chase has been recovering from a minor knee injury for several weeks at this point, but it is not considered a serious issue and he is on track to play through it against the Buccaneers on Sunday. Assuming he's active for the season opener, fantasy managers should have no hesitations about starting him and viewing him as a top-tier fantasy asset moving forward.
@@ -48,9 +48,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
 - **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
-- **NEW — J.K. Dobbins** — J.K. Dobbins Listed as RB1 on Broncos' Depth Chart (2026-09-09T13:13:21Z)
+- **NEW — Deshaun Watson** — Todd Monken Confident in Deshaun Watson's Downfield Passing Ability (2026-09-09T13:29:05Z)
+  - Source: https://www.rotoballer.com/player-news/todd-monken-confident-in-deshaun-watsons-downfield-passing-ability/1926871
+- **J.K. Dobbins** — J.K. Dobbins Listed as RB1 on Broncos' Depth Chart (2026-09-09T13:13:21Z)
   - Source: https://www.rotoballer.com/player-news/j-k-dobbins-listed-as-rb1-on-broncos-depth-chart/1926858
-- **NEW — George Kittle** — 49ers to Monitor Playing Time for George Kittle in Week 1 (2026-09-09T13:07:18Z)
+- **George Kittle** — 49ers to Monitor Playing Time for George Kittle in Week 1 (2026-09-09T13:07:18Z)
   - Source: https://www.rotoballer.com/player-news/49ers-to-monitor-playing-time-for-george-kittle-in-week-1/1926854
 - **Chris Bell** — Chris Bell to Start Week 1 Without a Pitch Count (2026-09-09T13:00:17Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-to-start-week-1-without-a-pitch-count/1926847
@@ -224,6 +226,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Patrick Mahomes** — Patrick Mahomes II (knee) to start Week 1 barring setback (2026-09-08T17:15:52.286000Z)
   - Mahomes has officially worked his way back from a torn ACL and LCL suffered in Week 15 last year. He has said he may not run as much coming off the injury, at least early in the season. 
   - Source: https://www.fantasypros.com/nfl/news/606562/patrick-mahomes-ii-knee-to-start-week-1-barring-setback.php
-- **Rome Odunze** — Rome Odunze (leg) day-to-day (2026-09-08T17:15:52.256000Z)
-  - Odunze will remain absent from practice on Tuesday. He remains hopeful to play on Sunday against the Panthers. 
-  - Source: https://www.fantasypros.com/nfl/news/606563/rome-odunze-leg-day-to-day.php

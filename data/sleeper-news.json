@@ -1,14 +1,9 @@
 {
-  "last_checked_at": "2026-09-09T17:28:05Z",
+  "last_checked_at": "2026-09-09T17:42:20Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|4217|rotoballer|220437|1788959238000",
-    "nfl|6801|rotowire|636466|1788974040000",
-    "nfl|6806|rotoballer|220438|1788959601000",
-    "nfl|7564|rotowire|636465|1788973918000",
-    "nfl|8136|fantasy_pros|606734|1788974435832",
-    "nfl|9997|rotowire|636467|1788974115000"
+    "nfl|4017|rotoballer|220440|1788960545000"
   ],
   "schema_version": 1,
   "source": {
@@ -346,6 +341,26 @@
       "story_id": "nfl|12514|rotowire|636460|1788970341000",
       "title": "Emeka Egbuka - Looks to be practicing fully Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns quarterback Deshaun Watson, whose tenure with the Browns has been defined by suspension and injury-related layoffs, has seen his accuracy downfield decline in recent years, according to Daniel Oyefusi of ESPN. Watson ranked third among 34 qualifying QBs in completion rate (58.8%) on downfield passes in 2018, according to Next Gen Stats. He led the league in passing yards in 2020. But in 2023, Watson completed only 39.3% of his downfield attempts, which would have ranked as the worst in the league if he qualified. In 2024, he completed a career-low 37.9% of his downfield attempts before tearing his Achilles, sidelining him for the final 10 games. Additionally, Watson has been less aggressive in pushing the ball down the field, which was impacted by a shoulder injury in 2023 that eventually required surgery. Although Watson was fully healthy this summer in training camp, he was inconsistent and continued to struggle to push the ball downfield in the preseason. Still, he won the starting QB job over Shedeur Sanders, and head coach Todd Monken has confidence that Watson will be able to find explosive plays down the field in his offense in 2026. \"I'm confident in Deshaun and our ability to push the ball down the field, otherwise we wouldn't be starting him, Monken said.",
+      "metadata": {
+        "description": "Cleveland Browns quarterback Deshaun Watson, whose tenure with the Browns has been defined by suspension and injury-related layoffs, has seen his accuracy downfield decline in recent years, according to Daniel Oyefusi of ESPN. Watson ranked third among 34 qualifying QBs in completion rate (58.8%) on downfield passes in 2018, according to Next Gen Stats. He led the league in passing yards in 2020. But in 2023, Watson completed only 39.3% of his downfield attempts, which would have ranked as the worst in the league if he qualified. In 2024, he completed a career-low 37.9% of his downfield attempts before tearing his Achilles, sidelining him for the final 10 games. Additionally, Watson has been less aggressive in pushing the ball down the field, which was impacted by a shoulder injury in 2023 that eventually required surgery. Although Watson was fully healthy this summer in training camp, he was inconsistent and continued to struggle to push the ball downfield in the preseason. Still, he won the starting QB job over Shedeur Sanders, and head coach Todd Monken has confidence that Watson will be able to find explosive plays down the field in his offense in 2026. \"I'm confident in Deshaun and our ability to push the ball down the field, otherwise we wouldn't be starting him, Monken said.",
+        "title": "Todd Monken Confident in Deshaun Watson's Downfield Passing Ability",
+        "topic_id": "1403469168535154688",
+        "url": "https://www.rotoballer.com/player-news/todd-monken-confident-in-deshaun-watsons-downfield-passing-ability/1926871"
+      },
+      "nfl_team": "CLE",
+      "player_id": "4017",
+      "player_name": "Deshaun Watson",
+      "position": "QB",
+      "published": 1788960545000,
+      "source": "rotoballer",
+      "source_key": "220440",
+      "story_id": "nfl|4017|rotoballer|220440|1788960545000",
+      "title": "Todd Monken Confident in Deshaun Watson's Downfield Passing Ability",
+      "url": "https://www.rotoballer.com/player-news/todd-monken-confident-in-deshaun-watsons-downfield-passing-ability/1926871"
     },
     {
       "analysis": null,
