@@ -2,12 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2289**
-- Newly captured: **3**
+- Stored stories: **2294**
+- Newly captured: **5**
 
 ## Latest news
 
-- **NEW — Tucker Kraft** — Tucker Kraft - In full pads Wednesday (2026-09-09T17:48:17Z)
+- **NEW — Jonathon Brooks** — Jonathon Brooks - Practicing in pads Wednesday (2026-09-09T17:58:58Z)
+  - With Brooks having worked off to the side earlier in the week, his presence in uniform and pads would suggest he's trending toward being available for Sunday's season opener against the Bears. If he plays, Brooks is expected to split backfield work with Chuba Hubbard, rendering both little more than low-end RB2 fantasy options until one is able to separate from the other atop the depth chart.
+- **NEW — Ashton Jeanty** — Ashton Jeanty - Will practice Wednesday (2026-09-09T17:56:53Z)
+  - Jeanty has been sidelined since suffering a low-ankle sprain Aug. 23, but Kubiak expressed optimism last week that his star running back would be available for Week 1. Getting on the practice field Wednesday would be a strong sign that Jeanty will be able to suit up Sunday versus Miami.
+- **NEW — Malik Nabers** — Malik Nabers - Going through drills Wednesday (2026-09-09T17:51:12Z)
+  - Nabers was first in line to go through wideout drills, according to Hughes, and it appeared as if he's ready to go for Sunday night's Week 1 opener against Dallas. It's unclear if Nabers will play his full snap allotment against the Cowboys, so Nabers is looking more like a fantasy WR2 with obvious upside in what would be his first game back from a torn ACL.
+- **Tucker Kraft** — Tucker Kraft - In full pads Wednesday (2026-09-09T17:48:17Z)
   - Kraft has been in full pads at practice for weeks now and appears ready to go for Sunday's Week 1 opener against the Vikings. He's insisted he's ready and doesn't need to be on a snap count, but it will be something to watch Sunday in Kraft's first game back from a torn ACL. Even if he's somewhat limited, Kraft is a locked-in fantasy TE1.
 - **Rachaad White** — Rachaad White (hamstring) set to practice Wednesday (2026-09-09T17:20:35.832000Z)
   - White's status for Week 1 is still unclear right now thanks to a hamstring injury that he's still dealing with. He is taking part in Wednesday's practice, however, which is a step in the right direction for him. Fantasy managers should pay attention to updates about his health throughout the week, as Jacory Croskey-Merritt will be a significantly better fantasy option if the veteran is sidelined this week.
@@ -50,9 +56,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
 - **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
-- **NEW — Tyreek Hill** — Tyreek Hill Recommended to Return in October (2026-09-09T13:44:29Z)
+- **NEW — Kaleb Johnson** — Kaleb Johnson Could Play a Role in Week 1 Against Vikings (2026-09-09T13:58:23Z)
+  - Source: https://www.rotoballer.com/player-news/kaleb-johnson-could-play-a-role-in-week-1-against-vikings/1926919
+- **NEW — Zay Flowers** — Zay Flowers Working to the Side on Wednesday (2026-09-09T13:51:09Z)
+  - Source: https://www.rotoballer.com/player-news/zay-flowers-working-to-the-side-on-wednesday/1926897
+- **Tyreek Hill** — Tyreek Hill Recommended to Return in October (2026-09-09T13:44:29Z)
   - Source: https://www.rotoballer.com/player-news/tyreek-hill-recommended-to-return-in-october/1926887
-- **NEW — Josh Jacobs** — Packers in Wait-and-See Approach With Josh Jacobs (2026-09-09T13:35:10Z)
+- **Josh Jacobs** — Packers in Wait-and-See Approach With Josh Jacobs (2026-09-09T13:35:10Z)
   - Source: https://www.rotoballer.com/player-news/packers-in-wait-and-see-approach-with-josh-jacobs/1926876
 - **Deshaun Watson** — Todd Monken Confident in Deshaun Watson's Downfield Passing Ability (2026-09-09T13:29:05Z)
   - Source: https://www.rotoballer.com/player-news/todd-monken-confident-in-deshaun-watsons-downfield-passing-ability/1926871
@@ -214,13 +224,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jason-myers-a-clear-k1-in-week-1/1926208
 - **Tory Horton** — Tory Horton is Questionable for Wednesday's Game (2026-09-08T18:16:05Z)
   - Source: https://www.rotoballer.com/player-news/tory-horton-is-questionable-for-wednesdays-game/1926204
-- **MarShawn Lloyd** — MarShawn Lloyd - Set to be included in committee (2026-09-08T17:50:05Z)
-  - Though he profiles as the most enticing fantasy option of a backfield group that includes Kaleb Johnson and Chris Brooks, Lloyd doesn't look like he'll be called upon to handle a workhorse role out of the backfield amid Jacobs' absence. While Lloyd made it through training camp and the preseason unscathed and showed some dynamism as both a ball carrier and pass catcher, durability was a major concern over his first two NFL seasons; he's thus far been limited to just one career game on account of multiple soft-tissue injuries in addition to an emergency appendectomy. As such, the Packers are unlikely to ask Lloyd to shoulder heavy workloads, especially with Johnson on hand to serve as a between-the-tackles rushing complement and with Brooks available to spell him on passing downs.
-- **Breece Hall** — Breece Hall - Involved in Tuesday's practice (2026-09-08T17:42:58Z)
-  - The Jets won't release their first injury report of the season until Wednesday, but Hall's activity at Tuesday's session offers hope that he might be listed as a full participant in practice. Though Hall had been sidelined for or limited in practices over the past three weeks while nursing a minor right groin strain, the expectation is that he'll be ready to handle a lead role out of the backfield in Sunday's season opener versus the Titans.
-- **Kenyon Sadiq** — Kenyon Sadiq - Involved in positional drills (2026-09-08T17:37:23Z)
-  - The rookie first-round pick missed nearly all of training camp and the preseason after experiencing a setback in his recovery from hernia surgery, but head coach Aaron Glenn had been optimistic over the past week that Sadiq would be ready to go for the start of the regular season. Sadiq's involvement in positional drills suggests that he remains on track to play in Sunday's game at Tennessee, though the extensive time he missed during the summer means that he'll likely have to settle for a small role off the bat. Mason Taylor looks to be the leading candidate to start and lead the tight-end group in snaps Week 1.
-- **Chuba Hubbard** — Chuba Hubbard Listed as RB1 on Unofficial Depth Chart (2026-09-08T17:32:06Z)
-  - Source: https://www.rotoballer.com/player-news/chuba-hubbard-listed-as-rb1-on-unofficial-depth-chart/1926195
-- **Baker Mayfield** — Baker Mayfield, Buccaneers Reach Agreement on Three-Year Extension (2026-09-08T17:24:05Z)
-  - Source: https://www.rotoballer.com/player-news/baker-mayfield-buccaneers-reach-agreement-on-three-year-extension/1926190

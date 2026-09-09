@@ -1,11 +1,13 @@
 {
-  "last_checked_at": "2026-09-09T17:53:38Z",
+  "last_checked_at": "2026-09-09T18:07:18Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|3321|rotoballer|220442|1788961469000",
-    "nfl|5850|rotoballer|220441|1788960910000",
-    "nfl|9484|rotowire|636468|1788976097000"
+    "nfl|11583|rotowire|636471|1788976738000",
+    "nfl|11632|rotowire|636469|1788976272000",
+    "nfl|12504|rotoballer|220444|1788962303000",
+    "nfl|12527|rotowire|636470|1788976613000",
+    "nfl|9997|rotoballer|220443|1788961869000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +17,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "With Brooks having worked off to the side earlier in the week, his presence in uniform and pads would suggest he's trending toward being available for Sunday's season opener against the Bears. If he plays, Brooks is expected to split backfield work with Chuba Hubbard, rendering both little more than low-end RB2 fantasy options until one is able to separate from the other atop the depth chart.",
+      "description": "Brooks (general soreness) is in uniform and pads at Wednesday's practice, Mike Kaye of ESPN.com reports.",
+      "metadata": {
+        "analysis": "With Brooks having worked off to the side earlier in the week, his presence in uniform and pads would suggest he's trending toward being available for Sunday's season opener against the Bears. If he plays, Brooks is expected to split backfield work with Chuba Hubbard, rendering both little more than low-end RB2 fantasy options until one is able to separate from the other atop the depth chart.",
+        "description": "Brooks (general soreness) is in uniform and pads at Wednesday's practice, Mike Kaye of ESPN.com reports.",
+        "title": "Jonathon Brooks - Practicing in pads Wednesday",
+        "topic_id": "1403474204237541376"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788976738000,
+      "source": "rotowire",
+      "source_key": "636471",
+      "story_id": "nfl|11583|rotowire|636471|1788976738000",
+      "title": "Jonathon Brooks - Practicing in pads Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "Jeanty has been sidelined since suffering a low-ankle sprain Aug. 23, but Kubiak expressed optimism last week that his star running back would be available for Week 1. Getting on the practice field Wednesday would be a strong sign that Jeanty will be able to suit up Sunday versus Miami.",
+      "description": "Coach Klint Kubiak said Jeanty (ankle) will practice Wednesday, Ryan McFadden of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Jeanty has been sidelined since suffering a low-ankle sprain Aug. 23, but Kubiak expressed optimism last week that his star running back would be available for Week 1. Getting on the practice field Wednesday would be a strong sign that Jeanty will be able to suit up Sunday versus Miami.",
+        "description": "Coach Klint Kubiak said Jeanty (ankle) will practice Wednesday, Ryan McFadden of ESPN.com reports.",
+        "title": "Ashton Jeanty - Will practice Wednesday",
+        "topic_id": "1403474204241735680"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788976613000,
+      "source": "rotowire",
+      "source_key": "636470",
+      "story_id": "nfl|12527|rotowire|636470|1788976613000",
+      "title": "Ashton Jeanty - Will practice Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "Nabers was first in line to go through wideout drills, according to Hughes, and it appeared as if he's ready to go for Sunday night's Week 1 opener against Dallas. It's unclear if Nabers will play his full snap allotment against the Cowboys, so Nabers is looking more like a fantasy WR2 with obvious upside in what would be his first game back from a torn ACL.",
+      "description": "Nabers (knee) participated in drills at Wednesday's practice, Connor Hughes of SNY.tv reports.",
+      "metadata": {
+        "analysis": "Nabers was first in line to go through wideout drills, according to Hughes, and it appeared as if he's ready to go for Sunday night's Week 1 opener against Dallas. It's unclear if Nabers will play his full snap allotment against the Cowboys, so Nabers is looking more like a fantasy WR2 with obvious upside in what would be his first game back from a torn ACL.",
+        "description": "Nabers (knee) participated in drills at Wednesday's practice, Connor Hughes of SNY.tv reports.",
+        "title": "Malik Nabers - Going through drills Wednesday",
+        "topic_id": "1403472945875009536"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1788976272000,
+      "source": "rotowire",
+      "source_key": "636469",
+      "story_id": "nfl|11632|rotowire|636469|1788976272000",
+      "title": "Malik Nabers - Going through drills Wednesday",
+      "url": null
+    },
     {
       "analysis": "Kraft has been in full pads at practice for weeks now and appears ready to go for Sunday's Week 1 opener against the Vikings. He's insisted he's ready and doesn't need to be on a snap count, but it will be something to watch Sunday in Kraft's first game back from a torn ACL. Even if he's somewhat limited, Kraft is a locked-in fantasy TE1.",
       "description": "Kraft (knee) is in full pads at Wednesday's practice, Matt Schneidman of The Athletic reports.",
@@ -363,6 +425,46 @@
       "story_id": "nfl|12514|rotowire|636460|1788970341000",
       "title": "Emeka Egbuka - Looks to be practicing fully Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back Kaleb Johnson, who was acquired in a trade from the Pittsburgh Steelers during training camp to help with RB depth in light of the Josh Jacobs (personal) situation, could be a factor immediately in the Week 1 season opener this Sunday versus the division-rival Minnesota Vikings, according to Weston Hodkiewicz of the team's official website. \"Yes. He's done a nice job. It does help there was some carryover not only from when he was at Iowa with Tim Lester but also having Arthur Smith in Pittsburgh,\" head coach Matt LaFleur said when asked if Johnson could help this weekend. The 23-year-old from Iowa had a forgettable rookie year in the Steel City in 2025, carrying the ball only 28 times for 69 yards in 10 regular-season games. Now in Green Bay, Johnson has some interesting short-term fantasy value in deeper leagues with Jacobs out for Week 1 and potentially facing an early-season suspension. MarShawn Lloyd is expected to see most of the backfield work out of the gate, but he has only played in one NFL game due to injuries. We are not recommending Johnson as a starting fantasy option in Week 1, but he is worth a waiver-wire flier if you have Jacobs rostered and are looking for more RB depth. Johnson is rostered in 10% of Yahoo leagues.",
+      "metadata": {
+        "description": "Green Bay Packers running back Kaleb Johnson, who was acquired in a trade from the Pittsburgh Steelers during training camp to help with RB depth in light of the Josh Jacobs (personal) situation, could be a factor immediately in the Week 1 season opener this Sunday versus the division-rival Minnesota Vikings, according to Weston Hodkiewicz of the team's official website. \"Yes. He's done a nice job. It does help there was some carryover not only from when he was at Iowa with Tim Lester but also having Arthur Smith in Pittsburgh,\" head coach Matt LaFleur said when asked if Johnson could help this weekend. The 23-year-old from Iowa had a forgettable rookie year in the Steel City in 2025, carrying the ball only 28 times for 69 yards in 10 regular-season games. Now in Green Bay, Johnson has some interesting short-term fantasy value in deeper leagues with Jacobs out for Week 1 and potentially facing an early-season suspension. MarShawn Lloyd is expected to see most of the backfield work out of the gate, but he has only played in one NFL game due to injuries. We are not recommending Johnson as a starting fantasy option in Week 1, but he is worth a waiver-wire flier if you have Jacobs rostered and are looking for more RB depth. Johnson is rostered in 10% of Yahoo leagues.",
+        "title": "Kaleb Johnson Could Play a Role in Week 1 Against Vikings",
+        "topic_id": "1403475460628680704",
+        "url": "https://www.rotoballer.com/player-news/kaleb-johnson-could-play-a-role-in-week-1-against-vikings/1926919"
+      },
+      "nfl_team": "GB",
+      "player_id": "12504",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "published": 1788962303000,
+      "source": "rotoballer",
+      "source_key": "220444",
+      "story_id": "nfl|12504|rotoballer|220444|1788962303000",
+      "title": "Kaleb Johnson Could Play a Role in Week 1 Against Vikings",
+      "url": "https://www.rotoballer.com/player-news/kaleb-johnson-could-play-a-role-in-week-1-against-vikings/1926919"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) was working with a trainer on a side field instead of stretching with the team at the start of Wednesday's practice, according to Jamison Hensley of ESPN. Flowers was running and cutting in position drills during the media-viewing portion of practice. The 25-year-old had missed a couple of weeks of training camp practice due to a lower-body injury before returning last week and participating on Tuesday. His exact level of participation will be known later on Wednesday when the Ravens release their official practice report. Flowers could end up being limited, but the Ravens are most likely just managing the WR1's reps ahead of the Week 1 regular-season opener this Sunday, Sept. 13, on the road against the Indianapolis Colts. Flowers should be a must-start in all fantasy lineups this weekend as a low-end WR1/high-end WR2 who could flourish in 2026 in Baltimore's new offense.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) was working with a trainer on a side field instead of stretching with the team at the start of Wednesday's practice, according to Jamison Hensley of ESPN. Flowers was running and cutting in position drills during the media-viewing portion of practice. The 25-year-old had missed a couple of weeks of training camp practice due to a lower-body injury before returning last week and participating on Tuesday. His exact level of participation will be known later on Wednesday when the Ravens release their official practice report. Flowers could end up being limited, but the Ravens are most likely just managing the WR1's reps ahead of the Week 1 regular-season opener this Sunday, Sept. 13, on the road against the Indianapolis Colts. Flowers should be a must-start in all fantasy lineups this weekend as a low-end WR1/high-end WR2 who could flourish in 2026 in Baltimore's new offense.",
+        "title": "Zay Flowers Working to the Side on Wednesday",
+        "topic_id": "1403472943631122432",
+        "url": "https://www.rotoballer.com/player-news/zay-flowers-working-to-the-side-on-wednesday/1926897"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1788961869000,
+      "source": "rotoballer",
+      "source_key": "220443",
+      "story_id": "nfl|9997|rotoballer|220443|1788961869000",
+      "title": "Zay Flowers Working to the Side on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/zay-flowers-working-to-the-side-on-wednesday/1926897"
     },
     {
       "analysis": null,
