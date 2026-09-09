@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-09T15:08:48Z",
+  "last_checked_at": "2026-09-09T15:26:23Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|13345|rotoballer|220424|1788952145000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Denver Broncos running back Jonah Coleman has consistently earned the praise of coaches, teammates, and media throughout his first preseason in the NFL. The fourth-round pick out of Washington was already trending up as soon as the Broncos drafted him, and nothing has changed in the last few months. He continues to have massive upside in dynasty leagues after posting 3,496 scrimmage yards and 33 touchdowns over his last three years of school, and he's even rising up the rankings in redraft leagues. As it stands, Coleman is worthy of a roster spot in 12+ team leagues, despite the fact that he's third on the depth chart behind J.K. Dobbins and RJ Harvey. After the first few weeks of the season go by and Coleman gets more acclimated to the NFL, we fully expect him to carve out a meaningful role alongside Dobbins and Harvey. Just like we saw Harvey emerge as a fantasy league winner in the second half of the 2025 season, Coleman could do the same in 2026.",
+      "metadata": {
+        "description": "Denver Broncos running back Jonah Coleman has consistently earned the praise of coaches, teammates, and media throughout his first preseason in the NFL. The fourth-round pick out of Washington was already trending up as soon as the Broncos drafted him, and nothing has changed in the last few months. He continues to have massive upside in dynasty leagues after posting 3,496 scrimmage yards and 33 touchdowns over his last three years of school, and he's even rising up the rankings in redraft leagues. As it stands, Coleman is worthy of a roster spot in 12+ team leagues, despite the fact that he's third on the depth chart behind J.K. Dobbins and RJ Harvey. After the first few weeks of the season go by and Coleman gets more acclimated to the NFL, we fully expect him to carve out a meaningful role alongside Dobbins and Harvey. Just like we saw Harvey emerge as a fantasy league winner in the second half of the 2025 season, Coleman could do the same in 2026.",
+        "title": "Jonah Coleman Earns Praise of Coaches, Could be a Late-Season League Winner",
+        "topic_id": "1403432645077020672",
+        "url": "https://www.rotoballer.com/player-news/jonah-coleman-earns-praise-of-coaches-could-be-a-late-season-league-winner/1926704"
+      },
+      "nfl_team": "DEN",
+      "player_id": "13345",
+      "player_name": "Jonah Coleman",
+      "position": "RB",
+      "published": 1788952145000,
+      "source": "rotoballer",
+      "source_key": "220424",
+      "story_id": "nfl|13345|rotoballer|220424|1788952145000",
+      "title": "Jonah Coleman Earns Praise of Coaches, Could be a Late-Season League Winner",
+      "url": "https://www.rotoballer.com/player-news/jonah-coleman-earns-praise-of-coaches-could-be-a-late-season-league-winner/1926704"
+    },
     {
       "analysis": null,
       "description": "Seattle Seahawks tight end AJ Barner put together a strong camp, and he could be headed for a larger role during the 2026 season. Barner has impressed with 10 touchdowns over his two NFL seasons, and he finished last year as the overall TE14 in PPR leagues. He was able to maintain his fantasy relevance despite facing competition from Elijah Arroyo, who had second-round draft capital last year. This season, we expect Barner to get a similar amount of playing time, and that could actually lead to more volume. Now that he has established himself on offense for two years in a row, he should see his target share increase. Additionally, he should benefit from playing for new offensive coordinator Brian Fleury. Fleury was the tight ends coach in San Francisco, so he brings a strong background in the position to his new job with the Seahawks. In fact, it has already been reported by ESPN's Jeremy Fowler that Fleury plans to use a lot of two-tight-end sets in Seattle. That bodes well for Barner, who has a very strong chance to emerge as a top-12 fantasy tight end in Year 3.",

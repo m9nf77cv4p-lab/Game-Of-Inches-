@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2258**
-- Newly captured: **0**
+- Stored stories: **2259**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Jonah Coleman** — Jonah Coleman Earns Praise of Coaches, Could be a Late-Season League Winner (2026-09-09T11:09:05Z)
+  - Source: https://www.rotoballer.com/player-news/jonah-coleman-earns-praise-of-coaches-could-be-a-late-season-league-winner/1926704
 - **AJ Barner** — AJ Barner Could Have a Larger Role After Strong Camp (2026-09-09T10:47:06Z)
   - Source: https://www.rotoballer.com/player-news/aj-barner-could-have-a-larger-role-after-strong-camp/1926692
 - **Chris Rodriguez** — Chris Rodriguez Jr. Emerging as Key Part of Backfield Despite Buzz Around Teammate (2026-09-09T10:39:05Z)
@@ -217,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/rico-dowdle-listed-as-rb2-on-steelers-depth-chart/1925979
 - **Jaylen Warren** — Jaylen Warren Listed as Starter on Steelers' Depth Chart (2026-09-08T12:50:05Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-warren-listed-as-starter-on-steelers-depth-chart/1925976
-- **Chris Rodriguez** — Bhayshul Tuten, Chris Rodriguez Jr. Listed as Co-Starters at RB (2026-09-08T12:42:10Z)
-  - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-chris-rodriguez-jr-listed-as-co-starters-at-rb/1925971
