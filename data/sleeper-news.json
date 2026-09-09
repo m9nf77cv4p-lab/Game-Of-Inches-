@@ -1,13 +1,22 @@
 {
-  "last_checked_at": "2026-09-09T21:21:21Z",
+  "last_checked_at": "2026-09-09T21:46:02Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|12490|rotowire|636505|1788987823000",
-    "nfl|13287|rotowire|636510|1788988422000",
-    "nfl|5947|rotowire|636508|1788988162000",
-    "nfl|6819|rotowire|636512|1788988689000",
-    "nfl|8126|rotowire|636509|1788988339000"
+    "nfl|11571|rotowire|636518|1788989748000",
+    "nfl|11637|rotowire|636520|1788989925000",
+    "nfl|12534|fantasy_pros|606795|1788989747873",
+    "nfl|13287|fantasy_pros|606796|1788989748305",
+    "nfl|13287|rotoballer|220468|1788974226000",
+    "nfl|4035|fantasy_pros|606797|1788990347771",
+    "nfl|5846|fantasy_pros|606791|1788989147701",
+    "nfl|5846|rotowire|636513|1788988880000",
+    "nfl|6790|fantasy_pros|606794|1788989747885",
+    "nfl|6819|fantasy_pros|606793|1788989747901",
+    "nfl|8134|fantasy_pros|606800|1788990347730",
+    "nfl|8134|rotowire|636517|1788989738000",
+    "nfl|9484|rotowire|636522|1788990088000",
+    "nfl|9500|rotowire|636514|1788988957000"
   ],
   "schema_version": 1,
   "source": {
@@ -18,10 +27,277 @@
   },
   "stories": [
     {
-      "analysis": "Pittman and DK Metcalf (undisclosed) missed time in training camp and the preseason due to their injuries, but the Steelers will have both of their top wideouts available heading into Sunday's season opener versus the Falcons.",
+      "analysis": "The veteran running back was a limited participant at the team's first practice of the week on Wednesday. He's recovering from a knee injury right now and seems likely to miss Week 1 as a result. If that's the case, Kendre Miller will be primed for more work in his absence.",
+      "description": "Alvin Kamara (knee) was officially limited at practice on Wednesday.",
+      "metadata": {
+        "analysis": "The veteran running back was a limited participant at the team's first practice of the week on Wednesday. He's recovering from a knee injury right now and seems likely to miss Week 1 as a result. If that's the case, Kendre Miller will be primed for more work in his absence.",
+        "description": "Alvin Kamara (knee) was officially limited at practice on Wednesday.",
+        "title": "Alvin Kamara (knee) officially limited Wednesday",
+        "topic_id": "1403530881376829440",
+        "url": "https://www.fantasypros.com/nfl/news/606797/alvin-kamara-knee-officially-limited-wednesday.php"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1788990347771,
+      "source": "fantasy_pros",
+      "source_key": "606797",
+      "story_id": "nfl|4035|fantasy_pros|606797|1788990347771",
+      "title": "Alvin Kamara (knee) officially limited Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606797/alvin-kamara-knee-officially-limited-wednesday.php"
+    },
+    {
+      "analysis": "Shakir was a full participant at practice on Wednesday and is expected to be fully good to go for Sunday's season opener against the Houston Texans. He is not worth starting for fantasy purposes at this point, however, especially with DJ Moore now in town for the Bills.",
+      "description": "Khalil Shakir will be good to go for Sunday's game against the Houston Texans.",
+      "metadata": {
+        "analysis": "Shakir was a full participant at practice on Wednesday and is expected to be fully good to go for Sunday's season opener against the Houston Texans. He is not worth starting for fantasy purposes at this point, however, especially with DJ Moore now in town for the Bills.",
+        "description": "Khalil Shakir will be good to go for Sunday's game against the Houston Texans.",
+        "title": "Khalil Shakir good to go for Sunday",
+        "topic_id": "1403530881209057280",
+        "url": "https://www.fantasypros.com/nfl/news/606800/khalil-shakir-good-to-go-sunday.php"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8134",
+      "player_name": "Khalil Shakir",
+      "position": "WR",
+      "published": 1788990347730,
+      "source": "fantasy_pros",
+      "source_key": "606800",
+      "story_id": "nfl|8134|fantasy_pros|606800|1788990347730",
+      "title": "Khalil Shakir good to go for Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/606800/khalil-shakir-good-to-go-sunday.php"
+    },
+    {
+      "analysis": "Kraft has been working in full pads for weeks, so it's no surprise. He's ready to go for Sunday's game against the Vikings and is a top-five TE1 for fantasy in that matchup.",
+      "description": "Kraft (knee) is not listed on the Packers' Week 1 injury report Wednesday, Tom Silverstein of the Milwaukee Journal Sentinel reports.",
+      "metadata": {
+        "analysis": "Kraft has been working in full pads for weeks, so it's no surprise. He's ready to go for Sunday's game against the Vikings and is a top-five TE1 for fantasy in that matchup.",
+        "description": "Kraft (knee) is not listed on the Packers' Week 1 injury report Wednesday, Tom Silverstein of the Milwaukee Journal Sentinel reports.",
+        "title": "Tucker Kraft - Not on Week 1 injury report",
+        "topic_id": "1403530876876328960"
+      },
+      "nfl_team": "GB",
+      "player_id": "9484",
+      "player_name": "Tucker Kraft",
+      "position": "TE",
+      "published": 1788990088000,
+      "source": "rotowire",
+      "source_key": "636522",
+      "story_id": "nfl|9484|rotowire|636522|1788990088000",
+      "title": "Tucker Kraft - Not on Week 1 injury report",
+      "url": null
+    },
+    {
+      "analysis": "Coleman was in a walking boot last month but returned to practice last week and is ready for Week 1 against the Texans. Listed as a starter on the unofficial depth chart, Coleman will be part of the rotation at wide receiver for Buffalo. He doesn't carry much redraft fantasy value and is a better best-ball selection in an offense that again has a lot of mouths to feed.",
+      "description": "Coleman (foot) is not listed on the Bills' Week 1 injury report Wednesday.",
+      "metadata": {
+        "analysis": "Coleman was in a walking boot last month but returned to practice last week and is ready for Week 1 against the Texans. Listed as a starter on the unofficial depth chart, Coleman will be part of the rotation at wide receiver for Buffalo. He doesn't carry much redraft fantasy value and is a better best-ball selection in an offense that again has a lot of mouths to feed.",
+        "description": "Coleman (foot) is not listed on the Bills' Week 1 injury report Wednesday.",
+        "title": "Keon Coleman - Not listed on Week 1 injury report",
+        "topic_id": "1403529618375380992"
+      },
+      "nfl_team": "BUF",
+      "player_id": "11637",
+      "player_name": "Keon Coleman",
+      "position": "WR",
+      "published": 1788989925000,
+      "source": "rotowire",
+      "source_key": "636520",
+      "story_id": "nfl|11637|rotowire|636520|1788989925000",
+      "title": "Keon Coleman - Not listed on Week 1 injury report",
+      "url": null
+    },
+    {
+      "analysis": "The rookie is expected to be a full participant at Arizona's practice on Wednesday. He suffered a high-ankle sprain several weeks ago, but the team feels good about his recovery, and he will have a real chance to make his NFL debut in Week 1. Fantasy managers should continue to keep close tabs on updates about his health throughout the rest of the week.",
+      "description": "Jeremiyah Love (ankle) is expected to be a full participant at practice on Wednesday.",
+      "metadata": {
+        "analysis": "The rookie is expected to be a full participant at Arizona's practice on Wednesday. He suffered a high-ankle sprain several weeks ago, but the team feels good about his recovery, and he will have a real chance to make his NFL debut in Week 1. Fantasy managers should continue to keep close tabs on updates about his health throughout the rest of the week.",
+        "description": "Jeremiyah Love (ankle) is expected to be a full participant at practice on Wednesday.",
+        "title": "Jeremiyah Love (ankle) expected to practice in full Wednesday",
+        "topic_id": "1403528367042564096",
+        "url": "https://www.fantasypros.com/nfl/news/606796/jeremiyah-love-ankle-expected-to-practice-full-wednesday.php"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788989748305,
+      "source": "fantasy_pros",
+      "source_key": "606796",
+      "story_id": "nfl|13287|fantasy_pros|606796|1788989748305",
+      "title": "Jeremiyah Love (ankle) expected to practice in full Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606796/jeremiyah-love-ankle-expected-to-practice-full-wednesday.php"
+    },
+    {
+      "analysis": "Davis missed training camp practices and preseason games while recovering from a knee injury, but his full participation in Wednesday's session indicates that he'll be available for Sunday's regular-season opener against the Titans. The third-year pro projects to serve as the Jets' RB3 this season behind Breece Hall and Braelon Allen.",
+      "description": "Davis (knee) was a full participant in Wednesday's practice, Rich Cimini of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Davis missed training camp practices and preseason games while recovering from a knee injury, but his full participation in Wednesday's session indicates that he'll be available for Sunday's regular-season opener against the Titans. The third-year pro projects to serve as the Jets' RB3 this season behind Breece Hall and Braelon Allen.",
+        "description": "Davis (knee) was a full participant in Wednesday's practice, Rich Cimini of ESPN.com reports.",
+        "title": "Isaiah Davis - Logs full practice Wednesday",
+        "topic_id": "1403529618299883520"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "11571",
+      "player_name": "Isaiah Davis",
+      "position": "RB",
+      "published": 1788989748000,
+      "source": "rotowire",
+      "source_key": "636518",
+      "story_id": "nfl|11571|rotowire|636518|1788989748000",
+      "title": "Isaiah Davis - Logs full practice Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "Pittman is now fully recovered from the hamstring injury he was dealing with earlier and is set to be a full go against the Falcons on Sunday. He shouldn't be started in most league formats but remains an intriguing player to watch and evaluate in his first game as a member of his new team.",
+      "description": "Michael Pittman Jr. (hamstring) is good to go for Sunday's game against the Atlanta Falcons.",
+      "metadata": {
+        "analysis": "Pittman is now fully recovered from the hamstring injury he was dealing with earlier and is set to be a full go against the Falcons on Sunday. He shouldn't be started in most league formats but remains an intriguing player to watch and evaluate in his first game as a member of his new team.",
+        "description": "Michael Pittman Jr. (hamstring) is good to go for Sunday's game against the Atlanta Falcons.",
+        "title": "Michael Pittman Jr. (hamstring) good to go for Sunday",
+        "topic_id": "1403528365348065280",
+        "url": "https://www.fantasypros.com/nfl/news/606793/michael-pittman-jr-hamstring-good-to-go-sunday.php"
+      },
+      "nfl_team": "PIT",
+      "player_id": "6819",
+      "player_name": "Michael Pittman",
+      "position": "WR",
+      "published": 1788989747901,
+      "source": "fantasy_pros",
+      "source_key": "606793",
+      "story_id": "nfl|6819|fantasy_pros|606793|1788989747901",
+      "title": "Michael Pittman Jr. (hamstring) good to go for Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/606793/michael-pittman-jr-hamstring-good-to-go-sunday.php"
+    },
+    {
+      "analysis": "Swift will be able to play in the team's season opener on Sunday. He was recently battling through an issue with his core, but it's nothing more than a minor injury and shouldn't hinder him against the Panthers. He's expected to be a good fantasy option for as long as he can remain healthy and in the lineup for Chicago.",
+      "description": "D'Andre Swift (core) is without an injury designation ahead of Sunday's game against the Carolina Panthers.",
+      "metadata": {
+        "analysis": "Swift will be able to play in the team's season opener on Sunday. He was recently battling through an issue with his core, but it's nothing more than a minor injury and shouldn't hinder him against the Panthers. He's expected to be a good fantasy option for as long as he can remain healthy and in the lineup for Chicago.",
+        "description": "D'Andre Swift (core) is without an injury designation ahead of Sunday's game against the Carolina Panthers.",
+        "title": "D'Andre Swift (core) without injury designation for Sunday",
+        "topic_id": "1403528365276762112",
+        "url": "https://www.fantasypros.com/nfl/news/606794/dandre-swift-core-without-injury-designation-sunday.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1788989747885,
+      "source": "fantasy_pros",
+      "source_key": "606794",
+      "story_id": "nfl|6790|fantasy_pros|606794|1788989747885",
+      "title": "D'Andre Swift (core) without injury designation for Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/606794/dandre-swift-core-without-injury-designation-sunday.php"
+    },
+    {
+      "analysis": "Monangai will be good to go for the season opener on Sunday, despite recently dealing with a knee injury of some kind. He isn't expected to be fantasy relevant with D'Andre Swift set to get the start and the bulk of the work for the Bears.",
+      "description": "Kyle Monangai (knee) is good to go for Week 1's game against the Carolina Panthers.",
+      "metadata": {
+        "analysis": "Monangai will be good to go for the season opener on Sunday, despite recently dealing with a knee injury of some kind. He isn't expected to be fantasy relevant with D'Andre Swift set to get the start and the bulk of the work for the Bears.",
+        "description": "Kyle Monangai (knee) is good to go for Week 1's game against the Carolina Panthers.",
+        "title": "Kyle Monangai (knee) good to go for Week 1",
+        "topic_id": "1403528365222236160",
+        "url": "https://www.fantasypros.com/nfl/news/606795/kyle-monangai-knee-good-to-go-week-1.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12534",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "published": 1788989747873,
+      "source": "fantasy_pros",
+      "source_key": "606795",
+      "story_id": "nfl|12534|fantasy_pros|606795|1788989747873",
+      "title": "Kyle Monangai (knee) good to go for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606795/kyle-monangai-knee-good-to-go-week-1.php"
+    },
+    {
+      "analysis": "Shakir dealt with an unspecified injury last month, but he's good to go for Sunday's opener against the Texans. With DJ Moore now in Buffalo and Dalton Kincaid healthy headed into 2026, Shakir will have added competition for targets this season. He's a low-ceiling WR4/5 in fantasy.",
+      "description": "Shakir (undisclosed) is not listed on the Bills' Week 1 injury report Wednesday.",
+      "metadata": {
+        "analysis": "Shakir dealt with an unspecified injury last month, but he's good to go for Sunday's opener against the Texans. With DJ Moore now in Buffalo and Dalton Kincaid healthy headed into 2026, Shakir will have added competition for targets this season. He's a low-ceiling WR4/5 in fantasy.",
+        "description": "Shakir (undisclosed) is not listed on the Bills' Week 1 injury report Wednesday.",
+        "title": "Khalil Shakir - Not listed on injury report",
+        "topic_id": "1403529618232774656"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8134",
+      "player_name": "Khalil Shakir",
+      "position": "WR",
+      "published": 1788989738000,
+      "source": "rotowire",
+      "source_key": "636517",
+      "story_id": "nfl|8134|rotowire|636517|1788989738000",
+      "title": "Khalil Shakir - Not listed on injury report",
+      "url": null
+    },
+    {
+      "analysis": "Metcalf was dealing with an undisclosed injury earlier, but it's not an issue for him anymore and he is off of the injury report entirely ahead of Week 1. He goes into the season as the projected top target for the Steelers this season.",
+      "description": "DK Metcalf is off of the injury report for Week 1's matchup against the Atlanta Falcons.",
+      "metadata": {
+        "analysis": "Metcalf was dealing with an undisclosed injury earlier, but it's not an issue for him anymore and he is off of the injury report entirely ahead of Week 1. He goes into the season as the projected top target for the Steelers this season.",
+        "description": "DK Metcalf is off of the injury report for Week 1's matchup against the Atlanta Falcons.",
+        "title": "DK Metcalf off injury report for Week 1",
+        "topic_id": "1403525847918428160",
+        "url": "https://www.fantasypros.com/nfl/news/606791/dk-metcalf-off-injury-report-week-1.php"
+      },
+      "nfl_team": "PIT",
+      "player_id": "5846",
+      "player_name": "DK Metcalf",
+      "position": "WR",
+      "published": 1788989147701,
+      "source": "fantasy_pros",
+      "source_key": "606791",
+      "story_id": "nfl|5846|fantasy_pros|606791|1788989147701",
+      "title": "DK Metcalf off injury report for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606791/dk-metcalf-off-injury-report-week-1.php"
+    },
+    {
+      "analysis": "The fourth-year receiver downplayed the calf injury that slowed him towards the end of summer. Downs evaded the injury report entirely Wednesday, signaling that he should be ready to go for the opener against the Ravens. Indianapolis may be full-strength at receiver with Alec Pierce trending in the right direction as well.",
+      "description": "Downs (calf) is not on the Colts' injury report.",
+      "metadata": {
+        "analysis": "The fourth-year receiver downplayed the calf injury that slowed him towards the end of summer. Downs evaded the injury report entirely Wednesday, signaling that he should be ready to go for the opener against the Ravens. Indianapolis may be full-strength at receiver with Alec Pierce trending in the right direction as well.",
+        "description": "Downs (calf) is not on the Colts' injury report.",
+        "title": "Josh Downs - Dodges injury report",
+        "topic_id": "1403525843724017664"
+      },
+      "nfl_team": "IND",
+      "player_id": "9500",
+      "player_name": "Josh Downs",
+      "position": "WR",
+      "published": 1788988957000,
+      "source": "rotowire",
+      "source_key": "636514",
+      "story_id": "nfl|9500|rotowire|636514|1788988957000",
+      "title": "Josh Downs - Dodges injury report",
+      "url": null
+    },
+    {
+      "analysis": "Neither Metcalf nor fellow WR Michael Pittman (hamstring) showed up on Wednesday's report after both players missed a good portion of training camp and the entire preseason slate due to health concerns. Now that Metcalf is back to 100 percent, he and Pittman are ready to take on a good portion of QB Aaron Rodgers' passes Sunday against the Falcons.",
+      "description": "Metcalf (undisclosed) wasn't listed on the Steelers' first Week 1 injury report Wednesday, Teresa Varley of the team's official site reports.",
+      "metadata": {
+        "analysis": "Neither Metcalf nor fellow WR Michael Pittman (hamstring) showed up on Wednesday's report after both players missed a good portion of training camp and the entire preseason slate due to health concerns. Now that Metcalf is back to 100 percent, he and Pittman are ready to take on a good portion of QB Aaron Rodgers' passes Sunday against the Falcons.",
+        "description": "Metcalf (undisclosed) wasn't listed on the Steelers' first Week 1 injury report Wednesday, Teresa Varley of the team's official site reports.",
+        "title": "DK Metcalf - Not listed on Wednesday's injury report",
+        "topic_id": "1403525843719823360"
+      },
+      "nfl_team": "PIT",
+      "player_id": "5846",
+      "player_name": "DK Metcalf",
+      "position": "WR",
+      "published": 1788988880000,
+      "source": "rotowire",
+      "source_key": "636513",
+      "story_id": "nfl|5846|rotowire|636513|1788988880000",
+      "title": "DK Metcalf - Not listed on Wednesday's injury report",
+      "url": null
+    },
+    {
+      "analysis": "Pittman and DK Metcalf (undisclosed) missed time in training camp and the preseason due to their injuries, but the Steelers will have both of their top wideouts available heading into Sunday's season opener versus the Falcons. With running back Kenny Gainwell moving on to Tampa Bay this offseason after a 73-catch season with Pittsburgh in 2025, Pittman will be a strong candidate to absorb some of the vacated short- and intermediate-area targets from quarterback Aaron Rodgers.",
       "description": "Pittman (hamstring) didn't appear Wednesday on the Steelers' first Week 1 injury report, Teresa Varley of the team's official site reports.",
       "metadata": {
-        "analysis": "Pittman and DK Metcalf (undisclosed) missed time in training camp and the preseason due to their injuries, but the Steelers will have both of their top wideouts available heading into Sunday's season opener versus the Falcons.",
+        "analysis": "Pittman and DK Metcalf (undisclosed) missed time in training camp and the preseason due to their injuries, but the Steelers will have both of their top wideouts available heading into Sunday's season opener versus the Falcons. With running back Kenny Gainwell moving on to Tampa Bay this offseason after a 73-catch season with Pittsburgh in 2025, Pittman will be a strong candidate to absorb some of the vacated short- and intermediate-area targets from quarterback Aaron Rodgers.",
         "description": "Pittman (hamstring) didn't appear Wednesday on the Steelers' first Week 1 injury report, Teresa Varley of the team's official site reports.",
         "title": "Michael Pittman - Ready to go for Week 1",
         "topic_id": "1403524585336377344"
@@ -118,11 +394,11 @@
       "url": null
     },
     {
-      "analysis": "This is the first specification on Flowers' recent lower-body issue as the team listed his injury as a hamstring. He missed multiple sessions last week and was working off to the side in Wednesday's practice. Flowers still has two more days to ramp up to a full practice. The Ravens' receiver depth behind Flowers is also being tested going into the season as Devontez Walker was listed as limited with a groin issue. Flowers' status will be one to monitor as Sunday approaches.",
-      "description": "Flowers (hamstring) was listed as limited on Wednesday's injury report.",
+      "analysis": "Baltimore's first injury report of the season provided some clarification on the lower-body issue that has been inhibiting him over the past few weeks. The wideout missed multiple sessions last week and was working off to the side during the media-access portion of Wednesday's practice, but he'll still have two more chances to ramp up to full participation by the end of the week. For his part, Flowers told Cordell Woodland of 105.7 The Fan Baltimore that he feels \"more than healthy,\" which suggests that he's expecting to play Sunday in Indianapolis. The Ravens' receiver depth behind Flowers is also being tested going into the season, as Devontez Walker was listed as limited Wednesday due to a groin issue.",
+      "description": "The Ravens listed Flowers as a limited participant in Wednesday's practice due to a hamstring injury.",
       "metadata": {
-        "analysis": "This is the first specification on Flowers' recent lower-body issue as the team listed his injury as a hamstring. He missed multiple sessions last week and was working off to the side in Wednesday's practice. Flowers still has two more days to ramp up to a full practice. The Ravens' receiver depth behind Flowers is also being tested going into the season as Devontez Walker was listed as limited with a groin issue. Flowers' status will be one to monitor as Sunday approaches.",
-        "description": "Flowers (hamstring) was listed as limited on Wednesday's injury report.",
+        "analysis": "Baltimore's first injury report of the season provided some clarification on the lower-body issue that has been inhibiting him over the past few weeks. The wideout missed multiple sessions last week and was working off to the side during the media-access portion of Wednesday's practice, but he'll still have two more chances to ramp up to full participation by the end of the week. For his part, Flowers told Cordell Woodland of 105.7 The Fan Baltimore that he feels \"more than healthy,\" which suggests that he's expecting to play Sunday in Indianapolis. The Ravens' receiver depth behind Flowers is also being tested going into the season, as Devontez Walker was listed as limited Wednesday due to a groin issue.",
+        "description": "The Ravens listed Flowers as a limited participant in Wednesday's practice due to a hamstring injury.",
         "title": "Zay Flowers - Limited in practice Wednesday",
         "topic_id": "1403520809825312768"
       },
@@ -321,12 +597,12 @@
       "url": null
     },
     {
-      "analysis": "Pierce was limited to begin the week and will have two more opportunities ramp up going into the season-opener against the Ravens. Pierce's lengthy recovery from an ankle procedure slowed him throughout the offseason, though he was able to get back on the practice field earlier in September. Coach Shane Steichen even noted Monday that Pierce should be \"good to go\" for the opener.",
-      "description": "Pierce (heel) was a limited participant on Wednesday's practice report.",
+      "analysis": "Pierce will have two more opportunities to upgrade to full practice participation heading into Sunday's season opener versus the Ravens. Per Mike Chappell of Fox 59 News Indianapolis, Pierce is expected to be ready to go for Sunday, though the wideout could be on something of a pitch count in the first few weeks of the season after kept him from practicing until late August. The 26-year-old served mainly as a deep-ball specialist over his first four seasons in the NFL but could become more of a higher-volume target earner in 2026 after re-signing with Indianapolis on a four-year, $114 million deal in March.",
+      "description": "Pierce was a limited participant in Wednesday's practice due to a heel injury.",
       "metadata": {
-        "analysis": "Pierce was limited to begin the week and will have two more opportunities ramp up going into the season-opener against the Ravens. Pierce's lengthy recovery from an ankle procedure slowed him throughout the offseason, though he was able to get back on the practice field earlier in September. Coach Shane Steichen even noted Monday that Pierce should be \"good to go\" for the opener.",
-        "description": "Pierce (heel) was a limited participant on Wednesday's practice report.",
-        "title": "Alec Pierce - Logs limited practice Wednesday",
+        "analysis": "Pierce will have two more opportunities to upgrade to full practice participation heading into Sunday's season opener versus the Ravens. Per Mike Chappell of Fox 59 News Indianapolis, Pierce is expected to be ready to go for Sunday, though the wideout could be on something of a pitch count in the first few weeks of the season after kept him from practicing until late August. The 26-year-old served mainly as a deep-ball specialist over his first four seasons in the NFL but could become more of a higher-volume target earner in 2026 after re-signing with Indianapolis on a four-year, $114 million deal in March.",
+        "description": "Pierce was a limited participant in Wednesday's practice due to a heel injury.",
+        "title": "Alec Pierce - Limited in practice by heel injury",
         "topic_id": "1403517034863534080"
       },
       "nfl_team": "IND",
@@ -337,7 +613,7 @@
       "source": "rotowire",
       "source_key": "636497",
       "story_id": "nfl|8142|rotowire|636497|1788986902000",
-      "title": "Alec Pierce - Logs limited practice Wednesday",
+      "title": "Alec Pierce - Limited in practice by heel injury",
       "url": null
     },
     {
@@ -817,7 +1093,7 @@
       "metadata": {
         "analysis": "This is huge news just before the season gets underway as the top tight end in the league is now expected to miss regular season time. Per Schefter, Bowers suffered a minor knee injury in camp that was diagnosed last week. He underwent a meniscus trim, which will speed up his time to return to the field rather than a repair. Michael Mayer projects to see a usage boost for however long Bowers is sidelined.",
         "description": "Bowers underwent a meniscus trim procedure Tuesday and is expected to miss \"a game or two,\" Adam Schefter of ESPN reports.",
-        "title": "Brock Bowers - Undergoes meniscus trim, expected miss 1-2 games",
+        "title": "Brock Bowers - Undergoes meniscus trim, out 1-to-2 games",
         "topic_id": "1403506968080961536"
       },
       "nfl_team": "LV",
@@ -828,7 +1104,7 @@
       "source": "rotowire",
       "source_key": "636483",
       "story_id": "nfl|11604|rotowire|636483|1788984285000",
-      "title": "Brock Bowers - Undergoes meniscus trim, expected miss 1-2 games",
+      "title": "Brock Bowers - Undergoes meniscus trim, out 1-to-2 games",
       "url": null
     },
     {
@@ -1259,6 +1535,26 @@
       "story_id": "nfl|8136|fantasy_pros|606734|1788974435832",
       "title": "Rachaad White (hamstring) set to practice Wednesday",
       "url": "https://www.fantasypros.com/nfl/news/606734/rachaad-white-hamstring-set-to-practice-wednesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals head coach Mike LaFleur said that rookie first-round running back Jeremiyah Love (ankle) will practice on Wednesday, and he expects him to not be limited, according to Darren Urban of the team's official website. Love's game status for the Week 1 season opener on Sunday against the Los Angeles Chargers depends on how he looks this week in practice. If Love is a full-go in the first official practice of the week for Arizona, we would expect him to make his regular-season NFL debut against the Chargers. The Notre Dame product is trending towards being active this weekend, but that does not mean he will lead the Cardinals' backfield in his first game. Veteran Tyler Allgeier was listed as the team's RB1 on their first unofficial depth chart and seems primed to handle at least the early-down role on Sunday against the Bolts, making Love an easy fade in DFS lineups. In traditional fantasy leagues, Love should be considered more of a shaky low-end RB2/high-end RB3/flex if he is fully cleared later this week. Stay tuned for the Cardinals' official practice statuses through Friday.",
+      "metadata": {
+        "description": "Arizona Cardinals head coach Mike LaFleur said that rookie first-round running back Jeremiyah Love (ankle) will practice on Wednesday, and he expects him to not be limited, according to Darren Urban of the team's official website. Love's game status for the Week 1 season opener on Sunday against the Los Angeles Chargers depends on how he looks this week in practice. If Love is a full-go in the first official practice of the week for Arizona, we would expect him to make his regular-season NFL debut against the Chargers. The Notre Dame product is trending towards being active this weekend, but that does not mean he will lead the Cardinals' backfield in his first game. Veteran Tyler Allgeier was listed as the team's RB1 on their first unofficial depth chart and seems primed to handle at least the early-down role on Sunday against the Bolts, making Love an easy fade in DFS lineups. In traditional fantasy leagues, Love should be considered more of a shaky low-end RB2/high-end RB3/flex if he is fully cleared later this week. Stay tuned for the Cardinals' official practice statuses through Friday.",
+        "title": "Jeremiyah Love to Practice Wednesday, Still TBD for Week 1",
+        "topic_id": "1403525841387810816",
+        "url": "https://www.rotoballer.com/player-news/jeremiyah-love-to-practice-wednesday-still-tbd-for-week-1/1927112"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788974226000,
+      "source": "rotoballer",
+      "source_key": "220468",
+      "story_id": "nfl|13287|rotoballer|220468|1788974226000",
+      "title": "Jeremiyah Love to Practice Wednesday, Still TBD for Week 1",
+      "url": "https://www.rotoballer.com/player-news/jeremiyah-love-to-practice-wednesday-still-tbd-for-week-1/1927112"
     },
     {
       "analysis": "After appearing to participate fully Tuesday, Flowers' side work Wednesday suggests Baltimore could be managing his reps heading into Week 1. His official participation level on the Ravens' injury report will provide the clearest read on his availability for Sunday's game at Indianapolis, but there's been no indication Flowers is in any danger of missing the season opener.",

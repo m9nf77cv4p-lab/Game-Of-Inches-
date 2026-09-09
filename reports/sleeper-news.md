@@ -2,23 +2,56 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2367**
-- Newly captured: **5**
+- Stored stories: **2381**
+- Newly captured: **14**
 
 ## Latest news
 
-- **NEW — Michael Pittman** — Michael Pittman - Ready to go for Week 1 (2026-09-09T21:18:09Z)
-  - Pittman and DK Metcalf (undisclosed) missed time in training camp and the preseason due to their injuries, but the Steelers will have both of their top wideouts available heading into Sunday's season opener versus the Falcons.
-- **NEW — Jeremiyah Love** — Jeremiyah Love - Set to practice Wednesday (2026-09-09T21:13:42Z)
+- **NEW — Alvin Kamara** — Alvin Kamara (knee) officially limited Wednesday (2026-09-09T21:45:47.771000Z)
+  - The veteran running back was a limited participant at the team's first practice of the week on Wednesday. He's recovering from a knee injury right now and seems likely to miss Week 1 as a result. If that's the case, Kendre Miller will be primed for more work in his absence.
+  - Source: https://www.fantasypros.com/nfl/news/606797/alvin-kamara-knee-officially-limited-wednesday.php
+- **NEW — Khalil Shakir** — Khalil Shakir good to go for Sunday (2026-09-09T21:45:47.730000Z)
+  - Shakir was a full participant at practice on Wednesday and is expected to be fully good to go for Sunday's season opener against the Houston Texans. He is not worth starting for fantasy purposes at this point, however, especially with DJ Moore now in town for the Bills.
+  - Source: https://www.fantasypros.com/nfl/news/606800/khalil-shakir-good-to-go-sunday.php
+- **NEW — Tucker Kraft** — Tucker Kraft - Not on Week 1 injury report (2026-09-09T21:41:28Z)
+  - Kraft has been working in full pads for weeks, so it's no surprise. He's ready to go for Sunday's game against the Vikings and is a top-five TE1 for fantasy in that matchup.
+- **NEW — Keon Coleman** — Keon Coleman - Not listed on Week 1 injury report (2026-09-09T21:38:45Z)
+  - Coleman was in a walking boot last month but returned to practice last week and is ready for Week 1 against the Texans. Listed as a starter on the unofficial depth chart, Coleman will be part of the rotation at wide receiver for Buffalo. He doesn't carry much redraft fantasy value and is a better best-ball selection in an offense that again has a lot of mouths to feed.
+- **NEW — Jeremiyah Love** — Jeremiyah Love (ankle) expected to practice in full Wednesday (2026-09-09T21:35:48.305000Z)
+  - The rookie is expected to be a full participant at Arizona's practice on Wednesday. He suffered a high-ankle sprain several weeks ago, but the team feels good about his recovery, and he will have a real chance to make his NFL debut in Week 1. Fantasy managers should continue to keep close tabs on updates about his health throughout the rest of the week.
+  - Source: https://www.fantasypros.com/nfl/news/606796/jeremiyah-love-ankle-expected-to-practice-full-wednesday.php
+- **NEW — Isaiah Davis** — Isaiah Davis - Logs full practice Wednesday (2026-09-09T21:35:48Z)
+  - Davis missed training camp practices and preseason games while recovering from a knee injury, but his full participation in Wednesday's session indicates that he'll be available for Sunday's regular-season opener against the Titans. The third-year pro projects to serve as the Jets' RB3 this season behind Breece Hall and Braelon Allen.
+- **NEW — Michael Pittman** — Michael Pittman Jr. (hamstring) good to go for Sunday (2026-09-09T21:35:47.901000Z)
+  - Pittman is now fully recovered from the hamstring injury he was dealing with earlier and is set to be a full go against the Falcons on Sunday. He shouldn't be started in most league formats but remains an intriguing player to watch and evaluate in his first game as a member of his new team.
+  - Source: https://www.fantasypros.com/nfl/news/606793/michael-pittman-jr-hamstring-good-to-go-sunday.php
+- **NEW — D'Andre Swift** — D'Andre Swift (core) without injury designation for Sunday (2026-09-09T21:35:47.885000Z)
+  - Swift will be able to play in the team's season opener on Sunday. He was recently battling through an issue with his core, but it's nothing more than a minor injury and shouldn't hinder him against the Panthers. He's expected to be a good fantasy option for as long as he can remain healthy and in the lineup for Chicago.
+  - Source: https://www.fantasypros.com/nfl/news/606794/dandre-swift-core-without-injury-designation-sunday.php
+- **NEW — Kyle Monangai** — Kyle Monangai (knee) good to go for Week 1 (2026-09-09T21:35:47.873000Z)
+  - Monangai will be good to go for the season opener on Sunday, despite recently dealing with a knee injury of some kind. He isn't expected to be fantasy relevant with D'Andre Swift set to get the start and the bulk of the work for the Bears.
+  - Source: https://www.fantasypros.com/nfl/news/606795/kyle-monangai-knee-good-to-go-week-1.php
+- **NEW — Khalil Shakir** — Khalil Shakir - Not listed on injury report (2026-09-09T21:35:38Z)
+  - Shakir dealt with an unspecified injury last month, but he's good to go for Sunday's opener against the Texans. With DJ Moore now in Buffalo and Dalton Kincaid healthy headed into 2026, Shakir will have added competition for targets this season. He's a low-ceiling WR4/5 in fantasy.
+- **NEW — DK Metcalf** — DK Metcalf off injury report for Week 1 (2026-09-09T21:25:47.701000Z)
+  - Metcalf was dealing with an undisclosed injury earlier, but it's not an issue for him anymore and he is off of the injury report entirely ahead of Week 1. He goes into the season as the projected top target for the Steelers this season.
+  - Source: https://www.fantasypros.com/nfl/news/606791/dk-metcalf-off-injury-report-week-1.php
+- **NEW — Josh Downs** — Josh Downs - Dodges injury report (2026-09-09T21:22:37Z)
+  - The fourth-year receiver downplayed the calf injury that slowed him towards the end of summer. Downs evaded the injury report entirely Wednesday, signaling that he should be ready to go for the opener against the Ravens. Indianapolis may be full-strength at receiver with Alec Pierce trending in the right direction as well.
+- **NEW — DK Metcalf** — DK Metcalf - Not listed on Wednesday's injury report (2026-09-09T21:21:20Z)
+  - Neither Metcalf nor fellow WR Michael Pittman (hamstring) showed up on Wednesday's report after both players missed a good portion of training camp and the entire preseason slate due to health concerns. Now that Metcalf is back to 100 percent, he and Pittman are ready to take on a good portion of QB Aaron Rodgers' passes Sunday against the Falcons.
+- **Michael Pittman** — Michael Pittman - Ready to go for Week 1 (2026-09-09T21:18:09Z)
+  - Pittman and DK Metcalf (undisclosed) missed time in training camp and the preseason due to their injuries, but the Steelers will have both of their top wideouts available heading into Sunday's season opener versus the Falcons. With running back Kenny Gainwell moving on to Tampa Bay this offseason after a 73-catch season with Pittsburgh in 2025, Pittman will be a strong candidate to absorb some of the vacated short- and intermediate-area targets from quarterback Aaron Rodgers.
+- **Jeremiyah Love** — Jeremiyah Love - Set to practice Wednesday (2026-09-09T21:13:42Z)
   - In typical LaFleur fashion, the coach tried to be wishy-washy and hide things from the media by saying Love is not expected to be limited in practice, but his status for Sunday's opener against the Chargers depends on how the running back looks during the practice week. The Cardinals have already listed Tyler Allgeier ahead of their No. 3 overall pick Love on the backfield depth chart. Love will shape up as a shaky RB3 for fantasy if he's active against Los Angeles.
-- **NEW — Wan'Dale Robinson** — Wan'Dale Robinson - No injury designation (2026-09-09T21:12:19Z)
+- **Wan'Dale Robinson** — Wan'Dale Robinson - No injury designation (2026-09-09T21:12:19Z)
   - The Titans' big offseason addition at wideout will be good to go for his new-team debut Sunday as Robinson carries no injury designation. Both Robinson and rookie Carnell Tate are off the injury report, signaling that Cam Ward will have his top weapons at his disposal as the team starts a new chapter under head coach Robert Saleh.
-- **NEW — Jakobi Meyers** — Jakobi Meyers - Limited during Wednesday's practice (2026-09-09T21:09:22Z)
+- **Jakobi Meyers** — Jakobi Meyers - Limited during Wednesday's practice (2026-09-09T21:09:22Z)
   - Per Ryan O'Halloran of The Florida Times-Union, Meyers sported a non-contact jersey during the open portion of Wednesday's session, though he was ultimately able to do enough work to garner a limited listing. Per John Shipley of SI.com, Meyers said after practice that he expects to play Sunday against the Browns, though he may need to upgrade to full practice participation Thursday or Friday to avoid carrying a designation into the weekend.
-- **NEW — Bhayshul Tuten** — Bhayshul Tuten - Ready to go for Week 1 (2026-09-09T21:03:43Z)
+- **Bhayshul Tuten** — Bhayshul Tuten - Ready to go for Week 1 (2026-09-09T21:03:43Z)
   - Tuten missed a practice one week ago after falling ill, but his absence from the Jaguars' first injury report of the season suggests that he's 100 percent healthy heading into Sunday's opener versus the Browns. Jaguars head coach Liam Coen hasn't revealed how he plans to divvy up the snaps among his running backs; even if Tuten ends up starting, he could wind up sharing the load on the ground with Chris Rodriguez. Third-down specialist LeQuint Allen (hip) didn't practice Wednesday and appears to be trending toward sitting out Week 1, potentially opening the door for both Tuten and Rodriguez to also see a slight spike in pass-catching opportunities.
 - **Zay Flowers** — Zay Flowers - Limited in practice Wednesday (2026-09-09T21:02:18Z)
-  - This is the first specification on Flowers' recent lower-body issue as the team listed his injury as a hamstring. He missed multiple sessions last week and was working off to the side in Wednesday's practice. Flowers still has two more days to ramp up to a full practice. The Ravens' receiver depth behind Flowers is also being tested going into the season as Devontez Walker was listed as limited with a groin issue. Flowers' status will be one to monitor as Sunday approaches.
+  - Baltimore's first injury report of the season provided some clarification on the lower-body issue that has been inhibiting him over the past few weeks. The wideout missed multiple sessions last week and was working off to the side during the media-access portion of Wednesday's practice, but he'll still have two more chances to ramp up to full participation by the end of the week. For his part, Flowers told Cordell Woodland of 105.7 The Fan Baltimore that he feels "more than healthy," which suggests that he's expecting to play Sunday in Indianapolis. The Ravens' receiver depth behind Flowers is also being tested going into the season, as Devontez Walker was listed as limited Wednesday due to a groin issue.
 - **Jalen McMillan** — Jalen McMillan - Officially limited Wednesday (2026-09-09T21:00:47Z)
   - Despite McMillan looking like his normal self in the portion of Wednesday's session open to the media, per Greg Auman of Fox Sports, the third-year wide receiver experienced restrictions on his workload. McMillan thus remains in recovery mode from the knee injury he suffered during an Aug. 4 practice, but he'll still have two more chances to get back to full participation before the weekend and Sunday's road matchup with the Bengals.
 - **Tee Higgins** — Tee Higgins - Full-go Wednesday (2026-09-09T20:56:51Z)
@@ -40,8 +73,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - It's looking promising for Chase's status going into the season-opener after his full practice Wednesday. He had a knee injury scare in August but has been present for practices since the beginning of the week. At this stage, Chase should be good to go for the season-opener against the Buccaneers.
 - **Emeka Egbuka** — Emeka Egbuka - Practices fully Wednesday (2026-09-09T20:51:08Z)
   - Egbuka is ready to go for Sunday's Week 1 opener against the Bengals, and in a game with the highest total on the slate, Egbuka is looking like a fantasy WR2 with obvious upside. He's expected to take over as the Bucs' top wideout this season after Mike Evans left for San Francisco in free agency.
-- **Alec Pierce** — Alec Pierce - Logs limited practice Wednesday (2026-09-09T20:48:22Z)
-  - Pierce was limited to begin the week and will have two more opportunities ramp up going into the season-opener against the Ravens. Pierce's lengthy recovery from an ankle procedure slowed him throughout the offseason, though he was able to get back on the practice field earlier in September. Coach Shane Steichen even noted Monday that Pierce should be "good to go" for the opener.
+- **Alec Pierce** — Alec Pierce - Limited in practice by heel injury (2026-09-09T20:48:22Z)
+  - Pierce will have two more opportunities to upgrade to full practice participation heading into Sunday's season opener versus the Ravens. Per Mike Chappell of Fox 59 News Indianapolis, Pierce is expected to be ready to go for Sunday, though the wideout could be on something of a pitch count in the first few weeks of the season after kept him from practicing until late August. The 26-year-old served mainly as a deep-ball specialist over his first four seasons in the NFL but could become more of a higher-volume target earner in 2026 after re-signing with Indianapolis on a four-year, $114 million deal in March.
 - **Tyrone Tracy** — Tyrone Tracy - No listing on Week 1 injury report (2026-09-09T20:47:22Z)
   - Tracy sustained an apparent neck injury during New York's exhibition finale, but after landing a spot on the team's initial active roster and nearly two weeks to recover, he's in good health ahead of a Week 1 matchup with the Cowboys. With Cam Skattebo leading the Giants backfield and Najee Harris and Devin Singletary also on hand for reps, it remains to be seen what kind of workload Tracy can expect in the regular-season opener.
 - **Jonathon Brooks** — Jonathon Brooks - Declares himself 100 percent (2026-09-09T20:46:51Z)
@@ -99,7 +132,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Brock Bowers** — Brock Bowers (knee) to miss 'a game or two' (2026-09-09T20:05:48.589000Z)
   - Bowers reportedly got 'banged up' during training camp last week, and the team made the decision to have him undergo a minor procedure to trim his meniscus. This is especially concerning considering that he missed much of last year due to a nagging knee injury, and the team already expects him to be sidelined for at least a game or two while he recovers from this one. This is an alarming situation that fantasy managers should keep close tabs on, as this injury could linger if there are any setbacks in his recovery. Michael Mayer will step in as the team's top tight end in his absence, with Tre Tucker and Jalen Nailor both also likely to see an increase in opportunities in the star tight end's absence.
   - Source: https://www.fantasypros.com/nfl/news/606745/brock-bowers-knee-to-miss-a-game-or-two.php
-- **Brock Bowers** — Brock Bowers - Undergoes meniscus trim, expected miss 1-2 games (2026-09-09T20:04:45Z)
+- **Brock Bowers** — Brock Bowers - Undergoes meniscus trim, out 1-to-2 games (2026-09-09T20:04:45Z)
   - This is huge news just before the season gets underway as the top tight end in the league is now expected to miss regular season time. Per Schefter, Bowers suffered a minor knee injury in camp that was diagnosed last week. He underwent a meniscus trim, which will speed up his time to return to the field rather than a repair. Michael Mayer projects to see a usage boost for however long Bowers is sidelined.
 - **Brock Bowers** — Brock Bowers - Not spotted at Wednesday's practice (2026-09-09T19:57:45Z)
   - Bowers remained healthy throughout training camp and the preseason after a lingering PCL injury and bone bruise in his knee sidelined him for five games in 2025, but he could be dealing with a new health concern leading up to the Raiders' Week 1 matchup with the Dolphins. The Raiders will release their first injury report of the season later Wednesday, when an explanation behind Bowers' absence will be provided.
@@ -152,6 +185,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Rachaad White** — Rachaad White (hamstring) set to practice Wednesday (2026-09-09T17:20:35.832000Z)
   - White's status for Week 1 is still unclear right now thanks to a hamstring injury that he's still dealing with. He is taking part in Wednesday's practice, however, which is a step in the right direction for him. Fantasy managers should pay attention to updates about his health throughout the week, as Jacory Croskey-Merritt will be a significantly better fantasy option if the veteran is sidelined this week.
   - Source: https://www.fantasypros.com/nfl/news/606734/rachaad-white-hamstring-set-to-practice-wednesday.php
+- **NEW — Jeremiyah Love** — Jeremiyah Love to Practice Wednesday, Still TBD for Week 1 (2026-09-09T17:17:06Z)
+  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-to-practice-wednesday-still-tbd-for-week-1/1927112
 - **Zay Flowers** — Zay Flowers - Works off to side Wednesday (2026-09-09T17:15:15Z)
   - After appearing to participate fully Tuesday, Flowers' side work Wednesday suggests Baltimore could be managing his reps heading into Week 1. His official participation level on the Ravens' injury report will provide the clearest read on his availability for Sunday's game at Indianapolis, but there's been no indication Flowers is in any danger of missing the season opener.
 - **Tee Higgins** — Tee Higgins - On track for Week 1 (2026-09-09T17:14:00Z)
@@ -210,31 +245,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kayshon-boutte-has-a-real-shot-to-break-out-in-houston/1926986
 - **De'Zhaun Stribling** — De'Zhaun Stribling Keeps Pushing Toward a Bigger Role (2026-09-09T15:09:09Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-keeps-pushing-toward-a-bigger-role/1926977
-- **Malik Nabers** — Malik Nabers Doing Individual Drills, Looking Good for Week 1 (2026-09-09T15:03:52Z)
-  - Source: https://www.rotoballer.com/player-news/malik-nabers-doing-individual-drills-looking-good-for-week-1/1926973
-- **Parker Washington** — Parker Washington to Return Punts This Year (2026-09-09T14:59:08Z)
-  - Source: https://www.rotoballer.com/player-news/parker-washington-to-return-punts-this-year/1926969
-- **J.J. McCarthy** — J.J. McCarthy Demoted to Third-String Role (2026-09-09T14:51:15Z)
-  - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-demoted-to-third-string-role/1926967
-- **Jonathon Brooks** — Jonathon Brooks in Full Uniform and Pads on Wednesday (2026-09-09T14:46:10Z)
-  - Source: https://www.rotoballer.com/player-news/jonathon-brooks-in-full-uniform-and-pads-on-wednesday/1926965
-- **Ashton Jeanty** — Ashton Jeanty Will Practice on Wednesday (2026-09-09T14:30:10Z)
-  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-will-practice-on-wednesday/1926960
-- **Tee Higgins** — Tee Higgins on Track to Play in Week 1 (2026-09-09T14:22:11Z)
-  - Source: https://www.rotoballer.com/player-news/tee-higgins-on-track-to-play-in-week-1/1926953
-- **Ja'Marr Chase** — Bengals Feel Good About Ja'Marr Chase Playing in Week 1 (2026-09-09T14:13:20Z)
-  - Source: https://www.rotoballer.com/player-news/bengals-feel-good-about-jamarr-chase-playing-in-week-1/1926946
-- **Kaleb Johnson** — Kaleb Johnson Could Play a Role in Week 1 Against Vikings (2026-09-09T13:58:23Z)
-  - Source: https://www.rotoballer.com/player-news/kaleb-johnson-could-play-a-role-in-week-1-against-vikings/1926919
-- **Zay Flowers** — Zay Flowers Working to the Side on Wednesday (2026-09-09T13:51:09Z)
-  - Source: https://www.rotoballer.com/player-news/zay-flowers-working-to-the-side-on-wednesday/1926897
-- **Tyreek Hill** — Tyreek Hill Recommended to Return in October (2026-09-09T13:44:29Z)
-  - Source: https://www.rotoballer.com/player-news/tyreek-hill-recommended-to-return-in-october/1926887
-- **Josh Jacobs** — Packers in Wait-and-See Approach With Josh Jacobs (2026-09-09T13:35:10Z)
-  - Source: https://www.rotoballer.com/player-news/packers-in-wait-and-see-approach-with-josh-jacobs/1926876
-- **Deshaun Watson** — Todd Monken Confident in Deshaun Watson's Downfield Passing Ability (2026-09-09T13:29:05Z)
-  - Source: https://www.rotoballer.com/player-news/todd-monken-confident-in-deshaun-watsons-downfield-passing-ability/1926871
-- **J.K. Dobbins** — J.K. Dobbins Listed as RB1 on Broncos' Depth Chart (2026-09-09T13:13:21Z)
-  - Source: https://www.rotoballer.com/player-news/j-k-dobbins-listed-as-rb1-on-broncos-depth-chart/1926858
-- **George Kittle** — 49ers to Monitor Playing Time for George Kittle in Week 1 (2026-09-09T13:07:18Z)
-  - Source: https://www.rotoballer.com/player-news/49ers-to-monitor-playing-time-for-george-kittle-in-week-1/1926854
