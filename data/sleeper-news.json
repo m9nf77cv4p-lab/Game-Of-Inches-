@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-09T18:55:27Z",
+  "last_checked_at": "2026-09-09T19:09:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|11565|rotowire|636475|1788979551000"
+    "nfl|11565|fantasy_pros|606739|1788980436380",
+    "nfl|11565|rotoballer|220450|1788965475000",
+    "nfl|11583|rotoballer|220449|1788965170000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "McCarthy lost the competition for the starting QB job earlier this offseason to Kyler Murray, and now it appears that he didn't make a strong push for the job, as the team has opted to make him the third QB on their depth chart behind Carson Wentz as well. The team has left the door open to promoting him to backup at some point in the season, but he remains entirely irrelevant for fantasy purposes for the foreseeable future.",
+      "description": "J.J. McCarthy will be the third quarterback on Minnesota's depth chart for their season opener against the Green Bay Packers on Sunday.",
+      "metadata": {
+        "analysis": "McCarthy lost the competition for the starting QB job earlier this offseason to Kyler Murray, and now it appears that he didn't make a strong push for the job, as the team has opted to make him the third QB on their depth chart behind Carson Wentz as well. The team has left the door open to promoting him to backup at some point in the season, but he remains entirely irrelevant for fantasy purposes for the foreseeable future.",
+        "description": "J.J. McCarthy will be the third quarterback on Minnesota's depth chart for their season opener against the Green Bay Packers on Sunday.",
+        "title": "J.J. McCarthy to be QB3 for Week 1",
+        "topic_id": "1403489309989904384",
+        "url": "https://www.fantasypros.com/nfl/news/606739/jj-mccarthy-to-be-qb3-week-1.php"
+      },
+      "nfl_team": "MIN",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1788980436380,
+      "source": "fantasy_pros",
+      "source_key": "606739",
+      "story_id": "nfl|11565|fantasy_pros|606739|1788980436380",
+      "title": "J.J. McCarthy to be QB3 for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606739/jj-mccarthy-to-be-qb3-week-1.php"
+    },
     {
       "analysis": "After losing out in the battle with newcomer Kyler Murray for the starting job prior to the preseason opener, McCarthy will plummet all the way to third on the depth chart heading into Week 1, with Carson Wentz settling in as Murray's top backup. O'Connell said that he considers the No. 2 quarterback \"a week-to-week thing,\" so McCarthy could leapfrog Wentz on the depth chart in future games depending on how he performs during practice. In any case, the fact that the 23-year-old McCarthy has to battle for the No. 2 job less than three years after being selected with the No. 10 overall pick in the 2024 NFL Draft is an indiction Minnesota doesn't view him as its long-term solution under center.",
       "description": "Head coach Kevin O'Connell announced Wednesday that McCarthy will serve as the Vikings' third-string quarterback for Sunday's season opener versus the Packers.",
@@ -544,6 +567,46 @@
       "story_id": "nfl|12514|rotowire|636460|1788970341000",
       "title": "Emeka Egbuka - Looks to be practicing fully Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings head coach Kevin O'Connell told reporters on Wednesday that veteran quarterback Carson Wentz is the backup to starter Kyler Murray and that J.J. McCarthy is the third-stringer to open the 2026 season, according to Ian Rapoport of the NFL Network. It will be a week-to-week evaluation. \"This gives us the best chance to win,\" O'Connell said. The writing was on the wall for the 23-year-old former first-rounder from Michigan when the Vikings signed Murray to a one-year deal this offseason in free agency. McCarthy lost out in the training camp QB battle to Murray, and after struggling in the preseason and getting banged up, he will enter his third year in the NFL as the team's QB3. In his first full season as the Vikings' starter in 2025, McCarthy only played in 10 games due to various injuries and struggled with his accuracy, completing 140 of his 243 pass attempts for 1,632 yards, 11 touchdowns, and 12 interceptions. McCarthy's best path back to fantasy relevance in dynasty/keeper leagues might be a trade out of Minnesota at this point.",
+      "metadata": {
+        "description": "Minnesota Vikings head coach Kevin O'Connell told reporters on Wednesday that veteran quarterback Carson Wentz is the backup to starter Kyler Murray and that J.J. McCarthy is the third-stringer to open the 2026 season, according to Ian Rapoport of the NFL Network. It will be a week-to-week evaluation. \"This gives us the best chance to win,\" O'Connell said. The writing was on the wall for the 23-year-old former first-rounder from Michigan when the Vikings signed Murray to a one-year deal this offseason in free agency. McCarthy lost out in the training camp QB battle to Murray, and after struggling in the preseason and getting banged up, he will enter his third year in the NFL as the team's QB3. In his first full season as the Vikings' starter in 2025, McCarthy only played in 10 games due to various injuries and struggled with his accuracy, completing 140 of his 243 pass attempts for 1,632 yards, 11 touchdowns, and 12 interceptions. McCarthy's best path back to fantasy relevance in dynasty/keeper leagues might be a trade out of Minnesota at this point.",
+        "title": "J.J. McCarthy Demoted to Third-String Role",
+        "topic_id": "1403489304176574464",
+        "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-demoted-to-third-string-role/1926967"
+      },
+      "nfl_team": "MIN",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1788965475000,
+      "source": "rotoballer",
+      "source_key": "220450",
+      "story_id": "nfl|11565|rotoballer|220450|1788965475000",
+      "title": "J.J. McCarthy Demoted to Third-String Role",
+      "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-demoted-to-third-string-role/1926967"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers running back Jonathon Brooks (soreness) was seen in full uniform and pads for Wednesday's practice, according to Mike Kaye of The Charlotte Observer. The Panthers have been playing it safe with Brooks heading into the start of the 2026 regular season after he already tore his ACL twice since being drafted by Carolina. He was practicing off to the side earlier this week, and this report for Kaye suggests that Brooks has a pretty good chance of suiting up for the Week 1 season opener this Sunday, Sept. 13, versus the Chicago Bears. Brooks could have a limited listing on the team's Wednesday practice report, but all signs are pointing to him sharing the Panthers' backfield with Chuba Hubbard this weekend as he looks to stay healthy for the first time since being drafted in the second round out of Texas in 2024. If the 23-year-old is active on Sunday, as expected, fantasy managers should consider him as an RB3/flex option in his first NFL game since the 2024 season.",
+      "metadata": {
+        "description": "Carolina Panthers running back Jonathon Brooks (soreness) was seen in full uniform and pads for Wednesday's practice, according to Mike Kaye of The Charlotte Observer. The Panthers have been playing it safe with Brooks heading into the start of the 2026 regular season after he already tore his ACL twice since being drafted by Carolina. He was practicing off to the side earlier this week, and this report for Kaye suggests that Brooks has a pretty good chance of suiting up for the Week 1 season opener this Sunday, Sept. 13, versus the Chicago Bears. Brooks could have a limited listing on the team's Wednesday practice report, but all signs are pointing to him sharing the Panthers' backfield with Chuba Hubbard this weekend as he looks to stay healthy for the first time since being drafted in the second round out of Texas in 2024. If the 23-year-old is active on Sunday, as expected, fantasy managers should consider him as an RB3/flex option in his first NFL game since the 2024 season.",
+        "title": "Jonathon Brooks in Full Uniform and Pads on Wednesday",
+        "topic_id": "1403488044648001536",
+        "url": "https://www.rotoballer.com/player-news/jonathon-brooks-in-full-uniform-and-pads-on-wednesday/1926965"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1788965170000,
+      "source": "rotoballer",
+      "source_key": "220449",
+      "story_id": "nfl|11583|rotoballer|220449|1788965170000",
+      "title": "Jonathon Brooks in Full Uniform and Pads on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/jonathon-brooks-in-full-uniform-and-pads-on-wednesday/1926965"
     },
     {
       "analysis": null,

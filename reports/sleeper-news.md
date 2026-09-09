@@ -2,12 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2303**
-- Newly captured: **1**
+- Stored stories: **2306**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — J.J. McCarthy** — J.J. McCarthy - Opens season third on depth chart (2026-09-09T18:45:51Z)
+- **NEW — J.J. McCarthy** — J.J. McCarthy to be QB3 for Week 1 (2026-09-09T19:00:36.380000Z)
+  - McCarthy lost the competition for the starting QB job earlier this offseason to Kyler Murray, and now it appears that he didn't make a strong push for the job, as the team has opted to make him the third QB on their depth chart behind Carson Wentz as well. The team has left the door open to promoting him to backup at some point in the season, but he remains entirely irrelevant for fantasy purposes for the foreseeable future.
+  - Source: https://www.fantasypros.com/nfl/news/606739/jj-mccarthy-to-be-qb3-week-1.php
+- **J.J. McCarthy** — J.J. McCarthy - Opens season third on depth chart (2026-09-09T18:45:51Z)
   - After losing out in the battle with newcomer Kyler Murray for the starting job prior to the preseason opener, McCarthy will plummet all the way to third on the depth chart heading into Week 1, with Carson Wentz settling in as Murray's top backup. O'Connell said that he considers the No. 2 quarterback "a week-to-week thing," so McCarthy could leapfrog Wentz on the depth chart in future games depending on how he performs during practice. In any case, the fact that the 23-year-old McCarthy has to battle for the No. 2 job less than three years after being selected with the No. 10 overall pick in the 2024 NFL Draft is an indiction Minnesota doesn't view him as its long-term solution under center.
 - **Khalil Shakir** — Khalil Shakir - Practicing Wednesday (2026-09-09T18:35:12Z)
   - After being sidelined recently by an undisclosed injury, Shakir's presence on the field is an encouraging sign for the wide receiver's availability for Sunday's season opener against the Texans. He's expected to face added competition for targets from trade pickup DJ Moore and a healthy Dalton Kincaid this season.
@@ -71,6 +74,10 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
 - **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
+- **NEW — J.J. McCarthy** — J.J. McCarthy Demoted to Third-String Role (2026-09-09T14:51:15Z)
+  - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-demoted-to-third-string-role/1926967
+- **NEW — Jonathon Brooks** — Jonathon Brooks in Full Uniform and Pads on Wednesday (2026-09-09T14:46:10Z)
+  - Source: https://www.rotoballer.com/player-news/jonathon-brooks-in-full-uniform-and-pads-on-wednesday/1926965
 - **Ashton Jeanty** — Ashton Jeanty Will Practice on Wednesday (2026-09-09T14:30:10Z)
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-will-practice-on-wednesday/1926960
 - **Tee Higgins** — Tee Higgins on Track to Play in Week 1 (2026-09-09T14:22:11Z)
@@ -220,10 +227,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606577/tyler-allgeier-listed-starter-on-cardinals-depth-chart.php
 - **George Kittle** — George Kittle is Limited During Tuesday's Practice (2026-09-08T18:56:23Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-is-limited-during-tuesdays-practice/1926271
-- **Jeremiyah Love** — Jeremiyah Love listed as RB2 on Cardinals depth chart (2026-09-08T18:55:52.610000Z)
-  - Love has been dealing with an ankle sprain leading up to Sunday as well, but he has been trending in the right direction to suit up. The rookie will likely be slowly worked into the offense, which could be the reason for him sitting behind Allgeier on the depth chart.
-  - Source: https://www.fantasypros.com/nfl/news/606576/jeremiyah-love-listed-rb2-on-cardinals-depth-chart.php
-- **Isaiah Davis** — Isaiah Davis - Partakes in practice Tuesday (2026-09-08T18:54:45Z)
-  - Davis' involvement in Tuesday's session bodes well for his chances of being listed as at least a limited participant Wednesday, when the Jets release their first injury report of 2026. The 24-year-old sat out all three of the Jets' preseason games while tending to the knee injury, but if Davis emerges from Week 1 prep without any setbacks, he should be available to serve as the team's No. 3 back behind Breece Hall (groin) and Braelon Allen in Sunday's season opener at Tennessee.
-- **Terrance Ferguson** — Terrance Ferguson is Not Listed on Injury Report (2026-09-08T18:48:11Z)
-  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-is-not-listed-on-injury-report/1926240
