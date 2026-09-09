@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2286**
-- Newly captured: **1**
+- Stored stories: **2289**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Tucker Kraft** — Tucker Kraft - In full pads Wednesday (2026-09-09T17:48:17Z)
+  - Kraft has been in full pads at practice for weeks now and appears ready to go for Sunday's Week 1 opener against the Vikings. He's insisted he's ready and doesn't need to be on a snap count, but it will be something to watch Sunday in Kraft's first game back from a torn ACL. Even if he's somewhat limited, Kraft is a locked-in fantasy TE1.
 - **Rachaad White** — Rachaad White (hamstring) set to practice Wednesday (2026-09-09T17:20:35.832000Z)
   - White's status for Week 1 is still unclear right now thanks to a hamstring injury that he's still dealing with. He is taking part in Wednesday's practice, however, which is a step in the right direction for him. Fantasy managers should pay attention to updates about his health throughout the week, as Jacory Croskey-Merritt will be a significantly better fantasy option if the veteran is sidelined this week.
   - Source: https://www.fantasypros.com/nfl/news/606734/rachaad-white-hamstring-set-to-practice-wednesday.php
@@ -48,7 +50,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
 - **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
-- **NEW — Deshaun Watson** — Todd Monken Confident in Deshaun Watson's Downfield Passing Ability (2026-09-09T13:29:05Z)
+- **NEW — Tyreek Hill** — Tyreek Hill Recommended to Return in October (2026-09-09T13:44:29Z)
+  - Source: https://www.rotoballer.com/player-news/tyreek-hill-recommended-to-return-in-october/1926887
+- **NEW — Josh Jacobs** — Packers in Wait-and-See Approach With Josh Jacobs (2026-09-09T13:35:10Z)
+  - Source: https://www.rotoballer.com/player-news/packers-in-wait-and-see-approach-with-josh-jacobs/1926876
+- **Deshaun Watson** — Todd Monken Confident in Deshaun Watson's Downfield Passing Ability (2026-09-09T13:29:05Z)
   - Source: https://www.rotoballer.com/player-news/todd-monken-confident-in-deshaun-watsons-downfield-passing-ability/1926871
 - **J.K. Dobbins** — J.K. Dobbins Listed as RB1 on Broncos' Depth Chart (2026-09-09T13:13:21Z)
   - Source: https://www.rotoballer.com/player-news/j-k-dobbins-listed-as-rb1-on-broncos-depth-chart/1926858
@@ -218,11 +224,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/chuba-hubbard-listed-as-rb1-on-unofficial-depth-chart/1926195
 - **Baker Mayfield** — Baker Mayfield, Buccaneers Reach Agreement on Three-Year Extension (2026-09-08T17:24:05Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-buccaneers-reach-agreement-on-three-year-extension/1926190
-- **Rome Odunze** — Rome Odunze - Won't practice Tuesday (2026-09-08T17:17:15Z)
-  - Johnson didn't provide many specifics regarding the right leg injury that Odunze sustained in a practice last Thursday, though the coach noted that the issue isn't an aggravation of the foot injury that kept the wideout sidelined for the final five games of the 2025 regular season, per Courtney Cronin of ESPN.com. Odunze will still have three more chances to fit in some practice activity this week before the Bears decide on his status for Sunday's contest, but at this stage, the the team is optimistic that the third-year receiver will be able to play through the leg injury.
-- **Zay Flowers** — Zay Flowers (lower body) practices Tuesday (2026-09-08T17:15:52.735000Z)
-  - Flowers had missed two full weeks of practice with a lower-body injury before returning last Thursday. The wideout being on the field on Tuesday is a good sign for him playing in Week 1, but fantasy managers should keep an eye on him leading up to Sunday. 
-  - Source: https://www.fantasypros.com/nfl/news/606565/zay-flowers-lower-body-practices-tuesday.php
-- **Patrick Mahomes** — Patrick Mahomes II (knee) to start Week 1 barring setback (2026-09-08T17:15:52.286000Z)
-  - Mahomes has officially worked his way back from a torn ACL and LCL suffered in Week 15 last year. He has said he may not run as much coming off the injury, at least early in the season. 
-  - Source: https://www.fantasypros.com/nfl/news/606562/patrick-mahomes-ii-knee-to-start-week-1-barring-setback.php

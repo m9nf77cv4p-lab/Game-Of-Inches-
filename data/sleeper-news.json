@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-09T17:42:20Z",
+  "last_checked_at": "2026-09-09T17:53:38Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|4017|rotoballer|220440|1788960545000"
+    "nfl|3321|rotoballer|220442|1788961469000",
+    "nfl|5850|rotoballer|220441|1788960910000",
+    "nfl|9484|rotowire|636468|1788976097000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Kraft has been in full pads at practice for weeks now and appears ready to go for Sunday's Week 1 opener against the Vikings. He's insisted he's ready and doesn't need to be on a snap count, but it will be something to watch Sunday in Kraft's first game back from a torn ACL. Even if he's somewhat limited, Kraft is a locked-in fantasy TE1.",
+      "description": "Kraft (knee) is in full pads at Wednesday's practice, Matt Schneidman of The Athletic reports.",
+      "metadata": {
+        "analysis": "Kraft has been in full pads at practice for weeks now and appears ready to go for Sunday's Week 1 opener against the Vikings. He's insisted he's ready and doesn't need to be on a snap count, but it will be something to watch Sunday in Kraft's first game back from a torn ACL. Even if he's somewhat limited, Kraft is a locked-in fantasy TE1.",
+        "description": "Kraft (knee) is in full pads at Wednesday's practice, Matt Schneidman of The Athletic reports.",
+        "title": "Tucker Kraft - In full pads Wednesday",
+        "topic_id": "1403471687390957568"
+      },
+      "nfl_team": "GB",
+      "player_id": "9484",
+      "player_name": "Tucker Kraft",
+      "position": "TE",
+      "published": 1788976097000,
+      "source": "rotowire",
+      "source_key": "636468",
+      "story_id": "nfl|9484|rotowire|636468|1788976097000",
+      "title": "Tucker Kraft - In full pads Wednesday",
+      "url": null
+    },
     {
       "analysis": "White's status for Week 1 is still unclear right now thanks to a hamstring injury that he's still dealing with. He is taking part in Wednesday's practice, however, which is a step in the right direction for him. Fantasy managers should pay attention to updates about his health throughout the week, as Jacory Croskey-Merritt will be a significantly better fantasy option if the veteran is sidelined this week.",
       "description": "Rachaad White (hamstring) is set to take part in Washington's practice on Wednesday.",
@@ -341,6 +363,46 @@
       "story_id": "nfl|12514|rotowire|636460|1788970341000",
       "title": "Emeka Egbuka - Looks to be practicing fully Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Agent Drew Rosenhaus said on The Pat McAfee Show on Wednesday that free-agent wide receiver Tyreek Hill (knee) has been doing \"amazing\" in his rehab after tearing multiple ligaments in his knee last year with the Miami Dolphins, but Rosenhaus also said that doctors have recommended that Hill postpone his comeback attempt until sometime in October. Rosenhaus added that he sent a video of Hill running and cutting to some NFL teams, to which they responded with questions about when they could sign him. Hill is playing it \"on the safe side\" as he recovers from his devastating knee injury, but he is getting back up to speed and should sign with an NFL team this fall. The 32-year-old Cheetah, who is an eight-time Pro Bowler and five-time first-team All-Pro, caught just 21 passes for 265 yards and one touchdown in four games in 2025 in his final season with the Dolphins before his season-ending knee injury. Although Hill is no spring chicken anymore and might be a bit slower after his knee injury, he could still make an impact for an NFL team and for fantasy managers later this season, making him worth a roster stash in deeper leagues if you have room on your bench. Right now, Hill is rostered in 4% of Yahoo leagues.",
+      "metadata": {
+        "description": "Agent Drew Rosenhaus said on The Pat McAfee Show on Wednesday that free-agent wide receiver Tyreek Hill (knee) has been doing \"amazing\" in his rehab after tearing multiple ligaments in his knee last year with the Miami Dolphins, but Rosenhaus also said that doctors have recommended that Hill postpone his comeback attempt until sometime in October. Rosenhaus added that he sent a video of Hill running and cutting to some NFL teams, to which they responded with questions about when they could sign him. Hill is playing it \"on the safe side\" as he recovers from his devastating knee injury, but he is getting back up to speed and should sign with an NFL team this fall. The 32-year-old Cheetah, who is an eight-time Pro Bowler and five-time first-team All-Pro, caught just 21 passes for 265 yards and one touchdown in four games in 2025 in his final season with the Dolphins before his season-ending knee injury. Although Hill is no spring chicken anymore and might be a bit slower after his knee injury, he could still make an impact for an NFL team and for fantasy managers later this season, making him worth a roster stash in deeper leagues if you have room on your bench. Right now, Hill is rostered in 4% of Yahoo leagues.",
+        "title": "Tyreek Hill Recommended to Return in October",
+        "topic_id": "1403471686052872192",
+        "url": "https://www.rotoballer.com/player-news/tyreek-hill-recommended-to-return-in-october/1926887"
+      },
+      "nfl_team": null,
+      "player_id": "3321",
+      "player_name": "Tyreek Hill",
+      "position": "WR",
+      "published": 1788961469000,
+      "source": "rotoballer",
+      "source_key": "220442",
+      "story_id": "nfl|3321|rotoballer|220442|1788961469000",
+      "title": "Tyreek Hill Recommended to Return in October",
+      "url": "https://www.rotoballer.com/player-news/tyreek-hill-recommended-to-return-in-october/1926887"
+    },
+    {
+      "analysis": null,
+      "description": "When asked if he hopes that Thursday's initial court appearances in running back Josh Jacobs' case will provide more clarity about his future, Green Bay Packers head coach Matt LaFleur said, \"The more clarity, the better, but it's just wait and see.\" Jacobs is not expected to appear in court on Thursday, but his lawyers will, according to Rob Demovsky of ESPN. Fantasy managers and the Packers are hoping that we will get some clarity on Thursday in terms of a potential suspension for Jacobs, who remains on the commissioner's exempt list. The 28-year-old running back will not be available for the team's Week 1 season opener this Sunday against the division-rival Minnesota Vikings, and it is unclear how much longer he will be out. The uncertainty about Jacobs' status caused his draft stock to plummet, with MarShawn Lloyd now the favorite for lead-back duties in Green Bay in the short term. Jacobs is still rostered in 82% of Yahoo leagues and will be the Packers' top RB when he returns, but in the meantime, he must remain on benches everywhere.",
+      "metadata": {
+        "description": "When asked if he hopes that Thursday's initial court appearances in running back Josh Jacobs' case will provide more clarity about his future, Green Bay Packers head coach Matt LaFleur said, \"The more clarity, the better, but it's just wait and see.\" Jacobs is not expected to appear in court on Thursday, but his lawyers will, according to Rob Demovsky of ESPN. Fantasy managers and the Packers are hoping that we will get some clarity on Thursday in terms of a potential suspension for Jacobs, who remains on the commissioner's exempt list. The 28-year-old running back will not be available for the team's Week 1 season opener this Sunday against the division-rival Minnesota Vikings, and it is unclear how much longer he will be out. The uncertainty about Jacobs' status caused his draft stock to plummet, with MarShawn Lloyd now the favorite for lead-back duties in Green Bay in the short term. Jacobs is still rostered in 82% of Yahoo leagues and will be the Packers' top RB when he returns, but in the meantime, he must remain on benches everywhere.",
+        "title": "Packers in Wait-and-See Approach With Josh Jacobs",
+        "topic_id": "1403470427451305984",
+        "url": "https://www.rotoballer.com/player-news/packers-in-wait-and-see-approach-with-josh-jacobs/1926876"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1788960910000,
+      "source": "rotoballer",
+      "source_key": "220441",
+      "story_id": "nfl|5850|rotoballer|220441|1788960910000",
+      "title": "Packers in Wait-and-See Approach With Josh Jacobs",
+      "url": "https://www.rotoballer.com/player-news/packers-in-wait-and-see-approach-with-josh-jacobs/1926876"
     },
     {
       "analysis": null,
