@@ -2,18 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2297**
-- Newly captured: **3**
+- Stored stories: **2302**
+- Newly captured: **5**
 
 ## Latest news
 
-- **NEW — Malik Nabers** — Malik Nabers (knee) seen practicing Wednesday (2026-09-09T18:10:36.094000Z)
+- **NEW — Khalil Shakir** — Khalil Shakir - Practicing Wednesday (2026-09-09T18:35:12Z)
+  - After being sidelined recently by an undisclosed injury, Shakir's presence on the field is an encouraging sign for the wide receiver's availability for Sunday's season opener against the Texans. He's expected to face added competition for targets from trade pickup DJ Moore and a healthy Dalton Kincaid this season.
+- **NEW — Tyreek Hill** — Tyreek Hill - Delaying comeback (2026-09-09T18:33:30Z)
+  - Hill is not yet 100 percent healthy after dislocating his knee and tearing multiple ligaments last season with the Dolphins. There's been no indication that the 32-year-old has drawn any interest on the open market, as teams are likely waiting for Hill to gain full medical clearance.
+- **Malik Nabers** — Malik Nabers (knee) seen practicing Wednesday (2026-09-09T18:10:36.094000Z)
   - As expected, Nabers was taking part in New York's first official practice of the week on Wednesday. He is trending towards playing in Week 1, but fantasy managers should keep a close eye on any official updates about his status ahead of the season opener on Sunday night.
   - Source: https://www.fantasypros.com/nfl/news/606735/malik-nabers-knee-seen-practicing-wednesday.php
-- **NEW — Ashton Jeanty** — Ashton Jeanty (ankle) set to practice Wednesday (2026-09-09T18:10:36.076000Z)
+- **Ashton Jeanty** — Ashton Jeanty (ankle) set to practice Wednesday (2026-09-09T18:10:36.076000Z)
   - Jeanty will participate in the team's first practice of the week on Wednesday. It is unknown if he will be a limited or full participant, but we should get clarity on that later in the day. His injury status has a lot of implications ahead of Week 1, so it should be monitored closely throughout the week.
   - Source: https://www.fantasypros.com/nfl/news/606736/ashton-jeanty-ankle-set-to-practice-wednesday.php
-- **NEW — Jakobi Meyers** — Jakobi Meyers (hand) says he will play Sunday (2026-09-09T18:10:36.060000Z)
+- **Jakobi Meyers** — Jakobi Meyers (hand) says he will play Sunday (2026-09-09T18:10:36.060000Z)
   - Meyers was practicing in a non-contact jersey on Wednesday due to his hand injury, but it seems that was only a precautionary measure, and he told reporters that he is going to play in the team's season opener on Sunday. His presence will mean more competition for Parker Washington, Brian Thomas Jr., and Travis Hunter against the Browns.
   - Source: https://www.fantasypros.com/nfl/news/606737/jakobi-meyers-hand-says-he-will-play-sunday.php
 - **Jonathon Brooks** — Jonathon Brooks - Practicing in pads Wednesday (2026-09-09T17:58:58Z)
@@ -65,6 +69,12 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
 - **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
+- **NEW — Ashton Jeanty** — Ashton Jeanty Will Practice on Wednesday (2026-09-09T14:30:10Z)
+  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-will-practice-on-wednesday/1926960
+- **NEW — Tee Higgins** — Tee Higgins on Track to Play in Week 1 (2026-09-09T14:22:11Z)
+  - Source: https://www.rotoballer.com/player-news/tee-higgins-on-track-to-play-in-week-1/1926953
+- **NEW — Ja'Marr Chase** — Bengals Feel Good About Ja'Marr Chase Playing in Week 1 (2026-09-09T14:13:20Z)
+  - Source: https://www.rotoballer.com/player-news/bengals-feel-good-about-jamarr-chase-playing-in-week-1/1926946
 - **Kaleb Johnson** — Kaleb Johnson Could Play a Role in Week 1 Against Vikings (2026-09-09T13:58:23Z)
   - Source: https://www.rotoballer.com/player-news/kaleb-johnson-could-play-a-role-in-week-1-against-vikings/1926919
 - **Zay Flowers** — Zay Flowers Working to the Side on Wednesday (2026-09-09T13:51:09Z)
@@ -217,13 +227,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/terrance-ferguson-is-not-listed-on-injury-report/1926240
 - **Jordyn Tyson** — Jordyn Tyson is a Late-Round Stash Option (2026-09-08T18:40:09Z)
   - Source: https://www.rotoballer.com/player-news/jordyn-tyson-is-a-late-round-stash-option/1926229
-- **Sam Darnold** — Sam Darnold Not in Streaming Conversation for Week 1 (2026-09-08T18:37:12Z)
-  - Source: https://www.rotoballer.com/player-news/sam-darnold-not-in-streaming-conversation-for-week-1/1926227
-- **Malik Willis** — Malik Willis Could Offer Late-Round Value (2026-09-08T18:27:17Z)
-  - Source: https://www.rotoballer.com/player-news/malik-willis-could-offer-late-round-value/1926218
-- **Jadarian Price** — Jadarian Price an Intriguing Flex Option in Week 1 (2026-09-08T18:25:16Z)
-  - Source: https://www.rotoballer.com/player-news/jadarian-price-an-intriguing-flex-option-in-week-1/1926216
-- **AJ Barner** — AJ Barner a Potential Tight End Option in Week 1 (2026-09-08T18:23:51Z)
-  - Source: https://www.rotoballer.com/player-news/aj-barner-a-potential-tight-end-option-in-week-1/1926214
-- **Cooper Kupp** — Cooper Kupp Not Worth Rostering in Week 1 (2026-09-08T18:22:14Z)
-  - Source: https://www.rotoballer.com/player-news/cooper-kupp-not-worth-rostering-in-week-1/1926212

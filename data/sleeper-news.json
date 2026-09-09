@@ -1,11 +1,13 @@
 {
-  "last_checked_at": "2026-09-09T18:27:09Z",
+  "last_checked_at": "2026-09-09T18:44:17Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|11632|fantasy_pros|606735|1788977436094",
-    "nfl|12527|fantasy_pros|606736|1788977436076",
-    "nfl|5947|fantasy_pros|606737|1788977436060"
+    "nfl|12527|rotoballer|220447|1788964210000",
+    "nfl|3321|rotowire|636472|1788978810000",
+    "nfl|6801|rotoballer|220445|1788963731000",
+    "nfl|7564|rotoballer|220446|1788963200000",
+    "nfl|8134|rotowire|636473|1788978912000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +17,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "After being sidelined recently by an undisclosed injury, Shakir's presence on the field is an encouraging sign for the wide receiver's availability for Sunday's season opener against the Texans. He's expected to face added competition for targets from trade pickup DJ Moore and a healthy Dalton Kincaid this season.",
+      "description": "Shakir (undisclosed) is on the practice field Wednesday, Joe Buscaglia of The Athletic reports.",
+      "metadata": {
+        "analysis": "After being sidelined recently by an undisclosed injury, Shakir's presence on the field is an encouraging sign for the wide receiver's availability for Sunday's season opener against the Texans. He's expected to face added competition for targets from trade pickup DJ Moore and a healthy Dalton Kincaid this season.",
+        "description": "Shakir (undisclosed) is on the practice field Wednesday, Joe Buscaglia of The Athletic reports.",
+        "title": "Khalil Shakir - Practicing Wednesday",
+        "topic_id": "1403484271527710720"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8134",
+      "player_name": "Khalil Shakir",
+      "position": "WR",
+      "published": 1788978912000,
+      "source": "rotowire",
+      "source_key": "636473",
+      "story_id": "nfl|8134|rotowire|636473|1788978912000",
+      "title": "Khalil Shakir - Practicing Wednesday",
+      "url": null
+    },
+    {
+      "analysis": "Hill is not yet 100 percent healthy after dislocating his knee and tearing multiple ligaments last season with the Dolphins. There's been no indication that the 32-year-old has drawn any interest on the open market, as teams are likely waiting for Hill to gain full medical clearance.",
+      "description": "Hill (knee) has been advised by his doctors to delay his comeback until perhaps sometime in October, agent Drew Rosenhaus said on The Pat McAfee Show on Wednesday.",
+      "metadata": {
+        "analysis": "Hill is not yet 100 percent healthy after dislocating his knee and tearing multiple ligaments last season with the Dolphins. There's been no indication that the 32-year-old has drawn any interest on the open market, as teams are likely waiting for Hill to gain full medical clearance.",
+        "description": "Hill (knee) has been advised by his doctors to delay his comeback until perhaps sometime in October, agent Drew Rosenhaus said on The Pat McAfee Show on Wednesday.",
+        "title": "Tyreek Hill - Delaying comeback",
+        "topic_id": "1403484271502544896"
+      },
+      "nfl_team": null,
+      "player_id": "3321",
+      "player_name": "Tyreek Hill",
+      "position": "WR",
+      "published": 1788978810000,
+      "source": "rotowire",
+      "source_key": "636472",
+      "story_id": "nfl|3321|rotowire|636472|1788978810000",
+      "title": "Tyreek Hill - Delaying comeback",
+      "url": null
+    },
     {
       "analysis": "As expected, Nabers was taking part in New York's first official practice of the week on Wednesday. He is trending towards playing in Week 1, but fantasy managers should keep a close eye on any official updates about his status ahead of the season opener on Sunday night.",
       "description": "Malik Nabers (knee) was seen participating at New York's practice on Wednesday.",
@@ -486,6 +528,66 @@
       "story_id": "nfl|12514|rotowire|636460|1788970341000",
       "title": "Emeka Egbuka - Looks to be practicing fully Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders head coach Klint Kubiak said that second-year running back Ashton Jeanty (ankle) will practice on Wednesday, according to Ryan McFadden of ESPN. Jeanty's Week 1 status against the Miami Dolphins this Sunday has been somewhat up in the air since he sustained a low-ankle sprain in a preseason game on Aug. 23, but the Raiders have maintained optimism that he will play all along, and his presence at practice (even if limited) is a good sign. If healthy in 2026, the 22-year-old former sixth overall pick from Boise State should be at least a strong RB2 for fantasy managers in a Raiders offense that is expected to be more consistent under Kubiak. In his first NFL campaign in 2025, Jeanty had 1,321 yards from scrimmage and 10 total touchdowns (five rushing, five receiving) in 17 starts. Jeanty could be a bit more volatile for fantasy managers in the Week 1 season opener this year if he is at less than 100 percent, especially with rookie backup Mike Washington Jr. gaining some steam after a strong training camp this summer.",
+      "metadata": {
+        "description": "Las Vegas Raiders head coach Klint Kubiak said that second-year running back Ashton Jeanty (ankle) will practice on Wednesday, according to Ryan McFadden of ESPN. Jeanty's Week 1 status against the Miami Dolphins this Sunday has been somewhat up in the air since he sustained a low-ankle sprain in a preseason game on Aug. 23, but the Raiders have maintained optimism that he will play all along, and his presence at practice (even if limited) is a good sign. If healthy in 2026, the 22-year-old former sixth overall pick from Boise State should be at least a strong RB2 for fantasy managers in a Raiders offense that is expected to be more consistent under Kubiak. In his first NFL campaign in 2025, Jeanty had 1,321 yards from scrimmage and 10 total touchdowns (five rushing, five receiving) in 17 starts. Jeanty could be a bit more volatile for fantasy managers in the Week 1 season opener this year if he is at less than 100 percent, especially with rookie backup Mike Washington Jr. gaining some steam after a strong training camp this summer.",
+        "title": "Ashton Jeanty Will Practice on Wednesday",
+        "topic_id": "1403483011332235264",
+        "url": "https://www.rotoballer.com/player-news/ashton-jeanty-will-practice-on-wednesday/1926960"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1788964210000,
+      "source": "rotoballer",
+      "source_key": "220447",
+      "story_id": "nfl|12527|rotoballer|220447|1788964210000",
+      "title": "Ashton Jeanty Will Practice on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/ashton-jeanty-will-practice-on-wednesday/1926960"
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals head coach Zac Taylor said on Wednesday that he likes the pace that wide receiver Tee Higgins (heel) is on and feels good about him playing in Week 1 against the Tampa Bay Buccaneers this Sunday, Sept. 13, according to BengalsTalk.com's Jay Morrison. The Bengals announced last week that Higgins has been dealing with a bruised heel, but it is a minor injury and should not impact his availability or snap count in the regular-season opener this weekend. In addition to Higgins, quarterback Joe Burrow is expected to have top receiver Ja'Marr Chase (knee) available against the Bucs after hyperextending his knee a few weeks ago in a training camp practice. Even though he is in the shadow of Chase, the consensus No. 1 overall fantasy WR, Higgins has WR1 upside on any given week in Cincy's explosive passing offense. The Bengals could ease Higgins into practice this week and keep him limited on Wednesday, but that should not concern fantasy managers whatsoever.",
+      "metadata": {
+        "description": "Cincinnati Bengals head coach Zac Taylor said on Wednesday that he likes the pace that wide receiver Tee Higgins (heel) is on and feels good about him playing in Week 1 against the Tampa Bay Buccaneers this Sunday, Sept. 13, according to BengalsTalk.com's Jay Morrison. The Bengals announced last week that Higgins has been dealing with a bruised heel, but it is a minor injury and should not impact his availability or snap count in the regular-season opener this weekend. In addition to Higgins, quarterback Joe Burrow is expected to have top receiver Ja'Marr Chase (knee) available against the Bucs after hyperextending his knee a few weeks ago in a training camp practice. Even though he is in the shadow of Chase, the consensus No. 1 overall fantasy WR, Higgins has WR1 upside on any given week in Cincy's explosive passing offense. The Bengals could ease Higgins into practice this week and keep him limited on Wednesday, but that should not concern fantasy managers whatsoever.",
+        "title": "Tee Higgins on Track to Play in Week 1",
+        "topic_id": "1403481752722317312",
+        "url": "https://www.rotoballer.com/player-news/tee-higgins-on-track-to-play-in-week-1/1926953"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6801",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "published": 1788963731000,
+      "source": "rotoballer",
+      "source_key": "220445",
+      "story_id": "nfl|6801|rotoballer|220445|1788963731000",
+      "title": "Tee Higgins on Track to Play in Week 1",
+      "url": "https://www.rotoballer.com/player-news/tee-higgins-on-track-to-play-in-week-1/1926953"
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals head coach Zac Taylor said he likes the pace that wide receiver Ja'Marr Chase (knee) is on and feels good about him playing in Week 1 on Sunday against the Tampa Bay Buccaneers, according to Jay Morrison of BengalsTalk.com. Chase suffered a hyperextended left knee late in a training camp practice, but he has recovered nicely with some rest and is fully expected to suit up and be a full-go in the regular-season opener this weekend against Tampa. Fellow wideout Tee Higgins (heel), who has been dealing with a minor heel injury, should be a full-go as well, so quarterback Joe Burrow's fantasy managers should have nothing to worry about to open the 2026 campaign. Chase was the first receiver off the board in most fantasy football drafts this summer, and he should be locked into all starting lineups for this weekend's game against the Bucs. The Bengals could list Chase as limited in Wednesday's practice, but that should not set off alarm bells for fantasy managers. Until further notice, Chase is expected to play in Week 1.",
+      "metadata": {
+        "description": "Cincinnati Bengals head coach Zac Taylor said he likes the pace that wide receiver Ja'Marr Chase (knee) is on and feels good about him playing in Week 1 on Sunday against the Tampa Bay Buccaneers, according to Jay Morrison of BengalsTalk.com. Chase suffered a hyperextended left knee late in a training camp practice, but he has recovered nicely with some rest and is fully expected to suit up and be a full-go in the regular-season opener this weekend against Tampa. Fellow wideout Tee Higgins (heel), who has been dealing with a minor heel injury, should be a full-go as well, so quarterback Joe Burrow's fantasy managers should have nothing to worry about to open the 2026 campaign. Chase was the first receiver off the board in most fantasy football drafts this summer, and he should be locked into all starting lineups for this weekend's game against the Bucs. The Bengals could list Chase as limited in Wednesday's practice, but that should not set off alarm bells for fantasy managers. Until further notice, Chase is expected to play in Week 1.",
+        "title": "Bengals Feel Good About Ja'Marr Chase Playing in Week 1",
+        "topic_id": "1403481752726511616",
+        "url": "https://www.rotoballer.com/player-news/bengals-feel-good-about-jamarr-chase-playing-in-week-1/1926946"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1788963200000,
+      "source": "rotoballer",
+      "source_key": "220446",
+      "story_id": "nfl|7564|rotoballer|220446|1788963200000",
+      "title": "Bengals Feel Good About Ja'Marr Chase Playing in Week 1",
+      "url": "https://www.rotoballer.com/player-news/bengals-feel-good-about-jamarr-chase-playing-in-week-1/1926946"
     },
     {
       "analysis": null,
