@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-09T04:46:55Z",
+  "last_checked_at": "2026-09-09T05:14:37Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 283,
+  "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|5870|rotoballer|220403|1788914527000",
-    "nfl|9502|rotoballer|220402|1788914058000"
+    "nfl|3257|rotoballer|220404|1788915259000"
   ],
   "schema_version": 1,
   "source": {
@@ -33,6 +32,26 @@
       "story_id": "nfl|4217|rotowire|636457|1788922162000",
       "title": "George Kittle - Could see limited Week 1 role",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals quarterback Jacoby Brissett is coming off a fantastic season in 2025, so he remains on the fantasy radar as a deep-league streamer for Week 1 of the 2026 season. From Weeks 6-18 last year, Brissett was the overall QB6 in fantasy football and averaged 19.6 fantasy points per game. He ranked as a top-14 fantasy quarterback in 11 of his 12 starts, as well as a top-12 fantasy quarterback in nine of those starts. It's too early to tell whether Brissett will be able to replicate that level of performance this year. He's not a flashy name by any means, but he should have a high passing volume with the Cardinals projected to be trailing in games often. He also has a very talented supporting cast around him, headlined by Marvin Harrison Jr., Trey McBride, and Michael Wilson. The biggest obstacle in Brissett's way is his Week 1 matchup against the Chargers, who allowed the third-fewest fantasy points to quarterbacks last year. While Brissett may not be worth starting in single-quarterback leagues with 12 or fewer teams, he's a solid superflex option or deep-league streamer given the state of the Cardinals' offense.",
+      "metadata": {
+        "description": "Arizona Cardinals quarterback Jacoby Brissett is coming off a fantastic season in 2025, so he remains on the fantasy radar as a deep-league streamer for Week 1 of the 2026 season. From Weeks 6-18 last year, Brissett was the overall QB6 in fantasy football and averaged 19.6 fantasy points per game. He ranked as a top-14 fantasy quarterback in 11 of his 12 starts, as well as a top-12 fantasy quarterback in nine of those starts. It's too early to tell whether Brissett will be able to replicate that level of performance this year. He's not a flashy name by any means, but he should have a high passing volume with the Cardinals projected to be trailing in games often. He also has a very talented supporting cast around him, headlined by Marvin Harrison Jr., Trey McBride, and Michael Wilson. The biggest obstacle in Brissett's way is his Week 1 matchup against the Chargers, who allowed the third-fewest fantasy points to quarterbacks last year. While Brissett may not be worth starting in single-quarterback leagues with 12 or fewer teams, he's a solid superflex option or deep-league streamer given the state of the Cardinals' offense.",
+        "title": "Jacoby Brissett a Viable Streamer in Deeper Leagues",
+        "topic_id": "1403277860554199040",
+        "url": "https://www.rotoballer.com/player-news/jacoby-brissett-a-viable-streamer-in-deeper-leagues/1926432"
+      },
+      "nfl_team": "ARI",
+      "player_id": "3257",
+      "player_name": "Jacoby Brissett",
+      "position": "QB",
+      "published": 1788915259000,
+      "source": "rotoballer",
+      "source_key": "220404",
+      "story_id": "nfl|3257|rotoballer|220404|1788915259000",
+      "title": "Jacoby Brissett a Viable Streamer in Deeper Leagues",
+      "url": "https://www.rotoballer.com/player-news/jacoby-brissett-a-viable-streamer-in-deeper-leagues/1926432"
     },
     {
       "analysis": null,
@@ -362,7 +381,7 @@
       "metadata": {
         "analysis": "Stevenson and Henderson are expected to have a fairly equitable split of the backfield when both are fully healthy, but the latter's absence for Week 1 should clear the way for Stevenson to handle a workhorse role. The Patriots have Corey Kiner on hand as a backup option, and at least one of Lan Larison and Hassan Haskins will be promoted from the practice squad for the opener, but none are expected to poach much work from Stevenson on early or passing downs. With a big workload likely awaiting him Wednesday, Stevenson should make for a strong option in Week 1 fantasy lineups, even in a tough matchup against the reigning Super Bowl champions.",
         "description": "Stevenson is expected to see the bulk of the snaps and touches out of the backfield Wednesday against the Seahawks after teammate TreVeyon Henderson (ankle) was ruled out for the season opener, Mike Reiss of ESPN.com reports.",
-        "title": "Rhamondre Stevenson - Lead role awaits in season opener",
+        "title": "Rhamondre Stevenson - Lead role awaits in opener",
         "topic_id": "1403173415665299456"
       },
       "nfl_team": "NE",
@@ -373,7 +392,7 @@
       "source": "rotowire",
       "source_key": "636408",
       "story_id": "nfl|7611|rotowire|636408|1788904899000",
-      "title": "Rhamondre Stevenson - Lead role awaits in season opener",
+      "title": "Rhamondre Stevenson - Lead role awaits in opener",
       "url": null
     },
     {

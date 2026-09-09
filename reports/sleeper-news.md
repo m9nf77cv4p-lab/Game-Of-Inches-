@@ -2,16 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2244**
-- Newly captured: **2**
+- Stored stories: **2245**
+- Newly captured: **1**
 
 ## Latest news
 
 - **George Kittle** — George Kittle - Could see limited Week 1 role (2026-09-09T02:49:22Z)
   - "We got to be smart with that," Shanahan said. With Kittle having been listed as a limited participant Tuesday after returning from the active/PUP list a little over two weeks ago, Shanahan's comments suggest San Francisco is preparing to manage the tight end's Week 1 snaps. Kittle figures to be featured on third downs and in the scoring area if his playing time is limited, and Jake Tonges could see elevated snaps as the Niners' TE2.
-- **NEW — Daniel Jones** — Daniel Jones a Priority Waiver Wire Target for Week 1 (2026-09-09T00:42:07Z)
+- **NEW — Jacoby Brissett** — Jacoby Brissett a Viable Streamer in Deeper Leagues (2026-09-09T00:54:19Z)
+  - Source: https://www.rotoballer.com/player-news/jacoby-brissett-a-viable-streamer-in-deeper-leagues/1926432
+- **Daniel Jones** — Daniel Jones a Priority Waiver Wire Target for Week 1 (2026-09-09T00:42:07Z)
   - Source: https://www.rotoballer.com/player-news/daniel-jones-a-priority-waiver-wire-target-for-week-1/1926427
-- **NEW — Tank Dell** — Tank Dell an Intriguing Stash in Leagues with an IR Spot (2026-09-09T00:34:18Z)
+- **Tank Dell** — Tank Dell an Intriguing Stash in Leagues with an IR Spot (2026-09-09T00:34:18Z)
   - Source: https://www.rotoballer.com/player-news/tank-dell-an-intriguing-stash-in-leagues-with-an-ir-spot/1926425
 - **George Kittle** — George Kittle (Achilles) limited in practice Tuesday  (2026-09-09T00:00:23.558000Z)
   - Kittle remains on track to be good to go for Thursday's season opener coming off an Achilles tear. It is unclear if he'll be facing any sort of snap count on Thursday. 
@@ -43,7 +45,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/cyrus-allen-a-top-waiver-wire-stash-heading-into-week-1/1926387
 - **Cyrus Allen** — Cyrus Allen - Labeled as reserve on depth chart (2026-09-08T22:05:12Z)
   - A rookie fifth-round pick out of Cincinnati, Allen generated plenty of positive buzz in training camp and the preseason, but he doesn't appear to have a path to meaningful playing time heading into Week 1 while the Chiefs' receiving corps is at full strength. Rashee Rice and Xavier Worthy are locked in as the clear top two options on the depth chart, but Allen could eventually push Tyquan Thornton for the No. 3 spot. Thornton possesses more speed of the two and found some success as a vertical threat for the Chiefs last season, but Allen offers a more diverse route tree and could be a higher-volume target earner if Rice were to miss time at any point.
-- **Rhamondre Stevenson** — Rhamondre Stevenson - Lead role awaits in season opener (2026-09-08T22:01:39Z)
+- **Rhamondre Stevenson** — Rhamondre Stevenson - Lead role awaits in opener (2026-09-08T22:01:39Z)
   - Stevenson and Henderson are expected to have a fairly equitable split of the backfield when both are fully healthy, but the latter's absence for Week 1 should clear the way for Stevenson to handle a workhorse role. The Patriots have Corey Kiner on hand as a backup option, and at least one of Lan Larison and Hassan Haskins will be promoted from the practice squad for the opener, but none are expected to poach much work from Stevenson on early or passing downs. With a big workload likely awaiting him Wednesday, Stevenson should make for a strong option in Week 1 fantasy lineups, even in a tough matchup against the reigning Super Bowl champions.
 - **AJ Barner** — AJ Barner (oblique) off injury report Wednesday  (2026-09-08T21:30:22.081000Z)
   - Barner practiced all week in full. He'll be a TE2 for fantasy managers going into the season. 
@@ -217,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/george-holani-brings-early-season-upside/1925733
 - **Adonai Mitchell** — Adonai Mitchell Makes a Solid Stash for Depth (2026-09-08T09:13:32Z)
   - Source: https://www.rotoballer.com/player-news/adonai-mitchell-makes-a-solid-stash-for-depth/1925724
-- **George Kittle** — George Kittle - Looking increasingly likely to play vs. Rams (2026-09-08T04:09:34Z)
-  - Earlier in the day, 49ers offensive coordinator Klay Kubiak said of Kittle: "Super impressed with how he's looked considering the injury and how quick he got back on the field. It's cool to me to see how Kittle looks ... Workload will be determined," per Cam Inman of The San Jose Mercury News. While that doesn't fully confirm that the star tight end will be ready to play in the season opener against the Rams, the fact that the team seems to be focused on Kittle's gameday workload, rather than his general playing status, suggests that he's more likely than not to suit up. Kubiak did give the caveat that Kittle will need to get through San Francisco's final practices before a decision is ultimately made, and the club's injury reports this week should shed further light on Kittle's level of participation in practice as well as his outlook for the Friday (local time) NFC West clash.
