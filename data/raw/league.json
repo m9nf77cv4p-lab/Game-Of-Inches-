@@ -107,7 +107,7 @@
     "best_ball": 0,
     "capacity_override": 1,
     "commissioner_direct_invite": 0,
-    "daily_waivers": 1,
+    "daily_waivers": 0,
     "daily_waivers_days": 5461,
     "daily_waivers_hour": 22,
     "daily_waivers_last_ran": 8,

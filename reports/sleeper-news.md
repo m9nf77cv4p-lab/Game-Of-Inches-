@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2251**
-- Newly captured: **0**
+- Stored stories: **2252**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Tyler Allgeier** — Tyler Allgeier Set for a Lead Role in Week 1 (2026-09-09T09:12:06Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-allgeier-set-for-a-lead-role-in-week-1/1926555
 - **George Kittle** — George Kittle - Could see limited Week 1 role (2026-09-09T02:49:22Z)
   - "We got to be smart with that," Shanahan said. With Kittle having been listed as a limited participant Tuesday after returning from the active/PUP list a little over two weeks ago, Shanahan's comments suggest San Francisco is preparing to manage the tight end's Week 1 snaps. Kittle figures to be featured on third downs and in the scoring area if his playing time is limited, and Jake Tonges could see elevated snaps as the Niners' TE2.
 - **Romeo Doubs** — Romeo Doubs Fighting for Fantasy Relevance Right Away (2026-09-09T01:43:07Z)
@@ -217,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/dj-moore-could-be-on-the-field-constantly/1925896
 - **T.J. Hockenson** — T.J. Hockenson Only a Deep-League Waiver Add for Week 1 (2026-09-08T11:15:24Z)
   - Source: https://www.rotoballer.com/player-news/t-j-hockenson-only-a-deep-league-waiver-add-for-week-1/1925890
-- **Malachi Fields** — Malachi Fields Emerging As Target for Week 1 (2026-09-08T10:41:58Z)
-  - Source: https://www.rotoballer.com/player-news/malachi-fields-emerging-as-target-for-week-1/1925820

@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-09T06:37:08Z",
+  "last_checked_at": "2026-09-09T13:23:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|8132|rotoballer|220414|1788945126000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back Tyler Allgeier is projected to be the backfield's leader in Week 1's matchup against the Los Angeles Chargers. With the Atlanta Falcons in 2025, Allgeier totaled 610 scrimmage yards and eight touchdowns on 157 attempts in 17 games. He signed a two-year deal with the Cardinals during the offseason, but the team spent the third-overall pick on rookie Jeremiyah Love. Both are expected to form a one-two punch in the backfield, but Love's ankle injury makes his Week 1 status unclear. The Cardinals listed Allgeier as the starting back with Love as the backup on their depth chart. The Chargers were the sixth-best defense against running backs last season, and a negative game script is expected against the Cardinals, making Allgeier and Love risky Week 1 starts.",
+      "metadata": {
+        "description": "Arizona Cardinals running back Tyler Allgeier is projected to be the backfield's leader in Week 1's matchup against the Los Angeles Chargers. With the Atlanta Falcons in 2025, Allgeier totaled 610 scrimmage yards and eight touchdowns on 157 attempts in 17 games. He signed a two-year deal with the Cardinals during the offseason, but the team spent the third-overall pick on rookie Jeremiyah Love. Both are expected to form a one-two punch in the backfield, but Love's ankle injury makes his Week 1 status unclear. The Cardinals listed Allgeier as the starting back with Love as the backup on their depth chart. The Chargers were the sixth-best defense against running backs last season, and a negative game script is expected against the Cardinals, making Allgeier and Love risky Week 1 starts.",
+        "title": "Tyler Allgeier Set for a Lead Role in Week 1",
+        "topic_id": "1403402443177385984",
+        "url": "https://www.rotoballer.com/player-news/tyler-allgeier-set-for-a-lead-role-in-week-1/1926555"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8132",
+      "player_name": "Tyler Allgeier",
+      "position": "RB",
+      "published": 1788945126000,
+      "source": "rotoballer",
+      "source_key": "220414",
+      "story_id": "nfl|8132|rotoballer|220414|1788945126000",
+      "title": "Tyler Allgeier Set for a Lead Role in Week 1",
+      "url": "https://www.rotoballer.com/player-news/tyler-allgeier-set-for-a-lead-role-in-week-1/1926555"
+    },
     {
       "analysis": "\"We got to be smart with that,\" Shanahan said. With Kittle having been listed as a limited participant Tuesday after returning from the active/PUP list a little over two weeks ago, Shanahan's comments suggest San Francisco is preparing to manage the tight end's Week 1 snaps. Kittle figures to be featured on third downs and in the scoring area if his playing time is limited, and Jake Tonges could see elevated snaps as the Niners' TE2.",
       "description": "Coach Kyle Shanahan said Tuesday that Kittle (Achilles) could have his workload monitored against the Rams on Thursday, Matt Maiocco of NBC Sports Bay Area reports.",
