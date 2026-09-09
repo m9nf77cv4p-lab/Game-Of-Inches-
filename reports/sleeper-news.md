@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2234**
+- Stored stories: **2236**
 - Newly captured: **2**
 
 ## Latest news
@@ -47,9 +47,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Henderson's absence for the opener hardly comes as a surprise with his ankle injury having kept him from practicing in any capacity since Aug. 24. With Henderson sidelined for the opener, Rhamondre Stevenson will have a clear path to earning the bulk of snaps and touches out of the backfield. Corey Kiner will serve as the Stevenson's top understudy, and the Patriots will likely elevate one or both of Lan Larison and Hassan Haskins from the practice squad to add depth at the position.
 - **Tory Horton** — Tory Horton - Taking questionable tag into Week 1 (2026-09-08T20:54:50Z)
   - Horton missed the final nine games of the regular season as well as the entirety of the Seahawks' playoff run due to a shin fracture as well as a groin issue, then required offseason surgery to address the injuries. Though he was deemed ready to go for the start of training camp, Horton ended up succumbing to a hamstring injury around the middle of August. Though his hamstring isn't viewed as a long-term concern, Horton had his practice participation managed this week and may not get clearance to suit up Wednesday. If he's able to avoid the inactive list, Horton will likely be in line for a small role as the Seahawks' No. 4 wide receiver behind Jaxon Smith-Njigba, Rashid Shaheed and Cooper Kupp.
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling Not Listed on 49ers Injury Report on Tuesday (2026-09-08T20:17:06Z)
+- **NEW — Puka Nacua** — Puka Nacua Not Listed on Rams' Initial Week 1 Injury Report (2026-09-08T20:34:46Z)
+  - Source: https://www.rotoballer.com/player-news/puka-nacua-not-listed-on-rams-initial-week-1-injury-report/1926327
+- **NEW — Christian McCaffrey** — Christian McCaffrey Avoids 49ers Injury Report Ahead of Week 1 (2026-09-08T20:27:06Z)
+  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-avoids-49ers-injury-report-ahead-of-week-1/1926321
+- **De'Zhaun Stribling** — De'Zhaun Stribling Not Listed on 49ers Injury Report on Tuesday (2026-09-08T20:17:06Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-not-listed-on-49ers-injury-report-on-tuesday/1926314
-- **NEW — Mike Evans** — Mike Evans Not Listed on 49ers Week 1 Injury Report (2026-09-08T20:10:05Z)
+- **Mike Evans** — Mike Evans Not Listed on 49ers Week 1 Injury Report (2026-09-08T20:10:05Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-not-listed-on-49ers-week-1-injury-report/1926307
 - **Tyler Allgeier** — Tyler Allgeier - No. 1 back on unofficial depth chart (2026-09-08T20:08:23Z)
   - Head coach Mike LaFleur expressed optimism Tuesday that Jeremiyah Love would be ready to play Sunday after suffering a high-ankle sprain in the Cardinals' preseason opener, but the No. 3 overall pick in April's draft isn't expected to handle a workhorse role right away coming off the injury. While Love should emerge as the clear No. 1 option once he's further removed from the injury, Allgeier appears well-positioned to have a meaningful role in the Week 1 game plan, regardless of whether he ends up starting or not.
@@ -215,7 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-in-full-uniform-for-practice/1925601
 - **Malik Davis** — Malik Davis a Priority Handcuff on the Waiver Wire (2026-09-08T00:46:09Z)
   - Source: https://www.rotoballer.com/player-news/malik-davis-a-priority-handcuff-on-the-waiver-wire/1925597
-- **Ollie Gordon** — Ollie Gordon - Ditches non-contact jersey (2026-09-07T23:26:10Z)
-  - Gordon has finally returned to practice without the non-contact jersey. The running back may be ready to go for Miami's Week 1 matchup with the Raiders on Sunday, but he could be held out as a precaution. The second-year pro is set to serve as the No. 3 option behind De'Von Achane and Jaylen Wright, meaning the Dolphins arguably have the luxury of giving Gordon an extra week to recover if necessary.
-- **Ray Davis** — Ray Davis Offers Late-Round Value (2026-09-07T22:55:05Z)
-  - Source: https://www.rotoballer.com/player-news/ray-davis-offers-late-round-value/1925582

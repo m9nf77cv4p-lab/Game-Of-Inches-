@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-09T00:32:27Z",
+  "last_checked_at": "2026-09-09T00:51:45Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13417|rotoballer|220392|1788898626000",
-    "nfl|2216|rotoballer|220391|1788898205000"
+    "nfl|4034|rotoballer|220393|1788899226000",
+    "nfl|9493|rotoballer|220394|1788899686000"
   ],
   "schema_version": 1,
   "source": {
@@ -359,6 +359,46 @@
       "story_id": "nfl|12497|rotowire|636405|1788900890000",
       "title": "Tory Horton - Taking questionable tag into Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Puka Nacua is not listed on his team's initial injury report ahead of its season opener against the San Francisco 49ers on Thursday. Nacua dealt with a psoas muscle injury towards the end of the preseason, but it appears that he is fully ready to go heading into Week 1. The 25-year-old put together a dominant season in 2025, recording 129 catches for 1,715 yards and 10 touchdowns on 166 targets across 16 games. Across the first 44 games of his professional career, Nacua is the NFL's all-time leader in receiving yards per game (95.3). As long as he's on the field, Nacua profiles as an elite fantasy wide receiver who could finish the year as the overall WR1.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Puka Nacua is not listed on his team's initial injury report ahead of its season opener against the San Francisco 49ers on Thursday. Nacua dealt with a psoas muscle injury towards the end of the preseason, but it appears that he is fully ready to go heading into Week 1. The 25-year-old put together a dominant season in 2025, recording 129 catches for 1,715 yards and 10 touchdowns on 166 targets across 16 games. Across the first 44 games of his professional career, Nacua is the NFL's all-time leader in receiving yards per game (95.3). As long as he's on the field, Nacua profiles as an elite fantasy wide receiver who could finish the year as the overall WR1.",
+        "title": "Puka Nacua Not Listed on Rams' Initial Week 1 Injury Report",
+        "topic_id": "1403213681935851520",
+        "url": "https://www.rotoballer.com/player-news/puka-nacua-not-listed-on-rams-initial-week-1-injury-report/1926327"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1788899686000,
+      "source": "rotoballer",
+      "source_key": "220394",
+      "story_id": "nfl|9493|rotoballer|220394|1788899686000",
+      "title": "Puka Nacua Not Listed on Rams' Initial Week 1 Injury Report",
+      "url": "https://www.rotoballer.com/player-news/puka-nacua-not-listed-on-rams-initial-week-1-injury-report/1926327"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers running back Christian McCaffrey is not among the players listed on the injury report ahead of his team's season opener against the Los Angeles Rams on Thursday. McCaffrey's participation in training camp was limited due to undisclosed tightness, but it appears he is fully ready to go ahead of Week 1. The star running back led the NFL with 413 touches in 2025, so San Francisco may simply have been taking every available precaution to limit his workload over the summer. The ability to stay healthy throughout the entire season remains a concern for McCaffrey, who is entering his age-30 campaign and has missed 10 games or more in three of his nine career NFL seasons. Still, McCaffrey looks to be healthy entering 2026, and he remains a high-end RB1 option for fantasy managers as long as he is on the field.",
+      "metadata": {
+        "description": "San Francisco 49ers running back Christian McCaffrey is not among the players listed on the injury report ahead of his team's season opener against the Los Angeles Rams on Thursday. McCaffrey's participation in training camp was limited due to undisclosed tightness, but it appears he is fully ready to go ahead of Week 1. The star running back led the NFL with 413 touches in 2025, so San Francisco may simply have been taking every available precaution to limit his workload over the summer. The ability to stay healthy throughout the entire season remains a concern for McCaffrey, who is entering his age-30 campaign and has missed 10 games or more in three of his nine career NFL seasons. Still, McCaffrey looks to be healthy entering 2026, and he remains a high-end RB1 option for fantasy managers as long as he is on the field.",
+        "title": "Christian McCaffrey Avoids 49ers Injury Report Ahead of Week 1",
+        "topic_id": "1403211165244346368",
+        "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-avoids-49ers-injury-report-ahead-of-week-1/1926321"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1788899226000,
+      "source": "rotoballer",
+      "source_key": "220393",
+      "story_id": "nfl|4034|rotoballer|220393|1788899226000",
+      "title": "Christian McCaffrey Avoids 49ers Injury Report Ahead of Week 1",
+      "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-avoids-49ers-injury-report-ahead-of-week-1/1926321"
     },
     {
       "analysis": null,
