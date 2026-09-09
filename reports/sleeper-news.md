@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2238**
+- Stored stories: **2239**
 - Newly captured: **1**
 
 ## Latest news
@@ -20,12 +20,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Evans has been slowed by injuries since early August, but he apparently is back at 100 percent in advance of Week 1. Barring any setbacks, he seems set to fill a starting wide receiver spot when the 49ers kick off their 2026 campaign against the Rams in Australia.
 - **George Kittle** — George Kittle - Listed as limited participant (2026-09-08T22:54:09Z)
   - Kittle has been practicing regularly since being activated from the active/PUP list a little over two weeks ago, and although he seemingly did not take part in every drill Tuesday, he was able to get at least some work in at San Francisco's first official practice session of the week. He could wind up a full participant before kickoff, and even still the door remains open for him to suit up for Week 1.
+- **NEW — Jaylin Noel** — Jaylin Noel Gaining Value With Injuries to the Texans Receiving Room (2026-09-08T22:40:07Z)
+  - Source: https://www.rotoballer.com/player-news/jaylin-noel-gaining-value-with-injuries-to-the-texans-receiving-room/1926407
 - **Christian McCaffrey** — Christian McCaffrey - Not listed on injury report (2026-09-08T22:39:55Z)
   - McCaffrey's status has been a hot topic for nearly a month, particularly after it was reported in mid-August that he was dealing with some sort of "tightness." However, McCaffrey himself said in late August that he always planned to take it easy during training camp, and San Francisco's first injury report of the year confirms he is back at 100 percent. As such, it seems likely he will be able to fill his regular role when the 49ers kick off their season against the Rams in Australia.
 - **Puka Nacua** — Puka Nacua not listed on Rams first injury report (2026-09-08T22:35:22.707000Z)
   - Puka has been dealing with a psoas injury for a little over a week, but his absence on the injury report is a big indication that barring a setback, he will play on Thursday. The star receiver should be a full go and lock into fantasy lineups.
   - Source: https://www.fantasypros.com/nfl/news/606631/puka-nacua-not-listed-on-rams-first-injury-report.php
-- **NEW — Jordan Love** — Jordan Love a Must-Add off the Waiver Wire Heading into Week 1 (2026-09-08T22:24:06Z)
+- **Jordan Love** — Jordan Love a Must-Add off the Waiver Wire Heading into Week 1 (2026-09-08T22:24:06Z)
   - Source: https://www.rotoballer.com/player-news/jordan-love-a-must-add-off-the-waiver-wire-heading-into-week-1/1926396
 - **Cyrus Allen** — Cyrus Allen a Top Waiver Wire Stash Heading Into Week 1 (2026-09-08T22:12:12Z)
   - Source: https://www.rotoballer.com/player-news/cyrus-allen-a-top-waiver-wire-stash-heading-into-week-1/1926387
@@ -217,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/emmett-johnson-worth-rostering-as-handcuff-in-powerful-offense/1925608
 - **Jalen McMillan** — Jalen McMillan's Experience an Advantage in Depth-Chart Competition (2026-09-08T00:57:11Z)
   - Source: https://www.rotoballer.com/player-news/jalen-mcmillans-experience-an-advantage-in-depth-chart-competition/1925605
-- **Christian McCaffrey** — Christian McCaffrey in Full Uniform for Tuesday's practice in Australia (2026-09-08T00:57:07Z)
-  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-in-full-uniform-for-tuesdays-practice-in-australia/1925603

@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-09T02:33:19Z",
+  "last_checked_at": "2026-09-09T02:47:21Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|6804|rotoballer|220398|1788906246000"
+    "nfl|12536|rotoballer|220399|1788907207000"
   ],
   "schema_version": 1,
   "source": {
@@ -133,6 +133,26 @@
       "story_id": "nfl|4217|rotowire|636412|1788908049000",
       "title": "George Kittle - Listed as limited participant",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans' second-year wide receiver out of Iowa State, Jaylin Noel (hamstring, finger), missed a couple of weeks of action earlier in training camp; however, with Jayden Higgins (knee) out for the season and Tank Dell (knee) starting the season on the Injured Reserve, Noel projects to be the WR3 in this Texans offense. The Texans did go out and get Kayshon Boutte from the New England Patriots, which was a clear hit to Noel's immediate value, but with Boutte ramping up in the offense, it should provide Noel the immediate opportunity to take hold of the WR2 position should he perform. The Texans offense ranked 14th overall in passing offense last season and 18th overall, and Noel should be on the field in three wide receiver sets. Noel finished his rookie campaign with only 35 targets in 17 games for 292 yards and two touchdowns. Should Nico Collins or Boutte go down with an injury, that would make Noel much more intriguing, but he does have some bench value given the depth of the Texans' receiving room.",
+      "metadata": {
+        "description": "Houston Texans' second-year wide receiver out of Iowa State, Jaylin Noel (hamstring, finger), missed a couple of weeks of action earlier in training camp; however, with Jayden Higgins (knee) out for the season and Tank Dell (knee) starting the season on the Injured Reserve, Noel projects to be the WR3 in this Texans offense. The Texans did go out and get Kayshon Boutte from the New England Patriots, which was a clear hit to Noel's immediate value, but with Boutte ramping up in the offense, it should provide Noel the immediate opportunity to take hold of the WR2 position should he perform. The Texans offense ranked 14th overall in passing offense last season and 18th overall, and Noel should be on the field in three wide receiver sets. Noel finished his rookie campaign with only 35 targets in 17 games for 292 yards and two touchdowns. Should Nico Collins or Boutte go down with an injury, that would make Noel much more intriguing, but he does have some bench value given the depth of the Texans' receiving room.",
+        "title": "Jaylin Noel Gaining Value With Injuries to the Texans Receiving Room",
+        "topic_id": "1403243883596353536",
+        "url": "https://www.rotoballer.com/player-news/jaylin-noel-gaining-value-with-injuries-to-the-texans-receiving-room/1926407"
+      },
+      "nfl_team": "HOU",
+      "player_id": "12536",
+      "player_name": "Jaylin Noel",
+      "position": "WR",
+      "published": 1788907207000,
+      "source": "rotoballer",
+      "source_key": "220399",
+      "story_id": "nfl|12536|rotoballer|220399|1788907207000",
+      "title": "Jaylin Noel Gaining Value With Injuries to the Texans Receiving Room",
+      "url": "https://www.rotoballer.com/player-news/jaylin-noel-gaining-value-with-injuries-to-the-texans-receiving-room/1926407"
     },
     {
       "analysis": "McCaffrey's status has been a hot topic for nearly a month, particularly after it was reported in mid-August that he was dealing with some sort of \"tightness.\" However, McCaffrey himself said in late August that he always planned to take it easy during training camp, and San Francisco's first injury report of the year confirms he is back at 100 percent. As such, it seems likely he will be able to fill his regular role when the 49ers kick off their season against the Rams in Australia.",
