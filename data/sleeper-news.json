@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-09T05:44:49Z",
+  "last_checked_at": "2026-09-09T05:56:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|3214|rotoballer|220410|1788917663000",
-    "nfl|7611|rotoballer|220408|1788916987000"
+    "nfl|5859|rotoballer|220411|1788918005000",
+    "nfl|8121|rotoballer|220412|1788918187000"
   ],
   "schema_version": 1,
   "source": {
@@ -33,6 +33,46 @@
       "story_id": "nfl|4217|rotowire|636457|1788922162000",
       "title": "George Kittle - Could see limited Week 1 role",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver Romeo Doubs is being welcomed to his new team with a difficult matchup against the Seattle Seahawks on Wednesday evening in Week 1. Doubs signed a four-year, $68 million contract over the offseason, penciling him in as the Patriots' No. 2 receiver alongside A.J. Brown for at least this season. Interestingly, we haven't yet seen a Drake Maye-led offense support two fantasy-relevant receivers, but that's not to say it can't happen. The former UNC signal caller will likely appreciate having another experienced veteran receiver at his disposal for Week 1, especially if Brown gets locked up by Devon Witherspoon for most of the night. There's certainly some upside with Doubs, but we'd rather leave him on the fantasy football bench this week while we wait to see exactly what his role looks like on gameday.",
+      "metadata": {
+        "description": "New England Patriots wide receiver Romeo Doubs is being welcomed to his new team with a difficult matchup against the Seattle Seahawks on Wednesday evening in Week 1. Doubs signed a four-year, $68 million contract over the offseason, penciling him in as the Patriots' No. 2 receiver alongside A.J. Brown for at least this season. Interestingly, we haven't yet seen a Drake Maye-led offense support two fantasy-relevant receivers, but that's not to say it can't happen. The former UNC signal caller will likely appreciate having another experienced veteran receiver at his disposal for Week 1, especially if Brown gets locked up by Devon Witherspoon for most of the night. There's certainly some upside with Doubs, but we'd rather leave him on the fantasy football bench this week while we wait to see exactly what his role looks like on gameday.",
+        "title": "Romeo Doubs Fighting for Fantasy Relevance Right Away",
+        "topic_id": "1403290444195966976",
+        "url": "https://www.rotoballer.com/player-news/romeo-doubs-fighting-for-fantasy-relevance-right-away/1926452"
+      },
+      "nfl_team": "NE",
+      "player_id": "8121",
+      "player_name": "Romeo Doubs",
+      "position": "WR",
+      "published": 1788918187000,
+      "source": "rotoballer",
+      "source_key": "220412",
+      "story_id": "nfl|8121|rotoballer|220412|1788918187000",
+      "title": "Romeo Doubs Fighting for Fantasy Relevance Right Away",
+      "url": "https://www.rotoballer.com/player-news/romeo-doubs-fighting-for-fantasy-relevance-right-away/1926452"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver A.J. Brown might not take very long to prove that his acquisition was absolutely worth it. The Patriots acquired him from the Eagles for a first-round pick and a seventh-round pick this offseason, and he projects to be exactly what New England needed to overcome last year's Super Bowl loss. Brown has familiarity with getting peppered with targets on a Mike Vrabel-led team, and he also fetched 8.4 targets per game during his four years in Philadelphia. Brown's exact fantasy outlook is somewhat dependent on how the first game goes on Wednesday night, but we'd expect the star receiver to pick up right where he left off in Pittsburgh. Last year, he caught 78 passes for 1,003 yards and seven touchdowns across 15 games. He has four consecutive seasons with at least seven touchdowns, and beyond just the goal line, we know that he's capable of making an impact anywhere on the field. Brown gets a tough matchup against newly paid cornerback Devon Witherspoon this week, but he's still worth rolling out as a locked-and-loaded WR1 in fantasy football.",
+      "metadata": {
+        "description": "New England Patriots wide receiver A.J. Brown might not take very long to prove that his acquisition was absolutely worth it. The Patriots acquired him from the Eagles for a first-round pick and a seventh-round pick this offseason, and he projects to be exactly what New England needed to overcome last year's Super Bowl loss. Brown has familiarity with getting peppered with targets on a Mike Vrabel-led team, and he also fetched 8.4 targets per game during his four years in Philadelphia. Brown's exact fantasy outlook is somewhat dependent on how the first game goes on Wednesday night, but we'd expect the star receiver to pick up right where he left off in Pittsburgh. Last year, he caught 78 passes for 1,003 yards and seven touchdowns across 15 games. He has four consecutive seasons with at least seven touchdowns, and beyond just the goal line, we know that he's capable of making an impact anywhere on the field. Brown gets a tough matchup against newly paid cornerback Devon Witherspoon this week, but he's still worth rolling out as a locked-and-loaded WR1 in fantasy football.",
+        "title": "A.J. Brown a Potential Difference Maker for Patriots in Week 1",
+        "topic_id": "1403289185632186368",
+        "url": "https://www.rotoballer.com/player-news/a-j-brown-a-potential-difference-maker-for-patriots-in-week-1/1926450"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1788918005000,
+      "source": "rotoballer",
+      "source_key": "220411",
+      "story_id": "nfl|5859|rotoballer|220411|1788918005000",
+      "title": "A.J. Brown a Potential Difference Maker for Patriots in Week 1",
+      "url": "https://www.rotoballer.com/player-news/a-j-brown-a-potential-difference-maker-for-patriots-in-week-1/1926450"
     },
     {
       "analysis": null,

@@ -2,16 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2249**
+- Stored stories: **2251**
 - Newly captured: **2**
 
 ## Latest news
 
 - **George Kittle** — George Kittle - Could see limited Week 1 role (2026-09-09T02:49:22Z)
   - "We got to be smart with that," Shanahan said. With Kittle having been listed as a limited participant Tuesday after returning from the active/PUP list a little over two weeks ago, Shanahan's comments suggest San Francisco is preparing to manage the tight end's Week 1 snaps. Kittle figures to be featured on third downs and in the scoring area if his playing time is limited, and Jake Tonges could see elevated snaps as the Niners' TE2.
-- **NEW — Hunter Henry** — Hunter Henry Belongs on the Bench for Week 1 (2026-09-09T01:34:23Z)
+- **NEW — Romeo Doubs** — Romeo Doubs Fighting for Fantasy Relevance Right Away (2026-09-09T01:43:07Z)
+  - Source: https://www.rotoballer.com/player-news/romeo-doubs-fighting-for-fantasy-relevance-right-away/1926452
+- **NEW — A.J. Brown** — A.J. Brown a Potential Difference Maker for Patriots in Week 1 (2026-09-09T01:40:05Z)
+  - Source: https://www.rotoballer.com/player-news/a-j-brown-a-potential-difference-maker-for-patriots-in-week-1/1926450
+- **Hunter Henry** — Hunter Henry Belongs on the Bench for Week 1 (2026-09-09T01:34:23Z)
   - Source: https://www.rotoballer.com/player-news/hunter-henry-belongs-on-the-bench-for-week-1/1926446
-- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Soars Up the Rankings for Week 1 (2026-09-09T01:23:07Z)
+- **Rhamondre Stevenson** — Rhamondre Stevenson Soars Up the Rankings for Week 1 (2026-09-09T01:23:07Z)
   - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-soars-up-the-rankings-for-week-1/1926442
 - **Drake Maye** — Drake Maye Opens the Season in Must-Start Territory Despite Tough Matchup (2026-09-09T01:13:07Z)
   - Source: https://www.rotoballer.com/player-news/drake-maye-opens-the-season-in-must-start-territory-despite-tough-matchup/1926438
@@ -215,7 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/t-j-hockenson-only-a-deep-league-waiver-add-for-week-1/1925890
 - **Malachi Fields** — Malachi Fields Emerging As Target for Week 1 (2026-09-08T10:41:58Z)
   - Source: https://www.rotoballer.com/player-news/malachi-fields-emerging-as-target-for-week-1/1925820
-- **Dontayvion Wicks** — Dontayvion Wicks Is a Potential Waiver-Wire Pickup (2026-09-08T10:29:05Z)
-  - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-is-a-potential-waiver-wire-pickup/1925808
-- **Caleb Douglas** — Caleb Douglas Brings a High Ceiling from the Waiver Wire (2026-09-08T10:15:06Z)
-  - Source: https://www.rotoballer.com/player-news/caleb-douglas-brings-a-high-ceiling-from-the-waiver-wire/1925794
