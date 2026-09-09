@@ -7,7 +7,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 ## Latest news
 
-- **NEW — Cameron Dicker** — Cameron Dicker - Fades Wednesday's injury report (2026-09-09T23:32:22Z)
+- **Cameron Dicker** — Cameron Dicker - Fades Wednesday's injury report (2026-09-09T23:32:22Z)
   - Dicker was working through an undisclosed issue toward the tail end of training camp, but his absence from the Chargers' first injury report of the week indicates that he's fully healthy for Sunday's regular-season opener against the Cardinals. Dicker was a top-5 kicker in fantasy last season, connecting on 38 of 41 field-goal attempts (including 12-for-13 on attempts from 50-plus yards) while making 34 of 35 extra-point tries across 17 regular-season games. His scoring output could increase this season if the Chargers' offense levels up under new offensive coordinator Mike McDaniel.
 - **Keaton Mitchell** — Keaton Mitchell (hamstring) limited participant Wednesday (2026-09-09T23:20:48.599000Z)
   - Mitchell was sidelined for a while as he dealt with a hamstring injury, but he was able to practice in a limited fashion on Wednesday. He will have a chance to play in Week 1, but even if he's active, he's not expected to play more than a depth role for the Chargers in their matchup against the Cardinals.
@@ -223,6 +223,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - There's now an official body part attached to Brooks after the Panthers were forced to clarify the running back's injury on the team's first official injury report of the season. Brooks has been dealing with "soreness" for more than a week now, and the good news is it's not in his surgically-repaired knee. He was in full pads Wednesday, and a limited start to the week gives Brooks a good chance to play Sunday against the Bears. Chuba Hubbard is expected to open 2026 as the 1A to Brooks' 1B in the Carolina backfield.
 - **Malik Nabers** — Malik Nabers - Practices fully Wednesday (2026-09-09T19:34:14Z)
   - Coach John Harbaugh said Nabers looks "ready to go," but the Giants are going to see how he feels throughout the practice week before declaring him in for Sunday night's game against the Cowboys. All signs continue to point to Nabers being out there versus Dallas for his first game action since tearing his ACL in Week 4 of last season.
+- **NEW — Tory Horton** — Tory Horton Ruled Out Against Patriots (2026-09-09T19:34:13Z)
+  - Source: https://www.rotoballer.com/player-news/tory-horton-ruled-out-against-patriots/1927160
 - **J.J. McCarthy** — J.J. McCarthy to be QB3 for Week 1 (2026-09-09T19:00:36.380000Z)
   - McCarthy lost the competition for the starting QB job earlier this offseason to Kyler Murray, and now it appears that he didn't make a strong push for the job, as the team has opted to make him the third QB on their depth chart behind Carson Wentz as well. The team has left the door open to promoting him to backup at some point in the season, but he remains entirely irrelevant for fantasy purposes for the foreseeable future.
   - Source: https://www.fantasypros.com/nfl/news/606739/jj-mccarthy-to-be-qb3-week-1.php
@@ -249,5 +251,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - With Brooks having worked off to the side earlier in the week, his presence in uniform and pads would suggest he's trending toward being available for Sunday's season opener against the Bears. If he plays, Brooks is expected to split backfield work with Chuba Hubbard, rendering both little more than low-end RB2 fantasy options until one is able to separate from the other atop the depth chart.
 - **Ashton Jeanty** — Ashton Jeanty - Will practice Wednesday (2026-09-09T17:56:53Z)
   - Jeanty has been sidelined since suffering a low-ankle sprain Aug. 23, but Kubiak expressed optimism last week that his star running back would be available for Week 1. Getting on the practice field Wednesday would be a strong sign that Jeanty will be able to suit up Sunday versus Miami.
-- **Malik Nabers** — Malik Nabers - Going through drills Wednesday (2026-09-09T17:51:12Z)
-  - Nabers was first in line to go through wideout drills, according to Hughes, and it appeared as if he's ready to go for Sunday night's Week 1 opener against Dallas. It's unclear if Nabers will play his full snap allotment against the Cowboys, so Nabers is looking more like a fantasy WR2 with obvious upside in what would be his first game back from a torn ACL.

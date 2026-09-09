@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-09T23:42:38Z",
+  "last_checked_at": "2026-09-09T23:52:52Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|8259|rotowire|636564|1788996742000"
+    "nfl|12497|rotoballer|220472|1788982453000"
   ],
   "schema_version": 1,
   "source": {
@@ -1812,6 +1812,26 @@
       "story_id": "nfl|11632|rotowire|636477|1788982454000",
       "title": "Malik Nabers - Practices fully Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks second-year wide receiver Tory Horton (hamstring) has officially been ruled out for Thursday's 2026 season opener at home against the visiting New England Patriots, according to the team. Horton played in only eight games as a rookie in 2025 after being selected in the fifth round from Colorado State, and he will begin his second season in the NFL on the sidelines because of a hamstring injury. Even when healthy, Horton should be on the waiver wire in most single-year fantasy football leagues after he caught just 13 passes for 161 yards on 22 targets last year, although he did find the end zone five times. With Horton sidelined for the opener in the Super Bowl rematch, Montorie Foster is expected to serve as the WR4 for the Seahawks, behind Jaxon Smith-Njigba, Rashid Shaheed, and Cooper Kupp. Horton is not rostered in any Yahoo leagues to begin Week 1. It remains to be seen if he will make his 2026 debut next weekend versus the division-rival Arizona Cardinals on the road.",
+      "metadata": {
+        "description": "Seattle Seahawks second-year wide receiver Tory Horton (hamstring) has officially been ruled out for Thursday's 2026 season opener at home against the visiting New England Patriots, according to the team. Horton played in only eight games as a rookie in 2025 after being selected in the fifth round from Colorado State, and he will begin his second season in the NFL on the sidelines because of a hamstring injury. Even when healthy, Horton should be on the waiver wire in most single-year fantasy football leagues after he caught just 13 passes for 161 yards on 22 targets last year, although he did find the end zone five times. With Horton sidelined for the opener in the Super Bowl rematch, Montorie Foster is expected to serve as the WR4 for the Seahawks, behind Jaxon Smith-Njigba, Rashid Shaheed, and Cooper Kupp. Horton is not rostered in any Yahoo leagues to begin Week 1. It remains to be seen if he will make his 2026 debut next weekend versus the division-rival Arizona Cardinals on the road.",
+        "title": "Tory Horton Ruled Out Against Patriots",
+        "topic_id": "1403561075923857408",
+        "url": "https://www.rotoballer.com/player-news/tory-horton-ruled-out-against-patriots/1927160"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12497",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "published": 1788982453000,
+      "source": "rotoballer",
+      "source_key": "220472",
+      "story_id": "nfl|12497|rotoballer|220472|1788982453000",
+      "title": "Tory Horton Ruled Out Against Patriots",
+      "url": "https://www.rotoballer.com/player-news/tory-horton-ruled-out-against-patriots/1927160"
     },
     {
       "analysis": "McCarthy lost the competition for the starting QB job earlier this offseason to Kyler Murray, and now it appears that he didn't make a strong push for the job, as the team has opted to make him the third QB on their depth chart behind Carson Wentz as well. The team has left the door open to promoting him to backup at some point in the season, but he remains entirely irrelevant for fantasy purposes for the foreseeable future.",
@@ -48416,26 +48436,6 @@
       "story_id": "nfl|4943|rotowire|633163|1786412227000",
       "title": "Sam Darnold - Building rapport with new OC",
       "url": null
-    },
-    {
-      "analysis": null,
-      "description": "The Los Angeles Rams duo of quarterback Matthew Stafford and wide receiver Davante Adams is building a better rapport after failing to fully connect during last season's training camp. After Matthew Stafford (back) sat out all of training camp, he and Adams were sometimes out of sync. Adams said about their connection during this year's camp, \"We're getting a whole different start than we did last year. I think we put together a pretty good product last season, but any time you can have these grinding days when you come out here, it'll help you be in a much better position when it's time to really go.\" Adams had 789 yards and a league-high 14 touchdowns, but he caught just 52.6% of his passes (the lowest of his career). If he and Stafford can connect more often and sustain their strong goal-line presence, Adams could easily contend for a Top-10 fantasy receiver season in 2026.",
-      "metadata": {
-        "description": "The Los Angeles Rams duo of quarterback Matthew Stafford and wide receiver Davante Adams is building a better rapport after failing to fully connect during last season's training camp. After Matthew Stafford (back) sat out all of training camp, he and Adams were sometimes out of sync. Adams said about their connection during this year's camp, \"We're getting a whole different start than we did last year. I think we put together a pretty good product last season, but any time you can have these grinding days when you come out here, it'll help you be in a much better position when it's time to really go.\" Adams had 789 yards and a league-high 14 touchdowns, but he caught just 52.6% of his passes (the lowest of his career). If he and Stafford can connect more often and sustain their strong goal-line presence, Adams could easily contend for a Top-10 fantasy receiver season in 2026.",
-        "title": "Davante Adams Gaining More Chemistry With Veteran QB",
-        "topic_id": "1392752297825562624",
-        "url": "https://www.rotoballer.com/player-news/matthew-stafford-and-davante-adams-gaining-more-chemistry/1906702"
-      },
-      "nfl_team": "LAR",
-      "player_id": "421",
-      "player_name": "Matthew Stafford",
-      "position": "QB",
-      "published": 1786405926000,
-      "source": "rotoballer",
-      "source_key": "218336",
-      "story_id": "nfl|421|rotoballer|218336|1786405926000",
-      "title": "Davante Adams Gaining More Chemistry With Veteran QB",
-      "url": "https://www.rotoballer.com/player-news/matthew-stafford-and-davante-adams-gaining-more-chemistry/1906702"
     }
   ]
 }
