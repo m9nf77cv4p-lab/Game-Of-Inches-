@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2306**
+- Stored stories: **2309**
 - Newly captured: **3**
 
 ## Latest news
 
-- **NEW — J.J. McCarthy** — J.J. McCarthy to be QB3 for Week 1 (2026-09-09T19:00:36.380000Z)
+- **J.J. McCarthy** — J.J. McCarthy to be QB3 for Week 1 (2026-09-09T19:00:36.380000Z)
   - McCarthy lost the competition for the starting QB job earlier this offseason to Kyler Murray, and now it appears that he didn't make a strong push for the job, as the team has opted to make him the third QB on their depth chart behind Carson Wentz as well. The team has left the door open to promoting him to backup at some point in the season, but he remains entirely irrelevant for fantasy purposes for the foreseeable future.
   - Source: https://www.fantasypros.com/nfl/news/606739/jj-mccarthy-to-be-qb3-week-1.php
 - **J.J. McCarthy** — J.J. McCarthy - Opens season third on depth chart (2026-09-09T18:45:51Z)
@@ -74,9 +74,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
 - **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
-- **NEW — J.J. McCarthy** — J.J. McCarthy Demoted to Third-String Role (2026-09-09T14:51:15Z)
+- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling Keeps Pushing Toward a Bigger Role (2026-09-09T15:09:09Z)
+  - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-keeps-pushing-toward-a-bigger-role/1926977
+- **NEW — Malik Nabers** — Malik Nabers Doing Individual Drills, Looking Good for Week 1 (2026-09-09T15:03:52Z)
+  - Source: https://www.rotoballer.com/player-news/malik-nabers-doing-individual-drills-looking-good-for-week-1/1926973
+- **NEW — Parker Washington** — Parker Washington to Return Punts This Year (2026-09-09T14:59:08Z)
+  - Source: https://www.rotoballer.com/player-news/parker-washington-to-return-punts-this-year/1926969
+- **J.J. McCarthy** — J.J. McCarthy Demoted to Third-String Role (2026-09-09T14:51:15Z)
   - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-demoted-to-third-string-role/1926967
-- **NEW — Jonathon Brooks** — Jonathon Brooks in Full Uniform and Pads on Wednesday (2026-09-09T14:46:10Z)
+- **Jonathon Brooks** — Jonathon Brooks in Full Uniform and Pads on Wednesday (2026-09-09T14:46:10Z)
   - Source: https://www.rotoballer.com/player-news/jonathon-brooks-in-full-uniform-and-pads-on-wednesday/1926965
 - **Ashton Jeanty** — Ashton Jeanty Will Practice on Wednesday (2026-09-09T14:30:10Z)
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-will-practice-on-wednesday/1926960
@@ -220,10 +226,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The No. 3 overall pick in the April's draft, Love will eventually settle in as the unquestioned No. 1 option on the depth chart, but the Cardinals could look to ease him into NFL action while he works his way back from the high-ankle sprain he sustained Aug. 13 in the preseason opener against the Raiders. Head coach Mike LaFleur said Monday that he's optimistic Love will be available Sunday, though even if he manages to practice without limitations by the end of the week, the 21-year-old seems likely to share the load with Allgeier. Love should handle a larger portion of the snaps and touches out of the backfield once his ankle injury fades further in the rear-view mirror.
 - **Keon Coleman** — Keon Coleman - Designated as starter on depth chart (2026-09-08T19:47:13Z)
   - While DJ Moore and Khalil Shakir are secure as Buffalo's top two wideouts in some order, Coleman could be prioritized ahead of Joshua Palmer for the No. 3 spot when the season gets underway. After averaging 9.8 yards per target as a rookie in 2024, Coleman dropped all the way down to 6.8 per game during his sophomore season and also drew the ire of the coaching staff for his lack of professionalism, which played a part in him being a healthy inactive on four occasions. Coleman appears to have received a clean slate entering 2026, and after a strong showing during minicamp, he continued to make a positive impression in training camp before spraining his right foot in an Aug. 18 preseason game against the Panthers. The injury doesn't appear to be a long-term concern, and if he can return to full practice at some point this week, Coleman looks like he could handle a notable role in the passing game in the season opener.
-- **Chris Bell** — Chris Bell - Gets starter listing on depth chart (2026-09-08T19:33:22Z)
-  - Though team-issued depth charts don't always reflect how players will be used once the season gets underway, Bell's listing in a top-three role could be noteworthy. Miami had previously listed Jalen Tolbert along with Malik Washington and Caleb Douglas as Miami's starting receiver trio, but Bell may have shown enough during his lone preseason appearance to leapfrog Tolbert in the pecking order. After opening training camp on the non-football injury list while he recovered from the ACL tear he sustained during his final collegiate season at Louisville, Bell joined the Dolphins for practice Aug. 17 and shined in his lone preseason appearance just under two weeks later, reeling in two of five targets for 22 yards in a 17-12 loss to the Falcons. If Bell does in fact start Week 1, the Dolphins could still look to limit his snaps to some degree while he works to regain full conditioning coming off knee surgery.
-- **Tyler Allgeier** — Tyler Allgeier listed as starter on Cardinals depth chart (2026-09-08T19:05:52.756000Z)
-  - Allgeier was listed as the starter ahead of rookie Jeremiyah Love after a training camp battle. Love has also been making his way back from an ankle sprain, which could be why Allgeier sees more carries in the early part of the season. If he does indeed get the start on Sunday, Allgeier could be an RB3 or deeper flex option in fantasy.
-  - Source: https://www.fantasypros.com/nfl/news/606577/tyler-allgeier-listed-starter-on-cardinals-depth-chart.php
-- **George Kittle** — George Kittle is Limited During Tuesday's Practice (2026-09-08T18:56:23Z)
-  - Source: https://www.rotoballer.com/player-news/george-kittle-is-limited-during-tuesdays-practice/1926271

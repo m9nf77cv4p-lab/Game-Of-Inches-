@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-09-09T19:09:40Z",
+  "last_checked_at": "2026-09-09T19:24:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|11565|fantasy_pros|606739|1788980436380",
-    "nfl|11565|rotoballer|220450|1788965475000",
-    "nfl|11583|rotoballer|220449|1788965170000"
+    "nfl|11632|rotoballer|220451|1788966232000",
+    "nfl|13417|rotoballer|220453|1788966549000",
+    "nfl|9487|rotoballer|220452|1788965948000"
   ],
   "schema_version": 1,
   "source": {
@@ -567,6 +567,66 @@
       "story_id": "nfl|12514|rotowire|636460|1788970341000",
       "title": "Emeka Egbuka - Looks to be practicing fully Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver De'Zhaun Stribling still looks like one of the more interesting rookie breakouts to watch after a strong summer. The shoulder issue that cost him the preseason finale is no longer showing up on the injury report, which removes the biggest short-term concern. Stribling earned the attention in the first place. He caught 11 of 13 targets for 109 yards across two preseason games and kept making plays in camp, including a pair of red-zone touchdowns during joint practices with the Chargers. Kyle Shanahan also praised how consistently he competed and handled coaching. The role is not locked in yet. San Francisco's official depth chart lists Mike Evans ahead of Stribling, with Deebo Samuel Sr. starting at the other receiver spot, but Ricky Pearsall is out for the season and there should be room for Stribling in multi-receiver sets. He does not need to be forced into lineups against the Rams. The bigger story is that his breakout path is still very much alive.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver De'Zhaun Stribling still looks like one of the more interesting rookie breakouts to watch after a strong summer. The shoulder issue that cost him the preseason finale is no longer showing up on the injury report, which removes the biggest short-term concern. Stribling earned the attention in the first place. He caught 11 of 13 targets for 109 yards across two preseason games and kept making plays in camp, including a pair of red-zone touchdowns during joint practices with the Chargers. Kyle Shanahan also praised how consistently he competed and handled coaching. The role is not locked in yet. San Francisco's official depth chart lists Mike Evans ahead of Stribling, with Deebo Samuel Sr. starting at the other receiver spot, but Ricky Pearsall is out for the season and there should be room for Stribling in multi-receiver sets. He does not need to be forced into lineups against the Rams. The bigger story is that his breakout path is still very much alive.",
+        "title": "De'Zhaun Stribling Keeps Pushing Toward a Bigger Role",
+        "topic_id": "1403494381222199296",
+        "url": "https://www.rotoballer.com/player-news/dezhaun-stribling-keeps-pushing-toward-a-bigger-role/1926977"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1788966549000,
+      "source": "rotoballer",
+      "source_key": "220453",
+      "story_id": "nfl|13417|rotoballer|220453|1788966549000",
+      "title": "De'Zhaun Stribling Keeps Pushing Toward a Bigger Role",
+      "url": "https://www.rotoballer.com/player-news/dezhaun-stribling-keeps-pushing-toward-a-bigger-role/1926977"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants wide receiver Malik Nabers (knee) was participating in individual drills during Wednesday's practice, according to Connor Hughes of SNY. Nabers was first in line and is looking good for the Week 1 regular-season opener on Sunday Night Football against the division-rival Dallas Cowboys. The Giants could list Nabers as a limited practice participant on their first report of the year on Wednesday, but all signs are pointing towards the former first-rounder from LSU making his 2026 debut this weekend after tearing his ACL and meniscus early in 2025. With that said, Nabers could be much more volatile for fantasy purposes in this year's season opener if the Giants have him on a strict snap count as they ease him back in. Instead of being a surefire WR1 in Week 1, fantasy managers should consider him more of a low-ceiling, low-end WR2 if he is officially active on Sunday night against Dallas. The 23-year-old only played in four games last season, but he was thoroughly impressive as a rookie, catching 109 of his 170 targets for 1,204 yards and seven touchdowns in his first 15 NFL games for the Giants.",
+      "metadata": {
+        "description": "New York Giants wide receiver Malik Nabers (knee) was participating in individual drills during Wednesday's practice, according to Connor Hughes of SNY. Nabers was first in line and is looking good for the Week 1 regular-season opener on Sunday Night Football against the division-rival Dallas Cowboys. The Giants could list Nabers as a limited practice participant on their first report of the year on Wednesday, but all signs are pointing towards the former first-rounder from LSU making his 2026 debut this weekend after tearing his ACL and meniscus early in 2025. With that said, Nabers could be much more volatile for fantasy purposes in this year's season opener if the Giants have him on a strict snap count as they ease him back in. Instead of being a surefire WR1 in Week 1, fantasy managers should consider him more of a low-ceiling, low-end WR2 if he is officially active on Sunday night against Dallas. The 23-year-old only played in four games last season, but he was thoroughly impressive as a rookie, catching 109 of his 170 targets for 1,204 yards and seven touchdowns in his first 15 NFL games for the Giants.",
+        "title": "Malik Nabers Doing Individual Drills, Looking Good for Week 1",
+        "topic_id": "1403491863880597504",
+        "url": "https://www.rotoballer.com/player-news/malik-nabers-doing-individual-drills-looking-good-for-week-1/1926973"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1788966232000,
+      "source": "rotoballer",
+      "source_key": "220451",
+      "story_id": "nfl|11632|rotoballer|220451|1788966232000",
+      "title": "Malik Nabers Doing Individual Drills, Looking Good for Week 1",
+      "url": "https://www.rotoballer.com/player-news/malik-nabers-doing-individual-drills-looking-good-for-week-1/1926973"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars wide receiver Parker Washington said that he is the team's punt returner heading into the Week 1 season opener this Sunday against the visiting Cleveland Browns, according to Mark Long of The Associated Press. Washington came on strong last year as one of quarterback Trevor Lawrence's most trusted targets in the passing game and finished with career highs across the board in his third NFL season in catches (58), targets (95), receiving yards (847), and touchdowns (five) in 16 regular-season games. The 24-year-old former sixth-rounder from Penn State has continued to rise in training camp and the preseason and has been one of the most-hyped wideouts for fantasy football as he continues to develop chemistry with Lawrence. The 5-foot-10, 205-pounder will be exposed to more injuries as the team's punt returner in 2026, but that should not detract from his upside potential in an ascending Jaguars offense. Washington should be locked into all fantasy starting lineups against the Browns in Week 1 as a low-end WR2/high-end WR3/flex option.",
+      "metadata": {
+        "description": "Jacksonville Jaguars wide receiver Parker Washington said that he is the team's punt returner heading into the Week 1 season opener this Sunday against the visiting Cleveland Browns, according to Mark Long of The Associated Press. Washington came on strong last year as one of quarterback Trevor Lawrence's most trusted targets in the passing game and finished with career highs across the board in his third NFL season in catches (58), targets (95), receiving yards (847), and touchdowns (five) in 16 regular-season games. The 24-year-old former sixth-rounder from Penn State has continued to rise in training camp and the preseason and has been one of the most-hyped wideouts for fantasy football as he continues to develop chemistry with Lawrence. The 5-foot-10, 205-pounder will be exposed to more injuries as the team's punt returner in 2026, but that should not detract from his upside potential in an ascending Jaguars offense. Washington should be locked into all fantasy starting lineups against the Browns in Week 1 as a low-end WR2/high-end WR3/flex option.",
+        "title": "Parker Washington to Return Punts This Year",
+        "topic_id": "1403491863876403200",
+        "url": "https://www.rotoballer.com/player-news/parker-washington-to-return-punts-this-year/1926969"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9487",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "published": 1788965948000,
+      "source": "rotoballer",
+      "source_key": "220452",
+      "story_id": "nfl|9487|rotoballer|220452|1788965948000",
+      "title": "Parker Washington to Return Punts This Year",
+      "url": "https://www.rotoballer.com/player-news/parker-washington-to-return-punts-this-year/1926969"
     },
     {
       "analysis": null,
