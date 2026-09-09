@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2259**
+- Stored stories: **2260**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jonah Coleman** — Jonah Coleman Earns Praise of Coaches, Could be a Late-Season League Winner (2026-09-09T11:09:05Z)
+- **NEW — Matthew Golden** — Matthew Golden Steps Into Bigger Role in Year 2 (2026-09-09T11:34:58Z)
+  - Source: https://www.rotoballer.com/player-news/matthew-golden-steps-into-bigger-role-in-year-2/1926734
+- **Jonah Coleman** — Jonah Coleman Earns Praise of Coaches, Could be a Late-Season League Winner (2026-09-09T11:09:05Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-earns-praise-of-coaches-could-be-a-late-season-league-winner/1926704
 - **AJ Barner** — AJ Barner Could Have a Larger Role After Strong Camp (2026-09-09T10:47:06Z)
   - Source: https://www.rotoballer.com/player-news/aj-barner-could-have-a-larger-role-after-strong-camp/1926692
@@ -17,7 +19,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/rashid-shaheed-could-emerge-as-key-part-of-offense-after-very-positive-camp/1926672
 - **MarShawn Lloyd** — Marshawn Lloyd Ready to Lead the Packers Backfield (2026-09-09T10:25:05Z)
   - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-ready-to-lead-the-packers-backfield/1926667
-- **Tre Tucker** — Tre Tucker's Has Clear Path to Fantasy Relevance in 2026 (2026-09-09T10:02:06Z)
+- **Tre Tucker** — Tre Tucker Has Clear Path to Fantasy Relevance in 2026 (2026-09-09T10:02:06Z)
   - Source: https://www.rotoballer.com/player-news/tre-tuckers-has-clear-path-to-fantasy-relevance-in-2026/1926644
 - **Jadarian Price** — Jadarian Price Carries Immense Upside in 2026 (2026-09-09T09:52:10Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-carries-immense-upside-in-2026/1926635
@@ -217,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jalen-mcmillan-listed-as-starting-receiver-for-the-bucs/1925981
 - **Rico Dowdle** — Rico Dowdle Listed as RB2 on Steelers' Depth Chart (2026-09-08T12:59:04Z)
   - Source: https://www.rotoballer.com/player-news/rico-dowdle-listed-as-rb2-on-steelers-depth-chart/1925979
-- **Jaylen Warren** — Jaylen Warren Listed as Starter on Steelers' Depth Chart (2026-09-08T12:50:05Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-warren-listed-as-starter-on-steelers-depth-chart/1925976
