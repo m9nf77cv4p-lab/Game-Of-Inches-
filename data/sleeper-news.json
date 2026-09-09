@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-09T05:14:37Z",
+  "last_checked_at": "2026-09-09T05:29:59Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|3257|rotoballer|220404|1788915259000"
+    "nfl|11564|rotoballer|220407|1788916387000",
+    "nfl|9758|rotoballer|220406|1788916026000"
   ],
   "schema_version": 1,
   "source": {
@@ -32,6 +33,46 @@
       "story_id": "nfl|4217|rotowire|636457|1788922162000",
       "title": "George Kittle - Could see limited Week 1 role",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots quarterback Drake Maye will run into a very tough season-opening matchup on Wednesday. The Patriots travel out west for a Super Bowl rematch against the reigning champion Seattle Seahawks. Maye was the overall QB2 in fantasy football last year with 4,394 passing yards, 450 rushing yards, 35 touchdowns, and 11 turnovers. However, he ran into a tough Seahawks defense in the Super Bowl, tallying two touchdowns and interceptions as the Patriots lost by 16 points. The Seahawks continue to field a strong defense that will pose a challenge to Maye, but his natural rushing ability and improved passing skills keep him in must-start territory for fantasy football. He may not immediately replicate last year's QB2 marks, but he should end up in the top-10 quarterback range this week. It's Week 1; don't overthink it. Start your studs, including Maye.",
+      "metadata": {
+        "description": "New England Patriots quarterback Drake Maye will run into a very tough season-opening matchup on Wednesday. The Patriots travel out west for a Super Bowl rematch against the reigning champion Seattle Seahawks. Maye was the overall QB2 in fantasy football last year with 4,394 passing yards, 450 rushing yards, 35 touchdowns, and 11 turnovers. However, he ran into a tough Seahawks defense in the Super Bowl, tallying two touchdowns and interceptions as the Patriots lost by 16 points. The Seahawks continue to field a strong defense that will pose a challenge to Maye, but his natural rushing ability and improved passing skills keep him in must-start territory for fantasy football. He may not immediately replicate last year's QB2 marks, but he should end up in the top-10 quarterback range this week. It's Week 1; don't overthink it. Start your studs, including Maye.",
+        "title": "Drake Maye Opens the Season in Must-Start Territory Despite Tough Matchup",
+        "topic_id": "1403282893744119808",
+        "url": "https://www.rotoballer.com/player-news/drake-maye-opens-the-season-in-must-start-territory-despite-tough-matchup/1926438"
+      },
+      "nfl_team": "NE",
+      "player_id": "11564",
+      "player_name": "Drake Maye",
+      "position": "QB",
+      "published": 1788916387000,
+      "source": "rotoballer",
+      "source_key": "220407",
+      "story_id": "nfl|11564|rotoballer|220407|1788916387000",
+      "title": "Drake Maye Opens the Season in Must-Start Territory Despite Tough Matchup",
+      "url": "https://www.rotoballer.com/player-news/drake-maye-opens-the-season-in-must-start-territory-despite-tough-matchup/1926438"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans quarterback C.J. Stroud could be headed for a high passing volume and plenty of scoring opportunities in Week 1 against the Buffalo Bills. Stroud was consistently drafted in fantasy leagues with 14+ teams, leaving him available on the waiver wire in eight-team and 10-team formats, as well as some 12-team leagues. The former No. 2 overall pick is looking to shake off a frustrating 2025 season in which he threw for a modest 3,041 passing yards with 19 touchdowns and eight interceptions. His production continued to go downhill in the playoffs. Stroud has now seen his fantasy ranking decline every year since being drafted, but he could trend back up in a revamped offense this year. He also stands to benefit in a big way from the Texans' Week 1 matchup against the Bills. Although Buffalo allowed the fourth-fewest fantasy points to quarterbacks last year, Texans-Bills projects as a potential shootout, leaving plenty of touchdown upside for Stroud. Managers who are already looking for some quarterback help in Week 1 should look to add Stroud off the waiver wire. He'll continue to get some favorable situations after the Bills game, as he runs into a stretch of matchups against the Bengals, Colts, Cowboys, and Titans.",
+      "metadata": {
+        "description": "Houston Texans quarterback C.J. Stroud could be headed for a high passing volume and plenty of scoring opportunities in Week 1 against the Buffalo Bills. Stroud was consistently drafted in fantasy leagues with 14+ teams, leaving him available on the waiver wire in eight-team and 10-team formats, as well as some 12-team leagues. The former No. 2 overall pick is looking to shake off a frustrating 2025 season in which he threw for a modest 3,041 passing yards with 19 touchdowns and eight interceptions. His production continued to go downhill in the playoffs. Stroud has now seen his fantasy ranking decline every year since being drafted, but he could trend back up in a revamped offense this year. He also stands to benefit in a big way from the Texans' Week 1 matchup against the Bills. Although Buffalo allowed the fourth-fewest fantasy points to quarterbacks last year, Texans-Bills projects as a potential shootout, leaving plenty of touchdown upside for Stroud. Managers who are already looking for some quarterback help in Week 1 should look to add Stroud off the waiver wire. He'll continue to get some favorable situations after the Bills game, as he runs into a stretch of matchups against the Bengals, Colts, Cowboys, and Titans.",
+        "title": "C.J. Stroud an Intriguing Streamer in Potential Week 1 Shootout",
+        "topic_id": "1403281635725565952",
+        "url": "https://www.rotoballer.com/player-news/c-j-stroud-an-intriguing-streamer-in-potential-week-1-shootout/1926436"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9758",
+      "player_name": "C.J. Stroud",
+      "position": "QB",
+      "published": 1788916026000,
+      "source": "rotoballer",
+      "source_key": "220406",
+      "story_id": "nfl|9758|rotoballer|220406|1788916026000",
+      "title": "C.J. Stroud an Intriguing Streamer in Potential Week 1 Shootout",
+      "url": "https://www.rotoballer.com/player-news/c-j-stroud-an-intriguing-streamer-in-potential-week-1-shootout/1926436"
     },
     {
       "analysis": null,
