@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2260**
+- Stored stories: **2261**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Matthew Golden** — Matthew Golden Steps Into Bigger Role in Year 2 (2026-09-09T11:34:58Z)
+- **NEW — Parker Washington** — Parker Washington's Breakout May Be Just Getting Started (2026-09-09T11:55:05Z)
+  - Source: https://www.rotoballer.com/player-news/parker-washingtons-breakout-may-be-just-getting-started/1926762
+- **Matthew Golden** — Matthew Golden Steps Into Bigger Role in Year 2 (2026-09-09T11:34:58Z)
   - Source: https://www.rotoballer.com/player-news/matthew-golden-steps-into-bigger-role-in-year-2/1926734
 - **Jonah Coleman** — Jonah Coleman Earns Praise of Coaches, Could be a Late-Season League Winner (2026-09-09T11:09:05Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-earns-praise-of-coaches-could-be-a-late-season-league-winner/1926704
@@ -217,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/rome-odunze-wont-practice-tuesday-bears-hopeful-for-week-1/1925989
 - **Jalen McMillan** — Jalen McMillan Listed as Starting Receiver for the Bucs (2026-09-08T13:07:06Z)
   - Source: https://www.rotoballer.com/player-news/jalen-mcmillan-listed-as-starting-receiver-for-the-bucs/1925981
-- **Rico Dowdle** — Rico Dowdle Listed as RB2 on Steelers' Depth Chart (2026-09-08T12:59:04Z)
-  - Source: https://www.rotoballer.com/player-news/rico-dowdle-listed-as-rb2-on-steelers-depth-chart/1925979

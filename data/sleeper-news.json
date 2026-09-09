@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-09T15:43:29Z",
+  "last_checked_at": "2026-09-09T16:10:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|12501|rotoballer|220427|1788953698000"
+    "nfl|9487|rotoballer|220429|1788954905000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars wide receiver Parker Washington was already starting to look like a breakout late last season, and nothing that happened this summer cooled it off. Washington led Jacksonville with 95 targets, 58 catches and 847 receiving yards in 2025, then went for 454 yards and three touchdowns over his final four games including the playoffs. He kept showing up in training camp too. Jacksonville's own observers repeatedly singled Washington out, while his chemistry with Trevor Lawrence looked noticeably stronger throughout the summer. There are still a lot of mouths to feed here. Brian Thomas Jr. and Jakobi Meyers are starting alongside him, with Travis Hunter still part of the offensive mix. Washington has already shown he can earn targets in that kind of environment, though. He enters Week 1 at WR27 in the current rankings and can be started against Cleveland, but the more interesting part is where his value goes from here. Washington has a legitimate chance to emerge as Jacksonville's top fantasy receiver if last year's finish carries over.",
+      "metadata": {
+        "description": "Jacksonville Jaguars wide receiver Parker Washington was already starting to look like a breakout late last season, and nothing that happened this summer cooled it off. Washington led Jacksonville with 95 targets, 58 catches and 847 receiving yards in 2025, then went for 454 yards and three touchdowns over his final four games including the playoffs. He kept showing up in training camp too. Jacksonville's own observers repeatedly singled Washington out, while his chemistry with Trevor Lawrence looked noticeably stronger throughout the summer. There are still a lot of mouths to feed here. Brian Thomas Jr. and Jakobi Meyers are starting alongside him, with Travis Hunter still part of the offensive mix. Washington has already shown he can earn targets in that kind of environment, though. He enters Week 1 at WR27 in the current rankings and can be started against Cleveland, but the more interesting part is where his value goes from here. Washington has a legitimate chance to emerge as Jacksonville's top fantasy receiver if last year's finish carries over.",
+        "title": "Parker Washington's Breakout May Be Just Getting Started",
+        "topic_id": "1403443971023216640",
+        "url": "https://www.rotoballer.com/player-news/parker-washingtons-breakout-may-be-just-getting-started/1926762"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9487",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "published": 1788954905000,
+      "source": "rotoballer",
+      "source_key": "220429",
+      "story_id": "nfl|9487|rotoballer|220429|1788954905000",
+      "title": "Parker Washington's Breakout May Be Just Getting Started",
+      "url": "https://www.rotoballer.com/player-news/parker-washingtons-breakout-may-be-just-getting-started/1926762"
+    },
     {
       "analysis": null,
       "description": "Green Bay Packers wide receiver Matthew Golden has a much clearer path to playing time entering his second season. Golden was the top breakout choice in a poll of NFL executives and scouts conducted by ESPN's Jeremy Fowler after a quiet rookie year in which he caught 29 passes for 361 yards on 44 targets. One AFC executive questioned why Green Bay didn't use the former first-round pick more and pointed to his speed as a reason for optimism. The opportunity looks different now. Romeo Doubs left in free agency and Dontayvion Wicks was traded to Philadelphia, while Golden is listed with Christian Watson and Jayden Reed among Green Bay's starting receivers. He also flashed in the playoffs, catching four passes for 84 yards and his first NFL touchdown against Chicago. Golden still has to turn the opportunity into production, but the path to a much larger Year 2 role is there.",
