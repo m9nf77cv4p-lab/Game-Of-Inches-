@@ -1,11 +1,12 @@
 {
-  "last_checked_at": "2026-09-09T23:00:18Z",
+  "last_checked_at": "2026-09-09T23:16:32Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|12527|fantasy_pros|606815|1788994548291",
-    "nfl|6801|fantasy_pros|606814|1788994548305",
-    "nfl|9484|rotoballer|220470|1788979145000"
+    "nfl|12497|rotowire|636548|1788995099000",
+    "nfl|12510|rotowire|636550|1788995228000",
+    "nfl|13349|rotowire|636552|1788995370000",
+    "nfl|4217|fantasy_pros|606820|1788995448191"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +16,87 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The star tight end was once again limited at practice on Wednesday. He seems to have a good chance to play on Thursday night, but he will probably be limited even if active. The team's official injury report should shed more light on his status when it comes out.",
+      "description": "George Kittle (Achilles) was limited at practice again on Wednesday.",
+      "metadata": {
+        "analysis": "The star tight end was once again limited at practice on Wednesday. He seems to have a good chance to play on Thursday night, but he will probably be limited even if active. The team's official injury report should shed more light on his status when it comes out.",
+        "description": "George Kittle (Achilles) was limited at practice again on Wednesday.",
+        "title": "George Kittle (Achilles) limited again Wednesday",
+        "topic_id": "1403552274092969984",
+        "url": "https://www.fantasypros.com/nfl/news/606820/george-kittle-achilles-limited-again-wednesday.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788995448191,
+      "source": "fantasy_pros",
+      "source_key": "606820",
+      "story_id": "nfl|4217|fantasy_pros|606820|1788995448191",
+      "title": "George Kittle (Achilles) limited again Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606820/george-kittle-achilles-limited-again-wednesday.php"
+    },
+    {
+      "analysis": "The rookie second-rounder has been working through a hamstring injury since the tail end of training camp, which prevented him from playing in the Eagles' preseason finale against the Bengals on Aug. 28. Stowers will have two more opportunities to increase his practice participation and avoid an injury designation for Sunday's regular-season opener against the Commanders. The Vanderbilt product figures to operate in a depth role at tight end this season behind Dallas Goedert, with Johnny Mundt and E.J. Jenkins also in the mix for snaps on offense.",
+      "description": "Stowers (hamstring) was a limited participant in Wednesday's practice.",
+      "metadata": {
+        "analysis": "The rookie second-rounder has been working through a hamstring injury since the tail end of training camp, which prevented him from playing in the Eagles' preseason finale against the Bengals on Aug. 28. Stowers will have two more opportunities to increase his practice participation and avoid an injury designation for Sunday's regular-season opener against the Commanders. The Vanderbilt product figures to operate in a depth role at tight end this season behind Dallas Goedert, with Johnny Mundt and E.J. Jenkins also in the mix for snaps on offense.",
+        "description": "Stowers (hamstring) was a limited participant in Wednesday's practice.",
+        "title": "Eli Stowers - Limited to open Week 1 prep",
+        "topic_id": "1403552270456492032"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13349",
+      "player_name": "Eli Stowers",
+      "position": "TE",
+      "published": 1788995370000,
+      "source": "rotowire",
+      "source_key": "636552",
+      "story_id": "nfl|13349|rotowire|636552|1788995370000",
+      "title": "Eli Stowers - Limited to open Week 1 prep",
+      "url": null
+    },
+    {
+      "analysis": "Milroe is the No. 3 quarterback behind Sam Darnold and Drew Lock. The second-year player is already settling into what will likely be his weekly role throughout the 2026 season, set to only check in to the game if both quarterbacks are unable to continue playing.",
+      "description": "Milroe (coach's decision) will be the emergency third quarterback for the Wednesday night matchup with the Patriots.",
+      "metadata": {
+        "analysis": "Milroe is the No. 3 quarterback behind Sam Darnold and Drew Lock. The second-year player is already settling into what will likely be his weekly role throughout the 2026 season, set to only check in to the game if both quarterbacks are unable to continue playing.",
+        "description": "Milroe (coach's decision) will be the emergency third quarterback for the Wednesday night matchup with the Patriots.",
+        "title": "Jalen Milroe - Emergency QB for Wednesday night",
+        "topic_id": "1403552270355828736"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12510",
+      "player_name": "Jalen Milroe",
+      "position": "QB",
+      "published": 1788995228000,
+      "source": "rotowire",
+      "source_key": "636550",
+      "story_id": "nfl|12510|rotowire|636550|1788995228000",
+      "title": "Jalen Milroe - Emergency QB for Wednesday night",
+      "url": null
+    },
+    {
+      "analysis": "The 2025 fifth-rounder was not able to recover from his hamstring injury in time for the Seahawks' Week 1 contest. Montorie Foster will take over as the No. 4 wide receiver behind Jaxon Smith-Njigba, Rashid Shaheed and Cooper Kupp for the contest.",
+      "description": "Horton (hamstring) is inactive for Wednesday night's game against the Patriots.",
+      "metadata": {
+        "analysis": "The 2025 fifth-rounder was not able to recover from his hamstring injury in time for the Seahawks' Week 1 contest. Montorie Foster will take over as the No. 4 wide receiver behind Jaxon Smith-Njigba, Rashid Shaheed and Cooper Kupp for the contest.",
+        "description": "Horton (hamstring) is inactive for Wednesday night's game against the Patriots.",
+        "title": "Tory Horton - Inactive for opener",
+        "topic_id": "1403552270297108480"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12497",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "published": 1788995099000,
+      "source": "rotowire",
+      "source_key": "636548",
+      "story_id": "nfl|12497|rotowire|636548|1788995099000",
+      "title": "Tory Horton - Inactive for opener",
+      "url": null
+    },
     {
       "analysis": "Higgins is still listed on Cincinnati's injury report due to a nagging foot injury, but it's not a serious issue at this point and he was able to log a full practice session on Wednesday. He should be good to go for Week 1 and projects to be a good fantasy option against the Buccaneers.",
       "description": "Tee Higgins (foot) fully participated in Cincinnati's practice on Wednesday. ",

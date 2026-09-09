@@ -2,15 +2,24 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2400**
-- Newly captured: **3**
+- Stored stories: **2404**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Tee Higgins** — Tee Higgins (foot) fully participates in practice Wednesday (2026-09-09T22:55:48.305000Z)
+- **NEW — George Kittle** — George Kittle (Achilles) limited again Wednesday (2026-09-09T23:10:48.191000Z)
+  - The star tight end was once again limited at practice on Wednesday. He seems to have a good chance to play on Thursday night, but he will probably be limited even if active. The team's official injury report should shed more light on his status when it comes out.
+  - Source: https://www.fantasypros.com/nfl/news/606820/george-kittle-achilles-limited-again-wednesday.php
+- **NEW — Eli Stowers** — Eli Stowers - Limited to open Week 1 prep (2026-09-09T23:09:30Z)
+  - The rookie second-rounder has been working through a hamstring injury since the tail end of training camp, which prevented him from playing in the Eagles' preseason finale against the Bengals on Aug. 28. Stowers will have two more opportunities to increase his practice participation and avoid an injury designation for Sunday's regular-season opener against the Commanders. The Vanderbilt product figures to operate in a depth role at tight end this season behind Dallas Goedert, with Johnny Mundt and E.J. Jenkins also in the mix for snaps on offense.
+- **NEW — Jalen Milroe** — Jalen Milroe - Emergency QB for Wednesday night (2026-09-09T23:07:08Z)
+  - Milroe is the No. 3 quarterback behind Sam Darnold and Drew Lock. The second-year player is already settling into what will likely be his weekly role throughout the 2026 season, set to only check in to the game if both quarterbacks are unable to continue playing.
+- **NEW — Tory Horton** — Tory Horton - Inactive for opener (2026-09-09T23:04:59Z)
+  - The 2025 fifth-rounder was not able to recover from his hamstring injury in time for the Seahawks' Week 1 contest. Montorie Foster will take over as the No. 4 wide receiver behind Jaxon Smith-Njigba, Rashid Shaheed and Cooper Kupp for the contest.
+- **Tee Higgins** — Tee Higgins (foot) fully participates in practice Wednesday (2026-09-09T22:55:48.305000Z)
   - Higgins is still listed on Cincinnati's injury report due to a nagging foot injury, but it's not a serious issue at this point and he was able to log a full practice session on Wednesday. He should be good to go for Week 1 and projects to be a good fantasy option against the Buccaneers.
   - Source: https://www.fantasypros.com/nfl/news/606814/tee-higgins-foot-fully-participates-practice-wednesday.php
-- **NEW — Ashton Jeanty** — Ashton Jeanty (ankle) practices in full Wednesday (2026-09-09T22:55:48.291000Z)
+- **Ashton Jeanty** — Ashton Jeanty (ankle) practices in full Wednesday (2026-09-09T22:55:48.291000Z)
   - It looks like Jeanty is strongly trending towards playing in Week 1, as he was able to put up a full session in Las Vegas' first practice of the week on Wednesday. If he is active, he will likely see enough work to be a great fantasy option in a positive matchup against the Dolphins.
   - Source: https://www.fantasypros.com/nfl/news/606815/ashton-jeanty-ankle-practices-full-wednesday.php
 - **George Kittle** — George Kittle - Remains limited Wednesday (2026-09-09T22:37:44Z)
@@ -205,7 +214,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606739/jj-mccarthy-to-be-qb3-week-1.php
 - **J.J. McCarthy** — J.J. McCarthy - Opens season third on depth chart (2026-09-09T18:45:51Z)
   - After losing out in the battle with newcomer Kyler Murray for the starting job prior to the preseason opener, McCarthy will plummet all the way to third on the depth chart heading into Week 1, with Carson Wentz settling in as Murray's top backup. O'Connell said that he considers the No. 2 quarterback "a week-to-week thing," so McCarthy could leapfrog Wentz on the depth chart in future games depending on how he performs during practice. In any case, the fact that the 23-year-old McCarthy has to battle for the No. 2 job less than three years after being selected with the No. 10 overall pick in the 2024 NFL Draft is an indiction Minnesota doesn't view him as its long-term solution under center.
-- **NEW — Tucker Kraft** — Tucker Kraft Not on the Week 1 Injury Report (2026-09-09T18:39:05Z)
+- **Tucker Kraft** — Tucker Kraft Not on the Week 1 Injury Report (2026-09-09T18:39:05Z)
   - Source: https://www.rotoballer.com/player-news/tucker-kraft-not-on-the-week-1-injury-report/1927142
 - **Khalil Shakir** — Khalil Shakir - Practicing Wednesday (2026-09-09T18:35:12Z)
   - After being sidelined recently by an undisclosed injury, Shakir's presence on the field is an encouraging sign for the wide receiver's availability for Sunday's season opener against the Texans. He's expected to face added competition for targets from trade pickup DJ Moore and a healthy Dalton Kincaid this season.
@@ -239,13 +248,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After appearing to participate fully Tuesday, Flowers' side work Wednesday suggests Baltimore could be managing his reps heading into Week 1. His official participation level on the Ravens' injury report will provide the clearest read on his availability for Sunday's game at Indianapolis, but there's been no indication Flowers is in any danger of missing the season opener.
 - **Tee Higgins** — Tee Higgins - On track for Week 1 (2026-09-09T17:14:00Z)
   - Higgins has been dealing with a bruised heel, but there's been nothing to suggest he's in any real danger of missing Week 1. As is the case most weeks, Higgins is a fantasy WR2 with WR1 upside in the Bengals' elite passing offense.
-- **Ja'Marr Chase** — Ja'Marr Chase - Trending toward playing Week 1 (2026-09-09T17:11:58Z)
-  - Chase limped off the field late last month with a left knee injury, but there's been nothing to suggest he's in any real danger of missing the season opener versus Tampa Bay. In a potential shootout with the Bucs, Chase is looking like the premier wide receiver play on the board for Week 1 in fantasy.
-- **Ja'Marr Chase** — Ja'Marr Chase (knee) on track to play Sunday (2026-09-09T17:10:35.742000Z)
-  - Chase has been recovering from a minor knee injury for several weeks at this point, but it is not considered a serious issue and he is on track to play through it against the Buccaneers on Sunday. Assuming he's active for the season opener, fantasy managers should have no hesitations about starting him and viewing him as a top-tier fantasy asset moving forward.
-  - Source: https://www.fantasypros.com/nfl/news/606732/jamarr-chase-knee-on-track-to-play-sunday.php
-- **Tee Higgins** — Tee Higgins (heel) on pace to play Sunday (2026-09-09T17:10:35.733000Z)
-  - Higgins is reportedly on pace to play in the team's season opener on Sunday, despite still managing a heel injury that has been bothering him for multiple weeks. His availability for the season opener would render both him and QB Joe Burrow great fantasy options heading into Week 1.
-  - Source: https://www.fantasypros.com/nfl/news/606733/tee-higgins-heel-on-pace-to-play-sunday.php
-- **Chris Bell** — Chris Bell - No 'pitch count' for Week 1 (2026-09-09T17:09:38Z)
-  - Despite not practicing with the Dolphins until Aug. 17 after completing his recovery from the ACL tear he sustained in November, Bell assuaged any concerns about his health and conditioning over the final two weeks of training camp and during his lone appearance in the preseason. The Dolphins are seemingly preparing for the rookie third-round pick to handle a vital role in the passing game right off the bat, as he's listed as one of three starting wide receivers on the team's unofficial depth chart heading into Week 1, per David Furones of the South Florida Sun Sentinel. Though Miami is expected to be one of the league's lower-volume passing attacks, Bell won't be facing much in the way of established competition for targets. He'll be part of a new-look receiver room that includes third-year player Malik Washington and fellow rookie Caleb Douglas as starters after Miami moved on from both Tyreek Hill (knee) and Jaylen Waddle in the offseason.

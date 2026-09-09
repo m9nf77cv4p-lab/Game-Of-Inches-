@@ -20513,7 +20513,7 @@
       ],
       "first_name": "Tory",
       "full_name": "Tory Horton",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Horton",
       "nfl_team": "SEA",
       "player_id": "12497",
@@ -20648,7 +20648,7 @@
       ],
       "first_name": "Jalen",
       "full_name": "Jalen Milroe",
-      "injury_status": null,
+      "injury_status": "Out",
       "last_name": "Milroe",
       "nfl_team": "SEA",
       "player_id": "12510",
@@ -23815,8 +23815,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-09T22:50:25Z",
-    "source_fingerprint": "4646c79971237276389a8709c93f4281fd5ad166648278c7e3409af126a7413b"
+    "last_changed_at": "2026-09-09T23:16:30Z",
+    "source_fingerprint": "99fe134f5d3a8b2fc2d9036e618fd43ee1a906b48a4b6bf5c7d76543f72e6bae"
   },
   "teams": [
     {
