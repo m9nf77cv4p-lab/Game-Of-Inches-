@@ -2,11 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2230**
-- Newly captured: **0**
+- Stored stories: **2232**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — George Kittle** — George Kittle (Achilles) limited in practice Tuesday  (2026-09-09T00:00:23.558000Z)
+  - Kittle remains on track to be good to go for Thursday's season opener coming off an Achilles tear. It is unclear if he'll be facing any sort of snap count on Thursday. 
+  - Source: https://www.fantasypros.com/nfl/news/606651/george-kittle-achilles-limited-practice-tuesday.php
+- **NEW — Terrance Ferguson** — Terrance Ferguson - Sheds injury tag (2026-09-08T23:53:32Z)
+  - Ferguson carried an injury designation for the past couple weeks due to some sort of injury, but his omission from Tuesday's report indicates the issue is no longer a concern. Ferguson has been generating some buzz in fantasy circles, but all five of the tight ends on the roster for the Rams head into Week 1 healthy, so it's unclear exactly where he will slot in out of the gate.
 - **Puka Nacua** — Puka Nacua - Avoids injury report (2026-09-08T23:32:06Z)
   - Nacua has been slowed since picking up a psoas injury nearly a month ago, but he will avoid the injury report altogether in advance of Week 1. With Nacua seemingly at full speed, expect him to fill his usual role when the Rams kick off their season against the 49ers in Australia.
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Shakes off shoulder issue (2026-09-08T23:16:04Z)
@@ -214,7 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/george-kittles-workload-is-undecided/1925577
 - **Rashod Bateman** — Rashod Bateman is Avoidable in Redraft Formats (2026-09-07T22:40:05Z)
   - Source: https://www.rotoballer.com/player-news/rashod-bateman-is-avoidable-in-redraft-formats/1925569
-- **Chig Okonkwo** — Chig Okonkwo Could be Headed Towards Breakout Campaign (2026-09-07T22:30:09Z)
-  - Source: https://www.rotoballer.com/player-news/chig-okonkwo-could-be-headed-towards-breakout-campaign/1925561
-- **Hunter Henry** — Hunter Henry Remains a High-Floor Deep-League Tight End Option (2026-09-07T22:00:05Z)
-  - Source: https://www.rotoballer.com/player-news/hunter-henry-remains-a-high-floor-deep-league-tight-end-option/1925541

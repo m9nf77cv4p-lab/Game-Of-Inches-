@@ -1,8 +1,11 @@
 {
-  "last_checked_at": "2026-09-08T23:51:44Z",
+  "last_checked_at": "2026-09-09T00:04:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|12487|rotowire|636424|1788911612000",
+    "nfl|4217|fantasy_pros|606651|1788912023558"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +14,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Kittle remains on track to be good to go for Thursday's season opener coming off an Achilles tear. It is unclear if he'll be facing any sort of snap count on Thursday. ",
+      "description": "George Kittle was limited in Tuesday's practice.",
+      "metadata": {
+        "analysis": "Kittle remains on track to be good to go for Thursday's season opener coming off an Achilles tear. It is unclear if he'll be facing any sort of snap count on Thursday. ",
+        "description": "George Kittle was limited in Tuesday's practice.",
+        "title": "George Kittle (Achilles) limited in practice Tuesday ",
+        "topic_id": "1403202365821059072",
+        "url": "https://www.fantasypros.com/nfl/news/606651/george-kittle-achilles-limited-practice-tuesday.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1788912023558,
+      "source": "fantasy_pros",
+      "source_key": "606651",
+      "story_id": "nfl|4217|fantasy_pros|606651|1788912023558",
+      "title": "George Kittle (Achilles) limited in practice Tuesday ",
+      "url": "https://www.fantasypros.com/nfl/news/606651/george-kittle-achilles-limited-practice-tuesday.php"
+    },
+    {
+      "analysis": "Ferguson carried an injury designation for the past couple weeks due to some sort of injury, but his omission from Tuesday's report indicates the issue is no longer a concern. Ferguson has been generating some buzz in fantasy circles, but all five of the tight ends on the roster for the Rams head into Week 1 healthy, so it's unclear exactly where he will slot in out of the gate.",
+      "description": "Ferguson (soreness) was not listed on the injury report the Rams released Tuesday, according to Sarah Barshop of ESPN.com.",
+      "metadata": {
+        "analysis": "Ferguson carried an injury designation for the past couple weeks due to some sort of injury, but his omission from Tuesday's report indicates the issue is no longer a concern. Ferguson has been generating some buzz in fantasy circles, but all five of the tight ends on the roster for the Rams head into Week 1 healthy, so it's unclear exactly where he will slot in out of the gate.",
+        "description": "Ferguson (soreness) was not listed on the injury report the Rams released Tuesday, according to Sarah Barshop of ESPN.com.",
+        "title": "Terrance Ferguson - Sheds injury tag",
+        "topic_id": "1403202360351690752"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12487",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "published": 1788911612000,
+      "source": "rotowire",
+      "source_key": "636424",
+      "story_id": "nfl|12487|rotowire|636424|1788911612000",
+      "title": "Terrance Ferguson - Sheds injury tag",
+      "url": null
+    },
     {
       "analysis": "Nacua has been slowed since picking up a psoas injury nearly a month ago, but he will avoid the injury report altogether in advance of Week 1. With Nacua seemingly at full speed, expect him to fill his usual role when the Rams kick off their season against the 49ers in Australia.",
       "description": "Nacua (core) was not listed on the injury report the Rams released Tuesday, according to Sarah Barshop of ESPN.com.",
