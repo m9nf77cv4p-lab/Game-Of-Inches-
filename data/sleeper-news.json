@@ -1,9 +1,14 @@
 {
-  "last_checked_at": "2026-09-09T16:56:45Z",
+  "last_checked_at": "2026-09-09T17:12:18Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|13296|fantasy_pros|606730|1788972635803"
+    "nfl|13311|fantasy_pros|606731|1788973235833",
+    "nfl|13311|rotoballer|220436|1788958817000",
+    "nfl|13311|rotowire|636464|1788973778000",
+    "nfl|6801|fantasy_pros|606733|1788973835733",
+    "nfl|7564|fantasy_pros|606732|1788973835742",
+    "nfl|8228|rotoballer|220435|1788958145000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +18,89 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Chase has been recovering from a minor knee injury for several weeks at this point, but it is not considered a serious issue and he is on track to play through it against the Buccaneers on Sunday. Assuming he's active for the season opener, fantasy managers should have no hesitations about starting him and viewing him as a top-tier fantasy asset moving forward.",
+      "description": "Ja'Marr Chase (knee) is on track to play in Sunday's game against the Tampa Bay Buccaneers.",
+      "metadata": {
+        "analysis": "Chase has been recovering from a minor knee injury for several weeks at this point, but it is not considered a serious issue and he is on track to play through it against the Buccaneers on Sunday. Assuming he's active for the season opener, fantasy managers should have no hesitations about starting him and viewing him as a top-tier fantasy asset moving forward.",
+        "description": "Ja'Marr Chase (knee) is on track to play in Sunday's game against the Tampa Bay Buccaneers.",
+        "title": "Ja'Marr Chase (knee) on track to play Sunday",
+        "topic_id": "1403461624924266496",
+        "url": "https://www.fantasypros.com/nfl/news/606732/jamarr-chase-knee-on-track-to-play-sunday.php"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1788973835742,
+      "source": "fantasy_pros",
+      "source_key": "606732",
+      "story_id": "nfl|7564|fantasy_pros|606732|1788973835742",
+      "title": "Ja'Marr Chase (knee) on track to play Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/606732/jamarr-chase-knee-on-track-to-play-sunday.php"
+    },
+    {
+      "analysis": "Higgins is reportedly on pace to play in the team's season opener on Sunday, despite still managing a heel injury that has been bothering him for multiple weeks. His availability for the season opener would render both him and QB Joe Burrow great fantasy options heading into Week 1.",
+      "description": "Tee Higgins (heel) is on pace to play in Sunday's game against the Tampa Bay Buccaneers.",
+      "metadata": {
+        "analysis": "Higgins is reportedly on pace to play in the team's season opener on Sunday, despite still managing a heel injury that has been bothering him for multiple weeks. His availability for the season opener would render both him and QB Joe Burrow great fantasy options heading into Week 1.",
+        "description": "Tee Higgins (heel) is on pace to play in Sunday's game against the Tampa Bay Buccaneers.",
+        "title": "Tee Higgins (heel) on pace to play Sunday",
+        "topic_id": "1403461624878129152",
+        "url": "https://www.fantasypros.com/nfl/news/606733/tee-higgins-heel-on-pace-to-play-sunday.php"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6801",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "published": 1788973835733,
+      "source": "fantasy_pros",
+      "source_key": "606733",
+      "story_id": "nfl|6801|fantasy_pros|606733|1788973835733",
+      "title": "Tee Higgins (heel) on pace to play Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/606733/tee-higgins-heel-on-pace-to-play-sunday.php"
+    },
+    {
+      "analysis": "Despite not practicing with the Dolphins until Aug. 17 after completing his recovery from the ACL tear he sustained in November, Bell assuaged any concerns about his health and conditioning over the final two weeks of training camp and during his lone appearance in the preseason. The Dolphins are seemingly preparing for the rookie third-round pick to handle a vital role in the passing game right off the bat, as he's listed as one of three starting wide receivers on the team's unofficial depth chart heading into Week 1, per David Furones of the South Florida Sun Sentinel. Though Miami is expected to be one of the league's lower-volume passing attacks, Bell won't be facing much in the way of established competition for targets. He'll be part of a new-look receiver room that includes third-year player Malik Washington and fellow rookie Caleb Douglas as starters after Miami moved on from both Tyreek Hill (knee) and Jaylen Waddle in the offseason.",
+      "description": "Dolphins head coach Jeff Hafley said that Bell won't be on a \"pitch count\" in terms of snaps in Sunday's season opener versus the Raiders, David Furones of the South Florida Sun Sentinel reports.",
+      "metadata": {
+        "analysis": "Despite not practicing with the Dolphins until Aug. 17 after completing his recovery from the ACL tear he sustained in November, Bell assuaged any concerns about his health and conditioning over the final two weeks of training camp and during his lone appearance in the preseason. The Dolphins are seemingly preparing for the rookie third-round pick to handle a vital role in the passing game right off the bat, as he's listed as one of three starting wide receivers on the team's unofficial depth chart heading into Week 1, per David Furones of the South Florida Sun Sentinel. Though Miami is expected to be one of the league's lower-volume passing attacks, Bell won't be facing much in the way of established competition for targets. He'll be part of a new-look receiver room that includes third-year player Malik Washington and fellow rookie Caleb Douglas as starters after Miami moved on from both Tyreek Hill (knee) and Jaylen Waddle in the offseason.",
+        "description": "Dolphins head coach Jeff Hafley said that Bell won't be on a \"pitch count\" in terms of snaps in Sunday's season opener versus the Raiders, David Furones of the South Florida Sun Sentinel reports.",
+        "title": "Chris Bell - No 'pitch count' for Week 1",
+        "topic_id": "1403461620394471424"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1788973778000,
+      "source": "rotowire",
+      "source_key": "636464",
+      "story_id": "nfl|13311|rotowire|636464|1788973778000",
+      "title": "Chris Bell - No 'pitch count' for Week 1",
+      "url": null
+    },
+    {
+      "analysis": "The rookie fell in the NFL Draft this year due to a major knee injury that he was rehabbing, but it looks like he is 100% healthy heading into the team's season opener, as they confirmed that he will start and will not have a snap count in Week 1. He will start alongside fellow rookie Caleb Douglas, and it looks likely that one or both of them will become fantasy relevant this year with how thin Miami's WR depth chart is heading into Week 1.",
+      "description": "Chris Bell (knee) will be a starter and have no snap count in Miami's season opener against the Las Vegas Raiders on Sunday.",
+      "metadata": {
+        "analysis": "The rookie fell in the NFL Draft this year due to a major knee injury that he was rehabbing, but it looks like he is 100% healthy heading into the team's season opener, as they confirmed that he will start and will not have a snap count in Week 1. He will start alongside fellow rookie Caleb Douglas, and it looks likely that one or both of them will become fantasy relevant this year with how thin Miami's WR depth chart is heading into Week 1.",
+        "description": "Chris Bell (knee) will be a starter and have no snap count in Miami's season opener against the Las Vegas Raiders on Sunday.",
+        "title": "Chris Bell (knee) will start Sunday, set to have no snap count",
+        "topic_id": "1403459108706746368",
+        "url": "https://www.fantasypros.com/nfl/news/606731/chris-bell-knee-will-start-sunday-set-to-have-no-snap-count.php"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1788973235833,
+      "source": "fantasy_pros",
+      "source_key": "606731",
+      "story_id": "nfl|13311|fantasy_pros|606731|1788973235833",
+      "title": "Chris Bell (knee) will start Sunday, set to have no snap count",
+      "url": "https://www.fantasypros.com/nfl/news/606731/chris-bell-knee-will-start-sunday-set-to-have-no-snap-count.php"
+    },
     {
       "analysis": "The Dolphins selected Douglas in the third round of this year's draft, but he had an impressive offseason for them and is set to be a starter for the team in their season opener. That's a great sign for his season outlook, as it means he will have ample opportunities to prove himself and break out from the very start of the season.",
       "description": "Caleb Douglas is set to be a starter for the Dolphins in their Week 1 matchup against the Las Vegas Raiders.",
@@ -180,10 +268,50 @@
     },
     {
       "analysis": null,
+      "description": "After missing most of training camp and the preseason as he worked his way back from the ACL injury that ended his collegiate career, Miami Dolphins rookie wide receiver Chris Bell has been listed as a Week 1 starter, and head coach Jeff Hafley told the media on Wednesday that he will not be limited by a pitch count. Bell appeared in the Dolphins' final preseason game and was targeted five times in roughly 10 minutes of game time, and along with fellow rookie Caleb Douglas, he has earned a spot in the season-opening lineup when Miami faces the Raiders on Sunday. \"We believe those guys deserve to start, and we're gonna start them,\" Hafley told reporters. A third-round pick in the 2026 NFL Draft, there is a belief Bell would have gone significantly earlier if not for the injury, and in a Dolphins offense in search of playmakers to complement running back De'Von Achane, the 22-year-old wideout has arguably the highest ceiling and should be viewed as the Miami receiver to roster for fantasy.",
+      "metadata": {
+        "description": "After missing most of training camp and the preseason as he worked his way back from the ACL injury that ended his collegiate career, Miami Dolphins rookie wide receiver Chris Bell has been listed as a Week 1 starter, and head coach Jeff Hafley told the media on Wednesday that he will not be limited by a pitch count. Bell appeared in the Dolphins' final preseason game and was targeted five times in roughly 10 minutes of game time, and along with fellow rookie Caleb Douglas, he has earned a spot in the season-opening lineup when Miami faces the Raiders on Sunday. \"We believe those guys deserve to start, and we're gonna start them,\" Hafley told reporters. A third-round pick in the 2026 NFL Draft, there is a belief Bell would have gone significantly earlier if not for the injury, and in a Dolphins offense in search of playmakers to complement running back De'Von Achane, the 22-year-old wideout has arguably the highest ceiling and should be viewed as the Miami receiver to roster for fantasy.",
+        "title": "Chris Bell to Start Week 1 Without a Pitch Count",
+        "topic_id": "1403460359607586816",
+        "url": "https://www.rotoballer.com/player-news/chris-bell-to-start-week-1-without-a-pitch-count/1926847"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1788958817000,
+      "source": "rotoballer",
+      "source_key": "220436",
+      "story_id": "nfl|13311|rotoballer|220436|1788958817000",
+      "title": "Chris Bell to Start Week 1 Without a Pitch Count",
+      "url": "https://www.rotoballer.com/player-news/chris-bell-to-start-week-1-without-a-pitch-count/1926847"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers running back Jaylen Warren is no stranger to competition, having spent his first three seasons in a backfield split with Najee Harris before sharing a room with Kenny Gainwell in 2025. Following Gainwell's departure, the Steelers added veteran Rico Dowdle, who has topped 1,000 rushing yards at each of his last two stops, but heading into Week 1, Warren is listed as the RB1 on the team's unofficial depth chart and could see a significant workload against an undermanned Falcons defense. Warren and Dowdle are similarly well-rounded backs who could be used interchangeably throughout the season, and should both find fantasy viability in the right matchups. Against the Falcons, the Steelers are favored at home, presenting Warren with an opportunity to forge a strong start to his 2026 season.",
+      "metadata": {
+        "description": "Pittsburgh Steelers running back Jaylen Warren is no stranger to competition, having spent his first three seasons in a backfield split with Najee Harris before sharing a room with Kenny Gainwell in 2025. Following Gainwell's departure, the Steelers added veteran Rico Dowdle, who has topped 1,000 rushing yards at each of his last two stops, but heading into Week 1, Warren is listed as the RB1 on the team's unofficial depth chart and could see a significant workload against an undermanned Falcons defense. Warren and Dowdle are similarly well-rounded backs who could be used interchangeably throughout the season, and should both find fantasy viability in the right matchups. Against the Falcons, the Steelers are favored at home, presenting Warren with an opportunity to forge a strong start to his 2026 season.",
+        "title": "Jaylen Warren Could Handle a Large Week 1 Role",
+        "topic_id": "1403459102197178368",
+        "url": "https://www.rotoballer.com/player-news/jaylen-warren-could-handle-a-large-week-1-role-as-the-steelers-listed-starter/1926837"
+      },
+      "nfl_team": "PIT",
+      "player_id": "8228",
+      "player_name": "Jaylen Warren",
+      "position": "RB",
+      "published": 1788958145000,
+      "source": "rotoballer",
+      "source_key": "220435",
+      "story_id": "nfl|8228|rotoballer|220435|1788958145000",
+      "title": "Jaylen Warren Could Handle a Large Week 1 Role",
+      "url": "https://www.rotoballer.com/player-news/jaylen-warren-could-handle-a-large-week-1-role-as-the-steelers-listed-starter/1926837"
+    },
+    {
+      "analysis": null,
       "description": "Las Vegas Raiders rookie running back Mike Washington Jr. led all qualified runners with a 7.3 yards-per-carry average during the 2026 preseason. Following a dominant effort across all three games, he has positioned himself as not just an important insurance back, but as a player who could see a standalone role as early as Week 1. 2025 sixth overall pick Ashton Jeanty (ankle) handled 334 opportunities as a rookie, but upon his arrival from Seattle, head coach Klint Kubiak immediately espoused the value of a committee running back approach. In Washington, he may have found a player to help lighten Jeanty's workload, particularly with the former first-rounder already dealing with an ankle injury. With the Raiders still holding one of the league's lowest projected win totals, it may be difficult for the team to support two usable fantasy backs, but Washington's preseason push makes him an intriguing end-of-bench stash who would see his value catapult if ever forced into a larger role by injury.",
       "metadata": {
         "description": "Las Vegas Raiders rookie running back Mike Washington Jr. led all qualified runners with a 7.3 yards-per-carry average during the 2026 preseason. Following a dominant effort across all three games, he has positioned himself as not just an important insurance back, but as a player who could see a standalone role as early as Week 1. 2025 sixth overall pick Ashton Jeanty (ankle) handled 334 opportunities as a rookie, but upon his arrival from Seattle, head coach Klint Kubiak immediately espoused the value of a committee running back approach. In Washington, he may have found a player to help lighten Jeanty's workload, particularly with the former first-rounder already dealing with an ankle injury. With the Raiders still holding one of the league's lowest projected win totals, it may be difficult for the team to support two usable fantasy backs, but Washington's preseason push makes him an intriguing end-of-bench stash who would see his value catapult if ever forced into a larger role by injury.",
-        "title": "Mike Washington Jr. Could See a Key Week 1 Role After Dominant Preseason Effort",
+        "title": "Mike Washington Jr. Could See a Key Week 1 Role",
         "topic_id": "1403454068801708032",
         "url": "https://www.rotoballer.com/player-news/mike-washington-jr-could-see-a-key-week-1-role-after-dominant-preseason-effort/1926824"
       },
@@ -195,7 +323,7 @@
       "source": "rotoballer",
       "source_key": "220434",
       "story_id": "nfl|13305|rotoballer|220434|1788957446000",
-      "title": "Mike Washington Jr. Could See a Key Week 1 Role After Dominant Preseason Effort",
+      "title": "Mike Washington Jr. Could See a Key Week 1 Role",
       "url": "https://www.rotoballer.com/player-news/mike-washington-jr-could-see-a-key-week-1-role-after-dominant-preseason-effort/1926824"
     },
     {
