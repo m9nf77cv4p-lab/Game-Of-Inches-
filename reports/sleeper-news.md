@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2237**
+- Stored stories: **2238**
 - Newly captured: **1**
 
 ## Latest news
@@ -25,7 +25,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Puka Nacua** — Puka Nacua not listed on Rams first injury report (2026-09-08T22:35:22.707000Z)
   - Puka has been dealing with a psoas injury for a little over a week, but his absence on the injury report is a big indication that barring a setback, he will play on Thursday. The star receiver should be a full go and lock into fantasy lineups.
   - Source: https://www.fantasypros.com/nfl/news/606631/puka-nacua-not-listed-on-rams-first-injury-report.php
-- **NEW — Cyrus Allen** — Cyrus Allen a Top Waiver Wire Stash Heading Into Week 1 (2026-09-08T22:12:12Z)
+- **NEW — Jordan Love** — Jordan Love a Must-Add off the Waiver Wire Heading into Week 1 (2026-09-08T22:24:06Z)
+  - Source: https://www.rotoballer.com/player-news/jordan-love-a-must-add-off-the-waiver-wire-heading-into-week-1/1926396
+- **Cyrus Allen** — Cyrus Allen a Top Waiver Wire Stash Heading Into Week 1 (2026-09-08T22:12:12Z)
   - Source: https://www.rotoballer.com/player-news/cyrus-allen-a-top-waiver-wire-stash-heading-into-week-1/1926387
 - **Cyrus Allen** — Cyrus Allen - Labeled as reserve on depth chart (2026-09-08T22:05:12Z)
   - A rookie fifth-round pick out of Cincinnati, Allen generated plenty of positive buzz in training camp and the preseason, but he doesn't appear to have a path to meaningful playing time heading into Week 1 while the Chiefs' receiving corps is at full strength. Rashee Rice and Xavier Worthy are locked in as the clear top two options on the depth chart, but Allen could eventually push Tyquan Thornton for the No. 3 spot. Thornton possesses more speed of the two and found some success as a vertical threat for the Chiefs last season, but Allen offers a more diverse route tree and could be a higher-volume target earner if Rice were to miss time at any point.
@@ -217,5 +219,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jalen-mcmillans-experience-an-advantage-in-depth-chart-competition/1925605
 - **Christian McCaffrey** — Christian McCaffrey in Full Uniform for Tuesday's practice in Australia (2026-09-08T00:57:07Z)
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-in-full-uniform-for-tuesdays-practice-in-australia/1925603
-- **De'Zhaun Stribling** — De'Zhaun Stribling in Full Uniform for Practice (2026-09-08T00:51:42Z)
-  - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-in-full-uniform-for-practice/1925601

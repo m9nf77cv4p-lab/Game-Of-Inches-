@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-09T02:18:11Z",
+  "last_checked_at": "2026-09-09T02:33:19Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 283,
   "new_story_ids": [
-    "nfl|13413|rotoballer|220397|1788905532000"
+    "nfl|6804|rotoballer|220398|1788906246000"
   ],
   "schema_version": 1,
   "source": {
@@ -174,6 +174,26 @@
       "story_id": "nfl|9493|fantasy_pros|606631|1788906922707",
       "title": "Puka Nacua not listed on Rams first injury report",
       "url": "https://www.fantasypros.com/nfl/news/606631/puka-nacua-not-listed-on-rams-first-injury-report.php"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers 27-year-old quarterback Jordan Love is poised for a stellar season in 2026. With star running back Josh Jacobs facing a potential suspension and currently on the NFL's Commissioner's Exempt List, the Packers will need to rely on Love to carry this offense, and he should see his passing volume climb. Back in 2023, Love finished as the QB5 in fantasy points per game (19.4), and star receiver Christian Watson is healthy coming into the season to go along with Tucker Kraft (knee), who appears to be on track to return in Week 1. Although Love has struggled the past two seasons from a fantasy standpoint (QB16 and QB18 finishes), it's mostly due to his lack of volume. In 2025, he ranked 19th in pass attempts and 28th in team pass plays per game. Even with that, he was highly efficient, ranking seventh in true passer rating, second in QBR, and seventh in explosive rating and EPA. Love is a must-add on the waiver wire heading into Week 1, as he is being treated like a QB2 but has a clear path to QB1 upside.",
+      "metadata": {
+        "description": "Green Bay Packers 27-year-old quarterback Jordan Love is poised for a stellar season in 2026. With star running back Josh Jacobs facing a potential suspension and currently on the NFL's Commissioner's Exempt List, the Packers will need to rely on Love to carry this offense, and he should see his passing volume climb. Back in 2023, Love finished as the QB5 in fantasy points per game (19.4), and star receiver Christian Watson is healthy coming into the season to go along with Tucker Kraft (knee), who appears to be on track to return in Week 1. Although Love has struggled the past two seasons from a fantasy standpoint (QB16 and QB18 finishes), it's mostly due to his lack of volume. In 2025, he ranked 19th in pass attempts and 28th in team pass plays per game. Even with that, he was highly efficient, ranking seventh in true passer rating, second in QBR, and seventh in explosive rating and EPA. Love is a must-add on the waiver wire heading into Week 1, as he is being treated like a QB2 but has a clear path to QB1 upside.",
+        "title": "Jordan Love a Must-Add off the Waiver Wire Heading into Week 1",
+        "topic_id": "1403240108559216640",
+        "url": "https://www.rotoballer.com/player-news/jordan-love-a-must-add-off-the-waiver-wire-heading-into-week-1/1926396"
+      },
+      "nfl_team": "GB",
+      "player_id": "6804",
+      "player_name": "Jordan Love",
+      "position": "QB",
+      "published": 1788906246000,
+      "source": "rotoballer",
+      "source_key": "220398",
+      "story_id": "nfl|6804|rotoballer|220398|1788906246000",
+      "title": "Jordan Love a Must-Add off the Waiver Wire Heading into Week 1",
+      "url": "https://www.rotoballer.com/player-news/jordan-love-a-must-add-off-the-waiver-wire-heading-into-week-1/1926396"
     },
     {
       "analysis": null,
