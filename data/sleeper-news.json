@@ -1,11 +1,13 @@
 {
-  "last_checked_at": "2026-09-09T19:56:56Z",
+  "last_checked_at": "2026-09-09T20:13:52Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 284,
   "new_story_ids": [
-    "nfl|11610|rotoballer|220458|1788968707000",
-    "nfl|11632|fantasy_pros|606744|1788983450601",
-    "nfl|8134|fantasy_pros|606743|1788983450613"
+    "nfl|10859|rotowire|636485|1788984530000",
+    "nfl|11604|fantasy_pros|606745|1788984348589",
+    "nfl|11604|rotowire|636482|1788983865000",
+    "nfl|11604|rotowire|636483|1788984285000",
+    "nfl|11834|rotoballer|220461|1788970090000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +17,87 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "LaPorta missed the Lions' final eight games last season with a back injury and then dealt with a hip issue this summer. He returned to practice in late August and is ready to go for Sunday's season opener against the Saints. LaPorta is expected to compete with Jameson Williams for targets behind alpha WR1 Amon-Ra St. Brown this season, and the tight end will likely be a big a presence in the red zone.",
+      "description": "LaPorta (hip) is not listed on the Lions' Week 1 injury report Wednesday, Tim Twentyman of the Lions' official site reports.",
+      "metadata": {
+        "analysis": "LaPorta missed the Lions' final eight games last season with a back injury and then dealt with a hip issue this summer. He returned to practice in late August and is ready to go for Sunday's season opener against the Saints. LaPorta is expected to compete with Jameson Williams for targets behind alpha WR1 Amon-Ra St. Brown this season, and the tight end will likely be a big a presence in the red zone.",
+        "description": "LaPorta (hip) is not listed on the Lions' Week 1 injury report Wednesday, Tim Twentyman of the Lions' official site reports.",
+        "title": "Sam LaPorta - Not listed on injury report",
+        "topic_id": "1403506968215179264"
+      },
+      "nfl_team": "DET",
+      "player_id": "10859",
+      "player_name": "Sam LaPorta",
+      "position": "TE",
+      "published": 1788984530000,
+      "source": "rotowire",
+      "source_key": "636485",
+      "story_id": "nfl|10859|rotowire|636485|1788984530000",
+      "title": "Sam LaPorta - Not listed on injury report",
+      "url": null
+    },
+    {
+      "analysis": "Bowers reportedly got 'banged up' during training camp last week, and the team made the decision to have him undergo a minor procedure to trim his meniscus. This is especially concerning considering that he missed much of last year due to a nagging knee injury, and the team already expects him to be sidelined for at least a game or two while he recovers from this one. This is an alarming situation that fantasy managers should keep close tabs on, as this injury could linger if there are any setbacks in his recovery. Michael Mayer will step in as the team's top tight end in his absence, with Tre Tucker and Jalen Nailor both also likely to see an increase in opportunities in the star tight end's absence.",
+      "description": "Brock Bowers underwent a minor meniscus trim operation on Tuesday and is set to be sidelined for 'a game or two' as a result.",
+      "metadata": {
+        "analysis": "Bowers reportedly got 'banged up' during training camp last week, and the team made the decision to have him undergo a minor procedure to trim his meniscus. This is especially concerning considering that he missed much of last year due to a nagging knee injury, and the team already expects him to be sidelined for at least a game or two while he recovers from this one. This is an alarming situation that fantasy managers should keep close tabs on, as this injury could linger if there are any setbacks in his recovery. Michael Mayer will step in as the team's top tight end in his absence, with Tre Tucker and Jalen Nailor both also likely to see an increase in opportunities in the star tight end's absence.",
+        "description": "Brock Bowers underwent a minor meniscus trim operation on Tuesday and is set to be sidelined for 'a game or two' as a result.",
+        "title": "Brock Bowers (knee) to miss 'a game or two'",
+        "topic_id": "1403505718987943936",
+        "url": "https://www.fantasypros.com/nfl/news/606745/brock-bowers-knee-to-miss-a-game-or-two.php"
+      },
+      "nfl_team": "LV",
+      "player_id": "11604",
+      "player_name": "Brock Bowers",
+      "position": "TE",
+      "published": 1788984348589,
+      "source": "fantasy_pros",
+      "source_key": "606745",
+      "story_id": "nfl|11604|fantasy_pros|606745|1788984348589",
+      "title": "Brock Bowers (knee) to miss 'a game or two'",
+      "url": "https://www.fantasypros.com/nfl/news/606745/brock-bowers-knee-to-miss-a-game-or-two.php"
+    },
+    {
+      "analysis": "This is huge news just before the season gets underway as the top tight end in the league is now expected to miss regular season time. Per Schefter, Bowers suffered a minor knee injury in camp that was diagnosed last week. He underwent a meniscus trim, which will speed up his time to return to the field rather than a repair. Michael Mayer projects to see a usage boost for however long Bowers is sidelined.",
+      "description": "Bowers underwent a meniscus trim procedure Tuesday and is expected to miss \"a game or two,\" Adam Schefter of ESPN reports.",
+      "metadata": {
+        "analysis": "This is huge news just before the season gets underway as the top tight end in the league is now expected to miss regular season time. Per Schefter, Bowers suffered a minor knee injury in camp that was diagnosed last week. He underwent a meniscus trim, which will speed up his time to return to the field rather than a repair. Michael Mayer projects to see a usage boost for however long Bowers is sidelined.",
+        "description": "Bowers underwent a meniscus trim procedure Tuesday and is expected to miss \"a game or two,\" Adam Schefter of ESPN reports.",
+        "title": "Brock Bowers - Undergoes meniscus trim, expected miss 1-2 games",
+        "topic_id": "1403506968080961536"
+      },
+      "nfl_team": "LV",
+      "player_id": "11604",
+      "player_name": "Brock Bowers",
+      "position": "TE",
+      "published": 1788984285000,
+      "source": "rotowire",
+      "source_key": "636483",
+      "story_id": "nfl|11604|rotowire|636483|1788984285000",
+      "title": "Brock Bowers - Undergoes meniscus trim, expected miss 1-2 games",
+      "url": null
+    },
+    {
+      "analysis": "Bowers remained healthy throughout training camp and the preseason after a lingering PCL injury and bone bruise in his knee sidelined him for five games in 2025, but he could be dealing with a new health concern leading up to the Raiders' Week 1 matchup with the Dolphins. The Raiders will release their first injury report of the season later Wednesday, when an explanation behind Bowers' absence will be provided.",
+      "description": "Bowers wasn't seen on the field during the open portion of Wednesday's practice, Ryan McFadden of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Bowers remained healthy throughout training camp and the preseason after a lingering PCL injury and bone bruise in his knee sidelined him for five games in 2025, but he could be dealing with a new health concern leading up to the Raiders' Week 1 matchup with the Dolphins. The Raiders will release their first injury report of the season later Wednesday, when an explanation behind Bowers' absence will be provided.",
+        "description": "Bowers wasn't seen on the field during the open portion of Wednesday's practice, Ryan McFadden of ESPN.com reports.",
+        "title": "Brock Bowers - Not spotted at Wednesday's practice",
+        "topic_id": "1403504451142053888"
+      },
+      "nfl_team": "LV",
+      "player_id": "11604",
+      "player_name": "Brock Bowers",
+      "position": "TE",
+      "published": 1788983865000,
+      "source": "rotowire",
+      "source_key": "636482",
+      "story_id": "nfl|11604|rotowire|636482|1788983865000",
+      "title": "Brock Bowers - Not spotted at Wednesday's practice",
+      "url": null
+    },
     {
       "analysis": "Shakir's availability for Week 1 is currently up in the air due to an undisclosed injury that he's dealing with. He was spotted at practice on Wednesday, however, which bodes well for his availability for the season opener. It remains unclear if he was a limited or full participant.",
       "description": "Khalil Shakir (undisclosed) was seen practicing for the Bills on Wednesday.",
@@ -731,6 +814,26 @@
       "story_id": "nfl|12514|rotowire|636460|1788970341000",
       "title": "Emeka Egbuka - Looks to be practicing fully Wednesday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Devaughn Vele has a real early-season opening with rookie Jordyn Tyson on injured reserve. Vele is listed with the first-team offense, and there is at least some evidence he can make use of the extra work. After Rashid Shaheed was traded last season, Vele caught 20 passes for 254 yards and a touchdown on 29 targets over his final five games before a shoulder injury ended his year. That stretch matters more than the full-season line of 25 catches for 293 yards. Chris Olave is still the clear top receiver, while Barion Brown and Juwan Johnson will compete for targets too, so calling Vele the automatic No. 2 option would go too far. The opportunity is there, though. Tyson must miss at least four games, and Vele already showed late last season that his production can climb when the Saints give him more to do. He has a chance to turn this early window into a much steadier fantasy role.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Devaughn Vele has a real early-season opening with rookie Jordyn Tyson on injured reserve. Vele is listed with the first-team offense, and there is at least some evidence he can make use of the extra work. After Rashid Shaheed was traded last season, Vele caught 20 passes for 254 yards and a touchdown on 29 targets over his final five games before a shoulder injury ended his year. That stretch matters more than the full-season line of 25 catches for 293 yards. Chris Olave is still the clear top receiver, while Barion Brown and Juwan Johnson will compete for targets too, so calling Vele the automatic No. 2 option would go too far. The opportunity is there, though. Tyson must miss at least four games, and Vele already showed late last season that his production can climb when the Saints give him more to do. He has a chance to turn this early window into a much steadier fantasy role.",
+        "title": "Devaughn Vele Could Grab the No. 2 Job Early",
+        "topic_id": "1403506964880732160",
+        "url": "https://www.rotoballer.com/player-news/devaughn-vele-could-grab-the-no-2-job-early/1927038"
+      },
+      "nfl_team": "NO",
+      "player_id": "11834",
+      "player_name": "Devaughn Vele",
+      "position": "WR",
+      "published": 1788970090000,
+      "source": "rotoballer",
+      "source_key": "220461",
+      "story_id": "nfl|11834|rotoballer|220461|1788970090000",
+      "title": "Devaughn Vele Could Grab the No. 2 Job Early",
+      "url": "https://www.rotoballer.com/player-news/devaughn-vele-could-grab-the-no-2-job-early/1927038"
     },
     {
       "analysis": null,

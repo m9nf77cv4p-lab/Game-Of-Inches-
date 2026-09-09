@@ -2,15 +2,24 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2321**
-- Newly captured: **3**
+- Stored stories: **2326**
+- Newly captured: **5**
 
 ## Latest news
 
-- **NEW — Khalil Shakir** — Khalil Shakir (undisclosed) seen practicing Wednesday (2026-09-09T19:50:50.613000Z)
+- **NEW — Sam LaPorta** — Sam LaPorta - Not listed on injury report (2026-09-09T20:08:50Z)
+  - LaPorta missed the Lions' final eight games last season with a back injury and then dealt with a hip issue this summer. He returned to practice in late August and is ready to go for Sunday's season opener against the Saints. LaPorta is expected to compete with Jameson Williams for targets behind alpha WR1 Amon-Ra St. Brown this season, and the tight end will likely be a big a presence in the red zone.
+- **NEW — Brock Bowers** — Brock Bowers (knee) to miss 'a game or two' (2026-09-09T20:05:48.589000Z)
+  - Bowers reportedly got 'banged up' during training camp last week, and the team made the decision to have him undergo a minor procedure to trim his meniscus. This is especially concerning considering that he missed much of last year due to a nagging knee injury, and the team already expects him to be sidelined for at least a game or two while he recovers from this one. This is an alarming situation that fantasy managers should keep close tabs on, as this injury could linger if there are any setbacks in his recovery. Michael Mayer will step in as the team's top tight end in his absence, with Tre Tucker and Jalen Nailor both also likely to see an increase in opportunities in the star tight end's absence.
+  - Source: https://www.fantasypros.com/nfl/news/606745/brock-bowers-knee-to-miss-a-game-or-two.php
+- **NEW — Brock Bowers** — Brock Bowers - Undergoes meniscus trim, expected miss 1-2 games (2026-09-09T20:04:45Z)
+  - This is huge news just before the season gets underway as the top tight end in the league is now expected to miss regular season time. Per Schefter, Bowers suffered a minor knee injury in camp that was diagnosed last week. He underwent a meniscus trim, which will speed up his time to return to the field rather than a repair. Michael Mayer projects to see a usage boost for however long Bowers is sidelined.
+- **NEW — Brock Bowers** — Brock Bowers - Not spotted at Wednesday's practice (2026-09-09T19:57:45Z)
+  - Bowers remained healthy throughout training camp and the preseason after a lingering PCL injury and bone bruise in his knee sidelined him for five games in 2025, but he could be dealing with a new health concern leading up to the Raiders' Week 1 matchup with the Dolphins. The Raiders will release their first injury report of the season later Wednesday, when an explanation behind Bowers' absence will be provided.
+- **Khalil Shakir** — Khalil Shakir (undisclosed) seen practicing Wednesday (2026-09-09T19:50:50.613000Z)
   - Shakir's availability for Week 1 is currently up in the air due to an undisclosed injury that he's dealing with. He was spotted at practice on Wednesday, however, which bodes well for his availability for the season opener. It remains unclear if he was a limited or full participant.
   - Source: https://www.fantasypros.com/nfl/news/606743/khalil-shakir-undisclosed-seen-practicing-wednesday.php
-- **NEW — Malik Nabers** — Malik Nabers (knee) logs full practice Wednesday, likely to play Sunday (2026-09-09T19:50:50.601000Z)
+- **Malik Nabers** — Malik Nabers (knee) logs full practice Wednesday, likely to play Sunday (2026-09-09T19:50:50.601000Z)
   - HC John Harbaugh told reporters that he thinks Nabers will be ready to go for the team's season opener against the Cowboys on Sunday night. This comes after he logged a full practice session on Wednesday, so he seems to be trending towards being close to full health for Week 1. If there are no setbacks throughout the week, fantasy managers should start him with confidence in what projects to be a high scoring matchup against their divisional rivals.
   - Source: https://www.fantasypros.com/nfl/news/606744/malik-nabers-knee-logs-full-practice-wednesday-likely-to-play-sunday.php
 - **Chuba Hubbard** — Chuba Hubbard - Not listed on injury report (2026-09-09T19:43:22Z)
@@ -94,7 +103,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606720/emeka-egbuka-toe-seen-practicing-wednesday.php
 - **Emeka Egbuka** — Emeka Egbuka - Looks to be practicing fully Wednesday (2026-09-09T16:12:21Z)
   - Tampa Bay will post its first injury report of the season after Wednesday's session concludes, and if Egbuka is in fact listed as a full participant, he would be in the clear to play in Sunday's season opener versus the Bengals. For much of training camp, Egbuka was a spectator or limited participant while he tended to a sprained toe, but he appears to have made positive strides in his recovery over the past week. Tampa Bay looks set to have all of its key pass catchers available for Week 1, as Jalen McMillan (knee) also looked to be practicing fully Wednesday.
-- **NEW — Malik Washington** — Malik Washington Gets His Shot in Miami's Starting Lineup (2026-09-09T15:45:07Z)
+- **NEW — Devaughn Vele** — Devaughn Vele Could Grab the No. 2 Job Early (2026-09-09T16:08:10Z)
+  - Source: https://www.rotoballer.com/player-news/devaughn-vele-could-grab-the-no-2-job-early/1927038
+- **Malik Washington** — Malik Washington Gets His Shot in Miami's Starting Lineup (2026-09-09T15:45:07Z)
   - Source: https://www.rotoballer.com/player-news/malik-washington-gets-his-shot-in-miamis-starting-lineup/1927018
 - **Dalton Kincaid** — Dalton Kincaid Could Become a League-Winner With More Snaps (2026-09-09T15:36:48Z)
   - Source: https://www.rotoballer.com/player-news/dalton-kincaid-could-become-a-league-winner-with-more-snaps/1927010
@@ -216,15 +227,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606631/puka-nacua-not-listed-on-rams-first-injury-report.php
 - **Jordan Love** — Jordan Love a Must-Add off the Waiver Wire Heading into Week 1 (2026-09-08T22:24:06Z)
   - Source: https://www.rotoballer.com/player-news/jordan-love-a-must-add-off-the-waiver-wire-heading-into-week-1/1926396
-- **Cyrus Allen** — Cyrus Allen a Top Waiver Wire Stash Heading Into Week 1 (2026-09-08T22:12:12Z)
-  - Source: https://www.rotoballer.com/player-news/cyrus-allen-a-top-waiver-wire-stash-heading-into-week-1/1926387
-- **Cyrus Allen** — Cyrus Allen - Labeled as reserve on depth chart (2026-09-08T22:05:12Z)
-  - A rookie fifth-round pick out of Cincinnati, Allen generated plenty of positive buzz in training camp and the preseason, but he doesn't appear to have a path to meaningful playing time heading into Week 1 while the Chiefs' receiving corps is at full strength. Rashee Rice and Xavier Worthy are locked in as the clear top two options on the depth chart, but Allen could eventually push Tyquan Thornton for the No. 3 spot. Thornton possesses more speed of the two and found some success as a vertical threat for the Chiefs last season, but Allen offers a more diverse route tree and could be a higher-volume target earner if Rice were to miss time at any point.
-- **Rhamondre Stevenson** — Rhamondre Stevenson - Lead role awaits in opener (2026-09-08T22:01:39Z)
-  - Stevenson and Henderson are expected to have a fairly equitable split of the backfield when both are fully healthy, but the latter's absence for Week 1 should clear the way for Stevenson to handle a workhorse role. The Patriots have Corey Kiner on hand as a backup option, and at least one of Lan Larison and Hassan Haskins will be promoted from the practice squad for the opener, but none are expected to poach much work from Stevenson on early or passing downs. With a big workload likely awaiting him Wednesday, Stevenson should make for a strong option in Week 1 fantasy lineups, even in a tough matchup against the reigning Super Bowl champions.
-- **AJ Barner** — AJ Barner (oblique) off injury report Wednesday  (2026-09-08T21:30:22.081000Z)
-  - Barner practiced all week in full. He'll be a TE2 for fantasy managers going into the season. 
-  - Source: https://www.fantasypros.com/nfl/news/606608/aj-barner-oblique-off-injury-report-wednesday.php
-- **Tory Horton** — Tory Horton (hamstring) listed questionable Wednesday  (2026-09-08T21:20:22.192000Z)
-  - Horton was limited in practice the past few days. His status is up in the air heading into Wednesday. 
-  - Source: https://www.fantasypros.com/nfl/news/606606/tory-horton-hamstring-listed-questionable-wednesday.php
