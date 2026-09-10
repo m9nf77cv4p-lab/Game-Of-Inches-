@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-10T21:36:09Z",
+  "last_checked_at": "2026-09-10T21:47:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11618|rotowire|636714|1789075977000",
-    "nfl|5947|rotowire|636713|1789075513000"
+    "nfl|12533|rotowire|636716|1789076493000",
+    "nfl|4046|rotoballer|220574|1789062007000",
+    "nfl|9494|rotowire|636717|1789076623000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Mims sustained a foot contusion in the Broncos' Aug. 28 preseason finale against the Vikings, but after having no limitations in the team's first official practice of the regular season, he'll be ready to go for the opener Monday in Kansas City. On the Broncos' unofficial depth chart, Mims is listed as a starting receiver along with Jaylen Waddle and Courtland Sutton, though second-year wideout Pat Bryant drew plenty of positive buzz during training camp and the preseason and could push Mims for No. 3 duties.",
+      "description": "Mims (foot) was listed as a full practice participant Thursday, Aric DiLalla of the Broncos' official site reports.",
+      "metadata": {
+        "analysis": "Mims sustained a foot contusion in the Broncos' Aug. 28 preseason finale against the Vikings, but after having no limitations in the team's first official practice of the regular season, he'll be ready to go for the opener Monday in Kansas City. On the Broncos' unofficial depth chart, Mims is listed as a starting receiver along with Jaylen Waddle and Courtland Sutton, though second-year wideout Pat Bryant drew plenty of positive buzz during training camp and the preseason and could push Mims for No. 3 duties.",
+        "description": "Mims (foot) was listed as a full practice participant Thursday, Aric DiLalla of the Broncos' official site reports.",
+        "title": "Marvin Mims - Practices fully to kick off Week 1 prep",
+        "topic_id": "1403893187793203200"
+      },
+      "nfl_team": "DEN",
+      "player_id": "9494",
+      "player_name": "Marvin Mims",
+      "position": "WR",
+      "published": 1789076623000,
+      "source": "rotowire",
+      "source_key": "636717",
+      "story_id": "nfl|9494|rotowire|636717|1789076623000",
+      "title": "Marvin Mims - Practices fully to kick off Week 1 prep",
+      "url": null
+    },
+    {
+      "analysis": "Croskey-Merritt has been tending to a lower-body injury since picking it up during an Aug. 22 practice. He's been back on the field since Sept. 1 but hasn't been able to do enough yet to be considered a full participant. Friday's practice report may provide a sense of Croskey-Merritt's odds to suit up for Sunday's regular-season opener at Philadelphia.",
+      "description": "Croskey-Merritt (groin) practiced in a limited capacity Thursday.",
+      "metadata": {
+        "analysis": "Croskey-Merritt has been tending to a lower-body injury since picking it up during an Aug. 22 practice. He's been back on the field since Sept. 1 but hasn't been able to do enough yet to be considered a full participant. Friday's practice report may provide a sense of Croskey-Merritt's odds to suit up for Sunday's regular-season opener at Philadelphia.",
+        "description": "Croskey-Merritt (groin) practiced in a limited capacity Thursday.",
+        "title": "Jacory Croskey-Merritt - Remains limited in practice",
+        "topic_id": "1403893187780620288"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1789076493000,
+      "source": "rotowire",
+      "source_key": "636716",
+      "story_id": "nfl|12533|rotowire|636716|1789076493000",
+      "title": "Jacory Croskey-Merritt - Remains limited in practice",
+      "url": null
+    },
     {
       "analysis": "McMillan has been tending to a knee injury since early August, a scenario that sidelined him for the entire preseason slate. With back-to-back capped sessions under his belt, he still has some work to do to make himself available for Sunday's game at Cincinnati. Friday's practice report will reveal if McMillan enters the weekend with a designation ahead of that matchup.",
       "description": "McMillan (knee) was a limited practice participant Thursday.",
@@ -997,6 +1038,26 @@
       "story_id": "nfl|13317|rotowire|636685|1789062106000",
       "title": "Ted Hurst - Talked up by OC",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Kansas City Chiefs listed quarterback Patrick Mahomes (knee) as a full participant in their first official practice of the week on Thursday, paving the way for him to start on Monday night in the Week 1 season opener at home against the division-rival Denver Broncos. Mahomes suffered a torn ACL and LCL on Dec. 14 against the Los Angeles Chargers, but he recovered quickly in the offseason and was essentially a full-go for the start of training camp at the end of July, although KC held him out of all three preseason games. The 30-year-old two-time MVP and three-time Super Bowl MVP is not expected to be limited at all from a playbook perspective as the Chiefs look to bounce back after missing the playoffs entirely in 2025. However, head coach Andy Reid could be mindful of any designed running plays for the QB, and for fantasy purposes, he will be a low-end QB2 option in the season opener against the Broncos defense, which led the league in sacks in 2025. Mahomes will also have his blind side protected by an undrafted rookie offensive tackle who will be making his NFL debut.",
+      "metadata": {
+        "description": "The Kansas City Chiefs listed quarterback Patrick Mahomes (knee) as a full participant in their first official practice of the week on Thursday, paving the way for him to start on Monday night in the Week 1 season opener at home against the division-rival Denver Broncos. Mahomes suffered a torn ACL and LCL on Dec. 14 against the Los Angeles Chargers, but he recovered quickly in the offseason and was essentially a full-go for the start of training camp at the end of July, although KC held him out of all three preseason games. The 30-year-old two-time MVP and three-time Super Bowl MVP is not expected to be limited at all from a playbook perspective as the Chiefs look to bounce back after missing the playoffs entirely in 2025. However, head coach Andy Reid could be mindful of any designed running plays for the QB, and for fantasy purposes, he will be a low-end QB2 option in the season opener against the Broncos defense, which led the league in sacks in 2025. Mahomes will also have his blind side protected by an undrafted rookie offensive tackle who will be making his NFL debut.",
+        "title": "Patrick Mahomes Practicing in Full Ahead of Season Opener",
+        "topic_id": "1403893185335324672",
+        "url": "https://www.rotoballer.com/player-news/patrick-mahomes-practicing-in-full-ahead-of-season-opener/1927889"
+      },
+      "nfl_team": "KC",
+      "player_id": "4046",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "published": 1789062007000,
+      "source": "rotoballer",
+      "source_key": "220574",
+      "story_id": "nfl|4046|rotoballer|220574|1789062007000",
+      "title": "Patrick Mahomes Practicing in Full Ahead of Season Opener",
+      "url": "https://www.rotoballer.com/player-news/patrick-mahomes-practicing-in-full-ahead-of-season-opener/1927889"
     },
     {
       "analysis": null,

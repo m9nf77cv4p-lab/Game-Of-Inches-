@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2575**
-- Newly captured: **2**
+- Stored stories: **2578**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Jalen McMillan** — Jalen McMillan - Stays limited at practice (2026-09-10T21:32:57Z)
+- **NEW — Marvin Mims** — Marvin Mims - Practices fully to kick off Week 1 prep (2026-09-10T21:43:43Z)
+  - Mims sustained a foot contusion in the Broncos' Aug. 28 preseason finale against the Vikings, but after having no limitations in the team's first official practice of the regular season, he'll be ready to go for the opener Monday in Kansas City. On the Broncos' unofficial depth chart, Mims is listed as a starting receiver along with Jaylen Waddle and Courtland Sutton, though second-year wideout Pat Bryant drew plenty of positive buzz during training camp and the preseason and could push Mims for No. 3 duties.
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Remains limited in practice (2026-09-10T21:41:33Z)
+  - Croskey-Merritt has been tending to a lower-body injury since picking it up during an Aug. 22 practice. He's been back on the field since Sept. 1 but hasn't been able to do enough yet to be considered a full participant. Friday's practice report may provide a sense of Croskey-Merritt's odds to suit up for Sunday's regular-season opener at Philadelphia.
+- **Jalen McMillan** — Jalen McMillan - Stays limited at practice (2026-09-10T21:32:57Z)
   - McMillan has been tending to a knee injury since early August, a scenario that sidelined him for the entire preseason slate. With back-to-back capped sessions under his belt, he still has some work to do to make himself available for Sunday's game at Cincinnati. Friday's practice report will reveal if McMillan enters the weekend with a designation ahead of that matchup.
-- **NEW — Jakobi Meyers** — Jakobi Meyers - Stays limited in practice (2026-09-10T21:25:13Z)
+- **Jakobi Meyers** — Jakobi Meyers - Stays limited in practice (2026-09-10T21:25:13Z)
   - Per Ryan O'Halloran of The Florida Times-Union, Meyers was donning a non-contact jersey for the second day in a row while aiming to protect his injured right thumb. The fact that he's practiced in some fashion during the first two days of Week 1 prep is generally a positive sign for Meyers' status heading into Sunday's game against the Browns, but he may need to turn in a full practice Friday to avoid taking a designation into the weekend.
 - **Rashee Rice** — Rashee Rice (knee) logs full practice Thursday (2026-09-10T21:15:29.632000Z)
   - As expected, Rice was able to log a full practice session on Thursday and seems to be set to play in Monday night's game against the Denver Broncos. Despite the tough matchup, he projects to be a good fantasy option in PPR leagues this week, especially with Patrick Mahomes II (knee) likely to be at the helm for Kansas City.
@@ -127,6 +131,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Allen worked with the starters for most of the preseason while Hall was sidelined by a groin injury. Hall practiced without limitations Wednesday, as did Isaiah Davis (knee), who is listed third on the team's unofficial depth chart. Allen is listed at 235 pounds and has reportedly bulked up to around 250. The 2024 fourth-round pick's large frame could help Allen command valuable goal-line and short-yardage work even while Hall is healthy.
 - **Ted Hurst** — Ted Hurst - Talked up by OC (2026-09-10T17:41:46Z)
   - Hurst is likely to begin his career in a depth role, though the rookie third-round pick out of Georgia State could see some involvement on offense out of the gate, especially if Jalen McMillan (knee) isn't cleared to face the Bengals in Week 1. McMillan practiced on a limited basis Wednesday, while Emeka Egbuka practiced fully after dealing with a recent toe injury. Egbuka and Chris Godwin figure to get most of the targets among Tampa Bay's wide receivers, though the 6-foot-3 Hurst showed the ability to stretch the field in college and may not need heavy volume to make an impact.
+- **NEW — Patrick Mahomes** — Patrick Mahomes Practicing in Full Ahead of Season Opener (2026-09-10T17:40:07Z)
+  - Source: https://www.rotoballer.com/player-news/patrick-mahomes-practicing-in-full-ahead-of-season-opener/1927889
 - **Cam Ward** — Cam Ward a Year 2 Breakout Candidate Entering 2026? (2026-09-10T16:57:06Z)
   - Source: https://www.rotoballer.com/player-news/cam-ward-a-year-two-breakout-candidate-entering-2026/1927878
 - **Ashton Jeanty** — Ashton Jeanty Feels "Really Good" Ahead of Week 1 (2026-09-10T16:50:16Z)
@@ -241,9 +247,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-expected-to-play-sunday/1927686
 - **Deebo Samuel** — Deebo Samuel Sr. Draws Tough Matchup In First Game Back With 49ers (2026-09-10T13:35:06Z)
   - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-draws-tough-matchup-in-first-game-back-with-49ers/1927664
-- **Mike Evans** — Mike Evans Could Emerge As 49ers' Top Target In Week 1 (2026-09-10T13:29:08Z)
-  - Source: https://www.rotoballer.com/player-news/mike-evans-could-emerge-as-49ers-top-target-in-week-1/1927659
-- **Ashton Jeanty** — Ashton Jeanty Will Play on Sunday (2026-09-10T13:26:05Z)
-  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-will-play-on-sunday/1927652
-- **Kyler Murray** — Kyler Murray Well-Positioned for a Significant Bounce-Back (2026-09-10T13:13:07Z)
-  - Source: https://www.rotoballer.com/player-news/kyler-murray-well-positioned-for-a-significant-bounce-back/1927641
