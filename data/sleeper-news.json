@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-10T00:29:43Z",
+  "last_checked_at": "2026-09-10T00:49:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|13287|rotowire|636590|1788999802000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Love's status for Week 1 has been murky since he emerged from the Cardinals' preseason opener with a high-ankle sprain, which coach Mike LaFleur downplayed for most of the past month. When LaFleur discussed Love ahead of Wednesday's session, he told PHNX Sports \"don't look too far into that\" when discussing the rookie's listing as the No. 2 RB on the team's unofficial depth chart, while at the same time telling Brack that \"there's no limit on our end\" to Love's activity level. Considering Love's listing of \"limited\" Wednesday, he still has some work to do to be available for Sunday's game at the Chargers. Tyler Allgeier would serve as Arizona's lead back Week 1 if Love is operating with a cap on his reps or not suited up, while Bam Knight would be in line for some work as well.",
+      "description": "Love (ankle) was a limited practice participant Wednesday, Bo Brack of GoPHNX.com reports.",
+      "metadata": {
+        "analysis": "Love's status for Week 1 has been murky since he emerged from the Cardinals' preseason opener with a high-ankle sprain, which coach Mike LaFleur downplayed for most of the past month. When LaFleur discussed Love ahead of Wednesday's session, he told PHNX Sports \"don't look too far into that\" when discussing the rookie's listing as the No. 2 RB on the team's unofficial depth chart, while at the same time telling Brack that \"there's no limit on our end\" to Love's activity level. Considering Love's listing of \"limited\" Wednesday, he still has some work to do to be available for Sunday's game at the Chargers. Tyler Allgeier would serve as Arizona's lead back Week 1 if Love is operating with a cap on his reps or not suited up, while Bam Knight would be in line for some work as well.",
+        "description": "Love (ankle) was a limited practice participant Wednesday, Bo Brack of GoPHNX.com reports.",
+        "title": "Jeremiyah Love - Limited at Wednesday's practice",
+        "topic_id": "1403572405590335488"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788999802000,
+      "source": "rotowire",
+      "source_key": "636590",
+      "story_id": "nfl|13287|rotowire|636590|1788999802000",
+      "title": "Jeremiyah Love - Limited at Wednesday's practice",
+      "url": null
+    },
     {
       "analysis": "Dicker was working through an undisclosed issue toward the tail end of training camp, but his absence from the Chargers' first injury report of the week indicates that he's fully healthy for Sunday's regular-season opener against the Cardinals. Dicker was a top-5 kicker in fantasy last season, connecting on 38 of 41 field-goal attempts (including 12-for-13 on attempts from 50-plus yards) while making 34 of 35 extra-point tries across 17 regular-season games. His scoring output could increase this season if the Chargers' offense levels up under new offensive coordinator Mike McDaniel.",
       "description": "Dicker (undisclosed) was not listed on Wednesday's injury report.",

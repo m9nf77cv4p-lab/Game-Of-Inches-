@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2414**
-- Newly captured: **0**
+- Stored stories: **2415**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Jeremiyah Love** — Jeremiyah Love - Limited at Wednesday's practice (2026-09-10T00:23:22Z)
+  - Love's status for Week 1 has been murky since he emerged from the Cardinals' preseason opener with a high-ankle sprain, which coach Mike LaFleur downplayed for most of the past month. When LaFleur discussed Love ahead of Wednesday's session, he told PHNX Sports "don't look too far into that" when discussing the rookie's listing as the No. 2 RB on the team's unofficial depth chart, while at the same time telling Brack that "there's no limit on our end" to Love's activity level. Considering Love's listing of "limited" Wednesday, he still has some work to do to be available for Sunday's game at the Chargers. Tyler Allgeier would serve as Arizona's lead back Week 1 if Love is operating with a cap on his reps or not suited up, while Bam Knight would be in line for some work as well.
 - **Cameron Dicker** — Cameron Dicker - Fades Wednesday's injury report (2026-09-09T23:32:22Z)
   - Dicker was working through an undisclosed issue toward the tail end of training camp, but his absence from the Chargers' first injury report of the week indicates that he's fully healthy for Sunday's regular-season opener against the Cardinals. Dicker was a top-5 kicker in fantasy last season, connecting on 38 of 41 field-goal attempts (including 12-for-13 on attempts from 50-plus yards) while making 34 of 35 extra-point tries across 17 regular-season games. His scoring output could increase this season if the Chargers' offense levels up under new offensive coordinator Mike McDaniel.
 - **Keaton Mitchell** — Keaton Mitchell (hamstring) limited participant Wednesday (2026-09-09T23:20:48.599000Z)
@@ -249,5 +251,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606737/jakobi-meyers-hand-says-he-will-play-sunday.php
 - **Jonathon Brooks** — Jonathon Brooks - Practicing in pads Wednesday (2026-09-09T17:58:58Z)
   - With Brooks having worked off to the side earlier in the week, his presence in uniform and pads would suggest he's trending toward being available for Sunday's season opener against the Bears. If he plays, Brooks is expected to split backfield work with Chuba Hubbard, rendering both little more than low-end RB2 fantasy options until one is able to separate from the other atop the depth chart.
-- **Ashton Jeanty** — Ashton Jeanty - Will practice Wednesday (2026-09-09T17:56:53Z)
-  - Jeanty has been sidelined since suffering a low-ankle sprain Aug. 23, but Kubiak expressed optimism last week that his star running back would be available for Week 1. Getting on the practice field Wednesday would be a strong sign that Jeanty will be able to suit up Sunday versus Miami.
