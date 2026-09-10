@@ -1,9 +1,14 @@
 {
-  "last_checked_at": "2026-09-09T23:52:52Z",
+  "last_checked_at": "2026-09-10T00:07:35Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 284,
+  "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|12497|rotoballer|220472|1788982453000"
+    "nfl|12185|rotoballer|219190|1787472367000",
+    "nfl|12185|rotoballer|219743|1788108847000",
+    "nfl|12185|rotowire|635402|1788124052000",
+    "nfl|9501|rotoballer|219145|1787405505000",
+    "nfl|9501|rotoballer|219647|1788001145000",
+    "nfl|9501|rotoballer|220189|1788687320000"
   ],
   "schema_version": 1,
   "source": {
@@ -1610,10 +1615,10 @@
       "url": "https://www.fantasypros.com/nfl/news/606745/brock-bowers-knee-to-miss-a-game-or-two.php"
     },
     {
-      "analysis": "This is huge news just before the season gets underway as the top tight end in the league is now expected to miss regular season time. Per Schefter, Bowers suffered a minor knee injury in camp that was diagnosed last week. He underwent a meniscus trim, which will speed up his time to return to the field rather than a repair. Michael Mayer projects to see a usage boost for however long Bowers is sidelined.",
+      "analysis": "This is huge news just before the season gets underway, as one of the top tight ends in the league is now expected to miss regular-season time. Per Schefter, Bowers suffered a minor knee injury in camp that was diagnosed last week. He underwent a meniscus trim rather than a repair, which will speed up his time to return to the field. Michael Mayer projects to see a usage boost for however long Bowers is sidelined.",
       "description": "Bowers underwent a meniscus trim procedure Tuesday and is expected to miss \"a game or two,\" Adam Schefter of ESPN reports.",
       "metadata": {
-        "analysis": "This is huge news just before the season gets underway as the top tight end in the league is now expected to miss regular season time. Per Schefter, Bowers suffered a minor knee injury in camp that was diagnosed last week. He underwent a meniscus trim, which will speed up his time to return to the field rather than a repair. Michael Mayer projects to see a usage boost for however long Bowers is sidelined.",
+        "analysis": "This is huge news just before the season gets underway, as one of the top tight ends in the league is now expected to miss regular-season time. Per Schefter, Bowers suffered a minor knee injury in camp that was diagnosed last week. He underwent a meniscus trim rather than a repair, which will speed up his time to return to the field. Michael Mayer projects to see a usage boost for however long Bowers is sidelined.",
         "description": "Bowers underwent a meniscus trim procedure Tuesday and is expected to miss \"a game or two,\" Adam Schefter of ESPN reports.",
         "title": "Brock Bowers - Undergoes meniscus trim, out 1-to-2 games",
         "topic_id": "1403506968080961536"
@@ -1630,10 +1635,10 @@
       "url": null
     },
     {
-      "analysis": "Bowers remained healthy throughout training camp and the preseason after a lingering PCL injury and bone bruise in his knee sidelined him for five games in 2025, but he could be dealing with a new health concern leading up to the Raiders' Week 1 matchup with the Dolphins. The Raiders will release their first injury report of the season later Wednesday, when an explanation behind Bowers' absence will be provided.",
+      "analysis": "Bowers remained healthy throughout training camp and the preseason after a lingering PCL injury and bone bruise in his knee sidelined him for five games in 2025, but he could be dealing with a new health concern leading up to Las Vegas' Week 1 matchup with the Dolphins. The Raiders will release their first injury report of the season later Wednesday, when an explanation behind Bowers' absence will be provided.",
       "description": "Bowers wasn't seen on the field during the open portion of Wednesday's practice, Ryan McFadden of ESPN.com reports.",
       "metadata": {
-        "analysis": "Bowers remained healthy throughout training camp and the preseason after a lingering PCL injury and bone bruise in his knee sidelined him for five games in 2025, but he could be dealing with a new health concern leading up to the Raiders' Week 1 matchup with the Dolphins. The Raiders will release their first injury report of the season later Wednesday, when an explanation behind Bowers' absence will be provided.",
+        "analysis": "Bowers remained healthy throughout training camp and the preseason after a lingering PCL injury and bone bruise in his knee sidelined him for five games in 2025, but he could be dealing with a new health concern leading up to Las Vegas' Week 1 matchup with the Dolphins. The Raiders will release their first injury report of the season later Wednesday, when an explanation behind Bowers' absence will be provided.",
         "description": "Bowers wasn't seen on the field during the open portion of Wednesday's practice, Ryan McFadden of ESPN.com reports.",
         "title": "Brock Bowers - Not spotted at Wednesday's practice",
         "topic_id": "1403504451142053888"
@@ -1692,10 +1697,10 @@
       "url": "https://www.fantasypros.com/nfl/news/606744/malik-nabers-knee-logs-full-practice-wednesday-likely-to-play-sunday.php"
     },
     {
-      "analysis": "Hubbard dealt with a hamstring injury last month but has been practicing since the calendar flipped to September. With Jonathon Brooks dealing with soreness in his groin for the past week and limited in practice, Hubbard looks like the front-runner for carries and touches out of the Carolina backfield to open the season. He's shaping up as a low-end RB2 against Chicago on Sunday.",
+      "analysis": "Hubbard dealt with a hamstring injury last month but has been practicing since the calendar flipped to September. With Jonathon Brooks dealing with soreness in his groin for the past week and limited in practice, Hubbard looks like the frontrunner for carries and touches out of the Carolina backfield to open the season. He's shaping up as a low-end RB2 against Chicago on Sunday.",
       "description": "Hubbard (hamstring) was not listed on the Panthers' injury report Wednesday.",
       "metadata": {
-        "analysis": "Hubbard dealt with a hamstring injury last month but has been practicing since the calendar flipped to September. With Jonathon Brooks dealing with soreness in his groin for the past week and limited in practice, Hubbard looks like the front-runner for carries and touches out of the Carolina backfield to open the season. He's shaping up as a low-end RB2 against Chicago on Sunday.",
+        "analysis": "Hubbard dealt with a hamstring injury last month but has been practicing since the calendar flipped to September. With Jonathon Brooks dealing with soreness in his groin for the past week and limited in practice, Hubbard looks like the frontrunner for carries and touches out of the Carolina backfield to open the season. He's shaping up as a low-end RB2 against Chicago on Sunday.",
         "description": "Hubbard (hamstring) was not listed on the Panthers' injury report Wednesday.",
         "title": "Chuba Hubbard - Not listed on injury report",
         "topic_id": "1403500675488382976"
@@ -1774,10 +1779,10 @@
       "url": null
     },
     {
-      "analysis": "There's now an official body part attached to Brooks after the Panthers were forced to clarify the running back's injury on the team's first official injury report of the season. Brooks has been dealing with \"soreness\" for more than a week now, and the good news is it's not in his surgically-repaired knee. He was in full pads Wednesday, and a limited start to the week gives Brooks a good chance to play Sunday against the Bears. Chuba Hubbard is expected to open 2026 as the 1A to Brooks' 1B in the Carolina backfield.",
+      "analysis": "There's now an official body part attached to Brooks' injury status after the Panthers were forced to clarify the running back's issue on the team's first official injury report of the season. Brooks has been dealing with \"soreness\" for more than a week, and the good news is that the problem is not in his surgically repaired knee. He was in full pads Wednesday, and a limited start to the week gives Brooks a good chance to play Sunday against the Bears. Chuba Hubbard is expected to open 2026 as the 1A to Brooks' 1B in the Carolina backfield.",
       "description": "Brooks (groin) was listed as a limited participant in Wednesday's practice.",
       "metadata": {
-        "analysis": "There's now an official body part attached to Brooks after the Panthers were forced to clarify the running back's injury on the team's first official injury report of the season. Brooks has been dealing with \"soreness\" for more than a week now, and the good news is it's not in his surgically-repaired knee. He was in full pads Wednesday, and a limited start to the week gives Brooks a good chance to play Sunday against the Bears. Chuba Hubbard is expected to open 2026 as the 1A to Brooks' 1B in the Carolina backfield.",
+        "analysis": "There's now an official body part attached to Brooks' injury status after the Panthers were forced to clarify the running back's issue on the team's first official injury report of the season. Brooks has been dealing with \"soreness\" for more than a week, and the good news is that the problem is not in his surgically repaired knee. He was in full pads Wednesday, and a limited start to the week gives Brooks a good chance to play Sunday against the Bears. Chuba Hubbard is expected to open 2026 as the 1A to Brooks' 1B in the Carolina backfield.",
         "description": "Brooks (groin) was listed as a limited participant in Wednesday's practice.",
         "title": "Jonathon Brooks - Officially limited Wednesday",
         "topic_id": "1403499418065305600"
@@ -8763,6 +8768,26 @@
       "story_id": "nfl|7553|rotoballer|220191|1788687727000",
       "title": "Kyle Pitts Sr. Looking to Build Off Last Season and This Preseason",
       "url": "https://www.rotoballer.com/player-news/kyle-pitts-sr-looking-to-build-off-last-season-and-this-preseason/1924460"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver DeMario Douglas is seeing his fantasy stock rise after the team traded fellow wide receiver Kayshon Boutte to the Houston Texans. Douglas is likely still fourth on the depth chart behind A.J. Brown, Romeo Doubs, and Kyle Williams, but Boutte leaves behind 114 vacated targets from the last two seasons combined. Many of those should go to Douglas, especially since he and Boutte were in relatively the same position on the depth chart. We've already heard buzz this season about Douglas' ability to get on the field in three-receiver sets and absolutely dominate matchups in man coverage, so even if he doesn't get the start in Week 1, he could work his way into a large snap share simply by producing when his number is called. Douglas is RotoBaller's WR94 in redraft leagues for now, but a strong start to the season could allow him to boost his stock and become an appealing waiver wire target.",
+      "metadata": {
+        "description": "New England Patriots wide receiver DeMario Douglas is seeing his fantasy stock rise after the team traded fellow wide receiver Kayshon Boutte to the Houston Texans. Douglas is likely still fourth on the depth chart behind A.J. Brown, Romeo Doubs, and Kyle Williams, but Boutte leaves behind 114 vacated targets from the last two seasons combined. Many of those should go to Douglas, especially since he and Boutte were in relatively the same position on the depth chart. We've already heard buzz this season about Douglas' ability to get on the field in three-receiver sets and absolutely dominate matchups in man coverage, so even if he doesn't get the start in Week 1, he could work his way into a large snap share simply by producing when his number is called. Douglas is RotoBaller's WR94 in redraft leagues for now, but a strong start to the season could allow him to boost his stock and become an appealing waiver wire target.",
+        "title": "DeMario Douglas Trending Back Up After Teammate's Trade",
+        "topic_id": "1402321590644953088",
+        "url": "https://www.rotoballer.com/player-news/demario-douglas-trending-back-up-after-teammates-trade/1924456"
+      },
+      "nfl_team": "NE",
+      "player_id": "9501",
+      "player_name": "DeMario Douglas",
+      "position": "WR",
+      "published": 1788687320000,
+      "source": "rotoballer",
+      "source_key": "220189",
+      "story_id": "nfl|9501|rotoballer|220189|1788687320000",
+      "title": "DeMario Douglas Trending Back Up After Teammate's Trade",
+      "url": "https://www.rotoballer.com/player-news/demario-douglas-trending-back-up-after-teammates-trade/1924456"
     },
     {
       "analysis": null,
@@ -21422,6 +21447,26 @@
       "url": null
     },
     {
+      "analysis": "Shrader has been a journeyman so far in his career, making nine regular-season appearances between three teams the last two years. After facing off with Blake Grupe during training camp and the preseason, though, Shrader will be the Week 1 placekicker for the Colts, seemingly due to connecting on a pair of 60-plus yard field goals during exhibition season.",
+      "description": "Shrader has won Indianapolis' kicking job after the Colts cut Blake Grupe on Sunday, Mike Garafolo of NFL Network reports.",
+      "metadata": {
+        "analysis": "Shrader has been a journeyman so far in his career, making nine regular-season appearances between three teams the last two years. After facing off with Blake Grupe during training camp and the preseason, though, Shrader will be the Week 1 placekicker for the Colts, seemingly due to connecting on a pair of 60-plus yard field goals during exhibition season.",
+        "description": "Shrader has won Indianapolis' kicking job after the Colts cut Blake Grupe on Sunday, Mike Garafolo of NFL Network reports.",
+        "title": "Spencer Shrader - Wins kicking job in Indy",
+        "topic_id": "1399898235899813888"
+      },
+      "nfl_team": "IND",
+      "player_id": "12185",
+      "player_name": "Spencer Shrader",
+      "position": "K",
+      "published": 1788124052000,
+      "source": "rotowire",
+      "source_key": "635402",
+      "story_id": "nfl|12185|rotowire|635402|1788124052000",
+      "title": "Spencer Shrader - Wins kicking job in Indy",
+      "url": null
+    },
+    {
       "analysis": null,
       "description": "Seattle Seahawks running back Jadarian Price sits atop the depth chart heading into the regular season. The Seahawks placed Zach Charbonnet (knee) on the PUP list on Sunday, which means he'll miss at least the first four games. That leaves Price as the strongest candidate to operate as the No. 1 back, ahead of teammates George Holani and Emanuel Wilson. While we do expect to see Holani and Wilson get involved in Charbonnet's absence, Price is the member of this backfield who is best equipped to handle the lead-back role. He had at least 113 carries and at least 674 rushing yards in each of his final two seasons at school, scored 13 total touchdowns last year, and is capable of contributing both on the ground and in the passing attack. Price has jumped all the way up to RB22 in RotoBaller's latest redraft fantasy football rankings for 2026.",
       "metadata": {
@@ -21763,6 +21808,26 @@
       "story_id": "nfl|13306|rotowire|635311|1788109013000",
       "title": "Taylen Green - Chance to make 53-man roster",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts kicker Spencer Shrader has made the 53-man roster, according to Mike Garafolo of NFL.com. He won the kicking competition after Indianapolis released Blake Grupe. Although Grupe reportedly had a good camp, he went just 2-for-4 on field goals during the preseason, while Shrader went 5-for-5. Furthermore, Shrader excelled from long range. All five of his field goals came from 40+ yards out, including two from at least 60 yards. The 27-year-old was impressive last season, going 14-for-14 on extra points and 13-for-14 on field goals. If he continues to demonstrate a blend of accuracy and power, he could sneak onto the fantasy radar as a kicker who gets plenty of opportunities in the Colts' upward-trending offense.",
+      "metadata": {
+        "description": "Indianapolis Colts kicker Spencer Shrader has made the 53-man roster, according to Mike Garafolo of NFL.com. He won the kicking competition after Indianapolis released Blake Grupe. Although Grupe reportedly had a good camp, he went just 2-for-4 on field goals during the preseason, while Shrader went 5-for-5. Furthermore, Shrader excelled from long range. All five of his field goals came from 40+ yards out, including two from at least 60 yards. The 27-year-old was impressive last season, going 14-for-14 on extra points and 13-for-14 on field goals. If he continues to demonstrate a blend of accuracy and power, he could sneak onto the fantasy radar as a kicker who gets plenty of opportunities in the Colts' upward-trending offense.",
+        "title": "Spencer Shrader Wins Colts Kicking Battle",
+        "topic_id": "1399895717836759040",
+        "url": "https://www.rotoballer.com/player-news/spencer-shrader-wins-colts-kicking-battle/1919971"
+      },
+      "nfl_team": "IND",
+      "player_id": "12185",
+      "player_name": "Spencer Shrader",
+      "position": "K",
+      "published": 1788108847000,
+      "source": "rotoballer",
+      "source_key": "219743",
+      "story_id": "nfl|12185|rotoballer|219743|1788108847000",
+      "title": "Spencer Shrader Wins Colts Kicking Battle",
+      "url": "https://www.rotoballer.com/player-news/spencer-shrader-wins-colts-kicking-battle/1919971"
     },
     {
       "analysis": null,
@@ -23429,6 +23494,26 @@
       "story_id": "nfl|13302|rotoballer|219648|1788001630000",
       "title": "Adam Randall Looks to Bulldoze His Way onto the Roster",
       "url": "https://www.rotoballer.com/player-news/adam-randall-looks-to-bulldoze-his-way-onto-the-roster/1919089"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver DeMario Douglas has the type of can't-cover-in-a-phonebooth shiftiness that has allowed him to thrive in each of his four training camps since being selected in the sixth round of the 2023 NFL Draft, but he has never had the level of surrounding talent he now finds himself with, and Patriots senior reporter Evan Lazar believes his skill set makes a ton of sense for a featured role out of the slot. Douglas has been a mainstay in three-receiver sets throughout camp, and Lazar notes that he has been \"nearly automatic\" against man coverage. He caught only 31 passes for 447 yards in 2025, but with Stefon Diggs no longer on the roster, the 25-year-old profiles as the team's most prototypical slot receiver, and he could find important chain-moving work in what again projects to be one of the league's highest-scoring offenses. At RotoBaller's WR99, he is not a player likely to be drafted in most 2026 leagues, but with the Patriots opening the NFL season in primetime with a Super Bowl rematch against the Seahawks, a strong start to his season could make Douglas a popular Week 2 waiver wire pickup.",
+      "metadata": {
+        "description": "New England Patriots wide receiver DeMario Douglas has the type of can't-cover-in-a-phonebooth shiftiness that has allowed him to thrive in each of his four training camps since being selected in the sixth round of the 2023 NFL Draft, but he has never had the level of surrounding talent he now finds himself with, and Patriots senior reporter Evan Lazar believes his skill set makes a ton of sense for a featured role out of the slot. Douglas has been a mainstay in three-receiver sets throughout camp, and Lazar notes that he has been \"nearly automatic\" against man coverage. He caught only 31 passes for 447 yards in 2025, but with Stefon Diggs no longer on the roster, the 25-year-old profiles as the team's most prototypical slot receiver, and he could find important chain-moving work in what again projects to be one of the league's highest-scoring offenses. At RotoBaller's WR99, he is not a player likely to be drafted in most 2026 leagues, but with the Patriots opening the NFL season in primetime with a Super Bowl rematch against the Seahawks, a strong start to his season could make Douglas a popular Week 2 waiver wire pickup.",
+        "title": "DeMario Douglas \"Has Become Nearly Automatic\" Against Man Coverage",
+        "topic_id": "1399443945863319552",
+        "url": "https://www.rotoballer.com/player-news/demario-douglas-has-become-nearly-automatic-against-man-coverage/1919085"
+      },
+      "nfl_team": "NE",
+      "player_id": "9501",
+      "player_name": "DeMario Douglas",
+      "position": "WR",
+      "published": 1788001145000,
+      "source": "rotoballer",
+      "source_key": "219647",
+      "story_id": "nfl|9501|rotoballer|219647|1788001145000",
+      "title": "DeMario Douglas \"Has Become Nearly Automatic\" Against Man Coverage",
+      "url": "https://www.rotoballer.com/player-news/demario-douglas-has-become-nearly-automatic-against-man-coverage/1919085"
     },
     {
       "analysis": null,
@@ -34717,6 +34802,26 @@
     },
     {
       "analysis": null,
+      "description": "Indianapolis Colts kicker Spencer Shrader started the second preseason game and was the Colts' lone scorer in their 34-6 loss against the Atlanta Falcons on Saturday. In the first quarter, Shrader completed a 48-yard field goal and a 53-yard field goal. The sputtering Colts offense could not gain any traction, and their seven subsequent drives resulted in punts. Kicker Blake Grupe, Shrader's primary competition, came on in the fourth quarter and missed a 36-yard field goal wide right. Last week against the New England Patriots, Grupe also missed a 61-yard attempt before halftime. Shrader's 2025 season ended early with an ACL and MCL tear, and Grupe replaced him for the rest of the season. Shrader appears fully recovered and is a viable starting option for the Colts and for managers of 12-person leagues with kickers.",
+      "metadata": {
+        "description": "Indianapolis Colts kicker Spencer Shrader started the second preseason game and was the Colts' lone scorer in their 34-6 loss against the Atlanta Falcons on Saturday. In the first quarter, Shrader completed a 48-yard field goal and a 53-yard field goal. The sputtering Colts offense could not gain any traction, and their seven subsequent drives resulted in punts. Kicker Blake Grupe, Shrader's primary competition, came on in the fourth quarter and missed a 36-yard field goal wide right. Last week against the New England Patriots, Grupe also missed a 61-yard attempt before halftime. Shrader's 2025 season ended early with an ACL and MCL tear, and Grupe replaced him for the rest of the season. Shrader appears fully recovered and is a viable starting option for the Colts and for managers of 12-person leagues with kickers.",
+        "title": "Spencer Shrader Primed to Retake Starting Position",
+        "topic_id": "1397225511595331584",
+        "url": "https://www.rotoballer.com/player-news/spencer-shrader-primed-to-retake-starting-position/1914368"
+      },
+      "nfl_team": "IND",
+      "player_id": "12185",
+      "player_name": "Spencer Shrader",
+      "position": "K",
+      "published": 1787472367000,
+      "source": "rotoballer",
+      "source_key": "219190",
+      "story_id": "nfl|12185|rotoballer|219190|1787472367000",
+      "title": "Spencer Shrader Primed to Retake Starting Position",
+      "url": "https://www.rotoballer.com/player-news/spencer-shrader-primed-to-retake-starting-position/1914368"
+    },
+    {
+      "analysis": null,
       "description": "Arizona Cardinals tight end Trey McBride remains a redraft riser after setting the NFL record for receptions by a tight end in a season. McBride ended 2025 with an incredible 126 catches. He added 1,239 yards and 11 touchdowns on 169 targets, finishing as the top-scoring tight end in fantasy. His production jumped after Jacoby Brissett became Arizona's starter in Week 6, as 10 of McBride's 11 touchdowns came from passes by Brissett. Arizona will keep Brissett under center in 2026, which removes one major concern from his outlook. McBride also signed a four-year, $76 million extension with $43 million guaranteed, further suggesting his major role on this team. However, there is some touchdown regression to consider after he scored 11 times following only six touchdowns across his first 49 games. Additionally, Mike LaFleur's new offense should also be more balanced given the addition of Tyler Allgeier and top running back prospect Jeremiyah Love. Even with fewer pass attempts, though, McBride is still likely to see a large share of Arizona's targets and remains the No. 1 tight end in RotoBaller's current redraft rankings.",
       "metadata": {
         "description": "Arizona Cardinals tight end Trey McBride remains a redraft riser after setting the NFL record for receptions by a tight end in a season. McBride ended 2025 with an incredible 126 catches. He added 1,239 yards and 11 touchdowns on 169 targets, finishing as the top-scoring tight end in fantasy. His production jumped after Jacoby Brissett became Arizona's starter in Week 6, as 10 of McBride's 11 touchdowns came from passes by Brissett. Arizona will keep Brissett under center in 2026, which removes one major concern from his outlook. McBride also signed a four-year, $76 million extension with $43 million guaranteed, further suggesting his major role on this team. However, there is some touchdown regression to consider after he scored 11 times following only six touchdowns across his first 49 games. Additionally, Mike LaFleur's new offense should also be more balanced given the addition of Tyler Allgeier and top running back prospect Jeremiyah Love. Even with fewer pass attempts, though, McBride is still likely to see a large share of Arizona's targets and remains the No. 1 tight end in RotoBaller's current redraft rankings.",
@@ -36899,6 +37004,26 @@
       "story_id": "nfl|12489|rotoballer|219147|1787406128000",
       "title": "RJ Harvey's Receiving Role Gives His Redraft Stock a Bump",
       "url": "https://www.rotoballer.com/player-news/rj-harveys-receiving-role-gives-his-redraft-stock-a-bump/1913904"
+    },
+    {
+      "analysis": null,
+      "description": "Wide receiver DeMario Douglas was barely involved for the New England Patriots last season, but his summer has put him back on the redraft radar. He finished 2025 with 31 catches for 447 yards and three touchdowns, playing only 26% of the offensive snaps after that number sat at 62% the year before. Douglas has been running as New England's primary slot receiver in camp and was held out of the preseason opener along with A.J. Brown and Romeo Doubs. The production has shown up, too. He caught two touchdowns in the team's August 7 Blue-White scrimmage and continued finding room underneath during joint practices with Philadelphia. Brown and Doubs are still going to lead this passing game, so Douglas suddenly becoming a major target hog is a stretch. That's not really what fantasy managers need from him at this price. RotoBaller currently has Douglas 294th overall in its PPR rankings. If the slot job sticks and Drake Maye keeps looking his way over the middle, Douglas has a much better chance of mattering in deeper leagues than he did a year ago.",
+      "metadata": {
+        "description": "Wide receiver DeMario Douglas was barely involved for the New England Patriots last season, but his summer has put him back on the redraft radar. He finished 2025 with 31 catches for 447 yards and three touchdowns, playing only 26% of the offensive snaps after that number sat at 62% the year before. Douglas has been running as New England's primary slot receiver in camp and was held out of the preseason opener along with A.J. Brown and Romeo Doubs. The production has shown up, too. He caught two touchdowns in the team's August 7 Blue-White scrimmage and continued finding room underneath during joint practices with Philadelphia. Brown and Doubs are still going to lead this passing game, so Douglas suddenly becoming a major target hog is a stretch. That's not really what fantasy managers need from him at this price. RotoBaller currently has Douglas 294th overall in its PPR rankings. If the slot job sticks and Drake Maye keeps looking his way over the middle, Douglas has a much better chance of mattering in deeper leagues than he did a year ago.",
+        "title": "DeMario Douglas Working His Way Back Into the Redraft Mix",
+        "topic_id": "1396944886237806592",
+        "url": "https://www.rotoballer.com/player-news/demario-douglas-working-his-way-back-into-the-redraft-mix/1913893"
+      },
+      "nfl_team": "NE",
+      "player_id": "9501",
+      "player_name": "DeMario Douglas",
+      "position": "WR",
+      "published": 1787405505000,
+      "source": "rotoballer",
+      "source_key": "219145",
+      "story_id": "nfl|9501|rotoballer|219145|1787405505000",
+      "title": "DeMario Douglas Working His Way Back Into the Redraft Mix",
+      "url": "https://www.rotoballer.com/player-news/demario-douglas-working-his-way-back-into-the-redraft-mix/1913893"
     },
     {
       "analysis": null,

@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2408**
-- Newly captured: **1**
+- Stored stories: **2414**
+- Newly captured: **6**
 
 ## Latest news
 
@@ -200,9 +200,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Bowers reportedly got 'banged up' during training camp last week, and the team made the decision to have him undergo a minor procedure to trim his meniscus. This is especially concerning considering that he missed much of last year due to a nagging knee injury, and the team already expects him to be sidelined for at least a game or two while he recovers from this one. This is an alarming situation that fantasy managers should keep close tabs on, as this injury could linger if there are any setbacks in his recovery. Michael Mayer will step in as the team's top tight end in his absence, with Tre Tucker and Jalen Nailor both also likely to see an increase in opportunities in the star tight end's absence.
   - Source: https://www.fantasypros.com/nfl/news/606745/brock-bowers-knee-to-miss-a-game-or-two.php
 - **Brock Bowers** — Brock Bowers - Undergoes meniscus trim, out 1-to-2 games (2026-09-09T20:04:45Z)
-  - This is huge news just before the season gets underway as the top tight end in the league is now expected to miss regular season time. Per Schefter, Bowers suffered a minor knee injury in camp that was diagnosed last week. He underwent a meniscus trim, which will speed up his time to return to the field rather than a repair. Michael Mayer projects to see a usage boost for however long Bowers is sidelined.
+  - This is huge news just before the season gets underway, as one of the top tight ends in the league is now expected to miss regular-season time. Per Schefter, Bowers suffered a minor knee injury in camp that was diagnosed last week. He underwent a meniscus trim rather than a repair, which will speed up his time to return to the field. Michael Mayer projects to see a usage boost for however long Bowers is sidelined.
 - **Brock Bowers** — Brock Bowers - Not spotted at Wednesday's practice (2026-09-09T19:57:45Z)
-  - Bowers remained healthy throughout training camp and the preseason after a lingering PCL injury and bone bruise in his knee sidelined him for five games in 2025, but he could be dealing with a new health concern leading up to the Raiders' Week 1 matchup with the Dolphins. The Raiders will release their first injury report of the season later Wednesday, when an explanation behind Bowers' absence will be provided.
+  - Bowers remained healthy throughout training camp and the preseason after a lingering PCL injury and bone bruise in his knee sidelined him for five games in 2025, but he could be dealing with a new health concern leading up to Las Vegas' Week 1 matchup with the Dolphins. The Raiders will release their first injury report of the season later Wednesday, when an explanation behind Bowers' absence will be provided.
 - **Khalil Shakir** — Khalil Shakir (undisclosed) seen practicing Wednesday (2026-09-09T19:50:50.613000Z)
   - Shakir's availability for Week 1 is currently up in the air due to an undisclosed injury that he's dealing with. He was spotted at practice on Wednesday, however, which bodes well for his availability for the season opener. It remains unclear if he was a limited or full participant.
   - Source: https://www.fantasypros.com/nfl/news/606743/khalil-shakir-undisclosed-seen-practicing-wednesday.php
@@ -210,7 +210,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - HC John Harbaugh told reporters that he thinks Nabers will be ready to go for the team's season opener against the Cowboys on Sunday night. This comes after he logged a full practice session on Wednesday, so he seems to be trending towards being close to full health for Week 1. If there are no setbacks throughout the week, fantasy managers should start him with confidence in what projects to be a high scoring matchup against their divisional rivals.
   - Source: https://www.fantasypros.com/nfl/news/606744/malik-nabers-knee-logs-full-practice-wednesday-likely-to-play-sunday.php
 - **Chuba Hubbard** — Chuba Hubbard - Not listed on injury report (2026-09-09T19:43:22Z)
-  - Hubbard dealt with a hamstring injury last month but has been practicing since the calendar flipped to September. With Jonathon Brooks dealing with soreness in his groin for the past week and limited in practice, Hubbard looks like the front-runner for carries and touches out of the Carolina backfield to open the season. He's shaping up as a low-end RB2 against Chicago on Sunday.
+  - Hubbard dealt with a hamstring injury last month but has been practicing since the calendar flipped to September. With Jonathon Brooks dealing with soreness in his groin for the past week and limited in practice, Hubbard looks like the frontrunner for carries and touches out of the Carolina backfield to open the season. He's shaping up as a low-end RB2 against Chicago on Sunday.
 - **Jonathon Brooks** — Jonathon Brooks (groin) officially limited Wednesday (2026-09-09T19:40:47.088000Z)
   - The team has been calling Brooks' injury 'general soreness' for a little while, but it seems that it is specifically groin soreness, which left him limited at Wednesday's practice. He seems to be trending towards playing in Week 1 but may not be worth starting in fantasy if he's playing at less than full health against the Bears.
   - Source: https://www.fantasypros.com/nfl/news/606741/jonathon-brooks-groin-officially-limited-wednesday.php
@@ -220,10 +220,10 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Carnell Tate** — Carnell Tate - Spotted at practice Wednesday (2026-09-09T19:40:15Z)
   - The rookie had been dealing with some stiffness late in the preseason but seems to be trending in the right direction as the Titans' season-opener approaches. Official word on whether Tate was a full or limited participant will come after the Titans release their practice report later Wednesday afternoon.
 - **Jonathon Brooks** — Jonathon Brooks - Officially limited Wednesday (2026-09-09T19:39:32Z)
-  - There's now an official body part attached to Brooks after the Panthers were forced to clarify the running back's injury on the team's first official injury report of the season. Brooks has been dealing with "soreness" for more than a week now, and the good news is it's not in his surgically-repaired knee. He was in full pads Wednesday, and a limited start to the week gives Brooks a good chance to play Sunday against the Bears. Chuba Hubbard is expected to open 2026 as the 1A to Brooks' 1B in the Carolina backfield.
+  - There's now an official body part attached to Brooks' injury status after the Panthers were forced to clarify the running back's issue on the team's first official injury report of the season. Brooks has been dealing with "soreness" for more than a week, and the good news is that the problem is not in his surgically repaired knee. He was in full pads Wednesday, and a limited start to the week gives Brooks a good chance to play Sunday against the Bears. Chuba Hubbard is expected to open 2026 as the 1A to Brooks' 1B in the Carolina backfield.
 - **Malik Nabers** — Malik Nabers - Practices fully Wednesday (2026-09-09T19:34:14Z)
   - Coach John Harbaugh said Nabers looks "ready to go," but the Giants are going to see how he feels throughout the practice week before declaring him in for Sunday night's game against the Cowboys. All signs continue to point to Nabers being out there versus Dallas for his first game action since tearing his ACL in Week 4 of last season.
-- **NEW — Tory Horton** — Tory Horton Ruled Out Against Patriots (2026-09-09T19:34:13Z)
+- **Tory Horton** — Tory Horton Ruled Out Against Patriots (2026-09-09T19:34:13Z)
   - Source: https://www.rotoballer.com/player-news/tory-horton-ruled-out-against-patriots/1927160
 - **J.J. McCarthy** — J.J. McCarthy to be QB3 for Week 1 (2026-09-09T19:00:36.380000Z)
   - McCarthy lost the competition for the starting QB job earlier this offseason to Kyler Murray, and now it appears that he didn't make a strong push for the job, as the team has opted to make him the third QB on their depth chart behind Carson Wentz as well. The team has left the door open to promoting him to backup at some point in the season, but he remains entirely irrelevant for fantasy purposes for the foreseeable future.
