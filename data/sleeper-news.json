@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-10T22:40:32Z",
+  "last_checked_at": "2026-09-10T22:51:07Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|10229|rotoballer|220576|1789064706000",
-    "nfl|6768|fantasy_pros|607035|1789080029734"
+    "nfl|6768|rotowire|636722|1789080080000",
+    "nfl|9511|rotoballer|220578|1789065486000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Tagovailoa went to the ground during individual drills Thursday and then grabbed at his back after getting to his feet. Subsequently, he missed the rest of the session while reserve QB Cooper Rush handled all the reps with the first-team offense. Tagovailoa officially was a limited participant in the Falcons' second practice of Week 1 prep, and the potential now exists for him to join Michael Penix (knee) in street clothes this weekend. The team may make a decision on Tagovailoa's status as soon as Friday's injury report, and if he's ruled out, Rush would be in line to direct Atlanta's offense Sunday at Pittsburgh.",
+      "description": "Tagovailoa (oblique) is considered day-to-day due to the strained oblique that he suffered during Thursday's practice, Ian Rapoport of ESPN and NFL Network reports.",
+      "metadata": {
+        "analysis": "Tagovailoa went to the ground during individual drills Thursday and then grabbed at his back after getting to his feet. Subsequently, he missed the rest of the session while reserve QB Cooper Rush handled all the reps with the first-team offense. Tagovailoa officially was a limited participant in the Falcons' second practice of Week 1 prep, and the potential now exists for him to join Michael Penix (knee) in street clothes this weekend. The team may make a decision on Tagovailoa's status as soon as Friday's injury report, and if he's ruled out, Rush would be in line to direct Atlanta's offense Sunday at Pittsburgh.",
+        "description": "Tagovailoa (oblique) is considered day-to-day due to the strained oblique that he suffered during Thursday's practice, Ian Rapoport of ESPN and NFL Network reports.",
+        "title": "Tua Tagovailoa - Suffers oblique strain",
+        "topic_id": "1403908288759799808"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1789080080000,
+      "source": "rotowire",
+      "source_key": "636722",
+      "story_id": "nfl|6768|rotowire|636722|1789080080000",
+      "title": "Tua Tagovailoa - Suffers oblique strain",
+      "url": null
+    },
     {
       "analysis": "This isn't a great indicator of Tua's status for Sunday, but it might not change much if Rush starts given the reports of Tua's play during training camp. It will be a situation to monitor ahead of Sunday, and it also speaks to Michael Penix's health, given he was not first up behind Tua at practice at this point.",
       "description": "Tua Tagovailoa (oblique) has been labeled day-to-day after suffering an oblique injury on Thursday during practice. Cooper Rush took first team snaps in his stead.",
@@ -874,6 +894,26 @@
       "story_id": "nfl|8155|fantasy_pros|606953|1789066822081",
       "title": "Breece Hall (groin) says he is good to go Week 1",
       "url": "https://www.fantasypros.com/nfl/news/606953/breece-hall-groin-says-he-is-good-to-go-week-1.php"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers running back Keaton Mitchell (hamstring) remained limited in practice for the second straight day on Thursday due to a hamstring injury, according to the team. Mitchell may have to upgrade to a full practice on Friday to be cleared to suit up in the Week 1 season opener this Sunday against the Arizona Cardinals. If Mitchell is cleared to suit up, he will be part of a committee backfield in L.A. that includes Omarion Hampton and Kimani Vidal, and he could have limited snaps coming off his hamstring injury. It all amounts to Mitchell lining up as a hard-to-trust RB4/flex in much deeper leagues. The 24-year-old former undrafted free agent out of East Carolina has some explosiveness and big-play ability to his game, but he has played in only 26 games (two starts) in his first three years in the NFL with the Baltimore Ravens due to injury issues. Mitchell is a viable handcuff for Hampton managers and is currently rostered in 41% of Yahoo leagues, but he is a tough sell as a Week 1 starter if he plays. Check back on Friday to find out Mitchell's final Week 1 injury status.",
+      "metadata": {
+        "description": "Los Angeles Chargers running back Keaton Mitchell (hamstring) remained limited in practice for the second straight day on Thursday due to a hamstring injury, according to the team. Mitchell may have to upgrade to a full practice on Friday to be cleared to suit up in the Week 1 season opener this Sunday against the Arizona Cardinals. If Mitchell is cleared to suit up, he will be part of a committee backfield in L.A. that includes Omarion Hampton and Kimani Vidal, and he could have limited snaps coming off his hamstring injury. It all amounts to Mitchell lining up as a hard-to-trust RB4/flex in much deeper leagues. The 24-year-old former undrafted free agent out of East Carolina has some explosiveness and big-play ability to his game, but he has played in only 26 games (two starts) in his first three years in the NFL with the Baltimore Ravens due to injury issues. Mitchell is a viable handcuff for Hampton managers and is currently rostered in 41% of Yahoo leagues, but he is a tough sell as a Week 1 starter if he plays. Check back on Friday to find out Mitchell's final Week 1 injury status.",
+        "title": "Keaton Mitchell Stays Limited on Thursday",
+        "topic_id": "1403908286251544576",
+        "url": "https://www.rotoballer.com/player-news/keaton-mitchell-stays-limited-on-thursday/1927921"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1789065486000,
+      "source": "rotoballer",
+      "source_key": "220578",
+      "story_id": "nfl|9511|rotoballer|220578|1789065486000",
+      "title": "Keaton Mitchell Stays Limited on Thursday",
+      "url": "https://www.rotoballer.com/player-news/keaton-mitchell-stays-limited-on-thursday/1927921"
     },
     {
       "analysis": "Arroyo was on the field for 11 of Seattle's 50 snaps on offense while AJ Barner played 44 snaps and caught two passes, suggesting there is still a substantial gap between the Seahawks' top two tight ends. After flashing some receiving upside during the preseason, it looks like Arroyo may not get enough playing time to make much of an impact on offense, at least while Barner is healthy.",

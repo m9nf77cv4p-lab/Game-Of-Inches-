@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2580**
+- Stored stories: **2582**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa (oblique) day-to-day, uncertain for Sunday (2026-09-10T22:40:29.734000Z)
+- **NEW — Tua Tagovailoa** — Tua Tagovailoa - Suffers oblique strain (2026-09-10T22:41:20Z)
+  - Tagovailoa went to the ground during individual drills Thursday and then grabbed at his back after getting to his feet. Subsequently, he missed the rest of the session while reserve QB Cooper Rush handled all the reps with the first-team offense. Tagovailoa officially was a limited participant in the Falcons' second practice of Week 1 prep, and the potential now exists for him to join Michael Penix (knee) in street clothes this weekend. The team may make a decision on Tagovailoa's status as soon as Friday's injury report, and if he's ruled out, Rush would be in line to direct Atlanta's offense Sunday at Pittsburgh.
+- **Tua Tagovailoa** — Tua Tagovailoa (oblique) day-to-day, uncertain for Sunday (2026-09-10T22:40:29.734000Z)
   - This isn't a great indicator of Tua's status for Sunday, but it might not change much if Rush starts given the reports of Tua's play during training camp. It will be a situation to monitor ahead of Sunday, and it also speaks to Michael Penix's health, given he was not first up behind Tua at practice at this point.
   - Source: https://www.fantasypros.com/nfl/news/607035/tua-tagovailoa-oblique-day-to-day-uncertain-sunday.php
 - **Eli Stowers** — Eli Stowers - Another limited session (2026-09-10T22:14:00Z)
@@ -112,11 +114,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Breece Hall** — Breece Hall (groin) says he is good to go Week 1 (2026-09-10T19:00:22.081000Z)
   - Hall recently missed a couple of weeks with a strained groin. He added he feels fresh from the time off. He'll be an RB2 for fantasy managers heading into the season. 
   - Source: https://www.fantasypros.com/nfl/news/606953/breece-hall-groin-says-he-is-good-to-go-week-1.php
+- **NEW — Keaton Mitchell** — Keaton Mitchell Stays Limited on Thursday (2026-09-10T18:38:06Z)
+  - Source: https://www.rotoballer.com/player-news/keaton-mitchell-stays-limited-on-thursday/1927921
 - **Elijah Arroyo** — Elijah Arroyo - Non-factor in Week 1 win (2026-09-10T18:32:33Z)
   - Arroyo was on the field for 11 of Seattle's 50 snaps on offense while AJ Barner played 44 snaps and caught two passes, suggesting there is still a substantial gap between the Seahawks' top two tight ends. After flashing some receiving upside during the preseason, it looks like Arroyo may not get enough playing time to make much of an impact on offense, at least while Barner is healthy.
 - **Rashid Shaheed** — Rashid Shaheed - One catch in season opener (2026-09-10T18:28:50Z)
   - After some offseason whispers about a larger role on offense for Shaheed, that didn't materialize in the season opener, as he wasn't among the five players who recorded multiple catches for the Seahawks. The standout return man maintained his prominent role on special teams, and he was on the field for 33 of Seattle's 50 snaps on offense. Shaheed is likely to have Drew Lock as his quarterback Week 2 against the Cardinals, as starting signal-caller Sam Darnold (hip) is likely to miss that game after exiting in the first quarter Wednesday.
-- **NEW — Rashee Rice** — Rashee Rice in the Clear Going into Week 1 (2026-09-10T18:25:06Z)
+- **Rashee Rice** — Rashee Rice in the Clear Going into Week 1 (2026-09-10T18:25:06Z)
   - Source: https://www.rotoballer.com/player-news/rashee-rice-in-the-clear-going-into-week-1/1927915
 - **Sam Darnold** — Sam Darnold - Receives good news on hip injury (2026-09-10T18:23:49Z)
   - Darnold underwent testing for his hip injury suffered in the season opener, including an initial CT scan followed by an MRI. The results are encouraging, as Darnold is believed to have "dodged a bullet" and is only expected to miss minimal time. An appearance for Darnold in Week 2 does not look likely at this stage, but the Week 3 game against the Commanders on Sunday, Sept. 27 is an optimistic but possible return date. Per Jeremy Fowler of ESPN.com, Darnold is primarily dealing with hip soreness.
@@ -244,7 +248,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **A.J. Brown** — A.J. Brown (ankle) believed to have suffered high-ankle sprain on Wednesday (2026-09-10T14:05:10.573000Z)
   - It's a tough start to Browns Patriot tenure. He went down early in the third quarter and did not return, leaving Drake Maye to lean on Hunter Henry, Demario Douglas, and Mack Hollins with fellow newcomer Romeo Doubs struggling to catch anything. Doubs should bounce back, and if Brown is out for any period of time, expect Doubs and Henry to have some more fantasy appeal, with Douglas as a PPR dart throw in deep formats.
   - Source: https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php
-- **A.J. Brown** — A.J. Brown - Believed to have high-ankle sprain (2026-09-10T14:04:45Z)
-  - In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before departing in the third quarter with the injury, which occurred when a Seahawks defender landed on his right ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sunday, Sept. 20 versus the Steelers.
-- **Kenyon Sadiq** — Kenyon Sadiq Has Integrated Himself into the Offense (2026-09-10T14:00:09Z)
-  - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-has-integrated-himself-into-the-offense/1927722
