@@ -2,16 +2,21 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2524**
-- Newly captured: **5**
+- Stored stories: **2527**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Elijah Arroyo** — Elijah Arroyo - Non-factor in Week 1 win (2026-09-10T18:32:33Z)
+- **NEW — Cooper Kupp** — Cooper Kupp - Has TD nullified after nice 24-yard catch (2026-09-10T19:01:13Z)
+  - Kupp turned the tide with a spectacular one-handed grab for 24 yards in the third quarter while the Seahawks trailed 10-0. He thought he had a seven-yard touchdown three plays later, but the scoring play was nullified by an illegal shift penalty. Seattle would settle for a field goal to kickstart a 13-0 run to end the game. Kupp finished a distant second in receiving yards behind Jaxon Smith-Njigba's 122, which could be a preview of the team's pecking order in the passing game all season. Sam Darnold (hip) exited in the first quarter of Wednesday's win, and Drew Lock is likely to be Seattle's starting QB in Week 2 against the Cardinals while Darnold's on the mend.
+- **NEW — Breece Hall** — Breece Hall (groin) says he is good to go Week 1 (2026-09-10T19:00:22.081000Z)
+  - Hall recently missed a couple of weeks with a strained groin. He added he feels fresh from the time off. He'll be an RB2 for fantasy managers heading into the season. 
+  - Source: https://www.fantasypros.com/nfl/news/606953/breece-hall-groin-says-he-is-good-to-go-week-1.php
+- **Elijah Arroyo** — Elijah Arroyo - Non-factor in Week 1 win (2026-09-10T18:32:33Z)
   - Arroyo was on the field for 11 of Seattle's 50 snaps on offense while AJ Barner played 44 snaps and caught two passes, suggesting there is still a substantial gap between the Seahawks' top two tight ends. After flashing some receiving upside during the preseason, it looks like Arroyo may not get enough playing time to make much of an impact on offense, at least while Barner is healthy.
-- **NEW — Rashid Shaheed** — Rashid Shaheed - One catch in season opener (2026-09-10T18:28:50Z)
+- **Rashid Shaheed** — Rashid Shaheed - One catch in season opener (2026-09-10T18:28:50Z)
   - After some offseason whispers about a larger role on offense for Shaheed, that didn't materialize in the season opener, as he wasn't among the five players who recorded multiple catches for the Seahawks. The standout return man maintained his prominent role on special teams, and he was on the field for 33 of Seattle's 50 snaps on offense. Shaheed is likely to have Drew Lock as his quarterback Week 2 against the Cardinals, as starting signal-caller Sam Darnold (hip) is likely to miss that game after exiting in the first quarter Wednesday.
-- **NEW — Sam Darnold** — Sam Darnold - Receives good news on hip injury (2026-09-10T18:23:49Z)
+- **Sam Darnold** — Sam Darnold - Receives good news on hip injury (2026-09-10T18:23:49Z)
   - Darnold underwent testing for his hip injury suffered in the season opener, including an initial CT scan followed by an MRI. The results are encouraging, as Darnold is believed to have "dodged a bullet" and is only expected to miss minimal time. An appearance for Darnold in Week 2 does not look likely at this stage, but the Week 3 game against the Commanders on Sunday, Sept. 27 is an optimistic but possible return date. Per Jeremy Fowler of ESPN.com, Darnold is primarily dealing with hip soreness.
 - **AJ Barner** — AJ Barner - Two catches in Week 1 win (2026-09-10T18:14:39Z)
   - Barner was on the field for 44 of Seattle's 50 snaps on offense, so he remains firmly entrenched atop the tight end depth chart. He also had a short rushing gain from under center erased by an offensive offside penalty. Barner tied for second on the team in catches, as the Seahawks didn't get much production in the passing game from anyone other than Jaxson Smith-Njigba (eight catches for 122 yards and a touchdown) in a game that saw starting QB Sam Darnold (hip) exit in the first quarter. Darnold is expected to sit out Week 2 against the Cardinals, in which case Drew Lock would draw the start under center.
@@ -92,9 +97,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606909/rhamondre-stevenson-totals-95-yards-wednesday.php
 - **Mike Washington** — Mike Washington - Expected to be involved in Week 1 plan (2026-09-10T14:49:15Z)
   - Washington impressed the Raiders' coaching staff in the preseason, during which the rookie fourth-round pick rushed for 168 yards on 23 carries across three games, averaging a robust 7.3 YPC. Jeanty has returned to full practice participation in the week leading up to Sunday's regular-season opener against the Dolphins, but the 2025 first-round pick missed a chunk of practice time due to the ankle injury he suffered Aug. 23. With Jeanty still shaking off the cobwebs, Washington is primed for some added opportunities in his regular-season debut as the Raiders face the Dolphins in a battle between two teams expected to finish near the bottom of the standings this season.
-- **NEW — Ted Hurst** — Ted Hurst III Continues to Ascend in Bucs' Offense (2026-09-10T14:24:04Z)
+- **NEW — Kenny Gainwell** — Kenny Gainwell Called a "Freak of Nature" (2026-09-10T14:47:33Z)
+  - Source: https://www.rotoballer.com/player-news/kenny-gainwell-called-a-freak-of-nature/1927752
+- **Ted Hurst** — Ted Hurst III Continues to Ascend in Bucs' Offense (2026-09-10T14:24:04Z)
   - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-continues-to-ascend-in-bucs-offense/1927740
-- **NEW — Chris Godwin** — Chris Godwin Jr. Receives Praise From his QB (2026-09-10T14:19:05Z)
+- **Chris Godwin** — Chris Godwin Jr. Receives Praise From his QB (2026-09-10T14:19:05Z)
   - Source: https://www.rotoballer.com/player-news/chris-godwin-jr-receives-praise-from-his-qb/1927737
 - **Josh Jacobs** — Josh Jacobs Remains on Commissioner's Exempt List (2026-09-10T14:14:06Z)
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-remains-on-commissioners-exempt-list/1927731
@@ -224,10 +231,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Brown will remain sidelined until the conclusion of the team's regular-season opener after suffering a right ankle injury in the third quarter. In the wideout's absence, running back Rhamondre Stevenson has been quarterback Drake Maye's favorite target against the Seahawks.
 - **Kyren Williams** — Kyren Williams Possesses a Safe Floor for Week 1 (2026-09-10T02:26:05Z)
   - Source: https://www.rotoballer.com/player-news/kyren-williams-possesses-a-safe-floor-for-week-1/1927287
-- **A.J. Brown** — A.J. Brown (ankle) questionable to return (2026-09-10T02:15:36.531000Z)
-  - Brown is currently being evaluated in the medical tent after having his ankle rolled up on in the third quarter. With Brown currently sidelined, DeMario Douglas, Romeo Doubs, and Mack Hollins will see the bulk of the snaps at wide receiver for the Patriots. 
-  - Source: https://www.fantasypros.com/nfl/news/606859/aj-brown-ankle-questionable-to-return.php
-- **A.J. Brown** — A.J. Brown - Questionable to return Wednesday (2026-09-10T02:11:30Z)
-  - Brown suffered a right ankle injury on the Patriots' opening drive of the second half, and his availability for the rest of the game is now up in the air. In his absence, Romeo Doubs and DeMario Douglas could see an uptick in usage at wide receiver.
-- **Matthew Stafford** — Matthew Stafford Begins Quest to Defend MVP Title in Australia (2026-09-10T02:06:05Z)
-  - Source: https://www.rotoballer.com/player-news/matthew-stafford-begins-quest-to-defend-mvp-title-in-australia/1927281

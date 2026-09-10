@@ -1,13 +1,11 @@
 {
-  "last_checked_at": "2026-09-10T18:40:55Z",
+  "last_checked_at": "2026-09-10T19:06:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|12521|rotowire|636692|1789065153000",
-    "nfl|13317|rotoballer|220551|1789050244000",
-    "nfl|4037|rotoballer|220550|1789049945000",
-    "nfl|4943|rotowire|636690|1789064629000",
-    "nfl|8676|rotowire|636691|1789064930000"
+    "nfl|4039|rotowire|636697|1789066873000",
+    "nfl|7567|rotoballer|220553|1789051653000",
+    "nfl|8155|fantasy_pros|606953|1789066822081"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +15,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Kupp turned the tide with a spectacular one-handed grab for 24 yards in the third quarter while the Seahawks trailed 10-0. He thought he had a seven-yard touchdown three plays later, but the scoring play was nullified by an illegal shift penalty. Seattle would settle for a field goal to kickstart a 13-0 run to end the game. Kupp finished a distant second in receiving yards behind Jaxon Smith-Njigba's 122, which could be a preview of the team's pecking order in the passing game all season. Sam Darnold (hip) exited in the first quarter of Wednesday's win, and Drew Lock is likely to be Seattle's starting QB in Week 2 against the Cardinals while Darnold's on the mend.",
+      "description": "Kupp caught two of three targets for 35 yards in Wednesday's 13-10 win over the Patriots.",
+      "metadata": {
+        "analysis": "Kupp turned the tide with a spectacular one-handed grab for 24 yards in the third quarter while the Seahawks trailed 10-0. He thought he had a seven-yard touchdown three plays later, but the scoring play was nullified by an illegal shift penalty. Seattle would settle for a field goal to kickstart a 13-0 run to end the game. Kupp finished a distant second in receiving yards behind Jaxon Smith-Njigba's 122, which could be a preview of the team's pecking order in the passing game all season. Sam Darnold (hip) exited in the first quarter of Wednesday's win, and Drew Lock is likely to be Seattle's starting QB in Week 2 against the Cardinals while Darnold's on the mend.",
+        "description": "Kupp caught two of three targets for 35 yards in Wednesday's 13-10 win over the Patriots.",
+        "title": "Cooper Kupp - Has TD nullified after nice 24-yard catch",
+        "topic_id": "1403852890845552640"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4039",
+      "player_name": "Cooper Kupp",
+      "position": "WR",
+      "published": 1789066873000,
+      "source": "rotowire",
+      "source_key": "636697",
+      "story_id": "nfl|4039|rotowire|636697|1789066873000",
+      "title": "Cooper Kupp - Has TD nullified after nice 24-yard catch",
+      "url": null
+    },
+    {
+      "analysis": "Hall recently missed a couple of weeks with a strained groin. He added he feels fresh from the time off. He'll be an RB2 for fantasy managers heading into the season. ",
+      "description": "Breece Hall told reporters he's good to go and can handle a full workload if necessary. ",
+      "metadata": {
+        "analysis": "Hall recently missed a couple of weeks with a strained groin. He added he feels fresh from the time off. He'll be an RB2 for fantasy managers heading into the season. ",
+        "description": "Breece Hall told reporters he's good to go and can handle a full workload if necessary. ",
+        "title": "Breece Hall (groin) says he is good to go Week 1",
+        "topic_id": "1403851637885292544",
+        "url": "https://www.fantasypros.com/nfl/news/606953/breece-hall-groin-says-he-is-good-to-go-week-1.php"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8155",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "published": 1789066822081,
+      "source": "fantasy_pros",
+      "source_key": "606953",
+      "story_id": "nfl|8155|fantasy_pros|606953|1789066822081",
+      "title": "Breece Hall (groin) says he is good to go Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/606953/breece-hall-groin-says-he-is-good-to-go-week-1.php"
+    },
     {
       "analysis": "Arroyo was on the field for 11 of Seattle's 50 snaps on offense while AJ Barner played 44 snaps and caught two passes, suggesting there is still a substantial gap between the Seahawks' top two tight ends. After flashing some receiving upside during the preseason, it looks like Arroyo may not get enough playing time to make much of an impact on offense, at least while Barner is healthy.",
       "description": "Arroyo wasn't targeted in Wednesday's 13-10 win over the Patriots.",
@@ -695,6 +734,26 @@
       "story_id": "nfl|13305|rotowire|636679|1789051755000",
       "title": "Mike Washington - Expected to be involved in Week 1 plan",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers offensive tackle Tristan Wirfs called new running back Kenny Gainwell \"a freak of nature,\" according to Greg Auman of FOX Sports. Wirfs also called RB Bucky Irving \"a joystick\" because of how elusive he can be. Wirfs is very excited about the 1-2 punch that the Bucs have in the running game this year in new coordinator Zac Robinson's scheme. Even in a new offense in 2026, the 27-year-old Gainwell was a popular mid-round target in point-per-reception leagues this year after he caught an eye-opening 73 passes on 85 targets for 486 yards and three touchdowns in 17 regular-season games last year in his lone season with the Pittsburgh Steelers. Gainwell also had a career-high 114 rushing attempts for 537 yards and a career-high-tying five rushing touchdowns. While fantasy managers should not necessarily expect Gainwell to match his passing-game production from 2025, he should at least be a strong weekly RB3/flex option for his pass-catching prowess, and he could be busy right away in Week 1 against the Cincinnati Bengals in a game that could force the Bucs to pass more than they would like.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers offensive tackle Tristan Wirfs called new running back Kenny Gainwell \"a freak of nature,\" according to Greg Auman of FOX Sports. Wirfs also called RB Bucky Irving \"a joystick\" because of how elusive he can be. Wirfs is very excited about the 1-2 punch that the Bucs have in the running game this year in new coordinator Zac Robinson's scheme. Even in a new offense in 2026, the 27-year-old Gainwell was a popular mid-round target in point-per-reception leagues this year after he caught an eye-opening 73 passes on 85 targets for 486 yards and three touchdowns in 17 regular-season games last year in his lone season with the Pittsburgh Steelers. Gainwell also had a career-high 114 rushing attempts for 537 yards and a career-high-tying five rushing touchdowns. While fantasy managers should not necessarily expect Gainwell to match his passing-game production from 2025, he should at least be a strong weekly RB3/flex option for his pass-catching prowess, and he could be busy right away in Week 1 against the Cincinnati Bengals in a game that could force the Bucs to pass more than they would like.",
+        "title": "Kenny Gainwell Called a \"Freak of Nature\"",
+        "topic_id": "1403850371629125632",
+        "url": "https://www.rotoballer.com/player-news/kenny-gainwell-called-a-freak-of-nature/1927752"
+      },
+      "nfl_team": "TB",
+      "player_id": "7567",
+      "player_name": "Kenny Gainwell",
+      "position": "RB",
+      "published": 1789051653000,
+      "source": "rotoballer",
+      "source_key": "220553",
+      "story_id": "nfl|7567|rotoballer|220553|1789051653000",
+      "title": "Kenny Gainwell Called a \"Freak of Nature\"",
+      "url": "https://www.rotoballer.com/player-news/kenny-gainwell-called-a-freak-of-nature/1927752"
     },
     {
       "analysis": null,
