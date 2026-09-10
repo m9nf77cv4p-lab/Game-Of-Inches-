@@ -1,13 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T02:16:07Z",
+  "last_checked_at": "2026-09-10T02:32:02Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11620|rotoballer|220478|1788991871000",
-    "nfl|5859|fantasy_pros|606859|1789006536531",
-    "nfl|5859|rotoballer|220479|1788991806000",
-    "nfl|5859|rotowire|636643|1789006290000",
-    "nfl|9997|rotoballer|220477|1788991206000"
+    "nfl|8155|rotoballer|220480|1788992345000"
   ],
   "schema_version": 1,
   "source": {
@@ -489,6 +485,26 @@
       "story_id": "nfl|7564|fantasy_pros|606813|1788993048110",
       "title": "Ja'Marr Chase (knee) practices in full Wednesday",
       "url": "https://www.fantasypros.com/nfl/news/606813/jamarr-chase-knee-practices-full-wednesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets running back Breece Hall (groin) was a full participant during Wednesday's practice session. As expected, Hall is a full-go to begin the week ahead of Sunday's Week 1 matchup against the Tennessee Titans. Hall suffered a groin injury late in camp, but the 25-year-old has been making good progress lately. Barring any setbacks, Hall should be active and ready to go for the season opener. He projects to be a high-end RB2 with RB1 upside, assuming the Jets can put together a half-decent offensive line. Fantasy managers should check back ahead of Sunday's game, but it sounds like Hall should be ready to play in the season opener.",
+      "metadata": {
+        "description": "New York Jets running back Breece Hall (groin) was a full participant during Wednesday's practice session. As expected, Hall is a full-go to begin the week ahead of Sunday's Week 1 matchup against the Tennessee Titans. Hall suffered a groin injury late in camp, but the 25-year-old has been making good progress lately. Barring any setbacks, Hall should be active and ready to go for the season opener. He projects to be a high-end RB2 with RB1 upside, assuming the Jets can put together a half-decent offensive line. Fantasy managers should check back ahead of Sunday's game, but it sounds like Hall should be ready to play in the season opener.",
+        "title": "Breece Hall Logs in Full Practice Session on Wednesday",
+        "topic_id": "1403602549570813952",
+        "url": "https://www.rotoballer.com/player-news/breece-hall-logs-in-full-practice-session-on-wednesday/1927217"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8155",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "published": 1788992345000,
+      "source": "rotoballer",
+      "source_key": "220480",
+      "story_id": "nfl|8155|rotoballer|220480|1788992345000",
+      "title": "Breece Hall Logs in Full Practice Session on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/breece-hall-logs-in-full-practice-session-on-wednesday/1927217"
     },
     {
       "analysis": null,

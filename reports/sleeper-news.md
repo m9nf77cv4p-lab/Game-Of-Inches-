@@ -2,15 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2427**
-- Newly captured: **5**
+- Stored stories: **2428**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — A.J. Brown** — A.J. Brown (ankle) questionable to return (2026-09-10T02:15:36.531000Z)
+- **A.J. Brown** — A.J. Brown (ankle) questionable to return (2026-09-10T02:15:36.531000Z)
   - Brown is currently being evaluated in the medical tent after having his ankle rolled up on in the third quarter. With Brown currently sidelined, DeMario Douglas, Romeo Doubs, and Mack Hollins will see the bulk of the snaps at wide receiver for the Patriots. 
   - Source: https://www.fantasypros.com/nfl/news/606859/aj-brown-ankle-questionable-to-return.php
-- **NEW — A.J. Brown** — A.J. Brown - Questionable to return Wednesday (2026-09-10T02:11:30Z)
+- **A.J. Brown** — A.J. Brown - Questionable to return Wednesday (2026-09-10T02:11:30Z)
   - Brown suffered a right ankle injury on the Patriots' opening drive of the second half, and his availability for the rest of the game is now up in the air. In his absence, Romeo Doubs and DeMario Douglas could see an uptick in usage at wide receiver.
 - **Sam Darnold** — Sam Darnold (hip) ruled out for remainder of season opener (2026-09-10T01:40:36.224000Z)
   - The injury was serious enough for the team to hold Darnold out, but he was able to get off the field under his own power and jog back to the locker room, so it's hopefully not too serious. Drew Lock will handle duties in the short term, which certainly caps the ceiling of the offense.
@@ -66,14 +66,16 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Ja'Marr Chase** — Ja'Marr Chase (knee) practices in full Wednesday (2026-09-09T22:30:48.110000Z)
   - Chase was able to log a full practice session on Wednesday and is considered close to full health, if not already fully healthy heading into Week 1. He should be a full go against the Buccaneers and projects to be an elite fantasy option in the season opener and beyond.
   - Source: https://www.fantasypros.com/nfl/news/606813/jamarr-chase-knee-practices-full-wednesday.php
-- **NEW — Rome Odunze** — Rome Odunze is Listed as Limited in Practice on Wednesday (2026-09-09T22:11:11Z)
+- **NEW — Breece Hall** — Breece Hall Logs in Full Practice Session on Wednesday (2026-09-09T22:19:05Z)
+  - Source: https://www.rotoballer.com/player-news/breece-hall-logs-in-full-practice-session-on-wednesday/1927217
+- **Rome Odunze** — Rome Odunze is Listed as Limited in Practice on Wednesday (2026-09-09T22:11:11Z)
   - Source: https://www.rotoballer.com/player-news/rome-odunze-is-listed-as-limited-in-practice-on-wednesday/1927212
 - **Tucker Kraft** — Tucker Kraft (knee) off injury report for Week 1 (2026-09-09T22:10:47.878000Z)
   - Kraft has been rehabbing from a major knee injury all offseason, but it appears that he is finally close to full health again, as he carries no injury designation prior to the team's season opener on Sunday. He could be limited for his first few weeks back, but the team hasn't indicated that, meaning that he could be seeing a full workload in the very near future.
   - Source: https://www.fantasypros.com/nfl/news/606807/tucker-kraft-knee-off-injury-report-week-1.php
 - **Tre' Harris** — Tre' Harris - Fully healthy for Week 1 (2026-09-09T22:10:27Z)
   - Harris dealt with an unspecified injury last month but is fine for Sunday's season opener against the Cardinals. He's expected to fill the WR3 role behind Ladd McConkey and Quentin Johnson this season, but the Chargers also figure to use plenty of TE-heavy sets with Charlie Kolar, Oronde Gadsden and David Njoku.
-- **NEW — A.J. Brown** — A.J. Brown Questionable to Return with Ankle Injury (2026-09-09T22:10:06Z)
+- **A.J. Brown** — A.J. Brown Questionable to Return with Ankle Injury (2026-09-09T22:10:06Z)
   - Source: https://www.rotoballer.com/player-news/a-j-brown-questionable-to-return-with-ankle-injury/1927210
 - **Ashton Jeanty** — Ashton Jeanty - Logs full practice Wednesday (2026-09-09T22:09:35Z)
   - When Jeanty left practice on Aug. 23, the initial concerns were significant because the running back wasn't able to put much pressure on his right leg as he exited the field. Adam Schefter of ESPN subsequently reported that Jeanty wasn't dealing with a long-term issue, and the diagnosis eventually revealed a low-ankle sprain. After logging all activity at Wednesday's session, Jeanty now is in the clear for Sunday's regular-season opener against the Dolphins, though he may still yield some RB reps to reserves Mike Washington and even Dylan Laube.
@@ -88,7 +90,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) limited participant Wednesday (2026-09-09T22:00:47.973000Z)
   - Croskey-Merritt is managing a groin injury right now and was unable to log a full practice session on Wednesday as a result. There's an off-chance that it will leave him sidelined for Week 1, which would lead to more work for Rachaad White against the Eagles.
   - Source: https://www.fantasypros.com/nfl/news/606805/jacory-croskey-merritt-groin-limited-participant-wednesday.php
-- **NEW — Zay Flowers** — Zay Flowers Limited During Wednesday's Practice (2026-09-09T22:00:06Z)
+- **Zay Flowers** — Zay Flowers Limited During Wednesday's Practice (2026-09-09T22:00:06Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-was-limited-during-wednesdays-practice/1927205
 - **Keaton Mitchell** — Keaton Mitchell - Limited Wednesday (2026-09-09T21:58:45Z)
   - Mitchell returned to practice earlier this week, and a limited session to open the week gives him a good chance to take the field Sunday against the Cardinals. Mitchell is expected to serve as the big-play complementary back behind Omarion Hampton this season. He's worthy of a bench stash in most fantasy leagues.
@@ -248,5 +250,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Chuba Hubbard** — Chuba Hubbard (hamstring) off injury report for Week 1 (2026-09-09T19:40:47.073000Z)
   - Hubbard was battling a hamstring injury earlier this offseason, but it's no longer an issue for him and he carries no injury designation ahead of Week 1. He will likely split work with Jonathan Brooks (groin) in the season opener, which hurts the fantasy outlook for both of them.
   - Source: https://www.fantasypros.com/nfl/news/606742/chuba-hubbard-hamstring-off-injury-report-week-1.php
-- **Carnell Tate** — Carnell Tate - Spotted at practice Wednesday (2026-09-09T19:40:15Z)
-  - The rookie had been dealing with some stiffness late in the preseason but seems to be trending in the right direction as the Titans' season-opener approaches. Official word on whether Tate was a full or limited participant will come after the Titans release their practice report later Wednesday afternoon.
