@@ -2,15 +2,23 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2548**
-- Newly captured: **4**
+- Stored stories: **2554**
+- Newly captured: **6**
 
 ## Latest news
 
-- **NEW — Alec Pierce** — Alec Pierce (heel) listed as limited Thursday (2026-09-10T20:15:22.271000Z)
+- **NEW — Jakobi Meyers** — Jakobi Meyers (thumb) limited again Thursday (2026-09-10T20:25:22.784000Z)
+  - The veteran wideout was again limited on Thursday as he continues to recover from a thumb injury of some kind. He is already expected to play this weekend, although he may still be left with an injury designation heading into the weekend if he doesn't practice in full on Friday.
+  - Source: https://www.fantasypros.com/nfl/news/606973/jakobi-meyers-thumb-limited-again-thursday.php
+- **NEW — Zay Flowers** — Zay Flowers (hamstring) upgraded to full participant Thursday (2026-09-10T20:25:22.528000Z)
+  - Flowers has been dealing with a hamstring injury for a while, but it seems that he is finally over it, as he was upgraded to a full participant at practice on Thursday after being limited on Wednesday. He should be good to go in Week 1 and can be safely started in most league formats, especially PPR leagues.
+  - Source: https://www.fantasypros.com/nfl/news/606971/zay-flowers-hamstring-upgraded-to-full-participant-thursday.php
+- **NEW — Malik Nabers** — Malik Nabers - Still uncertain for Sunday (2026-09-10T20:20:45Z)
+  - Nabers logged full practices Wednesday and Thursday, but his comments suggest the Giants still haven't made a final call on his Week 1 availability as Nabers works his way back from a torn ACL sustained in Week 4 of last season. Evan Barnes of Newsday Sports adds that Nabers is still deciding whether or not to play as he weighs the long-term implications of his recovery. The recent practice workload is an encouraging sign, but Nabers' fantasy managers would be in a tough spot if he doesn't avoid an injury designation Friday, since replacement options will be limited since the Giants play on Sunday Night Football in Week 1.
+- **Alec Pierce** — Alec Pierce (heel) listed as limited Thursday (2026-09-10T20:15:22.271000Z)
   - Pierce was limited for a second-straight practice on Thursday. It sounds like the team is still planning to have him play in Week 1, but it remains to be seen how many snaps he will get. Fantasy managers should pay attention to any updates about his health or workload ahead of Indianapolis' season opener against the Ravens this weekend.
   - Source: https://www.fantasypros.com/nfl/news/606969/alec-pierce-heel-listed-limited-thursday.php
-- **NEW — Alec Pierce** — Alec Pierce - Remains limited Thursday (2026-09-10T20:08:08Z)
+- **Alec Pierce** — Alec Pierce - Remains limited Thursday (2026-09-10T20:08:08Z)
   - Pierce has kicked off Week 1 prep with a pair of limited practices, but he could still avoid an injury designation for Sunday's season opener against the Ravens by upgrading to full participation Friday. The Colts' leading receiver in 2025 is coming off an eventful offseason, during which Pierce underwent ankle surgery shortly after signing a four-year, $114 million contract in March. This current heel issue may be connected to that ankle procedure, which kept Pierce sidelined for all of training camp.
 - **Tua Tagovailoa** — Tua Tagovailoa (oblique) officially limited Thursday (2026-09-10T20:00:22.179000Z)
   - Tagovailoa is a new addition to Atlanta's injury report. He seems to be dealing with an oblique injury of some kind, and it's currently unclear what effect it will have, if any, on his Week 1 availability. This is a situation that fantasy managers should be monitoring closely heading into the weekend.
@@ -18,9 +26,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jonathon Brooks** — Jonathon Brooks (groin) limited again Thursday (2026-09-10T20:00:22.163000Z)
   - A groin injury left Brooks sidelined for a second-straight practice on Thursday. He said on Wednesday that he plans to play in Week 1, however, so it appears he is still trending towards suiting up against the Bears. The team could limit his workload if he's still managing an injury, though, so he may be a riskier start for the first game of the season.
   - Source: https://www.fantasypros.com/nfl/news/606968/jonathon-brooks-groin-limited-again-thursday.php
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa - Dealing with oblique inujry (2026-09-10T20:00:19Z)
+- **Tua Tagovailoa** — Tua Tagovailoa - Dealing with oblique inujry (2026-09-10T20:00:19Z)
   - It appeared Tagovailoa was dealing with a back injury, but it turns out he is actually dealing with an oblique issue. This is a curveball for the Falcons, who are already shorthanded at quarterback with Michael Penix (knee) out for the opener. With Tagovailoa tending to the injury, the Falcons gave all the first-team reps to Cooper Rush on Thursday. Suddenly, Friday's injury report becomes one of the most impactful ones across the whole league as the Falcons could be down their top two quarterbacks for Week 1 if Tagovailoa doesn't bounce back quickly.
-- **NEW — Zachariah Branch** — Zachariah Branch - Stays limited Thursday (2026-09-10T19:59:57Z)
+- **Zachariah Branch** — Zachariah Branch - Stays limited Thursday (2026-09-10T19:59:57Z)
   - Branch has been a limited participant in consecutive practices to kick off Week 1 prep, but the rookie third-round pick still has a chance to avoid an injury designation if he can upgrade to full practice participation Friday as he looks to make his NFL debut Sunday against the Steelers. Branch is expected to fill a reserve role at wide receiver to begin his career, but he's penciled in as Atlanta's primary punt returner.
 - **Michael Penix** — Michael Penix Jr. (knee) logs full practice Thursday (2026-09-10T19:50:21.979000Z)
   - Penix is still listed on Atlanta's injury report due to a knee injury, but he again logged a full practice session on Thursday and seems to be close to full health at this point. Fantasy managers should keep tabs on all injury updates out of Atlanta, as starting QB Tua Tagovailoa (back) now seems to be dealing with an issue that could affect his availability for Sunday.
@@ -92,8 +100,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Sam Darnold** — Sam Darnold (hip) believed to have 'dodged a bullet' (2026-09-10T16:20:04.830000Z)
   - Darnold underwent an MRI on his hip Thursday morning that team doctors still are reviewing to determine how much time he will miss. It sounds like he'll likely miss at least one or two games, but it appears he won't miss an extended period of time. 
   - Source: https://www.fantasypros.com/nfl/news/606938/sam-darnold-hip-believed-to-have-dodged-bullet.php
+- **NEW — Zay Flowers** — Zay Flowers Upgraded to Full Participation on Thursday's Injury Report (2026-09-10T16:15:13Z)
+  - Source: https://www.rotoballer.com/player-news/zay-flowers-upgraded-to-full-participation-on-thursday-injury-report/1927835
 - **Josh Jacobs** — Josh Jacobs - Makes court appearance Thursday (2026-09-10T16:12:45Z)
   - Per Rob Demovsky of ESPN.com, Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, but as a result of his plea, the NFL could remove him from the list and instead issue a suspension.
+- **NEW — Nicholas Singleton** — Nicholas Singleton Still Worth Stashing Despite Crowded Backfield (2026-09-10T16:10:10Z)
+  - Source: https://www.rotoballer.com/player-news/nicholas-singleton-still-worth-stashing-despite-crowded-backfield/1927831
+- **NEW — Cade Otton** — Cade Otton an Intriguing Tight End Streamer in Week 1 (2026-09-10T16:10:06Z)
+  - Source: https://www.rotoballer.com/player-news/cade-otton-an-intriguing-tight-end-streamer-in-week-1/1927829
 - **Kirk Cousins** — Kirk Cousins Worth a Look in Two-Quarterback Leagues (2026-09-10T15:56:05Z)
   - Source: https://www.rotoballer.com/player-news/kirk-cousins-worth-a-look-in-two-quarterback-leagues/1927810
 - **Rome Odunze** — Rome Odunze Limited Again on Thursday (2026-09-10T15:54:05Z)
@@ -224,15 +238,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/a-j-brown-diagnosed-with-a-high-ankle-sprain/1927456
 - **Dallas Goedert** — Dallas Goedert Set for a Major Role (2026-09-10T09:55:05Z)
   - Source: https://www.rotoballer.com/player-news/dallas-goedert-set-for-a-major-role/1927443
-- **George Kittle** — George Kittle Will Complete His Comeback, Play in Week 1 (2026-09-10T09:42:08Z)
-  - Source: https://www.rotoballer.com/player-news/george-kittle-will-complete-his-comeback-play-week-1/1927418
-- **Rashid Shaheed** — Rashid Shaheed Quiet in Week 1 (2026-09-10T09:40:06Z)
-  - Source: https://www.rotoballer.com/player-news/rashid-shaheed-quiet-in-week-1/1927411
-- **AJ Barner** — AJ Barner Limited to Two Receptions in Week 1 (2026-09-10T09:37:16Z)
-  - Source: https://www.rotoballer.com/player-news/aj-barner-limited-to-two-receptions-in-week-1/1927403
-- **George Holani** — George Holani Keeps Pace With Rookie For Carries in Week 1 (2026-09-10T09:33:56Z)
-  - Source: https://www.rotoballer.com/player-news/george-holani-keeps-pace-with-jadarian-price-for-carries-in-week-1/1927393
-- **Cooper Kupp** — Cooper Kupp Has Touchdown Called Back in Week 1 (2026-09-10T09:32:06Z)
-  - Source: https://www.rotoballer.com/player-news/cooper-kupp-has-touchdown-called-back-in-week-1/1927389
-- **Terrance Ferguson** — Terrance Ferguson Still a Riskier Play Despite Favorable Matchup (2026-09-10T09:30:05Z)
-  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-still-a-riskier-play-despite-favorable-matchup/1927386

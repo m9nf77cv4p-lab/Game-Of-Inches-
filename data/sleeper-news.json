@@ -1,12 +1,14 @@
 {
-  "last_checked_at": "2026-09-10T20:19:18Z",
+  "last_checked_at": "2026-09-10T20:32:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13320|rotowire|636703|1789070397000",
-    "nfl|6768|rotowire|636704|1789070419000",
-    "nfl|8142|fantasy_pros|606969|1789071322271",
-    "nfl|8142|rotowire|636705|1789070888000"
+    "nfl|11632|rotowire|636706|1789071645000",
+    "nfl|13288|rotoballer|220562|1789056610000",
+    "nfl|5947|fantasy_pros|606973|1789071922784",
+    "nfl|8111|rotoballer|220563|1789056606000",
+    "nfl|9997|fantasy_pros|606971|1789071922528",
+    "nfl|9997|rotoballer|220564|1789056913000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +18,68 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The veteran wideout was again limited on Thursday as he continues to recover from a thumb injury of some kind. He is already expected to play this weekend, although he may still be left with an injury designation heading into the weekend if he doesn't practice in full on Friday.",
+      "description": "Jakobi Meyers (thumb) was limited at practice again on Thursday.",
+      "metadata": {
+        "analysis": "The veteran wideout was again limited on Thursday as he continues to recover from a thumb injury of some kind. He is already expected to play this weekend, although he may still be left with an injury designation heading into the weekend if he doesn't practice in full on Friday.",
+        "description": "Jakobi Meyers (thumb) was limited at practice again on Thursday.",
+        "title": "Jakobi Meyers (thumb) limited again Thursday",
+        "topic_id": "1403873031792664576",
+        "url": "https://www.fantasypros.com/nfl/news/606973/jakobi-meyers-thumb-limited-again-thursday.php"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1789071922784,
+      "source": "fantasy_pros",
+      "source_key": "606973",
+      "story_id": "nfl|5947|fantasy_pros|606973|1789071922784",
+      "title": "Jakobi Meyers (thumb) limited again Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/606973/jakobi-meyers-thumb-limited-again-thursday.php"
+    },
+    {
+      "analysis": "Flowers has been dealing with a hamstring injury for a while, but it seems that he is finally over it, as he was upgraded to a full participant at practice on Thursday after being limited on Wednesday. He should be good to go in Week 1 and can be safely started in most league formats, especially PPR leagues.",
+      "description": "Zay Flowers (hamstring) was upgraded to a full participant at practice on Thursday.",
+      "metadata": {
+        "analysis": "Flowers has been dealing with a hamstring injury for a while, but it seems that he is finally over it, as he was upgraded to a full participant at practice on Thursday after being limited on Wednesday. He should be good to go in Week 1 and can be safely started in most league formats, especially PPR leagues.",
+        "description": "Zay Flowers (hamstring) was upgraded to a full participant at practice on Thursday.",
+        "title": "Zay Flowers (hamstring) upgraded to full participant Thursday",
+        "topic_id": "1403873030710534144",
+        "url": "https://www.fantasypros.com/nfl/news/606971/zay-flowers-hamstring-upgraded-to-full-participant-thursday.php"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1789071922528,
+      "source": "fantasy_pros",
+      "source_key": "606971",
+      "story_id": "nfl|9997|fantasy_pros|606971|1789071922528",
+      "title": "Zay Flowers (hamstring) upgraded to full participant Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/606971/zay-flowers-hamstring-upgraded-to-full-participant-thursday.php"
+    },
+    {
+      "analysis": "Nabers logged full practices Wednesday and Thursday, but his comments suggest the Giants still haven't made a final call on his Week 1 availability as Nabers works his way back from a torn ACL sustained in Week 4 of last season. Evan Barnes of Newsday Sports adds that Nabers is still deciding whether or not to play as he weighs the long-term implications of his recovery. The recent practice workload is an encouraging sign, but Nabers' fantasy managers would be in a tough spot if he doesn't avoid an injury designation Friday, since replacement options will be limited since the Giants play on Sunday Night Football in Week 1.",
+      "description": "Nabers (knee) said Thursday that he feels good but declined to commit publicly to playing Sunday against the Cowboys, Art Stapleton of USA Today reports.",
+      "metadata": {
+        "analysis": "Nabers logged full practices Wednesday and Thursday, but his comments suggest the Giants still haven't made a final call on his Week 1 availability as Nabers works his way back from a torn ACL sustained in Week 4 of last season. Evan Barnes of Newsday Sports adds that Nabers is still deciding whether or not to play as he weighs the long-term implications of his recovery. The recent practice workload is an encouraging sign, but Nabers' fantasy managers would be in a tough spot if he doesn't avoid an injury designation Friday, since replacement options will be limited since the Giants play on Sunday Night Football in Week 1.",
+        "description": "Nabers (knee) said Thursday that he feels good but declined to commit publicly to playing Sunday against the Cowboys, Art Stapleton of USA Today reports.",
+        "title": "Malik Nabers - Still uncertain for Sunday",
+        "topic_id": "1403873024943366144"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1789071645000,
+      "source": "rotowire",
+      "source_key": "636706",
+      "story_id": "nfl|11632|rotowire|636706|1789071645000",
+      "title": "Malik Nabers - Still uncertain for Sunday",
+      "url": null
+    },
     {
       "analysis": "Pierce was limited for a second-straight practice on Thursday. It sounds like the team is still planning to have him play in Week 1, but it remains to be seen how many snaps he will get. Fantasy managers should pay attention to any updates about his health or workload ahead of Indianapolis' season opener against the Ravens this weekend.",
       "description": "Alec Pierce (heel) was listed as a limited participant at practice on Thursday.",
@@ -732,6 +796,26 @@
       "url": "https://www.fantasypros.com/nfl/news/606938/sam-darnold-hip-believed-to-have-dodged-bullet.php"
     },
     {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Zay Flowers (hamstring) was listed as a full participant on the team's Thursday injury report, per Jeff Zrebiec of The Athletic. Zrebiec notes that Baltimore held a walkthrough rather than a full practice, so Flowers' practice designation is an estimate. Still, it's a positive sign for Flowers that his status was upgraded after he practiced in a limited capacity on Wednesday. Across 17 games in 2025, the 25-year-old recorded 86 catches for 1,211 yards and five touchdowns on 118 targets. When he's on the field, Flowers profiles as the clear number one option in the passing game for Ravens quarterback Lamar Jackson. Assuming he's active for Baltimore's Week 1 matchup against the Indianapolis Colts, Flowers profiles as a high-end WR2 option for fantasy managers.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Zay Flowers (hamstring) was listed as a full participant on the team's Thursday injury report, per Jeff Zrebiec of The Athletic. Zrebiec notes that Baltimore held a walkthrough rather than a full practice, so Flowers' practice designation is an estimate. Still, it's a positive sign for Flowers that his status was upgraded after he practiced in a limited capacity on Wednesday. Across 17 games in 2025, the 25-year-old recorded 86 catches for 1,211 yards and five touchdowns on 118 targets. When he's on the field, Flowers profiles as the clear number one option in the passing game for Ravens quarterback Lamar Jackson. Assuming he's active for Baltimore's Week 1 matchup against the Indianapolis Colts, Flowers profiles as a high-end WR2 option for fantasy managers.",
+        "title": "Zay Flowers Upgraded to Full Participation on Thursday's Injury Report",
+        "topic_id": "1403873022867169280",
+        "url": "https://www.rotoballer.com/player-news/zay-flowers-upgraded-to-full-participation-on-thursday-injury-report/1927835"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1789056913000,
+      "source": "rotoballer",
+      "source_key": "220564",
+      "story_id": "nfl|9997|rotoballer|220564|1789056913000",
+      "title": "Zay Flowers Upgraded to Full Participation on Thursday's Injury Report",
+      "url": "https://www.rotoballer.com/player-news/zay-flowers-upgraded-to-full-participation-on-thursday-injury-report/1927835"
+    },
+    {
       "analysis": "Per Rob Demovsky of ESPN.com, Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, but as a result of his plea, the NFL could remove him from the list and instead issue a suspension.",
       "description": "Jacobs (personal) appeared in court in Green Bay on Thursday and pleaded no contest to misdemeanor charges of battery and criminal damage to property, Matt Schneidman of The Athletic reports.",
       "metadata": {
@@ -750,6 +834,46 @@
       "story_id": "nfl|5850|rotowire|636680|1789056765000",
       "title": "Josh Jacobs - Makes court appearance Thursday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Tennessee Titans running back Nicholas Singleton is still only 3% rostered on Yahoo, but this is a pretty deep stash. Tony Pollard and Tyjae Spears are clearly ahead of him, and Tennessee's latest depth chart lists Singleton with Julius Chestnut on the third line. He did not do much to change that in preseason, either. The fifth-round rookie finished with 57 yards on 15 carries and caught two passes for 18 yards. There is still something worth watching here. Singleton is 6-foot, 219 pounds and caught 102 passes during his Penn State career, so he has more to his profile than just early-down work. But the path is crowded, and RotoBaller has him at RB84 for Week 1 against the Jets. Singleton is not someone to start, and he does not need to be rostered in normal-sized leagues. If benches are deep and managers can afford to wait on a back who may need an injury ahead of him, though, he is worth a stash.",
+      "metadata": {
+        "description": "Tennessee Titans running back Nicholas Singleton is still only 3% rostered on Yahoo, but this is a pretty deep stash. Tony Pollard and Tyjae Spears are clearly ahead of him, and Tennessee's latest depth chart lists Singleton with Julius Chestnut on the third line. He did not do much to change that in preseason, either. The fifth-round rookie finished with 57 yards on 15 carries and caught two passes for 18 yards. There is still something worth watching here. Singleton is 6-foot, 219 pounds and caught 102 passes during his Penn State career, so he has more to his profile than just early-down work. But the path is crowded, and RotoBaller has him at RB84 for Week 1 against the Jets. Singleton is not someone to start, and he does not need to be rostered in normal-sized leagues. If benches are deep and managers can afford to wait on a back who may need an injury ahead of him, though, he is worth a stash.",
+        "title": "Nicholas Singleton Still Worth Stashing Despite Crowded Backfield",
+        "topic_id": "1403871764349521920",
+        "url": "https://www.rotoballer.com/player-news/nicholas-singleton-still-worth-stashing-despite-crowded-backfield/1927831"
+      },
+      "nfl_team": "TEN",
+      "player_id": "13288",
+      "player_name": "Nicholas Singleton",
+      "position": "RB",
+      "published": 1789056610000,
+      "source": "rotoballer",
+      "source_key": "220562",
+      "story_id": "nfl|13288|rotoballer|220562|1789056610000",
+      "title": "Nicholas Singleton Still Worth Stashing Despite Crowded Backfield",
+      "url": "https://www.rotoballer.com/player-news/nicholas-singleton-still-worth-stashing-despite-crowded-backfield/1927831"
+    },
+    {
+      "analysis": null,
+      "description": "Across 16 games in 2025, Tampa Bay Buccaneers tight end Cade Otton recorded 59 catches for 572 yards and one touchdown on 81 targets. While the 27-year-old does not profile as a consistent fantasy producer, he enters 2026 as the clear top receiving tight end in Tampa and may have an opportunity to see increased usage in the early portion of the season. Buccaneers wideouts Emeka Egbuka (toe) and Jalen McMillan (knee) are dealing with lingering injuries that limited their availability throughout the summer. While both players logged full practices on Wednesday, Tampa Bay could look to manage their workloads early on. Otton also has a favorable matchup on paper in Week 1 against the Cincinnati Bengals, who fielded one of the NFL's worst defenses in 2025. As a deep-league streamer, Otton could have some appeal on the waiver wire for fantasy managers.",
+      "metadata": {
+        "description": "Across 16 games in 2025, Tampa Bay Buccaneers tight end Cade Otton recorded 59 catches for 572 yards and one touchdown on 81 targets. While the 27-year-old does not profile as a consistent fantasy producer, he enters 2026 as the clear top receiving tight end in Tampa and may have an opportunity to see increased usage in the early portion of the season. Buccaneers wideouts Emeka Egbuka (toe) and Jalen McMillan (knee) are dealing with lingering injuries that limited their availability throughout the summer. While both players logged full practices on Wednesday, Tampa Bay could look to manage their workloads early on. Otton also has a favorable matchup on paper in Week 1 against the Cincinnati Bengals, who fielded one of the NFL's worst defenses in 2025. As a deep-league streamer, Otton could have some appeal on the waiver wire for fantasy managers.",
+        "title": "Cade Otton an Intriguing Tight End Streamer in Week 1",
+        "topic_id": "1403871764341133312",
+        "url": "https://www.rotoballer.com/player-news/cade-otton-an-intriguing-tight-end-streamer-in-week-1/1927829"
+      },
+      "nfl_team": "TB",
+      "player_id": "8111",
+      "player_name": "Cade Otton",
+      "position": "TE",
+      "published": 1789056606000,
+      "source": "rotoballer",
+      "source_key": "220563",
+      "story_id": "nfl|8111|rotoballer|220563|1789056606000",
+      "title": "Cade Otton an Intriguing Tight End Streamer in Week 1",
+      "url": "https://www.rotoballer.com/player-news/cade-otton-an-intriguing-tight-end-streamer-in-week-1/1927829"
     },
     {
       "analysis": null,
