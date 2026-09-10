@@ -2,11 +2,19 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2529**
-- Newly captured: **1**
+- Stored stories: **2533**
+- Newly captured: **4**
 
 ## Latest news
 
+- **NEW — Malik Nabers** — Malik Nabers (knee) practices in full Thursday (2026-09-10T19:40:21.984000Z)
+  - Nabers was a full participant for the Giants on Thursday. It has already been reported that he is likely to play in Sunday night's game, and his participation at practice all but confirms that. Fantasy managers should feel pretty good about starting him if he's active in Week 1, even with it being his first game back from injury.
+  - Source: https://www.fantasypros.com/nfl/news/606964/malik-nabers-knee-practices-full-thursday.php
+- **NEW — Rome Odunze** — Rome Odunze - Limited again Thursday (2026-09-10T19:31:41Z)
+  - Odunze was limited for a second day in a row on Thursday as his status remains unclear going into Week 1. Friday's injury report should provide some clarity, but even then, the Bears may not make a final call on Odunze until Sunday. An absence from Odunze on Sunday would open playing time for Kalif Raymond or Zavion Thomas.
+- **NEW — Rome Odunze** — Rome Odunze (calf) limited again Thursday (2026-09-10T19:30:21.874000Z)
+  - Odunze was limited for a second-straight practice on Thursday as he continues to recover from a lingering calf injury. It's uncertain whether or not he will play in Week 1, but if he is ruled out, fantasy managers should expect more work for Luther Burden III and Zavion Thomas against the Panthers.
+  - Source: https://www.fantasypros.com/nfl/news/606962/rome-odunze-calf-limited-again-thursday.php
 - **Cooper Kupp** — Cooper Kupp - Has TD nullified after nice 24-yard catch (2026-09-10T19:01:13Z)
   - Kupp turned the tide with a spectacular one-handed grab for 24 yards in the third quarter while the Seahawks trailed 10-0. He thought he had a seven-yard touchdown three plays later, but the scoring play was nullified by an illegal shift penalty. Seattle would settle for a field goal to kickstart a 13-0 run to end the game. Kupp finished a distant second in receiving yards behind Jaxon Smith-Njigba's 122, which could be a preview of the team's pecking order in the passing game all season. Sam Darnold (hip) exited in the first quarter of Wednesday's win, and Drew Lock is likely to be Seattle's starting QB in Week 2 against the Cardinals while Darnold's on the mend.
 - **Breece Hall** — Breece Hall (groin) says he is good to go Week 1 (2026-09-10T19:00:22.081000Z)
@@ -80,7 +88,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jaxon Smith-Njigba** — Jaxon Smith-Njigba electric in win Wednesday (2026-09-10T15:35:04.138000Z)
   - On Wednesday, Smith-Njigba picked up right where he left off last season, exploding for 122 yards and a touchdown in a big win over the Patriots. He did that with Drew Lock throwing him passes after starter Sam Darnold went down with a hip injury earlier in the game. Fantasy managers should be happy with his performance in this matchup but should keep a close eye on the health of Darnold, as the young wideout's week-to-week ceiling will certainly take a hit if their starting QB misses significant time.
   - Source: https://www.fantasypros.com/nfl/news/606921/jaxon-smith-njigba-electric-win-wednesday.php
-- **NEW — Justice Hill** — Justice Hill Fits Better as PPR Insurance Than a Week 1 Play (2026-09-10T15:22:12Z)
+- **NEW — Aaron Rodgers** — Aaron Rodgers Only Belongs on the Radar in Two-QB Leagues (2026-09-10T15:30:05Z)
+  - Source: https://www.rotoballer.com/player-news/aaron-rodgers-only-belongs-on-the-radar-in-two-qb-leagues/1927785
+- **Justice Hill** — Justice Hill Fits Better as PPR Insurance Than a Week 1 Play (2026-09-10T15:22:12Z)
   - Source: https://www.rotoballer.com/player-news/justice-hill-fits-better-as-ppr-insurance-than-a-week-1-play/1927780
 - **Romeo Doubs** — Romeo Doubs fails to log catch Wednesday (2026-09-10T15:15:04.932000Z)
   - Doubs did not get off to a good start with his new team on Wednesday night. He failed to haul in even a single catch against a tough Seattle defense, and he had a costly drop on a very important play late in the game. He should bounce back in the near future and may be a worthwhile fantasy option short-term with A.J. Brown (ankle) expected to miss a bit of time due to injury.
@@ -222,12 +232,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Myers made field goals from 30 and 26 yards, nailing a fourth-quarter kick with just under six minutes remaining to take the game-winning lead. While Myers was perfect Wednesday night, the kicker was not truly tested in the contest and the preseason adversity could flare up if he must extend his range in future weeks.
 - **Sam Darnold** — Sam Darnold - In line for MRI on hip (2026-09-10T03:53:33Z)
   - Darnold injured his hip on the Seahawks' fifth offensive play of the game and eventually was ruled out. Per Schefter, the results of Darnold's CT scan were encouraging yet inclusive, while coach Mike Macdonald told Corbin K. Smith of SI.com postgame that a fracture has been ruled out, with more tests to be done. A number of scenarios appear to be on the table for Seattle's starting QB, but if Darnold needs to miss any time, Drew Lock would get another opportunity to lead the offense.
-- **Drake Maye** — Drake Maye - Trio of critical INTs in loss (2026-09-10T03:51:07Z)
-  - The third-year signal-caller carried out a conservative game plan with reasonable efficacy for three quarters before unraveling with a trio of fourth-quarter interceptions. Maye didn't throw a pass until the first play of New England's second possession, and he lost prized offseason addition A.J. Brown on the first series of the second half due to an ankle injury. The first two of Maye's interceptions led to Seattle's last 10 points of the night, and his final pick came on a poorly thrown lob into the end zone with 26 seconds remaining when it appeared New England was perfectly positioned for a game-tying field-goal attempt that would have forced overtime. Maye's three interceptions were a single-game career-high for the 2024 first-round pick, and it remains to be seen if he'll have Brown available for the Patriots' Week 2 home opener against the Steelers on Sunday, Sept. 20.
-- **A.J. Brown** — A.J. Brown - Vrabel has 'no update' on injury (2026-09-10T03:43:56Z)
-  - Brown exited early in the third quarter after his right ankle was rolled up on by a Seahawks defender as he was attempting to gather in a pass from QB Drake Maye. Brown eventually was ruled out later in the second half, ending Week 1 with three catches (on four targets) for 26 yards. He likely will undergo a battery of tests to hone in on the extent of the injury, especially after being spotted in a walking boot postgame, per Andrew Callahan of the Boston Herald.
-- **Jaxon Smith-Njigba** — Jaxon Smith-Njigba - Cranks it up in second half (2026-09-10T03:42:37Z)
-  - The reigning Offensive Player of the Year endured a relatively difficult first half after making a 13-yard catch on the second play from scrimmage, losing starting quarterback Sam Darnold to a hip injury after the first drive of the game and experiencing some trouble separating from Patriots star cornerback Christian Gonzalez. However, JSN picked up the pace significantly as No. 2 signal-caller Drew Lock got into a rhythm, recording key third-down catches on consecutive second-quarter possessions and then delivering a dynamic 45-yard catch-and-run touchdown in the fourth quarter following Drake Maye's first interception. Smith-Njigba also subsequently managed a timely 11-yard grab on the drive that culminated with Jason Myers' go-ahead field goal that served as the final points for either side, and the star receiver ultimately delivered game-high totals in receptions, receiving yards and targets. Any extended absence on Darnold's part would stand to affect Smith-Njigba's week-to-week upside, but the standout receiver's chemistry with Lock as Wednesday's game unfolded was encouraging.
-- **A.J. Brown** — A.J. Brown (ankle) ruled out against Seattle (2026-09-10T02:45:36.497000Z)
-  - Brown went down in the second half after a Seattle DB landed on his ankle, and Brown went back to the locker room soon after for x-rays. The Patriots will lean on Romeo Doubs, Pop Douglas, and Hunter Henry in the passing game with him out.
-  - Source: https://www.fantasypros.com/nfl/news/606860/aj-brown-ankle-ruled-out-against-seattle.php

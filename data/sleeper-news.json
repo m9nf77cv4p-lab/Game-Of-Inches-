@@ -1,9 +1,12 @@
 {
-  "last_checked_at": "2026-09-10T19:29:34Z",
+  "last_checked_at": "2026-09-10T19:41:56Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|5995|rotoballer|220555|1789053732000"
+    "nfl|11620|fantasy_pros|606962|1789068621874",
+    "nfl|11620|rotowire|636698|1789068701000",
+    "nfl|11632|fantasy_pros|606964|1789069221984",
+    "nfl|96|rotoballer|220556|1789054205000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +16,68 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Nabers was a full participant for the Giants on Thursday. It has already been reported that he is likely to play in Sunday night's game, and his participation at practice all but confirms that. Fantasy managers should feel pretty good about starting him if he's active in Week 1, even with it being his first game back from injury.",
+      "description": "Malik Nabers (knee) practiced in a full capacity on Thursday.",
+      "metadata": {
+        "analysis": "Nabers was a full participant for the Giants on Thursday. It has already been reported that he is likely to play in Sunday night's game, and his participation at practice all but confirms that. Fantasy managers should feel pretty good about starting him if he's active in Week 1, even with it being his first game back from injury.",
+        "description": "Malik Nabers (knee) practiced in a full capacity on Thursday.",
+        "title": "Malik Nabers (knee) practices in full Thursday",
+        "topic_id": "1403861703803805696",
+        "url": "https://www.fantasypros.com/nfl/news/606964/malik-nabers-knee-practices-full-thursday.php"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1789069221984,
+      "source": "fantasy_pros",
+      "source_key": "606964",
+      "story_id": "nfl|11632|fantasy_pros|606964|1789069221984",
+      "title": "Malik Nabers (knee) practices in full Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/606964/malik-nabers-knee-practices-full-thursday.php"
+    },
+    {
+      "analysis": "Odunze was limited for a second day in a row on Thursday as his status remains unclear going into Week 1. Friday's injury report should provide some clarity, but even then, the Bears may not make a final call on Odunze until Sunday. An absence from Odunze on Sunday would open playing time for Kalif Raymond or Zavion Thomas.",
+      "description": "Odunze (calf) was listed as a limited participant for Thursday's practice.",
+      "metadata": {
+        "analysis": "Odunze was limited for a second day in a row on Thursday as his status remains unclear going into Week 1. Friday's injury report should provide some clarity, but even then, the Bears may not make a final call on Odunze until Sunday. An absence from Odunze on Sunday would open playing time for Kalif Raymond or Zavion Thomas.",
+        "description": "Odunze (calf) was listed as a limited participant for Thursday's practice.",
+        "title": "Rome Odunze - Limited again Thursday",
+        "topic_id": "1403860440861134848"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1789068701000,
+      "source": "rotowire",
+      "source_key": "636698",
+      "story_id": "nfl|11620|rotowire|636698|1789068701000",
+      "title": "Rome Odunze - Limited again Thursday",
+      "url": null
+    },
+    {
+      "analysis": "Odunze was limited for a second-straight practice on Thursday as he continues to recover from a lingering calf injury. It's uncertain whether or not he will play in Week 1, but if he is ruled out, fantasy managers should expect more work for Luther Burden III and Zavion Thomas against the Panthers.",
+      "description": "Rome Odunze (calf) was limited at practice again on Thursday.",
+      "metadata": {
+        "analysis": "Odunze was limited for a second-straight practice on Thursday as he continues to recover from a lingering calf injury. It's uncertain whether or not he will play in Week 1, but if he is ruled out, fantasy managers should expect more work for Luther Burden III and Zavion Thomas against the Panthers.",
+        "description": "Rome Odunze (calf) was limited at practice again on Thursday.",
+        "title": "Rome Odunze (calf) limited again Thursday",
+        "topic_id": "1403859186764247040",
+        "url": "https://www.fantasypros.com/nfl/news/606962/rome-odunze-calf-limited-again-thursday.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1789068621874,
+      "source": "fantasy_pros",
+      "source_key": "606962",
+      "story_id": "nfl|11620|fantasy_pros|606962|1789068621874",
+      "title": "Rome Odunze (calf) limited again Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/606962/rome-odunze-calf-limited-again-thursday.php"
+    },
     {
       "analysis": "Kupp turned the tide with a spectacular one-handed grab for 24 yards in the third quarter while the Seahawks trailed 10-0. He thought he had a seven-yard touchdown three plays later, but the scoring play was nullified by an illegal shift penalty. Seattle would settle for a field goal to kickstart a 13-0 run to end the game. Kupp finished a distant second in receiving yards behind Jaxon Smith-Njigba's 122, which could be a preview of the team's pecking order in the passing game all season. Sam Darnold (hip) exited in the first quarter of Wednesday's win, and Drew Lock is likely to be Seattle's starting QB in Week 2 against the Cardinals while Darnold's on the mend.",
       "description": "Kupp caught two of three targets for 35 yards in Wednesday's 13-10 win over the Patriots.",
@@ -607,6 +672,26 @@
       "story_id": "nfl|9488|fantasy_pros|606921|1789054504138",
       "title": "Jaxon Smith-Njigba electric in win Wednesday",
       "url": "https://www.fantasypros.com/nfl/news/606921/jaxon-smith-njigba-electric-win-wednesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers quarterback Aaron Rodgers is still available in most leagues, and there is not much reason for one-QB managers to change that before Week 1. Rodgers was efficient enough last season, completing 65.7% of his passes for 3,322 yards, 24 touchdowns and seven interceptions in 16 starts. Pittsburgh also gives him a better-looking receiver group with DK Metcalf, Michael Pittman Jr. and Roman Wilson all listed as starters. The fantasy problem is the same one it has been for a while. Rodgers added only 61 rushing yards and one touchdown in 2025, leaving him dependent on passing volume and touchdowns to keep pace with more mobile quarterbacks. He is rostered in 10% of Yahoo leagues and sits at QB28 in the current Week 1 rankings. That is enough to make him useful depth in Superflex or two-QB formats. In standard one-QB leagues, he can stay on the wire.",
+      "metadata": {
+        "description": "Pittsburgh Steelers quarterback Aaron Rodgers is still available in most leagues, and there is not much reason for one-QB managers to change that before Week 1. Rodgers was efficient enough last season, completing 65.7% of his passes for 3,322 yards, 24 touchdowns and seven interceptions in 16 starts. Pittsburgh also gives him a better-looking receiver group with DK Metcalf, Michael Pittman Jr. and Roman Wilson all listed as starters. The fantasy problem is the same one it has been for a while. Rodgers added only 61 rushing yards and one touchdown in 2025, leaving him dependent on passing volume and touchdowns to keep pace with more mobile quarterbacks. He is rostered in 10% of Yahoo leagues and sits at QB28 in the current Week 1 rankings. That is enough to make him useful depth in Superflex or two-QB formats. In standard one-QB leagues, he can stay on the wire.",
+        "title": "Aaron Rodgers Only Belongs on the Radar in Two-QB Leagues",
+        "topic_id": "1403861697294274560",
+        "url": "https://www.rotoballer.com/player-news/aaron-rodgers-only-belongs-on-the-radar-in-two-qb-leagues/1927785"
+      },
+      "nfl_team": "PIT",
+      "player_id": "96",
+      "player_name": "Aaron Rodgers",
+      "position": "QB",
+      "published": 1789054205000,
+      "source": "rotoballer",
+      "source_key": "220556",
+      "story_id": "nfl|96|rotoballer|220556|1789054205000",
+      "title": "Aaron Rodgers Only Belongs on the Radar in Two-QB Leagues",
+      "url": "https://www.rotoballer.com/player-news/aaron-rodgers-only-belongs-on-the-radar-in-two-qb-leagues/1927785"
     },
     {
       "analysis": null,
