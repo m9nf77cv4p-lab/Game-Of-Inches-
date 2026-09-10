@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-10T17:14:02Z",
+  "last_checked_at": "2026-09-10T17:27:48Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|8155|rotoballer|220533|1789044845000",
-    "nfl|8183|rotoballer|220534|1789044606000"
+    "nfl|13286|rotoballer|220537|1789045625000",
+    "nfl|4034|rotoballer|220536|1789045865000",
+    "nfl|5849|rotoballer|220538|1789045987000"
   ],
   "schema_version": 1,
   "source": {
@@ -489,6 +490,66 @@
       "story_id": "nfl|5859|rotowire|636678|1789049085000",
       "title": "A.J. Brown - Believed to have high-ankle sprain",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Since finishing as the fantasy QB3 in 2020, veteran quarterback Kyler Murray has struggled with injuries and inconsistency, playing in at least 14 games only twice while finishing as the QB19 or lower in three of the past five seasons. Following his release from the Arizona Cardinals, he signed a one-year deal with the Minnesota Vikings and now finds himself in a prime environment for a bounce-back season. Head coach Kevin O'Connell has long been respected for the work he has done with his quarterbacks, while four-time Pro Bowl wide receiver Justin Jefferson has been regarded as one of the top players at the position since entering the league in 2020. After winning the starting job in training camp, Murray finds himself at the helm of what was a top-six passing offense as recently as 2024 before facing significant quarterback concerns a season ago. With the mobility to provide a healthy fantasy floor and the surrounding playmakers to elevate his ceiling, the former first overall pick is a candidate to greatly outperform expectations as he enters the year as RotoBaller's QB19.",
+      "metadata": {
+        "description": "Since finishing as the fantasy QB3 in 2020, veteran quarterback Kyler Murray has struggled with injuries and inconsistency, playing in at least 14 games only twice while finishing as the QB19 or lower in three of the past five seasons. Following his release from the Arizona Cardinals, he signed a one-year deal with the Minnesota Vikings and now finds himself in a prime environment for a bounce-back season. Head coach Kevin O'Connell has long been respected for the work he has done with his quarterbacks, while four-time Pro Bowl wide receiver Justin Jefferson has been regarded as one of the top players at the position since entering the league in 2020. After winning the starting job in training camp, Murray finds himself at the helm of what was a top-six passing offense as recently as 2024 before facing significant quarterback concerns a season ago. With the mobility to provide a healthy fantasy floor and the surrounding playmakers to elevate his ceiling, the former first overall pick is a candidate to greatly outperform expectations as he enters the year as RotoBaller's QB19.",
+        "title": "Kyler Murray Well-Positioned for a Significant Bounce-Back",
+        "topic_id": "1403826393749438464",
+        "url": "https://www.rotoballer.com/player-news/kyler-murray-well-positioned-for-a-significant-bounce-back/1927641"
+      },
+      "nfl_team": "MIN",
+      "player_id": "5849",
+      "player_name": "Kyler Murray",
+      "position": "QB",
+      "published": 1789045987000,
+      "source": "rotoballer",
+      "source_key": "220538",
+      "story_id": "nfl|5849|rotoballer|220538|1789045987000",
+      "title": "Kyler Murray Well-Positioned for a Significant Bounce-Back",
+      "url": "https://www.rotoballer.com/player-news/kyler-murray-well-positioned-for-a-significant-bounce-back/1927641"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers running back Christian McCaffrey (undisclosed) spent much of the preseason limited with what was described in numerous reports as general tightness. McCaffrey later explained that his extended absence from team drills was part of the team's plan to keep him fresh in 2026 after racking up 414 touches in 2025. McCaffrey was not listed on injury reports this week and carries no designation ahead of the 49ers' season opener against the Rams. Injuries to the 49ers' offense in 2025 paved the way for McCaffrey to be the team's leading receiver. San Francisco fleshed out its wide receiver room in the offseason, reuniting with Deebo Samuel Sr., signing free agent Mike Evans, and drafting rookie De'Zhaun Stribling. With the new additions, there may be fewer opportunities for McCaffrey as a pass catcher. Still, he will remain the focal point of Kyle Shanahan's dynamic offense and, when healthy, has the potential to be the top running back in fantasy football week-to-week. McCaffrey projects as a top-3 option at his position in Week 1.",
+      "metadata": {
+        "description": "San Francisco 49ers running back Christian McCaffrey (undisclosed) spent much of the preseason limited with what was described in numerous reports as general tightness. McCaffrey later explained that his extended absence from team drills was part of the team's plan to keep him fresh in 2026 after racking up 414 touches in 2025. McCaffrey was not listed on injury reports this week and carries no designation ahead of the 49ers' season opener against the Rams. Injuries to the 49ers' offense in 2025 paved the way for McCaffrey to be the team's leading receiver. San Francisco fleshed out its wide receiver room in the offseason, reuniting with Deebo Samuel Sr., signing free agent Mike Evans, and drafting rookie De'Zhaun Stribling. With the new additions, there may be fewer opportunities for McCaffrey as a pass catcher. Still, he will remain the focal point of Kyle Shanahan's dynamic offense and, when healthy, has the potential to be the top running back in fantasy football week-to-week. McCaffrey projects as a top-3 option at his position in Week 1.",
+        "title": "Christian McCaffrey Healthy, Projected As Top-Three RB Option For Week 1",
+        "topic_id": "1403825136133525505",
+        "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-healthy-projected-as-top-3-rb-option-for-week-1/1927636"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1789045865000,
+      "source": "rotoballer",
+      "source_key": "220536",
+      "story_id": "nfl|4034|rotoballer|220536|1789045865000",
+      "title": "Christian McCaffrey Healthy, Projected As Top-Three RB Option For Week 1",
+      "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-healthy-projected-as-top-3-rb-option-for-week-1/1927636"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks running back Jadarian Price rushed for 52 yards on 10 carries against the New England Patriots on Wednesday night. He also added two receptions for six yards. Price started the game and ran ahead of fellow running back George Holani. The two finished with similar carry counts (10 to eight) and snap shares (48% to 46%). However, Price was the more effective back, with Holani only gaining 29 yards on his carries. The Seahawks' offense was out of sorts for much of this game, but Price still had a couple of explosive runs that were eye-popping. He is clearly the most talented healthy running back on the roster, and Seattle figures to use him more and more as the season progresses. While his overall fantasy output was pedestrian at best, Price was still the clear lead back. With quarterback Sam Darnold (hip) potentially a candidate to miss some time, Seattle may lean on the run even more moving forward. Expect the offense to right the ship sooner rather than later, giving Price plenty of chances to score fantasy points. He draws a juicy matchup with the Arizona Cardinals in Week 2.",
+      "metadata": {
+        "description": "Seattle Seahawks running back Jadarian Price rushed for 52 yards on 10 carries against the New England Patriots on Wednesday night. He also added two receptions for six yards. Price started the game and ran ahead of fellow running back George Holani. The two finished with similar carry counts (10 to eight) and snap shares (48% to 46%). However, Price was the more effective back, with Holani only gaining 29 yards on his carries. The Seahawks' offense was out of sorts for much of this game, but Price still had a couple of explosive runs that were eye-popping. He is clearly the most talented healthy running back on the roster, and Seattle figures to use him more and more as the season progresses. While his overall fantasy output was pedestrian at best, Price was still the clear lead back. With quarterback Sam Darnold (hip) potentially a candidate to miss some time, Seattle may lean on the run even more moving forward. Expect the offense to right the ship sooner rather than later, giving Price plenty of chances to score fantasy points. He draws a juicy matchup with the Arizona Cardinals in Week 2.",
+        "title": "Jadarian Price Quiet but Efficient in Week 1",
+        "topic_id": "1403825136133525504",
+        "url": "https://www.rotoballer.com/player-news/jadarian-price-quiet-but-efficient-in-week-1/1927631"
+      },
+      "nfl_team": "SEA",
+      "player_id": "13286",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "published": 1789045625000,
+      "source": "rotoballer",
+      "source_key": "220537",
+      "story_id": "nfl|13286|rotoballer|220537|1789045625000",
+      "title": "Jadarian Price Quiet but Efficient in Week 1",
+      "url": "https://www.rotoballer.com/player-news/jadarian-price-quiet-but-efficient-in-week-1/1927631"
     },
     {
       "analysis": null,

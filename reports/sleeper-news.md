@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2502**
-- Newly captured: **2**
+- Stored stories: **2505**
+- Newly captured: **3**
 
 ## Latest news
 
@@ -69,9 +69,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php
 - **A.J. Brown** — A.J. Brown - Believed to have high-ankle sprain (2026-09-10T14:04:45Z)
   - In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before departing in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.
-- **NEW — Breece Hall** — Breece Hall Not Expected to be on a Pitch Count (2026-09-10T12:54:05Z)
+- **NEW — Kyler Murray** — Kyler Murray Well-Positioned for a Significant Bounce-Back (2026-09-10T13:13:07Z)
+  - Source: https://www.rotoballer.com/player-news/kyler-murray-well-positioned-for-a-significant-bounce-back/1927641
+- **NEW — Christian McCaffrey** — Christian McCaffrey Healthy, Projected As Top-Three RB Option For Week 1 (2026-09-10T13:11:05Z)
+  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-healthy-projected-as-top-3-rb-option-for-week-1/1927636
+- **NEW — Jadarian Price** — Jadarian Price Quiet but Efficient in Week 1 (2026-09-10T13:07:05Z)
+  - Source: https://www.rotoballer.com/player-news/jadarian-price-quiet-but-efficient-in-week-1/1927631
+- **Breece Hall** — Breece Hall Not Expected to be on a Pitch Count (2026-09-10T12:54:05Z)
   - Source: https://www.rotoballer.com/player-news/breece-hall-not-expected-to-be-on-a-pitch-count/1927619
-- **NEW — Brock Purdy** — Brock Purdy Still a QB2 Against Rams' Improved Defense (2026-09-10T12:50:06Z)
+- **Brock Purdy** — Brock Purdy Still a QB2 Against Rams' Improved Defense (2026-09-10T12:50:06Z)
   - Source: https://www.rotoballer.com/player-news/brock-purdy-surrounded-by-options-still-qb2-against-rams-improved-defense/1927612
 - **Jakobi Meyers** — Jakobi Meyers in Non-Contact Jersey Again on Thursday (2026-09-10T12:45:05Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-meyers-in-non-contact-jersey-again-on-thursday/1927606
@@ -229,10 +235,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tee Higgins** — Tee Higgins (foot) fully participates in practice Wednesday (2026-09-09T22:55:48.305000Z)
   - Higgins is still listed on Cincinnati's injury report due to a nagging foot injury, but it's not a serious issue at this point and he was able to log a full practice session on Wednesday. He should be good to go for Week 1 and projects to be a good fantasy option against the Buccaneers.
   - Source: https://www.fantasypros.com/nfl/news/606814/tee-higgins-foot-fully-participates-practice-wednesday.php
-- **Ashton Jeanty** — Ashton Jeanty (ankle) practices in full Wednesday (2026-09-09T22:55:48.291000Z)
-  - It looks like Jeanty is strongly trending towards playing in Week 1, as he was able to put up a full session in Las Vegas' first practice of the week on Wednesday. If he is active, he will likely see enough work to be a great fantasy option in a positive matchup against the Dolphins.
-  - Source: https://www.fantasypros.com/nfl/news/606815/ashton-jeanty-ankle-practices-full-wednesday.php
-- **Emeka Egbuka** — Emeka Egbuka Logs Full Practice on Wednesday (2026-09-09T22:53:50Z)
-  - Source: https://www.rotoballer.com/player-news/emeka-egbuka-logs-in-full-practice-on-wednesday/1927242
-- **Alvin Kamara** — Alvin Kamara is Back at Practice (2026-09-09T22:41:16Z)
-  - Source: https://www.rotoballer.com/player-news/alvin-kamara-is-back-at-practice/1927233
