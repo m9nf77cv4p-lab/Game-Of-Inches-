@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-10T05:16:19Z",
+  "last_checked_at": "2026-09-10T05:31:08Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|3214|rotoballer|220493|1789002432000",
-    "nfl|8121|rotoballer|220492|1789001945000",
-    "nfl|9501|rotowire|636675|1789016202000"
+    "nfl|4943|fantasy_pros|606861|1789018237344",
+    "nfl|7611|rotoballer|220494|1789002727000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Darnold was ruled out for the night in the opening drive on Wednesday. He is scheduled to undergo an MRI on Thursday.",
+      "description": "Seahawks coach Mike Macdonald said the team got good initial news on Sam Darnold and they have ruled out a fracture.",
+      "metadata": {
+        "analysis": "Darnold was ruled out for the night in the opening drive on Wednesday. He is scheduled to undergo an MRI on Thursday.",
+        "description": "Seahawks coach Mike Macdonald said the team got good initial news on Sam Darnold and they have ruled out a fracture.",
+        "title": "Sam Darnold (hip) avoids fracture, to undergo MRI Thursday ",
+        "topic_id": "1403647858724356096",
+        "url": "https://www.fantasypros.com/nfl/news/606861/sam-darnold-hip-avoids-fracture-to-undergo-mri-thursday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1789018237344,
+      "source": "fantasy_pros",
+      "source_key": "606861",
+      "story_id": "nfl|4943|fantasy_pros|606861|1789018237344",
+      "title": "Sam Darnold (hip) avoids fracture, to undergo MRI Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/606861/sam-darnold-hip-avoids-fracture-to-undergo-mri-thursday.php"
+    },
     {
       "analysis": "Douglas finished tied with Rhamondre Stevenson for the team lead in receptions while also setting the pace in targets for the Patriots on the night. The speedy fourth-year pro's elevated role seemed to be largely the byproduct of A.J. Brown's exit from the game on the first possession of the second half due to an ankle injury, which underscores the fact Douglas' week-to-week production is likely to remain volatile over the course of the season. However, if Brown, who Andrew Callahan of the Boston Herald reports left the locker room wearing a walking boot Wednesday, misses any time, Douglas would be in line for additional snaps and targets.",
       "description": "Douglas secured five of seven targets for 20 yards in the Patriots' 13-10 loss to the Seahawks on Wednesday.",
@@ -377,6 +397,26 @@
       "story_id": "nfl|4943|rotowire|636629|1789004284000",
       "title": "Sam Darnold - Ruled out with injury",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots running back Rhamondre Stevenson rushed for 51 yards on 18 carries during Wednesday's Week 1 loss against the Seattle Seahawks. He also caught five of his six targets for an additional 44 receiving yards. Stevenson took over as the Patriots' lead back with TreVeyon Henderson (ankle) sidelined, and while he averaged a woeful 2.8 yards per carry, he salvaged his fantasy performance with large volume and very admirable contributions in the receiving game. Ideally, Stevenson and Henderson can form a solid one-two punch when the latter is healthy, with Henderson fighting for yardage on early downs and Stevenson offering an outlet for Drake Maye in the passing game on third down. There doesn't appear to be a whole lot of rushing upside with Stevenson, so he'll need to continue producing as a receiver to stay on the radar in fantasy football leagues. If Henderson has to miss another week, Stevenson will likely remain in the high-end RB3 range, especially in PPR formats.",
+      "metadata": {
+        "description": "New England Patriots running back Rhamondre Stevenson rushed for 51 yards on 18 carries during Wednesday's Week 1 loss against the Seattle Seahawks. He also caught five of his six targets for an additional 44 receiving yards. Stevenson took over as the Patriots' lead back with TreVeyon Henderson (ankle) sidelined, and while he averaged a woeful 2.8 yards per carry, he salvaged his fantasy performance with large volume and very admirable contributions in the receiving game. Ideally, Stevenson and Henderson can form a solid one-two punch when the latter is healthy, with Henderson fighting for yardage on early downs and Stevenson offering an outlet for Drake Maye in the passing game on third down. There doesn't appear to be a whole lot of rushing upside with Stevenson, so he'll need to continue producing as a receiver to stay on the radar in fantasy football leagues. If Henderson has to miss another week, Stevenson will likely remain in the high-end RB3 range, especially in PPR formats.",
+        "title": "Rhamondre Stevenson Impressive as Receiver, Salvages Fantasy Performance",
+        "topic_id": "1403645335049342976",
+        "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-impressive-as-receiver-salvages-fantasy-performance/1927277"
+      },
+      "nfl_team": "NE",
+      "player_id": "7611",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "published": 1789002727000,
+      "source": "rotoballer",
+      "source_key": "220494",
+      "story_id": "nfl|7611|rotoballer|220494|1789002727000",
+      "title": "Rhamondre Stevenson Impressive as Receiver, Salvages Fantasy Performance",
+      "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-impressive-as-receiver-salvages-fantasy-performance/1927277"
     },
     {
       "analysis": "Gordon recently returned to practice without a non-contact jersey. With his full participation in Wednesday's practice, all signs are pointing toward his availability for Week 1 versus the Raiders. The 22-year-old finished the 2025 campaign by rushing for 199 yards and three touchdowns off 70 carries, adding seven grabs for 32 yards and a touchdown in 17 regular-season appearances. Gordon currently occupies the No. 3 spot on the depth chart behind De'Von Achane and Jaylen Wright.",
@@ -1965,10 +2005,10 @@
       "url": "https://www.rotoballer.com/player-news/sam-darnold-exits-season-opener-with-ankle-injury/1927175"
     },
     {
-      "analysis": "Indianapolis' star tight end looks good to go for the opener after not even being listed on the practice report to start the week. Warren was dealing with a minor groin issue late in camp but the expectation has been that he would be ready to begin the season. The Colts host the Ravens to kick off the season Sunday.",
+      "analysis": "Indianapolis' star tight end looks good to go for the opener after not even being listed on the practice report to start the week. Warren was dealing with a minor groin issue late in camp but the expectation has been that he would be ready to begin the season. The Colts host the Ravens to kick off their season Sunday.",
       "description": "Warren (groin) was off the injury report Wednesday.",
       "metadata": {
-        "analysis": "Indianapolis' star tight end looks good to go for the opener after not even being listed on the practice report to start the week. Warren was dealing with a minor groin issue late in camp but the expectation has been that he would be ready to begin the season. The Colts host the Ravens to kick off the season Sunday.",
+        "analysis": "Indianapolis' star tight end looks good to go for the opener after not even being listed on the practice report to start the week. Warren was dealing with a minor groin issue late in camp but the expectation has been that he would be ready to begin the season. The Colts host the Ravens to kick off their season Sunday.",
         "description": "Warren (groin) was off the injury report Wednesday.",
         "title": "Tyler Warren - Off injury report",
         "topic_id": "1403515776496844800"
@@ -2026,10 +2066,10 @@
       "url": null
     },
     {
-      "analysis": "This is a great development for Tate after dealing with an undisclosed issue late in preseason. Tate is now on track to make his NFL debut in Week 1, where he will be a focal point of the Titans' passing game.",
+      "analysis": "This is a great development for Tate after he dealt with an undisclosed issue late in preseason. Tate is now on track to make his NFL debut in Week 1, when he will be a focal point of the Titans' passing game.",
       "description": "Tate (undisclosed) is off the injury report ahead of the Titans' season opener against the Jets, Turron Davenport of ESPN.com reports.",
       "metadata": {
-        "analysis": "This is a great development for Tate after dealing with an undisclosed issue late in preseason. Tate is now on track to make his NFL debut in Week 1, where he will be a focal point of the Titans' passing game.",
+        "analysis": "This is a great development for Tate after he dealt with an undisclosed issue late in preseason. Tate is now on track to make his NFL debut in Week 1, when he will be a focal point of the Titans' passing game.",
         "description": "Tate (undisclosed) is off the injury report ahead of the Titans' season opener against the Jets, Turron Davenport of ESPN.com reports.",
         "title": "Carnell Tate - Off injury report",
         "topic_id": "1403514518105038848"
@@ -2046,10 +2086,10 @@
       "url": null
     },
     {
-      "analysis": "After missing a bunch of training camp and the entire preseason with a hyperextended knee, Monangai's ready to roll for the games that count. He should fill a similar role as last season behind D'Andre Swift, who out-carried Monangai 32 to 21 in the Bears' two playoff games. Monangai is one of the premier fantasy bench stashes at running back, and he could have some standalone value during bye weeks.",
+      "analysis": "After missing a bunch of training camp and the entire preseason with a hyperextended knee, Monangai is ready to roll for the games that count. He should fill a similar role as last season behind D'Andre Swift, who out-carried Monangai 32 to 21 in the Bears' two playoff games. Monangai is one of the premier fantasy bench stashes at running back, and he could have some standalone value during bye weeks.",
       "description": "Monangai (knee) is not listed on the Bears' Week 1 injury report Wednesday.",
       "metadata": {
-        "analysis": "After missing a bunch of training camp and the entire preseason with a hyperextended knee, Monangai's ready to roll for the games that count. He should fill a similar role as last season behind D'Andre Swift, who out-carried Monangai 32 to 21 in the Bears' two playoff games. Monangai is one of the premier fantasy bench stashes at running back, and he could have some standalone value during bye weeks.",
+        "analysis": "After missing a bunch of training camp and the entire preseason with a hyperextended knee, Monangai is ready to roll for the games that count. He should fill a similar role as last season behind D'Andre Swift, who out-carried Monangai 32 to 21 in the Bears' two playoff games. Monangai is one of the premier fantasy bench stashes at running back, and he could have some standalone value during bye weeks.",
         "description": "Monangai (knee) is not listed on the Bears' Week 1 injury report Wednesday.",
         "title": "Kyle Monangai - Cleared to play Sunday",
         "topic_id": "1403514518096650240"
@@ -2150,10 +2190,10 @@
       "url": "https://www.fantasypros.com/nfl/news/606758/kenyon-sadiq-groin-practices-full-wednesday.php"
     },
     {
-      "analysis": "After sitting out Monday and being labeled day-to-day by coach Ben Johnson on Tuesday, Odunze is limited in the first official practice of the week. His status for Sunday's season opener against Carolina still appears unsettled. If Odunze is unable to go, Luther Burden and Colston Loveland should dominate most of the targets from Caleb Williams, while Kalif Raymond and Zavion Thomas see more action on offense.",
+      "analysis": "After sitting out Monday and being labeled day-to-day by coach Ben Johnson on Tuesday, Odunze was limited in the first official practice of the week. His status for Sunday's season opener against Carolina still appears unsettled. If Odunze is unable to go, Luther Burden and Colston Loveland should dominate most of the targets from Caleb Williams, while Kalif Raymond and Zavion Thomas would likely see more action on offense.",
       "description": "Odunze (calf) was limited in Wednesday's practice.",
       "metadata": {
-        "analysis": "After sitting out Monday and being labeled day-to-day by coach Ben Johnson on Tuesday, Odunze is limited in the first official practice of the week. His status for Sunday's season opener against Carolina still appears unsettled. If Odunze is unable to go, Luther Burden and Colston Loveland should dominate most of the targets from Caleb Williams, while Kalif Raymond and Zavion Thomas see more action on offense.",
+        "analysis": "After sitting out Monday and being labeled day-to-day by coach Ben Johnson on Tuesday, Odunze was limited in the first official practice of the week. His status for Sunday's season opener against Carolina still appears unsettled. If Odunze is unable to go, Luther Burden and Colston Loveland should dominate most of the targets from Caleb Williams, while Kalif Raymond and Zavion Thomas would likely see more action on offense.",
         "description": "Odunze (calf) was limited in Wednesday's practice.",
         "title": "Rome Odunze - Listed as limited participant Wednesday",
         "topic_id": "1403513259637637120"

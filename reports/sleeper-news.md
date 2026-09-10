@@ -2,12 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2451**
-- Newly captured: **3**
+- Stored stories: **2453**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — DeMario Douglas** — DeMario Douglas - Does little with five catches (2026-09-10T04:56:42Z)
+- **NEW — Sam Darnold** — Sam Darnold (hip) avoids fracture, to undergo MRI Thursday  (2026-09-10T05:30:37.344000Z)
+  - Darnold was ruled out for the night in the opening drive on Wednesday. He is scheduled to undergo an MRI on Thursday.
+  - Source: https://www.fantasypros.com/nfl/news/606861/sam-darnold-hip-avoids-fracture-to-undergo-mri-thursday.php
+- **DeMario Douglas** — DeMario Douglas - Does little with five catches (2026-09-10T04:56:42Z)
   - Douglas finished tied with Rhamondre Stevenson for the team lead in receptions while also setting the pace in targets for the Patriots on the night. The speedy fourth-year pro's elevated role seemed to be largely the byproduct of A.J. Brown's exit from the game on the first possession of the second half due to an ankle injury, which underscores the fact Douglas' week-to-week production is likely to remain volatile over the course of the season. However, if Brown, who Andrew Callahan of the Boston Herald reports left the locker room wearing a walking boot Wednesday, misses any time, Douglas would be in line for additional snaps and targets.
 - **Hunter Henry** — Hunter Henry - Three catches in Week 1 loss (2026-09-10T04:48:00Z)
   - The trusted tight end figures to remain an important component of the Patriots' air attack this season, but Henry had a quiet start to the campaign. The 31-year-old did tie for third in receptions and receiving yards on the night for the Patriots, and Henry will look to help Drake Maye atone for a three-interception night in a Week 2 home matchup against the Steelers on Sunday, Sept. 20.
@@ -46,11 +49,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606856/sam-darnold-hip-ruled-out-remainder-season-opener.php
 - **Sam Darnold** — Sam Darnold - Ruled out with injury (2026-09-10T01:38:04Z)
   - Darnold will undergo additional imaging on his hip off-site, and the exact diagnosis of his injury will likely be disclosed thereafter. Drew Lock will continue to operate as Seattle's quarterback in Darnold's absence versus the Patriots.
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Impressive as Receiver, Salvages Fantasy Performance (2026-09-10T01:12:07Z)
+  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-impressive-as-receiver-salvages-fantasy-performance/1927277
 - **Ollie Gordon** — Ollie Gordon - Not listed on injury report (2026-09-10T01:07:52Z)
   - Gordon recently returned to practice without a non-contact jersey. With his full participation in Wednesday's practice, all signs are pointing toward his availability for Week 1 versus the Raiders. The 22-year-old finished the 2025 campaign by rushing for 199 yards and three touchdowns off 70 carries, adding seven grabs for 32 yards and a touchdown in 17 regular-season appearances. Gordon currently occupies the No. 3 spot on the depth chart behind De'Von Achane and Jaylen Wright.
-- **NEW — Hunter Henry** — Hunter Henry Relatively Quiet in Week 1 Loss (2026-09-10T01:07:12Z)
+- **Hunter Henry** — Hunter Henry Relatively Quiet in Week 1 Loss (2026-09-10T01:07:12Z)
   - Source: https://www.rotoballer.com/player-news/hunter-henry-relatively-quiet-in-week-1-loss/1927273
-- **NEW — Romeo Doubs** — Romeo Doubs Incredibly Underwhelming in Patriots Debut (2026-09-10T00:59:05Z)
+- **Romeo Doubs** — Romeo Doubs Incredibly Underwhelming in Patriots Debut (2026-09-10T00:59:05Z)
   - Source: https://www.rotoballer.com/player-news/romeo-doubs-incredibly-underwhelming-in-patriots-debut/1927270
 - **Sam Darnold** — Sam Darnold (hip) questionable to return  (2026-09-10T00:55:49.137000Z)
   - Darnold suffered the apparent injury on the third down sack on their first offensive drive. Drew Lock is currently in at quarterback for the Seahawks. Fantasy managers should expect the team to update Darnold's status after halftime. 
@@ -229,11 +234,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Sam Darnold** — Sam Darnold Exits Season Opener, Questionable to Return (2026-09-09T20:45:07Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-exits-season-opener-with-ankle-injury/1927175
 - **Tyler Warren** — Tyler Warren - Off injury report (2026-09-09T20:41:28Z)
-  - Indianapolis' star tight end looks good to go for the opener after not even being listed on the practice report to start the week. Warren was dealing with a minor groin issue late in camp but the expectation has been that he would be ready to begin the season. The Colts host the Ravens to kick off the season Sunday.
+  - Indianapolis' star tight end looks good to go for the opener after not even being listed on the practice report to start the week. Warren was dealing with a minor groin issue late in camp but the expectation has been that he would be ready to begin the season. The Colts host the Ravens to kick off their season Sunday.
 - **Chris Rodriguez** — Chris Rodriguez Jr. (foot) off injury report for Week 1 (2026-09-09T20:40:48.500000Z)
   - Rodriguez is set to be a full go in Week 1 after battling with a foot injury throughout the preseason. He is likely to play a substantial role in Jacksonville's backfield this season, although the exact distribution of work will remain obscure until after the first game or two, which makes him hard to trust as a fantasy option in the season opener.
   - Source: https://www.fantasypros.com/nfl/news/606763/chris-rodriguez-jr-foot-off-injury-report-week-1.php
-- **Luther Burden** — Luther Burden - Not on Week 1 injury report (2026-09-09T20:37:03Z)
-  - As expected, Burden is ready to go for the start of the season Sunday against the Panthers. He missed some time earlier in the summer with a groin issue, but it was never believed to be serious. With Rome Odunze (calf) limited in practice Wednesday, Burden could have an enormous role in the passing game Sunday if Odunze is unable to play.
-- **Carnell Tate** — Carnell Tate - Off injury report (2026-09-09T20:36:08Z)
-  - This is a great development for Tate after dealing with an undisclosed issue late in preseason. Tate is now on track to make his NFL debut in Week 1, where he will be a focal point of the Titans' passing game.
