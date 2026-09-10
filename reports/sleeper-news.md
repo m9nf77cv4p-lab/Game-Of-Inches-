@@ -2,16 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2438**
-- Newly captured: **3**
+- Stored stories: **2439**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jadarian Price** — Jadarian Price - Efficient in Week 1 win (2026-09-10T04:10:57Z)
+- **Jadarian Price** — Jadarian Price - Efficient in Week 1 win (2026-09-10T04:10:57Z)
   - The rookie running back touched the ball on Seattle's first play from scrimmage and immediately made an impact, ripping off a decisive 13-yard run. While that would serve as Price's longest gain of the night, the first-round pick continued to run hard throughout the night while flashing a hard-charging style. Price's rushing opportunities were somewhat capped as George Holani also logged eight carries, but the former could be trusted with a bigger role in a Week 2 road matchup against the Cardinals on Sunday, Sept. 20.
-- **NEW — Jason Myers** — Jason Myers - Perfect in opener (2026-09-10T04:10:47Z)
+- **Jason Myers** — Jason Myers - Perfect in opener (2026-09-10T04:10:47Z)
   - Myers made field goals from 30 and 26 yards, nailing a fourth-quarter kick with just under six minutes remaining to take the game-winning lead. While Myers was perfect Wednesday night, the kicker was not truly tested in the contest and the preseason adversity could flare up if he must extend his range in future weeks.
-- **NEW — Sam Darnold** — Sam Darnold - In line for MRI on hip (2026-09-10T03:53:33Z)
+- **Sam Darnold** — Sam Darnold - In line for MRI on hip (2026-09-10T03:53:33Z)
   - Darnold injured his hip on the Seahawks' fifth offensive play of the game and eventually was ruled out. Per Schefter, the results of Darnold's CT scan were encouraging yet inclusive, while coach Mike Macdonald told Corbin K. Smith of SI.com postgame that a fracture has been ruled out, with more tests to be done. A number of scenarios appear to be on the table for Seattle's starting QB, but if Darnold needs to miss any time, Drew Lock would get another opportunity to lead the offense.
 - **Drake Maye** — Drake Maye - Trio of critical INTs in loss (2026-09-10T03:51:07Z)
   - The third-year signal-caller carried out a conservative gameplan with reasonable efficacy for three quarters before unraveling with a trio of fourth-quarter interceptions. Maye didn't throw a pass until the first play of New England's second possession, and he lost prized offseason addition A.J. Brown on the first series of the second half due to an ankle injury. The first two of Maye's interceptions led to Seattle's last 10 points of the night, and his final pick came on a poorly thrown lob into the end zone with 26 seconds remaining when it appeared New England was perfectly positioned for a game-tying field-goal attempt that would have forced overtime. Maye's three interceptions were a single-game career-high for the 2024 first-round pick, and it remains to be seen if he'll have Brown available for the Patriots' Week 2 home opener against the Steelers on Sunday, Sept. 20.
@@ -43,6 +43,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Darnold suffered a hip injury on the Seahawks' opening possession, and he is now considered questionable to return to the contest, per Adam Schefter of ESPN. Drew Lock has entered the contest at quarterback for Seattle.
 - **Jeremiyah Love** — Jeremiyah Love - Limited at Wednesday's practice (2026-09-10T00:23:22Z)
   - Love's status for Week 1 has been murky since he emerged from the Cardinals' preseason opener with a high-ankle sprain, which coach Mike LaFleur downplayed for most of the past month. When LaFleur discussed Love ahead of Wednesday's session, he told PHNX Sports "don't look too far into that" when discussing the rookie's listing as the No. 2 RB on the team's unofficial depth chart, while at the same time telling Brack that "there's no limit on our end" to Love's activity level. Considering Love's listing of "limited" Wednesday, he still has some work to do to be available for Sunday's game at the Chargers. Tyler Allgeier would serve as Arizona's lead back Week 1 if Love is operating with a cap on his reps or not suited up, while Bam Knight would be in line for some work as well.
+- **NEW — Drake Maye** — Drake Maye Throws Three Costly Interceptions in Seattle (2026-09-10T00:19:05Z)
+  - Source: https://www.rotoballer.com/player-news/drake-maye-throws-three-costly-interceptions-in-seattle/1927252
 - **Cameron Dicker** — Cameron Dicker - Fades Wednesday's injury report (2026-09-09T23:32:22Z)
   - Dicker was working through an undisclosed issue toward the tail end of training camp, but his absence from the Chargers' first injury report of the week indicates that he's fully healthy for Sunday's regular-season opener against the Cardinals. Dicker was a top-5 kicker in fantasy last season, connecting on 38 of 41 field-goal attempts (including 12-for-13 on attempts from 50-plus yards) while making 34 of 35 extra-point tries across 17 regular-season games. His scoring output could increase this season if the Chargers' offense levels up under new offensive coordinator Mike McDaniel.
 - **Keaton Mitchell** — Keaton Mitchell (hamstring) limited participant Wednesday (2026-09-09T23:20:48.599000Z)
@@ -242,6 +244,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Rome Odunze** — Rome Odunze (calf) limited at practice Wednesday (2026-09-09T20:20:48.029000Z)
   - Odunze is considered day-to-day due to a calf injury that he's dealing with. He was able to practice in a limited fashion on Wednesday, and it looks like his availability for Week 1 remains up in the air at this point. Look for Luther Burden III and Colston Loveland to see a lot of work if he's ruled out for the season opener, with Zavion Thomas likely to see more work as well.
   - Source: https://www.fantasypros.com/nfl/news/606748/rome-odunze-calf-limited-practice-wednesday.php
-- **Luther Burden** — Luther Burden III (groin) good to go for Week 1 (2026-09-09T20:20:47.997000Z)
-  - Burden was dealing with a groin injury earlier in the offseason, but he is fully healthy now and carries no injury designation ahead of Sunday's season opener. He should play without any restrictions and will be primed for a huge Week 1 if the Bears are without Rome Odunze (calf) for their matchup against the Panthers.
-  - Source: https://www.fantasypros.com/nfl/news/606750/luther-burden-iii-groin-good-to-go-week-1.php

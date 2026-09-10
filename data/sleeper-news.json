@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T04:17:07Z",
+  "last_checked_at": "2026-09-10T04:33:06Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13286|rotowire|636660|1789013457000",
-    "nfl|2747|rotowire|636659|1789013447000",
-    "nfl|4943|rotowire|636657|1789012413000"
+    "nfl|11564|rotoballer|220485|1788999545000"
   ],
   "schema_version": 1,
   "source": {
@@ -338,6 +336,26 @@
       "story_id": "nfl|13287|rotowire|636590|1788999802000",
       "title": "Jeremiyah Love - Limited at Wednesday's practice",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots quarterback Drake Maye completed 23 of his 33 pass attempts for 178 passing yards, one passing touchdown, and three interceptions. He also rushed for 57 yards and took three sacks. Maye did show occasional flashes, but for the most part, he demonstrated poor decision-making and cost the Patriots the game. On the final drive of the game, Maye committed an intentional grounding play, and then one play later, he took a sack when he could have thrown the ball away. He made up for these bad plays by using his arm and legs to get the Patriots into the red zone, but then everything backfired as Maye threw an ill-advised pass that was picked off with 26 seconds left. The interception sealed the loss for New England, who had been in range to tie the game with a field goal. The only good news for Maye is that he got one of his toughest matchups out of the way. Things should get a little easier next week as Maye and the Patriots host the Steelers on 11 days' rest.",
+      "metadata": {
+        "description": "New England Patriots quarterback Drake Maye completed 23 of his 33 pass attempts for 178 passing yards, one passing touchdown, and three interceptions. He also rushed for 57 yards and took three sacks. Maye did show occasional flashes, but for the most part, he demonstrated poor decision-making and cost the Patriots the game. On the final drive of the game, Maye committed an intentional grounding play, and then one play later, he took a sack when he could have thrown the ball away. He made up for these bad plays by using his arm and legs to get the Patriots into the red zone, but then everything backfired as Maye threw an ill-advised pass that was picked off with 26 seconds left. The interception sealed the loss for New England, who had been in range to tie the game with a field goal. The only good news for Maye is that he got one of his toughest matchups out of the way. Things should get a little easier next week as Maye and the Patriots host the Steelers on 11 days' rest.",
+        "title": "Drake Maye Throws Three Costly Interceptions in Seattle",
+        "topic_id": "1403631492189483008",
+        "url": "https://www.rotoballer.com/player-news/drake-maye-throws-three-costly-interceptions-in-seattle/1927252"
+      },
+      "nfl_team": "NE",
+      "player_id": "11564",
+      "player_name": "Drake Maye",
+      "position": "QB",
+      "published": 1788999545000,
+      "source": "rotoballer",
+      "source_key": "220485",
+      "story_id": "nfl|11564|rotoballer|220485|1788999545000",
+      "title": "Drake Maye Throws Three Costly Interceptions in Seattle",
+      "url": "https://www.rotoballer.com/player-news/drake-maye-throws-three-costly-interceptions-in-seattle/1927252"
     },
     {
       "analysis": "Dicker was working through an undisclosed issue toward the tail end of training camp, but his absence from the Chargers' first injury report of the week indicates that he's fully healthy for Sunday's regular-season opener against the Cardinals. Dicker was a top-5 kicker in fantasy last season, connecting on 38 of 41 field-goal attempts (including 12-for-13 on attempts from 50-plus yards) while making 34 of 35 extra-point tries across 17 regular-season games. His scoring output could increase this season if the Chargers' offense levels up under new offensive coordinator Mike McDaniel.",
