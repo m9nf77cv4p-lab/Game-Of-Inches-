@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T22:12:57Z",
+  "last_checked_at": "2026-09-10T22:27:02Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11604|rotowire|636720|1789077650000"
+    "nfl|13349|rotowire|636721|1789078440000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Stowers emerged from preseason Week 2 with a hamstring injury, which sidelined him until this Wednesday. So far during Week 1 prep, the rookie second-round pick has logged back-to-back capped sessions, but even if he's cleared of his health concern ahead of the Eagles' season opener against the Commanders this Sunday, there's a chance he's a healthy scratch, as Jimmy Kempski of PhillyVoice.com reported on Aug. 26. In such a scenario, Johnny Mundt and E.J. Jenkins would be the available tight ends behind starter Dallas Goedert.",
+      "description": "Stowers (hamstring) practiced in a limited capacity Thursday.",
+      "metadata": {
+        "analysis": "Stowers emerged from preseason Week 2 with a hamstring injury, which sidelined him until this Wednesday. So far during Week 1 prep, the rookie second-round pick has logged back-to-back capped sessions, but even if he's cleared of his health concern ahead of the Eagles' season opener against the Commanders this Sunday, there's a chance he's a healthy scratch, as Jimmy Kempski of PhillyVoice.com reported on Aug. 26. In such a scenario, Johnny Mundt and E.J. Jenkins would be the available tight ends behind starter Dallas Goedert.",
+        "description": "Stowers (hamstring) practiced in a limited capacity Thursday.",
+        "title": "Eli Stowers - Another limited session",
+        "topic_id": "1403900737771053056"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13349",
+      "player_name": "Eli Stowers",
+      "position": "TE",
+      "published": 1789078440000,
+      "source": "rotowire",
+      "source_key": "636721",
+      "story_id": "nfl|13349|rotowire|636721|1789078440000",
+      "title": "Eli Stowers - Another limited session",
+      "url": null
+    },
     {
       "analysis": "Head coach Klint Kubiak has yet to officially rule Bowers out for Sunday's season opener versus the Dolphins, but the standout tight end is fully expected to be sidelined for Week 1 -- and likely, additional games beyond that -- after Adam Schefter and Ian Rapoport of ESPN reported that Bowers underwent a meniscus trim procedure Tuesday. Though the previous report indicated that Bowers is expected to miss \"a game or two,\" Schefter clarified Thursday in an appearance on \"The Pat McAfee Show\" that that timeline is coming from the tight end's camp and may be overly optimistic. For however long Bowers is sidelined, Michael Mayer is expected to take on an expanded role in the passing game as the Raiders' top tight end, and starting wideouts Tre Tucker and Jalen Nailor will also have clearer paths to elevated target counts.",
       "description": "Bowers (knee) remained a non-participant in Thursday's practice, Anthony Galaviz of The Fresno Bee reports.",

@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2578**
+- Stored stories: **2579**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Brock Bowers** — Brock Bowers - Sits out practice, set to miss time (2026-09-10T22:00:50Z)
+- **NEW — Eli Stowers** — Eli Stowers - Another limited session (2026-09-10T22:14:00Z)
+  - Stowers emerged from preseason Week 2 with a hamstring injury, which sidelined him until this Wednesday. So far during Week 1 prep, the rookie second-round pick has logged back-to-back capped sessions, but even if he's cleared of his health concern ahead of the Eagles' season opener against the Commanders this Sunday, there's a chance he's a healthy scratch, as Jimmy Kempski of PhillyVoice.com reported on Aug. 26. In such a scenario, Johnny Mundt and E.J. Jenkins would be the available tight ends behind starter Dallas Goedert.
+- **Brock Bowers** — Brock Bowers - Sits out practice, set to miss time (2026-09-10T22:00:50Z)
   - Head coach Klint Kubiak has yet to officially rule Bowers out for Sunday's season opener versus the Dolphins, but the standout tight end is fully expected to be sidelined for Week 1 -- and likely, additional games beyond that -- after Adam Schefter and Ian Rapoport of ESPN reported that Bowers underwent a meniscus trim procedure Tuesday. Though the previous report indicated that Bowers is expected to miss "a game or two," Schefter clarified Thursday in an appearance on "The Pat McAfee Show" that that timeline is coming from the tight end's camp and may be overly optimistic. For however long Bowers is sidelined, Michael Mayer is expected to take on an expanded role in the passing game as the Raiders' top tight end, and starting wideouts Tre Tucker and Jalen Nailor will also have clearer paths to elevated target counts.
 - **Keaton Mitchell** — Keaton Mitchell - Stays limited in practice (2026-09-10T21:54:52Z)
   - The Chargers put a cap on Mitchell's reps for a second straight day, but his ability to practice in any capacity on consecutive days to kick off Week 1 prep is an encouraging sign for his chances of playing in Sunday's season opener versus the Cardinals. If he's cleared to play against Arizona, Mitchell would likely be in line for a complementary role behind lead back Omarion Hampton.
@@ -245,5 +247,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/george-kittle-cleared-still-a-risky-play-for-week-1/1927707
 - **Malik Nabers** — Malik Nabers "On Track" to Play Sunday Night (2026-09-10T13:49:05Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-on-track-to-play-sunday-night/1927704
-- **De'Zhaun Stribling** — De'Zhaun Stribling WR3 On Depth Chart Ahead Of Week 1 (2026-09-10T13:44:05Z)
-  - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-wr3-on-depth-chart-ahead-of-week-1/1927700
