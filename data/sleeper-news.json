@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-10T03:47:15Z",
+  "last_checked_at": "2026-09-10T03:58:19Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|9488|rotowire|636654|1789011757000"
+    "nfl|11564|rotowire|636656|1789012267000",
+    "nfl|5859|rotowire|636655|1789011836000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,12 +15,52 @@
   },
   "stories": [
     {
+      "analysis": "The third-year signal-caller carried out a conservative gameplan with reasonable efficacy for three quarters before unraveling with a trio of fourth-quarter interceptions. Maye didn't throw a pass until the first play of New England's second possession, and he lost prized offseason addition A.J. Brown on the first series of the second half due to an ankle injury. The first two of Maye's interceptions led to Seattle's initial 10 points of the night, and his final pick came on a poorly thrown lob into the end zone with 26 seconds remaining when it appeared New England was perfectly positioned for a game-tying field-goal attempt that would have forced overtime. Maye's three interceptions were a single-game career-high for the 2024 first-round pick, and it remains to be seen if he'll have Brown available for the Patriots' Week 2 home opener against the Steelers on Sunday, Sept. 20.",
+      "description": "Maye completed 23 of 33 passes for 178 yards with one touchdown and three interceptions while rushing seven times for 47 yards in the Patriots' 13-10 loss to the Seahawks on Wednesday.",
+      "metadata": {
+        "analysis": "The third-year signal-caller carried out a conservative gameplan with reasonable efficacy for three quarters before unraveling with a trio of fourth-quarter interceptions. Maye didn't throw a pass until the first play of New England's second possession, and he lost prized offseason addition A.J. Brown on the first series of the second half due to an ankle injury. The first two of Maye's interceptions led to Seattle's initial 10 points of the night, and his final pick came on a poorly thrown lob into the end zone with 26 seconds remaining when it appeared New England was perfectly positioned for a game-tying field-goal attempt that would have forced overtime. Maye's three interceptions were a single-game career-high for the 2024 first-round pick, and it remains to be seen if he'll have Brown available for the Patriots' Week 2 home opener against the Steelers on Sunday, Sept. 20.",
+        "description": "Maye completed 23 of 33 passes for 178 yards with one touchdown and three interceptions while rushing seven times for 47 yards in the Patriots' 13-10 loss to the Seahawks on Wednesday.",
+        "title": "Drake Maye - Trio of critical INTs in loss",
+        "topic_id": "1403623945353150464"
+      },
+      "nfl_team": "NE",
+      "player_id": "11564",
+      "player_name": "Drake Maye",
+      "position": "QB",
+      "published": 1789012267000,
+      "source": "rotowire",
+      "source_key": "636656",
+      "story_id": "nfl|11564|rotowire|636656|1789012267000",
+      "title": "Drake Maye - Trio of critical INTs in loss",
+      "url": null
+    },
+    {
+      "analysis": "Brown exited early in the third quarter after his right ankle was rolled up on by a Seahawks defender as he was attempting to gather in a pass from QB Drake Maye. Brown eventually was ruled out later in the second half, ending Week 1 with three catches (on four targets) for 26 yards. He likely will undergo a battery of tests to hone in on the extent of the injury, with the Patriots next slated to suit up Sunday, Sept. 20 versus the Steelers.",
+      "description": "Coach Mike Vrabel didn't have an update on Brown (ankle) after Wednesday's loss at Seattle in which the wide receiver left early due to injury, Taylor Kyles of CLNSMedia.com reports.",
+      "metadata": {
+        "analysis": "Brown exited early in the third quarter after his right ankle was rolled up on by a Seahawks defender as he was attempting to gather in a pass from QB Drake Maye. Brown eventually was ruled out later in the second half, ending Week 1 with three catches (on four targets) for 26 yards. He likely will undergo a battery of tests to hone in on the extent of the injury, with the Patriots next slated to suit up Sunday, Sept. 20 versus the Steelers.",
+        "description": "Coach Mike Vrabel didn't have an update on Brown (ankle) after Wednesday's loss at Seattle in which the wide receiver left early due to injury, Taylor Kyles of CLNSMedia.com reports.",
+        "title": "A.J. Brown - Vrabel has 'no update' on injury",
+        "topic_id": "1403622687225511936"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1789011836000,
+      "source": "rotowire",
+      "source_key": "636655",
+      "story_id": "nfl|5859|rotowire|636655|1789011836000",
+      "title": "A.J. Brown - Vrabel has 'no update' on injury",
+      "url": null
+    },
+    {
       "analysis": "The reigning Offensive Player of the Year endured a relatively difficult first half, losing starting quarterback Sam Darnold to a hip injury after the first drive of the game and experiencing some trouble separating from Patriots star cornerback Christian Gonzalez. However, JSN picked up the pace significantly as No. 2 signal-caller Drew Lock got into a rhythm, recording key third-down catches on consecutive second-quarter possessions and then delivering a dynamic 45-yard catch-and-run touchdown in the fourth quarter following Drake Maye's first interception. Smith-Njigba also subsequently managed a timely 11-yard grab on the drive that culminated with Jason Myers' go-ahead field goal that served as the final points for either side, and he ultimately delivered game-high totals in receptions, receiving yards and targets. Any extended absence on Darnold's part would stand to affect Smith-Njigba's week-to-week upside, but the standout receiver's chemistry with Lock as Wednesday's game unfolded was encouraging.",
       "description": "Smith-Njigba brought in eight of 11 targets for 122 yards and a touchdown in the Seahawks' 13-10 win over the Patriots on Wednesday.",
       "metadata": {
         "analysis": "The reigning Offensive Player of the Year endured a relatively difficult first half, losing starting quarterback Sam Darnold to a hip injury after the first drive of the game and experiencing some trouble separating from Patriots star cornerback Christian Gonzalez. However, JSN picked up the pace significantly as No. 2 signal-caller Drew Lock got into a rhythm, recording key third-down catches on consecutive second-quarter possessions and then delivering a dynamic 45-yard catch-and-run touchdown in the fourth quarter following Drake Maye's first interception. Smith-Njigba also subsequently managed a timely 11-yard grab on the drive that culminated with Jason Myers' go-ahead field goal that served as the final points for either side, and he ultimately delivered game-high totals in receptions, receiving yards and targets. Any extended absence on Darnold's part would stand to affect Smith-Njigba's week-to-week upside, but the standout receiver's chemistry with Lock as Wednesday's game unfolded was encouraging.",
         "description": "Smith-Njigba brought in eight of 11 targets for 122 yards and a touchdown in the Seahawks' 13-10 win over the Patriots on Wednesday.",
-        "title": "Jaxon Smith-Njigba - Ratches up production in second half",
+        "title": "Jaxon Smith-Njigba - Cranks it up in second half",
         "topic_id": "1403621429345255424"
       },
       "nfl_team": "SEA",
@@ -30,7 +71,7 @@
       "source": "rotowire",
       "source_key": "636654",
       "story_id": "nfl|9488|rotowire|636654|1789011757000",
-      "title": "Jaxon Smith-Njigba - Ratches up production in second half",
+      "title": "Jaxon Smith-Njigba - Cranks it up in second half",
       "url": null
     },
     {

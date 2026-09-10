@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2433**
-- Newly captured: **1**
+- Stored stories: **2435**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba - Ratches up production in second half (2026-09-10T03:42:37Z)
+- **NEW — Drake Maye** — Drake Maye - Trio of critical INTs in loss (2026-09-10T03:51:07Z)
+  - The third-year signal-caller carried out a conservative gameplan with reasonable efficacy for three quarters before unraveling with a trio of fourth-quarter interceptions. Maye didn't throw a pass until the first play of New England's second possession, and he lost prized offseason addition A.J. Brown on the first series of the second half due to an ankle injury. The first two of Maye's interceptions led to Seattle's initial 10 points of the night, and his final pick came on a poorly thrown lob into the end zone with 26 seconds remaining when it appeared New England was perfectly positioned for a game-tying field-goal attempt that would have forced overtime. Maye's three interceptions were a single-game career-high for the 2024 first-round pick, and it remains to be seen if he'll have Brown available for the Patriots' Week 2 home opener against the Steelers on Sunday, Sept. 20.
+- **NEW — A.J. Brown** — A.J. Brown - Vrabel has 'no update' on injury (2026-09-10T03:43:56Z)
+  - Brown exited early in the third quarter after his right ankle was rolled up on by a Seahawks defender as he was attempting to gather in a pass from QB Drake Maye. Brown eventually was ruled out later in the second half, ending Week 1 with three catches (on four targets) for 26 yards. He likely will undergo a battery of tests to hone in on the extent of the injury, with the Patriots next slated to suit up Sunday, Sept. 20 versus the Steelers.
+- **Jaxon Smith-Njigba** — Jaxon Smith-Njigba - Cranks it up in second half (2026-09-10T03:42:37Z)
   - The reigning Offensive Player of the Year endured a relatively difficult first half, losing starting quarterback Sam Darnold to a hip injury after the first drive of the game and experiencing some trouble separating from Patriots star cornerback Christian Gonzalez. However, JSN picked up the pace significantly as No. 2 signal-caller Drew Lock got into a rhythm, recording key third-down catches on consecutive second-quarter possessions and then delivering a dynamic 45-yard catch-and-run touchdown in the fourth quarter following Drake Maye's first interception. Smith-Njigba also subsequently managed a timely 11-yard grab on the drive that culminated with Jason Myers' go-ahead field goal that served as the final points for either side, and he ultimately delivered game-high totals in receptions, receiving yards and targets. Any extended absence on Darnold's part would stand to affect Smith-Njigba's week-to-week upside, but the standout receiver's chemistry with Lock as Wednesday's game unfolded was encouraging.
 - **A.J. Brown** — A.J. Brown (ankle) ruled out against Seattle (2026-09-10T02:45:36.497000Z)
   - Brown went down in the second half after a Seattle DB landed on his ankle, and Brown went back to the locker room soon after for x-rays. The Patriots will lean on Romeo Doubs, Pop Douglas, and Hunter Henry in the passing game with him out.
@@ -242,8 +246,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The star running back was a full-go to begin the practice week as Sunday's season opener looms. Hall suffered a groin injury late in camp but has been making good progress to the point that it's been expected that he will be ready for Week 1. Look for Hall to lead the Jets' backfield to begin the campaign.
 - **Sam LaPorta** — Sam LaPorta - Not listed on injury report (2026-09-09T20:08:50Z)
   - LaPorta missed the Lions' final eight games last season with a back injury and then dealt with a hip issue this summer. He returned to practice in late August and is ready to go for Sunday's season opener against the Saints. LaPorta is expected to compete with Jameson Williams for targets behind alpha WR1 Amon-Ra St. Brown this season, and the tight end will likely be a big a presence in the red zone.
-- **Brock Bowers** — Brock Bowers (knee) to miss 'a game or two' (2026-09-09T20:05:48.589000Z)
-  - Bowers reportedly got 'banged up' during training camp last week, and the team made the decision to have him undergo a minor procedure to trim his meniscus. This is especially concerning considering that he missed much of last year due to a nagging knee injury, and the team already expects him to be sidelined for at least a game or two while he recovers from this one. This is an alarming situation that fantasy managers should keep close tabs on, as this injury could linger if there are any setbacks in his recovery. Michael Mayer will step in as the team's top tight end in his absence, with Tre Tucker and Jalen Nailor both also likely to see an increase in opportunities in the star tight end's absence.
-  - Source: https://www.fantasypros.com/nfl/news/606745/brock-bowers-knee-to-miss-a-game-or-two.php
-- **Brock Bowers** — Brock Bowers - Undergoes meniscus trim, out 1-to-2 games (2026-09-09T20:04:45Z)
-  - This is huge news just before the season gets underway, as one of the top tight ends in the league is now expected to miss regular-season time. Per Schefter, Bowers suffered a minor knee injury in camp that was diagnosed last week. He underwent a meniscus trim rather than a repair, which will speed up his time to return to the field. Michael Mayer projects to see a usage boost for however long Bowers is sidelined.
