@@ -1,9 +1,12 @@
 {
-  "last_checked_at": "2026-09-10T13:24:16Z",
+  "last_checked_at": "2026-09-10T13:39:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11586|rotoballer|220498|1789031530000"
+    "nfl|12487|rotoballer|220503|1789032605000",
+    "nfl|2133|rotoballer|220502|1789032245000",
+    "nfl|8121|rotoballer|220501|1789031844000",
+    "nfl|9493|rotoballer|220500|1789031945000"
   ],
   "schema_version": 1,
   "source": {
@@ -33,6 +36,86 @@
       "story_id": "nfl|4217|fantasy_pros|606900|1789040703411",
       "title": "George Kittle off injury report, active for Thursday",
       "url": "https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams tight end Terrance Ferguson is trending up in fantasy football. As he continues to work his way toward the No. 1 spot on the depth chart, Ferguson has emerged as the Rams tight end to roster in redraft leagues. However, that doesn't mean he's a no-brainer fantasy option for Week 1 against the San Francisco 49ers. Ferguson finished his rookie season on a high note with five catches and two touchdowns across two games, but other than that, we haven't seen him maintain a consistent fantasy-relevant role. It's fair to say that he could remain dependent on touchdowns, and he's certainly not a lock to find the end zone within an offense that also includes Puka Nacua and Davante Adams. The good news for Ferguson is that he gets a softer matchup, as the Niners allowed the eighth-most fantasy points and sixth-most touchdowns to tight ends last year. Still, until Ferguson proves that he can handle a large workload every week, he's a riskier fantasy option. He ranks as the TE20 in RotoBaller's Week 1 fantasy football rankings.",
+      "metadata": {
+        "description": "Los Angeles Rams tight end Terrance Ferguson is trending up in fantasy football. As he continues to work his way toward the No. 1 spot on the depth chart, Ferguson has emerged as the Rams tight end to roster in redraft leagues. However, that doesn't mean he's a no-brainer fantasy option for Week 1 against the San Francisco 49ers. Ferguson finished his rookie season on a high note with five catches and two touchdowns across two games, but other than that, we haven't seen him maintain a consistent fantasy-relevant role. It's fair to say that he could remain dependent on touchdowns, and he's certainly not a lock to find the end zone within an offense that also includes Puka Nacua and Davante Adams. The good news for Ferguson is that he gets a softer matchup, as the Niners allowed the eighth-most fantasy points and sixth-most touchdowns to tight ends last year. Still, until Ferguson proves that he can handle a large workload every week, he's a riskier fantasy option. He ranks as the TE20 in RotoBaller's Week 1 fantasy football rankings.",
+        "title": "Terrance Ferguson Still a Riskier Play Despite Favorable Matchup",
+        "topic_id": "1403769764731478016",
+        "url": "https://www.rotoballer.com/player-news/terrance-ferguson-still-a-riskier-play-despite-favorable-matchup/1927386"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12487",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "published": 1789032605000,
+      "source": "rotoballer",
+      "source_key": "220503",
+      "story_id": "nfl|12487|rotoballer|220503|1789032605000",
+      "title": "Terrance Ferguson Still a Riskier Play Despite Favorable Matchup",
+      "url": "https://www.rotoballer.com/player-news/terrance-ferguson-still-a-riskier-play-despite-favorable-matchup/1927386"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Davante Adams has WR1 upside if he's able to find the end zone during Thursday's Week 1 contest against the San Francisco 49ers. If he's unable to score a touchdown, he'll still be worth starting, but he'll likely end up closer to the low-end WR2 range. Touchdowns were a key theme for Adams last year, as he caught a modest (by his standards) 60 passes for 789 yards but still managed to cross the goal line 14 times, tying his highest total since 2020. The 49ers' pass defense looks similar to last year, when they allowed the 14th-most fantasy points to wide receivers. They also ranked near the league median in terms of limiting scoring; they allowed the 15th-fewest touchdowns to wide receivers. Adams found success in this divisional matchup last year, totaling 11 catches, 145 yards, and one touchdown across two games against the Niners.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Davante Adams has WR1 upside if he's able to find the end zone during Thursday's Week 1 contest against the San Francisco 49ers. If he's unable to score a touchdown, he'll still be worth starting, but he'll likely end up closer to the low-end WR2 range. Touchdowns were a key theme for Adams last year, as he caught a modest (by his standards) 60 passes for 789 yards but still managed to cross the goal line 14 times, tying his highest total since 2020. The 49ers' pass defense looks similar to last year, when they allowed the 14th-most fantasy points to wide receivers. They also ranked near the league median in terms of limiting scoring; they allowed the 15th-fewest touchdowns to wide receivers. Adams found success in this divisional matchup last year, totaling 11 catches, 145 yards, and one touchdown across two games against the Niners.",
+        "title": "Davante Adams a Touchdown-Dependent WR1 for Season Opener in Australia",
+        "topic_id": "1403768507568513024",
+        "url": "https://www.rotoballer.com/player-news/davante-adams-a-touchdown-dependent-wr1-for-season-opener-in-australia/1927373"
+      },
+      "nfl_team": "LAR",
+      "player_id": "2133",
+      "player_name": "Davante Adams",
+      "position": "WR",
+      "published": 1789032245000,
+      "source": "rotoballer",
+      "source_key": "220502",
+      "story_id": "nfl|2133|rotoballer|220502|1789032245000",
+      "title": "Davante Adams a Touchdown-Dependent WR1 for Season Opener in Australia",
+      "url": "https://www.rotoballer.com/player-news/davante-adams-a-touchdown-dependent-wr1-for-season-opener-in-australia/1927373"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Puka Nacua finished as the overall WR1 in PPR leagues last season, and he'll look to replicate his elite campaign in 2026. He kicks off his season on Thursday in Australia against the San Francisco 49ers. We're expecting this 49ers pass defense to look somewhat similar to last year, which means Nacua should have no trouble finishing as a high-end WR1 this week. After all, the 2025 49ers allowed the 14th-most fantasy points, ninth-most catches, and 11th-most receiving yards to wide receivers. Nacua totaled 15 catches, 149 yards, and two touchdowns across his two games against the Niners last year. Potential discipline could await Nacua later in the season as the league continues to investigate his off-field conduct, but for now, he's a full-go in Week 1. He ranks as a high-end WR1 with a high ceiling and high floor.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Puka Nacua finished as the overall WR1 in PPR leagues last season, and he'll look to replicate his elite campaign in 2026. He kicks off his season on Thursday in Australia against the San Francisco 49ers. We're expecting this 49ers pass defense to look somewhat similar to last year, which means Nacua should have no trouble finishing as a high-end WR1 this week. After all, the 2025 49ers allowed the 14th-most fantasy points, ninth-most catches, and 11th-most receiving yards to wide receivers. Nacua totaled 15 catches, 149 yards, and two touchdowns across his two games against the Niners last year. Potential discipline could await Nacua later in the season as the league continues to investigate his off-field conduct, but for now, he's a full-go in Week 1. He ranks as a high-end WR1 with a high ceiling and high floor.",
+        "title": "Puka Nacua's Quest to Defend WR1 Title Begins Thursday in Australia",
+        "topic_id": "1403767248203616256",
+        "url": "https://www.rotoballer.com/player-news/puka-nacuas-quest-to-defend-wr1-title-begins-thursday-in-australia/1927367"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1789031945000,
+      "source": "rotoballer",
+      "source_key": "220500",
+      "story_id": "nfl|9493|rotoballer|220500|1789031945000",
+      "title": "Puka Nacua's Quest to Defend WR1 Title Begins Thursday in Australia",
+      "url": "https://www.rotoballer.com/player-news/puka-nacuas-quest-to-defend-wr1-title-begins-thursday-in-australia/1927367"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver Romeo Doubs could have a great opportunity to bounce back from his disappointing Week 1 after an injury to A.J. Brown (ankle) could leave him more targets moving forward. Doubs didn't have a catch in his Patriots debut and had an ugly drop on what could have been a big gain. With Brown's departure from the game with an ankle injury that required a walking boot when he left the locker room, though, Doubs could be set for more work in the coming weeks as the team's most proven receiver. The veteran came over from the Packers as a free agent this offseason and had a strong training camp before his disappointing opener. He will have 10 days before Week 2's game against the Steelers to continue to build his rapport with Drake Maye. As both players try to erase the memory of Week 1, Doubs has the potential to step up as the team's top receiver for as long as Brown is out, making him a strong pickup from the waiver wire in almost all formats, depending on who else emerges this week.",
+      "metadata": {
+        "description": "New England Patriots wide receiver Romeo Doubs could have a great opportunity to bounce back from his disappointing Week 1 after an injury to A.J. Brown (ankle) could leave him more targets moving forward. Doubs didn't have a catch in his Patriots debut and had an ugly drop on what could have been a big gain. With Brown's departure from the game with an ankle injury that required a walking boot when he left the locker room, though, Doubs could be set for more work in the coming weeks as the team's most proven receiver. The veteran came over from the Packers as a free agent this offseason and had a strong training camp before his disappointing opener. He will have 10 days before Week 2's game against the Steelers to continue to build his rapport with Drake Maye. As both players try to erase the memory of Week 1, Doubs has the potential to step up as the team's top receiver for as long as Brown is out, making him a strong pickup from the waiver wire in almost all formats, depending on who else emerges this week.",
+        "title": "Romeo Doubs Has Path to High Target Share Following Injury",
+        "topic_id": "1403767248199421952",
+        "url": "https://www.rotoballer.com/player-news/romeo-doubs-has-path-to-high-target-share-following-injury/1927365"
+      },
+      "nfl_team": "NE",
+      "player_id": "8121",
+      "player_name": "Romeo Doubs",
+      "position": "WR",
+      "published": 1789031844000,
+      "source": "rotoballer",
+      "source_key": "220501",
+      "story_id": "nfl|8121|rotoballer|220501|1789031844000",
+      "title": "Romeo Doubs Has Path to High Target Share Following Injury",
+      "url": "https://www.rotoballer.com/player-news/romeo-doubs-has-path-to-high-target-share-following-injury/1927365"
     },
     {
       "analysis": null,

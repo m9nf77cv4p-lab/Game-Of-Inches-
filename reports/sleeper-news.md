@@ -2,15 +2,23 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2453**
-- Newly captured: **1**
+- Stored stories: **2457**
+- Newly captured: **4**
 
 ## Latest news
 
 - **George Kittle** — George Kittle off injury report, active for Thursday (2026-09-10T11:45:03.411000Z)
   - Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.
   - Source: https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php
-- **NEW — Blake Corum** — Blake Corum Has Standalone Value Despite Tough Matchup (2026-09-10T09:12:10Z)
+- **NEW — Terrance Ferguson** — Terrance Ferguson Still a Riskier Play Despite Favorable Matchup (2026-09-10T09:30:05Z)
+  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-still-a-riskier-play-despite-favorable-matchup/1927386
+- **NEW — Davante Adams** — Davante Adams a Touchdown-Dependent WR1 for Season Opener in Australia (2026-09-10T09:24:05Z)
+  - Source: https://www.rotoballer.com/player-news/davante-adams-a-touchdown-dependent-wr1-for-season-opener-in-australia/1927373
+- **NEW — Puka Nacua** — Puka Nacua's Quest to Defend WR1 Title Begins Thursday in Australia (2026-09-10T09:19:05Z)
+  - Source: https://www.rotoballer.com/player-news/puka-nacuas-quest-to-defend-wr1-title-begins-thursday-in-australia/1927367
+- **NEW — Romeo Doubs** — Romeo Doubs Has Path to High Target Share Following Injury (2026-09-10T09:17:24Z)
+  - Source: https://www.rotoballer.com/player-news/romeo-doubs-has-path-to-high-target-share-following-injury/1927365
+- **Blake Corum** — Blake Corum Has Standalone Value Despite Tough Matchup (2026-09-10T09:12:10Z)
   - Source: https://www.rotoballer.com/player-news/blake-corum-has-standalone-value-despite-tough-matchup/1927356
 - **A.J. Brown** — A.J. Brown Seen Wearing Walking Boot on Right Foot (2026-09-10T08:12:06Z)
   - Source: https://www.rotoballer.com/player-news/a-j-brown-seen-wearing-walking-boot-on-right-foot/1927333
@@ -230,11 +238,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Johnson is coming off a 2025 regular season in which he posted a 45-528-5 line on 74 targets in 15 games, but the arrival of TE Isaiah Likely via free agency has provided the former with some competition at the position ahead of his third pro campaign. With the shoulder injury he picked up in an Aug. 24 practice behind Johnson, he'll focus on being a regular part of the Giants offense in Sunday's Week 1 matchup with the Cowboys.
 - **Alvin Kamara** — Alvin Kamara - Returns to practice Wednesday (2026-09-09T20:54:19Z)
   - With Kamara back on the field after being sidelined by a sprained MCL for most of the summer, he has a chance to play Sunday against the Lions. Travis Etienne is expected to operate as the Saints' lead back this season, but the veteran Kamara still figures to have a prominent role on offense. If Kamara is unable to face Detroit, Etienne gets a big boost to his fantasy floor, making him a borderline RB1 in a potential shootout.
-- **Ja'Marr Chase** — Ja'Marr Chase - Full participant Wednesday (2026-09-09T20:52:15Z)
-  - It's looking promising for Chase's status going into the season-opener after his full practice Wednesday. He had a knee injury scare in August but has been present for practices since the beginning of the week. At this stage, Chase should be good to go for the season-opener against the Buccaneers.
-- **Emeka Egbuka** — Emeka Egbuka - Practices fully Wednesday (2026-09-09T20:51:08Z)
-  - Egbuka is ready to go for Sunday's Week 1 opener against the Bengals, and in a game with the highest projected points total on the slate, Egbuka is looking like a fantasy WR2 with obvious upside. He's expected to take over as the Bucs' top wideout this season after Mike Evans left for San Francisco in free agency.
-- **Alec Pierce** — Alec Pierce - Limited in practice by heel injury (2026-09-09T20:48:22Z)
-  - Pierce will have two more opportunities to upgrade to full practice participation heading into Sunday's season opener versus the Ravens. Per Mike Chappell of Fox 59 News Indianapolis, Pierce is expected to be ready to go for Sunday, though the wideout could be on something of a pitch count in the first few weeks of the season after kept him from practicing until late August. The 26-year-old served mainly as a deep-ball specialist over his first four seasons in the NFL but could become more of a higher-volume target earner in 2026 after re-signing with Indianapolis on a four-year, $114 million deal in March.
-- **Tyrone Tracy** — Tyrone Tracy - No listing on Week 1 injury report (2026-09-09T20:47:22Z)
-  - Tracy sustained an apparent neck injury during New York's exhibition finale, but after landing a spot on the team's initial active roster and having nearly two weeks to recover, he's in good health ahead of a Week 1 matchup with the Cowboys. With Cam Skattebo leading the Giants backfield and Najee Harris and Devin Singletary also on hand for reps, it remains to be seen what kind of workload Tracy can expect in the regular-season opener.
