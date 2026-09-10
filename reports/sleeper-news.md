@@ -2,16 +2,25 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2570**
+- Stored stories: **2573**
 - Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Patrick Mahomes** — Patrick Mahomes II (knee) practices in full Thursday (2026-09-10T21:05:29.581000Z)
+- **NEW — Rashee Rice** — Rashee Rice (knee) logs full practice Thursday (2026-09-10T21:15:29.632000Z)
+  - As expected, Rice was able to log a full practice session on Thursday and seems to be set to play in Monday night's game against the Denver Broncos. Despite the tough matchup, he projects to be a good fantasy option in PPR leagues this week, especially with Patrick Mahomes II (knee) likely to be at the helm for Kansas City.
+  - Source: https://www.fantasypros.com/nfl/news/607005/rashee-rice-knee-logs-full-practice-thursday.php
+- **NEW — Kenneth Walker** — Kenneth Walker III (foot) off injury report for Monday (2026-09-10T21:15:29.620000Z)
+  - Walker was previously dealing with a foot injury of some kind, but he is over it now and is no longer listed on the team's injury report ahead of their Week 1 matchup against the Broncos. Fantasy managers should expect him to be highly involved on Monday night, although the tough matchup may hurt his ceiling from a fantasy perspective.
+  - Source: https://www.fantasypros.com/nfl/news/607011/kenneth-walker-iii-foot-off-injury-report-monday.php
+- **NEW — Xavier Worthy** — Xavier Worthy (shoulder) listed as full participant Thursday (2026-09-10T21:15:29.608000Z)
+  - To no surprise, Worthy seems to be over his shoulder injury and was able to practice in full on Thursday. He should be a full go for Week 1 but doesn't project to be a strong fantasy option in a matchup against the Broncos.
+  - Source: https://www.fantasypros.com/nfl/news/607012/xavier-worthy-shoulder-listed-full-participant-thursday.php
+- **Patrick Mahomes** — Patrick Mahomes II (knee) practices in full Thursday (2026-09-10T21:05:29.581000Z)
   - Mahomes was able to take part in Kansas City's first practice of the week on Thursday and wasn't limited in any way. It seems like the team is planning on him starting on Monday night, barring any unforeseen setbacks. His presence would be great news for the fantasy value of players like Rashee Rice and Travis Kelce in a matchup against a tough Denver defense.
   - Source: https://www.fantasypros.com/nfl/news/607002/patrick-mahomes-ii-knee-practices-full-thursday.php
-- **NEW — Patrick Mahomes** — Patrick Mahomes - Practices fully, looks ready for opener (2026-09-10T20:57:11Z)
-  - Mahomes' ability to take every rep Thursday clears the way for him to play in Monday's season opener versus the Broncos.
+- **Patrick Mahomes** — Patrick Mahomes - Practices fully, looks ready for opener (2026-09-10T20:57:11Z)
+  - Per Charles Goldman of AtoZSports.com, head coach Andy Reid relayed prior to the Chiefs' first official practice of Week 1 that Mahomes was "geared up and ready to go" for the season opener Monday versus the Broncos. The quarterback backed up his coach's optimism by taking every rep with the first-team offense Thursday, setting the stage for him to play in his first game since his 2025 season came to an end Dec. 14, when he sustained a torn ACL and LCL in his left knee. Mahomes made tremendous strides in his rehab from surgery and was cleared for full practices prior to training camp, and though he didn't play in any preseason games, he steered clear of any setbacks with his knee. According to Matt Derrick of ChiefsDigest.com, Mahomes said that he'll continue to wear a protective brace on his knee, and while the Chiefs aren't expected to alter their game plans as a result, the 30-year-old could naturally scale back his involvement as a runner coming off major surgery.
 - **Jeremiyah Love** — Jeremiyah Love - Warming up before practice (2026-09-10T20:48:45Z)
   - Love is set to practice in some capacity Thursday after being listed as a limited participant Wednesday. The rookie third overall pick is working his way back from a high-ankle sprain sustained exactly one month before Sunday's regular-season opener against the Chargers. Once cleared for game action, Love is expected to operate in a split backfield with Tyler Allgeier.
 - **Zay Flowers** — Zay Flowers - Upgrades to full Thursday (2026-09-10T20:41:31Z)
@@ -114,7 +123,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Allen worked with the starters for most of the preseason while Hall was sidelined by a groin injury. Hall practiced without limitations Wednesday, as did Isaiah Davis (knee), who is listed third on the team's unofficial depth chart. Allen is listed at 235 pounds and has reportedly bulked up to around 250. The 2024 fourth-round pick's large frame could help Allen command valuable goal-line and short-yardage work even while Hall is healthy.
 - **Ted Hurst** — Ted Hurst - Talked up by OC (2026-09-10T17:41:46Z)
   - Hurst is likely to begin his career in a depth role, though the rookie third-round pick out of Georgia State could see some involvement on offense out of the gate, especially if Jalen McMillan (knee) isn't cleared to face the Bengals in Week 1. McMillan practiced on a limited basis Wednesday, while Emeka Egbuka practiced fully after dealing with a recent toe injury. Egbuka and Chris Godwin figure to get most of the targets among Tampa Bay's wide receivers, though the 6-foot-3 Hurst showed the ability to stretch the field in college and may not need heavy volume to make an impact.
-- **NEW — Cam Ward** — Cam Ward a Year 2 Breakout Candidate Entering 2026? (2026-09-10T16:57:06Z)
+- **Cam Ward** — Cam Ward a Year 2 Breakout Candidate Entering 2026? (2026-09-10T16:57:06Z)
   - Source: https://www.rotoballer.com/player-news/cam-ward-a-year-two-breakout-candidate-entering-2026/1927878
 - **Ashton Jeanty** — Ashton Jeanty Feels "Really Good" Ahead of Week 1 (2026-09-10T16:50:16Z)
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-feels-really-good-ahead-of-week-1/1927876
@@ -238,9 +247,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-healthy-projected-as-top-3-rb-option-for-week-1/1927636
 - **Jadarian Price** — Jadarian Price Quiet but Efficient in Week 1 (2026-09-10T13:07:05Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-quiet-but-efficient-in-week-1/1927631
-- **Breece Hall** — Breece Hall Not Expected to be on a Pitch Count (2026-09-10T12:54:05Z)
-  - Source: https://www.rotoballer.com/player-news/breece-hall-not-expected-to-be-on-a-pitch-count/1927619
-- **Brock Purdy** — Brock Purdy Still a QB2 Against Rams' Improved Defense (2026-09-10T12:50:06Z)
-  - Source: https://www.rotoballer.com/player-news/brock-purdy-surrounded-by-options-still-qb2-against-rams-improved-defense/1927612
-- **Jakobi Meyers** — Jakobi Meyers in Non-Contact Jersey Again on Thursday (2026-09-10T12:45:05Z)
-  - Source: https://www.rotoballer.com/player-news/jakobi-meyers-in-non-contact-jersey-again-on-thursday/1927606

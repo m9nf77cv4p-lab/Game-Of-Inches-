@@ -21891,7 +21891,7 @@
       ],
       "first_name": "Patrick",
       "full_name": "Patrick Mahomes",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Mahomes",
       "nfl_team": "KC",
       "player_id": "4046",
@@ -23917,8 +23917,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-10T20:19:16Z",
-    "source_fingerprint": "3d9f9a0f74c4dfc93722686cb8bf7b5e070bc95d14a16c5e0805492ca1eefd52"
+    "last_changed_at": "2026-09-10T21:23:33Z",
+    "source_fingerprint": "f59fa6b36a15d7e34888fa4107e4ad6862f6d45ce7425a83da26b9bf0c5a0810"
   },
   "teams": [
     {

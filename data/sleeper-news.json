@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-09-10T21:10:05Z",
+  "last_checked_at": "2026-09-10T21:23:35Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|12522|rotoballer|220572|1789059426000",
-    "nfl|4046|fantasy_pros|607002|1789074329581",
-    "nfl|4046|rotowire|636711|1789073831000"
+    "nfl|10229|fantasy_pros|607005|1789074929632",
+    "nfl|11624|fantasy_pros|607012|1789074929608",
+    "nfl|8151|fantasy_pros|607011|1789074929620"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +15,69 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "As expected, Rice was able to log a full practice session on Thursday and seems to be set to play in Monday night's game against the Denver Broncos. Despite the tough matchup, he projects to be a good fantasy option in PPR leagues this week, especially with Patrick Mahomes II (knee) likely to be at the helm for Kansas City.",
+      "description": "Rashee Rice (knee) logged a full practice session on Thursday.",
+      "metadata": {
+        "analysis": "As expected, Rice was able to log a full practice session on Thursday and seems to be set to play in Monday night's game against the Denver Broncos. Despite the tough matchup, he projects to be a good fantasy option in PPR leagues this week, especially with Patrick Mahomes II (knee) likely to be at the helm for Kansas City.",
+        "description": "Rashee Rice (knee) logged a full practice session on Thursday.",
+        "title": "Rashee Rice (knee) logs full practice Thursday",
+        "topic_id": "1403885643427274752",
+        "url": "https://www.fantasypros.com/nfl/news/607005/rashee-rice-knee-logs-full-practice-thursday.php"
+      },
+      "nfl_team": "KC",
+      "player_id": "10229",
+      "player_name": "Rashee Rice",
+      "position": "WR",
+      "published": 1789074929632,
+      "source": "fantasy_pros",
+      "source_key": "607005",
+      "story_id": "nfl|10229|fantasy_pros|607005|1789074929632",
+      "title": "Rashee Rice (knee) logs full practice Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/607005/rashee-rice-knee-logs-full-practice-thursday.php"
+    },
+    {
+      "analysis": "Walker was previously dealing with a foot injury of some kind, but he is over it now and is no longer listed on the team's injury report ahead of their Week 1 matchup against the Broncos. Fantasy managers should expect him to be highly involved on Monday night, although the tough matchup may hurt his ceiling from a fantasy perspective.",
+      "description": "Kenneth Walker III (foot) is off of the injury report ahead of Monday night's game against the Denver Broncos.",
+      "metadata": {
+        "analysis": "Walker was previously dealing with a foot injury of some kind, but he is over it now and is no longer listed on the team's injury report ahead of their Week 1 matchup against the Broncos. Fantasy managers should expect him to be highly involved on Monday night, although the tough matchup may hurt his ceiling from a fantasy perspective.",
+        "description": "Kenneth Walker III (foot) is off of the injury report ahead of Monday night's game against the Denver Broncos.",
+        "title": "Kenneth Walker III (foot) off injury report for Monday",
+        "topic_id": "1403885643376943104",
+        "url": "https://www.fantasypros.com/nfl/news/607011/kenneth-walker-iii-foot-off-injury-report-monday.php"
+      },
+      "nfl_team": "KC",
+      "player_id": "8151",
+      "player_name": "Kenneth Walker",
+      "position": "RB",
+      "published": 1789074929620,
+      "source": "fantasy_pros",
+      "source_key": "607011",
+      "story_id": "nfl|8151|fantasy_pros|607011|1789074929620",
+      "title": "Kenneth Walker III (foot) off injury report for Monday",
+      "url": "https://www.fantasypros.com/nfl/news/607011/kenneth-walker-iii-foot-off-injury-report-monday.php"
+    },
+    {
+      "analysis": "To no surprise, Worthy seems to be over his shoulder injury and was able to practice in full on Thursday. He should be a full go for Week 1 but doesn't project to be a strong fantasy option in a matchup against the Broncos.",
+      "description": "Xavier Worthy (shoulder) was listed as a full participant at practice on Thursday.",
+      "metadata": {
+        "analysis": "To no surprise, Worthy seems to be over his shoulder injury and was able to practice in full on Thursday. He should be a full go for Week 1 but doesn't project to be a strong fantasy option in a matchup against the Broncos.",
+        "description": "Xavier Worthy (shoulder) was listed as a full participant at practice on Thursday.",
+        "title": "Xavier Worthy (shoulder) listed as full participant Thursday",
+        "topic_id": "1403885643322417152",
+        "url": "https://www.fantasypros.com/nfl/news/607012/xavier-worthy-shoulder-listed-full-participant-thursday.php"
+      },
+      "nfl_team": "KC",
+      "player_id": "11624",
+      "player_name": "Xavier Worthy",
+      "position": "WR",
+      "published": 1789074929608,
+      "source": "fantasy_pros",
+      "source_key": "607012",
+      "story_id": "nfl|11624|fantasy_pros|607012|1789074929608",
+      "title": "Xavier Worthy (shoulder) listed as full participant Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/607012/xavier-worthy-shoulder-listed-full-participant-thursday.php"
+    },
     {
       "analysis": "Mahomes was able to take part in Kansas City's first practice of the week on Thursday and wasn't limited in any way. It seems like the team is planning on him starting on Monday night, barring any unforeseen setbacks. His presence would be great news for the fantasy value of players like Rashee Rice and Travis Kelce in a matchup against a tough Denver defense.",
       "description": "Patrick Mahomes II (knee) practiced in a full capacity on Thursday.",
@@ -37,10 +100,10 @@
       "url": "https://www.fantasypros.com/nfl/news/607002/patrick-mahomes-ii-knee-practices-full-thursday.php"
     },
     {
-      "analysis": "Mahomes' ability to take every rep Thursday clears the way for him to play in Monday's season opener versus the Broncos.",
+      "analysis": "Per Charles Goldman of AtoZSports.com, head coach Andy Reid relayed prior to the Chiefs' first official practice of Week 1 that Mahomes was \"geared up and ready to go\" for the season opener Monday versus the Broncos. The quarterback backed up his coach's optimism by taking every rep with the first-team offense Thursday, setting the stage for him to play in his first game since his 2025 season came to an end Dec. 14, when he sustained a torn ACL and LCL in his left knee. Mahomes made tremendous strides in his rehab from surgery and was cleared for full practices prior to training camp, and though he didn't play in any preseason games, he steered clear of any setbacks with his knee. According to Matt Derrick of ChiefsDigest.com, Mahomes said that he'll continue to wear a protective brace on his knee, and while the Chiefs aren't expected to alter their game plans as a result, the 30-year-old could naturally scale back his involvement as a runner coming off major surgery.",
       "description": "Mahomes (knee) opened Week 1 prep as a full practice participant Thursday.",
       "metadata": {
-        "analysis": "Mahomes' ability to take every rep Thursday clears the way for him to play in Monday's season opener versus the Broncos.",
+        "analysis": "Per Charles Goldman of AtoZSports.com, head coach Andy Reid relayed prior to the Chiefs' first official practice of Week 1 that Mahomes was \"geared up and ready to go\" for the season opener Monday versus the Broncos. The quarterback backed up his coach's optimism by taking every rep with the first-team offense Thursday, setting the stage for him to play in his first game since his 2025 season came to an end Dec. 14, when he sustained a torn ACL and LCL in his left knee. Mahomes made tremendous strides in his rehab from surgery and was cleared for full practices prior to training camp, and though he didn't play in any preseason games, he steered clear of any setbacks with his knee. According to Matt Derrick of ChiefsDigest.com, Mahomes said that he'll continue to wear a protective brace on his knee, and while the Chiefs aren't expected to alter their game plans as a result, the 30-year-old could naturally scale back his involvement as a runner coming off major surgery.",
         "description": "Mahomes (knee) opened Week 1 prep as a full practice participant Thursday.",
         "title": "Patrick Mahomes - Practices fully, looks ready for opener",
         "topic_id": "1403881861498834944"
