@@ -2,16 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2445**
-- Newly captured: **6**
+- Stored stories: **2448**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Romeo Doubs** — Romeo Doubs - Forgettable team debut in loss (2026-09-10T04:40:02Z)
+- **NEW — Hunter Henry** — Hunter Henry - Three catches in Week 1 loss (2026-09-10T04:48:00Z)
+  - The trusted tight end figures to remain an important component of the Patriots' air attack this season, but Henry had a quiet start to the campaign. The 31-year-old did tie for third in receptions and receiving yards on the night for the Patriots, and Henry will look to help Drake Maye atone for a three-interception night in a Week 2 home matchup against the Steelers on Sunday, Sept. 20.
+- **NEW — George Holani** — George Holani - Sees larger role than expected (2026-09-10T04:44:02Z)
+  - The change-of-pace back ironically logged just two fewer carries than lead runner Jadarian Price, while also being a complete non-factor as a pass catcher. Holani ran reasonably well against a tough Patriots front, and his carry total served as the second-highest tally of his career. Holani should continue to see 8-to-10 touches per game as Price's back while Zach Charbonnet (knee) remains on the PUP list.
+- **Romeo Doubs** — Romeo Doubs - Forgettable team debut in loss (2026-09-10T04:40:02Z)
   - The veteran offseason addition had a highly inauspicious debut, despite the fact he'd frequently impressed this summer and the Patriots lost A.J. Brown to an ankle injury on the first possession of the second half. Doubs was also the intended receiver on Drake Maye's first interception of the night, getting outleapt for a long pass by Nehemiah Pritchett early in the fourth quarter. Andrew Callahan of the Boston Herald reports Brown was seen exiting the Patriots' locker room with a walking boot following Wednesday's game, so Doubs could be pressed into an elevated role for the Week 2 home opener against the Steelers on Sunday, Sept. 20 despite his poor showing.
-- **NEW — George Kittle** — George Kittle - In clear to play Week 1 (2026-09-10T04:33:42Z)
+- **George Kittle** — George Kittle - In clear to play Week 1 (2026-09-10T04:33:42Z)
   - The game technically will be taking place Friday local time in Melbourne, Australia, but Kittle has made quick work in his recovery from the torn right Achilles that he suffered in San Francisco's wild-card win at Philadelphia on Jan. 11. Kittle was listed as limited on the team's first two practice reports of Week 1 prep, so it stands to reason he may operate with a cap on his snaps. Still, he's in line to be out there for the 49ers' regular-season opener.
-- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson - Heavy volume in Week 1 loss (2026-09-10T04:32:52Z)
+- **Rhamondre Stevenson** — Rhamondre Stevenson - Heavy volume in Week 1 loss (2026-09-10T04:32:52Z)
   - As expected with TreVeyon Henderson (ankle) unavailable, Stevenson shouldered a heavy workload and found running room at a premium save for his game-long 12-yard run late in the fourth quarter. However, the versatile veteran made an impact as a receiver, finishing with a team-high reception total while checking in as the runner-up in both receiving yards and targets for the Patriots on the night. Stevenson's involvement as a pass catcher unsurprisingly picked up after A.J. Brown went down with an ankle injury on the first possession of the second half, and the veteran running back could remain in an elevated all-around role during the Week 2 home opener against the Steelers on Sunday, Sept. 20.
 - **Jadarian Price** — Jadarian Price - Efficient in Week 1 win (2026-09-10T04:10:57Z)
   - The rookie running back touched the ball on Seattle's first play from scrimmage and immediately made an impact, ripping off a decisive 13-yard run. While that would serve as Price's longest gain of the night, the first-round pick continued to run hard throughout the night while flashing a hard-charging style. Price's rushing opportunities were somewhat capped as George Holani also logged eight carries, but the former could be trusted with a bigger role in a Week 2 road matchup against the Cardinals on Sunday, Sept. 20.
@@ -45,13 +49,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Sam Darnold** — Sam Darnold (hip) questionable to return  (2026-09-10T00:55:49.137000Z)
   - Darnold suffered the apparent injury on the third down sack on their first offensive drive. Drew Lock is currently in at quarterback for the Seahawks. Fantasy managers should expect the team to update Darnold's status after halftime. 
   - Source: https://www.fantasypros.com/nfl/news/606840/sam-darnold-hip-questionable-to-return.php
+- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba Scores the Decisive Touchdown in Week 1 Win (2026-09-10T00:49:20Z)
+  - Source: https://www.rotoballer.com/player-news/jaxon-smith-njigba-scores-the-decisive-touchdown-in-week-1-win/1927265
 - **Sam Darnold** — Sam Darnold - Questionable to return (2026-09-10T00:47:29Z)
   - Darnold suffered a hip injury on the Seahawks' opening possession, and he is now considered questionable to return to the contest, per Adam Schefter of ESPN. Drew Lock has entered the contest at quarterback for Seattle.
-- **NEW — Eli Stowers** — Eli Stowers Limited in Practice on Wednesday (2026-09-10T00:42:08Z)
+- **Eli Stowers** — Eli Stowers Limited in Practice on Wednesday (2026-09-10T00:42:08Z)
   - Source: https://www.rotoballer.com/player-news/eli-stowers-limited-in-practice-on-wednesday/1927263
-- **NEW — Keaton Mitchell** — Keaton Mitchell Limited with a Hamstring Injury on Wednesday (2026-09-10T00:34:06Z)
+- **Keaton Mitchell** — Keaton Mitchell Limited with a Hamstring Injury on Wednesday (2026-09-10T00:34:06Z)
   - Source: https://www.rotoballer.com/player-news/keaton-mitchell-limited-with-a-hamstring-injury-on-wednesday/1927261
-- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt Limited with a Groin Issue (2026-09-10T00:26:10Z)
+- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Limited with a Groin Issue (2026-09-10T00:26:10Z)
   - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-limited-with-a-groin-issue/1927258
 - **Jeremiyah Love** — Jeremiyah Love - Limited at Wednesday's practice (2026-09-10T00:23:22Z)
   - Love's status for Week 1 has been murky since he emerged from the Cardinals' preseason opener with a high-ankle sprain, which coach Mike LaFleur downplayed for most of the past month. When LaFleur discussed Love ahead of Wednesday's session, he told PHNX Sports "don't look too far into that" when discussing the rookie's listing as the No. 2 RB on the team's unofficial depth chart, while at the same time telling Brack that "there's no limit on our end" to Love's activity level. Considering Love's listing of "limited" Wednesday, he still has some work to do to be available for Sunday's game at the Chargers. Tyler Allgeier would serve as Arizona's lead back Week 1 if Love is operating with a cap on his reps or not suited up, while Bam Knight would be in line for some work as well.
@@ -233,11 +239,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Breece Hall** — Breece Hall (groin) logs full practice Wednesday (2026-09-09T20:30:47.560000Z)
   - As expected, Hall is pretty well over his groin injury at this point and was able to practice in a full capacity on Wednesday. He should be healthy for the foreseeable future and projects to be a high-quality fantasy asset for as long as he can remain on the field.
   - Source: https://www.fantasypros.com/nfl/news/606753/breece-hall-groin-logs-full-practice-wednesday.php
-- **Isaiah Davis** — Isaiah Davis (knee) full participant Wednesday (2026-09-09T20:30:47.547000Z)
-  - Davis was a full participant for the Jets on Wednesday. He's still listed on the injury report due to a knee injury, but it shouldn't affect his availability for Week 1. He will continue to play a depth role in this backfield behind Breece Hall moving forward.
-  - Source: https://www.fantasypros.com/nfl/news/606755/isaiah-davis-knee-full-participant-wednesday.php
-- **Kenyon Sadiq** — Kenyon Sadiq (groin) practices in full Wednesday (2026-09-09T20:30:47.524000Z)
-  - The first-round rookie missed part of the offseason while recovering from a hernia, but he is back now and was able to put up a full practice session on Wednesday. He should be good to go for Week 1 but is unlikely to be a high-impact fantasy player at the start of the season.
-  - Source: https://www.fantasypros.com/nfl/news/606758/kenyon-sadiq-groin-practices-full-wednesday.php
-- **Rome Odunze** — Rome Odunze - Listed as limited participant Wednesday (2026-09-09T20:29:26Z)
-  - After sitting out Monday and being labeled day-to-day by coach Ben Johnson on Tuesday, Odunze is limited in the first official practice of the week. His status for Sunday's season opener against Carolina still appears unsettled. If Odunze is unable to go, Luther Burden and Colston Loveland should dominate most of the targets from Caleb Williams, while Kalif Raymond and Zavion Thomas see more action on offense.

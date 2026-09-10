@@ -1,14 +1,11 @@
 {
-  "last_checked_at": "2026-09-10T04:47:40Z",
+  "last_checked_at": "2026-09-10T04:58:46Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|12533|rotoballer|220487|1788999970000",
-    "nfl|13349|rotoballer|220489|1789000928000",
-    "nfl|4217|rotowire|636665|1789014822000",
-    "nfl|7611|rotowire|636664|1789014772000",
-    "nfl|8121|rotowire|636666|1789015202000",
-    "nfl|9511|rotoballer|220488|1789000446000"
+    "nfl|12048|rotowire|636667|1789015442000",
+    "nfl|3214|rotowire|636669|1789015680000",
+    "nfl|9488|rotoballer|220491|1789001360000"
   ],
   "schema_version": 1,
   "source": {
@@ -18,6 +15,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The trusted tight end figures to remain an important component of the Patriots' air attack this season, but Henry had a quiet start to the campaign. The 31-year-old did tie for third in receptions and receiving yards on the night for the Patriots, and Henry will look to help Drake Maye atone for a three-interception night in a Week 2 home matchup against the Steelers on Sunday, Sept. 20.",
+      "description": "Henry brought in all three targets for 26 yards in the Patriots' 13-10 loss to the Seahawks on Wednesday.",
+      "metadata": {
+        "analysis": "The trusted tight end figures to remain an important component of the Patriots' air attack this season, but Henry had a quiet start to the campaign. The 31-year-old did tie for third in receptions and receiving yards on the night for the Patriots, and Henry will look to help Drake Maye atone for a three-interception night in a Week 2 home matchup against the Steelers on Sunday, Sept. 20.",
+        "description": "Henry brought in all three targets for 26 yards in the Patriots' 13-10 loss to the Seahawks on Wednesday.",
+        "title": "Hunter Henry - Three catches in Week 1 loss",
+        "topic_id": "1403637787646779393"
+      },
+      "nfl_team": "NE",
+      "player_id": "3214",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "published": 1789015680000,
+      "source": "rotowire",
+      "source_key": "636669",
+      "story_id": "nfl|3214|rotowire|636669|1789015680000",
+      "title": "Hunter Henry - Three catches in Week 1 loss",
+      "url": null
+    },
+    {
+      "analysis": "The change-of-pace back ironically logged just two fewer carries than lead runner Jadarian Price, while also being a complete non-factor as a pass catcher. Holani ran reasonably well against a tough Patriots front, and his carry total served as the second-highest tally of his career. Holani should continue to see 8-to-10 touches per game as Price's back while Zach Charbonnet (knee) remains on the PUP list.",
+      "description": "Holani rushed eight times for 29 yards and failed to bring in his only target in the Seahawks' 13-10 win over the Patriots on Wednesday.",
+      "metadata": {
+        "analysis": "The change-of-pace back ironically logged just two fewer carries than lead runner Jadarian Price, while also being a complete non-factor as a pass catcher. Holani ran reasonably well against a tough Patriots front, and his carry total served as the second-highest tally of his career. Holani should continue to see 8-to-10 touches per game as Price's back while Zach Charbonnet (knee) remains on the PUP list.",
+        "description": "Holani rushed eight times for 29 yards and failed to bring in his only target in the Seahawks' 13-10 win over the Patriots on Wednesday.",
+        "title": "George Holani - Sees larger role than expected",
+        "topic_id": "1403637787600642048"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12048",
+      "player_name": "George Holani",
+      "position": "RB",
+      "published": 1789015442000,
+      "source": "rotowire",
+      "source_key": "636667",
+      "story_id": "nfl|12048|rotowire|636667|1789015442000",
+      "title": "George Holani - Sees larger role than expected",
+      "url": null
+    },
     {
       "analysis": "The veteran offseason addition had a highly inauspicious debut, despite the fact he'd frequently impressed this summer and the Patriots lost A.J. Brown to an ankle injury on the first possession of the second half. Doubs was also the intended receiver on Drake Maye's first interception of the night, getting outleapt for a long pass by Nehemiah Pritchett early in the fourth quarter. Andrew Callahan of the Boston Herald reports Brown was seen exiting the Patriots' locker room with a walking boot following Wednesday's game, so Doubs could be pressed into an elevated role for the Week 2 home opener against the Steelers on Sunday, Sept. 20 despite his poor showing.",
       "description": "Doubs failed to bring in any of his three targets during the Patriots' 13-10 loss to the Seahawks on Wednesday.",
@@ -361,6 +398,26 @@
       "story_id": "nfl|4943|fantasy_pros|606840|1789001749137",
       "title": "Sam Darnold (hip) questionable to return ",
       "url": "https://www.fantasypros.com/nfl/news/606840/sam-darnold-hip-questionable-to-return.php"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Jaxon Smith-Njigba caught eight of his 11 targets for 122 yards and one touchdown during Wednesday's Week 1 victory over the New England Patriots. His touchdown came on a massive 45-yard reception and briefly tied the game before Seattle eventually pulled away late in the fourth quarter. The Seahawks ran into some early adversity on Thursday night as quarterback Sam Darnold suffered a hip injury during the opening drive and was subsequently ruled out. However, Drew Lock played well after taking over for Darnold, helping to fuel the big game from Smith-Njigba, who was the NFL's Offensive Player of the Year last season. The 24-year-old receiver showed that he is capable of producing high-end fantasy results despite catching passes from a backup quarterback and being covered by a superstar cornerback like Christian Gonzalez. Even if Lock remains the starter going forward, Smith-Njigba should continue to rank as a high-end WR1 in all fantasy leagues. Seattle now has 11 days off before returning to action in Week 2 against the Arizona Cardinals.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Jaxon Smith-Njigba caught eight of his 11 targets for 122 yards and one touchdown during Wednesday's Week 1 victory over the New England Patriots. His touchdown came on a massive 45-yard reception and briefly tied the game before Seattle eventually pulled away late in the fourth quarter. The Seahawks ran into some early adversity on Thursday night as quarterback Sam Darnold suffered a hip injury during the opening drive and was subsequently ruled out. However, Drew Lock played well after taking over for Darnold, helping to fuel the big game from Smith-Njigba, who was the NFL's Offensive Player of the Year last season. The 24-year-old receiver showed that he is capable of producing high-end fantasy results despite catching passes from a backup quarterback and being covered by a superstar cornerback like Christian Gonzalez. Even if Lock remains the starter going forward, Smith-Njigba should continue to rank as a high-end WR1 in all fantasy leagues. Seattle now has 11 days off before returning to action in Week 2 against the Arizona Cardinals.",
+        "title": "Jaxon Smith-Njigba Scores the Decisive Touchdown in Week 1 Win",
+        "topic_id": "1403639042851008512",
+        "url": "https://www.rotoballer.com/player-news/jaxon-smith-njigba-scores-the-decisive-touchdown-in-week-1-win/1927265"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9488",
+      "player_name": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "published": 1789001360000,
+      "source": "rotoballer",
+      "source_key": "220491",
+      "story_id": "nfl|9488|rotoballer|220491|1789001360000",
+      "title": "Jaxon Smith-Njigba Scores the Decisive Touchdown in Week 1 Win",
+      "url": "https://www.rotoballer.com/player-news/jaxon-smith-njigba-scores-the-decisive-touchdown-in-week-1-win/1927265"
     },
     {
       "analysis": "Darnold suffered a hip injury on the Seahawks' opening possession, and he is now considered questionable to return to the contest, per Adam Schefter of ESPN. Drew Lock has entered the contest at quarterback for Seattle.",
