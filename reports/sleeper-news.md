@@ -3,7 +3,7 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **2454**
-- Newly captured: **1**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -15,9 +15,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Hunter Henry** — Hunter Henry - Three catches in Week 1 loss (2026-09-10T04:48:00Z)
   - The trusted tight end figures to remain an important component of the Patriots' air attack this season, but Henry had a quiet start to the campaign. The 31-year-old did tie for third in receptions and receiving yards on the night for the Patriots, and Henry will look to help Drake Maye atone for a three-interception night in a Week 2 home matchup against the Steelers on Sunday, Sept. 20.
 - **George Holani** — George Holani - Sees larger role than expected (2026-09-10T04:44:02Z)
-  - The change-of-pace back ironically logged just two fewer carries than lead runner Jadarian Price, while also being a complete non-factor as a pass catcher. Holani ran reasonably well against a tough Patriots front, and his carry total served as the second-highest tally of his career. Holani should continue to see 8-to-10 touches per game as a complementary option while Zach Charbonnet (knee) remains on the PUP list.
+  - The change-of-pace back ironically logged just two fewer carries than lead runner Jadarian Price while also being a complete non-factor as a pass catcher. Holani ran reasonably well against a tough Patriots front, and his carry total served as the second-highest tally of his career. Holani should continue to see 8-to-10 touches per game as a complementary option while Zach Charbonnet (knee) remains on the PUP list.
 - **Romeo Doubs** — Romeo Doubs - Forgettable team debut in loss (2026-09-10T04:40:02Z)
-  - The veteran offseason addition had a highly inauspicious debut, despite the fact he'd frequently impressed this summer and the Patriots lost A.J. Brown to an ankle injury on the first possession of the second half. Doubs was also the intended receiver on Drake Maye's first interception of the night, getting outleapt for a long pass by Nehemiah Pritchett early in the fourth quarter. Andrew Callahan of the Boston Herald reports Brown was seen exiting the Patriots' locker room with a walking boot following Wednesday's game, so Doubs could be pressed into an elevated role for the Week 2 home opener against the Steelers on Sunday, Sept. 20 despite his poor showing.
+  - The veteran offseason addition had a highly inauspicious debut, despite the fact he'd frequently impressed this summer and the Patriots lost A.J. Brown to an ankle injury on the first possession of the second half. Doubs was also the intended receiver on Drake Maye's first interception of the night, getting outleapt for a long pass by Nehemiah Pritchett early in the fourth quarter. Andrew Callahan of the Boston Herald reports Brown was seen exiting the Patriots' locker room with a walking boot following Wednesday's game, so Doubs could be pressed into an elevated role for the Week 2 home opener against the Steelers on Sunday, Sept. 20, despite his poor showing.
 - **George Kittle** — George Kittle - In clear to play Week 1 (2026-09-10T04:33:42Z)
   - The game technically will be taking place Friday local time in Melbourne, Australia, but Kittle has made quick work in his recovery from the torn right Achilles that he suffered in San Francisco's wild-card win at Philadelphia on Jan. 11. Kittle was listed as limited on the team's first two practice reports of Week 1 prep, so it stands to reason he may operate with a cap on his snaps. Still, he's in line to be out there for the 49ers' regular-season opener.
 - **Rhamondre Stevenson** — Rhamondre Stevenson - Heavy volume in Week 1 loss (2026-09-10T04:32:52Z)
@@ -39,7 +39,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606860/aj-brown-ankle-ruled-out-against-seattle.php
 - **A.J. Brown** — A.J. Brown - Will not return Wednesday (2026-09-10T02:41:22Z)
   - Brown will remain sidelined until the conclusion of the team's regular-season opener after suffering a right ankle injury in the third quarter. In the wideout's absence, running back Rhamondre Stevenson has been quarterback Drake Maye's favorite target against the Seahawks.
-- **NEW — Kyren Williams** — Kyren Williams Possesses a Safe Floor for Week 1 (2026-09-10T02:26:05Z)
+- **Kyren Williams** — Kyren Williams Possesses a Safe Floor for Week 1 (2026-09-10T02:26:05Z)
   - Source: https://www.rotoballer.com/player-news/kyren-williams-possesses-a-safe-floor-for-week-1/1927287
 - **A.J. Brown** — A.J. Brown (ankle) questionable to return (2026-09-10T02:15:36.531000Z)
   - Brown is currently being evaluated in the medical tent after having his ankle rolled up on in the third quarter. With Brown currently sidelined, DeMario Douglas, Romeo Doubs, and Mack Hollins will see the bulk of the snaps at wide receiver for the Patriots. 
