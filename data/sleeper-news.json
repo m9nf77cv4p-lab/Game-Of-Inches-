@@ -1,11 +1,8 @@
 {
-  "last_checked_at": "2026-09-10T05:31:08Z",
+  "last_checked_at": "2026-09-10T05:45:20Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [
-    "nfl|4943|fantasy_pros|606861|1789018237344",
-    "nfl|7611|rotoballer|220494|1789002727000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -1662,11 +1659,11 @@
       "url": null
     },
     {
-      "analysis": "The Titans' big offseason addition at wideout will be good to go for his new-team debut Sunday as Robinson carries no injury designation. Both Robinson and rookie Carnell Tate are off the injury report, signaling that Cam Ward will have his top weapons at his disposal as the team starts a new chapter under head coach Robert Saleh.",
-      "description": "Robinson (head) is not on the Titans' injury report.",
+      "analysis": "The Titans' big offseason addition at wideout will be good to go for his team debut Sunday, as Robinson carries no injury designation. Both Robinson and rookie Carnell Tate are off the injury report, signaling that Cam Ward will have his top weapons at his disposal as the team starts a new chapter under head coach Robert Saleh.",
+      "description": "Robinson (head) is not on the Titans' Wednesday injury report.",
       "metadata": {
-        "analysis": "The Titans' big offseason addition at wideout will be good to go for his new-team debut Sunday as Robinson carries no injury designation. Both Robinson and rookie Carnell Tate are off the injury report, signaling that Cam Ward will have his top weapons at his disposal as the team starts a new chapter under head coach Robert Saleh.",
-        "description": "Robinson (head) is not on the Titans' injury report.",
+        "analysis": "The Titans' big offseason addition at wideout will be good to go for his team debut Sunday, as Robinson carries no injury designation. Both Robinson and rookie Carnell Tate are off the injury report, signaling that Cam Ward will have his top weapons at his disposal as the team starts a new chapter under head coach Robert Saleh.",
+        "description": "Robinson (head) is not on the Titans' Wednesday injury report.",
         "title": "Wan'Dale Robinson - No injury designation",
         "topic_id": "1403523327259152384"
       },
@@ -1905,10 +1902,10 @@
       "url": null
     },
     {
-      "analysis": "Egbuka is ready to go for Sunday's Week 1 opener against the Bengals, and in a game with the highest total on the slate, Egbuka is looking like a fantasy WR2 with obvious upside. He's expected to take over as the Bucs' top wideout this season after Mike Evans left for San Francisco in free agency.",
+      "analysis": "Egbuka is ready to go for Sunday's Week 1 opener against the Bengals, and in a game with the highest projected points total on the slate, Egbuka is looking like a fantasy WR2 with obvious upside. He's expected to take over as the Bucs' top wideout this season after Mike Evans left for San Francisco in free agency.",
       "description": "Egbuka (toe) was a full participant in Wednesday's practice.",
       "metadata": {
-        "analysis": "Egbuka is ready to go for Sunday's Week 1 opener against the Bengals, and in a game with the highest total on the slate, Egbuka is looking like a fantasy WR2 with obvious upside. He's expected to take over as the Bucs' top wideout this season after Mike Evans left for San Francisco in free agency.",
+        "analysis": "Egbuka is ready to go for Sunday's Week 1 opener against the Bengals, and in a game with the highest projected points total on the slate, Egbuka is looking like a fantasy WR2 with obvious upside. He's expected to take over as the Bucs' top wideout this season after Mike Evans left for San Francisco in free agency.",
         "description": "Egbuka (toe) was a full participant in Wednesday's practice.",
         "title": "Emeka Egbuka - Practices fully Wednesday",
         "topic_id": "1403518293142171648"
@@ -1945,10 +1942,10 @@
       "url": null
     },
     {
-      "analysis": "Tracy sustained an apparent neck injury during New York's exhibition finale, but after landing a spot on the team's initial active roster and nearly two weeks to recover, he's in good health ahead of a Week 1 matchup with the Cowboys. With Cam Skattebo leading the Giants backfield and Najee Harris and Devin Singletary also on hand for reps, it remains to be seen what kind of workload Tracy can expect in the regular-season opener.",
+      "analysis": "Tracy sustained an apparent neck injury during New York's exhibition finale, but after landing a spot on the team's initial active roster and having nearly two weeks to recover, he's in good health ahead of a Week 1 matchup with the Cowboys. With Cam Skattebo leading the Giants backfield and Najee Harris and Devin Singletary also on hand for reps, it remains to be seen what kind of workload Tracy can expect in the regular-season opener.",
       "description": "Tracy (neck) wasn't listed on the Giants' first Week 1 injury report Wednesday, Dan Salomone of the team's official site reports.",
       "metadata": {
-        "analysis": "Tracy sustained an apparent neck injury during New York's exhibition finale, but after landing a spot on the team's initial active roster and nearly two weeks to recover, he's in good health ahead of a Week 1 matchup with the Cowboys. With Cam Skattebo leading the Giants backfield and Najee Harris and Devin Singletary also on hand for reps, it remains to be seen what kind of workload Tracy can expect in the regular-season opener.",
+        "analysis": "Tracy sustained an apparent neck injury during New York's exhibition finale, but after landing a spot on the team's initial active roster and having nearly two weeks to recover, he's in good health ahead of a Week 1 matchup with the Cowboys. With Cam Skattebo leading the Giants backfield and Najee Harris and Devin Singletary also on hand for reps, it remains to be seen what kind of workload Tracy can expect in the regular-season opener.",
         "description": "Tracy (neck) wasn't listed on the Giants' first Week 1 injury report Wednesday, Dan Salomone of the team's official site reports.",
         "title": "Tyrone Tracy - No listing on Week 1 injury report",
         "topic_id": "1403517034800619520"

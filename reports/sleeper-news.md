@@ -3,11 +3,11 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **2453**
-- Newly captured: **2**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Sam Darnold** — Sam Darnold (hip) avoids fracture, to undergo MRI Thursday  (2026-09-10T05:30:37.344000Z)
+- **Sam Darnold** — Sam Darnold (hip) avoids fracture, to undergo MRI Thursday  (2026-09-10T05:30:37.344000Z)
   - Darnold was ruled out for the night in the opening drive on Wednesday. He is scheduled to undergo an MRI on Thursday.
   - Source: https://www.fantasypros.com/nfl/news/606861/sam-darnold-hip-avoids-fracture-to-undergo-mri-thursday.php
 - **DeMario Douglas** — DeMario Douglas - Does little with five catches (2026-09-10T04:56:42Z)
@@ -49,7 +49,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606856/sam-darnold-hip-ruled-out-remainder-season-opener.php
 - **Sam Darnold** — Sam Darnold - Ruled out with injury (2026-09-10T01:38:04Z)
   - Darnold will undergo additional imaging on his hip off-site, and the exact diagnosis of his injury will likely be disclosed thereafter. Drew Lock will continue to operate as Seattle's quarterback in Darnold's absence versus the Patriots.
-- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Impressive as Receiver, Salvages Fantasy Performance (2026-09-10T01:12:07Z)
+- **Rhamondre Stevenson** — Rhamondre Stevenson Impressive as Receiver, Salvages Fantasy Performance (2026-09-10T01:12:07Z)
   - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-impressive-as-receiver-salvages-fantasy-performance/1927277
 - **Ollie Gordon** — Ollie Gordon - Not listed on injury report (2026-09-10T01:07:52Z)
   - Gordon recently returned to practice without a non-contact jersey. With his full participation in Wednesday's practice, all signs are pointing toward his availability for Week 1 versus the Raiders. The 22-year-old finished the 2025 campaign by rushing for 199 yards and three touchdowns off 70 carries, adding seven grabs for 32 yards and a touchdown in 17 regular-season appearances. Gordon currently occupies the No. 3 spot on the depth chart behind De'Von Achane and Jaylen Wright.
@@ -197,7 +197,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jeremiyah Love** — Jeremiyah Love - Set to practice Wednesday (2026-09-09T21:13:42Z)
   - In typical LaFleur fashion, the coach tried to be wishy-washy and hide things from the media by saying Love is not expected to be limited in practice, but his status for Sunday's opener against the Chargers depends on how the running back looks during the practice week. The Cardinals have already listed Tyler Allgeier ahead of their No. 3 overall pick Love on the backfield depth chart. Love will shape up as a shaky RB3 for fantasy if he's active against Los Angeles.
 - **Wan'Dale Robinson** — Wan'Dale Robinson - No injury designation (2026-09-09T21:12:19Z)
-  - The Titans' big offseason addition at wideout will be good to go for his new-team debut Sunday as Robinson carries no injury designation. Both Robinson and rookie Carnell Tate are off the injury report, signaling that Cam Ward will have his top weapons at his disposal as the team starts a new chapter under head coach Robert Saleh.
+  - The Titans' big offseason addition at wideout will be good to go for his team debut Sunday, as Robinson carries no injury designation. Both Robinson and rookie Carnell Tate are off the injury report, signaling that Cam Ward will have his top weapons at his disposal as the team starts a new chapter under head coach Robert Saleh.
 - **Jakobi Meyers** — Jakobi Meyers - Limited during Wednesday's practice (2026-09-09T21:09:22Z)
   - Per Ryan O'Halloran of The Florida Times-Union, Meyers sported a non-contact jersey during the open portion of Wednesday's session, though he was ultimately able to do enough work to garner a limited listing. Per John Shipley of SI.com, Meyers said after practice that he expects to play Sunday against the Browns, though he may need to upgrade to full practice participation Thursday or Friday to avoid carrying a designation into the weekend.
 - **Bhayshul Tuten** — Bhayshul Tuten - Ready to go for Week 1 (2026-09-09T21:03:43Z)
@@ -224,11 +224,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Ja'Marr Chase** — Ja'Marr Chase - Full participant Wednesday (2026-09-09T20:52:15Z)
   - It's looking promising for Chase's status going into the season-opener after his full practice Wednesday. He had a knee injury scare in August but has been present for practices since the beginning of the week. At this stage, Chase should be good to go for the season-opener against the Buccaneers.
 - **Emeka Egbuka** — Emeka Egbuka - Practices fully Wednesday (2026-09-09T20:51:08Z)
-  - Egbuka is ready to go for Sunday's Week 1 opener against the Bengals, and in a game with the highest total on the slate, Egbuka is looking like a fantasy WR2 with obvious upside. He's expected to take over as the Bucs' top wideout this season after Mike Evans left for San Francisco in free agency.
+  - Egbuka is ready to go for Sunday's Week 1 opener against the Bengals, and in a game with the highest projected points total on the slate, Egbuka is looking like a fantasy WR2 with obvious upside. He's expected to take over as the Bucs' top wideout this season after Mike Evans left for San Francisco in free agency.
 - **Alec Pierce** — Alec Pierce - Limited in practice by heel injury (2026-09-09T20:48:22Z)
   - Pierce will have two more opportunities to upgrade to full practice participation heading into Sunday's season opener versus the Ravens. Per Mike Chappell of Fox 59 News Indianapolis, Pierce is expected to be ready to go for Sunday, though the wideout could be on something of a pitch count in the first few weeks of the season after kept him from practicing until late August. The 26-year-old served mainly as a deep-ball specialist over his first four seasons in the NFL but could become more of a higher-volume target earner in 2026 after re-signing with Indianapolis on a four-year, $114 million deal in March.
 - **Tyrone Tracy** — Tyrone Tracy - No listing on Week 1 injury report (2026-09-09T20:47:22Z)
-  - Tracy sustained an apparent neck injury during New York's exhibition finale, but after landing a spot on the team's initial active roster and nearly two weeks to recover, he's in good health ahead of a Week 1 matchup with the Cowboys. With Cam Skattebo leading the Giants backfield and Najee Harris and Devin Singletary also on hand for reps, it remains to be seen what kind of workload Tracy can expect in the regular-season opener.
+  - Tracy sustained an apparent neck injury during New York's exhibition finale, but after landing a spot on the team's initial active roster and having nearly two weeks to recover, he's in good health ahead of a Week 1 matchup with the Cowboys. With Cam Skattebo leading the Giants backfield and Najee Harris and Devin Singletary also on hand for reps, it remains to be seen what kind of workload Tracy can expect in the regular-season opener.
 - **Jonathon Brooks** — Jonathon Brooks - Declares himself 100 percent (2026-09-09T20:46:51Z)
   - Brooks was officially limited in practice Wednesday, but all indications are he did everything in the session and looked ready to go for the start of the season. Brooks will push Chuba Hubbard for carries in the Carolina backfield, but Hubbard is expected to open the campaign as the starter and lead back while Brooks sees plenty of work as the 1B option. It may be best to take a wait-and-see approach with him in fantasy.
 - **Sam Darnold** — Sam Darnold Exits Season Opener, Questionable to Return (2026-09-09T20:45:07Z)
