@@ -1,14 +1,19 @@
 {
-  "last_checked_at": "2026-09-10T20:32:47Z",
+  "last_checked_at": "2026-09-10T20:45:34Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11632|rotowire|636706|1789071645000",
-    "nfl|13288|rotoballer|220562|1789056610000",
-    "nfl|5947|fantasy_pros|606973|1789071922784",
-    "nfl|8111|rotoballer|220563|1789056606000",
-    "nfl|9997|fantasy_pros|606971|1789071922528",
-    "nfl|9997|rotoballer|220564|1789056913000"
+    "nfl|11618|fantasy_pros|606978|1789072522660",
+    "nfl|12502|rotoballer|220569|1789058235000",
+    "nfl|12514|fantasy_pros|606977|1789072522672",
+    "nfl|12527|rotowire|636708|1789072762000",
+    "nfl|4035|fantasy_pros|606983|1789072822104",
+    "nfl|4035|rotowire|636707|1789072640000",
+    "nfl|4137|rotoballer|220568|1789057446000",
+    "nfl|6801|fantasy_pros|606988|1789072822044",
+    "nfl|7564|fantasy_pros|606986|1789072822059",
+    "nfl|8155|fantasy_pros|606976|1789072522685",
+    "nfl|9997|rotowire|636709|1789072891000"
   ],
   "schema_version": 1,
   "source": {
@@ -18,6 +23,192 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Flowers was listed as a limited participant Wednesday but upgraded to full participation Thursday, putting him on track to play in Sunday's season opener against the Colts. After leading the Ravens with 1,211 receiving yards last season, Flowers is set to reprise his role as Lamar Jackson's top target under new offensive coordinator Declan Doyle.",
+      "description": "Flowers (hamstring) was a full participant at Thursday's practice.",
+      "metadata": {
+        "analysis": "Flowers was listed as a limited participant Wednesday but upgraded to full participation Thursday, putting him on track to play in Sunday's season opener against the Colts. After leading the Ravens with 1,211 receiving yards last season, Flowers is set to reprise his role as Lamar Jackson's top target under new offensive coordinator Declan Doyle.",
+        "description": "Flowers (hamstring) was a full participant at Thursday's practice.",
+        "title": "Zay Flowers - Upgrades to full Thursday",
+        "topic_id": "1403878058103963648"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1789072891000,
+      "source": "rotowire",
+      "source_key": "636709",
+      "story_id": "nfl|9997|rotowire|636709|1789072891000",
+      "title": "Zay Flowers - Upgrades to full Thursday",
+      "url": null
+    },
+    {
+      "analysis": "Kamara continues to beat expectations with his injury timeline, participating in a second-straight practice again on Thursday. He remained limited, but there have been reports that he is trending towards playing in Week 1 of the season. If that's the case, that will be negative news for the fantasy value of Kendre Miller moving forward.",
+      "description": "Alvin Kamara (knee) was listed as a limited participant at practice on Thursday.",
+      "metadata": {
+        "analysis": "Kamara continues to beat expectations with his injury timeline, participating in a second-straight practice again on Thursday. He remained limited, but there have been reports that he is trending towards playing in Week 1 of the season. If that's the case, that will be negative news for the fantasy value of Kendre Miller moving forward.",
+        "description": "Alvin Kamara (knee) was listed as a limited participant at practice on Thursday.",
+        "title": "Alvin Kamara (knee) listed as limited again Thursday",
+        "topic_id": "1403876803805736960",
+        "url": "https://www.fantasypros.com/nfl/news/606983/alvin-kamara-knee-listed-limited-again-thursday.php"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1789072822104,
+      "source": "fantasy_pros",
+      "source_key": "606983",
+      "story_id": "nfl|4035|fantasy_pros|606983|1789072822104",
+      "title": "Alvin Kamara (knee) listed as limited again Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/606983/alvin-kamara-knee-listed-limited-again-thursday.php"
+    },
+    {
+      "analysis": "As expected, Chase was able to log yet another full practice session on Thursday. He is trending towards being a full go for the season opener on Sunday, assuming there are no unforeseen setbacks between now and then. He will be a top-tier fantasy option if active in Week 1 and beyond.",
+      "description": "Ja'Marr Chase (knee) logged another full practice session on Thursday.",
+      "metadata": {
+        "analysis": "As expected, Chase was able to log yet another full practice session on Thursday. He is trending towards being a full go for the season opener on Sunday, assuming there are no unforeseen setbacks between now and then. He will be a top-tier fantasy option if active in Week 1 and beyond.",
+        "description": "Ja'Marr Chase (knee) logged another full practice session on Thursday.",
+        "title": "Ja'Marr Chase (knee) logs full practice Thursday",
+        "topic_id": "1403876803616993280",
+        "url": "https://www.fantasypros.com/nfl/news/606986/jamarr-chase-knee-logs-full-practice-thursday.php"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1789072822059,
+      "source": "fantasy_pros",
+      "source_key": "606986",
+      "story_id": "nfl|7564|fantasy_pros|606986|1789072822059",
+      "title": "Ja'Marr Chase (knee) logs full practice Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/606986/jamarr-chase-knee-logs-full-practice-thursday.php"
+    },
+    {
+      "analysis": "The Bengals will likely have Higgins for their season opener on Sunday, as he has been a full participant at two-straight practices to start the week. Fantasy managers should feel confident starting him if he's fully cleared to play prior to kickoff against the Buccaneers.",
+      "description": "Tee Higgins (foot) practiced in a full capacity again on Thursday.",
+      "metadata": {
+        "analysis": "The Bengals will likely have Higgins for their season opener on Sunday, as he has been a full participant at two-straight practices to start the week. Fantasy managers should feel confident starting him if he's fully cleared to play prior to kickoff against the Buccaneers.",
+        "description": "Tee Higgins (foot) practiced in a full capacity again on Thursday.",
+        "title": "Tee Higgins (foot) practices in full again Thursday",
+        "topic_id": "1403876803554078720",
+        "url": "https://www.fantasypros.com/nfl/news/606988/tee-higgins-foot-practices-full-again-thursday.php"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6801",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "published": 1789072822044,
+      "source": "fantasy_pros",
+      "source_key": "606988",
+      "story_id": "nfl|6801|fantasy_pros|606988|1789072822044",
+      "title": "Tee Higgins (foot) practices in full again Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/606988/tee-higgins-foot-practices-full-again-thursday.php"
+    },
+    {
+      "analysis": "Jeanty cleared up any concern about his availability for the opener by turning in a full practice Wednesday, two and a half weeks after he sustained what initially appeared to be a serious-looking ankle injury during an Aug. 23 training camp session. The running back practiced again Thursday, and barring any setbacks, he'll draw the Week 1 start for the Raiders. However, because of the amount of workouts Jeanty missed late in camp while recovering from the ankle injury, the Raiders could look to manage his workload to some degree in the opener and open up more reps for rookie Mike Washington, per Dan Graziano of ESPN.com.",
+      "description": "Jeanty said prior to Thursday's practice that he feels \"really good\" about the health of his right ankle and reiterated that he'll be ready to go for Sunday's season opener versus the Dolphins, Ryan McFadden of ESPN.com reports. \"Any time away from the game, it's tough,\" Jeanty said. \"But to get back out there [at practice Wednesday], mainly with the guys, man, it felt good.\"",
+      "metadata": {
+        "analysis": "Jeanty cleared up any concern about his availability for the opener by turning in a full practice Wednesday, two and a half weeks after he sustained what initially appeared to be a serious-looking ankle injury during an Aug. 23 training camp session. The running back practiced again Thursday, and barring any setbacks, he'll draw the Week 1 start for the Raiders. However, because of the amount of workouts Jeanty missed late in camp while recovering from the ankle injury, the Raiders could look to manage his workload to some degree in the opener and open up more reps for rookie Mike Washington, per Dan Graziano of ESPN.com.",
+        "description": "Jeanty said prior to Thursday's practice that he feels \"really good\" about the health of his right ankle and reiterated that he'll be ready to go for Sunday's season opener versus the Dolphins, Ryan McFadden of ESPN.com reports. \"Any time away from the game, it's tough,\" Jeanty said. \"But to get back out there [at practice Wednesday], mainly with the guys, man, it felt good.\"",
+        "title": "Ashton Jeanty - Feeling 'really good' ahead of opener",
+        "topic_id": "1403878058108157952"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1789072762000,
+      "source": "rotowire",
+      "source_key": "636708",
+      "story_id": "nfl|12527|rotowire|636708|1789072762000",
+      "title": "Ashton Jeanty - Feeling 'really good' ahead of opener",
+      "url": null
+    },
+    {
+      "analysis": "Kamara still has a chance to suit up Week 1 as he recovers from a sprained MCL, so his participation level Friday will bear monitoring before the Saints release game designations for Sunday's matchup with the Lions. Travis Etienne is in line to lead New Orleans' backfield, while Kendre Miller could take on a change-of-pace role if Kamara doesn't play.",
+      "description": "Kamara (knee) remained limited at practice Thursday, Mike Triplett of NewOrleans.Football reports.",
+      "metadata": {
+        "analysis": "Kamara still has a chance to suit up Week 1 as he recovers from a sprained MCL, so his participation level Friday will bear monitoring before the Saints release game designations for Sunday's matchup with the Lions. Travis Etienne is in line to lead New Orleans' backfield, while Kendre Miller could take on a change-of-pace role if Kamara doesn't play.",
+        "description": "Kamara (knee) remained limited at practice Thursday, Mike Triplett of NewOrleans.Football reports.",
+        "title": "Alvin Kamara - Limited again Thursday",
+        "topic_id": "1403876800118935552"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1789072640000,
+      "source": "rotowire",
+      "source_key": "636707",
+      "story_id": "nfl|4035|rotowire|636707|1789072640000",
+      "title": "Alvin Kamara - Limited again Thursday",
+      "url": null
+    },
+    {
+      "analysis": "Hall has been a full participant in two-straight practices to start the week. He told reporters earlier that will be good to go for Week 1, so fantasy managers shouldn't have any real hesitations with starting him ahead of the first game of the season.",
+      "description": "Breece Hall (groin) logged another full practice session on Thursday.",
+      "metadata": {
+        "analysis": "Hall has been a full participant in two-straight practices to start the week. He told reporters earlier that will be good to go for Week 1, so fantasy managers shouldn't have any real hesitations with starting him ahead of the first game of the season.",
+        "description": "Breece Hall (groin) logged another full practice session on Thursday.",
+        "title": "Breece Hall (groin) logs full practice Thursday",
+        "topic_id": "1403875547951439885",
+        "url": "https://www.fantasypros.com/nfl/news/606976/breece-hall-groin-logs-full-practice-thursday.php"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8155",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "published": 1789072522685,
+      "source": "fantasy_pros",
+      "source_key": "606976",
+      "story_id": "nfl|8155|fantasy_pros|606976|1789072522685",
+      "title": "Breece Hall (groin) logs full practice Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/606976/breece-hall-groin-logs-full-practice-thursday.php"
+    },
+    {
+      "analysis": "Egbuka has now posted back-to-back full practices, leaving him well on track to be good to go for Week 1. He is an upside WR2 heading into the season and could be part of one of the higher-scoring games of the week on Sunday against the Bengals. ",
+      "description": "Emeka Egbuka remained a full participant in practice on Thursday. ",
+      "metadata": {
+        "analysis": "Egbuka has now posted back-to-back full practices, leaving him well on track to be good to go for Week 1. He is an upside WR2 heading into the season and could be part of one of the higher-scoring games of the week on Sunday against the Bengals. ",
+        "description": "Emeka Egbuka remained a full participant in practice on Thursday. ",
+        "title": "Emeka Egbuka (toe) logs another full practice Thursday ",
+        "topic_id": "1403875547905302528",
+        "url": "https://www.fantasypros.com/nfl/news/606977/emeka-egbuka-toe-logs-another-full-practice-thursday.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1789072522672,
+      "source": "fantasy_pros",
+      "source_key": "606977",
+      "story_id": "nfl|12514|fantasy_pros|606977|1789072522672",
+      "title": "Emeka Egbuka (toe) logs another full practice Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/606977/emeka-egbuka-toe-logs-another-full-practice-thursday.php"
+    },
+    {
+      "analysis": "McMillan has now been limited back-to-back days. He should be good to go on Sunday with another limited session on Friday. ",
+      "description": "Jalen McMillan was a limited participant in practice on Thursday. ",
+      "metadata": {
+        "analysis": "McMillan has now been limited back-to-back days. He should be good to go on Sunday with another limited session on Friday. ",
+        "description": "Jalen McMillan was a limited participant in practice on Thursday. ",
+        "title": "Jalen McMillan (knee) limited in practice Thursday ",
+        "topic_id": "1403875547850776576",
+        "url": "https://www.fantasypros.com/nfl/news/606978/jalen-mcmillan-knee-limited-practice-thursday.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1789072522660,
+      "source": "fantasy_pros",
+      "source_key": "606978",
+      "story_id": "nfl|11618|fantasy_pros|606978|1789072522660",
+      "title": "Jalen McMillan (knee) limited in practice Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/606978/jalen-mcmillan-knee-limited-practice-thursday.php"
+    },
     {
       "analysis": "The veteran wideout was again limited on Thursday as he continues to recover from a thumb injury of some kind. He is already expected to play this weekend, although he may still be left with an injury designation heading into the weekend if he doesn't practice in full on Friday.",
       "description": "Jakobi Meyers (thumb) was limited at practice again on Thursday.",
@@ -307,10 +498,10 @@
       "url": "https://www.fantasypros.com/nfl/news/606964/malik-nabers-knee-practices-full-thursday.php"
     },
     {
-      "analysis": "Coach John Harbaugh provided the update after Thursday's session. Nabers has been practicing in full this week, though there's still no confirmation on his status for Sunday night's game against the Cowboys just yet. It appears the Giants will wait as long as they can to make a final determination on their star receiver's Week 1 status.",
+      "analysis": "Coach John Harbaugh provided the update after Thursday's session. Nabers has been practicing in full this week, though there's no confirmation on his status for Sunday night's game against the Cowboys just yet. It appears the Giants will wait as long as they can to make a final determination on their star receiver's Week 1 availability.",
       "description": "Nabers (knee) logged another full practice Thursday, Connor Hughes of SNY.tv reports.",
       "metadata": {
-        "analysis": "Coach John Harbaugh provided the update after Thursday's session. Nabers has been practicing in full this week, though there's still no confirmation on his status for Sunday night's game against the Cowboys just yet. It appears the Giants will wait as long as they can to make a final determination on their star receiver's Week 1 status.",
+        "analysis": "Coach John Harbaugh provided the update after Thursday's session. Nabers has been practicing in full this week, though there's no confirmation on his status for Sunday night's game against the Cowboys just yet. It appears the Giants will wait as long as they can to make a final determination on their star receiver's Week 1 availability.",
         "description": "Nabers (knee) logged another full practice Thursday, Connor Hughes of SNY.tv reports.",
         "title": "Malik Nabers - Another full practice Thursday",
         "topic_id": "1403862957246394368"
@@ -714,6 +905,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Across 16 games (10 starts) as a rookie in 2025, Tennessee Titans tight end Gunnar Helm recorded 44 catches for 357 yards and two touchdowns on 55 targets. While Helm flashed higher levels of production upside throughout the year, his opportunity was limited by the presence of veteran tight end Chig Okonkwo. Entering 2026, Okonkwo is now a member of the Washington Commanders, and Helm profiles as the clear TE1 in Tennessee. The Titans have more talent at wide receiver in 2026 than they did a year ago after adding Carnell Tate in the draft and Wan'Dale Robinson in free agency. Still, Helm should benefit from his increased playing time and the expected growth of Titans quarterback Cam Ward in his second NFL season. In deeper league formats, Helm could be a sleeper tight end option to target on the waiver wire.",
+      "metadata": {
+        "description": "Across 16 games (10 starts) as a rookie in 2025, Tennessee Titans tight end Gunnar Helm recorded 44 catches for 357 yards and two touchdowns on 55 targets. While Helm flashed higher levels of production upside throughout the year, his opportunity was limited by the presence of veteran tight end Chig Okonkwo. Entering 2026, Okonkwo is now a member of the Washington Commanders, and Helm profiles as the clear TE1 in Tennessee. The Titans have more talent at wide receiver in 2026 than they did a year ago after adding Carnell Tate in the draft and Wan'Dale Robinson in free agency. Still, Helm should benefit from his increased playing time and the expected growth of Titans quarterback Cam Ward in his second NFL season. In deeper league formats, Helm could be a sleeper tight end option to target on the waiver wire.",
+        "title": "Gunnar Helm a Deep-League Sleeper to Target on the Waiver Wire",
+        "topic_id": "1403878056237498368",
+        "url": "https://www.rotoballer.com/player-news/gunnar-helm-a-deep-league-sleeper-to-target-on-the-waiver-wire/1927866"
+      },
+      "nfl_team": "TEN",
+      "player_id": "12502",
+      "player_name": "Gunnar Helm",
+      "position": "TE",
+      "published": 1789058235000,
+      "source": "rotoballer",
+      "source_key": "220569",
+      "story_id": "nfl|12502|rotoballer|220569|1789058235000",
+      "title": "Gunnar Helm a Deep-League Sleeper to Target on the Waiver Wire",
+      "url": "https://www.rotoballer.com/player-news/gunnar-helm-a-deep-league-sleeper-to-target-on-the-waiver-wire/1927866"
+    },
+    {
       "analysis": "Team doctors are still reviewing the results of the MRI that Darnold underwent on his injury Thursday morning, but the early results suggest Darnold isn't facing a long-term absence. Drew Lock looks likely to be tabbed as the starting quarterback for the team's Week 2 road game against the Cardinals on Sept. 20. Lock threw for 187 yards and a touchdown following Darnold's first-quarter exit in Wednesday's season-opening win.",
       "description": "Darnold (hip) is expected to miss some time due to the hip injury he sustained in Wednesday's 13-10 win over the Patriots, but the Seahawks believe their starting quarterback has \"dodged a bullet,\" Adam Schefter of ESPN reports.",
       "metadata": {
@@ -732,6 +943,26 @@
       "story_id": "nfl|4943|rotowire|636682|1789057807000",
       "title": "Sam Darnold - Dodges bullet but could miss time",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back James Conner (foot) enters the 2026 season on Injured Reserve, meaning he will miss at least the first four games of the year. The 31-year-old is still working his way back from the devastating foot injury that ended his 2025 season in Week 3. The running back room in Arizona looks much different now than it did when Conner was last healthy, as the team added veteran Tyler Allgeier and rookie phenom Jeremiyah Love (ankle) over the offseason. Even once Conner gets healthy, there's no guarantee that he will see fantasy-relevant playing time. However, the veteran running back remained a productive player in his last full season, recording over 1,500 yards from scrimmage and nine touchdowns across 16 games in 2024. In deeper league formats, Conner could be worth stashing in a bench or IR spot in case he steps into a regular role upon his return.",
+      "metadata": {
+        "description": "Arizona Cardinals running back James Conner (foot) enters the 2026 season on Injured Reserve, meaning he will miss at least the first four games of the year. The 31-year-old is still working his way back from the devastating foot injury that ended his 2025 season in Week 3. The running back room in Arizona looks much different now than it did when Conner was last healthy, as the team added veteran Tyler Allgeier and rookie phenom Jeremiyah Love (ankle) over the offseason. Even once Conner gets healthy, there's no guarantee that he will see fantasy-relevant playing time. However, the veteran running back remained a productive player in his last full season, recording over 1,500 yards from scrimmage and nine touchdowns across 16 games in 2024. In deeper league formats, Conner could be worth stashing in a bench or IR spot in case he steps into a regular role upon his return.",
+        "title": "Is James Conner Worth Stashing in Deeper Leagues?",
+        "topic_id": "1403875539134992384",
+        "url": "https://www.rotoballer.com/player-news/is-james-conner-worth-stashing-in-deeper-leagues/1927848"
+      },
+      "nfl_team": "ARI",
+      "player_id": "4137",
+      "player_name": "James Conner",
+      "position": "RB",
+      "published": 1789057446000,
+      "source": "rotoballer",
+      "source_key": "220568",
+      "story_id": "nfl|4137|rotoballer|220568|1789057446000",
+      "title": "Is James Conner Worth Stashing in Deeper Leagues?",
+      "url": "https://www.rotoballer.com/player-news/is-james-conner-worth-stashing-in-deeper-leagues/1927848"
     },
     {
       "analysis": "Meyers is practicing in a non-contact jersey for a second consecutive day after being listed as limited at Wednesday's practice. He'll have one more chance Friday to upgrade his participation level ahead of Sunday's season opener against the Browns. Two-way player Travis Hunter and rookie Day 3 draft picks Josh Cameron and CJ Williams would be candidates to receive playing time alongside Brian Thomas and Parker Washington if Meyers misses any game action due to his lingering thumb injury.",
