@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-10T02:32:02Z",
+  "last_checked_at": "2026-09-10T02:46:52Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|8155|rotoballer|220480|1788992345000"
+    "nfl|13330|rotoballer|220481|1788993129000",
+    "nfl|5859|fantasy_pros|606860|1789008336497",
+    "nfl|5859|rotowire|636653|1789008082000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Brown went down in the second half after a Seattle DB landed on his ankle, and Brown went back to the locker room soon after for x-rays. The Patriots will lean on Romeo Doubs, Pop Douglas, and Hunter Henry in the passing game with him out.",
+      "description": "A.J. Brown (ankle) has been ruled out for the rest of the Patriots game against Seattle.",
+      "metadata": {
+        "analysis": "Brown went down in the second half after a Seattle DB landed on his ankle, and Brown went back to the locker room soon after for x-rays. The Patriots will lean on Romeo Doubs, Pop Douglas, and Hunter Henry in the passing game with him out.",
+        "description": "A.J. Brown (ankle) has been ruled out for the rest of the Patriots game against Seattle.",
+        "title": "A.J. Brown (ankle) ruled out against Seattle",
+        "topic_id": "1403606331574824960",
+        "url": "https://www.fantasypros.com/nfl/news/606860/aj-brown-ankle-ruled-out-against-seattle.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1789008336497,
+      "source": "fantasy_pros",
+      "source_key": "606860",
+      "story_id": "nfl|5859|fantasy_pros|606860|1789008336497",
+      "title": "A.J. Brown (ankle) ruled out against Seattle",
+      "url": "https://www.fantasypros.com/nfl/news/606860/aj-brown-ankle-ruled-out-against-seattle.php"
+    },
+    {
+      "analysis": "Brown will remain sidelined until the conclusion of the team's regular-season opener after suffering a right ankle injury in the third quarter. In the wideout's absence, running back Rhamondre Stevenson has been quarterback Drake Maye's favorite target against the Seahawks.",
+      "description": "Brown (ankle) has been ruled out for the remainder of Wednesday's contest versus Seattle.",
+      "metadata": {
+        "analysis": "Brown will remain sidelined until the conclusion of the team's regular-season opener after suffering a right ankle injury in the third quarter. In the wideout's absence, running back Rhamondre Stevenson has been quarterback Drake Maye's favorite target against the Seahawks.",
+        "description": "Brown (ankle) has been ruled out for the remainder of Wednesday's contest versus Seattle.",
+        "title": "A.J. Brown - Will not return Wednesday",
+        "topic_id": "1403606328580059136"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1789008082000,
+      "source": "rotowire",
+      "source_key": "636653",
+      "story_id": "nfl|5859|rotowire|636653|1789008082000",
+      "title": "A.J. Brown - Will not return Wednesday",
+      "url": null
+    },
     {
       "analysis": "Brown is currently being evaluated in the medical tent after having his ankle rolled up on in the third quarter. With Brown currently sidelined, DeMario Douglas, Romeo Doubs, and Mack Hollins will see the bulk of the snaps at wide receiver for the Patriots. ",
       "description": "Patriots WR A.J. Brown is officially questionable to return against Seattle due to an ankle injury. ",
@@ -424,6 +467,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "New York Jets tight end Kenyon Sadiq (groin) was a full participant during Wednesday's practice. The first-round rookie is trending towards making his NFL debut versus the Tennessee Titans on Sunday. Sadiq missed part of the offseason while recovering from hernia surgery. He was able to get through a full practice session to begin the week, which is a great sign for his status ahead of Week 1. Mason Taylor is likely going to start, so Sadiq will probably have a smaller role behind him. It might take some time before Sadiq begins making an impact in New York.",
+      "metadata": {
+        "description": "New York Jets tight end Kenyon Sadiq (groin) was a full participant during Wednesday's practice. The first-round rookie is trending towards making his NFL debut versus the Tennessee Titans on Sunday. Sadiq missed part of the offseason while recovering from hernia surgery. He was able to get through a full practice session to begin the week, which is a great sign for his status ahead of Week 1. Mason Taylor is likely going to start, so Sadiq will probably have a smaller role behind him. It might take some time before Sadiq begins making an impact in New York.",
+        "title": "Kenyon Sadiq Posts Full Practice Session on Wednesday",
+        "topic_id": "1403605066027376640",
+        "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-posts-full-practice-session-on-wednesday/1927227"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13330",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "published": 1788993129000,
+      "source": "rotoballer",
+      "source_key": "220481",
+      "story_id": "nfl|13330|rotoballer|220481|1788993129000",
+      "title": "Kenyon Sadiq Posts Full Practice Session on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-posts-full-practice-session-on-wednesday/1927227"
+    },
+    {
       "analysis": "McMillan's knee injury is still not fully healed, so he remained a limited participant at practice on Wednesday as a result. If he is sidelined for Week 1, Ted Hurst III will be primed for more work in his absence.",
       "description": "Jalen McMillan (knee) was officially a limited participant at practice on Wednesday.",
       "metadata": {
@@ -491,7 +554,7 @@
       "description": "New York Jets running back Breece Hall (groin) was a full participant during Wednesday's practice session. As expected, Hall is a full-go to begin the week ahead of Sunday's Week 1 matchup against the Tennessee Titans. Hall suffered a groin injury late in camp, but the 25-year-old has been making good progress lately. Barring any setbacks, Hall should be active and ready to go for the season opener. He projects to be a high-end RB2 with RB1 upside, assuming the Jets can put together a half-decent offensive line. Fantasy managers should check back ahead of Sunday's game, but it sounds like Hall should be ready to play in the season opener.",
       "metadata": {
         "description": "New York Jets running back Breece Hall (groin) was a full participant during Wednesday's practice session. As expected, Hall is a full-go to begin the week ahead of Sunday's Week 1 matchup against the Tennessee Titans. Hall suffered a groin injury late in camp, but the 25-year-old has been making good progress lately. Barring any setbacks, Hall should be active and ready to go for the season opener. He projects to be a high-end RB2 with RB1 upside, assuming the Jets can put together a half-decent offensive line. Fantasy managers should check back ahead of Sunday's game, but it sounds like Hall should be ready to play in the season opener.",
-        "title": "Breece Hall Logs in Full Practice Session on Wednesday",
+        "title": "Breece Hall Logs Full Practice Session on Wednesday",
         "topic_id": "1403602549570813952",
         "url": "https://www.rotoballer.com/player-news/breece-hall-logs-in-full-practice-session-on-wednesday/1927217"
       },
@@ -503,7 +566,7 @@
       "source": "rotoballer",
       "source_key": "220480",
       "story_id": "nfl|8155|rotoballer|220480|1788992345000",
-      "title": "Breece Hall Logs in Full Practice Session on Wednesday",
+      "title": "Breece Hall Logs Full Practice Session on Wednesday",
       "url": "https://www.rotoballer.com/player-news/breece-hall-logs-in-full-practice-session-on-wednesday/1927217"
     },
     {
