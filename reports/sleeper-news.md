@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2528**
+- Stored stories: **2529**
 - Newly captured: **1**
 
 ## Latest news
@@ -80,6 +80,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jaxon Smith-Njigba** — Jaxon Smith-Njigba electric in win Wednesday (2026-09-10T15:35:04.138000Z)
   - On Wednesday, Smith-Njigba picked up right where he left off last season, exploding for 122 yards and a touchdown in a big win over the Patriots. He did that with Drew Lock throwing him passes after starter Sam Darnold went down with a hip injury earlier in the game. Fantasy managers should be happy with his performance in this matchup but should keep a close eye on the health of Darnold, as the young wideout's week-to-week ceiling will certainly take a hit if their starting QB misses significant time.
   - Source: https://www.fantasypros.com/nfl/news/606921/jaxon-smith-njigba-electric-win-wednesday.php
+- **NEW — Justice Hill** — Justice Hill Fits Better as PPR Insurance Than a Week 1 Play (2026-09-10T15:22:12Z)
+  - Source: https://www.rotoballer.com/player-news/justice-hill-fits-better-as-ppr-insurance-than-a-week-1-play/1927780
 - **Romeo Doubs** — Romeo Doubs fails to log catch Wednesday (2026-09-10T15:15:04.932000Z)
   - Doubs did not get off to a good start with his new team on Wednesday night. He failed to haul in even a single catch against a tough Seattle defense, and he had a costly drop on a very important play late in the game. He should bounce back in the near future and may be a worthwhile fantasy option short-term with A.J. Brown (ankle) expected to miss a bit of time due to injury.
   - Source: https://www.fantasypros.com/nfl/news/606910/romeo-doubs-fails-to-log-catch-wednesday.php
@@ -89,7 +91,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **DeMario Douglas** — DeMario Douglas catches five passes Wednesday (2026-09-10T15:15:04.905000Z)
   - Douglas was the most targeted receiver for New England last night, but he wasn't able to turn that into any fantasy success. He ended with just 20 yards on five catches, but he may continue to see high opportunities for the foreseeable future with A.J. Brown (ankle) set to miss some time for the team.
   - Source: https://www.fantasypros.com/nfl/news/606912/demario-douglas-catches-five-passes-wednesday.php
-- **NEW — Oronde Gadsden** — Oronde Gadsden Still Has a Path to Fantasy Value (2026-09-10T15:12:06Z)
+- **Oronde Gadsden** — Oronde Gadsden Still Has a Path to Fantasy Value (2026-09-10T15:12:06Z)
   - Source: https://www.rotoballer.com/player-news/oronde-gadsden-ii-still-has-a-path-to-fantasy-value/1927768
 - **Drake Maye** — Drake Maye throws three interceptions in loss Wednesday (2026-09-10T15:05:04.561000Z)
   - Maye started the season on the wrong foot on Wednesday night. He threw for under 200 yards and three interceptions against a tough Seattle defense, including one that cost the Patriots the game. He still showed lots of ability on the ground, however, and he's likely to return to being a good fantasy option against easier defenses. The loss of A.J. Brown (ankle) for at least a few games will severely hamper his short-term upside, however.
@@ -229,5 +231,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **A.J. Brown** — A.J. Brown (ankle) ruled out against Seattle (2026-09-10T02:45:36.497000Z)
   - Brown went down in the second half after a Seattle DB landed on his ankle, and Brown went back to the locker room soon after for x-rays. The Patriots will lean on Romeo Doubs, Pop Douglas, and Hunter Henry in the passing game with him out.
   - Source: https://www.fantasypros.com/nfl/news/606860/aj-brown-ankle-ruled-out-against-seattle.php
-- **A.J. Brown** — A.J. Brown - Will not return Wednesday (2026-09-10T02:41:22Z)
-  - Brown will remain sidelined until the conclusion of the team's regular-season opener after suffering a right ankle injury in the third quarter. In the wideout's absence, running back Rhamondre Stevenson has been quarterback Drake Maye's favorite target against the Seahawks.

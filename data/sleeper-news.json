@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T19:19:42Z",
+  "last_checked_at": "2026-09-10T19:29:34Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|12493|rotoballer|220554|1789053126000"
+    "nfl|5995|rotoballer|220555|1789053732000"
   ],
   "schema_version": 1,
   "source": {
@@ -607,6 +607,26 @@
       "story_id": "nfl|9488|fantasy_pros|606921|1789054504138",
       "title": "Jaxon Smith-Njigba electric in win Wednesday",
       "url": "https://www.fantasypros.com/nfl/news/606921/jaxon-smith-njigba-electric-win-wednesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens running back Justice Hill has a cleaner hold on the No. 2 job than he did earlier this summer, but that still doesn't make him a priority Week 1 add. Rookie Adam Randall is on injured reserve with a designation to return, leaving Hill second behind Derrick Henry and Rasheen Ali third on Baltimore's current depth chart. Hill's value comes from passing downs. He caught 21 passes for 169 yards and a touchdown in 10 games last season, and new offensive coordinator Declan Doyle has called him one of the league's best third-down backs. Hill is healthy after last year's neck injury, too. The catch is that he is not an obvious candidate to absorb Henry's entire workload if something happens. Ali could take some early-down work, and Hill sits at RB56 in the current Week 1 rankings. In deeper PPR leagues, he is a reasonable bench stash. In standard 10- or 12-team formats, there are better ways to use the spot.",
+      "metadata": {
+        "description": "Baltimore Ravens running back Justice Hill has a cleaner hold on the No. 2 job than he did earlier this summer, but that still doesn't make him a priority Week 1 add. Rookie Adam Randall is on injured reserve with a designation to return, leaving Hill second behind Derrick Henry and Rasheen Ali third on Baltimore's current depth chart. Hill's value comes from passing downs. He caught 21 passes for 169 yards and a touchdown in 10 games last season, and new offensive coordinator Declan Doyle has called him one of the league's best third-down backs. Hill is healthy after last year's neck injury, too. The catch is that he is not an obvious candidate to absorb Henry's entire workload if something happens. Ali could take some early-down work, and Hill sits at RB56 in the current Week 1 rankings. In deeper PPR leagues, he is a reasonable bench stash. In standard 10- or 12-team formats, there are better ways to use the spot.",
+        "title": "Justice Hill Fits Better as PPR Insurance Than a Week 1 Play",
+        "topic_id": "1403857922089304064",
+        "url": "https://www.rotoballer.com/player-news/justice-hill-fits-better-as-ppr-insurance-than-a-week-1-play/1927780"
+      },
+      "nfl_team": "BAL",
+      "player_id": "5995",
+      "player_name": "Justice Hill",
+      "position": "RB",
+      "published": 1789053732000,
+      "source": "rotoballer",
+      "source_key": "220555",
+      "story_id": "nfl|5995|rotoballer|220555|1789053732000",
+      "title": "Justice Hill Fits Better as PPR Insurance Than a Week 1 Play",
+      "url": "https://www.rotoballer.com/player-news/justice-hill-fits-better-as-ppr-insurance-than-a-week-1-play/1927780"
     },
     {
       "analysis": "Doubs did not get off to a good start with his new team on Wednesday night. He failed to haul in even a single catch against a tough Seattle defense, and he had a costly drop on a very important play late in the game. He should bounce back in the near future and may be a worthwhile fantasy option short-term with A.J. Brown (ankle) expected to miss a bit of time due to injury.",
