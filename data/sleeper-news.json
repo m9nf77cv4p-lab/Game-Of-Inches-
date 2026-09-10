@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T12:15:44Z",
+  "last_checked_at": "2026-09-10T13:24:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|5859|rotoballer|220497|1789027926000"
+    "nfl|11586|rotoballer|220498|1789031530000"
   ],
   "schema_version": 1,
   "source": {
@@ -33,6 +33,26 @@
       "story_id": "nfl|4217|fantasy_pros|606900|1789040703411",
       "title": "George Kittle off injury report, active for Thursday",
       "url": "https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams running back Blake Corum ranks as an RB3/flex option against the San Francisco 49ers in Week 1, despite his projected role as the No. 2 option behind Kyren Williams. Corum routinely carved out standalone value last year, ranking as the overall RB8 in PPR leagues from Weeks 13-16. This year, Corum is expected to take on a larger, more consistent role. That could start right away in Week 1, despite the fact that Corum has a tougher matchup. The 49ers did allow the 13th-most fantasy points to running backs last year, but a lot of that production came on receptions. Corum isn't a major receiving threat, and the 49ers ranked near the middle of the league in rushing yards and rushing touchdowns allowed. There's also a lot of mouths to feed in this offense, which features Puka Nacua and Davante Adams, in addition to Williams. Nevertheless, Corum enters Week 1 as a low-end RB3/flex.",
+      "metadata": {
+        "description": "Los Angeles Rams running back Blake Corum ranks as an RB3/flex option against the San Francisco 49ers in Week 1, despite his projected role as the No. 2 option behind Kyren Williams. Corum routinely carved out standalone value last year, ranking as the overall RB8 in PPR leagues from Weeks 13-16. This year, Corum is expected to take on a larger, more consistent role. That could start right away in Week 1, despite the fact that Corum has a tougher matchup. The 49ers did allow the 13th-most fantasy points to running backs last year, but a lot of that production came on receptions. Corum isn't a major receiving threat, and the 49ers ranked near the middle of the league in rushing yards and rushing touchdowns allowed. There's also a lot of mouths to feed in this offense, which features Puka Nacua and Davante Adams, in addition to Williams. Nevertheless, Corum enters Week 1 as a low-end RB3/flex.",
+        "title": "Blake Corum Has Standalone Value Despite Tough Matchup",
+        "topic_id": "1403765991141306368",
+        "url": "https://www.rotoballer.com/player-news/blake-corum-has-standalone-value-despite-tough-matchup/1927356"
+      },
+      "nfl_team": "LAR",
+      "player_id": "11586",
+      "player_name": "Blake Corum",
+      "position": "RB",
+      "published": 1789031530000,
+      "source": "rotoballer",
+      "source_key": "220498",
+      "story_id": "nfl|11586|rotoballer|220498|1789031530000",
+      "title": "Blake Corum Has Standalone Value Despite Tough Matchup",
+      "url": "https://www.rotoballer.com/player-news/blake-corum-has-standalone-value-despite-tough-matchup/1927356"
     },
     {
       "analysis": null,
