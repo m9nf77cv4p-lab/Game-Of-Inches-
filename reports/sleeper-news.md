@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2585**
+- Stored stories: **2586**
 - Newly captured: **1**
 
 ## Latest news
@@ -111,7 +111,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Rome Odunze** — Rome Odunze (calf) limited again Thursday (2026-09-10T19:30:21.874000Z)
   - Odunze was limited for a second-straight practice on Thursday as he continues to recover from a lingering calf injury. It's uncertain whether or not he will play in Week 1, but if he is ruled out, fantasy managers should expect more work for Luther Burden III and Zavion Thomas against the Panthers.
   - Source: https://www.fantasypros.com/nfl/news/606962/rome-odunze-calf-limited-again-thursday.php
-- **NEW — Jeremiyah Love** — Jeremiyah Love Limited Again on Thursday (2026-09-10T19:09:05Z)
+- **NEW — Marvin Mims** — Marvin Mims Jr. Looks Ready for Week 1 Against Chiefs (2026-09-10T19:17:06Z)
+  - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-looks-ready-for-week-1-against-chiefs/1927944
+- **Jeremiyah Love** — Jeremiyah Love Limited Again on Thursday (2026-09-10T19:09:05Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-limited-again-on-thursday/1927942
 - **Cooper Kupp** — Cooper Kupp - Has TD nullified after nice 24-yard catch (2026-09-10T19:01:13Z)
   - Kupp turned the tide with a spectacular one-handed grab for 24 yards in the third quarter while the Seahawks trailed 10-0. He thought he had a seven-yard touchdown three plays later, but the scoring play was nullified by an illegal shift penalty. Seattle would settle for a field goal to kickstart a 13-0 run to end the game. Kupp finished a distant second in receiving yards behind Jaxon Smith-Njigba's 122, which could be a preview of the team's pecking order in the passing game all season. Sam Darnold (hip) exited in the first quarter of Wednesday's win, and Drew Lock is likely to be Seattle's starting QB in Week 2 against the Cardinals while Darnold's on the mend.
@@ -245,5 +247,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kenny-gainwell-called-a-freak-of-nature/1927752
 - **Ted Hurst** — Ted Hurst III Continues to Ascend in Bucs' Offense (2026-09-10T14:24:04Z)
   - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-continues-to-ascend-in-bucs-offense/1927740
-- **Chris Godwin** — Chris Godwin Jr. Receives Praise From his QB (2026-09-10T14:19:05Z)
-  - Source: https://www.rotoballer.com/player-news/chris-godwin-jr-receives-praise-from-his-qb/1927737

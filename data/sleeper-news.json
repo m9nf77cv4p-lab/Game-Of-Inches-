@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T23:15:51Z",
+  "last_checked_at": "2026-09-10T23:28:08Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13287|rotoballer|220582|1789067345000"
+    "nfl|9494|rotoballer|220583|1789067826000"
   ],
   "schema_version": 1,
   "source": {
@@ -872,6 +872,26 @@
       "story_id": "nfl|11620|fantasy_pros|606962|1789068621874",
       "title": "Rome Odunze (calf) limited again Thursday",
       "url": "https://www.fantasypros.com/nfl/news/606962/rome-odunze-calf-limited-again-thursday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Marvin Mims Jr. (foot) was the only player listed on the team's practice report on Thursday, but he was a full participant, according to Aric DiLalla of the team's official website. Mims looks ready to go after suffering a foot contusion in the team's preseason finale against the Minnesota Vikings on Aug. 28. He was listed as one of Denver's starting wideouts on their first unofficial depth chart going into Week 1, but that does not mean he will have a big role out of the gate after the Broncos added Jaylen Waddle in an offseason trade. Mims will be competing for the WR3 role this year with Pat Bryant and Troy Franklin behind Waddle and Courtland Sutton. The 24-year-old former second-rounder from Oklahoma has intriguing big-play ability, but he regressed in 2025 in his third year in the league with 37 catches, 322 yards, and only one touchdown in 15 regular-season games after he had a 39-503-6 line in 2024. Mims should be on the waiver wire in 12-team leagues to begin the 2026 campaign and will probably be a boom/bust WR4/flex option, at best, in his fourth year in the league.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Marvin Mims Jr. (foot) was the only player listed on the team's practice report on Thursday, but he was a full participant, according to Aric DiLalla of the team's official website. Mims looks ready to go after suffering a foot contusion in the team's preseason finale against the Minnesota Vikings on Aug. 28. He was listed as one of Denver's starting wideouts on their first unofficial depth chart going into Week 1, but that does not mean he will have a big role out of the gate after the Broncos added Jaylen Waddle in an offseason trade. Mims will be competing for the WR3 role this year with Pat Bryant and Troy Franklin behind Waddle and Courtland Sutton. The 24-year-old former second-rounder from Oklahoma has intriguing big-play ability, but he regressed in 2025 in his third year in the league with 37 catches, 322 yards, and only one touchdown in 15 regular-season games after he had a 39-503-6 line in 2024. Mims should be on the waiver wire in 12-team leagues to begin the 2026 campaign and will probably be a boom/bust WR4/flex option, at best, in his fourth year in the league.",
+        "title": "Marvin Mims Jr. Looks Ready for Week 1 Against Chiefs",
+        "topic_id": "1403917096110297088",
+        "url": "https://www.rotoballer.com/player-news/marvin-mims-jr-looks-ready-for-week-1-against-chiefs/1927944"
+      },
+      "nfl_team": "DEN",
+      "player_id": "9494",
+      "player_name": "Marvin Mims",
+      "position": "WR",
+      "published": 1789067826000,
+      "source": "rotoballer",
+      "source_key": "220583",
+      "story_id": "nfl|9494|rotoballer|220583|1789067826000",
+      "title": "Marvin Mims Jr. Looks Ready for Week 1 Against Chiefs",
+      "url": "https://www.rotoballer.com/player-news/marvin-mims-jr-looks-ready-for-week-1-against-chiefs/1927944"
     },
     {
       "analysis": null,
