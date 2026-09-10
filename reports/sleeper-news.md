@@ -2,24 +2,27 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2477**
-- Newly captured: **7**
+- Stored stories: **2479**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Romeo Doubs** — Romeo Doubs fails to log catch Wednesday (2026-09-10T15:15:04.932000Z)
+- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba electric in win Wednesday (2026-09-10T15:35:04.138000Z)
+  - On Wednesday, Smith-Njigba picked up right where he left off last season, exploding for 122 yards and a touchdown in a big win over the Patriots. He did that with Drew Lock throwing him passes after starter Sam Darnold went down with a hip injury earlier in the game. Fantasy managers should be happy with his performance in this matchup but should keep a close eye on the health of Darnold, as the young wideout's week-to-week ceiling will certainly take a hit if their starting QB misses significant time.
+  - Source: https://www.fantasypros.com/nfl/news/606921/jaxon-smith-njigba-electric-win-wednesday.php
+- **Romeo Doubs** — Romeo Doubs fails to log catch Wednesday (2026-09-10T15:15:04.932000Z)
   - Doubs did not get off to a good start with his new team on Wednesday night. He failed to haul in even a single catch against a tough Seattle defense, and he had a costly drop on a very important play late in the game. He should bounce back in the near future and may be a worthwhile fantasy option short-term with A.J. Brown (ankle) expected to miss a bit of time due to injury.
   - Source: https://www.fantasypros.com/nfl/news/606910/romeo-doubs-fails-to-log-catch-wednesday.php
-- **NEW — Hunter Henry** — Hunter Henry hauls in three passes Wednesday (2026-09-10T15:15:04.918000Z)
+- **Hunter Henry** — Hunter Henry hauls in three passes Wednesday (2026-09-10T15:15:04.918000Z)
   - New England's offense wasn't very effective on Wednesday night, and Henry was no exception to that. He totaled just 26 scoreless yards against the Seahawks, which left him with a poor fantasy total. His value as a streaming option may be diminished this year with Eli Raridon seemingly primed to be more involved at the tight end position for the Patriots.
   - Source: https://www.fantasypros.com/nfl/news/606911/hunter-henry-hauls-three-passes-wednesday.php
-- **NEW — DeMario Douglas** — DeMario Douglas catches five passes Wednesday (2026-09-10T15:15:04.905000Z)
+- **DeMario Douglas** — DeMario Douglas catches five passes Wednesday (2026-09-10T15:15:04.905000Z)
   - Douglas was the most targeted receiver for New England last night, but he wasn't able to turn that into any fantasy success. He ended with just 20 yards on five catches, but he may continue to see high opportunities for the foreseeable future with A.J. Brown (ankle) set to miss some time for the team.
   - Source: https://www.fantasypros.com/nfl/news/606912/demario-douglas-catches-five-passes-wednesday.php
-- **NEW — Drake Maye** — Drake Maye throws three interceptions in loss Wednesday (2026-09-10T15:05:04.561000Z)
+- **Drake Maye** — Drake Maye throws three interceptions in loss Wednesday (2026-09-10T15:05:04.561000Z)
   - Maye started the season on the wrong foot on Wednesday night. He threw for under 200 yards and three interceptions against a tough Seattle defense, including one that cost the Patriots the game. He still showed lots of ability on the ground, however, and he's likely to return to being a good fantasy option against easier defenses. The loss of A.J. Brown (ankle) for at least a few games will severely hamper his short-term upside, however.
   - Source: https://www.fantasypros.com/nfl/news/606908/drake-maye-throws-three-interceptions-loss-wednesday.php
-- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson totals 95 yards Wednesday (2026-09-10T15:05:04.548000Z)
+- **Rhamondre Stevenson** — Rhamondre Stevenson totals 95 yards Wednesday (2026-09-10T15:05:04.548000Z)
   - Stevenson was New England's workhorse running back on Wednesday night with TreVeyon Henderson (ankle) out of the lineup. He ran at an inefficient clip of 2.8 yards per carry on the night, but his fantasy total was saved by the fact that he caught five passes. He will be more efficient than this in the future but will lose passing work to Henderson when he's back, so he will likely continue to be touchdown dependent on a week-to-week basis.
   - Source: https://www.fantasypros.com/nfl/news/606909/rhamondre-stevenson-totals-95-yards-wednesday.php
 - **Mike Washington** — Mike Washington - Expected to be involved in Week 1 gameplan (2026-09-10T14:49:15Z)
@@ -32,9 +35,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **George Kittle** — George Kittle off injury report, active for Thursday (2026-09-10T11:45:03.411000Z)
   - Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.
   - Source: https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php
-- **NEW — Tucker Kraft** — Tucker Kraft Contract Talks Could Reset Tight End Market (2026-09-10T11:13:18Z)
+- **NEW — Jordan Love** — Jordan Love May Have to Carry More of Green Bay's Offense (2026-09-10T11:27:49Z)
+  - Source: https://www.rotoballer.com/player-news/jordan-love-may-have-to-carry-more-of-green-bays-offense/1927522
+- **Tucker Kraft** — Tucker Kraft's Contract Talks Could Reset Tight End Market (2026-09-10T11:13:18Z)
   - Source: https://www.rotoballer.com/player-news/tucker-kraft-contract-talks-could-reset-tight-end-market/1927509
-- **NEW — Isaiah Likely** — Isaiah Likely Could Hit The Ground Running This Season (2026-09-10T10:59:09Z)
+- **Isaiah Likely** — Isaiah Likely Could Hit The Ground Running This Season (2026-09-10T10:59:09Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-likely-could-hit-the-ground-running-this-season/1927495
 - **Daniel Jones** — Daniel Jones Could Be Looking At Big Year With Full Health (2026-09-10T10:44:05Z)
   - Source: https://www.rotoballer.com/player-news/daniel-jones-could-be-looking-at-big-year-with-full-health/1927485
@@ -42,7 +47,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/brock-bowers-likely-out-for-week-2-as-well/1927470
 - **George Kittle** — George Kittle Will Be On "Pitch Count" During Season Opener (2026-09-10T10:14:05Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-will-be-on-pitch-count-during-season-opener/1927462
-- **A.J. Brown** — A.J. Brown Diagnosed with a High Ankle Sprain (2026-09-10T10:04:05Z)
+- **A.J. Brown** — A.J. Brown Diagnosed with a High-Ankle Sprain (2026-09-10T10:04:05Z)
   - Source: https://www.rotoballer.com/player-news/a-j-brown-diagnosed-with-a-high-ankle-sprain/1927456
 - **Dallas Goedert** — Dallas Goedert Set for a Major Role (2026-09-10T09:55:05Z)
   - Source: https://www.rotoballer.com/player-news/dallas-goedert-set-for-a-major-role/1927443
@@ -233,8 +238,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jeremiyah Love** — Jeremiyah Love (ankle) expected to practice in full Wednesday (2026-09-09T21:35:48.305000Z)
   - The rookie is expected to be a full participant at Arizona's practice on Wednesday. He suffered a high-ankle sprain several weeks ago, but the team feels good about his recovery, and he will have a real chance to make his NFL debut in Week 1. Fantasy managers should continue to keep close tabs on updates about his health throughout the rest of the week.
   - Source: https://www.fantasypros.com/nfl/news/606796/jeremiyah-love-ankle-expected-to-practice-full-wednesday.php
-- **Isaiah Davis** — Isaiah Davis - Logs full practice Wednesday (2026-09-09T21:35:48Z)
-  - Davis missed training camp practices and preseason games while recovering from a knee injury, but his full participation in Wednesday's session indicates that he'll be available for Sunday's regular-season opener against the Titans. The third-year pro projects to serve as the Jets' RB3 this season behind Breece Hall and Braelon Allen.
-- **Michael Pittman** — Michael Pittman Jr. (hamstring) good to go for Sunday (2026-09-09T21:35:47.901000Z)
-  - Pittman is now fully recovered from the hamstring injury he was dealing with earlier and is set to be a full go against the Falcons on Sunday. He shouldn't be started in most league formats but remains an intriguing player to watch and evaluate in his first game as a member of his new team.
-  - Source: https://www.fantasypros.com/nfl/news/606793/michael-pittman-jr-hamstring-good-to-go-sunday.php

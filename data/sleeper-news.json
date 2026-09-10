@@ -1,15 +1,10 @@
 {
-  "last_checked_at": "2026-09-10T15:22:39Z",
+  "last_checked_at": "2026-09-10T15:38:10Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11564|fantasy_pros|606908|1789052704561",
-    "nfl|3214|fantasy_pros|606911|1789053304918",
-    "nfl|7611|fantasy_pros|606909|1789052704548",
-    "nfl|8121|fantasy_pros|606910|1789053304932",
-    "nfl|8131|rotoballer|220518|1789037949000",
-    "nfl|9484|rotoballer|220519|1789038798000",
-    "nfl|9501|fantasy_pros|606912|1789053304905"
+    "nfl|6804|rotoballer|220520|1789039669000",
+    "nfl|9488|fantasy_pros|606921|1789054504138"
   ],
   "schema_version": 1,
   "source": {
@@ -19,6 +14,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "On Wednesday, Smith-Njigba picked up right where he left off last season, exploding for 122 yards and a touchdown in a big win over the Patriots. He did that with Drew Lock throwing him passes after starter Sam Darnold went down with a hip injury earlier in the game. Fantasy managers should be happy with his performance in this matchup but should keep a close eye on the health of Darnold, as the young wideout's week-to-week ceiling will certainly take a hit if their starting QB misses significant time.",
+      "description": "Jaxon Smith-Njigba caught 8-of-11 targets for 122 yards and a touchdown in Wednesday night's 13-10 win over the New England Patriots.",
+      "metadata": {
+        "analysis": "On Wednesday, Smith-Njigba picked up right where he left off last season, exploding for 122 yards and a touchdown in a big win over the Patriots. He did that with Drew Lock throwing him passes after starter Sam Darnold went down with a hip injury earlier in the game. Fantasy managers should be happy with his performance in this matchup but should keep a close eye on the health of Darnold, as the young wideout's week-to-week ceiling will certainly take a hit if their starting QB misses significant time.",
+        "description": "Jaxon Smith-Njigba caught 8-of-11 targets for 122 yards and a touchdown in Wednesday night's 13-10 win over the New England Patriots.",
+        "title": "Jaxon Smith-Njigba electric in win Wednesday",
+        "topic_id": "1403799972687708160",
+        "url": "https://www.fantasypros.com/nfl/news/606921/jaxon-smith-njigba-electric-win-wednesday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9488",
+      "player_name": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "published": 1789054504138,
+      "source": "fantasy_pros",
+      "source_key": "606921",
+      "story_id": "nfl|9488|fantasy_pros|606921|1789054504138",
+      "title": "Jaxon Smith-Njigba electric in win Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606921/jaxon-smith-njigba-electric-win-wednesday.php"
+    },
     {
       "analysis": "Doubs did not get off to a good start with his new team on Wednesday night. He failed to haul in even a single catch against a tough Seattle defense, and he had a costly drop on a very important play late in the game. He should bounce back in the near future and may be a worthwhile fantasy option short-term with A.J. Brown (ankle) expected to miss a bit of time due to injury.",
       "description": "Romeo Doubs didn't haul in any of his three targets in Wednesday night's 10-13 loss to the Seattle Seahawks.",
@@ -208,10 +224,30 @@
     },
     {
       "analysis": null,
+      "description": "Green Bay Packers quarterback Jordan Love could have more put on his plate than we've seen the past couple of seasons. Josh Jacobs remains unavailable, leaving Green Bay to sort through an unproven group of running backs as the season begins. Love didn't need huge volume to play well last year, completing a career-high 66.3% of his passes for 3,381 yards, 23 touchdowns and only six interceptions on 439 attempts. Fantasy managers have already seen what happens when those attempts climb. Love threw 579 times for 4,159 yards and 32 touchdowns in 2023, his best fantasy season by far. The receiving group is also in better shape, with Christian Watson, Jayden Reed and Tucker Kraft all off the initial injury report. Love still doesn't give managers much of a rushing floor, and Minnesota isn't an easy opening matchup. This is more about what comes next. If Green Bay can't lean on the running game the way it has recently, Love's fantasy ceiling gets a lot more interesting.",
+      "metadata": {
+        "description": "Green Bay Packers quarterback Jordan Love could have more put on his plate than we've seen the past couple of seasons. Josh Jacobs remains unavailable, leaving Green Bay to sort through an unproven group of running backs as the season begins. Love didn't need huge volume to play well last year, completing a career-high 66.3% of his passes for 3,381 yards, 23 touchdowns and only six interceptions on 439 attempts. Fantasy managers have already seen what happens when those attempts climb. Love threw 579 times for 4,159 yards and 32 touchdowns in 2023, his best fantasy season by far. The receiving group is also in better shape, with Christian Watson, Jayden Reed and Tucker Kraft all off the initial injury report. Love still doesn't give managers much of a rushing floor, and Minnesota isn't an easy opening matchup. This is more about what comes next. If Green Bay can't lean on the running game the way it has recently, Love's fantasy ceiling gets a lot more interesting.",
+        "title": "Jordan Love May Have to Carry More of Green Bay's Offense",
+        "topic_id": "1403799967511908352",
+        "url": "https://www.rotoballer.com/player-news/jordan-love-may-have-to-carry-more-of-green-bays-offense/1927522"
+      },
+      "nfl_team": "GB",
+      "player_id": "6804",
+      "player_name": "Jordan Love",
+      "position": "QB",
+      "published": 1789039669000,
+      "source": "rotoballer",
+      "source_key": "220520",
+      "story_id": "nfl|6804|rotoballer|220520|1789039669000",
+      "title": "Jordan Love May Have to Carry More of Green Bay's Offense",
+      "url": "https://www.rotoballer.com/player-news/jordan-love-may-have-to-carry-more-of-green-bays-offense/1927522"
+    },
+    {
+      "analysis": null,
       "description": "Green Bay Packers tight end Tucker Kraft remains in contract talks with the team, and the next deal at the position could be a big one. ESPN's Jeremy Fowler reports that Green Bay hopes to get something done by the end of Week 1, with Kraft in position to become the first tight end to reach $20 million per year. George Kittle currently tops the market at $19.1 million annually, just ahead of Trey McBride at $19 million. Kraft is entering the final year of his rookie contract after catching 32 passes for 489 yards and six touchdowns in eight games last season before tearing his ACL against Carolina. He returned from the PUP list on July 31 and worked back into 11-on-11 drills in August. If the two sides can close the gap, Kraft's deal could be the one that finally pushes the tight-end market past $20 million.",
       "metadata": {
         "description": "Green Bay Packers tight end Tucker Kraft remains in contract talks with the team, and the next deal at the position could be a big one. ESPN's Jeremy Fowler reports that Green Bay hopes to get something done by the end of Week 1, with Kraft in position to become the first tight end to reach $20 million per year. George Kittle currently tops the market at $19.1 million annually, just ahead of Trey McBride at $19 million. Kraft is entering the final year of his rookie contract after catching 32 passes for 489 yards and six touchdowns in eight games last season before tearing his ACL against Carolina. He returned from the PUP list on July 31 and worked back into 11-on-11 drills in August. If the two sides can close the gap, Kraft's deal could be the one that finally pushes the tight-end market past $20 million.",
-        "title": "Tucker Kraft Contract Talks Could Reset Tight End Market",
+        "title": "Tucker Kraft's Contract Talks Could Reset Tight End Market",
         "topic_id": "1403796193145847808",
         "url": "https://www.rotoballer.com/player-news/tucker-kraft-contract-talks-could-reset-tight-end-market/1927509"
       },
@@ -223,14 +259,14 @@
       "source": "rotoballer",
       "source_key": "220519",
       "story_id": "nfl|9484|rotoballer|220519|1789038798000",
-      "title": "Tucker Kraft Contract Talks Could Reset Tight End Market",
+      "title": "Tucker Kraft's Contract Talks Could Reset Tight End Market",
       "url": "https://www.rotoballer.com/player-news/tucker-kraft-contract-talks-could-reset-tight-end-market/1927509"
     },
     {
       "analysis": null,
-      "description": "New York Giants tight end Isaiah Likely is creating some real buzz in the fantasy community mostly because he is no longer blocked for playing time behind Mark Andrews for the Baltimore Ravens. He has been impressive in training camp and there is a real belief among many who follow the team that he emerges as the No. 2 target behind Malik Nabers on the outside for the Giants. Adam Bernstein of GMENHQ, a Giants blog, wrote this about Likely: \"Given the state of New York's receiver room, there's a real chance he functions as Dart's No. 2 receiving option behind Malik Nabers.\" Likeley played in 14 games last year with the Baltimore Ravens and caught 27 passes for 307 yards and a touchdown playing most of the season behind Andrews on the depth chart. This is an opportunity for a breakout season for Likely in an expanded role.",
+      "description": "New York Giants tight end Isaiah Likely is creating some real buzz in the fantasy community, mostly because he is no longer blocked from playing time behind Mark Andrews for the Baltimore Ravens. He has been impressive in training camp, and there is a real belief among many who follow the team that he emerges as the No. 2 target behind Malik Nabers on the outside for the Giants. Adam Bernstein of GMENHQ, a Giants blog, wrote this about Likely: \"Given the state of New York's receiver room, there's a real chance he functions as Dart's No. 2 receiving option behind Malik Nabers.\" Likely played in 14 games last year with the Baltimore Ravens and caught 27 passes for 307 yards and a touchdown, playing most of the season behind Andrews on the depth chart. This is an opportunity for a breakout season for Likely in an expanded role.",
       "metadata": {
-        "description": "New York Giants tight end Isaiah Likely is creating some real buzz in the fantasy community mostly because he is no longer blocked for playing time behind Mark Andrews for the Baltimore Ravens. He has been impressive in training camp and there is a real belief among many who follow the team that he emerges as the No. 2 target behind Malik Nabers on the outside for the Giants. Adam Bernstein of GMENHQ, a Giants blog, wrote this about Likely: \"Given the state of New York's receiver room, there's a real chance he functions as Dart's No. 2 receiving option behind Malik Nabers.\" Likeley played in 14 games last year with the Baltimore Ravens and caught 27 passes for 307 yards and a touchdown playing most of the season behind Andrews on the depth chart. This is an opportunity for a breakout season for Likely in an expanded role.",
+        "description": "New York Giants tight end Isaiah Likely is creating some real buzz in the fantasy community, mostly because he is no longer blocked from playing time behind Mark Andrews for the Baltimore Ravens. He has been impressive in training camp, and there is a real belief among many who follow the team that he emerges as the No. 2 target behind Malik Nabers on the outside for the Giants. Adam Bernstein of GMENHQ, a Giants blog, wrote this about Likely: \"Given the state of New York's receiver room, there's a real chance he functions as Dart's No. 2 receiving option behind Malik Nabers.\" Likely played in 14 games last year with the Baltimore Ravens and caught 27 passes for 307 yards and a touchdown, playing most of the season behind Andrews on the depth chart. This is an opportunity for a breakout season for Likely in an expanded role.",
         "title": "Isaiah Likely Could Hit The Ground Running This Season",
         "topic_id": "1403793675464519680",
         "url": "https://www.rotoballer.com/player-news/isaiah-likely-could-hit-the-ground-running-this-season/1927495"
@@ -248,9 +284,9 @@
     },
     {
       "analysis": null,
-      "description": "Indianapolis Colts quarterback Daniel Jones is making his way back from a torn Achilles he suffered about nine months ago in Jacksonville. Jones hasn't played in an preseason games but turned heads within the Colts organization for a positive return from the devastating injury. Jones passed for 3,101 yards and 19 touchdowns last season and has added to he receiver room with Keenan Allen coming in and having Alec Pierce and Josh Downs on the outside with Tyler Warren at tight end. It's a good group of receiving talent, which sets up Jones nicely for a good season, but the main thing is that he appears to have put the injury behind him. He's always brought scrambling to the table a little bit and should continue to do that after rushing for 164 yards in 2025.",
+      "description": "Indianapolis Colts quarterback Daniel Jones is making his way back from a torn Achilles he suffered about nine months ago in Jacksonville. Jones did not play in any preseason games but turned heads within the Colts organization for a positive return from the devastating injury. Jones passed for 3,101 yards and 19 touchdowns last season and has added to he receiver room with Keenan Allen coming in and having Alec Pierce and Josh Downs on the outside with Tyler Warren at tight end. It's a good group of receiving talent, which sets up Jones nicely for a good season, but the main thing is that he appears to have put the injury behind him. He's always brought scrambling to the table a little bit and should continue to do that after rushing for 164 yards in 2025.",
       "metadata": {
-        "description": "Indianapolis Colts quarterback Daniel Jones is making his way back from a torn Achilles he suffered about nine months ago in Jacksonville. Jones hasn't played in an preseason games but turned heads within the Colts organization for a positive return from the devastating injury. Jones passed for 3,101 yards and 19 touchdowns last season and has added to he receiver room with Keenan Allen coming in and having Alec Pierce and Josh Downs on the outside with Tyler Warren at tight end. It's a good group of receiving talent, which sets up Jones nicely for a good season, but the main thing is that he appears to have put the injury behind him. He's always brought scrambling to the table a little bit and should continue to do that after rushing for 164 yards in 2025.",
+        "description": "Indianapolis Colts quarterback Daniel Jones is making his way back from a torn Achilles he suffered about nine months ago in Jacksonville. Jones did not play in any preseason games but turned heads within the Colts organization for a positive return from the devastating injury. Jones passed for 3,101 yards and 19 touchdowns last season and has added to he receiver room with Keenan Allen coming in and having Alec Pierce and Josh Downs on the outside with Tyler Warren at tight end. It's a good group of receiving talent, which sets up Jones nicely for a good season, but the main thing is that he appears to have put the injury behind him. He's always brought scrambling to the table a little bit and should continue to do that after rushing for 164 yards in 2025.",
         "title": "Daniel Jones Could Be Looking At Big Year With Full Health",
         "topic_id": "1403788642404581376",
         "url": "https://www.rotoballer.com/player-news/daniel-jones-could-be-looking-at-big-year-with-full-health/1927485"
@@ -268,9 +304,9 @@
     },
     {
       "analysis": null,
-      "description": "Las Vegas Raiders star tight end Brock Bowers reportedly had a mensiscus trim surgery done in Dallas and according to NFL Network Insider Ian Rapoport he could miss Week 2. \"Out the opener, probably out week 2 and then we will see after that,\" Rapoport said on Good Morning Football. Rapoport did note that the fact that it was a meniscus trim rather than a meniscus repair is a promising sign as he says the trim surgeries are measured in weeks rather than months for meniscus repairs. Bowers is an elite tight end so his fantasy managers don't want to hear the news of his absence. But if he can keep it at just a two-week absence it will be manageable and will avoid potential disaster. But now it does sound like Bowers is unlikely for Week 2 as well.",
+      "description": "Las Vegas Raiders star tight end Brock Bowers (knee) reportedly had meniscus trim surgery done in Dallas, and according to NFL Network insider Ian Rapoport, he could miss Week 2. \"Out the opener, probably out Week 2, and then we will see after that,\" Rapoport said on Good Morning Football. Rapoport did note that the fact that it was a meniscus trim rather than a meniscus repair is a promising sign, as he says the trim surgeries are measured in weeks rather than months for meniscus repairs. Bowers is an elite tight end, so his fantasy managers don't want to hear the news of his absence. But if he can keep it at just a two-week absence, it will be manageable and will avoid potential disaster. But now it does sound like Bowers is unlikely for Week 2 as well.",
       "metadata": {
-        "description": "Las Vegas Raiders star tight end Brock Bowers reportedly had a mensiscus trim surgery done in Dallas and according to NFL Network Insider Ian Rapoport he could miss Week 2. \"Out the opener, probably out week 2 and then we will see after that,\" Rapoport said on Good Morning Football. Rapoport did note that the fact that it was a meniscus trim rather than a meniscus repair is a promising sign as he says the trim surgeries are measured in weeks rather than months for meniscus repairs. Bowers is an elite tight end so his fantasy managers don't want to hear the news of his absence. But if he can keep it at just a two-week absence it will be manageable and will avoid potential disaster. But now it does sound like Bowers is unlikely for Week 2 as well.",
+        "description": "Las Vegas Raiders star tight end Brock Bowers (knee) reportedly had meniscus trim surgery done in Dallas, and according to NFL Network insider Ian Rapoport, he could miss Week 2. \"Out the opener, probably out Week 2, and then we will see after that,\" Rapoport said on Good Morning Football. Rapoport did note that the fact that it was a meniscus trim rather than a meniscus repair is a promising sign, as he says the trim surgeries are measured in weeks rather than months for meniscus repairs. Bowers is an elite tight end, so his fantasy managers don't want to hear the news of his absence. But if he can keep it at just a two-week absence, it will be manageable and will avoid potential disaster. But now it does sound like Bowers is unlikely for Week 2 as well.",
         "title": "Brock Bowers Likely Out For Week 2 As Well",
         "topic_id": "1403783608128241664",
         "url": "https://www.rotoballer.com/player-news/brock-bowers-likely-out-for-week-2-as-well/1927470"
@@ -311,7 +347,7 @@
       "description": "New England Patriots wide receiver A.J. Brown (ankle) had a quiet debut with three catches for 26 yards on Wednesday night, before he was forced to leave with an injury. According to NFL Network's Ian Rapoport and Mike Garafolo, Brown is believed to have suffered a high-ankle sprain, which is an injury that usually requires multiple weeks to recover from. While X-Rays were negative for a fracture, the star receiver will have an MRI on Thursday to give the team a better timetable of how much time he'll miss. While Brown is out, Romeo Doubs will need to step up as he looks to rebound from his own disappointing debut. Kyle Williams, Mack Hollins, and DeMario Douglas will also likely get more playing time and targets, giving them the potential to pick up more work and fantasy value for as long as Brown is out.",
       "metadata": {
         "description": "New England Patriots wide receiver A.J. Brown (ankle) had a quiet debut with three catches for 26 yards on Wednesday night, before he was forced to leave with an injury. According to NFL Network's Ian Rapoport and Mike Garafolo, Brown is believed to have suffered a high-ankle sprain, which is an injury that usually requires multiple weeks to recover from. While X-Rays were negative for a fracture, the star receiver will have an MRI on Thursday to give the team a better timetable of how much time he'll miss. While Brown is out, Romeo Doubs will need to step up as he looks to rebound from his own disappointing debut. Kyle Williams, Mack Hollins, and DeMario Douglas will also likely get more playing time and targets, giving them the potential to pick up more work and fantasy value for as long as Brown is out.",
-        "title": "A.J. Brown Diagnosed with a High Ankle Sprain",
+        "title": "A.J. Brown Diagnosed with a High-Ankle Sprain",
         "topic_id": "1403777315866943488",
         "url": "https://www.rotoballer.com/player-news/a-j-brown-diagnosed-with-a-high-ankle-sprain/1927456"
       },
@@ -323,7 +359,7 @@
       "source": "rotoballer",
       "source_key": "220513",
       "story_id": "nfl|5859|rotoballer|220513|1789034645000",
-      "title": "A.J. Brown Diagnosed with a High Ankle Sprain",
+      "title": "A.J. Brown Diagnosed with a High-Ankle Sprain",
       "url": "https://www.rotoballer.com/player-news/a-j-brown-diagnosed-with-a-high-ankle-sprain/1927456"
     },
     {
