@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-10T16:01:14Z",
+  "last_checked_at": "2026-09-10T16:19:39Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|2449|rotoballer|220523|1789041127000"
+    "nfl|12492|rotoballer|220525|1789041965000",
+    "nfl|5850|rotowire|636680|1789056765000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "With Jacobs still unavailable to practice or play while on the exempt list, Green Bay's backfield remains without its top running back.",
+      "description": "Jacobs (personal) appeared in court Thursday and pleaded no contest to misdemeanor charges of battery and criminal damage to property, Matt Schneidman of The Athletic reports.",
+      "metadata": {
+        "analysis": "With Jacobs still unavailable to practice or play while on the exempt list, Green Bay's backfield remains without its top running back.",
+        "description": "Jacobs (personal) appeared in court Thursday and pleaded no contest to misdemeanor charges of battery and criminal damage to property, Matt Schneidman of The Athletic reports.",
+        "title": "Josh Jacobs - Appears in court Thursday",
+        "topic_id": "1403810037406646272"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1789056765000,
+      "source": "rotowire",
+      "source_key": "636680",
+      "story_id": "nfl|5850|rotowire|636680|1789056765000",
+      "title": "Josh Jacobs - Appears in court Thursday",
+      "url": null
+    },
     {
       "analysis": "Myers did his job on Wednesday, knocking in all three of his kicks en route to a win over the Patriots. He will likely be a decent fantasy option at the position over the course of the season, assuming QB Sam Darnold (hip) doesn't miss significant time and leave the offense weaker moving forward.",
       "description": "Jason Myers went 2-for-2 on his field-goal attempts and made his lone extra-point attempt in Wednesday's 13-10 win over the New England Patriots.",
@@ -325,6 +346,26 @@
       "story_id": "nfl|5859|rotowire|636678|1789049085000",
       "title": "A.J. Brown - Believed to have high-ankle sprain",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "There was a lot of positive talk coming out of Denver Broncos training camp this summer about second-year wide receiver Pat Bryant, the team's third-round pick in 2025. The Broncos' big offseason move was acquiring speedy receiver Jaylen Waddle from the Miami Dolphins, and Courtland Sutton will continue to be a factor. But the praise about Bryant's Year 2 improvements makes ESPN's Dan Graziano wonder if he could \"force his way into a bigger role than expected.\" Graziano does not think that people should be shocked if Bryant is a big part of Denver's new-look passing attack in their Monday night opener on the road in Week 1 against the division-rival Kansas City Chiefs. The 23-year-old from Illinois caught 31 of his 49 targets for 378 yards and only one touchdown in 15 regular-season games in 2025 as a rookie, but he was more involved later in the year while battling multiple injuries. The Broncos' WR room is more crowded than ever, and Bryant will have to compete for targets with Troy Franklin and Marvin Mims Jr., but he is an intriguing upside bench stash in deeper fantasy formats in an ascending Broncos offense. Bryant is currently rostered in 7% of Yahoo leagues.",
+      "metadata": {
+        "description": "There was a lot of positive talk coming out of Denver Broncos training camp this summer about second-year wide receiver Pat Bryant, the team's third-round pick in 2025. The Broncos' big offseason move was acquiring speedy receiver Jaylen Waddle from the Miami Dolphins, and Courtland Sutton will continue to be a factor. But the praise about Bryant's Year 2 improvements makes ESPN's Dan Graziano wonder if he could \"force his way into a bigger role than expected.\" Graziano does not think that people should be shocked if Bryant is a big part of Denver's new-look passing attack in their Monday night opener on the road in Week 1 against the division-rival Kansas City Chiefs. The 23-year-old from Illinois caught 31 of his 49 targets for 378 yards and only one touchdown in 15 regular-season games in 2025 as a rookie, but he was more involved later in the year while battling multiple injuries. The Broncos' WR room is more crowded than ever, and Bryant will have to compete for targets with Troy Franklin and Marvin Mims Jr., but he is an intriguing upside bench stash in deeper fantasy formats in an ascending Broncos offense. Bryant is currently rostered in 7% of Yahoo leagues.",
+        "title": "Pat Bryant Could Force his Way into Bigger Role in 2026",
+        "topic_id": "1403810035401760768",
+        "url": "https://www.rotoballer.com/player-news/pat-bryant-could-force-his-way-into-bigger-role-in-2026/1927561"
+      },
+      "nfl_team": "DEN",
+      "player_id": "12492",
+      "player_name": "Pat Bryant",
+      "position": "WR",
+      "published": 1789041965000,
+      "source": "rotoballer",
+      "source_key": "220525",
+      "story_id": "nfl|12492|rotoballer|220525|1789041965000",
+      "title": "Pat Bryant Could Force his Way into Bigger Role in 2026",
+      "url": "https://www.rotoballer.com/player-news/pat-bryant-could-force-his-way-into-bigger-role-in-2026/1927561"
     },
     {
       "analysis": null,

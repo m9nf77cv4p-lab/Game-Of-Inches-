@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2487**
-- Newly captured: **1**
+- Stored stories: **2489**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Josh Jacobs** — Josh Jacobs - Appears in court Thursday (2026-09-10T16:12:45Z)
+  - With Jacobs still unavailable to practice or play while on the exempt list, Green Bay's backfield remains without its top running back.
 - **Jason Myers** — Jason Myers scores seven points in win Wednesday (2026-09-10T15:50:04.707000Z)
   - Myers did his job on Wednesday, knocking in all three of his kicks en route to a win over the Patriots. He will likely be a decent fantasy option at the position over the course of the season, assuming QB Sam Darnold (hip) doesn't miss significant time and leave the offense weaker moving forward.
   - Source: https://www.fantasypros.com/nfl/news/606930/jason-myers-scores-seven-points-win-wednesday.php
@@ -50,7 +52,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php
 - **A.J. Brown** — A.J. Brown - Believed to have high-ankle sprain (2026-09-10T14:04:45Z)
   - In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before departing in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.
-- **NEW — Stefon Diggs** — Stefon Diggs May Not Be Slowing Down Yet (2026-09-10T11:52:07Z)
+- **NEW — Pat Bryant** — Pat Bryant Could Force his Way into Bigger Role in 2026 (2026-09-10T12:06:05Z)
+  - Source: https://www.rotoballer.com/player-news/pat-bryant-could-force-his-way-into-bigger-role-in-2026/1927561
+- **Stefon Diggs** — Stefon Diggs May Not Be Slowing Down Yet (2026-09-10T11:52:07Z)
   - Source: https://www.rotoballer.com/player-news/stefon-diggs-may-not-be-slowing-down-yet/1927551
 - **George Kittle** — George Kittle off injury report, active for Thursday (2026-09-10T11:45:03.411000Z)
   - Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.
@@ -235,8 +239,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Rachaad White** — Rachaad White (hamstring) off injury report for Sunday (2026-09-09T22:00:47.986000Z)
   - The veteran running back is fully over his hamstring injury at this point and is set to be a full go for Washington's season opener on Sunday. He will be primed for more work if Jacory Croskey-Merritt (groin) is limited or sidelined for the team's matchup against the Eagles.
   - Source: https://www.fantasypros.com/nfl/news/606804/rachaad-white-hamstring-off-injury-report-sunday.php
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) limited participant Wednesday (2026-09-09T22:00:47.973000Z)
-  - Croskey-Merritt is managing a groin injury right now and was unable to log a full practice session on Wednesday as a result. There's an off-chance that it will leave him sidelined for Week 1, which would lead to more work for Rachaad White against the Eagles.
-  - Source: https://www.fantasypros.com/nfl/news/606805/jacory-croskey-merritt-groin-limited-participant-wednesday.php
-- **Zay Flowers** — Zay Flowers Limited During Wednesday's Practice (2026-09-09T22:00:06Z)
-  - Source: https://www.rotoballer.com/player-news/zay-flowers-was-limited-during-wednesdays-practice/1927205
