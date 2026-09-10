@@ -1,12 +1,11 @@
 {
-  "last_checked_at": "2026-09-10T16:46:56Z",
+  "last_checked_at": "2026-09-10T16:57:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|4943|rotoballer|220531|1789043795000",
-    "nfl|4943|rotowire|636682|1789057807000",
-    "nfl|5850|rotoballer|220530|1789043409000",
-    "nfl|8155|rotowire|636683|1789058514000"
+    "nfl|4943|fantasy_pros|606941|1789059004794",
+    "nfl|4943|rotowire|636684|1789058874000",
+    "nfl|5947|rotoballer|220532|1789044305000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +15,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Darnold is continuing to be further evaluated. He'll miss at least one game with a return by Week 3 seemingly being a possibility. ",
+      "description": "Ian Rapoport reports that Sam Darnold is expected to miss Week 2 against the Cardinals. ",
+      "metadata": {
+        "analysis": "Darnold is continuing to be further evaluated. He'll miss at least one game with a return by Week 3 seemingly being a possibility. ",
+        "description": "Ian Rapoport reports that Sam Darnold is expected to miss Week 2 against the Cardinals. ",
+        "title": "Sam Darnold (hip) expected to miss Week 2",
+        "topic_id": "1403818849807147008",
+        "url": "https://www.fantasypros.com/nfl/news/606941/sam-darnold-hip-expected-to-miss-week-2.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1789059004794,
+      "source": "fantasy_pros",
+      "source_key": "606941",
+      "story_id": "nfl|4943|fantasy_pros|606941|1789059004794",
+      "title": "Sam Darnold (hip) expected to miss Week 2",
+      "url": "https://www.fantasypros.com/nfl/news/606941/sam-darnold-hip-expected-to-miss-week-2.php"
+    },
+    {
+      "analysis": "Darnold avoided a major injury, but he's likely to miss at least one game as a result of the hip injury he sustained in the first quarter of Wednesday's 13-10 win over the Patriots. Assuming he's ruled out for Week 2, Darnold will have 18 days of recovery time between Wednesday's win and Seattle's Week 3 road game against the Commanders. Drew Lock, who threw for 187 yards and a touchdown after replacing Darnold on Wednesday, is expected to get the Week 2 start under center.",
+      "description": "Darnold (hip) is expected to miss Seattle's Week 2 game against the Cardinals, Ian Rapoport of ESPN and NFL Network reports.",
+      "metadata": {
+        "analysis": "Darnold avoided a major injury, but he's likely to miss at least one game as a result of the hip injury he sustained in the first quarter of Wednesday's 13-10 win over the Patriots. Assuming he's ruled out for Week 2, Darnold will have 18 days of recovery time between Wednesday's win and Seattle's Week 3 road game against the Commanders. Drew Lock, who threw for 187 yards and a touchdown after replacing Darnold on Wednesday, is expected to get the Week 2 start under center.",
+        "description": "Darnold (hip) is expected to miss Seattle's Week 2 game against the Cardinals, Ian Rapoport of ESPN and NFL Network reports.",
+        "title": "Sam Darnold - Expected to miss at least one game",
+        "topic_id": "1403818846086766592"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1789058874000,
+      "source": "rotowire",
+      "source_key": "636684",
+      "story_id": "nfl|4943|rotowire|636684|1789058874000",
+      "title": "Sam Darnold - Expected to miss at least one game",
+      "url": null
+    },
     {
       "analysis": "Hall initially received a recovery timetable of 2-to-3 weeks after sustaining a groin strain Aug. 17. Just over three weeks has passed since that date, and Hall practiced without limitations Wednesday, suggesting he has made a full recovery. Braelon Allen and Isaiah Davis, the latter of whom has been cleared to return from a knee injury sustained during training camp, could factor into the game plan as change-of-pace options, but Hall is expected to lead the Jets' backfield and handle his normal workload against the Titans in  Week 1.",
       "description": "Hall (groin) could handle a full workload in Sunday's season opener against the Titans, as Jets offensive coordinator Frank Reich said Thursday that \"unless [head coach Aaron Glenn] and the training staff give us a rep count, we just go play ball,\" Rich Cimini of ESPN.com reports.",
@@ -119,10 +159,10 @@
       "url": "https://www.fantasypros.com/nfl/news/606938/sam-darnold-hip-believed-to-have-dodged-bullet.php"
     },
     {
-      "analysis": "Per Rob Demovsky of ESPN.com, Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, and he'll likely remain on the list until the legal process is completed.",
+      "analysis": "Per Rob Demovsky of ESPN.com, Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, but as a result of his plea, the NFL could remove him from the list and instead issue a suspension.",
       "description": "Jacobs (personal) appeared in court in Green Bay on Thursday and pleaded no contest to misdemeanor charges of battery and criminal damage to property, Matt Schneidman of The Athletic reports.",
       "metadata": {
-        "analysis": "Per Rob Demovsky of ESPN.com, Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, and he'll likely remain on the list until the legal process is completed.",
+        "analysis": "Per Rob Demovsky of ESPN.com, Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, but as a result of his plea, the NFL could remove him from the list and instead issue a suspension.",
         "description": "Jacobs (personal) appeared in court in Green Bay on Thursday and pleaded no contest to misdemeanor charges of battery and criminal damage to property, Matt Schneidman of The Athletic reports.",
         "title": "Josh Jacobs - Makes court appearance Thursday",
         "topic_id": "1403810037406646272"
@@ -450,6 +490,26 @@
       "story_id": "nfl|5859|rotowire|636678|1789049085000",
       "title": "A.J. Brown - Believed to have high-ankle sprain",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "For the second straight day in practice on Thursday, Jacksonville Jaguars wide receiver Jakobi Meyers (thumb) was seen wearing a non-contact jersey, according to Ryan O'Halloran of The Florida Times-Union. It looks like Meyers will be a limited participant for the second straight day as the Jaguars prepare to face the Cleveland Browns in the Week 1 season opener on Sunday, but Meyers said himself that he will play this weekend despite dealing with a thumb injury. If Meyers can upgrade to a full practice on Friday, he could be removed from the final injury report altogether. Most likely, Meyers will be active against Cleveland on Sunday, where he will be competing for targets with Parker Washington and Brian Thomas Jr. The 29-year-old caught 75 passes for 835 yards and three touchdowns in 16 total regular-season games last year with the Jags and Las Vegas Raiders, but his fantasy stock has fallen going into 2026 due to the emergence of Washington as quarterback Trevor Lawrence's favorite target. If Meyers plays on Sunday, fantasy managers should consider him a WR4/flex option.",
+      "metadata": {
+        "description": "For the second straight day in practice on Thursday, Jacksonville Jaguars wide receiver Jakobi Meyers (thumb) was seen wearing a non-contact jersey, according to Ryan O'Halloran of The Florida Times-Union. It looks like Meyers will be a limited participant for the second straight day as the Jaguars prepare to face the Cleveland Browns in the Week 1 season opener on Sunday, but Meyers said himself that he will play this weekend despite dealing with a thumb injury. If Meyers can upgrade to a full practice on Friday, he could be removed from the final injury report altogether. Most likely, Meyers will be active against Cleveland on Sunday, where he will be competing for targets with Parker Washington and Brian Thomas Jr. The 29-year-old caught 75 passes for 835 yards and three touchdowns in 16 total regular-season games last year with the Jags and Las Vegas Raiders, but his fantasy stock has fallen going into 2026 due to the emergence of Washington as quarterback Trevor Lawrence's favorite target. If Meyers plays on Sunday, fantasy managers should consider him a WR4/flex option.",
+        "title": "Jakobi Meyers in Non-Contact Jersey Again on Thursday",
+        "topic_id": "1403820101899182080",
+        "url": "https://www.rotoballer.com/player-news/jakobi-meyers-in-non-contact-jersey-again-on-thursday/1927606"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1789044305000,
+      "source": "rotoballer",
+      "source_key": "220532",
+      "story_id": "nfl|5947|rotoballer|220532|1789044305000",
+      "title": "Jakobi Meyers in Non-Contact Jersey Again on Thursday",
+      "url": "https://www.rotoballer.com/player-news/jakobi-meyers-in-non-contact-jersey-again-on-thursday/1927606"
     },
     {
       "analysis": null,
