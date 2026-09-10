@@ -1,11 +1,13 @@
 {
-  "last_checked_at": "2026-09-10T01:46:18Z",
+  "last_checked_at": "2026-09-10T02:16:07Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|4943|fantasy_pros|606856|1789004436224",
-    "nfl|4943|rotowire|636629|1789004284000",
-    "nfl|8142|rotoballer|220475|1788989594000"
+    "nfl|11620|rotoballer|220478|1788991871000",
+    "nfl|5859|fantasy_pros|606859|1789006536531",
+    "nfl|5859|rotoballer|220479|1788991806000",
+    "nfl|5859|rotowire|636643|1789006290000",
+    "nfl|9997|rotoballer|220477|1788991206000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +17,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Brown is currently being evaluated in the medical tent after having his ankle rolled up on in the third quarter. With Brown currently sidelined, DeMario Douglas, Romeo Doubs, and Mack Hollins will see the bulk of the snaps at wide receiver for the Patriots. ",
+      "description": "Patriots WR A.J. Brown is officially questionable to return against Seattle due to an ankle injury. ",
+      "metadata": {
+        "analysis": "Brown is currently being evaluated in the medical tent after having his ankle rolled up on in the third quarter. With Brown currently sidelined, DeMario Douglas, Romeo Doubs, and Mack Hollins will see the bulk of the snaps at wide receiver for the Patriots. ",
+        "description": "Patriots WR A.J. Brown is officially questionable to return against Seattle due to an ankle injury. ",
+        "title": "A.J. Brown (ankle) questionable to return",
+        "topic_id": "1403598781957599232",
+        "url": "https://www.fantasypros.com/nfl/news/606859/aj-brown-ankle-questionable-to-return.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1789006536531,
+      "source": "fantasy_pros",
+      "source_key": "606859",
+      "story_id": "nfl|5859|fantasy_pros|606859|1789006536531",
+      "title": "A.J. Brown (ankle) questionable to return",
+      "url": "https://www.fantasypros.com/nfl/news/606859/aj-brown-ankle-questionable-to-return.php"
+    },
+    {
+      "analysis": "Brown suffered a right ankle injury on the Patriots' opening drive of the second half, and his availability for the rest of the game is now up in the air. In his absence, Romeo Doubs and DeMario Douglas could see an uptick in usage at wide receiver.",
+      "description": "Brown (ankle) is questionable to return Wednesday against the Seahawks, Mike Garafolo reports.",
+      "metadata": {
+        "analysis": "Brown suffered a right ankle injury on the Patriots' opening drive of the second half, and his availability for the rest of the game is now up in the air. In his absence, Romeo Doubs and DeMario Douglas could see an uptick in usage at wide receiver.",
+        "description": "Brown (ankle) is questionable to return Wednesday against the Seahawks, Mike Garafolo reports.",
+        "title": "A.J. Brown - Questionable to return Wednesday",
+        "topic_id": "1403598778019127296"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1789006290000,
+      "source": "rotowire",
+      "source_key": "636643",
+      "story_id": "nfl|5859|rotowire|636643|1789006290000",
+      "title": "A.J. Brown - Questionable to return Wednesday",
+      "url": null
+    },
     {
       "analysis": "The injury was serious enough for the team to hold Darnold out, but he was able to get off the field under his own power and jog back to the locker room, so it's hopefully not too serious. Drew Lock will handle duties in the short term, which certainly caps the ceiling of the offense.",
       "description": "Sam Darnold (hip) has been ruled out for the remainder of the Seahawks contest against the Patriots on Wednesday.",
@@ -448,6 +491,26 @@
       "url": "https://www.fantasypros.com/nfl/news/606813/jamarr-chase-knee-practices-full-wednesday.php"
     },
     {
+      "analysis": null,
+      "description": "Chicago Bears wide receiver Rome Odunze (calf) was a limited participant during Wednesday's practice. After sitting out on Tuesday, Odunze was back on the practice field on Wednesday. Odunze is currently considered day-to-day while he deals with a calf injury. It seems that his status for the Week 1 matchup against the Carolina Panthers is up in the air. Fantasy managers don't need to panic yet, with two more days to get upgraded to full in practice. The Bears would likely need to rely on Luther Burden III and Colston Loveland more in the passing game if Odunze is unable to go.",
+      "metadata": {
+        "description": "Chicago Bears wide receiver Rome Odunze (calf) was a limited participant during Wednesday's practice. After sitting out on Tuesday, Odunze was back on the practice field on Wednesday. Odunze is currently considered day-to-day while he deals with a calf injury. It seems that his status for the Week 1 matchup against the Carolina Panthers is up in the air. Fantasy managers don't need to panic yet, with two more days to get upgraded to full in practice. The Bears would likely need to rely on Luther Burden III and Colston Loveland more in the passing game if Odunze is unable to go.",
+        "title": "Rome Odunze is Listed as Limited in Practice on Wednesday",
+        "topic_id": "1403598775095672832",
+        "url": "https://www.rotoballer.com/player-news/rome-odunze-is-listed-as-limited-in-practice-on-wednesday/1927212"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1788991871000,
+      "source": "rotoballer",
+      "source_key": "220478",
+      "story_id": "nfl|11620|rotoballer|220478|1788991871000",
+      "title": "Rome Odunze is Listed as Limited in Practice on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/rome-odunze-is-listed-as-limited-in-practice-on-wednesday/1927212"
+    },
+    {
       "analysis": "Kraft has been rehabbing from a major knee injury all offseason, but it appears that he is finally close to full health again, as he carries no injury designation prior to the team's season opener on Sunday. He could be limited for his first few weeks back, but the team hasn't indicated that, meaning that he could be seeing a full workload in the very near future.",
       "description": "Tucker Kraft (knee) is off of the injury report for Week 1's game against the Minnesota Vikings.",
       "metadata": {
@@ -487,6 +550,26 @@
       "story_id": "nfl|12509|rotowire|636534|1788991827000",
       "title": "Tre' Harris - Fully healthy for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "According to Ben Volin of the Boston Globe, New England Patriots wide receiver A.J. Brown (ankle) is questionable to return with an ankle injury on Wednesday night. In the third quarter, Brown was seen holding his ankle after attempting to catch a pass. Shortly after, the star wideout was seen limping off the field and spent time in the medical tent. Before exiting, Brown caught three of four targets for 26 yards in his Patriots debut. While he remains out, managers should expect Romeo Doubs to slide into the No. 1 pass-catching role and second-year wideout Kyle Williams to see an uptick in snaps.",
+      "metadata": {
+        "description": "According to Ben Volin of the Boston Globe, New England Patriots wide receiver A.J. Brown (ankle) is questionable to return with an ankle injury on Wednesday night. In the third quarter, Brown was seen holding his ankle after attempting to catch a pass. Shortly after, the star wideout was seen limping off the field and spent time in the medical tent. Before exiting, Brown caught three of four targets for 26 yards in his Patriots debut. While he remains out, managers should expect Romeo Doubs to slide into the No. 1 pass-catching role and second-year wideout Kyle Williams to see an uptick in snaps.",
+        "title": "A.J. Brown Questionable to Return with Ankle Injury",
+        "topic_id": "1403598775011786752",
+        "url": "https://www.rotoballer.com/player-news/a-j-brown-questionable-to-return-with-ankle-injury/1927210"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1788991806000,
+      "source": "rotoballer",
+      "source_key": "220479",
+      "story_id": "nfl|5859|rotoballer|220479|1788991806000",
+      "title": "A.J. Brown Questionable to Return with Ankle Injury",
+      "url": "https://www.rotoballer.com/player-news/a-j-brown-questionable-to-return-with-ankle-injury/1927210"
     },
     {
       "analysis": "When Jeanty left practice on Aug. 23, the initial concerns were significant because the running back wasn't able to put much pressure on his right leg as he exited the field. Adam Schefter of ESPN subsequently reported that Jeanty wasn't dealing with a long-term issue, and the diagnosis eventually revealed a low-ankle sprain. After logging all activity at Wednesday's session, Jeanty now is in the clear for Sunday's regular-season opener against the Dolphins, though he may still yield some RB reps to reserves Mike Washington and even Dylan Laube.",
@@ -590,6 +673,26 @@
       "story_id": "nfl|12533|fantasy_pros|606805|1788991247973",
       "title": "Jacory Croskey-Merritt (groin) limited participant Wednesday",
       "url": "https://www.fantasypros.com/nfl/news/606805/jacory-croskey-merritt-groin-limited-participant-wednesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Zay Flowers (hamstring) was a limited participant during Wednesday's practice session. Flowers is still working his way back after missing a couple of weeks due to a lower-body injury. Flowers still has two more chances to be upgraded to full practice ahead of the Week 1 matchup against the Indianapolis Colts. It sounds like Flowers is trending towards playing on Sunday, but hamstring issues tend to linger. Fantasy managers will need to check back on Thursday and Friday for more updates on Flowers. If he's active, Flowers is a low-end WR1 who is a must-start in all fantasy formats.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Zay Flowers (hamstring) was a limited participant during Wednesday's practice session. Flowers is still working his way back after missing a couple of weeks due to a lower-body injury. Flowers still has two more chances to be upgraded to full practice ahead of the Week 1 matchup against the Indianapolis Colts. It sounds like Flowers is trending towards playing on Sunday, but hamstring issues tend to linger. Fantasy managers will need to check back on Thursday and Friday for more updates on Flowers. If he's active, Flowers is a low-end WR1 who is a must-start in all fantasy formats.",
+        "title": "Zay Flowers Limited During Wednesday's Practice",
+        "topic_id": "1403596257582145544",
+        "url": "https://www.rotoballer.com/player-news/zay-flowers-was-limited-during-wednesdays-practice/1927205"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1788991206000,
+      "source": "rotoballer",
+      "source_key": "220477",
+      "story_id": "nfl|9997|rotoballer|220477|1788991206000",
+      "title": "Zay Flowers Limited During Wednesday's Practice",
+      "url": "https://www.rotoballer.com/player-news/zay-flowers-was-limited-during-wednesdays-practice/1927205"
     },
     {
       "analysis": "Mitchell returned to practice earlier this week, and a limited session to open the week gives him a good chance to take the field Sunday against the Cardinals. Mitchell is expected to serve as the big-play complementary back behind Omarion Hampton this season. He's worthy of a bench stash in most fantasy leagues.",
