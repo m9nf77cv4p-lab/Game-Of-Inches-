@@ -2,27 +2,27 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2486**
-- Newly captured: **8**
+- Stored stories: **2487**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jason Myers** — Jason Myers scores seven points in win Wednesday (2026-09-10T15:50:04.707000Z)
+- **Jason Myers** — Jason Myers scores seven points in win Wednesday (2026-09-10T15:50:04.707000Z)
   - Myers did his job on Wednesday, knocking in all three of his kicks en route to a win over the Patriots. He will likely be a decent fantasy option at the position over the course of the season, assuming QB Sam Darnold (hip) doesn't miss significant time and leave the offense weaker moving forward.
   - Source: https://www.fantasypros.com/nfl/news/606930/jason-myers-scores-seven-points-win-wednesday.php
-- **NEW — Jadarian Price** — Jadarian Price totals 58 yards in NFL debut Wednesday (2026-09-10T15:40:05.135000Z)
+- **Jadarian Price** — Jadarian Price totals 58 yards in NFL debut Wednesday (2026-09-10T15:40:05.135000Z)
   - The rookie had a decent performance in his NFL debut. He rushed for 52 yards at an efficient clip of 5.2 yards per carry, and he saw a bit of involvement in the passing game as well. From a fantasy perspective this was a disappointing game, but he showed promise in this game and will likely perform better in positive matchups moving forward.
   - Source: https://www.fantasypros.com/nfl/news/606923/jadarian-price-totals-58-yards-nfl-debut-wednesday.php
-- **NEW — Rashid Shaheed** — Rashid Shaheed quiet in win Wednesday (2026-09-10T15:40:05.120000Z)
+- **Rashid Shaheed** — Rashid Shaheed quiet in win Wednesday (2026-09-10T15:40:05.120000Z)
   - The speedy wideout wasn't able to do much on Wednesday, catching just one pass for four yards in the team's win over New England. The injury to starter Sam Darnold (hip) may have played a large role in his lack of production, however, so this isn't a good game to look at in order to discern his true involvement in this offense.
   - Source: https://www.fantasypros.com/nfl/news/606924/rashid-shaheed-quiet-win-wednesday.php
-- **NEW — AJ Barner** — AJ Barner catches two passes Wednesday (2026-09-10T15:40:05.109000Z)
+- **AJ Barner** — AJ Barner catches two passes Wednesday (2026-09-10T15:40:05.109000Z)
   - The Seahawks were able to pick up a win over the Patriots on Wednesday, but they didn't need to get Barner very involved in order to do so. He finished the game with just two catches for 13 yards, and there's not much reason to believe that he will bounce back and become a quality week-to-week option anytime soon.
   - Source: https://www.fantasypros.com/nfl/news/606925/aj-barner-catches-two-passes-wednesday.php
-- **NEW — George Holani** — George Holani sees nine opportunities in win Wednesday (2026-09-10T15:40:05.093000Z)
+- **George Holani** — George Holani sees nine opportunities in win Wednesday (2026-09-10T15:40:05.093000Z)
   - Holani saw solid involvement on Wednesday, receiving nine total opportunities over the course of the game. He didn't do much with them, but the fact that he had a pretty even split with rookie RB Jadarian Price is a bit concerning for Price's fantasy value moving forward. It's too soon to make any definitive judgements about this offense, however, as they were without their starting quarterback for almost the entire game on Wednesday.
   - Source: https://www.fantasypros.com/nfl/news/606926/george-holani-sees-nine-opportunities-win-wednesday.php
-- **NEW — Cooper Kupp** — Cooper Kupp totals 35 yards in win Wednesday (2026-09-10T15:40:05.057000Z)
+- **Cooper Kupp** — Cooper Kupp totals 35 yards in win Wednesday (2026-09-10T15:40:05.057000Z)
   - Kupp didn't end up with a strong statline in the box score on Wednesday, but he was an important player for the Seahawks in this matchup. He made multiple key plays for them and had a touchdown that got called back due to penalty. He isn't likely to be fantasy relevant moving forward, however, especially if QB Sam Darnold (hip) misses time.
   - Source: https://www.fantasypros.com/nfl/news/606928/cooper-kupp-totals-35-yards-win-wednesday.php
 - **Jaxon Smith-Njigba** — Jaxon Smith-Njigba electric in win Wednesday (2026-09-10T15:35:04.138000Z)
@@ -50,12 +50,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php
 - **A.J. Brown** — A.J. Brown - Believed to have high-ankle sprain (2026-09-10T14:04:45Z)
   - In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before departing in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.
+- **NEW — Stefon Diggs** — Stefon Diggs May Not Be Slowing Down Yet (2026-09-10T11:52:07Z)
+  - Source: https://www.rotoballer.com/player-news/stefon-diggs-may-not-be-slowing-down-yet/1927551
 - **George Kittle** — George Kittle off injury report, active for Thursday (2026-09-10T11:45:03.411000Z)
   - Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.
   - Source: https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php
-- **NEW — Antonio Williams** — Antonio Williams Drawing More Praise in Washington (2026-09-10T11:42:47Z)
+- **Antonio Williams** — Antonio Williams Drawing More Praise in Washington (2026-09-10T11:42:47Z)
   - Source: https://www.rotoballer.com/player-news/antonio-williams-drawing-more-praise-in-washington/1927542
-- **NEW — Tyler Shough** — Tyler Shough Leaves Fantasy Managers Plenty to Believe In (2026-09-10T11:33:21Z)
+- **Tyler Shough** — Tyler Shough Leaves Fantasy Managers Plenty to Believe In (2026-09-10T11:33:21Z)
   - Source: https://www.rotoballer.com/player-news/tyler-shough-left-fantasy-managers-plenty-to-believe-in/1927529
 - **Jordan Love** — Jordan Love May Have to Carry More of Green Bay's Offense (2026-09-10T11:27:49Z)
   - Source: https://www.rotoballer.com/player-news/jordan-love-may-have-to-carry-more-of-green-bays-offense/1927522
@@ -238,5 +240,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606805/jacory-croskey-merritt-groin-limited-participant-wednesday.php
 - **Zay Flowers** — Zay Flowers Limited During Wednesday's Practice (2026-09-09T22:00:06Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-was-limited-during-wednesdays-practice/1927205
-- **Keaton Mitchell** — Keaton Mitchell - Limited Wednesday (2026-09-09T21:58:45Z)
-  - Mitchell returned to practice earlier this week, and a limited session to open the week gives him a good chance to take the field Sunday against the Cardinals. Mitchell is expected to serve as the big-play complementary back behind Omarion Hampton this season. He's worthy of a bench stash in most fantasy leagues.

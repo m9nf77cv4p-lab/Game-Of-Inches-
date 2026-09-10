@@ -1,16 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T15:51:04Z",
+  "last_checked_at": "2026-09-10T16:01:14Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11603|fantasy_pros|606925|1789054805109",
-    "nfl|12048|fantasy_pros|606926|1789054805093",
-    "nfl|12545|rotoballer|220521|1789040001000",
-    "nfl|13286|fantasy_pros|606923|1789054805135",
-    "nfl|13301|rotoballer|220522|1789040567000",
-    "nfl|2747|fantasy_pros|606930|1789055404707",
-    "nfl|4039|fantasy_pros|606928|1789054805057",
-    "nfl|8676|fantasy_pros|606924|1789054805120"
+    "nfl|2449|rotoballer|220523|1789041127000"
   ],
   "schema_version": 1,
   "source": {
@@ -332,6 +325,26 @@
       "story_id": "nfl|5859|rotowire|636678|1789049085000",
       "title": "A.J. Brown - Believed to have high-ankle sprain",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders wide receiver Stefon Diggs may not be slowing down yet. According to Zach Selby, offensive coordinator David Blough said he is excited for Diggs and Jayden Daniels to show the chemistry they have worked on this weekend. That is not the first positive sign. Washington's own camp coverage noted that Diggs and Daniels were connecting often during joint practices, and Diggs is officially listed as a starter alongside Terry McLaurin. He also isn't coming off a down year. Diggs caught 85 passes for 1,013 yards and four touchdowns with New England in 2025, finishing as the WR17 in PPR scoring. The target ceiling may be lower with McLaurin still at the top of the pecking order, but Diggs does not need to dominate targets to stay useful. If the chemistry with Daniels carries into games, his value could hold stronger than expected and still have room to rise.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Stefon Diggs may not be slowing down yet. According to Zach Selby, offensive coordinator David Blough said he is excited for Diggs and Jayden Daniels to show the chemistry they have worked on this weekend. That is not the first positive sign. Washington's own camp coverage noted that Diggs and Daniels were connecting often during joint practices, and Diggs is officially listed as a starter alongside Terry McLaurin. He also isn't coming off a down year. Diggs caught 85 passes for 1,013 yards and four touchdowns with New England in 2025, finishing as the WR17 in PPR scoring. The target ceiling may be lower with McLaurin still at the top of the pecking order, but Diggs does not need to dominate targets to stay useful. If the chemistry with Daniels carries into games, his value could hold stronger than expected and still have room to rise.",
+        "title": "Stefon Diggs May Not Be Slowing Down Yet",
+        "topic_id": "1403806258787581952",
+        "url": "https://www.rotoballer.com/player-news/stefon-diggs-may-not-be-slowing-down-yet/1927551"
+      },
+      "nfl_team": "WAS",
+      "player_id": "2449",
+      "player_name": "Stefon Diggs",
+      "position": "WR",
+      "published": 1789041127000,
+      "source": "rotoballer",
+      "source_key": "220523",
+      "story_id": "nfl|2449|rotoballer|220523|1789041127000",
+      "title": "Stefon Diggs May Not Be Slowing Down Yet",
+      "url": "https://www.rotoballer.com/player-news/stefon-diggs-may-not-be-slowing-down-yet/1927551"
     },
     {
       "analysis": "Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.",
