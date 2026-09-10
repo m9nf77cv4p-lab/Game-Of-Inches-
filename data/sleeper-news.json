@@ -1,12 +1,15 @@
 {
-  "last_checked_at": "2026-09-10T19:41:56Z",
+  "last_checked_at": "2026-09-10T19:51:52Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11620|fantasy_pros|606962|1789068621874",
-    "nfl|11620|rotowire|636698|1789068701000",
-    "nfl|11632|fantasy_pros|606964|1789069221984",
-    "nfl|96|rotoballer|220556|1789054205000"
+    "nfl|11559|fantasy_pros|606966|1789069821979",
+    "nfl|11583|rotowire|636701|1789069665000",
+    "nfl|11632|rotowire|636699|1789069206000",
+    "nfl|13320|fantasy_pros|606965|1789069821830",
+    "nfl|3321|rotoballer|220558|1789055106000",
+    "nfl|6768|rotowire|636700|1789069291000",
+    "nfl|9228|rotoballer|220557|1789054588000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +19,88 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Penix is still listed on Atlanta's injury report due to a knee injury, but he again logged a full practice session on Thursday and seems to be close to full health at this point. Fantasy managers should keep tabs on all injury updates out of Atlanta, as starting QB Tua Tagovailoa (back) now seems to be dealing with an issue that could affect his availability for Sunday.",
+      "description": "Michael Penix Jr. (knee) logged a full practice session on Thursday.",
+      "metadata": {
+        "analysis": "Penix is still listed on Atlanta's injury report due to a knee injury, but he again logged a full practice session on Thursday and seems to be close to full health at this point. Fantasy managers should keep tabs on all injury updates out of Atlanta, as starting QB Tua Tagovailoa (back) now seems to be dealing with an issue that could affect his availability for Sunday.",
+        "description": "Michael Penix Jr. (knee) logged a full practice session on Thursday.",
+        "title": "Michael Penix Jr. (knee) logs full practice Thursday",
+        "topic_id": "1403864220377853952",
+        "url": "https://www.fantasypros.com/nfl/news/606966/michael-penix-jr-knee-logs-full-practice-thursday.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "11559",
+      "player_name": "Michael Penix",
+      "position": "QB",
+      "published": 1789069821979,
+      "source": "fantasy_pros",
+      "source_key": "606966",
+      "story_id": "nfl|11559|fantasy_pros|606966|1789069821979",
+      "title": "Michael Penix Jr. (knee) logs full practice Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/606966/michael-penix-jr-knee-logs-full-practice-thursday.php"
+    },
+    {
+      "analysis": "The rookie was once again left limited at practice. He's still recovering from a hamstring injury of some kind, and it remains unclear whether or not he will be ready to play in time for Week 1. Look for Jahan Dotson to see more work if Branch is unable to make his NFL debut on Sunday.",
+      "description": "Zachariah Branch (hamstring) was a limited participant at practice on Thursday.",
+      "metadata": {
+        "analysis": "The rookie was once again left limited at practice. He's still recovering from a hamstring injury of some kind, and it remains unclear whether or not he will be ready to play in time for Week 1. Look for Jahan Dotson to see more work if Branch is unable to make his NFL debut on Sunday.",
+        "description": "Zachariah Branch (hamstring) was a limited participant at practice on Thursday.",
+        "title": "Zachariah Branch (hamstring) limited participant Thursday",
+        "topic_id": "1403864219757096960",
+        "url": "https://www.fantasypros.com/nfl/news/606965/zachariah-branch-hamstring-limited-participant-thursday.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "13320",
+      "player_name": "Zachariah Branch",
+      "position": "WR",
+      "published": 1789069821830,
+      "source": "fantasy_pros",
+      "source_key": "606965",
+      "story_id": "nfl|13320|fantasy_pros|606965|1789069821830",
+      "title": "Zachariah Branch (hamstring) limited participant Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/606965/zachariah-branch-hamstring-limited-participant-thursday.php"
+    },
+    {
+      "analysis": "Brooks said Wednesday that he expects to play in the opener, but the club continues to keep a lid on his practice participation as he's yet to log a full session this week. Brooks could still play this week despite the team's caution in practice. Assuming he's good to go, Brooks and Chuba Hubbard will handle the bulk of the backfield work against the Bears on Sunday.",
+      "description": "Brooks (groin) was a limited participant in Thursday's practice.",
+      "metadata": {
+        "analysis": "Brooks said Wednesday that he expects to play in the opener, but the club continues to keep a lid on his practice participation as he's yet to log a full session this week. Brooks could still play this week despite the team's caution in practice. Assuming he's good to go, Brooks and Chuba Hubbard will handle the bulk of the backfield work against the Bears on Sunday.",
+        "description": "Brooks (groin) was a limited participant in Thursday's practice.",
+        "title": "Jonathon Brooks - Limited participant Thursday",
+        "topic_id": "1403864216946925568"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1789069665000,
+      "source": "rotowire",
+      "source_key": "636701",
+      "story_id": "nfl|11583|rotowire|636701|1789069665000",
+      "title": "Jonathon Brooks - Limited participant Thursday",
+      "url": null
+    },
+    {
+      "analysis": "Tagovailoa was named Atlanta's starter for Sunday's regular-season opener earlier in the week, but he went down grabbing his back in individual drills Thursday and subsequently sat out the remainder of practice. The Falcons are now preparing to head into Week 1 with the third-stringer Rush under center, as Tua is in danger of joining Michael Penix (knee) on the sidelines. If Tagovailoa is ruled out, Jack Strand would serve as Rush's backup Sunday.",
+      "description": "Tagovailoa (back) could cede the Week 1 starting role to Cooper Rush, who took all of the first-team reps with the offense Thursday after Tagovailoa exited early due to a back injury, Mike Garafolo of NFL Network reports.",
+      "metadata": {
+        "analysis": "Tagovailoa was named Atlanta's starter for Sunday's regular-season opener earlier in the week, but he went down grabbing his back in individual drills Thursday and subsequently sat out the remainder of practice. The Falcons are now preparing to head into Week 1 with the third-stringer Rush under center, as Tua is in danger of joining Michael Penix (knee) on the sidelines. If Tagovailoa is ruled out, Jack Strand would serve as Rush's backup Sunday.",
+        "description": "Tagovailoa (back) could cede the Week 1 starting role to Cooper Rush, who took all of the first-team reps with the offense Thursday after Tagovailoa exited early due to a back injury, Mike Garafolo of NFL Network reports.",
+        "title": "Tua Tagovailoa - Week 1 status in doubt due to back",
+        "topic_id": "1403862957317697536"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1789069291000,
+      "source": "rotowire",
+      "source_key": "636700",
+      "story_id": "nfl|6768|rotowire|636700|1789069291000",
+      "title": "Tua Tagovailoa - Week 1 status in doubt due to back",
+      "url": null
+    },
     {
       "analysis": "Nabers was a full participant for the Giants on Thursday. It has already been reported that he is likely to play in Sunday night's game, and his participation at practice all but confirms that. Fantasy managers should feel pretty good about starting him if he's active in Week 1, even with it being his first game back from injury.",
       "description": "Malik Nabers (knee) practiced in a full capacity on Thursday.",
@@ -36,6 +121,26 @@
       "story_id": "nfl|11632|fantasy_pros|606964|1789069221984",
       "title": "Malik Nabers (knee) practices in full Thursday",
       "url": "https://www.fantasypros.com/nfl/news/606964/malik-nabers-knee-practices-full-thursday.php"
+    },
+    {
+      "analysis": "Coach John Harbaugh provided the update after Thursday's session. Nabers has been practicing in full this week, though there's still no confirmation on his status for Sunday night's game against the Cowboys just yet. It appears the Giants will wait as long as they can to make a final determination on their star receiver's Week 1 status.",
+      "description": "Nabers (knee) logged another full practice Thursday, Connor Hughes of SNY.tv reports.",
+      "metadata": {
+        "analysis": "Coach John Harbaugh provided the update after Thursday's session. Nabers has been practicing in full this week, though there's still no confirmation on his status for Sunday night's game against the Cowboys just yet. It appears the Giants will wait as long as they can to make a final determination on their star receiver's Week 1 status.",
+        "description": "Nabers (knee) logged another full practice Thursday, Connor Hughes of SNY.tv reports.",
+        "title": "Malik Nabers - Another full practice Thursday",
+        "topic_id": "1403862957246394368"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1789069206000,
+      "source": "rotowire",
+      "source_key": "636699",
+      "story_id": "nfl|11632|rotowire|636699|1789069206000",
+      "title": "Malik Nabers - Another full practice Thursday",
+      "url": null
     },
     {
       "analysis": "Odunze was limited for a second day in a row on Thursday as his status remains unclear going into Week 1. Friday's injury report should provide some clarity, but even then, the Bears may not make a final call on Odunze until Sunday. An absence from Odunze on Sunday would open playing time for Kalif Raymond or Zavion Thomas.",
@@ -548,6 +653,26 @@
       "url": "https://www.fantasypros.com/nfl/news/606930/jason-myers-scores-seven-points-win-wednesday.php"
     },
     {
+      "analysis": null,
+      "description": "Free-agent wide receiver Tyreek Hill is still sitting on plenty of waiver wires, with his Yahoo roster rate at 4%. There is at least a little more reason to watch him now. Agent Drew Rosenhaus said Wednesday that doctors have recommended Hill wait until sometime in October before trying to come back, but he also said teams have shown interest after seeing recent video of Hill running and cutting. That does not make Hill a usable fantasy option anytime soon. He is 32, still unsigned and coming back from a left knee dislocation with multiple torn ligaments, including his ACL. Hill had 21 catches for 265 yards and one touchdown in four games before the injury last season. There are still a lot of hurdles here, and even a signing would not mean an immediate fantasy role. But in deeper leagues with an open bench spot, Hill is worth stashing before there is a team attached to his name. Managers in shallower formats can keep watching the situation instead.",
+      "metadata": {
+        "description": "Free-agent wide receiver Tyreek Hill is still sitting on plenty of waiver wires, with his Yahoo roster rate at 4%. There is at least a little more reason to watch him now. Agent Drew Rosenhaus said Wednesday that doctors have recommended Hill wait until sometime in October before trying to come back, but he also said teams have shown interest after seeing recent video of Hill running and cutting. That does not make Hill a usable fantasy option anytime soon. He is 32, still unsigned and coming back from a left knee dislocation with multiple torn ligaments, including his ACL. Hill had 21 catches for 265 yards and one touchdown in four games before the injury last season. There are still a lot of hurdles here, and even a signing would not mean an immediate fantasy role. But in deeper leagues with an open bench spot, Hill is worth stashing before there is a team attached to his name. Managers in shallower formats can keep watching the situation instead.",
+        "title": "Tyreek Hill Only a Deep-League Stash for Now",
+        "topic_id": "1403864213629186048",
+        "url": "https://www.rotoballer.com/player-news/tyreek-hill-only-a-deep-league-stash-for-now/1927800"
+      },
+      "nfl_team": null,
+      "player_id": "3321",
+      "player_name": "Tyreek Hill",
+      "position": "WR",
+      "published": 1789055106000,
+      "source": "rotoballer",
+      "source_key": "220558",
+      "story_id": "nfl|3321|rotoballer|220558|1789055106000",
+      "title": "Tyreek Hill Only a Deep-League Stash for Now",
+      "url": "https://www.rotoballer.com/player-news/tyreek-hill-only-a-deep-league-stash-for-now/1927800"
+    },
+    {
       "analysis": "The rookie had a decent performance in his NFL debut. He rushed for 52 yards at an efficient clip of 5.2 yards per carry, and he saw a bit of involvement in the passing game as well. From a fantasy perspective this was a disappointing game, but he showed promise in this game and will likely perform better in positive matchups moving forward.",
       "description": "Jadarian Price rushed the ball ten times for 52 yards and caught two passes for six yards in Wednesday night's 13-10 win over the New England Patriots.",
       "metadata": {
@@ -651,6 +776,26 @@
       "story_id": "nfl|4039|fantasy_pros|606928|1789054805057",
       "title": "Cooper Kupp totals 35 yards in win Wednesday",
       "url": "https://www.fantasypros.com/nfl/news/606928/cooper-kupp-totals-35-yards-win-wednesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers quarterback Bryce Young is available in most leagues heading into Week 1, with his Yahoo roster rate sitting at 13%. There was progress last season, but fantasy managers still had to live with some rough weeks. Young finished as the QB19 after throwing for 3,011 yards and 23 touchdowns in 16 games, while adding 216 yards and two scores on the ground. Only four of those 16 games went over 200 passing yards. One of them was a huge one, a 448-yard, three-touchdown game against Atlanta. That is pretty much the issue with Young right now. The ceiling showed up, but not often enough. Tetairoa McMillan, Jalen Coker and Xavier Legette are all back, so the supporting cast is familiar, and Young opens at home against Chicago. RotoBaller has him at QB30 for Week 1, which tells you where the trust level is. He belongs on rosters in Superflex and two-quarterback leagues. In one-QB formats, Young is more of a risky streamer or bench stash than someone managers need to rush out and add.",
+      "metadata": {
+        "description": "Carolina Panthers quarterback Bryce Young is available in most leagues heading into Week 1, with his Yahoo roster rate sitting at 13%. There was progress last season, but fantasy managers still had to live with some rough weeks. Young finished as the QB19 after throwing for 3,011 yards and 23 touchdowns in 16 games, while adding 216 yards and two scores on the ground. Only four of those 16 games went over 200 passing yards. One of them was a huge one, a 448-yard, three-touchdown game against Atlanta. That is pretty much the issue with Young right now. The ceiling showed up, but not often enough. Tetairoa McMillan, Jalen Coker and Xavier Legette are all back, so the supporting cast is familiar, and Young opens at home against Chicago. RotoBaller has him at QB30 for Week 1, which tells you where the trust level is. He belongs on rosters in Superflex and two-quarterback leagues. In one-QB formats, Young is more of a risky streamer or bench stash than someone managers need to rush out and add.",
+        "title": "Bryce Young a Risky Streaming Option for Week 1",
+        "topic_id": "1403862955669393408",
+        "url": "https://www.rotoballer.com/player-news/bryce-young-a-risky-streaming-option-for-week-1/1927792"
+      },
+      "nfl_team": "CAR",
+      "player_id": "9228",
+      "player_name": "Bryce Young",
+      "position": "QB",
+      "published": 1789054588000,
+      "source": "rotoballer",
+      "source_key": "220557",
+      "story_id": "nfl|9228|rotoballer|220557|1789054588000",
+      "title": "Bryce Young a Risky Streaming Option for Week 1",
+      "url": "https://www.rotoballer.com/player-news/bryce-young-a-risky-streaming-option-for-week-1/1927792"
     },
     {
       "analysis": "On Wednesday, Smith-Njigba picked up right where he left off last season, exploding for 122 yards and a touchdown in a big win over the Patriots. He did that with Drew Lock throwing him passes after starter Sam Darnold went down with a hip injury earlier in the game. Fantasy managers should be happy with his performance in this matchup but should keep a close eye on the health of Darnold, as the young wideout's week-to-week ceiling will certainly take a hit if their starting QB misses significant time.",
