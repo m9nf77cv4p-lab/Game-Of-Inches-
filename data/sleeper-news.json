@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-10T10:58:36Z",
+  "last_checked_at": "2026-09-10T11:46:08Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|4217|fantasy_pros|606900|1789040703411"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.",
+      "description": "George Kittle is off the 49ers injury report and is active for their game against the Rams in Melbourne.",
+      "metadata": {
+        "analysis": "Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.",
+        "description": "George Kittle is off the 49ers injury report and is active for their game against the Rams in Melbourne.",
+        "title": "George Kittle off injury report, active for Thursday",
+        "topic_id": "1403742088239054848",
+        "url": "https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1789040703411,
+      "source": "fantasy_pros",
+      "source_key": "606900",
+      "story_id": "nfl|4217|fantasy_pros|606900|1789040703411",
+      "title": "George Kittle off injury report, active for Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php"
+    },
     {
       "analysis": "Darnold was ruled out for the night in the opening drive on Wednesday. He is scheduled to undergo an MRI on Thursday.",
       "description": "Seahawks coach Mike Macdonald said the team got good initial news on Sam Darnold and they have ruled out a fracture.",

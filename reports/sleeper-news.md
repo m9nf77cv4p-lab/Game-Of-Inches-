@@ -2,11 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2450**
-- Newly captured: **0**
+- Stored stories: **2451**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — George Kittle** — George Kittle off injury report, active for Thursday (2026-09-10T11:45:03.411000Z)
+  - Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.
+  - Source: https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php
 - **Sam Darnold** — Sam Darnold (hip) avoids fracture, to undergo MRI Thursday  (2026-09-10T05:30:37.344000Z)
   - Darnold was ruled out for the night in the opening drive on Wednesday. He is scheduled to undergo an MRI on Thursday.
   - Source: https://www.fantasypros.com/nfl/news/606861/sam-darnold-hip-avoids-fracture-to-undergo-mri-thursday.php
@@ -235,5 +238,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Brooks was officially limited in practice Wednesday, but all indications are he did everything in the session and looked ready to go for the start of the season. Brooks will push Chuba Hubbard for carries in the Carolina backfield, but Hubbard is expected to open the campaign as the starter and lead back while Brooks sees plenty of work as the 1B option. It may be best to take a wait-and-see approach with him in fantasy.
 - **Sam Darnold** — Sam Darnold Exits Season Opener, Questionable to Return (2026-09-09T20:45:07Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-exits-season-opener-with-ankle-injury/1927175
-- **Tyler Warren** — Tyler Warren - Off injury report (2026-09-09T20:41:28Z)
-  - Indianapolis' star tight end looks good to go for the opener after not even being listed on the practice report to start the week. Warren was dealing with a minor groin issue late in camp but the expectation has been that he would be ready to begin the season. The Colts host the Ravens to kick off their season Sunday.
