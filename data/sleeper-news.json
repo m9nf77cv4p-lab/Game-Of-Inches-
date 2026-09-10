@@ -1,13 +1,12 @@
 {
-  "last_checked_at": "2026-09-10T23:40:26Z",
+  "last_checked_at": "2026-09-10T23:50:39Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13275|fantasy_pros|607039|1789083329790",
-    "nfl|13287|fantasy_pros|607038|1789083329808",
-    "nfl|4943|rotoballer|220584|1789068245000",
-    "nfl|5859|fantasy_pros|607037|1789083329823",
-    "nfl|5859|rotoballer|220585|1789068727000"
+    "nfl|12467|rotowire|636741|1789083265000",
+    "nfl|13275|rotowire|636753|1789084038000",
+    "nfl|13278|fantasy_pros|607042|1789083930526",
+    "nfl|5859|rotowire|636745|1789083457000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +16,67 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "It thus appears Stetson Bennett has won Los Angeles' No. 2 QB job, at least for the first game of the season. Simpson, who was taken by the Rams in the first round of April's NFL Draft, can make his NFL debut Thursday only if both starter Matthew Stafford and Bennett have to exit due to injury, illness, or ejection.",
+      "description": "Simpson is inactive as the Rams' emergency third quarterback for Thursday's matchup against San Francisco in Melbourne, Australia, Nate Atkins of The Athletic reports.",
+      "metadata": {
+        "analysis": "It thus appears Stetson Bennett has won Los Angeles' No. 2 QB job, at least for the first game of the season. Simpson, who was taken by the Rams in the first round of April's NFL Draft, can make his NFL debut Thursday only if both starter Matthew Stafford and Bennett have to exit due to injury, illness, or ejection.",
+        "description": "Simpson is inactive as the Rams' emergency third quarterback for Thursday's matchup against San Francisco in Melbourne, Australia, Nate Atkins of The Athletic reports.",
+        "title": "Ty Simpson - Opening season as emergency No. 3 QB",
+        "topic_id": "1403924649707868160"
+      },
+      "nfl_team": "LAR",
+      "player_id": "13275",
+      "player_name": "Ty Simpson",
+      "position": "QB",
+      "published": 1789084038000,
+      "source": "rotowire",
+      "source_key": "636753",
+      "story_id": "nfl|13275|rotowire|636753|1789084038000",
+      "title": "Ty Simpson - Opening season as emergency No. 3 QB",
+      "url": null
+    },
+    {
+      "analysis": "Klare will join fellow rookies Ty Simpson and CJ Daniels on the sideline. The Rams have plenty of TE depth at their disposal, so Klare being a rookie inactive is hardly surprising.",
+      "description": "Max Klare has been ruled inactive against the Niners on Thursday.",
+      "metadata": {
+        "analysis": "Klare will join fellow rookies Ty Simpson and CJ Daniels on the sideline. The Rams have plenty of TE depth at their disposal, so Klare being a rookie inactive is hardly surprising.",
+        "description": "Max Klare has been ruled inactive against the Niners on Thursday.",
+        "title": "Max Klare inactive against Niners",
+        "topic_id": "1403923395896221696",
+        "url": "https://www.fantasypros.com/nfl/news/607042/max-klare-inactive-against-niners.php"
+      },
+      "nfl_team": "LAR",
+      "player_id": "13278",
+      "player_name": "Max Klare",
+      "position": "TE",
+      "published": 1789083930526,
+      "source": "fantasy_pros",
+      "source_key": "607042",
+      "story_id": "nfl|13278|fantasy_pros|607042|1789083930526",
+      "title": "Max Klare inactive against Niners",
+      "url": "https://www.fantasypros.com/nfl/news/607042/max-klare-inactive-against-niners.php"
+    },
+    {
+      "analysis": "Brown is believed to be dealing with a high-ankle sprain. The good news is he suffered the injury on a Wednesday, which gives him a few extra days to rehab this week, but it's still looking like the star wideout will miss multiple games. While Brown is sidelined, the Patriots will need to lean on Romeo Doubs at wideout, while DeMario Douglas, Mack Hollins and Kyle Williams all figure to take on larger roles. Hunter Henry is also a candidate to see a bigger target share while Brown is sidelined.",
+      "description": "Brown is expected to miss four weeks with the ankle injury he suffered in Monday night's loss to the Seahawks, Ian Rapoport of ESPN and NFL Network reports.",
+      "metadata": {
+        "analysis": "Brown is believed to be dealing with a high-ankle sprain. The good news is he suffered the injury on a Wednesday, which gives him a few extra days to rehab this week, but it's still looking like the star wideout will miss multiple games. While Brown is sidelined, the Patriots will need to lean on Romeo Doubs at wideout, while DeMario Douglas, Mack Hollins and Kyle Williams all figure to take on larger roles. Hunter Henry is also a candidate to see a bigger target share while Brown is sidelined.",
+        "description": "Brown is expected to miss four weeks with the ankle injury he suffered in Monday night's loss to the Seahawks, Ian Rapoport of ESPN and NFL Network reports.",
+        "title": "A.J. Brown - Expected to miss four weeks",
+        "topic_id": "1403922132085280768"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1789083457000,
+      "source": "rotowire",
+      "source_key": "636745",
+      "story_id": "nfl|5859|rotowire|636745|1789083457000",
+      "title": "A.J. Brown - Expected to miss four weeks",
+      "url": null
+    },
     {
       "analysis": "It's a big blow to Brown's Fantasy stock to start the season. In his absence, expect Hunter Henry and Romeo Doubs to see more work. However, with Doubs was struggling to find snaps and catch the ball, it's possible that Demario Douglas could be a nice PPR sleeper.",
       "description": "A.J. Brown (ankle) is expected to miss at least four weeks with a high ankle sprain that he sustained early in the third quarter of the Patriots game against the Seahawks on Wednesday night.",
@@ -79,6 +139,26 @@
       "story_id": "nfl|13275|fantasy_pros|607039|1789083329790",
       "title": "Ty Simpson out against Niners",
       "url": "https://www.fantasypros.com/nfl/news/607039/ty-simpson-out-against-niners.php"
+    },
+    {
+      "analysis": "The 2025 fifth-rounder will not suit up in Week 1, leaving Christian McCaffrey and rookie third-rounder Kaelon Black as the only healthy running backs active for the 49ers on Thursday. James' role moving forward may depend on how effective Black is to start the season.",
+      "description": "James (coach's decision) is officially inactive for Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports.",
+      "metadata": {
+        "analysis": "The 2025 fifth-rounder will not suit up in Week 1, leaving Christian McCaffrey and rookie third-rounder Kaelon Black as the only healthy running backs active for the 49ers on Thursday. James' role moving forward may depend on how effective Black is to start the season.",
+        "description": "James (coach's decision) is officially inactive for Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports.",
+        "title": "Jordan James - Inactive Thursday",
+        "topic_id": "1403922131892342785"
+      },
+      "nfl_team": "SF",
+      "player_id": "12467",
+      "player_name": "Jordan James",
+      "position": "RB",
+      "published": 1789083265000,
+      "source": "rotowire",
+      "source_key": "636741",
+      "story_id": "nfl|12467|rotowire|636741|1789083265000",
+      "title": "Jordan James - Inactive Thursday",
+      "url": null
     },
     {
       "analysis": "Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities going from full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.",
