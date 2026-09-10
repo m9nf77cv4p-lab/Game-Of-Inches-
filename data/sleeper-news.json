@@ -1,10 +1,13 @@
 {
-  "last_checked_at": "2026-09-10T16:19:39Z",
+  "last_checked_at": "2026-09-10T16:33:39Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|12492|rotoballer|220525|1789041965000",
-    "nfl|5850|rotowire|636680|1789056765000"
+    "nfl|3257|rotoballer|220528|1789043045000",
+    "nfl|4035|rotoballer|220526|1789042445000",
+    "nfl|4943|fantasy_pros|606938|1789057204830",
+    "nfl|5947|fantasy_pros|606936|1789057204841",
+    "nfl|5947|rotowire|636681|1789057357000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,12 +18,74 @@
   },
   "stories": [
     {
-      "analysis": "With Jacobs still unavailable to practice or play while on the exempt list, Green Bay's backfield remains without its top running back.",
-      "description": "Jacobs (personal) appeared in court Thursday and pleaded no contest to misdemeanor charges of battery and criminal damage to property, Matt Schneidman of The Athletic reports.",
+      "analysis": "Meyers is practicing in a non-contact jersey for a second consecutive day after being listed as limited at Wednesday's practice. He'll have one more chance Friday to upgrade his participation level ahead of Sunday's season opener against the Browns. Two-way player Travis Hunter and rookie Day 3 draft picks Josh Cameron and CJ Williams would be candidates to receive playing time alongside Brian Thomas and Parker Washington if Meyers misses any game action due to his lingering thumb injury.",
+      "description": "Meyers (thumb) was spotted in a non-contact jersey at Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports.",
       "metadata": {
-        "analysis": "With Jacobs still unavailable to practice or play while on the exempt list, Green Bay's backfield remains without its top running back.",
-        "description": "Jacobs (personal) appeared in court Thursday and pleaded no contest to misdemeanor charges of battery and criminal damage to property, Matt Schneidman of The Athletic reports.",
-        "title": "Josh Jacobs - Appears in court Thursday",
+        "analysis": "Meyers is practicing in a non-contact jersey for a second consecutive day after being listed as limited at Wednesday's practice. He'll have one more chance Friday to upgrade his participation level ahead of Sunday's season opener against the Browns. Two-way player Travis Hunter and rookie Day 3 draft picks Josh Cameron and CJ Williams would be candidates to receive playing time alongside Brian Thomas and Parker Washington if Meyers misses any game action due to his lingering thumb injury.",
+        "description": "Meyers (thumb) was spotted in a non-contact jersey at Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports.",
+        "title": "Jakobi Meyers - Dons non-contact jersey Thursday",
+        "topic_id": "1403812553552896000"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1789057357000,
+      "source": "rotowire",
+      "source_key": "636681",
+      "story_id": "nfl|5947|rotowire|636681|1789057357000",
+      "title": "Jakobi Meyers - Dons non-contact jersey Thursday",
+      "url": null
+    },
+    {
+      "analysis": "Meyers remains up in the air for Sunday's season opener. His status will need to be monitored in practice on Friday. ",
+      "description": "Jakobi Meyers was in a non-contact jersey during practice on Thursday. ",
+      "metadata": {
+        "analysis": "Meyers remains up in the air for Sunday's season opener. His status will need to be monitored in practice on Friday. ",
+        "description": "Jakobi Meyers was in a non-contact jersey during practice on Thursday. ",
+        "title": "Jakobi Meyers (thumb) in non-contact jersey in practice",
+        "topic_id": "1403811300261298176",
+        "url": "https://www.fantasypros.com/nfl/news/606936/jakobi-meyers-thumb-non-contact-jersey-practice.php"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1789057204841,
+      "source": "fantasy_pros",
+      "source_key": "606936",
+      "story_id": "nfl|5947|fantasy_pros|606936|1789057204841",
+      "title": "Jakobi Meyers (thumb) in non-contact jersey in practice",
+      "url": "https://www.fantasypros.com/nfl/news/606936/jakobi-meyers-thumb-non-contact-jersey-practice.php"
+    },
+    {
+      "analysis": "Darnold underwent an MRI on his hip Thursday morning that team doctors still are reviewing to determine how much time he will miss. It sounds like he'll likely miss at least one or two games, but it appears he won't miss an extended period of time. ",
+      "description": "The Seahawks reportedly believe QB Sam Darnold \"dodged a bullet\" from his hip injury in Wednesday's season opener. ",
+      "metadata": {
+        "analysis": "Darnold underwent an MRI on his hip Thursday morning that team doctors still are reviewing to determine how much time he will miss. It sounds like he'll likely miss at least one or two games, but it appears he won't miss an extended period of time. ",
+        "description": "The Seahawks reportedly believe QB Sam Darnold \"dodged a bullet\" from his hip injury in Wednesday's season opener. ",
+        "title": "Sam Darnold (hip) believed to have 'dodged a bullet'",
+        "topic_id": "1403811300210966528",
+        "url": "https://www.fantasypros.com/nfl/news/606938/sam-darnold-hip-believed-to-have-dodged-bullet.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1789057204830,
+      "source": "fantasy_pros",
+      "source_key": "606938",
+      "story_id": "nfl|4943|fantasy_pros|606938|1789057204830",
+      "title": "Sam Darnold (hip) believed to have 'dodged a bullet'",
+      "url": "https://www.fantasypros.com/nfl/news/606938/sam-darnold-hip-believed-to-have-dodged-bullet.php"
+    },
+    {
+      "analysis": "Per Rob Demovsky of ESPN.com, the Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, and he'll likely remain on the list until the legal process is completed.",
+      "description": "Jacobs (personal) appeared in court in Green Bay on Thursday and pleaded no contest to misdemeanor charges of battery and criminal damage to property, Matt Schneidman of The Athletic reports.",
+      "metadata": {
+        "analysis": "Per Rob Demovsky of ESPN.com, the Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, and he'll likely remain on the list until the legal process is completed.",
+        "description": "Jacobs (personal) appeared in court in Green Bay on Thursday and pleaded no contest to misdemeanor charges of battery and criminal damage to property, Matt Schneidman of The Athletic reports.",
+        "title": "Josh Jacobs - Makes court appearance Thursday",
         "topic_id": "1403810037406646272"
       },
       "nfl_team": "GB",
@@ -31,7 +96,7 @@
       "source": "rotowire",
       "source_key": "636680",
       "story_id": "nfl|5850|rotowire|636680|1789056765000",
-      "title": "Josh Jacobs - Appears in court Thursday",
+      "title": "Josh Jacobs - Makes court appearance Thursday",
       "url": null
     },
     {
@@ -346,6 +411,46 @@
       "story_id": "nfl|5859|rotowire|636678|1789049085000",
       "title": "A.J. Brown - Believed to have high-ankle sprain",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "ESPN's Jeremy Fowler thinks that Arizona Cardinals veteran quarterback Jacoby Brissett could be a midseason trade candidate if he plays well, but the Cardinals struggle to win. Brissett surprised a lot of people last year when he averaged 280.5 passing yards per start over 12 games when he took over for the injured Kyler Murray, but that was also in old offensive coordinator Drew Petzing's scheme with a completely different coaching staff. If the aforementioned scenario happens and Brissett is traded away at midseason, it would open a path for the Cardinals to see what they have in Carson Beck, a third-rounder back in April. The 33-year-old Brissett threw for a career-high 3,366 yards, 23 touchdowns, and eight interceptions in 14 games (12 starts) last year. He has strong receiving options in Marvin Harrison Jr., Michael Wilson, and Trey McBride, but the overwhelming consensus is that new head coach Mike LaFleur's offense will be more balanced in 2026, making Brissett a regression candidate in terms of his fantasy value in his 11th year in the NFL.",
+      "metadata": {
+        "description": "ESPN's Jeremy Fowler thinks that Arizona Cardinals veteran quarterback Jacoby Brissett could be a midseason trade candidate if he plays well, but the Cardinals struggle to win. Brissett surprised a lot of people last year when he averaged 280.5 passing yards per start over 12 games when he took over for the injured Kyler Murray, but that was also in old offensive coordinator Drew Petzing's scheme with a completely different coaching staff. If the aforementioned scenario happens and Brissett is traded away at midseason, it would open a path for the Cardinals to see what they have in Carson Beck, a third-rounder back in April. The 33-year-old Brissett threw for a career-high 3,366 yards, 23 touchdowns, and eight interceptions in 14 games (12 starts) last year. He has strong receiving options in Marvin Harrison Jr., Michael Wilson, and Trey McBride, but the overwhelming consensus is that new head coach Mike LaFleur's offense will be more balanced in 2026, making Brissett a regression candidate in terms of his fantasy value in his 11th year in the NFL.",
+        "title": "Jacoby Brissett Could be a Trade Candidate at Midseason",
+        "topic_id": "1403813812057960448",
+        "url": "https://www.rotoballer.com/player-news/jacoby-brissett-could-be-a-trade-candidate-at-midseason/1927592"
+      },
+      "nfl_team": "ARI",
+      "player_id": "3257",
+      "player_name": "Jacoby Brissett",
+      "position": "QB",
+      "published": 1789043045000,
+      "source": "rotoballer",
+      "source_key": "220528",
+      "story_id": "nfl|3257|rotoballer|220528|1789043045000",
+      "title": "Jacoby Brissett Could be a Trade Candidate at Midseason",
+      "url": "https://www.rotoballer.com/player-news/jacoby-brissett-could-be-a-trade-candidate-at-midseason/1927592"
+    },
+    {
+      "analysis": null,
+      "description": "NewOrleans.Football's Nick Underhill expects New Orleans Saints running back Alvin Kamara (knee) to play in the Week 1 season opener on Sunday against the Detroit Lions, barring a setback in practice late this week. Kamara's return would give the Saints' offense more ways to use two backs and create space on offense. The 31-year-old returned to practice on Wednesday in a limited fashion, and he is apparently trending in the right direction to be ready for the 2026 regular-season opener this weekend after being held out for most of training camp in the summer due to an MCL sprain in his knee. Kamara also missed the end of the 2025 campaign with a knee injury, and his role in New Orleans is going to look a lot different this year with Travis Etienne Jr. in town and expected to see most of the backfield work for the Saints. Kamara will still have a role, too, but mostly in obvious pass-catching situations. Kamara's expected return this weekend is not great news for Etienne's fantasy ceiling in Week 1. Even though Kamara should be rostered in PPR leagues this season, he will make for a risky RB3/flex if he is active in Detroit.",
+      "metadata": {
+        "description": "NewOrleans.Football's Nick Underhill expects New Orleans Saints running back Alvin Kamara (knee) to play in the Week 1 season opener on Sunday against the Detroit Lions, barring a setback in practice late this week. Kamara's return would give the Saints' offense more ways to use two backs and create space on offense. The 31-year-old returned to practice on Wednesday in a limited fashion, and he is apparently trending in the right direction to be ready for the 2026 regular-season opener this weekend after being held out for most of training camp in the summer due to an MCL sprain in his knee. Kamara also missed the end of the 2025 campaign with a knee injury, and his role in New Orleans is going to look a lot different this year with Travis Etienne Jr. in town and expected to see most of the backfield work for the Saints. Kamara will still have a role, too, but mostly in obvious pass-catching situations. Kamara's expected return this weekend is not great news for Etienne's fantasy ceiling in Week 1. Even though Kamara should be rostered in PPR leagues this season, he will make for a risky RB3/flex if he is active in Detroit.",
+        "title": "Alvin Kamara Expected to Play in Week 1",
+        "topic_id": "1403811292862550016",
+        "url": "https://www.rotoballer.com/player-news/alvin-kamara-expected-to-play-in-week-1/1927578"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1789042445000,
+      "source": "rotoballer",
+      "source_key": "220526",
+      "story_id": "nfl|4035|rotoballer|220526|1789042445000",
+      "title": "Alvin Kamara Expected to Play in Week 1",
+      "url": "https://www.rotoballer.com/player-news/alvin-kamara-expected-to-play-in-week-1/1927578"
     },
     {
       "analysis": null,

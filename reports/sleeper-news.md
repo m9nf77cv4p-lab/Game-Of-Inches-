@@ -2,13 +2,21 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2489**
-- Newly captured: **2**
+- Stored stories: **2494**
+- Newly captured: **5**
 
 ## Latest news
 
-- **NEW — Josh Jacobs** — Josh Jacobs - Appears in court Thursday (2026-09-10T16:12:45Z)
-  - With Jacobs still unavailable to practice or play while on the exempt list, Green Bay's backfield remains without its top running back.
+- **NEW — Jakobi Meyers** — Jakobi Meyers - Dons non-contact jersey Thursday (2026-09-10T16:22:37Z)
+  - Meyers is practicing in a non-contact jersey for a second consecutive day after being listed as limited at Wednesday's practice. He'll have one more chance Friday to upgrade his participation level ahead of Sunday's season opener against the Browns. Two-way player Travis Hunter and rookie Day 3 draft picks Josh Cameron and CJ Williams would be candidates to receive playing time alongside Brian Thomas and Parker Washington if Meyers misses any game action due to his lingering thumb injury.
+- **NEW — Jakobi Meyers** — Jakobi Meyers (thumb) in non-contact jersey in practice (2026-09-10T16:20:04.841000Z)
+  - Meyers remains up in the air for Sunday's season opener. His status will need to be monitored in practice on Friday. 
+  - Source: https://www.fantasypros.com/nfl/news/606936/jakobi-meyers-thumb-non-contact-jersey-practice.php
+- **NEW — Sam Darnold** — Sam Darnold (hip) believed to have 'dodged a bullet' (2026-09-10T16:20:04.830000Z)
+  - Darnold underwent an MRI on his hip Thursday morning that team doctors still are reviewing to determine how much time he will miss. It sounds like he'll likely miss at least one or two games, but it appears he won't miss an extended period of time. 
+  - Source: https://www.fantasypros.com/nfl/news/606938/sam-darnold-hip-believed-to-have-dodged-bullet.php
+- **Josh Jacobs** — Josh Jacobs - Makes court appearance Thursday (2026-09-10T16:12:45Z)
+  - Per Rob Demovsky of ESPN.com, the Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, and he'll likely remain on the list until the legal process is completed.
 - **Jason Myers** — Jason Myers scores seven points in win Wednesday (2026-09-10T15:50:04.707000Z)
   - Myers did his job on Wednesday, knocking in all three of his kicks en route to a win over the Patriots. He will likely be a decent fantasy option at the position over the course of the season, assuming QB Sam Darnold (hip) doesn't miss significant time and leave the offense weaker moving forward.
   - Source: https://www.fantasypros.com/nfl/news/606930/jason-myers-scores-seven-points-win-wednesday.php
@@ -52,7 +60,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php
 - **A.J. Brown** — A.J. Brown - Believed to have high-ankle sprain (2026-09-10T14:04:45Z)
   - In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before departing in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.
-- **NEW — Pat Bryant** — Pat Bryant Could Force his Way into Bigger Role in 2026 (2026-09-10T12:06:05Z)
+- **NEW — Jacoby Brissett** — Jacoby Brissett Could be a Trade Candidate at Midseason (2026-09-10T12:24:05Z)
+  - Source: https://www.rotoballer.com/player-news/jacoby-brissett-could-be-a-trade-candidate-at-midseason/1927592
+- **NEW — Alvin Kamara** — Alvin Kamara Expected to Play in Week 1 (2026-09-10T12:14:05Z)
+  - Source: https://www.rotoballer.com/player-news/alvin-kamara-expected-to-play-in-week-1/1927578
+- **Pat Bryant** — Pat Bryant Could Force his Way into Bigger Role in 2026 (2026-09-10T12:06:05Z)
   - Source: https://www.rotoballer.com/player-news/pat-bryant-could-force-his-way-into-bigger-role-in-2026/1927561
 - **Stefon Diggs** — Stefon Diggs May Not Be Slowing Down Yet (2026-09-10T11:52:07Z)
   - Source: https://www.rotoballer.com/player-news/stefon-diggs-may-not-be-slowing-down-yet/1927551
@@ -227,15 +239,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606807/tucker-kraft-knee-off-injury-report-week-1.php
 - **Tre' Harris** — Tre' Harris - Fully healthy for Week 1 (2026-09-09T22:10:27Z)
   - Harris dealt with an unspecified injury last month but is fine for Sunday's season opener against the Cardinals. He's expected to fill the WR3 role behind Ladd McConkey and Quentin Johnson this season, but the Chargers also figure to use plenty of TE-heavy sets with Charlie Kolar, Oronde Gadsden and David Njoku.
-- **A.J. Brown** — A.J. Brown Questionable to Return with Ankle Injury (2026-09-09T22:10:06Z)
-  - Source: https://www.rotoballer.com/player-news/a-j-brown-questionable-to-return-with-ankle-injury/1927210
-- **Ashton Jeanty** — Ashton Jeanty - Logs full practice Wednesday (2026-09-09T22:09:35Z)
-  - When Jeanty left practice on Aug. 23, the initial concerns were significant because the running back wasn't able to put much pressure on his right leg as he exited the field. Adam Schefter of ESPN subsequently reported that Jeanty wasn't dealing with a long-term issue, and the diagnosis eventually revealed a low-ankle sprain. After logging all activity at Wednesday's session, Jeanty now is in the clear for Sunday's regular-season opener against the Dolphins, though he may still yield some RB reps to reserves Mike Washington and even Dylan Laube.
-- **Jaylin Noel** — Jaylin Noel - Fully healthy (2026-09-09T22:08:13Z)
-  - Noel dealt with hamstring and finger issues early on in camp but is ready to go for Sunday's season opener against Buffalo. The second-year wideout is competing with Xavier Hutchinson for snaps behind Nico Collins and trade pickup Kayshon Boutte.
-- **Zay Flowers** — Zay Flowers (hamstring) limited at practice Wednesday (2026-09-09T22:00:48.012000Z)
-  - Flowers was only able to practice in a limited fashion on Wednesday. There seems to be a lot of optimism for his Week 1 availability, but fantasy managers should keep tabs on him throughout the week to make sure he's ready to go for the season opener, as hamstring injuries have a tendency to reaggravate or linger longer than expected. He should be started in most league formats if he is fully cleared to play, however.
-  - Source: https://www.fantasypros.com/nfl/news/606802/zay-flowers-hamstring-limited-practice-wednesday.php
-- **Rachaad White** — Rachaad White (hamstring) off injury report for Sunday (2026-09-09T22:00:47.986000Z)
-  - The veteran running back is fully over his hamstring injury at this point and is set to be a full go for Washington's season opener on Sunday. He will be primed for more work if Jacory Croskey-Merritt (groin) is limited or sidelined for the team's matchup against the Eagles.
-  - Source: https://www.fantasypros.com/nfl/news/606804/rachaad-white-hamstring-off-injury-report-sunday.php
