@@ -2,11 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2420**
-- Newly captured: **1**
+- Stored stories: **2422**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Sam Darnold** — Sam Darnold (hip) ruled out for remainder of season opener (2026-09-10T01:40:36.224000Z)
+  - The injury was serious enough for the team to hold Darnold out, but he was able to get off the field under his own power and jog back to the locker room, so it's hopefully not too serious. Drew Lock will handle duties in the short term, which certainly caps the ceiling of the offense.
+  - Source: https://www.fantasypros.com/nfl/news/606856/sam-darnold-hip-ruled-out-remainder-season-opener.php
+- **NEW — Sam Darnold** — Sam Darnold - Done for night (2026-09-10T01:38:04Z)
+  - Darnold will undergo additional imaging on his hip off-site, and the exact diagnosis of his injury will likely be disclosed thereafter. Drew Lock will continue to operate as Seattle's quarterback in Darnold's absence versus the Patriots.
 - **Ollie Gordon** — Ollie Gordon - Not listed on injury report (2026-09-10T01:07:52Z)
   - Gordon recently returned to practice without a non-contact jersey. With his full participation in Wednesday's practice, all signs are pointing toward his availability for Week 1 versus the Raiders. The 22-year-old finished the 2025 campaign by rushing for 199 yards and three touchdowns off 70 carries, adding seven grabs for 32 yards and a touchdown in 17 regular-season appearances. Gordon currently occupies the No. 3 spot on the depth chart behind De'Von Achane and Jaylen Wright.
 - **Sam Darnold** — Sam Darnold (hip) questionable to return  (2026-09-10T00:55:49.137000Z)
@@ -109,6 +114,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606795/kyle-monangai-knee-good-to-go-week-1.php
 - **Khalil Shakir** — Khalil Shakir - Not listed on injury report (2026-09-09T21:35:38Z)
   - Shakir dealt with an unspecified injury last month, but he's good to go for Sunday's opener against the Texans. With DJ Moore now in Buffalo and Dalton Kincaid healthy headed into 2026, Shakir will have added competition for targets this season. He's a low-ceiling WR4/5 in fantasy.
+- **NEW — Alec Pierce** — Alec Pierce Gets Through Limited Practice on Wednesday (2026-09-09T21:33:14Z)
+  - Source: https://www.rotoballer.com/player-news/alec-pierce-gets-through-limited-practice-on-wednesday/1927194
 - **DK Metcalf** — DK Metcalf off injury report for Week 1 (2026-09-09T21:25:47.701000Z)
   - Metcalf was dealing with an undisclosed injury earlier, but it's not an issue for him anymore and he is off of the injury report entirely ahead of Week 1. He goes into the season as the projected top target for the Steelers this season.
   - Source: https://www.fantasypros.com/nfl/news/606791/dk-metcalf-off-injury-report-week-1.php
@@ -116,7 +123,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The fourth-year receiver downplayed the calf injury that slowed him towards the end of summer. Downs evaded the injury report entirely Wednesday, signaling that he should be ready to go for the opener against the Ravens. Indianapolis may be full-strength at receiver with Alec Pierce trending in the right direction as well.
 - **DK Metcalf** — DK Metcalf - Not listed on Wednesday's injury report (2026-09-09T21:21:20Z)
   - Neither Metcalf nor fellow WR Michael Pittman (hamstring) showed up on Wednesday's report after both players missed a good portion of training camp and the entire preseason slate due to health concerns. Now that Metcalf is back to 100 percent, he and Pittman are ready to take on a good portion of QB Aaron Rodgers' passes Sunday against the Falcons.
-- **NEW — Jeremiyah Love** — Jeremiyah Love is Limited During Wednesday's Practice (2026-09-09T21:19:15Z)
+- **Jeremiyah Love** — Jeremiyah Love is Limited During Wednesday's Practice (2026-09-09T21:19:15Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-is-limited-during-wednesdays-practice/1927187
 - **Michael Pittman** — Michael Pittman - Ready to go for Week 1 (2026-09-09T21:18:09Z)
   - Pittman and DK Metcalf (undisclosed) missed time in training camp and the preseason due to their injuries, but the Steelers will have both of their top wideouts available heading into Sunday's season opener versus the Falcons. With running back Kenny Gainwell moving on to Tampa Bay this offseason after a 73-catch season with Pittsburgh in 2025, Pittman will be a strong candidate to absorb some of the vacated short- and intermediate-area targets from quarterback Aaron Rodgers.
@@ -243,9 +250,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606739/jj-mccarthy-to-be-qb3-week-1.php
 - **J.J. McCarthy** — J.J. McCarthy - Opens season third on depth chart (2026-09-09T18:45:51Z)
   - After losing out in the battle with newcomer Kyler Murray for the starting job prior to the preseason opener, McCarthy will plummet all the way to third on the depth chart heading into Week 1, with Carson Wentz settling in as Murray's top backup. O'Connell said that he considers the No. 2 quarterback "a week-to-week thing," so McCarthy could leapfrog Wentz on the depth chart in future games depending on how he performs during practice. In any case, the fact that the 23-year-old McCarthy has to battle for the No. 2 job less than three years after being selected with the No. 10 overall pick in the 2024 NFL Draft is an indiction Minnesota doesn't view him as its long-term solution under center.
-- **Tucker Kraft** — Tucker Kraft Not on the Week 1 Injury Report (2026-09-09T18:39:05Z)
-  - Source: https://www.rotoballer.com/player-news/tucker-kraft-not-on-the-week-1-injury-report/1927142
-- **Khalil Shakir** — Khalil Shakir - Practicing Wednesday (2026-09-09T18:35:12Z)
-  - After being sidelined recently by an undisclosed injury, Shakir's presence on the field is an encouraging sign for the wide receiver's availability for Sunday's season opener against the Texans. He's expected to face added competition for targets from trade pickup DJ Moore and a healthy Dalton Kincaid this season.
-- **Tyreek Hill** — Tyreek Hill - Delaying comeback (2026-09-09T18:33:30Z)
-  - Hill is not yet 100 percent healthy after dislocating his knee and tearing multiple ligaments last season with the Dolphins. There's been no indication that the 32-year-old has drawn any interest on the open market, as teams are likely waiting for Hill to gain full medical clearance.

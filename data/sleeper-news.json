@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-10T01:31:32Z",
+  "last_checked_at": "2026-09-10T01:46:18Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13287|rotoballer|220474|1788988755000"
+    "nfl|4943|fantasy_pros|606856|1789004436224",
+    "nfl|4943|rotowire|636629|1789004284000",
+    "nfl|8142|rotoballer|220475|1788989594000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The injury was serious enough for the team to hold Darnold out, but he was able to get off the field under his own power and jog back to the locker room, so it's hopefully not too serious. Drew Lock will handle duties in the short term, which certainly caps the ceiling of the offense.",
+      "description": "Sam Darnold (hip) has been ruled out for the remainder of the Seahawks contest against the Patriots on Wednesday.",
+      "metadata": {
+        "analysis": "The injury was serious enough for the team to hold Darnold out, but he was able to get off the field under his own power and jog back to the locker room, so it's hopefully not too serious. Drew Lock will handle duties in the short term, which certainly caps the ceiling of the offense.",
+        "description": "Sam Darnold (hip) has been ruled out for the remainder of the Seahawks contest against the Patriots on Wednesday.",
+        "title": "Sam Darnold (hip) ruled out for remainder of season opener",
+        "topic_id": "1403589972644159488",
+        "url": "https://www.fantasypros.com/nfl/news/606856/sam-darnold-hip-ruled-out-remainder-season-opener.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1789004436224,
+      "source": "fantasy_pros",
+      "source_key": "606856",
+      "story_id": "nfl|4943|fantasy_pros|606856|1789004436224",
+      "title": "Sam Darnold (hip) ruled out for remainder of season opener",
+      "url": "https://www.fantasypros.com/nfl/news/606856/sam-darnold-hip-ruled-out-remainder-season-opener.php"
+    },
+    {
+      "analysis": "Darnold will undergo additional imaging on his hip off-site, and the exact diagnosis of his injury will likely be disclosed thereafter. Drew Lock will continue to operate as Seattle's quarterback in Darnold's absence versus the Patriots.",
+      "description": "Darnold (hip) has been ruled out for the remainder of Wednesday night's game against New England.",
+      "metadata": {
+        "analysis": "Darnold will undergo additional imaging on his hip off-site, and the exact diagnosis of his injury will likely be disclosed thereafter. Drew Lock will continue to operate as Seattle's quarterback in Darnold's absence versus the Patriots.",
+        "description": "Darnold (hip) has been ruled out for the remainder of Wednesday night's game against New England.",
+        "title": "Sam Darnold - Done for night",
+        "topic_id": "1403589969187966976"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1789004284000,
+      "source": "rotowire",
+      "source_key": "636629",
+      "story_id": "nfl|4943|rotowire|636629|1789004284000",
+      "title": "Sam Darnold - Done for night",
+      "url": null
+    },
     {
       "analysis": "Gordon recently returned to practice without a non-contact jersey. With his full participation in Wednesday's practice, all signs are pointing toward his availability for Week 1 versus the Raiders. The 22-year-old finished the 2025 campaign by rushing for 199 yards and three touchdowns off 70 carries, adding seven grabs for 32 yards and a touchdown in 17 regular-season appearances. Gordon currently occupies the No. 3 spot on the depth chart behind De'Von Achane and Jaylen Wright.",
       "description": "Gordon (ribs) is not listed on Wednesday's injury report, David Furones of the South Florida Sun Sentinel reports.",
@@ -834,6 +877,26 @@
       "story_id": "nfl|8134|rotowire|636517|1788989738000",
       "title": "Khalil Shakir - Not listed on injury report",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Alec Pierce (heel) was a limited participant during Wednesday's practice session. Pierce is still recovering from a heel injury that kept him from practicing until late August. Head coach Shane Steichen believes Pierce should be good to go for the Week 1 matchup against the Baltimore Ravens. He'll get two more chances to upgrade to full practice ahead of Sunday's season opener. Pierce expects to see a higher volume of targets after signing a massive extension with the Colts this past offseason. Fantasy managers should check back on Thursday and Friday for more updates on Pierce.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Alec Pierce (heel) was a limited participant during Wednesday's practice session. Pierce is still recovering from a heel injury that kept him from practicing until late August. Head coach Shane Steichen believes Pierce should be good to go for the Week 1 matchup against the Baltimore Ravens. He'll get two more chances to upgrade to full practice ahead of Sunday's season opener. Pierce expects to see a higher volume of targets after signing a massive extension with the Colts this past offseason. Fantasy managers should check back on Thursday and Friday for more updates on Pierce.",
+        "title": "Alec Pierce Gets Through Limited Practice on Wednesday",
+        "topic_id": "1403589965195030528",
+        "url": "https://www.rotoballer.com/player-news/alec-pierce-gets-through-limited-practice-on-wednesday/1927194"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1788989594000,
+      "source": "rotoballer",
+      "source_key": "220475",
+      "story_id": "nfl|8142|rotoballer|220475|1788989594000",
+      "title": "Alec Pierce Gets Through Limited Practice on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/alec-pierce-gets-through-limited-practice-on-wednesday/1927194"
     },
     {
       "analysis": "Metcalf was dealing with an undisclosed injury earlier, but it's not an issue for him anymore and he is off of the injury report entirely ahead of Week 1. He goes into the season as the projected top target for the Steelers this season.",
@@ -48656,26 +48719,6 @@
       "source_key": "633187",
       "story_id": "nfl|421|rotowire|633187|1786418447000",
       "title": "Matthew Stafford - Building strong rapport with Adams",
-      "url": null
-    },
-    {
-      "analysis": "Darnold enjoyed a productive 2025 season with Klint Kubiak as the offensive coordinator, with the duo playing a key part in the Seahawks' Super Bowl LX win. After Kubiak left for Las Vegas to be the head coach, Seattle brought in Fleury to take over as the offensive coordinator after four years as San Francisco's tight ends coach. Fleury has no experience calling plays, so he and Darnold have used the offseason to work toward full alignment on how to approach each game and series. The Seahawks also lost Super Bowl MVP Kenneth Walker to the Chiefs in the offseason, but Darnold still has Offensive Player of the Year Jaxon Smith-Njigba, as well as Rashid Shaheed, Cooper Kupp and tight end AJ Barner. Darnold and the offense will look to iron out the details in training camp and preseason games before starting their title defense in a Super Bowl rematch against the Patriots on Wednesday, Sept. 9.",
-      "description": "Darnold and the Seahawks offense are adjusting to the scheme of new offensive coordinator Brian Fleury, Jeff Howe of The Athletic reports.",
-      "metadata": {
-        "analysis": "Darnold enjoyed a productive 2025 season with Klint Kubiak as the offensive coordinator, with the duo playing a key part in the Seahawks' Super Bowl LX win. After Kubiak left for Las Vegas to be the head coach, Seattle brought in Fleury to take over as the offensive coordinator after four years as San Francisco's tight ends coach. Fleury has no experience calling plays, so he and Darnold have used the offseason to work toward full alignment on how to approach each game and series. The Seahawks also lost Super Bowl MVP Kenneth Walker to the Chiefs in the offseason, but Darnold still has Offensive Player of the Year Jaxon Smith-Njigba, as well as Rashid Shaheed, Cooper Kupp and tight end AJ Barner. Darnold and the offense will look to iron out the details in training camp and preseason games before starting their title defense in a Super Bowl rematch against the Patriots on Wednesday, Sept. 9.",
-        "description": "Darnold and the Seahawks offense are adjusting to the scheme of new offensive coordinator Brian Fleury, Jeff Howe of The Athletic reports.",
-        "title": "Sam Darnold - Building rapport with new OC",
-        "topic_id": "1392718323648565248"
-      },
-      "nfl_team": "SEA",
-      "player_id": "4943",
-      "player_name": "Sam Darnold",
-      "position": "QB",
-      "published": 1786412227000,
-      "source": "rotowire",
-      "source_key": "633163",
-      "story_id": "nfl|4943|rotowire|633163|1786412227000",
-      "title": "Sam Darnold - Building rapport with new OC",
       "url": null
     }
   ]
