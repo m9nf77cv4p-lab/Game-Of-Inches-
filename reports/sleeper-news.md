@@ -7,8 +7,10 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 ## Latest news
 
-- **NEW — Keaton Mitchell** — Keaton Mitchell - Stays limited in practice (2026-09-10T21:54:52Z)
-  - The Chargers put a cap on Mitchell's reps for a second straight day, but his ability to practice in any capacity on consecutive days to kick off Week 1 prep is an encouraging sign for his chances of playing in Sunday's season opener.
+- **NEW — Brock Bowers** — Brock Bowers - Sits out practice, set to miss time (2026-09-10T22:00:50Z)
+  - Head coach Klint Kubiak has yet to officially rule Bowers out for Sunday's season opener versus the Dolphins, but the standout tight end is fully expected to be sidelined for Week 1 -- and likely, additional games beyond that -- after Adam Schefter and Ian Rapoport of ESPN reported that Bowers underwent a meniscus trim procedure Tuesday. Though the previous report indicated that Bowers is expected to miss "a game or two," Schefter clarified Thursday in an appearance on "The Pat McAfee Show" that that timeline is coming from the tight end's camp and may be overly optimistic. For however long Bowers is sidelined, Michael Mayer is expected to take on an expanded role in the passing game as the Raiders' top tight end, and starting wideouts Tre Tucker and Jalen Nailor will also have clearer paths to elevated target counts.
+- **Keaton Mitchell** — Keaton Mitchell - Stays limited in practice (2026-09-10T21:54:52Z)
+  - The Chargers put a cap on Mitchell's reps for a second straight day, but his ability to practice in any capacity on consecutive days to kick off Week 1 prep is an encouraging sign for his chances of playing in Sunday's season opener versus the Cardinals. If he's cleared to play against Arizona, Mitchell would likely be in line for a complementary role behind lead back Omarion Hampton.
 - **Marvin Mims** — Marvin Mims - Practices fully to kick off Week 1 prep (2026-09-10T21:43:43Z)
   - Mims sustained a foot contusion in the Broncos' Aug. 28 preseason finale against the Vikings, but after having no limitations in the team's first official practice of the regular season, he'll be ready to go for the opener Monday in Kansas City. On the Broncos' unofficial depth chart, Mims is listed as a starting receiver along with Jaylen Waddle and Courtland Sutton, though second-year wideout Pat Bryant drew plenty of positive buzz during training camp and the preseason and could push Mims for No. 3 duties.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Remains limited in practice (2026-09-10T21:41:33Z)
@@ -245,5 +247,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/malik-nabers-on-track-to-play-sunday-night/1927704
 - **De'Zhaun Stribling** — De'Zhaun Stribling WR3 On Depth Chart Ahead Of Week 1 (2026-09-10T13:44:05Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-wr3-on-depth-chart-ahead-of-week-1/1927700
-- **Jeremiyah Love** — Jeremiyah Love Expected to Play Sunday (2026-09-10T13:38:08Z)
-  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-expected-to-play-sunday/1927686

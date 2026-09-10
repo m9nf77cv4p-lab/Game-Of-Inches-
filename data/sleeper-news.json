@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T21:57:14Z",
+  "last_checked_at": "2026-09-10T22:12:57Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|9511|rotowire|636719|1789077292000"
+    "nfl|11604|rotowire|636720|1789077650000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,10 +14,30 @@
   },
   "stories": [
     {
-      "analysis": "The Chargers put a cap on Mitchell's reps for a second straight day, but his ability to practice in any capacity on consecutive days to kick off Week 1 prep is an encouraging sign for his chances of playing in Sunday's season opener.",
+      "analysis": "Head coach Klint Kubiak has yet to officially rule Bowers out for Sunday's season opener versus the Dolphins, but the standout tight end is fully expected to be sidelined for Week 1 -- and likely, additional games beyond that -- after Adam Schefter and Ian Rapoport of ESPN reported that Bowers underwent a meniscus trim procedure Tuesday. Though the previous report indicated that Bowers is expected to miss \"a game or two,\" Schefter clarified Thursday in an appearance on \"The Pat McAfee Show\" that that timeline is coming from the tight end's camp and may be overly optimistic. For however long Bowers is sidelined, Michael Mayer is expected to take on an expanded role in the passing game as the Raiders' top tight end, and starting wideouts Tre Tucker and Jalen Nailor will also have clearer paths to elevated target counts.",
+      "description": "Bowers (knee) remained a non-participant in Thursday's practice, Anthony Galaviz of The Fresno Bee reports.",
+      "metadata": {
+        "analysis": "Head coach Klint Kubiak has yet to officially rule Bowers out for Sunday's season opener versus the Dolphins, but the standout tight end is fully expected to be sidelined for Week 1 -- and likely, additional games beyond that -- after Adam Schefter and Ian Rapoport of ESPN reported that Bowers underwent a meniscus trim procedure Tuesday. Though the previous report indicated that Bowers is expected to miss \"a game or two,\" Schefter clarified Thursday in an appearance on \"The Pat McAfee Show\" that that timeline is coming from the tight end's camp and may be overly optimistic. For however long Bowers is sidelined, Michael Mayer is expected to take on an expanded role in the passing game as the Raiders' top tight end, and starting wideouts Tre Tucker and Jalen Nailor will also have clearer paths to elevated target counts.",
+        "description": "Bowers (knee) remained a non-participant in Thursday's practice, Anthony Galaviz of The Fresno Bee reports.",
+        "title": "Brock Bowers - Sits out practice, set to miss time",
+        "topic_id": "1403898221469679616"
+      },
+      "nfl_team": "LV",
+      "player_id": "11604",
+      "player_name": "Brock Bowers",
+      "position": "TE",
+      "published": 1789077650000,
+      "source": "rotowire",
+      "source_key": "636720",
+      "story_id": "nfl|11604|rotowire|636720|1789077650000",
+      "title": "Brock Bowers - Sits out practice, set to miss time",
+      "url": null
+    },
+    {
+      "analysis": "The Chargers put a cap on Mitchell's reps for a second straight day, but his ability to practice in any capacity on consecutive days to kick off Week 1 prep is an encouraging sign for his chances of playing in Sunday's season opener versus the Cardinals. If he's cleared to play against Arizona, Mitchell would likely be in line for a complementary role behind lead back Omarion Hampton.",
       "description": "Mitchell (hamstring) was a limited participant in Thursday's practice.",
       "metadata": {
-        "analysis": "The Chargers put a cap on Mitchell's reps for a second straight day, but his ability to practice in any capacity on consecutive days to kick off Week 1 prep is an encouraging sign for his chances of playing in Sunday's season opener.",
+        "analysis": "The Chargers put a cap on Mitchell's reps for a second straight day, but his ability to practice in any capacity on consecutive days to kick off Week 1 prep is an encouraging sign for his chances of playing in Sunday's season opener versus the Cardinals. If he's cleared to play against Arizona, Mitchell would likely be in line for a complementary role behind lead back Omarion Hampton.",
         "description": "Mitchell (hamstring) was a limited participant in Thursday's practice.",
         "title": "Keaton Mitchell - Stays limited in practice",
         "topic_id": "1403895704560152576"
@@ -51860,26 +51880,6 @@
       "story_id": "nfl|11643|rotowire|633273|1786487906000",
       "title": "Jaylen Wright - Leading RB2 competition",
       "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Jacksonville Jaguars two-way player Travis Hunter is listed as the backup wide receiver, but a starting defensive back on the first unofficial depth chart, according to Ryan O'Halloran. The Jags have been shy about saying how they plan to deploy Hunter this upcoming season. According to Michael DiRocco of ESPN, Hunter has taken nearly 100 snaps on defense and 61 on offense during 11-on-11 drills. Jaguars head coach Liam Coen said Hunter won't need to know the entire offensive playbook this year. This offense does have Brian Thomas Jr., Jakobi Meyers, and Parker Washington, so having Hunter is just a plus. Hunter is currently ranked as Rotoballer's WR72, but he could be a difference-maker depending on how the Jags use him.",
-      "metadata": {
-        "description": "Jacksonville Jaguars two-way player Travis Hunter is listed as the backup wide receiver, but a starting defensive back on the first unofficial depth chart, according to Ryan O'Halloran. The Jags have been shy about saying how they plan to deploy Hunter this upcoming season. According to Michael DiRocco of ESPN, Hunter has taken nearly 100 snaps on defense and 61 on offense during 11-on-11 drills. Jaguars head coach Liam Coen said Hunter won't need to know the entire offensive playbook this year. This offense does have Brian Thomas Jr., Jakobi Meyers, and Parker Washington, so having Hunter is just a plus. Hunter is currently ranked as Rotoballer's WR72, but he could be a difference-maker depending on how the Jags use him.",
-        "title": "Travis Hunter Listed as Backup WR, Starter at CB",
-        "topic_id": "1393087054753067008",
-        "url": "https://www.rotoballer.com/player-news/travis-hunter-listed-as-backup-wr-starter-at-cb/1907291"
-      },
-      "nfl_team": "JAX",
-      "player_id": "12530",
-      "player_name": "Travis Hunter",
-      "position": "WR",
-      "published": 1786485485000,
-      "source": "rotoballer",
-      "source_key": "218398",
-      "story_id": "nfl|12530|rotoballer|218398|1786485485000",
-      "title": "Travis Hunter Listed as Backup WR, Starter at CB",
-      "url": "https://www.rotoballer.com/player-news/travis-hunter-listed-as-backup-wr-starter-at-cb/1907291"
     }
   ]
 }
