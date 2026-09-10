@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-10T00:49:00Z",
+  "last_checked_at": "2026-09-10T01:00:43Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13287|rotowire|636590|1788999802000"
+    "nfl|4943|fantasy_pros|606840|1789001749137",
+    "nfl|4943|rotoballer|220473|1788986707000",
+    "nfl|4943|rotowire|636606|1789001249000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Darnold suffered the apparent injury on the third down sack on their first offensive drive. Drew Lock is currently in at quarterback for the Seahawks. Fantasy managers should expect the team to update Darnold's status after halftime. ",
+      "description": "Seahawks QB Sam Darnold (hip) is questionable to return Wednesday. ",
+      "metadata": {
+        "analysis": "Darnold suffered the apparent injury on the third down sack on their first offensive drive. Drew Lock is currently in at quarterback for the Seahawks. Fantasy managers should expect the team to update Darnold's status after halftime. ",
+        "description": "Seahawks QB Sam Darnold (hip) is questionable to return Wednesday. ",
+        "title": "Sam Darnold (hip) questionable to return ",
+        "topic_id": "1403578702163406848",
+        "url": "https://www.fantasypros.com/nfl/news/606840/sam-darnold-hip-questionable-to-return.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1789001749137,
+      "source": "fantasy_pros",
+      "source_key": "606840",
+      "story_id": "nfl|4943|fantasy_pros|606840|1789001749137",
+      "title": "Sam Darnold (hip) questionable to return ",
+      "url": "https://www.fantasypros.com/nfl/news/606840/sam-darnold-hip-questionable-to-return.php"
+    },
+    {
+      "analysis": "Darnold suffered a hip injury on the Seahawks' opening possession, and he is now considered questionable to return to the contest, per Adam Schefter of ESPN. Drew Lock has entered the contest at quarterback for Seattle.",
+      "description": "Darnold (hip) left Wednesday night's contest against the Patriots in the first quarter, Curtis Crabtree of Fox 13 Seattle reports.",
+      "metadata": {
+        "analysis": "Darnold suffered a hip injury on the Seahawks' opening possession, and he is now considered questionable to return to the contest, per Adam Schefter of ESPN. Drew Lock has entered the contest at quarterback for Seattle.",
+        "description": "Darnold (hip) left Wednesday night's contest against the Patriots in the first quarter, Curtis Crabtree of Fox 13 Seattle reports.",
+        "title": "Sam Darnold - Questionable to return",
+        "topic_id": "1403577439065485313"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1789001249000,
+      "source": "rotowire",
+      "source_key": "636606",
+      "story_id": "nfl|4943|rotowire|636606|1789001249000",
+      "title": "Sam Darnold - Questionable to return",
+      "url": null
+    },
     {
       "analysis": "Love's status for Week 1 has been murky since he emerged from the Cardinals' preseason opener with a high-ankle sprain, which coach Mike LaFleur downplayed for most of the past month. When LaFleur discussed Love ahead of Wednesday's session, he told PHNX Sports \"don't look too far into that\" when discussing the rookie's listing as the No. 2 RB on the team's unofficial depth chart, while at the same time telling Brack that \"there's no limit on our end\" to Love's activity level. Considering Love's listing of \"limited\" Wednesday, he still has some work to do to be available for Sunday's game at the Chargers. Tyler Allgeier would serve as Arizona's lead back Week 1 if Love is operating with a cap on his reps or not suited up, while Bam Knight would be in line for some work as well.",
       "description": "Love (ankle) was a limited practice participant Wednesday, Bo Brack of GoPHNX.com reports.",
@@ -1197,6 +1240,26 @@
       "story_id": "nfl|11583|rotowire|636495|1788986811000",
       "title": "Jonathon Brooks - Declares himself 100 percent",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "According to Ian Rapoport of the NFL Network, Seattle Seahawks quarterback Sam Darnold (ankle) exited Wednesday's game early due to an ankle injury. Darnold suffered this injury on the team's opening drive after landing awkwardly on his ankle. He is set to undergo X-rays and is questionable to return. On the first possession, Darnold went 1-for-2 with a 13-yard pass to his top wideout, Jaxon Smith-Njigba. While he remains out, Drew Lock will take over QB1 duties.",
+      "metadata": {
+        "description": "According to Ian Rapoport of the NFL Network, Seattle Seahawks quarterback Sam Darnold (ankle) exited Wednesday's game early due to an ankle injury. Darnold suffered this injury on the team's opening drive after landing awkwardly on his ankle. He is set to undergo X-rays and is questionable to return. On the first possession, Darnold went 1-for-2 with a 13-yard pass to his top wideout, Jaxon Smith-Njigba. While he remains out, Drew Lock will take over QB1 duties.",
+        "title": "Sam Darnold Exits Season Opener, Questionable to Return with Ankle Injury",
+        "topic_id": "1403577436016316416",
+        "url": "https://www.rotoballer.com/player-news/sam-darnold-exits-season-opener-with-ankle-injury/1927175"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1788986707000,
+      "source": "rotoballer",
+      "source_key": "220473",
+      "story_id": "nfl|4943|rotoballer|220473|1788986707000",
+      "title": "Sam Darnold Exits Season Opener, Questionable to Return with Ankle Injury",
+      "url": "https://www.rotoballer.com/player-news/sam-darnold-exits-season-opener-with-ankle-injury/1927175"
     },
     {
       "analysis": "Indianapolis' star tight end looks good to go for the opener after not even being listed on the practice report to start the week. Warren was dealing with a minor groin issue late in camp but the expectation has been that he would be ready to begin the season. The Colts host the Ravens to kick off the season Sunday.",
