@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-09-10T20:55:46Z",
+  "last_checked_at": "2026-09-10T21:10:05Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|12527|rotoballer|220571|1789059016000",
-    "nfl|13287|rotowire|636710|1789073325000",
-    "nfl|8142|rotoballer|220570|1789058531000"
+    "nfl|12522|rotoballer|220572|1789059426000",
+    "nfl|4046|fantasy_pros|607002|1789074329581",
+    "nfl|4046|rotowire|636711|1789073831000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,11 +16,52 @@
   },
   "stories": [
     {
+      "analysis": "Mahomes was able to take part in Kansas City's first practice of the week on Thursday and wasn't limited in any way. It seems like the team is planning on him starting on Monday night, barring any unforeseen setbacks. His presence would be great news for the fantasy value of players like Rashee Rice and Travis Kelce in a matchup against a tough Denver defense.",
+      "description": "Patrick Mahomes II (knee) practiced in a full capacity on Thursday.",
+      "metadata": {
+        "analysis": "Mahomes was able to take part in Kansas City's first practice of the week on Thursday and wasn't limited in any way. It seems like the team is planning on him starting on Monday night, barring any unforeseen setbacks. His presence would be great news for the fantasy value of players like Rashee Rice and Travis Kelce in a matchup against a tough Denver defense.",
+        "description": "Patrick Mahomes II (knee) practiced in a full capacity on Thursday.",
+        "title": "Patrick Mahomes II (knee) practices in full Thursday",
+        "topic_id": "1403883126354132992",
+        "url": "https://www.fantasypros.com/nfl/news/607002/patrick-mahomes-ii-knee-practices-full-thursday.php"
+      },
+      "nfl_team": "KC",
+      "player_id": "4046",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "published": 1789074329581,
+      "source": "fantasy_pros",
+      "source_key": "607002",
+      "story_id": "nfl|4046|fantasy_pros|607002|1789074329581",
+      "title": "Patrick Mahomes II (knee) practices in full Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/607002/patrick-mahomes-ii-knee-practices-full-thursday.php"
+    },
+    {
+      "analysis": "Mahomes' ability to take every rep Thursday clears the way for him to play in Monday's season opener versus the Broncos.",
+      "description": "Mahomes (knee) opened Week 1 prep as a full practice participant Thursday.",
+      "metadata": {
+        "analysis": "Mahomes' ability to take every rep Thursday clears the way for him to play in Monday's season opener versus the Broncos.",
+        "description": "Mahomes (knee) opened Week 1 prep as a full practice participant Thursday.",
+        "title": "Patrick Mahomes - Practices fully, looks ready for opener",
+        "topic_id": "1403881861498834944"
+      },
+      "nfl_team": "KC",
+      "player_id": "4046",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "published": 1789073831000,
+      "source": "rotowire",
+      "source_key": "636711",
+      "story_id": "nfl|4046|rotowire|636711|1789073831000",
+      "title": "Patrick Mahomes - Practices fully, looks ready for opener",
+      "url": null
+    },
+    {
       "analysis": "Love is set to practice in some capacity Thursday after being listed as a limited participant Wednesday. The rookie third overall pick is working his way back from a high-ankle sprain sustained exactly one month before Sunday's regular-season opener against the Chargers. Once cleared for game action, Love is expected to operate in a split backfield with Tyler Allgeier.",
-      "description": "Love (ankle) is warming up ahead of Thursday's practice after being listed as a limited participant Wednesday, Dani Sureck of the Cardinals' official site reports.",
+      "description": "Love (ankle) is warming up ahead of Thursday's practice, Dani Sureck of the Cardinals' official site reports.",
       "metadata": {
         "analysis": "Love is set to practice in some capacity Thursday after being listed as a limited participant Wednesday. The rookie third overall pick is working his way back from a high-ankle sprain sustained exactly one month before Sunday's regular-season opener against the Chargers. Once cleared for game action, Love is expected to operate in a split backfield with Tyler Allgeier.",
-        "description": "Love (ankle) is warming up ahead of Thursday's practice after being listed as a limited participant Wednesday, Dani Sureck of the Cardinals' official site reports.",
+        "description": "Love (ankle) is warming up ahead of Thursday's practice, Dani Sureck of the Cardinals' official site reports.",
         "title": "Jeremiyah Love - Warming up before practice",
         "topic_id": "1403880603635445760"
       },
@@ -854,6 +895,26 @@
       "story_id": "nfl|13317|rotowire|636685|1789062106000",
       "title": "Ted Hurst - Talked up by OC",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Tennessee Titans quarterback Cam Ward put together an up-and-down season as a rookie in 2025, completing 59.8% of his pass attempts for 3,169 yards, 15 touchdowns, and seven interceptions across 17 games. If Ward's production does not take a step forward in 2026, he should remain off the radar of fantasy managers in the majority of league formats. However, Ward should have a much better offensive ecosystem around him in his second NFL season. The Titans used the fourth overall pick this past April on wide receiver Carnell Tate, signed veteran slot receiver Wan'Dale Robinson in free agency, and brought in former New York Giants head coach Brian Daboll as their new offensive coordinator. In deeper league formats, Ward could be worth stashing off the waiver wire in case he emerges as a breakout quarterback in 2026.",
+      "metadata": {
+        "description": "Tennessee Titans quarterback Cam Ward put together an up-and-down season as a rookie in 2025, completing 59.8% of his pass attempts for 3,169 yards, 15 touchdowns, and seven interceptions across 17 games. If Ward's production does not take a step forward in 2026, he should remain off the radar of fantasy managers in the majority of league formats. However, Ward should have a much better offensive ecosystem around him in his second NFL season. The Titans used the fourth overall pick this past April on wide receiver Carnell Tate, signed veteran slot receiver Wan'Dale Robinson in free agency, and brought in former New York Giants head coach Brian Daboll as their new offensive coordinator. In deeper league formats, Ward could be worth stashing off the waiver wire in case he emerges as a breakout quarterback in 2026.",
+        "title": "Cam Ward a Year 2 Breakout Candidate Entering 2026?",
+        "topic_id": "1403881859808518144",
+        "url": "https://www.rotoballer.com/player-news/cam-ward-a-year-two-breakout-candidate-entering-2026/1927878"
+      },
+      "nfl_team": "TEN",
+      "player_id": "12522",
+      "player_name": "Cam Ward",
+      "position": "QB",
+      "published": 1789059426000,
+      "source": "rotoballer",
+      "source_key": "220572",
+      "story_id": "nfl|12522|rotoballer|220572|1789059426000",
+      "title": "Cam Ward a Year 2 Breakout Candidate Entering 2026?",
+      "url": "https://www.rotoballer.com/player-news/cam-ward-a-year-two-breakout-candidate-entering-2026/1927878"
     },
     {
       "analysis": null,

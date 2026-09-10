@@ -2,12 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2567**
+- Stored stories: **2570**
 - Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Jeremiyah Love** — Jeremiyah Love - Warming up before practice (2026-09-10T20:48:45Z)
+- **NEW — Patrick Mahomes** — Patrick Mahomes II (knee) practices in full Thursday (2026-09-10T21:05:29.581000Z)
+  - Mahomes was able to take part in Kansas City's first practice of the week on Thursday and wasn't limited in any way. It seems like the team is planning on him starting on Monday night, barring any unforeseen setbacks. His presence would be great news for the fantasy value of players like Rashee Rice and Travis Kelce in a matchup against a tough Denver defense.
+  - Source: https://www.fantasypros.com/nfl/news/607002/patrick-mahomes-ii-knee-practices-full-thursday.php
+- **NEW — Patrick Mahomes** — Patrick Mahomes - Practices fully, looks ready for opener (2026-09-10T20:57:11Z)
+  - Mahomes' ability to take every rep Thursday clears the way for him to play in Monday's season opener versus the Broncos.
+- **Jeremiyah Love** — Jeremiyah Love - Warming up before practice (2026-09-10T20:48:45Z)
   - Love is set to practice in some capacity Thursday after being listed as a limited participant Wednesday. The rookie third overall pick is working his way back from a high-ankle sprain sustained exactly one month before Sunday's regular-season opener against the Chargers. Once cleared for game action, Love is expected to operate in a split backfield with Tyler Allgeier.
 - **Zay Flowers** — Zay Flowers - Upgrades to full Thursday (2026-09-10T20:41:31Z)
   - Flowers was listed as a limited participant Wednesday but upgraded to full participation Thursday, putting him on track to play in Sunday's season opener against the Colts. After leading the Ravens with 1,211 receiving yards last season, Flowers is set to reprise his role as Lamar Jackson's top target under new offensive coordinator Declan Doyle.
@@ -109,14 +114,16 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Allen worked with the starters for most of the preseason while Hall was sidelined by a groin injury. Hall practiced without limitations Wednesday, as did Isaiah Davis (knee), who is listed third on the team's unofficial depth chart. Allen is listed at 235 pounds and has reportedly bulked up to around 250. The 2024 fourth-round pick's large frame could help Allen command valuable goal-line and short-yardage work even while Hall is healthy.
 - **Ted Hurst** — Ted Hurst - Talked up by OC (2026-09-10T17:41:46Z)
   - Hurst is likely to begin his career in a depth role, though the rookie third-round pick out of Georgia State could see some involvement on offense out of the gate, especially if Jalen McMillan (knee) isn't cleared to face the Bengals in Week 1. McMillan practiced on a limited basis Wednesday, while Emeka Egbuka practiced fully after dealing with a recent toe injury. Egbuka and Chris Godwin figure to get most of the targets among Tampa Bay's wide receivers, though the 6-foot-3 Hurst showed the ability to stretch the field in college and may not need heavy volume to make an impact.
-- **NEW — Ashton Jeanty** — Ashton Jeanty Feels "Really Good" Ahead of Week 1 (2026-09-10T16:50:16Z)
+- **NEW — Cam Ward** — Cam Ward a Year 2 Breakout Candidate Entering 2026? (2026-09-10T16:57:06Z)
+  - Source: https://www.rotoballer.com/player-news/cam-ward-a-year-two-breakout-candidate-entering-2026/1927878
+- **Ashton Jeanty** — Ashton Jeanty Feels "Really Good" Ahead of Week 1 (2026-09-10T16:50:16Z)
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-feels-really-good-ahead-of-week-1/1927876
 - **Sam Darnold** — Sam Darnold (hip) expected to miss Week 2 (2026-09-10T16:50:04.794000Z)
   - Darnold is continuing to be further evaluated. He'll miss at least one game with a return by Week 3 seemingly being a possibility. 
   - Source: https://www.fantasypros.com/nfl/news/606941/sam-darnold-hip-expected-to-miss-week-2.php
 - **Sam Darnold** — Sam Darnold - Expected to miss at least one game (2026-09-10T16:47:54Z)
   - Darnold avoided a major injury, but he's likely to miss at least one game as a result of the hip injury he sustained in the first quarter of Wednesday's 13-10 win over the Patriots. Assuming he's ruled out for Week 2, Darnold will have 18 days of recovery time between Wednesday's win and Seattle's Week 3 road game against the Commanders. Drew Lock, who threw for 187 yards and a touchdown after replacing Darnold on Wednesday, is expected to get the Week 2 start under center.
-- **NEW — Alec Pierce** — Alec Pierce Limited Again on Thursday (2026-09-10T16:42:11Z)
+- **Alec Pierce** — Alec Pierce Limited Again on Thursday (2026-09-10T16:42:11Z)
   - Source: https://www.rotoballer.com/player-news/alec-pierce-limited-again-on-thursday/1927870
 - **Breece Hall** — Breece Hall - Expected to avoid snap count (2026-09-10T16:41:54Z)
   - Hall initially received a recovery timetable of 2-to-3 weeks after sustaining a groin strain Aug. 17. Just over three weeks has passed since that date, and Hall practiced without limitations Wednesday, suggesting he has made a full recovery. Braelon Allen and Isaiah Davis, the latter of whom has been cleared to return from a knee injury sustained during training camp, could factor into the game plan as change-of-pace options, but Hall is expected to lead the Jets backfield and handle his normal workload against the Titans in Week 1.
@@ -237,9 +244,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/brock-purdy-surrounded-by-options-still-qb2-against-rams-improved-defense/1927612
 - **Jakobi Meyers** — Jakobi Meyers in Non-Contact Jersey Again on Thursday (2026-09-10T12:45:05Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-meyers-in-non-contact-jersey-again-on-thursday/1927606
-- **Sam Darnold** — Sam Darnold To Miss Time, But Seahawks "Dodge a Bullet" (2026-09-10T12:36:35Z)
-  - Source: https://www.rotoballer.com/player-news/sam-darnold-to-miss-time-but-seahawks-dodge-a-bullet/1927601
-- **Josh Jacobs** — Josh Jacobs Pleads No Contest to Charges (2026-09-10T12:30:09Z)
-  - Source: https://www.rotoballer.com/player-news/josh-jacobs-pleads-no-contest-to-charges/1927596
-- **Jacoby Brissett** — Jacoby Brissett Could be a Trade Candidate at Midseason (2026-09-10T12:24:05Z)
-  - Source: https://www.rotoballer.com/player-news/jacoby-brissett-could-be-a-trade-candidate-at-midseason/1927592
