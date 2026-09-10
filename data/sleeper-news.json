@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-10T16:57:42Z",
+  "last_checked_at": "2026-09-10T17:14:02Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|4943|fantasy_pros|606941|1789059004794",
-    "nfl|4943|rotowire|636684|1789058874000",
-    "nfl|5947|rotoballer|220532|1789044305000"
+    "nfl|8155|rotoballer|220533|1789044845000",
+    "nfl|8183|rotoballer|220534|1789044606000"
   ],
   "schema_version": 1,
   "source": {
@@ -490,6 +489,46 @@
       "story_id": "nfl|5859|rotowire|636678|1789049085000",
       "title": "A.J. Brown - Believed to have high-ankle sprain",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets offensive coordinator Frank Reich said on Thursday that there will be no anticipated pitch count for running back Breece Hall (groin) in the Week 1 season opener this Sunday against the Tennessee Titans, according to Rich Cimini of ESPN. Reich said he likes to rotate RBs anyway, but \"unless AG and the training staff give us a rep count, we just go play ball.\" Hall should be good for his normal rep count in the season opener despite being held out of practices late in training camp due to a minor groin issue. He has practiced so far this week and should be locked into starting fantasy lineups as at least a strong RB2 option for managers to kick off the season in a new-look offense led by veteran quarterback Geno Smith. Braelon Allen and Isaiah Davis will continue to be sprinkled in, but Hall is the Jets' clear workhorse back when he is healthy, and he should continue to see plenty of volume. The 25-year-old is coming off his first career 1,000-yard season with four rushing touchdowns on 243 carries in 2025, adding 36 receptions for 350 yards and another TD through the air in 16 starts.",
+      "metadata": {
+        "description": "New York Jets offensive coordinator Frank Reich said on Thursday that there will be no anticipated pitch count for running back Breece Hall (groin) in the Week 1 season opener this Sunday against the Tennessee Titans, according to Rich Cimini of ESPN. Reich said he likes to rotate RBs anyway, but \"unless AG and the training staff give us a rep count, we just go play ball.\" Hall should be good for his normal rep count in the season opener despite being held out of practices late in training camp due to a minor groin issue. He has practiced so far this week and should be locked into starting fantasy lineups as at least a strong RB2 option for managers to kick off the season in a new-look offense led by veteran quarterback Geno Smith. Braelon Allen and Isaiah Davis will continue to be sprinkled in, but Hall is the Jets' clear workhorse back when he is healthy, and he should continue to see plenty of volume. The 25-year-old is coming off his first career 1,000-yard season with four rushing touchdowns on 243 carries in 2025, adding 36 receptions for 350 yards and another TD through the air in 16 starts.",
+        "title": "Breece Hall Not Expected to be on a Pitch Count",
+        "topic_id": "1403821362467876864",
+        "url": "https://www.rotoballer.com/player-news/breece-hall-not-expected-to-be-on-a-pitch-count/1927619"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8155",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "published": 1789044845000,
+      "source": "rotoballer",
+      "source_key": "220533",
+      "story_id": "nfl|8155|rotoballer|220533|1789044845000",
+      "title": "Breece Hall Not Expected to be on a Pitch Count",
+      "url": "https://www.rotoballer.com/player-news/breece-hall-not-expected-to-be-on-a-pitch-count/1927619"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers quarterback Brock Purdy lost out on eight games of production in 2025 while dealing with turf toe. In nine games, Purdy threw for 2,167 yards, 20 touchdowns, and 10 interceptions. Now healthy and bearing the weight of the $250 million contract he signed prior to last season, Purdy needs to start 2026 on the right foot. San Francisco brought in wide receivers Mike Evans, rookie De'Zhaun Stribling, and Deebo Samuel Sr. in the offseason, and Purdy still has Christian McCaffrey (undisclosed) as a safety valve. Tight end George Kittle (Achilles) will be active but is expected to be on a pitch count. Purdy will not have it easy against the Rams after they bolstered their defense with the additions of Myles Garrett, Trent McDuffie, and Jaylen Watson. If San Francisco's offensive line can keep him safe, Purdy can have a productive day given the options around him. He projects as a high-end QB2 in RotoBaller's Week 1 rankings.",
+      "metadata": {
+        "description": "San Francisco 49ers quarterback Brock Purdy lost out on eight games of production in 2025 while dealing with turf toe. In nine games, Purdy threw for 2,167 yards, 20 touchdowns, and 10 interceptions. Now healthy and bearing the weight of the $250 million contract he signed prior to last season, Purdy needs to start 2026 on the right foot. San Francisco brought in wide receivers Mike Evans, rookie De'Zhaun Stribling, and Deebo Samuel Sr. in the offseason, and Purdy still has Christian McCaffrey (undisclosed) as a safety valve. Tight end George Kittle (Achilles) will be active but is expected to be on a pitch count. Purdy will not have it easy against the Rams after they bolstered their defense with the additions of Myles Garrett, Trent McDuffie, and Jaylen Watson. If San Francisco's offensive line can keep him safe, Purdy can have a productive day given the options around him. He projects as a high-end QB2 in RotoBaller's Week 1 rankings.",
+        "title": "Brock Purdy Still a QB2 Against Rams' Improved Defense",
+        "topic_id": "1403821362472071168",
+        "url": "https://www.rotoballer.com/player-news/brock-purdy-surrounded-by-options-still-qb2-against-rams-improved-defense/1927612"
+      },
+      "nfl_team": "SF",
+      "player_id": "8183",
+      "player_name": "Brock Purdy",
+      "position": "QB",
+      "published": 1789044606000,
+      "source": "rotoballer",
+      "source_key": "220534",
+      "story_id": "nfl|8183|rotoballer|220534|1789044606000",
+      "title": "Brock Purdy Still a QB2 Against Rams' Improved Defense",
+      "url": "https://www.rotoballer.com/player-news/brock-purdy-surrounded-by-options-still-qb2-against-rams-improved-defense/1927612"
     },
     {
       "analysis": null,

@@ -2,15 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2500**
-- Newly captured: **3**
+- Stored stories: **2502**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Sam Darnold** — Sam Darnold (hip) expected to miss Week 2 (2026-09-10T16:50:04.794000Z)
+- **Sam Darnold** — Sam Darnold (hip) expected to miss Week 2 (2026-09-10T16:50:04.794000Z)
   - Darnold is continuing to be further evaluated. He'll miss at least one game with a return by Week 3 seemingly being a possibility. 
   - Source: https://www.fantasypros.com/nfl/news/606941/sam-darnold-hip-expected-to-miss-week-2.php
-- **NEW — Sam Darnold** — Sam Darnold - Expected to miss at least one game (2026-09-10T16:47:54Z)
+- **Sam Darnold** — Sam Darnold - Expected to miss at least one game (2026-09-10T16:47:54Z)
   - Darnold avoided a major injury, but he's likely to miss at least one game as a result of the hip injury he sustained in the first quarter of Wednesday's 13-10 win over the Patriots. Assuming he's ruled out for Week 2, Darnold will have 18 days of recovery time between Wednesday's win and Seattle's Week 3 road game against the Commanders. Drew Lock, who threw for 187 yards and a touchdown after replacing Darnold on Wednesday, is expected to get the Week 2 start under center.
 - **Breece Hall** — Breece Hall - Expected to avoid snap count (2026-09-10T16:41:54Z)
   - Hall initially received a recovery timetable of 2-to-3 weeks after sustaining a groin strain Aug. 17. Just over three weeks has passed since that date, and Hall practiced without limitations Wednesday, suggesting he has made a full recovery. Braelon Allen and Isaiah Davis, the latter of whom has been cleared to return from a knee injury sustained during training camp, could factor into the game plan as change-of-pace options, but Hall is expected to lead the Jets' backfield and handle his normal workload against the Titans in  Week 1.
@@ -69,7 +69,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php
 - **A.J. Brown** — A.J. Brown - Believed to have high-ankle sprain (2026-09-10T14:04:45Z)
   - In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before departing in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.
-- **NEW — Jakobi Meyers** — Jakobi Meyers in Non-Contact Jersey Again on Thursday (2026-09-10T12:45:05Z)
+- **NEW — Breece Hall** — Breece Hall Not Expected to be on a Pitch Count (2026-09-10T12:54:05Z)
+  - Source: https://www.rotoballer.com/player-news/breece-hall-not-expected-to-be-on-a-pitch-count/1927619
+- **NEW — Brock Purdy** — Brock Purdy Still a QB2 Against Rams' Improved Defense (2026-09-10T12:50:06Z)
+  - Source: https://www.rotoballer.com/player-news/brock-purdy-surrounded-by-options-still-qb2-against-rams-improved-defense/1927612
+- **Jakobi Meyers** — Jakobi Meyers in Non-Contact Jersey Again on Thursday (2026-09-10T12:45:05Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-meyers-in-non-contact-jersey-again-on-thursday/1927606
 - **Sam Darnold** — Sam Darnold To Miss Time, But Seahawks "Dodge a Bullet" (2026-09-10T12:36:35Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-to-miss-time-but-seahawks-dodge-a-bullet/1927601
@@ -232,7 +236,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-logs-in-full-practice-on-wednesday/1927242
 - **Alvin Kamara** — Alvin Kamara is Back at Practice (2026-09-09T22:41:16Z)
   - Source: https://www.rotoballer.com/player-news/alvin-kamara-is-back-at-practice/1927233
-- **George Kittle** — George Kittle - Remains limited Wednesday (2026-09-09T22:37:44Z)
-  - Coach Kyle Shanahan has already indicated Kittle will play in Thursday night's season opener against the Rams in Australia, but the team is monitoring his practice reps. The veteran tight end is coming off a torn Achilles and is expected to see his snaps dialed back some against Los Angeles, though he should remain a staple in the red zone. Kittle is probably more of a TE2 than a locked-in TE1 for fantasy in Week 1.
-- **Kenyon Sadiq** — Kenyon Sadiq Posts Full Practice Session on Wednesday (2026-09-09T22:32:09Z)
-  - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-posts-full-practice-session-on-wednesday/1927227
