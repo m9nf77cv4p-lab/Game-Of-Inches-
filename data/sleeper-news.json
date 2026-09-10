@@ -1,11 +1,18 @@
 {
-  "last_checked_at": "2026-09-10T17:52:32Z",
+  "last_checked_at": "2026-09-10T18:05:39Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13287|rotoballer|220541|1789047488000",
-    "nfl|13317|rotowire|636685|1789062106000",
-    "nfl|5872|rotoballer|220542|1789047306000"
+    "nfl|11576|rotowire|636686|1789062506000",
+    "nfl|11632|fantasy_pros|606950|1789063221821",
+    "nfl|11632|rotoballer|220544|1789048145000",
+    "nfl|12527|fantasy_pros|606948|1789063221847",
+    "nfl|13287|fantasy_pros|606949|1789063221835",
+    "nfl|13330|rotoballer|220546|1789048809000",
+    "nfl|13417|rotoballer|220545|1789047845000",
+    "nfl|4217|rotoballer|220543|1789048206000",
+    "nfl|6768|rotowire|636688|1789063024000",
+    "nfl|9486|rotowire|636687|1789062750000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +22,129 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Jeanty opened the week practicing in full on Wednesday as he works his way back from an ankle sprain. He remains a strong RB1 for fantasy managers going into the season. ",
+      "description": "ESPN's Adam Schefter said Raiders RB Ashton Jeanty is going to play in Week 1 against the Dolphins.",
+      "metadata": {
+        "analysis": "Jeanty opened the week practicing in full on Wednesday as he works his way back from an ankle sprain. He remains a strong RB1 for fantasy managers going into the season. ",
+        "description": "ESPN's Adam Schefter said Raiders RB Ashton Jeanty is going to play in Week 1 against the Dolphins.",
+        "title": "Ashton Jeanty (ankle) expected to play Sunday",
+        "topic_id": "1403836537413611520",
+        "url": "https://www.fantasypros.com/nfl/news/606948/ashton-jeanty-ankle-expected-to-play-sunday.php"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1789063221847,
+      "source": "fantasy_pros",
+      "source_key": "606948",
+      "story_id": "nfl|12527|fantasy_pros|606948|1789063221847",
+      "title": "Ashton Jeanty (ankle) expected to play Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/606948/ashton-jeanty-ankle-expected-to-play-sunday.php"
+    },
+    {
+      "analysis": "Love was limited in practice to open the week on Wednesday as he works his way back from an ankle sprain. While Tyler Allgeier was listed as the \"RB1\" on Cardinals Week 1 depth chart, Love should still plenty of opportunity in his debut. ",
+      "description": "ESPN's Adam Schefter said \"it looks like\" Cardinals RB Jeremiyah Love is going to play on Sunday against the Chargers. ",
+      "metadata": {
+        "analysis": "Love was limited in practice to open the week on Wednesday as he works his way back from an ankle sprain. While Tyler Allgeier was listed as the \"RB1\" on Cardinals Week 1 depth chart, Love should still plenty of opportunity in his debut. ",
+        "description": "ESPN's Adam Schefter said \"it looks like\" Cardinals RB Jeremiyah Love is going to play on Sunday against the Chargers. ",
+        "title": "Jeremiyah Love (ankle) expected to play Sunday ",
+        "topic_id": "1403836537359085568",
+        "url": "https://www.fantasypros.com/nfl/news/606949/jeremiyah-love-ankle-expected-to-play-sunday.php"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1789063221835,
+      "source": "fantasy_pros",
+      "source_key": "606949",
+      "story_id": "nfl|13287|fantasy_pros|606949|1789063221835",
+      "title": "Jeremiyah Love (ankle) expected to play Sunday ",
+      "url": "https://www.fantasypros.com/nfl/news/606949/jeremiyah-love-ankle-expected-to-play-sunday.php"
+    },
+    {
+      "analysis": "Nabers practiced in full on Wednesday to begin the week. There should be another update on his status heading into the weekend by Friday. ",
+      "description": "ESPN's Adam Schefter said Giants WR Malik Nabers is \"on track\" to play on Sunday against the Cowboys. ",
+      "metadata": {
+        "analysis": "Nabers practiced in full on Wednesday to begin the week. There should be another update on his status heading into the weekend by Friday. ",
+        "description": "ESPN's Adam Schefter said Giants WR Malik Nabers is \"on track\" to play on Sunday against the Cowboys. ",
+        "title": "Malik Nabers (knee) 'on track' to play Sunday",
+        "topic_id": "1403836537291976704",
+        "url": "https://www.fantasypros.com/nfl/news/606950/malik-nabers-knee-on-track-to-play-sunday.php"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1789063221821,
+      "source": "fantasy_pros",
+      "source_key": "606950",
+      "story_id": "nfl|11632|fantasy_pros|606950|1789063221821",
+      "title": "Malik Nabers (knee) 'on track' to play Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/606950/malik-nabers-knee-on-track-to-play-sunday.php"
+    },
+    {
+      "analysis": "Raimondi cautions that only a small portion of practice is open to the media, but it's also possible that Tagovailoa was shut down for the remainder of practice after potentially hurting his back. The 28-year-old quarterback was named the starter for Sunday's season opener earlier in the week, as the Falcons declared that Michael Penix (knee) isn't ready for game action yet. Tagovailoa's official practice participation designations will be worth monitoring Thursday and Friday. Cooper Rush and Jack Strand are Atlanta's alternatives under center.",
+      "description": "Tagovailoa touched his back and sat down briefly during individual drills Thursday, then wasn't seen throwing again during the portion of practice open to media, Marc Raimondi of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Raimondi cautions that only a small portion of practice is open to the media, but it's also possible that Tagovailoa was shut down for the remainder of practice after potentially hurting his back. The 28-year-old quarterback was named the starter for Sunday's season opener earlier in the week, as the Falcons declared that Michael Penix (knee) isn't ready for game action yet. Tagovailoa's official practice participation designations will be worth monitoring Thursday and Friday. Cooper Rush and Jack Strand are Atlanta's alternatives under center.",
+        "description": "Tagovailoa touched his back and sat down briefly during individual drills Thursday, then wasn't seen throwing again during the portion of practice open to media, Marc Raimondi of ESPN.com reports.",
+        "title": "Tua Tagovailoa - Experiences possible back discomfort",
+        "topic_id": "1403836531055063040"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1789063024000,
+      "source": "rotowire",
+      "source_key": "636688",
+      "story_id": "nfl|6768|rotowire|636688|1789063024000",
+      "title": "Tua Tagovailoa - Experiences possible back discomfort",
+      "url": null
+    },
+    {
+      "analysis": "Philadelphia lists three starting wide receivers, with those spots going to Wicks, DeVonta Smith and rookie first-round pick Makai Lemon. Wicks had 581 receiving yards as a rookie with the Packers during the 2023 regular season and has failed to reach that mark since, posting only 415 receiving yards in the 2024 regular season and 332 yards in 2025. The 25-year-old wide receiver has an opportunity to play a larger role with his new team, which will kick off regular-season action Sunday against the Commanders.",
+      "description": "Wicks is listed as a starter on the Eagles' unofficial depth chart.",
+      "metadata": {
+        "analysis": "Philadelphia lists three starting wide receivers, with those spots going to Wicks, DeVonta Smith and rookie first-round pick Makai Lemon. Wicks had 581 receiving yards as a rookie with the Packers during the 2023 regular season and has failed to reach that mark since, posting only 415 receiving yards in the 2024 regular season and 332 yards in 2025. The 25-year-old wide receiver has an opportunity to play a larger role with his new team, which will kick off regular-season action Sunday against the Commanders.",
+        "description": "Wicks is listed as a starter on the Eagles' unofficial depth chart.",
+        "title": "Dontayvion Wicks - Listed as starting WR on depth chart",
+        "topic_id": "1403835203855638528"
+      },
+      "nfl_team": "PHI",
+      "player_id": "9486",
+      "player_name": "Dontayvion Wicks",
+      "position": "WR",
+      "published": 1789062750000,
+      "source": "rotowire",
+      "source_key": "636687",
+      "story_id": "nfl|9486|rotowire|636687|1789062750000",
+      "title": "Dontayvion Wicks - Listed as starting WR on depth chart",
+      "url": null
+    },
+    {
+      "analysis": "Allen worked with the starters for most of the preseason while Hall was sidelined by a groin injury. Hall practiced without limitations Wednesday, as did Isaiah Davis (knee), who is listed third on the team's unofficial depth chart. Allen is listed at 235 pounds and has reportedly bulked up to around 250. The 2024 fourth-round pick's large frame could help Allen command valuable goal-line and short-yardage work even while Hall is healthy.",
+      "description": "Allen is listed second on the Jets' unofficial depth chart behind Breece Hall.",
+      "metadata": {
+        "analysis": "Allen worked with the starters for most of the preseason while Hall was sidelined by a groin injury. Hall practiced without limitations Wednesday, as did Isaiah Davis (knee), who is listed third on the team's unofficial depth chart. Allen is listed at 235 pounds and has reportedly bulked up to around 250. The 2024 fourth-round pick's large frame could help Allen command valuable goal-line and short-yardage work even while Hall is healthy.",
+        "description": "Allen is listed second on the Jets' unofficial depth chart behind Breece Hall.",
+        "title": "Braelon Allen - Second on RB depth chart behind healthy Hall",
+        "topic_id": "1403835203843055616"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "11576",
+      "player_name": "Braelon Allen",
+      "position": "RB",
+      "published": 1789062506000,
+      "source": "rotowire",
+      "source_key": "636686",
+      "story_id": "nfl|11576|rotowire|636686|1789062506000",
+      "title": "Braelon Allen - Second on RB depth chart behind healthy Hall",
+      "url": null
+    },
     {
       "analysis": "Hurst is likely to begin his career in a depth role, though the rookie third-round pick out of Georgia State could see some involvement on offense out of the gate, especially if Jalen McMillan (knee) isn't cleared to face the Bengals in Week 1. McMillan practiced on a limited basis Wednesday, while Emeka Egbuka practiced without limitations after dealing with a recent toe injury. Egbuka and Chris Godwin figure to get most of the targets among Tampa Bay's wide receivers, though the 6-foot-3 Hurst showed the ability to stretch the field in college and may not need heavy volume to make an impact.",
       "description": "Offensive coordinator Zac Robinson said Thursday that Hurst has continued to ascend week after week while adjusting well to the NFL, Scott Smith of the Buccaneers' official site reports.",
@@ -510,6 +640,86 @@
       "story_id": "nfl|5859|rotowire|636678|1789049085000",
       "title": "A.J. Brown - Believed to have high-ankle sprain",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets rookie tight end Kenyon Sadiq (groin) was an early training camp standout before complications related to offseason hernia surgery caused him to miss significant time, but he was a full participant during Wednesday's practice, and offensive coordinator Frank Reich told reporters on Thursday that he has integrated himself well into the offense. Sadiq was the 16th overall pick in the 2026 NFL Draft after turning in a historic Combine performance, and he finds himself in a Jets offense well-equipped to take advantage of his dynamic skill set. Reich's offenses have historically featured the tight end position, and the Jets are in need of a secondary pass-catching option behind Garrett Wilson, who led the team with 395 receiving yards in 2025 despite missing 10 games. With Sadiq's injury causing him to go undrafted in many redraft leagues, he profiles as a potential waiver add before Sunday's season opener against the Titans.",
+      "metadata": {
+        "description": "New York Jets rookie tight end Kenyon Sadiq (groin) was an early training camp standout before complications related to offseason hernia surgery caused him to miss significant time, but he was a full participant during Wednesday's practice, and offensive coordinator Frank Reich told reporters on Thursday that he has integrated himself well into the offense. Sadiq was the 16th overall pick in the 2026 NFL Draft after turning in a historic Combine performance, and he finds himself in a Jets offense well-equipped to take advantage of his dynamic skill set. Reich's offenses have historically featured the tight end position, and the Jets are in need of a secondary pass-catching option behind Garrett Wilson, who led the team with 395 receiving yards in 2025 despite missing 10 games. With Sadiq's injury causing him to go undrafted in many redraft leagues, he profiles as a potential waiver add before Sunday's season opener against the Titans.",
+        "title": "Kenyon Sadiq Has Integrated Himself into the Offense",
+        "topic_id": "1403837787647553536",
+        "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-has-integrated-himself-into-the-offense/1927722"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13330",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "published": 1789048809000,
+      "source": "rotoballer",
+      "source_key": "220546",
+      "story_id": "nfl|13330|rotoballer|220546|1789048809000",
+      "title": "Kenyon Sadiq Has Integrated Himself into the Offense",
+      "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-has-integrated-himself-into-the-offense/1927722"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers tight end George Kittle (Achilles) beat the usual recovery timeline for the Achilles tear he suffered in January and will be active for the team's season opener on Thursday night. Despite being limited in practices this week, he carries no injury designation heading into the Week 1 matchup against the Rams in Melbourne. In Kittle's only game against Los Angeles in 2025, he caught nine passes for 84 yards and a touchdown. Fantasy managers should not expect the same production for Week 1, as the tight end can be expected to be on a pitch count, per NFL Network's Ian Rapoport. With the additions to the 49ers' receiving room in Mike Evans, De'Zhaun Stribling, and Deebo Samuel Sr., Brock Purdy has plenty of options to throw to. Kittle ranks as RotoBaller's TE8 this week, but his usual ceiling will be hard to reach in light of the circumstances around him.",
+      "metadata": {
+        "description": "San Francisco 49ers tight end George Kittle (Achilles) beat the usual recovery timeline for the Achilles tear he suffered in January and will be active for the team's season opener on Thursday night. Despite being limited in practices this week, he carries no injury designation heading into the Week 1 matchup against the Rams in Melbourne. In Kittle's only game against Los Angeles in 2025, he caught nine passes for 84 yards and a touchdown. Fantasy managers should not expect the same production for Week 1, as the tight end can be expected to be on a pitch count, per NFL Network's Ian Rapoport. With the additions to the 49ers' receiving room in Mike Evans, De'Zhaun Stribling, and Deebo Samuel Sr., Brock Purdy has plenty of options to throw to. Kittle ranks as RotoBaller's TE8 this week, but his usual ceiling will be hard to reach in light of the circumstances around him.",
+        "title": "George Kittle Cleared, Still A Risky Play For Week 1",
+        "topic_id": "1403835202261786624",
+        "url": "https://www.rotoballer.com/player-news/george-kittle-cleared-still-a-risky-play-for-week-1/1927707"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1789048206000,
+      "source": "rotoballer",
+      "source_key": "220543",
+      "story_id": "nfl|4217|rotoballer|220543|1789048206000",
+      "title": "George Kittle Cleared, Still A Risky Play For Week 1",
+      "url": "https://www.rotoballer.com/player-news/george-kittle-cleared-still-a-risky-play-for-week-1/1927707"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants wide receiver Malik Nabers (knee) was a full participant during Wednesday's practice, and NFL Insider Adam Schefter told Pat McAfee on Thursday that he is on track to play Sunday night when the Giants open the season at home against the Dallas Cowboys. The sixth overall pick in the 2024 NFL Draft, Nabers broke the franchise record with 109 receptions as a rookie before tearing his ACL in only the fourth game of his sophomore season, the first career start of 2025 first-round pick Jaxson Dart. Following a lengthy rehab that had his early-season availability in question for much of the summer, Nabers appears to be trending in the right direction and could begin the year on the right foot in what projects as one of the highest-scoring contests of Week 1.",
+      "metadata": {
+        "description": "New York Giants wide receiver Malik Nabers (knee) was a full participant during Wednesday's practice, and NFL Insider Adam Schefter told Pat McAfee on Thursday that he is on track to play Sunday night when the Giants open the season at home against the Dallas Cowboys. The sixth overall pick in the 2024 NFL Draft, Nabers broke the franchise record with 109 receptions as a rookie before tearing his ACL in only the fourth game of his sophomore season, the first career start of 2025 first-round pick Jaxson Dart. Following a lengthy rehab that had his early-season availability in question for much of the summer, Nabers appears to be trending in the right direction and could begin the year on the right foot in what projects as one of the highest-scoring contests of Week 1.",
+        "title": "Malik Nabers \"On Track\" to Play Sunday Night",
+        "topic_id": "1403835202257592320",
+        "url": "https://www.rotoballer.com/player-news/malik-nabers-on-track-to-play-sunday-night/1927704"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1789048145000,
+      "source": "rotoballer",
+      "source_key": "220544",
+      "story_id": "nfl|11632|rotoballer|220544|1789048145000",
+      "title": "Malik Nabers \"On Track\" to Play Sunday Night",
+      "url": "https://www.rotoballer.com/player-news/malik-nabers-on-track-to-play-sunday-night/1927704"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers rookie wide receiver De'Zhaun Stribling was selected at the top of the second round in the 2026 NFL Draft. Despite his outstanding preseason, he will begin the regular season behind veterans Mike Evans and Deebo Samuel Sr. on the 49ers' depth chart. Stribling can be expected to work into games as the 49ers' primary slot receiver, according to beat writer Matt Barrows of The Athletic. San Francisco opens the season against the Rams, who added cornerbacks Trent McDuffie and Jaylen Watson in the offseason. With that pair likely assigned to keep Evans and Samuel in check, and tight end George Kittle (Achilles) on a pitch count, it is possible that Stribling takes advantage and sees a handful of targets in his regular-season debut. The uncertainty of his role and workload this early in the season calls for fantasy managers to exercise caution, however, and keep the rookie on the bench. Stribling ranks as a WR5 in RotoBaller's Week 1 rankings.",
+      "metadata": {
+        "description": "San Francisco 49ers rookie wide receiver De'Zhaun Stribling was selected at the top of the second round in the 2026 NFL Draft. Despite his outstanding preseason, he will begin the regular season behind veterans Mike Evans and Deebo Samuel Sr. on the 49ers' depth chart. Stribling can be expected to work into games as the 49ers' primary slot receiver, according to beat writer Matt Barrows of The Athletic. San Francisco opens the season against the Rams, who added cornerbacks Trent McDuffie and Jaylen Watson in the offseason. With that pair likely assigned to keep Evans and Samuel in check, and tight end George Kittle (Achilles) on a pitch count, it is possible that Stribling takes advantage and sees a handful of targets in his regular-season debut. The uncertainty of his role and workload this early in the season calls for fantasy managers to exercise caution, however, and keep the rookie on the bench. Stribling ranks as a WR5 in RotoBaller's Week 1 rankings.",
+        "title": "De'Zhaun Stribling WR3 On Depth Chart Ahead Of Week 1",
+        "topic_id": "1403836529385746432",
+        "url": "https://www.rotoballer.com/player-news/dezhaun-stribling-wr3-on-depth-chart-ahead-of-week-1/1927700"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1789047845000,
+      "source": "rotoballer",
+      "source_key": "220545",
+      "story_id": "nfl|13417|rotoballer|220545|1789047845000",
+      "title": "De'Zhaun Stribling WR3 On Depth Chart Ahead Of Week 1",
+      "url": "https://www.rotoballer.com/player-news/dezhaun-stribling-wr3-on-depth-chart-ahead-of-week-1/1927700"
     },
     {
       "analysis": null,
@@ -50438,27 +50648,6 @@
       "story_id": "nfl|12490|rotowire|633227|1786472250000",
       "title": "Bhayshul Tuten - Listed as co-starter on unofficial depth chart",
       "url": null
-    },
-    {
-      "analysis": "Jones has been fully cleared to return to practice. Anthony Richardson Sr. will start with Riley Leonard starting the second half. ",
-      "description": "Daniel Jones will not play in the Colts preseason opener. ",
-      "metadata": {
-        "analysis": "Jones has been fully cleared to return to practice. Anthony Richardson Sr. will start with Riley Leonard starting the second half. ",
-        "description": "Daniel Jones will not play in the Colts preseason opener. ",
-        "title": "Daniel Jones will not play in preseason opener ",
-        "topic_id": "1392963733688451072",
-        "url": "https://www.fantasypros.com/nfl/news/601801/daniel-jones-will-not-play-preseason-opener.php"
-      },
-      "nfl_team": "IND",
-      "player_id": "5870",
-      "player_name": "Daniel Jones",
-      "position": "QB",
-      "published": 1786470943434,
-      "source": "fantasy_pros",
-      "source_key": "601801",
-      "story_id": "nfl|5870|fantasy_pros|601801|1786470943434",
-      "title": "Daniel Jones will not play in preseason opener ",
-      "url": "https://www.fantasypros.com/nfl/news/601801/daniel-jones-will-not-play-preseason-opener.php"
     }
   ]
 }

@@ -2,12 +2,27 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2508**
-- Newly captured: **3**
+- Stored stories: **2517**
+- Newly captured: **10**
 
 ## Latest news
 
-- **NEW — Ted Hurst** — Ted Hurst - Talked up by OC (2026-09-10T17:41:46Z)
+- **NEW — Ashton Jeanty** — Ashton Jeanty (ankle) expected to play Sunday (2026-09-10T18:00:21.847000Z)
+  - Jeanty opened the week practicing in full on Wednesday as he works his way back from an ankle sprain. He remains a strong RB1 for fantasy managers going into the season. 
+  - Source: https://www.fantasypros.com/nfl/news/606948/ashton-jeanty-ankle-expected-to-play-sunday.php
+- **NEW — Jeremiyah Love** — Jeremiyah Love (ankle) expected to play Sunday  (2026-09-10T18:00:21.835000Z)
+  - Love was limited in practice to open the week on Wednesday as he works his way back from an ankle sprain. While Tyler Allgeier was listed as the "RB1" on Cardinals Week 1 depth chart, Love should still plenty of opportunity in his debut. 
+  - Source: https://www.fantasypros.com/nfl/news/606949/jeremiyah-love-ankle-expected-to-play-sunday.php
+- **NEW — Malik Nabers** — Malik Nabers (knee) 'on track' to play Sunday (2026-09-10T18:00:21.821000Z)
+  - Nabers practiced in full on Wednesday to begin the week. There should be another update on his status heading into the weekend by Friday. 
+  - Source: https://www.fantasypros.com/nfl/news/606950/malik-nabers-knee-on-track-to-play-sunday.php
+- **NEW — Tua Tagovailoa** — Tua Tagovailoa - Experiences possible back discomfort (2026-09-10T17:57:04Z)
+  - Raimondi cautions that only a small portion of practice is open to the media, but it's also possible that Tagovailoa was shut down for the remainder of practice after potentially hurting his back. The 28-year-old quarterback was named the starter for Sunday's season opener earlier in the week, as the Falcons declared that Michael Penix (knee) isn't ready for game action yet. Tagovailoa's official practice participation designations will be worth monitoring Thursday and Friday. Cooper Rush and Jack Strand are Atlanta's alternatives under center.
+- **NEW — Dontayvion Wicks** — Dontayvion Wicks - Listed as starting WR on depth chart (2026-09-10T17:52:30Z)
+  - Philadelphia lists three starting wide receivers, with those spots going to Wicks, DeVonta Smith and rookie first-round pick Makai Lemon. Wicks had 581 receiving yards as a rookie with the Packers during the 2023 regular season and has failed to reach that mark since, posting only 415 receiving yards in the 2024 regular season and 332 yards in 2025. The 25-year-old wide receiver has an opportunity to play a larger role with his new team, which will kick off regular-season action Sunday against the Commanders.
+- **NEW — Braelon Allen** — Braelon Allen - Second on RB depth chart behind healthy Hall (2026-09-10T17:48:26Z)
+  - Allen worked with the starters for most of the preseason while Hall was sidelined by a groin injury. Hall practiced without limitations Wednesday, as did Isaiah Davis (knee), who is listed third on the team's unofficial depth chart. Allen is listed at 235 pounds and has reportedly bulked up to around 250. The 2024 fourth-round pick's large frame could help Allen command valuable goal-line and short-yardage work even while Hall is healthy.
+- **Ted Hurst** — Ted Hurst - Talked up by OC (2026-09-10T17:41:46Z)
   - Hurst is likely to begin his career in a depth role, though the rookie third-round pick out of Georgia State could see some involvement on offense out of the gate, especially if Jalen McMillan (knee) isn't cleared to face the Bengals in Week 1. McMillan practiced on a limited basis Wednesday, while Emeka Egbuka practiced without limitations after dealing with a recent toe injury. Egbuka and Chris Godwin figure to get most of the targets among Tampa Bay's wide receivers, though the 6-foot-3 Hurst showed the ability to stretch the field in college and may not need heavy volume to make an impact.
 - **Sam Darnold** — Sam Darnold (hip) expected to miss Week 2 (2026-09-10T16:50:04.794000Z)
   - Darnold is continuing to be further evaluated. He'll miss at least one game with a return by Week 3 seemingly being a possibility. 
@@ -71,9 +86,17 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php
 - **A.J. Brown** — A.J. Brown - Believed to have high-ankle sprain (2026-09-10T14:04:45Z)
   - In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before departing in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.
-- **NEW — Jeremiyah Love** — Jeremiyah Love Expected to Play Sunday (2026-09-10T13:38:08Z)
+- **NEW — Kenyon Sadiq** — Kenyon Sadiq Has Integrated Himself into the Offense (2026-09-10T14:00:09Z)
+  - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-has-integrated-himself-into-the-offense/1927722
+- **NEW — George Kittle** — George Kittle Cleared, Still A Risky Play For Week 1 (2026-09-10T13:50:06Z)
+  - Source: https://www.rotoballer.com/player-news/george-kittle-cleared-still-a-risky-play-for-week-1/1927707
+- **NEW — Malik Nabers** — Malik Nabers "On Track" to Play Sunday Night (2026-09-10T13:49:05Z)
+  - Source: https://www.rotoballer.com/player-news/malik-nabers-on-track-to-play-sunday-night/1927704
+- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling WR3 On Depth Chart Ahead Of Week 1 (2026-09-10T13:44:05Z)
+  - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-wr3-on-depth-chart-ahead-of-week-1/1927700
+- **Jeremiyah Love** — Jeremiyah Love Expected to Play Sunday (2026-09-10T13:38:08Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-expected-to-play-sunday/1927686
-- **NEW — Deebo Samuel** — Deebo Samuel Sr. Draws Tough Matchup In First Game Back With 49ers (2026-09-10T13:35:06Z)
+- **Deebo Samuel** — Deebo Samuel Sr. Draws Tough Matchup In First Game Back With 49ers (2026-09-10T13:35:06Z)
   - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-draws-tough-matchup-in-first-game-back-with-49ers/1927664
 - **Mike Evans** — Mike Evans Could Emerge As 49ers' Top Target In Week 1 (2026-09-10T13:29:08Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-could-emerge-as-49ers-top-target-in-week-1/1927659
@@ -209,27 +232,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jaxon-smith-njigba-scores-the-decisive-touchdown-in-week-1-win/1927265
 - **Sam Darnold** — Sam Darnold - Questionable to return (2026-09-10T00:47:29Z)
   - Darnold suffered a hip injury on the Seahawks' opening possession, and he is now considered questionable to return to the contest, per Adam Schefter of ESPN. Drew Lock has entered the contest at quarterback for Seattle.
-- **Eli Stowers** — Eli Stowers Limited in Practice on Wednesday (2026-09-10T00:42:08Z)
-  - Source: https://www.rotoballer.com/player-news/eli-stowers-limited-in-practice-on-wednesday/1927263
-- **Keaton Mitchell** — Keaton Mitchell Limited with a Hamstring Injury on Wednesday (2026-09-10T00:34:06Z)
-  - Source: https://www.rotoballer.com/player-news/keaton-mitchell-limited-with-a-hamstring-injury-on-wednesday/1927261
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Limited with a Groin Issue (2026-09-10T00:26:10Z)
-  - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-limited-with-a-groin-issue/1927258
-- **Jeremiyah Love** — Jeremiyah Love - Limited at Wednesday's practice (2026-09-10T00:23:22Z)
-  - Love's status for Week 1 has been murky since he emerged from the Cardinals' preseason opener with a high-ankle sprain, which coach Mike LaFleur downplayed for most of the past month. When LaFleur discussed Love ahead of Wednesday's session, he told PHNX Sports "don't look too far into that" when discussing the rookie's listing as the No. 2 RB on the team's unofficial depth chart, while at the same time telling Brack that "there's no limit on our end" to Love's activity level. Considering Love's listing of "limited" Wednesday, he still has some work to do to be available for Sunday's game at the Chargers. Tyler Allgeier would serve as Arizona's lead back Week 1 if Love is operating with a cap on his reps or doesn't suit up, while Bam Knight would be in line for some work as well.
-- **Drake Maye** — Drake Maye Throws Three Costly Interceptions in Seattle (2026-09-10T00:19:05Z)
-  - Source: https://www.rotoballer.com/player-news/drake-maye-throws-three-costly-interceptions-in-seattle/1927252
-- **Cameron Dicker** — Cameron Dicker - Fades Wednesday's injury report (2026-09-09T23:32:22Z)
-  - Dicker was working through an undisclosed issue toward the tail end of training camp, but his absence from the Chargers' first injury report of the week indicates that he's fully healthy for Sunday's regular-season opener against the Cardinals. Dicker was a top-5 kicker in fantasy last season, connecting on 38 of 41 field-goal attempts (including 12-for-13 on attempts from 50-plus yards) while making 34 of 35 extra-point tries across 17 regular-season games. His scoring output could increase this season if the Chargers' offense levels up under new offensive coordinator Mike McDaniel.
-- **Keaton Mitchell** — Keaton Mitchell (hamstring) limited participant Wednesday (2026-09-09T23:20:48.599000Z)
-  - Mitchell was sidelined for a while as he dealt with a hamstring injury, but he was able to practice in a limited fashion on Wednesday. He will have a chance to play in Week 1, but even if he's active, he's not expected to play more than a depth role for the Chargers in their matchup against the Cardinals.
-  - Source: https://www.fantasypros.com/nfl/news/606822/keaton-mitchell-hamstring-limited-participant-wednesday.php
-- **Josh Downs** — Josh Downs (calf) without injury designation for Sunday (2026-09-09T23:20:48.584000Z)
-  - Downs is not listed on Indianapolis' injury report heading into Week 1, meaning that his calf injury is no longer an issue and that he should be at full health at this point. Indianapolis' distribution of targets should be something fantasy managers keep a close eye on this weekend, but the 25-year old isn't projected to be a strong fantasy asset on his own to start the season.
-  - Source: https://www.fantasypros.com/nfl/news/606823/josh-downs-calf-without-injury-designation-sunday.php
-- **Wan'Dale Robinson** — Wan'Dale Robinson (head) off injury report for Week 1 (2026-09-09T23:20:48.570000Z)
-  - As expected, Robinson's head injury is no longer an issue and he carries no injury designation heading into Week 1. He should be a full go against the Jets and projects to be a worthwhile streaming option in PPR formats.
-  - Source: https://www.fantasypros.com/nfl/news/606824/wandale-robinson-head-off-injury-report-week-1.php
-- **Theo Johnson** — Theo Johnson (shoulder) logs full practice Wednesday (2026-09-09T23:20:48.556000Z)
-  - It looks like the Giants will have Johnson available to play for them on Sunday, as he was able to log a full practice to start the week on Wednesday. He won't carry any fantasy value himself but should serve as a nice depth option for Jaxson Dart moving forward.
-  - Source: https://www.fantasypros.com/nfl/news/606825/theo-johnson-shoulder-logs-full-practice-wednesday.php
