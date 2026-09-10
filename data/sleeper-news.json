@@ -1,15 +1,12 @@
 {
-  "last_checked_at": "2026-09-10T19:51:52Z",
+  "last_checked_at": "2026-09-10T20:02:59Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11559|fantasy_pros|606966|1789069821979",
-    "nfl|11583|rotowire|636701|1789069665000",
-    "nfl|11632|rotowire|636699|1789069206000",
-    "nfl|13320|fantasy_pros|606965|1789069821830",
-    "nfl|3321|rotoballer|220558|1789055106000",
-    "nfl|6768|rotowire|636700|1789069291000",
-    "nfl|9228|rotoballer|220557|1789054588000"
+    "nfl|11583|fantasy_pros|606968|1789070422163",
+    "nfl|11620|rotoballer|220560|1789055645000",
+    "nfl|1166|rotoballer|220559|1789055765000",
+    "nfl|6768|fantasy_pros|606967|1789070422179"
   ],
   "schema_version": 1,
   "source": {
@@ -19,6 +16,48 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Tagovailoa is a new addition to Atlanta's injury report. He seems to be dealing with an oblique injury of some kind, and it's currently unclear what effect it will have, if any, on his Week 1 availability. This is a situation that fantasy managers should be monitoring closely heading into the weekend.",
+      "description": "Tua Tagovailoa (oblique) was officially limited at Atlanta's practice on Thursday.",
+      "metadata": {
+        "analysis": "Tagovailoa is a new addition to Atlanta's injury report. He seems to be dealing with an oblique injury of some kind, and it's currently unclear what effect it will have, if any, on his Week 1 availability. This is a situation that fantasy managers should be monitoring closely heading into the weekend.",
+        "description": "Tua Tagovailoa (oblique) was officially limited at Atlanta's practice on Thursday.",
+        "title": "Tua Tagovailoa (oblique) officially limited Thursday",
+        "topic_id": "1403866737786535936",
+        "url": "https://www.fantasypros.com/nfl/news/606967/tua-tagovailoa-oblique-officially-limited-thursday.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1789070422179,
+      "source": "fantasy_pros",
+      "source_key": "606967",
+      "story_id": "nfl|6768|fantasy_pros|606967|1789070422179",
+      "title": "Tua Tagovailoa (oblique) officially limited Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/606967/tua-tagovailoa-oblique-officially-limited-thursday.php"
+    },
+    {
+      "analysis": "A groin injury left Brooks sidelined for a second-straight practice on Thursday. He said on Wednesday that he plans to play in Week 1, however, so it appears he is still trending towards suiting up against the Bears. The team could limit his workload if he's still managing an injury, though, so he may be a riskier start for the first game of the season.",
+      "description": "Jonathon Brooks (groin) was limited at practice again on Thursday.",
+      "metadata": {
+        "analysis": "A groin injury left Brooks sidelined for a second-straight practice on Thursday. He said on Wednesday that he plans to play in Week 1, however, so it appears he is still trending towards suiting up against the Bears. The team could limit his workload if he's still managing an injury, though, so he may be a riskier start for the first game of the season.",
+        "description": "Jonathon Brooks (groin) was limited at practice again on Thursday.",
+        "title": "Jonathon Brooks (groin) limited again Thursday",
+        "topic_id": "1403866737719427072",
+        "url": "https://www.fantasypros.com/nfl/news/606968/jonathon-brooks-groin-limited-again-thursday.php"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1789070422163,
+      "source": "fantasy_pros",
+      "source_key": "606968",
+      "story_id": "nfl|11583|fantasy_pros|606968|1789070422163",
+      "title": "Jonathon Brooks (groin) limited again Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/606968/jonathon-brooks-groin-limited-again-thursday.php"
+    },
     {
       "analysis": "Penix is still listed on Atlanta's injury report due to a knee injury, but he again logged a full practice session on Thursday and seems to be close to full health at this point. Fantasy managers should keep tabs on all injury updates out of Atlanta, as starting QB Tua Tagovailoa (back) now seems to be dealing with an issue that could affect his availability for Sunday.",
       "description": "Michael Penix Jr. (knee) logged a full practice session on Thursday.",
@@ -630,6 +669,46 @@
       "story_id": "nfl|5850|rotowire|636680|1789056765000",
       "title": "Josh Jacobs - Makes court appearance Thursday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders quarterback Kirk Cousins is only 4% rostered on Yahoo, which is awfully low for a quarterback who will open the season with a starting job. The Raiders made it official last week, choosing Cousins over rookie Fernando Mendoza. Cousins also played well enough in the preseason, completing 13 of 17 passes for 101 yards and a touchdown in two appearances. There is not much rushing help coming here, and his 2025 numbers were fairly modest. Cousins threw for 1,721 yards, 10 touchdowns and five interceptions in 10 games with Atlanta. He also might have to open the year without his best target, with Brock Bowers expected to miss Sunday's game against Miami following knee surgery. RotoBaller has Cousins at QB27 for Week 1. That keeps him out of the streaming mix in most one-quarterback leagues. Superflex and two-quarterback are different. Cousins has a starting job right now, and at 4% rostered, that alone makes him worth picking up in those formats.",
+      "metadata": {
+        "description": "Las Vegas Raiders quarterback Kirk Cousins is only 4% rostered on Yahoo, which is awfully low for a quarterback who will open the season with a starting job. The Raiders made it official last week, choosing Cousins over rookie Fernando Mendoza. Cousins also played well enough in the preseason, completing 13 of 17 passes for 101 yards and a touchdown in two appearances. There is not much rushing help coming here, and his 2025 numbers were fairly modest. Cousins threw for 1,721 yards, 10 touchdowns and five interceptions in 10 games with Atlanta. He also might have to open the year without his best target, with Brock Bowers expected to miss Sunday's game against Miami following knee surgery. RotoBaller has Cousins at QB27 for Week 1. That keeps him out of the streaming mix in most one-quarterback leagues. Superflex and two-quarterback are different. Cousins has a starting job right now, and at 4% rostered, that alone makes him worth picking up in those formats.",
+        "title": "Kirk Cousins Worth a Look in Two-Quarterback Leagues",
+        "topic_id": "1403866731310493696",
+        "url": "https://www.rotoballer.com/player-news/kirk-cousins-worth-a-look-in-two-quarterback-leagues/1927810"
+      },
+      "nfl_team": "LV",
+      "player_id": "1166",
+      "player_name": "Kirk Cousins",
+      "position": "QB",
+      "published": 1789055765000,
+      "source": "rotoballer",
+      "source_key": "220559",
+      "story_id": "nfl|1166|rotoballer|220559|1789055765000",
+      "title": "Kirk Cousins Worth a Look in Two-Quarterback Leagues",
+      "url": "https://www.rotoballer.com/player-news/kirk-cousins-worth-a-look-in-two-quarterback-leagues/1927810"
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears wide receiver Rome Odunze (calf) was listed as limited in practice on Thursday for the second straight day this week, according to the team. With two limited sessions to begin Week 1 preparation, Odunze is still up in the air to play in the season opener this Sunday against the Carolina Panthers, and he might need to upgrade to a full practice on Friday to be cleared to play this weekend. If he is limited or out on Sunday, Kalif Raymond and Zavion Thomas would have a path to elevated roles alongside Luther Burden III and tight end Colston Loveland. Odunze, the ninth overall pick in 2024 from the University of Washington, had a career-high six touchdowns in 12 regular-season games in his sophomore campaign in 2025, but he was limited with a concerning foot injury that he says is in the rearview mirror. He is shaping up as more of a WR3/flex option to begin the 2026 season if he plays against the Panthers. Check back for Odunze's final injury status on Friday.",
+      "metadata": {
+        "description": "Chicago Bears wide receiver Rome Odunze (calf) was listed as limited in practice on Thursday for the second straight day this week, according to the team. With two limited sessions to begin Week 1 preparation, Odunze is still up in the air to play in the season opener this Sunday against the Carolina Panthers, and he might need to upgrade to a full practice on Friday to be cleared to play this weekend. If he is limited or out on Sunday, Kalif Raymond and Zavion Thomas would have a path to elevated roles alongside Luther Burden III and tight end Colston Loveland. Odunze, the ninth overall pick in 2024 from the University of Washington, had a career-high six touchdowns in 12 regular-season games in his sophomore campaign in 2025, but he was limited with a concerning foot injury that he says is in the rearview mirror. He is shaping up as more of a WR3/flex option to begin the 2026 season if he plays against the Panthers. Check back for Odunze's final injury status on Friday.",
+        "title": "Rome Odunze Limited Again on Thursday",
+        "topic_id": "1403866731318882304",
+        "url": "https://www.rotoballer.com/player-news/rome-odunze-limited-again-on-thursday/1927808"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1789055645000,
+      "source": "rotoballer",
+      "source_key": "220560",
+      "story_id": "nfl|11620|rotoballer|220560|1789055645000",
+      "title": "Rome Odunze Limited Again on Thursday",
+      "url": "https://www.rotoballer.com/player-news/rome-odunze-limited-again-on-thursday/1927808"
     },
     {
       "analysis": "Myers did his job on Wednesday, knocking in all three of his kicks en route to a win over the Patriots. He will likely be a decent fantasy option at the position over the course of the season, assuming QB Sam Darnold (hip) doesn't miss significant time and leave the offense weaker moving forward.",

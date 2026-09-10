@@ -2,25 +2,31 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2540**
-- Newly captured: **7**
+- Stored stories: **2544**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Michael Penix** — Michael Penix Jr. (knee) logs full practice Thursday (2026-09-10T19:50:21.979000Z)
+- **NEW — Tua Tagovailoa** — Tua Tagovailoa (oblique) officially limited Thursday (2026-09-10T20:00:22.179000Z)
+  - Tagovailoa is a new addition to Atlanta's injury report. He seems to be dealing with an oblique injury of some kind, and it's currently unclear what effect it will have, if any, on his Week 1 availability. This is a situation that fantasy managers should be monitoring closely heading into the weekend.
+  - Source: https://www.fantasypros.com/nfl/news/606967/tua-tagovailoa-oblique-officially-limited-thursday.php
+- **NEW — Jonathon Brooks** — Jonathon Brooks (groin) limited again Thursday (2026-09-10T20:00:22.163000Z)
+  - A groin injury left Brooks sidelined for a second-straight practice on Thursday. He said on Wednesday that he plans to play in Week 1, however, so it appears he is still trending towards suiting up against the Bears. The team could limit his workload if he's still managing an injury, though, so he may be a riskier start for the first game of the season.
+  - Source: https://www.fantasypros.com/nfl/news/606968/jonathon-brooks-groin-limited-again-thursday.php
+- **Michael Penix** — Michael Penix Jr. (knee) logs full practice Thursday (2026-09-10T19:50:21.979000Z)
   - Penix is still listed on Atlanta's injury report due to a knee injury, but he again logged a full practice session on Thursday and seems to be close to full health at this point. Fantasy managers should keep tabs on all injury updates out of Atlanta, as starting QB Tua Tagovailoa (back) now seems to be dealing with an issue that could affect his availability for Sunday.
   - Source: https://www.fantasypros.com/nfl/news/606966/michael-penix-jr-knee-logs-full-practice-thursday.php
-- **NEW — Zachariah Branch** — Zachariah Branch (hamstring) limited participant Thursday (2026-09-10T19:50:21.830000Z)
+- **Zachariah Branch** — Zachariah Branch (hamstring) limited participant Thursday (2026-09-10T19:50:21.830000Z)
   - The rookie was once again left limited at practice. He's still recovering from a hamstring injury of some kind, and it remains unclear whether or not he will be ready to play in time for Week 1. Look for Jahan Dotson to see more work if Branch is unable to make his NFL debut on Sunday.
   - Source: https://www.fantasypros.com/nfl/news/606965/zachariah-branch-hamstring-limited-participant-thursday.php
-- **NEW — Jonathon Brooks** — Jonathon Brooks - Limited participant Thursday (2026-09-10T19:47:45Z)
+- **Jonathon Brooks** — Jonathon Brooks - Limited participant Thursday (2026-09-10T19:47:45Z)
   - Brooks said Wednesday that he expects to play in the opener, but the club continues to keep a lid on his practice participation as he's yet to log a full session this week. Brooks could still play this week despite the team's caution in practice. Assuming he's good to go, Brooks and Chuba Hubbard will handle the bulk of the backfield work against the Bears on Sunday.
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa - Week 1 status in doubt due to back (2026-09-10T19:41:31Z)
+- **Tua Tagovailoa** — Tua Tagovailoa - Week 1 status in doubt due to back (2026-09-10T19:41:31Z)
   - Tagovailoa was named Atlanta's starter for Sunday's regular-season opener earlier in the week, but he went down grabbing his back in individual drills Thursday and subsequently sat out the remainder of practice. The Falcons are now preparing to head into Week 1 with the third-stringer Rush under center, as Tua is in danger of joining Michael Penix (knee) on the sidelines. If Tagovailoa is ruled out, Jack Strand would serve as Rush's backup Sunday.
 - **Malik Nabers** — Malik Nabers (knee) practices in full Thursday (2026-09-10T19:40:21.984000Z)
   - Nabers was a full participant for the Giants on Thursday. It has already been reported that he is likely to play in Sunday night's game, and his participation at practice all but confirms that. Fantasy managers should feel pretty good about starting him if he's active in Week 1, even with it being his first game back from injury.
   - Source: https://www.fantasypros.com/nfl/news/606964/malik-nabers-knee-practices-full-thursday.php
-- **NEW — Malik Nabers** — Malik Nabers - Another full practice Thursday (2026-09-10T19:40:06Z)
+- **Malik Nabers** — Malik Nabers - Another full practice Thursday (2026-09-10T19:40:06Z)
   - Coach John Harbaugh provided the update after Thursday's session. Nabers has been practicing in full this week, though there's still no confirmation on his status for Sunday night's game against the Cowboys just yet. It appears the Giants will wait as long as they can to make a final determination on their star receiver's Week 1 status.
 - **Rome Odunze** — Rome Odunze - Limited again Thursday (2026-09-10T19:31:41Z)
   - Odunze was limited for a second day in a row on Thursday as his status remains unclear going into Week 1. Friday's injury report should provide some clarity, but even then, the Bears may not make a final call on Odunze until Sunday. An absence from Odunze on Sunday would open playing time for Kalif Raymond or Zavion Thomas.
@@ -79,10 +85,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606938/sam-darnold-hip-believed-to-have-dodged-bullet.php
 - **Josh Jacobs** — Josh Jacobs - Makes court appearance Thursday (2026-09-10T16:12:45Z)
   - Per Rob Demovsky of ESPN.com, Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, but as a result of his plea, the NFL could remove him from the list and instead issue a suspension.
+- **NEW — Kirk Cousins** — Kirk Cousins Worth a Look in Two-Quarterback Leagues (2026-09-10T15:56:05Z)
+  - Source: https://www.rotoballer.com/player-news/kirk-cousins-worth-a-look-in-two-quarterback-leagues/1927810
+- **NEW — Rome Odunze** — Rome Odunze Limited Again on Thursday (2026-09-10T15:54:05Z)
+  - Source: https://www.rotoballer.com/player-news/rome-odunze-limited-again-on-thursday/1927808
 - **Jason Myers** — Jason Myers scores seven points in win Wednesday (2026-09-10T15:50:04.707000Z)
   - Myers did his job on Wednesday, knocking in all three of his kicks en route to a win over the Patriots. He will likely be a decent fantasy option at the position over the course of the season, assuming QB Sam Darnold (hip) doesn't miss significant time and leave the offense weaker moving forward.
   - Source: https://www.fantasypros.com/nfl/news/606930/jason-myers-scores-seven-points-win-wednesday.php
-- **NEW — Tyreek Hill** — Tyreek Hill Only a Deep-League Stash for Now (2026-09-10T15:45:06Z)
+- **Tyreek Hill** — Tyreek Hill Only a Deep-League Stash for Now (2026-09-10T15:45:06Z)
   - Source: https://www.rotoballer.com/player-news/tyreek-hill-only-a-deep-league-stash-for-now/1927800
 - **Jadarian Price** — Jadarian Price totals 58 yards in NFL debut Wednesday (2026-09-10T15:40:05.135000Z)
   - The rookie had a decent performance in his NFL debut. He rushed for 52 yards at an efficient clip of 5.2 yards per carry, and he saw a bit of involvement in the passing game as well. From a fantasy perspective this was a disappointing game, but he showed promise in this game and will likely perform better in positive matchups moving forward.
@@ -99,7 +109,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Cooper Kupp** — Cooper Kupp totals 35 yards in win Wednesday (2026-09-10T15:40:05.057000Z)
   - Kupp didn't end up with a strong statline in the box score on Wednesday, but he was an important player for the Seahawks in this matchup. He made multiple key plays for them and had a touchdown that got called back due to penalty. He isn't likely to be fantasy relevant moving forward, however, especially if QB Sam Darnold (hip) misses time.
   - Source: https://www.fantasypros.com/nfl/news/606928/cooper-kupp-totals-35-yards-win-wednesday.php
-- **NEW — Bryce Young** — Bryce Young a Risky Streaming Option for Week 1 (2026-09-10T15:36:28Z)
+- **Bryce Young** — Bryce Young a Risky Streaming Option for Week 1 (2026-09-10T15:36:28Z)
   - Source: https://www.rotoballer.com/player-news/bryce-young-a-risky-streaming-option-for-week-1/1927792
 - **Jaxon Smith-Njigba** — Jaxon Smith-Njigba electric in win Wednesday (2026-09-10T15:35:04.138000Z)
   - On Wednesday, Smith-Njigba picked up right where he left off last season, exploding for 122 yards and a touchdown in a big win over the Patriots. He did that with Drew Lock throwing him passes after starter Sam Darnold went down with a hip injury earlier in the game. Fantasy managers should be happy with his performance in this matchup but should keep a close eye on the health of Darnold, as the young wideout's week-to-week ceiling will certainly take a hit if their starting QB misses significant time.
@@ -225,12 +235,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/romeo-doubs-has-path-to-high-target-share-following-injury/1927365
 - **Blake Corum** — Blake Corum Has Standalone Value Despite Tough Matchup (2026-09-10T09:12:10Z)
   - Source: https://www.rotoballer.com/player-news/blake-corum-has-standalone-value-despite-tough-matchup/1927356
-- **A.J. Brown** — A.J. Brown Seen Wearing Walking Boot on Right Foot (2026-09-10T08:12:06Z)
-  - Source: https://www.rotoballer.com/player-news/a-j-brown-seen-wearing-walking-boot-on-right-foot/1927333
-- **Sam Darnold** — Sam Darnold (hip) avoids fracture, to undergo MRI Thursday  (2026-09-10T05:30:37.344000Z)
-  - Darnold was ruled out for the night in the opening drive on Wednesday. He is scheduled to undergo an MRI on Thursday.
-  - Source: https://www.fantasypros.com/nfl/news/606861/sam-darnold-hip-avoids-fracture-to-undergo-mri-thursday.php
-- **DeMario Douglas** — DeMario Douglas - Does little with five catches (2026-09-10T04:56:42Z)
-  - Douglas finished tied with Rhamondre Stevenson for the team lead in receptions while also setting the pace in targets for the Patriots on the night. The speedy fourth-year pro's elevated role seemed to be largely the byproduct of A.J. Brown's exit from the game on the first possession of the second half due to an ankle injury, which underscores the fact Douglas' week-to-week production is likely to remain volatile over the course of the season. However, if Brown, who Andrew Callahan of the Boston Herald reports left the locker room wearing a walking boot Wednesday, misses any time, Douglas would be in line for additional snaps and targets.
-- **Hunter Henry** — Hunter Henry - Three catches in Week 1 loss (2026-09-10T04:48:00Z)
-  - The trusted tight end figures to remain an important component of the Patriots' air attack this season, but Henry had a quiet start to the campaign. The 31-year-old did tie for third in receptions and receiving yards on the night for the Patriots, and Henry will look to help Drake Maye atone for a three-interception night in a Week 2 home matchup against the Steelers on Sunday, Sept. 20.
