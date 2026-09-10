@@ -1,10 +1,10 @@
 {
-  "last_checked_at": "2026-09-10T22:51:07Z",
+  "last_checked_at": "2026-09-10T23:01:13Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|6768|rotowire|636722|1789080080000",
-    "nfl|9511|rotoballer|220578|1789065486000"
+    "nfl|12533|rotoballer|220579|1789065858000",
+    "nfl|13287|rotowire|636723|1789080997000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.",
+      "description": "Love (ankle) remained a limited practice participant Thursday, Bo Brack of GoPHNX.com reports.",
+      "metadata": {
+        "analysis": "Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.",
+        "description": "Love (ankle) remained a limited practice participant Thursday, Bo Brack of GoPHNX.com reports.",
+        "title": "Jeremiyah Love - Stays limited at practice",
+        "topic_id": "1403912064266694656"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1789080997000,
+      "source": "rotowire",
+      "source_key": "636723",
+      "story_id": "nfl|13287|rotowire|636723|1789080997000",
+      "title": "Jeremiyah Love - Stays limited at practice",
+      "url": null
+    },
     {
       "analysis": "Tagovailoa went to the ground during individual drills Thursday and then grabbed at his back after getting to his feet. Subsequently, he missed the rest of the session while reserve QB Cooper Rush handled all the reps with the first-team offense. Tagovailoa officially was a limited participant in the Falcons' second practice of Week 1 prep, and the potential now exists for him to join Michael Penix (knee) in street clothes this weekend. The team may make a decision on Tagovailoa's status as soon as Friday's injury report, and if he's ruled out, Rush would be in line to direct Atlanta's offense Sunday at Pittsburgh.",
       "description": "Tagovailoa (oblique) is considered day-to-day due to the strained oblique that he suffered during Thursday's practice, Ian Rapoport of ESPN and NFL Network reports.",
@@ -894,6 +914,26 @@
       "story_id": "nfl|8155|fantasy_pros|606953|1789066822081",
       "title": "Breece Hall (groin) says he is good to go Week 1",
       "url": "https://www.fantasypros.com/nfl/news/606953/breece-hall-groin-says-he-is-good-to-go-week-1.php"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders second-year running back Jacory Croskey-Merritt (groin) was limited in practice on Thursday for the second straight day as the team continues to prepare for the Week 1 season opener on Sunday against the division-rival Philadelphia Eagles. Croskey-Merritt could end up questionable for the season opener due to a groin injury he picked up in practice on Aug. 22 if he does not upgrade to a full practice on Friday. If JCM is limited or out, it would be a big upgrade for Rachaad White as the Commanders' lead back in his debut with the team this weekend. The 25-year-old Croskey-Merritt was a seventh-round pick out of Arizona last year, but he impressed by leading Washington with 805 carries and eight rushing touchdowns on 175 rushing attempts, adding nine catches for 68 yards through the air in 17 games. The Commanders like him as their primary early-down back, but White will steal plenty of pass-game work, leaving JCM as primarily an RB3/flex option with upside for fantasy managers in Year 2. Check back for his official Week 1 status on Friday.",
+      "metadata": {
+        "description": "Washington Commanders second-year running back Jacory Croskey-Merritt (groin) was limited in practice on Thursday for the second straight day as the team continues to prepare for the Week 1 season opener on Sunday against the division-rival Philadelphia Eagles. Croskey-Merritt could end up questionable for the season opener due to a groin injury he picked up in practice on Aug. 22 if he does not upgrade to a full practice on Friday. If JCM is limited or out, it would be a big upgrade for Rachaad White as the Commanders' lead back in his debut with the team this weekend. The 25-year-old Croskey-Merritt was a seventh-round pick out of Arizona last year, but he impressed by leading Washington with 805 carries and eight rushing touchdowns on 175 rushing attempts, adding nine catches for 68 yards through the air in 17 games. The Commanders like him as their primary early-down back, but White will steal plenty of pass-game work, leaving JCM as primarily an RB3/flex option with upside for fantasy managers in Year 2. Check back for his official Week 1 status on Friday.",
+        "title": "Jacory Croskey-Merritt Remains Limited in Practice",
+        "topic_id": "1403910803316281344",
+        "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-remains-limited-in-practice/1927926"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1789065858000,
+      "source": "rotoballer",
+      "source_key": "220579",
+      "story_id": "nfl|12533|rotoballer|220579|1789065858000",
+      "title": "Jacory Croskey-Merritt Remains Limited in Practice",
+      "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-remains-limited-in-practice/1927926"
     },
     {
       "analysis": null,

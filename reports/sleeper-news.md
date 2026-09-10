@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2582**
+- Stored stories: **2584**
 - Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa - Suffers oblique strain (2026-09-10T22:41:20Z)
+- **NEW — Jeremiyah Love** — Jeremiyah Love - Stays limited at practice (2026-09-10T22:56:37Z)
+  - Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.
+- **Tua Tagovailoa** — Tua Tagovailoa - Suffers oblique strain (2026-09-10T22:41:20Z)
   - Tagovailoa went to the ground during individual drills Thursday and then grabbed at his back after getting to his feet. Subsequently, he missed the rest of the session while reserve QB Cooper Rush handled all the reps with the first-team offense. Tagovailoa officially was a limited participant in the Falcons' second practice of Week 1 prep, and the potential now exists for him to join Michael Penix (knee) in street clothes this weekend. The team may make a decision on Tagovailoa's status as soon as Friday's injury report, and if he's ruled out, Rush would be in line to direct Atlanta's offense Sunday at Pittsburgh.
 - **Tua Tagovailoa** — Tua Tagovailoa (oblique) day-to-day, uncertain for Sunday (2026-09-10T22:40:29.734000Z)
   - This isn't a great indicator of Tua's status for Sunday, but it might not change much if Rush starts given the reports of Tua's play during training camp. It will be a situation to monitor ahead of Sunday, and it also speaks to Michael Penix's health, given he was not first up behind Tua at practice at this point.
@@ -114,7 +116,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Breece Hall** — Breece Hall (groin) says he is good to go Week 1 (2026-09-10T19:00:22.081000Z)
   - Hall recently missed a couple of weeks with a strained groin. He added he feels fresh from the time off. He'll be an RB2 for fantasy managers heading into the season. 
   - Source: https://www.fantasypros.com/nfl/news/606953/breece-hall-groin-says-he-is-good-to-go-week-1.php
-- **NEW — Keaton Mitchell** — Keaton Mitchell Stays Limited on Thursday (2026-09-10T18:38:06Z)
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt Remains Limited in Practice (2026-09-10T18:44:18Z)
+  - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-remains-limited-in-practice/1927926
+- **Keaton Mitchell** — Keaton Mitchell Stays Limited on Thursday (2026-09-10T18:38:06Z)
   - Source: https://www.rotoballer.com/player-news/keaton-mitchell-stays-limited-on-thursday/1927921
 - **Elijah Arroyo** — Elijah Arroyo - Non-factor in Week 1 win (2026-09-10T18:32:33Z)
   - Arroyo was on the field for 11 of Seattle's 50 snaps on offense while AJ Barner played 44 snaps and caught two passes, suggesting there is still a substantial gap between the Seahawks' top two tight ends. After flashing some receiving upside during the preseason, it looks like Arroyo may not get enough playing time to make much of an impact on offense, at least while Barner is healthy.
@@ -243,8 +247,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/chris-godwin-jr-receives-praise-from-his-qb/1927737
 - **Josh Jacobs** — Josh Jacobs Remains on Commissioner's Exempt List (2026-09-10T14:14:06Z)
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-remains-on-commissioners-exempt-list/1927731
-- **Tua Tagovailoa** — Tua Tagovailoa Suffers Discomfort During Throwing Drills on Thursday (2026-09-10T14:07:05Z)
-  - Source: https://www.rotoballer.com/player-news/tua-tagovailoa-suffers-discomfort-during-throwing-drills-on-thursday/1927726
-- **A.J. Brown** — A.J. Brown (ankle) believed to have suffered high-ankle sprain on Wednesday (2026-09-10T14:05:10.573000Z)
-  - It's a tough start to Browns Patriot tenure. He went down early in the third quarter and did not return, leaving Drake Maye to lean on Hunter Henry, Demario Douglas, and Mack Hollins with fellow newcomer Romeo Doubs struggling to catch anything. Doubs should bounce back, and if Brown is out for any period of time, expect Doubs and Henry to have some more fantasy appeal, with Douglas as a PPR dart throw in deep formats.
-  - Source: https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php
