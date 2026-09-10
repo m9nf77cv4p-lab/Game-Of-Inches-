@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2469**
+- Stored stories: **2470**
 - Newly captured: **1**
 
 ## Latest news
@@ -15,7 +15,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **George Kittle** — George Kittle off injury report, active for Thursday (2026-09-10T11:45:03.411000Z)
   - Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.
   - Source: https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php
-- **NEW — Brock Bowers** — Brock Bowers Likely Out For Week 2 As Well (2026-09-10T10:25:06Z)
+- **NEW — Daniel Jones** — Daniel Jones Could Be Looking At Big Year With Full Health (2026-09-10T10:44:05Z)
+  - Source: https://www.rotoballer.com/player-news/daniel-jones-could-be-looking-at-big-year-with-full-health/1927485
+- **Brock Bowers** — Brock Bowers Likely Out For Week 2 As Well (2026-09-10T10:25:06Z)
   - Source: https://www.rotoballer.com/player-news/brock-bowers-likely-out-for-week-2-as-well/1927470
 - **George Kittle** — George Kittle Will Be On "Pitch Count" During Season Opener (2026-09-10T10:14:05Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-will-be-on-pitch-count-during-season-opener/1927462
@@ -234,5 +236,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Neither Metcalf nor fellow WR Michael Pittman (hamstring) showed up on Wednesday's report after both players missed a good portion of training camp and the entire preseason slate due to health concerns. Now that Metcalf is back to 100 percent, he and Pittman are ready to take on a good portion of QB Aaron Rodgers' passes Sunday against the Falcons.
 - **Jeremiyah Love** — Jeremiyah Love is Limited During Wednesday's Practice (2026-09-09T21:19:15Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-is-limited-during-wednesdays-practice/1927187
-- **Michael Pittman** — Michael Pittman - Ready to go for Week 1 (2026-09-09T21:18:09Z)
-  - Pittman and DK Metcalf (undisclosed) missed time in training camp and the preseason due to their injuries, but the Steelers will have both of their top wideouts available heading into Sunday's season opener versus the Falcons. With running back Kenny Gainwell moving on to Tampa Bay this offseason after a 73-catch season with Pittsburgh in 2025, Pittman will be a strong candidate to absorb some of the vacated short- and intermediate-area targets from quarterback Aaron Rodgers.

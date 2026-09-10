@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T14:37:32Z",
+  "last_checked_at": "2026-09-10T14:52:23Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11604|rotoballer|220515|1789035906000"
+    "nfl|5870|rotoballer|220517|1789037045000"
   ],
   "schema_version": 1,
   "source": {
@@ -74,6 +74,26 @@
       "story_id": "nfl|4217|fantasy_pros|606900|1789040703411",
       "title": "George Kittle off injury report, active for Thursday",
       "url": "https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts quarterback Daniel Jones is making his way back from a torn Achilles he suffered about nine months ago in Jacksonville. Jones hasn't played in an preseason games but turned heads within the Colts organization for a positive return from the devastating injury. Jones passed for 3,101 yards and 19 touchdowns last season and has added to he receiver room with Keenan Allen coming in and having Alec Pierce and Josh Downs on the outside with Tyler Warren at tight end. It's a good group of receiving talent, which sets up Jones nicely for a good season, but the main thing is that he appears to have put the injury behind him. He's always brought scrambling to the table a little bit and should continue to do that after rushing for 164 yards in 2025.",
+      "metadata": {
+        "description": "Indianapolis Colts quarterback Daniel Jones is making his way back from a torn Achilles he suffered about nine months ago in Jacksonville. Jones hasn't played in an preseason games but turned heads within the Colts organization for a positive return from the devastating injury. Jones passed for 3,101 yards and 19 touchdowns last season and has added to he receiver room with Keenan Allen coming in and having Alec Pierce and Josh Downs on the outside with Tyler Warren at tight end. It's a good group of receiving talent, which sets up Jones nicely for a good season, but the main thing is that he appears to have put the injury behind him. He's always brought scrambling to the table a little bit and should continue to do that after rushing for 164 yards in 2025.",
+        "title": "Daniel Jones Could Be Looking At Big Year With Full Health",
+        "topic_id": "1403788642404581376",
+        "url": "https://www.rotoballer.com/player-news/daniel-jones-could-be-looking-at-big-year-with-full-health/1927485"
+      },
+      "nfl_team": "IND",
+      "player_id": "5870",
+      "player_name": "Daniel Jones",
+      "position": "QB",
+      "published": 1789037045000,
+      "source": "rotoballer",
+      "source_key": "220517",
+      "story_id": "nfl|5870|rotoballer|220517|1789037045000",
+      "title": "Daniel Jones Could Be Looking At Big Year With Full Health",
+      "url": "https://www.rotoballer.com/player-news/daniel-jones-could-be-looking-at-big-year-with-full-health/1927485"
     },
     {
       "analysis": null,
