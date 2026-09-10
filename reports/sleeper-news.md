@@ -187,7 +187,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Metcalf was dealing with an undisclosed injury earlier, but it's not an issue for him anymore and he is off of the injury report entirely ahead of Week 1. He goes into the season as the projected top target for the Steelers this season.
   - Source: https://www.fantasypros.com/nfl/news/606791/dk-metcalf-off-injury-report-week-1.php
 - **Josh Downs** — Josh Downs - Dodges injury report (2026-09-09T21:22:37Z)
-  - The fourth-year receiver downplayed the calf injury that slowed him towards the end of summer. Downs evaded the injury report entirely Wednesday, signaling that he should be ready to go for the opener against the Ravens. Indianapolis may be full-strength at receiver with Alec Pierce trending in the right direction as well.
+  - The fourth-year receiver downplayed the calf injury that slowed him towards the end of summer. Downs evaded the injury report entirely Wednesday, signaling that he should be ready to go for the opener against the Ravens. Indianapolis may be at full strength at receiver with Alec Pierce trending in the right direction as well.
 - **DK Metcalf** — DK Metcalf - Not listed on Wednesday's injury report (2026-09-09T21:21:20Z)
   - Neither Metcalf nor fellow WR Michael Pittman (hamstring) showed up on Wednesday's report after both players missed a good portion of training camp and the entire preseason slate due to health concerns. Now that Metcalf is back to 100 percent, he and Pittman are ready to take on a good portion of QB Aaron Rodgers' passes Sunday against the Falcons.
 - **Jeremiyah Love** — Jeremiyah Love is Limited During Wednesday's Practice (2026-09-09T21:19:15Z)
