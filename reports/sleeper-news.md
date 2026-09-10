@@ -3,7 +3,7 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **2414**
-- Newly captured: **6**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -174,7 +174,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Kenyon Sadiq** — Kenyon Sadiq - Listed as full-go Wednesday (2026-09-09T20:28:44Z)
   - The first-round rookie has bounced back from his offseason hernia surgery and is now gearing up for his NFL debut this Sunday. Sadiq was back to participating in positional drills earlier in the week. At this stage, Sadiq is very much on track to be ready for the start of the season.
 - **D'Andre Swift** — D'Andre Swift - Cleared for Week 1 (2026-09-09T20:26:58Z)
-  - Swift dealt with cramps last week but is good to go for Sunday's season opener against the Panthers. With Kyle Monangai (knee) also removed from the injury report, Swift should operate as the clear RB1 versus Carolina, while Monangai a handful of carries behind him. Swift looks like a borderline RB1 fantasy option in Chicago's loaded offense.
+  - Swift dealt with cramps last week but is good to go for Sunday's season opener against the Panthers. With Kyle Monangai (knee) also removed from the injury report, Swift should operate as the clear RB1 versus Carolina, while Monangai is slated for a handful of carries behind him. Swift looks like a borderline RB1 fantasy option in Chicago's loaded offense.
 - **Zachariah Branch** — Zachariah Branch - Limited with hamstring injury (2026-09-09T20:22:50Z)
   - It's a new injury for the rookie wideout, but a limited start to the week gives Branch a chance to suit up Sunday against the Steelers. He's competing with the likes of Olamide Zaccheaus and Jahan Dotson for offensive snaps behind Drake London.
 - **Michael Penix** — Michael Penix Jr. (knee) practices in full Wednesday (2026-09-09T20:20:48.060000Z)
@@ -193,7 +193,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - LaPorta is now off of the injury report after dealing with a hip injury for the latter part of the preseason. He should be a full go for Week 1 and will remain a startable fantasy option in this matchup and beyond.
   - Source: https://www.fantasypros.com/nfl/news/606751/sam-laporta-hip-off-injury-report-sunday.php
 - **Breece Hall** — Breece Hall - Full participant Wednesday (2026-09-09T20:19:26Z)
-  - The star running back was a full-go to begin the practice week as Sunday's season opener looms. Hall suffered a groin injury late in camp but has been making good progress to the point where it's been expected that he would be ready for Week 1. Look for Hall to lead the Jets' backfield to begin the season.
+  - The star running back was a full-go to begin the practice week as Sunday's season opener looms. Hall suffered a groin injury late in camp but has been making good progress to the point that it's been expected that he will be ready for Week 1. Look for Hall to lead the Jets' backfield to begin the campaign.
 - **Sam LaPorta** — Sam LaPorta - Not listed on injury report (2026-09-09T20:08:50Z)
   - LaPorta missed the Lions' final eight games last season with a back injury and then dealt with a hip issue this summer. He returned to practice in late August and is ready to go for Sunday's season opener against the Saints. LaPorta is expected to compete with Jameson Williams for targets behind alpha WR1 Amon-Ra St. Brown this season, and the tight end will likely be a big a presence in the red zone.
 - **Brock Bowers** — Brock Bowers (knee) to miss 'a game or two' (2026-09-09T20:05:48.589000Z)
