@@ -2,21 +2,25 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2494**
-- Newly captured: **5**
+- Stored stories: **2497**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Jakobi Meyers** — Jakobi Meyers - Dons non-contact jersey Thursday (2026-09-10T16:22:37Z)
+- **NEW — Breece Hall** — Breece Hall - Expected to avoid snap count (2026-09-10T16:41:54Z)
+  - Hall initially received a recovery timetable of 2-to-3 weeks after sustaining a groin strain Aug. 17. Just over three weeks has passed since that date, and Hall practiced without limitations Wednesday, suggesting he has made a full recovery. Braelon Allen and Isaiah Davis, the latter of whom has been cleared to return from a knee injury sustained during training camp, could factor into the game plan as change-of-pace options, but Hall is expected to lead the Jets' backfield and handle his normal workload against the Titans in  Week 1.
+- **NEW — Sam Darnold** — Sam Darnold - Dodges bullet but could miss time (2026-09-10T16:30:07Z)
+  - Team doctors are still reviewing the results of the MRI that Darnold underwent on his injury Thursday morning, but the early results suggest Darnold isn't facing a long-term absence. Drew Lock looks likely to be tabbed as the starting quarterback for the team's Week 2 road game against the Cardinals on Sept. 20. Lock threw for 187 yards and a touchdown following Darnold's first-quarter exit in Wednesday's season-opening win.
+- **Jakobi Meyers** — Jakobi Meyers - Dons non-contact jersey Thursday (2026-09-10T16:22:37Z)
   - Meyers is practicing in a non-contact jersey for a second consecutive day after being listed as limited at Wednesday's practice. He'll have one more chance Friday to upgrade his participation level ahead of Sunday's season opener against the Browns. Two-way player Travis Hunter and rookie Day 3 draft picks Josh Cameron and CJ Williams would be candidates to receive playing time alongside Brian Thomas and Parker Washington if Meyers misses any game action due to his lingering thumb injury.
-- **NEW — Jakobi Meyers** — Jakobi Meyers (thumb) in non-contact jersey in practice (2026-09-10T16:20:04.841000Z)
+- **Jakobi Meyers** — Jakobi Meyers (thumb) in non-contact jersey in practice (2026-09-10T16:20:04.841000Z)
   - Meyers remains up in the air for Sunday's season opener. His status will need to be monitored in practice on Friday. 
   - Source: https://www.fantasypros.com/nfl/news/606936/jakobi-meyers-thumb-non-contact-jersey-practice.php
-- **NEW — Sam Darnold** — Sam Darnold (hip) believed to have 'dodged a bullet' (2026-09-10T16:20:04.830000Z)
+- **Sam Darnold** — Sam Darnold (hip) believed to have 'dodged a bullet' (2026-09-10T16:20:04.830000Z)
   - Darnold underwent an MRI on his hip Thursday morning that team doctors still are reviewing to determine how much time he will miss. It sounds like he'll likely miss at least one or two games, but it appears he won't miss an extended period of time. 
   - Source: https://www.fantasypros.com/nfl/news/606938/sam-darnold-hip-believed-to-have-dodged-bullet.php
 - **Josh Jacobs** — Josh Jacobs - Makes court appearance Thursday (2026-09-10T16:12:45Z)
-  - Per Rob Demovsky of ESPN.com, the Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, and he'll likely remain on the list until the legal process is completed.
+  - Per Rob Demovsky of ESPN.com, Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, and he'll likely remain on the list until the legal process is completed.
 - **Jason Myers** — Jason Myers scores seven points in win Wednesday (2026-09-10T15:50:04.707000Z)
   - Myers did his job on Wednesday, knocking in all three of his kicks en route to a win over the Patriots. He will likely be a decent fantasy option at the position over the course of the season, assuming QB Sam Darnold (hip) doesn't miss significant time and leave the offense weaker moving forward.
   - Source: https://www.fantasypros.com/nfl/news/606930/jason-myers-scores-seven-points-win-wednesday.php
@@ -60,9 +64,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php
 - **A.J. Brown** — A.J. Brown - Believed to have high-ankle sprain (2026-09-10T14:04:45Z)
   - In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before departing in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.
-- **NEW — Jacoby Brissett** — Jacoby Brissett Could be a Trade Candidate at Midseason (2026-09-10T12:24:05Z)
+- **NEW — Sam Darnold** — Sam Darnold To Miss Time, But Seahawks "Dodge a Bullet" (2026-09-10T12:36:35Z)
+  - Source: https://www.rotoballer.com/player-news/sam-darnold-to-miss-time-but-seahawks-dodge-a-bullet/1927601
+- **NEW — Josh Jacobs** — Josh Jacobs Pleads No Contest to Charges (2026-09-10T12:30:09Z)
+  - Source: https://www.rotoballer.com/player-news/josh-jacobs-pleads-no-contest-to-charges/1927596
+- **Jacoby Brissett** — Jacoby Brissett Could be a Trade Candidate at Midseason (2026-09-10T12:24:05Z)
   - Source: https://www.rotoballer.com/player-news/jacoby-brissett-could-be-a-trade-candidate-at-midseason/1927592
-- **NEW — Alvin Kamara** — Alvin Kamara Expected to Play in Week 1 (2026-09-10T12:14:05Z)
+- **Alvin Kamara** — Alvin Kamara Expected to Play in Week 1 (2026-09-10T12:14:05Z)
   - Source: https://www.rotoballer.com/player-news/alvin-kamara-expected-to-play-in-week-1/1927578
 - **Pat Bryant** — Pat Bryant Could Force his Way into Bigger Role in 2026 (2026-09-10T12:06:05Z)
   - Source: https://www.rotoballer.com/player-news/pat-bryant-could-force-his-way-into-bigger-role-in-2026/1927561
@@ -230,12 +238,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Ja'Marr Chase** — Ja'Marr Chase (knee) practices in full Wednesday (2026-09-09T22:30:48.110000Z)
   - Chase was able to log a full practice session on Wednesday and is considered close to full health, if not already fully healthy heading into Week 1. He should be a full go against the Buccaneers and projects to be an elite fantasy option in the season opener and beyond.
   - Source: https://www.fantasypros.com/nfl/news/606813/jamarr-chase-knee-practices-full-wednesday.php
-- **Breece Hall** — Breece Hall Logs Full Practice Session on Wednesday (2026-09-09T22:19:05Z)
-  - Source: https://www.rotoballer.com/player-news/breece-hall-logs-in-full-practice-session-on-wednesday/1927217
-- **Rome Odunze** — Rome Odunze is Listed as Limited in Practice on Wednesday (2026-09-09T22:11:11Z)
-  - Source: https://www.rotoballer.com/player-news/rome-odunze-is-listed-as-limited-in-practice-on-wednesday/1927212
-- **Tucker Kraft** — Tucker Kraft (knee) off injury report for Week 1 (2026-09-09T22:10:47.878000Z)
-  - Kraft has been rehabbing from a major knee injury all offseason, but it appears that he is finally close to full health again, as he carries no injury designation prior to the team's season opener on Sunday. He could be limited for his first few weeks back, but the team hasn't indicated that, meaning that he could be seeing a full workload in the very near future.
-  - Source: https://www.fantasypros.com/nfl/news/606807/tucker-kraft-knee-off-injury-report-week-1.php
-- **Tre' Harris** — Tre' Harris - Fully healthy for Week 1 (2026-09-09T22:10:27Z)
-  - Harris dealt with an unspecified injury last month but is fine for Sunday's season opener against the Cardinals. He's expected to fill the WR3 role behind Ladd McConkey and Quentin Johnson this season, but the Chargers also figure to use plenty of TE-heavy sets with Charlie Kolar, Oronde Gadsden and David Njoku.

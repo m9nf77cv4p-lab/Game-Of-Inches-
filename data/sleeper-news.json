@@ -1,13 +1,12 @@
 {
-  "last_checked_at": "2026-09-10T16:33:39Z",
+  "last_checked_at": "2026-09-10T16:46:56Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|3257|rotoballer|220528|1789043045000",
-    "nfl|4035|rotoballer|220526|1789042445000",
-    "nfl|4943|fantasy_pros|606938|1789057204830",
-    "nfl|5947|fantasy_pros|606936|1789057204841",
-    "nfl|5947|rotowire|636681|1789057357000"
+    "nfl|4943|rotoballer|220531|1789043795000",
+    "nfl|4943|rotowire|636682|1789057807000",
+    "nfl|5850|rotoballer|220530|1789043409000",
+    "nfl|8155|rotowire|636683|1789058514000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +16,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Hall initially received a recovery timetable of 2-to-3 weeks after sustaining a groin strain Aug. 17. Just over three weeks has passed since that date, and Hall practiced without limitations Wednesday, suggesting he has made a full recovery. Braelon Allen and Isaiah Davis, the latter of whom has been cleared to return from a knee injury sustained during training camp, could factor into the game plan as change-of-pace options, but Hall is expected to lead the Jets' backfield and handle his normal workload against the Titans in  Week 1.",
+      "description": "Hall (groin) could handle a full workload in Sunday's season opener against the Titans, as Jets offensive coordinator Frank Reich said Thursday that \"unless [head coach Aaron Glenn] and the training staff give us a rep count, we just go play ball,\" Rich Cimini of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Hall initially received a recovery timetable of 2-to-3 weeks after sustaining a groin strain Aug. 17. Just over three weeks has passed since that date, and Hall practiced without limitations Wednesday, suggesting he has made a full recovery. Braelon Allen and Isaiah Davis, the latter of whom has been cleared to return from a knee injury sustained during training camp, could factor into the game plan as change-of-pace options, but Hall is expected to lead the Jets' backfield and handle his normal workload against the Titans in  Week 1.",
+        "description": "Hall (groin) could handle a full workload in Sunday's season opener against the Titans, as Jets offensive coordinator Frank Reich said Thursday that \"unless [head coach Aaron Glenn] and the training staff give us a rep count, we just go play ball,\" Rich Cimini of ESPN.com reports.",
+        "title": "Breece Hall - Expected to avoid snap count",
+        "topic_id": "1403817586294063104"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8155",
+      "player_name": "Breece Hall",
+      "position": "RB",
+      "published": 1789058514000,
+      "source": "rotowire",
+      "source_key": "636683",
+      "story_id": "nfl|8155|rotowire|636683|1789058514000",
+      "title": "Breece Hall - Expected to avoid snap count",
+      "url": null
+    },
+    {
+      "analysis": "Team doctors are still reviewing the results of the MRI that Darnold underwent on his injury Thursday morning, but the early results suggest Darnold isn't facing a long-term absence. Drew Lock looks likely to be tabbed as the starting quarterback for the team's Week 2 road game against the Cardinals on Sept. 20. Lock threw for 187 yards and a touchdown following Darnold's first-quarter exit in Wednesday's season-opening win.",
+      "description": "Darnold (hip) is expected to miss some time due to the hip injury he sustained in Wednesday's 13-10 win over the Patriots, but the Seahawks believe their starting quarterback has \"dodged a bullet,\" Adam Schefter of ESPN reports.",
+      "metadata": {
+        "analysis": "Team doctors are still reviewing the results of the MRI that Darnold underwent on his injury Thursday morning, but the early results suggest Darnold isn't facing a long-term absence. Drew Lock looks likely to be tabbed as the starting quarterback for the team's Week 2 road game against the Cardinals on Sept. 20. Lock threw for 187 yards and a touchdown following Darnold's first-quarter exit in Wednesday's season-opening win.",
+        "description": "Darnold (hip) is expected to miss some time due to the hip injury he sustained in Wednesday's 13-10 win over the Patriots, but the Seahawks believe their starting quarterback has \"dodged a bullet,\" Adam Schefter of ESPN reports.",
+        "title": "Sam Darnold - Dodges bullet but could miss time",
+        "topic_id": "1403815070214971392"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1789057807000,
+      "source": "rotowire",
+      "source_key": "636682",
+      "story_id": "nfl|4943|rotowire|636682|1789057807000",
+      "title": "Sam Darnold - Dodges bullet but could miss time",
+      "url": null
+    },
     {
       "analysis": "Meyers is practicing in a non-contact jersey for a second consecutive day after being listed as limited at Wednesday's practice. He'll have one more chance Friday to upgrade his participation level ahead of Sunday's season opener against the Browns. Two-way player Travis Hunter and rookie Day 3 draft picks Josh Cameron and CJ Williams would be candidates to receive playing time alongside Brian Thomas and Parker Washington if Meyers misses any game action due to his lingering thumb injury.",
       "description": "Meyers (thumb) was spotted in a non-contact jersey at Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports.",
@@ -80,10 +119,10 @@
       "url": "https://www.fantasypros.com/nfl/news/606938/sam-darnold-hip-believed-to-have-dodged-bullet.php"
     },
     {
-      "analysis": "Per Rob Demovsky of ESPN.com, the Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, and he'll likely remain on the list until the legal process is completed.",
+      "analysis": "Per Rob Demovsky of ESPN.com, Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, and he'll likely remain on the list until the legal process is completed.",
       "description": "Jacobs (personal) appeared in court in Green Bay on Thursday and pleaded no contest to misdemeanor charges of battery and criminal damage to property, Matt Schneidman of The Athletic reports.",
       "metadata": {
-        "analysis": "Per Rob Demovsky of ESPN.com, the Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, and he'll likely remain on the list until the legal process is completed.",
+        "analysis": "Per Rob Demovsky of ESPN.com, Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, and he'll likely remain on the list until the legal process is completed.",
         "description": "Jacobs (personal) appeared in court in Green Bay on Thursday and pleaded no contest to misdemeanor charges of battery and criminal damage to property, Matt Schneidman of The Athletic reports.",
         "title": "Josh Jacobs - Makes court appearance Thursday",
         "topic_id": "1403810037406646272"
@@ -411,6 +450,46 @@
       "story_id": "nfl|5859|rotowire|636678|1789049085000",
       "title": "A.J. Brown - Believed to have high-ankle sprain",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks quarterback Sam Darnold (hip) had an MRI exam on his injured hip on Thursday morning that team doctors are still reviewing to determine how much time he will miss, according to Adam Schefter of ESPN. Darnold is expected to miss some time, but for now the Seahawks believe that they \"dodged a bullet,\" according to a source. Fantasy managers should not expect the 29-year-old to be ready to play by Week 2 in Arizona against the division-rival Cardinals, but it appears that he has avoided a long-term injury. We will continue to keep a close eye on Darnold's practice status for next week, but for now, it looks like backup Drew Lock will be making the start next weekend for Seattle in the desert. Overall, it will be a downgrade for Seattle's offense, but top wideout Jaxon Smith-Njigba did just fine in Thursday's win over the New England Patriots after Darnold left, tallying over 100 receiving yards and his first touchdown of the year. Darnold went just 1-for-2 passing for 13 yards and was sacked once early in the Week 1 opener before leaving with his hip injury.",
+      "metadata": {
+        "description": "Seattle Seahawks quarterback Sam Darnold (hip) had an MRI exam on his injured hip on Thursday morning that team doctors are still reviewing to determine how much time he will miss, according to Adam Schefter of ESPN. Darnold is expected to miss some time, but for now the Seahawks believe that they \"dodged a bullet,\" according to a source. Fantasy managers should not expect the 29-year-old to be ready to play by Week 2 in Arizona against the division-rival Cardinals, but it appears that he has avoided a long-term injury. We will continue to keep a close eye on Darnold's practice status for next week, but for now, it looks like backup Drew Lock will be making the start next weekend for Seattle in the desert. Overall, it will be a downgrade for Seattle's offense, but top wideout Jaxon Smith-Njigba did just fine in Thursday's win over the New England Patriots after Darnold left, tallying over 100 receiving yards and his first touchdown of the year. Darnold went just 1-for-2 passing for 13 yards and was sacked once early in the Week 1 opener before leaving with his hip injury.",
+        "title": "Sam Darnold To Miss Time, But Seahawks \"Dodge a Bullet\"",
+        "topic_id": "1403817584612089856",
+        "url": "https://www.rotoballer.com/player-news/sam-darnold-to-miss-time-but-seahawks-dodge-a-bullet/1927601"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1789043795000,
+      "source": "rotoballer",
+      "source_key": "220531",
+      "story_id": "nfl|4943|rotoballer|220531|1789043795000",
+      "title": "Sam Darnold To Miss Time, But Seahawks \"Dodge a Bullet\"",
+      "url": "https://www.rotoballer.com/player-news/sam-darnold-to-miss-time-but-seahawks-dodge-a-bullet/1927601"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back Josh Jacobs pleaded no contest on Thursday to misdemeanor battery and criminal damage to property, according to Matt Schneidman of The Athletic. ESPN's Rob Demovsky reports that Brown County District Attorney David Lasee will not seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee will pursue a conviction on the battery count and will accept a deferred agreement on the criminal damage to property if Jacobs meets five conditions related to his no-contest plea. The Packers placed the 28-year-old RB on the commissioner's exempt list, where he is expected to remain until the legal process plays out. It is unclear if the NFL will then hand down a separate suspension for Jacobs, but he at least will be sidelined for Week 1 of the 2026 regular season this Sunday against the division-rival Minnesota Vikings. Jacobs' off-the-field legal issues have obviously damaged his fantasy football value quite a bit for the start of the season, but he should remain stashed in all leagues while the legal process plays out. Without Jacobs, MarShawn Lloyd is expected to get the first crack at backfield duties in Green Bay, but both Kaleb Johnson and Chris Brooks could also be involved.",
+      "metadata": {
+        "description": "Green Bay Packers running back Josh Jacobs pleaded no contest on Thursday to misdemeanor battery and criminal damage to property, according to Matt Schneidman of The Athletic. ESPN's Rob Demovsky reports that Brown County District Attorney David Lasee will not seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee will pursue a conviction on the battery count and will accept a deferred agreement on the criminal damage to property if Jacobs meets five conditions related to his no-contest plea. The Packers placed the 28-year-old RB on the commissioner's exempt list, where he is expected to remain until the legal process plays out. It is unclear if the NFL will then hand down a separate suspension for Jacobs, but he at least will be sidelined for Week 1 of the 2026 regular season this Sunday against the division-rival Minnesota Vikings. Jacobs' off-the-field legal issues have obviously damaged his fantasy football value quite a bit for the start of the season, but he should remain stashed in all leagues while the legal process plays out. Without Jacobs, MarShawn Lloyd is expected to get the first crack at backfield duties in Green Bay, but both Kaleb Johnson and Chris Brooks could also be involved.",
+        "title": "Josh Jacobs Pleads No Contest to Charges",
+        "topic_id": "1403815067836805120",
+        "url": "https://www.rotoballer.com/player-news/josh-jacobs-pleads-no-contest-to-charges/1927596"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1789043409000,
+      "source": "rotoballer",
+      "source_key": "220530",
+      "story_id": "nfl|5850|rotoballer|220530|1789043409000",
+      "title": "Josh Jacobs Pleads No Contest to Charges",
+      "url": "https://www.rotoballer.com/player-news/josh-jacobs-pleads-no-contest-to-charges/1927596"
     },
     {
       "analysis": null,
@@ -50161,26 +50240,6 @@
       "story_id": "nfl|4881|fantasy_pros|601792|1786469441845",
       "title": "Lamar Jackson will not play in preseason opener",
       "url": "https://www.fantasypros.com/nfl/news/601792/lamar-jackson-will-not-play-preseason-opener.php"
-    },
-    {
-      "analysis": "From all accounts, Jones' recovery from a season-ending torn right Achilles that he suffered in Week 14 last season has gone well, but the Colts are evidently playing it safe with their starting QB, with an eye toward preparing him for Week 1 action. Per Joel A. Erickson of The Indianapolis Star,  Anthony Richardson will start Thursday's preseason opener against the Patriots and play the first half,  while Riley Leonard will work in the second half, an arrangement that is in line to be reversed in the team's second exhibition tilt against Atlanta.",
-      "description": "Jones won't play in the preseason, according to Jonathan Jones of CBSSports.com.",
-      "metadata": {
-        "analysis": "From all accounts, Jones' recovery from a season-ending torn right Achilles that he suffered in Week 14 last season has gone well, but the Colts are evidently playing it safe with their starting QB, with an eye toward preparing him for Week 1 action. Per Joel A. Erickson of The Indianapolis Star,  Anthony Richardson will start Thursday's preseason opener against the Patriots and play the first half,  while Riley Leonard will work in the second half, an arrangement that is in line to be reversed in the team's second exhibition tilt against Atlanta.",
-        "description": "Jones won't play in the preseason, according to Jonathan Jones of CBSSports.com.",
-        "title": "Daniel Jones - Won't play this preseason",
-        "topic_id": "1392947362128740352"
-      },
-      "nfl_team": "IND",
-      "player_id": "5870",
-      "player_name": "Daniel Jones",
-      "position": "QB",
-      "published": 1786466645000,
-      "source": "rotowire",
-      "source_key": "633216",
-      "story_id": "nfl|5870|rotowire|633216|1786466645000",
-      "title": "Daniel Jones - Won't play this preseason",
-      "url": null
     }
   ]
 }
