@@ -1,9 +1,14 @@
 {
-  "last_checked_at": "2026-09-10T04:33:06Z",
+  "last_checked_at": "2026-09-10T04:47:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11564|rotoballer|220485|1788999545000"
+    "nfl|12533|rotoballer|220487|1788999970000",
+    "nfl|13349|rotoballer|220489|1789000928000",
+    "nfl|4217|rotowire|636665|1789014822000",
+    "nfl|7611|rotowire|636664|1789014772000",
+    "nfl|8121|rotowire|636666|1789015202000",
+    "nfl|9511|rotoballer|220488|1789000446000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +18,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The veteran offseason addition had a highly inauspicious debut, despite the fact he'd frequently impressed this summer and the Patriots lost A.J. Brown to an ankle injury on the first possession of the second half. Doubs was also the intended receiver on Drake Maye's first interception of the night, getting outleapt for a long pass by Nehemiah Pritchett early in the fourth quarter. Andrew Callahan of the Boston Herald reports Brown was seen exiting the Patriots' locker room with a walking boot following Wednesday's game, so Doubs could be pressed into an elevated role for the Week 2 home opener against the Steelers on Sunday, Sept. 20 despite his poor showing.",
+      "description": "Doubs failed to bring in any of his three targets during the Patriots' 13-10 loss to the Seahawks on Wednesday.",
+      "metadata": {
+        "analysis": "The veteran offseason addition had a highly inauspicious debut, despite the fact he'd frequently impressed this summer and the Patriots lost A.J. Brown to an ankle injury on the first possession of the second half. Doubs was also the intended receiver on Drake Maye's first interception of the night, getting outleapt for a long pass by Nehemiah Pritchett early in the fourth quarter. Andrew Callahan of the Boston Herald reports Brown was seen exiting the Patriots' locker room with a walking boot following Wednesday's game, so Doubs could be pressed into an elevated role for the Week 2 home opener against the Steelers on Sunday, Sept. 20 despite his poor showing.",
+        "description": "Doubs failed to bring in any of his three targets during the Patriots' 13-10 loss to the Seahawks on Wednesday.",
+        "title": "Romeo Doubs - Forgettable team debut in loss",
+        "topic_id": "1403636528407736320"
+      },
+      "nfl_team": "NE",
+      "player_id": "8121",
+      "player_name": "Romeo Doubs",
+      "position": "WR",
+      "published": 1789015202000,
+      "source": "rotowire",
+      "source_key": "636666",
+      "story_id": "nfl|8121|rotowire|636666|1789015202000",
+      "title": "Romeo Doubs - Forgettable team debut in loss",
+      "url": null
+    },
+    {
+      "analysis": "The game technically will be taking place Friday local time in Melbourne, Australia, but Kittle has made quick work in his recovery from the torn right Achilles that he suffered in San Francisco's wild-card win at Philadelphia on Jan. 11. Kittle was listed as limited on the team's first two practice reports of Week 1 prep, so it stands to reason he may operate with a cap on his snaps. Still, he's in line to be out there for the 49ers' regular-season opener.",
+      "description": "Kittle (Achilles) isn't listed on the 49ers' injury report ahead of Thursday's contest against the Rams, Matt Maiocco of NBC Sports Bay Area reports.",
+      "metadata": {
+        "analysis": "The game technically will be taking place Friday local time in Melbourne, Australia, but Kittle has made quick work in his recovery from the torn right Achilles that he suffered in San Francisco's wild-card win at Philadelphia on Jan. 11. Kittle was listed as limited on the team's first two practice reports of Week 1 prep, so it stands to reason he may operate with a cap on his snaps. Still, he's in line to be out there for the 49ers' regular-season opener.",
+        "description": "Kittle (Achilles) isn't listed on the 49ers' injury report ahead of Thursday's contest against the Rams, Matt Maiocco of NBC Sports Bay Area reports.",
+        "title": "George Kittle - In clear to play Week 1",
+        "topic_id": "1403635270825377792"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1789014822000,
+      "source": "rotowire",
+      "source_key": "636665",
+      "story_id": "nfl|4217|rotowire|636665|1789014822000",
+      "title": "George Kittle - In clear to play Week 1",
+      "url": null
+    },
+    {
+      "analysis": "As expected with TreVeyon Henderson (ankle) unavailable, Stevenson shouldered a heavy workload and found running room at a premium save for his game-long 12-yard run late in the fourth quarter. However, the versatile veteran made an impact as a receiver, finishing with a team-high reception total while checking in as the runner-up in both receiving yards and targets for the Patriots on the night. Stevenson's involvement as a pass catcher unsurprisingly picked up after A.J. Brown went down with an ankle injury on the first possession of the second half, and the veteran running back could remain in an elevated all-around role during the Week 2 home opener against the Steelers on Sunday, Sept. 20.",
+      "description": "Stevenson rushed 18 times for 51 yards and brought in five of six targets for 44 yards in the Patriots' 13-10 loss to the Seahawks on Wednesday.",
+      "metadata": {
+        "analysis": "As expected with TreVeyon Henderson (ankle) unavailable, Stevenson shouldered a heavy workload and found running room at a premium save for his game-long 12-yard run late in the fourth quarter. However, the versatile veteran made an impact as a receiver, finishing with a team-high reception total while checking in as the runner-up in both receiving yards and targets for the Patriots on the night. Stevenson's involvement as a pass catcher unsurprisingly picked up after A.J. Brown went down with an ankle injury on the first possession of the second half, and the veteran running back could remain in an elevated all-around role during the Week 2 home opener against the Steelers on Sunday, Sept. 20.",
+        "description": "Stevenson rushed 18 times for 51 yards and brought in five of six targets for 44 yards in the Patriots' 13-10 loss to the Seahawks on Wednesday.",
+        "title": "Rhamondre Stevenson - Heavy volume in Week 1 loss",
+        "topic_id": "1403634012177649664"
+      },
+      "nfl_team": "NE",
+      "player_id": "7611",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "published": 1789014772000,
+      "source": "rotowire",
+      "source_key": "636664",
+      "story_id": "nfl|7611|rotowire|636664|1789014772000",
+      "title": "Rhamondre Stevenson - Heavy volume in Week 1 loss",
+      "url": null
+    },
     {
       "analysis": "The rookie running back touched the ball on Seattle's first play from scrimmage and immediately made an impact, ripping off a decisive 13-yard run. While that would serve as Price's longest gain of the night, the first-round pick continued to run hard throughout the night while flashing a hard-charging style. Price's rushing opportunities were somewhat capped as George Holani also logged eight carries, but the former could be trusted with a bigger role in a Week 2 road matchup against the Cardinals on Sunday, Sept. 20.",
       "description": "Price rushed 10 times for 52 yards and brought in both targets for six yards in the Seahawks' 13-10 win over the Patriots on Wednesday.",
@@ -316,6 +381,66 @@
       "story_id": "nfl|4943|rotowire|636606|1789001249000",
       "title": "Sam Darnold - Questionable to return",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles tight end Eli Stowers (hamstring) was listed as a limited participant on Wednesday, according to the team's official injury report. The second-round rookie initially suffered the injury during training camp, and now it's lingering into the start of the regular season. At this point, there is a chance that Stowers will be sidelined for Week 1 against the Washington Commanders, delaying his NFL debut. On the other hand, if he upgrades to a full participant in either of the next two days, he should be cleared to play. Fantasy managers should stay tuned to the Eagles' next two injury reports for additional updates. Regardless of whether he plays, Stowers will remain off the redraft radar in his role as the No. 2 tight end behind Dallas Goedert.",
+      "metadata": {
+        "description": "Philadelphia Eagles tight end Eli Stowers (hamstring) was listed as a limited participant on Wednesday, according to the team's official injury report. The second-round rookie initially suffered the injury during training camp, and now it's lingering into the start of the regular season. At this point, there is a chance that Stowers will be sidelined for Week 1 against the Washington Commanders, delaying his NFL debut. On the other hand, if he upgrades to a full participant in either of the next two days, he should be cleared to play. Fantasy managers should stay tuned to the Eagles' next two injury reports for additional updates. Regardless of whether he plays, Stowers will remain off the redraft radar in his role as the No. 2 tight end behind Dallas Goedert.",
+        "title": "Eli Stowers Limited in Practice on Wednesday",
+        "topic_id": "1403636526507712512",
+        "url": "https://www.rotoballer.com/player-news/eli-stowers-limited-in-practice-on-wednesday/1927263"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13349",
+      "player_name": "Eli Stowers",
+      "position": "TE",
+      "published": 1789000928000,
+      "source": "rotoballer",
+      "source_key": "220489",
+      "story_id": "nfl|13349|rotoballer|220489|1789000928000",
+      "title": "Eli Stowers Limited in Practice on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/eli-stowers-limited-in-practice-on-wednesday/1927263"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers running back Keaton Mitchell (hamstring) was a limited participant in practice on Wednesday, according to the team's official injury report. Mitchell has been dealing with the hamstring injury for a little while, so it's actually somewhat encouraging that he was able to practice even in a limited capacity. With that being said, his status for Week 1 against the Arizona Cardinals remains up in the air. Fantasy managers should monitor the Chargers' injury reports over the next two days to see if Mitchell's status improves at all. If he doesn't end up playing on Sunday, Kimani Vidal would step up as the Chargers' No. 2 running back behind Omarion Hampton.",
+      "metadata": {
+        "description": "Los Angeles Chargers running back Keaton Mitchell (hamstring) was a limited participant in practice on Wednesday, according to the team's official injury report. Mitchell has been dealing with the hamstring injury for a little while, so it's actually somewhat encouraging that he was able to practice even in a limited capacity. With that being said, his status for Week 1 against the Arizona Cardinals remains up in the air. Fantasy managers should monitor the Chargers' injury reports over the next two days to see if Mitchell's status improves at all. If he doesn't end up playing on Sunday, Kimani Vidal would step up as the Chargers' No. 2 running back behind Omarion Hampton.",
+        "title": "Keaton Mitchell Limited with a Hamstring Injury on Wednesday",
+        "topic_id": "1403635268220653568",
+        "url": "https://www.rotoballer.com/player-news/keaton-mitchell-limited-with-a-hamstring-injury-on-wednesday/1927261"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1789000446000,
+      "source": "rotoballer",
+      "source_key": "220488",
+      "story_id": "nfl|9511|rotoballer|220488|1789000446000",
+      "title": "Keaton Mitchell Limited with a Hamstring Injury on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/keaton-mitchell-limited-with-a-hamstring-injury-on-wednesday/1927261"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Jacory Croskey-Merritt (groin) was a limited participant in practice on Wednesday. For the most part, the Commanders have a healthy roster heading into Week 1, but Croskey-Merritt is one of the few exceptions. Given that he wasn't able to log a full practice to kick off the week, there's a chance that the 25-year-old could miss Sunday's game against the Philadelphia Eagles. Fantasy managers should monitor his status in practice over the next two days. If he upgrades to a full practice, he should be cleared to play in the season opener. Otherwise, he'll likely carry an injury designation into the weekend. If he can't play in this divisional battle, Rachaad White would step up as the lead back, likely ranking as a low-end RB2 in fantasy football.",
+      "metadata": {
+        "description": "Washington Commanders running back Jacory Croskey-Merritt (groin) was a limited participant in practice on Wednesday. For the most part, the Commanders have a healthy roster heading into Week 1, but Croskey-Merritt is one of the few exceptions. Given that he wasn't able to log a full practice to kick off the week, there's a chance that the 25-year-old could miss Sunday's game against the Philadelphia Eagles. Fantasy managers should monitor his status in practice over the next two days. If he upgrades to a full practice, he should be cleared to play in the season opener. Otherwise, he'll likely carry an injury designation into the weekend. If he can't play in this divisional battle, Rachaad White would step up as the lead back, likely ranking as a low-end RB2 in fantasy football.",
+        "title": "Jacory Croskey-Merritt Limited with a Groin Issue",
+        "topic_id": "1403634008956391424",
+        "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-limited-with-a-groin-issue/1927258"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1788999970000,
+      "source": "rotoballer",
+      "source_key": "220487",
+      "story_id": "nfl|12533|rotoballer|220487|1788999970000",
+      "title": "Jacory Croskey-Merritt Limited with a Groin Issue",
+      "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-limited-with-a-groin-issue/1927258"
     },
     {
       "analysis": "Love's status for Week 1 has been murky since he emerged from the Cardinals' preseason opener with a high-ankle sprain, which coach Mike LaFleur downplayed for most of the past month. When LaFleur discussed Love ahead of Wednesday's session, he told PHNX Sports \"don't look too far into that\" when discussing the rookie's listing as the No. 2 RB on the team's unofficial depth chart, while at the same time telling Brack that \"there's no limit on our end\" to Love's activity level. Considering Love's listing of \"limited\" Wednesday, he still has some work to do to be available for Sunday's game at the Chargers. Tyler Allgeier would serve as Arizona's lead back Week 1 if Love is operating with a cap on his reps or not suited up, while Bam Knight would be in line for some work as well.",
