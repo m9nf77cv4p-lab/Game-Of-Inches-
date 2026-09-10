@@ -2,11 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2586**
-- Newly captured: **1**
+- Stored stories: **2591**
+- Newly captured: **5**
 
 ## Latest news
 
+- **NEW — A.J. Brown** — A.J. Brown (ankle) expect to miss at least four weeks (2026-09-10T23:35:29.823000Z)
+  - It's a big blow to Brown's Fantasy stock to start the season. In his absence, expect Hunter Henry and Romeo Doubs to see more work. However, with Doubs was struggling to find snaps and catch the ball, it's possible that Demario Douglas could be a nice PPR sleeper.
+  - Source: https://www.fantasypros.com/nfl/news/607037/aj-brown-ankle-expect-to-miss-least-four-weeks.php
+- **NEW — Jeremiyah Love** — Jeremiyah Love (ankle) limited in practice Thursday (2026-09-10T23:35:29.808000Z)
+  - Love is still hopeful to play for Week 1, and his involvement in practice is a good sign that he will do so. It will be interesting to see if Tyler Allgeier gets the first crack at things with Love having dealt with an injury, but don't be surprised if the Cardinals lean on their talented and explosive rookie.
+  - Source: https://www.fantasypros.com/nfl/news/607038/jeremiyah-love-ankle-limited-practice-thursday.php
+- **NEW — Ty Simpson** — Ty Simpson out against Niners (2026-09-10T23:35:29.790000Z)
+  - Simpson will need to develop more before getting his shot at being the primary backup. He was impressive in the preseason, but the Rams are opting to let the rookie sit a little longer before trusting him further.
+  - Source: https://www.fantasypros.com/nfl/news/607039/ty-simpson-out-against-niners.php
 - **Jeremiyah Love** — Jeremiyah Love - Stays limited at practice (2026-09-10T22:56:37Z)
   - Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities going from full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.
 - **Tua Tagovailoa** — Tua Tagovailoa - Suffers oblique strain (2026-09-10T22:41:20Z)
@@ -106,12 +115,16 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606964/malik-nabers-knee-practices-full-thursday.php
 - **Malik Nabers** — Malik Nabers - Another full practice Thursday (2026-09-10T19:40:06Z)
   - Coach John Harbaugh provided the update after Thursday's session. Nabers has been practicing in full this week, though there's no confirmation on his status for Sunday night's game against the Cowboys just yet. It appears the Giants will wait as long as they can to make a final determination on their star receiver's Week 1 availability.
+- **NEW — A.J. Brown** — A.J. Brown to Miss at Least Four Weeks (2026-09-10T19:32:07Z)
+  - Source: https://www.rotoballer.com/player-news/a-j-brown-to-miss-at-least-four-weeks/1927951
 - **Rome Odunze** — Rome Odunze - Limited again Thursday (2026-09-10T19:31:41Z)
   - Odunze was limited for a second day in a row on Thursday as his status remains unclear going into Week 1. Friday's injury report should provide some clarity, but even then, the Bears may not make a final call on Odunze until Sunday. An absence from Odunze on Sunday would open playing time for Kalif Raymond or Zavion Thomas.
 - **Rome Odunze** — Rome Odunze (calf) limited again Thursday (2026-09-10T19:30:21.874000Z)
   - Odunze was limited for a second-straight practice on Thursday as he continues to recover from a lingering calf injury. It's uncertain whether or not he will play in Week 1, but if he is ruled out, fantasy managers should expect more work for Luther Burden III and Zavion Thomas against the Panthers.
   - Source: https://www.fantasypros.com/nfl/news/606962/rome-odunze-calf-limited-again-thursday.php
-- **NEW — Marvin Mims** — Marvin Mims Jr. Looks Ready for Week 1 Against Chiefs (2026-09-10T19:17:06Z)
+- **NEW — Sam Darnold** — Sam Darnold has Unusual Strain, Timetable Remains TBD (2026-09-10T19:24:05Z)
+  - Source: https://www.rotoballer.com/player-news/sam-darnold-has-unusual-strain-timetable-remains-tbd/1927947
+- **Marvin Mims** — Marvin Mims Jr. Looks Ready for Week 1 Against Chiefs (2026-09-10T19:17:06Z)
   - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-looks-ready-for-week-1-against-chiefs/1927944
 - **Jeremiyah Love** — Jeremiyah Love Limited Again on Thursday (2026-09-10T19:09:05Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-limited-again-on-thursday/1927942
@@ -235,15 +248,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606912/demario-douglas-catches-five-passes-wednesday.php
 - **Oronde Gadsden** — Oronde Gadsden Still Has a Path to Fantasy Value (2026-09-10T15:12:06Z)
   - Source: https://www.rotoballer.com/player-news/oronde-gadsden-ii-still-has-a-path-to-fantasy-value/1927768
-- **Drake Maye** — Drake Maye throws three interceptions in loss Wednesday (2026-09-10T15:05:04.561000Z)
-  - Maye started the season on the wrong foot on Wednesday night. He threw for under 200 yards and three interceptions against a tough Seattle defense, including one that cost the Patriots the game. He still showed lots of ability on the ground, however, and he's likely to return to being a good fantasy option against easier defenses. The loss of A.J. Brown (ankle) for at least a few games will severely hamper his short-term upside, however.
-  - Source: https://www.fantasypros.com/nfl/news/606908/drake-maye-throws-three-interceptions-loss-wednesday.php
-- **Rhamondre Stevenson** — Rhamondre Stevenson totals 95 yards Wednesday (2026-09-10T15:05:04.548000Z)
-  - Stevenson was New England's workhorse running back on Wednesday night with TreVeyon Henderson (ankle) out of the lineup. He ran at an inefficient clip of 2.8 yards per carry on the night, but his fantasy total was saved by the fact that he caught five passes. He will be more efficient than this in the future but will lose passing work to Henderson when he's back, so he will likely continue to be touchdown dependent on a week-to-week basis.
-  - Source: https://www.fantasypros.com/nfl/news/606909/rhamondre-stevenson-totals-95-yards-wednesday.php
-- **Mike Washington** — Mike Washington - Expected to be involved in Week 1 plan (2026-09-10T14:49:15Z)
-  - Washington impressed the Raiders' coaching staff in the preseason, during which the rookie fourth-round pick rushed for 168 yards on 23 carries across three games, averaging a robust 7.3 YPC. Jeanty has returned to full practice participation in the week leading up to Sunday's regular-season opener against the Dolphins, but the 2025 first-round pick missed a chunk of practice time due to the ankle injury he suffered Aug. 23. With Jeanty still shaking off the cobwebs, Washington is primed for some added opportunities in his regular-season debut as the Raiders face the Dolphins in a battle between two teams expected to finish near the bottom of the standings this season.
-- **Kenny Gainwell** — Kenny Gainwell Called a "Freak of Nature" (2026-09-10T14:47:33Z)
-  - Source: https://www.rotoballer.com/player-news/kenny-gainwell-called-a-freak-of-nature/1927752
-- **Ted Hurst** — Ted Hurst III Continues to Ascend in Bucs' Offense (2026-09-10T14:24:04Z)
-  - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-continues-to-ascend-in-bucs-offense/1927740

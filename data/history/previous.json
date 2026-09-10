@@ -20045,7 +20045,7 @@
       ],
       "first_name": "Brock",
       "full_name": "Brock Bowers",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Bowers",
       "nfl_team": "LV",
       "player_id": "11604",
@@ -23917,8 +23917,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-10T21:36:07Z",
-    "source_fingerprint": "c3cd780b3823b91ba507ca84fefb09824bd86367ee51f37f014c98c5b066d32a"
+    "last_changed_at": "2026-09-10T22:27:00Z",
+    "source_fingerprint": "6dfedbec2aedf7443dd89dd58f9a7fa5169ffa0777df14a9799bbf35dd9cba1d"
   },
   "teams": [
     {

@@ -1,9 +1,13 @@
 {
-  "last_checked_at": "2026-09-10T23:28:08Z",
+  "last_checked_at": "2026-09-10T23:40:26Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|9494|rotoballer|220583|1789067826000"
+    "nfl|13275|fantasy_pros|607039|1789083329790",
+    "nfl|13287|fantasy_pros|607038|1789083329808",
+    "nfl|4943|rotoballer|220584|1789068245000",
+    "nfl|5859|fantasy_pros|607037|1789083329823",
+    "nfl|5859|rotoballer|220585|1789068727000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +17,69 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "It's a big blow to Brown's Fantasy stock to start the season. In his absence, expect Hunter Henry and Romeo Doubs to see more work. However, with Doubs was struggling to find snaps and catch the ball, it's possible that Demario Douglas could be a nice PPR sleeper.",
+      "description": "A.J. Brown (ankle) is expected to miss at least four weeks with a high ankle sprain that he sustained early in the third quarter of the Patriots game against the Seahawks on Wednesday night.",
+      "metadata": {
+        "analysis": "It's a big blow to Brown's Fantasy stock to start the season. In his absence, expect Hunter Henry and Romeo Doubs to see more work. However, with Doubs was struggling to find snaps and catch the ball, it's possible that Demario Douglas could be a nice PPR sleeper.",
+        "description": "A.J. Brown (ankle) is expected to miss at least four weeks with a high ankle sprain that he sustained early in the third quarter of the Patriots game against the Seahawks on Wednesday night.",
+        "title": "A.J. Brown (ankle) expect to miss at least four weeks",
+        "topic_id": "1403920876373606400",
+        "url": "https://www.fantasypros.com/nfl/news/607037/aj-brown-ankle-expect-to-miss-least-four-weeks.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1789083329823,
+      "source": "fantasy_pros",
+      "source_key": "607037",
+      "story_id": "nfl|5859|fantasy_pros|607037|1789083329823",
+      "title": "A.J. Brown (ankle) expect to miss at least four weeks",
+      "url": "https://www.fantasypros.com/nfl/news/607037/aj-brown-ankle-expect-to-miss-least-four-weeks.php"
+    },
+    {
+      "analysis": "Love is still hopeful to play for Week 1, and his involvement in practice is a good sign that he will do so. It will be interesting to see if Tyler Allgeier gets the first crack at things with Love having dealt with an injury, but don't be surprised if the Cardinals lean on their talented and explosive rookie.",
+      "description": "Jeremiyah Love (ankle) was limited in practice on Thursday with an ankle injury.",
+      "metadata": {
+        "analysis": "Love is still hopeful to play for Week 1, and his involvement in practice is a good sign that he will do so. It will be interesting to see if Tyler Allgeier gets the first crack at things with Love having dealt with an injury, but don't be surprised if the Cardinals lean on their talented and explosive rookie.",
+        "description": "Jeremiyah Love (ankle) was limited in practice on Thursday with an ankle injury.",
+        "title": "Jeremiyah Love (ankle) limited in practice Thursday",
+        "topic_id": "1403920876310691840",
+        "url": "https://www.fantasypros.com/nfl/news/607038/jeremiyah-love-ankle-limited-practice-thursday.php"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1789083329808,
+      "source": "fantasy_pros",
+      "source_key": "607038",
+      "story_id": "nfl|13287|fantasy_pros|607038|1789083329808",
+      "title": "Jeremiyah Love (ankle) limited in practice Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/607038/jeremiyah-love-ankle-limited-practice-thursday.php"
+    },
+    {
+      "analysis": "Simpson will need to develop more before getting his shot at being the primary backup. He was impressive in the preseason, but the Rams are opting to let the rookie sit a little longer before trusting him further.",
+      "description": "Ty Simpson has been named the emergency third QB for the Rams on Thursday. Stetson Bennett will perform backup duties.",
+      "metadata": {
+        "analysis": "Simpson will need to develop more before getting his shot at being the primary backup. He was impressive in the preseason, but the Rams are opting to let the rookie sit a little longer before trusting him further.",
+        "description": "Ty Simpson has been named the emergency third QB for the Rams on Thursday. Stetson Bennett will perform backup duties.",
+        "title": "Ty Simpson out against Niners",
+        "topic_id": "1403920876239388672",
+        "url": "https://www.fantasypros.com/nfl/news/607039/ty-simpson-out-against-niners.php"
+      },
+      "nfl_team": "LAR",
+      "player_id": "13275",
+      "player_name": "Ty Simpson",
+      "position": "QB",
+      "published": 1789083329790,
+      "source": "fantasy_pros",
+      "source_key": "607039",
+      "story_id": "nfl|13275|fantasy_pros|607039|1789083329790",
+      "title": "Ty Simpson out against Niners",
+      "url": "https://www.fantasypros.com/nfl/news/607039/ty-simpson-out-against-niners.php"
+    },
     {
       "analysis": "Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities going from full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.",
       "description": "Love (ankle) remained a limited practice participant Thursday, Bo Brack of GoPHNX.com reports.",
@@ -833,6 +900,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "New England Patriots wide receiver A.J. Brown (ankle) suffered a high-ankle sprain in Wednesday night's season-opening loss to the Seattle Seahawks and is expected to miss at least four weeks, according to Ian Rapoport of the NFL Network. High-ankle sprains typically keep players out anywhere from four to six weeks, so fantasy managers will need to be patient with the 29-year-old wideout after he caught just three of his four targets for 26 yards in Week 1 before leaving with his ankle sprain in his Patriots debut. It is not how Brown or his fantasy managers wanted him to get started back in the AFC this year, but he should be stashed in all leagues while he heals up. In the meantime, Romeo Doubs, DeMario Douglas, Mack Hollins, and Kyle Williams will all be asked to step up to help quarterback Drake Maye out after his frustrating three-interception season opener on Wednesday night. Doubs, who is already rostered in 56% of Yahoo leagues, probably has the most fantasy upside of the bunch, even though he failed to haul in any of his three targets on Wednesday in his team debut.",
+      "metadata": {
+        "description": "New England Patriots wide receiver A.J. Brown (ankle) suffered a high-ankle sprain in Wednesday night's season-opening loss to the Seattle Seahawks and is expected to miss at least four weeks, according to Ian Rapoport of the NFL Network. High-ankle sprains typically keep players out anywhere from four to six weeks, so fantasy managers will need to be patient with the 29-year-old wideout after he caught just three of his four targets for 26 yards in Week 1 before leaving with his ankle sprain in his Patriots debut. It is not how Brown or his fantasy managers wanted him to get started back in the AFC this year, but he should be stashed in all leagues while he heals up. In the meantime, Romeo Doubs, DeMario Douglas, Mack Hollins, and Kyle Williams will all be asked to step up to help quarterback Drake Maye out after his frustrating three-interception season opener on Wednesday night. Doubs, who is already rostered in 56% of Yahoo leagues, probably has the most fantasy upside of the bunch, even though he failed to haul in any of his three targets on Wednesday in his team debut.",
+        "title": "A.J. Brown to Miss at Least Four Weeks",
+        "topic_id": "1403920871340453888",
+        "url": "https://www.rotoballer.com/player-news/a-j-brown-to-miss-at-least-four-weeks/1927951"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1789068727000,
+      "source": "rotoballer",
+      "source_key": "220585",
+      "story_id": "nfl|5859|rotoballer|220585|1789068727000",
+      "title": "A.J. Brown to Miss at Least Four Weeks",
+      "url": "https://www.rotoballer.com/player-news/a-j-brown-to-miss-at-least-four-weeks/1927951"
+    },
+    {
       "analysis": "Odunze was limited for a second day in a row on Thursday as his status remains unclear going into Week 1. Friday's injury report should provide some clarity, but even then, the Bears may not make a final call on Odunze until Sunday. An absence from Odunze on Sunday would open playing time for Kalif Raymond or Zavion Thomas.",
       "description": "Odunze (calf) was listed as a limited participant for Thursday's practice.",
       "metadata": {
@@ -872,6 +959,26 @@
       "story_id": "nfl|11620|fantasy_pros|606962|1789068621874",
       "title": "Rome Odunze (calf) limited again Thursday",
       "url": "https://www.fantasypros.com/nfl/news/606962/rome-odunze-calf-limited-again-thursday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Tests showed that Seattle Seahawks quarterback Sam Darnold (hip) has an unusual muscle strain in his hip area that he suffered on the first offensive drive of Wednesday's season-opening win over the New England Patriots, according to Tom Pelissero of The Ringer. There is no consideration at this point of putting Darnold on Injured Reserve, but his timetable for a return remains to be determined. Reports earlier suggested that the Seahawks \"dodged a bullet\" with Darnold's right-hip injury, but he might not be out of the woods yet. The 29-year-old signal-caller is expected to miss the Week 2 contest against the division-rival Arizona Cardinals, but if he recovers nicely, he could be in play for Week 3 against the Washington Commanders on Sunday, Sept. 27. Still, the consensus is that Darnold avoided a long-term injury. Until he can return, backup Drew Lock will be thrust into starting duties for the Seahawks. In Week 2 versus the Cardinals, he should only be a fantasy streaming option in deep two-QB superflex formats.",
+      "metadata": {
+        "description": "Tests showed that Seattle Seahawks quarterback Sam Darnold (hip) has an unusual muscle strain in his hip area that he suffered on the first offensive drive of Wednesday's season-opening win over the New England Patriots, according to Tom Pelissero of The Ringer. There is no consideration at this point of putting Darnold on Injured Reserve, but his timetable for a return remains to be determined. Reports earlier suggested that the Seahawks \"dodged a bullet\" with Darnold's right-hip injury, but he might not be out of the woods yet. The 29-year-old signal-caller is expected to miss the Week 2 contest against the division-rival Arizona Cardinals, but if he recovers nicely, he could be in play for Week 3 against the Washington Commanders on Sunday, Sept. 27. Still, the consensus is that Darnold avoided a long-term injury. Until he can return, backup Drew Lock will be thrust into starting duties for the Seahawks. In Week 2 versus the Cardinals, he should only be a fantasy streaming option in deep two-QB superflex formats.",
+        "title": "Sam Darnold has Unusual Strain, Timetable Remains TBD",
+        "topic_id": "1403919613015703552",
+        "url": "https://www.rotoballer.com/player-news/sam-darnold-has-unusual-strain-timetable-remains-tbd/1927947"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4943",
+      "player_name": "Sam Darnold",
+      "position": "QB",
+      "published": 1789068245000,
+      "source": "rotoballer",
+      "source_key": "220584",
+      "story_id": "nfl|4943|rotoballer|220584|1789068245000",
+      "title": "Sam Darnold has Unusual Strain, Timetable Remains TBD",
+      "url": "https://www.rotoballer.com/player-news/sam-darnold-has-unusual-strain-timetable-remains-tbd/1927947"
     },
     {
       "analysis": null,
