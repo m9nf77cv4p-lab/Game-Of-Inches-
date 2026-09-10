@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-10T03:32:50Z",
+  "last_checked_at": "2026-09-10T03:47:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|9488|rotowire|636654|1789011757000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The reigning Offensive Player of the Year endured a relatively difficult first half, losing starting quarterback Sam Darnold to a hip injury after the first drive of the game and experiencing some trouble separating from Patriots star cornerback Christian Gonzalez. However, JSN picked up the pace significantly as No. 2 signal-caller Drew Lock got into a rhythm, recording key third-down catches on consecutive second-quarter possessions and then delivering a dynamic 45-yard catch-and-run touchdown in the fourth quarter following Drake Maye's first interception. Smith-Njigba also subsequently managed a timely 11-yard grab on the drive that culminated with Jason Myers' go-ahead field goal that served as the final points for either side, and he ultimately delivered game-high totals in receptions, receiving yards and targets. Any extended absence on Darnold's part would stand to affect Smith-Njigba's week-to-week upside, but the standout receiver's chemistry with Lock as Wednesday's game unfolded was encouraging.",
+      "description": "Smith-Njigba brought in eight of 11 targets for 122 yards and a touchdown in the Seahawks' 13-10 win over the Patriots on Wednesday.",
+      "metadata": {
+        "analysis": "The reigning Offensive Player of the Year endured a relatively difficult first half, losing starting quarterback Sam Darnold to a hip injury after the first drive of the game and experiencing some trouble separating from Patriots star cornerback Christian Gonzalez. However, JSN picked up the pace significantly as No. 2 signal-caller Drew Lock got into a rhythm, recording key third-down catches on consecutive second-quarter possessions and then delivering a dynamic 45-yard catch-and-run touchdown in the fourth quarter following Drake Maye's first interception. Smith-Njigba also subsequently managed a timely 11-yard grab on the drive that culminated with Jason Myers' go-ahead field goal that served as the final points for either side, and he ultimately delivered game-high totals in receptions, receiving yards and targets. Any extended absence on Darnold's part would stand to affect Smith-Njigba's week-to-week upside, but the standout receiver's chemistry with Lock as Wednesday's game unfolded was encouraging.",
+        "description": "Smith-Njigba brought in eight of 11 targets for 122 yards and a touchdown in the Seahawks' 13-10 win over the Patriots on Wednesday.",
+        "title": "Jaxon Smith-Njigba - Ratches up production in second half",
+        "topic_id": "1403621429345255424"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9488",
+      "player_name": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "published": 1789011757000,
+      "source": "rotowire",
+      "source_key": "636654",
+      "story_id": "nfl|9488|rotowire|636654|1789011757000",
+      "title": "Jaxon Smith-Njigba - Ratches up production in second half",
+      "url": null
+    },
     {
       "analysis": "Brown went down in the second half after a Seattle DB landed on his ankle, and Brown went back to the locker room soon after for x-rays. The Patriots will lean on Romeo Doubs, Pop Douglas, and Hunter Henry in the passing game with him out.",
       "description": "A.J. Brown (ankle) has been ruled out for the rest of the Patriots game against Seattle.",

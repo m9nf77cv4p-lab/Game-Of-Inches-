@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2432**
-- Newly captured: **0**
+- Stored stories: **2433**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba - Ratches up production in second half (2026-09-10T03:42:37Z)
+  - The reigning Offensive Player of the Year endured a relatively difficult first half, losing starting quarterback Sam Darnold to a hip injury after the first drive of the game and experiencing some trouble separating from Patriots star cornerback Christian Gonzalez. However, JSN picked up the pace significantly as No. 2 signal-caller Drew Lock got into a rhythm, recording key third-down catches on consecutive second-quarter possessions and then delivering a dynamic 45-yard catch-and-run touchdown in the fourth quarter following Drake Maye's first interception. Smith-Njigba also subsequently managed a timely 11-yard grab on the drive that culminated with Jason Myers' go-ahead field goal that served as the final points for either side, and he ultimately delivered game-high totals in receptions, receiving yards and targets. Any extended absence on Darnold's part would stand to affect Smith-Njigba's week-to-week upside, but the standout receiver's chemistry with Lock as Wednesday's game unfolded was encouraging.
 - **A.J. Brown** — A.J. Brown (ankle) ruled out against Seattle (2026-09-10T02:45:36.497000Z)
   - Brown went down in the second half after a Seattle DB landed on his ankle, and Brown went back to the locker room soon after for x-rays. The Patriots will lean on Romeo Doubs, Pop Douglas, and Hunter Henry in the passing game with him out.
   - Source: https://www.fantasypros.com/nfl/news/606860/aj-brown-ankle-ruled-out-against-seattle.php
@@ -245,5 +247,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606745/brock-bowers-knee-to-miss-a-game-or-two.php
 - **Brock Bowers** — Brock Bowers - Undergoes meniscus trim, out 1-to-2 games (2026-09-09T20:04:45Z)
   - This is huge news just before the season gets underway, as one of the top tight ends in the league is now expected to miss regular-season time. Per Schefter, Bowers suffered a minor knee injury in camp that was diagnosed last week. He underwent a meniscus trim rather than a repair, which will speed up his time to return to the field. Michael Mayer projects to see a usage boost for however long Bowers is sidelined.
-- **Brock Bowers** — Brock Bowers - Not spotted at Wednesday's practice (2026-09-09T19:57:45Z)
-  - Bowers remained healthy throughout training camp and the preseason after a lingering PCL injury and bone bruise in his knee sidelined him for five games in 2025, but he could be dealing with a new health concern leading up to Las Vegas' Week 1 matchup with the Dolphins. The Raiders will release their first injury report of the season later Wednesday, when an explanation behind Bowers' absence will be provided.
