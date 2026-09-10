@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T19:06:58Z",
+  "last_checked_at": "2026-09-10T19:19:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|4039|rotowire|636697|1789066873000",
-    "nfl|7567|rotoballer|220553|1789051653000",
-    "nfl|8155|fantasy_pros|606953|1789066822081"
+    "nfl|12493|rotoballer|220554|1789053126000"
   ],
   "schema_version": 1,
   "source": {
@@ -672,6 +670,26 @@
       "story_id": "nfl|9501|fantasy_pros|606912|1789053304905",
       "title": "DeMario Douglas catches five passes Wednesday",
       "url": "https://www.fantasypros.com/nfl/news/606912/demario-douglas-catches-five-passes-wednesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers offensive coordinator Mike McDaniel is already cautioning fantasy managers against reading too much into how his tight ends are used in Week 1. McDaniel said Thursday that it \"might not be the smartest move\" to make fantasy decisions after one game, adding that the group is going to grow and the Chargers will be able to do plenty with them. Oronde Gadsden is the name fantasy managers will be watching most closely. He caught 49 passes for 664 yards and three touchdowns in 15 games as a rookie, but Los Angeles added both Charlie Kolar and David Njoku during the offseason. The Chargers' first unofficial depth chart has Kolar or Njoku starting, with Gadsden behind them. Kolar was brought in largely for what he can add as a blocker, while Njoku gives Justin Herbert another proven receiving option. That makes this a crowded room, but McDaniel's comments are another reason not to make a quick call on Gadsden based solely on Sunday's opener against Arizona. His rookie production is still worth betting on while the Chargers figure out how all three tight ends fit.",
+      "metadata": {
+        "description": "Los Angeles Chargers offensive coordinator Mike McDaniel is already cautioning fantasy managers against reading too much into how his tight ends are used in Week 1. McDaniel said Thursday that it \"might not be the smartest move\" to make fantasy decisions after one game, adding that the group is going to grow and the Chargers will be able to do plenty with them. Oronde Gadsden is the name fantasy managers will be watching most closely. He caught 49 passes for 664 yards and three touchdowns in 15 games as a rookie, but Los Angeles added both Charlie Kolar and David Njoku during the offseason. The Chargers' first unofficial depth chart has Kolar or Njoku starting, with Gadsden behind them. Kolar was brought in largely for what he can add as a blocker, while Njoku gives Justin Herbert another proven receiving option. That makes this a crowded room, but McDaniel's comments are another reason not to make a quick call on Gadsden based solely on Sunday's opener against Arizona. His rookie production is still worth betting on while the Chargers figure out how all three tight ends fit.",
+        "title": "Oronde Gadsden Still Has a Path to Fantasy Value",
+        "topic_id": "1403855405343375360",
+        "url": "https://www.rotoballer.com/player-news/oronde-gadsden-ii-still-has-a-path-to-fantasy-value/1927768"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12493",
+      "player_name": "Oronde Gadsden",
+      "position": "TE",
+      "published": 1789053126000,
+      "source": "rotoballer",
+      "source_key": "220554",
+      "story_id": "nfl|12493|rotoballer|220554|1789053126000",
+      "title": "Oronde Gadsden Still Has a Path to Fantasy Value",
+      "url": "https://www.rotoballer.com/player-news/oronde-gadsden-ii-still-has-a-path-to-fantasy-value/1927768"
     },
     {
       "analysis": "Maye started the season on the wrong foot on Wednesday night. He threw for under 200 yards and three interceptions against a tough Seattle defense, including one that cost the Patriots the game. He still showed lots of ability on the ground, however, and he's likely to return to being a good fantasy option against easier defenses. The loss of A.J. Brown (ankle) for at least a few games will severely hamper his short-term upside, however.",

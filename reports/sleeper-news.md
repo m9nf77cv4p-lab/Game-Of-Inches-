@@ -2,14 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2527**
-- Newly captured: **3**
+- Stored stories: **2528**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Cooper Kupp** — Cooper Kupp - Has TD nullified after nice 24-yard catch (2026-09-10T19:01:13Z)
+- **Cooper Kupp** — Cooper Kupp - Has TD nullified after nice 24-yard catch (2026-09-10T19:01:13Z)
   - Kupp turned the tide with a spectacular one-handed grab for 24 yards in the third quarter while the Seahawks trailed 10-0. He thought he had a seven-yard touchdown three plays later, but the scoring play was nullified by an illegal shift penalty. Seattle would settle for a field goal to kickstart a 13-0 run to end the game. Kupp finished a distant second in receiving yards behind Jaxon Smith-Njigba's 122, which could be a preview of the team's pecking order in the passing game all season. Sam Darnold (hip) exited in the first quarter of Wednesday's win, and Drew Lock is likely to be Seattle's starting QB in Week 2 against the Cardinals while Darnold's on the mend.
-- **NEW — Breece Hall** — Breece Hall (groin) says he is good to go Week 1 (2026-09-10T19:00:22.081000Z)
+- **Breece Hall** — Breece Hall (groin) says he is good to go Week 1 (2026-09-10T19:00:22.081000Z)
   - Hall recently missed a couple of weeks with a strained groin. He added he feels fresh from the time off. He'll be an RB2 for fantasy managers heading into the season. 
   - Source: https://www.fantasypros.com/nfl/news/606953/breece-hall-groin-says-he-is-good-to-go-week-1.php
 - **Elijah Arroyo** — Elijah Arroyo - Non-factor in Week 1 win (2026-09-10T18:32:33Z)
@@ -89,6 +89,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **DeMario Douglas** — DeMario Douglas catches five passes Wednesday (2026-09-10T15:15:04.905000Z)
   - Douglas was the most targeted receiver for New England last night, but he wasn't able to turn that into any fantasy success. He ended with just 20 yards on five catches, but he may continue to see high opportunities for the foreseeable future with A.J. Brown (ankle) set to miss some time for the team.
   - Source: https://www.fantasypros.com/nfl/news/606912/demario-douglas-catches-five-passes-wednesday.php
+- **NEW — Oronde Gadsden** — Oronde Gadsden Still Has a Path to Fantasy Value (2026-09-10T15:12:06Z)
+  - Source: https://www.rotoballer.com/player-news/oronde-gadsden-ii-still-has-a-path-to-fantasy-value/1927768
 - **Drake Maye** — Drake Maye throws three interceptions in loss Wednesday (2026-09-10T15:05:04.561000Z)
   - Maye started the season on the wrong foot on Wednesday night. He threw for under 200 yards and three interceptions against a tough Seattle defense, including one that cost the Patriots the game. He still showed lots of ability on the ground, however, and he's likely to return to being a good fantasy option against easier defenses. The loss of A.J. Brown (ankle) for at least a few games will severely hamper his short-term upside, however.
   - Source: https://www.fantasypros.com/nfl/news/606908/drake-maye-throws-three-interceptions-loss-wednesday.php
@@ -97,7 +99,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606909/rhamondre-stevenson-totals-95-yards-wednesday.php
 - **Mike Washington** — Mike Washington - Expected to be involved in Week 1 plan (2026-09-10T14:49:15Z)
   - Washington impressed the Raiders' coaching staff in the preseason, during which the rookie fourth-round pick rushed for 168 yards on 23 carries across three games, averaging a robust 7.3 YPC. Jeanty has returned to full practice participation in the week leading up to Sunday's regular-season opener against the Dolphins, but the 2025 first-round pick missed a chunk of practice time due to the ankle injury he suffered Aug. 23. With Jeanty still shaking off the cobwebs, Washington is primed for some added opportunities in his regular-season debut as the Raiders face the Dolphins in a battle between two teams expected to finish near the bottom of the standings this season.
-- **NEW — Kenny Gainwell** — Kenny Gainwell Called a "Freak of Nature" (2026-09-10T14:47:33Z)
+- **Kenny Gainwell** — Kenny Gainwell Called a "Freak of Nature" (2026-09-10T14:47:33Z)
   - Source: https://www.rotoballer.com/player-news/kenny-gainwell-called-a-freak-of-nature/1927752
 - **Ted Hurst** — Ted Hurst III Continues to Ascend in Bucs' Offense (2026-09-10T14:24:04Z)
   - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-continues-to-ascend-in-bucs-offense/1927740
@@ -229,5 +231,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606860/aj-brown-ankle-ruled-out-against-seattle.php
 - **A.J. Brown** — A.J. Brown - Will not return Wednesday (2026-09-10T02:41:22Z)
   - Brown will remain sidelined until the conclusion of the team's regular-season opener after suffering a right ankle injury in the third quarter. In the wideout's absence, running back Rhamondre Stevenson has been quarterback Drake Maye's favorite target against the Seahawks.
-- **Kyren Williams** — Kyren Williams Possesses a Safe Floor for Week 1 (2026-09-10T02:26:05Z)
-  - Source: https://www.rotoballer.com/player-news/kyren-williams-possesses-a-safe-floor-for-week-1/1927287
