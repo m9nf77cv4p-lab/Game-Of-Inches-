@@ -2,7 +2,7 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2432**
+- Stored stories: **2433**
 - Newly captured: **1**
 
 ## Latest news
@@ -20,7 +20,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Sam Darnold** — Sam Darnold (hip) ruled out for remainder of season opener (2026-09-10T01:40:36.224000Z)
   - The injury was serious enough for the team to hold Darnold out, but he was able to get off the field under his own power and jog back to the locker room, so it's hopefully not too serious. Drew Lock will handle duties in the short term, which certainly caps the ceiling of the offense.
   - Source: https://www.fantasypros.com/nfl/news/606856/sam-darnold-hip-ruled-out-remainder-season-opener.php
-- **Sam Darnold** — Sam Darnold - Done for night (2026-09-10T01:38:04Z)
+- **Sam Darnold** — Sam Darnold - Ruled out with injury (2026-09-10T01:38:04Z)
   - Darnold will undergo additional imaging on his hip off-site, and the exact diagnosis of his injury will likely be disclosed thereafter. Drew Lock will continue to operate as Seattle's quarterback in Darnold's absence versus the Patriots.
 - **Ollie Gordon** — Ollie Gordon - Not listed on injury report (2026-09-10T01:07:52Z)
   - Gordon recently returned to practice without a non-contact jersey. With his full participation in Wednesday's practice, all signs are pointing toward his availability for Week 1 versus the Raiders. The 22-year-old finished the 2025 campaign by rushing for 199 yards and three touchdowns off 70 carries, adding seven grabs for 32 yards and a touchdown in 17 regular-season appearances. Gordon currently occupies the No. 3 spot on the depth chart behind De'Von Achane and Jaylen Wright.
@@ -60,7 +60,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Ashton Jeanty** — Ashton Jeanty (ankle) practices in full Wednesday (2026-09-09T22:55:48.291000Z)
   - It looks like Jeanty is strongly trending towards playing in Week 1, as he was able to put up a full session in Las Vegas' first practice of the week on Wednesday. If he is active, he will likely see enough work to be a great fantasy option in a positive matchup against the Dolphins.
   - Source: https://www.fantasypros.com/nfl/news/606815/ashton-jeanty-ankle-practices-full-wednesday.php
-- **NEW — Alvin Kamara** — Alvin Kamara is Back at Practice (2026-09-09T22:41:16Z)
+- **NEW — Emeka Egbuka** — Emeka Egbuka Logs Full Practice on Wednesday (2026-09-09T22:53:50Z)
+  - Source: https://www.rotoballer.com/player-news/emeka-egbuka-logs-in-full-practice-on-wednesday/1927242
+- **Alvin Kamara** — Alvin Kamara is Back at Practice (2026-09-09T22:41:16Z)
   - Source: https://www.rotoballer.com/player-news/alvin-kamara-is-back-at-practice/1927233
 - **George Kittle** — George Kittle - Remains limited Wednesday (2026-09-09T22:37:44Z)
   - Coach Kyle Shanahan has already indicated Kittle will play in Thursday night's season opener against the Rams in Australia, but the team is monitoring his practice reps. The veteran tight end is coming off a torn Achilles and is expected to see his snaps dialed back some against Los Angeles, though he should remain a staple in the red zone. Kittle is probably more of a TE2 than locked-in TE1 for fantasy in Week 1.
@@ -245,6 +247,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - This is huge news just before the season gets underway, as one of the top tight ends in the league is now expected to miss regular-season time. Per Schefter, Bowers suffered a minor knee injury in camp that was diagnosed last week. He underwent a meniscus trim rather than a repair, which will speed up his time to return to the field. Michael Mayer projects to see a usage boost for however long Bowers is sidelined.
 - **Brock Bowers** — Brock Bowers - Not spotted at Wednesday's practice (2026-09-09T19:57:45Z)
   - Bowers remained healthy throughout training camp and the preseason after a lingering PCL injury and bone bruise in his knee sidelined him for five games in 2025, but he could be dealing with a new health concern leading up to Las Vegas' Week 1 matchup with the Dolphins. The Raiders will release their first injury report of the season later Wednesday, when an explanation behind Bowers' absence will be provided.
-- **Khalil Shakir** — Khalil Shakir (undisclosed) seen practicing Wednesday (2026-09-09T19:50:50.613000Z)
-  - Shakir's availability for Week 1 is currently up in the air due to an undisclosed injury that he's dealing with. He was spotted at practice on Wednesday, however, which bodes well for his availability for the season opener. It remains unclear if he was a limited or full participant.
-  - Source: https://www.fantasypros.com/nfl/news/606743/khalil-shakir-undisclosed-seen-practicing-wednesday.php

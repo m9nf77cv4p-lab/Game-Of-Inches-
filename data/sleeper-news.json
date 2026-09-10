@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T02:58:08Z",
+  "last_checked_at": "2026-09-10T03:16:38Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|4035|rotoballer|220483|1788993676000"
+    "nfl|12514|rotoballer|220484|1788994430000"
   ],
   "schema_version": 1,
   "source": {
@@ -122,7 +122,7 @@
       "metadata": {
         "analysis": "Darnold will undergo additional imaging on his hip off-site, and the exact diagnosis of his injury will likely be disclosed thereafter. Drew Lock will continue to operate as Seattle's quarterback in Darnold's absence versus the Patriots.",
         "description": "Darnold (hip) has been ruled out for the remainder of Wednesday night's game against New England.",
-        "title": "Sam Darnold - Done for night",
+        "title": "Sam Darnold - Ruled out with injury",
         "topic_id": "1403589969187966976"
       },
       "nfl_team": "SEA",
@@ -133,7 +133,7 @@
       "source": "rotowire",
       "source_key": "636629",
       "story_id": "nfl|4943|rotowire|636629|1789004284000",
-      "title": "Sam Darnold - Done for night",
+      "title": "Sam Darnold - Ruled out with injury",
       "url": null
     },
     {
@@ -443,6 +443,26 @@
       "story_id": "nfl|12527|fantasy_pros|606815|1788994548291",
       "title": "Ashton Jeanty (ankle) practices in full Wednesday",
       "url": "https://www.fantasypros.com/nfl/news/606815/ashton-jeanty-ankle-practices-full-wednesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers wide receiver Emeka Egbuka (toe) was able to log in a full practice session on Wednesday. Barring any setbacks, it sounds like Egbuka is going to be ready to go for the Week 1 matchup against the Cincinnati Bengals. Egbuka has been dealing with a lingering toe injury for several weeks. Finally, it sounds like Egbuka is fully healthy and ready to go ahead of the season opener. He'll likely be a focal point in the Bucs passing offense with Mike Evans no longer on the team. Egbuka is a high-end WR2 heading into a favorable matchup versus the Bengals shaky defense.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers wide receiver Emeka Egbuka (toe) was able to log in a full practice session on Wednesday. Barring any setbacks, it sounds like Egbuka is going to be ready to go for the Week 1 matchup against the Cincinnati Bengals. Egbuka has been dealing with a lingering toe injury for several weeks. Finally, it sounds like Egbuka is fully healthy and ready to go ahead of the season opener. He'll likely be a focal point in the Bucs passing offense with Mike Evans no longer on the team. Egbuka is a high-end WR2 heading into a favorable matchup versus the Bengals shaky defense.",
+        "title": "Emeka Egbuka Logs Full Practice on Wednesday",
+        "topic_id": "1403610099674562560",
+        "url": "https://www.rotoballer.com/player-news/emeka-egbuka-logs-in-full-practice-on-wednesday/1927242"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1788994430000,
+      "source": "rotoballer",
+      "source_key": "220484",
+      "story_id": "nfl|12514|rotoballer|220484|1788994430000",
+      "title": "Emeka Egbuka Logs Full Practice on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/emeka-egbuka-logs-in-full-practice-on-wednesday/1927242"
     },
     {
       "analysis": null,
