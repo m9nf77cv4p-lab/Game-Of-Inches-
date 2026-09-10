@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2470**
+- Stored stories: **2471**
 - Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Mike Washington** — Mike Washington - Expected to be involved in Week 1 gameplan (2026-09-10T14:49:15Z)
+  - Washington impressed the Raiders' coaching staff in the preseason, during which the rookie fourth-round pick rushed for 168 yards on 23 carries across three games, averaging a robust 7.3 yards per carry. Jeanty has returned to full practice participation in the week leading up to Sunday's regular-season opener against the Dolphins, but the 2025 first-round pick missed a chunk of practice time due to the ankle injury he suffered Aug. 23. With Jeanty still shaking off the cobwebs, Washington is primed for some added opportunities in his regular-season debut as the Raiders face the Dolphins in a battle between two teams expected to finish near the bottom of the standings this season.
 - **A.J. Brown** — A.J. Brown (ankle) believed to have suffered high-ankle sprain on Wednesday (2026-09-10T14:05:10.573000Z)
   - It's a tough start to Browns Patriot tenure. He went down early in the third quarter and did not return, leaving Drake Maye to lean on Hunter Henry, Demario Douglas, and Mack Hollins with fellow newcomer Romeo Doubs struggling to catch anything. Doubs should bounce back, and if Brown is out for any period of time, expect Doubs and Henry to have some more fantasy appeal, with Douglas as a PPR dart throw in deep formats.
   - Source: https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php
@@ -15,7 +17,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **George Kittle** — George Kittle off injury report, active for Thursday (2026-09-10T11:45:03.411000Z)
   - Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.
   - Source: https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php
-- **NEW — Daniel Jones** — Daniel Jones Could Be Looking At Big Year With Full Health (2026-09-10T10:44:05Z)
+- **Daniel Jones** — Daniel Jones Could Be Looking At Big Year With Full Health (2026-09-10T10:44:05Z)
   - Source: https://www.rotoballer.com/player-news/daniel-jones-could-be-looking-at-big-year-with-full-health/1927485
 - **Brock Bowers** — Brock Bowers Likely Out For Week 2 As Well (2026-09-10T10:25:06Z)
   - Source: https://www.rotoballer.com/player-news/brock-bowers-likely-out-for-week-2-as-well/1927470
@@ -234,5 +236,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The fourth-year receiver downplayed the calf injury that slowed him towards the end of summer. Downs evaded the injury report entirely Wednesday, signaling that he should be ready to go for the opener against the Ravens. Indianapolis may be at full strength at receiver with Alec Pierce trending in the right direction as well.
 - **DK Metcalf** — DK Metcalf - Not listed on Wednesday's injury report (2026-09-09T21:21:20Z)
   - Neither Metcalf nor fellow WR Michael Pittman (hamstring) showed up on Wednesday's report after both players missed a good portion of training camp and the entire preseason slate due to health concerns. Now that Metcalf is back to 100 percent, he and Pittman are ready to take on a good portion of QB Aaron Rodgers' passes Sunday against the Falcons.
-- **Jeremiyah Love** — Jeremiyah Love is Limited During Wednesday's Practice (2026-09-09T21:19:15Z)
-  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-is-limited-during-wednesdays-practice/1927187

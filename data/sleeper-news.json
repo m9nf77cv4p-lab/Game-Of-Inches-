@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T14:52:23Z",
+  "last_checked_at": "2026-09-10T15:04:18Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|5870|rotoballer|220517|1789037045000"
+    "nfl|13305|rotowire|636679|1789051755000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Washington impressed the Raiders' coaching staff in the preseason, during which the rookie fourth-round pick rushed for 168 yards on 23 carries across three games, averaging a robust 7.3 yards per carry. Jeanty has returned to full practice participation in the week leading up to Sunday's regular-season opener against the Dolphins, but the 2025 first-round pick missed a chunk of practice time due to the ankle injury he suffered Aug. 23. With Jeanty still shaking off the cobwebs, Washington is primed for some added opportunities in his regular-season debut as the Raiders face the Dolphins in a battle between two teams expected to finish near the bottom of the standings this season.",
+      "description": "Washington could still play a sizable role in Week 1 against the Dolphins, even with Ashton Jeanty (ankle) expected to suit up, Dan Graziano of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Washington impressed the Raiders' coaching staff in the preseason, during which the rookie fourth-round pick rushed for 168 yards on 23 carries across three games, averaging a robust 7.3 yards per carry. Jeanty has returned to full practice participation in the week leading up to Sunday's regular-season opener against the Dolphins, but the 2025 first-round pick missed a chunk of practice time due to the ankle injury he suffered Aug. 23. With Jeanty still shaking off the cobwebs, Washington is primed for some added opportunities in his regular-season debut as the Raiders face the Dolphins in a battle between two teams expected to finish near the bottom of the standings this season.",
+        "description": "Washington could still play a sizable role in Week 1 against the Dolphins, even with Ashton Jeanty (ankle) expected to suit up, Dan Graziano of ESPN.com reports.",
+        "title": "Mike Washington - Expected to be involved in Week 1 gameplan",
+        "topic_id": "1403789901517840384"
+      },
+      "nfl_team": "LV",
+      "player_id": "13305",
+      "player_name": "Mike Washington",
+      "position": "RB",
+      "published": 1789051755000,
+      "source": "rotowire",
+      "source_key": "636679",
+      "story_id": "nfl|13305|rotowire|636679|1789051755000",
+      "title": "Mike Washington - Expected to be involved in Week 1 gameplan",
+      "url": null
+    },
     {
       "analysis": "It's a tough start to Browns Patriot tenure. He went down early in the third quarter and did not return, leaving Drake Maye to lean on Hunter Henry, Demario Douglas, and Mack Hollins with fellow newcomer Romeo Doubs struggling to catch anything. Doubs should bounce back, and if Brown is out for any period of time, expect Doubs and Henry to have some more fantasy appeal, with Douglas as a PPR dart throw in deep formats.",
       "description": "A.J. Brown (ankle) is believed to have suffered a high ankle sprain in last nights game against the Seahawks. He will have an MRI today to determine the extent of the injury and how much time he will miss.",
