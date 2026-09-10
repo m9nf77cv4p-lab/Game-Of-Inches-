@@ -2,12 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2579**
-- Newly captured: **1**
+- Stored stories: **2580**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Eli Stowers** — Eli Stowers - Another limited session (2026-09-10T22:14:00Z)
+- **NEW — Tua Tagovailoa** — Tua Tagovailoa (oblique) day-to-day, uncertain for Sunday (2026-09-10T22:40:29.734000Z)
+  - This isn't a great indicator of Tua's status for Sunday, but it might not change much if Rush starts given the reports of Tua's play during training camp. It will be a situation to monitor ahead of Sunday, and it also speaks to Michael Penix's health, given he was not first up behind Tua at practice at this point.
+  - Source: https://www.fantasypros.com/nfl/news/607035/tua-tagovailoa-oblique-day-to-day-uncertain-sunday.php
+- **Eli Stowers** — Eli Stowers - Another limited session (2026-09-10T22:14:00Z)
   - Stowers emerged from preseason Week 2 with a hamstring injury, which sidelined him until this Wednesday. So far during Week 1 prep, the rookie second-round pick has logged back-to-back capped sessions, but even if he's cleared of his health concern ahead of the Eagles' season opener against the Commanders this Sunday, there's a chance he's a healthy scratch, as Jimmy Kempski of PhillyVoice.com reported on Aug. 26. In such a scenario, Johnny Mundt and E.J. Jenkins would be the available tight ends behind starter Dallas Goedert.
 - **Brock Bowers** — Brock Bowers - Sits out practice, set to miss time (2026-09-10T22:00:50Z)
   - Head coach Klint Kubiak has yet to officially rule Bowers out for Sunday's season opener versus the Dolphins, but the standout tight end is fully expected to be sidelined for Week 1 -- and likely, additional games beyond that -- after Adam Schefter and Ian Rapoport of ESPN reported that Bowers underwent a meniscus trim procedure Tuesday. Though the previous report indicated that Bowers is expected to miss "a game or two," Schefter clarified Thursday in an appearance on "The Pat McAfee Show" that that timeline is coming from the tight end's camp and may be overly optimistic. For however long Bowers is sidelined, Michael Mayer is expected to take on an expanded role in the passing game as the Raiders' top tight end, and starting wideouts Tre Tucker and Jalen Nailor will also have clearer paths to elevated target counts.
@@ -113,6 +116,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Arroyo was on the field for 11 of Seattle's 50 snaps on offense while AJ Barner played 44 snaps and caught two passes, suggesting there is still a substantial gap between the Seahawks' top two tight ends. After flashing some receiving upside during the preseason, it looks like Arroyo may not get enough playing time to make much of an impact on offense, at least while Barner is healthy.
 - **Rashid Shaheed** — Rashid Shaheed - One catch in season opener (2026-09-10T18:28:50Z)
   - After some offseason whispers about a larger role on offense for Shaheed, that didn't materialize in the season opener, as he wasn't among the five players who recorded multiple catches for the Seahawks. The standout return man maintained his prominent role on special teams, and he was on the field for 33 of Seattle's 50 snaps on offense. Shaheed is likely to have Drew Lock as his quarterback Week 2 against the Cardinals, as starting signal-caller Sam Darnold (hip) is likely to miss that game after exiting in the first quarter Wednesday.
+- **NEW — Rashee Rice** — Rashee Rice in the Clear Going into Week 1 (2026-09-10T18:25:06Z)
+  - Source: https://www.rotoballer.com/player-news/rashee-rice-in-the-clear-going-into-week-1/1927915
 - **Sam Darnold** — Sam Darnold - Receives good news on hip injury (2026-09-10T18:23:49Z)
   - Darnold underwent testing for his hip injury suffered in the season opener, including an initial CT scan followed by an MRI. The results are encouraging, as Darnold is believed to have "dodged a bullet" and is only expected to miss minimal time. An appearance for Darnold in Week 2 does not look likely at this stage, but the Week 3 game against the Commanders on Sunday, Sept. 27 is an optimistic but possible return date. Per Jeremy Fowler of ESPN.com, Darnold is primarily dealing with hip soreness.
 - **AJ Barner** — AJ Barner - Two catches in Week 1 win (2026-09-10T18:14:39Z)
@@ -243,7 +248,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before departing in the third quarter with the injury, which occurred when a Seahawks defender landed on his right ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sunday, Sept. 20 versus the Steelers.
 - **Kenyon Sadiq** — Kenyon Sadiq Has Integrated Himself into the Offense (2026-09-10T14:00:09Z)
   - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-has-integrated-himself-into-the-offense/1927722
-- **George Kittle** — George Kittle Cleared, Still A Risky Play For Week 1 (2026-09-10T13:50:06Z)
-  - Source: https://www.rotoballer.com/player-news/george-kittle-cleared-still-a-risky-play-for-week-1/1927707
-- **Malik Nabers** — Malik Nabers "On Track" to Play Sunday Night (2026-09-10T13:49:05Z)
-  - Source: https://www.rotoballer.com/player-news/malik-nabers-on-track-to-play-sunday-night/1927704

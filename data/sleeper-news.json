@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-10T22:27:02Z",
+  "last_checked_at": "2026-09-10T22:40:32Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13349|rotowire|636721|1789078440000"
+    "nfl|10229|rotoballer|220576|1789064706000",
+    "nfl|6768|fantasy_pros|607035|1789080029734"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "This isn't a great indicator of Tua's status for Sunday, but it might not change much if Rush starts given the reports of Tua's play during training camp. It will be a situation to monitor ahead of Sunday, and it also speaks to Michael Penix's health, given he was not first up behind Tua at practice at this point.",
+      "description": "Tua Tagovailoa (oblique) has been labeled day-to-day after suffering an oblique injury on Thursday during practice. Cooper Rush took first team snaps in his stead.",
+      "metadata": {
+        "analysis": "This isn't a great indicator of Tua's status for Sunday, but it might not change much if Rush starts given the reports of Tua's play during training camp. It will be a situation to monitor ahead of Sunday, and it also speaks to Michael Penix's health, given he was not first up behind Tua at practice at this point.",
+        "description": "Tua Tagovailoa (oblique) has been labeled day-to-day after suffering an oblique injury on Thursday during practice. Cooper Rush took first team snaps in his stead.",
+        "title": "Tua Tagovailoa (oblique) day-to-day, uncertain for Sunday",
+        "topic_id": "1403907034797109248",
+        "url": "https://www.fantasypros.com/nfl/news/607035/tua-tagovailoa-oblique-day-to-day-uncertain-sunday.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1789080029734,
+      "source": "fantasy_pros",
+      "source_key": "607035",
+      "story_id": "nfl|6768|fantasy_pros|607035|1789080029734",
+      "title": "Tua Tagovailoa (oblique) day-to-day, uncertain for Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/607035/tua-tagovailoa-oblique-day-to-day-uncertain-sunday.php"
+    },
     {
       "analysis": "Stowers emerged from preseason Week 2 with a hamstring injury, which sidelined him until this Wednesday. So far during Week 1 prep, the rookie second-round pick has logged back-to-back capped sessions, but even if he's cleared of his health concern ahead of the Eagles' season opener against the Commanders this Sunday, there's a chance he's a healthy scratch, as Jimmy Kempski of PhillyVoice.com reported on Aug. 26. In such a scenario, Johnny Mundt and E.J. Jenkins would be the available tight ends behind starter Dallas Goedert.",
       "description": "Stowers (hamstring) practiced in a limited capacity Thursday.",
@@ -892,6 +914,26 @@
       "story_id": "nfl|8676|rotowire|636691|1789064930000",
       "title": "Rashid Shaheed - One catch in season opener",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs wide receiver Rashee Rice (knee) was listed as a full participant for the team's first official practice on Thursday as they get set to take on the division-rival Denver Broncos on Monday night in Week 1, according to the team's official website. Rice had minor surgery on his right knee over the summer, but he quickly recovered and actually logged some snaps in the preseason finale. The 26-year-old has teased a lot of fantasy upside in his first three years in the league, but he has only played in 12 games over the last two seasons due to injuries and suspension. The former second-rounder in 2023 from SMU had 79 receptions for 938 yards and seven touchdowns in 16 regular-season games as a rookie and has established himself as the Chiefs' clear WR1 when he has been healthy. With the Chiefs' offense looking to bounce back in 2026, quarterback Patrick Mahomes should lean heavily on Rice, who has clear WR2 upside over a full season. Rice and the Chiefs do not have an ideal Week 1 matchup against a stout Broncos defense, but Rice should still be locked into fantasy lineups as a WR2.",
+      "metadata": {
+        "description": "Kansas City Chiefs wide receiver Rashee Rice (knee) was listed as a full participant for the team's first official practice on Thursday as they get set to take on the division-rival Denver Broncos on Monday night in Week 1, according to the team's official website. Rice had minor surgery on his right knee over the summer, but he quickly recovered and actually logged some snaps in the preseason finale. The 26-year-old has teased a lot of fantasy upside in his first three years in the league, but he has only played in 12 games over the last two seasons due to injuries and suspension. The former second-rounder in 2023 from SMU had 79 receptions for 938 yards and seven touchdowns in 16 regular-season games as a rookie and has established himself as the Chiefs' clear WR1 when he has been healthy. With the Chiefs' offense looking to bounce back in 2026, quarterback Patrick Mahomes should lean heavily on Rice, who has clear WR2 upside over a full season. Rice and the Chiefs do not have an ideal Week 1 matchup against a stout Broncos defense, but Rice should still be locked into fantasy lineups as a WR2.",
+        "title": "Rashee Rice in the Clear Going into Week 1",
+        "topic_id": "1403904511562526720",
+        "url": "https://www.rotoballer.com/player-news/rashee-rice-in-the-clear-going-into-week-1/1927915"
+      },
+      "nfl_team": "KC",
+      "player_id": "10229",
+      "player_name": "Rashee Rice",
+      "position": "WR",
+      "published": 1789064706000,
+      "source": "rotoballer",
+      "source_key": "220576",
+      "story_id": "nfl|10229|rotoballer|220576|1789064706000",
+      "title": "Rashee Rice in the Clear Going into Week 1",
+      "url": "https://www.rotoballer.com/player-news/rashee-rice-in-the-clear-going-into-week-1/1927915"
     },
     {
       "analysis": "Darnold underwent testing for his hip injury suffered in the season opener, including an initial CT scan followed by an MRI. The results are encouraging, as Darnold is believed to have \"dodged a bullet\" and is only expected to miss minimal time. An appearance for Darnold in Week 2 does not look likely at this stage, but the Week 3 game against the Commanders on Sunday, Sept. 27 is an optimistic but possible return date. Per Jeremy Fowler of ESPN.com, Darnold is primarily dealing with hip soreness.",
@@ -51880,26 +51922,6 @@
       "story_id": "nfl|9488|rotoballer|218408|1786492336000",
       "title": "Jaxon Smith-Njigba Almost Unstoppable at Seahawks Camp",
       "url": "https://www.rotoballer.com/player-news/jaxon-smith-njigba-almost-unstoppable-at-seahawks-camp/1907352"
-    },
-    {
-      "analysis": "Depth charts released in training camp are fluid and subject to change as the weeks progress, but it looks like Wright is ahead of 2025 sixth-rounder Ollie Gordon for the Dolphins' RB2 role behind De'Von Achane, with Donovan Edwards and Carlos Washington both fighting for a roster spot. Wright missed the first six games of the 2025 regular season due to a knee injury, but he had his moments when he was healthy, such as Week 14 against the Jets when he turned 24 carries into 107 yards and a touchdown. Friday's preseason opener against the Commanders is Wright's first in-game opportunity to separate himself from Gordon and the rest of the competition for the backup job.",
-      "description": "The Dolphins listed Wright as the No. 2 running back on the team's first unofficial depth chart that was released Tuesday, David Furones of the South Florida Sun Sentinel reports.",
-      "metadata": {
-        "analysis": "Depth charts released in training camp are fluid and subject to change as the weeks progress, but it looks like Wright is ahead of 2025 sixth-rounder Ollie Gordon for the Dolphins' RB2 role behind De'Von Achane, with Donovan Edwards and Carlos Washington both fighting for a roster spot. Wright missed the first six games of the 2025 regular season due to a knee injury, but he had his moments when he was healthy, such as Week 14 against the Jets when he turned 24 carries into 107 yards and a touchdown. Friday's preseason opener against the Commanders is Wright's first in-game opportunity to separate himself from Gordon and the rest of the competition for the backup job.",
-        "description": "The Dolphins listed Wright as the No. 2 running back on the team's first unofficial depth chart that was released Tuesday, David Furones of the South Florida Sun Sentinel reports.",
-        "title": "Jaylen Wright - Leading RB2 competition",
-        "topic_id": "1393035458618871808"
-      },
-      "nfl_team": "MIA",
-      "player_id": "11643",
-      "player_name": "Jaylen Wright",
-      "position": "RB",
-      "published": 1786487906000,
-      "source": "rotowire",
-      "source_key": "633273",
-      "story_id": "nfl|11643|rotowire|633273|1786487906000",
-      "title": "Jaylen Wright - Leading RB2 competition",
-      "url": null
     }
   ]
 }
