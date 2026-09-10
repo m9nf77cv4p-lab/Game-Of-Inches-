@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T01:17:59Z",
+  "last_checked_at": "2026-09-10T01:31:32Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|12495|rotowire|636617|1789002472000"
+    "nfl|13287|rotoballer|220474|1788988755000"
   ],
   "schema_version": 1,
   "source": {
@@ -895,6 +895,26 @@
       "story_id": "nfl|5846|rotowire|636513|1788988880000",
       "title": "DK Metcalf - Not listed on Wednesday's injury report",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back Jeremiyah Love (ankle) was a limited participant during Wednesday's practice session, according to Tyler Drake. Love continues to work his way back from a high-ankle sprain that he suffered a few weeks ago. The Cardinals feel that Love has been making good progress, but his status for Week 1 is still up in the air. Considering Love was limited on Wednesday, the rookie back has more work to do before getting cleared for Sunday's game versus the Los Angeles Chargers. If Love is inactive, Tyler Allgeier would operate as the lead back during the season opener. Fantasy managers should continue to check back for updates on Love throughout the week.",
+      "metadata": {
+        "description": "Arizona Cardinals running back Jeremiyah Love (ankle) was a limited participant during Wednesday's practice session, according to Tyler Drake. Love continues to work his way back from a high-ankle sprain that he suffered a few weeks ago. The Cardinals feel that Love has been making good progress, but his status for Week 1 is still up in the air. Considering Love was limited on Wednesday, the rookie back has more work to do before getting cleared for Sunday's game versus the Los Angeles Chargers. If Love is inactive, Tyler Allgeier would operate as the lead back during the season opener. Fantasy managers should continue to check back for updates on Love throughout the week.",
+        "title": "Jeremiyah Love is Limited During Wednesday's Practice",
+        "topic_id": "1403586190271066112",
+        "url": "https://www.rotoballer.com/player-news/jeremiyah-love-is-limited-during-wednesdays-practice/1927187"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1788988755000,
+      "source": "rotoballer",
+      "source_key": "220474",
+      "story_id": "nfl|13287|rotoballer|220474|1788988755000",
+      "title": "Jeremiyah Love is Limited During Wednesday's Practice",
+      "url": "https://www.rotoballer.com/player-news/jeremiyah-love-is-limited-during-wednesdays-practice/1927187"
     },
     {
       "analysis": "Pittman and DK Metcalf (undisclosed) missed time in training camp and the preseason due to their injuries, but the Steelers will have both of their top wideouts available heading into Sunday's season opener versus the Falcons. With running back Kenny Gainwell moving on to Tampa Bay this offseason after a 73-catch season with Pittsburgh in 2025, Pittman will be a strong candidate to absorb some of the vacated short- and intermediate-area targets from quarterback Aaron Rodgers.",

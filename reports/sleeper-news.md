@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2419**
+- Stored stories: **2420**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Ollie Gordon** — Ollie Gordon - Not listed on injury report (2026-09-10T01:07:52Z)
+- **Ollie Gordon** — Ollie Gordon - Not listed on injury report (2026-09-10T01:07:52Z)
   - Gordon recently returned to practice without a non-contact jersey. With his full participation in Wednesday's practice, all signs are pointing toward his availability for Week 1 versus the Raiders. The 22-year-old finished the 2025 campaign by rushing for 199 yards and three touchdowns off 70 carries, adding seven grabs for 32 yards and a touchdown in 17 regular-season appearances. Gordon currently occupies the No. 3 spot on the depth chart behind De'Von Achane and Jaylen Wright.
 - **Sam Darnold** — Sam Darnold (hip) questionable to return  (2026-09-10T00:55:49.137000Z)
   - Darnold suffered the apparent injury on the third down sack on their first offensive drive. Drew Lock is currently in at quarterback for the Seahawks. Fantasy managers should expect the team to update Darnold's status after halftime. 
@@ -116,6 +116,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The fourth-year receiver downplayed the calf injury that slowed him towards the end of summer. Downs evaded the injury report entirely Wednesday, signaling that he should be ready to go for the opener against the Ravens. Indianapolis may be full-strength at receiver with Alec Pierce trending in the right direction as well.
 - **DK Metcalf** — DK Metcalf - Not listed on Wednesday's injury report (2026-09-09T21:21:20Z)
   - Neither Metcalf nor fellow WR Michael Pittman (hamstring) showed up on Wednesday's report after both players missed a good portion of training camp and the entire preseason slate due to health concerns. Now that Metcalf is back to 100 percent, he and Pittman are ready to take on a good portion of QB Aaron Rodgers' passes Sunday against the Falcons.
+- **NEW — Jeremiyah Love** — Jeremiyah Love is Limited During Wednesday's Practice (2026-09-09T21:19:15Z)
+  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-is-limited-during-wednesdays-practice/1927187
 - **Michael Pittman** — Michael Pittman - Ready to go for Week 1 (2026-09-09T21:18:09Z)
   - Pittman and DK Metcalf (undisclosed) missed time in training camp and the preseason due to their injuries, but the Steelers will have both of their top wideouts available heading into Sunday's season opener versus the Falcons. With running back Kenny Gainwell moving on to Tampa Bay this offseason after a 73-catch season with Pittsburgh in 2025, Pittman will be a strong candidate to absorb some of the vacated short- and intermediate-area targets from quarterback Aaron Rodgers.
 - **Jeremiyah Love** — Jeremiyah Love - Set to practice Wednesday (2026-09-09T21:13:42Z)
@@ -247,5 +249,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After being sidelined recently by an undisclosed injury, Shakir's presence on the field is an encouraging sign for the wide receiver's availability for Sunday's season opener against the Texans. He's expected to face added competition for targets from trade pickup DJ Moore and a healthy Dalton Kincaid this season.
 - **Tyreek Hill** — Tyreek Hill - Delaying comeback (2026-09-09T18:33:30Z)
   - Hill is not yet 100 percent healthy after dislocating his knee and tearing multiple ligaments last season with the Dolphins. There's been no indication that the 32-year-old has drawn any interest on the open market, as teams are likely waiting for Hill to gain full medical clearance.
-- **Ashton Jeanty** — Ashton Jeanty Practices in Full on Wednesday (2026-09-09T18:29:05Z)
-  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-practices-in-full-on-wednesday/1927139
