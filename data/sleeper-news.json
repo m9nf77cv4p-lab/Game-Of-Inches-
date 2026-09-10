@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T01:00:43Z",
+  "last_checked_at": "2026-09-10T01:17:59Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|4943|fantasy_pros|606840|1789001749137",
-    "nfl|4943|rotoballer|220473|1788986707000",
-    "nfl|4943|rotowire|636606|1789001249000"
+    "nfl|12495|rotowire|636617|1789002472000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Gordon recently returned to practice without a non-contact jersey. With his full participation in Wednesday's practice, all signs are pointing toward his availability for Week 1 versus the Raiders. The 22-year-old finished the 2025 campaign by rushing for 199 yards and three touchdowns off 70 carries, adding seven grabs for 32 yards and a touchdown in 17 regular-season appearances. Gordon currently occupies the No. 3 spot on the depth chart behind De'Von Achane and Jaylen Wright.",
+      "description": "Gordon (ribs) is not listed on Wednesday's injury report, David Furones of the South Florida Sun Sentinel reports.",
+      "metadata": {
+        "analysis": "Gordon recently returned to practice without a non-contact jersey. With his full participation in Wednesday's practice, all signs are pointing toward his availability for Week 1 versus the Raiders. The 22-year-old finished the 2025 campaign by rushing for 199 yards and three touchdowns off 70 carries, adding seven grabs for 32 yards and a touchdown in 17 regular-season appearances. Gordon currently occupies the No. 3 spot on the depth chart behind De'Von Achane and Jaylen Wright.",
+        "description": "Gordon (ribs) is not listed on Wednesday's injury report, David Furones of the South Florida Sun Sentinel reports.",
+        "title": "Ollie Gordon - Not listed on injury report",
+        "topic_id": "1403582472603635712"
+      },
+      "nfl_team": "MIA",
+      "player_id": "12495",
+      "player_name": "Ollie Gordon",
+      "position": "RB",
+      "published": 1789002472000,
+      "source": "rotowire",
+      "source_key": "636617",
+      "story_id": "nfl|12495|rotowire|636617|1789002472000",
+      "title": "Ollie Gordon - Not listed on injury report",
+      "url": null
+    },
     {
       "analysis": "Darnold suffered the apparent injury on the third down sack on their first offensive drive. Drew Lock is currently in at quarterback for the Seahawks. Fantasy managers should expect the team to update Darnold's status after halftime. ",
       "description": "Seahawks QB Sam Darnold (hip) is questionable to return Wednesday. ",
@@ -1243,10 +1261,10 @@
     },
     {
       "analysis": null,
-      "description": "According to Ian Rapoport of the NFL Network, Seattle Seahawks quarterback Sam Darnold (ankle) exited Wednesday's game early due to an ankle injury. Darnold suffered this injury on the team's opening drive after landing awkwardly on his ankle. He is set to undergo X-rays and is questionable to return. On the first possession, Darnold went 1-for-2 with a 13-yard pass to his top wideout, Jaxon Smith-Njigba. While he remains out, Drew Lock will take over QB1 duties.",
+      "description": "According to Ian Rapoport of the NFL Network, Seattle Seahawks quarterback Sam Darnold (hip) exited Wednesday's game early due to a hip injury. Darnold suffered this injury on the team's opening drive after landing awkwardly. He is set to undergo X-rays and is questionable to return. On the first possession, Darnold went 1-for-2 with a 13-yard pass to his top wideout, Jaxon Smith-Njigba. While he remains out, Drew Lock will take over QB1 duties.",
       "metadata": {
-        "description": "According to Ian Rapoport of the NFL Network, Seattle Seahawks quarterback Sam Darnold (ankle) exited Wednesday's game early due to an ankle injury. Darnold suffered this injury on the team's opening drive after landing awkwardly on his ankle. He is set to undergo X-rays and is questionable to return. On the first possession, Darnold went 1-for-2 with a 13-yard pass to his top wideout, Jaxon Smith-Njigba. While he remains out, Drew Lock will take over QB1 duties.",
-        "title": "Sam Darnold Exits Season Opener, Questionable to Return with Ankle Injury",
+        "description": "According to Ian Rapoport of the NFL Network, Seattle Seahawks quarterback Sam Darnold (hip) exited Wednesday's game early due to a hip injury. Darnold suffered this injury on the team's opening drive after landing awkwardly. He is set to undergo X-rays and is questionable to return. On the first possession, Darnold went 1-for-2 with a 13-yard pass to his top wideout, Jaxon Smith-Njigba. While he remains out, Drew Lock will take over QB1 duties.",
+        "title": "Sam Darnold Exits Season Opener, Questionable to Return",
         "topic_id": "1403577436016316416",
         "url": "https://www.rotoballer.com/player-news/sam-darnold-exits-season-opener-with-ankle-injury/1927175"
       },
@@ -1258,7 +1276,7 @@
       "source": "rotoballer",
       "source_key": "220473",
       "story_id": "nfl|4943|rotoballer|220473|1788986707000",
-      "title": "Sam Darnold Exits Season Opener, Questionable to Return with Ankle Injury",
+      "title": "Sam Darnold Exits Season Opener, Questionable to Return",
       "url": "https://www.rotoballer.com/player-news/sam-darnold-exits-season-opener-with-ankle-injury/1927175"
     },
     {

@@ -2,15 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2418**
-- Newly captured: **3**
+- Stored stories: **2419**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Sam Darnold** — Sam Darnold (hip) questionable to return  (2026-09-10T00:55:49.137000Z)
+- **NEW — Ollie Gordon** — Ollie Gordon - Not listed on injury report (2026-09-10T01:07:52Z)
+  - Gordon recently returned to practice without a non-contact jersey. With his full participation in Wednesday's practice, all signs are pointing toward his availability for Week 1 versus the Raiders. The 22-year-old finished the 2025 campaign by rushing for 199 yards and three touchdowns off 70 carries, adding seven grabs for 32 yards and a touchdown in 17 regular-season appearances. Gordon currently occupies the No. 3 spot on the depth chart behind De'Von Achane and Jaylen Wright.
+- **Sam Darnold** — Sam Darnold (hip) questionable to return  (2026-09-10T00:55:49.137000Z)
   - Darnold suffered the apparent injury on the third down sack on their first offensive drive. Drew Lock is currently in at quarterback for the Seahawks. Fantasy managers should expect the team to update Darnold's status after halftime. 
   - Source: https://www.fantasypros.com/nfl/news/606840/sam-darnold-hip-questionable-to-return.php
-- **NEW — Sam Darnold** — Sam Darnold - Questionable to return (2026-09-10T00:47:29Z)
+- **Sam Darnold** — Sam Darnold - Questionable to return (2026-09-10T00:47:29Z)
   - Darnold suffered a hip injury on the Seahawks' opening possession, and he is now considered questionable to return to the contest, per Adam Schefter of ESPN. Drew Lock has entered the contest at quarterback for Seattle.
 - **Jeremiyah Love** — Jeremiyah Love - Limited at Wednesday's practice (2026-09-10T00:23:22Z)
   - Love's status for Week 1 has been murky since he emerged from the Cardinals' preseason opener with a high-ankle sprain, which coach Mike LaFleur downplayed for most of the past month. When LaFleur discussed Love ahead of Wednesday's session, he told PHNX Sports "don't look too far into that" when discussing the rookie's listing as the No. 2 RB on the team's unofficial depth chart, while at the same time telling Brack that "there's no limit on our end" to Love's activity level. Considering Love's listing of "limited" Wednesday, he still has some work to do to be available for Sunday's game at the Chargers. Tyler Allgeier would serve as Arizona's lead back Week 1 if Love is operating with a cap on his reps or not suited up, while Bam Knight would be in line for some work as well.
@@ -153,7 +155,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Tracy sustained an apparent neck injury during New York's exhibition finale, but after landing a spot on the team's initial active roster and nearly two weeks to recover, he's in good health ahead of a Week 1 matchup with the Cowboys. With Cam Skattebo leading the Giants backfield and Najee Harris and Devin Singletary also on hand for reps, it remains to be seen what kind of workload Tracy can expect in the regular-season opener.
 - **Jonathon Brooks** — Jonathon Brooks - Declares himself 100 percent (2026-09-09T20:46:51Z)
   - Brooks was officially limited in practice Wednesday, but all indications are he did everything in the session and looked ready to go for the start of the season. Brooks will push Chuba Hubbard for carries in the Carolina backfield, but Hubbard is expected to open the campaign as the starter and lead back while Brooks sees plenty of work as the 1B option. It may be best to take a wait-and-see approach with him in fantasy.
-- **NEW — Sam Darnold** — Sam Darnold Exits Season Opener, Questionable to Return with Ankle Injury (2026-09-09T20:45:07Z)
+- **Sam Darnold** — Sam Darnold Exits Season Opener, Questionable to Return (2026-09-09T20:45:07Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-exits-season-opener-with-ankle-injury/1927175
 - **Tyler Warren** — Tyler Warren - Off injury report (2026-09-09T20:41:28Z)
   - Indianapolis' star tight end looks good to go for the opener after not even being listed on the practice report to start the week. Warren was dealing with a minor groin issue late in camp but the expectation has been that he would be ready to begin the season. The Colts host the Ravens to kick off the season Sunday.
@@ -247,6 +249,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Hill is not yet 100 percent healthy after dislocating his knee and tearing multiple ligaments last season with the Dolphins. There's been no indication that the 32-year-old has drawn any interest on the open market, as teams are likely waiting for Hill to gain full medical clearance.
 - **Ashton Jeanty** — Ashton Jeanty Practices in Full on Wednesday (2026-09-09T18:29:05Z)
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-practices-in-full-on-wednesday/1927139
-- **Malik Nabers** — Malik Nabers (knee) seen practicing Wednesday (2026-09-09T18:10:36.094000Z)
-  - As expected, Nabers was taking part in New York's first official practice of the week on Wednesday. He is trending towards playing in Week 1, but fantasy managers should keep a close eye on any official updates about his status ahead of the season opener on Sunday night.
-  - Source: https://www.fantasypros.com/nfl/news/606735/malik-nabers-knee-seen-practicing-wednesday.php
