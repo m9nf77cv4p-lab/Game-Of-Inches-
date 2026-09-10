@@ -1,9 +1,12 @@
 {
-  "last_checked_at": "2026-09-10T14:04:44Z",
+  "last_checked_at": "2026-09-10T14:21:53Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|5022|rotoballer|220512|1789034105000"
+    "nfl|4217|rotoballer|220514|1789035245000",
+    "nfl|5859|fantasy_pros|606907|1789049110573",
+    "nfl|5859|rotoballer|220513|1789034645000",
+    "nfl|5859|rotowire|636678|1789049085000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +16,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "It's a tough start to Browns Patriot tenure. He went down early in the third quarter and did not return, leaving Drake Maye to lean on Hunter Henry, Demario Douglas, and Mack Hollins with fellow newcomer Romeo Doubs struggling to catch anything. Doubs should bounce back, and if Brown is out for any period of time, expect Doubs and Henry to have some more fantasy appeal, with Douglas as a PPR dart throw in deep formats.",
+      "description": "A.J. Brown (ankle) is believed to have suffered a high ankle sprain in last nights game against the Seahawks. He will have an MRI today to determine the extent of the injury and how much time he will miss.",
+      "metadata": {
+        "analysis": "It's a tough start to Browns Patriot tenure. He went down early in the third quarter and did not return, leaving Drake Maye to lean on Hunter Henry, Demario Douglas, and Mack Hollins with fellow newcomer Romeo Doubs struggling to catch anything. Doubs should bounce back, and if Brown is out for any period of time, expect Doubs and Henry to have some more fantasy appeal, with Douglas as a PPR dart throw in deep formats.",
+        "description": "A.J. Brown (ankle) is believed to have suffered a high ankle sprain in last nights game against the Seahawks. He will have an MRI today to determine the extent of the injury and how much time he will miss.",
+        "title": "A.J. Brown (ankle) believed to have suffered high-ankle sprain on Wednesday",
+        "topic_id": "1403777350440624128",
+        "url": "https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1789049110573,
+      "source": "fantasy_pros",
+      "source_key": "606907",
+      "story_id": "nfl|5859|fantasy_pros|606907|1789049110573",
+      "title": "A.J. Brown (ankle) believed to have suffered high-ankle sprain on Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php"
+    },
+    {
+      "analysis": "In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before exiting in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.",
+      "description": "Brown received a preliminary diagnosis of a right high-ankle sprain after exiting Wednesday's 13-10 loss to the Seahawks, Ian Rapoport and Mike Garafolo of NFL Network report.",
+      "metadata": {
+        "analysis": "In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before exiting in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.",
+        "description": "Brown received a preliminary diagnosis of a right high-ankle sprain after exiting Wednesday's 13-10 loss to the Seahawks, Ian Rapoport and Mike Garafolo of NFL Network report.",
+        "title": "A.J. Brown - Believed to have high-ankle sprain",
+        "topic_id": "1403777318006083584"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1789049085000,
+      "source": "rotowire",
+      "source_key": "636678",
+      "story_id": "nfl|5859|rotowire|636678|1789049085000",
+      "title": "A.J. Brown - Believed to have high-ankle sprain",
+      "url": null
+    },
     {
       "analysis": "Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.",
       "description": "George Kittle is off the 49ers injury report and is active for their game against the Rams in Melbourne.",
@@ -33,6 +77,46 @@
       "story_id": "nfl|4217|fantasy_pros|606900|1789040703411",
       "title": "George Kittle off injury report, active for Thursday",
       "url": "https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers tight end George Kittle tore his right Achilles in January and has worked his way back to being available for Week 1 against the Los Angeles Rams. However NFL Network Insider Ian Rapoport reports that the talented tight end will be on a \"pitch count to start but a pretty dramatic return for one of the NFL's best tight ends. George Kittle is back\". Kittle played in 11 games in 2025 and recorded 57 receptions for 628 yards and seven touchdowns. He averaged 11.0 yards per reception and 57.1 yards per game. Even at age 32, Kittle is still one of the best tight end bets for fantasy. Returning from an Achillies tear as quickly as he did at that advanced age is a bit concerning, but if anyone can do it, it would be Kilttle. Look for a bit of a slow start to the season as he adjusts back to playing but he still should be a top-tier tight end.",
+      "metadata": {
+        "description": "San Francisco 49ers tight end George Kittle tore his right Achilles in January and has worked his way back to being available for Week 1 against the Los Angeles Rams. However NFL Network Insider Ian Rapoport reports that the talented tight end will be on a \"pitch count to start but a pretty dramatic return for one of the NFL's best tight ends. George Kittle is back\". Kittle played in 11 games in 2025 and recorded 57 receptions for 628 yards and seven touchdowns. He averaged 11.0 yards per reception and 57.1 yards per game. Even at age 32, Kittle is still one of the best tight end bets for fantasy. Returning from an Achillies tear as quickly as he did at that advanced age is a bit concerning, but if anyone can do it, it would be Kilttle. Look for a bit of a slow start to the season as he adjusts back to playing but he still should be a top-tier tight end.",
+        "title": "George Kittle Will Be On \"Pitch Count\" During Season Opener",
+        "topic_id": "1403781090522497024",
+        "url": "https://www.rotoballer.com/player-news/george-kittle-will-be-on-pitch-count-during-season-opener/1927462"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1789035245000,
+      "source": "rotoballer",
+      "source_key": "220514",
+      "story_id": "nfl|4217|rotoballer|220514|1789035245000",
+      "title": "George Kittle Will Be On \"Pitch Count\" During Season Opener",
+      "url": "https://www.rotoballer.com/player-news/george-kittle-will-be-on-pitch-count-during-season-opener/1927462"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver A.J. Brown (ankle) had a quiet debut with three catches for 26 yards on Wednesday night, before he was forced to leave with an injury. According to NFL Network's Ian Rapoport and Mike Garafolo, Brown is believed to have suffered a high-ankle sprain, which is an injury that usually requires multiple weeks to recover from. While X-Rays were negative for a fracture, the star receiver will have an MRI on Thursday to give the team a better timetable of how much time he'll miss. While Brown is out, Romeo Doubs will need to step up as he looks to rebound from his own disappointing debut. Kyle Williams, Mack Hollins, and DeMario Douglas will also likely get more playing time and targets, giving them the potential to pick up more work and fantasy value for as long as Brown is out.",
+      "metadata": {
+        "description": "New England Patriots wide receiver A.J. Brown (ankle) had a quiet debut with three catches for 26 yards on Wednesday night, before he was forced to leave with an injury. According to NFL Network's Ian Rapoport and Mike Garafolo, Brown is believed to have suffered a high-ankle sprain, which is an injury that usually requires multiple weeks to recover from. While X-Rays were negative for a fracture, the star receiver will have an MRI on Thursday to give the team a better timetable of how much time he'll miss. While Brown is out, Romeo Doubs will need to step up as he looks to rebound from his own disappointing debut. Kyle Williams, Mack Hollins, and DeMario Douglas will also likely get more playing time and targets, giving them the potential to pick up more work and fantasy value for as long as Brown is out.",
+        "title": "A.J. Brown Diagnosed with a High Ankle Sprain",
+        "topic_id": "1403777315866943488",
+        "url": "https://www.rotoballer.com/player-news/a-j-brown-diagnosed-with-a-high-ankle-sprain/1927456"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1789034645000,
+      "source": "rotoballer",
+      "source_key": "220513",
+      "story_id": "nfl|5859|rotoballer|220513|1789034645000",
+      "title": "A.J. Brown Diagnosed with a High Ankle Sprain",
+      "url": "https://www.rotoballer.com/player-news/a-j-brown-diagnosed-with-a-high-ankle-sprain/1927456"
     },
     {
       "analysis": null,

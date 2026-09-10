@@ -2,15 +2,24 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2464**
-- Newly captured: **1**
+- Stored stories: **2468**
+- Newly captured: **4**
 
 ## Latest news
 
+- **NEW — A.J. Brown** — A.J. Brown (ankle) believed to have suffered high-ankle sprain on Wednesday (2026-09-10T14:05:10.573000Z)
+  - It's a tough start to Browns Patriot tenure. He went down early in the third quarter and did not return, leaving Drake Maye to lean on Hunter Henry, Demario Douglas, and Mack Hollins with fellow newcomer Romeo Doubs struggling to catch anything. Doubs should bounce back, and if Brown is out for any period of time, expect Doubs and Henry to have some more fantasy appeal, with Douglas as a PPR dart throw in deep formats.
+  - Source: https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php
+- **NEW — A.J. Brown** — A.J. Brown - Believed to have high-ankle sprain (2026-09-10T14:04:45Z)
+  - In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before exiting in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.
 - **George Kittle** — George Kittle off injury report, active for Thursday (2026-09-10T11:45:03.411000Z)
   - Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.
   - Source: https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php
-- **NEW — Dallas Goedert** — Dallas Goedert Set for a Major Role (2026-09-10T09:55:05Z)
+- **NEW — George Kittle** — George Kittle Will Be On "Pitch Count" During Season Opener (2026-09-10T10:14:05Z)
+  - Source: https://www.rotoballer.com/player-news/george-kittle-will-be-on-pitch-count-during-season-opener/1927462
+- **NEW — A.J. Brown** — A.J. Brown Diagnosed with a High Ankle Sprain (2026-09-10T10:04:05Z)
+  - Source: https://www.rotoballer.com/player-news/a-j-brown-diagnosed-with-a-high-ankle-sprain/1927456
+- **Dallas Goedert** — Dallas Goedert Set for a Major Role (2026-09-10T09:55:05Z)
   - Source: https://www.rotoballer.com/player-news/dallas-goedert-set-for-a-major-role/1927443
 - **George Kittle** — George Kittle Will Complete His Comeback, Play in Week 1 (2026-09-10T09:42:08Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-will-complete-his-comeback-play-week-1/1927418
@@ -227,11 +236,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Pittman and DK Metcalf (undisclosed) missed time in training camp and the preseason due to their injuries, but the Steelers will have both of their top wideouts available heading into Sunday's season opener versus the Falcons. With running back Kenny Gainwell moving on to Tampa Bay this offseason after a 73-catch season with Pittsburgh in 2025, Pittman will be a strong candidate to absorb some of the vacated short- and intermediate-area targets from quarterback Aaron Rodgers.
 - **Jeremiyah Love** — Jeremiyah Love - Set to practice Wednesday (2026-09-09T21:13:42Z)
   - In typical LaFleur fashion, the coach tried to be wishy-washy and hide things from the media by saying Love is not expected to be limited in practice, but his status for Sunday's opener against the Chargers depends on how the running back looks during the practice week. The Cardinals have already listed Tyler Allgeier ahead of their No. 3 overall pick Love on the backfield depth chart. Love will shape up as a shaky RB3 for fantasy if he's active against Los Angeles.
-- **Wan'Dale Robinson** — Wan'Dale Robinson - No injury designation (2026-09-09T21:12:19Z)
-  - The Titans' big offseason addition at wideout will be good to go for his team debut Sunday, as Robinson carries no injury designation. Both Robinson and rookie Carnell Tate are off the injury report, signaling that Cam Ward will have his top weapons at his disposal as the team starts a new chapter under head coach Robert Saleh.
-- **Jakobi Meyers** — Jakobi Meyers - Limited during Wednesday's practice (2026-09-09T21:09:22Z)
-  - Per Ryan O'Halloran of The Florida Times-Union, Meyers sported a non-contact jersey during the open portion of Wednesday's session, though he was ultimately able to do enough work to garner a limited listing. Per John Shipley of SI.com, Meyers said after practice that he expects to play Sunday against the Browns, though he may need to upgrade to full practice participation Thursday or Friday to avoid carrying a designation into the weekend.
-- **Bhayshul Tuten** — Bhayshul Tuten - Ready to go for Week 1 (2026-09-09T21:03:43Z)
-  - Tuten missed a practice one week ago after falling ill, but his absence from the Jaguars' first injury report of the season suggests that he's 100 percent healthy heading into Sunday's opener versus the Browns. Jaguars head coach Liam Coen hasn't revealed how he plans to divvy up the snaps among his running backs; even if Tuten ends up starting, he could wind up sharing the load on the ground with Chris Rodriguez. Third-down specialist LeQuint Allen (hip) didn't practice Wednesday and appears to be trending toward sitting out Week 1, potentially opening the door for both Tuten and Rodriguez to also see a slight spike in pass-catching opportunities.
-- **Zay Flowers** — Zay Flowers - Limited in practice Wednesday (2026-09-09T21:02:18Z)
-  - Baltimore's first injury report of the season provided some clarification on the lower-body issue that has been inhibiting him over the past few weeks. The wideout missed multiple sessions last week and was working off to the side during the media-access portion of Wednesday's practice, but he'll still have two more chances to ramp up to full participation by the end of the week. For his part, Flowers told Cordell Woodland of 105.7 The Fan Baltimore that he feels "more than healthy," which suggests that he's expecting to play Sunday in Indianapolis. The Ravens' receiver depth behind Flowers is also being tested going into the season, as Devontez Walker was listed as limited Wednesday due to a groin issue.
