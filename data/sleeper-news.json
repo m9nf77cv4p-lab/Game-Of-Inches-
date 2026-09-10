@@ -1,18 +1,12 @@
 {
-  "last_checked_at": "2026-09-10T18:05:39Z",
+  "last_checked_at": "2026-09-10T18:23:55Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11576|rotowire|636686|1789062506000",
-    "nfl|11632|fantasy_pros|606950|1789063221821",
-    "nfl|11632|rotoballer|220544|1789048145000",
-    "nfl|12527|fantasy_pros|606948|1789063221847",
-    "nfl|13287|fantasy_pros|606949|1789063221835",
-    "nfl|13330|rotoballer|220546|1789048809000",
-    "nfl|13417|rotoballer|220545|1789047845000",
-    "nfl|4217|rotoballer|220543|1789048206000",
-    "nfl|6768|rotowire|636688|1789063024000",
-    "nfl|9486|rotowire|636687|1789062750000"
+    "nfl|11603|rotowire|636689|1789064079000",
+    "nfl|5850|rotoballer|220549|1789049646000",
+    "nfl|6768|fantasy_pros|606951|1789063821613",
+    "nfl|6768|rotoballer|220548|1789049225000"
   ],
   "schema_version": 1,
   "source": {
@@ -22,6 +16,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Barner was on the field for 44 of Seattle's 50 snaps on offense, so he remains firmly entrenched atop the tight end depth chart. He also had a short rushing gain from under center erased by an offensive offside penalty. Barner tied for second on the team in catches, as the Seahawks didn't get much production in the passing game from anyone other than Jaxson Smith-Njigba (eight catches for 122 yards and a touchdown) in a game that saw starting QB Sam Darnold (hip) exit in the first quarter. Darnold is expected to sit out Week 2 against the Cardinals, in which case Drew Lock would draw the start under center.",
+      "description": "Barner caught both of his targets for 13 yards in Wednesday's 13-10 win over the Patriots.",
+      "metadata": {
+        "analysis": "Barner was on the field for 44 of Seattle's 50 snaps on offense, so he remains firmly entrenched atop the tight end depth chart. He also had a short rushing gain from under center erased by an offensive offside penalty. Barner tied for second on the team in catches, as the Seahawks didn't get much production in the passing game from anyone other than Jaxson Smith-Njigba (eight catches for 122 yards and a touchdown) in a game that saw starting QB Sam Darnold (hip) exit in the first quarter. Darnold is expected to sit out Week 2 against the Cardinals, in which case Drew Lock would draw the start under center.",
+        "description": "Barner caught both of his targets for 13 yards in Wednesday's 13-10 win over the Patriots.",
+        "title": "AJ Barner - Two catches in Week 1 win",
+        "topic_id": "1403840306373267456"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11603",
+      "player_name": "AJ Barner",
+      "position": "TE",
+      "published": 1789064079000,
+      "source": "rotowire",
+      "source_key": "636689",
+      "story_id": "nfl|11603|rotowire|636689|1789064079000",
+      "title": "AJ Barner - Two catches in Week 1 win",
+      "url": null
+    },
+    {
+      "analysis": "It is unclear what exactly happened, but Kendall notes that Tagovailoa didn't seem to throw again afterwards. This will remain a situation to monitor. Tagovailoa missed some time during training camp with lower back spasms. ",
+      "description": "Josh Kendall of The Athletic reports that Falcons QB Tua Tagovailoa touched his back and sat down on the grass briefly during individual drills Thursday.",
+      "metadata": {
+        "analysis": "It is unclear what exactly happened, but Kendall notes that Tagovailoa didn't seem to throw again afterwards. This will remain a situation to monitor. Tagovailoa missed some time during training camp with lower back spasms. ",
+        "description": "Josh Kendall of The Athletic reports that Falcons QB Tua Tagovailoa touched his back and sat down on the grass briefly during individual drills Thursday.",
+        "title": "Tua Tagovailoa appears to be dealing with back injury",
+        "topic_id": "1403839053010345984",
+        "url": "https://www.fantasypros.com/nfl/news/606951/tua-tagovailoa-appears-to-tweak-back-thursday.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1789063821613,
+      "source": "fantasy_pros",
+      "source_key": "606951",
+      "story_id": "nfl|6768|fantasy_pros|606951|1789063821613",
+      "title": "Tua Tagovailoa appears to be dealing with back injury",
+      "url": "https://www.fantasypros.com/nfl/news/606951/tua-tagovailoa-appears-to-tweak-back-thursday.php"
+    },
     {
       "analysis": "Jeanty opened the week practicing in full on Wednesday as he works his way back from an ankle sprain. He remains a strong RB1 for fantasy managers going into the season. ",
       "description": "ESPN's Adam Schefter said Raiders RB Ashton Jeanty is going to play in Week 1 against the Dolphins.",
@@ -599,6 +634,46 @@
       "story_id": "nfl|13305|rotowire|636679|1789051755000",
       "title": "Mike Washington - Expected to be involved in Week 1 plan",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The NFL issued a statement on Green Bay Packers running back Josh Jacobs on Thursday after he pleaded no contest in court to misdemeanor charges of battery and criminal damage to property, according to Mark Maske of Front Office Sports. \"We have been closely monitoring all developments in the matter which remains under review of the personal conduct policy. There is no change to his status as he remains on the Commissioner's Exempt list.\" The NFL will continue to investigate Jacobs, but until his legal process plays out, we might not have a clear picture of how much time he will miss. For now, the 28-year-old will stay on the exempt list and will not be eligible to play in Week 1 this Sunday against the division-rival Minnesota Vikings. He should remain stashed in all fantasy football leagues in the meantime, with MarShawn Lloyd the favorite for RB1 duties in Green Bay for as long as he remains out. Kaleb Johnson and Chris Brooks should also work in change-of-pace roles, but Lloyd should have the most fantasy upside as an explosive runner out of the backfield. He is currently rostered in 89% of Yahoo leagues and should be started in all leagues in the season opener against Minnesota.",
+      "metadata": {
+        "description": "The NFL issued a statement on Green Bay Packers running back Josh Jacobs on Thursday after he pleaded no contest in court to misdemeanor charges of battery and criminal damage to property, according to Mark Maske of Front Office Sports. \"We have been closely monitoring all developments in the matter which remains under review of the personal conduct policy. There is no change to his status as he remains on the Commissioner's Exempt list.\" The NFL will continue to investigate Jacobs, but until his legal process plays out, we might not have a clear picture of how much time he will miss. For now, the 28-year-old will stay on the exempt list and will not be eligible to play in Week 1 this Sunday against the division-rival Minnesota Vikings. He should remain stashed in all fantasy football leagues in the meantime, with MarShawn Lloyd the favorite for RB1 duties in Green Bay for as long as he remains out. Kaleb Johnson and Chris Brooks should also work in change-of-pace roles, but Lloyd should have the most fantasy upside as an explosive runner out of the backfield. He is currently rostered in 89% of Yahoo leagues and should be started in all leagues in the season opener against Minnesota.",
+        "title": "Josh Jacobs Remains on Commissioner's Exempt List",
+        "topic_id": "1403841649494249472",
+        "url": "https://www.rotoballer.com/player-news/josh-jacobs-remains-on-commissioners-exempt-list/1927731"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1789049646000,
+      "source": "rotoballer",
+      "source_key": "220549",
+      "story_id": "nfl|5850|rotoballer|220549|1789049646000",
+      "title": "Josh Jacobs Remains on Commissioner's Exempt List",
+      "url": "https://www.rotoballer.com/player-news/josh-jacobs-remains-on-commissioners-exempt-list/1927731"
+    },
+    {
+      "analysis": null,
+      "description": "Atlanta Falcons quarterback Tua Tagovailoa appeared to suffer discomfort during individual throwing drills during Thursday's practice and briefly went to the ground, according to Josh Kendall of The Athletic. It is unclear exactly what Tagovailoa is dealing with or if it will prevent him from making the start in Sunday's Week 1 contest against the Pittsburgh Steelers, but he did miss the first week of training camp due to lower-back spasms. Michael Penix Jr. (knee) is still recovering from a partially torn ACL late last season and will not be ready for the 2026 season opener, which is why Tagovailoa was named as the starter to open the year. If Tagovailoa's injury keeps him from playing this weekend, either Cooper Rush or Jack Strand could be forced into action against Pittsburgh on Sunday. Tagovailoa only has short-term, deep-league appeal in two-QB formats as the starter to begin the season, but the full expectation is that Penix will take over once he is cleared to come back from his knee injury. If active in Week 1, Tagovailoa will merely be a low-end QB2 for fantasy managers in deep superflex leagues.",
+      "metadata": {
+        "description": "Atlanta Falcons quarterback Tua Tagovailoa appeared to suffer discomfort during individual throwing drills during Thursday's practice and briefly went to the ground, according to Josh Kendall of The Athletic. It is unclear exactly what Tagovailoa is dealing with or if it will prevent him from making the start in Sunday's Week 1 contest against the Pittsburgh Steelers, but he did miss the first week of training camp due to lower-back spasms. Michael Penix Jr. (knee) is still recovering from a partially torn ACL late last season and will not be ready for the 2026 season opener, which is why Tagovailoa was named as the starter to open the year. If Tagovailoa's injury keeps him from playing this weekend, either Cooper Rush or Jack Strand could be forced into action against Pittsburgh on Sunday. Tagovailoa only has short-term, deep-league appeal in two-QB formats as the starter to begin the season, but the full expectation is that Penix will take over once he is cleared to come back from his knee injury. If active in Week 1, Tagovailoa will merely be a low-end QB2 for fantasy managers in deep superflex leagues.",
+        "title": "Tua Tagovailoa Suffers Discomfort During Throwing Drills on Thursday",
+        "topic_id": "1403839045993287690",
+        "url": "https://www.rotoballer.com/player-news/tua-tagovailoa-suffers-discomfort-during-throwing-drills-on-thursday/1927726"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1789049225000,
+      "source": "rotoballer",
+      "source_key": "220548",
+      "story_id": "nfl|6768|rotoballer|220548|1789049225000",
+      "title": "Tua Tagovailoa Suffers Discomfort During Throwing Drills on Thursday",
+      "url": "https://www.rotoballer.com/player-news/tua-tagovailoa-suffers-discomfort-during-throwing-drills-on-thursday/1927726"
     },
     {
       "analysis": "It's a tough start to Browns Patriot tenure. He went down early in the third quarter and did not return, leaving Drake Maye to lean on Hunter Henry, Demario Douglas, and Mack Hollins with fellow newcomer Romeo Doubs struggling to catch anything. Doubs should bounce back, and if Brown is out for any period of time, expect Doubs and Henry to have some more fantasy appeal, with Douglas as a PPR dart throw in deep formats.",
@@ -50627,26 +50702,6 @@
       "source_key": "633228",
       "story_id": "nfl|10219|rotowire|633228|1786473492000",
       "title": "Chris Rodriguez - Deemed co-starter on unofficial depth chart",
-      "url": null
-    },
-    {
-      "analysis": "Preseason depth charts can often be taken with a grain of salt, but in this case the 'Tuten or Rodriguez' listing aligns with the notion that the Jaguars will employ a committee approach -- possibly resulting in Tuten and Rodriguez forming a 1A/1B combo -- to fill the void created by the offseason departure of last year's leading rusher Travis Etienne. Also in the mix for Jacksonville's backfield touches in that context is LeQuint Allen, who could factor in on third downs. In any case, regardless of how the team's carries/targets are distributed come Week 1, Tuten's share figures to be enough to merit fantasy lineup consideration out of the gate this season.",
-      "description": "Tuten and Chris Rodriguez are listed as co-starters on the Jaguars' initial unofficial depth chart, Ryan O'Halloran of The Florida Times-Union reports.",
-      "metadata": {
-        "analysis": "Preseason depth charts can often be taken with a grain of salt, but in this case the 'Tuten or Rodriguez' listing aligns with the notion that the Jaguars will employ a committee approach -- possibly resulting in Tuten and Rodriguez forming a 1A/1B combo -- to fill the void created by the offseason departure of last year's leading rusher Travis Etienne. Also in the mix for Jacksonville's backfield touches in that context is LeQuint Allen, who could factor in on third downs. In any case, regardless of how the team's carries/targets are distributed come Week 1, Tuten's share figures to be enough to merit fantasy lineup consideration out of the gate this season.",
-        "description": "Tuten and Chris Rodriguez are listed as co-starters on the Jaguars' initial unofficial depth chart, Ryan O'Halloran of The Florida Times-Union reports.",
-        "title": "Bhayshul Tuten - Listed as co-starter on unofficial depth chart",
-        "topic_id": "1392970016684539904"
-      },
-      "nfl_team": "JAX",
-      "player_id": "12490",
-      "player_name": "Bhayshul Tuten",
-      "position": "RB",
-      "published": 1786472250000,
-      "source": "rotowire",
-      "source_key": "633227",
-      "story_id": "nfl|12490|rotowire|633227|1786472250000",
-      "title": "Bhayshul Tuten - Listed as co-starter on unofficial depth chart",
       "url": null
     }
   ]

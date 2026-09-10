@@ -2,25 +2,30 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2517**
-- Newly captured: **10**
+- Stored stories: **2520**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Ashton Jeanty** — Ashton Jeanty (ankle) expected to play Sunday (2026-09-10T18:00:21.847000Z)
+- **NEW — AJ Barner** — AJ Barner - Two catches in Week 1 win (2026-09-10T18:14:39Z)
+  - Barner was on the field for 44 of Seattle's 50 snaps on offense, so he remains firmly entrenched atop the tight end depth chart. He also had a short rushing gain from under center erased by an offensive offside penalty. Barner tied for second on the team in catches, as the Seahawks didn't get much production in the passing game from anyone other than Jaxson Smith-Njigba (eight catches for 122 yards and a touchdown) in a game that saw starting QB Sam Darnold (hip) exit in the first quarter. Darnold is expected to sit out Week 2 against the Cardinals, in which case Drew Lock would draw the start under center.
+- **NEW — Tua Tagovailoa** — Tua Tagovailoa appears to be dealing with back injury (2026-09-10T18:10:21.613000Z)
+  - It is unclear what exactly happened, but Kendall notes that Tagovailoa didn't seem to throw again afterwards. This will remain a situation to monitor. Tagovailoa missed some time during training camp with lower back spasms. 
+  - Source: https://www.fantasypros.com/nfl/news/606951/tua-tagovailoa-appears-to-tweak-back-thursday.php
+- **Ashton Jeanty** — Ashton Jeanty (ankle) expected to play Sunday (2026-09-10T18:00:21.847000Z)
   - Jeanty opened the week practicing in full on Wednesday as he works his way back from an ankle sprain. He remains a strong RB1 for fantasy managers going into the season. 
   - Source: https://www.fantasypros.com/nfl/news/606948/ashton-jeanty-ankle-expected-to-play-sunday.php
-- **NEW — Jeremiyah Love** — Jeremiyah Love (ankle) expected to play Sunday  (2026-09-10T18:00:21.835000Z)
+- **Jeremiyah Love** — Jeremiyah Love (ankle) expected to play Sunday  (2026-09-10T18:00:21.835000Z)
   - Love was limited in practice to open the week on Wednesday as he works his way back from an ankle sprain. While Tyler Allgeier was listed as the "RB1" on Cardinals Week 1 depth chart, Love should still plenty of opportunity in his debut. 
   - Source: https://www.fantasypros.com/nfl/news/606949/jeremiyah-love-ankle-expected-to-play-sunday.php
-- **NEW — Malik Nabers** — Malik Nabers (knee) 'on track' to play Sunday (2026-09-10T18:00:21.821000Z)
+- **Malik Nabers** — Malik Nabers (knee) 'on track' to play Sunday (2026-09-10T18:00:21.821000Z)
   - Nabers practiced in full on Wednesday to begin the week. There should be another update on his status heading into the weekend by Friday. 
   - Source: https://www.fantasypros.com/nfl/news/606950/malik-nabers-knee-on-track-to-play-sunday.php
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa - Experiences possible back discomfort (2026-09-10T17:57:04Z)
+- **Tua Tagovailoa** — Tua Tagovailoa - Experiences possible back discomfort (2026-09-10T17:57:04Z)
   - Raimondi cautions that only a small portion of practice is open to the media, but it's also possible that Tagovailoa was shut down for the remainder of practice after potentially hurting his back. The 28-year-old quarterback was named the starter for Sunday's season opener earlier in the week, as the Falcons declared that Michael Penix (knee) isn't ready for game action yet. Tagovailoa's official practice participation designations will be worth monitoring Thursday and Friday. Cooper Rush and Jack Strand are Atlanta's alternatives under center.
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks - Listed as starting WR on depth chart (2026-09-10T17:52:30Z)
+- **Dontayvion Wicks** — Dontayvion Wicks - Listed as starting WR on depth chart (2026-09-10T17:52:30Z)
   - Philadelphia lists three starting wide receivers, with those spots going to Wicks, DeVonta Smith and rookie first-round pick Makai Lemon. Wicks had 581 receiving yards as a rookie with the Packers during the 2023 regular season and has failed to reach that mark since, posting only 415 receiving yards in the 2024 regular season and 332 yards in 2025. The 25-year-old wide receiver has an opportunity to play a larger role with his new team, which will kick off regular-season action Sunday against the Commanders.
-- **NEW — Braelon Allen** — Braelon Allen - Second on RB depth chart behind healthy Hall (2026-09-10T17:48:26Z)
+- **Braelon Allen** — Braelon Allen - Second on RB depth chart behind healthy Hall (2026-09-10T17:48:26Z)
   - Allen worked with the starters for most of the preseason while Hall was sidelined by a groin injury. Hall practiced without limitations Wednesday, as did Isaiah Davis (knee), who is listed third on the team's unofficial depth chart. Allen is listed at 235 pounds and has reportedly bulked up to around 250. The 2024 fourth-round pick's large frame could help Allen command valuable goal-line and short-yardage work even while Hall is healthy.
 - **Ted Hurst** — Ted Hurst - Talked up by OC (2026-09-10T17:41:46Z)
   - Hurst is likely to begin his career in a depth role, though the rookie third-round pick out of Georgia State could see some involvement on offense out of the gate, especially if Jalen McMillan (knee) isn't cleared to face the Bengals in Week 1. McMillan practiced on a limited basis Wednesday, while Emeka Egbuka practiced without limitations after dealing with a recent toe injury. Egbuka and Chris Godwin figure to get most of the targets among Tampa Bay's wide receivers, though the 6-foot-3 Hurst showed the ability to stretch the field in college and may not need heavy volume to make an impact.
@@ -81,18 +86,22 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606909/rhamondre-stevenson-totals-95-yards-wednesday.php
 - **Mike Washington** — Mike Washington - Expected to be involved in Week 1 plan (2026-09-10T14:49:15Z)
   - Washington impressed the Raiders' coaching staff in the preseason, during which the rookie fourth-round pick rushed for 168 yards on 23 carries across three games, averaging a robust 7.3 yards per carry. Jeanty has returned to full practice participation in the week leading up to Sunday's regular-season opener against the Dolphins, but the 2025 first-round pick missed a chunk of practice time due to the ankle injury he suffered Aug. 23. With Jeanty still shaking off the cobwebs, Washington is primed for some added opportunities in his regular-season debut as the Raiders face the Dolphins in a battle between two teams expected to finish near the bottom of the standings this season.
+- **NEW — Josh Jacobs** — Josh Jacobs Remains on Commissioner's Exempt List (2026-09-10T14:14:06Z)
+  - Source: https://www.rotoballer.com/player-news/josh-jacobs-remains-on-commissioners-exempt-list/1927731
+- **NEW — Tua Tagovailoa** — Tua Tagovailoa Suffers Discomfort During Throwing Drills on Thursday (2026-09-10T14:07:05Z)
+  - Source: https://www.rotoballer.com/player-news/tua-tagovailoa-suffers-discomfort-during-throwing-drills-on-thursday/1927726
 - **A.J. Brown** — A.J. Brown (ankle) believed to have suffered high-ankle sprain on Wednesday (2026-09-10T14:05:10.573000Z)
   - It's a tough start to Browns Patriot tenure. He went down early in the third quarter and did not return, leaving Drake Maye to lean on Hunter Henry, Demario Douglas, and Mack Hollins with fellow newcomer Romeo Doubs struggling to catch anything. Doubs should bounce back, and if Brown is out for any period of time, expect Doubs and Henry to have some more fantasy appeal, with Douglas as a PPR dart throw in deep formats.
   - Source: https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php
 - **A.J. Brown** — A.J. Brown - Believed to have high-ankle sprain (2026-09-10T14:04:45Z)
   - In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before departing in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.
-- **NEW — Kenyon Sadiq** — Kenyon Sadiq Has Integrated Himself into the Offense (2026-09-10T14:00:09Z)
+- **Kenyon Sadiq** — Kenyon Sadiq Has Integrated Himself into the Offense (2026-09-10T14:00:09Z)
   - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-has-integrated-himself-into-the-offense/1927722
-- **NEW — George Kittle** — George Kittle Cleared, Still A Risky Play For Week 1 (2026-09-10T13:50:06Z)
+- **George Kittle** — George Kittle Cleared, Still A Risky Play For Week 1 (2026-09-10T13:50:06Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-cleared-still-a-risky-play-for-week-1/1927707
-- **NEW — Malik Nabers** — Malik Nabers "On Track" to Play Sunday Night (2026-09-10T13:49:05Z)
+- **Malik Nabers** — Malik Nabers "On Track" to Play Sunday Night (2026-09-10T13:49:05Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-on-track-to-play-sunday-night/1927704
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling WR3 On Depth Chart Ahead Of Week 1 (2026-09-10T13:44:05Z)
+- **De'Zhaun Stribling** — De'Zhaun Stribling WR3 On Depth Chart Ahead Of Week 1 (2026-09-10T13:44:05Z)
   - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-wr3-on-depth-chart-ahead-of-week-1/1927700
 - **Jeremiyah Love** — Jeremiyah Love Expected to Play Sunday (2026-09-10T13:38:08Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-expected-to-play-sunday/1927686
@@ -223,12 +232,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Gordon recently returned to practice without a non-contact jersey. With his full participation in Wednesday's practice, all signs are pointing toward his availability for Week 1 versus the Raiders. The 22-year-old finished the 2025 campaign by rushing for 199 yards and three touchdowns off 70 carries, adding seven grabs for 32 yards and a touchdown in 17 regular-season appearances. Gordon currently occupies the No. 3 spot on the depth chart behind De'Von Achane and Jaylen Wright.
 - **Hunter Henry** — Hunter Henry Relatively Quiet in Week 1 Loss (2026-09-10T01:07:12Z)
   - Source: https://www.rotoballer.com/player-news/hunter-henry-relatively-quiet-in-week-1-loss/1927273
-- **Romeo Doubs** — Romeo Doubs Incredibly Underwhelming in Patriots Debut (2026-09-10T00:59:05Z)
-  - Source: https://www.rotoballer.com/player-news/romeo-doubs-incredibly-underwhelming-in-patriots-debut/1927270
-- **Sam Darnold** — Sam Darnold (hip) questionable to return  (2026-09-10T00:55:49.137000Z)
-  - Darnold suffered the apparent injury on the third down sack on their first offensive drive. Drew Lock is currently in at quarterback for the Seahawks. Fantasy managers should expect the team to update Darnold's status after halftime. 
-  - Source: https://www.fantasypros.com/nfl/news/606840/sam-darnold-hip-questionable-to-return.php
-- **Jaxon Smith-Njigba** — Jaxon Smith-Njigba Scores the Decisive Touchdown in Week 1 Win (2026-09-10T00:49:20Z)
-  - Source: https://www.rotoballer.com/player-news/jaxon-smith-njigba-scores-the-decisive-touchdown-in-week-1-win/1927265
-- **Sam Darnold** — Sam Darnold - Questionable to return (2026-09-10T00:47:29Z)
-  - Darnold suffered a hip injury on the Seahawks' opening possession, and he is now considered questionable to return to the contest, per Adam Schefter of ESPN. Drew Lock has entered the contest at quarterback for Seattle.
