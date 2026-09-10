@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T21:47:24Z",
+  "last_checked_at": "2026-09-10T21:57:14Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|12533|rotowire|636716|1789076493000",
-    "nfl|4046|rotoballer|220574|1789062007000",
-    "nfl|9494|rotowire|636717|1789076623000"
+    "nfl|9511|rotowire|636719|1789077292000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The Chargers put a cap on Mitchell's reps for a second straight day, but his ability to practice in any capacity on consecutive days to kick off Week 1 prep is an encouraging sign for his chances of playing in Sunday's season opener.",
+      "description": "Mitchell (hamstring) was a limited participant in Thursday's practice.",
+      "metadata": {
+        "analysis": "The Chargers put a cap on Mitchell's reps for a second straight day, but his ability to practice in any capacity on consecutive days to kick off Week 1 prep is an encouraging sign for his chances of playing in Sunday's season opener.",
+        "description": "Mitchell (hamstring) was a limited participant in Thursday's practice.",
+        "title": "Keaton Mitchell - Stays limited in practice",
+        "topic_id": "1403895704560152576"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1789077292000,
+      "source": "rotowire",
+      "source_key": "636719",
+      "story_id": "nfl|9511|rotowire|636719|1789077292000",
+      "title": "Keaton Mitchell - Stays limited in practice",
+      "url": null
+    },
     {
       "analysis": "Mims sustained a foot contusion in the Broncos' Aug. 28 preseason finale against the Vikings, but after having no limitations in the team's first official practice of the regular season, he'll be ready to go for the opener Monday in Kansas City. On the Broncos' unofficial depth chart, Mims is listed as a starting receiver along with Jaylen Waddle and Courtland Sutton, though second-year wideout Pat Bryant drew plenty of positive buzz during training camp and the preseason and could push Mims for No. 3 duties.",
       "description": "Mims (foot) was listed as a full practice participant Thursday, Aric DiLalla of the Broncos' official site reports.",
@@ -51862,26 +51880,6 @@
       "story_id": "nfl|12530|rotoballer|218398|1786485485000",
       "title": "Travis Hunter Listed as Backup WR, Starter at CB",
       "url": "https://www.rotoballer.com/player-news/travis-hunter-listed-as-backup-wr-starter-at-cb/1907291"
-    },
-    {
-      "analysis": null,
-      "description": "New England Patriots tight end Eli Raridon continues to see action with the first team offense. The Pats are having joint practices with the Indianapolis Colts, and Raridon is still playing with the first team, according to the Boston Herald. The 22-year-old was a third-round pick of the Pats this year out of Notre Dame. He's going to remain behind Hunter Henry to begin the season, but that isn't going to last forever. Given his success early in camp, Raridon is looking like a solid stash in dynasty and keeper leagues, but is someone who can be ignored in redraft formats with Henry ahead of him right now.",
-      "metadata": {
-        "description": "New England Patriots tight end Eli Raridon continues to see action with the first team offense. The Pats are having joint practices with the Indianapolis Colts, and Raridon is still playing with the first team, according to the Boston Herald. The 22-year-old was a third-round pick of the Pats this year out of Notre Dame. He's going to remain behind Hunter Henry to begin the season, but that isn't going to last forever. Given his success early in camp, Raridon is looking like a solid stash in dynasty and keeper leagues, but is someone who can be ignored in redraft formats with Henry ahead of him right now.",
-        "title": "Eli Raridon Continues to Take More Snaps with the First Team",
-        "topic_id": "1393084537411489792",
-        "url": "https://www.rotoballer.com/player-news/eli-raridon-continues-to-take-more-snaps-with-first-team/1907288"
-      },
-      "nfl_team": "NE",
-      "player_id": "13421",
-      "player_name": "Eli Raridon",
-      "position": "TE",
-      "published": 1786485005000,
-      "source": "rotoballer",
-      "source_key": "218397",
-      "story_id": "nfl|13421|rotoballer|218397|1786485005000",
-      "title": "Eli Raridon Continues to Take More Snaps with the First Team",
-      "url": "https://www.rotoballer.com/player-news/eli-raridon-continues-to-take-more-snaps-with-first-team/1907288"
     }
   ]
 }
