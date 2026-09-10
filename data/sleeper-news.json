@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-09-10T04:58:46Z",
+  "last_checked_at": "2026-09-10T05:16:19Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|12048|rotowire|636667|1789015442000",
-    "nfl|3214|rotowire|636669|1789015680000",
-    "nfl|9488|rotoballer|220491|1789001360000"
+    "nfl|3214|rotoballer|220493|1789002432000",
+    "nfl|8121|rotoballer|220492|1789001945000",
+    "nfl|9501|rotowire|636675|1789016202000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Douglas finished tied with Rhamondre Stevenson for the team lead in receptions while also setting the pace in targets for the Patriots on the night. The speedy fourth-year pro's elevated role seemed to be largely the byproduct of A.J. Brown's exit from the game on the first possession of the second half due to an ankle injury, which underscores the fact Douglas' week-to-week production is likely to remain volatile over the course of the season. However, if Brown, who Andrew Callahan of the Boston Herald reports left the locker room wearing a walking boot Wednesday, misses any time, Douglas would be in line for additional snaps and targets.",
+      "description": "Douglas secured five of seven targets for 20 yards in the Patriots' 13-10 loss to the Seahawks on Wednesday.",
+      "metadata": {
+        "analysis": "Douglas finished tied with Rhamondre Stevenson for the team lead in receptions while also setting the pace in targets for the Patriots on the night. The speedy fourth-year pro's elevated role seemed to be largely the byproduct of A.J. Brown's exit from the game on the first possession of the second half due to an ankle injury, which underscores the fact Douglas' week-to-week production is likely to remain volatile over the course of the season. However, if Brown, who Andrew Callahan of the Boston Herald reports left the locker room wearing a walking boot Wednesday, misses any time, Douglas would be in line for additional snaps and targets.",
+        "description": "Douglas secured five of seven targets for 20 yards in the Patriots' 13-10 loss to the Seahawks on Wednesday.",
+        "title": "DeMario Douglas - Does little with five catches",
+        "topic_id": "1403640304787103744"
+      },
+      "nfl_team": "NE",
+      "player_id": "9501",
+      "player_name": "DeMario Douglas",
+      "position": "WR",
+      "published": 1789016202000,
+      "source": "rotowire",
+      "source_key": "636675",
+      "story_id": "nfl|9501|rotowire|636675|1789016202000",
+      "title": "DeMario Douglas - Does little with five catches",
+      "url": null
+    },
     {
       "analysis": "The trusted tight end figures to remain an important component of the Patriots' air attack this season, but Henry had a quiet start to the campaign. The 31-year-old did tie for third in receptions and receiving yards on the night for the Patriots, and Henry will look to help Drake Maye atone for a three-interception night in a Week 2 home matchup against the Steelers on Sunday, Sept. 20.",
       "description": "Henry brought in all three targets for 26 yards in the Patriots' 13-10 loss to the Seahawks on Wednesday.",
@@ -36,10 +56,10 @@
       "url": null
     },
     {
-      "analysis": "The change-of-pace back ironically logged just two fewer carries than lead runner Jadarian Price, while also being a complete non-factor as a pass catcher. Holani ran reasonably well against a tough Patriots front, and his carry total served as the second-highest tally of his career. Holani should continue to see 8-to-10 touches per game as Price's back while Zach Charbonnet (knee) remains on the PUP list.",
+      "analysis": "The change-of-pace back ironically logged just two fewer carries than lead runner Jadarian Price, while also being a complete non-factor as a pass catcher. Holani ran reasonably well against a tough Patriots front, and his carry total served as the second-highest tally of his career. Holani should continue to see 8-to-10 touches per game as a complementary option while Zach Charbonnet (knee) remains on the PUP list.",
       "description": "Holani rushed eight times for 29 yards and failed to bring in his only target in the Seahawks' 13-10 win over the Patriots on Wednesday.",
       "metadata": {
-        "analysis": "The change-of-pace back ironically logged just two fewer carries than lead runner Jadarian Price, while also being a complete non-factor as a pass catcher. Holani ran reasonably well against a tough Patriots front, and his carry total served as the second-highest tally of his career. Holani should continue to see 8-to-10 touches per game as Price's back while Zach Charbonnet (knee) remains on the PUP list.",
+        "analysis": "The change-of-pace back ironically logged just two fewer carries than lead runner Jadarian Price, while also being a complete non-factor as a pass catcher. Holani ran reasonably well against a tough Patriots front, and his carry total served as the second-highest tally of his career. Holani should continue to see 8-to-10 touches per game as a complementary option while Zach Charbonnet (knee) remains on the PUP list.",
         "description": "Holani rushed eight times for 29 yards and failed to bring in his only target in the Seahawks' 13-10 win over the Patriots on Wednesday.",
         "title": "George Holani - Sees larger role than expected",
         "topic_id": "1403637787600642048"
@@ -96,10 +116,10 @@
       "url": null
     },
     {
-      "analysis": "As expected with TreVeyon Henderson (ankle) unavailable, Stevenson shouldered a heavy workload and found running room at a premium save for his game-long 12-yard run late in the fourth quarter. However, the versatile veteran made an impact as a receiver, finishing with a team-high reception total while checking in as the runner-up in both receiving yards and targets for the Patriots on the night. Stevenson's involvement as a pass catcher unsurprisingly picked up after A.J. Brown went down with an ankle injury on the first possession of the second half, and the veteran running back could remain in an elevated all-around role during the Week 2 home opener against the Steelers on Sunday, Sept. 20.",
+      "analysis": "As expected with TreVeyon Henderson (ankle) unavailable, Stevenson shouldered a heavy workload and found running room at a premium save for his game-long 12-yard rush late in the fourth quarter. However, the versatile veteran made an impact as a receiver, finishing with a co-team-high reception total while checking in as the runner-up in both receiving yards and targets for the Patriots on the night. Stevenson's involvement as a pass catcher unsurprisingly picked up after A.J. Brown went down with an ankle injury on the first possession of the second half, and the veteran running back could remain in an elevated all-around role during the Week 2 home opener against the Steelers on Sunday, Sept. 20.",
       "description": "Stevenson rushed 18 times for 51 yards and brought in five of six targets for 44 yards in the Patriots' 13-10 loss to the Seahawks on Wednesday.",
       "metadata": {
-        "analysis": "As expected with TreVeyon Henderson (ankle) unavailable, Stevenson shouldered a heavy workload and found running room at a premium save for his game-long 12-yard run late in the fourth quarter. However, the versatile veteran made an impact as a receiver, finishing with a team-high reception total while checking in as the runner-up in both receiving yards and targets for the Patriots on the night. Stevenson's involvement as a pass catcher unsurprisingly picked up after A.J. Brown went down with an ankle injury on the first possession of the second half, and the veteran running back could remain in an elevated all-around role during the Week 2 home opener against the Steelers on Sunday, Sept. 20.",
+        "analysis": "As expected with TreVeyon Henderson (ankle) unavailable, Stevenson shouldered a heavy workload and found running room at a premium save for his game-long 12-yard rush late in the fourth quarter. However, the versatile veteran made an impact as a receiver, finishing with a co-team-high reception total while checking in as the runner-up in both receiving yards and targets for the Patriots on the night. Stevenson's involvement as a pass catcher unsurprisingly picked up after A.J. Brown went down with an ankle injury on the first possession of the second half, and the veteran running back could remain in an elevated all-around role during the Week 2 home opener against the Steelers on Sunday, Sept. 20.",
         "description": "Stevenson rushed 18 times for 51 yards and brought in five of six targets for 44 yards in the Patriots' 13-10 loss to the Seahawks on Wednesday.",
         "title": "Rhamondre Stevenson - Heavy volume in Week 1 loss",
         "topic_id": "1403634012177649664"
@@ -216,10 +236,10 @@
       "url": null
     },
     {
-      "analysis": "The reigning Offensive Player of the Year endured a relatively difficult first half after making a 13-yard catch on the second play from scrimmage, losing starting quarterback Sam Darnold to a hip injury after the first drive of the game and experiencing some trouble separating from Patriots star cornerback Christian Gonzalez. However, JSN picked up the pace significantly as No. 2 signal-caller Drew Lock got into a rhythm, recording key third-down catches on consecutive second-quarter possessions and then delivering a dynamic 45-yard catch-and-run touchdown in the fourth quarter following Drake Maye's first interception. Smith-Njigba also subsequently managed a timely 11-yard grab on the drive that culminated with Jason Myers' go-ahead field goal that served as the final points for either side, and he ultimately delivered game-high totals in receptions, receiving yards and targets. Any extended absence on Darnold's part would stand to affect Smith-Njigba's week-to-week upside, but the standout receiver's chemistry with Lock as Wednesday's game unfolded was encouraging.",
+      "analysis": "The reigning Offensive Player of the Year endured a relatively difficult first half after making a 13-yard catch on the second play from scrimmage, losing starting quarterback Sam Darnold to a hip injury after the first drive of the game and experiencing some trouble separating from Patriots star cornerback Christian Gonzalez. However, JSN picked up the pace significantly as No. 2 signal-caller Drew Lock got into a rhythm, recording key third-down catches on consecutive second-quarter possessions and then delivering a dynamic 45-yard catch-and-run touchdown in the fourth quarter following Drake Maye's first interception. Smith-Njigba also subsequently managed a timely 11-yard grab on the drive which culminated with Jason Myers' go-ahead field goal that served as the final points for either side, and the star receiver ultimately delivered game-high totals in receptions, receiving yards and targets. Any extended absence on Darnold's part would stand to affect Smith-Njigba's week-to-week upside, but the standout receiver's chemistry with Lock as Wednesday's game unfolded was encouraging.",
       "description": "Smith-Njigba brought in eight of 11 targets for 122 yards and a touchdown in the Seahawks' 13-10 win over the Patriots on Wednesday.",
       "metadata": {
-        "analysis": "The reigning Offensive Player of the Year endured a relatively difficult first half after making a 13-yard catch on the second play from scrimmage, losing starting quarterback Sam Darnold to a hip injury after the first drive of the game and experiencing some trouble separating from Patriots star cornerback Christian Gonzalez. However, JSN picked up the pace significantly as No. 2 signal-caller Drew Lock got into a rhythm, recording key third-down catches on consecutive second-quarter possessions and then delivering a dynamic 45-yard catch-and-run touchdown in the fourth quarter following Drake Maye's first interception. Smith-Njigba also subsequently managed a timely 11-yard grab on the drive that culminated with Jason Myers' go-ahead field goal that served as the final points for either side, and he ultimately delivered game-high totals in receptions, receiving yards and targets. Any extended absence on Darnold's part would stand to affect Smith-Njigba's week-to-week upside, but the standout receiver's chemistry with Lock as Wednesday's game unfolded was encouraging.",
+        "analysis": "The reigning Offensive Player of the Year endured a relatively difficult first half after making a 13-yard catch on the second play from scrimmage, losing starting quarterback Sam Darnold to a hip injury after the first drive of the game and experiencing some trouble separating from Patriots star cornerback Christian Gonzalez. However, JSN picked up the pace significantly as No. 2 signal-caller Drew Lock got into a rhythm, recording key third-down catches on consecutive second-quarter possessions and then delivering a dynamic 45-yard catch-and-run touchdown in the fourth quarter following Drake Maye's first interception. Smith-Njigba also subsequently managed a timely 11-yard grab on the drive which culminated with Jason Myers' go-ahead field goal that served as the final points for either side, and the star receiver ultimately delivered game-high totals in receptions, receiving yards and targets. Any extended absence on Darnold's part would stand to affect Smith-Njigba's week-to-week upside, but the standout receiver's chemistry with Lock as Wednesday's game unfolded was encouraging.",
         "description": "Smith-Njigba brought in eight of 11 targets for 122 yards and a touchdown in the Seahawks' 13-10 win over the Patriots on Wednesday.",
         "title": "Jaxon Smith-Njigba - Cranks it up in second half",
         "topic_id": "1403621429345255424"
@@ -377,6 +397,46 @@
       "story_id": "nfl|12495|rotowire|636617|1789002472000",
       "title": "Ollie Gordon - Not listed on injury report",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots tight end Hunter Henry caught all three of his targets for 26 receiving yards during Wednesday's Week 1 loss against the Seattle Seahawks. Henry produced every time the ball was thrown his way, but he didn't have a very encouraging target share, and his average of 8.7 yards per catch was significantly lower than last year's mark of 12.8 yards. Similarly, Henry averaged 10.5 fantasy points per game in PPR leagues last year, as opposed to just 5.6 points on Wednesday night. It didn't help that the Patriots' lone touchdown went to a tight end other than Henry; it was a two-yard touchdown pass from Drake Maye to rookie Eli Raridon. Presumably, Henry will still be more of a threat around the goal line than Raridon going forward, but the rookie's presence and the somewhat frustrating state of the offense could reduce the veteran's fantasy upside. The only encouraging news for his fantasy outlook is that A.J. Brown (ankle) could miss extended time, leaving Henry as Maye's favorite physical, big-bodied target.",
+      "metadata": {
+        "description": "New England Patriots tight end Hunter Henry caught all three of his targets for 26 receiving yards during Wednesday's Week 1 loss against the Seattle Seahawks. Henry produced every time the ball was thrown his way, but he didn't have a very encouraging target share, and his average of 8.7 yards per catch was significantly lower than last year's mark of 12.8 yards. Similarly, Henry averaged 10.5 fantasy points per game in PPR leagues last year, as opposed to just 5.6 points on Wednesday night. It didn't help that the Patriots' lone touchdown went to a tight end other than Henry; it was a two-yard touchdown pass from Drake Maye to rookie Eli Raridon. Presumably, Henry will still be more of a threat around the goal line than Raridon going forward, but the rookie's presence and the somewhat frustrating state of the offense could reduce the veteran's fantasy upside. The only encouraging news for his fantasy outlook is that A.J. Brown (ankle) could miss extended time, leaving Henry as Maye's favorite physical, big-bodied target.",
+        "title": "Hunter Henry Relatively Quiet in Week 1 Loss",
+        "topic_id": "1403644077454483456",
+        "url": "https://www.rotoballer.com/player-news/hunter-henry-relatively-quiet-in-week-1-loss/1927273"
+      },
+      "nfl_team": "NE",
+      "player_id": "3214",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "published": 1789002432000,
+      "source": "rotoballer",
+      "source_key": "220493",
+      "story_id": "nfl|3214|rotoballer|220493|1789002432000",
+      "title": "Hunter Henry Relatively Quiet in Week 1 Loss",
+      "url": "https://www.rotoballer.com/player-news/hunter-henry-relatively-quiet-in-week-1-loss/1927273"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver Romeo Doubs was unable to haul in any of his three targets during Wednesday's Week 1 loss against the Seattle Seahawks. One of Drake Maye's passes to Doubs was intercepted, and the veteran receiver dropped another in the fourth quarter despite being uncovered. After the game, he took accountability for his woes, saying, \"I just wasn't locked in enough.\" He reportedly sat at his locker for a long time as the locker room cleared out, feeling the weight of several costly plays after the Patriots blew a late lead and lost 13-10 in this Super Bowl rematch. Although Doubs turned in a very ugly fantasy performance, he might have another opportunity to bounce back very soon. Teammate A.J. Brown (ankle) suffered a potentially serious injury in the loss, leaving his status in doubt for Week 2. If Brown needs more than 11 days to recover, Doubs would jump to the No. 1 spot on the depth chart for the Patriots' next contest against the Pittsburgh Steelers. In that scenario, he'd remain in the WR3/flex tier for fantasy purposes.",
+      "metadata": {
+        "description": "New England Patriots wide receiver Romeo Doubs was unable to haul in any of his three targets during Wednesday's Week 1 loss against the Seattle Seahawks. One of Drake Maye's passes to Doubs was intercepted, and the veteran receiver dropped another in the fourth quarter despite being uncovered. After the game, he took accountability for his woes, saying, \"I just wasn't locked in enough.\" He reportedly sat at his locker for a long time as the locker room cleared out, feeling the weight of several costly plays after the Patriots blew a late lead and lost 13-10 in this Super Bowl rematch. Although Doubs turned in a very ugly fantasy performance, he might have another opportunity to bounce back very soon. Teammate A.J. Brown (ankle) suffered a potentially serious injury in the loss, leaving his status in doubt for Week 2. If Brown needs more than 11 days to recover, Doubs would jump to the No. 1 spot on the depth chart for the Patriots' next contest against the Pittsburgh Steelers. In that scenario, he'd remain in the WR3/flex tier for fantasy purposes.",
+        "title": "Romeo Doubs Incredibly Underwhelming in Patriots Debut",
+        "topic_id": "1403642818014048256",
+        "url": "https://www.rotoballer.com/player-news/romeo-doubs-incredibly-underwhelming-in-patriots-debut/1927270"
+      },
+      "nfl_team": "NE",
+      "player_id": "8121",
+      "player_name": "Romeo Doubs",
+      "position": "WR",
+      "published": 1789001945000,
+      "source": "rotoballer",
+      "source_key": "220492",
+      "story_id": "nfl|8121|rotoballer|220492|1789001945000",
+      "title": "Romeo Doubs Incredibly Underwhelming in Patriots Debut",
+      "url": "https://www.rotoballer.com/player-news/romeo-doubs-incredibly-underwhelming-in-patriots-debut/1927270"
     },
     {
       "analysis": "Darnold suffered the apparent injury on the third down sack on their first offensive drive. Drew Lock is currently in at quarterback for the Seahawks. Fantasy managers should expect the team to update Darnold's status after halftime. ",
