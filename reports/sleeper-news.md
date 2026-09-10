@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2451**
+- Stored stories: **2452**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — George Kittle** — George Kittle off injury report, active for Thursday (2026-09-10T11:45:03.411000Z)
+- **George Kittle** — George Kittle off injury report, active for Thursday (2026-09-10T11:45:03.411000Z)
   - Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.
   - Source: https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php
+- **NEW — A.J. Brown** — A.J. Brown Seen Wearing Walking Boot on Right Foot (2026-09-10T08:12:06Z)
+  - Source: https://www.rotoballer.com/player-news/a-j-brown-seen-wearing-walking-boot-on-right-foot/1927333
 - **Sam Darnold** — Sam Darnold (hip) avoids fracture, to undergo MRI Thursday  (2026-09-10T05:30:37.344000Z)
   - Darnold was ruled out for the night in the opening drive on Wednesday. He is scheduled to undergo an MRI on Thursday.
   - Source: https://www.fantasypros.com/nfl/news/606861/sam-darnold-hip-avoids-fracture-to-undergo-mri-thursday.php
@@ -236,5 +238,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Tracy sustained an apparent neck injury during New York's exhibition finale, but after landing a spot on the team's initial active roster and having nearly two weeks to recover, he's in good health ahead of a Week 1 matchup with the Cowboys. With Cam Skattebo leading the Giants backfield and Najee Harris and Devin Singletary also on hand for reps, it remains to be seen what kind of workload Tracy can expect in the regular-season opener.
 - **Jonathon Brooks** — Jonathon Brooks - Declares himself 100 percent (2026-09-09T20:46:51Z)
   - Brooks was officially limited in practice Wednesday, but all indications are he did everything in the session and looked ready to go for the start of the season. Brooks will push Chuba Hubbard for carries in the Carolina backfield, but Hubbard is expected to open the campaign as the starter and lead back while Brooks sees plenty of work as the 1B option. It may be best to take a wait-and-see approach with him in fantasy.
-- **Sam Darnold** — Sam Darnold Exits Season Opener, Questionable to Return (2026-09-09T20:45:07Z)
-  - Source: https://www.rotoballer.com/player-news/sam-darnold-exits-season-opener-with-ankle-injury/1927175

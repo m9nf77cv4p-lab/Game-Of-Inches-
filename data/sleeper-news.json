@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T11:46:08Z",
+  "last_checked_at": "2026-09-10T12:15:44Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|4217|fantasy_pros|606900|1789040703411"
+    "nfl|5859|rotoballer|220497|1789027926000"
   ],
   "schema_version": 1,
   "source": {
@@ -33,6 +33,26 @@
       "story_id": "nfl|4217|fantasy_pros|606900|1789040703411",
       "title": "George Kittle off injury report, active for Thursday",
       "url": "https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php"
+    },
+    {
+      "analysis": null,
+      "description": "According to Andrew Callahan of the Boston Herald, New England Patriots wide receiver A.J. Brown (ankle) was seen leaving the locker room wearing a boot around his right foot. Brown exited his team's debut win in the third quarter with an apparent ankle injury. Prior to the exit, the star wideout had a quiet effort, catching only three of his four targets for a mere 26 yards. After the contest, Patriots wide receiver Romeo Doubs said the team has \"got to have a plan moving forward\" when discussing Brown's potential absence. Although head coach Mike Vrabel did not provide a concrete update after the contest, managers should watch his status, as he will likely undergo several tests over the next few days. If he were to miss an extended period of time, managers should expect Romeo Doubs, Kyle Williams, and Mack Hollins to see an uptick in targets and snaps.",
+      "metadata": {
+        "description": "According to Andrew Callahan of the Boston Herald, New England Patriots wide receiver A.J. Brown (ankle) was seen leaving the locker room wearing a boot around his right foot. Brown exited his team's debut win in the third quarter with an apparent ankle injury. Prior to the exit, the star wideout had a quiet effort, catching only three of his four targets for a mere 26 yards. After the contest, Patriots wide receiver Romeo Doubs said the team has \"got to have a plan moving forward\" when discussing Brown's potential absence. Although head coach Mike Vrabel did not provide a concrete update after the contest, managers should watch his status, as he will likely undergo several tests over the next few days. If he were to miss an extended period of time, managers should expect Romeo Doubs, Kyle Williams, and Mack Hollins to see an uptick in targets and snaps.",
+        "title": "A.J. Brown Seen Wearing Walking Boot on Right Foot",
+        "topic_id": "1403749677819555840",
+        "url": "https://www.rotoballer.com/player-news/a-j-brown-seen-wearing-walking-boot-on-right-foot/1927333"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1789027926000,
+      "source": "rotoballer",
+      "source_key": "220497",
+      "story_id": "nfl|5859|rotoballer|220497|1789027926000",
+      "title": "A.J. Brown Seen Wearing Walking Boot on Right Foot",
+      "url": "https://www.rotoballer.com/player-news/a-j-brown-seen-wearing-walking-boot-on-right-foot/1927333"
     },
     {
       "analysis": "Darnold was ruled out for the night in the opening drive on Wednesday. He is scheduled to undergo an MRI on Thursday.",
