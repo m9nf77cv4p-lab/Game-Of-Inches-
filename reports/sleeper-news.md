@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2433**
-- Newly captured: **1**
+- Stored stories: **2432**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -60,7 +60,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Ashton Jeanty** — Ashton Jeanty (ankle) practices in full Wednesday (2026-09-09T22:55:48.291000Z)
   - It looks like Jeanty is strongly trending towards playing in Week 1, as he was able to put up a full session in Las Vegas' first practice of the week on Wednesday. If he is active, he will likely see enough work to be a great fantasy option in a positive matchup against the Dolphins.
   - Source: https://www.fantasypros.com/nfl/news/606815/ashton-jeanty-ankle-practices-full-wednesday.php
-- **NEW — Emeka Egbuka** — Emeka Egbuka Logs Full Practice on Wednesday (2026-09-09T22:53:50Z)
+- **Emeka Egbuka** — Emeka Egbuka Logs Full Practice on Wednesday (2026-09-09T22:53:50Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-logs-in-full-practice-on-wednesday/1927242
 - **Alvin Kamara** — Alvin Kamara is Back at Practice (2026-09-09T22:41:16Z)
   - Source: https://www.rotoballer.com/player-news/alvin-kamara-is-back-at-practice/1927233

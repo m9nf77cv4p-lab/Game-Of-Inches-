@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-10T03:16:38Z",
+  "last_checked_at": "2026-09-10T03:32:50Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [
-    "nfl|12514|rotoballer|220484|1788994430000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -48920,26 +48918,6 @@
       "story_id": "nfl|9486|rotoballer|218342|1786441672000",
       "title": "Dontayvion Wicks to Be a \"Big Factor\" in Eagles' Passing Game",
       "url": "https://www.rotoballer.com/player-news/dontayvion-wicks-to-be-a-big-factor-in-eagles-passing-game/1906874"
-    },
-    {
-      "analysis": "After Stafford missed all of training camp last summer due to a lingering back injury, the two rarely practiced together before the start of the regular season. While Adams led the league with 14 receiving touchdowns, he managed just one 100-yard receiving game in 14 regular-season appearances. Some of that had to do with Puka Nacua dominating targets, but it could also be chalked up to he and Stafford not totally being comfortable with each other. That hasn't been the case this summer, as Adams has been a standout at Rams camp. \"When you're as intentional as they are, repetition ends up being the mother of learning,\" coach Sean McVay said. \"It's also the best way to be able to develop rapport with each other and that's so important whether you're a center playing with a guard, a guard playing with a tackle, or quarterbacks (with) receivers.\" Adams has massive touchdown upside, but it also wouldn't be a shock to see him flirt with 1,000 yards again after he posted just 60 catches for 789 yards during the 2025 regular season as a touchdown-or-bust type of fantasy player.",
-      "description": "Stafford and Davante Adams have been building a stronger rapport during training camp, Stu Jackson of the Rams' official site reports.",
-      "metadata": {
-        "analysis": "After Stafford missed all of training camp last summer due to a lingering back injury, the two rarely practiced together before the start of the regular season. While Adams led the league with 14 receiving touchdowns, he managed just one 100-yard receiving game in 14 regular-season appearances. Some of that had to do with Puka Nacua dominating targets, but it could also be chalked up to he and Stafford not totally being comfortable with each other. That hasn't been the case this summer, as Adams has been a standout at Rams camp. \"When you're as intentional as they are, repetition ends up being the mother of learning,\" coach Sean McVay said. \"It's also the best way to be able to develop rapport with each other and that's so important whether you're a center playing with a guard, a guard playing with a tackle, or quarterbacks (with) receivers.\" Adams has massive touchdown upside, but it also wouldn't be a shock to see him flirt with 1,000 yards again after he posted just 60 catches for 789 yards during the 2025 regular season as a touchdown-or-bust type of fantasy player.",
-        "description": "Stafford and Davante Adams have been building a stronger rapport during training camp, Stu Jackson of the Rams' official site reports.",
-        "title": "Matthew Stafford - Building strong rapport with Adams",
-        "topic_id": "1392744749496045568"
-      },
-      "nfl_team": "LAR",
-      "player_id": "421",
-      "player_name": "Matthew Stafford",
-      "position": "QB",
-      "published": 1786418447000,
-      "source": "rotowire",
-      "source_key": "633187",
-      "story_id": "nfl|421|rotowire|633187|1786418447000",
-      "title": "Matthew Stafford - Building strong rapport with Adams",
-      "url": null
     }
   ]
 }
