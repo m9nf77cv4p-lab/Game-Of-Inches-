@@ -2,15 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2431**
-- Newly captured: **3**
+- Stored stories: **2432**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — A.J. Brown** — A.J. Brown (ankle) ruled out against Seattle (2026-09-10T02:45:36.497000Z)
+- **A.J. Brown** — A.J. Brown (ankle) ruled out against Seattle (2026-09-10T02:45:36.497000Z)
   - Brown went down in the second half after a Seattle DB landed on his ankle, and Brown went back to the locker room soon after for x-rays. The Patriots will lean on Romeo Doubs, Pop Douglas, and Hunter Henry in the passing game with him out.
   - Source: https://www.fantasypros.com/nfl/news/606860/aj-brown-ankle-ruled-out-against-seattle.php
-- **NEW — A.J. Brown** — A.J. Brown - Will not return Wednesday (2026-09-10T02:41:22Z)
+- **A.J. Brown** — A.J. Brown - Will not return Wednesday (2026-09-10T02:41:22Z)
   - Brown will remain sidelined until the conclusion of the team's regular-season opener after suffering a right ankle injury in the third quarter. In the wideout's absence, running back Rhamondre Stevenson has been quarterback Drake Maye's favorite target against the Seahawks.
 - **A.J. Brown** — A.J. Brown (ankle) questionable to return (2026-09-10T02:15:36.531000Z)
   - Brown is currently being evaluated in the medical tent after having his ankle rolled up on in the third quarter. With Brown currently sidelined, DeMario Douglas, Romeo Doubs, and Mack Hollins will see the bulk of the snaps at wide receiver for the Patriots. 
@@ -60,9 +60,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Ashton Jeanty** — Ashton Jeanty (ankle) practices in full Wednesday (2026-09-09T22:55:48.291000Z)
   - It looks like Jeanty is strongly trending towards playing in Week 1, as he was able to put up a full session in Las Vegas' first practice of the week on Wednesday. If he is active, he will likely see enough work to be a great fantasy option in a positive matchup against the Dolphins.
   - Source: https://www.fantasypros.com/nfl/news/606815/ashton-jeanty-ankle-practices-full-wednesday.php
+- **NEW — Alvin Kamara** — Alvin Kamara is Back at Practice (2026-09-09T22:41:16Z)
+  - Source: https://www.rotoballer.com/player-news/alvin-kamara-is-back-at-practice/1927233
 - **George Kittle** — George Kittle - Remains limited Wednesday (2026-09-09T22:37:44Z)
   - Coach Kyle Shanahan has already indicated Kittle will play in Thursday night's season opener against the Rams in Australia, but the team is monitoring his practice reps. The veteran tight end is coming off a torn Achilles and is expected to see his snaps dialed back some against Los Angeles, though he should remain a staple in the red zone. Kittle is probably more of a TE2 than locked-in TE1 for fantasy in Week 1.
-- **NEW — Kenyon Sadiq** — Kenyon Sadiq Posts Full Practice Session on Wednesday (2026-09-09T22:32:09Z)
+- **Kenyon Sadiq** — Kenyon Sadiq Posts Full Practice Session on Wednesday (2026-09-09T22:32:09Z)
   - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-posts-full-practice-session-on-wednesday/1927227
 - **Jalen McMillan** — Jalen McMillan (knee) officially limited Wednesday (2026-09-09T22:30:48.147000Z)
   - McMillan's knee injury is still not fully healed, so he remained a limited participant at practice on Wednesday as a result. If he is sidelined for Week 1, Ted Hurst III will be primed for more work in his absence.
@@ -246,6 +248,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Khalil Shakir** — Khalil Shakir (undisclosed) seen practicing Wednesday (2026-09-09T19:50:50.613000Z)
   - Shakir's availability for Week 1 is currently up in the air due to an undisclosed injury that he's dealing with. He was spotted at practice on Wednesday, however, which bodes well for his availability for the season opener. It remains unclear if he was a limited or full participant.
   - Source: https://www.fantasypros.com/nfl/news/606743/khalil-shakir-undisclosed-seen-practicing-wednesday.php
-- **Malik Nabers** — Malik Nabers (knee) logs full practice Wednesday, likely to play Sunday (2026-09-09T19:50:50.601000Z)
-  - HC John Harbaugh told reporters that he thinks Nabers will be ready to go for the team's season opener against the Cowboys on Sunday night. This comes after he logged a full practice session on Wednesday, so he seems to be trending towards being close to full health for Week 1. If there are no setbacks throughout the week, fantasy managers should start him with confidence in what projects to be a high scoring matchup against their divisional rivals.
-  - Source: https://www.fantasypros.com/nfl/news/606744/malik-nabers-knee-logs-full-practice-wednesday-likely-to-play-sunday.php

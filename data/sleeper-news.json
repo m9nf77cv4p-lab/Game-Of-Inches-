@@ -1,11 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T02:46:52Z",
+  "last_checked_at": "2026-09-10T02:58:08Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13330|rotoballer|220481|1788993129000",
-    "nfl|5859|fantasy_pros|606860|1789008336497",
-    "nfl|5859|rotowire|636653|1789008082000"
+    "nfl|4035|rotoballer|220483|1788993676000"
   ],
   "schema_version": 1,
   "source": {
@@ -445,6 +443,26 @@
       "story_id": "nfl|12527|fantasy_pros|606815|1788994548291",
       "title": "Ashton Jeanty (ankle) practices in full Wednesday",
       "url": "https://www.fantasypros.com/nfl/news/606815/ashton-jeanty-ankle-practices-full-wednesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints running back Alvin Kamara (knee) returned to practice as a limited participant on Wednesday, according to Mike Garafolo. Kamara is finally back in the mix after being sidelined most of camp due to a sprained MCL. It sounds like there is a chance that Kamara is cleared to play in Sunday's Week 1 contest against the Detroit Lions. Once healthy, Kamara is expected to be the co-starter alongside Travis Etienne Jr. this season. The veteran back can still make an impact on the field, but the presence of Etienne does hurt his overall value. Etienne would be a borderline RB1 if Kamara is out, so fantasy managers should stay tuned for more information.",
+      "metadata": {
+        "description": "New Orleans Saints running back Alvin Kamara (knee) returned to practice as a limited participant on Wednesday, according to Mike Garafolo. Kamara is finally back in the mix after being sidelined most of camp due to a sprained MCL. It sounds like there is a chance that Kamara is cleared to play in Sunday's Week 1 contest against the Detroit Lions. Once healthy, Kamara is expected to be the co-starter alongside Travis Etienne Jr. this season. The veteran back can still make an impact on the field, but the presence of Etienne does hurt his overall value. Etienne would be a borderline RB1 if Kamara is out, so fantasy managers should stay tuned for more information.",
+        "title": "Alvin Kamara is Back at Practice",
+        "topic_id": "1403607582706356224",
+        "url": "https://www.rotoballer.com/player-news/alvin-kamara-is-back-at-practice/1927233"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1788993676000,
+      "source": "rotoballer",
+      "source_key": "220483",
+      "story_id": "nfl|4035|rotoballer|220483|1788993676000",
+      "title": "Alvin Kamara is Back at Practice",
+      "url": "https://www.rotoballer.com/player-news/alvin-kamara-is-back-at-practice/1927233"
     },
     {
       "analysis": "Coach Kyle Shanahan has already indicated Kittle will play in Thursday night's season opener against the Rams in Australia, but the team is monitoring his practice reps. The veteran tight end is coming off a torn Achilles and is expected to see his snaps dialed back some against Los Angeles, though he should remain a staple in the red zone. Kittle is probably more of a TE2 than locked-in TE1 for fantasy in Week 1.",
