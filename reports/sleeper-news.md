@@ -2,33 +2,35 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2565**
-- Newly captured: **11**
+- Stored stories: **2567**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Zay Flowers** — Zay Flowers - Upgrades to full Thursday (2026-09-10T20:41:31Z)
+- **NEW — Jeremiyah Love** — Jeremiyah Love - Warming up before practice (2026-09-10T20:48:45Z)
+  - Love is set to practice in some capacity Thursday after being listed as a limited participant Wednesday. The rookie third overall pick is working his way back from a high-ankle sprain sustained exactly one month before Sunday's regular-season opener against the Chargers. Once cleared for game action, Love is expected to operate in a split backfield with Tyler Allgeier.
+- **Zay Flowers** — Zay Flowers - Upgrades to full Thursday (2026-09-10T20:41:31Z)
   - Flowers was listed as a limited participant Wednesday but upgraded to full participation Thursday, putting him on track to play in Sunday's season opener against the Colts. After leading the Ravens with 1,211 receiving yards last season, Flowers is set to reprise his role as Lamar Jackson's top target under new offensive coordinator Declan Doyle.
-- **NEW — Alvin Kamara** — Alvin Kamara (knee) listed as limited again Thursday (2026-09-10T20:40:22.104000Z)
+- **Alvin Kamara** — Alvin Kamara (knee) listed as limited again Thursday (2026-09-10T20:40:22.104000Z)
   - Kamara continues to beat expectations with his injury timeline, participating in a second-straight practice again on Thursday. He remained limited, but there have been reports that he is trending towards playing in Week 1 of the season. If that's the case, that will be negative news for the fantasy value of Kendre Miller moving forward.
   - Source: https://www.fantasypros.com/nfl/news/606983/alvin-kamara-knee-listed-limited-again-thursday.php
-- **NEW — Ja'Marr Chase** — Ja'Marr Chase (knee) logs full practice Thursday (2026-09-10T20:40:22.059000Z)
+- **Ja'Marr Chase** — Ja'Marr Chase (knee) logs full practice Thursday (2026-09-10T20:40:22.059000Z)
   - As expected, Chase was able to log yet another full practice session on Thursday. He is trending towards being a full go for the season opener on Sunday, assuming there are no unforeseen setbacks between now and then. He will be a top-tier fantasy option if active in Week 1 and beyond.
   - Source: https://www.fantasypros.com/nfl/news/606986/jamarr-chase-knee-logs-full-practice-thursday.php
-- **NEW — Tee Higgins** — Tee Higgins (foot) practices in full again Thursday (2026-09-10T20:40:22.044000Z)
+- **Tee Higgins** — Tee Higgins (foot) practices in full again Thursday (2026-09-10T20:40:22.044000Z)
   - The Bengals will likely have Higgins for their season opener on Sunday, as he has been a full participant at two-straight practices to start the week. Fantasy managers should feel confident starting him if he's fully cleared to play prior to kickoff against the Buccaneers.
   - Source: https://www.fantasypros.com/nfl/news/606988/tee-higgins-foot-practices-full-again-thursday.php
-- **NEW — Ashton Jeanty** — Ashton Jeanty - Feeling 'really good' ahead of opener (2026-09-10T20:39:22Z)
+- **Ashton Jeanty** — Ashton Jeanty - Feeling 'really good' ahead of opener (2026-09-10T20:39:22Z)
   - Jeanty cleared up any concern about his availability for the opener by turning in a full practice Wednesday, two and a half weeks after he sustained what initially appeared to be a serious-looking ankle injury during an Aug. 23 training camp session. The running back practiced again Thursday, and barring any setbacks, he'll draw the Week 1 start for the Raiders. However, because of the amount of workouts Jeanty missed late in camp while recovering from the ankle injury, the Raiders could look to manage his workload to some degree in the opener and open up more reps for rookie Mike Washington, per Dan Graziano of ESPN.com.
-- **NEW — Alvin Kamara** — Alvin Kamara - Limited again Thursday (2026-09-10T20:37:20Z)
+- **Alvin Kamara** — Alvin Kamara - Limited again Thursday (2026-09-10T20:37:20Z)
   - Kamara still has a chance to suit up Week 1 as he recovers from a sprained MCL, so his participation level Friday will bear monitoring before the Saints release game designations for Sunday's matchup with the Lions. Travis Etienne is in line to lead New Orleans' backfield, while Kendre Miller could take on a change-of-pace role if Kamara doesn't play.
-- **NEW — Breece Hall** — Breece Hall (groin) logs full practice Thursday (2026-09-10T20:35:22.685000Z)
+- **Breece Hall** — Breece Hall (groin) logs full practice Thursday (2026-09-10T20:35:22.685000Z)
   - Hall has been a full participant in two-straight practices to start the week. He told reporters earlier that will be good to go for Week 1, so fantasy managers shouldn't have any real hesitations with starting him ahead of the first game of the season.
   - Source: https://www.fantasypros.com/nfl/news/606976/breece-hall-groin-logs-full-practice-thursday.php
-- **NEW — Emeka Egbuka** — Emeka Egbuka (toe) logs another full practice Thursday  (2026-09-10T20:35:22.672000Z)
+- **Emeka Egbuka** — Emeka Egbuka (toe) logs another full practice Thursday  (2026-09-10T20:35:22.672000Z)
   - Egbuka has now posted back-to-back full practices, leaving him well on track to be good to go for Week 1. He is an upside WR2 heading into the season and could be part of one of the higher-scoring games of the week on Sunday against the Bengals. 
   - Source: https://www.fantasypros.com/nfl/news/606977/emeka-egbuka-toe-logs-another-full-practice-thursday.php
-- **NEW — Jalen McMillan** — Jalen McMillan (knee) limited in practice Thursday  (2026-09-10T20:35:22.660000Z)
+- **Jalen McMillan** — Jalen McMillan (knee) limited in practice Thursday  (2026-09-10T20:35:22.660000Z)
   - McMillan has now been limited back-to-back days. He should be good to go on Sunday with another limited session on Friday. 
   - Source: https://www.fantasypros.com/nfl/news/606978/jalen-mcmillan-knee-limited-practice-thursday.php
 - **Jakobi Meyers** — Jakobi Meyers (thumb) limited again Thursday (2026-09-10T20:25:22.784000Z)
@@ -107,18 +109,22 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Allen worked with the starters for most of the preseason while Hall was sidelined by a groin injury. Hall practiced without limitations Wednesday, as did Isaiah Davis (knee), who is listed third on the team's unofficial depth chart. Allen is listed at 235 pounds and has reportedly bulked up to around 250. The 2024 fourth-round pick's large frame could help Allen command valuable goal-line and short-yardage work even while Hall is healthy.
 - **Ted Hurst** — Ted Hurst - Talked up by OC (2026-09-10T17:41:46Z)
   - Hurst is likely to begin his career in a depth role, though the rookie third-round pick out of Georgia State could see some involvement on offense out of the gate, especially if Jalen McMillan (knee) isn't cleared to face the Bengals in Week 1. McMillan practiced on a limited basis Wednesday, while Emeka Egbuka practiced fully after dealing with a recent toe injury. Egbuka and Chris Godwin figure to get most of the targets among Tampa Bay's wide receivers, though the 6-foot-3 Hurst showed the ability to stretch the field in college and may not need heavy volume to make an impact.
+- **NEW — Ashton Jeanty** — Ashton Jeanty Feels "Really Good" Ahead of Week 1 (2026-09-10T16:50:16Z)
+  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-feels-really-good-ahead-of-week-1/1927876
 - **Sam Darnold** — Sam Darnold (hip) expected to miss Week 2 (2026-09-10T16:50:04.794000Z)
   - Darnold is continuing to be further evaluated. He'll miss at least one game with a return by Week 3 seemingly being a possibility. 
   - Source: https://www.fantasypros.com/nfl/news/606941/sam-darnold-hip-expected-to-miss-week-2.php
 - **Sam Darnold** — Sam Darnold - Expected to miss at least one game (2026-09-10T16:47:54Z)
   - Darnold avoided a major injury, but he's likely to miss at least one game as a result of the hip injury he sustained in the first quarter of Wednesday's 13-10 win over the Patriots. Assuming he's ruled out for Week 2, Darnold will have 18 days of recovery time between Wednesday's win and Seattle's Week 3 road game against the Commanders. Drew Lock, who threw for 187 yards and a touchdown after replacing Darnold on Wednesday, is expected to get the Week 2 start under center.
+- **NEW — Alec Pierce** — Alec Pierce Limited Again on Thursday (2026-09-10T16:42:11Z)
+  - Source: https://www.rotoballer.com/player-news/alec-pierce-limited-again-on-thursday/1927870
 - **Breece Hall** — Breece Hall - Expected to avoid snap count (2026-09-10T16:41:54Z)
   - Hall initially received a recovery timetable of 2-to-3 weeks after sustaining a groin strain Aug. 17. Just over three weeks has passed since that date, and Hall practiced without limitations Wednesday, suggesting he has made a full recovery. Braelon Allen and Isaiah Davis, the latter of whom has been cleared to return from a knee injury sustained during training camp, could factor into the game plan as change-of-pace options, but Hall is expected to lead the Jets backfield and handle his normal workload against the Titans in Week 1.
-- **NEW — Gunnar Helm** — Gunnar Helm a Deep-League Sleeper to Target on the Waiver Wire (2026-09-10T16:37:15Z)
+- **Gunnar Helm** — Gunnar Helm a Deep-League Sleeper to Target on the Waiver Wire (2026-09-10T16:37:15Z)
   - Source: https://www.rotoballer.com/player-news/gunnar-helm-a-deep-league-sleeper-to-target-on-the-waiver-wire/1927866
 - **Sam Darnold** — Sam Darnold - Dodges bullet but could miss time (2026-09-10T16:30:07Z)
   - Team doctors are still reviewing the results of the MRI that Darnold underwent on his injury Thursday morning, but the early results suggest Darnold isn't facing a long-term absence. Drew Lock looks likely to be tabbed as the starting quarterback for the team's Week 2 road game against the Cardinals on Sept. 20. Lock threw for 187 yards and a touchdown following Darnold's first-quarter exit in Wednesday's season-opening win.
-- **NEW — James Conner** — Is James Conner Worth Stashing in Deeper Leagues? (2026-09-10T16:24:06Z)
+- **James Conner** — Is James Conner Worth Stashing in Deeper Leagues? (2026-09-10T16:24:06Z)
   - Source: https://www.rotoballer.com/player-news/is-james-conner-worth-stashing-in-deeper-leagues/1927848
 - **Jakobi Meyers** — Jakobi Meyers - Dons non-contact jersey Thursday (2026-09-10T16:22:37Z)
   - Meyers is practicing in a non-contact jersey for a second consecutive day after being listed as limited at Wednesday's practice. He'll have one more chance Friday to upgrade his participation level ahead of Sunday's season opener against the Browns. Two-way player Travis Hunter and rookie Day 3 draft picks Josh Cameron and CJ Williams would be candidates to receive playing time alongside Brian Thomas and Parker Washington if Meyers misses any game action due to his lingering thumb injury.
@@ -237,9 +243,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-pleads-no-contest-to-charges/1927596
 - **Jacoby Brissett** — Jacoby Brissett Could be a Trade Candidate at Midseason (2026-09-10T12:24:05Z)
   - Source: https://www.rotoballer.com/player-news/jacoby-brissett-could-be-a-trade-candidate-at-midseason/1927592
-- **Alvin Kamara** — Alvin Kamara Expected to Play in Week 1 (2026-09-10T12:14:05Z)
-  - Source: https://www.rotoballer.com/player-news/alvin-kamara-expected-to-play-in-week-1/1927578
-- **Pat Bryant** — Pat Bryant Could Force his Way into Bigger Role in 2026 (2026-09-10T12:06:05Z)
-  - Source: https://www.rotoballer.com/player-news/pat-bryant-could-force-his-way-into-bigger-role-in-2026/1927561
-- **Stefon Diggs** — Stefon Diggs May Not Be Slowing Down Yet (2026-09-10T11:52:07Z)
-  - Source: https://www.rotoballer.com/player-news/stefon-diggs-may-not-be-slowing-down-yet/1927551

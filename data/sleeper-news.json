@@ -1,19 +1,11 @@
 {
-  "last_checked_at": "2026-09-10T20:45:34Z",
+  "last_checked_at": "2026-09-10T20:55:46Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11618|fantasy_pros|606978|1789072522660",
-    "nfl|12502|rotoballer|220569|1789058235000",
-    "nfl|12514|fantasy_pros|606977|1789072522672",
-    "nfl|12527|rotowire|636708|1789072762000",
-    "nfl|4035|fantasy_pros|606983|1789072822104",
-    "nfl|4035|rotowire|636707|1789072640000",
-    "nfl|4137|rotoballer|220568|1789057446000",
-    "nfl|6801|fantasy_pros|606988|1789072822044",
-    "nfl|7564|fantasy_pros|606986|1789072822059",
-    "nfl|8155|fantasy_pros|606976|1789072522685",
-    "nfl|9997|rotowire|636709|1789072891000"
+    "nfl|12527|rotoballer|220571|1789059016000",
+    "nfl|13287|rotowire|636710|1789073325000",
+    "nfl|8142|rotoballer|220570|1789058531000"
   ],
   "schema_version": 1,
   "source": {
@@ -23,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Love is set to practice in some capacity Thursday after being listed as a limited participant Wednesday. The rookie third overall pick is working his way back from a high-ankle sprain sustained exactly one month before Sunday's regular-season opener against the Chargers. Once cleared for game action, Love is expected to operate in a split backfield with Tyler Allgeier.",
+      "description": "Love (ankle) is warming up ahead of Thursday's practice after being listed as a limited participant Wednesday, Dani Sureck of the Cardinals' official site reports.",
+      "metadata": {
+        "analysis": "Love is set to practice in some capacity Thursday after being listed as a limited participant Wednesday. The rookie third overall pick is working his way back from a high-ankle sprain sustained exactly one month before Sunday's regular-season opener against the Chargers. Once cleared for game action, Love is expected to operate in a split backfield with Tyler Allgeier.",
+        "description": "Love (ankle) is warming up ahead of Thursday's practice after being listed as a limited participant Wednesday, Dani Sureck of the Cardinals' official site reports.",
+        "title": "Jeremiyah Love - Warming up before practice",
+        "topic_id": "1403880603635445760"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1789073325000,
+      "source": "rotowire",
+      "source_key": "636710",
+      "story_id": "nfl|13287|rotowire|636710|1789073325000",
+      "title": "Jeremiyah Love - Warming up before practice",
+      "url": null
+    },
     {
       "analysis": "Flowers was listed as a limited participant Wednesday but upgraded to full participation Thursday, putting him on track to play in Sunday's season opener against the Colts. After leading the Ravens with 1,211 receiving yards last season, Flowers is set to reprise his role as Lamar Jackson's top target under new offensive coordinator Declan Doyle.",
       "description": "Flowers (hamstring) was a full participant at Thursday's practice.",
@@ -844,6 +856,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Las Vegas Raiders second-year running back Ashton Jeanty (ankle) said he feels \"really good\" and is \"super excited\" to play in the Week 1 season opener against the Miami Dolphins on Sunday at Allegiant Stadium, according to Ryan McFadden of ESPN. Jeanty injured his ankle in an Aug. 23 training camp practice, but he returned to a full practice on Wednesday and practiced again on Thursday, putting him on track to play against the Dolphins this weekend to kick off the 2026 season. \"I knew it wasn't anything too bad, even though I couldn't put pressure on my foot,\" Jeanty said Thursday -- his first time speaking to reporters since the injury. \"I figured it wouldn't be anything that's too long-term.\" Jeanty will be the Raiders' RB1 again this year in what is expected to be an improved offense under new head coach Klint Kubiak, but impressive rookie Mike Washington Jr. will also be involved, and he could have a bigger role than usual in Week 1 if the Raiders choose to ease Jeanty in following his ankle injury. As long as Jeanty is active for Sunday's game in Vegas, he should be locked into all starting fantasy lineups in the season opener.",
+      "metadata": {
+        "description": "Las Vegas Raiders second-year running back Ashton Jeanty (ankle) said he feels \"really good\" and is \"super excited\" to play in the Week 1 season opener against the Miami Dolphins on Sunday at Allegiant Stadium, according to Ryan McFadden of ESPN. Jeanty injured his ankle in an Aug. 23 training camp practice, but he returned to a full practice on Wednesday and practiced again on Thursday, putting him on track to play against the Dolphins this weekend to kick off the 2026 season. \"I knew it wasn't anything too bad, even though I couldn't put pressure on my foot,\" Jeanty said Thursday -- his first time speaking to reporters since the injury. \"I figured it wouldn't be anything that's too long-term.\" Jeanty will be the Raiders' RB1 again this year in what is expected to be an improved offense under new head coach Klint Kubiak, but impressive rookie Mike Washington Jr. will also be involved, and he could have a bigger role than usual in Week 1 if the Raiders choose to ease Jeanty in following his ankle injury. As long as Jeanty is active for Sunday's game in Vegas, he should be locked into all starting fantasy lineups in the season opener.",
+        "title": "Ashton Jeanty Feels \"Really Good\" Ahead of Week 1",
+        "topic_id": "1403880602263924736",
+        "url": "https://www.rotoballer.com/player-news/ashton-jeanty-feels-really-good-ahead-of-week-1/1927876"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1789059016000,
+      "source": "rotoballer",
+      "source_key": "220571",
+      "story_id": "nfl|12527|rotoballer|220571|1789059016000",
+      "title": "Ashton Jeanty Feels \"Really Good\" Ahead of Week 1",
+      "url": "https://www.rotoballer.com/player-news/ashton-jeanty-feels-really-good-ahead-of-week-1/1927876"
+    },
+    {
       "analysis": "Darnold is continuing to be further evaluated. He'll miss at least one game with a return by Week 3 seemingly being a possibility. ",
       "description": "Ian Rapoport reports that Sam Darnold is expected to miss Week 2 against the Cardinals. ",
       "metadata": {
@@ -883,6 +915,26 @@
       "story_id": "nfl|4943|rotowire|636684|1789058874000",
       "title": "Sam Darnold - Expected to miss at least one game",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Alec Pierce (heel) was limited in practice for the second straight day on Thursday as the team prepares for the Week 1 season opener on Sunday against the Baltimore Ravens, according to the team. Pierce started training camp on the Physically Unable to Perform list after having cleanup surgery on his ankle, but it is a heel injury that has him up in the air to play this weekend versus Baltimore. If Pierce can upgrade to a full practice on Friday, he should be cleared from the final injury report for Week 1. When healthy, Pierce will be a major part of Indy's passing game in 2026 after they signed him to a four-year, $114 million contract extension in March. His role should grow with Michael Pittman Jr. out of the picture, and he has already proven over the last two years that he can be a productive big-play wideout for fantasy managers. The 26-year-old has led the NFL in each of the last two years in yards per catch, and he had 1,003 receiving yards with six touchdowns in 15 games in 2025. Pierce is shaping up as a boom/bust WR4/flex in fantasy going into Week 1 if he is active against Baltimore.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Alec Pierce (heel) was limited in practice for the second straight day on Thursday as the team prepares for the Week 1 season opener on Sunday against the Baltimore Ravens, according to the team. Pierce started training camp on the Physically Unable to Perform list after having cleanup surgery on his ankle, but it is a heel injury that has him up in the air to play this weekend versus Baltimore. If Pierce can upgrade to a full practice on Friday, he should be cleared from the final injury report for Week 1. When healthy, Pierce will be a major part of Indy's passing game in 2026 after they signed him to a four-year, $114 million contract extension in March. His role should grow with Michael Pittman Jr. out of the picture, and he has already proven over the last two years that he can be a productive big-play wideout for fantasy managers. The 26-year-old has led the NFL in each of the last two years in yards per catch, and he had 1,003 receiving yards with six touchdowns in 15 games in 2025. Pierce is shaping up as a boom/bust WR4/flex in fantasy going into Week 1 if he is active against Baltimore.",
+        "title": "Alec Pierce Limited Again on Thursday",
+        "topic_id": "1403879314763587584",
+        "url": "https://www.rotoballer.com/player-news/alec-pierce-limited-again-on-thursday/1927870"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1789058531000,
+      "source": "rotoballer",
+      "source_key": "220570",
+      "story_id": "nfl|8142|rotoballer|220570|1789058531000",
+      "title": "Alec Pierce Limited Again on Thursday",
+      "url": "https://www.rotoballer.com/player-news/alec-pierce-limited-again-on-thursday/1927870"
     },
     {
       "analysis": "Hall initially received a recovery timetable of 2-to-3 weeks after sustaining a groin strain Aug. 17. Just over three weeks has passed since that date, and Hall practiced without limitations Wednesday, suggesting he has made a full recovery. Braelon Allen and Isaiah Davis, the latter of whom has been cleared to return from a knee injury sustained during training camp, could factor into the game plan as change-of-pace options, but Hall is expected to lead the Jets backfield and handle his normal workload against the Titans in Week 1.",
@@ -51606,26 +51658,6 @@
       "story_id": "nfl|13421|rotoballer|218397|1786485005000",
       "title": "Eli Raridon Continues to Take More Snaps with the First Team",
       "url": "https://www.rotoballer.com/player-news/eli-raridon-continues-to-take-more-snaps-with-first-team/1907288"
-    },
-    {
-      "analysis": "After Etienne signed a four-year, $52 million contract with New Orleans in the offseason, he was expected to take on a larger share of the backfield work over the incumbent Kamara, especially after the latter agreed to a reworked contract (one year, $6 million) to stay with the Saints in mid-July. Having said that, Kamara has handled more of the third-down work in training camp, while Etienne has taken on early downs, but with the team now listing them as co-RB1s, there may be more of an even split between the two than initially thought.",
-      "description": "Etienne and Alvin Kamara are listed as co-RB1s on the Saints' first unofficial depth chart of training camp, Mike Triplett of NewOrleans.Football reports.",
-      "metadata": {
-        "analysis": "After Etienne signed a four-year, $52 million contract with New Orleans in the offseason, he was expected to take on a larger share of the backfield work over the incumbent Kamara, especially after the latter agreed to a reworked contract (one year, $6 million) to stay with the Saints in mid-July. Having said that, Kamara has handled more of the third-down work in training camp, while Etienne has taken on early downs, but with the team now listing them as co-RB1s, there may be more of an even split between the two than initially thought.",
-        "description": "Etienne and Alvin Kamara are listed as co-RB1s on the Saints' first unofficial depth chart of training camp, Mike Triplett of NewOrleans.Football reports.",
-        "title": "Travis Etienne - Co-RB1 with Kamara on depth chart",
-        "topic_id": "1393010286776061952"
-      },
-      "nfl_team": "NO",
-      "player_id": "7543",
-      "player_name": "Travis Etienne",
-      "position": "RB",
-      "published": 1786481739000,
-      "source": "rotowire",
-      "source_key": "633247",
-      "story_id": "nfl|7543|rotowire|633247|1786481739000",
-      "title": "Travis Etienne - Co-RB1 with Kamara on depth chart",
-      "url": null
     }
   ]
 }
