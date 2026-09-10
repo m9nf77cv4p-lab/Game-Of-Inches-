@@ -2,18 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2573**
-- Newly captured: **3**
+- Stored stories: **2575**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Rashee Rice** — Rashee Rice (knee) logs full practice Thursday (2026-09-10T21:15:29.632000Z)
+- **NEW — Jalen McMillan** — Jalen McMillan - Stays limited at practice (2026-09-10T21:32:57Z)
+  - McMillan has been tending to a knee injury since early August, a scenario that sidelined him for the entire preseason slate. With back-to-back capped sessions under his belt, he still has some work to do to make himself available for Sunday's game at Cincinnati. Friday's practice report will reveal if McMillan enters the weekend with a designation ahead of that matchup.
+- **NEW — Jakobi Meyers** — Jakobi Meyers - Stays limited in practice (2026-09-10T21:25:13Z)
+  - Per Ryan O'Halloran of The Florida Times-Union, Meyers was donning a non-contact jersey for the second day in a row while aiming to protect his injured right thumb. The fact that he's practiced in some fashion during the first two days of Week 1 prep is generally a positive sign for Meyers' status heading into Sunday's game against the Browns, but he may need to turn in a full practice Friday to avoid taking a designation into the weekend.
+- **Rashee Rice** — Rashee Rice (knee) logs full practice Thursday (2026-09-10T21:15:29.632000Z)
   - As expected, Rice was able to log a full practice session on Thursday and seems to be set to play in Monday night's game against the Denver Broncos. Despite the tough matchup, he projects to be a good fantasy option in PPR leagues this week, especially with Patrick Mahomes II (knee) likely to be at the helm for Kansas City.
   - Source: https://www.fantasypros.com/nfl/news/607005/rashee-rice-knee-logs-full-practice-thursday.php
-- **NEW — Kenneth Walker** — Kenneth Walker III (foot) off injury report for Monday (2026-09-10T21:15:29.620000Z)
+- **Kenneth Walker** — Kenneth Walker III (foot) off injury report for Monday (2026-09-10T21:15:29.620000Z)
   - Walker was previously dealing with a foot injury of some kind, but he is over it now and is no longer listed on the team's injury report ahead of their Week 1 matchup against the Broncos. Fantasy managers should expect him to be highly involved on Monday night, although the tough matchup may hurt his ceiling from a fantasy perspective.
   - Source: https://www.fantasypros.com/nfl/news/607011/kenneth-walker-iii-foot-off-injury-report-monday.php
-- **NEW — Xavier Worthy** — Xavier Worthy (shoulder) listed as full participant Thursday (2026-09-10T21:15:29.608000Z)
+- **Xavier Worthy** — Xavier Worthy (shoulder) listed as full participant Thursday (2026-09-10T21:15:29.608000Z)
   - To no surprise, Worthy seems to be over his shoulder injury and was able to practice in full on Thursday. He should be a full go for Week 1 but doesn't project to be a strong fantasy option in a matchup against the Broncos.
   - Source: https://www.fantasypros.com/nfl/news/607012/xavier-worthy-shoulder-listed-full-participant-thursday.php
 - **Patrick Mahomes** — Patrick Mahomes II (knee) practices in full Thursday (2026-09-10T21:05:29.581000Z)
@@ -243,7 +247,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-will-play-on-sunday/1927652
 - **Kyler Murray** — Kyler Murray Well-Positioned for a Significant Bounce-Back (2026-09-10T13:13:07Z)
   - Source: https://www.rotoballer.com/player-news/kyler-murray-well-positioned-for-a-significant-bounce-back/1927641
-- **Christian McCaffrey** — Christian McCaffrey Healthy, Projected As Top-Three RB Option For Week 1 (2026-09-10T13:11:05Z)
-  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-healthy-projected-as-top-3-rb-option-for-week-1/1927636
-- **Jadarian Price** — Jadarian Price Quiet but Efficient in Week 1 (2026-09-10T13:07:05Z)
-  - Source: https://www.rotoballer.com/player-news/jadarian-price-quiet-but-efficient-in-week-1/1927631

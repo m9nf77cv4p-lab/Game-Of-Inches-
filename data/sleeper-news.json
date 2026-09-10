@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-10T21:23:35Z",
+  "last_checked_at": "2026-09-10T21:36:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|10229|fantasy_pros|607005|1789074929632",
-    "nfl|11624|fantasy_pros|607012|1789074929608",
-    "nfl|8151|fantasy_pros|607011|1789074929620"
+    "nfl|11618|rotowire|636714|1789075977000",
+    "nfl|5947|rotowire|636713|1789075513000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "McMillan has been tending to a knee injury since early August, a scenario that sidelined him for the entire preseason slate. With back-to-back capped sessions under his belt, he still has some work to do to make himself available for Sunday's game at Cincinnati. Friday's practice report will reveal if McMillan enters the weekend with a designation ahead of that matchup.",
+      "description": "McMillan (knee) was a limited practice participant Thursday.",
+      "metadata": {
+        "analysis": "McMillan has been tending to a knee injury since early August, a scenario that sidelined him for the entire preseason slate. With back-to-back capped sessions under his belt, he still has some work to do to make himself available for Sunday's game at Cincinnati. Friday's practice report will reveal if McMillan enters the weekend with a designation ahead of that matchup.",
+        "description": "McMillan (knee) was a limited practice participant Thursday.",
+        "title": "Jalen McMillan - Stays limited at practice",
+        "topic_id": "1403890671181369344"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1789075977000,
+      "source": "rotowire",
+      "source_key": "636714",
+      "story_id": "nfl|11618|rotowire|636714|1789075977000",
+      "title": "Jalen McMillan - Stays limited at practice",
+      "url": null
+    },
+    {
+      "analysis": "Per Ryan O'Halloran of The Florida Times-Union, Meyers was donning a non-contact jersey for the second day in a row while aiming to protect his injured right thumb. The fact that he's practiced in some fashion during the first two days of Week 1 prep is generally a positive sign for Meyers' status heading into Sunday's game against the Browns, but he may need to turn in a full practice Friday to avoid taking a designation into the weekend.",
+      "description": "Meyers (thumb) was a limited participant in Thursday's practice.",
+      "metadata": {
+        "analysis": "Per Ryan O'Halloran of The Florida Times-Union, Meyers was donning a non-contact jersey for the second day in a row while aiming to protect his injured right thumb. The fact that he's practiced in some fashion during the first two days of Week 1 prep is generally a positive sign for Meyers' status heading into Sunday's game against the Browns, but he may need to turn in a full practice Friday to avoid taking a designation into the weekend.",
+        "description": "Meyers (thumb) was a limited participant in Thursday's practice.",
+        "title": "Jakobi Meyers - Stays limited in practice",
+        "topic_id": "1403889412906991616"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1789075513000,
+      "source": "rotowire",
+      "source_key": "636713",
+      "story_id": "nfl|5947|rotowire|636713|1789075513000",
+      "title": "Jakobi Meyers - Stays limited in practice",
+      "url": null
+    },
     {
       "analysis": "As expected, Rice was able to log a full practice session on Thursday and seems to be set to play in Monday night's game against the Denver Broncos. Despite the tough matchup, he projects to be a good fantasy option in PPR leagues this week, especially with Patrick Mahomes II (knee) likely to be at the helm for Kansas City.",
       "description": "Rashee Rice (knee) logged a full practice session on Thursday.",
