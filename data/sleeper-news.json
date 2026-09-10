@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T23:01:13Z",
+  "last_checked_at": "2026-09-10T23:15:51Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|12533|rotoballer|220579|1789065858000",
-    "nfl|13287|rotowire|636723|1789080997000"
+    "nfl|13287|rotoballer|220582|1789067345000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,10 +14,10 @@
   },
   "stories": [
     {
-      "analysis": "Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.",
+      "analysis": "Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities going from full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.",
       "description": "Love (ankle) remained a limited practice participant Thursday, Bo Brack of GoPHNX.com reports.",
       "metadata": {
-        "analysis": "Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.",
+        "analysis": "Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities going from full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.",
         "description": "Love (ankle) remained a limited practice participant Thursday, Bo Brack of GoPHNX.com reports.",
         "title": "Jeremiyah Love - Stays limited at practice",
         "topic_id": "1403912064266694656"
@@ -875,6 +874,26 @@
       "url": "https://www.fantasypros.com/nfl/news/606962/rome-odunze-calf-limited-again-thursday.php"
     },
     {
+      "analysis": null,
+      "description": "Arizona Cardinals rookie first-round running back Jeremiyah Love (ankle) was listed as limited in the team's practice on Thursday for the second straight day with a high-ankle sprain that he suffered early in the preseason, according to Bo Brack of PHNX Sports. Love, the third overall pick in April's draft out of Notre Dame, has been making progress, but he might need to upgrade to a full practice on Friday to avoid a questionable tag going into the Week 1 regular-season opener on Sunday against the Los Angeles Chargers. If Love is cleared to take on the Bolts in what will be his NFL debut, he could take a back seat in Arizona's backfield to Tyler Allgeier, which will make him a volatile play for fantasy managers. For now, you should consider Love as a low-end RB2 option this weekend if he is cleared to play. He has clear three-down upside and the potential to be one of the best all-around RBs in the NFL, but it might take a bit to get there. The Cardinals are not going to force volume on him early on after adding Allgeier in free agency.",
+      "metadata": {
+        "description": "Arizona Cardinals rookie first-round running back Jeremiyah Love (ankle) was listed as limited in the team's practice on Thursday for the second straight day with a high-ankle sprain that he suffered early in the preseason, according to Bo Brack of PHNX Sports. Love, the third overall pick in April's draft out of Notre Dame, has been making progress, but he might need to upgrade to a full practice on Friday to avoid a questionable tag going into the Week 1 regular-season opener on Sunday against the Los Angeles Chargers. If Love is cleared to take on the Bolts in what will be his NFL debut, he could take a back seat in Arizona's backfield to Tyler Allgeier, which will make him a volatile play for fantasy managers. For now, you should consider Love as a low-end RB2 option this weekend if he is cleared to play. He has clear three-down upside and the potential to be one of the best all-around RBs in the NFL, but it might take a bit to get there. The Cardinals are not going to force volume on him early on after adding Allgeier in free agency.",
+        "title": "Jeremiyah Love Limited Again on Thursday",
+        "topic_id": "1403915837865304064",
+        "url": "https://www.rotoballer.com/player-news/jeremiyah-love-limited-again-on-thursday/1927942"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1789067345000,
+      "source": "rotoballer",
+      "source_key": "220582",
+      "story_id": "nfl|13287|rotoballer|220582|1789067345000",
+      "title": "Jeremiyah Love Limited Again on Thursday",
+      "url": "https://www.rotoballer.com/player-news/jeremiyah-love-limited-again-on-thursday/1927942"
+    },
+    {
       "analysis": "Kupp turned the tide with a spectacular one-handed grab for 24 yards in the third quarter while the Seahawks trailed 10-0. He thought he had a seven-yard touchdown three plays later, but the scoring play was nullified by an illegal shift penalty. Seattle would settle for a field goal to kickstart a 13-0 run to end the game. Kupp finished a distant second in receiving yards behind Jaxon Smith-Njigba's 122, which could be a preview of the team's pecking order in the passing game all season. Sam Darnold (hip) exited in the first quarter of Wednesday's win, and Drew Lock is likely to be Seattle's starting QB in Week 2 against the Cardinals while Darnold's on the mend.",
       "description": "Kupp caught two of three targets for 35 yards in Wednesday's 13-10 win over the Patriots.",
       "metadata": {
@@ -917,9 +936,9 @@
     },
     {
       "analysis": null,
-      "description": "Washington Commanders second-year running back Jacory Croskey-Merritt (groin) was limited in practice on Thursday for the second straight day as the team continues to prepare for the Week 1 season opener on Sunday against the division-rival Philadelphia Eagles. Croskey-Merritt could end up questionable for the season opener due to a groin injury he picked up in practice on Aug. 22 if he does not upgrade to a full practice on Friday. If JCM is limited or out, it would be a big upgrade for Rachaad White as the Commanders' lead back in his debut with the team this weekend. The 25-year-old Croskey-Merritt was a seventh-round pick out of Arizona last year, but he impressed by leading Washington with 805 carries and eight rushing touchdowns on 175 rushing attempts, adding nine catches for 68 yards through the air in 17 games. The Commanders like him as their primary early-down back, but White will steal plenty of pass-game work, leaving JCM as primarily an RB3/flex option with upside for fantasy managers in Year 2. Check back for his official Week 1 status on Friday.",
+      "description": "Washington Commanders second-year running back Jacory Croskey-Merritt (groin) was limited in practice on Thursday for the second straight day as the team continues to prepare for the Week 1 season opener on Sunday against the division-rival Philadelphia Eagles. Croskey-Merritt could end up questionable for the season opener due to a groin injury he picked up in practice on Aug. 22 if he does not upgrade to a full practice on Friday. If JCM is limited or out, it would be a big upgrade for Rachaad White as the Commanders' lead back in his debut with the team this weekend. The 25-year-old Croskey-Merritt was a seventh-round pick out of Arizona last year, but he impressed by leading Washington with 805 yards and eight rushing touchdowns on 175 rushing attempts, adding nine catches for 68 yards through the air in 17 games. The Commanders like him as their primary early-down back, but White will steal plenty of pass-game work, leaving JCM as primarily an RB3/flex option with upside for fantasy managers in Year 2. Check back for his official Week 1 status on Friday.",
       "metadata": {
-        "description": "Washington Commanders second-year running back Jacory Croskey-Merritt (groin) was limited in practice on Thursday for the second straight day as the team continues to prepare for the Week 1 season opener on Sunday against the division-rival Philadelphia Eagles. Croskey-Merritt could end up questionable for the season opener due to a groin injury he picked up in practice on Aug. 22 if he does not upgrade to a full practice on Friday. If JCM is limited or out, it would be a big upgrade for Rachaad White as the Commanders' lead back in his debut with the team this weekend. The 25-year-old Croskey-Merritt was a seventh-round pick out of Arizona last year, but he impressed by leading Washington with 805 carries and eight rushing touchdowns on 175 rushing attempts, adding nine catches for 68 yards through the air in 17 games. The Commanders like him as their primary early-down back, but White will steal plenty of pass-game work, leaving JCM as primarily an RB3/flex option with upside for fantasy managers in Year 2. Check back for his official Week 1 status on Friday.",
+        "description": "Washington Commanders second-year running back Jacory Croskey-Merritt (groin) was limited in practice on Thursday for the second straight day as the team continues to prepare for the Week 1 season opener on Sunday against the division-rival Philadelphia Eagles. Croskey-Merritt could end up questionable for the season opener due to a groin injury he picked up in practice on Aug. 22 if he does not upgrade to a full practice on Friday. If JCM is limited or out, it would be a big upgrade for Rachaad White as the Commanders' lead back in his debut with the team this weekend. The 25-year-old Croskey-Merritt was a seventh-round pick out of Arizona last year, but he impressed by leading Washington with 805 yards and eight rushing touchdowns on 175 rushing attempts, adding nine catches for 68 yards through the air in 17 games. The Commanders like him as their primary early-down back, but White will steal plenty of pass-game work, leaving JCM as primarily an RB3/flex option with upside for fantasy managers in Year 2. Check back for his official Week 1 status on Friday.",
         "title": "Jacory Croskey-Merritt Remains Limited in Practice",
         "topic_id": "1403910803316281344",
         "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-remains-limited-in-practice/1927926"

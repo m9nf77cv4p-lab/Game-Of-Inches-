@@ -2,13 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2584**
-- Newly captured: **2**
+- Stored stories: **2585**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Jeremiyah Love** — Jeremiyah Love - Stays limited at practice (2026-09-10T22:56:37Z)
-  - Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.
+- **Jeremiyah Love** — Jeremiyah Love - Stays limited at practice (2026-09-10T22:56:37Z)
+  - Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities going from full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.
 - **Tua Tagovailoa** — Tua Tagovailoa - Suffers oblique strain (2026-09-10T22:41:20Z)
   - Tagovailoa went to the ground during individual drills Thursday and then grabbed at his back after getting to his feet. Subsequently, he missed the rest of the session while reserve QB Cooper Rush handled all the reps with the first-team offense. Tagovailoa officially was a limited participant in the Falcons' second practice of Week 1 prep, and the potential now exists for him to join Michael Penix (knee) in street clothes this weekend. The team may make a decision on Tagovailoa's status as soon as Friday's injury report, and if he's ruled out, Rush would be in line to direct Atlanta's offense Sunday at Pittsburgh.
 - **Tua Tagovailoa** — Tua Tagovailoa (oblique) day-to-day, uncertain for Sunday (2026-09-10T22:40:29.734000Z)
@@ -111,12 +111,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Rome Odunze** — Rome Odunze (calf) limited again Thursday (2026-09-10T19:30:21.874000Z)
   - Odunze was limited for a second-straight practice on Thursday as he continues to recover from a lingering calf injury. It's uncertain whether or not he will play in Week 1, but if he is ruled out, fantasy managers should expect more work for Luther Burden III and Zavion Thomas against the Panthers.
   - Source: https://www.fantasypros.com/nfl/news/606962/rome-odunze-calf-limited-again-thursday.php
+- **NEW — Jeremiyah Love** — Jeremiyah Love Limited Again on Thursday (2026-09-10T19:09:05Z)
+  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-limited-again-on-thursday/1927942
 - **Cooper Kupp** — Cooper Kupp - Has TD nullified after nice 24-yard catch (2026-09-10T19:01:13Z)
   - Kupp turned the tide with a spectacular one-handed grab for 24 yards in the third quarter while the Seahawks trailed 10-0. He thought he had a seven-yard touchdown three plays later, but the scoring play was nullified by an illegal shift penalty. Seattle would settle for a field goal to kickstart a 13-0 run to end the game. Kupp finished a distant second in receiving yards behind Jaxon Smith-Njigba's 122, which could be a preview of the team's pecking order in the passing game all season. Sam Darnold (hip) exited in the first quarter of Wednesday's win, and Drew Lock is likely to be Seattle's starting QB in Week 2 against the Cardinals while Darnold's on the mend.
 - **Breece Hall** — Breece Hall (groin) says he is good to go Week 1 (2026-09-10T19:00:22.081000Z)
   - Hall recently missed a couple of weeks with a strained groin. He added he feels fresh from the time off. He'll be an RB2 for fantasy managers heading into the season. 
   - Source: https://www.fantasypros.com/nfl/news/606953/breece-hall-groin-says-he-is-good-to-go-week-1.php
-- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt Remains Limited in Practice (2026-09-10T18:44:18Z)
+- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Remains Limited in Practice (2026-09-10T18:44:18Z)
   - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-remains-limited-in-practice/1927926
 - **Keaton Mitchell** — Keaton Mitchell Stays Limited on Thursday (2026-09-10T18:38:06Z)
   - Source: https://www.rotoballer.com/player-news/keaton-mitchell-stays-limited-on-thursday/1927921
@@ -245,5 +247,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-continues-to-ascend-in-bucs-offense/1927740
 - **Chris Godwin** — Chris Godwin Jr. Receives Praise From his QB (2026-09-10T14:19:05Z)
   - Source: https://www.rotoballer.com/player-news/chris-godwin-jr-receives-praise-from-his-qb/1927737
-- **Josh Jacobs** — Josh Jacobs Remains on Commissioner's Exempt List (2026-09-10T14:14:06Z)
-  - Source: https://www.rotoballer.com/player-news/josh-jacobs-remains-on-commissioners-exempt-list/1927731
