@@ -1,12 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T14:21:53Z",
+  "last_checked_at": "2026-09-10T14:37:32Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|4217|rotoballer|220514|1789035245000",
-    "nfl|5859|fantasy_pros|606907|1789049110573",
-    "nfl|5859|rotoballer|220513|1789034645000",
-    "nfl|5859|rotowire|636678|1789049085000"
+    "nfl|11604|rotoballer|220515|1789035906000"
   ],
   "schema_version": 1,
   "source": {
@@ -38,10 +35,10 @@
       "url": "https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php"
     },
     {
-      "analysis": "In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before exiting in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.",
+      "analysis": "In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before departing in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.",
       "description": "Brown received a preliminary diagnosis of a right high-ankle sprain after exiting Wednesday's 13-10 loss to the Seahawks, Ian Rapoport and Mike Garafolo of NFL Network report.",
       "metadata": {
-        "analysis": "In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before exiting in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.",
+        "analysis": "In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before departing in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.",
         "description": "Brown received a preliminary diagnosis of a right high-ankle sprain after exiting Wednesday's 13-10 loss to the Seahawks, Ian Rapoport and Mike Garafolo of NFL Network report.",
         "title": "A.J. Brown - Believed to have high-ankle sprain",
         "topic_id": "1403777318006083584"
@@ -80,9 +77,29 @@
     },
     {
       "analysis": null,
-      "description": "San Francisco 49ers tight end George Kittle tore his right Achilles in January and has worked his way back to being available for Week 1 against the Los Angeles Rams. However NFL Network Insider Ian Rapoport reports that the talented tight end will be on a \"pitch count to start but a pretty dramatic return for one of the NFL's best tight ends. George Kittle is back\". Kittle played in 11 games in 2025 and recorded 57 receptions for 628 yards and seven touchdowns. He averaged 11.0 yards per reception and 57.1 yards per game. Even at age 32, Kittle is still one of the best tight end bets for fantasy. Returning from an Achillies tear as quickly as he did at that advanced age is a bit concerning, but if anyone can do it, it would be Kilttle. Look for a bit of a slow start to the season as he adjusts back to playing but he still should be a top-tier tight end.",
+      "description": "Las Vegas Raiders star tight end Brock Bowers reportedly had a mensiscus trim surgery done in Dallas and according to NFL Network Insider Ian Rapoport he could miss Week 2. \"Out the opener, probably out week 2 and then we will see after that,\" Rapoport said on Good Morning Football. Rapoport did note that the fact that it was a meniscus trim rather than a meniscus repair is a promising sign as he says the trim surgeries are measured in weeks rather than months for meniscus repairs. Bowers is an elite tight end so his fantasy managers don't want to hear the news of his absence. But if he can keep it at just a two-week absence it will be manageable and will avoid potential disaster. But now it does sound like Bowers is unlikely for Week 2 as well.",
       "metadata": {
-        "description": "San Francisco 49ers tight end George Kittle tore his right Achilles in January and has worked his way back to being available for Week 1 against the Los Angeles Rams. However NFL Network Insider Ian Rapoport reports that the talented tight end will be on a \"pitch count to start but a pretty dramatic return for one of the NFL's best tight ends. George Kittle is back\". Kittle played in 11 games in 2025 and recorded 57 receptions for 628 yards and seven touchdowns. He averaged 11.0 yards per reception and 57.1 yards per game. Even at age 32, Kittle is still one of the best tight end bets for fantasy. Returning from an Achillies tear as quickly as he did at that advanced age is a bit concerning, but if anyone can do it, it would be Kilttle. Look for a bit of a slow start to the season as he adjusts back to playing but he still should be a top-tier tight end.",
+        "description": "Las Vegas Raiders star tight end Brock Bowers reportedly had a mensiscus trim surgery done in Dallas and according to NFL Network Insider Ian Rapoport he could miss Week 2. \"Out the opener, probably out week 2 and then we will see after that,\" Rapoport said on Good Morning Football. Rapoport did note that the fact that it was a meniscus trim rather than a meniscus repair is a promising sign as he says the trim surgeries are measured in weeks rather than months for meniscus repairs. Bowers is an elite tight end so his fantasy managers don't want to hear the news of his absence. But if he can keep it at just a two-week absence it will be manageable and will avoid potential disaster. But now it does sound like Bowers is unlikely for Week 2 as well.",
+        "title": "Brock Bowers Likely Out For Week 2 As Well",
+        "topic_id": "1403783608128241664",
+        "url": "https://www.rotoballer.com/player-news/brock-bowers-likely-out-for-week-2-as-well/1927470"
+      },
+      "nfl_team": "LV",
+      "player_id": "11604",
+      "player_name": "Brock Bowers",
+      "position": "TE",
+      "published": 1789035906000,
+      "source": "rotoballer",
+      "source_key": "220515",
+      "story_id": "nfl|11604|rotoballer|220515|1789035906000",
+      "title": "Brock Bowers Likely Out For Week 2 As Well",
+      "url": "https://www.rotoballer.com/player-news/brock-bowers-likely-out-for-week-2-as-well/1927470"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers tight end George Kittle tore his right Achilles in January and has worked his way back to being available for Week 1 against the Los Angeles Rams. However, NFL Network Insider Ian Rapoport reports that the talented tight end will be on a \"pitch count to start, but a pretty dramatic return for one of the NFL's best tight ends. George Kittle is back.\" Kittle played in 11 games in 2025 and recorded 57 receptions for 628 yards and seven touchdowns. He averaged 11.0 yards per reception and 57.1 yards per game. Even at age 32, Kittle is still one of the best tight end bets for fantasy. Returning from an Achilles tear as quickly as he did at that advanced age is a bit concerning, but if anyone can do it, it would be Kittle. Look for a bit of a slow start to the season as he adjusts back to playing, but he still should be a top-tier tight end.",
+      "metadata": {
+        "description": "San Francisco 49ers tight end George Kittle tore his right Achilles in January and has worked his way back to being available for Week 1 against the Los Angeles Rams. However, NFL Network Insider Ian Rapoport reports that the talented tight end will be on a \"pitch count to start, but a pretty dramatic return for one of the NFL's best tight ends. George Kittle is back.\" Kittle played in 11 games in 2025 and recorded 57 receptions for 628 yards and seven touchdowns. He averaged 11.0 yards per reception and 57.1 yards per game. Even at age 32, Kittle is still one of the best tight end bets for fantasy. Returning from an Achilles tear as quickly as he did at that advanced age is a bit concerning, but if anyone can do it, it would be Kittle. Look for a bit of a slow start to the season as he adjusts back to playing, but he still should be a top-tier tight end.",
         "title": "George Kittle Will Be On \"Pitch Count\" During Season Opener",
         "topic_id": "1403781090522497024",
         "url": "https://www.rotoballer.com/player-news/george-kittle-will-be-on-pitch-count-during-season-opener/1927462"
