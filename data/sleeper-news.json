@@ -1,9 +1,15 @@
 {
-  "last_checked_at": "2026-09-10T15:04:18Z",
+  "last_checked_at": "2026-09-10T15:22:39Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13305|rotowire|636679|1789051755000"
+    "nfl|11564|fantasy_pros|606908|1789052704561",
+    "nfl|3214|fantasy_pros|606911|1789053304918",
+    "nfl|7611|fantasy_pros|606909|1789052704548",
+    "nfl|8121|fantasy_pros|606910|1789053304932",
+    "nfl|8131|rotoballer|220518|1789037949000",
+    "nfl|9484|rotoballer|220519|1789038798000",
+    "nfl|9501|fantasy_pros|606912|1789053304905"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +19,111 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Doubs did not get off to a good start with his new team on Wednesday night. He failed to haul in even a single catch against a tough Seattle defense, and he had a costly drop on a very important play late in the game. He should bounce back in the near future and may be a worthwhile fantasy option short-term with A.J. Brown (ankle) expected to miss a bit of time due to injury.",
+      "description": "Romeo Doubs didn't haul in any of his three targets in Wednesday night's 10-13 loss to the Seattle Seahawks.",
+      "metadata": {
+        "analysis": "Doubs did not get off to a good start with his new team on Wednesday night. He failed to haul in even a single catch against a tough Seattle defense, and he had a costly drop on a very important play late in the game. He should bounce back in the near future and may be a worthwhile fantasy option short-term with A.J. Brown (ankle) expected to miss a bit of time due to injury.",
+        "description": "Romeo Doubs didn't haul in any of his three targets in Wednesday night's 10-13 loss to the Seattle Seahawks.",
+        "title": "Romeo Doubs fails to log catch Wednesday",
+        "topic_id": "1403794942853148672",
+        "url": "https://www.fantasypros.com/nfl/news/606910/romeo-doubs-fails-to-log-catch-wednesday.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "8121",
+      "player_name": "Romeo Doubs",
+      "position": "WR",
+      "published": 1789053304932,
+      "source": "fantasy_pros",
+      "source_key": "606910",
+      "story_id": "nfl|8121|fantasy_pros|606910|1789053304932",
+      "title": "Romeo Doubs fails to log catch Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606910/romeo-doubs-fails-to-log-catch-wednesday.php"
+    },
+    {
+      "analysis": "New England's offense wasn't very effective on Wednesday night, and Henry was no exception to that. He totaled just 26 scoreless yards against the Seahawks, which left him with a poor fantasy total. His value as a streaming option may be diminished this year with Eli Raridon seemingly primed to be more involved at the tight end position for the Patriots.",
+      "description": "Hunter Henry caught three passes for 26 yards in Wednesday's 13-10 loss to the Seattle Seahawks.",
+      "metadata": {
+        "analysis": "New England's offense wasn't very effective on Wednesday night, and Henry was no exception to that. He totaled just 26 scoreless yards against the Seahawks, which left him with a poor fantasy total. His value as a streaming option may be diminished this year with Eli Raridon seemingly primed to be more involved at the tight end position for the Patriots.",
+        "description": "Hunter Henry caught three passes for 26 yards in Wednesday's 13-10 loss to the Seattle Seahawks.",
+        "title": "Hunter Henry hauls in three passes Wednesday",
+        "topic_id": "1403794942798622720",
+        "url": "https://www.fantasypros.com/nfl/news/606911/hunter-henry-hauls-three-passes-wednesday.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "3214",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "published": 1789053304918,
+      "source": "fantasy_pros",
+      "source_key": "606911",
+      "story_id": "nfl|3214|fantasy_pros|606911|1789053304918",
+      "title": "Hunter Henry hauls in three passes Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606911/hunter-henry-hauls-three-passes-wednesday.php"
+    },
+    {
+      "analysis": "Douglas was the most targeted receiver for New England last night, but he wasn't able to turn that into any fantasy success. He ended with just 20 yards on five catches, but he may continue to see high opportunities for the foreseeable future with A.J. Brown (ankle) set to miss some time for the team.",
+      "description": "DeMario Douglas caught 5-of-7 targets for 20 yards in Wednesday's 13-10 loss to the Seattle Seahawks.",
+      "metadata": {
+        "analysis": "Douglas was the most targeted receiver for New England last night, but he wasn't able to turn that into any fantasy success. He ended with just 20 yards on five catches, but he may continue to see high opportunities for the foreseeable future with A.J. Brown (ankle) set to miss some time for the team.",
+        "description": "DeMario Douglas caught 5-of-7 targets for 20 yards in Wednesday's 13-10 loss to the Seattle Seahawks.",
+        "title": "DeMario Douglas catches five passes Wednesday",
+        "topic_id": "1403794942723125248",
+        "url": "https://www.fantasypros.com/nfl/news/606912/demario-douglas-catches-five-passes-wednesday.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "9501",
+      "player_name": "DeMario Douglas",
+      "position": "WR",
+      "published": 1789053304905,
+      "source": "fantasy_pros",
+      "source_key": "606912",
+      "story_id": "nfl|9501|fantasy_pros|606912|1789053304905",
+      "title": "DeMario Douglas catches five passes Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606912/demario-douglas-catches-five-passes-wednesday.php"
+    },
+    {
+      "analysis": "Maye started the season on the wrong foot on Wednesday night. He threw for under 200 yards and three interceptions against a tough Seattle defense, including one that cost the Patriots the game. He still showed lots of ability on the ground, however, and he's likely to return to being a good fantasy option against easier defenses. The loss of A.J. Brown (ankle) for at least a few games will severely hamper his short-term upside, however.",
+      "description": "Drake Maye completed 23-of-33 passing attempts for 178 yards, one touchdown, and three interceptions while adding 47 yards on the ground in Wednesday night's 13-10 loss to the Seattle Seahawks.",
+      "metadata": {
+        "analysis": "Maye started the season on the wrong foot on Wednesday night. He threw for under 200 yards and three interceptions against a tough Seattle defense, including one that cost the Patriots the game. He still showed lots of ability on the ground, however, and he's likely to return to being a good fantasy option against easier defenses. The loss of A.J. Brown (ankle) for at least a few games will severely hamper his short-term upside, however.",
+        "description": "Drake Maye completed 23-of-33 passing attempts for 178 yards, one touchdown, and three interceptions while adding 47 yards on the ground in Wednesday night's 13-10 loss to the Seattle Seahawks.",
+        "title": "Drake Maye throws three interceptions in loss Wednesday",
+        "topic_id": "1403792424718880768",
+        "url": "https://www.fantasypros.com/nfl/news/606908/drake-maye-throws-three-interceptions-loss-wednesday.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "11564",
+      "player_name": "Drake Maye",
+      "position": "QB",
+      "published": 1789052704561,
+      "source": "fantasy_pros",
+      "source_key": "606908",
+      "story_id": "nfl|11564|fantasy_pros|606908|1789052704561",
+      "title": "Drake Maye throws three interceptions in loss Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606908/drake-maye-throws-three-interceptions-loss-wednesday.php"
+    },
+    {
+      "analysis": "Stevenson was New England's workhorse running back on Wednesday night with TreVeyon Henderson (ankle) out of the lineup. He ran at an inefficient clip of 2.8 yards per carry on the night, but his fantasy total was saved by the fact that he caught five passes. He will be more efficient than this in the future but will lose passing work to Henderson when he's back, so he will likely continue to be touchdown dependent on a week-to-week basis.",
+      "description": "Rhamondre Stevenson rushed the ball 18 times for 51 yards and caught five passes for 44 yards in Wednesday night's 13-10 loss to the Seattle Seahawks.",
+      "metadata": {
+        "analysis": "Stevenson was New England's workhorse running back on Wednesday night with TreVeyon Henderson (ankle) out of the lineup. He ran at an inefficient clip of 2.8 yards per carry on the night, but his fantasy total was saved by the fact that he caught five passes. He will be more efficient than this in the future but will lose passing work to Henderson when he's back, so he will likely continue to be touchdown dependent on a week-to-week basis.",
+        "description": "Rhamondre Stevenson rushed the ball 18 times for 51 yards and caught five passes for 44 yards in Wednesday night's 13-10 loss to the Seattle Seahawks.",
+        "title": "Rhamondre Stevenson totals 95 yards Wednesday",
+        "topic_id": "1403792424660160512",
+        "url": "https://www.fantasypros.com/nfl/news/606909/rhamondre-stevenson-totals-95-yards-wednesday.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "7611",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "published": 1789052704548,
+      "source": "fantasy_pros",
+      "source_key": "606909",
+      "story_id": "nfl|7611|fantasy_pros|606909|1789052704548",
+      "title": "Rhamondre Stevenson totals 95 yards Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606909/rhamondre-stevenson-totals-95-yards-wednesday.php"
+    },
     {
       "analysis": "Washington impressed the Raiders' coaching staff in the preseason, during which the rookie fourth-round pick rushed for 168 yards on 23 carries across three games, averaging a robust 7.3 yards per carry. Jeanty has returned to full practice participation in the week leading up to Sunday's regular-season opener against the Dolphins, but the 2025 first-round pick missed a chunk of practice time due to the ankle injury he suffered Aug. 23. With Jeanty still shaking off the cobwebs, Washington is primed for some added opportunities in his regular-season debut as the Raiders face the Dolphins in a battle between two teams expected to finish near the bottom of the standings this season.",
       "description": "Washington could still play a sizable role in Week 1 against the Dolphins, even with Ashton Jeanty (ankle) expected to suit up, Dan Graziano of ESPN.com reports.",
@@ -94,6 +205,46 @@
       "story_id": "nfl|4217|fantasy_pros|606900|1789040703411",
       "title": "George Kittle off injury report, active for Thursday",
       "url": "https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers tight end Tucker Kraft remains in contract talks with the team, and the next deal at the position could be a big one. ESPN's Jeremy Fowler reports that Green Bay hopes to get something done by the end of Week 1, with Kraft in position to become the first tight end to reach $20 million per year. George Kittle currently tops the market at $19.1 million annually, just ahead of Trey McBride at $19 million. Kraft is entering the final year of his rookie contract after catching 32 passes for 489 yards and six touchdowns in eight games last season before tearing his ACL against Carolina. He returned from the PUP list on July 31 and worked back into 11-on-11 drills in August. If the two sides can close the gap, Kraft's deal could be the one that finally pushes the tight-end market past $20 million.",
+      "metadata": {
+        "description": "Green Bay Packers tight end Tucker Kraft remains in contract talks with the team, and the next deal at the position could be a big one. ESPN's Jeremy Fowler reports that Green Bay hopes to get something done by the end of Week 1, with Kraft in position to become the first tight end to reach $20 million per year. George Kittle currently tops the market at $19.1 million annually, just ahead of Trey McBride at $19 million. Kraft is entering the final year of his rookie contract after catching 32 passes for 489 yards and six touchdowns in eight games last season before tearing his ACL against Carolina. He returned from the PUP list on July 31 and worked back into 11-on-11 drills in August. If the two sides can close the gap, Kraft's deal could be the one that finally pushes the tight-end market past $20 million.",
+        "title": "Tucker Kraft Contract Talks Could Reset Tight End Market",
+        "topic_id": "1403796193145847808",
+        "url": "https://www.rotoballer.com/player-news/tucker-kraft-contract-talks-could-reset-tight-end-market/1927509"
+      },
+      "nfl_team": "GB",
+      "player_id": "9484",
+      "player_name": "Tucker Kraft",
+      "position": "TE",
+      "published": 1789038798000,
+      "source": "rotoballer",
+      "source_key": "220519",
+      "story_id": "nfl|9484|rotoballer|220519|1789038798000",
+      "title": "Tucker Kraft Contract Talks Could Reset Tight End Market",
+      "url": "https://www.rotoballer.com/player-news/tucker-kraft-contract-talks-could-reset-tight-end-market/1927509"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants tight end Isaiah Likely is creating some real buzz in the fantasy community mostly because he is no longer blocked for playing time behind Mark Andrews for the Baltimore Ravens. He has been impressive in training camp and there is a real belief among many who follow the team that he emerges as the No. 2 target behind Malik Nabers on the outside for the Giants. Adam Bernstein of GMENHQ, a Giants blog, wrote this about Likely: \"Given the state of New York's receiver room, there's a real chance he functions as Dart's No. 2 receiving option behind Malik Nabers.\" Likeley played in 14 games last year with the Baltimore Ravens and caught 27 passes for 307 yards and a touchdown playing most of the season behind Andrews on the depth chart. This is an opportunity for a breakout season for Likely in an expanded role.",
+      "metadata": {
+        "description": "New York Giants tight end Isaiah Likely is creating some real buzz in the fantasy community mostly because he is no longer blocked for playing time behind Mark Andrews for the Baltimore Ravens. He has been impressive in training camp and there is a real belief among many who follow the team that he emerges as the No. 2 target behind Malik Nabers on the outside for the Giants. Adam Bernstein of GMENHQ, a Giants blog, wrote this about Likely: \"Given the state of New York's receiver room, there's a real chance he functions as Dart's No. 2 receiving option behind Malik Nabers.\" Likeley played in 14 games last year with the Baltimore Ravens and caught 27 passes for 307 yards and a touchdown playing most of the season behind Andrews on the depth chart. This is an opportunity for a breakout season for Likely in an expanded role.",
+        "title": "Isaiah Likely Could Hit The Ground Running This Season",
+        "topic_id": "1403793675464519680",
+        "url": "https://www.rotoballer.com/player-news/isaiah-likely-could-hit-the-ground-running-this-season/1927495"
+      },
+      "nfl_team": "NYG",
+      "player_id": "8131",
+      "player_name": "Isaiah Likely",
+      "position": "TE",
+      "published": 1789037949000,
+      "source": "rotoballer",
+      "source_key": "220518",
+      "story_id": "nfl|8131|rotoballer|220518|1789037949000",
+      "title": "Isaiah Likely Could Hit The Ground Running This Season",
+      "url": "https://www.rotoballer.com/player-news/isaiah-likely-could-hit-the-ground-running-this-season/1927495"
     },
     {
       "analysis": null,
@@ -49683,26 +49834,6 @@
       "story_id": "nfl|7564|rotowire|633206|1786462998000",
       "title": "Ja'Marr Chase - Expected to play Thursday",
       "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Jacksonville Jaguars running backs Bhayshul Tuten and Chris Rodriguez Jr. are listed as co-starters on the team's first unofficial depth chart, according to Ryan O'Halloran. The designation fits a competition that has stayed open through camp rather than a backfield Tuten has already claimed. Tuten scored seven total touchdowns as a rookie, rushing 83 times for 307 yards and five scores while adding two receiving touchdowns. Rodriguez comes over from Washington after the best season of his career, when he ran for 500 yards and six touchdowns on 112 carries in 13 games. He also worked his way back into team drills after offseason left-foot surgery and has produced chunk runs in camp. An unofficial August depth chart is not a promise of how the carries will be divided once the season starts, but this is still meaningful for Tuten's outlook. He may eventually separate, but Jacksonville is not treating Rodriguez like a distant backup right now.",
-      "metadata": {
-        "description": "Jacksonville Jaguars running backs Bhayshul Tuten and Chris Rodriguez Jr. are listed as co-starters on the team's first unofficial depth chart, according to Ryan O'Halloran. The designation fits a competition that has stayed open through camp rather than a backfield Tuten has already claimed. Tuten scored seven total touchdowns as a rookie, rushing 83 times for 307 yards and five scores while adding two receiving touchdowns. Rodriguez comes over from Washington after the best season of his career, when he ran for 500 yards and six touchdowns on 112 carries in 13 games. He also worked his way back into team drills after offseason left-foot surgery and has produced chunk runs in camp. An unofficial August depth chart is not a promise of how the carries will be divided once the season starts, but this is still meaningful for Tuten's outlook. He may eventually separate, but Jacksonville is not treating Rodriguez like a distant backup right now.",
-        "title": "Bhayshul Tuten, Chris Rodriguez Jr. Listed as Co-Starters",
-        "topic_id": "1392983855731863552",
-        "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-chris-rodriguez-jr-listed-as-co-starters/1907132"
-      },
-      "nfl_team": "JAX",
-      "player_id": "10219",
-      "player_name": "Chris Rodriguez",
-      "position": "RB",
-      "published": 1786460827000,
-      "source": "rotoballer",
-      "source_key": "218383",
-      "story_id": "nfl|10219|rotoballer|218383|1786460827000",
-      "title": "Bhayshul Tuten, Chris Rodriguez Jr. Listed as Co-Starters",
-      "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-chris-rodriguez-jr-listed-as-co-starters/1907132"
     }
   ]
 }

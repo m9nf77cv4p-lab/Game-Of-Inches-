@@ -2,12 +2,27 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2471**
-- Newly captured: **1**
+- Stored stories: **2477**
+- Newly captured: **7**
 
 ## Latest news
 
-- **NEW — Mike Washington** — Mike Washington - Expected to be involved in Week 1 gameplan (2026-09-10T14:49:15Z)
+- **NEW — Romeo Doubs** — Romeo Doubs fails to log catch Wednesday (2026-09-10T15:15:04.932000Z)
+  - Doubs did not get off to a good start with his new team on Wednesday night. He failed to haul in even a single catch against a tough Seattle defense, and he had a costly drop on a very important play late in the game. He should bounce back in the near future and may be a worthwhile fantasy option short-term with A.J. Brown (ankle) expected to miss a bit of time due to injury.
+  - Source: https://www.fantasypros.com/nfl/news/606910/romeo-doubs-fails-to-log-catch-wednesday.php
+- **NEW — Hunter Henry** — Hunter Henry hauls in three passes Wednesday (2026-09-10T15:15:04.918000Z)
+  - New England's offense wasn't very effective on Wednesday night, and Henry was no exception to that. He totaled just 26 scoreless yards against the Seahawks, which left him with a poor fantasy total. His value as a streaming option may be diminished this year with Eli Raridon seemingly primed to be more involved at the tight end position for the Patriots.
+  - Source: https://www.fantasypros.com/nfl/news/606911/hunter-henry-hauls-three-passes-wednesday.php
+- **NEW — DeMario Douglas** — DeMario Douglas catches five passes Wednesday (2026-09-10T15:15:04.905000Z)
+  - Douglas was the most targeted receiver for New England last night, but he wasn't able to turn that into any fantasy success. He ended with just 20 yards on five catches, but he may continue to see high opportunities for the foreseeable future with A.J. Brown (ankle) set to miss some time for the team.
+  - Source: https://www.fantasypros.com/nfl/news/606912/demario-douglas-catches-five-passes-wednesday.php
+- **NEW — Drake Maye** — Drake Maye throws three interceptions in loss Wednesday (2026-09-10T15:05:04.561000Z)
+  - Maye started the season on the wrong foot on Wednesday night. He threw for under 200 yards and three interceptions against a tough Seattle defense, including one that cost the Patriots the game. He still showed lots of ability on the ground, however, and he's likely to return to being a good fantasy option against easier defenses. The loss of A.J. Brown (ankle) for at least a few games will severely hamper his short-term upside, however.
+  - Source: https://www.fantasypros.com/nfl/news/606908/drake-maye-throws-three-interceptions-loss-wednesday.php
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson totals 95 yards Wednesday (2026-09-10T15:05:04.548000Z)
+  - Stevenson was New England's workhorse running back on Wednesday night with TreVeyon Henderson (ankle) out of the lineup. He ran at an inefficient clip of 2.8 yards per carry on the night, but his fantasy total was saved by the fact that he caught five passes. He will be more efficient than this in the future but will lose passing work to Henderson when he's back, so he will likely continue to be touchdown dependent on a week-to-week basis.
+  - Source: https://www.fantasypros.com/nfl/news/606909/rhamondre-stevenson-totals-95-yards-wednesday.php
+- **Mike Washington** — Mike Washington - Expected to be involved in Week 1 gameplan (2026-09-10T14:49:15Z)
   - Washington impressed the Raiders' coaching staff in the preseason, during which the rookie fourth-round pick rushed for 168 yards on 23 carries across three games, averaging a robust 7.3 yards per carry. Jeanty has returned to full practice participation in the week leading up to Sunday's regular-season opener against the Dolphins, but the 2025 first-round pick missed a chunk of practice time due to the ankle injury he suffered Aug. 23. With Jeanty still shaking off the cobwebs, Washington is primed for some added opportunities in his regular-season debut as the Raiders face the Dolphins in a battle between two teams expected to finish near the bottom of the standings this season.
 - **A.J. Brown** — A.J. Brown (ankle) believed to have suffered high-ankle sprain on Wednesday (2026-09-10T14:05:10.573000Z)
   - It's a tough start to Browns Patriot tenure. He went down early in the third quarter and did not return, leaving Drake Maye to lean on Hunter Henry, Demario Douglas, and Mack Hollins with fellow newcomer Romeo Doubs struggling to catch anything. Doubs should bounce back, and if Brown is out for any period of time, expect Doubs and Henry to have some more fantasy appeal, with Douglas as a PPR dart throw in deep formats.
@@ -17,6 +32,10 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **George Kittle** — George Kittle off injury report, active for Thursday (2026-09-10T11:45:03.411000Z)
   - Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.
   - Source: https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php
+- **NEW — Tucker Kraft** — Tucker Kraft Contract Talks Could Reset Tight End Market (2026-09-10T11:13:18Z)
+  - Source: https://www.rotoballer.com/player-news/tucker-kraft-contract-talks-could-reset-tight-end-market/1927509
+- **NEW — Isaiah Likely** — Isaiah Likely Could Hit The Ground Running This Season (2026-09-10T10:59:09Z)
+  - Source: https://www.rotoballer.com/player-news/isaiah-likely-could-hit-the-ground-running-this-season/1927495
 - **Daniel Jones** — Daniel Jones Could Be Looking At Big Year With Full Health (2026-09-10T10:44:05Z)
   - Source: https://www.rotoballer.com/player-news/daniel-jones-could-be-looking-at-big-year-with-full-health/1927485
 - **Brock Bowers** — Brock Bowers Likely Out For Week 2 As Well (2026-09-10T10:25:06Z)
@@ -219,20 +238,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Michael Pittman** — Michael Pittman Jr. (hamstring) good to go for Sunday (2026-09-09T21:35:47.901000Z)
   - Pittman is now fully recovered from the hamstring injury he was dealing with earlier and is set to be a full go against the Falcons on Sunday. He shouldn't be started in most league formats but remains an intriguing player to watch and evaluate in his first game as a member of his new team.
   - Source: https://www.fantasypros.com/nfl/news/606793/michael-pittman-jr-hamstring-good-to-go-sunday.php
-- **D'Andre Swift** — D'Andre Swift (core) without injury designation for Sunday (2026-09-09T21:35:47.885000Z)
-  - Swift will be able to play in the team's season opener on Sunday. He was recently battling through an issue with his core, but it's nothing more than a minor injury and shouldn't hinder him against the Panthers. He's expected to be a good fantasy option for as long as he can remain healthy and in the lineup for Chicago.
-  - Source: https://www.fantasypros.com/nfl/news/606794/dandre-swift-core-without-injury-designation-sunday.php
-- **Kyle Monangai** — Kyle Monangai (knee) good to go for Week 1 (2026-09-09T21:35:47.873000Z)
-  - Monangai will be good to go for the season opener on Sunday, despite recently dealing with a knee injury of some kind. He isn't expected to be fantasy relevant with D'Andre Swift set to get the start and the bulk of the work for the Bears.
-  - Source: https://www.fantasypros.com/nfl/news/606795/kyle-monangai-knee-good-to-go-week-1.php
-- **Khalil Shakir** — Khalil Shakir - Not listed on injury report (2026-09-09T21:35:38Z)
-  - Shakir dealt with an unspecified injury last month, but he's good to go for Sunday's opener against the Texans. With DJ Moore now in Buffalo and Dalton Kincaid healthy headed into 2026, Shakir will have added competition for targets this season. He's a low-ceiling WR4/5 in fantasy.
-- **Alec Pierce** — Alec Pierce Gets Through Limited Practice on Wednesday (2026-09-09T21:33:14Z)
-  - Source: https://www.rotoballer.com/player-news/alec-pierce-gets-through-limited-practice-on-wednesday/1927194
-- **DK Metcalf** — DK Metcalf off injury report for Week 1 (2026-09-09T21:25:47.701000Z)
-  - Metcalf was dealing with an undisclosed injury earlier, but it's not an issue for him anymore and he is off of the injury report entirely ahead of Week 1. He goes into the season as the projected top target for the Steelers this season.
-  - Source: https://www.fantasypros.com/nfl/news/606791/dk-metcalf-off-injury-report-week-1.php
-- **Josh Downs** — Josh Downs - Dodges injury report (2026-09-09T21:22:37Z)
-  - The fourth-year receiver downplayed the calf injury that slowed him towards the end of summer. Downs evaded the injury report entirely Wednesday, signaling that he should be ready to go for the opener against the Ravens. Indianapolis may be at full strength at receiver with Alec Pierce trending in the right direction as well.
-- **DK Metcalf** — DK Metcalf - Not listed on Wednesday's injury report (2026-09-09T21:21:20Z)
-  - Neither Metcalf nor fellow WR Michael Pittman (hamstring) showed up on Wednesday's report after both players missed a good portion of training camp and the entire preseason slate due to health concerns. Now that Metcalf is back to 100 percent, he and Pittman are ready to take on a good portion of QB Aaron Rodgers' passes Sunday against the Falcons.
