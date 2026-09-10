@@ -2,12 +2,30 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2479**
-- Newly captured: **2**
+- Stored stories: **2486**
+- Newly captured: **8**
 
 ## Latest news
 
-- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba electric in win Wednesday (2026-09-10T15:35:04.138000Z)
+- **NEW — Jason Myers** — Jason Myers scores seven points in win Wednesday (2026-09-10T15:50:04.707000Z)
+  - Myers did his job on Wednesday, knocking in all three of his kicks en route to a win over the Patriots. He will likely be a decent fantasy option at the position over the course of the season, assuming QB Sam Darnold (hip) doesn't miss significant time and leave the offense weaker moving forward.
+  - Source: https://www.fantasypros.com/nfl/news/606930/jason-myers-scores-seven-points-win-wednesday.php
+- **NEW — Jadarian Price** — Jadarian Price totals 58 yards in NFL debut Wednesday (2026-09-10T15:40:05.135000Z)
+  - The rookie had a decent performance in his NFL debut. He rushed for 52 yards at an efficient clip of 5.2 yards per carry, and he saw a bit of involvement in the passing game as well. From a fantasy perspective this was a disappointing game, but he showed promise in this game and will likely perform better in positive matchups moving forward.
+  - Source: https://www.fantasypros.com/nfl/news/606923/jadarian-price-totals-58-yards-nfl-debut-wednesday.php
+- **NEW — Rashid Shaheed** — Rashid Shaheed quiet in win Wednesday (2026-09-10T15:40:05.120000Z)
+  - The speedy wideout wasn't able to do much on Wednesday, catching just one pass for four yards in the team's win over New England. The injury to starter Sam Darnold (hip) may have played a large role in his lack of production, however, so this isn't a good game to look at in order to discern his true involvement in this offense.
+  - Source: https://www.fantasypros.com/nfl/news/606924/rashid-shaheed-quiet-win-wednesday.php
+- **NEW — AJ Barner** — AJ Barner catches two passes Wednesday (2026-09-10T15:40:05.109000Z)
+  - The Seahawks were able to pick up a win over the Patriots on Wednesday, but they didn't need to get Barner very involved in order to do so. He finished the game with just two catches for 13 yards, and there's not much reason to believe that he will bounce back and become a quality week-to-week option anytime soon.
+  - Source: https://www.fantasypros.com/nfl/news/606925/aj-barner-catches-two-passes-wednesday.php
+- **NEW — George Holani** — George Holani sees nine opportunities in win Wednesday (2026-09-10T15:40:05.093000Z)
+  - Holani saw solid involvement on Wednesday, receiving nine total opportunities over the course of the game. He didn't do much with them, but the fact that he had a pretty even split with rookie RB Jadarian Price is a bit concerning for Price's fantasy value moving forward. It's too soon to make any definitive judgements about this offense, however, as they were without their starting quarterback for almost the entire game on Wednesday.
+  - Source: https://www.fantasypros.com/nfl/news/606926/george-holani-sees-nine-opportunities-win-wednesday.php
+- **NEW — Cooper Kupp** — Cooper Kupp totals 35 yards in win Wednesday (2026-09-10T15:40:05.057000Z)
+  - Kupp didn't end up with a strong statline in the box score on Wednesday, but he was an important player for the Seahawks in this matchup. He made multiple key plays for them and had a touchdown that got called back due to penalty. He isn't likely to be fantasy relevant moving forward, however, especially if QB Sam Darnold (hip) misses time.
+  - Source: https://www.fantasypros.com/nfl/news/606928/cooper-kupp-totals-35-yards-win-wednesday.php
+- **Jaxon Smith-Njigba** — Jaxon Smith-Njigba electric in win Wednesday (2026-09-10T15:35:04.138000Z)
   - On Wednesday, Smith-Njigba picked up right where he left off last season, exploding for 122 yards and a touchdown in a big win over the Patriots. He did that with Drew Lock throwing him passes after starter Sam Darnold went down with a hip injury earlier in the game. Fantasy managers should be happy with his performance in this matchup but should keep a close eye on the health of Darnold, as the young wideout's week-to-week ceiling will certainly take a hit if their starting QB misses significant time.
   - Source: https://www.fantasypros.com/nfl/news/606921/jaxon-smith-njigba-electric-win-wednesday.php
 - **Romeo Doubs** — Romeo Doubs fails to log catch Wednesday (2026-09-10T15:15:04.932000Z)
@@ -25,7 +43,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Rhamondre Stevenson** — Rhamondre Stevenson totals 95 yards Wednesday (2026-09-10T15:05:04.548000Z)
   - Stevenson was New England's workhorse running back on Wednesday night with TreVeyon Henderson (ankle) out of the lineup. He ran at an inefficient clip of 2.8 yards per carry on the night, but his fantasy total was saved by the fact that he caught five passes. He will be more efficient than this in the future but will lose passing work to Henderson when he's back, so he will likely continue to be touchdown dependent on a week-to-week basis.
   - Source: https://www.fantasypros.com/nfl/news/606909/rhamondre-stevenson-totals-95-yards-wednesday.php
-- **Mike Washington** — Mike Washington - Expected to be involved in Week 1 gameplan (2026-09-10T14:49:15Z)
+- **Mike Washington** — Mike Washington - Expected to be involved in Week 1 plan (2026-09-10T14:49:15Z)
   - Washington impressed the Raiders' coaching staff in the preseason, during which the rookie fourth-round pick rushed for 168 yards on 23 carries across three games, averaging a robust 7.3 yards per carry. Jeanty has returned to full practice participation in the week leading up to Sunday's regular-season opener against the Dolphins, but the 2025 first-round pick missed a chunk of practice time due to the ankle injury he suffered Aug. 23. With Jeanty still shaking off the cobwebs, Washington is primed for some added opportunities in his regular-season debut as the Raiders face the Dolphins in a battle between two teams expected to finish near the bottom of the standings this season.
 - **A.J. Brown** — A.J. Brown (ankle) believed to have suffered high-ankle sprain on Wednesday (2026-09-10T14:05:10.573000Z)
   - It's a tough start to Browns Patriot tenure. He went down early in the third quarter and did not return, leaving Drake Maye to lean on Hunter Henry, Demario Douglas, and Mack Hollins with fellow newcomer Romeo Doubs struggling to catch anything. Doubs should bounce back, and if Brown is out for any period of time, expect Doubs and Henry to have some more fantasy appeal, with Douglas as a PPR dart throw in deep formats.
@@ -35,7 +53,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **George Kittle** — George Kittle off injury report, active for Thursday (2026-09-10T11:45:03.411000Z)
   - Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.
   - Source: https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php
-- **NEW — Jordan Love** — Jordan Love May Have to Carry More of Green Bay's Offense (2026-09-10T11:27:49Z)
+- **NEW — Antonio Williams** — Antonio Williams Drawing More Praise in Washington (2026-09-10T11:42:47Z)
+  - Source: https://www.rotoballer.com/player-news/antonio-williams-drawing-more-praise-in-washington/1927542
+- **NEW — Tyler Shough** — Tyler Shough Leaves Fantasy Managers Plenty to Believe In (2026-09-10T11:33:21Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-shough-left-fantasy-managers-plenty-to-believe-in/1927529
+- **Jordan Love** — Jordan Love May Have to Carry More of Green Bay's Offense (2026-09-10T11:27:49Z)
   - Source: https://www.rotoballer.com/player-news/jordan-love-may-have-to-carry-more-of-green-bays-offense/1927522
 - **Tucker Kraft** — Tucker Kraft's Contract Talks Could Reset Tight End Market (2026-09-10T11:13:18Z)
   - Source: https://www.rotoballer.com/player-news/tucker-kraft-contract-talks-could-reset-tight-end-market/1927509
@@ -218,23 +240,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/zay-flowers-was-limited-during-wednesdays-practice/1927205
 - **Keaton Mitchell** — Keaton Mitchell - Limited Wednesday (2026-09-09T21:58:45Z)
   - Mitchell returned to practice earlier this week, and a limited session to open the week gives him a good chance to take the field Sunday against the Cardinals. Mitchell is expected to serve as the big-play complementary back behind Omarion Hampton this season. He's worthy of a bench stash in most fantasy leagues.
-- **Keon Coleman** — Keon Coleman (foot/toe) without injury designation for Sunday (2026-09-09T21:55:47.849000Z)
-  - Coleman's foot and toe injuries are no longer an issue for him and he carries no injury designation ahead of the team's season opener on Sunday. He isn't expected to be fantasy relevant for the foreseeable future, however.
-  - Source: https://www.fantasypros.com/nfl/news/606801/keon-coleman-foottoe-without-injury-designation-sunday.php
-- **Rachaad White** — Rachaad White - Clear of injury report (2026-09-09T21:49:10Z)
-  - White had been tending to a hamstring issue since mid-August, but his ability to avoid the practice report entirely Wednesday indicates he's put the injury behind him. Meanwhile, Jacory Croskey-Merritt (groin) was limited to kick off Week 1 prep, leaving one big question mark in Washington's backfield ahead of Sunday's game in Philadelphia.
-- **Alvin Kamara** — Alvin Kamara (knee) officially limited Wednesday (2026-09-09T21:45:47.771000Z)
-  - The veteran running back was a limited participant at the team's first practice of the week on Wednesday. He's recovering from a knee injury right now and seems likely to miss Week 1 as a result. If that's the case, Kendre Miller will be primed for more work in his absence.
-  - Source: https://www.fantasypros.com/nfl/news/606797/alvin-kamara-knee-officially-limited-wednesday.php
-- **Khalil Shakir** — Khalil Shakir good to go for Sunday (2026-09-09T21:45:47.730000Z)
-  - Shakir was a full participant at practice on Wednesday and is expected to be fully good to go for Sunday's season opener against the Houston Texans. He is not worth starting for fantasy purposes at this point, however, especially with DJ Moore now in town for the Bills.
-  - Source: https://www.fantasypros.com/nfl/news/606800/khalil-shakir-good-to-go-sunday.php
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Limited practice Wednesday (2026-09-09T21:45:45Z)
-  - Croskey-Merritt initially suffered an undisclosed injury in an Aug. 22 practice that coach Dan Quinn clarified as to the running back's lower body not long after. While the running back was able to return to the practice field Sept. 1, Croskey-Merritt's activity level wasn't known until this week. He still has some work to do ahead of Sunday's Week 1 matchup at Philadelphia, while fellow RB Rachaad White (hamstring) avoided the Commanders' injury report entirely Wednesday.
-- **Tucker Kraft** — Tucker Kraft - Not on Week 1 injury report (2026-09-09T21:41:28Z)
-  - Kraft has been working in full pads for weeks, so it's no surprise. He's ready to go for Sunday's game against the Vikings and is a top-five TE1 for fantasy in that matchup.
-- **Keon Coleman** — Keon Coleman - Not listed on Week 1 injury report (2026-09-09T21:38:45Z)
-  - Coleman was in a walking boot last month but returned to practice last week and is ready for Week 1 against the Texans. Listed as a starter on the unofficial depth chart, Coleman will be part of the rotation at wide receiver for Buffalo. He doesn't carry much redraft fantasy value and is a better best-ball selection in an offense that again has a lot of mouths to feed.
-- **Jeremiyah Love** — Jeremiyah Love (ankle) expected to practice in full Wednesday (2026-09-09T21:35:48.305000Z)
-  - The rookie is expected to be a full participant at Arizona's practice on Wednesday. He suffered a high-ankle sprain several weeks ago, but the team feels good about his recovery, and he will have a real chance to make his NFL debut in Week 1. Fantasy managers should continue to keep close tabs on updates about his health throughout the rest of the week.
-  - Source: https://www.fantasypros.com/nfl/news/606796/jeremiyah-love-ankle-expected-to-practice-full-wednesday.php

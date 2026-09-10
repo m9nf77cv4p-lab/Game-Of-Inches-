@@ -1,10 +1,16 @@
 {
-  "last_checked_at": "2026-09-10T15:38:10Z",
+  "last_checked_at": "2026-09-10T15:51:04Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|6804|rotoballer|220520|1789039669000",
-    "nfl|9488|fantasy_pros|606921|1789054504138"
+    "nfl|11603|fantasy_pros|606925|1789054805109",
+    "nfl|12048|fantasy_pros|606926|1789054805093",
+    "nfl|12545|rotoballer|220521|1789040001000",
+    "nfl|13286|fantasy_pros|606923|1789054805135",
+    "nfl|13301|rotoballer|220522|1789040567000",
+    "nfl|2747|fantasy_pros|606930|1789055404707",
+    "nfl|4039|fantasy_pros|606928|1789054805057",
+    "nfl|8676|fantasy_pros|606924|1789054805120"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +20,132 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Myers did his job on Wednesday, knocking in all three of his kicks en route to a win over the Patriots. He will likely be a decent fantasy option at the position over the course of the season, assuming QB Sam Darnold (hip) doesn't miss significant time and leave the offense weaker moving forward.",
+      "description": "Jason Myers went 2-for-2 on his field-goal attempts and made his lone extra-point attempt in Wednesday's 13-10 win over the New England Patriots.",
+      "metadata": {
+        "analysis": "Myers did his job on Wednesday, knocking in all three of his kicks en route to a win over the Patriots. He will likely be a decent fantasy option at the position over the course of the season, assuming QB Sam Darnold (hip) doesn't miss significant time and leave the offense weaker moving forward.",
+        "description": "Jason Myers went 2-for-2 on his field-goal attempts and made his lone extra-point attempt in Wednesday's 13-10 win over the New England Patriots.",
+        "title": "Jason Myers scores seven points in win Wednesday",
+        "topic_id": "1403803749947826176",
+        "url": "https://www.fantasypros.com/nfl/news/606930/jason-myers-scores-seven-points-win-wednesday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "2747",
+      "player_name": "Jason Myers",
+      "position": "K",
+      "published": 1789055404707,
+      "source": "fantasy_pros",
+      "source_key": "606930",
+      "story_id": "nfl|2747|fantasy_pros|606930|1789055404707",
+      "title": "Jason Myers scores seven points in win Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606930/jason-myers-scores-seven-points-win-wednesday.php"
+    },
+    {
+      "analysis": "The rookie had a decent performance in his NFL debut. He rushed for 52 yards at an efficient clip of 5.2 yards per carry, and he saw a bit of involvement in the passing game as well. From a fantasy perspective this was a disappointing game, but he showed promise in this game and will likely perform better in positive matchups moving forward.",
+      "description": "Jadarian Price rushed the ball ten times for 52 yards and caught two passes for six yards in Wednesday night's 13-10 win over the New England Patriots.",
+      "metadata": {
+        "analysis": "The rookie had a decent performance in his NFL debut. He rushed for 52 yards at an efficient clip of 5.2 yards per carry, and he saw a bit of involvement in the passing game as well. From a fantasy perspective this was a disappointing game, but he showed promise in this game and will likely perform better in positive matchups moving forward.",
+        "description": "Jadarian Price rushed the ball ten times for 52 yards and caught two passes for six yards in Wednesday night's 13-10 win over the New England Patriots.",
+        "title": "Jadarian Price totals 58 yards in NFL debut Wednesday",
+        "topic_id": "1403801235156414464",
+        "url": "https://www.fantasypros.com/nfl/news/606923/jadarian-price-totals-58-yards-nfl-debut-wednesday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "13286",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "published": 1789054805135,
+      "source": "fantasy_pros",
+      "source_key": "606923",
+      "story_id": "nfl|13286|fantasy_pros|606923|1789054805135",
+      "title": "Jadarian Price totals 58 yards in NFL debut Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606923/jadarian-price-totals-58-yards-nfl-debut-wednesday.php"
+    },
+    {
+      "analysis": "The speedy wideout wasn't able to do much on Wednesday, catching just one pass for four yards in the team's win over New England. The injury to starter Sam Darnold (hip) may have played a large role in his lack of production, however, so this isn't a good game to look at in order to discern his true involvement in this offense.",
+      "description": "Rashid Shaheed caught 1-of-3 targets for just four yards in Wednesday's 13-10 win over the New England Patriots.",
+      "metadata": {
+        "analysis": "The speedy wideout wasn't able to do much on Wednesday, catching just one pass for four yards in the team's win over New England. The injury to starter Sam Darnold (hip) may have played a large role in his lack of production, however, so this isn't a good game to look at in order to discern his true involvement in this offense.",
+        "description": "Rashid Shaheed caught 1-of-3 targets for just four yards in Wednesday's 13-10 win over the New England Patriots.",
+        "title": "Rashid Shaheed quiet in win Wednesday",
+        "topic_id": "1403801235101888512",
+        "url": "https://www.fantasypros.com/nfl/news/606924/rashid-shaheed-quiet-win-wednesday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "8676",
+      "player_name": "Rashid Shaheed",
+      "position": "WR",
+      "published": 1789054805120,
+      "source": "fantasy_pros",
+      "source_key": "606924",
+      "story_id": "nfl|8676|fantasy_pros|606924|1789054805120",
+      "title": "Rashid Shaheed quiet in win Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606924/rashid-shaheed-quiet-win-wednesday.php"
+    },
+    {
+      "analysis": "The Seahawks were able to pick up a win over the Patriots on Wednesday, but they didn't need to get Barner very involved in order to do so. He finished the game with just two catches for 13 yards, and there's not much reason to believe that he will bounce back and become a quality week-to-week option anytime soon.",
+      "description": "AJ Barner caught two passes for 13 yards in Wednesday's 13-10 win over the New England Patriots.",
+      "metadata": {
+        "analysis": "The Seahawks were able to pick up a win over the Patriots on Wednesday, but they didn't need to get Barner very involved in order to do so. He finished the game with just two catches for 13 yards, and there's not much reason to believe that he will bounce back and become a quality week-to-week option anytime soon.",
+        "description": "AJ Barner caught two passes for 13 yards in Wednesday's 13-10 win over the New England Patriots.",
+        "title": "AJ Barner catches two passes Wednesday",
+        "topic_id": "1403801235043168256",
+        "url": "https://www.fantasypros.com/nfl/news/606925/aj-barner-catches-two-passes-wednesday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11603",
+      "player_name": "AJ Barner",
+      "position": "TE",
+      "published": 1789054805109,
+      "source": "fantasy_pros",
+      "source_key": "606925",
+      "story_id": "nfl|11603|fantasy_pros|606925|1789054805109",
+      "title": "AJ Barner catches two passes Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606925/aj-barner-catches-two-passes-wednesday.php"
+    },
+    {
+      "analysis": "Holani saw solid involvement on Wednesday, receiving nine total opportunities over the course of the game. He didn't do much with them, but the fact that he had a pretty even split with rookie RB Jadarian Price is a bit concerning for Price's fantasy value moving forward. It's too soon to make any definitive judgements about this offense, however, as they were without their starting quarterback for almost the entire game on Wednesday.",
+      "description": "George Holani rushed the ball eight times for 29 yards and failed to haul in his lone target in Wednesday night's 13-10 win over the New England Patriots.",
+      "metadata": {
+        "analysis": "Holani saw solid involvement on Wednesday, receiving nine total opportunities over the course of the game. He didn't do much with them, but the fact that he had a pretty even split with rookie RB Jadarian Price is a bit concerning for Price's fantasy value moving forward. It's too soon to make any definitive judgements about this offense, however, as they were without their starting quarterback for almost the entire game on Wednesday.",
+        "description": "George Holani rushed the ball eight times for 29 yards and failed to haul in his lone target in Wednesday night's 13-10 win over the New England Patriots.",
+        "title": "George Holani sees nine opportunities in win Wednesday",
+        "topic_id": "1403801234976059392",
+        "url": "https://www.fantasypros.com/nfl/news/606926/george-holani-sees-nine-opportunities-win-wednesday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12048",
+      "player_name": "George Holani",
+      "position": "RB",
+      "published": 1789054805093,
+      "source": "fantasy_pros",
+      "source_key": "606926",
+      "story_id": "nfl|12048|fantasy_pros|606926|1789054805093",
+      "title": "George Holani sees nine opportunities in win Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606926/george-holani-sees-nine-opportunities-win-wednesday.php"
+    },
+    {
+      "analysis": "Kupp didn't end up with a strong statline in the box score on Wednesday, but he was an important player for the Seahawks in this matchup. He made multiple key plays for them and had a touchdown that got called back due to penalty. He isn't likely to be fantasy relevant moving forward, however, especially if QB Sam Darnold (hip) misses time.",
+      "description": "Cooper Kupp caught 2-of-3 targets for 35 yards in Wednesday night's 13-10 win over the New England Patriots.",
+      "metadata": {
+        "analysis": "Kupp didn't end up with a strong statline in the box score on Wednesday, but he was an important player for the Seahawks in this matchup. He made multiple key plays for them and had a touchdown that got called back due to penalty. He isn't likely to be fantasy relevant moving forward, however, especially if QB Sam Darnold (hip) misses time.",
+        "description": "Cooper Kupp caught 2-of-3 targets for 35 yards in Wednesday night's 13-10 win over the New England Patriots.",
+        "title": "Cooper Kupp totals 35 yards in win Wednesday",
+        "topic_id": "1403801234820870144",
+        "url": "https://www.fantasypros.com/nfl/news/606928/cooper-kupp-totals-35-yards-win-wednesday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4039",
+      "player_name": "Cooper Kupp",
+      "position": "WR",
+      "published": 1789054805057,
+      "source": "fantasy_pros",
+      "source_key": "606928",
+      "story_id": "nfl|4039|fantasy_pros|606928|1789054805057",
+      "title": "Cooper Kupp totals 35 yards in win Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606928/cooper-kupp-totals-35-yards-win-wednesday.php"
+    },
     {
       "analysis": "On Wednesday, Smith-Njigba picked up right where he left off last season, exploding for 122 yards and a touchdown in a big win over the Patriots. He did that with Drew Lock throwing him passes after starter Sam Darnold went down with a hip injury earlier in the game. Fantasy managers should be happy with his performance in this matchup but should keep a close eye on the health of Darnold, as the young wideout's week-to-week ceiling will certainly take a hit if their starting QB misses significant time.",
       "description": "Jaxon Smith-Njigba caught 8-of-11 targets for 122 yards and a touchdown in Wednesday night's 13-10 win over the New England Patriots.",
@@ -146,7 +278,7 @@
       "metadata": {
         "analysis": "Washington impressed the Raiders' coaching staff in the preseason, during which the rookie fourth-round pick rushed for 168 yards on 23 carries across three games, averaging a robust 7.3 yards per carry. Jeanty has returned to full practice participation in the week leading up to Sunday's regular-season opener against the Dolphins, but the 2025 first-round pick missed a chunk of practice time due to the ankle injury he suffered Aug. 23. With Jeanty still shaking off the cobwebs, Washington is primed for some added opportunities in his regular-season debut as the Raiders face the Dolphins in a battle between two teams expected to finish near the bottom of the standings this season.",
         "description": "Washington could still play a sizable role in Week 1 against the Dolphins, even with Ashton Jeanty (ankle) expected to suit up, Dan Graziano of ESPN.com reports.",
-        "title": "Mike Washington - Expected to be involved in Week 1 gameplan",
+        "title": "Mike Washington - Expected to be involved in Week 1 plan",
         "topic_id": "1403789901517840384"
       },
       "nfl_team": "LV",
@@ -157,7 +289,7 @@
       "source": "rotowire",
       "source_key": "636679",
       "story_id": "nfl|13305|rotowire|636679|1789051755000",
-      "title": "Mike Washington - Expected to be involved in Week 1 gameplan",
+      "title": "Mike Washington - Expected to be involved in Week 1 plan",
       "url": null
     },
     {
@@ -221,6 +353,46 @@
       "story_id": "nfl|4217|fantasy_pros|606900|1789040703411",
       "title": "George Kittle off injury report, active for Thursday",
       "url": "https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders wide receiver Antonio Williams keeps giving the coaching staff reasons to stay interested. According to Zach Selby, offensive coordinator David Blough said he has seen a lot of growth from Williams and called the rookie a joy to work with. That fits what Washington has been saying for months. Williams was praised for his route running and ability to create separation in the spring, then continued to flash during training camp. He was also held out of the preseason finale along with a large group of regulars. The Week 1 depth chart still has Treylon Burks ahead of him, with Terry McLaurin and Stefon Diggs occupying the other starting spots, so there is no immediate fantasy role to bank on. Still, Williams was the 71st overall pick for a reason, and the positive reports have not stopped. If that growth starts turning into regular snaps, his fantasy value could move quickly.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Antonio Williams keeps giving the coaching staff reasons to stay interested. According to Zach Selby, offensive coordinator David Blough said he has seen a lot of growth from Williams and called the rookie a joy to work with. That fits what Washington has been saying for months. Williams was praised for his route running and ability to create separation in the spring, then continued to flash during training camp. He was also held out of the preseason finale along with a large group of regulars. The Week 1 depth chart still has Treylon Burks ahead of him, with Terry McLaurin and Stefon Diggs occupying the other starting spots, so there is no immediate fantasy role to bank on. Still, Williams was the 71st overall pick for a reason, and the positive reports have not stopped. If that growth starts turning into regular snaps, his fantasy value could move quickly.",
+        "title": "Antonio Williams Drawing More Praise in Washington",
+        "topic_id": "1403802486149537792",
+        "url": "https://www.rotoballer.com/player-news/antonio-williams-drawing-more-praise-in-washington/1927542"
+      },
+      "nfl_team": "WAS",
+      "player_id": "13301",
+      "player_name": "Antonio Williams",
+      "position": "WR",
+      "published": 1789040567000,
+      "source": "rotoballer",
+      "source_key": "220522",
+      "story_id": "nfl|13301|rotoballer|220522|1789040567000",
+      "title": "Antonio Williams Drawing More Praise in Washington",
+      "url": "https://www.rotoballer.com/player-news/antonio-williams-drawing-more-praise-in-washington/1927542"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints quarterback Tyler Shough made a pretty convincing case for himself before his rookie season ended. Over his final five games, Shough completed 69.9% of his passes for 1,316 yards, five touchdowns and only two interceptions while New Orleans went 4-1. He gave fantasy managers something on the ground too, adding 135 rushing yards and three more scores during that stretch. It was enough to earn him NFL Offensive Rookie of the Month honors for December and January. Shough now enters Year 2 without a quarterback competition and with Chris Olave coming off the best season of his career. First-round receiver Jordyn Tyson will miss the beginning of the year on injured reserve, so the supporting cast isn't completely intact. Still, Shough's finish is difficult to brush aside as one good game or a short hot streak. If that late-season version sticks around, he could move well beyond being viewed as just another matchup-dependent fantasy quarterback.",
+      "metadata": {
+        "description": "New Orleans Saints quarterback Tyler Shough made a pretty convincing case for himself before his rookie season ended. Over his final five games, Shough completed 69.9% of his passes for 1,316 yards, five touchdowns and only two interceptions while New Orleans went 4-1. He gave fantasy managers something on the ground too, adding 135 rushing yards and three more scores during that stretch. It was enough to earn him NFL Offensive Rookie of the Month honors for December and January. Shough now enters Year 2 without a quarterback competition and with Chris Olave coming off the best season of his career. First-round receiver Jordyn Tyson will miss the beginning of the year on injured reserve, so the supporting cast isn't completely intact. Still, Shough's finish is difficult to brush aside as one good game or a short hot streak. If that late-season version sticks around, he could move well beyond being viewed as just another matchup-dependent fantasy quarterback.",
+        "title": "Tyler Shough Leaves Fantasy Managers Plenty to Believe In",
+        "topic_id": "1403801227854086144",
+        "url": "https://www.rotoballer.com/player-news/tyler-shough-left-fantasy-managers-plenty-to-believe-in/1927529"
+      },
+      "nfl_team": "NO",
+      "player_id": "12545",
+      "player_name": "Tyler Shough",
+      "position": "QB",
+      "published": 1789040001000,
+      "source": "rotoballer",
+      "source_key": "220521",
+      "story_id": "nfl|12545|rotoballer|220521|1789040001000",
+      "title": "Tyler Shough Leaves Fantasy Managers Plenty to Believe In",
+      "url": "https://www.rotoballer.com/player-news/tyler-shough-left-fantasy-managers-plenty-to-believe-in/1927529"
     },
     {
       "analysis": null,
@@ -49849,26 +50021,6 @@
       "source_key": "633216",
       "story_id": "nfl|5870|rotowire|633216|1786466645000",
       "title": "Daniel Jones - Won't play this preseason",
-      "url": null
-    },
-    {
-      "analysis": "Bengals coach Zac Taylor also said QB Joe Burrow and WR Tee Higgins will play. In the past two preseason openers, Burrow played a total of three drives and ended each with a TD pass, including one to Chase.",
-      "description": "Chase and other starters are scheduled to play in Thursday's preseason opener against Detroit, Kelsey Conway of The Cincinnati Enquirer reports.",
-      "metadata": {
-        "analysis": "Bengals coach Zac Taylor also said QB Joe Burrow and WR Tee Higgins will play. In the past two preseason openers, Burrow played a total of three drives and ended each with a TD pass, including one to Chase.",
-        "description": "Chase and other starters are scheduled to play in Thursday's preseason opener against Detroit, Kelsey Conway of The Cincinnati Enquirer reports.",
-        "title": "Ja'Marr Chase - Expected to play Thursday",
-        "topic_id": "1392931001105149952"
-      },
-      "nfl_team": "CIN",
-      "player_id": "7564",
-      "player_name": "Ja'Marr Chase",
-      "position": "WR",
-      "published": 1786462998000,
-      "source": "rotowire",
-      "source_key": "633206",
-      "story_id": "nfl|7564|rotowire|633206|1786462998000",
-      "title": "Ja'Marr Chase - Expected to play Thursday",
       "url": null
     }
   ]
