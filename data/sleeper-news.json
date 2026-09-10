@@ -1,10 +1,11 @@
 {
-  "last_checked_at": "2026-09-10T17:41:26Z",
+  "last_checked_at": "2026-09-10T17:52:32Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|12527|rotoballer|220539|1789046765000",
-    "nfl|2216|rotoballer|220540|1789046948000"
+    "nfl|13287|rotoballer|220541|1789047488000",
+    "nfl|13317|rotowire|636685|1789062106000",
+    "nfl|5872|rotoballer|220542|1789047306000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Hurst is likely to begin his career in a depth role, though the rookie third-round pick out of Georgia State could see some involvement on offense out of the gate, especially if Jalen McMillan (knee) isn't cleared to face the Bengals in Week 1. McMillan practiced on a limited basis Wednesday, while Emeka Egbuka practiced without limitations after dealing with a recent toe injury. Egbuka and Chris Godwin figure to get most of the targets among Tampa Bay's wide receivers, though the 6-foot-3 Hurst showed the ability to stretch the field in college and may not need heavy volume to make an impact.",
+      "description": "Offensive coordinator Zac Robinson said Thursday that Hurst has continued to ascend week after week while adjusting well to the NFL, Scott Smith of the Buccaneers' official site reports.",
+      "metadata": {
+        "analysis": "Hurst is likely to begin his career in a depth role, though the rookie third-round pick out of Georgia State could see some involvement on offense out of the gate, especially if Jalen McMillan (knee) isn't cleared to face the Bengals in Week 1. McMillan practiced on a limited basis Wednesday, while Emeka Egbuka practiced without limitations after dealing with a recent toe injury. Egbuka and Chris Godwin figure to get most of the targets among Tampa Bay's wide receivers, though the 6-foot-3 Hurst showed the ability to stretch the field in college and may not need heavy volume to make an impact.",
+        "description": "Offensive coordinator Zac Robinson said Thursday that Hurst has continued to ascend week after week while adjusting well to the NFL, Scott Smith of the Buccaneers' official site reports.",
+        "title": "Ted Hurst - Talked up by OC",
+        "topic_id": "1403832687185162240"
+      },
+      "nfl_team": "TB",
+      "player_id": "13317",
+      "player_name": "Ted Hurst",
+      "position": "WR",
+      "published": 1789062106000,
+      "source": "rotowire",
+      "source_key": "636685",
+      "story_id": "nfl|13317|rotowire|636685|1789062106000",
+      "title": "Ted Hurst - Talked up by OC",
+      "url": null
+    },
     {
       "analysis": "Darnold is continuing to be further evaluated. He'll miss at least one game with a return by Week 3 seemingly being a possibility. ",
       "description": "Ian Rapoport reports that Sam Darnold is expected to miss Week 2 against the Cardinals. ",
@@ -489,6 +510,46 @@
       "story_id": "nfl|5859|rotowire|636678|1789049085000",
       "title": "A.J. Brown - Believed to have high-ankle sprain",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals rookie running back Jeremiyah Love (ankle) was a limited participant during Wednesday's practice, but NFL Insider Adam Schefter suggested that he's expected to play in Sunday's season opener against the Chargers. Love injured his ankle in a preseason game against the Raiders in which he was given 14 opportunities, but he has since made steady progress, and his presence on Wednesday is an encouraging sign for his Week 1 availability. The third overall pick in the 2026 NFL Draft, Love has the highest Offensive Rookie of the Year odds and is expected to quickly become a focal point of the Cardinals' new-look offense under head coach Mike LaFleur and offensive coordinator Nathaniel Hackett. Fantasy managers will need to continue monitoring his progress throughout the week, and while the potential of a limited snap count still exists to begin the year, Love is trending in the right direction.",
+      "metadata": {
+        "description": "Arizona Cardinals rookie running back Jeremiyah Love (ankle) was a limited participant during Wednesday's practice, but NFL Insider Adam Schefter suggested that he's expected to play in Sunday's season opener against the Chargers. Love injured his ankle in a preseason game against the Raiders in which he was given 14 opportunities, but he has since made steady progress, and his presence on Wednesday is an encouraging sign for his Week 1 availability. The third overall pick in the 2026 NFL Draft, Love has the highest Offensive Rookie of the Year odds and is expected to quickly become a focal point of the Cardinals' new-look offense under head coach Mike LaFleur and offensive coordinator Nathaniel Hackett. Fantasy managers will need to continue monitoring his progress throughout the week, and while the potential of a limited snap count still exists to begin the year, Love is trending in the right direction.",
+        "title": "Jeremiyah Love Expected to Play Sunday",
+        "topic_id": "1403832686862159872",
+        "url": "https://www.rotoballer.com/player-news/jeremiyah-love-expected-to-play-sunday/1927686"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1789047488000,
+      "source": "rotoballer",
+      "source_key": "220541",
+      "story_id": "nfl|13287|rotoballer|220541|1789047488000",
+      "title": "Jeremiyah Love Expected to Play Sunday",
+      "url": "https://www.rotoballer.com/player-news/jeremiyah-love-expected-to-play-sunday/1927686"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. is back with his former team after spending 2025 with the Washington Commanders. Samuel played with the 49ers from 2019 to 2024, during which time he averaged 55.7 receptions and 798.7 receiving yards per season. The team lists the 30-year-old receiver as starting opposite Mike Evans on their depth chart to start the season. Samuel will be competing not only with Evans for targets, but also rookie De'Zhaun Stribling and safety valve Christian McCaffrey. Tight end George Kittle (Achilles) is expected to be on a pitch count in Week 1, which might afford Samuel some extra looks. In Week 1, Samuel will likely face off against cornerback Trent McDuffie, who has held the receiver in check in their past meetings. Samuel ranks as a borderline WR4/5 in RotoBaller's Week 1 rankings. Given the matchup and competition for targets, Samuel is a risky play in the first week of the season.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. is back with his former team after spending 2025 with the Washington Commanders. Samuel played with the 49ers from 2019 to 2024, during which time he averaged 55.7 receptions and 798.7 receiving yards per season. The team lists the 30-year-old receiver as starting opposite Mike Evans on their depth chart to start the season. Samuel will be competing not only with Evans for targets, but also rookie De'Zhaun Stribling and safety valve Christian McCaffrey. Tight end George Kittle (Achilles) is expected to be on a pitch count in Week 1, which might afford Samuel some extra looks. In Week 1, Samuel will likely face off against cornerback Trent McDuffie, who has held the receiver in check in their past meetings. Samuel ranks as a borderline WR4/5 in RotoBaller's Week 1 rankings. Given the matchup and competition for targets, Samuel is a risky play in the first week of the season.",
+        "title": "Deebo Samuel Sr. Draws Tough Matchup In First Game Back With 49ers",
+        "topic_id": "1403832686857965568",
+        "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-draws-tough-matchup-in-first-game-back-with-49ers/1927664"
+      },
+      "nfl_team": "SF",
+      "player_id": "5872",
+      "player_name": "Deebo Samuel",
+      "position": "WR",
+      "published": 1789047306000,
+      "source": "rotoballer",
+      "source_key": "220542",
+      "story_id": "nfl|5872|rotoballer|220542|1789047306000",
+      "title": "Deebo Samuel Sr. Draws Tough Matchup In First Game Back With 49ers",
+      "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-draws-tough-matchup-in-first-game-back-with-49ers/1927664"
     },
     {
       "analysis": null,

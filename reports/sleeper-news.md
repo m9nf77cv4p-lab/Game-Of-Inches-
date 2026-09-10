@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2505**
-- Newly captured: **2**
+- Stored stories: **2508**
+- Newly captured: **3**
 
 ## Latest news
 
+- **NEW — Ted Hurst** — Ted Hurst - Talked up by OC (2026-09-10T17:41:46Z)
+  - Hurst is likely to begin his career in a depth role, though the rookie third-round pick out of Georgia State could see some involvement on offense out of the gate, especially if Jalen McMillan (knee) isn't cleared to face the Bengals in Week 1. McMillan practiced on a limited basis Wednesday, while Emeka Egbuka practiced without limitations after dealing with a recent toe injury. Egbuka and Chris Godwin figure to get most of the targets among Tampa Bay's wide receivers, though the 6-foot-3 Hurst showed the ability to stretch the field in college and may not need heavy volume to make an impact.
 - **Sam Darnold** — Sam Darnold (hip) expected to miss Week 2 (2026-09-10T16:50:04.794000Z)
   - Darnold is continuing to be further evaluated. He'll miss at least one game with a return by Week 3 seemingly being a possibility. 
   - Source: https://www.fantasypros.com/nfl/news/606941/sam-darnold-hip-expected-to-miss-week-2.php
@@ -69,9 +71,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php
 - **A.J. Brown** — A.J. Brown - Believed to have high-ankle sprain (2026-09-10T14:04:45Z)
   - In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before departing in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.
-- **NEW — Mike Evans** — Mike Evans Could Emerge As 49ers' Top Target In Week 1 (2026-09-10T13:29:08Z)
+- **NEW — Jeremiyah Love** — Jeremiyah Love Expected to Play Sunday (2026-09-10T13:38:08Z)
+  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-expected-to-play-sunday/1927686
+- **NEW — Deebo Samuel** — Deebo Samuel Sr. Draws Tough Matchup In First Game Back With 49ers (2026-09-10T13:35:06Z)
+  - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-draws-tough-matchup-in-first-game-back-with-49ers/1927664
+- **Mike Evans** — Mike Evans Could Emerge As 49ers' Top Target In Week 1 (2026-09-10T13:29:08Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-could-emerge-as-49ers-top-target-in-week-1/1927659
-- **NEW — Ashton Jeanty** — Ashton Jeanty Will Play on Sunday (2026-09-10T13:26:05Z)
+- **Ashton Jeanty** — Ashton Jeanty Will Play on Sunday (2026-09-10T13:26:05Z)
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-will-play-on-sunday/1927652
 - **Kyler Murray** — Kyler Murray Well-Positioned for a Significant Bounce-Back (2026-09-10T13:13:07Z)
   - Source: https://www.rotoballer.com/player-news/kyler-murray-well-positioned-for-a-significant-bounce-back/1927641
@@ -227,10 +233,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Theo Johnson** — Theo Johnson (shoulder) logs full practice Wednesday (2026-09-09T23:20:48.556000Z)
   - It looks like the Giants will have Johnson available to play for them on Sunday, as he was able to log a full practice to start the week on Wednesday. He won't carry any fantasy value himself but should serve as a nice depth option for Jaxson Dart moving forward.
   - Source: https://www.fantasypros.com/nfl/news/606825/theo-johnson-shoulder-logs-full-practice-wednesday.php
-- **George Kittle** — George Kittle (Achilles) limited again Wednesday (2026-09-09T23:10:48.191000Z)
-  - The star tight end was once again limited at practice on Wednesday. He seems to have a good chance to play on Thursday night, but he will probably be limited even if active. The team's official injury report should shed more light on his status when it comes out.
-  - Source: https://www.fantasypros.com/nfl/news/606820/george-kittle-achilles-limited-again-wednesday.php
-- **Eli Stowers** — Eli Stowers - Limited to open Week 1 prep (2026-09-09T23:09:30Z)
-  - The rookie second-rounder has been working through a hamstring injury since the tail end of training camp, which prevented him from playing in the Eagles' preseason finale against the Bengals on Aug. 28. Stowers will have two more opportunities to increase his practice participation and avoid an injury designation for Sunday's regular-season opener against the Commanders. The Vanderbilt product figures to operate in a depth role at tight end this season behind Dallas Goedert, with Johnny Mundt and E.J. Jenkins also in the mix for snaps on offense.
-- **Jalen Milroe** — Jalen Milroe - Emergency QB for Wednesday night (2026-09-09T23:07:08Z)
-  - Milroe is the No. 3 quarterback behind Sam Darnold and Drew Lock. The second-year player is already settling into what will likely be his weekly role throughout the 2026 season, set to only check in to the game if both quarterbacks are unable to continue playing.
