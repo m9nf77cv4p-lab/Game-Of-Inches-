@@ -1,14 +1,9 @@
 {
-  "last_checked_at": "2026-09-10T13:52:43Z",
+  "last_checked_at": "2026-09-10T14:04:44Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11603|rotoballer|220509|1789033036000",
-    "nfl|12048|rotoballer|220504|1789032836000",
-    "nfl|4039|rotoballer|220505|1789032726000",
-    "nfl|4217|rotoballer|220510|1789033328000",
-    "nfl|421|rotoballer|220506|1789005965000",
-    "nfl|8676|rotoballer|220508|1789033206000"
+    "nfl|5022|rotoballer|220512|1789034105000"
   ],
   "schema_version": 1,
   "source": {
@@ -38,6 +33,26 @@
       "story_id": "nfl|4217|fantasy_pros|606900|1789040703411",
       "title": "George Kittle off injury report, active for Thursday",
       "url": "https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles tight end Dallas Goedert looks poised to continue to be his team's top option at tight end and play a major role this season. With A.J. Brown departing to the Patriots, more targets will be available for the rest of the Eagles' pass-catchers. Last year, Goedert had a career-high 60 catches for 591 yards and an impressive total of 11 touchdowns. There was concern for Goedert's playing time after the Eagles drafted Eli Stowers, but Stowers struggled in training camp and the preseason and appears to need more development time. Stowers is an elite athlete but is still new to the position, which should leave Goedert as a major contributor in the Eagles' offense, especially early in the season. He should be a reliable low-end TE1 with higher upside if he keeps finding the end zone so regularly in 2026.",
+      "metadata": {
+        "description": "Philadelphia Eagles tight end Dallas Goedert looks poised to continue to be his team's top option at tight end and play a major role this season. With A.J. Brown departing to the Patriots, more targets will be available for the rest of the Eagles' pass-catchers. Last year, Goedert had a career-high 60 catches for 591 yards and an impressive total of 11 touchdowns. There was concern for Goedert's playing time after the Eagles drafted Eli Stowers, but Stowers struggled in training camp and the preseason and appears to need more development time. Stowers is an elite athlete but is still new to the position, which should leave Goedert as a major contributor in the Eagles' offense, especially early in the season. He should be a reliable low-end TE1 with higher upside if he keeps finding the end zone so regularly in 2026.",
+        "title": "Dallas Goedert Set for a Major Role",
+        "topic_id": "1403776057017909248",
+        "url": "https://www.rotoballer.com/player-news/dallas-goedert-set-for-a-major-role/1927443"
+      },
+      "nfl_team": "PHI",
+      "player_id": "5022",
+      "player_name": "Dallas Goedert",
+      "position": "TE",
+      "published": 1789034105000,
+      "source": "rotoballer",
+      "source_key": "220512",
+      "story_id": "nfl|5022|rotoballer|220512|1789034105000",
+      "title": "Dallas Goedert Set for a Major Role",
+      "url": "https://www.rotoballer.com/player-news/dallas-goedert-set-for-a-major-role/1927443"
     },
     {
       "analysis": null,

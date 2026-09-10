@@ -2,23 +2,25 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2463**
-- Newly captured: **6**
+- Stored stories: **2464**
+- Newly captured: **1**
 
 ## Latest news
 
 - **George Kittle** — George Kittle off injury report, active for Thursday (2026-09-10T11:45:03.411000Z)
   - Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.
   - Source: https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php
-- **NEW — George Kittle** — George Kittle Will Complete His Comeback, Play in Week 1 (2026-09-10T09:42:08Z)
+- **NEW — Dallas Goedert** — Dallas Goedert Set for a Major Role (2026-09-10T09:55:05Z)
+  - Source: https://www.rotoballer.com/player-news/dallas-goedert-set-for-a-major-role/1927443
+- **George Kittle** — George Kittle Will Complete His Comeback, Play in Week 1 (2026-09-10T09:42:08Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-will-complete-his-comeback-play-week-1/1927418
-- **NEW — Rashid Shaheed** — Rashid Shaheed Quiet in Week 1 (2026-09-10T09:40:06Z)
+- **Rashid Shaheed** — Rashid Shaheed Quiet in Week 1 (2026-09-10T09:40:06Z)
   - Source: https://www.rotoballer.com/player-news/rashid-shaheed-quiet-in-week-1/1927411
-- **NEW — AJ Barner** — AJ Barner Limited to Two Receptions in Week 1 (2026-09-10T09:37:16Z)
+- **AJ Barner** — AJ Barner Limited to Two Receptions in Week 1 (2026-09-10T09:37:16Z)
   - Source: https://www.rotoballer.com/player-news/aj-barner-limited-to-two-receptions-in-week-1/1927403
-- **NEW — George Holani** — George Holani Keeps Pace With Rookie For Carries in Week 1 (2026-09-10T09:33:56Z)
+- **George Holani** — George Holani Keeps Pace With Rookie For Carries in Week 1 (2026-09-10T09:33:56Z)
   - Source: https://www.rotoballer.com/player-news/george-holani-keeps-pace-with-jadarian-price-for-carries-in-week-1/1927393
-- **NEW — Cooper Kupp** — Cooper Kupp Has Touchdown Called Back in Week 1 (2026-09-10T09:32:06Z)
+- **Cooper Kupp** — Cooper Kupp Has Touchdown Called Back in Week 1 (2026-09-10T09:32:06Z)
   - Source: https://www.rotoballer.com/player-news/cooper-kupp-has-touchdown-called-back-in-week-1/1927389
 - **Terrance Ferguson** — Terrance Ferguson Still a Riskier Play Despite Favorable Matchup (2026-09-10T09:30:05Z)
   - Source: https://www.rotoballer.com/player-news/terrance-ferguson-still-a-riskier-play-despite-favorable-matchup/1927386
@@ -71,7 +73,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606859/aj-brown-ankle-questionable-to-return.php
 - **A.J. Brown** — A.J. Brown - Questionable to return Wednesday (2026-09-10T02:11:30Z)
   - Brown suffered a right ankle injury on the Patriots' opening drive of the second half, and his availability for the rest of the game is now up in the air. In his absence, Romeo Doubs and DeMario Douglas could see an uptick in usage at wide receiver.
-- **NEW — Matthew Stafford** — Matthew Stafford Begins Quest to Defend MVP Title in Australia (2026-09-10T02:06:05Z)
+- **Matthew Stafford** — Matthew Stafford Begins Quest to Defend MVP Title in Australia (2026-09-10T02:06:05Z)
   - Source: https://www.rotoballer.com/player-news/matthew-stafford-begins-quest-to-defend-mvp-title-in-australia/1927281
 - **Sam Darnold** — Sam Darnold (hip) ruled out for remainder of season opener (2026-09-10T01:40:36.224000Z)
   - The injury was serious enough for the team to hold Darnold out, but he was able to get off the field under his own power and jog back to the locker room, so it's hopefully not too serious. Drew Lock will handle duties in the short term, which certainly caps the ceiling of the offense.
@@ -233,5 +235,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Tuten missed a practice one week ago after falling ill, but his absence from the Jaguars' first injury report of the season suggests that he's 100 percent healthy heading into Sunday's opener versus the Browns. Jaguars head coach Liam Coen hasn't revealed how he plans to divvy up the snaps among his running backs; even if Tuten ends up starting, he could wind up sharing the load on the ground with Chris Rodriguez. Third-down specialist LeQuint Allen (hip) didn't practice Wednesday and appears to be trending toward sitting out Week 1, potentially opening the door for both Tuten and Rodriguez to also see a slight spike in pass-catching opportunities.
 - **Zay Flowers** — Zay Flowers - Limited in practice Wednesday (2026-09-09T21:02:18Z)
   - Baltimore's first injury report of the season provided some clarification on the lower-body issue that has been inhibiting him over the past few weeks. The wideout missed multiple sessions last week and was working off to the side during the media-access portion of Wednesday's practice, but he'll still have two more chances to ramp up to full participation by the end of the week. For his part, Flowers told Cordell Woodland of 105.7 The Fan Baltimore that he feels "more than healthy," which suggests that he's expecting to play Sunday in Indianapolis. The Ravens' receiver depth behind Flowers is also being tested going into the season, as Devontez Walker was listed as limited Wednesday due to a groin issue.
-- **Jalen McMillan** — Jalen McMillan - Officially limited Wednesday (2026-09-09T21:00:47Z)
-  - Despite McMillan looking like his normal self in the portion of Wednesday's session open to the media, per Greg Auman of Fox Sports, the third-year wide receiver experienced restrictions on his workload. McMillan thus remains in recovery mode from the knee injury he suffered during an Aug. 4 practice, but he'll still have two more chances to get back to full participation before the weekend and Sunday's road matchup with the Bengals.
