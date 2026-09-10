@@ -3,7 +3,7 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **2505**
-- Newly captured: **3**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -69,11 +69,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606907/aj-brown-ankle-believed-to-have-suffered-high-ankle-sprain-on-wednesday.php
 - **A.J. Brown** — A.J. Brown - Believed to have high-ankle sprain (2026-09-10T14:04:45Z)
   - In his Patriots debut, Brown tallied three receptions for 26 yards on four targets before departing in the third quarter with the injury, which occurred when a Seahawks defender landed on his ankle. Though X-rays on his ankle returned negative, Brown will be sent in for an MRI on Thursday before the Patriots establish a timeline for his return. High-ankle sprains typically result in multi-week absences, so if the MRI confirms the preliminary diagnosis, Brown would face an uphill battle to suit up in the Patriots' next game Sept. 20 versus the Steelers.
-- **NEW — Kyler Murray** — Kyler Murray Well-Positioned for a Significant Bounce-Back (2026-09-10T13:13:07Z)
+- **NEW — Mike Evans** — Mike Evans Could Emerge As 49ers' Top Target In Week 1 (2026-09-10T13:29:08Z)
+  - Source: https://www.rotoballer.com/player-news/mike-evans-could-emerge-as-49ers-top-target-in-week-1/1927659
+- **NEW — Ashton Jeanty** — Ashton Jeanty Will Play on Sunday (2026-09-10T13:26:05Z)
+  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-will-play-on-sunday/1927652
+- **Kyler Murray** — Kyler Murray Well-Positioned for a Significant Bounce-Back (2026-09-10T13:13:07Z)
   - Source: https://www.rotoballer.com/player-news/kyler-murray-well-positioned-for-a-significant-bounce-back/1927641
-- **NEW — Christian McCaffrey** — Christian McCaffrey Healthy, Projected As Top-Three RB Option For Week 1 (2026-09-10T13:11:05Z)
+- **Christian McCaffrey** — Christian McCaffrey Healthy, Projected As Top-Three RB Option For Week 1 (2026-09-10T13:11:05Z)
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-healthy-projected-as-top-3-rb-option-for-week-1/1927636
-- **NEW — Jadarian Price** — Jadarian Price Quiet but Efficient in Week 1 (2026-09-10T13:07:05Z)
+- **Jadarian Price** — Jadarian Price Quiet but Efficient in Week 1 (2026-09-10T13:07:05Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-quiet-but-efficient-in-week-1/1927631
 - **Breece Hall** — Breece Hall Not Expected to be on a Pitch Count (2026-09-10T12:54:05Z)
   - Source: https://www.rotoballer.com/player-news/breece-hall-not-expected-to-be-on-a-pitch-count/1927619
@@ -230,8 +234,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The rookie second-rounder has been working through a hamstring injury since the tail end of training camp, which prevented him from playing in the Eagles' preseason finale against the Bengals on Aug. 28. Stowers will have two more opportunities to increase his practice participation and avoid an injury designation for Sunday's regular-season opener against the Commanders. The Vanderbilt product figures to operate in a depth role at tight end this season behind Dallas Goedert, with Johnny Mundt and E.J. Jenkins also in the mix for snaps on offense.
 - **Jalen Milroe** — Jalen Milroe - Emergency QB for Wednesday night (2026-09-09T23:07:08Z)
   - Milroe is the No. 3 quarterback behind Sam Darnold and Drew Lock. The second-year player is already settling into what will likely be his weekly role throughout the 2026 season, set to only check in to the game if both quarterbacks are unable to continue playing.
-- **Tory Horton** — Tory Horton - Inactive for opener (2026-09-09T23:04:59Z)
-  - The 2025 fifth-rounder was not able to recover from his hamstring injury in time for the Seahawks' Week 1 contest. Montorie Foster will take over as the No. 4 wide receiver behind Jaxon Smith-Njigba, Rashid Shaheed and Cooper Kupp for the contest.
-- **Tee Higgins** — Tee Higgins (foot) fully participates in practice Wednesday (2026-09-09T22:55:48.305000Z)
-  - Higgins is still listed on Cincinnati's injury report due to a nagging foot injury, but it's not a serious issue at this point and he was able to log a full practice session on Wednesday. He should be good to go for Week 1 and projects to be a good fantasy option against the Buccaneers.
-  - Source: https://www.fantasypros.com/nfl/news/606814/tee-higgins-foot-fully-participates-practice-wednesday.php

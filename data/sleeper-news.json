@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-10T17:27:48Z",
+  "last_checked_at": "2026-09-10T17:41:26Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13286|rotoballer|220537|1789045625000",
-    "nfl|4034|rotoballer|220536|1789045865000",
-    "nfl|5849|rotoballer|220538|1789045987000"
+    "nfl|12527|rotoballer|220539|1789046765000",
+    "nfl|2216|rotoballer|220540|1789046948000"
   ],
   "schema_version": 1,
   "source": {
@@ -490,6 +489,46 @@
       "story_id": "nfl|5859|rotowire|636678|1789049085000",
       "title": "A.J. Brown - Believed to have high-ankle sprain",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Mike Evans will make his team debut on Thursday in the season opener against the Los Angeles Rams. Evans is listed as the team's WR1, working opposite Deebo Samuel Sr. and rookie De'Zhaun Stribling. Tight end George Kittle (Achilles) is expected to be on a pitch count for Week 1, which will likely keep Evans more involved. Evans' 6-foot-5, 231-pound frame might make him an attractive target for Brock Purdy against Rams' cornerbacks Trent McDuffie and Jaylen Watson. Evans was limited throughout the preseason while managing quad and groin injuries, but downplayed the severity in a press conference this week and said that they would not have cost him game time. Evans projects as a borderline WR2/3 in RotoBaller's Week 1 rankings. He is a safe start in most leagues and should definitely be in the lineup in leagues that start three wide receivers.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Mike Evans will make his team debut on Thursday in the season opener against the Los Angeles Rams. Evans is listed as the team's WR1, working opposite Deebo Samuel Sr. and rookie De'Zhaun Stribling. Tight end George Kittle (Achilles) is expected to be on a pitch count for Week 1, which will likely keep Evans more involved. Evans' 6-foot-5, 231-pound frame might make him an attractive target for Brock Purdy against Rams' cornerbacks Trent McDuffie and Jaylen Watson. Evans was limited throughout the preseason while managing quad and groin injuries, but downplayed the severity in a press conference this week and said that they would not have cost him game time. Evans projects as a borderline WR2/3 in RotoBaller's Week 1 rankings. He is a safe start in most leagues and should definitely be in the lineup in leagues that start three wide receivers.",
+        "title": "Mike Evans Could Emerge As 49ers' Top Target In Week 1",
+        "topic_id": "1403831427312660480",
+        "url": "https://www.rotoballer.com/player-news/mike-evans-could-emerge-as-49ers-top-target-in-week-1/1927659"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1789046948000,
+      "source": "rotoballer",
+      "source_key": "220540",
+      "story_id": "nfl|2216|rotoballer|220540|1789046948000",
+      "title": "Mike Evans Could Emerge As 49ers' Top Target In Week 1",
+      "url": "https://www.rotoballer.com/player-news/mike-evans-could-emerge-as-49ers-top-target-in-week-1/1927659"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) was a full participant during Wednesday's practice, and NFL Insider Adam Schefter confirmed on Thursday that he would play in the season opener against the Dolphins. Jeanty injured his ankle in late August, drawing headlines with a dramatic exit, but he has since returned to the practice field and is not expected to be limited in Week 1. In his absence, fourth-round rookie Mike Washington Jr. positioned himself for a significant change-of-pace role through three dominant preseason outings, and it remains to be seen how new head coach Klint Kubiak will split carries in his first game with the Raiders. After handling a bell cow role as a rookie, expectations are high for Jeanty if the offense as a whole can take a step forward, and he is RotoBaller's RB15 for Week 1.",
+      "metadata": {
+        "description": "Las Vegas Raiders running back Ashton Jeanty (ankle) was a full participant during Wednesday's practice, and NFL Insider Adam Schefter confirmed on Thursday that he would play in the season opener against the Dolphins. Jeanty injured his ankle in late August, drawing headlines with a dramatic exit, but he has since returned to the practice field and is not expected to be limited in Week 1. In his absence, fourth-round rookie Mike Washington Jr. positioned himself for a significant change-of-pace role through three dominant preseason outings, and it remains to be seen how new head coach Klint Kubiak will split carries in his first game with the Raiders. After handling a bell cow role as a rookie, expectations are high for Jeanty if the offense as a whole can take a step forward, and he is RotoBaller's RB15 for Week 1.",
+        "title": "Ashton Jeanty Will Play on Sunday",
+        "topic_id": "1403828910180835328",
+        "url": "https://www.rotoballer.com/player-news/ashton-jeanty-will-play-on-sunday/1927652"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1789046765000,
+      "source": "rotoballer",
+      "source_key": "220539",
+      "story_id": "nfl|12527|rotoballer|220539|1789046765000",
+      "title": "Ashton Jeanty Will Play on Sunday",
+      "url": "https://www.rotoballer.com/player-news/ashton-jeanty-will-play-on-sunday/1927652"
     },
     {
       "analysis": null,
@@ -50359,47 +50398,6 @@
       "story_id": "nfl|5870|fantasy_pros|601801|1786470943434",
       "title": "Daniel Jones will not play in preseason opener ",
       "url": "https://www.fantasypros.com/nfl/news/601801/daniel-jones-will-not-play-preseason-opener.php"
-    },
-    {
-      "analysis": "There's little to gain by putting Jackson in harms way during the preseason, and there's a pretty solid chance he'll be held out of the team's other two exhibition contests as well. Tyler Huntley, Skylar Thompson (undisclosed) and Joe Fagnano are candidates to handle Baltimore's signal-caller reps this weekend against the Eagles.",
-      "description": "Coach Jesse Minter noted Tuesday that Jackson and other key starters won't play in Saturday's preseason opener against the Eagles, Jamison Hensley of ESPN.com reports.",
-      "metadata": {
-        "analysis": "There's little to gain by putting Jackson in harms way during the preseason, and there's a pretty solid chance he'll be held out of the team's other two exhibition contests as well. Tyler Huntley, Skylar Thompson (undisclosed) and Joe Fagnano are candidates to handle Baltimore's signal-caller reps this weekend against the Eagles.",
-        "description": "Coach Jesse Minter noted Tuesday that Jackson and other key starters won't play in Saturday's preseason opener against the Eagles, Jamison Hensley of ESPN.com reports.",
-        "title": "Lamar Jackson - Not in line to play in preseason opener",
-        "topic_id": "1392959948652019712"
-      },
-      "nfl_team": "BAL",
-      "player_id": "4881",
-      "player_name": "Lamar Jackson",
-      "position": "QB",
-      "published": 1786469719000,
-      "source": "rotowire",
-      "source_key": "633221",
-      "story_id": "nfl|4881|rotowire|633221|1786469719000",
-      "title": "Lamar Jackson - Not in line to play in preseason opener",
-      "url": null
-    },
-    {
-      "analysis": "Minter said there will be some \"established players\" not playing Saturday. Jackson should see some reps in the second or third preseason game. ",
-      "description": "Ravens coach Jesse Minter said Lamar Jackson will not play in the preseason opener on Saturday against the Eagles. ",
-      "metadata": {
-        "analysis": "Minter said there will be some \"established players\" not playing Saturday. Jackson should see some reps in the second or third preseason game. ",
-        "description": "Ravens coach Jesse Minter said Lamar Jackson will not play in the preseason opener on Saturday against the Eagles. ",
-        "title": "Lamar Jackson will not play in preseason opener",
-        "topic_id": "1392957435567693824",
-        "url": "https://www.fantasypros.com/nfl/news/601792/lamar-jackson-will-not-play-preseason-opener.php"
-      },
-      "nfl_team": "BAL",
-      "player_id": "4881",
-      "player_name": "Lamar Jackson",
-      "position": "QB",
-      "published": 1786469441845,
-      "source": "fantasy_pros",
-      "source_key": "601792",
-      "story_id": "nfl|4881|fantasy_pros|601792|1786469441845",
-      "title": "Lamar Jackson will not play in preseason opener",
-      "url": "https://www.fantasypros.com/nfl/news/601792/lamar-jackson-will-not-play-preseason-opener.php"
     }
   ]
 }
