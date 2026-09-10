@@ -1,12 +1,14 @@
 {
-  "last_checked_at": "2026-09-10T13:39:42Z",
+  "last_checked_at": "2026-09-10T13:52:43Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|12487|rotoballer|220503|1789032605000",
-    "nfl|2133|rotoballer|220502|1789032245000",
-    "nfl|8121|rotoballer|220501|1789031844000",
-    "nfl|9493|rotoballer|220500|1789031945000"
+    "nfl|11603|rotoballer|220509|1789033036000",
+    "nfl|12048|rotoballer|220504|1789032836000",
+    "nfl|4039|rotoballer|220505|1789032726000",
+    "nfl|4217|rotoballer|220510|1789033328000",
+    "nfl|421|rotoballer|220506|1789005965000",
+    "nfl|8676|rotoballer|220508|1789033206000"
   ],
   "schema_version": 1,
   "source": {
@@ -39,6 +41,106 @@
     },
     {
       "analysis": null,
+      "description": "San Francisco 49ers tight end George Kittle (Achilles) is off the injury report and has no designation for Thursday night's matchup in Melbourne against the Rams. Kittle tore his Achilles on January 11th against the Eagles, but the 32-year-old has been aiming for a Week 1 return. He'll hit that target and play on Thursday, according to NFL Network's Ian Rapoport. Kittle could need some time to ramp up to a full workload, but he brings a high enough ceiling to be started in most formats right away. Kittle is the No. 8 tight end in RotoBaller's Week 1 rankings, so he should probably be in your lineup if you drafted him in most leagues. With a whole new wide receiver group, Kittle's rapport with QB Brock Purdy will be critical to the 49ers' ability to keep up with the Rams Down Under this Thursday.",
+      "metadata": {
+        "description": "San Francisco 49ers tight end George Kittle (Achilles) is off the injury report and has no designation for Thursday night's matchup in Melbourne against the Rams. Kittle tore his Achilles on January 11th against the Eagles, but the 32-year-old has been aiming for a Week 1 return. He'll hit that target and play on Thursday, according to NFL Network's Ian Rapoport. Kittle could need some time to ramp up to a full workload, but he brings a high enough ceiling to be started in most formats right away. Kittle is the No. 8 tight end in RotoBaller's Week 1 rankings, so he should probably be in your lineup if you drafted him in most leagues. With a whole new wide receiver group, Kittle's rapport with QB Brock Purdy will be critical to the 49ers' ability to keep up with the Rams Down Under this Thursday.",
+        "title": "George Kittle Will Complete His Comeback, Play in Week 1",
+        "topic_id": "1403773541693816832",
+        "url": "https://www.rotoballer.com/player-news/george-kittle-will-complete-his-comeback-play-week-1/1927418"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1789033328000,
+      "source": "rotoballer",
+      "source_key": "220510",
+      "story_id": "nfl|4217|rotoballer|220510|1789033328000",
+      "title": "George Kittle Will Complete His Comeback, Play in Week 1",
+      "url": "https://www.rotoballer.com/player-news/george-kittle-will-complete-his-comeback-play-week-1/1927418"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Rashid Shaheed caught one of three targets for four yards on Wednesday against the New England Patriots. Despite his low target volume, Shaheed was much more involved in the offense in Week 1 than he was during the 2025 season. He played 66% of the snaps, and at one point, he was even lined up in the backfield for a pitch play before the Seahawks were called for a penalty. Despite his minimal output, fantasy managers should continue to roster him. The Seahawks' offense as a whole was not at its best in Week 1. Quarterback Sam Darnold (hip) went down with a hip injury on the fifth snap of the game, and it took the offense a full half to find its legs. Early news on Darnold's hip is positive, but backup quarterback Drew Lock demonstrated that he can hold down the offense if necessary. As such, the offense should only continue to improve. If it does, Shaheed's potential involvement is intriguing. Keep monitoring his usage in the coming weeks before letting him go to waivers.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Rashid Shaheed caught one of three targets for four yards on Wednesday against the New England Patriots. Despite his low target volume, Shaheed was much more involved in the offense in Week 1 than he was during the 2025 season. He played 66% of the snaps, and at one point, he was even lined up in the backfield for a pitch play before the Seahawks were called for a penalty. Despite his minimal output, fantasy managers should continue to roster him. The Seahawks' offense as a whole was not at its best in Week 1. Quarterback Sam Darnold (hip) went down with a hip injury on the fifth snap of the game, and it took the offense a full half to find its legs. Early news on Darnold's hip is positive, but backup quarterback Drew Lock demonstrated that he can hold down the offense if necessary. As such, the offense should only continue to improve. If it does, Shaheed's potential involvement is intriguing. Keep monitoring his usage in the coming weeks before letting him go to waivers.",
+        "title": "Rashid Shaheed Quiet in Week 1",
+        "topic_id": "1403772282156949504",
+        "url": "https://www.rotoballer.com/player-news/rashid-shaheed-quiet-in-week-1/1927411"
+      },
+      "nfl_team": "SEA",
+      "player_id": "8676",
+      "player_name": "Rashid Shaheed",
+      "position": "WR",
+      "published": 1789033206000,
+      "source": "rotoballer",
+      "source_key": "220508",
+      "story_id": "nfl|8676|rotoballer|220508|1789033206000",
+      "title": "Rashid Shaheed Quiet in Week 1",
+      "url": "https://www.rotoballer.com/player-news/rashid-shaheed-quiet-in-week-1/1927411"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks tight end AJ Barner (oblique) caught two passes for 13 yards in Week 1 against the New England Patriots. Barner was kept in check all night, with the Seahawks' offense struggling to move the ball at times. Barner entered the season with a path to a serious breakout after scoring six touchdowns and finishing as the TE14 in 2025. That path still exists and should begin to unfold as the Seahawks' offense finds its footing. With quarterback Sam Darnold (hip) sidelined in Week 1, it is unclear who will be under center next week. However, quarterback Drew Lock is a capable backup, and he should not affect Barner's ability to produce. For now, Barner is still best viewed as a TE. He can still emerge as the season wears on, but we will need to monitor his usage, particularly in the red zone. Expect better production when Seattle visits Arizona in Week 2.",
+      "metadata": {
+        "description": "Seattle Seahawks tight end AJ Barner (oblique) caught two passes for 13 yards in Week 1 against the New England Patriots. Barner was kept in check all night, with the Seahawks' offense struggling to move the ball at times. Barner entered the season with a path to a serious breakout after scoring six touchdowns and finishing as the TE14 in 2025. That path still exists and should begin to unfold as the Seahawks' offense finds its footing. With quarterback Sam Darnold (hip) sidelined in Week 1, it is unclear who will be under center next week. However, quarterback Drew Lock is a capable backup, and he should not affect Barner's ability to produce. For now, Barner is still best viewed as a TE. He can still emerge as the season wears on, but we will need to monitor his usage, particularly in the red zone. Expect better production when Seattle visits Arizona in Week 2.",
+        "title": "AJ Barner Limited to Two Receptions in Week 1",
+        "topic_id": "1403772282278584320",
+        "url": "https://www.rotoballer.com/player-news/aj-barner-limited-to-two-receptions-in-week-1/1927403"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11603",
+      "player_name": "AJ Barner",
+      "position": "TE",
+      "published": 1789033036000,
+      "source": "rotoballer",
+      "source_key": "220509",
+      "story_id": "nfl|11603|rotoballer|220509|1789033036000",
+      "title": "AJ Barner Limited to Two Receptions in Week 1",
+      "url": "https://www.rotoballer.com/player-news/aj-barner-limited-to-two-receptions-in-week-1/1927403"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks running back George Holani was relatively involved in Seattle's Week 1 win over the New England Patriots. Rookie running back Jadarian Price drew the start, but Holani entered the game on the first drive, played 46% of the snaps, and recorded eight carries to Price's 10. Holani did not catch his only target of the game. Although Holani received a fair number of touches relative to Price, he was far less explosive. Price averaged 5.2 yards per carry to Holani's 3.6. However, it is clear that the Seahawks would like to work at least two running backs into the offense. As the offense improves, so too should the effectiveness of both backs. If Holani's yards per carry increase and he catches a couple of targets per game, he may garner flex appeal as long as Zach Charbonnet (knee) is out. Holani was also active when the Seahawks were near the goal line, suggesting that he possesses potential touchdown upside. He is worth rostering to see what happens over the next couple of weeks.",
+      "metadata": {
+        "description": "Seattle Seahawks running back George Holani was relatively involved in Seattle's Week 1 win over the New England Patriots. Rookie running back Jadarian Price drew the start, but Holani entered the game on the first drive, played 46% of the snaps, and recorded eight carries to Price's 10. Holani did not catch his only target of the game. Although Holani received a fair number of touches relative to Price, he was far less explosive. Price averaged 5.2 yards per carry to Holani's 3.6. However, it is clear that the Seahawks would like to work at least two running backs into the offense. As the offense improves, so too should the effectiveness of both backs. If Holani's yards per carry increase and he catches a couple of targets per game, he may garner flex appeal as long as Zach Charbonnet (knee) is out. Holani was also active when the Seahawks were near the goal line, suggesting that he possesses potential touchdown upside. He is worth rostering to see what happens over the next couple of weeks.",
+        "title": "George Holani Keeps Pace With Rookie For Carries in Week 1",
+        "topic_id": "1403771023765032960",
+        "url": "https://www.rotoballer.com/player-news/george-holani-keeps-pace-with-jadarian-price-for-carries-in-week-1/1927393"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12048",
+      "player_name": "George Holani",
+      "position": "RB",
+      "published": 1789032836000,
+      "source": "rotoballer",
+      "source_key": "220504",
+      "story_id": "nfl|12048|rotoballer|220504|1789032836000",
+      "title": "George Holani Keeps Pace With Rookie For Carries in Week 1",
+      "url": "https://www.rotoballer.com/player-news/george-holani-keeps-pace-with-jadarian-price-for-carries-in-week-1/1927393"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Cooper Kupp caught two passes for 35 yards in Seattle's Week 1 win against the New England Patriots. Kupp also had a touchdown called back due to an illegal shift. The game was sloppy as a whole, with both offenses just getting their legs back under them. However, the Seahawks' usage of their pass catchers looked very similar to 2025. Wide receiver Jaxon Smith-Njigba led the team with 11 targets while Kupp was tied for second place with just three. Kupp was targeted on got-to-have-it downs as a veteran presence, but it does appear that this is shaping up to be another quiet fantasy season for him. As the Seahawks' offense continues to improve, it is worth keeping an eye on Kupp's usage. However, for now, it is clear that he should not be in your lineup.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Cooper Kupp caught two passes for 35 yards in Seattle's Week 1 win against the New England Patriots. Kupp also had a touchdown called back due to an illegal shift. The game was sloppy as a whole, with both offenses just getting their legs back under them. However, the Seahawks' usage of their pass catchers looked very similar to 2025. Wide receiver Jaxon Smith-Njigba led the team with 11 targets while Kupp was tied for second place with just three. Kupp was targeted on got-to-have-it downs as a veteran presence, but it does appear that this is shaping up to be another quiet fantasy season for him. As the Seahawks' offense continues to improve, it is worth keeping an eye on Kupp's usage. However, for now, it is clear that he should not be in your lineup.",
+        "title": "Cooper Kupp Has Touchdown Called Back in Week 1",
+        "topic_id": "1403771023773421568",
+        "url": "https://www.rotoballer.com/player-news/cooper-kupp-has-touchdown-called-back-in-week-1/1927389"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4039",
+      "player_name": "Cooper Kupp",
+      "position": "WR",
+      "published": 1789032726000,
+      "source": "rotoballer",
+      "source_key": "220505",
+      "story_id": "nfl|4039|rotoballer|220505|1789032726000",
+      "title": "Cooper Kupp Has Touchdown Called Back in Week 1",
+      "url": "https://www.rotoballer.com/player-news/cooper-kupp-has-touchdown-called-back-in-week-1/1927389"
+    },
+    {
+      "analysis": null,
       "description": "Los Angeles Rams tight end Terrance Ferguson is trending up in fantasy football. As he continues to work his way toward the No. 1 spot on the depth chart, Ferguson has emerged as the Rams tight end to roster in redraft leagues. However, that doesn't mean he's a no-brainer fantasy option for Week 1 against the San Francisco 49ers. Ferguson finished his rookie season on a high note with five catches and two touchdowns across two games, but other than that, we haven't seen him maintain a consistent fantasy-relevant role. It's fair to say that he could remain dependent on touchdowns, and he's certainly not a lock to find the end zone within an offense that also includes Puka Nacua and Davante Adams. The good news for Ferguson is that he gets a softer matchup, as the Niners allowed the eighth-most fantasy points and sixth-most touchdowns to tight ends last year. Still, until Ferguson proves that he can handle a large workload every week, he's a riskier fantasy option. He ranks as the TE20 in RotoBaller's Week 1 fantasy football rankings.",
       "metadata": {
         "description": "Los Angeles Rams tight end Terrance Ferguson is trending up in fantasy football. As he continues to work his way toward the No. 1 spot on the depth chart, Ferguson has emerged as the Rams tight end to roster in redraft leagues. However, that doesn't mean he's a no-brainer fantasy option for Week 1 against the San Francisco 49ers. Ferguson finished his rookie season on a high note with five catches and two touchdowns across two games, but other than that, we haven't seen him maintain a consistent fantasy-relevant role. It's fair to say that he could remain dependent on touchdowns, and he's certainly not a lock to find the end zone within an offense that also includes Puka Nacua and Davante Adams. The good news for Ferguson is that he gets a softer matchup, as the Niners allowed the eighth-most fantasy points and sixth-most touchdowns to tight ends last year. Still, until Ferguson proves that he can handle a large workload every week, he's a riskier fantasy option. He ranks as the TE20 in RotoBaller's Week 1 fantasy football rankings.",
@@ -62,7 +164,7 @@
       "description": "Los Angeles Rams wide receiver Davante Adams has WR1 upside if he's able to find the end zone during Thursday's Week 1 contest against the San Francisco 49ers. If he's unable to score a touchdown, he'll still be worth starting, but he'll likely end up closer to the low-end WR2 range. Touchdowns were a key theme for Adams last year, as he caught a modest (by his standards) 60 passes for 789 yards but still managed to cross the goal line 14 times, tying his highest total since 2020. The 49ers' pass defense looks similar to last year, when they allowed the 14th-most fantasy points to wide receivers. They also ranked near the league median in terms of limiting scoring; they allowed the 15th-fewest touchdowns to wide receivers. Adams found success in this divisional matchup last year, totaling 11 catches, 145 yards, and one touchdown across two games against the Niners.",
       "metadata": {
         "description": "Los Angeles Rams wide receiver Davante Adams has WR1 upside if he's able to find the end zone during Thursday's Week 1 contest against the San Francisco 49ers. If he's unable to score a touchdown, he'll still be worth starting, but he'll likely end up closer to the low-end WR2 range. Touchdowns were a key theme for Adams last year, as he caught a modest (by his standards) 60 passes for 789 yards but still managed to cross the goal line 14 times, tying his highest total since 2020. The 49ers' pass defense looks similar to last year, when they allowed the 14th-most fantasy points to wide receivers. They also ranked near the league median in terms of limiting scoring; they allowed the 15th-fewest touchdowns to wide receivers. Adams found success in this divisional matchup last year, totaling 11 catches, 145 yards, and one touchdown across two games against the Niners.",
-        "title": "Davante Adams a Touchdown-Dependent WR1 for Season Opener in Australia",
+        "title": "Davante Adams a Touchdown-Dependent WR1 for Season Opener",
         "topic_id": "1403768507568513024",
         "url": "https://www.rotoballer.com/player-news/davante-adams-a-touchdown-dependent-wr1-for-season-opener-in-australia/1927373"
       },
@@ -74,7 +176,7 @@
       "source": "rotoballer",
       "source_key": "220502",
       "story_id": "nfl|2133|rotoballer|220502|1789032245000",
-      "title": "Davante Adams a Touchdown-Dependent WR1 for Season Opener in Australia",
+      "title": "Davante Adams a Touchdown-Dependent WR1 for Season Opener",
       "url": "https://www.rotoballer.com/player-news/davante-adams-a-touchdown-dependent-wr1-for-season-opener-in-australia/1927373"
     },
     {
@@ -521,6 +623,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Los Angeles Rams quarterback Matthew Stafford won the league MVP award last season, and he continues to play at an elite level despite being 38 years old. Of course, he has certainly had some help from one of the best wide receiver duos in recent NFL history. Puka Nacua and Davante Adams combined for 2,504 yards and 24 touchdowns last year, as both receivers finished as the WR9 or higher. This strong supporting cast will help Stafford produce in a divisional contest against the San Francisco 49ers in Australia. The 49ers represent a modest matchup, as they allowed the 13th-most fantasy points to opposing quarterbacks last year. The unit did get some upgrades in the form of Dre Greenlaw and Osa Odighizuwa, but that's probably not enough to slow down Stafford in fantasy football. Thanks to his strong supporting cast and the projected competitive nature of Thursday's divisional battle, Stafford remains firmly in the mix to be a top-10 fantasy quarterback for Week 1.",
+      "metadata": {
+        "description": "Los Angeles Rams quarterback Matthew Stafford won the league MVP award last season, and he continues to play at an elite level despite being 38 years old. Of course, he has certainly had some help from one of the best wide receiver duos in recent NFL history. Puka Nacua and Davante Adams combined for 2,504 yards and 24 touchdowns last year, as both receivers finished as the WR9 or higher. This strong supporting cast will help Stafford produce in a divisional contest against the San Francisco 49ers in Australia. The 49ers represent a modest matchup, as they allowed the 13th-most fantasy points to opposing quarterbacks last year. The unit did get some upgrades in the form of Dre Greenlaw and Osa Odighizuwa, but that's probably not enough to slow down Stafford in fantasy football. Thanks to his strong supporting cast and the projected competitive nature of Thursday's divisional battle, Stafford remains firmly in the mix to be a top-10 fantasy quarterback for Week 1.",
+        "title": "Matthew Stafford Begins Quest to Defend MVP Title in Australia",
+        "topic_id": "1403771023966359552",
+        "url": "https://www.rotoballer.com/player-news/matthew-stafford-begins-quest-to-defend-mvp-title-in-australia/1927281"
+      },
+      "nfl_team": "LAR",
+      "player_id": "421",
+      "player_name": "Matthew Stafford",
+      "position": "QB",
+      "published": 1789005965000,
+      "source": "rotoballer",
+      "source_key": "220506",
+      "story_id": "nfl|421|rotoballer|220506|1789005965000",
+      "title": "Matthew Stafford Begins Quest to Defend MVP Title in Australia",
+      "url": "https://www.rotoballer.com/player-news/matthew-stafford-begins-quest-to-defend-mvp-title-in-australia/1927281"
+    },
+    {
       "analysis": "The injury was serious enough for the team to hold Darnold out, but he was able to get off the field under his own power and jog back to the locker room, so it's hopefully not too serious. Drew Lock will handle duties in the short term, which certainly caps the ceiling of the offense.",
       "description": "Sam Darnold (hip) has been ruled out for the remainder of the Seahawks contest against the Patriots on Wednesday.",
       "metadata": {
@@ -566,7 +688,7 @@
       "description": "New England Patriots running back Rhamondre Stevenson rushed for 51 yards on 18 carries during Wednesday's Week 1 loss against the Seattle Seahawks. He also caught five of his six targets for an additional 44 receiving yards. Stevenson took over as the Patriots' lead back with TreVeyon Henderson (ankle) sidelined, and while he averaged a woeful 2.8 yards per carry, he salvaged his fantasy performance with large volume and very admirable contributions in the receiving game. Ideally, Stevenson and Henderson can form a solid one-two punch when the latter is healthy, with Henderson fighting for yardage on early downs and Stevenson offering an outlet for Drake Maye in the passing game on third down. There doesn't appear to be a whole lot of rushing upside with Stevenson, so he'll need to continue producing as a receiver to stay on the radar in fantasy football leagues. If Henderson has to miss another week, Stevenson will likely remain in the high-end RB3 range, especially in PPR formats.",
       "metadata": {
         "description": "New England Patriots running back Rhamondre Stevenson rushed for 51 yards on 18 carries during Wednesday's Week 1 loss against the Seattle Seahawks. He also caught five of his six targets for an additional 44 receiving yards. Stevenson took over as the Patriots' lead back with TreVeyon Henderson (ankle) sidelined, and while he averaged a woeful 2.8 yards per carry, he salvaged his fantasy performance with large volume and very admirable contributions in the receiving game. Ideally, Stevenson and Henderson can form a solid one-two punch when the latter is healthy, with Henderson fighting for yardage on early downs and Stevenson offering an outlet for Drake Maye in the passing game on third down. There doesn't appear to be a whole lot of rushing upside with Stevenson, so he'll need to continue producing as a receiver to stay on the radar in fantasy football leagues. If Henderson has to miss another week, Stevenson will likely remain in the high-end RB3 range, especially in PPR formats.",
-        "title": "Rhamondre Stevenson Impressive as Receiver, Salvages Fantasy Performance",
+        "title": "Rhamondre Stevenson Impressive as Receiver",
         "topic_id": "1403645335049342976",
         "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-impressive-as-receiver-salvages-fantasy-performance/1927277"
       },
@@ -578,7 +700,7 @@
       "source": "rotoballer",
       "source_key": "220494",
       "story_id": "nfl|7611|rotoballer|220494|1789002727000",
-      "title": "Rhamondre Stevenson Impressive as Receiver, Salvages Fantasy Performance",
+      "title": "Rhamondre Stevenson Impressive as Receiver",
       "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-impressive-as-receiver-salvages-fantasy-performance/1927277"
     },
     {

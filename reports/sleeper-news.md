@@ -2,21 +2,31 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2457**
-- Newly captured: **4**
+- Stored stories: **2463**
+- Newly captured: **6**
 
 ## Latest news
 
 - **George Kittle** — George Kittle off injury report, active for Thursday (2026-09-10T11:45:03.411000Z)
   - Kittle is a day under nine months since his Achilles tear, and now will complete his improbable comeback by playing in the Niners season opener. Expect him to have a decent workload, though don't be surprised if the Niners limit his snaps a bit. He's crucial for their long term success, so they'll need to keep him fresh and available.
   - Source: https://www.fantasypros.com/nfl/news/606900/george-kittle-off-injury-report-active-thursday.php
-- **NEW — Terrance Ferguson** — Terrance Ferguson Still a Riskier Play Despite Favorable Matchup (2026-09-10T09:30:05Z)
+- **NEW — George Kittle** — George Kittle Will Complete His Comeback, Play in Week 1 (2026-09-10T09:42:08Z)
+  - Source: https://www.rotoballer.com/player-news/george-kittle-will-complete-his-comeback-play-week-1/1927418
+- **NEW — Rashid Shaheed** — Rashid Shaheed Quiet in Week 1 (2026-09-10T09:40:06Z)
+  - Source: https://www.rotoballer.com/player-news/rashid-shaheed-quiet-in-week-1/1927411
+- **NEW — AJ Barner** — AJ Barner Limited to Two Receptions in Week 1 (2026-09-10T09:37:16Z)
+  - Source: https://www.rotoballer.com/player-news/aj-barner-limited-to-two-receptions-in-week-1/1927403
+- **NEW — George Holani** — George Holani Keeps Pace With Rookie For Carries in Week 1 (2026-09-10T09:33:56Z)
+  - Source: https://www.rotoballer.com/player-news/george-holani-keeps-pace-with-jadarian-price-for-carries-in-week-1/1927393
+- **NEW — Cooper Kupp** — Cooper Kupp Has Touchdown Called Back in Week 1 (2026-09-10T09:32:06Z)
+  - Source: https://www.rotoballer.com/player-news/cooper-kupp-has-touchdown-called-back-in-week-1/1927389
+- **Terrance Ferguson** — Terrance Ferguson Still a Riskier Play Despite Favorable Matchup (2026-09-10T09:30:05Z)
   - Source: https://www.rotoballer.com/player-news/terrance-ferguson-still-a-riskier-play-despite-favorable-matchup/1927386
-- **NEW — Davante Adams** — Davante Adams a Touchdown-Dependent WR1 for Season Opener in Australia (2026-09-10T09:24:05Z)
+- **Davante Adams** — Davante Adams a Touchdown-Dependent WR1 for Season Opener (2026-09-10T09:24:05Z)
   - Source: https://www.rotoballer.com/player-news/davante-adams-a-touchdown-dependent-wr1-for-season-opener-in-australia/1927373
-- **NEW — Puka Nacua** — Puka Nacua's Quest to Defend WR1 Title Begins Thursday in Australia (2026-09-10T09:19:05Z)
+- **Puka Nacua** — Puka Nacua's Quest to Defend WR1 Title Begins Thursday in Australia (2026-09-10T09:19:05Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacuas-quest-to-defend-wr1-title-begins-thursday-in-australia/1927367
-- **NEW — Romeo Doubs** — Romeo Doubs Has Path to High Target Share Following Injury (2026-09-10T09:17:24Z)
+- **Romeo Doubs** — Romeo Doubs Has Path to High Target Share Following Injury (2026-09-10T09:17:24Z)
   - Source: https://www.rotoballer.com/player-news/romeo-doubs-has-path-to-high-target-share-following-injury/1927365
 - **Blake Corum** — Blake Corum Has Standalone Value Despite Tough Matchup (2026-09-10T09:12:10Z)
   - Source: https://www.rotoballer.com/player-news/blake-corum-has-standalone-value-despite-tough-matchup/1927356
@@ -61,12 +71,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606859/aj-brown-ankle-questionable-to-return.php
 - **A.J. Brown** — A.J. Brown - Questionable to return Wednesday (2026-09-10T02:11:30Z)
   - Brown suffered a right ankle injury on the Patriots' opening drive of the second half, and his availability for the rest of the game is now up in the air. In his absence, Romeo Doubs and DeMario Douglas could see an uptick in usage at wide receiver.
+- **NEW — Matthew Stafford** — Matthew Stafford Begins Quest to Defend MVP Title in Australia (2026-09-10T02:06:05Z)
+  - Source: https://www.rotoballer.com/player-news/matthew-stafford-begins-quest-to-defend-mvp-title-in-australia/1927281
 - **Sam Darnold** — Sam Darnold (hip) ruled out for remainder of season opener (2026-09-10T01:40:36.224000Z)
   - The injury was serious enough for the team to hold Darnold out, but he was able to get off the field under his own power and jog back to the locker room, so it's hopefully not too serious. Drew Lock will handle duties in the short term, which certainly caps the ceiling of the offense.
   - Source: https://www.fantasypros.com/nfl/news/606856/sam-darnold-hip-ruled-out-remainder-season-opener.php
 - **Sam Darnold** — Sam Darnold - Ruled out with injury (2026-09-10T01:38:04Z)
   - Darnold will undergo additional imaging on his hip off-site, and the exact diagnosis of his injury will likely be disclosed thereafter. Drew Lock will continue to operate as Seattle's quarterback in Darnold's absence versus the Patriots.
-- **Rhamondre Stevenson** — Rhamondre Stevenson Impressive as Receiver, Salvages Fantasy Performance (2026-09-10T01:12:07Z)
+- **Rhamondre Stevenson** — Rhamondre Stevenson Impressive as Receiver (2026-09-10T01:12:07Z)
   - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-impressive-as-receiver-salvages-fantasy-performance/1927277
 - **Ollie Gordon** — Ollie Gordon - Not listed on injury report (2026-09-10T01:07:52Z)
   - Gordon recently returned to practice without a non-contact jersey. With his full participation in Wednesday's practice, all signs are pointing toward his availability for Week 1 versus the Raiders. The 22-year-old finished the 2025 campaign by rushing for 199 yards and three touchdowns off 70 carries, adding seven grabs for 32 yards and a touchdown in 17 regular-season appearances. Gordon currently occupies the No. 3 spot on the depth chart behind De'Von Achane and Jaylen Wright.
@@ -223,18 +235,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Baltimore's first injury report of the season provided some clarification on the lower-body issue that has been inhibiting him over the past few weeks. The wideout missed multiple sessions last week and was working off to the side during the media-access portion of Wednesday's practice, but he'll still have two more chances to ramp up to full participation by the end of the week. For his part, Flowers told Cordell Woodland of 105.7 The Fan Baltimore that he feels "more than healthy," which suggests that he's expecting to play Sunday in Indianapolis. The Ravens' receiver depth behind Flowers is also being tested going into the season, as Devontez Walker was listed as limited Wednesday due to a groin issue.
 - **Jalen McMillan** — Jalen McMillan - Officially limited Wednesday (2026-09-09T21:00:47Z)
   - Despite McMillan looking like his normal self in the portion of Wednesday's session open to the media, per Greg Auman of Fox Sports, the third-year wide receiver experienced restrictions on his workload. McMillan thus remains in recovery mode from the knee injury he suffered during an Aug. 4 practice, but he'll still have two more chances to get back to full participation before the weekend and Sunday's road matchup with the Bengals.
-- **Tee Higgins** — Tee Higgins - Full-go Wednesday (2026-09-09T20:56:51Z)
-  - The Bengals look to have their dynamic receiver tandem in position to play in the opener as Higgins and Ja'Marr Chase (knee) both practiced in full to begin the week. Higgins was slowed by a heel contusion earlier in September but is tracking towards being ready to begin the season. The Bengals will host the Buccaneers to kick off 2026.
-- **Jakobi Meyers** — Jakobi Meyers (thumb) officially limited Wednesday (2026-09-09T20:55:47.504000Z)
-  - Meyers was officially a limited participant at Wednesday's practice, but he told reporters that he is going to play in Week 1, so it looks like he will be a full go barring any setbacks with his recovery. Look for Brian Thomas Jr. to see less work with the veteran in the lineup.
-  - Source: https://www.fantasypros.com/nfl/news/606764/jakobi-meyers-thumb-officially-limited-wednesday.php
-- **Brian Thomas** — Brian Thomas Jr. (shoulder) without injury designation for Sunday (2026-09-09T20:55:47.488000Z)
-  - The young wideout's shoulder injury is no longer an issue and he carries no injury designation ahead of Sunday's game against the Browns. He won't be limited at all, but it remains to be seen how big of a role he will play in Jacksonville's offense in 2026.
-  - Source: https://www.fantasypros.com/nfl/news/606767/brian-thomas-jr-shoulder-without-injury-designation-sunday.php
-- **Alec Pierce** — Alec Pierce (heel) limited at practice Wednesday (2026-09-09T20:55:47.469000Z)
-  - Pierce took part in Wednesday's practice as a limited participant. He is still recovering from an injury that left him sidelined for most of the offseason, but it was previously reported that he is expected to play in Week 1. Fantasy managers should keep close tabs on updates about his health throughout the week to see whether or not he will be a full go for the season opener.
-  - Source: https://www.fantasypros.com/nfl/news/606770/alec-pierce-heel-limited-practice-wednesday.php
-- **Theo Johnson** — Theo Johnson - Full practice Wednesday (2026-09-09T20:54:24Z)
-  - Johnson is coming off a 2025 regular season in which he posted a 45-528-5 line on 74 targets in 15 games, but the arrival of TE Isaiah Likely via free agency has provided the former with some competition at the position ahead of his third pro campaign. With the shoulder injury he picked up in an Aug. 24 practice behind Johnson, he'll focus on being a regular part of the Giants offense in Sunday's Week 1 matchup with the Cowboys.
-- **Alvin Kamara** — Alvin Kamara - Returns to practice Wednesday (2026-09-09T20:54:19Z)
-  - With Kamara back on the field after being sidelined by a sprained MCL for most of the summer, he has a chance to play Sunday against the Lions. Travis Etienne is expected to operate as the Saints' lead back this season, but the veteran Kamara still figures to have a prominent role on offense. If Kamara is unable to face Detroit, Etienne gets a big boost to his fantasy floor, making him a borderline RB1 in a potential shootout.
