@@ -1,12 +1,12 @@
 {
-  "last_checked_at": "2026-09-10T20:02:59Z",
+  "last_checked_at": "2026-09-10T20:19:18Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11583|fantasy_pros|606968|1789070422163",
-    "nfl|11620|rotoballer|220560|1789055645000",
-    "nfl|1166|rotoballer|220559|1789055765000",
-    "nfl|6768|fantasy_pros|606967|1789070422179"
+    "nfl|13320|rotowire|636703|1789070397000",
+    "nfl|6768|rotowire|636704|1789070419000",
+    "nfl|8142|fantasy_pros|606969|1789071322271",
+    "nfl|8142|rotowire|636705|1789070888000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +16,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Pierce was limited for a second-straight practice on Thursday. It sounds like the team is still planning to have him play in Week 1, but it remains to be seen how many snaps he will get. Fantasy managers should pay attention to any updates about his health or workload ahead of Indianapolis' season opener against the Ravens this weekend.",
+      "description": "Alec Pierce (heel) was listed as a limited participant at practice on Thursday.",
+      "metadata": {
+        "analysis": "Pierce was limited for a second-straight practice on Thursday. It sounds like the team is still planning to have him play in Week 1, but it remains to be seen how many snaps he will get. Fantasy managers should pay attention to any updates about his health or workload ahead of Indianapolis' season opener against the Ravens this weekend.",
+        "description": "Alec Pierce (heel) was listed as a limited participant at practice on Thursday.",
+        "title": "Alec Pierce (heel) listed as limited Thursday",
+        "topic_id": "1403870513045999616",
+        "url": "https://www.fantasypros.com/nfl/news/606969/alec-pierce-heel-listed-limited-thursday.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1789071322271,
+      "source": "fantasy_pros",
+      "source_key": "606969",
+      "story_id": "nfl|8142|fantasy_pros|606969|1789071322271",
+      "title": "Alec Pierce (heel) listed as limited Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/606969/alec-pierce-heel-listed-limited-thursday.php"
+    },
+    {
+      "analysis": "Pierce has kicked off Week 1 prep with a pair of limited practices, but he could still avoid an injury designation for Sunday's season opener against the Ravens by upgrading to full participation Friday. The Colts' leading receiver in 2025 is coming off an eventful offseason, during which Pierce underwent ankle surgery shortly after signing a four-year, $114 million contract in March. This current heel issue may be connected to that ankle procedure, which kept Pierce sidelined for all of training camp.",
+      "description": "Pierce (heel) was a limited participant at Thursday's practice.",
+      "metadata": {
+        "analysis": "Pierce has kicked off Week 1 prep with a pair of limited practices, but he could still avoid an injury designation for Sunday's season opener against the Ravens by upgrading to full participation Friday. The Colts' leading receiver in 2025 is coming off an eventful offseason, during which Pierce underwent ankle surgery shortly after signing a four-year, $114 million contract in March. This current heel issue may be connected to that ankle procedure, which kept Pierce sidelined for all of training camp.",
+        "description": "Pierce (heel) was a limited participant at Thursday's practice.",
+        "title": "Alec Pierce - Remains limited Thursday",
+        "topic_id": "1403869248907980800"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1789070888000,
+      "source": "rotowire",
+      "source_key": "636705",
+      "story_id": "nfl|8142|rotowire|636705|1789070888000",
+      "title": "Alec Pierce - Remains limited Thursday",
+      "url": null
+    },
     {
       "analysis": "Tagovailoa is a new addition to Atlanta's injury report. He seems to be dealing with an oblique injury of some kind, and it's currently unclear what effect it will have, if any, on his Week 1 availability. This is a situation that fantasy managers should be monitoring closely heading into the weekend.",
       "description": "Tua Tagovailoa (oblique) was officially limited at Atlanta's practice on Thursday.",
@@ -57,6 +98,46 @@
       "story_id": "nfl|11583|fantasy_pros|606968|1789070422163",
       "title": "Jonathon Brooks (groin) limited again Thursday",
       "url": "https://www.fantasypros.com/nfl/news/606968/jonathon-brooks-groin-limited-again-thursday.php"
+    },
+    {
+      "analysis": "It appeared Tagovailoa was dealing with a back injury, but it turns out he is actually dealing with an oblique issue. This is a curveball for the Falcons, who are already shorthanded at quarterback with Michael Penix (knee) out for the opener. With Tagovailoa tending to the injury, the Falcons gave all the first-team reps to Cooper Rush on Thursday. Suddenly, Friday's injury report becomes one of the most impactful ones across the whole league as the Falcons could be down their top two quarterbacks for Week 1 if Tagovailoa doesn't bounce back quickly.",
+      "description": "Tagovailoa was limited at Thursday's practice by an oblique injury, according to the Falcons' official site.",
+      "metadata": {
+        "analysis": "It appeared Tagovailoa was dealing with a back injury, but it turns out he is actually dealing with an oblique issue. This is a curveball for the Falcons, who are already shorthanded at quarterback with Michael Penix (knee) out for the opener. With Tagovailoa tending to the injury, the Falcons gave all the first-team reps to Cooper Rush on Thursday. Suddenly, Friday's injury report becomes one of the most impactful ones across the whole league as the Falcons could be down their top two quarterbacks for Week 1 if Tagovailoa doesn't bounce back quickly.",
+        "description": "Tagovailoa was limited at Thursday's practice by an oblique injury, according to the Falcons' official site.",
+        "title": "Tua Tagovailoa - Dealing with oblique inujry",
+        "topic_id": "1403867991082307584"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1789070419000,
+      "source": "rotowire",
+      "source_key": "636704",
+      "story_id": "nfl|6768|rotowire|636704|1789070419000",
+      "title": "Tua Tagovailoa - Dealing with oblique inujry",
+      "url": null
+    },
+    {
+      "analysis": "Branch has been a limited participant in consecutive practices to kick off Week 1 prep, but the rookie third-round pick still has a chance to avoid an injury designation if he can upgrade to full practice participation Friday as he looks to make his NFL debut Sunday against the Steelers. Branch is expected to fill a reserve role at wide receiver to begin his career, but he's penciled in as Atlanta's primary punt returner.",
+      "description": "Branch (hamstring) remained limited at practice Thursday, Tori McElhaney of the Falcons' official site reports.",
+      "metadata": {
+        "analysis": "Branch has been a limited participant in consecutive practices to kick off Week 1 prep, but the rookie third-round pick still has a chance to avoid an injury designation if he can upgrade to full practice participation Friday as he looks to make his NFL debut Sunday against the Steelers. Branch is expected to fill a reserve role at wide receiver to begin his career, but he's penciled in as Atlanta's primary punt returner.",
+        "description": "Branch (hamstring) remained limited at practice Thursday, Tori McElhaney of the Falcons' official site reports.",
+        "title": "Zachariah Branch - Stays limited Thursday",
+        "topic_id": "1403867990985838592"
+      },
+      "nfl_team": "ATL",
+      "player_id": "13320",
+      "player_name": "Zachariah Branch",
+      "position": "WR",
+      "published": 1789070397000,
+      "source": "rotowire",
+      "source_key": "636703",
+      "story_id": "nfl|13320|rotowire|636703|1789070397000",
+      "title": "Zachariah Branch - Stays limited Thursday",
+      "url": null
     },
     {
       "analysis": "Penix is still listed on Atlanta's injury report due to a knee injury, but he again logged a full practice session on Thursday and seems to be close to full health at this point. Fantasy managers should keep tabs on all injury updates out of Atlanta, as starting QB Tua Tagovailoa (back) now seems to be dealing with an issue that could affect his availability for Sunday.",
@@ -733,9 +814,9 @@
     },
     {
       "analysis": null,
-      "description": "Free-agent wide receiver Tyreek Hill is still sitting on plenty of waiver wires, with his Yahoo roster rate at 4%. There is at least a little more reason to watch him now. Agent Drew Rosenhaus said Wednesday that doctors have recommended Hill wait until sometime in October before trying to come back, but he also said teams have shown interest after seeing recent video of Hill running and cutting. That does not make Hill a usable fantasy option anytime soon. He is 32, still unsigned and coming back from a left knee dislocation with multiple torn ligaments, including his ACL. Hill had 21 catches for 265 yards and one touchdown in four games before the injury last season. There are still a lot of hurdles here, and even a signing would not mean an immediate fantasy role. But in deeper leagues with an open bench spot, Hill is worth stashing before there is a team attached to his name. Managers in shallower formats can keep watching the situation instead.",
+      "description": "Free-agent wide receiver Tyreek Hill (knee) is still sitting on plenty of waiver wires, with his Yahoo roster rate at 4%. There is at least a little more reason to watch him now. Agent Drew Rosenhaus said Wednesday that doctors have recommended Hill wait until sometime in October before trying to come back, but he also said teams have shown interest after seeing recent video of Hill running and cutting. That does not make Hill a usable fantasy option anytime soon. He is 32, still unsigned, and coming back from a left-knee dislocation with multiple torn ligaments, including his ACL. Hill had 21 catches for 265 yards and one touchdown in four games before the injury last season. There are still a lot of hurdles here, and even a signing would not mean an immediate fantasy role. But in deeper leagues with an open bench spot, Hill is worth stashing before there is a team attached to his name. Managers in shallower formats can keep watching the situation instead.",
       "metadata": {
-        "description": "Free-agent wide receiver Tyreek Hill is still sitting on plenty of waiver wires, with his Yahoo roster rate at 4%. There is at least a little more reason to watch him now. Agent Drew Rosenhaus said Wednesday that doctors have recommended Hill wait until sometime in October before trying to come back, but he also said teams have shown interest after seeing recent video of Hill running and cutting. That does not make Hill a usable fantasy option anytime soon. He is 32, still unsigned and coming back from a left knee dislocation with multiple torn ligaments, including his ACL. Hill had 21 catches for 265 yards and one touchdown in four games before the injury last season. There are still a lot of hurdles here, and even a signing would not mean an immediate fantasy role. But in deeper leagues with an open bench spot, Hill is worth stashing before there is a team attached to his name. Managers in shallower formats can keep watching the situation instead.",
+        "description": "Free-agent wide receiver Tyreek Hill (knee) is still sitting on plenty of waiver wires, with his Yahoo roster rate at 4%. There is at least a little more reason to watch him now. Agent Drew Rosenhaus said Wednesday that doctors have recommended Hill wait until sometime in October before trying to come back, but he also said teams have shown interest after seeing recent video of Hill running and cutting. That does not make Hill a usable fantasy option anytime soon. He is 32, still unsigned, and coming back from a left-knee dislocation with multiple torn ligaments, including his ACL. Hill had 21 catches for 265 yards and one touchdown in four games before the injury last season. There are still a lot of hurdles here, and even a signing would not mean an immediate fantasy role. But in deeper leagues with an open bench spot, Hill is worth stashing before there is a team attached to his name. Managers in shallower formats can keep watching the situation instead.",
         "title": "Tyreek Hill Only a Deep-League Stash for Now",
         "topic_id": "1403864213629186048",
         "url": "https://www.rotoballer.com/player-news/tyreek-hill-only-a-deep-league-stash-for-now/1927800"

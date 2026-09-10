@@ -22341,7 +22341,7 @@
       ],
       "first_name": "Tua",
       "full_name": "Tua Tagovailoa",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Tagovailoa",
       "nfl_team": "ATL",
       "player_id": "6768",
@@ -23917,8 +23917,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-10T17:52:31Z",
-    "source_fingerprint": "b7364e38bfe8c0681a097bff73059c4138f12f2fdf77ec3e98dcff9d7a4fab5f"
+    "last_changed_at": "2026-09-10T18:05:37Z",
+    "source_fingerprint": "1d37bd2f67895b944aab05f685b75a35b547c8ed811e2c5f89a4987e78b75d05"
   },
   "teams": [
     {
