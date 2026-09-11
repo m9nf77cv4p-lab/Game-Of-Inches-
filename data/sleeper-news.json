@@ -1,12 +1,15 @@
 {
-  "last_checked_at": "2026-09-11T17:08:51Z",
+  "last_checked_at": "2026-09-11T17:24:02Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 287,
   "new_story_ids": [
-    "nfl|5859|rotoballer|220633|1789131120000",
-    "nfl|5859|rotowire|636830|1789145489000",
-    "nfl|6801|fantasy_pros|607152|1789146028579",
-    "nfl|7564|fantasy_pros|607153|1789146328591"
+    "nfl|11559|fantasy_pros|607154|1789146628474",
+    "nfl|11583|fantasy_pros|607156|1789146928778",
+    "nfl|11618|fantasy_pros|607158|1789147228529",
+    "nfl|11618|rotoballer|220635|1789132027000",
+    "nfl|11620|rotowire|636831|1789146359000",
+    "nfl|12514|fantasy_pros|607157|1789147228544",
+    "nfl|12533|rotoballer|220636|1789132445000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +19,110 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "",
+      "description": "Emeka Egbuka (toe) is cleared to play in Week 1 for the Tampa Bay Buccaneers against the Cincinnati Bengals according to Greg Auman.",
+      "metadata": {
+        "analysis": "",
+        "description": "Emeka Egbuka (toe) is cleared to play in Week 1 for the Tampa Bay Buccaneers against the Cincinnati Bengals according to Greg Auman.",
+        "title": "Emeka Egbuka (toe) cleared for Week 1",
+        "topic_id": "1404188887038873600",
+        "url": "https://www.fantasypros.com/nfl/news/607157/emeka-egbuka-toe-cleared-week-1.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1789147228544,
+      "source": "fantasy_pros",
+      "source_key": "607157",
+      "story_id": "nfl|12514|fantasy_pros|607157|1789147228544",
+      "title": "Emeka Egbuka (toe) cleared for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/607157/emeka-egbuka-toe-cleared-week-1.php"
+    },
+    {
+      "analysis": "",
+      "description": "Jalen McMillan (knee) is doubtful to play in Week 1 for the Tampa Bay Buccaneers against the Cincinnati Bengals according to Greg Auman.",
+      "metadata": {
+        "analysis": "",
+        "description": "Jalen McMillan (knee) is doubtful to play in Week 1 for the Tampa Bay Buccaneers against the Cincinnati Bengals according to Greg Auman.",
+        "title": "Jalen McMillan (knee) doubtful for Week 1",
+        "topic_id": "1404188886971764736",
+        "url": "https://www.fantasypros.com/nfl/news/607158/jalen-mcmillan-knee-doubtful-week-1.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1789147228529,
+      "source": "fantasy_pros",
+      "source_key": "607158",
+      "story_id": "nfl|11618|fantasy_pros|607158|1789147228529",
+      "title": "Jalen McMillan (knee) doubtful for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/607158/jalen-mcmillan-knee-doubtful-week-1.php"
+    },
+    {
+      "analysis": "Brooks was able to practice three straight days this week. It remains unclear what the split between him and Chuba Hubbard will look like heading into the season. ",
+      "description": "The Panthers say RB Jonathon Brooks will not face a snap count on Sunday against the Bears. ",
+      "metadata": {
+        "analysis": "Brooks was able to practice three straight days this week. It remains unclear what the split between him and Chuba Hubbard will look like heading into the season. ",
+        "description": "The Panthers say RB Jonathon Brooks will not face a snap count on Sunday against the Bears. ",
+        "title": "Jonathon Brooks (groin) not expected to face snap count Sunday ",
+        "topic_id": "1404187629720707072",
+        "url": "https://www.fantasypros.com/nfl/news/607156/jonathon-brooks-groin-not-expected-to-face-snap-count-sunday.php"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1789146928778,
+      "source": "fantasy_pros",
+      "source_key": "607156",
+      "story_id": "nfl|11583|fantasy_pros|607156|1789146928778",
+      "title": "Jonathon Brooks (groin) not expected to face snap count Sunday ",
+      "url": "https://www.fantasypros.com/nfl/news/607156/jonathon-brooks-groin-not-expected-to-face-snap-count-sunday.php"
+    },
+    {
+      "analysis": "Penix will still be inactive for Week 1. He added that he's not where he feels he needs to be right now. He isn't expected to be sidelined for too much longer. ",
+      "description": "Michael Penix Jr. is reportedly cleared and considered to be healthy. ",
+      "metadata": {
+        "analysis": "Penix will still be inactive for Week 1. He added that he's not where he feels he needs to be right now. He isn't expected to be sidelined for too much longer. ",
+        "description": "Michael Penix Jr. is reportedly cleared and considered to be healthy. ",
+        "title": "Michael Penix Jr. cleared and considered healthy",
+        "topic_id": "1404186370158661632",
+        "url": "https://www.fantasypros.com/nfl/news/607154/michael-penix-jr-cleared-considered-healthy.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "11559",
+      "player_name": "Michael Penix",
+      "position": "QB",
+      "published": 1789146628474,
+      "source": "fantasy_pros",
+      "source_key": "607154",
+      "story_id": "nfl|11559|fantasy_pros|607154|1789146628474",
+      "title": "Michael Penix Jr. cleared and considered healthy",
+      "url": "https://www.fantasypros.com/nfl/news/607154/michael-penix-jr-cleared-considered-healthy.php"
+    },
+    {
+      "analysis": "Odunze was limited the previous two days, and Friday's session gives him one last chance to upgrade to full participation (or at least make a positive impression on coaches and the training staff). Coach Ben Johnson didn't mention expectations for the extent of Odunze's participation Friday. If Odunze ends up inactive Sunday at Carolina, the Bears will be left with a shaky WR group alongside Luther Burden. The top alternatives are Kalif Raymond, rookie Zavion Thomas and Jahdae Walker.",
+      "description": "Odunze (calf) will practice Friday, and the training staff will assess him afterward before deciding next steps, Sean Hammond of The Chicago Tribune reports.",
+      "metadata": {
+        "analysis": "Odunze was limited the previous two days, and Friday's session gives him one last chance to upgrade to full participation (or at least make a positive impression on coaches and the training staff). Coach Ben Johnson didn't mention expectations for the extent of Odunze's participation Friday. If Odunze ends up inactive Sunday at Carolina, the Bears will be left with a shaky WR group alongside Luther Burden. The top alternatives are Kalif Raymond, rookie Zavion Thomas and Jahdae Walker.",
+        "description": "Odunze (calf) will practice Friday, and the training staff will assess him afterward before deciding next steps, Sean Hammond of The Chicago Tribune reports.",
+        "title": "Rome Odunze - Will practice Friday",
+        "topic_id": "1404186367402979328"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1789146359000,
+      "source": "rotowire",
+      "source_key": "636831",
+      "story_id": "nfl|11620|rotowire|636831|1789146359000",
+      "title": "Rome Odunze - Will practice Friday",
+      "url": null
+    },
     {
       "analysis": "",
       "description": "Ja'Marr Chase (knee) has been cleared to play in Week 1 for the Cincinnati Bengals against the Tampa Bay Buccaneers according to Kelsey Conway.",
@@ -146,7 +253,7 @@
       "metadata": {
         "analysis": "Croskey-Merritt was limited in practice Wednesday and Thursday but will apparently be fine for the season opener. He's got a tough matchup on the road in Philadelphia, and he'll will be sharing snaps with Rachaad White in some fashion, regardless of health/durability considerations.",
         "description": "Croskey-Merritt (groin) will play in Sunday's game against the Eagles, Tashan Reed reports after Commanders coach Dan Quinn's update Friday.",
-        "title": "Jacory Croskey-Merritt - Will play Sunday",
+        "title": "Jacory Croskey-Merritt - Will play Sunday at Carolina",
         "topic_id": "1404180073866629120"
       },
       "nfl_team": "WAS",
@@ -157,7 +264,7 @@
       "source": "rotowire",
       "source_key": "636828",
       "story_id": "nfl|12533|rotowire|636828|1789144992000",
-      "title": "Jacory Croskey-Merritt - Will play Sunday",
+      "title": "Jacory Croskey-Merritt - Will play Sunday at Carolina",
       "url": null
     },
     {
@@ -364,6 +471,46 @@
       "story_id": "nfl|13287|fantasy_pros|607111|1789139127967",
       "title": "Jeremiyah Love (ankle) expected to play on Sunday",
       "url": "https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "After dealing with a groin injury that limited him in both Wednesday and Thursday's practices, Washington Commanders running back Jacory Croskey-Merritt (groin) has been cleared to play in Sunday's season-opener against the Eagles, according to head coach Dan Quinn. As a seventh-round rookie in 2025, Croskey-Merritt ran for 805 yards and eight touchdowns, ranking as one of the league's most efficient backs on plays run from under center. With new offensive coordinator David Blough expected to call more such plays, and the second-year runner entering the year with a clean bill of health, Croskey-Merritt has Week 1 flex appeal despite a tough opening matchup. While free-agent acquisition Rachaad White is expected to see much of the Commanders' passing-down work, Croskey-Merritt still profiles as the team's early-down back and should stay involved as long as the game remains close, making him RotoBaller's RB35 for Week 1.",
+      "metadata": {
+        "description": "After dealing with a groin injury that limited him in both Wednesday and Thursday's practices, Washington Commanders running back Jacory Croskey-Merritt (groin) has been cleared to play in Sunday's season-opener against the Eagles, according to head coach Dan Quinn. As a seventh-round rookie in 2025, Croskey-Merritt ran for 805 yards and eight touchdowns, ranking as one of the league's most efficient backs on plays run from under center. With new offensive coordinator David Blough expected to call more such plays, and the second-year runner entering the year with a clean bill of health, Croskey-Merritt has Week 1 flex appeal despite a tough opening matchup. While free-agent acquisition Rachaad White is expected to see much of the Commanders' passing-down work, Croskey-Merritt still profiles as the team's early-down back and should stay involved as long as the game remains close, making him RotoBaller's RB35 for Week 1.",
+        "title": "Jacory Croskey-Merritt Cleared to Play Sunday",
+        "topic_id": "1404188881284308992",
+        "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-cleared-to-play-sunday/1928550"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1789132445000,
+      "source": "rotoballer",
+      "source_key": "220636",
+      "story_id": "nfl|12533|rotoballer|220636|1789132445000",
+      "title": "Jacory Croskey-Merritt Cleared to Play Sunday",
+      "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-cleared-to-play-sunday/1928550"
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers head coach Todd Bowles said that wide receiver Jalen McMillan (knee) is listed as doubtful for the Week 1 season opener on Sunday against the Cincinnati Bengals, according to Greg Auman of FOX Sports. In addition to McMillan, third-string running back Sean Tucker (hamstring) is doubtful to play. The 24-year-old McMillan had been a limited practice participant this week, but the Bucs apparently did not see enough progress to clear him for the regular-season opener this weekend. He missed extensive time in training camp and all of the preseason, potentially opening the door for impressive rookie wideout Ted Hurst III to take over the WR3 role from McMillan early on this year. With McMillan unlikely to play against Cincy, Emeka Egbuka and Chris Godwin Jr. will have higher fantasy ceilings, and Hurst will get his chance to make his mark early. McMillan, a third-rounder in 2024, found the end zone eight times as a rookie, but he played in only four games a year ago due to a serious neck injury he suffered in the preseason. Staying healthy has been an issue. He is rostered in only 14% of Yahoo leagues.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers head coach Todd Bowles said that wide receiver Jalen McMillan (knee) is listed as doubtful for the Week 1 season opener on Sunday against the Cincinnati Bengals, according to Greg Auman of FOX Sports. In addition to McMillan, third-string running back Sean Tucker (hamstring) is doubtful to play. The 24-year-old McMillan had been a limited practice participant this week, but the Bucs apparently did not see enough progress to clear him for the regular-season opener this weekend. He missed extensive time in training camp and all of the preseason, potentially opening the door for impressive rookie wideout Ted Hurst III to take over the WR3 role from McMillan early on this year. With McMillan unlikely to play against Cincy, Emeka Egbuka and Chris Godwin Jr. will have higher fantasy ceilings, and Hurst will get his chance to make his mark early. McMillan, a third-rounder in 2024, found the end zone eight times as a rookie, but he played in only four games a year ago due to a serious neck injury he suffered in the preseason. Staying healthy has been an issue. He is rostered in only 14% of Yahoo leagues.",
+        "title": "Jalen McMillan Considered Doubtful for Season Opener",
+        "topic_id": "1404187622842040320",
+        "url": "https://www.rotoballer.com/player-news/jalen-mcmillan-considered-doubtful-for-season-opener/1928542"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1789132027000,
+      "source": "rotoballer",
+      "source_key": "220635",
+      "story_id": "nfl|11618|rotoballer|220635|1789132027000",
+      "title": "Jalen McMillan Considered Doubtful for Season Opener",
+      "url": "https://www.rotoballer.com/player-news/jalen-mcmillan-considered-doubtful-for-season-opener/1928542"
     },
     {
       "analysis": null,

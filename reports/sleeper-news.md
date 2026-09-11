@@ -2,16 +2,28 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2672**
-- Newly captured: **4**
+- Stored stories: **2679**
+- Newly captured: **7**
 
 ## Latest news
 
-- **NEW — Ja'Marr Chase** — Ja'Marr Chase (knee) cleared for Week 1 (2026-09-11T17:05:28.591000Z)
+- **NEW — Emeka Egbuka** — Emeka Egbuka (toe) cleared for Week 1 (2026-09-11T17:20:28.544000Z)
+  - Source: https://www.fantasypros.com/nfl/news/607157/emeka-egbuka-toe-cleared-week-1.php
+- **NEW — Jalen McMillan** — Jalen McMillan (knee) doubtful for Week 1 (2026-09-11T17:20:28.529000Z)
+  - Source: https://www.fantasypros.com/nfl/news/607158/jalen-mcmillan-knee-doubtful-week-1.php
+- **NEW — Jonathon Brooks** — Jonathon Brooks (groin) not expected to face snap count Sunday  (2026-09-11T17:15:28.778000Z)
+  - Brooks was able to practice three straight days this week. It remains unclear what the split between him and Chuba Hubbard will look like heading into the season. 
+  - Source: https://www.fantasypros.com/nfl/news/607156/jonathon-brooks-groin-not-expected-to-face-snap-count-sunday.php
+- **NEW — Michael Penix** — Michael Penix Jr. cleared and considered healthy (2026-09-11T17:10:28.474000Z)
+  - Penix will still be inactive for Week 1. He added that he's not where he feels he needs to be right now. He isn't expected to be sidelined for too much longer. 
+  - Source: https://www.fantasypros.com/nfl/news/607154/michael-penix-jr-cleared-considered-healthy.php
+- **NEW — Rome Odunze** — Rome Odunze - Will practice Friday (2026-09-11T17:05:59Z)
+  - Odunze was limited the previous two days, and Friday's session gives him one last chance to upgrade to full participation (or at least make a positive impression on coaches and the training staff). Coach Ben Johnson didn't mention expectations for the extent of Odunze's participation Friday. If Odunze ends up inactive Sunday at Carolina, the Bears will be left with a shaky WR group alongside Luther Burden. The top alternatives are Kalif Raymond, rookie Zavion Thomas and Jahdae Walker.
+- **Ja'Marr Chase** — Ja'Marr Chase (knee) cleared for Week 1 (2026-09-11T17:05:28.591000Z)
   - Source: https://www.fantasypros.com/nfl/news/607153/jamarr-chase-knee-cleared-week-1.php
-- **NEW — Tee Higgins** — Tee Higgins (foot) cleared for Week 1 (2026-09-11T17:00:28.579000Z)
+- **Tee Higgins** — Tee Higgins (foot) cleared for Week 1 (2026-09-11T17:00:28.579000Z)
   - Source: https://www.fantasypros.com/nfl/news/607152/tee-higgins-foot-cleared-week-1.php
-- **NEW — A.J. Brown** — A.J. Brown - Heading to IR (2026-09-11T16:51:29Z)
+- **A.J. Brown** — A.J. Brown - Heading to IR (2026-09-11T16:51:29Z)
   - It apparently took less than 48 hours for the Patriots to decide that Brown will be out for at least four games. The earliest he can return is Week 6, but the quick move to IR suggests he may not be ready by then. Romeo Doubs, Mack Hollins and DeMario Douglas took most of the WR snaps after Brown suffered a high-ankle sprain in Wednesday's loss at Seattle.
 - **Tua Tagovailoa** — Tua Tagovailoa (oblique) not seen practicing Friday (2026-09-11T16:50:28.428000Z)
   - Tagovailoa remains day-to-day after exiting practice early Thursday with the injury. With Michael Penix Jr. (knee) still working back from injury also, veteran Cooper Rush is in line to start for head coach Kevin Stefanski against the Pittsburgh Steelers in Sunday's season opener.
@@ -20,7 +32,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607149/aj-brown-ankle-placed-on-injured-reserve.php
 - **Jonathon Brooks** — Jonathon Brooks - Will play Sunday (2026-09-11T16:45:16Z)
   - With Brooks cleared after practicing throughout the week, he appears on track to handle whatever role the team has in mind. Chuba Hubbard remains the favorite to start and get most of the carries, but reports throughout the offseason and preseason made it clear that the Panthers have a role in mind for Brooks as well.
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Will play Sunday (2026-09-11T16:43:12Z)
+- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Will play Sunday at Carolina (2026-09-11T16:43:12Z)
   - Croskey-Merritt was limited in practice Wednesday and Thursday but will apparently be fine for the season opener. He's got a tough matchup on the road in Philadelphia, and he'll will be sharing snaps with Rachaad White in some fashion, regardless of health/durability considerations.
 - **Tua Tagovailoa** — Tua Tagovailoa - Not spotted at start of practice (2026-09-11T16:28:48Z)
   - Tagovailoa is considered day-to-day after suffering an oblique strain during Thursday's practice. His absence Friday suggests there's serious risk the Falcons will end up starting Cooper Rush this Sunday in Pittsburgh. The team has yet to announce any kind of decision, beyond ruling out Michael Penix (knee) at the start of the week. It won't be surprising if Penix is under center by the end of the month, however.
@@ -47,7 +59,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jeremiyah Love** — Jeremiyah Love (ankle) expected to play on Sunday (2026-09-11T15:05:27.967000Z)
   - Love was electric in his limited preseason showing, and if he is fully ready to go, he should be electric yet again. Tyler Allgeier could very well eat into his workload, but don't let that stop you from putting Love in your lineup.
   - Source: https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php
-- **NEW — A.J. Brown** — Patriots Placing A.J. Brown on Injured Reserve (2026-09-11T12:52:00Z)
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt Cleared to Play Sunday (2026-09-11T13:14:05Z)
+  - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-cleared-to-play-sunday/1928550
+- **NEW — Jalen McMillan** — Jalen McMillan Considered Doubtful for Season Opener (2026-09-11T13:07:07Z)
+  - Source: https://www.rotoballer.com/player-news/jalen-mcmillan-considered-doubtful-for-season-opener/1928542
+- **A.J. Brown** — Patriots Placing A.J. Brown on Injured Reserve (2026-09-11T12:52:00Z)
   - Source: https://www.rotoballer.com/player-news/patriots-placing-a-j-brown-on-injured-reserve/1928511
 - **Emeka Egbuka** — Emeka Egbuka Cleared to Play in Week 1 (2026-09-11T12:47:21Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-cleared-to-play-in-week-1/1928509
@@ -221,17 +237,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607035/tua-tagovailoa-oblique-day-to-day-uncertain-sunday.php
 - **Isiah Pacheco** — Isiah Pacheco Without a Timetable For a Return, Quickly Losing Value (2026-09-10T22:40:05Z)
   - Source: https://www.rotoballer.com/player-news/isiah-pacheco-without-a-timetable-for-his-return-quickly-losing-value/1928062
-- **Eli Stowers** — Eli Stowers - Another limited session (2026-09-10T22:14:00Z)
-  - Stowers emerged from preseason Week 2 with a hamstring injury, which sidelined him until this Wednesday. So far during Week 1 prep, the rookie second-round pick has logged back-to-back capped sessions, but even if he's cleared of his health concern ahead of the Eagles' season opener against the Commanders this Sunday, there's a chance he's a healthy scratch, as Jimmy Kempski of PhillyVoice.com reported on Aug. 26. In such a scenario, Johnny Mundt and E.J. Jenkins would be the available tight ends behind starter Dallas Goedert.
-- **David Njoku** — David Njoku Generating Positive Camp Buzz For Chemistry and Athleticism (2026-09-10T22:12:06Z)
-  - Source: https://www.rotoballer.com/player-news/david-njoku-generating-positive-camp-buzz-for-chemistry-and-athleticism/1928035
-- **Brock Bowers** — Brock Bowers - Sits out practice, set to miss time (2026-09-10T22:00:50Z)
-  - Head coach Klint Kubiak has yet to officially rule Bowers out for Sunday's season opener versus the Dolphins, but the standout tight end is fully expected to be sidelined for Week 1 -- and likely, additional games beyond that -- after Adam Schefter of ESPN and Ian Rapoport of ESPN and NFL Network reported that Bowers underwent a meniscus trim procedure Tuesday. Though the previous report indicated that Bowers is expected to miss "a game or two," Schefter clarified Thursday in an appearance on "The Pat McAfee Show" that that timeline is coming from the tight end's camp and may be overly optimistic. For however long Bowers is sidelined, Michael Mayer is expected to take on an expanded role in the passing game as the Raiders' top tight end, and starting wideouts Tre Tucker and Jalen Nailor also will have clearer paths to elevated target counts.
-- **Keaton Mitchell** — Keaton Mitchell - Stays limited in practice (2026-09-10T21:54:52Z)
-  - The Chargers put a cap on Mitchell's reps for a second straight day, but his ability to practice in any capacity on consecutive days to kick off Week 1 prep is an encouraging sign for his chances of playing in Sunday's season opener versus the Cardinals. If he's cleared to play against Arizona, Mitchell would likely be in line for a complementary role behind lead back Omarion Hampton.
-- **Marvin Mims** — Marvin Mims - Practices fully to kick off Week 1 prep (2026-09-10T21:43:43Z)
-  - Mims sustained a foot contusion in the Broncos' Aug. 28 preseason finale against the Vikings, but after having no limitations in the team's first official practice of the regular season, he'll be ready to go for the opener Monday in Kansas City. On the Broncos' unofficial depth chart, Mims is listed as a starting receiver along with Jaylen Waddle and Courtland Sutton, though second-year wideout Pat Bryant drew plenty of positive buzz during training camp and the preseason and could push Mims for No. 3 duties.
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Remains limited in practice (2026-09-10T21:41:33Z)
-  - Croskey-Merritt has been tending to a lower-body injury since picking it up during an Aug. 22 practice. He's been back on the field since Sept. 1 but hasn't been able to do enough yet to be considered a full participant. Friday's practice report may provide a sense of Croskey-Merritt's odds to suit up for Sunday's regular-season opener at Philadelphia.
-- **Geno Smith** — Geno Smith a Deep-League Bounce-Back Candidate Entering 2026 (2026-09-10T21:38:20Z)
-  - Source: https://www.rotoballer.com/player-news/geno-smith-a-deep-league-bounce-back-candidate-entering-2026/1928017
