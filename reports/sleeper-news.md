@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2637**
-- Newly captured: **2**
+- Stored stories: **2638**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Deebo Samuel** — Deebo Samuel - Successful 49ers return in win (2026-09-11T05:26:25Z)
+- **Deebo Samuel** — Deebo Samuel - Successful 49ers return in win (2026-09-11T05:26:25Z)
   - The versatile Samuel made a splash in his return to the 49ers following a one-year stint with the Commanders, tying for the team lead in receptions and for runner-up status in targets as well with new teammate Mike Evans. Samuel's production was boosted by the second-quarter exit of De'Zhaun Stribling due to an ankle injury, and the highlight of the former's performance came when he recorded a 15-yard touchdown reception early in the fourth quarter by mirroring Brock Purdy's movement across the field as the quarterback extended the play. Samuel's Week 1 usage implied he'll fill the same type of diverse role he previously thrived in within head coach Kyle Shanahan's offense, and the veteran receiver is likely to remain busy in a Week 2 home matchup against the Dolphins on Sunday, Sept. 20.
 - **George Kittle** — George Kittle - Pair of catches in Week 1 (2026-09-11T05:18:17Z)
   - Kittle headed into the game without an injury designation, making a remarkable recovery from January's Achilles tear to suit up in Week 1. The veteran tight end wasn't much of a factor despite the fact San Francisco lost rookie De'Zhaun Stribling in the first half to what may be a serious ankle injury. However, Kittle did help the 49ers' ground attack generate an impressive 5.8 yards per carry, and he's likely to see his participation rate progressively increase in coming weeks. Kittle's position mate Jake Tonges also suffered a potentially significant knee injury per Nick Wagoner of ESPN.com, a development that could accelerate Kittle's return to a full complement of snaps.
@@ -85,10 +85,12 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607052/dezhaun-stribling-carted-to-locker-room.php
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Leaves game again Thursday (2026-09-11T01:41:09Z)
   - After previously returning from an ankle issue earlier Thursday, Stribling again came up lame while running a route in the second quarter. He fell to the turf and had to be assisted off the field by the training staff. Demarcus Robinson is now operating as the Niners' clear WR3 behind Mike Evans and Deebo Samuel. Stribling didn't draw a target prior to his injury.
+- **NEW — Davante Adams** — Davante Adams Held in Check as Rams Drop Season Opener (2026-09-11T01:37:07Z)
+  - Source: https://www.rotoballer.com/player-news/davante-adams-held-in-check-as-rams-drop-season-opener/1928105
 - **De'Zhaun Stribling** — De'Zhaun Stribling helped off field Thursday  (2026-09-11T01:35:31.104000Z)
   - Stribling had already been in the blue medical tent before returning to the game. He went down after running a route. There will be an update provided on his status when available. 
   - Source: https://www.fantasypros.com/nfl/news/607051/dezhaun-stribling-helped-off-field-thursday.php
-- **NEW — Puka Nacua** — Puka Nacua Delivers Modest Production Despite High Target Share (2026-09-11T01:20:05Z)
+- **Puka Nacua** — Puka Nacua Delivers Modest Production Despite High Target Share (2026-09-11T01:20:05Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacua-delivers-modest-production-despite-high-target-share/1928103
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Returns to Thursday's game (2026-09-11T01:19:31Z)
   - Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deebo Samuel, George Kittle and Christian McCaffrey for opportunities.
@@ -105,7 +107,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Ryan Flournoy** — Cowboys Sign Ryan Flournoy to One-Year Extension (2026-09-11T00:42:06Z)
   - Source: https://www.rotoballer.com/player-news/cowboys-sign-ryan-flournoy-to-one-year-extension/1928088
 - **Chris Bell** — Chris Bell - Still working on conditioning (2026-09-11T00:08:46Z)
-  - Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial "pitch count" against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.
+  - Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial pitch count against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.
 - **Max Klare** — Max Klare - Healthy scratch to begin rookie campaign (2026-09-11T00:07:54Z)
   - The Rams liked Klare enough to select him in the second round of the NFL Draft in April, but he's not going to be an option for the team in Week 1. Los Angeles has a crowded tight-end room that includes three veterans in Colby Parkinson, Tyler Higbee and Davis Allen along with second-year pro Terrance Ferguson, so Klare may not log much playing time this year as long as those above him in the pecking order are healthy.
 - **Ty Simpson** — Ty Simpson - Opening season as emergency No. 3 QB (2026-09-10T23:47:18Z)
@@ -246,5 +248,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606962/rome-odunze-calf-limited-again-thursday.php
 - **Sam Darnold** — Sam Darnold has Unusual Strain, Timetable Remains TBD (2026-09-10T19:24:05Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-has-unusual-strain-timetable-remains-tbd/1927947
-- **Marvin Mims** — Marvin Mims Jr. Looks Ready for Week 1 Against Chiefs (2026-09-10T19:17:06Z)
-  - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-looks-ready-for-week-1-against-chiefs/1927944

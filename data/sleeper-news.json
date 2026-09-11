@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-11T05:42:14Z",
+  "last_checked_at": "2026-09-11T05:53:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|5872|rotowire|636820|1789104385000",
-    "nfl|9493|rotoballer|220607|1789089605000"
+    "nfl|2133|rotoballer|220608|1789090627000"
   ],
   "schema_version": 1,
   "source": {
@@ -651,6 +650,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Davante Adams caught three of his six targets for 26 receiving yards during Thursday's Week 1 loss against the San Francisco 49ers in Australia. The Rams' pass-catchers had a really frustrating outing in the season opener, and Adams was no exception. His 5.6 PPR points represent a massive decline from his average of 15.9 PPR points per game last season. Fantasy managers will hope that this game from Adams was an anomaly and can simply be chalked up to the nature of playing a game in Australia after arriving less than 24 hours earlier. Adams and his teammates will have plenty of time to return home and reacclimate to the conditions in the United States before returning to action in 11 days for a Week 2 contest against the New York Giants. He still ranks as a low-end fantasy WR2 for that game, but his floor is admittedly lower than before.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Davante Adams caught three of his six targets for 26 receiving yards during Thursday's Week 1 loss against the San Francisco 49ers in Australia. The Rams' pass-catchers had a really frustrating outing in the season opener, and Adams was no exception. His 5.6 PPR points represent a massive decline from his average of 15.9 PPR points per game last season. Fantasy managers will hope that this game from Adams was an anomaly and can simply be chalked up to the nature of playing a game in Australia after arriving less than 24 hours earlier. Adams and his teammates will have plenty of time to return home and reacclimate to the conditions in the United States before returning to action in 11 days for a Week 2 contest against the New York Giants. He still ranks as a low-end fantasy WR2 for that game, but his floor is admittedly lower than before.",
+        "title": "Davante Adams Held in Check as Rams Drop Season Opener",
+        "topic_id": "1404013959270412288",
+        "url": "https://www.rotoballer.com/player-news/davante-adams-held-in-check-as-rams-drop-season-opener/1928105"
+      },
+      "nfl_team": "LAR",
+      "player_id": "2133",
+      "player_name": "Davante Adams",
+      "position": "WR",
+      "published": 1789090627000,
+      "source": "rotoballer",
+      "source_key": "220608",
+      "story_id": "nfl|2133|rotoballer|220608|1789090627000",
+      "title": "Davante Adams Held in Check as Rams Drop Season Opener",
+      "url": "https://www.rotoballer.com/player-news/davante-adams-held-in-check-as-rams-drop-season-opener/1928105"
+    },
+    {
       "analysis": "Stribling had already been in the blue medical tent before returning to the game. He went down after running a route. There will be an update provided on his status when available. ",
       "description": "49ers WR De'Zhaun Stribling was helped off the field during Thursday's game against the Rams. ",
       "metadata": {
@@ -832,10 +851,10 @@
       "url": "https://www.rotoballer.com/player-news/cowboys-sign-ryan-flournoy-to-one-year-extension/1928088"
     },
     {
-      "analysis": "Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial \"pitch count\" against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.",
+      "analysis": "Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial pitch count against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.",
       "description": "Bell estimated Thursday that his conditioning is back to \"80 to 85 percent\" following last season's torn ACL, Joe Schad of The Palm Beach Post reports.",
       "metadata": {
-        "analysis": "Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial \"pitch count\" against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.",
+        "analysis": "Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial pitch count against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.",
         "description": "Bell estimated Thursday that his conditioning is back to \"80 to 85 percent\" following last season's torn ACL, Joe Schad of The Palm Beach Post reports.",
         "title": "Chris Bell - Still working on conditioning",
         "topic_id": "1403929683665354752"
