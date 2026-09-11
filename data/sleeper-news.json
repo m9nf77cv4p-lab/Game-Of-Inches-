@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-11T01:53:04Z",
+  "last_checked_at": "2026-09-11T02:05:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13417|fantasy_pros|607052|1789091431256",
-    "nfl|13417|rotowire|636796|1789090869000",
-    "nfl|1373|rotoballer|220589|1789076300000"
+    "nfl|13417|fantasy_pros|607054|1789092031363",
+    "nfl|13417|rotowire|636797|1789091603000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Stribling was quickly ruled out after being carted back to the locker room, which is not good. There should be a further update after Thursday's game or by this weekend. ",
+      "description": "49ers WR De'Zhaun Stribling has been ruled out for the rest of Thursday's game against the Rams. ",
+      "metadata": {
+        "analysis": "Stribling was quickly ruled out after being carted back to the locker room, which is not good. There should be a further update after Thursday's game or by this weekend. ",
+        "description": "49ers WR De'Zhaun Stribling has been ruled out for the rest of Thursday's game against the Rams. ",
+        "title": "De'Zhaun Stribling (ankle) ruled out for rest of game Thursday ",
+        "topic_id": "1403957373277577216",
+        "url": "https://www.fantasypros.com/nfl/news/607054/dezhaun-stribling-ankle-ruled-out-rest-game-thursday.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1789092031363,
+      "source": "fantasy_pros",
+      "source_key": "607054",
+      "story_id": "nfl|13417|fantasy_pros|607054|1789092031363",
+      "title": "De'Zhaun Stribling (ankle) ruled out for rest of game Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/607054/dezhaun-stribling-ankle-ruled-out-rest-game-thursday.php"
+    },
+    {
+      "analysis": "Stribling briefly exited Thursday's game in the first quarter with a left ankle injury but was quickly cleared to return after being checked out in the blue medical tent. However, on the next drive, Stribling crumpled to the ground while running a route and had to be assisted off the field by the training staff before being carted to the locker room. He's now done for the night Thursday, having recorded zero targets. Demarcus Robinson is operating as the Niners' WR3 behind Mike Evans and Deebo Samuel.",
+      "description": "Stribling (ankle) has been ruled out for the remainder of Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports.",
+      "metadata": {
+        "analysis": "Stribling briefly exited Thursday's game in the first quarter with a left ankle injury but was quickly cleared to return after being checked out in the blue medical tent. However, on the next drive, Stribling crumpled to the ground while running a route and had to be assisted off the field by the training staff before being carted to the locker room. He's now done for the night Thursday, having recorded zero targets. Demarcus Robinson is operating as the Niners' WR3 behind Mike Evans and Deebo Samuel.",
+        "description": "Stribling (ankle) has been ruled out for the remainder of Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports.",
+        "title": "De'Zhaun Stribling - Ruled out for remainder of Thursday's game",
+        "topic_id": "1403957373067927552"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1789091603000,
+      "source": "rotowire",
+      "source_key": "636797",
+      "story_id": "nfl|13417|rotowire|636797|1789091603000",
+      "title": "De'Zhaun Stribling - Ruled out for remainder of Thursday's game",
+      "url": null
+    },
     {
       "analysis": "Stribling appeared to suffer a non-contact injury running a route. There will be a further update provided on his status when available. ",
       "description": "49ers WR De'Zhaun Stribling was carted to the locker room on Thursday. ",

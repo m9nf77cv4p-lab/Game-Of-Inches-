@@ -2016,7 +2016,7 @@
           "13274": 0.0,
           "13285": 0.0,
           "13286": 7.8,
-          "421": 2.25,
+          "421": 2.15,
           "4881": 0.0,
           "6794": 0.0,
           "6806": 0.0,
@@ -2030,7 +2030,7 @@
           "GB": 0.0,
           "LAR": 8.0
         },
-        "points": 32.55,
+        "points": 32.45,
         "roster_id": 7,
         "starters": [
           "421",
@@ -2046,7 +2046,7 @@
           "LAR"
         ],
         "starters_points": [
-          2.25,
+          2.15,
           13.1,
           7.8,
           0.0,
@@ -23917,8 +23917,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-11T01:53:03Z",
-    "source_fingerprint": "115ddac0961abb2e07fa8b7a486a0ea2cd5a15c17722abc5f38eda5dd18dc22e"
+    "last_changed_at": "2026-09-11T02:05:25Z",
+    "source_fingerprint": "bab7325074f4d71de66343f13f262533d7afbeb4eb4366eb7938f8aec0bffb7c"
   },
   "teams": [
     {

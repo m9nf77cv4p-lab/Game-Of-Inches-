@@ -2,15 +2,20 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2602**
-- Newly captured: **3**
+- Stored stories: **2604**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling carted to locker room (2026-09-11T01:50:31.256000Z)
+- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling (ankle) ruled out for rest of game Thursday  (2026-09-11T02:00:31.363000Z)
+  - Stribling was quickly ruled out after being carted back to the locker room, which is not good. There should be a further update after Thursday's game or by this weekend. 
+  - Source: https://www.fantasypros.com/nfl/news/607054/dezhaun-stribling-ankle-ruled-out-rest-game-thursday.php
+- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling - Ruled out for remainder of Thursday's game (2026-09-11T01:53:23Z)
+  - Stribling briefly exited Thursday's game in the first quarter with a left ankle injury but was quickly cleared to return after being checked out in the blue medical tent. However, on the next drive, Stribling crumpled to the ground while running a route and had to be assisted off the field by the training staff before being carted to the locker room. He's now done for the night Thursday, having recorded zero targets. Demarcus Robinson is operating as the Niners' WR3 behind Mike Evans and Deebo Samuel.
+- **De'Zhaun Stribling** — De'Zhaun Stribling carted to locker room (2026-09-11T01:50:31.256000Z)
   - Stribling appeared to suffer a non-contact injury running a route. There will be a further update provided on his status when available. 
   - Source: https://www.fantasypros.com/nfl/news/607052/dezhaun-stribling-carted-to-locker-room.php
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling - Leaves game again Thursday (2026-09-11T01:41:09Z)
+- **De'Zhaun Stribling** — De'Zhaun Stribling - Leaves game again Thursday (2026-09-11T01:41:09Z)
   - After previously returning from an ankle issue earlier Thursday, Stribling again came up lame while running a route in the second quarter. He fell to the turf and had to be assisted off the field by the training staff. Demarcus Robinson is now operating as the Niners' clear WR3 behind Mike Evans and Deebo Samuel. Stribling didn't draw a target prior to his injury.
 - **De'Zhaun Stribling** — De'Zhaun Stribling helped off field Thursday  (2026-09-11T01:35:31.104000Z)
   - Stribling had already been in the blue medical tent before returning to the game. He went down after running a route. There will be an update provided on his status when available. 
@@ -58,7 +63,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Mims sustained a foot contusion in the Broncos' Aug. 28 preseason finale against the Vikings, but after having no limitations in the team's first official practice of the regular season, he'll be ready to go for the opener Monday in Kansas City. On the Broncos' unofficial depth chart, Mims is listed as a starting receiver along with Jaylen Waddle and Courtland Sutton, though second-year wideout Pat Bryant drew plenty of positive buzz during training camp and the preseason and could push Mims for No. 3 duties.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Remains limited in practice (2026-09-10T21:41:33Z)
   - Croskey-Merritt has been tending to a lower-body injury since picking it up during an Aug. 22 practice. He's been back on the field since Sept. 1 but hasn't been able to do enough yet to be considered a full participant. Friday's practice report may provide a sense of Croskey-Merritt's odds to suit up for Sunday's regular-season opener at Philadelphia.
-- **NEW — Geno Smith** — Geno Smith a Deep-League Bounce-Back Candidate Entering 2026 (2026-09-10T21:38:20Z)
+- **Geno Smith** — Geno Smith a Deep-League Bounce-Back Candidate Entering 2026 (2026-09-10T21:38:20Z)
   - Source: https://www.rotoballer.com/player-news/geno-smith-a-deep-league-bounce-back-candidate-entering-2026/1928017
 - **Jalen McMillan** — Jalen McMillan - Stays limited at practice (2026-09-10T21:32:57Z)
   - McMillan has been tending to a knee injury since early August, a scenario that sidelined him for the entire preseason slate. With back-to-back capped sessions under his belt, he still has some work to do to make himself available for Sunday's game at Cincinnati. Friday's practice report will reveal if McMillan enters the weekend with a designation ahead of that matchup.
@@ -237,8 +242,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/cade-otton-an-intriguing-tight-end-streamer-in-week-1/1927829
 - **Kirk Cousins** — Kirk Cousins Worth a Look in Two-Quarterback Leagues (2026-09-10T15:56:05Z)
   - Source: https://www.rotoballer.com/player-news/kirk-cousins-worth-a-look-in-two-quarterback-leagues/1927810
-- **Rome Odunze** — Rome Odunze Limited Again on Thursday (2026-09-10T15:54:05Z)
-  - Source: https://www.rotoballer.com/player-news/rome-odunze-limited-again-on-thursday/1927808
-- **Jason Myers** — Jason Myers scores seven points in win Wednesday (2026-09-10T15:50:04.707000Z)
-  - Myers did his job on Wednesday, knocking in all three of his kicks en route to a win over the Patriots. He will likely be a decent fantasy option at the position over the course of the season, assuming QB Sam Darnold (hip) doesn't miss significant time and leave the offense weaker moving forward.
-  - Source: https://www.fantasypros.com/nfl/news/606930/jason-myers-scores-seven-points-win-wednesday.php
