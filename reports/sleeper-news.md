@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2641**
-- Newly captured: **1**
+- Stored stories: **2640**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -75,7 +75,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607057/matthew-stafford-quiet-loss-to-niners.php
 - **Ryan Flournoy** — Ryan Flournoy - Signs one-year extension (2026-09-11T03:31:55Z)
   - Flournoy has been a nice find for the Cowboys after they selected him in the sixth round of the 2024 NFL Draft. The wideout tallied a career-best 40 catches for 475 yards and four touchdowns over 16 regular-season games last year and is set for a larger role as the team's No. 3 wide receiver in 2026. Flournoy now is in line to remain with Dallas through 2027, and he could be a great value if he proves to be productive with potentially increased opportunities during the upcoming campaign.
-- **NEW — Deebo Samuel** — Deebo Samuel Sr. Catches TD In Reunion With 49ers (2026-09-11T03:30:05Z)
+- **Deebo Samuel** — Deebo Samuel Sr. Catches TD In Reunion With 49ers (2026-09-11T03:30:05Z)
   - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-catches-td-in-reunion-with-49ers/1928114
 - **Mike Evans** — Mike Evans Scores TD In 49ers Debut (2026-09-11T03:21:11Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-scores-td-in-49ers-debut/1928112

@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-11T07:48:37Z",
+  "last_checked_at": "2026-09-11T10:15:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [
-    "nfl|5872|rotoballer|220611|1789097405000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -53142,26 +53140,6 @@
       "story_id": "nfl|3214|rotoballer|218416|1786531085000",
       "title": "Hunter Henry an Undervalued Late-Round Tight End",
       "url": "https://www.rotoballer.com/player-news/hunter-henry-an-undervalued-late-round-tight-end/1907527"
-    },
-    {
-      "analysis": null,
-      "description": "The New Orleans Saints practiced in full pads for two hours on Tuesday in 90-degree heat, but at nearly 30 years old, tight end Juwan Johnson was not slowed down by the dog days of summer. Team reporter Todd Graffagnini credits Johnson with one of the plays of training camp, a 4th-and-one touchdown catch in the back corner of the end zone while being blanketed by Kool-Aid McKinstry during a two-minute drill. Graffagnini points to the play as yet another example of Johnson's big-play ability that has shown up throughout camp. In his first season in Kellen Moore's system, Johnson was one of only seven tight ends to see 100 targets, and in year two, with quarterback Tyler Shough in his first full season as a starter, there are expectations that the offense could operate at an even higher tempo, resulting in more opportunities for all the team's pass catchers. Following a TE10 finish a season ago, Johnson is being drafted as the TE17 in 2026, and with all signs out of training camp pointing to a featured role in an ascending offense, he could prove to be one of the best values in the closing rounds of drafts.",
-      "metadata": {
-        "description": "The New Orleans Saints practiced in full pads for two hours on Tuesday in 90-degree heat, but at nearly 30 years old, tight end Juwan Johnson was not slowed down by the dog days of summer. Team reporter Todd Graffagnini credits Johnson with one of the plays of training camp, a 4th-and-one touchdown catch in the back corner of the end zone while being blanketed by Kool-Aid McKinstry during a two-minute drill. Graffagnini points to the play as yet another example of Johnson's big-play ability that has shown up throughout camp. In his first season in Kellen Moore's system, Johnson was one of only seven tight ends to see 100 targets, and in year two, with quarterback Tyler Shough in his first full season as a starter, there are expectations that the offense could operate at an even higher tempo, resulting in more opportunities for all the team's pass catchers. Following a TE10 finish a season ago, Johnson is being drafted as the TE17 in 2026, and with all signs out of training camp pointing to a featured role in an ascending offense, he could prove to be one of the best values in the closing rounds of drafts.",
-        "title": "Juwan Johnson Continues to Flash Big-Play Ability",
-        "topic_id": "1393269533707345920",
-        "url": "https://www.rotoballer.com/player-news/juwan-johnson-continues-to-flash-big-play-ability/1907492"
-      },
-      "nfl_team": "NO",
-      "player_id": "7002",
-      "player_name": "Juwan Johnson",
-      "position": "TE",
-      "published": 1786528929000,
-      "source": "rotoballer",
-      "source_key": "218414",
-      "story_id": "nfl|7002|rotoballer|218414|1786528929000",
-      "title": "Juwan Johnson Continues to Flash Big-Play Ability",
-      "url": "https://www.rotoballer.com/player-news/juwan-johnson-continues-to-flash-big-play-ability/1907492"
     }
   ]
 }
