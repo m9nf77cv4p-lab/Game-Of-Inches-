@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-11T02:37:10Z",
+  "last_checked_at": "2026-09-11T02:50:18Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|8205|rotoballer|220595|1789080005000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -400,6 +402,26 @@
       "url": "https://www.fantasypros.com/nfl/news/607035/tua-tagovailoa-oblique-day-to-day-uncertain-sunday.php"
     },
     {
+      "analysis": null,
+      "description": "Detroit Lions running back Isiah Pacheco (back) will miss at least the first four games in 2026, and possibly more if he is not ready by then, as Detroit Lions general manager Brad Holmes said that he does not want to put a timeline on it after he was placed on the Injured Reserve. With Pacheco injured, Sione Vaki and Jacob Saylors will battle for the RB2 role behind superstar Jahmyr Gibbs. Pacheco was brought over from the Kansas City Chiefs after a disappointing season last year, following a major injury in 2024. Pacheco was one of the more inefficient runners last season, averaging 3.9 YPC, and was 47th in explosive rating and 53rd in yards per touch. Coming into the season, there was some optimism that Pacheco would take over a David Montgomery-like role, but with this injury, he can be dropped to the waiver wire in most standard formats.",
+      "metadata": {
+        "description": "Detroit Lions running back Isiah Pacheco (back) will miss at least the first four games in 2026, and possibly more if he is not ready by then, as Detroit Lions general manager Brad Holmes said that he does not want to put a timeline on it after he was placed on the Injured Reserve. With Pacheco injured, Sione Vaki and Jacob Saylors will battle for the RB2 role behind superstar Jahmyr Gibbs. Pacheco was brought over from the Kansas City Chiefs after a disappointing season last year, following a major injury in 2024. Pacheco was one of the more inefficient runners last season, averaging 3.9 YPC, and was 47th in explosive rating and 53rd in yards per touch. Coming into the season, there was some optimism that Pacheco would take over a David Montgomery-like role, but with this injury, he can be dropped to the waiver wire in most standard formats.",
+        "title": "Isiah Pacheco Without a Timetable For His Return, Quickly Losing Value",
+        "topic_id": "1403968659721900032",
+        "url": "https://www.rotoballer.com/player-news/isiah-pacheco-without-a-timetable-for-his-return-quickly-losing-value/1928062"
+      },
+      "nfl_team": "DET",
+      "player_id": "8205",
+      "player_name": "Isiah Pacheco",
+      "position": "RB",
+      "published": 1789080005000,
+      "source": "rotoballer",
+      "source_key": "220595",
+      "story_id": "nfl|8205|rotoballer|220595|1789080005000",
+      "title": "Isiah Pacheco Without a Timetable For His Return, Quickly Losing Value",
+      "url": "https://www.rotoballer.com/player-news/isiah-pacheco-without-a-timetable-for-his-return-quickly-losing-value/1928062"
+    },
+    {
       "analysis": "Stowers emerged from preseason Week 2 with a hamstring injury, which sidelined him until this Wednesday. So far during Week 1 prep, the rookie second-round pick has logged back-to-back capped sessions, but even if he's cleared of his health concern ahead of the Eagles' season opener against the Commanders this Sunday, there's a chance he's a healthy scratch, as Jimmy Kempski of PhillyVoice.com reported on Aug. 26. In such a scenario, Johnny Mundt and E.J. Jenkins would be the available tight ends behind starter Dallas Goedert.",
       "description": "Stowers (hamstring) practiced in a limited capacity Thursday.",
       "metadata": {
@@ -421,9 +443,9 @@
     },
     {
       "analysis": null,
-      "description": "Los Angeles Chargers tight end David Njoku, who was brought over in the off-season from the Cleveland Browns, has generated positive buzz throughout training camp for his athleticism and chemistry with quarterback Justin Herbert. Njoku joins a crowded tight end room with Charlie Kolar and Oronde Gadsden. Njoku has dealt with injuries over the past few seasons, playing in only 11 and 12 games over the past seasons after he finished as the TE6 overall in 2023. In 2024, he finished as the TE4 in fantasy points per game, while 2025 was a lost season, as he only had 293 receiving yards and four touchdowns on 33 receptions. While the 30 year old is getting up there in age, with a new offensive scheme with Mike McDaniels, an improved offensive ecosystem, he profiles as a tight end worth monitoring. He is currently RotoBallers 37th ranked tight end, meaning he likely wasn't drafted in many drafts throughout the summer.",
+      "description": "Los Angeles Chargers tight end David Njoku, who was brought over in the offseason from the Cleveland Browns, has generated positive buzz throughout training camp for his athleticism and chemistry with quarterback Justin Herbert. Njoku joins a crowded tight end room with Charlie Kolar and Oronde Gadsden. Njoku has dealt with injuries over the past few seasons, playing in only 11 and 12 games over the past seasons after he finished as the TE6 overall in 2023. In 2024, he finished as the TE4 in fantasy points per game, while 2025 was a lost season, as he only had 293 receiving yards and four touchdowns on 33 receptions. While the 30-year-old is getting up there in age, with a new offensive scheme with Mike McDaniel and an improved offensive ecosystem, he profiles as a tight end worth monitoring. He is currently RotoBaller's 37th-ranked tight end, meaning he likely wasn't drafted in many drafts throughout the summer.",
       "metadata": {
-        "description": "Los Angeles Chargers tight end David Njoku, who was brought over in the off-season from the Cleveland Browns, has generated positive buzz throughout training camp for his athleticism and chemistry with quarterback Justin Herbert. Njoku joins a crowded tight end room with Charlie Kolar and Oronde Gadsden. Njoku has dealt with injuries over the past few seasons, playing in only 11 and 12 games over the past seasons after he finished as the TE6 overall in 2023. In 2024, he finished as the TE4 in fantasy points per game, while 2025 was a lost season, as he only had 293 receiving yards and four touchdowns on 33 receptions. While the 30 year old is getting up there in age, with a new offensive scheme with Mike McDaniels, an improved offensive ecosystem, he profiles as a tight end worth monitoring. He is currently RotoBallers 37th ranked tight end, meaning he likely wasn't drafted in many drafts throughout the summer.",
+        "description": "Los Angeles Chargers tight end David Njoku, who was brought over in the offseason from the Cleveland Browns, has generated positive buzz throughout training camp for his athleticism and chemistry with quarterback Justin Herbert. Njoku joins a crowded tight end room with Charlie Kolar and Oronde Gadsden. Njoku has dealt with injuries over the past few seasons, playing in only 11 and 12 games over the past seasons after he finished as the TE6 overall in 2023. In 2024, he finished as the TE4 in fantasy points per game, while 2025 was a lost season, as he only had 293 receiving yards and four touchdowns on 33 receptions. While the 30-year-old is getting up there in age, with a new offensive scheme with Mike McDaniel and an improved offensive ecosystem, he profiles as a tight end worth monitoring. He is currently RotoBaller's 37th-ranked tight end, meaning he likely wasn't drafted in many drafts throughout the summer.",
         "title": "David Njoku Generating Positive Camp Buzz For Chemistry and Athleticism",
         "topic_id": "1403961141729779712",
         "url": "https://www.rotoballer.com/player-news/david-njoku-generating-positive-camp-buzz-for-chemistry-and-athleticism/1928035"

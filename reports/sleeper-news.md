@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2604**
-- Newly captured: **0**
+- Stored stories: **2605**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -53,6 +53,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tua Tagovailoa** — Tua Tagovailoa (oblique) day-to-day, uncertain for Sunday (2026-09-10T22:40:29.734000Z)
   - This isn't a great indicator of Tua's status for Sunday, but it might not change much if Rush starts given the reports of Tua's play during training camp. It will be a situation to monitor ahead of Sunday, and it also speaks to Michael Penix's health, given he was not first up behind Tua at practice at this point.
   - Source: https://www.fantasypros.com/nfl/news/607035/tua-tagovailoa-oblique-day-to-day-uncertain-sunday.php
+- **NEW — Isiah Pacheco** — Isiah Pacheco Without a Timetable For His Return, Quickly Losing Value (2026-09-10T22:40:05Z)
+  - Source: https://www.rotoballer.com/player-news/isiah-pacheco-without-a-timetable-for-his-return-quickly-losing-value/1928062
 - **Eli Stowers** — Eli Stowers - Another limited session (2026-09-10T22:14:00Z)
   - Stowers emerged from preseason Week 2 with a hamstring injury, which sidelined him until this Wednesday. So far during Week 1 prep, the rookie second-round pick has logged back-to-back capped sessions, but even if he's cleared of his health concern ahead of the Eagles' season opener against the Commanders this Sunday, there's a chance he's a healthy scratch, as Jimmy Kempski of PhillyVoice.com reported on Aug. 26. In such a scenario, Johnny Mundt and E.J. Jenkins would be the available tight ends behind starter Dallas Goedert.
 - **David Njoku** — David Njoku Generating Positive Camp Buzz For Chemistry and Athleticism (2026-09-10T22:12:06Z)
@@ -240,5 +242,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Per Rob Demovsky of ESPN.com, Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, but as a result of his plea, the NFL could remove him from the list and instead issue a suspension.
 - **Nicholas Singleton** — Nicholas Singleton Still Worth Stashing Despite Crowded Backfield (2026-09-10T16:10:10Z)
   - Source: https://www.rotoballer.com/player-news/nicholas-singleton-still-worth-stashing-despite-crowded-backfield/1927831
-- **Cade Otton** — Cade Otton an Intriguing Tight End Streamer in Week 1 (2026-09-10T16:10:06Z)
-  - Source: https://www.rotoballer.com/player-news/cade-otton-an-intriguing-tight-end-streamer-in-week-1/1927829
