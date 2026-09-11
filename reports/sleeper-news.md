@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2640**
+- Stored stories: **2641**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Isiah Pacheco** — Isiah Pacheco Droppable After Landing on Injured Reserve (2026-09-11T09:10:05Z)
+- **NEW — De'Zhaun Stribling** — RapSheet: De'Zhaun Stribling Likely to Miss Time (2026-09-11T09:20:05Z)
+  - Source: https://www.rotoballer.com/player-news/rapsheet-dezhaun-stribling-likely-to-miss-time/1928217
+- **Isiah Pacheco** — Isiah Pacheco Droppable After Landing on Injured Reserve (2026-09-11T09:10:05Z)
   - Source: https://www.rotoballer.com/player-news/isiah-pacheco-droppable-after-landing-on-injured-reserve/1928207
 - **Deebo Samuel** — Deebo Samuel - Successful 49ers return in win (2026-09-11T05:26:25Z)
   - The versatile Samuel made a splash in his return to the 49ers following a one-year stint with the Commanders, tying for the team lead in receptions and for runner-up status in targets as well with new teammate Mike Evans. Samuel's production was boosted by the second-quarter exit of De'Zhaun Stribling due to an ankle injury, and the highlight of the former's performance came when he recorded a 15-yard touchdown reception early in the fourth quarter by mirroring Brock Purdy's movement across the field as the quarterback extended the play. Samuel's Week 1 usage implied he'll fill the same type of diverse role he previously thrived in within head coach Kyle Shanahan's offense, and the veteran receiver is likely to remain busy in a Week 2 home matchup against the Dolphins on Sunday, Sept. 20.
@@ -245,5 +247,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Malik Nabers** — Malik Nabers (knee) practices in full Thursday (2026-09-10T19:40:21.984000Z)
   - Nabers was a full participant for the Giants on Thursday. It has already been reported that he is likely to play in Sunday night's game, and his participation at practice all but confirms that. Fantasy managers should feel pretty good about starting him if he's active in Week 1, even with it being his first game back from injury.
   - Source: https://www.fantasypros.com/nfl/news/606964/malik-nabers-knee-practices-full-thursday.php
-- **Malik Nabers** — Malik Nabers - Another full practice Thursday (2026-09-10T19:40:06Z)
-  - Coach John Harbaugh provided the update after Thursday's session. Nabers has been practicing in full this week, though there's no confirmation on his status for Sunday night's game against the Cowboys just yet. It appears the Giants will wait as long as they can to make a final determination on their star receiver's Week 1 availability.

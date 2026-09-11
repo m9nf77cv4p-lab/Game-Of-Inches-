@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-11T13:18:15Z",
+  "last_checked_at": "2026-09-11T13:33:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|8205|rotoballer|220613|1789117805000"
+    "nfl|13417|rotoballer|220614|1789118405000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers rookie wide receiver De'Zhaun Stribling (ankle) will likely miss time, according to Ian Rapoport. Stribling limped off the field, went to the medical tent, returned, and then went down with a non-contact injury that appeared to be significant. The good news is that head coach Kyle Shanahan deemed it an ankle injury and that his Achilles tendon was intact. The rookie receiver was held without a target against the Los Angeles Rams but led the 49ers wideouts in snaps after three drives, playing more than Mike Evans, Deebo Samuel, and Demarcus Robinson, all of whom scored touchdowns in Week 1. While we won't know the full diagnosis until the team returns to the States, fantasy managers shouldn't drop the young, talented receiver.",
+      "metadata": {
+        "description": "San Francisco 49ers rookie wide receiver De'Zhaun Stribling (ankle) will likely miss time, according to Ian Rapoport. Stribling limped off the field, went to the medical tent, returned, and then went down with a non-contact injury that appeared to be significant. The good news is that head coach Kyle Shanahan deemed it an ankle injury and that his Achilles tendon was intact. The rookie receiver was held without a target against the Los Angeles Rams but led the 49ers wideouts in snaps after three drives, playing more than Mike Evans, Deebo Samuel, and Demarcus Robinson, all of whom scored touchdowns in Week 1. While we won't know the full diagnosis until the team returns to the States, fantasy managers shouldn't drop the young, talented receiver.",
+        "title": "RapSheet: De'Zhaun Stribling Likely to Miss Time",
+        "topic_id": "1404129735033798656",
+        "url": "https://www.rotoballer.com/player-news/rapsheet-dezhaun-stribling-likely-to-miss-time/1928217"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1789118405000,
+      "source": "rotoballer",
+      "source_key": "220614",
+      "story_id": "nfl|13417|rotoballer|220614|1789118405000",
+      "title": "RapSheet: De'Zhaun Stribling Likely to Miss Time",
+      "url": "https://www.rotoballer.com/player-news/rapsheet-dezhaun-stribling-likely-to-miss-time/1928217"
+    },
     {
       "analysis": null,
       "description": "Detroit Lions running back Isiah Pacheco (knee/back) will enter the 2026 season on injured reserve. After a sprained MCL in early August, Pacheco dealt with a back injury that head coach Dan Campbell said was more concerning than the knee. With the former Chiefs' back set to miss at least the first four games of the season, fantasy managers in 10- or 12-team leagues should consider dropping him. He had 118 carries for 462 yards and one touchdown last season, averaging six half-PPR fantasy points per game. Once healthy, Pacheco will compete for a backup role behind star running back Jahmyr Gibbs. Even if he suffers an injury, a committee with Sione Vaki or Jacob Saylors, or a free-agency move by the Lions, would be considered as well. There are more high-upside running backs on the waiver wire, and the injuries have set him back.",
