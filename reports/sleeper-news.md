@@ -2,15 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2604**
-- Newly captured: **2**
+- Stored stories: **2605**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling (ankle) ruled out for rest of game Thursday  (2026-09-11T02:00:31.363000Z)
+- **De'Zhaun Stribling** — De'Zhaun Stribling (ankle) ruled out for rest of game Thursday  (2026-09-11T02:00:31.363000Z)
   - Stribling was quickly ruled out after being carted back to the locker room, which is not good. There should be a further update after Thursday's game or by this weekend. 
   - Source: https://www.fantasypros.com/nfl/news/607054/dezhaun-stribling-ankle-ruled-out-rest-game-thursday.php
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling - Ruled out for remainder of Thursday's game (2026-09-11T01:53:23Z)
+- **De'Zhaun Stribling** — De'Zhaun Stribling - Ruled out for remainder of Thursday's game (2026-09-11T01:53:23Z)
   - Stribling briefly exited Thursday's game in the first quarter with a left ankle injury but was quickly cleared to return after being checked out in the blue medical tent. However, on the next drive, Stribling crumpled to the ground while running a route and had to be assisted off the field by the training staff before being carted to the locker room. He's now done for the night Thursday, having recorded zero targets. Demarcus Robinson is operating as the Niners' WR3 behind Mike Evans and Deebo Samuel.
 - **De'Zhaun Stribling** — De'Zhaun Stribling carted to locker room (2026-09-11T01:50:31.256000Z)
   - Stribling appeared to suffer a non-contact injury running a route. There will be a further update provided on his status when available. 
@@ -55,6 +55,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607035/tua-tagovailoa-oblique-day-to-day-uncertain-sunday.php
 - **Eli Stowers** — Eli Stowers - Another limited session (2026-09-10T22:14:00Z)
   - Stowers emerged from preseason Week 2 with a hamstring injury, which sidelined him until this Wednesday. So far during Week 1 prep, the rookie second-round pick has logged back-to-back capped sessions, but even if he's cleared of his health concern ahead of the Eagles' season opener against the Commanders this Sunday, there's a chance he's a healthy scratch, as Jimmy Kempski of PhillyVoice.com reported on Aug. 26. In such a scenario, Johnny Mundt and E.J. Jenkins would be the available tight ends behind starter Dallas Goedert.
+- **NEW — David Njoku** — David Njoku Generating Positive Camp Buzz For Chemistry and Athleticism (2026-09-10T22:12:06Z)
+  - Source: https://www.rotoballer.com/player-news/david-njoku-generating-positive-camp-buzz-for-chemistry-and-athleticism/1928035
 - **Brock Bowers** — Brock Bowers - Sits out practice, set to miss time (2026-09-10T22:00:50Z)
   - Head coach Klint Kubiak has yet to officially rule Bowers out for Sunday's season opener versus the Dolphins, but the standout tight end is fully expected to be sidelined for Week 1 -- and likely, additional games beyond that -- after Adam Schefter and Ian Rapoport of ESPN reported that Bowers underwent a meniscus trim procedure Tuesday. Though the previous report indicated that Bowers is expected to miss "a game or two," Schefter clarified Thursday in an appearance on "The Pat McAfee Show" that that timeline is coming from the tight end's camp and may be overly optimistic. For however long Bowers is sidelined, Michael Mayer is expected to take on an expanded role in the passing game as the Raiders' top tight end, and starting wideouts Tre Tucker and Jalen Nailor will also have clearer paths to elevated target counts.
 - **Keaton Mitchell** — Keaton Mitchell - Stays limited in practice (2026-09-10T21:54:52Z)
@@ -240,5 +242,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/nicholas-singleton-still-worth-stashing-despite-crowded-backfield/1927831
 - **Cade Otton** — Cade Otton an Intriguing Tight End Streamer in Week 1 (2026-09-10T16:10:06Z)
   - Source: https://www.rotoballer.com/player-news/cade-otton-an-intriguing-tight-end-streamer-in-week-1/1927829
-- **Kirk Cousins** — Kirk Cousins Worth a Look in Two-Quarterback Leagues (2026-09-10T15:56:05Z)
-  - Source: https://www.rotoballer.com/player-news/kirk-cousins-worth-a-look-in-two-quarterback-leagues/1927810

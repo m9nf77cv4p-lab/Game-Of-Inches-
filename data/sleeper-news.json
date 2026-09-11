@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-11T02:05:27Z",
+  "last_checked_at": "2026-09-11T02:22:26Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13417|fantasy_pros|607054|1789092031363",
-    "nfl|13417|rotowire|636797|1789091603000"
+    "nfl|4033|rotoballer|220592|1789078326000"
   ],
   "schema_version": 1,
   "source": {
@@ -421,6 +420,26 @@
       "story_id": "nfl|13349|rotowire|636721|1789078440000",
       "title": "Eli Stowers - Another limited session",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers tight end David Njoku, who was brought over in the off-season from the Cleveland Browns, has generated positive buzz throughout training camp for his athleticism and chemistry with quarterback Justin Herbert. Njoku joins a crowded tight end room with Charlie Kolar and Oronde Gadsden. Njoku has dealt with injuries over the past few seasons, playing in only 11 and 12 games over the past seasons after he finished as the TE6 overall in 2023. In 2024, he finished as the TE4 in fantasy points per game, while 2025 was a lost season, as he only had 293 receiving yards and four touchdowns on 33 receptions. While the 30 year old is getting up there in age, with a new offensive scheme with Mike McDaniels, an improved offensive ecosystem, he profiles as a tight end worth monitoring. He is currently RotoBallers 37th ranked tight end, meaning he likely wasn't drafted in many drafts throughout the summer.",
+      "metadata": {
+        "description": "Los Angeles Chargers tight end David Njoku, who was brought over in the off-season from the Cleveland Browns, has generated positive buzz throughout training camp for his athleticism and chemistry with quarterback Justin Herbert. Njoku joins a crowded tight end room with Charlie Kolar and Oronde Gadsden. Njoku has dealt with injuries over the past few seasons, playing in only 11 and 12 games over the past seasons after he finished as the TE6 overall in 2023. In 2024, he finished as the TE4 in fantasy points per game, while 2025 was a lost season, as he only had 293 receiving yards and four touchdowns on 33 receptions. While the 30 year old is getting up there in age, with a new offensive scheme with Mike McDaniels, an improved offensive ecosystem, he profiles as a tight end worth monitoring. He is currently RotoBallers 37th ranked tight end, meaning he likely wasn't drafted in many drafts throughout the summer.",
+        "title": "David Njoku Generating Positive Camp Buzz For Chemistry and Athleticism",
+        "topic_id": "1403961141729779712",
+        "url": "https://www.rotoballer.com/player-news/david-njoku-generating-positive-camp-buzz-for-chemistry-and-athleticism/1928035"
+      },
+      "nfl_team": "LAC",
+      "player_id": "4033",
+      "player_name": "David Njoku",
+      "position": "TE",
+      "published": 1789078326000,
+      "source": "rotoballer",
+      "source_key": "220592",
+      "story_id": "nfl|4033|rotoballer|220592|1789078326000",
+      "title": "David Njoku Generating Positive Camp Buzz For Chemistry and Athleticism",
+      "url": "https://www.rotoballer.com/player-news/david-njoku-generating-positive-camp-buzz-for-chemistry-and-athleticism/1928035"
     },
     {
       "analysis": "Head coach Klint Kubiak has yet to officially rule Bowers out for Sunday's season opener versus the Dolphins, but the standout tight end is fully expected to be sidelined for Week 1 -- and likely, additional games beyond that -- after Adam Schefter and Ian Rapoport of ESPN reported that Bowers underwent a meniscus trim procedure Tuesday. Though the previous report indicated that Bowers is expected to miss \"a game or two,\" Schefter clarified Thursday in an appearance on \"The Pat McAfee Show\" that that timeline is coming from the tight end's camp and may be overly optimistic. For however long Bowers is sidelined, Michael Mayer is expected to take on an expanded role in the passing game as the Raiders' top tight end, and starting wideouts Tre Tucker and Jalen Nailor will also have clearer paths to elevated target counts.",
