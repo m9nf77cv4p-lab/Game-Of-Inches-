@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-11T01:41:01Z",
+  "last_checked_at": "2026-09-11T01:53:04Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13417|fantasy_pros|607051|1789090531104"
+    "nfl|13417|fantasy_pros|607052|1789091431256",
+    "nfl|13417|rotowire|636796|1789090869000",
+    "nfl|1373|rotoballer|220589|1789076300000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Stribling appeared to suffer a non-contact injury running a route. There will be a further update provided on his status when available. ",
+      "description": "49ers WR De'Zhaun Stribling was carted to the locker room on Thursday. ",
+      "metadata": {
+        "analysis": "Stribling appeared to suffer a non-contact injury running a route. There will be a further update provided on his status when available. ",
+        "description": "49ers WR De'Zhaun Stribling was carted to the locker room on Thursday. ",
+        "title": "De'Zhaun Stribling carted to locker room",
+        "topic_id": "1403954856238100480",
+        "url": "https://www.fantasypros.com/nfl/news/607052/dezhaun-stribling-carted-to-locker-room.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1789091431256,
+      "source": "fantasy_pros",
+      "source_key": "607052",
+      "story_id": "nfl|13417|fantasy_pros|607052|1789091431256",
+      "title": "De'Zhaun Stribling carted to locker room",
+      "url": "https://www.fantasypros.com/nfl/news/607052/dezhaun-stribling-carted-to-locker-room.php"
+    },
+    {
+      "analysis": "After previously returning from an ankle issue earlier Thursday, Stribling again came up lame while running a route in the second quarter. He fell to the turf and had to be assisted off the field by the training staff. Demarcus Robinson is now operating as the Niners' clear WR3 behind Mike Evans and Deebo Samuel. Stribling didn't draw a target prior to his injury.",
+      "description": "Stribling had to be helped off the field and headed back to the blue medical tent during Thursday's game against the Rams after appearing to re-injure his left ankle, Matt Barrows of The Athletic reports.",
+      "metadata": {
+        "analysis": "After previously returning from an ankle issue earlier Thursday, Stribling again came up lame while running a route in the second quarter. He fell to the turf and had to be assisted off the field by the training staff. Demarcus Robinson is now operating as the Niners' clear WR3 behind Mike Evans and Deebo Samuel. Stribling didn't draw a target prior to his injury.",
+        "description": "Stribling had to be helped off the field and headed back to the blue medical tent during Thursday's game against the Rams after appearing to re-injure his left ankle, Matt Barrows of The Athletic reports.",
+        "title": "De'Zhaun Stribling - Leaves game again Thursday",
+        "topic_id": "1403953594918526976"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1789090869000,
+      "source": "rotowire",
+      "source_key": "636796",
+      "story_id": "nfl|13417|rotowire|636796|1789090869000",
+      "title": "De'Zhaun Stribling - Leaves game again Thursday",
+      "url": null
+    },
     {
       "analysis": "Stribling had already been in the blue medical tent before returning to the game. He went down after running a route. There will be an update provided on his status when available. ",
       "description": "49ers WR De'Zhaun Stribling was helped off the field during Thursday's game against the Rams. ",
@@ -418,6 +461,26 @@
       "story_id": "nfl|12533|rotowire|636716|1789076493000",
       "title": "Jacory Croskey-Merritt - Remains limited in practice",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets quarterback Geno Smith enters 2026 in search of a bounce-back season after a disastrous 2025 campaign. Across 15 games with the Las Vegas Raiders last year, Smith completed 67.4% of his pass attempts for 3,025 yards, 19 touchdowns, and 17 interceptions. As he enters his age-36 season, Smith may simply be past his prime. However, he was saddled with one of the worst offensive lines in football and a subpar group of healthy pass-catchers last season in Las Vegas. While the Jets enter 2026 with question marks on offense, Smith will have an exciting group of weapons to work with on offense in wide receivers Garrett Wilson and Adonai Mitchell, tight ends Mason Taylor and Kenyon Sadiq (groin), and running back Breece Hall (groin). In deeper leagues and two-quarterback formats, Smith could be worth targeting ahead of 2026.",
+      "metadata": {
+        "description": "New York Jets quarterback Geno Smith enters 2026 in search of a bounce-back season after a disastrous 2025 campaign. Across 15 games with the Las Vegas Raiders last year, Smith completed 67.4% of his pass attempts for 3,025 yards, 19 touchdowns, and 17 interceptions. As he enters his age-36 season, Smith may simply be past his prime. However, he was saddled with one of the worst offensive lines in football and a subpar group of healthy pass-catchers last season in Las Vegas. While the Jets enter 2026 with question marks on offense, Smith will have an exciting group of weapons to work with on offense in wide receivers Garrett Wilson and Adonai Mitchell, tight ends Mason Taylor and Kenyon Sadiq (groin), and running back Breece Hall (groin). In deeper leagues and two-quarterback formats, Smith could be worth targeting ahead of 2026.",
+        "title": "Geno Smith a Deep-League Bounce-Back Candidate Entering 2026",
+        "topic_id": "1403953591542157312",
+        "url": "https://www.rotoballer.com/player-news/geno-smith-a-deep-league-bounce-back-candidate-entering-2026/1928017"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "1373",
+      "player_name": "Geno Smith",
+      "position": "QB",
+      "published": 1789076300000,
+      "source": "rotoballer",
+      "source_key": "220589",
+      "story_id": "nfl|1373|rotoballer|220589|1789076300000",
+      "title": "Geno Smith a Deep-League Bounce-Back Candidate Entering 2026",
+      "url": "https://www.rotoballer.com/player-news/geno-smith-a-deep-league-bounce-back-candidate-entering-2026/1928017"
     },
     {
       "analysis": "McMillan has been tending to a knee injury since early August, a scenario that sidelined him for the entire preseason slate. With back-to-back capped sessions under his belt, he still has some work to do to make himself available for Sunday's game at Cincinnati. Friday's practice report will reveal if McMillan enters the weekend with a designation ahead of that matchup.",
@@ -52305,26 +52368,6 @@
       "source_key": "633303",
       "story_id": "nfl|7588|rotowire|633303|1786501461000",
       "title": "Javonte Williams - Expects offense to take step up",
-      "url": null
-    },
-    {
-      "analysis": "Williams is set to share the backfield with third-year pro Blake Corum again in 2026, but that may serve to his benefit. Williams benefits from fewer touches, remaining fresh to operate as a dual-threat running back in the Rams' offense. The 25-year-old surpassed 1,000 rushing yards for the third straight season in 2025, turning 259 carries into 1,252 yards and 10 touchdowns on the ground while also securing career bests across the board through the air, adding 36 catches for 281 yards and three scores as a receiver. Williams has been breaking loose for big runs, showing his explosive ability as a runner at practice, and he'll look to further elevate his numbers in Year 5 with Los Angeles this season.",
-      "description": "Williams has been consistently finding holes through the defense at training camp, Brock Vierra of Rams Wire reports.",
-      "metadata": {
-        "analysis": "Williams is set to share the backfield with third-year pro Blake Corum again in 2026, but that may serve to his benefit. Williams benefits from fewer touches, remaining fresh to operate as a dual-threat running back in the Rams' offense. The 25-year-old surpassed 1,000 rushing yards for the third straight season in 2025, turning 259 carries into 1,252 yards and 10 touchdowns on the ground while also securing career bests across the board through the air, adding 36 catches for 281 yards and three scores as a receiver. Williams has been breaking loose for big runs, showing his explosive ability as a runner at practice, and he'll look to further elevate his numbers in Year 5 with Los Angeles this season.",
-        "description": "Williams has been consistently finding holes through the defense at training camp, Brock Vierra of Rams Wire reports.",
-        "title": "Kyren Williams - Impressing at training camp",
-        "topic_id": "1393083281779486720"
-      },
-      "nfl_team": "LAR",
-      "player_id": "8150",
-      "player_name": "Kyren Williams",
-      "position": "RB",
-      "published": 1786499368000,
-      "source": "rotowire",
-      "source_key": "633302",
-      "story_id": "nfl|8150|rotowire|633302|1786499368000",
-      "title": "Kyren Williams - Impressing at training camp",
       "url": null
     }
   ]
