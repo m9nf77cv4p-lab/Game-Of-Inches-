@@ -2,20 +2,28 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2693**
+- Stored stories: **2697**
 - Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Jeremiyah Love** — Jeremiyah Love (ankle) expected to be gameday decision Sunday  (2026-09-11T18:10:29.275000Z)
+- **NEW — Alvin Kamara** — Alvin Kamara - Will be questionable for Week 1 (2026-09-11T18:26:16Z)
+  - Kamara suffered an MCL sprain during a joint practice with the Cowboys on Aug. 18 that initially was slated to sideline him for at least one month. While Kamara was able to practice in a limited capacity during Week 1 prep, his status for Sunday seemingly will come down to a game-time decision. If Kamara is inhibited or sidelined this weekend, Kendre Miller would be the Saints running back to receive complementary work behind starter Travis Etienne.
+- **NEW — Zachariah Branch** — Zachariah Branch (hamstring) off injury report for Sunday (2026-09-11T18:25:14.139000Z)
+  - The rookie was limited at practice earlier in the week due to a hamstring injury, but he is over it now and is off of the injury report ahead of Sunday's game. He isn't expected to be a strong fantasy option against the Steelers, however, especially with Cooper Rush set to start at QB for the Falcons in the absence of Tua Tagovailoa (oblique).
+  - Source: https://www.fantasypros.com/nfl/news/607178/zachariah-branch-hamstring-off-injury-report-sunday.php
+- **NEW — Alvin Kamara** — Alvin Kamara (knee) officially questionable for Sunday (2026-09-11T18:25:14.127000Z)
+  - Kamara will enter the weekend with a questionable tag. This doesn't come as much of a surprise, given that he has been limited at practice all week while dealing with this knee injury. Fantasy managers should expect more work for Kendre Miller if the veteran is ruled out ahead of game time on Sunday.
+  - Source: https://www.fantasypros.com/nfl/news/607179/alvin-kamara-knee-officially-questionable-sunday.php
+- **Jeremiyah Love** — Jeremiyah Love (ankle) expected to be gameday decision Sunday  (2026-09-11T18:10:29.275000Z)
   - All reports this week have suggested Love is expected to play on Sunday. Barring any late setback, he should be good to go. It is unclear if he'll be limited in any fashion. 
   - Source: https://www.fantasypros.com/nfl/news/607171/jeremiyah-love-ankle-expected-to-be-gameday-decision-sunday.php
-- **NEW — Eli Stowers** — Eli Stowers (hamstring) says he expects to play Sunday  (2026-09-11T18:00:28.986000Z)
+- **Eli Stowers** — Eli Stowers (hamstring) says he expects to play Sunday  (2026-09-11T18:00:28.986000Z)
   - Stowers has been battling a hamstring injury. He'll remain off the fantasy radar to begin the season behind Dallas Goedert. 
   - Source: https://www.fantasypros.com/nfl/news/607170/eli-stowers-hamstring-says-he-expects-to-play-sunday.php
-- **NEW — KC Concepcion** — KC Concepcion - Returning punts this week (2026-09-11T17:59:57Z)
+- **KC Concepcion** — KC Concepcion - Returning punts this week (2026-09-11T17:59:57Z)
   - Concepcion also figures to be one of the team's top offensive weapons, locked in for a top-three role alongside presumed starters Jerry Jeudy and Denzel Boston. The Browns also have TE Harold Fannin and RBs Quinshon Judkins and Dylan Sampson in the mix for short-area targets, but Monken seems intent on getting the ball into Concepcion's hands, one way or another.
-- **NEW — Michael Penix** — Michael Penix - Still out Week 1, but FP all week (2026-09-11T17:55:57Z)
+- **Michael Penix** — Michael Penix - Still out Week 1, but FP all week (2026-09-11T17:55:57Z)
   - On Monday, coach Kevin Stefanski announced that Tua Tagovailoa as the Falcons' Week 1 starting quarterback, while conversely Penix would be inactive for the season opener. On Thursday, though, Tagovailoa strained his oblique and now won't be available this weekend, either, with coach Kevin Stefanski calling him "week-to-week" Friday, per Marc Raimondi of ESPN.com. Penix's listed activity of "full" all week indicates he's closing in on his first game action since tearing his left ACL last November, and if Tagovailoa is indeed in danger of missing multiple games, Penix could soon be in the mix for starts under center. As for this Sunday, Cooper Rush will direct the offense, with Jack Strand backing him up.
 - **Cooper Rush** — Cooper Rush - Will start Sunday (2026-09-11T17:44:01Z)
   - Tagovailoa suffered an oblique strain during Thursday's practice and now will join Michael Penix (knee) on the sideline this weekend. Rush handled the first-team reps in the final two sessions of Week 1 prep and thus will be under center Sunday, with Jack Strand backup him up. Because coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa is "week-to-week," Rush could be in consideration for multiple starts to kick off the 2026 campaign.
@@ -89,6 +97,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jeremiyah Love** — Jeremiyah Love (ankle) expected to play on Sunday (2026-09-11T15:05:27.967000Z)
   - Love was electric in his limited preseason showing, and if he is fully ready to go, he should be electric yet again. Tyler Allgeier could very well eat into his workload, but don't let that stop you from putting Love in your lineup.
   - Source: https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php
+- **NEW — Michael Penix** — Michael Penix Jr. Had No "Real Chance" to Start in Week 1 (2026-09-11T14:10:06Z)
+  - Source: https://www.rotoballer.com/player-news/michael-penix-jr-had-no-real-chance-to-start-in-week-1/1928606
 - **Chris Bell** — Chris Bell Looks Good Heading into His First Career Start (2026-09-11T13:26:06Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-looks-good-heading-into-his-first-career-start/1928568
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Cleared to Play Sunday (2026-09-11T13:14:05Z)
@@ -230,11 +240,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Stribling took a trip to the blue medical tent on the sideline near the end of the first quarter. Prior to the injury, Stribling wasn't targeted on any of Brock Purdy's 14 pass attempts. Demarcus Robinson would be in line for more work behind Mike Evans and Deebo Samuel if Stribling is unable to return Thursday.
 - **Matthew Stafford** — Matthew Stafford Delivers a Season-Opening Letdown in Australia (2026-09-11T01:12:05Z)
   - Source: https://www.rotoballer.com/player-news/matthew-stafford-delivers-a-season-opening-letdown-in-australia/1928099
-- **Blake Corum** — Blake Corum Finishes Week 1 as the Rams' Leading Rusher (2026-09-11T01:09:05Z)
-  - Source: https://www.rotoballer.com/player-news/blake-corum-finishes-week-1-as-the-rams-leading-rusher/1928097
-- **Brock Purdy** — Brock Purdy Shines in Upset Win Over Rams (2026-09-11T01:05:07Z)
-  - Source: https://www.rotoballer.com/player-news/brock-purdy-shines-in-upset-win-over-rams/1928095
-- **Ryan Flournoy** — Cowboys Sign Ryan Flournoy to One-Year Extension (2026-09-11T00:42:06Z)
-  - Source: https://www.rotoballer.com/player-news/cowboys-sign-ryan-flournoy-to-one-year-extension/1928088
-- **Chris Bell** — Chris Bell - Still working on conditioning (2026-09-11T00:08:46Z)
-  - Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial pitch count against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.

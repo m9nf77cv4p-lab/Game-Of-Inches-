@@ -1,12 +1,12 @@
 {
-  "last_checked_at": "2026-09-11T18:17:03Z",
+  "last_checked_at": "2026-09-11T18:35:03Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 287,
   "new_story_ids": [
-    "nfl|11559|rotowire|636837|1789149357000",
-    "nfl|13287|fantasy_pros|607171|1789150229275",
-    "nfl|13298|rotowire|636838|1789149597000",
-    "nfl|13349|fantasy_pros|607170|1789149628986"
+    "nfl|11559|rotoballer|220641|1789135806000",
+    "nfl|13320|fantasy_pros|607178|1789151114139",
+    "nfl|4035|fantasy_pros|607179|1789151114127",
+    "nfl|4035|rotowire|636840|1789151176000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +16,68 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Kamara suffered an MCL sprain during a joint practice with the Cowboys on Aug. 18 that initially was slated to sideline him for at least one month. While Kamara was able to practice in a limited capacity during Week 1 prep, his status for Sunday seemingly will come down to a game-time decision. If Kamara is inhibited or sidelined this weekend, Kendre Miller would be the Saints running back to receive complementary work behind starter Travis Etienne.",
+      "description": "Coach Kellen Moore said Friday that Kamara (knee) will be questionable for Sunday's game in Pittsburgh, Mike Triplett of NewOrleans.Football reports.",
+      "metadata": {
+        "analysis": "Kamara suffered an MCL sprain during a joint practice with the Cowboys on Aug. 18 that initially was slated to sideline him for at least one month. While Kamara was able to practice in a limited capacity during Week 1 prep, his status for Sunday seemingly will come down to a game-time decision. If Kamara is inhibited or sidelined this weekend, Kendre Miller would be the Saints running back to receive complementary work behind starter Travis Etienne.",
+        "description": "Coach Kellen Moore said Friday that Kamara (knee) will be questionable for Sunday's game in Pittsburgh, Mike Triplett of NewOrleans.Football reports.",
+        "title": "Alvin Kamara - Will be questionable for Week 1",
+        "topic_id": "1404206438871535616"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1789151176000,
+      "source": "rotowire",
+      "source_key": "636840",
+      "story_id": "nfl|4035|rotowire|636840|1789151176000",
+      "title": "Alvin Kamara - Will be questionable for Week 1",
+      "url": null
+    },
+    {
+      "analysis": "The rookie was limited at practice earlier in the week due to a hamstring injury, but he is over it now and is off of the injury report ahead of Sunday's game. He isn't expected to be a strong fantasy option against the Steelers, however, especially with Cooper Rush set to start at QB for the Falcons in the absence of Tua Tagovailoa (oblique).",
+      "description": "Zachariah Branch (hamstring) is off of the injury report for Sunday's game against the Pittsburgh Steelers.",
+      "metadata": {
+        "analysis": "The rookie was limited at practice earlier in the week due to a hamstring injury, but he is over it now and is off of the injury report ahead of Sunday's game. He isn't expected to be a strong fantasy option against the Steelers, however, especially with Cooper Rush set to start at QB for the Falcons in the absence of Tua Tagovailoa (oblique).",
+        "description": "Zachariah Branch (hamstring) is off of the injury report for Sunday's game against the Pittsburgh Steelers.",
+        "title": "Zachariah Branch (hamstring) off injury report for Sunday",
+        "topic_id": "1404205184409702400",
+        "url": "https://www.fantasypros.com/nfl/news/607178/zachariah-branch-hamstring-off-injury-report-sunday.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "13320",
+      "player_name": "Zachariah Branch",
+      "position": "WR",
+      "published": 1789151114139,
+      "source": "fantasy_pros",
+      "source_key": "607178",
+      "story_id": "nfl|13320|fantasy_pros|607178|1789151114139",
+      "title": "Zachariah Branch (hamstring) off injury report for Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/607178/zachariah-branch-hamstring-off-injury-report-sunday.php"
+    },
+    {
+      "analysis": "Kamara will enter the weekend with a questionable tag. This doesn't come as much of a surprise, given that he has been limited at practice all week while dealing with this knee injury. Fantasy managers should expect more work for Kendre Miller if the veteran is ruled out ahead of game time on Sunday.",
+      "description": "Alvin Kamara (knee) is officially questionable to play in Sunday's game against the Detroit Lions.",
+      "metadata": {
+        "analysis": "Kamara will enter the weekend with a questionable tag. This doesn't come as much of a surprise, given that he has been limited at practice all week while dealing with this knee injury. Fantasy managers should expect more work for Kendre Miller if the veteran is ruled out ahead of game time on Sunday.",
+        "description": "Alvin Kamara (knee) is officially questionable to play in Sunday's game against the Detroit Lions.",
+        "title": "Alvin Kamara (knee) officially questionable for Sunday",
+        "topic_id": "1404205184355176448",
+        "url": "https://www.fantasypros.com/nfl/news/607179/alvin-kamara-knee-officially-questionable-sunday.php"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1789151114127,
+      "source": "fantasy_pros",
+      "source_key": "607179",
+      "story_id": "nfl|4035|fantasy_pros|607179|1789151114127",
+      "title": "Alvin Kamara (knee) officially questionable for Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/607179/alvin-kamara-knee-officially-questionable-sunday.php"
+    },
     {
       "analysis": "All reports this week have suggested Love is expected to play on Sunday. Barring any late setback, he should be good to go. It is unclear if he'll be limited in any fashion. ",
       "description": "Cardinals head coach Mike LaFleur said it was fair to say Jeremiyah Love will be gameday decision on Sunday. ",
@@ -715,6 +777,26 @@
       "story_id": "nfl|13287|fantasy_pros|607111|1789139127967",
       "title": "Jeremiyah Love (ankle) expected to play on Sunday",
       "url": "https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "When asked if there was any chance that quarterback Michael Penix Jr. (knee) could start on Sunday in the Week 1 season opener against the Pittsburgh Steelers, Atlanta Falcons head coach Kevin Stefanski said, \"No.\" Stefanski said that Penix will be ready when he is ready. It remains to be seen if Penix will be ready for the team's Week 2 contest next Sunday, Sept. 20, versus the division-rival Carolina Panthers, as the Falcons are now in a bit of a bind at the QB position following Tua Tagovailoa's oblique injury in practice on Thursday that will sideline him this weekend. With Penix already ruled out, the Falcons are forced to turn to veteran backup Cooper Rush in the season opener against Pittsburgh, with undrafted rookie Jack Strand backing him up. It might be just one week of Rush, though, since Penix has been listed as a full participant in practices this week. With Tagovailoa now potentially being cut after another injury, Penix's path to a full-time starting role has cleared up, making him much more attractive for the 2026 season in two-QB superflex leagues after he partially tore his ACL last year.",
+      "metadata": {
+        "description": "When asked if there was any chance that quarterback Michael Penix Jr. (knee) could start on Sunday in the Week 1 season opener against the Pittsburgh Steelers, Atlanta Falcons head coach Kevin Stefanski said, \"No.\" Stefanski said that Penix will be ready when he is ready. It remains to be seen if Penix will be ready for the team's Week 2 contest next Sunday, Sept. 20, versus the division-rival Carolina Panthers, as the Falcons are now in a bit of a bind at the QB position following Tua Tagovailoa's oblique injury in practice on Thursday that will sideline him this weekend. With Penix already ruled out, the Falcons are forced to turn to veteran backup Cooper Rush in the season opener against Pittsburgh, with undrafted rookie Jack Strand backing him up. It might be just one week of Rush, though, since Penix has been listed as a full participant in practices this week. With Tagovailoa now potentially being cut after another injury, Penix's path to a full-time starting role has cleared up, making him much more attractive for the 2026 season in two-QB superflex leagues after he partially tore his ACL last year.",
+        "title": "Michael Penix Jr. Had No \"Real Chance\" to Start in Week 1",
+        "topic_id": "1404203919910969344",
+        "url": "https://www.rotoballer.com/player-news/michael-penix-jr-had-no-real-chance-to-start-in-week-1/1928606"
+      },
+      "nfl_team": "ATL",
+      "player_id": "11559",
+      "player_name": "Michael Penix",
+      "position": "QB",
+      "published": 1789135806000,
+      "source": "rotoballer",
+      "source_key": "220641",
+      "story_id": "nfl|11559|rotoballer|220641|1789135806000",
+      "title": "Michael Penix Jr. Had No \"Real Chance\" to Start in Week 1",
+      "url": "https://www.rotoballer.com/player-news/michael-penix-jr-had-no-real-chance-to-start-in-week-1/1928606"
     },
     {
       "analysis": null,
