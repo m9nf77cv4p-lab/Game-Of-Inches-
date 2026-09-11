@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-11T02:50:18Z",
+  "last_checked_at": "2026-09-11T03:00:13Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [
-    "nfl|8205|rotoballer|220595|1789080005000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -403,10 +401,10 @@
     },
     {
       "analysis": null,
-      "description": "Detroit Lions running back Isiah Pacheco (back) will miss at least the first four games in 2026, and possibly more if he is not ready by then, as Detroit Lions general manager Brad Holmes said that he does not want to put a timeline on it after he was placed on the Injured Reserve. With Pacheco injured, Sione Vaki and Jacob Saylors will battle for the RB2 role behind superstar Jahmyr Gibbs. Pacheco was brought over from the Kansas City Chiefs after a disappointing season last year, following a major injury in 2024. Pacheco was one of the more inefficient runners last season, averaging 3.9 YPC, and was 47th in explosive rating and 53rd in yards per touch. Coming into the season, there was some optimism that Pacheco would take over a David Montgomery-like role, but with this injury, he can be dropped to the waiver wire in most standard formats.",
+      "description": "Detroit Lions running back Isiah Pacheco (back) will miss at least the first four games in 2026, and possibly more if he is not ready by then, as general manager Brad Holmes said that he does not want to put a timeline on it after he was placed on Injured Reserve. With Pacheco injured, Sione Vaki and Jacob Saylors will battle for the RB2 role behind superstar Jahmyr Gibbs. Pacheco was brought over from the Kansas City Chiefs after a disappointing season last year, following a major injury in 2024. Pacheco was one of the more inefficient runners last season, averaging 3.9 YPC, and was 47th in explosive rating and 53rd in yards per touch. Coming into the season, there was some optimism that Pacheco would take over a David Montgomery-like role, but with this injury, he can be dropped to the waiver wire in most standard formats.",
       "metadata": {
-        "description": "Detroit Lions running back Isiah Pacheco (back) will miss at least the first four games in 2026, and possibly more if he is not ready by then, as Detroit Lions general manager Brad Holmes said that he does not want to put a timeline on it after he was placed on the Injured Reserve. With Pacheco injured, Sione Vaki and Jacob Saylors will battle for the RB2 role behind superstar Jahmyr Gibbs. Pacheco was brought over from the Kansas City Chiefs after a disappointing season last year, following a major injury in 2024. Pacheco was one of the more inefficient runners last season, averaging 3.9 YPC, and was 47th in explosive rating and 53rd in yards per touch. Coming into the season, there was some optimism that Pacheco would take over a David Montgomery-like role, but with this injury, he can be dropped to the waiver wire in most standard formats.",
-        "title": "Isiah Pacheco Without a Timetable For His Return, Quickly Losing Value",
+        "description": "Detroit Lions running back Isiah Pacheco (back) will miss at least the first four games in 2026, and possibly more if he is not ready by then, as general manager Brad Holmes said that he does not want to put a timeline on it after he was placed on Injured Reserve. With Pacheco injured, Sione Vaki and Jacob Saylors will battle for the RB2 role behind superstar Jahmyr Gibbs. Pacheco was brought over from the Kansas City Chiefs after a disappointing season last year, following a major injury in 2024. Pacheco was one of the more inefficient runners last season, averaging 3.9 YPC, and was 47th in explosive rating and 53rd in yards per touch. Coming into the season, there was some optimism that Pacheco would take over a David Montgomery-like role, but with this injury, he can be dropped to the waiver wire in most standard formats.",
+        "title": "Isiah Pacheco Without a Timetable For a Return, Quickly Losing Value",
         "topic_id": "1403968659721900032",
         "url": "https://www.rotoballer.com/player-news/isiah-pacheco-without-a-timetable-for-his-return-quickly-losing-value/1928062"
       },
@@ -418,7 +416,7 @@
       "source": "rotoballer",
       "source_key": "220595",
       "story_id": "nfl|8205|rotoballer|220595|1789080005000",
-      "title": "Isiah Pacheco Without a Timetable For His Return, Quickly Losing Value",
+      "title": "Isiah Pacheco Without a Timetable For a Return, Quickly Losing Value",
       "url": "https://www.rotoballer.com/player-news/isiah-pacheco-without-a-timetable-for-his-return-quickly-losing-value/1928062"
     },
     {
@@ -52407,26 +52405,6 @@
       "source_key": "633311",
       "story_id": "nfl|11586|rotowire|633311|1786504949000",
       "title": "Blake Corum - Looking more explosive",
-      "url": null
-    },
-    {
-      "analysis": "Swift broke off a 62-yard touchdown in Tuesday's practice and also trucked a defender on a run to the outside. \"I'm excited for him,\" Caleb Williams said Tuesday. \"Selfishly, he helps everybody on that field when he can go and be the special back that he is, whether it's passing or short yardage and running downhill. I'm excited for him, I think he's going to have a great year.\" Swift rushed for a career-high 1,087 yards and nine touchdowns on 223 carries (4.9 YPC) across 16 regular-season games last season and should head into 2026 as the clear lead back in Chicago ahead of Kyle Monangai. The scoring upside of the Chicago offense has Swift on the fantasy RB2 map.",
-      "description": "Swift has been one of the brightest stars of training camp for the Bears, Courtney Cronin of ESPN.com reports.",
-      "metadata": {
-        "analysis": "Swift broke off a 62-yard touchdown in Tuesday's practice and also trucked a defender on a run to the outside. \"I'm excited for him,\" Caleb Williams said Tuesday. \"Selfishly, he helps everybody on that field when he can go and be the special back that he is, whether it's passing or short yardage and running downhill. I'm excited for him, I think he's going to have a great year.\" Swift rushed for a career-high 1,087 yards and nine touchdowns on 223 carries (4.9 YPC) across 16 regular-season games last season and should head into 2026 as the clear lead back in Chicago ahead of Kyle Monangai. The scoring upside of the Chicago offense has Swift on the fantasy RB2 map.",
-        "description": "Swift has been one of the brightest stars of training camp for the Bears, Courtney Cronin of ESPN.com reports.",
-        "title": "D'Andre Swift - Having standout camp",
-        "topic_id": "1393100901475966976"
-      },
-      "nfl_team": "CHI",
-      "player_id": "6790",
-      "player_name": "D'Andre Swift",
-      "position": "RB",
-      "published": 1786503214000,
-      "source": "rotowire",
-      "source_key": "633308",
-      "story_id": "nfl|6790|rotowire|633308|1786503214000",
-      "title": "D'Andre Swift - Having standout camp",
       "url": null
     }
   ]

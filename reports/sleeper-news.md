@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2605**
-- Newly captured: **1**
+- Stored stories: **2604**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -53,7 +53,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tua Tagovailoa** — Tua Tagovailoa (oblique) day-to-day, uncertain for Sunday (2026-09-10T22:40:29.734000Z)
   - This isn't a great indicator of Tua's status for Sunday, but it might not change much if Rush starts given the reports of Tua's play during training camp. It will be a situation to monitor ahead of Sunday, and it also speaks to Michael Penix's health, given he was not first up behind Tua at practice at this point.
   - Source: https://www.fantasypros.com/nfl/news/607035/tua-tagovailoa-oblique-day-to-day-uncertain-sunday.php
-- **NEW — Isiah Pacheco** — Isiah Pacheco Without a Timetable For His Return, Quickly Losing Value (2026-09-10T22:40:05Z)
+- **Isiah Pacheco** — Isiah Pacheco Without a Timetable For a Return, Quickly Losing Value (2026-09-10T22:40:05Z)
   - Source: https://www.rotoballer.com/player-news/isiah-pacheco-without-a-timetable-for-his-return-quickly-losing-value/1928062
 - **Eli Stowers** — Eli Stowers - Another limited session (2026-09-10T22:14:00Z)
   - Stowers emerged from preseason Week 2 with a hamstring injury, which sidelined him until this Wednesday. So far during Week 1 prep, the rookie second-round pick has logged back-to-back capped sessions, but even if he's cleared of his health concern ahead of the Eagles' season opener against the Commanders this Sunday, there's a chance he's a healthy scratch, as Jimmy Kempski of PhillyVoice.com reported on Aug. 26. In such a scenario, Johnny Mundt and E.J. Jenkins would be the available tight ends behind starter Dallas Goedert.
