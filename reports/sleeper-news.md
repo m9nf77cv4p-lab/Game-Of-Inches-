@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2642**
-- Newly captured: **0**
+- Stored stories: **2643**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Tyrone Tracy** — Tyrone Tracy Jr. has Uncertain Role Heading into Week 1 (2026-09-11T09:57:06Z)
+  - Source: https://www.rotoballer.com/player-news/tyrone-tracys-role-uncertain-heading-into-week-1/1928295
 - **Jordan Mason** — Aaron Jones Sr. Could Lose Snaps to Backfield Mate in 2026 (2026-09-11T09:36:52Z)
   - Source: https://www.rotoballer.com/player-news/jordan-mason-threatens-aaron-jones-fantasy-value-in-2026/1928264
 - **Jordan James** — Jordan James Off Fantasy Radar After Losing RB2 Role (2026-09-11T09:30:06Z)
@@ -244,5 +246,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Zachariah Branch** — Zachariah Branch (hamstring) limited participant Thursday (2026-09-10T19:50:21.830000Z)
   - The rookie was once again left limited at practice. He's still recovering from a hamstring injury of some kind, and it remains unclear whether or not he will be ready to play in time for Week 1. Look for Jahan Dotson to see more work if Branch is unable to make his NFL debut on Sunday.
   - Source: https://www.fantasypros.com/nfl/news/606965/zachariah-branch-hamstring-limited-participant-thursday.php
-- **Jonathon Brooks** — Jonathon Brooks - Limited participant Thursday (2026-09-10T19:47:45Z)
-  - Brooks said Wednesday that he expects to play in the opener, but the club continues to keep a lid on his practice participation as he's yet to log a full session this week. He still could play this week despite the team's caution in practice. Assuming he's good to go, Brooks and Chuba Hubbard will handle the bulk of the backfield work against the Bears on Sunday.

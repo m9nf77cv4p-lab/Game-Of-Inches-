@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-11T13:57:42Z",
+  "last_checked_at": "2026-09-11T14:15:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11655|rotoballer|220617|1789120626000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "New York Giants running back Tyrone Tracy Jr. is expected to split the backup role with Devin Singletary and Najee Harris. After the third-year back fumbled and missed a pass-protection rep that left his starting quarterback, Jaxson Dart, leveled, Tracy appears to have lost ground in the backfield. The Giants' depth chart listed second-year Cam Skattebo as the RB1, with Tracy, Singletary, and Harris all listed as RB2s. In 15 games last season, Tracy had 176 carries for 740 yards and two touchdowns, and added 36 receptions for 288 yards and two touchdowns. With a new coaching staff in place, Tracy's role appears uncertain for Week 1, and fantasy managers should have low expectations for his outlook against the Dallas Cowboys.",
+      "metadata": {
+        "description": "New York Giants running back Tyrone Tracy Jr. is expected to split the backup role with Devin Singletary and Najee Harris. After the third-year back fumbled and missed a pass-protection rep that left his starting quarterback, Jaxson Dart, leveled, Tracy appears to have lost ground in the backfield. The Giants' depth chart listed second-year Cam Skattebo as the RB1, with Tracy, Singletary, and Harris all listed as RB2s. In 15 games last season, Tracy had 176 carries for 740 yards and two touchdowns, and added 36 receptions for 288 yards and two touchdowns. With a new coaching staff in place, Tracy's role appears uncertain for Week 1, and fantasy managers should have low expectations for his outlook against the Dallas Cowboys.",
+        "title": "Tyrone Tracy Jr. has Uncertain Role Heading into Week 1",
+        "topic_id": "1404139802743320576",
+        "url": "https://www.rotoballer.com/player-news/tyrone-tracys-role-uncertain-heading-into-week-1/1928295"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11655",
+      "player_name": "Tyrone Tracy",
+      "position": "RB",
+      "published": 1789120626000,
+      "source": "rotoballer",
+      "source_key": "220617",
+      "story_id": "nfl|11655|rotoballer|220617|1789120626000",
+      "title": "Tyrone Tracy Jr. has Uncertain Role Heading into Week 1",
+      "url": "https://www.rotoballer.com/player-news/tyrone-tracys-role-uncertain-heading-into-week-1/1928295"
+    },
     {
       "analysis": null,
       "description": "Minnesota Vikings running back Aaron Jones Sr. is expected to split the backfield with Jordan Mason this season. Last season, Jones had 160 touches for 747 yards and three touchdowns in 12 games, while Mason had 173 touches for 809 yards and six touchdowns in 16 games. Mason has reportedly had a strong training camp, looks fast and explosive, and has a shot at the starting role in Minnesota. With Kyler Murray under center and a favorable schedule for running backs, both players can produce, but Mason has more workhorse upside. Jones has also missed 11 games over the last three seasons, making him a riskier option. Both will limit each other's fantasy value in a committee, but Mason's strong training camp and career efficiency give him the best chance to eventually take over this backfield.",
