@@ -2,14 +2,23 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2660**
-- Newly captured: **4**
+- Stored stories: **2668**
+- Newly captured: **8**
 
 ## Latest news
 
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa - Not spotted at start of practice (2026-09-11T16:28:48Z)
+- **NEW — Tua Tagovailoa** — Tua Tagovailoa (oblique) not seen practicing Friday (2026-09-11T16:50:28.428000Z)
+  - Tagovailoa remains day-to-day after exiting practice early Thursday with the injury. With Michael Penix Jr. (knee) still working back from injury also, veteran Cooper Rush is in line to start for head coach Kevin Stefanski against the Pittsburgh Steelers in Sunday's season opener.
+  - Source: https://www.fantasypros.com/nfl/news/607150/tua-tagovailoa-oblique-not-seen-practicing-friday.php
+- **NEW — A.J. Brown** — A.J. Brown (ankle) placed on injured reserve (2026-09-11T16:45:28.511000Z)
+  - Source: https://www.fantasypros.com/nfl/news/607149/aj-brown-ankle-placed-on-injured-reserve.php
+- **NEW — Jonathon Brooks** — Jonathon Brooks - Will play Sunday (2026-09-11T16:45:16Z)
+  - With Brooks cleared after practicing throughout the week, he appears on track to handle whatever role the team has in mind. Chuba Hubbard remains the favorite to start and get most of the carries, but reports throughout the offseason and preseason made it clear that the Panthers have a role in mind for Brooks as well.
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Will play Sunday (2026-09-11T16:43:12Z)
+  - Croskey-Merritt was limited in practice Wednesday and Thursday but will apparently be fine for the season opener. He's got a tough matchup on the road in Philadelphia, and he'll will be sharing snaps with Rachaad White in some fashion, regardless of health/durability considerations.
+- **Tua Tagovailoa** — Tua Tagovailoa - Not spotted at start of practice (2026-09-11T16:28:48Z)
   - Tagovailoa is considered day-to-day after suffering an oblique strain during Thursday's practice. His absence Friday suggests there's serious risk the Falcons will end up starting Cooper Rush this Sunday in Pittsburgh. The team has yet to announce any kind of decision, beyond ruling out Michael Penix (knee) at the start of the week. It won't be surprising if Penix is under center by the end of the month, however.
-- **NEW — Jakobi Meyers** — Jakobi Meyers - Could play Sunday (2026-09-11T16:21:31Z)
+- **Jakobi Meyers** — Jakobi Meyers - Could play Sunday (2026-09-11T16:21:31Z)
   - After logging limited practices Wednesday and Thursday while wearing a non-contact jersey, Meyers may be gearing up to play in the opener. It remains to be seen how the Jaguars list him on their final injury report.
 - **Malik Nabers** — Malik Nabers (knee) preparing to practice Friday (2026-09-11T16:10:27.980000Z)
   - Nabers has practiced fully the entire week for head coach John Harbaugh, putting the superstar wideout on track to suit up for Sunday's season opener against the Dallas Cowboys and providing a boost to a Giants offense looking to put a forgettable 2025-26 in the rearview mirror.
@@ -32,9 +41,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jeremiyah Love** — Jeremiyah Love (ankle) expected to play on Sunday (2026-09-11T15:05:27.967000Z)
   - Love was electric in his limited preseason showing, and if he is fully ready to go, he should be electric yet again. Tyler Allgeier could very well eat into his workload, but don't let that stop you from putting Love in your lineup.
   - Source: https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php
-- **NEW — Tee Higgins** — Tee Higgins Cleared for Week 1 Against Tampa (2026-09-11T12:35:13Z)
+- **NEW — Emeka Egbuka** — Emeka Egbuka Cleared to Play in Week 1 (2026-09-11T12:47:21Z)
+  - Source: https://www.rotoballer.com/player-news/emeka-egbuka-cleared-to-play-in-week-1/1928509
+- **Tee Higgins** — Tee Higgins Cleared for Week 1 Against Tampa (2026-09-11T12:35:13Z)
   - Source: https://www.rotoballer.com/player-news/tee-higgins-cleared-for-week-1-against-tampa/1928495
-- **NEW — Ja'Marr Chase** — Ja'Marr Chase Good to Go for Week 1 (2026-09-11T12:30:07Z)
+- **Ja'Marr Chase** — Ja'Marr Chase Good to Go for Week 1 (2026-09-11T12:30:07Z)
   - Source: https://www.rotoballer.com/player-news/jamarr-chase-good-to-go-for-week-1/1928489
 - **Pat Freiermuth** — Pat Freiermuth Facing More Competition for Targets (2026-09-11T12:07:19Z)
   - Source: https://www.rotoballer.com/player-news/pat-freiermuth-facing-more-competition-for-targets/1928468
@@ -225,16 +236,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Rashee Rice** — Rashee Rice (knee) logs full practice Thursday (2026-09-10T21:15:29.632000Z)
   - As expected, Rice was able to log a full practice session on Thursday and seems to be set to play in Monday night's game against the Denver Broncos. Despite the tough matchup, he projects to be a good fantasy option in PPR leagues this week, especially with Patrick Mahomes II (knee) likely to be at the helm for Kansas City.
   - Source: https://www.fantasypros.com/nfl/news/607005/rashee-rice-knee-logs-full-practice-thursday.php
-- **Kenneth Walker** — Kenneth Walker III (foot) off injury report for Monday (2026-09-10T21:15:29.620000Z)
-  - Walker was previously dealing with a foot injury of some kind, but he is over it now and is no longer listed on the team's injury report ahead of their Week 1 matchup against the Broncos. Fantasy managers should expect him to be highly involved on Monday night, although the tough matchup may hurt his ceiling from a fantasy perspective.
-  - Source: https://www.fantasypros.com/nfl/news/607011/kenneth-walker-iii-foot-off-injury-report-monday.php
-- **Xavier Worthy** — Xavier Worthy (shoulder) listed as full participant Thursday (2026-09-10T21:15:29.608000Z)
-  - To no surprise, Worthy seems to be over his shoulder injury and was able to practice in full on Thursday. He should be a full go for Week 1 but doesn't project to be a strong fantasy option in a matchup against the Broncos.
-  - Source: https://www.fantasypros.com/nfl/news/607012/xavier-worthy-shoulder-listed-full-participant-thursday.php
-- **Tucker Kraft** — Tucker Kraft Unlikely to Receive Extension Before Week 1 (2026-09-10T21:09:05Z)
-  - Source: https://www.rotoballer.com/player-news/tucker-kraft-unlikely-to-receive-extension-before-week-1/1928000
-- **Patrick Mahomes** — Patrick Mahomes II (knee) practices in full Thursday (2026-09-10T21:05:29.581000Z)
-  - Mahomes was able to take part in Kansas City's first practice of the week on Thursday and wasn't limited in any way. It seems like the team is planning on him starting on Monday night, barring any unforeseen setbacks. His presence would be great news for the fantasy value of players like Rashee Rice and Travis Kelce in a matchup against a tough Denver defense.
-  - Source: https://www.fantasypros.com/nfl/news/607002/patrick-mahomes-ii-knee-practices-full-thursday.php
-- **Patrick Mahomes** — Patrick Mahomes - Practices fully, looks ready for opener (2026-09-10T20:57:11Z)
-  - Per Charles Goldman of AtoZSports.com, head coach Andy Reid relayed prior to the Chiefs' first official practice of Week 1 that Mahomes was "geared up and ready to go" for the season opener Monday versus the Broncos. The quarterback backed up his coach's optimism by taking every rep with the first-team offense Thursday, setting the stage for him to play in his first game since his 2025 season came to an end Dec. 14, when he sustained a torn ACL and LCL in his left knee. Mahomes made tremendous strides in his rehab from surgery and was cleared for full practices prior to training camp, and though he didn't play in any preseason games, he steered clear of any setbacks with his knee. According to Matt Derrick of ChiefsDigest.com, Mahomes said that he'll continue to wear a protective brace on his knee, and while the Chiefs aren't expected to alter their game plans as a result, the 30-year-old could naturally scale back his involvement as a runner coming off major surgery.

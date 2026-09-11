@@ -1,12 +1,16 @@
 {
-  "last_checked_at": "2026-09-11T16:45:22Z",
+  "last_checked_at": "2026-09-11T16:55:13Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 286,
+  "monitored_player_count": 287,
   "new_story_ids": [
-    "nfl|5947|rotowire|636826|1789143691000",
-    "nfl|6768|rotowire|636827|1789144128000",
-    "nfl|6801|rotoballer|220631|1789130113000",
-    "nfl|7564|rotoballer|220630|1789129807000"
+    "nfl|11583|rotowire|636829|1789145116000",
+    "nfl|12514|rotoballer|220632|1789130841000",
+    "nfl|12533|rotowire|636828|1789144992000",
+    "nfl|5859|fantasy_pros|607149|1789145128511",
+    "nfl|6768|fantasy_pros|607150|1789145428428",
+    "nfl|9482|rotoballer|220160|1788623108000",
+    "nfl|9482|rotoballer|220463|1788970767000",
+    "nfl|9482|rotowire|636484|1788984520000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +20,88 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Tagovailoa remains day-to-day after exiting practice early Thursday with the injury. With Michael Penix Jr. (knee) still working back from injury also, veteran Cooper Rush is in line to start for head coach Kevin Stefanski against the Pittsburgh Steelers in Sunday's season opener.",
+      "description": "Tua Tagovailoa (oblique) was not seen practicing for the Atlanta Falcons Friday.",
+      "metadata": {
+        "analysis": "Tagovailoa remains day-to-day after exiting practice early Thursday with the injury. With Michael Penix Jr. (knee) still working back from injury also, veteran Cooper Rush is in line to start for head coach Kevin Stefanski against the Pittsburgh Steelers in Sunday's season opener.",
+        "description": "Tua Tagovailoa (oblique) was not seen practicing for the Atlanta Falcons Friday.",
+        "title": "Tua Tagovailoa (oblique) not seen practicing Friday",
+        "topic_id": "1404181336796758016",
+        "url": "https://www.fantasypros.com/nfl/news/607150/tua-tagovailoa-oblique-not-seen-practicing-friday.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1789145428428,
+      "source": "fantasy_pros",
+      "source_key": "607150",
+      "story_id": "nfl|6768|fantasy_pros|607150|1789145428428",
+      "title": "Tua Tagovailoa (oblique) not seen practicing Friday",
+      "url": "https://www.fantasypros.com/nfl/news/607150/tua-tagovailoa-oblique-not-seen-practicing-friday.php"
+    },
+    {
+      "analysis": "",
+      "description": "A.J. Brown (ankle) has been placed on injured reserve by the New England Patriots according to Adam Schefter.",
+      "metadata": {
+        "analysis": "",
+        "description": "A.J. Brown (ankle) has been placed on injured reserve by the New England Patriots according to Adam Schefter.",
+        "title": "A.J. Brown (ankle) placed on injured reserve",
+        "topic_id": "1404180078857879552",
+        "url": "https://www.fantasypros.com/nfl/news/607149/aj-brown-ankle-placed-on-injured-reserve.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1789145128511,
+      "source": "fantasy_pros",
+      "source_key": "607149",
+      "story_id": "nfl|5859|fantasy_pros|607149|1789145128511",
+      "title": "A.J. Brown (ankle) placed on injured reserve",
+      "url": "https://www.fantasypros.com/nfl/news/607149/aj-brown-ankle-placed-on-injured-reserve.php"
+    },
+    {
+      "analysis": "With Brooks cleared after practicing throughout the week, he appears on track to handle whatever role the team has in mind. Chuba Hubbard remains the favorite to start and get most of the carries, but reports throughout the offseason and preseason made it clear that the Panthers have a role in mind for Brooks as well.",
+      "description": "Brooks (groin) doesn't have an injury designation for Sunday's game against the Bears, Joseph Person reports.",
+      "metadata": {
+        "analysis": "With Brooks cleared after practicing throughout the week, he appears on track to handle whatever role the team has in mind. Chuba Hubbard remains the favorite to start and get most of the carries, but reports throughout the offseason and preseason made it clear that the Panthers have a role in mind for Brooks as well.",
+        "description": "Brooks (groin) doesn't have an injury designation for Sunday's game against the Bears, Joseph Person reports.",
+        "title": "Jonathon Brooks - Will play Sunday",
+        "topic_id": "1404181331994255360"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1789145116000,
+      "source": "rotowire",
+      "source_key": "636829",
+      "story_id": "nfl|11583|rotowire|636829|1789145116000",
+      "title": "Jonathon Brooks - Will play Sunday",
+      "url": null
+    },
+    {
+      "analysis": "Croskey-Merritt was limited in practice Wednesday and Thursday but will apparently be fine for the season opener. He's got a tough matchup on the road in Philadelphia, and he'll will be sharing snaps with Rachaad White in some fashion, regardless of health/durability considerations.",
+      "description": "Croskey-Merritt (groin) will play in Sunday's game against the Eagles, Tashan Reed reports after Commanders coach Dan Quinn's update Friday.",
+      "metadata": {
+        "analysis": "Croskey-Merritt was limited in practice Wednesday and Thursday but will apparently be fine for the season opener. He's got a tough matchup on the road in Philadelphia, and he'll will be sharing snaps with Rachaad White in some fashion, regardless of health/durability considerations.",
+        "description": "Croskey-Merritt (groin) will play in Sunday's game against the Eagles, Tashan Reed reports after Commanders coach Dan Quinn's update Friday.",
+        "title": "Jacory Croskey-Merritt - Will play Sunday",
+        "topic_id": "1404180073866629120"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1789144992000,
+      "source": "rotowire",
+      "source_key": "636828",
+      "story_id": "nfl|12533|rotowire|636828|1789144992000",
+      "title": "Jacory Croskey-Merritt - Will play Sunday",
+      "url": null
+    },
     {
       "analysis": "Tagovailoa is considered day-to-day after suffering an oblique strain during Thursday's practice. His absence Friday suggests there's serious risk the Falcons will end up starting Cooper Rush this Sunday in Pittsburgh. The team has yet to announce any kind of decision, beyond ruling out Michael Penix (knee) at the start of the week. It won't be surprising if Penix is under center by the end of the month, however.",
       "description": "Tagovailoa (oblique) wasn't on the field for the media-access portion of Friday's practice, Marc Raimondi of ESPN.com reports.",
@@ -220,6 +306,26 @@
       "story_id": "nfl|13287|fantasy_pros|607111|1789139127967",
       "title": "Jeremiyah Love (ankle) expected to play on Sunday",
       "url": "https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers head coach Todd Bowles said that wide receiver Emeka Egbuka (toe) is a full-go for Sunday's Week 1 season opener against the Cincinnati Bengals, according to Greg Auman of FOX Sports. Egbuka was considered up in the air for the season opener after spraining his toe in training camp in August, but he has been practicing in full with the team all week and is ready to go. It is worth noting that Jalen McMillan (knee) is considered doubtful, which should open up more targets for Egbuka, Chris Godwin Jr., and rookie Ted Hurst III. Egbuka had been trending down in fantasy with Week 1 approaching because of his toe injury, but now that he is fully cleared and McMillan is expected to sit out, he is trending back up as a strong WR2 in a game that is expected to feature plenty of points. Make sure that Egbuka is in your starting lineup for Week 1 this weekend against Cincy.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers head coach Todd Bowles said that wide receiver Emeka Egbuka (toe) is a full-go for Sunday's Week 1 season opener against the Cincinnati Bengals, according to Greg Auman of FOX Sports. Egbuka was considered up in the air for the season opener after spraining his toe in training camp in August, but he has been practicing in full with the team all week and is ready to go. It is worth noting that Jalen McMillan (knee) is considered doubtful, which should open up more targets for Egbuka, Chris Godwin Jr., and rookie Ted Hurst III. Egbuka had been trending down in fantasy with Week 1 approaching because of his toe injury, but now that he is fully cleared and McMillan is expected to sit out, he is trending back up as a strong WR2 in a game that is expected to feature plenty of points. Make sure that Egbuka is in your starting lineup for Week 1 this weekend against Cincy.",
+        "title": "Emeka Egbuka Cleared to Play in Week 1",
+        "topic_id": "1404181330345918470",
+        "url": "https://www.rotoballer.com/player-news/emeka-egbuka-cleared-to-play-in-week-1/1928509"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1789130841000,
+      "source": "rotoballer",
+      "source_key": "220632",
+      "story_id": "nfl|12514|rotoballer|220632|1789130841000",
+      "title": "Emeka Egbuka Cleared to Play in Week 1",
+      "url": "https://www.rotoballer.com/player-news/emeka-egbuka-cleared-to-play-in-week-1/1928509"
     },
     {
       "analysis": null,
@@ -7205,6 +7311,26 @@
       "url": null
     },
     {
+      "analysis": "Bowers missed five games in 2025 due to a PCL injury and bone bruise in his left knee, and Mayer suited up in four of those contests and logged 90-plus-percent snap shares in all of them. In those four games, Mayer put together an 18-196-1 receiving line on 24 targets, a level of production that could make him an appealing lineup option in both DFS and season-long leagues in Week 1.",
+      "description": "Mayer appears lined up to take on a pronounced role as the Raiders' top tight end in Sunday's season opener against the Dolphins after Brock Bowers underwent a meniscus trim Tuesday and is expected to be out for \"a game or two,\" Adam Schefter of ESPN reports.",
+      "metadata": {
+        "analysis": "Bowers missed five games in 2025 due to a PCL injury and bone bruise in his left knee, and Mayer suited up in four of those contests and logged 90-plus-percent snap shares in all of them. In those four games, Mayer put together an 18-196-1 receiving line on 24 targets, a level of production that could make him an appealing lineup option in both DFS and season-long leagues in Week 1.",
+        "description": "Mayer appears lined up to take on a pronounced role as the Raiders' top tight end in Sunday's season opener against the Dolphins after Brock Bowers underwent a meniscus trim Tuesday and is expected to be out for \"a game or two,\" Adam Schefter of ESPN reports.",
+        "title": "Michael Mayer - Likely to start at TE for Raiders in Week 1",
+        "topic_id": "1403506968169041920"
+      },
+      "nfl_team": "LV",
+      "player_id": "9482",
+      "player_name": "Michael Mayer",
+      "position": "TE",
+      "published": 1788984520000,
+      "source": "rotowire",
+      "source_key": "636484",
+      "story_id": "nfl|9482|rotowire|636484|1788984520000",
+      "title": "Michael Mayer - Likely to start at TE for Raiders in Week 1",
+      "url": null
+    },
+    {
       "analysis": "Bowers reportedly got 'banged up' during training camp last week, and the team made the decision to have him undergo a minor procedure to trim his meniscus. This is especially concerning considering that he missed much of last year due to a nagging knee injury, and the team already expects him to be sidelined for at least a game or two while he recovers from this one. This is an alarming situation that fantasy managers should keep close tabs on, as this injury could linger if there are any setbacks in his recovery. Michael Mayer will step in as the team's top tight end in his absence, with Tre Tucker and Jalen Nailor both also likely to see an increase in opportunities in the star tight end's absence.",
       "description": "Brock Bowers underwent a minor meniscus trim operation on Tuesday and is set to be sidelined for 'a game or two' as a result.",
       "metadata": {
@@ -8100,6 +8226,26 @@
       "story_id": "nfl|11618|rotowire|636461|1788970805000",
       "title": "Jalen McMillan - Seems to be full practice participant",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders tight end Michael Mayer's pass-catching production has been limited over the past two seasons thanks to the presence of superstar Raiders tight end Brock Bowers (knee). However, the Raiders announced on Wednesday that Bowers recently had a meniscus trim and is now expected to miss the first one or two games of 2026. As a result, Mayer should operate as the Raiders' TE1 to begin the year. Across the four games he played in 2025 when Bowers was sidelined by injury, Mayer recorded 18 catches for 196 yards and a touchdown on 24 targets. The Raiders should have a more stable offensive environment in 2026 with Kirk Cousins at quarterback and Klint Kubiak calling plays. Ahead of a relatively favorable matchup against the Miami Dolphins in Week 1, Mayer could be a worthy tight end streamer for fantasy managers to target on the waiver wire.",
+      "metadata": {
+        "description": "Las Vegas Raiders tight end Michael Mayer's pass-catching production has been limited over the past two seasons thanks to the presence of superstar Raiders tight end Brock Bowers (knee). However, the Raiders announced on Wednesday that Bowers recently had a meniscus trim and is now expected to miss the first one or two games of 2026. As a result, Mayer should operate as the Raiders' TE1 to begin the year. Across the four games he played in 2025 when Bowers was sidelined by injury, Mayer recorded 18 catches for 196 yards and a touchdown on 24 targets. The Raiders should have a more stable offensive environment in 2026 with Kirk Cousins at quarterback and Klint Kubiak calling plays. Ahead of a relatively favorable matchup against the Miami Dolphins in Week 1, Mayer could be a worthy tight end streamer for fantasy managers to target on the waiver wire.",
+        "title": "Michael Mayer a Top Tight End Streamer Following Injury to Teammate",
+        "topic_id": "1403510739947339776",
+        "url": "https://www.rotoballer.com/player-news/michael-mayer-a-top-tight-end-streamer-following-injury-to-superstar-teammate/1927053"
+      },
+      "nfl_team": "LV",
+      "player_id": "9482",
+      "player_name": "Michael Mayer",
+      "position": "TE",
+      "published": 1788970767000,
+      "source": "rotoballer",
+      "source_key": "220463",
+      "story_id": "nfl|9482|rotoballer|220463|1788970767000",
+      "title": "Michael Mayer a Top Tight End Streamer Following Injury to Teammate",
+      "url": "https://www.rotoballer.com/player-news/michael-mayer-a-top-tight-end-streamer-following-injury-to-superstar-teammate/1927053"
     },
     {
       "analysis": "Egbuka has been dealing with a nagging toe injury for several weeks, but he was seen practicing with the Buccaneers on Wednesday ahead of their season opener against the Bengals on Sunday. That's a good sign for his health heading into Week 1, but fantasy managers should keep tabs on further updates about his health in the coming days to see whether or not he will be fully healthy for the first game of the season.",
@@ -14900,6 +15046,26 @@
       "story_id": "nfl|9493|rotowire|636301|1788623548000",
       "title": "Puka Nacua - Making progress in recovery",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "While all of the buzz is on Brock Bowers in Las Vegas -- and rightfully so -- don't count out Michael Mayer as a relevant deep-league fantasy tight end for the Raiders this season quite yet. Mayer is entering the final year of his contract in 2026 and has a lot to prove. Mayer is listed as the second tight end on the Raiders' depth chart, behind Bowers. While Bowers is likely to lead the team in targets, he will also get a lot of defensive attention. Las Vegas' wide receiver corps of Tre Tucker, Jalen Nailor, and Jack Bech, among others, is largely underwhelming on paper, which should allow Mayer to have opportunities in the passing game with veteran quarterback Kirk Cousins at the helm. Despite this, Mayer is not necessarily somebody to roster just yet in standard redraft leagues. In fact, he is only rostered in 1% of Yahoo leagues right now. He is somebody to monitor on the waiver wire as he currently ranks as RotoBaller's No. 33 tight end in PPR/half-PPR leagues. If the WR room struggles early on, Mayer could carve out a role on a weekly basis.",
+      "metadata": {
+        "description": "While all of the buzz is on Brock Bowers in Las Vegas -- and rightfully so -- don't count out Michael Mayer as a relevant deep-league fantasy tight end for the Raiders this season quite yet. Mayer is entering the final year of his contract in 2026 and has a lot to prove. Mayer is listed as the second tight end on the Raiders' depth chart, behind Bowers. While Bowers is likely to lead the team in targets, he will also get a lot of defensive attention. Las Vegas' wide receiver corps of Tre Tucker, Jalen Nailor, and Jack Bech, among others, is largely underwhelming on paper, which should allow Mayer to have opportunities in the passing game with veteran quarterback Kirk Cousins at the helm. Despite this, Mayer is not necessarily somebody to roster just yet in standard redraft leagues. In fact, he is only rostered in 1% of Yahoo leagues right now. He is somebody to monitor on the waiver wire as he currently ranks as RotoBaller's No. 33 tight end in PPR/half-PPR leagues. If the WR room struggles early on, Mayer could carve out a role on a weekly basis.",
+        "title": "Michael Mayer Has Path to Fair Share of Targets with Raiders",
+        "topic_id": "1402053548446900224",
+        "url": "https://www.rotoballer.com/player-news/michael-mayer-has-a-path-to-fair-share-of-targets-with-raiders/1924142"
+      },
+      "nfl_team": "LV",
+      "player_id": "9482",
+      "player_name": "Michael Mayer",
+      "position": "TE",
+      "published": 1788623108000,
+      "source": "rotoballer",
+      "source_key": "220160",
+      "story_id": "nfl|9482|rotoballer|220160|1788623108000",
+      "title": "Michael Mayer Has Path to Fair Share of Targets with Raiders",
+      "url": "https://www.rotoballer.com/player-news/michael-mayer-has-a-path-to-fair-share-of-targets-with-raiders/1924142"
     },
     {
       "analysis": null,
