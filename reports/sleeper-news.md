@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2605**
-- Newly captured: **1**
+- Stored stories: **2604**
+- Newly captured: **0**
 
 ## Latest news
 
@@ -46,7 +46,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607039/ty-simpson-out-against-niners.php
 - **Jordan James** — Jordan James - Inactive Thursday (2026-09-10T23:34:25Z)
   - The 2025 fifth-rounder will not suit up in Week 1, leaving Christian McCaffrey and rookie third-rounder Kaelon Black as the only healthy running backs active for the 49ers on Thursday. James' role moving forward may depend on how effective Black is to start the season.
-- **NEW — Omar Cooper** — Omar Cooper Jr. Finishes Training Camp on a High Note (2026-09-10T23:00:07Z)
+- **Omar Cooper** — Omar Cooper Jr. Finishes Training Camp on a High Note (2026-09-10T23:00:07Z)
   - Source: https://www.rotoballer.com/player-news/omar-cooper-jr-finishes-training-camp-on-a-high-note/1928072
 - **Jeremiyah Love** — Jeremiyah Love - Stays limited at practice (2026-09-10T22:56:37Z)
   - Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities going from full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.

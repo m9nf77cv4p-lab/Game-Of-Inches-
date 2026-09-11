@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-11T03:18:41Z",
+  "last_checked_at": "2026-09-11T03:33:48Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [
-    "nfl|13276|rotoballer|220597|1789081207000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -52408,26 +52406,6 @@
       "story_id": "nfl|7002|rotoballer|218414|1786528929000",
       "title": "Juwan Johnson Continues to Flash Big-Play Ability",
       "url": "https://www.rotoballer.com/player-news/juwan-johnson-continues-to-flash-big-play-ability/1907492"
-    },
-    {
-      "analysis": "Corum's workout videos from the offseason went viral on social media, as he was shown doing speed and agility drills barefoot in the gym with his trainer. He made it a point to work on fast-twitch movements to add explosion in 2026. After averaging a robust 5.1 yards per carry on 145 rushing attempts last regular season, Corum is expected to remain a big factor in the Rams' backfield alongside Williams. In Los Angeles' high-powered offense, Corum is a popular RB3 fantasy pick with big upside after compiling 746 rushing yards and six touchdowns while playing second fiddle to Williams in 2025. If Williams were to go down with an injury, Corum would be an immediate plug-and-play RB1.",
-      "description": "Teammate Kyren Williams said last week that Corum looks \"a lot leaner\" and \"more explosive\" headed into his third season, Nate Atkins of The Athletic reports.",
-      "metadata": {
-        "analysis": "Corum's workout videos from the offseason went viral on social media, as he was shown doing speed and agility drills barefoot in the gym with his trainer. He made it a point to work on fast-twitch movements to add explosion in 2026. After averaging a robust 5.1 yards per carry on 145 rushing attempts last regular season, Corum is expected to remain a big factor in the Rams' backfield alongside Williams. In Los Angeles' high-powered offense, Corum is a popular RB3 fantasy pick with big upside after compiling 746 rushing yards and six touchdowns while playing second fiddle to Williams in 2025. If Williams were to go down with an injury, Corum would be an immediate plug-and-play RB1.",
-        "description": "Teammate Kyren Williams said last week that Corum looks \"a lot leaner\" and \"more explosive\" headed into his third season, Nate Atkins of The Athletic reports.",
-        "title": "Blake Corum - Looking more explosive",
-        "topic_id": "1393107192424435712"
-      },
-      "nfl_team": "LAR",
-      "player_id": "11586",
-      "player_name": "Blake Corum",
-      "position": "RB",
-      "published": 1786504949000,
-      "source": "rotowire",
-      "source_key": "633311",
-      "story_id": "nfl|11586|rotowire|633311|1786504949000",
-      "title": "Blake Corum - Looking more explosive",
-      "url": null
     }
   ]
 }
