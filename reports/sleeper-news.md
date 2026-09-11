@@ -2,14 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2635**
-- Newly captured: **4**
+- Stored stories: **2637**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — George Kittle** — George Kittle - Pair of catches in Week 1 (2026-09-11T05:18:17Z)
+- **NEW — Deebo Samuel** — Deebo Samuel - Successful 49ers return in win (2026-09-11T05:26:25Z)
+  - The versatile Samuel made a splash in his return to the 49ers following a one-year stint with the Commanders, tying for the team lead in receptions and for runner-up status in targets as well with new teammate Mike Evans. Samuel's production was boosted by the second-quarter exit of De'Zhaun Stribling due to an ankle injury, and the highlight of the former's performance came when he recorded a 15-yard touchdown reception early in the fourth quarter by mirroring Brock Purdy's movement across the field as the quarterback extended the play. Samuel's Week 1 usage implied he'll fill the same type of diverse role he previously thrived in within head coach Kyle Shanahan's offense, and the veteran receiver is likely to remain busy in a Week 2 home matchup against the Dolphins on Sunday, Sept. 20.
+- **George Kittle** — George Kittle - Pair of catches in Week 1 (2026-09-11T05:18:17Z)
   - Kittle headed into the game without an injury designation, making a remarkable recovery from January's Achilles tear to suit up in Week 1. The veteran tight end wasn't much of a factor despite the fact San Francisco lost rookie De'Zhaun Stribling in the first half to what may be a serious ankle injury. However, Kittle did help the 49ers' ground attack generate an impressive 5.8 yards per carry, and he's likely to see his participation rate progressively increase in coming weeks. Kittle's position mate Jake Tonges also suffered a potentially significant knee injury per Nick Wagoner of ESPN.com, a development that could accelerate Kittle's return to a full complement of snaps.
-- **NEW — Blake Corum** — Blake Corum - Impressive with limited touches (2026-09-11T05:10:52Z)
+- **Blake Corum** — Blake Corum - Impressive with limited touches (2026-09-11T05:10:52Z)
   - Corum's backfield mate Kyren Williams worked as the starting running back and logged his first carry on the Rams' second play from scrimmage, but Corum garnered his first touch to start Los Angeles' second drive and ripped off a nine-yard run. The third-year pro would go on to outpace Williams by 13 rushing yards on one fewer carry, although Corum's lack of a pass-game role was a disappointment. Nevertheless, it appears preseason talk about an even closer division of labor between the two backs this season could have some credibility as a Week 2 home matchup against the Giants on Monday night, Sept. 21 approaches.
 - **Kaelon Black** — Kaelon Black - Stands out in regular-season debut (2026-09-11T05:06:23Z)
   - The rookie third-round pick opened the season as Christian McCaffrey's primary backup, but he actually ended up outpacing his star backfield mate by four carries as the 49ers progressively took control in the second half. Black earned the touches with multiple productive runs that showed off his explosiveness, and his ability to help keep McCaffrey fresh throughout the game should only help lead to more opportunities for the first-year back going forward. Black garnered the No. 2 job thanks to an impressive two-game preseason where he performed similarly to Week 1, lending credence to the notion the Indiana product could maintain his fantasy relevance, particularly in deeper formats, as his first NFL season unfolds.
@@ -72,7 +74,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Stafford was not in his best form on Thursday, missing throws and looking a little rusty. It's a rough start for a team that was deemed Super Bowl-bound, but he will look to get back on track next week. 
   - Source: https://www.fantasypros.com/nfl/news/607057/matthew-stafford-quiet-loss-to-niners.php
 - **Ryan Flournoy** — Ryan Flournoy - Signs one-year extension (2026-09-11T03:31:55Z)
-  - Flournoy has been a nice find for the Cowboys after they selected him in the sixth round of the 2024 NFL Draft. The wideout tallied a career-best 40 catches for 475 yards and four touchdowns over 16 regular-season games last year and is set for a larger role as the team's No. 3 wide receiver in 2026. Flournoy is now in line to remain with Dallas through 2027, and he could be a great value if he proves to be productive with potentially increased opportunities during the upcoming campaign.
+  - Flournoy has been a nice find for the Cowboys after they selected him in the sixth round of the 2024 NFL Draft. The wideout tallied a career-best 40 catches for 475 yards and four touchdowns over 16 regular-season games last year and is set for a larger role as the team's No. 3 wide receiver in 2026. Flournoy now is in line to remain with Dallas through 2027, and he could be a great value if he proves to be productive with potentially increased opportunities during the upcoming campaign.
 - **De'Zhaun Stribling** — De'Zhaun Stribling (ankle) ruled out for rest of game Thursday  (2026-09-11T02:00:31.363000Z)
   - Stribling was quickly ruled out after being carted back to the locker room, which is not good. There should be a further update after Thursday's game or by this weekend. 
   - Source: https://www.fantasypros.com/nfl/news/607054/dezhaun-stribling-ankle-ruled-out-rest-game-thursday.php
@@ -86,13 +88,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **De'Zhaun Stribling** — De'Zhaun Stribling helped off field Thursday  (2026-09-11T01:35:31.104000Z)
   - Stribling had already been in the blue medical tent before returning to the game. He went down after running a route. There will be an update provided on his status when available. 
   - Source: https://www.fantasypros.com/nfl/news/607051/dezhaun-stribling-helped-off-field-thursday.php
+- **NEW — Puka Nacua** — Puka Nacua Delivers Modest Production Despite High Target Share (2026-09-11T01:20:05Z)
+  - Source: https://www.rotoballer.com/player-news/puka-nacua-delivers-modest-production-despite-high-target-share/1928103
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Returns to Thursday's game (2026-09-11T01:19:31Z)
   - Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deebo Samuel, George Kittle and Christian McCaffrey for opportunities.
-- **NEW — Kyren Williams** — Kyren Williams Salvages Fantasy Performance with a Touchdown in Australia (2026-09-11T01:15:07Z)
+- **Kyren Williams** — Kyren Williams Salvages Fantasy Performance with a Touchdown in Australia (2026-09-11T01:15:07Z)
   - Source: https://www.rotoballer.com/player-news/kyren-williams-salvages-fantasy-performance-with-a-touchdown-in-australia/1928101
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Questionable to return Thursday (2026-09-11T01:14:26Z)
   - Stribling took a trip to the blue medical tent on the sideline near the end of the first quarter. Prior to the injury, Stribling wasn't targeted on any of Brock Purdy's 14 pass attempts. Demarcus Robinson would be in line for more work behind Mike Evans and Deebo Samuel if Stribling is unable to return Thursday.
-- **NEW — Matthew Stafford** — Matthew Stafford Delivers a Season-Opening Letdown in Australia (2026-09-11T01:12:05Z)
+- **Matthew Stafford** — Matthew Stafford Delivers a Season-Opening Letdown in Australia (2026-09-11T01:12:05Z)
   - Source: https://www.rotoballer.com/player-news/matthew-stafford-delivers-a-season-opening-letdown-in-australia/1928099
 - **Blake Corum** — Blake Corum Finishes Week 1 as the Rams' Leading Rusher (2026-09-11T01:09:05Z)
   - Source: https://www.rotoballer.com/player-news/blake-corum-finishes-week-1-as-the-rams-leading-rusher/1928097
@@ -244,7 +248,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/sam-darnold-has-unusual-strain-timetable-remains-tbd/1927947
 - **Marvin Mims** — Marvin Mims Jr. Looks Ready for Week 1 Against Chiefs (2026-09-10T19:17:06Z)
   - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-looks-ready-for-week-1-against-chiefs/1927944
-- **Jeremiyah Love** — Jeremiyah Love Limited Again on Thursday (2026-09-10T19:09:05Z)
-  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-limited-again-on-thursday/1927942
-- **Cooper Kupp** — Cooper Kupp - Has TD nullified after nice 24-yard catch (2026-09-10T19:01:13Z)
-  - Kupp turned the tide with a spectacular one-handed grab for 24 yards in the third quarter while the Seahawks trailed 10-0. He thought he had a seven-yard touchdown three plays later, but the scoring play was nullified by an illegal shift penalty. Seattle would settle for a field goal to kickstart a 13-0 run to end the game. Kupp finished a distant second in receiving yards behind Jaxon Smith-Njigba's 122, which could be a preview of the team's pecking order in the passing game all season. Sam Darnold (hip) exited in the first quarter of Wednesday's win, and Drew Lock is likely to be Seattle's starting QB in Week 2 against the Cardinals while Darnold's on the mend.

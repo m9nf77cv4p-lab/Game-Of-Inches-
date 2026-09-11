@@ -1,12 +1,10 @@
 {
-  "last_checked_at": "2026-09-11T05:28:42Z",
+  "last_checked_at": "2026-09-11T05:42:14Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11586|rotowire|636818|1789103452000",
-    "nfl|4217|rotowire|636819|1789103897000",
-    "nfl|421|rotoballer|220605|1789089125000",
-    "nfl|8150|rotoballer|220606|1789089307000"
+    "nfl|5872|rotowire|636820|1789104385000",
+    "nfl|9493|rotoballer|220607|1789089605000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The versatile Samuel made a splash in his return to the 49ers following a one-year stint with the Commanders, tying for the team lead in receptions and for runner-up status in targets as well with new teammate Mike Evans. Samuel's production was boosted by the second-quarter exit of De'Zhaun Stribling due to an ankle injury, and the highlight of the former's performance came when he recorded a 15-yard touchdown reception early in the fourth quarter by mirroring Brock Purdy's movement across the field as the quarterback extended the play. Samuel's Week 1 usage implied he'll fill the same type of diverse role he previously thrived in within head coach Kyle Shanahan's offense, and the veteran receiver is likely to remain busy in a Week 2 home matchup against the Dolphins on Sunday, Sept. 20.",
+      "description": "Samuel brought in six of seven targets for 48 yards and a touchdown, rushed once for 12 yards and returned two kickoffs for 74 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
+      "metadata": {
+        "analysis": "The versatile Samuel made a splash in his return to the 49ers following a one-year stint with the Commanders, tying for the team lead in receptions and for runner-up status in targets as well with new teammate Mike Evans. Samuel's production was boosted by the second-quarter exit of De'Zhaun Stribling due to an ankle injury, and the highlight of the former's performance came when he recorded a 15-yard touchdown reception early in the fourth quarter by mirroring Brock Purdy's movement across the field as the quarterback extended the play. Samuel's Week 1 usage implied he'll fill the same type of diverse role he previously thrived in within head coach Kyle Shanahan's offense, and the veteran receiver is likely to remain busy in a Week 2 home matchup against the Dolphins on Sunday, Sept. 20.",
+        "description": "Samuel brought in six of seven targets for 48 yards and a touchdown, rushed once for 12 yards and returned two kickoffs for 74 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
+        "title": "Deebo Samuel - Successful 49ers return in win",
+        "topic_id": "1404010189555761152"
+      },
+      "nfl_team": "SF",
+      "player_id": "5872",
+      "player_name": "Deebo Samuel",
+      "position": "WR",
+      "published": 1789104385000,
+      "source": "rotowire",
+      "source_key": "636820",
+      "story_id": "nfl|5872|rotowire|636820|1789104385000",
+      "title": "Deebo Samuel - Successful 49ers return in win",
+      "url": null
+    },
     {
       "analysis": "Kittle headed into the game without an injury designation, making a remarkable recovery from January's Achilles tear to suit up in Week 1. The veteran tight end wasn't much of a factor despite the fact San Francisco lost rookie De'Zhaun Stribling in the first half to what may be a serious ankle injury. However, Kittle did help the 49ers' ground attack generate an impressive 5.8 yards per carry, and he's likely to see his participation rate progressively increase in coming weeks. Kittle's position mate Jake Tonges also suffered a potentially significant knee injury per Nick Wagoner of ESPN.com, a development that could accelerate Kittle's return to a full complement of snaps.",
       "description": "Kittle brought in two of five targets for 12 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
@@ -531,10 +549,10 @@
       "url": "https://www.fantasypros.com/nfl/news/607057/matthew-stafford-quiet-loss-to-niners.php"
     },
     {
-      "analysis": "Flournoy has been a nice find for the Cowboys after they selected him in the sixth round of the 2024 NFL Draft. The wideout tallied a career-best 40 catches for 475 yards and four touchdowns over 16 regular-season games last year and is set for a larger role as the team's No. 3 wide receiver in 2026. Flournoy is now in line to remain with Dallas through 2027, and he could be a great value if he proves to be productive with potentially increased opportunities during the upcoming campaign.",
+      "analysis": "Flournoy has been a nice find for the Cowboys after they selected him in the sixth round of the 2024 NFL Draft. The wideout tallied a career-best 40 catches for 475 yards and four touchdowns over 16 regular-season games last year and is set for a larger role as the team's No. 3 wide receiver in 2026. Flournoy now is in line to remain with Dallas through 2027, and he could be a great value if he proves to be productive with potentially increased opportunities during the upcoming campaign.",
       "description": "Flournoy agreed to a one-year contract extension worth up to $6 million with Dallas on Thursday, NFL reporter Jordan Schultz reports.",
       "metadata": {
-        "analysis": "Flournoy has been a nice find for the Cowboys after they selected him in the sixth round of the 2024 NFL Draft. The wideout tallied a career-best 40 catches for 475 yards and four touchdowns over 16 regular-season games last year and is set for a larger role as the team's No. 3 wide receiver in 2026. Flournoy is now in line to remain with Dallas through 2027, and he could be a great value if he proves to be productive with potentially increased opportunities during the upcoming campaign.",
+        "analysis": "Flournoy has been a nice find for the Cowboys after they selected him in the sixth round of the 2024 NFL Draft. The wideout tallied a career-best 40 catches for 475 yards and four touchdowns over 16 regular-season games last year and is set for a larger role as the team's No. 3 wide receiver in 2026. Flournoy now is in line to remain with Dallas through 2027, and he could be a great value if he proves to be productive with potentially increased opportunities during the upcoming campaign.",
         "description": "Flournoy agreed to a one-year contract extension worth up to $6 million with Dallas on Thursday, NFL reporter Jordan Schultz reports.",
         "title": "Ryan Flournoy - Signs one-year extension",
         "topic_id": "1403981217904259072"
@@ -652,6 +670,26 @@
       "story_id": "nfl|13417|fantasy_pros|607051|1789090531104",
       "title": "De'Zhaun Stribling helped off field Thursday ",
       "url": "https://www.fantasypros.com/nfl/news/607051/dezhaun-stribling-helped-off-field-thursday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Puka Nacua caught five of his nine targets for 74 receiving yards during Thursday's Week 1 loss against the San Francisco 49ers in Australia. The final output is nothing to scoff at, but it didn't quite live up to the standards that Nacua set during his elite campaign last year. He tallied 12.4 PPR points on Thursday, as opposed to his average of 23.4 PPR points per game in 2025. Along the way, Nacua finished as the overall WR1 last year, and he'll hope to defend that title in 2026. The good news for Nacua's manager is that Thursday's modest performance wasn't exactly his fault. He made some great plays, including a big 41-yard catch-and-run in the first quarter, and his fantasy output would have been higher if not for the iffy quarterback play of Matthew Stafford (and the offense's performance as a whole). We still view Nacua as a high-end WR1 for the rest of the season.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Puka Nacua caught five of his nine targets for 74 receiving yards during Thursday's Week 1 loss against the San Francisco 49ers in Australia. The final output is nothing to scoff at, but it didn't quite live up to the standards that Nacua set during his elite campaign last year. He tallied 12.4 PPR points on Thursday, as opposed to his average of 23.4 PPR points per game in 2025. Along the way, Nacua finished as the overall WR1 last year, and he'll hope to defend that title in 2026. The good news for Nacua's manager is that Thursday's modest performance wasn't exactly his fault. He made some great plays, including a big 41-yard catch-and-run in the first quarter, and his fantasy output would have been higher if not for the iffy quarterback play of Matthew Stafford (and the offense's performance as a whole). We still view Nacua as a high-end WR1 for the rest of the season.",
+        "title": "Puka Nacua Delivers Modest Production Despite High Target Share",
+        "topic_id": "1404010183952211968",
+        "url": "https://www.rotoballer.com/player-news/puka-nacua-delivers-modest-production-despite-high-target-share/1928103"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1789089605000,
+      "source": "rotoballer",
+      "source_key": "220607",
+      "story_id": "nfl|9493|rotoballer|220607|1789089605000",
+      "title": "Puka Nacua Delivers Modest Production Despite High Target Share",
+      "url": "https://www.rotoballer.com/player-news/puka-nacua-delivers-modest-production-despite-high-target-share/1928103"
     },
     {
       "analysis": "Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deebo Samuel, George Kittle and Christian McCaffrey for opportunities.",
