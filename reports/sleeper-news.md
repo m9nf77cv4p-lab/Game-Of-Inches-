@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2643**
+- Stored stories: **2644**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Tyrone Tracy** — Tyrone Tracy Jr. has Uncertain Role Heading into Week 1 (2026-09-11T09:57:06Z)
+- **NEW — Makai Lemon** — Makai Lemon an Early Fade After Quiet Camp (2026-09-11T10:19:05Z)
+  - Source: https://www.rotoballer.com/player-news/makai-lemon-an-early-fade-after-quiet-camp/1928318
+- **Tyrone Tracy** — Tyrone Tracy Jr. has Uncertain Role Heading into Week 1 (2026-09-11T09:57:06Z)
   - Source: https://www.rotoballer.com/player-news/tyrone-tracys-role-uncertain-heading-into-week-1/1928295
 - **Jordan Mason** — Aaron Jones Sr. Could Lose Snaps to Backfield Mate in 2026 (2026-09-11T09:36:52Z)
   - Source: https://www.rotoballer.com/player-news/jordan-mason-threatens-aaron-jones-fantasy-value-in-2026/1928264
@@ -243,6 +245,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Michael Penix** — Michael Penix Jr. (knee) logs full practice Thursday (2026-09-10T19:50:21.979000Z)
   - Penix is still listed on Atlanta's injury report due to a knee injury, but he again logged a full practice session on Thursday and seems to be close to full health at this point. Fantasy managers should keep tabs on all injury updates out of Atlanta, as starting QB Tua Tagovailoa (back) now seems to be dealing with an issue that could affect his availability for Sunday.
   - Source: https://www.fantasypros.com/nfl/news/606966/michael-penix-jr-knee-logs-full-practice-thursday.php
-- **Zachariah Branch** — Zachariah Branch (hamstring) limited participant Thursday (2026-09-10T19:50:21.830000Z)
-  - The rookie was once again left limited at practice. He's still recovering from a hamstring injury of some kind, and it remains unclear whether or not he will be ready to play in time for Week 1. Look for Jahan Dotson to see more work if Branch is unable to make his NFL debut on Sunday.
-  - Source: https://www.fantasypros.com/nfl/news/606965/zachariah-branch-hamstring-limited-participant-thursday.php

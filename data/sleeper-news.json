@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-11T14:15:47Z",
+  "last_checked_at": "2026-09-11T14:31:59Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11655|rotoballer|220617|1789120626000"
+    "nfl|13294|rotoballer|220618|1789121945000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles wide receiver Makai Lemon has a bright future in the NFL, but for now, he should be avoided in most redraft leagues. The Eagles spent a first-round pick on Lemon to replace A.J. Brown, and he responded by turning in a very disappointing camp/preseason and also battling a hamstring injury. As a result, he will open the season in the No. 3 spot on the depth chart, rather than the No. 2 role for which he was originally projected when the Eagles drafted him. As Lemon opens the year behind DeVonta Smith, Dontayvion Wicks, and Dallas Goedert, he faces an uphill battle to play meaningful snaps right away. This isn't uncommon for rookie receivers, especially those who deal with injuries or a slow acclimation period in their first training camp. We're still optimistic that Lemon will be an every-week fantasy contributor in the future, but for now, he can be left on waivers in all redraft leagues with 12 or fewer teams.",
+      "metadata": {
+        "description": "Philadelphia Eagles wide receiver Makai Lemon has a bright future in the NFL, but for now, he should be avoided in most redraft leagues. The Eagles spent a first-round pick on Lemon to replace A.J. Brown, and he responded by turning in a very disappointing camp/preseason and also battling a hamstring injury. As a result, he will open the season in the No. 3 spot on the depth chart, rather than the No. 2 role for which he was originally projected when the Eagles drafted him. As Lemon opens the year behind DeVonta Smith, Dontayvion Wicks, and Dallas Goedert, he faces an uphill battle to play meaningful snaps right away. This isn't uncommon for rookie receivers, especially those who deal with injuries or a slow acclimation period in their first training camp. We're still optimistic that Lemon will be an every-week fantasy contributor in the future, but for now, he can be left on waivers in all redraft leagues with 12 or fewer teams.",
+        "title": "Makai Lemon an Early Fade After Quiet Camp",
+        "topic_id": "1404144836365332480",
+        "url": "https://www.rotoballer.com/player-news/makai-lemon-an-early-fade-after-quiet-camp/1928318"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13294",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "published": 1789121945000,
+      "source": "rotoballer",
+      "source_key": "220618",
+      "story_id": "nfl|13294|rotoballer|220618|1789121945000",
+      "title": "Makai Lemon an Early Fade After Quiet Camp",
+      "url": "https://www.rotoballer.com/player-news/makai-lemon-an-early-fade-after-quiet-camp/1928318"
+    },
     {
       "analysis": null,
       "description": "New York Giants running back Tyrone Tracy Jr. is expected to split the backup role with Devin Singletary and Najee Harris. After the third-year back fumbled and missed a pass-protection rep that left his starting quarterback, Jaxson Dart, leveled, Tracy appears to have lost ground in the backfield. The Giants' depth chart listed second-year Cam Skattebo as the RB1, with Tracy, Singletary, and Harris all listed as RB2s. In 15 games last season, Tracy had 176 carries for 740 yards and two touchdowns, and added 36 receptions for 288 yards and two touchdowns. With a new coaching staff in place, Tracy's role appears uncertain for Week 1, and fantasy managers should have low expectations for his outlook against the Dallas Cowboys.",
