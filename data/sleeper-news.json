@@ -1,57 +1,23 @@
 {
-  "last_checked_at": "2026-09-11T21:15:41Z",
+  "last_checked_at": "2026-09-11T23:19:45Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 287,
   "new_story_ids": [
-    "nfl|11604|rotoballer|220658|1789140699000",
-    "nfl|11604|rotowire|636847|1789154269000",
-    "nfl|11620|fantasy_pros|607184|1789153814756",
-    "nfl|11620|rotowire|636846|1789153870000",
-    "nfl|11632|fantasy_pros|607207|1789157715496",
-    "nfl|11632|rotoballer|220665|1789144040000",
-    "nfl|11632|rotowire|636853|1789157991000",
-    "nfl|11792|rotoballer|220670|1789145603000",
-    "nfl|12514|rotowire|636842|1789152251000",
-    "nfl|12527|fantasy_pros|607223|1789158315041",
-    "nfl|12527|rotoballer|220669|1789145300000",
-    "nfl|12533|rotowire|636851|1789157354000",
-    "nfl|13269|rotoballer|220662|1789142045000",
-    "nfl|13287|fantasy_pros|607224|1789158615308",
-    "nfl|13287|rotowire|636855|1789158785000",
-    "nfl|13298|rotoballer|220645|1789137267000",
-    "nfl|13320|rotowire|636841|1789151629000",
-    "nfl|13330|fantasy_pros|607199|1789157415109",
-    "nfl|13330|rotoballer|220667|1789143727000",
-    "nfl|13349|fantasy_pros|607205|1789157415037",
-    "nfl|3198|rotoballer|220659|1789140427000",
-    "nfl|4035|rotoballer|220644|1789136827000",
-    "nfl|4881|rotoballer|220657|1789140732000",
-    "nfl|4892|rotoballer|220673|1789146244000",
-    "nfl|5844|rotoballer|220671|1789146006000",
-    "nfl|5947|fantasy_pros|607219|1789158315092",
-    "nfl|5947|rotowire|636854|1789158146000",
-    "nfl|6770|rotoballer|220647|1789138987000",
-    "nfl|6790|fantasy_pros|607194|1789156214780",
-    "nfl|6790|rotoballer|220661|1789141626000",
-    "nfl|6790|rotowire|636849|1789155907000",
-    "nfl|6801|rotoballer|220649|1789139227000",
-    "nfl|6801|rotowire|636845|1789153657000",
-    "nfl|7564|rotoballer|220650|1789139135000",
-    "nfl|7564|rotowire|636844|1789153463000",
-    "nfl|8142|fantasy_pros|607186|1789153814731",
-    "nfl|8142|fantasy_pros|607227|1789158615257",
-    "nfl|8142|rotowire|636852|1789157518000",
-    "nfl|8155|fantasy_pros|607198|1789156815152",
-    "nfl|8155|rotoballer|220664|1789143306000",
-    "nfl|8800|fantasy_pros|607203|1789157415073",
-    "nfl|8800|rotowire|636850|1789156762000",
-    "nfl|8800|rotowire|636858|1789160086000",
-    "nfl|9224|rotoballer|220654|1789139405000",
-    "nfl|9229|fantasy_pros|607231|1789158915100",
-    "nfl|9511|fantasy_pros|607214|1789157715407",
-    "nfl|9511|rotoballer|220668|1789144626000",
-    "nfl|9997|fantasy_pros|607213|1789157715424",
-    "nfl|9997|rotoballer|220674|1789146545000"
+    "nfl|11584|rotoballer|220675|1789146725000",
+    "nfl|13349|rotoballer|220687|1789151106000",
+    "nfl|13349|rotowire|636860|1789161312000",
+    "nfl|4037|rotoballer|220677|1789147637000",
+    "nfl|4199|rotoballer|220689|1789151488000",
+    "nfl|5849|rotoballer|220690|1789151993000",
+    "nfl|5947|rotoballer|220678|1789147445000",
+    "nfl|6650|rotoballer|220682|1789149006000",
+    "nfl|6794|rotoballer|220688|1789151045000",
+    "nfl|7049|rotoballer|220683|1789150145000",
+    "nfl|7567|rotoballer|220676|1789147145000",
+    "nfl|8111|rotoballer|220681|1789148530000",
+    "nfl|8408|rotoballer|220686|1789151226000",
+    "nfl|9511|rotowire|636862|1789163693000",
+    "nfl|9756|rotoballer|220684|1789150578000"
   ],
   "schema_version": 1,
   "source": {
@@ -61,6 +27,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "After logging limited practices Wednesday and Thursday, Mitchell got a full session in Friday and thus appears ready to go for Week 1. Mitchell is an intriguing option in an offense ran by Mike McDaniel, but his injury slowed him for much of the past three weeks, so it's unclear exactly how he will slot in behind starter Omarion Hampton and fellow reserve Kimani Vidal.",
+      "description": "Mitchell (hamstring) was a full participant in Friday's practice and does not have an injury designation for Sunday's game against the Cardinals.",
+      "metadata": {
+        "analysis": "After logging limited practices Wednesday and Thursday, Mitchell got a full session in Friday and thus appears ready to go for Week 1. Mitchell is an intriguing option in an offense ran by Mike McDaniel, but his injury slowed him for much of the past three weeks, so it's unclear exactly how he will slot in behind starter Omarion Hampton and fellow reserve Kimani Vidal.",
+        "description": "Mitchell (hamstring) was a full participant in Friday's practice and does not have an injury designation for Sunday's game against the Cardinals.",
+        "title": "Keaton Mitchell - Cleared from injury report",
+        "topic_id": "1404258034082918400"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1789163693000,
+      "source": "rotowire",
+      "source_key": "636862",
+      "story_id": "nfl|9511|rotowire|636862|1789163693000",
+      "title": "Keaton Mitchell - Cleared from injury report",
+      "url": null
+    },
+    {
+      "analysis": "Stowers is about two-and-a-half weeks removed from picking up a hamstring injury, but his ability to log three straight limited sessions this week has put him in position to make his pro debut Sunday. Ultimately, his status will become known, one way or another, about 90 minutes before a 4:25 p.m. ET kickoff.",
+      "description": "Stowers (hamstring) is listed as questionable for Sunday's game versus the Commanders.",
+      "metadata": {
+        "analysis": "Stowers is about two-and-a-half weeks removed from picking up a hamstring injury, but his ability to log three straight limited sessions this week has put him in position to make his pro debut Sunday. Ultimately, his status will become known, one way or another, about 90 minutes before a 4:25 p.m. ET kickoff.",
+        "description": "Stowers (hamstring) is listed as questionable for Sunday's game versus the Commanders.",
+        "title": "Eli Stowers - Status in question for Week 1",
+        "topic_id": "1404249224966569984"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13349",
+      "player_name": "Eli Stowers",
+      "position": "TE",
+      "published": 1789161312000,
+      "source": "rotowire",
+      "source_key": "636860",
+      "story_id": "nfl|13349|rotowire|636860|1789161312000",
+      "title": "Eli Stowers - Status in question for Week 1",
+      "url": null
+    },
     {
       "analysis": "Davis required a cart to leave the practice field Friday, was diagnosed with a hip injury and then promptly ruled out on the Cowboys' final Week 1 practice report. As long as Davis is out, Emari Demercado, Hunter Luepke and practice-squad member Israel Abanikanda will the options to fill out the backfield behind No. 1 RB Javonte Williams.",
       "description": "Cowboys COO Stephen Jones said on 105.3 The Fan Dallas that Davis (hip) suffered a \"pretty serious injury\" at Friday's practice that \"could take him out for some period of time.\"",
@@ -637,6 +643,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Playing in his Minnesota Vikings debut, quarterback Kyler Murray should be considered a high-end Superflex option in Week 1 against the Green Bay Packers. Always a rushing threat, the veteran QB is perhaps the biggest fantasy wild card of the season. Murray has been a top-10 fantasy quarterback four times before, but he missed 21 games across the past three seasons, and his ADP plummeted after he posted career lows in just five games with the Arizona Cardinals in 2025. Yet, at age 29, the former Oklahoma star figures to be in his prime and in the most favorable situation of his career at the same time. Murray is playing alongside a strong supporting cast, including All-Pro receiver Justin Jefferson and quarterback-friendly head coach Kevin O'Connell, and the Vikings are making a one-year bet that the former No. 1 overall pick can revitalize his career in the same ecosystem that revived Sam Darnold. For now, Murray is a high-ceiling option in Superflex leagues, but his value could improve considerably if he jumpstarts the Minnesota offense. He's RotoBaller's No. 15 quarterback in Week 1.",
+      "metadata": {
+        "description": "Playing in his Minnesota Vikings debut, quarterback Kyler Murray should be considered a high-end Superflex option in Week 1 against the Green Bay Packers. Always a rushing threat, the veteran QB is perhaps the biggest fantasy wild card of the season. Murray has been a top-10 fantasy quarterback four times before, but he missed 21 games across the past three seasons, and his ADP plummeted after he posted career lows in just five games with the Arizona Cardinals in 2025. Yet, at age 29, the former Oklahoma star figures to be in his prime and in the most favorable situation of his career at the same time. Murray is playing alongside a strong supporting cast, including All-Pro receiver Justin Jefferson and quarterback-friendly head coach Kevin O'Connell, and the Vikings are making a one-year bet that the former No. 1 overall pick can revitalize his career in the same ecosystem that revived Sam Darnold. For now, Murray is a high-ceiling option in Superflex leagues, but his value could improve considerably if he jumpstarts the Minnesota offense. He's RotoBaller's No. 15 quarterback in Week 1.",
+        "title": "Kyler Murray Begins Revival Bid In Week 1",
+        "topic_id": "1404270615849893888",
+        "url": "https://www.rotoballer.com/player-news/kyler-murray-begins-revival-bid-in-week-1/1928921"
+      },
+      "nfl_team": "MIN",
+      "player_id": "5849",
+      "player_name": "Kyler Murray",
+      "position": "QB",
+      "published": 1789151993000,
+      "source": "rotoballer",
+      "source_key": "220690",
+      "story_id": "nfl|5849|rotoballer|220690|1789151993000",
+      "title": "Kyler Murray Begins Revival Bid In Week 1",
+      "url": "https://www.rotoballer.com/player-news/kyler-murray-begins-revival-bid-in-week-1/1928921"
+    },
+    {
       "analysis": "Branch opened Week 1 prep with back-to-back limited sessions due to a hamstring injury, but a full session Friday has him in the clear to make his pro debut this weekend. It's unclear what kind of role can be expected of the rookie third-round pick on offense as he jostles for snaps behind position mates Drake London, Jahan Dotson and Olamide Zaccheaus, but Branch at least should get on the field as a punt returner.",
       "description": "Branch (hamstring) doesn't have a designation for Sunday's contest at Pittsburgh, Tori McElhaney of the Falcons' official site reports.",
       "metadata": {
@@ -655,6 +681,46 @@
       "story_id": "nfl|13320|rotowire|636841|1789151629000",
       "title": "Zachariah Branch - In clear for Sunday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Managers should view Minnesota Vikings running back Aaron Jones Sr. as an RB4 when his team plays Green Bay in Week 1. The veteran occupies a defined role as the team's preferred pass-catching option out of the backfield, which should give him some appeal in PPR leagues, but managers will have to wait to see how Minnesota splits carries this season. Backfield mate Jordan Mason certainly will take away touches, particularly valuable goal-line carries that often lead to touchdowns. Jones, however, could stealthily be one of the biggest beneficiaries of Minnesota's switch to quarterback Kyler Murray. Arizona Cardinals running back James Conner drew 3.4 targets per game playing a full season with Murray in 2024, and the Vikings' obvious strengths at wide receiver should give Jones regularly favorable matchups. Against the solid Green Bay defense, however, Jones' output likely will depend on how he fares as a receiver. He's RotoBaller's No. 39 running back to open the season.",
+      "metadata": {
+        "description": "Managers should view Minnesota Vikings running back Aaron Jones Sr. as an RB4 when his team plays Green Bay in Week 1. The veteran occupies a defined role as the team's preferred pass-catching option out of the backfield, which should give him some appeal in PPR leagues, but managers will have to wait to see how Minnesota splits carries this season. Backfield mate Jordan Mason certainly will take away touches, particularly valuable goal-line carries that often lead to touchdowns. Jones, however, could stealthily be one of the biggest beneficiaries of Minnesota's switch to quarterback Kyler Murray. Arizona Cardinals running back James Conner drew 3.4 targets per game playing a full season with Murray in 2024, and the Vikings' obvious strengths at wide receiver should give Jones regularly favorable matchups. Against the solid Green Bay defense, however, Jones' output likely will depend on how he fares as a receiver. He's RotoBaller's No. 39 running back to open the season.",
+        "title": "Split Backfield Limits Week 1 Potential For Aaron Jones Sr.",
+        "topic_id": "1404269357743230976",
+        "url": "https://www.rotoballer.com/player-news/split-backfield-limits-week-1-potential-for-aaron-jones-sr/1928911"
+      },
+      "nfl_team": "MIN",
+      "player_id": "4199",
+      "player_name": "Aaron Jones",
+      "position": "RB",
+      "published": 1789151488000,
+      "source": "rotoballer",
+      "source_key": "220689",
+      "story_id": "nfl|4199|rotoballer|220689|1789151488000",
+      "title": "Split Backfield Limits Week 1 Potential For Aaron Jones Sr.",
+      "url": "https://www.rotoballer.com/player-news/split-backfield-limits-week-1-potential-for-aaron-jones-sr/1928911"
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings running back Jordan Mason is a possible flex option as his team begins the season by playing host to the rival Green Bay Packers. The Georgia Tech product quietly averaged 4.8 yards per carry and finished as half-PPR RB35 last season, which was impressive considering Minnesota's offense spent most of the year in the doldrums due to poor quarterback play and significant injuries on the offensive line. Mason drew rave reviews during the summer, and he could be his team's No. 1 rushing option for the first time in his career. His value will be at least partially limited by his lack of receiving ability, especially with backfield mate Aaron Jones Sr. still on the roster for that exact purpose. But with the Vikings hiring former Miami offensive coordinator Frank Smith to revamp their running game and bringing in Kyler Murray as a quarterback upgrade, Mason has 1,000-yard potential if given good health. As the favorite to also earn goal-line work, he's RotoBaller's No. 33 running back going into Week 1.",
+      "metadata": {
+        "description": "Minnesota Vikings running back Jordan Mason is a possible flex option as his team begins the season by playing host to the rival Green Bay Packers. The Georgia Tech product quietly averaged 4.8 yards per carry and finished as half-PPR RB35 last season, which was impressive considering Minnesota's offense spent most of the year in the doldrums due to poor quarterback play and significant injuries on the offensive line. Mason drew rave reviews during the summer, and he could be his team's No. 1 rushing option for the first time in his career. His value will be at least partially limited by his lack of receiving ability, especially with backfield mate Aaron Jones Sr. still on the roster for that exact purpose. But with the Vikings hiring former Miami offensive coordinator Frank Smith to revamp their running game and bringing in Kyler Murray as a quarterback upgrade, Mason has 1,000-yard potential if given good health. As the favorite to also earn goal-line work, he's RotoBaller's No. 33 running back going into Week 1.",
+        "title": "Jordan Mason In Flex Consideration For Week 1",
+        "topic_id": "1404268099049398272",
+        "url": "https://www.rotoballer.com/player-news/jordan-mason-in-flex-consideration-for-week-1/1928906"
+      },
+      "nfl_team": "MIN",
+      "player_id": "8408",
+      "player_name": "Jordan Mason",
+      "position": "RB",
+      "published": 1789151226000,
+      "source": "rotoballer",
+      "source_key": "220686",
+      "story_id": "nfl|8408|rotoballer|220686|1789151226000",
+      "title": "Jordan Mason In Flex Consideration For Week 1",
+      "url": "https://www.rotoballer.com/player-news/jordan-mason-in-flex-consideration-for-week-1/1928906"
     },
     {
       "analysis": "Kamara suffered an MCL sprain during a joint practice with the Cowboys on Aug. 18 that initially was slated to sideline him for at least one month. While Kamara was able to practice in a limited capacity during Week 1 prep, his status for Sunday seemingly will come down to a game-time decision. If Kamara is inhibited or sidelined this weekend, Kendre Miller would be the Saints running back to receive complementary work behind starter Travis Etienne.",
@@ -719,6 +785,66 @@
       "url": "https://www.fantasypros.com/nfl/news/607179/alvin-kamara-knee-officially-questionable-sunday.php"
     },
     {
+      "analysis": null,
+      "description": "Philadelphia Eagles rookie second-round tight end Eli Stowers (hamstring) is listed as questionable to play in the Week 1 season opener on Sunday versus the division-rival Washington Commanders due to a hamstring injury, per the team. Stowers is up in the air for his NFL regular-season debut, but the fact that he was limited in all three practices this week should have him on the right side of questionable for Sunday's clash. Even if the former Vanderbilt tight end is active this weekend to take on Washington, fantasy managers should have him riding the bench in deeper leagues as the backup to Dallas Goedert to open his first NFL season. Right now, Stowers is rostered in only 1% of Yahoo leagues, and he will not become attractive on the waiver wire unless Goedert misses time with an injury in 2026.",
+      "metadata": {
+        "description": "Philadelphia Eagles rookie second-round tight end Eli Stowers (hamstring) is listed as questionable to play in the Week 1 season opener on Sunday versus the division-rival Washington Commanders due to a hamstring injury, per the team. Stowers is up in the air for his NFL regular-season debut, but the fact that he was limited in all three practices this week should have him on the right side of questionable for Sunday's clash. Even if the former Vanderbilt tight end is active this weekend to take on Washington, fantasy managers should have him riding the bench in deeper leagues as the backup to Dallas Goedert to open his first NFL season. Right now, Stowers is rostered in only 1% of Yahoo leagues, and he will not become attractive on the waiver wire unless Goedert misses time with an injury in 2026.",
+        "title": "Eli Stowers Questionable to Make his NFL Debut in Week 1",
+        "topic_id": "1404268099057786880",
+        "url": "https://www.rotoballer.com/player-news/eli-stowers-questionable-to-make-his-nfl-debut-in-week-1/1928903"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13349",
+      "player_name": "Eli Stowers",
+      "position": "TE",
+      "published": 1789151106000,
+      "source": "rotoballer",
+      "source_key": "220687",
+      "story_id": "nfl|13349|rotoballer|220687|1789151106000",
+      "title": "Eli Stowers Questionable to Make his NFL Debut in Week 1",
+      "url": "https://www.rotoballer.com/player-news/eli-stowers-questionable-to-make-his-nfl-debut-in-week-1/1928903"
+    },
+    {
+      "analysis": null,
+      "description": "Wide receiver Justin Jefferson of the Minnesota Vikings is a clear WR1, as usual, when his team takes on the Green Bay Packers in Week 1 of the NFL season. The former All-Pro's 2025 season was a major letdown, albeit one that still included 1,000 yards receiving despite the Vikings bungling their quarterback room. Jefferson's fantasy value slipped as a result -- many managers saw him drop to the end of the first round or even into the second -- but he's in the prime of his career and playing on a revamped offense that now includes Kyler Murray at quarterback. Coming off a career-low two touchdowns, the former LSU standout looks primed for a bounceback season. His past four meetings against Green Bay have averaged 6.5 catches and 82 yards, presenting a decent matchup to start 2026 on the right foot. Jefferson is RotoBaller's No. 9 wide receiver in Week 1, making him a must-start in all formats.",
+      "metadata": {
+        "description": "Wide receiver Justin Jefferson of the Minnesota Vikings is a clear WR1, as usual, when his team takes on the Green Bay Packers in Week 1 of the NFL season. The former All-Pro's 2025 season was a major letdown, albeit one that still included 1,000 yards receiving despite the Vikings bungling their quarterback room. Jefferson's fantasy value slipped as a result -- many managers saw him drop to the end of the first round or even into the second -- but he's in the prime of his career and playing on a revamped offense that now includes Kyler Murray at quarterback. Coming off a career-low two touchdowns, the former LSU standout looks primed for a bounceback season. His past four meetings against Green Bay have averaged 6.5 catches and 82 yards, presenting a decent matchup to start 2026 on the right foot. Jefferson is RotoBaller's No. 9 wide receiver in Week 1, making him a must-start in all formats.",
+        "title": "Justin Jefferson Back To Previous Production In Week 1?",
+        "topic_id": "1404268099116507136",
+        "url": "https://www.rotoballer.com/player-news/justin-jefferson-back-to-previous-production-in-week-1/1928901"
+      },
+      "nfl_team": "MIN",
+      "player_id": "6794",
+      "player_name": "Justin Jefferson",
+      "position": "WR",
+      "published": 1789151045000,
+      "source": "rotoballer",
+      "source_key": "220688",
+      "story_id": "nfl|6794|rotoballer|220688|1789151045000",
+      "title": "Justin Jefferson Back To Previous Production In Week 1?",
+      "url": "https://www.rotoballer.com/player-news/justin-jefferson-back-to-previous-production-in-week-1/1928901"
+    },
+    {
+      "analysis": null,
+      "description": "Wide receiver Jordan Addison should be considered a possible flex option in deeper formats for the Minnesota Vikings' season opener against Green Bay. The fourth-year receiver is coming off career lows in catches, yards, and touchdowns in 2025, but his low output was largely the byproduct of a season during which Minnesota started nine different offensive linemen and three quarterbacks, one of whom was an undrafted rookie. With Minnesota once again healthy up front and Kyler Murray now entrenched as the starter, Addison's fantasy output could soon look like it did earlier in his career. Addison's excellent 14.5 yards per catch mark last season still showed home run potential, so an increase in volume could bring him back to 2024, when he was the No. 20 PPR wide receiver. Addison is a classic high-risk flex play, but he has a decent matchup to begin the season. He's ranked as RotoBaller's No. 40 wide receiver in Week 1.",
+      "metadata": {
+        "description": "Wide receiver Jordan Addison should be considered a possible flex option in deeper formats for the Minnesota Vikings' season opener against Green Bay. The fourth-year receiver is coming off career lows in catches, yards, and touchdowns in 2025, but his low output was largely the byproduct of a season during which Minnesota started nine different offensive linemen and three quarterbacks, one of whom was an undrafted rookie. With Minnesota once again healthy up front and Kyler Murray now entrenched as the starter, Addison's fantasy output could soon look like it did earlier in his career. Addison's excellent 14.5 yards per catch mark last season still showed home run potential, so an increase in volume could bring him back to 2024, when he was the No. 20 PPR wide receiver. Addison is a classic high-risk flex play, but he has a decent matchup to begin the season. He's ranked as RotoBaller's No. 40 wide receiver in Week 1.",
+        "title": "Jordan Addison A Possible Flex Play Against Packers",
+        "topic_id": "1404264323852849152",
+        "url": "https://www.rotoballer.com/player-news/jordan-addison-a-possible-flex-play-against-packers/1928895"
+      },
+      "nfl_team": "MIN",
+      "player_id": "9756",
+      "player_name": "Jordan Addison",
+      "position": "WR",
+      "published": 1789150578000,
+      "source": "rotoballer",
+      "source_key": "220684",
+      "story_id": "nfl|9756|rotoballer|220684|1789150578000",
+      "title": "Jordan Addison A Possible Flex Play Against Packers",
+      "url": "https://www.rotoballer.com/player-news/jordan-addison-a-possible-flex-play-against-packers/1928895"
+    },
+    {
       "analysis": "All reports this week have suggested Love is expected to play on Sunday. Barring any late setback, he should be good to go. It is unclear if he'll be limited in any fashion. ",
       "description": "Cardinals head coach Mike LaFleur said it was fair to say Jeremiyah Love will be gameday decision on Sunday. ",
       "metadata": {
@@ -738,6 +864,26 @@
       "story_id": "nfl|13287|fantasy_pros|607171|1789150229275",
       "title": "Jeremiyah Love (ankle) expected to be gameday decision Sunday ",
       "url": "https://www.fantasypros.com/nfl/news/607171/jeremiyah-love-ankle-expected-to-be-gameday-decision-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Wide receiver Jauan Jennings' unknown volume should keep him in the background in most formats when he makes his Minnesota Vikings debut against the Green Bay Packers in Week 1. The veteran's fit with the Vikings is an interesting one. Jennings is coming off back-to-back solid fantasy years in which he was PPR WR24 and WR33, respectively, despite playing in the run-heavy system of the San Francisco 49ers. He's now in a Minnesota offense that has been very friendly to receivers, although he'll be sharing targets with All-Pro Justin Jefferson and another capable receiver in Jordan Addison. At the same time, the 6-foot-3 Jennings is an excellent complement to both Jefferson and Addison, and he gives Minnesota a dangerous third option, another red-zone weapon, and a dynamic run blocker. From a fantasy perspective, however, Jennings' secondary pass-catching role will be hard to rely upon from week to week. He starts the season as RotoBaller's WR68.",
+      "metadata": {
+        "description": "Wide receiver Jauan Jennings' unknown volume should keep him in the background in most formats when he makes his Minnesota Vikings debut against the Green Bay Packers in Week 1. The veteran's fit with the Vikings is an interesting one. Jennings is coming off back-to-back solid fantasy years in which he was PPR WR24 and WR33, respectively, despite playing in the run-heavy system of the San Francisco 49ers. He's now in a Minnesota offense that has been very friendly to receivers, although he'll be sharing targets with All-Pro Justin Jefferson and another capable receiver in Jordan Addison. At the same time, the 6-foot-3 Jennings is an excellent complement to both Jefferson and Addison, and he gives Minnesota a dangerous third option, another red-zone weapon, and a dynamic run blocker. From a fantasy perspective, however, Jennings' secondary pass-catching role will be hard to rely upon from week to week. He starts the season as RotoBaller's WR68.",
+        "title": "New Role Makes Jauan Jennings Difficult To Start In Week 1",
+        "topic_id": "1404263065104498688",
+        "url": "https://www.rotoballer.com/player-news/new-role-makes-jauan-jennings-difficult-to-start-in-week-1/1928888"
+      },
+      "nfl_team": "MIN",
+      "player_id": "7049",
+      "player_name": "Jauan Jennings",
+      "position": "WR",
+      "published": 1789150145000,
+      "source": "rotoballer",
+      "source_key": "220683",
+      "story_id": "nfl|7049|rotoballer|220683|1789150145000",
+      "title": "New Role Makes Jauan Jennings Difficult To Start In Week 1",
+      "url": "https://www.rotoballer.com/player-news/new-role-makes-jauan-jennings-difficult-to-start-in-week-1/1928888"
     },
     {
       "analysis": "Stowers has been battling a hamstring injury. He'll remain off the fantasy radar to begin the season behind Dallas Goedert. ",
@@ -801,6 +947,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers kicker Chase McLaughlin is attempting to kick his way into an extension this season. The 30-year-old is entering a contract year after spending each of the last three seasons in Tampa Bay. The past two seasons, McLaughlin has finished as a top-10 player at his position. Last year, McLaughlin struggled a bit more than in past seasons, connecting on 32-of-38 field goal attempts. He only missed one extra point attempt in 2025. McLaughlin has been a mostly reliable kicker, and the Bucs have a favorable matchup against the Cincinnati Bengals defense in Week 1. The expectation is that this will be a high-scoring game, which should result in plenty of work for McLaughlin. Fantasy managers who are seeking a streaming option for Week 1 should consider adding McLaughlin.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers kicker Chase McLaughlin is attempting to kick his way into an extension this season. The 30-year-old is entering a contract year after spending each of the last three seasons in Tampa Bay. The past two seasons, McLaughlin has finished as a top-10 player at his position. Last year, McLaughlin struggled a bit more than in past seasons, connecting on 32-of-38 field goal attempts. He only missed one extra point attempt in 2025. McLaughlin has been a mostly reliable kicker, and the Bucs have a favorable matchup against the Cincinnati Bengals defense in Week 1. The expectation is that this will be a high-scoring game, which should result in plenty of work for McLaughlin. Fantasy managers who are seeking a streaming option for Week 1 should consider adding McLaughlin.",
+        "title": "Chase McLaughlin Offers Strong Streaming Value in Week 1",
+        "topic_id": "1404258031587303424",
+        "url": "https://www.rotoballer.com/player-news/chase-mclaughlin-offers-strong-streaming-value-in-week-1/1928874"
+      },
+      "nfl_team": "TB",
+      "player_id": "6650",
+      "player_name": "Chase McLaughlin",
+      "position": "K",
+      "published": 1789149006000,
+      "source": "rotoballer",
+      "source_key": "220682",
+      "story_id": "nfl|6650|rotoballer|220682|1789149006000",
+      "title": "Chase McLaughlin Offers Strong Streaming Value in Week 1",
+      "url": "https://www.rotoballer.com/player-news/chase-mclaughlin-offers-strong-streaming-value-in-week-1/1928874"
+    },
+    {
       "analysis": "Tagovailoa suffered an oblique strain during Thursday's practice and now will join Michael Penix (knee) on the sideline this weekend. Rush handled the first-team reps in the final two sessions of Week 1 prep and thus will be under center Sunday, with Jack Strand backup him up. Because coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa is \"week-to-week,\" Rush could be in consideration for multiple starts to kick off the 2026 campaign.",
       "description": "Rush will start Sunday's game at Pittsburgh after Tua Tagovailoa (oblique) was ruled out for Week 1 action, NFL reporter Jordan Schultz reports.",
       "metadata": {
@@ -819,6 +985,26 @@
       "story_id": "nfl|4574|rotowire|636836|1789148641000",
       "title": "Cooper Rush - Will start Sunday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers tight end Cade Otton might be a sneaky option for fantasy managers this weekend. Otton heads into a favorable road matchup against the Cincinnati Bengals, who were one of the worst defenses this past season. Otton might be asked to do more offensively than fantasy managers might think. The Bucs lost top wide receiver Mike Evans in free agency, and fellow wideout Jalen McMillan (knee) is doubtful for the season opener. Otton is entering his fifth season in Tampa Bay and has built good chemistry with quarterback Baker Mayfield. The 27-year-old has seen 80 or more targets over each of the last two seasons. Given the injuries and the matchup, Otton should offer high-end TE2 value for Week 1.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers tight end Cade Otton might be a sneaky option for fantasy managers this weekend. Otton heads into a favorable road matchup against the Cincinnati Bengals, who were one of the worst defenses this past season. Otton might be asked to do more offensively than fantasy managers might think. The Bucs lost top wide receiver Mike Evans in free agency, and fellow wideout Jalen McMillan (knee) is doubtful for the season opener. Otton is entering his fifth season in Tampa Bay and has built good chemistry with quarterback Baker Mayfield. The 27-year-old has seen 80 or more targets over each of the last two seasons. Given the injuries and the matchup, Otton should offer high-end TE2 value for Week 1.",
+        "title": "Cade Otton Has High-End TE2 Potential for Week 1",
+        "topic_id": "1404256773505912832",
+        "url": "https://www.rotoballer.com/player-news/cade-otton-has-high-end-te2-potential-for-week-1/1928864"
+      },
+      "nfl_team": "TB",
+      "player_id": "8111",
+      "player_name": "Cade Otton",
+      "position": "TE",
+      "published": 1789148530000,
+      "source": "rotoballer",
+      "source_key": "220681",
+      "story_id": "nfl|8111|rotoballer|220681|1789148530000",
+      "title": "Cade Otton Has High-End TE2 Potential for Week 1",
+      "url": "https://www.rotoballer.com/player-news/cade-otton-has-high-end-te2-potential-for-week-1/1928864"
     },
     {
       "analysis": "Tagovailoa opened the week getting the call as Atlanta's Week 1 starting quarterback but ended it sidelined due to an oblique injury that he sustained during Thursday's practice. Coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa is \"week-to-week, which would seem to suggest multiple DNPs are on the horizon for the QB. Iny any case, Tagovailoa will join Michael Penix (knee) in street clothes Sunday, while Cooper Rush gets the nod under center and Marc Raimondi of ESPN.com serves as his backup.",
@@ -966,6 +1152,46 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers wide receiver Chris Godwin Jr. is hopeful to play his first full season since 2023. The injuries have held Godwin back the past few years, but the 30-year-old is hopeful to bounce back this season. The departure of Mike Evans this offseason could mean that Godwin takes on a bigger role offensively. He'll get a plus matchup to begin the season against a Cincinnati Bengals defense that finished in the bottom 10 last year. Godwin has built excellent chemistry with quarterback Baker Mayfield throughout the years. The injuries have kept Godwin out of mind recently, but he should be a viable WR3 against the Bengals on Sunday.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers wide receiver Chris Godwin Jr. is hopeful to play his first full season since 2023. The injuries have held Godwin back the past few years, but the 30-year-old is hopeful to bounce back this season. The departure of Mike Evans this offseason could mean that Godwin takes on a bigger role offensively. He'll get a plus matchup to begin the season against a Cincinnati Bengals defense that finished in the bottom 10 last year. Godwin has built excellent chemistry with quarterback Baker Mayfield throughout the years. The injuries have kept Godwin out of mind recently, but he should be a viable WR3 against the Bengals on Sunday.",
+        "title": "Chris Godwin Jr. Draws WR3 Value for Season Opener",
+        "topic_id": "1404251739762253824",
+        "url": "https://www.rotoballer.com/player-news/chris-godwin-jr-draws-wr3-value-for-season-opener/1928832"
+      },
+      "nfl_team": "TB",
+      "player_id": "4037",
+      "player_name": "Chris Godwin",
+      "position": "WR",
+      "published": 1789147637000,
+      "source": "rotoballer",
+      "source_key": "220677",
+      "story_id": "nfl|4037|rotoballer|220677|1789147637000",
+      "title": "Chris Godwin Jr. Draws WR3 Value for Season Opener",
+      "url": "https://www.rotoballer.com/player-news/chris-godwin-jr-draws-wr3-value-for-season-opener/1928832"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars wide receiver Jakobi Meyers (thumb) did not have an injury designation on Friday and has been cleared to play in the Week 1 season opener this Sunday against the visiting Cleveland Browns. Meyers was limited in practice all week, but he will play this weekend and should be considered a WR4/flex option in fantasy football lineups. The 29-year-old saw his fantasy stock fall this summer with both Parker Washington and Brian Thomas Jr. getting all the buzz in training camp practices. The 29-year-old was a midseason acquisition in 2025 and came over from the Las Vegas Raiders to help take head coach Liam Coen's offense to the next level. The former undrafted free agent from North Carolina State caught 42 of 61 targets for 483 yards and three touchdowns in his nine regular-season games with the Jags and had a 75-835-3 line overall. Meyers is still an important part of Jacksonville's offense, but he is flying under the radar right now as he enters his first full year in Duvall.",
+      "metadata": {
+        "description": "Jacksonville Jaguars wide receiver Jakobi Meyers (thumb) did not have an injury designation on Friday and has been cleared to play in the Week 1 season opener this Sunday against the visiting Cleveland Browns. Meyers was limited in practice all week, but he will play this weekend and should be considered a WR4/flex option in fantasy football lineups. The 29-year-old saw his fantasy stock fall this summer with both Parker Washington and Brian Thomas Jr. getting all the buzz in training camp practices. The 29-year-old was a midseason acquisition in 2025 and came over from the Las Vegas Raiders to help take head coach Liam Coen's offense to the next level. The former undrafted free agent from North Carolina State caught 42 of 61 targets for 483 yards and three touchdowns in his nine regular-season games with the Jags and had a 75-835-3 line overall. Meyers is still an important part of Jacksonville's offense, but he is flying under the radar right now as he enters his first full year in Duvall.",
+        "title": "Jakobi Meyers In the Clear to Play in Week 1",
+        "topic_id": "1404251739758059520",
+        "url": "https://www.rotoballer.com/player-news/jakobi-meyers-in-the-clear-to-play-in-week-1/1928830"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1789147445000,
+      "source": "rotoballer",
+      "source_key": "220678",
+      "story_id": "nfl|5947|rotoballer|220678|1789147445000",
+      "title": "Jakobi Meyers In the Clear to Play in Week 1",
+      "url": "https://www.rotoballer.com/player-news/jakobi-meyers-in-the-clear-to-play-in-week-1/1928830"
+    },
+    {
       "analysis": "",
       "description": "Emeka Egbuka (toe) is cleared to play in Week 1 for the Tampa Bay Buccaneers against the Cincinnati Bengals according to Greg Auman.",
       "metadata": {
@@ -1008,6 +1234,26 @@
       "url": "https://www.fantasypros.com/nfl/news/607158/jalen-mcmillan-knee-doubtful-week-1.php"
     },
     {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers running back Kenny Gainwell is set to make his team debut against the Cincinnati Bengals in Week 1. Gainwell will get a plus matchup to start against a Bengals defense that ranked in the bottom 10 this past season. The expectation is that Gainwell will play a similar role to what Rachaad White has done in Tampa Bay in the past. He'll likely be the favorite back in passing situations, but unlike White, Gainwell can be a trusted runner as well. Gainwell saw a career-high 114 rushing attempts this past season and averaged 4.71 YPC. He'll operate as the primary backup to Bucky Irving, but Gainwell should be one of the more trusted backups around the league. For fantasy managers in PPR leagues, Gainwell can be a legit flex option for the season opener against the Bengals.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers running back Kenny Gainwell is set to make his team debut against the Cincinnati Bengals in Week 1. Gainwell will get a plus matchup to start against a Bengals defense that ranked in the bottom 10 this past season. The expectation is that Gainwell will play a similar role to what Rachaad White has done in Tampa Bay in the past. He'll likely be the favorite back in passing situations, but unlike White, Gainwell can be a trusted runner as well. Gainwell saw a career-high 114 rushing attempts this past season and averaged 4.71 YPC. He'll operate as the primary backup to Bucky Irving, but Gainwell should be one of the more trusted backups around the league. For fantasy managers in PPR leagues, Gainwell can be a legit flex option for the season opener against the Bengals.",
+        "title": "Kenny Gainwell Sneaks into Flex Conversation",
+        "topic_id": "1404250481341067275",
+        "url": "https://www.rotoballer.com/player-news/kenny-gainwell-sneaks-into-flex-conversation/1928827"
+      },
+      "nfl_team": "TB",
+      "player_id": "7567",
+      "player_name": "Kenny Gainwell",
+      "position": "RB",
+      "published": 1789147145000,
+      "source": "rotoballer",
+      "source_key": "220676",
+      "story_id": "nfl|7567|rotoballer|220676|1789147145000",
+      "title": "Kenny Gainwell Sneaks into Flex Conversation",
+      "url": "https://www.rotoballer.com/player-news/kenny-gainwell-sneaks-into-flex-conversation/1928827"
+    },
+    {
       "analysis": "Brooks was able to practice three straight days this week. It remains unclear what the split between him and Chuba Hubbard will look like heading into the season. ",
       "description": "The Panthers say RB Jonathon Brooks will not face a snap count on Sunday against the Bears. ",
       "metadata": {
@@ -1027,6 +1273,26 @@
       "story_id": "nfl|11583|fantasy_pros|607156|1789146928778",
       "title": "Jonathon Brooks (groin) not expected to face snap count Sunday ",
       "url": "https://www.fantasypros.com/nfl/news/607156/jonathon-brooks-groin-not-expected-to-face-snap-count-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers running back Bucky Irving is expected to bounce back after battling some injuries last season. Irving only played 10 games last season, but he rushed for nearly 600 yards in that span. During his rookie campaign, Irving finished as the RB13, so the Bucs are hopeful to get similar results to that in 2026. It remains to be seen how much the addition of Kenny Gainwell will impact Irving's value in the backfield. The expectation is that Gainwell will play a similar role to what Rachaad White did in years past. Irving might see a reduction in carries, but he remains a solid RB2 against a shaky Cincinnati Bengals defense in Week 1. Fantasy managers should get a better idea of how the Bucs plan to use this backfield as the season goes on.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers running back Bucky Irving is expected to bounce back after battling some injuries last season. Irving only played 10 games last season, but he rushed for nearly 600 yards in that span. During his rookie campaign, Irving finished as the RB13, so the Bucs are hopeful to get similar results to that in 2026. It remains to be seen how much the addition of Kenny Gainwell will impact Irving's value in the backfield. The expectation is that Gainwell will play a similar role to what Rachaad White did in years past. Irving might see a reduction in carries, but he remains a solid RB2 against a shaky Cincinnati Bengals defense in Week 1. Fantasy managers should get a better idea of how the Bucs plan to use this backfield as the season goes on.",
+        "title": "Bucky Irving Holds Viable RB2 Value for Season Opener",
+        "topic_id": "1404249222756290560",
+        "url": "https://www.rotoballer.com/player-news/bucky-irving-holds-viable-rb2-value-for-season-opener/1928825"
+      },
+      "nfl_team": "TB",
+      "player_id": "11584",
+      "player_name": "Bucky Irving",
+      "position": "RB",
+      "published": 1789146725000,
+      "source": "rotoballer",
+      "source_key": "220675",
+      "story_id": "nfl|11584|rotoballer|220675|1789146725000",
+      "title": "Bucky Irving Holds Viable RB2 Value for Season Opener",
+      "url": "https://www.rotoballer.com/player-news/bucky-irving-holds-viable-rb2-value-for-season-opener/1928825"
     },
     {
       "analysis": "Penix will still be inactive for Week 1. He added that he's not where he feels he needs to be right now. He isn't expected to be sidelined for too much longer. ",
@@ -55228,66 +55494,6 @@
       "story_id": "nfl|7569|rotoballer|218466|1786577706000",
       "title": "Nico Collins Shining in Training Camp",
       "url": "https://www.rotoballer.com/player-news/nico-collins-shining-in-training-camp/1907968"
-    },
-    {
-      "analysis": null,
-      "description": "Atlanta Falcons wide receiver Drake London is coming off a strong 2025 season, hauling in 68 of 112 targets for 919 yards and seven touchdowns in 12 games. However, his current price may be too high to consider him in 2026. London is likely facing a quarterback change in 2026, with former Dolphins quarterback Tua Tagovailoa coming to town. London did damage in the last two seasons with Michael Penix Jr., catching 82 of 133 targets for 1,162 yards and eight touchdowns in 12 games, averaging 17.1 half-PPR fantasy points per game. In the two seasons without Penix, he had 86 receptions for 1,028 yards and 8 touchdowns in 17 games, averaging just under 14 points per game. The real concern is his slot usage, which ranked among the highest in the league in 2024 and 2025 under offensive coordinator Zac Robinson. Now with Kevin Stefanski in Atlanta, London could return to a more outside receiver role in 2026. Fantasy managers should understand the risk with London and potentially pivot to a safer option in drafts.",
-      "metadata": {
-        "description": "Atlanta Falcons wide receiver Drake London is coming off a strong 2025 season, hauling in 68 of 112 targets for 919 yards and seven touchdowns in 12 games. However, his current price may be too high to consider him in 2026. London is likely facing a quarterback change in 2026, with former Dolphins quarterback Tua Tagovailoa coming to town. London did damage in the last two seasons with Michael Penix Jr., catching 82 of 133 targets for 1,162 yards and eight touchdowns in 12 games, averaging 17.1 half-PPR fantasy points per game. In the two seasons without Penix, he had 86 receptions for 1,028 yards and 8 touchdowns in 17 games, averaging just under 14 points per game. The real concern is his slot usage, which ranked among the highest in the league in 2024 and 2025 under offensive coordinator Zac Robinson. Now with Kevin Stefanski in Atlanta, London could return to a more outside receiver role in 2026. Fantasy managers should understand the risk with London and potentially pivot to a safer option in drafts.",
-        "title": "Quarterback and Coaching Changes May Affect Drake London in 2026",
-        "topic_id": "1393466917292879872",
-        "url": "https://www.rotoballer.com/player-news/quarterback-and-coaching-changes-may-affect-drake-london-in-2026/1907956"
-      },
-      "nfl_team": "ATL",
-      "player_id": "8112",
-      "player_name": "Drake London",
-      "position": "WR",
-      "published": 1786576145000,
-      "source": "rotoballer",
-      "source_key": "218464",
-      "story_id": "nfl|8112|rotoballer|218464|1786576145000",
-      "title": "Quarterback and Coaching Changes May Affect Drake London in 2026",
-      "url": "https://www.rotoballer.com/player-news/quarterback-and-coaching-changes-may-affect-drake-london-in-2026/1907956"
-    },
-    {
-      "analysis": null,
-      "description": "Seattle Seahawks wide receiver Rashid Shaheed is expected to be a major factor in 2026, according to ESPN's Jeremy Fowler. Fowler wrote in his 2026 NFL Training Camp Buzz that Shaheed has been moving around the formation at camp, including time in the backfield. A full offseason in Seattle makes him a more viable option across the field, from short to deep. The former Saints playmaker was traded to the Seahawks at last season's trade deadline and hauled in 15 of 26 targets for 188 yards and no touchdowns in nine games. With a full offseason to get acclimated to the offense and build chemistry with quarterback Sam Darnold, Shaheed could be a great value in the late rounds of fantasy leagues this season.",
-      "metadata": {
-        "description": "Seattle Seahawks wide receiver Rashid Shaheed is expected to be a major factor in 2026, according to ESPN's Jeremy Fowler. Fowler wrote in his 2026 NFL Training Camp Buzz that Shaheed has been moving around the formation at camp, including time in the backfield. A full offseason in Seattle makes him a more viable option across the field, from short to deep. The former Saints playmaker was traded to the Seahawks at last season's trade deadline and hauled in 15 of 26 targets for 188 yards and no touchdowns in nine games. With a full offseason to get acclimated to the offense and build chemistry with quarterback Sam Darnold, Shaheed could be a great value in the late rounds of fantasy leagues this season.",
-        "title": "Rashid Shaheed to be Major Factor in 2026",
-        "topic_id": "1393464399682879488",
-        "url": "https://www.rotoballer.com/player-news/rashid-shaheed-to-be-major-factor-in-2026/1907953"
-      },
-      "nfl_team": "SEA",
-      "player_id": "8676",
-      "player_name": "Rashid Shaheed",
-      "position": "WR",
-      "published": 1786575245000,
-      "source": "rotoballer",
-      "source_key": "218463",
-      "story_id": "nfl|8676|rotoballer|218463|1786575245000",
-      "title": "Rashid Shaheed to be Major Factor in 2026",
-      "url": "https://www.rotoballer.com/player-news/rashid-shaheed-to-be-major-factor-in-2026/1907953"
-    },
-    {
-      "analysis": null,
-      "description": "Minnesota Vikings running backs Aaron Jones Sr. and Jordan Mason are listed as co-starters on the team's unofficial depth chart. Both backs split carries nearly evenly last season, with Jones averaging 11 carries per game and Mason averaging 9.9. However, the tides are turning at Vikings' training camp, with most sideline reporters saying Mason looks like the clear RB1 and that he's \"taking a leap\" in camp. The former 49ers' back averaged 4.8 yards per carry in 2025, while the former Packer posted a career-low 4.2 yards per carry. With Mason looking like he could handle goal-line work and receive more carries overall, Jones is likely too high a price in 2026. While the offense is set to improve with Kyler Murray at quarterback, Jones may still not have the workload to live up to his ADP in 2026.",
-      "metadata": {
-        "description": "Minnesota Vikings running backs Aaron Jones Sr. and Jordan Mason are listed as co-starters on the team's unofficial depth chart. Both backs split carries nearly evenly last season, with Jones averaging 11 carries per game and Mason averaging 9.9. However, the tides are turning at Vikings' training camp, with most sideline reporters saying Mason looks like the clear RB1 and that he's \"taking a leap\" in camp. The former 49ers' back averaged 4.8 yards per carry in 2025, while the former Packer posted a career-low 4.2 yards per carry. With Mason looking like he could handle goal-line work and receive more carries overall, Jones is likely too high a price in 2026. While the offense is set to improve with Kyler Murray at quarterback, Jones may still not have the workload to live up to his ADP in 2026.",
-        "title": "Aaron Jones Sr. Listed as Co-Starter on Unofficial Depth Chart",
-        "topic_id": "1393458107388035072",
-        "url": "https://www.rotoballer.com/player-news/aaron-jones-sr-and-jordan-mason-listed-as-co-starters-on-unofficial-depth-chart/1907947"
-      },
-      "nfl_team": "MIN",
-      "player_id": "4199",
-      "player_name": "Aaron Jones",
-      "position": "RB",
-      "published": 1786574101000,
-      "source": "rotoballer",
-      "source_key": "218461",
-      "story_id": "nfl|4199|rotoballer|218461|1786574101000",
-      "title": "Aaron Jones Sr. Listed as Co-Starter on Unofficial Depth Chart",
-      "url": "https://www.rotoballer.com/player-news/aaron-jones-sr-and-jordan-mason-listed-as-co-starters-on-unofficial-depth-chart/1907947"
     }
   ]
 }
