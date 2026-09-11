@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-11T02:22:26Z",
+  "last_checked_at": "2026-09-11T02:37:10Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [
-    "nfl|4033|rotoballer|220592|1789078326000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -52407,26 +52405,6 @@
       "source_key": "633308",
       "story_id": "nfl|6790|rotowire|633308|1786503214000",
       "title": "D'Andre Swift - Having standout camp",
-      "url": null
-    },
-    {
-      "analysis": "Williams is coming off of a career year in 2025, notching 1,201 rushing yards and 11 touchdowns on 252 carries, all of which were career highs, over 16 regular-season contests in his first season with Dallas. As a result of his production, the running back was rewarded with a fresh three-year, $24 million contract in February. The Cowboys ranked second in the NFL in total offense last season, averaging 391.9 yards per game, and Williams feels like the offense is picking up where they left off ahead of the 2026 campaign. \"I feel like we hit the ground running. We didn't really start from the ground up, we just kind of built on what we could've done better last year. I feel like we're executing and communicating well,\" said Williams. If Dallas does find a way to be even better on offense in 2026, Williams would likely be a major part of it as the team's undisputed No. 1 option in the backfield.",
-      "description": "Williams feels like the Cowboys' offense has hit the ground running ahead of the 2026 campaign, Tommy Yarrish of the team's official website reports.",
-      "metadata": {
-        "analysis": "Williams is coming off of a career year in 2025, notching 1,201 rushing yards and 11 touchdowns on 252 carries, all of which were career highs, over 16 regular-season contests in his first season with Dallas. As a result of his production, the running back was rewarded with a fresh three-year, $24 million contract in February. The Cowboys ranked second in the NFL in total offense last season, averaging 391.9 yards per game, and Williams feels like the offense is picking up where they left off ahead of the 2026 campaign. \"I feel like we hit the ground running. We didn't really start from the ground up, we just kind of built on what we could've done better last year. I feel like we're executing and communicating well,\" said Williams. If Dallas does find a way to be even better on offense in 2026, Williams would likely be a major part of it as the team's undisputed No. 1 option in the backfield.",
-        "description": "Williams feels like the Cowboys' offense has hit the ground running ahead of the 2026 campaign, Tommy Yarrish of the team's official website reports.",
-        "title": "Javonte Williams - Expects offense to take step up",
-        "topic_id": "1393093349728083968"
-      },
-      "nfl_team": "DAL",
-      "player_id": "7588",
-      "player_name": "Javonte Williams",
-      "position": "RB",
-      "published": 1786501461000,
-      "source": "rotowire",
-      "source_key": "633303",
-      "story_id": "nfl|7588|rotowire|633303|1786501461000",
-      "title": "Javonte Williams - Expects offense to take step up",
       "url": null
     }
   ]
