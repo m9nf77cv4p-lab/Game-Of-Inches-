@@ -1,11 +1,8 @@
 {
-  "last_checked_at": "2026-09-11T00:26:42Z",
+  "last_checked_at": "2026-09-11T00:44:11Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [
-    "nfl|13278|rotowire|636763|1789085274000",
-    "nfl|13311|rotowire|636764|1789085326000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -52225,26 +52222,6 @@
       "source_key": "633302",
       "story_id": "nfl|8150|rotowire|633302|1786499368000",
       "title": "Kyren Williams - Impressing at training camp",
-      "url": null
-    },
-    {
-      "analysis": "Henry has logged 280-plus carries in six of his last seven seasons, with the exception being in 2021 with the Titans, when was limited to 219 carries and eight regular-season games due to a foot injury. He's seen the highest usage among running backs the last few years, and that trend doesn't look like it's going to change in 2026 under new offensive coordinator Declan Doyle, the latter of whom was the OC with the Bears' last season and helped Chicago finish as the third-ranked rushing attack. The play calling for Henry may look different, with the veteran running back seeing more designed runs to the perimeter so far in training camp, and he's also expected to see more work in the passing attack. Henry is the unquestioned bell cow for the Ravens, forming a lethal one-two punch with Lamar Jackson while Justice Hill, Rasheen Ali and rookie fifth-rounder Adam Randall providing backfield depth.",
-      "description": "Henry is expected to get his normal workload this season but will also be more involved in the passing game, Jeremy Fowler of ESPN.com reports.",
-      "metadata": {
-        "analysis": "Henry has logged 280-plus carries in six of his last seven seasons, with the exception being in 2021 with the Titans, when was limited to 219 carries and eight regular-season games due to a foot injury. He's seen the highest usage among running backs the last few years, and that trend doesn't look like it's going to change in 2026 under new offensive coordinator Declan Doyle, the latter of whom was the OC with the Bears' last season and helped Chicago finish as the third-ranked rushing attack. The play calling for Henry may look different, with the veteran running back seeing more designed runs to the perimeter so far in training camp, and he's also expected to see more work in the passing attack. Henry is the unquestioned bell cow for the Ravens, forming a lethal one-two punch with Lamar Jackson while Justice Hill, Rasheen Ali and rookie fifth-rounder Adam Randall providing backfield depth.",
-        "description": "Henry is expected to get his normal workload this season but will also be more involved in the passing game, Jeremy Fowler of ESPN.com reports.",
-        "title": "Derrick Henry - Expected to maintain workload",
-        "topic_id": "1393065662431133696"
-      },
-      "nfl_team": "BAL",
-      "player_id": "3198",
-      "player_name": "Derrick Henry",
-      "position": "RB",
-      "published": 1786495051000,
-      "source": "rotowire",
-      "source_key": "633297",
-      "story_id": "nfl|3198|rotowire|633297|1786495051000",
-      "title": "Derrick Henry - Expected to maintain workload",
       "url": null
     }
   ]

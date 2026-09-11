@@ -2,14 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2596**
-- Newly captured: **2**
+- Stored stories: **2595**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Chris Bell** — Chris Bell - Still working on conditioning (2026-09-11T00:08:46Z)
+- **Chris Bell** — Chris Bell - Still working on conditioning (2026-09-11T00:08:46Z)
   - Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial "pitch count" against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.
-- **NEW — Max Klare** — Max Klare - Healthy scratch to begin rookie campaign (2026-09-11T00:07:54Z)
+- **Max Klare** — Max Klare - Healthy scratch to begin rookie campaign (2026-09-11T00:07:54Z)
   - The Rams liked Klare enough to select him in the second round of the NFL Draft in April, but he's not going to be an option for the team in Week 1. Los Angeles has a crowded tight-end room that includes three veterans in Colby Parkinson, Tyler Higbee and Davis Allen along with second-year pro Terrance Ferguson, so Klare may not log much playing time this year as long as those above him in the pecking order are healthy.
 - **Ty Simpson** — Ty Simpson - Opening season as emergency No. 3 QB (2026-09-10T23:47:18Z)
   - It thus appears Stetson Bennett has won Los Angeles' No. 2 QB job, at least for the first game of the season. Simpson, who was taken by the Rams in the first round of April's NFL Draft, can make his NFL debut Thursday only if both starter Matthew Stafford and Bennett have to exit due to injury, illness, or ejection.
