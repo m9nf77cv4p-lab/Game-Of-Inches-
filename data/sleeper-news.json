@@ -1,9 +1,9 @@
 {
-  "last_checked_at": "2026-09-11T14:31:59Z",
+  "last_checked_at": "2026-09-11T14:47:03Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13294|rotoballer|220618|1789121945000"
+    "nfl|6783|rotoballer|220620|1789122727000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Cleveland Browns wide receiver Jerry Jeudy is quickly falling out of favor as some of his younger teammates ascend into substantial roles. Jeudy had a miserable fantasy campaign in 2025, catching 50 passes for 602 yards and two touchdowns. While part of his subpar season can be blamed on quarterback play, Jeudy deserves to take on a substantial amount of accountability. He has ranked as the WR47 or lower in four of his six NFL seasons, serving as a major letdown to fantasy managers who trusted him with the Broncos or Browns. Now, Cleveland's front office is losing faith in him, as they drafted KC Concepcion and Denzel Boston to be the future of their receiver room. Jeudy may still earn the start in Week 1, but his vastly reduced role and poor quarterback play mean that he belongs on the bench (or even the waiver wire) in most fantasy football leagues.",
+      "metadata": {
+        "description": "Cleveland Browns wide receiver Jerry Jeudy is quickly falling out of favor as some of his younger teammates ascend into substantial roles. Jeudy had a miserable fantasy campaign in 2025, catching 50 passes for 602 yards and two touchdowns. While part of his subpar season can be blamed on quarterback play, Jeudy deserves to take on a substantial amount of accountability. He has ranked as the WR47 or lower in four of his six NFL seasons, serving as a major letdown to fantasy managers who trusted him with the Broncos or Browns. Now, Cleveland's front office is losing faith in him, as they drafted KC Concepcion and Denzel Boston to be the future of their receiver room. Jeudy may still earn the start in Week 1, but his vastly reduced role and poor quarterback play mean that he belongs on the bench (or even the waiver wire) in most fantasy football leagues.",
+        "title": "Jerry Jeudy Losing Ground to the Browns' Youth Movement",
+        "topic_id": "1404148611293429760",
+        "url": "https://www.rotoballer.com/player-news/jerry-jeudy-losing-ground-to-the-browns-youth-movement/1928331"
+      },
+      "nfl_team": "CLE",
+      "player_id": "6783",
+      "player_name": "Jerry Jeudy",
+      "position": "WR",
+      "published": 1789122727000,
+      "source": "rotoballer",
+      "source_key": "220620",
+      "story_id": "nfl|6783|rotoballer|220620|1789122727000",
+      "title": "Jerry Jeudy Losing Ground to the Browns' Youth Movement",
+      "url": "https://www.rotoballer.com/player-news/jerry-jeudy-losing-ground-to-the-browns-youth-movement/1928331"
+    },
     {
       "analysis": null,
       "description": "Philadelphia Eagles wide receiver Makai Lemon has a bright future in the NFL, but for now, he should be avoided in most redraft leagues. The Eagles spent a first-round pick on Lemon to replace A.J. Brown, and he responded by turning in a very disappointing camp/preseason and also battling a hamstring injury. As a result, he will open the season in the No. 3 spot on the depth chart, rather than the No. 2 role for which he was originally projected when the Eagles drafted him. As Lemon opens the year behind DeVonta Smith, Dontayvion Wicks, and Dallas Goedert, he faces an uphill battle to play meaningful snaps right away. This isn't uncommon for rookie receivers, especially those who deal with injuries or a slow acclimation period in their first training camp. We're still optimistic that Lemon will be an every-week fantasy contributor in the future, but for now, he can be left on waivers in all redraft leagues with 12 or fewer teams.",
@@ -53182,46 +53202,6 @@
       "story_id": "nfl|10229|rotoballer|218438|1786547228000",
       "title": "Rashee Rice Not Expected to Face Additional Suspension",
       "url": "https://www.rotoballer.com/player-news/rashee-rice-not-expected-to-face-additional-suspension/1907743"
-    },
-    {
-      "analysis": null,
-      "description": "Seattle Seahawks running back Zach Charbonnet (knee) is hard to trust for September, but he is still worth remembering late in redraft leagues. Charbonnet ran 184 times for 730 yards and 12 touchdowns last season, with seven of those scores coming on 16 carries from inside the five-yard line. He also caught 20 passes for 144 yards. The problem is obvious: Charbonnet tore the ACL in his left knee during Seattle's divisional-round win over San Francisco and did not have surgery until Feb. 20. He remains on the PUP list, and the Seahawks have said a Week 1 return looks unlikely. Seattle also used the 32nd overall pick on Jadarian Price, so Charbonnet will not simply walk back into the job Kenneth Walker III left behind. George Holani and Emanuel Wilson are part of the mix, too. Even so, Charbonnet is a 6-foot-1, 220-pound back who already showed Seattle can trust him near the goal line, and RotoBaller has him all the way down at RB60. If your bench is deep enough to wait on him, there is still useful second-half upside here.",
-      "metadata": {
-        "description": "Seattle Seahawks running back Zach Charbonnet (knee) is hard to trust for September, but he is still worth remembering late in redraft leagues. Charbonnet ran 184 times for 730 yards and 12 touchdowns last season, with seven of those scores coming on 16 carries from inside the five-yard line. He also caught 20 passes for 144 yards. The problem is obvious: Charbonnet tore the ACL in his left knee during Seattle's divisional-round win over San Francisco and did not have surgery until Feb. 20. He remains on the PUP list, and the Seahawks have said a Week 1 return looks unlikely. Seattle also used the 32nd overall pick on Jadarian Price, so Charbonnet will not simply walk back into the job Kenneth Walker III left behind. George Holani and Emanuel Wilson are part of the mix, too. Even so, Charbonnet is a 6-foot-1, 220-pound back who already showed Seattle can trust him near the goal line, and RotoBaller has him all the way down at RB60. If your bench is deep enough to wait on him, there is still useful second-half upside here.",
-        "title": "Zach Charbonnet Still Has Late-Round Stash Appeal",
-        "topic_id": "1393339863050235905",
-        "url": "https://www.rotoballer.com/player-news/zach-charbonnet-still-has-late-round-stash-appeal/1907728"
-      },
-      "nfl_team": "SEA",
-      "player_id": "9753",
-      "player_name": "Zach Charbonnet",
-      "position": "RB",
-      "published": 1786545646000,
-      "source": "rotoballer",
-      "source_key": "218433",
-      "story_id": "nfl|9753|rotoballer|218433|1786545646000",
-      "title": "Zach Charbonnet Still Has Late-Round Stash Appeal",
-      "url": "https://www.rotoballer.com/player-news/zach-charbonnet-still-has-late-round-stash-appeal/1907728"
-    },
-    {
-      "analysis": null,
-      "description": "Cleveland Browns rookie wide receiver Denzel Boston continues to make believers during his first NFL training camp. An ESPN evaluator came away especially impressed after watching Boston practice, writing that the 6-foot-4 receiver \"has what it takes to be a WR1 in the league.\" Boston's size was expected, but his route-running and ability to move smoothly for a bigger receiver stood out just as much. The Browns have seen that throughout camp, with Boston consistently winning contested catches and making plays downfield. Head coach Todd Monken has even said he wants to see Boston working as a boundary receiver with the first-team offense while moving Jerry Jeudy around. Cleveland selected Boston 39th overall after he caught 62 passes for 881 yards at Washington last season. There is still plenty to sort out, particularly with Deshaun Watson and Shedeur Sanders battling at quarterback. Boston does not need to become Cleveland's WR1 immediately, but everything he has shown this summer points toward a sizable rookie role and an intriguing long-term ceiling.",
-      "metadata": {
-        "description": "Cleveland Browns rookie wide receiver Denzel Boston continues to make believers during his first NFL training camp. An ESPN evaluator came away especially impressed after watching Boston practice, writing that the 6-foot-4 receiver \"has what it takes to be a WR1 in the league.\" Boston's size was expected, but his route-running and ability to move smoothly for a bigger receiver stood out just as much. The Browns have seen that throughout camp, with Boston consistently winning contested catches and making plays downfield. Head coach Todd Monken has even said he wants to see Boston working as a boundary receiver with the first-team offense while moving Jerry Jeudy around. Cleveland selected Boston 39th overall after he caught 62 passes for 881 yards at Washington last season. There is still plenty to sort out, particularly with Deshaun Watson and Shedeur Sanders battling at quarterback. Boston does not need to become Cleveland's WR1 immediately, but everything he has shown this summer points toward a sizable rookie role and an intriguing long-term ceiling.",
-        "title": "Denzel Boston \"Has What It Takes\" to Be a WR1",
-        "topic_id": "1393336088604459008",
-        "url": "https://www.rotoballer.com/player-news/denzel-boston-has-what-it-takes-to-be-a-wr1/1907719"
-      },
-      "nfl_team": "CLE",
-      "player_id": "13346",
-      "player_name": "Denzel Boston",
-      "position": "WR",
-      "published": 1786545185000,
-      "source": "rotoballer",
-      "source_key": "218432",
-      "story_id": "nfl|13346|rotoballer|218432|1786545185000",
-      "title": "Denzel Boston \"Has What It Takes\" to Be a WR1",
-      "url": "https://www.rotoballer.com/player-news/denzel-boston-has-what-it-takes-to-be-a-wr1/1907719"
     }
   ]
 }

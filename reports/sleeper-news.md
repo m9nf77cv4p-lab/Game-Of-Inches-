@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2644**
+- Stored stories: **2643**
 - Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Makai Lemon** — Makai Lemon an Early Fade After Quiet Camp (2026-09-11T10:19:05Z)
+- **NEW — Jerry Jeudy** — Jerry Jeudy Losing Ground to the Browns' Youth Movement (2026-09-11T10:32:07Z)
+  - Source: https://www.rotoballer.com/player-news/jerry-jeudy-losing-ground-to-the-browns-youth-movement/1928331
+- **Makai Lemon** — Makai Lemon an Early Fade After Quiet Camp (2026-09-11T10:19:05Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemon-an-early-fade-after-quiet-camp/1928318
 - **Tyrone Tracy** — Tyrone Tracy Jr. has Uncertain Role Heading into Week 1 (2026-09-11T09:57:06Z)
   - Source: https://www.rotoballer.com/player-news/tyrone-tracys-role-uncertain-heading-into-week-1/1928295
@@ -242,6 +244,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - It appeared Tagovailoa was dealing with a back injury, but it turns out he is actually dealing with an oblique issue. This is a curveball for the Falcons, who are already shorthanded at quarterback with Michael Penix (knee) out for the opener. With Tagovailoa tending to the injury, the Falcons gave all the first-team reps to Cooper Rush on Thursday. Suddenly, Friday's injury report becomes one of the most impactful ones across the whole league as the Falcons could be down their top two quarterbacks for Week 1 if Tagovailoa doesn't bounce back quickly.
 - **Zachariah Branch** — Zachariah Branch - Stays limited Thursday (2026-09-10T19:59:57Z)
   - Branch has been a limited participant in consecutive practices to kick off Week 1 prep, but the rookie third-round pick still has a chance to avoid an injury designation if he can upgrade to full practice participation Friday as he looks to make his NFL debut Sunday against the Steelers. Branch is expected to fill a reserve role at wide receiver to begin his career, but he's penciled in as Atlanta's primary punt returner.
-- **Michael Penix** — Michael Penix Jr. (knee) logs full practice Thursday (2026-09-10T19:50:21.979000Z)
-  - Penix is still listed on Atlanta's injury report due to a knee injury, but he again logged a full practice session on Thursday and seems to be close to full health at this point. Fantasy managers should keep tabs on all injury updates out of Atlanta, as starting QB Tua Tagovailoa (back) now seems to be dealing with an issue that could affect his availability for Sunday.
-  - Source: https://www.fantasypros.com/nfl/news/606966/michael-penix-jr-knee-logs-full-practice-thursday.php
