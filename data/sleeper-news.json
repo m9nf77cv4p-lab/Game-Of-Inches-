@@ -1,10 +1,12 @@
 {
-  "last_checked_at": "2026-09-11T04:57:04Z",
+  "last_checked_at": "2026-09-11T05:13:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11783|rotoballer|220601|1789087326000",
-    "nfl|421|rotowire|636814|1789102352000"
+    "nfl|11586|rotoballer|220603|1789088945000",
+    "nfl|13414|rotowire|636817|1789103183000",
+    "nfl|2133|rotowire|636816|1789102720000",
+    "nfl|8183|rotoballer|220604|1789088707000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,10 +17,50 @@
   },
   "stories": [
     {
-      "analysis": "The reigning NFL MVP looked like anything but during a shockingly poor performance by his side of the ball, and Stafford finished with his lowest passing yardage total since Week 11 of last season. The veteran signal-caller tossed his one interception shortly before the halfway point of the second quarter on a pass intended for Puka Nacua just inside the 49ers' 15-yard line, a play that was costly both from the standpoint of the potential scoring opportunity it short-circuited and the fact it led to a San Francisco touchdown. Stafford's first chance to atone comes in a Week 2 home matchup against what is expected to be a fearsome Giants pass rush on Monday night, Sept. 21.",
+      "analysis": "The rookie third-round pick opened the season as Christian McCaffrey's primary backup, but he actually ended up outpacing his star backfield mate by four carries as the 49ers progressively took control in the second half. Black earned the touches with multiple productive runs that showed off his explosiveness, and his ability to help keep McCaffrey fresh throughout the game should only help lead to more opportunities for the first-year back going forward. Black garnered the No. 2 job thanks to an impressive two-game preseason where he performed similarly to Week 1, lending credence to the notion the Indiana product could maintain his fantasy relevance, particularly in deeper formats, as his first NFL season unfolds.",
+      "description": "Black rushed 14 times for 65 yards and brought in his only target for five yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
+      "metadata": {
+        "analysis": "The rookie third-round pick opened the season as Christian McCaffrey's primary backup, but he actually ended up outpacing his star backfield mate by four carries as the 49ers progressively took control in the second half. Black earned the touches with multiple productive runs that showed off his explosiveness, and his ability to help keep McCaffrey fresh throughout the game should only help lead to more opportunities for the first-year back going forward. Black garnered the No. 2 job thanks to an impressive two-game preseason where he performed similarly to Week 1, lending credence to the notion the Indiana product could maintain his fantasy relevance, particularly in deeper formats, as his first NFL season unfolds.",
+        "description": "Black rushed 14 times for 65 yards and brought in his only target for five yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
+        "title": "Kaelon Black - Stands out in regular-season debut",
+        "topic_id": "1404005126548492288"
+      },
+      "nfl_team": "SF",
+      "player_id": "13414",
+      "player_name": "Kaelon Black",
+      "position": "RB",
+      "published": 1789103183000,
+      "source": "rotowire",
+      "source_key": "636817",
+      "story_id": "nfl|13414|rotowire|636817|1789103183000",
+      "title": "Kaelon Black - Stands out in regular-season debut",
+      "url": null
+    },
+    {
+      "analysis": "The veteran receiver's final line underscores the kind of game it was for the Rams' air attack, which netted only 168 yards overall. Adams' numbers, modest as they were, still enabled him to tie for second in receptions while also checking in as the runner-up in both receiving yards and targets for Los Angeles. The only game during Adams' debut campaign in L.A. last year in which he generated a lower stat line was a Week 11 win over the Seahawks, when his only catch went for a one-yard touchdown, and he should have a chance to put together a more voluminous line during a Week 2 home matchup against the Giants on Monday night, Sept. 21.",
+      "description": "Adams secured three of six targets for 26 yards during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia.",
+      "metadata": {
+        "analysis": "The veteran receiver's final line underscores the kind of game it was for the Rams' air attack, which netted only 168 yards overall. Adams' numbers, modest as they were, still enabled him to tie for second in receptions while also checking in as the runner-up in both receiving yards and targets for Los Angeles. The only game during Adams' debut campaign in L.A. last year in which he generated a lower stat line was a Week 11 win over the Seahawks, when his only catch went for a one-yard touchdown, and he should have a chance to put together a more voluminous line during a Week 2 home matchup against the Giants on Monday night, Sept. 21.",
+        "description": "Adams secured three of six targets for 26 yards during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia.",
+        "title": "Davante Adams - Held in check in Week 1 loss",
+        "topic_id": "1404002609462808576"
+      },
+      "nfl_team": "LAR",
+      "player_id": "2133",
+      "player_name": "Davante Adams",
+      "position": "WR",
+      "published": 1789102720000,
+      "source": "rotowire",
+      "source_key": "636816",
+      "story_id": "nfl|2133|rotowire|636816|1789102720000",
+      "title": "Davante Adams - Held in check in Week 1 loss",
+      "url": null
+    },
+    {
+      "analysis": "The reigning NFL MVP looked anything but during a shockingly poor performance by his side of the ball, and Stafford finished with his lowest passing yardage total since Week 11 of last season. The veteran signal-caller tossed his one interception shortly before the halfway point of the second quarter on a pass intended for Puka Nacua just inside the 49ers' 15-yard line, a play that was costly both from the standpoint of the potential scoring opportunity it short-circuited and the fact it led to a San Francisco touchdown. Stafford's first chance to atone comes in a Week 2 home matchup against what is expected to be a fearsome Giants pass rush on Monday night, Sept. 21.",
       "description": "Stafford completed 15 of 25 passes for 155 yards with no touchdowns and one interception while rushing twice for minus-1 yard during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia.",
       "metadata": {
-        "analysis": "The reigning NFL MVP looked like anything but during a shockingly poor performance by his side of the ball, and Stafford finished with his lowest passing yardage total since Week 11 of last season. The veteran signal-caller tossed his one interception shortly before the halfway point of the second quarter on a pass intended for Puka Nacua just inside the 49ers' 15-yard line, a play that was costly both from the standpoint of the potential scoring opportunity it short-circuited and the fact it led to a San Francisco touchdown. Stafford's first chance to atone comes in a Week 2 home matchup against what is expected to be a fearsome Giants pass rush on Monday night, Sept. 21.",
+        "analysis": "The reigning NFL MVP looked anything but during a shockingly poor performance by his side of the ball, and Stafford finished with his lowest passing yardage total since Week 11 of last season. The veteran signal-caller tossed his one interception shortly before the halfway point of the second quarter on a pass intended for Puka Nacua just inside the 49ers' 15-yard line, a play that was costly both from the standpoint of the potential scoring opportunity it short-circuited and the fact it led to a San Francisco touchdown. Stafford's first chance to atone comes in a Week 2 home matchup against what is expected to be a fearsome Giants pass rush on Monday night, Sept. 21.",
         "description": "Stafford completed 15 of 25 passes for 155 yards with no touchdowns and one interception while rushing twice for minus-1 yard during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia.",
         "title": "Matthew Stafford - Disappointing performance to open season",
         "topic_id": "1404001351838527488"
@@ -56,10 +98,10 @@
       "url": "https://www.fantasypros.com/nfl/news/607075/ryan-flournoy-agrees-to-one-year-6-million-extension-with-dallas.php"
     },
     {
-      "analysis": "Evans shrugged off recent nagging injuries to hit the ground running in his 49ers regular-season debut, recording three catches for 22 yards on the opening possession alone. Evans would go on to double up that reception tally by game's end, tying for the team lead in that category with Deebo Samuel while also drawing even with his teammate for second in targets. Evans was also on the receiving end of the second of Brock Purdy's three touchdown passes, muscling his way to a contested two-yard grab in the left corner of the end zone in the third quarter. If early returns are any indication, the Purdy-Evans connection could be a prolific one throughout the season, and a Week 2 home matchup against the Dolphins on Sunday, Sept. 20 presents as a particularly promising matchup.",
+      "analysis": "Evans shrugged off recent nagging injuries to hit the ground running in his 49ers regular-season debut, recording three catches for 22 yards on the opening possession alone. He would go on to double up that reception tally by game's end, tying for the team lead in that category with Deebo Samuel while also drawing even with his teammate for second in targets. Evans also was on the receiving end of the second of Brock Purdy's three touchdown passes, muscling his way to a contested two-yard grab in the left corner of the end zone in the third quarter. If early returns are any indication, the Purdy-Evans connection could be a prolific one throughout the season, and a Week 2 home matchup against the Dolphins on Sunday, Sept. 20 presents as a particularly promising matchup.",
       "description": "Evans secured six of seven targets for 49 yards and a touchdown during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
       "metadata": {
-        "analysis": "Evans shrugged off recent nagging injuries to hit the ground running in his 49ers regular-season debut, recording three catches for 22 yards on the opening possession alone. Evans would go on to double up that reception tally by game's end, tying for the team lead in that category with Deebo Samuel while also drawing even with his teammate for second in targets. Evans was also on the receiving end of the second of Brock Purdy's three touchdown passes, muscling his way to a contested two-yard grab in the left corner of the end zone in the third quarter. If early returns are any indication, the Purdy-Evans connection could be a prolific one throughout the season, and a Week 2 home matchup against the Dolphins on Sunday, Sept. 20 presents as a particularly promising matchup.",
+        "analysis": "Evans shrugged off recent nagging injuries to hit the ground running in his 49ers regular-season debut, recording three catches for 22 yards on the opening possession alone. He would go on to double up that reception tally by game's end, tying for the team lead in that category with Deebo Samuel while also drawing even with his teammate for second in targets. Evans also was on the receiving end of the second of Brock Purdy's three touchdown passes, muscling his way to a contested two-yard grab in the left corner of the end zone in the third quarter. If early returns are any indication, the Purdy-Evans connection could be a prolific one throughout the season, and a Week 2 home matchup against the Dolphins on Sunday, Sept. 20 presents as a particularly promising matchup.",
         "description": "Evans secured six of seven targets for 49 yards and a touchdown during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
         "title": "Mike Evans - Clicks quickly with Purdy",
         "topic_id": "1403995059203919872"
@@ -610,6 +652,46 @@
       "story_id": "nfl|13417|rotowire|636787|1789089266000",
       "title": "De'Zhaun Stribling - Questionable to return Thursday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams running back Blake Corum rushed for 54 yards on 10 carries during Thursday's Week 1 loss against the San Francisco 49ers. He led the team in rushing yards, and his 5.4 yards per carry were nearly 50% greater than Kyren Williams' per-carry average. Williams was less productive on the ground despite having one more carry. However, there were two clear differences between the running backs on Thursday. First, Williams found his way into the end zone, building on last season's total of 13 touchdowns. Additionally, he had three catches for 24 yards, while Corum wasn't targeted in the passing game. For a while, there was some chatter that Corum and Williams could have a relatively equal split in the backfield, and that came to fruition in Week 1. Williams still ranks higher in fantasy football because he should tally more receptions and touchdowns, but Corum's heavy involvement in the rushing attack will keep him in the RB3 tier for Week 2 against the New York Giants.",
+      "metadata": {
+        "description": "Los Angeles Rams running back Blake Corum rushed for 54 yards on 10 carries during Thursday's Week 1 loss against the San Francisco 49ers. He led the team in rushing yards, and his 5.4 yards per carry were nearly 50% greater than Kyren Williams' per-carry average. Williams was less productive on the ground despite having one more carry. However, there were two clear differences between the running backs on Thursday. First, Williams found his way into the end zone, building on last season's total of 13 touchdowns. Additionally, he had three catches for 24 yards, while Corum wasn't targeted in the passing game. For a while, there was some chatter that Corum and Williams could have a relatively equal split in the backfield, and that came to fruition in Week 1. Williams still ranks higher in fantasy football because he should tally more receptions and touchdowns, but Corum's heavy involvement in the rushing attack will keep him in the RB3 tier for Week 2 against the New York Giants.",
+        "title": "Blake Corum Finishes Week 1 as the Rams' Leading Rusher",
+        "topic_id": "1404005120634564608",
+        "url": "https://www.rotoballer.com/player-news/blake-corum-finishes-week-1-as-the-rams-leading-rusher/1928097"
+      },
+      "nfl_team": "LAR",
+      "player_id": "11586",
+      "player_name": "Blake Corum",
+      "position": "RB",
+      "published": 1789088945000,
+      "source": "rotoballer",
+      "source_key": "220603",
+      "story_id": "nfl|11586|rotoballer|220603|1789088945000",
+      "title": "Blake Corum Finishes Week 1 as the Rams' Leading Rusher",
+      "url": "https://www.rotoballer.com/player-news/blake-corum-finishes-week-1-as-the-rams-leading-rusher/1928097"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers quarterback Brock Purdy completed 25 of his 34 pass attempts for 205 yards, three passing touchdowns, and one interception during Thursday's Week 1 win over the Los Angeles Rams. He also rushed for 29 yards and didn't get sacked. Outside of the interception, Purdy had a phenomenal performance against the Rams in Australia, headlined by his 74% completion rate and three touchdowns. He was able to produce at such a high level despite wide receiver De'Zhaun Stribling (ankle) and tight end Jake Tonges (knee) exiting early, as well as tight end George Kittle playing on a reduced workload. He wasted no time showing off his new connections with Mike Evans and Deebo Samuel Sr., and he also found success throwing to familiar faces such as Christian McCaffrey and Demarcus Robinson. Purdy remains in the mid-to-low QB1 tier for his next game against the Miami Dolphins in Week 2.",
+      "metadata": {
+        "description": "San Francisco 49ers quarterback Brock Purdy completed 25 of his 34 pass attempts for 205 yards, three passing touchdowns, and one interception during Thursday's Week 1 win over the Los Angeles Rams. He also rushed for 29 yards and didn't get sacked. Outside of the interception, Purdy had a phenomenal performance against the Rams in Australia, headlined by his 74% completion rate and three touchdowns. He was able to produce at such a high level despite wide receiver De'Zhaun Stribling (ankle) and tight end Jake Tonges (knee) exiting early, as well as tight end George Kittle playing on a reduced workload. He wasted no time showing off his new connections with Mike Evans and Deebo Samuel Sr., and he also found success throwing to familiar faces such as Christian McCaffrey and Demarcus Robinson. Purdy remains in the mid-to-low QB1 tier for his next game against the Miami Dolphins in Week 2.",
+        "title": "Brock Purdy Shines in Upset Win Over Rams",
+        "topic_id": "1404005120634564609",
+        "url": "https://www.rotoballer.com/player-news/brock-purdy-shines-in-upset-win-over-rams/1928095"
+      },
+      "nfl_team": "SF",
+      "player_id": "8183",
+      "player_name": "Brock Purdy",
+      "position": "QB",
+      "published": 1789088707000,
+      "source": "rotoballer",
+      "source_key": "220604",
+      "story_id": "nfl|8183|rotoballer|220604|1789088707000",
+      "title": "Brock Purdy Shines in Upset Win Over Rams",
+      "url": "https://www.rotoballer.com/player-news/brock-purdy-shines-in-upset-win-over-rams/1928095"
     },
     {
       "analysis": null,
