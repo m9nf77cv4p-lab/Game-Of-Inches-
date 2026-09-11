@@ -2,17 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2595**
-- Newly captured: **4**
+- Stored stories: **2594**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Ty Simpson** — Ty Simpson - Opening season as emergency No. 3 QB (2026-09-10T23:47:18Z)
+- **Ty Simpson** — Ty Simpson - Opening season as emergency No. 3 QB (2026-09-10T23:47:18Z)
   - It thus appears Stetson Bennett has won Los Angeles' No. 2 QB job, at least for the first game of the season. Simpson, who was taken by the Rams in the first round of April's NFL Draft, can make his NFL debut Thursday only if both starter Matthew Stafford and Bennett have to exit due to injury, illness, or ejection.
-- **NEW — Max Klare** — Max Klare inactive against Niners (2026-09-10T23:45:30.526000Z)
+- **Max Klare** — Max Klare inactive against Niners (2026-09-10T23:45:30.526000Z)
   - Klare will join fellow rookies Ty Simpson and CJ Daniels on the sideline. The Rams have plenty of TE depth at their disposal, so Klare being a rookie inactive is hardly surprising.
   - Source: https://www.fantasypros.com/nfl/news/607042/max-klare-inactive-against-niners.php
-- **NEW — A.J. Brown** — A.J. Brown - Expected to miss four weeks (2026-09-10T23:37:37Z)
+- **A.J. Brown** — A.J. Brown - Expected to miss four weeks (2026-09-10T23:37:37Z)
   - Brown is believed to be dealing with a high-ankle sprain. The good news is he suffered the injury on a Wednesday, which gives him a few extra days to rehab this week, but it's still looking like the star wideout will miss multiple games. While Brown is sidelined, the Patriots will need to lean on Romeo Doubs at wideout, while DeMario Douglas, Mack Hollins and Kyle Williams all figure to take on larger roles. Hunter Henry is also a candidate to see a bigger target share while Brown is sidelined.
 - **A.J. Brown** — A.J. Brown (ankle) expect to miss at least four weeks (2026-09-10T23:35:29.823000Z)
   - It's a big blow to Brown's Fantasy stock to start the season. In his absence, expect Hunter Henry and Romeo Doubs to see more work. However, with Doubs was struggling to find snaps and catch the ball, it's possible that Demario Douglas could be a nice PPR sleeper.
@@ -23,7 +23,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Ty Simpson** — Ty Simpson out against Niners (2026-09-10T23:35:29.790000Z)
   - Simpson will need to develop more before getting his shot at being the primary backup. He was impressive in the preseason, but the Rams are opting to let the rookie sit a little longer before trusting him further.
   - Source: https://www.fantasypros.com/nfl/news/607039/ty-simpson-out-against-niners.php
-- **NEW — Jordan James** — Jordan James - Inactive Thursday (2026-09-10T23:34:25Z)
+- **Jordan James** — Jordan James - Inactive Thursday (2026-09-10T23:34:25Z)
   - The 2025 fifth-rounder will not suit up in Week 1, leaving Christian McCaffrey and rookie third-rounder Kaelon Black as the only healthy running backs active for the 49ers on Thursday. James' role moving forward may depend on how effective Black is to start the season.
 - **Jeremiyah Love** — Jeremiyah Love - Stays limited at practice (2026-09-10T22:56:37Z)
   - Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities going from full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.

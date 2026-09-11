@@ -1,13 +1,8 @@
 {
-  "last_checked_at": "2026-09-10T23:50:39Z",
+  "last_checked_at": "2026-09-11T00:00:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [
-    "nfl|12467|rotowire|636741|1789083265000",
-    "nfl|13275|rotowire|636753|1789084038000",
-    "nfl|13278|fantasy_pros|607042|1789083930526",
-    "nfl|5859|rotowire|636745|1789083457000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -52208,26 +52203,6 @@
       "story_id": "nfl|3198|rotowire|633297|1786495051000",
       "title": "Derrick Henry - Expected to maintain workload",
       "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Seattle Seahawks wide receiver Jaxon Smith-Njigba was almost unstoppable at training camp last week as the team prepares for the Super Bowl defense in 2026. Smith-Njigba caught multiple touchdown passes from Sam Darnold and received praise from head coach Mike Macdonald, who said, \"It was great to see him come alive. Some of those in high-leverage situations, too. There's defensive attention on where he's at all times, too, so for him to be able to make those plays, it's great for the Seahawks, great for him.\" The reigning AP Offensive Player of the Year is looking to repeat his 2025 performance, when he had 119 catches for 1,793 yards and 10 touchdowns. With a new play caller, things could look schematically different in Seattle, but fantasy managers should expect another big year from Smith-Njigba.",
-      "metadata": {
-        "description": "Seattle Seahawks wide receiver Jaxon Smith-Njigba was almost unstoppable at training camp last week as the team prepares for the Super Bowl defense in 2026. Smith-Njigba caught multiple touchdown passes from Sam Darnold and received praise from head coach Mike Macdonald, who said, \"It was great to see him come alive. Some of those in high-leverage situations, too. There's defensive attention on where he's at all times, too, so for him to be able to make those plays, it's great for the Seahawks, great for him.\" The reigning AP Offensive Player of the Year is looking to repeat his 2025 performance, when he had 119 catches for 1,793 yards and 10 touchdowns. With a new play caller, things could look schematically different in Seattle, but fantasy managers should expect another big year from Smith-Njigba.",
-        "title": "Jaxon Smith-Njigba Almost Unstoppable at Seahawks Camp",
-        "topic_id": "1393115998164353024",
-        "url": "https://www.rotoballer.com/player-news/jaxon-smith-njigba-almost-unstoppable-at-seahawks-camp/1907352"
-      },
-      "nfl_team": "SEA",
-      "player_id": "9488",
-      "player_name": "Jaxon Smith-Njigba",
-      "position": "WR",
-      "published": 1786492336000,
-      "source": "rotoballer",
-      "source_key": "218408",
-      "story_id": "nfl|9488|rotoballer|218408|1786492336000",
-      "title": "Jaxon Smith-Njigba Almost Unstoppable at Seahawks Camp",
-      "url": "https://www.rotoballer.com/player-news/jaxon-smith-njigba-almost-unstoppable-at-seahawks-camp/1907352"
     }
   ]
 }
