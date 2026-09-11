@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-11T04:46:39Z",
+  "last_checked_at": "2026-09-11T04:57:04Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11783|fantasy_pros|607075|1789101616876"
+    "nfl|11783|rotoballer|220601|1789087326000",
+    "nfl|421|rotowire|636814|1789102352000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The reigning NFL MVP looked like anything but during a shockingly poor performance by his side of the ball, and Stafford finished with his lowest passing yardage total since Week 11 of last season. The veteran signal-caller tossed his one interception shortly before the halfway point of the second quarter on a pass intended for Puka Nacua just inside the 49ers' 15-yard line, a play that was costly both from the standpoint of the potential scoring opportunity it short-circuited and the fact it led to a San Francisco touchdown. Stafford's first chance to atone comes in a Week 2 home matchup against what is expected to be a fearsome Giants pass rush on Monday night, Sept. 21.",
+      "description": "Stafford completed 15 of 25 passes for 155 yards with no touchdowns and one interception while rushing twice for minus-1 yard during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia.",
+      "metadata": {
+        "analysis": "The reigning NFL MVP looked like anything but during a shockingly poor performance by his side of the ball, and Stafford finished with his lowest passing yardage total since Week 11 of last season. The veteran signal-caller tossed his one interception shortly before the halfway point of the second quarter on a pass intended for Puka Nacua just inside the 49ers' 15-yard line, a play that was costly both from the standpoint of the potential scoring opportunity it short-circuited and the fact it led to a San Francisco touchdown. Stafford's first chance to atone comes in a Week 2 home matchup against what is expected to be a fearsome Giants pass rush on Monday night, Sept. 21.",
+        "description": "Stafford completed 15 of 25 passes for 155 yards with no touchdowns and one interception while rushing twice for minus-1 yard during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia.",
+        "title": "Matthew Stafford - Disappointing performance to open season",
+        "topic_id": "1404001351838527488"
+      },
+      "nfl_team": "LAR",
+      "player_id": "421",
+      "player_name": "Matthew Stafford",
+      "position": "QB",
+      "published": 1789102352000,
+      "source": "rotowire",
+      "source_key": "636814",
+      "story_id": "nfl|421|rotowire|636814|1789102352000",
+      "title": "Matthew Stafford - Disappointing performance to open season",
+      "url": null
+    },
     {
       "analysis": "Flournoy flashed at times last year and is expected to take on a larger role in 2026. He's coming off of a great second season in the league that saw him snag 40 passes for nearly 500 yards and four touchdowns, including two games with more than 110 yards.",
       "description": "Ryan Flournoy has agreed to a one-year extension with the Dallas Cowboys worth $6 millloon.",
@@ -589,6 +610,26 @@
       "story_id": "nfl|13417|rotowire|636787|1789089266000",
       "title": "De'Zhaun Stribling - Questionable to return Thursday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Dallas Cowboys have signed wide receiver Ryan Flournoy to a one-year extension worth up to $6 million, according to NFL insider Jordan Schultz. Flournoy is coming off a career year as the No. 3 wide receiver in Dallas. The 26-year-old finished the 2025 season with 40 catches, 475 yards, and four touchdowns, producing in a big way despite operating behind CeeDee Lamb and George Pickens in the pecking order. The Cowboys' offense showed that it can support a very high passing volume, so we'd expect Flournoy to remain in a fantasy-relevant role this upcoming season. He should be rostered in all 14+ team leagues, as well as some deeper 12+ team leagues.",
+      "metadata": {
+        "description": "The Dallas Cowboys have signed wide receiver Ryan Flournoy to a one-year extension worth up to $6 million, according to NFL insider Jordan Schultz. Flournoy is coming off a career year as the No. 3 wide receiver in Dallas. The 26-year-old finished the 2025 season with 40 catches, 475 yards, and four touchdowns, producing in a big way despite operating behind CeeDee Lamb and George Pickens in the pecking order. The Cowboys' offense showed that it can support a very high passing volume, so we'd expect Flournoy to remain in a fantasy-relevant role this upcoming season. He should be rostered in all 14+ team leagues, as well as some deeper 12+ team leagues.",
+        "title": "Cowboys Sign Ryan Flournoy to One-Year Extension",
+        "topic_id": "1404000086958051328",
+        "url": "https://www.rotoballer.com/player-news/cowboys-sign-ryan-flournoy-to-one-year-extension/1928088"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11783",
+      "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "published": 1789087326000,
+      "source": "rotoballer",
+      "source_key": "220601",
+      "story_id": "nfl|11783|rotoballer|220601|1789087326000",
+      "title": "Cowboys Sign Ryan Flournoy to One-Year Extension",
+      "url": "https://www.rotoballer.com/player-news/cowboys-sign-ryan-flournoy-to-one-year-extension/1928088"
     },
     {
       "analysis": "Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial \"pitch count\" against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.",

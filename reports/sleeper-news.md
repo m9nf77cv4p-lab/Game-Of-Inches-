@@ -2,12 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2625**
-- Newly captured: **1**
+- Stored stories: **2627**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Ryan Flournoy** — Ryan Flournoy agrees to one-year, $6 million extension with Dallas (2026-09-11T04:40:16.876000Z)
+- **NEW — Matthew Stafford** — Matthew Stafford - Disappointing performance to open season (2026-09-11T04:52:32Z)
+  - The reigning NFL MVP looked like anything but during a shockingly poor performance by his side of the ball, and Stafford finished with his lowest passing yardage total since Week 11 of last season. The veteran signal-caller tossed his one interception shortly before the halfway point of the second quarter on a pass intended for Puka Nacua just inside the 49ers' 15-yard line, a play that was costly both from the standpoint of the potential scoring opportunity it short-circuited and the fact it led to a San Francisco touchdown. Stafford's first chance to atone comes in a Week 2 home matchup against what is expected to be a fearsome Giants pass rush on Monday night, Sept. 21.
+- **Ryan Flournoy** — Ryan Flournoy agrees to one-year, $6 million extension with Dallas (2026-09-11T04:40:16.876000Z)
   - Flournoy flashed at times last year and is expected to take on a larger role in 2026. He's coming off of a great second season in the league that saw him snag 40 passes for nearly 500 yards and four touchdowns, including two games with more than 110 yards.
   - Source: https://www.fantasypros.com/nfl/news/607075/ryan-flournoy-agrees-to-one-year-6-million-extension-with-dallas.php
 - **Mike Evans** — Mike Evans - Clicks quickly with Purdy (2026-09-11T04:24:39Z)
@@ -80,6 +82,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deebo Samuel, George Kittle and Christian McCaffrey for opportunities.
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Questionable to return Thursday (2026-09-11T01:14:26Z)
   - Stribling took a trip to the blue medical tent on the sideline near the end of the first quarter. Prior to the injury, Stribling wasn't targeted on any of Brock Purdy's 14 pass attempts. Demarcus Robinson would be in line for more work behind Mike Evans and Deebo Samuel if Stribling is unable to return Thursday.
+- **NEW — Ryan Flournoy** — Cowboys Sign Ryan Flournoy to One-Year Extension (2026-09-11T00:42:06Z)
+  - Source: https://www.rotoballer.com/player-news/cowboys-sign-ryan-flournoy-to-one-year-extension/1928088
 - **Chris Bell** — Chris Bell - Still working on conditioning (2026-09-11T00:08:46Z)
   - Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial "pitch count" against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.
 - **Max Klare** — Max Klare - Healthy scratch to begin rookie campaign (2026-09-11T00:07:54Z)
@@ -245,9 +249,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Darnold underwent testing for his hip injury suffered in the season opener, including an initial CT scan followed by an MRI. The results are encouraging, as Darnold is believed to have "dodged a bullet" and is only expected to miss minimal time. An appearance for Darnold in Week 2 does not look likely at this stage, but the Week 3 game against the Commanders on Sunday, Sept. 27 is an optimistic but possible return date. Per Jeremy Fowler of ESPN.com, Darnold is primarily dealing with hip soreness.
 - **AJ Barner** — AJ Barner - Two catches in Week 1 win (2026-09-10T18:14:39Z)
   - Barner was on the field for 44 of Seattle's 50 snaps on offense, so he remains firmly entrenched atop the tight end depth chart. He also had a short rushing gain from under center erased by an offensive offside penalty. Barner tied for second on the team in catches, as the Seahawks didn't get much production in the passing game from anyone other than Jaxson Smith-Njigba (eight catches for 122 yards and a touchdown) in a game that saw starting QB Sam Darnold (hip) exit in the first quarter. Darnold is expected to sit out Week 2 against the Cardinals, in which case Drew Lock would draw the start under center.
-- **Tua Tagovailoa** — Tua Tagovailoa appears to be dealing with back injury (2026-09-10T18:10:21.613000Z)
-  - It is unclear what exactly happened, but Kendall notes that Tagovailoa didn't seem to throw again afterwards. This will remain a situation to monitor. Tagovailoa missed some time during training camp with lower back spasms. 
-  - Source: https://www.fantasypros.com/nfl/news/606951/tua-tagovailoa-appears-to-tweak-back-thursday.php
-- **Ashton Jeanty** — Ashton Jeanty (ankle) expected to play Sunday (2026-09-10T18:00:21.847000Z)
-  - Jeanty opened the week practicing in full on Wednesday as he works his way back from an ankle sprain. He remains a strong RB1 for fantasy managers going into the season. 
-  - Source: https://www.fantasypros.com/nfl/news/606948/ashton-jeanty-ankle-expected-to-play-sunday.php
