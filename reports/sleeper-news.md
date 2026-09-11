@@ -2,14 +2,14 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2643**
-- Newly captured: **2**
+- Stored stories: **2642**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Jordan Mason** — Aaron Jones Sr. Could Lose Snaps to Backfield Mate in 2026 (2026-09-11T09:36:52Z)
+- **Jordan Mason** — Aaron Jones Sr. Could Lose Snaps to Backfield Mate in 2026 (2026-09-11T09:36:52Z)
   - Source: https://www.rotoballer.com/player-news/jordan-mason-threatens-aaron-jones-fantasy-value-in-2026/1928264
-- **NEW — Jordan James** — Jordan James Off Fantasy Radar After Losing RB2 Role (2026-09-11T09:30:06Z)
+- **Jordan James** — Jordan James Off Fantasy Radar After Losing RB2 Role (2026-09-11T09:30:06Z)
   - Source: https://www.rotoballer.com/player-news/jordan-james-off-fantasy-radar-after-losing-rb2-role-to-kaelon-black/1928239
 - **De'Zhaun Stribling** — De'Zhaun Stribling Likely to Miss Time (2026-09-11T09:20:05Z)
   - Source: https://www.rotoballer.com/player-news/rapsheet-dezhaun-stribling-likely-to-miss-time/1928217

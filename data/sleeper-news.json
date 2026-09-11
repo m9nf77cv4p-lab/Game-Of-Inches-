@@ -1,11 +1,8 @@
 {
-  "last_checked_at": "2026-09-11T13:47:12Z",
+  "last_checked_at": "2026-09-11T13:57:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [
-    "nfl|12467|rotoballer|220615|1789119006000",
-    "nfl|8408|rotoballer|220616|1789119412000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -53183,26 +53180,6 @@
       "story_id": "nfl|13346|rotoballer|218432|1786545185000",
       "title": "Denzel Boston \"Has What It Takes\" to Be a WR1",
       "url": "https://www.rotoballer.com/player-news/denzel-boston-has-what-it-takes-to-be-a-wr1/1907719"
-    },
-    {
-      "analysis": null,
-      "description": "New England Patriots tight end Hunter Henry keeps giving fantasy managers reasons not to forget about him. He caught 60 passes for a career-high 768 yards and seven touchdowns last season, finishing as the TE7 in half-PPR, and New England just gave him a two-year extension worth a reported $16 million. That matters, but so does what has happened on the field. Henry was the standout player in the Patriots' Aug. 3 practice, and he still sits at the top of a tight end room that includes third-round rookie Eli Raridon. Raridon has flashed in camp and should have a role, especially with New England using plenty of multi-tight end looks, but the Patriots have treated him more like Henry's eventual successor than an immediate replacement. There is more competition for targets after the additions of A.J. Brown and Romeo Doubs, so another TE7 finish is hardly a lock. Still, Henry has already shown he can produce with Drake Maye and remains RotoBaller's TE16. For managers who wait at tight end, he is one of the better late-round options still sitting outside the position's top tier.",
-      "metadata": {
-        "description": "New England Patriots tight end Hunter Henry keeps giving fantasy managers reasons not to forget about him. He caught 60 passes for a career-high 768 yards and seven touchdowns last season, finishing as the TE7 in half-PPR, and New England just gave him a two-year extension worth a reported $16 million. That matters, but so does what has happened on the field. Henry was the standout player in the Patriots' Aug. 3 practice, and he still sits at the top of a tight end room that includes third-round rookie Eli Raridon. Raridon has flashed in camp and should have a role, especially with New England using plenty of multi-tight end looks, but the Patriots have treated him more like Henry's eventual successor than an immediate replacement. There is more competition for targets after the additions of A.J. Brown and Romeo Doubs, so another TE7 finish is hardly a lock. Still, Henry has already shown he can produce with Drake Maye and remains RotoBaller's TE16. For managers who wait at tight end, he is one of the better late-round options still sitting outside the position's top tier.",
-        "title": "Hunter Henry's Role Still Makes Him a Late-Round Target",
-        "topic_id": "1393327277751676929",
-        "url": "https://www.rotoballer.com/player-news/hunter-henrys-role-still-makes-him-a-late-round-target/1907689"
-      },
-      "nfl_team": "NE",
-      "player_id": "3214",
-      "player_name": "Hunter Henry",
-      "position": "TE",
-      "published": 1786542716000,
-      "source": "rotoballer",
-      "source_key": "218427",
-      "story_id": "nfl|3214|rotoballer|218427|1786542716000",
-      "title": "Hunter Henry's Role Still Makes Him a Late-Round Target",
-      "url": "https://www.rotoballer.com/player-news/hunter-henrys-role-still-makes-him-a-late-round-target/1907689"
     }
   ]
 }
