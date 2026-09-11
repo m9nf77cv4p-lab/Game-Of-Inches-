@@ -2,17 +2,21 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2645**
-- Newly captured: **3**
+- Stored stories: **2647**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — Jeremiyah Love** — Jeremiyah Love (ankle) expected to play on Sunday (2026-09-11T15:05:27.967000Z)
+- **NEW — Jeremiyah Love** — Jeremiyah Love - Expected to play Sunday (2026-09-11T15:16:20Z)
+  - Love managed limited practice participation Wednesday and Thursday, so a full practice Friday would go a long way toward giving his fantasy managers confidence. It's not yet clear if the practice upgrade will happen, but Love apparently is expected to play in any case. It's also not clear how backfield work will be divided between the rookie and Tyler Allgeier.
+- **Jeremiyah Love** — Jeremiyah Love (ankle) expected to play on Sunday (2026-09-11T15:05:27.967000Z)
   - Love was electric in his limited preseason showing, and if he is fully ready to go, he should be electric yet again. Tyler Allgeier could very well eat into his workload, but don't let that stop you from putting Love in your lineup.
   - Source: https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php
-- **NEW — Zachariah Branch** — Zachariah Branch Not Projected to Start Early in Rookie Season (2026-09-11T11:05:05Z)
+- **NEW — Jeremiyah Love** — Jeremiyah Love's Week 1 Outlook Continues to Improve (2026-09-11T11:20:05Z)
+  - Source: https://www.rotoballer.com/player-news/jeremiyah-loves-week-1-outlook-continues-to-improve/1928412
+- **Zachariah Branch** — Zachariah Branch Not Projected to Start Early in Rookie Season (2026-09-11T11:05:05Z)
   - Source: https://www.rotoballer.com/player-news/zachariah-branch-not-projected-to-start-early-in-rookie-season/1928392
-- **NEW — Jauan Jennings** — Jauan Jennings Faces a Tougher Path to Targets in 2026 (2026-09-11T10:55:06Z)
+- **Jauan Jennings** — Jauan Jennings Faces a Tougher Path to Targets in 2026 (2026-09-11T10:55:06Z)
   - Source: https://www.rotoballer.com/player-news/jauan-jennings-faces-a-tougher-path-to-targets-in-2026/1928373
 - **Jerry Jeudy** — Jerry Jeudy Losing Ground to the Browns' Youth Movement (2026-09-11T10:32:07Z)
   - Source: https://www.rotoballer.com/player-news/jerry-jeudy-losing-ground-to-the-browns-youth-movement/1928331
@@ -239,8 +243,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Alec Pierce** — Alec Pierce (heel) listed as limited Thursday (2026-09-10T20:15:22.271000Z)
   - Pierce was limited for a second-straight practice on Thursday. It sounds like the team is still planning to have him play in Week 1, but it remains to be seen how many snaps he will get. Fantasy managers should pay attention to any updates about his health or workload ahead of Indianapolis' season opener against the Ravens this weekend.
   - Source: https://www.fantasypros.com/nfl/news/606969/alec-pierce-heel-listed-limited-thursday.php
-- **Alec Pierce** — Alec Pierce - Remains limited Thursday (2026-09-10T20:08:08Z)
-  - Pierce has kicked off Week 1 prep with a pair of limited practices, but he could still avoid an injury designation for Sunday's season opener against the Ravens by upgrading to full participation Friday. The Colts' leading receiver in 2025 is coming off an eventful offseason, during which Pierce underwent ankle surgery shortly after signing a four-year, $114 million contract in March. This current heel issue may be connected to that ankle procedure, which kept Pierce sidelined for all of training camp.
-- **Tua Tagovailoa** — Tua Tagovailoa (oblique) officially limited Thursday (2026-09-10T20:00:22.179000Z)
-  - Tagovailoa is a new addition to Atlanta's injury report. He seems to be dealing with an oblique injury of some kind, and it's currently unclear what effect it will have, if any, on his Week 1 availability. This is a situation that fantasy managers should be monitoring closely heading into the weekend.
-  - Source: https://www.fantasypros.com/nfl/news/606967/tua-tagovailoa-oblique-officially-limited-thursday.php

@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-11T15:17:05Z",
+  "last_checked_at": "2026-09-11T15:31:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13287|fantasy_pros|607111|1789139127967",
-    "nfl|13320|rotoballer|220622|1789124705000",
-    "nfl|7049|rotoballer|220621|1789124106000"
+    "nfl|13287|rotoballer|220624|1789125605000",
+    "nfl|13287|rotowire|636821|1789139780000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +14,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Love managed limited practice participation Wednesday and Thursday, so a full practice Friday would go a long way toward giving his fantasy managers confidence. It's not yet clear if the practice upgrade will happen, but Love apparently is expected to play in any case. It's also not clear how backfield work will be divided between the rookie and Tyler Allgeier.",
+      "description": "Love (ankle) is expected to play Sunday against the Chargers, Josh Weinfuss of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Love managed limited practice participation Wednesday and Thursday, so a full practice Friday would go a long way toward giving his fantasy managers confidence. It's not yet clear if the practice upgrade will happen, but Love apparently is expected to play in any case. It's also not clear how backfield work will be divided between the rookie and Tyler Allgeier.",
+        "description": "Love (ankle) is expected to play Sunday against the Chargers, Josh Weinfuss of ESPN.com reports.",
+        "title": "Jeremiyah Love - Expected to play Sunday",
+        "topic_id": "1404158680827473920"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1789139780000,
+      "source": "rotowire",
+      "source_key": "636821",
+      "story_id": "nfl|13287|rotowire|636821|1789139780000",
+      "title": "Jeremiyah Love - Expected to play Sunday",
+      "url": null
+    },
     {
       "analysis": "Love was electric in his limited preseason showing, and if he is fully ready to go, he should be electric yet again. Tyler Allgeier could very well eat into his workload, but don't let that stop you from putting Love in your lineup.",
       "description": "Jeremiyah Love (ankle) is expected to play on Sunday, per a report by Josh Weinfuss.",
@@ -35,6 +54,26 @@
       "story_id": "nfl|13287|fantasy_pros|607111|1789139127967",
       "title": "Jeremiyah Love (ankle) expected to play on Sunday",
       "url": "https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back Jeremiyah Love (ankle) is expected to play Sunday against the Los Angeles Chargers, according to Josh Weinfuss. Love has been trying to get back from the high-ankle sprain he suffered against Las Vegas on Aug. 13, and things have moved in the right direction this week. He was limited at practice Wednesday and Thursday after missing the remainder of the preseason. Love only got one game in before the injury, but he looked the part, rushing 11 times for 58 yards and catching all three of his targets for another 14. Arizona used the third overall pick on him in April, so there is obviously plenty of fantasy interest here. The bigger question is how much the Cardinals want to put on his plate right away. Tyler Allgeier is also available in the backfield, and Love has essentially missed a month of work. Still, this is another encouraging report for fantasy managers who drafted the rookie. Barring a setback, he now appears to be on track to make his NFL debut Sunday.",
+      "metadata": {
+        "description": "Arizona Cardinals running back Jeremiyah Love (ankle) is expected to play Sunday against the Los Angeles Chargers, according to Josh Weinfuss. Love has been trying to get back from the high-ankle sprain he suffered against Las Vegas on Aug. 13, and things have moved in the right direction this week. He was limited at practice Wednesday and Thursday after missing the remainder of the preseason. Love only got one game in before the injury, but he looked the part, rushing 11 times for 58 yards and catching all three of his targets for another 14. Arizona used the third overall pick on him in April, so there is obviously plenty of fantasy interest here. The bigger question is how much the Cardinals want to put on his plate right away. Tyler Allgeier is also available in the backfield, and Love has essentially missed a month of work. Still, this is another encouraging report for fantasy managers who drafted the rookie. Barring a setback, he now appears to be on track to make his NFL debut Sunday.",
+        "title": "Jeremiyah Love's Week 1 Outlook Continues to Improve",
+        "topic_id": "1404161196906516480",
+        "url": "https://www.rotoballer.com/player-news/jeremiyah-loves-week-1-outlook-continues-to-improve/1928412"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1789125605000,
+      "source": "rotoballer",
+      "source_key": "220624",
+      "story_id": "nfl|13287|rotoballer|220624|1789125605000",
+      "title": "Jeremiyah Love's Week 1 Outlook Continues to Improve",
+      "url": "https://www.rotoballer.com/player-news/jeremiyah-loves-week-1-outlook-continues-to-improve/1928412"
     },
     {
       "analysis": null,
