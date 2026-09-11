@@ -2,22 +2,31 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2684**
+- Stored stories: **2689**
 - Newly captured: **5**
 
 ## Latest news
 
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa (oblique) ruled out Sunday  (2026-09-11T17:35:29.143000Z)
+- **NEW — Cooper Rush** — Cooper Rush - Will start Sunday (2026-09-11T17:44:01Z)
+  - Tagovailoa suffered an oblique strain during Thursday's practice and now will join Michael Penix (knee) on the sideline this weekend. Rush handled the first-team reps in the final two sessions of Week 1 prep and thus will be under center Sunday, with Jack Strand backup him up. Because coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa "week-to-week," Rush could be in consideration for multiple starts to kick off the 2026 campaign.
+- **NEW — Tua Tagovailoa** — Tua Tagovailoa - Won't play Sunday (2026-09-11T17:36:18Z)
+  - Tagovailoa opened the week getting the call as Atlanta's Week 1 starting quarterback but ended it sidelined due to an oblique injury that he sustained during Thursday's practice. Coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa is "week-to-week, which would seem to suggest multiple DNPs are on the horizon for the QB. Iny any case, Tagovailoa will join Michael Penix (knee) in street clothes Sunday, while Cooper Rush gets the nod under center and Marc Raimondi of ESPN.com serves as his backup.
+- **Tua Tagovailoa** — Tua Tagovailoa (oblique) ruled out Sunday  (2026-09-11T17:35:29.143000Z)
   - Tagovailoa went down in practice on Thursday and did not practice on Friday. With Michael Penix Jr. not available yet, it will be Cooper Rush drawing the start on Sunday. 
   - Source: https://www.fantasypros.com/nfl/news/607164/tua-tagovailoa-oblique-ruled-out-sunday.php
-- **NEW — Rome Odunze** — Rome Odunze (calf) to practice Friday  (2026-09-11T17:35:29.096000Z)
+- **NEW — Cooper Rush** — Cooper Rush will start Sunday for Falcons  (2026-09-11T17:35:29.131000Z)
+  - Tua Tagovailoa was ruled out with an oblique injury. Rush took all the first-team reps in practice on Thursday and Friday. 
+  - Source: https://www.fantasypros.com/nfl/news/607165/cooper-rush-will-start-sunday-falcons.php
+- **Rome Odunze** — Rome Odunze (calf) to practice Friday  (2026-09-11T17:35:29.096000Z)
   - Odunze will be re-evaluated where he's at after practice. He remains uncertain for Sunday's game against the Panthers. 
   - Source: https://www.fantasypros.com/nfl/news/607167/rome-odunze-calf-to-practice-friday.php
-- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) will play in Week 1 (2026-09-11T17:35:29.081000Z)
+- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) will play in Week 1 (2026-09-11T17:35:29.081000Z)
   - Source: https://www.fantasypros.com/nfl/news/607168/jacory-croskey-merritt-groin-will-play-week-1.php
-- **NEW — Jack Strand** — Jack Strand to be backup QB for Falcons Sunday  (2026-09-11T17:35:29.066000Z)
+- **Jack Strand** — Jack Strand to be backup QB for Falcons Sunday  (2026-09-11T17:35:29.066000Z)
   - Tua Tagovailoa was ruled out with an oblique injury. Cooper Rush will get the start as a result. 
   - Source: https://www.fantasypros.com/nfl/news/607169/jack-strand-to-be-backup-qb-falcons-sunday.php
+- **NEW — Jalen McMillan** — Jalen McMillan - Doubtful to face Bengals on Sunday (2026-09-11T17:35:11Z)
+  - McMillan reportedly looked good at practice earlier this week, but the Bucs have been listing him as a limited participant and apparently don't expect a contribution this Sunday. Continued practice participation does hint at a shot to be back for Week 2 against Cleveland. With McMillan likely inactive this week, Chris Godwin and Emeka Egbuka should get plenty of snaps, with Tez Johnson and Ted Hurst also candidates for routes/targets.
 - **Emeka Egbuka** — Emeka Egbuka (toe) cleared for Week 1 (2026-09-11T17:20:28.544000Z)
   - Source: https://www.fantasypros.com/nfl/news/607157/emeka-egbuka-toe-cleared-week-1.php
 - **Jalen McMillan** — Jalen McMillan (knee) doubtful for Week 1 (2026-09-11T17:20:28.529000Z)
@@ -70,7 +79,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jeremiyah Love** — Jeremiyah Love (ankle) expected to play on Sunday (2026-09-11T15:05:27.967000Z)
   - Love was electric in his limited preseason showing, and if he is fully ready to go, he should be electric yet again. Tyler Allgeier could very well eat into his workload, but don't let that stop you from putting Love in your lineup.
   - Source: https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php
-- **NEW — Chris Bell** — Chris Bell Looks Good Heading into His First Career Start (2026-09-11T13:26:06Z)
+- **Chris Bell** — Chris Bell Looks Good Heading into His First Career Start (2026-09-11T13:26:06Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-looks-good-heading-into-his-first-career-start/1928568
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Cleared to Play Sunday (2026-09-11T13:14:05Z)
   - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-cleared-to-play-sunday/1928550
@@ -228,14 +237,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607042/max-klare-inactive-against-niners.php
 - **A.J. Brown** — A.J. Brown - Expected to miss four weeks (2026-09-10T23:37:37Z)
   - Brown is believed to be dealing with a high-ankle sprain that may require a stint on injured reserve, per NFL reporter Jordan Schultz. The good news is he suffered the injury on a Wednesday, which gives him a few extra days to rehab this week, but it's still looking like the star wideout will miss multiple games. While Brown is sidelined, the Patriots will need to lean on Romeo Doubs at wideout, while DeMario Douglas, Mack Hollins and Kyle Williams all figure to take on larger roles. Hunter Henry is also a candidate to see a bigger target share while Brown is sidelined.
-- **A.J. Brown** — A.J. Brown (ankle) expect to miss at least four weeks (2026-09-10T23:35:29.823000Z)
-  - It's a big blow to Brown's Fantasy stock to start the season. In his absence, expect Hunter Henry and Romeo Doubs to see more work. However, with Doubs was struggling to find snaps and catch the ball, it's possible that Demario Douglas could be a nice PPR sleeper.
-  - Source: https://www.fantasypros.com/nfl/news/607037/aj-brown-ankle-expect-to-miss-least-four-weeks.php
-- **Jeremiyah Love** — Jeremiyah Love (ankle) limited in practice Thursday (2026-09-10T23:35:29.808000Z)
-  - Love is still hopeful to play for Week 1, and his involvement in practice is a good sign that he will do so. It will be interesting to see if Tyler Allgeier gets the first crack at things with Love having dealt with an injury, but don't be surprised if the Cardinals lean on their talented and explosive rookie.
-  - Source: https://www.fantasypros.com/nfl/news/607038/jeremiyah-love-ankle-limited-practice-thursday.php
-- **Ty Simpson** — Ty Simpson out against Niners (2026-09-10T23:35:29.790000Z)
-  - Simpson will need to develop more before getting his shot at being the primary backup. He was impressive in the preseason, but the Rams are opting to let the rookie sit a little longer before trusting him further.
-  - Source: https://www.fantasypros.com/nfl/news/607039/ty-simpson-out-against-niners.php
-- **Jordan James** — Jordan James - Inactive Thursday (2026-09-10T23:34:25Z)
-  - The 2025 fifth-rounder will not suit up in Week 1, leaving Christian McCaffrey and rookie third-rounder Kaelon Black as the only healthy running backs active for the 49ers on Thursday. James' role moving forward may depend on how effective Black is to start the season.

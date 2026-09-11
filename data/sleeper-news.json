@@ -1,13 +1,13 @@
 {
-  "last_checked_at": "2026-09-11T17:37:22Z",
+  "last_checked_at": "2026-09-11T17:47:44Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 287,
   "new_story_ids": [
-    "nfl|11620|fantasy_pros|607167|1789148129096",
-    "nfl|12533|fantasy_pros|607168|1789148129081",
-    "nfl|13311|rotoballer|220637|1789133166000",
-    "nfl|13602|fantasy_pros|607169|1789148129066",
-    "nfl|6768|fantasy_pros|607164|1789148129143"
+    "nfl|11618|rotowire|636833|1789148111000",
+    "nfl|4574|fantasy_pros|607015|1789075829583",
+    "nfl|4574|fantasy_pros|607165|1789148129131",
+    "nfl|4574|rotowire|636836|1789148641000",
+    "nfl|6768|rotowire|636834|1789148178000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +17,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Tagovailoa suffered an oblique strain during Thursday's practice and now will join Michael Penix (knee) on the sideline this weekend. Rush handled the first-team reps in the final two sessions of Week 1 prep and thus will be under center Sunday, with Jack Strand backup him up. Because coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa \"week-to-week,\" Rush could be in consideration for multiple starts to kick off the 2026 campaign.",
+      "description": "Rush will start Sunday's game at Pittsburgh after Tua Tagovailoa (oblique) was ruled out for Week 1 action, NFL reporter Jordan Schultz reports.",
+      "metadata": {
+        "analysis": "Tagovailoa suffered an oblique strain during Thursday's practice and now will join Michael Penix (knee) on the sideline this weekend. Rush handled the first-team reps in the final two sessions of Week 1 prep and thus will be under center Sunday, with Jack Strand backup him up. Because coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa \"week-to-week,\" Rush could be in consideration for multiple starts to kick off the 2026 campaign.",
+        "description": "Rush will start Sunday's game at Pittsburgh after Tua Tagovailoa (oblique) was ruled out for Week 1 action, NFL reporter Jordan Schultz reports.",
+        "title": "Cooper Rush - Will start Sunday",
+        "topic_id": "1404195174585798656"
+      },
+      "nfl_team": "ATL",
+      "player_id": "4574",
+      "player_name": "Cooper Rush",
+      "position": "QB",
+      "published": 1789148641000,
+      "source": "rotowire",
+      "source_key": "636836",
+      "story_id": "nfl|4574|rotowire|636836|1789148641000",
+      "title": "Cooper Rush - Will start Sunday",
+      "url": null
+    },
+    {
+      "analysis": "Tagovailoa opened the week getting the call as Atlanta's Week 1 starting quarterback but ended it sidelined due to an oblique injury that he sustained during Thursday's practice. Coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa is \"week-to-week, which would seem to suggest multiple DNPs are on the horizon for the QB. Iny any case, Tagovailoa will join Michael Penix (knee) in street clothes Sunday, while Cooper Rush gets the nod under center and Marc Raimondi of ESPN.com serves as his backup.",
+      "description": "Tagovailoa (oblique) has been ruled out for Sunday's game at Pittsburgh, Tori McElhaney of the Falcons' official site reports.",
+      "metadata": {
+        "analysis": "Tagovailoa opened the week getting the call as Atlanta's Week 1 starting quarterback but ended it sidelined due to an oblique injury that he sustained during Thursday's practice. Coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa is \"week-to-week, which would seem to suggest multiple DNPs are on the horizon for the QB. Iny any case, Tagovailoa will join Michael Penix (knee) in street clothes Sunday, while Cooper Rush gets the nod under center and Marc Raimondi of ESPN.com serves as his backup.",
+        "description": "Tagovailoa (oblique) has been ruled out for Sunday's game at Pittsburgh, Tori McElhaney of the Falcons' official site reports.",
+        "title": "Tua Tagovailoa - Won't play Sunday",
+        "topic_id": "1404193916873359360"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1789148178000,
+      "source": "rotowire",
+      "source_key": "636834",
+      "story_id": "nfl|6768|rotowire|636834|1789148178000",
+      "title": "Tua Tagovailoa - Won't play Sunday",
+      "url": null
+    },
     {
       "analysis": "Tagovailoa went down in practice on Thursday and did not practice on Friday. With Michael Penix Jr. not available yet, it will be Cooper Rush drawing the start on Sunday. ",
       "description": "Falcons QB Tua Tagovailoa has been ruled out for Sunday's season opener against the Steelers. ",
@@ -37,6 +77,27 @@
       "story_id": "nfl|6768|fantasy_pros|607164|1789148129143",
       "title": "Tua Tagovailoa (oblique) ruled out Sunday ",
       "url": "https://www.fantasypros.com/nfl/news/607164/tua-tagovailoa-oblique-ruled-out-sunday.php"
+    },
+    {
+      "analysis": "Tua Tagovailoa was ruled out with an oblique injury. Rush took all the first-team reps in practice on Thursday and Friday. ",
+      "description": "Cooper Rush has been named the starter for the Falcons on Sunday against the Steelers. ",
+      "metadata": {
+        "analysis": "Tua Tagovailoa was ruled out with an oblique injury. Rush took all the first-team reps in practice on Thursday and Friday. ",
+        "description": "Cooper Rush has been named the starter for the Falcons on Sunday against the Steelers. ",
+        "title": "Cooper Rush will start Sunday for Falcons ",
+        "topic_id": "1404192664366108672",
+        "url": "https://www.fantasypros.com/nfl/news/607165/cooper-rush-will-start-sunday-falcons.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "4574",
+      "player_name": "Cooper Rush",
+      "position": "QB",
+      "published": 1789148129131,
+      "source": "fantasy_pros",
+      "source_key": "607165",
+      "story_id": "nfl|4574|fantasy_pros|607165|1789148129131",
+      "title": "Cooper Rush will start Sunday for Falcons ",
+      "url": "https://www.fantasypros.com/nfl/news/607165/cooper-rush-will-start-sunday-falcons.php"
     },
     {
       "analysis": "Odunze will be re-evaluated where he's at after practice. He remains uncertain for Sunday's game against the Panthers. ",
@@ -100,6 +161,26 @@
       "story_id": "nfl|13602|fantasy_pros|607169|1789148129066",
       "title": "Jack Strand to be backup QB for Falcons Sunday ",
       "url": "https://www.fantasypros.com/nfl/news/607169/jack-strand-to-be-backup-qb-falcons-sunday.php"
+    },
+    {
+      "analysis": "McMillan reportedly looked good at practice earlier this week, but the Bucs have been listing him as a limited participant and apparently don't expect a contribution this Sunday. Continued practice participation does hint at a shot to be back for Week 2 against Cleveland. With McMillan likely inactive this week, Chris Godwin and Emeka Egbuka should get plenty of snaps, with Tez Johnson and Ted Hurst also candidates for routes/targets.",
+      "description": "McMillan (knee) is doubtful for Sunday's game at Cincinnati, Scott Smith of the Buccaneers' official site reports.",
+      "metadata": {
+        "analysis": "McMillan reportedly looked good at practice earlier this week, but the Bucs have been listing him as a limited participant and apparently don't expect a contribution this Sunday. Continued practice participation does hint at a shot to be back for Week 2 against Cleveland. With McMillan likely inactive this week, Chris Godwin and Emeka Egbuka should get plenty of snaps, with Tez Johnson and Ted Hurst also candidates for routes/targets.",
+        "description": "McMillan (knee) is doubtful for Sunday's game at Cincinnati, Scott Smith of the Buccaneers' official site reports.",
+        "title": "Jalen McMillan - Doubtful to face Bengals on Sunday",
+        "topic_id": "1404193916852387840"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1789148111000,
+      "source": "rotowire",
+      "source_key": "636833",
+      "story_id": "nfl|11618|rotowire|636833|1789148111000",
+      "title": "Jalen McMillan - Doubtful to face Bengals on Sunday",
+      "url": null
     },
     {
       "analysis": "",
@@ -2315,6 +2396,27 @@
       "story_id": "nfl|11618|rotowire|636714|1789075977000",
       "title": "Jalen McMillan - Stays limited at practice",
       "url": null
+    },
+    {
+      "analysis": "This comes after Tua Tagovailoa reportedly went down during individual drills as he was holding his back. This will remain a situation to monitor on Friday, but it looks like Rush could be starting on Sunday. ",
+      "description": "Cooper Rush told reporters he took all the reps with the first-team in practice on Thursday. ",
+      "metadata": {
+        "analysis": "This comes after Tua Tagovailoa reportedly went down during individual drills as he was holding his back. This will remain a situation to monitor on Friday, but it looks like Rush could be starting on Sunday. ",
+        "description": "Cooper Rush told reporters he took all the reps with the first-team in practice on Thursday. ",
+        "title": "Cooper Rush takes first-team reps for Falcons Thursday ",
+        "topic_id": "1403889418078519296",
+        "url": "https://www.fantasypros.com/nfl/news/607015/cooper-rush-takes-first-team-reps-falcons-thursday.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "4574",
+      "player_name": "Cooper Rush",
+      "position": "QB",
+      "published": 1789075829583,
+      "source": "fantasy_pros",
+      "source_key": "607015",
+      "story_id": "nfl|4574|fantasy_pros|607015|1789075829583",
+      "title": "Cooper Rush takes first-team reps for Falcons Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/607015/cooper-rush-takes-first-team-reps-falcons-thursday.php"
     },
     {
       "analysis": "Per Ryan O'Halloran of The Florida Times-Union, Meyers was donning a non-contact jersey for the second day in a row while aiming to protect his injured right thumb. The fact that he's practiced in some fashion during the first two days of Week 1 prep is generally a positive sign for Meyers' status heading into Sunday's game against the Browns, but he may need to turn in a full practice Friday to avoid taking a designation into the weekend.",
