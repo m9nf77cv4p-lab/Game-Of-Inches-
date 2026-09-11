@@ -2,22 +2,33 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2679**
-- Newly captured: **7**
+- Stored stories: **2684**
+- Newly captured: **5**
 
 ## Latest news
 
-- **NEW — Emeka Egbuka** — Emeka Egbuka (toe) cleared for Week 1 (2026-09-11T17:20:28.544000Z)
+- **NEW — Tua Tagovailoa** — Tua Tagovailoa (oblique) ruled out Sunday  (2026-09-11T17:35:29.143000Z)
+  - Tagovailoa went down in practice on Thursday and did not practice on Friday. With Michael Penix Jr. not available yet, it will be Cooper Rush drawing the start on Sunday. 
+  - Source: https://www.fantasypros.com/nfl/news/607164/tua-tagovailoa-oblique-ruled-out-sunday.php
+- **NEW — Rome Odunze** — Rome Odunze (calf) to practice Friday  (2026-09-11T17:35:29.096000Z)
+  - Odunze will be re-evaluated where he's at after practice. He remains uncertain for Sunday's game against the Panthers. 
+  - Source: https://www.fantasypros.com/nfl/news/607167/rome-odunze-calf-to-practice-friday.php
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) will play in Week 1 (2026-09-11T17:35:29.081000Z)
+  - Source: https://www.fantasypros.com/nfl/news/607168/jacory-croskey-merritt-groin-will-play-week-1.php
+- **NEW — Jack Strand** — Jack Strand to be backup QB for Falcons Sunday  (2026-09-11T17:35:29.066000Z)
+  - Tua Tagovailoa was ruled out with an oblique injury. Cooper Rush will get the start as a result. 
+  - Source: https://www.fantasypros.com/nfl/news/607169/jack-strand-to-be-backup-qb-falcons-sunday.php
+- **Emeka Egbuka** — Emeka Egbuka (toe) cleared for Week 1 (2026-09-11T17:20:28.544000Z)
   - Source: https://www.fantasypros.com/nfl/news/607157/emeka-egbuka-toe-cleared-week-1.php
-- **NEW — Jalen McMillan** — Jalen McMillan (knee) doubtful for Week 1 (2026-09-11T17:20:28.529000Z)
+- **Jalen McMillan** — Jalen McMillan (knee) doubtful for Week 1 (2026-09-11T17:20:28.529000Z)
   - Source: https://www.fantasypros.com/nfl/news/607158/jalen-mcmillan-knee-doubtful-week-1.php
-- **NEW — Jonathon Brooks** — Jonathon Brooks (groin) not expected to face snap count Sunday  (2026-09-11T17:15:28.778000Z)
+- **Jonathon Brooks** — Jonathon Brooks (groin) not expected to face snap count Sunday  (2026-09-11T17:15:28.778000Z)
   - Brooks was able to practice three straight days this week. It remains unclear what the split between him and Chuba Hubbard will look like heading into the season. 
   - Source: https://www.fantasypros.com/nfl/news/607156/jonathon-brooks-groin-not-expected-to-face-snap-count-sunday.php
-- **NEW — Michael Penix** — Michael Penix Jr. cleared and considered healthy (2026-09-11T17:10:28.474000Z)
+- **Michael Penix** — Michael Penix Jr. cleared and considered healthy (2026-09-11T17:10:28.474000Z)
   - Penix will still be inactive for Week 1. He added that he's not where he feels he needs to be right now. He isn't expected to be sidelined for too much longer. 
   - Source: https://www.fantasypros.com/nfl/news/607154/michael-penix-jr-cleared-considered-healthy.php
-- **NEW — Rome Odunze** — Rome Odunze - Will practice Friday (2026-09-11T17:05:59Z)
+- **Rome Odunze** — Rome Odunze - Will practice Friday (2026-09-11T17:05:59Z)
   - Odunze was limited the previous two days, and Friday's session gives him one last chance to upgrade to full participation (or at least make a positive impression on coaches and the training staff). Coach Ben Johnson didn't mention expectations for the extent of Odunze's participation Friday. If Odunze ends up inactive Sunday at Carolina, the Bears will be left with a shaky WR group alongside Luther Burden. The top alternatives are Kalif Raymond, rookie Zavion Thomas and Jahdae Walker.
 - **Ja'Marr Chase** — Ja'Marr Chase (knee) cleared for Week 1 (2026-09-11T17:05:28.591000Z)
   - Source: https://www.fantasypros.com/nfl/news/607153/jamarr-chase-knee-cleared-week-1.php
@@ -41,7 +52,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Malik Nabers** — Malik Nabers (knee) preparing to practice Friday (2026-09-11T16:10:27.980000Z)
   - Nabers has practiced fully the entire week for head coach John Harbaugh, putting the superstar wideout on track to suit up for Sunday's season opener against the Dallas Cowboys and providing a boost to a Giants offense looking to put a forgettable 2025-26 in the rearview mirror.
   - Source: https://www.fantasypros.com/nfl/news/607135/malik-nabers-knee-preparing-to-practice-friday.php
-- **Jonathon Brooks** — Jonathon Brooks - Practicing again Friday (2026-09-11T15:51:27Z)
+- **Jonathon Brooks** — Jonathon Brooks - Practicing Friday morning (2026-09-11T15:51:27Z)
   - With Brooks having now been present for three consecutive practices, he's trending in the right direction for Sunday's opener against the Bears. Assuming no setbacks, he should split backfield work with Chuba Hubbard, who remains the favorite to start and has been a full practice participant all week.
 - **Jalen McMillan** — Jalen McMillan (knee) practicing in full (2026-09-11T15:40:28.014000Z)
   - After being limited by a knee issue on Thursday, McMillan showed no limitations on Friday. The third-year receiver is looking for a strong start after playing in only four games last season due to injury. 
@@ -59,9 +70,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jeremiyah Love** — Jeremiyah Love (ankle) expected to play on Sunday (2026-09-11T15:05:27.967000Z)
   - Love was electric in his limited preseason showing, and if he is fully ready to go, he should be electric yet again. Tyler Allgeier could very well eat into his workload, but don't let that stop you from putting Love in your lineup.
   - Source: https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php
-- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt Cleared to Play Sunday (2026-09-11T13:14:05Z)
+- **NEW — Chris Bell** — Chris Bell Looks Good Heading into His First Career Start (2026-09-11T13:26:06Z)
+  - Source: https://www.rotoballer.com/player-news/chris-bell-looks-good-heading-into-his-first-career-start/1928568
+- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Cleared to Play Sunday (2026-09-11T13:14:05Z)
   - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-cleared-to-play-sunday/1928550
-- **NEW — Jalen McMillan** — Jalen McMillan Considered Doubtful for Season Opener (2026-09-11T13:07:07Z)
+- **Jalen McMillan** — Jalen McMillan Considered Doubtful for Season Opener (2026-09-11T13:07:07Z)
   - Source: https://www.rotoballer.com/player-news/jalen-mcmillan-considered-doubtful-for-season-opener/1928542
 - **A.J. Brown** — Patriots Placing A.J. Brown on Injured Reserve (2026-09-11T12:52:00Z)
   - Source: https://www.rotoballer.com/player-news/patriots-placing-a-j-brown-on-injured-reserve/1928511
@@ -226,14 +239,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607039/ty-simpson-out-against-niners.php
 - **Jordan James** — Jordan James - Inactive Thursday (2026-09-10T23:34:25Z)
   - The 2025 fifth-rounder will not suit up in Week 1, leaving Christian McCaffrey and rookie third-rounder Kaelon Black as the only healthy running backs active for the 49ers on Thursday. James' role moving forward may depend on how effective Black is to start the season.
-- **Omar Cooper** — Omar Cooper Jr. Finishes Training Camp on a High Note (2026-09-10T23:00:07Z)
-  - Source: https://www.rotoballer.com/player-news/omar-cooper-jr-finishes-training-camp-on-a-high-note/1928072
-- **Jeremiyah Love** — Jeremiyah Love - Stays limited at practice (2026-09-10T22:56:37Z)
-  - Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities going from full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.
-- **Tua Tagovailoa** — Tua Tagovailoa - Suffers oblique strain (2026-09-10T22:41:20Z)
-  - Tagovailoa went to the ground during individual drills Thursday and then grabbed at his back after getting to his feet. Subsequently, he missed the rest of the session while reserve QB Cooper Rush handled all the reps with the first-team offense. Tagovailoa officially was a limited participant in the Falcons' second practice of Week 1 prep, and the potential now exists for him to join Michael Penix (knee) in street clothes this weekend. The team may make a decision on Tagovailoa's status as soon as Friday's injury report, and if he's ruled out, Rush would be in line to direct Atlanta's offense Sunday at Pittsburgh.
-- **Tua Tagovailoa** — Tua Tagovailoa (oblique) day-to-day, uncertain for Sunday (2026-09-10T22:40:29.734000Z)
-  - This isn't a great indicator of Tua's status for Sunday, but it might not change much if Rush starts given the reports of Tua's play during training camp. It will be a situation to monitor ahead of Sunday, and it also speaks to Michael Penix's health, given he was not first up behind Tua at practice at this point.
-  - Source: https://www.fantasypros.com/nfl/news/607035/tua-tagovailoa-oblique-day-to-day-uncertain-sunday.php
-- **Isiah Pacheco** — Isiah Pacheco Without a Timetable For a Return, Quickly Losing Value (2026-09-10T22:40:05Z)
-  - Source: https://www.rotoballer.com/player-news/isiah-pacheco-without-a-timetable-for-his-return-quickly-losing-value/1928062

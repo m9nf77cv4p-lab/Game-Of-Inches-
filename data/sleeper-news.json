@@ -1,15 +1,13 @@
 {
-  "last_checked_at": "2026-09-11T17:24:02Z",
+  "last_checked_at": "2026-09-11T17:37:22Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 287,
   "new_story_ids": [
-    "nfl|11559|fantasy_pros|607154|1789146628474",
-    "nfl|11583|fantasy_pros|607156|1789146928778",
-    "nfl|11618|fantasy_pros|607158|1789147228529",
-    "nfl|11618|rotoballer|220635|1789132027000",
-    "nfl|11620|rotowire|636831|1789146359000",
-    "nfl|12514|fantasy_pros|607157|1789147228544",
-    "nfl|12533|rotoballer|220636|1789132445000"
+    "nfl|11620|fantasy_pros|607167|1789148129096",
+    "nfl|12533|fantasy_pros|607168|1789148129081",
+    "nfl|13311|rotoballer|220637|1789133166000",
+    "nfl|13602|fantasy_pros|607169|1789148129066",
+    "nfl|6768|fantasy_pros|607164|1789148129143"
   ],
   "schema_version": 1,
   "source": {
@@ -19,6 +17,90 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Tagovailoa went down in practice on Thursday and did not practice on Friday. With Michael Penix Jr. not available yet, it will be Cooper Rush drawing the start on Sunday. ",
+      "description": "Falcons QB Tua Tagovailoa has been ruled out for Sunday's season opener against the Steelers. ",
+      "metadata": {
+        "analysis": "Tagovailoa went down in practice on Thursday and did not practice on Friday. With Michael Penix Jr. not available yet, it will be Cooper Rush drawing the start on Sunday. ",
+        "description": "Falcons QB Tua Tagovailoa has been ruled out for Sunday's season opener against the Steelers. ",
+        "title": "Tua Tagovailoa (oblique) ruled out Sunday ",
+        "topic_id": "1404192664429023232",
+        "url": "https://www.fantasypros.com/nfl/news/607164/tua-tagovailoa-oblique-ruled-out-sunday.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1789148129143,
+      "source": "fantasy_pros",
+      "source_key": "607164",
+      "story_id": "nfl|6768|fantasy_pros|607164|1789148129143",
+      "title": "Tua Tagovailoa (oblique) ruled out Sunday ",
+      "url": "https://www.fantasypros.com/nfl/news/607164/tua-tagovailoa-oblique-ruled-out-sunday.php"
+    },
+    {
+      "analysis": "Odunze will be re-evaluated where he's at after practice. He remains uncertain for Sunday's game against the Panthers. ",
+      "description": "Bears head coach Ben Johnson said Rome Odunze will practice on Friday. ",
+      "metadata": {
+        "analysis": "Odunze will be re-evaluated where he's at after practice. He remains uncertain for Sunday's game against the Panthers. ",
+        "description": "Bears head coach Ben Johnson said Rome Odunze will practice on Friday. ",
+        "title": "Rome Odunze (calf) to practice Friday ",
+        "topic_id": "1404192664223502336",
+        "url": "https://www.fantasypros.com/nfl/news/607167/rome-odunze-calf-to-practice-friday.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1789148129096,
+      "source": "fantasy_pros",
+      "source_key": "607167",
+      "story_id": "nfl|11620|fantasy_pros|607167|1789148129096",
+      "title": "Rome Odunze (calf) to practice Friday ",
+      "url": "https://www.fantasypros.com/nfl/news/607167/rome-odunze-calf-to-practice-friday.php"
+    },
+    {
+      "analysis": "",
+      "description": "Jacory Croskey-Merritt (groin) will play in Week 1 for the Washington Commanders against the Philadelphia Eagles according to Ian Rapoport.",
+      "metadata": {
+        "analysis": "",
+        "description": "Jacory Croskey-Merritt (groin) will play in Week 1 for the Washington Commanders against the Philadelphia Eagles according to Ian Rapoport.",
+        "title": "Jacory Croskey-Merritt (groin) will play in Week 1",
+        "topic_id": "1404192664160587776",
+        "url": "https://www.fantasypros.com/nfl/news/607168/jacory-croskey-merritt-groin-will-play-week-1.php"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1789148129081,
+      "source": "fantasy_pros",
+      "source_key": "607168",
+      "story_id": "nfl|12533|fantasy_pros|607168|1789148129081",
+      "title": "Jacory Croskey-Merritt (groin) will play in Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/607168/jacory-croskey-merritt-groin-will-play-week-1.php"
+    },
+    {
+      "analysis": "Tua Tagovailoa was ruled out with an oblique injury. Cooper Rush will get the start as a result. ",
+      "description": "Jack Strand will enter Sunday's season opener for the Falcons as the backup quarterback. ",
+      "metadata": {
+        "analysis": "Tua Tagovailoa was ruled out with an oblique injury. Cooper Rush will get the start as a result. ",
+        "description": "Jack Strand will enter Sunday's season opener for the Falcons as the backup quarterback. ",
+        "title": "Jack Strand to be backup QB for Falcons Sunday ",
+        "topic_id": "1404192664097673216",
+        "url": "https://www.fantasypros.com/nfl/news/607169/jack-strand-to-be-backup-qb-falcons-sunday.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "13602",
+      "player_name": "Jack Strand",
+      "position": "QB",
+      "published": 1789148129066,
+      "source": "fantasy_pros",
+      "source_key": "607169",
+      "story_id": "nfl|13602|fantasy_pros|607169|1789148129066",
+      "title": "Jack Strand to be backup QB for Falcons Sunday ",
+      "url": "https://www.fantasypros.com/nfl/news/607169/jack-strand-to-be-backup-qb-falcons-sunday.php"
+    },
     {
       "analysis": "",
       "description": "Emeka Egbuka (toe) is cleared to play in Week 1 for the Tampa Bay Buccaneers against the Cincinnati Bengals according to Greg Auman.",
@@ -334,7 +416,7 @@
       "metadata": {
         "analysis": "With Brooks having now been present for three consecutive practices, he's trending in the right direction for Sunday's opener against the Bears. Assuming no setbacks, he should split backfield work with Chuba Hubbard, who remains the favorite to start and has been a full practice participant all week.",
         "description": "Brooks (groin) was in uniform for Friday's practice, his third straight session, Mike Kaye of ESPN.com reports.",
-        "title": "Jonathon Brooks - Practicing again Friday",
+        "title": "Jonathon Brooks - Practicing Friday morning",
         "topic_id": "1404167489214001152"
       },
       "nfl_team": "CAR",
@@ -345,7 +427,7 @@
       "source": "rotowire",
       "source_key": "636825",
       "story_id": "nfl|11583|rotowire|636825|1789141887000",
-      "title": "Jonathon Brooks - Practicing again Friday",
+      "title": "Jonathon Brooks - Practicing Friday morning",
       "url": null
     },
     {
@@ -471,6 +553,26 @@
       "story_id": "nfl|13287|fantasy_pros|607111|1789139127967",
       "title": "Jeremiyah Love (ankle) expected to play on Sunday",
       "url": "https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins rookie wide receiver Chris Bell fell to the third round of the 2026 NFL Draft and missed most of his first training camp while rehabbing from the ACL tear that ended his collegiate career, but since his return, he has made headlines with his instant acclimation to the Dolphins offense. Bell has already been named a starter for Miami's season-opening matchup with the Raiders, and on Friday, beat reporter Joe Schad shared that he stood out during the media accessible portion of practice, catching passes in the end zone from quarterback Malik Willis. Bell saw action in only one preseason game, but he was targeted five times in roughly 10 minutes of game action, as the team wasted no time getting him up to speed. As RotoBaller's WR74 for Week 1, he's a difficult play given the unknowns and the low expectations surrounding Miami's offense. Still, for fantasy managers already coming into Sunday as heavy underdogs, he represents a big swing who could be featured heavily in his first career game against a less-than-formidable opponent.",
+      "metadata": {
+        "description": "Miami Dolphins rookie wide receiver Chris Bell fell to the third round of the 2026 NFL Draft and missed most of his first training camp while rehabbing from the ACL tear that ended his collegiate career, but since his return, he has made headlines with his instant acclimation to the Dolphins offense. Bell has already been named a starter for Miami's season-opening matchup with the Raiders, and on Friday, beat reporter Joe Schad shared that he stood out during the media accessible portion of practice, catching passes in the end zone from quarterback Malik Willis. Bell saw action in only one preseason game, but he was targeted five times in roughly 10 minutes of game action, as the team wasted no time getting him up to speed. As RotoBaller's WR74 for Week 1, he's a difficult play given the unknowns and the low expectations surrounding Miami's offense. Still, for fantasy managers already coming into Sunday as heavy underdogs, he represents a big swing who could be featured heavily in his first career game against a less-than-formidable opponent.",
+        "title": "Chris Bell Looks Good Heading into His First Career Start",
+        "topic_id": "1404191398047047680",
+        "url": "https://www.rotoballer.com/player-news/chris-bell-looks-good-heading-into-his-first-career-start/1928568"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1789133166000,
+      "source": "rotoballer",
+      "source_key": "220637",
+      "story_id": "nfl|13311|rotoballer|220637|1789133166000",
+      "title": "Chris Bell Looks Good Heading into His First Career Start",
+      "url": "https://www.rotoballer.com/player-news/chris-bell-looks-good-heading-into-his-first-career-start/1928568"
     },
     {
       "analysis": null,
