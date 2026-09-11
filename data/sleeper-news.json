@@ -1,8 +1,11 @@
 {
-  "last_checked_at": "2026-09-11T06:30:37Z",
+  "last_checked_at": "2026-09-11T07:34:46Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|2216|rotoballer|220610|1789096871000",
+    "nfl|4034|rotoballer|220609|1789096626000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -564,6 +567,46 @@
       "story_id": "nfl|11783|rotowire|636802|1789097515000",
       "title": "Ryan Flournoy - Signs one-year extension",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver made good on the hype surrounding his signing in Thursday night's 27-7 win over the Los Angeles Rams. Evans brought in six of his seven targets for 49 yards and one touchdown in the season opener. Evans was involved early and often on pivotal plays, converting four third downs in the first half (three on the first drive alone). His lone missed target came on a third-and-three just before halftime. Evans' lone catch in the second half was a two-yard touchdown that helped the 49ers pull away. With his size and abilities as a receiver, it is easy to see Evans becoming a preferred target for quarterback Brock Purdy in the weeks to come. In Week 2, Evans will get a plum matchup against the Miami Dolphins at home.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver made good on the hype surrounding his signing in Thursday night's 27-7 win over the Los Angeles Rams. Evans brought in six of his seven targets for 49 yards and one touchdown in the season opener. Evans was involved early and often on pivotal plays, converting four third downs in the first half (three on the first drive alone). His lone missed target came on a third-and-three just before halftime. Evans' lone catch in the second half was a two-yard touchdown that helped the 49ers pull away. With his size and abilities as a receiver, it is easy to see Evans becoming a preferred target for quarterback Brock Purdy in the weeks to come. In Week 2, Evans will get a plum matchup against the Miami Dolphins at home.",
+        "title": "Mike Evans Scores TD In 49ers Debut",
+        "topic_id": "1404040385944166400",
+        "url": "https://www.rotoballer.com/player-news/mike-evans-scores-td-in-49ers-debut/1928112"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1789096871000,
+      "source": "rotoballer",
+      "source_key": "220610",
+      "story_id": "nfl|2216|rotoballer|220610|1789096871000",
+      "title": "Mike Evans Scores TD In 49ers Debut",
+      "url": "https://www.rotoballer.com/player-news/mike-evans-scores-td-in-49ers-debut/1928112"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers running back Christian McCaffrey led the team in rushing yards on Thursday night, gaining 68 on 10 carries. The versatile back also led the team in targets with eight, converting them into five receptions for 20 yards through the air. McCaffrey's 55% snap share on Thursday paled in comparison to his heavy usage in 2025. The 49ers involved second-stringer Kaelon Black early and often to spell McCaffrey, and the duo ended the game with the same amount of total touches. San Francisco scored 24 unanswered points following the Rams' second-quarter touchdown, providing the team the right script to be conservative with McCaffrey. Even if the 49ers make good on their talk of finding ways to preserve their star running back, McCaffrey's effectiveness when on the field will keep him in contention as one of the best at his position every week. In Week 2, McCaffrey will face the Miami Dolphins in the 49ers' home opener.",
+      "metadata": {
+        "description": "San Francisco 49ers running back Christian McCaffrey led the team in rushing yards on Thursday night, gaining 68 on 10 carries. The versatile back also led the team in targets with eight, converting them into five receptions for 20 yards through the air. McCaffrey's 55% snap share on Thursday paled in comparison to his heavy usage in 2025. The 49ers involved second-stringer Kaelon Black early and often to spell McCaffrey, and the duo ended the game with the same amount of total touches. San Francisco scored 24 unanswered points following the Rams' second-quarter touchdown, providing the team the right script to be conservative with McCaffrey. Even if the 49ers make good on their talk of finding ways to preserve their star running back, McCaffrey's effectiveness when on the field will keep him in contention as one of the best at his position every week. In Week 2, McCaffrey will face the Miami Dolphins in the 49ers' home opener.",
+        "title": "Christian McCaffrey Has Modest Production In Lopsided Victory",
+        "topic_id": "1404039127644549120",
+        "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-has-modest-production-in-lopsided-victory/1928110"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1789096626000,
+      "source": "rotoballer",
+      "source_key": "220609",
+      "story_id": "nfl|4034|rotoballer|220609|1789096626000",
+      "title": "Christian McCaffrey Has Modest Production In Lopsided Victory",
+      "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-has-modest-production-in-lopsided-victory/1928110"
     },
     {
       "analysis": "Stribling was quickly ruled out after being carted back to the locker room, which is not good. There should be a further update after Thursday's game or by this weekend. ",

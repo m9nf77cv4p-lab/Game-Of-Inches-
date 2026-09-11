@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2638**
-- Newly captured: **0**
+- Stored stories: **2640**
+- Newly captured: **2**
 
 ## Latest news
 
@@ -75,6 +75,10 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607057/matthew-stafford-quiet-loss-to-niners.php
 - **Ryan Flournoy** — Ryan Flournoy - Signs one-year extension (2026-09-11T03:31:55Z)
   - Flournoy has been a nice find for the Cowboys after they selected him in the sixth round of the 2024 NFL Draft. The wideout tallied a career-best 40 catches for 475 yards and four touchdowns over 16 regular-season games last year and is set for a larger role as the team's No. 3 wide receiver in 2026. Flournoy now is in line to remain with Dallas through 2027, and he could be a great value if he proves to be productive with potentially increased opportunities during the upcoming campaign.
+- **NEW — Mike Evans** — Mike Evans Scores TD In 49ers Debut (2026-09-11T03:21:11Z)
+  - Source: https://www.rotoballer.com/player-news/mike-evans-scores-td-in-49ers-debut/1928112
+- **NEW — Christian McCaffrey** — Christian McCaffrey Has Modest Production In Lopsided Victory (2026-09-11T03:17:06Z)
+  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-has-modest-production-in-lopsided-victory/1928110
 - **De'Zhaun Stribling** — De'Zhaun Stribling (ankle) ruled out for rest of game Thursday  (2026-09-11T02:00:31.363000Z)
   - Stribling was quickly ruled out after being carted back to the locker room, which is not good. There should be a further update after Thursday's game or by this weekend. 
   - Source: https://www.fantasypros.com/nfl/news/607054/dezhaun-stribling-ankle-ruled-out-rest-game-thursday.php
@@ -243,8 +247,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/a-j-brown-to-miss-at-least-four-weeks/1927951
 - **Rome Odunze** — Rome Odunze - Limited again Thursday (2026-09-10T19:31:41Z)
   - Odunze was limited for a second day in a row as his status remains unclear going into Week 1. Friday's injury report should provide some clarity, but even then, the Bears may not make a final call on Odunze until Sunday. An absence from Odunze this weekend would open playing time for Kalif Raymond or Zavion Thomas.
-- **Rome Odunze** — Rome Odunze (calf) limited again Thursday (2026-09-10T19:30:21.874000Z)
-  - Odunze was limited for a second-straight practice on Thursday as he continues to recover from a lingering calf injury. It's uncertain whether or not he will play in Week 1, but if he is ruled out, fantasy managers should expect more work for Luther Burden III and Zavion Thomas against the Panthers.
-  - Source: https://www.fantasypros.com/nfl/news/606962/rome-odunze-calf-limited-again-thursday.php
-- **Sam Darnold** — Sam Darnold has Unusual Strain, Timetable Remains TBD (2026-09-10T19:24:05Z)
-  - Source: https://www.rotoballer.com/player-news/sam-darnold-has-unusual-strain-timetable-remains-tbd/1927947
