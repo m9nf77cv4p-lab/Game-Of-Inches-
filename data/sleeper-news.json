@@ -1,13 +1,16 @@
 {
-  "last_checked_at": "2026-09-11T03:58:19Z",
+  "last_checked_at": "2026-09-11T04:17:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11586|fantasy_pros|607061|1789098616300",
-    "nfl|12487|fantasy_pros|607062|1789098616599",
-    "nfl|2133|fantasy_pros|607060|1789098616316",
-    "nfl|8150|fantasy_pros|607058|1789098616345",
-    "nfl|9493|fantasy_pros|607059|1789098616332"
+    "nfl|13417|fantasy_pros|607065|1789099216708",
+    "nfl|13417|rotowire|636804|1789099107000",
+    "nfl|2216|fantasy_pros|607067|1789099816581",
+    "nfl|4034|fantasy_pros|607066|1789099816595",
+    "nfl|4034|rotowire|636803|1789098974000",
+    "nfl|4217|fantasy_pros|607068|1789099816568",
+    "nfl|8150|rotowire|636806|1789099720000",
+    "nfl|9493|rotowire|636805|1789099281000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +20,170 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "McCaffrey surprisingly had a split backfield with Kaelon Black, at least much more than expected. The veteran tied Black in touches, 15 to 15, but had the edge in opportunities, 18 to 15, thanks to receiving. It will be interesting to see if this is a Week 1 fluke or a recurring theme, as Black was involved throughout the game, not just when the game was well in hand. Still, CMC is a top-tier asset, and while today was fine, bigger days are ahead.",
+      "description": "Christian McCaffrey ran 10 times for 68 yards and caught five of eight targets for 20 yards in the 49ers' 27-7 win over the Rams on Thursday.",
+      "metadata": {
+        "analysis": "McCaffrey surprisingly had a split backfield with Kaelon Black, at least much more than expected. The veteran tied Black in touches, 15 to 15, but had the edge in opportunities, 18 to 15, thanks to receiving. It will be interesting to see if this is a Week 1 fluke or a recurring theme, as Black was involved throughout the game, not just when the game was well in hand. Still, CMC is a top-tier asset, and while today was fine, bigger days are ahead.",
+        "description": "Christian McCaffrey ran 10 times for 68 yards and caught five of eight targets for 20 yards in the 49ers' 27-7 win over the Rams on Thursday.",
+        "title": "Christian McCaffrey racks up 88 scrimmage yards in win",
+        "topic_id": "1403990026911481856",
+        "url": "https://www.fantasypros.com/nfl/news/607066/christian-mccaffrey-racks-up-88-scrimmage-yards-win.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1789099816595,
+      "source": "fantasy_pros",
+      "source_key": "607066",
+      "story_id": "nfl|4034|fantasy_pros|607066|1789099816595",
+      "title": "Christian McCaffrey racks up 88 scrimmage yards in win",
+      "url": "https://www.fantasypros.com/nfl/news/607066/christian-mccaffrey-racks-up-88-scrimmage-yards-win.php"
+    },
+    {
+      "analysis": "Evans had a nice end zone fade touchdown over a Rams DB who was draped all over him, as well as plenty of third-down usage. He's looking like a potential draft-day steal if his momentum keeps up. This is especially true if De'Zhaun Stribling misses extended time with an ankle injury.",
+      "description": "Mike Evans caught six of seven targets for 49 yards and a touchdown in the 49ers' 27-7 blowout win over the Rams on Thursday.",
+      "metadata": {
+        "analysis": "Evans had a nice end zone fade touchdown over a Rams DB who was draped all over him, as well as plenty of third-down usage. He's looking like a potential draft-day steal if his momentum keeps up. This is especially true if De'Zhaun Stribling misses extended time with an ankle injury.",
+        "description": "Mike Evans caught six of seven targets for 49 yards and a touchdown in the 49ers' 27-7 blowout win over the Rams on Thursday.",
+        "title": "Mike Evans snags touchdown in 49ers debut",
+        "topic_id": "1403990026852761600",
+        "url": "https://www.fantasypros.com/nfl/news/607067/mike-evans-snags-touchdown-49ers-debut.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1789099816581,
+      "source": "fantasy_pros",
+      "source_key": "607067",
+      "story_id": "nfl|2216|fantasy_pros|607067|1789099816581",
+      "title": "Mike Evans snags touchdown in 49ers debut",
+      "url": "https://www.fantasypros.com/nfl/news/607067/mike-evans-snags-touchdown-49ers-debut.php"
+    },
+    {
+      "analysis": "Kittle was involved, that's for sure, but his small output won't cut it for fantasy managers who are relying on him. As he continues to ramp up and recover from his Achilles tear, he should see his involvement tick upwards.",
+      "description": "George Kittle caught two of five targets for 12 yards in the 49ers' 27-7 demolition of the Rams on Thursday.",
+      "metadata": {
+        "analysis": "Kittle was involved, that's for sure, but his small output won't cut it for fantasy managers who are relying on him. As he continues to ramp up and recover from his Achilles tear, he should see his involvement tick upwards.",
+        "description": "George Kittle caught two of five targets for 12 yards in the 49ers' 27-7 demolition of the Rams on Thursday.",
+        "title": "George Kittle snags two passes in win",
+        "topic_id": "1403990026798235648",
+        "url": "https://www.fantasypros.com/nfl/news/607068/george-kittle-snags-two-passes-win.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1789099816568,
+      "source": "fantasy_pros",
+      "source_key": "607068",
+      "story_id": "nfl|4217|fantasy_pros|607068|1789099816568",
+      "title": "George Kittle snags two passes in win",
+      "url": "https://www.fantasypros.com/nfl/news/607068/george-kittle-snags-two-passes-win.php"
+    },
+    {
+      "analysis": "Williams worked in what was just one carry short of an even timeshare with Blake Corum in terms of rushing work, outpacing the latter by that one rush attempt and gaining 13 fewer yards in the process. However, Williams was the only one of the two to have a pass-game role, and he was the sole Rams player to cross the goal line in an alarmingly poor performance by the offense via a five-yard power run on the first play of the second quarter. It remains to be seen if the Week 1 division of labor will have staying power, with the next opportunity to see how matters play out coming in a Week 2 home matchup against the Giants on Monday night, Sept. 21.",
+      "description": "Williams rushed 11 times for 41 yards and a touchdown and brought in all three targets for 24 yards during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia.",
+      "metadata": {
+        "analysis": "Williams worked in what was just one carry short of an even timeshare with Blake Corum in terms of rushing work, outpacing the latter by that one rush attempt and gaining 13 fewer yards in the process. However, Williams was the only one of the two to have a pass-game role, and he was the sole Rams player to cross the goal line in an alarmingly poor performance by the offense via a five-yard power run on the first play of the second quarter. It remains to be seen if the Week 1 division of labor will have staying power, with the next opportunity to see how matters play out coming in a Week 2 home matchup against the Giants on Monday night, Sept. 21.",
+        "description": "Williams rushed 11 times for 41 yards and a touchdown and brought in all three targets for 24 yards during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia.",
+        "title": "Kyren Williams - Records TD in Week 1 loss",
+        "topic_id": "1403990025191817216"
+      },
+      "nfl_team": "LAR",
+      "player_id": "8150",
+      "player_name": "Kyren Williams",
+      "position": "RB",
+      "published": 1789099720000,
+      "source": "rotowire",
+      "source_key": "636806",
+      "story_id": "nfl|8150|rotowire|636806|1789099720000",
+      "title": "Kyren Williams - Records TD in Week 1 loss",
+      "url": null
+    },
+    {
+      "analysis": "Nacua was in the familiar position of leading the Rams in receptions, receiving yards and targets, but in a game where Los Angeles' offense surprisingly sputtered and Matthew Stafford threw for only 155 yards, those figures were still below the star wide receiver's lofty standards. Nacua's role as Stafford's unquestioned top target remains locked in, and despite the lackluster season-opening team performance, the fourth-year receiver should have plenty of opportunity to bounce back in a Week 2 home matchup against the Giants on Monday night, Sept. 21.",
+      "description": "Nacua brought in five of nine targets for 74 yards during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia.",
+      "metadata": {
+        "analysis": "Nacua was in the familiar position of leading the Rams in receptions, receiving yards and targets, but in a game where Los Angeles' offense surprisingly sputtered and Matthew Stafford threw for only 155 yards, those figures were still below the star wide receiver's lofty standards. Nacua's role as Stafford's unquestioned top target remains locked in, and despite the lackluster season-opening team performance, the fourth-year receiver should have plenty of opportunity to bounce back in a Week 2 home matchup against the Giants on Monday night, Sept. 21.",
+        "description": "Nacua brought in five of nine targets for 74 yards during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia.",
+        "title": "Puka Nacua - Solid numbers in Week 1 loss",
+        "topic_id": "1403988768934916096"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1789099281000,
+      "source": "rotowire",
+      "source_key": "636805",
+      "story_id": "nfl|9493|rotowire|636805|1789099281000",
+      "title": "Puka Nacua - Solid numbers in Week 1 loss",
+      "url": null
+    },
+    {
+      "analysis": "While the rookie failed to put up anything in the box score, he was playing the majority of the offensive snaps before he left due to the injury. He will likely miss time, but his usage early on is encouraging, and it will be interesting to see how the team treats him when he returns.",
+      "description": "De'Zhaun Stribling (ankle) suffered an ankle injury on Thursday against the Rams, but his Achilles is intact. Before leaving the Niners' 27-7 win, Stribling failed to record a stat.",
+      "metadata": {
+        "analysis": "While the rookie failed to put up anything in the box score, he was playing the majority of the offensive snaps before he left due to the injury. He will likely miss time, but his usage early on is encouraging, and it will be interesting to see how the team treats him when he returns.",
+        "description": "De'Zhaun Stribling (ankle) suffered an ankle injury on Thursday against the Rams, but his Achilles is intact. Before leaving the Niners' 27-7 win, Stribling failed to record a stat.",
+        "title": "De'Zhaun Stribling (ankle) suffers ankle injury Thursday, Achilles is OK",
+        "topic_id": "1403987510790504448",
+        "url": "https://www.fantasypros.com/nfl/news/607065/dezhaun-stribling-ankle-suffers-ankle-injury-thursday-achilles-is-ok.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1789099216708,
+      "source": "fantasy_pros",
+      "source_key": "607065",
+      "story_id": "nfl|13417|fantasy_pros|607065|1789099216708",
+      "title": "De'Zhaun Stribling (ankle) suffers ankle injury Thursday, Achilles is OK",
+      "url": "https://www.fantasypros.com/nfl/news/607065/dezhaun-stribling-ankle-suffers-ankle-injury-thursday-achilles-is-ok.php"
+    },
+    {
+      "analysis": "After suffering his ankle injury in the first quarter Thursday against the Rams, Stribling came back in the game in the second quarter and abruptly left again after he fell to the ground in pain while running a route. While he's avoided an Achilles injury, Stribling's ankle injury did look to be pretty serious after he had to be helped off the field and then carted to the locker room. The good news is the 49ers have 10 days before their next game. Stribling will undergo further testing to determine the extent of the injury.",
+      "description": "Stribling (ankle) avoided an Achilles injury Thursday against the Rams after initial tests revealed his Achilles is intact, James Palmer of The Athletic reports.",
+      "metadata": {
+        "analysis": "After suffering his ankle injury in the first quarter Thursday against the Rams, Stribling came back in the game in the second quarter and abruptly left again after he fell to the ground in pain while running a route. While he's avoided an Achilles injury, Stribling's ankle injury did look to be pretty serious after he had to be helped off the field and then carted to the locker room. The good news is the 49ers have 10 days before their next game. Stribling will undergo further testing to determine the extent of the injury.",
+        "description": "Stribling (ankle) avoided an Achilles injury Thursday against the Rams after initial tests revealed his Achilles is intact, James Palmer of The Athletic reports.",
+        "title": "De'Zhaun Stribling - Avoids Achilles injury",
+        "topic_id": "1403987510173921280"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1789099107000,
+      "source": "rotowire",
+      "source_key": "636804",
+      "story_id": "nfl|13417|rotowire|636804|1789099107000",
+      "title": "De'Zhaun Stribling - Avoids Achilles injury",
+      "url": null
+    },
+    {
+      "analysis": "Coming off a 2025 regular season where he was able to suit up for all 17 games while handling 413 total touches, McCaffrey saw a notable workload reduction to open the new campaign. Rookie third-round pick Kaelon Black actually outpaced McCaffrey by four carries, but it was the latter who edged out his new backfield mate for the team lead in rushing yards. McCaffrey flashed his trademark explosiveness when carrying the ball and should still helm the ground attack on the majority of weeks, although lopsided game scripts in either direction could lead to head coach Kyle Shanahan taking the opportunity to curtail his star running back's volume. McCaffrey will next take aim at what is expected to be a vulnerable Dolphins defense in a Week 2 matchup on Sunday, Sept. 20.",
+      "description": "McCaffrey rushed 10 times for 68 yards and brought in five of eight targets for 20 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
+      "metadata": {
+        "analysis": "Coming off a 2025 regular season where he was able to suit up for all 17 games while handling 413 total touches, McCaffrey saw a notable workload reduction to open the new campaign. Rookie third-round pick Kaelon Black actually outpaced McCaffrey by four carries, but it was the latter who edged out his new backfield mate for the team lead in rushing yards. McCaffrey flashed his trademark explosiveness when carrying the ball and should still helm the ground attack on the majority of weeks, although lopsided game scripts in either direction could lead to head coach Kyle Shanahan taking the opportunity to curtail his star running back's volume. McCaffrey will next take aim at what is expected to be a vulnerable Dolphins defense in a Week 2 matchup on Sunday, Sept. 20.",
+        "description": "McCaffrey rushed 10 times for 68 yards and brought in five of eight targets for 20 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
+        "title": "Christian McCaffrey - Efficient with modest workload",
+        "topic_id": "1403987510165532672"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1789098974000,
+      "source": "rotowire",
+      "source_key": "636803",
+      "story_id": "nfl|4034|rotowire|636803|1789098974000",
+      "title": "Christian McCaffrey - Efficient with modest workload",
+      "url": null
+    },
     {
       "analysis": "The hopeful breakout for Ferguson came to a screeching halt on Thursday, with the tight end failing to garner a target until late in the game, and failing to bring it in at that. However, the entire Rams offense was dysfunctional; no one had a great day for fantasy aside from maybe Kyren Williams and Puka Nacua, depending on your criteria. And second, Ferguson was present on most of the snaps when the starters were in, a big increase from his part time role in 2025. Hopefully, with his snaps now increased, the targets will come. We may just have to wait a week for the Rams to figure out what happened to them and get back on track. ",
       "description": "Terrance Ferguson failed to catch his lone target in the Rams' 27-7 blowout loss to the 49ers.",
@@ -632,10 +799,10 @@
       "url": "https://www.rotoballer.com/player-news/david-njoku-generating-positive-camp-buzz-for-chemistry-and-athleticism/1928035"
     },
     {
-      "analysis": "Head coach Klint Kubiak has yet to officially rule Bowers out for Sunday's season opener versus the Dolphins, but the standout tight end is fully expected to be sidelined for Week 1 -- and likely, additional games beyond that -- after Adam Schefter and Ian Rapoport of ESPN reported that Bowers underwent a meniscus trim procedure Tuesday. Though the previous report indicated that Bowers is expected to miss \"a game or two,\" Schefter clarified Thursday in an appearance on \"The Pat McAfee Show\" that that timeline is coming from the tight end's camp and may be overly optimistic. For however long Bowers is sidelined, Michael Mayer is expected to take on an expanded role in the passing game as the Raiders' top tight end, and starting wideouts Tre Tucker and Jalen Nailor will also have clearer paths to elevated target counts.",
+      "analysis": "Head coach Klint Kubiak has yet to officially rule Bowers out for Sunday's season opener versus the Dolphins, but the standout tight end is fully expected to be sidelined for Week 1 -- and likely, additional games beyond that -- after Adam Schefter of ESPN and Ian Rapoport of ESPN and NFL Network reported that Bowers underwent a meniscus trim procedure Tuesday. Though the previous report indicated that Bowers is expected to miss \"a game or two,\" Schefter clarified Thursday in an appearance on \"The Pat McAfee Show\" that that timeline is coming from the tight end's camp and may be overly optimistic. For however long Bowers is sidelined, Michael Mayer is expected to take on an expanded role in the passing game as the Raiders' top tight end, and starting wideouts Tre Tucker and Jalen Nailor also will have clearer paths to elevated target counts.",
       "description": "Bowers (knee) remained a non-participant in Thursday's practice, Anthony Galaviz of The Fresno Bee reports.",
       "metadata": {
-        "analysis": "Head coach Klint Kubiak has yet to officially rule Bowers out for Sunday's season opener versus the Dolphins, but the standout tight end is fully expected to be sidelined for Week 1 -- and likely, additional games beyond that -- after Adam Schefter and Ian Rapoport of ESPN reported that Bowers underwent a meniscus trim procedure Tuesday. Though the previous report indicated that Bowers is expected to miss \"a game or two,\" Schefter clarified Thursday in an appearance on \"The Pat McAfee Show\" that that timeline is coming from the tight end's camp and may be overly optimistic. For however long Bowers is sidelined, Michael Mayer is expected to take on an expanded role in the passing game as the Raiders' top tight end, and starting wideouts Tre Tucker and Jalen Nailor will also have clearer paths to elevated target counts.",
+        "analysis": "Head coach Klint Kubiak has yet to officially rule Bowers out for Sunday's season opener versus the Dolphins, but the standout tight end is fully expected to be sidelined for Week 1 -- and likely, additional games beyond that -- after Adam Schefter of ESPN and Ian Rapoport of ESPN and NFL Network reported that Bowers underwent a meniscus trim procedure Tuesday. Though the previous report indicated that Bowers is expected to miss \"a game or two,\" Schefter clarified Thursday in an appearance on \"The Pat McAfee Show\" that that timeline is coming from the tight end's camp and may be overly optimistic. For however long Bowers is sidelined, Michael Mayer is expected to take on an expanded role in the passing game as the Raiders' top tight end, and starting wideouts Tre Tucker and Jalen Nailor also will have clearer paths to elevated target counts.",
         "description": "Bowers (knee) remained a non-participant in Thursday's practice, Anthony Galaviz of The Fresno Bee reports.",
         "title": "Brock Bowers - Sits out practice, set to miss time",
         "topic_id": "1403898221469679616"
@@ -1164,10 +1331,10 @@
       "url": "https://www.fantasypros.com/nfl/news/606971/zay-flowers-hamstring-upgraded-to-full-participant-thursday.php"
     },
     {
-      "analysis": "Nabers logged full practices Wednesday and Thursday, but his comments suggest the Giants still haven't made a final call on his Week 1 availability as Nabers works his way back from a torn ACL sustained in Week 4 of last season. Evan Barnes of Newsday Sports adds that Nabers is still deciding whether or not to play as he weighs the long-term implications of his recovery. The recent practice workload is an encouraging sign, but Nabers' fantasy managers would be in a tough spot if he doesn't avoid an injury designation Friday, since replacement options will be limited since the Giants play on Sunday Night Football in Week 1.",
+      "analysis": "Nabers logged full practices Wednesday and Thursday, but his comments suggest the Giants still haven't made a final call on his Week 1 availability as Nabers works his way back from a torn ACL sustained in Week 4 of last season. Evan Barnes of Newsday Sports adds that Nabers is still deciding whether or not to play as he weighs the long-term implications of his recovery. The recent practice workload is an encouraging sign, but Nabers' fantasy managers would be in a tough spot if he doesn't avoid an injury designation Friday, since replacement options will be limited with the Giants playing on Sunday Night Football this weekend.",
       "description": "Nabers (knee) said Thursday that he feels good but declined to commit publicly to playing Sunday against the Cowboys, Art Stapleton of USA Today reports.",
       "metadata": {
-        "analysis": "Nabers logged full practices Wednesday and Thursday, but his comments suggest the Giants still haven't made a final call on his Week 1 availability as Nabers works his way back from a torn ACL sustained in Week 4 of last season. Evan Barnes of Newsday Sports adds that Nabers is still deciding whether or not to play as he weighs the long-term implications of his recovery. The recent practice workload is an encouraging sign, but Nabers' fantasy managers would be in a tough spot if he doesn't avoid an injury designation Friday, since replacement options will be limited since the Giants play on Sunday Night Football in Week 1.",
+        "analysis": "Nabers logged full practices Wednesday and Thursday, but his comments suggest the Giants still haven't made a final call on his Week 1 availability as Nabers works his way back from a torn ACL sustained in Week 4 of last season. Evan Barnes of Newsday Sports adds that Nabers is still deciding whether or not to play as he weighs the long-term implications of his recovery. The recent practice workload is an encouraging sign, but Nabers' fantasy managers would be in a tough spot if he doesn't avoid an injury designation Friday, since replacement options will be limited with the Giants playing on Sunday Night Football this weekend.",
         "description": "Nabers (knee) said Thursday that he feels good but declined to commit publicly to playing Sunday against the Cowboys, Art Stapleton of USA Today reports.",
         "title": "Malik Nabers - Still uncertain for Sunday",
         "topic_id": "1403873024943366144"
@@ -1450,10 +1617,10 @@
       "url": "https://www.rotoballer.com/player-news/a-j-brown-to-miss-at-least-four-weeks/1927951"
     },
     {
-      "analysis": "Odunze was limited for a second day in a row on Thursday as his status remains unclear going into Week 1. Friday's injury report should provide some clarity, but even then, the Bears may not make a final call on Odunze until Sunday. An absence from Odunze on Sunday would open playing time for Kalif Raymond or Zavion Thomas.",
+      "analysis": "Odunze was limited for a second day in a row as his status remains unclear going into Week 1. Friday's injury report should provide some clarity, but even then, the Bears may not make a final call on Odunze until Sunday. An absence from Odunze this weekend would open playing time for Kalif Raymond or Zavion Thomas.",
       "description": "Odunze (calf) was listed as a limited participant for Thursday's practice.",
       "metadata": {
-        "analysis": "Odunze was limited for a second day in a row on Thursday as his status remains unclear going into Week 1. Friday's injury report should provide some clarity, but even then, the Bears may not make a final call on Odunze until Sunday. An absence from Odunze on Sunday would open playing time for Kalif Raymond or Zavion Thomas.",
+        "analysis": "Odunze was limited for a second day in a row as his status remains unclear going into Week 1. Friday's injury report should provide some clarity, but even then, the Bears may not make a final call on Odunze until Sunday. An absence from Odunze this weekend would open playing time for Kalif Raymond or Zavion Thomas.",
         "description": "Odunze (calf) was listed as a limited participant for Thursday's practice.",
         "title": "Rome Odunze - Limited again Thursday",
         "topic_id": "1403860440861134848"

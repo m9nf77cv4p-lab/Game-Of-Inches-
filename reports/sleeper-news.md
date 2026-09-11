@@ -2,24 +2,44 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2611**
-- Newly captured: **5**
+- Stored stories: **2619**
+- Newly captured: **8**
 
 ## Latest news
 
-- **NEW — Terrance Ferguson** — Terrance Ferguson quiet in loss to 49ers (2026-09-11T03:50:16.599000Z)
+- **NEW — Christian McCaffrey** — Christian McCaffrey racks up 88 scrimmage yards in win (2026-09-11T04:10:16.595000Z)
+  - McCaffrey surprisingly had a split backfield with Kaelon Black, at least much more than expected. The veteran tied Black in touches, 15 to 15, but had the edge in opportunities, 18 to 15, thanks to receiving. It will be interesting to see if this is a Week 1 fluke or a recurring theme, as Black was involved throughout the game, not just when the game was well in hand. Still, CMC is a top-tier asset, and while today was fine, bigger days are ahead.
+  - Source: https://www.fantasypros.com/nfl/news/607066/christian-mccaffrey-racks-up-88-scrimmage-yards-win.php
+- **NEW — Mike Evans** — Mike Evans snags touchdown in 49ers debut (2026-09-11T04:10:16.581000Z)
+  - Evans had a nice end zone fade touchdown over a Rams DB who was draped all over him, as well as plenty of third-down usage. He's looking like a potential draft-day steal if his momentum keeps up. This is especially true if De'Zhaun Stribling misses extended time with an ankle injury.
+  - Source: https://www.fantasypros.com/nfl/news/607067/mike-evans-snags-touchdown-49ers-debut.php
+- **NEW — George Kittle** — George Kittle snags two passes in win (2026-09-11T04:10:16.568000Z)
+  - Kittle was involved, that's for sure, but his small output won't cut it for fantasy managers who are relying on him. As he continues to ramp up and recover from his Achilles tear, he should see his involvement tick upwards.
+  - Source: https://www.fantasypros.com/nfl/news/607068/george-kittle-snags-two-passes-win.php
+- **NEW — Kyren Williams** — Kyren Williams - Records TD in Week 1 loss (2026-09-11T04:08:40Z)
+  - Williams worked in what was just one carry short of an even timeshare with Blake Corum in terms of rushing work, outpacing the latter by that one rush attempt and gaining 13 fewer yards in the process. However, Williams was the only one of the two to have a pass-game role, and he was the sole Rams player to cross the goal line in an alarmingly poor performance by the offense via a five-yard power run on the first play of the second quarter. It remains to be seen if the Week 1 division of labor will have staying power, with the next opportunity to see how matters play out coming in a Week 2 home matchup against the Giants on Monday night, Sept. 21.
+- **NEW — Puka Nacua** — Puka Nacua - Solid numbers in Week 1 loss (2026-09-11T04:01:21Z)
+  - Nacua was in the familiar position of leading the Rams in receptions, receiving yards and targets, but in a game where Los Angeles' offense surprisingly sputtered and Matthew Stafford threw for only 155 yards, those figures were still below the star wide receiver's lofty standards. Nacua's role as Stafford's unquestioned top target remains locked in, and despite the lackluster season-opening team performance, the fourth-year receiver should have plenty of opportunity to bounce back in a Week 2 home matchup against the Giants on Monday night, Sept. 21.
+- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling (ankle) suffers ankle injury Thursday, Achilles is OK (2026-09-11T04:00:16.708000Z)
+  - While the rookie failed to put up anything in the box score, he was playing the majority of the offensive snaps before he left due to the injury. He will likely miss time, but his usage early on is encouraging, and it will be interesting to see how the team treats him when he returns.
+  - Source: https://www.fantasypros.com/nfl/news/607065/dezhaun-stribling-ankle-suffers-ankle-injury-thursday-achilles-is-ok.php
+- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling - Avoids Achilles injury (2026-09-11T03:58:27Z)
+  - After suffering his ankle injury in the first quarter Thursday against the Rams, Stribling came back in the game in the second quarter and abruptly left again after he fell to the ground in pain while running a route. While he's avoided an Achilles injury, Stribling's ankle injury did look to be pretty serious after he had to be helped off the field and then carted to the locker room. The good news is the 49ers have 10 days before their next game. Stribling will undergo further testing to determine the extent of the injury.
+- **NEW — Christian McCaffrey** — Christian McCaffrey - Efficient with modest workload (2026-09-11T03:56:14Z)
+  - Coming off a 2025 regular season where he was able to suit up for all 17 games while handling 413 total touches, McCaffrey saw a notable workload reduction to open the new campaign. Rookie third-round pick Kaelon Black actually outpaced McCaffrey by four carries, but it was the latter who edged out his new backfield mate for the team lead in rushing yards. McCaffrey flashed his trademark explosiveness when carrying the ball and should still helm the ground attack on the majority of weeks, although lopsided game scripts in either direction could lead to head coach Kyle Shanahan taking the opportunity to curtail his star running back's volume. McCaffrey will next take aim at what is expected to be a vulnerable Dolphins defense in a Week 2 matchup on Sunday, Sept. 20.
+- **Terrance Ferguson** — Terrance Ferguson quiet in loss to 49ers (2026-09-11T03:50:16.599000Z)
   - The hopeful breakout for Ferguson came to a screeching halt on Thursday, with the tight end failing to garner a target until late in the game, and failing to bring it in at that. However, the entire Rams offense was dysfunctional; no one had a great day for fantasy aside from maybe Kyren Williams and Puka Nacua, depending on your criteria. And second, Ferguson was present on most of the snaps when the starters were in, a big increase from his part time role in 2025. Hopefully, with his snaps now increased, the targets will come. We may just have to wait a week for the Rams to figure out what happened to them and get back on track. 
   - Source: https://www.fantasypros.com/nfl/news/607062/terrance-ferguson-quiet-loss-to-49ers.php
-- **NEW — Kyren Williams** — Kyren Williams punches in score in loss to Niners (2026-09-11T03:50:16.345000Z)
+- **Kyren Williams** — Kyren Williams punches in score in loss to Niners (2026-09-11T03:50:16.345000Z)
   - Williams' day was saved by the touchdown; otherwise it was fairly miserable. Blake Corum showed out in his opportunities, but he was limited to ground work only. Kyren appears to be in a committee now, but he at least has the edge in passing situations, giving him more appeal.
   - Source: https://www.fantasypros.com/nfl/news/607058/kyren-williams-punches-score-loss-to-niners.php
-- **NEW — Puka Nacua** — Puka Nacua goes for 74 yards in loss (2026-09-11T03:50:16.332000Z)
+- **Puka Nacua** — Puka Nacua goes for 74 yards in loss (2026-09-11T03:50:16.332000Z)
   - Puka was the only Ram who had more than 26 receiving yards, and most of those yards came on a nice catch and run early on in the game. His final total was respectable, but fantasy managers will hope for more next time he's out on the field.
   - Source: https://www.fantasypros.com/nfl/news/607059/puka-nacua-goes-74-yards-loss.php
-- **NEW — Davante Adams** — Davante Adams quiet in loss to 49ers (2026-09-11T03:50:16.316000Z)
+- **Davante Adams** — Davante Adams quiet in loss to 49ers (2026-09-11T03:50:16.316000Z)
   - Adams could just not get much going against the Niners. On the bright side, his six targets were second on the team, so he's still earning opportunities. It just wasn't his day, as was the story for most of the team. He will try to improve next time out.
   - Source: https://www.fantasypros.com/nfl/news/607060/davante-adams-quiet-loss-to-49ers.php
-- **NEW — Blake Corum** — Blake Corum totals 54 yards in loss (2026-09-11T03:50:16.300000Z)
+- **Blake Corum** — Blake Corum totals 54 yards in loss (2026-09-11T03:50:16.300000Z)
   - Corum was solid on the ground at 5.4 a carry, but that was about all he had going for him. Without a touchdown or receiving work to go along with his yardage, it was a disappointing fantasy performance. However, his usage is encouraging; the Rams at least trust him enough that they will split Kyren Williams' workload with Corum. It makes him a top-tier handcuff RB, and one that should be rostered in case anything happens to Kyren.
   - Source: https://www.fantasypros.com/nfl/news/607061/blake-corum-totals-54-yards-loss.php
 - **Matthew Stafford** — Matthew Stafford quiet in loss to Niners (2026-09-11T03:35:16.817000Z)
@@ -82,7 +102,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **David Njoku** — David Njoku Generating Positive Camp Buzz For Chemistry and Athleticism (2026-09-10T22:12:06Z)
   - Source: https://www.rotoballer.com/player-news/david-njoku-generating-positive-camp-buzz-for-chemistry-and-athleticism/1928035
 - **Brock Bowers** — Brock Bowers - Sits out practice, set to miss time (2026-09-10T22:00:50Z)
-  - Head coach Klint Kubiak has yet to officially rule Bowers out for Sunday's season opener versus the Dolphins, but the standout tight end is fully expected to be sidelined for Week 1 -- and likely, additional games beyond that -- after Adam Schefter and Ian Rapoport of ESPN reported that Bowers underwent a meniscus trim procedure Tuesday. Though the previous report indicated that Bowers is expected to miss "a game or two," Schefter clarified Thursday in an appearance on "The Pat McAfee Show" that that timeline is coming from the tight end's camp and may be overly optimistic. For however long Bowers is sidelined, Michael Mayer is expected to take on an expanded role in the passing game as the Raiders' top tight end, and starting wideouts Tre Tucker and Jalen Nailor will also have clearer paths to elevated target counts.
+  - Head coach Klint Kubiak has yet to officially rule Bowers out for Sunday's season opener versus the Dolphins, but the standout tight end is fully expected to be sidelined for Week 1 -- and likely, additional games beyond that -- after Adam Schefter of ESPN and Ian Rapoport of ESPN and NFL Network reported that Bowers underwent a meniscus trim procedure Tuesday. Though the previous report indicated that Bowers is expected to miss "a game or two," Schefter clarified Thursday in an appearance on "The Pat McAfee Show" that that timeline is coming from the tight end's camp and may be overly optimistic. For however long Bowers is sidelined, Michael Mayer is expected to take on an expanded role in the passing game as the Raiders' top tight end, and starting wideouts Tre Tucker and Jalen Nailor also will have clearer paths to elevated target counts.
 - **Keaton Mitchell** — Keaton Mitchell - Stays limited in practice (2026-09-10T21:54:52Z)
   - The Chargers put a cap on Mitchell's reps for a second straight day, but his ability to practice in any capacity on consecutive days to kick off Week 1 prep is an encouraging sign for his chances of playing in Sunday's season opener versus the Cardinals. If he's cleared to play against Arizona, Mitchell would likely be in line for a complementary role behind lead back Omarion Hampton.
 - **Marvin Mims** — Marvin Mims - Practices fully to kick off Week 1 prep (2026-09-10T21:43:43Z)
@@ -146,7 +166,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Flowers has been dealing with a hamstring injury for a while, but it seems that he is finally over it, as he was upgraded to a full participant at practice on Thursday after being limited on Wednesday. He should be good to go in Week 1 and can be safely started in most league formats, especially PPR leagues.
   - Source: https://www.fantasypros.com/nfl/news/606971/zay-flowers-hamstring-upgraded-to-full-participant-thursday.php
 - **Malik Nabers** — Malik Nabers - Still uncertain for Sunday (2026-09-10T20:20:45Z)
-  - Nabers logged full practices Wednesday and Thursday, but his comments suggest the Giants still haven't made a final call on his Week 1 availability as Nabers works his way back from a torn ACL sustained in Week 4 of last season. Evan Barnes of Newsday Sports adds that Nabers is still deciding whether or not to play as he weighs the long-term implications of his recovery. The recent practice workload is an encouraging sign, but Nabers' fantasy managers would be in a tough spot if he doesn't avoid an injury designation Friday, since replacement options will be limited since the Giants play on Sunday Night Football in Week 1.
+  - Nabers logged full practices Wednesday and Thursday, but his comments suggest the Giants still haven't made a final call on his Week 1 availability as Nabers works his way back from a torn ACL sustained in Week 4 of last season. Evan Barnes of Newsday Sports adds that Nabers is still deciding whether or not to play as he weighs the long-term implications of his recovery. The recent practice workload is an encouraging sign, but Nabers' fantasy managers would be in a tough spot if he doesn't avoid an injury designation Friday, since replacement options will be limited with the Giants playing on Sunday Night Football this weekend.
 - **Alec Pierce** — Alec Pierce (heel) listed as limited Thursday (2026-09-10T20:15:22.271000Z)
   - Pierce was limited for a second-straight practice on Thursday. It sounds like the team is still planning to have him play in Week 1, but it remains to be seen how many snaps he will get. Fantasy managers should pay attention to any updates about his health or workload ahead of Indianapolis' season opener against the Ravens this weekend.
   - Source: https://www.fantasypros.com/nfl/news/606969/alec-pierce-heel-listed-limited-thursday.php
@@ -180,7 +200,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **A.J. Brown** — A.J. Brown to Miss at Least Four Weeks (2026-09-10T19:32:07Z)
   - Source: https://www.rotoballer.com/player-news/a-j-brown-to-miss-at-least-four-weeks/1927951
 - **Rome Odunze** — Rome Odunze - Limited again Thursday (2026-09-10T19:31:41Z)
-  - Odunze was limited for a second day in a row on Thursday as his status remains unclear going into Week 1. Friday's injury report should provide some clarity, but even then, the Bears may not make a final call on Odunze until Sunday. An absence from Odunze on Sunday would open playing time for Kalif Raymond or Zavion Thomas.
+  - Odunze was limited for a second day in a row as his status remains unclear going into Week 1. Friday's injury report should provide some clarity, but even then, the Bears may not make a final call on Odunze until Sunday. An absence from Odunze this weekend would open playing time for Kalif Raymond or Zavion Thomas.
 - **Rome Odunze** — Rome Odunze (calf) limited again Thursday (2026-09-10T19:30:21.874000Z)
   - Odunze was limited for a second-straight practice on Thursday as he continues to recover from a lingering calf injury. It's uncertain whether or not he will play in Week 1, but if he is ruled out, fantasy managers should expect more work for Luther Burden III and Zavion Thomas against the Panthers.
   - Source: https://www.fantasypros.com/nfl/news/606962/rome-odunze-calf-limited-again-thursday.php
@@ -229,20 +249,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Allen worked with the starters for most of the preseason while Hall was sidelined by a groin injury. Hall practiced without limitations Wednesday, as did Isaiah Davis (knee), who is listed third on the team's unofficial depth chart. Allen is listed at 235 pounds and has reportedly bulked up to around 250. The 2024 fourth-round pick's large frame could help Allen command valuable goal-line and short-yardage work even while Hall is healthy.
 - **Ted Hurst** — Ted Hurst - Talked up by OC (2026-09-10T17:41:46Z)
   - Hurst is likely to begin his career in a depth role, though the rookie third-round pick out of Georgia State could see some involvement on offense out of the gate, especially if Jalen McMillan (knee) isn't cleared to face the Bengals in Week 1. McMillan practiced on a limited basis Wednesday, while Emeka Egbuka practiced fully after dealing with a recent toe injury. Egbuka and Chris Godwin figure to get most of the targets among Tampa Bay's wide receivers, though the 6-foot-3 Hurst showed the ability to stretch the field in college and may not need heavy volume to make an impact.
-- **Patrick Mahomes** — Patrick Mahomes Practicing in Full Ahead of Season Opener (2026-09-10T17:40:07Z)
-  - Source: https://www.rotoballer.com/player-news/patrick-mahomes-practicing-in-full-ahead-of-season-opener/1927889
-- **Cam Ward** — Cam Ward a Year 2 Breakout Candidate Entering 2026? (2026-09-10T16:57:06Z)
-  - Source: https://www.rotoballer.com/player-news/cam-ward-a-year-two-breakout-candidate-entering-2026/1927878
-- **Ashton Jeanty** — Ashton Jeanty Feels "Really Good" Ahead of Week 1 (2026-09-10T16:50:16Z)
-  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-feels-really-good-ahead-of-week-1/1927876
-- **Sam Darnold** — Sam Darnold (hip) expected to miss Week 2 (2026-09-10T16:50:04.794000Z)
-  - Darnold is continuing to be further evaluated. He'll miss at least one game with a return by Week 3 seemingly being a possibility. 
-  - Source: https://www.fantasypros.com/nfl/news/606941/sam-darnold-hip-expected-to-miss-week-2.php
-- **Sam Darnold** — Sam Darnold - Expected to miss at least one game (2026-09-10T16:47:54Z)
-  - Darnold avoided a major injury, but he's likely to miss at least one game as a result of the hip injury he sustained in the first quarter of Wednesday's 13-10 win over the Patriots. Assuming he's ruled out for Week 2, Darnold will have 18 days of recovery time between Wednesday's win and Seattle's Week 3 road game against the Commanders. Drew Lock, who threw for 187 yards and a touchdown after replacing Darnold on Wednesday, is expected to get the Week 2 start under center.
-- **Alec Pierce** — Alec Pierce Limited Again on Thursday (2026-09-10T16:42:11Z)
-  - Source: https://www.rotoballer.com/player-news/alec-pierce-limited-again-on-thursday/1927870
-- **Breece Hall** — Breece Hall - Expected to avoid snap count (2026-09-10T16:41:54Z)
-  - Hall initially received a recovery timetable of 2-to-3 weeks after sustaining a groin strain Aug. 17. Just over three weeks has passed since that date, and Hall practiced without limitations Wednesday, suggesting he has made a full recovery. Braelon Allen and Isaiah Davis, the latter of whom has been cleared to return from a knee injury sustained during training camp, could factor into the game plan as change-of-pace options, but Hall is expected to lead the Jets backfield and handle his normal workload against the Titans in Week 1.
-- **Gunnar Helm** — Gunnar Helm a Deep-League Sleeper to Target on the Waiver Wire (2026-09-10T16:37:15Z)
-  - Source: https://www.rotoballer.com/player-news/gunnar-helm-a-deep-league-sleeper-to-target-on-the-waiver-wire/1927866
