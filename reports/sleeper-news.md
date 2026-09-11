@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2604**
-- Newly captured: **0**
+- Stored stories: **2605**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -46,6 +46,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607039/ty-simpson-out-against-niners.php
 - **Jordan James** — Jordan James - Inactive Thursday (2026-09-10T23:34:25Z)
   - The 2025 fifth-rounder will not suit up in Week 1, leaving Christian McCaffrey and rookie third-rounder Kaelon Black as the only healthy running backs active for the 49ers on Thursday. James' role moving forward may depend on how effective Black is to start the season.
+- **NEW — Omar Cooper** — Omar Cooper Jr. Finishes Training Camp on a High Note (2026-09-10T23:00:07Z)
+  - Source: https://www.rotoballer.com/player-news/omar-cooper-jr-finishes-training-camp-on-a-high-note/1928072
 - **Jeremiyah Love** — Jeremiyah Love - Stays limited at practice (2026-09-10T22:56:37Z)
   - Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities going from full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.
 - **Tua Tagovailoa** — Tua Tagovailoa - Suffers oblique strain (2026-09-10T22:41:20Z)
@@ -240,5 +242,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/zay-flowers-upgraded-to-full-participation-on-thursday-injury-report/1927835
 - **Josh Jacobs** — Josh Jacobs - Makes court appearance Thursday (2026-09-10T16:12:45Z)
   - Per Rob Demovsky of ESPN.com, Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, but as a result of his plea, the NFL could remove him from the list and instead issue a suspension.
-- **Nicholas Singleton** — Nicholas Singleton Still Worth Stashing Despite Crowded Backfield (2026-09-10T16:10:10Z)
-  - Source: https://www.rotoballer.com/player-news/nicholas-singleton-still-worth-stashing-despite-crowded-backfield/1927831

@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-11T03:00:13Z",
+  "last_checked_at": "2026-09-11T03:18:41Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|13276|rotoballer|220597|1789081207000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -337,6 +339,26 @@
       "story_id": "nfl|12467|rotowire|636741|1789083265000",
       "title": "Jordan James - Inactive Thursday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets 22-year-old rookie wide receiver out of Indiana, Omar Cooper Jr., wrapped up training camp on a high note, putting together crucial highlight plays and showing his yards-after-catch ability that made him a top prospect out of college and earned him the 30th overall draft pick. Reports from camp were initially slow for Cooper as he was getting acclimated to the NFL. His situation is worth monitoring, as he has the high draft capital that makes him an interesting asset that should be taken seriously. Cooper posted 69 receptions, 937 receiving yards, and 13 touchdowns in his final season with Indiana and is currently listed as the Jets' third wide receiver, ahead of Tim Patrick and Arian Smith. RotoBaller ranks him as the WR88 for Week 1, making him more of a bench stash based on his potential upside.",
+      "metadata": {
+        "description": "New York Jets 22-year-old rookie wide receiver out of Indiana, Omar Cooper Jr., wrapped up training camp on a high note, putting together crucial highlight plays and showing his yards-after-catch ability that made him a top prospect out of college and earned him the 30th overall draft pick. Reports from camp were initially slow for Cooper as he was getting acclimated to the NFL. His situation is worth monitoring, as he has the high draft capital that makes him an interesting asset that should be taken seriously. Cooper posted 69 receptions, 937 receiving yards, and 13 touchdowns in his final season with Indiana and is currently listed as the Jets' third wide receiver, ahead of Tim Patrick and Arian Smith. RotoBaller ranks him as the WR88 for Week 1, making him more of a bench stash based on his potential upside.",
+        "title": "Omar Cooper Jr. Finishes Training Camp on a High Note",
+        "topic_id": "1403973693855518720",
+        "url": "https://www.rotoballer.com/player-news/omar-cooper-jr-finishes-training-camp-on-a-high-note/1928072"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13276",
+      "player_name": "Omar Cooper",
+      "position": "WR",
+      "published": 1789081207000,
+      "source": "rotoballer",
+      "source_key": "220597",
+      "story_id": "nfl|13276|rotoballer|220597|1789081207000",
+      "title": "Omar Cooper Jr. Finishes Training Camp on a High Note",
+      "url": "https://www.rotoballer.com/player-news/omar-cooper-jr-finishes-training-camp-on-a-high-note/1928072"
     },
     {
       "analysis": "Love has been tending to a high-ankle sprain since preseason Week 1, and while he displayed small signs of progress in recent weeks, he finally has been able to log back-to-back capped sessions to begin prep for the regular-season opener. Friday's injury report will reveal his chances to suit up for Sunday's game at the Chargers, with the range of possibilities going from full clearance to getting ruled out. More than likely, the Cardinals will list Love as questionable for Week 1 action. If Love is inhibited or sidelined Sunday, Tyler Allgeier would be in line to lead Arizona's backfield, with Bam Knight on hand for most of the remaining RB reps.",
