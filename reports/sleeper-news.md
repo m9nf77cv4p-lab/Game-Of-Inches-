@@ -3,14 +3,14 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **2638**
-- Newly captured: **1**
+- Newly captured: **0**
 
 ## Latest news
 
 - **Deebo Samuel** — Deebo Samuel - Successful 49ers return in win (2026-09-11T05:26:25Z)
   - The versatile Samuel made a splash in his return to the 49ers following a one-year stint with the Commanders, tying for the team lead in receptions and for runner-up status in targets as well with new teammate Mike Evans. Samuel's production was boosted by the second-quarter exit of De'Zhaun Stribling due to an ankle injury, and the highlight of the former's performance came when he recorded a 15-yard touchdown reception early in the fourth quarter by mirroring Brock Purdy's movement across the field as the quarterback extended the play. Samuel's Week 1 usage implied he'll fill the same type of diverse role he previously thrived in within head coach Kyle Shanahan's offense, and the veteran receiver is likely to remain busy in a Week 2 home matchup against the Dolphins on Sunday, Sept. 20.
 - **George Kittle** — George Kittle - Pair of catches in Week 1 (2026-09-11T05:18:17Z)
-  - Kittle headed into the game without an injury designation, making a remarkable recovery from January's Achilles tear to suit up in Week 1. The veteran tight end wasn't much of a factor despite the fact San Francisco lost rookie De'Zhaun Stribling in the first half to what may be a serious ankle injury. However, Kittle did help the 49ers' ground attack generate an impressive 5.8 yards per carry, and he's likely to see his participation rate progressively increase in coming weeks. Kittle's position mate Jake Tonges also suffered a potentially significant knee injury per Nick Wagoner of ESPN.com, a development that could accelerate Kittle's return to a full complement of snaps.
+  - Kittle headed into the game without an injury designation, making a remarkable recovery from January's Achilles tear to suit up Week 1. The veteran tight end wasn't much of a factor despite the fact San Francisco lost rookie De'Zhaun Stribling in the first half to what may be a serious ankle injury. However, Kittle did help the 49ers' ground attack generate an impressive 5.8 yards per carry, and he's likely to see his participation rate progressively increase in coming weeks. Kittle's position mate Jake Tonges also suffered a potentially significant knee injury, per Nick Wagoner of ESPN.com, a development that could accelerate Kittle's return to a full complement of snaps.
 - **Blake Corum** — Blake Corum - Impressive with limited touches (2026-09-11T05:10:52Z)
   - Corum's backfield mate Kyren Williams worked as the starting running back and logged his first carry on the Rams' second play from scrimmage, but Corum garnered his first touch to start Los Angeles' second drive and ripped off a nine-yard run. The third-year pro would go on to outpace Williams by 13 rushing yards on one fewer carry, although Corum's lack of a pass-game role was a disappointment. Nevertheless, it appears preseason talk about an even closer division of labor between the two backs this season could have some credibility as a Week 2 home matchup against the Giants on Monday night, Sept. 21 approaches.
 - **Kaelon Black** — Kaelon Black - Stands out in regular-season debut (2026-09-11T05:06:23Z)
@@ -85,7 +85,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607052/dezhaun-stribling-carted-to-locker-room.php
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Leaves game again Thursday (2026-09-11T01:41:09Z)
   - After previously returning from an ankle issue earlier Thursday, Stribling again came up lame while running a route in the second quarter. He fell to the turf and had to be assisted off the field by the training staff. Demarcus Robinson is now operating as the Niners' clear WR3 behind Mike Evans and Deebo Samuel. Stribling didn't draw a target prior to his injury.
-- **NEW — Davante Adams** — Davante Adams Held in Check as Rams Drop Season Opener (2026-09-11T01:37:07Z)
+- **Davante Adams** — Davante Adams Held in Check as Rams Drop Season Opener (2026-09-11T01:37:07Z)
   - Source: https://www.rotoballer.com/player-news/davante-adams-held-in-check-as-rams-drop-season-opener/1928105
 - **De'Zhaun Stribling** — De'Zhaun Stribling helped off field Thursday  (2026-09-11T01:35:31.104000Z)
   - Stribling had already been in the blue medical tent before returning to the game. He went down after running a route. There will be an update provided on his status when available. 

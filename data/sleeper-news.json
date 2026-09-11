@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-11T05:53:47Z",
+  "last_checked_at": "2026-09-11T06:30:37Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [
-    "nfl|2133|rotoballer|220608|1789090627000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -34,10 +32,10 @@
       "url": null
     },
     {
-      "analysis": "Kittle headed into the game without an injury designation, making a remarkable recovery from January's Achilles tear to suit up in Week 1. The veteran tight end wasn't much of a factor despite the fact San Francisco lost rookie De'Zhaun Stribling in the first half to what may be a serious ankle injury. However, Kittle did help the 49ers' ground attack generate an impressive 5.8 yards per carry, and he's likely to see his participation rate progressively increase in coming weeks. Kittle's position mate Jake Tonges also suffered a potentially significant knee injury per Nick Wagoner of ESPN.com, a development that could accelerate Kittle's return to a full complement of snaps.",
+      "analysis": "Kittle headed into the game without an injury designation, making a remarkable recovery from January's Achilles tear to suit up Week 1. The veteran tight end wasn't much of a factor despite the fact San Francisco lost rookie De'Zhaun Stribling in the first half to what may be a serious ankle injury. However, Kittle did help the 49ers' ground attack generate an impressive 5.8 yards per carry, and he's likely to see his participation rate progressively increase in coming weeks. Kittle's position mate Jake Tonges also suffered a potentially significant knee injury, per Nick Wagoner of ESPN.com, a development that could accelerate Kittle's return to a full complement of snaps.",
       "description": "Kittle brought in two of five targets for 12 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
       "metadata": {
-        "analysis": "Kittle headed into the game without an injury designation, making a remarkable recovery from January's Achilles tear to suit up in Week 1. The veteran tight end wasn't much of a factor despite the fact San Francisco lost rookie De'Zhaun Stribling in the first half to what may be a serious ankle injury. However, Kittle did help the 49ers' ground attack generate an impressive 5.8 yards per carry, and he's likely to see his participation rate progressively increase in coming weeks. Kittle's position mate Jake Tonges also suffered a potentially significant knee injury per Nick Wagoner of ESPN.com, a development that could accelerate Kittle's return to a full complement of snaps.",
+        "analysis": "Kittle headed into the game without an injury designation, making a remarkable recovery from January's Achilles tear to suit up Week 1. The veteran tight end wasn't much of a factor despite the fact San Francisco lost rookie De'Zhaun Stribling in the first half to what may be a serious ankle injury. However, Kittle did help the 49ers' ground attack generate an impressive 5.8 yards per carry, and he's likely to see his participation rate progressively increase in coming weeks. Kittle's position mate Jake Tonges also suffered a potentially significant knee injury, per Nick Wagoner of ESPN.com, a development that could accelerate Kittle's return to a full complement of snaps.",
         "description": "Kittle brought in two of five targets for 12 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
         "title": "George Kittle - Pair of catches in Week 1",
         "topic_id": "1404007673405382656"
