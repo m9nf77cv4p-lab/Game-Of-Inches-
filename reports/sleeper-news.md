@@ -2,14 +2,18 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2631**
+- Stored stories: **2635**
 - Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Kaelon Black** — Kaelon Black - Stands out in regular-season debut (2026-09-11T05:06:23Z)
+- **NEW — George Kittle** — George Kittle - Pair of catches in Week 1 (2026-09-11T05:18:17Z)
+  - Kittle headed into the game without an injury designation, making a remarkable recovery from January's Achilles tear to suit up in Week 1. The veteran tight end wasn't much of a factor despite the fact San Francisco lost rookie De'Zhaun Stribling in the first half to what may be a serious ankle injury. However, Kittle did help the 49ers' ground attack generate an impressive 5.8 yards per carry, and he's likely to see his participation rate progressively increase in coming weeks. Kittle's position mate Jake Tonges also suffered a potentially significant knee injury per Nick Wagoner of ESPN.com, a development that could accelerate Kittle's return to a full complement of snaps.
+- **NEW — Blake Corum** — Blake Corum - Impressive with limited touches (2026-09-11T05:10:52Z)
+  - Corum's backfield mate Kyren Williams worked as the starting running back and logged his first carry on the Rams' second play from scrimmage, but Corum garnered his first touch to start Los Angeles' second drive and ripped off a nine-yard run. The third-year pro would go on to outpace Williams by 13 rushing yards on one fewer carry, although Corum's lack of a pass-game role was a disappointment. Nevertheless, it appears preseason talk about an even closer division of labor between the two backs this season could have some credibility as a Week 2 home matchup against the Giants on Monday night, Sept. 21 approaches.
+- **Kaelon Black** — Kaelon Black - Stands out in regular-season debut (2026-09-11T05:06:23Z)
   - The rookie third-round pick opened the season as Christian McCaffrey's primary backup, but he actually ended up outpacing his star backfield mate by four carries as the 49ers progressively took control in the second half. Black earned the touches with multiple productive runs that showed off his explosiveness, and his ability to help keep McCaffrey fresh throughout the game should only help lead to more opportunities for the first-year back going forward. Black garnered the No. 2 job thanks to an impressive two-game preseason where he performed similarly to Week 1, lending credence to the notion the Indiana product could maintain his fantasy relevance, particularly in deeper formats, as his first NFL season unfolds.
-- **NEW — Davante Adams** — Davante Adams - Held in check in Week 1 loss (2026-09-11T04:58:40Z)
+- **Davante Adams** — Davante Adams - Held in check in Week 1 loss (2026-09-11T04:58:40Z)
   - The veteran receiver's final line underscores the kind of game it was for the Rams' air attack, which netted only 168 yards overall. Adams' numbers, modest as they were, still enabled him to tie for second in receptions while also checking in as the runner-up in both receiving yards and targets for Los Angeles. The only game during Adams' debut campaign in L.A. last year in which he generated a lower stat line was a Week 11 win over the Seahawks, when his only catch went for a one-yard touchdown, and he should have a chance to put together a more voluminous line during a Week 2 home matchup against the Giants on Monday night, Sept. 21.
 - **Matthew Stafford** — Matthew Stafford - Disappointing performance to open season (2026-09-11T04:52:32Z)
   - The reigning NFL MVP looked anything but during a shockingly poor performance by his side of the ball, and Stafford finished with his lowest passing yardage total since Week 11 of last season. The veteran signal-caller tossed his one interception shortly before the halfway point of the second quarter on a pass intended for Puka Nacua just inside the 49ers' 15-yard line, a play that was costly both from the standpoint of the potential scoring opportunity it short-circuited and the fact it led to a San Francisco touchdown. Stafford's first chance to atone comes in a Week 2 home matchup against what is expected to be a fearsome Giants pass rush on Monday night, Sept. 21.
@@ -84,11 +88,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607051/dezhaun-stribling-helped-off-field-thursday.php
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Returns to Thursday's game (2026-09-11T01:19:31Z)
   - Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deebo Samuel, George Kittle and Christian McCaffrey for opportunities.
+- **NEW — Kyren Williams** — Kyren Williams Salvages Fantasy Performance with a Touchdown in Australia (2026-09-11T01:15:07Z)
+  - Source: https://www.rotoballer.com/player-news/kyren-williams-salvages-fantasy-performance-with-a-touchdown-in-australia/1928101
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Questionable to return Thursday (2026-09-11T01:14:26Z)
   - Stribling took a trip to the blue medical tent on the sideline near the end of the first quarter. Prior to the injury, Stribling wasn't targeted on any of Brock Purdy's 14 pass attempts. Demarcus Robinson would be in line for more work behind Mike Evans and Deebo Samuel if Stribling is unable to return Thursday.
-- **NEW — Blake Corum** — Blake Corum Finishes Week 1 as the Rams' Leading Rusher (2026-09-11T01:09:05Z)
+- **NEW — Matthew Stafford** — Matthew Stafford Delivers a Season-Opening Letdown in Australia (2026-09-11T01:12:05Z)
+  - Source: https://www.rotoballer.com/player-news/matthew-stafford-delivers-a-season-opening-letdown-in-australia/1928099
+- **Blake Corum** — Blake Corum Finishes Week 1 as the Rams' Leading Rusher (2026-09-11T01:09:05Z)
   - Source: https://www.rotoballer.com/player-news/blake-corum-finishes-week-1-as-the-rams-leading-rusher/1928097
-- **NEW — Brock Purdy** — Brock Purdy Shines in Upset Win Over Rams (2026-09-11T01:05:07Z)
+- **Brock Purdy** — Brock Purdy Shines in Upset Win Over Rams (2026-09-11T01:05:07Z)
   - Source: https://www.rotoballer.com/player-news/brock-purdy-shines-in-upset-win-over-rams/1928095
 - **Ryan Flournoy** — Cowboys Sign Ryan Flournoy to One-Year Extension (2026-09-11T00:42:06Z)
   - Source: https://www.rotoballer.com/player-news/cowboys-sign-ryan-flournoy-to-one-year-extension/1928088
@@ -217,7 +225,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The rookie was once again left limited at practice. He's still recovering from a hamstring injury of some kind, and it remains unclear whether or not he will be ready to play in time for Week 1. Look for Jahan Dotson to see more work if Branch is unable to make his NFL debut on Sunday.
   - Source: https://www.fantasypros.com/nfl/news/606965/zachariah-branch-hamstring-limited-participant-thursday.php
 - **Jonathon Brooks** — Jonathon Brooks - Limited participant Thursday (2026-09-10T19:47:45Z)
-  - Brooks said Wednesday that he expects to play in the opener, but the club continues to keep a lid on his practice participation as he's yet to log a full session this week. Brooks could still play this week despite the team's caution in practice. Assuming he's good to go, Brooks and Chuba Hubbard will handle the bulk of the backfield work against the Bears on Sunday.
+  - Brooks said Wednesday that he expects to play in the opener, but the club continues to keep a lid on his practice participation as he's yet to log a full session this week. He still could play this week despite the team's caution in practice. Assuming he's good to go, Brooks and Chuba Hubbard will handle the bulk of the backfield work against the Bears on Sunday.
 - **Tua Tagovailoa** — Tua Tagovailoa - Week 1 status in doubt due to back (2026-09-10T19:41:31Z)
   - Tagovailoa was named Atlanta's starter for Sunday's regular-season opener earlier in the week, but he went down grabbing his back in individual drills Thursday and subsequently sat out the remainder of practice. The Falcons are now preparing to head into Week 1 with the third-stringer Rush under center, as Tua is in danger of joining Michael Penix (knee) on the sidelines. If Tagovailoa is ruled out, Jack Strand would serve as Rush's backup Sunday.
 - **Malik Nabers** — Malik Nabers (knee) practices in full Thursday (2026-09-10T19:40:21.984000Z)
@@ -240,12 +248,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-limited-again-on-thursday/1927942
 - **Cooper Kupp** — Cooper Kupp - Has TD nullified after nice 24-yard catch (2026-09-10T19:01:13Z)
   - Kupp turned the tide with a spectacular one-handed grab for 24 yards in the third quarter while the Seahawks trailed 10-0. He thought he had a seven-yard touchdown three plays later, but the scoring play was nullified by an illegal shift penalty. Seattle would settle for a field goal to kickstart a 13-0 run to end the game. Kupp finished a distant second in receiving yards behind Jaxon Smith-Njigba's 122, which could be a preview of the team's pecking order in the passing game all season. Sam Darnold (hip) exited in the first quarter of Wednesday's win, and Drew Lock is likely to be Seattle's starting QB in Week 2 against the Cardinals while Darnold's on the mend.
-- **Breece Hall** — Breece Hall (groin) says he is good to go Week 1 (2026-09-10T19:00:22.081000Z)
-  - Hall recently missed a couple of weeks with a strained groin. He added he feels fresh from the time off. He'll be an RB2 for fantasy managers heading into the season. 
-  - Source: https://www.fantasypros.com/nfl/news/606953/breece-hall-groin-says-he-is-good-to-go-week-1.php
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Remains Limited in Practice (2026-09-10T18:44:18Z)
-  - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-remains-limited-in-practice/1927926
-- **Keaton Mitchell** — Keaton Mitchell Stays Limited on Thursday (2026-09-10T18:38:06Z)
-  - Source: https://www.rotoballer.com/player-news/keaton-mitchell-stays-limited-on-thursday/1927921
-- **Elijah Arroyo** — Elijah Arroyo - Non-factor in Week 1 win (2026-09-10T18:32:33Z)
-  - Arroyo was on the field for 11 of Seattle's 50 snaps on offense while AJ Barner played 44 snaps and caught two passes, suggesting there is still a substantial gap between the Seahawks' top two tight ends. After flashing some receiving upside during the preseason, it looks like Arroyo may not get enough playing time to make much of an impact on offense, at least while Barner is healthy.

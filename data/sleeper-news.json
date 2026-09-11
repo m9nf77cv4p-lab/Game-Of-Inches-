@@ -1,12 +1,12 @@
 {
-  "last_checked_at": "2026-09-11T05:13:09Z",
+  "last_checked_at": "2026-09-11T05:28:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11586|rotoballer|220603|1789088945000",
-    "nfl|13414|rotowire|636817|1789103183000",
-    "nfl|2133|rotowire|636816|1789102720000",
-    "nfl|8183|rotoballer|220604|1789088707000"
+    "nfl|11586|rotowire|636818|1789103452000",
+    "nfl|4217|rotowire|636819|1789103897000",
+    "nfl|421|rotoballer|220605|1789089125000",
+    "nfl|8150|rotoballer|220606|1789089307000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +16,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Kittle headed into the game without an injury designation, making a remarkable recovery from January's Achilles tear to suit up in Week 1. The veteran tight end wasn't much of a factor despite the fact San Francisco lost rookie De'Zhaun Stribling in the first half to what may be a serious ankle injury. However, Kittle did help the 49ers' ground attack generate an impressive 5.8 yards per carry, and he's likely to see his participation rate progressively increase in coming weeks. Kittle's position mate Jake Tonges also suffered a potentially significant knee injury per Nick Wagoner of ESPN.com, a development that could accelerate Kittle's return to a full complement of snaps.",
+      "description": "Kittle brought in two of five targets for 12 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
+      "metadata": {
+        "analysis": "Kittle headed into the game without an injury designation, making a remarkable recovery from January's Achilles tear to suit up in Week 1. The veteran tight end wasn't much of a factor despite the fact San Francisco lost rookie De'Zhaun Stribling in the first half to what may be a serious ankle injury. However, Kittle did help the 49ers' ground attack generate an impressive 5.8 yards per carry, and he's likely to see his participation rate progressively increase in coming weeks. Kittle's position mate Jake Tonges also suffered a potentially significant knee injury per Nick Wagoner of ESPN.com, a development that could accelerate Kittle's return to a full complement of snaps.",
+        "description": "Kittle brought in two of five targets for 12 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
+        "title": "George Kittle - Pair of catches in Week 1",
+        "topic_id": "1404007673405382656"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1789103897000,
+      "source": "rotowire",
+      "source_key": "636819",
+      "story_id": "nfl|4217|rotowire|636819|1789103897000",
+      "title": "George Kittle - Pair of catches in Week 1",
+      "url": null
+    },
+    {
+      "analysis": "Corum's backfield mate Kyren Williams worked as the starting running back and logged his first carry on the Rams' second play from scrimmage, but Corum garnered his first touch to start Los Angeles' second drive and ripped off a nine-yard run. The third-year pro would go on to outpace Williams by 13 rushing yards on one fewer carry, although Corum's lack of a pass-game role was a disappointment. Nevertheless, it appears preseason talk about an even closer division of labor between the two backs this season could have some credibility as a Week 2 home matchup against the Giants on Monday night, Sept. 21 approaches.",
+      "description": "Corum rushed 10 times for 54 yards and wasn't targeted during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia.",
+      "metadata": {
+        "analysis": "Corum's backfield mate Kyren Williams worked as the starting running back and logged his first carry on the Rams' second play from scrimmage, but Corum garnered his first touch to start Los Angeles' second drive and ripped off a nine-yard run. The third-year pro would go on to outpace Williams by 13 rushing yards on one fewer carry, although Corum's lack of a pass-game role was a disappointment. Nevertheless, it appears preseason talk about an even closer division of labor between the two backs this season could have some credibility as a Week 2 home matchup against the Giants on Monday night, Sept. 21 approaches.",
+        "description": "Corum rushed 10 times for 54 yards and wasn't targeted during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia.",
+        "title": "Blake Corum - Impressive with limited touches",
+        "topic_id": "1404006414787096576"
+      },
+      "nfl_team": "LAR",
+      "player_id": "11586",
+      "player_name": "Blake Corum",
+      "position": "RB",
+      "published": 1789103452000,
+      "source": "rotowire",
+      "source_key": "636818",
+      "story_id": "nfl|11586|rotowire|636818|1789103452000",
+      "title": "Blake Corum - Impressive with limited touches",
+      "url": null
+    },
     {
       "analysis": "The rookie third-round pick opened the season as Christian McCaffrey's primary backup, but he actually ended up outpacing his star backfield mate by four carries as the 49ers progressively took control in the second half. Black earned the touches with multiple productive runs that showed off his explosiveness, and his ability to help keep McCaffrey fresh throughout the game should only help lead to more opportunities for the first-year back going forward. Black garnered the No. 2 job thanks to an impressive two-game preseason where he performed similarly to Week 1, lending credence to the notion the Indiana product could maintain his fantasy relevance, particularly in deeper formats, as his first NFL season unfolds.",
       "description": "Black rushed 14 times for 65 yards and brought in his only target for five yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
@@ -634,6 +674,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Los Angeles Rams running back Kyren Williams tallied 11 carries, 41 rushing yards, and one rushing touchdown during Thursday's Week 1 loss against the San Francisco 49ers. He also caught all three of his targets for an additional 24 receiving yards. Williams was inefficient on the ground, and he was out-rushed by Blake Corum despite having one more rushing attempt than his backfield-mate. Fortunately for Williams' fantasy managers, the 26-year-old salvaged his performance by catching some passes and breaking into the end zone. He won't bail out his fantasy managers with a touchdown every week, and he's unlikely to handle a noticeable increase in volume since Blake Corum will continue to have a big role. Therefore, we'd like to see him bounce back in terms of efficiency. Improving upon Thursday's 3.7 yards per carry will help Williams get back into the RB1 tier this season. For now, he's more of a high-end RB1 for the Rams' Week 2 matchup against the New York Giants.",
+      "metadata": {
+        "description": "Los Angeles Rams running back Kyren Williams tallied 11 carries, 41 rushing yards, and one rushing touchdown during Thursday's Week 1 loss against the San Francisco 49ers. He also caught all three of his targets for an additional 24 receiving yards. Williams was inefficient on the ground, and he was out-rushed by Blake Corum despite having one more rushing attempt than his backfield-mate. Fortunately for Williams' fantasy managers, the 26-year-old salvaged his performance by catching some passes and breaking into the end zone. He won't bail out his fantasy managers with a touchdown every week, and he's unlikely to handle a noticeable increase in volume since Blake Corum will continue to have a big role. Therefore, we'd like to see him bounce back in terms of efficiency. Improving upon Thursday's 3.7 yards per carry will help Williams get back into the RB1 tier this season. For now, he's more of a high-end RB1 for the Rams' Week 2 matchup against the New York Giants.",
+        "title": "Kyren Williams Salvages Fantasy Performance with a Touchdown in Australia",
+        "topic_id": "1404008925191262208",
+        "url": "https://www.rotoballer.com/player-news/kyren-williams-salvages-fantasy-performance-with-a-touchdown-in-australia/1928101"
+      },
+      "nfl_team": "LAR",
+      "player_id": "8150",
+      "player_name": "Kyren Williams",
+      "position": "RB",
+      "published": 1789089307000,
+      "source": "rotoballer",
+      "source_key": "220606",
+      "story_id": "nfl|8150|rotoballer|220606|1789089307000",
+      "title": "Kyren Williams Salvages Fantasy Performance with a Touchdown in Australia",
+      "url": "https://www.rotoballer.com/player-news/kyren-williams-salvages-fantasy-performance-with-a-touchdown-in-australia/1928101"
+    },
+    {
       "analysis": "Stribling took a trip to the blue medical tent on the sideline near the end of the first quarter. Prior to the injury, Stribling wasn't targeted on any of Brock Purdy's 14 pass attempts. Demarcus Robinson would be in line for more work behind Mike Evans and Deebo Samuel if Stribling is unable to return Thursday.",
       "description": "Stribling (ankle) is questionable to return to Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports.",
       "metadata": {
@@ -652,6 +712,26 @@
       "story_id": "nfl|13417|rotowire|636787|1789089266000",
       "title": "De'Zhaun Stribling - Questionable to return Thursday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams quarterback Matthew Stafford completed 15 of his 25 pass attempts (60% completion rate) for 155 passing yards, zero touchdowns, and one interception. He didn't take a sack in the contest. That stat line would be subpar for any quarterback, but it's especially frustrating for a veteran passer who won the league MVP award last season while having Puka Nacua and Davante Adams at his disposal. Stafford was unable to keep the Rams in this game for long, and he ended up getting replaced by Stetson Bennett once the score got out of hand. There's no real excuse for this performance, but if it's any consolation, managers should expect him to play a little better once he's not traveling to Australia and turning around to play a football game less than 24 hours later. The Rams will return to the United States soon, giving Stafford 11 days to get back on track before his next game against the New York Giants in Week 1. Largely thanks to his supporting cast, Stafford remains a fringe top-12 fantasy quarterback for the time being.",
+      "metadata": {
+        "description": "Los Angeles Rams quarterback Matthew Stafford completed 15 of his 25 pass attempts (60% completion rate) for 155 passing yards, zero touchdowns, and one interception. He didn't take a sack in the contest. That stat line would be subpar for any quarterback, but it's especially frustrating for a veteran passer who won the league MVP award last season while having Puka Nacua and Davante Adams at his disposal. Stafford was unable to keep the Rams in this game for long, and he ended up getting replaced by Stetson Bennett once the score got out of hand. There's no real excuse for this performance, but if it's any consolation, managers should expect him to play a little better once he's not traveling to Australia and turning around to play a football game less than 24 hours later. The Rams will return to the United States soon, giving Stafford 11 days to get back on track before his next game against the New York Giants in Week 1. Largely thanks to his supporting cast, Stafford remains a fringe top-12 fantasy quarterback for the time being.",
+        "title": "Matthew Stafford Delivers a Season-Opening Letdown in Australia",
+        "topic_id": "1404007667566968832",
+        "url": "https://www.rotoballer.com/player-news/matthew-stafford-delivers-a-season-opening-letdown-in-australia/1928099"
+      },
+      "nfl_team": "LAR",
+      "player_id": "421",
+      "player_name": "Matthew Stafford",
+      "position": "QB",
+      "published": 1789089125000,
+      "source": "rotoballer",
+      "source_key": "220605",
+      "story_id": "nfl|421|rotoballer|220605|1789089125000",
+      "title": "Matthew Stafford Delivers a Season-Opening Letdown in Australia",
+      "url": "https://www.rotoballer.com/player-news/matthew-stafford-delivers-a-season-opening-letdown-in-australia/1928099"
     },
     {
       "analysis": null,
@@ -1756,10 +1836,10 @@
       "url": "https://www.fantasypros.com/nfl/news/606965/zachariah-branch-hamstring-limited-participant-thursday.php"
     },
     {
-      "analysis": "Brooks said Wednesday that he expects to play in the opener, but the club continues to keep a lid on his practice participation as he's yet to log a full session this week. Brooks could still play this week despite the team's caution in practice. Assuming he's good to go, Brooks and Chuba Hubbard will handle the bulk of the backfield work against the Bears on Sunday.",
+      "analysis": "Brooks said Wednesday that he expects to play in the opener, but the club continues to keep a lid on his practice participation as he's yet to log a full session this week. He still could play this week despite the team's caution in practice. Assuming he's good to go, Brooks and Chuba Hubbard will handle the bulk of the backfield work against the Bears on Sunday.",
       "description": "Brooks (groin) was a limited participant in Thursday's practice.",
       "metadata": {
-        "analysis": "Brooks said Wednesday that he expects to play in the opener, but the club continues to keep a lid on his practice participation as he's yet to log a full session this week. Brooks could still play this week despite the team's caution in practice. Assuming he's good to go, Brooks and Chuba Hubbard will handle the bulk of the backfield work against the Bears on Sunday.",
+        "analysis": "Brooks said Wednesday that he expects to play in the opener, but the club continues to keep a lid on his practice participation as he's yet to log a full session this week. He still could play this week despite the team's caution in practice. Assuming he's good to go, Brooks and Chuba Hubbard will handle the bulk of the backfield work against the Bears on Sunday.",
         "description": "Brooks (groin) was a limited participant in Thursday's practice.",
         "title": "Jonathon Brooks - Limited participant Thursday",
         "topic_id": "1403864216946925568"
