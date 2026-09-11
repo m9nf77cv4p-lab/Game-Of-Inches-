@@ -1,8 +1,11 @@
 {
-  "last_checked_at": "2026-09-11T03:33:48Z",
+  "last_checked_at": "2026-09-11T03:47:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11783|rotowire|636802|1789097515000",
+    "nfl|421|fantasy_pros|607057|1789097716817"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +14,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Stafford was not in his best form on Thursday, missing throws and looking a little rusty. It's a rough start for a team that was deemed Super Bowl-bound, but he will look to get back on track next week. ",
+      "description": "Matthew Stafford completed 15-of-25 passes for 155 yards and a pick in the Rams' 27-7 blowout loss to the 49ers. He also ran twice for a loss of a yard.",
+      "metadata": {
+        "analysis": "Stafford was not in his best form on Thursday, missing throws and looking a little rusty. It's a rough start for a team that was deemed Super Bowl-bound, but he will look to get back on track next week. ",
+        "description": "Matthew Stafford completed 15-of-25 passes for 155 yards and a pick in the Rams' 27-7 blowout loss to the 49ers. He also ran twice for a loss of a yard.",
+        "title": "Matthew Stafford quiet in loss to Niners",
+        "topic_id": "1403981219800039424",
+        "url": "https://www.fantasypros.com/nfl/news/607057/matthew-stafford-quiet-loss-to-niners.php"
+      },
+      "nfl_team": "LAR",
+      "player_id": "421",
+      "player_name": "Matthew Stafford",
+      "position": "QB",
+      "published": 1789097716817,
+      "source": "fantasy_pros",
+      "source_key": "607057",
+      "story_id": "nfl|421|fantasy_pros|607057|1789097716817",
+      "title": "Matthew Stafford quiet in loss to Niners",
+      "url": "https://www.fantasypros.com/nfl/news/607057/matthew-stafford-quiet-loss-to-niners.php"
+    },
+    {
+      "analysis": "Flournoy has been a nice find for the Cowboys after they selected him in the sixth round of the 2024 NFL Draft. The wideout tallied a career-best 40 catches for 475 yards and four touchdowns over 16 regular-season games last year and is set for a larger role as the team's No. 3 wide receiver in 2026. Flournoy is now in line to remain with Dallas through 2027, and he could be a great value if he proves to be productive with potentially increased opportunities during the upcoming campaign.",
+      "description": "Flournoy agreed to a one-year contract extension worth up to $6 million with Dallas on Thursday, NFL reporter Jordan Schultz reports.",
+      "metadata": {
+        "analysis": "Flournoy has been a nice find for the Cowboys after they selected him in the sixth round of the 2024 NFL Draft. The wideout tallied a career-best 40 catches for 475 yards and four touchdowns over 16 regular-season games last year and is set for a larger role as the team's No. 3 wide receiver in 2026. Flournoy is now in line to remain with Dallas through 2027, and he could be a great value if he proves to be productive with potentially increased opportunities during the upcoming campaign.",
+        "description": "Flournoy agreed to a one-year contract extension worth up to $6 million with Dallas on Thursday, NFL reporter Jordan Schultz reports.",
+        "title": "Ryan Flournoy - Signs one-year extension",
+        "topic_id": "1403981217904259072"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11783",
+      "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "published": 1789097515000,
+      "source": "rotowire",
+      "source_key": "636802",
+      "story_id": "nfl|11783|rotowire|636802|1789097515000",
+      "title": "Ryan Flournoy - Signs one-year extension",
+      "url": null
+    },
     {
       "analysis": "Stribling was quickly ruled out after being carted back to the locker room, which is not good. There should be a further update after Thursday's game or by this weekend. ",
       "description": "49ers WR De'Zhaun Stribling has been ruled out for the rest of Thursday's game against the Rams. ",

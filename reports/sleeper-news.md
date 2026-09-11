@@ -2,11 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2604**
-- Newly captured: **0**
+- Stored stories: **2606**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Matthew Stafford** — Matthew Stafford quiet in loss to Niners (2026-09-11T03:35:16.817000Z)
+  - Stafford was not in his best form on Thursday, missing throws and looking a little rusty. It's a rough start for a team that was deemed Super Bowl-bound, but he will look to get back on track next week. 
+  - Source: https://www.fantasypros.com/nfl/news/607057/matthew-stafford-quiet-loss-to-niners.php
+- **NEW — Ryan Flournoy** — Ryan Flournoy - Signs one-year extension (2026-09-11T03:31:55Z)
+  - Flournoy has been a nice find for the Cowboys after they selected him in the sixth round of the 2024 NFL Draft. The wideout tallied a career-best 40 catches for 475 yards and four touchdowns over 16 regular-season games last year and is set for a larger role as the team's No. 3 wide receiver in 2026. Flournoy is now in line to remain with Dallas through 2027, and he could be a great value if he proves to be productive with potentially increased opportunities during the upcoming campaign.
 - **De'Zhaun Stribling** — De'Zhaun Stribling (ankle) ruled out for rest of game Thursday  (2026-09-11T02:00:31.363000Z)
   - Stribling was quickly ruled out after being carted back to the locker room, which is not good. There should be a further update after Thursday's game or by this weekend. 
   - Source: https://www.fantasypros.com/nfl/news/607054/dezhaun-stribling-ankle-ruled-out-rest-game-thursday.php
@@ -238,7 +243,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Sam Darnold** — Sam Darnold (hip) believed to have 'dodged a bullet' (2026-09-10T16:20:04.830000Z)
   - Darnold underwent an MRI on his hip Thursday morning that team doctors still are reviewing to determine how much time he will miss. It sounds like he'll likely miss at least one or two games, but it appears he won't miss an extended period of time. 
   - Source: https://www.fantasypros.com/nfl/news/606938/sam-darnold-hip-believed-to-have-dodged-bullet.php
-- **Zay Flowers** — Zay Flowers Upgraded to Full Participation on Thursday's Injury Report (2026-09-10T16:15:13Z)
-  - Source: https://www.rotoballer.com/player-news/zay-flowers-upgraded-to-full-participation-on-thursday-injury-report/1927835
-- **Josh Jacobs** — Josh Jacobs - Makes court appearance Thursday (2026-09-10T16:12:45Z)
-  - Per Rob Demovsky of ESPN.com, Brown County District Attorney David Lasee said Thursday that he won't seek jail time for Jacobs, who was arrested in May in a domestic incident. However, Lasee is pursuing a conviction on the battery count and will accept the deferred agreement on the criminal damage of property if Jacobs meets five conditions related to his no contest plea. Jacobs is ineligible to play or practice for the Packers after being placed on the Commissioner's Exempt List on Aug. 30, but as a result of his plea, the NFL could remove him from the list and instead issue a suspension.
