@@ -2,15 +2,30 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2606**
-- Newly captured: **2**
+- Stored stories: **2611**
+- Newly captured: **5**
 
 ## Latest news
 
-- **NEW — Matthew Stafford** — Matthew Stafford quiet in loss to Niners (2026-09-11T03:35:16.817000Z)
+- **NEW — Terrance Ferguson** — Terrance Ferguson quiet in loss to 49ers (2026-09-11T03:50:16.599000Z)
+  - The hopeful breakout for Ferguson came to a screeching halt on Thursday, with the tight end failing to garner a target until late in the game, and failing to bring it in at that. However, the entire Rams offense was dysfunctional; no one had a great day for fantasy aside from maybe Kyren Williams and Puka Nacua, depending on your criteria. And second, Ferguson was present on most of the snaps when the starters were in, a big increase from his part time role in 2025. Hopefully, with his snaps now increased, the targets will come. We may just have to wait a week for the Rams to figure out what happened to them and get back on track. 
+  - Source: https://www.fantasypros.com/nfl/news/607062/terrance-ferguson-quiet-loss-to-49ers.php
+- **NEW — Kyren Williams** — Kyren Williams punches in score in loss to Niners (2026-09-11T03:50:16.345000Z)
+  - Williams' day was saved by the touchdown; otherwise it was fairly miserable. Blake Corum showed out in his opportunities, but he was limited to ground work only. Kyren appears to be in a committee now, but he at least has the edge in passing situations, giving him more appeal.
+  - Source: https://www.fantasypros.com/nfl/news/607058/kyren-williams-punches-score-loss-to-niners.php
+- **NEW — Puka Nacua** — Puka Nacua goes for 74 yards in loss (2026-09-11T03:50:16.332000Z)
+  - Puka was the only Ram who had more than 26 receiving yards, and most of those yards came on a nice catch and run early on in the game. His final total was respectable, but fantasy managers will hope for more next time he's out on the field.
+  - Source: https://www.fantasypros.com/nfl/news/607059/puka-nacua-goes-74-yards-loss.php
+- **NEW — Davante Adams** — Davante Adams quiet in loss to 49ers (2026-09-11T03:50:16.316000Z)
+  - Adams could just not get much going against the Niners. On the bright side, his six targets were second on the team, so he's still earning opportunities. It just wasn't his day, as was the story for most of the team. He will try to improve next time out.
+  - Source: https://www.fantasypros.com/nfl/news/607060/davante-adams-quiet-loss-to-49ers.php
+- **NEW — Blake Corum** — Blake Corum totals 54 yards in loss (2026-09-11T03:50:16.300000Z)
+  - Corum was solid on the ground at 5.4 a carry, but that was about all he had going for him. Without a touchdown or receiving work to go along with his yardage, it was a disappointing fantasy performance. However, his usage is encouraging; the Rams at least trust him enough that they will split Kyren Williams' workload with Corum. It makes him a top-tier handcuff RB, and one that should be rostered in case anything happens to Kyren.
+  - Source: https://www.fantasypros.com/nfl/news/607061/blake-corum-totals-54-yards-loss.php
+- **Matthew Stafford** — Matthew Stafford quiet in loss to Niners (2026-09-11T03:35:16.817000Z)
   - Stafford was not in his best form on Thursday, missing throws and looking a little rusty. It's a rough start for a team that was deemed Super Bowl-bound, but he will look to get back on track next week. 
   - Source: https://www.fantasypros.com/nfl/news/607057/matthew-stafford-quiet-loss-to-niners.php
-- **NEW — Ryan Flournoy** — Ryan Flournoy - Signs one-year extension (2026-09-11T03:31:55Z)
+- **Ryan Flournoy** — Ryan Flournoy - Signs one-year extension (2026-09-11T03:31:55Z)
   - Flournoy has been a nice find for the Cowboys after they selected him in the sixth round of the 2024 NFL Draft. The wideout tallied a career-best 40 catches for 475 yards and four touchdowns over 16 regular-season games last year and is set for a larger role as the team's No. 3 wide receiver in 2026. Flournoy is now in line to remain with Dallas through 2027, and he could be a great value if he proves to be productive with potentially increased opportunities during the upcoming campaign.
 - **De'Zhaun Stribling** — De'Zhaun Stribling (ankle) ruled out for rest of game Thursday  (2026-09-11T02:00:31.363000Z)
   - Stribling was quickly ruled out after being carted back to the locker room, which is not good. There should be a further update after Thursday's game or by this weekend. 
@@ -231,15 +246,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Hall initially received a recovery timetable of 2-to-3 weeks after sustaining a groin strain Aug. 17. Just over three weeks has passed since that date, and Hall practiced without limitations Wednesday, suggesting he has made a full recovery. Braelon Allen and Isaiah Davis, the latter of whom has been cleared to return from a knee injury sustained during training camp, could factor into the game plan as change-of-pace options, but Hall is expected to lead the Jets backfield and handle his normal workload against the Titans in Week 1.
 - **Gunnar Helm** — Gunnar Helm a Deep-League Sleeper to Target on the Waiver Wire (2026-09-10T16:37:15Z)
   - Source: https://www.rotoballer.com/player-news/gunnar-helm-a-deep-league-sleeper-to-target-on-the-waiver-wire/1927866
-- **Sam Darnold** — Sam Darnold - Dodges bullet but could miss time (2026-09-10T16:30:07Z)
-  - Team doctors are still reviewing the results of the MRI that Darnold underwent on his injury Thursday morning, but the early results suggest Darnold isn't facing a long-term absence. Drew Lock looks likely to be tabbed as the starting quarterback for the team's Week 2 road game against the Cardinals on Sept. 20. Lock threw for 187 yards and a touchdown following Darnold's first-quarter exit in Wednesday's season-opening win.
-- **James Conner** — Is James Conner Worth Stashing in Deeper Leagues? (2026-09-10T16:24:06Z)
-  - Source: https://www.rotoballer.com/player-news/is-james-conner-worth-stashing-in-deeper-leagues/1927848
-- **Jakobi Meyers** — Jakobi Meyers - Dons non-contact jersey Thursday (2026-09-10T16:22:37Z)
-  - Meyers is practicing in a non-contact jersey for a second consecutive day after being listed as limited at Wednesday's practice. He'll have one more chance Friday to upgrade his participation level ahead of Sunday's season opener against the Browns. Two-way player Travis Hunter and rookie Day 3 draft picks Josh Cameron and CJ Williams would be candidates to receive playing time alongside Brian Thomas and Parker Washington if Meyers misses any game action due to his lingering thumb injury.
-- **Jakobi Meyers** — Jakobi Meyers (thumb) in non-contact jersey in practice (2026-09-10T16:20:04.841000Z)
-  - Meyers remains up in the air for Sunday's season opener. His status will need to be monitored in practice on Friday. 
-  - Source: https://www.fantasypros.com/nfl/news/606936/jakobi-meyers-thumb-non-contact-jersey-practice.php
-- **Sam Darnold** — Sam Darnold (hip) believed to have 'dodged a bullet' (2026-09-10T16:20:04.830000Z)
-  - Darnold underwent an MRI on his hip Thursday morning that team doctors still are reviewing to determine how much time he will miss. It sounds like he'll likely miss at least one or two games, but it appears he won't miss an extended period of time. 
-  - Source: https://www.fantasypros.com/nfl/news/606938/sam-darnold-hip-believed-to-have-dodged-bullet.php

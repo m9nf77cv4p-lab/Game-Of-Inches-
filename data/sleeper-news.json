@@ -1,10 +1,13 @@
 {
-  "last_checked_at": "2026-09-11T03:47:36Z",
+  "last_checked_at": "2026-09-11T03:58:19Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11783|rotowire|636802|1789097515000",
-    "nfl|421|fantasy_pros|607057|1789097716817"
+    "nfl|11586|fantasy_pros|607061|1789098616300",
+    "nfl|12487|fantasy_pros|607062|1789098616599",
+    "nfl|2133|fantasy_pros|607060|1789098616316",
+    "nfl|8150|fantasy_pros|607058|1789098616345",
+    "nfl|9493|fantasy_pros|607059|1789098616332"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +17,111 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The hopeful breakout for Ferguson came to a screeching halt on Thursday, with the tight end failing to garner a target until late in the game, and failing to bring it in at that. However, the entire Rams offense was dysfunctional; no one had a great day for fantasy aside from maybe Kyren Williams and Puka Nacua, depending on your criteria. And second, Ferguson was present on most of the snaps when the starters were in, a big increase from his part time role in 2025. Hopefully, with his snaps now increased, the targets will come. We may just have to wait a week for the Rams to figure out what happened to them and get back on track. ",
+      "description": "Terrance Ferguson failed to catch his lone target in the Rams' 27-7 blowout loss to the 49ers.",
+      "metadata": {
+        "analysis": "The hopeful breakout for Ferguson came to a screeching halt on Thursday, with the tight end failing to garner a target until late in the game, and failing to bring it in at that. However, the entire Rams offense was dysfunctional; no one had a great day for fantasy aside from maybe Kyren Williams and Puka Nacua, depending on your criteria. And second, Ferguson was present on most of the snaps when the starters were in, a big increase from his part time role in 2025. Hopefully, with his snaps now increased, the targets will come. We may just have to wait a week for the Rams to figure out what happened to them and get back on track. ",
+        "description": "Terrance Ferguson failed to catch his lone target in the Rams' 27-7 blowout loss to the 49ers.",
+        "title": "Terrance Ferguson quiet in loss to 49ers",
+        "topic_id": "1403984993759285248",
+        "url": "https://www.fantasypros.com/nfl/news/607062/terrance-ferguson-quiet-loss-to-49ers.php"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12487",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "published": 1789098616599,
+      "source": "fantasy_pros",
+      "source_key": "607062",
+      "story_id": "nfl|12487|fantasy_pros|607062|1789098616599",
+      "title": "Terrance Ferguson quiet in loss to 49ers",
+      "url": "https://www.fantasypros.com/nfl/news/607062/terrance-ferguson-quiet-loss-to-49ers.php"
+    },
+    {
+      "analysis": "Williams' day was saved by the touchdown; otherwise it was fairly miserable. Blake Corum showed out in his opportunities, but he was limited to ground work only. Kyren appears to be in a committee now, but he at least has the edge in passing situations, giving him more appeal.",
+      "description": "Kyren Williams ran 11 times for 41 yards and the Rams' only touchdown. He also caught all three of his targets for 24 receiving yards.",
+      "metadata": {
+        "analysis": "Williams' day was saved by the touchdown; otherwise it was fairly miserable. Blake Corum showed out in his opportunities, but he was limited to ground work only. Kyren appears to be in a committee now, but he at least has the edge in passing situations, giving him more appeal.",
+        "description": "Kyren Williams ran 11 times for 41 yards and the Rams' only touchdown. He also caught all three of his targets for 24 receiving yards.",
+        "title": "Kyren Williams punches in score in loss to Niners",
+        "topic_id": "1403984992693932032",
+        "url": "https://www.fantasypros.com/nfl/news/607058/kyren-williams-punches-score-loss-to-niners.php"
+      },
+      "nfl_team": "LAR",
+      "player_id": "8150",
+      "player_name": "Kyren Williams",
+      "position": "RB",
+      "published": 1789098616345,
+      "source": "fantasy_pros",
+      "source_key": "607058",
+      "story_id": "nfl|8150|fantasy_pros|607058|1789098616345",
+      "title": "Kyren Williams punches in score in loss to Niners",
+      "url": "https://www.fantasypros.com/nfl/news/607058/kyren-williams-punches-score-loss-to-niners.php"
+    },
+    {
+      "analysis": "Puka was the only Ram who had more than 26 receiving yards, and most of those yards came on a nice catch and run early on in the game. His final total was respectable, but fantasy managers will hope for more next time he's out on the field.",
+      "description": "Puka Nacua caught five of nine targets for 74 yards in the Rams' 27-7 loss to the Niners on Thursday.",
+      "metadata": {
+        "analysis": "Puka was the only Ram who had more than 26 receiving yards, and most of those yards came on a nice catch and run early on in the game. His final total was respectable, but fantasy managers will hope for more next time he's out on the field.",
+        "description": "Puka Nacua caught five of nine targets for 74 yards in the Rams' 27-7 loss to the Niners on Thursday.",
+        "title": "Puka Nacua goes for 74 yards in loss",
+        "topic_id": "1403984992639406080",
+        "url": "https://www.fantasypros.com/nfl/news/607059/puka-nacua-goes-74-yards-loss.php"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1789098616332,
+      "source": "fantasy_pros",
+      "source_key": "607059",
+      "story_id": "nfl|9493|fantasy_pros|607059|1789098616332",
+      "title": "Puka Nacua goes for 74 yards in loss",
+      "url": "https://www.fantasypros.com/nfl/news/607059/puka-nacua-goes-74-yards-loss.php"
+    },
+    {
+      "analysis": "Adams could just not get much going against the Niners. On the bright side, his six targets were second on the team, so he's still earning opportunities. It just wasn't his day, as was the story for most of the team. He will try to improve next time out.",
+      "description": "Davante Adams caught just three of six targets for 26 yards in the Rams' 27-7 loss to the 49ers on Thursday.",
+      "metadata": {
+        "analysis": "Adams could just not get much going against the Niners. On the bright side, his six targets were second on the team, so he's still earning opportunities. It just wasn't his day, as was the story for most of the team. He will try to improve next time out.",
+        "description": "Davante Adams caught just three of six targets for 26 yards in the Rams' 27-7 loss to the 49ers on Thursday.",
+        "title": "Davante Adams quiet in loss to 49ers",
+        "topic_id": "1403984992572297216",
+        "url": "https://www.fantasypros.com/nfl/news/607060/davante-adams-quiet-loss-to-49ers.php"
+      },
+      "nfl_team": "LAR",
+      "player_id": "2133",
+      "player_name": "Davante Adams",
+      "position": "WR",
+      "published": 1789098616316,
+      "source": "fantasy_pros",
+      "source_key": "607060",
+      "story_id": "nfl|2133|fantasy_pros|607060|1789098616316",
+      "title": "Davante Adams quiet in loss to 49ers",
+      "url": "https://www.fantasypros.com/nfl/news/607060/davante-adams-quiet-loss-to-49ers.php"
+    },
+    {
+      "analysis": "Corum was solid on the ground at 5.4 a carry, but that was about all he had going for him. Without a touchdown or receiving work to go along with his yardage, it was a disappointing fantasy performance. However, his usage is encouraging; the Rams at least trust him enough that they will split Kyren Williams' workload with Corum. It makes him a top-tier handcuff RB, and one that should be rostered in case anything happens to Kyren.",
+      "description": "Blake Corum ran 10 times for 54 yards in the Rams' 27-7 loss to the 49ers on Thursday.",
+      "metadata": {
+        "analysis": "Corum was solid on the ground at 5.4 a carry, but that was about all he had going for him. Without a touchdown or receiving work to go along with his yardage, it was a disappointing fantasy performance. However, his usage is encouraging; the Rams at least trust him enough that they will split Kyren Williams' workload with Corum. It makes him a top-tier handcuff RB, and one that should be rostered in case anything happens to Kyren.",
+        "description": "Blake Corum ran 10 times for 54 yards in the Rams' 27-7 loss to the 49ers on Thursday.",
+        "title": "Blake Corum totals 54 yards in loss",
+        "topic_id": "1403984992500994048",
+        "url": "https://www.fantasypros.com/nfl/news/607061/blake-corum-totals-54-yards-loss.php"
+      },
+      "nfl_team": "LAR",
+      "player_id": "11586",
+      "player_name": "Blake Corum",
+      "position": "RB",
+      "published": 1789098616300,
+      "source": "fantasy_pros",
+      "source_key": "607061",
+      "story_id": "nfl|11586|fantasy_pros|607061|1789098616300",
+      "title": "Blake Corum totals 54 yards in loss",
+      "url": "https://www.fantasypros.com/nfl/news/607061/blake-corum-totals-54-yards-loss.php"
+    },
     {
       "analysis": "Stafford was not in his best form on Thursday, missing throws and looking a little rusty. It's a rough start for a team that was deemed Super Bowl-bound, but he will look to get back on track next week. ",
       "description": "Matthew Stafford completed 15-of-25 passes for 155 yards and a pick in the Rams' 27-7 blowout loss to the 49ers. He also ran twice for a loss of a yard.",
