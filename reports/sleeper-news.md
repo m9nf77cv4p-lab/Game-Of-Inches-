@@ -2,14 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2599**
-- Newly captured: **4**
+- Stored stories: **2600**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling - Returns to Thursday's game (2026-09-11T01:19:31Z)
-  - Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deep Samuel, George Kittle and Christian McCaffrey for opportunities.
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling - Questionable to return Thursday (2026-09-11T01:14:26Z)
+- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling helped off field Thursday  (2026-09-11T01:35:31.104000Z)
+  - Stribling had already been in the blue medical tent before returning to the game. He went down after running a route. There will be an update provided on his status when available. 
+  - Source: https://www.fantasypros.com/nfl/news/607051/dezhaun-stribling-helped-off-field-thursday.php
+- **De'Zhaun Stribling** — De'Zhaun Stribling - Returns to Thursday's game (2026-09-11T01:19:31Z)
+  - Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deebo Samuel, George Kittle and Christian McCaffrey for opportunities.
+- **De'Zhaun Stribling** — De'Zhaun Stribling - Questionable to return Thursday (2026-09-11T01:14:26Z)
   - Stribling took a trip to the blue medical tent on the sideline near the end of the first quarter. Prior to the injury, Stribling wasn't targeted on any of Brock Purdy's 14 pass attempts. Demarcus Robinson would be in line for more work behind Mike Evans and Deebo Samuel if Stribling is unable to return Thursday.
 - **Chris Bell** — Chris Bell - Still working on conditioning (2026-09-11T00:08:46Z)
   - Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial "pitch count" against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.
@@ -54,7 +57,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - McMillan has been tending to a knee injury since early August, a scenario that sidelined him for the entire preseason slate. With back-to-back capped sessions under his belt, he still has some work to do to make himself available for Sunday's game at Cincinnati. Friday's practice report will reveal if McMillan enters the weekend with a designation ahead of that matchup.
 - **Jakobi Meyers** — Jakobi Meyers - Stays limited in practice (2026-09-10T21:25:13Z)
   - Per Ryan O'Halloran of The Florida Times-Union, Meyers was donning a non-contact jersey for the second day in a row while aiming to protect his injured right thumb. The fact that he's practiced in some fashion during the first two days of Week 1 prep is generally a positive sign for Meyers' status heading into Sunday's game against the Browns, but he may need to turn in a full practice Friday to avoid taking a designation into the weekend.
-- **NEW — Chris Bell** — Chris Bell Still Working to Regain His Conditioning (2026-09-10T21:16:05Z)
+- **Chris Bell** — Chris Bell Still Working to Regain His Conditioning (2026-09-10T21:16:05Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-still-working-to-regain-his-conditioning/1928005
 - **Rashee Rice** — Rashee Rice (knee) logs full practice Thursday (2026-09-10T21:15:29.632000Z)
   - As expected, Rice was able to log a full practice session on Thursday and seems to be set to play in Monday night's game against the Denver Broncos. Despite the tough matchup, he projects to be a good fantasy option in PPR leagues this week, especially with Patrick Mahomes II (knee) likely to be at the helm for Kansas City.
@@ -65,7 +68,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Xavier Worthy** — Xavier Worthy (shoulder) listed as full participant Thursday (2026-09-10T21:15:29.608000Z)
   - To no surprise, Worthy seems to be over his shoulder injury and was able to practice in full on Thursday. He should be a full go for Week 1 but doesn't project to be a strong fantasy option in a matchup against the Broncos.
   - Source: https://www.fantasypros.com/nfl/news/607012/xavier-worthy-shoulder-listed-full-participant-thursday.php
-- **NEW — Tucker Kraft** — Tucker Kraft Unlikely to Receive Extension Before Week 1 (2026-09-10T21:09:05Z)
+- **Tucker Kraft** — Tucker Kraft Unlikely to Receive Extension Before Week 1 (2026-09-10T21:09:05Z)
   - Source: https://www.rotoballer.com/player-news/tucker-kraft-unlikely-to-receive-extension-before-week-1/1928000
 - **Patrick Mahomes** — Patrick Mahomes II (knee) practices in full Thursday (2026-09-10T21:05:29.581000Z)
   - Mahomes was able to take part in Kansas City's first practice of the week on Thursday and wasn't limited in any way. It seems like the team is planning on him starting on Monday night, barring any unforeseen setbacks. His presence would be great news for the fantasy value of players like Rashee Rice and Travis Kelce in a matchup against a tough Denver defense.
@@ -240,6 +243,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Rashid Shaheed** — Rashid Shaheed quiet in win Wednesday (2026-09-10T15:40:05.120000Z)
   - The speedy wideout wasn't able to do much on Wednesday, catching just one pass for four yards in the team's win over New England. The injury to starter Sam Darnold (hip) may have played a large role in his lack of production, however, so this isn't a good game to look at in order to discern his true involvement in this offense.
   - Source: https://www.fantasypros.com/nfl/news/606924/rashid-shaheed-quiet-win-wednesday.php
-- **AJ Barner** — AJ Barner catches two passes Wednesday (2026-09-10T15:40:05.109000Z)
-  - The Seahawks were able to pick up a win over the Patriots on Wednesday, but they didn't need to get Barner very involved in order to do so. He finished the game with just two catches for 13 yards, and there's not much reason to believe that he will bounce back and become a quality week-to-week option anytime soon.
-  - Source: https://www.fantasypros.com/nfl/news/606925/aj-barner-catches-two-passes-wednesday.php

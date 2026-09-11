@@ -1,12 +1,9 @@
 {
-  "last_checked_at": "2026-09-11T01:26:53Z",
+  "last_checked_at": "2026-09-11T01:41:01Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13311|rotoballer|220587|1789074965000",
-    "nfl|13417|rotowire|636787|1789089266000",
-    "nfl|13417|rotowire|636789|1789089571000",
-    "nfl|9484|rotoballer|220586|1789074545000"
+    "nfl|13417|fantasy_pros|607051|1789090531104"
   ],
   "schema_version": 1,
   "source": {
@@ -17,10 +14,31 @@
   },
   "stories": [
     {
-      "analysis": "Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deep Samuel, George Kittle and Christian McCaffrey for opportunities.",
+      "analysis": "Stribling had already been in the blue medical tent before returning to the game. He went down after running a route. There will be an update provided on his status when available. ",
+      "description": "49ers WR De'Zhaun Stribling was helped off the field during Thursday's game against the Rams. ",
+      "metadata": {
+        "analysis": "Stribling had already been in the blue medical tent before returning to the game. He went down after running a route. There will be an update provided on his status when available. ",
+        "description": "49ers WR De'Zhaun Stribling was helped off the field during Thursday's game against the Rams. ",
+        "title": "De'Zhaun Stribling helped off field Thursday ",
+        "topic_id": "1403951080735346688",
+        "url": "https://www.fantasypros.com/nfl/news/607051/dezhaun-stribling-helped-off-field-thursday.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1789090531104,
+      "source": "fantasy_pros",
+      "source_key": "607051",
+      "story_id": "nfl|13417|fantasy_pros|607051|1789090531104",
+      "title": "De'Zhaun Stribling helped off field Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/607051/dezhaun-stribling-helped-off-field-thursday.php"
+    },
+    {
+      "analysis": "Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deebo Samuel, George Kittle and Christian McCaffrey for opportunities.",
       "description": "Stribling (ankle) returned to Thursday's game against the Rams, Jennifer Lee Chan of NBC Sports Bay Area reports.",
       "metadata": {
-        "analysis": "Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deep Samuel, George Kittle and Christian McCaffrey for opportunities.",
+        "analysis": "Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deebo Samuel, George Kittle and Christian McCaffrey for opportunities.",
         "description": "Stribling (ankle) returned to Thursday's game against the Rams, Jennifer Lee Chan of NBC Sports Bay Area reports.",
         "title": "De'Zhaun Stribling - Returns to Thursday's game",
         "topic_id": "1403947304410443776"
