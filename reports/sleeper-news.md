@@ -2,11 +2,13 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2639**
-- Newly captured: **0**
+- Stored stories: **2640**
+- Newly captured: **1**
 
 ## Latest news
 
+- **NEW — Isiah Pacheco** — Isiah Pacheco Droppable After Landing on Injured Reserve (2026-09-11T09:10:05Z)
+  - Source: https://www.rotoballer.com/player-news/isiah-pacheco-droppable-after-landing-on-injured-reserve/1928207
 - **Deebo Samuel** — Deebo Samuel - Successful 49ers return in win (2026-09-11T05:26:25Z)
   - The versatile Samuel made a splash in his return to the 49ers following a one-year stint with the Commanders, tying for the team lead in receptions and for runner-up status in targets as well with new teammate Mike Evans. Samuel's production was boosted by the second-quarter exit of De'Zhaun Stribling due to an ankle injury, and the highlight of the former's performance came when he recorded a 15-yard touchdown reception early in the fourth quarter by mirroring Brock Purdy's movement across the field as the quarterback extended the play. Samuel's Week 1 usage implied he'll fill the same type of diverse role he previously thrived in within head coach Kyle Shanahan's offense, and the veteran receiver is likely to remain busy in a Week 2 home matchup against the Dolphins on Sunday, Sept. 20.
 - **George Kittle** — George Kittle - Pair of catches in Week 1 (2026-09-11T05:18:17Z)
@@ -245,5 +247,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606964/malik-nabers-knee-practices-full-thursday.php
 - **Malik Nabers** — Malik Nabers - Another full practice Thursday (2026-09-10T19:40:06Z)
   - Coach John Harbaugh provided the update after Thursday's session. Nabers has been practicing in full this week, though there's no confirmation on his status for Sunday night's game against the Cowboys just yet. It appears the Giants will wait as long as they can to make a final determination on their star receiver's Week 1 availability.
-- **A.J. Brown** — A.J. Brown to Miss at Least Four Weeks (2026-09-10T19:32:07Z)
-  - Source: https://www.rotoballer.com/player-news/a-j-brown-to-miss-at-least-four-weeks/1927951

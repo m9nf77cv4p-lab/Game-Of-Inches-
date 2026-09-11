@@ -1,8 +1,10 @@
 {
-  "last_checked_at": "2026-09-11T10:46:06Z",
+  "last_checked_at": "2026-09-11T13:18:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|8205|rotoballer|220613|1789117805000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Detroit Lions running back Isiah Pacheco (knee/back) will enter the 2026 season on injured reserve. After a sprained MCL in early August, Pacheco dealt with a back injury that head coach Dan Campbell said was more concerning than the knee. With the former Chiefs' back set to miss at least the first four games of the season, fantasy managers in 10- or 12-team leagues should consider dropping him. He had 118 carries for 462 yards and one touchdown last season, averaging six half-PPR fantasy points per game. Once healthy, Pacheco will compete for a backup role behind star running back Jahmyr Gibbs. Even if he suffers an injury, a committee with Sione Vaki or Jacob Saylors, or a free-agency move by the Lions, would be considered as well. There are more high-upside running backs on the waiver wire, and the injuries have set him back.",
+      "metadata": {
+        "description": "Detroit Lions running back Isiah Pacheco (knee/back) will enter the 2026 season on injured reserve. After a sprained MCL in early August, Pacheco dealt with a back injury that head coach Dan Campbell said was more concerning than the knee. With the former Chiefs' back set to miss at least the first four games of the season, fantasy managers in 10- or 12-team leagues should consider dropping him. He had 118 carries for 462 yards and one touchdown last season, averaging six half-PPR fantasy points per game. Once healthy, Pacheco will compete for a backup role behind star running back Jahmyr Gibbs. Even if he suffers an injury, a committee with Sione Vaki or Jacob Saylors, or a free-agency move by the Lions, would be considered as well. There are more high-upside running backs on the waiver wire, and the injuries have set him back.",
+        "title": "Isiah Pacheco Droppable After Landing on Injured Reserve",
+        "topic_id": "1404127218526896128",
+        "url": "https://www.rotoballer.com/player-news/isiah-pacheco-droppable-after-landing-on-injured-reserve/1928207"
+      },
+      "nfl_team": "DET",
+      "player_id": "8205",
+      "player_name": "Isiah Pacheco",
+      "position": "RB",
+      "published": 1789117805000,
+      "source": "rotoballer",
+      "source_key": "220613",
+      "story_id": "nfl|8205|rotoballer|220613|1789117805000",
+      "title": "Isiah Pacheco Droppable After Landing on Injured Reserve",
+      "url": "https://www.rotoballer.com/player-news/isiah-pacheco-droppable-after-landing-on-injured-reserve/1928207"
+    },
     {
       "analysis": "The versatile Samuel made a splash in his return to the 49ers following a one-year stint with the Commanders, tying for the team lead in receptions and for runner-up status in targets as well with new teammate Mike Evans. Samuel's production was boosted by the second-quarter exit of De'Zhaun Stribling due to an ankle injury, and the highlight of the former's performance came when he recorded a 15-yard touchdown reception early in the fourth quarter by mirroring Brock Purdy's movement across the field as the quarterback extended the play. Samuel's Week 1 usage implied he'll fill the same type of diverse role he previously thrived in within head coach Kyle Shanahan's offense, and the veteran receiver is likely to remain busy in a Week 2 home matchup against the Dolphins on Sunday, Sept. 20.",
       "description": "Samuel brought in six of seven targets for 48 yards and a touchdown, rushed once for 12 yards and returned two kickoffs for 74 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
