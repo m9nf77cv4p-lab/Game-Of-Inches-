@@ -1,16 +1,13 @@
 {
-  "last_checked_at": "2026-09-11T04:17:36Z",
+  "last_checked_at": "2026-09-11T04:33:22Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13417|fantasy_pros|607065|1789099216708",
-    "nfl|13417|rotowire|636804|1789099107000",
-    "nfl|2216|fantasy_pros|607067|1789099816581",
-    "nfl|4034|fantasy_pros|607066|1789099816595",
-    "nfl|4034|rotowire|636803|1789098974000",
-    "nfl|4217|fantasy_pros|607068|1789099816568",
-    "nfl|8150|rotowire|636806|1789099720000",
-    "nfl|9493|rotowire|636805|1789099281000"
+    "nfl|13414|fantasy_pros|607071|1789100416665",
+    "nfl|2216|rotowire|636811|1789100679000",
+    "nfl|5872|fantasy_pros|607070|1789100416686",
+    "nfl|8183|fantasy_pros|607069|1789100416703",
+    "nfl|8183|rotowire|636809|1789100216000"
   ],
   "schema_version": 1,
   "source": {
@@ -20,6 +17,109 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Evans shrugged off recent nagging injuries to hit the ground running in his 49ers regular-season debut, recording three catches for 22 yards on the opening possession alone. Evans would go on to double up that reception tally by game's end, tying for the team lead in that category with Deebo Samuel while also drawing even with his teammate for second in targets. Evans was also on the receiving end of the second of Brock Purdy's three touchdown passes, muscling his way to a contested two-yard grab in the left corner of the end zone in the third quarter. If early returns are any indication, the Purdy-Evans connection could be a prolific one throughout the season, and a Week 2 home matchup against the Dolphins on Sunday, Sept. 20 presents as a particularly promising matchup.",
+      "description": "Evans secured six of seven targets for 49 yards and a touchdown during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
+      "metadata": {
+        "analysis": "Evans shrugged off recent nagging injuries to hit the ground running in his 49ers regular-season debut, recording three catches for 22 yards on the opening possession alone. Evans would go on to double up that reception tally by game's end, tying for the team lead in that category with Deebo Samuel while also drawing even with his teammate for second in targets. Evans was also on the receiving end of the second of Brock Purdy's three touchdown passes, muscling his way to a contested two-yard grab in the left corner of the end zone in the third quarter. If early returns are any indication, the Purdy-Evans connection could be a prolific one throughout the season, and a Week 2 home matchup against the Dolphins on Sunday, Sept. 20 presents as a particularly promising matchup.",
+        "description": "Evans secured six of seven targets for 49 yards and a touchdown during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
+        "title": "Mike Evans - Clicks quickly with Purdy",
+        "topic_id": "1403995059203919872"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1789100679000,
+      "source": "rotowire",
+      "source_key": "636811",
+      "story_id": "nfl|2216|rotowire|636811|1789100679000",
+      "title": "Mike Evans - Clicks quickly with Purdy",
+      "url": null
+    },
+    {
+      "analysis": "Purdy was great in this game aside from a couple of hiccups, namely the interception. However, he did what he needed to and got the Niners into scoring position and helped them take advantage of the several short fields they inherited. Purdy should be a solid asset moving forward for fantasy.",
+      "description": "Brock Purdy completed 25-of-34 passes for 205 yards, three touchdowns, and a pick in the 49ers' 27-7 win over the Rams on Thursday. He also ran five times for 29 yards.",
+      "metadata": {
+        "analysis": "Purdy was great in this game aside from a couple of hiccups, namely the interception. However, he did what he needed to and got the Niners into scoring position and helped them take advantage of the several short fields they inherited. Purdy should be a solid asset moving forward for fantasy.",
+        "description": "Brock Purdy completed 25-of-34 passes for 205 yards, three touchdowns, and a pick in the 49ers' 27-7 win over the Rams on Thursday. He also ran five times for 29 yards.",
+        "title": "Brock Purdy dismantles Rams defense in statement win",
+        "topic_id": "1403992543942680576",
+        "url": "https://www.fantasypros.com/nfl/news/607069/brock-purdy-dismantles-rams-defense-statement-win.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "8183",
+      "player_name": "Brock Purdy",
+      "position": "QB",
+      "published": 1789100416703,
+      "source": "fantasy_pros",
+      "source_key": "607069",
+      "story_id": "nfl|8183|fantasy_pros|607069|1789100416703",
+      "title": "Brock Purdy dismantles Rams defense in statement win",
+      "url": "https://www.fantasypros.com/nfl/news/607069/brock-purdy-dismantles-rams-defense-statement-win.php"
+    },
+    {
+      "analysis": "Samuel looks to have come back to his old role on the 49ers, lining up everywhere and getting the ball put in his hands to make plays. He even had over 70 kick return yards. Samuel just might be a draft-day steal if they are going to use him like this throughout the season.",
+      "description": "Deebo Samuel Sr. caught six of seven targets for 48 yards and a touchdown in the 49ers' 27-7 win over the Rams on Thursday. He also carried the ball once for 12 yards.",
+      "metadata": {
+        "analysis": "Samuel looks to have come back to his old role on the 49ers, lining up everywhere and getting the ball put in his hands to make plays. He even had over 70 kick return yards. Samuel just might be a draft-day steal if they are going to use him like this throughout the season.",
+        "description": "Deebo Samuel Sr. caught six of seven targets for 48 yards and a touchdown in the 49ers' 27-7 win over the Rams on Thursday. He also carried the ball once for 12 yards.",
+        "title": "Deebo Samuel Sr. snags touchdown in win",
+        "topic_id": "1403992543862988800",
+        "url": "https://www.fantasypros.com/nfl/news/607070/deebo-samuel-sr-snags-touchdown-win.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "5872",
+      "player_name": "Deebo Samuel",
+      "position": "WR",
+      "published": 1789100416686,
+      "source": "fantasy_pros",
+      "source_key": "607070",
+      "story_id": "nfl|5872|fantasy_pros|607070|1789100416686",
+      "title": "Deebo Samuel Sr. snags touchdown in win",
+      "url": "https://www.fantasypros.com/nfl/news/607070/deebo-samuel-sr-snags-touchdown-win.php"
+    },
+    {
+      "analysis": "Black was in a full-on committee with Christian McCaffrey, something few, if any, saw coming. Both were tied at 15 touches apiece, but McCaffrey led in total opportunities thanks to seeing more targets. Black won't have games like this all the time, but he's showing himself to be a valuable handcuff that CMC managers will need to snag when they can.",
+      "description": "Kaelon Black ran 14 times for 65 yards and caught his only target for five yards in the 49ers' 27-7 win over the Rams on Thursday.",
+      "metadata": {
+        "analysis": "Black was in a full-on committee with Christian McCaffrey, something few, if any, saw coming. Both were tied at 15 touches apiece, but McCaffrey led in total opportunities thanks to seeing more targets. Black won't have games like this all the time, but he's showing himself to be a valuable handcuff that CMC managers will need to snag when they can.",
+        "description": "Kaelon Black ran 14 times for 65 yards and caught his only target for five yards in the 49ers' 27-7 win over the Rams on Thursday.",
+        "title": "Kaelon Black impresses in win over Rams",
+        "topic_id": "1403992543779102720",
+        "url": "https://www.fantasypros.com/nfl/news/607071/kaelon-black-impresses-win-over-rams.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "13414",
+      "player_name": "Kaelon Black",
+      "position": "RB",
+      "published": 1789100416665,
+      "source": "fantasy_pros",
+      "source_key": "607071",
+      "story_id": "nfl|13414|fantasy_pros|607071|1789100416665",
+      "title": "Kaelon Black impresses in win over Rams",
+      "url": "https://www.fantasypros.com/nfl/news/607071/kaelon-black-impresses-win-over-rams.php"
+    },
+    {
+      "analysis": "After an offseason in which the Rams' fearsome pass rush garnered plenty of headlines, Purdy navigated the season-opening matchup against his talented NFC West rival in nearly flawless fashion. The fifth-year signal-caller got off to a fast start with new No. 1 receiver Mike Evans, connecting with him on three occasions for 22 yards during a 15-play opening drive that culminated in a field goal. Purdy went on to hit Evans for a contested two-yard scoring strike early in the third quarter, and he sandwiched impressive touchdown tosses to Demarcus Robinson and Deebo Samuel of 39 and 15 yards, respectively, around that play. Purdy's early second-quarter interception on a pass intended for George Kittle did lead to the Rams' only touchdown, but as the final numbers indicate, the veteran quarterback did more than enough to atone. Purdy should have a strong chance of carrying over the season-opening momentum into Week 2, as a home date with what's expected to be a vulnerable Dolphins defense awaits on Sunday, Sept. 20.",
+      "description": "Purdy completed 25 of 34 passes for 205 yards with three touchdowns and one interception while adding five rushes for 29 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
+      "metadata": {
+        "analysis": "After an offseason in which the Rams' fearsome pass rush garnered plenty of headlines, Purdy navigated the season-opening matchup against his talented NFC West rival in nearly flawless fashion. The fifth-year signal-caller got off to a fast start with new No. 1 receiver Mike Evans, connecting with him on three occasions for 22 yards during a 15-play opening drive that culminated in a field goal. Purdy went on to hit Evans for a contested two-yard scoring strike early in the third quarter, and he sandwiched impressive touchdown tosses to Demarcus Robinson and Deebo Samuel of 39 and 15 yards, respectively, around that play. Purdy's early second-quarter interception on a pass intended for George Kittle did lead to the Rams' only touchdown, but as the final numbers indicate, the veteran quarterback did more than enough to atone. Purdy should have a strong chance of carrying over the season-opening momentum into Week 2, as a home date with what's expected to be a vulnerable Dolphins defense awaits on Sunday, Sept. 20.",
+        "description": "Purdy completed 25 of 34 passes for 205 yards with three touchdowns and one interception while adding five rushes for 29 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
+        "title": "Brock Purdy - Three-TD effort to open season",
+        "topic_id": "1403992542957068288"
+      },
+      "nfl_team": "SF",
+      "player_id": "8183",
+      "player_name": "Brock Purdy",
+      "position": "QB",
+      "published": 1789100216000,
+      "source": "rotowire",
+      "source_key": "636809",
+      "story_id": "nfl|8183|rotowire|636809|1789100216000",
+      "title": "Brock Purdy - Three-TD effort to open season",
+      "url": null
+    },
     {
       "analysis": "McCaffrey surprisingly had a split backfield with Kaelon Black, at least much more than expected. The veteran tied Black in touches, 15 to 15, but had the edge in opportunities, 18 to 15, thanks to receiving. It will be interesting to see if this is a Week 1 fluke or a recurring theme, as Black was involved throughout the game, not just when the game was well in hand. Still, CMC is a top-tier asset, and while today was fine, bigger days are ahead.",
       "description": "Christian McCaffrey ran 10 times for 68 yards and caught five of eight targets for 20 yards in the 49ers' 27-7 win over the Rams on Thursday.",
@@ -145,10 +245,10 @@
       "url": "https://www.fantasypros.com/nfl/news/607065/dezhaun-stribling-ankle-suffers-ankle-injury-thursday-achilles-is-ok.php"
     },
     {
-      "analysis": "After suffering his ankle injury in the first quarter Thursday against the Rams, Stribling came back in the game in the second quarter and abruptly left again after he fell to the ground in pain while running a route. While he's avoided an Achilles injury, Stribling's ankle injury did look to be pretty serious after he had to be helped off the field and then carted to the locker room. The good news is the 49ers have 10 days before their next game. Stribling will undergo further testing to determine the extent of the injury.",
+      "analysis": "After suffering his ankle injury in the first quarter Thursday against the Rams, Stribling came back in the game in the second quarter and abruptly left again after he fell to the ground in pain while running a route. While he's avoided an Achilles injury, Stribling's ankle issue did look to be pretty serious after he had to be helped off the field and then carted to the locker room. The good news is the 49ers have 10 days before their next game. Stribling will undergo further testing to determine the extent of the injury.",
       "description": "Stribling (ankle) avoided an Achilles injury Thursday against the Rams after initial tests revealed his Achilles is intact, James Palmer of The Athletic reports.",
       "metadata": {
-        "analysis": "After suffering his ankle injury in the first quarter Thursday against the Rams, Stribling came back in the game in the second quarter and abruptly left again after he fell to the ground in pain while running a route. While he's avoided an Achilles injury, Stribling's ankle injury did look to be pretty serious after he had to be helped off the field and then carted to the locker room. The good news is the 49ers have 10 days before their next game. Stribling will undergo further testing to determine the extent of the injury.",
+        "analysis": "After suffering his ankle injury in the first quarter Thursday against the Rams, Stribling came back in the game in the second quarter and abruptly left again after he fell to the ground in pain while running a route. While he's avoided an Achilles injury, Stribling's ankle issue did look to be pretty serious after he had to be helped off the field and then carted to the locker room. The good news is the 49ers have 10 days before their next game. Stribling will undergo further testing to determine the extent of the injury.",
         "description": "Stribling (ankle) avoided an Achilles injury Thursday against the Rams after initial tests revealed his Achilles is intact, James Palmer of The Athletic reports.",
         "title": "De'Zhaun Stribling - Avoids Achilles injury",
         "topic_id": "1403987510173921280"
@@ -1103,10 +1203,10 @@
       "url": null
     },
     {
-      "analysis": "Flowers was listed as a limited participant Wednesday but upgraded to full participation Thursday, putting him on track to play in Sunday's season opener against the Colts. After leading the Ravens with 1,211 receiving yards last season, Flowers is set to reprise his role as Lamar Jackson's top target under new offensive coordinator Declan Doyle.",
+      "analysis": "Flowers was listed as a limited participant Wednesday but upgraded to all activity Thursday, putting him on track to play in Sunday's season opener against the Colts. After leading the Ravens with 1,211 receiving yards last season, Flowers is set to reprise his role as Lamar Jackson's top target under new offensive coordinator Declan Doyle.",
       "description": "Flowers (hamstring) was a full participant at Thursday's practice.",
       "metadata": {
-        "analysis": "Flowers was listed as a limited participant Wednesday but upgraded to full participation Thursday, putting him on track to play in Sunday's season opener against the Colts. After leading the Ravens with 1,211 receiving yards last season, Flowers is set to reprise his role as Lamar Jackson's top target under new offensive coordinator Declan Doyle.",
+        "analysis": "Flowers was listed as a limited participant Wednesday but upgraded to all activity Thursday, putting him on track to play in Sunday's season opener against the Colts. After leading the Ravens with 1,211 receiving yards last season, Flowers is set to reprise his role as Lamar Jackson's top target under new offensive coordinator Declan Doyle.",
         "description": "Flowers (hamstring) was a full participant at Thursday's practice.",
         "title": "Zay Flowers - Upgrades to full Thursday",
         "topic_id": "1403878058103963648"
