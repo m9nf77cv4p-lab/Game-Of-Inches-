@@ -2,12 +2,16 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2641**
-- Newly captured: **1**
+- Stored stories: **2643**
+- Newly captured: **2**
 
 ## Latest news
 
-- **NEW — De'Zhaun Stribling** — RapSheet: De'Zhaun Stribling Likely to Miss Time (2026-09-11T09:20:05Z)
+- **NEW — Jordan Mason** — Aaron Jones Sr. Could Lose Snaps to Backfield Mate in 2026 (2026-09-11T09:36:52Z)
+  - Source: https://www.rotoballer.com/player-news/jordan-mason-threatens-aaron-jones-fantasy-value-in-2026/1928264
+- **NEW — Jordan James** — Jordan James Off Fantasy Radar After Losing RB2 Role (2026-09-11T09:30:06Z)
+  - Source: https://www.rotoballer.com/player-news/jordan-james-off-fantasy-radar-after-losing-rb2-role-to-kaelon-black/1928239
+- **De'Zhaun Stribling** — De'Zhaun Stribling Likely to Miss Time (2026-09-11T09:20:05Z)
   - Source: https://www.rotoballer.com/player-news/rapsheet-dezhaun-stribling-likely-to-miss-time/1928217
 - **Isiah Pacheco** — Isiah Pacheco Droppable After Landing on Injured Reserve (2026-09-11T09:10:05Z)
   - Source: https://www.rotoballer.com/player-news/isiah-pacheco-droppable-after-landing-on-injured-reserve/1928207
@@ -242,8 +246,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/606965/zachariah-branch-hamstring-limited-participant-thursday.php
 - **Jonathon Brooks** — Jonathon Brooks - Limited participant Thursday (2026-09-10T19:47:45Z)
   - Brooks said Wednesday that he expects to play in the opener, but the club continues to keep a lid on his practice participation as he's yet to log a full session this week. He still could play this week despite the team's caution in practice. Assuming he's good to go, Brooks and Chuba Hubbard will handle the bulk of the backfield work against the Bears on Sunday.
-- **Tua Tagovailoa** — Tua Tagovailoa - Week 1 status in doubt due to back (2026-09-10T19:41:31Z)
-  - Tagovailoa was named Atlanta's starter for Sunday's regular-season opener earlier in the week, but he went down grabbing his back in individual drills Thursday and subsequently sat out the remainder of practice. The Falcons are now preparing to head into Week 1 with the third-stringer Rush under center, as Tua is in danger of joining Michael Penix (knee) on the sidelines. If Tagovailoa is ruled out, Jack Strand would serve as Rush's backup Sunday.
-- **Malik Nabers** — Malik Nabers (knee) practices in full Thursday (2026-09-10T19:40:21.984000Z)
-  - Nabers was a full participant for the Giants on Thursday. It has already been reported that he is likely to play in Sunday night's game, and his participation at practice all but confirms that. Fantasy managers should feel pretty good about starting him if he's active in Week 1, even with it being his first game back from injury.
-  - Source: https://www.fantasypros.com/nfl/news/606964/malik-nabers-knee-practices-full-thursday.php

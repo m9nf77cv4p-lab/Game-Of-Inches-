@@ -1,9 +1,10 @@
 {
-  "last_checked_at": "2026-09-11T13:33:00Z",
+  "last_checked_at": "2026-09-11T13:47:12Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13417|rotoballer|220614|1789118405000"
+    "nfl|12467|rotoballer|220615|1789119006000",
+    "nfl|8408|rotoballer|220616|1789119412000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,10 +16,50 @@
   "stories": [
     {
       "analysis": null,
+      "description": "Minnesota Vikings running back Aaron Jones Sr. is expected to split the backfield with Jordan Mason this season. Last season, Jones had 160 touches for 747 yards and three touchdowns in 12 games, while Mason had 173 touches for 809 yards and six touchdowns in 16 games. Mason has reportedly had a strong training camp, looks fast and explosive, and has a shot at the starting role in Minnesota. With Kyler Murray under center and a favorable schedule for running backs, both players can produce, but Mason has more workhorse upside. Jones has also missed 11 games over the last three seasons, making him a riskier option. Both will limit each other's fantasy value in a committee, but Mason's strong training camp and career efficiency give him the best chance to eventually take over this backfield.",
+      "metadata": {
+        "description": "Minnesota Vikings running back Aaron Jones Sr. is expected to split the backfield with Jordan Mason this season. Last season, Jones had 160 touches for 747 yards and three touchdowns in 12 games, while Mason had 173 touches for 809 yards and six touchdowns in 16 games. Mason has reportedly had a strong training camp, looks fast and explosive, and has a shot at the starting role in Minnesota. With Kyler Murray under center and a favorable schedule for running backs, both players can produce, but Mason has more workhorse upside. Jones has also missed 11 games over the last three seasons, making him a riskier option. Both will limit each other's fantasy value in a committee, but Mason's strong training camp and career efficiency give him the best chance to eventually take over this backfield.",
+        "title": "Aaron Jones Sr. Could Lose Snaps to Backfield Mate in 2026",
+        "topic_id": "1404134768706093056",
+        "url": "https://www.rotoballer.com/player-news/jordan-mason-threatens-aaron-jones-fantasy-value-in-2026/1928264"
+      },
+      "nfl_team": "MIN",
+      "player_id": "8408",
+      "player_name": "Jordan Mason",
+      "position": "RB",
+      "published": 1789119412000,
+      "source": "rotoballer",
+      "source_key": "220616",
+      "story_id": "nfl|8408|rotoballer|220616|1789119412000",
+      "title": "Aaron Jones Sr. Could Lose Snaps to Backfield Mate in 2026",
+      "url": "https://www.rotoballer.com/player-news/jordan-mason-threatens-aaron-jones-fantasy-value-in-2026/1928264"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers running back Jordan James was a healthy scratch in Week 1 against the Los Angeles Rams. After battling rookie Kaelon Black in training camp, James appeared to lose the backup role and was inactive for the season opener in Melbourne, Australia. James has played only three games in his NFL career and has yet to record a stat. With him as the clear RB3 and the team's ability to use fullback Kyle Juszczyk and Deebo Samuel Sr. as emergency running backs, James does not appear likely to have a role this season unless both Black and star Christian McCaffrey are injured. Fantasy managers can safely drop the second-year back, with Black the clear backup in San Francisco.",
+      "metadata": {
+        "description": "San Francisco 49ers running back Jordan James was a healthy scratch in Week 1 against the Los Angeles Rams. After battling rookie Kaelon Black in training camp, James appeared to lose the backup role and was inactive for the season opener in Melbourne, Australia. James has played only three games in his NFL career and has yet to record a stat. With him as the clear RB3 and the team's ability to use fullback Kyle Juszczyk and Deebo Samuel Sr. as emergency running backs, James does not appear likely to have a role this season unless both Black and star Christian McCaffrey are injured. Fantasy managers can safely drop the second-year back, with Black the clear backup in San Francisco.",
+        "title": "Jordan James Off Fantasy Radar After Losing RB2 Role",
+        "topic_id": "1404133510192640000",
+        "url": "https://www.rotoballer.com/player-news/jordan-james-off-fantasy-radar-after-losing-rb2-role-to-kaelon-black/1928239"
+      },
+      "nfl_team": "SF",
+      "player_id": "12467",
+      "player_name": "Jordan James",
+      "position": "RB",
+      "published": 1789119006000,
+      "source": "rotoballer",
+      "source_key": "220615",
+      "story_id": "nfl|12467|rotoballer|220615|1789119006000",
+      "title": "Jordan James Off Fantasy Radar After Losing RB2 Role",
+      "url": "https://www.rotoballer.com/player-news/jordan-james-off-fantasy-radar-after-losing-rb2-role-to-kaelon-black/1928239"
+    },
+    {
+      "analysis": null,
       "description": "San Francisco 49ers rookie wide receiver De'Zhaun Stribling (ankle) will likely miss time, according to Ian Rapoport. Stribling limped off the field, went to the medical tent, returned, and then went down with a non-contact injury that appeared to be significant. The good news is that head coach Kyle Shanahan deemed it an ankle injury and that his Achilles tendon was intact. The rookie receiver was held without a target against the Los Angeles Rams but led the 49ers wideouts in snaps after three drives, playing more than Mike Evans, Deebo Samuel, and Demarcus Robinson, all of whom scored touchdowns in Week 1. While we won't know the full diagnosis until the team returns to the States, fantasy managers shouldn't drop the young, talented receiver.",
       "metadata": {
         "description": "San Francisco 49ers rookie wide receiver De'Zhaun Stribling (ankle) will likely miss time, according to Ian Rapoport. Stribling limped off the field, went to the medical tent, returned, and then went down with a non-contact injury that appeared to be significant. The good news is that head coach Kyle Shanahan deemed it an ankle injury and that his Achilles tendon was intact. The rookie receiver was held without a target against the Los Angeles Rams but led the 49ers wideouts in snaps after three drives, playing more than Mike Evans, Deebo Samuel, and Demarcus Robinson, all of whom scored touchdowns in Week 1. While we won't know the full diagnosis until the team returns to the States, fantasy managers shouldn't drop the young, talented receiver.",
-        "title": "RapSheet: De'Zhaun Stribling Likely to Miss Time",
+        "title": "De'Zhaun Stribling Likely to Miss Time",
         "topic_id": "1404129735033798656",
         "url": "https://www.rotoballer.com/player-news/rapsheet-dezhaun-stribling-likely-to-miss-time/1928217"
       },
@@ -30,7 +71,7 @@
       "source": "rotoballer",
       "source_key": "220614",
       "story_id": "nfl|13417|rotoballer|220614|1789118405000",
-      "title": "RapSheet: De'Zhaun Stribling Likely to Miss Time",
+      "title": "De'Zhaun Stribling Likely to Miss Time",
       "url": "https://www.rotoballer.com/player-news/rapsheet-dezhaun-stribling-likely-to-miss-time/1928217"
     },
     {
