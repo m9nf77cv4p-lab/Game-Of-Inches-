@@ -1,10 +1,12 @@
 {
-  "last_checked_at": "2026-09-11T15:31:58Z",
+  "last_checked_at": "2026-09-11T15:46:14Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13287|rotoballer|220624|1789125605000",
-    "nfl|13287|rotowire|636821|1789139780000"
+    "nfl|11583|fantasy_pros|607120|1789140927526",
+    "nfl|11618|fantasy_pros|607122|1789141228014",
+    "nfl|12514|fantasy_pros|607121|1789140927511",
+    "nfl|9487|rotowire|636823|1789141118000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +16,89 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "After being limited by a knee issue on Thursday, McMillan showed no limitations on Friday. The third-year receiver is looking for a strong start after playing in only four games last season due to injury. ",
+      "description": "Jalen McMillan (knee) was a full participant in Friday's practice session. ",
+      "metadata": {
+        "analysis": "After being limited by a knee issue on Thursday, McMillan showed no limitations on Friday. The third-year receiver is looking for a strong start after playing in only four games last season due to injury. ",
+        "description": "Jalen McMillan (knee) was a full participant in Friday's practice session. ",
+        "title": "Jalen McMillan (knee) practicing in full",
+        "topic_id": "1404163718991900672",
+        "url": "https://www.fantasypros.com/nfl/news/607122/jalen-mcmillan-knee-practicing-full.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1789141228014,
+      "source": "fantasy_pros",
+      "source_key": "607122",
+      "story_id": "nfl|11618|fantasy_pros|607122|1789141228014",
+      "title": "Jalen McMillan (knee) practicing in full",
+      "url": "https://www.fantasypros.com/nfl/news/607122/jalen-mcmillan-knee-practicing-full.php"
+    },
+    {
+      "analysis": "Coen also mentioned wanting to give Travis Hunter a shot in the return game, but it sounds like that's more of a project than a right-now possibility. In the meantime, Washington's ample experience on punt returns makes him the clear best choice for a role that's extremely important on a per-snap basis. It's only a few snaps per game, of course, but they are high-risk plays for injuries, and the fantasy payoff in most leagues is unlikely to be more than a six-point splash once per season. The good news for Washington's fantasy managers is that there's plenty of recent history of full-time starting wideouts also handling punt returns, including Antonio Brown and Tyreek Hill. While obviously in a different category athletically, Washington offers considerable breakout appeal after his huge finish to last season.",
+      "description": "Jaguars head coach Liam Coen confirmed Friday that Washington will be the team's primary punt returner to start the season, Ryan O'Halloran of The Florida Times-Union reports.",
+      "metadata": {
+        "analysis": "Coen also mentioned wanting to give Travis Hunter a shot in the return game, but it sounds like that's more of a project than a right-now possibility. In the meantime, Washington's ample experience on punt returns makes him the clear best choice for a role that's extremely important on a per-snap basis. It's only a few snaps per game, of course, but they are high-risk plays for injuries, and the fantasy payoff in most leagues is unlikely to be more than a six-point splash once per season. The good news for Washington's fantasy managers is that there's plenty of recent history of full-time starting wideouts also handling punt returns, including Antonio Brown and Tyreek Hill. While obviously in a different category athletically, Washington offers considerable breakout appeal after his huge finish to last season.",
+        "description": "Jaguars head coach Liam Coen confirmed Friday that Washington will be the team's primary punt returner to start the season, Ryan O'Halloran of The Florida Times-Union reports.",
+        "title": "Parker Washington - Returning punts for now",
+        "topic_id": "1404164972887425024"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9487",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "published": 1789141118000,
+      "source": "rotowire",
+      "source_key": "636823",
+      "story_id": "nfl|9487|rotowire|636823|1789141118000",
+      "title": "Parker Washington - Returning punts for now",
+      "url": null
+    },
+    {
+      "analysis": "Brooks has steadily improved since suffering the groin injury and looks like he is on his way to playing in Week 1. His workload might be lessened, as the team is looking to keep him healthy for the long term. However, while he might be tough to start, he's an interesting name to watch on opening week.",
+      "description": "Jonathon Brooks (groin) is in practice uniform today. This will mark his third consecutive day of practice.",
+      "metadata": {
+        "analysis": "Brooks has steadily improved since suffering the groin injury and looks like he is on his way to playing in Week 1. His workload might be lessened, as the team is looking to keep him healthy for the long term. However, while he might be tough to start, he's an interesting name to watch on opening week.",
+        "description": "Jonathon Brooks (groin) is in practice uniform today. This will mark his third consecutive day of practice.",
+        "title": "Jonathon Brooks (groin) practicing for third straight day",
+        "topic_id": "1404162458649649152",
+        "url": "https://www.fantasypros.com/nfl/news/607120/jonathon-brooks-groin-practicing-third-straight-day.php"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1789140927526,
+      "source": "fantasy_pros",
+      "source_key": "607120",
+      "story_id": "nfl|11583|fantasy_pros|607120|1789140927526",
+      "title": "Jonathon Brooks (groin) practicing for third straight day",
+      "url": "https://www.fantasypros.com/nfl/news/607120/jonathon-brooks-groin-practicing-third-straight-day.php"
+    },
+    {
+      "analysis": "It certainly seems that Egbuka will have no limitations for Sunday's season opener against the Bengals. The second-year wideout will lead the Buccaneers' receiving corps for quarterback Baker Mayfield. ",
+      "description": "Emeka Egbuka (toe) participates fully in Friday's practice session. ",
+      "metadata": {
+        "analysis": "It certainly seems that Egbuka will have no limitations for Sunday's season opener against the Bengals. The second-year wideout will lead the Buccaneers' receiving corps for quarterback Baker Mayfield. ",
+        "description": "Emeka Egbuka (toe) participates fully in Friday's practice session. ",
+        "title": "Emeka Egbuka (toe) practicing again Friday",
+        "topic_id": "1404162458586734592",
+        "url": "https://www.fantasypros.com/nfl/news/607121/emeka-egbuka-toe-practicing-again-friday.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "12514",
+      "player_name": "Emeka Egbuka",
+      "position": "WR",
+      "published": 1789140927511,
+      "source": "fantasy_pros",
+      "source_key": "607121",
+      "story_id": "nfl|12514|fantasy_pros|607121|1789140927511",
+      "title": "Emeka Egbuka (toe) practicing again Friday",
+      "url": "https://www.fantasypros.com/nfl/news/607121/emeka-egbuka-toe-practicing-again-friday.php"
+    },
     {
       "analysis": "Love managed limited practice participation Wednesday and Thursday, so a full practice Friday would go a long way toward giving his fantasy managers confidence. It's not yet clear if the practice upgrade will happen, but Love apparently is expected to play in any case. It's also not clear how backfield work will be divided between the rookie and Tyler Allgeier.",
       "description": "Love (ankle) is expected to play Sunday against the Chargers, Josh Weinfuss of ESPN.com reports.",
@@ -57,10 +142,10 @@
     },
     {
       "analysis": null,
-      "description": "Arizona Cardinals running back Jeremiyah Love (ankle) is expected to play Sunday against the Los Angeles Chargers, according to Josh Weinfuss. Love has been trying to get back from the high-ankle sprain he suffered against Las Vegas on Aug. 13, and things have moved in the right direction this week. He was limited at practice Wednesday and Thursday after missing the remainder of the preseason. Love only got one game in before the injury, but he looked the part, rushing 11 times for 58 yards and catching all three of his targets for another 14. Arizona used the third overall pick on him in April, so there is obviously plenty of fantasy interest here. The bigger question is how much the Cardinals want to put on his plate right away. Tyler Allgeier is also available in the backfield, and Love has essentially missed a month of work. Still, this is another encouraging report for fantasy managers who drafted the rookie. Barring a setback, he now appears to be on track to make his NFL debut Sunday.",
+      "description": "Arizona Cardinals rookie running back Jeremiyah Love (ankle) is expected to play Sunday against the Los Angeles Chargers, according to Josh Weinfuss. Love has been trying to get back from the high-ankle sprain he suffered against Las Vegas on Aug. 13, and things have moved in the right direction this week. He was limited at practice Wednesday and Thursday after missing the remainder of the preseason. Love only got one game in before the injury, but he looked the part, rushing 11 times for 58 yards and catching all three of his targets for another 14. Arizona used the third overall pick on him in April, so there is obviously plenty of fantasy interest here. The bigger question is how much the Cardinals want to put on his plate right away. Tyler Allgeier is also available in the backfield, and Love has essentially missed a month of work. Still, this is another encouraging report for fantasy managers who drafted the rookie. Barring a setback, he now appears to be on track to make his NFL debut Sunday.",
       "metadata": {
-        "description": "Arizona Cardinals running back Jeremiyah Love (ankle) is expected to play Sunday against the Los Angeles Chargers, according to Josh Weinfuss. Love has been trying to get back from the high-ankle sprain he suffered against Las Vegas on Aug. 13, and things have moved in the right direction this week. He was limited at practice Wednesday and Thursday after missing the remainder of the preseason. Love only got one game in before the injury, but he looked the part, rushing 11 times for 58 yards and catching all three of his targets for another 14. Arizona used the third overall pick on him in April, so there is obviously plenty of fantasy interest here. The bigger question is how much the Cardinals want to put on his plate right away. Tyler Allgeier is also available in the backfield, and Love has essentially missed a month of work. Still, this is another encouraging report for fantasy managers who drafted the rookie. Barring a setback, he now appears to be on track to make his NFL debut Sunday.",
-        "title": "Jeremiyah Love's Week 1 Outlook Continues to Improve",
+        "description": "Arizona Cardinals rookie running back Jeremiyah Love (ankle) is expected to play Sunday against the Los Angeles Chargers, according to Josh Weinfuss. Love has been trying to get back from the high-ankle sprain he suffered against Las Vegas on Aug. 13, and things have moved in the right direction this week. He was limited at practice Wednesday and Thursday after missing the remainder of the preseason. Love only got one game in before the injury, but he looked the part, rushing 11 times for 58 yards and catching all three of his targets for another 14. Arizona used the third overall pick on him in April, so there is obviously plenty of fantasy interest here. The bigger question is how much the Cardinals want to put on his plate right away. Tyler Allgeier is also available in the backfield, and Love has essentially missed a month of work. Still, this is another encouraging report for fantasy managers who drafted the rookie. Barring a setback, he now appears to be on track to make his NFL debut Sunday.",
+        "title": "Jeremiyah Love Expected to Play in Week 1",
         "topic_id": "1404161196906516480",
         "url": "https://www.rotoballer.com/player-news/jeremiyah-loves-week-1-outlook-continues-to-improve/1928412"
       },
@@ -72,7 +157,7 @@
       "source": "rotoballer",
       "source_key": "220624",
       "story_id": "nfl|13287|rotoballer|220624|1789125605000",
-      "title": "Jeremiyah Love's Week 1 Outlook Continues to Improve",
+      "title": "Jeremiyah Love Expected to Play in Week 1",
       "url": "https://www.rotoballer.com/player-news/jeremiyah-loves-week-1-outlook-continues-to-improve/1928412"
     },
     {

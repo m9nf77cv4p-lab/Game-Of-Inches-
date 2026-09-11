@@ -2,17 +2,28 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2647**
-- Newly captured: **2**
+- Stored stories: **2651**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Jeremiyah Love** — Jeremiyah Love - Expected to play Sunday (2026-09-11T15:16:20Z)
+- **NEW — Jalen McMillan** — Jalen McMillan (knee) practicing in full (2026-09-11T15:40:28.014000Z)
+  - After being limited by a knee issue on Thursday, McMillan showed no limitations on Friday. The third-year receiver is looking for a strong start after playing in only four games last season due to injury. 
+  - Source: https://www.fantasypros.com/nfl/news/607122/jalen-mcmillan-knee-practicing-full.php
+- **NEW — Parker Washington** — Parker Washington - Returning punts for now (2026-09-11T15:38:38Z)
+  - Coen also mentioned wanting to give Travis Hunter a shot in the return game, but it sounds like that's more of a project than a right-now possibility. In the meantime, Washington's ample experience on punt returns makes him the clear best choice for a role that's extremely important on a per-snap basis. It's only a few snaps per game, of course, but they are high-risk plays for injuries, and the fantasy payoff in most leagues is unlikely to be more than a six-point splash once per season. The good news for Washington's fantasy managers is that there's plenty of recent history of full-time starting wideouts also handling punt returns, including Antonio Brown and Tyreek Hill. While obviously in a different category athletically, Washington offers considerable breakout appeal after his huge finish to last season.
+- **NEW — Jonathon Brooks** — Jonathon Brooks (groin) practicing for third straight day (2026-09-11T15:35:27.526000Z)
+  - Brooks has steadily improved since suffering the groin injury and looks like he is on his way to playing in Week 1. His workload might be lessened, as the team is looking to keep him healthy for the long term. However, while he might be tough to start, he's an interesting name to watch on opening week.
+  - Source: https://www.fantasypros.com/nfl/news/607120/jonathon-brooks-groin-practicing-third-straight-day.php
+- **NEW — Emeka Egbuka** — Emeka Egbuka (toe) practicing again Friday (2026-09-11T15:35:27.511000Z)
+  - It certainly seems that Egbuka will have no limitations for Sunday's season opener against the Bengals. The second-year wideout will lead the Buccaneers' receiving corps for quarterback Baker Mayfield. 
+  - Source: https://www.fantasypros.com/nfl/news/607121/emeka-egbuka-toe-practicing-again-friday.php
+- **Jeremiyah Love** — Jeremiyah Love - Expected to play Sunday (2026-09-11T15:16:20Z)
   - Love managed limited practice participation Wednesday and Thursday, so a full practice Friday would go a long way toward giving his fantasy managers confidence. It's not yet clear if the practice upgrade will happen, but Love apparently is expected to play in any case. It's also not clear how backfield work will be divided between the rookie and Tyler Allgeier.
 - **Jeremiyah Love** — Jeremiyah Love (ankle) expected to play on Sunday (2026-09-11T15:05:27.967000Z)
   - Love was electric in his limited preseason showing, and if he is fully ready to go, he should be electric yet again. Tyler Allgeier could very well eat into his workload, but don't let that stop you from putting Love in your lineup.
   - Source: https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php
-- **NEW — Jeremiyah Love** — Jeremiyah Love's Week 1 Outlook Continues to Improve (2026-09-11T11:20:05Z)
+- **Jeremiyah Love** — Jeremiyah Love Expected to Play in Week 1 (2026-09-11T11:20:05Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-loves-week-1-outlook-continues-to-improve/1928412
 - **Zachariah Branch** — Zachariah Branch Not Projected to Start Early in Rookie Season (2026-09-11T11:05:05Z)
   - Source: https://www.rotoballer.com/player-news/zachariah-branch-not-projected-to-start-early-in-rookie-season/1928392
@@ -232,14 +243,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jalen McMillan** — Jalen McMillan (knee) limited in practice Thursday  (2026-09-10T20:35:22.660000Z)
   - McMillan has now been limited back-to-back days. He should be good to go on Sunday with another limited session on Friday. 
   - Source: https://www.fantasypros.com/nfl/news/606978/jalen-mcmillan-knee-limited-practice-thursday.php
-- **Jakobi Meyers** — Jakobi Meyers (thumb) limited again Thursday (2026-09-10T20:25:22.784000Z)
-  - The veteran wideout was again limited on Thursday as he continues to recover from a thumb injury of some kind. He is already expected to play this weekend, although he may still be left with an injury designation heading into the weekend if he doesn't practice in full on Friday.
-  - Source: https://www.fantasypros.com/nfl/news/606973/jakobi-meyers-thumb-limited-again-thursday.php
-- **Zay Flowers** — Zay Flowers (hamstring) upgraded to full participant Thursday (2026-09-10T20:25:22.528000Z)
-  - Flowers has been dealing with a hamstring injury for a while, but it seems that he is finally over it, as he was upgraded to a full participant at practice on Thursday after being limited on Wednesday. He should be good to go in Week 1 and can be safely started in most league formats, especially PPR leagues.
-  - Source: https://www.fantasypros.com/nfl/news/606971/zay-flowers-hamstring-upgraded-to-full-participant-thursday.php
-- **Malik Nabers** — Malik Nabers - Still uncertain for Sunday (2026-09-10T20:20:45Z)
-  - Nabers logged full practices Wednesday and Thursday, but his comments suggest the Giants still haven't made a final call on his Week 1 availability as Nabers works his way back from a torn ACL sustained in Week 4 of last season. Evan Barnes of Newsday Sports adds that Nabers is still deciding whether or not to play as he weighs the long-term implications of his recovery. The recent practice workload is an encouraging sign, but Nabers' fantasy managers would be in a tough spot if he doesn't avoid an injury designation Friday, since replacement options will be limited with the Giants playing on Sunday Night Football this weekend.
-- **Alec Pierce** — Alec Pierce (heel) listed as limited Thursday (2026-09-10T20:15:22.271000Z)
-  - Pierce was limited for a second-straight practice on Thursday. It sounds like the team is still planning to have him play in Week 1, but it remains to be seen how many snaps he will get. Fantasy managers should pay attention to any updates about his health or workload ahead of Indianapolis' season opener against the Ravens this weekend.
-  - Source: https://www.fantasypros.com/nfl/news/606969/alec-pierce-heel-listed-limited-thursday.php
