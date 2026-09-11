@@ -1,8 +1,13 @@
 {
-  "last_checked_at": "2026-09-11T17:57:32Z",
+  "last_checked_at": "2026-09-11T18:17:03Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 287,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|11559|rotowire|636837|1789149357000",
+    "nfl|13287|fantasy_pros|607171|1789150229275",
+    "nfl|13298|rotowire|636838|1789149597000",
+    "nfl|13349|fantasy_pros|607170|1789149628986"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +16,88 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "All reports this week have suggested Love is expected to play on Sunday. Barring any late setback, he should be good to go. It is unclear if he'll be limited in any fashion. ",
+      "description": "Cardinals head coach Mike LaFleur said it was fair to say Jeremiyah Love will be gameday decision on Sunday. ",
+      "metadata": {
+        "analysis": "All reports this week have suggested Love is expected to play on Sunday. Barring any late setback, he should be good to go. It is unclear if he'll be limited in any fashion. ",
+        "description": "Cardinals head coach Mike LaFleur said it was fair to say Jeremiyah Love will be gameday decision on Sunday. ",
+        "title": "Jeremiyah Love (ankle) expected to be gameday decision Sunday ",
+        "topic_id": "1404201473021095936",
+        "url": "https://www.fantasypros.com/nfl/news/607171/jeremiyah-love-ankle-expected-to-be-gameday-decision-sunday.php"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1789150229275,
+      "source": "fantasy_pros",
+      "source_key": "607171",
+      "story_id": "nfl|13287|fantasy_pros|607171|1789150229275",
+      "title": "Jeremiyah Love (ankle) expected to be gameday decision Sunday ",
+      "url": "https://www.fantasypros.com/nfl/news/607171/jeremiyah-love-ankle-expected-to-be-gameday-decision-sunday.php"
+    },
+    {
+      "analysis": "Stowers has been battling a hamstring injury. He'll remain off the fantasy radar to begin the season behind Dallas Goedert. ",
+      "description": "Eagles rookie TE Eli Stowers told reporters he believes he is going to play on Sunday against the Commanders. ",
+      "metadata": {
+        "analysis": "Stowers has been battling a hamstring injury. He'll remain off the fantasy radar to begin the season behind Dallas Goedert. ",
+        "description": "Eagles rookie TE Eli Stowers told reporters he believes he is going to play on Sunday against the Commanders. ",
+        "title": "Eli Stowers (hamstring) says he expects to play Sunday ",
+        "topic_id": "1404198955213955072",
+        "url": "https://www.fantasypros.com/nfl/news/607170/eli-stowers-hamstring-says-he-expects-to-play-sunday.php"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13349",
+      "player_name": "Eli Stowers",
+      "position": "TE",
+      "published": 1789149628986,
+      "source": "fantasy_pros",
+      "source_key": "607170",
+      "story_id": "nfl|13349|fantasy_pros|607170|1789149628986",
+      "title": "Eli Stowers (hamstring) says he expects to play Sunday ",
+      "url": "https://www.fantasypros.com/nfl/news/607170/eli-stowers-hamstring-says-he-expects-to-play-sunday.php"
+    },
+    {
+      "analysis": "Concepcion also figures to be one of the team's top offensive weapons, locked in for a top-three role alongside presumed starters Jerry Jeudy and Denzel Boston. The Browns also have TE Harold Fannin and RBs Quinshon Judkins and Dylan Sampson in the mix for short-area targets, but Monken seems intent on getting the ball into Concepcion's hands, one way or another.",
+      "description": "Browns coach Todd Monken said Friday that Concepcion will handle all of the punt returns Sunday against Jacksonville, Scott Petrak of the Elyria Chronicle-Telegram reports.",
+      "metadata": {
+        "analysis": "Concepcion also figures to be one of the team's top offensive weapons, locked in for a top-three role alongside presumed starters Jerry Jeudy and Denzel Boston. The Browns also have TE Harold Fannin and RBs Quinshon Judkins and Dylan Sampson in the mix for short-area targets, but Monken seems intent on getting the ball into Concepcion's hands, one way or another.",
+        "description": "Browns coach Todd Monken said Friday that Concepcion will handle all of the punt returns Sunday against Jacksonville, Scott Petrak of the Elyria Chronicle-Telegram reports.",
+        "title": "KC Concepcion - Returning punts this week",
+        "topic_id": "1404200208568496128"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13298",
+      "player_name": "KC Concepcion",
+      "position": "WR",
+      "published": 1789149597000,
+      "source": "rotowire",
+      "source_key": "636838",
+      "story_id": "nfl|13298|rotowire|636838|1789149597000",
+      "title": "KC Concepcion - Returning punts this week",
+      "url": null
+    },
+    {
+      "analysis": "On Monday, coach Kevin Stefanski announced that Tua Tagovailoa as the Falcons' Week 1 starting quarterback, while conversely Penix would be inactive for the season opener. On Thursday, though, Tagovailoa strained his oblique and now won't be available this weekend, either, with coach Kevin Stefanski calling him \"week-to-week\" Friday, per Marc Raimondi of ESPN.com. Penix's listed activity of \"full\" all week indicates he's closing in on his first game action since tearing his left ACL last November, and if Tagovailoa is indeed in danger of missing multiple games, Penix could soon be in the mix for starts under center. As for this Sunday, Cooper Rush will direct the offense, with Jack Strand backing him up.",
+      "description": "Penix (knee), who won't play Sunday in Pittsburgh, was seen throwing to practice-squad players during the open portion of Friday's practice, Daniel Flick of The Atlanta Journal-Constitution reports.",
+      "metadata": {
+        "analysis": "On Monday, coach Kevin Stefanski announced that Tua Tagovailoa as the Falcons' Week 1 starting quarterback, while conversely Penix would be inactive for the season opener. On Thursday, though, Tagovailoa strained his oblique and now won't be available this weekend, either, with coach Kevin Stefanski calling him \"week-to-week\" Friday, per Marc Raimondi of ESPN.com. Penix's listed activity of \"full\" all week indicates he's closing in on his first game action since tearing his left ACL last November, and if Tagovailoa is indeed in danger of missing multiple games, Penix could soon be in the mix for starts under center. As for this Sunday, Cooper Rush will direct the offense, with Jack Strand backing him up.",
+        "description": "Penix (knee), who won't play Sunday in Pittsburgh, was seen throwing to practice-squad players during the open portion of Friday's practice, Daniel Flick of The Atlanta Journal-Constitution reports.",
+        "title": "Michael Penix - Still out Week 1, but FP all week",
+        "topic_id": "1404198950868692992"
+      },
+      "nfl_team": "ATL",
+      "player_id": "11559",
+      "player_name": "Michael Penix",
+      "position": "QB",
+      "published": 1789149357000,
+      "source": "rotowire",
+      "source_key": "636837",
+      "story_id": "nfl|11559|rotowire|636837|1789149357000",
+      "title": "Michael Penix - Still out Week 1, but FP all week",
+      "url": null
+    },
     {
       "analysis": "Tagovailoa suffered an oblique strain during Thursday's practice and now will join Michael Penix (knee) on the sideline this weekend. Rush handled the first-team reps in the final two sessions of Week 1 prep and thus will be under center Sunday, with Jack Strand backup him up. Because coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa is \"week-to-week,\" Rush could be in consideration for multiple starts to kick off the 2026 campaign.",
       "description": "Rush will start Sunday's game at Pittsburgh after Tua Tagovailoa (oblique) was ruled out for Week 1 action, NFL reporter Jordan Schultz reports.",

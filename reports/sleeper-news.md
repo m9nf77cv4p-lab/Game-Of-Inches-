@@ -2,11 +2,21 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2689**
-- Newly captured: **0**
+- Stored stories: **2693**
+- Newly captured: **4**
 
 ## Latest news
 
+- **NEW — Jeremiyah Love** — Jeremiyah Love (ankle) expected to be gameday decision Sunday  (2026-09-11T18:10:29.275000Z)
+  - All reports this week have suggested Love is expected to play on Sunday. Barring any late setback, he should be good to go. It is unclear if he'll be limited in any fashion. 
+  - Source: https://www.fantasypros.com/nfl/news/607171/jeremiyah-love-ankle-expected-to-be-gameday-decision-sunday.php
+- **NEW — Eli Stowers** — Eli Stowers (hamstring) says he expects to play Sunday  (2026-09-11T18:00:28.986000Z)
+  - Stowers has been battling a hamstring injury. He'll remain off the fantasy radar to begin the season behind Dallas Goedert. 
+  - Source: https://www.fantasypros.com/nfl/news/607170/eli-stowers-hamstring-says-he-expects-to-play-sunday.php
+- **NEW — KC Concepcion** — KC Concepcion - Returning punts this week (2026-09-11T17:59:57Z)
+  - Concepcion also figures to be one of the team's top offensive weapons, locked in for a top-three role alongside presumed starters Jerry Jeudy and Denzel Boston. The Browns also have TE Harold Fannin and RBs Quinshon Judkins and Dylan Sampson in the mix for short-area targets, but Monken seems intent on getting the ball into Concepcion's hands, one way or another.
+- **NEW — Michael Penix** — Michael Penix - Still out Week 1, but FP all week (2026-09-11T17:55:57Z)
+  - On Monday, coach Kevin Stefanski announced that Tua Tagovailoa as the Falcons' Week 1 starting quarterback, while conversely Penix would be inactive for the season opener. On Thursday, though, Tagovailoa strained his oblique and now won't be available this weekend, either, with coach Kevin Stefanski calling him "week-to-week" Friday, per Marc Raimondi of ESPN.com. Penix's listed activity of "full" all week indicates he's closing in on his first game action since tearing his left ACL last November, and if Tagovailoa is indeed in danger of missing multiple games, Penix could soon be in the mix for starts under center. As for this Sunday, Cooper Rush will direct the offense, with Jack Strand backing him up.
 - **Cooper Rush** — Cooper Rush - Will start Sunday (2026-09-11T17:44:01Z)
   - Tagovailoa suffered an oblique strain during Thursday's practice and now will join Michael Penix (knee) on the sideline this weekend. Rush handled the first-team reps in the final two sessions of Week 1 prep and thus will be under center Sunday, with Jack Strand backup him up. Because coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa is "week-to-week," Rush could be in consideration for multiple starts to kick off the 2026 campaign.
 - **Tua Tagovailoa** — Tua Tagovailoa - Won't play Sunday (2026-09-11T17:36:18Z)
@@ -228,12 +238,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/cowboys-sign-ryan-flournoy-to-one-year-extension/1928088
 - **Chris Bell** — Chris Bell - Still working on conditioning (2026-09-11T00:08:46Z)
   - Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial pitch count against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.
-- **Max Klare** — Max Klare - Healthy scratch to begin rookie campaign (2026-09-11T00:07:54Z)
-  - The Rams liked Klare enough to select him in the second round of the NFL Draft in April, but he's not going to be an option for the team in Week 1. Los Angeles has a crowded tight-end room that includes three veterans in Colby Parkinson, Tyler Higbee and Davis Allen along with second-year pro Terrance Ferguson, so Klare may not log much playing time this year as long as those above him in the pecking order are healthy.
-- **Ty Simpson** — Ty Simpson - Opening season as emergency No. 3 QB (2026-09-10T23:47:18Z)
-  - It thus appears Stetson Bennett has won Los Angeles' No. 2 QB job, at least for the first game of the season. Simpson, who was taken by the Rams in the first round of April's NFL Draft, can make his NFL debut Thursday only if both starter Matthew Stafford and Bennett have to exit due to injury, illness, or ejection.
-- **Max Klare** — Max Klare inactive against Niners (2026-09-10T23:45:30.526000Z)
-  - Klare will join fellow rookies Ty Simpson and CJ Daniels on the sideline. The Rams have plenty of TE depth at their disposal, so Klare being a rookie inactive is hardly surprising.
-  - Source: https://www.fantasypros.com/nfl/news/607042/max-klare-inactive-against-niners.php
-- **A.J. Brown** — A.J. Brown - Expected to miss four weeks (2026-09-10T23:37:37Z)
-  - Brown is believed to be dealing with a high-ankle sprain that may require a stint on injured reserve, per NFL reporter Jordan Schultz. The good news is he suffered the injury on a Wednesday, which gives him a few extra days to rehab this week, but it's still looking like the star wideout will miss multiple games. While Brown is sidelined, the Patriots will need to lean on Romeo Doubs at wideout, while DeMario Douglas, Mack Hollins and Kyle Williams all figure to take on larger roles. Hunter Henry is also a candidate to see a bigger target share while Brown is sidelined.
