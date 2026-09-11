@@ -1,12 +1,14 @@
 {
-  "last_checked_at": "2026-09-11T15:46:14Z",
+  "last_checked_at": "2026-09-11T16:14:34Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11583|fantasy_pros|607120|1789140927526",
-    "nfl|11618|fantasy_pros|607122|1789141228014",
-    "nfl|12514|fantasy_pros|607121|1789140927511",
-    "nfl|9487|rotowire|636823|1789141118000"
+    "nfl|11583|rotoballer|220625|1789127016000",
+    "nfl|11583|rotowire|636825|1789141887000",
+    "nfl|11632|fantasy_pros|607135|1789143027980",
+    "nfl|12499|rotoballer|220626|1789127617000",
+    "nfl|4034|rotoballer|220628|1789128274000",
+    "nfl|7600|rotoballer|220627|1789128439000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +18,47 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Nabers has practiced fully the entire week for head coach John Harbaugh, putting the superstar wideout on track to suit up for Sunday's season opener against the Dallas Cowboys and providing a boost to a Giants offense looking to put a forgettable 2025-26 in the rearview mirror.",
+      "description": "Malik Nabers (knee) was seen warming up on the sidelines to prepare for Friday's practice according to Jordan Raanan.",
+      "metadata": {
+        "analysis": "Nabers has practiced fully the entire week for head coach John Harbaugh, putting the superstar wideout on track to suit up for Sunday's season opener against the Dallas Cowboys and providing a boost to a Giants offense looking to put a forgettable 2025-26 in the rearview mirror.",
+        "description": "Malik Nabers (knee) was seen warming up on the sidelines to prepare for Friday's practice according to Jordan Raanan.",
+        "title": "Malik Nabers (knee) preparing to practice Friday",
+        "topic_id": "1404171268588068864",
+        "url": "https://www.fantasypros.com/nfl/news/607135/malik-nabers-knee-preparing-to-practice-friday.php"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1789143027980,
+      "source": "fantasy_pros",
+      "source_key": "607135",
+      "story_id": "nfl|11632|fantasy_pros|607135|1789143027980",
+      "title": "Malik Nabers (knee) preparing to practice Friday",
+      "url": "https://www.fantasypros.com/nfl/news/607135/malik-nabers-knee-preparing-to-practice-friday.php"
+    },
+    {
+      "analysis": "With Brooks having now been present for three consecutive practices, he's trending in the right direction for Sunday's opener against the Bears. Assuming no setbacks, he should split backfield work with Chuba Hubbard, who remains the favorite to start and has been a full practice participant all week.",
+      "description": "Brooks (groin) was in uniform for Friday's practice, his third straight session, Mike Kaye of ESPN.com reports.",
+      "metadata": {
+        "analysis": "With Brooks having now been present for three consecutive practices, he's trending in the right direction for Sunday's opener against the Bears. Assuming no setbacks, he should split backfield work with Chuba Hubbard, who remains the favorite to start and has been a full practice participant all week.",
+        "description": "Brooks (groin) was in uniform for Friday's practice, his third straight session, Mike Kaye of ESPN.com reports.",
+        "title": "Jonathon Brooks - Practicing again Friday",
+        "topic_id": "1404167489214001152"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1789141887000,
+      "source": "rotowire",
+      "source_key": "636825",
+      "story_id": "nfl|11583|rotowire|636825|1789141887000",
+      "title": "Jonathon Brooks - Practicing again Friday",
+      "url": null
+    },
     {
       "analysis": "After being limited by a knee issue on Thursday, McMillan showed no limitations on Friday. The third-year receiver is looking for a strong start after playing in only four games last season due to injury. ",
       "description": "Jalen McMillan (knee) was a full participant in Friday's practice session. ",
@@ -139,6 +182,86 @@
       "story_id": "nfl|13287|fantasy_pros|607111|1789139127967",
       "title": "Jeremiyah Love (ankle) expected to play on Sunday",
       "url": "https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers tight end Pat Freiermuth no longer has the top spot to himself on the team's depth chart. Freiermuth and Darnell Washington are now listed together with the first team after Washington spent August behind him. That isn't great news for a player who already saw his volume fall last season. Freiermuth went from 78 targets, 65 catches and seven touchdowns in 2024 to 54 targets, 41 catches and four scores a year ago. Washington was more involved at the same time, posting career highs with 31 receptions and 364 yards, and Pittsburgh gave him a new five-year contract in June. The competition doesn't stop there. Michael Pittman Jr. was added alongside DK Metcalf, while second-round rookie Germie Bernard gives Aaron Rodgers another receiver to work with. Freiermuth will still have a role, and Pittsburgh can get both tight ends on the field together. Finding steady targets every week looks tougher, though. He is better treated as a touchdown-dependent TE2 until we see how this passing game shakes out.",
+      "metadata": {
+        "description": "Pittsburgh Steelers tight end Pat Freiermuth no longer has the top spot to himself on the team's depth chart. Freiermuth and Darnell Washington are now listed together with the first team after Washington spent August behind him. That isn't great news for a player who already saw his volume fall last season. Freiermuth went from 78 targets, 65 catches and seven touchdowns in 2024 to 54 targets, 41 catches and four scores a year ago. Washington was more involved at the same time, posting career highs with 31 receptions and 364 yards, and Pittsburgh gave him a new five-year contract in June. The competition doesn't stop there. Michael Pittman Jr. was added alongside DK Metcalf, while second-round rookie Germie Bernard gives Aaron Rodgers another receiver to work with. Freiermuth will still have a role, and Pittsburgh can get both tight ends on the field together. Finding steady targets every week looks tougher, though. He is better treated as a touchdown-dependent TE2 until we see how this passing game shakes out.",
+        "title": "Pat Freiermuth Facing More Competition for Targets",
+        "topic_id": "1404171263114551297",
+        "url": "https://www.rotoballer.com/player-news/pat-freiermuth-facing-more-competition-for-targets/1928468"
+      },
+      "nfl_team": "PIT",
+      "player_id": "7600",
+      "player_name": "Pat Freiermuth",
+      "position": "TE",
+      "published": 1789128439000,
+      "source": "rotoballer",
+      "source_key": "220627",
+      "story_id": "nfl|7600|rotoballer|220627|1789128439000",
+      "title": "Pat Freiermuth Facing More Competition for Targets",
+      "url": "https://www.rotoballer.com/player-news/pat-freiermuth-facing-more-competition-for-targets/1928468"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers head coach Kyle Shanahan said that running back Christian McCaffrey dealt with some cramps during the season-opening win on Thursday over the division-rival Los Angeles Rams in Melbourne, Australia, but made it through fine, according to ESPN's Nick Wagoner. McCaffrey did not have a huge Week 1 performance, but he did enough to help the Niners pull off a blowout win over a Rams defense that came into the 2026 season expected to be one of the best units in the league. The 30-year-old had 10 carries for 68 yards and caught five of his eight targets for 20 yards. It was a notable reduction in his workload after finishing as the RB1 in fantasy in 2025 with a career- and league-high 413 touches in 17 regular-season starts. Rookie Kaelon Black actually had four more carries than CMC, who did not do much in training camp due to undisclosed tightness. McCaffrey might not see as hefty a workload in 2026, but if he stays healthy again all year, he still has the potential to be a league-winner in San Fran's offense. He is a must-start for a Week 2 matchup against the Miami Dolphins on Sunday, Sept. 20.",
+      "metadata": {
+        "description": "San Francisco 49ers head coach Kyle Shanahan said that running back Christian McCaffrey dealt with some cramps during the season-opening win on Thursday over the division-rival Los Angeles Rams in Melbourne, Australia, but made it through fine, according to ESPN's Nick Wagoner. McCaffrey did not have a huge Week 1 performance, but he did enough to help the Niners pull off a blowout win over a Rams defense that came into the 2026 season expected to be one of the best units in the league. The 30-year-old had 10 carries for 68 yards and caught five of his eight targets for 20 yards. It was a notable reduction in his workload after finishing as the RB1 in fantasy in 2025 with a career- and league-high 413 touches in 17 regular-season starts. Rookie Kaelon Black actually had four more carries than CMC, who did not do much in training camp due to undisclosed tightness. McCaffrey might not see as hefty a workload in 2026, but if he stays healthy again all year, he still has the potential to be a league-winner in San Fran's offense. He is a must-start for a Week 2 matchup against the Miami Dolphins on Sunday, Sept. 20.",
+        "title": "Christian McCaffrey Played Through Cramping in Season-Opening Win",
+        "topic_id": "1404171263114551296",
+        "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-played-through-cramping-in-season-opening-win/1928464"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1789128274000,
+      "source": "rotoballer",
+      "source_key": "220628",
+      "story_id": "nfl|4034|rotoballer|220628|1789128274000",
+      "title": "Christian McCaffrey Played Through Cramping in Season-Opening Win",
+      "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-played-through-cramping-in-season-opening-win/1928464"
+    },
+    {
+      "analysis": null,
+      "description": "Tennessee Titans wide receiver Elic Ayomanor enters Week 1 in a much different spot than he occupied for most of his rookie season. Ayomanor started 14 games last year and played 80% of the offensive snaps, turning 89 targets into 41 catches for 515 yards and four touchdowns. He was still involved throughout camp this summer, so this is not a case of him disappearing completely. The problem is what Tennessee put in front of him. The Titans signed Wan'Dale Robinson, then spent the fourth overall pick on Carnell Tate, and their latest depth chart has Calvin Ridley, Robinson and Tate as the starting three. Ayomanor is listed behind Tate. That makes last year's volume tough to project again, especially with several other receivers still competing for snaps. RotoBaller has Ayomanor at WR108 entering the season. There could still be weeks when he works his way onto the field, but fantasy managers should treat him as a deep-league watch-list player until Tennessee shows it plans to use him regularly.",
+      "metadata": {
+        "description": "Tennessee Titans wide receiver Elic Ayomanor enters Week 1 in a much different spot than he occupied for most of his rookie season. Ayomanor started 14 games last year and played 80% of the offensive snaps, turning 89 targets into 41 catches for 515 yards and four touchdowns. He was still involved throughout camp this summer, so this is not a case of him disappearing completely. The problem is what Tennessee put in front of him. The Titans signed Wan'Dale Robinson, then spent the fourth overall pick on Carnell Tate, and their latest depth chart has Calvin Ridley, Robinson and Tate as the starting three. Ayomanor is listed behind Tate. That makes last year's volume tough to project again, especially with several other receivers still competing for snaps. RotoBaller has Ayomanor at WR108 entering the season. There could still be weeks when he works his way onto the field, but fantasy managers should treat him as a deep-league watch-list player until Tennessee shows it plans to use him regularly.",
+        "title": "Elic Ayomanor Opens Year Behind Rookie Receiver",
+        "topic_id": "1404168746234339328",
+        "url": "https://www.rotoballer.com/player-news/elic-ayomanor-opens-year-behind-carnell-tate/1928448"
+      },
+      "nfl_team": "TEN",
+      "player_id": "12499",
+      "player_name": "Elic Ayomanor",
+      "position": "WR",
+      "published": 1789127617000,
+      "source": "rotoballer",
+      "source_key": "220626",
+      "story_id": "nfl|12499|rotoballer|220626|1789127617000",
+      "title": "Elic Ayomanor Opens Year Behind Rookie Receiver",
+      "url": "https://www.rotoballer.com/player-news/elic-ayomanor-opens-year-behind-carnell-tate/1928448"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers running back Jonathon Brooks (groin) was back in uniform and practicing with teammates Friday, according to Mike Kaye. That makes three straight practices for Brooks after he was still working off to the side earlier this week. He was officially limited Wednesday and Thursday, but the direction here has been positive. Brooks said Wednesday he expects to play against Chicago, and head coach Dave Canales said he's \"very confident\" the third-year back will be available. Friday's final injury report will tell us whether Brooks carries a designation into Sunday. Brooks hasn't played a regular-season snap since tearing his right ACL for the second time in December 2024, though he did get into two preseason games this summer. Chuba Hubbard sits atop Carolina's depth chart, and offensive coordinator Brad Idzik said this week that Hubbard, Brooks and AJ Dillon have all earned roles and can be mixed and matched. Brooks looks increasingly likely to play, but his workload is still the part fantasy managers have to be careful with in Week 1.",
+      "metadata": {
+        "description": "Carolina Panthers running back Jonathon Brooks (groin) was back in uniform and practicing with teammates Friday, according to Mike Kaye. That makes three straight practices for Brooks after he was still working off to the side earlier this week. He was officially limited Wednesday and Thursday, but the direction here has been positive. Brooks said Wednesday he expects to play against Chicago, and head coach Dave Canales said he's \"very confident\" the third-year back will be available. Friday's final injury report will tell us whether Brooks carries a designation into Sunday. Brooks hasn't played a regular-season snap since tearing his right ACL for the second time in December 2024, though he did get into two preseason games this summer. Chuba Hubbard sits atop Carolina's depth chart, and offensive coordinator Brad Idzik said this week that Hubbard, Brooks and AJ Dillon have all earned roles and can be mixed and matched. Brooks looks increasingly likely to play, but his workload is still the part fantasy managers have to be careful with in Week 1.",
+        "title": "Jonathon Brooks on Field for Third Straight Practice",
+        "topic_id": "1404166229681262592",
+        "url": "https://www.rotoballer.com/player-news/jonathon-brooks-on-field-for-third-straight-practice/1928441"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1789127016000,
+      "source": "rotoballer",
+      "source_key": "220625",
+      "story_id": "nfl|11583|rotoballer|220625|1789127016000",
+      "title": "Jonathon Brooks on Field for Third Straight Practice",
+      "url": "https://www.rotoballer.com/player-news/jonathon-brooks-on-field-for-third-straight-practice/1928441"
     },
     {
       "analysis": null,
@@ -53349,26 +53472,6 @@
       "story_id": "nfl|1466|rotoballer|218452|1786560427000",
       "title": "Travis Kelce Says he Can Still \"Play at a High Level\"",
       "url": "https://www.rotoballer.com/player-news/travis-kelce-says-he-can-still-play-at-a-high-level/1907873"
-    },
-    {
-      "analysis": null,
-      "description": "Cleveland Browns tight end Harold Fannin Jr. already showed he could handle plenty as a rookie. He caught 72 passes for 731 yards and six touchdowns on 107 targets last season, finishing as the TE5 in half-PPR. David Njoku is with the Chargers now, and Fannin sits alone at the top of Cleveland's tight end depth chart. The groin injury that cost him Week 18 required offseason surgery, but he was cleared before camp and has looked active since. Fannin caught four passes in the Browns' first padded practice, then grabbed two red-zone touchdowns from Shedeur Sanders on Aug. 10. Cleveland did add more competition by drafting KC Concepcion 24th overall and Denzel Boston 39th, so another 107 targets can't just be penciled in. The quarterback job is still unsettled, too. Even with all of that, Fannin already produced in a bad passing environment and now has the tight end job to himself. RotoBaller has him at TE8. That isn't a bargain-basement ranking, but there is still room for Fannin to beat it if Cleveland's offense takes even a small step forward.",
-      "metadata": {
-        "description": "Cleveland Browns tight end Harold Fannin Jr. already showed he could handle plenty as a rookie. He caught 72 passes for 731 yards and six touchdowns on 107 targets last season, finishing as the TE5 in half-PPR. David Njoku is with the Chargers now, and Fannin sits alone at the top of Cleveland's tight end depth chart. The groin injury that cost him Week 18 required offseason surgery, but he was cleared before camp and has looked active since. Fannin caught four passes in the Browns' first padded practice, then grabbed two red-zone touchdowns from Shedeur Sanders on Aug. 10. Cleveland did add more competition by drafting KC Concepcion 24th overall and Denzel Boston 39th, so another 107 targets can't just be penciled in. The quarterback job is still unsettled, too. Even with all of that, Fannin already produced in a bad passing environment and now has the tight end job to himself. RotoBaller has him at TE8. That isn't a bargain-basement ranking, but there is still room for Fannin to beat it if Cleveland's offense takes even a small step forward.",
-        "title": "Harold Fannin Jr. Keeps Making a Strong TE1 Case",
-        "topic_id": "1393358740811452416",
-        "url": "https://www.rotoballer.com/player-news/harold-fannin-jr-keeps-making-a-strong-te1-case/1907790"
-      },
-      "nfl_team": "CLE",
-      "player_id": "12506",
-      "player_name": "Harold Fannin",
-      "position": "TE",
-      "published": 1786550466000,
-      "source": "rotoballer",
-      "source_key": "218444",
-      "story_id": "nfl|12506|rotoballer|218444|1786550466000",
-      "title": "Harold Fannin Jr. Keeps Making a Strong TE1 Case",
-      "url": "https://www.rotoballer.com/player-news/harold-fannin-jr-keeps-making-a-strong-te1-case/1907790"
     }
   ]
 }

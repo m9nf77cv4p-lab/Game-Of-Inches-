@@ -2,20 +2,25 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2651**
-- Newly captured: **4**
+- Stored stories: **2656**
+- Newly captured: **6**
 
 ## Latest news
 
-- **NEW — Jalen McMillan** — Jalen McMillan (knee) practicing in full (2026-09-11T15:40:28.014000Z)
+- **NEW — Malik Nabers** — Malik Nabers (knee) preparing to practice Friday (2026-09-11T16:10:27.980000Z)
+  - Nabers has practiced fully the entire week for head coach John Harbaugh, putting the superstar wideout on track to suit up for Sunday's season opener against the Dallas Cowboys and providing a boost to a Giants offense looking to put a forgettable 2025-26 in the rearview mirror.
+  - Source: https://www.fantasypros.com/nfl/news/607135/malik-nabers-knee-preparing-to-practice-friday.php
+- **NEW — Jonathon Brooks** — Jonathon Brooks - Practicing again Friday (2026-09-11T15:51:27Z)
+  - With Brooks having now been present for three consecutive practices, he's trending in the right direction for Sunday's opener against the Bears. Assuming no setbacks, he should split backfield work with Chuba Hubbard, who remains the favorite to start and has been a full practice participant all week.
+- **Jalen McMillan** — Jalen McMillan (knee) practicing in full (2026-09-11T15:40:28.014000Z)
   - After being limited by a knee issue on Thursday, McMillan showed no limitations on Friday. The third-year receiver is looking for a strong start after playing in only four games last season due to injury. 
   - Source: https://www.fantasypros.com/nfl/news/607122/jalen-mcmillan-knee-practicing-full.php
-- **NEW — Parker Washington** — Parker Washington - Returning punts for now (2026-09-11T15:38:38Z)
+- **Parker Washington** — Parker Washington - Returning punts for now (2026-09-11T15:38:38Z)
   - Coen also mentioned wanting to give Travis Hunter a shot in the return game, but it sounds like that's more of a project than a right-now possibility. In the meantime, Washington's ample experience on punt returns makes him the clear best choice for a role that's extremely important on a per-snap basis. It's only a few snaps per game, of course, but they are high-risk plays for injuries, and the fantasy payoff in most leagues is unlikely to be more than a six-point splash once per season. The good news for Washington's fantasy managers is that there's plenty of recent history of full-time starting wideouts also handling punt returns, including Antonio Brown and Tyreek Hill. While obviously in a different category athletically, Washington offers considerable breakout appeal after his huge finish to last season.
-- **NEW — Jonathon Brooks** — Jonathon Brooks (groin) practicing for third straight day (2026-09-11T15:35:27.526000Z)
+- **Jonathon Brooks** — Jonathon Brooks (groin) practicing for third straight day (2026-09-11T15:35:27.526000Z)
   - Brooks has steadily improved since suffering the groin injury and looks like he is on his way to playing in Week 1. His workload might be lessened, as the team is looking to keep him healthy for the long term. However, while he might be tough to start, he's an interesting name to watch on opening week.
   - Source: https://www.fantasypros.com/nfl/news/607120/jonathon-brooks-groin-practicing-third-straight-day.php
-- **NEW — Emeka Egbuka** — Emeka Egbuka (toe) practicing again Friday (2026-09-11T15:35:27.511000Z)
+- **Emeka Egbuka** — Emeka Egbuka (toe) practicing again Friday (2026-09-11T15:35:27.511000Z)
   - It certainly seems that Egbuka will have no limitations for Sunday's season opener against the Bengals. The second-year wideout will lead the Buccaneers' receiving corps for quarterback Baker Mayfield. 
   - Source: https://www.fantasypros.com/nfl/news/607121/emeka-egbuka-toe-practicing-again-friday.php
 - **Jeremiyah Love** — Jeremiyah Love - Expected to play Sunday (2026-09-11T15:16:20Z)
@@ -23,6 +28,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jeremiyah Love** — Jeremiyah Love (ankle) expected to play on Sunday (2026-09-11T15:05:27.967000Z)
   - Love was electric in his limited preseason showing, and if he is fully ready to go, he should be electric yet again. Tyler Allgeier could very well eat into his workload, but don't let that stop you from putting Love in your lineup.
   - Source: https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php
+- **NEW — Pat Freiermuth** — Pat Freiermuth Facing More Competition for Targets (2026-09-11T12:07:19Z)
+  - Source: https://www.rotoballer.com/player-news/pat-freiermuth-facing-more-competition-for-targets/1928468
+- **NEW — Christian McCaffrey** — Christian McCaffrey Played Through Cramping in Season-Opening Win (2026-09-11T12:04:34Z)
+  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-played-through-cramping-in-season-opening-win/1928464
+- **NEW — Elic Ayomanor** — Elic Ayomanor Opens Year Behind Rookie Receiver (2026-09-11T11:53:37Z)
+  - Source: https://www.rotoballer.com/player-news/elic-ayomanor-opens-year-behind-carnell-tate/1928448
+- **NEW — Jonathon Brooks** — Jonathon Brooks on Field for Third Straight Practice (2026-09-11T11:43:36Z)
+  - Source: https://www.rotoballer.com/player-news/jonathon-brooks-on-field-for-third-straight-practice/1928441
 - **Jeremiyah Love** — Jeremiyah Love Expected to Play in Week 1 (2026-09-11T11:20:05Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-loves-week-1-outlook-continues-to-improve/1928412
 - **Zachariah Branch** — Zachariah Branch Not Projected to Start Early in Rookie Season (2026-09-11T11:05:05Z)
@@ -227,19 +240,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Ja'Marr Chase** — Ja'Marr Chase (knee) logs full practice Thursday (2026-09-10T20:40:22.059000Z)
   - As expected, Chase was able to log yet another full practice session on Thursday. He is trending towards being a full go for the season opener on Sunday, assuming there are no unforeseen setbacks between now and then. He will be a top-tier fantasy option if active in Week 1 and beyond.
   - Source: https://www.fantasypros.com/nfl/news/606986/jamarr-chase-knee-logs-full-practice-thursday.php
-- **Tee Higgins** — Tee Higgins (foot) practices in full again Thursday (2026-09-10T20:40:22.044000Z)
-  - The Bengals will likely have Higgins for their season opener on Sunday, as he has been a full participant at two-straight practices to start the week. Fantasy managers should feel confident starting him if he's fully cleared to play prior to kickoff against the Buccaneers.
-  - Source: https://www.fantasypros.com/nfl/news/606988/tee-higgins-foot-practices-full-again-thursday.php
-- **Ashton Jeanty** — Ashton Jeanty - Feeling 'really good' ahead of opener (2026-09-10T20:39:22Z)
-  - Jeanty cleared up any concern about his availability for the opener by turning in a full practice Wednesday, two and a half weeks after he sustained what initially appeared to be a serious-looking ankle injury during an Aug. 23 training camp session. The running back practiced again Thursday, and barring any setbacks, he'll draw the Week 1 start for the Raiders. However, because of the amount of workouts Jeanty missed late in camp while recovering from the ankle injury, the Raiders could look to manage his workload to some degree in the opener and open up more reps for rookie Mike Washington, per Dan Graziano of ESPN.com.
-- **Alvin Kamara** — Alvin Kamara - Limited again Thursday (2026-09-10T20:37:20Z)
-  - Kamara still has a chance to suit up Week 1 as he recovers from a sprained MCL, so his participation level Friday will bear monitoring before the Saints release game designations for Sunday's matchup with the Lions. Travis Etienne is in line to lead New Orleans' backfield, while Kendre Miller could take on a change-of-pace role if Kamara doesn't play.
-- **Breece Hall** — Breece Hall (groin) logs full practice Thursday (2026-09-10T20:35:22.685000Z)
-  - Hall has been a full participant in two-straight practices to start the week. He told reporters earlier that will be good to go for Week 1, so fantasy managers shouldn't have any real hesitations with starting him ahead of the first game of the season.
-  - Source: https://www.fantasypros.com/nfl/news/606976/breece-hall-groin-logs-full-practice-thursday.php
-- **Emeka Egbuka** — Emeka Egbuka (toe) logs another full practice Thursday  (2026-09-10T20:35:22.672000Z)
-  - Egbuka has now posted back-to-back full practices, leaving him well on track to be good to go for Week 1. He is an upside WR2 heading into the season and could be part of one of the higher-scoring games of the week on Sunday against the Bengals. 
-  - Source: https://www.fantasypros.com/nfl/news/606977/emeka-egbuka-toe-logs-another-full-practice-thursday.php
-- **Jalen McMillan** — Jalen McMillan (knee) limited in practice Thursday  (2026-09-10T20:35:22.660000Z)
-  - McMillan has now been limited back-to-back days. He should be good to go on Sunday with another limited session on Friday. 
-  - Source: https://www.fantasypros.com/nfl/news/606978/jalen-mcmillan-knee-limited-practice-thursday.php
