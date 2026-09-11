@@ -2,11 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2595**
-- Newly captured: **0**
+- Stored stories: **2599**
+- Newly captured: **4**
 
 ## Latest news
 
+- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling - Returns to Thursday's game (2026-09-11T01:19:31Z)
+  - Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deep Samuel, George Kittle and Christian McCaffrey for opportunities.
+- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling - Questionable to return Thursday (2026-09-11T01:14:26Z)
+  - Stribling took a trip to the blue medical tent on the sideline near the end of the first quarter. Prior to the injury, Stribling wasn't targeted on any of Brock Purdy's 14 pass attempts. Demarcus Robinson would be in line for more work behind Mike Evans and Deebo Samuel if Stribling is unable to return Thursday.
 - **Chris Bell** — Chris Bell - Still working on conditioning (2026-09-11T00:08:46Z)
   - Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial "pitch count" against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.
 - **Max Klare** — Max Klare - Healthy scratch to begin rookie campaign (2026-09-11T00:07:54Z)
@@ -50,6 +54,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - McMillan has been tending to a knee injury since early August, a scenario that sidelined him for the entire preseason slate. With back-to-back capped sessions under his belt, he still has some work to do to make himself available for Sunday's game at Cincinnati. Friday's practice report will reveal if McMillan enters the weekend with a designation ahead of that matchup.
 - **Jakobi Meyers** — Jakobi Meyers - Stays limited in practice (2026-09-10T21:25:13Z)
   - Per Ryan O'Halloran of The Florida Times-Union, Meyers was donning a non-contact jersey for the second day in a row while aiming to protect his injured right thumb. The fact that he's practiced in some fashion during the first two days of Week 1 prep is generally a positive sign for Meyers' status heading into Sunday's game against the Browns, but he may need to turn in a full practice Friday to avoid taking a designation into the weekend.
+- **NEW — Chris Bell** — Chris Bell Still Working to Regain His Conditioning (2026-09-10T21:16:05Z)
+  - Source: https://www.rotoballer.com/player-news/chris-bell-still-working-to-regain-his-conditioning/1928005
 - **Rashee Rice** — Rashee Rice (knee) logs full practice Thursday (2026-09-10T21:15:29.632000Z)
   - As expected, Rice was able to log a full practice session on Thursday and seems to be set to play in Monday night's game against the Denver Broncos. Despite the tough matchup, he projects to be a good fantasy option in PPR leagues this week, especially with Patrick Mahomes II (knee) likely to be at the helm for Kansas City.
   - Source: https://www.fantasypros.com/nfl/news/607005/rashee-rice-knee-logs-full-practice-thursday.php
@@ -59,6 +65,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Xavier Worthy** — Xavier Worthy (shoulder) listed as full participant Thursday (2026-09-10T21:15:29.608000Z)
   - To no surprise, Worthy seems to be over his shoulder injury and was able to practice in full on Thursday. He should be a full go for Week 1 but doesn't project to be a strong fantasy option in a matchup against the Broncos.
   - Source: https://www.fantasypros.com/nfl/news/607012/xavier-worthy-shoulder-listed-full-participant-thursday.php
+- **NEW — Tucker Kraft** — Tucker Kraft Unlikely to Receive Extension Before Week 1 (2026-09-10T21:09:05Z)
+  - Source: https://www.rotoballer.com/player-news/tucker-kraft-unlikely-to-receive-extension-before-week-1/1928000
 - **Patrick Mahomes** — Patrick Mahomes II (knee) practices in full Thursday (2026-09-10T21:05:29.581000Z)
   - Mahomes was able to take part in Kansas City's first practice of the week on Thursday and wasn't limited in any way. It seems like the team is planning on him starting on Monday night, barring any unforeseen setbacks. His presence would be great news for the fantasy value of players like Rashee Rice and Travis Kelce in a matchup against a tough Denver defense.
   - Source: https://www.fantasypros.com/nfl/news/607002/patrick-mahomes-ii-knee-practices-full-thursday.php
@@ -235,14 +243,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **AJ Barner** — AJ Barner catches two passes Wednesday (2026-09-10T15:40:05.109000Z)
   - The Seahawks were able to pick up a win over the Patriots on Wednesday, but they didn't need to get Barner very involved in order to do so. He finished the game with just two catches for 13 yards, and there's not much reason to believe that he will bounce back and become a quality week-to-week option anytime soon.
   - Source: https://www.fantasypros.com/nfl/news/606925/aj-barner-catches-two-passes-wednesday.php
-- **George Holani** — George Holani sees nine opportunities in win Wednesday (2026-09-10T15:40:05.093000Z)
-  - Holani saw solid involvement on Wednesday, receiving nine total opportunities over the course of the game. He didn't do much with them, but the fact that he had a pretty even split with rookie RB Jadarian Price is a bit concerning for Price's fantasy value moving forward. It's too soon to make any definitive judgements about this offense, however, as they were without their starting quarterback for almost the entire game on Wednesday.
-  - Source: https://www.fantasypros.com/nfl/news/606926/george-holani-sees-nine-opportunities-win-wednesday.php
-- **Cooper Kupp** — Cooper Kupp totals 35 yards in win Wednesday (2026-09-10T15:40:05.057000Z)
-  - Kupp didn't end up with a strong statline in the box score on Wednesday, but he was an important player for the Seahawks in this matchup. He made multiple key plays for them and had a touchdown that got called back due to penalty. He isn't likely to be fantasy relevant moving forward, however, especially if QB Sam Darnold (hip) misses time.
-  - Source: https://www.fantasypros.com/nfl/news/606928/cooper-kupp-totals-35-yards-win-wednesday.php
-- **Bryce Young** — Bryce Young a Risky Streaming Option for Week 1 (2026-09-10T15:36:28Z)
-  - Source: https://www.rotoballer.com/player-news/bryce-young-a-risky-streaming-option-for-week-1/1927792
-- **Jaxon Smith-Njigba** — Jaxon Smith-Njigba electric in win Wednesday (2026-09-10T15:35:04.138000Z)
-  - On Wednesday, Smith-Njigba picked up right where he left off last season, exploding for 122 yards and a touchdown in a big win over the Patriots. He did that with Drew Lock throwing him passes after starter Sam Darnold went down with a hip injury earlier in the game. Fantasy managers should be happy with his performance in this matchup but should keep a close eye on the health of Darnold, as the young wideout's week-to-week ceiling will certainly take a hit if their starting QB misses significant time.
-  - Source: https://www.fantasypros.com/nfl/news/606921/jaxon-smith-njigba-electric-win-wednesday.php

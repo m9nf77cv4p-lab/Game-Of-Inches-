@@ -1,8 +1,13 @@
 {
-  "last_checked_at": "2026-09-11T00:44:11Z",
+  "last_checked_at": "2026-09-11T01:26:53Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|13311|rotoballer|220587|1789074965000",
+    "nfl|13417|rotowire|636787|1789089266000",
+    "nfl|13417|rotowire|636789|1789089571000",
+    "nfl|9484|rotoballer|220586|1789074545000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +16,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deep Samuel, George Kittle and Christian McCaffrey for opportunities.",
+      "description": "Stribling (ankle) returned to Thursday's game against the Rams, Jennifer Lee Chan of NBC Sports Bay Area reports.",
+      "metadata": {
+        "analysis": "Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deep Samuel, George Kittle and Christian McCaffrey for opportunities.",
+        "description": "Stribling (ankle) returned to Thursday's game against the Rams, Jennifer Lee Chan of NBC Sports Bay Area reports.",
+        "title": "De'Zhaun Stribling - Returns to Thursday's game",
+        "topic_id": "1403947304410443776"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1789089571000,
+      "source": "rotowire",
+      "source_key": "636789",
+      "story_id": "nfl|13417|rotowire|636789|1789089571000",
+      "title": "De'Zhaun Stribling - Returns to Thursday's game",
+      "url": null
+    },
+    {
+      "analysis": "Stribling took a trip to the blue medical tent on the sideline near the end of the first quarter. Prior to the injury, Stribling wasn't targeted on any of Brock Purdy's 14 pass attempts. Demarcus Robinson would be in line for more work behind Mike Evans and Deebo Samuel if Stribling is unable to return Thursday.",
+      "description": "Stribling (ankle) is questionable to return to Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports.",
+      "metadata": {
+        "analysis": "Stribling took a trip to the blue medical tent on the sideline near the end of the first quarter. Prior to the injury, Stribling wasn't targeted on any of Brock Purdy's 14 pass attempts. Demarcus Robinson would be in line for more work behind Mike Evans and Deebo Samuel if Stribling is unable to return Thursday.",
+        "description": "Stribling (ankle) is questionable to return to Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports.",
+        "title": "De'Zhaun Stribling - Questionable to return Thursday",
+        "topic_id": "1403947304347529216"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1789089266000,
+      "source": "rotowire",
+      "source_key": "636787",
+      "story_id": "nfl|13417|rotowire|636787|1789089266000",
+      "title": "De'Zhaun Stribling - Questionable to return Thursday",
+      "url": null
+    },
     {
       "analysis": "Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial \"pitch count\" against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.",
       "description": "Bell estimated Thursday that his conditioning is back to \"80 to 85 percent\" following last season's torn ACL, Joe Schad of The Palm Beach Post reports.",
@@ -397,6 +442,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Miami Dolphins wide receiver Chris Bell said he's \"about 80-85 percent back as far as conditioning,\" per Joe Schad of the Palm Beach Post. A third-round pick in the 2026 NFL Draft, Bell suffered a torn ACL last November that ended his final collegiate season prematurely. The 22-year-old was able to return to game action in the preseason and is expected to play in Week 1 against the Las Vegas Raiders. However, it appears Bell may not be all the way back to 100% in all facets of the game right away. With the Dolphins lacking established high-end pass-catchers, Bell has a chance to play a high-volume role in Miami's passing game as a rookie. Fantasy managers may want to temper their expectations for Bell as he gets his legs underneath him, but he's a worthy stash candidate for his season-long upside.",
+      "metadata": {
+        "description": "Miami Dolphins wide receiver Chris Bell said he's \"about 80-85 percent back as far as conditioning,\" per Joe Schad of the Palm Beach Post. A third-round pick in the 2026 NFL Draft, Bell suffered a torn ACL last November that ended his final collegiate season prematurely. The 22-year-old was able to return to game action in the preseason and is expected to play in Week 1 against the Las Vegas Raiders. However, it appears Bell may not be all the way back to 100% in all facets of the game right away. With the Dolphins lacking established high-end pass-catchers, Bell has a chance to play a high-volume role in Miami's passing game as a rookie. Fantasy managers may want to temper their expectations for Bell as he gets his legs underneath him, but he's a worthy stash candidate for his season-long upside.",
+        "title": "Chris Bell Still Working to Regain His Conditioning",
+        "topic_id": "1403947298823614464",
+        "url": "https://www.rotoballer.com/player-news/chris-bell-still-working-to-regain-his-conditioning/1928005"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1789074965000,
+      "source": "rotoballer",
+      "source_key": "220587",
+      "story_id": "nfl|13311|rotoballer|220587|1789074965000",
+      "title": "Chris Bell Still Working to Regain His Conditioning",
+      "url": "https://www.rotoballer.com/player-news/chris-bell-still-working-to-regain-his-conditioning/1928005"
+    },
+    {
       "analysis": "As expected, Rice was able to log a full practice session on Thursday and seems to be set to play in Monday night's game against the Denver Broncos. Despite the tough matchup, he projects to be a good fantasy option in PPR leagues this week, especially with Patrick Mahomes II (knee) likely to be at the helm for Kansas City.",
       "description": "Rashee Rice (knee) logged a full practice session on Thursday.",
       "metadata": {
@@ -458,6 +523,26 @@
       "story_id": "nfl|11624|fantasy_pros|607012|1789074929608",
       "title": "Xavier Worthy (shoulder) listed as full participant Thursday",
       "url": "https://www.fantasypros.com/nfl/news/607012/xavier-worthy-shoulder-listed-full-participant-thursday.php"
+    },
+    {
+      "analysis": null,
+      "description": "The Green Bay Packers and tight end Tucker Kraft are unlikely to agree to terms on an extension before the start of the season, per Tom Silverstein of the Milwaukee Journal Sentinel. Kraft is reportedly seeking a top-of-market deal as he enters the final year of his rookie contract with Green Bay. The 25-year-old had his 2025 season cut short after he suffered a season-ending torn ACL in Week 9. However, Kraft was in the midst of a breakout campaign before suffering the injury, recording 32 catches for 489 yards and six touchdowns on 44 targets across eight games. As long as he can stay healthy, Kraft profiles as a high-end TE1 option for fantasy managers entering 2026.",
+      "metadata": {
+        "description": "The Green Bay Packers and tight end Tucker Kraft are unlikely to agree to terms on an extension before the start of the season, per Tom Silverstein of the Milwaukee Journal Sentinel. Kraft is reportedly seeking a top-of-market deal as he enters the final year of his rookie contract with Green Bay. The 25-year-old had his 2025 season cut short after he suffered a season-ending torn ACL in Week 9. However, Kraft was in the midst of a breakout campaign before suffering the injury, recording 32 catches for 489 yards and six touchdowns on 44 targets across eight games. As long as he can stay healthy, Kraft profiles as a high-end TE1 option for fantasy managers entering 2026.",
+        "title": "Tucker Kraft Unlikely to Receive Extension Before Week 1",
+        "topic_id": "1403946040767361024",
+        "url": "https://www.rotoballer.com/player-news/tucker-kraft-unlikely-to-receive-extension-before-week-1/1928000"
+      },
+      "nfl_team": "GB",
+      "player_id": "9484",
+      "player_name": "Tucker Kraft",
+      "position": "TE",
+      "published": 1789074545000,
+      "source": "rotoballer",
+      "source_key": "220586",
+      "story_id": "nfl|9484|rotoballer|220586|1789074545000",
+      "title": "Tucker Kraft Unlikely to Receive Extension Before Week 1",
+      "url": "https://www.rotoballer.com/player-news/tucker-kraft-unlikely-to-receive-extension-before-week-1/1928000"
     },
     {
       "analysis": "Mahomes was able to take part in Kansas City's first practice of the week on Thursday and wasn't limited in any way. It seems like the team is planning on him starting on Monday night, barring any unforeseen setbacks. His presence would be great news for the fantasy value of players like Rashee Rice and Travis Kelce in a matchup against a tough Denver defense.",
