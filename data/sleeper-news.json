@@ -1,14 +1,12 @@
 {
-  "last_checked_at": "2026-09-11T16:14:34Z",
+  "last_checked_at": "2026-09-11T16:45:22Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|11583|rotoballer|220625|1789127016000",
-    "nfl|11583|rotowire|636825|1789141887000",
-    "nfl|11632|fantasy_pros|607135|1789143027980",
-    "nfl|12499|rotoballer|220626|1789127617000",
-    "nfl|4034|rotoballer|220628|1789128274000",
-    "nfl|7600|rotoballer|220627|1789128439000"
+    "nfl|5947|rotowire|636826|1789143691000",
+    "nfl|6768|rotowire|636827|1789144128000",
+    "nfl|6801|rotoballer|220631|1789130113000",
+    "nfl|7564|rotoballer|220630|1789129807000"
   ],
   "schema_version": 1,
   "source": {
@@ -18,6 +16,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Tagovailoa is considered day-to-day after suffering an oblique strain during Thursday's practice. His absence Friday suggests there's serious risk the Falcons will end up starting Cooper Rush this Sunday in Pittsburgh. The team has yet to announce any kind of decision, beyond ruling out Michael Penix (knee) at the start of the week. It won't be surprising if Penix is under center by the end of the month, however.",
+      "description": "Tagovailoa (oblique) wasn't on the field for the media-access portion of Friday's practice, Marc Raimondi of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Tagovailoa is considered day-to-day after suffering an oblique strain during Thursday's practice. His absence Friday suggests there's serious risk the Falcons will end up starting Cooper Rush this Sunday in Pittsburgh. The team has yet to announce any kind of decision, beyond ruling out Michael Penix (knee) at the start of the week. It won't be surprising if Penix is under center by the end of the month, however.",
+        "description": "Tagovailoa (oblique) wasn't on the field for the media-access portion of Friday's practice, Marc Raimondi of ESPN.com reports.",
+        "title": "Tua Tagovailoa - Not spotted at start of practice",
+        "topic_id": "1404177557204529152"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1789144128000,
+      "source": "rotowire",
+      "source_key": "636827",
+      "story_id": "nfl|6768|rotowire|636827|1789144128000",
+      "title": "Tua Tagovailoa - Not spotted at start of practice",
+      "url": null
+    },
+    {
+      "analysis": "After logging limited practices Wednesday and Thursday while wearing a non-contact jersey, Meyers may be gearing up to play in the opener. It remains to be seen how the Jaguars list him on their final injury report.",
+      "description": "Meyers (thumb) is practicing without a non-contact jersey Friday, Ryan O'Halloran of The Florida Times-Union reports.",
+      "metadata": {
+        "analysis": "After logging limited practices Wednesday and Thursday while wearing a non-contact jersey, Meyers may be gearing up to play in the opener. It remains to be seen how the Jaguars list him on their final injury report.",
+        "description": "Meyers (thumb) is practicing without a non-contact jersey Friday, Ryan O'Halloran of The Florida Times-Union reports.",
+        "title": "Jakobi Meyers - Could play Sunday",
+        "topic_id": "1404175039909126144"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1789143691000,
+      "source": "rotowire",
+      "source_key": "636826",
+      "story_id": "nfl|5947|rotowire|636826|1789143691000",
+      "title": "Jakobi Meyers - Could play Sunday",
+      "url": null
+    },
     {
       "analysis": "Nabers has practiced fully the entire week for head coach John Harbaugh, putting the superstar wideout on track to suit up for Sunday's season opener against the Dallas Cowboys and providing a boost to a Giants offense looking to put a forgettable 2025-26 in the rearview mirror.",
       "description": "Malik Nabers (knee) was seen warming up on the sidelines to prepare for Friday's practice according to Jordan Raanan.",
@@ -182,6 +220,46 @@
       "story_id": "nfl|13287|fantasy_pros|607111|1789139127967",
       "title": "Jeremiyah Love (ankle) expected to play on Sunday",
       "url": "https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals head coach Zac Taylor said that wide receiver Tee Higgins (heel) is good to go for Sunday's Week 1 season opener versus the Tampa Bay Buccaneers, according to ESPN's Ben Baby. The Bengals announced last week that Higgins was dealing with a minor heel injury that was never expected to put him in danger of missing the start of the 2026 season. Fantasy managers need to have the 27-year-old locked into their starting lineups for this weekend's matchup against the Bucs. Higgins was a first-time Pro Bowler for the Bengals last season, catching 59 of his 98 targets for 846 yards and 11 touchdowns in 15 games played. He has not had a 1,000-yard season since 2022, but Higgins has remained productive when he has been on the field, and he has scored 21 touchdowns combined in the last two seasons in Cincy. Higgins has had issues staying on the field for a full season, but when he is out there, he has a strong floor as a high-end WR2 for fantasy managers, even in the shadow of star wideout Ja'Marr Chase.",
+      "metadata": {
+        "description": "Cincinnati Bengals head coach Zac Taylor said that wide receiver Tee Higgins (heel) is good to go for Sunday's Week 1 season opener versus the Tampa Bay Buccaneers, according to ESPN's Ben Baby. The Bengals announced last week that Higgins was dealing with a minor heel injury that was never expected to put him in danger of missing the start of the 2026 season. Fantasy managers need to have the 27-year-old locked into their starting lineups for this weekend's matchup against the Bucs. Higgins was a first-time Pro Bowler for the Bengals last season, catching 59 of his 98 targets for 846 yards and 11 touchdowns in 15 games played. He has not had a 1,000-yard season since 2022, but Higgins has remained productive when he has been on the field, and he has scored 21 touchdowns combined in the last two seasons in Cincy. Higgins has had issues staying on the field for a full season, but when he is out there, he has a strong floor as a high-end WR2 for fantasy managers, even in the shadow of star wideout Ja'Marr Chase.",
+        "title": "Tee Higgins Cleared for Week 1 Against Tampa",
+        "topic_id": "1404178814216482816",
+        "url": "https://www.rotoballer.com/player-news/tee-higgins-cleared-for-week-1-against-tampa/1928495"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6801",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "published": 1789130113000,
+      "source": "rotoballer",
+      "source_key": "220631",
+      "story_id": "nfl|6801|rotoballer|220631|1789130113000",
+      "title": "Tee Higgins Cleared for Week 1 Against Tampa",
+      "url": "https://www.rotoballer.com/player-news/tee-higgins-cleared-for-week-1-against-tampa/1928495"
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals head coach Zac Taylor said that wide receiver Ja'Marr Chase (knee) is good to go for the Week 1 season opener on Sunday against the Tampa Bay Buccaneers, according to Ben Baby of ESPN. Chase suffered a hyperextended knee during the late stages of training camp and was limited from practice work until practicing in full on Wednesday, which signaled that the 26-year-old was looking good to play this weekend. That is now confirmed, so fantasy managers need to have Chase locked into all starting lineups to kick off the regular season on Sunday. The five-time Pro Bowler and two-time first-team All-Pro has hit the 1,000-yard mark in all five of his NFL seasons with the Bengals and is poised for a sixth this year if he stays healthy. Chase led the league in 2024 with 1,708 receiving yards and 17 touchdowns, and he has scored an incredible 54 times in 78 games so far in his NFL career. If quarterback Joe Burrow stays healthy for another full season, Chase is the odds-on favorite to finish as the overall WR1 in fantasy football.",
+      "metadata": {
+        "description": "Cincinnati Bengals head coach Zac Taylor said that wide receiver Ja'Marr Chase (knee) is good to go for the Week 1 season opener on Sunday against the Tampa Bay Buccaneers, according to Ben Baby of ESPN. Chase suffered a hyperextended knee during the late stages of training camp and was limited from practice work until practicing in full on Wednesday, which signaled that the 26-year-old was looking good to play this weekend. That is now confirmed, so fantasy managers need to have Chase locked into all starting lineups to kick off the regular season on Sunday. The five-time Pro Bowler and two-time first-team All-Pro has hit the 1,000-yard mark in all five of his NFL seasons with the Bengals and is poised for a sixth this year if he stays healthy. Chase led the league in 2024 with 1,708 receiving yards and 17 touchdowns, and he has scored an incredible 54 times in 78 games so far in his NFL career. If quarterback Joe Burrow stays healthy for another full season, Chase is the odds-on favorite to finish as the overall WR1 in fantasy football.",
+        "title": "Ja'Marr Chase Good to Go for Week 1",
+        "topic_id": "1404177555124166656",
+        "url": "https://www.rotoballer.com/player-news/jamarr-chase-good-to-go-for-week-1/1928489"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1789129807000,
+      "source": "rotoballer",
+      "source_key": "220630",
+      "story_id": "nfl|7564|rotoballer|220630|1789129807000",
+      "title": "Ja'Marr Chase Good to Go for Week 1",
+      "url": "https://www.rotoballer.com/player-news/jamarr-chase-good-to-go-for-week-1/1928489"
     },
     {
       "analysis": null,

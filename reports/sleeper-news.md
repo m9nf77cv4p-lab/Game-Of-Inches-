@@ -2,15 +2,19 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2656**
-- Newly captured: **6**
+- Stored stories: **2660**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Malik Nabers** — Malik Nabers (knee) preparing to practice Friday (2026-09-11T16:10:27.980000Z)
+- **NEW — Tua Tagovailoa** — Tua Tagovailoa - Not spotted at start of practice (2026-09-11T16:28:48Z)
+  - Tagovailoa is considered day-to-day after suffering an oblique strain during Thursday's practice. His absence Friday suggests there's serious risk the Falcons will end up starting Cooper Rush this Sunday in Pittsburgh. The team has yet to announce any kind of decision, beyond ruling out Michael Penix (knee) at the start of the week. It won't be surprising if Penix is under center by the end of the month, however.
+- **NEW — Jakobi Meyers** — Jakobi Meyers - Could play Sunday (2026-09-11T16:21:31Z)
+  - After logging limited practices Wednesday and Thursday while wearing a non-contact jersey, Meyers may be gearing up to play in the opener. It remains to be seen how the Jaguars list him on their final injury report.
+- **Malik Nabers** — Malik Nabers (knee) preparing to practice Friday (2026-09-11T16:10:27.980000Z)
   - Nabers has practiced fully the entire week for head coach John Harbaugh, putting the superstar wideout on track to suit up for Sunday's season opener against the Dallas Cowboys and providing a boost to a Giants offense looking to put a forgettable 2025-26 in the rearview mirror.
   - Source: https://www.fantasypros.com/nfl/news/607135/malik-nabers-knee-preparing-to-practice-friday.php
-- **NEW — Jonathon Brooks** — Jonathon Brooks - Practicing again Friday (2026-09-11T15:51:27Z)
+- **Jonathon Brooks** — Jonathon Brooks - Practicing again Friday (2026-09-11T15:51:27Z)
   - With Brooks having now been present for three consecutive practices, he's trending in the right direction for Sunday's opener against the Bears. Assuming no setbacks, he should split backfield work with Chuba Hubbard, who remains the favorite to start and has been a full practice participant all week.
 - **Jalen McMillan** — Jalen McMillan (knee) practicing in full (2026-09-11T15:40:28.014000Z)
   - After being limited by a knee issue on Thursday, McMillan showed no limitations on Friday. The third-year receiver is looking for a strong start after playing in only four games last season due to injury. 
@@ -28,13 +32,17 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jeremiyah Love** — Jeremiyah Love (ankle) expected to play on Sunday (2026-09-11T15:05:27.967000Z)
   - Love was electric in his limited preseason showing, and if he is fully ready to go, he should be electric yet again. Tyler Allgeier could very well eat into his workload, but don't let that stop you from putting Love in your lineup.
   - Source: https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php
-- **NEW — Pat Freiermuth** — Pat Freiermuth Facing More Competition for Targets (2026-09-11T12:07:19Z)
+- **NEW — Tee Higgins** — Tee Higgins Cleared for Week 1 Against Tampa (2026-09-11T12:35:13Z)
+  - Source: https://www.rotoballer.com/player-news/tee-higgins-cleared-for-week-1-against-tampa/1928495
+- **NEW — Ja'Marr Chase** — Ja'Marr Chase Good to Go for Week 1 (2026-09-11T12:30:07Z)
+  - Source: https://www.rotoballer.com/player-news/jamarr-chase-good-to-go-for-week-1/1928489
+- **Pat Freiermuth** — Pat Freiermuth Facing More Competition for Targets (2026-09-11T12:07:19Z)
   - Source: https://www.rotoballer.com/player-news/pat-freiermuth-facing-more-competition-for-targets/1928468
-- **NEW — Christian McCaffrey** — Christian McCaffrey Played Through Cramping in Season-Opening Win (2026-09-11T12:04:34Z)
+- **Christian McCaffrey** — Christian McCaffrey Played Through Cramping in Season-Opening Win (2026-09-11T12:04:34Z)
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-played-through-cramping-in-season-opening-win/1928464
-- **NEW — Elic Ayomanor** — Elic Ayomanor Opens Year Behind Rookie Receiver (2026-09-11T11:53:37Z)
+- **Elic Ayomanor** — Elic Ayomanor Opens Year Behind Rookie Receiver (2026-09-11T11:53:37Z)
   - Source: https://www.rotoballer.com/player-news/elic-ayomanor-opens-year-behind-carnell-tate/1928448
-- **NEW — Jonathon Brooks** — Jonathon Brooks on Field for Third Straight Practice (2026-09-11T11:43:36Z)
+- **Jonathon Brooks** — Jonathon Brooks on Field for Third Straight Practice (2026-09-11T11:43:36Z)
   - Source: https://www.rotoballer.com/player-news/jonathon-brooks-on-field-for-third-straight-practice/1928441
 - **Jeremiyah Love** — Jeremiyah Love Expected to Play in Week 1 (2026-09-11T11:20:05Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-loves-week-1-outlook-continues-to-improve/1928412
@@ -230,13 +238,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607002/patrick-mahomes-ii-knee-practices-full-thursday.php
 - **Patrick Mahomes** — Patrick Mahomes - Practices fully, looks ready for opener (2026-09-10T20:57:11Z)
   - Per Charles Goldman of AtoZSports.com, head coach Andy Reid relayed prior to the Chiefs' first official practice of Week 1 that Mahomes was "geared up and ready to go" for the season opener Monday versus the Broncos. The quarterback backed up his coach's optimism by taking every rep with the first-team offense Thursday, setting the stage for him to play in his first game since his 2025 season came to an end Dec. 14, when he sustained a torn ACL and LCL in his left knee. Mahomes made tremendous strides in his rehab from surgery and was cleared for full practices prior to training camp, and though he didn't play in any preseason games, he steered clear of any setbacks with his knee. According to Matt Derrick of ChiefsDigest.com, Mahomes said that he'll continue to wear a protective brace on his knee, and while the Chiefs aren't expected to alter their game plans as a result, the 30-year-old could naturally scale back his involvement as a runner coming off major surgery.
-- **Jeremiyah Love** — Jeremiyah Love - Warming up before practice (2026-09-10T20:48:45Z)
-  - Love is set to practice in some capacity Thursday after being listed as a limited participant Wednesday. The rookie third overall pick is working his way back from a high-ankle sprain sustained exactly one month before Sunday's regular-season opener against the Chargers. Once cleared for game action, Love is expected to operate in a split backfield with Tyler Allgeier.
-- **Zay Flowers** — Zay Flowers - Upgrades to full Thursday (2026-09-10T20:41:31Z)
-  - Flowers was listed as a limited participant Wednesday but upgraded to all activity Thursday, putting him on track to play in Sunday's season opener against the Colts. After leading the Ravens with 1,211 receiving yards last season, Flowers is set to reprise his role as Lamar Jackson's top target under new offensive coordinator Declan Doyle.
-- **Alvin Kamara** — Alvin Kamara (knee) listed as limited again Thursday (2026-09-10T20:40:22.104000Z)
-  - Kamara continues to beat expectations with his injury timeline, participating in a second-straight practice again on Thursday. He remained limited, but there have been reports that he is trending towards playing in Week 1 of the season. If that's the case, that will be negative news for the fantasy value of Kendre Miller moving forward.
-  - Source: https://www.fantasypros.com/nfl/news/606983/alvin-kamara-knee-listed-limited-again-thursday.php
-- **Ja'Marr Chase** — Ja'Marr Chase (knee) logs full practice Thursday (2026-09-10T20:40:22.059000Z)
-  - As expected, Chase was able to log yet another full practice session on Thursday. He is trending towards being a full go for the season opener on Sunday, assuming there are no unforeseen setbacks between now and then. He will be a top-tier fantasy option if active in Week 1 and beyond.
-  - Source: https://www.fantasypros.com/nfl/news/606986/jamarr-chase-knee-logs-full-practice-thursday.php
