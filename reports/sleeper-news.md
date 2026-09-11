@@ -2,23 +2,26 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2624**
-- Newly captured: **5**
+- Stored stories: **2625**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Mike Evans** — Mike Evans - Clicks quickly with Purdy (2026-09-11T04:24:39Z)
+- **NEW — Ryan Flournoy** — Ryan Flournoy agrees to one-year, $6 million extension with Dallas (2026-09-11T04:40:16.876000Z)
+  - Flournoy flashed at times last year and is expected to take on a larger role in 2026. He's coming off of a great second season in the league that saw him snag 40 passes for nearly 500 yards and four touchdowns, including two games with more than 110 yards.
+  - Source: https://www.fantasypros.com/nfl/news/607075/ryan-flournoy-agrees-to-one-year-6-million-extension-with-dallas.php
+- **Mike Evans** — Mike Evans - Clicks quickly with Purdy (2026-09-11T04:24:39Z)
   - Evans shrugged off recent nagging injuries to hit the ground running in his 49ers regular-season debut, recording three catches for 22 yards on the opening possession alone. Evans would go on to double up that reception tally by game's end, tying for the team lead in that category with Deebo Samuel while also drawing even with his teammate for second in targets. Evans was also on the receiving end of the second of Brock Purdy's three touchdown passes, muscling his way to a contested two-yard grab in the left corner of the end zone in the third quarter. If early returns are any indication, the Purdy-Evans connection could be a prolific one throughout the season, and a Week 2 home matchup against the Dolphins on Sunday, Sept. 20 presents as a particularly promising matchup.
-- **NEW — Brock Purdy** — Brock Purdy dismantles Rams defense in statement win (2026-09-11T04:20:16.703000Z)
+- **Brock Purdy** — Brock Purdy dismantles Rams defense in statement win (2026-09-11T04:20:16.703000Z)
   - Purdy was great in this game aside from a couple of hiccups, namely the interception. However, he did what he needed to and got the Niners into scoring position and helped them take advantage of the several short fields they inherited. Purdy should be a solid asset moving forward for fantasy.
   - Source: https://www.fantasypros.com/nfl/news/607069/brock-purdy-dismantles-rams-defense-statement-win.php
-- **NEW — Deebo Samuel** — Deebo Samuel Sr. snags touchdown in win (2026-09-11T04:20:16.686000Z)
+- **Deebo Samuel** — Deebo Samuel Sr. snags touchdown in win (2026-09-11T04:20:16.686000Z)
   - Samuel looks to have come back to his old role on the 49ers, lining up everywhere and getting the ball put in his hands to make plays. He even had over 70 kick return yards. Samuel just might be a draft-day steal if they are going to use him like this throughout the season.
   - Source: https://www.fantasypros.com/nfl/news/607070/deebo-samuel-sr-snags-touchdown-win.php
-- **NEW — Kaelon Black** — Kaelon Black impresses in win over Rams (2026-09-11T04:20:16.665000Z)
+- **Kaelon Black** — Kaelon Black impresses in win over Rams (2026-09-11T04:20:16.665000Z)
   - Black was in a full-on committee with Christian McCaffrey, something few, if any, saw coming. Both were tied at 15 touches apiece, but McCaffrey led in total opportunities thanks to seeing more targets. Black won't have games like this all the time, but he's showing himself to be a valuable handcuff that CMC managers will need to snag when they can.
   - Source: https://www.fantasypros.com/nfl/news/607071/kaelon-black-impresses-win-over-rams.php
-- **NEW — Brock Purdy** — Brock Purdy - Three-TD effort to open season (2026-09-11T04:16:56Z)
+- **Brock Purdy** — Brock Purdy - Three-TD effort to open season (2026-09-11T04:16:56Z)
   - After an offseason in which the Rams' fearsome pass rush garnered plenty of headlines, Purdy navigated the season-opening matchup against his talented NFC West rival in nearly flawless fashion. The fifth-year signal-caller got off to a fast start with new No. 1 receiver Mike Evans, connecting with him on three occasions for 22 yards during a 15-play opening drive that culminated in a field goal. Purdy went on to hit Evans for a contested two-yard scoring strike early in the third quarter, and he sandwiched impressive touchdown tosses to Demarcus Robinson and Deebo Samuel of 39 and 15 yards, respectively, around that play. Purdy's early second-quarter interception on a pass intended for George Kittle did lead to the Rams' only touchdown, but as the final numbers indicate, the veteran quarterback did more than enough to atone. Purdy should have a strong chance of carrying over the season-opening momentum into Week 2, as a home date with what's expected to be a vulnerable Dolphins defense awaits on Sunday, Sept. 20.
 - **Christian McCaffrey** — Christian McCaffrey racks up 88 scrimmage yards in win (2026-09-11T04:10:16.595000Z)
   - McCaffrey surprisingly had a split backfield with Kaelon Black, at least much more than expected. The veteran tied Black in touches, 15 to 15, but had the edge in opportunities, 18 to 15, thanks to receiving. It will be interesting to see if this is a Week 1 fluke or a recurring theme, as Black was involved throughout the game, not just when the game was well in hand. Still, CMC is a top-tier asset, and while today was fine, bigger days are ahead.
@@ -248,6 +251,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Ashton Jeanty** — Ashton Jeanty (ankle) expected to play Sunday (2026-09-10T18:00:21.847000Z)
   - Jeanty opened the week practicing in full on Wednesday as he works his way back from an ankle sprain. He remains a strong RB1 for fantasy managers going into the season. 
   - Source: https://www.fantasypros.com/nfl/news/606948/ashton-jeanty-ankle-expected-to-play-sunday.php
-- **Jeremiyah Love** — Jeremiyah Love (ankle) expected to play Sunday  (2026-09-10T18:00:21.835000Z)
-  - Love was limited in practice to open the week on Wednesday as he works his way back from an ankle sprain. While Tyler Allgeier was listed as the "RB1" on Cardinals Week 1 depth chart, Love should still plenty of opportunity in his debut. 
-  - Source: https://www.fantasypros.com/nfl/news/606949/jeremiyah-love-ankle-expected-to-play-sunday.php

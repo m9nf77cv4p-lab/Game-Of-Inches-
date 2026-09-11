@@ -1,13 +1,9 @@
 {
-  "last_checked_at": "2026-09-11T04:33:22Z",
+  "last_checked_at": "2026-09-11T04:46:39Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|13414|fantasy_pros|607071|1789100416665",
-    "nfl|2216|rotowire|636811|1789100679000",
-    "nfl|5872|fantasy_pros|607070|1789100416686",
-    "nfl|8183|fantasy_pros|607069|1789100416703",
-    "nfl|8183|rotowire|636809|1789100216000"
+    "nfl|11783|fantasy_pros|607075|1789101616876"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +13,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Flournoy flashed at times last year and is expected to take on a larger role in 2026. He's coming off of a great second season in the league that saw him snag 40 passes for nearly 500 yards and four touchdowns, including two games with more than 110 yards.",
+      "description": "Ryan Flournoy has agreed to a one-year extension with the Dallas Cowboys worth $6 millloon.",
+      "metadata": {
+        "analysis": "Flournoy flashed at times last year and is expected to take on a larger role in 2026. He's coming off of a great second season in the league that saw him snag 40 passes for nearly 500 yards and four touchdowns, including two games with more than 110 yards.",
+        "description": "Ryan Flournoy has agreed to a one-year extension with the Dallas Cowboys worth $6 millloon.",
+        "title": "Ryan Flournoy agrees to one-year, $6 million extension with Dallas",
+        "topic_id": "1403997577828933632",
+        "url": "https://www.fantasypros.com/nfl/news/607075/ryan-flournoy-agrees-to-one-year-6-million-extension-with-dallas.php"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11783",
+      "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "published": 1789101616876,
+      "source": "fantasy_pros",
+      "source_key": "607075",
+      "story_id": "nfl|11783|fantasy_pros|607075|1789101616876",
+      "title": "Ryan Flournoy agrees to one-year, $6 million extension with Dallas",
+      "url": "https://www.fantasypros.com/nfl/news/607075/ryan-flournoy-agrees-to-one-year-6-million-extension-with-dallas.php"
+    },
     {
       "analysis": "Evans shrugged off recent nagging injuries to hit the ground running in his 49ers regular-season debut, recording three catches for 22 yards on the opening possession alone. Evans would go on to double up that reception tally by game's end, tying for the team lead in that category with Deebo Samuel while also drawing even with his teammate for second in targets. Evans was also on the receiving end of the second of Brock Purdy's three touchdown passes, muscling his way to a contested two-yard grab in the left corner of the end zone in the third quarter. If early returns are any indication, the Purdy-Evans connection could be a prolific one throughout the season, and a Week 2 home matchup against the Dolphins on Sunday, Sept. 20 presents as a particularly promising matchup.",
       "description": "Evans secured six of seven targets for 49 yards and a touchdown during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia.",
