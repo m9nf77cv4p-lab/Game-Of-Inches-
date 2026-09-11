@@ -22247,7 +22247,7 @@
       "nfl_team": "NE",
       "player_id": "5859",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 7
     },
     "5870": {
@@ -22377,7 +22377,7 @@
       ],
       "first_name": "Tua",
       "full_name": "Tua Tagovailoa",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Tagovailoa",
       "nfl_team": "ATL",
       "player_id": "6768",
@@ -23968,8 +23968,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-11T17:47:43Z",
-    "source_fingerprint": "8b2b3841cc9b0ad3e961e1d300533d793e955c4f5bf6c6cedc8e617baa72e7d8"
+    "last_changed_at": "2026-09-11T17:57:31Z",
+    "source_fingerprint": "f569e0cfab79b999b23f95319a7270b9a3a4d4029730982fac92363f11be0b63"
   },
   "teams": [
     {
@@ -25160,6 +25160,31 @@
   ],
   "transactions_by_round": {
     "1": [
+      {
+        "adds": {
+          "4574": 12
+        },
+        "consenter_ids": [
+          12
+        ],
+        "created": 1789148668202,
+        "creator": "729520870795665408",
+        "draft_picks": [],
+        "drops": {
+          "11571": 12
+        },
+        "leg": 1,
+        "metadata": null,
+        "roster_ids": [
+          12
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1789148668202,
+        "transaction_id": "1404194925418946560",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "9482": 3

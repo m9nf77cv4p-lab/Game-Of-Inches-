@@ -1,14 +1,8 @@
 {
-  "last_checked_at": "2026-09-11T17:47:44Z",
+  "last_checked_at": "2026-09-11T17:57:32Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 287,
-  "new_story_ids": [
-    "nfl|11618|rotowire|636833|1789148111000",
-    "nfl|4574|fantasy_pros|607015|1789075829583",
-    "nfl|4574|fantasy_pros|607165|1789148129131",
-    "nfl|4574|rotowire|636836|1789148641000",
-    "nfl|6768|rotowire|636834|1789148178000"
-  ],
+  "new_story_ids": [],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -18,10 +12,10 @@
   },
   "stories": [
     {
-      "analysis": "Tagovailoa suffered an oblique strain during Thursday's practice and now will join Michael Penix (knee) on the sideline this weekend. Rush handled the first-team reps in the final two sessions of Week 1 prep and thus will be under center Sunday, with Jack Strand backup him up. Because coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa \"week-to-week,\" Rush could be in consideration for multiple starts to kick off the 2026 campaign.",
+      "analysis": "Tagovailoa suffered an oblique strain during Thursday's practice and now will join Michael Penix (knee) on the sideline this weekend. Rush handled the first-team reps in the final two sessions of Week 1 prep and thus will be under center Sunday, with Jack Strand backup him up. Because coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa is \"week-to-week,\" Rush could be in consideration for multiple starts to kick off the 2026 campaign.",
       "description": "Rush will start Sunday's game at Pittsburgh after Tua Tagovailoa (oblique) was ruled out for Week 1 action, NFL reporter Jordan Schultz reports.",
       "metadata": {
-        "analysis": "Tagovailoa suffered an oblique strain during Thursday's practice and now will join Michael Penix (knee) on the sideline this weekend. Rush handled the first-team reps in the final two sessions of Week 1 prep and thus will be under center Sunday, with Jack Strand backup him up. Because coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa \"week-to-week,\" Rush could be in consideration for multiple starts to kick off the 2026 campaign.",
+        "analysis": "Tagovailoa suffered an oblique strain during Thursday's practice and now will join Michael Penix (knee) on the sideline this weekend. Rush handled the first-team reps in the final two sessions of Week 1 prep and thus will be under center Sunday, with Jack Strand backup him up. Because coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa is \"week-to-week,\" Rush could be in consideration for multiple starts to kick off the 2026 campaign.",
         "description": "Rush will start Sunday's game at Pittsburgh after Tua Tagovailoa (oblique) was ruled out for Week 1 action, NFL reporter Jordan Schultz reports.",
         "title": "Cooper Rush - Will start Sunday",
         "topic_id": "1404195174585798656"

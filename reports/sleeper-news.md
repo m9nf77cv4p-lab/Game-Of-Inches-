@@ -3,18 +3,18 @@
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
 - Stored stories: **2689**
-- Newly captured: **5**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Cooper Rush** — Cooper Rush - Will start Sunday (2026-09-11T17:44:01Z)
-  - Tagovailoa suffered an oblique strain during Thursday's practice and now will join Michael Penix (knee) on the sideline this weekend. Rush handled the first-team reps in the final two sessions of Week 1 prep and thus will be under center Sunday, with Jack Strand backup him up. Because coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa "week-to-week," Rush could be in consideration for multiple starts to kick off the 2026 campaign.
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa - Won't play Sunday (2026-09-11T17:36:18Z)
+- **Cooper Rush** — Cooper Rush - Will start Sunday (2026-09-11T17:44:01Z)
+  - Tagovailoa suffered an oblique strain during Thursday's practice and now will join Michael Penix (knee) on the sideline this weekend. Rush handled the first-team reps in the final two sessions of Week 1 prep and thus will be under center Sunday, with Jack Strand backup him up. Because coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa is "week-to-week," Rush could be in consideration for multiple starts to kick off the 2026 campaign.
+- **Tua Tagovailoa** — Tua Tagovailoa - Won't play Sunday (2026-09-11T17:36:18Z)
   - Tagovailoa opened the week getting the call as Atlanta's Week 1 starting quarterback but ended it sidelined due to an oblique injury that he sustained during Thursday's practice. Coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa is "week-to-week, which would seem to suggest multiple DNPs are on the horizon for the QB. Iny any case, Tagovailoa will join Michael Penix (knee) in street clothes Sunday, while Cooper Rush gets the nod under center and Marc Raimondi of ESPN.com serves as his backup.
 - **Tua Tagovailoa** — Tua Tagovailoa (oblique) ruled out Sunday  (2026-09-11T17:35:29.143000Z)
   - Tagovailoa went down in practice on Thursday and did not practice on Friday. With Michael Penix Jr. not available yet, it will be Cooper Rush drawing the start on Sunday. 
   - Source: https://www.fantasypros.com/nfl/news/607164/tua-tagovailoa-oblique-ruled-out-sunday.php
-- **NEW — Cooper Rush** — Cooper Rush will start Sunday for Falcons  (2026-09-11T17:35:29.131000Z)
+- **Cooper Rush** — Cooper Rush will start Sunday for Falcons  (2026-09-11T17:35:29.131000Z)
   - Tua Tagovailoa was ruled out with an oblique injury. Rush took all the first-team reps in practice on Thursday and Friday. 
   - Source: https://www.fantasypros.com/nfl/news/607165/cooper-rush-will-start-sunday-falcons.php
 - **Rome Odunze** — Rome Odunze (calf) to practice Friday  (2026-09-11T17:35:29.096000Z)
@@ -25,7 +25,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jack Strand** — Jack Strand to be backup QB for Falcons Sunday  (2026-09-11T17:35:29.066000Z)
   - Tua Tagovailoa was ruled out with an oblique injury. Cooper Rush will get the start as a result. 
   - Source: https://www.fantasypros.com/nfl/news/607169/jack-strand-to-be-backup-qb-falcons-sunday.php
-- **NEW — Jalen McMillan** — Jalen McMillan - Doubtful to face Bengals on Sunday (2026-09-11T17:35:11Z)
+- **Jalen McMillan** — Jalen McMillan - Doubtful to face Bengals on Sunday (2026-09-11T17:35:11Z)
   - McMillan reportedly looked good at practice earlier this week, but the Bucs have been listing him as a limited participant and apparently don't expect a contribution this Sunday. Continued practice participation does hint at a shot to be back for Week 2 against Cleveland. With McMillan likely inactive this week, Chris Godwin and Emeka Egbuka should get plenty of snaps, with Tez Johnson and Ted Hurst also candidates for routes/targets.
 - **Emeka Egbuka** — Emeka Egbuka (toe) cleared for Week 1 (2026-09-11T17:20:28.544000Z)
   - Source: https://www.fantasypros.com/nfl/news/607157/emeka-egbuka-toe-cleared-week-1.php
