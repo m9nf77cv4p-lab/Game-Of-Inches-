@@ -1,16 +1,12 @@
 {
-  "last_checked_at": "2026-09-11T16:55:13Z",
+  "last_checked_at": "2026-09-11T17:08:51Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 287,
   "new_story_ids": [
-    "nfl|11583|rotowire|636829|1789145116000",
-    "nfl|12514|rotoballer|220632|1789130841000",
-    "nfl|12533|rotowire|636828|1789144992000",
-    "nfl|5859|fantasy_pros|607149|1789145128511",
-    "nfl|6768|fantasy_pros|607150|1789145428428",
-    "nfl|9482|rotoballer|220160|1788623108000",
-    "nfl|9482|rotoballer|220463|1788970767000",
-    "nfl|9482|rotowire|636484|1788984520000"
+    "nfl|5859|rotoballer|220633|1789131120000",
+    "nfl|5859|rotowire|636830|1789145489000",
+    "nfl|6801|fantasy_pros|607152|1789146028579",
+    "nfl|7564|fantasy_pros|607153|1789146328591"
   ],
   "schema_version": 1,
   "source": {
@@ -20,6 +16,68 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "",
+      "description": "Ja'Marr Chase (knee) has been cleared to play in Week 1 for the Cincinnati Bengals against the Tampa Bay Buccaneers according to Kelsey Conway.",
+      "metadata": {
+        "analysis": "",
+        "description": "Ja'Marr Chase (knee) has been cleared to play in Week 1 for the Cincinnati Bengals against the Tampa Bay Buccaneers according to Kelsey Conway.",
+        "title": "Ja'Marr Chase (knee) cleared for Week 1",
+        "topic_id": "1404185112362422272",
+        "url": "https://www.fantasypros.com/nfl/news/607153/jamarr-chase-knee-cleared-week-1.php"
+      },
+      "nfl_team": "CIN",
+      "player_id": "7564",
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "published": 1789146328591,
+      "source": "fantasy_pros",
+      "source_key": "607153",
+      "story_id": "nfl|7564|fantasy_pros|607153|1789146328591",
+      "title": "Ja'Marr Chase (knee) cleared for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/607153/jamarr-chase-knee-cleared-week-1.php"
+    },
+    {
+      "analysis": "",
+      "description": "Tee Higgins (foot) is cleared to play in Week 1 for the Cincinnati Bengals against the Tampa Bay Buccaneers according to Kelsey Conway.",
+      "metadata": {
+        "analysis": "",
+        "description": "Tee Higgins (foot) is cleared to play in Week 1 for the Cincinnati Bengals against the Tampa Bay Buccaneers according to Kelsey Conway.",
+        "title": "Tee Higgins (foot) cleared for Week 1",
+        "topic_id": "1404183854016630784",
+        "url": "https://www.fantasypros.com/nfl/news/607152/tee-higgins-foot-cleared-week-1.php"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6801",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "published": 1789146028579,
+      "source": "fantasy_pros",
+      "source_key": "607152",
+      "story_id": "nfl|6801|fantasy_pros|607152|1789146028579",
+      "title": "Tee Higgins (foot) cleared for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/607152/tee-higgins-foot-cleared-week-1.php"
+    },
+    {
+      "analysis": "It apparently took less than 48 hours for the Patriots to decide that Brown will be out for at least four games. The earliest he can return is Week 6, but the quick move to IR suggests he may not be ready by then. Romeo Doubs, Mack Hollins and DeMario Douglas took most of the WR snaps after Brown suffered a high-ankle sprain in Wednesday's loss at Seattle.",
+      "description": "The Patriots are placing Brown (ankle) on injured reserve, ESPN's Adam Schefter reports.",
+      "metadata": {
+        "analysis": "It apparently took less than 48 hours for the Patriots to decide that Brown will be out for at least four games. The earliest he can return is Week 6, but the quick move to IR suggests he may not be ready by then. Romeo Doubs, Mack Hollins and DeMario Douglas took most of the WR snaps after Brown suffered a high-ankle sprain in Wednesday's loss at Seattle.",
+        "description": "The Patriots are placing Brown (ankle) on injured reserve, ESPN's Adam Schefter reports.",
+        "title": "A.J. Brown - Heading to IR",
+        "topic_id": "1404182590201597952"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1789145489000,
+      "source": "rotowire",
+      "source_key": "636830",
+      "story_id": "nfl|5859|rotowire|636830|1789145489000",
+      "title": "A.J. Brown - Heading to IR",
+      "url": null
+    },
     {
       "analysis": "Tagovailoa remains day-to-day after exiting practice early Thursday with the injury. With Michael Penix Jr. (knee) still working back from injury also, veteran Cooper Rush is in line to start for head coach Kevin Stefanski against the Pittsburgh Steelers in Sunday's season opener.",
       "description": "Tua Tagovailoa (oblique) was not seen practicing for the Atlanta Falcons Friday.",
@@ -64,10 +122,10 @@
     },
     {
       "analysis": "With Brooks cleared after practicing throughout the week, he appears on track to handle whatever role the team has in mind. Chuba Hubbard remains the favorite to start and get most of the carries, but reports throughout the offseason and preseason made it clear that the Panthers have a role in mind for Brooks as well.",
-      "description": "Brooks (groin) doesn't have an injury designation for Sunday's game against the Bears, Joseph Person reports.",
+      "description": "Brooks (groin) doesn't have an injury designation for Sunday's game against the Bears, Joe Person of The Athletic reports.",
       "metadata": {
         "analysis": "With Brooks cleared after practicing throughout the week, he appears on track to handle whatever role the team has in mind. Chuba Hubbard remains the favorite to start and get most of the carries, but reports throughout the offseason and preseason made it clear that the Panthers have a role in mind for Brooks as well.",
-        "description": "Brooks (groin) doesn't have an injury designation for Sunday's game against the Bears, Joseph Person reports.",
+        "description": "Brooks (groin) doesn't have an injury designation for Sunday's game against the Bears, Joe Person of The Athletic reports.",
         "title": "Jonathon Brooks - Will play Sunday",
         "topic_id": "1404181331994255360"
       },
@@ -306,6 +364,26 @@
       "story_id": "nfl|13287|fantasy_pros|607111|1789139127967",
       "title": "Jeremiyah Love (ankle) expected to play on Sunday",
       "url": "https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "The New England Patriots are placing wide receiver A.J. Brown (ankle) on Injured Reserve on Friday due to the high-ankle sprain that he suffered in Wednesday's season-opening loss to the Seattle Seahawks, which will sideline him for a minimum of four games, sources told Adam Schefter of ESPN. The NFL Network's Ian Rapoport reported on Thursday that Brown is expected to miss at least four weeks because of his ankle injury, so it makes sense that the Pats would put him on IR to open up a roster spot while he recovers. It is an ominous sign for the start of the 29-year-old's tenure in New England after the Pats sent a first-rounder to the Philadelphia Eagles for him in the offseason. The former second-rounder caught three of his four targets for 26 yards on Wednesday in Seattle before spraining his ankle. Fantasy managers must stash Brown in an IR spot for now and hope that he can hit the ground running and renew his connection with quarterback Drake Maye when he returns. In the meantime, Romeo Doubs, DeMario Douglas, Mack Hollins, and Kyle Williams will all be asked to step up in the passing game, as well as tight ends Hunter Henry and Eli Raridon.",
+      "metadata": {
+        "description": "The New England Patriots are placing wide receiver A.J. Brown (ankle) on Injured Reserve on Friday due to the high-ankle sprain that he suffered in Wednesday's season-opening loss to the Seattle Seahawks, which will sideline him for a minimum of four games, sources told Adam Schefter of ESPN. The NFL Network's Ian Rapoport reported on Thursday that Brown is expected to miss at least four weeks because of his ankle injury, so it makes sense that the Pats would put him on IR to open up a roster spot while he recovers. It is an ominous sign for the start of the 29-year-old's tenure in New England after the Pats sent a first-rounder to the Philadelphia Eagles for him in the offseason. The former second-rounder caught three of his four targets for 26 yards on Wednesday in Seattle before spraining his ankle. Fantasy managers must stash Brown in an IR spot for now and hope that he can hit the ground running and renew his connection with quarterback Drake Maye when he returns. In the meantime, Romeo Doubs, DeMario Douglas, Mack Hollins, and Kyle Williams will all be asked to step up in the passing game, as well as tight ends Hunter Henry and Eli Raridon.",
+        "title": "Patriots Placing A.J. Brown on Injured Reserve",
+        "topic_id": "1404182589085847552",
+        "url": "https://www.rotoballer.com/player-news/patriots-placing-a-j-brown-on-injured-reserve/1928511"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1789131120000,
+      "source": "rotoballer",
+      "source_key": "220633",
+      "story_id": "nfl|5859|rotoballer|220633|1789131120000",
+      "title": "Patriots Placing A.J. Brown on Injured Reserve",
+      "url": "https://www.rotoballer.com/player-news/patriots-placing-a-j-brown-on-injured-reserve/1928511"
     },
     {
       "analysis": null,

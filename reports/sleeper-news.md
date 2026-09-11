@@ -2,19 +2,25 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2668**
-- Newly captured: **8**
+- Stored stories: **2672**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa (oblique) not seen practicing Friday (2026-09-11T16:50:28.428000Z)
+- **NEW — Ja'Marr Chase** — Ja'Marr Chase (knee) cleared for Week 1 (2026-09-11T17:05:28.591000Z)
+  - Source: https://www.fantasypros.com/nfl/news/607153/jamarr-chase-knee-cleared-week-1.php
+- **NEW — Tee Higgins** — Tee Higgins (foot) cleared for Week 1 (2026-09-11T17:00:28.579000Z)
+  - Source: https://www.fantasypros.com/nfl/news/607152/tee-higgins-foot-cleared-week-1.php
+- **NEW — A.J. Brown** — A.J. Brown - Heading to IR (2026-09-11T16:51:29Z)
+  - It apparently took less than 48 hours for the Patriots to decide that Brown will be out for at least four games. The earliest he can return is Week 6, but the quick move to IR suggests he may not be ready by then. Romeo Doubs, Mack Hollins and DeMario Douglas took most of the WR snaps after Brown suffered a high-ankle sprain in Wednesday's loss at Seattle.
+- **Tua Tagovailoa** — Tua Tagovailoa (oblique) not seen practicing Friday (2026-09-11T16:50:28.428000Z)
   - Tagovailoa remains day-to-day after exiting practice early Thursday with the injury. With Michael Penix Jr. (knee) still working back from injury also, veteran Cooper Rush is in line to start for head coach Kevin Stefanski against the Pittsburgh Steelers in Sunday's season opener.
   - Source: https://www.fantasypros.com/nfl/news/607150/tua-tagovailoa-oblique-not-seen-practicing-friday.php
-- **NEW — A.J. Brown** — A.J. Brown (ankle) placed on injured reserve (2026-09-11T16:45:28.511000Z)
+- **A.J. Brown** — A.J. Brown (ankle) placed on injured reserve (2026-09-11T16:45:28.511000Z)
   - Source: https://www.fantasypros.com/nfl/news/607149/aj-brown-ankle-placed-on-injured-reserve.php
-- **NEW — Jonathon Brooks** — Jonathon Brooks - Will play Sunday (2026-09-11T16:45:16Z)
+- **Jonathon Brooks** — Jonathon Brooks - Will play Sunday (2026-09-11T16:45:16Z)
   - With Brooks cleared after practicing throughout the week, he appears on track to handle whatever role the team has in mind. Chuba Hubbard remains the favorite to start and get most of the carries, but reports throughout the offseason and preseason made it clear that the Panthers have a role in mind for Brooks as well.
-- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Will play Sunday (2026-09-11T16:43:12Z)
+- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Will play Sunday (2026-09-11T16:43:12Z)
   - Croskey-Merritt was limited in practice Wednesday and Thursday but will apparently be fine for the season opener. He's got a tough matchup on the road in Philadelphia, and he'll will be sharing snaps with Rachaad White in some fashion, regardless of health/durability considerations.
 - **Tua Tagovailoa** — Tua Tagovailoa - Not spotted at start of practice (2026-09-11T16:28:48Z)
   - Tagovailoa is considered day-to-day after suffering an oblique strain during Thursday's practice. His absence Friday suggests there's serious risk the Falcons will end up starting Cooper Rush this Sunday in Pittsburgh. The team has yet to announce any kind of decision, beyond ruling out Michael Penix (knee) at the start of the week. It won't be surprising if Penix is under center by the end of the month, however.
@@ -41,7 +47,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jeremiyah Love** — Jeremiyah Love (ankle) expected to play on Sunday (2026-09-11T15:05:27.967000Z)
   - Love was electric in his limited preseason showing, and if he is fully ready to go, he should be electric yet again. Tyler Allgeier could very well eat into his workload, but don't let that stop you from putting Love in your lineup.
   - Source: https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php
-- **NEW — Emeka Egbuka** — Emeka Egbuka Cleared to Play in Week 1 (2026-09-11T12:47:21Z)
+- **NEW — A.J. Brown** — Patriots Placing A.J. Brown on Injured Reserve (2026-09-11T12:52:00Z)
+  - Source: https://www.rotoballer.com/player-news/patriots-placing-a-j-brown-on-injured-reserve/1928511
+- **Emeka Egbuka** — Emeka Egbuka Cleared to Play in Week 1 (2026-09-11T12:47:21Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-cleared-to-play-in-week-1/1928509
 - **Tee Higgins** — Tee Higgins Cleared for Week 1 Against Tampa (2026-09-11T12:35:13Z)
   - Source: https://www.rotoballer.com/player-news/tee-higgins-cleared-for-week-1-against-tampa/1928495
@@ -227,12 +235,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Croskey-Merritt has been tending to a lower-body injury since picking it up during an Aug. 22 practice. He's been back on the field since Sept. 1 but hasn't been able to do enough yet to be considered a full participant. Friday's practice report may provide a sense of Croskey-Merritt's odds to suit up for Sunday's regular-season opener at Philadelphia.
 - **Geno Smith** — Geno Smith a Deep-League Bounce-Back Candidate Entering 2026 (2026-09-10T21:38:20Z)
   - Source: https://www.rotoballer.com/player-news/geno-smith-a-deep-league-bounce-back-candidate-entering-2026/1928017
-- **Jalen McMillan** — Jalen McMillan - Stays limited at practice (2026-09-10T21:32:57Z)
-  - McMillan has been tending to a knee injury since early August, a scenario that sidelined him for the entire preseason slate. With back-to-back capped sessions under his belt, he still has some work to do to make himself available for Sunday's game at Cincinnati. Friday's practice report will reveal if McMillan enters the weekend with a designation ahead of that matchup.
-- **Jakobi Meyers** — Jakobi Meyers - Stays limited in practice (2026-09-10T21:25:13Z)
-  - Per Ryan O'Halloran of The Florida Times-Union, Meyers was donning a non-contact jersey for the second day in a row while aiming to protect his injured right thumb. The fact that he's practiced in some fashion during the first two days of Week 1 prep is generally a positive sign for Meyers' status heading into Sunday's game against the Browns, but he may need to turn in a full practice Friday to avoid taking a designation into the weekend.
-- **Chris Bell** — Chris Bell Still Working to Regain His Conditioning (2026-09-10T21:16:05Z)
-  - Source: https://www.rotoballer.com/player-news/chris-bell-still-working-to-regain-his-conditioning/1928005
-- **Rashee Rice** — Rashee Rice (knee) logs full practice Thursday (2026-09-10T21:15:29.632000Z)
-  - As expected, Rice was able to log a full practice session on Thursday and seems to be set to play in Monday night's game against the Denver Broncos. Despite the tough matchup, he projects to be a good fantasy option in PPR leagues this week, especially with Patrick Mahomes II (knee) likely to be at the helm for Kansas City.
-  - Source: https://www.fantasypros.com/nfl/news/607005/rashee-rice-knee-logs-full-practice-thursday.php
