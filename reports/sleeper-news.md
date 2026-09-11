@@ -2,12 +2,19 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2643**
-- Newly captured: **1**
+- Stored stories: **2645**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Jerry Jeudy** — Jerry Jeudy Losing Ground to the Browns' Youth Movement (2026-09-11T10:32:07Z)
+- **NEW — Jeremiyah Love** — Jeremiyah Love (ankle) expected to play on Sunday (2026-09-11T15:05:27.967000Z)
+  - Love was electric in his limited preseason showing, and if he is fully ready to go, he should be electric yet again. Tyler Allgeier could very well eat into his workload, but don't let that stop you from putting Love in your lineup.
+  - Source: https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php
+- **NEW — Zachariah Branch** — Zachariah Branch Not Projected to Start Early in Rookie Season (2026-09-11T11:05:05Z)
+  - Source: https://www.rotoballer.com/player-news/zachariah-branch-not-projected-to-start-early-in-rookie-season/1928392
+- **NEW — Jauan Jennings** — Jauan Jennings Faces a Tougher Path to Targets in 2026 (2026-09-11T10:55:06Z)
+  - Source: https://www.rotoballer.com/player-news/jauan-jennings-faces-a-tougher-path-to-targets-in-2026/1928373
+- **Jerry Jeudy** — Jerry Jeudy Losing Ground to the Browns' Youth Movement (2026-09-11T10:32:07Z)
   - Source: https://www.rotoballer.com/player-news/jerry-jeudy-losing-ground-to-the-browns-youth-movement/1928331
 - **Makai Lemon** — Makai Lemon an Early Fade After Quiet Camp (2026-09-11T10:19:05Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemon-an-early-fade-after-quiet-camp/1928318
@@ -237,10 +244,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Tua Tagovailoa** — Tua Tagovailoa (oblique) officially limited Thursday (2026-09-10T20:00:22.179000Z)
   - Tagovailoa is a new addition to Atlanta's injury report. He seems to be dealing with an oblique injury of some kind, and it's currently unclear what effect it will have, if any, on his Week 1 availability. This is a situation that fantasy managers should be monitoring closely heading into the weekend.
   - Source: https://www.fantasypros.com/nfl/news/606967/tua-tagovailoa-oblique-officially-limited-thursday.php
-- **Jonathon Brooks** — Jonathon Brooks (groin) limited again Thursday (2026-09-10T20:00:22.163000Z)
-  - A groin injury left Brooks sidelined for a second-straight practice on Thursday. He said on Wednesday that he plans to play in Week 1, however, so it appears he is still trending towards suiting up against the Bears. The team could limit his workload if he's still managing an injury, though, so he may be a riskier start for the first game of the season.
-  - Source: https://www.fantasypros.com/nfl/news/606968/jonathon-brooks-groin-limited-again-thursday.php
-- **Tua Tagovailoa** — Tua Tagovailoa - Dealing with oblique inujry (2026-09-10T20:00:19Z)
-  - It appeared Tagovailoa was dealing with a back injury, but it turns out he is actually dealing with an oblique issue. This is a curveball for the Falcons, who are already shorthanded at quarterback with Michael Penix (knee) out for the opener. With Tagovailoa tending to the injury, the Falcons gave all the first-team reps to Cooper Rush on Thursday. Suddenly, Friday's injury report becomes one of the most impactful ones across the whole league as the Falcons could be down their top two quarterbacks for Week 1 if Tagovailoa doesn't bounce back quickly.
-- **Zachariah Branch** — Zachariah Branch - Stays limited Thursday (2026-09-10T19:59:57Z)
-  - Branch has been a limited participant in consecutive practices to kick off Week 1 prep, but the rookie third-round pick still has a chance to avoid an injury designation if he can upgrade to full practice participation Friday as he looks to make his NFL debut Sunday against the Steelers. Branch is expected to fill a reserve role at wide receiver to begin his career, but he's penciled in as Atlanta's primary punt returner.

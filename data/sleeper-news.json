@@ -1,9 +1,11 @@
 {
-  "last_checked_at": "2026-09-11T14:47:03Z",
+  "last_checked_at": "2026-09-11T15:17:05Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|6783|rotoballer|220620|1789122727000"
+    "nfl|13287|fantasy_pros|607111|1789139127967",
+    "nfl|13320|rotoballer|220622|1789124705000",
+    "nfl|7049|rotoballer|220621|1789124106000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +15,67 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Love was electric in his limited preseason showing, and if he is fully ready to go, he should be electric yet again. Tyler Allgeier could very well eat into his workload, but don't let that stop you from putting Love in your lineup.",
+      "description": "Jeremiyah Love (ankle) is expected to play on Sunday, per a report by Josh Weinfuss.",
+      "metadata": {
+        "analysis": "Love was electric in his limited preseason showing, and if he is fully ready to go, he should be electric yet again. Tyler Allgeier could very well eat into his workload, but don't let that stop you from putting Love in your lineup.",
+        "description": "Jeremiyah Love (ankle) is expected to play on Sunday, per a report by Josh Weinfuss.",
+        "title": "Jeremiyah Love (ankle) expected to play on Sunday",
+        "topic_id": "1404154910756384768",
+        "url": "https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1789139127967,
+      "source": "fantasy_pros",
+      "source_key": "607111",
+      "story_id": "nfl|13287|fantasy_pros|607111|1789139127967",
+      "title": "Jeremiyah Love (ankle) expected to play on Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/607111/jeremiyah-love-ankle-expected-to-play-on-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Atlanta Falcons wide receiver Zachariah Branch is not listed as a projected starter on the team's initial depth chart, dropping him off the fantasy radar in most redraft leagues. As a third-round rookie, we shouldn't be completely shocked that Branch won't get the start in Week 1 against the Pittsburgh Steelers. However, if there were any receiver room where he could make that leap, this would be the one. There are plenty of targets up for grabs behind No. 1 receiver Drake London. While Branch, a Georgia product, spent this summer competing for that No. 2 role, it ended up going to veteran Olamide Zaccheaus. Meanwhile, Jahan Doston projects as the third receiver on the depth chart, leaving Branch buried all the way down in the No. 4 role. This offense has so much uncertainty at the quarterback position that it's hard to envision Branch getting onto the redraft radar at any point during his rookie season. In the meantime, he's expected to operate as the Falcons' punt returner.",
+      "metadata": {
+        "description": "Atlanta Falcons wide receiver Zachariah Branch is not listed as a projected starter on the team's initial depth chart, dropping him off the fantasy radar in most redraft leagues. As a third-round rookie, we shouldn't be completely shocked that Branch won't get the start in Week 1 against the Pittsburgh Steelers. However, if there were any receiver room where he could make that leap, this would be the one. There are plenty of targets up for grabs behind No. 1 receiver Drake London. While Branch, a Georgia product, spent this summer competing for that No. 2 role, it ended up going to veteran Olamide Zaccheaus. Meanwhile, Jahan Doston projects as the third receiver on the depth chart, leaving Branch buried all the way down in the No. 4 role. This offense has so much uncertainty at the quarterback position that it's hard to envision Branch getting onto the redraft radar at any point during his rookie season. In the meantime, he's expected to operate as the Falcons' punt returner.",
+        "title": "Zachariah Branch Not Projected to Start Early in Rookie Season",
+        "topic_id": "1404156161841754112",
+        "url": "https://www.rotoballer.com/player-news/zachariah-branch-not-projected-to-start-early-in-rookie-season/1928392"
+      },
+      "nfl_team": "ATL",
+      "player_id": "13320",
+      "player_name": "Zachariah Branch",
+      "position": "WR",
+      "published": 1789124705000,
+      "source": "rotoballer",
+      "source_key": "220622",
+      "story_id": "nfl|13320|rotoballer|220622|1789124705000",
+      "title": "Zachariah Branch Not Projected to Start Early in Rookie Season",
+      "url": "https://www.rotoballer.com/player-news/zachariah-branch-not-projected-to-start-early-in-rookie-season/1928392"
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings wide receiver Jauan Jennings could have trouble carving out a substantial role with his new team. Jennings went from being the de facto No. 1 receiver in San Francisco to the No. 3 receiver in Minnesota, and in doing so, he'll also deal with a quarterback downgrade from Brock Purdy to Kyler Murray. Jennings is a great depth signing for the Vikings, who now have extra insurance in case Justin Jefferson or Jordan Addison goes down. However, he faces an uphill climb to achieving fantasy relevance. His path to getting on the fantasy radar would likely require an injury to Jefferson or Addison, and even then, he'd still be the No. 2 receiver in an offense with inconsistent quarterback play. In all likelihood, Jennings is headed for a similar role as Jalen Nailor, who was the Vikings' No. 3 receiver last year and caught 29 passes for 444 yards and four touchdowns while ranking as the WR61 in PPR leagues.",
+      "metadata": {
+        "description": "Minnesota Vikings wide receiver Jauan Jennings could have trouble carving out a substantial role with his new team. Jennings went from being the de facto No. 1 receiver in San Francisco to the No. 3 receiver in Minnesota, and in doing so, he'll also deal with a quarterback downgrade from Brock Purdy to Kyler Murray. Jennings is a great depth signing for the Vikings, who now have extra insurance in case Justin Jefferson or Jordan Addison goes down. However, he faces an uphill climb to achieving fantasy relevance. His path to getting on the fantasy radar would likely require an injury to Jefferson or Addison, and even then, he'd still be the No. 2 receiver in an offense with inconsistent quarterback play. In all likelihood, Jennings is headed for a similar role as Jalen Nailor, who was the Vikings' No. 3 receiver last year and caught 29 passes for 444 yards and four touchdowns while ranking as the WR61 in PPR leagues.",
+        "title": "Jauan Jennings Faces a Tougher Path to Targets in 2026",
+        "topic_id": "1404153645427134464",
+        "url": "https://www.rotoballer.com/player-news/jauan-jennings-faces-a-tougher-path-to-targets-in-2026/1928373"
+      },
+      "nfl_team": "MIN",
+      "player_id": "7049",
+      "player_name": "Jauan Jennings",
+      "position": "WR",
+      "published": 1789124106000,
+      "source": "rotoballer",
+      "source_key": "220621",
+      "story_id": "nfl|7049|rotoballer|220621|1789124106000",
+      "title": "Jauan Jennings Faces a Tougher Path to Targets in 2026",
+      "url": "https://www.rotoballer.com/player-news/jauan-jennings-faces-a-tougher-path-to-targets-in-2026/1928373"
+    },
     {
       "analysis": null,
       "description": "Cleveland Browns wide receiver Jerry Jeudy is quickly falling out of favor as some of his younger teammates ascend into substantial roles. Jeudy had a miserable fantasy campaign in 2025, catching 50 passes for 602 yards and two touchdowns. While part of his subpar season can be blamed on quarterback play, Jeudy deserves to take on a substantial amount of accountability. He has ranked as the WR47 or lower in four of his six NFL seasons, serving as a major letdown to fantasy managers who trusted him with the Broncos or Browns. Now, Cleveland's front office is losing faith in him, as they drafted KC Concepcion and Denzel Boston to be the future of their receiver room. Jeudy may still earn the start in Week 1, but his vastly reduced role and poor quarterback play mean that he belongs on the bench (or even the waiver wire) in most fantasy football leagues.",
@@ -53182,26 +53245,6 @@
       "story_id": "nfl|12506|rotoballer|218444|1786550466000",
       "title": "Harold Fannin Jr. Keeps Making a Strong TE1 Case",
       "url": "https://www.rotoballer.com/player-news/harold-fannin-jr-keeps-making-a-strong-te1-case/1907790"
-    },
-    {
-      "analysis": null,
-      "description": "Kansas City Chiefs wide receiver Rashee Rice is not expected to be suspended again over the probation violation that resulted in him serving jail time earlier this offseason. According to Charles Goldman, NFL Network's Ian Rapoport does not expect the league to hand Rice another suspension after he served 30 days in a Texas jail. Rice tested positive for THC in May, violating the terms of the probation he received after the 2024 Dallas crash. The jail time was already part of his 2025 sentence, but the violation required him to serve it immediately. Rice had already served a six-game NFL suspension last season for his role in the crash, then caught 53 passes for 571 yards and five touchdowns in eight games. The NFL has not formally announced a decision on the probation violation, so Rapoport's report is not an official clearance. If it holds, Rice should not lose any more games over this particular matter and remains RotoBaller's WR16.",
-      "metadata": {
-        "description": "Kansas City Chiefs wide receiver Rashee Rice is not expected to be suspended again over the probation violation that resulted in him serving jail time earlier this offseason. According to Charles Goldman, NFL Network's Ian Rapoport does not expect the league to hand Rice another suspension after he served 30 days in a Texas jail. Rice tested positive for THC in May, violating the terms of the probation he received after the 2024 Dallas crash. The jail time was already part of his 2025 sentence, but the violation required him to serve it immediately. Rice had already served a six-game NFL suspension last season for his role in the crash, then caught 53 passes for 571 yards and five touchdowns in eight games. The NFL has not formally announced a decision on the probation violation, so Rapoport's report is not an official clearance. If it holds, Rice should not lose any more games over this particular matter and remains RotoBaller's WR16.",
-        "title": "Rashee Rice Not Expected to Face Additional Suspension",
-        "topic_id": "1393346156062334976",
-        "url": "https://www.rotoballer.com/player-news/rashee-rice-not-expected-to-face-additional-suspension/1907743"
-      },
-      "nfl_team": "KC",
-      "player_id": "10229",
-      "player_name": "Rashee Rice",
-      "position": "WR",
-      "published": 1786547228000,
-      "source": "rotoballer",
-      "source_key": "218438",
-      "story_id": "nfl|10229|rotoballer|218438|1786547228000",
-      "title": "Rashee Rice Not Expected to Face Additional Suspension",
-      "url": "https://www.rotoballer.com/player-news/rashee-rice-not-expected-to-face-additional-suspension/1907743"
     }
   ]
 }
