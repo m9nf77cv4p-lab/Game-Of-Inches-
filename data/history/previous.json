@@ -20420,7 +20420,7 @@
       ],
       "first_name": "Jordan",
       "full_name": "Jordan James",
-      "injury_status": null,
+      "injury_status": "Out",
       "last_name": "James",
       "nfl_team": "SF",
       "player_id": "12467",
@@ -21081,7 +21081,7 @@
       ],
       "first_name": "Ty",
       "full_name": "Ty Simpson",
-      "injury_status": null,
+      "injury_status": "Out",
       "last_name": "Simpson",
       "nfl_team": "LAR",
       "player_id": "13275",
@@ -21111,7 +21111,7 @@
       ],
       "first_name": "Max",
       "full_name": "Max Klare",
-      "injury_status": null,
+      "injury_status": "Out",
       "last_name": "Klare",
       "nfl_team": "LAR",
       "player_id": "13278",
@@ -23917,8 +23917,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-10T22:27:00Z",
-    "source_fingerprint": "6dfedbec2aedf7443dd89dd58f9a7fa5169ffa0777df14a9799bbf35dd9cba1d"
+    "last_changed_at": "2026-09-10T23:40:25Z",
+    "source_fingerprint": "07b23a7a25a1650102d98eaa99aa09a584ad653b406dc5a0e428405bef26f14a"
   },
   "teams": [
     {

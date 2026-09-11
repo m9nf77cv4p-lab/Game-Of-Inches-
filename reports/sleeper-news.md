@@ -2,18 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2594**
-- Newly captured: **0**
+- Stored stories: **2596**
+- Newly captured: **2**
 
 ## Latest news
 
+- **NEW — Chris Bell** — Chris Bell - Still working on conditioning (2026-09-11T00:08:46Z)
+  - Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial "pitch count" against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.
+- **NEW — Max Klare** — Max Klare - Healthy scratch to begin rookie campaign (2026-09-11T00:07:54Z)
+  - The Rams liked Klare enough to select him in the second round of the NFL Draft in April, but he's not going to be an option for the team in Week 1. Los Angeles has a crowded tight-end room that includes three veterans in Colby Parkinson, Tyler Higbee and Davis Allen along with second-year pro Terrance Ferguson, so Klare may not log much playing time this year as long as those above him in the pecking order are healthy.
 - **Ty Simpson** — Ty Simpson - Opening season as emergency No. 3 QB (2026-09-10T23:47:18Z)
   - It thus appears Stetson Bennett has won Los Angeles' No. 2 QB job, at least for the first game of the season. Simpson, who was taken by the Rams in the first round of April's NFL Draft, can make his NFL debut Thursday only if both starter Matthew Stafford and Bennett have to exit due to injury, illness, or ejection.
 - **Max Klare** — Max Klare inactive against Niners (2026-09-10T23:45:30.526000Z)
   - Klare will join fellow rookies Ty Simpson and CJ Daniels on the sideline. The Rams have plenty of TE depth at their disposal, so Klare being a rookie inactive is hardly surprising.
   - Source: https://www.fantasypros.com/nfl/news/607042/max-klare-inactive-against-niners.php
 - **A.J. Brown** — A.J. Brown - Expected to miss four weeks (2026-09-10T23:37:37Z)
-  - Brown is believed to be dealing with a high-ankle sprain. The good news is he suffered the injury on a Wednesday, which gives him a few extra days to rehab this week, but it's still looking like the star wideout will miss multiple games. While Brown is sidelined, the Patriots will need to lean on Romeo Doubs at wideout, while DeMario Douglas, Mack Hollins and Kyle Williams all figure to take on larger roles. Hunter Henry is also a candidate to see a bigger target share while Brown is sidelined.
+  - Brown is believed to be dealing with a high-ankle sprain that may require a stint on injured reserve, per NFL reporter Jordan Schultz. The good news is he suffered the injury on a Wednesday, which gives him a few extra days to rehab this week, but it's still looking like the star wideout will miss multiple games. While Brown is sidelined, the Patriots will need to lean on Romeo Doubs at wideout, while DeMario Douglas, Mack Hollins and Kyle Williams all figure to take on larger roles. Hunter Henry is also a candidate to see a bigger target share while Brown is sidelined.
 - **A.J. Brown** — A.J. Brown (ankle) expect to miss at least four weeks (2026-09-10T23:35:29.823000Z)
   - It's a big blow to Brown's Fantasy stock to start the season. In his absence, expect Hunter Henry and Romeo Doubs to see more work. However, with Doubs was struggling to find snaps and catch the ball, it's possible that Demario Douglas could be a nice PPR sleeper.
   - Source: https://www.fantasypros.com/nfl/news/607037/aj-brown-ankle-expect-to-miss-least-four-weeks.php
@@ -242,7 +246,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jaxon Smith-Njigba** — Jaxon Smith-Njigba electric in win Wednesday (2026-09-10T15:35:04.138000Z)
   - On Wednesday, Smith-Njigba picked up right where he left off last season, exploding for 122 yards and a touchdown in a big win over the Patriots. He did that with Drew Lock throwing him passes after starter Sam Darnold went down with a hip injury earlier in the game. Fantasy managers should be happy with his performance in this matchup but should keep a close eye on the health of Darnold, as the young wideout's week-to-week ceiling will certainly take a hit if their starting QB misses significant time.
   - Source: https://www.fantasypros.com/nfl/news/606921/jaxon-smith-njigba-electric-win-wednesday.php
-- **Aaron Rodgers** — Aaron Rodgers Only Belongs on the Radar in Two-QB Leagues (2026-09-10T15:30:05Z)
-  - Source: https://www.rotoballer.com/player-news/aaron-rodgers-only-belongs-on-the-radar-in-two-qb-leagues/1927785
-- **Justice Hill** — Justice Hill Fits Better as PPR Insurance Than a Week 1 Play (2026-09-10T15:22:12Z)
-  - Source: https://www.rotoballer.com/player-news/justice-hill-fits-better-as-ppr-insurance-than-a-week-1-play/1927780

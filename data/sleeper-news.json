@@ -1,8 +1,11 @@
 {
-  "last_checked_at": "2026-09-11T00:00:58Z",
+  "last_checked_at": "2026-09-11T00:26:42Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
-  "new_story_ids": [],
+  "new_story_ids": [
+    "nfl|13278|rotowire|636763|1789085274000",
+    "nfl|13311|rotowire|636764|1789085326000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +14,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial \"pitch count\" against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.",
+      "description": "Bell estimated Thursday that his conditioning is back to \"80 to 85 percent\" following last season's torn ACL, Joe Schad of The Palm Beach Post reports.",
+      "metadata": {
+        "analysis": "Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial \"pitch count\" against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.",
+        "description": "Bell estimated Thursday that his conditioning is back to \"80 to 85 percent\" following last season's torn ACL, Joe Schad of The Palm Beach Post reports.",
+        "title": "Chris Bell - Still working on conditioning",
+        "topic_id": "1403929683665354752"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1789085326000,
+      "source": "rotowire",
+      "source_key": "636764",
+      "story_id": "nfl|13311|rotowire|636764|1789085326000",
+      "title": "Chris Bell - Still working on conditioning",
+      "url": null
+    },
+    {
+      "analysis": "The Rams liked Klare enough to select him in the second round of the NFL Draft in April, but he's not going to be an option for the team in Week 1. Los Angeles has a crowded tight-end room that includes three veterans in Colby Parkinson, Tyler Higbee and Davis Allen along with second-year pro Terrance Ferguson, so Klare may not log much playing time this year as long as those above him in the pecking order are healthy.",
+      "description": "Klare (coach's decision) is inactive for Thursday's season-opener versus San Francisco in Melbourne, Australia, Nate Atkins of The Athletic reports.",
+      "metadata": {
+        "analysis": "The Rams liked Klare enough to select him in the second round of the NFL Draft in April, but he's not going to be an option for the team in Week 1. Los Angeles has a crowded tight-end room that includes three veterans in Colby Parkinson, Tyler Higbee and Davis Allen along with second-year pro Terrance Ferguson, so Klare may not log much playing time this year as long as those above him in the pecking order are healthy.",
+        "description": "Klare (coach's decision) is inactive for Thursday's season-opener versus San Francisco in Melbourne, Australia, Nate Atkins of The Athletic reports.",
+        "title": "Max Klare - Healthy scratch to begin rookie campaign",
+        "topic_id": "1403929683526942720"
+      },
+      "nfl_team": "LAR",
+      "player_id": "13278",
+      "player_name": "Max Klare",
+      "position": "TE",
+      "published": 1789085274000,
+      "source": "rotowire",
+      "source_key": "636763",
+      "story_id": "nfl|13278|rotowire|636763|1789085274000",
+      "title": "Max Klare - Healthy scratch to begin rookie campaign",
+      "url": null
+    },
     {
       "analysis": "It thus appears Stetson Bennett has won Los Angeles' No. 2 QB job, at least for the first game of the season. Simpson, who was taken by the Rams in the first round of April's NFL Draft, can make his NFL debut Thursday only if both starter Matthew Stafford and Bennett have to exit due to injury, illness, or ejection.",
       "description": "Simpson is inactive as the Rams' emergency third quarterback for Thursday's matchup against San Francisco in Melbourne, Australia, Nate Atkins of The Athletic reports.",
@@ -53,10 +96,10 @@
       "url": "https://www.fantasypros.com/nfl/news/607042/max-klare-inactive-against-niners.php"
     },
     {
-      "analysis": "Brown is believed to be dealing with a high-ankle sprain. The good news is he suffered the injury on a Wednesday, which gives him a few extra days to rehab this week, but it's still looking like the star wideout will miss multiple games. While Brown is sidelined, the Patriots will need to lean on Romeo Doubs at wideout, while DeMario Douglas, Mack Hollins and Kyle Williams all figure to take on larger roles. Hunter Henry is also a candidate to see a bigger target share while Brown is sidelined.",
+      "analysis": "Brown is believed to be dealing with a high-ankle sprain that may require a stint on injured reserve, per NFL reporter Jordan Schultz. The good news is he suffered the injury on a Wednesday, which gives him a few extra days to rehab this week, but it's still looking like the star wideout will miss multiple games. While Brown is sidelined, the Patriots will need to lean on Romeo Doubs at wideout, while DeMario Douglas, Mack Hollins and Kyle Williams all figure to take on larger roles. Hunter Henry is also a candidate to see a bigger target share while Brown is sidelined.",
       "description": "Brown is expected to miss four weeks with the ankle injury he suffered in Monday night's loss to the Seahawks, Ian Rapoport of ESPN and NFL Network reports.",
       "metadata": {
-        "analysis": "Brown is believed to be dealing with a high-ankle sprain. The good news is he suffered the injury on a Wednesday, which gives him a few extra days to rehab this week, but it's still looking like the star wideout will miss multiple games. While Brown is sidelined, the Patriots will need to lean on Romeo Doubs at wideout, while DeMario Douglas, Mack Hollins and Kyle Williams all figure to take on larger roles. Hunter Henry is also a candidate to see a bigger target share while Brown is sidelined.",
+        "analysis": "Brown is believed to be dealing with a high-ankle sprain that may require a stint on injured reserve, per NFL reporter Jordan Schultz. The good news is he suffered the injury on a Wednesday, which gives him a few extra days to rehab this week, but it's still looking like the star wideout will miss multiple games. While Brown is sidelined, the Patriots will need to lean on Romeo Doubs at wideout, while DeMario Douglas, Mack Hollins and Kyle Williams all figure to take on larger roles. Hunter Henry is also a candidate to see a bigger target share while Brown is sidelined.",
         "description": "Brown is expected to miss four weeks with the ankle injury he suffered in Monday night's loss to the Seahawks, Ian Rapoport of ESPN and NFL Network reports.",
         "title": "A.J. Brown - Expected to miss four weeks",
         "topic_id": "1403922132085280768"
