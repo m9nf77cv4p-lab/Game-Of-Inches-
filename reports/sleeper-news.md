@@ -2,8 +2,8 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2640**
-- Newly captured: **2**
+- Stored stories: **2641**
+- Newly captured: **1**
 
 ## Latest news
 
@@ -75,9 +75,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607057/matthew-stafford-quiet-loss-to-niners.php
 - **Ryan Flournoy** — Ryan Flournoy - Signs one-year extension (2026-09-11T03:31:55Z)
   - Flournoy has been a nice find for the Cowboys after they selected him in the sixth round of the 2024 NFL Draft. The wideout tallied a career-best 40 catches for 475 yards and four touchdowns over 16 regular-season games last year and is set for a larger role as the team's No. 3 wide receiver in 2026. Flournoy now is in line to remain with Dallas through 2027, and he could be a great value if he proves to be productive with potentially increased opportunities during the upcoming campaign.
-- **NEW — Mike Evans** — Mike Evans Scores TD In 49ers Debut (2026-09-11T03:21:11Z)
+- **NEW — Deebo Samuel** — Deebo Samuel Sr. Catches TD In Reunion With 49ers (2026-09-11T03:30:05Z)
+  - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-catches-td-in-reunion-with-49ers/1928114
+- **Mike Evans** — Mike Evans Scores TD In 49ers Debut (2026-09-11T03:21:11Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-scores-td-in-49ers-debut/1928112
-- **NEW — Christian McCaffrey** — Christian McCaffrey Has Modest Production In Lopsided Victory (2026-09-11T03:17:06Z)
+- **Christian McCaffrey** — Christian McCaffrey Has Modest Production In Lopsided Victory (2026-09-11T03:17:06Z)
   - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-has-modest-production-in-lopsided-victory/1928110
 - **De'Zhaun Stribling** — De'Zhaun Stribling (ankle) ruled out for rest of game Thursday  (2026-09-11T02:00:31.363000Z)
   - Stribling was quickly ruled out after being carted back to the locker room, which is not good. There should be a further update after Thursday's game or by this weekend. 
@@ -245,5 +247,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Coach John Harbaugh provided the update after Thursday's session. Nabers has been practicing in full this week, though there's no confirmation on his status for Sunday night's game against the Cowboys just yet. It appears the Giants will wait as long as they can to make a final determination on their star receiver's Week 1 availability.
 - **A.J. Brown** — A.J. Brown to Miss at Least Four Weeks (2026-09-10T19:32:07Z)
   - Source: https://www.rotoballer.com/player-news/a-j-brown-to-miss-at-least-four-weeks/1927951
-- **Rome Odunze** — Rome Odunze - Limited again Thursday (2026-09-10T19:31:41Z)
-  - Odunze was limited for a second day in a row as his status remains unclear going into Week 1. Friday's injury report should provide some clarity, but even then, the Bears may not make a final call on Odunze until Sunday. An absence from Odunze this weekend would open playing time for Kalif Raymond or Zavion Thomas.

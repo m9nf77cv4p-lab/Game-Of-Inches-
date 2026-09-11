@@ -1,10 +1,9 @@
 {
-  "last_checked_at": "2026-09-11T07:34:46Z",
+  "last_checked_at": "2026-09-11T07:48:37Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 286,
   "new_story_ids": [
-    "nfl|2216|rotoballer|220610|1789096871000",
-    "nfl|4034|rotoballer|220609|1789096626000"
+    "nfl|5872|rotoballer|220611|1789097405000"
   ],
   "schema_version": 1,
   "source": {
@@ -567,6 +566,26 @@
       "story_id": "nfl|11783|rotowire|636802|1789097515000",
       "title": "Ryan Flournoy - Signs one-year extension",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. was productive in his first game back with the team in their season opener against the Rams despite his limited role. Samuel entered the game from the bench and finished with six catches for 48 yards and one touchdown on seven targets. The versatile veteran also handled one carry for 12 rushing yards and two kickoffs for 74 return yards. Samuel ranked third in snap share among the 49ers' wide receivers behind Mike Evans and Demarcus Robinson, and likely would have finished behind De'Zhaun Stribling (ankle) had the rookie not exited the game due to an injury in the second quarter. The vague receiver roles and frequent rotations make it hard to predict how and when Samuel will be used, but if Stribling misses time, he should see greater involvement. Samuel might be a flex play in Week 2, when the 49ers face off against the Miami Dolphins.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. was productive in his first game back with the team in their season opener against the Rams despite his limited role. Samuel entered the game from the bench and finished with six catches for 48 yards and one touchdown on seven targets. The versatile veteran also handled one carry for 12 rushing yards and two kickoffs for 74 return yards. Samuel ranked third in snap share among the 49ers' wide receivers behind Mike Evans and Demarcus Robinson, and likely would have finished behind De'Zhaun Stribling (ankle) had the rookie not exited the game due to an injury in the second quarter. The vague receiver roles and frequent rotations make it hard to predict how and when Samuel will be used, but if Stribling misses time, he should see greater involvement. Samuel might be a flex play in Week 2, when the 49ers face off against the Miami Dolphins.",
+        "title": "Deebo Samuel Sr. Catches TD In Reunion With 49ers",
+        "topic_id": "1404041644231131136",
+        "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-catches-td-in-reunion-with-49ers/1928114"
+      },
+      "nfl_team": "SF",
+      "player_id": "5872",
+      "player_name": "Deebo Samuel",
+      "position": "WR",
+      "published": 1789097405000,
+      "source": "rotoballer",
+      "source_key": "220611",
+      "story_id": "nfl|5872|rotoballer|220611|1789097405000",
+      "title": "Deebo Samuel Sr. Catches TD In Reunion With 49ers",
+      "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-catches-td-in-reunion-with-49ers/1928114"
     },
     {
       "analysis": null,
