@@ -1,31 +1,13 @@
 {
-  "last_checked_at": "2026-09-12T20:56:30Z",
+  "last_checked_at": "2026-09-12T22:53:17Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 287,
+  "monitored_player_count": 288,
   "new_story_ids": [
-    "nfl|10229|rotoballer|220857|1789227906000",
-    "nfl|11199|fantasy_pros|605057|1788207014963",
-    "nfl|11199|rotoballer|220653|1789139645000",
-    "nfl|11199|rotowire|636859|1789160488000",
-    "nfl|11624|rotoballer|220863|1789228026000",
-    "nfl|11834|rotoballer|220869|1789231006000",
-    "nfl|12545|rotoballer|220854|1789225148000",
-    "nfl|13337|rotoballer|220861|1789228205000",
-    "nfl|13349|fantasy_pros|607386|1789244747089",
-    "nfl|13349|rotoballer|220868|1789230306000",
-    "nfl|13349|rotowire|636978|1789243581000",
-    "nfl|1466|rotoballer|220862|1789228145000",
-    "nfl|4035|rotoballer|220865|1789228986000",
-    "nfl|4046|rotoballer|220860|1789227726000",
-    "nfl|4046|rotowire|636973|1789242357000",
-    "nfl|4227|rotoballer|220864|1789228326000",
-    "nfl|4574|rotoballer|220867|1789229945000",
-    "nfl|4574|rotowire|636980|1789243739000",
-    "nfl|7002|rotoballer|220870|1789231805000",
-    "nfl|7543|rotoballer|220855|1789225806000",
-    "nfl|8144|rotoballer|220866|1789229465000",
-    "nfl|8151|rotoballer|220859|1789227730000",
-    "nfl|9758|rotowire|636985|1789245030000"
+    "nfl|12489|rotoballer|220872|1789238345000",
+    "nfl|3451|rotoballer|220719|1789166071000",
+    "nfl|3451|rotowire|634327|1787350267000",
+    "nfl|3451|rotowire|635147|1787986285000",
+    "nfl|9482|rotoballer|220871|1789232405000"
   ],
   "schema_version": 1,
   "source": {
@@ -137,6 +119,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Denver Broncos running back RJ Harvey will open the regular season in Kansas City on Monday Night Football. The 25-year-old is expected to specialize as the pass-catching running back in a crowded room after the team brought back J.K. Dobbins and drafted Jonah Coleman in the fourth round. Harvey finished his rookie season as the RB20 in PPR scoring and touchdown-reliant down the stretch. He is RotoBaller's PPR RB44 entering Week 1 with a semi-difficult matchup. The Chiefs' defense allowed the 10th fewest rushing yards and the 12th fewest rushing touchdowns last season. However, the Chiefs did struggle against pass-catching running backs last year, and the secondary took a major talent hit this offseason with the departure of their top three cornerbacks. Harvey should be viewed as a low-end flex option heading into Week 1 of the 2026 NFL season.",
+      "metadata": {
+        "description": "Denver Broncos running back RJ Harvey will open the regular season in Kansas City on Monday Night Football. The 25-year-old is expected to specialize as the pass-catching running back in a crowded room after the team brought back J.K. Dobbins and drafted Jonah Coleman in the fourth round. Harvey finished his rookie season as the RB20 in PPR scoring and touchdown-reliant down the stretch. He is RotoBaller's PPR RB44 entering Week 1 with a semi-difficult matchup. The Chiefs' defense allowed the 10th fewest rushing yards and the 12th fewest rushing touchdowns last season. However, the Chiefs did struggle against pass-catching running backs last year, and the secondary took a major talent hit this offseason with the departure of their top three cornerbacks. Harvey should be viewed as a low-end flex option heading into Week 1 of the 2026 NFL season.",
+        "title": "RJ Harvey a Low-End Flex Option vs. Chiefs",
+        "topic_id": "1404633137392123904",
+        "url": "https://www.rotoballer.com/player-news/rj-harvey-a-low-end-flex-option-vs-chiefs/1929905"
+      },
+      "nfl_team": "DEN",
+      "player_id": "12489",
+      "player_name": "RJ Harvey",
+      "position": "RB",
+      "published": 1789238345000,
+      "source": "rotoballer",
+      "source_key": "220872",
+      "story_id": "nfl|12489|rotoballer|220872|1789238345000",
+      "title": "RJ Harvey a Low-End Flex Option vs. Chiefs",
+      "url": "https://www.rotoballer.com/player-news/rj-harvey-a-low-end-flex-option-vs-chiefs/1929905"
+    },
+    {
       "analysis": "Davis underwent surgery Saturday for a hip injury, and the move to IR means he'll be required to miss at least the next four games, though an exact timeline for his return is unclear. With Davis sidelined, the Cowboys bolstered their backfield depth by signing Israel Abanikanda from the practice squad to the active roster, with the latter serving as the RB3 behind Javonte Williams and Emari Demercado.",
       "description": "The Cowboys placed Davis (hip) on injured reserve Saturday, Adam Schefter of ESPN reports.",
       "metadata": {
@@ -155,6 +157,26 @@
       "story_id": "nfl|8800|rotowire|636964|1789237211000",
       "title": "Malik Davis - Lands on injured reserve",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders tight end Michael Mayer played a limited role as a receiver in 2025, recording 35 catches for 328 yards and one touchdown on 50 targets across 13 games. However, with Raiders TE1 Brock Bowers (knee) sidelined, Mayer could step into an elevated target share in the Raiders' 2026 season opener against the Miami Dolphins. Across four games with Bowers inactive in 2025, Mayer recorded 18 catches for 196 yards and a touchdown on 24 targets. While his numbers may not leap off the page, Las Vegas should field an improved passing game with new head coach Klint Kubiak calling plays in 2026. The Dolphins also profile as a favorable matchup on paper for Mayer, as Miami allowed the fifth-most fantasy points to tight ends last season. All in all, Mayer projects as a low-end top-12 tight end option for fantasy managers in Week 1.",
+      "metadata": {
+        "description": "Las Vegas Raiders tight end Michael Mayer played a limited role as a receiver in 2025, recording 35 catches for 328 yards and one touchdown on 50 targets across 13 games. However, with Raiders TE1 Brock Bowers (knee) sidelined, Mayer could step into an elevated target share in the Raiders' 2026 season opener against the Miami Dolphins. Across four games with Bowers inactive in 2025, Mayer recorded 18 catches for 196 yards and a touchdown on 24 targets. While his numbers may not leap off the page, Las Vegas should field an improved passing game with new head coach Klint Kubiak calling plays in 2026. The Dolphins also profile as a favorable matchup on paper for Mayer, as Miami allowed the fifth-most fantasy points to tight ends last season. All in all, Mayer projects as a low-end top-12 tight end option for fantasy managers in Week 1.",
+        "title": "Michael Mayer a Worthy Start in Favorable Week 1 Matchup",
+        "topic_id": "1404607969064214528",
+        "url": "https://www.rotoballer.com/player-news/michael-mayer-a-worthy-start-in-favorable-week-1-matchup/1929886"
+      },
+      "nfl_team": "LV",
+      "player_id": "9482",
+      "player_name": "Michael Mayer",
+      "position": "TE",
+      "published": 1789232405000,
+      "source": "rotoballer",
+      "source_key": "220871",
+      "story_id": "nfl|9482|rotoballer|220871|1789232405000",
+      "title": "Michael Mayer a Worthy Start in Favorable Week 1 Matchup",
+      "url": "https://www.rotoballer.com/player-news/michael-mayer-a-worthy-start-in-favorable-week-1-matchup/1929886"
     },
     {
       "analysis": null,
@@ -2859,6 +2881,26 @@
       "story_id": "nfl|6790|rotoballer|220733|1789166345000",
       "title": "D'Andre Swift Poised for Strong Week 1 Showing",
       "url": "https://www.rotoballer.com/player-news/dandre-swift-poised-for-strong-week-1-showing/1929082"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans kicker Ka'imi Fairbairn was one of the best fantasy kickers in the NFL last season, taking advantage of his team's red-zone struggles to kick plenty of field goals. He made 44 of his 48 field-goal attempts over 15 games and went a perfect 28-for-28 on extra points. He was excellent from long range as well, going 9-for-13 from over 50 yards. This offseason, Houston locked up the 32-year-old from Hawaii with a two-year, $13 million extension. While the offense hopes to be more efficient in the red zone this season, especially after adding David Montgomery, Fairbairn remains a very strong option at the position. In Week 1's home matchup against the Bills, Fairbairn is the No. 10 kicker in RotoBaller's rankings, and he's a solid, reliable start in almost all formats.",
+      "metadata": {
+        "description": "Houston Texans kicker Ka'imi Fairbairn was one of the best fantasy kickers in the NFL last season, taking advantage of his team's red-zone struggles to kick plenty of field goals. He made 44 of his 48 field-goal attempts over 15 games and went a perfect 28-for-28 on extra points. He was excellent from long range as well, going 9-for-13 from over 50 yards. This offseason, Houston locked up the 32-year-old from Hawaii with a two-year, $13 million extension. While the offense hopes to be more efficient in the red zone this season, especially after adding David Montgomery, Fairbairn remains a very strong option at the position. In Week 1's home matchup against the Bills, Fairbairn is the No. 10 kicker in RotoBaller's rankings, and he's a solid, reliable start in almost all formats.",
+        "title": "Ka'imi Fairbairn Is a Top-10 Kicker in Week 1",
+        "topic_id": "1404329761513222144",
+        "url": "https://www.rotoballer.com/player-news/kaimi-fairbairn-is-a-top-10-kicker-in-week-1/1929079"
+      },
+      "nfl_team": "HOU",
+      "player_id": "3451",
+      "player_name": "Ka'imi Fairbairn",
+      "position": "K",
+      "published": 1789166071000,
+      "source": "rotoballer",
+      "source_key": "220719",
+      "story_id": "nfl|3451|rotoballer|220719|1789166071000",
+      "title": "Ka'imi Fairbairn Is a Top-10 Kicker in Week 1",
+      "url": "https://www.rotoballer.com/player-news/kaimi-fairbairn-is-a-top-10-kicker-in-week-1/1929079"
     },
     {
       "analysis": null,
@@ -34625,6 +34667,26 @@
       "url": "https://www.rotoballer.com/player-news/packers-fully-anticipate-josh-jacobs-will-remain-on-roster/1919011"
     },
     {
+      "analysis": "The 32-year-old kicker heads into the regular season having not missed a kick in either of the two preseason contests in which he saw action. Fairbairn has become one of the most reliable placekickers in the league with Houston, converting better than 90 percent of his FGs in three of the last four seasons and finishing in the top five in the NFL in points each of the last two campaigns.",
+      "description": "Fairbairn converted both his field-goal attempts and his only PAT during Friday's 16-13 preseason loss to the Panthers.",
+      "metadata": {
+        "analysis": "The 32-year-old kicker heads into the regular season having not missed a kick in either of the two preseason contests in which he saw action. Fairbairn has become one of the most reliable placekickers in the league with Houston, converting better than 90 percent of his FGs in three of the last four seasons and finishing in the top five in the NFL in points each of the last two campaigns.",
+        "description": "Fairbairn converted both his field-goal attempts and his only PAT during Friday's 16-13 preseason loss to the Panthers.",
+        "title": "Ka'imi Fairbairn - Wraps up perfect preseason",
+        "topic_id": "1399320622357598208"
+      },
+      "nfl_team": "HOU",
+      "player_id": "3451",
+      "player_name": "Ka'imi Fairbairn",
+      "position": "K",
+      "published": 1787986285000,
+      "source": "rotowire",
+      "source_key": "635147",
+      "story_id": "nfl|3451|rotowire|635147|1787986285000",
+      "title": "Ka'imi Fairbairn - Wraps up perfect preseason",
+      "url": null
+    },
+    {
       "analysis": "The 2026 fourth-round pick made a splash in the Ravens' preseason opener, but Sarratt managed just two catches for four yards in the final two exhibition games. Third-round rookie Ja'Kobi Lane has been the star of training camp and seems to have the No. 3 wideout job locked down, leaving Sarratt competing with the likes of Devontez Walker, Chris Moore and LaJohntay Wester just to find a spot on the 53-man roster.",
       "description": "Sarratt caught one of two targets for only one yard in Friday's 41-3 preseason win over the Commanders.",
       "metadata": {
@@ -49256,6 +49318,26 @@
       "url": "https://www.rotoballer.com/player-news/chuba-hubbard-expected-to-be-ready-for-week-1/1913560"
     },
     {
+      "analysis": "Fairbairn's longest field goal came in the second quarter, with the 57-yarder propelling the Texans to a 20-3 lead. The kicker's eight-point night should leave Texans fans confident the 32-year-old still has a strong and consistent leg as the team enters yet another year of AFC title contention.",
+      "description": "Fairbairn converted both field-goal attempts and both extra-point tries in Thursday night's 22-20 preseason loss to the Raiders.",
+      "metadata": {
+        "analysis": "Fairbairn's longest field goal came in the second quarter, with the 57-yarder propelling the Texans to a 20-3 lead. The kicker's eight-point night should leave Texans fans confident the 32-year-old still has a strong and consistent leg as the team enters yet another year of AFC title contention.",
+        "description": "Fairbairn converted both field-goal attempts and both extra-point tries in Thursday night's 22-20 preseason loss to the Raiders.",
+        "title": "Ka'imi Fairbairn - Perfect against Vegas",
+        "topic_id": "1396652982833025024"
+      },
+      "nfl_team": "HOU",
+      "player_id": "3451",
+      "player_name": "Ka'imi Fairbairn",
+      "position": "K",
+      "published": 1787350267000,
+      "source": "rotowire",
+      "source_key": "634327",
+      "story_id": "nfl|3451|rotowire|634327|1787350267000",
+      "title": "Ka'imi Fairbairn - Perfect against Vegas",
+      "url": null
+    },
+    {
       "analysis": null,
       "description": "Philadelphia Eagles tight end Dallas Goedert \"had a good day\" during the team's joint practice with the New England Patriots on Thursday, according to Zach Berman of The Athletic. Berman writes that as long as Goedert stays healthy, he will \"be one of (Eagles quarterback Jalen Hurts') top targets.\" Across 15 games in 2025, Goedert recorded 60 catches for 591 yards and 11 touchdowns on 82 targets. Goedert recorded just 24 total touchdown catches across his first seven NFL seasons going into 2025, so his spike in red zone production last season was a surprise and may not be fully sustainable in 2026. However, the Eagles lost a significant portion of their receiving production over the offseason by trading away wideout A.J. Brown. While the team added talent at wide receiver to replace Brown, Goedert has more established chemistry with Hurts than any Philadelphia pass-catcher outside of wide receiver DeVonta Smith. Heading into 2026, fantasy managers should view Goedert as a low-end TE1 option.",
       "metadata": {
@@ -58266,86 +58348,6 @@
       "story_id": "nfl|11370|rotowire|633438|1786661826000",
       "title": "Chris Brooks - Not in uniform Thursday",
       "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Jacksonville Jaguars tight end Brenton Strange faces heavy target competition heading into the 2026 season. Strange had a solid third season, hauling in 46 of 60 targets for 540 yards and three touchdowns in just 12 games, averaging 7.9 half-PPR fantasy points per game. However, the Jaguars' receiving corps looks loaded, with the addition of second-round tight end Nate Boerkircher and the return of emerging players Parker Washington and Travis Hunter. Despite a strong showing in 2025, Strange is likely the fourth or fifth option in this passing offense. Currently listed as the TE17 in RotoBaller's positional rankings, Strange seems like too high a price to pay in 2026.",
-      "metadata": {
-        "description": "Jacksonville Jaguars tight end Brenton Strange faces heavy target competition heading into the 2026 season. Strange had a solid third season, hauling in 46 of 60 targets for 540 yards and three touchdowns in just 12 games, averaging 7.9 half-PPR fantasy points per game. However, the Jaguars' receiving corps looks loaded, with the addition of second-round tight end Nate Boerkircher and the return of emerging players Parker Washington and Travis Hunter. Despite a strong showing in 2025, Strange is likely the fourth or fifth option in this passing offense. Currently listed as the TE17 in RotoBaller's positional rankings, Strange seems like too high a price to pay in 2026.",
-        "title": "Brenton Strange Faces Crowded Jaguars Passing Attack",
-        "topic_id": "1393825682349367296",
-        "url": "https://www.rotoballer.com/player-news/brenton-strange-faces-crowded-jaguars-passing-attack/1908530"
-      },
-      "nfl_team": "JAX",
-      "player_id": "9480",
-      "player_name": "Brenton Strange",
-      "position": "TE",
-      "published": 1786661586000,
-      "source": "rotoballer",
-      "source_key": "218535",
-      "story_id": "nfl|9480|rotoballer|218535|1786661586000",
-      "title": "Brenton Strange Faces Crowded Jaguars Passing Attack",
-      "url": "https://www.rotoballer.com/player-news/brenton-strange-faces-crowded-jaguars-passing-attack/1908530"
-    },
-    {
-      "analysis": null,
-      "description": "Jacksonville Jaguars placekicker Cam Little aims to build on a strong second season in 2026. Last year, Little made 30 of 34 field goals, including a 68-yarder that set the NFL record for the longest, and 50 of 51 extra points. He finished as the fifth-ranked kicker in fantasy formats, averaging 9.6 fantasy points per game. The third-year kicker will be 23 by the start of the season and is already setting records and eyeing the first-ever 70-yard field goal, which he has made only in the preseason. With head coach Liam Coen and quarterback Trevor Lawrence hoping to build on a strong first season together, Little hopes for more opportunities in 2026.",
-      "metadata": {
-        "description": "Jacksonville Jaguars placekicker Cam Little aims to build on a strong second season in 2026. Last year, Little made 30 of 34 field goals, including a 68-yarder that set the NFL record for the longest, and 50 of 51 extra points. He finished as the fifth-ranked kicker in fantasy formats, averaging 9.6 fantasy points per game. The third-year kicker will be 23 by the start of the season and is already setting records and eyeing the first-ever 70-yard field goal, which he has made only in the preseason. With head coach Liam Coen and quarterback Trevor Lawrence hoping to build on a strong first season together, Little hopes for more opportunities in 2026.",
-        "title": "Cam Little Looking to Build Off Breakout Season",
-        "topic_id": "1393823165301424128",
-        "url": "https://www.rotoballer.com/player-news/cam-little-looking-to-build-off-breakout-season/1908523"
-      },
-      "nfl_team": "JAX",
-      "player_id": "11786",
-      "player_name": "Cam Little",
-      "position": "K",
-      "published": 1786661039000,
-      "source": "rotoballer",
-      "source_key": "218532",
-      "story_id": "nfl|11786|rotoballer|218532|1786661039000",
-      "title": "Cam Little Looking to Build Off Breakout Season",
-      "url": "https://www.rotoballer.com/player-news/cam-little-looking-to-build-off-breakout-season/1908523"
-    },
-    {
-      "analysis": null,
-      "description": "Cincinnati Bengals 26-year-old wide receiver Andrei Iosivas enters his fourth NFL season as the projected No. 3 receiver in this lethal Bengals passing attack. Over his first three seasons with the Bengals, he has earned 144 targets, hauled in 84 of them for 1,030 yards, and 12 touchdowns. Over a three-year span, that is nothing to write home about, and he is clearly an afterthought when you are behind guys like Tee Higgins and Ja'Marr Chase. 2025 was his lowest touchdown production since entering the league, with only two, after he had six in 2024 and four in 2023. The only real path for Iosivas to be fantasy relevant is if one of those receivers were to get hurt, and even then, he would be viewed as a low-end WR3 at best. RotoBaller currently ranks him as the WR90, and that's after he finished the 2025 season as the WR58.",
-      "metadata": {
-        "description": "Cincinnati Bengals 26-year-old wide receiver Andrei Iosivas enters his fourth NFL season as the projected No. 3 receiver in this lethal Bengals passing attack. Over his first three seasons with the Bengals, he has earned 144 targets, hauled in 84 of them for 1,030 yards, and 12 touchdowns. Over a three-year span, that is nothing to write home about, and he is clearly an afterthought when you are behind guys like Tee Higgins and Ja'Marr Chase. 2025 was his lowest touchdown production since entering the league, with only two, after he had six in 2024 and four in 2023. The only real path for Iosivas to be fantasy relevant is if one of those receivers were to get hurt, and even then, he would be viewed as a low-end WR3 at best. RotoBaller currently ranks him as the WR90, and that's after he finished the 2025 season as the WR58.",
-        "title": "Andrei Iosivas Not on the Fantasy Radar in Any Draft Formats",
-        "topic_id": "1393823165297229824",
-        "url": "https://www.rotoballer.com/player-news/andrei-iosivas-not-on-the-fantasy-radar-in-any-draft-formats/1908520"
-      },
-      "nfl_team": "CIN",
-      "player_id": "10226",
-      "player_name": "Andrei Iosivas",
-      "position": "WR",
-      "published": 1786660921000,
-      "source": "rotoballer",
-      "source_key": "218533",
-      "story_id": "nfl|10226|rotoballer|218533|1786660921000",
-      "title": "Andrei Iosivas Not on the Fantasy Radar in Any Draft Formats",
-      "url": "https://www.rotoballer.com/player-news/andrei-iosivas-not-on-the-fantasy-radar-in-any-draft-formats/1908520"
-    },
-    {
-      "analysis": null,
-      "description": "New York Giants 25-year-old tight end Theo Johnson finished the 2025 season as the TE19, with 528 receiving yards and five touchdowns on 74 targets. He had an impressive 11.73 yards per reception and became one of Jaxson Dart's favorite targets. However, the biggest thorn in Johnson's side is the offseason signing of 26-year-old tight end Isaiah Likely, who has been generating a lot of buzz in camp and has been one of Dart's favorite targets thus far. The wide receiver room for the Giants is extremely cloudy, with Malik Nabers (knee) recovering from injury and guys like Darius Slayton, Calvin Austin, JuJu Smith-Schuster, and Odell Beckham Jr.,  rounding out the receiver room. While Johnson proved to be reliable and explosive in 2025 (10th in explosive rating), the target share will take a significant step backwards and Johnson likely won't remain fantasy relevant unless he has a spike in touchdown production. RotoBaller ranks Johnson as the TE39 entering the season, which makes him a dynasty stash at best.",
-      "metadata": {
-        "description": "New York Giants 25-year-old tight end Theo Johnson finished the 2025 season as the TE19, with 528 receiving yards and five touchdowns on 74 targets. He had an impressive 11.73 yards per reception and became one of Jaxson Dart's favorite targets. However, the biggest thorn in Johnson's side is the offseason signing of 26-year-old tight end Isaiah Likely, who has been generating a lot of buzz in camp and has been one of Dart's favorite targets thus far. The wide receiver room for the Giants is extremely cloudy, with Malik Nabers (knee) recovering from injury and guys like Darius Slayton, Calvin Austin, JuJu Smith-Schuster, and Odell Beckham Jr.,  rounding out the receiver room. While Johnson proved to be reliable and explosive in 2025 (10th in explosive rating), the target share will take a significant step backwards and Johnson likely won't remain fantasy relevant unless he has a spike in touchdown production. RotoBaller ranks Johnson as the TE39 entering the season, which makes him a dynasty stash at best.",
-        "title": "Theo Johnson Losing Redraft Value as the Season Approaches",
-        "topic_id": "1393820647792078848",
-        "url": "https://www.rotoballer.com/player-news/theo-johnson-losing-redraft-value-as-the-season-approaches/1908506"
-      },
-      "nfl_team": "NYG",
-      "player_id": "11597",
-      "player_name": "Theo Johnson",
-      "position": "TE",
-      "published": 1786660386000,
-      "source": "rotoballer",
-      "source_key": "218531",
-      "story_id": "nfl|11597|rotoballer|218531|1786660386000",
-      "title": "Theo Johnson Losing Redraft Value as the Season Approaches",
-      "url": "https://www.rotoballer.com/player-news/theo-johnson-losing-redraft-value-as-the-season-approaches/1908506"
     }
   ]
 }
