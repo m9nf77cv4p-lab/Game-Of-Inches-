@@ -1,23 +1,22 @@
 {
-  "last_checked_at": "2026-09-11T23:19:45Z",
+  "last_checked_at": "2026-09-12T01:15:16Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 287,
   "new_story_ids": [
-    "nfl|11584|rotoballer|220675|1789146725000",
-    "nfl|13349|rotoballer|220687|1789151106000",
-    "nfl|13349|rotowire|636860|1789161312000",
-    "nfl|4037|rotoballer|220677|1789147637000",
-    "nfl|4199|rotoballer|220689|1789151488000",
-    "nfl|5849|rotoballer|220690|1789151993000",
-    "nfl|5947|rotoballer|220678|1789147445000",
-    "nfl|6650|rotoballer|220682|1789149006000",
-    "nfl|6794|rotoballer|220688|1789151045000",
-    "nfl|7049|rotoballer|220683|1789150145000",
-    "nfl|7567|rotoballer|220676|1789147145000",
-    "nfl|8111|rotoballer|220681|1789148530000",
-    "nfl|8408|rotoballer|220686|1789151226000",
-    "nfl|9511|rotowire|636862|1789163693000",
-    "nfl|9756|rotoballer|220684|1789150578000"
+    "nfl|10213|rotoballer|220698|1789158727000",
+    "nfl|11581|rotoballer|220695|1789156810000",
+    "nfl|11583|rotoballer|220697|1789158859000",
+    "nfl|12487|rotowire|636891|1789170817000",
+    "nfl|12501|rotoballer|220696|1789157142000",
+    "nfl|13306|rotoballer|220693|1789155438000",
+    "nfl|13306|rotowire|636871|1789169026000",
+    "nfl|13602|rotowire|636872|1789169107000",
+    "nfl|4035|rotoballer|220700|1789159462000",
+    "nfl|5892|rotoballer|220701|1789160765000",
+    "nfl|6804|rotoballer|220694|1789156146000",
+    "nfl|8800|rotowire|636939|1789175369000",
+    "nfl|9484|rotoballer|220702|1789160672000",
+    "nfl|9758|rotoballer|220699|1789159570000"
   ],
   "schema_version": 1,
   "source": {
@@ -27,6 +26,86 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Davis hurt his hip during practice Friday, and the issue is severe enough to require surgery. It's not yet clear how much time the tailback will miss, but it's very possible that he'll be sidelined for most, if not all, of the 2026 campaign. The injury is an awful break for Davis, who had been slated to serve as Dallas' No. 2 running back after working mostly on special teams (and spending considerable time on the practice squad) early in his career. Emari Demercado will likely now slide into that backup role behind Javonte Williams, and Dallas figures to make a move to add another ball carrier to the roster ahead of Sunday's Week 1 matchup versus the Giants.",
+      "description": "Davis is slated to have surgery on his injured hip Saturday and is expected to be placed on IR, Todd Archer of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Davis hurt his hip during practice Friday, and the issue is severe enough to require surgery. It's not yet clear how much time the tailback will miss, but it's very possible that he'll be sidelined for most, if not all, of the 2026 campaign. The injury is an awful break for Davis, who had been slated to serve as Dallas' No. 2 running back after working mostly on special teams (and spending considerable time on the practice squad) early in his career. Emari Demercado will likely now slide into that backup role behind Javonte Williams, and Dallas figures to make a move to add another ball carrier to the roster ahead of Sunday's Week 1 matchup versus the Giants.",
+        "description": "Davis is slated to have surgery on his injured hip Saturday and is expected to be placed on IR, Todd Archer of ESPN.com reports.",
+        "title": "Malik Davis - Will undergo hip surgery",
+        "topic_id": "1404308373909889024"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8800",
+      "player_name": "Malik Davis",
+      "position": "RB",
+      "published": 1789175369000,
+      "source": "rotowire",
+      "source_key": "636939",
+      "story_id": "nfl|8800|rotowire|636939|1789175369000",
+      "title": "Malik Davis - Will undergo hip surgery",
+      "url": null
+    },
+    {
+      "analysis": "The lone pass Ferguson saw from Matthew Stafford was on fourth-and-5 midway through the fourth quarter, which easily sailed over the second-year tight end and out of bounds. Ferguson's 31 snaps on offense were ahead of Tyler Higbee (12) but behind Colby Parkinson (41), so Ferguson's role in the Rams' offense figures to mostly be as a run blocker in 12- and 13-man personnel. The Rams will host the Giants in Week 2 on Monday, Sept. 21.",
+      "description": "Ferguson failed to haul in his lone target during the Rams' 27-7 loss to the 49ers in Week 1.",
+      "metadata": {
+        "analysis": "The lone pass Ferguson saw from Matthew Stafford was on fourth-and-5 midway through the fourth quarter, which easily sailed over the second-year tight end and out of bounds. Ferguson's 31 snaps on offense were ahead of Tyler Higbee (12) but behind Colby Parkinson (41), so Ferguson's role in the Rams' offense figures to mostly be as a run blocker in 12- and 13-man personnel. The Rams will host the Giants in Week 2 on Monday, Sept. 21.",
+        "description": "Ferguson failed to haul in his lone target during the Rams' 27-7 loss to the 49ers in Week 1.",
+        "title": "Terrance Ferguson - Held without catch Week 1",
+        "topic_id": "1404288235588378624"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12487",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "published": 1789170817000,
+      "source": "rotowire",
+      "source_key": "636891",
+      "story_id": "nfl|12487|rotowire|636891|1789170817000",
+      "title": "Terrance Ferguson - Held without catch Week 1",
+      "url": null
+    },
+    {
+      "analysis": "The Falcons chose to carry four quarterbacks on the 53-man roster, and that looks to have been a savvy move after Tua Tagovailoa was ruled out for Week 1 due to an oblique injury he sustained in Thursday's practice. With Michael Penix (knee) also sidelined, the Falcons will turn to the veteran Rush to start under center while Strand -- an undrafted rookie out of Minnesota State-Moorhead -- operates as the QB2. Strand played in all three of the Falcons' preseason games, completing 24 of 36 passes for 306 yards, one touchdown and one interception while turning 17 carries into 29 yards and two scores.",
+      "description": "Strand will serve as the Falcons' backup quarterback behind Cooper Rush for Sunday's game against the Steelers, Marc Raimondi of ESPN.com reports.",
+      "metadata": {
+        "analysis": "The Falcons chose to carry four quarterbacks on the 53-man roster, and that looks to have been a savvy move after Tua Tagovailoa was ruled out for Week 1 due to an oblique injury he sustained in Thursday's practice. With Michael Penix (knee) also sidelined, the Falcons will turn to the veteran Rush to start under center while Strand -- an undrafted rookie out of Minnesota State-Moorhead -- operates as the QB2. Strand played in all three of the Falcons' preseason games, completing 24 of 36 passes for 306 yards, one touchdown and one interception while turning 17 carries into 29 yards and two scores.",
+        "description": "Strand will serve as the Falcons' backup quarterback behind Cooper Rush for Sunday's game against the Steelers, Marc Raimondi of ESPN.com reports.",
+        "title": "Jack Strand - Backup QB for Week 1",
+        "topic_id": "1404281944253931520"
+      },
+      "nfl_team": "ATL",
+      "player_id": "13602",
+      "player_name": "Jack Strand",
+      "position": "QB",
+      "published": 1789169107000,
+      "source": "rotowire",
+      "source_key": "636872",
+      "story_id": "nfl|13602|rotowire|636872|1789169107000",
+      "title": "Jack Strand - Backup QB for Week 1",
+      "url": null
+    },
+    {
+      "analysis": "If Green is written into the Browns' offensive game plan for Week 1, it would likely suggest he is second in line at quarterback behind veteran Deshaun Watson. If 2025 fifth-rounder Shedeur Sanders ends up with that role instead, Green's path to playing time gets harder to envision. If and when Green does get on the field, his size and speed (6-foot-6, 230 pounds, 4.36 40-yard dash) would certainly compel a defense to pay close attention.",
+      "description": "Coach Todd Monken said Friday that he has not decided whether Green will have a package of plays for Sunday's game against the Jaguars, Daryl Ruiter of 92.3 The Fan Cleveland reports.",
+      "metadata": {
+        "analysis": "If Green is written into the Browns' offensive game plan for Week 1, it would likely suggest he is second in line at quarterback behind veteran Deshaun Watson. If 2025 fifth-rounder Shedeur Sanders ends up with that role instead, Green's path to playing time gets harder to envision. If and when Green does get on the field, his size and speed (6-foot-6, 230 pounds, 4.36 40-yard dash) would certainly compel a defense to pay close attention.",
+        "description": "Coach Todd Monken said Friday that he has not decided whether Green will have a package of plays for Sunday's game against the Jaguars, Daryl Ruiter of 92.3 The Fan Cleveland reports.",
+        "title": "Taylen Green - Role against Jacksonville still TBD",
+        "topic_id": "1404280685664956416"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13306",
+      "player_name": "Taylen Green",
+      "position": "QB",
+      "published": 1789169026000,
+      "source": "rotowire",
+      "source_key": "636871",
+      "story_id": "nfl|13306|rotowire|636871|1789169026000",
+      "title": "Taylen Green - Role against Jacksonville still TBD",
+      "url": null
+    },
     {
       "analysis": "After logging limited practices Wednesday and Thursday, Mitchell got a full session in Friday and thus appears ready to go for Week 1. Mitchell is an intriguing option in an offense ran by Mike McDaniel, but his injury slowed him for much of the past three weeks, so it's unclear exactly how he will slot in behind starter Omarion Hampton and fellow reserve Kimani Vidal.",
       "description": "Mitchell (hamstring) was a full participant in Friday's practice and does not have an injury designation for Sunday's game against the Cardinals.",
@@ -68,6 +147,46 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Houston Texans running back David Montgomery is ready for his debut with his new team against the Bills in Week 1, and it will be exciting to see how the team rotates him and Woody Marks in the backfield. Montgomery is expected to handle most of the early-down work, and the always valuable touches near the end zone. The Texans struggled in the red zone last year, so they added Montgomery from the Lions this offseason. The veteran is expected to serve as the closer, while Marks is a home-run threat and third-down specialist. The uncertainty of the timeshare keeps Montgomery from ranking even higher, but for Week 1, he's the No. 21 RB in RotoBaller's PPR rankings. While he can be a low-end RB2 in many leagues, he's a very strong FLEX play, since the Texans will look to rely on the running game and their defense in Week 1.",
+      "metadata": {
+        "description": "Houston Texans running back David Montgomery is ready for his debut with his new team against the Bills in Week 1, and it will be exciting to see how the team rotates him and Woody Marks in the backfield. Montgomery is expected to handle most of the early-down work, and the always valuable touches near the end zone. The Texans struggled in the red zone last year, so they added Montgomery from the Lions this offseason. The veteran is expected to serve as the closer, while Marks is a home-run threat and third-down specialist. The uncertainty of the timeshare keeps Montgomery from ranking even higher, but for Week 1, he's the No. 21 RB in RotoBaller's PPR rankings. While he can be a low-end RB2 in many leagues, he's a very strong FLEX play, since the Texans will look to rely on the running game and their defense in Week 1.",
+        "title": "David Montgomery a Strong Flex Play vs. Buffalo",
+        "topic_id": "1404308369740742656",
+        "url": "https://www.rotoballer.com/player-news/david-montgomery-a-strong-flex-play-vs-buffalo/1929005"
+      },
+      "nfl_team": "HOU",
+      "player_id": "5892",
+      "player_name": "David Montgomery",
+      "position": "RB",
+      "published": 1789160765000,
+      "source": "rotoballer",
+      "source_key": "220701",
+      "story_id": "nfl|5892|rotoballer|220701|1789160765000",
+      "title": "David Montgomery a Strong Flex Play vs. Buffalo",
+      "url": "https://www.rotoballer.com/player-news/david-montgomery-a-strong-flex-play-vs-buffalo/1929005"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers tight end Tucker Kraft looks to continue his early-season momentum from last season into Week 1 as the Packers head to Minnesota to take on the Vikings. From Week 1 through Week 8 of last season, Kraft was TE1 in fantasy points per game and had five weeks of TE10 or better in those weeks, including two overall TE1 weeks. Kraft suffered a season-ending ACL tear in Week 9 against Carolina that shut his breakout season down, but he's off the Packers' injury report and is good to go for Week 1. It's possible Kraft's workload may be a bit more managed in the season's first few weeks, but when he's on the field, he's arguably the team's most dynamic receiver and YAC threat. Kraft is a no-brainer TE1 for fantasy against the Vikings in Week 1.",
+      "metadata": {
+        "description": "Green Bay Packers tight end Tucker Kraft looks to continue his early-season momentum from last season into Week 1 as the Packers head to Minnesota to take on the Vikings. From Week 1 through Week 8 of last season, Kraft was TE1 in fantasy points per game and had five weeks of TE10 or better in those weeks, including two overall TE1 weeks. Kraft suffered a season-ending ACL tear in Week 9 against Carolina that shut his breakout season down, but he's off the Packers' injury report and is good to go for Week 1. It's possible Kraft's workload may be a bit more managed in the season's first few weeks, but when he's on the field, he's arguably the team's most dynamic receiver and YAC threat. Kraft is a no-brainer TE1 for fantasy against the Vikings in Week 1.",
+        "title": "Tucker Kraft A Mid-Range TE1 Against Vikings",
+        "topic_id": "1404308369744936960",
+        "url": "https://www.rotoballer.com/player-news/tucker-kraft-a-mid-range-te1-against-vikings/1929003"
+      },
+      "nfl_team": "GB",
+      "player_id": "9484",
+      "player_name": "Tucker Kraft",
+      "position": "TE",
+      "published": 1789160672000,
+      "source": "rotoballer",
+      "source_key": "220702",
+      "story_id": "nfl|9484|rotoballer|220702|1789160672000",
+      "title": "Tucker Kraft A Mid-Range TE1 Against Vikings",
+      "url": "https://www.rotoballer.com/player-news/tucker-kraft-a-mid-range-te1-against-vikings/1929003"
+    },
+    {
       "analysis": "Davis required a cart to leave the practice field Friday, was diagnosed with a hip injury and then promptly ruled out on the Cowboys' final Week 1 practice report. As long as Davis is out, Emari Demercado, Hunter Luepke and practice-squad member Israel Abanikanda will the options to fill out the backfield behind No. 1 RB Javonte Williams.",
       "description": "Cowboys COO Stephen Jones said on 105.3 The Fan Dallas that Davis (hip) suffered a \"pretty serious injury\" at Friday's practice that \"could take him out for some period of time.\"",
       "metadata": {
@@ -86,6 +205,46 @@
       "story_id": "nfl|8800|rotowire|636858|1789160086000",
       "title": "Malik Davis - May miss 'some period of time'",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans quarterback C.J. Stroud will host the Bills in Week 1, as Stroud tries to prove he's worth a contract as a true franchise QB. He struggled down the stretch last season and in the playoffs, and he has lots of unanswered questions coming into his fourth NFL season. Last year, he threw 19 touchdowns and reached 3,041 passing yards in 14 regular-season games. His passer rating and adjusted QBR both improved last year compared to 2024, but his rough ending to the season leaves questions about his effectiveness. The Texans will look to rely on their defense and running game again this year, leaving Stroud as a low-volume, touchdown-reliant option in most matchups. The Bills were a top-10 defense against QBs last year, so Stroud is RotoBaller's No. 22 QB in Week 1, leaving him on the bench in all but the deepest two-QB leagues.",
+      "metadata": {
+        "description": "Houston Texans quarterback C.J. Stroud will host the Bills in Week 1, as Stroud tries to prove he's worth a contract as a true franchise QB. He struggled down the stretch last season and in the playoffs, and he has lots of unanswered questions coming into his fourth NFL season. Last year, he threw 19 touchdowns and reached 3,041 passing yards in 14 regular-season games. His passer rating and adjusted QBR both improved last year compared to 2024, but his rough ending to the season leaves questions about his effectiveness. The Texans will look to rely on their defense and running game again this year, leaving Stroud as a low-volume, touchdown-reliant option in most matchups. The Bills were a top-10 defense against QBs last year, so Stroud is RotoBaller's No. 22 QB in Week 1, leaving him on the bench in all but the deepest two-QB leagues.",
+        "title": "C.J. Stroud Is a Low-End QB2 in Week 1",
+        "topic_id": "1404302077286494208",
+        "url": "https://www.rotoballer.com/player-news/c-j-stroud-is-a-low-end-qb2-in-week-1/1928986"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9758",
+      "player_name": "C.J. Stroud",
+      "position": "QB",
+      "published": 1789159570000,
+      "source": "rotoballer",
+      "source_key": "220699",
+      "story_id": "nfl|9758|rotoballer|220699|1789159570000",
+      "title": "C.J. Stroud Is a Low-End QB2 in Week 1",
+      "url": "https://www.rotoballer.com/player-news/c-j-stroud-is-a-low-end-qb2-in-week-1/1928986"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints running back Alvin Kamara (knee) practiced fully on Friday and is cleared for the Week 1 season opener on Sunday in Detroit against the Lions, but NewOrleans.Football's Nick Underhill is not expecting a huge role for Kamara, even if he does play. Even with Audric Estime (thigh) ruled out for Week 1, Underhill believes that the Saints have enough depth behind starter Travis Etienne Jr. with Kendre Miller for the Saints to take it easy on Kamara, who missed most of training camp with an MCL sprain in his knee. The Saints officially listed Kamara as questionable for the season opener this weekend, but he will likely be active in a limited role, which makes him an easy fade in starting fantasy lineups. The 31-year-old five-time Pro Bowler is no longer the Saints' lead back in 2026 after the addition of Etienne, but once he is fully back, Kamara should handle the primary pass-catching role, which will give him some flex appeal on a weekly basis in PPR leagues. But in Week 1, fantasy managers should leave Kamara on their bench.",
+      "metadata": {
+        "description": "New Orleans Saints running back Alvin Kamara (knee) practiced fully on Friday and is cleared for the Week 1 season opener on Sunday in Detroit against the Lions, but NewOrleans.Football's Nick Underhill is not expecting a huge role for Kamara, even if he does play. Even with Audric Estime (thigh) ruled out for Week 1, Underhill believes that the Saints have enough depth behind starter Travis Etienne Jr. with Kendre Miller for the Saints to take it easy on Kamara, who missed most of training camp with an MCL sprain in his knee. The Saints officially listed Kamara as questionable for the season opener this weekend, but he will likely be active in a limited role, which makes him an easy fade in starting fantasy lineups. The 31-year-old five-time Pro Bowler is no longer the Saints' lead back in 2026 after the addition of Etienne, but once he is fully back, Kamara should handle the primary pass-catching role, which will give him some flex appeal on a weekly basis in PPR leagues. But in Week 1, fantasy managers should leave Kamara on their bench.",
+        "title": "Alvin Kamara Not Expected to Have a Big Role in Week 1",
+        "topic_id": "1404302077290688512",
+        "url": "https://www.rotoballer.com/player-news/alvin-kamara-not-expected-to-have-a-big-role-in-week-1/1928983"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1789159462000,
+      "source": "rotoballer",
+      "source_key": "220700",
+      "story_id": "nfl|4035|rotoballer|220700|1789159462000",
+      "title": "Alvin Kamara Not Expected to Have a Big Role in Week 1",
+      "url": "https://www.rotoballer.com/player-news/alvin-kamara-not-expected-to-have-a-big-role-in-week-1/1928983"
     },
     {
       "analysis": "Richardson will backup Daniel Jones to open the season. ",
@@ -109,6 +268,26 @@
       "url": "https://www.fantasypros.com/nfl/news/607231/anthony-richardson-sr-illness-off-injury-report-sunday.php"
     },
     {
+      "analysis": null,
+      "description": "Carolina Panthers running back Jonathon Brooks (groin) doesn't carry an injury designation ahead of Sunday's Week 1 matchup against the Chicago Bears. Brooks was cleared to play after practicing throughout the week. According to Panthers head coach Dave Canales, he will face \"no limitations\" in reps. The 23-year-old missed all of last season with a torn ACL and has only logged three games over his two-year career. He will likely split carries with backfield teammate Chuba Hubbard (hamstring), who was also cleared after dealing with a hamstring injury since mid-August. Brooks will face a Bears defense that allowed 134.5 rushing yards per game, ranking 27th in the NFL last year. With a positive matchup, Brooks emerges as a FLEX option and is ranked 75th overall (RB32) for Week 1. Even with the split with Hubbard, Brooks should produce enough to be a solid option for fantasy managers in Week 1.",
+      "metadata": {
+        "description": "Carolina Panthers running back Jonathon Brooks (groin) doesn't carry an injury designation ahead of Sunday's Week 1 matchup against the Chicago Bears. Brooks was cleared to play after practicing throughout the week. According to Panthers head coach Dave Canales, he will face \"no limitations\" in reps. The 23-year-old missed all of last season with a torn ACL and has only logged three games over his two-year career. He will likely split carries with backfield teammate Chuba Hubbard (hamstring), who was also cleared after dealing with a hamstring injury since mid-August. Brooks will face a Bears defense that allowed 134.5 rushing yards per game, ranking 27th in the NFL last year. With a positive matchup, Brooks emerges as a FLEX option and is ranked 75th overall (RB32) for Week 1. Even with the split with Hubbard, Brooks should produce enough to be a solid option for fantasy managers in Week 1.",
+        "title": "Jonathon Brooks Emerging as a Flex Option For Week 1",
+        "topic_id": "1404299559282266112",
+        "url": "https://www.rotoballer.com/player-news/jonathon-brooks-off-the-injury-report-emerging-as-a-flex-option-for-week1/1928979"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1789158859000,
+      "source": "rotoballer",
+      "source_key": "220697",
+      "story_id": "nfl|11583|rotoballer|220697|1789158859000",
+      "title": "Jonathon Brooks Emerging as a Flex Option For Week 1",
+      "url": "https://www.rotoballer.com/player-news/jonathon-brooks-off-the-injury-report-emerging-as-a-flex-option-for-week1/1928979"
+    },
+    {
       "analysis": "Love has been tending to a high-ankle sprain that he suffered preseason Week 1, and nearly one month later, he was able to log three consecutive limited practices and set himself up for his pro debut. Ultimately, the Cardinals may not make a call on Love's status until roughly 90 minutes before Sunday's 4:25 p.m. ET kickoff, which was corroborated by coach Mike LaFleur, who told Josh Weinfuss of ESPN.com on Friday that Love will be a game-time decision. In the end, an active Love on Sunday would share the backfield with Tyler Allgeier.",
       "description": "Love (ankle) is listed as questionable for Sunday's game at the Chargers, Theo Mackie of The Arizona Republic reports.",
       "metadata": {
@@ -127,6 +306,26 @@
       "story_id": "nfl|13287|rotowire|636855|1789158785000",
       "title": "Jeremiyah Love - Questionable for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders wide receiver Tre Tucker is expected to see the most targets for the Silver and Black against the visiting Miami Dolphins in Week 1. The fourth-year wideout was a top target in the receiving corps last season, but stands to inherit an even heavier workload with star tight end Brock Bowers (knee) sidelined for Sunday's home opener. Tucker had 57 catches for a team-leading 696 yards and five touchdowns last season. He also showed chemistry with new starting QB Kirk Cousins during the preseason, catching five passes for over 50 yards on three drives together. Even with star running back Ashton Jeanty's ability to catch short passes, Klint Kubiak will lean on Tucker to man the air game in Bowers' absence. Tucker is a high-upside flex option against a weak Dolphins defense to kick off the 2026 campaign.",
+      "metadata": {
+        "description": "Las Vegas Raiders wide receiver Tre Tucker is expected to see the most targets for the Silver and Black against the visiting Miami Dolphins in Week 1. The fourth-year wideout was a top target in the receiving corps last season, but stands to inherit an even heavier workload with star tight end Brock Bowers (knee) sidelined for Sunday's home opener. Tucker had 57 catches for a team-leading 696 yards and five touchdowns last season. He also showed chemistry with new starting QB Kirk Cousins during the preseason, catching five passes for over 50 yards on three drives together. Even with star running back Ashton Jeanty's ability to catch short passes, Klint Kubiak will lean on Tucker to man the air game in Bowers' absence. Tucker is a high-upside flex option against a weak Dolphins defense to kick off the 2026 campaign.",
+        "title": "Tre Tucker to Lead Raiders' Aerial Assault in Week 1",
+        "topic_id": "1404299559278071808",
+        "url": "https://www.rotoballer.com/player-news/tre-tucker-to-lead-raiders-aerial-assault-in-week-1/1928976"
+      },
+      "nfl_team": "LV",
+      "player_id": "10213",
+      "player_name": "Tre Tucker",
+      "position": "WR",
+      "published": 1789158727000,
+      "source": "rotoballer",
+      "source_key": "220698",
+      "story_id": "nfl|10213|rotoballer|220698|1789158727000",
+      "title": "Tre Tucker to Lead Raiders' Aerial Assault in Week 1",
+      "url": "https://www.rotoballer.com/player-news/tre-tucker-to-lead-raiders-aerial-assault-in-week-1/1928976"
     },
     {
       "analysis": "The rookie is officially being listed as questionable to play in Sunday's season opener. There have been a lot of optimistic reports surrounding his availability, so it looks more likely than not that he will suit up against the Chargers, although that decision won't be made until closer to game time. If he is ruled out, Tyler Allgeier will be primed for a massive workload in Week 1 in Love's absence.",
@@ -213,10 +412,10 @@
       "url": "https://www.fantasypros.com/nfl/news/607223/ashton-jeanty-ankle-off-injury-report-sunday.php"
     },
     {
-      "analysis": "The Jaguars listed Meyers as a limited participant all week, but he shed his non-contact jersey Thursday and has now been deemed ready to play. He figures to occupy a top-three role alongside Parker Washington and Brian Thomas.",
+      "analysis": "The Jaguars listed Meyers as a limited participant all week, but he shed his non-contact jersey Friday and has now been deemed ready to play. He figures to occupy a top-three role alongside Parker Washington and Brian Thomas.",
       "description": "Meyers (thumb) doesn't have an injury designation for Sunday's matchup with Cleveland, Mia O'Brien of ESPN Radio reports.",
       "metadata": {
-        "analysis": "The Jaguars listed Meyers as a limited participant all week, but he shed his non-contact jersey Thursday and has now been deemed ready to play. He figures to occupy a top-three role alongside Parker Washington and Brian Thomas.",
+        "analysis": "The Jaguars listed Meyers as a limited participant all week, but he shed his non-contact jersey Friday and has now been deemed ready to play. He figures to occupy a top-three role alongside Parker Washington and Brian Thomas.",
         "description": "Meyers (thumb) doesn't have an injury designation for Sunday's matchup with Cleveland, Mia O'Brien of ESPN Radio reports.",
         "title": "Jakobi Meyers - Cleared to play Sunday",
         "topic_id": "1404235382207369216"
@@ -419,6 +618,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Green Bay Packers wide receiver Matthew Golden looks to hit the ground running in Week 1 when the Packers face the Minnesota Vikings in both teams' season opener. Last season's first-round pick, Golden was just a few complete deep passes from a whole different discussion about him for fantasy football this season. With just 40 targets and 29 receptions in 2025, along with sporadic time on the field, Golden was a bust on the stat sheet and for fantasy managers. This season, things could be different in the Packers' receiver room with Romeo Doubs and Dontayvion Wicks in new locations, so Golden will get every opportunity to stay on the field this season and produce. For fantasy, Golden is an immediate flex-worthy upside play against the Vikings in Week 1, who struggled to contain outside receivers as they allowed the third-most fantasy points to that cohort last season.",
+      "metadata": {
+        "description": "Green Bay Packers wide receiver Matthew Golden looks to hit the ground running in Week 1 when the Packers face the Minnesota Vikings in both teams' season opener. Last season's first-round pick, Golden was just a few complete deep passes from a whole different discussion about him for fantasy football this season. With just 40 targets and 29 receptions in 2025, along with sporadic time on the field, Golden was a bust on the stat sheet and for fantasy managers. This season, things could be different in the Packers' receiver room with Romeo Doubs and Dontayvion Wicks in new locations, so Golden will get every opportunity to stay on the field this season and produce. For fantasy, Golden is an immediate flex-worthy upside play against the Vikings in Week 1, who struggled to contain outside receivers as they allowed the third-most fantasy points to that cohort last season.",
+        "title": "Matthew Golden Has Loads of Fantasy Upside In Week 1",
+        "topic_id": "1404292008754909184",
+        "url": "https://www.rotoballer.com/player-news/matthew-golden-has-loads-of-fantasy-upside-in-week-1/1928967"
+      },
+      "nfl_team": "GB",
+      "player_id": "12501",
+      "player_name": "Matthew Golden",
+      "position": "WR",
+      "published": 1789157142000,
+      "source": "rotoballer",
+      "source_key": "220696",
+      "story_id": "nfl|12501|rotoballer|220696|1789157142000",
+      "title": "Matthew Golden Has Loads of Fantasy Upside In Week 1",
+      "url": "https://www.rotoballer.com/player-news/matthew-golden-has-loads-of-fantasy-upside-in-week-1/1928967"
+    },
+    {
       "analysis": "Hall is heading into the weekend entirely free of any injury designation ahead of the team's season opener against the Titans on Sunday. He shouldn't have any substantial limitations to his workload in this matchup, and he projects to be a high-quality fantasy asset in this game and beyond if he can stay healthy.",
       "description": "Breece Hall (groin) is off of the injury report for Sunday's game against the Tennessee Titans.",
       "metadata": {
@@ -438,6 +657,26 @@
       "story_id": "nfl|8155|fantasy_pros|607198|1789156815152",
       "title": "Breece Hall (groin) off injury report for Sunday",
       "url": "https://www.fantasypros.com/nfl/news/607198/breece-hall-groin-off-injury-report-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back MarShawn Lloyd looks to hit the ground running in his first career NFL regular-season start in Week 1 as the Packers square off with the Minnesota Vikings. With Josh Jacobs (commissioner's exempt list) not playing in this contest, Lloyd is the starting running back and is expected to carry the bulk of the load for Green Bay. Lloyd's lone game action in the NFL consists of exactly one game: Week 2 in 2024, where Lloyd touched the ball seven times (six carries, one reception) and turned that opportunity into 18 yards. Expecting Lloyd to produce with so little real game-time experience takes a leap of faith, but the Packers' brass are behind him. For fantasy purposes, consider Lloyd more of a flex play in Week 1 against a middle-of-the-road Vikings front that allowed the eighth-fewest fantasy points to opposing running backs last season.",
+      "metadata": {
+        "description": "Green Bay Packers running back MarShawn Lloyd looks to hit the ground running in his first career NFL regular-season start in Week 1 as the Packers square off with the Minnesota Vikings. With Josh Jacobs (commissioner's exempt list) not playing in this contest, Lloyd is the starting running back and is expected to carry the bulk of the load for Green Bay. Lloyd's lone game action in the NFL consists of exactly one game: Week 2 in 2024, where Lloyd touched the ball seven times (six carries, one reception) and turned that opportunity into 18 yards. Expecting Lloyd to produce with so little real game-time experience takes a leap of faith, but the Packers' brass are behind him. For fantasy purposes, consider Lloyd more of a flex play in Week 1 against a middle-of-the-road Vikings front that allowed the eighth-fewest fantasy points to opposing running backs last season.",
+        "title": "Flex Treatment For MarShawn Lloyd in Week 1",
+        "topic_id": "1404290750757302272",
+        "url": "https://www.rotoballer.com/player-news/flex-treatment-for-marshawn-lloyd-in-week-1/1928958"
+      },
+      "nfl_team": "GB",
+      "player_id": "11581",
+      "player_name": "MarShawn Lloyd",
+      "position": "RB",
+      "published": 1789156810000,
+      "source": "rotoballer",
+      "source_key": "220695",
+      "story_id": "nfl|11581|rotoballer|220695|1789156810000",
+      "title": "Flex Treatment For MarShawn Lloyd in Week 1",
+      "url": "https://www.rotoballer.com/player-news/flex-treatment-for-marshawn-lloyd-in-week-1/1928958"
     },
     {
       "analysis": "Davis was carted off the practice field Friday and is undergoing further tests to determine the severity of the injury. Considering he's already been ruled out for Week 1, there could be cause for concern that a multi-week absence is in store for Davis, but as long as he's sidelined Emari Demercado, Hunter Luepke and practice-squad member Israel Abanikanda will be the potential players available for RB reps behind starter Javonte Williams.",
@@ -481,6 +720,26 @@
       "url": "https://www.fantasypros.com/nfl/news/607194/dandre-swift-agrees-to-three-year-extension-with-bears.php"
     },
     {
+      "analysis": null,
+      "description": "Green Bay Packers quarterback Jordan Love is looking to kick off his 2026 season in style as the Packers travel to Minneapolis to take on the Minnesota Vikings in their season opener. Love's 2025 season was a lot like his 2024, with very efficient play, but ultimately saddled by low pass volume that doesn't make his play pop in fantasy football. Yet again, the Packers leaned on Josh Jacobs and the running game, turning Love into a game manager. The receiving room has condensed in 2026, as Romeo Doubs and Dontayvion Wicks are in new locales, so the hope is that Christian Watson, Tucker Kraft, Jayden Reed, and Matthew Golden can condense targets in this offense with some added pass volume. For Week 1, Love is a QB2 option, best suited to start in 2QB leagues rather than single-quarterback leagues.",
+      "metadata": {
+        "description": "Green Bay Packers quarterback Jordan Love is looking to kick off his 2026 season in style as the Packers travel to Minneapolis to take on the Minnesota Vikings in their season opener. Love's 2025 season was a lot like his 2024, with very efficient play, but ultimately saddled by low pass volume that doesn't make his play pop in fantasy football. Yet again, the Packers leaned on Josh Jacobs and the running game, turning Love into a game manager. The receiving room has condensed in 2026, as Romeo Doubs and Dontayvion Wicks are in new locales, so the hope is that Christian Watson, Tucker Kraft, Jayden Reed, and Matthew Golden can condense targets in this offense with some added pass volume. For Week 1, Love is a QB2 option, best suited to start in 2QB leagues rather than single-quarterback leagues.",
+        "title": "Jordan Love More of a QB2 in Week 1 Against Vikings",
+        "topic_id": "1404288233621164032",
+        "url": "https://www.rotoballer.com/player-news/jordan-love-more-of-a-qb2-in-week-1-against-vikings/1928946"
+      },
+      "nfl_team": "GB",
+      "player_id": "6804",
+      "player_name": "Jordan Love",
+      "position": "QB",
+      "published": 1789156146000,
+      "source": "rotoballer",
+      "source_key": "220694",
+      "story_id": "nfl|6804|rotoballer|220694|1789156146000",
+      "title": "Jordan Love More of a QB2 in Week 1 Against Vikings",
+      "url": "https://www.rotoballer.com/player-news/jordan-love-more-of-a-qb2-in-week-1-against-vikings/1928946"
+    },
+    {
       "analysis": "As a member of the Bears, Swift went for 1,345 yards from scrimmage and six total TDs in 2024 and 1,386 such yards and 10 touchdowns in 2025, which was enough for the team to commit to him through the 2029 campaign. He'll still have to contend with Kyle Monangai out of the backfield for the foreseeable future, but Swift has proved capable of heavy workloads, having averaged 235 touches per season over the last three years.",
       "description": "The Bears and Swift agreed to a three-year, $33.75 million contract Friday, Adam Schefter of ESPN reports.",
       "metadata": {
@@ -499,6 +758,26 @@
       "story_id": "nfl|6790|rotowire|636849|1789155907000",
       "title": "D'Andre Swift - Agrees to extension",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns head coach Todd Monken said on Friday that he has not decided whether or not rookie quarterback Taylen Green will have a package of plays for Sunday's Week 1 season opener on the road against the Jacksonville Jaguars, according to Daryl Ruiter of 92.3 The Fan. Green, a sixth-round pick in April out of Arkansas, will open his first NFL season in Cleveland as the QB3 behind starter Deshaun Watson and backup Shedeur Sanders, with Dillon Gabriel (back) starting on Injured Reserve. If the 23-year-old does get into Sunday's game against the Jaguars, the 6-foot-6, 230-pounder might only see a couple of snaps on offense. Green has an intriguing size/speed combination at the QB position, but in 2026, he is merely a bench stash in deep dynasty/keeper formats.",
+      "metadata": {
+        "description": "Cleveland Browns head coach Todd Monken said on Friday that he has not decided whether or not rookie quarterback Taylen Green will have a package of plays for Sunday's Week 1 season opener on the road against the Jacksonville Jaguars, according to Daryl Ruiter of 92.3 The Fan. Green, a sixth-round pick in April out of Arkansas, will open his first NFL season in Cleveland as the QB3 behind starter Deshaun Watson and backup Shedeur Sanders, with Dillon Gabriel (back) starting on Injured Reserve. If the 23-year-old does get into Sunday's game against the Jaguars, the 6-foot-6, 230-pounder might only see a couple of snaps on offense. Green has an intriguing size/speed combination at the QB position, but in 2026, he is merely a bench stash in deep dynasty/keeper formats.",
+        "title": "Taylen Green's Week 1 Role is Undecided",
+        "topic_id": "1404285716573270016",
+        "url": "https://www.rotoballer.com/player-news/taylen-greens-week-1-role-is-undecided/1928936"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13306",
+      "player_name": "Taylen Green",
+      "position": "QB",
+      "published": 1789155438000,
+      "source": "rotoballer",
+      "source_key": "220693",
+      "story_id": "nfl|13306|rotoballer|220693|1789155438000",
+      "title": "Taylen Green's Week 1 Role is Undecided",
+      "url": "https://www.rotoballer.com/player-news/taylen-greens-week-1-role-is-undecided/1928936"
     },
     {
       "analysis": "When asked if an absence of 1-2 games was an accurate expectation, Kubiak replied, \"I'm not going to talk about timelines,\" per Sam Warren of The Athletic. All eyes will be on Bowers' practice participation (or lack thereof) next week. For now, the Raiders have Michael Mayer ticketed for a large role at tight end, with Ian Thomas and various WRs also in the mix to pick up some unexpected snaps in Bowers' absence this Sunday against the Dolphins.",
@@ -588,7 +867,7 @@
       "metadata": {
         "analysis": "Ja'Marr Chase (knee) is also cleared to play, giving Joe Burrow plenty of firepower for the regular-season opener. Higgins seemed to stay healthy throughout spring and summer before missing a few practices with a heel contusion last week. He should be ready for his usual role come Sunday.",
         "description": "Higgins (heel) will play in Sunday's game against Tampa Bay after logging full practices Wednesday through Friday.",
-        "title": "Tee Higgins - Will play Sunday",
+        "title": "Tee Higgins - Logs another full practice",
         "topic_id": "1404216505951895552"
       },
       "nfl_team": "CIN",
@@ -599,7 +878,7 @@
       "source": "rotowire",
       "source_key": "636845",
       "story_id": "nfl|6801|rotowire|636845|1789153657000",
-      "title": "Tee Higgins - Will play Sunday",
+      "title": "Tee Higgins - Logs another full practice",
       "url": null
     },
     {
@@ -628,7 +907,7 @@
       "metadata": {
         "analysis": "Egbuka initially sustained a sprained toe during an Aug. 12 practice that sidelined him until this week, but his ability to handle every practice rep Wednesday through Friday has him in the clear for Sunday. With numerous injuries affecting the Buccaneers' receiving corps last season, he still put up a 63-938-6 line on 127 targets in 17 regular-season games as a rookie. Considering Mike Evans is out of the picture, Egbuka should be the team's featured WR in a matchup against the Bengals that should produce plenty of splash plays.",
         "description": "Coach Todd Bowles said Friday that Egbuka (toe) is \"full go\" ahead of Sunday's contest in Cincinnati, per River Wells of SI.com, and the second-year wide receiver doesn't have a designation for Week 1 action.",
-        "title": "Emeka Egbuka - Ready for Sunday",
+        "title": "Emeka Egbuka - Full-go for Week 1",
         "topic_id": "1404210214231625728"
       },
       "nfl_team": "TB",
@@ -639,7 +918,7 @@
       "source": "rotowire",
       "source_key": "636842",
       "story_id": "nfl|12514|rotowire|636842|1789152251000",
-      "title": "Emeka Egbuka - Ready for Sunday",
+      "title": "Emeka Egbuka - Full-go for Week 1",
       "url": null
     },
     {
@@ -1012,7 +1291,7 @@
       "metadata": {
         "analysis": "Tagovailoa opened the week getting the call as Atlanta's Week 1 starting quarterback but ended it sidelined due to an oblique injury that he sustained during Thursday's practice. Coach Kevin Stefanski told Marc Raimondi of ESPN.com on Friday that Tagovailoa is \"week-to-week, which would seem to suggest multiple DNPs are on the horizon for the QB. Iny any case, Tagovailoa will join Michael Penix (knee) in street clothes Sunday, while Cooper Rush gets the nod under center and Marc Raimondi of ESPN.com serves as his backup.",
         "description": "Tagovailoa (oblique) has been ruled out for Sunday's game at Pittsburgh, Tori McElhaney of the Falcons' official site reports.",
-        "title": "Tua Tagovailoa - Won't play Sunday",
+        "title": "Tua Tagovailoa - Ruled out for opener",
         "topic_id": "1404193916873359360"
       },
       "nfl_team": "ATL",
@@ -1023,7 +1302,7 @@
       "source": "rotowire",
       "source_key": "636834",
       "story_id": "nfl|6768|rotowire|636834|1789148178000",
-      "title": "Tua Tagovailoa - Won't play Sunday",
+      "title": "Tua Tagovailoa - Ruled out for opener",
       "url": null
     },
     {
@@ -1561,11 +1840,11 @@
     },
     {
       "analysis": "Croskey-Merritt was limited in practice Wednesday and Thursday but will apparently be fine for the season opener. He's got a tough matchup on the road in Philadelphia, and he'll will be sharing snaps with Rachaad White in some fashion, regardless of health/durability considerations.",
-      "description": "Croskey-Merritt (groin) will play in Sunday's game against the Eagles, Tashan Reed reports after Commanders coach Dan Quinn's update Friday.",
+      "description": "Croskey-Merritt (groin) will play in Sunday's game against the Eagles, Tashan Reed of The Washington Post reports.",
       "metadata": {
         "analysis": "Croskey-Merritt was limited in practice Wednesday and Thursday but will apparently be fine for the season opener. He's got a tough matchup on the road in Philadelphia, and he'll will be sharing snaps with Rachaad White in some fashion, regardless of health/durability considerations.",
-        "description": "Croskey-Merritt (groin) will play in Sunday's game against the Eagles, Tashan Reed reports after Commanders coach Dan Quinn's update Friday.",
-        "title": "Jacory Croskey-Merritt - Will play Sunday at Carolina",
+        "description": "Croskey-Merritt (groin) will play in Sunday's game against the Eagles, Tashan Reed of The Washington Post reports.",
+        "title": "Jacory Croskey-Merritt - Will play in Week 1",
         "topic_id": "1404180073866629120"
       },
       "nfl_team": "WAS",
@@ -1576,7 +1855,7 @@
       "source": "rotowire",
       "source_key": "636828",
       "story_id": "nfl|12533|rotowire|636828|1789144992000",
-      "title": "Jacory Croskey-Merritt - Will play Sunday at Carolina",
+      "title": "Jacory Croskey-Merritt - Will play in Week 1",
       "url": null
     },
     {
@@ -55454,46 +55733,6 @@
       "story_id": "nfl|9488|rotowire|633382|1786585682000",
       "title": "Jaxon Smith-Njigba - Always willing to be coached up",
       "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Minnesota Vikings starting quarterback Kyler Murray had another crisp day of training camp practice on Wednesday that included a number of connections with top wide receiver Justin Jefferson, according to Vikings beat writer Will Ragatz. \"Their rapport seems to be growing,\" Ragatz wrote. Jefferson is no stranger to working with a lot of different signal-callers during his six years in the NFL -- this will be the fourth different QB he's worked with for the fourth straight season. The 27-year-old former 22nd overall pick from LSU has produced with all of the different QBs in Minnesota, recording a 1,000-yard season in all six of his seasons to this point, including a whopping 42 touchdown receptions in 94 regular-season games. Jefferson had a career-low 1,048 receiving yards and only two touchdowns in 17 starts a year ago, but the four-time Pro Bowler should be primed for a bounce-back in 2026 with Murray, who might be the most talented all-around QB he's worked with, if he can stay healthy. Jefferson is a no-brainer top-10 fantasy WR and is ranked No. 6 at his position at RotoBaller.",
-      "metadata": {
-        "description": "Minnesota Vikings starting quarterback Kyler Murray had another crisp day of training camp practice on Wednesday that included a number of connections with top wide receiver Justin Jefferson, according to Vikings beat writer Will Ragatz. \"Their rapport seems to be growing,\" Ragatz wrote. Jefferson is no stranger to working with a lot of different signal-callers during his six years in the NFL -- this will be the fourth different QB he's worked with for the fourth straight season. The 27-year-old former 22nd overall pick from LSU has produced with all of the different QBs in Minnesota, recording a 1,000-yard season in all six of his seasons to this point, including a whopping 42 touchdown receptions in 94 regular-season games. Jefferson had a career-low 1,048 receiving yards and only two touchdowns in 17 starts a year ago, but the four-time Pro Bowler should be primed for a bounce-back in 2026 with Murray, who might be the most talented all-around QB he's worked with, if he can stay healthy. Jefferson is a no-brainer top-10 fantasy WR and is ranked No. 6 at his position at RotoBaller.",
-        "title": "Justin Jefferson's Rapport With New QB \"Seems to be Growing\"",
-        "topic_id": "1393474467635658752",
-        "url": "https://www.rotoballer.com/player-news/justin-jeffersons-rapport-with-new-qb-seems-to-be-growing/1907971"
-      },
-      "nfl_team": "MIN",
-      "player_id": "6794",
-      "player_name": "Justin Jefferson",
-      "position": "WR",
-      "published": 1786578126000,
-      "source": "rotoballer",
-      "source_key": "218468",
-      "story_id": "nfl|6794|rotoballer|218468|1786578126000",
-      "title": "Justin Jefferson's Rapport With New QB \"Seems to be Growing\"",
-      "url": "https://www.rotoballer.com/player-news/justin-jeffersons-rapport-with-new-qb-seems-to-be-growing/1907971"
-    },
-    {
-      "analysis": null,
-      "description": "Houston Texans wide receiver Nico Collins has looked strong at training camp, according to Texans analyst John Harris. During the team's indoor practice on Tuesday, Collins made big play after big play. Collins is coming off three straight 1,000-yard seasons and has averaged 14 half-PPR fantasy points per game since 2023. With players like Jayden Higgins emerging in his second season and Tank Dell returning from injury, volume may become more volatile. He will need to rely more on efficiency and touchdowns in 2026, which will hinge on quarterback C.J. Stroud's performance this season. When healthy and playing well, Collins is a sure-fire WR1 in fantasy, so fantasy managers should consider the sixth-year receiver this season.",
-      "metadata": {
-        "description": "Houston Texans wide receiver Nico Collins has looked strong at training camp, according to Texans analyst John Harris. During the team's indoor practice on Tuesday, Collins made big play after big play. Collins is coming off three straight 1,000-yard seasons and has averaged 14 half-PPR fantasy points per game since 2023. With players like Jayden Higgins emerging in his second season and Tank Dell returning from injury, volume may become more volatile. He will need to rely more on efficiency and touchdowns in 2026, which will hinge on quarterback C.J. Stroud's performance this season. When healthy and playing well, Collins is a sure-fire WR1 in fantasy, so fantasy managers should consider the sixth-year receiver this season.",
-        "title": "Nico Collins Shining in Training Camp",
-        "topic_id": "1393473210103640077",
-        "url": "https://www.rotoballer.com/player-news/nico-collins-shining-in-training-camp/1907968"
-      },
-      "nfl_team": "HOU",
-      "player_id": "7569",
-      "player_name": "Nico Collins",
-      "position": "WR",
-      "published": 1786577706000,
-      "source": "rotoballer",
-      "source_key": "218466",
-      "story_id": "nfl|7569|rotoballer|218466|1786577706000",
-      "title": "Nico Collins Shining in Training Camp",
-      "url": "https://www.rotoballer.com/player-news/nico-collins-shining-in-training-camp/1907968"
     }
   ]
 }
