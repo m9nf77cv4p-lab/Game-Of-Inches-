@@ -2,120 +2,180 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2844**
-- Newly captured: **54**
+- Stored stories: **2874**
+- Newly captured: **30**
 
 ## Latest news
 
-- **NEW — Michael Mayer** — Michael Mayer agrees to a three-year, $45 million deal with Raiders (2026-09-12T15:15:45.516000Z)
+- **NEW — Malik Davis** — Malik Davis - Lands on injured reserve (2026-09-12T18:20:11Z)
+  - Davis underwent surgery Saturday for a hip injury, and the move to IR means he'll be required to miss at least the next four games, though an exact timeline for his return is unclear. With Davis sidelined, the Cowboys bolstered their backfield depth by signing Israel Abanikanda from the practice squad to the active roster, with the latter serving as the RB3 behind Javonte Williams and Emari Demercado.
+- **Michael Mayer** — Michael Mayer agrees to a three-year, $45 million deal with Raiders (2026-09-12T15:15:45.516000Z)
   - Mayer is an all around contributor, making it well worth the investment for the Raiders. For fantasy, it means that he is behind Brock Bowers for the long term, but maybe the Raiders will employ more tight end sets so both can eat, as they are likely the two most talented pass catchers on the team at this point in time. Time will tell what his fantasy value will become.
   - Source: https://www.fantasypros.com/nfl/news/607334/michael-mayer-agrees-to-three-year-45-million-deal-with-raiders.php
-- **NEW — Tucker Kraft** — Tucker Kraft signs four year, $75 million deal with Packers (2026-09-12T15:15:45.315000Z)
+- **Tucker Kraft** — Tucker Kraft signs four year, $75 million deal with Packers (2026-09-12T15:15:45.315000Z)
   - Kraft was on his way to a massive season in 2025 before going down with a torn ACL. He gets his payday as the Packers lock in their emergeing star for the long haul.
   - Source: https://www.fantasypros.com/nfl/news/607333/tucker-kraft-signs-four-year-75-million-deal-with-packers.php
-- **NEW — Michael Mayer** — Michael Mayer - Gets three-year extension with Las Vegas (2026-09-12T14:59:35Z)
+- **Michael Mayer** — Michael Mayer - Gets three-year extension with Las Vegas (2026-09-12T14:59:35Z)
   - The deal includes $30 million guaranteed, and the $15 million APY ranks fourth among current tight ends. Mayer has operated as the Raiders' TE2 for the past couple of seasons, but the fourth-year pro is expected to operate in an expanded role Sunday against the Dolphins in the absence of Brock Bowers, who is expected to miss at least one or two games after undergoing a meniscus trim procedure Tuesday. Mayer finished the 2025 regular season with 35 catches (on 50 targets) for 328 yards and a touchdown across 13 games.
-- **NEW — Tucker Kraft** — Tucker Kraft - Agrees to four-year extension (2026-09-12T14:52:20Z)
+- **Tucker Kraft** — Tucker Kraft - Agrees to four-year extension (2026-09-12T14:52:20Z)
   - The deal includes a $26.5 million signing bonus, making Kraft the NFL's highest-paid tight end and under contract with the Packers through 2030, per Jeremy Fowler of ESPN.com. Kraft was one of the most productive tight ends through the first half of the 2025 regular season before his campaign abruptly ended in Week 9 due to a torn ACL. He's not on the injury report for Sunday's regular-season opener against the Vikings, and the 2023 third-rounder is expected to be one of the top targets for Jordan Love in the passing game, alongside fellow tight end Jonnu Smith and wide receivers Christian Watson, Jayden Reed and Matthew Golden.
-- **NEW — Amon-Ra St. Brown** — Amon-Ra St. Brown - Contract restructured by Detroit (2026-09-12T14:08:51Z)
+- **NEW — Harold Fannin** — Harold Fannin Jr. a Strong TE1 Against Jacksonville (2026-09-12T14:24:05Z)
+  - Source: https://www.rotoballer.com/player-news/harold-fannin-jr-a-strong-te1-against-jacksonville/1929788
+- **Amon-Ra St. Brown** — Amon-Ra St. Brown - Contract restructured by Detroit (2026-09-12T14:08:51Z)
   - Per Spotrac, $26 million of St. Brown's salary was converted into a signing bonus, which alone created $20.8 million in cap space to give the Lions more flexibility for the next two seasons. St. Brown has been one of the most productive receivers since being selected by the Lions in the fourth round of the 2021 NFL Draft, having logged 100-plus catches and 1,000-plus receiving yards in each of the last four years. He finished the 2025 regular season with 117 catches (on a career-high 172 targets) for 1,401 yards and 11 touchdowns across 17 games. He'll once again lead a Lions pass-catching group that also includes Jameson Williams, Isaac TeSlaa and Sam LaPorta.
-- **NEW — Kyle Pitts** — Kyle Pitts Sr. Looking Like a Risky Low-End TE1 in Week 1 (2026-09-12T12:19:05Z)
+- **NEW — Jerry Jeudy** — Jerry Jeudy Should Stay on Benches in Week 1 (2026-09-12T14:01:05Z)
+  - Source: https://www.rotoballer.com/player-news/jerry-jeudy-should-stay-on-benches-in-week-1/1929773
+- **NEW — KC Concepcion** — KC Concepcion Has Upside Flex Appeal in Week 1 (2026-09-12T13:52:14Z)
+  - Source: https://www.rotoballer.com/player-news/kc-concepcion-has-upside-flex-appeal-in-week-1/1929765
+- **NEW — Denzel Boston** — Denzel Boston a Risky Flex in NFL Debut (2026-09-12T13:41:12Z)
+  - Source: https://www.rotoballer.com/player-news/denzel-boston-a-risky-flex-in-nfl-debut/1929750
+- **NEW — Cameron Dicker** — Cameron Dicker Has Favorable Week 1 Matchup vs. the Cardinals (2026-09-12T13:40:07Z)
+  - Source: https://www.rotoballer.com/player-news/cameron-dicker-has-favorable-week-1-matchup-vs-the-cardinals/1929748
+- **NEW — Quinshon Judkins** — Quinshon Judkins Better Left on the Bench in Week 1 (2026-09-12T13:35:08Z)
+  - Source: https://www.rotoballer.com/player-news/quinshon-judkins-better-left-on-the-bench-in-week-1/1929740
+- **NEW — Nicholas Singleton** — Nicholas Singleton Should be Ignored in Starting Week 1 Lineups (2026-09-12T13:24:05Z)
+  - Source: https://www.rotoballer.com/player-news/nicholas-singleton-should-be-ignored-in-starting-week-1-lineups/1929714
+- **NEW — Tre' Harris** — Tre' Harris Remains Hidden in Crowded Offense for Week 1 (2026-09-12T13:22:14Z)
+  - Source: https://www.rotoballer.com/player-news/tre-harris-remains-hidden-in-crowded-offense-for-week-1/1929712
+- **NEW — Deshaun Watson** — Deshaun Watson Hard to Trust in Week 1 Return (2026-09-12T13:21:06Z)
+  - Source: https://www.rotoballer.com/player-news/deshaun-watson-hard-to-trust-in-week-1-return/1929709
+- **NEW — Andrei Iosivas** — Andrei Iosivas Tough to Trust Despite Favorable Matchup (2026-09-12T13:11:05Z)
+  - Source: https://www.rotoballer.com/player-news/andrei-iosivas-tough-to-trust-despite-favorable-matchup/1929690
+- **NEW — Brian Robinson** — Brian Robinson has Flex Appeal with Potential Goal-Line Work (2026-09-12T13:00:09Z)
+  - Source: https://www.rotoballer.com/player-news/brian-robinson-jr-has-flex-appeal-with-potential-goal-line-work/1929680
+- **NEW — Gunnar Helm** — Gunnar Helm has TE2 Streaming Potential in Season Opener Against Jets (2026-09-12T12:55:08Z)
+  - Source: https://www.rotoballer.com/player-news/gunnar-helm-has-te2-streaming-potential-in-season-opener-against-jets/1929675
+- **NEW — Ryan Flournoy** — Ryan Flournoy A Bench Stash For Week 1 (2026-09-12T12:53:41Z)
+  - Source: https://www.rotoballer.com/player-news/ryan-flournoy-a-bench-stash-for-week-1/1929673
+- **NEW — Brenton Strange** — Brenton Strange Limited to TE2 Status Against Browns (2026-09-12T12:52:09Z)
+  - Source: https://www.rotoballer.com/player-news/brenton-strange-limited-to-te2-status-against-browns/1929672
+- **NEW — Brandon Aubrey** — Brandon Aubrey An Elite Fantasy Football Kicker Option For Week 1 (2026-09-12T12:50:07Z)
+  - Source: https://www.rotoballer.com/player-news/brandon-aubrey-an-elite-fantasy-football-kicker-option-for-week-1/1929668
+- **NEW — Cam Little** — Cam Little Among Top Fantasy Kickers Entering Week 1 (2026-09-12T12:46:07Z)
+  - Source: https://www.rotoballer.com/player-news/cam-little-among-top-fantasy-kickers-entering-week-1/1929665
+- **NEW — Chris Brooks** — Chris Brooks in the Mix for a Week 1 Role in Green Bay (2026-09-12T12:45:10Z)
+  - Source: https://www.rotoballer.com/player-news/chris-brooks-in-the-mix-for-a-week-1-role-in-green-bay/1929663
+- **NEW — Javonte Williams** — Javonte Williams Set To Resume Workhorse Role In Week 1 (2026-09-12T12:41:15Z)
+  - Source: https://www.rotoballer.com/player-news/javonte-williams-set-to-resume-workhorse-role-in-week-1/1929660
+- **NEW — Cooper Rush** — Cooper Rush Gets the Start in Week 1, but Tough Matchup Awaits (2026-09-12T12:38:14Z)
+  - Source: https://www.rotoballer.com/player-news/cooper-rush-gets-the-start-in-week-1-but-tough-matchup-awaits/1929655
+- **NEW — Dak Prescott** — Dak Prescott Set To Shine In 2026 Debut (2026-09-12T12:34:09Z)
+  - Source: https://www.rotoballer.com/player-news/dak-prescott-set-to-shine-in-2026-debut/1929642
+- **NEW — Amon-Ra St. Brown** — Lions Restructure Amon-Ra St. Brown's Deal (2026-09-12T12:34:05Z)
+  - Source: https://www.rotoballer.com/player-news/lions-restructure-amon-ra-st-browns-deal/1929640
+- **NEW — Jake Ferguson** — Jake Ferguson A Risky Start In Week 1 (2026-09-12T12:30:10Z)
+  - Source: https://www.rotoballer.com/player-news/jake-ferguson-a-risky-start-in-week-1/1929633
+- **NEW — CeeDee Lamb** — CeeDee Lamb A Mid-To-Low-End WR1 In Week 1 (2026-09-12T12:25:06Z)
+  - Source: https://www.rotoballer.com/player-news/ceedee-lamb-a-mid-to-low-end-wr1-in-week-1/1929626
+- **NEW — George Pickens** — George Pickens A Borderline WR1 In Week 1 (2026-09-12T12:24:05Z)
+  - Source: https://www.rotoballer.com/player-news/george-pickens-a-borderline-wr1-in-week-1/1929624
+- **NEW — Chris Rodriguez** — Chris Rodriguez Jr. a Bench Stash Entering Week 1 (2026-09-12T12:22:08Z)
+  - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-a-bench-stash-entering-week-1/1929623
+- **NEW — Calvin Ridley** — Calvin Ridley Holds Minimal Upside in Week 1 Despite Path to Starting Role (2026-09-12T12:22:06Z)
+  - Source: https://www.rotoballer.com/player-news/calvin-ridley-is-healthy-and-starting-entering-a-week-1-matchup-with-the-jets/1929622
+- **Kyle Pitts** — Kyle Pitts Sr. Looking Like a Risky Low-End TE1 in Week 1 (2026-09-12T12:19:05Z)
   - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-looking-like-a-risky-mid-range-te1-in-week-1/1929618
-- **NEW — Justice Hill** — Justice Hill To Have Limited Role In Week 1 (2026-09-12T12:16:18Z)
+- **Justice Hill** — Justice Hill To Have Limited Role In Week 1 (2026-09-12T12:16:18Z)
   - Source: https://www.rotoballer.com/player-news/justice-hill-to-have-limited-role-in-week-1/1929616
-- **NEW — Isaiah Likely** — Isaiah Likely a Strong Starting Option Against Cowboys (2026-09-12T12:12:07Z)
+- **NEW — Parker Washington** — Parker Washington an Upside Flex Against Browns Following Strong Finish to 2025 (2026-09-12T12:15:09Z)
+  - Source: https://www.rotoballer.com/player-news/parker-washington-an-upside-flex-against-browns/1929615
+- **Isaiah Likely** — Isaiah Likely a Strong Starting Option Against Cowboys (2026-09-12T12:12:07Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-likely-a-strong-starting-option-against-cowboys/1929608
-- **NEW — Malachi Fields** — Malachi Fields a Player to Watch in Week 1 (2026-09-12T12:09:05Z)
+- **NEW — Kaleb Johnson** — Kaleb Johnson Is Set for Debut with Packers, but Exact Role is Cloudy (2026-09-12T12:09:09Z)
+  - Source: https://www.rotoballer.com/player-news/kaleb-johnson-is-set-for-debut-with-packers-but-exact-role-is-cloudy/1929606
+- **Malachi Fields** — Malachi Fields a Player to Watch in Week 1 (2026-09-12T12:09:05Z)
   - Source: https://www.rotoballer.com/player-news/malachi-fields-a-player-to-watch-in-week-1/1929604
-- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane Could Make Big Plays in Ravens Offense in Week 1 (2026-09-12T12:07:08Z)
+- **Ja'Kobi Lane** — Ja'Kobi Lane Could Make Big Plays in Ravens Offense in Week 1 (2026-09-12T12:07:08Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-lane-could-make-big-plays-in-ravens-offense-in-week-1/1929602
-- **NEW — Bijan Robinson** — Bijan Robinson an Elite Option with Expected Heavy Workload (2026-09-12T12:05:18Z)
+- **Bijan Robinson** — Bijan Robinson an Elite Option with Expected Heavy Workload (2026-09-12T12:05:18Z)
   - Source: https://www.rotoballer.com/player-news/bijan-robinson-an-elite-option-with-expected-heavy-workload/1929599
-- **NEW — Malik Nabers** — Limit Expectations for Malik Nabers if Active in Week 1 (2026-09-12T12:02:10Z)
+- **Malik Nabers** — Limit Expectations for Malik Nabers if Active in Week 1 (2026-09-12T12:02:10Z)
   - Source: https://www.rotoballer.com/player-news/limit-expectations-for-malik-nabers-if-active-in-week-1/1929594
-- **NEW — Drake London** — Drake London a Low-End WR1 After Downgrade at Quarterback (2026-09-12T11:56:05Z)
+- **NEW — Rashod Bateman** — Rashod Bateman Will Play in Week 1 as NFL's Investigation Continues (2026-09-12T12:00:09Z)
+  - Source: https://www.rotoballer.com/player-news/rashod-bateman-will-play-in-week-1-as-nfls-investigation-continues/1929592
+- **Drake London** — Drake London a Low-End WR1 After Downgrade at Quarterback (2026-09-12T11:56:05Z)
   - Source: https://www.rotoballer.com/player-news/drake-london-a-low-end-wr1-after-downgrade-at-quarterback/1929583
-- **NEW — Adonai Mitchell** — Adonai Mitchell Begins Week 1 as a Deep-League Flex (2026-09-12T11:54:05Z)
+- **Adonai Mitchell** — Adonai Mitchell Begins Week 1 as a Deep-League Flex (2026-09-12T11:54:05Z)
   - Source: https://www.rotoballer.com/player-news/adonai-mitchell-begins-week-1-as-a-deep-league-flex/1929577
-- **NEW — Garrett Wilson** — Garrett Wilson Brings WR1 Upside Into Season Opener (2026-09-12T11:51:06Z)
+- **Garrett Wilson** — Garrett Wilson Brings WR1 Upside Into Season Opener (2026-09-12T11:51:06Z)
   - Source: https://www.rotoballer.com/player-news/garrett-wilson-brings-wr1-upside-into-season-opener/1929573
-- **NEW — Braelon Allen** — Braelon Allen Opens Week 1 as a Handcuff Option (2026-09-12T11:49:05Z)
+- **Braelon Allen** — Braelon Allen Opens Week 1 as a Handcuff Option (2026-09-12T11:49:05Z)
   - Source: https://www.rotoballer.com/player-news/braelon-allen-opens-week-1-as-a-handcuff-option/1929571
-- **NEW — Breece Hall** — Breece Hall Carries Strong RB2 Upside Into Tennessee (2026-09-12T11:47:10Z)
+- **Breece Hall** — Breece Hall Carries Strong RB2 Upside Into Tennessee (2026-09-12T11:47:10Z)
   - Source: https://www.rotoballer.com/player-news/breece-hall-carries-strong-rb2-upside-into-tennessee/1929567
-- **NEW — Cam Skattebo** — Cam Skattebo Fully Healthy for Week 1 Against Cowboys (2026-09-12T11:45:34Z)
+- **Cam Skattebo** — Cam Skattebo Fully Healthy for Week 1 Against Cowboys (2026-09-12T11:45:34Z)
   - Source: https://www.rotoballer.com/player-news/cam-skattebo-fully-healthy-for-week-1-against-cowboys/1929564
-- **NEW — Geno Smith** — Geno Smith Opens 2026 as a Superflex-Only Option (2026-09-12T11:44:05Z)
+- **Geno Smith** — Geno Smith Opens 2026 as a Superflex-Only Option (2026-09-12T11:44:05Z)
   - Source: https://www.rotoballer.com/player-news/geno-smith-opens-2026-as-a-superflex-only-option/1929560
-- **NEW — Keon Coleman** — Keon Coleman Faces Uphill Climb for Week 1 Value (2026-09-12T11:38:13Z)
+- **Keon Coleman** — Keon Coleman Faces Uphill Climb for Week 1 Value (2026-09-12T11:38:13Z)
   - Source: https://www.rotoballer.com/player-news/keon-coleman-faces-uphill-climb-for-week-1-value/1929549
-- **NEW — Jaxson Dart** — Jaxson Dart a Mid-QB1 Against Improved Cowboys Defense (2026-09-12T11:36:12Z)
+- **Jaxson Dart** — Jaxson Dart a Mid-QB1 Against Improved Cowboys Defense (2026-09-12T11:36:12Z)
   - Source: https://www.rotoballer.com/player-news/jaxson-dart-a-mid-qb1-against-improved-cowboys-defense/1929545
-- **NEW — Dalton Kincaid** — Dalton Kincaid Has Streaming Appeal in Week 1 (2026-09-12T11:35:12Z)
+- **Dalton Kincaid** — Dalton Kincaid Has Streaming Appeal in Week 1 (2026-09-12T11:35:12Z)
   - Source: https://www.rotoballer.com/player-news/dalton-kincaid-has-streaming-appeal-in-week-1/1929543
-- **NEW — Khalil Shakir** — Khalil Shakir Offers PPR Value Against Houston (2026-09-12T11:34:05Z)
+- **Khalil Shakir** — Khalil Shakir Offers PPR Value Against Houston (2026-09-12T11:34:05Z)
   - Source: https://www.rotoballer.com/player-news/khalil-shakir-offers-ppr-value-against-houston/1929539
-- **NEW — DJ Moore** — DJ Moore Begins Bills Tenure as a Week 1 WR3 (2026-09-12T11:32:13Z)
+- **DJ Moore** — DJ Moore Begins Bills Tenure as a Week 1 WR3 (2026-09-12T11:32:13Z)
   - Source: https://www.rotoballer.com/player-news/dj-moore-begins-bills-tenure-as-a-week-1-wr3/1929535
-- **NEW — Emeka Egbuka** — Emeka Egbuka Ready to Roll in Week 1 Versus Bengals (2026-09-12T11:30:10Z)
+- **Emeka Egbuka** — Emeka Egbuka Ready to Roll in Week 1 Versus Bengals (2026-09-12T11:30:10Z)
   - Source: https://www.rotoballer.com/player-news/emeka-egbuka-ready-to-roll-in-week-1-versus-bengals/1929532
-- **NEW — James Cook** — James Cook III Carries RB1 Upside Into Week 1 (2026-09-12T11:29:09Z)
+- **James Cook** — James Cook III Carries RB1 Upside Into Week 1 (2026-09-12T11:29:09Z)
   - Source: https://www.rotoballer.com/player-news/james-cook-iii-carries-rb1-upside-into-week-1/1929529
-- **NEW — Josh Allen** — Josh Allen Brings Elite QB1 Ceiling to Houston Rematch (2026-09-12T11:27:07Z)
+- **Josh Allen** — Josh Allen Brings Elite QB1 Ceiling to Houston Rematch (2026-09-12T11:27:07Z)
   - Source: https://www.rotoballer.com/player-news/josh-allen-brings-elite-qb1-ceiling-to-houston-rematch/1929520
-- **NEW — Jakobi Meyers** — Jakobi Meyers Profiles as a Solid Flex Option in PPR Leagues (2026-09-12T11:24:05Z)
+- **Jakobi Meyers** — Jakobi Meyers Profiles as a Solid Flex Option in PPR Leagues (2026-09-12T11:24:05Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-meyers-a-solid-flex-option-in-week-1/1929518
-- **NEW — Jayden Reed** — Look For Solid Game From Jayden Reed In Week 1 (2026-09-12T11:22:06Z)
+- **Jayden Reed** — Look For Solid Game From Jayden Reed In Week 1 (2026-09-12T11:22:06Z)
   - Source: https://www.rotoballer.com/player-news/look-for-solid-game-from-jayden-reed-in-week-1/1929514
-- **NEW — Tucker Kraft** — Tucker Kraft Agrees to Four-Year Extension with Packers (2026-09-12T11:17:06Z)
+- **Tucker Kraft** — Tucker Kraft Agrees to Four-Year Extension with Packers (2026-09-12T11:17:06Z)
   - Source: https://www.rotoballer.com/player-news/tucker-kraft-agrees-to-four-year-extension-with-packers/1929505
-- **NEW — Bhayshul Tuten** — Bhayshul Tuten Holds RB2 Upside Against Browns (2026-09-12T11:15:06Z)
+- **Bhayshul Tuten** — Bhayshul Tuten Holds RB2 Upside Against Browns (2026-09-12T11:15:06Z)
   - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-a-rb2-with-upside-against-browns/1929502
-- **NEW — Michael Mayer** — Michael Mayer Cashes In On Contract Extension (2026-09-12T11:10:06Z)
+- **Michael Mayer** — Michael Mayer Cashes In On Contract Extension (2026-09-12T11:10:06Z)
   - Source: https://www.rotoballer.com/player-news/michael-mayer-cashes-in-on-contract-extension/1929492
-- **NEW — Trevor Lawrence** — Trevor Lawrence a Clear QB1 Against Browns (2026-09-12T11:06:16Z)
+- **Trevor Lawrence** — Trevor Lawrence a Clear QB1 Against Browns (2026-09-12T11:06:16Z)
   - Source: https://www.rotoballer.com/player-news/trevor-lawrence-a-clear-qb1-against-browns/1929488
-- **NEW — Isaac TeSlaa** — Isaac TeSlaa a Risky Deep-League Wide Receiver Option in Week 1 (2026-09-12T10:45:13Z)
+- **Isaac TeSlaa** — Isaac TeSlaa a Risky Deep-League Wide Receiver Option in Week 1 (2026-09-12T10:45:13Z)
   - Source: https://www.rotoballer.com/player-news/isaac-teslaa-a-risky-deep-league-wide-receiver-option-in-week-1/1929463
-- **NEW — Jake Bates** — Jake Bates a Must-Start Kicker in Week 1 (2026-09-12T10:32:06Z)
+- **Jake Bates** — Jake Bates a Must-Start Kicker in Week 1 (2026-09-12T10:32:06Z)
   - Source: https://www.rotoballer.com/player-news/jake-bates-a-must-start-kicker-in-week-1/1929454
-- **NEW — Jameson Williams** — Jameson Williams a High-Upside WR2 Option in Week 1 (2026-09-12T10:30:09Z)
+- **Jameson Williams** — Jameson Williams a High-Upside WR2 Option in Week 1 (2026-09-12T10:30:09Z)
   - Source: https://www.rotoballer.com/player-news/jameson-williams-a-high-upside-wr2-option-in-week-1/1929451
-- **NEW — Sam LaPorta** — Sam LaPorta Looking to Kickstart Bounce-Back Campaign in Week 1 (2026-09-12T10:24:06Z)
+- **Sam LaPorta** — Sam LaPorta Looking to Kickstart Bounce-Back Campaign in Week 1 (2026-09-12T10:24:06Z)
   - Source: https://www.rotoballer.com/player-news/sam-laporta-looking-to-kickstart-bounce-back-campaign-in-week-1/1929444
-- **NEW — Amon-Ra St. Brown** — Amon-Ra St. Brown a Must-Start Wide Receiver in Week 1 (2026-09-12T10:15:05Z)
+- **Amon-Ra St. Brown** — Amon-Ra St. Brown a Must-Start Wide Receiver in Week 1 (2026-09-12T10:15:05Z)
   - Source: https://www.rotoballer.com/player-news/amon-ra-st-brown-a-must-start-wide-receiver-in-week-1/1929418
-- **NEW — Trey McBride** — Trey McBride Kicks Off TE1 Campaign On Sunday (2026-09-12T10:10:06Z)
+- **Trey McBride** — Trey McBride Kicks Off TE1 Campaign On Sunday (2026-09-12T10:10:06Z)
   - Source: https://www.rotoballer.com/player-news/trey-mcbride-kicks-off-te1-campaign-on-sunday/1929415
-- **NEW — Jacob Saylors** — Jacob Saylors Remains a Stash-Worthy Running Back in Week 1 (2026-09-12T10:09:05Z)
+- **Jacob Saylors** — Jacob Saylors Remains a Stash-Worthy Running Back in Week 1 (2026-09-12T10:09:05Z)
   - Source: https://www.rotoballer.com/player-news/jacob-saylors-remains-a-stash-worthy-running-back-in-week-1/1929413
-- **NEW — Jahmyr Gibbs** — Jahmyr Gibbs an Elite Running Back Option in Week 1 (2026-09-12T10:05:09Z)
+- **Jahmyr Gibbs** — Jahmyr Gibbs an Elite Running Back Option in Week 1 (2026-09-12T10:05:09Z)
   - Source: https://www.rotoballer.com/player-news/jahmyr-gibbs-an-elite-running-back-option-in-week-1/1929410
-- **NEW — Michael Wilson** — Michael Wilson Looking To Follow Breakout Season With Strong Start To 2026 (2026-09-12T10:05:05Z)
+- **Michael Wilson** — Michael Wilson Looking To Follow Breakout Season With Strong Start To 2026 (2026-09-12T10:05:05Z)
   - Source: https://www.rotoballer.com/player-news/michael-wilson-looking-to-follow-breakout-season-with-strong-start-to-2026/1929408
-- **NEW — Jared Goff** — Jared Goff a Low-End QB1 Option in Week 1 (2026-09-12T10:02:06Z)
+- **Jared Goff** — Jared Goff a Low-End QB1 Option in Week 1 (2026-09-12T10:02:06Z)
   - Source: https://www.rotoballer.com/player-news/jared-goff-a-low-end-qb1-option-in-week-1/1929405
-- **NEW — Marvin Harrison** — Marvin Harrison Jr. Falls To Flex Territory For 2026 Debut (2026-09-12T09:59:09Z)
+- **Marvin Harrison** — Marvin Harrison Jr. Falls To Flex Territory For 2026 Debut (2026-09-12T09:59:09Z)
   - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-falls-to-flex-territory-for-2026-debut/1929401
-- **NEW — Wan'Dale Robinson** — Wan'Dale Robinson a High-Floor PPR Flex Play in Week 1 (2026-09-12T09:59:05Z)
+- **Wan'Dale Robinson** — Wan'Dale Robinson a High-Floor PPR Flex Play in Week 1 (2026-09-12T09:59:05Z)
   - Source: https://www.rotoballer.com/player-news/wandale-robinson-a-high-floor-ppr-flex-play-in-week-1/1929399
-- **NEW — Tyler Allgeier** — Tyler Allgeier Could Lead Cardinals Backfield In Week 1 (2026-09-12T09:54:00Z)
+- **Tyler Allgeier** — Tyler Allgeier Could Lead Cardinals Backfield In Week 1 (2026-09-12T09:54:00Z)
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-could-lead-cardinals-backfield-in-week-1/1929390
-- **NEW — Jeremiyah Love** — Jeremiyah Love A Risky Play In Week 1 (2026-09-12T09:47:20Z)
+- **Jeremiyah Love** — Jeremiyah Love A Risky Play In Week 1 (2026-09-12T09:47:20Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-a-risky-play-in-week-1/1929387
-- **NEW — Carnell Tate** — Carnell Tate a Boom/Bust Flex Option for Fantasy Managers in Week 1 (2026-09-12T09:47:05Z)
+- **Carnell Tate** — Carnell Tate a Boom/Bust Flex Option for Fantasy Managers in Week 1 (2026-09-12T09:47:05Z)
   - Source: https://www.rotoballer.com/player-news/carnell-tate-a-boom-bust-flex-option-for-fantasy-managers-in-week-1/1929385
-- **NEW — Jacoby Brissett** — Jacoby Brissett Has Upside For Two-QB Leagues (2026-09-12T09:41:06Z)
+- **Jacoby Brissett** — Jacoby Brissett Has Upside For Two-QB Leagues (2026-09-12T09:41:06Z)
   - Source: https://www.rotoballer.com/player-news/jacoby-brissett-has-upside-for-two-qb-leagues/1929373
-- **NEW — Tony Pollard** — Tony Pollard a High-Floor Flex Option in Favorable Week 1 Matchup (2026-09-12T09:35:06Z)
+- **Tony Pollard** — Tony Pollard a High-Floor Flex Option in Favorable Week 1 Matchup (2026-09-12T09:35:06Z)
   - Source: https://www.rotoballer.com/player-news/tony-pollard-a-high-floor-flex-option-in-favorable-week-1-matchup/1929369
-- **NEW — Quentin Johnston** — Quentin Johnston Offers High Ceiling in Favorable Week 1 Matchup (2026-09-12T09:29:05Z)
+- **Quentin Johnston** — Quentin Johnston Offers High Ceiling in Favorable Week 1 Matchup (2026-09-12T09:29:05Z)
   - Source: https://www.rotoballer.com/player-news/quentin-johnston-offers-high-ceiling-in-favorable-week-1-matchup/1929363
-- **NEW — Cam Ward** — Cam Ward a Risky Start in Two-QB Leagues in Week 1 (2026-09-12T09:27:06Z)
+- **Cam Ward** — Cam Ward a Risky Start in Two-QB Leagues in Week 1 (2026-09-12T09:27:06Z)
   - Source: https://www.rotoballer.com/player-news/cam-ward-a-risky-start-in-two-qb-leagues-in-week-1/1929361
-- **NEW — Ladd McConkey** — Ladd McConkey Primed to Start His Season in the Right Direction (2026-09-12T09:24:06Z)
+- **Ladd McConkey** — Ladd McConkey Primed to Start His Season in the Right Direction (2026-09-12T09:24:06Z)
   - Source: https://www.rotoballer.com/player-news/ladd-mcconkey-primed-to-start-his-season-in-the-right-direction/1929357
-- **NEW — Omarion Hampton** — Omarion Hampton Gets Dream Matchup to Begin Potential Breakout Season (2026-09-12T09:21:05Z)
+- **Omarion Hampton** — Omarion Hampton Gets Dream Matchup to Begin Potential Breakout Season (2026-09-12T09:21:05Z)
   - Source: https://www.rotoballer.com/player-news/omarion-hampton-gets-dream-matchup-to-begin-potential-breakout-season/1929355
 - **Malik Nabers** — Malik Nabers Medically Cleared to Play in Week 1, Remains a Game-Time Decision (2026-09-12T09:20:05Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-medically-cleared-to-play-in-week-1-remains-a-game-time-decision/1929353
@@ -150,64 +210,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tetairoa-mcmillan-in-a-smash-spot-against-the-bears-in-week-1/1929221
 - **Jalen Coker** — Jalen Coker Becomes a Strong FLEX Option in Week 1 Vs. the Bears (2026-09-12T05:57:06Z)
   - Source: https://www.rotoballer.com/player-news/jalen-coker-becomes-a-strong-flex-option-in-week-1-vs-the-bears/1929205
-- **Jonathan Taylor** — Jonathan Taylor is a Top-Tier Start in Week 1 (2026-09-12T05:52:06Z)
-  - Source: https://www.rotoballer.com/player-news/jonathan-taylor-is-a-top-tier-start-in-week-1/1929203
-- **Jalen Hurts** — Jalen Hurts Looks to Thrive in Philadelphia's New Offense in Week 1 (2026-09-12T05:27:43Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-hurts-looks-to-thrive-in-philadelphias-new-offense/1928949
-- **Spencer Shrader** — Spencer Shrader is an Overlooked Start in Week 1 with Potential Long-Term Value (2026-09-12T04:59:05Z)
-  - Source: https://www.rotoballer.com/player-news/spencer-shrader-is-an-overlooked-start-in-week-1-with-potential-long-term-value/1929184
-- **Josh Downs** — Josh Downs is an Intriguing Option for Deep Leagues in Week 1 (2026-09-12T04:34:14Z)
-  - Source: https://www.rotoballer.com/player-news/josh-downs-is-an-intriguing-option-for-deep-leagues-in-week-1/1929176
-- **Mark Andrews** — Mark Andrews is Quietly a Solid Start in Week 1 (2026-09-12T04:11:05Z)
-  - Source: https://www.rotoballer.com/player-news/mark-andrews-is-quietly-a-solid-start-in-week-1/1929169
-- **Zay Flowers** — Zay Flowers Set to Lead Ravens Receiving Corps in Week 1 (2026-09-12T03:31:05Z)
-  - Source: https://www.rotoballer.com/player-news/zay-flowers-set-to-lead-ravens-receiving-corps-in-week-1/1929167
-- **Malik Davis** — Malik Davis (hip) to undergo surgery, be placed on IR (2026-09-12T01:35:39.731000Z)
-  - Davis was injured in practice on Friday. He will miss at least the next four games. 
-  - Source: https://www.fantasypros.com/nfl/news/607241/malik-davis-hip-to-undergo-surgery-be-placed-on-ir.php
-- **Malik Davis** — Malik Davis - Will undergo hip surgery (2026-09-12T01:09:29Z)
-  - Davis hurt his hip during practice Friday, and the issue is severe enough to require surgery. It's not yet clear how much time the tailback will miss, but it's very possible that he'll be sidelined for most, if not all, of the 2026 campaign. The injury is an awful break for Davis, who had been slated to serve as Dallas' No. 2 running back after working mostly on special teams (and spending considerable time on the practice squad) early in his career. Emari Demercado will likely now slide into that backup role behind Javonte Williams, and Dallas figures to make a move to add another ball carrier to the roster ahead of Sunday's Week 1 matchup versus the Giants.
-- **Brian Thomas** — Brian Thomas Jr.'s Target Share Uncertain for Week 1 (2026-09-12T00:57:06Z)
-  - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-s-target-share-uncertain-for-week-1/1929144
-- **Stefon Diggs** — Stefon Diggs Projects as Flex Option in Week 1 (2026-09-12T00:27:06Z)
-  - Source: https://www.rotoballer.com/player-news/stefon-diggs-projects-as-flex-option-in-week-1/1929132
-- **Rachaad White** — Rachaad White in Flex Territory for Week 1 (2026-09-12T00:25:05Z)
-  - Source: https://www.rotoballer.com/player-news/rachaad-white-in-flex-territory-for-week-1/1929130
-- **Jayden Daniels** — Jayden Daniels Faces Stiff Test in Philly to Open Season (2026-09-12T00:22:07Z)
-  - Source: https://www.rotoballer.com/player-news/jayden-daniels-faces-stiff-test-in-philly-to-open-season/1929128
-- **Terrance Ferguson** — Terrance Ferguson - Held without catch Week 1 (2026-09-11T23:53:37Z)
-  - The lone pass Ferguson saw from Matthew Stafford was on fourth-and-5 midway through the fourth quarter, which easily sailed over the second-year tight end and out of bounds. Ferguson's 31 snaps on offense were ahead of Tyler Higbee (12) but behind Colby Parkinson (41), so Ferguson's role in the Rams offense figures to mostly be as a run blocker in 12- and 13-man personnel. The Rams will host the Giants in Week 2 on Monday, Sept. 21.
-- **Jack Strand** — Jack Strand - Backup QB for Week 1 (2026-09-11T23:25:07Z)
-  - The Falcons chose to carry four quarterbacks on the 53-man roster, and that looks to have been a savvy move after Tua Tagovailoa was ruled out for Week 1 due to an oblique injury he sustained in Thursday's practice. With Michael Penix (knee) also sidelined, the Falcons will turn to the veteran Rush to start under center while Strand -- an undrafted rookie out of Minnesota State-Moorhead -- operates as the QB2. Strand played in all three of the Falcons' preseason games, completing 24 of 36 passes for 306 yards, one touchdown and one interception while turning 17 carries into 29 yards and two scores.
-- **Taylen Green** — Taylen Green - Role against Jacksonville still TBD (2026-09-11T23:23:46Z)
-  - If Green is written into the Browns' offensive game plan for Week 1, it would likely suggest he is second in line at quarterback behind veteran Deshaun Watson. If 2025 fifth-rounder Shedeur Sanders ends up with that role instead, Green's path to playing time gets harder to envision. If and when Green does get on the field, his size and speed (6-foot-6, 230 pounds, 4.36 40-yard dash) would certainly compel a defense to pay close attention.
-- **Kyle Monangai** — Kyle Monangai a Full-Go for Opener Vs. Carolina (2026-09-11T23:11:05Z)
-  - Source: https://www.rotoballer.com/player-news/kyle-monangai-a-full-go-for-opener-vs-carolina/1929105
-- **Colston Loveland** — Colston Loveland Set for Monster First Outing (2026-09-11T23:05:06Z)
-  - Source: https://www.rotoballer.com/player-news/colston-loveland-set-for-monster-first-outing/1929103
-- **Ted Hurst** — Ted Hurst III Could See Expanded Role in Week 1 (2026-09-11T23:02:06Z)
-  - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-could-see-expanded-role-in-week-1/1929099
-- **Luther Burden** — Luther Burden III Could See Bigger Role in Week 1 (2026-09-11T22:57:06Z)
-  - Source: https://www.rotoballer.com/player-news/luther-burden-iii-could-see-bigger-role-in-week-1/1929095
-- **Rome Odunze** — Rome Odunze A Shaky Fantasy Play in Week 1 Amid Questionable Tag (2026-09-11T22:51:57Z)
-  - Source: https://www.rotoballer.com/player-news/rome-odunze-officially-questionable-for-season-opener/1929090
-- **D'Andre Swift** — D'Andre Swift Poised for Strong Week 1 Showing (2026-09-11T22:39:05Z)
-  - Source: https://www.rotoballer.com/player-news/dandre-swift-poised-for-strong-week-1-showing/1929082
-- **Caleb Williams** — Caleb Williams Brings QB1 Upside in Road Matchup (2026-09-11T22:31:05Z)
-  - Source: https://www.rotoballer.com/player-news/caleb-williams-brings-qb1-upside-in-road-matchup/1929074
-- **Dalton Schultz** — Dalton Schultz Is a High-Risk Option in Week 1 (2026-09-11T22:26:05Z)
-  - Source: https://www.rotoballer.com/player-news/dalton-schultz-is-a-high-risk-option-in-week-1/1929070
-- **Jaylin Noel** — Jaylin Noel Healthy for Week 1, Ready for a Bigger Role? (2026-09-11T22:17:06Z)
-  - Source: https://www.rotoballer.com/player-news/jaylin-noel-healthy-for-week-1-ready-for-a-bigger-role/1929065
-- **Kayshon Boutte** — Kayshon Boutte a Deep-League Sleeper in Texans Debut (2026-09-11T22:01:13Z)
-  - Source: https://www.rotoballer.com/player-news/kayshon-boutte-a-deep-league-sleeper-in-texans-debut/1929058
-- **Malik Davis** — Malik Davis to Undergo Hip Surgery (2026-09-11T22:00:09Z)
-  - Source: https://www.rotoballer.com/player-news/malik-davis-to-undergo-hip-surgery/1929056
-- **Keaton Mitchell** — Keaton Mitchell - Cleared from injury report (2026-09-11T21:54:53Z)
-  - After logging limited practices Wednesday and Thursday, Mitchell got a full session in Friday and thus appears ready to go for Week 1. Mitchell is an intriguing option in an offense run by coordinator Mike McDaniel, but his injury slowed him for much of the past three weeks, so it's unclear exactly how he will slot in behind starter Omarion Hampton and fellow reserve Kimani Vidal.
-- **Chuba Hubbard** — Chuba Hubbard Cleared, a FLEX Option in Week 1 vs. the Bears (2026-09-11T21:45:07Z)
-  - Source: https://www.rotoballer.com/player-news/chuba-hubbard-cleared-a-flex-option-in-week-1-vs-the-bears/1929052
-- **Christian Watson** — WR3 Treatment for Christian Watson in Week 1 (2026-09-11T21:43:14Z)
-  - Source: https://www.rotoballer.com/player-news/wr3-treatment-for-christian-watson-in-week-1/1929050
-- **Nico Collins** — Nico Collins Is a Top-10 WR in Week 1 (2026-09-11T21:33:14Z)
-  - Source: https://www.rotoballer.com/player-news/nico-collins-is-a-top-10-wr-in-week-1/1929046
