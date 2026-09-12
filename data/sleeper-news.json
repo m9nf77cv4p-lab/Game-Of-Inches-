@@ -1,27 +1,15 @@
 {
-  "last_checked_at": "2026-09-12T05:54:02Z",
+  "last_checked_at": "2026-09-12T09:58:15Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 287,
   "new_story_ids": [
-    "nfl|11560|rotoballer|220716|1789165865000",
-    "nfl|11620|rotoballer|220722|1789167117000",
-    "nfl|11631|rotoballer|220736|1789174626000",
-    "nfl|12474|rotoballer|220704|1789161607000",
-    "nfl|12517|rotoballer|220728|1789167906000",
-    "nfl|12519|rotoballer|220723|1789167426000",
-    "nfl|12534|rotoballer|220729|1789168265000",
-    "nfl|12536|rotoballer|220715|1789165026000",
-    "nfl|13317|rotoballer|220726|1789167726000",
-    "nfl|5001|rotoballer|220718|1789165565000",
-    "nfl|5846|rotoballer|220705|1789161378000",
-    "nfl|6790|rotoballer|220733|1789166345000",
-    "nfl|7569|rotoballer|220707|1789162394000",
-    "nfl|7594|rotoballer|220708|1789163107000",
-    "nfl|8167|rotoballer|220709|1789162994000",
-    "nfl|8800|fantasy_pros|607241|1789176939731",
-    "nfl|8800|rotoballer|220712|1789164009000",
-    "nfl|9228|rotoballer|220703|1789161006000",
-    "nfl|9504|rotoballer|220711|1789164073000"
+    "nfl|11566|rotoballer|220743|1789172527000",
+    "nfl|12185|rotoballer|220741|1789189145000",
+    "nfl|4035|fantasy_pros|607273|1789197019139",
+    "nfl|5012|rotoballer|220739|1789186265000",
+    "nfl|6904|rotoballer|220742|1789190863000",
+    "nfl|9500|rotoballer|220740|1789187654000",
+    "nfl|9997|rotoballer|220738|1789183865000"
   ],
   "schema_version": 1,
   "source": {
@@ -31,6 +19,127 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Kamara was listed as questionable after he practiced fully on Friday. He'll be eased into the season if he is available. ",
+      "description": "Saints RB Alvin Kamara will not have a \"huge role\" if he plays in Week 1 against the Lions.",
+      "metadata": {
+        "analysis": "Kamara was listed as questionable after he practiced fully on Friday. He'll be eased into the season if he is available. ",
+        "description": "Saints RB Alvin Kamara will not have a \"huge role\" if he plays in Week 1 against the Lions.",
+        "title": "Alvin Kamara (knee) not expected to have big role if available in Week 1",
+        "topic_id": "1404397723930636288",
+        "url": "https://www.fantasypros.com/nfl/news/607273/alvin-kamara-knee-not-expected-to-have-big-role-if-available-week-1.php"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1789197019139,
+      "source": "fantasy_pros",
+      "source_key": "607273",
+      "story_id": "nfl|4035|fantasy_pros|607273|1789197019139",
+      "title": "Alvin Kamara (knee) not expected to have big role if available in Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/607273/alvin-kamara-knee-not-expected-to-have-big-role-if-available-week-1.php"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles quarterback Jalen Hurts enters his seventh season in the NFL in 2026, and his first under new offensive coordinator Sean Mannion - whom Hurts recently referred to as a \"North Star.\" Hurts and the Eagles take on the NFC East rival Washington Commanders in Week 1. Hurts finished the 2025 season as the No. 9 quarterback in total fantasy points, and the No. 7 quarterback in fantasy points-per-game. He saw an increase in his passing production in 2025, as he threw for 3,224 yards and 25 touchdowns in 16 games last year (compared to 2,903 yards and 18 touchdowns in 15 games in 2024), but his rushing production decreased significantly. In 2024, Hurts amassed 631 rushing yards and 14 touchdowns on the ground, but those numbers dipped to 421 rushing yards and eight touchdowns in 2025. He only threw six interceptions last season, but he also lost four fumbles. Hurts also lost his No. 1 target from the 2025 season after the Eagles traded A.J. Brown (121 targets in 2025) to the New England Patriots in June. Hurts will rely on DeVonta Smith (who had similar production to Brown in 2025), Dontayvion Wicks, Makai Lemon, Dallas Goedert, Saquon Barkley, and others in 2026. The Commanders ranked near the bottom of the NFL in passing yards allowed per game in 2025 (242.5), checking in at 28th. Hurts ranks as RotoBaller's No. 5 quarterback heading into the 2026 campaign. He is a must-start player for Week 1 and a strong DFS option as well.",
+      "metadata": {
+        "description": "Philadelphia Eagles quarterback Jalen Hurts enters his seventh season in the NFL in 2026, and his first under new offensive coordinator Sean Mannion - whom Hurts recently referred to as a \"North Star.\" Hurts and the Eagles take on the NFC East rival Washington Commanders in Week 1. Hurts finished the 2025 season as the No. 9 quarterback in total fantasy points, and the No. 7 quarterback in fantasy points-per-game. He saw an increase in his passing production in 2025, as he threw for 3,224 yards and 25 touchdowns in 16 games last year (compared to 2,903 yards and 18 touchdowns in 15 games in 2024), but his rushing production decreased significantly. In 2024, Hurts amassed 631 rushing yards and 14 touchdowns on the ground, but those numbers dipped to 421 rushing yards and eight touchdowns in 2025. He only threw six interceptions last season, but he also lost four fumbles. Hurts also lost his No. 1 target from the 2025 season after the Eagles traded A.J. Brown (121 targets in 2025) to the New England Patriots in June. Hurts will rely on DeVonta Smith (who had similar production to Brown in 2025), Dontayvion Wicks, Makai Lemon, Dallas Goedert, Saquon Barkley, and others in 2026. The Commanders ranked near the bottom of the NFL in passing yards allowed per game in 2025 (242.5), checking in at 28th. Hurts ranks as RotoBaller's No. 5 quarterback heading into the 2026 campaign. He is a must-start player for Week 1 and a strong DFS option as well.",
+        "title": "Jalen Hurts Looks to Thrive in Philadelphia's New Offense in Week 1",
+        "topic_id": "1404434208583110656",
+        "url": "https://www.rotoballer.com/player-news/jalen-hurts-looks-to-thrive-in-philadelphias-new-offense/1928949"
+      },
+      "nfl_team": "PHI",
+      "player_id": "6904",
+      "player_name": "Jalen Hurts",
+      "position": "QB",
+      "published": 1789190863000,
+      "source": "rotoballer",
+      "source_key": "220742",
+      "story_id": "nfl|6904|rotoballer|220742|1789190863000",
+      "title": "Jalen Hurts Looks to Thrive in Philadelphia's New Offense in Week 1",
+      "url": "https://www.rotoballer.com/player-news/jalen-hurts-looks-to-thrive-in-philadelphias-new-offense/1928949"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts Kicker Spencer Shrader won the preseason kicking competition against Blake Grupe and will face the Baltimore Ravens in Week 1. During the preseason, Shrader went five-for-five in field goals, including two from at least 60 yards, which makes him incredibly valuable for fantasy managers. Shrader had his 2025 season cut short with an ACL and MCL tear in Week 5 and was replaced by Grupe for the rest of the season, but he was 13-for-14 in field goals and 14-for-14 in extra points before going down. Because of this injury, many managers drafting in 2026 may have forgotten how dominant he was in early 2025, averaging 13 points per game in the first four weeks. Lastly, this week's game against the Ravens has one of the week's highest over/under totals at 47.5, which should translate to plenty of kicking opportunities for Shrader. More importantly, the match is at home in the controlled environment of Lucas Oil Stadium, which gives Shrader a slight edge over kickers playing outdoors. Shrader appears fully recovered and is a viable starter for the Colts and for managers in 12-person or larger leagues with kickers.",
+      "metadata": {
+        "description": "Indianapolis Colts Kicker Spencer Shrader won the preseason kicking competition against Blake Grupe and will face the Baltimore Ravens in Week 1. During the preseason, Shrader went five-for-five in field goals, including two from at least 60 yards, which makes him incredibly valuable for fantasy managers. Shrader had his 2025 season cut short with an ACL and MCL tear in Week 5 and was replaced by Grupe for the rest of the season, but he was 13-for-14 in field goals and 14-for-14 in extra points before going down. Because of this injury, many managers drafting in 2026 may have forgotten how dominant he was in early 2025, averaging 13 points per game in the first four weeks. Lastly, this week's game against the Ravens has one of the week's highest over/under totals at 47.5, which should translate to plenty of kicking opportunities for Shrader. More importantly, the match is at home in the controlled environment of Lucas Oil Stadium, which gives Shrader a slight edge over kickers playing outdoors. Shrader appears fully recovered and is a viable starter for the Colts and for managers in 12-person or larger leagues with kickers.",
+        "title": "Spencer Shrader is an Overlooked Start in Week 1 with Potential Long-Term Value",
+        "topic_id": "1404426657225359360",
+        "url": "https://www.rotoballer.com/player-news/spencer-shrader-is-an-overlooked-start-in-week-1-with-potential-long-term-value/1929184"
+      },
+      "nfl_team": "IND",
+      "player_id": "12185",
+      "player_name": "Spencer Shrader",
+      "position": "K",
+      "published": 1789189145000,
+      "source": "rotoballer",
+      "source_key": "220741",
+      "story_id": "nfl|12185|rotoballer|220741|1789189145000",
+      "title": "Spencer Shrader is an Overlooked Start in Week 1 with Potential Long-Term Value",
+      "url": "https://www.rotoballer.com/player-news/spencer-shrader-is-an-overlooked-start-in-week-1-with-potential-long-term-value/1929184"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Josh Downs (calf) practiced in full all week and looks to put his minor training camp injury behind him as he goes into Week 1 against the Baltimore Ravens. Admittedly, Downs is coming off a rough 2025 season, setting career lows in receiving yards (566), targets (88), and receptions (58). Even though Michael Pittman Jr. moved on during the offseason, Downs will still share targets with freshly acquired veteran Keenan Allen and Alec Pierce (heel), with the latter possibly being on a snap count in Week 1. Downs showed promise last year between Weeks 6 and 9 with quarterback Daniel Jones, finishing as a WR2 in each week except for Week 7 when he was ruled out due to a concussion. Looking to this Sunday, Downs has a decent matchup against the Ravens defense, which ranked in the bottom five against wide receivers last year. However, the Ravens defense got a massive overhaul in the offseason and will almost certainly show different schemes this year under new head coach Jesse Minter. This week, Downs is Rotoballer's WR33, placing him firmly in WR3/low-end flex territory, but with high upside.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Josh Downs (calf) practiced in full all week and looks to put his minor training camp injury behind him as he goes into Week 1 against the Baltimore Ravens. Admittedly, Downs is coming off a rough 2025 season, setting career lows in receiving yards (566), targets (88), and receptions (58). Even though Michael Pittman Jr. moved on during the offseason, Downs will still share targets with freshly acquired veteran Keenan Allen and Alec Pierce (heel), with the latter possibly being on a snap count in Week 1. Downs showed promise last year between Weeks 6 and 9 with quarterback Daniel Jones, finishing as a WR2 in each week except for Week 7 when he was ruled out due to a concussion. Looking to this Sunday, Downs has a decent matchup against the Ravens defense, which ranked in the bottom five against wide receivers last year. However, the Ravens defense got a massive overhaul in the offseason and will almost certainly show different schemes this year under new head coach Jesse Minter. This week, Downs is Rotoballer's WR33, placing him firmly in WR3/low-end flex territory, but with high upside.",
+        "title": "Josh Downs is an Intriguing Option for Deep Leagues in Week 1",
+        "topic_id": "1404421623720763392",
+        "url": "https://www.rotoballer.com/player-news/josh-downs-is-an-intriguing-option-for-deep-leagues-in-week-1/1929176"
+      },
+      "nfl_team": "IND",
+      "player_id": "9500",
+      "player_name": "Josh Downs",
+      "position": "WR",
+      "published": 1789187654000,
+      "source": "rotoballer",
+      "source_key": "220740",
+      "story_id": "nfl|9500|rotoballer|220740|1789187654000",
+      "title": "Josh Downs is an Intriguing Option for Deep Leagues in Week 1",
+      "url": "https://www.rotoballer.com/player-news/josh-downs-is-an-intriguing-option-for-deep-leagues-in-week-1/1929176"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens tight end Mark Andrews looks to bounce back this season, and his campaign starts in Indianapolis against the Colts in Week 1. Andrews is entering the first year of his three-year, $39.3 million contract extension signed in December and is leading a rebuilt tight end room. Veteran Durham Smythe joined in the offseason, and rookies Matt Hibner and Josh Cuevas each made strong showings during the preseason. Smythe is expected to handle much of the blocking work, while the younger tight ends will develop over the course of the season. Andrews is coming off one of his worst career years, in terms of efficiency, but he had a promising camp and looks healthy heading into his ninth season with the Ravens. Last year, Andrews had a career-low 422 total yards, despite playing all 17 games, and averaged just 24.8 receiving yards per game. He also had career lows in several advanced metrics, including yards per reception (8.8), receiving EPA (-9.2), air yards per target (7.8), and yards after catch over expected (-23). However, the Colts defense was in the bottom ten against tight ends in 2025, allowing an average of 12.6 points to the position. Andrews should fall right behind wide receiver Zay Flowers in targets on Sunday. Most importantly, the veteran tight end has established trust with quarterback Lamar Jackson, especially in the red zone, which probably makes him a low-end TE1 going into Week 1.",
+      "metadata": {
+        "description": "Baltimore Ravens tight end Mark Andrews looks to bounce back this season, and his campaign starts in Indianapolis against the Colts in Week 1. Andrews is entering the first year of his three-year, $39.3 million contract extension signed in December and is leading a rebuilt tight end room. Veteran Durham Smythe joined in the offseason, and rookies Matt Hibner and Josh Cuevas each made strong showings during the preseason. Smythe is expected to handle much of the blocking work, while the younger tight ends will develop over the course of the season. Andrews is coming off one of his worst career years, in terms of efficiency, but he had a promising camp and looks healthy heading into his ninth season with the Ravens. Last year, Andrews had a career-low 422 total yards, despite playing all 17 games, and averaged just 24.8 receiving yards per game. He also had career lows in several advanced metrics, including yards per reception (8.8), receiving EPA (-9.2), air yards per target (7.8), and yards after catch over expected (-23). However, the Colts defense was in the bottom ten against tight ends in 2025, allowing an average of 12.6 points to the position. Andrews should fall right behind wide receiver Zay Flowers in targets on Sunday. Most importantly, the veteran tight end has established trust with quarterback Lamar Jackson, especially in the red zone, which probably makes him a low-end TE1 going into Week 1.",
+        "title": "Mark Andrews is Quietly a Solid Start in Week 1",
+        "topic_id": "1404414077354147840",
+        "url": "https://www.rotoballer.com/player-news/mark-andrews-is-quietly-a-solid-start-in-week-1/1929169"
+      },
+      "nfl_team": "BAL",
+      "player_id": "5012",
+      "player_name": "Mark Andrews",
+      "position": "TE",
+      "published": 1789186265000,
+      "source": "rotoballer",
+      "source_key": "220739",
+      "story_id": "nfl|5012|rotoballer|220739|1789186265000",
+      "title": "Mark Andrews is Quietly a Solid Start in Week 1",
+      "url": "https://www.rotoballer.com/player-news/mark-andrews-is-quietly-a-solid-start-in-week-1/1929169"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Zay Flowers (hamstring) is off the injury report after logging a limited practice on Wednesday and is ready to take on the Indianapolis Colts in Week 1. Flowers led the Ravens in targets, receptions, and yards, and is clearly quarterback Lamar Jackson's preferred pass catcher, as he enjoyed a 25% target share in 2025. Moreover, Zay Flowers averaged 2.5 yards per route run last season, the third-most among 76 wide receivers who ran at least 300 routes, according to Next Gen Stats; only Puka Nacua (3.8) and Jaxon Smith-Njigba (3.7) averaged more. However, the Colts secondary has gotten healthier over the off-season, and they boast two All-Pro cornerbacks in Sauce Gardner and Charvarius Ward Sr., which may hinder Flowers' ability to separate downfield. Nonetheless, fantasy managers probably drafted Flowers as their WR2, and he lands within Rotoballer's top 12, making him a borderline WR1 heading into Week 1.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Zay Flowers (hamstring) is off the injury report after logging a limited practice on Wednesday and is ready to take on the Indianapolis Colts in Week 1. Flowers led the Ravens in targets, receptions, and yards, and is clearly quarterback Lamar Jackson's preferred pass catcher, as he enjoyed a 25% target share in 2025. Moreover, Zay Flowers averaged 2.5 yards per route run last season, the third-most among 76 wide receivers who ran at least 300 routes, according to Next Gen Stats; only Puka Nacua (3.8) and Jaxon Smith-Njigba (3.7) averaged more. However, the Colts secondary has gotten healthier over the off-season, and they boast two All-Pro cornerbacks in Sauce Gardner and Charvarius Ward Sr., which may hinder Flowers' ability to separate downfield. Nonetheless, fantasy managers probably drafted Flowers as their WR2, and he lands within Rotoballer's top 12, making him a borderline WR1 heading into Week 1.",
+        "title": "Zay Flowers Set to Lead Ravens Receiving Corps in Week 1",
+        "topic_id": "1404405267239600128",
+        "url": "https://www.rotoballer.com/player-news/zay-flowers-set-to-lead-ravens-receiving-corps-in-week-1/1929167"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1789183865000,
+      "source": "rotoballer",
+      "source_key": "220738",
+      "story_id": "nfl|9997|rotoballer|220738|1789183865000",
+      "title": "Zay Flowers Set to Lead Ravens Receiving Corps in Week 1",
+      "url": "https://www.rotoballer.com/player-news/zay-flowers-set-to-lead-ravens-receiving-corps-in-week-1/1929167"
+    },
     {
       "analysis": "Davis was injured in practice on Friday. He will miss at least the next four games. ",
       "description": "Cowboys running back Malik Davis is scheduled to have hip surgery on Saturday and be placed on injured reserve",
@@ -91,6 +200,26 @@
       "story_id": "nfl|11631|rotoballer|220736|1789174626000",
       "title": "Brian Thomas Jr.'s Target Share Uncertain for Week 1",
       "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-s-target-share-uncertain-for-week-1/1929144"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders third-year quarterback Jayden Daniels is coming off a disappointing sophomore campaign that was derailed by injuries. The 25-year-old started only seven games and only played four full games, and his completion percentage fell from the historic 69% mark in his rookie season to 60.6% in 2025. Daniels enters the 2026 regular season fully healthy and motivated to produce with a revamped pass-catching group, headlined by the addition of veteran WR Stefon Diggs, along with third-round rookie WR Antonio Williams, TE Chig Okonkwo, and RB Rachaad White. The loss of star LT Laremy Tunsil (triceps) is a major blow, but Daniels also led Washington to a top-5 offense without him two seasons ago. The LSU product faces a strong challenge on the road in Philadelphia in Week 1, where he last took the field more than one season ago in the 2024-25 NFC Championship Game. Facing the vaunted Super Bowl-winning Eagles defense three times as a rookie, Daniels averaged 24.29 fantasy points per game in those matchups. The Eagles' defense again looks primed to be one of the best in football after allowing the fewest passing touchdowns last season, but Daniels still projects favorably due to his dual-threat ability. Daniels ranks as RotoBaller's QB12 for Week 1.",
+      "metadata": {
+        "description": "Washington Commanders third-year quarterback Jayden Daniels is coming off a disappointing sophomore campaign that was derailed by injuries. The 25-year-old started only seven games and only played four full games, and his completion percentage fell from the historic 69% mark in his rookie season to 60.6% in 2025. Daniels enters the 2026 regular season fully healthy and motivated to produce with a revamped pass-catching group, headlined by the addition of veteran WR Stefon Diggs, along with third-round rookie WR Antonio Williams, TE Chig Okonkwo, and RB Rachaad White. The loss of star LT Laremy Tunsil (triceps) is a major blow, but Daniels also led Washington to a top-5 offense without him two seasons ago. The LSU product faces a strong challenge on the road in Philadelphia in Week 1, where he last took the field more than one season ago in the 2024-25 NFC Championship Game. Facing the vaunted Super Bowl-winning Eagles defense three times as a rookie, Daniels averaged 24.29 fantasy points per game in those matchups. The Eagles' defense again looks primed to be one of the best in football after allowing the fewest passing touchdowns last season, but Daniels still projects favorably due to his dual-threat ability. Daniels ranks as RotoBaller's QB12 for Week 1.",
+        "title": "Jayden Daniels Faces Stiff Test in Philly to Open Season",
+        "topic_id": "1404434208696356864",
+        "url": "https://www.rotoballer.com/player-news/jayden-daniels-faces-stiff-test-in-philly-to-open-season/1929128"
+      },
+      "nfl_team": "WAS",
+      "player_id": "11566",
+      "player_name": "Jayden Daniels",
+      "position": "QB",
+      "published": 1789172527000,
+      "source": "rotoballer",
+      "source_key": "220743",
+      "story_id": "nfl|11566|rotoballer|220743|1789172527000",
+      "title": "Jayden Daniels Faces Stiff Test in Philly to Open Season",
+      "url": "https://www.rotoballer.com/player-news/jayden-daniels-faces-stiff-test-in-philly-to-open-season/1929128"
     },
     {
       "analysis": "The lone pass Ferguson saw from Matthew Stafford was on fourth-and-5 midway through the fourth quarter, which easily sailed over the second-year tight end and out of bounds. Ferguson's 31 snaps on offense were ahead of Tyler Higbee (12) but behind Colby Parkinson (41), so Ferguson's role in the Rams offense figures to mostly be as a run blocker in 12- and 13-man personnel. The Rams will host the Giants in Week 2 on Monday, Sept. 21.",
@@ -55979,26 +56108,6 @@
       "story_id": "nfl|11631|rotoballer|218476|1786615506000",
       "title": "Brian Thomas Jr. to Be Showcased in X Role",
       "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-s-speed-to-be-showcased-in-x-role/1908103"
-    },
-    {
-      "analysis": null,
-      "description": "Arizona Cardinals tight end Trey McBride's 126 receptions in 2025 were a single-season positional record, while his 252.9 half-PPR fantasy points were almost 90 more than the next closest tight end, but new head coach Mike LaFleur indicated on Wednesday a belief that the first-team All-Pro still has room for growth. \"Here was your route tree since you've been here... What can we expand off it?\" he recounted to the media. \"I think he can have maybe a deeper intermediate route tree.\" Among 53 tight ends with at least 25 targets in 2025, McBride's 9.8 yards per reception ranked 34th, and while his underneath work allowed him to dominate in PPR leagues, the addition of more explosive plays could raise his ceiling even higher in 2026. The two-time Pro Bowler is RotoBaller's TE2 and a player who rarely escapes the second round of drafts.",
-      "metadata": {
-        "description": "Arizona Cardinals tight end Trey McBride's 126 receptions in 2025 were a single-season positional record, while his 252.9 half-PPR fantasy points were almost 90 more than the next closest tight end, but new head coach Mike LaFleur indicated on Wednesday a belief that the first-team All-Pro still has room for growth. \"Here was your route tree since you've been here... What can we expand off it?\" he recounted to the media. \"I think he can have maybe a deeper intermediate route tree.\" Among 53 tight ends with at least 25 targets in 2025, McBride's 9.8 yards per reception ranked 34th, and while his underneath work allowed him to dominate in PPR leagues, the addition of more explosive plays could raise his ceiling even higher in 2026. The two-time Pro Bowler is RotoBaller's TE2 and a player who rarely escapes the second round of drafts.",
-        "title": "Cardinals Believe Trey McBride Can Still Do More",
-        "topic_id": "1393621710720237568",
-        "url": "https://www.rotoballer.com/player-news/cardinals-believe-trey-mcbride-can-still-do-more/1908057"
-      },
-      "nfl_team": "ARI",
-      "player_id": "8130",
-      "player_name": "Trey McBride",
-      "position": "TE",
-      "published": 1786613106000,
-      "source": "rotoballer",
-      "source_key": "218473",
-      "story_id": "nfl|8130|rotoballer|218473|1786613106000",
-      "title": "Cardinals Believe Trey McBride Can Still Do More",
-      "url": "https://www.rotoballer.com/player-news/cardinals-believe-trey-mcbride-can-still-do-more/1908057"
     }
   ]
 }
