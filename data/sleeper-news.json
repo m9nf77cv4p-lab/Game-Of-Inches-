@@ -1,15 +1,26 @@
 {
-  "last_checked_at": "2026-09-12T09:58:15Z",
+  "last_checked_at": "2026-09-12T13:30:03Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 287,
   "new_story_ids": [
-    "nfl|11566|rotoballer|220743|1789172527000",
-    "nfl|12185|rotoballer|220741|1789189145000",
-    "nfl|4035|fantasy_pros|607273|1789197019139",
-    "nfl|5012|rotoballer|220739|1789186265000",
-    "nfl|6904|rotoballer|220742|1789190863000",
-    "nfl|9500|rotoballer|220740|1789187654000",
-    "nfl|9997|rotoballer|220738|1789183865000"
+    "nfl|11610|rotoballer|220756|1789200306000",
+    "nfl|11620|rotoballer|220762|1789204205000",
+    "nfl|11632|rotoballer|220763|1789204805000",
+    "nfl|11643|rotoballer|220751|1789197426000",
+    "nfl|11646|rotoballer|220744|1789192626000",
+    "nfl|12495|rotoballer|220752|1789198206000",
+    "nfl|12518|rotoballer|220754|1789199587000",
+    "nfl|12526|rotoballer|220748|1789194305000",
+    "nfl|13296|rotoballer|220753|1789199345000",
+    "nfl|13311|rotoballer|220757|1789201326000",
+    "nfl|2449|rotoballer|220746|1789172826000",
+    "nfl|5870|rotoballer|220759|1789201967000",
+    "nfl|6797|rotoballer|220764|1789204627000",
+    "nfl|6813|rotoballer|220745|1789192326000",
+    "nfl|8136|rotoballer|220747|1789172705000",
+    "nfl|8142|rotoballer|220755|1789200127000",
+    "nfl|8161|rotoballer|220749|1789195805000",
+    "nfl|9226|rotoballer|220750|1789196405000"
   ],
   "schema_version": 1,
   "source": {
@@ -19,6 +30,226 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "New York Giants wide receiver Malik Nabers (knee) is medically cleared to play in Week 1 but remains a game-time decision, per ESPN's Jeremy Fowler. Fowler reports that the Giants are \"prepared for (Nabers) to play,\" but that the decision is ultimately \"up to (Nabers) and how he feels.\" The 23-year-old is working his way back from the devastating knee injury that ended his 2025 season in Week 4. Given the severity of the injury and the length of his absence, the thought is that both the team and player are taking a long-term view of his recovery rather than focusing on rushing him back out onto the field. The Giants play the Dallas Cowboys in Sunday Night Football, so fantasy managers may have to decide whether or not to leave Nabers in their lineups before knowing for sure if he will be active. If Nabers is unable to play, Giants wideouts Darnell Mooney, Malachi Fields, and Odell Beckham Jr. could all be available on the waiver wire and would likely see increased workloads.",
+      "metadata": {
+        "description": "New York Giants wide receiver Malik Nabers (knee) is medically cleared to play in Week 1 but remains a game-time decision, per ESPN's Jeremy Fowler. Fowler reports that the Giants are \"prepared for (Nabers) to play,\" but that the decision is ultimately \"up to (Nabers) and how he feels.\" The 23-year-old is working his way back from the devastating knee injury that ended his 2025 season in Week 4. Given the severity of the injury and the length of his absence, the thought is that both the team and player are taking a long-term view of his recovery rather than focusing on rushing him back out onto the field. The Giants play the Dallas Cowboys in Sunday Night Football, so fantasy managers may have to decide whether or not to leave Nabers in their lineups before knowing for sure if he will be active. If Nabers is unable to play, Giants wideouts Darnell Mooney, Malachi Fields, and Odell Beckham Jr. could all be available on the waiver wire and would likely see increased workloads.",
+        "title": "Malik Nabers Medically Cleared to Play in Week 1, Remains a Game-Time Decision",
+        "topic_id": "1404492095615488000",
+        "url": "https://www.rotoballer.com/player-news/malik-nabers-medically-cleared-to-play-in-week-1-remains-a-game-time-decision/1929353"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1789204805000,
+      "source": "rotoballer",
+      "source_key": "220763",
+      "story_id": "nfl|11632|rotoballer|220763|1789204805000",
+      "title": "Malik Nabers Medically Cleared to Play in Week 1, Remains a Game-Time Decision",
+      "url": "https://www.rotoballer.com/player-news/malik-nabers-medically-cleared-to-play-in-week-1-remains-a-game-time-decision/1929353"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers quarterback Justin Herbert will make his 2026 debut in Mike McDaniel's offense with a favorable home matchup against the Arizona Cardinals on Sunday. The 28-year-old is coming off a solid fantasy football campaign, finishing as the QB10 in overall scoring and points per game (18.7) last year. Herbert is expected to get a statistical boost this season with McDaniel's as the offensive coordinator, who has orchestrated one of the league's most explosive offenses and has led the league in passing yards before. The quarterback-coordinator duo will face a Cardinals pass defense that finished near the bottom in most passing stats last year. They allowed the sixth-most passing touchdowns (31), ninth-most completions (375), 10th-most passing yards (4,128), 11th-highest completion percentage (65.6), and had the third-fewest sacks (30). In addition, the Cardinals will deploy a similar defensive scheme after keeping Nick Rallis as their defensive coordinator and making no big additions on defense this offseason. Herbert is RotoBaller's QB4 in a dream matchup and has it within his realm of outcomes to be the QB1 overall in Week 1.",
+      "metadata": {
+        "description": "Los Angeles Chargers quarterback Justin Herbert will make his 2026 debut in Mike McDaniel's offense with a favorable home matchup against the Arizona Cardinals on Sunday. The 28-year-old is coming off a solid fantasy football campaign, finishing as the QB10 in overall scoring and points per game (18.7) last year. Herbert is expected to get a statistical boost this season with McDaniel's as the offensive coordinator, who has orchestrated one of the league's most explosive offenses and has led the league in passing yards before. The quarterback-coordinator duo will face a Cardinals pass defense that finished near the bottom in most passing stats last year. They allowed the sixth-most passing touchdowns (31), ninth-most completions (375), 10th-most passing yards (4,128), 11th-highest completion percentage (65.6), and had the third-fewest sacks (30). In addition, the Cardinals will deploy a similar defensive scheme after keeping Nick Rallis as their defensive coordinator and making no big additions on defense this offseason. Herbert is RotoBaller's QB4 in a dream matchup and has it within his realm of outcomes to be the QB1 overall in Week 1.",
+        "title": "Justin Herbert Carries QB1 Overall Upside in Fantasy-Friendly Week 1 Matchup",
+        "topic_id": "1404492095611293696",
+        "url": "https://www.rotoballer.com/player-news/justin-herbert-carries-qb1-overall-upside-in-fantasy-friendly-week-1-matchup/1929349"
+      },
+      "nfl_team": "LAC",
+      "player_id": "6797",
+      "player_name": "Justin Herbert",
+      "position": "QB",
+      "published": 1789204627000,
+      "source": "rotoballer",
+      "source_key": "220764",
+      "story_id": "nfl|6797|rotoballer|220764|1789204627000",
+      "title": "Justin Herbert Carries QB1 Overall Upside in Fantasy-Friendly Week 1 Matchup",
+      "url": "https://www.rotoballer.com/player-news/justin-herbert-carries-qb1-overall-upside-in-fantasy-friendly-week-1-matchup/1929349"
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears wide receiver Rome Odunze (calf) is not yet medically cleared to play in his team's season opener against the Carolina Panthers, per ESPN's Jeremy Fowler. Odunze has been battling a calf strain and is officially listed as questionable to play. The 24-year-old told reporters on Friday that he feels \"ready to go,\" but Fowler reports that the team will ultimately be making the call on whether to have him suit up on Sunday. Odunze had the tail end of his 2025 campaign disrupted by a nagging foot injury, so Chicago's decision-makers may be looking to avoid a similar situation where the calf issue lingers in 2026. If Odunze is active, he profiles as a flex option for fantasy managers in Week 1. If he's unable to go, Bears tight end Colston Loveland and wide receiver Luther Burden III would both likely see increased workloads.",
+      "metadata": {
+        "description": "Chicago Bears wide receiver Rome Odunze (calf) is not yet medically cleared to play in his team's season opener against the Carolina Panthers, per ESPN's Jeremy Fowler. Odunze has been battling a calf strain and is officially listed as questionable to play. The 24-year-old told reporters on Friday that he feels \"ready to go,\" but Fowler reports that the team will ultimately be making the call on whether to have him suit up on Sunday. Odunze had the tail end of his 2025 campaign disrupted by a nagging foot injury, so Chicago's decision-makers may be looking to avoid a similar situation where the calf issue lingers in 2026. If Odunze is active, he profiles as a flex option for fantasy managers in Week 1. If he's unable to go, Bears tight end Colston Loveland and wide receiver Luther Burden III would both likely see increased workloads.",
+        "title": "Rome Odunze Not Yet Medically Cleared to Play in Week 1",
+        "topic_id": "1404490838108590080",
+        "url": "https://www.rotoballer.com/player-news/rome-odunze-not-yet-medically-cleared-to-play-in-week-1/1929343"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1789204205000,
+      "source": "rotoballer",
+      "source_key": "220762",
+      "story_id": "nfl|11620|rotoballer|220762|1789204205000",
+      "title": "Rome Odunze Not Yet Medically Cleared to Play in Week 1",
+      "url": "https://www.rotoballer.com/player-news/rome-odunze-not-yet-medically-cleared-to-play-in-week-1/1929343"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts quarterback Daniel Jones (Achilles) is set to take the field Sunday afternoon at home against the Baltimore Ravens for the first time since going down in Week 14 amidst a breakthrough season last year. He was QB13 in fantasy points per game through the first 13 weeks of the 2025 season and was a starter/streaming option for many fantasy managers prior to his injury. Jones' mobility in his first live NFL snap since his right Achilles tear will be a major item of interest in Week 1, but it is unclear how the new Ravens defense will apply pressure. Last year, the Ravens generated the fourth-lowest pressure rate (27.0%) on plays using a four-man pass rush, their lowest mark since 2017. According to Next Gen Stats, in 2025, Jones averaged 8.6 yards per attempt when facing a four-man pass rush through the first 13 weeks prior to suffering his season-ending injury, trailing only Drake Maye (8.9). However, newly acquired Ravens edge rusher Trey Hendrickson has aligned as the right edge on 94.2% of his snaps since 2021, projecting a matchup with Colts left tackle Bernhard Raimann. In their lone prior meeting in Week 14 of 2023, Hendrickson generated seven pressures, including two sacks, across 21 pass-rushing matchups against Raimann, resulting in a 33.3% pressure rate, also according to Next Gen Stats. Admittedly, plenty has changed since that duel almost three years ago, but that potential pressure coupled with the uncertainty surrounding Jones' post-Achilles injury mobility is a concern for his overall fantasy value this week. Jones is Rotoballer's QB23 heading into Sunday, putting him on the edge of superflex consideration in 12-person or larger leagues for Week 1.",
+      "metadata": {
+        "description": "Indianapolis Colts quarterback Daniel Jones (Achilles) is set to take the field Sunday afternoon at home against the Baltimore Ravens for the first time since going down in Week 14 amidst a breakthrough season last year. He was QB13 in fantasy points per game through the first 13 weeks of the 2025 season and was a starter/streaming option for many fantasy managers prior to his injury. Jones' mobility in his first live NFL snap since his right Achilles tear will be a major item of interest in Week 1, but it is unclear how the new Ravens defense will apply pressure. Last year, the Ravens generated the fourth-lowest pressure rate (27.0%) on plays using a four-man pass rush, their lowest mark since 2017. According to Next Gen Stats, in 2025, Jones averaged 8.6 yards per attempt when facing a four-man pass rush through the first 13 weeks prior to suffering his season-ending injury, trailing only Drake Maye (8.9). However, newly acquired Ravens edge rusher Trey Hendrickson has aligned as the right edge on 94.2% of his snaps since 2021, projecting a matchup with Colts left tackle Bernhard Raimann. In their lone prior meeting in Week 14 of 2023, Hendrickson generated seven pressures, including two sacks, across 21 pass-rushing matchups against Raimann, resulting in a 33.3% pressure rate, also according to Next Gen Stats. Admittedly, plenty has changed since that duel almost three years ago, but that potential pressure coupled with the uncertainty surrounding Jones' post-Achilles injury mobility is a concern for his overall fantasy value this week. Jones is Rotoballer's QB23 heading into Sunday, putting him on the edge of superflex consideration in 12-person or larger leagues for Week 1.",
+        "title": "Daniel Jones is a Possible Superflex Option in Week 1",
+        "topic_id": "1404480769677692928",
+        "url": "https://www.rotoballer.com/player-news/daniel-jones-is-a-possible-superflex-option-in-week-1/1929309"
+      },
+      "nfl_team": "IND",
+      "player_id": "5870",
+      "player_name": "Daniel Jones",
+      "position": "QB",
+      "published": 1789201967000,
+      "source": "rotoballer",
+      "source_key": "220759",
+      "story_id": "nfl|5870|rotoballer|220759|1789201967000",
+      "title": "Daniel Jones is a Possible Superflex Option in Week 1",
+      "url": "https://www.rotoballer.com/player-news/daniel-jones-is-a-possible-superflex-option-in-week-1/1929309"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins wide receiver Chris Bell was named as one of the team's starting receivers in his NFL debut in Week 1 against the Las Vegas Raiders. An ACL tear ended his college career at Louisville and caused him to slide to the third round of the 2026 NFL Draft. Even though he missed most of his first training camp while rehabbing, he has made a splash right away with a quick acclimation to the Dolphins' offense. He only played one preseason game, but he was targeted five times in about 10 minutes of game action. In Week 1, Bell is RotoBaller's WR73, just behind teammates Caleb Douglas and Malik Washington. Bell could end up being the top fantasy receiver in Miami's offense at some point this season, and he has a huge opportunity ahead of him. He's extremely high risk for Week 1, but he's a rookie to monitor moving forward.",
+      "metadata": {
+        "description": "Miami Dolphins wide receiver Chris Bell was named as one of the team's starting receivers in his NFL debut in Week 1 against the Las Vegas Raiders. An ACL tear ended his college career at Louisville and caused him to slide to the third round of the 2026 NFL Draft. Even though he missed most of his first training camp while rehabbing, he has made a splash right away with a quick acclimation to the Dolphins' offense. He only played one preseason game, but he was targeted five times in about 10 minutes of game action. In Week 1, Bell is RotoBaller's WR73, just behind teammates Caleb Douglas and Malik Washington. Bell could end up being the top fantasy receiver in Miami's offense at some point this season, and he has a huge opportunity ahead of him. He's extremely high risk for Week 1, but he's a rookie to monitor moving forward.",
+        "title": "Chris Bell Has the Potential to Emerge in Miami's Offense",
+        "topic_id": "1404478253166600192",
+        "url": "https://www.rotoballer.com/player-news/chris-bell-has-the-potential-to-emerge-in-miamis-offense/1929303"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13311",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "published": 1789201326000,
+      "source": "rotoballer",
+      "source_key": "220757",
+      "story_id": "nfl|13311|rotoballer|220757|1789201326000",
+      "title": "Chris Bell Has the Potential to Emerge in Miami's Offense",
+      "url": "https://www.rotoballer.com/player-news/chris-bell-has-the-potential-to-emerge-in-miamis-offense/1929303"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins wide receiver Malik Washington is his team's most proven option at wide receiver coming into the season, which will be the team's first year under new head coach Jeff Hafley and QB Malik Willis. The offense is expected to be very run-heavy, which could leave limited receiving production for anyone in the offense. Washington will be joined by rookies Caleb Douglas and Chris Bell, along with veteran Jalen Tolbert as the team's top receivers. Washington is coming off 46 catches for 317 receiving yards and three scores in addition to 110 rushing yards and another score last season. With Jaylen Waddle out of the picture, he could end up as the team's top receiver this season, but with a new QB and offense, his role is still very uncertain. He's RotoBaller's No. 71 WR in Week 1 despite a favorable matchup against the Raiders, so he's best left on the bench until his workload is clearer.",
+      "metadata": {
+        "description": "Miami Dolphins wide receiver Malik Washington is his team's most proven option at wide receiver coming into the season, which will be the team's first year under new head coach Jeff Hafley and QB Malik Willis. The offense is expected to be very run-heavy, which could leave limited receiving production for anyone in the offense. Washington will be joined by rookies Caleb Douglas and Chris Bell, along with veteran Jalen Tolbert as the team's top receivers. Washington is coming off 46 catches for 317 receiving yards and three scores in addition to 110 rushing yards and another score last season. With Jaylen Waddle out of the picture, he could end up as the team's top receiver this season, but with a new QB and offense, his role is still very uncertain. He's RotoBaller's No. 71 WR in Week 1 despite a favorable matchup against the Raiders, so he's best left on the bench until his workload is clearer.",
+        "title": "Malik Washington Could Be In Position for a Larger Role",
+        "topic_id": "1404474478062211072",
+        "url": "https://www.rotoballer.com/player-news/malik-washington-could-be-in-position-for-a-larger-role/1929285"
+      },
+      "nfl_team": "MIA",
+      "player_id": "11610",
+      "player_name": "Malik Washington",
+      "position": "WR",
+      "published": 1789200306000,
+      "source": "rotoballer",
+      "source_key": "220756",
+      "story_id": "nfl|11610|rotoballer|220756|1789200306000",
+      "title": "Malik Washington Could Be In Position for a Larger Role",
+      "url": "https://www.rotoballer.com/player-news/malik-washington-could-be-in-position-for-a-larger-role/1929285"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Alec Pierce (heel) shed his injury designation Friday afternoon and will play against the Baltimore Ravens in Week 1. Fantasy managers should still exercise some caution, however, as Pierce logged limited practices all week and missed the entirety of training camp while on the Physically Unable to Perform list after undergoing offseason ankle surgery. As of Friday afternoon, it is unclear if the veteran receiver, who led the NFL for two consecutive years in most air yards per reception, will be on a snap count. Even though Pierce finished the 2025 season as the WR23, his injury woes during the off-season pushed him into the later draft rounds, and he was drafted around WR40. Therefore, he is probably not in many starting lineups outside of deep leagues, 3WR leagues, or knockout formats. Additional uncertainty surrounds Pierce's connection with quarterback Daniel Jones (Achilles). It is true that Pierce had two top-five finishes last season after Jones went down with a torn Achilles in Week 14. However, Pierce logged five top-24 finishes with Jones under center, showing a level of familiarity that translates to fantasy success. Pierce managers who don't need a WR4/flex option are best served keeping him on the bench, if possible, for Week 1 to build confidence in his recovery and observe his rapport with Jones.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Alec Pierce (heel) shed his injury designation Friday afternoon and will play against the Baltimore Ravens in Week 1. Fantasy managers should still exercise some caution, however, as Pierce logged limited practices all week and missed the entirety of training camp while on the Physically Unable to Perform list after undergoing offseason ankle surgery. As of Friday afternoon, it is unclear if the veteran receiver, who led the NFL for two consecutive years in most air yards per reception, will be on a snap count. Even though Pierce finished the 2025 season as the WR23, his injury woes during the off-season pushed him into the later draft rounds, and he was drafted around WR40. Therefore, he is probably not in many starting lineups outside of deep leagues, 3WR leagues, or knockout formats. Additional uncertainty surrounds Pierce's connection with quarterback Daniel Jones (Achilles). It is true that Pierce had two top-five finishes last season after Jones went down with a torn Achilles in Week 14. However, Pierce logged five top-24 finishes with Jones under center, showing a level of familiarity that translates to fantasy success. Pierce managers who don't need a WR4/flex option are best served keeping him on the bench, if possible, for Week 1 to build confidence in his recovery and observe his rapport with Jones.",
+        "title": "Alec Pierce is Cleared to Play, but a Risky Start in Week 1",
+        "topic_id": "1404471960955551744",
+        "url": "https://www.rotoballer.com/player-news/alec-pierce-is-cleared-to-play-but-a-risky-start-in-week-1/1929282"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1789200127000,
+      "source": "rotoballer",
+      "source_key": "220755",
+      "story_id": "nfl|8142|rotoballer|220755|1789200127000",
+      "title": "Alec Pierce is Cleared to Play, but a Risky Start in Week 1",
+      "url": "https://www.rotoballer.com/player-news/alec-pierce-is-cleared-to-play-but-a-risky-start-in-week-1/1929282"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts tight end Tyler Warren will face the Baltimore Ravens at home on Sunday in the season opener. Even though Warren draws a stout Ravens defense that held the tight end position to an average of 8.9 fantasy points per game last season, the second-year first-rounder looks to once again dominate the team's target share and receiving lines. With wide receiver Michael Pittman Jr. moving on during the offseason, Warren is primed to lead the team in targets and receptions this year. Wide receiver Alec Pierce (heel), Warren's primary competition for targets, will play on Sunday after logging limited practices all week, but his overall level of involvement is still unclear. Even though Warren gave managers a slight scare in August with a minor groin strain, he is fully off the Colts injury report and will probably play his usual complement of over 80% of offensive snaps and enjoy at least a 20% target share, judging from his usage last year. Lastly, the game has a decent over/under of 47.5, and the Colts are expected to be playing from behind, which should benefit Warren and other Colts pass catchers. Warren is ranked 3rd in Rotoballer's Week 1 tight end rankings, but has the talent, opportunity, and game environment to be the week's overall TE1.",
+      "metadata": {
+        "description": "Indianapolis Colts tight end Tyler Warren will face the Baltimore Ravens at home on Sunday in the season opener. Even though Warren draws a stout Ravens defense that held the tight end position to an average of 8.9 fantasy points per game last season, the second-year first-rounder looks to once again dominate the team's target share and receiving lines. With wide receiver Michael Pittman Jr. moving on during the offseason, Warren is primed to lead the team in targets and receptions this year. Wide receiver Alec Pierce (heel), Warren's primary competition for targets, will play on Sunday after logging limited practices all week, but his overall level of involvement is still unclear. Even though Warren gave managers a slight scare in August with a minor groin strain, he is fully off the Colts injury report and will probably play his usual complement of over 80% of offensive snaps and enjoy at least a 20% target share, judging from his usage last year. Lastly, the game has a decent over/under of 47.5, and the Colts are expected to be playing from behind, which should benefit Warren and other Colts pass catchers. Warren is ranked 3rd in Rotoballer's Week 1 tight end rankings, but has the talent, opportunity, and game environment to be the week's overall TE1.",
+        "title": "Tyler Warren Set to Lead Colts Pass Catchers in Week 1",
+        "topic_id": "1404470702240747520",
+        "url": "https://www.rotoballer.com/player-news/tyler-warren-set-to-lead-colts-pass-catchers-in-week-1/1929275"
+      },
+      "nfl_team": "IND",
+      "player_id": "12518",
+      "player_name": "Tyler Warren",
+      "position": "TE",
+      "published": 1789199587000,
+      "source": "rotoballer",
+      "source_key": "220754",
+      "story_id": "nfl|12518|rotoballer|220754|1789199587000",
+      "title": "Tyler Warren Set to Lead Colts Pass Catchers in Week 1",
+      "url": "https://www.rotoballer.com/player-news/tyler-warren-set-to-lead-colts-pass-catchers-in-week-1/1929275"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins wide receiver Caleb Douglas had an impressive training camp and will likely step directly into a large role against the Raiders in his NFL debut in Week 1. The Dolphins drafted Douglas in the third round out of Texas Tech, and since he's a tall, perimeter receiver with big hands and long arms, he could become a favorite target for new QB Malik Willis. The Miami offense is expected to be very run-heavy, though, so it is unclear exactly how much receiving work will be available for any of the Dolphins' receiving corps. In RotoBaller's Week 1 rankings, Douglas is the highest-rated of all the Dolphins WRs, but he still checks in as the No. 66 WR, meaning he is well outside the starting tier in most standard-sized leagues. Douglas is an unproven option in an unknown offense, but his long-term upside still makes him worth watching closely as a potential emerging option as the season goes on. He's a solid stash going into the season even though he's only a desperation Week 1 starter.",
+      "metadata": {
+        "description": "Miami Dolphins wide receiver Caleb Douglas had an impressive training camp and will likely step directly into a large role against the Raiders in his NFL debut in Week 1. The Dolphins drafted Douglas in the third round out of Texas Tech, and since he's a tall, perimeter receiver with big hands and long arms, he could become a favorite target for new QB Malik Willis. The Miami offense is expected to be very run-heavy, though, so it is unclear exactly how much receiving work will be available for any of the Dolphins' receiving corps. In RotoBaller's Week 1 rankings, Douglas is the highest-rated of all the Dolphins WRs, but he still checks in as the No. 66 WR, meaning he is well outside the starting tier in most standard-sized leagues. Douglas is an unproven option in an unknown offense, but his long-term upside still makes him worth watching closely as a potential emerging option as the season goes on. He's a solid stash going into the season even though he's only a desperation Week 1 starter.",
+        "title": "Caleb Douglas Could Be Miami's Top Receiver in His NFL Debut",
+        "topic_id": "1404469443731419136",
+        "url": "https://www.rotoballer.com/player-news/caleb-douglas-could-be-miamis-top-receiver-in-his-nfl-debut/1929271"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13296",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "published": 1789199345000,
+      "source": "rotoballer",
+      "source_key": "220753",
+      "story_id": "nfl|13296|rotoballer|220753|1789199345000",
+      "title": "Caleb Douglas Could Be Miami's Top Receiver in His NFL Debut",
+      "url": "https://www.rotoballer.com/player-news/caleb-douglas-could-be-miamis-top-receiver-in-his-nfl-debut/1929271"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins running back Ollie Gordon II (rib) was able to shed his non-contact jersey earlier this week and is not on the injury report for his team's Week 1 matchup against the Raiders. While the second-year running back will be available in that favorable matchup, the backfield rotation in Miami under new head coach Jeff Hafley is still a huge unknown. Star running back De'Von Achane will get plenty of work while Jaylen Wright is set to be the primary backup. Gordon brings a different, more physical running style than Wright or Achane, and the second-year back does have potential upside if he gets on the field. Hafley praised Gordon's all-around work early in training camp, and Gordon could mix in enough to be a FLEX play down the road. For Week 1, though, Gordon is only the No. 78 RB in RotoBaller's rankings, so he should be left on the bench or waiver wire until his role is more defined.",
+      "metadata": {
+        "description": "Miami Dolphins running back Ollie Gordon II (rib) was able to shed his non-contact jersey earlier this week and is not on the injury report for his team's Week 1 matchup against the Raiders. While the second-year running back will be available in that favorable matchup, the backfield rotation in Miami under new head coach Jeff Hafley is still a huge unknown. Star running back De'Von Achane will get plenty of work while Jaylen Wright is set to be the primary backup. Gordon brings a different, more physical running style than Wright or Achane, and the second-year back does have potential upside if he gets on the field. Hafley praised Gordon's all-around work early in training camp, and Gordon could mix in enough to be a FLEX play down the road. For Week 1, though, Gordon is only the No. 78 RB in RotoBaller's rankings, so he should be left on the bench or waiver wire until his role is more defined.",
+        "title": "Ollie Gordon II Healthy for Week 1 But in an Uncertain Role",
+        "topic_id": "1404464410092699648",
+        "url": "https://www.rotoballer.com/player-news/ollie-gordon-ii-healthy-for-week-1-but-in-an-uncertain-role/1929262"
+      },
+      "nfl_team": "MIA",
+      "player_id": "12495",
+      "player_name": "Ollie Gordon",
+      "position": "RB",
+      "published": 1789198206000,
+      "source": "rotoballer",
+      "source_key": "220752",
+      "story_id": "nfl|12495|rotoballer|220752|1789198206000",
+      "title": "Ollie Gordon II Healthy for Week 1 But in an Uncertain Role",
+      "url": "https://www.rotoballer.com/player-news/ollie-gordon-ii-healthy-for-week-1-but-in-an-uncertain-role/1929262"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins running back Jaylen Wright will open the season as the second running back on the team's depth chart behind fantasy star De'Von Achane. Achane is expected to carry a heavy load in the team's new-look, run-heavy attack this season, and Wright could rotate in as a change-of-pace option or when Achane gets a breather. Wright has flashed upside when he's gotten opportunities after the Dolphins drafted him in the fourth round of the 2024 NFL Draft out of Tennessee, but his workload in this new offense when Achane is healthy is very uncertain. Most of his value in dynasty leagues or deep leagues is as Achane's handcuff. Even in a favorable matchup against the Raiders, Wright is only the No. 58 RB in RotoBaller's Week 1 rankings",
+      "metadata": {
+        "description": "Miami Dolphins running back Jaylen Wright will open the season as the second running back on the team's depth chart behind fantasy star De'Von Achane. Achane is expected to carry a heavy load in the team's new-look, run-heavy attack this season, and Wright could rotate in as a change-of-pace option or when Achane gets a breather. Wright has flashed upside when he's gotten opportunities after the Dolphins drafted him in the fourth round of the 2024 NFL Draft out of Tennessee, but his workload in this new offense when Achane is healthy is very uncertain. Most of his value in dynasty leagues or deep leagues is as Achane's handcuff. Even in a favorable matchup against the Raiders, Wright is only the No. 58 RB in RotoBaller's Week 1 rankings",
+        "title": "Jaylen Wright Set for a Primary Backup Role in Week 1",
+        "topic_id": "1404461893107666944",
+        "url": "https://www.rotoballer.com/player-news/jaylen-wright-set-for-a-primary-backup-role-in-week-1/1929256"
+      },
+      "nfl_team": "MIA",
+      "player_id": "11643",
+      "player_name": "Jaylen Wright",
+      "position": "RB",
+      "published": 1789197426000,
+      "source": "rotoballer",
+      "source_key": "220751",
+      "story_id": "nfl|11643|rotoballer|220751|1789197426000",
+      "title": "Jaylen Wright Set for a Primary Backup Role in Week 1",
+      "url": "https://www.rotoballer.com/player-news/jaylen-wright-set-for-a-primary-backup-role-in-week-1/1929256"
+    },
     {
       "analysis": "Kamara was listed as questionable after he practiced fully on Friday. He'll be eased into the season if he is available. ",
       "description": "Saints RB Alvin Kamara will not have a \"huge role\" if he plays in Week 1 against the Lions.",
@@ -39,6 +270,106 @@
       "story_id": "nfl|4035|fantasy_pros|607273|1789197019139",
       "title": "Alvin Kamara (knee) not expected to have big role if available in Week 1",
       "url": "https://www.fantasypros.com/nfl/news/607273/alvin-kamara-knee-not-expected-to-have-big-role-if-available-week-1.php"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins running back De'Von Achane is lined up for a massive workload as the Dolphins turn to Malik Willis as their starting quarterback and Bobby Slowik as offensive coordinator. The team is expected to lean heavily on the run game, with Achane and Willis both getting plenty of chances to run the ball. Achane agreed to a four-year extension this past offseason worth $68 million after running for 1,350 rushing yards last season. He averaged an NFL-high 5.7 yards per carry and scored 12 touchdowns, and as the focus of the team's offense, he has both a high floor and a high ceiling since he should get so much volume. Achane is the No. 6 RB in RotoBaller's Week 1 rankings, and this favorable matchup against the Raiders should give us a better idea of what to expect from the Dolphins' new-look offense. With Achane featured in the middle of the action, he is a strong RB1 out of the gate this year.",
+      "metadata": {
+        "description": "Miami Dolphins running back De'Von Achane is lined up for a massive workload as the Dolphins turn to Malik Willis as their starting quarterback and Bobby Slowik as offensive coordinator. The team is expected to lean heavily on the run game, with Achane and Willis both getting plenty of chances to run the ball. Achane agreed to a four-year extension this past offseason worth $68 million after running for 1,350 rushing yards last season. He averaged an NFL-high 5.7 yards per carry and scored 12 touchdowns, and as the focus of the team's offense, he has both a high floor and a high ceiling since he should get so much volume. Achane is the No. 6 RB in RotoBaller's Week 1 rankings, and this favorable matchup against the Raiders should give us a better idea of what to expect from the Dolphins' new-look offense. With Achane featured in the middle of the action, he is a strong RB1 out of the gate this year.",
+        "title": "De'Von Achane Set to Star in a Run-Heavy Offense",
+        "topic_id": "1404456860089638912",
+        "url": "https://www.rotoballer.com/player-news/devon-achane-set-to-star-in-a-run-heavy-offense/1929243"
+      },
+      "nfl_team": "MIA",
+      "player_id": "9226",
+      "player_name": "De'Von Achane",
+      "position": "RB",
+      "published": 1789196405000,
+      "source": "rotoballer",
+      "source_key": "220750",
+      "story_id": "nfl|9226|rotoballer|220750|1789196405000",
+      "title": "De'Von Achane Set to Star in a Run-Heavy Offense",
+      "url": "https://www.rotoballer.com/player-news/devon-achane-set-to-star-in-a-run-heavy-offense/1929243"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins quarterback Malik Willis is ready to make his first start for his new team as the Dolphins kick off their first season under head coach Jeff Hafley with a road game in Las Vegas. Willis signed a three-year, $67.5 million contract this offseason and will replace Tua Tagovailoa as the team's starter this season. Willis played with the Packers, where Hafley was Defensive Coordinator, for the last two seasons, and the offense is expected to rely heavily on his rushing ability in a ground-focused attack. Willis does have upside since he brings so much rushing potential, and he brings a very high ceiling in a favorable matchup against the Raiders' defense. In Week 1, Willis is the No. 19 QB in RotoBaller's rankings, making him a solid second QB in dual-quarterback leagues but a reach to start in most single-QB formats.",
+      "metadata": {
+        "description": "Miami Dolphins quarterback Malik Willis is ready to make his first start for his new team as the Dolphins kick off their first season under head coach Jeff Hafley with a road game in Las Vegas. Willis signed a three-year, $67.5 million contract this offseason and will replace Tua Tagovailoa as the team's starter this season. Willis played with the Packers, where Hafley was Defensive Coordinator, for the last two seasons, and the offense is expected to rely heavily on his rushing ability in a ground-focused attack. Willis does have upside since he brings so much rushing potential, and he brings a very high ceiling in a favorable matchup against the Raiders' defense. In Week 1, Willis is the No. 19 QB in RotoBaller's rankings, making him a solid second QB in dual-quarterback leagues but a reach to start in most single-QB formats.",
+        "title": "Malik Willis Is a Solid Start in Two-QB Leagues",
+        "topic_id": "1404454363266658304",
+        "url": "https://www.rotoballer.com/player-news/malik-willis-is-a-solid-start-in-two-qb-leagues/1929239"
+      },
+      "nfl_team": "MIA",
+      "player_id": "8161",
+      "player_name": "Malik Willis",
+      "position": "QB",
+      "published": 1789195805000,
+      "source": "rotoballer",
+      "source_key": "220749",
+      "story_id": "nfl|8161|rotoballer|220749|1789195805000",
+      "title": "Malik Willis Is a Solid Start in Two-QB Leagues",
+      "url": "https://www.rotoballer.com/player-news/malik-willis-is-a-solid-start-in-two-qb-leagues/1929239"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers wide receiver Tetairoa McMillan is set up for a strong Week 1 against a banged-up Chicago Bears secondary in Week 1. The Bears will be without safety Coby Bryant and cornerback Kyle Gordon for the regular-season opener and allowed the third most fantasy points to wideouts last season. Coming off an impressive rookie campaign where McMillan caught 70 passes for 1,014 yards and seven touchdowns in 17 games, the 23-year-old took home the 2025 Offensive Rookie of the Year Award. According to ESPN's Mike Kaye, McMillan will be used more in the slot in 2026, and Carolina wants to use the second-year wideout's size and strength to get the ball to him more in the middle of the field. McMillan is ranked as RotoBaller's WR23 in PPR formats, and fantasy managers should roll with him in all leagues as a borderline WR2 against the Bears in Week 1.",
+      "metadata": {
+        "description": "Carolina Panthers wide receiver Tetairoa McMillan is set up for a strong Week 1 against a banged-up Chicago Bears secondary in Week 1. The Bears will be without safety Coby Bryant and cornerback Kyle Gordon for the regular-season opener and allowed the third most fantasy points to wideouts last season. Coming off an impressive rookie campaign where McMillan caught 70 passes for 1,014 yards and seven touchdowns in 17 games, the 23-year-old took home the 2025 Offensive Rookie of the Year Award. According to ESPN's Mike Kaye, McMillan will be used more in the slot in 2026, and Carolina wants to use the second-year wideout's size and strength to get the ball to him more in the middle of the field. McMillan is ranked as RotoBaller's WR23 in PPR formats, and fantasy managers should roll with him in all leagues as a borderline WR2 against the Bears in Week 1.",
+        "title": "Tetairoa McMillan in a Smash Spot Against the Bears in Week 1",
+        "topic_id": "1404449308845051904",
+        "url": "https://www.rotoballer.com/player-news/tetairoa-mcmillan-in-a-smash-spot-against-the-bears-in-week-1/1929221"
+      },
+      "nfl_team": "CAR",
+      "player_id": "12526",
+      "player_name": "Tetairoa McMillan",
+      "position": "WR",
+      "published": 1789194305000,
+      "source": "rotoballer",
+      "source_key": "220748",
+      "story_id": "nfl|12526|rotoballer|220748|1789194305000",
+      "title": "Tetairoa McMillan in a Smash Spot Against the Bears in Week 1",
+      "url": "https://www.rotoballer.com/player-news/tetairoa-mcmillan-in-a-smash-spot-against-the-bears-in-week-1/1929221"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers wide receiver Jalen Coker will look to keep things going in Week 1 against the Chicago Bears after an impressive Wild Card round performance against the Rams last season. Coker caught nine passes for 134 yards and a touchdown in the Panthers' lone playoff game. Overall, he caught 33 passes for 394 yards and three touchdowns in 11 games. The 24-year-old signed a three-year, $35 million extension this offseason and is expected to be a big part of Carolina's offense this season. Coker will look to stay hot and has a great matchup against a banged-up Chicago defense that allowed the third most fantasy points to wideouts last season. The Bears defense will also be down two starters in the secondary with safety Coby Bryant and cornerback Kyle Gordon ruled out. He enters as RotoBaller's WR47 and ranks 93rd in our top 200 FLEX rankings. With the positive matchup and his strong connection with quarterback Bryce Young, Coker is a strong FLEX option heading into Week 1. ",
+      "metadata": {
+        "description": "Carolina Panthers wide receiver Jalen Coker will look to keep things going in Week 1 against the Chicago Bears after an impressive Wild Card round performance against the Rams last season. Coker caught nine passes for 134 yards and a touchdown in the Panthers' lone playoff game. Overall, he caught 33 passes for 394 yards and three touchdowns in 11 games. The 24-year-old signed a three-year, $35 million extension this offseason and is expected to be a big part of Carolina's offense this season. Coker will look to stay hot and has a great matchup against a banged-up Chicago defense that allowed the third most fantasy points to wideouts last season. The Bears defense will also be down two starters in the secondary with safety Coby Bryant and cornerback Kyle Gordon ruled out. He enters as RotoBaller's WR47 and ranks 93rd in our top 200 FLEX rankings. With the positive matchup and his strong connection with quarterback Bryce Young, Coker is a strong FLEX option heading into Week 1. ",
+        "title": "Jalen Coker Becomes a Strong FLEX Option in Week 1 Vs. the Bears",
+        "topic_id": "1404440500173340672",
+        "url": "https://www.rotoballer.com/player-news/jalen-coker-becomes-a-strong-flex-option-in-week-1-vs-the-bears/1929205"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11646",
+      "player_name": "Jalen Coker",
+      "position": "WR",
+      "published": 1789192626000,
+      "source": "rotoballer",
+      "source_key": "220744",
+      "story_id": "nfl|11646|rotoballer|220744|1789192626000",
+      "title": "Jalen Coker Becomes a Strong FLEX Option in Week 1 Vs. the Bears",
+      "url": "https://www.rotoballer.com/player-news/jalen-coker-becomes-a-strong-flex-option-in-week-1-vs-the-bears/1929205"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts running back Jonathan Taylor is a high-end RB1 to start the 2026 season against the Baltimore Ravens at home in Week 1. Interestingly, the Week 1 matchup featuring Taylor (1,585 rushing yards in 2025) and Baltimore Ravens running back Derrick Henry (1,595) marks just the fourth game in NFL history to open the season with opposing rushers who each surpassed 1,500 yards the prior season, according to Next Gen stats. Last year, the Ravens' defense ranked 18th against the run, and they will again be without defensive lineman Nnamdi Madubuike (neck) this Sunday, which bodes well for Taylor if he runs between the tackles. In 2025, Taylor had a 56% inside-the-tackles rushing rate, his lowest since 2021, and he faced a stacked box only 17.6% of the time, one of the lowest of all qualified rushers in 2025. Taylor, who led all running backs last year in rushing attempts (323), should dominate opportunities in the Colts' backfield, while also seeing some looks in the passing game. Last year, Taylor had a 15.9% target share and ran an average of 20 routes per game, which is a bonus for managers in PPR formats. Fantasy managers in nearly every format probably drafted Taylor in the first or early second round to be their RB1, and he is a must-start against the Ravens in Week 1.",
+      "metadata": {
+        "description": "Indianapolis Colts running back Jonathan Taylor is a high-end RB1 to start the 2026 season against the Baltimore Ravens at home in Week 1. Interestingly, the Week 1 matchup featuring Taylor (1,585 rushing yards in 2025) and Baltimore Ravens running back Derrick Henry (1,595) marks just the fourth game in NFL history to open the season with opposing rushers who each surpassed 1,500 yards the prior season, according to Next Gen stats. Last year, the Ravens' defense ranked 18th against the run, and they will again be without defensive lineman Nnamdi Madubuike (neck) this Sunday, which bodes well for Taylor if he runs between the tackles. In 2025, Taylor had a 56% inside-the-tackles rushing rate, his lowest since 2021, and he faced a stacked box only 17.6% of the time, one of the lowest of all qualified rushers in 2025. Taylor, who led all running backs last year in rushing attempts (323), should dominate opportunities in the Colts' backfield, while also seeing some looks in the passing game. Last year, Taylor had a 15.9% target share and ran an average of 20 routes per game, which is a bonus for managers in PPR formats. Fantasy managers in nearly every format probably drafted Taylor in the first or early second round to be their RB1, and he is a must-start against the Ravens in Week 1.",
+        "title": "Jonathan Taylor is a Top-Tier Start in Week 1",
+        "topic_id": "1404440500232060928",
+        "url": "https://www.rotoballer.com/player-news/jonathan-taylor-is-a-top-tier-start-in-week-1/1929203"
+      },
+      "nfl_team": "IND",
+      "player_id": "6813",
+      "player_name": "Jonathan Taylor",
+      "position": "RB",
+      "published": 1789192326000,
+      "source": "rotoballer",
+      "source_key": "220745",
+      "story_id": "nfl|6813|rotoballer|220745|1789192326000",
+      "title": "Jonathan Taylor is a Top-Tier Start in Week 1",
+      "url": "https://www.rotoballer.com/player-news/jonathan-taylor-is-a-top-tier-start-in-week-1/1929203"
     },
     {
       "analysis": null,
@@ -102,9 +433,9 @@
     },
     {
       "analysis": null,
-      "description": "Baltimore Ravens tight end Mark Andrews looks to bounce back this season, and his campaign starts in Indianapolis against the Colts in Week 1. Andrews is entering the first year of his three-year, $39.3 million contract extension signed in December and is leading a rebuilt tight end room. Veteran Durham Smythe joined in the offseason, and rookies Matt Hibner and Josh Cuevas each made strong showings during the preseason. Smythe is expected to handle much of the blocking work, while the younger tight ends will develop over the course of the season. Andrews is coming off one of his worst career years, in terms of efficiency, but he had a promising camp and looks healthy heading into his ninth season with the Ravens. Last year, Andrews had a career-low 422 total yards, despite playing all 17 games, and averaged just 24.8 receiving yards per game. He also had career lows in several advanced metrics, including yards per reception (8.8), receiving EPA (-9.2), air yards per target (7.8), and yards after catch over expected (-23). However, the Colts defense was in the bottom ten against tight ends in 2025, allowing an average of 12.6 points to the position. Andrews should fall right behind wide receiver Zay Flowers in targets on Sunday. Most importantly, the veteran tight end has established trust with quarterback Lamar Jackson, especially in the red zone, which probably makes him a low-end TE1 going into Week 1.",
+      "description": "Baltimore Ravens tight end Mark Andrews looks to bounce back this season, and his campaign starts in Indianapolis against the Colts in Week 1. Andrews is entering the first year of his three-year, $39.3 million contract extension signed in December and is leading a rebuilt tight end room. Veteran Durham Smythe joined in the offseason, and rookies Matt Hibner and Josh Cuevas each made strong showings during the preseason. Smythe is expected to handle much of the blocking work, while the younger tight ends will develop over the course of the season. Andrews is coming off one of his worst career years, in terms of efficiency, but he had a promising camp and looks healthy heading into his ninth season with the Ravens. Last year, Andrews had a career-low 422 total yards, despite playing all 17 games, and averaged just 24.8 receiving yards per game. He also had career lows in several advanced metrics, including yards per reception (8.8), receiving EPA (-9.2), air yards per target (7.8), and yards after catch over expected (-23). However, the Colts defense was in the bottom 10 against tight ends in 2025, allowing an average of 12.6 points to the position. Andrews should fall right behind wide receiver Zay Flowers in targets on Sunday. Most importantly, the veteran tight end has established trust with quarterback Lamar Jackson, especially in the red zone, which probably makes him a low-end TE1 going into Week 1.",
       "metadata": {
-        "description": "Baltimore Ravens tight end Mark Andrews looks to bounce back this season, and his campaign starts in Indianapolis against the Colts in Week 1. Andrews is entering the first year of his three-year, $39.3 million contract extension signed in December and is leading a rebuilt tight end room. Veteran Durham Smythe joined in the offseason, and rookies Matt Hibner and Josh Cuevas each made strong showings during the preseason. Smythe is expected to handle much of the blocking work, while the younger tight ends will develop over the course of the season. Andrews is coming off one of his worst career years, in terms of efficiency, but he had a promising camp and looks healthy heading into his ninth season with the Ravens. Last year, Andrews had a career-low 422 total yards, despite playing all 17 games, and averaged just 24.8 receiving yards per game. He also had career lows in several advanced metrics, including yards per reception (8.8), receiving EPA (-9.2), air yards per target (7.8), and yards after catch over expected (-23). However, the Colts defense was in the bottom ten against tight ends in 2025, allowing an average of 12.6 points to the position. Andrews should fall right behind wide receiver Zay Flowers in targets on Sunday. Most importantly, the veteran tight end has established trust with quarterback Lamar Jackson, especially in the red zone, which probably makes him a low-end TE1 going into Week 1.",
+        "description": "Baltimore Ravens tight end Mark Andrews looks to bounce back this season, and his campaign starts in Indianapolis against the Colts in Week 1. Andrews is entering the first year of his three-year, $39.3 million contract extension signed in December and is leading a rebuilt tight end room. Veteran Durham Smythe joined in the offseason, and rookies Matt Hibner and Josh Cuevas each made strong showings during the preseason. Smythe is expected to handle much of the blocking work, while the younger tight ends will develop over the course of the season. Andrews is coming off one of his worst career years, in terms of efficiency, but he had a promising camp and looks healthy heading into his ninth season with the Ravens. Last year, Andrews had a career-low 422 total yards, despite playing all 17 games, and averaged just 24.8 receiving yards per game. He also had career lows in several advanced metrics, including yards per reception (8.8), receiving EPA (-9.2), air yards per target (7.8), and yards after catch over expected (-23). However, the Colts defense was in the bottom 10 against tight ends in 2025, allowing an average of 12.6 points to the position. Andrews should fall right behind wide receiver Zay Flowers in targets on Sunday. Most importantly, the veteran tight end has established trust with quarterback Lamar Jackson, especially in the red zone, which probably makes him a low-end TE1 going into Week 1.",
         "title": "Mark Andrews is Quietly a Solid Start in Week 1",
         "topic_id": "1404414077354147840",
         "url": "https://www.rotoballer.com/player-news/mark-andrews-is-quietly-a-solid-start-in-week-1/1929169"
@@ -200,6 +531,46 @@
       "story_id": "nfl|11631|rotoballer|220736|1789174626000",
       "title": "Brian Thomas Jr.'s Target Share Uncertain for Week 1",
       "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-s-target-share-uncertain-for-week-1/1929144"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders wide receiver Stefon Diggs is set to make his debut in the burgundy and gold in Week 1 against the Philadelphia Eagles. The 32-year-old wideout spent one season in New England, where he recorded 85 catches for 1,013 yards and four touchdowns on 102 targets, playing only 55% of the snaps. Now another season removed from the torn ACL, Diggs has proven to be a favorite target for Jayden Daniels throughout training camp and will be a heavily featured piece of Washington's passing attack alongside Terry McLaurin. Diggs and the passing offense will be put to the test in the season opener against the Philadelphia Eagles, who allowed the fewest passing touchdowns in the league last season. Diggs comes in as RotoBaller's WR43 in PPR leagues for Week 1.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Stefon Diggs is set to make his debut in the burgundy and gold in Week 1 against the Philadelphia Eagles. The 32-year-old wideout spent one season in New England, where he recorded 85 catches for 1,013 yards and four touchdowns on 102 targets, playing only 55% of the snaps. Now another season removed from the torn ACL, Diggs has proven to be a favorite target for Jayden Daniels throughout training camp and will be a heavily featured piece of Washington's passing attack alongside Terry McLaurin. Diggs and the passing offense will be put to the test in the season opener against the Philadelphia Eagles, who allowed the fewest passing touchdowns in the league last season. Diggs comes in as RotoBaller's WR43 in PPR leagues for Week 1.",
+        "title": "Stefon Diggs Projects as Flex Option in Week 1",
+        "topic_id": "1404441758653267968",
+        "url": "https://www.rotoballer.com/player-news/stefon-diggs-projects-as-flex-option-in-week-1/1929132"
+      },
+      "nfl_team": "WAS",
+      "player_id": "2449",
+      "player_name": "Stefon Diggs",
+      "position": "WR",
+      "published": 1789172826000,
+      "source": "rotoballer",
+      "source_key": "220746",
+      "story_id": "nfl|2449|rotoballer|220746|1789172826000",
+      "title": "Stefon Diggs Projects as Flex Option in Week 1",
+      "url": "https://www.rotoballer.com/player-news/stefon-diggs-projects-as-flex-option-in-week-1/1929132"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Rachaad White has been a reliable fantasy producer over the last few seasons, with some upside mixed in at times. The 27-year-old finished as high as the RB10 in PPR/G in 2023, recording the fourth most receptions among running backs in the league that season with 64. White's inefficiencies as a runner have limited his overall upside to this point in his career, though he's still one of the most effective pass-catching backs in the league. Washington's offense missed the receiving ability of RB Austin Ekeler after he got injured early last season, which is the role that White is now aiming to fill. Jayden Daniels doesn't throw to his running backs at an extreme rate. Still, Ekeler played 17 total games with the Commanders (including playoffs) and averaged 3.7 targets and 3.1 catches per game, which are similar to White's career numbers. It remains to be seen how White works into the offense alongside Jacory Croskey-Merritt, but White is expected to play an important role early. White has a challenging matchup in Week 1 against the Eagles, ranking as RotoBaller's RB35 in PPR leagues.",
+      "metadata": {
+        "description": "Washington Commanders running back Rachaad White has been a reliable fantasy producer over the last few seasons, with some upside mixed in at times. The 27-year-old finished as high as the RB10 in PPR/G in 2023, recording the fourth most receptions among running backs in the league that season with 64. White's inefficiencies as a runner have limited his overall upside to this point in his career, though he's still one of the most effective pass-catching backs in the league. Washington's offense missed the receiving ability of RB Austin Ekeler after he got injured early last season, which is the role that White is now aiming to fill. Jayden Daniels doesn't throw to his running backs at an extreme rate. Still, Ekeler played 17 total games with the Commanders (including playoffs) and averaged 3.7 targets and 3.1 catches per game, which are similar to White's career numbers. It remains to be seen how White works into the offense alongside Jacory Croskey-Merritt, but White is expected to play an important role early. White has a challenging matchup in Week 1 against the Eagles, ranking as RotoBaller's RB35 in PPR leagues.",
+        "title": "Rachaad White in Flex Territory for Week 1",
+        "topic_id": "1404441758665850880",
+        "url": "https://www.rotoballer.com/player-news/rachaad-white-in-flex-territory-for-week-1/1929130"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8136",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "published": 1789172705000,
+      "source": "rotoballer",
+      "source_key": "220747",
+      "story_id": "nfl|8136|rotoballer|220747|1789172705000",
+      "title": "Rachaad White in Flex Territory for Week 1",
+      "url": "https://www.rotoballer.com/player-news/rachaad-white-in-flex-territory-for-week-1/1929130"
     },
     {
       "analysis": null,
@@ -56028,86 +56399,6 @@
       "story_id": "nfl|9486|rotoballer|218498|1786629305000",
       "title": "Dontayvion Wicks Looking Like Eagles' WR2 in Training Camp",
       "url": "https://www.rotoballer.com/player-news/dontayvion-wicks-looking-like-eagles-wr2-in-training-camp/1908276"
-    },
-    {
-      "analysis": null,
-      "description": "San Francisco 49ers wide receiver Ricky Pearsall (knee) underwent season-ending surgery for his PCL injury to his right knee, according to David Lombardi of The San Francisco Standard. In Pearsall's social-media post, the former first-rounder said he had never missed a game due to a football injury in his entire career at any level. The 49ers expect Pearsall to miss anywhere from six to 12 months, and he's already been ruled out for the entire 2025 season. The 25-year-old played in just 20 games (13 starts) in his first two years in the NFL due to injury, including only nine starts last year. He's recorded 67 catches on 99 targets for 928 yards and three touchdowns in his 20 regular-season games. It's unclear if Pearsall will be ready for the start of training camp and the regular season in 2027. Pearsall's redraft and dynasty/keeper value has hit rock bottom. In his absence in 2026, rookie second-round receiver De'Zhaun Stribling will have an opportunity to carve out a larger role alongside veterans Mike Evans, Deebo Samuel Sr., and Christian Kirk.",
-      "metadata": {
-        "description": "San Francisco 49ers wide receiver Ricky Pearsall (knee) underwent season-ending surgery for his PCL injury to his right knee, according to David Lombardi of The San Francisco Standard. In Pearsall's social-media post, the former first-rounder said he had never missed a game due to a football injury in his entire career at any level. The 49ers expect Pearsall to miss anywhere from six to 12 months, and he's already been ruled out for the entire 2025 season. The 25-year-old played in just 20 games (13 starts) in his first two years in the NFL due to injury, including only nine starts last year. He's recorded 67 catches on 99 targets for 928 yards and three touchdowns in his 20 regular-season games. It's unclear if Pearsall will be ready for the start of training camp and the regular season in 2027. Pearsall's redraft and dynasty/keeper value has hit rock bottom. In his absence in 2026, rookie second-round receiver De'Zhaun Stribling will have an opportunity to carve out a larger role alongside veterans Mike Evans, Deebo Samuel Sr., and Christian Kirk.",
-        "title": "Ricky Pearsall Officially Undergoes Knee Surgery",
-        "topic_id": "1393674644770271232",
-        "url": "https://www.rotoballer.com/player-news/ricky-pearsall-officially-undergoes-knee-surgery/1908222"
-      },
-      "nfl_team": "SF",
-      "player_id": "11638",
-      "player_name": "Ricky Pearsall",
-      "position": "WR",
-      "published": 1786625527000,
-      "source": "rotoballer",
-      "source_key": "218492",
-      "story_id": "nfl|11638|rotoballer|218492|1786625527000",
-      "title": "Ricky Pearsall Officially Undergoes Knee Surgery",
-      "url": "https://www.rotoballer.com/player-news/ricky-pearsall-officially-undergoes-knee-surgery/1908222"
-    },
-    {
-      "analysis": null,
-      "description": "ESPN's Mike Kaye writes that Carolina Panthers tight end Ja'Tavion Sanders \"might need to battle to keep his job\" in Carolina after the addition of veteran Darren Waller on a one-year deal on Wednesday. Sanders has struggled with ankle injuries over the last two seasons and had surgery for his most recent ankle injury last season. The Panthers kept Sanders, Mitchell Evans, Tommy Tremble, and James Mitchell on their 53-man roster in 2025, but with Waller now on board, a dynamic shift could be coming to the team's TE room. Evans and Tremble are traditional TEs, with Waller and Sanders primarily pass-catchers. The 34-year-old Waller will become the oldest non-specialist on the roster when he officially signs. Kaye observes that the Panthers entered Wednesday with just three non-specialists over 30 years old. Feleipe Franks is also held in high regard for his contributions on special teams, which could push Sanders off the roster at the end of the preseason.",
-      "metadata": {
-        "description": "ESPN's Mike Kaye writes that Carolina Panthers tight end Ja'Tavion Sanders \"might need to battle to keep his job\" in Carolina after the addition of veteran Darren Waller on a one-year deal on Wednesday. Sanders has struggled with ankle injuries over the last two seasons and had surgery for his most recent ankle injury last season. The Panthers kept Sanders, Mitchell Evans, Tommy Tremble, and James Mitchell on their 53-man roster in 2025, but with Waller now on board, a dynamic shift could be coming to the team's TE room. Evans and Tremble are traditional TEs, with Waller and Sanders primarily pass-catchers. The 34-year-old Waller will become the oldest non-specialist on the roster when he officially signs. Kaye observes that the Panthers entered Wednesday with just three non-specialists over 30 years old. Feleipe Franks is also held in high regard for his contributions on special teams, which could push Sanders off the roster at the end of the preseason.",
-        "title": "Ja'Tavion Sanders Might Have to Battle to Keep his Job",
-        "topic_id": "1393663240281538560",
-        "url": "https://www.rotoballer.com/player-news/jatavion-sanders-might-have-to-battle-to-keep-his-job/1908196"
-      },
-      "nfl_team": "CAR",
-      "player_id": "11600",
-      "player_name": "Ja'Tavion Sanders",
-      "position": "TE",
-      "published": 1786622826000,
-      "source": "rotoballer",
-      "source_key": "218488",
-      "story_id": "nfl|11600|rotoballer|218488|1786622826000",
-      "title": "Ja'Tavion Sanders Might Have to Battle to Keep his Job",
-      "url": "https://www.rotoballer.com/player-news/jatavion-sanders-might-have-to-battle-to-keep-his-job/1908196"
-    },
-    {
-      "analysis": null,
-      "description": "NewOrleans.Football's Nick Underhill reports that New Orleans Saints second-year quarterback Tyler Shough is \"cooking\" during training camp practice on Thursday. Shough is apparently picking up where he left off this summer after an impressive rookie campaign in the Big Easy in which he threw for 2,384 yards, 10 touchdowns, and six interceptions in his first 11 games (nine starts) in the NFL. The 26-year-old second-rounder from the University of Louisville immediately connected with WR1 Chris Olave and benefited from head coach Kellen Moore's up-tempo offense to go 5-4 as a starter as a rookie. The Saints added running back Travis Etienne Jr. and rookie first-round receiver Jordyn Tyson to the offense, potentially helping Shough to a breakout in his sophomore season in the NFL. To do so, Shough will need to improve his deep passing game, but he has the rushing ability to be a strong QB2 for fantasy managers in 2026.",
-      "metadata": {
-        "description": "NewOrleans.Football's Nick Underhill reports that New Orleans Saints second-year quarterback Tyler Shough is \"cooking\" during training camp practice on Thursday. Shough is apparently picking up where he left off this summer after an impressive rookie campaign in the Big Easy in which he threw for 2,384 yards, 10 touchdowns, and six interceptions in his first 11 games (nine starts) in the NFL. The 26-year-old second-rounder from the University of Louisville immediately connected with WR1 Chris Olave and benefited from head coach Kellen Moore's up-tempo offense to go 5-4 as a starter as a rookie. The Saints added running back Travis Etienne Jr. and rookie first-round receiver Jordyn Tyson to the offense, potentially helping Shough to a breakout in his sophomore season in the NFL. To do so, Shough will need to improve his deep passing game, but he has the rushing ability to be a strong QB2 for fantasy managers in 2026.",
-        "title": "Tyler Shough \"Cooking\" in Thursday's Practice",
-        "topic_id": "1393659463927349248",
-        "url": "https://www.rotoballer.com/player-news/tyler-shough-cooking-in-thursdays-practice/1908189"
-      },
-      "nfl_team": "NO",
-      "player_id": "12545",
-      "player_name": "Tyler Shough",
-      "position": "QB",
-      "published": 1786621795000,
-      "source": "rotoballer",
-      "source_key": "218486",
-      "story_id": "nfl|12545|rotoballer|218486|1786621795000",
-      "title": "Tyler Shough \"Cooking\" in Thursday's Practice",
-      "url": "https://www.rotoballer.com/player-news/tyler-shough-cooking-in-thursdays-practice/1908189"
-    },
-    {
-      "analysis": null,
-      "description": "Following a disappointing sophomore campaign in 2025, Jacksonville Jaguars wide receiver Brian Thomas Jr. could find renewed success as a field-stretcher in 2026. After experimenting with more of an in-traffic role last season, the team wants to make better use of his speed, which NFL reporter Cameron Wolfe described as his superpower. Thomas is expected to be featured in a similar X-role to the one that netted Brandin Cooks 80 receptions and 1,204 yards while working in this offense with the Rams in 2018, and Wolfe has been told that \"it's night and day how he's looked in training camp this year compared to last year.\" Thomas is RotoBaller's WR34, and while his spike weeks will likely prove capable of single-handedly deciding a handful of fantasy matchups, in a crowded Jaguars receiver room, weekly consistency could still be hard to come by.",
-      "metadata": {
-        "description": "Following a disappointing sophomore campaign in 2025, Jacksonville Jaguars wide receiver Brian Thomas Jr. could find renewed success as a field-stretcher in 2026. After experimenting with more of an in-traffic role last season, the team wants to make better use of his speed, which NFL reporter Cameron Wolfe described as his superpower. Thomas is expected to be featured in a similar X-role to the one that netted Brandin Cooks 80 receptions and 1,204 yards while working in this offense with the Rams in 2018, and Wolfe has been told that \"it's night and day how he's looked in training camp this year compared to last year.\" Thomas is RotoBaller's WR34, and while his spike weeks will likely prove capable of single-handedly deciding a handful of fantasy matchups, in a crowded Jaguars receiver room, weekly consistency could still be hard to come by.",
-        "title": "Brian Thomas Jr. to Be Showcased in X Role",
-        "topic_id": "1393631777674764288",
-        "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-s-speed-to-be-showcased-in-x-role/1908103"
-      },
-      "nfl_team": "JAX",
-      "player_id": "11631",
-      "player_name": "Brian Thomas",
-      "position": "WR",
-      "published": 1786615506000,
-      "source": "rotoballer",
-      "source_key": "218476",
-      "story_id": "nfl|11631|rotoballer|218476|1786615506000",
-      "title": "Brian Thomas Jr. to Be Showcased in X Role",
-      "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-s-speed-to-be-showcased-in-x-role/1908103"
     }
   ]
 }

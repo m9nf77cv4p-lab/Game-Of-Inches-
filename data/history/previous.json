@@ -23652,7 +23652,7 @@
       ],
       "first_name": "Keaton",
       "full_name": "Keaton Mitchell",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Mitchell",
       "nfl_team": "LAC",
       "player_id": "9511",
@@ -23968,8 +23968,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-11T21:15:40Z",
-    "source_fingerprint": "421ec5043319641993cc0ffe29bb6177ab96460fac256078e7b9e22c51ae9618"
+    "last_changed_at": "2026-09-11T23:19:43Z",
+    "source_fingerprint": "71b5ed64811e987a96fdf5366557e74116c349af3fce7703151f987dd9d255b7"
   },
   "teams": [
     {
