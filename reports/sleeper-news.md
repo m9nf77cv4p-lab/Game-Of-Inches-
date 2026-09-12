@@ -2,45 +2,155 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2800**
-- Newly captured: **18**
+- Stored stories: **2844**
+- Newly captured: **54**
 
 ## Latest news
 
-- **NEW — Malik Nabers** — Malik Nabers Medically Cleared to Play in Week 1, Remains a Game-Time Decision (2026-09-12T09:20:05Z)
+- **NEW — Michael Mayer** — Michael Mayer agrees to a three-year, $45 million deal with Raiders (2026-09-12T15:15:45.516000Z)
+  - Mayer is an all around contributor, making it well worth the investment for the Raiders. For fantasy, it means that he is behind Brock Bowers for the long term, but maybe the Raiders will employ more tight end sets so both can eat, as they are likely the two most talented pass catchers on the team at this point in time. Time will tell what his fantasy value will become.
+  - Source: https://www.fantasypros.com/nfl/news/607334/michael-mayer-agrees-to-three-year-45-million-deal-with-raiders.php
+- **NEW — Tucker Kraft** — Tucker Kraft signs four year, $75 million deal with Packers (2026-09-12T15:15:45.315000Z)
+  - Kraft was on his way to a massive season in 2025 before going down with a torn ACL. He gets his payday as the Packers lock in their emergeing star for the long haul.
+  - Source: https://www.fantasypros.com/nfl/news/607333/tucker-kraft-signs-four-year-75-million-deal-with-packers.php
+- **NEW — Michael Mayer** — Michael Mayer - Gets three-year extension with Las Vegas (2026-09-12T14:59:35Z)
+  - The deal includes $30 million guaranteed, and the $15 million APY ranks fourth among current tight ends. Mayer has operated as the Raiders' TE2 for the past couple of seasons, but the fourth-year pro is expected to operate in an expanded role Sunday against the Dolphins in the absence of Brock Bowers, who is expected to miss at least one or two games after undergoing a meniscus trim procedure Tuesday. Mayer finished the 2025 regular season with 35 catches (on 50 targets) for 328 yards and a touchdown across 13 games.
+- **NEW — Tucker Kraft** — Tucker Kraft - Agrees to four-year extension (2026-09-12T14:52:20Z)
+  - The deal includes a $26.5 million signing bonus, making Kraft the NFL's highest-paid tight end and under contract with the Packers through 2030, per Jeremy Fowler of ESPN.com. Kraft was one of the most productive tight ends through the first half of the 2025 regular season before his campaign abruptly ended in Week 9 due to a torn ACL. He's not on the injury report for Sunday's regular-season opener against the Vikings, and the 2023 third-rounder is expected to be one of the top targets for Jordan Love in the passing game, alongside fellow tight end Jonnu Smith and wide receivers Christian Watson, Jayden Reed and Matthew Golden.
+- **NEW — Amon-Ra St. Brown** — Amon-Ra St. Brown - Contract restructured by Detroit (2026-09-12T14:08:51Z)
+  - Per Spotrac, $26 million of St. Brown's salary was converted into a signing bonus, which alone created $20.8 million in cap space to give the Lions more flexibility for the next two seasons. St. Brown has been one of the most productive receivers since being selected by the Lions in the fourth round of the 2021 NFL Draft, having logged 100-plus catches and 1,000-plus receiving yards in each of the last four years. He finished the 2025 regular season with 117 catches (on a career-high 172 targets) for 1,401 yards and 11 touchdowns across 17 games. He'll once again lead a Lions pass-catching group that also includes Jameson Williams, Isaac TeSlaa and Sam LaPorta.
+- **NEW — Kyle Pitts** — Kyle Pitts Sr. Looking Like a Risky Low-End TE1 in Week 1 (2026-09-12T12:19:05Z)
+  - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-looking-like-a-risky-mid-range-te1-in-week-1/1929618
+- **NEW — Justice Hill** — Justice Hill To Have Limited Role In Week 1 (2026-09-12T12:16:18Z)
+  - Source: https://www.rotoballer.com/player-news/justice-hill-to-have-limited-role-in-week-1/1929616
+- **NEW — Isaiah Likely** — Isaiah Likely a Strong Starting Option Against Cowboys (2026-09-12T12:12:07Z)
+  - Source: https://www.rotoballer.com/player-news/isaiah-likely-a-strong-starting-option-against-cowboys/1929608
+- **NEW — Malachi Fields** — Malachi Fields a Player to Watch in Week 1 (2026-09-12T12:09:05Z)
+  - Source: https://www.rotoballer.com/player-news/malachi-fields-a-player-to-watch-in-week-1/1929604
+- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane Could Make Big Plays in Ravens Offense in Week 1 (2026-09-12T12:07:08Z)
+  - Source: https://www.rotoballer.com/player-news/jakobi-lane-could-make-big-plays-in-ravens-offense-in-week-1/1929602
+- **NEW — Bijan Robinson** — Bijan Robinson an Elite Option with Expected Heavy Workload (2026-09-12T12:05:18Z)
+  - Source: https://www.rotoballer.com/player-news/bijan-robinson-an-elite-option-with-expected-heavy-workload/1929599
+- **NEW — Malik Nabers** — Limit Expectations for Malik Nabers if Active in Week 1 (2026-09-12T12:02:10Z)
+  - Source: https://www.rotoballer.com/player-news/limit-expectations-for-malik-nabers-if-active-in-week-1/1929594
+- **NEW — Drake London** — Drake London a Low-End WR1 After Downgrade at Quarterback (2026-09-12T11:56:05Z)
+  - Source: https://www.rotoballer.com/player-news/drake-london-a-low-end-wr1-after-downgrade-at-quarterback/1929583
+- **NEW — Adonai Mitchell** — Adonai Mitchell Begins Week 1 as a Deep-League Flex (2026-09-12T11:54:05Z)
+  - Source: https://www.rotoballer.com/player-news/adonai-mitchell-begins-week-1-as-a-deep-league-flex/1929577
+- **NEW — Garrett Wilson** — Garrett Wilson Brings WR1 Upside Into Season Opener (2026-09-12T11:51:06Z)
+  - Source: https://www.rotoballer.com/player-news/garrett-wilson-brings-wr1-upside-into-season-opener/1929573
+- **NEW — Braelon Allen** — Braelon Allen Opens Week 1 as a Handcuff Option (2026-09-12T11:49:05Z)
+  - Source: https://www.rotoballer.com/player-news/braelon-allen-opens-week-1-as-a-handcuff-option/1929571
+- **NEW — Breece Hall** — Breece Hall Carries Strong RB2 Upside Into Tennessee (2026-09-12T11:47:10Z)
+  - Source: https://www.rotoballer.com/player-news/breece-hall-carries-strong-rb2-upside-into-tennessee/1929567
+- **NEW — Cam Skattebo** — Cam Skattebo Fully Healthy for Week 1 Against Cowboys (2026-09-12T11:45:34Z)
+  - Source: https://www.rotoballer.com/player-news/cam-skattebo-fully-healthy-for-week-1-against-cowboys/1929564
+- **NEW — Geno Smith** — Geno Smith Opens 2026 as a Superflex-Only Option (2026-09-12T11:44:05Z)
+  - Source: https://www.rotoballer.com/player-news/geno-smith-opens-2026-as-a-superflex-only-option/1929560
+- **NEW — Keon Coleman** — Keon Coleman Faces Uphill Climb for Week 1 Value (2026-09-12T11:38:13Z)
+  - Source: https://www.rotoballer.com/player-news/keon-coleman-faces-uphill-climb-for-week-1-value/1929549
+- **NEW — Jaxson Dart** — Jaxson Dart a Mid-QB1 Against Improved Cowboys Defense (2026-09-12T11:36:12Z)
+  - Source: https://www.rotoballer.com/player-news/jaxson-dart-a-mid-qb1-against-improved-cowboys-defense/1929545
+- **NEW — Dalton Kincaid** — Dalton Kincaid Has Streaming Appeal in Week 1 (2026-09-12T11:35:12Z)
+  - Source: https://www.rotoballer.com/player-news/dalton-kincaid-has-streaming-appeal-in-week-1/1929543
+- **NEW — Khalil Shakir** — Khalil Shakir Offers PPR Value Against Houston (2026-09-12T11:34:05Z)
+  - Source: https://www.rotoballer.com/player-news/khalil-shakir-offers-ppr-value-against-houston/1929539
+- **NEW — DJ Moore** — DJ Moore Begins Bills Tenure as a Week 1 WR3 (2026-09-12T11:32:13Z)
+  - Source: https://www.rotoballer.com/player-news/dj-moore-begins-bills-tenure-as-a-week-1-wr3/1929535
+- **NEW — Emeka Egbuka** — Emeka Egbuka Ready to Roll in Week 1 Versus Bengals (2026-09-12T11:30:10Z)
+  - Source: https://www.rotoballer.com/player-news/emeka-egbuka-ready-to-roll-in-week-1-versus-bengals/1929532
+- **NEW — James Cook** — James Cook III Carries RB1 Upside Into Week 1 (2026-09-12T11:29:09Z)
+  - Source: https://www.rotoballer.com/player-news/james-cook-iii-carries-rb1-upside-into-week-1/1929529
+- **NEW — Josh Allen** — Josh Allen Brings Elite QB1 Ceiling to Houston Rematch (2026-09-12T11:27:07Z)
+  - Source: https://www.rotoballer.com/player-news/josh-allen-brings-elite-qb1-ceiling-to-houston-rematch/1929520
+- **NEW — Jakobi Meyers** — Jakobi Meyers Profiles as a Solid Flex Option in PPR Leagues (2026-09-12T11:24:05Z)
+  - Source: https://www.rotoballer.com/player-news/jakobi-meyers-a-solid-flex-option-in-week-1/1929518
+- **NEW — Jayden Reed** — Look For Solid Game From Jayden Reed In Week 1 (2026-09-12T11:22:06Z)
+  - Source: https://www.rotoballer.com/player-news/look-for-solid-game-from-jayden-reed-in-week-1/1929514
+- **NEW — Tucker Kraft** — Tucker Kraft Agrees to Four-Year Extension with Packers (2026-09-12T11:17:06Z)
+  - Source: https://www.rotoballer.com/player-news/tucker-kraft-agrees-to-four-year-extension-with-packers/1929505
+- **NEW — Bhayshul Tuten** — Bhayshul Tuten Holds RB2 Upside Against Browns (2026-09-12T11:15:06Z)
+  - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-a-rb2-with-upside-against-browns/1929502
+- **NEW — Michael Mayer** — Michael Mayer Cashes In On Contract Extension (2026-09-12T11:10:06Z)
+  - Source: https://www.rotoballer.com/player-news/michael-mayer-cashes-in-on-contract-extension/1929492
+- **NEW — Trevor Lawrence** — Trevor Lawrence a Clear QB1 Against Browns (2026-09-12T11:06:16Z)
+  - Source: https://www.rotoballer.com/player-news/trevor-lawrence-a-clear-qb1-against-browns/1929488
+- **NEW — Isaac TeSlaa** — Isaac TeSlaa a Risky Deep-League Wide Receiver Option in Week 1 (2026-09-12T10:45:13Z)
+  - Source: https://www.rotoballer.com/player-news/isaac-teslaa-a-risky-deep-league-wide-receiver-option-in-week-1/1929463
+- **NEW — Jake Bates** — Jake Bates a Must-Start Kicker in Week 1 (2026-09-12T10:32:06Z)
+  - Source: https://www.rotoballer.com/player-news/jake-bates-a-must-start-kicker-in-week-1/1929454
+- **NEW — Jameson Williams** — Jameson Williams a High-Upside WR2 Option in Week 1 (2026-09-12T10:30:09Z)
+  - Source: https://www.rotoballer.com/player-news/jameson-williams-a-high-upside-wr2-option-in-week-1/1929451
+- **NEW — Sam LaPorta** — Sam LaPorta Looking to Kickstart Bounce-Back Campaign in Week 1 (2026-09-12T10:24:06Z)
+  - Source: https://www.rotoballer.com/player-news/sam-laporta-looking-to-kickstart-bounce-back-campaign-in-week-1/1929444
+- **NEW — Amon-Ra St. Brown** — Amon-Ra St. Brown a Must-Start Wide Receiver in Week 1 (2026-09-12T10:15:05Z)
+  - Source: https://www.rotoballer.com/player-news/amon-ra-st-brown-a-must-start-wide-receiver-in-week-1/1929418
+- **NEW — Trey McBride** — Trey McBride Kicks Off TE1 Campaign On Sunday (2026-09-12T10:10:06Z)
+  - Source: https://www.rotoballer.com/player-news/trey-mcbride-kicks-off-te1-campaign-on-sunday/1929415
+- **NEW — Jacob Saylors** — Jacob Saylors Remains a Stash-Worthy Running Back in Week 1 (2026-09-12T10:09:05Z)
+  - Source: https://www.rotoballer.com/player-news/jacob-saylors-remains-a-stash-worthy-running-back-in-week-1/1929413
+- **NEW — Jahmyr Gibbs** — Jahmyr Gibbs an Elite Running Back Option in Week 1 (2026-09-12T10:05:09Z)
+  - Source: https://www.rotoballer.com/player-news/jahmyr-gibbs-an-elite-running-back-option-in-week-1/1929410
+- **NEW — Michael Wilson** — Michael Wilson Looking To Follow Breakout Season With Strong Start To 2026 (2026-09-12T10:05:05Z)
+  - Source: https://www.rotoballer.com/player-news/michael-wilson-looking-to-follow-breakout-season-with-strong-start-to-2026/1929408
+- **NEW — Jared Goff** — Jared Goff a Low-End QB1 Option in Week 1 (2026-09-12T10:02:06Z)
+  - Source: https://www.rotoballer.com/player-news/jared-goff-a-low-end-qb1-option-in-week-1/1929405
+- **NEW — Marvin Harrison** — Marvin Harrison Jr. Falls To Flex Territory For 2026 Debut (2026-09-12T09:59:09Z)
+  - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-falls-to-flex-territory-for-2026-debut/1929401
+- **NEW — Wan'Dale Robinson** — Wan'Dale Robinson a High-Floor PPR Flex Play in Week 1 (2026-09-12T09:59:05Z)
+  - Source: https://www.rotoballer.com/player-news/wandale-robinson-a-high-floor-ppr-flex-play-in-week-1/1929399
+- **NEW — Tyler Allgeier** — Tyler Allgeier Could Lead Cardinals Backfield In Week 1 (2026-09-12T09:54:00Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-allgeier-could-lead-cardinals-backfield-in-week-1/1929390
+- **NEW — Jeremiyah Love** — Jeremiyah Love A Risky Play In Week 1 (2026-09-12T09:47:20Z)
+  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-a-risky-play-in-week-1/1929387
+- **NEW — Carnell Tate** — Carnell Tate a Boom/Bust Flex Option for Fantasy Managers in Week 1 (2026-09-12T09:47:05Z)
+  - Source: https://www.rotoballer.com/player-news/carnell-tate-a-boom-bust-flex-option-for-fantasy-managers-in-week-1/1929385
+- **NEW — Jacoby Brissett** — Jacoby Brissett Has Upside For Two-QB Leagues (2026-09-12T09:41:06Z)
+  - Source: https://www.rotoballer.com/player-news/jacoby-brissett-has-upside-for-two-qb-leagues/1929373
+- **NEW — Tony Pollard** — Tony Pollard a High-Floor Flex Option in Favorable Week 1 Matchup (2026-09-12T09:35:06Z)
+  - Source: https://www.rotoballer.com/player-news/tony-pollard-a-high-floor-flex-option-in-favorable-week-1-matchup/1929369
+- **NEW — Quentin Johnston** — Quentin Johnston Offers High Ceiling in Favorable Week 1 Matchup (2026-09-12T09:29:05Z)
+  - Source: https://www.rotoballer.com/player-news/quentin-johnston-offers-high-ceiling-in-favorable-week-1-matchup/1929363
+- **NEW — Cam Ward** — Cam Ward a Risky Start in Two-QB Leagues in Week 1 (2026-09-12T09:27:06Z)
+  - Source: https://www.rotoballer.com/player-news/cam-ward-a-risky-start-in-two-qb-leagues-in-week-1/1929361
+- **NEW — Ladd McConkey** — Ladd McConkey Primed to Start His Season in the Right Direction (2026-09-12T09:24:06Z)
+  - Source: https://www.rotoballer.com/player-news/ladd-mcconkey-primed-to-start-his-season-in-the-right-direction/1929357
+- **NEW — Omarion Hampton** — Omarion Hampton Gets Dream Matchup to Begin Potential Breakout Season (2026-09-12T09:21:05Z)
+  - Source: https://www.rotoballer.com/player-news/omarion-hampton-gets-dream-matchup-to-begin-potential-breakout-season/1929355
+- **Malik Nabers** — Malik Nabers Medically Cleared to Play in Week 1, Remains a Game-Time Decision (2026-09-12T09:20:05Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-medically-cleared-to-play-in-week-1-remains-a-game-time-decision/1929353
-- **NEW — Justin Herbert** — Justin Herbert Carries QB1 Overall Upside in Fantasy-Friendly Week 1 Matchup (2026-09-12T09:17:07Z)
+- **Justin Herbert** — Justin Herbert Carries QB1 Overall Upside in Fantasy-Friendly Week 1 Matchup (2026-09-12T09:17:07Z)
   - Source: https://www.rotoballer.com/player-news/justin-herbert-carries-qb1-overall-upside-in-fantasy-friendly-week-1-matchup/1929349
-- **NEW — Rome Odunze** — Rome Odunze Not Yet Medically Cleared to Play in Week 1 (2026-09-12T09:10:05Z)
+- **Rome Odunze** — Rome Odunze Not Yet Medically Cleared to Play in Week 1 (2026-09-12T09:10:05Z)
   - Source: https://www.rotoballer.com/player-news/rome-odunze-not-yet-medically-cleared-to-play-in-week-1/1929343
-- **NEW — Daniel Jones** — Daniel Jones is a Possible Superflex Option in Week 1 (2026-09-12T08:32:47Z)
+- **Daniel Jones** — Daniel Jones is a Possible Superflex Option in Week 1 (2026-09-12T08:32:47Z)
   - Source: https://www.rotoballer.com/player-news/daniel-jones-is-a-possible-superflex-option-in-week-1/1929309
-- **NEW — Chris Bell** — Chris Bell Has the Potential to Emerge in Miami's Offense (2026-09-12T08:22:06Z)
+- **Chris Bell** — Chris Bell Has the Potential to Emerge in Miami's Offense (2026-09-12T08:22:06Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-has-the-potential-to-emerge-in-miamis-offense/1929303
-- **NEW — Malik Washington** — Malik Washington Could Be In Position for a Larger Role (2026-09-12T08:05:06Z)
+- **Malik Washington** — Malik Washington Could Be In Position for a Larger Role (2026-09-12T08:05:06Z)
   - Source: https://www.rotoballer.com/player-news/malik-washington-could-be-in-position-for-a-larger-role/1929285
-- **NEW — Alec Pierce** — Alec Pierce is Cleared to Play, but a Risky Start in Week 1 (2026-09-12T08:02:07Z)
+- **Alec Pierce** — Alec Pierce is Cleared to Play, but a Risky Start in Week 1 (2026-09-12T08:02:07Z)
   - Source: https://www.rotoballer.com/player-news/alec-pierce-is-cleared-to-play-but-a-risky-start-in-week-1/1929282
-- **NEW — Tyler Warren** — Tyler Warren Set to Lead Colts Pass Catchers in Week 1 (2026-09-12T07:53:07Z)
+- **Tyler Warren** — Tyler Warren Set to Lead Colts Pass Catchers in Week 1 (2026-09-12T07:53:07Z)
   - Source: https://www.rotoballer.com/player-news/tyler-warren-set-to-lead-colts-pass-catchers-in-week-1/1929275
-- **NEW — Caleb Douglas** — Caleb Douglas Could Be Miami's Top Receiver in His NFL Debut (2026-09-12T07:49:05Z)
+- **Caleb Douglas** — Caleb Douglas Could Be Miami's Top Receiver in His NFL Debut (2026-09-12T07:49:05Z)
   - Source: https://www.rotoballer.com/player-news/caleb-douglas-could-be-miamis-top-receiver-in-his-nfl-debut/1929271
-- **NEW — Ollie Gordon** — Ollie Gordon II Healthy for Week 1 But in an Uncertain Role (2026-09-12T07:30:06Z)
+- **Ollie Gordon** — Ollie Gordon II Healthy for Week 1 But in an Uncertain Role (2026-09-12T07:30:06Z)
   - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-healthy-for-week-1-but-in-an-uncertain-role/1929262
-- **NEW — Jaylen Wright** — Jaylen Wright Set for a Primary Backup Role in Week 1 (2026-09-12T07:17:06Z)
+- **Jaylen Wright** — Jaylen Wright Set for a Primary Backup Role in Week 1 (2026-09-12T07:17:06Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-wright-set-for-a-primary-backup-role-in-week-1/1929256
 - **Alvin Kamara** — Alvin Kamara (knee) not expected to have big role if available in Week 1 (2026-09-12T07:10:19.139000Z)
   - Kamara was listed as questionable after he practiced fully on Friday. He'll be eased into the season if he is available. 
   - Source: https://www.fantasypros.com/nfl/news/607273/alvin-kamara-knee-not-expected-to-have-big-role-if-available-week-1.php
-- **NEW — De'Von Achane** — De'Von Achane Set to Star in a Run-Heavy Offense (2026-09-12T07:00:05Z)
+- **De'Von Achane** — De'Von Achane Set to Star in a Run-Heavy Offense (2026-09-12T07:00:05Z)
   - Source: https://www.rotoballer.com/player-news/devon-achane-set-to-star-in-a-run-heavy-offense/1929243
-- **NEW — Malik Willis** — Malik Willis Is a Solid Start in Two-QB Leagues (2026-09-12T06:50:05Z)
+- **Malik Willis** — Malik Willis Is a Solid Start in Two-QB Leagues (2026-09-12T06:50:05Z)
   - Source: https://www.rotoballer.com/player-news/malik-willis-is-a-solid-start-in-two-qb-leagues/1929239
-- **NEW — Tetairoa McMillan** — Tetairoa McMillan in a Smash Spot Against the Bears in Week 1 (2026-09-12T06:25:05Z)
+- **Tetairoa McMillan** — Tetairoa McMillan in a Smash Spot Against the Bears in Week 1 (2026-09-12T06:25:05Z)
   - Source: https://www.rotoballer.com/player-news/tetairoa-mcmillan-in-a-smash-spot-against-the-bears-in-week-1/1929221
-- **NEW — Jalen Coker** — Jalen Coker Becomes a Strong FLEX Option in Week 1 Vs. the Bears (2026-09-12T05:57:06Z)
+- **Jalen Coker** — Jalen Coker Becomes a Strong FLEX Option in Week 1 Vs. the Bears (2026-09-12T05:57:06Z)
   - Source: https://www.rotoballer.com/player-news/jalen-coker-becomes-a-strong-flex-option-in-week-1-vs-the-bears/1929205
-- **NEW — Jonathan Taylor** — Jonathan Taylor is a Top-Tier Start in Week 1 (2026-09-12T05:52:06Z)
+- **Jonathan Taylor** — Jonathan Taylor is a Top-Tier Start in Week 1 (2026-09-12T05:52:06Z)
   - Source: https://www.rotoballer.com/player-news/jonathan-taylor-is-a-top-tier-start-in-week-1/1929203
 - **Jalen Hurts** — Jalen Hurts Looks to Thrive in Philadelphia's New Offense in Week 1 (2026-09-12T05:27:43Z)
   - Source: https://www.rotoballer.com/player-news/jalen-hurts-looks-to-thrive-in-philadelphias-new-offense/1928949
@@ -59,9 +169,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Davis hurt his hip during practice Friday, and the issue is severe enough to require surgery. It's not yet clear how much time the tailback will miss, but it's very possible that he'll be sidelined for most, if not all, of the 2026 campaign. The injury is an awful break for Davis, who had been slated to serve as Dallas' No. 2 running back after working mostly on special teams (and spending considerable time on the practice squad) early in his career. Emari Demercado will likely now slide into that backup role behind Javonte Williams, and Dallas figures to make a move to add another ball carrier to the roster ahead of Sunday's Week 1 matchup versus the Giants.
 - **Brian Thomas** — Brian Thomas Jr.'s Target Share Uncertain for Week 1 (2026-09-12T00:57:06Z)
   - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-s-target-share-uncertain-for-week-1/1929144
-- **NEW — Stefon Diggs** — Stefon Diggs Projects as Flex Option in Week 1 (2026-09-12T00:27:06Z)
+- **Stefon Diggs** — Stefon Diggs Projects as Flex Option in Week 1 (2026-09-12T00:27:06Z)
   - Source: https://www.rotoballer.com/player-news/stefon-diggs-projects-as-flex-option-in-week-1/1929132
-- **NEW — Rachaad White** — Rachaad White in Flex Territory for Week 1 (2026-09-12T00:25:05Z)
+- **Rachaad White** — Rachaad White in Flex Territory for Week 1 (2026-09-12T00:25:05Z)
   - Source: https://www.rotoballer.com/player-news/rachaad-white-in-flex-territory-for-week-1/1929130
 - **Jayden Daniels** — Jayden Daniels Faces Stiff Test in Philly to Open Season (2026-09-12T00:22:07Z)
   - Source: https://www.rotoballer.com/player-news/jayden-daniels-faces-stiff-test-in-philly-to-open-season/1929128
@@ -101,129 +211,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/wr3-treatment-for-christian-watson-in-week-1/1929050
 - **Nico Collins** — Nico Collins Is a Top-10 WR in Week 1 (2026-09-11T21:33:14Z)
   - Source: https://www.rotoballer.com/player-news/nico-collins-is-a-top-10-wr-in-week-1/1929046
-- **Woody Marks** — Woody Marks Can Be a Deep-League Flex Sleeper (2026-09-11T21:20:07Z)
-  - Source: https://www.rotoballer.com/player-news/woody-marks-can-be-a-deep-league-flex-sleeper/1929026
-- **DK Metcalf** — DK Metcalf Healthy, Ready for Big Role vs. Atlanta (2026-09-11T21:16:18Z)
-  - Source: https://www.rotoballer.com/player-news/dk-metcalf-healthy-ready-for-big-role-vs-atlanta/1929019
-- **Eli Stowers** — Eli Stowers - Status in question for Week 1 (2026-09-11T21:15:12Z)
-  - Stowers is about two-and-a-half weeks removed from picking up a hamstring injury, but his ability to log three straight limited sessions this week has put him in position to make his pro debut Sunday. Ultimately, his status will become known, one way or another, about 90 minutes before a 4:25 p.m. ET kickoff.
-- **Bryce Young** — Bryce Young Mainly an Option in Superflex Leagues for Week 1 (2026-09-11T21:10:06Z)
-  - Source: https://www.rotoballer.com/player-news/bryce-young-mainly-an-option-in-superflex-leagues-for-week-1/1929011
-- **David Montgomery** — David Montgomery a Strong Flex Play vs. Buffalo (2026-09-11T21:06:05Z)
-  - Source: https://www.rotoballer.com/player-news/david-montgomery-a-strong-flex-play-vs-buffalo/1929005
-- **Tucker Kraft** — Tucker Kraft A Mid-Range TE1 Against Vikings (2026-09-11T21:04:32Z)
-  - Source: https://www.rotoballer.com/player-news/tucker-kraft-a-mid-range-te1-against-vikings/1929003
-- **Malik Davis** — Malik Davis - May miss 'some period of time' (2026-09-11T20:54:46Z)
-  - Davis required a cart to leave the practice field Friday, was diagnosed with a hip injury and then promptly ruled out on the Cowboys' final Week 1 practice report. As long as Davis is out, Emari Demercado, Hunter Luepke and practice-squad member Israel Abanikanda will the options to fill out the backfield behind No. 1 RB Javonte Williams.
-- **C.J. Stroud** — C.J. Stroud Is a Low-End QB2 in Week 1 (2026-09-11T20:46:10Z)
-  - Source: https://www.rotoballer.com/player-news/c-j-stroud-is-a-low-end-qb2-in-week-1/1928986
-- **Alvin Kamara** — Alvin Kamara Not Expected to Have a Big Role in Week 1 (2026-09-11T20:44:22Z)
-  - Source: https://www.rotoballer.com/player-news/alvin-kamara-not-expected-to-have-a-big-role-in-week-1/1928983
-- **Anthony Richardson** — Anthony Richardson Sr. (illness) off injury report Sunday  (2026-09-11T20:35:15.100000Z)
-  - Richardson will backup Daniel Jones to open the season. 
-  - Source: https://www.fantasypros.com/nfl/news/607231/anthony-richardson-sr-illness-off-injury-report-sunday.php
-- **Jonathon Brooks** — Jonathon Brooks Emerging as a Flex Option For Week 1 (2026-09-11T20:34:19Z)
-  - Source: https://www.rotoballer.com/player-news/jonathon-brooks-off-the-injury-report-emerging-as-a-flex-option-for-week1/1928979
-- **Jeremiyah Love** — Jeremiyah Love - Questionable for Week 1 (2026-09-11T20:33:05Z)
-  - Love has been tending to a high-ankle sprain that he suffered preseason Week 1, and nearly one month later, he was able to log three consecutive limited practices and set himself up for his pro debut. Ultimately, the Cardinals may not make a call on Love's status until roughly 90 minutes before Sunday's 4:25 p.m. ET kickoff, which was corroborated by coach Mike LaFleur, who told Josh Weinfuss of ESPN.com on Friday that Love will be a game-time decision. In the end, an active Love on Sunday would share the backfield with Tyler Allgeier.
-- **Tre Tucker** — Tre Tucker to Lead Raiders' Aerial Assault in Week 1 (2026-09-11T20:32:07Z)
-  - Source: https://www.rotoballer.com/player-news/tre-tucker-to-lead-raiders-aerial-assault-in-week-1/1928976
-- **Jeremiyah Love** — Jeremiyah Love (ankle) officially questionable for Sunday (2026-09-11T20:30:15.308000Z)
-  - The rookie is officially being listed as questionable to play in Sunday's season opener. There have been a lot of optimistic reports surrounding his availability, so it looks more likely than not that he will suit up against the Chargers, although that decision won't be made until closer to game time. If he is ruled out, Tyler Allgeier will be primed for a massive workload in Week 1 in Love's absence.
-  - Source: https://www.fantasypros.com/nfl/news/607224/jeremiyah-love-ankle-officially-questionable-sunday.php
-- **Alec Pierce** — Alec Pierce (heel) off injury report Sunday  (2026-09-11T20:30:15.257000Z)
-  - Pierce is not expected to face a snap count. He is fresh off his contract extension this offseason. 
-  - Source: https://www.fantasypros.com/nfl/news/607227/alec-pierce-heel-off-injury-report-sunday.php
-- **Jakobi Meyers** — Jakobi Meyers (thumb) good to go for Sunday (2026-09-11T20:25:15.092000Z)
-  - As expected, Meyers carries no injury designation ahead of Sunday's season opener and will be available to play against the Browns. His presence is further competition for Parker Washington and Brian Thomas Jr. in a crowded Jacksonville WR room.
-  - Source: https://www.fantasypros.com/nfl/news/607219/jakobi-meyers-thumb-good-to-go-sunday.php
-- **Ashton Jeanty** — Ashton Jeanty (ankle) off injury report Sunday  (2026-09-11T20:25:15.041000Z)
-  - Jeanty practiced in full all week. He should be good to go in his lead role to open the season. 
-  - Source: https://www.fantasypros.com/nfl/news/607223/ashton-jeanty-ankle-off-injury-report-sunday.php
-- **Jakobi Meyers** — Jakobi Meyers - Cleared to play Sunday (2026-09-11T20:22:26Z)
-  - The Jaguars listed Meyers as a limited participant all week, but he shed his non-contact jersey Friday and now has been deemed ready to play. He figures to occupy a top-three role alongside Parker Washington and Brian Thomas.
-- **Malik Nabers** — Malik Nabers - Listed as questionable for Sunday (2026-09-11T20:19:51Z)
-  - Nabers wrapped up Week 1 prep with three consecutive full practices, but the Giants seemingly will take it down to the wire when it comes to a decision on his status. Considering the team plays on Sunday Night Football, that call may not be known until 90 minutes before an 8:20 p.m. ET kickoff, which wouldn't leave many options to pivot to if New York opts to include Nabers among its inactives. Both Nabers and head coach John Harbaugh have been non-committal on the wide receiver's potential to play this weekend, with Nabers himself weighing the long-term implications when he does return from last year's torn right ACL, per Evan Barnes of Newsday.
-- **Malik Nabers** — Malik Nabers (knee) officially questionable Sunday  (2026-09-11T20:15:15.496000Z)
-  - The reports all week have suggested Nabers is expected to be good to go for Sunday's season opener. He should be on the favorable side of questionable going into the weekend. 
-  - Source: https://www.fantasypros.com/nfl/news/607207/malik-nabers-knee-officially-questionable-sunday.php
-- **Zay Flowers** — Zay Flowers (hamstring) off injury report Sunday  (2026-09-11T20:15:15.424000Z)
-  - Flowers missed some practice time in the past couple of weeks with a hamstring injury. He'll be a full-go heading into the season off a new contract. 
-  - Source: https://www.fantasypros.com/nfl/news/607213/zay-flowers-hamstring-off-injury-report-sunday.php
-- **Keaton Mitchell** — Keaton Mitchell (hamstring) off injury report for Sunday (2026-09-11T20:15:15.407000Z)
-  - Mitchell has been dealing with a nagging hamstring injury for a while, but it appears he is finally over it, as he has received full clearance to suit up and play for the Chargers in their season opener. He will remain relegated to a depth role behind Omarion Hampton for the foreseeable future, however.
-  - Source: https://www.fantasypros.com/nfl/news/607214/keaton-mitchell-hamstring-off-injury-report-sunday.php
-- **Alec Pierce** — Alec Pierce - Will play Sunday (2026-09-11T20:11:58Z)
-  - Pierce was a limited practice participant throughout the week, never quite upgrading to full, and per Stephen Holder of The Athletic, it's unclear if he will handle a full workload. However, the Colts have at least left no doubt that Pierce will play this Sunday. Any limitations could mean more work for Josh Downs, Keenan Allen and/or Ashton Dulin.
-- **Kenyon Sadiq** — Kenyon Sadiq (groin) without injury designation for Sunday (2026-09-11T20:10:15.109000Z)
-  - The rookie will be available to make his NFL debut on Sunday. He is fully over his groin injury at this point and should have no major limitations in this matchup against the Titans. Fantasy managers shouldn't have high expectations for him in this matchup, however.
-  - Source: https://www.fantasypros.com/nfl/news/607199/kenyon-sadiq-groin-without-injury-designation-sunday.php
-- **Malik Davis** — Malik Davis (hip) ruled out for Sunday (2026-09-11T20:10:15.073000Z)
-  - Davis was carted out of practice on Friday after suffering what has since been diagnosed as a hip injury. The exact severity of it is unknown at this point, and the team plans to run additional tests to determine the severity of it. Emari Demercado will step up and play the RB2 role behind Javonte Williams for the Cowboys in the meantime.
-  - Source: https://www.fantasypros.com/nfl/news/607203/malik-davis-hip-ruled-out-sunday.php
-- **Eli Stowers** — Eli Stowers (hamstring) listed questionable for Sunday (2026-09-11T20:10:15.037000Z)
-  - The rookie officially carries a questionable tag heading into the weekend because of his hamstring injury. He told reporters that he expects to play in Week 1, however, which indicates that he is trending the right way at this point. He won't be fantasy relevant even if active for this matchup, however.
-  - Source: https://www.fantasypros.com/nfl/news/607205/eli-stowers-hamstring-listed-questionable-sunday.php
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - No designation for Week 1 (2026-09-11T20:09:14Z)
-  - Croskey-Merritt had his practice reps restricted during the entirety of Week 1 prep due to a lower-body injury that stems back to an Aug. 22 practice. Despite those listed limitations, he'll be available to the Commanders backfield this weekend, likely in some sort of timeshare with Rachaad White.
-- **Matthew Golden** — Matthew Golden Has Loads of Fantasy Upside In Week 1 (2026-09-11T20:05:42Z)
-  - Source: https://www.rotoballer.com/player-news/matthew-golden-has-loads-of-fantasy-upside-in-week-1/1928967
-- **Breece Hall** — Breece Hall (groin) off injury report for Sunday (2026-09-11T20:00:15.152000Z)
-  - Hall is heading into the weekend entirely free of any injury designation ahead of the team's season opener against the Titans on Sunday. He shouldn't have any substantial limitations to his workload in this matchup, and he projects to be a high-quality fantasy asset in this game and beyond if he can stay healthy.
-  - Source: https://www.fantasypros.com/nfl/news/607198/breece-hall-groin-off-injury-report-sunday.php
-- **MarShawn Lloyd** — Flex Treatment For MarShawn Lloyd in Week 1 (2026-09-11T20:00:10Z)
-  - Source: https://www.rotoballer.com/player-news/flex-treatment-for-marshawn-lloyd-in-week-1/1928958
-- **Malik Davis** — Malik Davis - Ruled out for Week 1 (2026-09-11T19:59:22Z)
-  - Davis was carted off the practice field Friday and is undergoing further tests to determine the severity of the injury. Considering he's already been ruled out for Week 1, there could be cause for concern that a multi-week absence is in store for Davis, but as long as he's sidelined Emari Demercado, Hunter Luepke and practice-squad member Israel Abanikanda will be the potential players available for RB reps behind starter Javonte Williams.
-- **D'Andre Swift** — D'Andre Swift agrees to three-year extension with Bears (2026-09-11T19:50:14.780000Z)
-  - The Bears continue to show their commitment to Swift, this time to the tune of a three year, $33.75 million extension right before the start of the regular season. This move dispels many of the concerns that Kyle Monangai would take over this backfield in the near future. Chicago continues to display high trust in their veteran running back, and he seems to be primed for a big year in 2026 so long as he can stay healthy.
-  - Source: https://www.fantasypros.com/nfl/news/607194/dandre-swift-agrees-to-three-year-extension-with-bears.php
-- **Jordan Love** — Jordan Love More of a QB2 in Week 1 Against Vikings (2026-09-11T19:49:06Z)
-  - Source: https://www.rotoballer.com/player-news/jordan-love-more-of-a-qb2-in-week-1-against-vikings/1928946
-- **D'Andre Swift** — D'Andre Swift - Agrees to extension (2026-09-11T19:45:07Z)
-  - As a member of the Bears, Swift went for 1,345 yards from scrimmage and six total TDs in 2024 and 1,386 such yards and 10 touchdowns in 2025, which was enough for the team to commit to him through the 2029 campaign. He'll still have to contend with Kyle Monangai out of the backfield for the foreseeable future, but Swift has proved capable of heavy workloads, having averaged 235 touches per season over the last three years.
-- **Taylen Green** — Taylen Green's Week 1 Role is Undecided (2026-09-11T19:37:18Z)
-  - Source: https://www.rotoballer.com/player-news/taylen-greens-week-1-role-is-undecided/1928936
-- **Brock Bowers** — Brock Bowers - Coach hopes he'll be back soon (2026-09-11T19:17:49Z)
-  - When asked if an absence of 1-to-2 games was an accurate expectation, Kubiak replied, "I'm not going to talk about timelines," per Sam Warren of The Athletic. All eyes will be on Bowers' practice participation (or lack thereof) next week. For now, the Raiders have Michael Mayer ticketed for a large role at tight end, with Ian Thomas and various WRs also in the mix to pick up some unexpected snaps in Bowers' absence this Sunday against the Dolphins.
-- **Rome Odunze** — Rome Odunze - Listed as questionable for Week 1 (2026-09-11T19:11:10Z)
-  - Odunze suffered a right leg injury in practice last Thursday, Sept. 3, but after logging three straight limited sessions this week, he has a chance to suit up Week 1. His status for Sunday will be clarified about 90 minutes before Sunday's 1:00 p.m. ET kickoff, and assuming he's able to suit up, as he relayed to Kevin Fishbain of The Athletic on Friday, Odunze and Luther Burden will be the top wide receivers available to QB Caleb Williams.
-- **Rome Odunze** — Rome Odunze (calf) questionable to play Sunday (2026-09-11T19:10:14.756000Z)
-  - Odunze has been limited at practice all week due to a calf injury, and now it is threatening to leave him sidelined for the team's season opener on Sunday. He is officially considered questionable to play, and the team will make a final determination about his availability closer to game time. Luther Burden III will be a great fantasy option if Odunze is ruled out, with Zavion Thomas also likely to step up and see more work.
-  - Source: https://www.fantasypros.com/nfl/news/607184/rome-odunze-calf-questionable-to-play-sunday.php
-- **Alec Pierce** — Alec Pierce (heel) set to play Sunday, snap count undetermined (2026-09-11T19:10:14.731000Z)
-  - Pierce is going to be available to suit up for the team's season opener on Sunday. That's great news for the Colts, but they still have yet to determine if he will be a full go or if he will be on a snap count. Fantasy managers should pay attention to any updates about his workload heading into the weekend, as his fantasy value in this matchup will largely hinge on whether or not the team limits his reps.
-  - Source: https://www.fantasypros.com/nfl/news/607186/alec-pierce-heel-set-to-play-sunday-snap-count-undetermined.php
-- **Tee Higgins** — Tee Higgins - Logs another full practice (2026-09-11T19:07:37Z)
-  - Ja'Marr Chase (knee) also is cleared to play, giving Joe Burrow plenty of firepower for the regular-season opener. Higgins seemed to stay healthy throughout spring and summer before missing a few practices with a heel contusion last week. He should be ready for his usual role come Sunday.
-- **Ja'Marr Chase** — Ja'Marr Chase - Good to go, no designation (2026-09-11T19:04:23Z)
-  - Chase was a full practice participant Wednesday and Thursday before resting Friday, with the Bengals citing 'rest' rather than his knee as the reason for Friday's absence. He suffered a minor knee hyperextension Aug. 25 and returned to practice within two weeks. Chase should be ready for his usual role this Sunday against the Buccaneers.
-- **Emeka Egbuka** — Emeka Egbuka - Full-go for Week 1 (2026-09-11T18:44:11Z)
-  - Egbuka initially sustained a sprained toe during an Aug. 12 practice that sidelined him until this week, but his ability to handle every practice rep Wednesday through Friday has him in the clear for Sunday. With numerous injuries affecting the Buccaneers' receiving corps last season, he still put up a 63-938-6 line on 127 targets in 17 regular-season games as a rookie. Considering Mike Evans is out of the picture, Egbuka should be the team's featured WR in a matchup against the Bengals that should produce plenty of splash plays.
-- **Kyler Murray** — Kyler Murray Begins Revival Bid In Week 1 (2026-09-11T18:39:53Z)
-  - Source: https://www.rotoballer.com/player-news/kyler-murray-begins-revival-bid-in-week-1/1928921
-- **Zachariah Branch** — Zachariah Branch - In clear for Sunday (2026-09-11T18:33:49Z)
-  - Branch opened Week 1 prep with back-to-back limited sessions due to a hamstring injury, but a full session Friday has him in the clear to make his pro debut this weekend. It's unclear what kind of role can be expected of the rookie third-round pick on offense as he jostles for snaps behind position mates Drake London, Jahan Dotson and Olamide Zaccheaus, but Branch at least should get on the field as a punt returner.
-- **Aaron Jones** — Split Backfield Limits Week 1 Potential For Aaron Jones Sr. (2026-09-11T18:31:28Z)
-  - Source: https://www.rotoballer.com/player-news/split-backfield-limits-week-1-potential-for-aaron-jones-sr/1928911
-- **Jordan Mason** — Jordan Mason In Flex Consideration For Week 1 (2026-09-11T18:27:06Z)
-  - Source: https://www.rotoballer.com/player-news/jordan-mason-in-flex-consideration-for-week-1/1928906
-- **Alvin Kamara** — Alvin Kamara - Will be questionable for Week 1 (2026-09-11T18:26:16Z)
-  - Kamara suffered an MCL sprain during a joint practice with the Cowboys on Aug. 18 that initially was slated to sideline him for at least one month. While Kamara was able to practice in a limited capacity during Week 1 prep, his status for Sunday seemingly will come down to a game-time decision. If Kamara is inhibited or sidelined this weekend, Kendre Miller would be the Saints running back to receive complementary work behind starter Travis Etienne.
-- **Zachariah Branch** — Zachariah Branch (hamstring) off injury report for Sunday (2026-09-11T18:25:14.139000Z)
-  - The rookie was limited at practice earlier in the week due to a hamstring injury, but he is over it now and is off of the injury report ahead of Sunday's game. He isn't expected to be a strong fantasy option against the Steelers, however, especially with Cooper Rush set to start at QB for the Falcons in the absence of Tua Tagovailoa (oblique).
-  - Source: https://www.fantasypros.com/nfl/news/607178/zachariah-branch-hamstring-off-injury-report-sunday.php
-- **Alvin Kamara** — Alvin Kamara (knee) officially questionable for Sunday (2026-09-11T18:25:14.127000Z)
-  - Kamara will enter the weekend with a questionable tag. This doesn't come as much of a surprise, given that he has been limited at practice all week while dealing with this knee injury. Fantasy managers should expect more work for Kendre Miller if the veteran is ruled out ahead of game time on Sunday.
-  - Source: https://www.fantasypros.com/nfl/news/607179/alvin-kamara-knee-officially-questionable-sunday.php
-- **Eli Stowers** — Eli Stowers Questionable to Make his NFL Debut in Week 1 (2026-09-11T18:25:06Z)
-  - Source: https://www.rotoballer.com/player-news/eli-stowers-questionable-to-make-his-nfl-debut-in-week-1/1928903
-- **Justin Jefferson** — Justin Jefferson Back To Previous Production In Week 1? (2026-09-11T18:24:05Z)
-  - Source: https://www.rotoballer.com/player-news/justin-jefferson-back-to-previous-production-in-week-1/1928901
-- **Jordan Addison** — Jordan Addison A Possible Flex Play Against Packers (2026-09-11T18:16:18Z)
-  - Source: https://www.rotoballer.com/player-news/jordan-addison-a-possible-flex-play-against-packers/1928895
-- **Jeremiyah Love** — Jeremiyah Love (ankle) expected to be gameday decision Sunday  (2026-09-11T18:10:29.275000Z)
-  - All reports this week have suggested Love is expected to play on Sunday. Barring any late setback, he should be good to go. It is unclear if he'll be limited in any fashion. 
-  - Source: https://www.fantasypros.com/nfl/news/607171/jeremiyah-love-ankle-expected-to-be-gameday-decision-sunday.php
-- **Jauan Jennings** — New Role Makes Jauan Jennings Difficult To Start In Week 1 (2026-09-11T18:09:05Z)
-  - Source: https://www.rotoballer.com/player-news/new-role-makes-jauan-jennings-difficult-to-start-in-week-1/1928888
