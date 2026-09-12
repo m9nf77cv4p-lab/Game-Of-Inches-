@@ -1,38 +1,31 @@
 {
-  "last_checked_at": "2026-09-12T18:38:05Z",
+  "last_checked_at": "2026-09-12T20:56:30Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 287,
   "new_story_ids": [
-    "nfl|10219|rotoballer|220826|1789215728000",
-    "nfl|10226|rotoballer|220839|1789218665000",
-    "nfl|11370|rotoballer|220832|1789217110000",
-    "nfl|11533|rotoballer|220835|1789217407000",
-    "nfl|11783|rotoballer|220834|1789217621000",
-    "nfl|11786|rotoballer|220838|1789217167000",
-    "nfl|12502|rotoballer|220833|1789217708000",
-    "nfl|12504|rotoballer|220829|1789214949000",
-    "nfl|12506|rotoballer|220851|1789223045000",
-    "nfl|12509|rotoballer|220842|1789219334000",
-    "nfl|12512|rotoballer|220845|1789220108000",
-    "nfl|13288|rotoballer|220841|1789219445000",
-    "nfl|13298|rotoballer|220848|1789221134000",
-    "nfl|13346|rotoballer|220846|1789220472000",
-    "nfl|3294|rotoballer|220824|1789216449000",
-    "nfl|4017|rotoballer|220840|1789219266000",
-    "nfl|4574|rotoballer|220823|1789216694000",
-    "nfl|4981|rotoballer|220827|1789215726000",
-    "nfl|6783|rotoballer|220849|1789221665000",
-    "nfl|6786|rotoballer|220820|1789215906000",
-    "nfl|7547|rotoballer|220825|1789216445000",
-    "nfl|7571|rotoballer|220830|1789214409000",
-    "nfl|7588|rotoballer|220831|1789216875000",
-    "nfl|8110|rotoballer|220822|1789216210000",
-    "nfl|8137|rotoballer|220821|1789215845000",
-    "nfl|8154|rotoballer|220836|1789218009000",
-    "nfl|8259|rotoballer|220847|1789220407000",
-    "nfl|8800|rotowire|636964|1789237211000",
-    "nfl|9480|rotoballer|220837|1789217529000",
-    "nfl|9487|rotoballer|220828|1789215309000"
+    "nfl|10229|rotoballer|220857|1789227906000",
+    "nfl|11199|fantasy_pros|605057|1788207014963",
+    "nfl|11199|rotoballer|220653|1789139645000",
+    "nfl|11199|rotowire|636859|1789160488000",
+    "nfl|11624|rotoballer|220863|1789228026000",
+    "nfl|11834|rotoballer|220869|1789231006000",
+    "nfl|12545|rotoballer|220854|1789225148000",
+    "nfl|13337|rotoballer|220861|1789228205000",
+    "nfl|13349|fantasy_pros|607386|1789244747089",
+    "nfl|13349|rotoballer|220868|1789230306000",
+    "nfl|13349|rotowire|636978|1789243581000",
+    "nfl|1466|rotoballer|220862|1789228145000",
+    "nfl|4035|rotoballer|220865|1789228986000",
+    "nfl|4046|rotoballer|220860|1789227726000",
+    "nfl|4046|rotowire|636973|1789242357000",
+    "nfl|4227|rotoballer|220864|1789228326000",
+    "nfl|4574|rotoballer|220867|1789229945000",
+    "nfl|4574|rotowire|636980|1789243739000",
+    "nfl|7002|rotoballer|220870|1789231805000",
+    "nfl|7543|rotoballer|220855|1789225806000",
+    "nfl|8144|rotoballer|220866|1789229465000",
+    "nfl|8151|rotoballer|220859|1789227730000",
+    "nfl|9758|rotowire|636985|1789245030000"
   ],
   "schema_version": 1,
   "source": {
@@ -42,6 +35,107 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The two sides attempted to reach an agreement prior to Sunday's regular-season opener against the Bills. However, it looks like talks between Stroud and the Texans have stalled, and a long-term deal will be revisited following the conclusion of the upcoming season. Entering his fourth year in the NFL, Stroud is looking to reclaim the same form he had in his rookie campaign in 2023, when he was named the Offensive Rookie of the Year after completing 63.9 percent of his passes for 4,108 yards, 23 touchdowns and five interceptions across 15 regular-season games while adding 39 carries for 167 yards and three scores.",
+      "description": "Stroud and the Texans will wait until after the 2026 season to work out a long-term contract extension, Adam Schefter of ESPN reports.",
+      "metadata": {
+        "analysis": "The two sides attempted to reach an agreement prior to Sunday's regular-season opener against the Bills. However, it looks like talks between Stroud and the Texans have stalled, and a long-term deal will be revisited following the conclusion of the upcoming season. Entering his fourth year in the NFL, Stroud is looking to reclaim the same form he had in his rookie campaign in 2023, when he was named the Offensive Rookie of the Year after completing 63.9 percent of his passes for 4,108 yards, 23 touchdowns and five interceptions across 15 regular-season games while adding 39 carries for 167 yards and three scores.",
+        "description": "Stroud and the Texans will wait until after the 2026 season to work out a long-term contract extension, Adam Schefter of ESPN reports.",
+        "title": "C.J. Stroud - Extension talks paused",
+        "topic_id": "1404600421145653248"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9758",
+      "player_name": "C.J. Stroud",
+      "position": "QB",
+      "published": 1789245030000,
+      "source": "rotowire",
+      "source_key": "636985",
+      "story_id": "nfl|9758|rotowire|636985|1789245030000",
+      "title": "C.J. Stroud - Extension talks paused",
+      "url": null
+    },
+    {
+      "analysis": "Stowers was already struggling throughout training camp, and this quad injury won't help matters. It's likely 2026 is going to be a redshirt year for him, focusing primarily on development for 2027.",
+      "description": "Eli Stowers (quad) has been placed on IR due to a quad injury.",
+      "metadata": {
+        "analysis": "Stowers was already struggling throughout training camp, and this quad injury won't help matters. It's likely 2026 is going to be a redshirt year for him, focusing primarily on development for 2027.",
+        "description": "Eli Stowers (quad) has been placed on IR due to a quad injury.",
+        "title": "Eli Stowers (quad) placed on IR",
+        "topic_id": "1404597909457997824",
+        "url": "https://www.fantasypros.com/nfl/news/607386/eli-stowers-quad-placed-on-ir.php"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13349",
+      "player_name": "Eli Stowers",
+      "position": "TE",
+      "published": 1789244747089,
+      "source": "fantasy_pros",
+      "source_key": "607386",
+      "story_id": "nfl|13349|fantasy_pros|607386|1789244747089",
+      "title": "Eli Stowers (quad) placed on IR",
+      "url": "https://www.fantasypros.com/nfl/news/607386/eli-stowers-quad-placed-on-ir.php"
+    },
+    {
+      "analysis": "With Tua Tagovailoa (oblique) already ruled out and Michael Penix (knee) still sidelined, Rush remains in line to handle the Falcons' Week 1 start, with Jack Strand serving as the backup. Rush has a 9-7 record across 16 career starts, and over 42 regular-season games, he has completed 61.1 percent of his passes for 20 touchdowns and 14 interceptions.",
+      "description": "Rush (back) experienced back spasms Saturday but still will start Sunday's game at Pittsburgh, Adam Schefter of ESPN reports.",
+      "metadata": {
+        "analysis": "With Tua Tagovailoa (oblique) already ruled out and Michael Penix (knee) still sidelined, Rush remains in line to handle the Falcons' Week 1 start, with Jack Strand serving as the backup. Rush has a 9-7 record across 16 career starts, and over 42 regular-season games, he has completed 61.1 percent of his passes for 20 touchdowns and 14 interceptions.",
+        "description": "Rush (back) experienced back spasms Saturday but still will start Sunday's game at Pittsburgh, Adam Schefter of ESPN reports.",
+        "title": "Cooper Rush - Will start Week 1 despite back spasms",
+        "topic_id": "1404595387628564480"
+      },
+      "nfl_team": "ATL",
+      "player_id": "4574",
+      "player_name": "Cooper Rush",
+      "position": "QB",
+      "published": 1789243739000,
+      "source": "rotowire",
+      "source_key": "636980",
+      "story_id": "nfl|4574|rotowire|636980|1789243739000",
+      "title": "Cooper Rush - Will start Week 1 despite back spasms",
+      "url": null
+    },
+    {
+      "analysis": "Stowers has been dealing with a hamstring injury since at least Aug. 24, which limited him in all three Week 1 practices before the Eagles tabbed him as questionable for Sunday's season opener against the Commanders. At the same time the team placed him on IR, he was ruled out with not only the hamstring issue but a quad concern. The rookie second-round pick thus will miss at least the first four games of the campaign, allowing Johnny Mundt and E.J. Jenkins to handle the TE reps that don't go to No. 1 option Dallas Goedert.",
+      "description": "The Eagles placed Stowers (quadriceps/hamstring) on injured reserve Saturday.",
+      "metadata": {
+        "analysis": "Stowers has been dealing with a hamstring injury since at least Aug. 24, which limited him in all three Week 1 practices before the Eagles tabbed him as questionable for Sunday's season opener against the Commanders. At the same time the team placed him on IR, he was ruled out with not only the hamstring issue but a quad concern. The rookie second-round pick thus will miss at least the first four games of the campaign, allowing Johnny Mundt and E.J. Jenkins to handle the TE reps that don't go to No. 1 option Dallas Goedert.",
+        "description": "The Eagles placed Stowers (quadriceps/hamstring) on injured reserve Saturday.",
+        "title": "Eli Stowers - Moves to injured reserve",
+        "topic_id": "1404594128733360128"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13349",
+      "player_name": "Eli Stowers",
+      "position": "TE",
+      "published": 1789243581000,
+      "source": "rotowire",
+      "source_key": "636978",
+      "story_id": "nfl|13349|rotowire|636978|1789243581000",
+      "title": "Eli Stowers - Moves to injured reserve",
+      "url": null
+    },
+    {
+      "analysis": "Mahomes was a full participant in all three practices during Week 1 prep, and the 30-year-old quarterback is officially good to go for Monday's regular-season opener. His mobility could still be limited, as he'll be wearing a protective brace on the left knee where he tore both his ACL and LCL in Week 15 of last season. That would restrict his ability to move around the pocket and scramble out of trouble, a challenging limitation against a Broncos pass rush that led the league last year with 68.0 sacks.",
+      "description": "Mahomes (knee) does not have an injury designation for Monday's game against the Broncos.",
+      "metadata": {
+        "analysis": "Mahomes was a full participant in all three practices during Week 1 prep, and the 30-year-old quarterback is officially good to go for Monday's regular-season opener. His mobility could still be limited, as he'll be wearing a protective brace on the left knee where he tore both his ACL and LCL in Week 15 of last season. That would restrict his ability to move around the pocket and scramble out of trouble, a challenging limitation against a Broncos pass rush that led the league last year with 68.0 sacks.",
+        "description": "Mahomes (knee) does not have an injury designation for Monday's game against the Broncos.",
+        "title": "Patrick Mahomes - Fades injury tag Week 1",
+        "topic_id": "1404589095304400896"
+      },
+      "nfl_team": "KC",
+      "player_id": "4046",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "published": 1789242357000,
+      "source": "rotowire",
+      "source_key": "636973",
+      "story_id": "nfl|4046|rotowire|636973|1789242357000",
+      "title": "Patrick Mahomes - Fades injury tag Week 1",
+      "url": null
+    },
     {
       "analysis": "Davis underwent surgery Saturday for a hip injury, and the move to IR means he'll be required to miss at least the next four games, though an exact timeline for his return is unclear. With Davis sidelined, the Cowboys bolstered their backfield depth by signing Israel Abanikanda from the practice squad to the active roster, with the latter serving as the RB3 behind Javonte Williams and Emari Demercado.",
       "description": "The Cowboys placed Davis (hip) on injured reserve Saturday, Adam Schefter of ESPN reports.",
@@ -61,6 +155,266 @@
       "story_id": "nfl|8800|rotowire|636964|1789237211000",
       "title": "Malik Davis - Lands on injured reserve",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints tight end Juwan Johnson had the best season of his career in 2025, recording 77 catches for 889 yards and three touchdowns on 102 targets across 17 games. With Saints rookie wideout Jordyn Tyson (hamstring) on Injured Reserve to begin the year, Johnson appears set to open 2026 as the number two option in the New Orleans passing game behind only star wide receiver Chris Olave. In Week 1, Johnson and the Saints will travel to Detroit to take on the Lions. The Lions fielded a slightly below-average pass defense against tight ends in 2025, allowing the 13th-most fantasy points to the position. However, Detroit will be without starting safeties Brian Branch (Achilles) and Kerby Joseph (knee) to begin the year, and the team lost top coverage linebacker Alex Anzalone to the Tampa Bay Buccaneers in free agency. With a favorable matchup against the Lions, Johnson profiles as a low-end TE1 option for fantasy managers in Week 1.",
+      "metadata": {
+        "description": "New Orleans Saints tight end Juwan Johnson had the best season of his career in 2025, recording 77 catches for 889 yards and three touchdowns on 102 targets across 17 games. With Saints rookie wideout Jordyn Tyson (hamstring) on Injured Reserve to begin the year, Johnson appears set to open 2026 as the number two option in the New Orleans passing game behind only star wide receiver Chris Olave. In Week 1, Johnson and the Saints will travel to Detroit to take on the Lions. The Lions fielded a slightly below-average pass defense against tight ends in 2025, allowing the 13th-most fantasy points to the position. However, Detroit will be without starting safeties Brian Branch (Achilles) and Kerby Joseph (knee) to begin the year, and the team lost top coverage linebacker Alex Anzalone to the Tampa Bay Buccaneers in free agency. With a favorable matchup against the Lions, Johnson profiles as a low-end TE1 option for fantasy managers in Week 1.",
+        "title": "Juwan Johnson a High-Floor Tight End Streamer in Week 1",
+        "topic_id": "1404605452175613952",
+        "url": "https://www.rotoballer.com/player-news/juwan-johnson-a-high-floor-tight-end-streamer-in-week-1/1929881"
+      },
+      "nfl_team": "NO",
+      "player_id": "7002",
+      "player_name": "Juwan Johnson",
+      "position": "TE",
+      "published": 1789231805000,
+      "source": "rotoballer",
+      "source_key": "220870",
+      "story_id": "nfl|7002|rotoballer|220870|1789231805000",
+      "title": "Juwan Johnson a High-Floor Tight End Streamer in Week 1",
+      "url": "https://www.rotoballer.com/player-news/juwan-johnson-a-high-floor-tight-end-streamer-in-week-1/1929881"
+    },
+    {
+      "analysis": null,
+      "description": "Across 13 games in 2025, New Orleans Saints wide receiver Devaughn Vele recorded 25 catches for 293 yards and two touchdowns on 39 targets. The 28-year-old saw minimal usage early in the year, but his production picked up following the Saints' midseason trade of former wideout Rashid Shaheed to the Seattle Seahawks. With Saints rookie wide receiver Jordyn Tyson (hamstring) on Injured Reserve to begin the year, Vele could once again be the WR2 alongside Chris Olave in New Orleans. In Week 1, the Saints have a favorable matchup on paper against a Detroit Lions defense that will be without both starting safeties in Brian Branch (Achilles) and Kerby Joseph (knee). Across his final four games of 2025, Vele averaged over 12 PPR fantasy points per game. He profiles as an under-the-radar deep-league flex option in Week 1.",
+      "metadata": {
+        "description": "Across 13 games in 2025, New Orleans Saints wide receiver Devaughn Vele recorded 25 catches for 293 yards and two touchdowns on 39 targets. The 28-year-old saw minimal usage early in the year, but his production picked up following the Saints' midseason trade of former wideout Rashid Shaheed to the Seattle Seahawks. With Saints rookie wide receiver Jordyn Tyson (hamstring) on Injured Reserve to begin the year, Vele could once again be the WR2 alongside Chris Olave in New Orleans. In Week 1, the Saints have a favorable matchup on paper against a Detroit Lions defense that will be without both starting safeties in Brian Branch (Achilles) and Kerby Joseph (knee). Across his final four games of 2025, Vele averaged over 12 PPR fantasy points per game. He profiles as an under-the-radar deep-league flex option in Week 1.",
+        "title": "Devaughn Vele an Intriguing Deep-League Flex Option in Week 1",
+        "topic_id": "1404602935089876992",
+        "url": "https://www.rotoballer.com/player-news/devaughn-vele-an-intriguing-deep-league-flex-option-in-week-1/1929877"
+      },
+      "nfl_team": "NO",
+      "player_id": "11834",
+      "player_name": "Devaughn Vele",
+      "position": "WR",
+      "published": 1789231006000,
+      "source": "rotoballer",
+      "source_key": "220869",
+      "story_id": "nfl|11834|rotoballer|220869|1789231006000",
+      "title": "Devaughn Vele an Intriguing Deep-League Flex Option in Week 1",
+      "url": "https://www.rotoballer.com/player-news/devaughn-vele-an-intriguing-deep-league-flex-option-in-week-1/1929877"
+    },
+    {
+      "analysis": null,
+      "description": "The Philadelphia Eagles announced on Saturday that rookie tight end Eli Stowers (quad, hamstring) has been placed on Injured Reserve. A second-round pick out of Vanderbilt, Stowers is expected to play a complementary role in his team's tight end room behind Eagles TE1 Dallas Goedert. While Stowers may still eventually carve out a role in the Philadelphia passing game, his NFL debut will now be delayed by at least four weeks. With Stowers on IR, Goedert's fantasy outlook for the Eagles' season opener against the Washington Commanders on Sunday looks a little bit safer. Stowers remains a worthy stash in dynasty formats, but he should be off the radar of redraft managers for the time being.",
+      "metadata": {
+        "description": "The Philadelphia Eagles announced on Saturday that rookie tight end Eli Stowers (quad, hamstring) has been placed on Injured Reserve. A second-round pick out of Vanderbilt, Stowers is expected to play a complementary role in his team's tight end room behind Eagles TE1 Dallas Goedert. While Stowers may still eventually carve out a role in the Philadelphia passing game, his NFL debut will now be delayed by at least four weeks. With Stowers on IR, Goedert's fantasy outlook for the Eagles' season opener against the Washington Commanders on Sunday looks a little bit safer. Stowers remains a worthy stash in dynasty formats, but he should be off the radar of redraft managers for the time being.",
+        "title": "Eli Stowers Placed on Injured Reserve",
+        "topic_id": "1404600418637516800",
+        "url": "https://www.rotoballer.com/player-news/eli-stowers-placed-on-injured-reserve/1929873"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13349",
+      "player_name": "Eli Stowers",
+      "position": "TE",
+      "published": 1789230306000,
+      "source": "rotoballer",
+      "source_key": "220868",
+      "story_id": "nfl|13349|rotoballer|220868|1789230306000",
+      "title": "Eli Stowers Placed on Injured Reserve",
+      "url": "https://www.rotoballer.com/player-news/eli-stowers-placed-on-injured-reserve/1929873"
+    },
+    {
+      "analysis": null,
+      "description": "Atlanta Falcons quarterback Cooper Rush (back) experienced back spasms on Saturday, per ESPN's Adam Schefter. With Falcons quarterbacks Tua Tagovailoa (oblique) and Michael Penix Jr. (knee) both ruled out for Week 1, Rush is in line to start the team's season opener against the Pittsburgh Steelers on Sunday. Schefter reports that Atlanta still expects Rush to be active, but it appears he may not be fully healthy. A career backup, Rush threw for 303 yards, zero touchdowns, and four interceptions across four games (two starts) with the Baltimore Ravens in 2025. With a hobbled Rush under center, fantasy managers should downgrade expectations for Falcons wide receiver Drake London and tight end Kyle Pitts Sr. If Rush is unable to play, undrafted rookie quarterback Jack Strand would be the next man up for Atlanta.",
+      "metadata": {
+        "description": "Atlanta Falcons quarterback Cooper Rush (back) experienced back spasms on Saturday, per ESPN's Adam Schefter. With Falcons quarterbacks Tua Tagovailoa (oblique) and Michael Penix Jr. (knee) both ruled out for Week 1, Rush is in line to start the team's season opener against the Pittsburgh Steelers on Sunday. Schefter reports that Atlanta still expects Rush to be active, but it appears he may not be fully healthy. A career backup, Rush threw for 303 yards, zero touchdowns, and four interceptions across four games (two starts) with the Baltimore Ravens in 2025. With a hobbled Rush under center, fantasy managers should downgrade expectations for Falcons wide receiver Drake London and tight end Kyle Pitts Sr. If Rush is unable to play, undrafted rookie quarterback Jack Strand would be the next man up for Atlanta.",
+        "title": "Cooper Rush Battling Back Spasms, Still Expected to Play in Week 1",
+        "topic_id": "1404596643243753472",
+        "url": "https://www.rotoballer.com/player-news/cooper-rush-battling-back-spasms-still-expected-to-play-in-week-1/1929869"
+      },
+      "nfl_team": "ATL",
+      "player_id": "4574",
+      "player_name": "Cooper Rush",
+      "position": "QB",
+      "published": 1789229945000,
+      "source": "rotoballer",
+      "source_key": "220867",
+      "story_id": "nfl|4574|rotoballer|220867|1789229945000",
+      "title": "Cooper Rush Battling Back Spasms, Still Expected to Play in Week 1",
+      "url": "https://www.rotoballer.com/player-news/cooper-rush-battling-back-spasms-still-expected-to-play-in-week-1/1929869"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Chris Olave put together the most productive season of his career in 2026, recording 100 catches for 1,163 yards and nine touchdowns on 156 targets across 16 games. The 26-year-old's numbers really took off in the second half of the season after Tyler Shough took over as the Saints' starting quarterback. Entering 2026, Olave will have a full season playing alongside Shough and should dominate target share in New Orleans, with Saints rookie wideout Jordyn Tyson (hamstring) opening the year on Injured Reserve. In Week 1, Olave and the Saints will travel to Detroit to take on the Lions. Detroit's pass defense fell apart down the stretch of the 2025 season, allowing more than 250 passing yards in four out of its final seven games. The Lions' secondary still has major questions in 2026, as the team will be without both starting safeties in Brian Branch (Achilles) and Kerby Joseph (knee) to begin the year. All in all, Olave profiles as a high-end WR1 option for fantasy managers in Week 1.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Chris Olave put together the most productive season of his career in 2026, recording 100 catches for 1,163 yards and nine touchdowns on 156 targets across 16 games. The 26-year-old's numbers really took off in the second half of the season after Tyler Shough took over as the Saints' starting quarterback. Entering 2026, Olave will have a full season playing alongside Shough and should dominate target share in New Orleans, with Saints rookie wideout Jordyn Tyson (hamstring) opening the year on Injured Reserve. In Week 1, Olave and the Saints will travel to Detroit to take on the Lions. Detroit's pass defense fell apart down the stretch of the 2025 season, allowing more than 250 passing yards in four out of its final seven games. The Lions' secondary still has major questions in 2026, as the team will be without both starting safeties in Brian Branch (Achilles) and Kerby Joseph (knee) to begin the year. All in all, Olave profiles as a high-end WR1 option for fantasy managers in Week 1.",
+        "title": "Chris Olave a Must-Start WR1 Option in Favorable Week 1 Matchup",
+        "topic_id": "1404595385028083712",
+        "url": "https://www.rotoballer.com/player-news/chris-olave-a-must-start-wr1-option-in-favorable-week-1-matchup/1929859"
+      },
+      "nfl_team": "NO",
+      "player_id": "8144",
+      "player_name": "Chris Olave",
+      "position": "WR",
+      "published": 1789229465000,
+      "source": "rotoballer",
+      "source_key": "220866",
+      "story_id": "nfl|8144|rotoballer|220866|1789229465000",
+      "title": "Chris Olave a Must-Start WR1 Option in Favorable Week 1 Matchup",
+      "url": "https://www.rotoballer.com/player-news/chris-olave-a-must-start-wr1-option-in-favorable-week-1-matchup/1929859"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints running back Alvin Kamara (knee) looks likely to play Sunday against Detroit, but that does not make him a good fantasy start. Kamara practiced fully on Friday after being limited the previous two days, though he remains questionable with the knee injury that kept him out for most of training camp. The bigger issue is the workload. Travis Etienne Jr. is expected to lead the backfield, and the Saints can also mix in Kendre Miller even with Audric Estime ruled out. Kamara is coming off a 2025 season in which he ran for 471 yards and one touchdown in 11 games while catching 33 passes for 186 yards. Detroit was also one of the tougher matchups for running backs last season. RotoBaller has Kamara at RB63 for Week 1 and recommends leaving him out of starting lineups. His receiving role should eventually bring back some PPR value, but this is not the week to chase it.",
+      "metadata": {
+        "description": "New Orleans Saints running back Alvin Kamara (knee) looks likely to play Sunday against Detroit, but that does not make him a good fantasy start. Kamara practiced fully on Friday after being limited the previous two days, though he remains questionable with the knee injury that kept him out for most of training camp. The bigger issue is the workload. Travis Etienne Jr. is expected to lead the backfield, and the Saints can also mix in Kendre Miller even with Audric Estime ruled out. Kamara is coming off a 2025 season in which he ran for 471 yards and one touchdown in 11 games while catching 33 passes for 186 yards. Detroit was also one of the tougher matchups for running backs last season. RotoBaller has Kamara at RB63 for Week 1 and recommends leaving him out of starting lineups. His receiving role should eventually bring back some PPR value, but this is not the week to chase it.",
+        "title": "Alvin Kamara Best Left on the Bench in Week 1",
+        "topic_id": "1404594126606934016",
+        "url": "https://www.rotoballer.com/player-news/alvin-kamara-best-left-on-the-bench-in-week-1/1929843"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1789228986000,
+      "source": "rotoballer",
+      "source_key": "220865",
+      "story_id": "nfl|4035|rotoballer|220865|1789228986000",
+      "title": "Alvin Kamara Best Left on the Bench in Week 1",
+      "url": "https://www.rotoballer.com/player-news/alvin-kamara-best-left-on-the-bench-in-week-1/1929843"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs kicker Harrison Butker will face the Denver Broncos on Monday night. Butker finished the 2025 season as the 10th-ranked kicker in fantasy, and he may be able to eclipse that mark this season. The Kansas City offense is expected to be improved going into 2026 with the addition of star running back Kenneth Walker and the return of Patrick Mahomes from his ACL injury. Butker hit 86.8% of his field goals in 2025, lower than his career mark of 88.4%. Despite a slight regression in accuracy, Butker could improve based on volume. If the Chiefs offense does improve year over year, there will be more scoring opportunities and therefore more kicks for Butker. His road to being a valuable fantasy kicker will be tough in Week 1 against the Broncos. If the Chiefs offense is unable to move the ball much, Butker won't find himself within field goal range often. Butker is ranked K21 in our RotoBaller Week 1 rankings, likely due to the strength of the Denver defense and the projected rust of Mahomes returning. Fantasy managers may be better off looking elsewhere for a kicker, at least for Week 1.",
+      "metadata": {
+        "description": "Kansas City Chiefs kicker Harrison Butker will face the Denver Broncos on Monday night. Butker finished the 2025 season as the 10th-ranked kicker in fantasy, and he may be able to eclipse that mark this season. The Kansas City offense is expected to be improved going into 2026 with the addition of star running back Kenneth Walker and the return of Patrick Mahomes from his ACL injury. Butker hit 86.8% of his field goals in 2025, lower than his career mark of 88.4%. Despite a slight regression in accuracy, Butker could improve based on volume. If the Chiefs offense does improve year over year, there will be more scoring opportunities and therefore more kicks for Butker. His road to being a valuable fantasy kicker will be tough in Week 1 against the Broncos. If the Chiefs offense is unable to move the ball much, Butker won't find himself within field goal range often. Butker is ranked K21 in our RotoBaller Week 1 rankings, likely due to the strength of the Denver defense and the projected rust of Mahomes returning. Fantasy managers may be better off looking elsewhere for a kicker, at least for Week 1.",
+        "title": "Harrison Butker May Be Underutilized In Week 1",
+        "topic_id": "1404591609642782720",
+        "url": "https://www.rotoballer.com/player-news/harrison-butker-may-be-underutilized-in-week-1/1929833"
+      },
+      "nfl_team": "KC",
+      "player_id": "4227",
+      "player_name": "Harrison Butker",
+      "position": "K",
+      "published": 1789228326000,
+      "source": "rotoballer",
+      "source_key": "220864",
+      "story_id": "nfl|4227|rotoballer|220864|1789228326000",
+      "title": "Harrison Butker May Be Underutilized In Week 1",
+      "url": "https://www.rotoballer.com/player-news/harrison-butker-may-be-underutilized-in-week-1/1929833"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs rookie running back Emmett Johnson will man the RB2 role against the Denver Broncos in Week 1. Johnson has impressed throughout training camp and the preseason and has established himself as the RB2 on the Kansas City depth chart. It remains to be seen how much run he will get behind the presumptive bell-cow Kenneth Walker, but Johnson should be efficient with his opportunities. The rookie back displayed that his tackle-breaking ability has transferred over to the NFL from college as he shed defenders numerous times throughout the preseason. Johnson also showed some of his pass-catching ability, giving even more reason to view him as a desirable handcuff behind Walker. Johnson's opportunities may be few and yards may be hard to come by against the Denver defense on Monday night. The Broncos allowed the second-fewest rushing yards in the NFL last season, and that run-stopping ability is likely to carry over to this year. Johnson is ranked RB56 in our RotoBaller Week 1 PPR rankings, making him a very low-end flex option in deep leagues. Fantasy managers should view Johnson as more of a handcuff/bench stash rather than an actual viable starter in his current situation.",
+      "metadata": {
+        "description": "Kansas City Chiefs rookie running back Emmett Johnson will man the RB2 role against the Denver Broncos in Week 1. Johnson has impressed throughout training camp and the preseason and has established himself as the RB2 on the Kansas City depth chart. It remains to be seen how much run he will get behind the presumptive bell-cow Kenneth Walker, but Johnson should be efficient with his opportunities. The rookie back displayed that his tackle-breaking ability has transferred over to the NFL from college as he shed defenders numerous times throughout the preseason. Johnson also showed some of his pass-catching ability, giving even more reason to view him as a desirable handcuff behind Walker. Johnson's opportunities may be few and yards may be hard to come by against the Denver defense on Monday night. The Broncos allowed the second-fewest rushing yards in the NFL last season, and that run-stopping ability is likely to carry over to this year. Johnson is ranked RB56 in our RotoBaller Week 1 PPR rankings, making him a very low-end flex option in deep leagues. Fantasy managers should view Johnson as more of a handcuff/bench stash rather than an actual viable starter in his current situation.",
+        "title": "Emmett Johnson To Play RB2 Role Against Denver",
+        "topic_id": "1404590351510953984",
+        "url": "https://www.rotoballer.com/player-news/emmett-johnson-to-play-rb2-role-against-denver/1929829"
+      },
+      "nfl_team": "KC",
+      "player_id": "13337",
+      "player_name": "Emmett Johnson",
+      "position": "RB",
+      "published": 1789228205000,
+      "source": "rotoballer",
+      "source_key": "220861",
+      "story_id": "nfl|13337|rotoballer|220861|1789228205000",
+      "title": "Emmett Johnson To Play RB2 Role Against Denver",
+      "url": "https://www.rotoballer.com/player-news/emmett-johnson-to-play-rb2-role-against-denver/1929829"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs tight end Travis Kelce will have to face the Denver Broncos on Monday night in Week 1. It will not be a soft landing for the soon-to-be 37-year-old tight end. Kelce will have to face off against arguably the best defensive unit in football to start the 2026 season. It also remains to be seen how involved Kelce will be in the offense given his age and the addition of Kenneth Walker to the backfield. The entire Kansas City offensive game plan could shift toward a more run-heavy approach given the talent they recently acquired. The passing game will also run through Rashee Rice as the primary receiver with Kelce taking a backseat. That said, Kelce is just 45 receiving yards away from passing Jason Witten for the 2nd most receiving yards for a tight end in NFL history. Kelce is ranked TE9 in our RotoBaller Week 1 PPR rankings, making him a low-end TE1 option. Fantasy managers who decided to wait on TE can plug Kelce into their lineups despite the tough matchup.",
+      "metadata": {
+        "description": "Kansas City Chiefs tight end Travis Kelce will have to face the Denver Broncos on Monday night in Week 1. It will not be a soft landing for the soon-to-be 37-year-old tight end. Kelce will have to face off against arguably the best defensive unit in football to start the 2026 season. It also remains to be seen how involved Kelce will be in the offense given his age and the addition of Kenneth Walker to the backfield. The entire Kansas City offensive game plan could shift toward a more run-heavy approach given the talent they recently acquired. The passing game will also run through Rashee Rice as the primary receiver with Kelce taking a backseat. That said, Kelce is just 45 receiving yards away from passing Jason Witten for the 2nd most receiving yards for a tight end in NFL history. Kelce is ranked TE9 in our RotoBaller Week 1 PPR rankings, making him a low-end TE1 option. Fantasy managers who decided to wait on TE can plug Kelce into their lineups despite the tough matchup.",
+        "title": "Travis Kelce Could Make History In Week 1",
+        "topic_id": "1404590351515148288",
+        "url": "https://www.rotoballer.com/player-news/travis-kelce-could-make-history-in-week-1/1929825"
+      },
+      "nfl_team": "KC",
+      "player_id": "1466",
+      "player_name": "Travis Kelce",
+      "position": "TE",
+      "published": 1789228145000,
+      "source": "rotoballer",
+      "source_key": "220862",
+      "story_id": "nfl|1466|rotoballer|220862|1789228145000",
+      "title": "Travis Kelce Could Make History In Week 1",
+      "url": "https://www.rotoballer.com/player-news/travis-kelce-could-make-history-in-week-1/1929825"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs wide receiver Xavier Worthy was listed on the injury report with a shoulder injury but has since been removed after practicing fully all week. Worthy should operate as the WR2 for the Chiefs, behind Rashee Rice in the pecking order. Worthy could be in line for a sneaky good season if the Kansas City offense is able to bounce back. The addition of Kenneth Walker to the backfield could open up things downfield for Worthy to succeed. Defenses will not be able to focus solely on stopping the pass now that the Chiefs have a real threat at running back. Despite being set up to succeed, Worthy could have a hard time producing against the Broncos defense on Monday night. Injuries on the Kansas City offensive line could also make things difficult for Worthy. If Patrick Mahomes does not have time to let plays develop downfield, the passing game may have to focus on the short and intermediate parts of the field where Walker, Rice, and Travis Kelce operate. Worthy is ranked WR53 in our RotoBaller Week 1 PPR rankings, making him a dart throw option in deep leagues given the tough matchup and his shaky role in the offense. Fantasy managers may be better off taking a wait-and-see approach with Worthy in Week 1.",
+      "metadata": {
+        "description": "Kansas City Chiefs wide receiver Xavier Worthy was listed on the injury report with a shoulder injury but has since been removed after practicing fully all week. Worthy should operate as the WR2 for the Chiefs, behind Rashee Rice in the pecking order. Worthy could be in line for a sneaky good season if the Kansas City offense is able to bounce back. The addition of Kenneth Walker to the backfield could open up things downfield for Worthy to succeed. Defenses will not be able to focus solely on stopping the pass now that the Chiefs have a real threat at running back. Despite being set up to succeed, Worthy could have a hard time producing against the Broncos defense on Monday night. Injuries on the Kansas City offensive line could also make things difficult for Worthy. If Patrick Mahomes does not have time to let plays develop downfield, the passing game may have to focus on the short and intermediate parts of the field where Walker, Rice, and Travis Kelce operate. Worthy is ranked WR53 in our RotoBaller Week 1 PPR rankings, making him a dart throw option in deep leagues given the tough matchup and his shaky role in the offense. Fantasy managers may be better off taking a wait-and-see approach with Worthy in Week 1.",
+        "title": "Xavier Worthy Should Operate As WR2 In Week 1",
+        "topic_id": "1404590351557091328",
+        "url": "https://www.rotoballer.com/player-news/xavier-worthy-removed-from-injury-report-should-operate-as-wr2-in-week-1/1929822"
+      },
+      "nfl_team": "KC",
+      "player_id": "11624",
+      "player_name": "Xavier Worthy",
+      "position": "WR",
+      "published": 1789228026000,
+      "source": "rotoballer",
+      "source_key": "220863",
+      "story_id": "nfl|11624|rotoballer|220863|1789228026000",
+      "title": "Xavier Worthy Should Operate As WR2 In Week 1",
+      "url": "https://www.rotoballer.com/player-news/xavier-worthy-removed-from-injury-report-should-operate-as-wr2-in-week-1/1929822"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs wide receiver Rashee Rice was listed on the injury report with the knee issue he's been dealing with since last season, but he participated fully in practice all week and should be ready to roll. Rice will operate as the Chiefs WR1 again this season after dealing with legal and health issues this offseason. Rice has been nothing but effective for the Chiefs, producing WR1 numbers for fantasy, especially in PPR formats. The matchup this week will be tough given the strength of the Broncos defense, but Rice should be able to produce mainly as a slot receiver. The addition of Kenneth Walker should also help open things up for Rice in the middle of the field, since defenses will need to worry about stopping the run. Given the age of Travis Kelce, Rice should be the undisputed top target for Patrick Mahomes once again. These videos out of camp earlier this offseason were a bit concerning since Rice did not look fully healthy, but his ability to practice in full all week should give fantasy managers some optimism surrounding his health. Head coach Andy Reid also commented on Rice, stating that the wideout should be fine going into the season. Rice is ranked WR14 in our RotoBaller Week 1 PPR rankings, making him a high-end WR2 option against the Denver defense. Fantasy managers should feel comfortable putting Rice in their lineups, but keep in mind that his fantasy output could be diminished this week.",
+      "metadata": {
+        "description": "Kansas City Chiefs wide receiver Rashee Rice was listed on the injury report with the knee issue he's been dealing with since last season, but he participated fully in practice all week and should be ready to roll. Rice will operate as the Chiefs WR1 again this season after dealing with legal and health issues this offseason. Rice has been nothing but effective for the Chiefs, producing WR1 numbers for fantasy, especially in PPR formats. The matchup this week will be tough given the strength of the Broncos defense, but Rice should be able to produce mainly as a slot receiver. The addition of Kenneth Walker should also help open things up for Rice in the middle of the field, since defenses will need to worry about stopping the run. Given the age of Travis Kelce, Rice should be the undisputed top target for Patrick Mahomes once again. These videos out of camp earlier this offseason were a bit concerning since Rice did not look fully healthy, but his ability to practice in full all week should give fantasy managers some optimism surrounding his health. Head coach Andy Reid also commented on Rice, stating that the wideout should be fine going into the season. Rice is ranked WR14 in our RotoBaller Week 1 PPR rankings, making him a high-end WR2 option against the Denver defense. Fantasy managers should feel comfortable putting Rice in their lineups, but keep in mind that his fantasy output could be diminished this week.",
+        "title": "Rashee Rice Off Injury Report, Ready To Roll Against Denver",
+        "topic_id": "1404589092968157184",
+        "url": "https://www.rotoballer.com/player-news/rashee-rice-off-injury-report-ready-to-roll-against-denver/1929817"
+      },
+      "nfl_team": "KC",
+      "player_id": "10229",
+      "player_name": "Rashee Rice",
+      "position": "WR",
+      "published": 1789227906000,
+      "source": "rotoballer",
+      "source_key": "220857",
+      "story_id": "nfl|10229|rotoballer|220857|1789227906000",
+      "title": "Rashee Rice Off Injury Report, Ready To Roll Against Denver",
+      "url": "https://www.rotoballer.com/player-news/rashee-rice-off-injury-report-ready-to-roll-against-denver/1929817"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs running back Kenneth Walker will make his Chiefs debut against the Denver Broncos on Monday night in Week 1. Walker recently had an injury scare when he missed practice due to a foot issue, but it was stated to be an issue with his cleat that has since been resolved. Walker was not listed on the injury report this week, meaning that he should be a full go to begin the season. Walker was highly effective for the Seattle Seahawks in the playoffs as the feature back after playing in a committee for the regular season, and now he will get the opportunity to be a bell-cow for Kansas City. The 25-year-old is in the prime of his career and should handle the vast majority of carries as well as a handful of catches out of the backfield each week. The Chiefs were among the best teams in rushing success rate last season but lacked the explosiveness to make big plays, so Walker should fill that role quite nicely. The season outlook for Walker is better than his Week 1 outlook, mostly due to the tough matchup. The Broncos defense allowed the second-fewest rushing yards in 2025, meaning that Walker could have a hard time getting things going on the ground, but he could get involved in the passing game. The Kansas City offensive line is also dealing with injuries, which could make things even more difficult for the Chiefs running back. Walker is also a home run hitter, meaning that it just takes one play for him to break off a big run and make an impact. There are obstacles in his way, but Walker should get ample opportunity to make something happen. Walker is ranked RB12 in our RotoBaller Week 1 PPR rankings, making him a back-end RB1 option this week. Fantasy managers should be excited by his new situation this season, but temper expectations in Week 1.",
+      "metadata": {
+        "description": "Kansas City Chiefs running back Kenneth Walker will make his Chiefs debut against the Denver Broncos on Monday night in Week 1. Walker recently had an injury scare when he missed practice due to a foot issue, but it was stated to be an issue with his cleat that has since been resolved. Walker was not listed on the injury report this week, meaning that he should be a full go to begin the season. Walker was highly effective for the Seattle Seahawks in the playoffs as the feature back after playing in a committee for the regular season, and now he will get the opportunity to be a bell-cow for Kansas City. The 25-year-old is in the prime of his career and should handle the vast majority of carries as well as a handful of catches out of the backfield each week. The Chiefs were among the best teams in rushing success rate last season but lacked the explosiveness to make big plays, so Walker should fill that role quite nicely. The season outlook for Walker is better than his Week 1 outlook, mostly due to the tough matchup. The Broncos defense allowed the second-fewest rushing yards in 2025, meaning that Walker could have a hard time getting things going on the ground, but he could get involved in the passing game. The Kansas City offensive line is also dealing with injuries, which could make things even more difficult for the Chiefs running back. Walker is also a home run hitter, meaning that it just takes one play for him to break off a big run and make an impact. There are obstacles in his way, but Walker should get ample opportunity to make something happen. Walker is ranked RB12 in our RotoBaller Week 1 PPR rankings, making him a back-end RB1 option this week. Fantasy managers should be excited by his new situation this season, but temper expectations in Week 1.",
+        "title": "Kenneth Walker To Face Tough Broncos Defense In Week 1",
+        "topic_id": "1404589093052043264",
+        "url": "https://www.rotoballer.com/player-news/kenneth-walker-to-face-tough-broncos-defense-in-week-1/1929812"
+      },
+      "nfl_team": "KC",
+      "player_id": "8151",
+      "player_name": "Kenneth Walker",
+      "position": "RB",
+      "published": 1789227730000,
+      "source": "rotoballer",
+      "source_key": "220859",
+      "story_id": "nfl|8151|rotoballer|220859|1789227730000",
+      "title": "Kenneth Walker To Face Tough Broncos Defense In Week 1",
+      "url": "https://www.rotoballer.com/player-news/kenneth-walker-to-face-tough-broncos-defense-in-week-1/1929812"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs quarterback Patrick Mahomes was listed on the injury report this week with the same ACL injury that he has been rehabbing this offseason, but he was a full participant in practice all week. Mahomes is now off the injury report and ready to begin his 2026 season against the Denver Broncos on Monday. The Chiefs also listed wide receivers Rashee Rice and Xavier Worthy on the injury report with knee and shoulder injuries, respectively. Still, both will be active and ready to catch passes from Mahomes. Mahomes will also have the benefit of leaning on newly acquired running back Kenneth Walker. Reports out of camp have said that the Chiefs are looking to get Walker involved in the passing game, which should give Mahomes a safe check-down option out of the backfield. The Chiefs quarterback will have to deal with a tough matchup in Week 1 since the Broncos defense is arguably the best unit in the league and the Chiefs offensive line is dealing with injuries, most notably a back injury that will force Josh Simmons to miss the game. Since Mahomes is returning from an ACL injury, it is reasonable to assume that his rushing output will be diminished at least to start the season. Given the difficulty of the matchup, the health of the O-line, and the health of his knee, it is hard to trust Mahomes in Week 1. Mahomes is ranked QB17 in our RotoBaller Week 1 rankings, meaning fantasy managers may want to look elsewhere for a quarterback this week.",
+      "metadata": {
+        "description": "Kansas City Chiefs quarterback Patrick Mahomes was listed on the injury report this week with the same ACL injury that he has been rehabbing this offseason, but he was a full participant in practice all week. Mahomes is now off the injury report and ready to begin his 2026 season against the Denver Broncos on Monday. The Chiefs also listed wide receivers Rashee Rice and Xavier Worthy on the injury report with knee and shoulder injuries, respectively. Still, both will be active and ready to catch passes from Mahomes. Mahomes will also have the benefit of leaning on newly acquired running back Kenneth Walker. Reports out of camp have said that the Chiefs are looking to get Walker involved in the passing game, which should give Mahomes a safe check-down option out of the backfield. The Chiefs quarterback will have to deal with a tough matchup in Week 1 since the Broncos defense is arguably the best unit in the league and the Chiefs offensive line is dealing with injuries, most notably a back injury that will force Josh Simmons to miss the game. Since Mahomes is returning from an ACL injury, it is reasonable to assume that his rushing output will be diminished at least to start the season. Given the difficulty of the matchup, the health of the O-line, and the health of his knee, it is hard to trust Mahomes in Week 1. Mahomes is ranked QB17 in our RotoBaller Week 1 rankings, meaning fantasy managers may want to look elsewhere for a quarterback this week.",
+        "title": "Patrick Mahomes Off Injury Report, Poised To Shake Off Rust In Week 1",
+        "topic_id": "1404589093077209088",
+        "url": "https://www.rotoballer.com/player-news/patrick-mahomes-off-injury-report-poised-to-shake-off-rust-in-week-1/1929810"
+      },
+      "nfl_team": "KC",
+      "player_id": "4046",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "published": 1789227726000,
+      "source": "rotoballer",
+      "source_key": "220860",
+      "story_id": "nfl|4046|rotoballer|220860|1789227726000",
+      "title": "Patrick Mahomes Off Injury Report, Poised To Shake Off Rust In Week 1",
+      "url": "https://www.rotoballer.com/player-news/patrick-mahomes-off-injury-report-poised-to-shake-off-rust-in-week-1/1929810"
     },
     {
       "analysis": "Mayer is an all around contributor, making it well worth the investment for the Raiders. For fantasy, it means that he is behind Brock Bowers for the long term, but maybe the Raiders will employ more tight end sets so both can eat, as they are likely the two most talented pass catchers on the team at this point in time. Time will tell what his fantasy value will become.",
@@ -105,6 +459,26 @@
       "url": "https://www.fantasypros.com/nfl/news/607333/tucker-kraft-signs-four-year-75-million-deal-with-packers.php"
     },
     {
+      "analysis": null,
+      "description": "New Orleans Saints running back Travis Etienne Jr. should still be in fantasy lineups Sunday against Detroit, even with Alvin Kamara expected to return. Kamara practiced fully Friday after missing most of camp with an MCL sprain, but he is still listed as questionable and is not expected to handle a big role right away. Audric Estime is also out, which leaves Etienne in a good spot for volume. He is coming off 1,107 rushing yards and seven touchdowns on 260 carries with Jacksonville, plus 36 catches for 292 yards and six more scores. The matchup is tougher than it first looks. Detroit allowed the seventh-fewest fantasy points and 12th-fewest rushing yards to running backs last season. RotoBaller has Etienne at RB17 for Week 1 and still recommends keeping him in most lineups. He is better viewed as a high-end RB2 than a locked-in RB1, but the workload should keep him firmly in starting range.",
+      "metadata": {
+        "description": "New Orleans Saints running back Travis Etienne Jr. should still be in fantasy lineups Sunday against Detroit, even with Alvin Kamara expected to return. Kamara practiced fully Friday after missing most of camp with an MCL sprain, but he is still listed as questionable and is not expected to handle a big role right away. Audric Estime is also out, which leaves Etienne in a good spot for volume. He is coming off 1,107 rushing yards and seven touchdowns on 260 carries with Jacksonville, plus 36 catches for 292 yards and six more scores. The matchup is tougher than it first looks. Detroit allowed the seventh-fewest fantasy points and 12th-fewest rushing yards to running backs last season. RotoBaller has Etienne at RB17 for Week 1 and still recommends keeping him in most lineups. He is better viewed as a high-end RB2 than a locked-in RB1, but the workload should keep him firmly in starting range.",
+        "title": "Travis Etienne Jr. Still a Strong Start in Tough Matchup",
+        "topic_id": "1404580283876966400",
+        "url": "https://www.rotoballer.com/player-news/travis-etienne-jr-still-a-strong-start-in-tough-matchup/1929799"
+      },
+      "nfl_team": "NO",
+      "player_id": "7543",
+      "player_name": "Travis Etienne",
+      "position": "RB",
+      "published": 1789225806000,
+      "source": "rotoballer",
+      "source_key": "220855",
+      "story_id": "nfl|7543|rotoballer|220855|1789225806000",
+      "title": "Travis Etienne Jr. Still a Strong Start in Tough Matchup",
+      "url": "https://www.rotoballer.com/player-news/travis-etienne-jr-still-a-strong-start-in-tough-matchup/1929799"
+    },
+    {
       "analysis": "The deal includes $30 million guaranteed, and the $15 million APY ranks fourth among current tight ends. Mayer has operated as the Raiders' TE2 for the past couple of seasons, but the fourth-year pro is expected to operate in an expanded role Sunday against the Dolphins in the absence of Brock Bowers, who is expected to miss at least one or two games after undergoing a meniscus trim procedure Tuesday. Mayer finished the 2025 regular season with 35 catches (on 50 targets) for 328 yards and a touchdown across 13 games.",
       "description": "Mayer signed a three-year, $45 million contract extension with the Raiders on Saturday, Ian Rapoport of NFL.com reports.",
       "metadata": {
@@ -123,6 +497,26 @@
       "story_id": "nfl|9482|rotowire|636952|1789225175000",
       "title": "Michael Mayer - Gets three-year extension with Las Vegas",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints quarterback Tyler Shough is one of the more interesting streaming options for Week 1 against Detroit. He settled in after taking over last season, throwing for 2,256 yards, 10 touchdowns and five interceptions across nine starts. The finish was especially encouraging. Over his final five games, Shough threw for 1,316 yards and five touchdowns while adding 135 yards and three scores on the ground. Detroit gave up 4,027 passing yards and 31 passing touchdowns in 2025, and starting safeties Brian Branch and Kerby Joseph will both miss the opener. That gives Shough a favorable spot with Chris Olave leading the passing game, even with rookie Jordyn Tyson on injured reserve. RotoBaller has Shough at QB16 for Week 1. He is not a locked-in QB1, but managers looking for a streamer can use him with real top-12 upside if this game turns into a shootout.",
+      "metadata": {
+        "description": "New Orleans Saints quarterback Tyler Shough is one of the more interesting streaming options for Week 1 against Detroit. He settled in after taking over last season, throwing for 2,256 yards, 10 touchdowns and five interceptions across nine starts. The finish was especially encouraging. Over his final five games, Shough threw for 1,316 yards and five touchdowns while adding 135 yards and three scores on the ground. Detroit gave up 4,027 passing yards and 31 passing touchdowns in 2025, and starting safeties Brian Branch and Kerby Joseph will both miss the opener. That gives Shough a favorable spot with Chris Olave leading the passing game, even with rookie Jordyn Tyson on injured reserve. RotoBaller has Shough at QB16 for Week 1. He is not a locked-in QB1, but managers looking for a streamer can use him with real top-12 upside if this game turns into a shootout.",
+        "title": "Tyler Shough Has Streaming Upside Against Detroit",
+        "topic_id": "1404577767428722688",
+        "url": "https://www.rotoballer.com/player-news/tyler-shough-has-streaming-upside-against-detroit/1929797"
+      },
+      "nfl_team": "NO",
+      "player_id": "12545",
+      "player_name": "Tyler Shough",
+      "position": "QB",
+      "published": 1789225148000,
+      "source": "rotoballer",
+      "source_key": "220854",
+      "story_id": "nfl|12545|rotoballer|220854|1789225148000",
+      "title": "Tyler Shough Has Streaming Upside Against Detroit",
+      "url": "https://www.rotoballer.com/player-news/tyler-shough-has-streaming-upside-against-detroit/1929797"
     },
     {
       "analysis": "The deal includes a $26.5 million signing bonus, making Kraft the NFL's highest-paid tight end and under contract with the Packers through 2030, per Jeremy Fowler of ESPN.com. Kraft was one of the most productive tight ends through the first half of the 2025 regular season before his campaign abruptly ended in Week 9 due to a torn ACL. He's not on the injury report for Sunday's regular-season opener against the Vikings, and the 2023 third-rounder is expected to be one of the top targets for Jordan Love in the passing game, alongside fellow tight end Jonnu Smith and wide receivers Christian Watson, Jayden Reed and Matthew Golden.",
@@ -2767,6 +3161,26 @@
       "url": "https://www.rotoballer.com/player-news/tucker-kraft-a-mid-range-te1-against-vikings/1929003"
     },
     {
+      "analysis": "Davis was carted off the field during Friday's practice, and a diagnosed hip injury now could keep him sidelined for \"some period of time,\" per Cowboys COO Stephen Jones on 105.3 The Fan Dallas. As the only other running back on the active roster behind starter Javonte Williams, Demercado, who was claimed off waivers on Aug. 31, seemingly is the next player up, but what kind of role he'll get off the bat remains to be seen. Demercado's competitors for reserve RB reps are FB Hunter Luepke and practice-squad member Israel Abanikanda.",
+      "description": "Demercado may serve as the Cowboys' No. 2 RB on Sunday at the Giants after Malik Davis was ruled out for the contest due to a hip injury, Nick Eatman of the team's official site reports.",
+      "metadata": {
+        "analysis": "Davis was carted off the field during Friday's practice, and a diagnosed hip injury now could keep him sidelined for \"some period of time,\" per Cowboys COO Stephen Jones on 105.3 The Fan Dallas. As the only other running back on the active roster behind starter Javonte Williams, Demercado, who was claimed off waivers on Aug. 31, seemingly is the next player up, but what kind of role he'll get off the bat remains to be seen. Demercado's competitors for reserve RB reps are FB Hunter Luepke and practice-squad member Israel Abanikanda.",
+        "description": "Demercado may serve as the Cowboys' No. 2 RB on Sunday at the Giants after Malik Davis was ruled out for the contest due to a hip injury, Nick Eatman of the team's official site reports.",
+        "title": "Emari Demercado - Bigger role potentially on tap",
+        "topic_id": "1404245449195458560"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11199",
+      "player_name": "Emari Demercado",
+      "position": "RB",
+      "published": 1789160488000,
+      "source": "rotowire",
+      "source_key": "636859",
+      "story_id": "nfl|11199|rotowire|636859|1789160488000",
+      "title": "Emari Demercado - Bigger role potentially on tap",
+      "url": null
+    },
+    {
       "analysis": "Davis required a cart to leave the practice field Friday, was diagnosed with a hip injury and then promptly ruled out on the Cowboys' final Week 1 practice report. As long as Davis is out, Emari Demercado, Hunter Luepke and practice-squad member Israel Abanikanda will the options to fill out the backfield behind No. 1 RB Javonte Williams.",
       "description": "Cowboys COO Stephen Jones said on 105.3 The Fan Dallas that Davis (hip) suffered a \"pretty serious injury\" at Friday's practice that \"could take him out for some period of time.\"",
       "metadata": {
@@ -4801,6 +5215,26 @@
       "story_id": "nfl|13287|rotowire|636821|1789139780000",
       "title": "Jeremiyah Love - Expected to play Sunday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys running back Emari Demercado is basically unrostered on Yahoo, but that could change after Malik Davis was injured during Friday's practice. Davis had clearly won the No. 2 job behind Javonte Williams, with Demercado sitting directly behind him after Dallas claimed the veteran off waivers at the end of August. If Davis is forced to miss time, Demercado suddenly has a much cleaner path to backup work. He has been efficient when called on, averaging 6.5 yards per carry on 126 career attempts. Last season with Arizona, Demercado ran 44 times for 312 yards and caught 13 passes for 101 yards and a touchdown. None of that makes him a Week 1 starter against the Giants. Williams is still the lead back here. But with Demercado at 0% rostered on Yahoo, deeper-league managers now have a reason to take a shot before there is more clarity on Davis. If Davis misses time, Demercado's handcuff value rises quickly.",
+      "metadata": {
+        "description": "Dallas Cowboys running back Emari Demercado is basically unrostered on Yahoo, but that could change after Malik Davis was injured during Friday's practice. Davis had clearly won the No. 2 job behind Javonte Williams, with Demercado sitting directly behind him after Dallas claimed the veteran off waivers at the end of August. If Davis is forced to miss time, Demercado suddenly has a much cleaner path to backup work. He has been efficient when called on, averaging 6.5 yards per carry on 126 career attempts. Last season with Arizona, Demercado ran 44 times for 312 yards and caught 13 passes for 101 yards and a touchdown. None of that makes him a Week 1 starter against the Giants. Williams is still the lead back here. But with Demercado at 0% rostered on Yahoo, deeper-league managers now have a reason to take a shot before there is more clarity on Davis. If Davis misses time, Demercado's handcuff value rises quickly.",
+        "title": "Emari Demercado Moves Onto the Waiver Radar",
+        "topic_id": "1404219020604866561",
+        "url": "https://www.rotoballer.com/player-news/emari-demercado-moves-onto-the-waiver-radar/1928682"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11199",
+      "player_name": "Emari Demercado",
+      "position": "RB",
+      "published": 1789139645000,
+      "source": "rotoballer",
+      "source_key": "220653",
+      "story_id": "nfl|11199|rotoballer|220653|1789139645000",
+      "title": "Emari Demercado Moves Onto the Waiver Radar",
+      "url": "https://www.rotoballer.com/player-news/emari-demercado-moves-onto-the-waiver-radar/1928682"
     },
     {
       "analysis": null,
@@ -30370,6 +30804,27 @@
       "story_id": "nfl|13287|rotowire|635608|1788208189000",
       "title": "Jeremiyah Love - Trending toward Week 1 return",
       "url": null
+    },
+    {
+      "analysis": "Javonte Williams and Malik Davis were the two lone running backs to make the initial 53-man roster for Dallas. Demercado will add depth behind them.",
+      "description": "The Cowboys claimed RB Emari Demercado off waivers.",
+      "metadata": {
+        "analysis": "Javonte Williams and Malik Davis were the two lone running backs to make the initial 53-man roster for Dallas. Demercado will add depth behind them.",
+        "description": "The Cowboys claimed RB Emari Demercado off waivers.",
+        "title": "Emari Demercado claimed off waivers by Cowboys ",
+        "topic_id": "1400245345455214592",
+        "url": "https://www.fantasypros.com/nfl/news/605057/emari-demercado-claimed-off-waivers-by-cowboys.php"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11199",
+      "player_name": "Emari Demercado",
+      "position": "RB",
+      "published": 1788207014963,
+      "source": "fantasy_pros",
+      "source_key": "605057",
+      "story_id": "nfl|11199|fantasy_pros|605057|1788207014963",
+      "title": "Emari Demercado claimed off waivers by Cowboys ",
+      "url": "https://www.fantasypros.com/nfl/news/605057/emari-demercado-claimed-off-waivers-by-cowboys.php"
     },
     {
       "analysis": "Randall will be eligible to return after the first four weeks. ",
