@@ -2,52 +2,128 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2957**
-- Newly captured: **23**
+- Stored stories: **2990**
+- Newly captured: **36**
 
 ## Latest news
 
-- **NEW — Demond Claiborne** — Demond Claiborne - Won't make NFL debut Week 1 (2026-09-13T19:30:32Z)
+- **NEW — Mark Andrews** — Mark Andrews sees six targets in Week 1 win (2026-09-13T21:45:57.813000Z)
+  - Andrews received sizeable volume in the Baltimore passing attack, finishing tied for first in targets in the win. The veteran tight end remains a reliable option ahead of a Week 2 matchup against the New Orleans Saints.
+  - Source: https://www.fantasypros.com/nfl/news/607648/mark-andrews-sees-six-targets-week-1-win.php
+- **NEW — D'Andre Swift** — D'Andre Swift - Three-TD day in massive Week 1 win (2026-09-13T21:42:16Z)
+  - In the highest-scoring Week 1 game in NFL history, Swift scored one-yard TDs in the first and third quarters before icing the contest with a 28-yard scamper on the Bears' final possession in the fourth. Swift tied his career high with 10 total touchdowns (nine rushing, one receiving) in 2025, but he's well on his way to shattering that mark this season. The 27-year-old RB will look for another productive day at home in Week 2 against the Vikings.
+- **NEW — Caleb Williams** — Caleb Williams - Produces four TDs in huge Week 1 win (2026-09-13T21:37:42Z)
+  - In the highest-scoring Week 1 game in NFL history, Williams led the Bears on nine separate scoring drives, tossing TDs to Cole Kmet in the second quarter and Jahdae Walker in the fourth, while adding rushing scores of his own in the first and second quarters. The third-year QB produced a career-high 30 touchdowns in 2025, 27 through the air and three on the ground, but he may be poised to shatter that mark in 2026. Williams will likely face a tougher test at home in Week 2 against the Vikings.
+- **NEW — Justice Hill** — Justice Hill sees seven touches in Week 1 (2026-09-13T21:35:57.967000Z)
+  - Hill operated as more of an afterthought out of the Baltimore backfield, with Derrick Henry and Lamar Jackson finishing ahead of the running back in carries. He remains more of a change-of-pace option behind Henry ahead of a Week 2 contest against the New Orleans Saints.
+  - Source: https://www.fantasypros.com/nfl/news/607644/justice-hill-sees-seven-touches-week-1.php
+- **NEW — Lamar Jackson** — Lamar Jackson - Stellar numbers in Week 1 win (2026-09-13T21:34:54Z)
+  - Although Derrick Henry put together a dominant performance of 144 rushing yards and three touchdowns, Jackson still found his way to a standout afternoon that included an average of 13.0 yards per attempt. Jackson also was the first to strike for Baltimore, capping off the Ravens' first possession with a five-yard scoring run. He went on to add a 54-yard scoring strike to Zay Flowers (hamstring) in the first half, and the one blemish on the star quarterback's afternoon was his fumble on a sack deep in his own territory during the latter portion of the second quarter. Jackson ultimately connected with nine different targets overall, and his impressive passing yardage figure was generated with Flowers missing the entire second half because of his injury. Jackson's prospects will remain bright in a Week 2 home matchup next Sunday against a Saints team that allowed 31 points to the Lions in Week 1.
+- **NEW — Dalton Kincaid** — Dalton Kincaid - Career-high 130 yards in Week 1 (2026-09-13T21:31:31Z)
+  - Kincaid did most of his damage late, recording catches of 40 and 35 yards in the fourth quarter. He cleared offseason addition DJ Moore by 30 receiving yards for the team lead while tying Khalil Shakir for second in targets behind Moore's eight. Kincaid played through a knee injury last season but looked healthy in this season opener while setting a new single-game career high in receiving yards. He'll try to keep rolling in Thursday's Week 2 home game against the Lions.
+- **NEW — DJ Moore** — DJ Moore - Posts 100 yards, TD in Bills debut (2026-09-13T21:30:22Z)
+  - Moore made a strong first impression with the Bills, highlighted by a 43-yard touchdown catch in the second quarter. The 29-year-old wide receiver had a career-low 682 receiving yards in 17 regular-season games with the Bears last year, but he has exceeded 1,000 yards in four of eight regular seasons split between the Panthers and Bears. Josh Allen spread the ball around as usual against Houston, but Moore paced the team with eight targets. Moore will look to build on this productive debut in Thursday's home opener against the Lions.
+- **NEW — Kyler Murray** — Kyler Murray - Won't return to Sunday's game (2026-09-13T21:27:15Z)
+  - Murray was sandwiched by a pair of Green Bay defenders while going to the ground in the first quarter, drawing an unnecessary roughness penalty in the process. He immediately was under evaluation for a head injury before the Vikings deemed him unable to return. Carson Wentz took over under center for Murray, while J.J. McCarthy's status as the emergency third quarterback means he could make an appearance if Wentz also leaves with an injury.
+- **NEW — Dylan Sampson** — Dylan Sampson - On crutches after hurting knee (2026-09-13T21:26:08Z)
+  - Sampson was hurt in the first quarter. He was initially deemed questionable but was eventually downgraded to out after being evaluated in the medical tent and the locker room. Quinshon Judkins (12 carries) and Raheim Sanders (one carry) were the only Browns running backs to log any totes during the Week 1 defeat. Sampson is slated to undergo further testing Monday, per Daniel Oyefusi of ESPN.com.
+- **NEW — Kyler Murray** — Kyler Murray (concussion) ruled out Sunday (2026-09-13T21:25:58.051000Z)
+  - Murray suffered the apparent concussion in the first quarter after being hit by Green Bay safety Jevon Bullard, with backup Carson Wentz taking over behind center for head coach Kevin O'Connell.
+  - Source: https://www.fantasypros.com/nfl/news/607641/kyler-murray-concussion-ruled-out-sunday.php
+- **NEW — Rashod Bateman** — Rashod Bateman sees one target in Week 1 (2026-09-13T21:25:58.038000Z)
+  - Bateman operated as more of an afterthought in a Baltimore passing attack that lost both Zay Flowers (hamstring) and Ja'Kobi Lane (wrist) to injury, but could be in line for increased usage if either of the pass-catchers misses time ahead of a Week 2 contest against the New Orleans Saints.
+  - Source: https://www.fantasypros.com/nfl/news/607642/rashod-bateman-sees-one-target-week-1.php
+- **NEW — Derrick Henry** — Derrick Henry - Dominant in Week 1 win (2026-09-13T21:24:35Z)
+  - Much like he'd done at the expense of the Bills in Week 1 of last season, Henry turned in one of his signature performances right out of the gate, and he struck for his first two touchdowns in the first half from four and 32 yards away. The superstar running back added a three-yard scoring run early in the fourth quarter, and he consistently ripped off chunk gains throughout the afternoon at the expense of an overwhelmed Colts front. Henry's workload won't change under new head coach Jesse Minter if Sunday is any indication, and the perennial Pro Bowl back carries a stellar outlook for a Week 2 home matchup against a Saints defense that the Lions' Jahmyr Gibbs gashed for 156 yards and two touchdowns Sunday.
+- **NEW — Jonathan Taylor** — Jonathan Taylor - Strong numbers in lopsided loss (2026-09-13T21:16:43Z)
+  - Taylor and the Colts' offense as a whole got the new season off to a highly encouraging start, capping off a crisp opening drive with the star running back's one-yard touchdown run. Taylor would go on to add a three-yard scoring rush late in the first half after the Ravens had gone on to rattle off 28 straight points, with Taylor's fumble after a 14-yard reception leading to one of Baltimore's touchdowns. Outside of the turnover, Taylor's overall numbers in a game during which his rushing opportunities were capped late were still useful for fantasy managers, and he'll be slated for another prominent role in a Week 2 road showdown against the Chiefs next Sunday night.
+- **NEW — Kyler Murray** — Kyler Murray (concussion) questionable to return (2026-09-13T21:15:57.423000Z)
+  - Murray exited after being hit by Jevon Bullard in the first quarter of the Week 1 contest, completing 3-of-5 pass attempts for 18 yards and one interception while also rushing twice for nine yards before being replaced by backup Carson Wentz behind center.
+  - Source: https://www.fantasypros.com/nfl/news/607640/kyler-murray-concussion-questionable-to-return.php
+- **NEW — James Cook** — James Cook - Held in check by Houston (2026-09-13T21:14:30Z)
+  - Cook didn't find much room against Houston's stout front and took a back seat to Josh Allen, who had two rushing touchdowns and two touchdown passes. Allen's presence didn't stop Cook from rushing for a league-high 1,621 rushing yards during the 2025 regular season, so there should be better days ahead for Buffalo's shifty running back. Cook will have a short turnaround before Buffalo's home opener against the Lions on Thursday.
+- **NEW — Chase Brown** — Chase Brown - Gets into end zone in win (2026-09-13T21:08:18Z)
+  - As his final line indicates, Brown unsurprisingly found running room at a premium against the Buccaneers' typically stingy front. Nevertheless, head coach Zac Taylor stuck with the ground attack throughout the afternoon, and Brown, as expected, comfortably outpaced backfield mate Samaje Perine by 11 carries. The versatile back recorded his one touchdown from five yards out with just under six minutes remaining in the second quarter, and he finished tied for the team lead in receptions while also serving as co-runner-up in targets. Brown's busy afternoon should be the norm for him this season, and he'll look to grind out some tough yards again in a Week 2 road showdown against the Texans next Sunday.
+- **NEW — Ja'Marr Chase** — Ja'Marr Chase - Quiet start to season (2026-09-13T21:01:56Z)
+  - Despite the Bengals shaking off their usual Week 1 offensive doldrums, it was still a relatively modest day for the air attack. Joe Burrow threw for a respectable 254 yards, but Chase wasn't prioritized anywhere near the norm and actually finished behind all of Mike Gesicki, Tee Higgins and Chase Brown in targets. Chase figures to continue to be the focal point of opposing defenses every week, but he should be in line for more opportunity in a Week 2 road matchup against a Texans defense that was surprisingly gashed by the Bills on Sunday.
+- **NEW — Nico Collins** — Nico Collins - Paces Houston with 75 receiving yards (2026-09-13T21:00:34Z)
+  - C.J. Stroud connected with Collins for a 12-yard touchdown in the second quarter, marking the first touchdown of the season for both Houston's quarterback and the team's star wide receiver. Collins led the Texans in targets, catches and receiving yards Sunday after finishing as Houston's receiving yards leader in each of the previous three regular seasons. He is locked in as Stroud's top target heading into a Week 2 home game against the Bengals.
+- **NEW — David Montgomery** — David Montgomery - Three total TDs in Texans debut (2026-09-13T20:59:02Z)
+  - Montgomery scored Houston's first two touchdowns of the season with a one-yard run in the first quarter followed by an 18-yard run in the second. The offseason trade acquisition from Detroit added a third touchdown on a seven-yard catch as the Texans pulled ahead 28-27 early in the fourth quarter, but Houston's vaunted defense failed to hold that lead. Montgomery's 23 touches in his Texans debut were more than he had in any of his 17 appearances last season for Detroit, where he had to share the backfield with Jahmyr Gibbs. Woody Marks had 10 touches for 40 yards in a change-of-pace role behind Montgomery, but the latter is clearly Houston's top running back heading into a Week 2 home game against the Bengals.
+- **NEW — Garrett Wilson** — Garrett Wilson - Leading receiver in Week 1 win (2026-09-13T20:43:58Z)
+  - Wilson paced the team in targets, catches and receiving yards while no teammate exceeded three targets as the Jets employed a run-heavy approach while playing from ahead. Poor QB play and a knee injury limited Wilson to a career-low 395 receiving yards in seven appearances last season, but he had at least 1,042 receiving yards in each of his first three campaigns. Wilson is set to continue working as the top target for offseason acquisition Geno Smith in Week 2 against the Packers.
+- **NEW — Breece Hall** — Breece Hall - Tops century mark in Week 1 win (2026-09-13T20:40:26Z)
+  - The Jets overpowered the Titans at the line of scrimmage, controlling the clock with the running game while keeping Tennessee to three points through 57 minutes. Hall didn't enjoy many favorable game scripts as the Jets went 3-14 last season, but he capitalized on the heavy workload in the season-opening win while racking up 24 touches to Braelon Allen's 10. Rookie TE Kenyon Sadiq scored a three-yard rushing touchdown in the first quarter as new OC Frank Reich reached deep into his play book early, but Hall also found the end zone with a four-yard touchdown run in the third quarter. Hall and the Jets will look to build on this strong start in their Week 2 home opener against the Packers.
+- **NEW — Josh Allen** — Josh Allen - Two passing TDs, two rushing scores in win (2026-09-13T20:34:52Z)
+  - Allen ran in touchdowns of 21 yards and one yard in the second quarter. Those two rushing scores give him 43 regular-season rushing touchdowns since the start of the 2023 campaign, which is second-most in the NFL during that span behind Derrick Henry. Allen added his third total TD of the second quarter with a 43-yard touchdown pass to offseason acquisition DJ Moore. The 2024 MVP delivered some late heroics after the Bills fell behind 31-30 in the fourth quarter, leading a seven-play, 96-yard drive capped by a 34-yard Allen touchdown pass to Joshua Palmer with 1:36 to play. Buffalo's defense did the rest as the Bills improved to 1-0 ahead of Thursday's Week 2 home opener against the Lions.
+- **NEW — Zay Flowers** — Zay Flowers - Done for day with hamstring injury (2026-09-13T19:56:49Z)
+  - The Ravens had labeled Flowers as questionable to return after he exited midway through the second quarter due to a hamstring injury, but despite returning to the sideline for the start of the second half, the star wideout won't check back into the contest. He was at least able to deliver an excellent line for fantasy managers prior to his departure, posting five catches for 150 yards and a touchdown on six targets. Considering that Flowers had appeared on the Week 1 injury report due to a hamstring issue, he most likely suffered an aggravation at some point during Sunday's contest. The Ravens could send Flowers in for an MRI before having a better feel for his status heading into a Week 2 matchup with the Saints.
+- **NEW — Zay Flowers** — Zay Flowers (hamstring) ruled out Sunday (2026-09-13T19:45:57.060000Z)
+  - Flowers had been sidelined since the second quarter while attempting to work through the hamstring injury an return for head coach Jesse Minter, hauling in five of his six targets for 150 receiving yards and one touchdown on the day.
+  - Source: https://www.fantasypros.com/nfl/news/607638/zay-flowers-hamstring-ruled-out-sunday.php
+- **Demond Claiborne** — Demond Claiborne - Won't make NFL debut Week 1 (2026-09-13T19:30:32Z)
   - Claiborne, a sixth-round selection of the Vikings in the 2026 NFL Draft, will have to wait until Week 2 against the Bears on Sunday, Sept. 20, to make his regular-season debut. With Claiborne inactive for Week 1, DeeJay Dallas will serve as the Vikings' RB3 behind Aaron Jones and Jordan Mason.
-- **NEW — J.J. McCarthy** — J.J. McCarthy - Serving as emergency QB3 (2026-09-13T19:28:04Z)
+- **J.J. McCarthy** — J.J. McCarthy - Serving as emergency QB3 (2026-09-13T19:28:04Z)
   - McCarthy lost out to Kyler Murray for the starting job in training camp, and head coach Kevin O'Connell opted to go with Carson Wentz as the backup in Week 1. As the emergency third quarterback, McCarthy is not allowed to play Sunday unless both Murray and Wentz are removed from the game due to injury, illness or ejection.
-- **NEW — Carson Beck** — Carson Beck - Emergency QB to start season (2026-09-13T19:21:22Z)
+- **Carson Beck** — Carson Beck - Emergency QB to start season (2026-09-13T19:21:22Z)
   - Beck will be the emergency third option behind Jacoby Brissett and Gardner Minshew. Beck will only enter the game if both active quarterbacks cannot continue to play. The rookie out of Miami will likely fill this role for the first few weeks of the season.
-- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane (wrist) ruled out Sunday (2026-09-13T19:20:56.688000Z)
+- **Ja'Kobi Lane** — Ja'Kobi Lane (wrist) ruled out Sunday (2026-09-13T19:20:56.688000Z)
   - Lane joins fellow wideout Zay Flowers (hamstring) on the sidelines for new head coach Jesse Minter, catching one of his three targets for 11 receiving yards prior to exiting. Rashod Bateman should command even more targets in the second half from quarterback Lamar Jackson in Week 1.
   - Source: https://www.fantasypros.com/nfl/news/607636/jakobi-lane-wrist-ruled-out-sunday.php
-- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane - Leaves early with wrist injury (2026-09-13T19:11:50Z)
+- **Ja'Kobi Lane** — Ja'Kobi Lane - Leaves early with wrist injury (2026-09-13T19:11:50Z)
   - The rookie's early exit could force the Ravens to finish the season opener with just three receivers; Devontez Walker (groin) and Elijah Sarratt (coach's decision) are inactive for the contest, while Zay Flowers is questionable to return after tweaking his hamstring in the first half. Lane had a quiet showing in his injury-shortened NFL debut, finishing the day with an 11-yard reception on three targets.
-- **NEW — Omar Cooper** — Omar Cooper Jr. (ankle) ruled out with an ankle injury jury (2026-09-13T19:10:56.648000Z)
+- **Omar Cooper** — Omar Cooper Jr. (ankle) ruled out with an ankle injury jury (2026-09-13T19:10:56.648000Z)
   - Cooper had a nice 30 yard snag in this game, but was taken off the field on a cart. Fantasy managers will need to monitor his situation as details come through.
   - Source: https://www.fantasypros.com/nfl/news/607635/omar-cooper-jr-ankle-ruled-out-with-ankle-injury-jury.php
-- **NEW — Jeremiyah Love** — Jeremiyah Love (ankle) active for Week 1 (2026-09-13T19:05:56.651000Z)
+- **Jeremiyah Love** — Jeremiyah Love (ankle) active for Week 1 (2026-09-13T19:05:56.651000Z)
   - Love is good to go after clearing through pregame activities without any setbacks from the injured ankle, with the rookie running back set to share the backfield with free agent Tyler Allgeier against the Chargers.
   - Source: https://www.fantasypros.com/nfl/news/607633/jeremiyah-love-ankle-active-week-1.php
-- **NEW — Jeremiyah Love** — Jeremiyah Love - Set for NFL debut (2026-09-13T19:03:02Z)
+- **Jeremiyah Love** — Jeremiyah Love - Set for NFL debut (2026-09-13T19:03:02Z)
   - Love thus has put the high-ankle sprain that he sustained in preseason Week 1 behind him, but considering he wasn't able to practice in more than a limited capacity this week, there's a decent chance that he won't be operating on all cylinders in his NFL debut. The third overall pick in this year's draft also will have to contend with Tyler Allgeier for work out of the Cardinals backfield, so Love may take some time to fulfill his draft status.
-- **NEW — Brian Thomas** — Brian Thomas - Checks back into Sunday's contest (2026-09-13T19:01:46Z)
+- **Brian Thomas** — Brian Thomas - Checks back into Sunday's contest (2026-09-13T19:01:46Z)
   - Initially labeled questionable to return after he required a trip to the locker room in the second quarter to have his shoulder examined, Thomas was able to return to the field for the Jaguars' final drive of the first half, which ended in a punt.
-- **NEW — Omar Cooper** — Omar Cooper - Debut ends early with ankle injury (2026-09-13T18:57:54Z)
+- **Omar Cooper** — Omar Cooper - Debut ends early with ankle injury (2026-09-13T18:57:54Z)
   - The rookie first-round pick had been listed as questionable to return after injuring his ankle on the Jets' opening drive, shortly after he gained 30 yards on his first NFL reception to set up a touchdown. The Jets should shed more light on the severity of his injury following the game, but for the time being, Cooper's availability for a Week 2 game against the Packers is uncertain.
-- **NEW — Zay Flowers** — Zay Flowers (hamstring) questionable to return Sunday (2026-09-13T18:50:56.637000Z)
+- **Zay Flowers** — Zay Flowers (hamstring) questionable to return Sunday (2026-09-13T18:50:56.637000Z)
   - Flowers was off to a dynamic start before leaving in the second quarter for head coach Jesse Minter, hauling in five of his six targets for 150 receiving yards and one touchdown prior to exiting. Rashod Bateman and Ja'Kobi Lane would see increased targets if the superstar wideout remains sidelined in the second half for the Ravens.
   - Source: https://www.fantasypros.com/nfl/news/607632/zay-flowers-hamstring-questionable-to-return-sunday.php
-- **NEW — Zay Flowers** — Zay Flowers - Tweaks hamstring Sunday (2026-09-13T18:43:45Z)
+- **Zay Flowers** — Zay Flowers - Tweaks hamstring Sunday (2026-09-13T18:43:45Z)
   - Before checking out of the game midway through the second quarter, Flowers was on his way to a huge day with five receptions for 150 yards and a touchdown on six targets. The Ravens will evaluate Flowers in the locker room during halftime before updating his status prior to the start of third quarter. Given that Flowers had been listed with a hamstring issue on the injury report leading up to Sunday's season opener, his day could be done.
-- **NEW — Brian Thomas** — Brian Thomas Jr. (shoulder) questionable to return  (2026-09-13T18:10:56.655000Z)
+- **Brian Thomas** — Brian Thomas Jr. (shoulder) questionable to return  (2026-09-13T18:10:56.655000Z)
   - Thomas Jr. suffered the apparent shoulder injury in the second quarter of the Week 1 contest, hauling in all three of his targets for 40 yards prior to exiting.
   - Source: https://www.fantasypros.com/nfl/news/607622/brian-thomas-jr-shoulder-questionable-to-return.php
-- **NEW — Brian Thomas** — Brian Thomas - Managing shoulder injury (2026-09-13T18:04:05Z)
+- **Brian Thomas** — Brian Thomas - Managing shoulder injury (2026-09-13T18:04:05Z)
   - Thomas reached a major milestone during Sunday's game, becoming the second-youngest player in Jaguars franchise history to surpass 2,000 career receiving yards after reeling in three receptions for 40 yards on three targets. However, Thomas may not be able to build on that total for the rest of the contest, as he headed to the locker room in the second quarter with trainers by his side, per John Shipley of SI.com. He'll get his shoulder examined further before the Jaguars decide if he's able to return.
-- **NEW — Dylan Sampson** — Dylan Sampson - Won't return to Sunday's contest (2026-09-13T17:51:47Z)
+- **Dylan Sampson** — Dylan Sampson - Won't return to Sunday's contest (2026-09-13T17:51:47Z)
   - Sampson was initially deemed questionable to return after injuring his knee in the first quarter, but after making a visit to the medical tent on the sideline followed by two trips to the locker room, the Browns determined that his day is over, per Daniel Oyefusi of ESPN.com. His absence leaves Cleveland with Raheim Sanders as its lone backup behind starter Quinshon Judkins for the remainder of the game. Sampson didn't receive any touches on offense but gained 64 yards on two kickoff returns prior to his departure.
-- **NEW — Omar Cooper** — Omar Cooper - Tweaks ankle, uncertain to return (2026-09-13T17:38:06Z)
+- **Omar Cooper** — Omar Cooper - Tweaks ankle, uncertain to return (2026-09-13T17:38:06Z)
   - Per Zack Rosenblatt of The Athletic, the rookie first-round pick opened the game as the Jets' starting slot receiver and made an instant impact on the first drive, breaking free for a 30-yard catch and run that set up a Kenyon Sadiq touchdown run. Cooper may have tweaked his ankle on that play, however, as his availability for the remainder of Week 1 is now in question.
 - **Dylan Sampson** — Dylan Sampson - Hurts knee, iffy to return (2026-09-13T17:31:48Z)
   - Sampson didn't receive any touches on offense but returned two kickoffs for 64 yards before exiting the contest. The second-year running back headed to the locker room and will be evaluated further before the Browns decide whether he'll be able to return to the game.
+- **NEW — Tee Higgins** — Tee Higgins Leads Receiver Room In Week 1 Win (2026-09-13T17:26:05Z)
+  - Source: https://www.rotoballer.com/player-news/tee-higgins-leads-receiver-room-in-week-1-win/1930478
+- **NEW — Drake London** — Drake London an Enormous Letdown in Season-Opening Loss (2026-09-13T17:25:05Z)
+  - Source: https://www.rotoballer.com/player-news/drake-london-an-enormous-letdown-in-season-opening-loss/1930476
+- **NEW — Parker Washington** — Parker Washington Leads Jaguars in Receiving in Week 1 Blowout (2026-09-13T17:20:17Z)
+  - Source: https://www.rotoballer.com/player-news/parker-washington-a-standout-in-week-1-blowout/1930463
+- **NEW — Breece Hall** — Breece Hall Carries the Load in Week 1 Win (2026-09-13T17:17:06Z)
+  - Source: https://www.rotoballer.com/player-news/breece-hall-carries-the-load-in-week-1-win/1930467
+- **NEW — Chase Brown** — Chase Brown Heavily Involved In Week 1 (2026-09-13T17:13:20Z)
+  - Source: https://www.rotoballer.com/player-news/chase-brown-heavily-involved-in-week-1/1930465
+- **NEW — Trevor Lawrence** — Trevor Lawrence Stellar in Rout of Browns (2026-09-13T17:12:49Z)
+  - Source: https://www.rotoballer.com/player-news/trevor-lawrence-stellar-in-rout-of-browns/1930451
+- **NEW — Colston Loveland** — Colston Loveland a Bust in Week 1 vs. Panthers (2026-09-13T16:59:05Z)
+  - Source: https://www.rotoballer.com/player-news/colston-loveland-a-bust-in-week-1-vs-panthers/1930449
 - **Darren Waller** — Darren Waller - Suiting up Sunday (2026-09-13T16:56:40Z)
   - Waller had been preparing to play Week 1, and he will indeed occupy a spot on the active roster. It remains to be seen what role he will fill, though, as fellow tight ends Tommy Tremble, Mitchell Evans and Feleipe Franks will also be in uniform.
+- **NEW — Joe Burrow** — Joe Burrow Gets It Going On The Ground In Week 1 Win (2026-09-13T16:47:06Z)
+  - Source: https://www.rotoballer.com/player-news/joe-burrow-gets-it-going-on-the-ground-in-week-1-win/1930444
+- **NEW — Josh Allen** — Josh Allen's Late-Game Heroics Push Bills Past Texans (2026-09-13T16:45:06Z)
+  - Source: https://www.rotoballer.com/player-news/josh-allen-late-game-heroics-push-bills-past-texans/1930438
+- **NEW — Derrick Henry** — Derrick Henry Opens Season with Three TDs vs. Colts (2026-09-13T16:32:06Z)
+  - Source: https://www.rotoballer.com/player-news/derrick-henry-opens-season-with-3-tds-vs-colts/1930434
+- **NEW — Ja'Marr Chase** — Ja'Marr Chase Disappoints In Week 1 Win (2026-09-13T16:20:06Z)
+  - Source: https://www.rotoballer.com/player-news/jamarr-chase-disappoints-in-week-1-win/1930429
 - **Ja'Tavion Sanders** — Ja'Tavion Sanders - Inactive for Week 1 (2026-09-13T16:02:59Z)
   - Sanders, a fourth-round selection of the Panthers in the 2024 NFL Draft, will be a healthy scratch for Week 1 while Carolina rolls with Tommy Tremble, Mitchell Evans, Darren Waller and Feleipe Franks as the active tight ends for Sunday's regular-season opener. Sanders' next chance to suit up is Week 2 against the Falcons on Sunday, Sept. 20, though he may not be active for a game unless there's an injury to a tight end ahead of him on the depth chart.
 - **Jalen McMillan** — Jalen McMillan (knee) inactive for Week 1 (2026-09-13T16:00:55.587000Z)
@@ -67,6 +143,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607594/cooper-rush-back-active-week-1.php
 - **Taylen Green** — Taylen Green - Inactive Sunday (2026-09-13T15:46:45Z)
   - The rookie is serving as the emergency third option behind Deshaun Watson and Shedeur Sanders, which means he can only enter the contest if the first two quarterbacks are injured, sick or otherwise unavailable. Green was selected in the sixth round of the draft out of Arkansas.
+- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane Ruled Out With Wrist Injury in Debut vs. Colts (2026-09-13T15:45:06Z)
+  - Source: https://www.rotoballer.com/player-news/jakobi-lane-ruled-out-with-wrist-injury-in-debut-vs-colts/1930423
 - **Rome Odunze** — Rome Odunze (calf) active for Week 1 (2026-09-13T15:40:54.975000Z)
   - Odunze is good to go after passing through pregame testing without any setbacks from the calf injury, offering head coach Ben Johnson another dynamic pass-catching option for quarterback Caleb Williams against the Panthers Sunday.
   - Source: https://www.fantasypros.com/nfl/news/607592/rome-odunze-calf-active-week-1.php
@@ -81,7 +159,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Alec Pierce** — Alec Pierce (heel) on snap count for Week 1 (2026-09-13T15:10:54.458000Z)
   - Pierce is in line for 20-60 plays according to Garafolo as the wideout continues to work back towards full health after a late start to his preseason activities for the Colts. Tight end Tyler Warren alongside wideouts Keenan Allen and Josh Downs will likely see increased targets from quarterback Daniel Jones against the Ravens Sunday.
   - Source: https://www.fantasypros.com/nfl/news/607583/alec-pierce-heel-on-snap-count-week-1.php
-- **NEW — Jeremiyah Love** — Jeremiyah Love Active for NFL Debut (2026-09-13T15:10:05Z)
+- **Jeremiyah Love** — Jeremiyah Love Active for NFL Debut (2026-09-13T15:10:05Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-active-for-nfl-debut/1930402
 - **Josh Jacobs** — Josh Jacobs - Time on exempt list could equal time served (2026-09-13T15:09:19Z)
   - Jacobs made an appearance in court Thursday and pleaded no contest to misdemeanor charges of battery and criminal damage to property in a case stemming from a May domestic violence incident. There still are some moving parts related to the case, so it's unclear when exactly the NFL may issue a suspension, but Jacobs will continue to miss practices and games as long as he's on the Commissioner's Exempt List.
@@ -92,13 +170,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607579/malik-nabers-knee-game-time-decision-week-1.php
 - **Brock Bowers** — Brock Bowers - Chance to return in Week 2 (2026-09-13T14:52:24Z)
   - Bowers underwent a meniscus trim this past Tuesday that will sideline him for the season opener, but Schefter added that "there's a realistic chance" the standout tight end will sit out only Week 1 and then be active next weekend. He likely will need to mix into drills for multiple practices in a row to give Las Vegas' medical staff confidence that he'll be able to handle game action. In any case, Bowers will hand off most of the TE reps to Michael Mayer this Sunday.
-- **NEW — Courtland Sutton** — Courtland Sutton a Risky Flex for Week 1 (2026-09-13T14:48:13Z)
+- **Courtland Sutton** — Courtland Sutton a Risky Flex for Week 1 (2026-09-13T14:48:13Z)
   - Source: https://www.rotoballer.com/player-news/courtland-sutton-a-risky-flex-for-week-1/1930396
-- **NEW — Zay Flowers** — Zay Flowers Questionable to Return With Hamstring Injury (2026-09-13T14:44:05Z)
+- **Zay Flowers** — Zay Flowers Questionable to Return With Hamstring Injury (2026-09-13T14:44:05Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-questionable-to-return-with-hamstring-injury/1930393
 - **Malik Nabers** — Malik Nabers - Status remains unknown for Week 1 (2026-09-13T14:43:03Z)
   - Nabers was able to practice without limitations during Week 1 prep, but he took a 'questionable' tag into the weekend after a week in which both he and head coach John Harbaugh were non-committal about the wide receiver's potential to play Sunday. Nabers himself told Evan Barnes of Newsday on Thursday that he had to weigh the long-term implications when he eventually returns from the torn ACL and meniscus that he suffered in his right knee Week 4 of last season. The Giants play on Sunday Night Football in Week 1, so if Nabers is listed as inactive, fantasy managers won't have many options to turn to for scoring purposes between SNF and MNF. New York brought two WRs (Braxton Berrios and Dalen Cambre) off its practice squad Saturday to join Malachi Fields, Darnell Mooney and Odell Beckham, likely with a potential absence from Nabers in mind.
-- **NEW — Terry McLaurin** — Terry McLaurin Remains a WR2 Despite Tough Matchup (2026-09-13T14:18:06Z)
+- **Terry McLaurin** — Terry McLaurin Remains a WR2 Despite Tough Matchup (2026-09-13T14:18:06Z)
   - Source: https://www.rotoballer.com/player-news/terry-mclaurin-remains-a-wr2-despite-tough-matchup/1930388
 - **Lamar Jackson** — Lamar Jackson to play without contract extension to begin season (2026-09-13T14:10:54.479000Z)
   - Jackson is focused on football entering the 2026-27 season under a new Baltimore Ravens coaching staff, as the superstar quarterback is poised for another elite season behind center barring injury while also offering fantasy managers explosive production as a high-level QB1 in all formats with an intriguing Week 1 contest against the Indianapolis Colts ahead.
@@ -119,15 +197,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/607570/dezhaun-stribling-ankle-out-least-one-month.php
 - **A.J. Brown** — A.J. Brown - Likely in line for six-week absence (2026-09-13T13:52:52Z)
   - The Patriots deactivated Brown just three days after he sustained the injury in the third quarter of Wednesday's 13-10 loss to the Seahawks. Though recovery timelines for high-ankle sprains often range from 4-to-6 weeks, the Patriots quickly determined that Brown's injury is "a little more serious," which likely takes a return from IR in Week 6 when first eligible off the table. While their No. 1 wideout is sidelined until early November, the Patriots will have to lean more heavily on Romeo Doubs, DeMario Douglas, Mack Hollins and Kyle Williams as their primary receivers.
-- **NEW — Dylan Sampson** — Dylan Sampson Ruled Out With Knee Injury (2026-09-13T13:51:05Z)
+- **Dylan Sampson** — Dylan Sampson Ruled Out With Knee Injury (2026-09-13T13:51:05Z)
   - Source: https://www.rotoballer.com/player-news/dylan-sampson-ruled-out-with-knee-injury/1930378
-- **NEW — Quentin Johnston** — Quentin Johnston Brings WR2 Upside in Week 1 (2026-09-13T13:49:04Z)
+- **Quentin Johnston** — Quentin Johnston Brings WR2 Upside in Week 1 (2026-09-13T13:49:04Z)
   - Source: https://www.rotoballer.com/player-news/quentin-johnston-brings-wr2-upside-in-week-1/1930375
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Likely out at least one month (2026-09-13T13:41:25Z)
   - Stribling saw plenty of playing time early in his NFL debut during Thursday's 27-7 win over the Rams, drawing no targets but taking the field for 21 of the team's first 26 offensive snaps before going down with an injury. Initial tests ruled out an Achilles injury for Stribling, but the second-round rookie will still require some down time as a result of the ankle sprain. According to Rapoport, Stribling is seeking multiple medical opinions on his injury, and while surgery isn't yet planned, the 49ers haven't dismissed the possibility of the wideout needing an operation. The 49ers will likely hold off on placing Stribling on injured reserve until a decision is made on a treatment plan.
 - **Michael Penix** — Michael Penix - Eyeing return for Week 2 or 3 (2026-09-13T13:37:48Z)
   - Atlanta will be down to its No. 3 quarterback for Week 1, as Cooper Rush -- despite dealing with back spasms -- will pick up the start against the Steelers while Penix and Tua Tagovailoa (oblique) sit out. Penix didn't play in the preseason while completing his recovery from the torn ACL he sustained last November, but he took part in six 11-on-11 practices during training camp and was then a full participant in practices throughout Week 1 prep. If he remains free of setbacks while logging a full slate of practices during Week 2 prep, Penix could be the Falcons' choice to start in their next game Sept. 20 against the Panthers, regardless of whether Tagovailoa is available.
-- **NEW — Marvin Harrison** — Marvin Harrison Jr. Carries Too Much Risk in Week 1 (2026-09-13T13:32:06Z)
+- **Marvin Harrison** — Marvin Harrison Jr. Carries Too Much Risk in Week 1 (2026-09-13T13:32:06Z)
   - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-carries-too-much-risk-in-week-1/1930360
 - **Christian Watson** — Christian Watson Belongs in Week 1 Lineups (2026-09-13T13:22:10Z)
   - Source: https://www.rotoballer.com/player-news/christian-watson-belongs-in-week-1-lineups/1930356
@@ -151,81 +229,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/alvin-kamara-not-suiting-up-in-week-1/1930304
 - **Rome Odunze** — Rome Odunze Officially Active for Week 1 (2026-09-13T11:44:05Z)
   - Source: https://www.rotoballer.com/player-news/rome-odunze-officially-active-for-week-1/1930300
-- **Jeremiyah Love** — Jeremiyah Love (ankle) expected to play on Sunday against Chargers (2026-09-13T11:35:53.261000Z)
-  - Love is currently listed as questionable, but barring a setback, looks like he will be good to go against the Chargers. While his talent is among the best in the league, his role might be limited as he continues to work his way back from injury. Expect closer to RB3 numbers with upside for much more.
-  - Source: https://www.fantasypros.com/nfl/news/607558/jeremiyah-love-ankle-expected-to-play-on-sunday-against-chargers.php
-- **Rome Odunze** — Rome Odunze (calf) expected to play against Carolina (2026-09-13T11:30:52.679000Z)
-  - The Bears made several receiver moves on Saturday, bringing doubt to Odunze's status. However, it does look like the young receiver will play. He's worth starting, but temper expectations a little.
-  - Source: https://www.fantasypros.com/nfl/news/607556/rome-odunze-calf-expected-to-play-against-carolina.php
-- **Alvin Kamara** — Alvin Kamara (knee) not expected to play against Lions (2026-09-13T11:25:52.848000Z)
-  - With Kamara out, the team will lean on Kendre Miller as the primary backup to Travis Etienne. Kamara will look to make his way back onto the field next week.
-  - Source: https://www.fantasypros.com/nfl/news/607555/alvin-kamara-knee-not-expected-to-play-against-lions.php
-- **Josh Jacobs** — Josh Jacobs Not Facing More Than Six-Game Suspension? (2026-09-13T11:17:07Z)
-  - Source: https://www.rotoballer.com/player-news/josh-jacobs-not-facing-more-than-six-game-suspension/1930283
-- **Josh Jacobs** — NFL Attempting To Obtain Video of Josh Jacobs' Incident (2026-09-13T11:09:05Z)
-  - Source: https://www.rotoballer.com/player-news/nfl-attempting-to-obtain-video-of-josh-jacobs-incident/1930279
-- **Brock Bowers** — Brock Bowers Has a Realistic Chance to Play in Week 2 (2026-09-13T10:59:05Z)
-  - Source: https://www.rotoballer.com/player-news/brock-bowers-has-a-realistic-chance-to-play-in-week-2/1930268
-- **Malik Nabers** — Malik Nabers Still Iffy For Week 1 Contest Against Cowboys (2026-09-13T10:57:08Z)
-  - Source: https://www.rotoballer.com/player-news/malik-nabers-still-iffy-for-week-1-contest-against-cowboys/1930266
-- **Alvin Kamara** — Alvin Kamara - Not expected to play Week 1 (2026-09-13T10:53:20Z)
-  - Kamara departed a joint practice with the Cowboys on Aug. 18 early and was diagnosed with an MCL sprain that was expected to sideline him for one month. While he followed up back-to-back limited sessions to begin Week 1 prep with a full practice Friday, the Saints will exercise caution with the 10th-year pro and allow him another week to get healthier. In Kamara's anticipated absence Sunday, New Orleans will roll with Travis Etienne as its lead runner, with Kendre Miller and practice-squad call-up CJ Donaldson the other candidates for backfield reps.
-- **Alec Pierce** — Alec Pierce on a Pitch Count for Week 1 (2026-09-13T10:52:07Z)
-  - Source: https://www.rotoballer.com/player-news/alec-pierce-on-a-pitch-count-for-week-1/1930263
-- **Rome Odunze** — Rome Odunze - In line to play Week 1 (2026-09-13T10:45:31Z)
-  - Odunze made an early exit from practice Sept. 3 due to a right leg injury that was confirmed as a calf issue upon the Bears posting their first Week 1 practice report Wednesday. He proceeded to log three consecutive limited sessions, and Rapoport's report implies Odunze won't be among the team's inactives for the regular-season opener. Chicago will post such a list approximately 90 minutes before a 1 p.m. ET kickoff, and if he's active, Odunze will join Luther Burden as the top wide receivers available to quarterback Caleb Williams.
-- **Parker Washington** — Parker Washington Could Have Big Week 1 Vs. Browns (2026-09-13T10:45:06Z)
-  - Source: https://www.rotoballer.com/player-news/parker-washington-could-see-big-week-1-vs-browns/1930259
-- **Jeremiyah Love** — Jeremiyah Love - Expected to make NFL debut Sunday (2026-09-13T10:40:01Z)
-  - Love initially suffered a high-ankle sprain during preseason Week 1, and after practicing in a limited fashion from Wednesday through Friday, he entered the weekend as questionable to suit up. Josh Weinfuss of ESPN.com reported Friday that Love was trending toward making his debut Sunday, and Rapoport's report indicates that the rookie third overall pick indeed will avoid the Cardinals' list of Week 1 inactives. Such a decision will become known about 90 minutes before a 4:25 p.m. ET kickoff, but considering his lack of activity over the last month, Love may well be eased into his first NFL action while working in tandem with fellow running back Tyler Allgeier.
-- **Sam Darnold** — Sam Darnold Has a Glute Injury and Could Miss A Few Games (2026-09-13T10:22:07Z)
-  - Source: https://www.rotoballer.com/player-news/sam-darnold-has-a-glute-injury-and-could-miss-a-few-games/1930240
-- **De'Zhaun Stribling** — De'Zhaun Stribling to Miss at Least One Month with Ankle Sprain (2026-09-13T10:04:07Z)
-  - Source: https://www.rotoballer.com/player-news/dezhaun-stribling-to-miss-at-least-one-month-with-ankle-sprain/1930223
-- **Marvin Mims** — Marvin Mims Jr. Buried Too Deep to Have a Role on Offense (2026-09-13T09:45:06Z)
-  - Source: https://www.rotoballer.com/player-news/marvin-mims-jr-buried-too-deep-to-have-a-role-on-offense/1930206
-- **Pat Freiermuth** — Pat Freiermuth on the Fringe of Fantasy Radar for Week 1 (2026-09-13T09:37:15Z)
-  - Source: https://www.rotoballer.com/player-news/pat-freiermuth-on-the-fringe-of-fantasy-radar-for-week-1/1930196
-- **Michael Penix** — Michael Penix Jr. Expected to Return in Next Two Weeks? (2026-09-13T09:29:05Z)
-  - Source: https://www.rotoballer.com/player-news/michael-penix-jr-expected-to-return-in-next-two-weeks/1930184
-- **Cooper Rush** — Cooper Rush Remains on Track to Start Against Steelers (2026-09-13T09:24:05Z)
-  - Source: https://www.rotoballer.com/player-news/cooper-rush-remains-on-track-to-start-against-steelers/1930177
-- **Alvin Kamara** — Alvin Kamara Not Expected to Play in Week 1 (2026-09-13T08:14:05Z)
-  - Source: https://www.rotoballer.com/player-news/alvin-kamara-not-expected-to-play-in-week-1/1930086
-- **Jeremiyah Love** — Jeremiyah Love Expected to Suit Up for NFL Debut on Sunday (2026-09-13T08:10:06Z)
-  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-expected-to-suit-up-for-nfl-debut-on-sunday/1930082
-- **Rome Odunze** — Rome Odunze Expected to Suit Up Against the Panthers (2026-09-13T08:05:05Z)
-  - Source: https://www.rotoballer.com/player-news/rome-odunze-expected-to-suit-up-against-the-panthers/1930078
-- **Pat Bryant** — Pat Bryant Belongs on the Bench in Week 1 (2026-09-13T01:34:50Z)
-  - Source: https://www.rotoballer.com/player-news/pat-bryant-belongs-on-the-bench-in-week-1/1930030
-- **Jonah Coleman** — Managers Should Temper Expectations for Jonah Coleman in Week 1 (2026-09-13T01:30:06Z)
-  - Source: https://www.rotoballer.com/player-news/managers-should-temper-expectations-for-jonah-coleman-in-week-1/1930028
-- **Rico Dowdle** — Rico Dowdle in the Flex Territory for Steelers Debut (2026-09-13T01:25:05Z)
-  - Source: https://www.rotoballer.com/player-news/rico-dowdle-in-the-flex-territory-for-steelers-debut/1930026
-- **Courtland Sutton** — Courtland Sutton Still a Flashy Flex Option in Most Leagues (2026-09-13T00:44:05Z)
-  - Source: https://www.rotoballer.com/player-news/courtland-sutton-still-a-flashy-flex-option-in-most-leagues/1930020
-- **Jaylen Waddle** — Jaylen Waddle Looks to Start New Chapter of Career as a WR2 in Fantasy (2026-09-13T00:27:07Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-waddle-looks-to-start-new-chapter-of-career-as-a-wr2-in-fantasy/1930015
-- **Amon-Ra St. Brown** — Amon-Ra St. Brown has contract restructured by Lions  (2026-09-13T00:00:48.624000Z)
-  - LT Penei Sewell also had his contract restructured. The Lions created $35.68 million in cap space. 
-  - Source: https://www.fantasypros.com/nfl/news/607424/amon-ra-st-brown-has-contract-restructured-by-lions.php
-- **Cooper Rush** — Cooper Rush suffers back spasms, still expected to start Sunday  (2026-09-13T00:00:48.334000Z)
-  - Rush is getting the start with both Tua Tagovailoa and Michael Penix Jr. unavailable. Rush remains expected to play. 
-  - Source: https://www.fantasypros.com/nfl/news/607418/cooper-rush-suffers-back-spasms-still-expected-to-start-sunday.php
-- **C.J. Stroud** — C.J. Stroud, Texans pause extension talks (2026-09-12T23:55:48.542000Z)
-  - The two sides tried to come to an agreement on a deal before the season. Stroud will play out the final year of his rookie deal, minus the fifth-year option. 
-  - Source: https://www.fantasypros.com/nfl/news/607417/cj-stroud-texans-pause-extension-talks.php
-- **Parker Washington** — Parker Washington - Unlikely to sign extension soon (2026-09-12T23:53:38Z)
-  - With no extension imminent, Washington appears set to play out the current season without a new deal in place. The Jaguars wide receiver is coming off a career year, and Wolfe's report indicates talks explored a contract in Michael Wilson's range (three years, $75M) before stalling for now. Washington is in the final season of his four-year rookie contract, and it's still possible an extension gets worked out after Week 1.
-- **Lamar Jackson** — Lamar Jackson - Contract extension talks on hold (2026-09-12T23:44:03Z)
-  - Jackson's current contract runs through the end of 2027, but there was always a possibility he and Baltimore would negotiate an extension this summer. Instead, the star quarterback is likely to play out the 2026 campaign under his current deal, with extension talks likely to resurface following the season. Jackson has spent all eight years of his career to this point with the Ravens, earning three first-team All-Pro selections -- but no Super Bowl appearances.
-- **Jaylen Warren** — Jaylen Warren a Steady RB2 Option in Promising Week 1 Matchup (2026-09-12T22:58:07Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-warren-a-steady-rb2-option-in-promising-week-1-matchup/1930004
-- **Michael Pittman** — Michael Pittman Jr. a High-Floor, Low-Ceiling WR3 Option in Week 1 (2026-09-12T22:56:05Z)
-  - Source: https://www.rotoballer.com/player-news/michael-pittman-jr-a-high-floor-low-ceiling-wr3-option-in-week-1/1930002
-- **Aaron Rodgers** — Aaron Rodgers a Risky Superflex Start in Week 1 (2026-09-12T22:34:05Z)
-  - Source: https://www.rotoballer.com/player-news/aaron-rodgers-a-risky-superflex-start-in-week-1/1929992
-- **Ashton Jeanty** — Ashton Jeanty a High-End RB2 Option in Favorable Week 1 Matchup (2026-09-12T22:21:05Z)
-  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-a-high-end-rb2-option-in-favorable-week-1-matchup/1929985
-- **Mike Washington** — Mike Washington Jr. Carries Deep-League Appeal into Week 1 (2026-09-12T22:12:06Z)
-  - Source: https://www.rotoballer.com/player-news/mike-washington-jr-carries-deep-league-appeal-into-week-1/1929978
