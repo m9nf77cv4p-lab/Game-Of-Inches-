@@ -1,13 +1,16 @@
 {
-  "last_checked_at": "2026-09-12T22:53:17Z",
+  "last_checked_at": "2026-09-13T00:31:43Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 288,
   "new_story_ids": [
-    "nfl|12489|rotoballer|220872|1789238345000",
-    "nfl|3451|rotoballer|220719|1789166071000",
-    "nfl|3451|rotowire|634327|1787350267000",
-    "nfl|3451|rotowire|635147|1787986285000",
-    "nfl|9482|rotoballer|220871|1789232405000"
+    "nfl|11563|rotoballer|220875|1789240026000",
+    "nfl|4574|fantasy_pros|607418|1789257648334",
+    "nfl|4881|rotowire|636996|1789256643000",
+    "nfl|6806|rotoballer|220873|1789239126000",
+    "nfl|7547|fantasy_pros|607424|1789257648624",
+    "nfl|9487|rotowire|636997|1789257218000",
+    "nfl|9758|fantasy_pros|607417|1789257348542",
+    "nfl|9758|rotoballer|220874|1789238888000"
   ],
   "schema_version": 1,
   "source": {
@@ -17,6 +20,109 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "LT Penei Sewell also had his contract restructured. The Lions created $35.68 million in cap space. ",
+      "description": "The Lions restructured the contract of WR Amon-Ra St. Brown. ",
+      "metadata": {
+        "analysis": "LT Penei Sewell also had his contract restructured. The Lions created $35.68 million in cap space. ",
+        "description": "The Lions restructured the contract of WR Amon-Ra St. Brown. ",
+        "title": "Amon-Ra St. Brown has contract restructured by Lions ",
+        "topic_id": "1404652022409555968",
+        "url": "https://www.fantasypros.com/nfl/news/607424/amon-ra-st-brown-has-contract-restructured-by-lions.php"
+      },
+      "nfl_team": "DET",
+      "player_id": "7547",
+      "player_name": "Amon-Ra St. Brown",
+      "position": "WR",
+      "published": 1789257648624,
+      "source": "fantasy_pros",
+      "source_key": "607424",
+      "story_id": "nfl|7547|fantasy_pros|607424|1789257648624",
+      "title": "Amon-Ra St. Brown has contract restructured by Lions ",
+      "url": "https://www.fantasypros.com/nfl/news/607424/amon-ra-st-brown-has-contract-restructured-by-lions.php"
+    },
+    {
+      "analysis": "Rush is getting the start with both Tua Tagovailoa and Michael Penix Jr. unavailable. Rush remains expected to play. ",
+      "description": "Falcons QB Cooper Rush experienced back spasms Saturday but is still expected to start in Week 1 against the Steelers.",
+      "metadata": {
+        "analysis": "Rush is getting the start with both Tua Tagovailoa and Michael Penix Jr. unavailable. Rush remains expected to play. ",
+        "description": "Falcons QB Cooper Rush experienced back spasms Saturday but is still expected to start in Week 1 against the Steelers.",
+        "title": "Cooper Rush suffers back spasms, still expected to start Sunday ",
+        "topic_id": "1404652021201596416",
+        "url": "https://www.fantasypros.com/nfl/news/607418/cooper-rush-suffers-back-spasms-still-expected-to-start-sunday.php"
+      },
+      "nfl_team": "ATL",
+      "player_id": "4574",
+      "player_name": "Cooper Rush",
+      "position": "QB",
+      "published": 1789257648334,
+      "source": "fantasy_pros",
+      "source_key": "607418",
+      "story_id": "nfl|4574|fantasy_pros|607418|1789257648334",
+      "title": "Cooper Rush suffers back spasms, still expected to start Sunday ",
+      "url": "https://www.fantasypros.com/nfl/news/607418/cooper-rush-suffers-back-spasms-still-expected-to-start-sunday.php"
+    },
+    {
+      "analysis": "The two sides tried to come to an agreement on a deal before the season. Stroud will play out the final year of his rookie deal, minus the fifth-year option. ",
+      "description": "The Texans and QB C.J. Stroud will pause contract discussion until after the 2026 season.",
+      "metadata": {
+        "analysis": "The two sides tried to come to an agreement on a deal before the season. Stroud will play out the final year of his rookie deal, minus the fifth-year option. ",
+        "description": "The Texans and QB C.J. Stroud will pause contract discussion until after the 2026 season.",
+        "title": "C.J. Stroud, Texans pause extension talks",
+        "topic_id": "1404650763782791168",
+        "url": "https://www.fantasypros.com/nfl/news/607417/cj-stroud-texans-pause-extension-talks.php"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9758",
+      "player_name": "C.J. Stroud",
+      "position": "QB",
+      "published": 1789257348542,
+      "source": "fantasy_pros",
+      "source_key": "607417",
+      "story_id": "nfl|9758|fantasy_pros|607417|1789257348542",
+      "title": "C.J. Stroud, Texans pause extension talks",
+      "url": "https://www.fantasypros.com/nfl/news/607417/cj-stroud-texans-pause-extension-talks.php"
+    },
+    {
+      "analysis": "With no extension imminent, Washington appears set to play out the current season without a new deal in place. The Jaguars wide receiver is coming off a career year, and Wolfe's report indicates talks explored a contract in Michael Wilson's range (3-year, $75M) before stalling for now. Washington is in the final season of his four-year rookie contract, and it's still possible an extension gets worked out after Week 1.",
+      "description": "Washington is unlikely to agree to a contract extension with Jacksonville before the start of the season, Cameron Wolfe of NFL Network reports.",
+      "metadata": {
+        "analysis": "With no extension imminent, Washington appears set to play out the current season without a new deal in place. The Jaguars wide receiver is coming off a career year, and Wolfe's report indicates talks explored a contract in Michael Wilson's range (3-year, $75M) before stalling for now. Washington is in the final season of his four-year rookie contract, and it's still possible an extension gets worked out after Week 1.",
+        "description": "Washington is unlikely to agree to a contract extension with Jacksonville before the start of the season, Cameron Wolfe of NFL Network reports.",
+        "title": "Parker Washington - Unlikely to sign extension soon",
+        "topic_id": "1404650758183325696"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9487",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "published": 1789257218000,
+      "source": "rotowire",
+      "source_key": "636997",
+      "story_id": "nfl|9487|rotowire|636997|1789257218000",
+      "title": "Parker Washington - Unlikely to sign extension soon",
+      "url": null
+    },
+    {
+      "analysis": "Jackson's current contract runs through the end of 2027, but there was always a possibility he and Baltimore could negotiate an extension this summer. Instead, the star quarterback is likely to play out the 2026 campaign under his current deal, with extension talks likely to resurface following the season. Jackson has spent all eight years of his career to this point with the Ravens, earning three first-team All-Pro selections -- but no Super Bowl appearances.",
+      "description": "Jackson and the Ravens aren't expected to agree on a contract extension before 2027, Adam Schefter of ESPN reports.",
+      "metadata": {
+        "analysis": "Jackson's current contract runs through the end of 2027, but there was always a possibility he and Baltimore could negotiate an extension this summer. Instead, the star quarterback is likely to play out the 2026 campaign under his current deal, with extension talks likely to resurface following the season. Jackson has spent all eight years of his career to this point with the Ravens, earning three first-team All-Pro selections -- but no Super Bowl appearances.",
+        "description": "Jackson and the Ravens aren't expected to agree on a contract extension before 2027, Adam Schefter of ESPN reports.",
+        "title": "Lamar Jackson - Contract extension talks on hold",
+        "topic_id": "1404648240711827456"
+      },
+      "nfl_team": "BAL",
+      "player_id": "4881",
+      "player_name": "Lamar Jackson",
+      "position": "QB",
+      "published": 1789256643000,
+      "source": "rotowire",
+      "source_key": "636996",
+      "story_id": "nfl|4881|rotowire|636996|1789256643000",
+      "title": "Lamar Jackson - Contract extension talks on hold",
+      "url": null
+    },
     {
       "analysis": "The two sides attempted to reach an agreement prior to Sunday's regular-season opener against the Bills. However, it looks like talks between Stroud and the Texans have stalled, and a long-term deal will be revisited following the conclusion of the upcoming season. Entering his fourth year in the NFL, Stroud is looking to reclaim the same form he had in his rookie campaign in 2023, when he was named the Offensive Rookie of the Year after completing 63.9 percent of his passes for 4,108 yards, 23 touchdowns and five interceptions across 15 regular-season games while adding 39 carries for 167 yards and three scores.",
       "description": "Stroud and the Texans will wait until after the 2026 season to work out a long-term contract extension, Adam Schefter of ESPN reports.",
@@ -117,6 +223,66 @@
       "story_id": "nfl|4046|rotowire|636973|1789242357000",
       "title": "Patrick Mahomes - Fades injury tag Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos quarterback Bo Nix will face off against the division-rival Kansas City Chiefs on the road to open up the season on Monday Night Football. The 26-year-old was an ankle injury away from having the opportunity to lead his team to a Super Bowl appearance last season. The team opted to go all in by trading for star wideout Jaylen Waddle in hopes of taking the offense to the next level. Nix will play against a star-depleted Chiefs secondary that lost its three top cornerbacks in the offseason. However, the Chiefs' defense allowed the fifth-fewest passing touchdowns and eighth-fewest passing yards last season. As a result, he enters Week 1 as RotoBaller's QB20 with an opportunity to produce low-end QB1 numbers to start the season. Nix should be viewed as a must-start in superflex leagues and carries sneaky upside with an upgraded receiver room in Week 1.",
+      "metadata": {
+        "description": "Denver Broncos quarterback Bo Nix will face off against the division-rival Kansas City Chiefs on the road to open up the season on Monday Night Football. The 26-year-old was an ankle injury away from having the opportunity to lead his team to a Super Bowl appearance last season. The team opted to go all in by trading for star wideout Jaylen Waddle in hopes of taking the offense to the next level. Nix will play against a star-depleted Chiefs secondary that lost its three top cornerbacks in the offseason. However, the Chiefs' defense allowed the fifth-fewest passing touchdowns and eighth-fewest passing yards last season. As a result, he enters Week 1 as RotoBaller's QB20 with an opportunity to produce low-end QB1 numbers to start the season. Nix should be viewed as a must-start in superflex leagues and carries sneaky upside with an upgraded receiver room in Week 1.",
+        "title": "Bo Nix Carries Sneaky Upside in Superflex Leagues vs. Chiefs in Week 1",
+        "topic_id": "1404640688343113728",
+        "url": "https://www.rotoballer.com/player-news/bo-nix-carries-sneaky-upside-in-superflex-leagues-vs-chiefs-in-week-1/1929914"
+      },
+      "nfl_team": "DEN",
+      "player_id": "11563",
+      "player_name": "Bo Nix",
+      "position": "QB",
+      "published": 1789240026000,
+      "source": "rotoballer",
+      "source_key": "220875",
+      "story_id": "nfl|11563|rotoballer|220875|1789240026000",
+      "title": "Bo Nix Carries Sneaky Upside in Superflex Leagues vs. Chiefs in Week 1",
+      "url": "https://www.rotoballer.com/player-news/bo-nix-carries-sneaky-upside-in-superflex-leagues-vs-chiefs-in-week-1/1929914"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos running back J.K. Dobbins will open the regular season in Kansas City on Monday Night Football. The 27-year-old was the RB18 overall in PPR formats before suffering a Lisfranc foot injury to end his 2025 season. This year, Dobbins will attempt to hold off fourth-round rookie Jonah Coleman as the lead back on early downs. Coleman is expected to be Dobbins' backup but has already become a fantasy favorite within the community. Dobbins is RotoBaller's PPR RB25 against a Chiefs defense that saw multiple key players leave the team in free agency. However, they allowed the 10th fewest rushing yards and the 12th fewest rushing touchdowns last season. Dobbins should be viewed as a low-end RB2 and could sneak into the top 20 scoring running backs if he can find the end zone in Week 1.",
+      "metadata": {
+        "description": "Denver Broncos running back J.K. Dobbins will open the regular season in Kansas City on Monday Night Football. The 27-year-old was the RB18 overall in PPR formats before suffering a Lisfranc foot injury to end his 2025 season. This year, Dobbins will attempt to hold off fourth-round rookie Jonah Coleman as the lead back on early downs. Coleman is expected to be Dobbins' backup but has already become a fantasy favorite within the community. Dobbins is RotoBaller's PPR RB25 against a Chiefs defense that saw multiple key players leave the team in free agency. However, they allowed the 10th fewest rushing yards and the 12th fewest rushing touchdowns last season. Dobbins should be viewed as a low-end RB2 and could sneak into the top 20 scoring running backs if he can find the end zone in Week 1.",
+        "title": "J.K. Dobbins Offers RB2 Upside vs. Chiefs in Week 1",
+        "topic_id": "1404635654272380929",
+        "url": "https://www.rotoballer.com/player-news/j-k-dobbins-offers-rb2-upside-vs-chiefs-week-1/1929910"
+      },
+      "nfl_team": "DEN",
+      "player_id": "6806",
+      "player_name": "J.K. Dobbins",
+      "position": "RB",
+      "published": 1789239126000,
+      "source": "rotoballer",
+      "source_key": "220873",
+      "story_id": "nfl|6806|rotoballer|220873|1789239126000",
+      "title": "J.K. Dobbins Offers RB2 Upside vs. Chiefs in Week 1",
+      "url": "https://www.rotoballer.com/player-news/j-k-dobbins-offers-rb2-upside-vs-chiefs-week-1/1929910"
+    },
+    {
+      "analysis": null,
+      "description": "ESPN's Adam Schefter reports quarterback C.J. Stroud and the Houston Texans have mutually agreed to wait until after this season to work out a long-term deal. Both sides made a run at completing an extension before the regular season began, but both sides agreed they prefer to focus on the season at hand. Stroud is entering the final year of his rookie contract, but the team exercised his fifth-year option this April to keep him through the 2027 season. The 24-year-old has been unable to build off his historic rookie season and has struggled at times in big games. The last time we saw Stroud, he completed 20 of his 47 passes for 212 yards with one touchdown and four interceptions in a losing effort in the playoffs. Stroud will enter a critical year that will determine if he is worthy of a monster extension worth over $50 million per year.",
+      "metadata": {
+        "description": "ESPN's Adam Schefter reports quarterback C.J. Stroud and the Houston Texans have mutually agreed to wait until after this season to work out a long-term deal. Both sides made a run at completing an extension before the regular season began, but both sides agreed they prefer to focus on the season at hand. Stroud is entering the final year of his rookie contract, but the team exercised his fifth-year option this April to keep him through the 2027 season. The 24-year-old has been unable to build off his historic rookie season and has struggled at times in big games. The last time we saw Stroud, he completed 20 of his 47 passes for 212 yards with one touchdown and four interceptions in a losing effort in the playoffs. Stroud will enter a critical year that will determine if he is worthy of a monster extension worth over $50 million per year.",
+        "title": "C.J. Stroud and Texans Agree to Put Contract Talks on Hold",
+        "topic_id": "1404635654272380928",
+        "url": "https://www.rotoballer.com/player-news/c-j-stroud-and-texans-agree-to-put-contract-talks-on-hold/1929908"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9758",
+      "player_name": "C.J. Stroud",
+      "position": "QB",
+      "published": 1789238888000,
+      "source": "rotoballer",
+      "source_key": "220874",
+      "story_id": "nfl|9758|rotoballer|220874|1789238888000",
+      "title": "C.J. Stroud and Texans Agree to Put Contract Talks on Hold",
+      "url": "https://www.rotoballer.com/player-news/c-j-stroud-and-texans-agree-to-put-contract-talks-on-hold/1929908"
     },
     {
       "analysis": null,
@@ -58268,86 +58434,6 @@
       "story_id": "nfl|10222|rotoballer|218549|1786667509000",
       "title": "Jayden Reed Totals 19 Yards in Preseason Opener",
       "url": "https://www.rotoballer.com/player-news/jayden-reed-totals-19-yards-in-preseason-opener/1908612"
-    },
-    {
-      "analysis": "London saw a dip in production in 2025, but that was mostly due to a PCL sprain in his left knee that sidelined him for four contests late in the season. The wide receiver still caught 68 of 112 targets for 919 yards and seven scores over 12 regular-season contest, and the 76.6 yards per game were a new career-high for the 25-year-old. London understands that part of what makes him special is his 6-foot-4, 215-plus pound frame, and he'll look to continue to use it to his advantage in Year 5 with Atlanta. The wide receiver will once again face uncertainty at quarterback in 2026, as the team signed veteran Tua Tagovailoa (back) in the offseason to compete with Michael Penix (knee) for the starting job. Regardless of who is under center, London has elevated to being one of the top WRs in the league, and he figures to have another strong campaign this year.",
-      "description": "London outlined that he tries to model his game after big-bodied wideouts like Mike Evans and former NFL stars Calvin Johnson, Dez Bryant and Andre Johnson, Robert Mays of The Athletic reports.",
-      "metadata": {
-        "analysis": "London saw a dip in production in 2025, but that was mostly due to a PCL sprain in his left knee that sidelined him for four contests late in the season. The wide receiver still caught 68 of 112 targets for 919 yards and seven scores over 12 regular-season contest, and the 76.6 yards per game were a new career-high for the 25-year-old. London understands that part of what makes him special is his 6-foot-4, 215-plus pound frame, and he'll look to continue to use it to his advantage in Year 5 with Atlanta. The wide receiver will once again face uncertainty at quarterback in 2026, as the team signed veteran Tua Tagovailoa (back) in the offseason to compete with Michael Penix (knee) for the starting job. Regardless of who is under center, London has elevated to being one of the top WRs in the league, and he figures to have another strong campaign this year.",
-        "description": "London outlined that he tries to model his game after big-bodied wideouts like Mike Evans and former NFL stars Calvin Johnson, Dez Bryant and Andre Johnson, Robert Mays of The Athletic reports.",
-        "title": "Drake London - Models game after greats",
-        "topic_id": "1393784156541964288"
-      },
-      "nfl_team": "ATL",
-      "player_id": "8112",
-      "player_name": "Drake London",
-      "position": "WR",
-      "published": 1786666237000,
-      "source": "rotowire",
-      "source_key": "633459",
-      "story_id": "nfl|8112|rotowire|633459|1786666237000",
-      "title": "Drake London - Models game after greats",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Carolina Panthers wide receiver Jalen Coker is coming off a stellar finish to the 2025 season after starting on the PUP list with a quad injury. Coker hauled in 33 of 43 targets for 394 yards and three touchdowns in just 11 games, averaging 6.7 half-PPR fantasy points per game. He turned it up late last season, recording 28 receptions for 378 yards and four touchdowns over his final six games. The third-year receiver is looking to emerge even further in 2026, with a fully healthy training camp and preseason. Currently ranked WR52, Coker offers upside as a young, talented receiver with a strong connection to quarterback Bryce Young.",
-      "metadata": {
-        "description": "Carolina Panthers wide receiver Jalen Coker is coming off a stellar finish to the 2025 season after starting on the PUP list with a quad injury. Coker hauled in 33 of 43 targets for 394 yards and three touchdowns in just 11 games, averaging 6.7 half-PPR fantasy points per game. He turned it up late last season, recording 28 receptions for 378 yards and four touchdowns over his final six games. The third-year receiver is looking to emerge even further in 2026, with a fully healthy training camp and preseason. Currently ranked WR52, Coker offers upside as a young, talented receiver with a strong connection to quarterback Bryce Young.",
-        "title": "Jalen Coker Lining Up for Third-Year Breakout in 2026",
-        "topic_id": "1393835749853384704",
-        "url": "https://www.rotoballer.com/player-news/jalen-coker-lining-up-for-third-year-breakout-in-2026/1908578"
-      },
-      "nfl_team": "CAR",
-      "player_id": "11646",
-      "player_name": "Jalen Coker",
-      "position": "WR",
-      "published": 1786664345000,
-      "source": "rotoballer",
-      "source_key": "218545",
-      "story_id": "nfl|11646|rotoballer|218545|1786664345000",
-      "title": "Jalen Coker Lining Up for Third-Year Breakout in 2026",
-      "url": "https://www.rotoballer.com/player-news/jalen-coker-lining-up-for-third-year-breakout-in-2026/1908578"
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams wide receiver Davante Adams could see a heavy workload in the first few games of the season. In his first season with the Rams in 2025, Adams recorded 789 yards and 14 touchdowns in 14 games, finishing as the WR8 in half-PPR formats. ESPN's Adam Schefter reported earlier in the week that the NFL is reviewing a potential suspension of star receiver Puka Nacua for making antisemitic slurs and allegedly biting a woman during the offseason. Depending on the severity of any suspension, Adams will be assigned a heavy workload during that period. He is currently ranked WR20 in RotoBaller's positional rankings, which could be an incredible value if Nacua misses time.",
-      "metadata": {
-        "description": "Los Angeles Rams wide receiver Davante Adams could see a heavy workload in the first few games of the season. In his first season with the Rams in 2025, Adams recorded 789 yards and 14 touchdowns in 14 games, finishing as the WR8 in half-PPR formats. ESPN's Adam Schefter reported earlier in the week that the NFL is reviewing a potential suspension of star receiver Puka Nacua for making antisemitic slurs and allegedly biting a woman during the offseason. Depending on the severity of any suspension, Adams will be assigned a heavy workload during that period. He is currently ranked WR20 in RotoBaller's positional rankings, which could be an incredible value if Nacua misses time.",
-        "title": "Davante Adams Could be in Line for Early-Season Explosion",
-        "topic_id": "1393829459924111360",
-        "url": "https://www.rotoballer.com/player-news/possible-puka-nacua-suspension-opens-door-to-davante-adams-early-season-explosion/1908539"
-      },
-      "nfl_team": "LAR",
-      "player_id": "2133",
-      "player_name": "Davante Adams",
-      "position": "WR",
-      "published": 1786662605000,
-      "source": "rotoballer",
-      "source_key": "218537",
-      "story_id": "nfl|2133|rotoballer|218537|1786662605000",
-      "title": "Davante Adams Could be in Line for Early-Season Explosion",
-      "url": "https://www.rotoballer.com/player-news/possible-puka-nacua-suspension-opens-door-to-davante-adams-early-season-explosion/1908539"
-    },
-    {
-      "analysis": "Brooks will join Josh Jacobs (groin) on the sideline for the Packers' exhibition opener, leaving some combination of MarShawn Lloyd, Pierre Strong, Damien Martinez and Jaden Nixon to man the backfield. Brooks' absence Thursday may stem from the hamstring injury that kept him on the active/PUP list until this past Sunday. In any case, he'll have two more chances to mix into a preseason contest as he vies with Lloyd for the No. 2 RB role behind Jacobs.",
-      "description": "Brooks isn't suited up for Thursday's preseason game in Pittsburgh.",
-      "metadata": {
-        "analysis": "Brooks will join Josh Jacobs (groin) on the sideline for the Packers' exhibition opener, leaving some combination of MarShawn Lloyd, Pierre Strong, Damien Martinez and Jaden Nixon to man the backfield. Brooks' absence Thursday may stem from the hamstring injury that kept him on the active/PUP list until this past Sunday. In any case, he'll have two more chances to mix into a preseason contest as he vies with Lloyd for the No. 2 RB role behind Jacobs.",
-        "description": "Brooks isn't suited up for Thursday's preseason game in Pittsburgh.",
-        "title": "Chris Brooks - Not in uniform Thursday",
-        "topic_id": "1393765276310306816"
-      },
-      "nfl_team": "GB",
-      "player_id": "11370",
-      "player_name": "Chris Brooks",
-      "position": "RB",
-      "published": 1786661826000,
-      "source": "rotowire",
-      "source_key": "633438",
-      "story_id": "nfl|11370|rotowire|633438|1786661826000",
-      "title": "Chris Brooks - Not in uniform Thursday",
-      "url": null
     }
   ]
 }

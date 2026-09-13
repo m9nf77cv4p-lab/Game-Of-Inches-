@@ -2,11 +2,24 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2898**
-- Newly captured: **5**
+- Stored stories: **2902**
+- Newly captured: **8**
 
 ## Latest news
 
+- **NEW — Amon-Ra St. Brown** — Amon-Ra St. Brown has contract restructured by Lions  (2026-09-13T00:00:48.624000Z)
+  - LT Penei Sewell also had his contract restructured. The Lions created $35.68 million in cap space. 
+  - Source: https://www.fantasypros.com/nfl/news/607424/amon-ra-st-brown-has-contract-restructured-by-lions.php
+- **NEW — Cooper Rush** — Cooper Rush suffers back spasms, still expected to start Sunday  (2026-09-13T00:00:48.334000Z)
+  - Rush is getting the start with both Tua Tagovailoa and Michael Penix Jr. unavailable. Rush remains expected to play. 
+  - Source: https://www.fantasypros.com/nfl/news/607418/cooper-rush-suffers-back-spasms-still-expected-to-start-sunday.php
+- **NEW — C.J. Stroud** — C.J. Stroud, Texans pause extension talks (2026-09-12T23:55:48.542000Z)
+  - The two sides tried to come to an agreement on a deal before the season. Stroud will play out the final year of his rookie deal, minus the fifth-year option. 
+  - Source: https://www.fantasypros.com/nfl/news/607417/cj-stroud-texans-pause-extension-talks.php
+- **NEW — Parker Washington** — Parker Washington - Unlikely to sign extension soon (2026-09-12T23:53:38Z)
+  - With no extension imminent, Washington appears set to play out the current season without a new deal in place. The Jaguars wide receiver is coming off a career year, and Wolfe's report indicates talks explored a contract in Michael Wilson's range (3-year, $75M) before stalling for now. Washington is in the final season of his four-year rookie contract, and it's still possible an extension gets worked out after Week 1.
+- **NEW — Lamar Jackson** — Lamar Jackson - Contract extension talks on hold (2026-09-12T23:44:03Z)
+  - Jackson's current contract runs through the end of 2027, but there was always a possibility he and Baltimore could negotiate an extension this summer. Instead, the star quarterback is likely to play out the 2026 campaign under his current deal, with extension talks likely to resurface following the season. Jackson has spent all eight years of his career to this point with the Ravens, earning three first-team All-Pro selections -- but no Super Bowl appearances.
 - **C.J. Stroud** — C.J. Stroud - Extension talks paused (2026-09-12T20:30:30Z)
   - The two sides attempted to reach an agreement prior to Sunday's regular-season opener against the Bills. However, it looks like talks between Stroud and the Texans have stalled, and a long-term deal will be revisited following the conclusion of the upcoming season. Entering his fourth year in the NFL, Stroud is looking to reclaim the same form he had in his rookie campaign in 2023, when he was named the Offensive Rookie of the Year after completing 63.9 percent of his passes for 4,108 yards, 23 touchdowns and five interceptions across 15 regular-season games while adding 39 carries for 167 yards and three scores.
 - **Eli Stowers** — Eli Stowers (quad) placed on IR (2026-09-12T20:25:47.089000Z)
@@ -18,11 +31,17 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Stowers has been dealing with a hamstring injury since at least Aug. 24, which limited him in all three Week 1 practices before the Eagles tabbed him as questionable for Sunday's season opener against the Commanders. At the same time the team placed him on IR, he was ruled out with not only the hamstring issue but a quad concern. The rookie second-round pick thus will miss at least the first four games of the campaign, allowing Johnny Mundt and E.J. Jenkins to handle the TE reps that don't go to No. 1 option Dallas Goedert.
 - **Patrick Mahomes** — Patrick Mahomes - Fades injury tag Week 1 (2026-09-12T19:45:57Z)
   - Mahomes was a full participant in all three practices during Week 1 prep, and the 30-year-old quarterback is officially good to go for Monday's regular-season opener. His mobility could still be limited, as he'll be wearing a protective brace on the left knee where he tore both his ACL and LCL in Week 15 of last season. That would restrict his ability to move around the pocket and scramble out of trouble, a challenging limitation against a Broncos pass rush that led the league last year with 68.0 sacks.
-- **NEW — RJ Harvey** — RJ Harvey a Low-End Flex Option vs. Chiefs (2026-09-12T18:39:05Z)
+- **NEW — Bo Nix** — Bo Nix Carries Sneaky Upside in Superflex Leagues vs. Chiefs in Week 1 (2026-09-12T19:07:06Z)
+  - Source: https://www.rotoballer.com/player-news/bo-nix-carries-sneaky-upside-in-superflex-leagues-vs-chiefs-in-week-1/1929914
+- **NEW — J.K. Dobbins** — J.K. Dobbins Offers RB2 Upside vs. Chiefs in Week 1 (2026-09-12T18:52:06Z)
+  - Source: https://www.rotoballer.com/player-news/j-k-dobbins-offers-rb2-upside-vs-chiefs-week-1/1929910
+- **NEW — C.J. Stroud** — C.J. Stroud and Texans Agree to Put Contract Talks on Hold (2026-09-12T18:48:08Z)
+  - Source: https://www.rotoballer.com/player-news/c-j-stroud-and-texans-agree-to-put-contract-talks-on-hold/1929908
+- **RJ Harvey** — RJ Harvey a Low-End Flex Option vs. Chiefs (2026-09-12T18:39:05Z)
   - Source: https://www.rotoballer.com/player-news/rj-harvey-a-low-end-flex-option-vs-chiefs/1929905
 - **Malik Davis** — Malik Davis - Lands on injured reserve (2026-09-12T18:20:11Z)
   - Davis underwent surgery Saturday for a hip injury, and the move to IR means he'll be required to miss at least the next four games, though an exact timeline for his return is unclear. With Davis sidelined, the Cowboys bolstered their backfield depth by signing Israel Abanikanda from the practice squad to the active roster, with the latter serving as the RB3 behind Javonte Williams and Emari Demercado.
-- **NEW — Michael Mayer** — Michael Mayer a Worthy Start in Favorable Week 1 Matchup (2026-09-12T17:00:05Z)
+- **Michael Mayer** — Michael Mayer a Worthy Start in Favorable Week 1 Matchup (2026-09-12T17:00:05Z)
   - Source: https://www.rotoballer.com/player-news/michael-mayer-a-worthy-start-in-favorable-week-1-matchup/1929886
 - **Juwan Johnson** — Juwan Johnson a High-Floor Tight End Streamer in Week 1 (2026-09-12T16:50:05Z)
   - Source: https://www.rotoballer.com/player-news/juwan-johnson-a-high-floor-tight-end-streamer-in-week-1/1929881
@@ -194,19 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/trey-mcbride-kicks-off-te1-campaign-on-sunday/1929415
 - **Jacob Saylors** — Jacob Saylors Remains a Stash-Worthy Running Back in Week 1 (2026-09-12T10:09:05Z)
   - Source: https://www.rotoballer.com/player-news/jacob-saylors-remains-a-stash-worthy-running-back-in-week-1/1929413
-- **Jahmyr Gibbs** — Jahmyr Gibbs an Elite Running Back Option in Week 1 (2026-09-12T10:05:09Z)
-  - Source: https://www.rotoballer.com/player-news/jahmyr-gibbs-an-elite-running-back-option-in-week-1/1929410
-- **Michael Wilson** — Michael Wilson Looking To Follow Breakout Season With Strong Start To 2026 (2026-09-12T10:05:05Z)
-  - Source: https://www.rotoballer.com/player-news/michael-wilson-looking-to-follow-breakout-season-with-strong-start-to-2026/1929408
-- **Jared Goff** — Jared Goff a Low-End QB1 Option in Week 1 (2026-09-12T10:02:06Z)
-  - Source: https://www.rotoballer.com/player-news/jared-goff-a-low-end-qb1-option-in-week-1/1929405
-- **Marvin Harrison** — Marvin Harrison Jr. Falls To Flex Territory For 2026 Debut (2026-09-12T09:59:09Z)
-  - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-falls-to-flex-territory-for-2026-debut/1929401
-- **Wan'Dale Robinson** — Wan'Dale Robinson a High-Floor PPR Flex Play in Week 1 (2026-09-12T09:59:05Z)
-  - Source: https://www.rotoballer.com/player-news/wandale-robinson-a-high-floor-ppr-flex-play-in-week-1/1929399
-- **Tyler Allgeier** — Tyler Allgeier Could Lead Cardinals Backfield In Week 1 (2026-09-12T09:54:00Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-allgeier-could-lead-cardinals-backfield-in-week-1/1929390
-- **Jeremiyah Love** — Jeremiyah Love A Risky Play In Week 1 (2026-09-12T09:47:20Z)
-  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-a-risky-play-in-week-1/1929387
-- **Carnell Tate** — Carnell Tate a Boom/Bust Flex Option for Fantasy Managers in Week 1 (2026-09-12T09:47:05Z)
-  - Source: https://www.rotoballer.com/player-news/carnell-tate-a-boom-bust-flex-option-for-fantasy-managers-in-week-1/1929385
