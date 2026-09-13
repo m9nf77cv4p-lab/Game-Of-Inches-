@@ -2,24 +2,48 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **2902**
-- Newly captured: **8**
+- Stored stories: **2897**
+- Newly captured: **12**
 
 ## Latest news
 
-- **NEW — Amon-Ra St. Brown** — Amon-Ra St. Brown has contract restructured by Lions  (2026-09-13T00:00:48.624000Z)
+- **NEW — Courtland Sutton** — Courtland Sutton Still a Flashy Flex Option in Most Leagues (2026-09-13T00:44:05Z)
+  - Source: https://www.rotoballer.com/player-news/courtland-sutton-still-a-flashy-flex-option-in-most-leagues/1930020
+- **NEW — Jaylen Waddle** — Jaylen Waddle Looks to Start New Chapter of Career as a WR2 in Fantasy (2026-09-13T00:27:07Z)
+  - Source: https://www.rotoballer.com/player-news/jaylen-waddle-looks-to-start-new-chapter-of-career-as-a-wr2-in-fantasy/1930015
+- **Amon-Ra St. Brown** — Amon-Ra St. Brown has contract restructured by Lions  (2026-09-13T00:00:48.624000Z)
   - LT Penei Sewell also had his contract restructured. The Lions created $35.68 million in cap space. 
   - Source: https://www.fantasypros.com/nfl/news/607424/amon-ra-st-brown-has-contract-restructured-by-lions.php
-- **NEW — Cooper Rush** — Cooper Rush suffers back spasms, still expected to start Sunday  (2026-09-13T00:00:48.334000Z)
+- **Cooper Rush** — Cooper Rush suffers back spasms, still expected to start Sunday  (2026-09-13T00:00:48.334000Z)
   - Rush is getting the start with both Tua Tagovailoa and Michael Penix Jr. unavailable. Rush remains expected to play. 
   - Source: https://www.fantasypros.com/nfl/news/607418/cooper-rush-suffers-back-spasms-still-expected-to-start-sunday.php
-- **NEW — C.J. Stroud** — C.J. Stroud, Texans pause extension talks (2026-09-12T23:55:48.542000Z)
+- **C.J. Stroud** — C.J. Stroud, Texans pause extension talks (2026-09-12T23:55:48.542000Z)
   - The two sides tried to come to an agreement on a deal before the season. Stroud will play out the final year of his rookie deal, minus the fifth-year option. 
   - Source: https://www.fantasypros.com/nfl/news/607417/cj-stroud-texans-pause-extension-talks.php
-- **NEW — Parker Washington** — Parker Washington - Unlikely to sign extension soon (2026-09-12T23:53:38Z)
+- **Parker Washington** — Parker Washington - Unlikely to sign extension soon (2026-09-12T23:53:38Z)
   - With no extension imminent, Washington appears set to play out the current season without a new deal in place. The Jaguars wide receiver is coming off a career year, and Wolfe's report indicates talks explored a contract in Michael Wilson's range (3-year, $75M) before stalling for now. Washington is in the final season of his four-year rookie contract, and it's still possible an extension gets worked out after Week 1.
-- **NEW — Lamar Jackson** — Lamar Jackson - Contract extension talks on hold (2026-09-12T23:44:03Z)
+- **Lamar Jackson** — Lamar Jackson - Contract extension talks on hold (2026-09-12T23:44:03Z)
   - Jackson's current contract runs through the end of 2027, but there was always a possibility he and Baltimore could negotiate an extension this summer. Instead, the star quarterback is likely to play out the 2026 campaign under his current deal, with extension talks likely to resurface following the season. Jackson has spent all eight years of his career to this point with the Ravens, earning three first-team All-Pro selections -- but no Super Bowl appearances.
+- **NEW — Jaylen Warren** — Jaylen Warren a Steady RB2 Option in Promising Week 1 Matchup (2026-09-12T22:58:07Z)
+  - Source: https://www.rotoballer.com/player-news/jaylen-warren-a-steady-rb2-option-in-promising-week-1-matchup/1930004
+- **NEW — Michael Pittman** — Michael Pittman Jr. a High-Floor, Low-Ceiling WR3 Option in Week 1 (2026-09-12T22:56:05Z)
+  - Source: https://www.rotoballer.com/player-news/michael-pittman-jr-a-high-floor-low-ceiling-wr3-option-in-week-1/1930002
+- **NEW — Aaron Rodgers** — Aaron Rodgers a Risky Superflex Start in Week 1 (2026-09-12T22:34:05Z)
+  - Source: https://www.rotoballer.com/player-news/aaron-rodgers-a-risky-superflex-start-in-week-1/1929992
+- **NEW — Ashton Jeanty** — Ashton Jeanty a High-End RB2 Option in Favorable Week 1 Matchup (2026-09-12T22:21:05Z)
+  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-a-high-end-rb2-option-in-favorable-week-1-matchup/1929985
+- **NEW — Mike Washington** — Mike Washington Jr. Carries Deep-League Appeal into Week 1 (2026-09-12T22:12:06Z)
+  - Source: https://www.rotoballer.com/player-news/mike-washington-jr-carries-deep-league-appeal-into-week-1/1929978
+- **NEW — Jalen Nailor** — Jalen Nailor Offers Flex Value in Week 1 (2026-09-12T21:54:05Z)
+  - Source: https://www.rotoballer.com/player-news/jalen-nailor-offers-flex-value-in-week-1/1929974
+- **NEW — Kirk Cousins** — Kirk Cousins has Superflex Appeal in Week 1 (2026-09-12T21:48:09Z)
+  - Source: https://www.rotoballer.com/player-news/kirk-cousins-has-superflex-appeal-in-week-1/1929972
+- **NEW — Parker Washington** — Parker Washington Unlikely to Agree on Extension Before Season Starts (2026-09-12T21:38:09Z)
+  - Source: https://www.rotoballer.com/player-news/parker-washington-unlikely-to-agree-on-extension-before-season-starts/1929968
+- **NEW — Josh Jacobs** — Judge Seals Video Altercation in Josh Jacobs Case (2026-09-12T21:30:06Z)
+  - Source: https://www.rotoballer.com/player-news/judge-seals-video-altercation-in-josh-jacobs-case/1929965
+- **NEW — Lamar Jackson** — Lamar Jackson Won't Receive New Contract Before Season Begins (2026-09-12T21:15:06Z)
+  - Source: https://www.rotoballer.com/player-news/lamar-jackson-wont-receive-new-contract-before-season-begins/1929957
 - **C.J. Stroud** — C.J. Stroud - Extension talks paused (2026-09-12T20:30:30Z)
   - The two sides attempted to reach an agreement prior to Sunday's regular-season opener against the Bills. However, it looks like talks between Stroud and the Texans have stalled, and a long-term deal will be revisited following the conclusion of the upcoming season. Entering his fourth year in the NFL, Stroud is looking to reclaim the same form he had in his rookie campaign in 2023, when he was named the Offensive Rookie of the Year after completing 63.9 percent of his passes for 4,108 yards, 23 touchdowns and five interceptions across 15 regular-season games while adding 39 carries for 167 yards and three scores.
 - **Eli Stowers** — Eli Stowers (quad) placed on IR (2026-09-12T20:25:47.089000Z)
@@ -31,11 +55,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Stowers has been dealing with a hamstring injury since at least Aug. 24, which limited him in all three Week 1 practices before the Eagles tabbed him as questionable for Sunday's season opener against the Commanders. At the same time the team placed him on IR, he was ruled out with not only the hamstring issue but a quad concern. The rookie second-round pick thus will miss at least the first four games of the campaign, allowing Johnny Mundt and E.J. Jenkins to handle the TE reps that don't go to No. 1 option Dallas Goedert.
 - **Patrick Mahomes** — Patrick Mahomes - Fades injury tag Week 1 (2026-09-12T19:45:57Z)
   - Mahomes was a full participant in all three practices during Week 1 prep, and the 30-year-old quarterback is officially good to go for Monday's regular-season opener. His mobility could still be limited, as he'll be wearing a protective brace on the left knee where he tore both his ACL and LCL in Week 15 of last season. That would restrict his ability to move around the pocket and scramble out of trouble, a challenging limitation against a Broncos pass rush that led the league last year with 68.0 sacks.
-- **NEW — Bo Nix** — Bo Nix Carries Sneaky Upside in Superflex Leagues vs. Chiefs in Week 1 (2026-09-12T19:07:06Z)
+- **Bo Nix** — Bo Nix Carries Sneaky Upside in Superflex Leagues vs. Chiefs in Week 1 (2026-09-12T19:07:06Z)
   - Source: https://www.rotoballer.com/player-news/bo-nix-carries-sneaky-upside-in-superflex-leagues-vs-chiefs-in-week-1/1929914
-- **NEW — J.K. Dobbins** — J.K. Dobbins Offers RB2 Upside vs. Chiefs in Week 1 (2026-09-12T18:52:06Z)
+- **J.K. Dobbins** — J.K. Dobbins Offers RB2 Upside vs. Chiefs in Week 1 (2026-09-12T18:52:06Z)
   - Source: https://www.rotoballer.com/player-news/j-k-dobbins-offers-rb2-upside-vs-chiefs-week-1/1929910
-- **NEW — C.J. Stroud** — C.J. Stroud and Texans Agree to Put Contract Talks on Hold (2026-09-12T18:48:08Z)
+- **C.J. Stroud** — C.J. Stroud and Texans Agree to Put Contract Talks on Hold (2026-09-12T18:48:08Z)
   - Source: https://www.rotoballer.com/player-news/c-j-stroud-and-texans-agree-to-put-contract-talks-on-hold/1929908
 - **RJ Harvey** — RJ Harvey a Low-End Flex Option vs. Chiefs (2026-09-12T18:39:05Z)
   - Source: https://www.rotoballer.com/player-news/rj-harvey-a-low-end-flex-option-vs-chiefs/1929905
@@ -189,27 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/josh-allen-brings-elite-qb1-ceiling-to-houston-rematch/1929520
 - **Jakobi Meyers** — Jakobi Meyers Profiles as a Solid Flex Option in PPR Leagues (2026-09-12T11:24:05Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-meyers-a-solid-flex-option-in-week-1/1929518
-- **Jayden Reed** — Look For Solid Game From Jayden Reed In Week 1 (2026-09-12T11:22:06Z)
-  - Source: https://www.rotoballer.com/player-news/look-for-solid-game-from-jayden-reed-in-week-1/1929514
-- **Tucker Kraft** — Tucker Kraft Agrees to Four-Year Extension with Packers (2026-09-12T11:17:06Z)
-  - Source: https://www.rotoballer.com/player-news/tucker-kraft-agrees-to-four-year-extension-with-packers/1929505
-- **Bhayshul Tuten** — Bhayshul Tuten Holds RB2 Upside Against Browns (2026-09-12T11:15:06Z)
-  - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-a-rb2-with-upside-against-browns/1929502
-- **Michael Mayer** — Michael Mayer Cashes In On Contract Extension (2026-09-12T11:10:06Z)
-  - Source: https://www.rotoballer.com/player-news/michael-mayer-cashes-in-on-contract-extension/1929492
-- **Trevor Lawrence** — Trevor Lawrence a Clear QB1 Against Browns (2026-09-12T11:06:16Z)
-  - Source: https://www.rotoballer.com/player-news/trevor-lawrence-a-clear-qb1-against-browns/1929488
-- **Isaac TeSlaa** — Isaac TeSlaa a Risky Deep-League Wide Receiver Option in Week 1 (2026-09-12T10:45:13Z)
-  - Source: https://www.rotoballer.com/player-news/isaac-teslaa-a-risky-deep-league-wide-receiver-option-in-week-1/1929463
-- **Jake Bates** — Jake Bates a Must-Start Kicker in Week 1 (2026-09-12T10:32:06Z)
-  - Source: https://www.rotoballer.com/player-news/jake-bates-a-must-start-kicker-in-week-1/1929454
-- **Jameson Williams** — Jameson Williams a High-Upside WR2 Option in Week 1 (2026-09-12T10:30:09Z)
-  - Source: https://www.rotoballer.com/player-news/jameson-williams-a-high-upside-wr2-option-in-week-1/1929451
-- **Sam LaPorta** — Sam LaPorta Looking to Kickstart Bounce-Back Campaign in Week 1 (2026-09-12T10:24:06Z)
-  - Source: https://www.rotoballer.com/player-news/sam-laporta-looking-to-kickstart-bounce-back-campaign-in-week-1/1929444
-- **Amon-Ra St. Brown** — Amon-Ra St. Brown a Must-Start Wide Receiver in Week 1 (2026-09-12T10:15:05Z)
-  - Source: https://www.rotoballer.com/player-news/amon-ra-st-brown-a-must-start-wide-receiver-in-week-1/1929418
-- **Trey McBride** — Trey McBride Kicks Off TE1 Campaign On Sunday (2026-09-12T10:10:06Z)
-  - Source: https://www.rotoballer.com/player-news/trey-mcbride-kicks-off-te1-campaign-on-sunday/1929415
-- **Jacob Saylors** — Jacob Saylors Remains a Stash-Worthy Running Back in Week 1 (2026-09-12T10:09:05Z)
-  - Source: https://www.rotoballer.com/player-news/jacob-saylors-remains-a-stash-worthy-running-back-in-week-1/1929413

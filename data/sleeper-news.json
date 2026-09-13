@@ -1,16 +1,20 @@
 {
-  "last_checked_at": "2026-09-13T00:31:43Z",
+  "last_checked_at": "2026-09-13T05:18:36Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 288,
   "new_story_ids": [
-    "nfl|11563|rotoballer|220875|1789240026000",
-    "nfl|4574|fantasy_pros|607418|1789257648334",
-    "nfl|4881|rotowire|636996|1789256643000",
-    "nfl|6806|rotoballer|220873|1789239126000",
-    "nfl|7547|fantasy_pros|607424|1789257648624",
-    "nfl|9487|rotowire|636997|1789257218000",
-    "nfl|9758|fantasy_pros|607417|1789257348542",
-    "nfl|9758|rotoballer|220874|1789238888000"
+    "nfl|1166|rotoballer|220879|1789249689000",
+    "nfl|12527|rotoballer|220882|1789251665000",
+    "nfl|13305|rotoballer|220881|1789251126000",
+    "nfl|4881|rotoballer|220876|1789247706000",
+    "nfl|5045|rotoballer|220887|1789260245000",
+    "nfl|5850|rotoballer|220877|1789248606000",
+    "nfl|6819|rotoballer|220885|1789253765000",
+    "nfl|7526|rotoballer|220886|1789259227000",
+    "nfl|8180|rotoballer|220880|1789250045000",
+    "nfl|8228|rotoballer|220884|1789253887000",
+    "nfl|9487|rotoballer|220878|1789249089000",
+    "nfl|96|rotoballer|220883|1789252445000"
   ],
   "schema_version": 1,
   "source": {
@@ -20,6 +24,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Courtland Sutton continues to be a worthwhile WR3/flex option in most fantasy leagues, despite the offseason acquisition of Jaylen Waddle. The Broncos' trade for Waddle dropped Sutton to the No. 2 spot on the depth chart, but he still projects to play a large role as the physical complement to a more shifty and athletic receiver in Waddle. As a result, we envision Sutton continuing to play a key role around the end zone and in contested situations. This week, Sutton will be tasked with facing off against a Chiefs secondary led by L'Jarius Sneed. Having Waddle on the field should take some of the defensive pressure off Sutton. With that being said, we wouldn't be surprised to see Sneed cover Sutton for at least part of the game, because he's the Chiefs cornerback who is best equipped to defend a physical receiver. If Sneed rotates between the two receivers, Sutton will benefit from running the rest of his routes against Delane, who is a rookie, and Williams, who is a first-time starter. The 30-year-old finds himself in the high-end WR3/flex range for this week, with additional upside.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Courtland Sutton continues to be a worthwhile WR3/flex option in most fantasy leagues, despite the offseason acquisition of Jaylen Waddle. The Broncos' trade for Waddle dropped Sutton to the No. 2 spot on the depth chart, but he still projects to play a large role as the physical complement to a more shifty and athletic receiver in Waddle. As a result, we envision Sutton continuing to play a key role around the end zone and in contested situations. This week, Sutton will be tasked with facing off against a Chiefs secondary led by L'Jarius Sneed. Having Waddle on the field should take some of the defensive pressure off Sutton. With that being said, we wouldn't be surprised to see Sneed cover Sutton for at least part of the game, because he's the Chiefs cornerback who is best equipped to defend a physical receiver. If Sneed rotates between the two receivers, Sutton will benefit from running the rest of his routes against Delane, who is a rookie, and Williams, who is a first-time starter. The 30-year-old finds himself in the high-end WR3/flex range for this week, with additional upside.",
+        "title": "Courtland Sutton Still a Flashy Flex Option in Most Leagues",
+        "topic_id": "1404725001424297984",
+        "url": "https://www.rotoballer.com/player-news/courtland-sutton-still-a-flashy-flex-option-in-most-leagues/1930020"
+      },
+      "nfl_team": "DEN",
+      "player_id": "5045",
+      "player_name": "Courtland Sutton",
+      "position": "WR",
+      "published": 1789260245000,
+      "source": "rotoballer",
+      "source_key": "220887",
+      "story_id": "nfl|5045|rotoballer|220887|1789260245000",
+      "title": "Courtland Sutton Still a Flashy Flex Option in Most Leagues",
+      "url": "https://www.rotoballer.com/player-news/courtland-sutton-still-a-flashy-flex-option-in-most-leagues/1930020"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Jaylen Waddle kicks off the next chapter of his career on Sunday against the Kansas City Chiefs. After five years with the Miami Dolphins, Waddle was traded to the Broncos this offseason. He'll immediately step in as the team's top receiver, and he should benefit from a quarterback upgrade, as he will now get to catch passes from Bo Nix instead of Tua Tagovailoa. Playing with Nix should boost Waddle's ceiling and floor in fantasy football. He was a top-13 fantasy receiver in each of his first two seasons, but he dropped to WR24 or lower in each of the last three years. Part of that was due to poor quarterback play, but Waddle's own injury issues can also be to blame. He'll now get a fresh start as he kicks off the 2026 season in an immediate statement matchup against the Chiefs. L'Jarius Sneed is the top cornerback in Kansas City's secondary, but that doesn't necessarily mean he'll cover Waddle all game. The Broncos also have a very physical receiver in Courtland Sutton, who Sneed may be better equipped to cover. We wouldn't be surprised to see the Chiefs rotate between Sneed, Mansoor Delane, and Nohl Williams covering Waddle. Delane is a rookie and Williams is a first-time starter, so there's an opportunity for Waddle to feast if he's indeed not going up against Sneed all game long. We're confident in Waddle as a WR2, especially in a game that is projected to be close, which means that both teams will be throwing the ball often.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Jaylen Waddle kicks off the next chapter of his career on Sunday against the Kansas City Chiefs. After five years with the Miami Dolphins, Waddle was traded to the Broncos this offseason. He'll immediately step in as the team's top receiver, and he should benefit from a quarterback upgrade, as he will now get to catch passes from Bo Nix instead of Tua Tagovailoa. Playing with Nix should boost Waddle's ceiling and floor in fantasy football. He was a top-13 fantasy receiver in each of his first two seasons, but he dropped to WR24 or lower in each of the last three years. Part of that was due to poor quarterback play, but Waddle's own injury issues can also be to blame. He'll now get a fresh start as he kicks off the 2026 season in an immediate statement matchup against the Chiefs. L'Jarius Sneed is the top cornerback in Kansas City's secondary, but that doesn't necessarily mean he'll cover Waddle all game. The Broncos also have a very physical receiver in Courtland Sutton, who Sneed may be better equipped to cover. We wouldn't be surprised to see the Chiefs rotate between Sneed, Mansoor Delane, and Nohl Williams covering Waddle. Delane is a rookie and Williams is a first-time starter, so there's an opportunity for Waddle to feast if he's indeed not going up against Sneed all game long. We're confident in Waddle as a WR2, especially in a game that is projected to be close, which means that both teams will be throwing the ball often.",
+        "title": "Jaylen Waddle Looks to Start New Chapter of Career as a WR2 in Fantasy",
+        "topic_id": "1404719968423055360",
+        "url": "https://www.rotoballer.com/player-news/jaylen-waddle-looks-to-start-new-chapter-of-career-as-a-wr2-in-fantasy/1930015"
+      },
+      "nfl_team": "DEN",
+      "player_id": "7526",
+      "player_name": "Jaylen Waddle",
+      "position": "WR",
+      "published": 1789259227000,
+      "source": "rotoballer",
+      "source_key": "220886",
+      "story_id": "nfl|7526|rotoballer|220886|1789259227000",
+      "title": "Jaylen Waddle Looks to Start New Chapter of Career as a WR2 in Fantasy",
+      "url": "https://www.rotoballer.com/player-news/jaylen-waddle-looks-to-start-new-chapter-of-career-as-a-wr2-in-fantasy/1930015"
+    },
     {
       "analysis": "LT Penei Sewell also had his contract restructured. The Lions created $35.68 million in cap space. ",
       "description": "The Lions restructured the contract of WR Amon-Ra St. Brown. ",
@@ -122,6 +166,206 @@
       "story_id": "nfl|4881|rotowire|636996|1789256643000",
       "title": "Lamar Jackson - Contract extension talks on hold",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Across 16 games in 2025, Pittsburgh Steelers running back Jaylen Warren recorded 1,291 scrimmage yards and eight touchdowns on 251 touches across 16 games. The 27-year-old profiles as a weapon as both a rusher and a receiver, as he's recorded at least 45 targets and 300 receiving yards in three consecutive seasons. In 2026, Warren will likely split touches with fellow Steelers running back Rico Dowdle. However, Warren is listed as the starting running back on Pittsburgh's depth chart ahead of the team's Week 1 matchup against the Atlanta Falcons. Atlanta surrendered only 12 rushing touchdowns as a team in 2025, but the Falcons ranked 24th in the NFL in total rushing yards allowed (2,146). Atlanta will also be starting third-string quarterback Cooper Rush on Sunday, which could lead to Pittsburgh operating with a run-heavy game script for most of the afternoon. Warren should see plenty of touches in Week 1 and profiles as a low-end RB2 option for fantasy managers against Atlanta.",
+      "metadata": {
+        "description": "Across 16 games in 2025, Pittsburgh Steelers running back Jaylen Warren recorded 1,291 scrimmage yards and eight touchdowns on 251 touches across 16 games. The 27-year-old profiles as a weapon as both a rusher and a receiver, as he's recorded at least 45 targets and 300 receiving yards in three consecutive seasons. In 2026, Warren will likely split touches with fellow Steelers running back Rico Dowdle. However, Warren is listed as the starting running back on Pittsburgh's depth chart ahead of the team's Week 1 matchup against the Atlanta Falcons. Atlanta surrendered only 12 rushing touchdowns as a team in 2025, but the Falcons ranked 24th in the NFL in total rushing yards allowed (2,146). Atlanta will also be starting third-string quarterback Cooper Rush on Sunday, which could lead to Pittsburgh operating with a run-heavy game script for most of the afternoon. Warren should see plenty of touches in Week 1 and profiles as a low-end RB2 option for fantasy managers against Atlanta.",
+        "title": "Jaylen Warren a Steady RB2 Option in Promising Week 1 Matchup",
+        "topic_id": "1404698575560015872",
+        "url": "https://www.rotoballer.com/player-news/jaylen-warren-a-steady-rb2-option-in-promising-week-1-matchup/1930004"
+      },
+      "nfl_team": "PIT",
+      "player_id": "8228",
+      "player_name": "Jaylen Warren",
+      "position": "RB",
+      "published": 1789253887000,
+      "source": "rotoballer",
+      "source_key": "220884",
+      "story_id": "nfl|8228|rotoballer|220884|1789253887000",
+      "title": "Jaylen Warren a Steady RB2 Option in Promising Week 1 Matchup",
+      "url": "https://www.rotoballer.com/player-news/jaylen-warren-a-steady-rb2-option-in-promising-week-1-matchup/1930004"
+    },
+    {
+      "analysis": null,
+      "description": "After spending the first six years of his NFL career with the Indianapolis Colts, wide receiver Michael Pittman Jr. is entering his first season with the Pittsburgh Steelers in 2026. In Pittsburgh, Pittman Jr. is the WR2 on paper behind DK Metcalf. However, Pittman Jr. typically operates in the short and intermediate areas of the field, which may make him a high-volume target for the Steelers' 42-year-old quarterback Aaron Rodgers. In Week 1, Pittsburgh is set to host the Atlanta Falcons. Atlanta fielded a middling pass defense in 2025, allowing the 15th-most passing yards (3,773) and 20th-most passing touchdowns (27) in the NFL. The Falcons will be starting third-string quarterback Cooper Rush (back) on Sunday, so the game could devolve into a low-scoring, run-heavy affair. Still, Pittman Jr. profiles as a high-floor, low-ceiling WR3/flex option for fantasy managers in Week 1.",
+      "metadata": {
+        "description": "After spending the first six years of his NFL career with the Indianapolis Colts, wide receiver Michael Pittman Jr. is entering his first season with the Pittsburgh Steelers in 2026. In Pittsburgh, Pittman Jr. is the WR2 on paper behind DK Metcalf. However, Pittman Jr. typically operates in the short and intermediate areas of the field, which may make him a high-volume target for the Steelers' 42-year-old quarterback Aaron Rodgers. In Week 1, Pittsburgh is set to host the Atlanta Falcons. Atlanta fielded a middling pass defense in 2025, allowing the 15th-most passing yards (3,773) and 20th-most passing touchdowns (27) in the NFL. The Falcons will be starting third-string quarterback Cooper Rush (back) on Sunday, so the game could devolve into a low-scoring, run-heavy affair. Still, Pittman Jr. profiles as a high-floor, low-ceiling WR3/flex option for fantasy managers in Week 1.",
+        "title": "Michael Pittman Jr. a High-Floor, Low-Ceiling WR3 Option in Week 1",
+        "topic_id": "1404698575555821568",
+        "url": "https://www.rotoballer.com/player-news/michael-pittman-jr-a-high-floor-low-ceiling-wr3-option-in-week-1/1930002"
+      },
+      "nfl_team": "PIT",
+      "player_id": "6819",
+      "player_name": "Michael Pittman",
+      "position": "WR",
+      "published": 1789253765000,
+      "source": "rotoballer",
+      "source_key": "220885",
+      "story_id": "nfl|6819|rotoballer|220885|1789253765000",
+      "title": "Michael Pittman Jr. a High-Floor, Low-Ceiling WR3 Option in Week 1",
+      "url": "https://www.rotoballer.com/player-news/michael-pittman-jr-a-high-floor-low-ceiling-wr3-option-in-week-1/1930002"
+    },
+    {
+      "analysis": null,
+      "description": "Entering 2026, Pittsburgh Steelers quarterback Aaron Rodgers is set to begin his 22nd NFL season. Across 16 games with the Steelers in 2025, the 42-year-old completed 65.7% of his pass attempts for 3,322 yards, 24 touchdowns, and seven interceptions. In Week 1, Pittsburgh will host the Atlanta Falcons. Atlanta fielded a mid-pack pass defense in 2025, finishing the year ranked 15th in the NFL in passing yards (3,773) and 20th in passing touchdowns (27) allowed. However, the Falcons are also set to start third-string quarterback Cooper Rush (back) against Pittsburgh on Sunday. As a result, the Steelers may choose to lean into a run-heavy attack in what projects to be an excellent matchup for their defense. Rodgers offers zero fantasy value as a rusher at this point in his career, so he needs a high volume of pass attempts to provide high-end fantasy production. In everything other than the deepest two-QB leagues, Rodgers profiles as a risky start for fantasy managers in Week 1.",
+      "metadata": {
+        "description": "Entering 2026, Pittsburgh Steelers quarterback Aaron Rodgers is set to begin his 22nd NFL season. Across 16 games with the Steelers in 2025, the 42-year-old completed 65.7% of his pass attempts for 3,322 yards, 24 touchdowns, and seven interceptions. In Week 1, Pittsburgh will host the Atlanta Falcons. Atlanta fielded a mid-pack pass defense in 2025, finishing the year ranked 15th in the NFL in passing yards (3,773) and 20th in passing touchdowns (27) allowed. However, the Falcons are also set to start third-string quarterback Cooper Rush (back) against Pittsburgh on Sunday. As a result, the Steelers may choose to lean into a run-heavy attack in what projects to be an excellent matchup for their defense. Rodgers offers zero fantasy value as a rusher at this point in his career, so he needs a high volume of pass attempts to provide high-end fantasy production. In everything other than the deepest two-QB leagues, Rodgers profiles as a risky start for fantasy managers in Week 1.",
+        "title": "Aaron Rodgers a Risky Superflex Start in Week 1",
+        "topic_id": "1404692283411980288",
+        "url": "https://www.rotoballer.com/player-news/aaron-rodgers-a-risky-superflex-start-in-week-1/1929992"
+      },
+      "nfl_team": "PIT",
+      "player_id": "96",
+      "player_name": "Aaron Rodgers",
+      "position": "QB",
+      "published": 1789252445000,
+      "source": "rotoballer",
+      "source_key": "220883",
+      "story_id": "nfl|96|rotoballer|220883|1789252445000",
+      "title": "Aaron Rodgers a Risky Superflex Start in Week 1",
+      "url": "https://www.rotoballer.com/player-news/aaron-rodgers-a-risky-superflex-start-in-week-1/1929992"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders running back Ashton Jeanty gave fantasy managers a scare when he suffered an ankle injury in a training camp practice late in the summer. However, the 22-year-old is off the injury report and will be active in the Raiders' season opener against the Miami Dolphins on Sunday. Jeanty operated as a three-down workhorse in 2025, recording 975 rushing yards, 346 receiving yards, and 10 touchdowns on 321 touches across 17 games. He's expected to play a similar role in 2026 and should have a better offensive ecosystem around him under the Raiders' new head coach and play-caller, Klint Kubiak. Jeanty also has a favorable matchup on paper in Week 1 against Miami, which allowed the seventh-most rushing yards (2,251) in the NFL in 2025. The Raiders may take a touch or two off of Jeanty's plate given the time he missed with the ankle injury, but he still profiles as a high-end RB2 option for fantasy managers in Week 1.",
+      "metadata": {
+        "description": "Las Vegas Raiders running back Ashton Jeanty gave fantasy managers a scare when he suffered an ankle injury in a training camp practice late in the summer. However, the 22-year-old is off the injury report and will be active in the Raiders' season opener against the Miami Dolphins on Sunday. Jeanty operated as a three-down workhorse in 2025, recording 975 rushing yards, 346 receiving yards, and 10 touchdowns on 321 touches across 17 games. He's expected to play a similar role in 2026 and should have a better offensive ecosystem around him under the Raiders' new head coach and play-caller, Klint Kubiak. Jeanty also has a favorable matchup on paper in Week 1 against Miami, which allowed the seventh-most rushing yards (2,251) in the NFL in 2025. The Raiders may take a touch or two off of Jeanty's plate given the time he missed with the ankle injury, but he still profiles as a high-end RB2 option for fantasy managers in Week 1.",
+        "title": "Ashton Jeanty a High-End RB2 Option in Favorable Week 1 Matchup",
+        "topic_id": "1404688508030930944",
+        "url": "https://www.rotoballer.com/player-news/ashton-jeanty-a-high-end-rb2-option-in-favorable-week-1-matchup/1929985"
+      },
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "player_name": "Ashton Jeanty",
+      "position": "RB",
+      "published": 1789251665000,
+      "source": "rotoballer",
+      "source_key": "220882",
+      "story_id": "nfl|12527|rotoballer|220882|1789251665000",
+      "title": "Ashton Jeanty a High-End RB2 Option in Favorable Week 1 Matchup",
+      "url": "https://www.rotoballer.com/player-news/ashton-jeanty-a-high-end-rb2-option-in-favorable-week-1-matchup/1929985"
+    },
+    {
+      "analysis": null,
+      "description": "A fourth-round pick out of Arkansas, Las Vegas Raiders rookie running back Mike Washington Jr. recorded 1,296 scrimmage yards and nine touchdowns on 195 touches in his final collegiate season. After an impressive showing in the preseason, Washington Jr. is now set to open his first NFL season as the RB2 in Las Vegas behind star Raiders back Ashton Jeanty. When Jeanty is fully healthy, Washington Jr. may struggle to earn a fantasy-relevant workload. However, Jeanty suffered an ankle injury late in training camp that has limited his availability in practice over the last few weeks. While Jeanty will be active for the Raiders' season-opener against the Miami Dolphins on Sunday, Washington Jr. may see a few extra touches. In deeper league formats, Washington Jr. profiles as a low-end flex option in a favorable Week 1 matchup against Miami.",
+      "metadata": {
+        "description": "A fourth-round pick out of Arkansas, Las Vegas Raiders rookie running back Mike Washington Jr. recorded 1,296 scrimmage yards and nine touchdowns on 195 touches in his final collegiate season. After an impressive showing in the preseason, Washington Jr. is now set to open his first NFL season as the RB2 in Las Vegas behind star Raiders back Ashton Jeanty. When Jeanty is fully healthy, Washington Jr. may struggle to earn a fantasy-relevant workload. However, Jeanty suffered an ankle injury late in training camp that has limited his availability in practice over the last few weeks. While Jeanty will be active for the Raiders' season-opener against the Miami Dolphins on Sunday, Washington Jr. may see a few extra touches. In deeper league formats, Washington Jr. profiles as a low-end flex option in a favorable Week 1 matchup against Miami.",
+        "title": "Mike Washington Jr. Carries Deep-League Appeal into Week 1",
+        "topic_id": "1404687250347884544",
+        "url": "https://www.rotoballer.com/player-news/mike-washington-jr-carries-deep-league-appeal-into-week-1/1929978"
+      },
+      "nfl_team": "LV",
+      "player_id": "13305",
+      "player_name": "Mike Washington",
+      "position": "RB",
+      "published": 1789251126000,
+      "source": "rotoballer",
+      "source_key": "220881",
+      "story_id": "nfl|13305|rotoballer|220881|1789251126000",
+      "title": "Mike Washington Jr. Carries Deep-League Appeal into Week 1",
+      "url": "https://www.rotoballer.com/player-news/mike-washington-jr-carries-deep-league-appeal-into-week-1/1929978"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders wide receiver Jalen Nailor is ready to make his team debut against the Miami Dolphins in Week 1. After four years with the Minnesota Vikings, Nailor signed a three-year deal with the Raiders this past offseason. He'll now get a chance to establish himself as a top target in an offense after being stuck behind Justin Jefferson and Jordan Addison in Minnesota. Nailor could see an uptick in workload with tight end Brock Bowers (knee) being unavailable for this game. Both Nailor and quarterback Kirk Cousins are new to this organization, so it could take time to build chemistry. Fantasy managers should be able to put in Nailor as a flex option for this weekend, but don't expect much more than that.",
+      "metadata": {
+        "description": "Las Vegas Raiders wide receiver Jalen Nailor is ready to make his team debut against the Miami Dolphins in Week 1. After four years with the Minnesota Vikings, Nailor signed a three-year deal with the Raiders this past offseason. He'll now get a chance to establish himself as a top target in an offense after being stuck behind Justin Jefferson and Jordan Addison in Minnesota. Nailor could see an uptick in workload with tight end Brock Bowers (knee) being unavailable for this game. Both Nailor and quarterback Kirk Cousins are new to this organization, so it could take time to build chemistry. Fantasy managers should be able to put in Nailor as a flex option for this weekend, but don't expect much more than that.",
+        "title": "Jalen Nailor Offers Flex Value in Week 1",
+        "topic_id": "1404682217040482304",
+        "url": "https://www.rotoballer.com/player-news/jalen-nailor-offers-flex-value-in-week-1/1929974"
+      },
+      "nfl_team": "LV",
+      "player_id": "8180",
+      "player_name": "Jalen Nailor",
+      "position": "WR",
+      "published": 1789250045000,
+      "source": "rotoballer",
+      "source_key": "220880",
+      "story_id": "nfl|8180|rotoballer|220880|1789250045000",
+      "title": "Jalen Nailor Offers Flex Value in Week 1",
+      "url": "https://www.rotoballer.com/player-news/jalen-nailor-offers-flex-value-in-week-1/1929974"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders quarterback Kirk Cousins is ready to make his team debut against the Miami Dolphins on Sunday. The veteran quarterback will have a tough task ahead of him this weekend. The Raiders' top target, tight end Brock Bowers (knee) is ruled out for this game, which is bad news for this offense. Now, Cousins will need to rely on newcomer wide receiver Jalen Nailor, Tre Tucker, and backup tight end Michael Mayer as his primary targets. The 38-year-old can handle himself under center, but he can only do so much with the options that he has alongside him. Fantasy managers in one-quarterback leagues can avoid Cousins, but the veteran single-caller could be an option in superflex formats.",
+      "metadata": {
+        "description": "Las Vegas Raiders quarterback Kirk Cousins is ready to make his team debut against the Miami Dolphins on Sunday. The veteran quarterback will have a tough task ahead of him this weekend. The Raiders' top target, tight end Brock Bowers (knee) is ruled out for this game, which is bad news for this offense. Now, Cousins will need to rely on newcomer wide receiver Jalen Nailor, Tre Tucker, and backup tight end Michael Mayer as his primary targets. The 38-year-old can handle himself under center, but he can only do so much with the options that he has alongside him. Fantasy managers in one-quarterback leagues can avoid Cousins, but the veteran single-caller could be an option in superflex formats.",
+        "title": "Kirk Cousins has Superflex Appeal in Week 1",
+        "topic_id": "1404680958392717312",
+        "url": "https://www.rotoballer.com/player-news/kirk-cousins-has-superflex-appeal-in-week-1/1929972"
+      },
+      "nfl_team": "LV",
+      "player_id": "1166",
+      "player_name": "Kirk Cousins",
+      "position": "QB",
+      "published": 1789249689000,
+      "source": "rotoballer",
+      "source_key": "220879",
+      "story_id": "nfl|1166|rotoballer|220879|1789249689000",
+      "title": "Kirk Cousins has Superflex Appeal in Week 1",
+      "url": "https://www.rotoballer.com/player-news/kirk-cousins-has-superflex-appeal-in-week-1/1929972"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars wide receiver Parker Washington is unlikely to get a contract extension done before the beginning of the season, Cameron Wolfe of NFL Network reports. There was speculation that the two sides would get a deal done, but it looks like they'll wait for now. Washington is entering the final year of his rookie contract, so a strong performance on the field could land him a big payday. The 24-year-old is coming off a breakout season where he recorded 58 receptions with 847 receiving yards and five touchdowns in 16 games with the Jaguars last season. We'll see if the two sides are able to get a deal done before Washington hits free agency.",
+      "metadata": {
+        "description": "Jacksonville Jaguars wide receiver Parker Washington is unlikely to get a contract extension done before the beginning of the season, Cameron Wolfe of NFL Network reports. There was speculation that the two sides would get a deal done, but it looks like they'll wait for now. Washington is entering the final year of his rookie contract, so a strong performance on the field could land him a big payday. The 24-year-old is coming off a breakout season where he recorded 58 receptions with 847 receiving yards and five touchdowns in 16 games with the Jaguars last season. We'll see if the two sides are able to get a deal done before Washington hits free agency.",
+        "title": "Parker Washington Unlikely to Agree on Extension Before Season Starts",
+        "topic_id": "1404678440560398336",
+        "url": "https://www.rotoballer.com/player-news/parker-washington-unlikely-to-agree-on-extension-before-season-starts/1929968"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9487",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "published": 1789249089000,
+      "source": "rotoballer",
+      "source_key": "220878",
+      "story_id": "nfl|9487|rotoballer|220878|1789249089000",
+      "title": "Parker Washington Unlikely to Agree on Extension Before Season Starts",
+      "url": "https://www.rotoballer.com/player-news/parker-washington-unlikely-to-agree-on-extension-before-season-starts/1929968"
+    },
+    {
+      "analysis": null,
+      "description": "According to ProFootballTalk, Green Bay Packers running back Josh Jacobs has requested that the judge seal the video of the altercation in his case. This situation makes it tricky for the NFL going forward. They could tell Jacobs he can't play until the video is released to the public. Otherwise, the league risks another Ray Rice situation, where the media somehow releases the video while they continue to let Jacobs play. For now, Jacobs is on paid leave, and he'll remain there until the NFL determines the correct discipline under the Personal Conduct Policy. It will be difficult for the league to decide on a punishment when Jacobs is having the judge seal the evidence.",
+      "metadata": {
+        "description": "According to ProFootballTalk, Green Bay Packers running back Josh Jacobs has requested that the judge seal the video of the altercation in his case. This situation makes it tricky for the NFL going forward. They could tell Jacobs he can't play until the video is released to the public. Otherwise, the league risks another Ray Rice situation, where the media somehow releases the video while they continue to let Jacobs play. For now, Jacobs is on paid leave, and he'll remain there until the NFL determines the correct discipline under the Personal Conduct Policy. It will be difficult for the league to decide on a punishment when Jacobs is having the judge seal the evidence.",
+        "title": "Judge Seals Video Altercation in Josh Jacobs Case",
+        "topic_id": "1404675923646611456",
+        "url": "https://www.rotoballer.com/player-news/judge-seals-video-altercation-in-josh-jacobs-case/1929965"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1789248606000,
+      "source": "rotoballer",
+      "source_key": "220877",
+      "story_id": "nfl|5850|rotoballer|220877|1789248606000",
+      "title": "Judge Seals Video Altercation in Josh Jacobs Case",
+      "url": "https://www.rotoballer.com/player-news/judge-seals-video-altercation-in-josh-jacobs-case/1929965"
+    },
+    {
+      "analysis": null,
+      "description": "According to Adam Schefter, Baltimore Ravens quarterback Lamar Jackson won't be receiving a new contract before the beginning of the 2026 season. There was speculation that Jackson would get a deal done, but the two sides aren't expected to agree on a deal before 2027. His current contract runs through 2027, so they could agree on an extension during the summer. Jackson has spent the first eight years of his career in Baltimore. He has won multiple MVP awards with the team and is expected to sign a new deal with the organization at some point.",
+      "metadata": {
+        "description": "According to Adam Schefter, Baltimore Ravens quarterback Lamar Jackson won't be receiving a new contract before the beginning of the 2026 season. There was speculation that Jackson would get a deal done, but the two sides aren't expected to agree on a deal before 2027. His current contract runs through 2027, so they could agree on an extension during the summer. Jackson has spent the first eight years of his career in Baltimore. He has won multiple MVP awards with the team and is expected to sign a new deal with the organization at some point.",
+        "title": "Lamar Jackson Won't Receive New Contract Before Season Begins",
+        "topic_id": "1404672148685037568",
+        "url": "https://www.rotoballer.com/player-news/lamar-jackson-wont-receive-new-contract-before-season-begins/1929957"
+      },
+      "nfl_team": "BAL",
+      "player_id": "4881",
+      "player_name": "Lamar Jackson",
+      "position": "QB",
+      "published": 1789247706000,
+      "source": "rotoballer",
+      "source_key": "220876",
+      "story_id": "nfl|4881|rotoballer|220876|1789247706000",
+      "title": "Lamar Jackson Won't Receive New Contract Before Season Begins",
+      "url": "https://www.rotoballer.com/player-news/lamar-jackson-wont-receive-new-contract-before-season-begins/1929957"
     },
     {
       "analysis": "The two sides attempted to reach an agreement prior to Sunday's regular-season opener against the Bills. However, it looks like talks between Stroud and the Texans have stalled, and a long-term deal will be revisited following the conclusion of the upcoming season. Entering his fourth year in the NFL, Stroud is looking to reclaim the same form he had in his rookie campaign in 2023, when he was named the Offensive Rookie of the Year after completing 63.9 percent of his passes for 4,108 yards, 23 touchdowns and five interceptions across 15 regular-season games while adding 39 carries for 167 yards and three scores.",
@@ -58094,346 +58338,6 @@
       "story_id": "nfl|9486|fantasy_pros|602276|1786684851894",
       "title": "Dontayvion Wicks on track to be Eagles WR2",
       "url": "https://www.fantasypros.com/nfl/news/602276/dontayvion-wicks-on-track-to-be-eagles-wr2.php"
-    },
-    {
-      "analysis": "The rookie fifth-round pick is looking to lock down the No. 3 running back role this summer, and Singleton got a long look in the second half of Thursday's preseason opener. Singleton had a pair of 1,000-yard seasons at Penn State and is a capable receiver, so there's seemingly plenty of upside there, particularly for a third-day pick. Singleton figures to continue seeing plenty of action when the Titans face the Seahawks at home on Sunday, Aug. 23 in their second preseason game.",
-      "description": "Singleton rushed eight times for 31 yards in the Titans' 19-13 preseason win over the 49ers on Thursday.",
-      "metadata": {
-        "analysis": "The rookie fifth-round pick is looking to lock down the No. 3 running back role this summer, and Singleton got a long look in the second half of Thursday's preseason opener. Singleton had a pair of 1,000-yard seasons at Penn State and is a capable receiver, so there's seemingly plenty of upside there, particularly for a third-day pick. Singleton figures to continue seeing plenty of action when the Titans face the Seahawks at home on Sunday, Aug. 23 in their second preseason game.",
-        "description": "Singleton rushed eight times for 31 yards in the Titans' 19-13 preseason win over the 49ers on Thursday.",
-        "title": "Nicholas Singleton - Team-high carry total Thursday",
-        "topic_id": "1393858406929928192"
-      },
-      "nfl_team": "TEN",
-      "player_id": "13288",
-      "player_name": "Nicholas Singleton",
-      "position": "RB",
-      "published": 1786684188000,
-      "source": "rotowire",
-      "source_key": "633511",
-      "story_id": "nfl|13288|rotowire|633511|1786684188000",
-      "title": "Nicholas Singleton - Team-high carry total Thursday",
-      "url": null
-    },
-    {
-      "analysis": "Spears finished second in rushing yards for the Titans on the night behind Julius Chestnut, and the former showed no signs of the soreness and irritation that caused an early exit from practice on Friday. Spears has a chance to make a case for the top running back job currently held by Tony Pollard, but barring any unforeseen developments or injury, it appears likely the latter will continue relegating Spears to a complementary role to begin the 2026 season.",
-      "description": "Spears rushed four times for 35 yards and brought in his only target for four yards in the Titans' 19-13 preseason win over the 49ers on Thursday.",
-      "metadata": {
-        "analysis": "Spears finished second in rushing yards for the Titans on the night behind Julius Chestnut, and the former showed no signs of the soreness and irritation that caused an early exit from practice on Friday. Spears has a chance to make a case for the top running back job currently held by Tony Pollard, but barring any unforeseen developments or injury, it appears likely the latter will continue relegating Spears to a complementary role to begin the 2026 season.",
-        "description": "Spears rushed four times for 35 yards and brought in his only target for four yards in the Titans' 19-13 preseason win over the 49ers on Thursday.",
-        "title": "Tyjae Spears - Efficient with five touches",
-        "topic_id": "1393858406732795904"
-      },
-      "nfl_team": "TEN",
-      "player_id": "9508",
-      "player_name": "Tyjae Spears",
-      "position": "RB",
-      "published": 1786683946000,
-      "source": "rotowire",
-      "source_key": "633510",
-      "story_id": "nfl|9508|rotowire|633510|1786683946000",
-      "title": "Tyjae Spears - Efficient with five touches",
-      "url": null
-    },
-    {
-      "analysis": "On a night when 10 different Titans players recorded at least one catch, Robinson shared the team lead in receptions and targets while setting the pace in receiving yards. The veteran offseason addition opened the contest with the rest of the first-team offense, getting his first opportunity to build rapport with Cam Ward in a game setting. Robinson is expected to be one of Ward's most trusted targets during the wideout's debut campaign in Tennessee, and Thursday offered an abbreviated glimpse of what can likely be expected from the duo during the regular season.",
-      "description": "Robinson brought in two of four targets for 19 yards in the Titans' 19-13 preseason win over the 49ers on Thursday.",
-      "metadata": {
-        "analysis": "On a night when 10 different Titans players recorded at least one catch, Robinson shared the team lead in receptions and targets while setting the pace in receiving yards. The veteran offseason addition opened the contest with the rest of the first-team offense, getting his first opportunity to build rapport with Cam Ward in a game setting. Robinson is expected to be one of Ward's most trusted targets during the wideout's debut campaign in Tennessee, and Thursday offered an abbreviated glimpse of what can likely be expected from the duo during the regular season.",
-        "description": "Robinson brought in two of four targets for 19 yards in the Titans' 19-13 preseason win over the 49ers on Thursday.",
-        "title": "Wan'Dale Robinson - Two catches in team debut",
-        "topic_id": "1393857148663894016"
-      },
-      "nfl_team": "TEN",
-      "player_id": "8126",
-      "player_name": "Wan'Dale Robinson",
-      "position": "WR",
-      "published": 1786683735000,
-      "source": "rotowire",
-      "source_key": "633509",
-      "story_id": "nfl|8126|rotowire|633509|1786683735000",
-      "title": "Wan'Dale Robinson - Two catches in team debut",
-      "url": null
-    },
-    {
-      "analysis": "With Chig Okonkwo now in Washington, Helm is set to operate as the Titans' unquestioned No. 1 tight end in 2026. Consequently, the second-year pro was on the field with the rest of the starters to open Thursday's game, and he flashed on his one reception, which came during the Titans' opening possession. Helm's 16-yard grab moved the ball into 49ers territory and put his ability to gain yards after the catch on display. Helm already managed a 44-357-2 line across 16 regular-season games in a rotational role as a rookie in 2025, so fantasy expectations are understandably elevated now that Okonkwo is no longer a competitor for Cam Ward's attention.",
-      "description": "Helm brought in his only target for 16 yards in the Titans' 19-13 preseason win over the 49ers on Thursday.",
-      "metadata": {
-        "analysis": "With Chig Okonkwo now in Washington, Helm is set to operate as the Titans' unquestioned No. 1 tight end in 2026. Consequently, the second-year pro was on the field with the rest of the starters to open Thursday's game, and he flashed on his one reception, which came during the Titans' opening possession. Helm's 16-yard grab moved the ball into 49ers territory and put his ability to gain yards after the catch on display. Helm already managed a 44-357-2 line across 16 regular-season games in a rotational role as a rookie in 2025, so fantasy expectations are understandably elevated now that Okonkwo is no longer a competitor for Cam Ward's attention.",
-        "description": "Helm brought in his only target for 16 yards in the Titans' 19-13 preseason win over the 49ers on Thursday.",
-        "title": "Gunnar Helm - Productive on one catch",
-        "topic_id": "1393855889462525952"
-      },
-      "nfl_team": "TEN",
-      "player_id": "12502",
-      "player_name": "Gunnar Helm",
-      "position": "TE",
-      "published": 1786683500000,
-      "source": "rotowire",
-      "source_key": "633508",
-      "story_id": "nfl|12502|rotowire|633508|1786683500000",
-      "title": "Gunnar Helm - Productive on one catch",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Arizona Cardinals wide receiver Marvin Harrison Jr. was part of the team's starting 11 in Thursday's preseason meeting with the Las Vegas Raiders. Harrison only stuck around for Arizona's opening drive, but came away with a seven-yard touchdown on his only target of the game. Harrison made the grab in the back corner of the end zone just past the outstretched arms of his defender on a perfectly placed pass from quarterback Jacoby Brissett. Following an injury-riddled 2025 coupled with Michael Wilson's breakout, Harrison's claim to the Cardinals' WR1 is in question. His decline in production last year has at least relaxed the hype that propelled him into the early round of fantasy drafts in each of the last two seasons. With an improved coaching staff backing him, Harrison's production should pick back up and is more appropriately priced in 2026. Our next opportunity to see him in action will come on August 22 when Arizona faces the Dallas Cowboys.",
-      "metadata": {
-        "description": "Arizona Cardinals wide receiver Marvin Harrison Jr. was part of the team's starting 11 in Thursday's preseason meeting with the Las Vegas Raiders. Harrison only stuck around for Arizona's opening drive, but came away with a seven-yard touchdown on his only target of the game. Harrison made the grab in the back corner of the end zone just past the outstretched arms of his defender on a perfectly placed pass from quarterback Jacoby Brissett. Following an injury-riddled 2025 coupled with Michael Wilson's breakout, Harrison's claim to the Cardinals' WR1 is in question. His decline in production last year has at least relaxed the hype that propelled him into the early round of fantasy drafts in each of the last two seasons. With an improved coaching staff backing him, Harrison's production should pick back up and is more appropriately priced in 2026. Our next opportunity to see him in action will come on August 22 when Arizona faces the Dallas Cowboys.",
-        "title": "Marvin Harrison Jr. Catches TD Pass In First Preseason Action",
-        "topic_id": "1393916292846616576",
-        "url": "https://www.rotoballer.com/player-news/marvin-harrison-jr-catches-td-pass-in-first-preseason-action/1908640"
-      },
-      "nfl_team": "ARI",
-      "player_id": "11628",
-      "player_name": "Marvin Harrison",
-      "position": "WR",
-      "published": 1786683318000,
-      "source": "rotoballer",
-      "source_key": "218556",
-      "story_id": "nfl|11628|rotoballer|218556|1786683318000",
-      "title": "Marvin Harrison Jr. Catches TD Pass In First Preseason Action",
-      "url": "https://www.rotoballer.com/player-news/marvin-harrison-jr-catches-td-pass-in-first-preseason-action/1908640"
-    },
-    {
-      "analysis": "Ward's final line underscores his inconsistent performance as he officially began game preparations for his second season. The 2025 first overall pick played on the Titans' first three drives, and he helped lead Tennessee to a touchdown on its opening possession with a marathon 11-play, 95-yard drive that featured 18- and 16-yard completions to Calvin Ridley and Gunnar Helm, respectively. Those two throws served as the highlights of Ward's night, and he'll aim for more efficiency in his second preseason game on Sunday, Aug. 23 at home against the defending champion Seahawks.",
-      "description": "Ward completed five of 12 targets for 57 yards with no touchdowns or interceptions and rushed once for two yards in the Titans' 19-13 preseason win over the 49ers on Thursday.",
-      "metadata": {
-        "analysis": "Ward's final line underscores his inconsistent performance as he officially began game preparations for his second season. The 2025 first overall pick played on the Titans' first three drives, and he helped lead Tennessee to a touchdown on its opening possession with a marathon 11-play, 95-yard drive that featured 18- and 16-yard completions to Calvin Ridley and Gunnar Helm, respectively. Those two throws served as the highlights of Ward's night, and he'll aim for more efficiency in his second preseason game on Sunday, Aug. 23 at home against the defending champion Seahawks.",
-        "description": "Ward completed five of 12 targets for 57 yards with no touchdowns or interceptions and rushed once for two yards in the Titans' 19-13 preseason win over the 49ers on Thursday.",
-        "title": "Cam Ward - Uneven performance in preseason opener",
-        "topic_id": "1393850856859783168"
-      },
-      "nfl_team": "TEN",
-      "player_id": "12522",
-      "player_name": "Cam Ward",
-      "position": "QB",
-      "published": 1786682109000,
-      "source": "rotowire",
-      "source_key": "633507",
-      "story_id": "nfl|12522|rotowire|633507|1786682109000",
-      "title": "Cam Ward - Uneven performance in preseason opener",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Arizona Cardinals running back Tyler Allgeier saw minimal usage behind starter Jeremiyah Love (ankle) in Thursday's 27-14 preseason win over the Las Vegas Raiders. Allgeier operated in a relief role, spelling the rookie, who had 14 touches in the first half. Allgeier himself logged four rushing attempts for 19 yards. After rushing for 1,035 yards as a rookie in 2022, Allgeier looked like an up-and-coming stud running back until the Falcons drafted Bijan Robinson the next season and made him their featured back. Allgeier left Atlanta as a free agent and signed a two-year deal with Arizona on March 9, only for the Cardinals to select Love with the third overall pick in the NFL Draft two months later. Love is expected to be Arizona's starting running back, but Allgeier could still figure prominently in a timeshare. Allgeier's next chance to make his case for more touches will come on August 22 when the Cardinals face the Dallas Cowboys.",
-      "metadata": {
-        "description": "Arizona Cardinals running back Tyler Allgeier saw minimal usage behind starter Jeremiyah Love (ankle) in Thursday's 27-14 preseason win over the Las Vegas Raiders. Allgeier operated in a relief role, spelling the rookie, who had 14 touches in the first half. Allgeier himself logged four rushing attempts for 19 yards. After rushing for 1,035 yards as a rookie in 2022, Allgeier looked like an up-and-coming stud running back until the Falcons drafted Bijan Robinson the next season and made him their featured back. Allgeier left Atlanta as a free agent and signed a two-year deal with Arizona on March 9, only for the Cardinals to select Love with the third overall pick in the NFL Draft two months later. Love is expected to be Arizona's starting running back, but Allgeier could still figure prominently in a timeshare. Allgeier's next chance to make his case for more touches will come on August 22 when the Cardinals face the Dallas Cowboys.",
-        "title": "Tyler Allgeier Has Quiet Night In First Action With Arizona",
-        "topic_id": "1393907485089230848",
-        "url": "https://www.rotoballer.com/player-news/tyler-allgeier-has-quiet-night-in-first-action-with-arizona/1908627"
-      },
-      "nfl_team": "ARI",
-      "player_id": "8132",
-      "player_name": "Tyler Allgeier",
-      "position": "RB",
-      "published": 1786681145000,
-      "source": "rotoballer",
-      "source_key": "218552",
-      "story_id": "nfl|8132|rotoballer|218552|1786681145000",
-      "title": "Tyler Allgeier Has Quiet Night In First Action With Arizona",
-      "url": "https://www.rotoballer.com/player-news/tyler-allgeier-has-quiet-night-in-first-action-with-arizona/1908627"
-    },
-    {
-      "analysis": "Tucker opened the game with the rest of the Raiders' projected offensive starters and showed some solid chemistry with Kirk Cousins, recording 16- and five-yard grabs on an opening possession that was capped by Michael Mayer's 13-yard touchdown grab. Tucker tuned up for his projected No. 1 receiver role in 2026 by posting a career-best season a year ago, furnishing a 57-696-5 line across 17 regular-season games.",
-      "description": "Tucker secured both of his targets for 21 yards in the Raiders' 27-14 preseason loss to the Cardinals on Thursday.",
-      "metadata": {
-        "analysis": "Tucker opened the game with the rest of the Raiders' projected offensive starters and showed some solid chemistry with Kirk Cousins, recording 16- and five-yard grabs on an opening possession that was capped by Michael Mayer's 13-yard touchdown grab. Tucker tuned up for his projected No. 1 receiver role in 2026 by posting a career-best season a year ago, furnishing a 57-696-5 line across 17 regular-season games.",
-        "description": "Tucker secured both of his targets for 21 yards in the Raiders' 27-14 preseason loss to the Cardinals on Thursday.",
-        "title": "Tre Tucker - Pair of catches in preseason loss",
-        "topic_id": "1393840785589284864"
-      },
-      "nfl_team": "LV",
-      "player_id": "10213",
-      "player_name": "Tre Tucker",
-      "position": "WR",
-      "published": 1786679764000,
-      "source": "rotowire",
-      "source_key": "633497",
-      "story_id": "nfl|10213|rotowire|633497|1786679764000",
-      "title": "Tre Tucker - Pair of catches in preseason loss",
-      "url": null
-    },
-    {
-      "analysis": "Allgeier and rookie third overall pick Jeremiyah Love were the two Cardinals running backs to log touches on the team's opening possession. Allgeier's first opportunity came after Love had seen two rush attempts and recorded a reception, but the former proceeded to rattle off consecutive seven-yard runs on his first pair of carries. Allgeier also had a five-yard rush on the Cardinals' second drive, and his team debut was an encouraging one overall. The veteran's exact regular-season role in a crowded backfield remains to be determined, but it's worth noting Allgeier has ample experience complementing a star back after playing alongside Bijan Robinson in Atlanta for the last three seasons.",
-      "description": "Allgeier rushed four times for 19 yards and wasn't targeted in the Cardinals' 27-14 preseason win over the Raiders on Thursday.",
-      "metadata": {
-        "analysis": "Allgeier and rookie third overall pick Jeremiyah Love were the two Cardinals running backs to log touches on the team's opening possession. Allgeier's first opportunity came after Love had seen two rush attempts and recorded a reception, but the former proceeded to rattle off consecutive seven-yard runs on his first pair of carries. Allgeier also had a five-yard rush on the Cardinals' second drive, and his team debut was an encouraging one overall. The veteran's exact regular-season role in a crowded backfield remains to be determined, but it's worth noting Allgeier has ample experience complementing a star back after playing alongside Bijan Robinson in Atlanta for the last three seasons.",
-        "description": "Allgeier rushed four times for 19 yards and wasn't targeted in the Cardinals' 27-14 preseason win over the Raiders on Thursday.",
-        "title": "Tyler Allgeier - Sees action with starters",
-        "topic_id": "1393838271573811200"
-      },
-      "nfl_team": "ARI",
-      "player_id": "8132",
-      "player_name": "Tyler Allgeier",
-      "position": "RB",
-      "published": 1786679163000,
-      "source": "rotowire",
-      "source_key": "633493",
-      "story_id": "nfl|8132|rotowire|633493|1786679163000",
-      "title": "Tyler Allgeier - Sees action with starters",
-      "url": null
-    },
-    {
-      "analysis": "Kubiak announced at the outset of training camp that Cousins was the team's No. 1 QB, and nothing between then and Thursday's contest seemingly has changed his mind. Cousins led a touchdown drive on his only possession, which culminated in a 13-yard connection between him and TE Michael Mayer. Meanwhile, 2026 first overall pick Fernando Mendoza fared well himself, completing 10 of 16 passes for 97 yards, one TD and one interception. Considering Kubiak's comments, Cousins appears destined to be under center for Las Vegas to begin Week 1 against the Dolphins on Sunday, Sept. 13.",
-      "description": "Coach Klint Kubiak said after Thursday's 27-14 preseason loss to the Cardinals that the Raiders' starting quarterback gig is Cousins' \"job to lose,\" Greg Auman of Fox Sports reports.",
-      "metadata": {
-        "analysis": "Kubiak announced at the outset of training camp that Cousins was the team's No. 1 QB, and nothing between then and Thursday's contest seemingly has changed his mind. Cousins led a touchdown drive on his only possession, which culminated in a 13-yard connection between him and TE Michael Mayer. Meanwhile, 2026 first overall pick Fernando Mendoza fared well himself, completing 10 of 16 passes for 97 yards, one TD and one interception. Considering Kubiak's comments, Cousins appears destined to be under center for Las Vegas to begin Week 1 against the Dolphins on Sunday, Sept. 13.",
-        "description": "Coach Klint Kubiak said after Thursday's 27-14 preseason loss to the Cardinals that the Raiders' starting quarterback gig is Cousins' \"job to lose,\" Greg Auman of Fox Sports reports.",
-        "title": "Kirk Cousins - Kubiak say it's Cousins' 'job to lose'",
-        "topic_id": "1393833237519794176"
-      },
-      "nfl_team": "LV",
-      "player_id": "1166",
-      "player_name": "Kirk Cousins",
-      "position": "QB",
-      "published": 1786678130000,
-      "source": "rotowire",
-      "source_key": "633485",
-      "story_id": "nfl|1166|rotowire|633485|1786678130000",
-      "title": "Kirk Cousins - Kubiak say it's Cousins' 'job to lose'",
-      "url": null
-    },
-    {
-      "analysis": "TeSlaa couldn't get on the same page with quarterbacks Luke Altmyer and Joshua Dobbs as the Lions rested key starters, including Jared Goff. Detroit's 2025 third-round pick will likely continue to get opportunities in the preseason as TeSlaa tries to nail down the third spot on Detroit's wide receiver depth chart behind Amon-Ra St. Brown and Jameson Williams. The Lions' second preseason game will be Aug. 22 against Washington.",
-      "description": "TeSlaa didn't catch any of his three targets in Thursday's 16-14 preseason loss to the Bengals.",
-      "metadata": {
-        "analysis": "TeSlaa couldn't get on the same page with quarterbacks Luke Altmyer and Joshua Dobbs as the Lions rested key starters, including Jared Goff. Detroit's 2025 third-round pick will likely continue to get opportunities in the preseason as TeSlaa tries to nail down the third spot on Detroit's wide receiver depth chart behind Amon-Ra St. Brown and Jameson Williams. The Lions' second preseason game will be Aug. 22 against Washington.",
-        "description": "TeSlaa didn't catch any of his three targets in Thursday's 16-14 preseason loss to the Bengals.",
-        "title": "Isaac TeSlaa - Blanked on three targets Thursday",
-        "topic_id": "1393833237750480896"
-      },
-      "nfl_team": "DET",
-      "player_id": "12535",
-      "player_name": "Isaac TeSlaa",
-      "position": "WR",
-      "published": 1786677943000,
-      "source": "rotowire",
-      "source_key": "633484",
-      "story_id": "nfl|12535|rotowire|633484|1786677943000",
-      "title": "Isaac TeSlaa - Blanked on three targets Thursday",
-      "url": null
-    },
-    {
-      "analysis": "The Cardinals' starting offense took the field on the opening possession, and Wilson was on the receiving end of two of Jacoby Brissett's first three completions. The fourth-year wideout is coming off having posted a career-best 78-1,006-7 line on 126 targets over 17 regular-season games in 2025, but if Marvin Harrison is able to enjoy better healthy this coming season, Wilson could be headed for at least a slight statistical downturn in his No. 2 receiver role.",
-      "description": "Wilson brought in both targets for 23 yards in the Cardinals' 27-14 preseason win over the Raiders on Thursday.",
-      "metadata": {
-        "analysis": "The Cardinals' starting offense took the field on the opening possession, and Wilson was on the receiving end of two of Jacoby Brissett's first three completions. The fourth-year wideout is coming off having posted a career-best 78-1,006-7 line on 126 targets over 17 regular-season games in 2025, but if Marvin Harrison is able to enjoy better healthy this coming season, Wilson could be headed for at least a slight statistical downturn in his No. 2 receiver role.",
-        "description": "Wilson brought in both targets for 23 yards in the Cardinals' 27-14 preseason win over the Raiders on Thursday.",
-        "title": "Michael Wilson - Pair of catches in preseason opener",
-        "topic_id": "1393833237435908096"
-      },
-      "nfl_team": "ARI",
-      "player_id": "10232",
-      "player_name": "Michael Wilson",
-      "position": "WR",
-      "published": 1786677866000,
-      "source": "rotowire",
-      "source_key": "633482",
-      "story_id": "nfl|10232|rotowire|633482|1786677866000",
-      "title": "Michael Wilson - Pair of catches in preseason opener",
-      "url": null
-    },
-    {
-      "analysis": "The Chargers rested key starters, including QB Justin Herbert, but Gadsden evidently hasn't earned that distinction coming off a 664-yard rookie regular season. Both of Gadsden's catches Thursday came on passes thrown by Trey Lance. In Gadsden's second NFL campaign, he will try to hold off David Njoku for targets among the Chargers' tight ends. Gadsden could continue to see action in the Chargers' second preseason game, Aug. 20 against the 49ers.",
-      "description": "Gadsden caught two of three targets for 21 yards in Thursday's 21-7 preseason win over the Texans.",
-      "metadata": {
-        "analysis": "The Chargers rested key starters, including QB Justin Herbert, but Gadsden evidently hasn't earned that distinction coming off a 664-yard rookie regular season. Both of Gadsden's catches Thursday came on passes thrown by Trey Lance. In Gadsden's second NFL campaign, he will try to hold off David Njoku for targets among the Chargers' tight ends. Gadsden could continue to see action in the Chargers' second preseason game, Aug. 20 against the 49ers.",
-        "description": "Gadsden caught two of three targets for 21 yards in Thursday's 21-7 preseason win over the Texans.",
-        "title": "Oronde Gadsden - Two catches in preseason win",
-        "topic_id": "1393830717955256320"
-      },
-      "nfl_team": "LAC",
-      "player_id": "12493",
-      "player_name": "Oronde Gadsden",
-      "position": "TE",
-      "published": 1786677353000,
-      "source": "rotowire",
-      "source_key": "633479",
-      "story_id": "nfl|12493|rotowire|633479|1786677353000",
-      "title": "Oronde Gadsden - Two catches in preseason win",
-      "url": null
-    },
-    {
-      "analysis": "Higgins and Burrow were drafted together in 2020, and they've had a long-standing connection with one another on the field. The two players have had no trouble getting back up to speed with each other after the offseason, and amongst the many plays they've made at camp, Higgins reeled in a red zone touchdown pass from Burrow at practice Tuesday. The wide receiver caught 59 of 98 targets for 846 yards and a career-high 11 touchdowns in 2025, a campaign during which Burrow, Jake Browning and Joe Flacco all started at least three contests at quarterback. Now with Burrow fully healthy ahead of the 2026 season, Higgins figures to once again be one of the most productive No. 2 WRs in the NFL.",
-      "description": "Higgins and quarterback Joe Burrow have had no trouble connecting at practice, Dan Hoard of the Bengals' official website reports.",
-      "metadata": {
-        "analysis": "Higgins and Burrow were drafted together in 2020, and they've had a long-standing connection with one another on the field. The two players have had no trouble getting back up to speed with each other after the offseason, and amongst the many plays they've made at camp, Higgins reeled in a red zone touchdown pass from Burrow at practice Tuesday. The wide receiver caught 59 of 98 targets for 846 yards and a career-high 11 touchdowns in 2025, a campaign during which Burrow, Jake Browning and Joe Flacco all started at least three contests at quarterback. Now with Burrow fully healthy ahead of the 2026 season, Higgins figures to once again be one of the most productive No. 2 WRs in the NFL.",
-        "description": "Higgins and quarterback Joe Burrow have had no trouble connecting at practice, Dan Hoard of the Bengals' official website reports.",
-        "title": "Tee Higgins - Picking up where he left off with Burrow",
-        "topic_id": "1393823166320644096"
-      },
-      "nfl_team": "CIN",
-      "player_id": "6801",
-      "player_name": "Tee Higgins",
-      "position": "WR",
-      "published": 1786675447000,
-      "source": "rotowire",
-      "source_key": "633471",
-      "story_id": "nfl|6801|rotowire|633471|1786675447000",
-      "title": "Tee Higgins - Picking up where he left off with Burrow",
-      "url": null
-    },
-    {
-      "analysis": "Brown and the rest of Cincinnati's starters played two drives Thursday. After recording at least 1,350 scrimmage yards and 11 total touchdowns in each of the past two regular seasons, Brown is locked in atop a Bengals running back depth chart that also includes Samaje Perine and Tahj Brooks. Cincinnati will continue preseason play Aug. 22 against the Bears.",
-      "description": "Brown rushed five times for 16 yards in Thursday's preseason-opening 16-14 win over the Lions.",
-      "metadata": {
-        "analysis": "Brown and the rest of Cincinnati's starters played two drives Thursday. After recording at least 1,350 scrimmage yards and 11 total touchdowns in each of the past two regular seasons, Brown is locked in atop a Bengals running back depth chart that also includes Samaje Perine and Tahj Brooks. Cincinnati will continue preseason play Aug. 22 against the Bears.",
-        "description": "Brown rushed five times for 16 yards in Thursday's preseason-opening 16-14 win over the Lions.",
-        "title": "Chase Brown - Five carries in preseason opener",
-        "topic_id": "1393820650069594112"
-      },
-      "nfl_team": "CIN",
-      "player_id": "9224",
-      "player_name": "Chase Brown",
-      "position": "RB",
-      "published": 1786675091000,
-      "source": "rotowire",
-      "source_key": "633470",
-      "story_id": "nfl|9224|rotowire|633470|1786675091000",
-      "title": "Chase Brown - Five carries in preseason opener",
-      "url": null
-    },
-    {
-      "analysis": "Chase's catch came on Joe Burrow's first pass of the game, as the star QB-WR duo didn't take long to get on the same page. Cincinnati's starting offense played two possessions, but Chase wasn't thrown to again. Chase is expected to see a heavy dose of targets again in 2026 after leading the league in that category during each of the past two regular seasons. Cincinnati's next preseason game will be Aug. 22 against the Bears.",
-      "description": "Chase caught his only target for 16 yards in Thursday's preseason-opening 16-14 win over the Lions.",
-      "metadata": {
-        "analysis": "Chase's catch came on Joe Burrow's first pass of the game, as the star QB-WR duo didn't take long to get on the same page. Cincinnati's starting offense played two possessions, but Chase wasn't thrown to again. Chase is expected to see a heavy dose of targets again in 2026 after leading the league in that category during each of the past two regular seasons. Cincinnati's next preseason game will be Aug. 22 against the Bears.",
-        "description": "Chase caught his only target for 16 yards in Thursday's preseason-opening 16-14 win over the Lions.",
-        "title": "Ja'Marr Chase - One catch in preseason opener",
-        "topic_id": "1393816878576566272"
-      },
-      "nfl_team": "CIN",
-      "player_id": "7564",
-      "player_name": "Ja'Marr Chase",
-      "position": "WR",
-      "published": 1786674085000,
-      "source": "rotowire",
-      "source_key": "633467",
-      "story_id": "nfl|7564|rotowire|633467|1786674085000",
-      "title": "Ja'Marr Chase - One catch in preseason opener",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Green Bay Packers wide receiver Jayden Reed was on the field with the starters in the Packers' 28-9 loss to the Pittsburgh Steelers in the first preseason game for Green Bay. Reed, who signed a three-year extension to stay with the Packers through the 2029 season, earned two targets, catching one of them for 19 yards. Notably, per PFF's Nathan Jahnke, Reed did not play outside of 11 personnel, when three wide receivers were in the formation. The Packers played two snaps of 12 personnel with the starters in and Matthew Golden was in the game while Reed was not. That is a clear signal that things will likely remain the same for Reed as it's been in previous seasons with him being a slot-only player. Reed should be a focal point in the Packers' offense, but he's behind Tucker Kraft and potentially Golden and Christian Watson in the pecking order. The Packers' next preseason game comes on August 21st against the Denver Broncos. For fantasy football purposes, Reed is a volatile WR3 with upside for 2026.",
-      "metadata": {
-        "description": "Green Bay Packers wide receiver Jayden Reed was on the field with the starters in the Packers' 28-9 loss to the Pittsburgh Steelers in the first preseason game for Green Bay. Reed, who signed a three-year extension to stay with the Packers through the 2029 season, earned two targets, catching one of them for 19 yards. Notably, per PFF's Nathan Jahnke, Reed did not play outside of 11 personnel, when three wide receivers were in the formation. The Packers played two snaps of 12 personnel with the starters in and Matthew Golden was in the game while Reed was not. That is a clear signal that things will likely remain the same for Reed as it's been in previous seasons with him being a slot-only player. Reed should be a focal point in the Packers' offense, but he's behind Tucker Kraft and potentially Golden and Christian Watson in the pecking order. The Packers' next preseason game comes on August 21st against the Denver Broncos. For fantasy football purposes, Reed is a volatile WR3 with upside for 2026.",
-        "title": "Jayden Reed Totals 19 Yards in Preseason Opener",
-        "topic_id": "1393849594655297536",
-        "url": "https://www.rotoballer.com/player-news/jayden-reed-totals-19-yards-in-preseason-opener/1908612"
-      },
-      "nfl_team": "GB",
-      "player_id": "10222",
-      "player_name": "Jayden Reed",
-      "position": "WR",
-      "published": 1786667509000,
-      "source": "rotoballer",
-      "source_key": "218549",
-      "story_id": "nfl|10222|rotoballer|218549|1786667509000",
-      "title": "Jayden Reed Totals 19 Yards in Preseason Opener",
-      "url": "https://www.rotoballer.com/player-news/jayden-reed-totals-19-yards-in-preseason-opener/1908612"
     }
   ]
 }
