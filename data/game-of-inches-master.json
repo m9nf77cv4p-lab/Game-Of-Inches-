@@ -22068,7 +22068,7 @@
       ],
       "first_name": "Cooper",
       "full_name": "Cooper Rush",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Rush",
       "nfl_team": "ATL",
       "player_id": "4574",
@@ -24019,8 +24019,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-13T00:31:42Z",
-    "source_fingerprint": "06ae3bfdf75d1def8243736206b7d50923e4c3ace98b1902d397e02a187da73d"
+    "last_changed_at": "2026-09-13T14:30:55Z",
+    "source_fingerprint": "cb1a964bc8bde131912c630e225c3f7cdfa768f1cb93034791b0a6d25d47ea97"
   },
   "teams": [
     {
