@@ -1,49 +1,31 @@
 {
-  "last_checked_at": "2026-09-13T17:36:17Z",
+  "last_checked_at": "2026-09-13T19:45:19Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 289,
   "new_story_ids": [
-    "nfl|11581|rotoballer|220929|1789305186000",
-    "nfl|11600|rotoballer|220925|1789302306000",
-    "nfl|11600|rotowire|637040|1789315379000",
-    "nfl|11604|rotoballer|220907|1789297145000",
-    "nfl|11604|rotowire|637010|1789311144000",
-    "nfl|11618|fantasy_pros|607597|1789315255587",
-    "nfl|11618|rotoballer|220919|1789301106000",
-    "nfl|11618|rotowire|637018|1789313833000",
-    "nfl|11620|fantasy_pros|607592|1789314054975",
-    "nfl|11620|rotoballer|220913|1789299845000",
-    "nfl|11620|rotowire|637015|1789313585000",
-    "nfl|11632|fantasy_pros|607579|1789311355314",
-    "nfl|11632|rotoballer|220908|1789297028000",
-    "nfl|11632|rotowire|637009|1789310583000",
-    "nfl|12469|rotowire|637059|1789320708000",
-    "nfl|12485|rotoballer|220093|1788535207000",
-    "nfl|12485|rotoballer|220680|1789148098000",
-    "nfl|12485|rotowire|635091|1787972469000",
-    "nfl|13268|rotowire|637030|1789314844000",
-    "nfl|13288|rotoballer|220918|1789301165000",
-    "nfl|13288|rotowire|637031|1789314852000",
-    "nfl|13289|rotowire|637033|1789314977000",
-    "nfl|13306|rotowire|637026|1789314405000",
-    "nfl|2505|rotoballer|220760|1789201917000",
-    "nfl|2505|rotoballer|220926|1789302906000",
-    "nfl|2505|rotowire|637058|1789318600000",
-    "nfl|4035|fantasy_pros|607593|1789314654864",
-    "nfl|4035|rotoballer|220915|1789300206000",
-    "nfl|4035|rotowire|637021|1789313959000",
-    "nfl|4574|fantasy_pros|607594|1789314654854",
-    "nfl|4574|rotowire|637016|1789313606000",
-    "nfl|5850|rotoballer|220909|1789297745000",
-    "nfl|5850|rotoballer|220910|1789298227000",
-    "nfl|5850|rotowire|637012|1789312159000",
-    "nfl|5859|rotoballer|220927|1789303501000",
-    "nfl|6797|rotoballer|220928|1789303745000",
-    "nfl|8142|fantasy_pros|607583|1789312254458",
-    "nfl|8142|rotoballer|220906|1789296727000",
-    "nfl|8142|rotowire|637011|1789311537000",
-    "nfl|8167|rotoballer|220930|1789305730000",
-    "nfl|9487|rotoballer|220905|1789296306000"
+    "nfl|11565|rotowire|637092|1789327684000",
+    "nfl|11628|rotoballer|220931|1789306326000",
+    "nfl|11631|fantasy_pros|607622|1789323056655",
+    "nfl|11631|rotowire|637067|1789322645000",
+    "nfl|11631|rotowire|637076|1789326106000",
+    "nfl|12469|rotoballer|220934|1789307465000",
+    "nfl|12469|rotowire|637065|1789321907000",
+    "nfl|13272|rotowire|637088|1789327282000",
+    "nfl|13276|fantasy_pros|607635|1789326656648",
+    "nfl|13276|rotowire|637060|1789321086000",
+    "nfl|13276|rotowire|637074|1789325874000",
+    "nfl|13287|fantasy_pros|607633|1789326356651",
+    "nfl|13287|rotoballer|220943|1789312205000",
+    "nfl|13287|rotowire|637077|1789326182000",
+    "nfl|13293|fantasy_pros|607636|1789327256688",
+    "nfl|13293|rotowire|637082|1789326710000",
+    "nfl|13347|rotowire|637094|1789327832000",
+    "nfl|5045|rotoballer|220941|1789310893000",
+    "nfl|5927|rotoballer|220937|1789309086000",
+    "nfl|9754|rotoballer|220935|1789307344000",
+    "nfl|9997|fantasy_pros|607632|1789325456637",
+    "nfl|9997|rotoballer|220939|1789310645000",
+    "nfl|9997|rotowire|637071|1789325025000"
   ],
   "schema_version": 1,
   "source": {
@@ -53,6 +35,331 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Claiborne, a sixth-round selection of the Vikings in the 2026 NFL Draft, will have to wait until Week 2 against the Bears on Sunday, Sept. 20, to make his regular-season debut. With Claiborne inactive for Week 1, DeeJay Dallas will serve as the Vikings' RB3 behind Aaron Jones and Jordan Mason.",
+      "description": "Claiborne (coach's decision) is inactive for Sunday's game against the Packers, Craig Peters of the Vikings' official site reports.",
+      "metadata": {
+        "analysis": "Claiborne, a sixth-round selection of the Vikings in the 2026 NFL Draft, will have to wait until Week 2 against the Bears on Sunday, Sept. 20, to make his regular-season debut. With Claiborne inactive for Week 1, DeeJay Dallas will serve as the Vikings' RB3 behind Aaron Jones and Jordan Mason.",
+        "description": "Claiborne (coach's decision) is inactive for Sunday's game against the Packers, Craig Peters of the Vikings' official site reports.",
+        "title": "Demond Claiborne - Won't make NFL debut Week 1",
+        "topic_id": "1404947749648011264"
+      },
+      "nfl_team": "MIN",
+      "player_id": "13347",
+      "player_name": "Demond Claiborne",
+      "position": "RB",
+      "published": 1789327832000,
+      "source": "rotowire",
+      "source_key": "637094",
+      "story_id": "nfl|13347|rotowire|637094|1789327832000",
+      "title": "Demond Claiborne - Won't make NFL debut Week 1",
+      "url": null
+    },
+    {
+      "analysis": "McCarthy lost out to Kyler Murray for the starting job in training camp, and head coach Kevin O'Connell opted to go with Carson Wentz as the backup in Week 1. As the emergency third quarterback, McCarthy is not allowed to play Sunday unless both Murray and Wentz are removed from the game due to injury, illness or ejection.",
+      "description": "McCarthy (coach's decision) is inactive but will serve as the Vikings' emergency third quarterback against the Packers on Sunday, Craig Peters of the Vikings' official site reports.",
+      "metadata": {
+        "analysis": "McCarthy lost out to Kyler Murray for the starting job in training camp, and head coach Kevin O'Connell opted to go with Carson Wentz as the backup in Week 1. As the emergency third quarterback, McCarthy is not allowed to play Sunday unless both Murray and Wentz are removed from the game due to injury, illness or ejection.",
+        "description": "McCarthy (coach's decision) is inactive but will serve as the Vikings' emergency third quarterback against the Packers on Sunday, Craig Peters of the Vikings' official site reports.",
+        "title": "J.J. McCarthy - Serving as emergency QB3",
+        "topic_id": "1404946493089062912"
+      },
+      "nfl_team": "MIN",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1789327684000,
+      "source": "rotowire",
+      "source_key": "637092",
+      "story_id": "nfl|11565|rotowire|637092|1789327684000",
+      "title": "J.J. McCarthy - Serving as emergency QB3",
+      "url": null
+    },
+    {
+      "analysis": "Beck will be the emergency third option behind Jacoby Brissett and Gardner Minshew. Beck will only enter the game if both active quarterbacks cannot continue to play. The rookie out of Miami will likely fill this role for the first few weeks of the season.",
+      "description": "Beck (coach's decision) is inactive as the emergency third quarterback for Sunday's game against the Chargers.",
+      "metadata": {
+        "analysis": "Beck will be the emergency third option behind Jacoby Brissett and Gardner Minshew. Beck will only enter the game if both active quarterbacks cannot continue to play. The rookie out of Miami will likely fill this role for the first few weeks of the season.",
+        "description": "Beck (coach's decision) is inactive as the emergency third quarterback for Sunday's game against the Chargers.",
+        "title": "Carson Beck - Emergency QB to start season",
+        "topic_id": "1404945234529390592"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13272",
+      "player_name": "Carson Beck",
+      "position": "QB",
+      "published": 1789327282000,
+      "source": "rotowire",
+      "source_key": "637088",
+      "story_id": "nfl|13272|rotowire|637088|1789327282000",
+      "title": "Carson Beck - Emergency QB to start season",
+      "url": null
+    },
+    {
+      "analysis": "Lane joins fellow wideout Zay Flowers (hamstring) on the sidelines for new head coach Jesse Minter, catching one of his three targets for 11 receiving yards prior to exiting. Rashod Bateman should command even more targets in the second half from quarterback Lamar Jackson in Week 1.",
+      "description": "Ja'Kobi Lane (wrist) has been ruled out for the Baltimore Ravens against the Indianapolis Colts according to Ian Rapoport.",
+      "metadata": {
+        "analysis": "Lane joins fellow wideout Zay Flowers (hamstring) on the sidelines for new head coach Jesse Minter, catching one of his three targets for 11 receiving yards prior to exiting. Rashod Bateman should command even more targets in the second half from quarterback Lamar Jackson in Week 1.",
+        "description": "Ja'Kobi Lane (wrist) has been ruled out for the Baltimore Ravens against the Indianapolis Colts according to Ian Rapoport.",
+        "title": "Ja'Kobi Lane (wrist) ruled out Sunday",
+        "topic_id": "1404943979799199744",
+        "url": "https://www.fantasypros.com/nfl/news/607636/jakobi-lane-wrist-ruled-out-sunday.php"
+      },
+      "nfl_team": "BAL",
+      "player_id": "13293",
+      "player_name": "Ja'Kobi Lane",
+      "position": "WR",
+      "published": 1789327256688,
+      "source": "fantasy_pros",
+      "source_key": "607636",
+      "story_id": "nfl|13293|fantasy_pros|607636|1789327256688",
+      "title": "Ja'Kobi Lane (wrist) ruled out Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/607636/jakobi-lane-wrist-ruled-out-sunday.php"
+    },
+    {
+      "analysis": "The rookie's early exit could force the Ravens to finish the season opener with just three receivers; Devontez Walker (groin) and Elijah Sarratt (coach's decision) are inactive for the contest, while Zay Flowers is questionable to return after tweaking his hamstring in the first half. Lane had a quiet showing in his injury-shortened NFL debut, finishing the day with an 11-yard reception on three targets.",
+      "description": "The Ravens announced that Lane has been ruled out for the remainder of Sunday's game against the Colts due to a wrist injury.",
+      "metadata": {
+        "analysis": "The rookie's early exit could force the Ravens to finish the season opener with just three receivers; Devontez Walker (groin) and Elijah Sarratt (coach's decision) are inactive for the contest, while Zay Flowers is questionable to return after tweaking his hamstring in the first half. Lane had a quiet showing in his injury-shortened NFL debut, finishing the day with an 11-yard reception on three targets.",
+        "description": "The Ravens announced that Lane has been ruled out for the remainder of Sunday's game against the Colts due to a wrist injury.",
+        "title": "Ja'Kobi Lane - Leaves early with wrist injury",
+        "topic_id": "1404942716483244032"
+      },
+      "nfl_team": "BAL",
+      "player_id": "13293",
+      "player_name": "Ja'Kobi Lane",
+      "position": "WR",
+      "published": 1789326710000,
+      "source": "rotowire",
+      "source_key": "637082",
+      "story_id": "nfl|13293|rotowire|637082|1789326710000",
+      "title": "Ja'Kobi Lane - Leaves early with wrist injury",
+      "url": null
+    },
+    {
+      "analysis": "Cooper had a nice 30 yard snag in this game, but was taken off the field on a cart. Fantasy managers will need to monitor his situation as details come through.",
+      "description": "Omar Cooper Jr. (ankle) has been ruled out for the remainder of the Jets game against the Titans.",
+      "metadata": {
+        "analysis": "Cooper had a nice 30 yard snag in this game, but was taken off the field on a cart. Fantasy managers will need to monitor his situation as details come through.",
+        "description": "Omar Cooper Jr. (ankle) has been ruled out for the remainder of the Jets game against the Titans.",
+        "title": "Omar Cooper Jr. (ankle) ruled out with an ankle injury jury",
+        "topic_id": "1404941463044857856",
+        "url": "https://www.fantasypros.com/nfl/news/607635/omar-cooper-jr-ankle-ruled-out-with-ankle-injury-jury.php"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13276",
+      "player_name": "Omar Cooper",
+      "position": "WR",
+      "published": 1789326656648,
+      "source": "fantasy_pros",
+      "source_key": "607635",
+      "story_id": "nfl|13276|fantasy_pros|607635|1789326656648",
+      "title": "Omar Cooper Jr. (ankle) ruled out with an ankle injury jury",
+      "url": "https://www.fantasypros.com/nfl/news/607635/omar-cooper-jr-ankle-ruled-out-with-ankle-injury-jury.php"
+    },
+    {
+      "analysis": "Love is good to go after clearing through pregame activities without any setbacks from the injured ankle, with the rookie running back set to share the backfield with free agent Tyler Allgeier against the Chargers.",
+      "description": "Jeremiyah Love (ankle) is active for Week 1 for the Arizona Cardinals against the Los Angeles Chargers.",
+      "metadata": {
+        "analysis": "Love is good to go after clearing through pregame activities without any setbacks from the injured ankle, with the rookie running back set to share the backfield with free agent Tyler Allgeier against the Chargers.",
+        "description": "Jeremiyah Love (ankle) is active for Week 1 for the Arizona Cardinals against the Los Angeles Chargers.",
+        "title": "Jeremiyah Love (ankle) active for Week 1",
+        "topic_id": "1404940204766248960",
+        "url": "https://www.fantasypros.com/nfl/news/607633/jeremiyah-love-ankle-active-week-1.php"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1789326356651,
+      "source": "fantasy_pros",
+      "source_key": "607633",
+      "story_id": "nfl|13287|fantasy_pros|607633|1789326356651",
+      "title": "Jeremiyah Love (ankle) active for Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/607633/jeremiyah-love-ankle-active-week-1.php"
+    },
+    {
+      "analysis": "Love thus has put the high-ankle sprain that he sustained in preseason Week 1 behind him, but considering he wasn't able to practice in more than a limited capacity this week, there's a decent chance that he won't be operating on all cylinders in his NFL debut. The third overall pick in this year's draft also will have to contend with Tyler Allgeier for work out of the Cardinals backfield, so Love may take some time to fulfill his draft status.",
+      "description": "Love (ankle) is listed as active Sunday at the Chargers.",
+      "metadata": {
+        "analysis": "Love thus has put the high-ankle sprain that he sustained in preseason Week 1 behind him, but considering he wasn't able to practice in more than a limited capacity this week, there's a decent chance that he won't be operating on all cylinders in his NFL debut. The third overall pick in this year's draft also will have to contend with Tyler Allgeier for work out of the Cardinals backfield, so Love may take some time to fulfill his draft status.",
+        "description": "Love (ankle) is listed as active Sunday at the Chargers.",
+        "title": "Jeremiyah Love - Set for NFL debut",
+        "topic_id": "1404940201486204928"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1789326182000,
+      "source": "rotowire",
+      "source_key": "637077",
+      "story_id": "nfl|13287|rotowire|637077|1789326182000",
+      "title": "Jeremiyah Love - Set for NFL debut",
+      "url": null
+    },
+    {
+      "analysis": "Initially labeled questionable to return after he required a trip to the locker room in the second quarter to have his shoulder examined, Thomas was able to return to the field for the Jaguars' final drive of the first half, which ended in a punt.",
+      "description": "Thomas (shoulder) returned to Sunday's game against the Browns late in the second quarter, Michael DiRocco of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Initially labeled questionable to return after he required a trip to the locker room in the second quarter to have his shoulder examined, Thomas was able to return to the field for the Jaguars' final drive of the first half, which ended in a punt.",
+        "description": "Thomas (shoulder) returned to Sunday's game against the Browns late in the second quarter, Michael DiRocco of ESPN.com reports.",
+        "title": "Brian Thomas - Checks back into Sunday's contest",
+        "topic_id": "1404940201452650496"
+      },
+      "nfl_team": "JAX",
+      "player_id": "11631",
+      "player_name": "Brian Thomas",
+      "position": "WR",
+      "published": 1789326106000,
+      "source": "rotowire",
+      "source_key": "637076",
+      "story_id": "nfl|11631|rotowire|637076|1789326106000",
+      "title": "Brian Thomas - Checks back into Sunday's contest",
+      "url": null
+    },
+    {
+      "analysis": "The rookie first-round pick had been listed as questionable to return after injuring his ankle on the Jets' opening drive, shortly after he gained 30 yards on his first NFL reception to set up a touchdown. The Jets should shed more light on the severity of his injury following the game, but for the time being, Cooper's availability for a Week 2 game against the Packers is uncertain.",
+      "description": "The Jets ruled out Cooper (ankle) for the remainder of Sunday's game against the Titans.",
+      "metadata": {
+        "analysis": "The rookie first-round pick had been listed as questionable to return after injuring his ankle on the Jets' opening drive, shortly after he gained 30 yards on his first NFL reception to set up a touchdown. The Jets should shed more light on the severity of his injury following the game, but for the time being, Cooper's availability for a Week 2 game against the Packers is uncertain.",
+        "description": "The Jets ruled out Cooper (ankle) for the remainder of Sunday's game against the Titans.",
+        "title": "Omar Cooper - Debut ends early with ankle injury",
+        "topic_id": "1404938941139857408"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13276",
+      "player_name": "Omar Cooper",
+      "position": "WR",
+      "published": 1789325874000,
+      "source": "rotowire",
+      "source_key": "637074",
+      "story_id": "nfl|13276|rotowire|637074|1789325874000",
+      "title": "Omar Cooper - Debut ends early with ankle injury",
+      "url": null
+    },
+    {
+      "analysis": "Flowers was off to a dynamic start before leaving in the second quarter for head coach Jesse Minter, hauling in five of his six targets for 150 receiving yards and one touchdown prior to exiting. Rashod Bateman and Ja'Kobi Lane would see increased targets if the superstar wideout remains sidelined in the second half for the Ravens.",
+      "description": "Zay Flowers (hamstring) is questionable to return for the Baltimore Ravens against the Indianapolis Colts Sunday the organization announced.",
+      "metadata": {
+        "analysis": "Flowers was off to a dynamic start before leaving in the second quarter for head coach Jesse Minter, hauling in five of his six targets for 150 receiving yards and one touchdown prior to exiting. Rashod Bateman and Ja'Kobi Lane would see increased targets if the superstar wideout remains sidelined in the second half for the Ravens.",
+        "description": "Zay Flowers (hamstring) is questionable to return for the Baltimore Ravens against the Indianapolis Colts Sunday the organization announced.",
+        "title": "Zay Flowers (hamstring) questionable to return Sunday",
+        "topic_id": "1404936429833928704",
+        "url": "https://www.fantasypros.com/nfl/news/607632/zay-flowers-hamstring-questionable-to-return-sunday.php"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1789325456637,
+      "source": "fantasy_pros",
+      "source_key": "607632",
+      "story_id": "nfl|9997|fantasy_pros|607632|1789325456637",
+      "title": "Zay Flowers (hamstring) questionable to return Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/607632/zay-flowers-hamstring-questionable-to-return-sunday.php"
+    },
+    {
+      "analysis": "Before checking out of the game midway through the second quarter, Flowers was on his way to a huge day with five receptions for 150 yards and a touchdown on six targets. The Ravens will evaluate Flowers in the locker room during halftime before updating his status prior to the start of third quarter. Given that Flowers had been listed with a hamstring issue on the injury report leading up to Sunday's season opener, his day could be done.",
+      "description": "Flowers is questionable to return to Sunday's game against the .Colts due to a hamstring injury, Ryan Mink of the Ravens' official site reports.",
+      "metadata": {
+        "analysis": "Before checking out of the game midway through the second quarter, Flowers was on his way to a huge day with five receptions for 150 yards and a touchdown on six targets. The Ravens will evaluate Flowers in the locker room during halftime before updating his status prior to the start of third quarter. Given that Flowers had been listed with a hamstring issue on the injury report leading up to Sunday's season opener, his day could be done.",
+        "description": "Flowers is questionable to return to Sunday's game against the .Colts due to a hamstring injury, Ryan Mink of the Ravens' official site reports.",
+        "title": "Zay Flowers - Tweaks hamstring Sunday",
+        "topic_id": "1404935166048100352"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1789325025000,
+      "source": "rotowire",
+      "source_key": "637071",
+      "story_id": "nfl|9997|rotowire|637071|1789325025000",
+      "title": "Zay Flowers - Tweaks hamstring Sunday",
+      "url": null
+    },
+    {
+      "analysis": "Thomas Jr. suffered the apparent shoulder injury in the second quarter of the Week 1 contest, hauling in all three of his targets for 40 yards prior to exiting.",
+      "description": "Brian Thomas Jr. (shoulder) is questionable to return for the Jacksonville Jaguars against the Cleveland Browns.",
+      "metadata": {
+        "analysis": "Thomas Jr. suffered the apparent shoulder injury in the second quarter of the Week 1 contest, hauling in all three of his targets for 40 yards prior to exiting.",
+        "description": "Brian Thomas Jr. (shoulder) is questionable to return for the Jacksonville Jaguars against the Cleveland Browns.",
+        "title": "Brian Thomas Jr. (shoulder) questionable to return ",
+        "topic_id": "1404926363579723776",
+        "url": "https://www.fantasypros.com/nfl/news/607622/brian-thomas-jr-shoulder-questionable-to-return.php"
+      },
+      "nfl_team": "JAX",
+      "player_id": "11631",
+      "player_name": "Brian Thomas",
+      "position": "WR",
+      "published": 1789323056655,
+      "source": "fantasy_pros",
+      "source_key": "607622",
+      "story_id": "nfl|11631|fantasy_pros|607622|1789323056655",
+      "title": "Brian Thomas Jr. (shoulder) questionable to return ",
+      "url": "https://www.fantasypros.com/nfl/news/607622/brian-thomas-jr-shoulder-questionable-to-return.php"
+    },
+    {
+      "analysis": "Thomas reached a major milestone during Sunday's game, becoming the second-youngest player in Jaguars franchise history to surpass 2,000 career receiving yards after reeling in three receptions for 40 yards on three targets. However, Thomas may not be able to build on that total for the rest of the contest, as he headed to the locker room in the second quarter with trainers by his side, per John Shipley of SI.com. He'll get his shoulder examined further before the Jaguars decide if he's able to return.",
+      "description": "Thomas is questionable to return to Sunday's game against the Browns due to a shoulder injury.",
+      "metadata": {
+        "analysis": "Thomas reached a major milestone during Sunday's game, becoming the second-youngest player in Jaguars franchise history to surpass 2,000 career receiving yards after reeling in three receptions for 40 yards on three targets. However, Thomas may not be able to build on that total for the rest of the contest, as he headed to the locker room in the second quarter with trainers by his side, per John Shipley of SI.com. He'll get his shoulder examined further before the Jaguars decide if he's able to return.",
+        "description": "Thomas is questionable to return to Sunday's game against the Browns due to a shoulder injury.",
+        "title": "Brian Thomas - Managing shoulder injury",
+        "topic_id": "1404925099252944896"
+      },
+      "nfl_team": "JAX",
+      "player_id": "11631",
+      "player_name": "Brian Thomas",
+      "position": "WR",
+      "published": 1789322645000,
+      "source": "rotowire",
+      "source_key": "637067",
+      "story_id": "nfl|11631|rotowire|637067|1789322645000",
+      "title": "Brian Thomas - Managing shoulder injury",
+      "url": null
+    },
+    {
+      "analysis": "Sampson was initially deemed questionable to return after injuring his knee in the first quarter, but after making a visit to the medical tent on the sideline followed by two trips to the locker room, the Browns determined that his day is over, per Daniel Oyefusi of ESPN.com. His absence leaves Cleveland with Raheim Sanders as its lone backup behind starter Quinshon Judkins for the remainder of the game. Sampson didn't receive any touches on offense but gained 64 yards on two kickoff returns prior to his departure.",
+      "description": "Sampson (knee) has been downgraded to out for Sunday's game against the Jaguars.",
+      "metadata": {
+        "analysis": "Sampson was initially deemed questionable to return after injuring his knee in the first quarter, but after making a visit to the medical tent on the sideline followed by two trips to the locker room, the Browns determined that his day is over, per Daniel Oyefusi of ESPN.com. His absence leaves Cleveland with Raheim Sanders as its lone backup behind starter Quinshon Judkins for the remainder of the game. Sampson didn't receive any touches on offense but gained 64 yards on two kickoff returns prior to his departure.",
+        "description": "Sampson (knee) has been downgraded to out for Sunday's game against the Jaguars.",
+        "title": "Dylan Sampson - Won't return to Sunday's contest",
+        "topic_id": "1404922582133702656"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12469",
+      "player_name": "Dylan Sampson",
+      "position": "RB",
+      "published": 1789321907000,
+      "source": "rotowire",
+      "source_key": "637065",
+      "story_id": "nfl|12469|rotowire|637065|1789321907000",
+      "title": "Dylan Sampson - Won't return to Sunday's contest",
+      "url": null
+    },
+    {
+      "analysis": "Per Zack Rosenblatt of The Athletic, the rookie first-round pick opened the game as the Jets' starting slot receiver and made an instant impact on the first drive, breaking free for a 30-yard catch and run that set up a Kenyon Sadiq touchdown run. Cooper may have tweaked his ankle on that play, however, as his availability for the remainder of Week 1 is now in question.",
+      "description": "Cooper sustained an ankle injury in the first quarter of Sunday's game against the Titans and is questionable to return.",
+      "metadata": {
+        "analysis": "Per Zack Rosenblatt of The Athletic, the rookie first-round pick opened the game as the Jets' starting slot receiver and made an instant impact on the first drive, breaking free for a 30-yard catch and run that set up a Kenyon Sadiq touchdown run. Cooper may have tweaked his ankle on that play, however, as his availability for the remainder of Week 1 is now in question.",
+        "description": "Cooper sustained an ankle injury in the first quarter of Sunday's game against the Titans and is questionable to return.",
+        "title": "Omar Cooper - Tweaks ankle, uncertain to return",
+        "topic_id": "1404918806958149632"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13276",
+      "player_name": "Omar Cooper",
+      "position": "WR",
+      "published": 1789321086000,
+      "source": "rotowire",
+      "source_key": "637060",
+      "story_id": "nfl|13276|rotowire|637060|1789321086000",
+      "title": "Omar Cooper - Tweaks ankle, uncertain to return",
+      "url": null
+    },
     {
       "analysis": "Sampson didn't receive any touches on offense but returned two kickoffs for 64 yards before exiting the contest. The second-year running back headed to the locker room and will be evaluated further before the Browns decide whether he'll be able to return to the game.",
       "description": "Sampson sustained a knee injury in the first quarter of Sunday's game against the Jaguars and is considered questionable to return, Mary Kay Cabot of The Cleveland Plain Dealer reports.",
@@ -379,6 +686,26 @@
       "url": "https://www.fantasypros.com/nfl/news/607583/alec-pierce-heel-on-snap-count-week-1.php"
     },
     {
+      "analysis": null,
+      "description": "Arizona Cardinals rookie first-round running back Jeremiyah Love (ankle) is officially active against the Los Angeles Chargers. The rookie had been questionable after missing nearly a month with a high ankle sprain, but he returned to practice this week and will make his NFL debut. The bigger question is how much work Love gets right away. Tyler Allgeier is listed ahead of him on Arizona's depth chart and should remain involved, so fantasy managers may want to temper expectations for Love in his first regular-season game.",
+      "metadata": {
+        "description": "Arizona Cardinals rookie first-round running back Jeremiyah Love (ankle) is officially active against the Los Angeles Chargers. The rookie had been questionable after missing nearly a month with a high ankle sprain, but he returned to practice this week and will make his NFL debut. The bigger question is how much work Love gets right away. Tyler Allgeier is listed ahead of him on Arizona's depth chart and should remain involved, so fantasy managers may want to temper expectations for Love in his first regular-season game.",
+        "title": "Jeremiyah Love Active for NFL Debut",
+        "topic_id": "1404943972597600256",
+        "url": "https://www.rotoballer.com/player-news/jeremiyah-love-active-for-nfl-debut/1930402"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1789312205000,
+      "source": "rotoballer",
+      "source_key": "220943",
+      "story_id": "nfl|13287|rotoballer|220943|1789312205000",
+      "title": "Jeremiyah Love Active for NFL Debut",
+      "url": "https://www.rotoballer.com/player-news/jeremiyah-love-active-for-nfl-debut/1930402"
+    },
+    {
       "analysis": "Jacobs made an appearance in court Thursday and pleaded no contest to misdemeanor charges of battery and criminal damage to property in a case stemming from a May domestic violence incident. There still are some moving parts related to the case, so it's unclear when exactly the NFL may issue a suspension, but Jacobs will continue to miss practices and games as long as he's on the Commissioner's Exempt List.",
       "description": "Jacobs (personal) remains on the Commissioner's Exempt List, but the NFL may count time on the list as time served if it eventually issues a suspension to the running back, Adam Schefter of ESPN reports.",
       "metadata": {
@@ -460,6 +787,46 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Courtland Sutton is still usable Monday night against Kansas City, but he is no longer an automatic fantasy start. Sutton caught 74 passes for 1,017 yards and seven touchdowns last season, though Denver has since added Jaylen Waddle to a receiving room that also includes a rising Pat Bryant. That makes the target split harder to trust right away. Kansas City does not make things any easier. Sutton was held to four catches in both meetings with the Chiefs last season, finishing with 59 yards in one and 40 in the other without scoring. RotoBaller has Sutton at WR38 for Week 1 and lists him as a risky start for Monday night. There is still touchdown upside, and Sutton should remain involved near the goal line, but fantasy managers with another solid WR3 or flex option can leave him on the bench. He is more of a matchup-dependent flex than a receiver who needs to be forced into lineups.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Courtland Sutton is still usable Monday night against Kansas City, but he is no longer an automatic fantasy start. Sutton caught 74 passes for 1,017 yards and seven touchdowns last season, though Denver has since added Jaylen Waddle to a receiving room that also includes a rising Pat Bryant. That makes the target split harder to trust right away. Kansas City does not make things any easier. Sutton was held to four catches in both meetings with the Chiefs last season, finishing with 59 yards in one and 40 in the other without scoring. RotoBaller has Sutton at WR38 for Week 1 and lists him as a risky start for Monday night. There is still touchdown upside, and Sutton should remain involved near the goal line, but fantasy managers with another solid WR3 or flex option can leave him on the bench. He is more of a matchup-dependent flex than a receiver who needs to be forced into lineups.",
+        "title": "Courtland Sutton a Risky Flex for Week 1",
+        "topic_id": "1404937681292603392",
+        "url": "https://www.rotoballer.com/player-news/courtland-sutton-a-risky-flex-for-week-1/1930396"
+      },
+      "nfl_team": "DEN",
+      "player_id": "5045",
+      "player_name": "Courtland Sutton",
+      "position": "WR",
+      "published": 1789310893000,
+      "source": "rotoballer",
+      "source_key": "220941",
+      "story_id": "nfl|5045|rotoballer|220941|1789310893000",
+      "title": "Courtland Sutton a Risky Flex for Week 1",
+      "url": "https://www.rotoballer.com/player-news/courtland-sutton-a-risky-flex-for-week-1/1930396"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Zay Flowers (hamstring) is questionable to return against the Indianapolis Colts. Flowers had five catches for 150 yards and a touchdown before leaving, including a 54-yard score in the second quarter. Rashod Bateman becomes Baltimore's top healthy wideout if Flowers can't make it back, while rookie Ja'Kobi Lane could pick up additional snaps with the Ravens already thin at receiver.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Zay Flowers (hamstring) is questionable to return against the Indianapolis Colts. Flowers had five catches for 150 yards and a touchdown before leaving, including a 54-yard score in the second quarter. Rashod Bateman becomes Baltimore's top healthy wideout if Flowers can't make it back, while rookie Ja'Kobi Lane could pick up additional snaps with the Ravens already thin at receiver.",
+        "title": "Zay Flowers Questionable to Return With Hamstring Injury",
+        "topic_id": "1404936422120574976",
+        "url": "https://www.rotoballer.com/player-news/zay-flowers-questionable-to-return-with-hamstring-injury/1930393"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1789310645000,
+      "source": "rotoballer",
+      "source_key": "220939",
+      "story_id": "nfl|9997|rotoballer|220939|1789310645000",
+      "title": "Zay Flowers Questionable to Return With Hamstring Injury",
+      "url": "https://www.rotoballer.com/player-news/zay-flowers-questionable-to-return-with-hamstring-injury/1930393"
+    },
+    {
       "analysis": "Nabers was able to practice without limitations during Week 1 prep, but he took a 'questionable' tag into the weekend after a week in which both he and head coach John Harbaugh were non-committal about the wide receiver's potential to play Sunday. Nabers himself told Evan Barnes of Newsday on Thursday that he had to weigh the long-term implications when he eventually returns from the torn ACL and meniscus that he suffered in his right knee Week 4 of last season. The Giants play on Sunday Night Football in Week 1, so if Nabers is listed as inactive, fantasy managers won't have many options to turn to for scoring purposes between SNF and MNF. New York brought two WRs (Braxton Berrios and Dalen Cambre) off its practice squad Saturday to join Malachi Fields, Darnell Mooney and Odell Beckham, likely with a potential absence from Nabers in mind.",
       "description": "Nabers' (knee) status for Sunday's game against the Cowboys remains \"murky at best,\" Adam Schefter of ESPN reports.",
       "metadata": {
@@ -478,6 +845,26 @@
       "story_id": "nfl|11632|rotowire|637009|1789310583000",
       "title": "Malik Nabers - Status remains unknown for Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders wide receiver Terry McLaurin should stay in fantasy lineups Sunday against Philadelphia, even if the matchup lowers the ceiling a bit. McLaurin played only 10 games last season but still caught 38 passes for 582 yards and three touchdowns on 60 targets. He enters Week 1 healthy and remains the favorite to lead Washington's receivers in targets, though Stefon Diggs gives Jayden Daniels another proven option underneath. Philadelphia was brutal on wide receivers in 2025, allowing just 2,302 receiving yards and six touchdowns to the position. McLaurin has at least handled this matchup well over the years, averaging 4.9 catches and 71.9 yards across 15 career games against the Eagles with six touchdowns. RotoBaller has him at WR26 for Week 1. That keeps him in the WR2 range, but this is more of a floor play than a spot to chase a huge ceiling game.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Terry McLaurin should stay in fantasy lineups Sunday against Philadelphia, even if the matchup lowers the ceiling a bit. McLaurin played only 10 games last season but still caught 38 passes for 582 yards and three touchdowns on 60 targets. He enters Week 1 healthy and remains the favorite to lead Washington's receivers in targets, though Stefon Diggs gives Jayden Daniels another proven option underneath. Philadelphia was brutal on wide receivers in 2025, allowing just 2,302 receiving yards and six touchdowns to the position. McLaurin has at least handled this matchup well over the years, averaging 4.9 catches and 71.9 yards across 15 career games against the Eagles with six touchdowns. RotoBaller has him at WR26 for Week 1. That keeps him in the WR2 range, but this is more of a floor play than a spot to chase a huge ceiling game.",
+        "title": "Terry McLaurin Remains a WR2 Despite Tough Matchup",
+        "topic_id": "1404930130547085312",
+        "url": "https://www.rotoballer.com/player-news/terry-mclaurin-remains-a-wr2-despite-tough-matchup/1930388"
+      },
+      "nfl_team": "WAS",
+      "player_id": "5927",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
+      "published": 1789309086000,
+      "source": "rotoballer",
+      "source_key": "220937",
+      "story_id": "nfl|5927|rotoballer|220937|1789309086000",
+      "title": "Terry McLaurin Remains a WR2 Despite Tough Matchup",
+      "url": "https://www.rotoballer.com/player-news/terry-mclaurin-remains-a-wr2-despite-tough-matchup/1930388"
     },
     {
       "analysis": "Jackson is focused on football entering the 2026-27 season under a new Baltimore Ravens coaching staff, as the superstar quarterback is poised for another elite season behind center barring injury while also offering fantasy managers explosive production as a high-level QB1 in all formats with an intriguing Week 1 contest against the Indianapolis Colts ahead.",
@@ -625,6 +1012,46 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Cleveland Browns running back Dylan Sampson (knee) has been ruled out for the rest of Sunday's game against the Jacksonville Jaguars. Sampson was injured early in the first quarter and didn't record an offensive touch before leaving. He did return two kickoffs for 64 yards, including a 37-yard return on the opening kick. With Sampson done for the afternoon, Raheim Sanders is the next back up behind Quinshon Judkins.",
+      "metadata": {
+        "description": "Cleveland Browns running back Dylan Sampson (knee) has been ruled out for the rest of Sunday's game against the Jacksonville Jaguars. Sampson was injured early in the first quarter and didn't record an offensive touch before leaving. He did return two kickoffs for 64 yards, including a 37-yard return on the opening kick. With Sampson done for the afternoon, Raheim Sanders is the next back up behind Quinshon Judkins.",
+        "title": "Dylan Sampson Ruled Out With Knee Injury",
+        "topic_id": "1404922578933465088",
+        "url": "https://www.rotoballer.com/player-news/dylan-sampson-ruled-out-with-knee-injury/1930378"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12469",
+      "player_name": "Dylan Sampson",
+      "position": "RB",
+      "published": 1789307465000,
+      "source": "rotoballer",
+      "source_key": "220934",
+      "story_id": "nfl|12469|rotoballer|220934|1789307465000",
+      "title": "Dylan Sampson Ruled Out With Knee Injury",
+      "url": "https://www.rotoballer.com/player-news/dylan-sampson-ruled-out-with-knee-injury/1930378"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers wide receiver Quentin Johnston is worth starting in Week 1 against Arizona. He is listed as a starter opposite Ladd McConkey after catching 51 passes for 735 yards and eight touchdowns in 14 games last season. Keenan Allen is gone, which leaves more work available, and Johnston already flashed in Mike McDaniel's offense with a 65-yard touchdown from Justin Herbert in the preseason finale. Arizona allowed 3,923 passing yards and 31 touchdowns through the air in 2025, so there should be chances for Johnston to hit on another big play. RotoBaller has him at WR39 in its latest Week 1 rankings, but the site's current start/sit coverage has specifically highlighted him as a start with WR2 upside. McConkey is still the safer bet for targets, so Johnston is not without risk. Still, the matchup and scoring upside make him a strong flex option for Sunday.",
+      "metadata": {
+        "description": "Los Angeles Chargers wide receiver Quentin Johnston is worth starting in Week 1 against Arizona. He is listed as a starter opposite Ladd McConkey after catching 51 passes for 735 yards and eight touchdowns in 14 games last season. Keenan Allen is gone, which leaves more work available, and Johnston already flashed in Mike McDaniel's offense with a 65-yard touchdown from Justin Herbert in the preseason finale. Arizona allowed 3,923 passing yards and 31 touchdowns through the air in 2025, so there should be chances for Johnston to hit on another big play. RotoBaller has him at WR39 in its latest Week 1 rankings, but the site's current start/sit coverage has specifically highlighted him as a start with WR2 upside. McConkey is still the safer bet for targets, so Johnston is not without risk. Still, the matchup and scoring upside make him a strong flex option for Sunday.",
+        "title": "Quentin Johnston Brings WR2 Upside in Week 1",
+        "topic_id": "1404922578925076480",
+        "url": "https://www.rotoballer.com/player-news/quentin-johnston-brings-wr2-upside-in-week-1/1930375"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9754",
+      "player_name": "Quentin Johnston",
+      "position": "WR",
+      "published": 1789307344000,
+      "source": "rotoballer",
+      "source_key": "220935",
+      "story_id": "nfl|9754|rotoballer|220935|1789307344000",
+      "title": "Quentin Johnston Brings WR2 Upside in Week 1",
+      "url": "https://www.rotoballer.com/player-news/quentin-johnston-brings-wr2-upside-in-week-1/1930375"
+    },
+    {
       "analysis": "Stribling saw plenty of playing time early in his NFL debut during Thursday's 27-7 win over the Rams, drawing no targets but taking the field for 21 of the team's first 26 offensive snaps before going down with an injury. Initial tests ruled out an Achilles injury for Stribling, but the second-round rookie will still require some down time as a result of the ankle sprain. According to Rapoport, Stribling is seeking multiple medical opinions on his injury, and while surgery isn't yet planned, the 49ers haven't dismissed the possibility of the wideout needing an operation. The 49ers will likely hold off on placing Stribling on injured reserve until a decision is made on a treatment plan.",
       "description": "Stribling (ankle) is expected to miss at least one month after he was diagnosed Sunday with a deltoid sprain of his left ankle, Ian Rapoport of NFL Network reports.",
       "metadata": {
@@ -663,6 +1090,26 @@
       "story_id": "nfl|11559|rotowire|637005|1789306668000",
       "title": "Michael Penix - Eyeing return for Week 2 or 3",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals wide receiver Marvin Harrison Jr. is healthy again, but Week 1 is not an easy spot to trust him against the Chargers. Harrison finished last season with 41 catches for 608 yards and four touchdowns in 12 games, and Arizona has spent the offseason finding more ways to move him around in Mike LaFleur's offense. The target competition has not gone away. Trey McBride dominated targets last year, Michael Wilson broke 1,000 yards, and rookie Jeremiyah Love gives the Cardinals another player they will want involved. Los Angeles was also one of the NFL's tougher pass defenses in 2025, allowing only 16 passing touchdowns. RotoBaller still has Harrison at WR31 for Week 1, but its latest start/sit guidance recommends sitting him. There is upside if Arizona falls behind and Jacoby Brissett has to throw, but fantasy managers with a safer WR3 or flex option should use it.",
+      "metadata": {
+        "description": "Arizona Cardinals wide receiver Marvin Harrison Jr. is healthy again, but Week 1 is not an easy spot to trust him against the Chargers. Harrison finished last season with 41 catches for 608 yards and four touchdowns in 12 games, and Arizona has spent the offseason finding more ways to move him around in Mike LaFleur's offense. The target competition has not gone away. Trey McBride dominated targets last year, Michael Wilson broke 1,000 yards, and rookie Jeremiyah Love gives the Cardinals another player they will want involved. Los Angeles was also one of the NFL's tougher pass defenses in 2025, allowing only 16 passing touchdowns. RotoBaller still has Harrison at WR31 for Week 1, but its latest start/sit guidance recommends sitting him. There is upside if Arizona falls behind and Jacoby Brissett has to throw, but fantasy managers with a safer WR3 or flex option should use it.",
+        "title": "Marvin Harrison Jr. Carries Too Much Risk in Week 1",
+        "topic_id": "1404918803665616896",
+        "url": "https://www.rotoballer.com/player-news/marvin-harrison-jr-carries-too-much-risk-in-week-1/1930360"
+      },
+      "nfl_team": "ARI",
+      "player_id": "11628",
+      "player_name": "Marvin Harrison",
+      "position": "WR",
+      "published": 1789306326000,
+      "source": "rotoballer",
+      "source_key": "220931",
+      "story_id": "nfl|11628|rotoballer|220931|1789306326000",
+      "title": "Marvin Harrison Jr. Carries Too Much Risk in Week 1",
+      "url": "https://www.rotoballer.com/player-news/marvin-harrison-jr-carries-too-much-risk-in-week-1/1930360"
     },
     {
       "analysis": null,
@@ -59119,47 +59566,6 @@
       "story_id": "nfl|9504|rotowire|633542|1786738942000",
       "title": "Kayshon Boutte - Not targeted in preseason opener",
       "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Washington Commanders tight end Chig Okonkwo is not suiting up for Friday's preseason opener against the Miami Dolphins, according to The Athletic's Ben Standig. Okonkwo will have to wait at least another week before potentially making his debut with the Commanders after they signed him to a three-year, $27 million deal in free agency earlier this year. In his four seasons in Tennessee with the Titans, the 26-year-old had a total of 194 receptions for 2,017 yards and eight touchdowns on 272 targets across 68 games played. He had a career-high 560 receiving yards and a career-high 56 catches a year ago, despite sharing valuable playing time with rookie Gunnar Helm. The former fourth-rounder from the University of Maryland will have a much higher ceiling in Washington as long as QB Jayden Daniels can stay healthy, and he could be the team's No. 3 target behind receivers Terry McLaurin and Stefon Diggs. If you decide to wait on the TE position in fantasy drafts, Okonkwo is a nice sleeper to target later on.",
-      "metadata": {
-        "description": "Washington Commanders tight end Chig Okonkwo is not suiting up for Friday's preseason opener against the Miami Dolphins, according to The Athletic's Ben Standig. Okonkwo will have to wait at least another week before potentially making his debut with the Commanders after they signed him to a three-year, $27 million deal in free agency earlier this year. In his four seasons in Tennessee with the Titans, the 26-year-old had a total of 194 receptions for 2,017 yards and eight touchdowns on 272 targets across 68 games played. He had a career-high 560 receiving yards and a career-high 56 catches a year ago, despite sharing valuable playing time with rookie Gunnar Helm. The former fourth-rounder from the University of Maryland will have a much higher ceiling in Washington as long as QB Jayden Daniels can stay healthy, and he could be the team's No. 3 target behind receivers Terry McLaurin and Stefon Diggs. If you decide to wait on the TE position in fantasy drafts, Okonkwo is a nice sleeper to target later on.",
-        "title": "Chig Okonkwo Sitting Out With Rest of Starters",
-        "topic_id": "1394122623901794304",
-        "url": "https://www.rotoballer.com/player-news/chig-okonkwo-sitting-out-with-rest-of-starters/1909145"
-      },
-      "nfl_team": "WAS",
-      "player_id": "8210",
-      "player_name": "Chig Okonkwo",
-      "position": "TE",
-      "published": 1786732326000,
-      "source": "rotoballer",
-      "source_key": "218618",
-      "story_id": "nfl|8210|rotoballer|218618|1786732326000",
-      "title": "Chig Okonkwo Sitting Out With Rest of Starters",
-      "url": "https://www.rotoballer.com/player-news/chig-okonkwo-sitting-out-with-rest-of-starters/1909145"
-    },
-    {
-      "analysis": "Cousins played on the opening drive on Thursday, which resulted in a touchdown pass to Michael Mayer. He remains highly likely to open the season as the starter for Las Vegas. ",
-      "description": "Raiders coach Klint Kubiak said \"it's his job to lose\" when asked about Kirk Cousins' status as QB1 following Thursday's preseason game. ",
-      "metadata": {
-        "analysis": "Cousins played on the opening drive on Thursday, which resulted in a touchdown pass to Michael Mayer. He remains highly likely to open the season as the starter for Las Vegas. ",
-        "description": "Raiders coach Klint Kubiak said \"it's his job to lose\" when asked about Kirk Cousins' status as QB1 following Thursday's preseason game. ",
-        "title": "Kirk Cousins: Starting job is 'his to lose' per HC Klint Kubiak ",
-        "topic_id": "1394053423019589632",
-        "url": "https://www.fantasypros.com/nfl/news/602334/kirk-cousins-starting-job-is-his-to-lose-per-hc-klint-kubiak.php"
-      },
-      "nfl_team": "LV",
-      "player_id": "1166",
-      "player_name": "Kirk Cousins",
-      "position": "QB",
-      "published": 1786730745617,
-      "source": "fantasy_pros",
-      "source_key": "602334",
-      "story_id": "nfl|1166|fantasy_pros|602334|1786730745617",
-      "title": "Kirk Cousins: Starting job is 'his to lose' per HC Klint Kubiak ",
-      "url": "https://www.fantasypros.com/nfl/news/602334/kirk-cousins-starting-job-is-his-to-lose-per-hc-klint-kubiak.php"
     }
   ]
 }
