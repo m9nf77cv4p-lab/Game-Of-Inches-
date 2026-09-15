@@ -20496,12 +20496,12 @@
       ],
       "first_name": "Dylan",
       "full_name": "Dylan Sampson",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Sampson",
       "nfl_team": "CLE",
       "player_id": "12469",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 1
     },
     "12474": {
@@ -24023,8 +24023,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-15T18:58:55Z",
-    "source_fingerprint": "60a98bc7f3ac7fd8ad0242c98dffccd04516aa14276c10df8dcd31068235b040"
+    "last_changed_at": "2026-09-15T22:05:10Z",
+    "source_fingerprint": "ad552cd7a604fa4a9cc808f10c82a5a7e928368ce9684c4acc04f4c825fcc8cb"
   },
   "teams": [
     {
