@@ -115,6 +115,7 @@
     "disable_trades": 0,
     "draft_rounds": 4,
     "faab_suggestions": 0,
+    "last_scored_leg": 1,
     "league_average_match": 0,
     "leg": 1,
     "max_keepers": 1,
