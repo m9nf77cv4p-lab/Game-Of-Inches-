@@ -118,7 +118,9 @@
       "9484",
       "SEA"
     ],
-    "reserve": null,
+    "reserve": [
+      "4943"
+    ],
     "roster_id": 2,
     "settings": {
       "fpts": 163,
