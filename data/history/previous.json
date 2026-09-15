@@ -24071,8 +24071,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-15T05:34:01Z",
-    "source_fingerprint": "458a6fd57101ec0d6cb7fca2c1142d317c7cdce4147c1131efc2802d9e8693b5"
+    "last_changed_at": "2026-09-15T10:24:03Z",
+    "source_fingerprint": "2f1692369b6fc4448e61df6f6ca467a0e62d441699a672ed39769b34f071265d"
   },
   "teams": [
     {
@@ -24189,7 +24189,9 @@
         "9484",
         "SEA"
       ],
-      "reserve_ids": [],
+      "reserve_ids": [
+        "4943"
+      ],
       "roster_id": 2,
       "settings": {
         "fpts": 163,
