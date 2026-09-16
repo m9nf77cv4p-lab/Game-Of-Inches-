@@ -2,64 +2,75 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **3463**
-- Newly captured: **25**
+- Stored stories: **3456**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Dallas Goedert** — Dallas Goedert hauls in two touchdowns in Week 1 win over Commanders (2026-09-15T21:55:55.633000Z)
+- **NEW — Jalen Hurts** — Jalen Hurts tosses three touchdowns in Week 1 win over Commanders (2026-09-15T22:10:54.957000Z)
+  - Hurts made the most of an inconsistent season-opening performance behind center, averaging 14.5 yards per completion in the win. The quarterback will look to reward fantasy managers with more explosive dual-threat production in a favorable Week 2 matchup against the Tennessee Titans.
+  - Source: https://www.fantasypros.com/nfl/news/608210/jalen-hurts-tosses-three-touchdowns-week-1-win-over-commanders.php
+- **NEW — Dontayvion Wicks** — Dontayvion Wicks finds end zone in Week 1 win (2026-09-15T22:05:54.868000Z)
+  - Wicks made the most of his modest target share in the season opener, averaging 36.5 yards per reception in the win. The wideout offers head coach Nick Sirianni another explosive pass-catching option moving forward, with a favorable Week 2 matchup against the Tennessee Titans up next.
+  - Source: https://www.fantasypros.com/nfl/news/608208/dontayvion-wicks-finds-end-zone-week-1-win.php
+- **NEW — Saquon Barkley** — Saquon Barkley leads backfield attack in Week 1 win over Commanders (2026-09-15T22:05:54.848000Z)
+  - Barkley made the most of what the Washington defense gave him, averaging 5.5 yards per carry in the win. The running back will look to offer fantasy managers a dynamic RB1 option in a favorable Week 2 matchup against the Tennessee Titans.
+  - Source: https://www.fantasypros.com/nfl/news/608209/saquon-barkley-leads-backfield-attack-week-1-win-over-commanders.php
+- **Dallas Goedert** — Dallas Goedert hauls in two touchdowns in Week 1 win over Commanders (2026-09-15T21:55:55.633000Z)
   - Goedert made the most of his involvement in the Philadelphia passing attack in the season opener, leading the team in receiving yards in the win. The tight end offers fantasy managers a steady TE1 option entering a favorable Week 2 contest against the Tennessee Titans.
   - Source: https://www.fantasypros.com/nfl/news/608205/dallas-goedert-hauls-two-touchdowns-week-1-win-over-commanders.php
-- **NEW — Makai Lemon** — Makai Lemon quiet in Week 1 (2026-09-15T21:50:56.035000Z)
+- **Makai Lemon** — Makai Lemon quiet in Week 1 (2026-09-15T21:50:56.035000Z)
   - Lemon struggled to find any success in the season opener, as the pass-catcher was bottled up by the Commanders defense in the win. The wideout will look for more impactful output in a favorable Week 2 matchup against the Tennessee Titans.
   - Source: https://www.fantasypros.com/nfl/news/608199/makai-lemon-quiet-week-1.php
-- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane (wrist) expected to undergo surgery, miss one month (2026-09-15T21:50:56.017000Z)
+- **Ja'Kobi Lane** — Ja'Kobi Lane (wrist) expected to undergo surgery, miss one month (2026-09-15T21:50:56.017000Z)
   - Lane could undergo surgery as early as Wednesday. They are hopeful he'll only miss about one month. 
   - Source: https://www.fantasypros.com/nfl/news/608200/jakobi-lane-wrist-expected-to-undergo-surgery-miss-one-month.php
-- **NEW — DeVonta Smith** — DeVonta Smith catches three passes in Week 1 win (2026-09-15T21:50:55.979000Z)
+- **DeVonta Smith** — DeVonta Smith catches three passes in Week 1 win (2026-09-15T21:50:55.979000Z)
   - The wideout was mostly held in check despite leading the team in targets, finishing behind tight end Dallas Goedert and No. 2 wideout Dontayvion Wicks in receiving yards on the win. The wideout remains one of the more explosive options in the Philadelphia passing attack, with an opportunity to get back on track against the Tennessee Titans in Week 2 up next.
   - Source: https://www.fantasypros.com/nfl/news/608203/devonta-smith-catches-three-passes-week-1-win.php
-- **NEW — Tank Bigsby** — Tank Bigsby sees one touch in Week 1 (2026-09-15T21:45:54.802000Z)
+- **Tank Bigsby** — Tank Bigsby sees one touch in Week 1 (2026-09-15T21:45:54.802000Z)
   - Bigsby was more of an afterthought in the Philadelphia ground attack, finishing last on the team in carries. The running back remains more of a handcuff option for No. 1 running back Saquon Barkley ahead of a Week 2 contest against the Tennessee Titans.
   - Source: https://www.fantasypros.com/nfl/news/608196/tank-bigsby-sees-one-touch-week-1.php
-- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane - Expected to undergo wrist surgery (2026-09-15T21:32:33Z)
+- **Ja'Kobi Lane** — Ja'Kobi Lane - Expected to undergo wrist surgery (2026-09-15T21:32:33Z)
   - Lane suffered a fractured wrist in the Ravens' Week 1 win over the Colts on Sunday, and now that he's set for surgery, the rookie wideout is hopeful to miss only "about a month," according to Zenitz. With Zay Flowers (hamstring) also less than 100 percent, the Ravens could be dipping into their wideout depth early in the 2026 campaign. Rashod Bateman, Chris Moore and LaJohntay Wester picked up the slack against Indy, but Devontez Walker (groin) and rookie Elijah Sarratt could join the mix Sunday against the Saints.
-- **NEW — Jayden Daniels** — Jayden Daniels tosses two touchdowns in Week 1 loss to Eagles (2026-09-15T21:20:54.397000Z)
+- **Jayden Daniels** — Jayden Daniels tosses two touchdowns in Week 1 loss to Eagles (2026-09-15T21:20:54.397000Z)
   - Daniels was unable to find much success against a stout Philadelphia defense in the season opener, completing 53% of his pass attempts in the loss. The quarterback will look to offer more impactful results against a Dallas Cowboys defense that struggled in Week 1 against the New York Giants.
   - Source: https://www.fantasypros.com/nfl/news/608178/jayden-daniels-tosses-two-touchdowns-week-1-loss-to-eagles.php
-- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt reaches end zone in Week 1 loss (2026-09-15T21:15:55.036000Z)
+- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt reaches end zone in Week 1 loss (2026-09-15T21:15:55.036000Z)
   - Croskey-Merritt made the most of his opportunities out of the backfield, accounting for 50% of the carries for the Commanders in Week 1. The running back seems poised to receive as much volume as he can handle as the primary option out of the backfield to begin the season for head coach Dan Quinn, with a Week 2 divisional matchup against the Dallas Cowboys up next.
   - Source: https://www.fantasypros.com/nfl/news/608177/jacory-croskey-merritt-reaches-end-zone-week-1-loss.php
-- **NEW — Terry McLaurin** — Terry McLaurin quiet in Week 1 loss to Eagles  (2026-09-15T21:10:54.631000Z)
+- **Terry McLaurin** — Terry McLaurin quiet in Week 1 loss to Eagles  (2026-09-15T21:10:54.631000Z)
   - McLaurin was one of the more underwhelming options as part of a disappointing Washington aerial attack in the season opener, averaging 7.0 yards per reception in the loss. The wideout will look to get back on track in Week 2 against a Dallas Cowboys that struggled to slow down the New York Giants in Week 1.
   - Source: https://www.fantasypros.com/nfl/news/608174/terry-mclaurin-quiet-week-1-loss-to-eagles.php
-- **NEW — Stefon Diggs** — Stefon Diggs finds end zone in Week 1 loss to Eagles (2026-09-15T20:50:54.487000Z)
+- **Stefon Diggs** — Stefon Diggs finds end zone in Week 1 loss to Eagles (2026-09-15T20:50:54.487000Z)
   - Diggs saw plenty of volume as part of a Washington passing attack held in check, leading the team in targets in a losing effort. The veteran wideout offers fantasy managers a stable WR2/3 option while the Commanders offense looks to get back on track in a Week 2 matchup against the Dallas Cowboys.
   - Source: https://www.fantasypros.com/nfl/news/608160/stefon-diggs-finds-end-zone-week-1-loss-to-eagles.php
-- **NEW — Rachaad White** — Rachaad White sees nine touches in Week 1 (2026-09-15T20:45:54.493000Z)
+- **Rachaad White** — Rachaad White sees nine touches in Week 1 (2026-09-15T20:45:54.493000Z)
   - White made the most of modest touches in the season-opening contest, finishing second to Jacory Croskey-Merritt in touches in the loss. The running back offers more value in PPR formats as the No. 2 backfield option for the Commanders, with a Week 2 contest against the Dallas Cowboys up next.
   - Source: https://www.fantasypros.com/nfl/news/608158/rachaad-white-sees-nine-touches-week-1.php
-- **NEW — Chig Okonkwo** — Chig Okonkwo quiet in Week 1 loss (2026-09-15T20:35:54.767000Z)
+- **Chig Okonkwo** — Chig Okonkwo quiet in Week 1 loss (2026-09-15T20:35:54.767000Z)
   - Okonkwo was one of many underwhelming pass-catchers in a Washington passing attack that left plenty to be desired in the season-opening loss. The tight end will look to get back on track against the Dallas Cowboys in Week 2.
   - Source: https://www.fantasypros.com/nfl/news/608144/chig-okonkwo-quiet-week-1-loss.php
-- **NEW — Antonio Williams** — Antonio Williams leads pass-catchers in Week 1 loss to Eagles (2026-09-15T19:36:01.995000Z)
+- **Antonio Williams** — Antonio Williams leads pass-catchers in Week 1 loss to Eagles (2026-09-15T19:36:01.995000Z)
   - Williams impressed in his regular season debut, leading the team in receptions, receiving yards, and yards per reception in a losing effort. The rookie pass-catcher will look to replicate his performance as part of a crowded wide receiver room alongside Stefon Diggs and Terry McLaurin against the Dallas Cowboys in Week 2.
   - Source: https://www.fantasypros.com/nfl/news/608136/antonio-williams-leads-pass-catchers-week-1-loss-to-eagles.php
-- **NEW — Dylan Sampson** — Dylan Sampson - Lands on injured reserve (2026-09-15T19:33:15Z)
+- **Dylan Sampson** — Dylan Sampson - Lands on injured reserve (2026-09-15T19:33:15Z)
   - It's unclear exactly how much time Sampson will miss. He is expected back this season, per Mary Kay Cabot of The Cleveland Plain Dealer, but his placement on IR means he will miss at least the next four games. Jaleel McLaughlin was brought up from the practice squad, and both he and Raheim Sanders -- who played 18 snaps on offense and got four touches Sunday after Sampson's exit -- will work behind starter Quinshon Judkins.
-- **NEW — Dylan Sampson** — Dylan Sampson (knee) placed on IR (2026-09-15T19:26:01.964000Z)
+- **Dylan Sampson** — Dylan Sampson (knee) placed on IR (2026-09-15T19:26:01.964000Z)
   - Sampson went down on Sunday with a knee injury. He will miss at least the next four weeks. 
   - Source: https://www.fantasypros.com/nfl/news/608124/dylan-sampson-knee-placed-on-ir.php
-- **NEW — Emmett Johnson** — Emmett Johnson - Looks good behind Walker in Week 1 (2026-09-15T19:18:48Z)
+- **NEW — David Njoku** — David Njoku Deserves Waiver Consideration After Five-Catch Week 1 (2026-09-15T19:25:05Z)
+  - Source: https://www.rotoballer.com/player-news/david-njoku-deserves-waiver-consideration-after-five-catch-week-1/1932277
+- **Emmett Johnson** — Emmett Johnson - Looks good behind Walker in Week 1 (2026-09-15T19:18:48Z)
   - The rookie won the RB2 job behind Kenneth Walker pretty convincingly during training camp and the preseason, and Johnson showed why against Denver, consistently making plays with the ball in his hands. Most of his work came late in the fourth quarter with the game out of hand, but it's evident Johnson is a premier bench stash in fantasy should something happen to Walker.
-- **NEW — Kaytron Allen** — Kaytron Allen sees four carries in Week 1 (2026-09-15T19:06:01.783000Z)
+- **Kaytron Allen** — Kaytron Allen sees four carries in Week 1 (2026-09-15T19:06:01.783000Z)
   - Allen was more of an afterthought as part of the Washington backfield attack in the season opener, finishing last in touches in the loss. The running back is more of a change-of-pace option in a crowded Washington backfield at this point, with a Week 2 divisional contest against the Dallas Cowboys up next.
   - Source: https://www.fantasypros.com/nfl/news/608114/kaytron-allen-sees-four-carries-week-1.php
-- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane Expected to Have Wrist Surgery (2026-09-15T17:52:06Z)
+- **Ja'Kobi Lane** — Ja'Kobi Lane Expected to Have Wrist Surgery (2026-09-15T17:52:06Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-lane-expected-to-have-wrist-surgery/1932210
-- **NEW — Pat Freiermuth** — Pat Freiermuth Back on Fantasy Radars After Encouraging Week 1 (2026-09-15T16:59:05Z)
+- **Pat Freiermuth** — Pat Freiermuth Back on Fantasy Radars After Encouraging Week 1 (2026-09-15T16:59:05Z)
   - Source: https://www.rotoballer.com/player-news/pat-freiermuth-back-on-fantasy-radars-after-encouraging-week-1-performance/1932196
-- **NEW — Dalton Schultz** — Dalton Schultz a Priority Tight End Streamer (2026-09-15T16:37:08Z)
+- **Dalton Schultz** — Dalton Schultz a Priority Tight End Streamer (2026-09-15T16:37:08Z)
   - Source: https://www.rotoballer.com/player-news/dalton-schultz-a-priority-tight-end-streamer-following-heavy-week-1-involvement/1932179
 - **C.J. Stroud** — C.J. Stroud plays well in Week 1 loss (2026-09-15T16:36:00.561000Z)
   - Stroud added 15 yards on a couple of carries and did not throw an interception in Sunday's season opener. He did lose a couple of fumbles, however, as the Texans took a loss in this Week 1 shootout. Still, this was an encouraging start for the third-year QB, and he's certainly at least going to be on the streaming radar for a Week 2 matchup with the Bengals. 
@@ -70,12 +81,12 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **David Montgomery** — David Montgomery has big debut for Texans (2026-09-15T16:11:00.676000Z)
   - Montgomery was given 23 touches in his debut with the Texans, as the veteran back was a focal point of the offense. Granted, he only averaged 3.0 yards per carry, but he found the end zone three times while being involved both on the ground and through the air.
   - Source: https://www.fantasypros.com/nfl/news/608092/david-montgomery-has-big-debut-texans.php
-- **NEW — Malik Washington** — Malik Washington a Deep-League Waiver-Wire Option (2026-09-15T16:10:06Z)
+- **Malik Washington** — Malik Washington a Deep-League Waiver-Wire Option (2026-09-15T16:10:06Z)
   - Source: https://www.rotoballer.com/player-news/malik-washington-a-deep-league-waiver-wire-option-after-leading-dolphins-in-week-1-targets/1932150
 - **Ray Davis** — Ray Davis sees single carry in win (2026-09-15T16:06:00.574000Z)
   - Davis is operating as the RB2 behind James Cook and one of the Bills primary special teams returners, which is a good sign of trust. While he didn't see much of anything on offense this week, should anything happen to Cook, Davis will be a high priority pickup.
   - Source: https://www.fantasypros.com/nfl/news/608087/ray-davis-sees-single-carry-win.php
-- **NEW — Ted Hurst** — Ted Hurst III Already Playing Too Much to Ignore (2026-09-15T15:59:05Z)
+- **Ted Hurst** — Ted Hurst III Already Playing Too Much to Ignore (2026-09-15T15:59:05Z)
   - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-already-playing-too-much-to-ignore/1932137
 - **Khalil Shakir** — Khalil Shakir goes for 50 yards in win (2026-09-15T15:56:00.810000Z)
   - Shakir operated as Josh Allen's safety valve underneath with DJ Moore and Dalton Kincaid working over the top. That's been Shakir's role in the past, so don't expect it to stop any time soon. His upside is capped because of it, but he's a decent flex play in PPR formats if you need a solid floor.
@@ -92,7 +103,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Nico Collins** — Nico Collins turns in strong season debut (2026-09-15T15:56:00.732000Z)
   - Nico Collins played his typical go-to role for QB C.J. Stroud on Sunday. Collins led the team in receptions, targets, and yards. He also found the end zone for the first time this season, hitting paydirt on a 12-yard play just before halftime. Collins is a WR1 for fantasy purposes. 
   - Source: https://www.fantasypros.com/nfl/news/608081/nico-collins-turns-strong-season-debut.php
-- **NEW — Dylan Sampson** — Dylan Sampson Placed on Injured Reserve With Knee Injury (2026-09-15T15:46:14Z)
+- **Dylan Sampson** — Dylan Sampson Placed on Injured Reserve With Knee Injury (2026-09-15T15:46:14Z)
   - Source: https://www.rotoballer.com/player-news/dylan-sampson-placed-on-injured-reserve/1932130
 - **Dalton Schultz** — Dalton Schultz hauls in four passes  (2026-09-15T15:45:15.228000Z)
   - Schultz caught a career-high 82 passes last season, and he remains a steady presence in the Texans' offense. The veteran tight end finished second on the team with eight targets, trailing only Nico Collins' 10. Schultz has a limited ceiling, but he's almost always on the TE streaming radar. 
@@ -109,7 +120,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **DJ Moore** — DJ Moore goes for 100 yards in win over Houston (2026-09-15T15:35:15.257000Z)
   - Moore looked good and re-invigorated in this game, showing off some of his old self against a Houston defense that didn't look like its normal self. His touchdown was a bit fluky, as the defensive back solely made a play on the ball and failed do to so, leaving no one around Moore while he walked in for a score. But, fantasy managers won't be complaining. Next up for DJ are the Detroit Lions, who just allowed big days for Chris Olave and Devaughn Vele on Sunday.
   - Source: https://www.fantasypros.com/nfl/news/608071/dj-moore-goes-100-yards-win-over-houston.php
-- **NEW — Jordan Love** — Jordan Love Should Be the Top QB Addition Where Available (2026-09-15T15:26:10Z)
+- **Jordan Love** — Jordan Love Should Be the Top QB Addition Where Available (2026-09-15T15:26:10Z)
   - Source: https://www.rotoballer.com/player-news/jordan-love-should-be-the-top-qb-add-where-available/1932114
 - **Josh Allen** — Josh Allen dismantles Houston defense in big win (2026-09-15T15:25:15.129000Z)
   - Allen was in complete control on Sunday, carving up what should have been a difficult Texans defense on his way to a four touchdown performance. He will have another nice matchup against Detroit on Thursday who just allowed a 30-point game to the Saints.
@@ -117,7 +128,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **James Cook** — James Cook III goes for 69 yards in big win over Texans (2026-09-15T15:25:15.106000Z)
   - Cook was fine on his touches and was saved by his three receptions in PPR formats, but it fantasy managers will be hoping for more. He's still a premium running back, and he will get his chance early this week as the Bills play the Lions on Thursday night.
   - Source: https://www.fantasypros.com/nfl/news/608068/james-cook-iii-goes-69-yards-big-win-over-texans.php
-- **NEW — Ray Davis** — Ray Davis' Week 1 Usage Hurts His Handcuff Appeal (2026-09-15T15:14:05Z)
+- **Ray Davis** — Ray Davis' Week 1 Usage Hurts His Handcuff Appeal (2026-09-15T15:14:05Z)
   - Source: https://www.rotoballer.com/player-news/ray-davis-week-1-usage-hurts-his-handcuff-appeal/1932108
 - **Sam Darnold** — Sam Darnold (glute) estimated to return in four weeks (2026-09-15T15:05:14.814000Z)
   - With Darnold missing time, Drew Lock is the next man up. He was adequate against the Patriots, getting off to a rough start but finishing decently enough. He's a low end start in Superflex formats for those in need of a play.
@@ -248,11 +259,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - The highlight of Dobbins' relatively unremarkable night came early in the third quarter, when he changed direction shortly after taking the handoff and rumbled around left end for a 17-yard gain. The veteran back otherwise found running room difficult to come by against a dominant Chiefs defense, and Dobbins' rushing opportunities were notably limited overall due to game script. There will be much more cohesive offensive performances for the Broncos this season, and Dobbins should be in line for a bigger workload during Denver's home opener Week 2 against the Jaguars.
 - **Rashee Rice** — Rashee Rice - Gets in end zone to start season (2026-09-15T03:44:31Z)
   - Rice was on the receiving end of Patrick Mahomes' first touchdown pass of the season, doing all the work on a 13-yard scoring grab off a wide-receiver screen late in the first half that saw him break multiple tackles. Rice was quiet otherwise, but he did deliver excellent downfield blocking on Travis Kelce's game-long 59-yard catch in the third quarter. Mahomes connected on just five occasions with Rice and fellow starting wideout Xavier Worthy on Monday night, but that volume could certainly increase in a favorable Week 2 home matchup Sunday night against a Colts defense that was exposed in every facet by the Ravens in Week 1.
-- **Jaylen Waddle** — Jaylen Waddle - Nearly blanked in Broncos debut (2026-09-15T03:37:33Z)
-  - Waddle's regular-season Broncos debut was as miserable as his final line suggests, as the prominent offseason addition finished last in receptions and yards among Denver players that recorded at least one catch. One of the two targets Waddle couldn't corral was a key third-down drop early in the third quarter, although he was hardly the only underwhelming component of a pass-catching corps that produced a modest 131 total receiving yards. More productive performances are surely ahead for Waddle and the Broncos' air attack, with the first opportunity for atonement coming in a Week 2 home showdown against the Jaguars on Sunday.
-- **Kenneth Walker** — Kenneth Walker - Career-high rushing total in Chiefs debut (2026-09-15T03:29:58Z)
-  - Walker paid immediate dividends in his Chiefs regular-season debut, finding the end zone via a fourth-down, 60-yard run around left end early in the third quarter before adding a nifty two-yard scoring grab on a shovel pass from Patrick Mahomes within the first minute of the final period. Walker also rattled off productive gains on the ground throughout, as he still averaged 5.1 yards per carry on the 22 other rush attempts he logged outside of his explosive scoring scamper. Walker will have a tall order trying to improve on Monday night's career-best rushing yardage tally, but a Week 2 home matchup Sunday night against a Colts defense that was gashed repeatedly by the Ravens' Derrick Henry in Week 1 affords Kansas City's new star back an exceedingly bright outlook.
-- **Emari Demercado** — Emari Demercado - Two carries in Cowboys debut (2026-09-15T02:33:41Z)
-  - Demercado operated as the team's No. 2 option at running back in Week 1 behind starter Javonte Williams, but he was limited to just five snaps on offense in the contest. Demercado signed with Dallas on Aug. 31, and his role could grow as he continues to get more comfortable in the Cowboys' offense moving forward.
-- **Ryan Flournoy** — Ryan Flournoy - Secures two catches in loss (2026-09-15T02:18:04Z)
-  - Flournoy started the contest, playing 41 of the team's 58 offensive snaps while operating as the No. 3 wide receiver behind CeeDee Lamb and George Pickens. Flournoy saw four or more targets only five times over 16 regular-season contests in 2025, and he'll have a limited ceiling as fantasy asset as long as Pickens and Lamb are available.

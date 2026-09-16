@@ -1,33 +1,12 @@
 {
-  "last_checked_at": "2026-09-15T22:05:11Z",
+  "last_checked_at": "2026-09-16T00:14:02Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 288,
   "new_story_ids": [
-    "nfl|11566|fantasy_pros|608178|1789507254397",
-    "nfl|11575|rotoballer|221135|1789485245000",
-    "nfl|11610|rotoballer|221141|1789488606000",
-    "nfl|12469|fantasy_pros|608124|1789500361964",
-    "nfl|12469|rotoballer|221139|1789487174000",
-    "nfl|12469|rotowire|637496|1789500795000",
-    "nfl|12533|fantasy_pros|608177|1789506955036",
-    "nfl|13293|fantasy_pros|608200|1789509056017",
-    "nfl|13293|rotoballer|221148|1789494726000",
-    "nfl|13293|rotowire|637498|1789507953000",
-    "nfl|13294|fantasy_pros|608199|1789509056035",
-    "nfl|13301|fantasy_pros|608136|1789500961995",
-    "nfl|13317|rotoballer|221140|1789487945000",
-    "nfl|13337|rotowire|637495|1789499928000",
-    "nfl|13405|fantasy_pros|608114|1789499161783",
-    "nfl|2449|fantasy_pros|608160|1789505454487",
-    "nfl|5001|rotoballer|221145|1789490228000",
-    "nfl|5022|fantasy_pros|608205|1789509355633",
-    "nfl|5927|fantasy_pros|608174|1789506654631",
-    "nfl|6804|rotoballer|221137|1789485970000",
-    "nfl|7525|fantasy_pros|608203|1789509055979",
-    "nfl|7600|rotoballer|221147|1789491545000",
-    "nfl|8136|fantasy_pros|608158|1789505154493",
-    "nfl|8210|fantasy_pros|608144|1789504554767",
-    "nfl|9225|fantasy_pros|608196|1789508754802"
+    "nfl|4033|rotoballer|221152|1789500305000",
+    "nfl|4866|fantasy_pros|608209|1789509954848",
+    "nfl|6904|fantasy_pros|608210|1789510254957",
+    "nfl|9486|fantasy_pros|608208|1789509954868"
   ],
   "schema_version": 1,
   "source": {
@@ -37,6 +16,69 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Hurts made the most of an inconsistent season-opening performance behind center, averaging 14.5 yards per completion in the win. The quarterback will look to reward fantasy managers with more explosive dual-threat production in a favorable Week 2 matchup against the Tennessee Titans.",
+      "description": "Jalen Hurts completed 14-of-25 pass attempts for 203 yards and three touchdowns while also rushing seven times for 46 yards in the Eagles' 24-22 Week 1 win over the Washington Commanders.",
+      "metadata": {
+        "analysis": "Hurts made the most of an inconsistent season-opening performance behind center, averaging 14.5 yards per completion in the win. The quarterback will look to reward fantasy managers with more explosive dual-threat production in a favorable Week 2 matchup against the Tennessee Titans.",
+        "description": "Jalen Hurts completed 14-of-25 pass attempts for 203 yards and three touchdowns while also rushing seven times for 46 yards in the Eagles' 24-22 Week 1 win over the Washington Commanders.",
+        "title": "Jalen Hurts tosses three touchdowns in Week 1 win over Commanders",
+        "topic_id": "1405711530183426048",
+        "url": "https://www.fantasypros.com/nfl/news/608210/jalen-hurts-tosses-three-touchdowns-week-1-win-over-commanders.php"
+      },
+      "nfl_team": "PHI",
+      "player_id": "6904",
+      "player_name": "Jalen Hurts",
+      "position": "QB",
+      "published": 1789510254957,
+      "source": "fantasy_pros",
+      "source_key": "608210",
+      "story_id": "nfl|6904|fantasy_pros|608210|1789510254957",
+      "title": "Jalen Hurts tosses three touchdowns in Week 1 win over Commanders",
+      "url": "https://www.fantasypros.com/nfl/news/608210/jalen-hurts-tosses-three-touchdowns-week-1-win-over-commanders.php"
+    },
+    {
+      "analysis": "Wicks made the most of his modest target share in the season opener, averaging 36.5 yards per reception in the win. The wideout offers head coach Nick Sirianni another explosive pass-catching option moving forward, with a favorable Week 2 matchup against the Tennessee Titans up next.",
+      "description": "Dontayvion Wicks hauled in two of his four targets for 73 yards and one touchdown in the Eagles' 24-22 Week 1 win over the Washington Commanders.",
+      "metadata": {
+        "analysis": "Wicks made the most of his modest target share in the season opener, averaging 36.5 yards per reception in the win. The wideout offers head coach Nick Sirianni another explosive pass-catching option moving forward, with a favorable Week 2 matchup against the Tennessee Titans up next.",
+        "description": "Dontayvion Wicks hauled in two of his four targets for 73 yards and one touchdown in the Eagles' 24-22 Week 1 win over the Washington Commanders.",
+        "title": "Dontayvion Wicks finds end zone in Week 1 win",
+        "topic_id": "1405710271506395136",
+        "url": "https://www.fantasypros.com/nfl/news/608208/dontayvion-wicks-finds-end-zone-week-1-win.php"
+      },
+      "nfl_team": "PHI",
+      "player_id": "9486",
+      "player_name": "Dontayvion Wicks",
+      "position": "WR",
+      "published": 1789509954868,
+      "source": "fantasy_pros",
+      "source_key": "608208",
+      "story_id": "nfl|9486|fantasy_pros|608208|1789509954868",
+      "title": "Dontayvion Wicks finds end zone in Week 1 win",
+      "url": "https://www.fantasypros.com/nfl/news/608208/dontayvion-wicks-finds-end-zone-week-1-win.php"
+    },
+    {
+      "analysis": "Barkley made the most of what the Washington defense gave him, averaging 5.5 yards per carry in the win. The running back will look to offer fantasy managers a dynamic RB1 option in a favorable Week 2 matchup against the Tennessee Titans.",
+      "description": "Saquon Barkley carried the ball 15 times for 83 yards while also catching one of his two targets for a loss of three yards in the Eagles' 24-22 Week 1 win over the Washington Commanders.",
+      "metadata": {
+        "analysis": "Barkley made the most of what the Washington defense gave him, averaging 5.5 yards per carry in the win. The running back will look to offer fantasy managers a dynamic RB1 option in a favorable Week 2 matchup against the Tennessee Titans.",
+        "description": "Saquon Barkley carried the ball 15 times for 83 yards while also catching one of his two targets for a loss of three yards in the Eagles' 24-22 Week 1 win over the Washington Commanders.",
+        "title": "Saquon Barkley leads backfield attack in Week 1 win over Commanders",
+        "topic_id": "1405710271422509056",
+        "url": "https://www.fantasypros.com/nfl/news/608209/saquon-barkley-leads-backfield-attack-week-1-win-over-commanders.php"
+      },
+      "nfl_team": "PHI",
+      "player_id": "4866",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "published": 1789509954848,
+      "source": "fantasy_pros",
+      "source_key": "608209",
+      "story_id": "nfl|4866|fantasy_pros|608209|1789509954848",
+      "title": "Saquon Barkley leads backfield attack in Week 1 win over Commanders",
+      "url": "https://www.fantasypros.com/nfl/news/608209/saquon-barkley-leads-backfield-attack-week-1-win-over-commanders.php"
+    },
     {
       "analysis": "Goedert made the most of his involvement in the Philadelphia passing attack in the season opener, leading the team in receiving yards in the win. The tight end offers fantasy managers a steady TE1 option entering a favorable Week 2 contest against the Tennessee Titans.",
       "description": "Dallas Goedert hauled in four of his five targets for 77 yards and two touchdowns in the Eagles' 24-22 Week 1 win over the Washington Commanders.",
@@ -349,6 +391,26 @@
       "story_id": "nfl|12469|fantasy_pros|608124|1789500361964",
       "title": "Dylan Sampson (knee) placed on IR",
       "url": "https://www.fantasypros.com/nfl/news/608124/dylan-sampson-knee-placed-on-ir.php"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers tight end David Njoku came to the Chargers in the offseason to little fanfare and was considered the TE3 going into the Bolts' Week 1 season-opening loss to the Arizona Cardinals on Sunday. Njoku surprisingly led the Chargers' tight ends in the 26-14 loss by catching all five of his targets for 58 yards in his first game with the team. His 58 receiving yards were second on the team, behind only receiver Ladd McConkey's (rib) 82 yards. The 30-year-old played the same number of offensive snaps (30) as Charlie Kolar, who was talked up all summer during training camp as a potential TE sleeper in his first season in L.A. Njoku fell out of favor with the Cleveland Browns last year due to the immediate emergence of rookie Harold Fannin Jr., catching 33 passes for 293 yards and four touchdowns. The former Pro Bowler will have competition for targets all year from Kolar and Oronde Gadsden, but Njoku has by far the most pass-catching experience in his 10-year NFL career, racking up over 4,000 receiving yards and 34 touchdowns. With McConkey up in the air to play in Week 2 versus the division-rival Las Vegas Raiders, Njoku should definitely be on the waiver-wire radar for fantasy managers in need of depth at the TE position.",
+      "metadata": {
+        "description": "Los Angeles Chargers tight end David Njoku came to the Chargers in the offseason to little fanfare and was considered the TE3 going into the Bolts' Week 1 season-opening loss to the Arizona Cardinals on Sunday. Njoku surprisingly led the Chargers' tight ends in the 26-14 loss by catching all five of his targets for 58 yards in his first game with the team. His 58 receiving yards were second on the team, behind only receiver Ladd McConkey's (rib) 82 yards. The 30-year-old played the same number of offensive snaps (30) as Charlie Kolar, who was talked up all summer during training camp as a potential TE sleeper in his first season in L.A. Njoku fell out of favor with the Cleveland Browns last year due to the immediate emergence of rookie Harold Fannin Jr., catching 33 passes for 293 yards and four touchdowns. The former Pro Bowler will have competition for targets all year from Kolar and Oronde Gadsden, but Njoku has by far the most pass-catching experience in his 10-year NFL career, racking up over 4,000 receiving yards and 34 touchdowns. With McConkey up in the air to play in Week 2 versus the division-rival Las Vegas Raiders, Njoku should definitely be on the waiver-wire radar for fantasy managers in need of depth at the TE position.",
+        "title": "David Njoku Deserves Waiver Consideration After Five-Catch Week 1",
+        "topic_id": "1405732917807722496",
+        "url": "https://www.rotoballer.com/player-news/david-njoku-deserves-waiver-consideration-after-five-catch-week-1/1932277"
+      },
+      "nfl_team": "LAC",
+      "player_id": "4033",
+      "player_name": "David Njoku",
+      "position": "TE",
+      "published": 1789500305000,
+      "source": "rotoballer",
+      "source_key": "221152",
+      "story_id": "nfl|4033|rotoballer|221152|1789500305000",
+      "title": "David Njoku Deserves Waiver Consideration After Five-Catch Week 1",
+      "url": "https://www.rotoballer.com/player-news/david-njoku-deserves-waiver-consideration-after-five-catch-week-1/1932277"
     },
     {
       "analysis": "The rookie won the RB2 job behind Kenneth Walker pretty convincingly during training camp and the preseason, and Johnson showed why against Denver, consistently making plays with the ball in his hands. Most of his work came late in the fourth quarter with the game out of hand, but it's evident Johnson is a premier bench stash in fantasy should something happen to Walker.",
@@ -69681,226 +69743,6 @@
       "story_id": "nfl|5022|rotowire|633885|1786926324000",
       "title": "Dallas Goedert - Rested for preseason opener",
       "url": null
-    },
-    {
-      "analysis": "Flowers has fully recovered from a left quadriceps contusion that he suffered the previous Saturday, but the 2023 first-round pick was among the established starters that Baltimore opted to keep out of Saturday's preseason opener. The Ravens drafted wide receivers Ja'Kobi Lane and Elijah Sarratt in the third and fourth rounds of the 2026 NFL Draft, but Flowers is projected to reprise his role as Lamar Jackson's favorite target on the heels of a 2025 regular season in which Flowers posted a career-high 1,211 receiving yards.",
-      "description": "Flowers was rested for Baltimore's 24-7 preseason win over the Eagles on Saturday.",
-      "metadata": {
-        "analysis": "Flowers has fully recovered from a left quadriceps contusion that he suffered the previous Saturday, but the 2023 first-round pick was among the established starters that Baltimore opted to keep out of Saturday's preseason opener. The Ravens drafted wide receivers Ja'Kobi Lane and Elijah Sarratt in the third and fourth rounds of the 2026 NFL Draft, but Flowers is projected to reprise his role as Lamar Jackson's favorite target on the heels of a 2025 regular season in which Flowers posted a career-high 1,211 receiving yards.",
-        "description": "Flowers was rested for Baltimore's 24-7 preseason win over the Eagles on Saturday.",
-        "title": "Zay Flowers - Doesn't see field in preseason opener",
-        "topic_id": "1394869939088687104"
-      },
-      "nfl_team": "BAL",
-      "player_id": "9997",
-      "player_name": "Zay Flowers",
-      "position": "WR",
-      "published": 1786925367000,
-      "source": "rotowire",
-      "source_key": "633882",
-      "story_id": "nfl|9997|rotowire|633882|1786925367000",
-      "title": "Zay Flowers - Doesn't see field in preseason opener",
-      "url": null
-    },
-    {
-      "analysis": "Andrews and other key starters didn't suit up for the preseason opener. The 30-year-old tight end averaged a career-low 24.8 receiving yards per game during the 2025 regular season, but the Ravens didn't bring in any established pass catchers at the position to replace the departed Isaiah Likely, so Andrews has an opportunity to bounce back under a new coaching staff.",
-      "description": "Andrews was rested for Baltimore's 24-7 preseason win over the Eagles on Saturday.",
-      "metadata": {
-        "analysis": "Andrews and other key starters didn't suit up for the preseason opener. The 30-year-old tight end averaged a career-low 24.8 receiving yards per game during the 2025 regular season, but the Ravens didn't bring in any established pass catchers at the position to replace the departed Isaiah Likely, so Andrews has an opportunity to bounce back under a new coaching staff.",
-        "description": "Andrews was rested for Baltimore's 24-7 preseason win over the Eagles on Saturday.",
-        "title": "Mark Andrews - No action in preseason opener",
-        "topic_id": "1394869939046744064"
-      },
-      "nfl_team": "BAL",
-      "player_id": "5012",
-      "player_name": "Mark Andrews",
-      "position": "TE",
-      "published": 1786925125000,
-      "source": "rotowire",
-      "source_key": "633880",
-      "story_id": "nfl|5012|rotowire|633880|1786925125000",
-      "title": "Mark Andrews - No action in preseason opener",
-      "url": null
-    },
-    {
-      "analysis": "Jacksonville held out key starters for its preseason opener, and Strange was among that group. After signing a three-year extension in June, Strange seems safely locked in atop a tight end depth chart that added rookies Nate Boerkircker and Tanner Koziol in the second and fifth rounds, respectively, of the 2026 NFL Draft.",
-      "description": "Strange didn't play in Saturday's 24-20 preseason win over the Saints.",
-      "metadata": {
-        "analysis": "Jacksonville held out key starters for its preseason opener, and Strange was among that group. After signing a three-year extension in June, Strange seems safely locked in atop a tight end depth chart that added rookies Nate Boerkircker and Tanner Koziol in the second and fifth rounds, respectively, of the 2026 NFL Draft.",
-        "description": "Strange didn't play in Saturday's 24-20 preseason win over the Saints.",
-        "title": "Brenton Strange - Sits out Week 1 of preseason",
-        "topic_id": "1394868680461942785"
-      },
-      "nfl_team": "JAX",
-      "player_id": "9480",
-      "player_name": "Brenton Strange",
-      "position": "TE",
-      "published": 1786924892000,
-      "source": "rotowire",
-      "source_key": "633879",
-      "story_id": "nfl|9480|rotowire|633879|1786924892000",
-      "title": "Brenton Strange - Sits out Week 1 of preseason",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Detroit Lions running back Isiah Pacheco (knee) will not practice this week, according to head coach Dan Campbell. Pacheco suffered an MCL sprain during last week's practice, and it reportedly won't affect his Week 1 status. However, with Pacheco's injury and Jacob Saylors (ankle) dealing with a minor injury, the team signed running back Trayveon Williams to a one-year contract. If this knee sprain lingers as the season approaches, Pacheco could lose reps to star running back Jahmyr Gibbs, who has proven he can be a full workhorse back. Fantasy managers of Gibbs and Pacheco should monitor the former Kansas City Chiefs back's status closely, since missed time could impact both players in fantasy.",
-      "metadata": {
-        "description": "Detroit Lions running back Isiah Pacheco (knee) will not practice this week, according to head coach Dan Campbell. Pacheco suffered an MCL sprain during last week's practice, and it reportedly won't affect his Week 1 status. However, with Pacheco's injury and Jacob Saylors (ankle) dealing with a minor injury, the team signed running back Trayveon Williams to a one-year contract. If this knee sprain lingers as the season approaches, Pacheco could lose reps to star running back Jahmyr Gibbs, who has proven he can be a full workhorse back. Fantasy managers of Gibbs and Pacheco should monitor the former Kansas City Chiefs back's status closely, since missed time could impact both players in fantasy.",
-        "title": "Isiah Pacheco Will Not Practice Next Week",
-        "topic_id": "1394927824799813632",
-        "url": "https://www.rotoballer.com/player-news/isiah-pacheco-will-not-practice-next-week/1910417"
-      },
-      "nfl_team": "DET",
-      "player_id": "8205",
-      "player_name": "Isiah Pacheco",
-      "position": "RB",
-      "published": 1786924267000,
-      "source": "rotoballer",
-      "source_key": "218791",
-      "story_id": "nfl|8205|rotoballer|218791|1786924267000",
-      "title": "Isiah Pacheco Will Not Practice Next Week",
-      "url": "https://www.rotoballer.com/player-news/isiah-pacheco-will-not-practice-next-week/1910417"
-    },
-    {
-      "analysis": null,
-      "description": "Detroit Lions running back Jahmyr Gibbs could see a heavy workload early in the season due to backup Isiah Pacheco's injury. Gibbs recorded over 1,800 scrimmage yards and 18 touchdowns in 2025, though he lost significant snaps to running back David Montgomery, who will start in Houston this season. The team signed former Kansas City Chiefs running back Isiah Pacheco, who was expected to spell Gibbs in 2026. However, Pacheco suffered an MCL sprain in practice last week, which could affect his Week 1 status. Even if Pacheco is active in Week 1, he is losing valuable practice reps and may need to be eased in. When Montgomery missed time in Detroit, Gibbs averaged 22.7 attempts per game, 143 scrimmage yards, and 10 touchdowns over seven games. In one of the league's most potent offenses, Gibbs is the favorite to be the first-overall pick in fantasy drafts this season.",
-      "metadata": {
-        "description": "Detroit Lions running back Jahmyr Gibbs could see a heavy workload early in the season due to backup Isiah Pacheco's injury. Gibbs recorded over 1,800 scrimmage yards and 18 touchdowns in 2025, though he lost significant snaps to running back David Montgomery, who will start in Houston this season. The team signed former Kansas City Chiefs running back Isiah Pacheco, who was expected to spell Gibbs in 2026. However, Pacheco suffered an MCL sprain in practice last week, which could affect his Week 1 status. Even if Pacheco is active in Week 1, he is losing valuable practice reps and may need to be eased in. When Montgomery missed time in Detroit, Gibbs averaged 22.7 attempts per game, 143 scrimmage yards, and 10 touchdowns over seven games. In one of the league's most potent offenses, Gibbs is the favorite to be the first-overall pick in fantasy drafts this season.",
-        "title": "Jahmyr Gibbs to See Heavy Workload Early in Season?",
-        "topic_id": "1394925307332395008",
-        "url": "https://www.rotoballer.com/player-news/jahmyr-gibbs-to-see-heavy-workload-early-in-season/1910412"
-      },
-      "nfl_team": "DET",
-      "player_id": "9221",
-      "player_name": "Jahmyr Gibbs",
-      "position": "RB",
-      "published": 1786923728000,
-      "source": "rotoballer",
-      "source_key": "218790",
-      "story_id": "nfl|9221|rotoballer|218790|1786923728000",
-      "title": "Jahmyr Gibbs to See Heavy Workload Early in Season?",
-      "url": "https://www.rotoballer.com/player-news/jahmyr-gibbs-to-see-heavy-workload-early-in-season/1910412"
-    },
-    {
-      "analysis": null,
-      "description": "New England Patriots wide receiver Romeo Doubs has risen during training camp and delivered a stellar practice on Saturday. Doubs caught three touchdown passes in Saturday's practice and has had his best practices over the past week. Head coach Mike Vrabel said that Doubs is \"trending in the right direction. I think he found where Rome can really help us -- be big, fast and aggressive.\" The former Green Bay Packers wideout had 55 receptions for 724 yards and six touchdowns last season, playing as a primary X receiver under Matt LaFleur. Now in New England, Doubs is expected to move around much more and, hopefully, be a key outside playmaker alongside former Philadelphia Eagles wideout A.J. Brown. Ranked WR54 in RotoBaller's positional rankings, Doubs looks like a potential steal at his current value in a new situation.",
-      "metadata": {
-        "description": "New England Patriots wide receiver Romeo Doubs has risen during training camp and delivered a stellar practice on Saturday. Doubs caught three touchdown passes in Saturday's practice and has had his best practices over the past week. Head coach Mike Vrabel said that Doubs is \"trending in the right direction. I think he found where Rome can really help us -- be big, fast and aggressive.\" The former Green Bay Packers wideout had 55 receptions for 724 yards and six touchdowns last season, playing as a primary X receiver under Matt LaFleur. Now in New England, Doubs is expected to move around much more and, hopefully, be a key outside playmaker alongside former Philadelphia Eagles wideout A.J. Brown. Ranked WR54 in RotoBaller's positional rankings, Doubs looks like a potential steal at his current value in a new situation.",
-        "title": "Romeo Doubs Ascending at Patriots Practice",
-        "topic_id": "1394921532869849088",
-        "url": "https://www.rotoballer.com/player-news/romeo-doubs-ascending-at-patriots-practice/1910405"
-      },
-      "nfl_team": "NE",
-      "player_id": "8121",
-      "player_name": "Romeo Doubs",
-      "position": "WR",
-      "published": 1786922945000,
-      "source": "rotoballer",
-      "source_key": "218789",
-      "story_id": "nfl|8121|rotoballer|218789|1786922945000",
-      "title": "Romeo Doubs Ascending at Patriots Practice",
-      "url": "https://www.rotoballer.com/player-news/romeo-doubs-ascending-at-patriots-practice/1910405"
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams running back Blake Corum was listed as the backup to Kyren Williams on the team's unofficial preseason depth chart. Corum had a strong second season in 2025, totaling 746 rushing yards and six touchdowns in 17 games, while adding only 36 receiving yards on eight catches. Although Corum and Williams split work late last season, the team left the veteran back as the RB1, with Corum as the RB2. While the unofficial depth chart isn't a definitive indicator of the team's backfield plans, it does support the Rams' belief in Williams, who recorded over 1,500 yards and 13 touchdowns in 2025. Corum is currently ranked RB32 in RotoBaller's positional rankings, which may be too high a price if he sees a workload similar to last season.",
-      "metadata": {
-        "description": "Los Angeles Rams running back Blake Corum was listed as the backup to Kyren Williams on the team's unofficial preseason depth chart. Corum had a strong second season in 2025, totaling 746 rushing yards and six touchdowns in 17 games, while adding only 36 receiving yards on eight catches. Although Corum and Williams split work late last season, the team left the veteran back as the RB1, with Corum as the RB2. While the unofficial depth chart isn't a definitive indicator of the team's backfield plans, it does support the Rams' belief in Williams, who recorded over 1,500 yards and 13 touchdowns in 2025. Corum is currently ranked RB32 in RotoBaller's positional rankings, which may be too high a price if he sees a workload similar to last season.",
-        "title": "Blake Corum Listed as Backup on Unofficial Depth Chart",
-        "topic_id": "1394919015121440768",
-        "url": "https://www.rotoballer.com/player-news/blake-corum-listed-as-backup-behind-kyren-williams-in-unofficial-depth-chart/1910399"
-      },
-      "nfl_team": "LAR",
-      "player_id": "8150",
-      "player_name": "Kyren Williams",
-      "position": "RB",
-      "published": 1786922407000,
-      "source": "rotoballer",
-      "source_key": "218788",
-      "story_id": "nfl|8150|rotoballer|218788|1786922407000",
-      "title": "Blake Corum Listed as Backup on Unofficial Depth Chart",
-      "url": "https://www.rotoballer.com/player-news/blake-corum-listed-as-backup-behind-kyren-williams-in-unofficial-depth-chart/1910399"
-    },
-    {
-      "analysis": null,
-      "description": "Houston Texans head coach DeMeco Ryans considers running back David Montgomery the team's lead back this season. Ryans said on the SiriusXM NFL show last week, \"I see David as a number one back. He's a really good runner; he's always been a runner whenever he touches the ball. Strong, runs low, runs behind his pads.\" Montgomery spent the past three seasons with the Detroit Lions, splitting carries with star running back Jahmyr Gibbs. Despite a timeshare, he averaged 75 scrimmage yards per game and scored 33 touchdowns in 45 games. Now he heads to Houston, where he expects to lead a committee with second-year back Woody Marks. Ranked RB21 in RotoBaller's positional rankings, the veteran back has a chance to be a solid RB2 in fantasy leagues this season.",
-      "metadata": {
-        "description": "Houston Texans head coach DeMeco Ryans considers running back David Montgomery the team's lead back this season. Ryans said on the SiriusXM NFL show last week, \"I see David as a number one back. He's a really good runner; he's always been a runner whenever he touches the ball. Strong, runs low, runs behind his pads.\" Montgomery spent the past three seasons with the Detroit Lions, splitting carries with star running back Jahmyr Gibbs. Despite a timeshare, he averaged 75 scrimmage yards per game and scored 33 touchdowns in 45 games. Now he heads to Houston, where he expects to lead a committee with second-year back Woody Marks. Ranked RB21 in RotoBaller's positional rankings, the veteran back has a chance to be a solid RB2 in fantasy leagues this season.",
-        "title": "DeMeco Ryans Views David Montgomery As No. 1 Back",
-        "topic_id": "1394916498157375488",
-        "url": "https://www.rotoballer.com/player-news/hc-demeco-ryans-views-david-montgomery-as-number-one-back/1910394"
-      },
-      "nfl_team": "HOU",
-      "player_id": "5892",
-      "player_name": "David Montgomery",
-      "position": "RB",
-      "published": 1786921868000,
-      "source": "rotoballer",
-      "source_key": "218787",
-      "story_id": "nfl|5892|rotoballer|218787|1786921868000",
-      "title": "DeMeco Ryans Views David Montgomery As No. 1 Back",
-      "url": "https://www.rotoballer.com/player-news/hc-demeco-ryans-views-david-montgomery-as-number-one-back/1910394"
-    },
-    {
-      "analysis": null,
-      "description": "Las Vegas Raiders wide receiver Jack Bech seems like a natural fit for a Year 2 breakout, but the team's offseason moves could serve as an obstacle in his development. There are no flashy names in Vegas' receiver room, but the Raiders deliberately signed both Jalen Nailor and Noah Brown. Both receivers are veterans in the NFL, and they have the ability to serve as dependable (albeit not very flashy) targets for Kirk Cousins and, eventually, Fernando Mendoza. Although Bech might have more long-term upside than Nailor and Brown, he's not exactly a proven veteran target who can form a rapport with Cousins and Mendoza right away, so it would be tough to justify drafting him in redraft leagues. In addition to Nailor and Brown, he faces competition for targets from Tre Tucker and Dont'e Thornton. At this point, Bech is avoidable in most redraft leagues, but we would continue to stash him on the back end of dynasty rosters, as he still represents a key part of the Raiders' offense long-term.",
-      "metadata": {
-        "description": "Las Vegas Raiders wide receiver Jack Bech seems like a natural fit for a Year 2 breakout, but the team's offseason moves could serve as an obstacle in his development. There are no flashy names in Vegas' receiver room, but the Raiders deliberately signed both Jalen Nailor and Noah Brown. Both receivers are veterans in the NFL, and they have the ability to serve as dependable (albeit not very flashy) targets for Kirk Cousins and, eventually, Fernando Mendoza. Although Bech might have more long-term upside than Nailor and Brown, he's not exactly a proven veteran target who can form a rapport with Cousins and Mendoza right away, so it would be tough to justify drafting him in redraft leagues. In addition to Nailor and Brown, he faces competition for targets from Tre Tucker and Dont'e Thornton. At this point, Bech is avoidable in most redraft leagues, but we would continue to stash him on the back end of dynasty rosters, as he still represents a key part of the Raiders' offense long-term.",
-        "title": "Can Jack Bech Remain Involved Despite Raiders' Wide Receiver Additions?",
-        "topic_id": "1394906430456201216",
-        "url": "https://www.rotoballer.com/player-news/can-jack-bech-remain-involved-despite-raiders-wide-receiver-additions/1910375"
-      },
-      "nfl_team": "LV",
-      "player_id": "12483",
-      "player_name": "Jack Bech",
-      "position": "WR",
-      "published": 1786919408000,
-      "source": "rotoballer",
-      "source_key": "218786",
-      "story_id": "nfl|12483|rotoballer|218786|1786919408000",
-      "title": "Can Jack Bech Remain Involved Despite Raiders' Wide Receiver Additions?",
-      "url": "https://www.rotoballer.com/player-news/can-jack-bech-remain-involved-despite-raiders-wide-receiver-additions/1910375"
-    },
-    {
-      "analysis": null,
-      "description": "Cleveland Browns running back Dylan Sampson possesses value in redraft leagues despite his role as the backup to Quinshon Judkins. Sampson could have some standalone value as a pass-catching option behind Judkins, but more importantly, he's a top handcuff running back in fantasy football. Sampson had at least 10 carries in each of the three games that Judkins missed last year, and he was even more impactful in the passing game with 4.7 targets per game that Judkins missed. We're not very high on the Browns' offense with Deshaun Watson or Shedeur Sanders under center, but Sampson could still become a volume-based RB2 option if Judkins were to miss time in 2026. He currently has an ADP of 162, which lines up with the 14th round of fantasy drafts and makes him the 52nd running back off the board. That's in line with the experts' opinions on Sampson, who ranks as the RB55 in RotoBaller's latest redraft rankings for 2026.",
-      "metadata": {
-        "description": "Cleveland Browns running back Dylan Sampson possesses value in redraft leagues despite his role as the backup to Quinshon Judkins. Sampson could have some standalone value as a pass-catching option behind Judkins, but more importantly, he's a top handcuff running back in fantasy football. Sampson had at least 10 carries in each of the three games that Judkins missed last year, and he was even more impactful in the passing game with 4.7 targets per game that Judkins missed. We're not very high on the Browns' offense with Deshaun Watson or Shedeur Sanders under center, but Sampson could still become a volume-based RB2 option if Judkins were to miss time in 2026. He currently has an ADP of 162, which lines up with the 14th round of fantasy drafts and makes him the 52nd running back off the board. That's in line with the experts' opinions on Sampson, who ranks as the RB55 in RotoBaller's latest redraft rankings for 2026.",
-        "title": "Dylan Sampson a Top Handcuff Despite Browns' Question Marks?",
-        "topic_id": "1394902655607767040",
-        "url": "https://www.rotoballer.com/player-news/dylan-sampson-a-top-handcuff-despite-browns-question-marks/1910363"
-      },
-      "nfl_team": "CLE",
-      "player_id": "12469",
-      "player_name": "Dylan Sampson",
-      "position": "RB",
-      "published": 1786918448000,
-      "source": "rotoballer",
-      "source_key": "218783",
-      "story_id": "nfl|12469|rotoballer|218783|1786918448000",
-      "title": "Dylan Sampson a Top Handcuff Despite Browns' Question Marks?",
-      "url": "https://www.rotoballer.com/player-news/dylan-sampson-a-top-handcuff-despite-browns-question-marks/1910363"
-    },
-    {
-      "analysis": null,
-      "description": "Denver Broncos wide receiver Courtland Sutton remains one of the team's top pass catchers heading into the 2026 season. He caught three passes for 60 yards in Week 1 of the preseason, operating as the No. 1 receiver with Jaylen Waddle (leg) sidelined. It's encouraging that Sutton played this well with Jarrett Stidham as his quarterback -- albeit in a preseason game -- because he should remain productive once Bo Nix (ankle) returns to the offense. Teaming up with Waddle could actually be advantageous for Sutton this year, because it could shift some of the opposing teams' cornerbacks away from him and onto the ex-Dolphin. The Waddle addition has drastically changed Sutton's price tag in redraft leagues, as he now carries an ADP of 72. That makes him a sixth-round pick and the 35th receiver off the board in drafts. There's value to be had, as Sutton still projects as a key pass-catching option in a very potent Broncos offense.",
-      "metadata": {
-        "description": "Denver Broncos wide receiver Courtland Sutton remains one of the team's top pass catchers heading into the 2026 season. He caught three passes for 60 yards in Week 1 of the preseason, operating as the No. 1 receiver with Jaylen Waddle (leg) sidelined. It's encouraging that Sutton played this well with Jarrett Stidham as his quarterback -- albeit in a preseason game -- because he should remain productive once Bo Nix (ankle) returns to the offense. Teaming up with Waddle could actually be advantageous for Sutton this year, because it could shift some of the opposing teams' cornerbacks away from him and onto the ex-Dolphin. The Waddle addition has drastically changed Sutton's price tag in redraft leagues, as he now carries an ADP of 72. That makes him a sixth-round pick and the 35th receiver off the board in drafts. There's value to be had, as Sutton still projects as a key pass-catching option in a very potent Broncos offense.",
-        "title": "Courtland Sutton Available at a Discount in Fantasy Drafts?",
-        "topic_id": "1394901396477730816",
-        "url": "https://www.rotoballer.com/player-news/courtland-sutton-available-at-a-discount-in-fantasy-drafts/1910357"
-      },
-      "nfl_team": "DEN",
-      "player_id": "5045",
-      "player_name": "Courtland Sutton",
-      "position": "WR",
-      "published": 1786918148000,
-      "source": "rotoballer",
-      "source_key": "218782",
-      "story_id": "nfl|5045|rotoballer|218782|1786918148000",
-      "title": "Courtland Sutton Available at a Discount in Fantasy Drafts?",
-      "url": "https://www.rotoballer.com/player-news/courtland-sutton-available-at-a-discount-in-fantasy-drafts/1910357"
     }
   ]
 }
