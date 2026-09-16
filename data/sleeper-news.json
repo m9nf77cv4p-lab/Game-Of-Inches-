@@ -1,12 +1,23 @@
 {
-  "last_checked_at": "2026-09-16T00:14:02Z",
+  "last_checked_at": "2026-09-16T04:54:20Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 288,
   "new_story_ids": [
-    "nfl|4033|rotoballer|221152|1789500305000",
-    "nfl|4866|fantasy_pros|608209|1789509954848",
-    "nfl|6904|fantasy_pros|608210|1789510254957",
-    "nfl|9486|fantasy_pros|608208|1789509954868"
+    "nfl|11627|rotowire|637535|1789518038000",
+    "nfl|12483|rotoballer|221159|1789507686000",
+    "nfl|12492|rotowire|637532|1789517767000",
+    "nfl|12493|rotoballer|221168|1789514945000",
+    "nfl|12540|rotoballer|221173|1789516506000",
+    "nfl|13345|rotoballer|221156|1789505922000",
+    "nfl|13345|rotowire|637537|1789518155000",
+    "nfl|13405|rotoballer|221169|1789515190000",
+    "nfl|13413|rotoballer|221172|1789515905000",
+    "nfl|13413|rotowire|637555|1789520266000",
+    "nfl|3257|rotoballer|221160|1789508408000",
+    "nfl|4227|rotowire|637544|1789518771000",
+    "nfl|5870|rotoballer|221155|1789505409000",
+    "nfl|9494|rotowire|637536|1789518108000",
+    "nfl|96|rotoballer|221163|1789510806000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +27,226 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Allen played only one snap on offense, failing to build off of the momentum he had built for himself in the preseason. The wide receiver was also on the field for four snaps with the special-teams unit. Allen appears to be a firm No. 4 option behind Rashee Rice, Xavier Worthy and Tyquan Thornton at wideout ahead of the team's matchup with the Colts in Week 2.",
+      "description": "Allen did not catch his only target during Monday night's 31-10 win over Denver.",
+      "metadata": {
+        "analysis": "Allen played only one snap on offense, failing to build off of the momentum he had built for himself in the preseason. The wide receiver was also on the field for four snaps with the special-teams unit. Allen appears to be a firm No. 4 option behind Rashee Rice, Xavier Worthy and Tyquan Thornton at wideout ahead of the team's matchup with the Colts in Week 2.",
+        "description": "Allen did not catch his only target during Monday night's 31-10 win over Denver.",
+        "title": "Cyrus Allen - No production in regular-season debut",
+        "topic_id": "1405754312285605888"
+      },
+      "nfl_team": "KC",
+      "player_id": "13413",
+      "player_name": "Cyrus Allen",
+      "position": "WR",
+      "published": 1789520266000,
+      "source": "rotowire",
+      "source_key": "637555",
+      "story_id": "nfl|13413|rotowire|637555|1789520266000",
+      "title": "Cyrus Allen - No production in regular-season debut",
+      "url": null
+    },
+    {
+      "analysis": "Butker's lone field goal was a 28-yard chip shot late in the third quarter, but most of his work came on extra-point tries and kickoffs in Monday's regular-season opener. The Chiefs' offense under Patrick Mahomes and coordinator Eric Bieniemy looked promising in Week 1, so Butker's scoring ceiling figures to be higher this year than it was in 2025. Kansas City will stay home for a Week 2 tilt against Indianapolis on Sunday.",
+      "description": "Butker connected on his lone field-goal attempt and all four of his extra-point tries during the Chiefs' 31-10 win over the Broncos on Monday.",
+      "metadata": {
+        "analysis": "Butker's lone field goal was a 28-yard chip shot late in the third quarter, but most of his work came on extra-point tries and kickoffs in Monday's regular-season opener. The Chiefs' offense under Patrick Mahomes and coordinator Eric Bieniemy looked promising in Week 1, so Butker's scoring ceiling figures to be higher this year than it was in 2025. Kansas City will stay home for a Week 2 tilt against Indianapolis on Sunday.",
+        "description": "Butker connected on his lone field-goal attempt and all four of his extra-point tries during the Chiefs' 31-10 win over the Broncos on Monday.",
+        "title": "Harrison Butker - Makes all five kicks in Week 1 win",
+        "topic_id": "1405748020812709889"
+      },
+      "nfl_team": "KC",
+      "player_id": "4227",
+      "player_name": "Harrison Butker",
+      "position": "K",
+      "published": 1789518771000,
+      "source": "rotowire",
+      "source_key": "637544",
+      "story_id": "nfl|4227|rotowire|637544|1789518771000",
+      "title": "Harrison Butker - Makes all five kicks in Week 1 win",
+      "url": null
+    },
+    {
+      "analysis": "There was some offseason buzz around Coleman's involvement in the Broncos offense in 2026, but the rookie fourth-rounder was involved in only three of Denver's 51 offensive snaps, well behind RJ Harvey (26) and J.K. Dobbins (22). Coleman at least saw some additional playing time as a returner on special teams, though Marvin Mims figures to be the prefered option to return kickoffs and punts. Coleman and the Broncos will look to bounce back in a Week 2 home tilt against the Jaguars on Sunday.",
+      "description": "Coleman returned one kickoff for 27 yards during Denver's 31-10 loss to Kansas City on Monday.",
+      "metadata": {
+        "analysis": "There was some offseason buzz around Coleman's involvement in the Broncos offense in 2026, but the rookie fourth-rounder was involved in only three of Denver's 51 offensive snaps, well behind RJ Harvey (26) and J.K. Dobbins (22). Coleman at least saw some additional playing time as a returner on special teams, though Marvin Mims figures to be the prefered option to return kickoffs and punts. Coleman and the Broncos will look to bounce back in a Week 2 home tilt against the Jaguars on Sunday.",
+        "description": "Coleman returned one kickoff for 27 yards during Denver's 31-10 loss to Kansas City on Monday.",
+        "title": "Jonah Coleman - Sees little playing time in NFL debut",
+        "topic_id": "1405745502896582656"
+      },
+      "nfl_team": "DEN",
+      "player_id": "13345",
+      "player_name": "Jonah Coleman",
+      "position": "RB",
+      "published": 1789518155000,
+      "source": "rotowire",
+      "source_key": "637537",
+      "story_id": "nfl|13345|rotowire|637537|1789518155000",
+      "title": "Jonah Coleman - Sees little playing time in NFL debut",
+      "url": null
+    },
+    {
+      "analysis": "Mims was one of Denver's starting wideouts but logged just nine snaps on offense. It's not clear if that was due to the hip issue that cropped up in the first quarter or because of the strong play of Pat Bryant, who led Broncos wide receivers with four catches on six targets for 42 yards. Mims' availability as a punt returner suggests the hip issue isn't serious, though he's definitely behind Courtland Sutton and Jaylen Waddle in the pecking order and may now be behind Bryant as well.",
+      "description": "Mims did not see any targets and returned two punts for 36 yards in Monday's Week 1 loss to Kansas City. He managed a hip injury but is expected to be fine for Week 2, per Zac Stevens of TheDNVR.com.",
+      "metadata": {
+        "analysis": "Mims was one of Denver's starting wideouts but logged just nine snaps on offense. It's not clear if that was due to the hip issue that cropped up in the first quarter or because of the strong play of Pat Bryant, who led Broncos wide receivers with four catches on six targets for 42 yards. Mims' availability as a punt returner suggests the hip issue isn't serious, though he's definitely behind Courtland Sutton and Jaylen Waddle in the pecking order and may now be behind Bryant as well.",
+        "description": "Mims did not see any targets and returned two punts for 36 yards in Monday's Week 1 loss to Kansas City. He managed a hip injury but is expected to be fine for Week 2, per Zac Stevens of TheDNVR.com.",
+        "title": "Marvin Mims - Draws zero targets in season opener",
+        "topic_id": "1405745502863028224"
+      },
+      "nfl_team": "DEN",
+      "player_id": "9494",
+      "player_name": "Marvin Mims",
+      "position": "WR",
+      "published": 1789518108000,
+      "source": "rotowire",
+      "source_key": "637536",
+      "story_id": "nfl|9494|rotowire|637536|1789518108000",
+      "title": "Marvin Mims - Draws zero targets in season opener",
+      "url": null
+    },
+    {
+      "analysis": "Franklin was only on the field for 17 of the team's 51 offensive snaps, which was fewer than Pat Bryant (30) along with starters Courtland Sutton and Jaylen Waddle at wide receiver. The 23-year-old emerged as a go-to option for quarterback Bo Nix in 2025, catching 65 of 104 targets for 709 yards and six scores, but with the addition of Waddle in the offseason, Franklin appears to be locked into a depth role this season.",
+      "description": "Franklin failed to reel in his only target while adding a five-yard rush in Monday night's 31-10 loss to Kansas City.",
+      "metadata": {
+        "analysis": "Franklin was only on the field for 17 of the team's 51 offensive snaps, which was fewer than Pat Bryant (30) along with starters Courtland Sutton and Jaylen Waddle at wide receiver. The 23-year-old emerged as a go-to option for quarterback Bo Nix in 2025, catching 65 of 104 targets for 709 yards and six scores, but with the addition of Waddle in the offseason, Franklin appears to be locked into a depth role this season.",
+        "description": "Franklin failed to reel in his only target while adding a five-yard rush in Monday night's 31-10 loss to Kansas City.",
+        "title": "Troy Franklin - Quiet performance in Week 1",
+        "topic_id": "1405745502854639616"
+      },
+      "nfl_team": "DEN",
+      "player_id": "11627",
+      "player_name": "Troy Franklin",
+      "position": "WR",
+      "published": 1789518038000,
+      "source": "rotowire",
+      "source_key": "637535",
+      "story_id": "nfl|11627|rotowire|637535|1789518038000",
+      "title": "Troy Franklin - Quiet performance in Week 1",
+      "url": null
+    },
+    {
+      "analysis": "Bryant was on the field for 30 of the team's 51 total offensive snaps, trailing only Courtland Sutton and Jaylen Waddle at wide receiver. The 23-year-old led the team in targets in the loss, and he'll look to build off of his performance when the team takes on Jacksonville in Week 2.",
+      "description": "Bryant caught four of six targets for 42 yards in Monday night's 31-10 loss to the Chiefs.",
+      "metadata": {
+        "analysis": "Bryant was on the field for 30 of the team's 51 total offensive snaps, trailing only Courtland Sutton and Jaylen Waddle at wide receiver. The 23-year-old led the team in targets in the loss, and he'll look to build off of his performance when the team takes on Jacksonville in Week 2.",
+        "description": "Bryant caught four of six targets for 42 yards in Monday night's 31-10 loss to the Chiefs.",
+        "title": "Pat Bryant - Four snags in loss",
+        "topic_id": "1405744245771386880"
+      },
+      "nfl_team": "DEN",
+      "player_id": "12492",
+      "player_name": "Pat Bryant",
+      "position": "WR",
+      "published": 1789517767000,
+      "source": "rotowire",
+      "source_key": "637532",
+      "story_id": "nfl|12492|rotowire|637532|1789517767000",
+      "title": "Pat Bryant - Four snags in loss",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Tennessee Titans' offseason additions at the wide receiver position with Wan'Dale Robinson in free agency and rookie Carnell Tate with the fourth overall pick have made it difficult for second-year pass-catcher Chimere Dike to have a big role on offense in 2026. That was confirmed in the team's Week 1 season-opening loss to the New York Jets on Sunday, with Dike playing just four offensive snaps (8%) while catching one pass for a seven-yard gain. The 24-year-old returned three kickoffs for 62 yards and a punt for a loss of five yards, so he was mostly involved on special teams. It did not help matters that Dike lost a fumble on one of his kickoff returns. Dike was behind Tate, Robinson, Calvin Ridley, and Elic Ayomanor to start his sophomore season, which is bad news for fantasy managers who have him rostered in dynasty/keeper leagues. The Titans had limited options in the passing attack last year, which thrust Dike into a bigger role than expected. He caught 48 of 74 targets for 423 yards and four touchdowns in 17 games. Dike will likely need a couple of injuries ahead of him to make him even slightly interesting in fantasy again.",
+      "metadata": {
+        "description": "The Tennessee Titans' offseason additions at the wide receiver position with Wan'Dale Robinson in free agency and rookie Carnell Tate with the fourth overall pick have made it difficult for second-year pass-catcher Chimere Dike to have a big role on offense in 2026. That was confirmed in the team's Week 1 season-opening loss to the New York Jets on Sunday, with Dike playing just four offensive snaps (8%) while catching one pass for a seven-yard gain. The 24-year-old returned three kickoffs for 62 yards and a punt for a loss of five yards, so he was mostly involved on special teams. It did not help matters that Dike lost a fumble on one of his kickoff returns. Dike was behind Tate, Robinson, Calvin Ridley, and Elic Ayomanor to start his sophomore season, which is bad news for fantasy managers who have him rostered in dynasty/keeper leagues. The Titans had limited options in the passing attack last year, which thrust Dike into a bigger role than expected. He caught 48 of 74 targets for 423 yards and four touchdowns in 17 games. Dike will likely need a couple of injuries ahead of him to make him even slightly interesting in fantasy again.",
+        "title": "Chimere Dike Could be Stuck in More of a Special Teams Role",
+        "topic_id": "1405800871182258176",
+        "url": "https://www.rotoballer.com/player-news/chimere-dike-could-be-stuck-in-more-of-a-special-teams-role/1932469"
+      },
+      "nfl_team": "TEN",
+      "player_id": "12540",
+      "player_name": "Chimere Dike",
+      "position": "WR",
+      "published": 1789516506000,
+      "source": "rotoballer",
+      "source_key": "221173",
+      "story_id": "nfl|12540|rotoballer|221173|1789516506000",
+      "title": "Chimere Dike Could be Stuck in More of a Special Teams Role",
+      "url": "https://www.rotoballer.com/player-news/chimere-dike-could-be-stuck-in-more-of-a-special-teams-role/1932469"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs wide receiver Cyrus Allen generated plenty of buzz throughout the offseason. A strong camp showing resulted in a variety of reports saying that Allen had earned the trust of quarterback Patrick Mahomes and was climbing up draft boards. There was legitimate speculation that he had soared as high as No. 3 in the Chiefs' wide receiver pecking order, behind Rashee Rice and Xavier Worthy. However, when the Chiefs finally put their offense on the field Monday against the Broncos, Allen's role was minimal. He played just one snap and failed to haul in his lone target. The one target is far less concerning than the one snap, as it shows that the Chiefs have absolutely no urgency to get Allen on the field. He ended up being fourth on the team in snap count behind Rice, Worthy, and Tyquan Thornton. He'll likely remain off the redraft radar as long as those three receivers are healthy, and even if someone gets hurt, he's still nothing more than a speculative add in deeper leagues. Dynasty managers should eventually get rewarded for their patience, but we don't see much upside in redraft leagues for the time being.",
+      "metadata": {
+        "description": "Kansas City Chiefs wide receiver Cyrus Allen generated plenty of buzz throughout the offseason. A strong camp showing resulted in a variety of reports saying that Allen had earned the trust of quarterback Patrick Mahomes and was climbing up draft boards. There was legitimate speculation that he had soared as high as No. 3 in the Chiefs' wide receiver pecking order, behind Rashee Rice and Xavier Worthy. However, when the Chiefs finally put their offense on the field Monday against the Broncos, Allen's role was minimal. He played just one snap and failed to haul in his lone target. The one target is far less concerning than the one snap, as it shows that the Chiefs have absolutely no urgency to get Allen on the field. He ended up being fourth on the team in snap count behind Rice, Worthy, and Tyquan Thornton. He'll likely remain off the redraft radar as long as those three receivers are healthy, and even if someone gets hurt, he's still nothing more than a speculative add in deeper leagues. Dynasty managers should eventually get rewarded for their patience, but we don't see much upside in redraft leagues for the time being.",
+        "title": "Time to Pump the Brakes on Cyrus Allen?",
+        "topic_id": "1405797096149299200",
+        "url": "https://www.rotoballer.com/player-news/time-to-pump-the-brakes-on-cyrus-allen/1932463"
+      },
+      "nfl_team": "KC",
+      "player_id": "13413",
+      "player_name": "Cyrus Allen",
+      "position": "WR",
+      "published": 1789515905000,
+      "source": "rotoballer",
+      "source_key": "221172",
+      "story_id": "nfl|13413|rotoballer|221172|1789515905000",
+      "title": "Time to Pump the Brakes on Cyrus Allen?",
+      "url": "https://www.rotoballer.com/player-news/time-to-pump-the-brakes-on-cyrus-allen/1932463"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Kaytron Allen was able to carve out a role in Week 1, despite ranking third on the depth chart behind Jacory Croskey-Merritt and Rachaad White. It wasn't the prettiest or flashiest performance, but his four rushing attempts for 10 yards ranked ahead of many other teams' No. 3 running backs in terms of involvement. It was very encouraging to see the Commanders carve out playing time (10% of snaps) for the rookie in the season opener, as it indicates that his role could only grow going forward. Managers in deeper leagues should consider adding Allen off the waiver wire now, because if his role continues to grow, there will be more competition to get him on fantasy rosters. There's a very real chance that the rookie's fantasy stock will never be lower than it is right now, so managers are advised to get in on the ground floor.",
+      "metadata": {
+        "description": "Washington Commanders running back Kaytron Allen was able to carve out a role in Week 1, despite ranking third on the depth chart behind Jacory Croskey-Merritt and Rachaad White. It wasn't the prettiest or flashiest performance, but his four rushing attempts for 10 yards ranked ahead of many other teams' No. 3 running backs in terms of involvement. It was very encouraging to see the Commanders carve out playing time (10% of snaps) for the rookie in the season opener, as it indicates that his role could only grow going forward. Managers in deeper leagues should consider adding Allen off the waiver wire now, because if his role continues to grow, there will be more competition to get him on fantasy rosters. There's a very real chance that the rookie's fantasy stock will never be lower than it is right now, so managers are advised to get in on the ground floor.",
+        "title": "Kaytron Allen Carving Out Role Despite No. 3 Spot on Depth Chart",
+        "topic_id": "1405794580019843072",
+        "url": "https://www.rotoballer.com/player-news/kaytron-allen-carving-out-role-despite-no-3-spot-on-depth-chart/1932455"
+      },
+      "nfl_team": "WAS",
+      "player_id": "13405",
+      "player_name": "Kaytron Allen",
+      "position": "RB",
+      "published": 1789515190000,
+      "source": "rotoballer",
+      "source_key": "221169",
+      "story_id": "nfl|13405|rotoballer|221169|1789515190000",
+      "title": "Kaytron Allen Carving Out Role Despite No. 3 Spot on Depth Chart",
+      "url": "https://www.rotoballer.com/player-news/kaytron-allen-carving-out-role-despite-no-3-spot-on-depth-chart/1932455"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers tight end Oronde Gadsden had a relatively quiet Week 1 showing, but the track record from his rookie season in 2025 suggests that he could be a key waiver-wire target for managers this year. Gadsden ranked as the TE15 in PPR leagues with 49 catches, 664 yards, and three touchdowns last year, and most of that production came in Week 6 or later. However, there's a new obstacle in his path this year, and it's the depth chart. Gadsden fell to second in the tight end pecking order after the Chargers signed David Njoku in free agency. Njoku played a modest 55% of snaps in Week 1, but Gadsden's snap share was even lower at just 18%. The 23-year-old needs one domino to fall in his favor, and there's a chance that's the injury to Ladd McConkey (chest). The veteran wide receiver went down last week, leading to a void in the passing game. Gadsden has a great opportunity to step up with more volume in Week 2, ranking as a TE2 for fantasy purposes. He's definitely a riskier target, but the Syracuse product is a proven player who knows what it takes to produce at the NFL level. There's some deep-league streamer appeal here for Week 2 against the Las Vegas Raiders, especially if McConkey doesn't end up playing.",
+      "metadata": {
+        "description": "Los Angeles Chargers tight end Oronde Gadsden had a relatively quiet Week 1 showing, but the track record from his rookie season in 2025 suggests that he could be a key waiver-wire target for managers this year. Gadsden ranked as the TE15 in PPR leagues with 49 catches, 664 yards, and three touchdowns last year, and most of that production came in Week 6 or later. However, there's a new obstacle in his path this year, and it's the depth chart. Gadsden fell to second in the tight end pecking order after the Chargers signed David Njoku in free agency. Njoku played a modest 55% of snaps in Week 1, but Gadsden's snap share was even lower at just 18%. The 23-year-old needs one domino to fall in his favor, and there's a chance that's the injury to Ladd McConkey (chest). The veteran wide receiver went down last week, leading to a void in the passing game. Gadsden has a great opportunity to step up with more volume in Week 2, ranking as a TE2 for fantasy purposes. He's definitely a riskier target, but the Syracuse product is a proven player who knows what it takes to produce at the NFL level. There's some deep-league streamer appeal here for Week 2 against the Las Vegas Raiders, especially if McConkey doesn't end up playing.",
+        "title": "Oronde Gadsden an Impact Playmaker with Streaming Potential",
+        "topic_id": "1405793320982130688",
+        "url": "https://www.rotoballer.com/player-news/oronde-gadsden-ii-an-impact-playmaker-with-streaming-potential/1932450"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12493",
+      "player_name": "Oronde Gadsden",
+      "position": "TE",
+      "published": 1789514945000,
+      "source": "rotoballer",
+      "source_key": "221168",
+      "story_id": "nfl|12493|rotoballer|221168|1789514945000",
+      "title": "Oronde Gadsden an Impact Playmaker with Streaming Potential",
+      "url": "https://www.rotoballer.com/player-news/oronde-gadsden-ii-an-impact-playmaker-with-streaming-potential/1932450"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers quarterback Aaron Rodgers has a tough matchup with the New England Patriots in Week 2. Rodgers had a somewhat pedestrian performance in the Steelers' 20-13 season-opening victory over the Atlanta Falcons. He completed 24 out of 40 pass attempts (60%) for 221 yards and one touchdown. He did not throw an interception. Rodgers averaged just 5.5 yards per attempt and was sacked twice. The Patriots held the Seattle Seahawks to just 200 yards passing in Week 1, although Sam Darnold was injured early and the Seahawks had to rely on Drew Lock at quarterback. The Patriots also boasted one of the NFL's best passing defenses in 2025. Rodgers is currently rostered in just 10% of Yahoo leagues and can likely stay on the waiver wire for Week 2 in most formats.",
+      "metadata": {
+        "description": "Pittsburgh Steelers quarterback Aaron Rodgers has a tough matchup with the New England Patriots in Week 2. Rodgers had a somewhat pedestrian performance in the Steelers' 20-13 season-opening victory over the Atlanta Falcons. He completed 24 out of 40 pass attempts (60%) for 221 yards and one touchdown. He did not throw an interception. Rodgers averaged just 5.5 yards per attempt and was sacked twice. The Patriots held the Seattle Seahawks to just 200 yards passing in Week 1, although Sam Darnold was injured early and the Seahawks had to rely on Drew Lock at quarterback. The Patriots also boasted one of the NFL's best passing defenses in 2025. Rodgers is currently rostered in just 10% of Yahoo leagues and can likely stay on the waiver wire for Week 2 in most formats.",
+        "title": "Aaron Rodgers Doesn't Offer Much Streaming Appeal in Week 2",
+        "topic_id": "1405779477799190528",
+        "url": "https://www.rotoballer.com/player-news/aaron-rodgers-doesnt-offer-much-streaming-appeal-in-week-2/1932404"
+      },
+      "nfl_team": "PIT",
+      "player_id": "96",
+      "player_name": "Aaron Rodgers",
+      "position": "QB",
+      "published": 1789510806000,
+      "source": "rotoballer",
+      "source_key": "221163",
+      "story_id": "nfl|96|rotoballer|221163|1789510806000",
+      "title": "Aaron Rodgers Doesn't Offer Much Streaming Appeal in Week 2",
+      "url": "https://www.rotoballer.com/player-news/aaron-rodgers-doesnt-offer-much-streaming-appeal-in-week-2/1932404"
+    },
     {
       "analysis": "Hurts made the most of an inconsistent season-opening performance behind center, averaging 14.5 yards per completion in the win. The quarterback will look to reward fantasy managers with more explosive dual-threat production in a favorable Week 2 matchup against the Tennessee Titans.",
       "description": "Jalen Hurts completed 14-of-25 pass attempts for 203 yards and three touchdowns while also rushing seven times for 46 yards in the Eagles' 24-22 Week 1 win over the Washington Commanders.",
@@ -185,6 +416,26 @@
       "url": "https://www.fantasypros.com/nfl/news/608196/tank-bigsby-sees-one-touch-week-1.php"
     },
     {
+      "analysis": null,
+      "description": "Arizona Cardinals quarterback Jacoby Brissett helped lead his team to an impressive win over the Los Angeles Chargers in Week 1. Brissett completed 27-of-37 passing attempts for 277 yards with a touchdown and no interceptions. He also rushed the ball six times for 14 yards during the upset victory. It looks like Brissett is picking up right where he left off last season. The 33-year-old has excellent chemistry with tight end Trey McBride, and it showed again on Sunday. The Cardinals will head into a tough matchup against the Seattle Seahawks defense in Week 2. Brissett could be a matchup-based streaming option, but he won't be an ideal choice for Week 2.",
+      "metadata": {
+        "description": "Arizona Cardinals quarterback Jacoby Brissett helped lead his team to an impressive win over the Los Angeles Chargers in Week 1. Brissett completed 27-of-37 passing attempts for 277 yards with a touchdown and no interceptions. He also rushed the ball six times for 14 yards during the upset victory. It looks like Brissett is picking up right where he left off last season. The 33-year-old has excellent chemistry with tight end Trey McBride, and it showed again on Sunday. The Cardinals will head into a tough matchup against the Seattle Seahawks defense in Week 2. Brissett could be a matchup-based streaming option, but he won't be an ideal choice for Week 2.",
+        "title": "Jacoby Brissett is Gaining Traction After Strong Start",
+        "topic_id": "1405765635555733504",
+        "url": "https://www.rotoballer.com/player-news/jacoby-brissett-is-gaining-traction-after-strong-start/1932384"
+      },
+      "nfl_team": "ARI",
+      "player_id": "3257",
+      "player_name": "Jacoby Brissett",
+      "position": "QB",
+      "published": 1789508408000,
+      "source": "rotoballer",
+      "source_key": "221160",
+      "story_id": "nfl|3257|rotoballer|221160|1789508408000",
+      "title": "Jacoby Brissett is Gaining Traction After Strong Start",
+      "url": "https://www.rotoballer.com/player-news/jacoby-brissett-is-gaining-traction-after-strong-start/1932384"
+    },
+    {
       "analysis": "Lane suffered a fractured wrist in the Ravens' Week 1 win over the Colts on Sunday, and now that he's set for surgery, the rookie wideout is hopeful to miss only \"about a month,\" according to Zenitz. With Zay Flowers (hamstring) also less than 100 percent, the Ravens could be dipping into their wideout depth early in the 2026 campaign. Rashod Bateman, Chris Moore and LaJohntay Wester picked up the slack against Indy, but Devontez Walker (groin) and rookie Elijah Sarratt could join the mix Sunday against the Saints.",
       "description": "Lane (wrist) is expected to undergo surgery in the coming days, potentially as soon as Wednesday, Matt Zenitz of CBS Sports reports.",
       "metadata": {
@@ -203,6 +454,26 @@
       "story_id": "nfl|13293|rotowire|637498|1789507953000",
       "title": "Ja'Kobi Lane - Expected to undergo wrist surgery",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders wide receiver Jack Bech made the most of his opportunities during the Week 1 matchup against the Miami Dolphins. He only played 27 of the 68 offensive snaps, but he made the most of his time on the field. Bech hauled in three of his four targets for 23 yards and a touchdown in the win. There is no clear No. 1 wideout in Las Vegas right now, so Bech has room to grow into the top option in Las Vegas. The 23-year-old probably won't be a viable starting option in 12-team leagues, but he's someone worth stashing in deep leagues and dynasty formats while he develops.",
+      "metadata": {
+        "description": "Las Vegas Raiders wide receiver Jack Bech made the most of his opportunities during the Week 1 matchup against the Miami Dolphins. He only played 27 of the 68 offensive snaps, but he made the most of his time on the field. Bech hauled in three of his four targets for 23 yards and a touchdown in the win. There is no clear No. 1 wideout in Las Vegas right now, so Bech has room to grow into the top option in Las Vegas. The 23-year-old probably won't be a viable starting option in 12-team leagues, but he's someone worth stashing in deep leagues and dynasty formats while he develops.",
+        "title": "Jack Bech has Stash Value After Scoring in Season Opener",
+        "topic_id": "1405763119053119488",
+        "url": "https://www.rotoballer.com/player-news/jack-bech-has-stash-value-after-scoring-in-season-opener/1932377"
+      },
+      "nfl_team": "LV",
+      "player_id": "12483",
+      "player_name": "Jack Bech",
+      "position": "WR",
+      "published": 1789507686000,
+      "source": "rotoballer",
+      "source_key": "221159",
+      "story_id": "nfl|12483|rotoballer|221159|1789507686000",
+      "title": "Jack Bech has Stash Value After Scoring in Season Opener",
+      "url": "https://www.rotoballer.com/player-news/jack-bech-has-stash-value-after-scoring-in-season-opener/1932377"
     },
     {
       "analysis": "Daniels was unable to find much success against a stout Philadelphia defense in the season opener, completing 53% of his pass attempts in the loss. The quarterback will look to offer more impactful results against a Dallas Cowboys defense that struggled in Week 1 against the New York Giants.",
@@ -268,6 +539,26 @@
       "url": "https://www.fantasypros.com/nfl/news/608174/terry-mclaurin-quiet-week-1-loss-to-eagles.php"
     },
     {
+      "analysis": null,
+      "description": "There was a lot of offseason buzz around Denver Broncos rookie fourth-round running back Jonah Coleman, despite the fact that the team also has J.K. Dobbins and RJ Harvey primed for big roles in their backfield in 2026. The 23-year-old from the University of Washington got off to a slow start in his regular-season debut on Monday night in the 31-10 loss to the division-rival Kansas City Chiefs in Week 1, playing just three snaps on offense and not seeing a single touch out of the backfield. He did return one kickoff for 27 yards on special teams. Coleman came in projected as Denver's RB3, but he was a distant third behind Dobbins and Harvey, with the Broncos abandoning their running game early on in KC. Denver has a lot of room for improvement on offense after an ugly showing out of the gate, and perhaps that means more involvement for Coleman alongside Dobbins and Harvey. The 5-foot-8, 220-pounder does not have any current standalone fantasy appeal heading into a Week 2 tilt at home against the Jacksonville Jaguars, but he remains an intriguing deep-league stash for RB depth because of his power as a runner between the tackles. Coleman is rostered in 33% of Yahoo leagues right now.",
+      "metadata": {
+        "description": "There was a lot of offseason buzz around Denver Broncos rookie fourth-round running back Jonah Coleman, despite the fact that the team also has J.K. Dobbins and RJ Harvey primed for big roles in their backfield in 2026. The 23-year-old from the University of Washington got off to a slow start in his regular-season debut on Monday night in the 31-10 loss to the division-rival Kansas City Chiefs in Week 1, playing just three snaps on offense and not seeing a single touch out of the backfield. He did return one kickoff for 27 yards on special teams. Coleman came in projected as Denver's RB3, but he was a distant third behind Dobbins and Harvey, with the Broncos abandoning their running game early on in KC. Denver has a lot of room for improvement on offense after an ugly showing out of the gate, and perhaps that means more involvement for Coleman alongside Dobbins and Harvey. The 5-foot-8, 220-pounder does not have any current standalone fantasy appeal heading into a Week 2 tilt at home against the Jacksonville Jaguars, but he remains an intriguing deep-league stash for RB depth because of his power as a runner between the tackles. Coleman is rostered in 33% of Yahoo leagues right now.",
+        "title": "Jonah Coleman Still Worth Rostering as RB Depth in Deep Leagues",
+        "topic_id": "1405755568659943424",
+        "url": "https://www.rotoballer.com/player-news/jonah-coleman-still-worth-rostering-as-rb-depth-in-deep-leagues/1932337"
+      },
+      "nfl_team": "DEN",
+      "player_id": "13345",
+      "player_name": "Jonah Coleman",
+      "position": "RB",
+      "published": 1789505922000,
+      "source": "rotoballer",
+      "source_key": "221156",
+      "story_id": "nfl|13345|rotoballer|221156|1789505922000",
+      "title": "Jonah Coleman Still Worth Rostering as RB Depth in Deep Leagues",
+      "url": "https://www.rotoballer.com/player-news/jonah-coleman-still-worth-rostering-as-rb-depth-in-deep-leagues/1932337"
+    },
+    {
       "analysis": "Diggs saw plenty of volume as part of a Washington passing attack held in check, leading the team in targets in a losing effort. The veteran wideout offers fantasy managers a stable WR2/3 option while the Commanders offense looks to get back on track in a Week 2 matchup against the Dallas Cowboys.",
       "description": "Stefon Diggs hauled in four of his nine targets for 55 yards and one touchdown in the Commanders' 24-22 Week 1 loss to the Philadelphia Eagles.",
       "metadata": {
@@ -287,6 +578,26 @@
       "story_id": "nfl|2449|fantasy_pros|608160|1789505454487",
       "title": "Stefon Diggs finds end zone in Week 1 loss to Eagles",
       "url": "https://www.fantasypros.com/nfl/news/608160/stefon-diggs-finds-end-zone-week-1-loss-to-eagles.php"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts quarterback Daniel Jones had a lackluster 2026 season opener in Sunday's Week 1 loss to the Baltimore Ravens, going 19-for-31 passing for 166 yards for one touchdown and one interception. The 29-year-old had one carry for a gain of four yards. Most of the production on offense came from star running back Jonathan Taylor, as Jones had a measly 5.4 yards per pass attempt. We will give the former first-rounder from Duke a pass, though, in his first game back from an Achilles tendon tear late last season while going up against a formidable defense in Baltimore. Jones was on pace for a 4,000-yard passing season in 2025 in his first season in Indy before his season-ending injury, so fantasy managers should not be so quick to completely write him off in 2026 as he continues to put his Achilles tear further in the rearview mirror. Week 2 against the Kansas City Chiefs on the road on Sunday Night Football probably is not the place to trust him in two-QB superflex leagues, but Jones is still a solid QB depth stash in those formats. He is currently rostered in 24% of Yahoo leagues.",
+      "metadata": {
+        "description": "Indianapolis Colts quarterback Daniel Jones had a lackluster 2026 season opener in Sunday's Week 1 loss to the Baltimore Ravens, going 19-for-31 passing for 166 yards for one touchdown and one interception. The 29-year-old had one carry for a gain of four yards. Most of the production on offense came from star running back Jonathan Taylor, as Jones had a measly 5.4 yards per pass attempt. We will give the former first-rounder from Duke a pass, though, in his first game back from an Achilles tendon tear late last season while going up against a formidable defense in Baltimore. Jones was on pace for a 4,000-yard passing season in 2025 in his first season in Indy before his season-ending injury, so fantasy managers should not be so quick to completely write him off in 2026 as he continues to put his Achilles tear further in the rearview mirror. Week 2 against the Kansas City Chiefs on the road on Sunday Night Football probably is not the place to trust him in two-QB superflex leagues, but Jones is still a solid QB depth stash in those formats. He is currently rostered in 24% of Yahoo leagues.",
+        "title": "Daniel Jones Merely a Superflex Stash Option at QB Going into Week 2",
+        "topic_id": "1405753052169785344",
+        "url": "https://www.rotoballer.com/player-news/daniel-jones-merely-a-superflex-stash-option-at-qb-going-into-week-2/1932326"
+      },
+      "nfl_team": "IND",
+      "player_id": "5870",
+      "player_name": "Daniel Jones",
+      "position": "QB",
+      "published": 1789505409000,
+      "source": "rotoballer",
+      "source_key": "221155",
+      "story_id": "nfl|5870|rotoballer|221155|1789505409000",
+      "title": "Daniel Jones Merely a Superflex Stash Option at QB Going into Week 2",
+      "url": "https://www.rotoballer.com/player-news/daniel-jones-merely-a-superflex-stash-option-at-qb-going-into-week-2/1932326"
     },
     {
       "analysis": "White made the most of modest touches in the season-opening contest, finishing second to Jacory Croskey-Merritt in touches in the loss. The running back offers more value in PPR formats as the No. 2 backfield option for the Commanders, with a Week 2 contest against the Dallas Cowboys up next.",
@@ -69643,106 +69954,6 @@
       "story_id": "nfl|7611|rotoballer|218793|1786954448000",
       "title": "Rhamondre Stevenson Sees First-Team Reps in Red Zone",
       "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-sees-first-team-reps-in-red-zone/1910464"
-    },
-    {
-      "analysis": "Johnson is coming off a breakout season in which he easily set career bests with 77 receptions and 889 yards, so it's little surprise that he remains the top tight end for the Saints. Now trailing him on the depth chart are offseason acquisition Noah Fant and rookie third-rounder Oscar Delp.",
-      "description": "Johnson is listed as the starting tight end on the Saints' unofficial depth chart.",
-      "metadata": {
-        "analysis": "Johnson is coming off a breakout season in which he easily set career bests with 77 receptions and 889 yards, so it's little surprise that he remains the top tight end for the Saints. Now trailing him on the depth chart are offseason acquisition Noah Fant and rookie third-rounder Oscar Delp.",
-        "description": "Johnson is listed as the starting tight end on the Saints' unofficial depth chart.",
-        "title": "Juwan Johnson - Remains top tight end",
-        "topic_id": "1394908951664926720"
-      },
-      "nfl_team": "NO",
-      "player_id": "7002",
-      "player_name": "Juwan Johnson",
-      "position": "TE",
-      "published": 1786934423000,
-      "source": "rotowire",
-      "source_key": "633905",
-      "story_id": "nfl|7002|rotowire|633905|1786934423000",
-      "title": "Juwan Johnson - Remains top tight end",
-      "url": null
-    },
-    {
-      "analysis": "The Cardinals are hoping that Love will recover in time to suit up for the regular-season opener against the Chargers on Sunday, Sept. 13, but the rookie third overall pick almost certainly won't play again during the preseason and could miss regular-season action as well since he faces a multi-week recovery timeline with less than a month to go until the season. If Love is sidelined or limited to begin the regular season, Allgeier would be in line to get the majority of backfield opportunities for the Cardinals, though James Conner (foot) or Trey Benson (knee) also could enter the mix if they recover from their respective injuries.",
-      "description": "Allgeier could open the regular season as the Cardinals' primary running back, as Adam Schefter of ESPN reports that Jeremiyah Love sustained a high-ankle sprain in Thursday's preseason win over the Raiders.",
-      "metadata": {
-        "analysis": "The Cardinals are hoping that Love will recover in time to suit up for the regular-season opener against the Chargers on Sunday, Sept. 13, but the rookie third overall pick almost certainly won't play again during the preseason and could miss regular-season action as well since he faces a multi-week recovery timeline with less than a month to go until the season. If Love is sidelined or limited to begin the regular season, Allgeier would be in line to get the majority of backfield opportunities for the Cardinals, though James Conner (foot) or Trey Benson (knee) also could enter the mix if they recover from their respective injuries.",
-        "description": "Allgeier could open the regular season as the Cardinals' primary running back, as Adam Schefter of ESPN reports that Jeremiyah Love sustained a high-ankle sprain in Thursday's preseason win over the Raiders.",
-        "title": "Tyler Allgeier - Love's injury opens up opportunity",
-        "topic_id": "1394900143022546944"
-      },
-      "nfl_team": "ARI",
-      "player_id": "8132",
-      "player_name": "Tyler Allgeier",
-      "position": "RB",
-      "published": 1786932291000,
-      "source": "rotowire",
-      "source_key": "633900",
-      "story_id": "nfl|8132|rotowire|633900|1786932291000",
-      "title": "Tyler Allgeier - Love's injury opens up opportunity",
-      "url": null
-    },
-    {
-      "analysis": "Shaheed was among the numerous Seahawks starters that sat out the preseason opener. Montorie Foster took advantage of his expanded role with five catches for 36 yards and a touchdown Saturday. Jaxon Smith-Njigba remains the undisputed No. 1 wide receiver for the Seahawks, while Shaheed, Cooper Kupp, Tory Horton, Jake Bobo and possibly Foster or Emmanuel Henderson will compete for targets behind JSN. Shaheed is also projected to maintain his role as the primary return man on special teams.",
-      "description": "Shaheed didn't suit up for Saturday's 17-7 preseason loss to the Cowboys.",
-      "metadata": {
-        "analysis": "Shaheed was among the numerous Seahawks starters that sat out the preseason opener. Montorie Foster took advantage of his expanded role with five catches for 36 yards and a touchdown Saturday. Jaxon Smith-Njigba remains the undisputed No. 1 wide receiver for the Seahawks, while Shaheed, Cooper Kupp, Tory Horton, Jake Bobo and possibly Foster or Emmanuel Henderson will compete for targets behind JSN. Shaheed is also projected to maintain his role as the primary return man on special teams.",
-        "description": "Shaheed didn't suit up for Saturday's 17-7 preseason loss to the Cowboys.",
-        "title": "Rashid Shaheed - Rested in Week 1 of preseason",
-        "topic_id": "1394878748041428992"
-      },
-      "nfl_team": "SEA",
-      "player_id": "8676",
-      "player_name": "Rashid Shaheed",
-      "position": "WR",
-      "published": 1786927369000,
-      "source": "rotowire",
-      "source_key": "633887",
-      "story_id": "nfl|8676|rotowire|633887|1786927369000",
-      "title": "Rashid Shaheed - Rested in Week 1 of preseason",
-      "url": null
-    },
-    {
-      "analysis": "Most of Seattle's starters sat out Saturday's preseason opener, with Barner among them. Backup TEs Elijah Arroyo, Nick Vannet and Nick Kallerup each had one catch Saturday, and Eric Saubert is also competing for a roster spot at the position. Barner seems entrenched atop the depth chart on the heels of a sophomore regular season in which he caught 52 of 68 targets for 519 receiving yards and six touchdown receptions, though Arroyo was a second-round pick in 2025 and is hoping to earn a larger role in his second season, much like Barner did a year ago.",
-      "description": "Barner was rested for Seattle's 17-7 preseason loss to the Cowboys on Saturday.",
-      "metadata": {
-        "analysis": "Most of Seattle's starters sat out Saturday's preseason opener, with Barner among them. Backup TEs Elijah Arroyo, Nick Vannet and Nick Kallerup each had one catch Saturday, and Eric Saubert is also competing for a roster spot at the position. Barner seems entrenched atop the depth chart on the heels of a sophomore regular season in which he caught 52 of 68 targets for 519 receiving yards and six touchdown receptions, though Arroyo was a second-round pick in 2025 and is hoping to earn a larger role in his second season, much like Barner did a year ago.",
-        "description": "Barner was rested for Seattle's 17-7 preseason loss to the Cowboys on Saturday.",
-        "title": "AJ Barner - Not used in preseason opener",
-        "topic_id": "1394877488814907392"
-      },
-      "nfl_team": "SEA",
-      "player_id": "11603",
-      "player_name": "AJ Barner",
-      "position": "TE",
-      "published": 1786926987000,
-      "source": "rotowire",
-      "source_key": "633886",
-      "story_id": "nfl|11603|rotowire|633886|1786926987000",
-      "title": "AJ Barner - Not used in preseason opener",
-      "url": null
-    },
-    {
-      "analysis": "Goedert and other key starters were rested for the preseason opener. Rookie second-round pick Eli Stowers caught all three of his targets for 12 yards and the Eagles got their first look at the rookie second-round pick in a game situation. Stowers is unlikely to challenge Goedert for the top spot on the depth chart out of the gate, and Goedert has a clear path to heavy red-zone involvement following the offseason departure of A.J. Brown. Goedert led the Eagles with 11 receiving touchdowns during the 2025 regular season, but he had only 24 touchdown catches over the previous seven regular seasons combined.",
-      "description": "Goedert didn't play in Saturday's 24-7 preseason loss to the Ravens.",
-      "metadata": {
-        "analysis": "Goedert and other key starters were rested for the preseason opener. Rookie second-round pick Eli Stowers caught all three of his targets for 12 yards and the Eagles got their first look at the rookie second-round pick in a game situation. Stowers is unlikely to challenge Goedert for the top spot on the depth chart out of the gate, and Goedert has a clear path to heavy red-zone involvement following the offseason departure of A.J. Brown. Goedert led the Eagles with 11 receiving touchdowns during the 2025 regular season, but he had only 24 touchdown catches over the previous seven regular seasons combined.",
-        "description": "Goedert didn't play in Saturday's 24-7 preseason loss to the Ravens.",
-        "title": "Dallas Goedert - Rested for preseason opener",
-        "topic_id": "1394874972463177728"
-      },
-      "nfl_team": "PHI",
-      "player_id": "5022",
-      "player_name": "Dallas Goedert",
-      "position": "TE",
-      "published": 1786926324000,
-      "source": "rotowire",
-      "source_key": "633885",
-      "story_id": "nfl|5022|rotowire|633885|1786926324000",
-      "title": "Dallas Goedert - Rested for preseason opener",
-      "url": null
     }
   ]
 }
