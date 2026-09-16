@@ -27,10 +27,10 @@
 - Calvin Ridley — WR — TEN
 - Davante Adams — WR — LAR
 - Deebo Samuel — WR — SF
+- Demarcus Robinson — WR — SF
 - Elic Ayomanor — WR — TEN
 - Jalen Nailor — WR — LV
 - Pat Bryant — WR — DEN
-- Tre Tucker — WR — LV
 - Xavier Hutchinson — WR — HOU
 
 ## Acquired future picks

@@ -1,23 +1,20 @@
 {
-  "last_checked_at": "2026-09-16T04:54:20Z",
+  "last_checked_at": "2026-09-16T09:39:06Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 288,
   "new_story_ids": [
-    "nfl|11627|rotowire|637535|1789518038000",
-    "nfl|12483|rotoballer|221159|1789507686000",
-    "nfl|12492|rotowire|637532|1789517767000",
-    "nfl|12493|rotoballer|221168|1789514945000",
-    "nfl|12540|rotoballer|221173|1789516506000",
-    "nfl|13345|rotoballer|221156|1789505922000",
-    "nfl|13345|rotowire|637537|1789518155000",
-    "nfl|13405|rotoballer|221169|1789515190000",
-    "nfl|13413|rotoballer|221172|1789515905000",
-    "nfl|13413|rotowire|637555|1789520266000",
-    "nfl|3257|rotoballer|221160|1789508408000",
-    "nfl|4227|rotowire|637544|1789518771000",
-    "nfl|5870|rotoballer|221155|1789505409000",
-    "nfl|9494|rotowire|637536|1789518108000",
-    "nfl|96|rotoballer|221163|1789510806000"
+    "nfl|11630|rotoballer|219970|1788373629000",
+    "nfl|11630|rotoballer|220737|1789174927000",
+    "nfl|11630|rotowire|637421|1789435368000",
+    "nfl|3286|fantasy_pros|607072|1789101016441",
+    "nfl|3286|rotoballer|221096|1789436314000",
+    "nfl|3286|rotowire|636893|1789171174000",
+    "nfl|4993|fantasy_pros|607736|1789361460463",
+    "nfl|4993|rotoballer|221035|1789384327000",
+    "nfl|4993|rotowire|637153|1789340295000",
+    "nfl|6130|fantasy_pros|607800|1789386903699",
+    "nfl|6130|rotoballer|221102|1789463602000",
+    "nfl|6130|rotowire|637428|1789436095000"
   ],
   "schema_version": 1,
   "source": {
@@ -2220,6 +2217,26 @@
       "url": "https://www.rotoballer.com/player-news/sam-darnold-expected-to-return-to-play-in-the-near-future/1931827"
     },
     {
+      "analysis": null,
+      "description": "New York Giants running back Devin Singletary took over as the primary backup behind Cam Skattebo after Tyrone Tracy Jr. lost a fumble on one of his two carries. Singletary got 16 rushing yards on six carries and found the end zone while catching all four of his targets for 22 receiving yards. Singletary played 36% of the team's snaps, while Tracy played just two snaps, and Najee Harris was a healthy scratch. While Harris could get some short-yardage work as the season goes on, Singletary has value as the team's primary receiving option out of the backfield and the backup behind Skattebo. If you need RB help in a deep league, especially in PPR formats, Singletary has enough upside to be an option to consider from the waiver wire before Week 2.",
+      "metadata": {
+        "description": "New York Giants running back Devin Singletary took over as the primary backup behind Cam Skattebo after Tyrone Tracy Jr. lost a fumble on one of his two carries. Singletary got 16 rushing yards on six carries and found the end zone while catching all four of his targets for 22 receiving yards. Singletary played 36% of the team's snaps, while Tracy played just two snaps, and Najee Harris was a healthy scratch. While Harris could get some short-yardage work as the season goes on, Singletary has value as the team's primary receiving option out of the backfield and the backup behind Skattebo. If you need RB help in a deep league, especially in PPR formats, Singletary has enough upside to be an option to consider from the waiver wire before Week 2.",
+        "title": "Devin Singletary Emerges as a Deep-League Option",
+        "topic_id": "1405577973188276224",
+        "url": "https://www.rotoballer.com/player-news/devin-singletary-emerges-as-the-a-deep-league-option/1931800"
+      },
+      "nfl_team": "NYG",
+      "player_id": "6130",
+      "player_name": "Devin Singletary",
+      "position": "RB",
+      "published": 1789463602000,
+      "source": "rotoballer",
+      "source_key": "221102",
+      "story_id": "nfl|6130|rotoballer|221102|1789463602000",
+      "title": "Devin Singletary Emerges as a Deep-League Option",
+      "url": "https://www.rotoballer.com/player-news/devin-singletary-emerges-as-the-a-deep-league-option/1931800"
+    },
+    {
       "analysis": "Worthy was on the receiving end of Patrick Mahomes' first completion of the season, which went for nine yards and took the Chiefs down to the Broncos' 26-yard line on an opening drive that culminated in a 15-yard touchdown run by the returning signal-caller. Worthy produced modest gains on his other pair of grabs, but Mahomes recorded just five completions overall to wide receivers in the season-opening victory. Worthy boasts the potential for much better production, and he could have a good opportunity to deliver on that upside in a favorable Week 2 home matchup against the Colts on Sunday night.",
       "description": "Worthy secured three of six targets for 18 yards in the Chiefs' 31-10 win over the Broncos on Monday night.",
       "metadata": {
@@ -2660,6 +2677,46 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Demarcus Robinson will jump to No. 3 on the depth chart after teammate De'Zhaun Stribling suffered an ankle sprain. Robinson didn't initially have any fantasy relevance to start the season, but he's suddenly on the fantasy radar after catching two passes for 50 yards and a touchdown when Stribling exited last Thursday. The veteran pass-catcher has never been worth drafting in fantasy leagues, but he has consistently carved out small stints of fantasy relevance because of his reliability as a depth option in the passing game. Being third on the depth chart might not translate to consistent fantasy dominance, but this offense can definitely support him as a low-end WR3/flex on a weekly basis in deeper leagues. Managers in 14+ team leagues should look to add Robinson off waivers, and he even has some appeal in 12+ team formats, especially for managers who drafted Stribling.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Demarcus Robinson will jump to No. 3 on the depth chart after teammate De'Zhaun Stribling suffered an ankle sprain. Robinson didn't initially have any fantasy relevance to start the season, but he's suddenly on the fantasy radar after catching two passes for 50 yards and a touchdown when Stribling exited last Thursday. The veteran pass-catcher has never been worth drafting in fantasy leagues, but he has consistently carved out small stints of fantasy relevance because of his reliability as a depth option in the passing game. Being third on the depth chart might not translate to consistent fantasy dominance, but this offense can definitely support him as a low-end WR3/flex on a weekly basis in deeper leagues. Managers in 14+ team leagues should look to add Robinson off waivers, and he even has some appeal in 12+ team formats, especially for managers who drafted Stribling.",
+        "title": "Demarcus Robinson Set to Take Over as No. 3 Receiver",
+        "topic_id": "1405463454931861504",
+        "url": "https://www.rotoballer.com/player-news/demarcus-robinson-set-to-take-over-as-no-3-receiver/1931606"
+      },
+      "nfl_team": "SF",
+      "player_id": "3286",
+      "player_name": "Demarcus Robinson",
+      "position": "WR",
+      "published": 1789436314000,
+      "source": "rotoballer",
+      "source_key": "221096",
+      "story_id": "nfl|3286|rotoballer|221096|1789436314000",
+      "title": "Demarcus Robinson Set to Take Over as No. 3 Receiver",
+      "url": "https://www.rotoballer.com/player-news/demarcus-robinson-set-to-take-over-as-no-3-receiver/1931606"
+    },
+    {
+      "analysis": "Singletary made his mark as a pass-catcher in Week 1, most notably reeling in a nine-yard score from Jaxson Dart in the fourth quarter. Cam Skattebo paced the backfield with 18 carries, but he didn't garner a target in the contest, and Singletary may siphon off opportunities from Skattebo on obvious passing downs this season.",
+      "description": "Singletary turned six carries into 16 yards while catching all four of his targets for 22 yards and a touchdown during Sunday night's 28-20 win over Dallas.",
+      "metadata": {
+        "analysis": "Singletary made his mark as a pass-catcher in Week 1, most notably reeling in a nine-yard score from Jaxson Dart in the fourth quarter. Cam Skattebo paced the backfield with 18 carries, but he didn't garner a target in the contest, and Singletary may siphon off opportunities from Skattebo on obvious passing downs this season.",
+        "description": "Singletary turned six carries into 16 yards while catching all four of his targets for 22 yards and a touchdown during Sunday night's 28-20 win over Dallas.",
+        "title": "Devin Singletary - Dual-threat production in Week 1",
+        "topic_id": "1405400537683197952"
+      },
+      "nfl_team": "NYG",
+      "player_id": "6130",
+      "player_name": "Devin Singletary",
+      "position": "RB",
+      "published": 1789436095000,
+      "source": "rotowire",
+      "source_key": "637428",
+      "story_id": "nfl|6130|rotowire|637428|1789436095000",
+      "title": "Devin Singletary - Dual-threat production in Week 1",
+      "url": null
+    },
+    {
       "analysis": "Bernard was able to make his pro debut in Week 1, but it didn't result in any production in the box score. Only DK Metcalf (60), Michael Pittman (56) and 2024 third-rounder Roman Wilson (35) saw any snaps at wide receiver for the Steelers on Sunday otherwise.",
       "description": "Bernard played three of Pittsburgh's 67 offensive snaps during Sunday's 20-13 win versus the Falcons.",
       "metadata": {
@@ -2677,6 +2734,26 @@
       "source_key": "637423",
       "story_id": "nfl|13274|rotowire|637423|1789435568000",
       "title": "Germie Bernard - Minimally involved Sunday",
+      "url": null
+    },
+    {
+      "analysis": "The wide receiver saw six targets in total and played on 37 of 67 offensive snaps. Wilson tied with Jaylen Warren for the second-most targets on the team behind DK Metcalf, so he's clearly a part of the passing game. What he will do with that role moving forward remains to be seen.",
+      "description": "Wilson grabbed three passes for 26 yards and no touchdowns in Sunday's 20-13 win over the Falcons.",
+      "metadata": {
+        "analysis": "The wide receiver saw six targets in total and played on 37 of 67 offensive snaps. Wilson tied with Jaylen Warren for the second-most targets on the team behind DK Metcalf, so he's clearly a part of the passing game. What he will do with that role moving forward remains to be seen.",
+        "description": "Wilson grabbed three passes for 26 yards and no touchdowns in Sunday's 20-13 win over the Falcons.",
+        "title": "Roman Wilson - Catches three passes in win",
+        "topic_id": "1405398020282966016"
+      },
+      "nfl_team": "PIT",
+      "player_id": "11630",
+      "player_name": "Roman Wilson",
+      "position": "WR",
+      "published": 1789435368000,
+      "source": "rotowire",
+      "source_key": "637421",
+      "story_id": "nfl|11630|rotowire|637421|1789435368000",
+      "title": "Roman Wilson - Catches three passes in win",
       "url": null
     },
     {
@@ -6518,6 +6595,27 @@
       "url": "https://www.fantasypros.com/nfl/news/607806/ceedee-lamb-hauls-touchdown-loss-sunday.php"
     },
     {
+      "analysis": "New York's offense looked great on Sunday night, and Singletary certainly played a role in that. He totaled 38 yards and was able to get into the end zone on one of his four receptions. He was the only RB on the team to receive targets in the passing game, so it looks likely that he will be utilized as their primary receiving back moving forward, which is bad news for the fantasy value of Cam Skattebo.",
+      "description": "Devin Singletary rushed the ball six times for 16 yards and caught four passes for 22 yards and a touchdown in Sunday night's 28-20 win over the Dallas Cowboys.",
+      "metadata": {
+        "analysis": "New York's offense looked great on Sunday night, and Singletary certainly played a role in that. He totaled 38 yards and was able to get into the end zone on one of his four receptions. He was the only RB on the team to receive targets in the passing game, so it looks likely that he will be utilized as their primary receiving back moving forward, which is bad news for the fantasy value of Cam Skattebo.",
+        "description": "Devin Singletary rushed the ball six times for 16 yards and caught four passes for 22 yards and a touchdown in Sunday night's 28-20 win over the Dallas Cowboys.",
+        "title": "Devin Singletary finds end zone in win Sunday",
+        "topic_id": "1405194157500256256",
+        "url": "https://www.fantasypros.com/nfl/news/607800/devin-singletary-finds-end-zone-win-sunday.php"
+      },
+      "nfl_team": "NYG",
+      "player_id": "6130",
+      "player_name": "Devin Singletary",
+      "position": "RB",
+      "published": 1789386903699,
+      "source": "fantasy_pros",
+      "source_key": "607800",
+      "story_id": "nfl|6130|fantasy_pros|607800|1789386903699",
+      "title": "Devin Singletary finds end zone in win Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/607800/devin-singletary-finds-end-zone-win-sunday.php"
+    },
+    {
       "analysis": null,
       "description": "Philadelphia Eagles wide receiver Dontayvion Wicks made two catches count in Sunday's 24-22 win over Washington, finishing with 73 yards and a touchdown on four targets. His first reception as an Eagle went 64 yards, and he later got loose from Mike Sainristil for a nine-yard score. That kind of stat line can be easy to dismiss on only four looks, but Wicks wasn't coming from nowhere. He started Week 1, remains listed with the first team on Philadelphia's depth chart, and the Eagles traded a 2026 fifth-round pick and 2027 sixth-rounder for him before extending him through 2027. Philadelphia also threw just 25 times in the opener. Four targets are the part to watch. That is not enough to call Wicks a weekly starter with DeVonta Smith, Dallas Goedert and first-round rookie Makai Lemon all competing for the ball. There is a real role here, though, plus enough downfield ability to matter without huge volume. Wicks is worth adding in 12-team leagues before Week 2 at Tennessee, especially for managers looking for receiver upside rather than an immediate plug-and-play option.",
       "metadata": {
@@ -6702,6 +6800,26 @@
       "story_id": "nfl|13296|rotoballer|221036|1789385045000",
       "title": "Caleb Douglas Is a Week 2 Priority Wide Receiver Add",
       "url": "https://www.rotoballer.com/player-news/caleb-douglas-is-one-of-week-2s-priority-wide-receiver-adds/1931037"
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals tight end Mike Gesicki gave fantasy managers a reason to notice him again Sunday, catching five of seven targets for 78 yards and a touchdown against Tampa Bay. He led Cincinnati in targets, receptions and receiving yards. The catch is how little he actually played. Gesicki was on the field for only 21 offensive snaps while Drew Sample played 42, with Erick All Jr. also part of the rotation. Still, 17 of Gesicki's snaps came on passing routes. When Cincinnati wanted him on the field, it was usually to catch the ball. That is enough to make his 1% Yahoo roster rate interesting after one week. RotoBaller has Gesicki 34th among its Week 2 waiver options and recommends him in 14-team leagues. Houston is a tougher matchup, so managers do not need to force him into lineups yet. In deeper formats, though, Gesicki is worth adding to see if Week 1 was the start of something.",
+      "metadata": {
+        "description": "Cincinnati Bengals tight end Mike Gesicki gave fantasy managers a reason to notice him again Sunday, catching five of seven targets for 78 yards and a touchdown against Tampa Bay. He led Cincinnati in targets, receptions and receiving yards. The catch is how little he actually played. Gesicki was on the field for only 21 offensive snaps while Drew Sample played 42, with Erick All Jr. also part of the rotation. Still, 17 of Gesicki's snaps came on passing routes. When Cincinnati wanted him on the field, it was usually to catch the ball. That is enough to make his 1% Yahoo roster rate interesting after one week. RotoBaller has Gesicki 34th among its Week 2 waiver options and recommends him in 14-team leagues. Houston is a tougher matchup, so managers do not need to force him into lineups yet. In deeper formats, though, Gesicki is worth adding to see if Week 1 was the start of something.",
+        "title": "Mike Gesicki Back on the Fantasy Radar After Big Week 1",
+        "topic_id": "1405244489664040960",
+        "url": "https://www.rotoballer.com/player-news/mike-gesicki-back-on-fantasy-radar-after-big-week-1/1931018"
+      },
+      "nfl_team": "CIN",
+      "player_id": "4993",
+      "player_name": "Mike Gesicki",
+      "position": "TE",
+      "published": 1789384327000,
+      "source": "rotoballer",
+      "source_key": "221035",
+      "story_id": "nfl|4993|rotoballer|221035|1789384327000",
+      "title": "Mike Gesicki Back on the Fantasy Radar After Big Week 1",
+      "url": "https://www.rotoballer.com/player-news/mike-gesicki-back-on-fantasy-radar-after-big-week-1/1931018"
     },
     {
       "analysis": null,
@@ -7671,6 +7789,27 @@
       "story_id": "nfl|10226|fantasy_pros|607735|1789361460476",
       "title": "Andrei Iosivas catches two passes Sunday ",
       "url": "https://www.fantasypros.com/nfl/news/607735/andrei-iosivas-catches-two-passes-sunday.php"
+    },
+    {
+      "analysis": "While Ja'Marr Chase and Tee Higgins were fairly quiet on Sunday, it was Gesicki who led the team in receiving. Despite his big Week 1 performance, he still isn't a reliable weekly start yet. ",
+      "description": "Mike Gesicki caught 5-of-7 targets for 78 yards with a touchdown in the Bengals 33-27 win over the Buccaneers. ",
+      "metadata": {
+        "analysis": "While Ja'Marr Chase and Tee Higgins were fairly quiet on Sunday, it was Gesicki who led the team in receiving. Despite his big Week 1 performance, he still isn't a reliable weekly start yet. ",
+        "description": "Mike Gesicki caught 5-of-7 targets for 78 yards with a touchdown in the Bengals 33-27 win over the Buccaneers. ",
+        "title": "Mike Gesicki explodes to open season",
+        "topic_id": "1405087440829505536",
+        "url": "https://www.fantasypros.com/nfl/news/607736/mike-gesicki-explodes-to-open-season.php"
+      },
+      "nfl_team": "CIN",
+      "player_id": "4993",
+      "player_name": "Mike Gesicki",
+      "position": "TE",
+      "published": 1789361460463,
+      "source": "fantasy_pros",
+      "source_key": "607736",
+      "story_id": "nfl|4993|fantasy_pros|607736|1789361460463",
+      "title": "Mike Gesicki explodes to open season",
+      "url": "https://www.fantasypros.com/nfl/news/607736/mike-gesicki-explodes-to-open-season.php"
     },
     {
       "analysis": "McLaughlin connected on field goals from 34 and 51 yards out. He should remain a steady option for fantasy managers. ",
@@ -10661,6 +10800,26 @@
       "source_key": "637154",
       "story_id": "nfl|8142|rotowire|637154|1789340349000",
       "title": "Alec Pierce - Paces pass catchers in loss",
+      "url": null
+    },
+    {
+      "analysis": "Even with the lethal one-two punch of Ja'Marr Chase and Tee Higgins, it was Gesicki who led the Bengals in catches, targets and receiving yards during Sunday's win, which included a two-yard touchdown pass from Joe Burrow late in the first quarter. Gesicki was also Burrow's go-to target late in the second quarter, with the duo connecting on passes of 16, 11 and 20 yards to help set up a 20-yard field goal from Evan McPherson. Chase, Higgins and running back Chase Brown are still the main playmakers on offense for the Bengals, but Gesicki is more than capable of having games like Sunday. The Bengals will look to start the 2026 season with a 2-0 record next Sunday on the road against the Texans, whose defense gave up 36 points to the Bills and allowed tight end Dalton Kincaid to turn six targets into five catches for 130 yards in Week 1.",
+      "description": "Gesicki caught five passes on seven targets for 78 yards and a touchdown during the Bengals' 33-27 win over the Buccaneers on Sunday.",
+      "metadata": {
+        "analysis": "Even with the lethal one-two punch of Ja'Marr Chase and Tee Higgins, it was Gesicki who led the Bengals in catches, targets and receiving yards during Sunday's win, which included a two-yard touchdown pass from Joe Burrow late in the first quarter. Gesicki was also Burrow's go-to target late in the second quarter, with the duo connecting on passes of 16, 11 and 20 yards to help set up a 20-yard field goal from Evan McPherson. Chase, Higgins and running back Chase Brown are still the main playmakers on offense for the Bengals, but Gesicki is more than capable of having games like Sunday. The Bengals will look to start the 2026 season with a 2-0 record next Sunday on the road against the Texans, whose defense gave up 36 points to the Bills and allowed tight end Dalton Kincaid to turn six targets into five catches for 130 yards in Week 1.",
+        "description": "Gesicki caught five passes on seven targets for 78 yards and a touchdown during the Bengals' 33-27 win over the Buccaneers on Sunday.",
+        "title": "Mike Gesicki - Leads Bengals pass catchers in Week 1 win",
+        "topic_id": "1404999347187224577"
+      },
+      "nfl_team": "CIN",
+      "player_id": "4993",
+      "player_name": "Mike Gesicki",
+      "position": "TE",
+      "published": 1789340295000,
+      "source": "rotowire",
+      "source_key": "637153",
+      "story_id": "nfl|4993|rotowire|637153|1789340295000",
+      "title": "Mike Gesicki - Leads Bengals pass catchers in Week 1 win",
       "url": null
     },
     {
@@ -17755,6 +17914,26 @@
     },
     {
       "analysis": null,
+      "description": "Pittsburgh Steelers wide receiver Roman Wilson reportedly put together an impressive training camp, and we saw him catch three passes for 23 yards throughout the preseason. However, the current state of the Steelers' receiver room will make it very challenging for him to carve out any sort of fantasy relevance this year. Through two seasons in the NFL, Wilson has just 12 catches, 166 yards, and two touchdowns. He was buried on the depth chart last year, and even if he opens this season as the No. 3 receiver on the depth chart, he'll still be stuck behind DK Metcalf and Michael Pittman Jr. in an offense that doesn't have an absurd amount of passing volume available for its depth targets. Plus, there's a chance that Wilson could slip further down the depth chart as rookie Germie Bernard, who had five catches for 64 yards and a touchdown in the preseason, continues to acclimate to the NFL. Fantasy managers can leave Wilson on waivers in all redraft and most dynasty leagues.",
+      "metadata": {
+        "description": "Pittsburgh Steelers wide receiver Roman Wilson reportedly put together an impressive training camp, and we saw him catch three passes for 23 yards throughout the preseason. However, the current state of the Steelers' receiver room will make it very challenging for him to carve out any sort of fantasy relevance this year. Through two seasons in the NFL, Wilson has just 12 catches, 166 yards, and two touchdowns. He was buried on the depth chart last year, and even if he opens this season as the No. 3 receiver on the depth chart, he'll still be stuck behind DK Metcalf and Michael Pittman Jr. in an offense that doesn't have an absurd amount of passing volume available for its depth targets. Plus, there's a chance that Wilson could slip further down the depth chart as rookie Germie Bernard, who had five catches for 64 yards and a touchdown in the preseason, continues to acclimate to the NFL. Fantasy managers can leave Wilson on waivers in all redraft and most dynasty leagues.",
+        "title": "Roman Wilson Has a Tough Path to Week 1 Role Despite Solid Camp",
+        "topic_id": "1404367514338656256",
+        "url": "https://www.rotoballer.com/player-news/roman-wilson-has-a-tough-path-to-week-1-role-despite-solid-camp/1929146"
+      },
+      "nfl_team": "PIT",
+      "player_id": "11630",
+      "player_name": "Roman Wilson",
+      "position": "WR",
+      "published": 1789174927000,
+      "source": "rotoballer",
+      "source_key": "220737",
+      "story_id": "nfl|11630|rotoballer|220737|1789174927000",
+      "title": "Roman Wilson Has a Tough Path to Week 1 Role Despite Solid Camp",
+      "url": "https://www.rotoballer.com/player-news/roman-wilson-has-a-tough-path-to-week-1-role-despite-solid-camp/1929146"
+    },
+    {
+      "analysis": null,
       "description": "Jacksonville Jaguars wide receiver Brian Thomas Jr. took a major step backward in his second pro season last year, and he remains a very uncertain wide receiver for fantasy managers in 2026. Thomas went from ranking as the WR4 in 2024 to the WR44 in 2025. While he did miss three games last year, that brief absence doesn't account for the 45% reduction in receptions, 45% reduction in receiving yards, and 80% reduction in touchdowns from Year 1 to Year 2 in the NFL. More likely than not, we can blame his step backward on a mix of talent and surroundings. Not only did he look like a different, less dominant receiver last year, but he also faced more competition with Travis Hunter's arrival to the NFL, Parker Washington's breakout, and the Jaguars' midseason trade for Jakobi Meyers. Unfortunately for Thomas, those three receivers are back this year, and tight end Brenton Strange could also be on the brink of handling a larger target share. Thomas continues to be plagued by uncertainty in fantasy football, dropping him to the low-end WR3 tier for the time being.",
       "metadata": {
         "description": "Jacksonville Jaguars wide receiver Brian Thomas Jr. took a major step backward in his second pro season last year, and he remains a very uncertain wide receiver for fantasy managers in 2026. Thomas went from ranking as the WR4 in 2024 to the WR44 in 2025. While he did miss three games last year, that brief absence doesn't account for the 45% reduction in receptions, 45% reduction in receiving yards, and 80% reduction in touchdowns from Year 1 to Year 2 in the NFL. More likely than not, we can blame his step backward on a mix of talent and surroundings. Not only did he look like a different, less dominant receiver last year, but he also faced more competition with Travis Hunter's arrival to the NFL, Parker Washington's breakout, and the Jaguars' midseason trade for Jakobi Meyers. Unfortunately for Thomas, those three receivers are back this year, and tight end Brenton Strange could also be on the brink of handling a larger target share. Thomas continues to be plagued by uncertainty in fantasy football, dropping him to the low-end WR3 tier for the time being.",
@@ -17832,6 +18011,26 @@
       "story_id": "nfl|11566|rotoballer|220743|1789172527000",
       "title": "Jayden Daniels Faces Stiff Test in Philly to Open Season",
       "url": "https://www.rotoballer.com/player-news/jayden-daniels-faces-stiff-test-in-philly-to-open-season/1929128"
+    },
+    {
+      "analysis": "Robinson snuck past the Rams secondary midway through the second quarter to haul in a 39-yard touchdown pass from Brock Purdy and give the 49ers a 10-7 lead, with the former adding an 11-yard grab early in the third frame that led to a Mike Evans two-yard touchdown catch three plays later. Robinson played 41 of the 49ers' 65 snaps on offense (63.1 percent), which was second-most among San Francisco wideouts behind Evans (49) and ahead of Deebo Samuel (27). Robinson's extended snap count was largely due to rookie second-rounder De'Zhaun Stribling suffering an ankle injury in the first quarter, and the former could operate in an elevated role in Week 2 against the Dolphins on Sunday, Sept. 20 if Stribling is unable to play.",
+      "description": "Robinson caught two passes (on three targets) for 50 yards and a touchdown during the 49ers' 27-7 win over the Rams in Week 1.",
+      "metadata": {
+        "analysis": "Robinson snuck past the Rams secondary midway through the second quarter to haul in a 39-yard touchdown pass from Brock Purdy and give the 49ers a 10-7 lead, with the former adding an 11-yard grab early in the third frame that led to a Mike Evans two-yard touchdown catch three plays later. Robinson played 41 of the 49ers' 65 snaps on offense (63.1 percent), which was second-most among San Francisco wideouts behind Evans (49) and ahead of Deebo Samuel (27). Robinson's extended snap count was largely due to rookie second-rounder De'Zhaun Stribling suffering an ankle injury in the first quarter, and the former could operate in an elevated role in Week 2 against the Dolphins on Sunday, Sept. 20 if Stribling is unable to play.",
+        "description": "Robinson caught two passes (on three targets) for 50 yards and a touchdown during the 49ers' 27-7 win over the Rams in Week 1.",
+        "title": "Demarcus Robinson - Hauls in 39-yard TD pass",
+        "topic_id": "1404290752648953857"
+      },
+      "nfl_team": "SF",
+      "player_id": "3286",
+      "player_name": "Demarcus Robinson",
+      "position": "WR",
+      "published": 1789171174000,
+      "source": "rotowire",
+      "source_key": "636893",
+      "story_id": "nfl|3286|rotowire|636893|1789171174000",
+      "title": "Demarcus Robinson - Hauls in 39-yard TD pass",
+      "url": null
     },
     {
       "analysis": "The lone pass Ferguson saw from Matthew Stafford was on fourth-and-5 midway through the fourth quarter, which easily sailed over the second-year tight end and out of bounds. Ferguson's 31 snaps on offense were ahead of Tyler Higbee (12) but behind Colby Parkinson (41), so Ferguson's role in the Rams offense figures to mostly be as a run blocker in 12- and 13-man personnel. The Rams will host the Giants in Week 2 on Monday, Sept. 21.",
@@ -21150,6 +21349,27 @@
       "story_id": "nfl|11783|fantasy_pros|607075|1789101616876",
       "title": "Ryan Flournoy agrees to one-year, $6 million extension with Dallas",
       "url": "https://www.fantasypros.com/nfl/news/607075/ryan-flournoy-agrees-to-one-year-6-million-extension-with-dallas.php"
+    },
+    {
+      "analysis": "Robinson had a red zone target in this game as well, but failed to snag the short pass. His long touchdown saved his fantasy day, but it's worth asking: how many fantasy managers did it truly save?",
+      "description": "Demarcus Robinson caught two of three targets for 50 yards and a score in the 49ers' 27-7 win over the Rams on Thursday night.",
+      "metadata": {
+        "analysis": "Robinson had a red zone target in this game as well, but failed to snag the short pass. His long touchdown saved his fantasy day, but it's worth asking: how many fantasy managers did it truly save?",
+        "description": "Demarcus Robinson caught two of three targets for 50 yards and a score in the 49ers' 27-7 win over the Rams on Thursday night.",
+        "title": "Demarcus Robinson catches long touchdown in win",
+        "topic_id": "1403995059426230272",
+        "url": "https://www.fantasypros.com/nfl/news/607072/demarcus-robinson-catches-long-touchdown-win.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "3286",
+      "player_name": "Demarcus Robinson",
+      "position": "WR",
+      "published": 1789101016441,
+      "source": "fantasy_pros",
+      "source_key": "607072",
+      "story_id": "nfl|3286|fantasy_pros|607072|1789101016441",
+      "title": "Demarcus Robinson catches long touchdown in win",
+      "url": "https://www.fantasypros.com/nfl/news/607072/demarcus-robinson-catches-long-touchdown-win.php"
     },
     {
       "analysis": "Evans shrugged off recent nagging injuries to hit the ground running in his 49ers regular-season debut, recording three catches for 22 yards on the opening possession alone. He would go on to double up that reception tally by game's end, tying for the team lead in that category with Deebo Samuel while also drawing even with his teammate for second in targets. Evans also was on the receiving end of the second of Brock Purdy's three touchdown passes, muscling his way to a contested two-yard grab in the left corner of the end zone in the third quarter. If early returns are any indication, the Purdy-Evans connection could be a prolific one throughout the season, and a Week 2 home matchup against the Dolphins on Sunday, Sept. 20 presents as a particularly promising matchup.",
@@ -41709,6 +41929,26 @@
       "story_id": "nfl|9224|rotowire|636023|1788374547000",
       "title": "Chase Brown - Primed for increased role",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers veteran quarterback Aaron Rodgers said that wide receiver Roman Wilson \"is a great kid\" and that he \"has had a fantastic camp,\" according to Brooke Pryor of ESPN. Rodgers went on to say that he has the \"utmost confidence\" in Wilson, who is \"going to have to play a big role\" in the offense in 2026. The future Hall of Fame QB has been clicking with Wilson in training camp and the preseason and appears to have developed a strong chemistry. The two did not click in 2025, as Wilson caught only 12 of 21 targets for 166 yards and two touchdowns in 13 regular-season games in Wilson's second year in the league. The 25-year-old former third-rounder from Michigan should be much more involved in new head coach Mike McCarthy's offense, but with DK Metcalf and Michael Pittman Jr. both ahead of him on the WR depth chart, Wilson is unlikely to see enough weekly volume to be a realistic starting option in most fantasy leagues. He is currently outside of RotoBaller's top-137 receiver rankings for 2026.",
+      "metadata": {
+        "description": "Pittsburgh Steelers veteran quarterback Aaron Rodgers said that wide receiver Roman Wilson \"is a great kid\" and that he \"has had a fantastic camp,\" according to Brooke Pryor of ESPN. Rodgers went on to say that he has the \"utmost confidence\" in Wilson, who is \"going to have to play a big role\" in the offense in 2026. The future Hall of Fame QB has been clicking with Wilson in training camp and the preseason and appears to have developed a strong chemistry. The two did not click in 2025, as Wilson caught only 12 of 21 targets for 166 yards and two touchdowns in 13 regular-season games in Wilson's second year in the league. The 25-year-old former third-rounder from Michigan should be much more involved in new head coach Mike McCarthy's offense, but with DK Metcalf and Michael Pittman Jr. both ahead of him on the WR depth chart, Wilson is unlikely to see enough weekly volume to be a realistic starting option in most fantasy leagues. He is currently outside of RotoBaller's top-137 receiver rankings for 2026.",
+        "title": "Roman Wilson Receives More Praise From his QB",
+        "topic_id": "1401005431752499200",
+        "url": "https://www.rotoballer.com/player-news/roman-wilson-receives-more-praise-from-his-qb/1922157"
+      },
+      "nfl_team": "PIT",
+      "player_id": "11630",
+      "player_name": "Roman Wilson",
+      "position": "WR",
+      "published": 1788373629000,
+      "source": "rotoballer",
+      "source_key": "219970",
+      "story_id": "nfl|11630|rotoballer|219970|1788373629000",
+      "title": "Roman Wilson Receives More Praise From his QB",
+      "url": "https://www.rotoballer.com/player-news/roman-wilson-receives-more-praise-from-his-qb/1922157"
     },
     {
       "analysis": "If preseason usage means anything, it would seem Canales was putting the plan into action this summer. After playing just 15.3 percent of his regular-season offensive snaps out of the slot as a rookie, McMillan was in the slot on nine of 22 snaps (40.9 percent) across two preseason games. Moving to the slot more would give the 6-foot-5 McMillan significant size and speed advantages inside and allow for more easy \"layup\" style catches to get the ball in his hands quicker. The 2025 Offensive Rookie of the Year figures to be the center of Carolina's offense this season after posting 70 catches for 1,014 yards and seven scores across 17 regular-season contests last season.",
@@ -69854,106 +70094,6 @@
       "story_id": "nfl|8167|rotoballer|218800|1786960148000",
       "title": "Pieces in Place for a Career Year from Christian Watson",
       "url": "https://www.rotoballer.com/player-news/pieces-in-place-for-a-career-year-from-christian-watson/1910509"
-    },
-    {
-      "analysis": null,
-      "description": "Throughout his first six years in the league, Chicago Bears running back D'Andre Swift has had his detractors, but he has never finished outside the top 24 of his position, and in reuniting with head coach Ben Johnson in 2025, he turned in a career-best RB15 fantasy finish. Splitting work with rookie Kyle Monangai (knee), Swift topped 1,000 rushing yards for the second time in his career while tying his high mark of 10 total touchdowns. Monangai left Sunday's practice with a knee injury, and while it's not believed to be overly serious, his absence serves as a reminder that any time missed could lead to a bell-cow role for Swift in what projects to be one of the highest-scoring offenses in the league. Currently being drafted as the RB22, Swift can meet expectations simply by performing to the level he always has, but with multiple avenues for further upside, he could prove to be one of the better values in the middle rounds of 2026 drafts.",
-      "metadata": {
-        "description": "Throughout his first six years in the league, Chicago Bears running back D'Andre Swift has had his detractors, but he has never finished outside the top 24 of his position, and in reuniting with head coach Ben Johnson in 2025, he turned in a career-best RB15 fantasy finish. Splitting work with rookie Kyle Monangai (knee), Swift topped 1,000 rushing yards for the second time in his career while tying his high mark of 10 total touchdowns. Monangai left Sunday's practice with a knee injury, and while it's not believed to be overly serious, his absence serves as a reminder that any time missed could lead to a bell-cow role for Swift in what projects to be one of the highest-scoring offenses in the league. Currently being drafted as the RB22, Swift can meet expectations simply by performing to the level he always has, but with multiple avenues for further upside, he could prove to be one of the better values in the middle rounds of 2026 drafts.",
-        "title": "D'Andre Swift a Middle-Round Value in an Ascending Offense",
-        "topic_id": "1395090167072591872",
-        "url": "https://www.rotoballer.com/player-news/dandre-swift-a-middle-round-value-in-an-ascending-offense/1910495"
-      },
-      "nfl_team": "CHI",
-      "player_id": "6790",
-      "player_name": "D'Andre Swift",
-      "position": "RB",
-      "published": 1786958768000,
-      "source": "rotoballer",
-      "source_key": "218804",
-      "story_id": "nfl|6790|rotoballer|218804|1786958768000",
-      "title": "D'Andre Swift a Middle-Round Value in an Ascending Offense",
-      "url": "https://www.rotoballer.com/player-news/dandre-swift-a-middle-round-value-in-an-ascending-offense/1910495"
-    },
-    {
-      "analysis": null,
-      "description": "As a rookie in 2024, New England Patriots quarterback Drake Maye threw to a group of receivers consisting of Kendrick Bourne, K.J. Osborn, and the recently retired Ja'Lynn Polk. Just two short years later, his receiver room has transformed into one of the strongest in the league, and in the team's first practice since a preseason opening tie with the Colts, his pass-catchers were putting on a show. In a Saturday session working primarily out of the low red zone, Maye went 10-of-16, while receivers A.J. Brown, Romeo Doubs, Mack Hollins, and Kyle Williams combined for seven touchdown grabs. Tight end Hunter Henry added two of his own, while Kayshon Boutte continued to make highlight plays, as he has throughout training camp. Maye was the MVP runner-up and the fantasy QB2 in 2025, and in an offense that by most accounts has gotten significantly better in its second season under Josh McDaniels, he's now being drafted as a top-three quarterback and could realistically push for an overall QB1 finish.",
-      "metadata": {
-        "description": "As a rookie in 2024, New England Patriots quarterback Drake Maye threw to a group of receivers consisting of Kendrick Bourne, K.J. Osborn, and the recently retired Ja'Lynn Polk. Just two short years later, his receiver room has transformed into one of the strongest in the league, and in the team's first practice since a preseason opening tie with the Colts, his pass-catchers were putting on a show. In a Saturday session working primarily out of the low red zone, Maye went 10-of-16, while receivers A.J. Brown, Romeo Doubs, Mack Hollins, and Kyle Williams combined for seven touchdown grabs. Tight end Hunter Henry added two of his own, while Kayshon Boutte continued to make highlight plays, as he has throughout training camp. Maye was the MVP runner-up and the fantasy QB2 in 2025, and in an offense that by most accounts has gotten significantly better in its second season under Josh McDaniels, he's now being drafted as a top-three quarterback and could realistically push for an overall QB1 finish.",
-        "title": "Drake Maye Taking Advantage of Surrounding Talent",
-        "topic_id": "1395063739681607680",
-        "url": "https://www.rotoballer.com/player-news/drake-maye-taking-advantage-of-surrounding-talent/1910476"
-      },
-      "nfl_team": "NE",
-      "player_id": "11564",
-      "player_name": "Drake Maye",
-      "position": "QB",
-      "published": 1786956659000,
-      "source": "rotoballer",
-      "source_key": "218796",
-      "story_id": "nfl|11564|rotoballer|218796|1786956659000",
-      "title": "Drake Maye Taking Advantage of Surrounding Talent",
-      "url": "https://www.rotoballer.com/player-news/drake-maye-taking-advantage-of-surrounding-talent/1910476"
-    },
-    {
-      "analysis": null,
-      "description": "The New England Patriots put in heavy work out of the short area of the field over the weekend, and in all low red zone periods, second-year running back TreVeyon Henderson was the second back to see work with the first-team offense, rotating in behind veteran Rhamondre Stevenson. Neither back played in Thursday's preseason opener, but they both took carries in Saturday's red zone sessions, working behind fullback Reggie Gilliam, who was signed in free agency and should help a Patriots' rushing attack that too frequently came up short in critical situations in 2025. As a rookie, Henderson led the team in red zone opportunities, and he found some success as both a runner and receiver. However, with few signs throughout training camp that he's set for an expanded role in year two, another split with Stevenson is likely in 2026. With a current ADP of RB24, drafters are betting on upside and an eventual backfield takeover, but even in what projects to be a high-powered offense, there could again be early-season frustrations.",
-      "metadata": {
-        "description": "The New England Patriots put in heavy work out of the short area of the field over the weekend, and in all low red zone periods, second-year running back TreVeyon Henderson was the second back to see work with the first-team offense, rotating in behind veteran Rhamondre Stevenson. Neither back played in Thursday's preseason opener, but they both took carries in Saturday's red zone sessions, working behind fullback Reggie Gilliam, who was signed in free agency and should help a Patriots' rushing attack that too frequently came up short in critical situations in 2025. As a rookie, Henderson led the team in red zone opportunities, and he found some success as both a runner and receiver. However, with few signs throughout training camp that he's set for an expanded role in year two, another split with Stevenson is likely in 2026. With a current ADP of RB24, drafters are betting on upside and an eventual backfield takeover, but even in what projects to be a high-powered offense, there could again be early-season frustrations.",
-        "title": "TreVeyon Henderson Deployed in Rotational Role in the Red Zone",
-        "topic_id": "1395059963679764480",
-        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-deployed-in-rotational-role-in-the-red-zone/1910472"
-      },
-      "nfl_team": "NE",
-      "player_id": "12529",
-      "player_name": "TreVeyon Henderson",
-      "position": "RB",
-      "published": 1786956067000,
-      "source": "rotoballer",
-      "source_key": "218795",
-      "story_id": "nfl|12529|rotoballer|218795|1786956067000",
-      "title": "TreVeyon Henderson Deployed in Rotational Role in the Red Zone",
-      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-deployed-in-rotational-role-in-the-red-zone/1910472"
-    },
-    {
-      "analysis": null,
-      "description": "After four years in a depth role with the Minnesota Vikings, wide receiver Jalen Nailor signed a three-year, $35 million deal with the Las Vegas Raiders, and former All-Pro Steve Smith Sr. believes a 1,000-yard season is well within his realm of possibilities. In speaking with NFL Insider James Palmer, Smith indicated that Nailor would not leave the field in Klint Kubiak's offense and will be the team's clear-cut number one receiver. With All-Pro tight end Brock Bowers in and out of the lineup, Tre Tucker led the Raiders with 696 receiving yards in 2025, but Smith points to his limited vertical route tree as an area where Nailor can step in and add significant improvement. Both Smith and Palmer were in agreement that the free agent addition can thrive in Kubiak's system, and with Nailor being drafted as the WR61, he is the exact type of upside swing that drafters should be targeting in the closing rounds of 2026 drafts.",
-      "metadata": {
-        "description": "After four years in a depth role with the Minnesota Vikings, wide receiver Jalen Nailor signed a three-year, $35 million deal with the Las Vegas Raiders, and former All-Pro Steve Smith Sr. believes a 1,000-yard season is well within his realm of possibilities. In speaking with NFL Insider James Palmer, Smith indicated that Nailor would not leave the field in Klint Kubiak's offense and will be the team's clear-cut number one receiver. With All-Pro tight end Brock Bowers in and out of the lineup, Tre Tucker led the Raiders with 696 receiving yards in 2025, but Smith points to his limited vertical route tree as an area where Nailor can step in and add significant improvement. Both Smith and Palmer were in agreement that the free agent addition can thrive in Kubiak's system, and with Nailor being drafted as the WR61, he is the exact type of upside swing that drafters should be targeting in the closing rounds of 2026 drafts.",
-        "title": "Jalen Nailor \"Will Thrive\" in Klint Kubiak's System",
-        "topic_id": "1395057448431136768",
-        "url": "https://www.rotoballer.com/player-news/jalen-nailor-will-thrive-in-kubiaks-system/1910469"
-      },
-      "nfl_team": "LV",
-      "player_id": "8180",
-      "player_name": "Jalen Nailor",
-      "position": "WR",
-      "published": 1786955412000,
-      "source": "rotoballer",
-      "source_key": "218794",
-      "story_id": "nfl|8180|rotoballer|218794|1786955412000",
-      "title": "Jalen Nailor \"Will Thrive\" in Klint Kubiak's System",
-      "url": "https://www.rotoballer.com/player-news/jalen-nailor-will-thrive-in-kubiaks-system/1910469"
-    },
-    {
-      "analysis": null,
-      "description": "The New England Patriots spent Sunday's walkthrough practice in T-shirts and bucket hats, but in their latest competitive session on Saturday, the team worked heavily out of the low red zone, and it was veteran running back Rhamondre Stevenson who led off all periods with the first-team offense. Second-year player TreVeyon Henderson, who actually led the Patriots in red zone carries as a rookie, rotated in, and both backs took carries behind fullback Reggie Gilliam. Stevenson and Henderson each scored five rushing touchdowns from within the 10-yard line in 2025, and they project to see another fairly even split, though they could both see their efficiency rise in that area of the field with Gilliam ahead of them. Stevenson is RotoBaller's RB26 and a player who should add significant value from the middle rounds of drafts with his underrated work in the receiving game and his share of high-value touches near the goal line.",
-      "metadata": {
-        "description": "The New England Patriots spent Sunday's walkthrough practice in T-shirts and bucket hats, but in their latest competitive session on Saturday, the team worked heavily out of the low red zone, and it was veteran running back Rhamondre Stevenson who led off all periods with the first-team offense. Second-year player TreVeyon Henderson, who actually led the Patriots in red zone carries as a rookie, rotated in, and both backs took carries behind fullback Reggie Gilliam. Stevenson and Henderson each scored five rushing touchdowns from within the 10-yard line in 2025, and they project to see another fairly even split, though they could both see their efficiency rise in that area of the field with Gilliam ahead of them. Stevenson is RotoBaller's RB26 and a player who should add significant value from the middle rounds of drafts with his underrated work in the receiving game and his share of high-value touches near the goal line.",
-        "title": "Rhamondre Stevenson Sees First-Team Reps in Red Zone",
-        "topic_id": "1395053671456206848",
-        "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-sees-first-team-reps-in-red-zone/1910464"
-      },
-      "nfl_team": "NE",
-      "player_id": "7611",
-      "player_name": "Rhamondre Stevenson",
-      "position": "RB",
-      "published": 1786954448000,
-      "source": "rotoballer",
-      "source_key": "218793",
-      "story_id": "nfl|7611|rotoballer|218793|1786954448000",
-      "title": "Rhamondre Stevenson Sees First-Team Reps in Red Zone",
-      "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-sees-first-team-reps-in-red-zone/1910464"
     }
   ]
 }
