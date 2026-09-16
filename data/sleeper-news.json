@@ -1,20 +1,16 @@
 {
-  "last_checked_at": "2026-09-16T09:39:06Z",
+  "last_checked_at": "2026-09-16T14:21:39Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 288,
+  "monitored_player_count": 289,
   "new_story_ids": [
-    "nfl|11630|rotoballer|219970|1788373629000",
-    "nfl|11630|rotoballer|220737|1789174927000",
-    "nfl|11630|rotowire|637421|1789435368000",
-    "nfl|3286|fantasy_pros|607072|1789101016441",
-    "nfl|3286|rotoballer|221096|1789436314000",
-    "nfl|3286|rotowire|636893|1789171174000",
-    "nfl|4993|fantasy_pros|607736|1789361460463",
-    "nfl|4993|rotoballer|221035|1789384327000",
-    "nfl|4993|rotowire|637153|1789340295000",
-    "nfl|6130|fantasy_pros|607800|1789386903699",
-    "nfl|6130|rotoballer|221102|1789463602000",
-    "nfl|6130|rotowire|637428|1789436095000"
+    "nfl|13286|rotoballer|221176|1789553527000",
+    "nfl|3161|fantasy_pros|607748|1789363561294",
+    "nfl|3161|rotoballer|221101|1789437666000",
+    "nfl|3161|rotowire|637228|1789349830000",
+    "nfl|5854|fantasy_pros|606920|1789054504150",
+    "nfl|5854|rotoballer|221112|1789472045000",
+    "nfl|5854|rotowire|636751|1789083861000",
+    "nfl|8408|rotoballer|221175|1789552927000"
   ],
   "schema_version": 1,
   "source": {
@@ -24,6 +20,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks running back Jadarian Price was highly efficient in his NFL debut last week, rushing for 52 yards on 10 carries against the New England Patriots. He also caught two passes. Price certainly didn't have an every-down workload. In fact, he played just under 50% of the offensive snaps. However, he was highly efficient when he did touch the ball, averaging 5.2 yards per carry. Teammate George Holani, who played 46% of the snaps, averaged less than 3.7 YPC, while Emanuel Wilson had just two carries for three yards. Because of the Week 1 box score, all signs point to Price remaining the lead back in Seattle. He still won't be the every-down back, but we also wouldn't be surprised to see him play more than 50% of the snaps now that he has one game under his belt. In similarly good news, a slightly softer matchup awaits Price in Week 2, as the Seahawks face the Cardinals. Arizona's defense looks sneaky good after limiting Omarion Hampton and Keaton Mitchell to 3.25 YPC, but Price is still a high-end RB3/flex in fantasy football because of his lead-back role and touchdown upside.",
+      "metadata": {
+        "description": "Seattle Seahawks running back Jadarian Price was highly efficient in his NFL debut last week, rushing for 52 yards on 10 carries against the New England Patriots. He also caught two passes. Price certainly didn't have an every-down workload. In fact, he played just under 50% of the offensive snaps. However, he was highly efficient when he did touch the ball, averaging 5.2 yards per carry. Teammate George Holani, who played 46% of the snaps, averaged less than 3.7 YPC, while Emanuel Wilson had just two carries for three yards. Because of the Week 1 box score, all signs point to Price remaining the lead back in Seattle. He still won't be the every-down back, but we also wouldn't be surprised to see him play more than 50% of the snaps now that he has one game under his belt. In similarly good news, a slightly softer matchup awaits Price in Week 2, as the Seahawks face the Cardinals. Arizona's defense looks sneaky good after limiting Omarion Hampton and Keaton Mitchell to 3.25 YPC, but Price is still a high-end RB3/flex in fantasy football because of his lead-back role and touchdown upside.",
+        "title": "Jadarian Price Remains Lead Back After Highly Efficient Debut",
+        "topic_id": "1405955657038942208",
+        "url": "https://www.rotoballer.com/player-news/jadarian-price-remains-lead-back-after-highly-efficient-debut/1932658"
+      },
+      "nfl_team": "SEA",
+      "player_id": "13286",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "published": 1789553527000,
+      "source": "rotoballer",
+      "source_key": "221176",
+      "story_id": "nfl|13286|rotoballer|221176|1789553527000",
+      "title": "Jadarian Price Remains Lead Back After Highly Efficient Debut",
+      "url": "https://www.rotoballer.com/player-news/jadarian-price-remains-lead-back-after-highly-efficient-debut/1932658"
+    },
+    {
+      "analysis": null,
+      "description": "The Minnesota Vikings worked out three free agent running backs on Tuesday, including veteran Jerome Ford, according to Will Ragatz of Bring Me The News. The timing of these workouts is particularly relevant, given that starting running back Jordan Mason (thumb) suffered an apparent thumb injury during Week 1. Officially, the team is calling it a sore thumb, and Mason will be evaluated in the days leading up to Week 2. However, the fact that the Vikings worked out three running backs indicates that there's a very real chance Mason isn't able to suit up this Sunday against the Chicago Bears. The 27-year-old played less than half of the snaps in Week 1, but he still managed double-digit fantasy points with 11 carries, 59 rushing yards, and one rushing touchdown. If he can't suit up in Week 2, Aaron Jones would take over as the lead back.",
+      "metadata": {
+        "description": "The Minnesota Vikings worked out three free agent running backs on Tuesday, including veteran Jerome Ford, according to Will Ragatz of Bring Me The News. The timing of these workouts is particularly relevant, given that starting running back Jordan Mason (thumb) suffered an apparent thumb injury during Week 1. Officially, the team is calling it a sore thumb, and Mason will be evaluated in the days leading up to Week 2. However, the fact that the Vikings worked out three running backs indicates that there's a very real chance Mason isn't able to suit up this Sunday against the Chicago Bears. The 27-year-old played less than half of the snaps in Week 1, but he still managed double-digit fantasy points with 11 carries, 59 rushing yards, and one rushing touchdown. If he can't suit up in Week 2, Aaron Jones would take over as the lead back.",
+        "title": "Vikings Work Out Three Running Backs with Jordan Mason Injured",
+        "topic_id": "1405953140762644480",
+        "url": "https://www.rotoballer.com/player-news/vikings-work-out-three-running-backs-with-jordan-mason-injured/1932648"
+      },
+      "nfl_team": "MIN",
+      "player_id": "8408",
+      "player_name": "Jordan Mason",
+      "position": "RB",
+      "published": 1789552927000,
+      "source": "rotoballer",
+      "source_key": "221175",
+      "story_id": "nfl|8408|rotoballer|221175|1789552927000",
+      "title": "Vikings Work Out Three Running Backs with Jordan Mason Injured",
+      "url": "https://www.rotoballer.com/player-news/vikings-work-out-three-running-backs-with-jordan-mason-injured/1932648"
+    },
     {
       "analysis": "Allen played only one snap on offense, failing to build off of the momentum he had built for himself in the preseason. The wide receiver was also on the field for four snaps with the special-teams unit. Allen appears to be a firm No. 4 option behind Rashee Rice, Xavier Worthy and Tyquan Thornton at wideout ahead of the team's matchup with the Colts in Week 2.",
       "description": "Allen did not catch his only target during Monday night's 31-10 win over Denver.",
@@ -2078,6 +2114,26 @@
     },
     {
       "analysis": null,
+      "description": "Seattle Seahawks backup quarterback Drew Lock led the team to a Week 1 win over the New England Patriots while filling in for starter Sam Darnold, who suffered a glute injury. Lock was 16-for-22 passing for 187 yards and a touchdown in relief of Darnold. He also rushed two times for 13 yards. Darnold could be looking at a four-to-six week recovery period and Lock looks like a more than capable backup quarterback during that time. Expect the Seahawks to be a run-heavy team while Darnold is out, but with receivers like Jaxon Smith-Njigba, Lock has some potential to put up some decent stat lines. However for fantasy purposes, Lock is more of a backup quarterback and should not put up QB1 numbers during Darnold's time out.",
+      "metadata": {
+        "description": "Seattle Seahawks backup quarterback Drew Lock led the team to a Week 1 win over the New England Patriots while filling in for starter Sam Darnold, who suffered a glute injury. Lock was 16-for-22 passing for 187 yards and a touchdown in relief of Darnold. He also rushed two times for 13 yards. Darnold could be looking at a four-to-six week recovery period and Lock looks like a more than capable backup quarterback during that time. Expect the Seahawks to be a run-heavy team while Darnold is out, but with receivers like Jaxon Smith-Njigba, Lock has some potential to put up some decent stat lines. However for fantasy purposes, Lock is more of a backup quarterback and should not put up QB1 numbers during Darnold's time out.",
+        "title": "Drew Lock Can Fill In As Backup Fantasy QB",
+        "topic_id": "1405613210266062848",
+        "url": "https://www.rotoballer.com/player-news/drew-lock-can-fill-in-as-backup-fantasy-qb/1931957"
+      },
+      "nfl_team": "SEA",
+      "player_id": "5854",
+      "player_name": "Drew Lock",
+      "position": "QB",
+      "published": 1789472045000,
+      "source": "rotoballer",
+      "source_key": "221112",
+      "story_id": "nfl|5854|rotoballer|221112|1789472045000",
+      "title": "Drew Lock Can Fill In As Backup Fantasy QB",
+      "url": "https://www.rotoballer.com/player-news/drew-lock-can-fill-in-as-backup-fantasy-qb/1931957"
+    },
+    {
+      "analysis": null,
       "description": "Minnesota Vikings tight end T.J. Hockenson opened 2026 with four catches for 36 yards and a touchdown on five targets in Sunday's 39-22 win over Green Bay. The score came on a 16-yard pass from Carson Wentz, who took over after Kyler Murray left in the first quarter with a concussion. It was a better fantasy line than Hockenson gave managers most weeks last season, when he finished with 51 catches for 438 yards and three touchdowns in 15 games. Five targets still do not suddenly make him an every-week starter, especially in an offense with Justin Jefferson, Jordan Addison and Jauan Jennings. Murray also remains in the concussion protocol, leaving Minnesota's Week 2 quarterback situation unsettled for now. Hockenson is back in the streaming conversation after finding the end zone, but this is still a deeper-league play rather than a priority claim. Managers looking for help at tight end can consider him for Sunday's trip to Chicago, particularly in 14-team formats.",
       "metadata": {
         "description": "Minnesota Vikings tight end T.J. Hockenson opened 2026 with four catches for 36 yards and a touchdown on five targets in Sunday's 39-22 win over Green Bay. The score came on a 16-yard pass from Carson Wentz, who took over after Kyler Murray left in the first quarter with a concussion. It was a better fantasy line than Hockenson gave managers most weeks last season, when he finished with 51 catches for 438 yards and three touchdowns in 15 games. Five targets still do not suddenly make him an every-week starter, especially in an offense with Justin Jefferson, Jordan Addison and Jauan Jennings. Murray also remains in the concussion protocol, leaving Minnesota's Week 2 quarterback situation unsettled for now. Hockenson is back in the streaming conversation after finding the end zone, but this is still a deeper-league play rather than a priority claim. Managers looking for help at tight end can consider him for Sunday's trip to Chicago, particularly in 14-team formats.",
@@ -2515,6 +2571,26 @@
       "story_id": "nfl|8110|rotowire|637444|1789437974000",
       "title": "Jake Ferguson - Quiet in Week 1",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings quarterback Carson Wentz was dominant in relief of quarterback Kyler Murray (concussion) on Sunday, and he could remain a high-end QB2 if he gets the nod to start in Week 2. Wentz took over for Murray in the middle of the first quarter, and despite a modest 12-for-19 passing line with just 133 passing yards, he still managed to throw for three touchdowns. He also played turnover-free football, showing flashes of the Wentz we saw during the peak of his career in Philadelphia. On the one hand, Wentz's floor may be a little lower going forward now that defenses are preparing for him instead of Murray. On the other hand, in Week 2 he draws a matchup against the Bears, who just played to a massive 59-37 shootout against the Panthers. There's the potential for a lot of points to be scored this Sunday, and so we're keeping Wentz in the mid-to-high QB2 tier. He's absolutely a solid quarterback streamer, assuming Murray remains in concussion protocol for at least one more week.",
+      "metadata": {
+        "description": "Minnesota Vikings quarterback Carson Wentz was dominant in relief of quarterback Kyler Murray (concussion) on Sunday, and he could remain a high-end QB2 if he gets the nod to start in Week 2. Wentz took over for Murray in the middle of the first quarter, and despite a modest 12-for-19 passing line with just 133 passing yards, he still managed to throw for three touchdowns. He also played turnover-free football, showing flashes of the Wentz we saw during the peak of his career in Philadelphia. On the one hand, Wentz's floor may be a little lower going forward now that defenses are preparing for him instead of Murray. On the other hand, in Week 2 he draws a matchup against the Bears, who just played to a massive 59-37 shootout against the Panthers. There's the potential for a lot of points to be scored this Sunday, and so we're keeping Wentz in the mid-to-high QB2 tier. He's absolutely a solid quarterback streamer, assuming Murray remains in concussion protocol for at least one more week.",
+        "title": "Carson Wentz a Priority Waiver Target if Named Week 2 Starter",
+        "topic_id": "1405469747054698496",
+        "url": "https://www.rotoballer.com/player-news/carson-wentz-a-priority-waiver-target-if-named-week-2-starter/1931621"
+      },
+      "nfl_team": "MIN",
+      "player_id": "3161",
+      "player_name": "Carson Wentz",
+      "position": "QB",
+      "published": 1789437666000,
+      "source": "rotoballer",
+      "source_key": "221101",
+      "story_id": "nfl|3161|rotoballer|221101|1789437666000",
+      "title": "Carson Wentz a Priority Waiver Target if Named Week 2 Starter",
+      "url": "https://www.rotoballer.com/player-news/carson-wentz-a-priority-waiver-target-if-named-week-2-starter/1931621"
     },
     {
       "analysis": null,
@@ -7476,6 +7552,27 @@
       "url": "https://www.fantasypros.com/nfl/news/607755/will-reichard-connects-on-lone-field-goal-sunday.php"
     },
     {
+      "analysis": "Wentz entered the game in the first quarter after Kyler Murray exited with a concussion and was ruled out. He connected twice with Justin Jefferson and once with TJ Hockenson in the end zone. He could be in the QB2 conversation next week in 2-QB and superflex leagues against the Bears. ",
+      "description": "Carson Wentz completed 12-of-19 passes for 133 yards and three touchdowns in the Vikings 39-22 win over the Packers. ",
+      "metadata": {
+        "analysis": "Wentz entered the game in the first quarter after Kyler Murray exited with a concussion and was ruled out. He connected twice with Justin Jefferson and once with TJ Hockenson in the end zone. He could be in the QB2 conversation next week in 2-QB and superflex leagues against the Bears. ",
+        "description": "Carson Wentz completed 12-of-19 passes for 133 yards and three touchdowns in the Vikings 39-22 win over the Packers. ",
+        "title": "Carson Wentz tosses three touchdowns Sunday ",
+        "topic_id": "1405096252353286144",
+        "url": "https://www.fantasypros.com/nfl/news/607748/carson-wentz-tosses-three-touchdowns-sunday.php"
+      },
+      "nfl_team": "MIN",
+      "player_id": "3161",
+      "player_name": "Carson Wentz",
+      "position": "QB",
+      "published": 1789363561294,
+      "source": "fantasy_pros",
+      "source_key": "607748",
+      "story_id": "nfl|3161|fantasy_pros|607748|1789363561294",
+      "title": "Carson Wentz tosses three touchdowns Sunday ",
+      "url": "https://www.fantasypros.com/nfl/news/607748/carson-wentz-tosses-three-touchdowns-sunday.php"
+    },
+    {
       "analysis": "Mason led the way in the Vikings backfield as both he and Aaron Jones saw double-digit carries. He will be in the low-end RB2 conversation next week against the Bears. ",
       "description": "Jordan Mason ran for 59 yards and a touchdown on 15 carries in the Vikings 39-22 win over the Packers. ",
       "metadata": {
@@ -8946,6 +9043,26 @@
       "source_key": "637229",
       "story_id": "nfl|2449|rotowire|637229|1789349860000",
       "title": "Stefon Diggs - Catches TD in first game with Commanders",
+      "url": null
+    },
+    {
+      "analysis": "Wentz was ready to play after Murray's first-quarter exit, and the veteran backup orchestrated an impressive comeback, during which the Vikings scored 22 unanswered fourth-quarter points. Wentz connected with Justin Jefferson for a 39-yard touchdown in the second quarter and a nine-yard touchdown in the fourth, sandwiched around a 16-yard touchdown pass to T.J. Hockenson in the third quarter. If Murray doesn't clear concussion protocol in time to face the Bears on the road in Week 2, Wentz would presumably be tabbed for the start over J.J. McCarthy.",
+      "description": "Wentz completed 12 of 19 passes for 133 yards and three touchdowns after replacing Kyler Murray (concussion) in the first quarter of Sunday's 39-22 win over the Packers. Wentz also rushed five times for minus-1 yard and threw a successful two-point conversion.",
+      "metadata": {
+        "analysis": "Wentz was ready to play after Murray's first-quarter exit, and the veteran backup orchestrated an impressive comeback, during which the Vikings scored 22 unanswered fourth-quarter points. Wentz connected with Justin Jefferson for a 39-yard touchdown in the second quarter and a nine-yard touchdown in the fourth, sandwiched around a 16-yard touchdown pass to T.J. Hockenson in the third quarter. If Murray doesn't clear concussion protocol in time to face the Bears on the road in Week 2, Wentz would presumably be tabbed for the start over J.J. McCarthy.",
+        "description": "Wentz completed 12 of 19 passes for 133 yards and three touchdowns after replacing Kyler Murray (concussion) in the first quarter of Sunday's 39-22 win over the Packers. Wentz also rushed five times for minus-1 yard and threw a successful two-point conversion.",
+        "title": "Carson Wentz - Throws three TDs after Murray injury",
+        "topic_id": "1405039618876788736"
+      },
+      "nfl_team": "MIN",
+      "player_id": "3161",
+      "player_name": "Carson Wentz",
+      "position": "QB",
+      "published": 1789349830000,
+      "source": "rotowire",
+      "source_key": "637228",
+      "story_id": "nfl|3161|rotowire|637228|1789349830000",
+      "title": "Carson Wentz - Throws three TDs after Murray injury",
       "url": null
     },
     {
@@ -22209,6 +22326,26 @@
       "url": "https://www.fantasypros.com/nfl/news/607042/max-klare-inactive-against-niners.php"
     },
     {
+      "analysis": "Lock stepped up in relief after Darnold was hurt in the first quarter of Wednesday's season opener, as the backup guided the Seahawks to a 13-10 win over the Patriots while finishing the game with 187 passing yards and one touchdown. Darnold hasn't officially been ruled out for Week 2, but the Seahawks are likely to take a cautious approach with their starting QB since the strength of Seattle's team is the defense, so Lock is in good position to hold the fort effectively while Darnold recovers. Lock has a 10-18 career regular-season record as a starter.",
+      "description": "Lock is likely to start Week 2 against the Cardinals, as Ian Rapoport of ESPN and NFL Network reports that Sam Darnold (hip) is expected to miss at least one game.",
+      "metadata": {
+        "analysis": "Lock stepped up in relief after Darnold was hurt in the first quarter of Wednesday's season opener, as the backup guided the Seahawks to a 13-10 win over the Patriots while finishing the game with 187 passing yards and one touchdown. Darnold hasn't officially been ruled out for Week 2, but the Seahawks are likely to take a cautious approach with their starting QB since the strength of Seattle's team is the defense, so Lock is in good position to hold the fort effectively while Darnold recovers. Lock has a 10-18 career regular-season record as a starter.",
+        "description": "Lock is likely to start Week 2 against the Cardinals, as Ian Rapoport of ESPN and NFL Network reports that Sam Darnold (hip) is expected to miss at least one game.",
+        "title": "Drew Lock - Likely to make at least one spot start",
+        "topic_id": "1403924649665925120"
+      },
+      "nfl_team": "SEA",
+      "player_id": "5854",
+      "player_name": "Drew Lock",
+      "position": "QB",
+      "published": 1789083861000,
+      "source": "rotowire",
+      "source_key": "636751",
+      "story_id": "nfl|5854|rotowire|636751|1789083861000",
+      "title": "Drew Lock - Likely to make at least one spot start",
+      "url": null
+    },
+    {
       "analysis": "Brown is believed to be dealing with a high-ankle sprain that may require a stint on injured reserve, per NFL reporter Jordan Schultz. The good news is he suffered the injury on a Wednesday, which gives him a few extra days to rehab this week, but it's still looking like the star wideout will miss multiple games. While Brown is sidelined, the Patriots will need to lean on Romeo Doubs at wideout, while DeMario Douglas, Mack Hollins and Kyle Williams all figure to take on larger roles. Hunter Henry is also a candidate to see a bigger target share while Brown is sidelined.",
       "description": "Brown is expected to miss four weeks with the ankle injury he suffered in Monday night's loss to the Seahawks, Ian Rapoport of ESPN and NFL Network reports.",
       "metadata": {
@@ -24285,6 +24422,27 @@
       "story_id": "nfl|9228|rotoballer|220557|1789054588000",
       "title": "Bryce Young a Risky Streaming Option for Week 1",
       "url": "https://www.rotoballer.com/player-news/bryce-young-a-risky-streaming-option-for-week-1/1927792"
+    },
+    {
+      "analysis": "Lock entered the game early on Wednesday night after starting QB Sam Darnold (hip) left the game with an injury. He played pretty well as the team's replacement, finishing with 200 total yards and a touchdown while limiting mistakes in a quality win over the Patriots. It remains to be seen whether or not he will have to serve as the team's starter for a while.",
+      "description": "Drew Lock completed 16-of-22 passing attempts for 187 yards and one touchdown in Wednesday night's 13-10 win over the New England Patriots.",
+      "metadata": {
+        "analysis": "Lock entered the game early on Wednesday night after starting QB Sam Darnold (hip) left the game with an injury. He played pretty well as the team's replacement, finishing with 200 total yards and a touchdown while limiting mistakes in a quality win over the Patriots. It remains to be seen whether or not he will have to serve as the team's starter for a while.",
+        "description": "Drew Lock completed 16-of-22 passing attempts for 187 yards and one touchdown in Wednesday night's 13-10 win over the New England Patriots.",
+        "title": "Drew Lock solid in win Wednesday",
+        "topic_id": "1403799972746428416",
+        "url": "https://www.fantasypros.com/nfl/news/606920/drew-lock-solid-win-wednesday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "5854",
+      "player_name": "Drew Lock",
+      "position": "QB",
+      "published": 1789054504150,
+      "source": "fantasy_pros",
+      "source_key": "606920",
+      "story_id": "nfl|5854|fantasy_pros|606920|1789054504150",
+      "title": "Drew Lock solid in win Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/606920/drew-lock-solid-win-wednesday.php"
     },
     {
       "analysis": "On Wednesday, Smith-Njigba picked up right where he left off last season, exploding for 122 yards and a touchdown in a big win over the Patriots. He did that with Drew Lock throwing him passes after starter Sam Darnold went down with a hip injury earlier in the game. Fantasy managers should be happy with his performance in this matchup but should keep a close eye on the health of Darnold, as the young wideout's week-to-week ceiling will certainly take a hit if their starting QB misses significant time.",
@@ -69974,126 +70132,6 @@
       "story_id": "nfl|7543|rotoballer|218822|1786978267000",
       "title": "Travis Etienne Jr. Has Held His Redraft Value in New Orleans",
       "url": "https://www.rotoballer.com/player-news/travis-etienne-jr-has-held-his-redraft-value-in-new-orleans/1910703"
-    },
-    {
-      "analysis": null,
-      "description": "Arizona Cardinals wide receiver Marvin Harrison Jr. continues to show encouraging signs during his third training camp. Josh Weinfuss noted Monday that the Cardinals have seen growth from Harrison this summer, with the former fourth overall pick making some impressive catches and putting his natural talent on display. There have been flashes throughout camp, including a diving catch for more than 50 yards on a deep ball from Jacoby Brissett earlier this month. Harrison is coming off a difficult second season that was interrupted by several health issues. He finished 2025 with 41 catches for 608 yards and four touchdowns in 12 games while dealing with a concussion, appendicitis and heel problems along the way. His first two NFL seasons haven't produced the consistent numbers many expected when Arizona drafted him, but the talent has never really been the question. Harrison putting together stronger work this summer is a good sign as he looks to take a step forward in 2026.",
-      "metadata": {
-        "description": "Arizona Cardinals wide receiver Marvin Harrison Jr. continues to show encouraging signs during his third training camp. Josh Weinfuss noted Monday that the Cardinals have seen growth from Harrison this summer, with the former fourth overall pick making some impressive catches and putting his natural talent on display. There have been flashes throughout camp, including a diving catch for more than 50 yards on a deep ball from Jacoby Brissett earlier this month. Harrison is coming off a difficult second season that was interrupted by several health issues. He finished 2025 with 41 catches for 608 yards and four touchdowns in 12 games while dealing with a concussion, appendicitis and heel problems along the way. His first two NFL seasons haven't produced the consistent numbers many expected when Arizona drafted him, but the talent has never really been the question. Harrison putting together stronger work this summer is a good sign as he looks to take a step forward in 2026.",
-        "title": "Marvin Harrison Jr. Showing Growth in Training Camp",
-        "topic_id": "1395145573824225286",
-        "url": "https://www.rotoballer.com/player-news/marvin-harrison-jr-showing-growth-in-training-camp/1910679"
-      },
-      "nfl_team": "ARI",
-      "player_id": "11628",
-      "player_name": "Marvin Harrison",
-      "position": "WR",
-      "published": 1786976108000,
-      "source": "rotoballer",
-      "source_key": "218819",
-      "story_id": "nfl|11628|rotoballer|218819|1786976108000",
-      "title": "Marvin Harrison Jr. Showing Growth in Training Camp",
-      "url": "https://www.rotoballer.com/player-news/marvin-harrison-jr-showing-growth-in-training-camp/1910679"
-    },
-    {
-      "analysis": null,
-      "description": "Cleveland Browns rookie first-round wide receiver KC Concepcion said his confidence \"skyrocketed\" after the back-to-back big catch and touchdown run on a sweep in the team's preseason opener on Saturday against the Chicago Bears, according to Mary Kay Cabot of The Cleveland Plain Dealer. The 21-year-old 24th overall pick from Texas A&M caught three of his four targets for 27 yards on Saturday and took his only carry for 14 yards and a touchdown while playing with the first-team offense. Concepcion is pretty much a lock to be a starting wideout for Cleveland in his first year in the NFL in 2026, and he could even take over as the Browns' WR1 after catching 61 passes for 919 yards and an SEC-high nine touchdowns in 13 games for the Aggies last year. Concepcion caught 25 TD passes in his three years in college (two years at North Carolina State). The only thing that could hold him back in his first year in the NFL is the Browns' less-than-ideal QB situation with Deshaun Watson and Shedeur Sanders battling for the starting job. Concepcion's name should be rising up draft boards this fall as a popular late-round flier with upside. UPDATE: Head coach Todd Monken said on Monday that he'd love to get the ball into Concepcion's hands as much as possible.",
-      "metadata": {
-        "description": "Cleveland Browns rookie first-round wide receiver KC Concepcion said his confidence \"skyrocketed\" after the back-to-back big catch and touchdown run on a sweep in the team's preseason opener on Saturday against the Chicago Bears, according to Mary Kay Cabot of The Cleveland Plain Dealer. The 21-year-old 24th overall pick from Texas A&M caught three of his four targets for 27 yards on Saturday and took his only carry for 14 yards and a touchdown while playing with the first-team offense. Concepcion is pretty much a lock to be a starting wideout for Cleveland in his first year in the NFL in 2026, and he could even take over as the Browns' WR1 after catching 61 passes for 919 yards and an SEC-high nine touchdowns in 13 games for the Aggies last year. Concepcion caught 25 TD passes in his three years in college (two years at North Carolina State). The only thing that could hold him back in his first year in the NFL is the Browns' less-than-ideal QB situation with Deshaun Watson and Shedeur Sanders battling for the starting job. Concepcion's name should be rising up draft boards this fall as a popular late-round flier with upside. UPDATE: Head coach Todd Monken said on Monday that he'd love to get the ball into Concepcion's hands as much as possible.",
-        "title": "KC Concepcion's Confidence has \"Skyrocketed\"",
-        "topic_id": "1395119146118709248",
-        "url": "https://www.rotoballer.com/player-news/kc-concepcions-confidence-has-skyrocketed/1910645"
-      },
-      "nfl_team": "CLE",
-      "player_id": "13298",
-      "player_name": "KC Concepcion",
-      "position": "WR",
-      "published": 1786969867000,
-      "source": "rotoballer",
-      "source_key": "218812",
-      "story_id": "nfl|13298|rotoballer|218812|1786969867000",
-      "title": "KC Concepcion's Confidence has \"Skyrocketed\"",
-      "url": "https://www.rotoballer.com/player-news/kc-concepcions-confidence-has-skyrocketed/1910645"
-    },
-    {
-      "analysis": null,
-      "description": "Kansas City Chiefs rookie fifth-round running back Emmett Johnson appears to be the clear No. 2 RB in KC in training camp behind starter Kenneth Walker, with Johnson getting the next touch after Walker in 9-on-7 drills in Monday's practice, according to Pete Sweeney of The Kansas City Star. Head coach Andy Reid had good things to say about the Nebraska product after he carried the ball 12 times for 59 yards and caught all three of his targets for 10 yards during the preseason opener against the Los Angeles Rams on Saturday. Johnson's carries and rushing yards led the team. The 22-year-old was listed as the RB3 on the first unofficial depth chart of the preseason behind Walker and Emari Demercado, but if Johnson continues to run hard and look good in camp and the preseason, it would not be a surprise at all to see him open his rookie campaign as the primary backup in KC. In addition to Demercado, Johnson is competing with Brashard Smith for the backup role. Walker will be close to a bell-cow back in his first year with the Chiefs, but Johnson's pass-catching ability alone might make him the best upside handcuff option in KC.",
-      "metadata": {
-        "description": "Kansas City Chiefs rookie fifth-round running back Emmett Johnson appears to be the clear No. 2 RB in KC in training camp behind starter Kenneth Walker, with Johnson getting the next touch after Walker in 9-on-7 drills in Monday's practice, according to Pete Sweeney of The Kansas City Star. Head coach Andy Reid had good things to say about the Nebraska product after he carried the ball 12 times for 59 yards and caught all three of his targets for 10 yards during the preseason opener against the Los Angeles Rams on Saturday. Johnson's carries and rushing yards led the team. The 22-year-old was listed as the RB3 on the first unofficial depth chart of the preseason behind Walker and Emari Demercado, but if Johnson continues to run hard and look good in camp and the preseason, it would not be a surprise at all to see him open his rookie campaign as the primary backup in KC. In addition to Demercado, Johnson is competing with Brashard Smith for the backup role. Walker will be close to a bell-cow back in his first year with the Chiefs, but Johnson's pass-catching ability alone might make him the best upside handcuff option in KC.",
-        "title": "Emmett Johnson the Clear RB2 in Kansas City",
-        "topic_id": "1395109079424204800",
-        "url": "https://www.rotoballer.com/player-news/emmett-johnson-the-clear-rb2-in-kansas-city/1910620"
-      },
-      "nfl_team": "KC",
-      "player_id": "13337",
-      "player_name": "Emmett Johnson",
-      "position": "RB",
-      "published": 1786967648000,
-      "source": "rotoballer",
-      "source_key": "218809",
-      "story_id": "nfl|13337|rotoballer|218809|1786967648000",
-      "title": "Emmett Johnson the Clear RB2 in Kansas City",
-      "url": "https://www.rotoballer.com/player-news/emmett-johnson-the-clear-rb2-in-kansas-city/1910620"
-    },
-    {
-      "analysis": null,
-      "description": "Tampa Bay Buccaneers running back Kenny Gainwell has the potential to be a value pick at his current ADP of 88.9. He's being selected in the eighth round of fantasy drafts as the 32nd running back off the board. The Bucs signed Gainwell to join a backfield that also features Bucky Irving and Sean Tucker. While Irving is the clear No. 1 running back here, we expect to see Gainwell get plenty of volume, similar to his role with the Steelers in 2025. In Pittsburgh, he handled 114 carries and 73 receptions (187 touches) while teammate Jaylen Warren had 211 carries and 40 catches (254 touches). When all was said and done, the two backs combined for 441 touches, but Warren only had 67 more than Gainwell. It doesn't seem like the Bucs signed Gainwell to be solely a third-down back. Yes, he'll fetch plenty of targets, but he'll also get some early-down and goal-line work to offer a change of scenery and keep Irving fresh. In this type of role last year, Gainwell ranked as the RB16 in PPR leagues. He's the RB37 in RotoBaller's redraft rankings for 2026, but we wouldn't be shocked to see him finish as a top-24 fantasy back in PPR leagues for the second year in a row.",
-      "metadata": {
-        "description": "Tampa Bay Buccaneers running back Kenny Gainwell has the potential to be a value pick at his current ADP of 88.9. He's being selected in the eighth round of fantasy drafts as the 32nd running back off the board. The Bucs signed Gainwell to join a backfield that also features Bucky Irving and Sean Tucker. While Irving is the clear No. 1 running back here, we expect to see Gainwell get plenty of volume, similar to his role with the Steelers in 2025. In Pittsburgh, he handled 114 carries and 73 receptions (187 touches) while teammate Jaylen Warren had 211 carries and 40 catches (254 touches). When all was said and done, the two backs combined for 441 touches, but Warren only had 67 more than Gainwell. It doesn't seem like the Bucs signed Gainwell to be solely a third-down back. Yes, he'll fetch plenty of targets, but he'll also get some early-down and goal-line work to offer a change of scenery and keep Irving fresh. In this type of role last year, Gainwell ranked as the RB16 in PPR leagues. He's the RB37 in RotoBaller's redraft rankings for 2026, but we wouldn't be shocked to see him finish as a top-24 fantasy back in PPR leagues for the second year in a row.",
-        "title": "Kenny Gainwell a High-Volume Sleeper in Fantasy Drafts?",
-        "topic_id": "1395095236190949376",
-        "url": "https://www.rotoballer.com/player-news/kenny-gainwell-a-high-volume-sleeper-in-fantasy-drafts/1910595"
-      },
-      "nfl_team": "TB",
-      "player_id": "7567",
-      "player_name": "Kenny Gainwell",
-      "position": "RB",
-      "published": 1786964348000,
-      "source": "rotoballer",
-      "source_key": "218808",
-      "story_id": "nfl|7567|rotoballer|218808|1786964348000",
-      "title": "Kenny Gainwell a High-Volume Sleeper in Fantasy Drafts?",
-      "url": "https://www.rotoballer.com/player-news/kenny-gainwell-a-high-volume-sleeper-in-fantasy-drafts/1910595"
-    },
-    {
-      "analysis": null,
-      "description": "Dallas Cowboys kicker Brandon Aubrey has ranked among the top three fantasy scorers at his position in each of the last three years, and we don't expect that to change in 2026. Aubrey has one of the league's most powerful and accurate legs, he kicks in a closed-air stadium, and he plays for a Cowboys team with a high-scoring offense. The 31-year-old routinely finds himself in high-value scenarios for fantasy football, and his accuracy numbers speak for themselves. Last year, he went 36-for-42 on field goals, including 11 makes from 50+ yards, and he also went 47-for-48 on extra points. As it stands, he ranks as the overall K1 in RotoBaller's latest fantasy football draft rankings. With that being said, managers in most leagues should hold off on taking a kicker until the last round or two of the draft.",
-      "metadata": {
-        "description": "Dallas Cowboys kicker Brandon Aubrey has ranked among the top three fantasy scorers at his position in each of the last three years, and we don't expect that to change in 2026. Aubrey has one of the league's most powerful and accurate legs, he kicks in a closed-air stadium, and he plays for a Cowboys team with a high-scoring offense. The 31-year-old routinely finds himself in high-value scenarios for fantasy football, and his accuracy numbers speak for themselves. Last year, he went 36-for-42 on field goals, including 11 makes from 50+ yards, and he also went 47-for-48 on extra points. As it stands, he ranks as the overall K1 in RotoBaller's latest fantasy football draft rankings. With that being said, managers in most leagues should hold off on taking a kicker until the last round or two of the draft.",
-        "title": "Brandon Aubrey Remains the Undisputed Top Kicker in Fantasy Football",
-        "topic_id": "1395081357918494721",
-        "url": "https://www.rotoballer.com/player-news/brandon-aubrey-remains-the-undisputed-top-kicker-in-fantasy-football/1910538"
-      },
-      "nfl_team": "DAL",
-      "player_id": "11533",
-      "player_name": "Brandon Aubrey",
-      "position": "K",
-      "published": 1786961048000,
-      "source": "rotoballer",
-      "source_key": "218801",
-      "story_id": "nfl|11533|rotoballer|218801|1786961048000",
-      "title": "Brandon Aubrey Remains the Undisputed Top Kicker in Fantasy Football",
-      "url": "https://www.rotoballer.com/player-news/brandon-aubrey-remains-the-undisputed-top-kicker-in-fantasy-football/1910538"
-    },
-    {
-      "analysis": null,
-      "description": "Green Bay Packers wide receiver Christian Watson has never topped 41 catches or 620 receiving yards in a season, but he's also never played a full slate of games nor been the team's unquestioned primary receiver. With the team moving on from Romeo Doubs and Dontayvion Wicks this offseason, reports out of training camp indicate that Watson has a strong chance to be a lynchpin of the Packers' offense, and if he can manage to stay healthy throughout 2026, he could be due for a legitimate breakout. Now more than 19 months removed from the ACL injury that ended his 2024 season, Watson returned for the final 11 weeks of 2025, playing as the fantasy WR9 over that span and catching six touchdown passes over his final seven games. With tight end Tucker Kraft expected back for the start of the year after suffering his own ACL tear in 2025, the Packers are expected to lean heavily on multi-tight-end packages, a personnel grouping from which Watson has historically thrived. Watson has not finished as a top 40 fantasy receiver since his rookie season, but at RotoBaller's WR28, a sizable step forward is expected, and he is capable of flirting with WR1 upside in any given week.",
-      "metadata": {
-        "description": "Green Bay Packers wide receiver Christian Watson has never topped 41 catches or 620 receiving yards in a season, but he's also never played a full slate of games nor been the team's unquestioned primary receiver. With the team moving on from Romeo Doubs and Dontayvion Wicks this offseason, reports out of training camp indicate that Watson has a strong chance to be a lynchpin of the Packers' offense, and if he can manage to stay healthy throughout 2026, he could be due for a legitimate breakout. Now more than 19 months removed from the ACL injury that ended his 2024 season, Watson returned for the final 11 weeks of 2025, playing as the fantasy WR9 over that span and catching six touchdown passes over his final seven games. With tight end Tucker Kraft expected back for the start of the year after suffering his own ACL tear in 2025, the Packers are expected to lean heavily on multi-tight-end packages, a personnel grouping from which Watson has historically thrived. Watson has not finished as a top 40 fantasy receiver since his rookie season, but at RotoBaller's WR28, a sizable step forward is expected, and he is capable of flirting with WR1 upside in any given week.",
-        "title": "Pieces in Place for a Career Year from Christian Watson",
-        "topic_id": "1395078840912474112",
-        "url": "https://www.rotoballer.com/player-news/pieces-in-place-for-a-career-year-from-christian-watson/1910509"
-      },
-      "nfl_team": "GB",
-      "player_id": "8167",
-      "player_name": "Christian Watson",
-      "position": "WR",
-      "published": 1786960148000,
-      "source": "rotoballer",
-      "source_key": "218800",
-      "story_id": "nfl|8167|rotoballer|218800|1786960148000",
-      "title": "Pieces in Place for a Career Year from Christian Watson",
-      "url": "https://www.rotoballer.com/player-news/pieces-in-place-for-a-career-year-from-christian-watson/1910509"
     }
   ]
 }

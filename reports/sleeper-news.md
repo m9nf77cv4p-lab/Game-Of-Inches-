@@ -2,11 +2,15 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **3473**
-- Newly captured: **12**
+- Stored stories: **3475**
+- Newly captured: **8**
 
 ## Latest news
 
+- **NEW — Jadarian Price** — Jadarian Price Remains Lead Back After Highly Efficient Debut (2026-09-16T10:12:07Z)
+  - Source: https://www.rotoballer.com/player-news/jadarian-price-remains-lead-back-after-highly-efficient-debut/1932658
+- **NEW — Jordan Mason** — Vikings Work Out Three Running Backs with Jordan Mason Injured (2026-09-16T10:02:07Z)
+  - Source: https://www.rotoballer.com/player-news/vikings-work-out-three-running-backs-with-jordan-mason-injured/1932648
 - **Cyrus Allen** — Cyrus Allen - No production in regular-season debut (2026-09-16T00:57:46Z)
   - Allen played only one snap on offense, failing to build off of the momentum he had built for himself in the preseason. The wide receiver was also on the field for four snaps with the special-teams unit. Allen appears to be a firm No. 4 option behind Rashee Rice, Xavier Worthy and Tyquan Thornton at wideout ahead of the team's matchup with the Colts in Week 2.
 - **Harrison Butker** — Harrison Butker - Makes all five kicks in Week 1 win (2026-09-16T00:32:51Z)
@@ -255,7 +259,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/brian-robinson-jr-could-be-one-injury-away-from-a-huge-role/1931969
 - **Kirk Cousins** — Kirk Cousins Gets Season Off To Solid Start With Three TDs (2026-09-15T11:51:06Z)
   - Source: https://www.rotoballer.com/player-news/kirk-cousins-gets-season-off-to-solid-start-with-3-tds/1931966
-- **Geno Smith** — Geno Smith Worth Monitoring On The Waiver Wire Early In The Season (2026-09-15T11:42:07Z)
-  - Source: https://www.rotoballer.com/player-news/geno-smith-worth-monitoring-on-the-waiver-wire-early-in-the-season/1931963
-- **Malik Willis** — Malik Willis' Rushing Makes Him an Intriguing Week 2 Add (2026-09-15T11:41:15Z)
-  - Source: https://www.rotoballer.com/player-news/malik-willis-rushing-makes-him-an-intriguing-week-2-add/1931960
