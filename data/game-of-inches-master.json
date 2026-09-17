@@ -23220,7 +23220,7 @@
       ],
       "first_name": "Alec",
       "full_name": "Alec Pierce",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Pierce",
       "nfl_team": "IND",
       "player_id": "8142",
@@ -23580,7 +23580,7 @@
       ],
       "first_name": "Anthony",
       "full_name": "Anthony Richardson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Richardson",
       "nfl_team": "IND",
       "player_id": "9229",
@@ -24121,8 +24121,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-17T06:42:24Z",
-    "source_fingerprint": "045c49516bdf584645e2ab44aedbcf1ebcbc0fe478396d85f61fc0010304b319"
+    "last_changed_at": "2026-09-17T20:07:51Z",
+    "source_fingerprint": "4a9c9d9140fd1744e4773abcab1a9836c237df36dc31f87e895f91d0c0a2ec8d"
   },
   "teams": [
     {
