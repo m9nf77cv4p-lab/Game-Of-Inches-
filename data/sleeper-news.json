@@ -1,25 +1,22 @@
 {
-  "last_checked_at": "2026-09-17T01:43:59Z",
+  "last_checked_at": "2026-09-17T06:42:26Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 290,
   "new_story_ids": [
-    "nfl|10859|rotoballer|221241|1789592747000",
-    "nfl|11539|rotoballer|221242|1789593441000",
-    "nfl|12472|rotowire|637729|1789605636000",
-    "nfl|12497|rotowire|637723|1789605136000",
-    "nfl|12535|rotoballer|221240|1789592107000",
-    "nfl|13276|rotoballer|221245|1789594532000",
-    "nfl|13287|rotoballer|221244|1789594207000",
-    "nfl|13347|rotowire|637734|1789606256000",
-    "nfl|3163|rotoballer|221235|1789589226000",
-    "nfl|4039|rotowire|637724|1789605189000",
-    "nfl|7002|rotowire|637719|1789604868000",
-    "nfl|7547|rotoballer|221238|1789591029000",
-    "nfl|7569|fantasy_pros|608510|1789605024350",
-    "nfl|8130|rotoballer|221243|1789593386000",
-    "nfl|8148|rotoballer|221239|1789591638000",
-    "nfl|9221|rotoballer|221236|1789590007000",
-    "nfl|9229|rotowire|637686|1789602119000"
+    "nfl|11584|rotoballer|221251|1789598777000",
+    "nfl|12472|rotoballer|221247|1789596006000",
+    "nfl|12497|fantasy_pros|608557|1789626326753",
+    "nfl|12497|rotoballer|221249|1789597332000",
+    "nfl|12526|rotoballer|221255|1789607407000",
+    "nfl|4037|rotoballer|221252|1789599323000",
+    "nfl|4039|fantasy_pros|608560|1789626626398",
+    "nfl|4039|rotoballer|221246|1789595240000",
+    "nfl|4217|rotoballer|221254|1789605906000",
+    "nfl|6790|rotoballer|221258|1789608292000",
+    "nfl|7002|rotoballer|221250|1789597922000",
+    "nfl|8144|rotoballer|221257|1789608006000",
+    "nfl|8146|rotoballer|221253|1789600634000",
+    "nfl|8167|rotoballer|221256|1789607652000"
   ],
   "schema_version": 1,
   "source": {
@@ -30,10 +27,132 @@
   },
   "stories": [
     {
-      "analysis": "Mason, Aaron Jones and Deejay Dallas were Minnesota's three active running backs for Sunday's 39-22 win over Green Bay, with Claiborne observing the game in street clothes. Mason's injury means Jones is the clear RB1 on the roster while the former is sidelined, but Claiborne will be in the mix for backup duties, with Dallas -- who was signed to the Vikings' active roster from the practice squad Wednesday -- being the rookie sixth-rounder's main competition. The Vikings hit the road for a Week 2, NFC North tilt this Sunday against the Bears, whose defense gave up 478 total yards -- including 125 rushing yards -- to the Panthers in a 59-37 Week 1 win for Chicago.",
+      "analysis": "Kupp will likely be limited in practice on most Wednesday's. He remains off the fantasy radar. ",
+      "description": "Cooper Kupp was limited in practice on Wednesday. ",
+      "metadata": {
+        "analysis": "Kupp will likely be limited in practice on most Wednesday's. He remains off the fantasy radar. ",
+        "description": "Cooper Kupp was limited in practice on Wednesday. ",
+        "title": "Cooper Kupp (back) limited in practice Wednesday ",
+        "topic_id": "1406199627379699712",
+        "url": "https://www.fantasypros.com/nfl/news/608560/cooper-kupp-back-limited-practice-wednesday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4039",
+      "player_name": "Cooper Kupp",
+      "position": "WR",
+      "published": 1789626626398,
+      "source": "fantasy_pros",
+      "source_key": "608560",
+      "story_id": "nfl|4039|fantasy_pros|608560|1789626626398",
+      "title": "Cooper Kupp (back) limited in practice Wednesday ",
+      "url": "https://www.fantasypros.com/nfl/news/608560/cooper-kupp-back-limited-practice-wednesday.php"
+    },
+    {
+      "analysis": "It is a positive sign for Horton to be able to make his season debut on Sunday against the Cardinals. ",
+      "description": "Tory Horton was a full participant in practice on Wednesday. ",
+      "metadata": {
+        "analysis": "It is a positive sign for Horton to be able to make his season debut on Sunday against the Cardinals. ",
+        "description": "Tory Horton was a full participant in practice on Wednesday. ",
+        "title": "Tory Horton (hamstring) logs full practice Wednesday ",
+        "topic_id": "1406198370564915200",
+        "url": "https://www.fantasypros.com/nfl/news/608557/tory-horton-hamstring-logs-full-practice-wednesday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12497",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "published": 1789626326753,
+      "source": "fantasy_pros",
+      "source_key": "608557",
+      "story_id": "nfl|12497|fantasy_pros|608557|1789626326753",
+      "title": "Tory Horton (hamstring) logs full practice Wednesday ",
+      "url": "https://www.fantasypros.com/nfl/news/608557/tory-horton-hamstring-logs-full-practice-wednesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears running back D'Andre Swift wasn't the flashiest name in fantasy drafts this year, but he continues to rise in weekly rankings after a spectacular start to the season. Swift was the fifth-highest-scoring fantasy running back in Week 1 with 18 carries, 124 rushing yards, one catch, 10 receiving yards, and a rushing touchdown. He wasn't much of a pass-catching threat, but he made an enormous impact on the ground as a key contributor to the Bears' 59-37 win over the Carolina Panthers. He did cede some touches to Kyle Monangai (10 carries, 100 rushing yards, one rushing touchdown) later in the game, but all signs point to Swift remaining the primary weapon out of this backfield for the full season. It's fair to expect that the 27-year-old's ceiling may come down ever so slightly next week, assuming the Bears don't drop 59 points again. However, he's still firmly entrenched as an RB2 in fantasy football with low-end RB1 upside.",
+      "metadata": {
+        "description": "Chicago Bears running back D'Andre Swift wasn't the flashiest name in fantasy drafts this year, but he continues to rise in weekly rankings after a spectacular start to the season. Swift was the fifth-highest-scoring fantasy running back in Week 1 with 18 carries, 124 rushing yards, one catch, 10 receiving yards, and a rushing touchdown. He wasn't much of a pass-catching threat, but he made an enormous impact on the ground as a key contributor to the Bears' 59-37 win over the Carolina Panthers. He did cede some touches to Kyle Monangai (10 carries, 100 rushing yards, one rushing touchdown) later in the game, but all signs point to Swift remaining the primary weapon out of this backfield for the full season. It's fair to expect that the 27-year-old's ceiling may come down ever so slightly next week, assuming the Bears don't drop 59 points again. However, he's still firmly entrenched as an RB2 in fantasy football with low-end RB1 upside.",
+        "title": "D'Andre Swift a High-Volume Riser in Bears' Backfield",
+        "topic_id": "1406185778412900352",
+        "url": "https://www.rotoballer.com/player-news/dandre-swift-a-high-volume-riser-in-bears-backfield/1933313"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1789608292000,
+      "source": "rotoballer",
+      "source_key": "221258",
+      "story_id": "nfl|6790|rotoballer|221258|1789608292000",
+      "title": "D'Andre Swift a High-Volume Riser in Bears' Backfield",
+      "url": "https://www.rotoballer.com/player-news/dandre-swift-a-high-volume-riser-in-bears-backfield/1933313"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Chris Olave is proving to be a magnet for the football. The 26-year-old had 27 targets over his final two games of the 2025 season, and he kicked off the 2026 campaign with 13 targets against the Detroit Lions. He converted those 13 targets into a dominant performance that included 10 catches for 182 yards. He wasn't able to find the end zone, but he absolutely made up for it with his high volume and total receiving yards. Quarterback Tyler Shough is poised for a huge Year 2 leap, and Olave projects as one of the biggest beneficiaries. Staying healthy is the biggest obstacle for Olave, who missed nine games in 2024 but was sidelined for just one week last season. Concussions are a specific concern for Olave, but it's worth noting that he has added an extra layer of protection with a Guardian Cap this year. As long as he can stay on the field, Olave is a locked-and-loaded WR1 with top-five potential. He should keep things rolling in Week 2 as the Saints prepare for another potentially high-scoring game against the Baltimore Ravens.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Chris Olave is proving to be a magnet for the football. The 26-year-old had 27 targets over his final two games of the 2025 season, and he kicked off the 2026 campaign with 13 targets against the Detroit Lions. He converted those 13 targets into a dominant performance that included 10 catches for 182 yards. He wasn't able to find the end zone, but he absolutely made up for it with his high volume and total receiving yards. Quarterback Tyler Shough is poised for a huge Year 2 leap, and Olave projects as one of the biggest beneficiaries. Staying healthy is the biggest obstacle for Olave, who missed nine games in 2024 but was sidelined for just one week last season. Concussions are a specific concern for Olave, but it's worth noting that he has added an extra layer of protection with a Guardian Cap this year. As long as he can stay on the field, Olave is a locked-and-loaded WR1 with top-five potential. He should keep things rolling in Week 2 as the Saints prepare for another potentially high-scoring game against the Baltimore Ravens.",
+        "title": "Chris Olave Getting Peppered with Targets Left and Right",
+        "topic_id": "1406184520184561664",
+        "url": "https://www.rotoballer.com/player-news/chris-olave-getting-peppered-with-targets-left-and-right/1933311"
+      },
+      "nfl_team": "NO",
+      "player_id": "8144",
+      "player_name": "Chris Olave",
+      "position": "WR",
+      "published": 1789608006000,
+      "source": "rotoballer",
+      "source_key": "221257",
+      "story_id": "nfl|8144|rotoballer|221257|1789608006000",
+      "title": "Chris Olave Getting Peppered with Targets Left and Right",
+      "url": "https://www.rotoballer.com/player-news/chris-olave-getting-peppered-with-targets-left-and-right/1933311"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers wide receiver Christian Watson had a relatively slow start to his career, but he has recently blossomed into the fantasy superstar that managers expected when he was selected in the second round of the 2022 NFL Draft. Watson finished the 2025 season on a strong note, and he picked up right where he left off with a dominant Week 1 performance that included six catches, 147 yards, and two touchdowns. Watson is a playmaker who has shown that he can get open downfield, and his strong rapport with Jordan Love allows him to catch passes in stride and make big plays. Matthew Golden is also taking on a larger role offensively, but that should have no impact on Watson's outlook. The 27-year-old is a high-end WR2 with WR1 upside this season. He could feast in a favorable Week 2 matchup against the New York Jets.",
+      "metadata": {
+        "description": "Green Bay Packers wide receiver Christian Watson had a relatively slow start to his career, but he has recently blossomed into the fantasy superstar that managers expected when he was selected in the second round of the 2022 NFL Draft. Watson finished the 2025 season on a strong note, and he picked up right where he left off with a dominant Week 1 performance that included six catches, 147 yards, and two touchdowns. Watson is a playmaker who has shown that he can get open downfield, and his strong rapport with Jordan Love allows him to catch passes in stride and make big plays. Matthew Golden is also taking on a larger role offensively, but that should have no impact on Watson's outlook. The 27-year-old is a high-end WR2 with WR1 upside this season. He could feast in a favorable Week 2 matchup against the New York Jets.",
+        "title": "Christian Watson Ascending Into a Fantasy Superstar",
+        "topic_id": "1406182003342102528",
+        "url": "https://www.rotoballer.com/player-news/christian-watson-ascending-into-a-fantasy-superstar/1933308"
+      },
+      "nfl_team": "GB",
+      "player_id": "8167",
+      "player_name": "Christian Watson",
+      "position": "WR",
+      "published": 1789607652000,
+      "source": "rotoballer",
+      "source_key": "221256",
+      "story_id": "nfl|8167|rotoballer|221256|1789607652000",
+      "title": "Christian Watson Ascending Into a Fantasy Superstar",
+      "url": "https://www.rotoballer.com/player-news/christian-watson-ascending-into-a-fantasy-superstar/1933308"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers wide receiver Tetairoa McMillan made a very positive impression as a rookie last year, and he continues to offer solid WR2 value in fantasy football leagues in 2026. McMillan opened the season with eight targets, five catches, and 75 yards in the Panthers' Week 1 contest against the Chicago Bears. He came on a little slow but finished incredibly strong, ranking second on the team in catches and yards behind Jalen Coker. He also played an impressive 82% snap share, which indicates that he should continue to occupy a major role going forward, presumably as Bryce Young's No. 1 receiver. The emergence of Coker could have a very slight impact on McMillan's stock, but we're still confident in him as fantasy WR2 with high volume and touchdown upside. He should benefit immensely from a Week 2 matchup against a suspect Atlanta Falcons team.",
+      "metadata": {
+        "description": "Carolina Panthers wide receiver Tetairoa McMillan made a very positive impression as a rookie last year, and he continues to offer solid WR2 value in fantasy football leagues in 2026. McMillan opened the season with eight targets, five catches, and 75 yards in the Panthers' Week 1 contest against the Chicago Bears. He came on a little slow but finished incredibly strong, ranking second on the team in catches and yards behind Jalen Coker. He also played an impressive 82% snap share, which indicates that he should continue to occupy a major role going forward, presumably as Bryce Young's No. 1 receiver. The emergence of Coker could have a very slight impact on McMillan's stock, but we're still confident in him as fantasy WR2 with high volume and touchdown upside. He should benefit immensely from a Week 2 matchup against a suspect Atlanta Falcons team.",
+        "title": "Tetairoa McMillan Plays a Major Role on Offense",
+        "topic_id": "1406180744912482304",
+        "url": "https://www.rotoballer.com/player-news/tetairoa-mcmillan-plays-a-major-role-on-offense/1933306"
+      },
+      "nfl_team": "CAR",
+      "player_id": "12526",
+      "player_name": "Tetairoa McMillan",
+      "position": "WR",
+      "published": 1789607407000,
+      "source": "rotoballer",
+      "source_key": "221255",
+      "story_id": "nfl|12526|rotoballer|221255|1789607407000",
+      "title": "Tetairoa McMillan Plays a Major Role on Offense",
+      "url": "https://www.rotoballer.com/player-news/tetairoa-mcmillan-plays-a-major-role-on-offense/1933306"
+    },
+    {
+      "analysis": "Mason, Aaron Jones and DeeJay Dallas were Minnesota's three active running backs for Sunday's 39-22 win over Green Bay, with Claiborne observing the game in street clothes. Mason's injury means Jones is the clear RB1 on the roster while the former is sidelined, but Claiborne will be in the mix for backup duties, with Dallas -- who was signed to the Vikings' active roster from the practice squad Wednesday -- being the rookie sixth-rounder's main competition. The Vikings hit the road for a Week 2 NFC North tilt this Sunday against the Bears, whose defense gave up 478 total yards -- including 125 rushing yards -- to the Panthers in a 59-37 Week 1 win for Chicago.",
       "description": "Claiborne was a healthy scratch for the Vikings' Week 1 win over the Packers, but he's in line for a larger role for at least the next four games after Jordan Mason (thumb) was placed on injured reserve, Alec Lewis of The Athletic reports.",
       "metadata": {
-        "analysis": "Mason, Aaron Jones and Deejay Dallas were Minnesota's three active running backs for Sunday's 39-22 win over Green Bay, with Claiborne observing the game in street clothes. Mason's injury means Jones is the clear RB1 on the roster while the former is sidelined, but Claiborne will be in the mix for backup duties, with Dallas -- who was signed to the Vikings' active roster from the practice squad Wednesday -- being the rookie sixth-rounder's main competition. The Vikings hit the road for a Week 2, NFC North tilt this Sunday against the Bears, whose defense gave up 478 total yards -- including 125 rushing yards -- to the Panthers in a 59-37 Week 1 win for Chicago.",
+        "analysis": "Mason, Aaron Jones and DeeJay Dallas were Minnesota's three active running backs for Sunday's 39-22 win over Green Bay, with Claiborne observing the game in street clothes. Mason's injury means Jones is the clear RB1 on the roster while the former is sidelined, but Claiborne will be in the mix for backup duties, with Dallas -- who was signed to the Vikings' active roster from the practice squad Wednesday -- being the rookie sixth-rounder's main competition. The Vikings hit the road for a Week 2 NFC North tilt this Sunday against the Bears, whose defense gave up 478 total yards -- including 125 rushing yards -- to the Panthers in a 59-37 Week 1 win for Chicago.",
         "description": "Claiborne was a healthy scratch for the Vikings' Week 1 win over the Packers, but he's in line for a larger role for at least the next four games after Jordan Mason (thumb) was placed on injured reserve, Alec Lewis of The Athletic reports.",
         "title": "Demond Claiborne - In line for larger role sans Mason",
         "topic_id": "1406115310712406016"
@@ -48,6 +167,26 @@
       "story_id": "nfl|13347|rotowire|637734|1789606256000",
       "title": "Demond Claiborne - In line for larger role sans Mason",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers tight end George Kittle (Achilles) was limited in Week 1 due to recovery from an Achilles injury, and while he remained limited in practice on Wednesday, we expect him to take on a substantially larger role going forward. As a result, he's back in the top-12 tight end range for fantasy purposes as long as he's healthy. Last year, Kittle ranked as the overall TE2 during his healthy stretch from Weeks 8-16. A healthy Kittle catching passes from Brock Purdy will fight to be the top-scoring fantasy tight end any given week, making him a must-start in all leagues. Managers who might feel spurned by his two-catch performance last week should feel some assurance knowing that he only played 45% of the offensive snaps. If he's healthy enough to play more than 75% of the snaps this week, he's a near-lock for top-12 production at the tight end position, especially after Purdy lost young target De'Zhaun Stribling (ankle) to IR.",
+      "metadata": {
+        "description": "San Francisco 49ers tight end George Kittle (Achilles) was limited in Week 1 due to recovery from an Achilles injury, and while he remained limited in practice on Wednesday, we expect him to take on a substantially larger role going forward. As a result, he's back in the top-12 tight end range for fantasy purposes as long as he's healthy. Last year, Kittle ranked as the overall TE2 during his healthy stretch from Weeks 8-16. A healthy Kittle catching passes from Brock Purdy will fight to be the top-scoring fantasy tight end any given week, making him a must-start in all leagues. Managers who might feel spurned by his two-catch performance last week should feel some assurance knowing that he only played 45% of the offensive snaps. If he's healthy enough to play more than 75% of the snaps this week, he's a near-lock for top-12 production at the tight end position, especially after Purdy lost young target De'Zhaun Stribling (ankle) to IR.",
+        "title": "George Kittle Rising to Top-Tier TE1 Range After Recovery",
+        "topic_id": "1406175711512813568",
+        "url": "https://www.rotoballer.com/player-news/george-kittle-rising-to-top-tier-te1-range-after-recovery/1933304"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1789605906000,
+      "source": "rotoballer",
+      "source_key": "221254",
+      "story_id": "nfl|4217|rotoballer|221254|1789605906000",
+      "title": "George Kittle Rising to Top-Tier TE1 Range After Recovery",
+      "url": "https://www.rotoballer.com/player-news/george-kittle-rising-to-top-tier-te1-range-after-recovery/1933304"
     },
     {
       "analysis": "Sampson injured his knee on a kickoff return during Sunday's 34-10 loss to the Jaguars, and he'll be required to miss at least the next four games while on IR. Sanders finished that game with three catches on as many targets for 25 yards along with a one-yard carry, but moving forward, he should see more offensive snaps as the Browns' RB2 behind Quinshon Judkins, with Jaleel McLaughlin slotting in as the No. 3 backfield option. The Browns will stay on the road for a Week 2 tilt against the Buccaneers, whose defense gave up 106 rushing yards and one touchdown on 27 carries (3.9 YPC) in a 33-27 loss to the Bengals in Week 1.",
@@ -131,10 +270,10 @@
       "url": "https://www.fantasypros.com/nfl/news/608510/nico-collins-hamstring-to-undergo-tests.php"
     },
     {
-      "analysis": "Johnson's absence from Wednesday's practice was likely a precautionary measure, and the veteran tight end will have two more chances to return to practice ahead of the Saints' Week 2 road tilt against the Ravens on Sunday. Johnson had a career year in 2025 and produced a 3-54-1 receiving line (on seven targets) during the Saints' 31-30 overtime loss to the Lions in Week 1. With rookie first-round wideout Jordyn Tyson (hamstring) on injured reserve, Johnson, Chris Olave and Devaughn Vele are going to be the go-to targets in the passing game for quarterback Tyler Shough.",
+      "analysis": "Johnson's absence from Wednesday's practice was likely a precautionary measure, and the veteran tight end will have two more chances to return to practice ahead of the Saints' Week 2 road tilt against the Ravens on Sunday. Johnson had a career year in 2025 and produced a 3-54-1 receiving line (on seven targets) during the Saints' 31-30 overtime loss to the Lions in Week 1. With rookie first-round wideout Jordyn Tyson (hamstring) on injured reserve, Johnson, Chris Olave and Devaughn Vele are likely going to be the go-to targets in the passing game for quarterback Tyler Shough.",
       "description": "Johnson did not participate in Wednesday's practice due to an illness.",
       "metadata": {
-        "analysis": "Johnson's absence from Wednesday's practice was likely a precautionary measure, and the veteran tight end will have two more chances to return to practice ahead of the Saints' Week 2 road tilt against the Ravens on Sunday. Johnson had a career year in 2025 and produced a 3-54-1 receiving line (on seven targets) during the Saints' 31-30 overtime loss to the Lions in Week 1. With rookie first-round wideout Jordyn Tyson (hamstring) on injured reserve, Johnson, Chris Olave and Devaughn Vele are going to be the go-to targets in the passing game for quarterback Tyler Shough.",
+        "analysis": "Johnson's absence from Wednesday's practice was likely a precautionary measure, and the veteran tight end will have two more chances to return to practice ahead of the Saints' Week 2 road tilt against the Ravens on Sunday. Johnson had a career year in 2025 and produced a 3-54-1 receiving line (on seven targets) during the Saints' 31-30 overtime loss to the Lions in Week 1. With rookie first-round wideout Jordyn Tyson (hamstring) on injured reserve, Johnson, Chris Olave and Devaughn Vele are likely going to be the go-to targets in the passing game for quarterback Tyler Shough.",
         "description": "Johnson did not participate in Wednesday's practice due to an illness.",
         "title": "Juwan Johnson - Under the weather",
         "topic_id": "1406109018333724672"
@@ -233,6 +372,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "New York Jets wide receiver Garrett Wilson has always had plenty of talent after the Jets took him 10th overall in the 2022 NFL Draft from Ohio State, but the problem is he has never worked with a good enough quarterback in the Big Apple to help him reach his true potential. Fantasy managers mostly overlooked the 26-year-old going into his fifth year in the league because he is working with veteran quarterback Geno Smith, who was disastrous in 2025 with the Las Vegas Raiders. Wilson had a solid showing in the Week 1 season-opening win over the Tennessee Titans, catching six of his seven targets for 79 yards, although he did not find the end zone. He was already New York's unquestioned WR1, but the expected multi-week injury to rookie receiver Omar Cooper Jr. is going to open up even more targets for Wilson as the Jets head into their Week 2 matchup at home against the Green Bay Packers this Sunday. Wilson is not in a sexy situation with Gang Green, but he will have WR1 upside in fantasy with Cooper sidelined.",
+      "metadata": {
+        "description": "New York Jets wide receiver Garrett Wilson has always had plenty of talent after the Jets took him 10th overall in the 2022 NFL Draft from Ohio State, but the problem is he has never worked with a good enough quarterback in the Big Apple to help him reach his true potential. Fantasy managers mostly overlooked the 26-year-old going into his fifth year in the league because he is working with veteran quarterback Geno Smith, who was disastrous in 2025 with the Las Vegas Raiders. Wilson had a solid showing in the Week 1 season-opening win over the Tennessee Titans, catching six of his seven targets for 79 yards, although he did not find the end zone. He was already New York's unquestioned WR1, but the expected multi-week injury to rookie receiver Omar Cooper Jr. is going to open up even more targets for Wilson as the Jets head into their Week 2 matchup at home against the Green Bay Packers this Sunday. Wilson is not in a sexy situation with Gang Green, but he will have WR1 upside in fantasy with Cooper sidelined.",
+        "title": "Garrett Wilson Eyeing Larger Target Share With Rookie WR Injured",
+        "topic_id": "1406151801585025024",
+        "url": "https://www.rotoballer.com/player-news/garrett-wilson-eyeing-larger-target-share-with-rookie-wr-injured/1933279"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "8146",
+      "player_name": "Garrett Wilson",
+      "position": "WR",
+      "published": 1789600634000,
+      "source": "rotoballer",
+      "source_key": "221253",
+      "story_id": "nfl|8146|rotoballer|221253|1789600634000",
+      "title": "Garrett Wilson Eyeing Larger Target Share With Rookie WR Injured",
+      "url": "https://www.rotoballer.com/player-news/garrett-wilson-eyeing-larger-target-share-with-rookie-wr-injured/1933279"
+    },
+    {
       "analysis": "Sam Darnold (glute) won't suit up in Week 2, meaning Drew Lock will be the team's starting signal-caller. Milroe will occupy the No. 2 spot on the depth chart, so head coach Mike Macdonald wants to be sure he is ready to go in case Lock gets injured.",
       "description": "Milroe will be more involved in practice ahead of Sunday's game versus Arizona, Curtis Crabtree of Fox 13 Seattle reports.",
       "metadata": {
@@ -294,6 +453,26 @@
       "url": "https://www.fantasypros.com/nfl/news/608473/keaton-mitchell-hamstring-without-injury-designation-week-2.php"
     },
     {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers wide receiver Chris Godwin Jr. is coming off a decent performance during the season opener against the Cincinnati Bengals. Godwin hauled in all four of his targets for 40 yards during the Week 1 loss. The 30-year-old appears to be healthy again after two injury-riddled seasons in a row. He has built good chemistry with quarterback Baker Mayfield throughout the years together. The loss of Mike Evans this offseason should mean that Godwin takes on more responsibility on offense. Fantasy managers should be able to plug Godwin in as a WR3 most weeks.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers wide receiver Chris Godwin Jr. is coming off a decent performance during the season opener against the Cincinnati Bengals. Godwin hauled in all four of his targets for 40 yards during the Week 1 loss. The 30-year-old appears to be healthy again after two injury-riddled seasons in a row. He has built good chemistry with quarterback Baker Mayfield throughout the years together. The loss of Mike Evans this offseason should mean that Godwin takes on more responsibility on offense. Fantasy managers should be able to plug Godwin in as a WR3 most weeks.",
+        "title": "Chris Godwin Jr. is Proving to be Trustworthy",
+        "topic_id": "1406148026061291520",
+        "url": "https://www.rotoballer.com/player-news/chris-godwin-jr-is-proving-to-be-trustworthy/1933271"
+      },
+      "nfl_team": "TB",
+      "player_id": "4037",
+      "player_name": "Chris Godwin",
+      "position": "WR",
+      "published": 1789599323000,
+      "source": "rotoballer",
+      "source_key": "221252",
+      "story_id": "nfl|4037|rotoballer|221252|1789599323000",
+      "title": "Chris Godwin Jr. is Proving to be Trustworthy",
+      "url": "https://www.rotoballer.com/player-news/chris-godwin-jr-is-proving-to-be-trustworthy/1933271"
+    },
+    {
       "analysis": "Jeanty seems to be entirely over his ankle injury at this point, as he played through it in Week 1 and now logs a full practice session to start the week on Wednesday. He should be a full go and high-quality fantasy option moving forward, assuming he suffers no setbacks with his recovery.",
       "description": "Ashton Jeanty (ankle) logged a full practice session on Wednesday.",
       "metadata": {
@@ -313,6 +492,26 @@
       "story_id": "nfl|12527|fantasy_pros|608472|1789599024517",
       "title": "Ashton Jeanty (ankle) logs full practice Wednesday",
       "url": "https://www.fantasypros.com/nfl/news/608472/ashton-jeanty-ankle-logs-full-practice-wednesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers running back Bucky Irving did a little bit of everything on the field during the season opener. Irving rushed the ball eight times for 45 yards and a touchdown. He also hauled in all seven of his targets for 48 yards and another score during the Week 1 loss to the Cincinnati Bengals. Irving was highly efficient on the ground with 5.6 yards per carry, while being a huge factor in the receiving game. The Bucs clearly trust Irving to make plays on the ground and through the air. The presence of Kenny Gainwell does not appear to be making an impact on the value of Irving. Fantasy managers should consider Irving a high-end RB2 for the upcoming matchup against the Cleveland Browns.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers running back Bucky Irving did a little bit of everything on the field during the season opener. Irving rushed the ball eight times for 45 yards and a touchdown. He also hauled in all seven of his targets for 48 yards and another score during the Week 1 loss to the Cincinnati Bengals. Irving was highly efficient on the ground with 5.6 yards per carry, while being a huge factor in the receiving game. The Bucs clearly trust Irving to make plays on the ground and through the air. The presence of Kenny Gainwell does not appear to be making an impact on the value of Irving. Fantasy managers should consider Irving a high-end RB2 for the upcoming matchup against the Cleveland Browns.",
+        "title": "Bucky Irving is Rising After Strong Opener",
+        "topic_id": "1406145509277638656",
+        "url": "https://www.rotoballer.com/player-news/bucky-irving-is-rising-after-strong-opener/1933265"
+      },
+      "nfl_team": "TB",
+      "player_id": "11584",
+      "player_name": "Bucky Irving",
+      "position": "RB",
+      "published": 1789598777000,
+      "source": "rotoballer",
+      "source_key": "221251",
+      "story_id": "nfl|11584|rotoballer|221251|1789598777000",
+      "title": "Bucky Irving is Rising After Strong Opener",
+      "url": "https://www.rotoballer.com/player-news/bucky-irving-is-rising-after-strong-opener/1933265"
     },
     {
       "analysis": "Kittle operated with a cap on his practice reps last week before returning to action just nine months removed from tearing his right Achilles in a wild-card win at Philadelphia. In the 49ers' Week 1 victory against the Rams in Melbourne, Australia, he started, played 30 of 65 offensive snaps and gathered in two of five targets for 12 yards. San Francisco may continue to take it easy on Kittle in the early going with the long term in mind, but his status for game days doesn't appear to be in any question.",
@@ -377,6 +576,26 @@
       "url": "https://www.fantasypros.com/nfl/news/608468/dalton-schultz-rest-misses-practice-wednesday.php"
     },
     {
+      "analysis": null,
+      "description": "New Orleans Saints tight end Juwan Johnson (illness) did not participate during Wednesday's practice session, according to Jeff Nowak. Johnson is feeling under the weather, so he sat out of practice to begin the week. Fantasy managers should consider Johnson day-to-day with a good chance of suiting up for the Week 2 matchup against the Baltimore Ravens. The 30-year-old hauled in three of his seven targets for 54 yards and a touchdown during the Week 1 loss to the Detroit Lions. If healthy, Johnson is an interesting starting option for Week 2. Fantasy managers should check back on Thursday for another update on Johnson.",
+      "metadata": {
+        "description": "New Orleans Saints tight end Juwan Johnson (illness) did not participate during Wednesday's practice session, according to Jeff Nowak. Johnson is feeling under the weather, so he sat out of practice to begin the week. Fantasy managers should consider Johnson day-to-day with a good chance of suiting up for the Week 2 matchup against the Baltimore Ravens. The 30-year-old hauled in three of his seven targets for 54 yards and a touchdown during the Week 1 loss to the Detroit Lions. If healthy, Johnson is an interesting starting option for Week 2. Fantasy managers should check back on Thursday for another update on Johnson.",
+        "title": "Juwan Johnson is Absent on Wednesday",
+        "topic_id": "1406140474724470784",
+        "url": "https://www.rotoballer.com/player-news/juwan-johnson-is-absent-on-wednesday/1933254"
+      },
+      "nfl_team": "NO",
+      "player_id": "7002",
+      "player_name": "Juwan Johnson",
+      "position": "TE",
+      "published": 1789597922000,
+      "source": "rotoballer",
+      "source_key": "221250",
+      "story_id": "nfl|7002|rotoballer|221250|1789597922000",
+      "title": "Juwan Johnson is Absent on Wednesday",
+      "url": "https://www.rotoballer.com/player-news/juwan-johnson-is-absent-on-wednesday/1933254"
+    },
+    {
       "analysis": "As expected, Burrow was listed as a limited participant on the team's first official injury report of the week on Wednesday. He's dealing with some back soreness right now and wasn't able to throw passes at practice as a result. He told reporters that he plans on playing in Week 2, but this is worth monitoring over the next few days, as Ja'Marr Chase, Tee Higgins, and Chase Brown will all have their projections affected if Burrow is sidelined or playing at less than 100% health against a tough Texans' defense this week.",
       "description": "Joe Burrow (back) was officially a limited participant at practice on Wednesday.",
       "metadata": {
@@ -396,6 +615,26 @@
       "story_id": "nfl|6770|fantasy_pros|608466|1789597823566",
       "title": "Joe Burrow (back) officially limited Wednesday",
       "url": "https://www.fantasypros.com/nfl/news/608466/joe-burrow-back-officially-limited-wednesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Tory Horton (hamstring) was a full participant during Wednesday's practice session, according to Brady Henderson of ESPN. Horton appears on track to play in Week 2 after missing the season opener due to a hamstring injury. Horton has been battling this issue during training camp, but he finally appears to be getting healthy again. Barring any setbacks, Horton should be active for the Week 2 matchup against the Arizona Cardinals. Fellow wideout Cooper Kupp (back) was limited during Wednesday's practice session. Horton might be asked to take on a larger role if Kupp is downgraded during the week. Fantasy managers should check back for an update on both players later in the week.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Tory Horton (hamstring) was a full participant during Wednesday's practice session, according to Brady Henderson of ESPN. Horton appears on track to play in Week 2 after missing the season opener due to a hamstring injury. Horton has been battling this issue during training camp, but he finally appears to be getting healthy again. Barring any setbacks, Horton should be active for the Week 2 matchup against the Arizona Cardinals. Fellow wideout Cooper Kupp (back) was limited during Wednesday's practice session. Horton might be asked to take on a larger role if Kupp is downgraded during the week. Fantasy managers should check back for an update on both players later in the week.",
+        "title": "Tory Horton is a Full Participant During Wednesday's Practice",
+        "topic_id": "1406137959182356480",
+        "url": "https://www.rotoballer.com/player-news/tory-horton-is-a-full-participant-during-wednesdays-practice/1933248"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12497",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "published": 1789597332000,
+      "source": "rotoballer",
+      "source_key": "221249",
+      "story_id": "nfl|12497|rotoballer|221249|1789597332000",
+      "title": "Tory Horton is a Full Participant During Wednesday's Practice",
+      "url": "https://www.rotoballer.com/player-news/tory-horton-is-a-full-participant-during-wednesdays-practice/1933248"
     },
     {
       "analysis": "Pittman is a new addition to Pittsburgh's injury report, being listed with a foot issue that left him limited at the team's first practice of the week. In the off-chance that it affects his availability or workload for Week 2, fantasy managers should expect more work for Pat Freiermuth against the Patriots.",
@@ -479,6 +718,46 @@
       "story_id": "nfl|5947|fantasy_pros|608459|1789596623475",
       "title": "Jakobi Meyers (thumb) listed as limited Wednesday",
       "url": "https://www.fantasypros.com/nfl/news/608459/jakobi-meyers-thumb-listed-limited-wednesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns running back Raheim Sanders will have the opportunity to see an expanded role in the offense, according to Scott Petrak of BrownsZone. Sanders will move up the depth chart to the No. 2 role with Dylan Sampson (knee) going down in the season opener. The Browns placed Sampson on the Injured Reserve, so he'll be forced to miss at least the next four games. Sanders rushed the ball once and hauled in three receptions for 25 yards during the season opener. He could emerge as an interesting handcuff for fantasy managers going forward. He could offer some value in Week 2 against the Tampa Bay Buccaneers defense that allowed over 100 rushing yards last week.",
+      "metadata": {
+        "description": "Cleveland Browns running back Raheim Sanders will have the opportunity to see an expanded role in the offense, according to Scott Petrak of BrownsZone. Sanders will move up the depth chart to the No. 2 role with Dylan Sampson (knee) going down in the season opener. The Browns placed Sampson on the Injured Reserve, so he'll be forced to miss at least the next four games. Sanders rushed the ball once and hauled in three receptions for 25 yards during the season opener. He could emerge as an interesting handcuff for fantasy managers going forward. He could offer some value in Week 2 against the Tampa Bay Buccaneers defense that allowed over 100 rushing yards last week.",
+        "title": "Raheim Sanders to Take on Bigger Role",
+        "topic_id": "1406134183612481536",
+        "url": "https://www.rotoballer.com/player-news/raheim-sanders-to-take-on-bigger-role/1933230"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12472",
+      "player_name": "Raheim Sanders",
+      "position": "RB",
+      "published": 1789596006000,
+      "source": "rotoballer",
+      "source_key": "221247",
+      "story_id": "nfl|12472|rotoballer|221247|1789596006000",
+      "title": "Raheim Sanders to Take on Bigger Role",
+      "url": "https://www.rotoballer.com/player-news/raheim-sanders-to-take-on-bigger-role/1933230"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Cooper Kupp (back) was a limited participant during Wednesday's practice session, according to Bob Condotta. It appears the veteran wideout tweaked his back during last Wednesday's win over the New England Patriots. He finished the game with two receptions on three targets with 35 receiving yards. Barring any setbacks, Kupp should be ready to go for the Week 2 matchup against the Arizona Cardinals. Fantasy managers should check back later in the week, but it sounds like Kupp should be fine moving forward. He'll be on the flex radar for this upcoming divisional matchup.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Cooper Kupp (back) was a limited participant during Wednesday's practice session, according to Bob Condotta. It appears the veteran wideout tweaked his back during last Wednesday's win over the New England Patriots. He finished the game with two receptions on three targets with 35 receiving yards. Barring any setbacks, Kupp should be ready to go for the Week 2 matchup against the Arizona Cardinals. Fantasy managers should check back later in the week, but it sounds like Kupp should be fine moving forward. He'll be on the flex radar for this upcoming divisional matchup.",
+        "title": "Cooper Kupp is Limited with Back Issue",
+        "topic_id": "1406130408701083648",
+        "url": "https://www.rotoballer.com/player-news/cooper-kupp-is-limited-with-back-issue/1933222"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4039",
+      "player_name": "Cooper Kupp",
+      "position": "WR",
+      "published": 1789595240000,
+      "source": "rotoballer",
+      "source_key": "221246",
+      "story_id": "nfl|4039|rotoballer|221246|1789595240000",
+      "title": "Cooper Kupp is Limited with Back Issue",
+      "url": "https://www.rotoballer.com/player-news/cooper-kupp-is-limited-with-back-issue/1933222"
     },
     {
       "analysis": "As expected, Murray comes through as a limited participant on Minnesota's official injury report on Wednesday. He's on track to be cleared in time for Week 2 and will likely have a chance to play, although that is far from certain at this point. Carson Wentz will likely serve as the starter once again if Murray is sidelined against the Bears, which would be great news for Justin Jefferson.",
@@ -72731,26 +73010,6 @@
       "story_id": "nfl|9500|rotoballer|218863|1787046547000",
       "title": "Josh Downs to Still See Usage in Two-Receiver Sets",
       "url": "https://www.rotoballer.com/player-news/josh-downs-to-still-see-usage-in-two-receiver-sets/1911201"
-    },
-    {
-      "analysis": "Ridley started the contest but was on the field for only the Titans' first drive, logging seven total offensive snaps. The veteran wideout appears healthy after playing in only seven games last season due to injuries, the last of which was a broken fibula he suffered in Week 11 that forced him to IR for the remainder of the campaign. Ridley looks to be set as Tennessee's No. 3 wide receiver this season behind first-round rookie Carnell Tate (undisclosed) and free-agent signing Wan'Dale Robinson, and the health of the Titans' passing game will largely depend on the growth (or lack thereof) of sophomore QB Cam Ward.",
-      "description": "Ridley caught his only target for 18 yards in Thursday's preseason win over San Francisco.",
-      "metadata": {
-        "analysis": "Ridley started the contest but was on the field for only the Titans' first drive, logging seven total offensive snaps. The veteran wideout appears healthy after playing in only seven games last season due to injuries, the last of which was a broken fibula he suffered in Week 11 that forced him to IR for the remainder of the campaign. Ridley looks to be set as Tennessee's No. 3 wide receiver this season behind first-round rookie Carnell Tate (undisclosed) and free-agent signing Wan'Dale Robinson, and the health of the Titans' passing game will largely depend on the growth (or lack thereof) of sophomore QB Cam Ward.",
-        "description": "Ridley caught his only target for 18 yards in Thursday's preseason win over San Francisco.",
-        "title": "Calvin Ridley - Logs one catch in preseason opener",
-        "topic_id": "1395265132476518400"
-      },
-      "nfl_team": "TEN",
-      "player_id": "4981",
-      "player_name": "Calvin Ridley",
-      "position": "WR",
-      "published": 1787019428000,
-      "source": "rotowire",
-      "source_key": "634020",
-      "story_id": "nfl|4981|rotowire|634020|1787019428000",
-      "title": "Calvin Ridley - Logs one catch in preseason opener",
-      "url": null
     }
   ]
 }

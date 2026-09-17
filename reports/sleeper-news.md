@@ -2,25 +2,41 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **3603**
-- Newly captured: **17**
+- Stored stories: **3616**
+- Newly captured: **14**
 
 ## Latest news
 
-- **NEW — Demond Claiborne** — Demond Claiborne - In line for larger role sans Mason (2026-09-17T00:50:56Z)
-  - Mason, Aaron Jones and Deejay Dallas were Minnesota's three active running backs for Sunday's 39-22 win over Green Bay, with Claiborne observing the game in street clothes. Mason's injury means Jones is the clear RB1 on the roster while the former is sidelined, but Claiborne will be in the mix for backup duties, with Dallas -- who was signed to the Vikings' active roster from the practice squad Wednesday -- being the rookie sixth-rounder's main competition. The Vikings hit the road for a Week 2, NFC North tilt this Sunday against the Bears, whose defense gave up 478 total yards -- including 125 rushing yards -- to the Panthers in a 59-37 Week 1 win for Chicago.
-- **NEW — Raheim Sanders** — Raheim Sanders - Slated for increased role sans Sampson (2026-09-17T00:40:36Z)
+- **NEW — Cooper Kupp** — Cooper Kupp (back) limited in practice Wednesday  (2026-09-17T06:30:26.398000Z)
+  - Kupp will likely be limited in practice on most Wednesday's. He remains off the fantasy radar. 
+  - Source: https://www.fantasypros.com/nfl/news/608560/cooper-kupp-back-limited-practice-wednesday.php
+- **NEW — Tory Horton** — Tory Horton (hamstring) logs full practice Wednesday  (2026-09-17T06:25:26.753000Z)
+  - It is a positive sign for Horton to be able to make his season debut on Sunday against the Cardinals. 
+  - Source: https://www.fantasypros.com/nfl/news/608557/tory-horton-hamstring-logs-full-practice-wednesday.php
+- **NEW — D'Andre Swift** — D'Andre Swift a High-Volume Riser in Bears' Backfield (2026-09-17T01:24:52Z)
+  - Source: https://www.rotoballer.com/player-news/dandre-swift-a-high-volume-riser-in-bears-backfield/1933313
+- **NEW — Chris Olave** — Chris Olave Getting Peppered with Targets Left and Right (2026-09-17T01:20:06Z)
+  - Source: https://www.rotoballer.com/player-news/chris-olave-getting-peppered-with-targets-left-and-right/1933311
+- **NEW — Christian Watson** — Christian Watson Ascending Into a Fantasy Superstar (2026-09-17T01:14:12Z)
+  - Source: https://www.rotoballer.com/player-news/christian-watson-ascending-into-a-fantasy-superstar/1933308
+- **NEW — Tetairoa McMillan** — Tetairoa McMillan Plays a Major Role on Offense (2026-09-17T01:10:07Z)
+  - Source: https://www.rotoballer.com/player-news/tetairoa-mcmillan-plays-a-major-role-on-offense/1933306
+- **Demond Claiborne** — Demond Claiborne - In line for larger role sans Mason (2026-09-17T00:50:56Z)
+  - Mason, Aaron Jones and DeeJay Dallas were Minnesota's three active running backs for Sunday's 39-22 win over Green Bay, with Claiborne observing the game in street clothes. Mason's injury means Jones is the clear RB1 on the roster while the former is sidelined, but Claiborne will be in the mix for backup duties, with Dallas -- who was signed to the Vikings' active roster from the practice squad Wednesday -- being the rookie sixth-rounder's main competition. The Vikings hit the road for a Week 2 NFC North tilt this Sunday against the Bears, whose defense gave up 478 total yards -- including 125 rushing yards -- to the Panthers in a 59-37 Week 1 win for Chicago.
+- **NEW — George Kittle** — George Kittle Rising to Top-Tier TE1 Range After Recovery (2026-09-17T00:45:06Z)
+  - Source: https://www.rotoballer.com/player-news/george-kittle-rising-to-top-tier-te1-range-after-recovery/1933304
+- **Raheim Sanders** — Raheim Sanders - Slated for increased role sans Sampson (2026-09-17T00:40:36Z)
   - Sampson injured his knee on a kickoff return during Sunday's 34-10 loss to the Jaguars, and he'll be required to miss at least the next four games while on IR. Sanders finished that game with three catches on as many targets for 25 yards along with a one-yard carry, but moving forward, he should see more offensive snaps as the Browns' RB2 behind Quinshon Judkins, with Jaleel McLaughlin slotting in as the No. 3 backfield option. The Browns will stay on the road for a Week 2 tilt against the Buccaneers, whose defense gave up 106 rushing yards and one touchdown on 27 carries (3.9 YPC) in a 33-27 loss to the Bengals in Week 1.
-- **NEW — Cooper Kupp** — Cooper Kupp - Working through back injury (2026-09-17T00:33:09Z)
+- **Cooper Kupp** — Cooper Kupp - Working through back injury (2026-09-17T00:33:09Z)
   - Kupp may have tweaked his back during the Seahawks' 13-10 win over the Patriots in Week 1, when he played 39 of 50 snaps on offense (78.0 percent) and finished with two catches on three targets for 35 yards. Kupp's status for Sunday's NFC West tilt against the Cardinals doesn't appear to be in serious jeopardy, and he'll have two more chances to increase his practice participation and avoid an injury designation for Week 2. The Seahawks' pass catchers figure to see a downtick in production with Drew Lock starting at quarterback for the injured Sam Darnold (lower body).
-- **NEW — Tory Horton** — Tory Horton - Practices in full Wednesday (2026-09-17T00:32:16Z)
+- **Tory Horton** — Tory Horton - Practices in full Wednesday (2026-09-17T00:32:16Z)
   - Horton was unable to recover from the hamstring injury he suffered during training camp in time for last Wednesday's 13-10 win over the Patriots. The wide receiver was a full participant in the first practice of Week 2 and should be all set to suit up for next Sunday's game against the Cardinals.
-- **NEW — Nico Collins** — Nico Collins (hamstring) to undergo testing (2026-09-17T00:30:24.350000Z)
+- **Nico Collins** — Nico Collins (hamstring) to undergo testing (2026-09-17T00:30:24.350000Z)
   - Collins was limited in practice on Wednesday with the injury. It is unclear if it came up during last week's game or during practice. There should be an update on his status on Thursday. 
   - Source: https://www.fantasypros.com/nfl/news/608510/nico-collins-hamstring-to-undergo-tests.php
-- **NEW — Juwan Johnson** — Juwan Johnson - Under the weather (2026-09-17T00:27:48Z)
-  - Johnson's absence from Wednesday's practice was likely a precautionary measure, and the veteran tight end will have two more chances to return to practice ahead of the Saints' Week 2 road tilt against the Ravens on Sunday. Johnson had a career year in 2025 and produced a 3-54-1 receiving line (on seven targets) during the Saints' 31-30 overtime loss to the Lions in Week 1. With rookie first-round wideout Jordyn Tyson (hamstring) on injured reserve, Johnson, Chris Olave and Devaughn Vele are going to be the go-to targets in the passing game for quarterback Tyler Shough.
-- **NEW — Anthony Richardson** — Anthony Richardson - DNP with groin injury (2026-09-16T23:41:59Z)
+- **Juwan Johnson** — Juwan Johnson - Under the weather (2026-09-17T00:27:48Z)
+  - Johnson's absence from Wednesday's practice was likely a precautionary measure, and the veteran tight end will have two more chances to return to practice ahead of the Saints' Week 2 road tilt against the Ravens on Sunday. Johnson had a career year in 2025 and produced a 3-54-1 receiving line (on seven targets) during the Saints' 31-30 overtime loss to the Lions in Week 1. With rookie first-round wideout Jordyn Tyson (hamstring) on injured reserve, Johnson, Chris Olave and Devaughn Vele are likely going to be the go-to targets in the passing game for quarterback Tyler Shough.
+- **Anthony Richardson** — Anthony Richardson - DNP with groin injury (2026-09-16T23:41:59Z)
   - It's a new injury for Richardson, leaving his status for Week 2 against the Chiefs uncertain. If Richardson can't dress, Riley Leonard would serve as the Colts' QB2 behind Daniel Jones.
 - **Christian McCaffrey** — Christian McCaffrey (rest) doesn't practice Wednesday (2026-09-16T23:30:23.750000Z)
   - McCaffrey was a non-participant at San Francisco's practice on Wednesday. The team gave him a routine rest day and he should be back on Thursday, so fantasy managers should have no concerns about him heading into a great Week 2 matchup against the Dolphins.
@@ -30,6 +46,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/608478/george-kittle-achilles-limited-practice-wednesday.php
 - **Marvin Mims** — Marvin Mims - DNP on Wednesday (2026-09-16T23:26:39Z)
   - Mims was injured in Monday night's loss to the Chiefs but was able to return to the game, though he saw zero targets while playing just nine offensive snaps. The receiver's role seems to be mainly on special teams while everyone is healthy ahead of him on the depth chart.
+- **NEW — Garrett Wilson** — Garrett Wilson Eyeing Larger Target Share With Rookie WR Injured (2026-09-16T23:17:14Z)
+  - Source: https://www.rotoballer.com/player-news/garrett-wilson-eyeing-larger-target-share-with-rookie-wr-injured/1933279
 - **Jalen Milroe** — Jalen Milroe - Will get more reps at practice (2026-09-16T23:10:14Z)
   - Sam Darnold (glute) won't suit up in Week 2, meaning Drew Lock will be the team's starting signal-caller. Milroe will occupy the No. 2 spot on the depth chart, so head coach Mike Macdonald wants to be sure he is ready to go in case Lock gets injured.
 - **Nico Collins** — Nico Collins - Slated for tests on hamstring injury (2026-09-16T23:07:19Z)
@@ -37,9 +55,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Keaton Mitchell** — Keaton Mitchell (hamstring) without injury designation for Week 2 (2026-09-16T23:00:23.621000Z)
   - Mitchell was previously battling a hamstring injury, but he was able to play through it in Week 1 and is now off of the injury report entirely heading into Week 2. He should be a full go moving forward but won't have any real fantasy value on this offense for as long as Omarion Hampton remains healthy for the Chargers.
   - Source: https://www.fantasypros.com/nfl/news/608473/keaton-mitchell-hamstring-without-injury-designation-week-2.php
+- **NEW — Chris Godwin** — Chris Godwin Jr. is Proving to be Trustworthy (2026-09-16T22:55:23Z)
+  - Source: https://www.rotoballer.com/player-news/chris-godwin-jr-is-proving-to-be-trustworthy/1933271
 - **Ashton Jeanty** — Ashton Jeanty (ankle) logs full practice Wednesday (2026-09-16T22:50:24.517000Z)
   - Jeanty seems to be entirely over his ankle injury at this point, as he played through it in Week 1 and now logs a full practice session to start the week on Wednesday. He should be a full go and high-quality fantasy option moving forward, assuming he suffers no setbacks with his recovery.
   - Source: https://www.fantasypros.com/nfl/news/608472/ashton-jeanty-ankle-logs-full-practice-wednesday.php
+- **NEW — Bucky Irving** — Bucky Irving is Rising After Strong Opener (2026-09-16T22:46:17Z)
+  - Source: https://www.rotoballer.com/player-news/bucky-irving-is-rising-after-strong-opener/1933265
 - **George Kittle** — George Kittle - Limited in Wednesday's practice (2026-09-16T22:40:53Z)
   - Kittle operated with a cap on his practice reps last week before returning to action just nine months removed from tearing his right Achilles in a wild-card win at Philadelphia. In the 49ers' Week 1 victory against the Rams in Melbourne, Australia, he started, played 30 of 65 offensive snaps and gathered in two of five targets for 12 yards. San Francisco may continue to take it easy on Kittle in the early going with the long term in mind, but his status for game days doesn't appear to be in any question.
 - **Nico Collins** — Nico Collins (hamstring) limited at practice Wednesday (2026-09-16T22:40:24.072000Z)
@@ -48,9 +70,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Dalton Schultz** — Dalton Schultz (rest) misses practice Wednesday (2026-09-16T22:40:24.057000Z)
   - The veteran tight end was given Wednesday off as a veteran rest day to start the week. He is likely to be back at practice on Thursday and should play in Week 2, barring anything unforeseen between now and then. He remains a fringe streaming option at the tight end position at this point.
   - Source: https://www.fantasypros.com/nfl/news/608468/dalton-schultz-rest-misses-practice-wednesday.php
+- **NEW — Juwan Johnson** — Juwan Johnson is Absent on Wednesday (2026-09-16T22:32:02Z)
+  - Source: https://www.rotoballer.com/player-news/juwan-johnson-is-absent-on-wednesday/1933254
 - **Joe Burrow** — Joe Burrow (back) officially limited Wednesday (2026-09-16T22:30:23.566000Z)
   - As expected, Burrow was listed as a limited participant on the team's first official injury report of the week on Wednesday. He's dealing with some back soreness right now and wasn't able to throw passes at practice as a result. He told reporters that he plans on playing in Week 2, but this is worth monitoring over the next few days, as Ja'Marr Chase, Tee Higgins, and Chase Brown will all have their projections affected if Burrow is sidelined or playing at less than 100% health against a tough Texans' defense this week.
   - Source: https://www.fantasypros.com/nfl/news/608466/joe-burrow-back-officially-limited-wednesday.php
+- **NEW — Tory Horton** — Tory Horton is a Full Participant During Wednesday's Practice (2026-09-16T22:22:12Z)
+  - Source: https://www.rotoballer.com/player-news/tory-horton-is-a-full-participant-during-wednesdays-practice/1933248
 - **Michael Pittman** — Michael Pittman Jr. (foot) officially limited Wednesday (2026-09-16T22:20:23.535000Z)
   - Pittman is a new addition to Pittsburgh's injury report, being listed with a foot issue that left him limited at the team's first practice of the week. In the off-chance that it affects his availability or workload for Week 2, fantasy managers should expect more work for Pat Freiermuth against the Patriots.
   - Source: https://www.fantasypros.com/nfl/news/608463/michael-pittman-jr-foot-officially-limited-wednesday.php
@@ -62,13 +88,17 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jakobi Meyers** — Jakobi Meyers (thumb) listed as limited Wednesday (2026-09-16T22:10:23.475000Z)
   - The veteran wideout was able to play through his thumb injury last week, but he's not fully over it and it left him limited at practice on Wednesday. He should play through it again this week but doesn't project to be a strong fantasy asset for the foreseeable future, unless Brian Thomas Jr. (shoulder) misses time for Jacksonville.
   - Source: https://www.fantasypros.com/nfl/news/608459/jakobi-meyers-thumb-listed-limited-wednesday.php
+- **NEW — Raheim Sanders** — Raheim Sanders to Take on Bigger Role (2026-09-16T22:00:06Z)
+  - Source: https://www.rotoballer.com/player-news/raheim-sanders-to-take-on-bigger-role/1933230
+- **NEW — Cooper Kupp** — Cooper Kupp is Limited with Back Issue (2026-09-16T21:47:20Z)
+  - Source: https://www.rotoballer.com/player-news/cooper-kupp-is-limited-with-back-issue/1933222
 - **Kyler Murray** — Kyler Murray (concussion) officially limited Wednesday (2026-09-16T21:45:23.512000Z)
   - As expected, Murray comes through as a limited participant on Minnesota's official injury report on Wednesday. He's on track to be cleared in time for Week 2 and will likely have a chance to play, although that is far from certain at this point. Carson Wentz will likely serve as the starter once again if Murray is sidelined against the Bears, which would be great news for Justin Jefferson.
   - Source: https://www.fantasypros.com/nfl/news/608452/kyler-murray-concussion-officially-limited-wednesday.php
 - **Jauan Jennings** — Jauan Jennings (personal) doesn't practice Wednesday (2026-09-16T21:45:23.501000Z)
   - The veteran wideout was absent from Minnesota's practice on Wednesday due to a personal issue of some kind. It seems unlikely to affect his availability for Week 2, but he remains squarely off of the fantasy radar after going catchless in the season opener last week.
   - Source: https://www.fantasypros.com/nfl/news/608454/jauan-jennings-personal-doesnt-practice-wednesday.php
-- **NEW — Omar Cooper** — Omar Cooper Jr. Doesn't Practice on Wednesday (2026-09-16T21:35:32Z)
+- **Omar Cooper** — Omar Cooper Jr. Doesn't Practice on Wednesday (2026-09-16T21:35:32Z)
   - Source: https://www.rotoballer.com/player-news/omar-cooper-jr-doesnt-practice-on-wednesday/1933214
 - **Juwan Johnson** — Juwan Johnson (illness) doesn't practice Wednesday (2026-09-16T21:35:23.175000Z)
   - Johnson is a new addition to New Orleans' injury report, being listed with an illness of some kind that left him absent from practice on Wednesday. He's likely considered day-to-day at this point and seems to have a good chance to play in Week 2. If he's active he will be worth starting in a big matchup against the Ravens on Sunday.
@@ -76,21 +106,21 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Alvin Kamara** — Alvin Kamara (knee) logs full practice Wednesday (2026-09-16T21:35:23.164000Z)
   - The veteran running back logged a full practice session on Wednesday. He seems likely to play in Week 2, with Head coach Kellen Moore telling reporters that he feels good about Kamara's chances of suiting up. His likely return this week would mean less work for Kendre Miller moving forward and could mean a slight decrease in work for Travis Etienne Jr. as well.
   - Source: https://www.fantasypros.com/nfl/news/608450/alvin-kamara-knee-logs-full-practice-wednesday.php
-- **NEW — Jeremiyah Love** — Jeremiyah Love Not Included on Injury Report (2026-09-16T21:30:07Z)
+- **Jeremiyah Love** — Jeremiyah Love Not Included on Injury Report (2026-09-16T21:30:07Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-not-included-on-injury-report/1933203
 - **Zay Flowers** — Zay Flowers (hamstring) officially misses practice Wednesday (2026-09-16T21:25:22.993000Z)
   - As expected, Flowers was not able to participate in Baltimore's first practice of the week on Wednesday. He's dealing with a hamstring injury that he aggravated in Week 1, and it's currently unclear whether or not he will suit up for Week 2's matchup against the Saints. If he's sidelined, fantasy managers should expect Rashod Bateman and Mark Andrews to both see more work with rookie Ja'Kobi Lane (wrist) also out of the lineup now.
   - Source: https://www.fantasypros.com/nfl/news/608438/zay-flowers-hamstring-officially-misses-practice-wednesday.php
 - **Michael Penix** — Michael Penix - Could play in Week 2 (2026-09-16T21:21:30Z)
   - Penix practiced fully from Wednesday through Friday last week and ultimately was inactive for Week 1, so he is not a lock to suit up for Week 2 just yet. However -- per the same source above -- he shared the first-team work with Cooper Rush on Wednesday, and -- via Marc Raimondi of ESPN.com -- Penix himself indicated he could take the field Sunday. It likely will not be known for a day or two who will start at quarterback for the Falcons in Week 2, but at the least Penix is in the mix.
-- **NEW — Jake Bates** — Jake Bates a Risky Start for Fantasy Managers in Week 2 (2026-09-16T21:17:21Z)
+- **Jake Bates** — Jake Bates a Risky Start for Fantasy Managers in Week 2 (2026-09-16T21:17:21Z)
   - Source: https://www.rotoballer.com/player-news/jake-bates-a-risky-start-for-fantasy-managers-in-week-2/1933188
-- **NEW — Trey McBride** — Trey McBride Listed as DNP for Rest, Back Injury (2026-09-16T21:16:26Z)
+- **Trey McBride** — Trey McBride Listed as DNP for Rest, Back Injury (2026-09-16T21:16:26Z)
   - Source: https://www.rotoballer.com/player-news/trey-mcbride-misses-wednesdays-practice/1933186
 - **Rome Odunze** — Rome Odunze (calf) off injury report for Week 2 (2026-09-16T21:15:22.817000Z)
   - Odunze has been recovering from a calf injury for a while, but it seems that he is fully over it at this point, as he isn't listed on Chicago's injury report at all heading into Week 2. It's likely that his workload will ramp up this week after he was limited in the season opener, which should help him to produce a fantasy finish better than his underwhelming performance in Week 1.
   - Source: https://www.fantasypros.com/nfl/news/608436/rome-odunze-calf-off-injury-report-week-2.php
-- **NEW — Sam LaPorta** — Sam LaPorta Remains a Must-Start Tight End in Week 2 (2026-09-16T21:05:47Z)
+- **Sam LaPorta** — Sam LaPorta Remains a Must-Start Tight End in Week 2 (2026-09-16T21:05:47Z)
   - Source: https://www.rotoballer.com/player-news/sam-laporta-remains-a-must-start-tight-end-in-week-2-despite-modest-week-1-production/1933180
 - **Anthony Richardson** — Anthony Richardson Sr. (groin) officially DNP Wednesday (2026-09-16T21:05:22.939000Z)
   - Richardson wasn't spotted during the open portion of Indianapolis' practice on Wednesday, and he turned out to be absent due to a groin injury of some kind. He's still serving as the backup QB for the Colts at this point, so this injury won't have much of an impact for the team even if it leaves him sidelined this week.
@@ -107,7 +137,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Alec Pierce** — Alec Pierce (heel) practices in full Wednesday (2026-09-16T20:55:22.577000Z)
   - Pierce was a little banged up with a hand/wrist injury after the team's season opener last week, but those appear to be non-issues, as he was able to log a full practice on Wednesday and is only listed with his usual heel issue. He should be a full go for Week 2 and will likely continue to ramp up his workload over the next few weeks.
   - Source: https://www.fantasypros.com/nfl/news/608429/alec-pierce-heel-practices-full-wednesday.php
-- **NEW — Isaac TeSlaa** — Isaac TeSlaa Unlikely to See Fantasy-Relevant Target Share in Week 2 (2026-09-16T20:55:07Z)
+- **Isaac TeSlaa** — Isaac TeSlaa Unlikely to See Fantasy-Relevant Target Share in Week 2 (2026-09-16T20:55:07Z)
   - Source: https://www.rotoballer.com/player-news/isaac-teslaa-unlikely-to-see-fantasy-relevant-target-share-in-week-2/1933170
 - **Alvin Kamara** — Alvin Kamara - Good to go for Week 2 (2026-09-16T20:52:54Z)
   - New Orleans' backfield will get a boost in Week 2 with Kamara back in the mix after missing the season opener with a knee injury. The veteran injured his knee late in the preseason and returned to practice ahead of Week 1 but was not yet ready to give it a go. His full practice Wednesday points to Kamara being available for Sunday's game against the Ravens.
@@ -116,7 +146,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/608424/rashee-rice-knee-logs-full-practice-wednesday.php
 - **TreVeyon Henderson** — TreVeyon Henderson - Full practice Wednesday (2026-09-16T20:47:40Z)
   - This is a big development for Henderson after his ankle injury kept him out of the season opener. He was a full-go in Wednesday's session, which bodes well for him making his 2026 debut Sunday against the Steelers. The Patriots struggled to run the ball in his absence against the Seahawks, recording just 3.9 yards per carry as a team. Rhamondre Stevenson and Corey Kiner mustered just 62 yards on 24 carries.
-- **NEW — Jameson Williams** — Can Jameson Williams Bounce Back in Potential Week 2 Track Meet? (2026-09-16T20:47:18Z)
+- **Jameson Williams** — Can Jameson Williams Bounce Back in Potential Week 2 Track Meet? (2026-09-16T20:47:18Z)
   - Source: https://www.rotoballer.com/player-news/can-jameson-williams-bounce-back-in-potential-week-2-track-meet/1933166
 - **Patrick Mahomes** — Patrick Mahomes II (knee) listed as full participant Wednesday (2026-09-16T20:45:22.615000Z)
   - As expected, Mahomes continues to carry on at full health, logging a full practice session to start the week on Wednesday. Fantasy managers should have very few concerns with his premature return from injury at this point, since he demonstrated his health in Week 1 in Kansas City's big win over the Broncos.
@@ -128,7 +158,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/608411/treveyon-henderson-ankle-practices-full-wednesday.php
 - **Michael Pittman** — Michael Pittman - Limited by foot injury (2026-09-16T20:38:17Z)
   - Pittman led the team in receiving in Week 1 but is limited to start preparation for Sunday's game against the Patriots due to a foot injury. A limited practice Wednesday is somewhat encouraging when it comes to the severity of the issue. If Pittman is unable to go Sunday, Roman Wilson or Germie Bernard could pick up some of the slack out wide. Pittman has two more practice sessions to get back up to full speed before the team gives an injury status for Sunday.
-- **NEW — Amon-Ra St. Brown** — Amon-Ra St. Brown Could Be Set Up for Another High-Volume Game (2026-09-16T20:37:09Z)
+- **Amon-Ra St. Brown** — Amon-Ra St. Brown Could Be Set Up for Another High-Volume Game (2026-09-16T20:37:09Z)
   - Source: https://www.rotoballer.com/player-news/amon-ra-st-brown-could-be-set-up-for-another-high-volume-game-in-week-2/1933158
 - **Jerry Jeudy** — Jerry Jeudy (wrist) logs full practice Wednesday (2026-09-16T20:35:22.864000Z)
   - The veteran wideout tweaked his wrist recently, but it doesn't seem to be a serious issue, as he was still able to practice in full on Wednesday. He should play this week but doesn't project to be a good fantasy option in a matchup against the Buccaneers.
@@ -152,7 +182,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/608403/troy-franklin-knee-fully-practices-wednesday.php
 - **Brian Thomas** — Brian Thomas - Limited practice Wednesday (2026-09-16T20:22:45Z)
   - This was expected, as coach Liam Coen said Monday that the third-year wideout would be limited this week as he works through a shoulder issue. Coen added that he expects Thomas to be available Week 2, but it will depend on how his shoulder holds up going into the weekend. Of note, fellow wideout Jakobi Meyers (thumb) was also limited Wednesday.
-- **NEW — Jahmyr Gibbs** — Jahmyr Gibbs Remains a Top Running Back Option in Week 2 (2026-09-16T20:20:07Z)
+- **Jahmyr Gibbs** — Jahmyr Gibbs Remains a Top Running Back Option in Week 2 (2026-09-16T20:20:07Z)
   - Source: https://www.rotoballer.com/player-news/jahmyr-gibbs-remains-a-top-running-back-option-in-week-2/1933143
 - **Kyle Monangai** — Kyle Monangai - Limited Wednesday (2026-09-16T20:17:47Z)
   - Both Monangai and D'Andre Swift (knee/ankle) were limited to begin the week in practice Wednesday. Monangai, who had a big day in the Week 1 win over the Panthers, is dealing with a hamstring issue that is limiting him for now. The Bears will clarify Monangai's status for Sunday later in the week, but this is an item for managers to keep an eye on in the coming days.
@@ -167,7 +197,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Zachariah Branch** — Zachariah Branch (hamstring) off injury report for Week 2 (2026-09-16T20:10:23.123000Z)
   - The rookie was recently listed on Atlanta's injury report due to a hamstring injury, but he was able to play last week and is now off of the injury report entirely heading into Week 2. He saw some work on offense and on special teams in his NFL debut last week, but fantasy managers shouldn't expect him to be relevant for the foreseeable future.
   - Source: https://www.fantasypros.com/nfl/news/608393/zachariah-branch-hamstring-off-injury-report-week-2.php
-- **NEW — Jared Goff** — Jared Goff a Low-End QB1 Option in Potential High-Scoring Affair (2026-09-16T20:07:06Z)
+- **Jared Goff** — Jared Goff a Low-End QB1 Option in Potential High-Scoring Affair (2026-09-16T20:07:06Z)
   - Source: https://www.rotoballer.com/player-news/jared-goff-a-low-end-qb1-option-in-potential-high-scoring-affair-on-thursday/1933130
 - **Michael Penix** — Michael Penix Jr. (knee) logs full practice Wednesday (2026-09-16T20:05:22.371000Z)
   - Penix was able to participate in Wednesday's practice in a full capacity, which is a good sign for his availability for Week 2. He could be in line to see his first start of the season against the Panthers with Tua Tagovailoa (oblique) still not back at practice and Cooper Rush (back) still banged up after a poor performance as the team's starter last week.
@@ -222,36 +252,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Murray lasted 11 offensive snaps before suffering a concussion this past Sunday against the Packers when he was sandwiched between two defenders. Carson Wentz came on in relief of Murray and helped lead the Vikings to a 39-22 victory. O'Connell told Alec Lewis of The Athletic on Monday that Murray would be evaluated day by day as the team prepares for Sunday's road matchup with the Bears, but if the quarterback doesn't make the requisite progress and gain clearance from an independent neurologist, Wentz again will be under center for Minnesota.
 - **George Kittle** — George Kittle Limited in Practice on Wednesday (2026-09-16T18:58:11Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-limited-in-practice-on-wednesday/1933109
-- **Jordan Mason** — Jordan Mason - Lands on injured reserve (2026-09-16T18:54:43Z)
-  - Mason emerged from the Vikings' Week 1 win against the Packers with a sore thumb, but the severity of the issue didn't become clear until O'Connell spoke to the media Wednesday. With Mason out for at least the next four games, Aaron Jones is set to lead the Vikings backfield for the foreseeable future, with Demond Claiborne, DeeJay Dallas and practice-squad member Jerome Ford all candidates for reps that don't go to Jones.
-- **Jordan Mason** — Jordan Mason (thumb) placed on injured reserve (2026-09-16T18:50:44.411000Z)
-  - Surprisingly, Mason is being placed on injured reserve due to a thumb injury that he is dealing with. It's not expected to be a long-term issue for him, but he is going to be sidelined for at least the next four weeks while he recovers. Aaron Jones Sr. will serve as the team's clear RB1 in his absence, with Minnesota also signing DeeJay Dallas to their active roster to help with depth.
-  - Source: https://www.fantasypros.com/nfl/news/608366/jordan-mason-thumb-placed-on-injured-reserve.php
-- **Alec Pierce** — Alec Pierce Practicing in Full Ahead of Week 2 (2026-09-16T18:46:11Z)
-  - Source: https://www.rotoballer.com/player-news/alec-pierce-practicing-in-full-ahead-of-week-2/1933104
-- **Travis Kelce** — Travis Kelce a Victim in Multi-Million Dollar Scam (2026-09-16T18:35:55Z)
-  - Source: https://www.rotoballer.com/player-news/travis-kelce-involved-in-multi-million-dollar-scam/1933098
-- **Anthony Richardson** — Anthony Richardson Sr. not seen practicing Wednesday  (2026-09-16T18:35:48.688000Z)
-  - Brown notes that Richardson on the field standing with the QBs in sweatpants and a towel over his head. There should be an update on his absence when available. 
-  - Source: https://www.fantasypros.com/nfl/news/608361/anthony-richardson-sr-not-seen-practicing-wednesday.php
-- **Michael Penix** — Michael Penix Jr. (knee) throwing on side field Wednesday  (2026-09-16T18:35:48.668000Z)
-  - Penix was not ready to go in the season opener last week for the Falcons. His status remains uncertain heading into Week 2. 
-  - Source: https://www.fantasypros.com/nfl/news/608364/michael-penix-jr-knee-throwing-on-side-field-wednesday.php
-- **Joe Burrow** — Joe Burrow - May be dealing with injury (2026-09-16T18:23:46Z)
-  - Prior to the stretch, Burrow made throws of roughly 15 yards apart along with backup QB Joe Flacco, per Paul Dehner Jr. of The Athletic. Dehner added that head coach Zac Taylor said Monday that some Bengals would be limited in practice this week, but none of those health concerns were major. Burrow is scheduled to speak with the media Wednesday afternoon, while Cincinnati will post its first Week 2 injury report imminently, so clarity on his situation should arrive in the near future.
-- **Jakobi Meyers** — Jakobi Meyers Limited With Thumb Injury on Wednesday (2026-09-16T18:19:05Z)
-  - Source: https://www.rotoballer.com/player-news/jakobi-meyers-limited-with-thumb-injury-on-wednesday/1933094
-- **Jalen Coker** — Jalen Coker - Working on side Wednesday (2026-09-16T18:03:28Z)
-  - After reeling off eight catches (on nine targets) for 138 yards and two touchdowns during a Week 1 loss to the Bears, Coker was spotted in a walking boot Monday due to a left ankle injury suffered in that contest. He told Kaye at the time that the boot was a precaution, and now his practice reps, or lack thereof, to begin Week 2 prep will become known later Wednesday.
-- **Brian Thomas** — Brian Thomas Jr. Limited on Wednesday With Shoulder Injury (2026-09-16T18:01:06Z)
-  - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-limited-on-wednesday-with-shoulder-injury/1933090
-- **Jalen Coker** — Jalen Coker (ankle) working off to side at Wednesday's practice (2026-09-16T18:00:43.888000Z)
-  - It has already been reported that Coker, who was in a walking boot after Week 1, is not expected to miss time with his ankle injury, so the team is likely being cautious before ramping him up later in the week. His practice status should be monitored in the coming days to see if he can return to a full practice before Sunday's matchup with the Falcons.
-  - Source: https://www.fantasypros.com/nfl/news/608350/jalen-coker-ankle-working-off-to-side-wednesdays-practice.php
-- **Brock Bowers** — Brock Bowers - No practice Wednesday (2026-09-16T17:53:31Z)
-  - Bowers is a little more than a week removed from undergoing a meniscus trim on his left knee, for which he sat out the Raiders' Week 1 win against the Dolphins this past Sunday. His next practice reps would mark his first since the surgery, so getting back on the field in some capacity this week would give him a chance to return to action Sunday at the Chargers. Another absence from Bowers, though, would allow Michael Mayer exclusive access to TE reps in the Raiders offense.
-- **RJ Harvey** — RJ Harvey Estimated as DNP on Wednesday (2026-09-16T17:51:21Z)
-  - Source: https://www.rotoballer.com/player-news/rj-harvey-estimated-as-dnp-on-wednesday/1933088
-- **Brock Bowers** — Brock Bowers (knee) won't practice Wednesday (2026-09-16T17:50:44.145000Z)
-  - The star tight end is not going to practice for the Raiders on Wednesday after missing Week 1 due to a knee injury. The team is hopeful that he will return to practice at some point this week, however, and he is considered day-to-day for the time being. It looks like it will be an uphill battle for him to play in Week 2, which would open the door for Michael Mayer to see more work as a result of his absence.
-  - Source: https://www.fantasypros.com/nfl/news/608349/brock-bowers-knee-wont-practice-wednesday.php
