@@ -1,22 +1,11 @@
 {
-  "last_checked_at": "2026-09-17T06:42:26Z",
+  "last_checked_at": "2026-09-17T12:08:20Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 290,
   "new_story_ids": [
-    "nfl|11584|rotoballer|221251|1789598777000",
-    "nfl|12472|rotoballer|221247|1789596006000",
-    "nfl|12497|fantasy_pros|608557|1789626326753",
-    "nfl|12497|rotoballer|221249|1789597332000",
-    "nfl|12526|rotoballer|221255|1789607407000",
-    "nfl|4037|rotoballer|221252|1789599323000",
-    "nfl|4039|fantasy_pros|608560|1789626626398",
-    "nfl|4039|rotoballer|221246|1789595240000",
-    "nfl|4217|rotoballer|221254|1789605906000",
-    "nfl|6790|rotoballer|221258|1789608292000",
-    "nfl|7002|rotoballer|221250|1789597922000",
-    "nfl|8144|rotoballer|221257|1789608006000",
-    "nfl|8146|rotoballer|221253|1789600634000",
-    "nfl|8167|rotoballer|221256|1789607652000"
+    "nfl|13287|fantasy_pros|608571|1789644028325",
+    "nfl|7569|rotowire|637736|1789642024000",
+    "nfl|8130|fantasy_pros|608570|1789643728198"
   ],
   "schema_version": 1,
   "source": {
@@ -26,6 +15,68 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The rookie running back was dealing with an ankle injury prior to the team's season opener last week, but he was able to play through it against the Chargers and should be able to do the same in Week 2 now that he's off of the injury report entirely. His workload should continue to ramp up in the coming weeks if he can stay healthy.",
+      "description": "Jeremiyah Love (ankle) is off of Arizona's injury report ahead of their Week 2 matchup against the Seattle Seahawks.",
+      "metadata": {
+        "analysis": "The rookie running back was dealing with an ankle injury prior to the team's season opener last week, but he was able to play through it against the Chargers and should be able to do the same in Week 2 now that he's off of the injury report entirely. His workload should continue to ramp up in the coming weeks if he can stay healthy.",
+        "description": "Jeremiyah Love (ankle) is off of Arizona's injury report ahead of their Week 2 matchup against the Seattle Seahawks.",
+        "title": "Jeremiyah Love (ankle) off injury report for Week 2",
+        "topic_id": "1406272616347561984",
+        "url": "https://www.fantasypros.com/nfl/news/608571/jeremiyah-love-ankle-off-injury-report-week-2.php"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1789644028325,
+      "source": "fantasy_pros",
+      "source_key": "608571",
+      "story_id": "nfl|13287|fantasy_pros|608571|1789644028325",
+      "title": "Jeremiyah Love (ankle) off injury report for Week 2",
+      "url": "https://www.fantasypros.com/nfl/news/608571/jeremiyah-love-ankle-off-injury-report-week-2.php"
+    },
+    {
+      "analysis": "Arizona gave their star tight end the day off on Wednesday as a rest day. He was also listed with a back issue of some kind, but it seems to be nothing serious and isn't likely to play a factor on his availability for Week 2. He will remain a top-tier fantasy asset every time he's healthy and on the field for the Cardinals.",
+      "description": "Trey McBride (rest/back) did not take part in Arizona's practice on Wednesday.",
+      "metadata": {
+        "analysis": "Arizona gave their star tight end the day off on Wednesday as a rest day. He was also listed with a back issue of some kind, but it seems to be nothing serious and isn't likely to play a factor on his availability for Week 2. He will remain a top-tier fantasy asset every time he's healthy and on the field for the Cardinals.",
+        "description": "Trey McBride (rest/back) did not take part in Arizona's practice on Wednesday.",
+        "title": "Trey McBride (rest/back) doesn't practice Wednesday",
+        "topic_id": "1406271357523636224",
+        "url": "https://www.fantasypros.com/nfl/news/608570/trey-mcbride-restback-doesnt-practice-wednesday.php"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8130",
+      "player_name": "Trey McBride",
+      "position": "TE",
+      "published": 1789643728198,
+      "source": "fantasy_pros",
+      "source_key": "608570",
+      "story_id": "nfl|8130|fantasy_pros|608570|1789643728198",
+      "title": "Trey McBride (rest/back) doesn't practice Wednesday",
+      "url": "https://www.fantasypros.com/nfl/news/608570/trey-mcbride-restback-doesnt-practice-wednesday.php"
+    },
+    {
+      "analysis": "There was concern about Collins' status after he popped up on Wednesday's injury report and was sent for tests on his injured hamstring, but the early indication is he is not dealing with a serious setback. Collins dealt with a hamstring issue in the past and will not be afforded much time before Sunday's matchup with the Bengals, so while the long-term outlook appears positive he could miss at least one game.",
+      "description": "Collins met with doctors after injuring his hamstring at Wednesday's practice, and although the injury does not seem serious his status for Week 2 \"is in jeopardy,\" Adam Schefter of ESPN reports.",
+      "metadata": {
+        "analysis": "There was concern about Collins' status after he popped up on Wednesday's injury report and was sent for tests on his injured hamstring, but the early indication is he is not dealing with a serious setback. Collins dealt with a hamstring issue in the past and will not be afforded much time before Sunday's matchup with the Bengals, so while the long-term outlook appears positive he could miss at least one game.",
+        "description": "Collins met with doctors after injuring his hamstring at Wednesday's practice, and although the injury does not seem serious his status for Week 2 \"is in jeopardy,\" Adam Schefter of ESPN reports.",
+        "title": "Nico Collins - Injury seemingly not serious",
+        "topic_id": "1406265062292815872"
+      },
+      "nfl_team": "HOU",
+      "player_id": "7569",
+      "player_name": "Nico Collins",
+      "position": "WR",
+      "published": 1789642024000,
+      "source": "rotowire",
+      "source_key": "637736",
+      "story_id": "nfl|7569|rotowire|637736|1789642024000",
+      "title": "Nico Collins - Injury seemingly not serious",
+      "url": null
+    },
     {
       "analysis": "Kupp will likely be limited in practice on most Wednesday's. He remains off the fantasy radar. ",
       "description": "Cooper Kupp was limited in practice on Wednesday. ",
@@ -72910,106 +72961,6 @@
       "story_id": "nfl|13287|rotoballer|218881|1787055547000",
       "title": "Jeremiyah Love Won't Need Surgery on his Ankle",
       "url": "https://www.rotoballer.com/player-news/jeremiyah-love-wont-need-surgery-on-his-ankle/1911324"
-    },
-    {
-      "analysis": null,
-      "description": "Tampa Bay Buccaneers tight end Cade Otton (undisclosed) is out of training camp practice again on Tuesday with an undisclosed injury, according to Greg Auman of FOX Sports. Auman does not think that Otton will be cleared to play with the rest of the starters in the second preseason game this Saturday against the Kansas City Chiefs. The 27-year-old should be considered day-to-day for now. Otton caught a career-high-tying 59 passes on 81 targets for 572 yards and just one touchdown in 16 starts for the Bucs in 2025 in his fourth year in the NFL. The former fourth-rounder from the University of Washington could see a larger target share in 2026 if receiver Emeka Egbuka (toe) is not ready for the start of the regular season, although Otton still profiles as more of a touchdown-dependent, low-end TE2 in fantasy football leagues. Otton's career year came in 2024, when he caught 59 passes for 600 yards and four touchdowns on 87 targets to finish as the TE11 in half-PPR formats. There might be more opportunities for spike weeks this year, though, with future Hall of Fame receiver Mike Evans no longer in town.",
-      "metadata": {
-        "description": "Tampa Bay Buccaneers tight end Cade Otton (undisclosed) is out of training camp practice again on Tuesday with an undisclosed injury, according to Greg Auman of FOX Sports. Auman does not think that Otton will be cleared to play with the rest of the starters in the second preseason game this Saturday against the Kansas City Chiefs. The 27-year-old should be considered day-to-day for now. Otton caught a career-high-tying 59 passes on 81 targets for 572 yards and just one touchdown in 16 starts for the Bucs in 2025 in his fourth year in the NFL. The former fourth-rounder from the University of Washington could see a larger target share in 2026 if receiver Emeka Egbuka (toe) is not ready for the start of the regular season, although Otton still profiles as more of a touchdown-dependent, low-end TE2 in fantasy football leagues. Otton's career year came in 2024, when he caught 59 passes for 600 yards and four touchdowns on 87 targets to finish as the TE11 in half-PPR formats. There might be more opportunities for spike weeks this year, though, with future Hall of Fame receiver Mike Evans no longer in town.",
-        "title": "Cade Otton Out With Undisclosed Injury on Tuesday",
-        "topic_id": "1395467741623762944",
-        "url": "https://www.rotoballer.com/player-news/cade-otton-out-with-undisclosed-injury-on-tuesday/1911280"
-      },
-      "nfl_team": "TB",
-      "player_id": "8111",
-      "player_name": "Cade Otton",
-      "position": "TE",
-      "published": 1787053164000,
-      "source": "rotoballer",
-      "source_key": "218877",
-      "story_id": "nfl|8111|rotoballer|218877|1787053164000",
-      "title": "Cade Otton Out With Undisclosed Injury on Tuesday",
-      "url": "https://www.rotoballer.com/player-news/cade-otton-out-with-undisclosed-injury-on-tuesday/1911280"
-    },
-    {
-      "analysis": null,
-      "description": "Jacksonville Jaguars wide receiver Brian Thomas Jr. has been sharing reps as the No. 3 receiver with Travis Hunter, according to Michael DiRocco of ESPN.com. For most of training camp, when Thomas has been on the field, Hunter has been on the sideline, and vice versa. Additionally, DiRocco reports that although Thomas has been impressive this summer, the Jaguars have given far more reps to Jakobi Meyers and Parker Washington, whom they are reluctant to take off the field. At this point, fantasy managers should be concerned that Thomas is going to open the season sharing reps as the Jags' No. 3 receiver. Additionally, although Hunter is expected to play more defense than offense, all signs point to Thomas coming off the field when the Jaguars choose to give Hunter reps at wide receiver. Thomas has fallen to WR33 in RotoBaller's latest fantasy football rankings, making him a fringe WR3/flex in most leagues.",
-      "metadata": {
-        "description": "Jacksonville Jaguars wide receiver Brian Thomas Jr. has been sharing reps as the No. 3 receiver with Travis Hunter, according to Michael DiRocco of ESPN.com. For most of training camp, when Thomas has been on the field, Hunter has been on the sideline, and vice versa. Additionally, DiRocco reports that although Thomas has been impressive this summer, the Jaguars have given far more reps to Jakobi Meyers and Parker Washington, whom they are reluctant to take off the field. At this point, fantasy managers should be concerned that Thomas is going to open the season sharing reps as the Jags' No. 3 receiver. Additionally, although Hunter is expected to play more defense than offense, all signs point to Thomas coming off the field when the Jaguars choose to give Hunter reps at wide receiver. Thomas has fallen to WR33 in RotoBaller's latest fantasy football rankings, making him a fringe WR3/flex in most leagues.",
-        "title": "Brian Thomas Jr. Coming Off the Field in Certain Packages",
-        "topic_id": "1395456413861429248",
-        "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-has-been-coming-off-the-field-when-travis-hunter-plays/1911226"
-      },
-      "nfl_team": "JAX",
-      "player_id": "11631",
-      "player_name": "Brian Thomas",
-      "position": "WR",
-      "published": 1787050330000,
-      "source": "rotoballer",
-      "source_key": "218868",
-      "story_id": "nfl|11631|rotoballer|218868|1787050330000",
-      "title": "Brian Thomas Jr. Coming Off the Field in Certain Packages",
-      "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-has-been-coming-off-the-field-when-travis-hunter-plays/1911226"
-    },
-    {
-      "analysis": null,
-      "description": "Tennessee Titans running back Tyjae Spears has had a productive summer, accumulating 39 yards on five touches in the team's preseason opener and carrying that momentum back to the practice field. With Tony Pollard (foot), Nick Singleton (undisclosed/foot), and Kalel Mullings (hip) all held out of Monday's session, Spears was the Titans' most active back, particularly in the passing game, where senior writer Jim Wyatt credits him with a practice-high six catches. Spears has stood out for his receiving work for much of camp, and he figures to carry a significant pass-catching role into the regular season, making him an underrated late-round target in PPR leagues. Currently being selected as the RB53, he has standalone value that more than justifies his draft cost and can lead the backfield if forced into a larger role, as evidenced on Monday.",
-      "metadata": {
-        "description": "Tennessee Titans running back Tyjae Spears has had a productive summer, accumulating 39 yards on five touches in the team's preseason opener and carrying that momentum back to the practice field. With Tony Pollard (foot), Nick Singleton (undisclosed/foot), and Kalel Mullings (hip) all held out of Monday's session, Spears was the Titans' most active back, particularly in the passing game, where senior writer Jim Wyatt credits him with a practice-high six catches. Spears has stood out for his receiving work for much of camp, and he figures to carry a significant pass-catching role into the regular season, making him an underrated late-round target in PPR leagues. Currently being selected as the RB53, he has standalone value that more than justifies his draft cost and can lead the backfield if forced into a larger role, as evidenced on Monday.",
-        "title": "Tyjae Spears' Busy Training Camp Continues",
-        "topic_id": "1395456413857234944",
-        "url": "https://www.rotoballer.com/player-news/tyjae-spears-busy-training-camp-continues/1911224"
-      },
-      "nfl_team": "TEN",
-      "player_id": "9508",
-      "player_name": "Tyjae Spears",
-      "position": "RB",
-      "published": 1787050148000,
-      "source": "rotoballer",
-      "source_key": "218869",
-      "story_id": "nfl|9508|rotoballer|218869|1787050148000",
-      "title": "Tyjae Spears' Busy Training Camp Continues",
-      "url": "https://www.rotoballer.com/player-news/tyjae-spears-busy-training-camp-continues/1911224"
-    },
-    {
-      "analysis": null,
-      "description": "New York Jets running back Braelon Allen missed most of the 2025 season with a sprained MCL, but after an offseason of intensive rehab, he told the media on Monday that he is faster and more explosive than ever. With starting running back Breece Hall (groin) exiting practice with a groin injury, the third-year back could be in line for an expanded workload, and head coach Aaron Glenn shared on Monday his belief that Allen could handle the role. \"I know that most people think that once you lose a starter, there's a huge drop-off,\" he said. \"I like to look at it as all our guys are starters and there shouldn't be a drop-off. So, anytime we lose a player, I expect the next guy to come in and operate just as good.\" Allen is currently being drafted as the RB60, but he is built to handle an every-down role should Hall miss time in the regular season, making him an important insurance back to roster in deeper leagues.",
-      "metadata": {
-        "description": "New York Jets running back Braelon Allen missed most of the 2025 season with a sprained MCL, but after an offseason of intensive rehab, he told the media on Monday that he is faster and more explosive than ever. With starting running back Breece Hall (groin) exiting practice with a groin injury, the third-year back could be in line for an expanded workload, and head coach Aaron Glenn shared on Monday his belief that Allen could handle the role. \"I know that most people think that once you lose a starter, there's a huge drop-off,\" he said. \"I like to look at it as all our guys are starters and there shouldn't be a drop-off. So, anytime we lose a player, I expect the next guy to come in and operate just as good.\" Allen is currently being drafted as the RB60, but he is built to handle an every-down role should Hall miss time in the regular season, making him an important insurance back to roster in deeper leagues.",
-        "title": "A \"Faster, More Explosive\" Braelon Allen Could See More Touches",
-        "topic_id": "1395451380440776704",
-        "url": "https://www.rotoballer.com/player-news/a-faster-more-explosive-braelon-allen-could-now-be-in-line-for-extra-touches/1911216"
-      },
-      "nfl_team": "NYJ",
-      "player_id": "11576",
-      "player_name": "Braelon Allen",
-      "position": "RB",
-      "published": 1787049368000,
-      "source": "rotoballer",
-      "source_key": "218866",
-      "story_id": "nfl|11576|rotoballer|218866|1787049368000",
-      "title": "A \"Faster, More Explosive\" Braelon Allen Could See More Touches",
-      "url": "https://www.rotoballer.com/player-news/a-faster-more-explosive-braelon-allen-could-now-be-in-line-for-extra-touches/1911216"
-    },
-    {
-      "analysis": null,
-      "description": "Used primarily from the slot through the first three seasons of his career, Indianapolis Colts wide receiver Josh Downs has seen extensive outside work throughout training camp, with a lack of positional depth leading to a projection of expanded usage in two-receiver sets. With the Colts signing veteran receiver Keenan Allen on Monday night, there is now reason to question how that plan may be affected, but Colts analyst Destin Adams believes Downs will still see the bulk of the work alongside Alec Pierce when two receivers are on the field, with Allen mixing in as needed. Then when the team moves to 11-personnel, Downs will kick inside while Allen mans the 'Z'. While Adams' assessment is reassuring for those calling for a Downs breakout, the impact that Allen had in making Chargers receiver Ladd McConkey one of fantasy's biggest disappointments in 2025 can not be overlooked, and Downs, who has been coming off the board as the WR43, is likely to see his ADP drop.",
-      "metadata": {
-        "description": "Used primarily from the slot through the first three seasons of his career, Indianapolis Colts wide receiver Josh Downs has seen extensive outside work throughout training camp, with a lack of positional depth leading to a projection of expanded usage in two-receiver sets. With the Colts signing veteran receiver Keenan Allen on Monday night, there is now reason to question how that plan may be affected, but Colts analyst Destin Adams believes Downs will still see the bulk of the work alongside Alec Pierce when two receivers are on the field, with Allen mixing in as needed. Then when the team moves to 11-personnel, Downs will kick inside while Allen mans the 'Z'. While Adams' assessment is reassuring for those calling for a Downs breakout, the impact that Allen had in making Chargers receiver Ladd McConkey one of fantasy's biggest disappointments in 2025 can not be overlooked, and Downs, who has been coming off the board as the WR43, is likely to see his ADP drop.",
-        "title": "Josh Downs to Still See Usage in Two-Receiver Sets",
-        "topic_id": "1395440053185957888",
-        "url": "https://www.rotoballer.com/player-news/josh-downs-to-still-see-usage-in-two-receiver-sets/1911201"
-      },
-      "nfl_team": "IND",
-      "player_id": "9500",
-      "player_name": "Josh Downs",
-      "position": "WR",
-      "published": 1787046547000,
-      "source": "rotoballer",
-      "source_key": "218863",
-      "story_id": "nfl|9500|rotoballer|218863|1787046547000",
-      "title": "Josh Downs to Still See Usage in Two-Receiver Sets",
-      "url": "https://www.rotoballer.com/player-news/josh-downs-to-still-see-usage-in-two-receiver-sets/1911201"
     }
   ]
 }

@@ -2,28 +2,36 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **3616**
-- Newly captured: **14**
+- Stored stories: **3614**
+- Newly captured: **3**
 
 ## Latest news
 
-- **NEW — Cooper Kupp** — Cooper Kupp (back) limited in practice Wednesday  (2026-09-17T06:30:26.398000Z)
+- **NEW — Jeremiyah Love** — Jeremiyah Love (ankle) off injury report for Week 2 (2026-09-17T11:20:28.325000Z)
+  - The rookie running back was dealing with an ankle injury prior to the team's season opener last week, but he was able to play through it against the Chargers and should be able to do the same in Week 2 now that he's off of the injury report entirely. His workload should continue to ramp up in the coming weeks if he can stay healthy.
+  - Source: https://www.fantasypros.com/nfl/news/608571/jeremiyah-love-ankle-off-injury-report-week-2.php
+- **NEW — Trey McBride** — Trey McBride (rest/back) doesn't practice Wednesday (2026-09-17T11:15:28.198000Z)
+  - Arizona gave their star tight end the day off on Wednesday as a rest day. He was also listed with a back issue of some kind, but it seems to be nothing serious and isn't likely to play a factor on his availability for Week 2. He will remain a top-tier fantasy asset every time he's healthy and on the field for the Cardinals.
+  - Source: https://www.fantasypros.com/nfl/news/608570/trey-mcbride-restback-doesnt-practice-wednesday.php
+- **NEW — Nico Collins** — Nico Collins - Injury seemingly not serious (2026-09-17T10:47:04Z)
+  - There was concern about Collins' status after he popped up on Wednesday's injury report and was sent for tests on his injured hamstring, but the early indication is he is not dealing with a serious setback. Collins dealt with a hamstring issue in the past and will not be afforded much time before Sunday's matchup with the Bengals, so while the long-term outlook appears positive he could miss at least one game.
+- **Cooper Kupp** — Cooper Kupp (back) limited in practice Wednesday  (2026-09-17T06:30:26.398000Z)
   - Kupp will likely be limited in practice on most Wednesday's. He remains off the fantasy radar. 
   - Source: https://www.fantasypros.com/nfl/news/608560/cooper-kupp-back-limited-practice-wednesday.php
-- **NEW — Tory Horton** — Tory Horton (hamstring) logs full practice Wednesday  (2026-09-17T06:25:26.753000Z)
+- **Tory Horton** — Tory Horton (hamstring) logs full practice Wednesday  (2026-09-17T06:25:26.753000Z)
   - It is a positive sign for Horton to be able to make his season debut on Sunday against the Cardinals. 
   - Source: https://www.fantasypros.com/nfl/news/608557/tory-horton-hamstring-logs-full-practice-wednesday.php
-- **NEW — D'Andre Swift** — D'Andre Swift a High-Volume Riser in Bears' Backfield (2026-09-17T01:24:52Z)
+- **D'Andre Swift** — D'Andre Swift a High-Volume Riser in Bears' Backfield (2026-09-17T01:24:52Z)
   - Source: https://www.rotoballer.com/player-news/dandre-swift-a-high-volume-riser-in-bears-backfield/1933313
-- **NEW — Chris Olave** — Chris Olave Getting Peppered with Targets Left and Right (2026-09-17T01:20:06Z)
+- **Chris Olave** — Chris Olave Getting Peppered with Targets Left and Right (2026-09-17T01:20:06Z)
   - Source: https://www.rotoballer.com/player-news/chris-olave-getting-peppered-with-targets-left-and-right/1933311
-- **NEW — Christian Watson** — Christian Watson Ascending Into a Fantasy Superstar (2026-09-17T01:14:12Z)
+- **Christian Watson** — Christian Watson Ascending Into a Fantasy Superstar (2026-09-17T01:14:12Z)
   - Source: https://www.rotoballer.com/player-news/christian-watson-ascending-into-a-fantasy-superstar/1933308
-- **NEW — Tetairoa McMillan** — Tetairoa McMillan Plays a Major Role on Offense (2026-09-17T01:10:07Z)
+- **Tetairoa McMillan** — Tetairoa McMillan Plays a Major Role on Offense (2026-09-17T01:10:07Z)
   - Source: https://www.rotoballer.com/player-news/tetairoa-mcmillan-plays-a-major-role-on-offense/1933306
 - **Demond Claiborne** — Demond Claiborne - In line for larger role sans Mason (2026-09-17T00:50:56Z)
   - Mason, Aaron Jones and DeeJay Dallas were Minnesota's three active running backs for Sunday's 39-22 win over Green Bay, with Claiborne observing the game in street clothes. Mason's injury means Jones is the clear RB1 on the roster while the former is sidelined, but Claiborne will be in the mix for backup duties, with Dallas -- who was signed to the Vikings' active roster from the practice squad Wednesday -- being the rookie sixth-rounder's main competition. The Vikings hit the road for a Week 2 NFC North tilt this Sunday against the Bears, whose defense gave up 478 total yards -- including 125 rushing yards -- to the Panthers in a 59-37 Week 1 win for Chicago.
-- **NEW — George Kittle** — George Kittle Rising to Top-Tier TE1 Range After Recovery (2026-09-17T00:45:06Z)
+- **George Kittle** — George Kittle Rising to Top-Tier TE1 Range After Recovery (2026-09-17T00:45:06Z)
   - Source: https://www.rotoballer.com/player-news/george-kittle-rising-to-top-tier-te1-range-after-recovery/1933304
 - **Raheim Sanders** — Raheim Sanders - Slated for increased role sans Sampson (2026-09-17T00:40:36Z)
   - Sampson injured his knee on a kickoff return during Sunday's 34-10 loss to the Jaguars, and he'll be required to miss at least the next four games while on IR. Sanders finished that game with three catches on as many targets for 25 yards along with a one-yard carry, but moving forward, he should see more offensive snaps as the Browns' RB2 behind Quinshon Judkins, with Jaleel McLaughlin slotting in as the No. 3 backfield option. The Browns will stay on the road for a Week 2 tilt against the Buccaneers, whose defense gave up 106 rushing yards and one touchdown on 27 carries (3.9 YPC) in a 33-27 loss to the Bengals in Week 1.
@@ -46,7 +54,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/608478/george-kittle-achilles-limited-practice-wednesday.php
 - **Marvin Mims** — Marvin Mims - DNP on Wednesday (2026-09-16T23:26:39Z)
   - Mims was injured in Monday night's loss to the Chiefs but was able to return to the game, though he saw zero targets while playing just nine offensive snaps. The receiver's role seems to be mainly on special teams while everyone is healthy ahead of him on the depth chart.
-- **NEW — Garrett Wilson** — Garrett Wilson Eyeing Larger Target Share With Rookie WR Injured (2026-09-16T23:17:14Z)
+- **Garrett Wilson** — Garrett Wilson Eyeing Larger Target Share With Rookie WR Injured (2026-09-16T23:17:14Z)
   - Source: https://www.rotoballer.com/player-news/garrett-wilson-eyeing-larger-target-share-with-rookie-wr-injured/1933279
 - **Jalen Milroe** — Jalen Milroe - Will get more reps at practice (2026-09-16T23:10:14Z)
   - Sam Darnold (glute) won't suit up in Week 2, meaning Drew Lock will be the team's starting signal-caller. Milroe will occupy the No. 2 spot on the depth chart, so head coach Mike Macdonald wants to be sure he is ready to go in case Lock gets injured.
@@ -55,12 +63,12 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Keaton Mitchell** — Keaton Mitchell (hamstring) without injury designation for Week 2 (2026-09-16T23:00:23.621000Z)
   - Mitchell was previously battling a hamstring injury, but he was able to play through it in Week 1 and is now off of the injury report entirely heading into Week 2. He should be a full go moving forward but won't have any real fantasy value on this offense for as long as Omarion Hampton remains healthy for the Chargers.
   - Source: https://www.fantasypros.com/nfl/news/608473/keaton-mitchell-hamstring-without-injury-designation-week-2.php
-- **NEW — Chris Godwin** — Chris Godwin Jr. is Proving to be Trustworthy (2026-09-16T22:55:23Z)
+- **Chris Godwin** — Chris Godwin Jr. is Proving to be Trustworthy (2026-09-16T22:55:23Z)
   - Source: https://www.rotoballer.com/player-news/chris-godwin-jr-is-proving-to-be-trustworthy/1933271
 - **Ashton Jeanty** — Ashton Jeanty (ankle) logs full practice Wednesday (2026-09-16T22:50:24.517000Z)
   - Jeanty seems to be entirely over his ankle injury at this point, as he played through it in Week 1 and now logs a full practice session to start the week on Wednesday. He should be a full go and high-quality fantasy option moving forward, assuming he suffers no setbacks with his recovery.
   - Source: https://www.fantasypros.com/nfl/news/608472/ashton-jeanty-ankle-logs-full-practice-wednesday.php
-- **NEW — Bucky Irving** — Bucky Irving is Rising After Strong Opener (2026-09-16T22:46:17Z)
+- **Bucky Irving** — Bucky Irving is Rising After Strong Opener (2026-09-16T22:46:17Z)
   - Source: https://www.rotoballer.com/player-news/bucky-irving-is-rising-after-strong-opener/1933265
 - **George Kittle** — George Kittle - Limited in Wednesday's practice (2026-09-16T22:40:53Z)
   - Kittle operated with a cap on his practice reps last week before returning to action just nine months removed from tearing his right Achilles in a wild-card win at Philadelphia. In the 49ers' Week 1 victory against the Rams in Melbourne, Australia, he started, played 30 of 65 offensive snaps and gathered in two of five targets for 12 yards. San Francisco may continue to take it easy on Kittle in the early going with the long term in mind, but his status for game days doesn't appear to be in any question.
@@ -70,12 +78,12 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Dalton Schultz** — Dalton Schultz (rest) misses practice Wednesday (2026-09-16T22:40:24.057000Z)
   - The veteran tight end was given Wednesday off as a veteran rest day to start the week. He is likely to be back at practice on Thursday and should play in Week 2, barring anything unforeseen between now and then. He remains a fringe streaming option at the tight end position at this point.
   - Source: https://www.fantasypros.com/nfl/news/608468/dalton-schultz-rest-misses-practice-wednesday.php
-- **NEW — Juwan Johnson** — Juwan Johnson is Absent on Wednesday (2026-09-16T22:32:02Z)
+- **Juwan Johnson** — Juwan Johnson is Absent on Wednesday (2026-09-16T22:32:02Z)
   - Source: https://www.rotoballer.com/player-news/juwan-johnson-is-absent-on-wednesday/1933254
 - **Joe Burrow** — Joe Burrow (back) officially limited Wednesday (2026-09-16T22:30:23.566000Z)
   - As expected, Burrow was listed as a limited participant on the team's first official injury report of the week on Wednesday. He's dealing with some back soreness right now and wasn't able to throw passes at practice as a result. He told reporters that he plans on playing in Week 2, but this is worth monitoring over the next few days, as Ja'Marr Chase, Tee Higgins, and Chase Brown will all have their projections affected if Burrow is sidelined or playing at less than 100% health against a tough Texans' defense this week.
   - Source: https://www.fantasypros.com/nfl/news/608466/joe-burrow-back-officially-limited-wednesday.php
-- **NEW — Tory Horton** — Tory Horton is a Full Participant During Wednesday's Practice (2026-09-16T22:22:12Z)
+- **Tory Horton** — Tory Horton is a Full Participant During Wednesday's Practice (2026-09-16T22:22:12Z)
   - Source: https://www.rotoballer.com/player-news/tory-horton-is-a-full-participant-during-wednesdays-practice/1933248
 - **Michael Pittman** — Michael Pittman Jr. (foot) officially limited Wednesday (2026-09-16T22:20:23.535000Z)
   - Pittman is a new addition to Pittsburgh's injury report, being listed with a foot issue that left him limited at the team's first practice of the week. In the off-chance that it affects his availability or workload for Week 2, fantasy managers should expect more work for Pat Freiermuth against the Patriots.
@@ -88,9 +96,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jakobi Meyers** — Jakobi Meyers (thumb) listed as limited Wednesday (2026-09-16T22:10:23.475000Z)
   - The veteran wideout was able to play through his thumb injury last week, but he's not fully over it and it left him limited at practice on Wednesday. He should play through it again this week but doesn't project to be a strong fantasy asset for the foreseeable future, unless Brian Thomas Jr. (shoulder) misses time for Jacksonville.
   - Source: https://www.fantasypros.com/nfl/news/608459/jakobi-meyers-thumb-listed-limited-wednesday.php
-- **NEW — Raheim Sanders** — Raheim Sanders to Take on Bigger Role (2026-09-16T22:00:06Z)
+- **Raheim Sanders** — Raheim Sanders to Take on Bigger Role (2026-09-16T22:00:06Z)
   - Source: https://www.rotoballer.com/player-news/raheim-sanders-to-take-on-bigger-role/1933230
-- **NEW — Cooper Kupp** — Cooper Kupp is Limited with Back Issue (2026-09-16T21:47:20Z)
+- **Cooper Kupp** — Cooper Kupp is Limited with Back Issue (2026-09-16T21:47:20Z)
   - Source: https://www.rotoballer.com/player-news/cooper-kupp-is-limited-with-back-issue/1933222
 - **Kyler Murray** — Kyler Murray (concussion) officially limited Wednesday (2026-09-16T21:45:23.512000Z)
   - As expected, Murray comes through as a limited participant on Minnesota's official injury report on Wednesday. He's on track to be cleared in time for Week 2 and will likely have a chance to play, although that is far from certain at this point. Carson Wentz will likely serve as the starter once again if Murray is sidelined against the Bears, which would be great news for Justin Jefferson.
@@ -245,10 +253,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Kyler Murray** — Kyler Murray (concussion) set to be limited Wednesday (2026-09-16T19:00:44.305000Z)
   - Murray suffered a concussion in Week 1 and is currently going through the NFL's concussion protocols. He seems to be progressing quite quickly, though, as he is set to take part in Wednesday's practice as a limited participant. It seems like he will have a real chance to suit up and play this week, which may be less than ideal for Justin Jefferson, who has found a lot of success in the instances where backup QB Carson Wentz has taken over for the Vikings.
   - Source: https://www.fantasypros.com/nfl/news/608368/kyler-murray-concussion-set-to-be-limited-wednesday.php
-- **Ja'Kobi Lane** — Ja'Kobi Lane (wrist) placed on IR (2026-09-16T19:00:44.291000Z)
-  - Lane underwent wrist surgery on Tuesday, and the team is hopeful that he won't miss much more than the required four games for an IL stint. In his absence, Rashod Bateman could be in for more targets, along with Devontez Walker and Elijah Sarratt.
-  - Source: https://www.fantasypros.com/nfl/news/608369/jakobi-lane-wrist-placed-on-ir.php
-- **Kyler Murray** — Kyler Murray - Will be limited Wednesday (2026-09-16T18:59:55Z)
-  - Murray lasted 11 offensive snaps before suffering a concussion this past Sunday against the Packers when he was sandwiched between two defenders. Carson Wentz came on in relief of Murray and helped lead the Vikings to a 39-22 victory. O'Connell told Alec Lewis of The Athletic on Monday that Murray would be evaluated day by day as the team prepares for Sunday's road matchup with the Bears, but if the quarterback doesn't make the requisite progress and gain clearance from an independent neurologist, Wentz again will be under center for Minnesota.
-- **George Kittle** — George Kittle Limited in Practice on Wednesday (2026-09-16T18:58:11Z)
-  - Source: https://www.rotoballer.com/player-news/george-kittle-limited-in-practice-on-wednesday/1933109
