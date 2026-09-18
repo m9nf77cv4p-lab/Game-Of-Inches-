@@ -1,12 +1,16 @@
 {
-  "last_checked_at": "2026-09-18T09:53:48Z",
+  "last_checked_at": "2026-09-18T14:02:53Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 288,
   "new_story_ids": [
-    "nfl|12497|fantasy_pros|608770|1789711236449",
-    "nfl|3163|rotoballer|221346|1789697833000",
-    "nfl|4039|fantasy_pros|608773|1789711236423",
-    "nfl|4984|rotoballer|221345|1789698127000"
+    "nfl|10236|rotoballer|221350|1789724345000",
+    "nfl|4983|fantasy_pros|608797|1789732545837",
+    "nfl|4983|rotoballer|221347|1789722676000",
+    "nfl|4983|rotowire|637867|1789734406000",
+    "nfl|4984|fantasy_pros|608798|1789740046404",
+    "nfl|7547|rotoballer|221349|1789723507000",
+    "nfl|8138|rotoballer|221351|1789724887000",
+    "nfl|8148|rotoballer|221348|1789723086000"
   ],
   "schema_version": 1,
   "source": {
@@ -16,6 +20,168 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Allen had an insane showing on Thursday night. He totaled over 300 yards and scored five total touchdowns en route to a big win over the Lions in primetime, all while protecting the ball and committing zero turnovers. He has been absolutely dominant through the first two games of the season and is pacing to be one of, if not the most valuable individual player that anyone can roster at this point.",
+      "description": "Josh Allen completed 20-of-31 passing attempts for 248 yards and three touchdowns while adding 69 yards and two touchdowns on the ground in Sunday night's 41-31 win over the Detroit Lions.",
+      "metadata": {
+        "analysis": "Allen had an insane showing on Thursday night. He totaled over 300 yards and scored five total touchdowns en route to a big win over the Lions in primetime, all while protecting the ball and committing zero turnovers. He has been absolutely dominant through the first two games of the season and is pacing to be one of, if not the most valuable individual player that anyone can roster at this point.",
+        "description": "Josh Allen completed 20-of-31 passing attempts for 248 yards and three touchdowns while adding 69 yards and two touchdowns on the ground in Sunday night's 41-31 win over the Detroit Lions.",
+        "title": "Josh Allen scores five touchdowns in dominant showing Thursday",
+        "topic_id": "1406675345356181504",
+        "url": "https://www.fantasypros.com/nfl/news/608798/josh-allen-scores-five-touchdowns-dominant-showing-thursday.php"
+      },
+      "nfl_team": "BUF",
+      "player_id": "4984",
+      "player_name": "Josh Allen",
+      "position": "QB",
+      "published": 1789740046404,
+      "source": "fantasy_pros",
+      "source_key": "608798",
+      "story_id": "nfl|4984|fantasy_pros|608798|1789740046404",
+      "title": "Josh Allen scores five touchdowns in dominant showing Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/608798/josh-allen-scores-five-touchdowns-dominant-showing-thursday.php"
+    },
+    {
+      "analysis": "Head coach Joe Brady did not provide a postgame update on Moore after he left Thursday's contest in the second quarter, but more details are now available, and it appears Moore is not facing any sort of extended absence. He will have over a week to rest and recover before the Bills square off against the Chargers, and if he's unable to go by then that will mean more snaps for Khalil Shakir, Keon Coleman and Joshua Palmer.",
+      "description": "Moore (shoulder) is believed to have sustained an AC joint sprain in Thursday's victory over the Lions, and although \"it's not a serious injury\" he is uncertain for Week 3., Ian Rapoport of NFL Network reports.",
+      "metadata": {
+        "analysis": "Head coach Joe Brady did not provide a postgame update on Moore after he left Thursday's contest in the second quarter, but more details are now available, and it appears Moore is not facing any sort of extended absence. He will have over a week to rest and recover before the Bills square off against the Chargers, and if he's unable to go by then that will mean more snaps for Khalil Shakir, Keon Coleman and Joshua Palmer.",
+        "description": "Moore (shoulder) is believed to have sustained an AC joint sprain in Thursday's victory over the Lions, and although \"it's not a serious injury\" he is uncertain for Week 3., Ian Rapoport of NFL Network reports.",
+        "title": "DJ Moore - Setback not considered serious",
+        "topic_id": "1406652688954912768"
+      },
+      "nfl_team": "BUF",
+      "player_id": "4983",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "published": 1789734406000,
+      "source": "rotowire",
+      "source_key": "637867",
+      "story_id": "nfl|4983|rotowire|637867|1789734406000",
+      "title": "DJ Moore - Setback not considered serious",
+      "url": null
+    },
+    {
+      "analysis": "Moore was injured while trying to catch a pass in the endzone, falling hard on his shoulder as a defensive back rolled over top of him. At first the injury looked serious, but he was able to sit up and walk off the field under his own power. More than likely Moore will miss at least a week, but if there's any silver lining, the Bills get a mini-bye here thanks to the Thursday night game. Once he returns he will go back to being a featured target in the Bills passing attack. But if he misses time, Dalton Kincaid and Khalil Shakir will be the primary targets for Josh Allen, but don't sleep on Keon Coleman, who saw some sneaky good usage once, and even before, Moore was knocked out.",
+      "description": "DJ Moore (shoulder) has been diagnosed with an AC joint sprain and his status is day-to-day. A source said \"He has a chance to play next week, but it's not a lock.\"",
+      "metadata": {
+        "analysis": "Moore was injured while trying to catch a pass in the endzone, falling hard on his shoulder as a defensive back rolled over top of him. At first the injury looked serious, but he was able to sit up and walk off the field under his own power. More than likely Moore will miss at least a week, but if there's any silver lining, the Bills get a mini-bye here thanks to the Thursday night game. Once he returns he will go back to being a featured target in the Bills passing attack. But if he misses time, Dalton Kincaid and Khalil Shakir will be the primary targets for Josh Allen, but don't sleep on Keon Coleman, who saw some sneaky good usage once, and even before, Moore was knocked out.",
+        "description": "DJ Moore (shoulder) has been diagnosed with an AC joint sprain and his status is day-to-day. A source said \"He has a chance to play next week, but it's not a lock.\"",
+        "title": "DJ Moore (shoulder) diagnosed with AC joint sprain, status day-to-day",
+        "topic_id": "1406643885697945600",
+        "url": "https://www.fantasypros.com/nfl/news/608797/dj-moore-shoulder-diagnosed-with-ac-joint-sprain-status-day-to-day.php"
+      },
+      "nfl_team": "BUF",
+      "player_id": "4983",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "published": 1789732545837,
+      "source": "fantasy_pros",
+      "source_key": "608797",
+      "story_id": "nfl|4983|fantasy_pros|608797|1789732545837",
+      "title": "DJ Moore (shoulder) diagnosed with AC joint sprain, status day-to-day",
+      "url": "https://www.fantasypros.com/nfl/news/608797/dj-moore-shoulder-diagnosed-with-ac-joint-sprain-status-day-to-day.php"
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills running back James Cook III put up a huge game in his team's 41-31 Week 2 win over the Detroit Lions, recording 21 carries for 135 yards and a touchdown. It was a nice bounce-back performance for the 26-year-old, who was held to 69 yards from scrimmage on 16 touches by the Houston Texans in Buffalo's season-opener. Cook III's fantasy production is impacted by the presence of Bills quarterback Josh Allen, who had two rushing touchdowns against Detroit and continues to be Buffalo's preferred option in short-yardage situations. Still, Cook III was the only Bills running back to receive a carry in Week 2, even in a game that his team largely controlled for 60 minutes. Buffalo's offense also looks like one of the best units in football so far, which should give Cook III plenty of chances to score touchdowns. Entering the Bills' Week 3 matchup against the Los Angeles Chargers, Cook III remains a clear fantasy RB1.",
+      "metadata": {
+        "description": "Buffalo Bills running back James Cook III put up a huge game in his team's 41-31 Week 2 win over the Detroit Lions, recording 21 carries for 135 yards and a touchdown. It was a nice bounce-back performance for the 26-year-old, who was held to 69 yards from scrimmage on 16 touches by the Houston Texans in Buffalo's season-opener. Cook III's fantasy production is impacted by the presence of Bills quarterback Josh Allen, who had two rushing touchdowns against Detroit and continues to be Buffalo's preferred option in short-yardage situations. Still, Cook III was the only Bills running back to receive a carry in Week 2, even in a game that his team largely controlled for 60 minutes. Buffalo's offense also looks like one of the best units in football so far, which should give Cook III plenty of chances to score touchdowns. Entering the Bills' Week 3 matchup against the Los Angeles Chargers, Cook III remains a clear fantasy RB1.",
+        "title": "James Cook III Bounces Back with Dominant Week 2 Performance",
+        "topic_id": "1406674079917813760",
+        "url": "https://www.rotoballer.com/player-news/james-cook-iii-bounces-back-with-dominant-week-2-performance/1934294"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8138",
+      "player_name": "James Cook",
+      "position": "RB",
+      "published": 1789724887000,
+      "source": "rotoballer",
+      "source_key": "221351",
+      "story_id": "nfl|8138|rotoballer|221351|1789724887000",
+      "title": "James Cook III Bounces Back with Dominant Week 2 Performance",
+      "url": "https://www.rotoballer.com/player-news/james-cook-iii-bounces-back-with-dominant-week-2-performance/1934294"
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills tight end Dalton Kincaid turned in a dominant performance in his team's 41-31 Week 2 win over the Detroit Lions, recording seven catches for 95 yards and a touchdown on eight targets. The 26-year-old is off to an excellent start to the 2026 season, hauling in 12 catches for 225 yards and a score on 14 targets across his team's first two games. While Kincaid was highly efficient as a receiver in 2025, he saw just 49 targets across 12 games. He missed five games due to injury, and the Bills limited his workload even in the weeks when he was active. Kincaid appears to be fully healthy in 2026, and he's played at least 66% of Buffalo's offensive snaps in both Week 1 and Week 2. With top Bills wide receiver DJ Moore (shoulder) now battling an AC joint sprain that could cause him to miss time, Kincaid's usage could grow even further in Buffalo's Week 3 matchup against the Los Angeles Chargers. As long as he remains healthy, Kincaid profiles as a must-start tight end for fantasy managers.",
+      "metadata": {
+        "description": "Buffalo Bills tight end Dalton Kincaid turned in a dominant performance in his team's 41-31 Week 2 win over the Detroit Lions, recording seven catches for 95 yards and a touchdown on eight targets. The 26-year-old is off to an excellent start to the 2026 season, hauling in 12 catches for 225 yards and a score on 14 targets across his team's first two games. While Kincaid was highly efficient as a receiver in 2025, he saw just 49 targets across 12 games. He missed five games due to injury, and the Bills limited his workload even in the weeks when he was active. Kincaid appears to be fully healthy in 2026, and he's played at least 66% of Buffalo's offensive snaps in both Week 1 and Week 2. With top Bills wide receiver DJ Moore (shoulder) now battling an AC joint sprain that could cause him to miss time, Kincaid's usage could grow even further in Buffalo's Week 3 matchup against the Los Angeles Chargers. As long as he remains healthy, Kincaid profiles as a must-start tight end for fantasy managers.",
+        "title": "Dalton Kincaid Leads Bills in Targets, Receptions, and Receiving Yards",
+        "topic_id": "1406671562953777152",
+        "url": "https://www.rotoballer.com/player-news/dalton-kincaid-leads-bills-in-targets-receptions-and-receiving-yards-in-week-2/1934272"
+      },
+      "nfl_team": "BUF",
+      "player_id": "10236",
+      "player_name": "Dalton Kincaid",
+      "position": "TE",
+      "published": 1789724345000,
+      "source": "rotoballer",
+      "source_key": "221350",
+      "story_id": "nfl|10236|rotoballer|221350|1789724345000",
+      "title": "Dalton Kincaid Leads Bills in Targets, Receptions, and Receiving Yards",
+      "url": "https://www.rotoballer.com/player-news/dalton-kincaid-leads-bills-in-targets-receptions-and-receiving-yards-in-week-2/1934272"
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions wide receiver Amon-Ra St. Brown was one of the lone bright spots in his team's 41-31 Week 2 loss to the Buffalo Bills, recording nine catches for 142 yards and two touchdowns on 13 targets. St. Brown has gotten off to a fantastic start to the season, hauling in 19 receptions for 209 yards and four touchdowns on 27 targets across Detroit's first two games. The 26-year-old has been a highly reliable wide receiver for fantasy managers for a number of years now, posting three consecutive seasons with at least 115 catches, 1,250 receiving yards, and 10 touchdowns coming into 2026. Still, he could be poised for a career season from a production perspective if the Lions' defense continues to struggle as mightily as it has through the first two weeks. Heading into Detroit's Week 3 matchup against the New York Jets, St. Brown profiles as a high-end fantasy WR1.",
+      "metadata": {
+        "description": "Detroit Lions wide receiver Amon-Ra St. Brown was one of the lone bright spots in his team's 41-31 Week 2 loss to the Buffalo Bills, recording nine catches for 142 yards and two touchdowns on 13 targets. St. Brown has gotten off to a fantastic start to the season, hauling in 19 receptions for 209 yards and four touchdowns on 27 targets across Detroit's first two games. The 26-year-old has been a highly reliable wide receiver for fantasy managers for a number of years now, posting three consecutive seasons with at least 115 catches, 1,250 receiving yards, and 10 touchdowns coming into 2026. Still, he could be poised for a career season from a production perspective if the Lions' defense continues to struggle as mightily as it has through the first two weeks. Heading into Detroit's Week 3 matchup against the New York Jets, St. Brown profiles as a high-end fantasy WR1.",
+        "title": "Amon-Ra St. Brown Posts Another Monster Game in Week 2",
+        "topic_id": "1406667789393006592",
+        "url": "https://www.rotoballer.com/player-news/amon-ra-st-brown-posts-another-monster-game-in-week-2/1934256"
+      },
+      "nfl_team": "DET",
+      "player_id": "7547",
+      "player_name": "Amon-Ra St. Brown",
+      "position": "WR",
+      "published": 1789723507000,
+      "source": "rotoballer",
+      "source_key": "221349",
+      "story_id": "nfl|7547|rotoballer|221349|1789723507000",
+      "title": "Amon-Ra St. Brown Posts Another Monster Game in Week 2",
+      "url": "https://www.rotoballer.com/player-news/amon-ra-st-brown-posts-another-monster-game-in-week-2/1934256"
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions wide receiver Jameson Williams was held in check in his team's 41-31 loss to the Buffalo Bills on Thursday night, recording two catches for 33 yards on four targets. It's been an underwhelming start to the season for Williams, who has now logged six receptions for 78 yards on 13 targets across Detroit's first two games of the season. Against Buffalo, Williams finished fifth on the Lions in targets behind wide receivers Amon-Ra St. Brown and Isaac TeSlaa, tight end Sam LaPorta, and running back Jahmyr Gibbs. While Williams has shown he can provide explosive fantasy production on a limited number of touches in the past, the 25-year-old also has a long history of providing fantasy managers with bust weeks when Detroit has its full complement of pass-catchers healthy. Heading into the Lions' Week 3 matchup against the New York Jets, it will be difficult for fantasy managers to trust Williams as anything more than a high-ceiling, low-floor WR3/flex option.",
+      "metadata": {
+        "description": "Detroit Lions wide receiver Jameson Williams was held in check in his team's 41-31 loss to the Buffalo Bills on Thursday night, recording two catches for 33 yards on four targets. It's been an underwhelming start to the season for Williams, who has now logged six receptions for 78 yards on 13 targets across Detroit's first two games of the season. Against Buffalo, Williams finished fifth on the Lions in targets behind wide receivers Amon-Ra St. Brown and Isaac TeSlaa, tight end Sam LaPorta, and running back Jahmyr Gibbs. While Williams has shown he can provide explosive fantasy production on a limited number of touches in the past, the 25-year-old also has a long history of providing fantasy managers with bust weeks when Detroit has its full complement of pass-catchers healthy. Heading into the Lions' Week 3 matchup against the New York Jets, it will be difficult for fantasy managers to trust Williams as anything more than a high-ceiling, low-floor WR3/flex option.",
+        "title": "Jameson Williams Difficult to Trust After Underwhelming Week 2",
+        "topic_id": "1406666530237747200",
+        "url": "https://www.rotoballer.com/player-news/jameson-williams-difficult-to-trust-after-underwhelming-week-2-performance/1934248"
+      },
+      "nfl_team": "DET",
+      "player_id": "8148",
+      "player_name": "Jameson Williams",
+      "position": "WR",
+      "published": 1789723086000,
+      "source": "rotoballer",
+      "source_key": "221348",
+      "story_id": "nfl|8148|rotoballer|221348|1789723086000",
+      "title": "Jameson Williams Difficult to Trust After Underwhelming Week 2",
+      "url": "https://www.rotoballer.com/player-news/jameson-williams-difficult-to-trust-after-underwhelming-week-2-performance/1934248"
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills wide receiver DJ Moore (shoulder) is \"believed to have suffered an AC joint sprain\" in his left shoulder, and his status for Week 3 is \"up in the air,\" per Ian Rapoport and Adam Schefter of ESPN. Moore was forced to exit early from his team's Week 2 win over the Detroit Lions, which led to him finishing the game without a reception. The 29-year-old was heavily featured in Buffalo's season-opening win over the Houston Texans, recording five catches for 100 yards and a touchdown on eight targets. Moore has typically been an iron man in his career, playing in all 17 games in five consecutive seasons entering 2026. If he is unable to play in Week 3 against the Los Angeles Chargers, Bills wideout Keon Coleman would likely see a significant increase in playing time and target share.",
+      "metadata": {
+        "description": "Buffalo Bills wide receiver DJ Moore (shoulder) is \"believed to have suffered an AC joint sprain\" in his left shoulder, and his status for Week 3 is \"up in the air,\" per Ian Rapoport and Adam Schefter of ESPN. Moore was forced to exit early from his team's Week 2 win over the Detroit Lions, which led to him finishing the game without a reception. The 29-year-old was heavily featured in Buffalo's season-opening win over the Houston Texans, recording five catches for 100 yards and a touchdown on eight targets. Moore has typically been an iron man in his career, playing in all 17 games in five consecutive seasons entering 2026. If he is unable to play in Week 3 against the Los Angeles Chargers, Bills wideout Keon Coleman would likely see a significant increase in playing time and target share.",
+        "title": "DJ Moore Battling AC Joint Sprain, Week 3 Status in Question",
+        "topic_id": "1406665271162232832",
+        "url": "https://www.rotoballer.com/player-news/dj-moore-battling-ac-joint-sprain-week-3-status-in-question/1934237"
+      },
+      "nfl_team": "BUF",
+      "player_id": "4983",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "published": 1789722676000,
+      "source": "rotoballer",
+      "source_key": "221347",
+      "story_id": "nfl|4983|rotoballer|221347|1789722676000",
+      "title": "DJ Moore Battling AC Joint Sprain, Week 3 Status in Question",
+      "url": "https://www.rotoballer.com/player-news/dj-moore-battling-ac-joint-sprain-week-3-status-in-question/1934237"
+    },
     {
       "analysis": "Horton has logged back-to-back full practices. He remains on track to make his season debut on Sunday. ",
       "description": "Tory Horton remained a full participant in practice on Thursday. ",
@@ -280,9 +446,9 @@
     },
     {
       "analysis": null,
-      "description": "Buffalo Bills quarterback Josh Allen completed 20 of his 31 pass attempts for 248 passing yards, three passing touchdowns, and zero interceptions during Thursday's Week 2 win over the Detroit Lions. He also tallied 69 rushing yards and two rushing touchdowns while taking just two sacks. Allen was (unsurprisingly) the focal point of the Bills' game plan on Thursday, and even when Buffalo tried to keep the ball on the ground, Allen was often responsible for the rushing attempt. So far, it's been tough for running back James Cook III's fantasy managers to get ecstatic about drafting him, but obviously Allen's fantasy managers are thrilled. The star quarterback will remain firmly entrenched as a mid-to-high RB1 in the fantasy rankings for Week 3 against the Los Angeles Chargers.",
+      "description": "Buffalo Bills quarterback Josh Allen completed 20 of his 31 pass attempts for 248 passing yards, three passing touchdowns, and zero interceptions during Thursday's Week 2 win over the Detroit Lions. He also tallied 69 rushing yards and two rushing touchdowns while taking just two sacks. Allen was (unsurprisingly) the focal point of the Bills' game plan on Thursday, and even when Buffalo tried to keep the ball on the ground, Allen was often responsible for the rushing attempt. So far, it's been tough for running back James Cook III's fantasy managers to get ecstatic about drafting him, but obviously Allen's fantasy managers are thrilled. The star quarterback will remain firmly entrenched as a mid-to-high QB1 in the fantasy rankings for Week 3 against the Los Angeles Chargers.",
       "metadata": {
-        "description": "Buffalo Bills quarterback Josh Allen completed 20 of his 31 pass attempts for 248 passing yards, three passing touchdowns, and zero interceptions during Thursday's Week 2 win over the Detroit Lions. He also tallied 69 rushing yards and two rushing touchdowns while taking just two sacks. Allen was (unsurprisingly) the focal point of the Bills' game plan on Thursday, and even when Buffalo tried to keep the ball on the ground, Allen was often responsible for the rushing attempt. So far, it's been tough for running back James Cook III's fantasy managers to get ecstatic about drafting him, but obviously Allen's fantasy managers are thrilled. The star quarterback will remain firmly entrenched as a mid-to-high RB1 in the fantasy rankings for Week 3 against the Los Angeles Chargers.",
+        "description": "Buffalo Bills quarterback Josh Allen completed 20 of his 31 pass attempts for 248 passing yards, three passing touchdowns, and zero interceptions during Thursday's Week 2 win over the Detroit Lions. He also tallied 69 rushing yards and two rushing touchdowns while taking just two sacks. Allen was (unsurprisingly) the focal point of the Bills' game plan on Thursday, and even when Buffalo tried to keep the ball on the ground, Allen was often responsible for the rushing attempt. So far, it's been tough for running back James Cook III's fantasy managers to get ecstatic about drafting him, but obviously Allen's fantasy managers are thrilled. The star quarterback will remain firmly entrenched as a mid-to-high QB1 in the fantasy rankings for Week 3 against the Los Angeles Chargers.",
         "title": "Josh Allen Enjoys a Five-Touchdown Performance on Primetime Television",
         "topic_id": "1406560792618266624",
         "url": "https://www.rotoballer.com/player-news/josh-allen-enjoys-a-five-touchdown-performance-on-primetime-television/1934097"
@@ -75293,187 +75459,6 @@
       "story_id": "nfl|5846|rotoballer|218940|1787148248000",
       "title": "DK Metcalf Says He'll Be Fine for Week 1",
       "url": "https://www.rotoballer.com/player-news/dk-metcalf-says-hes-fine-despite-undisclosed-injury/1912018"
-    },
-    {
-      "analysis": "Per Adam Schefter of ESPN, Kamara is expected to be sidelined for at least a month due to the knee injury, putting his availability for the Sept. 13 season opener in Detroit in jeopardy. The Saints had been listing Etienne and Kamara as co-starters on their unofficial depth chart, though Etienne always looked like the better bet to handle the brunt of the snaps on early downs after joining New Orleans on a four-year, $52 million deal in the offseason. With Kamara potentially set to miss time to begin the season or likely to be limited even if he's cleared for Week 1, Etienne could also be in store for an expanded role on passing downs until Kamara is closer to 100 percent health. The Kamara injury may also clear the way for a reserve running back such as Audric Estime (ankle), Devin Neal (hamstring) or Kendre Miller (back) to carve out a role behind Etienne, though those three players have also been banged up during training camp.",
-      "description": "Etienne could be in store for a heavier workload to begin the season after teammate Alvin Kamara (knee) sustained an MCL sprain during Tuesday's joint practice with the Cowboys, Jeff Duncan of The Athletic reports.",
-      "metadata": {
-        "analysis": "Per Adam Schefter of ESPN, Kamara is expected to be sidelined for at least a month due to the knee injury, putting his availability for the Sept. 13 season opener in Detroit in jeopardy. The Saints had been listing Etienne and Kamara as co-starters on their unofficial depth chart, though Etienne always looked like the better bet to handle the brunt of the snaps on early downs after joining New Orleans on a four-year, $52 million deal in the offseason. With Kamara potentially set to miss time to begin the season or likely to be limited even if he's cleared for Week 1, Etienne could also be in store for an expanded role on passing downs until Kamara is closer to 100 percent health. The Kamara injury may also clear the way for a reserve running back such as Audric Estime (ankle), Devin Neal (hamstring) or Kendre Miller (back) to carve out a role behind Etienne, though those three players have also been banged up during training camp.",
-        "description": "Etienne could be in store for a heavier workload to begin the season after teammate Alvin Kamara (knee) sustained an MCL sprain during Tuesday's joint practice with the Cowboys, Jeff Duncan of The Athletic reports.",
-        "title": "Travis Etienne - Could see larger role with Kamara sidelined",
-        "topic_id": "1395803747875028992"
-      },
-      "nfl_team": "NO",
-      "player_id": "7543",
-      "player_name": "Travis Etienne",
-      "position": "RB",
-      "published": 1787147641000,
-      "source": "rotowire",
-      "source_key": "634141",
-      "story_id": "nfl|7543|rotowire|634141|1787147641000",
-      "title": "Travis Etienne - Could see larger role with Kamara sidelined",
-      "url": null
-    },
-    {
-      "analysis": "The injury puts Kamara's availability in jeopardy for the Saints' Week 1 game in Detroit on Sept. 13 and may also make him a candidate to open the season on injured reserve, which would keep him out for at least New Orleans' first four contests. The Saints will likely wait and see how Kamara progresses in his recovery over the next few weeks before a clearer target for his return to practice and eventually game action comes into focus. In the event that Kamara is out to begin the season, free-agent pickup Travis Etienne would likely take on a larger share of the rushing and pass-catching volume out of the backfield, while backups such as Devin Neal (hamstring), Kendre Miller (back) or Audric Estime (ankle) could also be sprinkled into the game plan a bit more.",
-      "description": "Kamara (knee) is expected to be out for at least one month after sustaining an MCL sprain during Tuesday's joint practice with the Cowboys, Adam Schefter of ESPN reports.",
-      "metadata": {
-        "analysis": "The injury puts Kamara's availability in jeopardy for the Saints' Week 1 game in Detroit on Sept. 13 and may also make him a candidate to open the season on injured reserve, which would keep him out for at least New Orleans' first four contests. The Saints will likely wait and see how Kamara progresses in his recovery over the next few weeks before a clearer target for his return to practice and eventually game action comes into focus. In the event that Kamara is out to begin the season, free-agent pickup Travis Etienne would likely take on a larger share of the rushing and pass-catching volume out of the backfield, while backups such as Devin Neal (hamstring), Kendre Miller (back) or Audric Estime (ankle) could also be sprinkled into the game plan a bit more.",
-        "description": "Kamara (knee) is expected to be out for at least one month after sustaining an MCL sprain during Tuesday's joint practice with the Cowboys, Adam Schefter of ESPN reports.",
-        "title": "Alvin Kamara - Out for at least one month with MCL sprain",
-        "topic_id": "1395799973471199232"
-      },
-      "nfl_team": "NO",
-      "player_id": "4035",
-      "player_name": "Alvin Kamara",
-      "position": "RB",
-      "published": 1787146901000,
-      "source": "rotowire",
-      "source_key": "634140",
-      "story_id": "nfl|4035|rotowire|634140|1787146901000",
-      "title": "Alvin Kamara - Out for at least one month with MCL sprain",
-      "url": null
-    },
-    {
-      "analysis": "Kamara left Tuesday's practice with a knee injury, and now that the diagnosis has come in, expect him to start off the season slow. He'll likely have a ramp up period once he returns. While he is out, Devin Neal and Kendre Miller will fight for the primary backup spot behind Travis Etienne.",
-      "description": "Alvin Kamara (knee) is expected to be sidelined at least a month with a sprained MCL.",
-      "metadata": {
-        "analysis": "Kamara left Tuesday's practice with a knee injury, and now that the diagnosis has come in, expect him to start off the season slow. He'll likely have a ramp up period once he returns. While he is out, Devin Neal and Kendre Miller will fight for the primary backup spot behind Travis Etienne.",
-        "description": "Alvin Kamara (knee) is expected to be sidelined at least a month with a sprained MCL.",
-        "title": "Alvin Kamara (knee) sidelined a month with sprained MCL",
-        "topic_id": "1395797460651114496",
-        "url": "https://www.fantasypros.com/nfl/news/603242/alvin-kamara-knee-sidelined-month-with-sprained-mcl.php"
-      },
-      "nfl_team": "NO",
-      "player_id": "4035",
-      "player_name": "Alvin Kamara",
-      "position": "RB",
-      "published": 1787146556589,
-      "source": "fantasy_pros",
-      "source_key": "603242",
-      "story_id": "nfl|4035|fantasy_pros|603242|1787146556589",
-      "title": "Alvin Kamara (knee) sidelined a month with sprained MCL",
-      "url": "https://www.fantasypros.com/nfl/news/603242/alvin-kamara-knee-sidelined-month-with-sprained-mcl.php"
-    },
-    {
-      "analysis": null,
-      "description": "San Francisco 49ers rookie running back Kaelon Black \"looked powerful\" in his return during Tuesday's joint practice against the Los Angeles Chargers, according to Matt Barrows of The Athletic. Black missed the previous two weeks of camp with an inner-thigh injury, but he was the team's top runner on Tuesday with Christian McCaffrey still sitting due to undisclosed tightness. Black, a third-rounder, did not look rusty at all, taking an early carry for 50 yards while showing violence and strength on several runs. He also had a catch at the goal line during a red-zone drill. \"I thought he looked good hitting the hole and running hard,\" quarterback Brock Purdy said. The Niners cut RB Khalil Herbert on Monday, and Jordan James (rib) and Isaac Guerendo (pectoral) are injured. Going into camp, James was the favorite for RB2 duties behind the oft-injured McCaffrey, but if Black continues to impress and James continues to sit out with his injury, it could be Black winning the RB2 role going into Week 1 in Australia against the division-rival Los Angeles Rams.",
-      "metadata": {
-        "description": "San Francisco 49ers rookie running back Kaelon Black \"looked powerful\" in his return during Tuesday's joint practice against the Los Angeles Chargers, according to Matt Barrows of The Athletic. Black missed the previous two weeks of camp with an inner-thigh injury, but he was the team's top runner on Tuesday with Christian McCaffrey still sitting due to undisclosed tightness. Black, a third-rounder, did not look rusty at all, taking an early carry for 50 yards while showing violence and strength on several runs. He also had a catch at the goal line during a red-zone drill. \"I thought he looked good hitting the hole and running hard,\" quarterback Brock Purdy said. The Niners cut RB Khalil Herbert on Monday, and Jordan James (rib) and Isaac Guerendo (pectoral) are injured. Going into camp, James was the favorite for RB2 duties behind the oft-injured McCaffrey, but if Black continues to impress and James continues to sit out with his injury, it could be Black winning the RB2 role going into Week 1 in Australia against the division-rival Los Angeles Rams.",
-        "title": "Kaelon Black Looks Powerful in Return to Practice",
-        "topic_id": "1395841499849052160",
-        "url": "https://www.rotoballer.com/player-news/kaelon-black-looks-powerful-in-return-to-practice/1911961"
-      },
-      "nfl_team": "SF",
-      "player_id": "13414",
-      "player_name": "Kaelon Black",
-      "position": "RB",
-      "published": 1787142247000,
-      "source": "rotoballer",
-      "source_key": "218933",
-      "story_id": "nfl|13414|rotoballer|218933|1787142247000",
-      "title": "Kaelon Black Looks Powerful in Return to Practice",
-      "url": "https://www.rotoballer.com/player-news/kaelon-black-looks-powerful-in-return-to-practice/1911961"
-    },
-    {
-      "analysis": null,
-      "description": "Tennessee Titans running back Tony Pollard (foot) is back at training camp practice on Wednesday, according to Turron Davenport of ESPN. Pollard missed the last two practices with what ended up being a minor foot injury. In the preseason opener last Thursday against the San Francisco 49ers, Pollard carried the ball four times for 22 yards and a touchdown. It remains to be seen if the Titans will have him out there for the second preseason game this Sunday against the Seattle Seahawks. The 29-year-old former fourth-rounder by the Dallas Cowboys out of Memphis has been efficient in his career with 4.6 yards per carry and has quietly recorded four straight 1,000-yard seasons (two with Tennessee and two with Dallas). The Titans' offense could be much better this year than the last two years, but the problem is that backup Tyjae Spears could steal valuable pass-game targets in Brian Daboll's offense. For that reason, Pollard should be targeted as more of an RB3/flex than an RB2 in upcoming 2026 fantasy drafts.",
-      "metadata": {
-        "description": "Tennessee Titans running back Tony Pollard (foot) is back at training camp practice on Wednesday, according to Turron Davenport of ESPN. Pollard missed the last two practices with what ended up being a minor foot injury. In the preseason opener last Thursday against the San Francisco 49ers, Pollard carried the ball four times for 22 yards and a touchdown. It remains to be seen if the Titans will have him out there for the second preseason game this Sunday against the Seattle Seahawks. The 29-year-old former fourth-rounder by the Dallas Cowboys out of Memphis has been efficient in his career with 4.6 yards per carry and has quietly recorded four straight 1,000-yard seasons (two with Tennessee and two with Dallas). The Titans' offense could be much better this year than the last two years, but the problem is that backup Tyjae Spears could steal valuable pass-game targets in Brian Daboll's offense. For that reason, Pollard should be targeted as more of an RB3/flex than an RB2 in upcoming 2026 fantasy drafts.",
-        "title": "Tony Pollard Back at Practice on Wednesday",
-        "topic_id": "1395836465434341376",
-        "url": "https://www.rotoballer.com/player-news/tony-pollard-back-at-practice-on-wednesday/1911944"
-      },
-      "nfl_team": "TEN",
-      "player_id": "5967",
-      "player_name": "Tony Pollard",
-      "position": "RB",
-      "published": 1787140868000,
-      "source": "rotoballer",
-      "source_key": "218931",
-      "story_id": "nfl|5967|rotoballer|218931|1787140868000",
-      "title": "Tony Pollard Back at Practice on Wednesday",
-      "url": "https://www.rotoballer.com/player-news/tony-pollard-back-at-practice-on-wednesday/1911944"
-    },
-    {
-      "analysis": null,
-      "description": "Pittsburgh Steelers head coach Mike McCarthy said that veteran quarterback Aaron Rodgers and backup Mason Rudolph will not play in the team's preseason contest against the New York Jets on Friday, according to Chris Adamski of the Pittsburgh Tribune-Review. McCarthy added that Will Howard and rookie Drew Allar will play. \"I saw what I need to see from Mason last week,\" McCarthy said. Rodgers also sat out the preseason opener against the Green Bay Packers last week, with Rudolph getting some run before Howard and Allar entered the game. The 42-year-old Rodgers has had enough reps in his Hall of Fame career and will be ready to go for Week 1 of the regular season without any preseason action. In what is expected to be the 22nd and final year of his career, Rodgers will be a low-end QB2 with limited upside in fantasy in an offense that is expected to remain pretty run-heavy under McCarthy. In his first year in Pittsburgh in 2025, Rodgers led the team to the postseason but finished as the QB19, throwing for 3,322 yards, 24 touchdowns, and seven interceptions in 16 regular-season starts.",
-      "metadata": {
-        "description": "Pittsburgh Steelers head coach Mike McCarthy said that veteran quarterback Aaron Rodgers and backup Mason Rudolph will not play in the team's preseason contest against the New York Jets on Friday, according to Chris Adamski of the Pittsburgh Tribune-Review. McCarthy added that Will Howard and rookie Drew Allar will play. \"I saw what I need to see from Mason last week,\" McCarthy said. Rodgers also sat out the preseason opener against the Green Bay Packers last week, with Rudolph getting some run before Howard and Allar entered the game. The 42-year-old Rodgers has had enough reps in his Hall of Fame career and will be ready to go for Week 1 of the regular season without any preseason action. In what is expected to be the 22nd and final year of his career, Rodgers will be a low-end QB2 with limited upside in fantasy in an offense that is expected to remain pretty run-heavy under McCarthy. In his first year in Pittsburgh in 2025, Rodgers led the team to the postseason but finished as the QB19, throwing for 3,322 yards, 24 touchdowns, and seven interceptions in 16 regular-season starts.",
-        "title": "Aaron Rodgers Won't Play in Second Preseason Game",
-        "topic_id": "1395832690363617280",
-        "url": "https://www.rotoballer.com/player-news/aaron-rodgers-wont-play-in-second-preseason-game/1911917"
-      },
-      "nfl_team": "PIT",
-      "player_id": "96",
-      "player_name": "Aaron Rodgers",
-      "position": "QB",
-      "published": 1787139967000,
-      "source": "rotoballer",
-      "source_key": "218930",
-      "story_id": "nfl|96|rotoballer|218930|1787139967000",
-      "title": "Aaron Rodgers Won't Play in Second Preseason Game",
-      "url": "https://www.rotoballer.com/player-news/aaron-rodgers-wont-play-in-second-preseason-game/1911917"
-    },
-    {
-      "analysis": null,
-      "description": "Olivia Reiner of The Philadelphia Inquirer reports that Philadelphia Eagles running back Tank Bigsby (toe) is practicing at training camp on Wednesday in some capacity. Bigsby missed some practice time recently with a minor toe injury, but he is back now and should not be in any danger of missing the start of the 2026 regular season. The 24-year-old former third-rounder by the Jacksonville Jaguars in 2023 from Auburn played in just one game last year with Jacksonville before being acquired by the Eagles. He had 58 carries for 344 yards and two touchdowns as a rusher in Philly, adding only three catches for 32 yards in 16 regular-season games. Bigsby has averaged 4.5 yards per carry in his three NFL seasons and will be one of the best handcuff options in fantasy football going into his first full year with the Eagles behind starter Saquon Barkley. RotoBaller has Bigsby ranked as the No. 44 fantasy RB in 2026.",
-      "metadata": {
-        "description": "Olivia Reiner of The Philadelphia Inquirer reports that Philadelphia Eagles running back Tank Bigsby (toe) is practicing at training camp on Wednesday in some capacity. Bigsby missed some practice time recently with a minor toe injury, but he is back now and should not be in any danger of missing the start of the 2026 regular season. The 24-year-old former third-rounder by the Jacksonville Jaguars in 2023 from Auburn played in just one game last year with Jacksonville before being acquired by the Eagles. He had 58 carries for 344 yards and two touchdowns as a rusher in Philly, adding only three catches for 32 yards in 16 regular-season games. Bigsby has averaged 4.5 yards per carry in his three NFL seasons and will be one of the best handcuff options in fantasy football going into his first full year with the Eagles behind starter Saquon Barkley. RotoBaller has Bigsby ranked as the No. 44 fantasy RB in 2026.",
-        "title": "Tank Bigsby Returns to Practice on Wednesday",
-        "topic_id": "1395827657186230272",
-        "url": "https://www.rotoballer.com/player-news/tank-bigsby-returns-to-practice-on-wednesday/1911903"
-      },
-      "nfl_team": "PHI",
-      "player_id": "9225",
-      "player_name": "Tank Bigsby",
-      "position": "RB",
-      "published": 1787138953000,
-      "source": "rotoballer",
-      "source_key": "218928",
-      "story_id": "nfl|9225|rotoballer|218928|1787138953000",
-      "title": "Tank Bigsby Returns to Practice on Wednesday",
-      "url": "https://www.rotoballer.com/player-news/tank-bigsby-returns-to-practice-on-wednesday/1911903"
-    },
-    {
-      "analysis": null,
-      "description": "Philadelphia Eagles wide receiver DeVonta Smith (hamstring) was listed as a limited practice participant at training camp on Wednesday, according to Dave Zangaro of NBC Sports. Rookie first-round receiver Makai Lemon (hamstring) was also limited as the two wideouts slowly work their way back from hamstring injuries. Smith was in full uniform on Monday to start the week and is making progress, although the Eagles could still decide to hold him out of their final two preseason games as a precaution. They will be even more cautious with Smith now that he is their unquestioned WR1 in 2026 with A.J. Brown now in New England. As things currently stand, fantasy managers should not be worried at all that Smith will not be ready for the start of the regular season in early September. With a bigger target share and higher potential fantasy ceiling than he has ever had before, the former first-rounder is now a low-end WR1/high-end WR2 target in upcoming drafts.",
-      "metadata": {
-        "description": "Philadelphia Eagles wide receiver DeVonta Smith (hamstring) was listed as a limited practice participant at training camp on Wednesday, according to Dave Zangaro of NBC Sports. Rookie first-round receiver Makai Lemon (hamstring) was also limited as the two wideouts slowly work their way back from hamstring injuries. Smith was in full uniform on Monday to start the week and is making progress, although the Eagles could still decide to hold him out of their final two preseason games as a precaution. They will be even more cautious with Smith now that he is their unquestioned WR1 in 2026 with A.J. Brown now in New England. As things currently stand, fantasy managers should not be worried at all that Smith will not be ready for the start of the regular season in early September. With a bigger target share and higher potential fantasy ceiling than he has ever had before, the former first-rounder is now a low-end WR1/high-end WR2 target in upcoming drafts.",
-        "title": "DeVonta Smith Listed as Limited on Wednesday",
-        "topic_id": "1395826398299430912",
-        "url": "https://www.rotoballer.com/player-news/devonta-smith-listed-as-limited-on-wednesday/1911896"
-      },
-      "nfl_team": "PHI",
-      "player_id": "7525",
-      "player_name": "DeVonta Smith",
-      "position": "WR",
-      "published": 1787138584000,
-      "source": "rotoballer",
-      "source_key": "218927",
-      "story_id": "nfl|7525|rotoballer|218927|1787138584000",
-      "title": "DeVonta Smith Listed as Limited on Wednesday",
-      "url": "https://www.rotoballer.com/player-news/devonta-smith-listed-as-limited-on-wednesday/1911896"
-    },
-    {
-      "analysis": null,
-      "description": "The Los Angeles Chargers hosted the San Francisco 49ers for a joint practice on Tuesday, and the loudest ovation of the day came on a tone-setting run from second-year running back Omarion Hampton. Reportedly welcoming contact all day, Hampton drew the attention of onlookers and teammates alike by plowing through 49ers safety Ji'Ayir Brown during a full-team drill, later earning the praise of quarterback Justin Herbert. \"He's incredibly tough. He leads by example and doesn't say much, but what he does on the field is so loud,\" Herbert told reporters after practice. \"Guys respect him and it's so cool to hand him the ball and see what he's able to do. He's an incredible athlete, incredible competitor and I'm glad he's on my side of the ball.\" Hampton missed eight games as a rookie with an ankle injury, but a popular breakout candidate in a revamped Chargers offense, he is RotoBaller's RB11 in 2026.",
-      "metadata": {
-        "description": "The Los Angeles Chargers hosted the San Francisco 49ers for a joint practice on Tuesday, and the loudest ovation of the day came on a tone-setting run from second-year running back Omarion Hampton. Reportedly welcoming contact all day, Hampton drew the attention of onlookers and teammates alike by plowing through 49ers safety Ji'Ayir Brown during a full-team drill, later earning the praise of quarterback Justin Herbert. \"He's incredibly tough. He leads by example and doesn't say much, but what he does on the field is so loud,\" Herbert told reporters after practice. \"Guys respect him and it's so cool to hand him the ball and see what he's able to do. He's an incredible athlete, incredible competitor and I'm glad he's on my side of the ball.\" Hampton missed eight games as a rookie with an ankle injury, but a popular breakout candidate in a revamped Chargers offense, he is RotoBaller's RB11 in 2026.",
-        "title": "Omarion Hampton Sets the Tone in Joint Practice",
-        "topic_id": "1395813813957185536",
-        "url": "https://www.rotoballer.com/player-news/omarion-hampton-sets-the-tone-in-joint-practice/1911855"
-      },
-      "nfl_team": "LAC",
-      "player_id": "12507",
-      "player_name": "Omarion Hampton",
-      "position": "RB",
-      "published": 1787135828000,
-      "source": "rotoballer",
-      "source_key": "218922",
-      "story_id": "nfl|12507|rotoballer|218922|1787135828000",
-      "title": "Omarion Hampton Sets the Tone in Joint Practice",
-      "url": "https://www.rotoballer.com/player-news/omarion-hampton-sets-the-tone-in-joint-practice/1911855"
     }
   ]
 }

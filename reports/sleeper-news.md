@@ -2,15 +2,33 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **3738**
-- Newly captured: **4**
+- Stored stories: **3737**
+- Newly captured: **8**
 
 ## Latest news
 
-- **NEW — Tory Horton** — Tory Horton (hamstring) logs full practice Thursday  (2026-09-18T06:00:36.449000Z)
+- **NEW — Josh Allen** — Josh Allen scores five touchdowns in dominant showing Thursday (2026-09-18T14:00:46.404000Z)
+  - Allen had an insane showing on Thursday night. He totaled over 300 yards and scored five total touchdowns en route to a big win over the Lions in primetime, all while protecting the ball and committing zero turnovers. He has been absolutely dominant through the first two games of the season and is pacing to be one of, if not the most valuable individual player that anyone can roster at this point.
+  - Source: https://www.fantasypros.com/nfl/news/608798/josh-allen-scores-five-touchdowns-dominant-showing-thursday.php
+- **NEW — DJ Moore** — DJ Moore - Setback not considered serious (2026-09-18T12:26:46Z)
+  - Head coach Joe Brady did not provide a postgame update on Moore after he left Thursday's contest in the second quarter, but more details are now available, and it appears Moore is not facing any sort of extended absence. He will have over a week to rest and recover before the Bills square off against the Chargers, and if he's unable to go by then that will mean more snaps for Khalil Shakir, Keon Coleman and Joshua Palmer.
+- **NEW — DJ Moore** — DJ Moore (shoulder) diagnosed with AC joint sprain, status day-to-day (2026-09-18T11:55:45.837000Z)
+  - Moore was injured while trying to catch a pass in the endzone, falling hard on his shoulder as a defensive back rolled over top of him. At first the injury looked serious, but he was able to sit up and walk off the field under his own power. More than likely Moore will miss at least a week, but if there's any silver lining, the Bills get a mini-bye here thanks to the Thursday night game. Once he returns he will go back to being a featured target in the Bills passing attack. But if he misses time, Dalton Kincaid and Khalil Shakir will be the primary targets for Josh Allen, but don't sleep on Keon Coleman, who saw some sneaky good usage once, and even before, Moore was knocked out.
+  - Source: https://www.fantasypros.com/nfl/news/608797/dj-moore-shoulder-diagnosed-with-ac-joint-sprain-status-day-to-day.php
+- **NEW — James Cook** — James Cook III Bounces Back with Dominant Week 2 Performance (2026-09-18T09:48:07Z)
+  - Source: https://www.rotoballer.com/player-news/james-cook-iii-bounces-back-with-dominant-week-2-performance/1934294
+- **NEW — Dalton Kincaid** — Dalton Kincaid Leads Bills in Targets, Receptions, and Receiving Yards (2026-09-18T09:39:05Z)
+  - Source: https://www.rotoballer.com/player-news/dalton-kincaid-leads-bills-in-targets-receptions-and-receiving-yards-in-week-2/1934272
+- **NEW — Amon-Ra St. Brown** — Amon-Ra St. Brown Posts Another Monster Game in Week 2 (2026-09-18T09:25:07Z)
+  - Source: https://www.rotoballer.com/player-news/amon-ra-st-brown-posts-another-monster-game-in-week-2/1934256
+- **NEW — Jameson Williams** — Jameson Williams Difficult to Trust After Underwhelming Week 2 (2026-09-18T09:18:06Z)
+  - Source: https://www.rotoballer.com/player-news/jameson-williams-difficult-to-trust-after-underwhelming-week-2-performance/1934248
+- **NEW — DJ Moore** — DJ Moore Battling AC Joint Sprain, Week 3 Status in Question (2026-09-18T09:11:16Z)
+  - Source: https://www.rotoballer.com/player-news/dj-moore-battling-ac-joint-sprain-week-3-status-in-question/1934237
+- **Tory Horton** — Tory Horton (hamstring) logs full practice Thursday  (2026-09-18T06:00:36.449000Z)
   - Horton has logged back-to-back full practices. He remains on track to make his season debut on Sunday. 
   - Source: https://www.fantasypros.com/nfl/news/608770/tory-horton-hamstring-logs-full-practice-thursday.php
-- **NEW — Cooper Kupp** — Cooper Kupp (back) logs full practice Thursday  (2026-09-18T06:00:36.423000Z)
+- **Cooper Kupp** — Cooper Kupp (back) logs full practice Thursday  (2026-09-18T06:00:36.423000Z)
   - Kupp was upgraded after he was limited on Wednesday. He'll remain in the WR4/WR5 range for fantasy managers.
   - Source: https://www.fantasypros.com/nfl/news/608773/cooper-kupp-back-logs-full-practice-thursday.php
 - **Khalil Shakir** — Khalil Shakir - Records 49 all-purpose yards in win (2026-09-18T05:09:24Z)
@@ -35,9 +53,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Gibbs managed a 16-yard run among his 16 carries, yet he generally found running room at a premium over the course of the high-scoring loss. Game script also limited the star running back's opportunities on the ground somewhat, but Gibbs did make up for it to an extent with his work as a receiver. The fourth-year pro tied for second in receptions and also was the runner-up in receiving yards for the Lions on the night, and he added his first receiving touchdown of the season when he brought in an 11-yard laser from Jared Goff with just over five minutes remaining in the first half. Gibbs should have a chance at reverting to a larger workload on the ground in a Week 3 home matchup against the Jets on Sunday, Sept. 27.
 - **Josh Allen** — Josh Allen - Another elite performance in win (2026-09-18T03:47:53Z)
   - Allen extended his record of most games with two-plus passing touchdowns and two-plus rushing touchdowns, accomplishing the feat for the 10th time in his career while leading the Bills to a wild victory in their first regular-season game at the new Highmark Stadium. His pair of rushing touchdowns came from one and two yards out in the first and third quarters, respectively, and he hit Joshua Palmer (43 yards), Dawson Knox (one yard) and Dalton Kincaid (16 yards) for his trio of scoring strikes. Allen's solid passing numbers were made all the more impressive by the fact he lost DJ Moore to a shoulder injury late in the first half, and the star signal-caller encouragingly displayed strong chemistry with Keon Coleman (6-63-0) in response. Allen has quickly generated a 5:0 TD:INT and added four rushing touchdowns in his first two games, a noteworthy start to a quest for a second career MVP. Allen and his teammates now get some extra rest ahead of a Week 3 home showdown against the Chargers on Sunday, Sept. 27.
-- **NEW — Josh Allen** — Josh Allen Enjoys a Five-Touchdown Performance on Primetime Television (2026-09-18T02:22:07Z)
+- **Josh Allen** — Josh Allen Enjoys a Five-Touchdown Performance on Primetime Television (2026-09-18T02:22:07Z)
   - Source: https://www.rotoballer.com/player-news/josh-allen-enjoys-a-five-touchdown-performance-on-primetime-television/1934097
-- **NEW — Jared Goff** — Jared Goff's Strong Second Half Fuels Huge Fantasy Performance (2026-09-18T02:17:13Z)
+- **Jared Goff** — Jared Goff's Strong Second Half Fuels Huge Fantasy Performance (2026-09-18T02:17:13Z)
   - Source: https://www.rotoballer.com/player-news/jared-goffs-strong-second-half-fuels-huge-fantasy-performance/1934095
 - **DJ Moore** — DJ Moore - Will not return Thursday (2026-09-18T02:12:45Z)
   - Moore exited late in the second quarter and was taken to the locker room for X-rays. The results of those tests aren't yet clear, but Moore appeared to be in a considerable amount of pain after landing hard on his shoulder while attempting a diving catch in the end zone. Prior to his departure, Moore rushed one time for minus-1 yard and didn't see an official target in the passing game. Khalil Shakir and Dalton Kincaid figure to be Josh Allen's preferred targets the rest of the way, with Keon Coleman, Joshua Palmer and Dawson Knox filling in behind them in the pecking order.
@@ -227,21 +245,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Michael Penix** — Michael Penix Jr. (knee) practices in full Thursday (2026-09-17T19:50:32.299000Z)
   - Penix was able to practice in a full capacity on Thursday and was seen throwing some passes with the starters alongside QB Cooper Rush (back). It looks like he is in contention to claim the starting job for this week, which would likely be an upgrade for most of Atlanta's fantasy assets. We won't know for sure who will be starting this week until later in the week, however.
   - Source: https://www.fantasypros.com/nfl/news/608624/michael-penix-jr-knee-practices-full-thursday.php
-- **Tua Tagovailoa** — Tua Tagovailoa (oblique) officially a non-participant Thursday (2026-09-17T19:50:32.291000Z)
-  - To no surprise, Tagovailoa missed another practice on Thursday as he continues to battle a nagging oblique injury. It looks likely to leave him sidelined again this week, which means it will probably be either Cooper Rush (back) or Michael Penix Jr. (knee) starting for the Falcons against the Panthers.
-  - Source: https://www.fantasypros.com/nfl/news/608625/tua-tagovailoa-oblique-officially-non-participant-thursday.php
-- **Kyle Monangai** — Kyle Monangai - Limited in Thursday's practice (2026-09-17T19:47:06Z)
-  - Monangai has been a limited participant in Chicago's first two practices heading into Sunday's battle with the NFC North rival Vikings. The second-year pro no longer seems bothered by the knee injury that forced him to miss time during the preseason, and Monangai is coming off a strong season opener in which he produced a 61-yard touchdown run. D'Andre Swift (ankle/knee) also was listed as limited Thursday, so the health of Chicago's top two running backs will bear monitoring on Friday's injury report.
-- **D'Andre Swift** — D'Andre Swift - Limited again Thursday (2026-09-17T19:44:33Z)
-  - Swift has been limited the last two days due to a pair of lower-body injuries to his knee and ankle. Both he and Kyle Monangai (hamstring) are on the injury report, which puts the Bears' backfield outlook in question as Sunday approaches. Friday's injury report will give firmer confirmation on Swift's status going into the Week 2 divisional matchup with the Vikings.
-- **Tua Tagovailoa** — Tua Tagovailoa - Officially sidelined Thursday (2026-09-17T19:42:09Z)
-  - Tagovailoa officially goes down as a non-participant for a second consecutive practice. He's likely to miss a second consecutive game to begin the season Sunday against the Panthers, though Tagovailoa has one chance left to practice before then. Michael Penix (knee) would get the nod Sunday if he's cleared to suit up and Tua isn't. Otherwise, Cooper Rush would make his second start of the season.
-- **George Kittle** — George Kittle Limited Again on Thursday (2026-09-17T19:40:07Z)
-  - Source: https://www.rotoballer.com/player-news/george-kittle-limited-again-on-thursday/1933954
-- **Brock Bowers** — Brock Bowers (knee) not seen at practice Thursday (2026-09-17T19:20:32.160000Z)
-  - It looks like the star tight end is missing another practice on Thursday, as he wasn't present during the portion of practice open to the media. If he's officially a non-participant, it seems like he will be sidelined again in Week 2, which will lead to a bit more work for Michael Mayer in a matchup against the Chargers this weekend.
-  - Source: https://www.fantasypros.com/nfl/news/608621/brock-bowers-knee-not-seen-practice-thursday.php
-- **Brock Bowers** — Brock Bowers - Remains out of practice (2026-09-17T19:19:30Z)
-  - It was reported earlier in the week that Bowers has a chance to play Sunday against the Chargers after sitting out the Week 1 win over the Dolphins due to a meniscus trim in his knee just before the start of the season. Bowers' inability to practice in any capacity Wednesday or Thursday suggests he may be heading toward a second consecutive absence to begin the season, though a return to practice in at least some capacity Friday could create some optimism regarding the star tight end's status. Michael Mayer caught six of a team-high seven targets for 32 yards during Bowers' absence in the season opener.
-- **Tua Tagovailoa** — Tua Tagovailoa Won't Play in Week 2 (2026-09-17T19:17:06Z)
-  - Source: https://www.rotoballer.com/player-news/tua-tagovailoa-wont-play-in-week-2/1933950
