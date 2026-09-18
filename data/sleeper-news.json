@@ -1,35 +1,12 @@
 {
-  "last_checked_at": "2026-09-18T05:19:10Z",
+  "last_checked_at": "2026-09-18T09:53:48Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 288,
   "new_story_ids": [
-    "nfl|10222|rotoballer|221338|1789685105000",
-    "nfl|10236|rotowire|637860|1789705086000",
-    "nfl|10859|rotowire|637862|1789706883000",
-    "nfl|11539|rotowire|637856|1789704335000",
-    "nfl|11620|rotoballer|221343|1789692426000",
-    "nfl|11637|rotowire|637864|1789707720000",
-    "nfl|11655|rotoballer|221330|1789680005000",
-    "nfl|12504|rotoballer|221340|1789685826000",
-    "nfl|13286|rotoballer|221329|1789679406000",
-    "nfl|13294|rotoballer|221334|1789682345000",
-    "nfl|2133|rotoballer|221339|1789685533000",
-    "nfl|3163|rotowire|637858|1789704735000",
-    "nfl|4039|rotoballer|221331|1789681151000",
-    "nfl|4039|rotowire|637823|1789692617000",
-    "nfl|4983|fantasy_pros|608757|1789695334989",
-    "nfl|4983|rotowire|637834|1789695177000",
-    "nfl|4983|rotowire|637841|1789697565000",
-    "nfl|4984|rotowire|637851|1789703273000",
-    "nfl|5967|rotoballer|221342|1789692038000",
-    "nfl|7049|rotoballer|221337|1789684809000",
-    "nfl|7547|rotowire|637855|1789704215000",
-    "nfl|8134|rotowire|637865|1789708164000",
-    "nfl|8136|rotoballer|221336|1789684470000",
-    "nfl|8138|rotowire|637853|1789703910000",
-    "nfl|8148|rotowire|637863|1789707256000",
-    "nfl|9221|rotowire|637852|1789703591000",
-    "nfl|9756|rotoballer|221333|1789681866000"
+    "nfl|12497|fantasy_pros|608770|1789711236449",
+    "nfl|3163|rotoballer|221346|1789697833000",
+    "nfl|4039|fantasy_pros|608773|1789711236423",
+    "nfl|4984|rotoballer|221345|1789698127000"
   ],
   "schema_version": 1,
   "source": {
@@ -40,10 +17,52 @@
   },
   "stories": [
     {
-      "analysis": "Shakir played a complementary role once again, and although he did finish tied for second in targets on the Bills, he was only third in receptions and fourth in receiving yards. Shakir has seen Dalton Kincaid take on a much bigger role in the passing game over the first two games of the season, but the wideout is still averaging 6.0 targets over that same span and could be due for a boost in workload if DJ Moore misses any games with the shoulder injury that knocked him out of Thursday's contest late in the second quarter. Shakir will next take aim at the Chargers defense in a Week 3 home matchup on Sunday, Sept. 27.",
+      "analysis": "Horton has logged back-to-back full practices. He remains on track to make his season debut on Sunday. ",
+      "description": "Tory Horton remained a full participant in practice on Thursday. ",
+      "metadata": {
+        "analysis": "Horton has logged back-to-back full practices. He remains on track to make his season debut on Sunday. ",
+        "description": "Tory Horton remained a full participant in practice on Thursday. ",
+        "title": "Tory Horton (hamstring) logs full practice Thursday ",
+        "topic_id": "1406554507650797568",
+        "url": "https://www.fantasypros.com/nfl/news/608770/tory-horton-hamstring-logs-full-practice-thursday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12497",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "published": 1789711236449,
+      "source": "fantasy_pros",
+      "source_key": "608770",
+      "story_id": "nfl|12497|fantasy_pros|608770|1789711236449",
+      "title": "Tory Horton (hamstring) logs full practice Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/608770/tory-horton-hamstring-logs-full-practice-thursday.php"
+    },
+    {
+      "analysis": "Kupp was upgraded after he was limited on Wednesday. He'll remain in the WR4/WR5 range for fantasy managers.",
+      "description": "Cooper Kupp was a full participant in practice on Thursday. ",
+      "metadata": {
+        "analysis": "Kupp was upgraded after he was limited on Wednesday. He'll remain in the WR4/WR5 range for fantasy managers.",
+        "description": "Cooper Kupp was a full participant in practice on Thursday. ",
+        "title": "Cooper Kupp (back) logs full practice Thursday ",
+        "topic_id": "1406554507545939968",
+        "url": "https://www.fantasypros.com/nfl/news/608773/cooper-kupp-back-logs-full-practice-thursday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4039",
+      "player_name": "Cooper Kupp",
+      "position": "WR",
+      "published": 1789711236423,
+      "source": "fantasy_pros",
+      "source_key": "608773",
+      "story_id": "nfl|4039|fantasy_pros|608773|1789711236423",
+      "title": "Cooper Kupp (back) logs full practice Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/608773/cooper-kupp-back-logs-full-practice-thursday.php"
+    },
+    {
+      "analysis": "Shakir played a complementary role once again, and although he did finish tied for second in targets on the Bills, he was only third in receptions and fourth in receiving yards. He's seen Dalton Kincaid take on a much bigger role in the passing game over the first two games of the season, but the wideout is still averaging 6.0 targets over that same span and could be due for a boost in workload if DJ Moore misses any games with the shoulder injury that knocked him out of Thursday's contest late in the second quarter. Shakir will next take aim at the Chargers defense in a Week 3 home matchup on Sunday, Sept. 27.",
       "description": "Shakir brought in three of six targets for 38 yards and returned one kickoff for 11 yards in the Bills' 41-31 win over the Lions on Thursday.",
       "metadata": {
-        "analysis": "Shakir played a complementary role once again, and although he did finish tied for second in targets on the Bills, he was only third in receptions and fourth in receiving yards. Shakir has seen Dalton Kincaid take on a much bigger role in the passing game over the first two games of the season, but the wideout is still averaging 6.0 targets over that same span and could be due for a boost in workload if DJ Moore misses any games with the shoulder injury that knocked him out of Thursday's contest late in the second quarter. Shakir will next take aim at the Chargers defense in a Week 3 home matchup on Sunday, Sept. 27.",
+        "analysis": "Shakir played a complementary role once again, and although he did finish tied for second in targets on the Bills, he was only third in receptions and fourth in receiving yards. He's seen Dalton Kincaid take on a much bigger role in the passing game over the first two games of the season, but the wideout is still averaging 6.0 targets over that same span and could be due for a boost in workload if DJ Moore misses any games with the shoulder injury that knocked him out of Thursday's contest late in the second quarter. Shakir will next take aim at the Chargers defense in a Week 3 home matchup on Sunday, Sept. 27.",
         "description": "Shakir brought in three of six targets for 38 yards and returned one kickoff for 11 yards in the Bills' 41-31 win over the Lions on Thursday.",
         "title": "Khalil Shakir - Records 49 all-purpose yards in win",
         "topic_id": "1406541920108367872"
@@ -60,10 +79,10 @@
       "url": null
     },
     {
-      "analysis": "Coleman benefitted from the late second-quarter exit of DJ Moore (shoulder), finishing the game second in receptions and receiving yards for the Bills while also tying for runner-up status in targets. The oft-maligned 2024 second-round pick encouragingly flashed steady hands as well throughout the night, and Coleman will be in line to continue in an enhanced role in a Week 3 home matchup against the Chargers on Sunday, Sept. 27 if Moore is forced to sit out the contest.",
+      "analysis": "Coleman benefited from the late second-quarter exit of DJ Moore (shoulder), finishing the game second in receptions and receiving yards for the Bills while also tying for runner-up status in targets. The oft-maligned 2024 second-round pick encouragingly flashed steady hands as well throughout the night, and Coleman will be in line to continue in an enhanced role in a Week 3 home matchup against the Chargers on Sunday, Sept. 27 if Moore is forced to sit out the contest.",
       "description": "Coleman brought in all six targets for 63 yards in the Bills' 41-31 win over the Lions on Thursday.",
       "metadata": {
-        "analysis": "Coleman benefitted from the late second-quarter exit of DJ Moore (shoulder), finishing the game second in receptions and receiving yards for the Bills while also tying for runner-up status in targets. The oft-maligned 2024 second-round pick encouragingly flashed steady hands as well throughout the night, and Coleman will be in line to continue in an enhanced role in a Week 3 home matchup against the Chargers on Sunday, Sept. 27 if Moore is forced to sit out the contest.",
+        "analysis": "Coleman benefited from the late second-quarter exit of DJ Moore (shoulder), finishing the game second in receptions and receiving yards for the Bills while also tying for runner-up status in targets. The oft-maligned 2024 second-round pick encouragingly flashed steady hands as well throughout the night, and Coleman will be in line to continue in an enhanced role in a Week 3 home matchup against the Chargers on Sunday, Sept. 27 if Moore is forced to sit out the contest.",
         "description": "Coleman brought in all six targets for 63 yards in the Bills' 41-31 win over the Lions on Thursday.",
         "title": "Keon Coleman - Spike in production during win",
         "topic_id": "1406540660017815552"
@@ -100,10 +119,10 @@
       "url": null
     },
     {
-      "analysis": "The fourth-year tight end was one of Jared Goff's primary targets Thursday, finishing tied for second in receptions while checking in third in both receiving yards and targets. LaPorta also recorded his first touchdown catch of the season on a one-yard grab early in the fourth quarter, and over the first two games of the new campaign, he's encouragingly been targeted 15 times and parlayed those opportunities into 11 receptions for 100 yards. LaPorta should remain a key complementary option during a Week 3 home matchup against the Jets on Sunday, Sept. 27.",
+      "analysis": "The fourth-year tight end was one of Jared Goff's primary targets Thursday, finishing tied for second in receptions while checking in third in both receiving yards and targets. LaPorta also recorded his first touchdown catch of the season on a one-yard grab early in the fourth quarter, and over the first two games of the new campaign, he's encouragingly been targeted 15 times and parlayed those opportunities into 11 receptions for 100 yards and the TD. LaPorta should remain a key complementary option during a Week 3 home matchup against the Jets on Sunday, Sept. 27.",
       "description": "LaPorta brought in six of seven targets for 52 yards and a touchdown in the Lions' 41-31 loss to the Bills on Thursday.",
       "metadata": {
-        "analysis": "The fourth-year tight end was one of Jared Goff's primary targets Thursday, finishing tied for second in receptions while checking in third in both receiving yards and targets. LaPorta also recorded his first touchdown catch of the season on a one-yard grab early in the fourth quarter, and over the first two games of the new campaign, he's encouragingly been targeted 15 times and parlayed those opportunities into 11 receptions for 100 yards. LaPorta should remain a key complementary option during a Week 3 home matchup against the Jets on Sunday, Sept. 27.",
+        "analysis": "The fourth-year tight end was one of Jared Goff's primary targets Thursday, finishing tied for second in receptions while checking in third in both receiving yards and targets. LaPorta also recorded his first touchdown catch of the season on a one-yard grab early in the fourth quarter, and over the first two games of the new campaign, he's encouragingly been targeted 15 times and parlayed those opportunities into 11 receptions for 100 yards and the TD. LaPorta should remain a key complementary option during a Week 3 home matchup against the Jets on Sunday, Sept. 27.",
         "description": "LaPorta brought in six of seven targets for 52 yards and a touchdown in the Lions' 41-31 loss to the Bills on Thursday.",
         "title": "Sam LaPorta - Scores first TD of '26 in loss",
         "topic_id": "1406536885848793088"
@@ -140,10 +159,10 @@
       "url": null
     },
     {
-      "analysis": "Goff's final line undoubtedly pleased fantasy managers, but in a real-world football sense, they were largely the byproduct of a high-scoring loss in which the Lions trailed throughout. Goff had a mostly unremarkable first half, throwing just one of his touchdown passes in that span when he connected with Jahmyr Gibbs from 11 yards out. Goff would go on to add two and 27-yard strikes to Amon-Ra St. Brown and a one-yard scoring toss to Sam LaPorta after halftime, pushing the veteran signal-caller to a sparkling 6:0 TD:INT over the first two games of the season. Goff will next take aim at the Jets secondary in a Week 3 home matchup on Sunday, Sept. 27.",
+      "analysis": "Goff's final line undoubtedly pleased fantasy managers, but in a real-world football sense, they were largely the byproduct of a high-scoring loss in which the Lions trailed throughout. He had a mostly unremarkable first half, throwing just one of his touchdown passes in that span when he connected with Jahmyr Gibbs from 11 yards out. Goff would go on to add two and 27-yard strikes to Amon-Ra St. Brown and a one-yard scoring toss to Sam LaPorta after halftime, pushing the veteran signal-caller to a sparkling 6:0 TD:INT over the first two games of the season. Goff will next take aim at the Jets secondary in a Week 3 home matchup on Sunday, Sept. 27.",
       "description": "Goff completed 26 of 38 passes for 327 yards with four touchdowns and no interceptions while adding three rushes for seven yards in the Lions' 41-31 loss to the Bills on Thursday. He also committed two fumbles, losing one.",
       "metadata": {
-        "analysis": "Goff's final line undoubtedly pleased fantasy managers, but in a real-world football sense, they were largely the byproduct of a high-scoring loss in which the Lions trailed throughout. Goff had a mostly unremarkable first half, throwing just one of his touchdown passes in that span when he connected with Jahmyr Gibbs from 11 yards out. Goff would go on to add two and 27-yard strikes to Amon-Ra St. Brown and a one-yard scoring toss to Sam LaPorta after halftime, pushing the veteran signal-caller to a sparkling 6:0 TD:INT over the first two games of the season. Goff will next take aim at the Jets secondary in a Week 3 home matchup on Sunday, Sept. 27.",
+        "analysis": "Goff's final line undoubtedly pleased fantasy managers, but in a real-world football sense, they were largely the byproduct of a high-scoring loss in which the Lions trailed throughout. He had a mostly unremarkable first half, throwing just one of his touchdown passes in that span when he connected with Jahmyr Gibbs from 11 yards out. Goff would go on to add two and 27-yard strikes to Amon-Ra St. Brown and a one-yard scoring toss to Sam LaPorta after halftime, pushing the veteran signal-caller to a sparkling 6:0 TD:INT over the first two games of the season. Goff will next take aim at the Jets secondary in a Week 3 home matchup on Sunday, Sept. 27.",
         "description": "Goff completed 26 of 38 passes for 327 yards with four touchdowns and no interceptions while adding three rushes for seven yards in the Lions' 41-31 loss to the Bills on Thursday. He also committed two fumbles, losing one.",
         "title": "Jared Goff - Racks up production in high-scoring loss",
         "topic_id": "1406528077013520384"
@@ -258,6 +277,46 @@
       "story_id": "nfl|4984|rotowire|637851|1789703273000",
       "title": "Josh Allen - Another elite performance in win",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills quarterback Josh Allen completed 20 of his 31 pass attempts for 248 passing yards, three passing touchdowns, and zero interceptions during Thursday's Week 2 win over the Detroit Lions. He also tallied 69 rushing yards and two rushing touchdowns while taking just two sacks. Allen was (unsurprisingly) the focal point of the Bills' game plan on Thursday, and even when Buffalo tried to keep the ball on the ground, Allen was often responsible for the rushing attempt. So far, it's been tough for running back James Cook III's fantasy managers to get ecstatic about drafting him, but obviously Allen's fantasy managers are thrilled. The star quarterback will remain firmly entrenched as a mid-to-high RB1 in the fantasy rankings for Week 3 against the Los Angeles Chargers.",
+      "metadata": {
+        "description": "Buffalo Bills quarterback Josh Allen completed 20 of his 31 pass attempts for 248 passing yards, three passing touchdowns, and zero interceptions during Thursday's Week 2 win over the Detroit Lions. He also tallied 69 rushing yards and two rushing touchdowns while taking just two sacks. Allen was (unsurprisingly) the focal point of the Bills' game plan on Thursday, and even when Buffalo tried to keep the ball on the ground, Allen was often responsible for the rushing attempt. So far, it's been tough for running back James Cook III's fantasy managers to get ecstatic about drafting him, but obviously Allen's fantasy managers are thrilled. The star quarterback will remain firmly entrenched as a mid-to-high RB1 in the fantasy rankings for Week 3 against the Los Angeles Chargers.",
+        "title": "Josh Allen Enjoys a Five-Touchdown Performance on Primetime Television",
+        "topic_id": "1406560792618266624",
+        "url": "https://www.rotoballer.com/player-news/josh-allen-enjoys-a-five-touchdown-performance-on-primetime-television/1934097"
+      },
+      "nfl_team": "BUF",
+      "player_id": "4984",
+      "player_name": "Josh Allen",
+      "position": "QB",
+      "published": 1789698127000,
+      "source": "rotoballer",
+      "source_key": "221345",
+      "story_id": "nfl|4984|rotoballer|221345|1789698127000",
+      "title": "Josh Allen Enjoys a Five-Touchdown Performance on Primetime Television",
+      "url": "https://www.rotoballer.com/player-news/josh-allen-enjoys-a-five-touchdown-performance-on-primetime-television/1934097"
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions quarterback Jared Goff completed 26 of his 38 pass attempts for 327 yards, four touchdowns, and zero interceptions during Thursday's Week 2 loss against the Buffalo Bills. He also rushed for seven yards and took four sacks in the contest. Goff and the Lions had a quieter start to the game, going scoreless in the first quarter and getting just one touchdown and one field goal before the end of the first half. However, Detroit managed to stay in the game throughout most of regulation, largely thanks to an elite rapport between Goff and Amon-Ra St. Brown. We have now seen Goff go for two-plus touchdowns and zero turnovers in back-to-back games to start the season, solidifying himself as a low-end QB1 despite his lack of rushing upside. We would continue to start him in most leagues ahead of Week 3 against the Jets.",
+      "metadata": {
+        "description": "Detroit Lions quarterback Jared Goff completed 26 of his 38 pass attempts for 327 yards, four touchdowns, and zero interceptions during Thursday's Week 2 loss against the Buffalo Bills. He also rushed for seven yards and took four sacks in the contest. Goff and the Lions had a quieter start to the game, going scoreless in the first quarter and getting just one touchdown and one field goal before the end of the first half. However, Detroit managed to stay in the game throughout most of regulation, largely thanks to an elite rapport between Goff and Amon-Ra St. Brown. We have now seen Goff go for two-plus touchdowns and zero turnovers in back-to-back games to start the season, solidifying himself as a low-end QB1 despite his lack of rushing upside. We would continue to start him in most leagues ahead of Week 3 against the Jets.",
+        "title": "Jared Goff's Strong Second Half Fuels Huge Fantasy Performance",
+        "topic_id": "1406560792618266626",
+        "url": "https://www.rotoballer.com/player-news/jared-goffs-strong-second-half-fuels-huge-fantasy-performance/1934095"
+      },
+      "nfl_team": "DET",
+      "player_id": "3163",
+      "player_name": "Jared Goff",
+      "position": "QB",
+      "published": 1789697833000,
+      "source": "rotoballer",
+      "source_key": "221346",
+      "story_id": "nfl|3163|rotoballer|221346|1789697833000",
+      "title": "Jared Goff's Strong Second Half Fuels Huge Fantasy Performance",
+      "url": "https://www.rotoballer.com/player-news/jared-goffs-strong-second-half-fuels-huge-fantasy-performance/1934095"
     },
     {
       "analysis": "Moore exited late in the second quarter and was taken to the locker room for X-rays. The results of those tests aren't yet clear, but Moore appeared to be in a considerable amount of pain after landing hard on his shoulder while attempting a diving catch in the end zone. Prior to his departure, Moore rushed one time for minus-1 yard and didn't see an official target in the passing game. Khalil Shakir and Dalton Kincaid figure to be Josh Allen's preferred targets the rest of the way, with Keon Coleman, Joshua Palmer and Dawson Knox filling in behind them in the pecking order.",
@@ -75415,88 +75474,6 @@
       "story_id": "nfl|12507|rotoballer|218922|1787135828000",
       "title": "Omarion Hampton Sets the Tone in Joint Practice",
       "url": "https://www.rotoballer.com/player-news/omarion-hampton-sets-the-tone-in-joint-practice/1911855"
-    },
-    {
-      "analysis": null,
-      "description": "New Orleans Saints running back Alvin Kamara (knee) left Tuesday's joint practice with the Cowboys, and he is now expected to be sidelined for at least a month after being diagnosed with a sprained MCL, according to NFL Insider Adam Schefter. The five-time Pro Bowler dealt with a similar injury last season that kept him out of the final six games, and despite the fact that the Saints signed running back Travis Etienne Jr. to a four-year, $48 million contract in free agency, Kamara was expected to have a significant role in Kellen Moore's up-tempo offense. New Orleans opens the regular season against the Detroit Lions on September 13, and Kamara's status is now in doubt not only for that game but, at 31 years old, concerns about any lingering health issues are amplified. Amid what had been reported as a strong training camp, Kamara had risen to RotoBaller's RB53, but Wednesday's injury update will likely see him fall off draft boards entirely.",
-      "metadata": {
-        "description": "New Orleans Saints running back Alvin Kamara (knee) left Tuesday's joint practice with the Cowboys, and he is now expected to be sidelined for at least a month after being diagnosed with a sprained MCL, according to NFL Insider Adam Schefter. The five-time Pro Bowler dealt with a similar injury last season that kept him out of the final six games, and despite the fact that the Saints signed running back Travis Etienne Jr. to a four-year, $48 million contract in free agency, Kamara was expected to have a significant role in Kellen Moore's up-tempo offense. New Orleans opens the regular season against the Detroit Lions on September 13, and Kamara's status is now in doubt not only for that game but, at 31 years old, concerns about any lingering health issues are amplified. Amid what had been reported as a strong training camp, Kamara had risen to RotoBaller's RB53, but Wednesday's injury update will likely see him fall off draft boards entirely.",
-        "title": "Alvin Kamara Expected to Be Sidelined at Least a Month",
-        "topic_id": "1395802488052944896",
-        "url": "https://www.rotoballer.com/player-news/alvin-kamara-expected-to-be-sidelined-at-least-a-month/1911807"
-      },
-      "nfl_team": "NO",
-      "player_id": "4035",
-      "player_name": "Alvin Kamara",
-      "position": "RB",
-      "published": 1787133008000,
-      "source": "rotoballer",
-      "source_key": "218919",
-      "story_id": "nfl|4035|rotoballer|218919|1787133008000",
-      "title": "Alvin Kamara Expected to Be Sidelined at Least a Month",
-      "url": "https://www.rotoballer.com/player-news/alvin-kamara-expected-to-be-sidelined-at-least-a-month/1911807"
-    },
-    {
-      "analysis": null,
-      "description": "Throughout much of training camp, Houston Texans running back David Montgomery has had his workload managed, with the coaching staff aiming to keep him fresh for the regular season. During Tuesday's joint practice with the Raiders, however, he provided a reminder of what he can do when unleashed, with Texans analyst John Harris calling him the story of the day. Montgomery impressed with his combination of physicality and burst, taking a number of carries through the teeth of the Raiders' defense. In what was one of Montgomery's most active days of camp, it was still second-year running back Woody Marks who saw the majority of passing work, perhaps offering an indication of how offensive coordinator Nick Caley intends to deploy his backs in the regular season. Montgomery has topped 35 receptions only once in the past four seasons, averaging 27.5 catches per year over that span, but with an expectation to see most of the Texans' high-value red zone carries, he still offers spike week potential from the middle rounds of 2026 drafts, making RotoBaller's RB21 an attractive option as a second running back or flex play.",
-      "metadata": {
-        "description": "Throughout much of training camp, Houston Texans running back David Montgomery has had his workload managed, with the coaching staff aiming to keep him fresh for the regular season. During Tuesday's joint practice with the Raiders, however, he provided a reminder of what he can do when unleashed, with Texans analyst John Harris calling him the story of the day. Montgomery impressed with his combination of physicality and burst, taking a number of carries through the teeth of the Raiders' defense. In what was one of Montgomery's most active days of camp, it was still second-year running back Woody Marks who saw the majority of passing work, perhaps offering an indication of how offensive coordinator Nick Caley intends to deploy his backs in the regular season. Montgomery has topped 35 receptions only once in the past four seasons, averaging 27.5 catches per year over that span, but with an expectation to see most of the Texans' high-value red zone carries, he still offers spike week potential from the middle rounds of 2026 drafts, making RotoBaller's RB21 an attractive option as a second running back or flex play.",
-        "title": "Texans Keeping David Montgomery Fresh Through Limited Touches",
-        "topic_id": "1395793679267942400",
-        "url": "https://www.rotoballer.com/player-news/texans-keeping-david-montgomery-fresh-through-limited-touches/1911751"
-      },
-      "nfl_team": "HOU",
-      "player_id": "5892",
-      "player_name": "David Montgomery",
-      "position": "RB",
-      "published": 1787130733000,
-      "source": "rotoballer",
-      "source_key": "218916",
-      "story_id": "nfl|5892|rotoballer|218916|1787130733000",
-      "title": "Texans Keeping David Montgomery Fresh Through Limited Touches",
-      "url": "https://www.rotoballer.com/player-news/texans-keeping-david-montgomery-fresh-through-limited-touches/1911751"
-    },
-    {
-      "analysis": "Horton is likely on a schedule during training camp working his way back from his injury. ",
-      "description": "Tory Horton did not practice on Monday. ",
-      "metadata": {
-        "analysis": "Horton is likely on a schedule during training camp working his way back from his injury. ",
-        "description": "Tory Horton did not practice on Monday. ",
-        "title": "Tory Horton misses practice Monday ",
-        "topic_id": "1395705602264543232",
-        "url": "https://www.fantasypros.com/nfl/news/603216/tory-horton-misses-practice-monday.php"
-      },
-      "nfl_team": "SEA",
-      "player_id": "12497",
-      "player_name": "Tory Horton",
-      "position": "WR",
-      "published": 1787124655844,
-      "source": "fantasy_pros",
-      "source_key": "603216",
-      "story_id": "nfl|12497|fantasy_pros|603216|1787124655844",
-      "title": "Tory Horton misses practice Monday ",
-      "url": "https://www.fantasypros.com/nfl/news/603216/tory-horton-misses-practice-monday.php"
-    },
-    {
-      "analysis": "Dell remains on a schedule during training camp as he works his way back to full health. ",
-      "description": "Tank Dell did not practice on Tuesday. ",
-      "metadata": {
-        "analysis": "Dell remains on a schedule during training camp as he works his way back to full health. ",
-        "description": "Tank Dell did not practice on Tuesday. ",
-        "title": "Tank Dell misses practice Tuesday ",
-        "topic_id": "1395700563085115392",
-        "url": "https://www.fantasypros.com/nfl/news/603201/tank-dell-misses-practice-tuesday.php"
-      },
-      "nfl_team": "HOU",
-      "player_id": "9502",
-      "player_name": "Tank Dell",
-      "position": "WR",
-      "published": 1787123454407,
-      "source": "fantasy_pros",
-      "source_key": "603201",
-      "story_id": "nfl|9502|fantasy_pros|603201|1787123454407",
-      "title": "Tank Dell misses practice Tuesday ",
-      "url": "https://www.fantasypros.com/nfl/news/603201/tank-dell-misses-practice-tuesday.php"
     }
   ]
 }
