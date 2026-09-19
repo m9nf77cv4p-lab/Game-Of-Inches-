@@ -1,35 +1,36 @@
 {
-  "last_checked_at": "2026-09-19T09:15:28Z",
+  "last_checked_at": "2026-09-19T13:12:44Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 290,
   "new_story_ids": [
-    "nfl|11560|rotoballer|221506|1789782436000",
-    "nfl|11564|rotoballer|221505|1789781978000",
-    "nfl|11596|rotoballer|221164|1789511967000",
-    "nfl|11596|rotowire|637448|1789438548000",
-    "nfl|11596|rotowire|637982|1789778497000",
-    "nfl|11620|rotoballer|221513|1789784705000",
-    "nfl|11834|rotoballer|221498|1789779245000",
-    "nfl|12517|rotoballer|221511|1789784165000",
-    "nfl|12519|rotoballer|221508|1789783630000",
-    "nfl|12529|rotoballer|221512|1789784106000",
-    "nfl|12534|rotoballer|221516|1789785194000",
-    "nfl|13287|rotoballer|221526|1789792566000",
-    "nfl|13414|rotoballer|221502|1789780645000",
-    "nfl|2216|rotoballer|221504|1789781106000",
-    "nfl|3198|rotoballer|221524|1789790526000",
-    "nfl|3214|rotoballer|221517|1789785095000",
-    "nfl|3257|rotoballer|221525|1789791126000",
-    "nfl|4034|rotoballer|221499|1789779545000",
-    "nfl|4177|rotoballer|221515|1789784825000",
-    "nfl|4217|rotoballer|221519|1789785421000",
-    "nfl|4881|rotoballer|221523|1789787706000",
-    "nfl|5872|rotoballer|221509|1789783626000",
-    "nfl|7002|rotoballer|221497|1789779305000",
-    "nfl|7611|rotoballer|221507|1789783145000",
-    "nfl|8121|rotoballer|221510|1789784344000",
-    "nfl|9482|rotoballer|221449|1789758906000",
-    "nfl|9501|rotoballer|221514|1789784645000"
+    "nfl|10218|rotoballer|221539|1789803489000",
+    "nfl|10232|rotoballer|221530|1789797245000",
+    "nfl|11533|rotoballer|221548|1789805133000",
+    "nfl|11628|rotoballer|221529|1789795626000",
+    "nfl|11783|rotoballer|221552|1789805842000",
+    "nfl|12474|rotoballer|221536|1789802226000",
+    "nfl|12506|rotoballer|221540|1789803727000",
+    "nfl|12518|rotoballer|221558|1789807574000",
+    "nfl|13296|rotoballer|221559|1789808673000",
+    "nfl|13298|rotoballer|221542|1789802406000",
+    "nfl|3294|rotoballer|221546|1789804415000",
+    "nfl|3451|rotoballer|221555|1789805947000",
+    "nfl|5001|rotoballer|221549|1789805071000",
+    "nfl|5012|rotoballer|221531|1789797726000",
+    "nfl|5892|rotoballer|221535|1789801446000",
+    "nfl|6783|rotoballer|221538|1789803012000",
+    "nfl|6786|rotoballer|221543|1789804028000",
+    "nfl|6813|rotoballer|221554|1789806010000",
+    "nfl|7569|rotoballer|221534|1789800726000",
+    "nfl|7569|rotoballer|221544|1789803970000",
+    "nfl|7571|rotoballer|221551|1789805237000",
+    "nfl|7588|rotoballer|221550|1789805474000",
+    "nfl|8110|rotoballer|221547|1789804687000",
+    "nfl|8130|rotoballer|221533|1789799345000",
+    "nfl|8132|rotoballer|221527|1789794305000",
+    "nfl|8137|rotoballer|221541|1789803607000",
+    "nfl|8142|rotoballer|221556|1789806337000",
+    "nfl|9500|rotoballer|221557|1789807030000"
   ],
   "schema_version": 1,
   "source": {
@@ -39,6 +40,566 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Miami Dolphins wide receiver Caleb Douglas caught five of his seven targets in Week 1 to lead the team in catches and receiving yards. The rookie third-round pick from Texas Tech looked ready to be the team's go-to option in the passing game, and he makes a solid FLEX option in deep leagues in this week's matchup with the 49ers. He played 51 of Miami's 56 offensive snaps, a 91% share, after earning a starting job before the opener, and he will likely be heavily involved again in Week 2. He has a tough matchup against the 49ers' secondary, but his workload and upside make him one of the few Dolphins worth considering for fantasy this week. Douglas is the No. 43 WR this week in RotoBaller's rankings, making him a fringe starter in most leagues as he continues to establish himself as the team's top option in the passing game.",
+      "metadata": {
+        "description": "Miami Dolphins wide receiver Caleb Douglas caught five of his seven targets in Week 1 to lead the team in catches and receiving yards. The rookie third-round pick from Texas Tech looked ready to be the team's go-to option in the passing game, and he makes a solid FLEX option in deep leagues in this week's matchup with the 49ers. He played 51 of Miami's 56 offensive snaps, a 91% share, after earning a starting job before the opener, and he will likely be heavily involved again in Week 2. He has a tough matchup against the 49ers' secondary, but his workload and upside make him one of the few Dolphins worth considering for fantasy this week. Douglas is the No. 43 WR this week in RotoBaller's rankings, making him a fringe starter in most leagues as he continues to establish himself as the team's top option in the passing game.",
+        "title": "Caleb Douglas Is a Deep League FLEX Option in Week 2",
+        "topic_id": "1407025113454362624",
+        "url": "https://www.rotoballer.com/player-news/caleb-douglas-is-a-deep-league-flex-option-in-week-2/1944857"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13296",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "published": 1789808673000,
+      "source": "rotoballer",
+      "source_key": "221559",
+      "story_id": "nfl|13296|rotoballer|221559|1789808673000",
+      "title": "Caleb Douglas Is a Deep League FLEX Option in Week 2",
+      "url": "https://www.rotoballer.com/player-news/caleb-douglas-is-a-deep-league-flex-option-in-week-2/1944857"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts tight end Tyler Warren could easily lead his team in targets in Week 2, were it an easier matchup. The Colts head on the road to face the Kansas City Chiefs, who just completely dominated the Denver Broncos in Week 1. KC was a tough defense for opposing tight ends to crack last season -- they allowed under 10.0 PPR fantasy points per game to the position, which ranks among the fewest in the NFL. Warren caught three of his five targets for just 13 receiving yards in Week 1, though he did score a touchdown. The purported rushing role for him that many touted as something that would add to his upside ahead of his rookie season never materialized. A team that has running back Jonathan Taylor in the backfield probably shouldn't be getting cute giving handoffs to a tight end, anyway. Warren still has top-12 upside at his position, but will need the passing offense to take a step up to pay off in starting lineups in Week 2. Still, he should see plenty of looks in the passing game.",
+      "metadata": {
+        "description": "Indianapolis Colts tight end Tyler Warren could easily lead his team in targets in Week 2, were it an easier matchup. The Colts head on the road to face the Kansas City Chiefs, who just completely dominated the Denver Broncos in Week 1. KC was a tough defense for opposing tight ends to crack last season -- they allowed under 10.0 PPR fantasy points per game to the position, which ranks among the fewest in the NFL. Warren caught three of his five targets for just 13 receiving yards in Week 1, though he did score a touchdown. The purported rushing role for him that many touted as something that would add to his upside ahead of his rookie season never materialized. A team that has running back Jonathan Taylor in the backfield probably shouldn't be getting cute giving handoffs to a tight end, anyway. Warren still has top-12 upside at his position, but will need the passing offense to take a step up to pay off in starting lineups in Week 2. Still, he should see plenty of looks in the passing game.",
+        "title": "Tyler Warren A Low-End TE1 For Week 2 at Chiefs",
+        "topic_id": "1407021338534674432",
+        "url": "https://www.rotoballer.com/player-news/tyler-warren-a-low-end-te1-for-week-2-at-chiefs/1944845"
+      },
+      "nfl_team": "IND",
+      "player_id": "12518",
+      "player_name": "Tyler Warren",
+      "position": "TE",
+      "published": 1789807574000,
+      "source": "rotoballer",
+      "source_key": "221558",
+      "story_id": "nfl|12518|rotoballer|221558|1789807574000",
+      "title": "Tyler Warren A Low-End TE1 For Week 2 at Chiefs",
+      "url": "https://www.rotoballer.com/player-news/tyler-warren-a-low-end-te1-for-week-2-at-chiefs/1944845"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Josh Downs didn't do much in Week 1 against the Baltimore Ravens, catching just two of his four targets for 37 receiving yards and finishing with only 5.7 PPR fantasy points. It's not all doom and gloom, though. The Ravens totally dominated the Colts defense on the ground, and dominated time of possession. Additionally, Colts quarterback Daniel Jones tore his Achilles tendon late last offseason, and he's still working his way back to full health. Downs is typically a very efficient receiver on a yards per route basis, though he mostly plays in the slot, meaning he's off the field for 2WR sets while WRs Alec Pierce (heel) and Keenan Allen stay on the field, since they're better blockers. Downs is the third option in this passing offense, after Pierce and tight end Tyler Warren. He can be started in deep PPR leagues for his upside, though he may need some time to get going this season on a struggling offense. He's still a very good short-to-intermediate route runner with excellent change-of-direction ability.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Josh Downs didn't do much in Week 1 against the Baltimore Ravens, catching just two of his four targets for 37 receiving yards and finishing with only 5.7 PPR fantasy points. It's not all doom and gloom, though. The Ravens totally dominated the Colts defense on the ground, and dominated time of possession. Additionally, Colts quarterback Daniel Jones tore his Achilles tendon late last offseason, and he's still working his way back to full health. Downs is typically a very efficient receiver on a yards per route basis, though he mostly plays in the slot, meaning he's off the field for 2WR sets while WRs Alec Pierce (heel) and Keenan Allen stay on the field, since they're better blockers. Downs is the third option in this passing offense, after Pierce and tight end Tyler Warren. He can be started in deep PPR leagues for his upside, though he may need some time to get going this season on a struggling offense. He's still a very good short-to-intermediate route runner with excellent change-of-direction ability.",
+        "title": "Josh Downs A Deep League Starting Option For Week 2 at Chiefs",
+        "topic_id": "1407018821524471808",
+        "url": "https://www.rotoballer.com/player-news/josh-downs-a-deep-league-starting-option-for-week-2-at-chiefs/1944842"
+      },
+      "nfl_team": "IND",
+      "player_id": "9500",
+      "player_name": "Josh Downs",
+      "position": "WR",
+      "published": 1789807030000,
+      "source": "rotoballer",
+      "source_key": "221557",
+      "story_id": "nfl|9500|rotoballer|221557|1789807030000",
+      "title": "Josh Downs A Deep League Starting Option For Week 2 at Chiefs",
+      "url": "https://www.rotoballer.com/player-news/josh-downs-a-deep-league-starting-option-for-week-2-at-chiefs/1944842"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Alec Pierce (heel) recovered enough from an offseason surgery on his lower leg to play in his team's Week 1 contest. He hauled in four of his six targets for 61 yards in that game, totaling 10.1 PPR fantasy points. He's reprising his role as one of the best deep threats in the NFL, as he's averaged over 20 yards per reception each season over the last two seasons. When healthy, he's the clear WR1 for his team, and he's likely to continue to improve as the season goes on. There was a lot of skepticism about his potential return to health this year, as he was held out of practice and visibly limping as recently as a few weeks before the season started. Week 2 presents a difficult matchup with the Kansas City Chiefs defense. Pierce seems to be doing well, though Colts quarterback Daniel Jones is also working back from an injury, and will need to be on top of his game for Pierce to have a great day. The fifth-year wideout checks in as a risky WR3/flex in fantasy football for this contest.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Alec Pierce (heel) recovered enough from an offseason surgery on his lower leg to play in his team's Week 1 contest. He hauled in four of his six targets for 61 yards in that game, totaling 10.1 PPR fantasy points. He's reprising his role as one of the best deep threats in the NFL, as he's averaged over 20 yards per reception each season over the last two seasons. When healthy, he's the clear WR1 for his team, and he's likely to continue to improve as the season goes on. There was a lot of skepticism about his potential return to health this year, as he was held out of practice and visibly limping as recently as a few weeks before the season started. Week 2 presents a difficult matchup with the Kansas City Chiefs defense. Pierce seems to be doing well, though Colts quarterback Daniel Jones is also working back from an injury, and will need to be on top of his game for Pierce to have a great day. The fifth-year wideout checks in as a risky WR3/flex in fantasy football for this contest.",
+        "title": "Alec Pierce A Deep League Start, Still Working Back From Injury",
+        "topic_id": "1407015046948585472",
+        "url": "https://www.rotoballer.com/player-news/alec-pierce-a-deep-league-start-still-working-back-from-injury/1944837"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1789806337000,
+      "source": "rotoballer",
+      "source_key": "221556",
+      "story_id": "nfl|8142|rotoballer|221556|1789806337000",
+      "title": "Alec Pierce A Deep League Start, Still Working Back From Injury",
+      "url": "https://www.rotoballer.com/player-news/alec-pierce-a-deep-league-start-still-working-back-from-injury/1944837"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts running back Jonathan Taylor is a must-start running back with RB1 overall potential in Week 2 against the Kansas City Chiefs. \"RB1 overall potential\" is a bit of a formality in this case, as without pass-catching upside and against a defense that absolutely dominated in Week 1, it may be tough sledding for Taylor. However, he's one of the NFL's best running backs when healthy, and he scored 25.1 PPR fantasy points in Week 1 by rushing 19 times for 98 yards and two touchdowns and catching three of his four targets for 23 yards. He lost a fumble in that game, but the Colts won't stop giving him the ball because of it. The only thing he \"lacks\" from a fantasy perspective is elite receiving upside -- he doesn't get fed passes like RBs Bijan Robinson and Jahmyr Gibbs of the Atlanta Falcons and Detroit Lions do. And Taylor is a game script-sensitive player, as he tends to have his monster games in wins. Still, there isn't a world in which Taylor shouldn't be locked in to starting lineups as an RB in fantasy football for Week 2, and his upside is fantastic.",
+      "metadata": {
+        "description": "Indianapolis Colts running back Jonathan Taylor is a must-start running back with RB1 overall potential in Week 2 against the Kansas City Chiefs. \"RB1 overall potential\" is a bit of a formality in this case, as without pass-catching upside and against a defense that absolutely dominated in Week 1, it may be tough sledding for Taylor. However, he's one of the NFL's best running backs when healthy, and he scored 25.1 PPR fantasy points in Week 1 by rushing 19 times for 98 yards and two touchdowns and catching three of his four targets for 23 yards. He lost a fumble in that game, but the Colts won't stop giving him the ball because of it. The only thing he \"lacks\" from a fantasy perspective is elite receiving upside -- he doesn't get fed passes like RBs Bijan Robinson and Jahmyr Gibbs of the Atlanta Falcons and Detroit Lions do. And Taylor is a game script-sensitive player, as he tends to have his monster games in wins. Still, there isn't a world in which Taylor shouldn't be locked in to starting lineups as an RB in fantasy football for Week 2, and his upside is fantastic.",
+        "title": "Jonathan Taylor A Fantasy RB1 Even In Tough Week 2 Matchup",
+        "topic_id": "1407013788514897920",
+        "url": "https://www.rotoballer.com/player-news/jonathan-taylor-a-fantasy-rb1-even-in-tough-week-2-matchup/1944828"
+      },
+      "nfl_team": "IND",
+      "player_id": "6813",
+      "player_name": "Jonathan Taylor",
+      "position": "RB",
+      "published": 1789806010000,
+      "source": "rotoballer",
+      "source_key": "221554",
+      "story_id": "nfl|6813|rotoballer|221554|1789806010000",
+      "title": "Jonathan Taylor A Fantasy RB1 Even In Tough Week 2 Matchup",
+      "url": "https://www.rotoballer.com/player-news/jonathan-taylor-a-fantasy-rb1-even-in-tough-week-2-matchup/1944828"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans kicker Ka'imi Fairbairn knocked through a 58-yard field goal in Week 1 and converted all four of his extra point attempts in his team's 36-31 loss to the Bills. He'll be at home at Reliant Stadium for a second straight week in Week 2 against the Bengals, who showed huge improvement on defense in Week 1 against the Bengals. The Texans' offense will be without star WR Nico Collins (hamstring), which lowers the team's overall scoring potential a bit. Even with a slightly lower ceiling, Fairbairn is still consistent enough to be a starter in most leagues, especially since he's kicking indoors. He checks in as RotoBaller's K No. 13 for Week 2.",
+      "metadata": {
+        "description": "Houston Texans kicker Ka'imi Fairbairn knocked through a 58-yard field goal in Week 1 and converted all four of his extra point attempts in his team's 36-31 loss to the Bills. He'll be at home at Reliant Stadium for a second straight week in Week 2 against the Bengals, who showed huge improvement on defense in Week 1 against the Bengals. The Texans' offense will be without star WR Nico Collins (hamstring), which lowers the team's overall scoring potential a bit. Even with a slightly lower ceiling, Fairbairn is still consistent enough to be a starter in most leagues, especially since he's kicking indoors. He checks in as RotoBaller's K No. 13 for Week 2.",
+        "title": "Ka'imi Fairbairn Is a Fringe Starter in Week 2",
+        "topic_id": "1407013788577812480",
+        "url": "https://www.rotoballer.com/player-news/kaimi-fairbairn-is-a-fringe-starter-in-week-2/1944826"
+      },
+      "nfl_team": "HOU",
+      "player_id": "3451",
+      "player_name": "Ka'imi Fairbairn",
+      "position": "K",
+      "published": 1789805947000,
+      "source": "rotoballer",
+      "source_key": "221555",
+      "story_id": "nfl|3451|rotoballer|221555|1789805947000",
+      "title": "Ka'imi Fairbairn Is a Fringe Starter in Week 2",
+      "url": "https://www.rotoballer.com/player-news/kaimi-fairbairn-is-a-fringe-starter-in-week-2/1944826"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver Ryan Flournoy received praise last season for a handful of breakout games he put on film. But he's potentially the fourth (or fifth) option in the passing game for a team that features WRs CeeDee Lamb and George Pickens, tight end Jake Ferguson, and running back Javonte Williams. Flournoy is an ancillary piece in this offense, and would need to join a different team to have more opportunities in the passing game if none of those other players got injured. Another option would be the Cowboys offense having a gargantuan day against the Washington Commanders, their opponent in Week 2. The problem with that is that their Week 1 performance suggests that NFL defenses may have adjusted to Cowboys head coach Brian Schottenheimer's offensive schemes. The results of that wouldn't be pretty. Flournoy should continue to be stashed in dynasty fantasy football leagues, but in normal size redraft leagues, he's better off on waivers.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver Ryan Flournoy received praise last season for a handful of breakout games he put on film. But he's potentially the fourth (or fifth) option in the passing game for a team that features WRs CeeDee Lamb and George Pickens, tight end Jake Ferguson, and running back Javonte Williams. Flournoy is an ancillary piece in this offense, and would need to join a different team to have more opportunities in the passing game if none of those other players got injured. Another option would be the Cowboys offense having a gargantuan day against the Washington Commanders, their opponent in Week 2. The problem with that is that their Week 1 performance suggests that NFL defenses may have adjusted to Cowboys head coach Brian Schottenheimer's offensive schemes. The results of that wouldn't be pretty. Flournoy should continue to be stashed in dynasty fantasy football leagues, but in normal size redraft leagues, he's better off on waivers.",
+        "title": "Ryan Flournoy A WR4 For Week 2 vs Commanders",
+        "topic_id": "1407012529368055808",
+        "url": "https://www.rotoballer.com/player-news/ryan-flournoy-a-wr4-for-week-2-vs-commanders/1944824"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11783",
+      "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "published": 1789805842000,
+      "source": "rotoballer",
+      "source_key": "221552",
+      "story_id": "nfl|11783|rotoballer|221552|1789805842000",
+      "title": "Ryan Flournoy A WR4 For Week 2 vs Commanders",
+      "url": "https://www.rotoballer.com/player-news/ryan-flournoy-a-wr4-for-week-2-vs-commanders/1944824"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys running back Javonte Williams was the only player that had a great day for fantasy football in Week 1 against the New York Giants. He rushed 12 times for 41 yards and a touchdown and caught all five of his targets for 31 yards and another score. The touchdowns saved his day from a fantasy perspective, but being a team's clear No. 1 goal line back with very little competition in the backfield tends to do that. He also has an excellent receiving role, and Dallas doesn't have a high-end pass-catching back to take that away from him. He figures to be plenty involved in the offense in Week 2, as Dallas is facing the Washington Commanders, who had a very porous defense last season. Williams scored double-digit PPR fantasy points in both games against them last season, and should see another heavy workload in a must-win home matchup with a bitter divisional rival. Cowboys head coach Brian Schottenheimer is in his second year as the leader of this team, and this game will go a long way in telling whether his offense has been \"solved\" by NFL defenses after just one season.",
+      "metadata": {
+        "description": "Dallas Cowboys running back Javonte Williams was the only player that had a great day for fantasy football in Week 1 against the New York Giants. He rushed 12 times for 41 yards and a touchdown and caught all five of his targets for 31 yards and another score. The touchdowns saved his day from a fantasy perspective, but being a team's clear No. 1 goal line back with very little competition in the backfield tends to do that. He also has an excellent receiving role, and Dallas doesn't have a high-end pass-catching back to take that away from him. He figures to be plenty involved in the offense in Week 2, as Dallas is facing the Washington Commanders, who had a very porous defense last season. Williams scored double-digit PPR fantasy points in both games against them last season, and should see another heavy workload in a must-win home matchup with a bitter divisional rival. Cowboys head coach Brian Schottenheimer is in his second year as the leader of this team, and this game will go a long way in telling whether his offense has been \"solved\" by NFL defenses after just one season.",
+        "title": "Javonte Williams An RB1 In Week 2 vs Commanders",
+        "topic_id": "1407011271206789120",
+        "url": "https://www.rotoballer.com/player-news/javonte-williams-an-rb1-in-week-2-vs-commanders/1944811"
+      },
+      "nfl_team": "DAL",
+      "player_id": "7588",
+      "player_name": "Javonte Williams",
+      "position": "RB",
+      "published": 1789805474000,
+      "source": "rotoballer",
+      "source_key": "221550",
+      "story_id": "nfl|7588|rotoballer|221550|1789805474000",
+      "title": "Javonte Williams An RB1 In Week 2 vs Commanders",
+      "url": "https://www.rotoballer.com/player-news/javonte-williams-an-rb1-in-week-2-vs-commanders/1944811"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Rashod Bateman is expected to be the Ravens' primary wide receiver during their home opener in Week 2 against the New Orleans Saints. Bateman played 80% of Baltimore's offensive snaps in their 41-23 Week 1 win over the Indianapolis Colts and, most importantly, posted an 85% snap share before halftime when both Zay Flowers (hamstring) and Ja'Kobi Lane (wrist) were still in the game. With Flowers doubtful for Sunday and Lane on IR, Bateman sits atop the wide receiver depth chart in Week 2. Even though he was only targeted once on his 26 total routes, which were the most run on the team, and failed to record a reception in Week 1, Bateman has the clearest path to fantasy relevance among all Ravens wide receivers against the Saints. Last week against the Detroit Lions, the Saints gave up over 30 fantasy points to the wide receiver position and 204 total passing yards, which demonstrates the Saints defense is exploitable through the air. The sixth-year receiver had a down year, as did much of the Ravens' offense, in 2025, but Bateman logged six WR2 performances or better in 2024, proving that he has the capacity to provide fantasy value. Nonetheless, Bateman is a fringe WR4/Flex option in Week 2 and is best suited for managers in deep leagues.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Rashod Bateman is expected to be the Ravens' primary wide receiver during their home opener in Week 2 against the New Orleans Saints. Bateman played 80% of Baltimore's offensive snaps in their 41-23 Week 1 win over the Indianapolis Colts and, most importantly, posted an 85% snap share before halftime when both Zay Flowers (hamstring) and Ja'Kobi Lane (wrist) were still in the game. With Flowers doubtful for Sunday and Lane on IR, Bateman sits atop the wide receiver depth chart in Week 2. Even though he was only targeted once on his 26 total routes, which were the most run on the team, and failed to record a reception in Week 1, Bateman has the clearest path to fantasy relevance among all Ravens wide receivers against the Saints. Last week against the Detroit Lions, the Saints gave up over 30 fantasy points to the wide receiver position and 204 total passing yards, which demonstrates the Saints defense is exploitable through the air. The sixth-year receiver had a down year, as did much of the Ravens' offense, in 2025, but Bateman logged six WR2 performances or better in 2024, proving that he has the capacity to provide fantasy value. Nonetheless, Bateman is a fringe WR4/Flex option in Week 2 and is best suited for managers in deep leagues.",
+        "title": "Rashod Bateman Poised to Lead Receiving Corps in Week 2",
+        "topic_id": "1407011271223566336",
+        "url": "https://www.rotoballer.com/player-news/rashod-bateman-poised-to-lead-receiving-corps-in-week-2/1944805"
+      },
+      "nfl_team": "BAL",
+      "player_id": "7571",
+      "player_name": "Rashod Bateman",
+      "position": "WR",
+      "published": 1789805237000,
+      "source": "rotoballer",
+      "source_key": "221551",
+      "story_id": "nfl|7571|rotoballer|221551|1789805237000",
+      "title": "Rashod Bateman Poised to Lead Receiving Corps in Week 2",
+      "url": "https://www.rotoballer.com/player-news/rashod-bateman-poised-to-lead-receiving-corps-in-week-2/1944805"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys placekicker Brandon Aubrey is still worth starting in fantasy football lineups in Week 2. The Cowboys will play at home, where they tend to do well on offense, against the Washington Commanders on Sunday. Last season, Aubrey scored a whopping 34 fantasy points across two contests against this divisional rival, making him an absolute must-start in those games. That was when Dallas' offense was firing on all cylinders, though. Hopefully, their Week 1 performance was just an aberration, or a slow start on the road before returning home to get back on track. Aubrey's magical first season was followed by a decline in accuracy for his second two seasons, but he still was one of the more accurate kickers in the NFL. Of greater concern is the Cowboys offense and defense overall -- their defense was unable to get the Giants off the field in Week 2, leading the Giants to grind out long drives and Dallas to only see two possessions in the second half. Aubrey may no longer be the elite kicker option he once was in fantasy, but he could still be attached to a good offense, and is start-worthy in fantasy for Week 2.",
+      "metadata": {
+        "description": "Dallas Cowboys placekicker Brandon Aubrey is still worth starting in fantasy football lineups in Week 2. The Cowboys will play at home, where they tend to do well on offense, against the Washington Commanders on Sunday. Last season, Aubrey scored a whopping 34 fantasy points across two contests against this divisional rival, making him an absolute must-start in those games. That was when Dallas' offense was firing on all cylinders, though. Hopefully, their Week 1 performance was just an aberration, or a slow start on the road before returning home to get back on track. Aubrey's magical first season was followed by a decline in accuracy for his second two seasons, but he still was one of the more accurate kickers in the NFL. Of greater concern is the Cowboys offense and defense overall -- their defense was unable to get the Giants off the field in Week 2, leading the Giants to grind out long drives and Dallas to only see two possessions in the second half. Aubrey may no longer be the elite kicker option he once was in fantasy, but he could still be attached to a good offense, and is start-worthy in fantasy for Week 2.",
+        "title": "Brandon Aubrey Still A Starting Fantasy Kicker For Week 2",
+        "topic_id": "1407010012534001664",
+        "url": "https://www.rotoballer.com/player-news/brandon-aubrey-still-a-starting-fantasy-kicker-for-week-2/1944801"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11533",
+      "player_name": "Brandon Aubrey",
+      "position": "K",
+      "published": 1789805133000,
+      "source": "rotoballer",
+      "source_key": "221548",
+      "story_id": "nfl|11533|rotoballer|221548|1789805133000",
+      "title": "Brandon Aubrey Still A Starting Fantasy Kicker For Week 2",
+      "url": "https://www.rotoballer.com/player-news/brandon-aubrey-still-a-starting-fantasy-kicker-for-week-2/1944801"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans tight end Dalton Schultz was already a featured piece in his team's passing game, but with Nico Collins (hamstring) ruled out for Week 2, he becomes an even better option with more opportunity to post a monster game against the Bengals. Schultz had Houston's second-most targets and catches in Week 1, behind only Collins, snagging four of his eight opportunities for 35 yards. He doesn't typically stretch the field with big gains, but he is a consistent PPR producer with a large enough workload set to come his way to make him a top-10 option this week. He also has a favorable matchup against the Cincinnati Bengals, who were one of the worst defenses against his position last year. Shultz is the No. 9 TE in RotoBaller's Week 2 rankings, making him a solid starter in most standard-sized leagues this week.",
+      "metadata": {
+        "description": "Houston Texans tight end Dalton Schultz was already a featured piece in his team's passing game, but with Nico Collins (hamstring) ruled out for Week 2, he becomes an even better option with more opportunity to post a monster game against the Bengals. Schultz had Houston's second-most targets and catches in Week 1, behind only Collins, snagging four of his eight opportunities for 35 yards. He doesn't typically stretch the field with big gains, but he is a consistent PPR producer with a large enough workload set to come his way to make him a top-10 option this week. He also has a favorable matchup against the Cincinnati Bengals, who were one of the worst defenses against his position last year. Shultz is the No. 9 TE in RotoBaller's Week 2 rankings, making him a solid starter in most standard-sized leagues this week.",
+        "title": "Dalton Schultz Is a Low-End TE1 Without Nico Collins",
+        "topic_id": "1407010012538195968",
+        "url": "https://www.rotoballer.com/player-news/dalton-schultz-is-a-low-end-te1-without-nico-collins/1944798"
+      },
+      "nfl_team": "HOU",
+      "player_id": "5001",
+      "player_name": "Dalton Schultz",
+      "position": "TE",
+      "published": 1789805071000,
+      "source": "rotoballer",
+      "source_key": "221549",
+      "story_id": "nfl|5001|rotoballer|221549|1789805071000",
+      "title": "Dalton Schultz Is a Low-End TE1 Without Nico Collins",
+      "url": "https://www.rotoballer.com/player-news/dalton-schultz-is-a-low-end-te1-without-nico-collins/1944798"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys tight end Jake Ferguson could be one of the more disappointing players at his position this season when all is said and done. He wasn't very involved in what little the Cowboys had of a passing game in Week 1, when he caught both of his two targets for just six yards and zero touchdowns. The stars of the passing game are wide receivers CeeDee Lamb and George Pickens, and even they didn't have great performances in Week 1. It was tough sledding for the whole offense. Week 2 presents a theoretically easier matchup against the Washington Commanders, who struggled against the pass last season. Dallas' offense did well in both games in 2025, putting up a combined 74 points across two games. The Commanders didn't significantly bolster their secondary, either. But Ferguson is often an afterthought in the game plan, as he's not a huge difference-maker at his position. He's better left on the bench outside of deep dynasty leagues.",
+      "metadata": {
+        "description": "Dallas Cowboys tight end Jake Ferguson could be one of the more disappointing players at his position this season when all is said and done. He wasn't very involved in what little the Cowboys had of a passing game in Week 1, when he caught both of his two targets for just six yards and zero touchdowns. The stars of the passing game are wide receivers CeeDee Lamb and George Pickens, and even they didn't have great performances in Week 1. It was tough sledding for the whole offense. Week 2 presents a theoretically easier matchup against the Washington Commanders, who struggled against the pass last season. Dallas' offense did well in both games in 2025, putting up a combined 74 points across two games. The Commanders didn't significantly bolster their secondary, either. But Ferguson is often an afterthought in the game plan, as he's not a huge difference-maker at his position. He's better left on the bench outside of deep dynasty leagues.",
+        "title": "Jake Ferguson Has Upside, But Plenty Of Risk In Week 2",
+        "topic_id": "1407008754821578752",
+        "url": "https://www.rotoballer.com/player-news/jake-ferguson-has-upside-but-plenty-of-risk-in-week-2/1944791"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8110",
+      "player_name": "Jake Ferguson",
+      "position": "TE",
+      "published": 1789804687000,
+      "source": "rotoballer",
+      "source_key": "221547",
+      "story_id": "nfl|8110|rotoballer|221547|1789804687000",
+      "title": "Jake Ferguson Has Upside, But Plenty Of Risk In Week 2",
+      "url": "https://www.rotoballer.com/player-news/jake-ferguson-has-upside-but-plenty-of-risk-in-week-2/1944791"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys quarterback Dak Prescott managed just 175 passing yards on 34 attempts, good for just over 5.1 yards per pass, against the New York Giants in Week 1. It was an overall sluggish start against what was one of the weaker pass defenses in the NFL last season. Dallas will return home for Week 2 for another divisional showdown, this time against the Washington Commanders, who allowed the fifth-most passing yards per game in the NFL last season. Prescott was potent against them last season, finishing with 23.3 and 22.7 fantasy points in their two matchups. Something feels different about this year's Cowboys offense, though -- despite having their starting running back and two star receivers healthy, they floundered against a team they put up 40 points against in Week 2 last season. Cowboys head coach Brian Schottenheimer didn't have his team prepared to compete in Week 1, as they were simply dominated by New York, though many of the problems stemmed from the Cowboys not being able to get off the field. Prescott remains a must-start in 2QB and superflex leagues, though he's a big risk to start in non-6 point passing TD leagues and 1QB contests.",
+      "metadata": {
+        "description": "Dallas Cowboys quarterback Dak Prescott managed just 175 passing yards on 34 attempts, good for just over 5.1 yards per pass, against the New York Giants in Week 1. It was an overall sluggish start against what was one of the weaker pass defenses in the NFL last season. Dallas will return home for Week 2 for another divisional showdown, this time against the Washington Commanders, who allowed the fifth-most passing yards per game in the NFL last season. Prescott was potent against them last season, finishing with 23.3 and 22.7 fantasy points in their two matchups. Something feels different about this year's Cowboys offense, though -- despite having their starting running back and two star receivers healthy, they floundered against a team they put up 40 points against in Week 2 last season. Cowboys head coach Brian Schottenheimer didn't have his team prepared to compete in Week 1, as they were simply dominated by New York, though many of the problems stemmed from the Cowboys not being able to get off the field. Prescott remains a must-start in 2QB and superflex leagues, though he's a big risk to start in non-6 point passing TD leagues and 1QB contests.",
+        "title": "Dak Prescott Should Be Productive In Week 2 vs Commanders",
+        "topic_id": "1407007495825686528",
+        "url": "https://www.rotoballer.com/player-news/dak-prescott-should-be-productive-in-week-2-vs-commanders/1944783"
+      },
+      "nfl_team": "DAL",
+      "player_id": "3294",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "published": 1789804415000,
+      "source": "rotoballer",
+      "source_key": "221546",
+      "story_id": "nfl|3294|rotoballer|221546|1789804415000",
+      "title": "Dak Prescott Should Be Productive In Week 2 vs Commanders",
+      "url": "https://www.rotoballer.com/player-news/dak-prescott-should-be-productive-in-week-2-vs-commanders/1944783"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver CeeDee Lamb salvaged what would have otherwise been a disappointing performance in Week 1 with a receiving touchdown. He finished with 15.4 PPR fantasy points. The Cowboys offense looked uncharacteristically bland in the loss to the New York Giants, but could be on the verge of getting back on track against another divisional rival, the Washington Commanders, in Week 2. Dallas was one of the best passing offenses in the NFL last season, and unless NFL defenses have completely solved Cowboys head coach Brian Schottenheimer's schemes, the Commanders defense presents a good opportunity for an explosive game. They were fifth-worst in the NFL in 2025 at slowing down opposing passers. Lamb played well against them in 2025, logging 31.6 PPR fantasy points across two contests by catching 10 of his 18 targets for 156 yards and a touchdown. He's a must-start wideout in all leagues in Week 2, though it looks like he may not pay off at his first-round ADP in fantasy football.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver CeeDee Lamb salvaged what would have otherwise been a disappointing performance in Week 1 with a receiving touchdown. He finished with 15.4 PPR fantasy points. The Cowboys offense looked uncharacteristically bland in the loss to the New York Giants, but could be on the verge of getting back on track against another divisional rival, the Washington Commanders, in Week 2. Dallas was one of the best passing offenses in the NFL last season, and unless NFL defenses have completely solved Cowboys head coach Brian Schottenheimer's schemes, the Commanders defense presents a good opportunity for an explosive game. They were fifth-worst in the NFL in 2025 at slowing down opposing passers. Lamb played well against them in 2025, logging 31.6 PPR fantasy points across two contests by catching 10 of his 18 targets for 156 yards and a touchdown. He's a must-start wideout in all leagues in Week 2, though it looks like he may not pay off at his first-round ADP in fantasy football.",
+        "title": "CeeDee Lamb A Must-Start WR For Week 2",
+        "topic_id": "1407006237521883136",
+        "url": "https://www.rotoballer.com/player-news/ceedee-lamb-a-must-start-wr-for-week-2/1944777"
+      },
+      "nfl_team": "DAL",
+      "player_id": "6786",
+      "player_name": "CeeDee Lamb",
+      "position": "WR",
+      "published": 1789804028000,
+      "source": "rotoballer",
+      "source_key": "221543",
+      "story_id": "nfl|6786|rotoballer|221543|1789804028000",
+      "title": "CeeDee Lamb A Must-Start WR For Week 2",
+      "url": "https://www.rotoballer.com/player-news/ceedee-lamb-a-must-start-wr-for-week-2/1944777"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Kayshon Boutte only made one catch in Week 1, but he'll need to be much more involved in Week 2, since Nico Collins (hamstring) is out. In his Texans debut, Boutte played 46% of snaps in Week 1, which was the third-highest total of Houston's WRs. He only had two targets and made one catch for 21 yards. C.J. Stroud will have to lean on Boutte, Jayline Noel, and Xavier Hutchinson much more in Week 2 after Collins dominated the target share with 10 looks in Week 1. Boutte definitely brings potential as a boom-or-bust deep-ball specialist, and more chances could result in him stepping into a larger role in Houston's offense for the rest of the year. He has a high ceiling without Collins, but he's still only RotoBaller's WR No. 46, so he's still only worth starting in deep leagues or if you are desperate for a FLEX play.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Kayshon Boutte only made one catch in Week 1, but he'll need to be much more involved in Week 2, since Nico Collins (hamstring) is out. In his Texans debut, Boutte played 46% of snaps in Week 1, which was the third-highest total of Houston's WRs. He only had two targets and made one catch for 21 yards. C.J. Stroud will have to lean on Boutte, Jayline Noel, and Xavier Hutchinson much more in Week 2 after Collins dominated the target share with 10 looks in Week 1. Boutte definitely brings potential as a boom-or-bust deep-ball specialist, and more chances could result in him stepping into a larger role in Houston's offense for the rest of the year. He has a high ceiling without Collins, but he's still only RotoBaller's WR No. 46, so he's still only worth starting in deep leagues or if you are desperate for a FLEX play.",
+        "title": "Kayshon Boutte Is Set for a Bigger Role Without Nico Collins",
+        "topic_id": "1407006237513494528",
+        "url": "https://www.rotoballer.com/player-news/kayshon-boutte-is-set-for-a-bigger-role-without-nico-collins/1944773"
+      },
+      "nfl_team": "HOU",
+      "player_id": "7569",
+      "player_name": "Nico Collins",
+      "position": "WR",
+      "published": 1789803970000,
+      "source": "rotoballer",
+      "source_key": "221544",
+      "story_id": "nfl|7569|rotoballer|221544|1789803970000",
+      "title": "Kayshon Boutte Is Set for a Bigger Role Without Nico Collins",
+      "url": "https://www.rotoballer.com/player-news/kayshon-boutte-is-set-for-a-bigger-role-without-nico-collins/1944773"
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns tight end Harold Fannin Jr. had a rough matchup in Week 1 against the Jacksonville Jaguars, as he was limited to three targets and two catches for 21 yards. It was a disappointing week for a tight end who was looked at as a fantasy sleeper at the position after a good year last year. Getting just three targets was the most disappointing part of the Week 1 performance, as he was expected to be more heavily involved in the offense. With three receivers -- Denzel Boston, KC Concepcion, and Jerry Jeudy -- all in the mix and demanding targets from Deshaun Watson it can be tough for Fannin Jr. to get his share. But look for that to change in Week 2 at the Tampa Bay Buccaneers. The Bucs defense allowed a nice game to Bengals tight end Mike Gesicki, who actually led the team in receiving. Expect Watson and the Browns offense to look to get Fannin Jr. involved in the game plan and give him some easy catches early on to get going and get him established. Fannin Jr. could be a sleeper target at the position for Week 2.",
+      "metadata": {
+        "description": "Cleveland Browns tight end Harold Fannin Jr. had a rough matchup in Week 1 against the Jacksonville Jaguars, as he was limited to three targets and two catches for 21 yards. It was a disappointing week for a tight end who was looked at as a fantasy sleeper at the position after a good year last year. Getting just three targets was the most disappointing part of the Week 1 performance, as he was expected to be more heavily involved in the offense. With three receivers -- Denzel Boston, KC Concepcion, and Jerry Jeudy -- all in the mix and demanding targets from Deshaun Watson it can be tough for Fannin Jr. to get his share. But look for that to change in Week 2 at the Tampa Bay Buccaneers. The Bucs defense allowed a nice game to Bengals tight end Mike Gesicki, who actually led the team in receiving. Expect Watson and the Browns offense to look to get Fannin Jr. involved in the game plan and give him some easy catches early on to get going and get him established. Fannin Jr. could be a sleeper target at the position for Week 2.",
+        "title": "Harold Fannin Jr. Could Be Sleeper Target for Week 2 at Bucs",
+        "topic_id": "1407004979637559296",
+        "url": "https://www.rotoballer.com/player-news/harold-fannin-jr-could-be-sleeper-target-for-week-2-at-bucs/1944768"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12506",
+      "player_name": "Harold Fannin",
+      "position": "TE",
+      "published": 1789803727000,
+      "source": "rotoballer",
+      "source_key": "221540",
+      "story_id": "nfl|12506|rotoballer|221540|1789803727000",
+      "title": "Harold Fannin Jr. Could Be Sleeper Target for Week 2 at Bucs",
+      "url": "https://www.rotoballer.com/player-news/harold-fannin-jr-could-be-sleeper-target-for-week-2-at-bucs/1944768"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver George Pickens got off to a slow start in Week 1 against divisional rival New York Giants when he hauled in just three of his six targets for a paltry 28 receiving yards. He figures to get back on track in Week 2, when Dallas takes on another divisional rival in the Washington Commanders at home. Washington lost 24-22 to the Philadelphia Eagles in Week 1, so both teams will be looking to right the course with a bounce-back win. The Commanders pass defense allowed the fifth-most passing yards in the NFL in 2025, while the Cowboys unit was the worst in the NFL. Pickens averaged 12.0 PPR fantasy points across his two contests against Washington last season. He's a startable WR2 if he can manage that again and haul in at least one touchdown. A fully healthy CeeDee Lamb might make it difficult for Pickens to be worth his ADP in fantasy drafts, but he should still be started in all leagues.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver George Pickens got off to a slow start in Week 1 against divisional rival New York Giants when he hauled in just three of his six targets for a paltry 28 receiving yards. He figures to get back on track in Week 2, when Dallas takes on another divisional rival in the Washington Commanders at home. Washington lost 24-22 to the Philadelphia Eagles in Week 1, so both teams will be looking to right the course with a bounce-back win. The Commanders pass defense allowed the fifth-most passing yards in the NFL in 2025, while the Cowboys unit was the worst in the NFL. Pickens averaged 12.0 PPR fantasy points across his two contests against Washington last season. He's a startable WR2 if he can manage that again and haul in at least one touchdown. A fully healthy CeeDee Lamb might make it difficult for Pickens to be worth his ADP in fantasy drafts, but he should still be started in all leagues.",
+        "title": "George Pickens Primed To Bounce Back In Week 2",
+        "topic_id": "1407004979645947904",
+        "url": "https://www.rotoballer.com/player-news/george-pickens-primed-to-bounce-back-in-week-2/1944763"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8137",
+      "player_name": "George Pickens",
+      "position": "WR",
+      "published": 1789803607000,
+      "source": "rotoballer",
+      "source_key": "221541",
+      "story_id": "nfl|8137|rotoballer|221541|1789803607000",
+      "title": "George Pickens Primed To Bounce Back In Week 2",
+      "url": "https://www.rotoballer.com/player-news/george-pickens-primed-to-bounce-back-in-week-2/1944763"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Xavier Hutchinson played the second-most snaps of all his team's WRs in Week 1, and with Nico Collins (hamstring) out in Week 2, Hutchinson will have to carry more of the workload against Cincinnati. Hutchinson also had the second-most targets of any WR and caught three of his six opportunities for 32 yards. While Jaylin Noel and Kayshon Boutte will also have to be more involved, Hutchinson could end up leading this receiver group in a tough matchup against the Bengals, who looked sharp in Week 1 against the Bucs. Hutchinson is the No. 69 WR in RotoBaller's Week 2 rankings, so he remains a very high-risk start despite the potential extra work. If you need a flier for DFS or in deep leagues, his potential extra work puts him on the radar, even though he remains high-risk.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Xavier Hutchinson played the second-most snaps of all his team's WRs in Week 1, and with Nico Collins (hamstring) out in Week 2, Hutchinson will have to carry more of the workload against Cincinnati. Hutchinson also had the second-most targets of any WR and caught three of his six opportunities for 32 yards. While Jaylin Noel and Kayshon Boutte will also have to be more involved, Hutchinson could end up leading this receiver group in a tough matchup against the Bengals, who looked sharp in Week 1 against the Bucs. Hutchinson is the No. 69 WR in RotoBaller's Week 2 rankings, so he remains a very high-risk start despite the potential extra work. If you need a flier for DFS or in deep leagues, his potential extra work puts him on the radar, even though he remains high-risk.",
+        "title": "Xavier Hutchinson In Line for More Work against the Bengals",
+        "topic_id": "1407003721195438080",
+        "url": "https://www.rotoballer.com/player-news/xavier-hutchinson-in-line-for-more-work-against-the-bengals/1944761"
+      },
+      "nfl_team": "HOU",
+      "player_id": "10218",
+      "player_name": "Xavier Hutchinson",
+      "position": "WR",
+      "published": 1789803489000,
+      "source": "rotoballer",
+      "source_key": "221539",
+      "story_id": "nfl|10218|rotoballer|221539|1789803489000",
+      "title": "Xavier Hutchinson In Line for More Work against the Bengals",
+      "url": "https://www.rotoballer.com/player-news/xavier-hutchinson-in-line-for-more-work-against-the-bengals/1944761"
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns wide receiver Jerry Jeudy was not heavily involved in Game 1 against the Jacksonville Jaguars. He caught two passes for 26 yards on four targets and was outplayed by fellow wide receivers Denzel Boston and KC Concepcion. That could be the case again in Week 2 when the Browns visit the Tampa Bay Buccaneers. Look for Jeudy to be third in line in the wide receiver pecking order behind Boston and Concepcion. He could get a few targets, but will have to make the most of those targets in order to make an impact at the Buccaneers. The Bucs defense is very solid and did a good job of keeping Ja'Marr Chase, Tee Higgins and the Bengals receivers in check in Week 1. The Bucs have a young but talented secondary that should do a good job of defending Jeudy and limiting his output in Week 2. If you need to start a Browns receiver, it might be the smart move to look towards Boston or Concepcion rather than Jeudy this week.",
+      "metadata": {
+        "description": "Cleveland Browns wide receiver Jerry Jeudy was not heavily involved in Game 1 against the Jacksonville Jaguars. He caught two passes for 26 yards on four targets and was outplayed by fellow wide receivers Denzel Boston and KC Concepcion. That could be the case again in Week 2 when the Browns visit the Tampa Bay Buccaneers. Look for Jeudy to be third in line in the wide receiver pecking order behind Boston and Concepcion. He could get a few targets, but will have to make the most of those targets in order to make an impact at the Buccaneers. The Bucs defense is very solid and did a good job of keeping Ja'Marr Chase, Tee Higgins and the Bengals receivers in check in Week 1. The Bucs have a young but talented secondary that should do a good job of defending Jeudy and limiting his output in Week 2. If you need to start a Browns receiver, it might be the smart move to look towards Boston or Concepcion rather than Jeudy this week.",
+        "title": "Jerry Jeudy Not Worthy of Start in Week 2 Matchup at Bucs",
+        "topic_id": "1407001203748982784",
+        "url": "https://www.rotoballer.com/player-news/jerry-jeudy-not-worthy-of-start-in-week-2-matchup-at-bucs/1944754"
+      },
+      "nfl_team": "CLE",
+      "player_id": "6783",
+      "player_name": "Jerry Jeudy",
+      "position": "WR",
+      "published": 1789803012000,
+      "source": "rotoballer",
+      "source_key": "221538",
+      "story_id": "nfl|6783|rotoballer|221538|1789803012000",
+      "title": "Jerry Jeudy Not Worthy of Start in Week 2 Matchup at Bucs",
+      "url": "https://www.rotoballer.com/player-news/jerry-jeudy-not-worthy-of-start-in-week-2-matchup-at-bucs/1944754"
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns wide receiver KC Concepcion Jr. was pretty involved in the game plan in Week 1 against the Jacksonville Jaguars and ended up with four catches for 43 yards on five targets, rushed the ball three times for 15 yards, and lost a fumble. The Browns clearly tried to get Concepcion involved in the game, and it worked a little bit as he averaged 10.8 yards per reception. Concepcion out-targeted fellow wide receiver Denzel Boston. Look for the Browns to try to find ways to get Concepcion the ball in the team's Week 2 matchup against the Tampa Bay Buccaneers. The Buccaneers' defense did a good job of holding down the Bengals' prolific passing game in Week 1, so they will be tough to pass against in Week 2. With Deshaun Watson at quarterback for the Browns, it's hard to get excited about any Browns receiver, but Concepcion looks as if he could be the most involved in the short passing game and the run game with his ability to run with the ball after the catch. Look for the Browns to try to find ways to showcase Concepcion's quickness and run-after-the-catch ability.",
+      "metadata": {
+        "description": "Cleveland Browns wide receiver KC Concepcion Jr. was pretty involved in the game plan in Week 1 against the Jacksonville Jaguars and ended up with four catches for 43 yards on five targets, rushed the ball three times for 15 yards, and lost a fumble. The Browns clearly tried to get Concepcion involved in the game, and it worked a little bit as he averaged 10.8 yards per reception. Concepcion out-targeted fellow wide receiver Denzel Boston. Look for the Browns to try to find ways to get Concepcion the ball in the team's Week 2 matchup against the Tampa Bay Buccaneers. The Buccaneers' defense did a good job of holding down the Bengals' prolific passing game in Week 1, so they will be tough to pass against in Week 2. With Deshaun Watson at quarterback for the Browns, it's hard to get excited about any Browns receiver, but Concepcion looks as if he could be the most involved in the short passing game and the run game with his ability to run with the ball after the catch. Look for the Browns to try to find ways to showcase Concepcion's quickness and run-after-the-catch ability.",
+        "title": "Look For Browns To Find Ways To Get KC Concepcion Jr. The Ball Week 2 at Bucs",
+        "topic_id": "1407004979788554240",
+        "url": "https://www.rotoballer.com/player-news/look-for-browns-to-find-ways-to-get-kc-concepcion-the-ball-week-2-at-bucs/1944745"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13298",
+      "player_name": "KC Concepcion",
+      "position": "WR",
+      "published": 1789802406000,
+      "source": "rotoballer",
+      "source_key": "221542",
+      "story_id": "nfl|13298|rotoballer|221542|1789802406000",
+      "title": "Look For Browns To Find Ways To Get KC Concepcion Jr. The Ball Week 2 at Bucs",
+      "url": "https://www.rotoballer.com/player-news/look-for-browns-to-find-ways-to-get-kc-concepcion-the-ball-week-2-at-bucs/1944745"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans running back Woody Marks split playing time almost exactly evenly with his teammate David Montgomery in Week 1, and with the Texans looking for playmakers in Week 2 against the Bengals, Marks could be even more involved. While Montgomery had 23 touches and three touchdowns, Marks averaged 4.7 yards per carry on his nine carries, compared to Montgomery's 3.0 yards per carry. Montgomery got all six red-zone chances and will likely remain the preferred option near the goal line, which makes him the stronger fantasy play. However, Marks brings receiving ability that the team could lean on more with Nico Collins (hamstring) sidelined. Marks is RotoBaller's No. 38 RB for Week 2 against the Bengals, placing him as a low-end RB3 or deep-league FLEX option. His workload should level out with Montgomery's as the season goes on, giving him stand-alone potential even if he isn't getting scoring opportunities.",
+      "metadata": {
+        "description": "Houston Texans running back Woody Marks split playing time almost exactly evenly with his teammate David Montgomery in Week 1, and with the Texans looking for playmakers in Week 2 against the Bengals, Marks could be even more involved. While Montgomery had 23 touches and three touchdowns, Marks averaged 4.7 yards per carry on his nine carries, compared to Montgomery's 3.0 yards per carry. Montgomery got all six red-zone chances and will likely remain the preferred option near the goal line, which makes him the stronger fantasy play. However, Marks brings receiving ability that the team could lean on more with Nico Collins (hamstring) sidelined. Marks is RotoBaller's No. 38 RB for Week 2 against the Bengals, placing him as a low-end RB3 or deep-league FLEX option. His workload should level out with Montgomery's as the season goes on, giving him stand-alone potential even if he isn't getting scoring opportunities.",
+        "title": "Woody Marks Offers Sleeper FLEX Potential for Deep Leagues",
+        "topic_id": "1406997428896333824",
+        "url": "https://www.rotoballer.com/player-news/woody-marks-offers-sleeper-flex-potential-for-deep-leagues/1944740"
+      },
+      "nfl_team": "HOU",
+      "player_id": "12474",
+      "player_name": "Woody Marks",
+      "position": "RB",
+      "published": 1789802226000,
+      "source": "rotoballer",
+      "source_key": "221536",
+      "story_id": "nfl|12474|rotoballer|221536|1789802226000",
+      "title": "Woody Marks Offers Sleeper FLEX Potential for Deep Leagues",
+      "url": "https://www.rotoballer.com/player-news/woody-marks-offers-sleeper-flex-potential-for-deep-leagues/1944740"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans running back David Montgomery had a huge debut for the Texans with three touchdowns, 60 rushing yards, and 19 receiving yards in Week 1 against the Bills. This week, he'll look to keep rolling against the Cincinnati Bengals, and the Texans may have to rely even more on the run game in the absence of WR Nico Collins (hamstring). Montgomery actually played one snap fewer than Woody Marks, but got 23 touches compared to just 10 for Marks. Montgomery also got all six RB opportunities in the red zone, making him the much stronger fantasy option. This week, he's the No. 15 RB and the No. 21 overall player in RotoBaller's rankings, making him a very strong RB2 with a good ceiling since he is lined up for such a significant workload.",
+      "metadata": {
+        "description": "Houston Texans running back David Montgomery had a huge debut for the Texans with three touchdowns, 60 rushing yards, and 19 receiving yards in Week 1 against the Bills. This week, he'll look to keep rolling against the Cincinnati Bengals, and the Texans may have to rely even more on the run game in the absence of WR Nico Collins (hamstring). Montgomery actually played one snap fewer than Woody Marks, but got 23 touches compared to just 10 for Marks. Montgomery also got all six RB opportunities in the red zone, making him the much stronger fantasy option. This week, he's the No. 15 RB and the No. 21 overall player in RotoBaller's rankings, making him a very strong RB2 with a good ceiling since he is lined up for such a significant workload.",
+        "title": "David Montgomery Is a Solid RB2 in Week 2",
+        "topic_id": "1406994982895685632",
+        "url": "https://www.rotoballer.com/player-news/david-montgomery-is-a-solid-rb2-in-week-2/1944725"
+      },
+      "nfl_team": "HOU",
+      "player_id": "5892",
+      "player_name": "David Montgomery",
+      "position": "RB",
+      "published": 1789801446000,
+      "source": "rotoballer",
+      "source_key": "221535",
+      "story_id": "nfl|5892|rotoballer|221535|1789801446000",
+      "title": "David Montgomery Is a Solid RB2 in Week 2",
+      "url": "https://www.rotoballer.com/player-news/david-montgomery-is-a-solid-rb2-in-week-2/1944725"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans quarterback C.J. Stroud had solid numbers in Week 1 against the Bills, but he lost his top receiver, Nico Collins (hamstring), to a midweek injury and is in a tough matchup against the Bengals in Week 2. Stroud threw for 274 passing yards and a pair of touchdowns in the season opener but lost two costly fumbles, including one when trying to rally his team for a win. He finished Week 1 as the QB15, and for Week 2, he's ranked as RotoBaller's QB20. Without Collins, though, he is a much higher-risk start since his receiving corps is very unproven. The Bengals' defense held Baker Mayfield and the Bucs in check in Week 1, which further makes Stroud an unattractive play in single-QB leagues. He remains a low-end QB2, but comes with significant risk factors.",
+      "metadata": {
+        "description": "Houston Texans quarterback C.J. Stroud had solid numbers in Week 1 against the Bills, but he lost his top receiver, Nico Collins (hamstring), to a midweek injury and is in a tough matchup against the Bengals in Week 2. Stroud threw for 274 passing yards and a pair of touchdowns in the season opener but lost two costly fumbles, including one when trying to rally his team for a win. He finished Week 1 as the QB15, and for Week 2, he's ranked as RotoBaller's QB20. Without Collins, though, he is a much higher-risk start since his receiving corps is very unproven. The Bengals' defense held Baker Mayfield and the Bucs in check in Week 1, which further makes Stroud an unattractive play in single-QB leagues. He remains a low-end QB2, but comes with significant risk factors.",
+        "title": "C.J. Stroud Is Hard to Start in Week 2 Without Nico Collins",
+        "topic_id": "1406992465528991744",
+        "url": "https://www.rotoballer.com/player-news/c-j-stroud-is-hard-to-start-in-week-2-without-nico-collins/1944717"
+      },
+      "nfl_team": "HOU",
+      "player_id": "7569",
+      "player_name": "Nico Collins",
+      "position": "WR",
+      "published": 1789800726000,
+      "source": "rotoballer",
+      "source_key": "221534",
+      "story_id": "nfl|7569|rotoballer|221534|1789800726000",
+      "title": "C.J. Stroud Is Hard to Start in Week 2 Without Nico Collins",
+      "url": "https://www.rotoballer.com/player-news/c-j-stroud-is-hard-to-start-in-week-2-without-nico-collins/1944717"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals tight end Trey McBride kicked off the 2026 season with nine receptions for 95 yards and a touchdown on 13 targets against the Los Angeles Chargers. With wide receivers Michael Wilson and Marvin Harrison Jr. keeping the Chargers' secondary busy downfield, McBride exploited the defense on shorter routes outside and underneath. McBride's touchdown came on his 17th end zone target with Jacoby Brissett as his starting quarterback, the same number of end zone targets he had in 54 games without Brissett. McBride's status as a weekly scoring threat cemented, he remains a top option at tight end in Week 2 despite a difficult matchup against the Seahawks on deck. In the division rivals' two meetings last year, McBride was targeted 24 times and brought in 16 catches for 179 yards and one touchdown. He is a must-start tight end regardless of his opponent.",
+      "metadata": {
+        "description": "Arizona Cardinals tight end Trey McBride kicked off the 2026 season with nine receptions for 95 yards and a touchdown on 13 targets against the Los Angeles Chargers. With wide receivers Michael Wilson and Marvin Harrison Jr. keeping the Chargers' secondary busy downfield, McBride exploited the defense on shorter routes outside and underneath. McBride's touchdown came on his 17th end zone target with Jacoby Brissett as his starting quarterback, the same number of end zone targets he had in 54 games without Brissett. McBride's status as a weekly scoring threat cemented, he remains a top option at tight end in Week 2 despite a difficult matchup against the Seahawks on deck. In the division rivals' two meetings last year, McBride was targeted 24 times and brought in 16 catches for 179 yards and one touchdown. He is a must-start tight end regardless of his opponent.",
+        "title": "Trey McBride Still In TE1 Mix Despite Difficult Defense",
+        "topic_id": "1406986173527724032",
+        "url": "https://www.rotoballer.com/player-news/trey-mcbride-still-in-te1-mix-despite-difficult-defense/1944699"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8130",
+      "player_name": "Trey McBride",
+      "position": "TE",
+      "published": 1789799345000,
+      "source": "rotoballer",
+      "source_key": "221533",
+      "story_id": "nfl|8130|rotoballer|221533|1789799345000",
+      "title": "Trey McBride Still In TE1 Mix Despite Difficult Defense",
+      "url": "https://www.rotoballer.com/player-news/trey-mcbride-still-in-te1-mix-despite-difficult-defense/1944699"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens veteran tight end Mark Andrews looks to be one of the prime beneficiaries of an early injury bug to hit the Ravens' wide receiving room before the team's home opener in Week 2 against the New Orleans Saints. Star wide receiver Zay Flowers (hamstring) carries a doubtful tag into the weekend after logging just one limited practice on Friday. Moreover, promising rookie receiver Ja'Kobi Lane (wrist) was placed on IR after surgery Wednesday for a fractured wrist. These absences allow Andrews, who is coming off a down year, and others to lead the Ravens' passing attack, something Andrews has done to great effect in years past. In Week 1 against the Indianapolis Colts, Andrews brought in four of his six targets for 49 yards, had the second-most routes run (21), and posted a 28.6% target share. Andrews does face a tougher matchup in Week 2. Last week, the Saints defense kept star Detroit Lions tight end Sam LaPorta to just five catches and 48 yards, and the unit ranked top-12 against the tight end position in 2025. Nonetheless, Andrews has enjoyed a deep rapport with quarterback Lamar Jackson since being drafted together in 2018, and he could serve as a trusted safety valve and short-yardage receiver with little competition, making him potentially valuable in PPR formats this weekend. Primarily due to the injury situation, Andrews is a mid-to-low-end TE1 heading into Week 2. Still, fantasy managers should keep their eyes open for tight ends with more rest-of-season value for the weeks ahead.",
+      "metadata": {
+        "description": "Baltimore Ravens veteran tight end Mark Andrews looks to be one of the prime beneficiaries of an early injury bug to hit the Ravens' wide receiving room before the team's home opener in Week 2 against the New Orleans Saints. Star wide receiver Zay Flowers (hamstring) carries a doubtful tag into the weekend after logging just one limited practice on Friday. Moreover, promising rookie receiver Ja'Kobi Lane (wrist) was placed on IR after surgery Wednesday for a fractured wrist. These absences allow Andrews, who is coming off a down year, and others to lead the Ravens' passing attack, something Andrews has done to great effect in years past. In Week 1 against the Indianapolis Colts, Andrews brought in four of his six targets for 49 yards, had the second-most routes run (21), and posted a 28.6% target share. Andrews does face a tougher matchup in Week 2. Last week, the Saints defense kept star Detroit Lions tight end Sam LaPorta to just five catches and 48 yards, and the unit ranked top-12 against the tight end position in 2025. Nonetheless, Andrews has enjoyed a deep rapport with quarterback Lamar Jackson since being drafted together in 2018, and he could serve as a trusted safety valve and short-yardage receiver with little competition, making him potentially valuable in PPR formats this weekend. Primarily due to the injury situation, Andrews is a mid-to-low-end TE1 heading into Week 2. Still, fantasy managers should keep their eyes open for tight ends with more rest-of-season value for the weeks ahead.",
+        "title": "Mark Andrews' TE1 Outlook Buoyed by Team Injuries",
+        "topic_id": "1406979881627058176",
+        "url": "https://www.rotoballer.com/player-news/mark-andrews-te1-outlook-buoyed-by-team-injuries/1944686"
+      },
+      "nfl_team": "BAL",
+      "player_id": "5012",
+      "player_name": "Mark Andrews",
+      "position": "TE",
+      "published": 1789797726000,
+      "source": "rotoballer",
+      "source_key": "221531",
+      "story_id": "nfl|5012|rotoballer|221531|1789797726000",
+      "title": "Mark Andrews' TE1 Outlook Buoyed by Team Injuries",
+      "url": "https://www.rotoballer.com/player-news/mark-andrews-te1-outlook-buoyed-by-team-injuries/1944686"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals wide receiver Michael Wilson opened up 2026 with five catches for 56 yards on seven targets. Wilson outperformed Marvin Harrison Jr., who had one catch for 33 yards, but could not keep up on the stat sheet with tight end Trey McBride or wide receiver Kendrick Bourne. Jacoby Brissett's disposition to taking quick, easy shots hurt Wilson, who didn't have time to complete his routes when Brissett was ready to throw. In Week 2, the Cardinals host the Seattle Seahawks, who represent a more formidable defensive threat than the Chargers did last week. Seattle held Patriots quarterback Drake Maye to 178 passing yards last week, and less than half went to receivers lined up out wide, where Wilson typically operates. Wilson and Brissett combined for fantasy football magic in 2025, but Wilson's upside is limited in a tough matchup, making him a WR3/flex candidate at best.",
+      "metadata": {
+        "description": "Arizona Cardinals wide receiver Michael Wilson opened up 2026 with five catches for 56 yards on seven targets. Wilson outperformed Marvin Harrison Jr., who had one catch for 33 yards, but could not keep up on the stat sheet with tight end Trey McBride or wide receiver Kendrick Bourne. Jacoby Brissett's disposition to taking quick, easy shots hurt Wilson, who didn't have time to complete his routes when Brissett was ready to throw. In Week 2, the Cardinals host the Seattle Seahawks, who represent a more formidable defensive threat than the Chargers did last week. Seattle held Patriots quarterback Drake Maye to 178 passing yards last week, and less than half went to receivers lined up out wide, where Wilson typically operates. Wilson and Brissett combined for fantasy football magic in 2025, but Wilson's upside is limited in a tough matchup, making him a WR3/flex candidate at best.",
+        "title": "Michael Wilson A Possible Flex Play In Test For Arizona's Offense",
+        "topic_id": "1406977364583256064",
+        "url": "https://www.rotoballer.com/player-news/michael-wilson-a-possible-flex-play-in-test-for-arizonas-offense/1944682"
+      },
+      "nfl_team": "ARI",
+      "player_id": "10232",
+      "player_name": "Michael Wilson",
+      "position": "WR",
+      "published": 1789797245000,
+      "source": "rotoballer",
+      "source_key": "221530",
+      "story_id": "nfl|10232|rotoballer|221530|1789797245000",
+      "title": "Michael Wilson A Possible Flex Play In Test For Arizona's Offense",
+      "url": "https://www.rotoballer.com/player-news/michael-wilson-a-possible-flex-play-in-test-for-arizonas-offense/1944682"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals wide receiver Marvin Harrison Jr. has more than just Michael Wilson to worry about infringing on his target share. In last week's season opener against the Chargers, Trey McBride and Kendrick Bourne combined for 17 receptions on 21 targets while Harrison saw just three targets and had one catch for 33 yards. Half of Harrison's routes in the game were post or go routes. This drew the secondary's attention downfield, but the effect was Jacoby Brissett taking advantage of higher-percentage plays underneath. If Arizona's staff uses Harrison in the same way against Seattle in Week 2, then a bounceback is unlikely. In Week 1, the Seahawks blanked New England's Romeo Doubs, who was similarly employed on deep routes, and forced quarterback Drake Maye to focus on short passes and checkdowns. Harrison projects as a WR4 in Week 2 and lacks the upside to be anything more than a flex candidate.",
+      "metadata": {
+        "description": "Arizona Cardinals wide receiver Marvin Harrison Jr. has more than just Michael Wilson to worry about infringing on his target share. In last week's season opener against the Chargers, Trey McBride and Kendrick Bourne combined for 17 receptions on 21 targets while Harrison saw just three targets and had one catch for 33 yards. Half of Harrison's routes in the game were post or go routes. This drew the secondary's attention downfield, but the effect was Jacoby Brissett taking advantage of higher-percentage plays underneath. If Arizona's staff uses Harrison in the same way against Seattle in Week 2, then a bounceback is unlikely. In Week 1, the Seahawks blanked New England's Romeo Doubs, who was similarly employed on deep routes, and forced quarterback Drake Maye to focus on short passes and checkdowns. Harrison projects as a WR4 in Week 2 and lacks the upside to be anything more than a flex candidate.",
+        "title": "Marvin Harrison Jr.'s Usage Inspires Little Optimism For Turnaround In Week 2",
+        "topic_id": "1406969814139908096",
+        "url": "https://www.rotoballer.com/player-news/marvin-harrison-jr-s-usage-inspires-little-optimism-for-turnaround-in-week-2/1944680"
+      },
+      "nfl_team": "ARI",
+      "player_id": "11628",
+      "player_name": "Marvin Harrison",
+      "position": "WR",
+      "published": 1789795626000,
+      "source": "rotoballer",
+      "source_key": "221529",
+      "story_id": "nfl|11628|rotoballer|221529|1789795626000",
+      "title": "Marvin Harrison Jr.'s Usage Inspires Little Optimism For Turnaround In Week 2",
+      "url": "https://www.rotoballer.com/player-news/marvin-harrison-jr-s-usage-inspires-little-optimism-for-turnaround-in-week-2/1944680"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back Tyler Allgeier handled 17 carries and 61 rushing yards in Week 1 against the Los Angeles Chargers. With rookie Jeremiyah Love still working back from his preseason ankle injury, Allgeier started the game and led the backfield in attempts, yards, and snaps. The division of labor measured by snap share was roughly a 60-40 split in Allgeier's favor. Love was not on the Cardinals' injury report this week, so it is safe to assume he sees at least as much work in Week 2 as he did in the season opener. Love's improved health and potentially increased involvement in the offense limit Allgeier's fantasy stock. With a Seahawks defense on deck that allowed New England's Rhamondre Stevenson just 2.8 yards per carry last week, it is hard to see Allgeier as outperforming his RB3/4 projection. He does not belong in fantasy football lineups in Week 2.",
+      "metadata": {
+        "description": "Arizona Cardinals running back Tyler Allgeier handled 17 carries and 61 rushing yards in Week 1 against the Los Angeles Chargers. With rookie Jeremiyah Love still working back from his preseason ankle injury, Allgeier started the game and led the backfield in attempts, yards, and snaps. The division of labor measured by snap share was roughly a 60-40 split in Allgeier's favor. Love was not on the Cardinals' injury report this week, so it is safe to assume he sees at least as much work in Week 2 as he did in the season opener. Love's improved health and potentially increased involvement in the offense limit Allgeier's fantasy stock. With a Seahawks defense on deck that allowed New England's Rhamondre Stevenson just 2.8 yards per carry last week, it is hard to see Allgeier as outperforming his RB3/4 projection. He does not belong in fantasy football lineups in Week 2.",
+        "title": "Tyler Allgeier's Prospects Weakened By Timeshare And Tough Matchup",
+        "topic_id": "1406966039249489920",
+        "url": "https://www.rotoballer.com/player-news/tyler-allgeiers-prospects-weakened-by-timeshare-and-tough-matchup/1944674"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8132",
+      "player_name": "Tyler Allgeier",
+      "position": "RB",
+      "published": 1789794305000,
+      "source": "rotoballer",
+      "source_key": "221527",
+      "story_id": "nfl|8132|rotoballer|221527|1789794305000",
+      "title": "Tyler Allgeier's Prospects Weakened By Timeshare And Tough Matchup",
+      "url": "https://www.rotoballer.com/player-news/tyler-allgeiers-prospects-weakened-by-timeshare-and-tough-matchup/1944674"
+    },
     {
       "analysis": null,
       "description": "Arizona Cardinals running back Jeremiyah Love did not appear on the injury report this week and carries no designation into Sunday's meeting with the Seattle Seahawks. A high ankle sprain suffered in the preseason jeopardized Love's availability for Week 1, but the rookie was active and had 13 touches for 50 total yards and his first NFL touchdown. Love was on the backside of an approximate 60-40 split in snaps with Tyler Allgeier last week. Regarding Love's workload, head coach Mike LaFleur said \"his role is going to be what it was,\" according to Darren Urban of AZCardinals.com. Even if Love's workload creeps up to a 50-50 share, Seattle's defense will make it difficult to build on the minor success of his professional debut. Love is projected as an RB3 in Week 2, but fantasy managers should explore options with more favorable matchups before plugging him into their lineups.",
@@ -79166,106 +79727,6 @@
       "story_id": "nfl|6770|rotoballer|219003|1787231648000",
       "title": "Joe Burrow Treating 2026 as Now-or-Never Season",
       "url": "https://www.rotoballer.com/player-news/joe-burrow-treating-2026-as-now-or-never-season/1912608"
-    },
-    {
-      "analysis": null,
-      "description": "Detroit Lions tight end Sam LaPorta (hip) is dealing with a hip injury he picked up earlier this week, according to Nolan Bianchi. LaPorta was not practicing Thursday, though head coach Dan Campbell said he doesn't think the issue will threaten the start of his season. Campbell stopped short of guaranteeing that, however. LaPorta was limited to nine games last year after a back injury eventually required surgery, finishing with 40 catches for 489 yards and three touchdowns. He spent the offseason rehabbing but was back to full participation when Detroit opened training camp in late July. The new hip issue interrupts what had otherwise been a healthy summer for the fourth-year tight end. Campbell's initial outlook is a positive one for fantasy managers, but LaPorta's progress over the next couple of weeks will determine whether that holds.",
-      "metadata": {
-        "description": "Detroit Lions tight end Sam LaPorta (hip) is dealing with a hip injury he picked up earlier this week, according to Nolan Bianchi. LaPorta was not practicing Thursday, though head coach Dan Campbell said he doesn't think the issue will threaten the start of his season. Campbell stopped short of guaranteeing that, however. LaPorta was limited to nine games last year after a back injury eventually required surgery, finishing with 40 catches for 489 yards and three touchdowns. He spent the offseason rehabbing but was back to full participation when Detroit opened training camp in late July. The new hip issue interrupts what had otherwise been a healthy summer for the fourth-year tight end. Campbell's initial outlook is a positive one for fantasy managers, but LaPorta's progress over the next couple of weeks will determine whether that holds.",
-        "title": "Sam LaPorta Dealing With Hip Injury",
-        "topic_id": "1396211323326435328",
-        "url": "https://www.rotoballer.com/player-news/sam-laporta-dealing-with-hip-injury/1912596"
-      },
-      "nfl_team": "DET",
-      "player_id": "10859",
-      "player_name": "Sam LaPorta",
-      "position": "TE",
-      "published": 1787230629000,
-      "source": "rotoballer",
-      "source_key": "219001",
-      "story_id": "nfl|10859|rotoballer|219001|1787230629000",
-      "title": "Sam LaPorta Dealing With Hip Injury",
-      "url": "https://www.rotoballer.com/player-news/sam-laporta-dealing-with-hip-injury/1912596"
-    },
-    {
-      "analysis": "While White, who was hurt during the Commanders' recent joint practice versus Miami, won't suit up this weekend, he was spotted on the field during the early portion of Thursday's session, which will be a lighter practice, per Nicki Jhabvala of The Washington Post. White's next chance to see game action will arrive Friday, Aug. 28 in the team's exhibition finale against the Ravens.",
-      "description": "White (hamstring) won't play in Saturday's preseason game against the Lions, John Keim of ESPN.com reports.",
-      "metadata": {
-        "analysis": "While White, who was hurt during the Commanders' recent joint practice versus Miami, won't suit up this weekend, he was spotted on the field during the early portion of Thursday's session, which will be a lighter practice, per Nicki Jhabvala of The Washington Post. White's next chance to see game action will arrive Friday, Aug. 28 in the team's exhibition finale against the Ravens.",
-        "description": "White (hamstring) won't play in Saturday's preseason game against the Lions, John Keim of ESPN.com reports.",
-        "title": "Rachaad White - Won't play in Saturday's preseason game",
-        "topic_id": "1396145872030433280"
-      },
-      "nfl_team": "WAS",
-      "player_id": "8136",
-      "player_name": "Rachaad White",
-      "position": "RB",
-      "published": 1787229274000,
-      "source": "rotowire",
-      "source_key": "634219",
-      "story_id": "nfl|8136|rotowire|634219|1787229274000",
-      "title": "Rachaad White - Won't play in Saturday's preseason game",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "The New York Jets are desperately looking for another wide receiver to step up opposite Garrett Wilson, and they are hoping that Adonai Mitchell can be that guy in 2026, according to Rich Cimini of ESPN. \"If he continues on this trajectory right here,\" receivers coach Shawn Jefferson said of Mitchell, \"he will be a really good Robin for our Batman. Big time.\" The Jets believe that Mitchell is an ascending talent and is ready to pop in his third year in the league after they acquired him from the Indianapolis Colts in 2025. The 23-year-old former second-rounder from Texas failed to be effective in his year-plus with Indy but caught 24 of his 58 targets for 301 yards and his first two NFL touchdowns in eight games to close out the year with the Jets last season. Mitchell is signed through the 2027 season and was a prime target of the Jets' front office in the trade that sent cornerback Sauce Gardner to the Colts in 2025. His QB situation with Geno Smith running the offense is not ideal, but the Jets are committed to him, and he will have plenty of opportunities to do damage in his first year with the team. Fantasy managers should be looking at Mitchell as a late-round sleeper in upcoming drafts.",
-      "metadata": {
-        "description": "The New York Jets are desperately looking for another wide receiver to step up opposite Garrett Wilson, and they are hoping that Adonai Mitchell can be that guy in 2026, according to Rich Cimini of ESPN. \"If he continues on this trajectory right here,\" receivers coach Shawn Jefferson said of Mitchell, \"he will be a really good Robin for our Batman. Big time.\" The Jets believe that Mitchell is an ascending talent and is ready to pop in his third year in the league after they acquired him from the Indianapolis Colts in 2025. The 23-year-old former second-rounder from Texas failed to be effective in his year-plus with Indy but caught 24 of his 58 targets for 301 yards and his first two NFL touchdowns in eight games to close out the year with the Jets last season. Mitchell is signed through the 2027 season and was a prime target of the Jets' front office in the trade that sent cornerback Sauce Gardner to the Colts in 2025. His QB situation with Geno Smith running the offense is not ideal, but the Jets are committed to him, and he will have plenty of opportunities to do damage in his first year with the team. Fantasy managers should be looking at Mitchell as a late-round sleeper in upcoming drafts.",
-        "title": "Jets Looking for Adonai Mitchell to Step Up",
-        "topic_id": "1396191173596426240",
-        "url": "https://www.rotoballer.com/player-news/jets-looking-for-adonai-mitchell-to-step-up/1912561"
-      },
-      "nfl_team": "NYJ",
-      "player_id": "11625",
-      "player_name": "Adonai Mitchell",
-      "position": "WR",
-      "published": 1787225643000,
-      "source": "rotoballer",
-      "source_key": "218998",
-      "story_id": "nfl|11625|rotoballer|218998|1787225643000",
-      "title": "Jets Looking for Adonai Mitchell to Step Up",
-      "url": "https://www.rotoballer.com/player-news/jets-looking-for-adonai-mitchell-to-step-up/1912561"
-    },
-    {
-      "analysis": null,
-      "description": "Indianapolis Colts tight end Tyler Warren (groin) exited Wednesday's training camp practice early, and he is now expected to miss about a week with a minor groin injury, according to NFL Insider Ian Rapoport. Warren has been viewed as one of fantasy's biggest risers throughout draft season, pegged as an obvious candidate to absorb some of Michael Pittman Jr.'s 110 vacated targets from a year ago, but the recent signing of veteran receiver Keenan Allen has created a murkier picture, and the injury could see him slip in drafts. Still RotoBaller's TE4 for 2026, Warren projects to be a difference-maker at the position, but the gap between him and fellow second-year tight end Colston Loveland has potentially widened in recent days.",
-      "metadata": {
-        "description": "Indianapolis Colts tight end Tyler Warren (groin) exited Wednesday's training camp practice early, and he is now expected to miss about a week with a minor groin injury, according to NFL Insider Ian Rapoport. Warren has been viewed as one of fantasy's biggest risers throughout draft season, pegged as an obvious candidate to absorb some of Michael Pittman Jr.'s 110 vacated targets from a year ago, but the recent signing of veteran receiver Keenan Allen has created a murkier picture, and the injury could see him slip in drafts. Still RotoBaller's TE4 for 2026, Warren projects to be a difference-maker at the position, but the gap between him and fellow second-year tight end Colston Loveland has potentially widened in recent days.",
-        "title": "Tyler Warren Expected to Miss About a Week",
-        "topic_id": "1396181107254243328",
-        "url": "https://www.rotoballer.com/player-news/tyler-warren-expected-to-miss-about-a-week/1912527"
-      },
-      "nfl_team": "IND",
-      "player_id": "12518",
-      "player_name": "Tyler Warren",
-      "position": "TE",
-      "published": 1787223069000,
-      "source": "rotoballer",
-      "source_key": "218996",
-      "story_id": "nfl|12518|rotoballer|218996|1787223069000",
-      "title": "Tyler Warren Expected to Miss About a Week",
-      "url": "https://www.rotoballer.com/player-news/tyler-warren-expected-to-miss-about-a-week/1912527"
-    },
-    {
-      "analysis": null,
-      "description": "Tampa Bay Buccaneers quarterback Baker Mayfield is excited and ready for the season. He expressed his confidence by taking a question on Wednesday about the team's Week 1 matchup in Cincinnati and saying, \"It's just the Bucs against everybody else in that city you're going to... I think we're going to shock a lot of people this year, so I'm excited to just get on the road and do that.\" Mayfield is in the final year of the three-year, $100 million extension and was unable to reach a new extension this offseason. He took a step back last year, with 3,693 yards and 26 touchdowns after posting 4,500 yards and 41 touchdowns in 2024. He played through injury during the season, which ended with the Bucs just missing the playoffs. He'll look to post a big year and earn a new deal, and he starts the year ranked as the No. 17 QB in RotoBaller's rankings.",
-      "metadata": {
-        "description": "Tampa Bay Buccaneers quarterback Baker Mayfield is excited and ready for the season. He expressed his confidence by taking a question on Wednesday about the team's Week 1 matchup in Cincinnati and saying, \"It's just the Bucs against everybody else in that city you're going to... I think we're going to shock a lot of people this year, so I'm excited to just get on the road and do that.\" Mayfield is in the final year of the three-year, $100 million extension and was unable to reach a new extension this offseason. He took a step back last year, with 3,693 yards and 26 touchdowns after posting 4,500 yards and 41 touchdowns in 2024. He played through injury during the season, which ended with the Bucs just missing the playoffs. He'll look to post a big year and earn a new deal, and he starts the year ranked as the No. 17 QB in RotoBaller's rankings.",
-        "title": "Baker Mayfield Thinks Bucs will Shock a Lot of People in 2026",
-        "topic_id": "1396167262737567744",
-        "url": "https://www.rotoballer.com/player-news/baker-mayfield-bucs-will-shock-a-lot-of-people-in-2026/1912456"
-      },
-      "nfl_team": "TB",
-      "player_id": "4892",
-      "player_name": "Baker Mayfield",
-      "position": "QB",
-      "published": 1787219948000,
-      "source": "rotoballer",
-      "source_key": "218989",
-      "story_id": "nfl|4892|rotoballer|218989|1787219948000",
-      "title": "Baker Mayfield Thinks Bucs will Shock a Lot of People in 2026",
-      "url": "https://www.rotoballer.com/player-news/baker-mayfield-bucs-will-shock-a-lot-of-people-in-2026/1912456"
     }
   ]
 }
