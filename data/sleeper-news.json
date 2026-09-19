@@ -1,24 +1,11 @@
 {
-  "last_checked_at": "2026-09-19T21:07:21Z",
+  "last_checked_at": "2026-09-19T22:58:59Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 291,
   "new_story_ids": [
-    "nfl|12487|rotoballer|221634|1789833220000",
-    "nfl|12536|rotoballer|221537|1789802626000",
-    "nfl|12536|rotowire|637926|1789770544000",
-    "nfl|13268|rotoballer|221637|1789834399000",
-    "nfl|13276|rotowire|638061|1789849035000",
-    "nfl|13424|fantasy_pros|607674|1789339558093",
-    "nfl|13424|rotoballer|221142|1789489026000",
-    "nfl|13424|rotowire|637387|1789432577000",
-    "nfl|3286|rotoballer|221639|1789836007000",
-    "nfl|5870|rotoballer|221630|1789830428000",
-    "nfl|7569|rotoballer|221636|1789834585000",
-    "nfl|7569|rotowire|638055|1789847749000",
-    "nfl|9493|fantasy_pros|609103|1789844148095",
-    "nfl|9493|rotoballer|221629|1789829122000",
-    "nfl|9997|fantasy_pros|609109|1789848948314",
-    "nfl|9997|rotowire|638059|1789848650000"
+    "nfl|13274|rotoballer|221644|1789843626000",
+    "nfl|13417|rotowire|638071|1789852440000",
+    "nfl|9997|rotoballer|221642|1789841738000"
   ],
   "schema_version": 1,
   "source": {
@@ -28,6 +15,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Stribling suffered what appeared to be a serious non-contact injury during the 49ers' Week 1 win against the Rams in Melbourne, Australia, but afterward tests revealed that his left Achilles was intact, and eventually he was diagnosed with a deltoid sprain of his left ankle. After undergoing surgery, he's expected to miss roughly 10 weeks, meaning a move to IR was inevitable. At least during the initial weeks of Stribling's absence, Mike Evans, Deebo Samuel, Demarcus Robinson, Jacob Cowing, Jordan Watkins and KhaDarel Hodge will handle WR duties for San Francisco.",
+      "description": "The 49ers placed Stribling (ankle) on injured reserve Saturday.",
+      "metadata": {
+        "analysis": "Stribling suffered what appeared to be a serious non-contact injury during the 49ers' Week 1 win against the Rams in Melbourne, Australia, but afterward tests revealed that his left Achilles was intact, and eventually he was diagnosed with a deltoid sprain of his left ankle. After undergoing surgery, he's expected to miss roughly 10 weeks, meaning a move to IR was inevitable. At least during the initial weeks of Stribling's absence, Mike Evans, Deebo Samuel, Demarcus Robinson, Jacob Cowing, Jordan Watkins and KhaDarel Hodge will handle WR duties for San Francisco.",
+        "description": "The 49ers placed Stribling (ankle) on injured reserve Saturday.",
+        "title": "De'Zhaun Stribling - Officially placed on IR",
+        "topic_id": "1407147210629541888"
+      },
+      "nfl_team": "SF",
+      "player_id": "13417",
+      "player_name": "De'Zhaun Stribling",
+      "position": "WR",
+      "published": 1789852440000,
+      "source": "rotowire",
+      "source_key": "638071",
+      "story_id": "nfl|13417|rotowire|638071|1789852440000",
+      "title": "De'Zhaun Stribling - Officially placed on IR",
+      "url": null
+    },
     {
       "analysis": "Cooper thus will miss at least the next four games after he suffered a sprained ankle in his pro debut this past Sunday in Tennessee. His next chance for game action will be a Week 6 road matchup with the Patriots on Sunday, Oct. 18, and in the meantime, the Jets will operate with a receiving corps composed of Garrett Wilson, Adonai Mitchell, Isaiah Williams and Arian Smith.",
       "description": "The Jets placed Cooper (ankle) on injured reserve Saturday, Amanda Vogt of the team's official site reports.",
@@ -131,6 +138,26 @@
       "url": "https://www.fantasypros.com/nfl/news/609103/puka-nacua-hip-questionable-monday-night.php"
     },
     {
+      "analysis": null,
+      "description": "Pittsburgh Steelers rookie wideout Germie Bernard could be in line for a bigger role with teammate Michael Pittman Jr. (foot) out for their Week 2 matchup against the New England Patriots. Pittman was a limited participant early in the week before missing the team's final two practices. With Pittman out, this gives their second-round rookie an opportunity for an expanded role. Bernard is a versatile receiver who can play all three receiver spots and can be deployed out of the backfield as a pass-catcher and running back. He excelled on quick routes at Alabama, which lines up with Aaron Rodgers. Last season, Rodgers had one of the fastest average times to throw (2.56 seconds) and one of the fewest completed air yards (1,203) in the league. Bernard was a pro-ready prospect and could be Rodgers' go-to target over the middle of the field on Sunday.",
+      "metadata": {
+        "description": "Pittsburgh Steelers rookie wideout Germie Bernard could be in line for a bigger role with teammate Michael Pittman Jr. (foot) out for their Week 2 matchup against the New England Patriots. Pittman was a limited participant early in the week before missing the team's final two practices. With Pittman out, this gives their second-round rookie an opportunity for an expanded role. Bernard is a versatile receiver who can play all three receiver spots and can be deployed out of the backfield as a pass-catcher and running back. He excelled on quick routes at Alabama, which lines up with Aaron Rodgers. Last season, Rodgers had one of the fastest average times to throw (2.56 seconds) and one of the fewest completed air yards (1,203) in the league. Bernard was a pro-ready prospect and could be Rodgers' go-to target over the middle of the field on Sunday.",
+        "title": "Germie Bernard Potentially in Line For Bigger Role in Week 2",
+        "topic_id": "1407172377032290304",
+        "url": "https://www.rotoballer.com/player-news/germie-bernard-potentially-in-line-for-bigger-role-in-week-2/1945338"
+      },
+      "nfl_team": "PIT",
+      "player_id": "13274",
+      "player_name": "Germie Bernard",
+      "position": "WR",
+      "published": 1789843626000,
+      "source": "rotoballer",
+      "source_key": "221644",
+      "story_id": "nfl|13274|rotoballer|221644|1789843626000",
+      "title": "Germie Bernard Potentially in Line For Bigger Role in Week 2",
+      "url": "https://www.rotoballer.com/player-news/germie-bernard-potentially-in-line-for-bigger-role-in-week-2/1945338"
+    },
+    {
       "analysis": "Nacua thus will miss practice for a second day in a row to end Week 2 prep, and McVay also told Royer that the wide receiver is dealing with some soreness in his groin, but the Rams will see how he feels as Monday's kickoff approaches. The issue apparently is different than the psoas soreness that Nacua tended to during training camp, and his status very well could come down to a game-time decision.",
       "description": "Coach Sean McVay said Nacua (hip) won't practice Saturday and will be listed as questionable for Monday's game against the Giants, Benjamin Royer of The Orange County Register reports.",
       "metadata": {
@@ -149,6 +176,26 @@
       "story_id": "nfl|9493|rotowire|638046|1789843289000",
       "title": "Puka Nacua - Questionable for Monday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The Baltimore Ravens X account posted that wideout Zay Flowers (hamstring) has been downgraded to out for their Week 2 matchup against the New Orleans Saints on Sunday. The 26-year-old had five receptions for 150 yards and one touchdown on six targets in the first half of Week 1. Flowers did not play in the second half due to reaggravating a hamstring injury that first appeared in training camp. The injury forced Flowers to miss two practices and limited his participation during Friday's session. The team originally listed him as doubtful before declaring him out. Without Flowers and third-round rookie Ja'Kobi Lane, the team is left with Mark Andrews, Rashod Bateman, and fourth-round rookie Elijah Sarratt to operate as the primary pass-catchers. Flowers' limited participation on Friday leaves room for optimism about his availability for Week 3, as we will get more information about his health early next week.",
+      "metadata": {
+        "description": "The Baltimore Ravens X account posted that wideout Zay Flowers (hamstring) has been downgraded to out for their Week 2 matchup against the New Orleans Saints on Sunday. The 26-year-old had five receptions for 150 yards and one touchdown on six targets in the first half of Week 1. Flowers did not play in the second half due to reaggravating a hamstring injury that first appeared in training camp. The injury forced Flowers to miss two practices and limited his participation during Friday's session. The team originally listed him as doubtful before declaring him out. Without Flowers and third-round rookie Ja'Kobi Lane, the team is left with Mark Andrews, Rashod Bateman, and fourth-round rookie Elijah Sarratt to operate as the primary pass-catchers. Flowers' limited participation on Friday leaves room for optimism about his availability for Week 3, as we will get more information about his health early next week.",
+        "title": "Zay Flowers Downgraded to Out for Week 2",
+        "topic_id": "1407163567223947264",
+        "url": "https://www.rotoballer.com/player-news/zay-flowers-downgraded-to-out-for-week-2/1945328"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1789841738000,
+      "source": "rotoballer",
+      "source_key": "221642",
+      "story_id": "nfl|9997|rotoballer|221642|1789841738000",
+      "title": "Zay Flowers Downgraded to Out for Week 2",
+      "url": "https://www.rotoballer.com/player-news/zay-flowers-downgraded-to-out-for-week-2/1945328"
     },
     {
       "analysis": "Wilson is set to be the No. 2 wide receiver Sunday behind DK Metcalf due to the injury to Michael Pittman (ankle). Wilson saw 54 percent of the Steelers' offensive snaps in the Week 1 win over the Falcons, a number that should increase as the 25-year-old takes on a more critical role. The wide receiver saw six targets in Week 1 and will likely see even more against the Patriots unless the opponent chooses to have standout cornerback Christian Gonzalez follow the third-year player.",
@@ -273,10 +320,10 @@
       "url": "https://www.fantasypros.com/nfl/news/609086/omar-cooper-jr-ankle-placed-on-injured-reserve.php"
     },
     {
-      "analysis": "Cooper suffered a sprained ankle early on in his pro debut this past Sunday at Tennessee that left him week to week. He predictably didn't practice during Week 2 prep and then was ruled out ahead of Sunday's matchup with the Packers. Once he's officially on injured reserve, Cooper will need to miss at least the next four games, at which point New York will be able to designate him for return from IR. In the meantime, Isaiah Williams figures to take on a bigger role behind Garrett Williams and Adonai Mitchell.",
+      "analysis": "Cooper suffered a sprained ankle early on in his pro debut this past Sunday at Tennessee that left him week-to-week. He predictably didn't practice during Week 2 prep and then was ruled out ahead of Sunday's matchup with the Packers. Once he's officially on injured reserve, Cooper will need to miss at least the next four games, at which point New York will be able to designate him for return from IR. In the meantime, Isaiah Williams figures to take on a bigger role behind Garrett Williams and Adonai Mitchell.",
       "description": "The Jets are expected to place Cooper (ankle) on injured reserve, Ian Rapoport of NFL Network reports.",
       "metadata": {
-        "analysis": "Cooper suffered a sprained ankle early on in his pro debut this past Sunday at Tennessee that left him week to week. He predictably didn't practice during Week 2 prep and then was ruled out ahead of Sunday's matchup with the Packers. Once he's officially on injured reserve, Cooper will need to miss at least the next four games, at which point New York will be able to designate him for return from IR. In the meantime, Isaiah Williams figures to take on a bigger role behind Garrett Williams and Adonai Mitchell.",
+        "analysis": "Cooper suffered a sprained ankle early on in his pro debut this past Sunday at Tennessee that left him week-to-week. He predictably didn't practice during Week 2 prep and then was ruled out ahead of Sunday's matchup with the Packers. Once he's officially on injured reserve, Cooper will need to miss at least the next four games, at which point New York will be able to designate him for return from IR. In the meantime, Isaiah Williams figures to take on a bigger role behind Garrett Williams and Adonai Mitchell.",
         "description": "The Jets are expected to place Cooper (ankle) on injured reserve, Ian Rapoport of NFL Network reports.",
         "title": "Omar Cooper - To be placed on injured reserve",
         "topic_id": "1407075452408844288"
@@ -421,7 +468,7 @@
       "description": "Los Angeles Rams tight end Terrance Ferguson may have a bigger role waiting Monday night. Jordan Whittington is doubtful with a quad injury, while Puka Nacua is questionable after missing Friday and Saturday. Ferguson didn't catch his lone target in Week 1, but he played 31 snaps and ran more routes than any other Rams tight end. That matters now. Los Angeles has leaned heavily on multi-tight end packages under Sean McVay, and being thin at receiver gives those looks an obvious path back into the plan. Colby Parkinson, Tyler Higbee and Davis Allen keep the tight end room crowded, so this isn't suddenly a guaranteed target spike. Still, Ferguson's role had already grown from last season before the receiver injuries hit. If Whittington sits and Nacua is limited or unavailable, Ferguson should have a better chance to stay on the field and see more work. His fantasy stock is moving up before Monday night.",
       "metadata": {
         "description": "Los Angeles Rams tight end Terrance Ferguson may have a bigger role waiting Monday night. Jordan Whittington is doubtful with a quad injury, while Puka Nacua is questionable after missing Friday and Saturday. Ferguson didn't catch his lone target in Week 1, but he played 31 snaps and ran more routes than any other Rams tight end. That matters now. Los Angeles has leaned heavily on multi-tight end packages under Sean McVay, and being thin at receiver gives those looks an obvious path back into the plan. Colby Parkinson, Tyler Higbee and Davis Allen keep the tight end room crowded, so this isn't suddenly a guaranteed target spike. Still, Ferguson's role had already grown from last season before the receiver injuries hit. If Whittington sits and Nacua is limited or unavailable, Ferguson should have a better chance to stay on the field and see more work. His fantasy stock is moving up before Monday night.",
-        "title": "Terrance Ferguson Could See Larger Role With Rams Shorthanded",
+        "title": "Terrance Ferguson Could See Larger Role With Rams Short-Handed",
         "topic_id": "1407128331656130560",
         "url": "https://www.rotoballer.com/player-news/terrance-ferguson-could-see-larger-role-with-rams-shorthanded/1945272"
       },
@@ -433,7 +480,7 @@
       "source": "rotoballer",
       "source_key": "221634",
       "story_id": "nfl|12487|rotoballer|221634|1789833220000",
-      "title": "Terrance Ferguson Could See Larger Role With Rams Shorthanded",
+      "title": "Terrance Ferguson Could See Larger Role With Rams Short-Handed",
       "url": "https://www.rotoballer.com/player-news/terrance-ferguson-could-see-larger-role-with-rams-shorthanded/1945272"
     },
     {
@@ -80311,146 +80358,6 @@
       "story_id": "nfl|13285|rotoballer|219039|1787266748000",
       "title": "Malachi Fields Making a Case for WR2 Role in New York",
       "url": "https://www.rotoballer.com/player-news/malachi-fields-making-a-case-for-wr2-role-in-new-york/1912967"
-    },
-    {
-      "analysis": null,
-      "description": "Cleveland Browns rookie wide receiver Denzel Boston was his team's most impressive player during a joint practice session with the Buffalo Bills on Thursday, according to Joe Buscaglia of The Athletic. The 39th overall pick in the 2026 NFL Draft, Boston recorded 62 catches for 881 yards and 11 touchdowns across 12 games at the University of Washington in 2025. Along with fellow Cleveland rookie wideout KC Concepcion, Boston is expected to play a significant role in the Browns' offense right away. While Cleveland's uncertain quarterback situation is a potential limiting factor for Boston's production, the 22-year-old carries significant upside due to his combination of talent and immediate opportunity. He could be a sleeper to target in redraft leagues ahead of 2026.",
-      "metadata": {
-        "description": "Cleveland Browns rookie wide receiver Denzel Boston was his team's most impressive player during a joint practice session with the Buffalo Bills on Thursday, according to Joe Buscaglia of The Athletic. The 39th overall pick in the 2026 NFL Draft, Boston recorded 62 catches for 881 yards and 11 touchdowns across 12 games at the University of Washington in 2025. Along with fellow Cleveland rookie wideout KC Concepcion, Boston is expected to play a significant role in the Browns' offense right away. While Cleveland's uncertain quarterback situation is a potential limiting factor for Boston's production, the 22-year-old carries significant upside due to his combination of talent and immediate opportunity. He could be a sleeper to target in redraft leagues ahead of 2026.",
-        "title": "Denzel Boston a Stand-Out Performer in Joint Practice on Thursday",
-        "topic_id": "1396352357796696064",
-        "url": "https://www.rotoballer.com/player-news/denzel-boston-a-stand-out-performer-in-joint-practice-on-thursday/1912938"
-      },
-      "nfl_team": "CLE",
-      "player_id": "13346",
-      "player_name": "Denzel Boston",
-      "position": "WR",
-      "published": 1787263930000,
-      "source": "rotoballer",
-      "source_key": "219036",
-      "story_id": "nfl|13346|rotoballer|219036|1787263930000",
-      "title": "Denzel Boston a Stand-Out Performer in Joint Practice on Thursday",
-      "url": "https://www.rotoballer.com/player-news/denzel-boston-a-stand-out-performer-in-joint-practice-on-thursday/1912938"
-    },
-    {
-      "analysis": null,
-      "description": "According to NFL.com, Arizona Cardinals quarterback Jacoby Brissett will not play Saturday against the Cowboys, rookie quarterback Carson Beck (ribs) is unlikely to play, and Gardner Minshew will start for the Cardinals. Brissett started in the Cardinals' pre-season game against the Raiders on August 13 and looked sharp, completing all five of his passes for 44 yards and a touchdown (142.9 passer rating). Brissett signed a reworked one-year, $5.5 million fully guaranteed contract for the 2026 season after he burst onto the scene last season, throwing for 3,366 yards, 23 touchdowns, and 8 interceptions, and finishing the season as the QB16 in only 14 games. Brissett has been a journeyman throughout his career, playing for six different NFL teams, and is set to be the Cardinals' Week 1 starter once the regular season begins. RotoBaller ranks Brissett as the QB28 entering draft season, and he will have a wide array of weapons around him, including Marvin Harrison Jr., Michael Wilson, Trey McBride, and rookie running back Jeremiyah Love (ankle).",
-      "metadata": {
-        "description": "According to NFL.com, Arizona Cardinals quarterback Jacoby Brissett will not play Saturday against the Cowboys, rookie quarterback Carson Beck (ribs) is unlikely to play, and Gardner Minshew will start for the Cardinals. Brissett started in the Cardinals' pre-season game against the Raiders on August 13 and looked sharp, completing all five of his passes for 44 yards and a touchdown (142.9 passer rating). Brissett signed a reworked one-year, $5.5 million fully guaranteed contract for the 2026 season after he burst onto the scene last season, throwing for 3,366 yards, 23 touchdowns, and 8 interceptions, and finishing the season as the QB16 in only 14 games. Brissett has been a journeyman throughout his career, playing for six different NFL teams, and is set to be the Cardinals' Week 1 starter once the regular season begins. RotoBaller ranks Brissett as the QB28 entering draft season, and he will have a wide array of weapons around him, including Marvin Harrison Jr., Michael Wilson, Trey McBride, and rookie running back Jeremiyah Love (ankle).",
-        "title": "Jacoby Brissett Will Not Play Saturday Against the Cowboys",
-        "topic_id": "1396349843206606848",
-        "url": "https://www.rotoballer.com/player-news/jacoby-brissett-will-not-play-saturday-against-the-cowboys/1912932"
-      },
-      "nfl_team": "ARI",
-      "player_id": "3257",
-      "player_name": "Jacoby Brissett",
-      "position": "QB",
-      "published": 1787263389000,
-      "source": "rotoballer",
-      "source_key": "219035",
-      "story_id": "nfl|3257|rotoballer|219035|1787263389000",
-      "title": "Jacoby Brissett Will Not Play Saturday Against the Cowboys",
-      "url": "https://www.rotoballer.com/player-news/jacoby-brissett-will-not-play-saturday-against-the-cowboys/1912932"
-    },
-    {
-      "analysis": "Judkins has missed back-to-back sessions due to an unspecified injury, but considering Monken's comment, the Browns nonetheless are taking a cautious approach with the second-year pro. As a rookie second-round pick in 2025, Judkins tallied 230 carries for 827 yards and seven touchdowns while hauling in 26 of 36 targets for 171 yards in 14 regular-season games before suffering a dislocated right ankle and broken right fibula Week 16 that required surgery. He was taking 11-on-11 drills as of mid-May and otherwise was back to 100 percent before the recent setback, health-wise. It's unclear if Judkins will suit up for Saturday's preseason contest against the Bills as a result.",
-      "description": "Judkins (undisclosed) didn't practice Thursday, but coach Todd Monken said afterward that the running back is tending to \"a little something nagging, nothing big,\" Kelsey Russo of the Browns' official site reports.",
-      "metadata": {
-        "analysis": "Judkins has missed back-to-back sessions due to an unspecified injury, but considering Monken's comment, the Browns nonetheless are taking a cautious approach with the second-year pro. As a rookie second-round pick in 2025, Judkins tallied 230 carries for 827 yards and seven touchdowns while hauling in 26 of 36 targets for 171 yards in 14 regular-season games before suffering a dislocated right ankle and broken right fibula Week 16 that required surgery. He was taking 11-on-11 drills as of mid-May and otherwise was back to 100 percent before the recent setback, health-wise. It's unclear if Judkins will suit up for Saturday's preseason contest against the Bills as a result.",
-        "description": "Judkins (undisclosed) didn't practice Thursday, but coach Todd Monken said afterward that the running back is tending to \"a little something nagging, nothing big,\" Kelsey Russo of the Browns' official site reports.",
-        "title": "Quinshon Judkins - Injury downplayed by Monken",
-        "topic_id": "1396286874082881536"
-      },
-      "nfl_team": "CLE",
-      "player_id": "12512",
-      "player_name": "Quinshon Judkins",
-      "position": "RB",
-      "published": 1787262862000,
-      "source": "rotowire",
-      "source_key": "634247",
-      "story_id": "nfl|12512|rotowire|634247|1787262862000",
-      "title": "Quinshon Judkins - Injury downplayed by Monken",
-      "url": null
-    },
-    {
-      "analysis": "Nacua has been a spectator at practice since departing last Tuesday's joint session with the Cowboys early, eventually getting diagnosed with soreness in his psoas. On Monday, coach Sean McVay said Nacua may not return to practice until next week, which now will be his next chance to mix back into drills. The Rams likely will continue to take it easy with Nacua to ensure he's healthy for a Week 1 matchup with the 49ers in Melbourne, Australia on Thursday, Sept. 10.",
-      "description": "Nacua was a non-participant at Thursday's joint practice with the Saints, Stu Jackson and Zach Edwards of the Rams' official site report.",
-      "metadata": {
-        "analysis": "Nacua has been a spectator at practice since departing last Tuesday's joint session with the Cowboys early, eventually getting diagnosed with soreness in his psoas. On Monday, coach Sean McVay said Nacua may not return to practice until next week, which now will be his next chance to mix back into drills. The Rams likely will continue to take it easy with Nacua to ensure he's healthy for a Week 1 matchup with the 49ers in Melbourne, Australia on Thursday, Sept. 10.",
-        "description": "Nacua was a non-participant at Thursday's joint practice with the Saints, Stu Jackson and Zach Edwards of the Rams' official site report.",
-        "title": "Puka Nacua - Still sidelined at practice",
-        "topic_id": "1396281841572397056"
-      },
-      "nfl_team": "LAR",
-      "player_id": "9493",
-      "player_name": "Puka Nacua",
-      "position": "WR",
-      "published": 1787261984000,
-      "source": "rotowire",
-      "source_key": "634246",
-      "story_id": "nfl|9493|rotowire|634246|1787261984000",
-      "title": "Puka Nacua - Still sidelined at practice",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "According to Pete Sweeney, writer for The Kansas City Star, the Chiefs didn't just sign Kenneth Walker to run; they hope he reshapes the offense. The Chiefs went out and got the Super Bowl MVP Walker in the offseason from the Seahawks, and signed him to a three-year, $43.05 million contract to be the team's lead running back after they moved on from Isiah Pacheco and Kareem Hunt. Walker, entering his age 25 season, was one of the NFL's most efficient runners in the league, as he ranked sixth in evaded tackles, fourth in explosive rating, third in breakaway, and 12th in yards per touch. Reports from camp have also suggested that the Chiefs brought him in for his explosiveness and plan to get him more involved in the passing game. Last season, his ceiling was capped by Zach Charbonnet, who had 12 rushing touchdowns, and Walker enters a Patrick Mahomes-led offense where he will not have much competition for touches with Emari Demercado, Emmett Johnson, and Brashard Smith behind him. RotoBaller ranks him as the RB10 for the season, and he has the upside to finish inside the top five given his projected workload and explosiveness.",
-      "metadata": {
-        "description": "According to Pete Sweeney, writer for The Kansas City Star, the Chiefs didn't just sign Kenneth Walker to run; they hope he reshapes the offense. The Chiefs went out and got the Super Bowl MVP Walker in the offseason from the Seahawks, and signed him to a three-year, $43.05 million contract to be the team's lead running back after they moved on from Isiah Pacheco and Kareem Hunt. Walker, entering his age 25 season, was one of the NFL's most efficient runners in the league, as he ranked sixth in evaded tackles, fourth in explosive rating, third in breakaway, and 12th in yards per touch. Reports from camp have also suggested that the Chiefs brought him in for his explosiveness and plan to get him more involved in the passing game. Last season, his ceiling was capped by Zach Charbonnet, who had 12 rushing touchdowns, and Walker enters a Patrick Mahomes-led offense where he will not have much competition for touches with Emari Demercado, Emmett Johnson, and Brashard Smith behind him. RotoBaller ranks him as the RB10 for the season, and he has the upside to finish inside the top five given his projected workload and explosiveness.",
-        "title": "Chiefs Hope Kenneth Walker Reshapes the Offense",
-        "topic_id": "1396343548072194048",
-        "url": "https://www.rotoballer.com/player-news/chiefs-hope-kenneth-walker-reshapes-the-offense/1912913"
-      },
-      "nfl_team": "KC",
-      "player_id": "8151",
-      "player_name": "Kenneth Walker",
-      "position": "RB",
-      "published": 1787261709000,
-      "source": "rotoballer",
-      "source_key": "219032",
-      "story_id": "nfl|8151|rotoballer|219032|1787261709000",
-      "title": "Chiefs Hope Kenneth Walker Reshapes the Offense",
-      "url": "https://www.rotoballer.com/player-news/chiefs-hope-kenneth-walker-reshapes-the-offense/1912913"
-    },
-    {
-      "analysis": "Beck impressed in the Hall of Fame Game against the Panthers, completing 15 of 19 passes for 188 yards, one touchdown and no interceptions. However, he emerged from the contest with a rib injury, and the extent of his activity level since then has been individual drills. LaFleur added that Beck will throw after Thursday's practice, which will give the Cardinals a sense of where he stands in his recovery.",
-      "description": "Coach Mike LaFleur said Beck (ribs) \"most likely\" won't suit up for Saturday's preseason contest against the Cowboys, Josh Weinfuss of ESPN.com reports.",
-      "metadata": {
-        "analysis": "Beck impressed in the Hall of Fame Game against the Panthers, completing 15 of 19 passes for 188 yards, one touchdown and no interceptions. However, he emerged from the contest with a rib injury, and the extent of his activity level since then has been individual drills. LaFleur added that Beck will throw after Thursday's practice, which will give the Cardinals a sense of where he stands in his recovery.",
-        "description": "Coach Mike LaFleur said Beck (ribs) \"most likely\" won't suit up for Saturday's preseason contest against the Cowboys, Josh Weinfuss of ESPN.com reports.",
-        "title": "Carson Beck - 'Most likely' won't play Saturday, per LaFleur",
-        "topic_id": "1396278030384517120"
-      },
-      "nfl_team": "ARI",
-      "player_id": "13272",
-      "player_name": "Carson Beck",
-      "position": "QB",
-      "published": 1787260860000,
-      "source": "rotowire",
-      "source_key": "634244",
-      "story_id": "nfl|13272|rotowire|634244|1787260860000",
-      "title": "Carson Beck - 'Most likely' won't play Saturday, per LaFleur",
-      "url": null
-    },
-    {
-      "analysis": "After a crisp preseason Week 1 in which he competed all five of his passes for 44 yards and one touchdown last Thursday at Las Vegas, Brissett will take a seat for the Cardinals' second exhibition, ceding the start to backup QB Gardner Minshew. Meanwhile, Carson Beck \"most likely\" won't be healthy enough to play through his rib injury, meaning Minshew and Kedon Slovis will handle signal-caller duties Saturday. After inking a reworked contract with Arizona in late July, Brissett again will lead the offense come Week 1.",
-      "description": "Coach Mike LaFleur said Thursday that Brissett won't suit up for Saturday's preseason game against the Cowboys, Josh Weinfuss of ESPN.com reports.",
-      "metadata": {
-        "analysis": "After a crisp preseason Week 1 in which he competed all five of his passes for 44 yards and one touchdown last Thursday at Las Vegas, Brissett will take a seat for the Cardinals' second exhibition, ceding the start to backup QB Gardner Minshew. Meanwhile, Carson Beck \"most likely\" won't be healthy enough to play through his rib injury, meaning Minshew and Kedon Slovis will handle signal-caller duties Saturday. After inking a reworked contract with Arizona in late July, Brissett again will lead the offense come Week 1.",
-        "description": "Coach Mike LaFleur said Thursday that Brissett won't suit up for Saturday's preseason game against the Cowboys, Josh Weinfuss of ESPN.com reports.",
-        "title": "Jacoby Brissett - Won't play in Saturday's preseason contest",
-        "topic_id": "1396278030296436736"
-      },
-      "nfl_team": "ARI",
-      "player_id": "3257",
-      "player_name": "Jacoby Brissett",
-      "position": "QB",
-      "published": 1787260464000,
-      "source": "rotowire",
-      "source_key": "634243",
-      "story_id": "nfl|3257|rotowire|634243|1787260464000",
-      "title": "Jacoby Brissett - Won't play in Saturday's preseason contest",
-      "url": null
     }
   ]
 }
