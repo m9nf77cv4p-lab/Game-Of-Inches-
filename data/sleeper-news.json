@@ -1,26 +1,24 @@
 {
-  "last_checked_at": "2026-09-19T18:49:10Z",
+  "last_checked_at": "2026-09-19T21:07:21Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 290,
+  "monitored_player_count": 291,
   "new_story_ids": [
-    "nfl|11630|rotowire|638038|1789838930000",
-    "nfl|11786|rotoballer|221608|1789821431000",
-    "nfl|12495|rotoballer|221609|1789821907000",
-    "nfl|12507|rotoballer|221618|1789824731000",
-    "nfl|12509|rotoballer|221619|1789825086000",
-    "nfl|13274|rotowire|638037|1789838376000",
-    "nfl|13276|rotoballer|221607|1789821486000",
-    "nfl|13347|rotoballer|221612|1789823289000",
-    "nfl|4033|rotoballer|221622|1789825873000",
-    "nfl|5846|rotoballer|221620|1789825028000",
-    "nfl|6797|rotoballer|221616|1789824488000",
-    "nfl|6819|fantasy_pros|609087|1789838447453",
-    "nfl|6819|rotoballer|221615|1789824373000",
-    "nfl|6819|rotowire|638036|1789837766000",
-    "nfl|8144|rotoballer|221628|1789828629000",
-    "nfl|8259|rotoballer|221621|1789825933000",
-    "nfl|9493|rotowire|638046|1789843289000",
-    "nfl|9754|rotoballer|221617|1789824907000"
+    "nfl|12487|rotoballer|221634|1789833220000",
+    "nfl|12536|rotoballer|221537|1789802626000",
+    "nfl|12536|rotowire|637926|1789770544000",
+    "nfl|13268|rotoballer|221637|1789834399000",
+    "nfl|13276|rotowire|638061|1789849035000",
+    "nfl|13424|fantasy_pros|607674|1789339558093",
+    "nfl|13424|rotoballer|221142|1789489026000",
+    "nfl|13424|rotowire|637387|1789432577000",
+    "nfl|3286|rotoballer|221639|1789836007000",
+    "nfl|5870|rotoballer|221630|1789830428000",
+    "nfl|7569|rotoballer|221636|1789834585000",
+    "nfl|7569|rotowire|638055|1789847749000",
+    "nfl|9493|fantasy_pros|609103|1789844148095",
+    "nfl|9493|rotoballer|221629|1789829122000",
+    "nfl|9997|fantasy_pros|609109|1789848948314",
+    "nfl|9997|rotowire|638059|1789848650000"
   ],
   "schema_version": 1,
   "source": {
@@ -30,6 +28,108 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Cooper thus will miss at least the next four games after he suffered a sprained ankle in his pro debut this past Sunday in Tennessee. His next chance for game action will be a Week 6 road matchup with the Patriots on Sunday, Oct. 18, and in the meantime, the Jets will operate with a receiving corps composed of Garrett Wilson, Adonai Mitchell, Isaiah Williams and Arian Smith.",
+      "description": "The Jets placed Cooper (ankle) on injured reserve Saturday, Amanda Vogt of the team's official site reports.",
+      "metadata": {
+        "analysis": "Cooper thus will miss at least the next four games after he suffered a sprained ankle in his pro debut this past Sunday in Tennessee. His next chance for game action will be a Week 6 road matchup with the Patriots on Sunday, Oct. 18, and in the meantime, the Jets will operate with a receiving corps composed of Garrett Wilson, Adonai Mitchell, Isaiah Williams and Arian Smith.",
+        "description": "The Jets placed Cooper (ankle) on injured reserve Saturday, Amanda Vogt of the team's official site reports.",
+        "title": "Omar Cooper - Officially on injured reserve",
+        "topic_id": "1407133366985179136"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "13276",
+      "player_name": "Omar Cooper",
+      "position": "WR",
+      "published": 1789849035000,
+      "source": "rotowire",
+      "source_key": "638061",
+      "story_id": "nfl|13276|rotowire|638061|1789849035000",
+      "title": "Omar Cooper - Officially on injured reserve",
+      "url": null
+    },
+    {
+      "analysis": "With Flowers out, Mark Andrews will become the primary target for Lamar Jackson. Rashod Bateman will be the Ravens top receiver on the depth chart, but it would be extremely hard to start him, given the amount of routes he run for just one target last week. Rookie Elijah Sarratt could be an interesting watch if called up, but it's best to start Andrews and move on.",
+      "description": "Zay Flowers (hamstring) has been downgraded to out against the New Orleans Saints.",
+      "metadata": {
+        "analysis": "With Flowers out, Mark Andrews will become the primary target for Lamar Jackson. Rashod Bateman will be the Ravens top receiver on the depth chart, but it would be extremely hard to start him, given the amount of routes he run for just one target last week. Rookie Elijah Sarratt could be an interesting watch if called up, but it's best to start Andrews and move on.",
+        "description": "Zay Flowers (hamstring) has been downgraded to out against the New Orleans Saints.",
+        "title": "Zay Flowers (hamstring) out against Saints",
+        "topic_id": "1407132113077039104",
+        "url": "https://www.fantasypros.com/nfl/news/609109/zay-flowers-hamstring-put-against-saints.php"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1789848948314,
+      "source": "fantasy_pros",
+      "source_key": "609109",
+      "story_id": "nfl|9997|fantasy_pros|609109|1789848948314",
+      "title": "Zay Flowers (hamstring) out against Saints",
+      "url": "https://www.fantasypros.com/nfl/news/609109/zay-flowers-hamstring-put-against-saints.php"
+    },
+    {
+      "analysis": "Typically, players listed as doubtful on final injury reports of the week are inactive on game days, but the Ravens got ahead of the issue and deemed Flowers unable to play one day prior. He thus will miss at least one contest as a result of the hamstring issue he suffered in Week 1, and Baltimore will roll with a receiving corps of Rashod Bateman, Devontez Walker, Elijah Sarratt and LaJohntay Wester in the meantime.",
+      "description": "Flowers (hamstring) has been downgraded to out for Sunday's game against the Saints.",
+      "metadata": {
+        "analysis": "Typically, players listed as doubtful on final injury reports of the week are inactive on game days, but the Ravens got ahead of the issue and deemed Flowers unable to play one day prior. He thus will miss at least one contest as a result of the hamstring issue he suffered in Week 1, and Baltimore will roll with a receiving corps of Rashod Bateman, Devontez Walker, Elijah Sarratt and LaJohntay Wester in the meantime.",
+        "description": "Flowers (hamstring) has been downgraded to out for Sunday's game against the Saints.",
+        "title": "Zay Flowers - Ruled out for Sunday's game",
+        "topic_id": "1407132109725843456"
+      },
+      "nfl_team": "BAL",
+      "player_id": "9997",
+      "player_name": "Zay Flowers",
+      "position": "WR",
+      "published": 1789848650000,
+      "source": "rotowire",
+      "source_key": "638059",
+      "story_id": "nfl|9997|rotowire|638059|1789848650000",
+      "title": "Zay Flowers - Ruled out for Sunday's game",
+      "url": null
+    },
+    {
+      "analysis": "Collins already has been ruled out for Sunday's game versus the Bengals as a result of the hamstring injury that he picked up at Wednesday's practice. The injury isn't considered to be a long-term concern, but as Wilson reports, the Texans could err on the side of caution and keep him out Week 3 at Indianapolis as well to ensure the issue doesn't linger. In Collins' absence, Houston will roll with Xavier Hutchinson, Kayshon Boutte, Jaylin Noel, Jared Wayne and practice-squad call-up Lewis Bond at wide receiver.",
+      "description": "Collins may miss two games due to a hamstring injury, Aaron Wilson of KPRC 2 Houston reports.",
+      "metadata": {
+        "analysis": "Collins already has been ruled out for Sunday's game versus the Bengals as a result of the hamstring injury that he picked up at Wednesday's practice. The injury isn't considered to be a long-term concern, but as Wilson reports, the Texans could err on the side of caution and keep him out Week 3 at Indianapolis as well to ensure the issue doesn't linger. In Collins' absence, Houston will roll with Xavier Hutchinson, Kayshon Boutte, Jaylin Noel, Jared Wayne and practice-squad call-up Lewis Bond at wide receiver.",
+        "description": "Collins may miss two games due to a hamstring injury, Aaron Wilson of KPRC 2 Houston reports.",
+        "title": "Nico Collins - Could miss two games",
+        "topic_id": "1407128334562791424"
+      },
+      "nfl_team": "HOU",
+      "player_id": "7569",
+      "player_name": "Nico Collins",
+      "position": "WR",
+      "published": 1789847749000,
+      "source": "rotowire",
+      "source_key": "638055",
+      "story_id": "nfl|7569|rotowire|638055|1789847749000",
+      "title": "Nico Collins - Could miss two games",
+      "url": null
+    },
+    {
+      "analysis": "Nacua has now missed two practices in a row with a hip issue, and that does not bode well for his status on game day. Fantasy managers will need to have contingency plans ready in case he sits. Davante Adams is next up for targets, but Colby Parkinson and Terrance Ferguson could see more looks. Konata Mumpfield is likely next up behind Puka with Jordan Whittington also questionable.",
+      "description": "Puka Nacua (hip) did not practice on Saturday and is now labeled questionable for Monday night against the Giants.",
+      "metadata": {
+        "analysis": "Nacua has now missed two practices in a row with a hip issue, and that does not bode well for his status on game day. Fantasy managers will need to have contingency plans ready in case he sits. Davante Adams is next up for targets, but Colby Parkinson and Terrance Ferguson could see more looks. Konata Mumpfield is likely next up behind Puka with Jordan Whittington also questionable.",
+        "description": "Puka Nacua (hip) did not practice on Saturday and is now labeled questionable for Monday night against the Giants.",
+        "title": "Puka Nacua (hip) questionable for Monday night",
+        "topic_id": "1407111979486679040",
+        "url": "https://www.fantasypros.com/nfl/news/609103/puka-nacua-hip-questionable-monday-night.php"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1789844148095,
+      "source": "fantasy_pros",
+      "source_key": "609103",
+      "story_id": "nfl|9493|fantasy_pros|609103|1789844148095",
+      "title": "Puka Nacua (hip) questionable for Monday night",
+      "url": "https://www.fantasypros.com/nfl/news/609103/puka-nacua-hip-questionable-monday-night.php"
+    },
     {
       "analysis": "Nacua thus will miss practice for a second day in a row to end Week 2 prep, and McVay also told Royer that the wide receiver is dealing with some soreness in his groin, but the Rams will see how he feels as Monday's kickoff approaches. The issue apparently is different than the psoas soreness that Nacua tended to during training camp, and his status very well could come down to a game-time decision.",
       "description": "Coach Sean McVay said Nacua (hip) won't practice Saturday and will be listed as questionable for Monday's game against the Giants, Benjamin Royer of The Orange County Register reports.",
@@ -132,6 +232,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Demarcus Robinson was one of the bright spots of his team's 27-7 Week 1 win over the Los Angeles Rams, recording two catches for 50 yards and a touchdown on three targets. Robinson played a limited role in the San Francisco offense in 2025, recording 22 catches across 14 games. However, the 49ers wide receiver corps has already been decimated by injuries in 2026, with Ricky Pearsall (knee) out of the season and rookie De'Zhaun Stribling (ankle) expected to miss 10 weeks after undergoing ankle surgery. Robinson could now emerge as the WR3 in San Francisco behind veteran wideouts Mike Evans and Deebo Samuel Sr. Robinson has shown he can be an explosive downfield threat before, recording 31 catches for 505 yards and seven touchdowns across 17 games with the Los Angeles Rams in 2024. In deeper fantasy leagues, Robinson could eventually work his way into flex territory in the right matchups.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Demarcus Robinson was one of the bright spots of his team's 27-7 Week 1 win over the Los Angeles Rams, recording two catches for 50 yards and a touchdown on three targets. Robinson played a limited role in the San Francisco offense in 2025, recording 22 catches across 14 games. However, the 49ers wide receiver corps has already been decimated by injuries in 2026, with Ricky Pearsall (knee) out of the season and rookie De'Zhaun Stribling (ankle) expected to miss 10 weeks after undergoing ankle surgery. Robinson could now emerge as the WR3 in San Francisco behind veteran wideouts Mike Evans and Deebo Samuel Sr. Robinson has shown he can be an explosive downfield threat before, recording 31 catches for 505 yards and seven touchdowns across 17 games with the Los Angeles Rams in 2024. In deeper fantasy leagues, Robinson could eventually work his way into flex territory in the right matchups.",
+        "title": "Demarcus Robinson in Line for Larger Role in San Francisco",
+        "topic_id": "1407140915914477568",
+        "url": "https://www.rotoballer.com/player-news/demarcus-robinson-in-line-for-larger-role-in-san-francisco/1945298"
+      },
+      "nfl_team": "SF",
+      "player_id": "3286",
+      "player_name": "Demarcus Robinson",
+      "position": "WR",
+      "published": 1789836007000,
+      "source": "rotoballer",
+      "source_key": "221639",
+      "story_id": "nfl|3286|rotoballer|221639|1789836007000",
+      "title": "Demarcus Robinson in Line for Larger Role in San Francisco",
+      "url": "https://www.rotoballer.com/player-news/demarcus-robinson-in-line-for-larger-role-in-san-francisco/1945298"
+    },
+    {
       "analysis": "The Jets are placing their first-round rookie on injured reserve after he suffered an ankle injury in his NFL debut last week. He is going to miss at least four weeks as a result, but he's not expected to be out much beyond that. Adonai Mitchell and Kenyon Sadiq will both see increased opportunities in his absence for the next few weeks at least.",
       "description": "Omar Cooper Jr. (ankle) has been placed on injured reserve and will be sidelined for at least four weeks.",
       "metadata": {
@@ -171,6 +291,26 @@
       "story_id": "nfl|13276|rotowire|638034|1789835046000",
       "title": "Omar Cooper - To be placed on injured reserve",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Nico Collins is already out for Sunday against Cincinnati, and the hamstring injury may cost him more than one game. Collins suffered a Grade 1 strain in practice Wednesday after opening the season with seven catches for 75 yards and a touchdown on 10 targets against Buffalo. Aaron Wilson reports the current expectation is that Collins could also miss next week's road game against Indianapolis, though the situation remains fluid. That's a significant short-term hit for a receiver who immediately returned to his usual high-volume role in Week 1. The good news is that Collins avoided a more serious injury. The bad news is that hamstrings can linger, and Houston may choose to be cautious with his return. Sunday is already off the table. If the current expectation holds and Collins also sits in Week 3, fantasy managers could be without him for two straight games.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Nico Collins is already out for Sunday against Cincinnati, and the hamstring injury may cost him more than one game. Collins suffered a Grade 1 strain in practice Wednesday after opening the season with seven catches for 75 yards and a touchdown on 10 targets against Buffalo. Aaron Wilson reports the current expectation is that Collins could also miss next week's road game against Indianapolis, though the situation remains fluid. That's a significant short-term hit for a receiver who immediately returned to his usual high-volume role in Week 1. The good news is that Collins avoided a more serious injury. The bad news is that hamstrings can linger, and Houston may choose to be cautious with his return. Sunday is already off the table. If the current expectation holds and Collins also sits in Week 3, fantasy managers could be without him for two straight games.",
+        "title": "Nico Collins Could Miss Multiple Games With Hamstring Injury",
+        "topic_id": "1407133365336813568",
+        "url": "https://www.rotoballer.com/player-news/nico-collins-could-miss-multiple-games-with-hamstring-injury/1945288"
+      },
+      "nfl_team": "HOU",
+      "player_id": "7569",
+      "player_name": "Nico Collins",
+      "position": "WR",
+      "published": 1789834585000,
+      "source": "rotoballer",
+      "source_key": "221636",
+      "story_id": "nfl|7569|rotoballer|221636|1789834585000",
+      "title": "Nico Collins Could Miss Multiple Games With Hamstring Injury",
+      "url": "https://www.rotoballer.com/player-news/nico-collins-could-miss-multiple-games-with-hamstring-injury/1945288"
     },
     {
       "analysis": "Franklin found himself on the injury report earlier in the week due to a knee issue, but he was able to practice in full all week and will be good to go for Sunday's game against the Jaguars. He isn't expected to be fantasy relevant for the foreseeable future, however.",
@@ -236,6 +376,26 @@
       "url": "https://www.fantasypros.com/nfl/news/609081/rj-harvey-hamstring-officially-questionable-sunday.php"
     },
     {
+      "analysis": null,
+      "description": "A fourth-round pick out of Indiana, Baltimore Ravens rookie wide receiver Elijah Sarratt was a healthy scratch in his team's Week 1 win over the Indianapolis Colts. However, the Ravens placed fellow rookie wideout Ja'Kobi Lane (wrist) on Injured Reserve earlier this week, and star wide receiver Zay Flowers (hamstring) is doubtful to play in Week 2 with a hamstring injury. As a result, Sarratt could now be in line for a significant role in the Ravens' passing game. If Flowers is unable to play on Sunday against the New Orleans Saints, Baltimore has very little in the way of proven pass-catching talent outside of wide receiver Rashod Bateman and tight end Mark Andrews. In deeper leagues, Sarratt could be worth adding ahead of a potential breakout in Week 2.",
+      "metadata": {
+        "description": "A fourth-round pick out of Indiana, Baltimore Ravens rookie wide receiver Elijah Sarratt was a healthy scratch in his team's Week 1 win over the Indianapolis Colts. However, the Ravens placed fellow rookie wideout Ja'Kobi Lane (wrist) on Injured Reserve earlier this week, and star wide receiver Zay Flowers (hamstring) is doubtful to play in Week 2 with a hamstring injury. As a result, Sarratt could now be in line for a significant role in the Ravens' passing game. If Flowers is unable to play on Sunday against the New Orleans Saints, Baltimore has very little in the way of proven pass-catching talent outside of wide receiver Rashod Bateman and tight end Mark Andrews. In deeper leagues, Sarratt could be worth adding ahead of a potential breakout in Week 2.",
+        "title": "Elijah Sarratt Poised for Larger Role in Baltimore",
+        "topic_id": "1407133365332619264",
+        "url": "https://www.rotoballer.com/player-news/elijah-sarratt-poised-for-larger-role-in-baltimore/1945284"
+      },
+      "nfl_team": "BAL",
+      "player_id": "13268",
+      "player_name": "Elijah Sarratt",
+      "position": "WR",
+      "published": 1789834399000,
+      "source": "rotoballer",
+      "source_key": "221637",
+      "story_id": "nfl|13268|rotoballer|221637|1789834399000",
+      "title": "Elijah Sarratt Poised for Larger Role in Baltimore",
+      "url": "https://www.rotoballer.com/player-news/elijah-sarratt-poised-for-larger-role-in-baltimore/1945284"
+    },
+    {
       "analysis": "Meyers was on the injury report all week due to a lingering wrist issue, but he is going to be good to go and will play in Sunday's game against the Broncos. Fantasy managers shouldn't trust in his week-to-week consistency at this point in the season, however, especially in what projects to be a tough matchup.",
       "description": "Jakobi Meyers (wrist) will be good to go for Sunday's game against the Denver Broncos.",
       "metadata": {
@@ -255,6 +415,66 @@
       "story_id": "nfl|5947|fantasy_pros|609076|1789833940599",
       "title": "Jakobi Meyers (wrist) good to go for Sunday",
       "url": "https://www.fantasypros.com/nfl/news/609076/jakobi-meyers-wrist-good-to-go-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams tight end Terrance Ferguson may have a bigger role waiting Monday night. Jordan Whittington is doubtful with a quad injury, while Puka Nacua is questionable after missing Friday and Saturday. Ferguson didn't catch his lone target in Week 1, but he played 31 snaps and ran more routes than any other Rams tight end. That matters now. Los Angeles has leaned heavily on multi-tight end packages under Sean McVay, and being thin at receiver gives those looks an obvious path back into the plan. Colby Parkinson, Tyler Higbee and Davis Allen keep the tight end room crowded, so this isn't suddenly a guaranteed target spike. Still, Ferguson's role had already grown from last season before the receiver injuries hit. If Whittington sits and Nacua is limited or unavailable, Ferguson should have a better chance to stay on the field and see more work. His fantasy stock is moving up before Monday night.",
+      "metadata": {
+        "description": "Los Angeles Rams tight end Terrance Ferguson may have a bigger role waiting Monday night. Jordan Whittington is doubtful with a quad injury, while Puka Nacua is questionable after missing Friday and Saturday. Ferguson didn't catch his lone target in Week 1, but he played 31 snaps and ran more routes than any other Rams tight end. That matters now. Los Angeles has leaned heavily on multi-tight end packages under Sean McVay, and being thin at receiver gives those looks an obvious path back into the plan. Colby Parkinson, Tyler Higbee and Davis Allen keep the tight end room crowded, so this isn't suddenly a guaranteed target spike. Still, Ferguson's role had already grown from last season before the receiver injuries hit. If Whittington sits and Nacua is limited or unavailable, Ferguson should have a better chance to stay on the field and see more work. His fantasy stock is moving up before Monday night.",
+        "title": "Terrance Ferguson Could See Larger Role With Rams Shorthanded",
+        "topic_id": "1407128331656130560",
+        "url": "https://www.rotoballer.com/player-news/terrance-ferguson-could-see-larger-role-with-rams-shorthanded/1945272"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12487",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "published": 1789833220000,
+      "source": "rotoballer",
+      "source_key": "221634",
+      "story_id": "nfl|12487|rotoballer|221634|1789833220000",
+      "title": "Terrance Ferguson Could See Larger Role With Rams Shorthanded",
+      "url": "https://www.rotoballer.com/player-news/terrance-ferguson-could-see-larger-role-with-rams-shorthanded/1945272"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts quarterback Daniel Jones completed 19 of 31 passes for 166 yards, one touchdown and one interception in last week's 41-23 loss to Baltimore. It was his first game since tearing his Achilles in December 2025, and he added only four yards on one carry. Indianapolis now travels to Kansas City, where the Chiefs held Denver to 10 points and 176 total yards, sacked Bo Nix four times and intercepted him once. That pass rush is the biggest concern after Jones was sacked twice by Baltimore, while the Colts themselves have emphasized staying ahead of the sticks after repeatedly falling behind schedule in the opener. Jones does have his main weapons available, with Alec Pierce returning to full participation Friday and carrying no game designation alongside Keenan Allen, Josh Downs, Tyler Warren and Jonathan Taylor. RotoBaller ranks Jones as the QB24 for Week 2. He is usable in Superflex formats, but this is a difficult spot to trust him in a standard one-quarterback league.",
+      "metadata": {
+        "description": "Indianapolis Colts quarterback Daniel Jones completed 19 of 31 passes for 166 yards, one touchdown and one interception in last week's 41-23 loss to Baltimore. It was his first game since tearing his Achilles in December 2025, and he added only four yards on one carry. Indianapolis now travels to Kansas City, where the Chiefs held Denver to 10 points and 176 total yards, sacked Bo Nix four times and intercepted him once. That pass rush is the biggest concern after Jones was sacked twice by Baltimore, while the Colts themselves have emphasized staying ahead of the sticks after repeatedly falling behind schedule in the opener. Jones does have his main weapons available, with Alec Pierce returning to full participation Friday and carrying no game designation alongside Keenan Allen, Josh Downs, Tyler Warren and Jonathan Taylor. RotoBaller ranks Jones as the QB24 for Week 2. He is usable in Superflex formats, but this is a difficult spot to trust him in a standard one-quarterback league.",
+        "title": "Daniel Jones Faces Difficult Week 2 Matchup in Kansas City",
+        "topic_id": "1407117007018561536",
+        "url": "https://www.rotoballer.com/player-news/daniel-jones-faces-difficult-week-2-matchup-in-kansas-city/1945243"
+      },
+      "nfl_team": "IND",
+      "player_id": "5870",
+      "player_name": "Daniel Jones",
+      "position": "QB",
+      "published": 1789830428000,
+      "source": "rotoballer",
+      "source_key": "221630",
+      "story_id": "nfl|5870|rotoballer|221630|1789830428000",
+      "title": "Daniel Jones Faces Difficult Week 2 Matchup in Kansas City",
+      "url": "https://www.rotoballer.com/player-news/daniel-jones-faces-difficult-week-2-matchup-in-kansas-city/1945243"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Puka Nacua (groin) is questionable for Monday night's game against the Giants, according to Nate Atkins. Nacua will miss practice for a second straight day Saturday after sitting out Friday. Atkins reports that the groin injury is separate from the psoas issue Nacua dealt with during training camp. He caught five of nine targets for 74 yards in the season-opening loss to San Francisco. The Rams also have a concern behind him, with Jordan Whittington doubtful because of a quad injury. Whittington is listed directly behind Nacua on the depth chart. Davante Adams would be the clear top receiver available if Nacua can't play.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Puka Nacua (groin) is questionable for Monday night's game against the Giants, according to Nate Atkins. Nacua will miss practice for a second straight day Saturday after sitting out Friday. Atkins reports that the groin injury is separate from the psoas issue Nacua dealt with during training camp. He caught five of nine targets for 74 yards in the season-opening loss to San Francisco. The Rams also have a concern behind him, with Jordan Whittington doubtful because of a quad injury. Whittington is listed directly behind Nacua on the depth chart. Davante Adams would be the clear top receiver available if Nacua can't play.",
+        "title": "Puka Nacua Questionable for Monday Night With Groin Injury",
+        "topic_id": "1407111972620709888",
+        "url": "https://www.rotoballer.com/player-news/puka-nacua-questionable-for-monday-night/1945228"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1789829122000,
+      "source": "rotoballer",
+      "source_key": "221629",
+      "story_id": "nfl|9493|rotoballer|221629|1789829122000",
+      "title": "Puka Nacua Questionable for Monday Night With Groin Injury",
+      "url": "https://www.rotoballer.com/player-news/puka-nacua-questionable-for-monday-night/1945228"
     },
     {
       "analysis": null,
@@ -1618,6 +1838,26 @@
     },
     {
       "analysis": null,
+      "description": "Houston Texans wide receiver Jaylin Noel is an intriguing option for DFS value and streaming in Week 2, since his team will be without star WR Nico Collins (hamstring). In Week 1, the second-year slot receiver played only 30% of offensive snaps but caught both his targets for 53 receiving yards, the second-highest total on the team. Noel had five catches for 63 yards in the one game that Collins missed in the middle of last season, and he could see a huge target increase with Collins unavailable. The Bengals' defense was solid in Week 1 against the Bucs, but Noel could be set for enough volume to still be an excellent value option to consider. Even with more work, though, he's only RotoBaller's No. 64 WR for Week 2, so there's still significant risk along with his upside.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Jaylin Noel is an intriguing option for DFS value and streaming in Week 2, since his team will be without star WR Nico Collins (hamstring). In Week 1, the second-year slot receiver played only 30% of offensive snaps but caught both his targets for 53 receiving yards, the second-highest total on the team. Noel had five catches for 63 yards in the one game that Collins missed in the middle of last season, and he could see a huge target increase with Collins unavailable. The Bengals' defense was solid in Week 1 against the Bucs, but Noel could be set for enough volume to still be an excellent value option to consider. Even with more work, though, he's only RotoBaller's No. 64 WR for Week 2, so there's still significant risk along with his upside.",
+        "title": "Jaylin Noel Brings Deep Sleeper Potential",
+        "topic_id": "1406999946137174016",
+        "url": "https://www.rotoballer.com/player-news/jaylin-noel-brings-deep-sleeper-potential/1944749"
+      },
+      "nfl_team": "HOU",
+      "player_id": "12536",
+      "player_name": "Jaylin Noel",
+      "position": "WR",
+      "published": 1789802626000,
+      "source": "rotoballer",
+      "source_key": "221537",
+      "story_id": "nfl|12536|rotoballer|221537|1789802626000",
+      "title": "Jaylin Noel Brings Deep Sleeper Potential",
+      "url": "https://www.rotoballer.com/player-news/jaylin-noel-brings-deep-sleeper-potential/1944749"
+    },
+    {
+      "analysis": null,
       "description": "Cleveland Browns wide receiver KC Concepcion Jr. was pretty involved in the game plan in Week 1 against the Jacksonville Jaguars and ended up with four catches for 43 yards on five targets, rushed the ball three times for 15 yards, and lost a fumble. The Browns clearly tried to get Concepcion involved in the game, and it worked a little bit as he averaged 10.8 yards per reception. Concepcion out-targeted fellow wide receiver Denzel Boston. Look for the Browns to try to find ways to get Concepcion the ball in the team's Week 2 matchup against the Tampa Bay Buccaneers. The Buccaneers' defense did a good job of holding down the Bengals' prolific passing game in Week 1, so they will be tough to pass against in Week 2. With Deshaun Watson at quarterback for the Browns, it's hard to get excited about any Browns receiver, but Concepcion looks as if he could be the most involved in the short passing game and the run game with his ability to run with the ball after the catch. Look for the Browns to try to find ways to showcase Concepcion's quickness and run-after-the-catch ability.",
       "metadata": {
         "description": "Cleveland Browns wide receiver KC Concepcion Jr. was pretty involved in the game plan in Week 1 against the Jacksonville Jaguars and ended up with four catches for 43 yards on five targets, rushed the ball three times for 15 yards, and lost a fumble. The Browns clearly tried to get Concepcion involved in the game, and it worked a little bit as he averaged 10.8 yards per reception. Concepcion out-targeted fellow wide receiver Denzel Boston. Look for the Browns to try to find ways to get Concepcion the ball in the team's Week 2 matchup against the Tampa Bay Buccaneers. The Buccaneers' defense did a good job of holding down the Bengals' prolific passing game in Week 1, so they will be tough to pass against in Week 2. With Deshaun Watson at quarterback for the Browns, it's hard to get excited about any Browns receiver, but Concepcion looks as if he could be the most involved in the short passing game and the run game with his ability to run with the ball after the catch. Look for the Browns to try to find ways to showcase Concepcion's quickness and run-after-the-catch ability.",
@@ -2780,6 +3020,26 @@
       "story_id": "nfl|12467|rotoballer|221472|1789770606000",
       "title": "Jordan James Could Move into RB2 Role",
       "url": "https://www.rotoballer.com/player-news/jordan-james-could-move-into-rb2-role/1944486"
+    },
+    {
+      "analysis": "Noel caught both of his targets for 53 yards in the season opener, operating as Houston's No. 3 receiver and running a route on just 33 percent of dropbacks. He should get more playing time this week, though Xavier Hutchinson and Kayshon Boutte are more likely to take snaps in two-wide sets. Both have maintained consistently low target rates across multiple years of significant playing time, so Noel could make an impact even if he's just the No. 3 receiver.",
+      "description": "Noel has a chance for more playing time with Nico Collins (hamstring) ruled out for Sunday's game against the Bengals, Aaron Wilson of SportsTalk790AM reports.",
+      "metadata": {
+        "analysis": "Noel caught both of his targets for 53 yards in the season opener, operating as Houston's No. 3 receiver and running a route on just 33 percent of dropbacks. He should get more playing time this week, though Xavier Hutchinson and Kayshon Boutte are more likely to take snaps in two-wide sets. Both have maintained consistently low target rates across multiple years of significant playing time, so Noel could make an impact even if he's just the No. 3 receiver.",
+        "description": "Noel has a chance for more playing time with Nico Collins (hamstring) ruled out for Sunday's game against the Bengals, Aaron Wilson of SportsTalk790AM reports.",
+        "title": "Jaylin Noel - Primed for larger role?",
+        "topic_id": "1406803704077619200"
+      },
+      "nfl_team": "HOU",
+      "player_id": "12536",
+      "player_name": "Jaylin Noel",
+      "position": "WR",
+      "published": 1789770544000,
+      "source": "rotowire",
+      "source_key": "637926",
+      "story_id": "nfl|12536|rotowire|637926|1789770544000",
+      "title": "Jaylin Noel - Primed for larger role?",
+      "url": null
     },
     {
       "analysis": "Boutte was targeted on just two of 25 routes in a Week 1 loss to Buffalo, catching one pass for 21 yards. His 60 percent route share was fourth on the team, behind Collins (86 percent), TE Dalton Schultz (71 percent) and WR Xavier Hutchinson (69 percent). With Collins out of the equation, Hutchinson and Boutte are the safest bets to take WR snaps, with Jaylin Noel and Jared Wayne also having roles. The Texans also may lean into multi-TE formations after using 11 personnel on 58 percent of snaps in their season opener.",
@@ -14498,6 +14758,26 @@
       "url": "https://www.fantasypros.com/nfl/news/608096/woody-marks-gets-10-touches-week-1.php"
     },
     {
+      "analysis": null,
+      "description": "A seventh-round pick in the 2026 NFL Draft, Indianapolis Colts running back Seth McGowan has begun his first NFL season in a reserve role behind superstar Colts back Jonathan Taylor. As long as Taylor remains healthy, McGowan is highly unlikely to see a fantasy-relevant workload. In the Colts' 41-23 Week 1 loss to the Baltimore Ravens, the 23-year-old recorded zero carries and one catch for zero yards on one target. Still, McGowan cemented his status as the Colts' RB2, as he was the only back besides Taylor to see the field against Baltimore. Taylor has recorded over 700 touches since the start of the 2024 season, and he appears to be on his way to another massive workload in 2026. If he were to go down with an injury at any point, McGowan could immediately vault into fantasy relevance. In deeper leagues, McGowan could be worth targeting on the waiver wire for his handcuff appeal.",
+      "metadata": {
+        "description": "A seventh-round pick in the 2026 NFL Draft, Indianapolis Colts running back Seth McGowan has begun his first NFL season in a reserve role behind superstar Colts back Jonathan Taylor. As long as Taylor remains healthy, McGowan is highly unlikely to see a fantasy-relevant workload. In the Colts' 41-23 Week 1 loss to the Baltimore Ravens, the 23-year-old recorded zero carries and one catch for zero yards on one target. Still, McGowan cemented his status as the Colts' RB2, as he was the only back besides Taylor to see the field against Baltimore. Taylor has recorded over 700 touches since the start of the 2024 season, and he appears to be on his way to another massive workload in 2026. If he were to go down with an injury at any point, McGowan could immediately vault into fantasy relevance. In deeper leagues, McGowan could be worth targeting on the waiver wire for his handcuff appeal.",
+        "title": "Seth McGowan Remains a Worthy Deep-League Handcuff Running Back",
+        "topic_id": "1405683838054596608",
+        "url": "https://www.rotoballer.com/player-news/seth-mcgowan-remains-a-worthy-deep-league-handcuff-running-back/1932160"
+      },
+      "nfl_team": "IND",
+      "player_id": "13424",
+      "player_name": "Seth McGowan",
+      "position": "RB",
+      "published": 1789489026000,
+      "source": "rotoballer",
+      "source_key": "221142",
+      "story_id": "nfl|13424|rotoballer|221142|1789489026000",
+      "title": "Seth McGowan Remains a Worthy Deep-League Handcuff Running Back",
+      "url": "https://www.rotoballer.com/player-news/seth-mcgowan-remains-a-worthy-deep-league-handcuff-running-back/1932160"
+    },
+    {
       "analysis": "Montgomery was given 23 touches in his debut with the Texans, as the veteran back was a focal point of the offense. Granted, he only averaged 3.0 yards per carry, but he found the end zone three times while being involved both on the ground and through the air.",
       "description": "David Montgomery rushed for 60 yards and two scores on 20 carries, adding three receptions for 19 yards and another touchdown in Sunday's 36-31 loss to the Bills. ",
       "metadata": {
@@ -16648,6 +16928,26 @@
       "source_key": "637390",
       "story_id": "nfl|12185|rotowire|637390|1789432870000",
       "title": "Spencer Shrader - Converts lone field-goal attempt",
+      "url": null
+    },
+    {
+      "analysis": "McGowan was only on the field for six of the team's 54 offensive snaps while operating as the top reserve option at running back behind Jonathan Taylor. McGowan definitely made his mark on special teams during the contest, but as long as Taylor is healthy, he will likely have a limited impact on offense.",
+      "description": "McGowan caught his only target for no gain and notched 164 yards on five kick returns during Sunday's 41-23 loss to the Ravens.",
+      "metadata": {
+        "analysis": "McGowan was only on the field for six of the team's 54 offensive snaps while operating as the top reserve option at running back behind Jonathan Taylor. McGowan definitely made his mark on special teams during the contest, but as long as Taylor is healthy, he will likely have a limited impact on offense.",
+        "description": "McGowan caught his only target for no gain and notched 164 yards on five kick returns during Sunday's 41-23 loss to the Ravens.",
+        "title": "Seth McGowan - Scarcely used offensively in Week 1",
+        "topic_id": "1405386698036178944"
+      },
+      "nfl_team": "IND",
+      "player_id": "13424",
+      "player_name": "Seth McGowan",
+      "position": "RB",
+      "published": 1789432577000,
+      "source": "rotowire",
+      "source_key": "637387",
+      "story_id": "nfl|13424|rotowire|637387|1789432577000",
+      "title": "Seth McGowan - Scarcely used offensively in Week 1",
       "url": null
     },
     {
@@ -24717,6 +25017,27 @@
       "story_id": "nfl|12512|rotowire|637148|1789339740000",
       "title": "Quinshon Judkins - Tallies 50 total yards in loss",
       "url": null
+    },
+    {
+      "analysis": "McGowan was one of many options in the Indianapolis offense that failed to make an impact in the Week 1 loss and can remain off rosters in all formats ahead of a tough Week 2 contest against the Kansas City Chiefs.",
+      "description": "Seth McGowan caught his only target for no gain in the Colts' 41-23 loss to the Baltimore Ravens in Week 1.",
+      "metadata": {
+        "analysis": "McGowan was one of many options in the Indianapolis offense that failed to make an impact in the Week 1 loss and can remain off rosters in all formats ahead of a tough Week 2 contest against the Kansas City Chiefs.",
+        "description": "Seth McGowan caught his only target for no gain in the Colts' 41-23 loss to the Baltimore Ravens in Week 1.",
+        "title": "Seth McGowan catches one pass in Week 1",
+        "topic_id": "1404995575631433728",
+        "url": "https://www.fantasypros.com/nfl/news/607674/seth-mcgowan-catches-one-pass-week-1.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "13424",
+      "player_name": "Seth McGowan",
+      "position": "RB",
+      "published": 1789339558093,
+      "source": "fantasy_pros",
+      "source_key": "607674",
+      "story_id": "nfl|13424|fantasy_pros|607674|1789339558093",
+      "title": "Seth McGowan catches one pass in Week 1",
+      "url": "https://www.fantasypros.com/nfl/news/607674/seth-mcgowan-catches-one-pass-week-1.php"
     },
     {
       "analysis": "The former Jaguar didn't see a lot of work on the ground, but Etienne set a new career high in receptions in his Saints debut as Tyler Shough attempted 56 passes as part of a big second-half comeback to force OT. Etienne has flashed real pass-catching upside in the past, posting a 58-476-1 line on 73 targets in 2023, so this usage in New Orleans may not have been purely due to the game situation. Etienne will look to make his first trip to the end zone of the year in Week 2 on the road against the Ravens.",
@@ -80129,126 +80450,6 @@
       "source_key": "634243",
       "story_id": "nfl|3257|rotowire|634243|1787260464000",
       "title": "Jacoby Brissett - Won't play in Saturday's preseason contest",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams tight end Terrance Ferguson is seeing his route tree expand significantly heading into 2026, according to The Athletic's Nate Atkins. With star wide receiver Puka Nacua (groin) not practicing, Ferguson is stepping up as a playmaker for reigning MVP Matthew Stafford. During joint practice with the New Orleans Saints, Ferguson caught two touchdowns in the red zone and was used all over the formation, a development that is exciting for the second-year tight end. \"Coming in (last year), I never expected to play the positions I'm playing. Being able to play F, Z, Y, and X, all of them together, it's definitely been a big jump.\" Ranked as the TE21 in RotoBaller's positional rankings, Ferguson is a high-upside tight end to target in the late rounds of fantasy drafts.",
-      "metadata": {
-        "description": "Los Angeles Rams tight end Terrance Ferguson is seeing his route tree expand significantly heading into 2026, according to The Athletic's Nate Atkins. With star wide receiver Puka Nacua (groin) not practicing, Ferguson is stepping up as a playmaker for reigning MVP Matthew Stafford. During joint practice with the New Orleans Saints, Ferguson caught two touchdowns in the red zone and was used all over the formation, a development that is exciting for the second-year tight end. \"Coming in (last year), I never expected to play the positions I'm playing. Being able to play F, Z, Y, and X, all of them together, it's definitely been a big jump.\" Ranked as the TE21 in RotoBaller's positional rankings, Ferguson is a high-upside tight end to target in the late rounds of fantasy drafts.",
-        "title": "Terrance Ferguson's Route Tree Expanding in 2026",
-        "topic_id": "1396332227087863808",
-        "url": "https://www.rotoballer.com/player-news/terrance-fergusons-route-tree-expanding-in-2026/1912884"
-      },
-      "nfl_team": "LAR",
-      "player_id": "12487",
-      "player_name": "Terrance Ferguson",
-      "position": "TE",
-      "published": 1787259132000,
-      "source": "rotoballer",
-      "source_key": "219029",
-      "story_id": "nfl|12487|rotoballer|219029|1787259132000",
-      "title": "Terrance Ferguson's Route Tree Expanding in 2026",
-      "url": "https://www.rotoballer.com/player-news/terrance-fergusons-route-tree-expanding-in-2026/1912884"
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams quarterback Matthew Stafford's connection with wide receiver Davante Adams has been on point this offseason. According to The Athletic's Nate Atkins, Stafford and Adams excelled in joint practice with the New Orleans Saints on Thursday, connecting on two touchdowns and on crossers and slants over the middle. After Stafford missed all of training camp last season with a back issue, he and Adams struggled, especially early in the season. Now, with a full offseason and star wide receiver Puka Nacua (groin) not practicing, Stafford is finding Adams all across the field in camp. Adams had only 789 yards in 14 games last season but scored a league-high 14 receiving touchdowns. If Nacua's injury or possible suspension lingers into the season, Adams could be an elite option at wide receiver.",
-      "metadata": {
-        "description": "Los Angeles Rams quarterback Matthew Stafford's connection with wide receiver Davante Adams has been on point this offseason. According to The Athletic's Nate Atkins, Stafford and Adams excelled in joint practice with the New Orleans Saints on Thursday, connecting on two touchdowns and on crossers and slants over the middle. After Stafford missed all of training camp last season with a back issue, he and Adams struggled, especially early in the season. Now, with a full offseason and star wide receiver Puka Nacua (groin) not practicing, Stafford is finding Adams all across the field in camp. Adams had only 789 yards in 14 games last season but scored a league-high 14 receiving touchdowns. If Nacua's injury or possible suspension lingers into the season, Adams could be an elite option at wide receiver.",
-        "title": "Matthew Stafford and Davante Adams' Connection On Point",
-        "topic_id": "1396330964472303616",
-        "url": "https://www.rotoballer.com/player-news/matthew-stafford-and-davante-adams-connection-on-point/1912882"
-      },
-      "nfl_team": "LAR",
-      "player_id": "421",
-      "player_name": "Matthew Stafford",
-      "position": "QB",
-      "published": 1787258709000,
-      "source": "rotoballer",
-      "source_key": "219028",
-      "story_id": "nfl|421|rotoballer|219028|1787258709000",
-      "title": "Matthew Stafford and Davante Adams' Connection On Point",
-      "url": "https://www.rotoballer.com/player-news/matthew-stafford-and-davante-adams-connection-on-point/1912882"
-    },
-    {
-      "analysis": null,
-      "description": "Arizona Cardinals rookie quarterback Carson Beck (ribs) is not expected to play in the second preseason game against the Dallas Cowboys. Beck suffered a rib injury during the Hall of Fame game in early August. The injury was deemed not serious, but he will miss his second preseason game this season. Beck showed promise in that game against the Carolina Panthers, completing 15 of 19 passes for 188 yards and a touchdown. With Beck unlikely to be available and starting quarterback Jacoby Brissett sitting with most of the starters, veteran Gardner Minshew will start on Saturday. The third-round pick hopes to return next week in their final preseason game against the Green Bay Packers.",
-      "metadata": {
-        "description": "Arizona Cardinals rookie quarterback Carson Beck (ribs) is not expected to play in the second preseason game against the Dallas Cowboys. Beck suffered a rib injury during the Hall of Fame game in early August. The injury was deemed not serious, but he will miss his second preseason game this season. Beck showed promise in that game against the Carolina Panthers, completing 15 of 19 passes for 188 yards and a touchdown. With Beck unlikely to be available and starting quarterback Jacoby Brissett sitting with most of the starters, veteran Gardner Minshew will start on Saturday. The third-round pick hopes to return next week in their final preseason game against the Green Bay Packers.",
-        "title": "Carson Beck Not Expected to Play Against Cowboys",
-        "topic_id": "1396325932930732032",
-        "url": "https://www.rotoballer.com/player-news/carson-beck-not-expected-to-play-against-cowboys/1912875"
-      },
-      "nfl_team": "ARI",
-      "player_id": "13272",
-      "player_name": "Carson Beck",
-      "position": "QB",
-      "published": 1787257812000,
-      "source": "rotoballer",
-      "source_key": "219026",
-      "story_id": "nfl|13272|rotoballer|219026|1787257812000",
-      "title": "Carson Beck Not Expected to Play Against Cowboys",
-      "url": "https://www.rotoballer.com/player-news/carson-beck-not-expected-to-play-against-cowboys/1912875"
-    },
-    {
-      "analysis": null,
-      "description": "Cleveland Browns running back Quinshon Judkins (undisclosed) is dealing with a nagging injury that head coach Todd Monken considers \"minor.\" Judkins did not participate on Wednesday or during the team's joint practice with the Buffalo Bills on Thursday, but Monken did not sound too concerned about Judkins sitting out. The second-year back has practiced for most of training camp after suffering a gruesome leg injury late in the 2025 season. As a rookie, Judkins totaled 998 scrimmage yards and seven touchdowns on 256 touches, averaging just 3.6 yards per carry, which was among the lowest in the NFL last season. If this \"nagging injury\" hampers Judkins early in the season, second-year backs Dylan Sampson and Raheim \"Rocket\" Sanders will take on a larger workload, though it appears Judkins should be fine for Week 1 against the Jacksonville Jaguars.",
-      "metadata": {
-        "description": "Cleveland Browns running back Quinshon Judkins (undisclosed) is dealing with a nagging injury that head coach Todd Monken considers \"minor.\" Judkins did not participate on Wednesday or during the team's joint practice with the Buffalo Bills on Thursday, but Monken did not sound too concerned about Judkins sitting out. The second-year back has practiced for most of training camp after suffering a gruesome leg injury late in the 2025 season. As a rookie, Judkins totaled 998 scrimmage yards and seven touchdowns on 256 touches, averaging just 3.6 yards per carry, which was among the lowest in the NFL last season. If this \"nagging injury\" hampers Judkins early in the season, second-year backs Dylan Sampson and Raheim \"Rocket\" Sanders will take on a larger workload, though it appears Judkins should be fine for Week 1 against the Jacksonville Jaguars.",
-        "title": "Quinshon Judkins Dealing with Minor Nagging Injury",
-        "topic_id": "1396324672529793024",
-        "url": "https://www.rotoballer.com/player-news/quinshon-judkins-dealing-with-minor-nagging-injury/1912872"
-      },
-      "nfl_team": "CLE",
-      "player_id": "12512",
-      "player_name": "Quinshon Judkins",
-      "position": "RB",
-      "published": 1787257386000,
-      "source": "rotoballer",
-      "source_key": "219025",
-      "story_id": "nfl|12512|rotoballer|219025|1787257386000",
-      "title": "Quinshon Judkins Dealing with Minor Nagging Injury",
-      "url": "https://www.rotoballer.com/player-news/quinshon-judkins-dealing-with-minor-nagging-injury/1912872"
-    },
-    {
-      "analysis": null,
-      "description": "Chicago Bears wide receiver Rome Odunze has had no issues with his foot during training camp. Odunze suffered a foot stress fracture that caused him to miss five games. He didn't sound 100% confident about the injury during the offseason, saying, \"He will have to learn to adapt to the new normal.\" The third-year receiver put all concerns to rest during camp, participating in all 15 practices so far this summer, and said on Tuesday, \"I don't think about it.\" Over his two seasons with the Bears, Odunze has totaled 1,395 yards and nine touchdowns on 98 receptions. Odunze's fantasy value entering the 2026 season is lower than anticipated, as young playmakers Luther Burden III and Colston Loveland have stolen the limelight. With the foot injury not a factor so far, fantasy managers should feel comfortable taking Odunze in the mid-rounds of drafts.",
-      "metadata": {
-        "description": "Chicago Bears wide receiver Rome Odunze has had no issues with his foot during training camp. Odunze suffered a foot stress fracture that caused him to miss five games. He didn't sound 100% confident about the injury during the offseason, saying, \"He will have to learn to adapt to the new normal.\" The third-year receiver put all concerns to rest during camp, participating in all 15 practices so far this summer, and said on Tuesday, \"I don't think about it.\" Over his two seasons with the Bears, Odunze has totaled 1,395 yards and nine touchdowns on 98 receptions. Odunze's fantasy value entering the 2026 season is lower than anticipated, as young playmakers Luther Burden III and Colston Loveland have stolen the limelight. With the foot injury not a factor so far, fantasy managers should feel comfortable taking Odunze in the mid-rounds of drafts.",
-        "title": "Rome Odunze's Foot Hasn't Been an Issue",
-        "topic_id": "1396322154902990848",
-        "url": "https://www.rotoballer.com/player-news/rome-odunzes-foot-hasnt-been-an-issue/1912866"
-      },
-      "nfl_team": "CHI",
-      "player_id": "11620",
-      "player_name": "Rome Odunze",
-      "position": "WR",
-      "published": 1787256786000,
-      "source": "rotoballer",
-      "source_key": "219024",
-      "story_id": "nfl|11620|rotoballer|219024|1787256786000",
-      "title": "Rome Odunze's Foot Hasn't Been an Issue",
-      "url": "https://www.rotoballer.com/player-news/rome-odunzes-foot-hasnt-been-an-issue/1912866"
-    },
-    {
-      "analysis": "Allen and Downs have overlapping skills sets, but both shifty wide receivers should get plenty of playing time given the Colts' lack of established alternatives at the position besides Alec Pierce (ankle), who is on the active/PUP list. Downs believes sharing the field with Allen will result in him seeing more one-on-one matchups. The 2023 third-round pick had a career-low 566 receiving yards in 2025 after recording 771 receiving yards in his rookie regular season and 803 receiving yards in 2024.",
-      "description": "Downs is excited to play alongside veteran wide receiver Keenan Allen, whom the Colts signed to a one-year contract Monday, Paul Bretl of USA Today Colts Wire reports.",
-      "metadata": {
-        "analysis": "Allen and Downs have overlapping skills sets, but both shifty wide receivers should get plenty of playing time given the Colts' lack of established alternatives at the position besides Alec Pierce (ankle), who is on the active/PUP list. Downs believes sharing the field with Allen will result in him seeing more one-on-one matchups. The 2023 third-round pick had a career-low 566 receiving yards in 2025 after recording 771 receiving yards in his rookie regular season and 803 receiving yards in 2024.",
-        "description": "Downs is excited to play alongside veteran wide receiver Keenan Allen, whom the Colts signed to a one-year contract Monday, Paul Bretl of USA Today Colts Wire reports.",
-        "title": "Josh Downs - Sees positives in team's veteran WR addition",
-        "topic_id": "1396241528682217472"
-      },
-      "nfl_team": "IND",
-      "player_id": "9500",
-      "player_name": "Josh Downs",
-      "position": "WR",
-      "published": 1787252325000,
-      "source": "rotowire",
-      "source_key": "634239",
-      "story_id": "nfl|9500|rotowire|634239|1787252325000",
-      "title": "Josh Downs - Sees positives in team's veteran WR addition",
       "url": null
     }
   ]

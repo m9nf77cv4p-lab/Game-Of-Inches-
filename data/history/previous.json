@@ -21245,7 +21245,7 @@
       "nfl_team": "NYJ",
       "player_id": "13276",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 0
     },
     "13278": {
@@ -22740,7 +22740,7 @@
       ],
       "first_name": "Michael",
       "full_name": "Michael Pittman",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Pittman",
       "nfl_team": "PIT",
       "player_id": "6819",
@@ -24121,8 +24121,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-19T09:15:26Z",
-    "source_fingerprint": "a63d241157775a4122a512b8ca7032147f10e5df1e9eb3600fb6befc77028f17"
+    "last_changed_at": "2026-09-19T18:49:08Z",
+    "source_fingerprint": "a1116ecaa5e555f49e73db135a84db439d93331158c28da676115f169c5ec237"
   },
   "teams": [
     {
