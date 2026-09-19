@@ -23636,7 +23636,7 @@
       ],
       "first_name": "Puka",
       "full_name": "Puka Nacua",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Nacua",
       "nfl_team": "LAR",
       "player_id": "9493",
@@ -24072,8 +24072,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-18T22:25:27Z",
-    "source_fingerprint": "2d9a50e85994a55aad3039616211ef2a7e025aaf00a45591e6174bb88a4add0a"
+    "last_changed_at": "2026-09-19T00:29:34Z",
+    "source_fingerprint": "cf83b7dae73faad2314d08a3da693534b73013f2849687eb62995186dbb09a6b"
   },
   "teams": [
     {
@@ -24261,7 +24261,8 @@
         "TB"
       ],
       "reserve_ids": [
-        "13276"
+        "13276",
+        "9997"
       ],
       "roster_id": 3,
       "settings": {
