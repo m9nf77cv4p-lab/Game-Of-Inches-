@@ -1,33 +1,9 @@
 {
-  "last_checked_at": "2026-09-20T05:54:13Z",
+  "last_checked_at": "2026-09-20T10:32:19Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 291,
   "new_story_ids": [
-    "nfl|11586|rotoballer|221652|1789853827000",
-    "nfl|11632|rotoballer|221663|1789857922000",
-    "nfl|11834|rotoballer|221649|1789852506000",
-    "nfl|12481|rotoballer|221664|1789857881000",
-    "nfl|12487|rotoballer|221655|1789854606000",
-    "nfl|12490|rotoballer|221671|1789865044000",
-    "nfl|12501|rotoballer|221670|1789864626000",
-    "nfl|12508|rotoballer|221661|1789857644000",
-    "nfl|12519|rotoballer|221658|1789855873000",
-    "nfl|13286|rotoballer|221669|1789864810000",
-    "nfl|13296|rotoballer|221656|1789854726000",
-    "nfl|13414|rotoballer|221653|1789854366000",
-    "nfl|2133|rotoballer|221648|1789851726000",
-    "nfl|2216|rotoballer|221674|1789865945000",
-    "nfl|2449|rotoballer|221668|1789858806000",
-    "nfl|4199|rotoballer|221660|1789856945000",
-    "nfl|5872|rotoballer|221651|1789853898000",
-    "nfl|5927|rotoballer|221665|1789857877000",
-    "nfl|7526|rotoballer|221659|1789856405000",
-    "nfl|7594|rotoballer|221666|1789858205000",
-    "nfl|7611|rotoballer|221672|1789865526000",
-    "nfl|8131|rotoballer|221667|1789858026000",
-    "nfl|8150|rotoballer|221650|1789853165000",
-    "nfl|8167|rotoballer|221673|1789865313000",
-    "nfl|9487|rotoballer|221662|1789853406000"
+    "nfl|11635|rotowire|638077|1789899385000"
   ],
   "schema_version": 1,
   "source": {
@@ -37,6 +13,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "After sitting out practice the first two days of practice of the week McConkey was able to sneak in a limited session Friday, and while the report notes a final decision will not be made until later Sunday, it appears McConkey will give it a go in Week 2.",
+      "description": "McConkey (ribs) \"has made rapid progress\" and \"has every intention of playing\" Sunday against the Raiders, Tom Pelissero of Netflix reports.",
+      "metadata": {
+        "analysis": "After sitting out practice the first two days of practice of the week McConkey was able to sneak in a limited session Friday, and while the report notes a final decision will not be made until later Sunday, it appears McConkey will give it a go in Week 2.",
+        "description": "McConkey (ribs) \"has made rapid progress\" and \"has every intention of playing\" Sunday against the Raiders, Tom Pelissero of Netflix reports.",
+        "title": "Ladd McConkey - Intends to play Sunday",
+        "topic_id": "1407344782774218752"
+      },
+      "nfl_team": "LAC",
+      "player_id": "11635",
+      "player_name": "Ladd McConkey",
+      "position": "WR",
+      "published": 1789899385000,
+      "source": "rotowire",
+      "source_key": "638077",
+      "story_id": "nfl|11635|rotowire|638077|1789899385000",
+      "title": "Ladd McConkey - Intends to play Sunday",
+      "url": null
+    },
     {
       "analysis": null,
       "description": "San Francisco 49ers wide receiver Mike Evans is trending up in fantasy football as injuries impact other members of the position group. Evans was impressive in his Niners debut last week, catching six of seven targets for 49 yards and a touchdown. He didn't have the highest participation rates we've ever seen, but they were respectable. Additionally, rookie wide receiver De'Zhaun Stribling (ankle) was placed on injured reserve this week. It will be interesting to see how much of the Stribling work gets re-allocated to Evans versus others, as we haven't heard any rumblings about the Niners bringing in a different depth receiver for Week 2. In full, Evans ranks as the WR11 in RotoBaller's latest fantasy football rankings, making him a worthwhile fantasy starter for Week 2 against the Miami Dolphins.",
@@ -80417,106 +80413,6 @@
       "story_id": "nfl|13269|rotoballer|219057|1787309409000",
       "title": "Fernando Mendoza Throws Pick-Six in First Preseason Start",
       "url": "https://www.rotoballer.com/player-news/fernando-mendoza-throws-pick-six-in-first-preseason-start/1913221"
-    },
-    {
-      "analysis": null,
-      "description": "Billed as football's answer to Shohei Ohtani when he was selected second overall in the 2025 NFL Draft, Jacksonville Jaguars two-way player Travis Hunter spent the majority of his rookie campaign on the offensive side of the ball before an LCL injury ended his season right when he looked to be on the verge of a breakout. Heading into his second season, the Jaguars' depth chart has dictated that he will spend most of his time on defense, and the team is preparing him to be the number one cornerback. In defensive coordinator Anthony Campanile's zone-based system, Hunter is unlikely to follow the opponents' top receiver across the formation, but after gaining 10-12 pounds of muscle over the offseason, he will be trusted to shut down one side of the field. Hunter projects to see time on offense still, but with a receiver room of Parker Washington, Brian Thomas Jr., and Jakobi Meyers manning the top reps, he will be hard-pressed to find any consistent fantasy value outside of IDP leagues with positional delineations and a cornerback requirement.",
-      "metadata": {
-        "description": "Billed as football's answer to Shohei Ohtani when he was selected second overall in the 2025 NFL Draft, Jacksonville Jaguars two-way player Travis Hunter spent the majority of his rookie campaign on the offensive side of the ball before an LCL injury ended his season right when he looked to be on the verge of a breakout. Heading into his second season, the Jaguars' depth chart has dictated that he will spend most of his time on defense, and the team is preparing him to be the number one cornerback. In defensive coordinator Anthony Campanile's zone-based system, Hunter is unlikely to follow the opponents' top receiver across the formation, but after gaining 10-12 pounds of muscle over the offseason, he will be trusted to shut down one side of the field. Hunter projects to see time on offense still, but with a receiver room of Parker Washington, Brian Thomas Jr., and Jakobi Meyers manning the top reps, he will be hard-pressed to find any consistent fantasy value outside of IDP leagues with positional delineations and a cornerback requirement.",
-        "title": "Jaguars Preparing Travis Hunter to Be the No. 1 CB",
-        "topic_id": "1396534735001358336",
-        "url": "https://www.rotoballer.com/player-news/jaguars-preparing-travis-hunter-to-be-the-no-1-cb/1913180"
-      },
-      "nfl_team": "JAX",
-      "player_id": "12530",
-      "player_name": "Travis Hunter",
-      "position": "DB",
-      "published": 1787307248000,
-      "source": "rotoballer",
-      "source_key": "219054",
-      "story_id": "nfl|12530|rotoballer|219054|1787307248000",
-      "title": "Jaguars Preparing Travis Hunter to Be the No. 1 CB",
-      "url": "https://www.rotoballer.com/player-news/jaguars-preparing-travis-hunter-to-be-the-no-1-cb/1913180"
-    },
-    {
-      "analysis": null,
-      "description": "The Cleveland Browns spent a 2026 first-round pick on wide receiver KC Concepcion, and since Day 1, head coach Todd Monken and the offensive staff have not held back in loading up his plate. \"He's handled us moving him around at an elite level,\" Monken told team reporter Kelsey Russo. \"It's not easy to - all right, you're at Z, OK, you're at F, you're at X. We're going to ask you to do all of these things within our offense, and he's been impressive.\" Concepcion won the Paul Hornung Award in 2025 as the most versatile player in college football, and that versatility was on full display in his first preseason game, in which he caught three passes and scored on a 14-yard touchdown run while also returning punts. Concepcion projects to feature heavily in three-receiver sets along with veteran Jerry Jeudy and fellow rookie Denzel Boston, and the ability to play all three spots should help to keep him on the field regardless of alignment. At RotoBaller's WR46, the 21-year-old is a high-floor target in the middle rounds of drafts who could also offer week-winning spike performances.",
-      "metadata": {
-        "description": "The Cleveland Browns spent a 2026 first-round pick on wide receiver KC Concepcion, and since Day 1, head coach Todd Monken and the offensive staff have not held back in loading up his plate. \"He's handled us moving him around at an elite level,\" Monken told team reporter Kelsey Russo. \"It's not easy to - all right, you're at Z, OK, you're at F, you're at X. We're going to ask you to do all of these things within our offense, and he's been impressive.\" Concepcion won the Paul Hornung Award in 2025 as the most versatile player in college football, and that versatility was on full display in his first preseason game, in which he caught three passes and scored on a 14-yard touchdown run while also returning punts. Concepcion projects to feature heavily in three-receiver sets along with veteran Jerry Jeudy and fellow rookie Denzel Boston, and the ability to play all three spots should help to keep him on the field regardless of alignment. At RotoBaller's WR46, the 21-year-old is a high-floor target in the middle rounds of drafts who could also offer week-winning spike performances.",
-        "title": "KC Concepcion Moved Everywhere Within WR Room",
-        "topic_id": "1396530958831726592",
-        "url": "https://www.rotoballer.com/player-news/kc-concepcion-moved-everywhere-within-wr-room/1913177"
-      },
-      "nfl_team": "CLE",
-      "player_id": "13298",
-      "player_name": "KC Concepcion",
-      "position": "WR",
-      "published": 1787306530000,
-      "source": "rotoballer",
-      "source_key": "219053",
-      "story_id": "nfl|13298|rotoballer|219053|1787306530000",
-      "title": "KC Concepcion Moved Everywhere Within WR Room",
-      "url": "https://www.rotoballer.com/player-news/kc-concepcion-moved-everywhere-within-wr-room/1913177"
-    },
-    {
-      "analysis": null,
-      "description": "The Carolina Panthers recently participated in a joint practice with the Jaguars ahead of Friday night's preseason matchup. While the session got off to a slow start for the Panthers' offense, things quickly settled into place once quarterback Bryce Young started looking in the direction of wide receiver Tetairoa McMillan. \"Bryce just started finding TMac in different ways,\" head coach Dave Canales told reporters after practice. \"Explosive passes, touchdowns, things that went into the end zone. It was fantastic to see.\" Young connected with the 2025 Offensive Rookie of the Year on a number of plays throughout practice, including a leaping catch in the corner of the end zone that beat double coverage. Afterward, Young spoke about McMillan's importance to the team. \"It makes my job so much easier, having a guy like him out there that you can trust one-on-one,\" he shared. \"Obviously he's a huge part of what we do.\" Following a WR15 finish as a rookie, McMillan is being drafted as the WR17 but has a chance to crack the top 12 as a focal point of the Panthers' offense.",
-      "metadata": {
-        "description": "The Carolina Panthers recently participated in a joint practice with the Jaguars ahead of Friday night's preseason matchup. While the session got off to a slow start for the Panthers' offense, things quickly settled into place once quarterback Bryce Young started looking in the direction of wide receiver Tetairoa McMillan. \"Bryce just started finding TMac in different ways,\" head coach Dave Canales told reporters after practice. \"Explosive passes, touchdowns, things that went into the end zone. It was fantastic to see.\" Young connected with the 2025 Offensive Rookie of the Year on a number of plays throughout practice, including a leaping catch in the corner of the end zone that beat double coverage. Afterward, Young spoke about McMillan's importance to the team. \"It makes my job so much easier, having a guy like him out there that you can trust one-on-one,\" he shared. \"Obviously he's a huge part of what we do.\" Following a WR15 finish as a rookie, McMillan is being drafted as the WR17 but has a chance to crack the top 12 as a focal point of the Panthers' offense.",
-        "title": "Tetairoa McMillan to Be a \"Huge Part\" of Panthers Offense",
-        "topic_id": "1396524668189417472",
-        "url": "https://www.rotoballer.com/player-news/tetairoa-mcmillan-to-be-a-huge-part-of-panthers-offense/1913157"
-      },
-      "nfl_team": "CAR",
-      "player_id": "12526",
-      "player_name": "Tetairoa McMillan",
-      "position": "WR",
-      "published": 1787304986000,
-      "source": "rotoballer",
-      "source_key": "219051",
-      "story_id": "nfl|12526|rotoballer|219051|1787304986000",
-      "title": "Tetairoa McMillan to Be a \"Huge Part\" of Panthers Offense",
-      "url": "https://www.rotoballer.com/player-news/tetairoa-mcmillan-to-be-a-huge-part-of-panthers-offense/1913157"
-    },
-    {
-      "analysis": null,
-      "description": "The Chicago Bears were in Cincinnati on Thursday for a joint practice with the Bengals, and while second-year wide receiver Luther Burden III (groin) did not participate as he works his way back from the groin injury that has caused him to miss most of training camp, podcast hosts Adam Hoge and Adam Jahns expressed a lack of concern, saying that Burden looks \"mostly fine.\" After a strong finish to his rookie season, Burden was the star of the opening days of training camp before getting tangled with a teammate and exiting practice on August 8. The hope has since been that he would be ready for the team's regular season opener against the Panthers on September 13. While the groin injury has caused an ADP dip in recent weeks, Burden is still RotoBaller's WR22, as all signs pre-injury pointed to the 22-year-old receiver becoming the focal point of a high-powered Bears offense.",
-      "metadata": {
-        "description": "The Chicago Bears were in Cincinnati on Thursday for a joint practice with the Bengals, and while second-year wide receiver Luther Burden III (groin) did not participate as he works his way back from the groin injury that has caused him to miss most of training camp, podcast hosts Adam Hoge and Adam Jahns expressed a lack of concern, saying that Burden looks \"mostly fine.\" After a strong finish to his rookie season, Burden was the star of the opening days of training camp before getting tangled with a teammate and exiting practice on August 8. The hope has since been that he would be ready for the team's regular season opener against the Panthers on September 13. While the groin injury has caused an ADP dip in recent weeks, Burden is still RotoBaller's WR22, as all signs pre-injury pointed to the 22-year-old receiver becoming the focal point of a high-powered Bears offense.",
-        "title": "Luther Burden III Looks \"Mostly Fine\"",
-        "topic_id": "1396518376641159168",
-        "url": "https://www.rotoballer.com/player-news/luther-burden-iii-looks-mostly-fine/1913144"
-      },
-      "nfl_team": "CHI",
-      "player_id": "12519",
-      "player_name": "Luther Burden",
-      "position": "WR",
-      "published": 1787303530000,
-      "source": "rotoballer",
-      "source_key": "219050",
-      "story_id": "nfl|12519|rotoballer|219050|1787303530000",
-      "title": "Luther Burden III Looks \"Mostly Fine\"",
-      "url": "https://www.rotoballer.com/player-news/luther-burden-iii-looks-mostly-fine/1913144"
-    },
-    {
-      "analysis": "The rookie third-round pick operated as the starting running back with Christian McCaffrey (undisclosed) inactive, and Black immediately recorded a five-yard gain on the 49ers' first play from scrimmage. The Indiana product also had eight- and nine-yard runs on San Francisco' second possession as he continued to make a strong case for the No. 2 job to open the regular season. Black saw backfield mate Sincere McCormick put together an impressive 6-53-1 line on the ground Thursday as well, but the former likely has the inside track to serve as McCaffrey's primary backup in a backfield where Jordan James (ribs) and Isaac Guerendo (PUP-pectoral) are also vying for roles.",
-      "description": "Black rushed eight times for 33 yards and wasn't targeted in the 49ers' 41-17 preseason win over the Chargers on Thursday night.",
-      "metadata": {
-        "analysis": "The rookie third-round pick operated as the starting running back with Christian McCaffrey (undisclosed) inactive, and Black immediately recorded a five-yard gain on the 49ers' first play from scrimmage. The Indiana product also had eight- and nine-yard runs on San Francisco' second possession as he continued to make a strong case for the No. 2 job to open the regular season. Black saw backfield mate Sincere McCormick put together an impressive 6-53-1 line on the ground Thursday as well, but the former likely has the inside track to serve as McCaffrey's primary backup in a backfield where Jordan James (ribs) and Isaac Guerendo (PUP-pectoral) are also vying for roles.",
-        "description": "Black rushed eight times for 33 yards and wasn't targeted in the 49ers' 41-17 preseason win over the Chargers on Thursday night.",
-        "title": "Kaelon Black - Logs eight carries in preseason win",
-        "topic_id": "1396414022487650304"
-      },
-      "nfl_team": "SF",
-      "player_id": "13414",
-      "player_name": "Kaelon Black",
-      "position": "RB",
-      "published": 1787293329000,
-      "source": "rotowire",
-      "source_key": "634311",
-      "story_id": "nfl|13414|rotowire|634311|1787293329000",
-      "title": "Kaelon Black - Logs eight carries in preseason win",
-      "url": null
     }
   ]
 }

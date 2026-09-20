@@ -2,62 +2,64 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **3987**
-- Newly captured: **25**
+- Stored stories: **3983**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Mike Evans** — Mike Evans' Primary Receiver Role Continues to Grow (2026-09-20T00:59:05Z)
+- **NEW — Ladd McConkey** — Ladd McConkey - Intends to play Sunday (2026-09-20T10:16:25Z)
+  - After sitting out practice the first two days of practice of the week McConkey was able to sneak in a limited session Friday, and while the report notes a final decision will not be made until later Sunday, it appears McConkey will give it a go in Week 2.
+- **Mike Evans** — Mike Evans' Primary Receiver Role Continues to Grow (2026-09-20T00:59:05Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-primary-receiver-role-continues-to-grow/1945454
-- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Still a Potential Fantasy Starter in PPR Leagues (2026-09-20T00:52:06Z)
+- **Rhamondre Stevenson** — Rhamondre Stevenson Still a Potential Fantasy Starter in PPR Leagues (2026-09-20T00:52:06Z)
   - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-still-a-potential-fantasy-starter-in-ppr-leagues/1945450
-- **NEW — Christian Watson** — Christian Watson Approaching Must-Start Territory in Fantasy Football (2026-09-20T00:48:33Z)
+- **Christian Watson** — Christian Watson Approaching Must-Start Territory in Fantasy Football (2026-09-20T00:48:33Z)
   - Source: https://www.rotoballer.com/player-news/christian-watson-approaching-must-start-territory-in-fantasy-football/1945448
-- **NEW — Bhayshul Tuten** — Bhayshul Tuten a Steady Fantasy Option with Large Workload (2026-09-20T00:44:04Z)
+- **Bhayshul Tuten** — Bhayshul Tuten a Steady Fantasy Option with Large Workload (2026-09-20T00:44:04Z)
   - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-a-steady-fantasy-option-with-large-workload/1945444
-- **NEW — Jadarian Price** — Jadarian Price on Track for Another Step Forward in Week 2 (2026-09-20T00:40:10Z)
+- **Jadarian Price** — Jadarian Price on Track for Another Step Forward in Week 2 (2026-09-20T00:40:10Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-on-track-for-another-step-forward-in-week-2/1945441
-- **NEW — Matthew Golden** — Matthew Golden Taking First Steps Toward Year 2 Breakout (2026-09-20T00:37:06Z)
+- **Matthew Golden** — Matthew Golden Taking First Steps Toward Year 2 Breakout (2026-09-20T00:37:06Z)
   - Source: https://www.rotoballer.com/player-news/matthew-golden-taking-first-steps-toward-year-2-breakout/1945439
-- **NEW — Stefon Diggs** — Stefon Diggs Poised for Second Straight Productive Game in Week 2? (2026-09-19T23:00:06Z)
+- **Stefon Diggs** — Stefon Diggs Poised for Second Straight Productive Game in Week 2? (2026-09-19T23:00:06Z)
   - Source: https://www.rotoballer.com/player-news/stefon-diggs-poised-for-second-straight-productive-game-in-week-2/1945422
-- **NEW — Chuba Hubbard** — Chuba Hubbard Profiles as a Steady RB2 Option in Week 2 (2026-09-19T22:50:05Z)
+- **Chuba Hubbard** — Chuba Hubbard Profiles as a Steady RB2 Option in Week 2 (2026-09-19T22:50:05Z)
   - Source: https://www.rotoballer.com/player-news/chuba-hubbard-profiles-as-a-steady-rb2-option-in-week-2/1945418
-- **NEW — Isaiah Likely** — Isaiah Likely Aims To Follow Up On Great Debut in Week 2 (2026-09-19T22:47:06Z)
+- **Isaiah Likely** — Isaiah Likely Aims To Follow Up On Great Debut in Week 2 (2026-09-19T22:47:06Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-likely-aims-to-follow-up-on-great-debut-in-week-2/1945415
-- **NEW — Malik Nabers** — Malik Nabers Could See Another Limited Workload Against Rams (2026-09-19T22:45:22Z)
+- **Malik Nabers** — Malik Nabers Could See Another Limited Workload Against Rams (2026-09-19T22:45:22Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-could-see-another-limited-workload-against-rams/1945413
-- **NEW — Cam Skattebo** — Cam Skattebo Aims To Build On Strong Debut Against Rams (2026-09-19T22:44:41Z)
+- **Cam Skattebo** — Cam Skattebo Aims To Build On Strong Debut Against Rams (2026-09-19T22:44:41Z)
   - Source: https://www.rotoballer.com/player-news/cam-skattebo-aims-to-build-on-strong-debut-against-rams/1945411
-- **NEW — Terry McLaurin** — Terry McLaurin a Worthy Start for Fantasy Managers in Week 2? (2026-09-19T22:44:37Z)
+- **Terry McLaurin** — Terry McLaurin a Worthy Start for Fantasy Managers in Week 2? (2026-09-19T22:44:37Z)
   - Source: https://www.rotoballer.com/player-news/terry-mclaurin-a-worthy-start-for-fantasy-managers-in-week-2/1945409
-- **NEW — Jaxson Dart** — Jaxson Dart Looks to Keep Rolling in Week 2 (2026-09-19T22:40:44Z)
+- **Jaxson Dart** — Jaxson Dart Looks to Keep Rolling in Week 2 (2026-09-19T22:40:44Z)
   - Source: https://www.rotoballer.com/player-news/jaxson-dart-looks-to-keep-rolling-in-week-2/1945406
-- **NEW — Aaron Jones** — Aaron Jones Sr. Profiles as a Top-24 Running Back in Week 2 (2026-09-19T22:29:05Z)
+- **Aaron Jones** — Aaron Jones Sr. Profiles as a Top-24 Running Back in Week 2 (2026-09-19T22:29:05Z)
   - Source: https://www.rotoballer.com/player-news/aaron-jones-sr-profiles-as-a-top-24-running-back-in-week-2/1945398
-- **NEW — Jaylen Waddle** — Jaylen Waddle Outside of Must-Start Territory in Week 2? (2026-09-19T22:20:05Z)
+- **Jaylen Waddle** — Jaylen Waddle Outside of Must-Start Territory in Week 2? (2026-09-19T22:20:05Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-waddle-outside-of-must-start-territory-in-week-2/1945392
-- **NEW — Luther Burden** — Luther Burden III a High-End WR2 Option in Week 2 (2026-09-19T22:11:13Z)
+- **Luther Burden** — Luther Burden III a High-End WR2 Option in Week 2 (2026-09-19T22:11:13Z)
   - Source: https://www.rotoballer.com/player-news/luther-burden-iii-a-high-end-wr2-option-in-week-2/1945388
-- **NEW — Caleb Douglas** — Caleb Douglas Offers Deep-League Flex Appeal (2026-09-19T21:52:06Z)
+- **Caleb Douglas** — Caleb Douglas Offers Deep-League Flex Appeal (2026-09-19T21:52:06Z)
   - Source: https://www.rotoballer.com/player-news/caleb-douglas-offers-deep-league-flex-appeal/1945378
-- **NEW — Terrance Ferguson** — Terrance Ferguson Not Yet on the Weekly Fantasy Radar (2026-09-19T21:50:06Z)
+- **Terrance Ferguson** — Terrance Ferguson Not Yet on the Weekly Fantasy Radar (2026-09-19T21:50:06Z)
   - Source: https://www.rotoballer.com/player-news/terrance-ferguson-not-yet-on-the-weekly-fantasy-radar/1945376
-- **NEW — Kaelon Black** — Kaelon Black is a Shaky Flex Play (2026-09-19T21:46:06Z)
+- **Kaelon Black** — Kaelon Black is a Shaky Flex Play (2026-09-19T21:46:06Z)
   - Source: https://www.rotoballer.com/player-news/kaelon-black-is-a-shaky-flex-play/1945373
-- **NEW — Deebo Samuel** — Deebo Samuel Sr. Carries WR3 Value into Week 2 (2026-09-19T21:38:18Z)
+- **Deebo Samuel** — Deebo Samuel Sr. Carries WR3 Value into Week 2 (2026-09-19T21:38:18Z)
   - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-carries-wr3-value-into-week-2/1945369
-- **NEW — Blake Corum** — Blake Corum Gets a Tougher Matchup Amid Volume Increase (2026-09-19T21:37:07Z)
+- **Blake Corum** — Blake Corum Gets a Tougher Matchup Amid Volume Increase (2026-09-19T21:37:07Z)
   - Source: https://www.rotoballer.com/player-news/blake-corum-gets-a-tougher-matchup-amid-volume-increase/1945367
-- **NEW — Parker Washington** — Parker Washington is Becoming a Fringe WR1 (2026-09-19T21:30:06Z)
+- **Parker Washington** — Parker Washington is Becoming a Fringe WR1 (2026-09-19T21:30:06Z)
   - Source: https://www.rotoballer.com/player-news/paker-washington-is-becoming-a-fringe-wr1/1945364
-- **NEW — Kyren Williams** — Kyren Williams a Touchdown-Dependent RB2 for Week 2 Against Giants (2026-09-19T21:26:05Z)
+- **Kyren Williams** — Kyren Williams a Touchdown-Dependent RB2 for Week 2 Against Giants (2026-09-19T21:26:05Z)
   - Source: https://www.rotoballer.com/player-news/kyren-williams-a-touchdown-dependent-rb2-for-week-2-against-giants/1945362
-- **NEW — Devaughn Vele** — Devaughn Vele has Intriguing Upside for Week 2 (2026-09-19T21:15:06Z)
+- **Devaughn Vele** — Devaughn Vele has Intriguing Upside for Week 2 (2026-09-19T21:15:06Z)
   - Source: https://www.rotoballer.com/player-news/devaughn-vele-has-intriguing-upside-for-week-2/1945358
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Officially placed on IR (2026-09-19T21:14:00Z)
   - Stribling suffered what appeared to be a serious non-contact injury during the 49ers' Week 1 win against the Rams in Melbourne, Australia, but afterward tests revealed that his left Achilles was intact, and eventually he was diagnosed with a deltoid sprain of his left ankle. After undergoing surgery, he's expected to miss roughly 10 weeks, meaning a move to IR was inevitable. At least during the initial weeks of Stribling's absence, Mike Evans, Deebo Samuel, Demarcus Robinson, Jacob Cowing, Jordan Watkins and KhaDarel Hodge will handle WR duties for San Francisco.
-- **NEW — Davante Adams** — Davante Adams Has WR1 Potential if Teammate Can't Play (2026-09-19T21:02:06Z)
+- **Davante Adams** — Davante Adams Has WR1 Potential if Teammate Can't Play (2026-09-19T21:02:06Z)
   - Source: https://www.rotoballer.com/player-news/davante-adams-has-wr1-potential-if-teammate-cant-play/1945356
 - **Puka Nacua** — Puka Nacua a Risky Fantasy Option with Status in Limbo (2026-09-19T20:47:06Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacua-a-risky-fantasy-option-with-status-in-limbo/1945354
@@ -213,5 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/breece-hall-should-stay-busy-in-week-2/1944898
 - **Geno Smith** — Geno Smith a Low-End Option Against Green Bay (2026-09-19T09:42:09Z)
   - Source: https://www.rotoballer.com/player-news/geno-smith-a-low-end-option-against-green-bay/1944894
-- **De'Von Achane** — De'Von Achane Is Still a Top RB Against San Francisco (2026-09-19T09:40:08Z)
-  - Source: https://www.rotoballer.com/player-news/devon-achane-is-still-a-top-rb-in-san-francisco/1944892
