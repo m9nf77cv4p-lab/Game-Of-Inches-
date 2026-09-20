@@ -2,93 +2,154 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **4012**
-- Newly captured: **37**
+- Stored stories: **4033**
+- Newly captured: **26**
 
 ## Latest news
 
-- **NEW — Jayden Reed** — Jayden Reed carted off Sunday  (2026-09-20T17:30:57.269000Z)
+- **NEW — Aaron Jones** — Aaron Jones Sr. (knee) questionable to return Sunday (2026-09-20T19:40:58.273000Z)
+  - Source: https://www.fantasypros.com/nfl/news/609262/aaron-jones-sr-knee-questionable-to-return-sunday.php
+- **NEW — Caleb Williams** — Caleb Williams exits early Sunday (2026-09-20T19:40:58.259000Z)
+  - Williams went down without being touched late in the fourth quarter, completing 15-of-26 pass attempts for 138 yards and one interception while also rushing five times for 42 yards on the day. Tyson Bagent has taken over behind center for head coach Ben Johnson against the Vikings.
+  - Source: https://www.fantasypros.com/nfl/news/609263/caleb-williams-exits-early-sunday.php
+- **NEW — Caleb Williams** — Caleb Williams - Exits Sunday's game (2026-09-20T19:37:44Z)
+  - Williams' right leg gave out under him as he scrambled to his left toward the end zone in the middle of the fourth quarter. He needed assistance to get to the sideline, and if he's unable to return, he'll finish Week 2 action with 138 yards, no touchdowns and one interception on 15-for-26 passing and five carries for 42 yards.
+- **NEW — Rico Dowdle** — Rico Dowdle - Done for day with toe injury (2026-09-20T19:32:11Z)
+  - After exiting midway through the second quarter due to the toe injury, Dowdle was cleared to return coming out of halftime and picked up four touches (three carries, one catch) over the Steelers' first three possessions of the second half. However, he may have aggravated the injury at some point along the way and will now be shut down for the rest of the day. Jaylen Warren is expected to see the bulk of the snaps and touches out of the backfield for the remainder of the Week 2 contest, with Travis Homer and Eli Heidenreich providing depth behind him.
+- **NEW — Carson Beck** — Carson Beck - Emergency QB3 for Week 2 (2026-09-20T19:16:12Z)
+  - For a second consecutive week, Beck will be the Cardinals' emergency QB3 behind Jacoby Brissett and Gardner Minshew. That means Beck cannot play Sunday unless both Brissett and Minshew were to be removed from the game due to illness, injury or ejection.
+- **NEW — Kaelon Black** — Kaelon Black (groin) active for Week 2 (2026-09-20T19:15:58.590000Z)
+  - Black is good to go after not experiencing any setbacks during pregame warmups for head coach Kyle Shanahan, offering another dynamic option alongside Christian McCaffrey out of the San Francisco backfield against the Dolphins Sunday.
+  - Source: https://www.fantasypros.com/nfl/news/609261/kaelon-black-groin-active-week-2.php
+- **NEW — Kaelon Black** — Kaelon Black - Active as expected Sunday (2026-09-20T19:09:40Z)
+  - The rookie running back was reported to be trending up for Sunday's contest earlier in the day, and his availability has now been made official. Black will therefore once again serve as the primary backup to Christian McCaffrey, a role that afforded the former 15 touches (14 carries, one reception) across 28 snaps in a Week 1 win over the Rams in Melbourne, Australia.
+- **NEW — Rico Dowdle** — Rico Dowdle (toe) returns to the game Sunday  (2026-09-20T19:00:58.346000Z)
+  - Dowdle was carted to the locker room in the second quarter but has returned and took the first carry of the second half. Dowdle and Jaylen Warren will continue to operate as the top two running backs for the Steelers. 
+  - Source: https://www.fantasypros.com/nfl/news/609258/rico-dowdle-toe-returns-to-game-sunday.php
+- **NEW — Rico Dowdle** — Rico Dowdle - Makes return to Sunday's contest (2026-09-20T18:54:17Z)
+  - Dowdle appeared to injure his toe while attempting to recover an Aaron Rodgers fumble midway through the second quarter. The Steelers had listed Dowdle as questionable to return and kept him out for the remainder of the first half, but the running back will attempt to play through the injury for the final two quarters.
+- **NEW — Brock Bowers** — Brock Bowers (knee) officially inactive for Week 2   (2026-09-20T18:50:58.033000Z)
+  - Bowers was considered a long shot to play this week, but has a chance to return in Week 3. Fantasy managers should expect Michael Mayer to see increased playing time with Bowers out. 
+  - Source: https://www.fantasypros.com/nfl/news/609256/brock-bowers-knee-officially-inactive-week-2.php
+- **NEW — Ladd McConkey** — Ladd McConkey (ribs) officially active for Week 2  (2026-09-20T18:50:58.016000Z)
+  - McConkey is dealing with a cracked rib but was pushing to play through the injury. With McConkey active, fantasy managers should expect him to operate as the top wide receiver for the Chargers in a divisional matchup with the Raiders. 
+  - Source: https://www.fantasypros.com/nfl/news/609257/ladd-mcconkey-ribs-officially-active-week-2.php
+- **NEW — Brock Bowers** — Brock Bowers - Inactive again in Week 2 (2026-09-20T18:43:48Z)
+  - Bowers underwent a meniscus trim in his left knee on Sept. 8, and while he'll miss the first two games of the campaign as a result, he did practice in a limited capacity Friday, and Ian Rapoport of NFL Network reported Sunday morning that the stud tight end is likely to make his season debut Week 3 in New Orleans. In Bowers' continued absence, though, Michael Mayer will act as the primary TE for the Raiders.
+- **NEW — Saquon Barkley** — Saquon Barkley (stinger) returns to the game  (2026-09-20T18:40:57.745000Z)
+  - Barkley was seen on the sidelines holding his helmet after his first half injury and he did not return prior to halftime. Barkley took a carry in the third quarter and appears poised to return as the primary running back for the remainder of the game. 
+  - Source: https://www.fantasypros.com/nfl/news/609254/saquon-barkley-stinger-returns-to-game.php
+- **NEW — RJ Harvey** — RJ Harvey (hamstring) inactive for Week 2 (2026-09-20T18:40:57.722000Z)
+  - Harvey will not suit up after being unable to progress throughout the week for the Broncos. J.K. Dobbins will lead the Denver backfield attack with Jonah Coleman to see increased snaps against the Jaguars for head coach Sean Payton Sunday.
+  - Source: https://www.fantasypros.com/nfl/news/609255/rj-harvey-hamstring-inactive-week-2.php
+- **NEW — RJ Harvey** — RJ Harvey - Inactive in Week 2 (2026-09-20T18:39:23Z)
+  - Harvey opened Week 2 prep as a non-participant on the Broncos' initial injury report due to a hamstring issue, which he followed up with back-to-back limited sessions and a questionable designation entering the weekend. Having said that, Adam Schefter of ESPN reported Sunday morning that Harvey was unlikely to play, and that's been confirmed as Denver posted its list of inactives. J.K. Dobbins will pace the backfield Sunday, while rookie Jonah Coleman and Tyler Badie also will be on hand for RB reps.
+- **NEW — Saquon Barkley** — Saquon Barkley - Checks back into Sunday's game (2026-09-20T18:39:02Z)
+  - After suffering a stinger on a carry for no gain on the Eagles' first offensive snap, Barkley sat out the rest of the first half while making trips to the medical tent on the sideline as well as the locker room. The Eagles had listed Barkley as questionable to return, and the running back apparently responded well enough to treatment for the team to send him back on the field to begin the second half.
+- **NEW — Ladd McConkey** — Ladd McConkey - Active for Week 2 (2026-09-20T18:35:58Z)
+  - Separate reports leading up to the game indicated that McConkey intended to play, and he will indeed suit up for Week 2. McConkey is apparently playing through a cracked rib and will sport a flak jacket, so while he will be out there, it's unclear if he will fill his usual role.
+- **NEW — Dallas Goedert** — Dallas Goedert (ankle) questionable to return  (2026-09-20T18:10:57.366000Z)
+  - Goedert appeared to have suffered the injury blocking in the second quarter. Johnny Mundt will see an increase in snaps with Goedert sidelined. 
+  - Source: https://www.fantasypros.com/nfl/news/609251/dallas-goedert-ankle-questionable-to-return.php
+- **NEW — Dallas Goedert** — Dallas Goedert - Iffy to return due to knee injury (2026-09-20T17:57:16Z)
+  - Goedert reeled in one of two targets for a four-yard gain before leaving the game in the first half after he appeared to get upended while run blocking, per Jeff McLane of The Philadelphia Inquirer. According to McLane, Goedert checked into the medical tent to be evaluated further, but the Eagles could examine him more thoroughly in the locker room before deciding whether he's able to return to the contest. The Eagles will be left with Johnny Mundt and E.J. Jenkins as their options at tight end if Goedert ends up sitting out for the rest of the game.
+- **NEW — Jayden Reed** — Jayden Reed (neck) ruled out  (2026-09-20T17:40:57.148000Z)
+  - Reed was carted off the field on the Packers' second play of the day. The Packers will rely on Christian Watson and Matthew Golden as the two primary wide receivers for the remainder of Sunday's game against the Jets. 
+  - Source: https://www.fantasypros.com/nfl/news/609250/jayden-reed-neck-ruled-out.php
+- **Jayden Reed** — Jayden Reed carted off Sunday  (2026-09-20T17:30:57.269000Z)
   - Reed took a major hit from a Jets' defender and was placed on a backboard and carted off the field. The Packers should update the status of his injury soon. 
   - Source: https://www.fantasypros.com/nfl/news/609247/jayden-reed-carted-off-sunday.php
-- **NEW — Saquon Barkley** — Saquon Barkley (stinger) questionable to return Sunday (2026-09-20T17:30:57.256000Z)
+- **Saquon Barkley** — Saquon Barkley (stinger) questionable to return Sunday (2026-09-20T17:30:57.256000Z)
   - Barkley suffered the injury early in the first quarter for the Eagles, with Tank Bigsby and Will Shipley taking over the backfield for head coach Nick Sirianni against the Titans.
   - Source: https://www.fantasypros.com/nfl/news/609248/saquon-barkley-stinger-questionable-to-return-sunday.php
-- **NEW — Jayden Reed** — Jayden Reed - Won't return Sunday (2026-09-20T17:29:30Z)
+- **Jayden Reed** — Jayden Reed - Won't return Sunday (2026-09-20T17:29:30Z)
   - Reed was placed on a backboard and carted off the field after the Packers' second offensive snap, and a neck injury was to blame for his early exit. With Reed sidelined for the rest of Week 2, Christian Watson, Matthew Golden, Skyy Moore, Bo Melton and J. Michael Sturdivant will handle WR reps for the Packers.
-- **NEW — Saquon Barkley** — Saquon Barkley - Questionable to return to Week 2 (2026-09-20T17:24:39Z)
+- **Saquon Barkley** — Saquon Barkley - Questionable to return to Week 2 (2026-09-20T17:24:39Z)
   - Barkley appeared to be favoring his left shoulder after he was tackled to the ground on a carry during the Eagles' first offensive play of the game. The running back headed to the locker room shortly after the play in question and is receiving further treatment for the injury while the Eagles determine whether or not he's able to return. Tank Bigsby and Will Shipley will likely share work out of the backfield if Barkley ends up being shut down for the rest of the contest.
-- **NEW — Saquon Barkley** — Saquon Barkley - Tending to left arm injury (2026-09-20T17:19:36Z)
+- **Saquon Barkley** — Saquon Barkley - Tending to left arm injury (2026-09-20T17:19:36Z)
   - Barkley sustained the injury on a zero-yard carry on the Eagles' first offensive play of the game. After a brief trip to the medical tent on the sideline, Barkley jogged back to the locker room to be checked out further. The Eagles should have an update on the star running back's status shortly.
-- **NEW — Jayden Reed** — Jayden Reed - Gets carted off field (2026-09-20T17:19:13Z)
+- **Jayden Reed** — Jayden Reed - Gets carted off field (2026-09-20T17:19:13Z)
   - On the Packers' second offensive snap, Reed remained on the turf and was moved to a backboard before being placed on the cart to head to the locker room. The nature of his injury isn't known, but if he's unable to return, the Packers will be down to Christian Watson, Matthew Golden, Skyy Moore, Bo Melton and J. Michael Sturdivant at wide receiver in Week 2.
-- **NEW — Drew Allar** — Drew Allar - Healthy scratch again (2026-09-20T16:32:07Z)
+- **Drew Allar** — Drew Allar - Healthy scratch again (2026-09-20T16:32:07Z)
   - Allar is the odd man out in the Steelers' quarterback room. Aaron Rodgers and Mason Rudolph are the active options, while Will Howard (coach's decision) seems to be the primary option as the emergency third quarterback. The rookie third-rounder will likely continue to be a healthy scratch unless he surpasses Howard and Rudolph for the backup role.
-- **NEW — Puka Nacua** — Puka Nacua - May be trending toward sitting Week 2 (2026-09-20T16:07:44Z)
+- **Puka Nacua** — Puka Nacua - May be trending toward sitting Week 2 (2026-09-20T16:07:44Z)
   - After being added to the Rams' injury report Friday, Nacua proceeded to miss the team's final two practices of the week due to a sore hip. Though the Rams are likely to treat Nacua as a gameday decision with a call on his status perhaps going all the way up to the 8:15 p.m. ET kickoff, the wideout currently seems to be trending toward sitting out the Week 2 contest. With that in mind, fantasy managers planning on including Nacua in lineups this week will want to have an alternative option available to pivot to Monday in the event he sits out.
-- **NEW — Ladd McConkey** — Ladd McConkey - Trending toward playing Week 2 (2026-09-20T16:02:06Z)
+- **Ladd McConkey** — Ladd McConkey - Trending toward playing Week 2 (2026-09-20T16:02:06Z)
   - Official word on McConkey's status will arrive when the Chargers post their inactive list 90 minutes prior to kickoff, but unless he experiences a setback with his cracked rib while warming up Sunday, the third-year wideout is on track to suit up. Schefter relayed earlier Sunday that McConkey will wear a flak jacket to protect his injured rib if he does wind up playing.
-- **NEW — Taylen Green** — Taylen Green - Emergency QB for Week 2 (2026-09-20T15:58:08Z)
+- **Taylen Green** — Taylen Green - Emergency QB for Week 2 (2026-09-20T15:58:08Z)
   - Green will once again serve as the third option behind Deshaun Watson and Shedeur Sanders. The quarterback can only enter the game if both players ahead of him cannot continue to play in Sunday's game due to injury, illness or ejection. The sixth-round rookie is likely set to fill this role for the remainder of the season unless either Watson or Sanders miss time.
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa (oblique) officially inactive for Week 2  (2026-09-20T15:55:56.779000Z)
+- **Tua Tagovailoa** — Tua Tagovailoa (oblique) officially inactive for Week 2  (2026-09-20T15:55:56.779000Z)
   - Tagovailoa was considered doubtful to play Sunday against the Panthers. Cooper Rush will draw his second straight start, with Jack Strand serving as QB2 for the Falcons. 
   - Source: https://www.fantasypros.com/nfl/news/609234/tua-tagovailoa-oblique-officially-inactive-week-2.php
-- **NEW — Ja'Tavion Sanders** — Ja'Tavion Sanders - Healthy scratch for Week 2 (2026-09-20T15:53:01Z)
+- **Ja'Tavion Sanders** — Ja'Tavion Sanders - Healthy scratch for Week 2 (2026-09-20T15:53:01Z)
   - Sanders will be a healthy scratch for a second consecutive week, with the Panthers going with four active tight ends in Tommy Tremble, Mitchell Evans, Darren Waller and Feleipe Franks for Sunday's NFC South tilt. Sanders' next chance to play is Week 3 against the Browns on Sept. 27, though there doesn't appear to be a clear path to playing time for the 2024 fourth-rounder at this time.
-- **NEW — Chris Olave** — Chris Olave (hamstring) officially active for Week 2 (2026-09-20T15:45:57.345000Z)
+- **Chris Olave** — Chris Olave (hamstring) officially active for Week 2 (2026-09-20T15:45:57.345000Z)
   - Olave was a late addition to the injury report this week and was listed as questionable to play in Week 2. He immediately becomes the top pass catching option for QB Tyler Shough and the Saints. 
   - Source: https://www.fantasypros.com/nfl/news/609232/chris-olave-hamstring-officially-active-week-2.php
-- **NEW — Jalen McMillan** — Jalen McMillan (knee) officially active for Week 2  (2026-09-20T15:45:57.152000Z)
+- **Jalen McMillan** — Jalen McMillan (knee) officially active for Week 2  (2026-09-20T15:45:57.152000Z)
   - McMillan has been dealing with a knee injury dating back to the offseason and is expected to be on a snap count this week. Fantasy managers should likely find another option until McMillan is 100%. 
   - Source: https://www.fantasypros.com/nfl/news/609228/jalen-mcmillan-knee-officially-active-week-2.php
-- **NEW — Jalen McMillan** — Jalen McMillan - Making season debut Sunday (2026-09-20T15:38:15Z)
+- **Jalen McMillan** — Jalen McMillan - Making season debut Sunday (2026-09-20T15:38:15Z)
   - McMillan finally is putting the knee injury that has bothered him since early August behind him, but per a report from Adam Schefter of ESPN on Sunday morning, the third-year pro isn't expected to handle his normal workload. If McMillan is indeed operating on a snap count, he could yield more of the third-wide-receiver duties to rookie third-rounder Ted Hurst, which effectively could make McMillan the fourth option at the position behind Emeka Egbuka, Chris Godwin and Hurst. In 17 regular-season contests in his career, McMillan has combined for a 49-639-8 line on 73 targets.
-- **NEW — Joe Burrow** — Joe Burrow (back) will start Sunday (2026-09-20T15:35:56.604000Z)
+- **Joe Burrow** — Joe Burrow (back) will start Sunday (2026-09-20T15:35:56.604000Z)
   - Head coach Zac Taylor stated that "he feels good" and is "ready to go." Fantasy managers should expect Burrow to not be limited in his play Sunday, barring him reaggravating his back injury. 
   - Source: https://www.fantasypros.com/nfl/news/609223/joe-burrow-back-will-start-sunday.php
-- **NEW — Chris Olave** — Chris Olave - Suiting up in Week 2 (2026-09-20T15:35:29Z)
+- **Chris Olave** — Chris Olave - Suiting up in Week 2 (2026-09-20T15:35:29Z)
   - Olave made an early exit from Thursday's practice due to a hamstring injury, but it was considered a precautionary measure at the time, per Underhill. Olave remained limited Friday and entered the weekend listed as questionable for Week 2 action, but Adam Schefter of ESPN reported Sunday morning that the wide receiver was slated to play. Prior to being confirmed as active, Olave was expected to have no limitations on his workload, according to Underhill, a reality that amounted to 10 catches (on 13 targets) for 182 yards in a season-opening overtime loss in Detroit.
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa - Out for Week 2 (2026-09-20T15:34:49Z)
+- **Tua Tagovailoa** — Tua Tagovailoa - Out for Week 2 (2026-09-20T15:34:49Z)
   - Tagovailoa was listed as doubtful for Sunday's contest and Cooper Rush was already announced as the starter, so it comes as little surprise that Tagovailoa will not suit up. It's unclear if Tagovailoa will miss any further action, but he and the Falcons will have a quick turnaround with the Falcons playing Thursday night in Week 3.
-- **NEW — Joe Burrow** — Joe Burrow - Active status confirmed (2026-09-20T15:31:55Z)
+- **Joe Burrow** — Joe Burrow - Active status confirmed (2026-09-20T15:31:55Z)
   - A back injury surfaced for Burrow during the week, leading to back-to-back limited practices before a full session Friday. Coach Zac Taylor and other top sources consistently indicated Burrow would be "good to go," and Sunday's final inactives reports confirmed that sentiment. Per Ian Rapoport of NFL Network, Burrow will have no limitations in this road matchup. He'll look to lead the Bengals to 2-0 against a Houston defense that allowed the fewest total yards and second-fewest total points in the 2025 season (though it did allow Buffalo to put up 36 points in Week 1).
-- **NEW — Brock Bowers** — Brock Bowers (knee) not expected to play Sunday (2026-09-20T14:25:56.112000Z)
+- **NEW — Kaelon Black** — Kaelon Black Active Against Dolphins (2026-09-20T15:16:28Z)
+  - Source: https://www.rotoballer.com/player-news/kaelon-black-active-against-dolphins/1945831
+- **NEW — Brock Bowers** — Brock Bowers Inactive Against Chargers (2026-09-20T15:00:16Z)
+  - Source: https://www.rotoballer.com/player-news/brock-bowers-inactive-against-chargers/1945824
+- **NEW — RJ Harvey** — RJ Harvey Inactive Against Jaguars (2026-09-20T14:54:04Z)
+  - Source: https://www.rotoballer.com/player-news/rj-harvey-inactive-against-jaguars/1945816
+- **NEW — Quentin Johnston** — Quentin Johnston Remains a Risky Flex Option in Week 2 (2026-09-20T14:33:46Z)
+  - Source: https://www.rotoballer.com/player-news/quentin-johnston-remains-a-risky-flex-option-in-week-2/1945803
+- **Brock Bowers** — Brock Bowers (knee) not expected to play Sunday (2026-09-20T14:25:56.112000Z)
   - Bowers could return as soon as Week 3 for the Raiders according to Rapoport, with Michael Mayer in line for increased touches again in Week 2 against the Chargers.
   - Source: https://www.fantasypros.com/nfl/news/609210/brock-bowers-knee-not-expected-to-play-sunday.php
-- **NEW — Sam Darnold** — Sam Darnold (glute) progressing quicker than expected  (2026-09-20T14:25:55.822000Z)
+- **Sam Darnold** — Sam Darnold (glute) progressing quicker than expected  (2026-09-20T14:25:55.822000Z)
   - Darnold has made significant progress in hopes of returning sooner than late for the Seahawks, remaining week-to-week currently. Drew Lock will continue to start behind center in his absence.
   - Source: https://www.fantasypros.com/nfl/news/609209/sam-darnold-glute-improving-quicker-expected.php
-- **NEW — Kyler Murray** — Kyler Murray - Should be available Week 3 (2026-09-20T14:23:03Z)
+- **Kyler Murray** — Kyler Murray - Should be available Week 3 (2026-09-20T14:23:03Z)
   - Carson Wentz will draw the start for Minnesota in Week 2, after he came on in relief of a concussed Murray in the season opener and helped lead the Vikings to a come-from-behind 39-22 win over the Packers. Murray was already able to take some steps forward in his recovery from the concussion by practicing in a limited fashion Wednesday through Friday, but he'll still need to upgrade to full participation and receive clearance from an independent neurologist before he's officially removed from the protocol.
 - **DJ Moore** — DJ Moore - Viewed as day-to-day (2026-09-20T14:08:03Z)
   - Moore carried once for minus-1 yard and didn't draw a target on his 23 snaps before exiting Thursday's contest late in the second quarter. Keon Coleman (55 snaps, 6-63-0 line on six targets) saw a boosted profile on offense in Moore's absence, but Coleman could fade into more of a tertiary role in the passing game if Moore is able to play through the shoulder injury during the Bills' Week 3 matchup with the Chargers. Rapoport relays that Moore is expected to practice next week, and the Bills will see how his shoulder responds before his status for next Sunday's contest is clarified.
+- **NEW — Dallas Goedert** — Dallas Goedert Questionable to Return With Knee Injury (2026-09-20T13:56:06Z)
+  - Source: https://www.rotoballer.com/player-news/dallas-goedert-questionable-to-return-with-knee-injury/1945775
+- **NEW — Davante Adams** — Davante Adams Has Added Upside in Week 2 (2026-09-20T13:47:11Z)
+  - Source: https://www.rotoballer.com/player-news/davante-adams-has-added-upside-in-week-2/1945773
 - **Sam Darnold** — Sam Darnold - Could practice this week (2026-09-20T13:30:13Z)
   - Drew Lock will get the starting nod for Seattle in Week 2 while Darnold tends to the right glute injury he sustained in the Sept. 9 season-opening win over the Patriots, but Darnold looks like he'll be back under center for the Seahawks sooner rather than later. Rapoport relays it might be "a little bit of a stretch" for Darnold to play Week 3 against the Commanders, but the 29-year-old's outlook could change depending on how extensively he's able to practice leading up to that contest. At this time, the Seahawks' Week 4 matchup with the Chargers appears to be a likelier target for Darnold's return to the lineup.
 - **Brock Bowers** — Brock Bowers - Trending toward Week 3 return (2026-09-20T13:24:48Z)
   - Bowers underwent a meniscus trim of his left knee Sept. 8 but appears to have bounced back well from the procedure and is progressing as expecting. The tight end was able to clear a major hurdle in the recovery process by returning to practice Friday, albeit as a limited participant. Michael Mayer is expected to operate as the Raiders' top tight end in Bowers' stead for a second straight game Sunday, but Bowers should be on track to play Week 3 so long as he can upgrade to full participation in practice by next Friday.
-- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt Carries Flex Appeal Against Dallas (2026-09-20T13:15:06Z)
+- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt Carries Flex Appeal Against Dallas (2026-09-20T13:15:06Z)
   - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-carries-flex-appeal-against-dallas/1945762
-- **NEW — Kaleb Johnson** — Kaleb Johnson Could Join Packers' Backfield Mix in Week 2 (2026-09-20T12:58:15Z)
+- **Kaleb Johnson** — Kaleb Johnson Could Join Packers' Backfield Mix in Week 2 (2026-09-20T12:58:15Z)
   - Source: https://www.rotoballer.com/player-news/kaleb-johnson-could-join-packers-backfield-mix-in-week-2/1945755
 - **Shedeur Sanders** — Shedeur Sanders - Could get look as starter Week 3 (2026-09-20T12:31:11Z)
   - After winning the battle for the starting job during the preseason, Watson will direct the offense for a second straight game to begin the regular season, but he heads into Sunday's contest with limited job security. In the Browns' season-opening 34-10 loss to the Jaguars, Watson struggled to move the ball throughout the afternoon, completing 16 of 22 attempts for 205 yards and an interception while throwing his lone touchdown with less than two minutes remaining in the fourth quarter. If Watson bounces back with a strong performance against Tampa Bay, he'll likely retain the starting job heading into the Browns' home opener Week 3 versus the Panthers, but another poor showing could set up Sanders to take over as the team's top quarterback.
-- **NEW — Puka Nacua** — Puka Nacua "Trending in the Wrong Direction" for Monday Night (2026-09-20T12:12:05Z)
+- **Puka Nacua** — Puka Nacua "Trending in the Wrong Direction" for Monday Night (2026-09-20T12:12:05Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacua-trending-in-the-wrong-direction-for-monday-night/1945744
-- **NEW — Ja'Tavion Sanders** — Ja'Tavion Sanders a Healthy Scratch Again in Week 2 (2026-09-20T11:59:05Z)
+- **Ja'Tavion Sanders** — Ja'Tavion Sanders a Healthy Scratch Again in Week 2 (2026-09-20T11:59:05Z)
   - Source: https://www.rotoballer.com/player-news/jatavion-sanders-a-healthy-scratch-again-in-week-2/1945738
-- **NEW — Elijah Sarratt** — Elijah Sarratt Active Against Saints (2026-09-20T11:55:06Z)
+- **Elijah Sarratt** — Elijah Sarratt Active Against Saints (2026-09-20T11:55:06Z)
   - Source: https://www.rotoballer.com/player-news/elijah-sarratt-active-against-saints/1945736
-- **NEW — Jalen McMillan** — Jalen McMillan Making his Debut in Week 2 (2026-09-20T11:44:05Z)
+- **Jalen McMillan** — Jalen McMillan Making his Debut in Week 2 (2026-09-20T11:44:05Z)
   - Source: https://www.rotoballer.com/player-news/jalen-mcmillan-making-his-debut-in-week-2/1945730
-- **NEW — Joe Burrow** — Joe Burrow Active Against Texans (2026-09-20T11:40:16Z)
+- **Joe Burrow** — Joe Burrow Active Against Texans (2026-09-20T11:40:16Z)
   - Source: https://www.rotoballer.com/player-news/joe-burrow-active-against-texans/1945728
-- **NEW — Chris Olave** — Chris Olave Officially Active for Week 2 (2026-09-20T11:38:16Z)
+- **Chris Olave** — Chris Olave Officially Active for Week 2 (2026-09-20T11:38:16Z)
   - Source: https://www.rotoballer.com/player-news/chris-olave-officially-active-for-week-2/1945726
 - **Michael Penix** — Michael Penix Jr. (knee) could make his debut Thursday against Packers (2026-09-20T11:25:54.501000Z)
   - The Falcons will be starting Cooper Rush once again in Week 2, but Penix's return to the lineup would be a big boost to the Falcons' pass catchers. Penix has been edging ever closer to returning, and despite Tua Tagovailoa being named starter by default, he will likely start as soon as he is physically able.
   - Source: https://www.fantasypros.com/nfl/news/609166/michael-penix-jr-knee-could-make-his-debut-thursday-against-packers.php
 - **Keenan Allen** — Keenan Allen - Facing league suspension (2026-09-20T11:19:39Z)
   - Allen was formally charged with two misdemeanors last week after being arrested on DUI charges in late August, and the NFL could levy a suspension of three games or more for his actions. Per the report, "Allen is not expected to miss playing time while the case proceeds through the courts."
-- **NEW — Travis Etienne** — Travis Etienne Jr. to Share First-Team Reps in Week 2 (2026-09-20T11:19:05Z)
+- **Travis Etienne** — Travis Etienne Jr. to Share First-Team Reps in Week 2 (2026-09-20T11:19:05Z)
   - Source: https://www.rotoballer.com/player-news/travis-etienne-jr-to-share-first-team-reps-in-week-2/1945717
 - **RJ Harvey** — RJ Harvey (hamstring) unlikely to play against Jags (2026-09-20T11:15:54.589000Z)
   - If Harvey sits, JK Dobbins will once again be the primary rusher and it will open up touches for Jonah Coleman, as he is a capable pass catcher. Dobbins is worth starting this week, and Coleman could be an interesting start in deeper formats.
@@ -98,7 +159,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/609165/chris-olave-hamstring-expected-to-play-against-baltimore.php
 - **Michael Penix** — Michael Penix - Could start in Week 3 (2026-09-20T11:13:43Z)
   - Penix was ruled out for Week 2 on Friday, so Cooper Rush will start for the Falcons for the second time in as many games. However, Penix has been practicing fully for two weeks, and if he feels confident that he is ready to play on his surgically-repaired left knee, he could take over as Atlanta's starter in Week 3.
-- **NEW — Kyler Murray** — Kyler Murray Expected to Return in Week 3 (2026-09-20T11:12:15Z)
+- **Kyler Murray** — Kyler Murray Expected to Return in Week 3 (2026-09-20T11:12:15Z)
   - Source: https://www.rotoballer.com/player-news/kyler-murray-expected-to-return-in-week-3/1945712
 - **Kaelon Black** — Kaelon Black (groin) expected to play on Sunday (2026-09-20T11:10:54.062000Z)
   - If Black plays it seems unlikely he'll have the 50-50 split with Christian McCaffrey he had last time out, and likely will play a more complementary role. However, if the Niners do get up big, he could see a decent amount of touches, so he could be flex-worthy in deep formats.
@@ -113,7 +174,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/609161/ladd-mcconkey-ribs-pushing-to-play-sunday.php
 - **Kaelon Black** — Kaelon Black - On track to play Sunday (2026-09-20T10:55:02Z)
   - Black popped up on Thursday's injury report as a limited participant due to a groin injury, and he was given a questionable designation after getting in another limited session Friday. While there is reason to believe he will take the field Sunday, his availability will not be confirmed until the 49ers release their inactives 90 minutes before Sunday's 4:25 p.m. ET kickoff.
-- **NEW — Rashod Bateman** — Rashod Bateman Makes Solid Play In Absence of Top WR (2026-09-20T10:52:18Z)
+- **Rashod Bateman** — Rashod Bateman Makes Solid Play In Absence of Top WR (2026-09-20T10:52:18Z)
   - Source: https://www.rotoballer.com/player-news/rashod-bateman-makes-solid-play-in-absence-of-zay-flowers/1945697
 - **Puka Nacua** — Puka Nacua - Looking like game-time call (2026-09-20T10:50:06Z)
   - Nacua sat out practice both Friday and Saturday with what was officially listed as a hip injury and what head coach Sean McVay said was "soreness in his groin," leaving his status up in the air for Week 2. Nacua was given a questionable designation, and while it seems he will have a chance to take the field Monday night, fantasy players will want to have another option at the ready in case he is unable to give it a go.
@@ -123,13 +184,13 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Olave took a designation into Sunday after closing Week 2 prep with a pair of practices due to the hamstring injury he sustained during Thursday's session. According to Nick Underhill of NewOrleans.Football, Olave made the trip to Baltimore with his teammates, and barring a setback in pregame warmups, he'll be formally cleared to play upon the release of the Saints' inactive list approximately 90 minutes prior to the 1 p.m. ET kickoff. Underhill adds that Olave isn't expected to face any limitations in terms of snaps.
 - **Joe Burrow** — Joe Burrow - Still on track to play Sunday (2026-09-20T10:33:28Z)
   - Head coach Zac Taylor indicated Friday that Burrow -- who was limited Wednesday and Thursday before finishing the week with a full session -- was "good to go" for Week 2, and as of Sunday morning he remains on track to play. Burrow's availability for Sunday's game will be confirmed when the Bengals reveal their inactive list at 11:30 a.m. ET.
-- **NEW — Brock Bowers** — Brock Bowers Should Be Back For Week 3 (2026-09-20T10:30:06Z)
+- **Brock Bowers** — Brock Bowers Should Be Back For Week 3 (2026-09-20T10:30:06Z)
   - Source: https://www.rotoballer.com/player-news/brock-bowers-should-be-back-for-week-3/1945671
-- **NEW — Sam Darnold** — Sam Darnold Recovering Faster Than Anticipated (2026-09-20T10:22:08Z)
+- **Sam Darnold** — Sam Darnold Recovering Faster Than Anticipated (2026-09-20T10:22:08Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-recovering-faster-than-anticipated/1945667
 - **Ladd McConkey** — Ladd McConkey - Intends to play Sunday (2026-09-20T10:16:25Z)
   - After sitting out practice the first two days of the week, McConkey was able to sneak in a limited session Friday. Though Pelissero relays that a final decision on McConkey's status won't be made until later Sunday, fantasy managers can expect him to avoid the Chargers' inactive list, which will be released 90 minutes prior to the game's 4:05 p.m. ET kickoff. According to Ian Rapoport of NFL Network, McConkey is working his way back from a cracked rib and has improved more steadily than anticipated since suffering the injury in last weekend's season-opening loss to the Cardinals. McConkey is expected to wear a flak jacket to offer further protection for the rib Sunday, assuming he gets the green light to play, per Adam Schefter of ESPN.
-- **NEW — DJ Moore** — DJ Moore Day-To-Day With AC Joint Sprain (2026-09-20T10:13:13Z)
+- **DJ Moore** — DJ Moore Day-To-Day With AC Joint Sprain (2026-09-20T10:13:13Z)
   - Source: https://www.rotoballer.com/player-news/dj-moore-day-to-day-with-ac-joint-sprain/1945664
 - **Mack Hollins** — Mack Hollins to Benefit From Steady Rapport with Quarterback (2026-09-20T09:28:14Z)
   - Source: https://www.rotoballer.com/player-news/mack-hollins-to-benefit-from-steady-rapport-with-quarterback/1945635
@@ -169,57 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/chuba-hubbard-profiles-as-a-steady-rb2-option-in-week-2/1945418
 - **Isaiah Likely** — Isaiah Likely Aims To Follow Up On Great Debut in Week 2 (2026-09-19T22:47:06Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-likely-aims-to-follow-up-on-great-debut-in-week-2/1945415
-- **Malik Nabers** — Malik Nabers Could See Another Limited Workload Against Rams (2026-09-19T22:45:22Z)
-  - Source: https://www.rotoballer.com/player-news/malik-nabers-could-see-another-limited-workload-against-rams/1945413
-- **Cam Skattebo** — Cam Skattebo Aims To Build On Strong Debut Against Rams (2026-09-19T22:44:41Z)
-  - Source: https://www.rotoballer.com/player-news/cam-skattebo-aims-to-build-on-strong-debut-against-rams/1945411
-- **Terry McLaurin** — Terry McLaurin a Worthy Start for Fantasy Managers in Week 2? (2026-09-19T22:44:37Z)
-  - Source: https://www.rotoballer.com/player-news/terry-mclaurin-a-worthy-start-for-fantasy-managers-in-week-2/1945409
-- **Jaxson Dart** — Jaxson Dart Looks to Keep Rolling in Week 2 (2026-09-19T22:40:44Z)
-  - Source: https://www.rotoballer.com/player-news/jaxson-dart-looks-to-keep-rolling-in-week-2/1945406
-- **Aaron Jones** — Aaron Jones Sr. Profiles as a Top-24 Running Back in Week 2 (2026-09-19T22:29:05Z)
-  - Source: https://www.rotoballer.com/player-news/aaron-jones-sr-profiles-as-a-top-24-running-back-in-week-2/1945398
-- **Jaylen Waddle** — Jaylen Waddle Outside of Must-Start Territory in Week 2? (2026-09-19T22:20:05Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-waddle-outside-of-must-start-territory-in-week-2/1945392
-- **Luther Burden** — Luther Burden III a High-End WR2 Option in Week 2 (2026-09-19T22:11:13Z)
-  - Source: https://www.rotoballer.com/player-news/luther-burden-iii-a-high-end-wr2-option-in-week-2/1945388
-- **Caleb Douglas** — Caleb Douglas Offers Deep-League Flex Appeal (2026-09-19T21:52:06Z)
-  - Source: https://www.rotoballer.com/player-news/caleb-douglas-offers-deep-league-flex-appeal/1945378
-- **Terrance Ferguson** — Terrance Ferguson Not Yet on the Weekly Fantasy Radar (2026-09-19T21:50:06Z)
-  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-not-yet-on-the-weekly-fantasy-radar/1945376
-- **Kaelon Black** — Kaelon Black is a Shaky Flex Play (2026-09-19T21:46:06Z)
-  - Source: https://www.rotoballer.com/player-news/kaelon-black-is-a-shaky-flex-play/1945373
-- **Deebo Samuel** — Deebo Samuel Sr. Carries WR3 Value into Week 2 (2026-09-19T21:38:18Z)
-  - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-carries-wr3-value-into-week-2/1945369
-- **Blake Corum** — Blake Corum Gets a Tougher Matchup Amid Volume Increase (2026-09-19T21:37:07Z)
-  - Source: https://www.rotoballer.com/player-news/blake-corum-gets-a-tougher-matchup-amid-volume-increase/1945367
-- **Parker Washington** — Parker Washington is Becoming a Fringe WR1 (2026-09-19T21:30:06Z)
-  - Source: https://www.rotoballer.com/player-news/paker-washington-is-becoming-a-fringe-wr1/1945364
-- **Kyren Williams** — Kyren Williams a Touchdown-Dependent RB2 for Week 2 Against Giants (2026-09-19T21:26:05Z)
-  - Source: https://www.rotoballer.com/player-news/kyren-williams-a-touchdown-dependent-rb2-for-week-2-against-giants/1945362
-- **Devaughn Vele** — Devaughn Vele has Intriguing Upside for Week 2 (2026-09-19T21:15:06Z)
-  - Source: https://www.rotoballer.com/player-news/devaughn-vele-has-intriguing-upside-for-week-2/1945358
-- **De'Zhaun Stribling** — De'Zhaun Stribling - Officially placed on IR (2026-09-19T21:14:00Z)
-  - Stribling suffered what appeared to be a serious non-contact injury during the 49ers' Week 1 win against the Rams in Melbourne, Australia, but afterward tests revealed that his left Achilles was intact, and eventually he was diagnosed with a deltoid sprain of his left ankle. After undergoing surgery, he's expected to miss roughly 10 weeks, meaning a move to IR was inevitable. At least during the initial weeks of Stribling's absence, Mike Evans, Deebo Samuel, Demarcus Robinson, Jacob Cowing, Jordan Watkins and KhaDarel Hodge will handle WR duties for San Francisco.
-- **Davante Adams** — Davante Adams Has WR1 Potential if Teammate Can't Play (2026-09-19T21:02:06Z)
-  - Source: https://www.rotoballer.com/player-news/davante-adams-has-wr1-potential-if-teammate-cant-play/1945356
-- **Puka Nacua** — Puka Nacua a Risky Fantasy Option with Status in Limbo (2026-09-19T20:47:06Z)
-  - Source: https://www.rotoballer.com/player-news/puka-nacua-a-risky-fantasy-option-with-status-in-limbo/1945354
-- **Matthew Stafford** — Matthew Stafford Could be Down a Receiver in Quest for Redemption (2026-09-19T20:41:05Z)
-  - Source: https://www.rotoballer.com/player-news/matthew-stafford-could-be-down-a-receiver-in-quest-for-redemption/1945352
-- **Omar Cooper** — Omar Cooper - Officially on injured reserve (2026-09-19T20:17:15Z)
-  - Cooper thus will miss at least the next four games after he suffered a sprained ankle in his pro debut this past Sunday in Tennessee. His next chance for game action will be a Week 6 road matchup with the Patriots on Sunday, Oct. 18, and in the meantime, the Jets will operate with a receiving corps composed of Garrett Wilson, Adonai Mitchell, Isaiah Williams and Arian Smith.
-- **Zay Flowers** — Zay Flowers (hamstring) out against Saints (2026-09-19T20:15:48.314000Z)
-  - With Flowers out, Mark Andrews will become the primary target for Lamar Jackson. Rashod Bateman will be the Ravens top receiver on the depth chart, but it would be extremely hard to start him, given the amount of routes he run for just one target last week. Rookie Elijah Sarratt could be an interesting watch if called up, but it's best to start Andrews and move on.
-  - Source: https://www.fantasypros.com/nfl/news/609109/zay-flowers-hamstring-put-against-saints.php
-- **Zay Flowers** — Zay Flowers - Ruled out for Sunday's game (2026-09-19T20:10:50Z)
-  - Typically, players listed as doubtful on final injury reports of the week are inactive on game days, but the Ravens got ahead of the issue and deemed Flowers unable to play one day prior. He thus will miss at least one contest as a result of the hamstring issue he suffered in Week 1, and Baltimore will roll with a receiving corps of Rashod Bateman, Devontez Walker, Elijah Sarratt and LaJohntay Wester in the meantime.
-- **Nico Collins** — Nico Collins - Could miss two games (2026-09-19T19:55:49Z)
-  - Collins already has been ruled out for Sunday's game versus the Bengals as a result of the hamstring injury that he picked up at Wednesday's practice. The injury isn't considered to be a long-term concern, but as Wilson reports, the Texans could err on the side of caution and keep him out for Week 3 at Indianapolis as well to ensure the issue doesn't linger. In Collins' absence, Houston will roll with Xavier Hutchinson, Kayshon Boutte, Jaylin Noel, Jared Wayne and practice-squad call-up Lewis Bond at wide receiver.
-- **Jalen Coker** — Is Jalen Coker a Must-Start in Week 2 vs. Falcons? (2026-09-19T19:09:05Z)
-  - Source: https://www.rotoballer.com/player-news/is-jalen-coker-a-must-start-in-week-2-vs-falcons/1945343
-- **Puka Nacua** — Puka Nacua (hip) questionable for Monday night (2026-09-19T18:55:48.095000Z)
-  - Nacua has now missed two practices in a row with a hip issue, and that does not bode well for his status on game day. Fantasy managers will need to have contingency plans ready in case he sits. Davante Adams is next up for targets, but Colby Parkinson and Terrance Ferguson could see more looks. Konata Mumpfield is likely next up behind Puka with Jordan Whittington also questionable.
-  - Source: https://www.fantasypros.com/nfl/news/609103/puka-nacua-hip-questionable-monday-night.php
-- **Germie Bernard** — Germie Bernard Potentially in Line For Bigger Role in Week 2 (2026-09-19T18:47:06Z)
-  - Source: https://www.rotoballer.com/player-news/germie-bernard-potentially-in-line-for-bigger-role-in-week-2/1945338
