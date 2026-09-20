@@ -2,13 +2,17 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **3980**
+- Stored stories: **3978**
 - Newly captured: **3**
 
 ## Latest news
 
-- **NEW — De'Zhaun Stribling** — De'Zhaun Stribling - Officially placed on IR (2026-09-19T21:14:00Z)
+- **De'Zhaun Stribling** — De'Zhaun Stribling - Officially placed on IR (2026-09-19T21:14:00Z)
   - Stribling suffered what appeared to be a serious non-contact injury during the 49ers' Week 1 win against the Rams in Melbourne, Australia, but afterward tests revealed that his left Achilles was intact, and eventually he was diagnosed with a deltoid sprain of his left ankle. After undergoing surgery, he's expected to miss roughly 10 weeks, meaning a move to IR was inevitable. At least during the initial weeks of Stribling's absence, Mike Evans, Deebo Samuel, Demarcus Robinson, Jacob Cowing, Jordan Watkins and KhaDarel Hodge will handle WR duties for San Francisco.
+- **NEW — Puka Nacua** — Puka Nacua a Risky Fantasy Option with Status in Limbo (2026-09-19T20:47:06Z)
+  - Source: https://www.rotoballer.com/player-news/puka-nacua-a-risky-fantasy-option-with-status-in-limbo/1945354
+- **NEW — Matthew Stafford** — Matthew Stafford Could be Down a Receiver in Quest for Redemption (2026-09-19T20:41:05Z)
+  - Source: https://www.rotoballer.com/player-news/matthew-stafford-could-be-down-a-receiver-in-quest-for-redemption/1945352
 - **Omar Cooper** — Omar Cooper - Officially on injured reserve (2026-09-19T20:17:15Z)
   - Cooper thus will miss at least the next four games after he suffered a sprained ankle in his pro debut this past Sunday in Tennessee. His next chance for game action will be a Week 6 road matchup with the Patriots on Sunday, Oct. 18, and in the meantime, the Jets will operate with a receiving corps composed of Garrett Wilson, Adonai Mitchell, Isaiah Williams and Arian Smith.
 - **Zay Flowers** — Zay Flowers (hamstring) out against Saints (2026-09-19T20:15:48.314000Z)
@@ -18,14 +22,16 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Typically, players listed as doubtful on final injury reports of the week are inactive on game days, but the Ravens got ahead of the issue and deemed Flowers unable to play one day prior. He thus will miss at least one contest as a result of the hamstring issue he suffered in Week 1, and Baltimore will roll with a receiving corps of Rashod Bateman, Devontez Walker, Elijah Sarratt and LaJohntay Wester in the meantime.
 - **Nico Collins** — Nico Collins - Could miss two games (2026-09-19T19:55:49Z)
   - Collins already has been ruled out for Sunday's game versus the Bengals as a result of the hamstring injury that he picked up at Wednesday's practice. The injury isn't considered to be a long-term concern, but as Wilson reports, the Texans could err on the side of caution and keep him out Week 3 at Indianapolis as well to ensure the issue doesn't linger. In Collins' absence, Houston will roll with Xavier Hutchinson, Kayshon Boutte, Jaylin Noel, Jared Wayne and practice-squad call-up Lewis Bond at wide receiver.
+- **NEW — Jalen Coker** — Is Jalen Coker a Must-Start in Week 2 vs. Falcons? (2026-09-19T19:09:05Z)
+  - Source: https://www.rotoballer.com/player-news/is-jalen-coker-a-must-start-in-week-2-vs-falcons/1945343
 - **Puka Nacua** — Puka Nacua (hip) questionable for Monday night (2026-09-19T18:55:48.095000Z)
   - Nacua has now missed two practices in a row with a hip issue, and that does not bode well for his status on game day. Fantasy managers will need to have contingency plans ready in case he sits. Davante Adams is next up for targets, but Colby Parkinson and Terrance Ferguson could see more looks. Konata Mumpfield is likely next up behind Puka with Jordan Whittington also questionable.
   - Source: https://www.fantasypros.com/nfl/news/609103/puka-nacua-hip-questionable-monday-night.php
-- **NEW — Germie Bernard** — Germie Bernard Potentially in Line For Bigger Role in Week 2 (2026-09-19T18:47:06Z)
+- **Germie Bernard** — Germie Bernard Potentially in Line For Bigger Role in Week 2 (2026-09-19T18:47:06Z)
   - Source: https://www.rotoballer.com/player-news/germie-bernard-potentially-in-line-for-bigger-role-in-week-2/1945338
 - **Puka Nacua** — Puka Nacua - Questionable for Monday (2026-09-19T18:41:29Z)
   - Nacua thus will miss practice for a second day in a row to end Week 2 prep, and McVay also told Royer that the wide receiver is dealing with some soreness in his groin, but the Rams will see how he feels as Monday's kickoff approaches. The issue apparently is different than the psoas soreness that Nacua tended to during training camp, and his status very well could come down to a game-time decision.
-- **NEW — Zay Flowers** — Zay Flowers Downgraded to Out for Week 2 (2026-09-19T18:15:38Z)
+- **Zay Flowers** — Zay Flowers Downgraded to Out for Week 2 (2026-09-19T18:15:38Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-downgraded-to-out-for-week-2/1945328
 - **Roman Wilson** — Roman Wilson - Takes on outside receiver role (2026-09-19T17:28:50Z)
   - Wilson is set to be the No. 2 wide receiver Sunday behind DK Metcalf due to the injury to Michael Pittman (ankle). Wilson saw 54 percent of the Steelers' offensive snaps in the Week 1 win over the Falcons, a number that should increase as the 25-year-old takes on a more critical role. The wide receiver saw six targets in Week 1 and will likely see even more against the Patriots unless the opponent chooses to have standout cornerback Christian Gonzalez follow the third-year player.
@@ -209,9 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/woody-marks-offers-sleeper-flex-potential-for-deep-leagues/1944740
 - **David Montgomery** — David Montgomery Is a Solid RB2 in Week 2 (2026-09-19T07:04:06Z)
   - Source: https://www.rotoballer.com/player-news/david-montgomery-is-a-solid-rb2-in-week-2/1944725
-- **Nico Collins** — C.J. Stroud Is Hard to Start in Week 2 Without Nico Collins (2026-09-19T06:52:06Z)
-  - Source: https://www.rotoballer.com/player-news/c-j-stroud-is-hard-to-start-in-week-2-without-nico-collins/1944717
-- **Trey McBride** — Trey McBride Still In TE1 Mix Despite Difficult Defense (2026-09-19T06:29:05Z)
-  - Source: https://www.rotoballer.com/player-news/trey-mcbride-still-in-te1-mix-despite-difficult-defense/1944699
-- **Mark Andrews** — Mark Andrews' TE1 Outlook Buoyed by Team Injuries (2026-09-19T06:02:06Z)
-  - Source: https://www.rotoballer.com/player-news/mark-andrews-te1-outlook-buoyed-by-team-injuries/1944686

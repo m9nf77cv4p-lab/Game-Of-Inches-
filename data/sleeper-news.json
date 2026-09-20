@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-09-19T22:58:59Z",
+  "last_checked_at": "2026-09-20T00:57:20Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 291,
   "new_story_ids": [
-    "nfl|13274|rotoballer|221644|1789843626000",
-    "nfl|13417|rotowire|638071|1789852440000",
-    "nfl|9997|rotoballer|221642|1789841738000"
+    "nfl|11646|rotoballer|221645|1789844945000",
+    "nfl|421|rotoballer|221646|1789850465000",
+    "nfl|9493|rotoballer|221647|1789850826000"
   ],
   "schema_version": 1,
   "source": {
@@ -34,6 +34,46 @@
       "story_id": "nfl|13417|rotowire|638071|1789852440000",
       "title": "De'Zhaun Stribling - Officially placed on IR",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Puka Nacua (hip) is listed as questionable for Monday's Week 2 contest against the New York Giants, making him a very risky option for fantasy football leagues. Nacua has missed practice each of the last two days, suggesting that he's trending in the wrong direction for Monday Night Football. With that said, the Rams are leaving the door open for him to play with a \"questionable\" tag, and he'll have two days to recover and get ready for Monday's game. The unfortunate news for fantasy managers is that the Rams don't play until Monday night, which means that it's imperative to have a backup plan in place ahead of time. In leagues where the auto-sub feature isn't enabled, managers will have to decide whether to bench Nacua as a precaution, roll the dice and start him but take a zero if he doesn't play, or add another Giants or Rams player to shift into the wide receiver or flex spot if Nacua is ruled out at the last minute. If active, Nacua will rank as a WR1, with the Rams looking to bounce back from last week's season-opening dud on offense. If he's inactive, Davante Adams would likely step up as the team's No. 1 pass catcher.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Puka Nacua (hip) is listed as questionable for Monday's Week 2 contest against the New York Giants, making him a very risky option for fantasy football leagues. Nacua has missed practice each of the last two days, suggesting that he's trending in the wrong direction for Monday Night Football. With that said, the Rams are leaving the door open for him to play with a \"questionable\" tag, and he'll have two days to recover and get ready for Monday's game. The unfortunate news for fantasy managers is that the Rams don't play until Monday night, which means that it's imperative to have a backup plan in place ahead of time. In leagues where the auto-sub feature isn't enabled, managers will have to decide whether to bench Nacua as a precaution, roll the dice and start him but take a zero if he doesn't play, or add another Giants or Rams player to shift into the wide receiver or flex spot if Nacua is ruled out at the last minute. If active, Nacua will rank as a WR1, with the Rams looking to bounce back from last week's season-opening dud on offense. If he's inactive, Davante Adams would likely step up as the team's No. 1 pass catcher.",
+        "title": "Puka Nacua a Risky Fantasy Option with Status in Limbo",
+        "topic_id": "1407202579124928512",
+        "url": "https://www.rotoballer.com/player-news/puka-nacua-a-risky-fantasy-option-with-status-in-limbo/1945354"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1789850826000,
+      "source": "rotoballer",
+      "source_key": "221647",
+      "story_id": "nfl|9493|rotoballer|221647|1789850826000",
+      "title": "Puka Nacua a Risky Fantasy Option with Status in Limbo",
+      "url": "https://www.rotoballer.com/player-news/puka-nacua-a-risky-fantasy-option-with-status-in-limbo/1945354"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams quarterback Matthew Stafford is coming off a frustrating Week 1 performance amid his attempt to defend last year's MVP title. Last week's struggles could potentially be chalked up to the team's weird travel logistics to Australia, so we expect Stafford to settle into more of a groove as he returns stateside in Week 2 to face the New York Giants. The bad news for the veteran quarterback is that he could be without wide receiver Puka Nacua (hip), who has missed practice on back-to-back days. At this point, there's legitimate concern that Nacua doesn't play, which would have an enormous impact on Stafford's fantasy football outlook. It would certainly benefit the quarterback to have his top target available against a Giants defense that allowed just 175 yards, two touchdowns, and one interception to Dak Prescott last week. If Nacua plays, Stafford will rank as a low-end QB1 in fantasy football. If he doesn't, the veteran passer falls to the mid-range QB2 tier. Managers will have to make their best guess here, as there won't be any clarity on Nacua's status until the Rams post their list of inactive players on Monday night.",
+      "metadata": {
+        "description": "Los Angeles Rams quarterback Matthew Stafford is coming off a frustrating Week 1 performance amid his attempt to defend last year's MVP title. Last week's struggles could potentially be chalked up to the team's weird travel logistics to Australia, so we expect Stafford to settle into more of a groove as he returns stateside in Week 2 to face the New York Giants. The bad news for the veteran quarterback is that he could be without wide receiver Puka Nacua (hip), who has missed practice on back-to-back days. At this point, there's legitimate concern that Nacua doesn't play, which would have an enormous impact on Stafford's fantasy football outlook. It would certainly benefit the quarterback to have his top target available against a Giants defense that allowed just 175 yards, two touchdowns, and one interception to Dak Prescott last week. If Nacua plays, Stafford will rank as a low-end QB1 in fantasy football. If he doesn't, the veteran passer falls to the mid-range QB2 tier. Managers will have to make their best guess here, as there won't be any clarity on Nacua's status until the Rams post their list of inactive players on Monday night.",
+        "title": "Matthew Stafford Could be Down a Receiver in Quest for Redemption",
+        "topic_id": "1407201320091344896",
+        "url": "https://www.rotoballer.com/player-news/matthew-stafford-could-be-down-a-receiver-in-quest-for-redemption/1945352"
+      },
+      "nfl_team": "LAR",
+      "player_id": "421",
+      "player_name": "Matthew Stafford",
+      "position": "QB",
+      "published": 1789850465000,
+      "source": "rotoballer",
+      "source_key": "221646",
+      "story_id": "nfl|421|rotoballer|221646|1789850465000",
+      "title": "Matthew Stafford Could be Down a Receiver in Quest for Redemption",
+      "url": "https://www.rotoballer.com/player-news/matthew-stafford-could-be-down-a-receiver-in-quest-for-redemption/1945352"
     },
     {
       "analysis": "Cooper thus will miss at least the next four games after he suffered a sprained ankle in his pro debut this past Sunday in Tennessee. His next chance for game action will be a Week 6 road matchup with the Patriots on Sunday, Oct. 18, and in the meantime, the Jets will operate with a receiving corps composed of Garrett Wilson, Adonai Mitchell, Isaiah Williams and Arian Smith.",
@@ -115,6 +155,26 @@
       "story_id": "nfl|7569|rotowire|638055|1789847749000",
       "title": "Nico Collins - Could miss two games",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers wideout Jalen Coker is coming off his two biggest games of his young NFL career. He has combined for 17 catches for 272 receiving yards and three touchdowns on 21 targets in those outings. The 24-year-old was the PPR WR1 in overall scoring in Week 1 with 33.8 fantasy points. Heading into Week 2, Coker will face a stout Atlanta Falcons secondary featuring A.J. Terrell, Jessie Bates III, and Xavier Watts. The Falcons surrendered 221 passing yards and one touchdown against 41 passing attempts in Week 1 to the Pittsburgh Steelers. In a less-than-ideal matchup, Coker is RotoBaller's PPR WR27 this week. Coker has been a fantasy favorite in the community and is building his case as one of the league's better young receivers. He can be plugged into fantasy lineups as a viable flex option, but we should not expect him to repeat as a top-10 fantasy receiver in Week 2.",
+      "metadata": {
+        "description": "Carolina Panthers wideout Jalen Coker is coming off his two biggest games of his young NFL career. He has combined for 17 catches for 272 receiving yards and three touchdowns on 21 targets in those outings. The 24-year-old was the PPR WR1 in overall scoring in Week 1 with 33.8 fantasy points. Heading into Week 2, Coker will face a stout Atlanta Falcons secondary featuring A.J. Terrell, Jessie Bates III, and Xavier Watts. The Falcons surrendered 221 passing yards and one touchdown against 41 passing attempts in Week 1 to the Pittsburgh Steelers. In a less-than-ideal matchup, Coker is RotoBaller's PPR WR27 this week. Coker has been a fantasy favorite in the community and is building his case as one of the league's better young receivers. He can be plugged into fantasy lineups as a viable flex option, but we should not expect him to repeat as a top-10 fantasy receiver in Week 2.",
+        "title": "Is Jalen Coker a Must-Start in Week 2 vs. Falcons?",
+        "topic_id": "1407177410369073152",
+        "url": "https://www.rotoballer.com/player-news/is-jalen-coker-a-must-start-in-week-2-vs-falcons/1945343"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11646",
+      "player_name": "Jalen Coker",
+      "position": "WR",
+      "published": 1789844945000,
+      "source": "rotoballer",
+      "source_key": "221645",
+      "story_id": "nfl|11646|rotoballer|221645|1789844945000",
+      "title": "Is Jalen Coker a Must-Start in Week 2 vs. Falcons?",
+      "url": "https://www.rotoballer.com/player-news/is-jalen-coker-a-must-start-in-week-2-vs-falcons/1945343"
     },
     {
       "analysis": "Nacua has now missed two practices in a row with a hip issue, and that does not bode well for his status on game day. Fantasy managers will need to have contingency plans ready in case he sits. Davante Adams is next up for targets, but Colby Parkinson and Terrance Ferguson could see more looks. Konata Mumpfield is likely next up behind Puka with Jordan Whittington also questionable.",
@@ -80258,106 +80318,6 @@
       "story_id": "nfl|5872|fantasy_pros|603571|1787275555721",
       "title": "Deebo Samuel Sr. starting against Chargers",
       "url": "https://www.fantasypros.com/nfl/news/603571/deebo-samuel-sr-starting-against-chargers.php"
-    },
-    {
-      "analysis": null,
-      "description": "Seattle Seahawks placekicker Jason Myers is coming off the best fantasy season of his NFL career in 2025. Myers made 41 of 48 field goals and 48 extra points in 17 games, finishing as the number one-ranked kicker and averaging 11.9 fantasy points per game. The veteran kicker has finished in the top four among kickers in three of the last four seasons, but inaccuracy could cost him important points in 2026. He has an 85% field goal percentage, which would've ranked him below league average last season. He also missed his only field goal attempt in the Seahawks' opening preseason game against the Dallas Cowboys, from 45 yards. Fantasy managers should keep an eye on Myers' preseason performances, as accuracy could be the difference between another top season and an average one for the Seahawks kicker.",
-      "metadata": {
-        "description": "Seattle Seahawks placekicker Jason Myers is coming off the best fantasy season of his NFL career in 2025. Myers made 41 of 48 field goals and 48 extra points in 17 games, finishing as the number one-ranked kicker and averaging 11.9 fantasy points per game. The veteran kicker has finished in the top four among kickers in three of the last four seasons, but inaccuracy could cost him important points in 2026. He has an 85% field goal percentage, which would've ranked him below league average last season. He also missed his only field goal attempt in the Seahawks' opening preseason game against the Dallas Cowboys, from 45 yards. Fantasy managers should keep an eye on Myers' preseason performances, as accuracy could be the difference between another top season and an average one for the Seahawks kicker.",
-        "title": "Jason Myers Faces Accuracy Concerns After Strong 2025 Season",
-        "topic_id": "1396377527366189056",
-        "url": "https://www.rotoballer.com/player-news/jason-myers-faces-accuracy-concerns-after-strong-2025-season/1912996"
-      },
-      "nfl_team": "SEA",
-      "player_id": "2747",
-      "player_name": "Jason Myers",
-      "position": "K",
-      "published": 1787269927000,
-      "source": "rotoballer",
-      "source_key": "219044",
-      "story_id": "nfl|2747|rotoballer|219044|1787269927000",
-      "title": "Jason Myers Faces Accuracy Concerns After Strong 2025 Season",
-      "url": "https://www.rotoballer.com/player-news/jason-myers-faces-accuracy-concerns-after-strong-2025-season/1912996"
-    },
-    {
-      "analysis": null,
-      "description": "Baltimore Ravens running back Justice Hill is coming off a down year in 2025, with 18 carries for 93 yards and two touchdowns, plus 169 yards and one touchdown on 21 receptions. Hill had his lowest carries per game (1.8), rushing yards (9.3), and total attempts per game (3.9) since 2020. While he's been a solid third-down back and special teams player for the team, his 2025 decline could be part of the reason they spent a fifth-round pick on running back Adam Randall. While star running back Derrick Henry will be the workhorse in Baltimore, any injury could mean Randall steps into the two-down back role rather than Hill. Without a clear handcuff role, Hill is likely too low for fantasy relevance in 2026.",
-      "metadata": {
-        "description": "Baltimore Ravens running back Justice Hill is coming off a down year in 2025, with 18 carries for 93 yards and two touchdowns, plus 169 yards and one touchdown on 21 receptions. Hill had his lowest carries per game (1.8), rushing yards (9.3), and total attempts per game (3.9) since 2020. While he's been a solid third-down back and special teams player for the team, his 2025 decline could be part of the reason they spent a fifth-round pick on running back Adam Randall. While star running back Derrick Henry will be the workhorse in Baltimore, any injury could mean Randall steps into the two-down back role rather than Hill. Without a clear handcuff role, Hill is likely too low for fantasy relevance in 2026.",
-        "title": "Justice Hill Could Lose Handcuff Role to Adam Randall in 2026",
-        "topic_id": "1396375011010281472",
-        "url": "https://www.rotoballer.com/player-news/justice-hill-could-lose-handcuff-role-to-adam-randall-in-2026/1912990"
-      },
-      "nfl_team": "BAL",
-      "player_id": "5995",
-      "player_name": "Justice Hill",
-      "position": "RB",
-      "published": 1787269328000,
-      "source": "rotoballer",
-      "source_key": "219043",
-      "story_id": "nfl|5995|rotoballer|219043|1787269328000",
-      "title": "Justice Hill Could Lose Handcuff Role to Adam Randall in 2026",
-      "url": "https://www.rotoballer.com/player-news/justice-hill-could-lose-handcuff-role-to-adam-randall-in-2026/1912990"
-    },
-    {
-      "analysis": "Allen wasn't expected to participate in team drills after signing earlier this week, but he took four reps in 11-on-11 work against Atlanta's defense. \"He's been productive every single year he's been in the league. So obviously, we want him to be productive again this year,\" coach Shane Steichen said Wednesday. \"He'll come in - obviously, he's been in this system. He'll pick it up quickly, but he'll play outside. He'll play inside. We'll move all our guys around.\" Allen is expected to be a mainstay in three-wide sets for Indianapolis and could even push Josh Downs out of two-wide sets once Alec Pierce (ankle) is ready to go. Should he emerge as a high-volume target in his new locale, Allen's addition has the potential to negatively affect all three of Pierce, Downs and Tyler Warren's fantasy impact.",
-      "description": "Allen made his Colts practice debut in Thursday's joint practice with the Falcons, Noah Compton of SI.com reports.",
-      "metadata": {
-        "analysis": "Allen wasn't expected to participate in team drills after signing earlier this week, but he took four reps in 11-on-11 work against Atlanta's defense. \"He's been productive every single year he's been in the league. So obviously, we want him to be productive again this year,\" coach Shane Steichen said Wednesday. \"He'll come in - obviously, he's been in this system. He'll pick it up quickly, but he'll play outside. He'll play inside. We'll move all our guys around.\" Allen is expected to be a mainstay in three-wide sets for Indianapolis and could even push Josh Downs out of two-wide sets once Alec Pierce (ankle) is ready to go. Should he emerge as a high-volume target in his new locale, Allen's addition has the potential to negatively affect all three of Pierce, Downs and Tyler Warren's fantasy impact.",
-        "description": "Allen made his Colts practice debut in Thursday's joint practice with the Falcons, Noah Compton of SI.com reports.",
-        "title": "Keenan Allen - Makes practice debut Thursday",
-        "topic_id": "1396310788444012544"
-      },
-      "nfl_team": "IND",
-      "player_id": "1479",
-      "player_name": "Keenan Allen",
-      "position": "WR",
-      "published": 1787268606000,
-      "source": "rotowire",
-      "source_key": "634251",
-      "story_id": "nfl|1479|rotowire|634251|1787268606000",
-      "title": "Keenan Allen - Makes practice debut Thursday",
-      "url": null
-    },
-    {
-      "analysis": "\"Cutting a third-round pick one year after he's drafted would be a tough look for the Steelers, but it sure seems to be trending that direction based on the way the carries have been split in practices and in the first preseason game,\" DeFabo wrote Wednesday. While Jaylen Warren and Rico Dowdle rested, Johnson played behind both Travis Homer and Lew Nichols in the preseason opener last week and didn't see his first carry until the third quarter. He's buried on the depth chart and continues to make mistakes on special teams, as Johnson was seen getting chewed out on the sideline by special teams coordinator Danny Crossman against Green Bay last Thursday. Considering Johnson doesn't excel on special teams, and Homer does as the person protector on the punt team, the 2025 third-rounder Johnson may be on the outs with the new coaching staff. It might be best for Johnson to get a fresh start elsewhere after playing just 51 offensive snaps across 10 regular-season appearances as a rookie last season.",
-      "description": "The Athletic's Mike DeFabo believes Johnson is in real danger of being cut by the Steelers prior to the start of the regular season.",
-      "metadata": {
-        "analysis": "\"Cutting a third-round pick one year after he's drafted would be a tough look for the Steelers, but it sure seems to be trending that direction based on the way the carries have been split in practices and in the first preseason game,\" DeFabo wrote Wednesday. While Jaylen Warren and Rico Dowdle rested, Johnson played behind both Travis Homer and Lew Nichols in the preseason opener last week and didn't see his first carry until the third quarter. He's buried on the depth chart and continues to make mistakes on special teams, as Johnson was seen getting chewed out on the sideline by special teams coordinator Danny Crossman against Green Bay last Thursday. Considering Johnson doesn't excel on special teams, and Homer does as the person protector on the punt team, the 2025 third-rounder Johnson may be on the outs with the new coaching staff. It might be best for Johnson to get a fresh start elsewhere after playing just 51 offensive snaps across 10 regular-season appearances as a rookie last season.",
-        "description": "The Athletic's Mike DeFabo believes Johnson is in real danger of being cut by the Steelers prior to the start of the regular season.",
-        "title": "Kaleb Johnson - In danger of being cut",
-        "topic_id": "1396308270234206208"
-      },
-      "nfl_team": "PIT",
-      "player_id": "12504",
-      "player_name": "Kaleb Johnson",
-      "position": "RB",
-      "published": 1787268045000,
-      "source": "rotowire",
-      "source_key": "634249",
-      "story_id": "nfl|12504|rotowire|634249|1787268045000",
-      "title": "Kaleb Johnson - In danger of being cut",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "New York Giants rookie wide receiver Malachi Fields impressed in Thursday's joint practice session with the Miami Dolphins and \"continues to put together his case for the (team's) No. 2 receiver role,\" per Charlotte Carroll of The Athletic. The 74th overall pick in this past April's draft, Fields recorded 36 catches for 630 yards and five touchdowns across 12 games at Notre Dame in 2025. Once healthy, New York has a clear WR1 in star wideout Malik Nabers (knee). However, Nabers' status for Week 1 remains uncertain as he works his way back from the serious knee injury that ended his 2025 campaign. Outside of Nabers, Fields' competition for targets and playing time in New York is an uninspiring group of veterans that includes Darnell Mooney, Calvin Austin III, Darius Slayton, Braxton Berrios, and Odell Beckham Jr. If the rookie can continue to impress throughout the remainder of the preseason, he could be in line for a significant role in the Giants' offense right away. Fantasy managers may want to consider targeting Fields as a late-round sleeper entering 2026.",
-      "metadata": {
-        "description": "New York Giants rookie wide receiver Malachi Fields impressed in Thursday's joint practice session with the Miami Dolphins and \"continues to put together his case for the (team's) No. 2 receiver role,\" per Charlotte Carroll of The Athletic. The 74th overall pick in this past April's draft, Fields recorded 36 catches for 630 yards and five touchdowns across 12 games at Notre Dame in 2025. Once healthy, New York has a clear WR1 in star wideout Malik Nabers (knee). However, Nabers' status for Week 1 remains uncertain as he works his way back from the serious knee injury that ended his 2025 campaign. Outside of Nabers, Fields' competition for targets and playing time in New York is an uninspiring group of veterans that includes Darnell Mooney, Calvin Austin III, Darius Slayton, Braxton Berrios, and Odell Beckham Jr. If the rookie can continue to impress throughout the remainder of the preseason, he could be in line for a significant role in the Giants' offense right away. Fantasy managers may want to consider targeting Fields as a late-round sleeper entering 2026.",
-        "title": "Malachi Fields Making a Case for WR2 Role in New York",
-        "topic_id": "1396363686653759488",
-        "url": "https://www.rotoballer.com/player-news/malachi-fields-making-a-case-for-wr2-role-in-new-york/1912967"
-      },
-      "nfl_team": "NYG",
-      "player_id": "13285",
-      "player_name": "Malachi Fields",
-      "position": "WR",
-      "published": 1787266748000,
-      "source": "rotoballer",
-      "source_key": "219039",
-      "story_id": "nfl|13285|rotoballer|219039|1787266748000",
-      "title": "Malachi Fields Making a Case for WR2 Role in New York",
-      "url": "https://www.rotoballer.com/player-news/malachi-fields-making-a-case-for-wr2-role-in-new-york/1912967"
     }
   ]
 }
