@@ -1,11 +1,33 @@
 {
-  "last_checked_at": "2026-09-20T00:57:20Z",
+  "last_checked_at": "2026-09-20T05:54:13Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 291,
   "new_story_ids": [
-    "nfl|11646|rotoballer|221645|1789844945000",
-    "nfl|421|rotoballer|221646|1789850465000",
-    "nfl|9493|rotoballer|221647|1789850826000"
+    "nfl|11586|rotoballer|221652|1789853827000",
+    "nfl|11632|rotoballer|221663|1789857922000",
+    "nfl|11834|rotoballer|221649|1789852506000",
+    "nfl|12481|rotoballer|221664|1789857881000",
+    "nfl|12487|rotoballer|221655|1789854606000",
+    "nfl|12490|rotoballer|221671|1789865044000",
+    "nfl|12501|rotoballer|221670|1789864626000",
+    "nfl|12508|rotoballer|221661|1789857644000",
+    "nfl|12519|rotoballer|221658|1789855873000",
+    "nfl|13286|rotoballer|221669|1789864810000",
+    "nfl|13296|rotoballer|221656|1789854726000",
+    "nfl|13414|rotoballer|221653|1789854366000",
+    "nfl|2133|rotoballer|221648|1789851726000",
+    "nfl|2216|rotoballer|221674|1789865945000",
+    "nfl|2449|rotoballer|221668|1789858806000",
+    "nfl|4199|rotoballer|221660|1789856945000",
+    "nfl|5872|rotoballer|221651|1789853898000",
+    "nfl|5927|rotoballer|221665|1789857877000",
+    "nfl|7526|rotoballer|221659|1789856405000",
+    "nfl|7594|rotoballer|221666|1789858205000",
+    "nfl|7611|rotoballer|221672|1789865526000",
+    "nfl|8131|rotoballer|221667|1789858026000",
+    "nfl|8150|rotoballer|221650|1789853165000",
+    "nfl|8167|rotoballer|221673|1789865313000",
+    "nfl|9487|rotoballer|221662|1789853406000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +37,486 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Mike Evans is trending up in fantasy football as injuries impact other members of the position group. Evans was impressive in his Niners debut last week, catching six of seven targets for 49 yards and a touchdown. He didn't have the highest participation rates we've ever seen, but they were respectable. Additionally, rookie wide receiver De'Zhaun Stribling (ankle) was placed on injured reserve this week. It will be interesting to see how much of the Stribling work gets re-allocated to Evans versus others, as we haven't heard any rumblings about the Niners bringing in a different depth receiver for Week 2. In full, Evans ranks as the WR11 in RotoBaller's latest fantasy football rankings, making him a worthwhile fantasy starter for Week 2 against the Miami Dolphins.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Mike Evans is trending up in fantasy football as injuries impact other members of the position group. Evans was impressive in his Niners debut last week, catching six of seven targets for 49 yards and a touchdown. He didn't have the highest participation rates we've ever seen, but they were respectable. Additionally, rookie wide receiver De'Zhaun Stribling (ankle) was placed on injured reserve this week. It will be interesting to see how much of the Stribling work gets re-allocated to Evans versus others, as we haven't heard any rumblings about the Niners bringing in a different depth receiver for Week 2. In full, Evans ranks as the WR11 in RotoBaller's latest fantasy football rankings, making him a worthwhile fantasy starter for Week 2 against the Miami Dolphins.",
+        "title": "Mike Evans' Primary Receiver Role Continues to Grow",
+        "topic_id": "1407265498692907008",
+        "url": "https://www.rotoballer.com/player-news/mike-evans-primary-receiver-role-continues-to-grow/1945454"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1789865945000,
+      "source": "rotoballer",
+      "source_key": "221674",
+      "story_id": "nfl|2216|rotoballer|221674|1789865945000",
+      "title": "Mike Evans' Primary Receiver Role Continues to Grow",
+      "url": "https://www.rotoballer.com/player-news/mike-evans-primary-receiver-role-continues-to-grow/1945454"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots running back Rhamondre Stevenson might see a slight drop in volume during Week 2 against the Pittsburgh Steelers, but only because teammate TreVeyon Henderson (ankle) is returning to the backfield to make his season debut. With that being said, we don't know if Henderson is on a snap count, and the coaching staff has been quite secretive about its backfield decisions in previous years. Regardless of how it shakes out, we expect Stevenson to maintain decent volume after being one of the few Patriots to make a highly positive impression on offense in Week 1. He had 18 carries in the season opener, and while his 2.8 YPC was concerning, we like to see that he caught five passes for 44 yards. Stevenson has consistently been a willing receiver and blocker, even before Henderson was drafted to the team. As a result, he should continue to handle a similarly large target share while rotating with Henderson for ball-carrying responsibilities.",
+      "metadata": {
+        "description": "New England Patriots running back Rhamondre Stevenson might see a slight drop in volume during Week 2 against the Pittsburgh Steelers, but only because teammate TreVeyon Henderson (ankle) is returning to the backfield to make his season debut. With that being said, we don't know if Henderson is on a snap count, and the coaching staff has been quite secretive about its backfield decisions in previous years. Regardless of how it shakes out, we expect Stevenson to maintain decent volume after being one of the few Patriots to make a highly positive impression on offense in Week 1. He had 18 carries in the season opener, and while his 2.8 YPC was concerning, we like to see that he caught five passes for 44 yards. Stevenson has consistently been a willing receiver and blocker, even before Henderson was drafted to the team. As a result, he should continue to handle a similarly large target share while rotating with Henderson for ball-carrying responsibilities.",
+        "title": "Rhamondre Stevenson Still a Potential Fantasy Starter in PPR Leagues",
+        "topic_id": "1407264240326230016",
+        "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-still-a-potential-fantasy-starter-in-ppr-leagues/1945450"
+      },
+      "nfl_team": "NE",
+      "player_id": "7611",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "published": 1789865526000,
+      "source": "rotoballer",
+      "source_key": "221672",
+      "story_id": "nfl|7611|rotoballer|221672|1789865526000",
+      "title": "Rhamondre Stevenson Still a Potential Fantasy Starter in PPR Leagues",
+      "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-still-a-potential-fantasy-starter-in-ppr-leagues/1945450"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers wide receiver Christian Watson has shown massive development and growth in the last year, and he's now firmly entrenched as a high-end WR2 in fantasy football. He could soar even higher if he strings together more performances that prove he's really a WR1 (top-12 wide receiver) in fantasy football. After last week, it would be hard to argue against that concept. He had six catches for 147 yards and two touchdown in the season opener, playing 76% of the offensive snaps. Managers shouldn't overthink the decision here; Watson is RotoBaller's WR14 for Week 2 against the New York Jets, and he belongs in 100% of fantasy lineups.",
+      "metadata": {
+        "description": "Green Bay Packers wide receiver Christian Watson has shown massive development and growth in the last year, and he's now firmly entrenched as a high-end WR2 in fantasy football. He could soar even higher if he strings together more performances that prove he's really a WR1 (top-12 wide receiver) in fantasy football. After last week, it would be hard to argue against that concept. He had six catches for 147 yards and two touchdown in the season opener, playing 76% of the offensive snaps. Managers shouldn't overthink the decision here; Watson is RotoBaller's WR14 for Week 2 against the New York Jets, and he belongs in 100% of fantasy lineups.",
+        "title": "Christian Watson Approaching Must-Start Territory in Fantasy Football",
+        "topic_id": "1407264240322035712",
+        "url": "https://www.rotoballer.com/player-news/christian-watson-approaching-must-start-territory-in-fantasy-football/1945448"
+      },
+      "nfl_team": "GB",
+      "player_id": "8167",
+      "player_name": "Christian Watson",
+      "position": "WR",
+      "published": 1789865313000,
+      "source": "rotoballer",
+      "source_key": "221673",
+      "story_id": "nfl|8167|rotoballer|221673|1789865313000",
+      "title": "Christian Watson Approaching Must-Start Territory in Fantasy Football",
+      "url": "https://www.rotoballer.com/player-news/christian-watson-approaching-must-start-territory-in-fantasy-football/1945448"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars running back Bhayshul Tuten played less than 50% of the snaps in Week 1, but he handled 15 carries in the season-opening win and cemented himself as the team's primary ball-carrier. Tuten and Chris Rodriguez Jr. handled similar snap shares, but the latter had just six touches. At this point, there's no question that Tuten is the one and only Jaguars running back worth starting in fantasy football. The only concern is that the Jaguars throw the ball so much, so Tuten may not have a ton of touchdown opportunities on the ground. Nevertheless, he's a high-end RB3/flex based on rushing alone, and the touchdown upside could vault him to the low-end RB2 range. As it stands, he ranks as the RB25 in RotoBaller's latest fantasy football rankings for his Week 2 matchup against the Denver Broncos.",
+      "metadata": {
+        "description": "Jacksonville Jaguars running back Bhayshul Tuten played less than 50% of the snaps in Week 1, but he handled 15 carries in the season-opening win and cemented himself as the team's primary ball-carrier. Tuten and Chris Rodriguez Jr. handled similar snap shares, but the latter had just six touches. At this point, there's no question that Tuten is the one and only Jaguars running back worth starting in fantasy football. The only concern is that the Jaguars throw the ball so much, so Tuten may not have a ton of touchdown opportunities on the ground. Nevertheless, he's a high-end RB3/flex based on rushing alone, and the touchdown upside could vault him to the low-end RB2 range. As it stands, he ranks as the RB25 in RotoBaller's latest fantasy football rankings for his Week 2 matchup against the Denver Broncos.",
+        "title": "Bhayshul Tuten a Steady Fantasy Option with Large Workload",
+        "topic_id": "1407261723156553728",
+        "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-a-steady-fantasy-option-with-large-workload/1945444"
+      },
+      "nfl_team": "JAX",
+      "player_id": "12490",
+      "player_name": "Bhayshul Tuten",
+      "position": "RB",
+      "published": 1789865044000,
+      "source": "rotoballer",
+      "source_key": "221671",
+      "story_id": "nfl|12490|rotoballer|221671|1789865044000",
+      "title": "Bhayshul Tuten a Steady Fantasy Option with Large Workload",
+      "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-a-steady-fantasy-option-with-large-workload/1945444"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks running back Jadarian Price had a decent performance in his NFL debut last week, and we expect him to have an even bigger role when he returns to action on Sunday for the team's Week 2 contest against the Arizona Cardinals. In the season opener against New England, Price had a 48% snap share with 10 carries and 52 yards, plus two small receptions. Given his highly efficient performance, he seems likely to build on his involvement with more than 50% of the snaps and at least a dozen carries on Sunday against Arizona. We could also see the Seahawks prefer a run-heavy approach with Drew Lock quarterbacking the offense in place of Sam Darnold (glute). He ranks as the RB24 in RotoBaller's latest Week 2 fantasy football, making him a worthwhile starter in most fantasy leagues with 8+ teams.",
+      "metadata": {
+        "description": "Seattle Seahawks running back Jadarian Price had a decent performance in his NFL debut last week, and we expect him to have an even bigger role when he returns to action on Sunday for the team's Week 2 contest against the Arizona Cardinals. In the season opener against New England, Price had a 48% snap share with 10 carries and 52 yards, plus two small receptions. Given his highly efficient performance, he seems likely to build on his involvement with more than 50% of the snaps and at least a dozen carries on Sunday against Arizona. We could also see the Seahawks prefer a run-heavy approach with Drew Lock quarterbacking the offense in place of Sam Darnold (glute). He ranks as the RB24 in RotoBaller's latest Week 2 fantasy football, making him a worthwhile starter in most fantasy leagues with 8+ teams.",
+        "title": "Jadarian Price on Track for Another Step Forward in Week 2",
+        "topic_id": "1407260465087733760",
+        "url": "https://www.rotoballer.com/player-news/jadarian-price-on-track-for-another-step-forward-in-week-2/1945441"
+      },
+      "nfl_team": "SEA",
+      "player_id": "13286",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "published": 1789864810000,
+      "source": "rotoballer",
+      "source_key": "221669",
+      "story_id": "nfl|13286|rotoballer|221669|1789864810000",
+      "title": "Jadarian Price on Track for Another Step Forward in Week 2",
+      "url": "https://www.rotoballer.com/player-news/jadarian-price-on-track-for-another-step-forward-in-week-2/1945441"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers wide receiver Matthew Golden will look to build on his existing momentum during Sunday's Week 2 contest against the New York Jets. After a relatively disappointing rookie season, Golden took a huge step forward in Week 1 of the 2026 season with six catches for 95 yards. He's working on solidifying himself as the No. 2 receiver behind Christian Watson and ahead of Jayden Reed, and another big game on Sunday would help that effort. The Jets posed a tough matchup for the Titans last week, but we wouldn't be surprised to see their secondary get exposed by a combination of Watson and Golden. The 23-year-old Texas product remains a high-end WR3/flex while continuing to build his track record in Year 2. Specifically, he ranks as the WR31 in RotoBaller's latest fantasy football rankings for Week 2. He can be started in most leagues with 10+ teams.",
+      "metadata": {
+        "description": "Green Bay Packers wide receiver Matthew Golden will look to build on his existing momentum during Sunday's Week 2 contest against the New York Jets. After a relatively disappointing rookie season, Golden took a huge step forward in Week 1 of the 2026 season with six catches for 95 yards. He's working on solidifying himself as the No. 2 receiver behind Christian Watson and ahead of Jayden Reed, and another big game on Sunday would help that effort. The Jets posed a tough matchup for the Titans last week, but we wouldn't be surprised to see their secondary get exposed by a combination of Watson and Golden. The 23-year-old Texas product remains a high-end WR3/flex while continuing to build his track record in Year 2. Specifically, he ranks as the WR31 in RotoBaller's latest fantasy football rankings for Week 2. He can be started in most leagues with 10+ teams.",
+        "title": "Matthew Golden Taking First Steps Toward Year 2 Breakout",
+        "topic_id": "1407260465100316672",
+        "url": "https://www.rotoballer.com/player-news/matthew-golden-taking-first-steps-toward-year-2-breakout/1945439"
+      },
+      "nfl_team": "GB",
+      "player_id": "12501",
+      "player_name": "Matthew Golden",
+      "position": "WR",
+      "published": 1789864626000,
+      "source": "rotoballer",
+      "source_key": "221670",
+      "story_id": "nfl|12501|rotoballer|221670|1789864626000",
+      "title": "Matthew Golden Taking First Steps Toward Year 2 Breakout",
+      "url": "https://www.rotoballer.com/player-news/matthew-golden-taking-first-steps-toward-year-2-breakout/1945439"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders wide receiver Stefon Diggs had an encouraging game in his team's Week 1 loss to the Philadelphia Eagles, recording four catches for 55 yards and a touchdown on nine targets. In his first game with the Commanders, Diggs out-targeted established Washington WR1 Terry McLaurin nine to four. In Week 2, the Commanders have a favorable matchup on paper against the Dallas Cowboys. The Cowboys struggled to defend the pass in Week 1, allowing 7.9 yards per pass attempt and three passing touchdowns to the New York Giants. The Commanders will also be without tight end Chig Okonkwo (hamstring), which could increase Diggs' importance to the offense as a security blanket for quarterback Jayden Daniels in the middle of the field. Washington could look to get McLaurin more involved against Dallas, which may impact Diggs. Still, Diggs appears well-positioned for a steady role and profiles as a high-end WR3/flex option in Week 2.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Stefon Diggs had an encouraging game in his team's Week 1 loss to the Philadelphia Eagles, recording four catches for 55 yards and a touchdown on nine targets. In his first game with the Commanders, Diggs out-targeted established Washington WR1 Terry McLaurin nine to four. In Week 2, the Commanders have a favorable matchup on paper against the Dallas Cowboys. The Cowboys struggled to defend the pass in Week 1, allowing 7.9 yards per pass attempt and three passing touchdowns to the New York Giants. The Commanders will also be without tight end Chig Okonkwo (hamstring), which could increase Diggs' importance to the offense as a security blanket for quarterback Jayden Daniels in the middle of the field. Washington could look to get McLaurin more involved against Dallas, which may impact Diggs. Still, Diggs appears well-positioned for a steady role and profiles as a high-end WR3/flex option in Week 2.",
+        "title": "Stefon Diggs Poised for Second Straight Productive Game in Week 2?",
+        "topic_id": "1407235297137147904",
+        "url": "https://www.rotoballer.com/player-news/stefon-diggs-poised-for-second-straight-productive-game-in-week-2/1945422"
+      },
+      "nfl_team": "WAS",
+      "player_id": "2449",
+      "player_name": "Stefon Diggs",
+      "position": "WR",
+      "published": 1789858806000,
+      "source": "rotoballer",
+      "source_key": "221668",
+      "story_id": "nfl|2449|rotoballer|221668|1789858806000",
+      "title": "Stefon Diggs Poised for Second Straight Productive Game in Week 2?",
+      "url": "https://www.rotoballer.com/player-news/stefon-diggs-poised-for-second-straight-productive-game-in-week-2/1945422"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers running back Chuba Hubbard had a highly productive game in his team's 59-37 Week 1 loss to the Chicago Bears, recording 10 carries for 49 yards and a touchdown and three catches for 38 yards and a touchdown on three targets. Hubbard likely would have seen more work on the ground, but the Panthers were chasing points for most of the game before it devolved into a blowout in the fourth quarter. Perhaps most encouragingly for fantasy managers, Hubbard played 48 snaps against the Bears, while Panthers RB2 Jonathon Brooks played just 13. In Week 2, Carolina will take on an Atlanta Falcons defense that allowed just 58 rushing yards to the Pittsburgh Steelers in its season opener. However, Atlanta will be starting its third-string quarterback, Cooper Rush. If the Panthers can get out to an early lead, Hubbard could see plenty of work in a favorable game script. All in all, Hubbard profiles as a solid RB2 option for fantasy managers in Week 2.",
+      "metadata": {
+        "description": "Carolina Panthers running back Chuba Hubbard had a highly productive game in his team's 59-37 Week 1 loss to the Chicago Bears, recording 10 carries for 49 yards and a touchdown and three catches for 38 yards and a touchdown on three targets. Hubbard likely would have seen more work on the ground, but the Panthers were chasing points for most of the game before it devolved into a blowout in the fourth quarter. Perhaps most encouragingly for fantasy managers, Hubbard played 48 snaps against the Bears, while Panthers RB2 Jonathon Brooks played just 13. In Week 2, Carolina will take on an Atlanta Falcons defense that allowed just 58 rushing yards to the Pittsburgh Steelers in its season opener. However, Atlanta will be starting its third-string quarterback, Cooper Rush. If the Panthers can get out to an early lead, Hubbard could see plenty of work in a favorable game script. All in all, Hubbard profiles as a solid RB2 option for fantasy managers in Week 2.",
+        "title": "Chuba Hubbard Profiles as a Steady RB2 Option in Week 2",
+        "topic_id": "1407232780508626944",
+        "url": "https://www.rotoballer.com/player-news/chuba-hubbard-profiles-as-a-steady-rb2-option-in-week-2/1945418"
+      },
+      "nfl_team": "CAR",
+      "player_id": "7594",
+      "player_name": "Chuba Hubbard",
+      "position": "RB",
+      "published": 1789858205000,
+      "source": "rotoballer",
+      "source_key": "221666",
+      "story_id": "nfl|7594|rotoballer|221666|1789858205000",
+      "title": "Chuba Hubbard Profiles as a Steady RB2 Option in Week 2",
+      "url": "https://www.rotoballer.com/player-news/chuba-hubbard-profiles-as-a-steady-rb2-option-in-week-2/1945418"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants tight end Isaiah Likely delivered a sensational Week 1 performance against the Dallas Cowboys. In his first game with the Giants, Likely hauled in all eight of his targets for 78 yards and two touchdowns, finishing the week as the TE2 in half-PPR formats. The former Raven was a major factor on third downs, hauling in five catches that resulted in first-down conversions. However, he played less than half the snaps in Week 1 (49%) and ran just 68% of the routes. While Jaxson Dart had one of the best games of his career in Week 1, any regression from the second-year quarterback would likely impact Likely, given his limited snaps and route participation. He faces a Los Angeles Rams defense that allowed the eighth-fewest yards to tight ends in 2025 and held 49ers tight end George Kittle in check in Week 1. While his great game was a positive sign, fantasy managers should still value him as a low-to-mid TE1 in Week 2.",
+      "metadata": {
+        "description": "New York Giants tight end Isaiah Likely delivered a sensational Week 1 performance against the Dallas Cowboys. In his first game with the Giants, Likely hauled in all eight of his targets for 78 yards and two touchdowns, finishing the week as the TE2 in half-PPR formats. The former Raven was a major factor on third downs, hauling in five catches that resulted in first-down conversions. However, he played less than half the snaps in Week 1 (49%) and ran just 68% of the routes. While Jaxson Dart had one of the best games of his career in Week 1, any regression from the second-year quarterback would likely impact Likely, given his limited snaps and route participation. He faces a Los Angeles Rams defense that allowed the eighth-fewest yards to tight ends in 2025 and held 49ers tight end George Kittle in check in Week 1. While his great game was a positive sign, fantasy managers should still value him as a low-to-mid TE1 in Week 2.",
+        "title": "Isaiah Likely Aims To Follow Up On Great Debut in Week 2",
+        "topic_id": "1407232780504432640",
+        "url": "https://www.rotoballer.com/player-news/isaiah-likely-aims-to-follow-up-on-great-debut-in-week-2/1945415"
+      },
+      "nfl_team": "NYG",
+      "player_id": "8131",
+      "player_name": "Isaiah Likely",
+      "position": "TE",
+      "published": 1789858026000,
+      "source": "rotoballer",
+      "source_key": "221667",
+      "story_id": "nfl|8131|rotoballer|221667|1789858026000",
+      "title": "Isaiah Likely Aims To Follow Up On Great Debut in Week 2",
+      "url": "https://www.rotoballer.com/player-news/isaiah-likely-aims-to-follow-up-on-great-debut-in-week-2/1945415"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants wide receiver Malik Nabers was active despite questions about his status throughout the offseason. Despite limited snaps, Nabers was productive, hauling in six of nine targets for 69 yards in the 28-20 victory over the Dallas Cowboys. The third-year receiver played 36 snaps (third among Giants' receivers) and had a target on every 2.7 routes, the highest rate in the NFL last season. He faces a Los Angeles Rams defense that allowed the 12th most fantasy points to wide receivers last season and struggled against the San Francisco 49ers in Week 1. Unfortunately, his snap count will likely remain low as he continues to recover from the torn ACL he suffered during the 2025 season. Fantasy managers should keep expectations in check for the star receiver until he returns to his full-time role.",
+      "metadata": {
+        "description": "New York Giants wide receiver Malik Nabers was active despite questions about his status throughout the offseason. Despite limited snaps, Nabers was productive, hauling in six of nine targets for 69 yards in the 28-20 victory over the Dallas Cowboys. The third-year receiver played 36 snaps (third among Giants' receivers) and had a target on every 2.7 routes, the highest rate in the NFL last season. He faces a Los Angeles Rams defense that allowed the 12th most fantasy points to wide receivers last season and struggled against the San Francisco 49ers in Week 1. Unfortunately, his snap count will likely remain low as he continues to recover from the torn ACL he suffered during the 2025 season. Fantasy managers should keep expectations in check for the star receiver until he returns to his full-time role.",
+        "title": "Malik Nabers Could See Another Limited Workload Against Rams",
+        "topic_id": "1407231522393587712",
+        "url": "https://www.rotoballer.com/player-news/malik-nabers-could-see-another-limited-workload-against-rams/1945413"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11632",
+      "player_name": "Malik Nabers",
+      "position": "WR",
+      "published": 1789857922000,
+      "source": "rotoballer",
+      "source_key": "221663",
+      "story_id": "nfl|11632|rotoballer|221663|1789857922000",
+      "title": "Malik Nabers Could See Another Limited Workload Against Rams",
+      "url": "https://www.rotoballer.com/player-news/malik-nabers-could-see-another-limited-workload-against-rams/1945413"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants running back Cam Skattebo looked strong in his return from his serious ankle injury suffered in 2025 and hopes to build on that against the Los Angeles Rams. In Week 1, Skattebo had 18 carries for 81 yards and a touchdown in the 28-20 win over the Dallas Cowboys. The second-year back played 63% of snaps, handled all the short-yardage snaps, and had 12 more carries than the next-closest back, Devin Singletary. Unfortunately, he lacked the receiving role he had in 2025, when he caught 24 passes in eight games. Skattebo had no targets in Week 1 and played only two snaps on obvious passing downs, while Singletary played 11 snaps. He faces a Rams defense that allowed the fifth-most rushing yards (174) and the second-highest yards per carry (5.8) in the NFL in Week 1. Skattebo remains a solid option in Week 2, but his receiving role will be the key situation to monitor on Monday night.",
+      "metadata": {
+        "description": "New York Giants running back Cam Skattebo looked strong in his return from his serious ankle injury suffered in 2025 and hopes to build on that against the Los Angeles Rams. In Week 1, Skattebo had 18 carries for 81 yards and a touchdown in the 28-20 win over the Dallas Cowboys. The second-year back played 63% of snaps, handled all the short-yardage snaps, and had 12 more carries than the next-closest back, Devin Singletary. Unfortunately, he lacked the receiving role he had in 2025, when he caught 24 passes in eight games. Skattebo had no targets in Week 1 and played only two snaps on obvious passing downs, while Singletary played 11 snaps. He faces a Rams defense that allowed the fifth-most rushing yards (174) and the second-highest yards per carry (5.8) in the NFL in Week 1. Skattebo remains a solid option in Week 2, but his receiving role will be the key situation to monitor on Monday night.",
+        "title": "Cam Skattebo Aims To Build On Strong Debut Against Rams",
+        "topic_id": "1407231522385199104",
+        "url": "https://www.rotoballer.com/player-news/cam-skattebo-aims-to-build-on-strong-debut-against-rams/1945411"
+      },
+      "nfl_team": "NYG",
+      "player_id": "12481",
+      "player_name": "Cam Skattebo",
+      "position": "RB",
+      "published": 1789857881000,
+      "source": "rotoballer",
+      "source_key": "221664",
+      "story_id": "nfl|12481|rotoballer|221664|1789857881000",
+      "title": "Cam Skattebo Aims To Build On Strong Debut Against Rams",
+      "url": "https://www.rotoballer.com/player-news/cam-skattebo-aims-to-build-on-strong-debut-against-rams/1945411"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders wide receiver Terry McLaurin had a quiet game in his team's Week 1 loss to the Philadelphia Eagles, recording two catches for 14 yards on four targets. McLaurin's role in the Commanders' offense was a bit less favorable than fantasy managers would have hoped, as he earned less than half the targets of Washington wideout Stefon Diggs (nine). However, Washington has a significantly easier matchup on paper in Week 2 against the Dallas Cowboys. Dallas' defense was carved up in Week 1, allowing 7.9 yards per pass attempt and three passing touchdowns to the New York Giants. If the Commanders' offensive line continues to struggle, quarterback Jayden Daniels may be unable to push the ball downfield to McLaurin for the second straight week. Still, McLaurin should play a much larger role in his team's offense against Dallas and profiles as a solid WR2 option for fantasy managers in Week 2.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Terry McLaurin had a quiet game in his team's Week 1 loss to the Philadelphia Eagles, recording two catches for 14 yards on four targets. McLaurin's role in the Commanders' offense was a bit less favorable than fantasy managers would have hoped, as he earned less than half the targets of Washington wideout Stefon Diggs (nine). However, Washington has a significantly easier matchup on paper in Week 2 against the Dallas Cowboys. Dallas' defense was carved up in Week 1, allowing 7.9 yards per pass attempt and three passing touchdowns to the New York Giants. If the Commanders' offensive line continues to struggle, quarterback Jayden Daniels may be unable to push the ball downfield to McLaurin for the second straight week. Still, McLaurin should play a much larger role in his team's offense against Dallas and profiles as a solid WR2 option for fantasy managers in Week 2.",
+        "title": "Terry McLaurin a Worthy Start for Fantasy Managers in Week 2?",
+        "topic_id": "1407231522435530752",
+        "url": "https://www.rotoballer.com/player-news/terry-mclaurin-a-worthy-start-for-fantasy-managers-in-week-2/1945409"
+      },
+      "nfl_team": "WAS",
+      "player_id": "5927",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
+      "published": 1789857877000,
+      "source": "rotoballer",
+      "source_key": "221665",
+      "story_id": "nfl|5927|rotoballer|221665|1789857877000",
+      "title": "Terry McLaurin a Worthy Start for Fantasy Managers in Week 2?",
+      "url": "https://www.rotoballer.com/player-news/terry-mclaurin-a-worthy-start-for-fantasy-managers-in-week-2/1945409"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants quarterback Jaxson Dart hopes to build on his stellar Week 1 performance against the Los Angeles Rams. Dart completed 23 of 29 passes for 230 yards and three touchdowns, and added 54 yards on 11 carries in the 28-20 victory over the Dallas Cowboys. Through 13 career starts, Dart has averaged 20.7 fantasy points per game and looked even more polished as a passer in Week 1. Under new offensive coordinator Matt Nagy and with a strong receiving core featuring Malik Nabers and Isaiah Likely, Dart should remain a prolific fantasy option. He faces a Rams defense that allowed the 14th-fewest fantasy points to quarterbacks in 2025 but struggled to contain Brock Purdy and the 49ers in Melbourne, Australia. Despite the Rams' talented defense, Dart's supporting cast and rushing floor make him a must-start QB1 in Week 2 as he looks to keep his hot streak going.",
+      "metadata": {
+        "description": "New York Giants quarterback Jaxson Dart hopes to build on his stellar Week 1 performance against the Los Angeles Rams. Dart completed 23 of 29 passes for 230 yards and three touchdowns, and added 54 yards on 11 carries in the 28-20 victory over the Dallas Cowboys. Through 13 career starts, Dart has averaged 20.7 fantasy points per game and looked even more polished as a passer in Week 1. Under new offensive coordinator Matt Nagy and with a strong receiving core featuring Malik Nabers and Isaiah Likely, Dart should remain a prolific fantasy option. He faces a Rams defense that allowed the 14th-fewest fantasy points to quarterbacks in 2025 but struggled to contain Brock Purdy and the 49ers in Melbourne, Australia. Despite the Rams' talented defense, Dart's supporting cast and rushing floor make him a must-start QB1 in Week 2 as he looks to keep his hot streak going.",
+        "title": "Jaxson Dart Looks to Keep Rolling in Week 2",
+        "topic_id": "1407230263204859904",
+        "url": "https://www.rotoballer.com/player-news/jaxson-dart-looks-to-keep-rolling-in-week-2/1945406"
+      },
+      "nfl_team": "NYG",
+      "player_id": "12508",
+      "player_name": "Jaxson Dart",
+      "position": "QB",
+      "published": 1789857644000,
+      "source": "rotoballer",
+      "source_key": "221661",
+      "story_id": "nfl|12508|rotoballer|221661|1789857644000",
+      "title": "Jaxson Dart Looks to Keep Rolling in Week 2",
+      "url": "https://www.rotoballer.com/player-news/jaxson-dart-looks-to-keep-rolling-in-week-2/1945406"
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings running back Aaron Jones Sr. entered 2026 as part of a split backfield with fellow veteran Jordan Mason (thumb). However, Mason was placed on Injured Reserve following Minnesota's Week 1 win over the Green Bay Packers with a thumb fracture. After recording 12 carries for 40 yards and a touchdown against Green Bay, Jones Sr. now looks to be in a position to play a much larger role in the Vikings offense. In Week 2, Jones Sr. and the Vikings will travel to Chicago to take on the Bears. Chicago's run defense struggled in Week 1, allowing 5.7 yards per carry and two touchdowns to the Carolina Panthers. Minnesota will also be starting backup quarterback Carson Wentz, so the Vikings could look to control the game by keeping the ball on the ground. Given the likely increase in workload, Jones Sr. profiles as a top-24 fantasy running back in Week 2.",
+      "metadata": {
+        "description": "Minnesota Vikings running back Aaron Jones Sr. entered 2026 as part of a split backfield with fellow veteran Jordan Mason (thumb). However, Mason was placed on Injured Reserve following Minnesota's Week 1 win over the Green Bay Packers with a thumb fracture. After recording 12 carries for 40 yards and a touchdown against Green Bay, Jones Sr. now looks to be in a position to play a much larger role in the Vikings offense. In Week 2, Jones Sr. and the Vikings will travel to Chicago to take on the Bears. Chicago's run defense struggled in Week 1, allowing 5.7 yards per carry and two touchdowns to the Carolina Panthers. Minnesota will also be starting backup quarterback Carson Wentz, so the Vikings could look to control the game by keeping the ball on the ground. Given the likely increase in workload, Jones Sr. profiles as a top-24 fantasy running back in Week 2.",
+        "title": "Aaron Jones Sr. Profiles as a Top-24 Running Back in Week 2",
+        "topic_id": "1407227746588905472",
+        "url": "https://www.rotoballer.com/player-news/aaron-jones-sr-profiles-as-a-top-24-running-back-in-week-2/1945398"
+      },
+      "nfl_team": "MIN",
+      "player_id": "4199",
+      "player_name": "Aaron Jones",
+      "position": "RB",
+      "published": 1789856945000,
+      "source": "rotoballer",
+      "source_key": "221660",
+      "story_id": "nfl|4199|rotoballer|221660|1789856945000",
+      "title": "Aaron Jones Sr. Profiles as a Top-24 Running Back in Week 2",
+      "url": "https://www.rotoballer.com/player-news/aaron-jones-sr-profiles-as-a-top-24-running-back-in-week-2/1945398"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Jaylen Waddle had a disastrous game in his team's season-opening loss to the Kansas City Chiefs, recording just one catch for two yards on three targets. The 27-year-old's usage in his first game with the Broncos was less than ideal, as he finished fifth on his team in targets. In Week 2, Waddle and the Broncos offense will look to bounce back against the Jacksonville Jaguars. The Jaguars defense dominated the Cleveland Browns in Week 1, allowing just 205 passing yards and recording five sacks. On paper, the Broncos have a much more potent passing attack than the Browns and should provide Waddle with opportunities to put up fantasy points. Still, fantasy managers may want to temper expectations for Waddle until he establishes a higher-usage role in the Denver offense. All in all, Waddle profiles as a WR3/flex option rather than a must-start wide receiver in Week 2.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Jaylen Waddle had a disastrous game in his team's season-opening loss to the Kansas City Chiefs, recording just one catch for two yards on three targets. The 27-year-old's usage in his first game with the Broncos was less than ideal, as he finished fifth on his team in targets. In Week 2, Waddle and the Broncos offense will look to bounce back against the Jacksonville Jaguars. The Jaguars defense dominated the Cleveland Browns in Week 1, allowing just 205 passing yards and recording five sacks. On paper, the Broncos have a much more potent passing attack than the Browns and should provide Waddle with opportunities to put up fantasy points. Still, fantasy managers may want to temper expectations for Waddle until he establishes a higher-usage role in the Denver offense. All in all, Waddle profiles as a WR3/flex option rather than a must-start wide receiver in Week 2.",
+        "title": "Jaylen Waddle Outside of Must-Start Territory in Week 2?",
+        "topic_id": "1407226488641638400",
+        "url": "https://www.rotoballer.com/player-news/jaylen-waddle-outside-of-must-start-territory-in-week-2/1945392"
+      },
+      "nfl_team": "DEN",
+      "player_id": "7526",
+      "player_name": "Jaylen Waddle",
+      "position": "WR",
+      "published": 1789856405000,
+      "source": "rotoballer",
+      "source_key": "221659",
+      "story_id": "nfl|7526|rotoballer|221659|1789856405000",
+      "title": "Jaylen Waddle Outside of Must-Start Territory in Week 2?",
+      "url": "https://www.rotoballer.com/player-news/jaylen-waddle-outside-of-must-start-territory-in-week-2/1945392"
+    },
+    {
+      "analysis": null,
+      "description": "Given that his team won the game 59-37, Chicago Bears wide receiver Luther Burden III's stat line in his team's Week 1 victory over the Carolina Panthers was a bit underwhelming for fantasy managers. The 22-year-old finished the game with five catches for 63 yards on five targets. Still, the explosive nature of the Bears offense in Week 1 is a positive sign for Burden III's season-long outlook. In Week 2, Chicago will take on a more difficult matchup against the Minnesota Vikings. The Vikings recorded four sacks and an interception in Week 1, but they also allowed 387 passing yards and seven receptions of 20 or more yards to the Green Bay Packers. If the Bears can give quarterback Caleb Williams enough time, Burden III could be well-positioned to make some huge plays over the top of the Minnesota defense. All in all, Burden III profiles as a high-end WR2 option in Week 2.",
+      "metadata": {
+        "description": "Given that his team won the game 59-37, Chicago Bears wide receiver Luther Burden III's stat line in his team's Week 1 victory over the Carolina Panthers was a bit underwhelming for fantasy managers. The 22-year-old finished the game with five catches for 63 yards on five targets. Still, the explosive nature of the Bears offense in Week 1 is a positive sign for Burden III's season-long outlook. In Week 2, Chicago will take on a more difficult matchup against the Minnesota Vikings. The Vikings recorded four sacks and an interception in Week 1, but they also allowed 387 passing yards and seven receptions of 20 or more yards to the Green Bay Packers. If the Bears can give quarterback Caleb Williams enough time, Burden III could be well-positioned to make some huge plays over the top of the Minnesota defense. All in all, Burden III profiles as a high-end WR2 option in Week 2.",
+        "title": "Luther Burden III a High-End WR2 Option in Week 2",
+        "topic_id": "1407223971681693696",
+        "url": "https://www.rotoballer.com/player-news/luther-burden-iii-a-high-end-wr2-option-in-week-2/1945388"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12519",
+      "player_name": "Luther Burden",
+      "position": "WR",
+      "published": 1789855873000,
+      "source": "rotoballer",
+      "source_key": "221658",
+      "story_id": "nfl|12519|rotoballer|221658|1789855873000",
+      "title": "Luther Burden III a High-End WR2 Option in Week 2",
+      "url": "https://www.rotoballer.com/player-news/luther-burden-iii-a-high-end-wr2-option-in-week-2/1945388"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins wide receiver Caleb Douglas was solid during his NFL debut last weekend. The rookie wideout hauled in five of his seven targets for 94 yards in the loss to the Las Vegas Raiders. The Dolphins expect big things from Douglas after they selected him in the third-round this year. He'll draw a tough matchup against the San Francisco 49ers defense in Week 2. The Dolphins don't have many established receiving options, so Douglas should continue to see plenty of usage despite being a rookie. Fantasy managers in deep leagues should feel comfortable plugging in Douglas as a flex play for Week 2.",
+      "metadata": {
+        "description": "Miami Dolphins wide receiver Caleb Douglas was solid during his NFL debut last weekend. The rookie wideout hauled in five of his seven targets for 94 yards in the loss to the Las Vegas Raiders. The Dolphins expect big things from Douglas after they selected him in the third-round this year. He'll draw a tough matchup against the San Francisco 49ers defense in Week 2. The Dolphins don't have many established receiving options, so Douglas should continue to see plenty of usage despite being a rookie. Fantasy managers in deep leagues should feel comfortable plugging in Douglas as a flex play for Week 2.",
+        "title": "Caleb Douglas Offers Deep-League Flex Appeal",
+        "topic_id": "1407218940299481088",
+        "url": "https://www.rotoballer.com/player-news/caleb-douglas-offers-deep-league-flex-appeal/1945378"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13296",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "published": 1789854726000,
+      "source": "rotoballer",
+      "source_key": "221656",
+      "story_id": "nfl|13296|rotoballer|221656|1789854726000",
+      "title": "Caleb Douglas Offers Deep-League Flex Appeal",
+      "url": "https://www.rotoballer.com/player-news/caleb-douglas-offers-deep-league-flex-appeal/1945378"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams tight end Terrance Ferguson is pushing for a bigger role on offense, and in addition to being a must-roster player in all dynasty leagues, he's also an appealing stash in deeper redraft formats. With that being said, he's not yet a viable streamer for Week 2 against the New York Giants. Ferguson had a quiet performance in Week 1 against the San Francisco 49ers in Australia, finishing with a 52% snap share, one target, and zero catches. He was out-snapped by Colby Parkinson and out-produced by Tyler Higbee in the loss. This crowded depth chart is the exact reason why Ferguson has yet to consistently produce in redraft leagues. He represents the future of the tight end position in Los Angeles, but as long as Parkinson and Higbee are healthy, he'll have trouble getting onto the weekly fantasy radar.",
+      "metadata": {
+        "description": "Los Angeles Rams tight end Terrance Ferguson is pushing for a bigger role on offense, and in addition to being a must-roster player in all dynasty leagues, he's also an appealing stash in deeper redraft formats. With that being said, he's not yet a viable streamer for Week 2 against the New York Giants. Ferguson had a quiet performance in Week 1 against the San Francisco 49ers in Australia, finishing with a 52% snap share, one target, and zero catches. He was out-snapped by Colby Parkinson and out-produced by Tyler Higbee in the loss. This crowded depth chart is the exact reason why Ferguson has yet to consistently produce in redraft leagues. He represents the future of the tight end position in Los Angeles, but as long as Parkinson and Higbee are healthy, he'll have trouble getting onto the weekly fantasy radar.",
+        "title": "Terrance Ferguson Not Yet on the Weekly Fantasy Radar",
+        "topic_id": "1407217679546187776",
+        "url": "https://www.rotoballer.com/player-news/terrance-ferguson-not-yet-on-the-weekly-fantasy-radar/1945376"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12487",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "published": 1789854606000,
+      "source": "rotoballer",
+      "source_key": "221655",
+      "story_id": "nfl|12487|rotoballer|221655|1789854606000",
+      "title": "Terrance Ferguson Not Yet on the Weekly Fantasy Radar",
+      "url": "https://www.rotoballer.com/player-news/terrance-ferguson-not-yet-on-the-weekly-fantasy-radar/1945376"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers running back Kaelon Black (groin) is considered questionable ahead of the Week 2 matchup against the Miami Dolphins. Black was impressive during his NFL debut when he rushed for 65 yards on 14 attempts in the win over the Los Angeles Rams. It was surprising to see the rookie back see that many carries in the backfield, which led him to be a popular waiver wire pickup. Now, Black is uncertain to play on Sunday due to groin tightness. Even if he does play, Black will be a risky starting option given the fact that he probably won't be 100 percent healthy heading into this game. The 49ers might lean on Jordan James or wide receiver Deebo Samuel Sr. to relieve Christian McCaffrey in the backfield. Fantasy managers should consider Black a low-end flex option for this weekend.",
+      "metadata": {
+        "description": "San Francisco 49ers running back Kaelon Black (groin) is considered questionable ahead of the Week 2 matchup against the Miami Dolphins. Black was impressive during his NFL debut when he rushed for 65 yards on 14 attempts in the win over the Los Angeles Rams. It was surprising to see the rookie back see that many carries in the backfield, which led him to be a popular waiver wire pickup. Now, Black is uncertain to play on Sunday due to groin tightness. Even if he does play, Black will be a risky starting option given the fact that he probably won't be 100 percent healthy heading into this game. The 49ers might lean on Jordan James or wide receiver Deebo Samuel Sr. to relieve Christian McCaffrey in the backfield. Fantasy managers should consider Black a low-end flex option for this weekend.",
+        "title": "Kaelon Black is a Shaky Flex Play",
+        "topic_id": "1407216421372469248",
+        "url": "https://www.rotoballer.com/player-news/kaelon-black-is-a-shaky-flex-play/1945373"
+      },
+      "nfl_team": "SF",
+      "player_id": "13414",
+      "player_name": "Kaelon Black",
+      "position": "RB",
+      "published": 1789854366000,
+      "source": "rotoballer",
+      "source_key": "221653",
+      "story_id": "nfl|13414|rotoballer|221653|1789854366000",
+      "title": "Kaelon Black is a Shaky Flex Play",
+      "url": "https://www.rotoballer.com/player-news/kaelon-black-is-a-shaky-flex-play/1945373"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. was a significant part of the offense during the season opener. Samuel hauled in six of his seven targets for 48 yards and a touchdown in the win over the Los Angeles Rams. The 30-year-old could be asked to play a larger role in the passing attack now with De'Zhaun Stribling (ankle) landing on the Injured Reserve. Samuel will have less competition for targets as he heads into a favorable matchup against the Miami Dolphins in Week 2. Running back Kaelon Black (groin) is questionable to play on Sunday, which could mean that Samuel could get some carries as well. Fantasy managers should feel safe plugging in Samuel as a WR3 for Week 2.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. was a significant part of the offense during the season opener. Samuel hauled in six of his seven targets for 48 yards and a touchdown in the win over the Los Angeles Rams. The 30-year-old could be asked to play a larger role in the passing attack now with De'Zhaun Stribling (ankle) landing on the Injured Reserve. Samuel will have less competition for targets as he heads into a favorable matchup against the Miami Dolphins in Week 2. Running back Kaelon Black (groin) is questionable to play on Sunday, which could mean that Samuel could get some carries as well. Fantasy managers should feel safe plugging in Samuel as a WR3 for Week 2.",
+        "title": "Deebo Samuel Sr. Carries WR3 Value into Week 2",
+        "topic_id": "1407215163517489152",
+        "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-carries-wr3-value-into-week-2/1945369"
+      },
+      "nfl_team": "SF",
+      "player_id": "5872",
+      "player_name": "Deebo Samuel",
+      "position": "WR",
+      "published": 1789853898000,
+      "source": "rotoballer",
+      "source_key": "221651",
+      "story_id": "nfl|5872|rotoballer|221651|1789853898000",
+      "title": "Deebo Samuel Sr. Carries WR3 Value into Week 2",
+      "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-carries-wr3-value-into-week-2/1945369"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams running back Blake Corum continues to see a steady increase in volume, but his Week 2 matchup against the New York Giants isn't very attractive for fantasy football purposes. Corum had 54 yards on 10 carries in Week 1, making the most of his opportunities while handling a modest 23% snap share. He doesn't have any sort of role in the receiving game, but he's seeing nearly as much work as Kyren Williams in terms of rushing attempts. We should expect to see a similar split going forward. Unfortunately, that doesn't make Corum a lock for RB3/flex value in Week 2. Having high volume in a good offense is certainly ideal, but the Giants have a solid run defense that could make it difficult for Corum to match his efficiency totals from the season opener. After all, New York held Javonte Williams to just 3.4 yards per carry. As a result, Corum's fantasy value is probably dependent on whether he can score a touchdown, which is a riskier bet to make given Kyren Williams' nose for the end zone. There's certainly mid-range RB3/flex upside here, but managers should probably look to start a different, higher-ceiling back with more receiving usage this week. He ranks as the RB35 in RotoBaller's latest fantasy football rankings for Week 2.",
+      "metadata": {
+        "description": "Los Angeles Rams running back Blake Corum continues to see a steady increase in volume, but his Week 2 matchup against the New York Giants isn't very attractive for fantasy football purposes. Corum had 54 yards on 10 carries in Week 1, making the most of his opportunities while handling a modest 23% snap share. He doesn't have any sort of role in the receiving game, but he's seeing nearly as much work as Kyren Williams in terms of rushing attempts. We should expect to see a similar split going forward. Unfortunately, that doesn't make Corum a lock for RB3/flex value in Week 2. Having high volume in a good offense is certainly ideal, but the Giants have a solid run defense that could make it difficult for Corum to match his efficiency totals from the season opener. After all, New York held Javonte Williams to just 3.4 yards per carry. As a result, Corum's fantasy value is probably dependent on whether he can score a touchdown, which is a riskier bet to make given Kyren Williams' nose for the end zone. There's certainly mid-range RB3/flex upside here, but managers should probably look to start a different, higher-ceiling back with more receiving usage this week. He ranks as the RB35 in RotoBaller's latest fantasy football rankings for Week 2.",
+        "title": "Blake Corum Gets a Tougher Matchup Amid Volume Increase",
+        "topic_id": "1407215163513294848",
+        "url": "https://www.rotoballer.com/player-news/blake-corum-gets-a-tougher-matchup-amid-volume-increase/1945367"
+      },
+      "nfl_team": "LAR",
+      "player_id": "11586",
+      "player_name": "Blake Corum",
+      "position": "RB",
+      "published": 1789853827000,
+      "source": "rotoballer",
+      "source_key": "221652",
+      "story_id": "nfl|11586|rotoballer|221652|1789853827000",
+      "title": "Blake Corum Gets a Tougher Matchup Amid Volume Increase",
+      "url": "https://www.rotoballer.com/player-news/blake-corum-gets-a-tougher-matchup-amid-volume-increase/1945367"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars wide receiver Parker Washington has been getting hyped up ever since the beginning of training camp. Last week, Washington proved that the hype is real when he hauled in five of his six targets for 83 yards and a touchdown in the win over the Cleveland Browns. The 24-year-old posted a breakout campaign last season and appears ready to top those numbers in 2026. He'll head into a tough matchup against the Denver Broncos defense in Week 2. Washington has the upside of a WR1, but given his tough matchup, fantasy managers should treat him as a WR2 for this weekend.",
+      "metadata": {
+        "description": "Jacksonville Jaguars wide receiver Parker Washington has been getting hyped up ever since the beginning of training camp. Last week, Washington proved that the hype is real when he hauled in five of his six targets for 83 yards and a touchdown in the win over the Cleveland Browns. The 24-year-old posted a breakout campaign last season and appears ready to top those numbers in 2026. He'll head into a tough matchup against the Denver Broncos defense in Week 2. Washington has the upside of a WR1, but given his tough matchup, fantasy managers should treat him as a WR2 for this weekend.",
+        "title": "Parker Washington is Becoming a Fringe WR1",
+        "topic_id": "1407230263397797888",
+        "url": "https://www.rotoballer.com/player-news/paker-washington-is-becoming-a-fringe-wr1/1945364"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9487",
+      "player_name": "Parker Washington",
+      "position": "WR",
+      "published": 1789853406000,
+      "source": "rotoballer",
+      "source_key": "221662",
+      "story_id": "nfl|9487|rotoballer|221662|1789853406000",
+      "title": "Parker Washington is Becoming a Fringe WR1",
+      "url": "https://www.rotoballer.com/player-news/paker-washington-is-becoming-a-fringe-wr1/1945364"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams running back Kyren Williams had a relatively underwhelming performance last week in terms of both efficiency and volume. He'll look to bounce back against the New York Giants in Week 2, but he's not guaranteed to finish as a top-24 fantasy option this week. In last week's season opener, Williams had 11 carries, 41 rushing yards, three catches, 24 receiving yards, and a touchdown. The trip to the end zone salvaged his fantasy performance, as he would have otherwise finished with single-digit points, even in full-PPR leagues. This week, the Rams won't have any nuisance travel logistics to deal with like they did against the 49ers in Australia. Williams could still have some efficiency problems on the ground, but he'll likely have a bigger impact as a receiver while continuing to offer touchdown upside. Last week, the Giants' defense allowed Javonte Williams to tally 41 rushing yards, 31 receiving yards, and two touchdowns. Williams is a mid-to-low RB2, with some potential variance on either side of that projection to account for touchdowns and volume.",
+      "metadata": {
+        "description": "Los Angeles Rams running back Kyren Williams had a relatively underwhelming performance last week in terms of both efficiency and volume. He'll look to bounce back against the New York Giants in Week 2, but he's not guaranteed to finish as a top-24 fantasy option this week. In last week's season opener, Williams had 11 carries, 41 rushing yards, three catches, 24 receiving yards, and a touchdown. The trip to the end zone salvaged his fantasy performance, as he would have otherwise finished with single-digit points, even in full-PPR leagues. This week, the Rams won't have any nuisance travel logistics to deal with like they did against the 49ers in Australia. Williams could still have some efficiency problems on the ground, but he'll likely have a bigger impact as a receiver while continuing to offer touchdown upside. Last week, the Giants' defense allowed Javonte Williams to tally 41 rushing yards, 31 receiving yards, and two touchdowns. Williams is a mid-to-low RB2, with some potential variance on either side of that projection to account for touchdowns and volume.",
+        "title": "Kyren Williams a Touchdown-Dependent RB2 for Week 2 Against Giants",
+        "topic_id": "1407212645450276864",
+        "url": "https://www.rotoballer.com/player-news/kyren-williams-a-touchdown-dependent-rb2-for-week-2-against-giants/1945362"
+      },
+      "nfl_team": "LAR",
+      "player_id": "8150",
+      "player_name": "Kyren Williams",
+      "position": "RB",
+      "published": 1789853165000,
+      "source": "rotoballer",
+      "source_key": "221650",
+      "story_id": "nfl|8150|rotoballer|221650|1789853165000",
+      "title": "Kyren Williams a Touchdown-Dependent RB2 for Week 2 Against Giants",
+      "url": "https://www.rotoballer.com/player-news/kyren-williams-a-touchdown-dependent-rb2-for-week-2-against-giants/1945362"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Devaughn Vele could step into a bigger role in the offense during the Week 2 matchup against the Baltimore Ravens. Vele was impressive in the season opener when he hauled in seven of his nine targets for 69 yards and a touchdown in the loss to the Detroit Lions. The 28-year-old could be asked to step into a larger role this weekend with top wideout Chris Olave (hamstring) questionable for Sunday. If Olave is out, Vele would step into the WR1 role against this tough Ravens defense. Vele is mainly a deep league option, but he could be a passable WR3 if Olave is unable to play.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Devaughn Vele could step into a bigger role in the offense during the Week 2 matchup against the Baltimore Ravens. Vele was impressive in the season opener when he hauled in seven of his nine targets for 69 yards and a touchdown in the loss to the Detroit Lions. The 28-year-old could be asked to step into a larger role this weekend with top wideout Chris Olave (hamstring) questionable for Sunday. If Olave is out, Vele would step into the WR1 role against this tough Ravens defense. Vele is mainly a deep league option, but he could be a passable WR3 if Olave is unable to play.",
+        "title": "Devaughn Vele has Intriguing Upside for Week 2",
+        "topic_id": "1407210128586924032",
+        "url": "https://www.rotoballer.com/player-news/devaughn-vele-has-intriguing-upside-for-week-2/1945358"
+      },
+      "nfl_team": "NO",
+      "player_id": "11834",
+      "player_name": "Devaughn Vele",
+      "position": "WR",
+      "published": 1789852506000,
+      "source": "rotoballer",
+      "source_key": "221649",
+      "story_id": "nfl|11834|rotoballer|221649|1789852506000",
+      "title": "Devaughn Vele has Intriguing Upside for Week 2",
+      "url": "https://www.rotoballer.com/player-news/devaughn-vele-has-intriguing-upside-for-week-2/1945358"
+    },
     {
       "analysis": "Stribling suffered what appeared to be a serious non-contact injury during the 49ers' Week 1 win against the Rams in Melbourne, Australia, but afterward tests revealed that his left Achilles was intact, and eventually he was diagnosed with a deltoid sprain of his left ankle. After undergoing surgery, he's expected to miss roughly 10 weeks, meaning a move to IR was inevitable. At least during the initial weeks of Stribling's absence, Mike Evans, Deebo Samuel, Demarcus Robinson, Jacob Cowing, Jordan Watkins and KhaDarel Hodge will handle WR duties for San Francisco.",
       "description": "The 49ers placed Stribling (ankle) on injured reserve Saturday.",
@@ -34,6 +536,26 @@
       "story_id": "nfl|13417|rotowire|638071|1789852440000",
       "title": "De'Zhaun Stribling - Officially placed on IR",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Davante Adams is coming off a very disappointing Week 1 performance in Australia. For now, we're willing to chalk up Adams' dud game to the Rams' weird travel logistics for the international contest. Now that the Rams are returning stateside to play the New York Giants in Week 2, there's no excuse for the Rams' offense not to produce. Adams had just three catches for 26 yards in that game, so he'll look to get back on track that allowed a modest 21.1 combined PPR points to CeeDee Lamb and George Pickens last week. There's another factor to consider here, as Puka Nacua (hip) is questionable to play on Monday night. It seems like there's a very real chance that Nacua is inactive after missing two consecutive practices, but since managers won't know for sure until Monday night, they're left in a tough spot when making lineup decisions. Adams is a low-end WR2 if Nacua plays, but he would become a fringe top-12 fantasy receiver if he steps into the primary receiver role.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Davante Adams is coming off a very disappointing Week 1 performance in Australia. For now, we're willing to chalk up Adams' dud game to the Rams' weird travel logistics for the international contest. Now that the Rams are returning stateside to play the New York Giants in Week 2, there's no excuse for the Rams' offense not to produce. Adams had just three catches for 26 yards in that game, so he'll look to get back on track that allowed a modest 21.1 combined PPR points to CeeDee Lamb and George Pickens last week. There's another factor to consider here, as Puka Nacua (hip) is questionable to play on Monday night. It seems like there's a very real chance that Nacua is inactive after missing two consecutive practices, but since managers won't know for sure until Monday night, they're left in a tough spot when making lineup decisions. Adams is a low-end WR2 if Nacua plays, but he would become a fringe top-12 fantasy receiver if he steps into the primary receiver role.",
+        "title": "Davante Adams Has WR1 Potential if Teammate Can't Play",
+        "topic_id": "1407205095673733120",
+        "url": "https://www.rotoballer.com/player-news/davante-adams-has-wr1-potential-if-teammate-cant-play/1945356"
+      },
+      "nfl_team": "LAR",
+      "player_id": "2133",
+      "player_name": "Davante Adams",
+      "position": "WR",
+      "published": 1789851726000,
+      "source": "rotoballer",
+      "source_key": "221648",
+      "story_id": "nfl|2133|rotoballer|221648|1789851726000",
+      "title": "Davante Adams Has WR1 Potential if Teammate Can't Play",
+      "url": "https://www.rotoballer.com/player-news/davante-adams-has-wr1-potential-if-teammate-cant-play/1945356"
     },
     {
       "analysis": null,
@@ -137,10 +659,10 @@
       "url": null
     },
     {
-      "analysis": "Collins already has been ruled out for Sunday's game versus the Bengals as a result of the hamstring injury that he picked up at Wednesday's practice. The injury isn't considered to be a long-term concern, but as Wilson reports, the Texans could err on the side of caution and keep him out Week 3 at Indianapolis as well to ensure the issue doesn't linger. In Collins' absence, Houston will roll with Xavier Hutchinson, Kayshon Boutte, Jaylin Noel, Jared Wayne and practice-squad call-up Lewis Bond at wide receiver.",
+      "analysis": "Collins already has been ruled out for Sunday's game versus the Bengals as a result of the hamstring injury that he picked up at Wednesday's practice. The injury isn't considered to be a long-term concern, but as Wilson reports, the Texans could err on the side of caution and keep him out for Week 3 at Indianapolis as well to ensure the issue doesn't linger. In Collins' absence, Houston will roll with Xavier Hutchinson, Kayshon Boutte, Jaylin Noel, Jared Wayne and practice-squad call-up Lewis Bond at wide receiver.",
       "description": "Collins may miss two games due to a hamstring injury, Aaron Wilson of KPRC 2 Houston reports.",
       "metadata": {
-        "analysis": "Collins already has been ruled out for Sunday's game versus the Bengals as a result of the hamstring injury that he picked up at Wednesday's practice. The injury isn't considered to be a long-term concern, but as Wilson reports, the Texans could err on the side of caution and keep him out Week 3 at Indianapolis as well to ensure the issue doesn't linger. In Collins' absence, Houston will roll with Xavier Hutchinson, Kayshon Boutte, Jaylin Noel, Jared Wayne and practice-squad call-up Lewis Bond at wide receiver.",
+        "analysis": "Collins already has been ruled out for Sunday's game versus the Bengals as a result of the hamstring injury that he picked up at Wednesday's practice. The injury isn't considered to be a long-term concern, but as Wilson reports, the Texans could err on the side of caution and keep him out for Week 3 at Indianapolis as well to ensure the issue doesn't linger. In Collins' absence, Houston will roll with Xavier Hutchinson, Kayshon Boutte, Jaylin Noel, Jared Wayne and practice-squad call-up Lewis Bond at wide receiver.",
         "description": "Collins may miss two games due to a hamstring injury, Aaron Wilson of KPRC 2 Houston reports.",
         "title": "Nico Collins - Could miss two games",
         "topic_id": "1407128334562791424"
@@ -263,7 +785,7 @@
       "metadata": {
         "analysis": "Wilson is set to be the No. 2 wide receiver Sunday behind DK Metcalf due to the injury to Michael Pittman (ankle). Wilson saw 54 percent of the Steelers' offensive snaps in the Week 1 win over the Falcons, a number that should increase as the 25-year-old takes on a more critical role. The wide receiver saw six targets in Week 1 and will likely see even more against the Patriots unless the opponent chooses to have standout cornerback Christian Gonzalez follow the third-year player.",
         "description": "Wilson is set to see more snaps as an outside receiver during Sunday's game against the Patriots, Mike DeFabo of The Athletic reports.",
-        "title": "Roman Wilson - Takes on outside receiver role",
+        "title": "Roman Wilson - Taking on outside receiver role",
         "topic_id": "1407090581380853760"
       },
       "nfl_team": "PIT",
@@ -274,7 +796,7 @@
       "source": "rotowire",
       "source_key": "638038",
       "story_id": "nfl|11630|rotowire|638038|1789838930000",
-      "title": "Roman Wilson - Takes on outside receiver role",
+      "title": "Roman Wilson - Taking on outside receiver role",
       "url": null
     },
     {
@@ -79995,329 +80517,6 @@
       "story_id": "nfl|13414|rotowire|634311|1787293329000",
       "title": "Kaelon Black - Logs eight carries in preseason win",
       "url": null
-    },
-    {
-      "analysis": "After Omarion Hampton served as the starting running back on the team's opening possession, Mitchell entered the game the second time the Chargers had the ball and played a total of two drives. The speedy offseason addition saw a 21-yard reception wiped out by an illegal formation penalty, but he had a solid 11-yard gain on his one catch that did count. While Mitchell couldn't get anything going on the ground, the fourth-year pro is expected to play a solid complementary role behind Hampton and alongside Kimani Vidal in coordinator Mike McDaniel's creative offensive scheme.",
-      "description": "Mitchell rushed three times for minus-1 yard and brought in his only target for 11 yards in the Chargers' 41-17 preseason loss to the 49ers on Thursday night.",
-      "metadata": {
-        "analysis": "After Omarion Hampton served as the starting running back on the team's opening possession, Mitchell entered the game the second time the Chargers had the ball and played a total of two drives. The speedy offseason addition saw a 21-yard reception wiped out by an illegal formation penalty, but he had a solid 11-yard gain on his one catch that did count. While Mitchell couldn't get anything going on the ground, the fourth-year pro is expected to play a solid complementary role behind Hampton and alongside Kimani Vidal in coordinator Mike McDaniel's creative offensive scheme.",
-        "description": "Mitchell rushed three times for minus-1 yard and brought in his only target for 11 yards in the Chargers' 41-17 preseason loss to the 49ers on Thursday night.",
-        "title": "Keaton Mitchell - Four touches in preseason loss",
-        "topic_id": "1396402697283858432"
-      },
-      "nfl_team": "LAC",
-      "player_id": "9511",
-      "player_name": "Keaton Mitchell",
-      "position": "RB",
-      "published": 1787290766000,
-      "source": "rotowire",
-      "source_key": "634309",
-      "story_id": "nfl|9511|rotowire|634309|1787290766000",
-      "title": "Keaton Mitchell - Four touches in preseason loss",
-      "url": null
-    },
-    {
-      "analysis": "Samuel and the rest of the healthy 49ers offensive starters were out there for the team's opening possession, and the veteran wideout ended up recording his first catch in a San Francisco uniform since Week 17 of the 2024 season. His reception came on the Niners' first play from scrimmage, and the 30-year-old figures to play a prominent role in the air attack throughout the 2026 season alongside new No. 1 receiver Mike Evans (quadriceps) and fellow offseason addition Christian Kirk (calf).",
-      "description": "Samuel brought in one of two targets for four yards in the 49ers' 41-17 preseason win over the Chargers on Thursday night.",
-      "metadata": {
-        "analysis": "Samuel and the rest of the healthy 49ers offensive starters were out there for the team's opening possession, and the veteran wideout ended up recording his first catch in a San Francisco uniform since Week 17 of the 2024 season. His reception came on the Niners' first play from scrimmage, and the 30-year-old figures to play a prominent role in the air attack throughout the 2026 season alongside new No. 1 receiver Mike Evans (quadriceps) and fellow offseason addition Christian Kirk (calf).",
-        "description": "Samuel brought in one of two targets for four yards in the 49ers' 41-17 preseason win over the Chargers on Thursday night.",
-        "title": "Deebo Samuel - One catch in preseason debut",
-        "topic_id": "1396401439072325632"
-      },
-      "nfl_team": "SF",
-      "player_id": "5872",
-      "player_name": "Deebo Samuel",
-      "position": "WR",
-      "published": 1787290373000,
-      "source": "rotowire",
-      "source_key": "634308",
-      "story_id": "nfl|5872|rotowire|634308|1787290373000",
-      "title": "Deebo Samuel - One catch in preseason debut",
-      "url": null
-    },
-    {
-      "analysis": "McConkey and the rest of the healthy Chargers offensive starters were out there to open the game Thursday, and the talented wideout couldn't corral his one target deep down the left side of the field during that first drive. McConkey's night was done after that possession, and the 2024 second-round pick will likely now turn his attention to prepping for a Week 1 home matchup against the Cardinals on Sunday, Sept. 13.",
-      "description": "McConkey failed to bring in his only target in the Chargers' 41-17 preseason loss to the 49ers on Thursday night.",
-      "metadata": {
-        "analysis": "McConkey and the rest of the healthy Chargers offensive starters were out there to open the game Thursday, and the talented wideout couldn't corral his one target deep down the left side of the field during that first drive. McConkey's night was done after that possession, and the 2024 second-round pick will likely now turn his attention to prepping for a Week 1 home matchup against the Cardinals on Sunday, Sept. 13.",
-        "description": "McConkey failed to bring in his only target in the Chargers' 41-17 preseason loss to the 49ers on Thursday night.",
-        "title": "Ladd McConkey - Plays opening series Thursday",
-        "topic_id": "1396400181947138048"
-      },
-      "nfl_team": "LAC",
-      "player_id": "11635",
-      "player_name": "Ladd McConkey",
-      "position": "WR",
-      "published": 1787290066000,
-      "source": "rotowire",
-      "source_key": "634307",
-      "story_id": "nfl|11635|rotowire|634307|1787290066000",
-      "title": "Ladd McConkey - Plays opening series Thursday",
-      "url": null
-    },
-    {
-      "analysis": "As expected, Herbert and the rest of the Chargers' offensive starters opened Thursday's game. However, Los Angeles traveled only eight yards on three plays before punting, and Herbert's one completion came to offseason addition Charlie Kolar. The talented signal-caller once again enters the new season with elevated expectations following back-to-back 11-6 campaigns, and with a bevy of young pass-catching talent surrounding him, as well as veteran newcomer David Njoku.",
-      "description": "Herbert completed one of two passes for nine yards with no touchdowns or interceptions in the Chargers' 41-17 preseason loss to the 49ers on Thursday night.",
-      "metadata": {
-        "analysis": "As expected, Herbert and the rest of the Chargers' offensive starters opened Thursday's game. However, Los Angeles traveled only eight yards on three plays before punting, and Herbert's one completion came to offseason addition Charlie Kolar. The talented signal-caller once again enters the new season with elevated expectations following back-to-back 11-6 campaigns, and with a bevy of young pass-catching talent surrounding him, as well as veteran newcomer David Njoku.",
-        "description": "Herbert completed one of two passes for nine yards with no touchdowns or interceptions in the Chargers' 41-17 preseason loss to the 49ers on Thursday night.",
-        "title": "Justin Herbert - One completion in preseason cameo",
-        "topic_id": "1396400182064578560"
-      },
-      "nfl_team": "LAC",
-      "player_id": "6797",
-      "player_name": "Justin Herbert",
-      "position": "QB",
-      "published": 1787289855000,
-      "source": "rotowire",
-      "source_key": "634306",
-      "story_id": "nfl|6797|rotowire|634306|1787289855000",
-      "title": "Justin Herbert - One completion in preseason cameo",
-      "url": null
-    },
-    {
-      "analysis": "Purdy was in on San Francisco's first possession and led the 49ers on a 12-play, 39-yard march where he recorded his first completion to Deebo Samuel before connecting on three occasions with rookie second-round pick De'Zhaun Stribling later in the drive. Purdy gave way to Mac Jones after that point, and given the former's checkered recent injury history, Thursday's game action is likely the last he'll see prior to a Week 1 showdown with the Rams in Melbourne, Australia.",
-      "description": "Purdy completed four of six passes for 29 yards with no touchdowns or interceptions and rushed once for three yards in the 49ers' 41-17 preseason win over the Chargers on Thursday night.",
-      "metadata": {
-        "analysis": "Purdy was in on San Francisco's first possession and led the 49ers on a 12-play, 39-yard march where he recorded his first completion to Deebo Samuel before connecting on three occasions with rookie second-round pick De'Zhaun Stribling later in the drive. Purdy gave way to Mac Jones after that point, and given the former's checkered recent injury history, Thursday's game action is likely the last he'll see prior to a Week 1 showdown with the Rams in Melbourne, Australia.",
-        "description": "Purdy completed four of six passes for 29 yards with no touchdowns or interceptions and rushed once for three yards in the 49ers' 41-17 preseason win over the Chargers on Thursday night.",
-        "title": "Brock Purdy - Looks sharp in preseason win",
-        "topic_id": "1396397663527661568"
-      },
-      "nfl_team": "SF",
-      "player_id": "8183",
-      "player_name": "Brock Purdy",
-      "position": "QB",
-      "published": 1787289565000,
-      "source": "rotowire",
-      "source_key": "634305",
-      "story_id": "nfl|8183|rotowire|634305|1787289565000",
-      "title": "Brock Purdy - Looks sharp in preseason win",
-      "url": null
-    },
-    {
-      "analysis": "The second-year pro was the first Chargers running back to touch the ball, and he and the rest of Los Angeles' first-team offense exited the game after that opening possession. Hampton's brief appearance was unsurprising considering his importance to the team's offense, and it remains to be seen if he or any of the rest of the unit's front-line players will see any time during next Thursday night's home preseason finale against the Rams.",
-      "description": "Hampton rushed once for minus-1 yard and wasn't targeted in the Chargers' 41-17 preseason loss to the 49ers on Thursday night.",
-      "metadata": {
-        "analysis": "The second-year pro was the first Chargers running back to touch the ball, and he and the rest of Los Angeles' first-team offense exited the game after that opening possession. Hampton's brief appearance was unsurprising considering his importance to the team's offense, and it remains to be seen if he or any of the rest of the unit's front-line players will see any time during next Thursday night's home preseason finale against the Rams.",
-        "description": "Hampton rushed once for minus-1 yard and wasn't targeted in the Chargers' 41-17 preseason loss to the 49ers on Thursday night.",
-        "title": "Omarion Hampton - Cameo appearance in preseason loss",
-        "topic_id": "1396397663527661569"
-      },
-      "nfl_team": "LAC",
-      "player_id": "12507",
-      "player_name": "Omarion Hampton",
-      "position": "RB",
-      "published": 1787289190000,
-      "source": "rotowire",
-      "source_key": "634304",
-      "story_id": "nfl|12507|rotowire|634304|1787289190000",
-      "title": "Omarion Hampton - Cameo appearance in preseason loss",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "San Francisco 49ers quarterback Brock Purdy got the start in Thursday's preseason meeting with the Los Angeles Chargers. Purdy was removed after the 49ers' opening drive, and he finished the game 4-for-6 for 29 passing yards and one rushing attempt for three yards. Purdy's first pass went to Deebo Samuel Sr., who recently re-signed with the 49ers after spending last season with the Commanders. Purdy missed Deebo on his next attempt but completed his next three consecutive throws to De'Zhaun Stribling. With Ricky Pearsall (knee) out for the season and Mike Evans (foot/ankle) already slowed by injuries, it is imperative that he rekindles his relationship with the recently reunited Samuel and develops chemistry with Stribling. Purdy's next and final tune-up before the regular season will come on August 27 against the Las Vegas Raiders.",
-      "metadata": {
-        "description": "San Francisco 49ers quarterback Brock Purdy got the start in Thursday's preseason meeting with the Los Angeles Chargers. Purdy was removed after the 49ers' opening drive, and he finished the game 4-for-6 for 29 passing yards and one rushing attempt for three yards. Purdy's first pass went to Deebo Samuel Sr., who recently re-signed with the 49ers after spending last season with the Commanders. Purdy missed Deebo on his next attempt but completed his next three consecutive throws to De'Zhaun Stribling. With Ricky Pearsall (knee) out for the season and Mike Evans (foot/ankle) already slowed by injuries, it is imperative that he rekindles his relationship with the recently reunited Samuel and develops chemistry with Stribling. Purdy's next and final tune-up before the regular season will come on August 27 against the Las Vegas Raiders.",
-        "title": "Brock Purdy Sees First Preseason Action Against Chargers",
-        "topic_id": "1396451678928003072",
-        "url": "https://www.rotoballer.com/player-news/brock-purdy-sees-first-preseason-action-against-chargers/1913045"
-      },
-      "nfl_team": "SF",
-      "player_id": "8183",
-      "player_name": "Brock Purdy",
-      "position": "QB",
-      "published": 1787287932000,
-      "source": "rotoballer",
-      "source_key": "219045",
-      "story_id": "nfl|8183|rotoballer|219045|1787287932000",
-      "title": "Brock Purdy Sees First Preseason Action Against Chargers",
-      "url": "https://www.rotoballer.com/player-news/brock-purdy-sees-first-preseason-action-against-chargers/1913045"
-    },
-    {
-      "analysis": "Both of Hutchinson's targets came from starting QB C.J. Stroud on the opening drive. Hutchinson is probably the favorite to get the second-most snaps among Houston's wide receivers in the regular season behind Nico Collins following Jayden Higgins' season-ending ACL tear, but Jaylin Noel (hamstring) and Tank Dell (knee) both have more upside as pass catchers. Houston's coaching staff values Hutchinson's blocking and dependability, but he has exceeded 42 receiving yards only twice in 49 regular-season games.",
-      "description": "Hutchinson caught one of two targets for minus-1 yard in Thursday's 22-20 preseason loss to the Raiders.",
-      "metadata": {
-        "analysis": "Both of Hutchinson's targets came from starting QB C.J. Stroud on the opening drive. Hutchinson is probably the favorite to get the second-most snaps among Houston's wide receivers in the regular season behind Nico Collins following Jayden Higgins' season-ending ACL tear, but Jaylin Noel (hamstring) and Tank Dell (knee) both have more upside as pass catchers. Houston's coaching staff values Hutchinson's blocking and dependability, but he has exceeded 42 receiving yards only twice in 49 regular-season games.",
-        "description": "Hutchinson caught one of two targets for minus-1 yard in Thursday's 22-20 preseason loss to the Raiders.",
-        "title": "Xavier Hutchinson - Two targets from Stroud on Thursday",
-        "topic_id": "1396381304425029632"
-      },
-      "nfl_team": "HOU",
-      "player_id": "10218",
-      "player_name": "Xavier Hutchinson",
-      "position": "WR",
-      "published": 1787285507000,
-      "source": "rotowire",
-      "source_key": "634301",
-      "story_id": "nfl|10218|rotowire|634301|1787285507000",
-      "title": "Xavier Hutchinson - Two targets from Stroud on Thursday",
-      "url": null
-    },
-    {
-      "analysis": "Nailor was the target on Fernando Mendoza's first two passes, the second of which produced their 22-yard connection. Mendoza looked elsewhere with his third pass of the game, which resulted in a pick-six, and the rookie quarterback went back in the veteran receiver's direction with the first pass of Vegas' second possession. Nailor signed a three-year, $35 million contract with the Raiders in the offseason, and the former Vikings wideout appears poised to open the season as a starter in a wide receiver room without an established pecking order.",
-      "description": "Nailor caught one of three targets for 22 yards in Thursday's 22-20 preseason win over the Texans.",
-      "metadata": {
-        "analysis": "Nailor was the target on Fernando Mendoza's first two passes, the second of which produced their 22-yard connection. Mendoza looked elsewhere with his third pass of the game, which resulted in a pick-six, and the rookie quarterback went back in the veteran receiver's direction with the first pass of Vegas' second possession. Nailor signed a three-year, $35 million contract with the Raiders in the offseason, and the former Vikings wideout appears poised to open the season as a starter in a wide receiver room without an established pecking order.",
-        "description": "Nailor caught one of three targets for 22 yards in Thursday's 22-20 preseason win over the Texans.",
-        "title": "Jalen Nailor - Draws three targets from Mendoza",
-        "topic_id": "1396377530356764673"
-      },
-      "nfl_team": "LV",
-      "player_id": "8180",
-      "player_name": "Jalen Nailor",
-      "position": "WR",
-      "published": 1787284603000,
-      "source": "rotowire",
-      "source_key": "634298",
-      "story_id": "nfl|8180|rotowire|634298|1787284603000",
-      "title": "Jalen Nailor - Draws three targets from Mendoza",
-      "url": null
-    },
-    {
-      "analysis": "All signs continue to point to Cousins being under center for the Raiders in Week 1 against the Dolphins. As Cousins was given the night off with a host of other presumed starters, No. 1 overall pick Fernando Mendoza was in uniform and had a night to forget, as he completed just eight of 15 passes for 86 yards (5.7 YPA), including a pick-six on his first series.",
-      "description": "Coach Klint Kubiak refused to name Cousins as the Raiders' starting quarterback following Thursday night's preseason game against the Texans, Ryan McFadden of ESPN.com reports.",
-      "metadata": {
-        "analysis": "All signs continue to point to Cousins being under center for the Raiders in Week 1 against the Dolphins. As Cousins was given the night off with a host of other presumed starters, No. 1 overall pick Fernando Mendoza was in uniform and had a night to forget, as he completed just eight of 15 passes for 86 yards (5.7 YPA), including a pick-six on his first series.",
-        "description": "Coach Klint Kubiak refused to name Cousins as the Raiders' starting quarterback following Thursday night's preseason game against the Texans, Ryan McFadden of ESPN.com reports.",
-        "title": "Kirk Cousins - Kubiak not yet ready to name starting QB",
-        "topic_id": "1396372495212220416"
-      },
-      "nfl_team": "LV",
-      "player_id": "1166",
-      "player_name": "Kirk Cousins",
-      "position": "QB",
-      "published": 1787283590000,
-      "source": "rotowire",
-      "source_key": "634293",
-      "story_id": "nfl|1166|rotowire|634293|1787283590000",
-      "title": "Kirk Cousins - Kubiak not yet ready to name starting QB",
-      "url": null
-    },
-    {
-      "analysis": "Stroud got the start in Houston's second preseason game after sitting out the opener. He played only one possession but led a touchdown drive, which was capped by a 20-yard Woody Marks touchdown run. Despite some struggles down the stretch last season, Stroud retains his role as the starting quarterback for a Texans offense that will be without second-year wide receiver Jayden Higgins (knee) in 2026.",
-      "description": "Stroud completed four of six passes for 27 yards in Thursday's 22-20 preseason loss to the Raiders.",
-      "metadata": {
-        "analysis": "Stroud got the start in Houston's second preseason game after sitting out the opener. He played only one possession but led a touchdown drive, which was capped by a 20-yard Woody Marks touchdown run. Despite some struggles down the stretch last season, Stroud retains his role as the starting quarterback for a Texans offense that will be without second-year wide receiver Jayden Higgins (knee) in 2026.",
-        "description": "Stroud completed four of six passes for 27 yards in Thursday's 22-20 preseason loss to the Raiders.",
-        "title": "C.J. Stroud - Leads TD drive in brief outing",
-        "topic_id": "1396372495203831808"
-      },
-      "nfl_team": "HOU",
-      "player_id": "9758",
-      "player_name": "C.J. Stroud",
-      "position": "QB",
-      "published": 1787283293000,
-      "source": "rotowire",
-      "source_key": "634292",
-      "story_id": "nfl|9758|rotowire|634292|1787283293000",
-      "title": "C.J. Stroud - Leads TD drive in brief outing",
-      "url": null
-    },
-    {
-      "analysis": "Mendoza made his first start at the NFL level and played the first half, but it wasn't a pretty outing for the rookie first overall pick in his second preseason game. The Raiders were outscored 20-3 during his time in the game, and his first drive ended in an 80-yard pick-six. Mendoza failed to close the gap between himself and Kirk Cousins, who started Vegas' preseason opener and remains the favorite to start for the team Week 1. This poor outing from Mendoza shows why the Raiders' brass would rather let him adjust to the NFL from a backup role to begin his career.",
-      "description": "Mendoza completed eight of 15 passes for 86 yards, no touchdowns and one interception in Thursday's 22-20 preseason win over the Texans.",
-      "metadata": {
-        "analysis": "Mendoza made his first start at the NFL level and played the first half, but it wasn't a pretty outing for the rookie first overall pick in his second preseason game. The Raiders were outscored 20-3 during his time in the game, and his first drive ended in an 80-yard pick-six. Mendoza failed to close the gap between himself and Kirk Cousins, who started Vegas' preseason opener and remains the favorite to start for the team Week 1. This poor outing from Mendoza shows why the Raiders' brass would rather let him adjust to the NFL from a backup role to begin his career.",
-        "description": "Mendoza completed eight of 15 passes for 86 yards, no touchdowns and one interception in Thursday's 22-20 preseason win over the Texans.",
-        "title": "Fernando Mendoza - Tosses pick-six in first start",
-        "topic_id": "1396369977849704448"
-      },
-      "nfl_team": "LV",
-      "player_id": "13269",
-      "player_name": "Fernando Mendoza",
-      "position": "QB",
-      "published": 1787282713000,
-      "source": "rotowire",
-      "source_key": "634291",
-      "story_id": "nfl|13269|rotowire|634291|1787282713000",
-      "title": "Fernando Mendoza - Tosses pick-six in first start",
-      "url": null
-    },
-    {
-      "analysis": "Beck recently suffered an injury to his ribs. It's not considered a serious issue at this point, but it still looks like the team will have him sit out on Saturday as a precautionary measure. Gardner Minshew II is in line to be Arizona's starter against the Cowboys, assuming the 24-year old is officially ruled out ahead of game time.",
-      "description": "Carson Beck (ribs) is unlikely to play in Saturday's preseason game against the Dallas Cowboys.",
-      "metadata": {
-        "analysis": "Beck recently suffered an injury to his ribs. It's not considered a serious issue at this point, but it still looks like the team will have him sit out on Saturday as a precautionary measure. Gardner Minshew II is in line to be Arizona's starter against the Cowboys, assuming the 24-year old is officially ruled out ahead of game time.",
-        "description": "Carson Beck (ribs) is unlikely to play in Saturday's preseason game against the Dallas Cowboys.",
-        "title": "Carson Beck (ribs) unlikely to play Saturday",
-        "topic_id": "1396362461380108288",
-        "url": "https://www.fantasypros.com/nfl/news/603576/carson-beck-ribs-unlikely-to-play-saturday.php"
-      },
-      "nfl_team": "ARI",
-      "player_id": "13272",
-      "player_name": "Carson Beck",
-      "position": "QB",
-      "published": 1787281263261,
-      "source": "fantasy_pros",
-      "source_key": "603576",
-      "story_id": "nfl|13272|fantasy_pros|603576|1787281263261",
-      "title": "Carson Beck (ribs) unlikely to play Saturday",
-      "url": "https://www.fantasypros.com/nfl/news/603576/carson-beck-ribs-unlikely-to-play-saturday.php"
-    },
-    {
-      "analysis": "The veteran quarterback will not suit up on Saturday. He took part in the team's first preseason game, but they apparently don't feel that he needs more reps and will let him sit out of their next game. Gardner Minshew II is expected to be the starter with Carson Beck (ribs) unlikely to play as well.",
-      "description": "Jacoby Brissett won't play in Saturday's preseason game against the Dallas Cowboys.",
-      "metadata": {
-        "analysis": "The veteran quarterback will not suit up on Saturday. He took part in the team's first preseason game, but they apparently don't feel that he needs more reps and will let him sit out of their next game. Gardner Minshew II is expected to be the starter with Carson Beck (ribs) unlikely to play as well.",
-        "description": "Jacoby Brissett won't play in Saturday's preseason game against the Dallas Cowboys.",
-        "title": "Jacoby Brissett won't play Saturday",
-        "topic_id": "1396361195354611712",
-        "url": "https://www.fantasypros.com/nfl/news/603575/jacoby-brissett-wont-play-saturday.php"
-      },
-      "nfl_team": "ARI",
-      "player_id": "3257",
-      "player_name": "Jacoby Brissett",
-      "position": "QB",
-      "published": 1787280961418,
-      "source": "fantasy_pros",
-      "source_key": "603575",
-      "story_id": "nfl|3257|fantasy_pros|603575|1787280961418",
-      "title": "Jacoby Brissett won't play Saturday",
-      "url": "https://www.fantasypros.com/nfl/news/603575/jacoby-brissett-wont-play-saturday.php"
-    },
-    {
-      "analysis": "Johnston was injured in Tuesday's joint practice with the Niners and is expected to be fine to return to practice sometime in the next few days following Thursday's exhibition.",
-      "description": "Johnston (lower body) is not in uniform for Thursday night's preseason game against the 49ers, Kris Rhim of ESPN.com reports.",
-      "metadata": {
-        "analysis": "Johnston was injured in Tuesday's joint practice with the Niners and is expected to be fine to return to practice sometime in the next few days following Thursday's exhibition.",
-        "description": "Johnston (lower body) is not in uniform for Thursday night's preseason game against the 49ers, Kris Rhim of ESPN.com reports.",
-        "title": "Quentin Johnston - Not in uniform for Thursday's contest",
-        "topic_id": "1396341037525405696"
-      },
-      "nfl_team": "LAC",
-      "player_id": "9754",
-      "player_name": "Quentin Johnston",
-      "position": "WR",
-      "published": 1787275843000,
-      "source": "rotowire",
-      "source_key": "634276",
-      "story_id": "nfl|9754|rotowire|634276|1787275843000",
-      "title": "Quentin Johnston - Not in uniform for Thursday's contest",
-      "url": null
-    },
-    {
-      "analysis": "Thursday night's contest could offer a closer look at the type of role Samuel will have in the 49ers' offense this season.",
-      "description": "49ers WR Deebo Samuel Sr. will play against the Chargers in the preseason",
-      "metadata": {
-        "analysis": "Thursday night's contest could offer a closer look at the type of role Samuel will have in the 49ers' offense this season.",
-        "description": "49ers WR Deebo Samuel Sr. will play against the Chargers in the preseason",
-        "title": "Deebo Samuel Sr. starting against Chargers",
-        "topic_id": "1396338522226446336",
-        "url": "https://www.fantasypros.com/nfl/news/603571/deebo-samuel-sr-starting-against-chargers.php"
-      },
-      "nfl_team": "SF",
-      "player_id": "5872",
-      "player_name": "Deebo Samuel",
-      "position": "WR",
-      "published": 1787275555721,
-      "source": "fantasy_pros",
-      "source_key": "603571",
-      "story_id": "nfl|5872|fantasy_pros|603571|1787275555721",
-      "title": "Deebo Samuel Sr. starting against Chargers",
-      "url": "https://www.fantasypros.com/nfl/news/603571/deebo-samuel-sr-starting-against-chargers.php"
     }
   ]
 }

@@ -2,16 +2,66 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **3978**
-- Newly captured: **3**
+- Stored stories: **3987**
+- Newly captured: **25**
 
 ## Latest news
 
+- **NEW — Mike Evans** — Mike Evans' Primary Receiver Role Continues to Grow (2026-09-20T00:59:05Z)
+  - Source: https://www.rotoballer.com/player-news/mike-evans-primary-receiver-role-continues-to-grow/1945454
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Still a Potential Fantasy Starter in PPR Leagues (2026-09-20T00:52:06Z)
+  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-still-a-potential-fantasy-starter-in-ppr-leagues/1945450
+- **NEW — Christian Watson** — Christian Watson Approaching Must-Start Territory in Fantasy Football (2026-09-20T00:48:33Z)
+  - Source: https://www.rotoballer.com/player-news/christian-watson-approaching-must-start-territory-in-fantasy-football/1945448
+- **NEW — Bhayshul Tuten** — Bhayshul Tuten a Steady Fantasy Option with Large Workload (2026-09-20T00:44:04Z)
+  - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-a-steady-fantasy-option-with-large-workload/1945444
+- **NEW — Jadarian Price** — Jadarian Price on Track for Another Step Forward in Week 2 (2026-09-20T00:40:10Z)
+  - Source: https://www.rotoballer.com/player-news/jadarian-price-on-track-for-another-step-forward-in-week-2/1945441
+- **NEW — Matthew Golden** — Matthew Golden Taking First Steps Toward Year 2 Breakout (2026-09-20T00:37:06Z)
+  - Source: https://www.rotoballer.com/player-news/matthew-golden-taking-first-steps-toward-year-2-breakout/1945439
+- **NEW — Stefon Diggs** — Stefon Diggs Poised for Second Straight Productive Game in Week 2? (2026-09-19T23:00:06Z)
+  - Source: https://www.rotoballer.com/player-news/stefon-diggs-poised-for-second-straight-productive-game-in-week-2/1945422
+- **NEW — Chuba Hubbard** — Chuba Hubbard Profiles as a Steady RB2 Option in Week 2 (2026-09-19T22:50:05Z)
+  - Source: https://www.rotoballer.com/player-news/chuba-hubbard-profiles-as-a-steady-rb2-option-in-week-2/1945418
+- **NEW — Isaiah Likely** — Isaiah Likely Aims To Follow Up On Great Debut in Week 2 (2026-09-19T22:47:06Z)
+  - Source: https://www.rotoballer.com/player-news/isaiah-likely-aims-to-follow-up-on-great-debut-in-week-2/1945415
+- **NEW — Malik Nabers** — Malik Nabers Could See Another Limited Workload Against Rams (2026-09-19T22:45:22Z)
+  - Source: https://www.rotoballer.com/player-news/malik-nabers-could-see-another-limited-workload-against-rams/1945413
+- **NEW — Cam Skattebo** — Cam Skattebo Aims To Build On Strong Debut Against Rams (2026-09-19T22:44:41Z)
+  - Source: https://www.rotoballer.com/player-news/cam-skattebo-aims-to-build-on-strong-debut-against-rams/1945411
+- **NEW — Terry McLaurin** — Terry McLaurin a Worthy Start for Fantasy Managers in Week 2? (2026-09-19T22:44:37Z)
+  - Source: https://www.rotoballer.com/player-news/terry-mclaurin-a-worthy-start-for-fantasy-managers-in-week-2/1945409
+- **NEW — Jaxson Dart** — Jaxson Dart Looks to Keep Rolling in Week 2 (2026-09-19T22:40:44Z)
+  - Source: https://www.rotoballer.com/player-news/jaxson-dart-looks-to-keep-rolling-in-week-2/1945406
+- **NEW — Aaron Jones** — Aaron Jones Sr. Profiles as a Top-24 Running Back in Week 2 (2026-09-19T22:29:05Z)
+  - Source: https://www.rotoballer.com/player-news/aaron-jones-sr-profiles-as-a-top-24-running-back-in-week-2/1945398
+- **NEW — Jaylen Waddle** — Jaylen Waddle Outside of Must-Start Territory in Week 2? (2026-09-19T22:20:05Z)
+  - Source: https://www.rotoballer.com/player-news/jaylen-waddle-outside-of-must-start-territory-in-week-2/1945392
+- **NEW — Luther Burden** — Luther Burden III a High-End WR2 Option in Week 2 (2026-09-19T22:11:13Z)
+  - Source: https://www.rotoballer.com/player-news/luther-burden-iii-a-high-end-wr2-option-in-week-2/1945388
+- **NEW — Caleb Douglas** — Caleb Douglas Offers Deep-League Flex Appeal (2026-09-19T21:52:06Z)
+  - Source: https://www.rotoballer.com/player-news/caleb-douglas-offers-deep-league-flex-appeal/1945378
+- **NEW — Terrance Ferguson** — Terrance Ferguson Not Yet on the Weekly Fantasy Radar (2026-09-19T21:50:06Z)
+  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-not-yet-on-the-weekly-fantasy-radar/1945376
+- **NEW — Kaelon Black** — Kaelon Black is a Shaky Flex Play (2026-09-19T21:46:06Z)
+  - Source: https://www.rotoballer.com/player-news/kaelon-black-is-a-shaky-flex-play/1945373
+- **NEW — Deebo Samuel** — Deebo Samuel Sr. Carries WR3 Value into Week 2 (2026-09-19T21:38:18Z)
+  - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-carries-wr3-value-into-week-2/1945369
+- **NEW — Blake Corum** — Blake Corum Gets a Tougher Matchup Amid Volume Increase (2026-09-19T21:37:07Z)
+  - Source: https://www.rotoballer.com/player-news/blake-corum-gets-a-tougher-matchup-amid-volume-increase/1945367
+- **NEW — Parker Washington** — Parker Washington is Becoming a Fringe WR1 (2026-09-19T21:30:06Z)
+  - Source: https://www.rotoballer.com/player-news/paker-washington-is-becoming-a-fringe-wr1/1945364
+- **NEW — Kyren Williams** — Kyren Williams a Touchdown-Dependent RB2 for Week 2 Against Giants (2026-09-19T21:26:05Z)
+  - Source: https://www.rotoballer.com/player-news/kyren-williams-a-touchdown-dependent-rb2-for-week-2-against-giants/1945362
+- **NEW — Devaughn Vele** — Devaughn Vele has Intriguing Upside for Week 2 (2026-09-19T21:15:06Z)
+  - Source: https://www.rotoballer.com/player-news/devaughn-vele-has-intriguing-upside-for-week-2/1945358
 - **De'Zhaun Stribling** — De'Zhaun Stribling - Officially placed on IR (2026-09-19T21:14:00Z)
   - Stribling suffered what appeared to be a serious non-contact injury during the 49ers' Week 1 win against the Rams in Melbourne, Australia, but afterward tests revealed that his left Achilles was intact, and eventually he was diagnosed with a deltoid sprain of his left ankle. After undergoing surgery, he's expected to miss roughly 10 weeks, meaning a move to IR was inevitable. At least during the initial weeks of Stribling's absence, Mike Evans, Deebo Samuel, Demarcus Robinson, Jacob Cowing, Jordan Watkins and KhaDarel Hodge will handle WR duties for San Francisco.
-- **NEW — Puka Nacua** — Puka Nacua a Risky Fantasy Option with Status in Limbo (2026-09-19T20:47:06Z)
+- **NEW — Davante Adams** — Davante Adams Has WR1 Potential if Teammate Can't Play (2026-09-19T21:02:06Z)
+  - Source: https://www.rotoballer.com/player-news/davante-adams-has-wr1-potential-if-teammate-cant-play/1945356
+- **Puka Nacua** — Puka Nacua a Risky Fantasy Option with Status in Limbo (2026-09-19T20:47:06Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacua-a-risky-fantasy-option-with-status-in-limbo/1945354
-- **NEW — Matthew Stafford** — Matthew Stafford Could be Down a Receiver in Quest for Redemption (2026-09-19T20:41:05Z)
+- **Matthew Stafford** — Matthew Stafford Could be Down a Receiver in Quest for Redemption (2026-09-19T20:41:05Z)
   - Source: https://www.rotoballer.com/player-news/matthew-stafford-could-be-down-a-receiver-in-quest-for-redemption/1945352
 - **Omar Cooper** — Omar Cooper - Officially on injured reserve (2026-09-19T20:17:15Z)
   - Cooper thus will miss at least the next four games after he suffered a sprained ankle in his pro debut this past Sunday in Tennessee. His next chance for game action will be a Week 6 road matchup with the Patriots on Sunday, Oct. 18, and in the meantime, the Jets will operate with a receiving corps composed of Garrett Wilson, Adonai Mitchell, Isaiah Williams and Arian Smith.
@@ -21,8 +71,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Zay Flowers** — Zay Flowers - Ruled out for Sunday's game (2026-09-19T20:10:50Z)
   - Typically, players listed as doubtful on final injury reports of the week are inactive on game days, but the Ravens got ahead of the issue and deemed Flowers unable to play one day prior. He thus will miss at least one contest as a result of the hamstring issue he suffered in Week 1, and Baltimore will roll with a receiving corps of Rashod Bateman, Devontez Walker, Elijah Sarratt and LaJohntay Wester in the meantime.
 - **Nico Collins** — Nico Collins - Could miss two games (2026-09-19T19:55:49Z)
-  - Collins already has been ruled out for Sunday's game versus the Bengals as a result of the hamstring injury that he picked up at Wednesday's practice. The injury isn't considered to be a long-term concern, but as Wilson reports, the Texans could err on the side of caution and keep him out Week 3 at Indianapolis as well to ensure the issue doesn't linger. In Collins' absence, Houston will roll with Xavier Hutchinson, Kayshon Boutte, Jaylin Noel, Jared Wayne and practice-squad call-up Lewis Bond at wide receiver.
-- **NEW — Jalen Coker** — Is Jalen Coker a Must-Start in Week 2 vs. Falcons? (2026-09-19T19:09:05Z)
+  - Collins already has been ruled out for Sunday's game versus the Bengals as a result of the hamstring injury that he picked up at Wednesday's practice. The injury isn't considered to be a long-term concern, but as Wilson reports, the Texans could err on the side of caution and keep him out for Week 3 at Indianapolis as well to ensure the issue doesn't linger. In Collins' absence, Houston will roll with Xavier Hutchinson, Kayshon Boutte, Jaylin Noel, Jared Wayne and practice-squad call-up Lewis Bond at wide receiver.
+- **Jalen Coker** — Is Jalen Coker a Must-Start in Week 2 vs. Falcons? (2026-09-19T19:09:05Z)
   - Source: https://www.rotoballer.com/player-news/is-jalen-coker-a-must-start-in-week-2-vs-falcons/1945343
 - **Puka Nacua** — Puka Nacua (hip) questionable for Monday night (2026-09-19T18:55:48.095000Z)
   - Nacua has now missed two practices in a row with a hip issue, and that does not bode well for his status on game day. Fantasy managers will need to have contingency plans ready in case he sits. Davante Adams is next up for targets, but Colby Parkinson and Terrance Ferguson could see more looks. Konata Mumpfield is likely next up behind Puka with Jordan Whittington also questionable.
@@ -33,7 +83,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Nacua thus will miss practice for a second day in a row to end Week 2 prep, and McVay also told Royer that the wide receiver is dealing with some soreness in his groin, but the Rams will see how he feels as Monday's kickoff approaches. The issue apparently is different than the psoas soreness that Nacua tended to during training camp, and his status very well could come down to a game-time decision.
 - **Zay Flowers** — Zay Flowers Downgraded to Out for Week 2 (2026-09-19T18:15:38Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-downgraded-to-out-for-week-2/1945328
-- **Roman Wilson** — Roman Wilson - Takes on outside receiver role (2026-09-19T17:28:50Z)
+- **Roman Wilson** — Roman Wilson - Taking on outside receiver role (2026-09-19T17:28:50Z)
   - Wilson is set to be the No. 2 wide receiver Sunday behind DK Metcalf due to the injury to Michael Pittman (ankle). Wilson saw 54 percent of the Steelers' offensive snaps in the Week 1 win over the Falcons, a number that should increase as the 25-year-old takes on a more critical role. The wide receiver saw six targets in Week 1 and will likely see even more against the Patriots unless the opponent chooses to have standout cornerback Christian Gonzalez follow the third-year player.
 - **Michael Pittman** — Michael Pittman Jr. (foot) ruled out Sunday (2026-09-19T17:20:47.453000Z)
   - Pittman Jr. will be sidelined after struggling to reach the practice field for head coach Mike McCarthy, with Roman Wilson and Germie Bernard in line for increased roles behind No. 1 wideout DK Metcalf against the Patriots Sunday.
@@ -165,53 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/geno-smith-a-low-end-option-against-green-bay/1944894
 - **De'Von Achane** — De'Von Achane Is Still a Top RB Against San Francisco (2026-09-19T09:40:08Z)
   - Source: https://www.rotoballer.com/player-news/devon-achane-is-still-a-top-rb-in-san-francisco/1944892
-- **Chris Bell** — Chris Bell Brings Intriguing Potential, Hard to Start in Week 2 (2026-09-19T09:20:11Z)
-  - Source: https://www.rotoballer.com/player-news/chris-bell-brings-intriguing-potential-hard-to-start-in-week-2/1944872
-- **Malik Washington** — Malik Washington Is a High-Risk Play in Starting Role (2026-09-19T09:10:06Z)
-  - Source: https://www.rotoballer.com/player-news/malik-washington-is-a-high-risk-play-even-in-starting-role/1944859
-- **Caleb Douglas** — Caleb Douglas Is a Deep-League Flex Option in Week 2 (2026-09-19T09:04:33Z)
-  - Source: https://www.rotoballer.com/player-news/caleb-douglas-is-a-deep-league-flex-option-in-week-2/1944857
-- **Tyler Warren** — Tyler Warren A Low-End TE1 For Week 2 at Chiefs (2026-09-19T08:46:14Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-warren-a-low-end-te1-for-week-2-at-chiefs/1944845
-- **Josh Downs** — Josh Downs A Deep League Starting Option For Week 2 at Chiefs (2026-09-19T08:37:10Z)
-  - Source: https://www.rotoballer.com/player-news/josh-downs-a-deep-league-starting-option-for-week-2-at-chiefs/1944842
-- **Alec Pierce** — Alec Pierce A Deep League Start, Still Working Back From Injury (2026-09-19T08:25:37Z)
-  - Source: https://www.rotoballer.com/player-news/alec-pierce-a-deep-league-start-still-working-back-from-injury/1944837
-- **Jonathan Taylor** — Jonathan Taylor A Fantasy RB1 Even In Tough Week 2 Matchup (2026-09-19T08:20:10Z)
-  - Source: https://www.rotoballer.com/player-news/jonathan-taylor-a-fantasy-rb1-even-in-tough-week-2-matchup/1944828
-- **Ka'imi Fairbairn** — Ka'imi Fairbairn Is a Fringe Starter in Week 2 (2026-09-19T08:19:07Z)
-  - Source: https://www.rotoballer.com/player-news/kaimi-fairbairn-is-a-fringe-starter-in-week-2/1944826
-- **Ryan Flournoy** — Ryan Flournoy A WR4 For Week 2 vs Commanders (2026-09-19T08:17:22Z)
-  - Source: https://www.rotoballer.com/player-news/ryan-flournoy-a-wr4-for-week-2-vs-commanders/1944824
-- **Javonte Williams** — Javonte Williams An RB1 In Week 2 vs Commanders (2026-09-19T08:11:14Z)
-  - Source: https://www.rotoballer.com/player-news/javonte-williams-an-rb1-in-week-2-vs-commanders/1944811
-- **Rashod Bateman** — Rashod Bateman Poised to Lead Receiving Corps in Week 2 (2026-09-19T08:07:17Z)
-  - Source: https://www.rotoballer.com/player-news/rashod-bateman-poised-to-lead-receiving-corps-in-week-2/1944805
-- **Brandon Aubrey** — Brandon Aubrey Still A Starting Fantasy Kicker For Week 2 (2026-09-19T08:05:33Z)
-  - Source: https://www.rotoballer.com/player-news/brandon-aubrey-still-a-starting-fantasy-kicker-for-week-2/1944801
-- **Dalton Schultz** — Dalton Schultz Is a Low-End TE1 Without Nico Collins (2026-09-19T08:04:31Z)
-  - Source: https://www.rotoballer.com/player-news/dalton-schultz-is-a-low-end-te1-without-nico-collins/1944798
-- **Jake Ferguson** — Jake Ferguson Has Upside, But Plenty Of Risk In Week 2 (2026-09-19T07:58:07Z)
-  - Source: https://www.rotoballer.com/player-news/jake-ferguson-has-upside-but-plenty-of-risk-in-week-2/1944791
-- **Dak Prescott** — Dak Prescott Should Be Productive In Week 2 vs Commanders (2026-09-19T07:53:35Z)
-  - Source: https://www.rotoballer.com/player-news/dak-prescott-should-be-productive-in-week-2-vs-commanders/1944783
-- **CeeDee Lamb** — CeeDee Lamb A Must-Start WR For Week 2 (2026-09-19T07:47:08Z)
-  - Source: https://www.rotoballer.com/player-news/ceedee-lamb-a-must-start-wr-for-week-2/1944777
-- **Nico Collins** — Kayshon Boutte Is Set for a Bigger Role Without Nico Collins (2026-09-19T07:46:10Z)
-  - Source: https://www.rotoballer.com/player-news/kayshon-boutte-is-set-for-a-bigger-role-without-nico-collins/1944773
-- **Harold Fannin** — Harold Fannin Jr. Could Be Sleeper Target for Week 2 at Bucs (2026-09-19T07:42:07Z)
-  - Source: https://www.rotoballer.com/player-news/harold-fannin-jr-could-be-sleeper-target-for-week-2-at-bucs/1944768
-- **George Pickens** — George Pickens Primed To Bounce Back In Week 2 (2026-09-19T07:40:07Z)
-  - Source: https://www.rotoballer.com/player-news/george-pickens-primed-to-bounce-back-in-week-2/1944763
-- **Xavier Hutchinson** — Xavier Hutchinson In Line for More Work against the Bengals (2026-09-19T07:38:09Z)
-  - Source: https://www.rotoballer.com/player-news/xavier-hutchinson-in-line-for-more-work-against-the-bengals/1944761
-- **Jerry Jeudy** — Jerry Jeudy Not Worthy of Start in Week 2 Matchup at Bucs (2026-09-19T07:30:12Z)
-  - Source: https://www.rotoballer.com/player-news/jerry-jeudy-not-worthy-of-start-in-week-2-matchup-at-bucs/1944754
-- **Jaylin Noel** — Jaylin Noel Brings Deep Sleeper Potential (2026-09-19T07:23:46Z)
-  - Source: https://www.rotoballer.com/player-news/jaylin-noel-brings-deep-sleeper-potential/1944749
-- **KC Concepcion** — Look For Browns To Find Ways To Get KC Concepcion Jr. The Ball Week 2 at Bucs (2026-09-19T07:20:06Z)
-  - Source: https://www.rotoballer.com/player-news/look-for-browns-to-find-ways-to-get-kc-concepcion-the-ball-week-2-at-bucs/1944745
-- **Woody Marks** — Woody Marks Offers Sleeper FLEX Potential for Deep Leagues (2026-09-19T07:17:06Z)
-  - Source: https://www.rotoballer.com/player-news/woody-marks-offers-sleeper-flex-potential-for-deep-leagues/1944740
-- **David Montgomery** — David Montgomery Is a Solid RB2 in Week 2 (2026-09-19T07:04:06Z)
-  - Source: https://www.rotoballer.com/player-news/david-montgomery-is-a-solid-rb2-in-week-2/1944725
