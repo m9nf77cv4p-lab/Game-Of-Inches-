@@ -2,14 +2,82 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **4462**
-- Newly captured: **1**
+- Stored stories: **4479**
+- Newly captured: **28**
 
 ## Latest news
 
-- **NEW — Matthew Stafford** — Matthew Stafford tosses four touchdowns in win Monday (2026-09-22T11:50:59.157000Z)
+- **NEW — Puka Nacua** — Puka Nacua - Status uncertain heading into Week 3 (2026-09-22T15:38:41Z)
+  - With Nacua having been inactive for Monday's 28-6 win over the Giants due to groin soreness, this is at least a mildly positive update for his Week 3 outlook. McVay stopped short of confirming Nacua's availability, so his practice participation later in the week should provide the clearest indication of whether LA's top wide receiver is on track to return.
+- **NEW — Darnell Mooney** — Darnell Mooney leads team in receiving Monday (2026-09-22T12:30:59.671000Z)
+  - The veteran was technically the team's leader in receiving yards on Monday night, but he did it with just 48 over the course of the game, which still left him with a poor fantasy total. He shouldn't be rostered in most league formats for the foreseeable future.
+  - Source: https://www.fantasypros.com/nfl/news/609810/darnell-mooney-leads-team-receiving-monday.php
+- **NEW — Najee Harris** — Najee Harris sees four carries in loss Monday (2026-09-22T12:30:59.654000Z)
+  - Harris wasn't able to accomplish anything on the box score on Monday night, but it looks like he is starting to get involved on New York's offense. He saw the second-most carries out of anyone on the team, although he wasn't able to do much with them. It looks like he may be overtaking Tyrone Tracy Jr. in this backfield, who himself didn't see a single opportunity on offense against the Rams.
+  - Source: https://www.fantasypros.com/nfl/news/609811/najee-harris-sees-four-carries-loss-monday.php
+- **NEW — Tyrone Tracy** — Tyrone Tracy Jr. held without a touch Monday (2026-09-22T12:30:59.640000Z)
+  - New York seems to have phased Tracy out of the offense altogether, as he was relegated to just special teams against the Rams and saw no opportunities on offense. Najee Harris worked in and saw four touches on the night, so it looks like the 26-year old may have lost his spot as a depth piece in the backfield.
+  - Source: https://www.fantasypros.com/nfl/news/609812/tyrone-tracy-jr-held-without-touch-monday.php
+- **NEW — Devin Singletary** — Devin Singletary a non-factor Monday (2026-09-22T12:20:59.829000Z)
+  - Singletary involvement was minimal on Monday, as he saw just three touches over the course of the game. He wasn't able to do much with those touches, and it was less than ideal to see Najee Harris come in and out-touch him in this matchup. He is off of the fantasy radar moving forward.
+  - Source: https://www.fantasypros.com/nfl/news/609809/devin-singletary-non-factor-monday.php
+- **NEW — Cam Skattebo** — Cam Skattebo inefficient in loss Monday (2026-09-22T12:20:59.307000Z)
+  - Skattebo was pretty well bottled up on Monday night. He was only able to rush for 36 yards at an inefficient clip of 3.0 yards per carry, and he didn't add much in the passing game outside of four receptions. New York's offense as a whole was a mess with injuries in this game, but the young running back will have ample opportunities to bounce back with matchups against the Titans and Cardinals coming up over the next two weeks.
+  - Source: https://www.fantasypros.com/nfl/news/609805/cam-skattebo-inefficient-loss-monday.php
+- **NEW — Isaiah Likely** — Isaiah Likely hauls in five passes Monday (2026-09-22T12:20:59.278000Z)
+  - Likely didn't put up great numbers on Monday night, finishing with just 33 yards in a loss to the Rams. He was still the most targeted player on the team by far, however, which is a good sign that he will bounce back and return to form sometime in the near future. His bounce back may be delayed is Jaxson Dart (knee) has to miss time for the Giants.
+  - Source: https://www.fantasypros.com/nfl/news/609806/isaiah-likely-hauls-five-passes-monday.php
+- **NEW — Malachi Fields** — Malachi Fields hauls in two passes Monday (2026-09-22T12:20:59.230000Z)
+  - The Giants were trying to get the rookie wideout the ball on Monday night, but he was only able to haul in two out of his six targets over the course of the game. He finished with just 30 yards and isn't expected to get much better over the next couple of weeks with QB Jaxson Dart (knee) seemingly set to miss some time for New York.
+  - Source: https://www.fantasypros.com/nfl/news/609808/malachi-fields-hauls-two-passes-monday.php
+- **NEW — Malik Nabers** — Malik Nabers ends with one catch in loss Monday (2026-09-22T12:10:59.058000Z)
+  - Nabers suffered a shoulder injury partway through Monday night's game and briefly left to be evaluated, but he ended up coming back and finishing out the game. He only ended with one catch for a single yard, however, which burned many fantasy managers who were relying on him. Managers should keep close tabs on his health and the health of Jaxson Dart (knee) throughout this week.
+  - Source: https://www.fantasypros.com/nfl/news/609804/malik-nabers-ends-with-one-catch-loss-monday.php
+- **NEW — Kyren Williams** — Kyren Williams finds end zone Monday (2026-09-22T12:00:59.109000Z)
+  - Williams had a productive night on Monday. He led the team in rushing and fell just three yards shy of the 100-total yards mark over the course of the game, and he was also able to haul in a touchdown to put the cherry on top. Concerns still exist for his season-long outlook, though, with Blake Corum seeing just one less touch on the night and seemingly only getting better and better.
+  - Source: https://www.fantasypros.com/nfl/news/609796/kyren-williams-finds-end-zone-monday.php
+- **NEW — Davante Adams** — Davante Adams dominant in win Monday (2026-09-22T12:00:59.081000Z)
+  - Adams had one of his best games as a Ram on Monday night. He put up nearly 200 receiving yards in this blowout win over the Giants, and he was also able to get into the end zone on two separate occasions. He really stepped up in the absence of Puka Nacua (hip), so if he misses more time, fantasy managers should continue to view Adams as a can't-miss option any given week that he's the team's undisputed WR1.
+  - Source: https://www.fantasypros.com/nfl/news/609797/davante-adams-dominant-win-monday.php
+- **NEW — Blake Corum** — Blake Corum totals 92 yards in win Monday (2026-09-22T12:00:59.058000Z)
+  - Los Angeles' offense looked great on Monday night, and Corum was no exception to that. He put up 92 total yards on just 13 opportunities, although he wasn't able to get into the endzone to put the capstone on that. The Rams' backfield is a situation to continue monitoring, with Corum and Kyren Williams each seeing the same amount of carries in this blowout win.
+  - Source: https://www.fantasypros.com/nfl/news/609798/blake-corum-totals-92-yards-win-monday.php
+- **NEW — Terrance Ferguson** — Terrance Ferguson plays well in win Monday (2026-09-22T12:00:59.031000Z)
+  - Ferguson looked great on Monday night. He saw more work than usual with Puka Nacua (hip) out of the lineup for Los Angeles, and he was able to capitalize by putting up 54 yards and scoring a touchdown against the Giants. He has shown his talent and could continue to have week-to-week upside moving forward, although good games will be hard to predict when Nacua makes his return to the lineup.
+  - Source: https://www.fantasypros.com/nfl/news/609799/terrance-ferguson-plays-well-win-monday.php
+- **Matthew Stafford** — Matthew Stafford tosses four touchdowns in win Monday (2026-09-22T11:50:59.157000Z)
   - The reigning MVP had a great bounce-back game on Monday night after a disappointing season opener last week. He scored four touchdowns against the Giants and limited his mistakes overall, helping lead Los Angeles to a blowout win over New York. The only questions for him moving forward will be consistency and the health of his wideouts, with Puka Nacua (hip) currently out of the lineup for the Rams.
   - Source: https://www.fantasypros.com/nfl/news/609795/matthew-stafford-tosses-four-touchdowns-win-monday.php
+- **NEW — Tyler Shough** — Tyler Shough Is Making Himself Hard to Leave on Waivers (2026-09-22T11:32:06Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-shough-is-making-himself-hard-to-leave-on-waivers/1947456
+- **NEW — Malik Washington** — Malik Washington Is Becoming a Longer-Term PPR Hold (2026-09-22T11:22:06Z)
+  - Source: https://www.rotoballer.com/player-news/malik-washington-is-becoming-a-longer-term-ppr-hold/1947444
+- **NEW — Darren Waller** — Darren Waller Has Played His Way onto 12-Team Rosters (2026-09-22T11:13:15Z)
+  - Source: https://www.rotoballer.com/player-news/darren-waller-has-played-his-way-into-12-team-rosters/1947436
+- **NEW — Kayshon Boutte** — Kayshon Boutte Looking For Breakout In Week 3 (2026-09-22T11:00:06Z)
+  - Source: https://www.rotoballer.com/player-news/kayshon-boutte-looking-for-breakout-in-week-3/1947420
+- **NEW — Antonio Williams** — Antonio Williams A Risky Option On The Waiver Wire (2026-09-22T10:47:09Z)
+  - Source: https://www.rotoballer.com/player-news/antonio-williams-a-risky-option-on-the-waiver-wire/1947411
+- **NEW — Germie Bernard** — Germie Bernard Could Be Worth a Look In Deep Leagues (2026-09-22T10:40:06Z)
+  - Source: https://www.rotoballer.com/player-news/germie-bernard-could-be-worth-a-look-in-deep-leagues/1947404
+- **NEW — Chris Bell** — Chris Bell Yet To Show Off Potential In First Two Weeks (2026-09-22T10:31:13Z)
+  - Source: https://www.rotoballer.com/player-news/chris-bell-yet-to-show-off-potential-in-first-two-weeks/1947390
+- **NEW — Keon Coleman** — Keon Coleman Is A Decent Deep-League Waiver-Wire Target (2026-09-22T10:22:17Z)
+  - Source: https://www.rotoballer.com/player-news/keon-coleman-is-a-decent-deep-league-waiver-wire-target/1947381
+- **NEW — Malik Willis** — Malik Willis Not Yet A Consistent Waiver-Wire Addition (2026-09-22T10:15:06Z)
+  - Source: https://www.rotoballer.com/player-news/malik-willis-not-yet-a-consistent-waiver-wire-addition/1947371
+- **NEW — Terrance Ferguson** — Terrance Ferguson A Priority Add After Good Showing (2026-09-22T10:08:19Z)
+  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-a-priority-add-after-good-showing/1947367
+- **NEW — Malachi Fields** — Malachi Fields Is Worth a Look in Deep Leagues (2026-09-22T09:56:05Z)
+  - Source: https://www.rotoballer.com/player-news/malachi-fields-is-worth-a-look-in-deep-leagues/1947356
+- **NEW — Adonai Mitchell** — Adonai Mitchell Brings Excellent Upside from the Waiver Wire (2026-09-22T09:52:07Z)
+  - Source: https://www.rotoballer.com/player-news/adonai-mitchell-brings-excellent-upside-from-the-waiver-wire/1947352
+- **NEW — Dontayvion Wicks** — Dontayvion Wicks Makes a Solid WR Addition in All Formats (2026-09-22T09:39:49Z)
+  - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-makes-a-solid-wr-addition-in-all-formats/1947343
+- **NEW — Daniel Jones** — Daniel Jones Can Help Fill a QB Need (2026-09-22T09:29:05Z)
+  - Source: https://www.rotoballer.com/player-news/daniel-jones-can-help-fill-a-qb-need/1947334
+- **NEW — Dalton Schultz** — Dalton Schultz Is a Priority Pickup for Week 3 (2026-09-22T09:18:18Z)
+  - Source: https://www.rotoballer.com/player-news/dalton-schultz-is-a-priority-pickup-for-week-3/1947324
 - **Malachi Fields** — Malachi Fields - Another two grabs in loss (2026-09-22T04:21:20Z)
   - Fields finished third in receptions and second in targets for the Giants on a night when Jaxson Dart (knee) exited after just one series. One of Fields' catches came during that opening drive, as he secured a 14-yard grab on third down to move the chains. The  rookie third-round pick has enjoyed a solid complementary role over his first two NFL games, posting a 4-55-0 line on 10 targets. Fields is slotting in ahead of veteran Darnell Mooney on the depth chart heading into a Week 3 home matchup against the Titans on Sunday.
 - **Jordan James** — Jordan James - Four carries in fourth quarter (2026-09-22T04:14:47Z)
@@ -164,64 +232,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Nacua showed up on the Rams' injury report Friday as a non-participant due to a hip injury and sat out again Saturday before the team termed him questionable for Week 2 action. He began trending the wrong way to play as the weekend went on, though, and now that Nacua is officially out, Adams should have unfettered access to passes from QB Matthew Stafford on Monday. In the one game in which Nacua missed last season (Week 7 at Jacksonville), Adams took full advantage of his eight targets, turning them into five catches for 35 yards and three touchdowns.
 - **Jaylen Wright** — Jaylen Wright - Considered day-to-day (2026-09-21T23:07:25Z)
   - Wright suffered a stinger during Sunday's 35-13 loss to the 49ers, and he finished his day having turned two carries into 11 yards while also adding 79 kickoff-return yards. The running back's status at the team's first practice of the week Wednesday will shed some more light on his chances to play Week 3 versus the Chiefs.
-- **Ty Simpson** — Ty Simpson - Emergency QB3 for MNF (2026-09-21T23:03:08Z)
-  - Stetson Bennett will once again serve as the Rams' backup to Matthew Stafford, leaving Simpson as the QB3. As the emergency third quarterback, Simpson will not be allowed to play Monday unless both Bennett and Stafford were to leave the game due to injury, illness or ejection.
-- **Xavier Worthy** — Xavier Worthy is Gaining Trust After Week 2 Performance (2026-09-21T23:01:05Z)
-  - Source: https://www.rotoballer.com/player-news/xavier-worthy-is-gaining-trust-after-week-2-performance/1947128
-- **Najee Harris** — Najee Harris - Active for Week 2 (2026-09-21T22:56:56Z)
-  - Harris was a healthy scratch for Week 1 against the Cowboys, but the sixth-year pro will suit up for Monday's road game in Los Angeles. Cam Skattebo will lead the Giants' backfield and Devin Singletary should serve as the team's change-of-pace back, but Harris could see more snaps on offense than Tyrone Tracy, given that the latter coughed up a fumble last week against Dallas.
-- **Pat Freiermuth** — Pat Freiermuth - Accumulates 34 yards in Week 2 loss (2026-09-21T22:54:05Z)
-  - Freiermuth and Darnell Washington were both named starters for Sunday's game, with the former leading all Steelers tight ends with 46 of 67 offensive snaps (68.7 percent). Unlike Week 1 against the Falcons, Freiermuth did not draw a red zone target from Aaron Rodgers in Week 2, with the veteran quarterback averaging just 4.8 yards per pass attempt against New England. Freiermuth will take a 9-78-1 receiving line (on 10 targets) into a Week 3, AFC North divisional showdown against the Bengals.
-- **Puka Nacua** — Puka Nacua (hip) inactive for Week 2 (2026-09-21T22:50:53.865000Z)
-  - Source: https://www.fantasypros.com/nfl/news/609671/puka-nacua-hip-inactive-week-2.php
-- **Puka Nacua** — Puka Nacua - Inactive in Week 2 (2026-09-21T22:50:25Z)
-  - Nacua didn't practice Friday or Saturday due to what officially was listed as a hip issue on the Rams' injury report, but head coach Sean McVay termed the concern "soreness in his groin" Saturday that wasn't related to the psoas discomfort that he dealt with during training camp. Adam Schefter of ESPN reported Sunday morning that Nacua would be a "pre-game decision" before relaying Monday that the wide receiver was "trending the wrong way" to play. Now that Nacua's inactive status is confirmed -- along with Jordan Whittington's (quadriceps) -- Davante Adams will be the team's featured WR in Week 2, with Konata Mumpfield, Xavier Smith and Tutu Atwell also on hand for reps. Nacua's next chance for game action is this coming Sunday at Denver.
-- **Roman Wilson** — Roman Wilson - Leads Steelers with five catches (2026-09-21T22:46:06Z)
-  - Wilson stepped into the WR2 role alongside DK Metcalf for Sunday's game due to the absence of Michael Pittman (foot). Wilson responded by leading all Pittsburgh pass-catchers in receptions, though he averaged only 5.6 yards per catch in a game where Aaron Rodgers averaged only 4.8 yards per pass attempt. Wilson played 55 of 70 offensive snaps in Week 2, which was tied with rookie second-rounder Germie Bernard for second-most among Steelers wide receivers behind DK Metcalf (68). The Steelers will return home for a Week 3 clash against the Bengals, and Wilson and Bernard would both retain their elevated roles if Pittman is not cleared to return.
-- **Germie Bernard** — Germie Bernard - Team-high 35 receiving yards vs. Pats (2026-09-21T22:38:02Z)
-  - The rookie second-rounder operated as the WR3 due to the absence of Michael Pittman (foot). Aaron Rodgers struggled at Gillette Stadium, but Bernard did his part by leading the Steelers pass catchers in receiving yards while finishing second in catches behind Roman Wilson (five) and second in targets to DK Metcalf (nine). Pittman's status for Week 3 against the Bengals on Sept. 27 is up in the air, but even if he was ruled out, Bernard's production (along with the other Steelers pass catchers) will be capped unless Rodgers improves his play.
-- **Khalil Shakir** — Khalil Shakir Could See Expanded Role (2026-09-21T22:34:05Z)
-  - Source: https://www.rotoballer.com/player-news/khalil-shakir-could-see-expanded-role/1947105
-- **Kayshon Boutte** — Kayshon Boutte - Tallies three catches in Week 2 loss (2026-09-21T22:29:38Z)
-  - Both Boutte and Xavier Hutchinson were lined up for larger roles offensively after Nico Collins (hamstring) was ruled out prior to Sunday's game. Boutte and Hutchinson ended with the same number of catches and receiving yards, but it was tight end Dalton Schultz who led all Texans pass catchers with a 12-140-0 receiving line on 14 targets. Collins is expected to miss the Texans' Week 3 tilt against the Colts, so Boutte should have at least one more week serving in an elevated role, though he doesn't appear to be in line for the kind of production bump that Schultz had in Week 2.
-- **Jaylen Wright** — Jaylen Wright is Considered Day-to-Day (2026-09-21T22:27:06Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-wright-is-considered-day-to-day/1947100
-- **Oronde Gadsden** — Oronde Gadsden - Set for elevated role as TE1 (2026-09-21T22:10:59Z)
-  - Both David Njoku (fibula) and Charlie Kolar (forearm) are expected to go on injured reserve due to injuries they suffered during Sunday's loss. Given those injuries, as well as Ladd McConkey being limited by a lingering rib injury, Gadsden should operate in an elevated role in the passing game over the coming weeks. Gadsden showed flashes of promise during the 2025 regular season, including a three-game stretch from Weeks 6 to 8, when he caught 19 passes (on 22 targets) for 309 yards and two touchdowns. The Chargers hit the road for Week 3 against the Bills, whose defense has yielded a 14-116-1 receiving line (on 19 targets) to tight ends through two games.
-- **Xavier Hutchinson** — Xavier Hutchinson - Only three catches on nine looks Week 2 (2026-09-21T22:04:57Z)
-  - Hutchinson operated in an elevated role on offense Sunday due to the absence of Nico Collins (hamstring). Hutchinson's 65 offensive snaps and nine targets were most among all Texans wide receivers, though he ended up catching only three passes from C.J. Stroud, with tight end Dalton Schultz leading Houston's pass catchers with a 12-140-0 receiving line (on 14 targets). Hutchinson has six catches for on 15 targets for 69 yards through two regular-season games, and he would be the WR1 against the Colts in Week 3 if Collins is not cleared to return.
-- **Andrei Iosivas** — Andrei Iosivas - Logs one catch vs. Houston (2026-09-21T22:01:35Z)
-  - Iosivas' lone target from Joe Burrow took place early in the third quarter and set up Evan McPherson to connect on a 51-yard field goal on the next play to put the Bengals up 10-3. Iosivas' 32 offensive snaps were third-most among wide receivers, but he is very clearly behind Ja'Marr Chase, Tee Higgins, Chase Brown and Mike Gesicki in the pecking order for passes from Burrow. Iosivas will take a 3-19-0 receiving line (on four targets) into the Bengals' Week 3 road clash against the Steelers on Sept. 27.
-- **Brian Robinson** — Brian Robinson Limited in Practice on Monday (2026-09-21T21:57:10Z)
-  - Source: https://www.rotoballer.com/player-news/brian-robinson-limited-in-practice-on-monday/1947083
-- **David Njoku** — David Njoku (knee) placed on IR (2026-09-21T21:50:54.032000Z)
-  - Njoku was carted off the field in Sunday's game against the Raiders. With Charlie Kolar (forearm) also placed on IR, Oronde Gadsden is the only healthy tight end on the Chargers right now. 
-  - Source: https://www.fantasypros.com/nfl/news/609659/david-njoku-knee-placed-on-ir.php
-- **Jayden Reed** — Jayden Reed Listed as a Non-Participant on Monday's Injury Report (2026-09-21T21:49:04Z)
-  - Source: https://www.rotoballer.com/player-news/jayden-reed-listed-as-a-non-participant-on-monday-injury-report/1947081
-- **David Njoku** — David Njoku - Set to go on IR (2026-09-21T21:46:11Z)
-  - Both Njoku and Kolar sustained their injuries during Sunday's 26-14 loss to the Raiders, with the former being carter off the field during the second quarter. Both tight ends will be required to miss at least the next four games, so the earliest Njoku can return is Week 8 against the Rams on Sunday, Nov. 1. For the time being, second-year pro Oronde Gadsden, who posted a 49-664-3 receiving line on 69 targets across 15 regular-season games last year, is the only healthy tight end on the Chargers' active roster.
-- **Caleb Douglas** — Caleb Douglas' Week 3 Status in Question, Severity of Ankle Injury Unclear (2026-09-21T21:42:06Z)
-  - Source: https://www.rotoballer.com/player-news/caleb-douglas-week-3-status-in-question-severity-of-ankle-injury-unclear/1947068
-- **Dallas Goedert** — Dallas Goedert suffers MCL sprain, to miss a few weeks (2026-09-21T21:40:53.890000Z)
-  - The injury is expected to sideline Goedert for at least a few weeks. DeVonta Smith, Dontayvion Wicks and Makai Lemon should all step up even more in the passing game for Jalen Hurts. 
-  - Source: https://www.fantasypros.com/nfl/news/609658/dallas-goedert-suffers-mcl-sprain-to-miss-few-weeks.php
-- **Jayden Reed** — Jayden Reed - Estimated as non-participant in practice (2026-09-21T21:30:56Z)
-  - Reed's listing comes as little surprise after he was carted off the field on a backboard after injuring his back during the Packers' first possession of Sunday's 20-17 overtime win over the Jets. Though Reed was held overnight in New Jersey for further observation, he's slated to return to Green Bay in the coming days while the Packers evaluate a treatment plan for the wideout. Clarity on the severity of Reed's injury as well as a timeline for his return should become available in the next day or two, but the 26-year-old will be facing an uphill battle to suit up in Thursday's game against the Falcons.
-- **Alec Pierce** — Alec Pierce Set to Miss "Several Weeks," Could Return Midseason (2026-09-21T21:20:06Z)
-  - Source: https://www.rotoballer.com/player-news/alec-pierce-set-to-miss-several-weeks-could-return-midseason/1947044
-- **Dallas Goedert** — Dallas Goedert - Set to miss time with MCL sprain (2026-09-21T21:10:53Z)
-  - Goedert went down in the second quarter of Sunday's 24-20 win over the Titans with the injury and now appears to be headed for a multi-week absence. While Goedert missed the entire second half of the Week 2 win, Johnny Mundt and E.J. Jenkins handled tight-end duties, but neither saw major involvement in the passing game. During Goedert's upcoming absence, wideouts Dontayvion Wicks and Makai Lemon could be the biggest beneficiaries of added targets behind No. 1 receiver DeVonta Smith.
-- **Tua Tagovailoa** — Tua Tagovailoa - Limited, could back up Penix in Week 3 (2026-09-21T21:08:10Z)
-  - Earlier Monday, head coach Kevin Stefanski told Josh Kendall of The Athletic that Tagovailoa was "getting better" after missing the Falcons' first two games of the season due to the oblique strain. The quarterback appears to have backed up his coach's comments by getting upgraded to a limited listing on the practice report, but Tagovailoa could need to participate fully Tuesday or Wednesday to put himself on a path to play Thursday against the Packers. If he's available for the Week 3 contest, Tagovailoa will be relegated to a backup role after the Falcons named Michael Penix (knee) their starting quarterback, per Tori McElhaney of the team's official site.
-- **Brian Robinson** — Brian Robinson - Dealing with ankle injury (2026-09-21T21:05:16Z)
-  - The ankle issue is a new concern for Robinson, who has thus far parlayed 22 touches for 98 total yards through the first two games of the season while operating in a backup role behind Bijan Robinson. Brian Robinson will have two more chances to potentially upgrade to full practice activity, which would clear the way for him to play Thursday at Green Bay.
-- **Demarcus Robinson** — Demarcus Robinson (ankle) could be placed on IR  (2026-09-21T21:00:27.916000Z)
-  - Robinson would be forced to miss at least four games if he is placed on IR. 
-  - Source: https://www.fantasypros.com/nfl/news/609646/demarcus-robinson-ankle-could-be-placed-on-ir.php
-- **Caleb Douglas** — Caleb Douglas dealing with ankle injury (2026-09-21T21:00:27.891000Z)
-  - Douglas will need to be monitored in practice this week for his ankle injury. 
-  - Source: https://www.fantasypros.com/nfl/news/609648/caleb-douglas-dealing-with-ankle-injury.php
-- **Jaylen Wright** — Jaylen Wright (neck/shoulder) day-to-day  (2026-09-21T21:00:27.877000Z)
-  - Wright left Sunday's game early with a neck/shoulder injury. 
-  - Source: https://www.fantasypros.com/nfl/news/609649/jaylen-wright-neckshoulder-day-to-day.php
